@@ -1,0 +1,93 @@
+#!/usr/bin/env ruby
+require 'json'
+require 'yaml'
+
+M = %w[en ko ja].freeze
+S = { 'scene' => 3, 'sudden' => 5, 'archive' => 7 }.freeze
+
+R = -> { JSON.parse(File.read "#{it}.json") }
+A = -> { File.write "#{$*[0] || 'forbidden-library'}/#{_1}.yaml", _2.to_yaml }
+P = -> doro, &eden { (doro.is_a?(Hash) ? doro.to_a : doro.is_a?(Array) ? doro : []).flat_map { _2.nil? ? P[_1, &eden] : (_1['_localkey'] && (coo = eden[_1, _2]) ? [[_1, coo]] : []) + P[_2, &eden] } }
+U = -> { _2.is_a?(Hash) ? _2                       ['value']        : (_2.is_a?(String) && _2) }
+N = -> { _2.is_a?(Hash) ? _2.find { |coo, _| coo != 'value' }&.last : (_2.is_a?(String) && _2) }
+Z = -> doro { M.to_h { [it, P[R[doro.is_a?(Proc) ? doro[it] : "#{doro}-#{it}"], &N].group_by(&:first).transform_values { it.map(&:last) }] } }
+E = -> doro, eden { doro.each_with_object({}) { |(co, coooo), coo| coo[coooo.split(':', 2).last] = M.to_h { [it, eden[it][co].shift] } } }
+L = -> { it.each_with_object({}) { |(_, co), coo| co.each { |cooooo, coooo| (coo[cooooo] ||= {}).tap { it['speaker'] ||= coooo['speaker']; it.merge!(coooo.reject { it == 'speaker' }) } } } }
+
+pt = -> { A[it, E[P[R[it], &U].select { _2[':'] }, Z[it]]] }
+
+pr = -> {
+ R["character/#{M[1]}/nikke_list"].map { _1['resource_id'] }.uniq.each { |coo|
+  Z[-> { "roledata/#{coo}-#{it}" }].then {
+   A[
+    "roledata/[#{'%03d' % coo}] #{it[M[0]]['name_localkey'].first}",
+    E[P[R["roledata/#{coo}"], &U].select { _2[':'] }, it]
+   ]
+  }
+ }
+}
+
+ps = -> doro {
+ A[
+  doro.sub(%r{.*/}, ''),
+  E[P[R[doro], &U].select { _2[':'] }, Z[-> { it == M[1] ? doro : doro.sub(%r{/#{M[1]}/(.*)_list}, "/#{it}/\\1_list_#{it}") }]]
+ ]
+}
+
+pd = -> doro, eden {
+ eden.each { |coo, coooo|
+  A[
+   "scene_detail/#{doro}/[#{"%0#{S[doro]}d" % coo}] #{doro == 'archive' ?
+    R.call("archive/#{M[1]}/archive_list").find { it['id'] == coo }['record_slot_bg_addressable'] :
+    R.call("scene/#{M[0]}/#{doro}_list_#{M[0]}").find { it['sub_category_id']['value'] == coo }['sub_category_name_localkey']['chapter_name']
+   }",
+   coooo.to_h { |cooo|
+    [cooo, L[M.to_h { |co|
+     [co, (R.call(
+      co == M[1] ? "scene/#{M[1]}/scene_detail_#{cooo}" : "scene/#{co}/scene_detail_#{cooo}_#{co}"
+     ).dig('scenario_group_id', 'records', 'value') || []).to_h {[
+      it.dig('value', 'id'),
+      { 'speaker' => it.dig('speaker', 'value') || it.dig('value', 'speaker') || "<#{it.dig('value', 'speech_window')}>", co => it['quest_name'] }
+     ]}]
+    }]]
+   }
+  ]
+ }
+}
+
+pa = -> {
+ R["character/#{M[1]}/nikke_list"].map { it['resource_id'] }.uniq.each {
+  A[
+   "attractscene/[#{'%03d' % it}] #{R["roledata/#{it}-#{M[0]}"]['name_localkey']}",
+   R["roledata/#{it}"]['attractive_scenario_list'].map { it['attractive_scenario_group_id'] }.to_h { |coo|
+    [coo, L[M.to_h { |cooo|
+     [cooo, (R["attractscene/#{coo}-#{cooo}"]['records'] || []).to_h {
+      [it['id'], { 'speaker' => it['speaker'] || "<#{it['speech_window']}>", cooo => it['scenario_localkey'] }]
+     }]
+    }]]
+   }
+  ]
+ }
+}
+
+sg = -> {
+ case it
+ when 'scene', 'sudden'
+  R["scene/#{M[1]}/#{it}_list"].to_h {
+   [it['sub_category_id']['value'], it['sub_category_id']['scenes']['value'].map { it['value']['scenario_group_id'] }]
+  }
+ when 'archive'
+  R["archive/#{M[1]}/archive_list"].to_h {[
+   it['id'],
+   (it.dig('record_main_archive_event_id', 'event', 'child', 'value') || []).flat_map {
+    (it.dig('story', 'album', 'scene', 'sub_category_id', 'scenes', 'value') || []).map { it['value']['scenario_group_id'] }
+   }
+  ]}
+ end
+}
+
+%w[equip/EquipmentOptionTable equip/ItemEquipTable].each(&pt)
+pr[]
+%W[scene/#{M[1]}/scene_list scene/#{M[1]}/sudden_list archive/#{M[1]}/archive_list].each(&ps)
+%w[scene sudden archive].map { [it, sg[it]] }.each { pd[*it] }
+pa[]

@@ -1,0 +1,56 @@
+name: Arcana
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '16 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  arcana:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Shiftypad
+        uses: actions/checkout@v4
+        with:
+          repository: LiviaMedeiros/megashit
+          token: ${{ secrets.MEGASHIT_PAT }}
+          path: megashit
+
+      - name: Arcana
+        uses: actions/checkout@v4
+        with:
+          path: arcana
+
+      - name: Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+
+      - name: Memory wipe
+        run: find arcana/forbidden-library -type f -name "*.yaml" -delete
+
+      - name: Yunicode
+        working-directory: ${{ github.workspace }}/megashit/megashit
+        run: ../../arcana/arcana.yunicode ../../arcana/forbidden-library
+
+      - name: Commit
+        working-directory: ${{ github.workspace }}/arcana
+        run: |
+          if [ -n "$(git status --porcelain forbidden-library)" ]; then
+            DATE="$(git -C ../megashit log -1 --pretty=format:'%aI')"
+            export GIT_AUTHOR_DATE="$DATE"
+            export GIT_COMMITTER_DATE="$DATE"
+            git config user.name "Mecha Shifty"
+            git config user.email "messy@cirno.name"
+            git add forbidden-library
+            git commit -m "upd: $DATE"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+        env:
+          DATE: ${{ steps.run_update.outputs.DATE }}
