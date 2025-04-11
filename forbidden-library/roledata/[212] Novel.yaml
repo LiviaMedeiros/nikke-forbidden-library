@@ -1,0 +1,472 @@
+---
+212_name:
+  en: Novel
+  ko: 노벨
+  ja: ノベル
+c212_description:
+  en: A detective who is a fan of Sherlock Holmes. Her intense curiosity inevitably
+    draws her towards any nearby crime scene. Although she is in Protocol, she has
+    great difficulty operating machines.
+  ko: "셜록 홈즈를 동경하는 사립 탐정. \n사건이 있는 곳이라면 어디든 달려가는 넘치는 호기심의 소유자. \n프로토콜 스쿼드 소속이지만 기계와
+    친하진 않다."
+  ja: |-
+    シャーロック・ホームズに憧れている私立探偵。
+    事件がある所ならどこにでも駆けつける、
+    好奇心旺盛な少女。
+    プロトコール部隊所属だが、機械の扱いは苦手。
+212_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50212:
+  en: Novel's Spare Body
+  ko: 노벨 스페어 바디
+  ja: ノベルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22122_name:
+  en: Detective's Intuition
+  ko: 탐정 도구인 것입니다!
+  ja: 探偵グッズであります！
+22122_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF> Cornucopia: DEF▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 자신에게
+    <color=#00AEFF>[증거품 수집 : 방어력 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、自分に
+    <color=#00AEFF>「証拠品収集：防御力{description_value_02}％▲」
+    「{description_value_03}スタック」
+    「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+12121_name:
+  en: Something's Fishy Here
+  ko: 수상한 것입니다!
+  ja: 怪しいのであります！
+12121_description:
+  en: "■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group>
+    DEF. \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as damage.\nDEF ▼ {description_value_03}% for {description_value_04} sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]
+    [방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」
+    「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12123_name:
+  en: Case Closed
+  ko: 사건 해결인 것입니다!
+  ja: 事件解決であります！
+12123_description_1:
+  en: |-
+    ■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Activates when Cornucopia is fully stacked. Affects {description_value_03} enemy unit(s).
+    <color=#00AEFF>Damage Taken ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
+    ■ 자신이 증거품 수집 최대 중첩 상태라면 추가로 적 {description_value_03}기에게
+    <color=#00AEFF>[받는 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のバーストスキルダメージ」</color>
+    ■自分が証拠品収集のフルスタック状態なら、さらに敵{description_value_03}機に
+    <color=#00AEFF>「受けるダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+210_name:
+  en: Exia
+  ko: 엑시아
+  ja: エクシア
+c212_Lobby_Touch_1:
+  en: Looks like we've got ourselves a mystery!
+  ko: 오옷, 어디선가 사건의 냄새가 나는 것입니다!
+  ja: おお、どこからか事件のにおいがします！
+c212_Lobby_Touch_2:
+  en: The bathroom door is locked? It must be... a locked room mystery!
+  ko: "화장실 문이 잠겼다고요? 그건 틀림없이… \n밀실 살인 사건인 것입니다!"
+  ja: |-
+    トイレに鍵がかかっているですと？
+    これは間違いなく…密室殺人事件であります！
+c212_Lobby_Touch_3:
+  en: A detective's intuition comes and goes in an instant.
+  ko: "…명탐정의 감이 번득이는 것입니다."
+  ja: "…名探偵の勘が力を発揮する瞬間なのです。"
+c212_Lobby_Touch_Love_1:
+  en: |-
+    Doing detective work with you always brings me great pleasure, Watson!
+    Let's do it again some time!
+  ko: |-
+    왓슨과 추리하는 건 언제나 즐거운 것입니다!
+    앞으로 저와 함께 하는 것입니다!
+  ja: |-
+    ワトソンと一緒に推理するのはとても楽しいのであります！
+    どうぞよろしくなのであります！
+c212_Lobby_Touch_Love_2:
+  en: Hmm... Looking around, the only thing I can see is you, Watson!
+  ko: 흐음~ 주위를 둘러보니 왓슨밖에 안 보이는 것입니다!
+  ja: ふ～む、どこを見てもワトソンしか見えないのであります！
+c212_Lobby_Touch_Love_3:
+  en: |-
+    I have to say, Watson...
+    It seems that our tastes are quite similar!
+  ko: "왓슨은 정말… \n저와 하나부터 열까지 모든 취향이 겹치는 것입니다!"
+  ja: |-
+    どう考えてもワトソンは…
+    完璧に私と趣味が一致するのであります！
+c212_Lobby_Stay_1:
+  en: Watson? Watson! Where are you?
+  ko: 왓슨? 왓슨?! 어디 간 것입니까?
+  ja: |-
+    ワトソン？ワトソン！？
+    どこに行ったのですか？
+c212_Lobby_Stay_Love_1:
+  en: |-
+    Hmm, it seems Watson has disappeared...
+    Time to put my sleuthing skills to the test.
+  ko: |-
+    …후후. 왓슨이 사라지다니…
+    지금부터 명탐정의 감으로 왓슨이 있는 곳을 찾아내는 것입니다!
+  ja: |-
+    …ふふ。ワトソンが消えた…ただ今より、名探偵の勘で
+    ワトソンの居場所を突き止めるのであります！
+c212_Outpost_Touch_1:
+  en: Don't disturb me! I'm trying to make a deduction.
+  ko: 추리 중이니 방해하지 않는 것입니다.
+  ja: 推理中なので 邪魔しないでください。
+c212_Outpost_Touch_2:
+  en: How long do I have to rummage through this stuff... Ah hah! Found something!
+  ko: |-
+    뒤적뒤적. 뒤적뒤적.
+    …아니, 이 물건은!?
+  ja: |-
+    ゴソゴソ。ゴソゴソ。
+    …はっ、この品物は！？
+c212_Outpost_Touch_3:
+  en: Where does a detective's intuition come from? Probably from... the Radio Tower??
+  ko: |-
+    명탐정의 감은 어디서 오는 것이냐고요?
+    아마도…… 전파탑??
+  ja: |-
+    名探偵の勘はどこから生まれるのか ですって？
+    たぶん…電波塔から？？
+c212_Gacha_Get_1:
+  en: Wherever there's an unsolved mystery, you can bet I'll be close by!
+  ko: 사건이 있는 곳이라면 어디든지 달려가는 것입니다.
+  ja: 事件がある場所ならどこへだって飛んでいきます。
+c212_Reinforce_1:
+  en: My power of deduction seems to have improved!
+  ko: 추리력이 상승한 것입니다!
+  ja: 推理力が上昇した模様です！
+c212_Reinforce_2:
+  en: Thank you for all your support.
+  ko: 지원에 감사드리는 것입니다.
+  ja: ご支援に感謝いたします。
+c212_Reinforce_3:
+  en: Heh heh, my intuition has become sharper.
+  ko: 후후. 감이 날카로워진 것입니다.
+  ja: ふふ。勘がもっとよくなった気がします。
+c212_Gift_1:
+  en: I-is this a gift? Interesting.
+  ko: "아니, 이 선물은…? \n흥미로운 것입니다."
+  ja: |-
+    おっと、このプレゼントは…？
+    興味深いアイテムであります。
+c212_Gift_2:
+  en: This gift certainly has piqued my curiosity!
+  ko: 호기심을 자극하는 선물인 것입니다!
+  ja: 好奇心が刺激されるプレゼントなのであります！
+c212_Gift_3:
+  en: I'm ecstatic!
+  ko: 너무나도 기쁜 것입니다!
+  ja: とても嬉しいのであります！
+c212_Attractive_Up_1:
+  en: Is love something that can be deduced? What I mean is... Better not expose myself.
+  ko: |-
+    사랑이라는 감정도 추리가 가능한 것일까요?
+    제 말은 그러니까… 들키고 싶지 않아서요.
+  ja: |-
+    愛という感情も推理が可能でしょうか？
+    私が言いたいのは…つまりバレたくないのです。
+c212_Attractive_Up_2:
+  en: If only I could find my magnifying glass to peer inside your mind.
+  ko: 돋보기로 왓슨의 생각을 들여다보고 싶은 것입니다.
+  ja: 虫眼鏡でワトソンが何を考えているのか探ってみたいのであります。
+c212_Attractive_Up_3:
+  en: Do you feel the same way as I? Let me make some deductions.
+  ko: 왓슨도 저와 같은 마음인 건지… 추리해 보고 싶은 것입니다.
+  ja: |-
+    ワトソンも私と同じ想いかどうか…
+    推理してみたいのであります。
+c212_Party_Deploy_1:
+  en: Need my sleuthing skills?
+  ko: 저의 추리력이 필요한 것입니까!
+  ja: 私の推理力が必要でしょうか！
+c212_Field_Touch_1:
+  en: Standing by.
+  ko: 대기 중인 것입니다.
+  ja: 待機中であります。
+c212_Field_Go_1:
+  en: Oops!! Um... Should I go in person?
+  ko: "마차!! \n…아. 직접 가야 하나요?"
+  ja: |-
+    馬車！！
+    …あ。自分で行けってですか？
+c212_Battle_Enter_1:
+  en: The battle has begun!
+  ko: 전투를 시작하는 것입니다!
+  ja: 戦闘を始めるのであります！
+c212_Battle_Ready_1:
+  en: I'll make it quick!
+  ko: 속전속결로 해치우는 것입니다!
+  ja: 速戦即決で片付けるのであります！
+c212_Battle_Ready_2:
+  en: Sleuthing skills, activate!
+  ko: 추리를 시작하는 것입니다!
+  ja: 推理を始めるのであります！
+c212_Battle_Ready_3:
+  en: I'll show you all what a Nikke detective can do!
+  ko: 니케 탐정단의 힘을 보여주는 것입니다!
+  ja: ニケ探偵団の力の見せ所であります！
+c212_Reload_1:
+  en: Reloading!
+  ko: 장전하는 것입니다.
+  ja: 装填するのであります！
+c212_Reload_2:
+  en: Come on!
+  ko: 읏차.
+  ja: うっしゃ。
+c212_Reload_3:
+  en: Hurry up!
+  ko: 빨리빨리!
+  ja: 急いで、急いで！
+c212_Ult_Skill_Ready_1:
+  en: Idea!
+  ko: 번뜩인 것입니다!
+  ja: ヒラメキなのでございます！
+c212_Ult_Skill_1:
+  en: Heh heh heh! Eureka!
+  ko: 흠흠 흐으음… 아니잇!! 추리가 완성된 것입니다!
+  ja: ふむふむ、何と！！推理が完成したのであります！
+c212_FullBurst_1:
+  en: There's no case I can't crack!
+  ko: 이것이 바로 니케 탐정단의 풀 파워인 것입니다!
+  ja: これこそまさしくニケ探偵団のフルパワーなのであります！
+c212_Kill_Monster_1:
+  en: Consider this case closed!
+  ko: 처치 완료!
+  ja: 退治完了！
+c212_Kill_Monster_2:
+  en: Gotcha!
+  ko: 범인을 잡은 것입니다.
+  ja: 犯人を捕まえたのであります。
+c212_Kill_Monster_3:
+  en: That should be all of them, heh heh.
+  ko: 끝장을 본 것입니다. 후후.
+  ja: ジ・エンドであります。ふふふ。
+c212_Damage_1:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c212_Damage_2:
+  en: Ah!
+  ko: 앗!
+  ja: はっ！
+c212_Damage_3:
+  en: Ugh!
+  ko: 헙!
+  ja: ほっ！
+c212_Die_1:
+  en: I should have checked harder...
+  ko: 으윽, 관찰이 부족했던 것입니다….
+  ja: ううっ、観察が不十分だった模様です…
+c212_Win_1:
+  en: Elementary, my dear Watson!
+  ko: 후후. 군더더기 없는 승리인 것입니다.
+  ja: ふふ。完璧な勝利であります。
+212_cv_ja:
+  en: 'CV: Kaede Hondo'
+  ko: 'CV : 혼도 카에데'
+  ja: CV：本渡楓
+212_cv_ko:
+  en: 'CV: Kim Chae-ha'
+  ko: 'CV : 김채하'
+  ja: CV：キム・チェハ
+212_cv_en:
+  en: 'CV: Kira Buckland'
+  ko: 'CV : 키라 버클랜드'
+  ja: CV：Kira Buckland

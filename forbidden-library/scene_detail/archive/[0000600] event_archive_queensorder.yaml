@@ -1,0 +1,6607 @@
+---
+event_queensorder_prologue:
+  event_queensorder_prologue_1:
+    speaker: child01
+    en: That's my apple-flavored Splendamin! Get your grubby mitts off it!
+    ko: 그 사과 맛 퍼펙트 내 거야! 먹지 마!
+    ja: |-
+      そのリンゴ味のパーフェクトはボクのだよ！
+      食べちゃダメ！
+  event_queensorder_prologue_2:
+    speaker: rosanna
+    en: Huh? What?
+    ko: 허? 뭐라니?
+    ja: ハァ？何言ってんの？
+  event_queensorder_prologue_3:
+    speaker: rosanna
+    en: Listen you little squirt. I'm the one who pays your dad.
+    ko: 야. 네 아빠한테 돈 주는 사람이 나거든?
+    ja: |-
+      ねえ。あんたのパパに
+      お金をあげてんのはあたしだよ？
+  event_queensorder_prologue_4:
+    speaker: rosanna
+    en: If you want to get technical, I have just as much right to this Splendamin
+      as you do.
+    ko: "이 사과 맛 퍼펙트도 어? \n엄연히 따지면 내 거일 수도 있다는 얘기…."
+    ja: |-
+      このリンゴ味のパーフェクトもさぁ、
+      厳密に言えばあたしのものって…
+  event_queensorder_prologue_5:
+    speaker: child01
+    en: Nuh-uh! My dad bought it for me!
+    ko: 아니야! 아빠가 사준 거야!
+    ja: 違うよ！パパが買ってくれたんだもん！
+  event_queensorder_prologue_6:
+    speaker: middlemember
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_prologue_7:
+    speaker: rosanna
+    en: Well, aren't you a feisty one?
+    ko: 하하. 이 맹랑한 것 좀 봐라?
+    ja: アハハ。しっかりしてるね。
+  event_queensorder_prologue_8:
+    speaker: middlemember
+    en: I-I'm sorry, Boss!
+    ko: 죄, 죄송합니다. 보스!
+    ja: も、申し訳ありません。ボス！
+  event_queensorder_prologue_9:
+    speaker: middlemember
+    en: He's still young, he...
+    ko: 저희 애가 아직 어려서…!
+    ja: この子はまだ小さいので…！
+  event_queensorder_prologue_10:
+    speaker: rosanna
+    en: What are you so scared for?
+    ko: 뭘 쫄고 그래.
+    ja: 何ビビってんの？
+  event_queensorder_prologue_11:
+    speaker: rosanna
+    en: A bright kid like him has a bright future ahead of him.
+    ko: 맹랑한 게 안 죽고 잘 크겠구만.
+    ja: 世渡り上手で、生き残れそうじゃん。
+  event_queensorder_prologue_12:
+    speaker: rosanna
+    en: Just make sure you keep him well-fed so he grows up big and strong.
+    ko: 크면서 비실해지지 않게 굶기지 말고 키워.
+    ja: しっかり食わせてやんなよ。
+  event_queensorder_prologue_13:
+    speaker: middlemember
+    en: Yes, Boss!!
+    ko: 예, 보스!!
+    ja: はい、ボス！！
+  event_queensorder_prologue_14:
+    speaker: "<Monologue>"
+    en: Rosanna gives back the apple-flavored Splendamin.
+    ko: 로산나가 사과 맛 퍼펙트를 돌려주었다.
+    ja: |-
+      ロザンナはリンゴ味のパーフェクトを
+      返してあげた
+  event_queensorder_prologue_15:
+    speaker: rosanna
+    en: "You're right, this is yours. \nDon't let people steal your things like I
+      just tried to do."
+    ko: |-
+      그래, 네 거 맞아.
+      지금처럼 딴 놈들한테 네 거 뺏기지 말고 잘 챙겨 먹어.
+    ja: |-
+      そう、あんたのだよ。
+      今みたいに誰かに奪われないように
+      ちゃんと食べな。
+  event_queensorder_prologue_16:
+    speaker: child01
+    en: "... Okay."
+    ko: "…응."
+    ja: "…うん。"
+  event_queensorder_prologue_17:
+    speaker: rosanna
+    en: Now that I think about it, I'm feeling a might peckish myself.
+    ko: 말하다 보니 나도 배고프네~
+    ja: |-
+      おしゃべりしてたら、
+      あたしもお腹減っちゃった。
+  event_queensorder_prologue_18:
+    speaker: rosanna
+    en: Let's get some grub.
+    ko: 우리도 밥이나 먹으러 가자.
+    ja: あたしらも食事にしよ。
+  event_queensorder_prologue_19:
+    speaker: ribbonmember
+    en: I'll have them prepare your usual.
+    ko: "늘 드시던 걸로 준비해놓으라고 했습니다. \n들어가시죠."
+    ja: |-
+      いつものメニューを頼んでおきました。
+      中へどうぞ。
+  event_queensorder_prologue_20:
+    speaker: rosanna
+    en: Very good. Let's head in.
+    ko: |-
+      그래~
+      애들아 들어가자.
+    ja: |-
+      オッケー。
+      みんな、行くよ。
+  event_queensorder_prologue_21:
+    speaker: consigliere
+    en: Boss.
+    ko: 보스.
+    ja: ボス。
+  event_queensorder_prologue_22:
+    speaker: consigliere
+    en: Red Grass is apparently purchasing large amounts of incendiary devices.
+    ko: 붉은 덤불 쪽에서 다량의 폭탄을 매입하고 있다고 합니다.
+    ja: |-
+      「レッドブッシュ」が大量の爆弾を
+      仕入れているそうです。
+  event_queensorder_prologue_23:
+    speaker: rosanna
+    en: Red Grass... that's one of the new gangs, isn't it? What are they gathering
+      bombs for?
+    ko: |-
+      붉은 덤불이면… 갱단 애들 아냐?
+      걔들이 폭탄을 왜?
+    ja: |-
+      レッドブッシュって…ギャングじゃないっけ？
+      なんで爆弾を？
+  event_queensorder_prologue_24:
+    speaker: rosanna
+    en: Are they orchestrating a terror attack?
+    ko: 테러라도 준비한대?
+    ja: テロでもする気？
+  event_queensorder_prologue_25:
+    speaker: consigliere
+    en: Hard to say.
+    ko: 글쎄요.
+    ja: さあ。
+  event_queensorder_prologue_26:
+    speaker: consigliere
+    en: We're not sure at this point,
+    ko: 그건 알 수 없습니다만.
+    ja: それは分かりませんが…
+  event_queensorder_prologue_27:
+    speaker: consigliere
+    en: but their activity has been very suspect as of late.
+    ko: 자금의 흐름이 좀 이상합니다.
+    ja: 資金の流れに少々気になるところが。
+  event_queensorder_prologue_28:
+    speaker: rosanna
+    en: Such as?
+    ko: 뭐가.
+    ja: どういうこと？
+  event_queensorder_prologue_29:
+    speaker: consigliere
+    en: Their pockets aren't nearly deep enough to buy that many explosives.
+    ko: 녀석들은 그렇게 폭탄을 사들일 수 있는 돈이 없습니다.
+    ja: |-
+      奴らは爆弾を買い込めるほどの
+      金を持っていません。
+  event_queensorder_prologue_30:
+    speaker: rosanna
+    en: What is it then?
+    ko: 그럼 뭐야.
+    ja: じゃあ、何？
+  event_queensorder_prologue_31:
+    speaker: rosanna
+    en: Have they got a connection in the Ark footing the bill?
+    ko: 방주 쪽에 돈줄이라도 있다?
+    ja: アークに金ヅルでもいるってこと？
+  event_queensorder_prologue_32:
+    speaker: consigliere
+    en: It could very well be possible.
+    ko: 그렇게도 해석할 수 있겠죠.
+    ja: そう解釈することもできますね。
+  event_queensorder_prologue_33:
+    speaker: consigliere
+    en: Whatever the reason, our main consideration should be
+    ko: 어느 쪽이든 보스에게 위협이 될 수 있다는 점만
+    ja: |-
+      いずれにしろ、ボスにとって
+      脅威となり得るということを
+  event_queensorder_prologue_34:
+    speaker: consigliere
+    en: how much of a danger it does or doesn't pose to you.
+    ko: 인지해두시는 쪽이 좋을 것 같습니다.
+    ja: 認識しておかれた方がよろしいかと。
+  event_queensorder_prologue_35:
+    speaker: rosanna
+    en: Why are you getting yourself so worked up over something so trivial?
+    ko: 뭘 그런 걸로 호들갑 떨고 그래.
+    ja: そんなことでイチイチ騒がないでよ。
+  event_queensorder_prologue_36:
+    speaker: rosanna
+    en: It's not like they're the only ones in the Outer Rim fond of playing with
+      bombs.
+    ko: 아우터 림에서 폭탄 만지는 애들이 한두 명 있는 것도 아니고~
+    ja: |-
+      アウターリムで爆弾を扱ってる奴なんて
+      大勢いるでしょ。
+  event_queensorder_prologue_37:
+    speaker: rosanna
+    en: But I hear you. I'll be careful.
+    ko: 그래~ 기껏 조심하라고 한 거니까 조심하지 뭐.
+    ja: |-
+      まあ、せっかく注意してくれたんだから、
+      一応気を付けとく。
+  event_queensorder_prologue_38:
+    speaker: "<Narration>"
+    en: "*Screech*"
+    ko: 끼이익-
+    ja: キィィー
+  event_queensorder_prologue_39:
+    speaker: rosanna
+    en: Hello lady, I'm com...!
+    ko: 할멈 나왔…!
+    ja: ばあちゃん、お待た…！
+  event_queensorder_prologue_40:
+    speaker: "<Narration>"
+    en: Beep-!
+    ko: 삣-!
+    ja: ピッ！
+  event_queensorder_prologue_41:
+    speaker: rosanna
+    en: "!!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_prologue_42:
+    speaker: consigliere
+    en: Boss, get back!
+    ko: 보스 피하십시오!
+    ja: ボス、逃げてください！
+  event_queensorder_prologue_43:
+    speaker: "<Narration>"
+    en: "*Beep beep beep beep*"
+    ko: 삐삐삐삐-
+    ja: ピピピピー
+  event_queensorder_prologue_44:
+    speaker: rosanna
+    en: Agh!
+    ko: 아.
+    ja: あ。
+  event_queensorder_prologue_45:
+    speaker: rosanna
+    en: This may be more dangerous than I thought...
+    ko: 이건 좀 위험하겠는데.
+    ja: これは、ちょっとヤバいかも。
+  event_queensorder_prologue_46:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 콰앙-
+    ja: ドンッ！
+  event_queensorder_prologue_47:
+    speaker: "<Monologue>"
+    en: An explosion occurred.
+    ko: 폭발이 일어났다.
+    ja: 爆発が起こった
+event_queensorder_01_s:
+  event_queensorder_01_s_1:
+    speaker: "<Monologue>"
+    en: All of the other Counter members have left to run errands and tend to their
+      own personal affairs.
+    ko: 그날은 비가 오는 날이었다.
+    ja: その日は雨が降っていた
+  event_queensorder_01_s_2:
+    speaker: "<Monologue>"
+    en: It's mid-afternoon, and it's raining.
+    ko: 카운터스의 일원들 모두 개인적인 일로 자리를 비웠던,
+    ja: |-
+      カウンターズはみんな
+      個人的な用事で出払っている
+  event_queensorder_01_s_3:
+    speaker: "<Monologue>"
+    en: That afternoon.
+    ko: 그날 오후.
+    ja: そんな午後
+  event_queensorder_01_s_4:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ブルルルー
+  event_queensorder_01_s_5:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_01_s_6:
+    speaker: "<Narration>"
+    en: "*Crashh*"
+    ko: 우탕당-
+    ja: バタンッ
+  event_queensorder_01_s_7:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_queensorder_01_s_8:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_queensorder_01_s_9:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_01_s_10:
+    speaker: "<Self>"
+    en: Rosanna...?
+    ko: 로산나…?
+    ja: ロザンナ…？
+  event_queensorder_01_s_11:
+    speaker: "<Narration>"
+    en: "*Splat*"
+    ko: 털썩-
+    ja: ドサッ
+  event_queensorder_01_s_12:
+    speaker: "<Monologue>"
+    en: Rosanna collapses to the ground.
+    ko: 로산나가 바닥에 쓰러졌다.
+    ja: ロザンナが地面に倒れた
+  event_queensorder_01_s_13:
+    speaker: "<Self>"
+    en: Rosanna!
+    ko: 로산나!
+    ja: ロザンナ！
+event_queensorder_01_e:
+  event_queensorder_01_e_1:
+    speaker: mary
+    en: Hmm...
+    ko: 지휘관.
+    ja: 指揮官。
+  event_queensorder_01_e_2:
+    speaker: "<Self>"
+    en: How is she?
+    ko: 어때?
+    ja: どうだ？
+  event_queensorder_01_e_3:
+    speaker: mary
+    en: She's pretty roughed up. It looks like a bomb went off right in front of her.
+    ko: 흠… 상태를 봐서는 눈앞에서 폭탄이라도 터진 것 같네요.
+    ja: |-
+      この様子だと、目の前で爆弾か何かが
+      爆発したのだと思います。
+  event_queensorder_01_e_4:
+    speaker: "<Self>"
+    en: A bomb?!
+    ko: "…폭탄?!"
+    ja: "…爆弾！？"
+  event_queensorder_01_e_5:
+    speaker: mary
+    en: Don't worry.
+    ko: 걱정하지 마세요.
+    ja: ご心配なく。
+  event_queensorder_01_e_6:
+    speaker: mary
+    en: The treatment is working as intended.
+    ko: 그래도 치료는 정상적으로 잘 끝났어요.
+    ja: 治療は無事に終わりましたから。
+  event_queensorder_01_e_7:
+    speaker: mary
+    en: Thankfully, I had a part that matched her specific model, so I was able to
+      treat her easily.
+    ko: 다행히 모델에 맞는 부품이 있어서 쉽게 치료할 수 있었어요.
+    ja: |-
+      幸い、モデルに合う部品があったので
+      簡単に治療できました。
+  event_queensorder_01_e_8:
+    speaker: mary
+    en: As long as she gets some rest, she won't have any major issues.
+    ko: 푹 쉬시기만 하면, 일상생활에는 무리 없으실 거예요.
+    ja: |-
+      ゆっくり休めば、
+      日常生活には支障ないはずです。
+  event_queensorder_01_e_9:
+    speaker: "<Self>"
+    en: You're a lifesaver, Mary.
+    ko: 고마워.
+    ja: ありがとう
+  event_queensorder_01_e_10:
+    speaker: mary
+    en: Don't mention it.
+    ko: 별말씀을요.
+    ja: どういたしまして。
+  event_queensorder_01_e_11:
+    speaker: mary
+    en: Well, if that's everything, then I'll be off.
+    ko: 그럼 전 가볼게요.
+    ja: では、私はこれで失礼しますね。
+  event_queensorder_01_e_12:
+    speaker: "<Monologue>"
+    en: Mary begins to walk outside, but then stops.
+    ko: 메어리가 밖으로 걸음을 옮기다 멈춰 섰다.
+    ja: メアリーが外に出る途中で立ち止まった
+  event_queensorder_01_e_13:
+    speaker: mary
+    en: "... Commander."
+    ko: "…지휘관."
+    ja: "…指揮官。"
+  event_queensorder_01_e_14:
+    speaker: mary
+    en: I know it's not easy for you,
+    ko: 불가항력이라는 건 알지만,
+    ja: 不可抗力だということは分かりますが、
+  event_queensorder_01_e_15:
+    speaker: mary
+    en: but if things start getting dangerous, please take care of yourself.
+    ko: 너무 위험해 보인다 싶으면 몸을 사리셔야 해요.
+    ja: |-
+      危険だと思ったら、
+      ご自身を優先してくださいね。
+  event_queensorder_01_e_16:
+    speaker: mary
+    en: If you get hurt even superficially, come to the hospital at once.
+    ko: 조금이라도 다치면 바로 병원으로 오시고요.
+    ja: |-
+      少しでもおケガをされたら、
+      すぐに病院にお越しください。
+  event_queensorder_01_e_17:
+    speaker: mary
+    en: Is that clear?
+    ko: 무슨 말인지 알겠죠?
+    ja: 分かりましたか？
+  event_queensorder_01_e_18:
+    speaker: "<Self>"
+    en: "... I'll try."
+    ko: "…노력해 볼게."
+    ja: "…努力する"
+  event_queensorder_01_e_19:
+    speaker: mary
+    en: Good. See you around, Commander.
+    ko: 후후, 또 뵈어요. 지휘관.
+    ja: ふふ、またお会いしましょう。指揮官。
+  event_queensorder_01_e_20:
+    speaker: "<Monologue>"
+    en: Mary leaves the Commander's Room.
+    ko: 메어리가 지휘관실을 떠나갔다.
+    ja: メアリーが指揮官室を出て行った
+  event_queensorder_01_e_21:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_01_e_22:
+    speaker: "<Self>"
+    en: A terrorist bombing...
+    ko: 폭탄 테러라니….
+    ja: 爆弾テロだなんて…
+  event_queensorder_01_e_23:
+    speaker: "<Monologue>"
+    en: I head towards Rosanna...
+    ko: 로산나에게 다가갔….
+    ja: ロザンナに近づ…
+  event_queensorder_01_e_24:
+    speaker: "<Narration>"
+    en: "*Click*"
+    ko: 철컥-
+    ja: カチャッ
+  event_queensorder_01_e_25:
+    speaker: rosanna
+    en: Who is it?
+    ko: 누구냐.
+    ja: 誰だ。
+  event_queensorder_01_e_26:
+    speaker: "<Self>"
+    en: Rosanna?
+    ko: 로산나?
+    ja: ロザンナ？
+  event_queensorder_01_e_27:
+    speaker: rosanna
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_01_e_28:
+    speaker: rosanna
+    en: Mister...?
+    ko: 미스터…?
+    ja: ミスター…？
+  event_queensorder_01_e_29:
+    speaker: rosanna
+    en: What are you doing here?
+    ko: 미스터가 왜 여기에….
+    ja: どうしてミスターがここに…
+  event_queensorder_01_e_30:
+    speaker: "<Self>"
+    en: Well, this is the Commander's Room.
+    ko: 여긴 지휘관실이니까.
+    ja: ここは指揮官室だ
+  event_queensorder_01_e_31:
+    speaker: rosanna
+    en: In the Commander's Room？
+    ko: 지휘관실?
+    ja: 指揮官室？
+  event_queensorder_01_e_32:
+    speaker: "<Monologue>"
+    en: Rosanna looks around.
+    ko: 로산나가 주위를 둘러보았다.
+    ja: ロザンナが周りを見回した
+  event_queensorder_01_e_33:
+    speaker: rosanna
+    en: Dang.
+    ko: 아.
+    ja: あ。
+  event_queensorder_01_e_34:
+    speaker: rosanna
+    en: You weren't kidding.
+    ko: "…정말이네."
+    ja: "…本当だ。"
+  event_queensorder_01_e_35:
+    speaker: rosanna
+    en: Jeez, did I get knocked out with one puny bomb?
+    ko: 하하. 폭탄 한방에 미친 건가.
+    ja: アハハ。爆弾でおかしくなっちゃったのかな。
+  event_queensorder_01_e_36:
+    speaker: rosanna
+    en: How'd I end up here?
+    ko: 어쩌자고 여길….
+    ja: なんでここに…
+  event_queensorder_01_e_37:
+    speaker: "<Self>"
+    en: Are you okay?
+    ko: "…괜찮아?"
+    ja: "…大丈夫か？"
+  event_queensorder_01_e_38:
+    speaker: rosanna
+    en: "... Mister."
+    ko: "…미스터."
+    ja: "…ミスター。"
+  event_queensorder_01_e_39:
+    speaker: rosanna
+    en: How long have I been out?
+    ko: 내가 여기 온 지 얼마나 됐어?
+    ja: あたしがここに来て、どれくらい経った？
+  event_queensorder_01_e_40:
+    speaker: "<Self>"
+    en: About half a day, I think.
+    ko: 반나절쯤 된 거 같은데.
+    ja: 半日ほどだ
+  event_queensorder_01_e_41:
+    speaker: rosanna
+    en: Damn! It's too late now.
+    ko: |-
+      제기랄.
+      이미 늦었네.
+    ja: |-
+      クソッ。
+      もう遅いね。
+  event_queensorder_01_e_42:
+    speaker: "<Monologue>"
+    en: Rosanna flips her hair over her shoulder and bolts upright, looking agitated.
+    ko: 로산나가 신경질적으로 머리를 쓸어올린 후 자리에서 일어났다.
+    ja: |-
+      ロザンナはイライラした様子で髪をかきあげ
+      その場から立ち上がった
+  event_queensorder_01_e_43:
+    speaker: rosanna
+    en: Get ready to leave, Mister.
+    ko: 미스터, 나갈 준비해.
+    ja: ミスター、出かける準備して。
+  event_queensorder_01_e_44:
+    speaker: "<Self>"
+    en: Right now?
+    ko: 지금?
+    ja: 今？
+  event_queensorder_01_e_45:
+    speaker: rosanna
+    en: That's right. We're going to want to blend in,
+    ko: 아. 그리고 그 군복은 벗는 게 좋을 거 같아.
+    ja: あ、それからその軍服は変えた方がいいね。
+  event_queensorder_01_e_46:
+    speaker: rosanna
+    en: so I'd suggest ditching the military uniform.
+    ko: 인파 속에 숨어야 하니까 뭐가 좋을까....
+    ja: |-
+      人混みに紛れなきゃいけないから、
+      何がいいかな…
+  event_queensorder_01_e_47:
+    speaker: "<Self>"
+    en: Why do we need to blend in?
+    ko: 숨어야 한다니? 왜?
+    ja: 人混みに紛れる？なぜ？
+  event_queensorder_01_e_48:
+    speaker: rosanna
+    en: I don't have time to explain everything in detail.
+    ko: 자세히 설명할 시간은 없고.
+    ja: 詳しく説明してる時間はないよ。
+  event_queensorder_01_e_49:
+    speaker: rosanna
+    en: Just hurry up and change.
+    ko: 빨리 갈아입어야 하니까.
+    ja: 早く着替えて。
+  event_queensorder_01_e_50:
+    speaker: rosanna
+    en: At least take off your jacket. You're practically broadcasting to the entire
+      world you're part of the military.
+    ko: 일단 이 군인 티 팍팍 나는 재킷부터 벗어볼까?
+    ja: |-
+      とりあえず、この軍人丸出しの
+      ジャケットから脱いでくれる？
+  event_queensorder_01_e_51:
+    speaker: "<Monologue>"
+    en: Rosanna yanks roughly on my jacket sleeve.
+    ko: 로산나가 내 재킷을 끌어내렸다.
+    ja: ロザンナが私のジャケットを引っ剥がした
+  event_queensorder_01_e_52:
+    speaker: "<Self>"
+    en: All right! I'll change.
+    ko: 내가 갈아입을…!
+    ja: 自分で着替え…！
+  event_queensorder_01_e_53:
+    speaker: "<Narration>"
+    en: "*Knock knock*"
+    ko: 똑똑-
+    ja: コンコン
+  event_queensorder_01_e_54:
+    speaker: rosanna
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_01_e_55:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_01_e_56:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_01_e_57:
+    speaker: "<Self>"
+    en: Who is it?
+    ko: 누구지?
+    ja: 誰だ？
+  event_queensorder_01_e_58:
+    speaker: "<Monologue>"
+    en: Nothing can be heard from outside.
+    ko: "…바깥에서 아무런 소리도 들려오지 않는다."
+    ja: "…外からは何の音も聞こえない"
+  event_queensorder_01_e_59:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_01_e_60:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_01_e_61:
+    speaker: rosanna
+    en: Mister, once that door opens, duck down.
+    ko: |-
+      …미스터.
+      문 열리면 고개 숙여.
+    ja: |-
+      …ミスター。
+      ドアを開けたら頭を下げて。
+  event_queensorder_01_e_62:
+    speaker: "<Self>"
+    en: What are you going to do?
+    ko: 로산나는 뭘 하려고….
+    ja: 何をするつもりだ？
+  event_queensorder_01_e_63:
+    speaker: rosanna
+    en: Don't worry.
+    ko: 걱정하지 마.
+    ja: 心配しないで。
+  event_queensorder_01_e_64:
+    speaker: rosanna
+    en: I won't let myself get ambushed twice.
+    ko: "…두 번은 안 당하니까."
+    ja: "…二度はやられない。"
+  event_queensorder_01_e_65:
+    speaker: "<Monologue>"
+    en: Rosanna picks up her gun.
+    ko: 로산나가 총을 집어 들었다.
+    ja: ロザンナが銃を持った
+  event_queensorder_01_e_66:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_queensorder_01_e_67:
+    speaker: rosanna
+    en: Get down!
+    ko: 엎드려!!
+    ja: 伏せて！！
+  event_queensorder_01_e_68:
+    speaker: "<Monologue>"
+    en: I crouch down as fast as I can.
+    ko: 몸을 숙였다!
+    ja: 頭を下げた！
+  event_queensorder_01_e_69:
+    speaker: "<Narration>"
+    en: "*Tududududududu*"
+    ko: 투두두두두두두-!!
+    ja: ダダダダダダダッ！
+  event_queensorder_01_e_70:
+    speaker: "<Narration>"
+    en: "*Bang* *Bang*"
+    ko: 탕-! 탕-!
+    ja: バンッ！バンッ！
+  event_queensorder_01_e_71:
+    speaker: unknown
+    en: Ugh...!
+    ko: 크윽…!
+    ja: くぅっ…！
+  event_queensorder_01_e_72:
+    speaker: "<Monologue>"
+    en: Rosanna hits her mark, striking one of the mysterious assailants in the shoulder.
+    ko: 로산나가 쏜 총알이 적들의 어깨를 꿰뚫었다!
+    ja: ロザンナが撃った弾丸が敵の肩を貫いた！
+  event_queensorder_01_e_73:
+    speaker: rosanna
+    en: Let's go!
+    ko: 가자!
+    ja: 行くよ！
+  event_queensorder_01_e_74:
+    speaker: "<Monologue>"
+    en: Rosanna grabs my hand and leads me out of the Commander's Room.
+    ko: 로산나의 손에 이끌려 지휘관실 바깥으로 뛰어나갔다.
+    ja: |-
+      ロザンナに引っ張られ、
+      指揮官室の外に飛び出した
+event_queensorder_02_s:
+  event_queensorder_02_s_1:
+    speaker: "<Monologue>"
+    en: While dodging a hail of bullets, Rosanna and I eventually reach the elevator
+      leading to the Ark.
+    ko: 쏟아지는 탄환을 피해 로산나와 함께 방주로 향하는 엘리베이터에 도달했다.
+    ja: |-
+      降り注ぐ弾丸を避けて、ロザンナと
+      アークへ向かうエレベーターにたどり着いた
+  event_queensorder_02_s_2:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_s_3:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_s_4:
+    speaker: rosanna
+    en: Go figure.
+    ko: 하아… 이게 뭐람.
+    ja: |-
+      ハァ…
+      チッ。
+  event_queensorder_02_s_5:
+    speaker: rosanna
+    en: I made you take your jacket off right before we had to book it. You must be
+      freezing.
+    ko: 괜히 춥기만 하게 재킷만 벗기고 와버렸네.
+    ja: |-
+      結局ジャケットを脱がせただけで
+      出て来ちゃった。
+  event_queensorder_02_s_6:
+    speaker: "<Self>"
+    en: I'm fine with it.
+    ko: 난 괜찮아.
+    ja: 私は大丈夫だ
+  event_queensorder_02_s_7:
+    speaker: rosanna
+    en: Well, I'm not.
+    ko: 내가 안 괜찮아서 그래.
+    ja: あたしが大丈夫じゃないんだよ。
+  event_queensorder_02_s_8:
+    speaker: rosanna
+    en: We all know how sexy you look rain-drenched,
+    ko: 빗물에 흐트러진 남자는 섹시하지만,
+    ja: 服が乱れた男はセクシーだけど
+  event_queensorder_02_s_9:
+    speaker: rosanna
+    en: but I'd rather be seeing this under other circumstances.
+    ko: 이런 일 때문이라는 게 마음에 들지 않네.
+    ja: |-
+      こんな事件のせいだってことが
+      気に入らないよね。
+  event_queensorder_02_s_10:
+    speaker: "<Self>"
+    en: Any chance you can fill me in on what's going on?
+    ko: 이제 이야기해 줄 수 있어?
+    ja: 教えてくれないか？
+  event_queensorder_02_s_11:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_s_12:
+    speaker: "<Self>"
+    en: What happened?
+    ko: 무슨 일이 있었는지.
+    ja: 何があったのか
+  event_queensorder_02_s_13:
+    speaker: rosanna
+    en: It's classified.
+    ko: 비밀.
+    ja: ヒミツ。
+  event_queensorder_02_s_14:
+    speaker: rosanna
+    en: Telling you more will only get you mixed in deeper.
+    ko: 더 알게 되면 이쪽이랑 엮이니까 안돼.
+    ja: これ以上知られたら、巻き込んじゃうからダメ。
+  event_queensorder_02_s_15:
+    speaker: "<Self>"
+    en: I think I'm already in deep enough as is.
+    ko: 이미 엮일 대로 엮여 버린 것 같은데.
+    ja: すでに巻き込まれている気がするが
+  event_queensorder_02_s_16:
+    speaker: rosanna
+    en: That may be, but it's still safer not to know everything.
+    ko: 그래도 모른채 있는 게 더 안전해.
+    ja: それでも知らんぷりしてる方が安全だよ。
+  event_queensorder_02_s_17:
+    speaker: "<Self>"
+    en: I've already had gunmen try to take me out.
+    ko: 이미 총격전도 겪었는데?
+    ja: すでに銃撃戦も経験したが？
+  event_queensorder_02_s_18:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_s_19:
+    speaker: rosanna
+    en: "*Sigh* You're right. You deserve to know why you're being subjected to all
+      this madness."
+    ko: |-
+      하아… 그래.
+      미스터도 왜 이런 재난을 겪고 있는지 정도는 알아야지.
+    ja: |-
+      ハァ…そうだね。分かった。
+      ミスターもどうしてこんな目に
+      遭ってるのか、知るべきだよね。
+  event_queensorder_02_s_20:
+    speaker: rosanna
+    en: Someone planted a bomb at the restaurant I frequent.
+    ko: 누군가가 내가 가던 음식점에 폭탄을 설치했어.
+    ja: |-
+      あたしがよく行くレストランに
+      誰かが爆弾を仕掛けたの。
+  event_queensorder_02_s_21:
+    speaker: rosanna
+    en: The moment I opened the door, kablammo!
+    ko: 내가 문을 여는 타이밍에 맞춰, 팡~
+    ja: |-
+      あたしがドアを開けるタイミングに合わせて、
+      ドカーン！
+  event_queensorder_02_s_22:
+    speaker: rosanna
+    en: The entire place was blown sky high.
+    ko: 하고 터질 수 있게 준비해 놨더라고.
+    ja: "…って爆発するように用意されてた。"
+  event_queensorder_02_s_23:
+    speaker: "<Self>"
+    en: Who did it?
+    ko: 누가?
+    ja: 犯人は？
+  event_queensorder_02_s_24:
+    speaker: rosanna
+    en: Not sure.
+    ko: 글쎄.
+    ja: さあね。
+  event_queensorder_02_s_25:
+    speaker: rosanna
+    en: My list of enemies
+    ko: 범인이 누군지는 아직까진 모르겠어.
+    ja: まだ分かんない。
+  event_queensorder_02_s_26:
+    speaker: rosanna
+    en: is a mile long.
+    ko: 내가 워낙 적이 많아야지~
+    ja: あたしには敵が多いからね～
+  event_queensorder_02_s_27:
+    speaker: rosanna
+    en: Having said that,
+    ko: 다만….
+    ja: でも…
+  event_queensorder_02_s_28:
+    speaker: rosanna
+    en: I do have some guesses.
+    ko: 짐작 가는 건 좀 있는데.
+    ja: 思い当たることはある。
+  event_queensorder_02_s_29:
+    speaker: rosanna
+    en: I don't know how far they're willing to go,
+    ko: 그게 어디까지 노리는 건지 몰라서,
+    ja: けど、どこまで狙ってるのか分からないから
+  event_queensorder_02_s_30:
+    speaker: rosanna
+    en: so all I can do is hypothesize.
+    ko: 고민 중이야.
+    ja: 迷ってるんだよね。
+  event_queensorder_02_s_31:
+    speaker: "<Self>"
+    en: How far they're willing to go? What do you mean?
+    ko: 어디까지 노리는지 모르겠다고?
+    ja: どういうことだ？
+  event_queensorder_02_s_32:
+    speaker: rosanna
+    en: I don't know if it's just me they're after,
+    ko: 단순히 나만 노리는 건지,
+    ja: 単純にあたしだけが標的なのか、
+  event_queensorder_02_s_33:
+    speaker: rosanna
+    en: the Underworld Queen,
+    ko: 아니면 [우리]를 노리는 건지.
+    ja: "「あたしら」を狙ってるのか。"
+  event_queensorder_02_s_34:
+    speaker: rosanna
+    en: or...
+    ko: 그것도 아니면….
+    ja: それとも…
+  event_queensorder_02_s_35:
+    speaker: rosanna
+    en: the entire Outer Rim.
+    ko: 아우터 림을 노리는 건지.
+    ja: アウターリムを狙ってるのか。
+  event_queensorder_02_s_36:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_02_s_37:
+    speaker: rosanna
+    en: Depending on which of those possibilities it is, my response will have to
+      be different.
+    ko: 그 정도에 따라 내가 해야 하는 일의 규모도 달라질 거거든.
+    ja: |-
+      それによってあたしがすべきことの規模も
+      変わってくるから。
+  event_queensorder_02_s_38:
+    speaker: rosanna
+    en: 'Although there is one uniting fact: no matter what, I''m gonna give them
+      a taste of their own medicine.'
+    ko: 뭐, 무슨 일이 있어도 당한 만큼 갚아 줄 거라는 건 변하지 않지만.
+    ja: |-
+      まあ、何があっても、やられた分だけ
+      やり返すってことに変わりはないけど。
+  event_queensorder_02_s_39:
+    speaker: "<Self>"
+    en: Are your subordinates okay?
+    ko: 부하들은 괜찮아?
+    ja: 仲間たちは大丈夫なのか？
+  event_queensorder_02_s_40:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_s_41:
+    speaker: rosanna
+    en: Not sure.
+    ko: 글쎄.
+    ja: さあね。
+  event_queensorder_02_s_42:
+    speaker: rosanna
+    en: So many bombs went off in quick succession,
+    ko: 폭탄이 연속으로 터지는 바람에,
+    ja: 爆弾が連続で爆発したせいで
+  event_queensorder_02_s_43:
+    speaker: rosanna
+    en: that we all got separated.
+    ko: 뿔뿔이 흩어져서 잘 모르겠네.
+    ja: |-
+      バラバラになっちゃったから
+      よく分かんない。
+  event_queensorder_02_s_44:
+    speaker: "<Self>"
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  event_queensorder_02_s_45:
+    speaker: "<Monologue>"
+    en: Rosanna stares outside the elevator.
+    ko: 로산나는 엘리베이터 바깥을 바라보았다.
+    ja: ロザンナはエレベーターの外を見つめた
+  event_queensorder_02_s_46:
+    speaker: rosanna
+    en: They're hardened characters.
+    ko: 약한 놈들은 아니니까.
+    ja: ヤワな奴らじゃないから。
+  event_queensorder_02_s_47:
+    speaker: rosanna
+    en: If they die, then that's just how it is.
+    ko: 죽었다면, 운이 거기까지였던 거겠지.
+    ja: 死んだなら、そこまでの運だったってこと。
+  event_queensorder_02_s_48:
+    speaker: "<Self>"
+    en: They're alive, trust me.
+    ko: 살아 있을 거야.
+    ja: きっと無事だ
+  event_queensorder_02_s_49:
+    speaker: rosanna
+    en: "... Yeah."
+    ko: "…그래."
+    ja: "…そうだね。"
+  event_queensorder_02_s_50:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_s_51:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+event_queensorder_02_e:
+  event_queensorder_02_e_1:
+    speaker: rosanna
+    en: We'll arrive at the Ark soon.
+    ko: 이제 방주 도착까지 얼마 남지 않았네.
+    ja: もうすぐアークに着くね。
+  event_queensorder_02_e_2:
+    speaker: "<Self>"
+    en: Got it.
+    ko: 그러게.
+    ja: そうだな
+  event_queensorder_02_e_3:
+    speaker: rosanna
+    en: Mister.
+    ko: 미스터.
+    ja: ミスター。
+  event_queensorder_02_e_4:
+    speaker: rosanna
+    en: When the elevator arrives, duck behind the button panel.
+    ko: 엘리베이터가 도착하면 일단 버튼 뒤편으로 숨어.
+    ja: |-
+      エレベーターが着いたら、
+      念のためボタンの後ろに隠れて。
+  event_queensorder_02_e_5:
+    speaker: rosanna
+    en: They might have some men waiting for us on the other side of the doors.
+    ko: 문 앞에서 매복하고 있을 수도 있으니까.
+    ja: ドアの前で待ち伏せしてるかもしれないから。
+  event_queensorder_02_e_6:
+    speaker: "<Self>"
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かった
+  event_queensorder_02_e_7:
+    speaker: rosanna
+    en: Don't worry.
+    ko: 걱정하지 마.
+    ja: 心配しないで。
+  event_queensorder_02_e_8:
+    speaker: rosanna
+    en: No matter what happens,
+    ko: 무슨 일이 있어도,
+    ja: 何があっても
+  event_queensorder_02_e_9:
+    speaker: rosanna
+    en: I'll make sure you get home safely.
+    ko: 무사히 집으로 되돌려 보내줄 테니까.
+    ja: 無事に家に帰してあげるから。
+  event_queensorder_02_e_10:
+    speaker: "<Self>"
+    en: You don't need to work so hard to protect me.
+    ko: 너무 지키려 하지 않아도 돼.
+    ja: そんなに守ろうとしなくていい
+  event_queensorder_02_e_11:
+    speaker: "<Choice>"
+    en: I know how to shoot a gun.
+    ko: 나도 총 정도는 쏠 줄 아니까.
+    ja: 私も銃くらいは撃てる
+  event_queensorder_02_e_12:
+    speaker: "<Choice>"
+    en: I've dealt with countless Raptures before.
+    ko: 난 랩쳐도 상대해 봤어.
+    ja: 私はラプチャーも相手にしてきた
+  event_queensorder_02_e_13:
+    speaker: "<Choice>"
+    en: Our missions up on the surface are often matters of life and death.
+    ko: 지상 임무는 늘 사선을 넘는 일이었지.
+    ja: 地上任務は常に死と隣り合わせだった
+  event_queensorder_02_e_14:
+    speaker: rosanna
+    en: Is that right?
+    ko: 하하하! 그래?
+    ja: アハハ！そう？
+  event_queensorder_02_e_15:
+    speaker: rosanna
+    en: You know your way around a firearm?
+    ko: 총 정도는 쏠 줄 알았어?
+    ja: 銃くらいは撃てる？
+  event_queensorder_02_e_16:
+    speaker: rosanna
+    en: That's a relief.
+    ko: 그거 다행이네~
+    ja: それはよかった～
+  event_queensorder_02_e_17:
+    speaker: rosanna
+    en: Raptures? What does this have to...
+    ko: 랩쳐?
+    ja: ラプチャー？
+  event_queensorder_02_e_18:
+    speaker: rosanna
+    en: Ah, I get it.
+    ko: 아하하하! 그래!
+    ja: アハハッ！そうだね！
+  event_queensorder_02_e_19:
+    speaker: rosanna
+    en: Raptures are way more terrifying than humans.
+    ko: 인간보다 랩쳐가 더 무섭긴 하겠네!
+    ja: 人間よりラプチャーの方が怖いかもね！
+  event_queensorder_02_e_20:
+    speaker: rosanna
+    en: Hehe, you've got a point there.
+    ko: 하하! 그래. 그렇네.
+    ja: アハハ！そっか、そうだった。
+  event_queensorder_02_e_21:
+    speaker: rosanna
+    en: You're always being sent into the fray, and you always come out the other
+      end intact.
+    ko: 미스터도 생사의 갈림길에서 수없이 살아나온 사람이었지.
+    ja: |-
+      ミスターも生死の境目で何度も
+      生き残ってきたんだもんね。
+  event_queensorder_02_e_22:
+    speaker: rosanna
+    en: I forgot about that.
+    ko: 내가 그걸 잊고 있었네~
+    ja: すっかり忘れてたよ。
+  event_queensorder_02_e_23:
+    speaker: rosanna
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かった。
+  event_queensorder_02_e_24:
+    speaker: rosanna
+    en: I won't coddle you so much.
+    ko: 너무 싸고 돌진 않을게.
+    ja: やり過ぎないようにする。
+  event_queensorder_02_e_25:
+    speaker: rosanna
+    en: But still, don't run out of the elevator.
+    ko: 하지만 그렇다고 엘리베이터 밖으로 튀어나가지는 마.
+    ja: |-
+      でも、だからってエレベーターの外に
+      飛び出したりしないでよ。
+  event_queensorder_02_e_26:
+    speaker: rosanna
+    en: You might end up getting perforated.
+    ko: 개죽음 당할 수 있으니까.
+    ja: 無駄死にするかもしれないから。
+  event_queensorder_02_e_27:
+    speaker: "<Self>"
+    en: Noted.
+    ko: 명심할게.
+    ja: 肝に銘じておく
+  event_queensorder_02_e_28:
+    speaker: rosanna
+    en: Good. Get ready.
+    ko: 좋아. 준비해.
+    ja: よし。準備して。
+  event_queensorder_02_e_29:
+    speaker: rosanna
+    en: We're about to arrive.
+    ko: 도착한다.
+    ja: 着くよ。
+  event_queensorder_02_e_30:
+    speaker: "<Narration>"
+    en: "*Creek* *Boom*"
+    ko: 끼익- 쿵.
+    ja: キィッ…ドンッ
+  event_queensorder_02_e_31:
+    speaker: "<Monologue>"
+    en: The elevator door opens.
+    ko: 엘리베이터의 문이 열렸다.
+    ja: エレベーターのドアが開いた
+  event_queensorder_02_e_32:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_e_33:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_e_34:
+    speaker: "<Monologue>"
+    en: Nothing happened.
+    ko: 아무런 일도 일어나지 않았다.
+    ja: 何も起きなかった
+  event_queensorder_02_e_35:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_e_36:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_e_37:
+    speaker: rosanna
+    en: There's nobody?
+    ko: 아무 일도 없네?
+    ja: 何も起きないね？
+  event_queensorder_02_e_38:
+    speaker: rosanna
+    en: Huh, guess I got all worked up for nothing.
+    ko: 괜히 긴장한 사람 민망하게.
+    ja: 緊張して損しちゃった。
+  event_queensorder_02_e_39:
+    speaker: "<Self>"
+    en: They might be further up ahead, so stay frosty.
+    ko: 이 앞에 있을지도 모르니 조심하자.
+    ja: この先にいるかもしれないから気をつけよう
+  event_queensorder_02_e_40:
+    speaker: rosanna
+    en: I hear you, but we can't be on high alert 24/7.
+    ko: 언제까지 경계만 하고 있을 수는 없으니,
+    ja: ずっとここにいてもしょうがないから
+  event_queensorder_02_e_41:
+    speaker: rosanna
+    en: Let's just head out.
+    ko: 일단 나가보자고.
+    ja: とりあえず出よっか。
+  event_queensorder_02_e_42:
+    speaker: "<Monologue>"
+    en: Rosanna and I tentatively take a few steps out of the elevator.
+    ko: 잔뜩 긴장한 채 로산나와 엘리베이터 밖으로 나왔다.
+    ja: 警戒しつつロザンナとエレベーターの外に出た
+  event_queensorder_02_e_43:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_e_44:
+    speaker: "<Monologue>"
+    en: Rosanna carefully examines the front of the elevator.
+    ko: 로산나가 엘리베이터 앞을 구석구석 살펴보았다.
+    ja: ロザンナがエレベーターの前を隅々まで調べた
+  event_queensorder_02_e_45:
+    speaker: rosanna
+    en: "... Phew."
+    ko: "…후우."
+    ja: "…ふう。"
+  event_queensorder_02_e_46:
+    speaker: rosanna
+    en: I don't think there's anyone here.
+    ko: 여기도 아무도 없는 것 같네.
+    ja: ここも何もなさそう。
+  event_queensorder_02_e_47:
+    speaker: "<Self>"
+    en: Good to know.
+    ko: 다행이야.
+    ja: よかった
+  event_queensorder_02_e_48:
+    speaker: rosanna
+    en: Still, don't let your guard down.
+    ko: 그래도 긴장을 늦추지 마.
+    ja: でも気を緩めないでよ。
+  event_queensorder_02_e_49:
+    speaker: rosanna
+    en: Whenever it's quiet like this, there's usually...
+    ko: 보통 이렇게 아무도 없으면 이쯤에….
+    ja: 誰もいないと思わせといて…
+  event_queensorder_02_e_50:
+    speaker: "<Monologue>"
+    en: The moment Rosanna takes one step out of the building...
+    ko: 로산나가 엘리베이터 건물 밖을 향해 한걸음 앞으로 나아갔….
+    ja: |-
+      ロザンナが建物の外に向かって
+      一歩踏み出し…
+  event_queensorder_02_e_51:
+    speaker: "<Narration>"
+    en: "*Tadadadada*"
+    ko: 투두두두두-!
+    ja: ドドドドド！
+  event_queensorder_02_e_52:
+    speaker: rosanna
+    en: See what I mean?
+    ko: 역시나.
+    ja: やっぱり。
+  event_queensorder_02_e_53:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 탕-!
+    ja: バンッ！
+  event_queensorder_02_e_54:
+    speaker: unknown
+    en: "*Argh*"
+    ko: 끄헉-!
+    ja: うっ！
+  event_queensorder_02_e_55:
+    speaker: "<Narration>"
+    en: "*Bang bang*"
+    ko: 탕탕-!
+    ja: バンバン！
+  event_queensorder_02_e_56:
+    speaker: unknown
+    en: Agh!
+    ko: 컥-!
+    ja: がはっ…！
+  event_queensorder_02_e_57:
+    speaker: "<Monologue>"
+    en: All the enemies who attempted to ambush us fall to the ground.
+    ko: 매복해 있던 적들이 모두 쓰러졌다.
+    ja: 待ち伏せしていた敵が全員倒れた
+  event_queensorder_02_e_58:
+    speaker: rosanna
+    en: Sneaky little buggers were in hiding.
+    ko: 이렇게 숨어있곤 하거든.
+    ja: こうやって隠れたりしてるんだよね。
+  event_queensorder_02_e_59:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_e_60:
+    speaker: rosanna
+    en: Hmmm.
+    ko: 흠.
+    ja: うーん。
+  event_queensorder_02_e_61:
+    speaker: rosanna
+    en: How should we do this?
+    ko: 그럼 이제 어떻게 해야 하나.
+    ja: どうしよっかな。
+  event_queensorder_02_e_62:
+    speaker: rosanna
+    en: We can't just barge into their hideout.
+    ko: 다짜고짜 저놈들의 아지트로 쳐들어가기에도 좀 그렇고.
+    ja: |-
+      いきなりこいつらのアジトに乗り込むのも
+      ちょっとアレだし。
+  event_queensorder_02_e_63:
+    speaker: rosanna
+    en: And it feels a bit premature to return to the Outer Rim at this point...
+    ko: 그렇다고 아우터 림으로 되돌아가는 것도 아직 이른 것 같은데….
+    ja: |-
+      だからってアウターリムに戻るのも
+      まだ早いよね…
+  event_queensorder_02_e_64:
+    speaker: "<Self>"
+    en: What if we contact Sakura?
+    ko: 사쿠라에게 연락해 보는 건 어때?
+    ja: サクラに連絡してみたらどうだ？
+  event_queensorder_02_e_65:
+    speaker: rosanna
+    en: Sakura?
+    ko: 사쿠라에게?
+    ja: サクラに？
+  event_queensorder_02_e_66:
+    speaker: "<Self>"
+    en: She got in touch with me.
+    ko: 연락이 왔었거든.
+    ja: 連絡が来ていたんだ
+  event_queensorder_02_e_67:
+    speaker: rosanna
+    en: When?
+    ko: 언제?
+    ja: いつ？
+  event_queensorder_02_e_68:
+    speaker: "<Self>"
+    en: Just before you arrived at the Commander's Room.
+    ko: 로산나가 지휘관실에 도착하기 직전에.
+    ja: ロザンナが指揮官室に着く直前に
+  event_queensorder_02_e_69:
+    speaker: rosanna
+    en: "... Okay."
+    ko: "…그래."
+    ja: "…そっか。"
+  event_queensorder_02_e_70:
+    speaker: rosanna
+    en: That's not a bad idea.
+    ko: 나쁘지 않은 생각이네.
+    ja: 悪くないね。
+  event_queensorder_02_e_71:
+    speaker: rosanna
+    en: She might be able to explain to us what exactly is going on.
+    ko: 일단 일이 어떻게 돌아가고 있는지 정도는 확인해야 하니까.
+    ja: 今どうなってるか確認しておかないと。
+  event_queensorder_02_e_72:
+    speaker: rosanna
+    en: Can I borrow your phone for a second?
+    ko: 잠깐 핸드폰 좀 빌려도 될까?
+    ja: ちょっと携帯貸してくれる？
+  event_queensorder_02_e_73:
+    speaker: "<Self>"
+    en: Are you going to call her?
+    ko: 사쿠라에게 직접 연락하려고?
+    ja: サクラに直接連絡するのか？
+  event_queensorder_02_e_74:
+    speaker: rosanna
+    en: Yes.
+    ko: 응.
+    ja: うん。
+  event_queensorder_02_e_75:
+    speaker: rosanna
+    en: I'd rather call her myself than sit there with my thumb up my butt
+    ko: 내 앞에서 둘이 문자하는 꼴을 보느니,
+    ja: |-
+      あたしの前で2人がやり取りしてるところを
+      見せつけられるよりは
+  event_queensorder_02_e_76:
+    speaker: rosanna
+    en: watching you two text.
+    ko: 내가 직접 하는 게 나을 거 같아서.
+    ja: あたしが自分で連絡した方がマシだから。
+  event_queensorder_02_e_77:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_02_e_78:
+    speaker: "<Monologue>"
+    en: I give my cell phone to Rosanna.
+    ko: "…로산나에게 핸드폰을 건넸다."
+    ja: "…ロザンナに携帯を渡した"
+  event_queensorder_02_e_79:
+    speaker: rosanna
+    en: Thank youuuu.
+    ko: 잘 썼어~
+    ja: ありがと～
+  event_queensorder_02_e_80:
+    speaker: "<Monologue>"
+    en: Rosanna hands me my phone back.
+    ko: 로산나에게 핸드폰을 돌려받았다.
+    ja: ロザンナから携帯を受け取った
+  event_queensorder_02_e_81:
+    speaker: rosanna
+    en: We better make our way to that safe house
+    ko: 갈까?
+    ja: 行こっか。
+  event_queensorder_02_e_82:
+    speaker: rosanna
+    en: Sakura was talking about.
+    ko: 사쿠라가 말한 안전 가옥으로.
+    ja: サクラが言ってた隠れ家に。
+event_queensorder_03_s:
+  event_queensorder_03_s_1:
+    speaker: "<Monologue>"
+    en: To get in contact with Sakura, we head towards the safe house she had prepared.
+    ko: 사쿠라와의 접선을 위해, 그녀가 준비했다는 안전 가옥으로 향했다.
+    ja: |-
+      サクラと会うため、彼女が
+      準備したという隠れ家へ向かった
+  event_queensorder_03_s_2:
+    speaker: "<Narration>"
+    en: "*Screeeech*"
+    ko: 끼이익-
+    ja: キィィー
+  event_queensorder_03_s_3:
+    speaker: sakura
+    en: Hey, you two. It's been a while.
+    ko: 오랜만입니다. 두 분.
+    ja: お二人とも、お久しぶりですね。
+  event_queensorder_03_s_4:
+    speaker: "<Self>"
+    en: "... Sakura?"
+    ko: "…사쿠라?"
+    ja: "…サクラ？"
+  event_queensorder_03_s_5:
+    speaker: rosanna
+    en: Why are you alone?
+    ko: 웬일로 혼자 있네?
+    ja: 1人だなんて珍しいじゃん。
+  event_queensorder_03_s_6:
+    speaker: sakura
+    en: If I'd come with an escort, you'd have been suspicious.
+    ko: 혼자가 아니었다면 당신에게 괜한 경계를 받았을 테니까요.
+    ja: |-
+      1人じゃなければ
+      余計な疑いをかけられますから。
+  event_queensorder_03_s_7:
+    speaker: sakura
+    en: I don't want any tension between us,
+    ko: 당신과 괜한 기싸움을 하고 싶지 않고,
+    ja: あなたと無駄に争うつもりはありませんし
+  event_queensorder_03_s_8:
+    speaker: sakura
+    en: and now's not the time to be having a pissing contest, so I came alone.
+    ko: 그럴 시기도 아니니 혼자 움직여보았습니다.
+    ja: そんな状況でもないので、1人で動いたのです。
+  event_queensorder_03_s_9:
+    speaker: sakura
+    en: It looks like it wasn't a lie that you were injured.
+    ko: 당신도 다쳤다는 말은 거짓이 아닌 모양이군요.
+    ja: |-
+      あなたもケガをしたというのは
+      嘘ではなさそうですね。
+  event_queensorder_03_s_10:
+    speaker: rosanna
+    en: It's all true, I'm afraid.
+    ko: 뭐, 그렇지.
+    ja: まあ、そうだね。
+  event_queensorder_03_s_11:
+    speaker: rosanna
+    en: It's been a while since I got a surprise gift.
+    ko: 오랜만에 깜짝 서프라이즈를 받아버렸지 뭐야~
+    ja: 久しぶりに、サプライズをもらっちゃった。
+  event_queensorder_03_s_12:
+    speaker: rosanna
+    en: I hate surprises.
+    ko: 열받게.
+    ja: 虫唾が走るよ。
+  event_queensorder_03_s_13:
+    speaker: sakura
+    en: I see.
+    ko: 그렇군요.
+    ja: そうですか。
+  event_queensorder_03_s_14:
+    speaker: sakura
+    en: That's too bad.
+    ko: 그거 안타깝네요.
+    ja: それは残念でしたね。
+  event_queensorder_03_s_15:
+    speaker: "<Self>"
+    en: Sakura.
+    ko: "…사쿠라."
+    ja: "…サクラ"
+  event_queensorder_03_s_16:
+    speaker: sakura
+    en: Yes?
+    ko: 예?
+    ja: はい？
+  event_queensorder_03_s_17:
+    speaker: "<Self>"
+    en: What is up with that outfit?
+    ko: 그 복장은… 뭐야?
+    ja: その格好は…何だ？
+  event_queensorder_03_s_18:
+    speaker: sakura
+    en: In light of the situation we find ourselves in, I used a disguise.
+    ko: 상황이 상황인지라 위장을 해보았습니다.
+    ja: こういう状況ですので、変装してみました。
+  event_queensorder_03_s_19:
+    speaker: "<Choice>"
+    en: You look like you came out of a Saturday morning cartoon.
+    ko: 닌닌?
+    ja: ニンニン？
+  event_queensorder_03_s_20:
+    speaker: "<Choice>"
+    en: Are you trying to be a ninja?
+    ko: 닌자가 되려는 거야?
+    ja: 忍者になりたいのか？
+  event_queensorder_03_s_21:
+    speaker: sakura
+    en: A what?
+    ko: 닌닌?
+    ja: ニンニン？
+  event_queensorder_03_s_22:
+    speaker: sakura
+    en: What does that even mean?
+    ko: 그게 무슨 말씀이실까요?
+    ja: それはどういう意味でしょう？
+  event_queensorder_03_s_23:
+    speaker: "<Self>"
+    en: Sorry, it's the first thing I thought of when I saw that getup...
+    ko: 미안, 복장을 보니 떠올라서….
+    ja: すまない、その格好を見たらつい…
+  event_queensorder_03_s_24:
+    speaker: sakura
+    en: Hardly.
+    ko: 그럴 리가요.
+    ja: まさか。
+  event_queensorder_03_s_25:
+    speaker: sakura
+    en: This is a customary outfit worn by many generations of the Seimeikai.
+    ko: 이건… 그저 세이메이카이에 대대로 내려오던 의상을
+    ja: これは…清明会に代々伝わる衣装を
+  event_queensorder_03_s_26:
+    speaker: sakura
+    en: It's been tailored especially to fit me.
+    ko: 저에 맞게 개량한 것뿐이랍니다.
+    ja: 私に合わせて改良しただけです。
+  event_queensorder_03_s_27:
+    speaker: sakura
+    en: Are you saying...
+    ko: "…혹시."
+    ja: "…もしや。"
+  event_queensorder_03_s_28:
+    speaker: sakura
+    en: that it looks bad?
+    ko: 많이… 별로인 것일까요?
+    ja: あまり…似合ってませんでしたか？
+  event_queensorder_03_s_29:
+    speaker: "<Choice>"
+    en: No. It's nice to see something different.
+    ko: 아니야. 색다른 모습을 봐서 좋아.
+    ja: いや、新しい一面が見られていい
+  event_queensorder_03_s_30:
+    speaker: "<Choice>"
+    en: It's not bad at all.
+    ko: 별로는 아니야.
+    ja: そんなことはない
+  event_queensorder_03_s_31:
+    speaker: sakura
+    en: Well, good.
+    ko: 그렇다면 다행이군요.
+    ja: それならよかったです。
+  event_queensorder_03_s_32:
+    speaker: rosanna
+    en: Have you experienced anything weird on your end?
+    ko: 너희 쪽은 별일 없었어?
+    ja: あんたらの方は何もなかった？
+  event_queensorder_03_s_33:
+    speaker: sakura
+    en: We did.
+    ko: 별일이라면 있었습니다.
+    ja: いいえ、ありました。
+  event_queensorder_03_s_34:
+    speaker: sakura
+    en: Nothing as bad as a bomb, but we did get a nasty little surprise.
+    ko: 폭탄 정도는 아니지만 꽤 지저분한 선물을 받긴 했지요.
+    ja: |-
+      爆弾ほどではありませんが、
+      嫌味のこもったプレゼントを頂きましたよ。
+  event_queensorder_03_s_35:
+    speaker: sakura
+    en: A message warning us not to interfere.
+    ko: 저는 이를 방해하지 말라는 경고 정도의 메시지를 담고 있다고 판단했습니다.
+    ja: |-
+      邪魔をするなという警告のメッセージが
+      込められていると判断しました。
+  event_queensorder_03_s_36:
+    speaker: rosanna
+    en: I can't believe this...
+    ko: 하하. 가지가지 하네 정말.
+    ja: アハハ。色々やってくれるね～
+  event_queensorder_03_s_37:
+    speaker: sakura
+    en: Rosanna, I should tell you.
+    ko: 그리고 로산나.
+    ja: そして、ロザンナ。
+  event_queensorder_03_s_38:
+    speaker: sakura
+    en: There are rumors swirling around the Outer Rim that
+    ko: 지금 아우터 림 내부에서는
+    ja: 今、アウターリムの内部では
+  event_queensorder_03_s_39:
+    speaker: sakura
+    en: Hedonia is cleaning house, and no one's safe from being purged.
+    ko: 헤도니아가 복수를 위해 대대적인 숙청을 벌일 거라는 소문이 돌고 있습니다.
+    ja: |-
+      ヘッドニアが復讐のために大々的な
+      粛清を行うという噂が広がっています。
+  event_queensorder_03_s_40:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_03_s_41:
+    speaker: sakura
+    en: They're making it sound as if you've been defeated,
+    ko: 로산나가 당했다는 듯 소문을 내고,
+    ja: ロザンナがやられたかのように噂を流し
+  event_queensorder_03_s_42:
+    speaker: sakura
+    en: and the general feeling is that there's a major war brewing.
+    ko: 아우터 림에 전란의 조짐이 느껴지도록 조장하고 있죠.
+    ja: |-
+      アウターリムに戦乱の兆しが見えるよう
+      助長させていますね。
+  event_queensorder_03_s_43:
+    speaker: sakura
+    en: Whoever these people are, they've been waiting for this moment.
+    ko: 마치 기다렸다는 듯이요.
+    ja: まるでそれを待ち構えていたかのように。
+  event_queensorder_03_s_44:
+    speaker: rosanna
+    en: Haha.
+    ko: 하하.
+    ja: アハハ。
+  event_queensorder_03_s_45:
+    speaker: rosanna
+    en: It feels like we're chess pieces on a chess board.
+    ko: 이거 잘 짜인 판위에 말이 된 느낌인데 말야.
+    ja: よくできたゲームのコマになった気分だね。
+  event_queensorder_03_s_46:
+    speaker: rosanna
+    en: "... Pisses me off."
+    ko: "…기분 더럽네."
+    ja: "…クソくらえ。"
+  event_queensorder_03_s_47:
+    speaker: sakura
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_03_s_48:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_03_s_49:
+    speaker: rosanna
+    en: Listen up, madam.
+    ko: 야. 규수.
+    ja: ねえ、お嬢ちゃん。
+  event_queensorder_03_s_50:
+    speaker: sakura
+    en: Yes?
+    ko: 예. 망나니.
+    ja: はい、ならず者さん。
+  event_queensorder_03_s_51:
+    speaker: rosanna
+    en: What do you think they're after?
+    ko: 뭘 노리는 거 같아?
+    ja: 狙いは何だと思う？
+  event_queensorder_03_s_52:
+    speaker: sakura
+    en: To me, this feels personal.
+    ko: 당신을 향한 사적인 원한.
+    ja: あなたへの私的な恨み。
+  event_queensorder_03_s_53:
+    speaker: sakura
+    en: As if they've got some kind of grudge against you.
+    ko: "…일 거라고도 생각했었습니다만."
+    ja: "…だと思っていましたが。"
+  event_queensorder_03_s_54:
+    speaker: sakura
+    en: However, I've been targeted as well...
+    ko: 그 화살이 제게도 날아온 걸로 봐서는….
+    ja: その矢が私にも飛んで来たということは…
+  event_queensorder_03_s_55:
+    speaker: rosanna
+    en: Are they setting their sights on all of us?
+    ko: 우리 모두를 노린 일인 거 같다?
+    ja: あたしら全員を狙ってる？
+  event_queensorder_03_s_56:
+    speaker: sakura
+    en: It certainly seems that way.
+    ko: 전 그렇게 추측하고 있습니다.
+    ja: 私はそう推測しております。
+  event_queensorder_03_s_57:
+    speaker: "<Self>"
+    en: They're targeting the Underworld Queen?
+    ko: 언더월드 퀸을 노리고 있다고?
+    ja: アンダーワールドクイーンを狙ってるだって？
+  event_queensorder_03_s_58:
+    speaker: rosanna
+    en: Yes.
+    ko: 응.
+    ja: うん。
+  event_queensorder_03_s_59:
+    speaker: rosanna
+    en: Given the nature of our role,
+    ko: 우리는 일종의 수문장 역할을 하고 있으니까,
+    ja: あたしらは一種の番人みたいなもんだから。
+  event_queensorder_03_s_60:
+    speaker: rosanna
+    en: it's inevitable that we'd have countless enemies both inside and outside of
+      the Outer Rim.
+    ko: 내적으로도 외적으로도 적이 많을 수밖에 없거든.
+    ja: 内にも外にも敵が多いのは仕方ないんだよね。
+  event_queensorder_03_s_61:
+    speaker: sakura
+    en: This is all just guess-work, though.
+    ko: 하지만 이 역시 추측에 불과합니다.
+    ja: しかし、これも推測に過ぎません。
+  event_queensorder_03_s_62:
+    speaker: sakura
+    en: Based on the current information we have, their objectives remain unknown
+      to us.
+    ko: 현재까지의 정보로는 그들의 목적이 정확히 무엇인지 알 수 없죠.
+    ja: |-
+      現在までの情報では、彼らの目的を
+      正しく把握することはできませんから。
+  event_queensorder_03_s_63:
+    speaker: sakura
+    en: So we've got to quietly gather more information.
+    ko: 그러니 조용히 정보를 모아봐야 할 것 같습니다.
+    ja: ですから慎重に情報を集めた方がいいでしょう。
+  event_queensorder_03_s_64:
+    speaker: rosanna
+    en: Sounds to me like you'll be investigating the Outer Rim.
+    ko: 보아하니 넌 아우터 림을 조사할 것 같은데.
+    ja: あんたはアウターリムを調べてるみたいだけど
+  event_queensorder_03_s_65:
+    speaker: rosanna
+    en: Should I head to the Ark then?
+    ko: 난 방주 쪽을 보면 되는 건가?
+    ja: あたしはアークの方を調べればいい？
+  event_queensorder_03_s_66:
+    speaker: sakura
+    en: Yes, it'll be easier for you two to keep a low profile there.
+    ko: 예. 당신은 당분간 죽은 채로 있는 편이 더 나을 테니까요.
+    ja: |-
+      はい。あなたはしばらく死んだことに
+      しておいた方がいいでしょう。
+  event_queensorder_03_s_67:
+    speaker: sakura
+    en: If people see you wandering around the Outer Rim, word will spread fast,
+    ko: 아우터 림에 있으면 되려 소문이 빠르게 퍼질 수 있으니,
+    ja: |-
+      アウターリムにいると、
+      噂が早く広まるかもしれません。
+  event_queensorder_03_s_68:
+    speaker: sakura
+    en: so I think it'd be better to leave the Ark to you two.
+    ko: 일단은 방주에 머무르고 있는 편이 좋을 것이라고 생각합니다.
+    ja: ひとまずアークにいた方がよろしいかと。
+  event_queensorder_03_s_69:
+    speaker: rosanna
+    en: Fine by me.
+    ko: 뭐, 잘 됐네.
+    ja: ちょうどいっか。
+  event_queensorder_03_s_70:
+    speaker: rosanna
+    en: I heard the hideout for this Red Gas or whatever they're calling themselves
+      is located in a back alley in the Ark.
+    ko: 나도 붉은 덤불인지 염불인지 하는 놈들이 방주 뒷골목 쪽에도 아지트를 만들어 놨다고 들어서.
+    ja: |-
+      レッドブッシュだかプッシュだかって奴らが、
+      アークの裏通りにアジトを作ったって聞いてね。
+  event_queensorder_03_s_71:
+    speaker: rosanna
+    en: I was planning on paying them a little visit.
+    ko: 그쪽을 찾아가 볼까 했으니까.
+    ja: そっちを調べようかと思ってたんだ。
+  event_queensorder_03_s_72:
+    speaker: "<Self>"
+    en: Wouldn't it be better if we have Moran come with us?
+    ko: 목단에게도 함께 하자고 연락하는 게 낫지 않아?
+    ja: モランにも協力を要請したらどうだ？
+  event_queensorder_03_s_73:
+    speaker: sakura
+    en: You can't do that.
+    ko: 안됩니다.
+    ja: いけません。
+  event_queensorder_03_s_74:
+    speaker: rosanna
+    en: Not under any circumstance can you get her involved in this.
+    ko: 절대 안 돼.
+    ja: 絶対ダメ。
+  event_queensorder_03_s_75:
+    speaker: rosanna
+    en: If you task that numbskull with any form of espionage,
+    ko: 그 바보한테 비밀리에 움직이라고 하다니.
+    ja: あのバカに秘密裏に動けって言うなんて。
+  event_queensorder_03_s_76:
+    speaker: rosanna
+    en: the entire Outer Rim will know what we're doing in mere minutes.
+    ko: 온 아우터 림의 인간들이 우리가 움직이고 있다는 걸 다 알게될걸?
+    ja: すぐアウターリム中に知れ渡ると思うよ？
+  event_queensorder_03_s_77:
+    speaker: "<Self>"
+    en: Shouldn't we at least give her a heads up and warn her of the danger?
+    ko: 그래도 위험하다는 것 정도는 알려야 하지 않을까?
+    ja: |-
+      それでも、危険だということくらいは
+      伝えた方がいいのでは？
+  event_queensorder_03_s_78:
+    speaker: sakura
+    en: She'll be just fine.
+    ko: 몰라도 괜찮을 것이라고 생각합니다.
+    ja: 知らせなくても大丈夫だと思います。
+  event_queensorder_03_s_79:
+    speaker: rosanna
+    en: Yeah, she can handle herself.
+    ko: 응~ 괜찮아.
+    ja: うん、大丈夫でしょ。
+  event_queensorder_03_s_80:
+    speaker: rosanna
+    en: Idiotic people tend to live longer, anyway.
+    ko: 바보는 원래 잘 안 죽거든.
+    ja: バカは死なないから。
+  event_queensorder_03_s_81:
+    speaker: sakura
+    en: Moran may not be the sharpest knife in the drawer,
+    ko: 그것도 그렇지만,
+    ja: それもそうですが
+  event_queensorder_03_s_82:
+    speaker: sakura
+    en: and the Peony Association might be somewhat meager in scale,
+    ko: 목단이 거느리고 있는 모란회는 소수이긴 하나,
+    ja: モランが率いている牡丹会は、数は少ないですが
+  event_queensorder_03_s_83:
+    speaker: sakura
+    en: but every member is highly skilled.
+    ko: 일원 하나하나가 뛰어난 능력을 갖고 있습니다.
+    ja: 一人一人が素晴らしい能力を持っています。
+  event_queensorder_03_s_84:
+    speaker: sakura
+    en: Any slipups from their would-be attackers, and they'll be caught in no time.
+    ko: 어설픈 암살 시도는 부하들의 손에 걸러지겠죠.
+    ja: そう簡単に死ぬような人々ではありません。
+  event_queensorder_03_s_85:
+    speaker: rosanna
+    en: But Mister,
+    ko: 그보다 미스터.
+    ja: それより、ミスター。
+  event_queensorder_03_s_86:
+    speaker: rosanna
+    en: now is not the time to be worrying about other people. You should be worrying
+      about yourself.
+    ko: "지금 남 걱정할 때가 아니야. \n본인을 가장 신경 써야 해."
+    ja: |-
+      今は人の心配してる場合じゃないよ。
+      自分のことを考えないと。
+  event_queensorder_03_s_87:
+    speaker: "<Self>"
+    en: Why me?
+    ko: 나?
+    ja: 私？
+  event_queensorder_03_s_88:
+    speaker: rosanna
+    en: Because...
+    ko: 그래.
+    ja: そう。
+  event_queensorder_03_s_89:
+    speaker: rosanna
+    en: You're one of the few humans that we speak to.
+    ko: 우리 모두와 교류가 있는 몇 안 되는 인간이기도 하지만
+    ja: あたしら全員と交流がある数少ない人間だし
+  event_queensorder_03_s_90:
+    speaker: rosanna
+    en: And now that I came to you,
+    ko: 내가 미스터를 찾아오는 바람에.
+    ja: あたしがミスターに会いに行っちゃったから
+  event_queensorder_03_s_91:
+    speaker: rosanna
+    en: you've become an important target.
+    ko: 미스터도 주요 타깃이 되어버렸을 테니까.
+    ja: ミスターもメインターゲットになってるはず。
+  event_queensorder_03_s_92:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_03_s_93:
+    speaker: rosanna
+    en: So, since things have turned out this way,
+    ko: 그런 의미에서 말하는 건데.
+    ja: ってことでさ。
+  event_queensorder_03_s_94:
+    speaker: rosanna
+    en: why don't you go with Sakura?
+    ko: 이왕 이렇게 된 거 사쿠라를 따라가지 않을래?
+    ja: サクラについていってくれない？
+event_queensorder_03_e:
+  event_queensorder_03_e_1:
+    speaker: "<Self>"
+    en: Is that really the best course of action?
+    ko: 사쿠라를 따라가라고?
+    ja: サクラについていけって？
+  event_queensorder_03_e_2:
+    speaker: rosanna
+    en: Absolutely.
+    ko: 응.
+    ja: うん。
+  event_queensorder_03_e_3:
+    speaker: rosanna
+    en: I know it's dangerous being in the Outer Rim,
+    ko: 아우터 림 내에 있다는 게 좀 위험하기야 하겠지만,
+    ja: アウターリムの中にいるのも危険だけど
+  event_queensorder_03_e_4:
+    speaker: rosanna
+    en: but it will only get more dangerous if you stay here with me.
+    ko: 지금 나와 있으면 더 위험해질 테니까.
+    ja: 今はあたしといる方が危ないから。
+  event_queensorder_03_e_5:
+    speaker: rosanna
+    en: It'll be better for you if you're somewhere where there are more people around
+      to protect you.
+    ko: 보호해 주는 인원이라도 많은 편이 더 낫지 않을까?
+    ja: 守ってくれる人が多い方がいいでしょ？
+  event_queensorder_03_e_6:
+    speaker: "<Self>"
+    en: But what about Rosanna?
+    ko: 그럼 로산나는?
+    ja: じゃあ、ロザンナは？
+  event_queensorder_03_e_7:
+    speaker: rosanna
+    en: What about me?
+    ko: 나?
+    ja: あたし？
+  event_queensorder_03_e_8:
+    speaker: rosanna
+    en: I told you before.
+    ko: 아까 말했잖아.
+    ja: さっき言ったでしょ。
+  event_queensorder_03_e_9:
+    speaker: rosanna
+    en: I've got to do some digging in the Ark.
+    ko: 난 방주에서 알아봐야 할 게 있다고.
+    ja: あたしはアークで調べることがあるって。
+  event_queensorder_03_e_10:
+    speaker: "<Self>"
+    en: Then I'm not going.
+    ko: 그럼 나도 안가.
+    ja: じゃあ私も行かない
+  event_queensorder_03_e_11:
+    speaker: "<Self>"
+    en: It's dangerous by yourself.
+    ko: 혼자는 위험해.
+    ja: 1人は危険だ
+  event_queensorder_03_e_12:
+    speaker: rosanna
+    en: Two doesn't make it better.
+    ko: 둘이어도 다르지 않아.
+    ja: 2人だって一緒だよ。
+  event_queensorder_03_e_13:
+    speaker: rosanna
+    en: It only increases the danger.
+    ko: 위험한 사람이 늘어날 뿐이야.
+    ja: 危ない目に遭う人が増えるだけ。
+  event_queensorder_03_e_14:
+    speaker: "<Self>"
+    en: No, two is better than one.
+    ko: 아니, 혼자보다는 둘이 나아.
+    ja: いや、1人よりは2人の方がいい
+  event_queensorder_03_e_15:
+    speaker: "<Self>"
+    en: We can accomplish more.
+    ko: 할 수 있는 일이 더 많아질 거야.
+    ja: できることが増えるはずだ
+  event_queensorder_03_e_16:
+    speaker: rosanna
+    en: Including attacking the hideout?
+    ko: 그 할 수 있는 일이 뒷골목의 갱단에 쳐들어가는 것인데도?
+    ja: |-
+      できることって、裏通りのギャングのアジトに
+      攻め込むことだけど？
+  event_queensorder_03_e_17:
+    speaker: rosanna
+    en: You might take a bullet inside enemy lines.
+    ko: 적진 한복판에 뛰어들어서 총 맞을지도 몰라.
+    ja: 敵陣の真ん中に飛び込んで、撃たれるかもよ。
+  event_queensorder_03_e_18:
+    speaker: rosanna
+    en: You okay with that?
+    ko: 그래도 괜찮겠어?
+    ja: それでもいいの？
+  event_queensorder_03_e_19:
+    speaker: "<Self>"
+    en: I am.
+    ko: "…괜찮아."
+    ja: "…大丈夫だ"
+  event_queensorder_03_e_20:
+    speaker: rosanna
+    en: Haha, you really are a headcase.
+    ko: 하하. 왜 그래~ 정말.
+    ja: アハハ。まいっちゃうな～
+  event_queensorder_03_e_21:
+    speaker: rosanna
+    en: Are you really so infatuated with me that you can't stand to be away from
+      me?
+    ko: |-
+      내가 그렇게 좋아?
+      떨어져 있기 싫어?
+    ja: |-
+      そんなにあたしが好き？
+      離れたくない？
+  event_queensorder_03_e_22:
+    speaker: "<Self>"
+    en: Didn't you say that you'd protect me?
+    ko: 지켜준다고 하지 않았어?
+    ja: 守るって言ってただろう？
+  event_queensorder_03_e_23:
+    speaker: rosanna
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_03_e_24:
+    speaker: "<Self>"
+    en: Have you lost confidence in your ability to do that?
+    ko: 지켜줄 자신이 없어진 거야?
+    ja: 自信がなくなったのか？
+  event_queensorder_03_e_25:
+    speaker: rosanna
+    en: What is this? Are you trying to get my goat?
+    ko: "…미스터. 지금 뭐 하자는 거야?"
+    ja: "…ミスター。何がしたいの？"
+  event_queensorder_03_e_26:
+    speaker: rosanna
+    en: What good does it do you to provoke me?
+    ko: 날 도발해서 뭘 어쩌려고.
+    ja: あたしを挑発してどうする気？
+  event_queensorder_03_e_27:
+    speaker: rosanna
+    en: You could die, you know that?
+    ko: 죽을 수도 있다니까?
+    ja: 死ぬかもしれないんだよ？
+  event_queensorder_03_e_28:
+    speaker: "<Self>"
+    en: I won't be dying anytime soon. Neither will you.
+    ko: 죽지 않을 거야. 나도. 로산나도.
+    ja: 死なない。私も、ロザンナも
+  event_queensorder_03_e_29:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_03_e_30:
+    speaker: rosanna
+    en: "*Sigh* Fine. Do what you want."
+    ko: 하아… 그래, 마음대로 해.
+    ja: ハァ…そう。勝手にして。
+  event_queensorder_03_e_31:
+    speaker: rosanna
+    en: But from here on out, I'm not making any more concessions just to make things
+      more convenient for you.
+    ko: 하지만 더 이상 미스터의 편의를 봐주면서 움직이진 않을 거야.
+    ja: |-
+      でも、もうミスターをかばいながら
+      動きはしないから。
+  event_queensorder_03_e_32:
+    speaker: rosanna
+    en: Keep that in mind.
+    ko: 그건 명심해 둬.
+    ja: それだけは覚えておいて。
+  event_queensorder_03_e_33:
+    speaker: "<Self>"
+    en: "... Okay."
+    ko: "…알겠어."
+    ja: "…分かった"
+  event_queensorder_03_e_34:
+    speaker: sakura
+    en: Are you two finished?
+    ko: 이야기는 다 끝나셨을까요?
+    ja: お話は終わりましたか？
+  event_queensorder_03_e_35:
+    speaker: "<Self>"
+    en: Sorry. I'll be going with Rosanna.
+    ko: 미안, 이번에는 로산나와 함께 있을게.
+    ja: すまない、今回はロザンナと一緒にいる
+  event_queensorder_03_e_36:
+    speaker: sakura
+    en: Fine.
+    ko: 괜찮습니다.
+    ja: 構いません。
+  event_queensorder_03_e_37:
+    speaker: sakura
+    en: If that's what you've decided, then I won't argue.
+    ko: 그것이 군이 선택한 길이라면 말리지 않겠습니다.
+    ja: それが君が選んだ道ならば、引き止めませんよ。
+  event_queensorder_03_e_38:
+    speaker: sakura
+    en: But at the very least, get out of that ridiculous military uniform.
+    ko: 다만, 옷 정도는 군복이 아닌 것으로 갈아입고 가시지요.
+    ja: ただし、軍服は着替えた方がいいでしょう。
+  event_queensorder_03_e_39:
+    speaker: "<Self>"
+    en: But I don't have any other outfits...
+    ko: 그렇지만 갈아입을 옷이….
+    ja: だが、着替えが…
+  event_queensorder_03_e_40:
+    speaker: sakura
+    en: Don't worry.
+    ko: 걱정 마시지요.
+    ja: 心配無用です。
+  event_queensorder_03_e_41:
+    speaker: sakura
+    en: I've prepared everything ahead of time.
+    ko: 이 사쿠라가 전부 준비해두었습니다.
+    ja: このサクラが、すべて用意しておきました。
+  event_queensorder_03_e_42:
+    speaker: "<Monologue>"
+    en: Sakura opens the bag that she brought.
+    ko: 사쿠라가 갖고 온 가방을 열었다.
+    ja: サクラが持っていたカバンを開けた
+  event_queensorder_03_e_43:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_03_e_44:
+    speaker: "<Monologue>"
+    en: Inside, there is a neatly folded suit.
+    ko: 정장 한 벌이 정갈하게 접혀 있다.
+    ja: スーツが一着、きれいに畳まれていた
+  event_queensorder_03_e_45:
+    speaker: sakura
+    en: You can change inside there.
+    ko: 저 안쪽에서 갈아입고 오시지요.
+    ja: 奥で着替えてきてください。
+  event_queensorder_03_e_46:
+    speaker: rosanna
+    en: What's wrong with him changing right here?
+    ko: 왜~ 여기서 갈아입어도 좋을 거 같은데.
+    ja: え～？ここで着替えれば～？
+  event_queensorder_03_e_47:
+    speaker: sakura
+    en: "... Rosanna."
+    ko: "…로산나."
+    ja: "…ロザンナ。"
+  event_queensorder_03_e_48:
+    speaker: rosanna
+    en: What? You know you want to see it.
+    ko: 왜 그래~ 넌 싫은 것처럼.
+    ja: あんただってイヤじゃないでしょ？
+  event_queensorder_03_e_49:
+    speaker: sakura
+    en: "..."
+    ko: 그건….
+    ja: それは…
+  event_queensorder_03_e_50:
+    speaker: "<Self>"
+    en: I'll change inside and come back out.
+    ko: "…안에서 갈아입고 나올게."
+    ja: "…奥で着替えてくる"
+  event_queensorder_03_e_51:
+    speaker: rosanna
+    en: Hehe, see you in a bit.
+    ko: 하하. 잘 다녀와~
+    ja: アハハ。行ってらっしゃ～い。
+  event_queensorder_03_e_52:
+    speaker: "<Monologue>"
+    en: I changed into the suit Sakura prepared.
+    ko: 사쿠라가 마련해 준 정장을 입고 나왔다.
+    ja: サクラが用意してくれたスーツを着て戻った
+  event_queensorder_03_e_53:
+    speaker: sakura
+    en: Looks like a perfect fit.
+    ko: 음. 사이즈가 잘 맞네요.
+    ja: サイズはぴったりですね。
+  event_queensorder_03_e_54:
+    speaker: sakura
+    en: You look extra spiffy, just like I thought you would.
+    ko: 예상대로 잘 어울리시는군요.
+    ja: 予想通り、とてもお似合いです。
+  event_queensorder_03_e_55:
+    speaker: "<Self>"
+    en: Thank you.
+    ko: 고마워.
+    ja: ありがとう
+  event_queensorder_03_e_56:
+    speaker: sakura
+    en: Now, just put these on.
+    ko: 자, 그럼 이것도 착용해 주시겠습니까?
+    ja: では、こちらもかけてくれますか？
+  event_queensorder_03_e_57:
+    speaker: "<Monologue>"
+    en: Sakura hands over a pair of sunglasses.
+    ko: 사쿠라가 선글라스를 건넸다.
+    ja: サクラがサングラスを渡した
+  event_queensorder_03_e_58:
+    speaker: "<Self>"
+    en: I've also got to wear sunglasses?
+    ko: 선글라스도 써야 하는구나.
+    ja: これもかけないといけないのか
+  event_queensorder_03_e_59:
+    speaker: sakura
+    en: Absolutely. You cannot reveal your face.
+    ko: 예. 절대 얼굴이 드러나서는 안되니까요.
+    ja: はい。絶対に顔を見せてはいけません。
+  event_queensorder_03_e_60:
+    speaker: rosanna
+    en: Being someone we're interested in,
+    ko: 우리가 들이대는 대상으로 존재하는 거랑.
+    ja: あたしらに誘惑される対象でいるのと
+  event_queensorder_03_e_61:
+    speaker: rosanna
+    en: and getting yourself involved in our business affairs are two totally different
+      things.
+    ko: 우리의 일에 가담하는 인간이 되는 건 전혀 다른 이야기니까.
+    ja: |-
+      あたしらに加担する人間になるのは
+      まったく別の話だからね。
+  event_queensorder_03_e_62:
+    speaker: rosanna
+    en: If you end up accidentally revealing your identity,
+    ko: 잘못해서 우리랑 함께 다닌다고 얼굴이 알려지기라도 하면,
+    ja: あたしらの仲間として顔が割れたら
+  event_queensorder_03_e_63:
+    speaker: rosanna
+    en: then you might not be able to return back to your normal life.
+    ko: 그땐 정말 양지로 되돌아갈 수 없을지도 몰라.
+    ja: その時は、本当に日なたに戻れないかもよ。
+  event_queensorder_03_e_64:
+    speaker: rosanna
+    en: I doubt that's something you want, right?
+    ko: 미스터가 바라는 건 그게 아니잖아?
+    ja: そこまでは望んでないでしょ？
+  event_queensorder_03_e_65:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_03_e_66:
+    speaker: rosanna
+    en: Although I'm not entirely opposed to the idea of you living in the underworld
+      with me full-time,
+    ko: 뭐, 나야 나와 평생 음지에서 살아가는 것도 나쁘지 않다고는 생각하지만.
+    ja: |-
+      まあ、一生日陰であたしと一緒に生きていくのも
+      悪くないと思うけど。
+  event_queensorder_03_e_67:
+    speaker: rosanna
+    en: that would definitely knock a few points off in terms of your attractiveness,
+      so I'll pass.
+    ko: 그러면 미스터만의 매력을 잃어버릴 것 같으니 패스.
+    ja: |-
+      そうするとミスターにしかない魅力が
+      消えちゃいそうだからダメ。
+  event_queensorder_03_e_68:
+    speaker: rosanna
+    en: You need to keep your eyes peeled while you're out on the field with us.
+    ko: 그러니까 미스터 스스로 특별히 더 조심해야 해.
+    ja: だから、十分気をつけて。
+  event_queensorder_03_e_69:
+    speaker: "<Self>"
+    en: Will do.
+    ko: "…명심할게."
+    ja: "…分かった"
+  event_queensorder_03_e_70:
+    speaker: rosanna
+    en: Good. Then should we get moving?
+    ko: 좋아. 그럼 움직일까?
+    ja: よし。それじゃ行こっか？
+  event_queensorder_03_e_71:
+    speaker: sakura
+    en: Rosanna.
+    ko: 로산나.
+    ja: ロザンナ。
+  event_queensorder_03_e_72:
+    speaker: sakura
+    en: Please take care of him.
+    ko: 군을 부탁드립니다.
+    ja: "@UserName君のこと、よろしく頼みます。"
+  event_queensorder_03_e_73:
+    speaker: rosanna
+    en: As if you had to ask.
+    ko: 부탁하지 말아줄래?
+    ja: そんなこと言われる筋合いないケド。
+  event_queensorder_03_e_74:
+    speaker: rosanna
+    en: Besides, he's with me anyway.
+    ko: 내 사람이야.
+    ja: あたしの男なんだから。
+  event_queensorder_03_e_75:
+    speaker: rosanna
+    en: I'm the one he chose to accompany.
+    ko: 나와 함께 머무르기를 선택한, 내 사람.
+    ja: |-
+      あたしと一緒にいることを選んでくれた、
+      あたしの男。
+  event_queensorder_03_e_76:
+    speaker: sakura
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_03_e_77:
+    speaker: sakura
+    en: "@UserName-kun, you be careful."
+    ko: 군도 조심하십시오.
+    ja: 君もお気をつけて。
+  event_queensorder_03_e_78:
+    speaker: sakura
+    en: Message me anytime you feel things are getting out of hand.
+    ko: 위험하다 싶으면 언제든 문자하시고요.
+    ja: 危険な時はいつでもご連絡ください。
+  event_queensorder_03_e_79:
+    speaker: sakura
+    en: I'll come and get you out of whatever jam you're in.
+    ko: 모시러 가겠습니다.
+    ja: お迎えに上がります。
+  event_queensorder_03_e_80:
+    speaker: "<Self>"
+    en: Don't worry about me.
+    ko: 걱정하지 마.
+    ja: 心配するな
+  event_queensorder_03_e_81:
+    speaker: rosanna
+    en: Ugh, would you two quit being so irritating and leave?
+    ko: 아~ 그만 질척대고 좀 갈래?
+    ja: あんまりベタベタしないでくれる？
+  event_queensorder_03_e_82:
+    speaker: sakura
+    en: Alrighty, see you soon.
+    ko: 그럼 조만간 또 뵙지요.
+    ja: それではまたお会いしましょう。
+  event_queensorder_03_e_83:
+    speaker: "<Monologue>"
+    en: Sakura leaves.
+    ko: 사쿠라가 떠나갔다.
+    ja: サクラが立ち去った
+  event_queensorder_03_e_84:
+    speaker: rosanna
+    en: We better get going as well, Mister.
+    ko: 우리도 움직일까, 미스터?
+    ja: あたしらも行こっか、ミスター。
+  event_queensorder_03_e_85:
+    speaker: "<Self>"
+    en: "... Sure."
+    ko: "…그래."
+    ja: "…ああ"
+event_queensorder_intermission_01:
+  event_queensorder_intermission_01_1:
+    speaker: "<Monologue>"
+    en: After leaving Sakura's safe house, we maneuvered our way through the Ark's
+      back alleys.
+    ko: 사쿠라의 안전 가옥에서 나온 우리는 방주의 뒷골목을 걸었다.
+    ja: |-
+      サクラの隠れ家から出てきた私たちは
+      アークの裏通りを歩いていた
+  event_queensorder_intermission_01_2:
+    speaker: "<Monologue>"
+    en: After what felt like a long time, we stopped before a small alleyway in front
+      of a huge storage facility.
+    ko: 그렇게 한참을 걸어가다, 거대한 창고 옆 골목길에 멈춰 섰다.
+    ja: |-
+      そうしてしばらく歩き、
+      巨大な倉庫の横道で立ち止まった
+  event_queensorder_intermission_01_3:
+    speaker: rosanna
+    en: That's where we need to go.
+    ko: 우리가 가야 할 곳이 저기야.
+    ja: あたしたちが行くべき場所はあそこだよ。
+  event_queensorder_intermission_01_4:
+    speaker: rosanna
+    en: You see that warehouse?
+    ko: 보이지? 저 창고.
+    ja: 見えるでしょ？あの倉庫。
+  event_queensorder_intermission_01_5:
+    speaker: "<Monologue>"
+    en: I stare at where Rosanna is pointing.
+    ko: 로산나가 가리키는 곳을 바라보았다.
+    ja: ロザンナが指差す場所を見た
+  event_queensorder_intermission_01_6:
+    speaker: "<Monologue>"
+    en: I can see two guards standing in the front of the warehouse,
+    ko: 창고 문 앞을 지키고 있는 두 명의 남자와,
+    ja: 倉庫の扉の前で警備をしている2人の男と
+  event_queensorder_intermission_01_7:
+    speaker: "<Monologue>"
+    en: and several more armed guards inside.
+    ko: 창고 안에 무리 짓고 있는 수많은 무장 인원들이 보인다.
+    ja: 倉庫の中に武装した人々の集団が見える
+  event_queensorder_intermission_01_8:
+    speaker: "<Self>"
+    en: We need to find our way inside that place.
+    ko: 저기를 가야 한다고?
+    ja: あそこに行くのか？
+  event_queensorder_intermission_01_9:
+    speaker: rosanna
+    en: Yep.
+    ko: 응.
+    ja: うん。
+  event_queensorder_intermission_01_10:
+    speaker: "<Self>"
+    en: Just the two of us?
+    ko: 우리 둘이서?
+    ja: 私たち2人だけで？
+  event_queensorder_intermission_01_11:
+    speaker: rosanna
+    en: Yep. Doesn't it sound like fun?!
+    ko: 응. 재밌겠지?
+    ja: うん。面白そうでしょ？
+  event_queensorder_intermission_01_12:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_intermission_01_13:
+    speaker: rosanna
+    en: C'mon, don't be a scaredy-cat.
+    ko: 하하, 뭘 그렇게 쫄고 그래.
+    ja: アハハ、そんなビビんないでよ。
+  event_queensorder_intermission_01_14:
+    speaker: rosanna
+    en: It'll be fine.
+    ko: 괜찮아.
+    ja: 大丈夫。
+  event_queensorder_intermission_01_15:
+    speaker: rosanna
+    en: You're not gonna die or anything.
+    ko: 안 죽어.
+    ja: 死なないから。
+  event_queensorder_intermission_01_16:
+    speaker: "<Self>"
+    en: How are you planning on getting past the guards?
+    ko: 저 경계를 어떻게 뚫고 들어가려고?
+    ja: あの警備をどうやってかいくぐるんだ？
+  event_queensorder_intermission_01_17:
+    speaker: rosanna
+    en: Well,
+    ko: 음.
+    ja: うーん。
+  event_queensorder_intermission_01_18:
+    speaker: rosanna
+    en: since you asked...
+    ko: 그래서 말인데.
+    ja: あのさ。
+  event_queensorder_intermission_01_19:
+    speaker: rosanna
+    en: How are your acting skills?
+    ko: 미스터, 연기는 좀 해?
+    ja: ミスター、演技は得意？
+  event_queensorder_intermission_01_20:
+    speaker: "<Choice>"
+    en: I'm a master thespian.
+    ko: 나야 연기의 신이지.
+    ja: 私は演技の神だ
+  event_queensorder_intermission_01_21:
+    speaker: "<Choice>"
+    en: Can't say I've ever really tried it...
+    ko: 연기는 좀….
+    ja: 演技はちょっと…
+  event_queensorder_intermission_01_22:
+    speaker: rosanna
+    en: Master thespian, you say?
+    ko: 연기의 신?
+    ja: 演技の神？
+  event_queensorder_intermission_01_23:
+    speaker: rosanna
+    en: You?
+    ko: 미스터가?
+    ja: ミスターが？
+  event_queensorder_intermission_01_24:
+    speaker: rosanna
+    en: Hmm...
+    ko: 호오~ 그래?
+    ja: へえ～そうなんだ？
+  event_queensorder_intermission_01_25:
+    speaker: rosanna
+    en: In that case, this should be easy.
+    ko: 그럼 얘기가 쉽겠네.
+    ja: それなら話が早いね。
+  event_queensorder_intermission_01_26:
+    speaker: rosanna
+    en: Don't worry.
+    ko: 에이 그렇게 어려운 걸 바라는 건 아니니까,
+    ja: そんな難しいことは望んでないって。
+  event_queensorder_intermission_01_27:
+    speaker: rosanna
+    en: Your role shouldn't be anything too demanding.
+    ko: 너무 걱정하지 마.
+    ja: あんまり心配しないで。
+  event_queensorder_intermission_01_28:
+    speaker: "<Self>"
+    en: You're not going to have me act in front of them, are you?
+    ko: 설마 나한테 저기서 연기를 해보라는 건 아니지?
+    ja: まさか、あそこで演技させるつもりか？
+  event_queensorder_intermission_01_29:
+    speaker: rosanna
+    en: You bet your sweet bippy I am.
+    ko: 오, 정답.
+    ja: おっ、正解。
+  event_queensorder_intermission_01_30:
+    speaker: rosanna
+    en: You're quick.
+    ko: 눈치 빠른데?
+    ja: 勘がイイじゃん。
+  event_queensorder_intermission_01_31:
+    speaker: "<Self>"
+    en: This is asking a bit much of me...
+    ko: 그건 무리일 거 같은데….
+    ja: それは無理だと思うが…
+  event_queensorder_intermission_01_32:
+    speaker: rosanna
+    en: No need to be so nervous.
+    ko: 그렇게 긴장할 거 없어.
+    ja: 緊張しなくていいよ。
+  event_queensorder_intermission_01_33:
+    speaker: rosanna
+    en: All you've gotta do is drag me out by the neck,
+    ko: 그냥~
+    ja: ただ
+  event_queensorder_intermission_01_34:
+    speaker: rosanna
+    en: 'and say one thing:'
+    ko: 내 목을 끌고 들어가서 딱 한마디만 하면 돼.
+    ja: |-
+      あたしの首根っこを引っ張っていって、
+      一言言えばいいだけ。
+  event_queensorder_intermission_01_35:
+    speaker: rosanna
+    en: I've brought you the boss of Hedonia.
+    ko: "[헤도니아 보스의 목을 가져왔다]고."
+    ja: "「ヘッドニアのボスの首を持ってきたぞ」って。"
+  event_queensorder_intermission_01_36:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_intermission_01_37:
+    speaker: rosanna
+    en: Easy, right?
+    ko: 쉽지?
+    ja: 簡単でしょ？
+  event_queensorder_intermission_01_38:
+    speaker: "<Choice>"
+    en: Not even a little bit.
+    ko: 전혀.
+    ja: 全然簡単じゃない
+  event_queensorder_intermission_01_39:
+    speaker: "<Choice>"
+    en: I think I can handle that.
+    ko: 할 만은 한 것 같은데….
+    ja: できそうではあるが…
+  event_queensorder_intermission_01_40:
+    speaker: rosanna
+    en: Don't worry.
+    ko: 걱정하지 마.
+    ja: 心配しないで。
+  event_queensorder_intermission_01_41:
+    speaker: rosanna
+    en: I've got a Plan B prepared just in case.
+    ko: 플랜 B도 당연히 준비해 놨으니까.
+    ja: もちろんプランBも用意してあるから。
+  event_queensorder_intermission_01_42:
+    speaker: "<Self>"
+    en: And what's that?
+    ko: 플랜 B? 그건 뭔데?
+    ja: プランB？どんなプランだ？
+  event_queensorder_intermission_01_43:
+    speaker: rosanna
+    en: Dunno.
+    ko: 글쎄~
+    ja: さあ～
+  event_queensorder_intermission_01_44:
+    speaker: rosanna
+    en: It's more fun leaving it as a secret, don't you think?
+    ko: 그건 비밀로 해두는 게 더 재미있지 않을까?
+    ja: それはヒミツ。その方が面白いでしょ？
+  event_queensorder_intermission_01_45:
+    speaker: "<Self>"
+    en: "... I'm starting to get seriously worried."
+    ko: "…불안한데."
+    ja: "…不安だ"
+  event_queensorder_intermission_01_46:
+    speaker: rosanna
+    en: Ha! Whatever happened to that big brave man act you were giving me earlier?
+    ko: 하하. 나와 함게 하겠다던 그 패기는 다 어디 갔어?
+    ja: |-
+      アハハ。あたしと一緒に行くって言ってた時の
+      勢いはどこ行ったの？
+  event_queensorder_intermission_01_47:
+    speaker: rosanna
+    en: Honestly, you don't have to worry.
+    ko: 정말로 걱정 안 해도 돼.
+    ja: 本当に心配いらないよ。
+  event_queensorder_intermission_01_48:
+    speaker: rosanna
+    en: This is all just a ruse to make things move a little smoother.
+    ko: 이건 그냥 초반에 쉽게 파고들기 위한 위장일 뿐이니까.
+    ja: |-
+      これはただスムーズに侵入するための
+      偽造工作にすぎないんだから。
+  event_queensorder_intermission_01_49:
+    speaker: rosanna
+    en: Your presence alone
+    ko: 미스터는 존재하는 것만으로도
+    ja: ミスターは存在だけで
+  event_queensorder_intermission_01_50:
+    speaker: rosanna
+    en: is a big help to me.
+    ko: 나한테 큰 힘이 되거든.
+    ja: あたしにとって大きな力になるの。
+  event_queensorder_intermission_01_51:
+    speaker: "<Self>"
+    en: It is?
+    ko: 존재하는 것만으로?
+    ja: 存在だけで？
+  event_queensorder_intermission_01_52:
+    speaker: "<Monologue>"
+    en: Rosanna gives me a big smile.
+    ko: 로산나가 씨익- 웃었다.
+    ja: ロザンナがニヤッと笑った
+  event_queensorder_intermission_01_53:
+    speaker: rosanna
+    en: Let me tell you something.
+    ko: 그거 알아?
+    ja: 知ってる？
+  event_queensorder_intermission_01_54:
+    speaker: rosanna
+    en: Of all the humans and Nikkes that I've ever interacted with,
+    ko: 내가 목을 맡긴 건 인간, 니케 생을 통틀어 단 한 번 밖에 없었어.
+    ja: |-
+      あたしが誰かに首を預けたのは、人間だった時を
+      入れても、たった1回しかないの。
+  event_queensorder_intermission_01_55:
+    speaker: rosanna
+    en: there's only been one person I've ever entrusted with something like this.
+    ko: 두 번째가 바로 미스터라고.
+    ja: 2回目がミスター。
+  event_queensorder_intermission_01_56:
+    speaker: rosanna
+    en: You're now the second.
+    ko: 그러니 잘 부탁해.
+    ja: だからよろしく。
+  event_queensorder_intermission_01_57:
+    speaker: "<Self>"
+    en: Who was the first?
+    ko: 첫 번째는 누구였는데?
+    ja: 最初は誰だったんだ？
+  event_queensorder_intermission_01_58:
+    speaker: rosanna
+    en: The boss before me.
+    ko: 전대 보스.
+    ja: 先代のボス。
+  event_queensorder_intermission_01_59:
+    speaker: rosanna
+    en: A despicable man who sold the brain of his non-biological daughter
+    ko: 친 자식은 아니라지만 딸처럼 여기고 부려왔던 계집애의 목을 팔아서,
+    ja: |-
+      実の子どもじゃないけど、娘のように
+      こき使ってきた女の首を売って
+  event_queensorder_intermission_01_60:
+    speaker: rosanna
+    en: to prolong his life by any means possible.
+    ko: 어떻게든 생을 연명하려고 한 치졸한 남자가 있어.
+    ja: なんとか生き延びようとしたズルい男がいてね。
+  event_queensorder_intermission_01_61:
+    speaker: rosanna
+    en: What he didn't expect was for her to turn into Nikke and chop off his head.
+    ko: 그 딸이 니케가 되어 돌아와 자신의 목을 찌를 줄 몰랐던 멍청한 남자가.
+    ja: |-
+      その娘がニケとなって戻ってきて、まさか自分の
+      首を取るとは思ってなかったっていう
+      バカな男よ。
+  event_queensorder_intermission_01_62:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_intermission_01_63:
+    speaker: rosanna
+    en: What I'm saying, Mister,
+    ko: 그러니 미스터.
+    ja: だからミスター。
+  event_queensorder_intermission_01_64:
+    speaker: rosanna
+    en: is don't betray me.
+    ko: 배신하지 마.
+    ja: 裏切らないで。
+  event_queensorder_intermission_01_65:
+    speaker: rosanna
+    en: Or else I'll never forgive you.
+    ko: 절대 용서하지 않을 거니까.
+    ja: 裏切りは、絶対に許さないから。
+  event_queensorder_intermission_01_66:
+    speaker: "<Self>"
+    en: If there was ever a chance of that, I wouldn't have followed you to start
+      with.
+    ko: "…그럴 거였으면 애초에 따라오지도 않았을 거야."
+    ja: |-
+      …そのつもりなら、
+      そもそもついてこなかった
+  event_queensorder_intermission_01_67:
+    speaker: rosanna
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_intermission_01_68:
+    speaker: rosanna
+    en: Hehe, I suppose you're right.
+    ko: "…하하. 그렇네."
+    ja: "…アハハ。確かに。"
+  event_queensorder_intermission_01_69:
+    speaker: rosanna
+    en: You're not that kind of guy.
+    ko: 미스터는 그런 인간이었지.
+    ja: ミスターはそういう人間だったね。
+  event_queensorder_intermission_01_70:
+    speaker: rosanna
+    en: It doesn't matter who you're going up against,
+    ko: 상대가 양지에 있든, 음지에 있든.
+    ja: 相手が日なたにいようが、日陰にいようが
+  event_queensorder_intermission_01_71:
+    speaker: rosanna
+    en: you're someone who places trust in others.
+    ko: 신뢰를 보여주는 인간.
+    ja: 信頼してくれる人。
+event_queensorder_04_s:
+  event_queensorder_04_s_1:
+    speaker: fatman
+    en: H-hey, you there!
+    ko: 어, 어이, 거기!!
+    ja: お、おい、そこのお前！！
+  event_queensorder_04_s_2:
+    speaker: fatman
+    en: Stop!!
+    ko: 멈춰!!
+    ja: 止まれ！！
+  event_queensorder_04_s_3:
+    speaker: "<Choice>"
+    en: Stop.
+    ko: 멈춘다.
+    ja: 止まる
+  event_queensorder_04_s_4:
+    speaker: "<Choice>"
+    en: Don't stop.
+    ko: 멈추지 않는다.
+    ja: 止まらない
+  event_queensorder_04_s_5:
+    speaker: fatman
+    en: Whoa, he actually stopped!
+    ko: 머, 멈췄다!
+    ja: と、止まった！
+  event_queensorder_04_s_6:
+    speaker: swiftgang
+    en: Why in the world are you so happy about something so basic?
+    ko: 야, 지금 그걸로 좋아할 때냐?
+    ja: おい、喜んでる場合か？
+  event_queensorder_04_s_7:
+    speaker: swiftgang
+    en: Hey, buddy.
+    ko: 어이 형씨.
+    ja: なあ、兄ちゃん。
+  event_queensorder_04_s_8:
+    speaker: swiftgang
+    en: Do you know what this place is?
+    ko: 여기가 어딘 줄 알고 온 거야?
+    ja: ここがどこだか分かってんのか？
+  event_queensorder_04_s_9:
+    speaker: swiftgang
+    en: It's a place where nicely-dressed folks like yourself shouldn't be.
+    ko: 여긴 이렇게 점잖게 빼입은 형씨가 들락거리는 곳이 아니라고.
+    ja: |-
+      ここはそんなスーツ着てるような奴が
+      出入りする場所じゃないんだよ。
+  event_queensorder_04_s_10:
+    speaker: "<Choice>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_11:
+    speaker: "<Choice>"
+    en: I've brought you Hedonia's boss.
+    ko: 헤도니아 보스의 목을 가져왔다.
+    ja: ヘッドニアのボスの首を持ってきた
+  event_queensorder_04_s_12:
+    speaker: swiftgang
+    en: Hey. Hey!
+    ko: 야. 야!
+    ja: おい。おい！
+  event_queensorder_04_s_13:
+    speaker: "<Monologue>"
+    en: The nimble-looking man shoves me.
+    ko: 날쌔 보이는 남자가 어깨를 밀쳤다.
+    ja: 男が肩を押した
+  event_queensorder_04_s_14:
+    speaker: swiftgang
+    en: What's the matter with you? Why aren't you saying anything?
+    ko: 이게 미쳤나, 왜 말을 안 해.
+    ja: てめえ、なんで黙ってんだよ？
+  event_queensorder_04_s_15:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_16:
+    speaker: "<Monologue>"
+    en: I think we may have to flip the script.
+    ko: "…컨셉을 잘못 잡은 것 같다."
+    ja: "…方向性を変えた方がよさそうだ"
+  event_queensorder_04_s_17:
+    speaker: swiftgang
+    en: Helllooo? Are you deaf?
+    ko: 내 말 안 들리냐?
+    ja: 俺の声が聞こえねえのか？
+  event_queensorder_04_s_18:
+    speaker: "<Monologue>"
+    en: I don't know how to improvise.
+    ko: 언제 말을 꺼내야 할지 모르겠다.
+    ja: |-
+      いつ話し出せばいいのか
+      分からなくなってしまった
+  event_queensorder_04_s_19:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_20:
+    speaker: "<Monologue>"
+    en: 'I suddenly realize what I''m missing: Rosanna.'
+    ko: 그러고 보니 로산나가 자길 데리러 오라고 했던 것도 같은데….
+    ja: |-
+      そういえば、ロザンナが自分を迎えに来いと
+      言っていたような…
+  event_queensorder_04_s_21:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_22:
+    speaker: "<Monologue>"
+    en: I leave the two men and head back into the alleyway where Rosanna is.
+    ko: 두 남자를 두고 로산나가 있는 골목으로 향했다.
+    ja: 男たちを置いてロザンナがいる路地へ向かった
+  event_queensorder_04_s_23:
+    speaker: swiftgang
+    en: What was that all about?
+    ko: 뭐야? 저거.
+    ja: 何だ？あれ。
+  event_queensorder_04_s_24:
+    speaker: fatman
+    en: The guy must be sick in the head or something.
+    ko: 아, 아픈 사람일 수도 있어.
+    ja: かわいそうな人なのかもしれないぞ。
+  event_queensorder_04_s_25:
+    speaker: fatman
+    en: There are a lot of nutcases out there these days.
+    ko: 요즘 그런 사람 많다더라.
+    ja: 最近そういう人が多いからな。
+  event_queensorder_04_s_26:
+    speaker: swiftgang
+    en: Even in the Ark?
+    ko: 방주에도 그런 인간이 있다고?
+    ja: アークにもそんな奴が？
+  event_queensorder_04_s_27:
+    speaker: swiftgang
+    en: The entire world's going to hell in a handbasket.
+    ko: 하하. 세상 말세네.
+    ja: ははっ、世も末だな。
+  event_queensorder_04_s_28:
+    speaker: "<Monologue>"
+    en: Feeling like my performance wasn't having the intended effect, I head back
+      to the alley where Rosanna is.
+    ko: 이상한 취급을 당하는 것 같지만 일단 로산나가 있는 골목으로 갔다.
+    ja: |-
+      妙な勘違いをされている気がするが
+      ひとまずロザンナがいる路地へ向かった
+  event_queensorder_04_s_29:
+    speaker: rosanna
+    en: Pffff...!
+    ko: 푸흡…!
+    ja: ププッ…！
+  event_queensorder_04_s_30:
+    speaker: "<Self>"
+    en: "..."
+    ko: "…로산나."
+    ja: "…ロザンナ"
+  event_queensorder_04_s_31:
+    speaker: rosanna
+    en: Okay, okay, let's go.
+    ko: 큭… 알겠어. 가자.
+    ja: ククッ…分かった。行こう。
+  event_queensorder_04_s_32:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_33:
+    speaker: "<Monologue>"
+    en: I drag the seemingly limp and lifeless Rosanna toward the two men.
+    ko: 축 늘어진 척 연기하는 로산나를 끌고 다시 남자들을 향해 갔다.
+    ja: |-
+      死んだフリをしているロザンナを引っ張って
+      再び男たちのところへ向かった
+  event_queensorder_04_s_34:
+    speaker: fatman
+    en: W-wait a sec, that's...?!
+    ko: 저, 저건…!
+    ja: あ、あれは…！
+  event_queensorder_04_s_35:
+    speaker: swiftgang
+    en: That hair color...is that the boss of Hedonia?!
+    ko: 저 머리색은… 헤도니아의 보스?!
+    ja: あの髪の色は…ヘッドニアのボス！？
+  event_queensorder_04_s_36:
+    speaker: "<Self>"
+    en: I've brought her to you, so bring me your boss.
+    ko: 헤도니아의 보스를 데리고 왔으니 너희 보스를 데리고 와.
+    ja: |-
+      ヘッドニアのボスを連れてきた。
+      お前らのボスを連れてこい
+  event_queensorder_04_s_37:
+    speaker: fatman
+    en: Uh, our boss? The boss went to see the wall...
+    ko: |-
+      어? 보스?
+      보스는 지금 벽 보러….
+    ja: |-
+      え？ボス？
+      ボスは今壁を見に…
+  event_queensorder_04_s_38:
+    speaker: fatman
+    en: So you know how to talk after all.
+    ko: 그보다 말할 줄 아네?
+    ja: それより、話せるんじゃねえか。
+  event_queensorder_04_s_39:
+    speaker: swiftgang
+    en: How come you didn't say anything before?
+    ko: 그럼 아깐 왜 아무 말도 안한 거야.
+    ja: なんでさっきは黙ってたんだ？
+  event_queensorder_04_s_40:
+    speaker: "<Self>"
+    en: Because I... was nervous.
+    ko: 긴장해서?
+    ja: 緊張しちゃって？
+  event_queensorder_04_s_41:
+    speaker: swiftgang
+    en: "... Of what?"
+    ko: "…뭐?"
+    ja: "…は？"
+  event_queensorder_04_s_42:
+    speaker: rosanna
+    en: Pffftt!
+    ko: 크큭…!
+    ja: ククッ…！
+  event_queensorder_04_s_43:
+    speaker: "<Monologue>"
+    en: Rosanna starts to quiver as she suppresses her laughter.
+    ko: 로산나가 들썩거렸다.
+    ja: ロザンナが肩をふるわせた
+  event_queensorder_04_s_44:
+    speaker: swiftgang
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_04_s_45:
+    speaker: fatman
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_04_s_46:
+    speaker: swiftgang
+    en: What?
+    ko: 뭐?
+    ja: おい。
+  event_queensorder_04_s_47:
+    speaker: swiftgang
+    en: You brought what?
+    ko: 뭘… 가져와?
+    ja: 何を…持ってきたって？
+  event_queensorder_04_s_48:
+    speaker: "<Self>"
+    en: I've brought you Rosanna.
+    ko: 로산나의 목을 가져왔다고.
+    ja: ロザンナの首だ
+  event_queensorder_04_s_49:
+    speaker: swiftgang
+    en: Is this some kind of joke? If it is, I ain't laughin'!
+    ko: 장난치는 거면 재미없을 줄 알아!
+    ja: つまんねえ冗談言うな！
+  event_queensorder_04_s_50:
+    speaker: "<Self>"
+    en: Do I look like I'm joking?
+    ko: 장난 같아 보여?
+    ja: 冗談に見えるのか？
+  event_queensorder_04_s_51:
+    speaker: swiftgang
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_04_s_52:
+    speaker: "<Self>"
+    en: Wait here. I'll bring her to you.
+    ko: 기다려. 직접 가져다줄 테니까.
+    ja: 待ってろ。今持ってくるから
+  event_queensorder_04_s_53:
+    speaker: fatman
+    en: Hey, Hey! Where are you going?!
+    ko: 야, 야! 어디 가!
+    ja: お、おい！どこ行くんだ！？
+  event_queensorder_04_s_54:
+    speaker: "<Monologue>"
+    en: I leave two men behind and head towards the alley where Rosanna is.
+    ko: 두 남자를 두고 로산나가 있는 골목으로 향했다.
+    ja: 男たちを置いてロザンナがいる路地へ向かった
+  event_queensorder_04_s_55:
+    speaker: fatman
+    en: Wh-what do we do?
+    ko: 어, 어떻게 하지?
+    ja: ど、どうする？
+  event_queensorder_04_s_56:
+    speaker: fatman
+    en: Should we wait? Should we shoot him?
+    ko: 기, 기다려? 쏴?
+    ja: ま、待つ？それとも撃つ？
+  event_queensorder_04_s_57:
+    speaker: swiftgang
+    en: Let's wait for a second.
+    ko: "…일단 기다려."
+    ja: "…ひとまず待て。"
+  event_queensorder_04_s_58:
+    speaker: swiftgang
+    en: If we don't like whatever he brings back, we can plug him then.
+    ko: 갖고 오는 걸 보고 쏴도 늦지 않으니까.
+    ja: 持ってきたものを見てから撃っても遅くはない。
+  event_queensorder_04_s_59:
+    speaker: "<Monologue>"
+    en: With some trepidation, I head back toward the alleyway where Rosanna is.
+    ko: 긴장을 늦추지 않고 로산나가 있는 골목으로 갔다.
+    ja: 緊張しながらロザンナがいる路地へ向かった
+  event_queensorder_04_s_60:
+    speaker: rosanna
+    en: Not too bad! Looking good out there, sport!
+    ko: 오. 멋진데?
+    ja: おっ。カッコイイじゃん。
+  event_queensorder_04_s_61:
+    speaker: "<Self>"
+    en: "... Let's go."
+    ko: "…가자."
+    ja: "…行こう"
+  event_queensorder_04_s_62:
+    speaker: "<Monologue>"
+    en: I drag the seemingly limp and lifeless Rosanna toward the two men.
+    ko: 축 늘어진 척 연기하는 로산나를 끌고 다시 남자들을 향해 갔다.
+    ja: |-
+      死んだフリをしているロザンナを引っ張って
+      再び男たちのところへ向かった
+  event_queensorder_04_s_63:
+    speaker: fatman
+    en: W-wait a sec, that's...?!
+    ko: 저, 저건…!
+    ja: あ、あれは…！
+  event_queensorder_04_s_64:
+    speaker: swiftgang
+    en: That hair color... is that the boss of Hedonia?!
+    ko: 저 머리색은… 헤도니아의 보스?!
+    ja: あの髪の色は…ヘッドニアのボス！？
+  event_queensorder_04_s_65:
+    speaker: "<Self>"
+    en: I want to see your boss, so show me where I need to go.
+    ko: 너희의 보스를 만나러 왔으니까 안내해.
+    ja: お前らのボスに会いに来た。案内してくれ
+  event_queensorder_04_s_66:
+    speaker: fatman
+    en: Uh, our boss? The boss...
+    ko: 보, 보스?! 보스는…!
+    ja: ボ、ボス！？ボスは…！
+  event_queensorder_04_s_67:
+    speaker: swiftgang
+    en: Who are you to tell us what to do?
+    ko: 네가 뭔데 안내하라 마라야?
+    ja: 何勝手に指図してんだよ？
+  event_queensorder_04_s_68:
+    speaker: swiftgang
+    en: 'First things first: we need to inspect...'
+    ko: 일단 우리가 살펴보고…!
+    ja: まずは俺たちが確認して…！
+  event_queensorder_04_s_69:
+    speaker: "<Self>"
+    en: I'm not saying another word to anyone except for your boss.
+    ko: 보스가 아니면 상대하지 않아.
+    ja: ボスじゃなければダメだ
+  event_queensorder_04_s_70:
+    speaker: fatman
+    en: Hey! Stop right there!
+    ko: 아, 안 멈춰!!
+    ja: ま、待て！！
+  event_queensorder_04_s_71:
+    speaker: swiftgang
+    en: Hey!
+    ko: 야!
+    ja: おい！
+  event_queensorder_04_s_72:
+    speaker: swiftgang
+    en: Have you got wax in your ears or what?!
+    ko: 이게 귓구멍이 쳐 막혔나.
+    ja: 耳の穴ふさがってんのか？
+  event_queensorder_04_s_73:
+    speaker: swiftgang
+    en: I said stop!
+    ko: 안 멈춰?
+    ja: 止まれよ。
+  event_queensorder_04_s_74:
+    speaker: "<Monologue>"
+    en: I guess I misjudged the timing.
+    ko: "…타이밍이 늦은 것 같다."
+    ja: "…止まるタイミングを逃してしまった"
+  event_queensorder_04_s_75:
+    speaker: "<Monologue>"
+    en: It might not be too late to course correct though, so I stop and stand still.
+    ko: 늦게나마 자리에 멈춰 섰다.
+    ja: 一歩遅れてその場に立ち止まった
+  event_queensorder_04_s_76:
+    speaker: swiftgang
+    en: Who are you?
+    ko: 너 뭔데?
+    ja: 何だ、お前？
+  event_queensorder_04_s_77:
+    speaker: swiftgang
+    en: Who do you think you are, coming here dressed like that?
+    ko: 여기가 어딘 줄 알고 쫙 차려입고 와서 어기적 거려?
+    ja: |-
+      スーツ着てよたよた歩きやがって。
+      ここがどこだか分かってんのか？
+  event_queensorder_04_s_78:
+    speaker: "<Choice>"
+    en: What is this place?
+    ko: 여기가 어딘데?
+    ja: どこなんだ？
+  event_queensorder_04_s_79:
+    speaker: "<Choice>"
+    en: I've brought you the Boss of...
+    ko: 헤도니아 보스의….
+    ja: ヘッドニアのボスの…
+  event_queensorder_04_s_80:
+    speaker: fatman
+    en: This place is...
+    ko: 여, 여기? 여기는….
+    ja: こ、ここ？ここは…
+  event_queensorder_04_s_81:
+    speaker: swiftgang
+    en: Hey! Shut your yap!
+    ko: 야, 닥쳐.
+    ja: おい、黙れ。
+  event_queensorder_04_s_82:
+    speaker: swiftgang
+    en: This is a place where people like you get taken for a ride.
+    ko: 어디긴 너 같은 잘난 형씨가 주머니 탈탈 털려나가는 곳이지.
+    ja: |-
+      どこって、お前みたいに調子乗ってる奴が
+      財布をすっからかんにされる場所だよ。
+  event_queensorder_04_s_83:
+    speaker: "<Monologue>"
+    en: Things are starting to get tense.
+    ko: "…점점 분위기가 험악해지고 있다."
+    ja: "…どんどん険悪な雰囲気になっている"
+  event_queensorder_04_s_84:
+    speaker: "<Monologue>"
+    en: I've got to focus.
+    ko: 정신 똑바로 차리자.
+    ja: しっかりしなくては
+  event_queensorder_04_s_85:
+    speaker: "<Self>"
+    en: I've brought you the Boss of Hedonia.
+    ko: 헤도니아 보스의 목을 가져왔다.
+    ja: ヘッドニアのボスの首を持ってきた
+  event_queensorder_04_s_86:
+    speaker: swiftgang
+    en: Excuse me?
+    ko: 뭐?
+    ja: 何だと？
+  event_queensorder_04_s_87:
+    speaker: swiftgang
+    en: You brought what?
+    ko: 뭘… 가져와?
+    ja: 何を…持ってきたって？
+  event_queensorder_04_s_88:
+    speaker: "<Self>"
+    en: I brought you the boss of Hedonia.
+    ko: 로산나의 목을 가져왔다고.
+    ja: ロザンナの首だ
+  event_queensorder_04_s_89:
+    speaker: swiftgang
+    en: Is this some kind of joke? If it is, I ain't laughin'!
+    ko: 장난치는 거면 재미없을 줄 알아!
+    ja: つまんねえ冗談言うな！
+  event_queensorder_04_s_90:
+    speaker: "<Self>"
+    en: Do I look like I'm joking?
+    ko: 장난 같아 보여?
+    ja: 冗談に見えるのか？
+  event_queensorder_04_s_91:
+    speaker: swiftgang
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_04_s_92:
+    speaker: "<Self>"
+    en: Wait here. I'll bring her to you.
+    ko: 기다려. 직접 가져다줄 테니까.
+    ja: 待ってろ。今持ってくるから
+  event_queensorder_04_s_93:
+    speaker: fatman
+    en: Hey, Hey! Where are you going?
+    ko: 야, 야! 어디 가!
+    ja: お、おい！どこ行くんだ！？
+  event_queensorder_04_s_94:
+    speaker: "<Monologue>"
+    en: I leave the two men behind and head towards the alley where Rosanna is.
+    ko: 두 남자를 두고 로산나가 있는 골목으로 향했다.
+    ja: 男たちを置いてロザンナがいる路地へ向かった
+  event_queensorder_04_s_95:
+    speaker: fatman
+    en: What is up with this guy? Why would he ask what this place is?
+    ko: |-
+      뭐, 뭘까 저 사람.
+      어디냐고 했을 땐 진짜 이상해 보였는데.
+    ja: |-
+      な、何だろ、あいつ。ここがどこか
+      聞いてきた時は変な奴に見えたのに。
+  event_queensorder_04_s_96:
+    speaker: fatman
+    en: Then all that stuff about bringing us the boss of Hedonia?
+    ko: 헤도니아의 보스를 데려왔다고 하고…!
+    ja: ヘッドニアのボスを連れてきたなんて言うし…！
+  event_queensorder_04_s_97:
+    speaker: fatman
+    en: This guy's got a screw loose.
+    ko: 이상한 건지 안 이상한 건지 모르겠어!
+    ja: |-
+      変な奴なんだか、まともな奴なんだか
+      分かんないよ！
+  event_queensorder_04_s_98:
+    speaker: swiftgang
+    en: Let's wait and see how this plays out.
+    ko: 일단 더 두고 보자고.
+    ja: とりあえず様子見だな。
+  event_queensorder_04_s_99:
+    speaker: "<Monologue>"
+    en: With some trepidation, I head back toward the alleyway where Rosanna is.
+    ko: 긴장을 늦추지 않고 로산나가 있는 골목으로 갔다.
+    ja: 緊張しながらロザンナがいる路地へ向かった
+  event_queensorder_04_s_100:
+    speaker: rosanna
+    en: Hehe, nice save.
+    ko: 푸흡, 수습 잘하네?
+    ja: ププッ、上手く持ち直したね？
+  event_queensorder_04_s_101:
+    speaker: "<Self>"
+    en: "... Let's go."
+    ko: "…가자."
+    ja: "…行こう"
+  event_queensorder_04_s_102:
+    speaker: "<Monologue>"
+    en: I drag the seemingly limp and lifeless Rosanna toward the two men.
+    ko: 축 늘어진 척 연기하는 로산나를 끌고 다시 남자들을 향해 갔다.
+    ja: |-
+      死んだフリをしているロザンナを引っ張って
+      再び男たちのところへ向かった
+  event_queensorder_04_s_103:
+    speaker: fatman
+    en: W-wait a sec, that's...?!
+    ko: 저, 저건…!
+    ja: あ、あれは…！
+  event_queensorder_04_s_104:
+    speaker: swiftgang
+    en: That hair color... is that the boss of Hedonia?!
+    ko: 저 머리색은… 헤도니아의 보스?!
+    ja: あの髪の色は…ヘッドニアのボス！？
+  event_queensorder_04_s_105:
+    speaker: "<Self>"
+    en: I want to see your boss, so show me where I need to go.
+    ko: 너희의 보스를 만나러 왔으니까 안내해.
+    ja: お前らのボスに会いに来た。案内してくれ
+  event_queensorder_04_s_106:
+    speaker: fatman
+    en: Uh, our boss? The boss...
+    ko: 보, 보스?! 보스는…!
+    ja: ボ、ボス！？ボスは…！
+  event_queensorder_04_s_107:
+    speaker: swiftgang
+    en: Wait. Just a moment ago, you asked where we are.
+    ko: 아깐 여기가 어딘지 묻더니.
+    ja: さっきはここがどこかって聞いたくせに。
+  event_queensorder_04_s_108:
+    speaker: swiftgang
+    en: Now you're asking for the boss?
+    ko: 이젠 보스를 찾네?
+    ja: ボスに会いに来たって？
+  event_queensorder_04_s_109:
+    speaker: swiftgang
+    en: I don't know who you are, Mister,
+    ko: 이봐 형씨.
+    ja: おい、兄ちゃん。
+  event_queensorder_04_s_110:
+    speaker: swiftgang
+    en: but you're seeming awfully shady right about now.
+    ko: 지금 그쪽 엄청 수상한 건 알고 있지?
+    ja: お前、めちゃくちゃ怪しいって分かってるよな？
+  event_queensorder_04_s_111:
+    speaker: "<Self>"
+    en: So what if I'm acting shady? Shouldn't you be more focused on what I've brought
+      you?
+    ko: 내가 수상하든 말든 전리품을 가져왔으면 된 거 아냐?
+    ja: |-
+      怪しかろうが、戦利品を持ってくれば
+      それでいいだろう？
+  event_queensorder_04_s_112:
+    speaker: swiftgang
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_113:
+    speaker: "<Self>"
+    en: Where is your boss?
+    ko: 보스는 어디에 있지?
+    ja: ボスはどこだ？
+  event_queensorder_04_s_114:
+    speaker: "<Monologue>"
+    en: "... Come to think of it, shouldn't I have brought Rosanna with me before
+      talking?"
+    ko: "…그러고 보니 로산나를 먼저 끌고 와서 이야기했어야 했던가?"
+    ja: |-
+      …そういえばロザンナを先に連れてきて
+      話すべきだったか？
+  event_queensorder_04_s_115:
+    speaker: swiftgang
+    en: Well? Boss of what?
+    ko: 보스의 뭐?
+    ja: ボスの？
+  event_queensorder_04_s_116:
+    speaker: "<Self>"
+    en: "... Just a moment."
+    ko: "…잠시만."
+    ja: "…待ってくれ"
+  event_queensorder_04_s_117:
+    speaker: "<Monologue>"
+    en: I leave two men behind and head towards the alley where Rosanna is.
+    ko: 두 남자를 두고 로산나가 있는 골목으로 향했다.
+    ja: 男たちを置いてロザンナがいる路地へ向かった
+  event_queensorder_04_s_118:
+    speaker: swiftgang
+    en: Hey, Hey! Where are you going?
+    ko: 야, 야! 어디 가!
+    ja: お、おい！どこ行くんだ！？
+  event_queensorder_04_s_119:
+    speaker: swiftgang
+    en: What is up with this guy?
+    ko: 뭐야? 저거.
+    ja: 何だ？あれ。
+  event_queensorder_04_s_120:
+    speaker: fatman
+    en: Seems like a real weirdo...
+    ko: 이, 이상한 거 같은데….
+    ja: お、おかしい人なんじゃ…
+  event_queensorder_04_s_121:
+    speaker: fatman
+    en: Should we just shoot him?
+    ko: 이, 일단 쏴봐야 하나?
+    ja: と、とりあえず撃っちゃう？
+  event_queensorder_04_s_122:
+    speaker: swiftgang
+    en: Hold off for a minute. He doesn't seem dangerous.
+    ko: 됐어. 그렇게 위험한 놈은 아닌 거 같으니까.
+    ja: やめとけ。そんな危ない奴には見えない。
+  event_queensorder_04_s_123:
+    speaker: swiftgang
+    en: Let's see how this plays out. I'm curious to see what he's up to.
+    ko: "냅 둬. \n뭐 하는지 궁금하긴 하네."
+    ja: 何をする気なのか、気になるな。
+  event_queensorder_04_s_124:
+    speaker: "<Monologue>"
+    en: Feeling like my performance wasn't having the intended effect, I head back
+      to the alley where Rosanna is.
+    ko: 이상한 취급을 당하는 것 같지만 일단 로산나가 있는 골목으로 갔다.
+    ja: |-
+      妙な扱いをされている気がするが
+      ひとまずロザンナがいる路地へ向かった
+  event_queensorder_04_s_125:
+    speaker: rosanna
+    en: Pffftt!
+    ko: 푸흡…!
+    ja: ププッ…！
+  event_queensorder_04_s_126:
+    speaker: "<Self>"
+    en: "... Rosanna."
+    ko: "…로산나."
+    ja: "…ロザンナ"
+  event_queensorder_04_s_127:
+    speaker: rosanna
+    en: All right, all right. Let's go.
+    ko: 큭… 알겠어. 가자.
+    ja: ククッ…分かった。行こう。
+  event_queensorder_04_s_128:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_129:
+    speaker: "<Monologue>"
+    en: I drag the seemingly limp and lifeless Rosanna toward the two men.
+    ko: 축 늘어진 척 연기하는 로산나를 끌고 다시 남자들을 향해 갔다.
+    ja: |-
+      死んだフリをしているロザンナを引っ張って
+      再び男たちのところへ向かった
+  event_queensorder_04_s_130:
+    speaker: fatman
+    en: W-wait a sec, that's...?!
+    ko: 저, 저건…!
+    ja: あ、あれは…！
+  event_queensorder_04_s_131:
+    speaker: swiftgang
+    en: That hair color... is that the boss of Hedonia?!
+    ko: 저 머리색은… 헤도니아의 보스?!
+    ja: あの髪の色は…ヘッドニアのボス！？
+  event_queensorder_04_s_132:
+    speaker: "<Self>"
+    en: I've brought her to you, so take me where I need to go.
+    ko: 헤도니아의 보스를 데리고 왔다. 안내해.
+    ja: |-
+      ヘッドニアのボスを連れてきた。
+      案内してくれ
+  event_queensorder_04_s_133:
+    speaker: fatman
+    en: Huh? Take you where?
+    ko: 아, 안내? 뭘 안내해?
+    ja: あ、案内？どこへ？
+  event_queensorder_04_s_134:
+    speaker: "<Self>"
+    en: "... Where your boss is?"
+    ko: 그쪽 보스가 있는 곳으로?
+    ja: そっちのボスがいるところに
+  event_queensorder_04_s_135:
+    speaker: fatman
+    en: Our boss?
+    ko: 보, 보스에게?
+    ja: ボ、ボスのところに？
+  event_queensorder_04_s_136:
+    speaker: fatman
+    en: The boss went to see the wall...
+    ko: 보스는 지금 벽 보러….
+    ja: ボスは今、壁を見に…
+  event_queensorder_04_s_137:
+    speaker: swiftgang
+    en: Why?
+    ko: 왜?
+    ja: なぜだ？
+  event_queensorder_04_s_138:
+    speaker: "<Self>"
+    en: Why what?
+    ko: 응?
+    ja: ん？
+  event_queensorder_04_s_139:
+    speaker: swiftgang
+    en: Why do you need to meet him so badly?
+    ko: 왜 안내해야 하는데.
+    ja: なぜ案内する必要がある？
+  event_queensorder_04_s_140:
+    speaker: "<Self>"
+    en: Because... I brought you the boss of Hedonia?
+    ko: 그야… 헤도니아 보스를 잡아왔으니까?
+    ja: それは…ヘッドニアのボスを捕まえてきたから？
+  event_queensorder_04_s_141:
+    speaker: swiftgang
+    en: Come again?
+    ko: "…뭐?"
+    ja: "…は？"
+  event_queensorder_04_s_142:
+    speaker: rosanna
+    en: Pffft!
+    ko: 크큭…!
+    ja: ククッ…！
+  event_queensorder_04_s_143:
+    speaker: "<Monologue>"
+    en: Rosanna starts to quiver as she suppresses her laughter.
+    ko: 로산나가 들썩거렸다.
+    ja: ロザンナが肩をふるわせた
+  event_queensorder_04_s_144:
+    speaker: "<Self>"
+    en: Take me where I need to go.
+    ko: 안내해.
+    ja: 案内しろ
+  event_queensorder_04_s_145:
+    speaker: fatman
+    en: B-but the boss isn't here...
+    ko: 어, 어떡하지… 보, 보스는 없는데….
+    ja: ど、どうしよう…ボ、ボス、いないのに…
+  event_queensorder_04_s_146:
+    speaker: swiftgang
+    en: Hey!
+    ko: 야!
+    ja: おい！
+  event_queensorder_04_s_147:
+    speaker: "<Self>"
+    en: If he's not here, then where is he?
+    ko: 없다고? 그럼 어디에 있는데.
+    ja: いないって？じゃあどこにいるんだ？
+  event_queensorder_04_s_148:
+    speaker: fatman
+    en: He said he was gonna go see the wa...
+    ko: 벽을 보러 간다고 했….
+    ja: 壁を見に行くって…
+  event_queensorder_04_s_149:
+    speaker: rosanna
+    en: Is that so?
+    ko: 그래?
+    ja: そ？
+  event_queensorder_04_s_150:
+    speaker: rosanna
+    en: Then I guess there's no point in carrying on this little charade.
+    ko: 그럼 더 들어볼 건 없겠네?
+    ja: じゃあこれ以上、用はないね？
+  event_queensorder_04_s_151:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 탕-!
+    ja: バンッ！
+  event_queensorder_04_s_152:
+    speaker: "<Monologue>"
+    en: Rosanna fires a shot through the bulky man's shoulder.
+    ko: 로산나가 쏜 총알이 덩치 큰 남자의 어깨를 꿰뚫었다!
+    ja: ロザンナが撃った弾丸が大柄な男の肩を貫いた！
+  event_queensorder_04_s_153:
+    speaker: fatman
+    en: Argh!
+    ko: 으어억!
+    ja: うああっ！
+  event_queensorder_04_s_154:
+    speaker: rosanna
+    en: Still, something tells me we can wring out some useful information from this
+      one if we squeeze a little harder.
+    ko: 그래도 쥐어짜내면 뭐라도 더 나올 수도 있으니까~
+    ja: |-
+      でも、絞り出したら、
+      何か出てくるかもしれないよね？
+  event_queensorder_04_s_155:
+    speaker: rosanna
+    en: Let me ask you a few more questions.
+    ko: 조금만 더 물어볼게?
+    ja: もう少しだけ聞かせて？
+  event_queensorder_04_s_156:
+    speaker: swiftgang
+    en: You bastard! You tricked us!
+    ko: 너 이 자식!! 우릴 속이다니!
+    ja: てめえ！！俺たちを騙したな！？
+  event_queensorder_04_s_157:
+    speaker: "<Monologue>"
+    en: The nimble-looking man swings his knife at me.
+    ko: 날쌔 보이는 남자가 나를 향해 칼을 휘둘렀다.
+    ja: |-
+      すばしっこそうな男が
+      私に向かってナイフを振り回した
+  event_queensorder_04_s_158:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 탕-!!
+    ja: パンッ！！
+  event_queensorder_04_s_159:
+    speaker: "<Monologue>"
+    en: Rosanna fires a shot through the nimble-looking man's shoulder.
+    ko: 로산나가 쏜 총알이 날쌔 보이는 남자의 어깨를 꿰뚫었다!
+    ja: ロザンナが撃った弾丸が男の肩を貫いた！
+  event_queensorder_04_s_160:
+    speaker: swiftgang
+    en: Argh!!
+    ko: 크악!!
+    ja: ぐあっ！！
+  event_queensorder_04_s_161:
+    speaker: rosanna
+    en: You must be crazy,
+    ko: 이게 미쳤나.
+    ja: ふざけんなよ。
+  event_queensorder_04_s_162:
+    speaker: rosanna
+    en: waving a knife around like that.
+    ko: 누구한테 칼을 들이밀어?
+    ja: 誰にナイフ振り回してんだよ？
+  event_queensorder_04_s_163:
+    speaker: fatman
+    en: I-it's a trap!!
+    ko: 하, 함정이다!!
+    ja: わ、罠だ！！
+  event_queensorder_04_s_164:
+    speaker: "<Narration>"
+    en: Clap-clap-clap-clap
+    ko: 철컥- 철컥- 철컥- 철컥-
+    ja: ガチャ、ガチャ、ガチャ、ガチャ
+  event_queensorder_04_s_165:
+    speaker: "<Monologue>"
+    en: Several armed guards flood out of the warehouse.
+    ko: 창고 안에서 무장한 인원들이 쏟아져 나왔다!
+    ja: 倉庫の中から武装した集団が一斉に出てきた！
+  event_queensorder_04_s_166:
+    speaker: "<Self>"
+    en: Rosanna!
+    ko: 로산나!
+    ja: ロザンナ！
+  event_queensorder_04_s_167:
+    speaker: rosanna
+    en: Your acting was better than I thought it'd be, Mister.
+    ko: "이야~ 미스터. \n생각보다 연기 좀 하네?"
+    ja: |-
+      いや～ミスター。
+      思ったより演技上手いね？
+  event_queensorder_04_s_168:
+    speaker: rosanna
+    en: You're a natural at this.
+    ko: 정말 재주도 많아라.
+    ja: ホント器用なんだから。
+  event_queensorder_04_s_169:
+    speaker: rosanna
+    en: The more I hang around you, the more jealous I get.
+    ko: 보면 볼수록 탐난단 말야.
+    ja: 知れば知るほど、欲しくなっちゃう。
+  event_queensorder_04_s_170:
+    speaker: rosanna
+    en: Are you interested in doing some other work for me in the future?
+    ko: 나중에 나랑 다른 일도 같이 해보지 않을래?
+    ja: 今度あたしと別の仕事もやってみない？
+  event_queensorder_04_s_171:
+    speaker: "<Self>"
+    en: Sorry, but I respectfully decline.
+    ko: "…사양할게."
+    ja: "…遠慮しておく"
+  event_queensorder_04_s_172:
+    speaker: swiftgang
+    en: "... Something's fishy about all this."
+    ko: "…뭔가 이상한데."
+    ja: "…何か怪しいな。"
+  event_queensorder_04_s_173:
+    speaker: swiftgang
+    en: You mean to tell that this lady lost to a puny lookin' fella like you?
+    ko: 이렇게 허술해 보이는 놈한테 그 지독한 여자가 당했다고?
+    ja: こんな抜けてる野郎にあの女がやられたのか？
+  event_queensorder_04_s_174:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_175:
+    speaker: "<Monologue>"
+    en: Beads of sweat are pouring down my back.
+    ko: 등 뒤에서 식은땀이 흐른다.
+    ja: 背中に冷や汗が流れる
+  event_queensorder_04_s_176:
+    speaker: "<Monologue>"
+    en: I feel like I've bungled this whole thing.
+    ko: "…왠지 모든 걸 망친 것 같다."
+    ja: "…終わった"
+  event_queensorder_04_s_177:
+    speaker: swiftgang
+    en: Hey!
+    ko: 어이, 형씨.
+    ja: おい、兄ちゃん。
+  event_queensorder_04_s_178:
+    speaker: swiftgang
+    en: Just who the hell are you?
+    ko: 너 뭐야.
+    ja: あんた何者だ？
+  event_queensorder_04_s_179:
+    speaker: "<Monologue>"
+    en: The nimble-looking man brandishes a knife.
+    ko: 날쌔 보이는 남자가 칼을 꺼내들었다.
+    ja: すばしっこそうな男がナイフを手にした
+  event_queensorder_04_s_180:
+    speaker: swiftgang
+    en: You think this is some kind of after-school special, punk?
+    ko: 여기가 애들 놀이터로 보이냐? 엉?
+    ja: ここが子どもの遊び場に見えんのか？なぁ？
+  event_queensorder_04_s_181:
+    speaker: swiftgang
+    en: If you're from the Ark, you should know to stay on your side of the tracks.
+    ko: 기껏 방주 안에서 태어났으면 발이나 닦고 잠이나 잘 것이지.
+    ja: |-
+      せっかくアークで生まれたんなら
+      アークで大人しくしてろよな。
+  event_queensorder_04_s_182:
+    speaker: swiftgang
+    en: Whatever possessed you to come here and start pestering us?
+    ko: 왜 와서 신경을 건들고 난리야?!
+    ja: 調子に乗ってんじゃねえよ！
+  event_queensorder_04_s_183:
+    speaker: swiftgang
+    en: Take off those sunglasses before I gut you like a fish!
+    ko: 선글라스 벗어, 확 다 그어버릴 테니…!
+    ja: サングラス取れ。顔面ズタズタにしてやる…！
+  event_queensorder_04_s_184:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 탕-!
+    ja: バンッ！
+  event_queensorder_04_s_185:
+    speaker: "<Monologue>"
+    en: Rosanna fires a shot through the nimble-looking man's shoulder.
+    ko: 로산나가 쏜 총알이 날쌔 보이는 남자의 어깨를 꿰뚫었다!
+    ja: ロザンナが撃った弾丸が男の肩を貫いた！
+  event_queensorder_04_s_186:
+    speaker: swiftgang
+    en: Argh!!
+    ko: 크악!!
+    ja: ぐあっ！！
+  event_queensorder_04_s_187:
+    speaker: rosanna
+    en: Don't let me hear you say another malicious word to him.
+    ko: 이 귀한 얼굴에 뭐라는 거야.
+    ja: この大切な顔に、何をするって？
+  event_queensorder_04_s_188:
+    speaker: rosanna
+    en: Or else you die.
+    ko: 죽으려고.
+    ja: 死にたいんだね。
+  event_queensorder_04_s_189:
+    speaker: fatman
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_04_s_190:
+    speaker: fatman
+    en: I-it's a trap!
+    ko: 여, 역시 함정인가!
+    ja: や、やっぱり罠か！
+  event_queensorder_04_s_191:
+    speaker: "<Narration>"
+    en: "*Clap-clap-clap-clap*"
+    ko: 철컥- 철컥- 철컥- 철컥-
+    ja: ガチャ、ガチャ、ガチャ、ガチャ
+  event_queensorder_04_s_192:
+    speaker: "<Monologue>"
+    en: Several armed guards flood out of the warehouse.
+    ko: 창고 안에서 무장한 인원들이 쏟아져 나왔다!
+    ja: 倉庫の中から武装した集団が一斉に出てきた！
+  event_queensorder_04_s_193:
+    speaker: "<Self>"
+    en: Rosanna!
+    ko: 로산나!
+    ja: ロザンナ！
+  event_queensorder_04_s_194:
+    speaker: rosanna
+    en: Ahahahahaha!
+    ko: 아하하하!
+    ja: アハハハ！
+  event_queensorder_04_s_195:
+    speaker: rosanna
+    en: You couldn't act your way out of a paper bag, Mister!
+    ko: 미스터 연기 진짜 못하는구나?
+    ja: ミスター、本当に演技下手だね？
+  event_queensorder_04_s_196:
+    speaker: rosanna
+    en: I've been trying my best not to bust out laughing this entire time.
+    ko: 웃음 참느라 혼났네.
+    ja: 笑いを堪えるのが大変だったよ。
+  event_queensorder_04_s_197:
+    speaker: rosanna
+    en: I haven't had this much fun in ages.
+    ko: 이렇게 재미있는 게 몇 년 만인지 몰라.
+    ja: こんなに笑ったのって何年ぶりかな？
+  event_queensorder_04_s_198:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_04_s_199:
+    speaker: rosanna
+    en: Let me take it from here.
+    ko: 이젠 내가 알아서 할 테니까.
+    ja: ここからはあたしに任せて。
+  event_queensorder_04_s_200:
+    speaker: rosanna
+    en: Don't worry. I won't lose just because I'm outnumbered.
+    ko: 쪽수에 밀려서 질 거라고 걱정하지 마.
+    ja: 数に押されて負けるとか思わないで。
+  event_queensorder_04_s_201:
+    speaker: rosanna
+    en: Since you're here,
+    ko: 미스터가 있어서,
+    ja: ミスターがいるから、
+  event_queensorder_04_s_202:
+    speaker: rosanna
+    en: I'm feeling more powerful than I ever have.
+    ko: 느슨했던 내 리미트가 더욱 풀어져 있으니까.
+    ja: |-
+      緩かったあたしのリミットが、
+      もっとゆるゆるなんだよね。
+  event_queensorder_04_s_203:
+    speaker: "<Self>"
+    en: You are?
+    ko: 리미트?
+    ja: リミット？
+  event_queensorder_04_s_204:
+    speaker: rosanna
+    en: You betcha.
+    ko: 내가 갖고 있는 이 몸 말이야.
+    ja: あたしの体ってさ、
+  event_queensorder_04_s_205:
+    speaker: rosanna
+    en: If someone or something threatens your life, I've found that it instills me
+      with this incredible strength.
+    ko: 지휘관의 목숨에 위협이 되는 행동을 발견하면 제대로 사용할 수 있는 것 같더라고?
+    ja: |-
+      指揮官の命を脅かす行動に遭遇すると
+      まともに使えるようになるみたいなんだ。
+  event_queensorder_04_s_206:
+    speaker: "<Self>"
+    en: So when you said I could help just by being around...
+    ko: 설마 존재하기만 해도 도움이 된다는 게….
+    ja: まさか、存在だけで役に立つって…
+  event_queensorder_04_s_207:
+    speaker: rosanna
+    en: I thought it'd potentially make for a very interesting method.
+    ko: 예전부터 아주 재미있는 방법이라고 생각했는데.
+    ja: 前から、面白い方法だと思ってたけど
+  event_queensorder_04_s_208:
+    speaker: rosanna
+    en: And now it's time to try it out.
+    ko: 드디어 실험해 볼 수 있게 되었네~?
+    ja: ついに試せる時が来たね～
+  event_queensorder_04_s_209:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_04_s_210:
+    speaker: rosanna
+    en: Now, let's see how skillful Mustang really is.
+    ko: 자, 그럼 머스탱의 솜씨가 얼마나 좋은지.
+    ja: |-
+      それじゃ、マスタングの腕前が
+      どれほどのものか…
+  event_queensorder_04_s_211:
+    speaker: rosanna
+    en: Let's get this party started.
+    ko: 제대로 사용해 보실까.
+    ja: お手並み拝見といきますか。
+event_queensorder_04_e:
+  event_queensorder_04_e_1:
+    speaker: "<Monologue>"
+    en: Just like Rosanna predicted,
+    ko: 로산나가 이야기한 대로,
+    ja: ロザンナの言う通り
+  event_queensorder_04_e_2:
+    speaker: "<Monologue>"
+    en: after a barrage of gunshots, the confrontation is brought to a decidedly abrupt
+      conclusion.
+    ko: 총격이 난무하던 거리는 빠르게 정리되었다.
+    ja: |-
+      銃撃戦でめちゃくちゃだった通りは
+      すぐに静かになった
+  event_queensorder_04_e_3:
+    speaker: "<Monologue>"
+    en: The armed guards who intended on coming after us are on the ground.
+    ko: 우리를 위협하던 모든 이들이 삽시간에 제압되어 쓰러졌다.
+    ja: |-
+      私たちに襲いかかってきた者は
+      あっという間に制圧された
+  event_queensorder_04_e_4:
+    speaker: rosanna
+    en: Finally, a bit of peace and quiet around here.
+    ko: 후우… 이제야 좀 조용해졌네.
+    ja: ふぅ…これで静かになったね。
+  event_queensorder_04_e_5:
+    speaker: "<Self>"
+    en: Was this your plan from the very beginning?
+    ko: "…처음부터 이렇게 할 생각이었던 것 같네."
+    ja: "…最初からこのつもりだったのか？"
+  event_queensorder_04_e_6:
+    speaker: rosanna
+    en: Hehe, was it that obvious?
+    ko: 이런, 너무 티 났나?
+    ja: あれっ、バレちゃった？
+  event_queensorder_04_e_7:
+    speaker: "<Self>"
+    en: Then why did you make me give that embarrassing performance?
+    ko: 도대체 왜 나한테 연기를 시킨 거야?
+    ja: どうして私に演技をさせたんだ？
+  event_queensorder_04_e_8:
+    speaker: rosanna
+    en: This gang is a bunch of chickens, so they hide the moment they lay eyes on
+      me.
+    ko: "갱단 녀석들은 하나같이 겁이 많아서 \n내가 정면으로 나가면 숨어버리곤 하니까,"
+    ja: |-
+      あいつら、みんな怖がりでしょ？
+      あたしが正面から突入したら隠れちゃうから。
+  event_queensorder_04_e_9:
+    speaker: rosanna
+    en: I figured that if they saw you, they'd feel a bit more confident, and might
+      even produce their boss for us.
+    ko: 혹시나 미스터를 보고 방심해서 대장 놈까지 나올까 했지.
+    ja: |-
+      ミスターを見て油断したら
+      ボスまで出てくるかなって思ったんだ。
+  event_queensorder_04_e_10:
+    speaker: rosanna
+    en: Unfortunately for us,
+    ko: 그런데….
+    ja: でも…
+  event_queensorder_04_e_11:
+    speaker: rosanna
+    en: he apparently isn't here.
+    ko: 이렇게 자리를 비우고 있을 줄 누가 알았겠어?
+    ja: まさかお出かけ中とはね。
+  event_queensorder_04_e_12:
+    speaker: swiftgang
+    en: Argh...!
+    ko: 크윽…!
+    ja: くぅっ…！
+  event_queensorder_04_e_13:
+    speaker: rosanna
+    en: So, if it wouldn't be too much trouble,
+    ko: 그러니까 대답 좀 해주지 않을래?
+    ja: だから、答えてくんない？
+  event_queensorder_04_e_14:
+    speaker: rosanna
+    en: could you tell me where your boss is?
+    ko: 니들 대장이 어디 있는지.
+    ja: あんたらのボスがどこにいるのか。
+  event_queensorder_04_e_15:
+    speaker: swiftgang
+    en: I'll never tell you a...
+    ko: 말해줄 리가 없잖….
+    ja: 言うわけな…
+  event_queensorder_04_e_16:
+    speaker: "<Narration>"
+    en: "*Snap*"
+    ko: 뿌드득-
+    ja: ボキッ
+  event_queensorder_04_e_17:
+    speaker: swiftgang
+    en: Aaarrgh!!
+    ko: 끄헉!
+    ja: ぐはっ！
+  event_queensorder_04_e_18:
+    speaker: rosanna
+    en: You're making me look bad in front of Mister.
+    ko: "아~ 정말 미스터 앞인데, \n좀 좋은 모습만 보이고 끝내자. 응?"
+    ja: |-
+      ねえ、ミスターの前なんだから
+      キレイな姿で終わらせようよ。ね？
+  event_queensorder_04_e_19:
+    speaker: rosanna
+    en: If your boss isn't here, then he must be somewhere in the Outer Rim.
+    ko: 여기 없는 거 보면 아우터 림에 간 건 확실한데.
+    ja: |-
+      ここにいないってことは、アウターリムに
+      行ったってのは間違いないけど。
+  event_queensorder_04_e_20:
+    speaker: rosanna
+    en: Where is he?
+    ko: 어디야.
+    ja: どこ？
+  event_queensorder_04_e_21:
+    speaker: swiftgang
+    en: I'll never tell!
+    ko: 말 못 해!
+    ja: 誰が言うかよ！
+  event_queensorder_04_e_22:
+    speaker: rosanna
+    en: And why would that be?
+    ko: 흐음~ 왜 말을 못 할까?
+    ja: ふ～ん、どうして言えないのかな？
+  event_queensorder_04_e_23:
+    speaker: rosanna
+    en: Is it because he's somewhere I couldn't possibly know about?
+    ko: 혹시 내가 들으면 안 되는 장소여서 그런 건가?
+    ja: |-
+      もしかして、あたしが聞いちゃいけない
+      場所だから？
+  event_queensorder_04_e_24:
+    speaker: swiftgang
+    en: No, that's not it!
+    ko: 그럴 리가 없…!
+    ja: そんな…！
+  event_queensorder_04_e_25:
+    speaker: rosanna
+    en: Come to think of it, the big guy said it before.
+    ko: 그러고 보니, 아까 덩치 큰 녀석이 그랬지?
+    ja: |-
+      そういえば、さっき図体のでかい奴が
+      言ってたよね？
+  event_queensorder_04_e_26:
+    speaker: rosanna
+    en: He went to see the wall.
+    ko: "[벽]을 보러 간다고."
+    ja: "「壁」を見に行くって。"
+  event_queensorder_04_e_27:
+    speaker: swiftgang
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_04_e_28:
+    speaker: rosanna
+    en: That's it!
+    ko: 아.
+    ja: あ。
+  event_queensorder_04_e_29:
+    speaker: rosanna
+    en: Now I know what you're after.
+    ko: 알겠다.
+    ja: 分かっちゃった。
+  event_queensorder_04_e_30:
+    speaker: rosanna
+    en: You were never after us.
+    ko: 너희가 노리는 게.
+    ja: あんたらが狙ってるのって
+  event_queensorder_04_e_31:
+    speaker: rosanna
+    en: You're after the barrier.
+    ko: 우리가 아니라 진짜 [방벽]이었나 보구나?
+    ja: |-
+      あたしらじゃなくて、
+      本当に「防壁」だったんだ？
+  event_queensorder_04_e_32:
+    speaker: swiftgang
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_04_e_33:
+    speaker: rosanna
+    en: I see.
+    ko: 그래. 어쩐지.
+    ja: そっか、どうりで。
+  event_queensorder_04_e_34:
+    speaker: rosanna
+    en: If you were after the Underworld Queen,
+    ko: 진짜 언더월드 퀸을 노리는 거였으면.
+    ja: アンダーワールドクイーンを狙ってるなら
+  event_queensorder_04_e_35:
+    speaker: rosanna
+    en: you would have bombed Sakura and Moran as well.
+    ko: 사쿠라랑 목단에게도 폭탄을 갈겼겠지.
+    ja: サクラとモランにも爆弾をお見舞いしてるよね。
+  event_queensorder_04_e_36:
+    speaker: swiftgang
+    en: N-no...
+    ko: 아, 아니야….
+    ja: ち、違う…
+  event_queensorder_04_e_37:
+    speaker: rosanna
+    en: Yes. Now it makes sense why you bought all those bombs.
+    ko: 그래. 그래야 폭탄을 많이 사들였다는 게 말이 되지.
+    ja: |-
+      これで爆弾をたくさん買い込んでたのも
+      納得だね。
+  event_queensorder_04_e_38:
+    speaker: rosanna
+    en: Am I right?
+    ko: 그렇지~?
+    ja: そうでしょ～？
+  event_queensorder_04_e_39:
+    speaker: swiftgang
+    en: No!
+    ko: 아니야!
+    ja: 違う！
+  event_queensorder_04_e_40:
+    speaker: swiftgang
+    en: W-we don't know anything!!
+    ko: 우, 우린 아무것도 몰라!!
+    ja: お、俺たちは何も知らない！！
+  event_queensorder_04_e_41:
+    speaker: swiftgang
+    en: We were just trying to mislead you before!
+    ko: 방금도 다 너희를 헷갈리게 하려고…!
+    ja: 今もお前らを惑わせるために…！
+  event_queensorder_04_e_42:
+    speaker: rosanna
+    en: Fine. It doesn't matter if you don't know.
+    ko: "응. 그래. \n몰라도 괜찮아."
+    ja: |-
+      うん。そっか。
+      知らなくてもいいよ。
+  event_queensorder_04_e_43:
+    speaker: rosanna
+    en: I know everything I need to know now.
+    ko: 이젠 내가 전부 아니까.
+    ja: もう全部分かっちゃったから。
+  event_queensorder_04_e_44:
+    speaker: swiftgang
+    en: Uh, Uh... uhuhuh...!
+    ko: 으, 으… 으으으…!
+    ja: う、う…ううう…！
+  event_queensorder_04_e_45:
+    speaker: rosanna
+    en: You can leave now.
+    ko: 넌 이제 가봐도 돼.
+    ja: もう行ってもいいよ。
+  event_queensorder_04_e_46:
+    speaker: rosanna
+    en: Since you told me everything, I'll let you live.
+    ko: 내가 원하는 걸 다 알려줬으니까 특별히 살려줄게.
+    ja: |-
+      あたしが知りたいことを全部教えてくれたから
+      特別に生かしといてあげる。
+  event_queensorder_04_e_47:
+    speaker: swiftgang
+    en: Wh-why are you interfering?
+    ko: 왜, 왜 방해하려는 거야.
+    ja: な、なぜ邪魔をするんだ？
+  event_queensorder_04_e_48:
+    speaker: swiftgang
+    en: Do you think we're doing this just to serve our own interests?
+    ko: 이게 우리만 좋자고 하는 일 같아?
+    ja: 得するのは俺たちだけだと思うのか？
+  event_queensorder_04_e_49:
+    speaker: swiftgang
+    en: This is for the Outer Rim.
+    ko: 다 아우터 림을 위해서 하려는 거잖아.
+    ja: みんなアウターリムのためにやってんだよ。
+  event_queensorder_04_e_50:
+    speaker: swiftgang
+    en: If we get rid of the barrier, we can reside in the Ark as true citizens!
+    ko: 저 방벽을 없애서 우리도 방주 시민으로 대접받자고…!
+    ja: |-
+      あの防壁を壊して、俺たちもアーク市民として
+      生きていくために…！
+  event_queensorder_04_e_51:
+    speaker: rosanna
+    en: That's all well and good for you, but what about everybody else?
+    ko: 너희만 좋은 게 아니면 누가 좋아해?
+    ja: それで、誰が喜ぶの？
+  event_queensorder_04_e_52:
+    speaker: rosanna
+    en: What about me?
+    ko: 내가?
+    ja: あたし？
+  event_queensorder_04_e_53:
+    speaker: swiftgang
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_04_e_54:
+    speaker: "<Monologue>"
+    en: Rosanna grabs the nimble-looking man's collar and lifts him up.
+    ko: 로산나가 날쌔 보이는 남자의 멱살을 잡아 올렸다.
+    ja: ロザンナがすばしっこそうな男の胸ぐらを掴んだ
+  event_queensorder_04_e_55:
+    speaker: swiftgang
+    en: Argh!
+    ko: "…크헉…!"
+    ja: "…うっ…！"
+  event_queensorder_04_e_56:
+    speaker: rosanna
+    en: Let me ask you this.
+    ko: 야. 그럼 물어나 보자.
+    ja: ねえ、教えて？
+  event_queensorder_04_e_57:
+    speaker: rosanna
+    en: This little revolution of yours really did a number on my pride.
+    ko: 그럼 너희의 그 잘난 혁명에 무너진 내 자존심은 어떻게 보상해 줄래?
+    ja: |-
+      あんたらのその革命のせいでズタズタにされた
+      あたしのプライドはどうしてくれんの？
+  event_queensorder_04_e_58:
+    speaker: rosanna
+    en: My territory lies in ruins. Many of my men are dead.
+    ko: 부서진 우리 구역은.
+    ja: 壊されたあたしらのナワバリは？
+  event_queensorder_04_e_59:
+    speaker: rosanna
+    en: How are you going to make that up to me?
+    ko: 죽은 우리 애들은 어떻게 할 거냐고, 엉?
+    ja: 死んだあたしの仲間はどうしてくれんの？ねえ？
+  event_queensorder_04_e_60:
+    speaker: swiftgang
+    en: I-I'm sorr...!
+    ko: 끄헉… 자, 잘못 했…!
+    ja: かはっ…す、すみませ…！
+  event_queensorder_04_e_61:
+    speaker: rosanna
+    en: Liberation of the Outer Rim...you're talking out of your ass.
+    ko: 아우터 림의 해방 좋아하시네.
+    ja: アウターリムの解放ねえ？
+  event_queensorder_04_e_62:
+    speaker: rosanna
+    en: You're a terrorist, plain and simple.
+    ko: 테러범인 주제에 의적인 양 좋을 대로 떠들지 마.
+    ja: |-
+      テロリストのくせに
+      ヒーローぶりやがって。
+  event_queensorder_04_e_63:
+    speaker: rosanna
+    en: Just because you've got a mouth doesn't mean you should use it.
+    ko: 입이 뚫려있다고 생각나는 대로 지껄이지 말라고.
+    ja: 好き勝手言ってんじゃねぇよ。
+  event_queensorder_04_e_64:
+    speaker: swiftgang
+    en: Please let me live!
+    ko: 커헉… 살려…!
+    ja: ゲホッ…お助け…！
+  event_queensorder_04_e_65:
+    speaker: rosanna
+    en: Just wait.
+    ko: 기대해.
+    ja: 楽しみにしてて。
+  event_queensorder_04_e_66:
+    speaker: rosanna
+    en: I'll have my revenge.
+    ko: 반드시 갚아 줄 테니까.
+    ja: 必ずやり返してやるから。
+  event_queensorder_04_e_67:
+    speaker: rosanna
+    en: You'll rue the day you ever messed with me,
+    ko: "이 로산나를, \n헤도니아를 건드린걸."
+    ja: |-
+      このロザンナに、
+      ヘッドニアに、手を出したこと。
+  event_queensorder_04_e_68:
+    speaker: rosanna
+    en: and Hedonia.
+    ko: 후회하게 해주지.
+    ja: 後悔させてやる。
+  event_queensorder_04_e_69:
+    speaker: swiftgang
+    en: Ah... argh..!
+    ko: 컥… 커헉…!
+    ja: が…がはっ…！
+  event_queensorder_04_e_70:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 털썩-
+    ja: ドサッ
+  event_queensorder_04_e_71:
+    speaker: "<Monologue>"
+    en: The nimble-looking man falls unconscious.
+    ko: 날쌔 보이는 남자가 의식을 잃었다.
+    ja: 男は意識を失った
+  event_queensorder_04_e_72:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_04_e_73:
+    speaker: rosanna
+    en: It's okay. I just knocked him out.
+    ko: 괜찮아. 기절시킨 것뿐이야.
+    ja: 大丈夫。気絶させただけ。
+  event_queensorder_04_e_74:
+    speaker: rosanna
+    en: Haha. I ended up showing you a side of me that I didn't want to.
+    ko: 하하. 미스터에게 못 볼꼴을 보였네.
+    ja: アハハ。ミスターにイヤなところ見せちゃった。
+  event_queensorder_04_e_75:
+    speaker: "<Self>"
+    en: "... Rosanna."
+    ko: "…로산나."
+    ja: "…ロザンナ"
+  event_queensorder_04_e_76:
+    speaker: rosanna
+    en: Let's go back to the safe house.
+    ko: 안전 가옥으로 돌아가자.
+    ja: 隠れ家に帰ろう。
+  event_queensorder_04_e_77:
+    speaker: rosanna
+    en: I need to meet Sakura.
+    ko: 사쿠라와 만나야겠어.
+    ja: サクラに会わなきゃ。
+  event_queensorder_04_e_78:
+    speaker: "<Self>"
+    en: "... Okay."
+    ko: "…그래."
+    ja: "…ああ"
+event_queensorder_05_s:
+  event_queensorder_05_s_1:
+    speaker: moran
+    en: Hey!
+    ko: 야~!!
+    ja: お～～～い！！
+  event_queensorder_05_s_2:
+    speaker: moran
+    en: Are you guys always going to be like this?
+    ko: 니들 진짜 계속 이럴 거야?
+    ja: お前ら、ずっとこの調子なのかよ？
+  event_queensorder_05_s_3:
+    speaker: moran
+    en: |-
+      Why do you keep leaving me out?!
+      I thought we Underworld Queen were supposed to be loyal to each other!
+    ko: |-
+      자꾸 나만 빼놓고 이럴래!
+      이게 언더월드 퀸의 의리냐? 엉?
+    ja: |-
+      なんで俺を仲間外れにすんだよ！これが
+      アンダーワールドクイーンの仁義か？なぁ？
+  event_queensorder_05_s_4:
+    speaker: rosanna
+    en: Ugh, who invited her?
+    ko: 아, 뭐야. 얘는 누가 불렀어?
+    ja: ハァ。誰が呼んだの？
+  event_queensorder_05_s_5:
+    speaker: moran
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_05_s_6:
+    speaker: sakura
+    en: She was very insistent on coming here. Don't ask me why.
+    ko: 웬일인지 저를 먼저 찾아와 묻더군요.
+    ja: 珍しく、先に私のところへ来て尋ねたのです。
+  event_queensorder_05_s_7:
+    speaker: sakura
+    en: She kept pestering me about Rosanna,
+    ko: 로산나는 어떻게 됐어?
+    ja: "「ロザンナはどうなった？」"
+  event_queensorder_05_s_8:
+    speaker: sakura
+    en: asking about what happened to you.
+    ko: 라고요.
+    ja: と。
+  event_queensorder_05_s_9:
+    speaker: sakura
+    en: So I answered her, and told her I was coming here to see you.
+    ko: 그래서 지금 만나러 가고 있다고 대답해 드렸을 뿐입니다.
+    ja: |-
+      それで、今会いに向かっていると
+      お答えしただけです。
+  event_queensorder_05_s_10:
+    speaker: rosanna
+    en: Ugh, so annoying.
+    ko: 칫, 귀찮게.
+    ja: チッ、メンドイなぁ。
+  event_queensorder_05_s_11:
+    speaker: moran
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_s_12:
+    speaker: moran
+    en: Rosanna,
+    ko: 야. 로산나.
+    ja: おい、ロザンナ。
+  event_queensorder_05_s_13:
+    speaker: moran
+    en: are you okay?
+    ko: "…너 괜찮냐?"
+    ja: "…お前、大丈夫なのか？"
+  event_queensorder_05_s_14:
+    speaker: rosanna
+    en: Can't you see?
+    ko: 네 눈엔 어떤데.
+    ja: あんたの目にはどう見えんのよ。
+  event_queensorder_05_s_15:
+    speaker: rosanna
+    en: Do I look okay to you?
+    ko: 내가 정상으로 보여?
+    ja: あたしが大丈夫そうに見える？
+  event_queensorder_05_s_16:
+    speaker: moran
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_s_17:
+    speaker: rosanna
+    en: I don't want your pity,
+    ko: 어쭙잖은 위로하지 마.
+    ja: つまらない慰めはやめて。
+  event_queensorder_05_s_18:
+    speaker: rosanna
+    en: so cut it out.
+    ko: 지금 그런 거 받아줄 기분 아니니까.
+    ja: そんなの相手する気分じゃないから。
+  event_queensorder_05_s_19:
+    speaker: moran
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_s_20:
+    speaker: sakura
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_s_21:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_s_22:
+    speaker: rosanna
+    en: At any rate, it's just as well that we're all under the same roof. I want
+      to discuss the plan going forward.
+    ko: |-
+      됐고, 마침 잘 됐네.
+      다 모인 김에 앞으로의 이야기를 좀….
+    ja: |-
+      まあ、いいや。
+      全員集まったついでに、今後の話を…
+  event_queensorder_05_s_23:
+    speaker: moran
+    en: Wait!
+    ko: 잠깐만!
+    ja: ちょっと待った！
+  event_queensorder_05_s_24:
+    speaker: moran
+    en: Before that, I have something to give you.
+    ko: 그전에 전해줄게 있어.
+    ja: その前に伝えたいことがあるんだ。
+  event_queensorder_05_s_25:
+    speaker: "<Monologue>"
+    en: Moran takes out her phone
+    ko: 목단이 핸드폰을 꺼내들었다.
+    ja: モランが携帯電話を取りだした
+  event_queensorder_05_s_26:
+    speaker: "<Monologue>"
+    en: and starts dialing a number.
+    ko: 그리고 어디론가 전화를 걸기 시작했다.
+    ja: そしてどこかに電話をかけた
+  event_queensorder_05_s_27:
+    speaker: rosanna
+    en: What's the big idea, interrupting me like that?
+    ko: 뭔데 그렇게 뜸을 들여?
+    ja: 何？もったいぶっちゃって。
+  event_queensorder_05_s_28:
+    speaker: moran
+    en: Huh? How come there's no answer?
+    ko: 어…? 왜 이렇게 안 받지?
+    ja: あれ…？なんで出ないんだ？
+  event_queensorder_05_s_29:
+    speaker: moran
+    en: They should be picking up as soon as I call...
+    ko: 내가 걸면 바로 받기로 했는데…!
+    ja: 俺がかけたらすぐ出るって…！
+  event_queensorder_05_s_30:
+    speaker: unknown
+    en: Hello?
+    ko: 예. 전화받았습니다.
+    ja: はい、お電話ありがとうございます。
+  event_queensorder_05_s_31:
+    speaker: moran
+    en: They picked up!
+    ko: 받았다!
+    ja: 出た！
+  event_queensorder_05_s_32:
+    speaker: rosanna
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_05_s_33:
+    speaker: moran
+    en: Here, take it.
+    ko: 자, 받아봐.
+    ja: ほら、出ろよ。
+  event_queensorder_05_s_34:
+    speaker: rosanna
+    en: Don't tell me that...
+    ko: "…설마."
+    ja: "…まさか。"
+  event_queensorder_05_s_35:
+    speaker: "<Monologue>"
+    en: Moran gives the phone to Rosanna.
+    ko: 목단이 로산나에게 핸드폰을 건넸다.
+    ja: モランがロザンナに携帯を渡した
+  event_queensorder_05_s_36:
+    speaker: unknown
+    en: Hello?
+    ko: 여보세요?
+    ja: もしもし？
+  event_queensorder_05_s_37:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_s_38:
+    speaker: unknown
+    en: Is this the boss?
+    ko: 혹시 보스이십니까?
+    ja: もしかして、ボスですか？
+  event_queensorder_05_s_39:
+    speaker: rosanna
+    en: "... Consigliere."
+    ko: "…콘실리에리."
+    ja: "…コンシリエーレ。"
+  event_queensorder_05_s_40:
+    speaker: consigliere
+    en: Boss, I'm glad you're safe.
+    ko: 무사하셔서 다행입니다. 보스.
+    ja: ご無事で何よりです。ボス。
+  event_queensorder_05_s_41:
+    speaker: rosanna
+    en: You're alive?
+    ko: 살아있냐?
+    ja: 生きてたの？
+  event_queensorder_05_s_42:
+    speaker: consigliere
+    en: Yes. It seems my luck hasn't run out just yet.
+    ko: 예. 아직 운이 다하진 않은 모양입니다.
+    ja: はい。まだ運が残っていたようです。
+  event_queensorder_05_s_43:
+    speaker: rosanna
+    en: What about the others?
+    ko: 다른 애들은.
+    ja: 他のみんなは？
+  event_queensorder_05_s_44:
+    speaker: consigliere
+    en: "... Most everyone who was at the scene didn't make it."
+    ko: "…현장에 있던 대부분의 인원이 죽었습니다."
+    ja: "…現場にいたほとんどが死にました。"
+  event_queensorder_05_s_45:
+    speaker: rosanna
+    en: "... How many?"
+    ko: "…얼마나."
+    ja: "…どれくらい？"
+  event_queensorder_05_s_46:
+    speaker: consigliere
+    en: A small number of civilians who happened to be there,
+    ko: 현장에 있던 민간인들 소수와,
+    ja: 現場にいた少数の民間人と、
+  event_queensorder_05_s_47:
+    speaker: consigliere
+    en: and most of our members who attempted to protect them.
+    ko: 그들을 지키기 위해 뛰어든 패밀리의 대다수가 죽었습니다.
+    ja: |-
+      彼らを守るために飛び込んだ、
+      ファミリーの大多数が死にました。
+  event_queensorder_05_s_48:
+    speaker: consigliere
+    en: Only approximately 10 people, myself included, survived.
+    ko: 그 자리에서 살아남은 건 저를 포함한 10여 명에 불과합니다.
+    ja: |-
+      あの場で生き残ったのは、
+      私を含めて10数人だけです。
+  event_queensorder_05_s_49:
+    speaker: rosanna
+    en: "... I see."
+    ko: "…그래."
+    ja: "…そう。"
+  event_queensorder_05_s_50:
+    speaker: consigliere
+    en: If you hadn't closed the door when the bomb went off, we would have been goners.
+    ko: 보스가 폭탄이 터질 때 문을 닫아주시지 않았다면 아마 그마저도 전부 죽었겠죠.
+    ja: |-
+      爆弾が爆発する時に、
+      ボスがドアを閉めてくださらなかったら
+      おそらく全滅だったでしょう。
+  event_queensorder_05_s_51:
+    speaker: rosanna
+    en: Let's not talk about it.
+    ko: 쓸데없는 소리는 됐고.
+    ja: つまんないこと言わないで。
+  event_queensorder_05_s_52:
+    speaker: rosanna
+    en: Consigliere.
+    ko: 콘실리에리.
+    ja: コンシリエーレ。
+  event_queensorder_05_s_53:
+    speaker: consigliere
+    en: Yes?
+    ko: 예?
+    ja: はい。
+  event_queensorder_05_s_54:
+    speaker: rosanna
+    en: After the rumors of my death began to spread,
+    ko: 내가 죽었다고 알려진 후.
+    ja: あたしが死んだって噂が流れた後
+  event_queensorder_05_s_55:
+    speaker: rosanna
+    en: was there someone who went around saying that all gangs should be purged?
+    ko: 갱단을 모두 숙청해야 한다며 날뛴 놈이 있지?
+    ja: |-
+      ギャングを粛清すべきだって
+      暴れてた奴がいたでしょ？
+  event_queensorder_05_s_56:
+    speaker: consigliere
+    en: "... Yes."
+    ko: "…예."
+    ja: "…はい。"
+  event_queensorder_05_s_57:
+    speaker: rosanna
+    en: Can you show me who?
+    ko: 그 녀석 얼굴 좀 보여줄래?
+    ja: そいつの顔を見せてくれる？
+  event_queensorder_05_s_58:
+    speaker: consigliere
+    en: Yes.
+    ko: 예.
+    ja: はい。
+  event_queensorder_05_s_59:
+    speaker: ribbonmember
+    en: B-Boss? You're safe!
+    ko: 보, 보스? 무사하셨군요!
+    ja: ボ、ボス？ご無事だったんですね！
+  event_queensorder_05_s_60:
+    speaker: rosanna
+    en: So, it was you?
+    ko: 너였구나.
+    ja: あんただったんだ。
+  event_queensorder_05_s_61:
+    speaker: ribbonmember
+    en: "... Boss?"
+    ko: "…보스?"
+    ja: "…ボス？"
+  event_queensorder_05_s_62:
+    speaker: rosanna
+    en: Did she just say that since I had been found,
+    ko: 이놈이 갑자기 그러지 않든?
+    ja: こいつ、急にこんなこと言わなかった？
+  event_queensorder_05_s_63:
+    speaker: rosanna
+    en: it would be dangerous to be in complete opposition to the gang,
+    ko: 보스도 찾았으니 이제 갱단과 완전히 척을 지는 건 위험하지 않겠냐고.
+    ja: |-
+      ボスも見つかったことだし、
+      ギャングと完全に敵対するのは
+      危険じゃないかって。
+  event_queensorder_05_s_64:
+    speaker: rosanna
+    en: and that she would introduce a trustworthy gang?
+    ko: 믿을 수 있는 갱단과 자리를 주선해 보겠다고.
+    ja: 信頼できるギャングと交流の場を設けるって。
+  event_queensorder_05_s_65:
+    speaker: ribbonmember
+    en: "!!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_05_s_66:
+    speaker: consigliere
+    en: "... That's right."
+    ko: "…맞습니다."
+    ja: "…仰る通りです。"
+  event_queensorder_05_s_67:
+    speaker: rosanna
+    en: Consigliere.
+    ko: 콘실리에리.
+    ja: コンシリエーレ。
+  event_queensorder_05_s_68:
+    speaker: consigliere
+    en: Yes.
+    ko: 예.
+    ja: はい。
+  event_queensorder_05_s_69:
+    speaker: rosanna
+    en: Anyone who advocates reconciliation
+    ko: 화해를 주선하는 놈이.
+    ja: 和解を勧めた奴が
+  event_queensorder_05_s_70:
+    speaker: consigliere
+    en: is a traitor.
+    ko: "…배신자다."
+    ja: "…裏切り者。"
+  event_queensorder_05_s_71:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 탕-
+    ja: バンッ
+  event_queensorder_05_s_72:
+    speaker: consigliere
+    en: It's been taken care of.
+    ko: 지금 처리했습니다.
+    ja: 今、処理しました。
+  event_queensorder_05_s_73:
+    speaker: rosanna
+    en: Be ready. I'll be back soon.
+    ko: "준비하고 있어. \n곧 돌아갈 테니까."
+    ja: |-
+      準備してて。
+      すぐ戻るから。
+  event_queensorder_05_s_74:
+    speaker: consigliere
+    en: Very well.
+    ko: 예.
+    ja: はい。
+  event_queensorder_05_s_75:
+    speaker: "<Monologue>"
+    en: Rosanna hangs up the phone.
+    ko: 로산나가 전화를 마쳤다.
+    ja: ロザンナが通話を終えた
+  event_queensorder_05_s_76:
+    speaker: rosanna
+    en: Thank you.
+    ko: 잘 썼다.
+    ja: ありがと。
+  event_queensorder_05_s_77:
+    speaker: "<Monologue>"
+    en: Rosanna tosses the phone to Moran.
+    ko: 로산나가 목단을 향해 휴대폰을 던졌다.
+    ja: ロザンナがモランに向かって携帯を投げた
+  event_queensorder_05_s_78:
+    speaker: moran
+    en: Whoa!
+    ko: 으앗!
+    ja: うあっ！
+  event_queensorder_05_s_79:
+    speaker: rosanna
+    en: For someone as dimwitted as you, you did pretty well.
+    ko: 바보치고 꽤 괜찮은 일을 했네.
+    ja: おバカさんにしては、いい仕事したじゃん。
+  event_queensorder_05_s_80:
+    speaker: moran
+    en: Hey, Rosanna...
+    ko: "…야, 로산나."
+    ja: "…おい、ロザンナ。"
+  event_queensorder_05_s_81:
+    speaker: moran
+    en: What are you going to do now?
+    ko: 이제 어떻게 할 생각이야?
+    ja: これからどうすんだ？
+  event_queensorder_05_s_82:
+    speaker: rosanna
+    en: Hmm...
+    ko: 그래.
+    ja: そうだね。
+  event_queensorder_05_s_83:
+    speaker: rosanna
+    en: Since we're all together, let's talk about it.
+    ko: 모처럼 이렇게 다 모이게 된 거 이야기해 보자고.
+    ja: せっかくこうして集まったんだから話そうか。
+  event_queensorder_05_s_84:
+    speaker: rosanna
+    en: About what we're all going to do.
+    ko: 앞으로 어떻게 할지.
+    ja: 今後のこと。
+event_queensorder_05_e:
+  event_queensorder_05_e_1:
+    speaker: sakura
+    en: 'So, let me get this straight:'
+    ko: 당신이 하고 싶은 말은 이거겠죠.
+    ja: あなたの意見はこうですね。
+  event_queensorder_05_e_2:
+    speaker: sakura
+    en: Red Grass is a gang that's attempting to expand its influence throughout the
+      Outer Rim and the Ark.
+    ko: 아우터 림과 방주 뒷골목에 세력을 넓히고 있는 갱단, [붉은 덤불]이.
+    ja: |-
+      アウターリムとアークの裏通りで勢力を
+      拡大しているギャング「レッドブッシュ」が
+  event_queensorder_05_e_3:
+    speaker: sakura
+    en: They're in fact not attempting to take out the Underworld Queen, but the partition.
+    ko: 언더월드 퀸이 아닌 아우터 림의 방벽을 무너뜨리려고 한다.
+    ja: |-
+      アンダーワールドクイーンではなく
+      アウターリムの防壁を崩そうとしている。
+  event_queensorder_05_e_4:
+    speaker: sakura
+    en: Since Hedonia sustained the heaviest causalities, you all will step up to
+      ensure this situation is resolved.
+    ko: 그러니 가장 큰 피해를 입은 헤도니아가 나서서 처리하겠다.
+    ja: |-
+      だから最も大きな被害を受けたヘッドニアが
+      率先して処分する。
+  event_queensorder_05_e_5:
+    speaker: rosanna
+    en: Pretty snappy summary.
+    ko: 요약 잘하네.
+    ja: まとめが上手いね。
+  event_queensorder_05_e_6:
+    speaker: rosanna
+    en: You did some digging in the Outer Rim, so I'm sure you can tell
+    ko: 너도 아우터 림에서 조사해 봤으니, 눈치챘을 거 아냐.
+    ja: |-
+      あんたもアウターリムで調査したんだから、
+      分かったでしょ？
+  event_queensorder_05_e_7:
+    speaker: rosanna
+    en: whether what I'm saying is true or false.
+    ko: 내가 거짓말을 하는 건지 아닌지.
+    ja: あたしがウソついてるかどうか。
+  event_queensorder_05_e_8:
+    speaker: sakura
+    en: "... Yes."
+    ko: "…그래요."
+    ja: "…そうですね。"
+  event_queensorder_05_e_9:
+    speaker: sakura
+    en: From my investigation, I found that Red Grass has been working for someone
+      from the Ark. Someone incredibly affluent.
+    ko: 조사해 보니 붉은 덤불 쪽에서 몇 년째 방주의 재력가 밑에 들어가 일을 했더군요.
+    ja: |-
+      調査したところ、レッドブッシュは何年も
+      アークの資産家の下で働いていました。
+  event_queensorder_05_e_10:
+    speaker: sakura
+    en: All their money has been made by ill-gotten means.
+    ko: 더러운 일을 한 대가로 큰돈을 받고,
+    ja: 汚らわしい仕事をした代価として大金を受け取り
+  event_queensorder_05_e_11:
+    speaker: sakura
+    en: That's how they got the money to buy all those bombs.
+    ko: 그 돈을 폭탄을 사들이는데 쓴 모양입니다.
+    ja: そのお金で爆弾を買い込んだようです。
+  event_queensorder_05_e_12:
+    speaker: rosanna
+    en: Ah-hah, I was wondering about that.
+    ko: 아하~ 돈이 어디서 났나 했더니 거기서 들어온 거였구나?
+    ja: |-
+      あ～、お金の出所が気になってたけど
+      そこからだったんだ？
+  event_queensorder_05_e_13:
+    speaker: rosanna
+    en: This really is something.
+    ko: 하하. 가지가지 하네.
+    ja: アハハ。色々やるね～
+  event_queensorder_05_e_14:
+    speaker: sakura
+    en: I only have one last question.
+    ko: "…그럼 마지막으로 묻죠."
+    ja: "…では、最後の質問です。"
+  event_queensorder_05_e_15:
+    speaker: sakura
+    en: Whatever you're planning on doing,
+    ko: 당신이 앞으로 행할 그 일이.
+    ja: あなたがこれからしようとしていることは
+  event_queensorder_05_e_16:
+    speaker: sakura
+    en: can you say for sure that you're not being compromised by your emotions?
+    ko: 사심 섞인 분노로 일을 행하려 함이 아니라고 할 수 있습니까?
+    ja: |-
+      私情が混ざった怒りによるものではないと
+      言えますか？
+  event_queensorder_05_e_17:
+    speaker: rosanna
+    en: Compromised?
+    ko: 분노라니?
+    ja: 怒りって？
+  event_queensorder_05_e_18:
+    speaker: rosanna
+    en: I'm just trying to maintain order.
+    ko: 질서를 지키는 것뿐이야.
+    ja: ルールを守るだけだよ。
+  event_queensorder_05_e_19:
+    speaker: rosanna
+    en: The order that we're supposed to uphold as the Queens of the Underworld.
+    ko: 언더월드 퀸이 세운 [질서]를.
+    ja: |-
+      アンダーワールドクイーンが決めた
+      「ルール」を。
+  event_queensorder_05_e_20:
+    speaker: sakura
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_e_21:
+    speaker: rosanna
+    en: To keep the underworld and the Outer Rim in check,
+    ko: 방주의 뒷세계와 아우터 림을 관리하며
+    ja: アークの裏社会とアウターリムを管理しながら
+  event_queensorder_05_e_22:
+    speaker: rosanna
+    en: and to keep the Outer Rim from collapsing.
+    ko: 아우터 림이 붕괴하지 않도록,
+    ja: アウターリムが崩壊しないように
+  event_queensorder_05_e_23:
+    speaker: rosanna
+    en: That's what we're meant to uphold, is it not?
+    ko: "[폭력]을 써서라도 막는다."
+    ja: "「暴力」を使ってでも止める。"
+  event_queensorder_05_e_24:
+    speaker: rosanna
+    en: By force, if necessary.
+    ko: 그것이 우리가 세운 [질서]잖아?
+    ja: それがあたしらが決めた「ルール」でしょ？
+  event_queensorder_05_e_25:
+    speaker: moran
+    en: Rosanna...
+    ko: "…로산나."
+    ja: "…ロザンナ。"
+  event_queensorder_05_e_26:
+    speaker: rosanna
+    en: Our cause is just.
+    ko: 명분도 확실하잖아?
+    ja: 理由もハッキリしてるじゃん？
+  event_queensorder_05_e_27:
+    speaker: rosanna
+    en: We can't allow these people to
+    ko: 아우터 림의 방벽을 테러하려 한다니.
+    ja: アウターリムの防壁を壊そうとするなんて。
+  event_queensorder_05_e_28:
+    speaker: rosanna
+    en: detonate the Outer Rim's barrier.
+    ko: 안되지 안돼~
+    ja: ダメでしょ～
+  event_queensorder_05_e_29:
+    speaker: rosanna
+    en: They say that once the barrier is gone, they'll have their freedom.
+    ko: 방벽이 터지면 자유가 온다니,
+    ja: 防壁が崩れたら自由が手に入るとか、
+  event_queensorder_05_e_30:
+    speaker: rosanna
+    en: But what kind of ludicrous delusion is that?
+    ko: 그런 망상은 도대체 어떤 멍청한 놈이 꾸는 거야?
+    ja: |-
+      そういうことをいったいどこのマヌケが
+      妄想してんの？
+  event_queensorder_05_e_31:
+    speaker: rosanna
+    en: The second that barrier goes down, they'll be giving the Central Government
+      a reason to come and suppress the Outer Rim by force.
+    ko: 터지는 순간, 중앙 정부에서 아우터 림을 토벌할 가장 확실한 명분이 생기는 건데.
+    ja: |-
+      爆発した瞬間、中央政府が
+      アウターリムを制圧する
+      一番明確な理由ができるだけなのに。
+  event_queensorder_05_e_32:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_e_33:
+    speaker: rosanna
+    en: We can't let that happen.
+    ko: 그럼 안되는 거잖아.
+    ja: それは困るでしょ。
+  event_queensorder_05_e_34:
+    speaker: rosanna
+    en: Right?
+    ko: 그치?
+    ja: ね？
+  event_queensorder_05_e_35:
+    speaker: sakura
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_e_36:
+    speaker: moran
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_e_37:
+    speaker: rosanna
+    en: My plan, and what I'm going to do,
+    ko: 자. 그럼 이제부터 내가 하는 일은.
+    ja: それじゃ、これからあたしがすることは
+  event_queensorder_05_e_38:
+    speaker: rosanna
+    en: all fall in line with our directives.
+    ko: "[질서]에 위반된 게 아니라고 허락받은 거다?"
+    ja: "「ルール」に反することじゃないよね？"
+  event_queensorder_05_e_39:
+    speaker: rosanna
+    en: Does it not?
+    ko: 모두 동의하지?
+    ja: みんな同意するでしょ？
+  event_queensorder_05_e_40:
+    speaker: sakura
+    en: I can't say that your personal vendetta is not a part of all this,
+    ko: 당신의 말에 사심이 없다고는 할 수 없으나,
+    ja: あなたの言葉に私情がないとは言えませんが
+  event_queensorder_05_e_41:
+    speaker: sakura
+    en: but it is also true that we cannot allow this to go on.
+    ko: 이대로 방치해선 안되는 사안인 것 또한 맞으니.
+    ja: このまま放置してはならない事案でもあります。
+  event_queensorder_05_e_42:
+    speaker: sakura
+    en: It appears we have little choice.
+    ko: 어쩔 수 없지요.
+    ja: 仕方ありませんね。
+  event_queensorder_05_e_43:
+    speaker: sakura
+    en: The Seimeikai agrees.
+    ko: 세이메이카이는 동의합니다.
+    ja: 清明会は同意します。
+  event_queensorder_05_e_44:
+    speaker: "<Monologue>"
+    en: Sakura closes her eyes.
+    ko: 사쿠라는 눈을 감았다.
+    ja: サクラは目を閉じた
+  event_queensorder_05_e_45:
+    speaker: moran
+    en: "... Yes."
+    ko: "…그래."
+    ja: "…そうだな。"
+  event_queensorder_05_e_46:
+    speaker: moran
+    en: The barrier can't be destroyed, so
+    ko: 방벽 파괴는 일어나선 안되는 일이니까….
+    ja: 防壁が壊されたりしたらダメだから…
+  event_queensorder_05_e_47:
+    speaker: moran
+    en: the Peony Association is with you as well.
+    ko: 모란회도 동의할게.
+    ja: 牡丹会も同意するぜ。
+  event_queensorder_05_e_48:
+    speaker: "<Monologue>"
+    en: Moran also closes her eyes.
+    ko: 목단도 눈을 감았다.
+    ja: モランも目を閉じた
+  event_queensorder_05_e_49:
+    speaker: rosanna
+    en: Good. So it's settled.
+    ko: 좋아. 깔끔하네.
+    ja: オッケー。いいね。
+  event_queensorder_05_e_50:
+    speaker: rosanna
+    en: I'll be on my way then.
+    ko: 그럼 난 이만 일어날게.
+    ja: それじゃ、あたしは行くから。
+  event_queensorder_05_e_51:
+    speaker: rosanna
+    en: I have a lot of things to take care of.
+    ko: 이제부터 해야 할 일이 많을 것 같거든.
+    ja: やることが山積みなんだよね。
+  event_queensorder_05_e_52:
+    speaker: "<Monologue>"
+    en: Rosanna stands up and comes toward me.
+    ko: 로산나가 자리에서 일어나 내게 다가왔다.
+    ja: ロザンナが立ち上がり、私に近づいた
+  event_queensorder_05_e_53:
+    speaker: "<Self>"
+    en: Are you returning to the Outer Rim now?
+    ko: 이제 아우터 림으로 돌아가는 거야?
+    ja: アウターリムに帰るのか？
+  event_queensorder_05_e_54:
+    speaker: rosanna
+    en: Yes.
+    ko: 맞아.
+    ja: そうだよ。
+  event_queensorder_05_e_55:
+    speaker: rosanna
+    en: I'm going to end all of this.
+    ko: 이제 모든 걸 끝내러 갈 거야.
+    ja: すべてを終わらせに行く。
+  event_queensorder_05_e_56:
+    speaker: rosanna
+    en: From here on out, we operate separately.
+    ko: 그러니 여기부터는 따로 움직이자.
+    ja: だからここからは別行動だね。
+  event_queensorder_05_e_57:
+    speaker: rosanna
+    en: With what I'm about to do... I don't want to involve you in any of that.
+    ko: 앞으로 벌어질 일들에 미스터가 휘말리지 않았으면 하거든.
+    ja: |-
+      これから起こるコトにミスターを
+      巻き込みたくないんだ。
+  event_queensorder_05_e_58:
+    speaker: rosanna
+    en: Stay here in the safe house until I tell you otherwise.
+    ko: 그러니까 일이 끝날 때까지 여기 안전 가옥에 있어.
+    ja: だから全部終わるまで、隠れ家にいて。
+  event_queensorder_05_e_59:
+    speaker: rosanna
+    en: Sakura and her gang will protect you.
+    ko: 사쿠라네 애들이 지켜줄 거야.
+    ja: サクラたちが守ってくれるはず。
+  event_queensorder_05_e_60:
+    speaker: "<Self>"
+    en: Rosanna...
+    ko: "…로산나."
+    ja: "…ロザンナ"
+  event_queensorder_05_e_61:
+    speaker: rosanna
+    en: Mister.
+    ko: 미스터.
+    ja: ミスター。
+  event_queensorder_05_e_62:
+    speaker: rosanna
+    en: Following me around has put you through hell and back.
+    ko: 나한테 휘말려서 이리저리 휩쓸려 다니느라 고생했어.
+    ja: あたしのせいで色々大変だったでしょ。
+  event_queensorder_05_e_63:
+    speaker: "<Self>"
+    en: Be careful.
+    ko: 조심해야 해.
+    ja: 気をつけて
+  event_queensorder_05_e_64:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_05_e_65:
+    speaker: "<Monologue>"
+    en: Rosanna grabs my shirt sleeve and tugs me forward.
+    ko: 로산나가 옷깃을 잡아당겼다.
+    ja: ロザンナが私の襟を引っ張った
+  event_queensorder_05_e_66:
+    speaker: "<Narration>"
+    en: "*Smooch*"
+    ko: 쪽-
+    ja: チュッ
+  event_queensorder_05_e_67:
+    speaker: rosanna
+    en: Thank you for being with me.
+    ko: 함께해서 고마웠어.
+    ja: 一緒にいてくれてありがとう。
+  event_queensorder_05_e_68:
+    speaker: "<Monologue>"
+    en: Rosanna turns and walks away,
+    ko: 로산나가 뒤돌아 걸어나갔다.
+    ja: ロザンナは後ろを向いて歩いていった
+  event_queensorder_05_e_69:
+    speaker: "<Monologue>"
+    en: off on the path toward her revenge.
+    ko: 복수의 길을 향해.
+    ja: 復讐の道に向かって
+event_queensorder_06_s:
+  event_queensorder_06_s_1:
+    speaker: "<Monologue>"
+    en: Once, there was a boy who was born in the Outer Rim.
+    ko: 남자는 아우터 림에서 태어났다.
+    ja: 男はアウターリムで生まれた
+  event_queensorder_06_s_2:
+    speaker: "<Monologue>"
+    en: Ever since he was little, he lived in the shadows.
+    ko: 그는 어릴 적, 단 한 번도 빛 아래에서 살아본 적이 없었다.
+    ja: 彼は子どもの頃、一度も光の下で暮らしたことがなかった
+  event_queensorder_06_s_3:
+    speaker: "<Monologue>"
+    en: In the Outer Rim, there was no light in the sky.
+    ko: 아우터 림의 하늘에는 빛이 존재하지 않았기 때문이다.
+    ja: アウターリムの空には光が存在しなかったからだ
+  event_queensorder_06_s_4:
+    speaker: "<Monologue>"
+    en: Even in the subterranean metropolis of the Ark, the residents live under an
+      artificially lit sky.
+    ko: 똑같은 땅굴 속에 사는 처지임에도, 방주의 인간들은 빛 속에서.
+    ja: |-
+      同じ洞窟の中で暮らしているのに
+      アークの人間は光の中で
+  event_queensorder_06_s_5:
+    speaker: "<Monologue>"
+    en: The same cannot be said for those unfortunate enough to reside in the Outer
+      Rim.
+    ko: 자신들은 그림자 속에서 살아가고 있었다.
+    ja: 自分たちは影の中で暮らしていた
+  event_queensorder_06_s_6:
+    speaker: "<Monologue>"
+    en: This angered the boy.
+    ko: 그는 그것이 너무나도 분했다.
+    ja: 男はそれがあまりにも悔しかった
+  event_queensorder_06_s_7:
+    speaker: "<Monologue>"
+    en: He became an adult, and before long, became strong enough to work his way
+      into the Ark's criminal underworld.
+    ko: 그가 어른이 된 후 힘을 얻어 방주의 뒷골목까지 나아갔지만,
+    ja: |-
+      大人になってから力を手に入れ
+      アークの裏通りまでのし上がったが
+  event_queensorder_06_s_8:
+    speaker: "<Monologue>"
+    en: Even then, however, he felt that he did not belong.
+    ko: 떳떳하게 빛 아래에서 살아갈 수 없었다.
+    ja: 堂々と光の下で暮らすことはできなかった
+  event_queensorder_06_s_9:
+    speaker: "<Monologue>"
+    en: Despite being in the Ark, he always had to hide in the shadows, away from
+      the light.
+    ko: 그는 늘 방주의 그림자에 숨어서 빛을 잃은 채 살아가야 했다.
+    ja: |-
+      男はいつもアークの影に隠れて
+      光を失ったまま生きなければならなかった
+  event_queensorder_06_s_10:
+    speaker: "<Monologue>"
+    en: He began to think.
+    ko: 그는 생각했다.
+    ja: 男は思った
+  event_queensorder_06_s_11:
+    speaker: "<Monologue>"
+    en: This barrier that separated the Outer Rim and the Ark
+    ko: 아우터 림과 방주를 가르는 저 방벽이.
+    ja: アウターリムとアークを隔てているあの防壁が
+  event_queensorder_06_s_12:
+    speaker: "<Monologue>"
+    en: was what kept them confined in this festering garbage heap of a slum.
+    ko: 자신들을 이 어두운 쓰레기장에 가둬두고 있노라고.
+    ja: |-
+      自分たちをこの暗いゴミ捨て場に
+      閉じ込めているのだ、と
+  event_queensorder_06_s_13:
+    speaker: "<Monologue>"
+    en: If that barrier were gone, they could all escape from the dark,
+    ko: 저 벽만 없으면 우리도 방주의 그림자 속이 아닌,
+    ja: |-
+      あの壁さえなければ、
+      自分たちもアークの影の中ではなく
+  event_queensorder_06_s_14:
+    speaker: "<Monologue>"
+    en: and run headlong into the light.
+    ko: 빛으로 가득한 햇살 아래 살 수 있을 것이라고.
+    ja: |-
+      光に満ちた日差しの下で
+      生きて行けるはずだと
+  event_queensorder_06_s_15:
+    speaker: "<Monologue>"
+    en: So he prepared.
+    ko: 그래서 그는 준비했다.
+    ja: だから男は準備した
+  event_queensorder_06_s_16:
+    speaker: "<Monologue>"
+    en: He carried out all manner of dirty work for a rich man from the Ark, and used
+      the money gained from it to purchase explosives.
+    ko: 방주 재력가의 더러운 일을 처리하면서 폭탄을 사 모으고.
+    ja: |-
+      アークの資産家の汚い仕事を処理しながら、
+      爆弾を買い集め
+  event_queensorder_06_s_17:
+    speaker: "<Monologue>"
+    en: Using some of these bombs, he destroyed one of the individuals who were most
+      likely to derail his plans.
+    ko: "그 폭탄을 일부 사용하여, \n이 일을 방해할 [문지기]들 중 하나를 쓰러뜨렸다."
+    ja: |-
+      その爆弾の一部を使って
+      この仕事を邪魔する「門番」を1人倒した
+  event_queensorder_06_s_18:
+    speaker: "<Monologue>"
+    en: After today, he would destroy this wretched barrier and enter the Ark.
+    ko: 오늘만 지나면 이 지긋지긋한 방벽을 없애고 방주로 들어갈 수 있다.
+    ja: |-
+      今日さえ過ぎれば、この防壁を壊して
+      アークに入ることができる
+  event_queensorder_06_s_19:
+    speaker: "<Monologue>"
+    en: However, the moment he approached the barrier, filled with grand hopes and
+      aspirations...
+    ko: 그 기대를 안고 방벽으로 다가간 순간,
+    ja: その期待を胸に、防壁に近づいた瞬間
+  event_queensorder_06_s_20:
+    speaker: rosanna
+    en: Hey there.
+    ko: 안녕~
+    ja: ヤッホ～
+  event_queensorder_06_s_21:
+    speaker: rosanna
+    en: About time you showed up.
+    ko: 이제 왔어?
+    ja: 遅いじゃん。
+  event_queensorder_06_s_22:
+    speaker: "<Monologue>"
+    en: The very person he thought he had eliminated, has risen once again, and is
+      blocking his path.
+    ko: 쓰러진 줄 알았던 문지기가 그를 가로막았다.
+    ja: 倒したはずの門番が、そこに立っていた
+  event_queensorder_06_s_23:
+    speaker: redthicket01
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_06_s_24:
+    speaker: redthicketboss
+    en: I-it's you?!
+    ko: 너, 너는…!
+    ja: お、お前は…！
+  event_queensorder_06_s_25:
+    speaker: rosanna
+    en: The one and only.
+    ko: 내가 있지~
+    ja: あたしさ～
+  event_queensorder_06_s_26:
+    speaker: rosanna
+    en: I was so touched by the thoughtful surprise you arranged for me,
+    ko: 니들이 준비해 준 서프라이즈에 너무 감동받아서 말야.
+    ja: |-
+      あんたらが準備してくれたサプライズに
+      すっかり感動しちゃって。
+  event_queensorder_06_s_27:
+    speaker: rosanna
+    en: so I wanted to return the favor.
+    ko: 나도 너희한테 서프라이즈를 좀 해주고 싶더라고.
+    ja: お返しのサプライズがしたくなっちゃったんだ。
+  event_queensorder_06_s_28:
+    speaker: redthicketboss
+    en: Eek! Change of plans!
+    ko: 이익… 플랜을 변경한다.
+    ja: チッ…計画変更だ。
+  event_queensorder_06_s_29:
+    speaker: redthicketboss
+    en: Detonate it now!
+    ko: 지금 당장 터뜨려 버려!
+    ja: 今すぐ壊しちまえ！
+  event_queensorder_06_s_30:
+    speaker: "<Monologue>"
+    en: The Red Grass members push the button.
+    ko: 붉은 덤불의 조직원이 버튼을 눌렀다.
+    ja: レッドブッシュの組員がボタンを押した
+  event_queensorder_06_s_31:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삑-
+    ja: ピッ
+  event_queensorder_06_s_32:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_06_s_33:
+    speaker: redthicket01
+    en: Huh?
+    ko: 어?
+    ja: え？
+  event_queensorder_06_s_34:
+    speaker: "<Monologue>"
+    en: Nothing happened.
+    ko: 아무런 일도 일어나지 않았다.
+    ja: 何も起きなかった
+  event_queensorder_06_s_35:
+    speaker: rosanna
+    en: You moron.
+    ko: 뭐야, 이 등X은.
+    ja: バカじゃないの？
+  event_queensorder_06_s_36:
+    speaker: rosanna
+    en: Do you think I'd just waltz in here without defusing the bombs first?
+    ko: 내가 설마 여기 와있는데, 너희들이 깔아둔 폭탄을 가만 내버려 뒀겠냐?
+    ja: |-
+      あたしがここに居て、爆弾を
+      放っておくと思う？
+  event_queensorder_06_s_37:
+    speaker: redthicketboss
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_06_s_38:
+    speaker: rosanna
+    en: Let me fill you in on a little secret.
+    ko: |-
+      야. 머저리.
+      그거 아냐?
+    ja: ねえ、知ってる？
+  event_queensorder_06_s_39:
+    speaker: rosanna
+    en: That store you planted your bomb in?
+    ko: 니들이 폭탄 설치한 그 가게 말이야.
+    ja: あんたらが爆弾を仕掛けた店だけど。
+  event_queensorder_06_s_40:
+    speaker: rosanna
+    en: One of our members ran that place.
+    ko: 우리 애들 중 하나가 운영하는 거였다?
+    ja: あたしの仲間が経営してる店だったんだよ？
+  event_queensorder_06_s_41:
+    speaker: rosanna
+    en: I don't know
+    ko: 그 자식이 말이야.
+    ja: そいつね。
+  event_queensorder_06_s_42:
+    speaker: rosanna
+    en: if it has more to do with luck or skill, but he was able to have a kid and
+      raise him in the rough-and-tumble Outer Rim.
+    ko: |-
+      능력이 좋았는지 운이 좋았는지.
+      이 삭막한 아우터 림에서 자식을 봤어요, 글쎄.
+    ja: |-
+      実力があったのか、運がよかったのか。
+      この荒れ果てたアウターリムで
+      子どもまでいるの。
+  event_queensorder_06_s_43:
+    speaker: rosanna
+    en: That little bugger is still kicking. Gonna be turning 5 this year.
+    ko: 심지어 그 자식 놈이 죽지도 않고 올해 다섯 살이 됐다네?
+    ja: しかもその子、今年5歳になったんだったかな。
+  event_queensorder_06_s_44:
+    speaker: rosanna
+    en: That kid's a real handful.
+    ko: 고 조그마한 게 말이야.
+    ja: こ～んなちっちゃいのにね。
+  event_queensorder_06_s_45:
+    speaker: rosanna
+    en: He's always pushing my buttons, utterly clueless that his father works for
+      me.
+    ko: 아주 맹랑해서, 내가 지 아빠 보스인지도 모르고 막 들이대는.
+    ja: |-
+      しっかりしてて、あたしが
+      自分の父親のボスだとも知らずに
+      刃向かってくんの。
+  event_queensorder_06_s_46:
+    speaker: rosanna
+    en: He's got no manners whatsoever.
+    ko: 그런 싹수가 노란 놈이더라고.
+    ja: そういう生意気な子でね。
+  event_queensorder_06_s_47:
+    speaker: rosanna
+    en: He honestly thinks all the food that's put on his table was paid for by his
+      father.
+    ko: 걔한테는 자기가 먹는 그 밥이 전부 아빠가 사주는 줄 알았단다.
+    ja: |-
+      その子は、自分が食べるご飯は
+      全部父親が買ってくれるもんだと思ってた。
+  event_queensorder_06_s_48:
+    speaker: rosanna
+    en: Haha!
+    ko: 하하!
+    ja: アハハ！
+  event_queensorder_06_s_49:
+    speaker: rosanna
+    en: Isn't that ridiculous?
+    ko: 정말 어처구니가 없지 않아?
+    ja: ほんと呆れちゃうよね。
+  event_queensorder_06_s_50:
+    speaker: rosanna
+    en: I provide a roof over his head, clothes on his back, and put food on his table.
+    ko: 지 먹는 거, 입는 거, 자는 거 다 내가 마련해 준 건데.
+    ja: |-
+      食べ物、服、寝床、
+      全部あたしが用意してやってんのに。
+  event_queensorder_06_s_51:
+    speaker: rosanna
+    en: His ignorance is honestly kind of beguiling, and I find it cute.
+    ko: 뭣도 모르고 나대는 게 참 귀엽더라.
+    ja: |-
+      何も知らずに突っかかってくんのが
+      かわいかったよ。
+  event_queensorder_06_s_52:
+    speaker: rosanna
+    en: It's refreshing, and something you don't often find in the Outer Rim.
+    ko: 이 아우터 림에서는 찾아볼 수 없는 그 파릇파릇한.
+    ja: |-
+      このアウターリムでは珍しい、
+      新鮮さっていうか？
+  event_queensorder_06_s_53:
+    speaker: rosanna
+    en: It's nice to see this so-called familial love.
+    ko: 가족애라는 그게, 참 보기 좋더라고.
+    ja: 家族愛って、いいもんだね。
+  event_queensorder_06_s_54:
+    speaker: rosanna
+    en: Finding something like that here is rare, wouldn't you agree?
+    ko: 여기서 그런 걸 찾아보는 건 정말 드문 일이잖아?
+    ja: ここじゃなかなか見られるもんじゃないでしょ？
+  event_queensorder_06_s_55:
+    speaker: rosanna
+    en: But you know what?
+    ko: 그런데 있지.
+    ja: でもさ。
+  event_queensorder_06_s_56:
+    speaker: rosanna
+    en: His father is dead now,
+    ko: 그 아비 놈이 죽었단다.
+    ja: その父親が、死んだんだよね。
+  event_queensorder_06_s_57:
+    speaker: rosanna
+    en: thanks to that bomb you set off.
+    ko: 너희들이 터뜨린 그 폭탄에.
+    ja: あんたらが爆発させた、あの爆弾で。
+  event_queensorder_06_s_58:
+    speaker: rosanna
+    en: A beautiful thing, completely eradicated in an instant.
+    ko: 아주 보기 좋았던 그게 폭탄 한방에.
+    ja: 爆弾一発で。
+  event_queensorder_06_s_59:
+    speaker: rosanna
+    en: Bang!
+    ko: 빵~!
+    ja: バーンッ！
+  event_queensorder_06_s_60:
+    speaker: rosanna
+    en: All gone.
+    ko: 하고 부서져버렸다고.
+    ja: って壊れちゃった。
+  event_queensorder_06_s_61:
+    speaker: redthicketboss
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_06_s_62:
+    speaker: rosanna
+    en: Ah, right.
+    ko: 아, 맞다.
+    ja: あ、そうだ。
+  event_queensorder_06_s_63:
+    speaker: rosanna
+    en: You said you wanted to topple the barrier and live like everyone else does
+      in the Ark,
+    ko: 방벽을 부숴서 방주 시민이랑 똑같이 살고 싶다고 했었지?
+    ja: |-
+      防壁を壊してアーク市民と同じように
+      暮らしたいって言ってたよね？
+  event_queensorder_06_s_64:
+    speaker: rosanna
+    en: right?
+    ko: 야.
+    ja: なあ。
+  event_queensorder_06_s_65:
+    speaker: rosanna
+    en: If you've got a brain in that thick skull of yours, I suggest you start using
+      it.
+    ko: 머리가 있으면 좀 굴려보기라도 해라.
+    ja: そのアタマは飾りかよ？
+  event_queensorder_06_s_66:
+    speaker: rosanna
+    en: Do you really think that plan will work?
+    ko: 그게 될 거 같냐?
+    ja: アーク市民と同じになれると思ってんの？
+  event_queensorder_06_s_67:
+    speaker: rosanna
+    en: Do you realize what will happen the moment you destroy this barrier?
+    ko: 이 방벽을 부수는 순간 어떻게 되는 줄 알아?
+    ja: この防壁を壊した瞬間、どうなると思う？
+  event_queensorder_06_s_68:
+    speaker: rosanna
+    en: The Central Government will bring in an elite Nikke squad, and you'll be six
+      feet underground in no time.
+    ko: 중앙 정부에서 정예 니케들을 끌고 들어와서 싹 다 뒈지는 거야.
+    ja: |-
+      中央政府が精鋭のニケたちを引き連れてきて、
+      皆殺しにされんの。
+  event_queensorder_06_s_69:
+    speaker: rosanna
+    en: Do you think you'll be the only ones killed? Everyone will be slaughtered.
+      Every single person in the Outer Rim.
+    ko: |-
+      니들만 죽을 거 같아?
+      다 죽을 거야. 아우터 림에 있는 모두가.
+    ja: |-
+      死ぬのはあんたらだけだと思う？
+      全員死ぬんだよ。アウターリムにいる全員が。
+  event_queensorder_06_s_70:
+    speaker: redthicketboss
+    en: They wouldn't dare...
+    ko: 무슨 그런….
+    ja: そんなはず…
+  event_queensorder_06_s_71:
+    speaker: rosanna
+    en: You don't think so?
+    ko: 아닌 거 같아?
+    ja: ウソだと思う？
+  event_queensorder_06_s_72:
+    speaker: rosanna
+    en: "Well, whatever. \nThink however you want."
+    ko: "뭐 그래. \n좋을 대로 생각해."
+    ja: |-
+      まあ、いいや。
+      好きなように思ってれば？
+  event_queensorder_06_s_73:
+    speaker: rosanna
+    en: I didn't come here to try and set you straight anyway.
+    ko: 나도 너희에게 선생질하러 온 게 아니니까.
+    ja: |-
+      あたしもあんたらに
+      お説教しに来たわけじゃないから。
+  event_queensorder_06_s_74:
+    speaker: rosanna
+    en: I honestly don't know why I care so much.
+    ko: 난 있지.
+    ja: あたしはね。
+  event_queensorder_06_s_75:
+    speaker: rosanna
+    en: It has nothing to do with me.
+    ko: 아우터 림의 안전이니 뭐니, 혁명이니 뭐니.
+    ja: アウターリムの安全とか、革命とか
+  event_queensorder_06_s_76:
+    speaker: rosanna
+    en: The Outer Rim. The Revolution. All of them.
+    ko: 그딴 건 알 바 아니야.
+    ja: そんなのどうでもいい。
+  event_queensorder_06_s_77:
+    speaker: rosanna
+    en: If you don't like someone, shoot 'em.
+    ko: 그래 뭐, 마음에 안 들면 총을 갈 길 수도 있지.
+    ja: |-
+      まあ、気に入らなかったら
+      銃をぶっ放すかもしれないし。
+  event_queensorder_06_s_78:
+    speaker: rosanna
+    en: If you want to achieve something, blow it to smithereens.
+    ko: 목적을 위해서라면 폭탄 테러 정도는 해줄 수 있지.
+    ja: |-
+      目的を達成するためなら、
+      爆弾テロくらいはやるかもね。
+  event_queensorder_06_s_79:
+    speaker: rosanna
+    en: That's the Outer Rim, my friend.
+    ko: 그렇지~ 그게 아우터 림이지!
+    ja: それがアウターリムだよね！
+  event_queensorder_06_s_80:
+    speaker: rosanna
+    en: However,
+    ko: 그런데.
+    ja: でも。
+  event_queensorder_06_s_81:
+    speaker: rosanna
+    en: where you screwed up with your wanna-be revolution was getting those close
+      to me involved.
+    ko: 그 잘난 혁명질 하고 싶었으면 내 패밀리는 건드리지 말았어야지.
+    ja: |-
+      そんなに革命がしたかったんなら、
+      なんであたしのファミリーに手を出したんだよ。
+  event_queensorder_06_s_82:
+    speaker: rosanna
+    en: You shouldn't have killed those people!
+    ko: 내 사람은 죽이지 말았어야지!
+    ja: なんであたしの人間を殺したんだよ！
+  event_queensorder_06_s_83:
+    speaker: "<Narration>"
+    en: "*Click- Click- Click- Click- Click- Click-*"
+    ko: 철컥- 철컥- 철컥- 철컥- 철컥- 철컥-
+    ja: ガチャ、ガチャ、ガチャ、ガチャ、ガチャ
+  event_queensorder_06_s_84:
+    speaker: "<Monologue>"
+    en: Hedonia members start to show themselves one by one,
+    ko: 헤도니아 조직원들이 하나둘씩 모습을 드러내어,
+    ja: ヘッドニアの組員たちが姿を現し
+  event_queensorder_06_s_85:
+    speaker: "<Monologue>"
+    en: and line up against the Outer Rim barrier.
+    ko: 아우터 림 방벽 앞에 늘어섰다.
+    ja: アウターリムの防壁の前に並んだ
+  event_queensorder_06_s_86:
+    speaker: rosanna
+    en: An eye for an eye.
+    ko: 눈에는 눈.
+    ja: 目には目を。
+  event_queensorder_06_s_87:
+    speaker: rosanna
+    en: A tooth for a tooth.
+    ko: 이에는 이.
+    ja: 歯には歯を。
+  event_queensorder_06_s_88:
+    speaker: rosanna
+    en: Blood for blood.
+    ko: 피에는 피로.
+    ja: 血には血を。
+  event_queensorder_06_s_89:
+    speaker: rosanna
+    en: That is how I keep order.
+    ko: 그게 나, 로산나의 질서다.
+    ja: それがこのあたし、ロザンナのルール。
+  event_queensorder_06_s_90:
+    speaker: "<Monologue>"
+    en: Rosanna takes a step forward.
+    ko: 로산나가 한걸음 앞으로 나아갔다.
+    ja: ロザンナが一歩前に出た
+  event_queensorder_06_s_91:
+    speaker: rosanna
+    en: Now, my friends,
+    ko: 자, 얘들아.
+    ja: さあ、みんな。
+  event_queensorder_06_s_92:
+    speaker: rosanna
+    en: our vendetta begins.
+    ko: 우리만의 벤데타를 시작하자.
+    ja: ヴェンデッタを始めるよ。
+event_queensorder_06_e:
+  event_queensorder_06_e_1:
+    speaker: "<Monologue>"
+    en: The next day, Rosanna left Sakura's safe house.
+    ko: 로산나가 사쿠라의 안전 가옥을 떠난 다음날,
+    ja: ロザンナがサクラの隠れ家を去った翌日
+  event_queensorder_06_e_2:
+    speaker: "<Monologue>"
+    en: I was able to head back to the commander's room safe and sound.
+    ko: 나는 무사히 지휘관실로 돌아올 수 있게 되었다.
+    ja: 私は無事に指揮官室に帰ってくることができた
+  event_queensorder_06_e_3:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_06_e_4:
+    speaker: "<Monologue>"
+    en: Perhaps with a little help from the Underworld Queen, no more armed assassins
+      showed up.
+    ko: 언더월드 퀸이 힘써준 덕분인지 더 이상 총을 든 이들이 찾아오지 않았다.
+    ja: |-
+      アンダーワールドクイーンが
+      尽力してくれたおかげか
+      もう銃を持った人々は訪れなかった
+  event_queensorder_06_e_5:
+    speaker: "<Monologue>"
+    en: Everything went back to normal, as if nothing had happened.
+    ko: 아무 일 없었다는 듯 일상이 되돌아왔다.
+    ja: 何もなかったかのように、日常が戻ってきた
+  event_queensorder_06_e_6:
+    speaker: "<Monologue>"
+    en: But...
+    ko: 하지만….
+    ja: しかし…
+  event_queensorder_06_e_7:
+    speaker: "<Monologue>"
+    en: Several days have passed since that day and Rosanna still hasn't come to see
+      me.
+    ko: 그날 이후 며칠이나 지났지만 아직도 로산나는 찾아오지 않았다.
+    ja: |-
+      それから数日経ったが、
+      まだロザンナは来ていない
+  event_queensorder_06_e_8:
+    speaker: "<Narration>"
+    en: Zing-
+    ko: 지잉-
+    ja: ウィーン
+  event_queensorder_06_e_9:
+    speaker: "<Self>"
+    en: Rosanna?!
+    ko: 로산나?!
+    ja: ロザンナ！？
+  event_queensorder_06_e_10:
+    speaker: emma
+    en: "... Commander?"
+    ko: "…지휘관?"
+    ja: "…指揮官？"
+  event_queensorder_06_e_11:
+    speaker: "<Self>"
+    en: Oh, hey Emma.
+    ko: 아… 엠마구나.
+    ja: あ…エマか
+  event_queensorder_06_e_12:
+    speaker: emma
+    en: Were you waiting for someone?
+    ko: 미안. 기다리던 사람이 있었나 보구나?
+    ja: ごめんなさい。誰かを待っていたのね？
+  event_queensorder_06_e_13:
+    speaker: "<Self>"
+    en: No, sorry for startling you.
+    ko: "…아냐, 나야말로 놀라게 해서 미안해."
+    ja: "…いや、私こそ驚かせてすまない"
+  event_queensorder_06_e_14:
+    speaker: "<Self>"
+    en: What is it?
+    ko: 무슨 일이야?
+    ja: どうしたんだ？
+  event_queensorder_06_e_15:
+    speaker: emma
+    en: I've heard that
+    ko: 애들한테 들었는데,
+    ja: みんなから聞いたんだけど、
+  event_queensorder_06_e_16:
+    speaker: emma
+    en: you're mixed up in something big this time.
+    ko: 이번에 큰일에 휘말렸었다면서?
+    ja: 大きな事件に巻き込まれたんでしょう？
+  event_queensorder_06_e_17:
+    speaker: "<Self>"
+    en: "... Yeah."
+    ko: "…응."
+    ja: "…ああ"
+  event_queensorder_06_e_18:
+    speaker: emma
+    en: I got a message from Ingrid and
+    ko: 잉그리드의 전언도 있고,
+    ja: イングリッドからの伝言もあるし
+  event_queensorder_06_e_19:
+    speaker: emma
+    en: I wanted to see if you were safe.
+    ko: 지휘관이 무사한지도 보고 싶어서 와봤어.
+    ja: 指揮官が無事かどうか確かめたくて来てみたの。
+  event_queensorder_06_e_20:
+    speaker: "<Self>"
+    en: A message from Ingrid?
+    ko: 잉그리드의 전언?
+    ja: イングリッドからの伝言？
+  event_queensorder_06_e_21:
+    speaker: emma
+    en: 'She said, and I quote:'
+    ko: 잉그리드가 그러더라.
+    ja: こう言ってたわ。
+  event_queensorder_06_e_22:
+    speaker: emma
+    en: I heard about the incident with the Underworld Queen from Mustang.
+    ko: "[언더월드 퀸과의 일은 머스탱에게 전해 들었으니,"
+    ja: |-
+      「アンダーワールドクイーンとのことは
+      マスタングから聞いた。
+  event_queensorder_06_e_23:
+    speaker: emma
+    en: We'll be taking care of the violent incidents in the Ark.
+    ko: 방주 뒷골목의 폭력사태는 이쪽에서 정리하겠다.]
+    ja: アーク裏通りの暴力事件はこちらで片づける」
+  event_queensorder_06_e_24:
+    speaker: emma
+    en: And also...
+    ko: 라는 거랑….
+    ja: ってことと…
+  event_queensorder_06_e_25:
+    speaker: emma
+    en: I have already informed Perilous Siege.
+    ko: "[시지 패러리스에게는 이야기해두었다."
+    ja: "「シージペリラスには話をしておいた。"
+  event_queensorder_06_e_26:
+    speaker: emma
+    en: They will judge it as "a last resort" and will not act on it.
+    ko: "[어쩔 수 없는 일]이라고 판단하여 움직이지 않기로 했으니,"
+    ja: |-
+      『仕方のないこと』だと判断し、
+      動かないことになったから
+  event_queensorder_06_e_27:
+    speaker: emma
+    en: You should be careful not to get into trouble.
+    ko: 더 사고 치지 않게만 주의해라.]
+    ja: |-
+      これ以上トラブルを起こさないよう
+      それだけは気をつけてくれ」
+  event_queensorder_06_e_28:
+    speaker: emma
+    en: That's what she wanted to tell you.
+    ko: 라고 전해달래.
+    ja: って伝えてほしいって。
+  event_queensorder_06_e_29:
+    speaker: "<Self>"
+    en: Tell her thanks.
+    ko: "…고맙다고 전해줘."
+    ja: "…ありがとうと伝えてくれ"
+  event_queensorder_06_e_30:
+    speaker: emma
+    en: Okay, I'll relay the message.
+    ko: 응. 꼭 전해줄게~
+    ja: ええ。必ず伝えるわ～
+  event_queensorder_06_e_31:
+    speaker: "<Self>"
+    en: What's with the outfit?
+    ko: 그나저나 그 복장은 뭐야?
+    ja: それより、その格好はどうした？
+  event_queensorder_06_e_32:
+    speaker: emma
+    en: Oh, this? Since I came here as Ingrid's representative,
+    ko: 우후후, 오늘은 잉그리드의 대리인으로 찾아왔으니까~?
+    ja: |-
+      うふふ、今日はイングリッドの代理人として
+      来たから～？
+  event_queensorder_06_e_33:
+    speaker: emma
+    en: I decided to dress up as a secretary.
+    ko: 나름 비서인 것처럼 차려입고 왔지.
+    ja: 秘書らしい格好にしてみたのよ。
+  event_queensorder_06_e_34:
+    speaker: emma
+    en: What do you think? Do I pull it off?
+    ko: 어때? 유능한 비서 같지 않아?
+    ja: どう？有能な秘書に見える？
+  event_queensorder_06_e_35:
+    speaker: "<Self>"
+    en: Hmm... a little bit.
+    ko: 음… 조금은?
+    ja: うーん…少しは？
+  event_queensorder_06_e_36:
+    speaker: emma
+    en: I'll take it!
+    ko: 후후, 그 정도면 성공이네~
+    ja: ふふ、それなら成功だわ～
+  event_queensorder_06_e_37:
+    speaker: emma
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_06_e_38:
+    speaker: emma
+    en: "... Commander."
+    ko: "…지휘관."
+    ja: "…指揮官。"
+  event_queensorder_06_e_39:
+    speaker: emma
+    en: I don't know what has happened,
+    ko: 난 지휘관에게 무슨 일이 있었는지 모르지만.
+    ja: 私は指揮官に何があったのか知らないけど
+  event_queensorder_06_e_40:
+    speaker: emma
+    en: but the person you're waiting for is safe.
+    ko: 지휘관이 기다리고 있는 사람은 분명 무사할 거야.
+    ja: 指揮官が待ってる人は、きっと無事よ。
+  event_queensorder_06_e_41:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_06_e_42:
+    speaker: emma
+    en: I hope that they'll come to find you soon.
+    ko: 그 사람이 빠른 시일 내에 지휘관을 찾아오길 바랄게.
+    ja: 早くその人が指揮官に会いに来るといいわね。
+  event_queensorder_06_e_43:
+    speaker: "<Self>"
+    en: Thanks, Emma.
+    ko: 고마워, 엠마.
+    ja: ありがとう、エマ
+  event_queensorder_06_e_44:
+    speaker: emma
+    en: See you around.
+    ko: 후후. 그럼 다음에 또 보자~
+    ja: ふふ。それじゃまたね～
+  event_queensorder_06_e_45:
+    speaker: "<Monologue>"
+    en: Emma leaves.
+    ko: 엠마가 떠나갔다.
+    ja: エマは去っていった
+  event_queensorder_06_e_46:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_06_e_47:
+    speaker: "<Monologue>"
+    en: However, no matter how long I wait, Rosanna does not contact me.
+    ko: 하지만 아무리 기다려도 로산나에게는 연락이 오지 않았고,
+    ja: |-
+      しかし、いくら待っても
+      ロザンナからは連絡もなく
+  event_queensorder_06_e_48:
+    speaker: "<Monologue>"
+    en: Time continues to pass, and night falls.
+    ko: 시간은 흘러 밤이 되었다.
+    ja: いつしか夜になった
+  event_queensorder_06_e_49:
+    speaker: "<Self>"
+    en: Guess she's not coming today either.
+    ko: "…오늘도 오지 않는 건가."
+    ja: "…今日も来ないのだろうか"
+  event_queensorder_06_e_50:
+    speaker: rosanna
+    en: Who isn't coming?
+    ko: 누가?
+    ja: 誰が？
+  event_queensorder_06_e_51:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_06_e_52:
+    speaker: rosanna
+    en: If you're waiting for someone other than me, I'm gonna be pissed at you.
+    ko: 기다리고 있던 게 내가 아니면 좀 화가 날 것 같은데.
+    ja: |-
+      待ってたのがあたしじゃなかったら
+      ちょっと腹立つけど。
+  event_queensorder_06_e_53:
+    speaker: "<Self>"
+    en: Rosanna?!
+    ko: 로산나?!
+    ja: ロザンナ！？
+  event_queensorder_06_e_54:
+    speaker: rosanna
+    en: Hey there, Mister.
+    ko: 안녕. 미스터.
+    ja: ヤッホ～、ミスター。
+  event_queensorder_06_e_55:
+    speaker: "<Self>"
+    en: How...
+    ko: 어떻게….
+    ja: どうやって…
+  event_queensorder_06_e_56:
+    speaker: rosanna
+    en: I snuck in while you were lost in your thoughts.
+    ko: 우리 미스터가 사색에 잠겨있는 동안 조용히 들어왔지.
+    ja: |-
+      ミスターが物思いにふけってる間に
+      こっそりとね。
+  event_queensorder_06_e_57:
+    speaker: "<Self>"
+    en: What about... the job you were doing?
+    ko: "…그때 갔던 일은?"
+    ja: "…どうなった？"
+  event_queensorder_06_e_58:
+    speaker: rosanna
+    en: All taken care of.
+    ko: 다 끝냈어.
+    ja: 全部終わったよ。
+  event_queensorder_06_e_59:
+    speaker: rosanna
+    en: From the Outer Rim
+    ko: 아우터 림 부터 방주까지.
+    ja: アウターリムからアークまで
+  event_queensorder_06_e_60:
+    speaker: rosanna
+    en: to the Ark.
+    ko: 엮여있는 것 전부.
+    ja: 関係しているものすべて。
+  event_queensorder_06_e_61:
+    speaker: rosanna
+    en: Didn't leave a trace.
+    ko: 남김없이.
+    ja: 一つ残らず。
+  event_queensorder_06_e_62:
+    speaker: consigliere
+    en: Excuse me, Madam.
+    ko: 실례하겠습니다. 마담.
+    ja: 失礼いたします。奥様。
+  event_queensorder_06_e_63:
+    speaker: consigliere
+    en: Our boss wants to express her regards,
+    ko: 마담께서 붉은 덤불이라는 갱단에게 많은 돈을 주셨다고 하여,
+    ja: |-
+      奥様がレッドブッシュというギャングに
+      大金をお渡しになったとのことで
+  event_queensorder_06_e_64:
+    speaker: consigliere
+    en: for the considerable largesse you have given to the Red Grass gang.
+    ko: 저희 보스께서 안부를 전해달라고 하십니다.
+    ja: ボスからご挨拶を頼まれました。
+  event_queensorder_06_e_65:
+    speaker: wealthwoman
+    en: "!!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_06_e_66:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 탕-!
+    ja: バンッ！
+  event_queensorder_06_e_67:
+    speaker: "<Self>"
+    en: "...!!"
+    ko: "……!!"
+    ja: "……！！"
+  event_queensorder_06_e_68:
+    speaker: rosanna
+    en: No one will be posing a danger to you anymore.
+    ko: 이제 더는 미스터에게 위협을 가하는 녀석도 없을 거야.
+    ja: これでミスターに危害を加える奴もいないはず。
+  event_queensorder_06_e_69:
+    speaker: "<Self>"
+    en: I'm sure. They'd have to be alive for that.
+    ko: 전부 죽어서?
+    ja: 全員処分したからか？
+  event_queensorder_06_e_70:
+    speaker: "<Monologue>"
+    en: Rosanna grins without commenting further.
+    ko: 로산나가 말없이 미소 지었다.
+    ja: ロザンナは無言で微笑んだ
+  event_queensorder_06_e_71:
+    speaker: "<Choice>"
+    en: Nicely done.
+    ko: "…수고했어."
+    ja: "…お疲れ様"
+  event_queensorder_06_e_72:
+    speaker: "<Choice>"
+    en: I'm sorry, but it doesn't feel right to say 'good job' for something like
+      this.
+    ko: 잘 했다고 말하기는… 힘들 것 같아.
+    ja: よくやったとは…言えない
+  event_queensorder_06_e_73:
+    speaker: rosanna
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_06_e_74:
+    speaker: rosanna
+    en: I didn't expect to hear you say that.
+    ko: "…설마 미스터에게 수고했다는 이야기를 들을 줄은 몰랐는데 말이지."
+    ja: |-
+      …まさかミスターにねぎらいの言葉を
+      かけられるとはね。
+  event_queensorder_06_e_75:
+    speaker: rosanna
+    en: You're a rather peculiar human specimen...
+    ko: 정말 특이한 인간….
+    ja: 本当に変わってる…
+  event_queensorder_06_e_76:
+    speaker: "<Self>"
+    en: I'm glad you're safe.
+    ko: 그리고 무사해서 다행이야.
+    ja: それから無事でよかった
+  event_queensorder_06_e_77:
+    speaker: rosanna
+    en: It's okay.
+    ko: 괜찮아.
+    ja: 大丈夫。
+  event_queensorder_06_e_78:
+    speaker: rosanna
+    en: We're from two different worlds. It's understandable that you'd react that
+      way.
+    ko: 미스터는 양지에서만 살았으니, 그런 반응이 당연하지.
+    ja: |-
+      ミスターは日なたで育ったんだから、
+      それが当然の反応だよ。
+  event_queensorder_06_e_79:
+    speaker: rosanna
+    en: As long as you don't push me away.
+    ko: 밀어내지만 않으면 괜찮다고 생각했….
+    ja: 拒絶されなければいいと思…
+  event_queensorder_06_e_80:
+    speaker: "<Self>"
+    en: I'm just glad you're safe.
+    ko: 그래도 무사해서 다행이야.
+    ja: でも無事でよかった
+  event_queensorder_06_e_81:
+    speaker: rosanna
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_queensorder_06_e_82:
+    speaker: rosanna
+    en: "... Haha."
+    ko: "…하하."
+    ja: "…アハハ。"
+  event_queensorder_06_e_83:
+    speaker: rosanna
+    en: An ordinary person worrying about the life of a criminal mastermind.
+    ko: 뒷세계 보스의 목숨을 걱정하는 일반인이라니.
+    ja: 裏社会のボスの命を心配する一般人だなんて。
+  event_queensorder_06_e_84:
+    speaker: "<Monologue>"
+    en: Rosanna yanks me towards her.
+    ko: 로산나가 셔츠를 잡아당겼다.
+    ja: ロザンナがシャツを引っ張った
+  event_queensorder_06_e_85:
+    speaker: "<Narration>"
+    en: "*Smooch*"
+    ko: 쪽-
+    ja: チュッ
+  event_queensorder_06_e_86:
+    speaker: rosanna
+    en: I'm glad you're safe,
+    ko: "…나야말로."
+    ja: "…あたしも。"
+  event_queensorder_06_e_87:
+    speaker: rosanna
+    en: too.
+    ko: 미스터가 무사해서 다행이야.
+    ja: ミスターが無事でよかった
+  event_queensorder_06_e_88:
+    speaker: rosanna
+    en: If something ever happened to you,
+    ko: 미스터까지 죽어버렸으면,
+    ja: ミスターまで死んじゃったら
+  event_queensorder_06_e_89:
+    speaker: rosanna
+    en: I can't even imagine the tear I'd go on.
+    ko: 나도 내가 어떻게 복수하게 됐을지 상상이 안되거든.
+    ja: |-
+      どんな復讐をするのか、
+      自分でも想像つかないから。
+  event_queensorder_06_e_90:
+    speaker: "<Self>"
+    en: I'm not planning on dying anytime soon.
+    ko: 절대 죽지 말아야겠네.
+    ja: 絶対に死ねないな
+  event_queensorder_06_e_91:
+    speaker: rosanna
+    en: Good. Let's keep it that way.
+    ko: 그래. 죽지 마.
+    ja: そうだよ。死なないで。
+  event_queensorder_06_e_92:
+    speaker: rosanna
+    en: You just stay here like a good boy and wait for me.
+    ko: 앞으로도 계속 이곳에서 기다리고 있어줘.
+    ja: これからもずっとここで待ってて。
+  event_queensorder_06_e_93:
+    speaker: rosanna
+    en: That way, no matter what happens to me,
+    ko: |-
+      삶과 죽음.
+      어느 쪽으로 가게 되더라도,
+    ja: |-
+      生と死。
+      どちらに進んだとしても
+  event_queensorder_06_e_94:
+    speaker: rosanna
+    en: I'll be able to come back and see you.
+    ko: 언제든 미스터를 만나러 올 수 있게.
+    ja: いつでもミスターに会いに来られるように。
+event_queensorder_epilogue:
+  event_queensorder_epilogue_1:
+    speaker: "<Monologue>"
+    en: A few days after the Outer Rim barrier incident occurred,
+    ko: 아우터 림 방벽 사건이 일어난 지 며칠이 지난,
+    ja: アウターリムの防壁事件から数日が過ぎた
+  event_queensorder_epilogue_2:
+    speaker: "<Monologue>"
+    en: Rosanna paid me a visit in the afternoon.
+    ko: 어느 날 오후.
+    ja: ある日の午後
+  event_queensorder_epilogue_3:
+    speaker: rosanna
+    en: Hi, Mister.
+    ko: 안녕~ 미스터.
+    ja: ヤッホ～、ミスター。
+  event_queensorder_epilogue_4:
+    speaker: "<Monologue>"
+    en: Rosanna comes in and trains her gunsights on me.
+    ko: 로산나가 찾아와 총을 겨누었다.
+    ja: ロザンナがやってきて銃を構えた
+  event_queensorder_epilogue_5:
+    speaker: "<Self>"
+    en: What is this?!
+    ko: 이건… 뭐야?
+    ja: これは…何だ？
+  event_queensorder_epilogue_6:
+    speaker: rosanna
+    en: What do you think?
+    ko: 뭐긴.
+    ja: 何って。
+  event_queensorder_epilogue_7:
+    speaker: rosanna
+    en: A present.
+    ko: 선물이지.
+    ja: プレゼントだよ。
+  event_queensorder_epilogue_8:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 펑-!
+    ja: パンッ！
+  event_queensorder_epilogue_9:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_queensorder_epilogue_10:
+    speaker: "<Monologue>"
+    en: A bouquet of white flowers spurts out of the gun barrel.
+    ko: 로산나의 총에서 흰 꽃다발이 튀어나왔다.
+    ja: ロザンナの銃から白い花束が飛び出した
+  event_queensorder_epilogue_11:
+    speaker: "<Self>"
+    en: Flowers?
+    ko: 꽃?
+    ja: 花？
+  event_queensorder_epilogue_12:
+    speaker: rosanna
+    en: You look bored stiff.
+    ko: 우리 미스터, 한가해 보이는데.
+    ja: ミスター、ヒマそうだね。
+  event_queensorder_epilogue_13:
+    speaker: rosanna
+    en: How about picking up where we left off last time?
+    ko: 나랑 지난번에 못한 진한 거 좀 해볼까?
+    ja: あたしとこの間できなかったイイコトしない？
+  event_queensorder_epilogue_14:
+    speaker: "<Self>"
+    en: "!?"
+    ko: "!?"
+    ja: "！？"
+  event_queensorder_epilogue_15:
+    speaker: rosanna
+    en: At any rate, that's what I'd like to do,
+    ko: 라고 하고 싶지만.
+    ja: って言いたいとこだけど。
+  event_queensorder_epilogue_16:
+    speaker: rosanna
+    en: but let's switch it up today.
+    ko: 오늘은 다른 걸 하자.
+    ja: 今日は別のことをしよう。
+  event_queensorder_epilogue_17:
+    speaker: "<Self>"
+    en: Like what?
+    ko: 다른 거?
+    ja: 別のこと？
+  event_queensorder_epilogue_18:
+    speaker: rosanna
+    en: There's a place only I know about.
+    ko: 나만 알고 있는 좋은 곳이 있거든.
+    ja: あたしだけが知ってるイイところがあるんだ。
+  event_queensorder_epilogue_19:
+    speaker: rosanna
+    en: Let's go there.
+    ko: 거기 좀 같이 가자.
+    ja: 一緒に行こうよ。
+  event_queensorder_epilogue_20:
+    speaker: "<Self>"
+    en: What exactly is this place?
+    ko: 좋은 곳…?
+    ja: イイところ…？
+  event_queensorder_epilogue_21:
+    speaker: "<Self>"
+    en: You were talking about the surface?
+    ko: 좋은 곳이라는 게… 지상이었어?
+    ja: イイところって…地上だったのか？
+  event_queensorder_epilogue_22:
+    speaker: rosanna
+    en: Stop complaining and come this way.
+    ko: 투덜 거리지 말고 이쪽으로 와봐.
+    ja: ぶつぶつ言ってないで、こっち来て。
+  event_queensorder_epilogue_23:
+    speaker: "<Monologue>"
+    en: With a bouquet of white flowers in my arms, Rosanna leads me to the top of
+      the hill.
+    ko: 손에 흰 꽃다발을 든 채, 로산나에 이끌려 언덕 위로 향했다.
+    ja: |-
+      白い花束を持ったまま、
+      ロザンナに連れられて丘の上に向かった
+  event_queensorder_epilogue_24:
+    speaker: rosanna
+    en: Tah-dah!
+    ko: 짜잔~
+    ja: ジャーン！
+  event_queensorder_epilogue_25:
+    speaker: rosanna
+    en: I'd like to introduce you to the family plot.
+    ko: 패밀리들의 묘지를 소개할게.
+    ja: ファミリーの墓地を紹介するね。
+  event_queensorder_epilogue_26:
+    speaker: "<Monologue>"
+    en: I look at where Rosanna is pointing.
+    ko: 로산나가 가리킨 곳을 바라보았다.
+    ja: ロザンナが指差す場所を見た
+  event_queensorder_epilogue_27:
+    speaker: "<Monologue>"
+    en: Small mounds of earth and bricks are placed at regular intervals.
+    ko: 소담한 흙 언덕과 벽돌이 일정한 간격을 두고 배치되어 있었다.
+    ja: |-
+      ふっくらとした土の山とレンガが
+      一定の間隔で並べられていた
+  event_queensorder_epilogue_28:
+    speaker: "<Monologue>"
+    en: They resemble ersatz graves.
+    ko: "…마치 묘지처럼."
+    ja: "…まるで墓地のように"
+  event_queensorder_epilogue_29:
+    speaker: "<Self>"
+    en: Is this a cemetery?
+    ko: "…묘지라고?"
+    ja: "…墓地？"
+  event_queensorder_epilogue_30:
+    speaker: rosanna
+    en: Yeah.
+    ko: 응.
+    ja: うん。
+  event_queensorder_epilogue_31:
+    speaker: "<Self>"
+    en: On the surface?
+    ko: 여기 지상이잖아.
+    ja: ここは地上じゃないか
+  event_queensorder_epilogue_32:
+    speaker: rosanna
+    en: Right.
+    ko: 맞아.
+    ja: そうだよ。
+  event_queensorder_epilogue_33:
+    speaker: "<Self>"
+    en: Is this allowed?
+    ko: 이렇게 사적으로 이용해도 되는 거야?
+    ja: こんな風に個人的に使ってもいいのか？
+  event_queensorder_epilogue_34:
+    speaker: rosanna
+    en: Not sure.
+    ko: 모르지.
+    ja: さあね。
+  event_queensorder_epilogue_35:
+    speaker: "<Self>"
+    en: You don't know?
+    ko: 모른다고?
+    ja: さあねって…
+  event_queensorder_epilogue_36:
+    speaker: rosanna
+    en: It's not inside the Ark, so you can't say it's the Central Government's property.
+    ko: 방주도 아닌데, 중앙 정부의 땅은 아닐 거 아냐.
+    ja: |-
+      アークじゃないし、
+      中央政府の土地じゃないでしょ？
+  event_queensorder_epilogue_37:
+    speaker: rosanna
+    en: Soooo, I guess I can use it.
+    ko: 그럼 내가 써도 되겠지 뭐.
+    ja: じゃあ、あたしが使ってもいいよね。
+  event_queensorder_epilogue_38:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_epilogue_39:
+    speaker: rosanna
+    en: Fine, using the surface elevator for my own personal use may be problematic.
+    ko: 뭐, 사적으로 지상 엘리베이터를 쓴 건 좀 문제가 되겠지만.
+    ja: |-
+      まあ、個人的に地上エレベーターを使うのは
+      ちょっと問題になりそうだけど。
+  event_queensorder_epilogue_40:
+    speaker: rosanna
+    en: But I never said I was an angel.
+    ko: 내가 그렇게 정직하게 사는 타입은 아니니까.
+    ja: 真面目に生きてるワケでもないし。
+  event_queensorder_epilogue_41:
+    speaker: rosanna
+    en: I don't see what's the big deal.
+    ko: 괜찮지 않을까?
+    ja: 大丈夫じゃない？
+  event_queensorder_epilogue_42:
+    speaker: "<Self>"
+    en: Does Sakura or Moran know about this?
+    ko: "…사쿠라나 목단은 알고 있어?"
+    ja: "…サクラとモランは知ってるのか？"
+  event_queensorder_epilogue_43:
+    speaker: rosanna
+    en: Beats me.
+    ko: 글쎄?
+    ja: さあ？
+  event_queensorder_epilogue_44:
+    speaker: rosanna
+    en: They might, they might not.
+    ko: 알고 있을 수도 있고 모를 수도 있지.
+    ja: |-
+      知ってるかもしれないし、
+      知らないかもしれない。
+  event_queensorder_epilogue_45:
+    speaker: rosanna
+    en: I haven't told anyone about it yet.
+    ko: 난 아직 누구한테도 말해준 적 없으니까.
+    ja: まだ誰にも言ったことないから。
+  event_queensorder_epilogue_46:
+    speaker: "<Self>"
+    en: This is all a bit overwhelming...
+    ko: 음… 갑자기 부담스러워지는데….
+    ja: うーん…なんだかプレッシャーが…
+  event_queensorder_epilogue_47:
+    speaker: rosanna
+    en: Mister,
+    ko: 그러니까 미스터.
+    ja: だから、ミスター。
+  event_queensorder_epilogue_48:
+    speaker: rosanna
+    en: if word gets out about this cemetery,
+    ko: 이곳에 묘지가 있다는 게 알려지면,
+    ja: ここに墓地があるって知られたら
+  event_queensorder_epilogue_49:
+    speaker: rosanna
+    en: I'll know it was you who betrayed me.
+    ko: 미스터가 날 배신한 게 되는 거다?
+    ja: ミスターがあたしを裏切ったってことだからね？
+  event_queensorder_epilogue_50:
+    speaker: "<Self>"
+    en: What kind of...
+    ko: 무슨 그런….
+    ja: そんな…
+  event_queensorder_epilogue_51:
+    speaker: "<Monologue>"
+    en: I let out a sigh.
+    ko: 한숨을 내쉬었다.
+    ja: ため息をついた
+  event_queensorder_epilogue_52:
+    speaker: "<Self>"
+    en: That's why you gave me this bouquet.
+    ko: 이러려고 내게 이 꽃다발을 준거였군.
+    ja: そのためにこの花束をくれたのか
+  event_queensorder_epilogue_53:
+    speaker: rosanna
+    en: That's better. I like it when you use that noggin of yours.
+    ko: 눈치 빠른 미스터는 싫지 않아.
+    ja: 勘が鋭い男は嫌いじゃないよ。
+  event_queensorder_epilogue_54:
+    speaker: "<Self>"
+    en: Why did you choose to make these graves on the surface?
+    ko: "…왜 지상에 묘지를 만든 거야?"
+    ja: "…どうして地上に墓地を作ったんだ？"
+  event_queensorder_epilogue_55:
+    speaker: rosanna
+    en: Most of the Hedonia members have been born and raised in the Outer Rim.
+    ko: 헤도니아의 대부분은 아우터 림에서만 자라난 녀석들이거든.
+    ja: |-
+      ヘッドニアのほとんどはアウターリムでしか
+      暮らしたことがない奴らなんだ。
+  event_queensorder_epilogue_56:
+    speaker: rosanna
+    en: Not once in their entire life
+    ko: 평생, 단 한 번 도.
+    ja: 生涯、たった一度も。
+  event_queensorder_epilogue_57:
+    speaker: rosanna
+    en: did they have the chance to see the sun.
+    ko: 빛 아래에서 살아본 적이 없는 놈들이지.
+    ja: 光の下で暮らしたことがない。
+  event_queensorder_epilogue_58:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_epilogue_59:
+    speaker: rosanna
+    en: So I figured, the least I can do
+    ko: 그러니 죽고 나서 정도는,
+    ja: だから、せめて死んだ後くらいは
+  event_queensorder_epilogue_60:
+    speaker: rosanna
+    en: is to give them one last chance to see it in death.
+    ko: 햇빛 아래에서 살아도 괜찮지 않겠어?
+    ja: 日差しの下で過ごしてもいいでしょ？
+  event_queensorder_epilogue_61:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_epilogue_62:
+    speaker: rosanna
+    en: Are you going to report me?
+    ko: 신고할 거야?
+    ja: 通報する？
+  event_queensorder_epilogue_63:
+    speaker: "<Self>"
+    en: "... No."
+    ko: "…아니."
+    ja: "…いや"
+  event_queensorder_epilogue_64:
+    speaker: rosanna
+    en: Hehe, that makes you an accessory.
+    ko: 하하. 그럼 이제 공범이네?
+    ja: アハハ。じゃあもう共犯だね？
+  event_queensorder_epilogue_65:
+    speaker: "<Monologue>"
+    en: Rosanna clasps her hand around my neck.
+    ko: 로산나가 내 목을 끌어안았다.
+    ja: ロザンナが私の首に手を回した
+  event_queensorder_epilogue_66:
+    speaker: rosanna
+    en: You better not go turncoat on me.
+    ko: 절대 배신하면 안 된다?
+    ja: 絶対に裏切らないでよ？
+  event_queensorder_epilogue_67:
+    speaker: rosanna
+    en: I may love you to the moon and back,
+    ko: 사랑한 만큼,
+    ja: 愛した分
+  event_queensorder_epilogue_68:
+    speaker: rosanna
+    en: but I'd never forgive you for that. You'd have hell to pay.
+    ko: 증오를 담아서 복수할 테니까.
+    ja: 憎しみを込めて、復讐するから。
+  event_queensorder_epilogue_69:
+    speaker: "<Self>"
+    en: I shudder at the thought.
+    ko: 그거 무서운 이야기네.
+    ja: それは怖いな
+  event_queensorder_epilogue_70:
+    speaker: rosanna
+    en: As you should.
+    ko: 그래. 무서워해야지.
+    ja: そう。怖がってくれないと。
+  event_queensorder_epilogue_71:
+    speaker: rosanna
+    en: I've got a lot of love to give.
+    ko: 내 사랑은 제법 크거든.
+    ja: あたしの愛は大きいんだ。
+  event_queensorder_epilogue_72:
+    speaker: rosanna
+    en: Enough that I'm willing to bring someone other than myself here.
+    ko: 이곳에 내가 아닌 타인을 데려올 만큼.
+    ja: ここに連れてくるくらいにね。
+  event_queensorder_epilogue_73:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_epilogue_74:
+    speaker: "<Monologue>"
+    en: Rosanna slowly walks forward and looks around the graves.
+    ko: 로산나가 천천히 앞으로 걸어나가 묘지를 천천히 둘러보았다.
+    ja: |-
+      ロザンナがゆっくりと前に進み
+      墓地を一つ一つ確認した
+  event_queensorder_epilogue_75:
+    speaker: "<Monologue>"
+    en: As I trail behind her, I leave a single white flower on each grave.
+    ko: 그 뒤를 따라 걸으며, 묘지에 흰 꽃을 한 송이씩 내려놓았다.
+    ja: |-
+      その後ろを歩きながら、
+      墓地に白い花を一輪ずつ置いた
+  event_queensorder_epilogue_76:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_queensorder_epilogue_77:
+    speaker: rosanna
+    en: Should we go back?
+    ko: 돌아갈까?
+    ja: 帰ろっか？
+  event_queensorder_epilogue_78:
+    speaker: "<Self>"
+    en: "... Sure, let's go."
+    ko: "…그래. 가자."
+    ja: "…ああ、帰ろう"
+  event_queensorder_epilogue_79:
+    speaker: "<Monologue>"
+    en: We head back down the hill, leaving behind the several graves Rosanna made
+      by herself.
+    ko: 로산나가 혼자 만들었을 수십 개의 묘지를 뒤에 둔 채,
+    ja: |-
+      ロザンナが1人で作ったであろう数十個の墓地を
+      その場に残し
+  event_queensorder_epilogue_80:
+    speaker: "<Monologue>"
+    en: As we walk, the setting sun bathes the entire hillside in a deep, burning
+      red.
+    ko: 저녁노을에 붉게 물든 언덕을 걸어내려갔다.
+    ja: 夕焼けで赤く染まった丘を下っていった

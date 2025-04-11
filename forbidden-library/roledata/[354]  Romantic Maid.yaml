@@ -1,0 +1,525 @@
+---
+354_name:
+  en: 'Mast: Romantic Maid'
+  ko: '마스트 : 로망틱 메이드'
+  ja: マスト：ロマンチックメイド
+c354_description:
+  en: |-
+    Mast, dressed in the pirate costume of her dreams, makes her appearance at the Maid Cafe, leaving people unsure whether she's a pirate, a maid, or simply a bashful girl.
+    Despite all this confusion, the dream she holds in her heart is as genuine as it gets.
+  ko: |-
+    꿈에도 그리던 해적 코스츔을 입고 메이드 카페에 등장한 마스트.
+    해적인지 메이드인지 수줍은 소녀인지 헷갈리지만,
+    가슴에 품고 있는 로망만큼은 진짜라고 한다.
+  ja: |-
+    夢にまで見た海賊のコスチュームを着て
+    メイドカフェに現れたマスト。
+    海賊かメイドかシャイな少女なのかは分からないが、
+    抱いているロマンだけは本物だ。
+354_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_354:
+  en: 'Mast: Romantic Maid''s Spare Body'
+  ko: '마스트 : 로망틱 메이드 스페어 바디'
+  ja: マスト：ロマンチックメイドの スペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23542_name:
+  en: A Pirate's Spirit
+  ko: 파이레츠 스피릿
+  ja: パイレーツスピリット
+23542_description:
+  en: |-
+    ■ Activates when entering Burst stage 3 in Drunken status. Affects all allies.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% * Number of Drunken stacks for {description_value_02} sec.
+    Reloading Speed ▲ {description_value_03}% * Number of Drunken stacks for {description_value_04} sec.</color>
+    ■ Activates when the caster reaches max stacks of Drunken at the end of Full Burst. Affects self after the stacks are removed.
+    <color=#00AEFF>Hangover: Stun for {description_value_05} sec.</color>
+  ko: |-
+    ■ 버스트 3단계 진입 시 자신이 취기 상태라면 아군 전체에게
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_01}% X 취기 중첩 수 ▲] [{description_value_02}초 유지]
+    [재장전 속도 {description_value_03}% X 취기 중첩 수 ▲] [{description_value_04}초 유지]</color>
+    ■ 풀 버스트 타임 종료 시 자신이 취기 최대 중첩 상태라면 중첩 해제 후 자신에게
+    <color=#00AEFF>[숙취 : 기절 ] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■バースト3段階突入時、自分がほろ酔い状態なら味方全体に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％×ほろ酔いの
+    スタック数▲」「{description_value_02}秒間維持」
+    「リロード速度{description_value_03}％×ほろ酔いの
+    スタック数▲」「{description_value_04}秒間維持」</color>
+    ■フルバーストタイムが終了した時、
+    自分がほろ酔いのフルスタック状態なら
+    スタック解除後、自分に
+    <color=#00AEFF>「二日酔い：気絶」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23541_name:
+  en: A Pirate's Heart
+  ko: 파이레츠 하트
+  ja: パイレーツハート
+23541_description:
+  en: |-
+    ■ Activates when entering Burst stage 1. Affects self.
+    <color=#00AEFF>Drunken: Hit Rate ▼ {description_value_01}%, stacks up to {description_value_02} times continuously.</color>
+    ■ Activates only when in Drunken status. Affects all allies.
+    <color=#00AEFF>Critical Rate ▲ {description_value_03}% continuously.
+    ATK ▲ {description_value_04}% of caster's ATK continuously.</color>
+  ko: |-
+    ■ 버스트 1단계 진입 시 자신에게
+    <color=#00AEFF>[취기 : 명중률 {description_value_01}% ▼] [{description_value_02} 중첩] [지속]</color>
+    ■ 자신이 취기 상태에 한하여 아군 전체에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_03}% ▲] [지속]
+    [시전자 기준 공격력 {description_value_04}% ▲] [지속]</color>
+  ja: |-
+    ■バースト1段階突入時、自分に
+    <color=#00AEFF>「ほろ酔い：命中率{description_value_01}％▼」
+    「{description_value_02}スタック」「持続」</color>
+    ■自分がほろ酔い状態に限り味方全体に
+    <color=#00AEFF>「クリティカル確率{description_value_03}％▲」「持続」
+    「スキル発動者基準で攻撃力{description_value_04}％▲」
+    「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13543_name:
+  en: A Pirate's Romance
+  ko: 파이레츠 로망
+  ja: パイレーツロマン
+13543_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Critical Damage ▲ {description_value_01}% for {description_value_02} sec.
+    Attack Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all allies if in Drunken status.
+    <color=#00AEFF>ATK ▲ ({description_value_05}% * Number of Drunken stacks) of caster's ATK for {description_value_06} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 자신이 취기 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_05}% X 취기 중첩 수 ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「クリティカルダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■自分がほろ酔い状態なら、味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_05}％
+    ×ほろ酔いのスタック数▲」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+352_name:
+  en: Helm
+  ko: 헬름
+  ja: ヘルム
+350_name:
+  en: Mast
+  ko: 마스트
+  ja: マスト
+353_name:
+  en: 'Helm: Aquamarine'
+  ko: '헬름 : 아쿠아마린'
+  ja: ヘルム：アクアマリン
+355_name:
+  en: 'Anchor: Innocent Maid'
+  ko: '앵커 : 이노센트 메이드'
+  ja: アンカー：イノセントメイド
+351_name:
+  en: Anchor
+  ko: 앵커
+  ja: アンカー
+c354_Lobby_Touch_1:
+  en: Hahaha! How about that! I've finally become a pirate!
+  ko: 하하하! 어떻수! 해적이 된 이 마스트님의 모습이!
+  ja: ははは！どうだぁ！海賊になったマスト様の姿は！
+c354_Lobby_Touch_2:
+  en: |-
+    Just because I've become a pirate doesn't mean I'm done dreaming.
+    Onward to the next dream!
+  ko: |-
+    해적이 된 걸로 끝이 아니요.
+    다음 로망을 향해 가야지!
+  ja: |-
+    海賊になれて、満足したかって？
+    ロマン探しはこれからだぜっ！
+c354_Lobby_Touch_3:
+  en: A spell to make it delicious...? No way a pirate would do something so ridiculous!
+  ko: 맛있어지는 주문…? 해, 해적이 그런 걸 할 리가 없지 않수!
+  ja: おいしくなる呪文…？か、海賊はそんなことしねえ！
+c354_Lobby_Touch_Love_1:
+  en: Do you prefer maids to pirates, Master Captain?
+  ko: 주인장은 해적보다 메, 메이드가 더 좋은거요?
+  ja: ご主人様は海賊より…メ、メイドの方が好きっすか？
+c354_Lobby_Touch_Love_2:
+  en: So, what are your dreams, Master Captain? Well, since I've already fulfilled
+    some of mine, I thought I’d help you achieve yours!
+  ko: |-
+    그, 주인장의 로망은 뭐요?
+    아니 뭐, 내 로망은 어느 정도 이뤘으니까 도와줄까 해서.
+  ja: |-
+    ご主人様が求めるロマンって何っすか？
+    いや、その。私はほとんど叶ったので…よかったら手伝うっす。
+c354_Lobby_Touch_Love_3:
+  en: B-become tastier! Coochie woochie, boing! Ugh, I wanna crawl into a hole and
+    die!
+  ko: 마, 맛있어져라, 몽글몽크아아앗! 그냥 죽어버리겠수다!
+  ja: お、おいしくな～れ、ふわふわ…あああ！死んだ方がマシっす！
+c354_Lobby_Stay_1:
+  en: At this rate, I might actually turn into a real maid.
+  ko: 이대로 가다간 진짜 메이드가 되어버릴 텐데….
+  ja: このままマジでメイドになじんじまったらどうする…？
+c354_Lobby_Stay_Love_1:
+  en: |-
+    *Sigh*... Do you really like maids that much, Master Captain?
+    Well, seeing you enjoy yourself so much makes me happy too.
+  ko: |-
+    에휴. 주인장은 메이드가 그렇게나 좋을까.
+    …뭐, 그렇게 좋아하는 걸 보니 나도 좋수.
+  ja: |-
+    はぁぁ。メイドのどこがいいんだろうな。
+    …まっ、ご主人様が好きならいいか。
+c354_Outpost_Touch_1:
+  en: The Pirate Cafe is recruiting crew members right now!
+  ko: 지금 해적 카페에서 선원을 모집 중이요!
+  ja: 海賊カフェは船乗りを 絶賛募集中っす！
+c354_Outpost_Touch_2:
+  en: |-
+    Treasure and honor! And above all... adventure!
+    Join the Mast Pirate Crew right now!
+  ko: |-
+    보물과 명예! 그리고 무엇보다… 로망!
+    지금 바로 마스트 해적단에 합류하는거요!
+  ja: |-
+    富、名声！そして…ロマン！
+    今すぐマスト海賊団に 仲間入りだぁ！
+c354_Outpost_Touch_3:
+  en: Maid? How in the world could you possibly think I look like a maid? I'm not
+    going to be reciting any ridiculous "fluffy wuffy" spells!
+  ko: |-
+    메이드? 이게 어딜 봐서 메이드요!
+    아 몽글몽글 안 한다니까?!
+  ja: |-
+    メイド？これは違うっす！
+    かわいいポーズは やらないっすよ！？
+c354_Gacha_Get_1:
+  en: The legendary pirate Mast has arrived!
+  ko: 전설의 해적, 마스트님 등장이요!
+  ja: 伝説の海賊、マスト様参上だぁ！
+c354_Reinforce_1:
+  en: I'm overflowing with dreams!
+  ko: 로망이 차오르고 있수다!
+  ja: ロマンがみなぎってくるぜっ！
+c354_Reinforce_2:
+  en: I feel like setting off on an adventure right this instant!
+  ko: 당장이라도 모험을 떠나고 싶구만!
+  ja: 今すぐにでも冒険に飛び出したいぜ！
+c354_Reinforce_3:
+  en: As expected, you really know your stuff, Master Captain!
+  ko: 역시 주인장은 뭘 좀 아는군!
+  ja: さすがはご主人様。見る目があるな！
+c354_Gift_1:
+  en: Thank you, Master Captain.
+  ko: 고맙수, 주인장.
+  ja: ありがとな、ご主人様。
+c354_Gift_2:
+  en: Is this for me? I’ll have to repay you somehow.
+  ko: 이런 것까지 주는 거요? 보답을 해야겠구만.
+  ja: こんな…いいんすか？必ずお返しするっす。
+c354_Gift_3:
+  en: Technically, I was told not to accept gifts... but hey, as long as it's something
+    good, I don't see the problem!
+  ko: 이런 거 받지 말랬는데… 뭐, 좋은 게 좋은 거 아니겠수!
+  ja: もらうのは禁止って言われてるけど…ま、細かいことはいっか！
+c354_Attractive_Up_1:
+  en: You may be mischievous at times, Master Captain, but... you're not so bad yourself.
+  ko: |-
+    주인장이 가끔 짓궂기는 해도 뭐.
+    써, 썩 나쁘지 않수다.
+  ja: |-
+    ご主人様はたまにイジワルだけど、
+    わ、悪い気はしないっす。
+c354_Attractive_Up_2:
+  en: |-
+    Shall we have a drink together?
+    I’ll pour one for you. After all, I am a maid.
+  ko: |-
+    같이 한잔 하겠수?
+    내가 따라 드리지. 뭐, 메이드니까.
+  ja: |-
+    一緒に一杯どうっすか？
+    一応メイドらしいし、私が酌をするっす。
+c354_Attractive_Up_3:
+  en: |-
+    What are your dreams, Master Captain?
+    Actually, hold on. I think I already know.
+  ko: |-
+    주인장의 로망은 뭐요?
+    흠, 뭐. 안 들어도 알 것 같수.
+  ja: |-
+    ご主人様のロマンは何すか？
+    まっ、聞かなくても分かるっすけど。
+c354_Party_Deploy_1:
+  en: Is it time to set sail?
+  ko: 이제 출항인가?
+  ja: 出航っすか？
+c354_Field_Touch_1:
+  en: Aye aye, Master Captain.
+  ko: Aye, 주인장.
+  ja: Aye～ご主人様。
+c354_Field_Go_1:
+  en: Follow the wind, follow the adventure.
+  ko: 바람 따라, 로망 따라~
+  ja: 風の吹くまま、ロマンの向くまま～
+c354_Battle_Enter_1:
+  en: All hands to battle stations!
+  ko: 총원 전투 위치로~!
+  ja: 総員、持ち場につけ～！
+c354_Battle_Ready_1:
+  en: Run before the wind, full speed ahead!
+  ko: 바람 타고 전속력으로!
+  ja: 風に乗って全速力だ！
+c354_Battle_Ready_2:
+  en: The big one is mine!
+  ko: 큰 녀석은 내 거요!
+  ja: オオモノは私のものだぁ！
+c354_Battle_Ready_3:
+  en: No one can stop us!
+  ko: 아무도 우리를 막을 수는 없수다!
+  ja: 誰にも止められないぜ！
+c354_Reload_1:
+  en: Charging up adventure power!
+  ko: 로망 파워 충전이요!
+  ja: ロマンパワーチャージ！
+c354_Reload_2:
+  en: I’ll go at an easy pace.
+  ko: 여유 있게 가겠수다~
+  ja: のんびり行くぜぇ～
+c354_Reload_3:
+  en: Just a tiny sip of rum.
+  ko: 한 모금만 마실까~
+  ja: 一口だけ引っかけるか～
+c354_Ult_Skill_Ready_1:
+  en: Ready to stir up some chaos!
+  ko: 난장판 피울 준비 완료요!
+  ja: 暴れる準備はできてるぜ！
+c354_Ult_Skill_1:
+  en: Have a taste of adventure!
+  ko: 하하하! 내 로망을 보여주겠수다!
+  ja: |-
+    はっはっは！
+    私のロマンを見せてやる！
+c354_FullBurst_1:
+  en: Wipe them all out, for the sake of adventure!
+  ko: 모조리 없애버리는 거요! 로망을 위해!
+  ja: 片っ端から片付けるぜ！ロマンのために！
+c354_Kill_Monster_1:
+  en: Yo-ho-ho!
+  ko: Yo Ho!
+  ja: Yo Ho！
+c354_Kill_Monster_2:
+  en: Done!
+  ko: 처리했수다!
+  ja: 片付けたっす！
+c354_Kill_Monster_3:
+  en: You all are sleeping with the fish!
+  ko: 물고기 밥 추가요!
+  ja: サカナのエサ、いっちょうあがりぃ！
+c354_Damage_1:
+  en: Ugh.
+  ko: 으엑.
+  ja: うえっ。
+c354_Damage_2:
+  en: Ahh!
+  ko: 으앗!
+  ja: うあっ！
+c354_Damage_3:
+  en: Argh!
+  ko: 큭!
+  ja: くっ！
+c354_Die_1:
+  en: Adventure... never dies...
+  ko: 로망은… 죽지, 않는다….
+  ja: ロマンは…死な、ねぇ…
+c354_Win_1:
+  en: Victory! Let's crack open some rum to celebrate!
+  ko: 하하하! 승리 기념으로 럼주 파티요!
+  ja: ははは！勝った記念にラム酒でパーティーだ！
+354_cv_ja:
+  en: 'CV: Ryo Hirohashi'
+  ko: 'CV : 히로하시 료'
+  ja: CV：広橋涼
+354_cv_ko:
+  en: 'CV: Shin Na-ri'
+  ko: 'CV : 신나리'
+  ja: CV：シン・ナリ
+354_cv_en:
+  en: 'CV: Lisa Reimold'
+  ko: 'CV : 리사 레이몰드'
+  ja: CV：Lisa Reimold

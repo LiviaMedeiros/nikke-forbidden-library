@@ -1,0 +1,464 @@
+---
+30_name:
+  en: Poli
+  ko: 폴리
+  ja: ポリ
+c030_description:
+  en: A member of the Ark police force and captain of the A.C.P.U. Squad. Her appearance
+    and her temperament are like that of a little puppy. Though she can be rather
+    careless sometimes, she's a real professional at work and always does a perfect
+    job.
+  ko: "방주의 경찰, A.C.P.U. 스쿼드의 리더. \n외형도 성격도 강아지를 닮아 조금 허술한 부분도 있지만, 일에서만큼은 유능하고 프로페셔널하다."
+  ja: |-
+    アークの警察、A.C.P.U.部隊のリーダー。
+    見た目も性格もイヌのようで、
+    ちょっと抜けてる部分もあるけれど、
+    仕事においては有能でプロフェッショナル。
+30_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50030:
+  en: Poli's Spare Body
+  ko: 폴리 스페어 바디
+  ja: ポリのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_up:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+10302_name:
+  en: That's a Good Boy
+  ko: 도그 테라피
+  ja: ドッグセラピー
+10302_description_1:
+  en: "■ Affects self and {description_value_01} ally unit(s) with the lowest remaining
+    HP (except caster). \n<color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03}
+    sec. \n<word_group=10044>Equally shares damage taken</word_group> for {description_value_04}
+    sec.</color>"
+  ko: |-
+    ■ 자신과 자신을 제외한 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게
+    <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [<word_group=10044>받는 대미지 균등 분배</word_group>] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分と自分を除く残りHPの値が最も低い味方{description_value_01}機に
+    <color=#00AEFF>「防御力{description_value_02}％▲」「{description_value_03}秒間維持」
+    「<word_group=10044>受けるダメージ均等分配</word_group>」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20301_name:
+  en: Brave Call
+  ko: 브레이브 콜
+  ja: ブレイブコール
+20301_description:
+  en: "■ Activates after {description_value_01} normal attacks. Affects all allies.
+    <color=#00AEFF> ATK ▲ {description_value_02}% for {description_value_03} sec.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
+    <color=#00AEFF>[공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、味方全体に
+    <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10303_name:
+  en: Poli's Defense Line
+  ko: 폴리스 라인
+  ja: ポリスライン
+10303_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group>, equivalent to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP, which protects all allies from damage. Lasts for {description_value_02} sec. </color>
+    ■ Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 아군 공용 <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の味方共用<word_group=10023>バリア</word_group>」「{description_value_02}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+32_name:
+  en: Miranda
+  ko: 미란다
+  ja: ミランダ
+33_name:
+  en: Quiry
+  ko: 키리
+  ja: キリ
+c030_Lobby_Touch_1:
+  en: As soon as I touch your hand, I get all drowsy. Pretty weird, don't ya think?
+  ko: 지휘관 손만 닿으면 노곤노곤 해지네영~
+  ja: 指揮官になでられると、眠たくなっちゃうんです～
+c030_Lobby_Touch_2:
+  en: Looks like I've been shedding a lot recently!
+  ko: 어훙~ 요즘따라 이렇게 털이 날린다니까영~
+  ja: |-
+    ガオ～
+    最近は髪の毛がこんな風にたれてくるんですよん～
+c030_Lobby_Touch_3:
+  en: I look a lot like a puppy, don't ya think?
+  ko: 흐아암~ 강아지라고 놀리지 마세영~
+  ja: |-
+    ふわあああ～
+    あんまり子犬子犬って言わないでください～
+c030_Lobby_Touch_Love_1:
+  en: Commander! I cracked the case today! Aren't I a good girl?!
+  ko: 지휘관! 오늘도 완벽하게 사건 해결했어영! 잘했졍?!
+  ja: |-
+    指揮官！今日も完璧に事件を解決してきましたよん！
+    偉いでしょ！？
+c030_Lobby_Touch_Love_2:
+  en: If I apprehend the suspect today, you need to give me some extra head pats,
+    all right?
+  ko: 오늘도 범인 잡고 돌아오면 쓰담쓰담 잔뜩 해주세여!
+  ja: 今日もちゃんと犯人捕まえたらいっぱいナデナデしてくださいねぇ！
+c030_Lobby_Touch_Love_3:
+  en: The Commander will let you tease him for being a puppy. But not too much.
+  ko: |-
+    지휘관은 특별히 강아지라고 놀리는 거 허락해줄게영!
+    그래도 너무 많이 하면 안돼영!
+  ja: |-
+    指揮官だけは特別に子イヌってからかっても許してあげますよん！
+    でもほどほどにですよん！
+c030_Lobby_Stay_1:
+  en: Aaaah~ Why hasn't Commander shown up...
+  ko: 흐아암~ 지휘관 왜 이렇게 안 와영….
+  ja: |-
+    ふわぁぁ～
+    指揮官、何で来ないんですかぁ…
+c030_Lobby_Stay_Love_1:
+  en: I wonder where the Commander is? I thought we agreed the two of us would go
+    on patrol today.
+  ko: 지휘관 어디 갔어영! 저랑 오늘 순찰하기로 했잖아영!
+  ja: |-
+    指揮官ったらどこに行ったんです！
+    今日は一緒にパトロールするって約束したのにぃ！
+c030_Outpost_Touch_1:
+  en: Do you want to come to the police station? I won't arrest you, pinky swear!
+  ko: 잠깐 경찰서에 들렀다 가실래여? 체포하진 않을게여!
+  ja: |-
+    ちょっと警察署に 寄っていきませんか？
+    逮捕なんてしませんからぁ！
+c030_Outpost_Touch_2:
+  en: I just feel like kicking back and relaxing, ya know?
+  ko: 흐아암~ 오늘은 뭐랄까 노곤노곤하네영~
+  ja: ふわあああ～ 今日は何だか怠いですぅ～
+c030_Outpost_Touch_3:
+  en: Wowzers, why are there so many cases in such a small place? Pretty weird, don't
+    ya think?
+  ko: 어흉, 이 좁은 동네에 왜 이렇게 사건이 많은 건가영?
+  ja: ふぅ、こんな小さい町で どうしてこうも事件が 起きるんでしょう？
+c030_Gacha_Get_1:
+  en: "*Sniff* If there's anything you can trust, it's this snout of mine! I'll protect
+    you!"
+  ko: 킁킁 킁킁킁! 형사의 코만 믿으세여! 지켜드릴게영!
+  ja: |-
+    クンクン、クンクン！刑事の鼻はピカイチです！
+    信じてくださいっ！
+c030_Reinforce_1:
+  en: Wowee, I'll take good care of it!
+  ko: 세상엥, 잘 쓸게용!
+  ja: |-
+    きゃあ～
+    大切に使いますねん！
+c030_Reinforce_2:
+  en: My nose has become more sensitive, don't ya think?
+  ko: 형사의 코가 좀 더 강력해졌어용!
+  ja: 刑事の鼻がもっとパワーアップしましたぁ！
+c030_Reinforce_3:
+  en: Thank you for your support, Commander!
+  ko: 지원에 감사드립니당!
+  ja: ご支援に感謝いたしますぅ！
+c030_Gift_1:
+  en: This is my favorite!
+  ko: 지휘관~! 저 이거 엄청 좋아해용!
+  ja: 指揮官～！私これ大好きなんですぅ！
+c030_Gift_2:
+  en: It's... a gift! Thanks!
+  ko: 서... 선물이닷! 감사합니당!
+  ja: プ…プレゼントだぁ！ありがとうございますぅ！
+c030_Gift_3:
+  en: Whoaaa! Thank you for this!
+  ko: 우와앙! 잘 받을게용!
+  ja: うわああ！ありがとうございますっ！
+c030_Attractive_Up_1:
+  en: I can't express how grateful I am, Commander. You can count on me!
+  ko: 늘 감사해용. 앞으로도 지휘관께 충성하겠습니닷!
+  ja: |-
+    いつもありがとうございますぅ。
+    これからも指揮官に忠誠を誓います！
+c030_Attractive_Up_2:
+  en: The Commander. My job... I'm equally fond of both!
+  ko: 제가 경찰 일을 좋아하는 만큼 지휘관이 좋아용!
+  ja: 警察の仕事と同じくらい指揮官のことが好きですよん！
+c030_Attractive_Up_3:
+  en: You're under arrest... for stealing my heart!
+  ko: 제 마음을 훔친 죄로 체포합니닷!
+  ja: 私の心を盗んだ罪で逮捕しちゃいます！
+c030_Party_Deploy_1:
+  en: Mind if I join?
+  ko: 이번엔 저도 함께군용!
+  ja: 今度は私も一緒なんですね！
+c030_Field_Touch_1:
+  en: Where should I go?
+  ko: 어디로 움직일까영?
+  ja: どこに行けばいいですかぁ？
+c030_Field_Go_1:
+  en: Position confirmed, let's go!
+  ko: 위치 확인, 갑니당!
+  ja: 位置確認、行きますよぉ！
+c030_Battle_Enter_1:
+  en: Moving!
+  ko: 출동이닷-!
+  ja: 出動だ～っ！
+c030_Battle_Ready_1:
+  en: Enemy sighted!
+  ko: 적이 옵니당!
+  ja: 敵が来ますっ！
+c030_Battle_Ready_2:
+  en: Engaging!
+  ko: 전투 시작합니당!
+  ja: 戦闘開始ですっ！
+c030_Battle_Ready_3:
+  en: Let's get this show on the road!
+  ko: 시작해볼까영!
+  ja: 始めましょっ！
+c030_Reload_1:
+  en: Reloading!
+  ko: 리로드 중입니당!
+  ja: リロード中ですっ！
+c030_Reload_2:
+  en: Let me catch my breath!
+  ko: 숨 좀 고르고 가죵!
+  ja: 少し休憩していきましょっ！
+c030_Reload_3:
+  en: Taking cover!
+  ko: 커버 중!
+  ja: フォロー中！
+c030_Ult_Skill_Ready_1:
+  en: Ready to strike!
+  ko: 출동 준비 완료!
+  ja: 出動準備完了！
+c030_Ult_Skill_1:
+  en: Police officer Poli is here! Let me be your escort!
+  ko: 형사 폴리 나가신닷-! 안전하게 지켜드리겠습니당!
+  ja: |-
+    刑事ポリ、行っきま～す！
+    安全にお守りいたしますっ！
+c030_FullBurst_1:
+  en: I'll get them all!
+  ko: 모두 잡아버리는 거예요옷-!
+  ja: 全部捕まえちゃいまーすっ！
+c030_Kill_Monster_1:
+  en: Suspects detained!
+  ko: 체포 완룟!
+  ja: 逮捕完了っ！
+c030_Kill_Monster_2:
+  en: That should do it!
+  ko: 해치웠당!
+  ja: 退治したよんっ！
+c030_Kill_Monster_3:
+  en: Searching for next target.
+  ko: 다음 타겟 갑니당!
+  ja: 次のターゲットに移りますっ！
+c030_Damage_1:
+  en: Argh!
+  ko: 아양!
+  ja: うひゃあ！
+c030_Damage_2:
+  en: Uh...
+  ko: 으으….
+  ja: うう…
+c030_Damage_3:
+  en: Arh!
+  ko: 아잇!
+  ja: あひゃ！
+c030_Die_1:
+  en: Erm... I'm just going to take a short break...
+  ko: 으… 조금만 쉬고 올게영….
+  ja: うぅ…ちょっとだけ休んできますぅ…
+c030_Win_1:
+  en: You did well, Commander!
+  ko: 멋진 지휘였어영, 지휘관~
+  ja: 最高の指揮でしたぁ、指揮官～
+30_cv_ja:
+  en: 'CV: Kaori Maeda'
+  ko: 'CV : 마에다 카오리'
+  ja: CV：前田佳織里
+30_cv_ko:
+  en: 'CV: Park Ri-na'
+  ko: 'CV : 박리나'
+  ja: CV：パク・リナ
+30_cv_en:
+  en: 'CV: UNKNOWN'
+  ko: 'CV : UNKNOWN'
+  ja: CV：UNKNOWN

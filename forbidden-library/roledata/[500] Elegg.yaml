@@ -1,0 +1,494 @@
+---
+500_name:
+  en: Elegg
+  ko: 일레그
+  ja: エレグ
+c500_description:
+  en: |-
+    A Nikke from the Electric Shock squad.
+    She's an expert in power sources of electronics, and her hobby is installing the classic FPS game, BOOM, on every device that has a screen.
+  ko: |-
+    일렉트릭 쇼크 스쿼드 소속의 니케.
+    전자제품의 동력원 쪽의 전문가.
+    취미는 디스플레이가 있는 기계라면 가리지 않고 고전 명작 FPS게임 [BOOM]을 설치하는 것.
+  ja: |-
+    エレクトリックショック部隊所属のニケ。
+    電子製品の動力源に関する専門家。
+    趣味はディスプレイがついている機械に
+    レトロゲームの名作FPS「BOOM」を
+    インストールすること。
+500_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_500:
+  en: Elegg's Spare Body
+  ko: 일레그 스페어 바디
+  ja: エレグのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25002_name:
+  en: Fast Charge
+  ko: 패스트 차지
+  ja: ファストチャージ
+25002_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects all allies if the target is in BOOM Install.
+    <color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK for {description_value_03} sec.</color>
+    ■ Activates when the target appears. Affects all allies.
+    <color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by {description_value_04}%. Activates once per battle.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 대상이 붐 인스톨 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 타겟 출현 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_04}%] [전투 중 1회 발동]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、対象がブームインストール状態なら味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■ターゲットが出現した時、味方全体に
+    <color=#00AEFF>「<word_group=10015>バーストゲージのチャージ</word_group>{description_value_04}％」「戦闘中1回発動」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25001_name:
+  en: Short Circuit
+  ko: 쇼트
+  ja: 回路ショート
+25001_description:
+  en: |-
+    ■ Activates when entering battle. Affects all allies.
+    <color=#00AEFF><word_group=10007>When attacking an enemy projectile, damage dealt to that projectile</word_group> ▲ {description_value_01}% continuously.</color>
+    ■ Activates after landing {description_value_02} normal attack(s). Affects the target and {description_value_03} surrounding enemy unit(s) if the target is in BOOM Install.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.</color>
+  ko: |-
+    ■ 전투 시작 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10007>적 발사체 공격 시 해당 발사체에 가하는 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 일반 공격 {description_value_02}회 명중 시 대상이 붐 인스톨 상태라면 대상과 주변의 적 {description_value_03}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% <word_group=10019>분배 대미지</word_group>]</color>
+  ja: |-
+    ■戦闘開始時、味方全体に
+    <color=#00AEFF>「<word_group=10007>敵の発射体を攻撃する時、該当の発射体に与えるダメージ</word_group>{description_value_01}％▲」「持続」</color>
+    ■通常攻撃が{description_value_02}回命中した時、対象がブームインストール状態なら、対象と周囲の敵{description_value_03}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15003_name:
+  en: BOOM Install
+  ko: 붐 인스톨
+  ja: ブームインストール
+15003_description_1:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> dealt ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects the enemy nearest to the crosshair.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    <color=#00AEFF>BOOM Install: DEF ▼ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 조준선에 가장 가까운 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 버스트 스킬 대미지]</color>
+    <color=#00AEFF>[붐 인스톨 : 방어력 {description_value_04}% ▼] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■照準線に最も近い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％のバーストスキルダメージ」</color>
+    <color=#00AEFF>「ブームインストール：防御力{description_value_04}％▼」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+501_name:
+  en: Trony
+  ko: 트로니
+  ja: トロニー
+c500_Lobby_Touch_1:
+  en: What are you up to today? Getting in a good BOOM session, I bet.
+  ko: 오늘은 뭐 하실 건가여? 당연히 BOOM이겠져?
+  ja: 今日は何をするのですかな？もちろんBOOMですかな？
+c500_Lobby_Touch_2:
+  en: Do you have any faulty equipment that needs some fixing?
+  ko: 정비해야 할 장비 있을까여? 한 번 봐드릴게여.
+  ja: 整備が必要なものはありますかな？チェックしますぞ。
+c500_Lobby_Touch_3:
+  en: As long as I can play some BOOM, I could live up on the surface by myself forever.
+  ko: 히히히, BOOM과 함께라면 지상에 홀로 떨어져도 상관없어여!
+  ja: |-
+    へへへっ。
+    BOOMがあれば、地上に一人で取り残されても構いませんぞ！
+c500_Lobby_Touch_Love_1:
+  en: Hehe, nothing gets the point across better than the Boomstick!
+  ko: 히히, 붐 건은 훌륭한 대화수단이져!
+  ja: |-
+    ふひひっ、ブームガンは
+    素晴らしいコミュニケーションツールですぞ！
+c500_Lobby_Touch_Love_2:
+  en: This game has all the emotional highs and lows you'd ever need, all in just
+    28 megabytes.
+  ko: 세상의 희로애락을 느끼기에 28메가면 충분하져.
+  ja: この世の喜怒哀楽を感じたいなら、28メガあれば十分ですぞ。
+c500_Lobby_Touch_Love_3:
+  en: My dream is to install BOOM on every type of electronic device in the world.
+  ko: |-
+    언젠가 모든 디스플레이에 BOOM을 설치하는 것.
+    그게 제 꿈이에여.
+  ja: |-
+    いつかすべてのデバイスにBOOMをインストールすること。
+    それが私の夢ですぞ。
+c500_Lobby_Stay_1:
+  en: |-
+    You can leave me on my own, it's fine...
+    I'll just be here playing some BOOM...
+  ko: |-
+    혼자 남겨져도 뭐, 문제없어여.
+    BOOM하고 있으면 되니까… 힝….
+  ja: |-
+    一人で取り残されても、まあ、問題ないですぞ。
+    BOOMをしていればいいゆえ…ぐすん…
+c500_Lobby_Stay_Love_1:
+  en: |-
+    How far along is the BOOM installation... 10%... 20%... Huh? What am I doing?
+    Nothing much. You can come back later.
+  ko: |-
+    BOOM 인스톨 10%… 20%… 녜? 뭐 하고 있냐고여?
+    별 거 아니니까 좀 더 있다 오셔도 돼여.
+  ja: |-
+    BOOMインストール10％…20％…えっ？何をしてるのかって？
+    大したことじゃないゆえ、もっとゆっくり来てもよいですぞ。
+c500_Outpost_Touch_1:
+  en: |-
+    Hot diggity dog, just the sight of this train is enough to get my blood pumping!
+    All aboard the train to the Outpost!
+  ko: |-
+    기차만 보면 어쩐지 끓어오르지 않나여?
+    좋아! 간다! 전초기지행 기차가 간다!
+  ja: |-
+    列車を見ていると、 何かこみ上げて来るものが ありませんかな？
+    よし！行くぞ ！前哨基地行きの 列車が行くぞ～！
+c500_Outpost_Touch_2:
+  en: |-
+    If Ms. Syuen comes around, just say you haven't seen me.
+    I installed BOOM on her cellphone, and she wasn't too pleased.
+  ko: |-
+    혹시 슈엔 씨가 찾으면 못 봤다고 해주세여.
+    슈엔 씨 폰에 BOOM 깔아 두었다가 걸렸거든여….
+  ja: |-
+    シュエン氏が来たら 知らんぷりして ほしいですぞ。
+    シュエン氏の携帯に BOOMを インストールしたのが
+    バレたのですぞ…
+c500_Outpost_Touch_3:
+  en: |-
+    Why does that elevator break down every day?
+    Could it be a power shortage? I'll have to look into it.
+  ko: |-
+    흠. 저 엘리베이터는 왜 맨날 고장 나는 걸까여?
+    전력이 부족한 걸까여? 한 번 알아봐야겠네여.
+  ja: |-
+    ふむ。 あのエレベーターは どうしていつも 故障するのですかな？
+    電力不足ですかな？ 調べてみる必要が ありますぞ。
+c500_Gacha_Get_1:
+  en: I'm Elegg, and I'm a 12 outta 10!
+  ko: 100점 만점에 120점인 니케, 일레그라고 해여!
+  ja: 100点満点中120点のニケ、エレグですぞ！
+c500_Reinforce_1:
+  en: This upgrade seems to be a success!
+  ko: 이번 업그레이드는 성공적인 것 같은데여!
+  ja: 今回のアップグレードは成功したようですぞ！
+c500_Reinforce_2:
+  en: Hehe, I feel like I just got in a rousing round of BOOM.
+  ko: 히히, BOOM한 기분이네여.
+  ja: ふひひっ、BOOMな気分ですぞ。
+c500_Reinforce_3:
+  en: It's like I can feel the power coursing through me!
+  ko: 히히히. 힘찬 기분이 드네여!
+  ja: へへへっ。元気いっぱいですぞ！
+c500_Gift_1:
+  en: Oh my gosh, is this a limited-edition BOOM gift pack?
+  ko: 우와~! 뭔가여? BOOM 한정판 패키지인가여?
+  ja: ほう～！何ですかな？BOOMの限定版ですかな？
+c500_Gift_2:
+  en: Heh-heh, thanks. Is there anything that I could get you?
+  ko: 히히히, 잘 쓸게여. 지휘관 씨도 뭐 필요한 거 있나여?
+  ja: |-
+    へへへっ。大切にしますぞ。
+    指揮官氏も何か欲しいものはないですかな？
+c500_Gift_3:
+  en: Hmm? What's this all about?
+  ko: 읭? 이건 어떤 의미인가여?
+  ja: むむ？これはどういう意味ですかな？
+c500_Attractive_Up_1:
+  en: Heh-heh, I'm super nervous.
+  ko: 히히, 엄청 두근거리네여.
+  ja: ふひひっ。とてもドキドキしますぞ。
+c500_Attractive_Up_2:
+  en: I will give you the honor of playing the great gaming classic BOOM with me.
+  ko: |-
+    같이 BOOM하러 가여!
+    명작 게임을 저랑 함께할 수 있는 영광을 드릴게여.
+  ja: |-
+    一緒にBOOMをしに行きましょうぞ！
+    名作ゲームを私と一緒にプレイできる栄光を差し上げますぞ。
+c500_Attractive_Up_3:
+  en: Heh-heh, I knew I'd be happy with you.
+  ko: 히히히, 역시 지휘관 씨랑 함께하면 즐겁네여.
+  ja: へへへっ。やはり指揮官氏と一緒だと楽しいですぞ。
+c500_Party_Deploy_1:
+  en: Full steam ahead!
+  ko: 녜이~ 출격할게여.
+  ja: はい～、出撃しますぞ。
+c500_Field_Touch_1:
+  en: What's the matter?
+  ko: 무슨 일이져?
+  ja: どうされましたかな？
+c500_Field_Go_1:
+  en: Here we go.
+  ko: 녜이 녜이, 갈게여.
+  ja: はい、はい。行きますぞ。
+c500_Battle_Enter_1:
+  en: BOOM girl to the rescue!
+  ko: 붐가이, 출격할게여.
+  ja: ブームガイ、出撃しますぞ。
+c500_Battle_Ready_1:
+  en: Shall we start the experiment?
+  ko: 실험 시작해 볼까여?
+  ja: 実験を始めてみますかな？
+c500_Battle_Ready_2:
+  en: Absent a catastrophic failure, we should be fine...
+  ko: 으으… 최악의 상황만 피해보져.
+  ja: うう…最悪の状況だけは避けましょうぞ。
+c500_Battle_Ready_3:
+  en: Safety first!
+  ko: 안전이 언제나 최우선이에여!
+  ja: いつでも安全が一番ですぞ！
+c500_Reload_1:
+  en: Reloading now.
+  ko: 충전 좀 할게여.
+  ja: ちょっとチャージしますぞ。
+c500_Reload_2:
+  en: Battery overload.
+  ko: 배터리 오버로드.
+  ja: バッテリーオーバーロード。
+c500_Reload_3:
+  en: I'm overwhelmed... need a rest.
+  ko: 과부하가 와서…. 잠시 대기할게여.
+  ja: 過負荷ですな…しばし待機。
+c500_Ult_Skill_Ready_1:
+  en: BOOM installed!
+  ko: BOOM 인스톨 완료!
+  ja: BOOM、インストール完了！
+c500_Ult_Skill_1:
+  en: BOOM! BOOM!! BOOM!!!
+  ko: BOOM! BOOM!! BOOM!!!
+  ja: BOOM！BOOM！！BOOM！！！
+c500_FullBurst_1:
+  en: Time for the grand finale!
+  ko: 따끔하게 한 방 먹이자고여!
+  ja: チクリと一発お見舞いしますぞ！
+c500_Kill_Monster_1:
+  en: Is... is it dead?
+  ko: 주, 죽은 거 맞져?
+  ja: た、倒せましたかな？
+c500_Kill_Monster_2:
+  en: All right, what's next?
+  ko: 다음 타겟은 뭐져?
+  ja: 次のターゲットは何ですかな？
+c500_Kill_Monster_3:
+  en: Wasn't I awesome?
+  ko: 방금 저 대단하지 않았나여?
+  ja: 先ほどの私、なかなかでしたな？
+c500_Damage_1:
+  en: Ow, that hurt!
+  ko: 으으… 아파여.
+  ja: うう…痛いですぞ。
+c500_Damage_2:
+  en: Agh!
+  ko: 으악!
+  ja: うおっ！
+c500_Damage_3:
+  en: Aargh...
+  ko: 히이익….
+  ja: ひぃぃっ…
+c500_Die_1:
+  en: Battery low...
+  ko: "…방전이에여."
+  ja: "…バッテリー切れですぞ。"
+c500_Win_1:
+  en: Raptures eliminated!
+  ko: 히히히, 랩쳐 정복 완료!
+  ja: へへへっ、ラプチャー征服完了！
+500_cv_ja:
+  en: 'CV: Ayasa Ito'
+  ko: 'CV : 이토 아야사'
+  ja: CV：伊藤彩沙
+500_cv_ko:
+  en: 'CV: Kim Hyeon-ji'
+  ko: 'CV : 김현지'
+  ja: CV：キム・ヒョンジ
+500_cv_en:
+  en: 'CV: Abby Espiritu'
+  ko: 'CV : 애비 에스피리투'
+  ja: CV：Abby Espiritu

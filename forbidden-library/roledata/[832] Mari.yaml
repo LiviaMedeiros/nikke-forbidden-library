@@ -1,0 +1,690 @@
+---
+832_name:
+  en: Mari
+  ko: 마리
+  ja: マリ
+c832_description:
+  en: |-
+    Her full name is Mari Makinami Illustrious.
+    A new character in Evangelion: 2.0 You Can (Not) Advance.
+    Details unclear.
+  ko: "풀네임은 마키나미 마리 일러스트리어스.\n「에반게리온 신극장판 : 파」에서 등장한 신캐릭터. \n자세한 것은 불명."
+  ja: |-
+    フルネームは真希波・マリ・イラストリアス。
+    「ヱヴァンゲリヲン新劇場版：破」から 登場した新キャラクター。
+    詳細は不明。
+832_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_832:
+  en: Mari's Spare Body
+  ko: 마리 스페어 바디
+  ja: マリのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+18322_name:
+  en: Full Focus
+  ko: 정신 집중
+  ja: 精神集中
+18322_description:
+  en: "■ Affects self. \n<color=#00AEFF>Gain Pierce for {description_value_01} sec.</color>\n<color=#00AEFF>ATK
+    ▲ {description_value_04}% for {description_value_05} sec.</color>\n■ Affects all
+    allies.\n<color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK for {description_value_03}
+    sec.</color>"
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[관통 특화] [{description_value_01}초 유지]</color>
+    <color=#00AEFF>[공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「貫通特化」「{description_value_01}秒間維持」</color>
+    <color=#00AEFF>「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28321_name:
+  en: Precision Sniping
+  ko: 일점 저격
+  ja: 一点狙撃
+28321_description:
+  en: |-
+    ■ Activates when landing an attack with Full Charge. Affects all allies.
+    <color=#00AEFF><word_group=10054>Damage dealt to Shield</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when hitting the target's core. Affects all allies.
+    <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10054>보호막에 가하는 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 대상 코어 명중 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10042>관통 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、味方全体に
+    <color=#00AEFF>「<word_group=10054>バリアに与えるダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■対象のコアに命中した時、味方全体に
+    <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18323_name:
+  en: GPS Guided Missile
+  ko: 좌표 유도식 미사일
+  ja: 座標誘導式ミサイル
+18323_description_1:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Attack damage ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+830_name:
+  en: Asuka
+  ko: 아스카
+  ja: アスカ
+831_name:
+  en: Rei
+  ko: 레이
+  ja: レイ
+834_name:
+  en: Rei (Tentative Name)
+  ko: 레이 (가칭)
+  ja: レイ（仮称）
+833_name:
+  en: Misato
+  ko: 미사토
+  ja: ミサト
+c832_Lobby_Touch_1:
+  en: |-
+    If my full name's a mouthful,
+    just call me Mari.
+  ko: |-
+    풀네임이 어렵다면,
+    마리라고 불러도 좋아.
+  ja: |-
+    フルネームが難しかったら、
+    マリって呼んでもいいよ。
+c832_Lobby_Touch_2:
+  en: |-
+    Raptures, you say?
+    Looks like there's going to be trouble in this place as well.
+  ko: |-
+    랩쳐라….
+    여기도 큰일이네.
+  ja: |-
+    ラプチャーか…
+    ここも大変だね。
+c832_Lobby_Touch_3:
+  en: There are many similarities between Eva and Nikkes.
+  ko: |-
+    이것저것 닮은 점이 있네.
+    에바와 니케는.
+  ja: |-
+    なーんか似てるね。
+    エヴァとニケって。
+c832_Lobby_Touch_Love_1:
+  en: Can I borrow that cloth for a quick sec to wipe my glasses?
+  ko: 미안한데, 안경 닦이 좀 빌릴 수 있을까냐?
+  ja: 悪いんだけど、眼鏡拭き貸してくれないかにゃ？
+c832_Lobby_Touch_Love_2:
+  en: It must be hard to be you.
+  ko: |-
+    지휘관이라~
+    고생이 많겠어.
+  ja: |-
+    指揮官か～
+    大変そーだね。
+c832_Lobby_Touch_Love_3:
+  en: Can I ask for a tour of the Ark later?
+  ko: 나중에 방주 관광 부탁해도 될까냐?
+  ja: 今度、アークの観光ガイドをお願いしてもいいかにゃ？
+c832_Lobby_Stay_1:
+  en: Hello? Are you there?
+  ko: 여보세요~? 계십니까~?
+  ja: もしもし～？誰かいる～？
+c832_Lobby_Stay_Love_1:
+  en: |-
+    Are you going to just stay there?
+    If you stick to one spot, your life will be uneventful.
+  ko: |-
+    가만히 있는 거야?
+    가만히만 있으면 즐거운 일은 생기지 않아.
+  ja: |-
+    何してるの～？
+    じっとしてたって、何にも楽しいことないよ。
+c832_Outpost_Touch_1:
+  en: What a curious sight.
+  ko: 이 무슨 낯선 풍경.
+  ja: 見慣れない風景だね。
+c832_Outpost_Touch_2:
+  en: This place also has a subterranean level? How fascinating!
+  ko: 여기도 일단은 지하인거지? 재밌네~
+  ja: |-
+    ここも一応、地下なんでしょ？
+    面白いね～
+c832_Outpost_Touch_3:
+  en: This place smells like oil and grass all at once.
+  ko: 기름 냄새와 풀 냄새가 같이 나는 곳이네.
+  ja: 油のにおいと草の香りが 同時にする場所だね。
+c832_Gacha_Get_1:
+  en: |-
+    Mari Makinami Illustrious,
+    at your service!
+  ko: |-
+    마키나미 마리 일러스트리어스.
+    참전하겠습니다~
+  ja: |-
+    真希波・マリ・イラストリアス。
+    参戦しま～す。
+c832_Reinforce_1:
+  en: Oh? Whoa!
+  ko: 오? 오오~!
+  ja: お？おお～！
+c832_Reinforce_2:
+  en: This is so fun!
+  ko: 재밌다, 이거.
+  ja: 面白いね、これ。
+c832_Reinforce_3:
+  en: Level up!
+  ko: 레벨 업!
+  ja: レベルアップ！
+c832_Gift_1:
+  en: Hmm? What a fascinating object.
+  ko: 흐음~ 재밌어 보이는 물건이네.
+  ja: ふーん。面白そうなアイテムだね。
+c832_Gift_2:
+  en: Thank you.
+  ko: 땡큐, 땡큐.
+  ja: サンキュー、サンキュー。
+c832_Gift_3:
+  en: |-
+    I'm not entirely sure how it's used,
+    but it looks intriguing!
+  ko: |-
+    어디에 쓰는지는 모르겠지만,
+    재밌어 보이니까 됐어.
+  ja: |-
+    何に使うのか分かんないけど、
+    面白そうだからいっか。
+c832_Attractive_Up_1:
+  en: You're pretty interesting.
+  ko: 너, 재미있네~
+  ja: 君、面白いね～
+c832_Attractive_Up_2:
+  en: This world is not to be underestimated.
+  ko: 여기도 만만찮은 세계네~
+  ja: ここも一筋縄ではいかない世界だね～
+c832_Attractive_Up_3:
+  en: We're in this together.
+  ko: 고생이네. 서로서로.
+  ja: お互い大変だね。
+c832_Party_Deploy_1:
+  en: I'm going!
+  ko: 갑니~다!
+  ja: 行っきま～す！
+c832_Field_Touch_1:
+  en: Huh?
+  ko: 냐~?
+  ja: 私～？
+c832_Field_Go_1:
+  en: Onward!
+  ko: 앞으로!
+  ja: 前へ！
+c832_Battle_Enter_1:
+  en: All right, let's do this!
+  ko: 좋아! 한 번 해볼까!
+  ja: よし！試してみっか！
+c832_Battle_Ready_1:
+  en: This looks like tasty prey.
+  ko: 이건, 맛있어 보이는 사냥감이다냐.
+  ja: これは、おいしそうな獲物だにゃ。
+c832_Battle_Ready_2:
+  en: I should take the lead sometimes!
+  ko: 가끔은 앞으로 나서보실까!
+  ja: たまには前線に立とうかなっ！
+c832_Battle_Ready_3:
+  en: Get ready for a fight!
+  ko: 선수필승!
+  ja: 先手必勝！
+c832_Reload_1:
+  en: I'll reload it.
+  ko: 재장전할게~
+  ja: リロードするね～
+c832_Reload_2:
+  en: Son of a bitch, just you wait...
+  ko: 냐석. 거기서 기다려.
+  ja: にゃろー！待てー！
+c832_Reload_3:
+  en: Sorry, I'll be back in a second.
+  ko: 미안 미안. 금방 복귀하겠습니다~
+  ja: ごめん、ごめん。すぐ戻りま～す。
+c832_Ult_Skill_Ready_1:
+  en: Here it comes!
+  ko: 오!, 왔다♡
+  ja: おっ！来た♡
+c832_Ult_Skill_1:
+  en: Are you ready... for this?
+  ko: 이걸로... 가볼까나!
+  ja: これで…行くよ！
+c832_FullBurst_1:
+  en: Don't you run away!
+  ko: 도망가지 마!
+  ja: 逃げんなぁっ！！
+c832_Kill_Monster_1:
+  en: How fun!
+  ko: 재밌어 재밌어!
+  ja: 面白いねー！
+c832_Kill_Monster_2:
+  en: I'm going to keep going!
+  ko: 계속 간당~!
+  ja: 続けていっくよ～！
+c832_Kill_Monster_3:
+  en: Is that all you've got? Come on!
+  ko: 헤이! 컴온!
+  ja: ヘイ！カモン！
+c832_Damage_1:
+  en: Ouch...
+  ko: 아야야야….
+  ja: イテテテ……
+c832_Damage_2:
+  en: That hurt!
+  ko: 아팟…!
+  ja: 痛っ…！
+c832_Damage_3:
+  en: Son of a...
+  ko: 짜샤!
+  ja: こら！
+c832_Die_1:
+  en: I... I have nothing else to say.
+  ko: 이야~ 이거 면목없구만….
+  ja: いや～こりゃ面目ないね…
+c832_Win_1:
+  en: Ta-dah! We won!
+  ko: 짠쨔쟌~! 승리했습니다!
+  ja: ジャーン！勝利しましたっ！
+c832_04_Lobby_Touch_1:
+  en: Impressive. You know exactly what gift to pick out for a girl. You must be popular
+    with the ladies.
+  ko: "보는 눈이 있네~ 여자한테 줄 선물로 뭘 골라야 할 줄 알아. \n군, 여자한테 인기 많겠다~"
+  ja: |-
+    見る目あるじゃ～ん。
+    女の子にはプレゼントってことをちゃんと押さえてるし。
+    キミ女泣かせだねー。
+c832_04_Lobby_Touch_2:
+  en: What exciting things could happen at the party?
+  ko: 파티에 참가하면 어떤 즐거운 일이 벌어질까?
+  ja: パーティーに参加したら、どんな楽しいことが起こるかな？
+c832_04_Lobby_Touch_3:
+  en: |-
+    There are so many cute Nikkes.
+    It's heartbreaking to see them dragged into battle...
+  ko: "니케들도 귀여운 애들이 많네. \n이런 귀여운 애들조차 전투에 휘말리다니…."
+  ja: |-
+    ニケたちも可愛い女の子なの。
+    こんな可愛い子たちですら、戦いに巻き込まれちゃうなんて…
+c832_04_Lobby_Touch_Love_1:
+  en: How would you look in this? I should choose something stylish for you.
+  ko: "군, 이걸 입으면 어떤 모습일까? \n멋진 걸로 골라 줘야지!"
+  ja: |-
+    君、これを着たらどんな感じかな？
+    かっこいいの選んであげよっと！
+c832_04_Lobby_Touch_Love_2:
+  en: A band or something similar would add some elegance to the banquet.
+  ko: 밴드나 만들어서 연회에 품격을 더하는 거야.
+  ja: バンドを結成して、パーティーに華を添えちゃおっかな。
+c832_04_Lobby_Touch_Love_3:
+  en: It's an evening party, and I'm the shining star!
+  ko: |-
+    한밤의 파티~
+    그럼 여자는 반짝이는 별이다냐~
+  ja: |-
+    深夜のパーティーかぁ…
+    なら、女の子たちは輝く星だね？
+c832_04_Lobby_Stay_1:
+  en: Phew... Should I take this chance to explore the Ark?
+  ko: 후~ 이 기회에 가서 방주나 조사해 볼까?
+  ja: 今のうちに、アークの調査でもしちゃおっかな？
+c832_04_Lobby_Stay_Love_1:
+  en: It's poor form to bore a beauty like me, you know.
+  ko: 미인을 심심하게 하다니, 매너 위반이다냐~!
+  ja: 美女を退屈させるなんてマナー違反だにゃー！
+c832_04_Outpost_Touch_1:
+  en: This place would be perfect for hosting a small concert.
+  ko: 여기도 작은 콘서트를 열기에 적합하지.
+  ja: ふ～ん、ミニコンサートを開くには もってこいな場所じゃん。
+c832_04_Outpost_Touch_2:
+  en: I've seen this base so much, that I'm getting used to it.
+  ko: 이 기지도 많이 보니 익숙해졌다냐~
+  ja: 何度かここに来て、 やっと慣れてきたにゃー。
+c832_04_Outpost_Touch_3:
+  en: Hmm... I wonder if it's okay to enjoy a rural life looking like this.
+  ko: 흐흥~ 이런 모습으로 전원 생활을 즐겨도 되는 건지 모르겠네~
+  ja: ふんふん～ こんな格好で田園生活を 楽しんでもいいのかねぇ～
+c832_04_Gacha_Get_1:
+  en: It's been ages since I've felt so intellectually stimulated.
+  ko: 오랜만인 느낌이네. 지적이고 활발하다냐.
+  ja: 久しぶりな感覚。どう？知的で活発な感じに見える？
+c832_04_Reinforce_1:
+  en: Thank you.
+  ko: 땡큐~
+  ja: サンキュ～！
+c832_04_Reinforce_2:
+  en: Oooh, I'm digging this vibe!
+  ko: 오~ 이런 느낌~
+  ja: おお～！こ～ゆ～感じね。
+c832_04_Reinforce_3:
+  en: Feels like I'm doing an emergency drill again.
+  ko: 또 다시 긴급 훈련하는 기분이야
+  ja: 緊急訓練を受けたときみたいな感じがするね。
+c832_04_Gift_1:
+  en: You're so polite, aren't you, @UserName-kun?
+  ko: 군, 예의가 바르구나?
+  ja: キミって、礼儀正しいよね。
+c832_04_Gift_2:
+  en: Huh? Did you come here to offer me flowers?
+  ko: 응? 헌화하러 온 거야?
+  ja: ほほ～ん。お花のプレゼントかな？
+c832_04_Gift_3:
+  en: A lovely gift like this really suits me, don't you think?
+  ko: 그럴 듯한데? 나한테 어울리겠다, 그치?
+  ja: へ～、いいじゃん。私に似合いそうなやつだね。
+c832_04_Attractive_Up_1:
+  en: Nihao! Mari Makinami Illustrious, coming to you more radiant than ever!
+  ko: |-
+    니하오! 마키나미 마리 일러스트리어스,
+    더욱 빛나는 모습으로 등장!
+  ja: |-
+    ニーハオ！真希波・マリ・イラストリアス、
+    輝きを増して参上！
+c832_04_Attractive_Up_2:
+  en: If I did this, would it surprise you? Hehe.
+  ko: 후후~ 이렇게냐~ 널 놀라게 한다냐~
+  ja: ふふ、ここまで驚かされるとは思わなかったにゃ～
+c832_04_Attractive_Up_3:
+  en: You're really putting in the effort. Good job, very good job.
+  ko: 진짜 노력하는구나. 고생했어, 고생했어.
+  ja: キミはよく頑張ってるよ。お疲れ様。
+c832_04_Party_Deploy_1:
+  en: Girls don't dress up just to fight.
+  ko: 여자아이는 싸우기 위해 꾸미는 게 아니다냐~
+  ja: 女の子は戦うためにお洒落するんじゃないんだにゃー。
+c832_04_Field_Touch_1:
+  en: There aren't any enemies around, so let's light a campfire.
+  ko: 적도 없으니, 모닥불이나 피우자~
+  ja: 敵もいないことだし、焚き火でもしよっか？
+c832_04_Field_Go_1:
+  en: Nya nya nya♫♪♪
+  ko: 냐냐냐~!
+  ja: にゃんにゃにゃ～！
+c832_04_Battle_Enter_1:
+  en: Got it!
+  ko: 알겠어...!
+  ja: 了解…！
+c832_04_Battle_Ready_1:
+  en: Okay, okay!
+  ko: 오케이, 오케이!
+  ja: 合点承知！
+c832_04_Battle_Ready_2:
+  en: Hey, come on!
+  ko: 헤이, 컴온~
+  ja: ヘーイ、カモォ〜ン！
+c832_04_Battle_Ready_3:
+  en: Target locked!
+  ko: 타깃 락온!
+  ja: ターゲットをロックオン！
+c832_04_Reload_1:
+  en: Gotta reload.
+  ko: 재장전이 필요하다냐~
+  ja: リロードが必要だにゃ～
+c832_04_Reload_2:
+  en: Not yet.
+  ko: 아직이야~
+  ja: まだまだー。
+c832_04_Reload_3:
+  en: Almost there.
+  ko: 금방이야~
+  ja: さくっと終わらせちゃうよ～
+c832_04_Ult_Skill_Ready_1:
+  en: From now on, I won't be acting ladylike.
+  ko: 이제부턴 숙녀답지 않을 거야.
+  ja: 今から本気でいくよ。
+c832_04_Ult_Skill_1:
+  en: I won't miss!
+  ko: 안 놓쳐!
+  ja: 逃さん！
+c832_04_FullBurst_1:
+  en: Hyah! Nya nya nya♫♪♪
+  ko: 히잇...! 냐냐냐냐냐...!
+  ja: いっくよ～！にゃにゃにゃにゃにゃ～！
+c832_04_Kill_Monster_1:
+  en: Désolée!
+  ko: 미안해~
+  ja: Excusez-moi!
+c832_04_Kill_Monster_2:
+  en: Zaijian!
+  ko: zaijian~
+  ja: ザイチェ～ン！
+c832_04_Kill_Monster_3:
+  en: Toodle-oo!
+  ko: 쉽네, 쉬워.
+  ja: 楽勝楽勝！
+c832_04_Damage_1:
+  en: Oh?
+  ko: 어머?
+  ja: ありゃ？
+c832_04_Damage_2:
+  en: I got hurt.
+  ko: 다쳤네.
+  ja: ケガしちゃった！
+c832_04_Damage_3:
+  en: Ugh...
+  ko: 음...
+  ja: ううっ…
+c832_04_Die_1:
+  en: How mortifying... I suppose I have no choice but to retreat for now.
+  ko: |-
+    정말 부끄럽기 짝이 없어…
+    지금은 잠시 후퇴할 수밖에 없겠네.
+  ja: |-
+    まさに慚愧の極み…
+    今は一時後退しかなさそうね。
+c832_04_Win_1:
+  en: Heh heh, piece of cake!
+  ko: 훗훗, 식은 죽먹기거등~
+  ja: ふふーん！お茶の子さいさいよん！
+832_cv_ja:
+  en: 'CV: Maaya Sakamoto'
+  ko: 'CV : 사카모토 마아야'
+  ja: CV：坂本真綾
+832_cv_ko:
+  en: 'CV: Maaya Sakamoto'
+  ko: 'CV : 사카모토 마아야'
+  ja: CV：坂本真綾
+832_cv_en:
+  en: 'CV: Maaya Sakamoto'
+  ko: 'CV : 사카모토 마아야'
+  ja: CV：坂本真綾

@@ -1,0 +1,5748 @@
+---
+d_main_04_01:
+  d_main_04_01_1:
+    speaker: rapi
+    en: Let's set up camp here.
+    ko: 오늘은 여기서 야영하시죠.
+    ja: 今日はここで野営しましょう。
+  d_main_04_01_2:
+    speaker: Self
+    en: Set up camp?
+    ko: 야영?
+    ja: 野営？
+  d_main_04_01_3:
+    speaker: rapi
+    en: Yes, visibility is poor right now, and you need to rest.
+    ko: |-
+      예. 시야 확보도 되지 않고,
+      지휘관은 체력을 회복해야 하니까요.
+    ja: |-
+      はい。視野の確保も困難な上、
+      指揮官は体力を回復する必要があります。
+  d_main_04_01_4:
+    speaker: "<Choice>"
+    en: We're guaranteed to run into Raptures within one hour of being above ground.
+    ko: 지상에서 1시간 내로 랩쳐 조우율은 100%야.
+    ja: |-
+      地上で1時間以内にラプチャーと
+      遭遇する確率は100％だ
+  d_main_04_01_5:
+    speaker: "<Choice>"
+    en: I'm doing just fine.
+    ko: 내 체력은 끄떡없어.
+    ja: 体力なら問題ない
+  d_main_04_01_6:
+    speaker: rapi
+    en: Is that so?
+    ko: 그렇습니까.
+    ja: そうですか。
+  d_main_04_01_7:
+    speaker: Narration
+    en: Rapi puts her hand on your palm.
+    ko: 라피는 내 손바닥 위에 자신의 손을 포갰다.
+    ja: ラピが手を重ねてきた
+  d_main_04_01_8:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_01_9:
+    speaker: rapi
+    en: I'm reading your condition as yellow.
+    ko: 컨디션 옐로로 판명됩니다.
+    ja: コンディション・イエローと判断されます。
+  d_main_04_01_10:
+    speaker: anis
+    en: Simply put, you are not well.
+    ko: 빈말로도 상태가 좋다고는 할 수 없다는 얘기지.
+    ja: お世辞にも、体調がいいとは言えなさそう。
+  d_main_04_01_11:
+    speaker: rapi
+    en: We'll head inside one of these bombed-out buildings and place decoys around
+      a 500m perimeter.
+    ko: |-
+      부서진 건물 안으로 들어갈 겁니다.
+      인근 500미터에 데코이를 뿌려놓을 거고요.
+    ja: |-
+      倒壊した建物内に入ります。
+      さらに周り500メートルまで\nデコイを撒いておきます。
+  d_main_04_01_12:
+    speaker: rapi
+    en: That should give us 4 hours or so.
+    ko: 4시간 정도는 버틸 수 있습니다.
+    ja: 4時間くらいは凌げるでしょう。
+  d_main_04_01_13:
+    speaker: anis
+    en: It's been a long time since I last camped on the surface.
+    ko: 에구구. 오랜만에 지상에서 야영이네.
+    ja: うう、地上での野営は久しぶりね。
+  d_main_04_01_14:
+    speaker: neon
+    en: First time for me!
+    ko: 와. 저 야영은 처음이에요.
+    ja: わあ、私、野営は初めてです。
+  d_main_04_01_15:
+    speaker: neon
+    en: Should we get a fire going?
+    ko: 일단 불부터 붙일까요?
+    ja: とりあえず火を起こしましょうか？
+  d_main_04_01_16:
+    speaker: rapi
+    en: This isn't a camp-out where we roast marshmallows by the campfire.
+    ko: "…캠프파이어는 안 돼."
+    ja: "…キャンプファイヤーはダメ。"
+  d_main_04_01_17:
+    speaker: mihara
+    en: We'll get started on the decoys.
+    ko: 데코이는 우리가 뿌리고 올게.
+    ja: デコイは私たちが撒いてくる。
+  d_main_04_01_18:
+    speaker: rapi
+    en: No, I'll go.
+    ko: 아니. 내가 간다.
+    ja: いえ、私が行く。
+  d_main_04_01_19:
+    speaker: rapi
+    en: You go ahead and rest.
+    ko: 너흰 여기서 쉬도록 해.
+    ja: あなたたちはここで休んで。
+  d_main_04_01_20:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_01_21:
+    speaker: yuni
+    en: Mihara, I'm tired.
+    ko: |-
+      미하라.
+      유니 피곤해.
+    ja: |-
+      ミハラ。
+      ユニ、疲れた。
+  d_main_04_01_22:
+    speaker: mihara
+    en: You sure? Thanks.
+    ko: |-
+      그래.
+      그럼 부탁 좀 할게.
+    ja: |-
+      そう？
+      じゃあ、お願いするわ。
+  d_main_04_01_23:
+    speaker: Narration
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_main_04_01_24:
+    speaker: Narration
+    en: Yuni falls asleep on Mihara's knees.
+    ko: 유니는 미하라의 무릎을 베고 잠들었다.
+    ja: ユニはミハラの膝を枕にして眠りについた
+  d_main_04_01_25:
+    speaker: anis
+    en: Mihara.
+    ko: |-
+      이봐.
+      미하라.
+    ja: |-
+      ねえ、
+      ミハラ。
+  d_main_04_01_26:
+    speaker: mihara
+    en: What's wrong?
+    ko: 왜?
+    ja: 何？
+  d_main_04_01_27:
+    speaker: anis
+    en: What's going on between you and Yuni?
+    ko: 너희, 무슨 관계야?
+    ja: あなたたち、どういう関係なの？
+  d_main_04_01_28:
+    speaker: mihara
+    en: Huh? What makes you ask?
+    ko: 후후. 그건 갑자기 왜 물어보는 걸까?
+    ja: ふふ、どうしてそんなこと聞くの。
+  d_main_04_01_29:
+    speaker: anis
+    en: It feels to me like Yuni is very dependent on you.
+    ko: 유니가 너한테 많이 의지하는 것 같은데.
+    ja: ユニがあなたに、すごく頼ってるみたいだけど。
+  d_main_04_01_30:
+    speaker: mihara
+    en: Dependent? Yuni?
+    ko: 의지? 유니가?
+    ja: 頼る？ユニが？
+  d_main_04_01_31:
+    speaker: mihara
+    en: You're way off base. We both rely on each other. We have no choice.
+    ko: |-
+      후후. 아냐.
+      서로 어쩔 수 없이 붙어있는 거야.
+    ja: |-
+      ふふ、違うわ。
+      お互い、仕方なく一緒にいるだけ。
+  d_main_04_01_32:
+    speaker: mihara
+    en: When two people are together, they're like two gears in perfect sync.
+    ko: 사람과 사람의 관계는 톱니바퀴라고 많이들 표현하잖아?
+    ja: |-
+      人と人との関係って、
+      よく歯車に例えられるでしょ？
+  d_main_04_01_33:
+    speaker: mihara
+    en: Yuni and I are crooked gears.
+    ko: 나와 유니는 그 톱니바퀴가 많이 일그러져 있어.
+    ja: 私とユニはその歯車がすごく歪んでいるの。
+  d_main_04_01_34:
+    speaker: mihara
+    en: No one else fits with us.
+    ko: |-
+      다른 사람들과 어울릴 수 없지.
+      일그러져 있으니까.
+    ja: |-
+      他の人とは付き合えないわ。
+      その歪みのせいで。
+  d_main_04_01_35:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_01_36:
+    speaker: mihara
+    en: But sometimes, two crooked gears can be a perfect match.
+    ko: |-
+      그런데 그 일그러진 톱니바퀴끼리
+      딱 맞아떨어지는 경우도 있더라고.
+    ja: |-
+      でも、その歪んだ歯車が
+      ぴったりはまる場合もあるの。
+  d_main_04_01_37:
+    speaker: mihara
+    en: That's how I met Yuni. Neither of us is perfect, but we're perfect for each
+      other.
+    ko: |-
+      나와 유니가 그런 경우지.
+      일그러진 톱니바퀴지만, 서로 딱 맞아떨어지는.
+    ja: |-
+      私とユニのようにね。
+      歪んだ歯車だけど、互いにぴったりはまる。
+  d_main_04_01_38:
+    speaker: mihara
+    en: I realize how strange we must seem to people on the outside looking in.
+    ko: 후후. 멀리서 보면, 맞물린 모습이 제법 흉측할 거야.
+    ja: |-
+      ふふ、傍から見ると、
+      結構醜い姿かもしれないわ。
+  d_main_04_01_39:
+    speaker: neon
+    en: No, I didn't.
+    ko: 아니에요.
+    ja: 違います。
+  d_main_04_01_40:
+    speaker: neon
+    en: It's kind of... sweet.
+    ko: 예쁜걸요.
+    ja: きれいです。
+  d_main_04_01_41:
+    speaker: mihara
+    en: "... Thank you."
+    ko: "…고마워."
+    ja: "…ありがとう。"
+  d_main_04_01_42:
+    speaker: anis
+    en: A crooked gear...
+    ko: "…일그러진 톱니바퀴라."
+    ja: "…歪んだ歯車ねぇ…"
+  d_main_04_01_43:
+    speaker: mihara
+    en: All right, your turn.
+    ko: 그럼, 이젠 너희 차례네.
+    ja: じゃあ、今度はあなたたちの番よ。
+  d_main_04_01_44:
+    speaker: anis
+    en: Hmm?
+    ko: 응?
+    ja: うん？
+  d_main_04_01_45:
+    speaker: mihara
+    en: You've been working with Rapi for a long time, haven't you? I can tell.
+    ko: |-
+      너랑 라피, 같이 행동한지 오래됐지?
+      보면 알 수 있어.
+    ja: |-
+      あなたとラピ、ずいぶん長いこと\n一緒だったんでしょう？
+      見れば分かるわ。
+  d_main_04_01_46:
+    speaker: mihara
+    en: Neon, on the other hand, must be new.
+    ko: 네온은… 신입인 것 같고.
+    ja: ネオンは…新入りのようだし。
+  d_main_04_01_47:
+    speaker: neon
+    en: Well, it's a secret, but I'm actually a spy.
+    ko: 예. 비밀인데, 사실 저는 스파이거든요.
+    ja: はい。秘密ですけど、実は私、スパイなんです。
+  d_main_04_01_48:
+    speaker: anis
+    en: Yep, a real whopper of a secret.
+    ko: 엄청난 비밀이지 암.
+    ja: すごい秘密よね、確かに。
+  d_main_04_01_49:
+    speaker: mihara
+    en: Wow, no kidding?
+    ko: 와, 그렇구나.
+    ja: へえ、そうなの。
+  d_main_04_01_50:
+    speaker: anis
+    en: We... Yes.
+    ko: |-
+      우린….
+      그래.
+    ja: |-
+      私たちは…
+      そう。
+  d_main_04_01_51:
+    speaker: anis
+    en: We all have our problems.
+    ko: 문제아들이지, 응.
+    ja: 問題児なの、うん。
+  d_main_04_01_52:
+    speaker: anis
+    en: Or maybe defects is a better word.
+    ko: |-
+      아니지.
+      불량품인가?
+    ja: |-
+      いや、
+      不良品かな？
+  d_main_04_01_53:
+    speaker: mihara
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  d_main_04_01_54:
+    speaker: anis
+    en: Well, if you don't mind, I need my beauty sleep.
+    ko: 미안. 이만 자도 될까?
+    ja: ごめん、もう寝てもいい？
+  d_main_04_01_55:
+    speaker: mihara
+    en: Hmm... Someone's in a foul mood.
+    ko: 흐음~ 비겁하네.
+    ja: ふ～ん～卑怯ね。
+  d_main_04_01_56:
+    speaker: anis
+    en: Lay off it, will you?
+    ko: 좀 봐줘.
+    ja: 大目に見てよ。
+  d_main_04_01_57:
+    speaker: mihara
+    en: All right, all right, just for you.
+    ko: |-
+      그래.
+      특별히 용서해 줄게.
+    ja: |-
+      そうね。
+      特別に許してあげるわ。
+  d_main_04_01_58:
+    speaker: Narration
+    en: The next morning.
+    ko: 다음 날 아침.
+    ja: 翌朝
+  d_main_04_01_59:
+    speaker: "<Monologue>"
+    en: Your mouth is dry.
+    ko: 입이 텁텁하다.
+    ja: 喉が渇いた
+  d_main_04_01_60:
+    speaker: "<Monologue>"
+    en: You want to get up and have some water.
+    ko: 물을 마시기 위해 몸을 일으켰다.
+    ja: 水を飲もうと起き上がった
+  d_main_04_01_61:
+    speaker: "<Monologue>"
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  d_main_04_01_62:
+    speaker: "<Monologue>"
+    en: You can't move!
+    ko: 몸이 안 움직인다!
+    ja: 体が動かない！
+  d_main_04_01_63:
+    speaker: yuni
+    en: Huh...
+    ko: 으음….
+    ja: ううん…
+  d_main_04_01_64:
+    speaker: mihara
+    en: Oh my gosh!
+    ko: 어머나.
+    ja: あら。
+  d_main_04_01_65:
+    speaker: mihara
+    en: Yuni, get up! You're going to crush the Commander!
+    ko: |-
+      유니. 일어나.
+      그러다가 지휘관이 압사당할 수도 있어.
+    ja: |-
+      ユニ、起きて。
+      指揮官が窒息死するかもしれないわ。
+  d_main_04_01_66:
+    speaker: "<Monologue>"
+    en: Yuni is sleeping on top of you.
+    ko: 유니가 내 몸에 올라와 자고 있다.
+    ja: ユニが私の体の上で寝ている
+  d_main_04_01_67:
+    speaker: yuni
+    en: Mmm... just 5 more minutes...
+    ko: 음… 유니 조금만 더 잘래….
+    ja: ううん…ユニ、もうちょっと寝る…
+  d_main_04_01_68:
+    speaker: yuni
+    en: The Commander is so firm... so warm... so comfortable...
+    ko: 지휘관, 따뜻하고 딱딱해서 기분 좋아….
+    ja: 指揮官、あったかくて硬くて気持ちいい…
+  d_main_04_01_69:
+    speaker: anis
+    en: "... What's going on here?"
+    ko: "…무슨 상황이야 이거?"
+    ja: "…これどういう状況？"
+  d_main_04_01_70:
+    speaker: neon
+    en: Apparently, Yuni thinks the Master makes for a nice mattress.
+    ko: 유니가 스승님을 침대처럼 사용하고 있어요.
+    ja: ユニが師匠をベッドの代わりに使っています。
+  d_main_04_01_71:
+    speaker: rapi
+    en: "... Get up. We have to move out."
+    ko: |-
+      …일어나.
+      출발하자.
+    ja: |-
+      …起きて。
+      出発しよう。
+  d_main_04_01_72:
+    speaker: yuni
+    en: Aww... c'mon... just a few more minutes...
+    ko: |-
+      …으으음….
+      싫어~
+    ja: |-
+      …ううん…
+      イヤだ～
+  d_main_04_01_73:
+    speaker: Narration
+    en: She grabs you tight.
+    ko: 꽈악-!
+    ja: ガシッ！
+  d_main_04_01_74:
+    speaker: "<Monologue>"
+    en: Yuni holds your body more tightly.
+    ko: 유니가 내 몸을 꽉 끌어안았다.
+    ja: ユニが私の体を思い切り抱きしめた
+  d_main_04_01_75:
+    speaker: "<Monologue>"
+    en: You feel like she's about to crush every bone in your body.
+    ko: 몸이 부서질 것 같다!
+    ja: 体中の骨が全部折れそうだ！
+  d_main_04_01_76:
+    speaker: anis
+    en: A bear hug!
+    ko: 베어 허그!
+    ja: ベアハッグ！
+  d_main_04_01_77:
+    speaker: neon
+    en: Impressive technique!
+    ko: 굉장한 기술!
+    ja: すごい技ですね！
+  d_main_04_01_78:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+d_main_04_02:
+  d_main_04_02_1:
+    speaker: anis
+    en: Mihara.
+    ko: 미하라.
+    ja: ミハラ。
+  d_main_04_02_2:
+    speaker: mihara
+    en: What's wrong?
+    ko: 왜?
+    ja: 何？
+  d_main_04_02_3:
+    speaker: anis
+    en: Seems to me like the Commander is running off with your woman. Are you okay
+      with that?
+    ko: 빼앗긴 것 같은데, 괜찮아?
+    ja: 取られたみたいだけど、大丈夫？
+  d_main_04_02_4:
+    speaker: mihara
+    en: Heh heh, as long as Yuni is happy, yes.
+    ko: 후후. 유니만 좋다면야.
+    ja: ふふ、ユニさえよければ構わないわ。
+  d_main_04_02_5:
+    speaker: neon
+    en: They look like father and daughter from this angle.
+    ko: 근데 뒤에서 보니까 아버지와 딸 같네요.
+    ja: でも、後ろから見たら親子みたいですね。
+  d_main_04_02_6:
+    speaker: rapi
+    en: "... From the way they walk together, yes..."
+    ko: "…포메이션이…."
+    ja: "…フォーメーションが…"
+  d_main_04_02_7:
+    speaker: "<Monologue>"
+    en: Yuni reaches out and begins holding your hand.
+    ko: 유니는 좀 전부터 내 손을 잡고 놔주질 않는다.
+    ja: ユニはさっきから手を握ったまま離そうとしない
+  d_main_04_02_8:
+    speaker: yuni
+    en: Heh heh, Commander, can I hold it a little harder?
+    ko: |-
+      헤헤.
+      지휘관. 유니 손 좀 더 쎄게 잡아도 돼?
+    ja: |-
+      へへ。
+      指揮官、ユニ、もっと強く握ってもいい？
+  d_main_04_02_9:
+    speaker: Self
+    en: "... Sure, but just a little bit."
+    ko: "…조금 정도라면."
+    ja: "…少しならいい"
+  d_main_04_02_10:
+    speaker: Narration
+    en: She grabs you tight.
+    ko: 꽈악-!
+    ja: ガシッ！
+  d_main_04_02_11:
+    speaker: Self
+    en: You're cutting off my circulation.
+    ko: "…피가 안 통하는 것 같은데."
+    ja: "…血が止まりそうだ"
+  d_main_04_02_12:
+    speaker: yuni
+    en: You're so warm, Commander, I like it.
+    ko: |-
+      헤헤. 지휘관.
+      따뜻해서 너무 좋아.
+    ja: |-
+      へへ、指揮官。
+      あったかくて大好き。
+  d_main_04_02_13:
+    speaker: anis
+    en: A Nikke who enjoys heat? Never thought I'd see the day.
+    ko: |-
+      신기하네.
+      니케가 온도에 집착하다니.
+    ja: |-
+      珍しいね。
+      ニケが温度に執着するなんて。
+  d_main_04_02_14:
+    speaker: rapi
+    en: Could her sensors be malfunctioning?
+    ko: 센서가 오작동을 일으키고 있는 건가?
+    ja: センサーが誤作動しているの？
+  d_main_04_02_15:
+    speaker: mihara
+    en: That's not it.
+    ko: 그런 건 아니야.
+    ja: そういうわけではないわ。
+  d_main_04_02_16:
+    speaker: mihara
+    en: Only through physical contact with someone else...
+    ko: "…무감각증이거든."
+    ja: "…感覚が麻痺しているから。"
+  d_main_04_02_17:
+    speaker: mihara
+    en: can she ever feel anything.
+    ko: 하지만 어째서인지 타인과 접촉했을 때만 감각을 느껴.
+    ja: でも、なぜか他人と接触した時だけ、\n感覚を感じるの。
+  d_main_04_02_18:
+    speaker: mihara
+    en: I don't know whether she was like this from the very beginning, or if it has
+      something to do with her ability.
+    ko: 원래 그런 거였는지, 능력을 받아서 그런 건지는 모르는데.
+    ja: |-
+      元々なのか、
+      能力の影響なのかは分からないけど。
+  d_main_04_02_19:
+    speaker: mihara
+    en: Either way, it's made her very... touchy-feely.
+    ko: 그러다 보니 계속 타인과의 접촉을 원해.
+    ja: それでいつも他の人と接触したくなるの。
+  d_main_04_02_20:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_02_21:
+    speaker: mihara
+    en: This puts off a lot of people, and they end up avoiding her.
+    ko: 그나저나 보통 사람들은 질색하고 물러서던데.
+    ja: でも、普通の人には引かれてしまうのに。
+  d_main_04_02_22:
+    speaker: mihara
+    en: So you all have quite the peculiar Commander.
+    ko: 후후. 너희 지휘관은 좀 이상하구나?
+    ja: ふふ、あなたたちの指揮官は\nちょっと変わってるわ。
+  d_main_04_02_23:
+    speaker: rapi
+    en: They're not 'peculiar'.
+    ko: 이상하진 않지.
+    ja: 変ではない。
+  d_main_04_02_24:
+    speaker: anis
+    en: Far from it.
+    ko: 그렇지. 이상한 것과는 거리가 있지.
+    ja: そう、変な人とは違うわ。
+  d_main_04_02_25:
+    speaker: neon
+    en: It's because they're good person, it's all.
+    ko: 스승님은 좋은 사람이니까요.
+    ja: 師匠はいい人ですから。
+  d_main_04_02_26:
+    speaker: mihara
+    en: "... Yeah."
+    ko: "…그래."
+    ja: "…そう。"
+d_main_04_03_s:
+  d_main_04_03_s_1:
+    speaker: rapi
+    en: "... I don't like the look of this place."
+    ko: "…위험한 지형이야."
+    ja: "…危険な地形よ。"
+  d_main_04_03_s_2:
+    speaker: anis
+    en: It's perfect for an ambush.
+    ko: 매복에 딱 좋은 장소네.
+    ja: 待ち伏せにもってこいの場所ね。
+  d_main_04_03_s_3:
+    speaker: mihara
+    en: Well, that's not good.
+    ko: 이거 안 좋네.
+    ja: これは良くないわね。
+  d_main_04_03_s_4:
+    speaker: mihara
+    en: Do you think we've been led here on purpose?
+    ko: 아무래도 우리, 유인당한 것 같지?
+    ja: どうやら私たち、はめられたみたい。
+  d_main_04_03_s_5:
+    speaker: neon
+    en: I thought you said Raptures had no intelligence.
+    ko: 랩쳐는 지능이 없다고 하지 않았나요?
+    ja: ラプチャーには知能がなかったんじゃ？
+  d_main_04_03_s_6:
+    speaker: mihara
+    en: Well, I take it back. We've fallen for Chatterbox's trap.
+    ko: |-
+      철회할게.
+      우린 지금 토커티브에게 걸려들었어.
+    ja: |-
+      撤回するわ。
+      私たちは今、トーカティブの罠に落ちたわ。
+  d_main_04_03_s_7:
+    speaker: "<Monologue>"
+    en: Something is shining on the roof.
+    ko: 옥상에서 뭔가가 반짝였다.
+    ja: 屋上で何かが光った
+  d_main_04_03_s_8:
+    speaker: Self
+    en: On the roof...
+    ko: 옥상에….
+    ja: 屋上に…
+  d_main_04_03_s_9:
+    speaker: anis
+    en: Sniper!
+    ko: 저격이다!
+    ja: 狙撃だ！
+  d_main_04_03_s_10:
+    speaker: yuni
+    en: No!
+    ko: 야압-!
+    ja: はあっー！
+  d_main_04_03_s_11:
+    speaker: Narration
+    en: "*Sizzle*"
+    ko: 빠지직-!
+    ja: バキューン！
+  d_main_04_03_s_12:
+    speaker: "<Monologue>"
+    en: Your legs buckle.
+    ko: 다리에 힘이 풀렸다!
+    ja: 足から力が抜けた！
+  d_main_04_03_s_13:
+    speaker: "<Monologue>"
+    en: As you collapse, an electron beam flies directly over your head.
+    ko: 주저앉자마자 빔이 머리 위로 지나갔다.
+    ja: 座り込んだ瞬間、ビームが頭上を通り過ぎた
+  d_main_04_03_s_14:
+    speaker: neon
+    en: Yuni! Well done!
+    ko: 유니! 나이스!
+    ja: ユニ！ナイス！
+  d_main_04_03_s_15:
+    speaker: anis
+    en: They're not after us. It's the Commander they want!
+    ko: |-
+      이 자식들 지휘관을 노렸어!
+      우리가 아니라!
+    ja: |-
+      こいつら、指揮官様を狙ってたわ！
+      私たちじゃなくて！
+  d_main_04_03_s_16:
+    speaker: rapi
+    en: HO formation!
+    ko: 포메이션 HO!
+    ja: フォーメーションHO！
+  d_main_04_03_s_17:
+    speaker: rapi
+    en: Commander! Get behind me!
+    ko: |-
+      지휘관!
+      제 뒤로!
+    ja: |-
+      指揮官！
+      私の後ろへ！
+  d_main_04_03_s_18:
+    speaker: rapi
+    en: You're the one being targeted.
+    ko: 놈들은 명백히 지휘관을 노리고 있습니다.
+    ja: 奴らは明らかに指揮官を狙っています。
+  d_main_04_03_s_19:
+    speaker: rapi
+    en: Just stay close and we'll protect you.
+    ko: |-
+      하지만 걱정하지 마십시오.
+      우린 지휘관을 지킵니다.
+    ja: |-
+      でも心配いりません。
+      私たちが指揮官をお守りいたします。
+  d_main_04_03_s_20:
+    speaker: Self
+    en: I trust you all.
+    ko: 믿을게.
+    ja: 信じている
+  d_main_04_03_s_21:
+    speaker: rapi
+    en: Yes, Commander.
+    ko: 라져.
+    ja: ラジャー。
+  d_main_04_03_s_22:
+    speaker: anis
+    en: Formation complete.
+    ko: 포메이션 세팅 완료!
+    ja: フォーメーションセット完了！
+  d_main_04_03_s_23:
+    speaker: neon
+    en: Firepower charged to 100%!
+    ko: 화력 충전 100%에요!
+    ja: 火力チャージ100％です！
+  d_main_04_03_s_24:
+    speaker: mihara
+    en: Go!
+    ko: 가자.
+    ja: 行きましょう。
+  d_main_04_03_s_25:
+    speaker: rapi
+    en: Engaging!
+    ko: 인카운터!
+    ja: エンカウンター！
+d_main_04_03_e:
+  d_main_04_03_e_1:
+    speaker: rapi
+    en: Enemy neutralized.
+    ko: 상황 종료.
+    ja: 状況終了！
+  d_main_04_03_e_2:
+    speaker: mihara
+    en: We make a pretty good team, don't you think?
+    ko: 흐응~ 우리 제법 잘 맞지 않아?
+    ja: ふう～ん、私たち、結構息が合うじゃない。
+  d_main_04_03_e_3:
+    speaker: yuni
+    en: Yeah, they're pretty cool. So is the Commander.
+    ko: |-
+      응. 유니 얘들 좋아.
+      지휘관도 좋아.
+    ja: |-
+      うん、ユニはこの人たち好き。
+      指揮官も好き。
+  d_main_04_03_e_4:
+    speaker: mihara
+    en: It feels good being part of a bigger team.
+    ko: 5인 스쿼드로 구성해보는 것도 나쁘지 않을 것 같네.
+    ja: 5人で分隊を構成するのも悪くないと思うわ。
+  d_main_04_03_e_5:
+    speaker: anis
+    en: Yeah. Rapi, what do you think?
+    ko: |-
+      그러게.
+      어떻게 생각해? 라피.
+    ja: |-
+      そうね。
+      どう思う？ラピ。
+  d_main_04_03_e_6:
+    speaker: rapi
+    en: That decision isn't mine to make.
+    ko: 결정은 내가 하는 게 아냐.
+    ja: 私が決めることじゃない。
+  d_main_04_03_e_7:
+    speaker: anis
+    en: But surely you must have your own thoughts on the matter?
+    ko: 에이. 그래도 생각은 있을 거 아냐.
+    ja: ええ、でもラピにも考えはあると思うから。
+  d_main_04_03_e_8:
+    speaker: rapi
+    en: I... can't trust them yet.
+    ko: "…아직까진 믿을 수 없어."
+    ja: "…まだ信じられない。"
+  d_main_04_03_e_9:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+d_main_04_04_s:
+  d_main_04_04_s_1:
+    speaker: yuni
+    en: Hey, Commander!
+    ko: 앗, 지휘관.
+    ja: あ、指揮官。
+  d_main_04_04_s_2:
+    speaker: yuni
+    en: I saved your life.
+    ko: 유니 지휘관 살려줬어.
+    ja: ユニが指揮官を助けたの。
+  d_main_04_04_s_3:
+    speaker: yuni
+    en: Don't I get a reward?
+    ko: 상 줘.
+    ja: ご褒美ちょうだい。
+  d_main_04_04_s_4:
+    speaker: mihara
+    en: Yuni, the Commander is human...
+    ko: "…유니. 지휘관은 사람…."
+    ja: "…ユニ、指揮官は人間…"
+  d_main_04_04_s_5:
+    speaker: Self
+    en: Sure, you can have a reward.
+    ko: 잘 했으니 상을 줘야지.
+    ja: よくやったからご褒美をあげよう
+  d_main_04_04_s_6:
+    speaker: rapi
+    en: Commander...
+    ko: "…지휘관."
+    ja: "…指揮官。"
+  d_main_04_04_s_7:
+    speaker: Self
+    en: I'm okay.
+    ko: 걱정 마. 괜찮아.
+    ja: 心配するな。大丈夫だ
+  d_main_04_04_s_8:
+    speaker: yuni
+    en: Wow, really?
+    ko: 와아. 진짜?
+    ja: わあ、本当に？
+  d_main_04_04_s_9:
+    speaker: yuni
+    en: Then give me your hand.
+    ko: 그럼 손 줘.
+    ja: じゃあ、手出して。
+  d_main_04_04_s_10:
+    speaker: Self
+    en: You reach out your hand.
+    ko: 손을 내민다.
+    ja: 手を出す
+  d_main_04_04_s_11:
+    speaker: yuni
+    en: M-may I? Really?
+    ko: 지, 진짜 해도 돼?
+    ja: ほ、本当にいいの？
+  d_main_04_04_s_12:
+    speaker: Self
+    en: "... It's okay."
+    ko: "…살살 부탁해."
+    ja: "…お手柔らかに頼む"
+  d_main_04_04_s_13:
+    speaker: yuni
+    en: Heh, heh heh...
+    ko: 헤, 헤헤….
+    ja: へ、へへ…
+  d_main_04_04_s_14:
+    speaker: "<Monologue>"
+    en: Yuni pinches the back of your hand
+    ko: 유니는 내 손등을 집었다.
+    ja: ユニは私の手の甲をつねった
+  d_main_04_04_s_15:
+    speaker: "<Monologue>"
+    en: and starts squeezing.
+    ko: 그리고 힘을 주기 시작했다.
+    ja: そしてどんどん力を強めた
+  d_main_04_04_s_16:
+    speaker: yuni
+    en: Com-Commander, does it hurt?
+    ko: |-
+      지, 지휘관.
+      아파?
+    ja: |-
+      し、指揮官。
+      痛い？
+  d_main_04_04_s_17:
+    speaker: Self
+    en: It hurts.
+    ko: "…아파."
+    ja: "…痛い"
+  d_main_04_04_s_18:
+    speaker: yuni
+    en: Heh heh, so it hurts...
+    ko: 헤헤. 아, 아프구나아….
+    ja: へへ。い、痛いの…
+  d_main_04_04_s_19:
+    speaker: "<Monologue>"
+    en: Your skin breaks and starts to bleed slightly.
+    ko: "…살갗이 살짝 찢어져 피가 조금 맺혔다."
+    ja: "…皮膚が少しめくれ血が滲んだ"
+  d_main_04_04_s_20:
+    speaker: mihara
+    en: That's enough, Yuni.
+    ko: |-
+      유니.
+      이제 그만.
+    ja: |-
+      ユニ。
+      そこまでよ。
+  d_main_04_04_s_21:
+    speaker: yuni
+    en: Like this?
+    ko: 으, 응.
+    ja: う、うん。
+  d_main_04_04_s_22:
+    speaker: rapi
+    en: One moment, Commander.
+    ko: |-
+      …지휘관.
+      잠시만 가만히 계십시오.
+    ja: |-
+      …指揮官。
+      すこしじっとしていてください。
+  d_main_04_04_s_23:
+    speaker: Narration
+    en: Rapi takes off her gloves and puts them on the back of your hand, which is
+      bleeding.
+    ko: 라피는 장갑을 벗고 피가 맺힌 손등을 덮었다.
+    ja: |-
+      ラピは手袋を脱ぎ、
+      血が滲んだ私の手の甲を覆った
+  d_main_04_04_s_24:
+    speaker: rapi
+    en: We need to stop that bleeding. Hold still.
+    ko: |-
+      지혈 중입니다.
+      움직이지 마세요.
+    ja: |-
+      止血しています。
+      動かないでください。
+  d_main_04_04_s_25:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_04_s_26:
+    speaker: rapi
+    en: Done...
+    ko: 다 됐습니….
+    ja: 終わりまし…
+  d_main_04_04_s_27:
+    speaker: unknown
+    en: Found them.
+    ko: "[찾았다.]"
+    ja: "「見つけた」"
+  d_main_04_04_s_28:
+    speaker: "<Monologue>"
+    en: You hear a voice coming from behind you.
+    ko: 등 뒤에서 목소리가 들렸다.
+    ja: 後ろから声がした
+  d_main_04_04_s_29:
+    speaker: "<Monologue>"
+    en: You turn around to see a horrifying smiley face staring back at you.
+    ko: 뒤를 돌아보는 순간, 섬뜩하게 웃는 얼굴이 보였다.
+    ja: 振り向いた瞬間、気味悪く笑う顔が見えた
+  d_main_04_04_s_30:
+    speaker: rapi
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_04_04_s_31:
+    speaker: mihara
+    en: "... Who are you...?!"
+    ko: "…뭐…!"
+    ja: "…何！"
+  d_main_04_04_s_32:
+    speaker: talkative
+    en: I was going to have some fun with you before I killed you. Today's my lucky
+      day!
+    ko: "[조금 가지고 놀다 죽이려 했는데, 이런 행운이라니.]"
+    ja: "「すこし遊んでから殺そうと思ったのに、\\nこんな幸運が」"
+  d_main_04_04_s_33:
+    speaker: neon
+    en: H-he's talking?
+    ko: 마, 말하고 있는데요?
+    ja: しゃ、しゃべってますけど？
+  d_main_04_04_s_34:
+    speaker: anis
+    en: Isn't he a Rapture?
+    ko: 아니, 랩쳐잖아!
+    ja: いや、ラプチャーだわ！
+  d_main_04_04_s_35:
+    speaker: rapi
+    en: Commander...!
+    ko: 지휘과…!
+    ja: 指揮…！
+  d_main_04_04_s_36:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 콰앙-!
+    ja: ドォーン！
+  d_main_04_04_s_37:
+    speaker: "<Monologue>"
+    en: Rapi runs towards you.
+    ko: 나에게로 달려오던 라피는.
+    ja: 私の方に走ってきていたラピは
+  d_main_04_04_s_38:
+    speaker: "<Monologue>"
+    en: But the Rapture reaches out his foot and knocks Rapi back, sending her flying
+      into the ruins.
+    ko: 랩쳐가 뻗은 발에 차여 뒤로 날아가 잔해에 처박혔다.
+    ja: ラプチャーに蹴飛ばされ、がれきの上に落ちた
+  d_main_04_04_s_39:
+    speaker: yuni
+    en: Mi-Mihara! That foot!
+    ko: |-
+      미, 미하라!
+      발! 발 모양!
+    ja: |-
+      ミ、ミハラ！
+      足！足の形！
+  d_main_04_04_s_40:
+    speaker: mihara
+    en: Chatterbox...!
+    ko: "…토커티브…!"
+    ja: "…トーカティブ…！"
+  d_main_04_04_s_41:
+    speaker: talkative
+    en: |-
+      Don't move.
+      Can you help me figure out who this is in front of us?
+    ko: |-
+      [움직이지 마라.]
+      [내 앞에 서 있는 게 누구인지 상기해 주면 고맙겠군.]
+    ja: |-
+      「動くな」
+      「自分の前にいるのは誰か、思い出すんだ」
+  d_main_04_04_s_42:
+    speaker: anis
+    en: You...!
+    ko: 이…!
+    ja: この…！
+  d_main_04_04_s_43:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_04_s_44:
+    speaker: Narration
+    en: Mihara starts to glow with blue light.
+    ko: 미하라에게서 푸른색 빛이 퍼져나갔다.
+    ja: ミハラから青い光が放たれた
+  d_main_04_04_s_45:
+    speaker: Narration
+    en: She suddenly tears her abdomen apart.
+    ko: 그리고 바로 자신의 복부를 뜯어냈다.
+    ja: それと同時に自分の腹部をえぐった
+  d_main_04_04_s_46:
+    speaker: Narration
+    en: With a bam, Chatterbox rumbles slightly.
+    ko: 투툭. 하는 불쾌한 소리와 함께 토커티브가 휘청였다.
+    ja: |-
+      ゴキッという不快な音と共に
+      トーカティブがふらついた
+  d_main_04_04_s_47:
+    speaker: talkative
+    en: Argh...!
+    ko: "[커헉…!]"
+    ja: "「ガハッ…！」"
+  d_main_04_04_s_48:
+    speaker: mihara
+    en: Yuni.
+    ko: 유니.
+    ja: ユニ。
+  d_main_04_04_s_49:
+    speaker: yuni
+    en: Yep, it's been turned off.
+    ko: 응. 끌게.
+    ja: うん、切るね。
+  d_main_04_04_s_50:
+    speaker: Narration
+    en: "*Sizzle*"
+    ko: 빠지지직!
+    ja: バキューン！
+  d_main_04_04_s_51:
+    speaker: talkative
+    en: "My eyes...? \nIs my vision blocked?!"
+    ko: |-
+      [눈이…?]
+      [시각을 차단한건가!]
+    ja: |-
+      「目が…？」
+      「視覚を遮断したのか！」
+  d_main_04_04_s_52:
+    speaker: mihara
+    en: It should be easy to finish him off now, huh?
+    ko: 이 정도로 만들어놨으면 식은 죽 먹기지?
+    ja: こんなの簡単よ。
+  d_main_04_04_s_53:
+    speaker: mihara
+    en: Okay, now is the time to catch it.
+    ko: 자, 포획할 시간이야.
+    ja: さあ、捕獲する時間よ。
+d_main_04_04_e:
+  d_main_04_04_e_1:
+    speaker: mihara
+    en: He's putting up a bigger fight than I thought he would.
+    ko: |-
+      생각보다 오래 버티는걸?
+      이런 상황에서.
+    ja: |-
+      思ったよりしつこいわね、
+      こんな状況なのに。
+  d_main_04_04_e_2:
+    speaker: anis
+    en: He seems to be slowing down. I think he's just about done for.
+    ko: |-
+      움직임이 둔해졌어.
+      곧 쓰러지겠지.
+    ja: |-
+      動きが鈍くなったわ。
+      すぐ倒れるんじゃないかしら。
+  d_main_04_04_e_3:
+    speaker: mihara
+    en: Ha ha, let's speed it up then!
+    ko: 후후. 그럼 스퍼트를 올려볼까?
+    ja: ふふ、じゃあ、追い込みをかけるわよ。
+  d_main_04_04_e_4:
+    speaker: talkative
+    en: Exchanging senses...
+    ko: "[감각 교환이라….]"
+    ja: "「感覚交換か…」"
+  d_main_04_04_e_5:
+    speaker: Narration
+    en: "*Crack*"
+    ko: 콰작!
+    ja: ブチッ！
+  d_main_04_04_e_6:
+    speaker: Narration
+    en: With a heaving grunt, Chatterbox tears off his arm.
+    ko: 둔탁한 소리와 함께 토커티브는 자신의 팔을 뜯어냈다.
+    ja: |-
+      鈍い音と共に、
+      トーカティブは自分の腕を引きちぎった
+  d_main_04_04_e_7:
+    speaker: mihara
+    en: What?!
+    ko: "…허억…!"
+    ja: "…っ…！"
+  d_main_04_04_e_8:
+    speaker: Narration
+    en: "*Crack crack*"
+    ko: 콰작! 콰작! 콰작!
+    ja: ブチッ！ブチッ！ブチッ！
+  d_main_04_04_e_9:
+    speaker: Narration
+    en: Chatterbox is violently tearing his body apart and tossing chunks of flesh
+      onto the ground.
+    ko: 토커티브는 난폭하게 자신의 몸을 뜯어내 흩뿌렸다.
+    ja: |-
+      トーカティブは乱暴に自分の体を
+      引きちぎり、まき散らした
+  d_main_04_04_e_10:
+    speaker: talkative
+    en: Ha ha ha! It's delightful!
+    ko: "[후하하하! 유쾌하군!]"
+    ja: "「ふははは！愉快だな！」"
+  d_main_04_04_e_11:
+    speaker: talkative
+    en: Destroying my own body... It's... bliss! Ha ha ha!
+    ko: "[자신의 몸을 부수는 즐거움이라니! 후하하하!]"
+    ja: "「自分の体をえぐる楽しみを味わえるとは！\\nふははは！」"
+  d_main_04_04_e_12:
+    speaker: talkative
+    en: Come now! Feel the pain as your flesh is torn asunder!
+    ko: "[자! 견뎌봐라! 갈기갈기 찢기는 고통을!]"
+    ja: |-
+      「さあ、耐えてみろ！
+      八つ裂きにされる苦痛に！」
+  d_main_04_04_e_13:
+    speaker: talkative
+    en: |-
+      Let me see how long you can last!
+      Human impostors!
+    ko: |-
+      [어디까지 버티는지 보여다오!]
+      [유사인간!]
+    ja: |-
+      「どこまで耐えられるか見せてみろ！」
+      「人間もどき！」
+  d_main_04_04_e_14:
+    speaker: mihara
+    en: "*Cough* Ah...!"
+    ko: 커헉…! 흐악…!
+    ja: うっ…！グウッ…！
+  d_main_04_04_e_15:
+    speaker: "<Monologue>"
+    en: Mihara collapses.
+    ko: 미하라는 쓰러졌다.
+    ja: ミハラが倒れた
+  d_main_04_04_e_16:
+    speaker: "<Monologue>"
+    en: The pain she is taking is far beyond her capacity.
+    ko: 수용 범위를 아득히 초월한 고통에
+    ja: 許容範囲をはるかに超えた苦痛により
+  d_main_04_04_e_17:
+    speaker: "<Monologue>"
+    en: Mihara falls to the ground and starts twitching.
+    ko: 미하라는 바닥에 쓰러져 꿈틀거리고 있었다.
+    ja: ミハラは地面に倒れ体をくねらせていた
+  d_main_04_04_e_18:
+    speaker: yuni
+    en: Mi-Mihara!
+    ko: 미, 미하라!
+    ja: ミ、ミハラ！
+  d_main_04_04_e_19:
+    speaker: yuni
+    en: I'll kill you!
+    ko: 너어-!!
+    ja: こいつ！！
+  d_main_04_04_e_20:
+    speaker: Narration
+    en: "*Whew*"
+    ko: 휘익-!
+    ja: ビュン！
+  d_main_04_04_e_21:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 콰앙-!
+    ja: ドォーン！
+  d_main_04_04_e_22:
+    speaker: Narration
+    en: Yuni is swept to the ground by Chatterbox's waving tail.
+    ko: 토커티브가 휘두른 꼬리에 유니는 땅바닥을 나뒹굴었다.
+    ja: トーカティブが振り回した尻尾に当たり、\nユニが地面に倒れ込んだ
+  d_main_04_04_e_23:
+    speaker: yuni
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_04_04_e_24:
+    speaker: talkative
+    en: When your vision is impaired, attack the previous location of your enemy.
+      Understood, impostors?
+    ko: "[시야 차단을 했으면 서있는 위치부터 바꾸는 게 기본이다. 잘 알아둬라, 유사인간.]"
+    ja: |-
+      「視野を遮断したなら、\nまず立っている位置を変えるのが基本だ。
+      よく覚えておけ、人間もどき」
+  d_main_04_04_e_25:
+    speaker: Narration
+    en: "*Creek creek*"
+    ko: 우득. 우드득.
+    ja: ググ、グググッ
+  d_main_04_04_e_26:
+    speaker: Narration
+    en: Chatterbox instantly repairs himself.
+    ko: 토커티브는 순식간에 몸을 수복했다.
+    ja: トーカティブは瞬く間に体を修復した
+  d_main_04_04_e_27:
+    speaker: anis
+    en: Self-repair?! Raptures can do that?
+    ko: |-
+      자, 자가 수복이라고!?
+      랩쳐한테 그런 기능이…!
+    ja: |-
+      じ、自己修復！？
+      ラプチャーにそんな機能が…！
+  d_main_04_04_e_28:
+    speaker: talkative
+    en: Humans, join me.
+    ko: "[인간. 나와 함께 가지.]"
+    ja: "「人間。共に行こう」"
+  d_main_04_04_e_29:
+    speaker: talkative
+    en: Lend me your ear. I mean you no harm.
+    ko: "[얌전히 따라온다면 위해는 가하지 않겠다.]"
+    ja: "「大人しく付いてくるなら、危害は加えない」"
+  d_main_04_04_e_30:
+    speaker: Self
+    en: No thanks, not in a listening mood.
+    ko: "…거절한다."
+    ja: "…断る"
+  d_main_04_04_e_31:
+    speaker: talkative
+    en: So be it.
+    ko: "[나도 거절한다.]"
+    ja: "「ならいい」"
+  d_main_04_04_e_32:
+    speaker: talkative
+    en: No matter. Even if I have no limbs, my functions remain unaffected.
+    ko: "[할 수 없지. 팔다리가 없어져도 기능에는 문제가 없을 테니.]"
+    ja: "「仕方ない。腕や足くらいはなくても\\n機能には問題ないだろう」"
+  d_main_04_04_e_33:
+    speaker: "<Monologue>"
+    en: Chatterbox smiles creepily.
+    ko: 토커티브가 오싹한 미소를 지었다.
+    ja: トーカティブが薄気味悪い笑みを浮かべた
+  d_main_04_04_e_34:
+    speaker: "<Monologue>"
+    en: At that moment, something appears between you and Chatterbox.
+    ko: 그리고 그 순간, 뭔가가 토커티브와 나 사이에 착지했다.
+    ja: |-
+      そしてその瞬間、
+      何かがトーカティブと私の間に立った
+  d_main_04_04_e_35:
+    speaker: rapi
+    en: You're not going anywhere.
+    ko: 그건 허락할 수 없다.
+    ja: それは許さない。
+  d_main_04_04_e_36:
+    speaker: talkative
+    en: |-
+      What's this? You got up awfully quick!
+      How can an impostor do this?
+    ko: |-
+      [음? 벌써 일어날 수 있다고?]
+      [유사인간 따위가?]
+    ja: |-
+      「うん？もう起きたのか？」
+      「人間もどきが？」
+  d_main_04_04_e_37:
+    speaker: talkative
+    en: "..."
+    ko: "[…….]"
+    ja: "「……」"
+  d_main_04_04_e_38:
+    speaker: talkative
+    en: Ha ha, I see.
+    ko: "[후하하. 그렇군.]"
+    ja: "「ふはは、そうか」"
+  d_main_04_04_e_39:
+    speaker: talkative
+    en: You're a Grimms model, yes? Red Hood, I believe.
+    ko: "[페어리 테일 모델. 레드 후드인가.]"
+    ja: "「フェアリーテールモデル、レッドフードか」"
+  d_main_04_04_e_40:
+    speaker: rapi
+    en: Shut up.
+    ko: "…조용히 해라."
+    ja: "…黙れ。"
+  d_main_04_04_e_41:
+    speaker: talkative
+    en: Ha ha ha! It really is my lucky day!
+    ko: "[후하하하! 오늘은 정말 운이 좋군!]"
+    ja: "「ふははは！今日は本当に運がいいな！」"
+  d_main_04_04_e_42:
+    speaker: rapi
+    en: Commander...
+    ko: "…지휘관."
+    ja: "…指揮官。"
+  d_main_04_04_e_43:
+    speaker: rapi
+    en: I'll buy you some time. Just go! Get out of here!
+    ko: |-
+      시간을 벌겠습니다.
+      그 사이 탈출을.
+    ja: |-
+      私が時間を稼ぎます。
+      その間に脱出を。
+  d_main_04_04_e_44:
+    speaker: Self
+    en: If we fight, we fight together.
+    ko: 아니, 나도 함께 싸우겠…!
+    ja: いや、私も一緒に戦…！
+  d_main_04_04_e_45:
+    speaker: rapi
+    en: No, we're in no condition to protect you anymore.
+    ko: |-
+      안됩니다.
+      지금 우리 여력으로는 지휘관을 지킬 수가 없습니다.
+    ja: |-
+      いけません。
+      今の私たちの力では指揮官をお守りできません。
+  d_main_04_04_e_46:
+    speaker: rapi
+    en: Please, head back and report that... there is a Rapture capable of human speech.
+    ko: |-
+      돌아가서 보고해 주십쇼.
+      인간의 언어를 하는 랩쳐가 있….
+    ja: |-
+      報告をお願いします。
+      人間の言語を駆使するラプチャーがいる…
+  d_main_04_04_e_47:
+    speaker: Narration
+    en: "*Swoosh*"
+    ko: 휘익-!
+    ja: ビュン！
+  d_main_04_04_e_48:
+    speaker: Narration
+    en: "*Bam*"
+    ko: 퍼억-!
+    ja: ドーン！
+  d_main_04_04_e_49:
+    speaker: "<Monologue>"
+    en: You suddenly see the sky.
+    ko: 갑자기 하늘이 보였다.
+    ja: 突然目の前に空が見えた
+  d_main_04_04_e_50:
+    speaker: "<Monologue>"
+    en: You feel yourself floating.
+    ko: 그리고 느껴지는 부유감.
+    ja: そして感じられる浮遊感
+  d_main_04_04_e_51:
+    speaker: "<Monologue>"
+    en: A heavy impact from behind sends you reeling.
+    ko: 등에 묵직한 충격이 느껴지고 호흡이 자유롭지 못하다.
+    ja: 背中に重い衝撃が走り、呼吸がままならない
+  d_main_04_04_e_52:
+    speaker: "<Monologue>"
+    en: You must have been struck by Chatterbox's tail.
+    ko: "…아무래도 토커티브의 꼬리에 맞은 것 같다."
+    ja: |-
+      …どうやらトーカティブの
+      尻尾で攻撃されたようだ
+  d_main_04_04_e_53:
+    speaker: "<Monologue>"
+    en: Fortunately, it doesn't seem to have been fatal.
+    ko: 그래도 치명적이지는 않다.
+    ja: 幸いにもそれほど致命的ではない
+  d_main_04_04_e_54:
+    speaker: "<Monologue>"
+    en: When you are about to stand up, there is a strange feeling in your legs.
+    ko: 몸을 일으키려는 순간. 다리에 이질감을 느낀다.
+    ja: |-
+      上体を起こそうとした瞬間、
+      下半身に違和感を覚えた
+  d_main_04_04_e_55:
+    speaker: Self
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_04_04_e_56:
+    speaker: "<Monologue>"
+    en: Your right leg is twisted and contorted.
+    ko: 다리가 이상한 각도로 꺾여있다.
+    ja: 足がおかしな方向に曲がっている
+  d_main_04_04_e_57:
+    speaker: "<Monologue>"
+    en: It's been broken.
+    ko: "…아무래도 오른쪽 다리가 부러진 것 같다."
+    ja: "…どうやら右足が折れたようだ"
+  d_main_04_04_e_58:
+    speaker: rapi
+    en: Commander!
+    ko: 지휘관!
+    ja: 指揮官！
+  d_main_04_04_e_59:
+    speaker: anis
+    en: You'll pay for that!
+    ko: 이 자식…!
+    ja: こいつ…！
+  d_main_04_04_e_60:
+    speaker: talkative
+    en: Oh, how I hate it when they try and slink off like that.
+    ko: "[도망이라니, 유쾌하지 못하군.]"
+    ja: "「逃亡とは、愉快じゃないな」"
+  d_main_04_04_e_61:
+    speaker: talkative
+    en: Now come and face me!
+    ko: "[자, 얌전히 따라와라.]"
+    ja: "「さあ、大人しくついてこい」"
+  d_main_04_04_e_62:
+    speaker: rapi
+    en: "... Anis, Neon."
+    ko: "…아니스, 네온."
+    ja: "…アニス、ネオン。"
+  d_main_04_04_e_63:
+    speaker: rapi
+    en: I'm sorry... but you have to keep fighting.
+    ko: |-
+      미안해.
+      목숨을 걸어줘.
+    ja: |-
+      ごめん。
+      命をかけて。
+  d_main_04_04_e_64:
+    speaker: anis
+    en: Damn it.
+    ko: "…젠장."
+    ja: "…くそっ。"
+  d_main_04_04_e_65:
+    speaker: neon
+    en: "... Okay."
+    ko: "…예."
+    ja: "…はい。"
+  d_main_04_04_e_66:
+    speaker: unknown
+    en: That's very kind of you.
+    ko: 훌륭하다.
+    ja: 素晴らしい
+  d_main_04_04_e_67:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 콰아앙-!!
+    ja: ドオオン！！
+  d_main_04_04_e_68:
+    speaker: Narration
+    en: A gaping hole appears in Chatterbox's body.
+    ko: 토커티브의 몸에 거대한 구멍이 생겨났다.
+    ja: トーカティブの体に巨大な穴が開いた
+  d_main_04_04_e_69:
+    speaker: talkative
+    en: "!!"
+    ko: "[!!]"
+    ja: "「！！」"
+  d_main_04_04_e_70:
+    speaker: rapi
+    en: An anti-ship rifle...?
+    ko: 대함 라이플…?
+    ja: 対艦ライフル…？
+  d_main_04_04_e_71:
+    speaker: unknown
+    en: Just leave it to me.
+    ko: 여긴 맡겨라.
+    ja: ここは任せろ。
+  d_main_04_04_e_72:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 콰아앙-!!
+    ja: ドオオン！！
+  d_main_04_04_e_73:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 콰아앙-!!
+    ja: ドオオン！！
+  d_main_04_04_e_74:
+    speaker: talkative
+    en: Argh... A Pilgrim...?!
+    ko: "[크으…! 순례자…!]"
+    ja: "「くっ…！巡礼者…！」"
+  d_main_04_04_e_75:
+    speaker: unknown
+    en: Begone, you blasphemous creature.
+    ko: 꺼져라. 이단.
+    ja: 失せろ、異端め。
+  d_main_04_04_e_76:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 콰아앙-!!
+    ja: ドオオン！！
+  d_main_04_04_e_77:
+    speaker: talkative
+    en: The repair function can't keep up...
+    ko: "[…수복 기능이 못 따라가는 건가….]"
+    ja: "「…修復機能が間に合わない…」"
+  d_main_04_04_e_78:
+    speaker: talkative
+    en: Damn...!
+    ko: "[젠장…!]"
+    ja: "「…くっ」"
+  d_main_04_04_e_79:
+    speaker: Narration
+    en: Chatterbox suddenly disappears.
+    ko: 토커티브는 순식간에 시야에서 사라졌다.
+    ja: |-
+      トーカティブはあっという間に
+      視野から消え去った
+  d_main_04_04_e_80:
+    speaker: unknown
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_04_e_81:
+    speaker: unknown
+    en: Go home.
+    ko: 너흰 돌아가라.
+    ja: お前たちは帰れ。
+  d_main_04_04_e_82:
+    speaker: Narration
+    en: The mysterious figure disappears.
+    ko: 의문의 인물은 사라졌다.
+    ja: 謎の人物は姿を消した
+  d_main_04_04_e_83:
+    speaker: anis
+    en: "... What was that all about?"
+    ko: "…뭐야 이거."
+    ja: "…何これ。"
+  d_main_04_04_e_84:
+    speaker: rapi
+    en: Anis! Neon!
+    ko: 아니스! 네온!
+    ja: アニス！ネオン！
+  d_main_04_04_e_85:
+    speaker: rapi
+    en: Take Wardress and the Commander somewhere safe! Now!
+    ko: |-
+      워드리스와 지휘관을 데리고 안전지대로!
+      서두르자!
+    ja: |-
+      ワードレスと指揮官を連れて安全地帯へ！
+      急いで！
+  d_main_04_04_e_86:
+    speaker: anis
+    en: Who was th... huh?
+    ko: 어? 어어…!
+    ja: え？ああ…！
+  d_main_04_04_e_87:
+    speaker: anis
+    en: Oh, uh, yes! Got it!
+    ko: 어! 알겠어!
+    ja: うん！分かった！
+  d_main_04_04_e_88:
+    speaker: neon
+    en: With pleasure.
+    ko: 넵!
+    ja: はい！
+d_main_04_05:
+  d_main_04_05_1:
+    speaker: rapi
+    en: I've administered first aid,
+    ko: 응급처치는 끝났습니다.
+    ja: 応急処置は終わりました。
+  d_main_04_05_2:
+    speaker: rapi
+    en: but it's only a short-term solution. We need to get back to the Ark for proper
+      treatment.
+    ko: |-
+      하지만 어디까지나 응급처치입니다.
+      방주로 내려가 치료를 받아야 해요.
+    ja: |-
+      しかし、あくまでも応急処置です。
+      アークに戻って治療をお受けください。
+  d_main_04_05_3:
+    speaker: anis
+    en: It'll take too long to head back the way we came.
+    ko: "…왔던 길을 돌아가기엔 너무 먼데."
+    ja: "…引き返すには、もう遠すぎるから。"
+  d_main_04_05_4:
+    speaker: neon
+    en: Communications have been cut off. We can't call in a transport ship.
+    ko: |-
+      수송기를 요청할 수도 없어요.
+      통신이 단절되어 있으니까요.
+    ja: |-
+      輸送機を要請することもできません。
+      通信が遮断されていますから。
+  d_main_04_05_5:
+    speaker: anis
+    en: Plus...
+    ko: 거기다….
+    ja: それに…
+  d_main_04_05_6:
+    speaker: Narration
+    en: Anis looks at Mihara and Yuni.
+    ko: 아니스는 미하라와 유니를 바라보았다.
+    ja: アニスはミハラとユニを見た
+  d_main_04_05_7:
+    speaker: anis
+    en: Those two are banged up real bad.
+    ko: 저 둘도 부상이 너무 심해.
+    ja: あの2人も深手を負ってるわ。
+  d_main_04_05_8:
+    speaker: anis
+    en: In other words, half of our squad is out of commission.
+    ko: 여섯 중 셋이 부상이라는 거지.
+    ja: 6人中、3人が負傷してるわけ。
+  d_main_04_05_9:
+    speaker: mihara
+    en: "... Sorry."
+    ko: "…미안해."
+    ja: "…ごめんなさい。"
+  d_main_04_05_10:
+    speaker: yuni
+    en: "... Sorry."
+    ko: "…미안."
+    ja: "…ごめん。"
+  d_main_04_05_11:
+    speaker: rapi
+    en: Don't beat yourself up. We were all in over our heads.
+    ko: |-
+      신경 쓰지 마.
+      상대가 너무 규격 외였어.
+    ja: |-
+      気にしないで。
+      規格外の相手だった。
+  d_main_04_05_12:
+    speaker: anis
+    en: What should we do? Should we risk it and light up a beacon?
+    ko: |-
+      어떡할래?
+      위험하더라도 봉화를 피울까?
+    ja: |-
+      どうする？
+      危ないけど、のろしを上げたほうがいい？
+  d_main_04_05_13:
+    speaker: rapi
+    en: No. We need to keep moving forward.
+    ko: |-
+      아니.
+      전진하는 게 좋을 것 같아.
+    ja: |-
+      いや。
+      このまま前進した方がよさそう。
+  d_main_04_05_14:
+    speaker: anis
+    en: Are you serious?
+    ko: "…전진?"
+    ja: "…前進？"
+  d_main_04_05_15:
+    speaker: rapi
+    en: There's a large radio tower nearby that should have a direct line to the Ark.
+      Let's make our way there.
+    ko: |-
+      근방에 거대 전파탑이 있어.
+      그곳에서 방주와의 직통 회선을 쓰겠어.
+    ja: |-
+      近くに巨大な電波塔がある。
+      そこでアークとの直通回線を使う。
+  d_main_04_05_16:
+    speaker: anis
+    en: How long will that take?
+    ko: 가는 데 얼마나 걸릴까?
+    ja: そこまでどれくらいかかるかな。
+  d_main_04_05_17:
+    speaker: rapi
+    en: I'm not sure. Normally it would take 2 hours.
+    ko: 글쎄. 평소 때라면 2시간 정도 거리겠지만.
+    ja: そうね、通常なら2時間くらいかかるけど。
+  d_main_04_05_18:
+    speaker: anis
+    en: Given the state we're in, I'd say we'll need half a day. The longer we take,
+      the more likely we'll be going up against more Raptures.
+    ko: |-
+      반나절까지 각오해야겠네.
+      그만큼 교전 횟수도 많아질 테고.
+    ja: |-
+      半日は覚悟しないと…
+      その分、交戦回数も増えるわよ。
+  d_main_04_05_19:
+    speaker: rapi
+    en: Commander, can you do this?
+    ko: |-
+      지휘관.
+      괜찮으시겠습니까?
+    ja: |-
+      指揮官、
+      大丈夫ですか？
+  d_main_04_05_20:
+    speaker: Self
+    en: I'm okay.
+    ko: 괜찮아.
+    ja: 大丈夫だ
+  d_main_04_05_21:
+    speaker: rapi
+    en: Yuni, can you cut off the Commander's feeling in the legs?
+    ko: |-
+      유니.
+      지휘관의 다리 감각을 차단할 수 있어?
+    ja: |-
+      ユニ、
+      指揮官の足の感覚を遮断できる？
+  d_main_04_05_22:
+    speaker: yuni
+    en: Um... For a short time, yes.
+    ko: 음… 잠깐밖에 못 해.
+    ja: う～ん…ほんのちょっとの間だけなら。
+  d_main_04_05_23:
+    speaker: mihara
+    en: I can switch with the Commander. I'm a bit more well-versed in dealing with
+      pain.
+    ko: |-
+      내가 교환할게.
+      고통에는 익숙하니까.
+    ja: |-
+      私が代わるわ。
+      痛みには慣れてるから。
+  d_main_04_05_24:
+    speaker: rapi
+    en: That's not a good idea. The last thing we need is another compromised Nikke.
+    ko: |-
+      좋은 생각이 아니야.
+      전력에 너무 손실이 커.
+    ja: |-
+      あまりいい考えではない。
+      戦力の損失が大きすぎる。
+  d_main_04_05_25:
+    speaker: Self
+    en: I'll try and fight through the pain.
+    ko: 견뎌볼 테니까, 계속 가자.
+    ja: 我慢できる、どんどん行こう
+  d_main_04_05_26:
+    speaker: rapi
+    en: "... Thank you, Commander."
+    ko: "…부탁드리겠습니다."
+    ja: "…お願いします。"
+  d_main_04_05_27:
+    speaker: neon
+    en: Just try and bear through it for a little longer.
+    ko: 조금만 참아주세요.
+    ja: 少しだけ我慢してください。
+  d_main_04_05_28:
+    speaker: anis
+    en: We're all done for once we get back.
+    ko: 그런데 우리, 돌아가면 난리 나겠네.
+    ja: ところで私たち、帰ったら大変なことに\nなりそうね。
+  d_main_04_05_29:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_05_30:
+    speaker: anis
+    en: They'll never let us get away with allowing the Commander to be injured.
+    ko: |-
+      지휘관을 다치게 했으니까.
+      그냥은 안 넘어갈 거야.
+    ja: |-
+      指揮官様にケガをさせたから、
+      ただじゃ済まないわ。
+  d_main_04_05_31:
+    speaker: rapi
+    en: Now's not the time to be thinking about that.
+    ko: "…그건 나중에 생각하자."
+    ja: "…それは後で考えよう。"
+  d_main_04_05_32:
+    speaker: rapi
+    en: Our priority now is to contact the Ark.
+    ko: 지금은 연락이 우선이야.
+    ja: 今は連絡が先よ。
+d_main_04_06:
+  d_main_04_06_1:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_06_2:
+    speaker: yuni
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_06_3:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_06_4:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_06_5:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_06_6:
+    speaker: anis
+    en: Just what exactly was that thing?
+    ko: |-
+      뭐였을까?
+      그것들.
+    ja: |-
+      何だったのかしら。
+      あれは。
+  d_main_04_06_7:
+    speaker: neon
+    en: I've never heard of Raptures that could speak.
+    ko: 말을 하는 랩쳐라니, 들어본 적도 없어요.
+    ja: しゃべるラプチャーなんて、\n聞いたことないです。
+  d_main_04_06_8:
+    speaker: mihara
+    en: Your guess is as good as mine. I thought we were being ordered to capture
+      a special Rapture,
+    ko: |-
+      그러게.
+      그저 특이 개체 포획인 줄 알았는데.
+    ja: |-
+      そうね。
+      単なる特殊個体の捕獲だと思ったのに。
+  d_main_04_06_9:
+    speaker: mihara
+    en: not some organism that none of us have ever seen before.
+    ko: 완전 미지의 뭔가가 나올 줄은 몰랐어.
+    ja: 完全なる未知の存在に遭遇するとはね。
+  d_main_04_06_10:
+    speaker: neon
+    en: Was that even a Rapture?
+    ko: 랩쳐가 맞긴 한 걸까요?
+    ja: ラプチャーで間違いないのでしょうか。
+  d_main_04_06_11:
+    speaker: anis
+    en: Then there was that other Nikke.
+    ko: 그리고 그 니케.
+    ja: それと、あのニケ。
+  d_main_04_06_12:
+    speaker: anis
+    en: Who was she? She was using an anti-ship rifle entirely on her own...
+    ko: |-
+      걔는 또 뭐야?
+      대함 라이플을 단독 운용하는 니케라니.
+    ja: |-
+      あいつは何？
+      対艦ライフルを単独で使うニケなんて。
+  d_main_04_06_13:
+    speaker: neon
+    en: It certainly packed a punch.
+    ko: 그야말로 화력의 극치 같은 느낌이었죠.
+    ja: 火力の化身のようなニケでしたね。
+  d_main_04_06_14:
+    speaker: anis
+    en: I'm starting to think we're not the only ones involved in whatever's going
+      on here.
+    ko: |-
+      애초에 이 작전.
+      우리끼리만 하는 거 맞아?
+    ja: |-
+      大体この作戦、
+      本当に私たちだけでやってるの？
+  d_main_04_06_15:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_06_16:
+    speaker: mihara
+    en: There is so much to report and so much to ask after we get back.
+    ko: |-
+      돌아가서 보고할게 한가득이네.
+      물어볼 것도 한가득이고.
+    ja: |-
+      後で報告することがたくさんあるわ。
+      聞きたいことも山積みだし。
+  d_main_04_06_17:
+    speaker: anis
+    en: So you don't know anything?
+    ko: 아무것도 모른다는 얘기네.
+    ja: 何も知らないってことなの？
+  d_main_04_06_18:
+    speaker: mihara
+    en: Unfortunately, no.
+    ko: 아쉽게도 말이야.
+    ja: 残念ながら、そうね。
+  d_main_04_06_19:
+    speaker: anis
+    en: I'm afraid of going back...
+    ko: 아, 돌아가기 겁난다 진짜.
+    ja: はあ、帰るのが怖いよね。
+  d_main_04_06_20:
+    speaker: anis
+    en: Forget about that. Commander, how are you? Can you still walk?
+    ko: |-
+      그건 그렇고 지휘관님.
+      어떻게, 걸을만해?
+    ja: |-
+      というか、指揮官様。
+      どう？ちゃんと歩ける？
+  d_main_04_06_21:
+    speaker: Self
+    en: Yes, I can.
+    ko: 걸을만해.
+    ja: 歩ける
+  d_main_04_06_22:
+    speaker: anis
+    en: Would it be better if we carry you?
+    ko: 역시 업는 게 낫지 않아?
+    ja: やっぱり、おんぶした方がいいわ。
+  d_main_04_06_23:
+    speaker: rapi
+    en: No. If we do that, we'll be able to get caught off guard more easily.
+    ko: |-
+      안돼.
+      기습에 대응할 수 없어.
+    ja: |-
+      ダメよ。
+      不意打ちに対応できない。
+  d_main_04_06_24:
+    speaker: rapi
+    en: Commander, you can lean on us while you walk. Just hang in there.
+    ko: |-
+      지휘관.
+      힘드시겠지만, 부축 정도로 참아주십시오.
+    ja: |-
+      指揮官。
+      辛いでしょうが、もう少しの辛抱です。
+  d_main_04_06_25:
+    speaker: Self
+    en: No problem.
+    ko: 난 신경 쓰지 마. 문제없어.
+    ja: 私のことは心配するな。大丈夫だ
+  d_main_04_06_26:
+    speaker: mihara
+    en: This guy's one tough cookie.
+    ko: "…강한 사람이네."
+    ja: "…強い人ね。"
+d_main_04_07:
+  d_main_04_07_1:
+    speaker: rapi
+    en: Let me try to get through to the Ark.
+    ko: 방주와 통신을 시도해보겠습니다.
+    ja: アークと通信を試みてみます。
+  d_main_04_07_2:
+    speaker: rapi
+    en: You sit back and rest.
+    ko: 그동안 잠깐 휴식을 취해주십시오.
+    ja: それまで、少しお休みください。
+  d_main_04_07_3:
+    speaker: rapi
+    en: Anis, Neon, keep your eyes peeled.
+    ko: |-
+      아니스, 네온.
+      경계를 부탁해.
+    ja: |-
+      アニス、ネオン。
+      警戒をお願い。
+  d_main_04_07_4:
+    speaker: anis
+    en: Okay.
+    ko: OK.
+    ja: オッケー。
+  d_main_04_07_5:
+    speaker: neon
+    en: Roger.
+    ko: 예.
+    ja: はい。
+  d_main_04_07_6:
+    speaker: Narration
+    en: Anis and Neon leave.
+    ko: 아니스와 네온은 자리를 벗어났다.
+    ja: アニスとネオンが持ち場を離れた
+  d_main_04_07_7:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_07_8:
+    speaker: yuni
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_07_9:
+    speaker: mihara
+    en: We let Chatterbox get away.
+    ko: |-
+      놓쳐버렸네.
+      토커티브.
+    ja: |-
+      逃がしてしまったわ、
+      トーカティブ。
+  d_main_04_07_10:
+    speaker: yuni
+    en: I'm sorry... I was useless back there.
+    ko: 응. 유니 아무것도 못 했어.
+    ja: うん。ユニ、どうすることもできなかった。
+  d_main_04_07_11:
+    speaker: mihara
+    en: A Rapture Retrieval Squad that can't even catch a Rapture...
+    ko: 랩쳐 포획 스쿼드가 랩쳐를 포획하지 못 했다라….
+    ja: |-
+      ラプチャー捕獲分隊が
+      ラプチャーを逃がしてしまった…
+  d_main_04_07_12:
+    speaker: yuni
+    en: Are they going to discard us?
+    ko: 우리 폐기되는 거야?
+    ja: ユニたち、廃棄されるの？
+  d_main_04_07_13:
+    speaker: mihara
+    en: Well, that all depends on Syuen.
+    ko: 후후. 슈엔이 어떤 생각을 하고 있을지에 달렸겠지?
+    ja: ふふ、それはシュエンの考え次第だわ。
+  d_main_04_07_14:
+    speaker: yuni
+    en: They can't do that to us! I want to stay with you, Mihara.
+    ko: |-
+      유니는 폐기되기 싫어.
+      미하라랑 헤어지기 싫은걸.
+    ja: |-
+      ユニは廃棄されたくないよ。
+      ミハラと離れたくない。
+  d_main_04_07_15:
+    speaker: mihara
+    en: "... So do I."
+    ko: |-
+      …그래.
+      나도 그래.
+    ja: |-
+      …そうね。
+      私もそうよ。
+  d_main_04_07_16:
+    speaker: yuni
+    en: Commander, help us.
+    ko: 지휘관이 우리 폐기 안 되게 도와줘.
+    ja: 指揮官、ユニたちが廃棄されないように助けて。
+  d_main_04_07_17:
+    speaker: Self
+    en: I'll help you.
+    ko: 내가 도와줄게.
+    ja: 私が助ける
+  d_main_04_07_18:
+    speaker: mihara
+    en: How exactly do you plan on doing that?
+    ko: 후후. 뭘 어떻게 도와줄 생각일까?
+    ja: ふふ、何をどう助けてくれるのかしら。
+  d_main_04_07_19:
+    speaker: Self
+    en: By doing whatever I can.
+    ko: "…어떻게든 도와줄게."
+    ja: "…何としてでも助ける"
+  d_main_04_07_20:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_07_21:
+    speaker: mihara
+    en: Fair enough. I believe you.
+    ko: |-
+      후후. 그래.
+      믿고 있을게.
+    ja: |-
+      ふふ、そうね。
+      信じてるわ。
+  d_main_04_07_22:
+    speaker: rapi
+    en: Commander.
+    ko: 지휘관.
+    ja: 指揮官。
+  d_main_04_07_23:
+    speaker: rapi
+    en: I've gotten through to Shifty.
+    ko: 시프티와 연결이 됐습니다.
+    ja: シフティーと繋がりました。
+  d_main_04_07_24:
+    speaker: Self
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_04_07_25:
+    speaker: rapi
+    en: I briefed her on the current situation. She says she wants to talk to you.
+    ko: |-
+      간단하게 현 상황에 대해선 보고했습니다만.
+      지휘관과 대화를 하고 싶다고 합니다.
+    ja: |-
+      今の状況について簡単に報告しました。
+      指揮官と話がしたいとのことです。
+  d_main_04_07_26:
+    speaker: rapi
+    en: Here.
+    ko: 받으시죠.
+    ja: どうぞ。
+  d_main_04_07_27:
+    speaker: Self
+    en: You take over the communication equipment.
+    ko: 통신을 넘겨받는다.
+    ja: ラピと通信を交代した
+  d_main_04_07_28:
+    speaker: shifty_c
+    en: What in the world do you think you're doing?!
+    ko: 지금 뭐 하는 짓이에요!!
+    ja: いったいどういうおつもりなんですか！！
+  d_main_04_07_29:
+    speaker: Self
+    en: I...
+    ko: "…??"
+    ja: "…？？"
+  d_main_04_07_30:
+    speaker: shifty_c
+    en: You went to the surface without filing a report? Have you lost your mind?!
+    ko: 아무런 보고도 없이 지상으로 올라가다니 제정신이세요!?
+    ja: |-
+      何の報告もなく地上に上がるなんて、
+      正気ですか？
+  d_main_04_07_31:
+    speaker: shifty_c
+    en: Not only that, but you brought Nikkes with you? These are all serious crimes
+      punishable by law!
+    ko: |-
+      거기다 니케 사용까지…!
+      군법 회의감이라고요!
+    ja: |-
+      それにニケまで使って…！
+      軍法会議にかけられますよ！
+  d_main_04_07_32:
+    speaker: Self
+    en: Syuen...
+    ko: 슈엔이….
+    ja: シュエンが…
+  d_main_04_07_33:
+    speaker: shifty_c
+    en: |-
+      ... Syuen?
+      You mean Director Syuen?
+    ko: |-
+      …슈엔?
+      슈엔 회장 말인가요?
+    ja: |-
+      …シュエン？
+      シュエン会長ですか？
+  d_main_04_07_34:
+    speaker: shifty_c
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_07_35:
+    speaker: shifty_c
+    en: I see. I'm sure there's been some kind of mistake. I'll make a report to Mr.
+      Andersen.
+    ko: |-
+      알겠어요. 뭔가 엮여있군요.
+      이건 엔더슨 부사령관께 보고할게요.
+    ja: "分かりました、何か絡んでいますね。 \nアンダーソン副司令官に報告します！"
+  d_main_04_07_36:
+    speaker: shifty_c
+    en: So what's the situation on your end now?
+    ko: 그래서, 지금 상태가 어떤가요?
+    ja: それで、状況はどうですか？
+  d_main_04_07_37:
+    speaker: Self
+    en: Two injured, and my leg is broken.
+    ko: 부상자가 둘이야. 난 다리가 부러졌고.
+    ja: 負傷者が2人いる。私は足をケガした
+  d_main_04_07_38:
+    speaker: shifty_c
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_07_39:
+    speaker: shifty_c
+    en: This is crazy.
+    ko: 미치겠네.
+    ja: はあ…
+  d_main_04_07_40:
+    speaker: shifty_c
+    en: There's a runway 10 minutes from you by foot. I'll send a transport ship out
+      there.
+    ko: |-
+      10분 거리에 부서진 활주로가 있을 거예요.
+      그곳으로 수송기를 보낼게요.
+    ja: |-
+      そこから10分ほど歩くと、
+      崩壊した滑走路があるはずです！
+      そこへ輸送機を送ります！
+  d_main_04_07_41:
+    speaker: shifty_c
+    en: Regardless, you'll face the consequences of your actions upon your return.
+    ko: 어쨌든, 각오 단단히 하고 복귀하세요.
+    ja: とにかく、覚悟して帰還してください！
+  d_main_04_07_42:
+    speaker: shifty_c
+    en: This is no small matter.
+    ko: 이거 보통 일이 아닐 테니까.
+    ja: これ、タダでは済みませんから！
+  d_main_04_07_43:
+    speaker: shifty_c
+    en: That's all for now.
+    ko: 끊을게요.
+    ja: 切りますね！
+  d_main_04_07_44:
+    speaker: Narration
+    en: With a click, the communication is cut off.
+    ko: 뚝. 하고 통신이 끊어졌다.
+    ja: ブツンと通信が切れた
+  d_main_04_07_45:
+    speaker: Self
+    en: "... Let's go."
+    ko: "…이동할까?"
+    ja: "…移動しようか"
+  d_main_04_07_46:
+    speaker: rapi
+    en: "... Roger."
+    ko: "…라져."
+    ja: "…ラジャー。"
+d_main_04_08:
+  d_main_04_08_1:
+    speaker: Narration
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  d_main_04_08_2:
+    speaker: "<Monologue>"
+    en: You've received a text message.
+    ko: 메시지가 온 모양이다.
+    ja: メッセージが来たみたいだ
+  d_main_04_08_3:
+    speaker: "<Monologue>"
+    en: It must be Syuen.
+    ko: 아마도 슈엔인 것 같다.
+    ja: シュエンだろう
+  d_main_04_08_4:
+    speaker: "<Monologue>"
+    en: The communication is cut off.
+    ko: 통신이 끊겼다.
+    ja: 通信が切れた
+  d_main_04_08_5:
+    speaker: "<Monologue>"
+    en: It's starting to feel like you're in over your head.
+    ko: "…뭔가 일이 복잡해지는 것 같다."
+    ja: "…何だか厄介なことになりそうだ"
+d_main_04_09_s:
+  d_main_04_09_s_1:
+    speaker: neon
+    en: Wow, I've never seen such a wide open space.
+    ko: |-
+      와아.
+      이렇게 탁 트인 곳이라니.
+    ja: |-
+      わあ。
+      こんなに広々とした場所があったんですね。
+  d_main_04_09_s_2:
+    speaker: neon
+    en: The surface isn't so bad after all.
+    ko: 역시 지상은 좋네요.
+    ja: やっぱり地上はいいですね。
+  d_main_04_09_s_3:
+    speaker: neon
+    en: Hmm? Hey Rapi, Anis.
+    ko: |-
+      …응?
+      라피, 아니스.
+    ja: |-
+      …ん？
+      ラピ、アニス。
+  d_main_04_09_s_4:
+    speaker: neon
+    en: Look at all that dust over there.
+    ko: 저 멀리서 먼지 구름이 일어나고 있어요.
+    ja: 遠くの方で砂嵐が発生していますね！
+  d_main_04_09_s_5:
+    speaker: neon
+    en: This place isn't even a desert, and it's still got sandstorms? That's awesome!
+    ko: |-
+      사막도 아닌데도 모래 폭풍이 일어나는군요!
+      역시 지상은 신기해요!
+    ja: |-
+      砂漠でもないのに、砂嵐が起こるんですね！
+      やっぱり地上は不思議です！
+  d_main_04_09_s_6:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_09_s_7:
+    speaker: anis
+    en: "... Rapi."
+    ko: "…라피."
+    ja: "…ラピ。"
+  d_main_04_09_s_8:
+    speaker: rapi
+    en: "... Raptures."
+    ko: "…랩쳐다."
+    ja: "…ラプチャーだ。"
+  d_main_04_09_s_9:
+    speaker: neon
+    en: What?!
+    ko: "…예?"
+    ja: "…はい？"
+  d_main_04_09_s_10:
+    speaker: rapi
+    en: Approximately...
+    ko: 수는 대략….
+    ja: 数は恐らく…
+  d_main_04_09_s_11:
+    speaker: rapi
+    en: 200 or so.
+    ko: 200기 정도인가.
+    ja: 200機くらいか。
+  d_main_04_09_s_12:
+    speaker: mihara
+    en: "... Oh my."
+    ko: "…어머나."
+    ja: "…あら。"
+  d_main_04_09_s_13:
+    speaker: rapi
+    en: FF formation.
+    ko: 포메이션 FF.
+    ja: フォーメーションFF。
+  d_main_04_09_s_14:
+    speaker: rapi
+    en: The transport ship should be here any minute. Just hang tight.
+    ko: |-
+      …수송기가 곧 올 거야.
+      버텨보자.
+    ja: |-
+      …すぐに輸送機がくる。
+      もう少しの辛抱よ。
+  d_main_04_09_s_15:
+    speaker: anis
+    en: We just can't catch a break, can we?
+    ko: 진짜, 어제오늘 운 안 좋네.
+    ja: 本当に、昨日と今日はツイてないね。
+  d_main_04_09_s_16:
+    speaker: neon
+    en: It makes sense.
+    ko: 저 있잖아요.
+    ja: 私はですね、
+  d_main_04_09_s_17:
+    speaker: neon
+    en: |-
+      The first trip to the ground seems to be the worst, and it's my first time here.
+      What do you think?
+    ko: |-
+      첫 지상 나들이치곤 최악인 것 같은데,
+      두 분은 어떻게 생각하시나요?
+    ja: |-
+      せっかく初めての地上へのお出かけなのに、\n何なんですかこれ。
+      お二人はどう思われます？
+  d_main_04_09_s_18:
+    speaker: anis
+    en: Well, we aren't dead yet, so it could always be worse.
+    ko: |-
+      아직 안 죽었잖아.
+      그럼 최악은 아니지 뭐.
+    ja: |-
+      まだ生きてるから
+      最悪じゃないでしょ。
+  d_main_04_09_s_19:
+    speaker: neon
+    en: Oh... okay...
+    ko: 와. 그렇군요.
+    ja: あ、そうですね。
+  d_main_04_09_s_20:
+    speaker: rapi
+    en: Entering combat range in 30 seconds.
+    ko: 30초 후 교전 거리에 들어온다.
+    ja: 30秒後、交戦距離に入る。
+  d_main_04_09_s_21:
+    speaker: rapi
+    en: Get ready, everyone.
+    ko: 다들, 준비해.
+    ja: みんな、準備して。
+d_main_04_09_e:
+  d_main_04_09_e_1:
+    speaker: anis
+    en: Don't these things ever quit?! We can't keep this up much longer!
+    ko: |-
+      이거 죽겠는데?
+      이 자식들 끝이 없잖아!
+    ja: |-
+      こっちはもう、死にそうよ？
+      だってこいつら、キリがないもの！
+  d_main_04_09_e_2:
+    speaker: neon
+    en: How much time until the transport ship arrives?
+    ko: 수송기는 아직 멀었나요?
+    ja: 輸送機はまだですか？
+  d_main_04_09_e_3:
+    speaker: rapi
+    en: There it is!
+    ko: "…왔다!"
+    ja: "…来た！"
+  d_main_04_09_e_4:
+    speaker: "<Monologue>"
+    en: A transport ship appears above the sky.
+    ko: 상공에 수송기의 모습이 보였다.
+    ja: 上空に輸送機の姿が見えた
+  d_main_04_09_e_5:
+    speaker: "<Monologue>"
+    en: Without a moment's hesitation, the Raptures spring into action.
+    ko: 그리고 그와 동시에 랩쳐들이 일사불란하게 움직이기 시작했다.
+    ja: そしてそれと同時にラプチャーたちが一糸乱れず動き始めた
+  d_main_04_09_e_6:
+    speaker: Self
+    en: Anti-air weapons!
+    ko: 대공 화기다!
+    ja: 対空火器だ！
+  d_main_04_09_e_7:
+    speaker: rapi
+    en: Anti-air weapons confirmed, 10 o'clock.
+    ko: |-
+      10시 방향!
+      대공 화기 확인!
+    ja: |-
+      10時の方向！
+      対空火器を確認！
+  d_main_04_09_e_8:
+    speaker: rapi
+    en: Everyone concentrate your fire! Protect the transport ship!
+    ko: |-
+      화력 집중!
+      수송기를 지켜!
+    ja: |-
+      火力集中！
+      輸送機を守れ！
+  d_main_04_09_e_9:
+    speaker: anis
+    en: Damn it, there're too many of them!
+    ko: 에잇! 막고 있는 놈들이 너무 많아!
+    ja: えい！邪魔が多すぎる！
+  d_main_04_09_e_10:
+    speaker: neon
+    en: It's because we're at an intersection!
+    ko: 사거리가…!
+    ja: 射程距離が…！
+  d_main_04_09_e_11:
+    speaker: rapi
+    en: Just my luck!
+    ko: 칫…!
+    ja: ちっ。
+  d_main_04_09_e_12:
+    speaker: "<Monologue>"
+    en: The moment Rapi intends to break through the encirclement,
+    ko: 라피가 자리를 박차고 달려나가려는 순간.
+    ja: ラピが地面を蹴って飛び出そうとした瞬間
+  d_main_04_09_e_13:
+    speaker: "<Monologue>"
+    en: a beam of light flashes from the transport ship.
+    ko: 수송기에서 빛이 번쩍하고 터져 나왔다.
+    ja: 輸送機から閃光が放たれた
+  d_main_04_09_e_14:
+    speaker: "<Monologue>"
+    en: The Rapture carrying the anti-air weapon is blown to smithereens.
+    ko: 그 순간 대공 화기를 가진 랩쳐가 산산이 부서졌다.
+    ja: |-
+      その瞬間、対空火器を持っていた
+      ラプチャーが粉々になった
+  d_main_04_09_e_15:
+    speaker: rapi
+    en: A long-range rifle!
+    ko: 초장거리 저격…!
+    ja: 超長距離からの狙撃…！
+  d_main_04_09_e_16:
+    speaker: mihara
+    en: From that distance?
+    ko: "…저 거리에서?"
+    ja: "…あの距離から？"
+  d_main_04_09_e_17:
+    speaker: anis
+    en: Is the transport ship equipped with that kind of weapon?
+    ko: 뭐야. 수송기에 저런 무장이 있었어?
+    ja: どういうこと？輸送機にあんな武装あったの？
+  d_main_04_09_e_18:
+    speaker: rapi
+    en: No, there's only one squad who can pull off that shot.
+    ko: |-
+      아니!
+      이런 짓을 할 수 있는 건 단 한 명뿐이야!
+    ja: |-
+      いや！
+      こんなことができるのは一人しかいない！
+  d_main_04_09_e_19:
+    speaker: rapi
+    en: It's the Scouts!
+    ko: 앱솔루트가 온다!
+    ja: アブソルートが来る！
+  d_main_04_09_e_20:
+    speaker: "<Monologue>"
+    en: The fast-moving transport ship stops above you.
+    ko: 빠르게 다가온 수송기는 우리의 머리 위에 멈춰 섰다.
+    ja: もの凄いスピードで接近してきた\n輸送機が頭上で止まった
+  d_main_04_09_e_21:
+    speaker: Narration
+    en: "*Clunk clunk clunk*"
+    ko: 쿵! 쿵! 쿵!
+    ja: バン！バン！バン！
+  d_main_04_09_e_22:
+    speaker: "<Monologue>"
+    en: A clunking sound rang across the vicinity as thick plumes of dust swirl in
+      the air, obscuring your vision.
+    ko: 둔탁한 소리와 함께 짙은 먼지가 눈앞에 일어났다.
+    ja: 鈍い音と共に濃い砂埃が目の前を覆った
+  d_main_04_09_e_23:
+    speaker: "<Monologue>"
+    en: The dust disperses shortly thereafter, and three Nikkes appear.
+    ko: 이윽고 먼지가 걷히며, 셋의 니케가 모습을 드러냈다.
+    ja: |-
+      しばらくして砂埃がなくなり、
+      3人のニケが現れた
+  d_main_04_09_e_24:
+    speaker: eunhwa
+    en: Descent complete.
+    ko: |-
+      앱솔루트.
+      강하 완료.
+    ja: |-
+      アブソルート。
+      降下完了。
+  d_main_04_09_e_25:
+    speaker: vesti
+    en: Oh, we almost died.
+    ko: 으아, 주, 죽을 뻔했다.
+    ja: わっ、し、死ぬかと思った。
+  d_main_04_09_e_26:
+    speaker: emma
+    en: Man, this place is crawling with Raptures.
+    ko: 와아~ 랩쳐가 엄청 많네.
+    ja: わあ～ラプチャーがいっぱい～
+  d_main_04_09_e_27:
+    speaker: mihara
+    en: "... Absolute, the strongest squad Elysion has to offer."
+    ko: |-
+      …앱솔루트.
+      엘리시온의 최강 스쿼드.
+    ja: |-
+      …アブソルート。
+      エリシオンの最強分隊。
+  d_main_04_09_e_28:
+    speaker: anis
+    en: Talk about some major backup!
+    ko: 지원군 한번 엄청 빵빵하네.
+    ja: すごい援軍ね。
+  d_main_04_09_e_29:
+    speaker: eunhwa
+    en: 153 enemy aircraft, heading this direction.
+    ko: |-
+      적기.
+      153기로 확인.
+    ja: |-
+      敵機。
+      153機と確認。
+  d_main_04_09_e_30:
+    speaker: eunhwa
+    en: FF formation.
+    ko: 포메이션 FF.
+    ja: フォーメーションFF。
+  d_main_04_09_e_31:
+    speaker: eunhwa
+    en: You know what to do.
+    ko: 빠르게 정리하자.
+    ja: すぐに片付ける。
+  d_main_04_09_e_32:
+    speaker: vesti
+    en: Like this?
+    ko: 으, 응.
+    ja: う、うん。
+  d_main_04_09_e_33:
+    speaker: emma
+    en: Got it.
+    ko: 알~겠습니다.
+    ja: 分かりましたぁ～
+  d_main_04_09_e_34:
+    speaker: eunhwa
+    en: Engaging!
+    ko: 인카운터.
+    ja: エンカウンター。
+  d_main_04_09_e_35:
+    speaker: Narration
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_main_04_09_e_36:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_09_e_37:
+    speaker: mihara
+    en: That was amazing! They wiped them all out.
+    ko: |-
+      …굉장하네.
+      다 처리했어.
+    ja: |-
+      …すごいわね。
+      全部倒したわ。
+  d_main_04_09_e_38:
+    speaker: eunhwa
+    en: Enemy neutralized.
+    ko: 상황 종료.
+    ja: 状況終了！
+  d_main_04_09_e_39:
+    speaker: eunhwa
+    en: We can land now.
+    ko: 착지해도 돼.
+    ja: 着地しろ。
+  d_main_04_09_e_40:
+    speaker: Narration
+    en: The transport ship starts to descend.
+    ko: 수송기가 하강하기 시작했다.
+    ja: 輸送機が下降を始めた
+  d_main_04_09_e_41:
+    speaker: Self
+    en: Thank you for saving me.
+    ko: 덕분에 살았어. 고맙….
+    ja: おかげで助かった。ありが…
+  d_main_04_09_e_42:
+    speaker: eunhwa
+    en: Don't talk to me.
+    ko: 말 걸지 마.
+    ja: 話しかけるな。
+  d_main_04_09_e_43:
+    speaker: eunhwa
+    en: It was only because I was following orders.
+    ko: 명령이라서 응했을 뿐이니까.
+    ja: 命令に従っただけだ。
+  d_main_04_09_e_44:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_main_04_09_e_45:
+    speaker: vesti
+    en: Um... Eunhwa... you DO know that one's a Commander, right?
+    ko: |-
+      으, 은화.
+      아무리 그래도 지휘관님인데….
+    ja: |-
+      ウ、ウンファ。
+      いくら何でも指揮官様に…
+  d_main_04_09_e_46:
+    speaker: eunhwa
+    en: Your point is...?
+    ko: 뭐.
+    ja: ああ？
+  d_main_04_09_e_47:
+    speaker: vesti
+    en: Well... don't you think...
+    ko: |-
+      아, 아니….
+      그게….
+    ja: |-
+      だ、だから…
+      それは…
+  d_main_04_09_e_48:
+    speaker: eunhwa
+    en: Spit it out, will you?
+    ko: |-
+      말 똑바로 안 해?
+      그래서 뭐.
+    ja: |-
+      ちゃんとしゃべれ。
+      それが何だと。
+  d_main_04_09_e_49:
+    speaker: vesti
+    en: Nothing... It's nothing.
+    ko: 아냐… 아무것도.
+    ja: いえ…何でもない…
+  d_main_04_09_e_50:
+    speaker: eunhwa
+    en: Tsk.
+    ko: 쯧.
+    ja: チッ。
+  d_main_04_09_e_51:
+    speaker: emma
+    en: Rapi!
+    ko: 라아피이~
+    ja: ラァピィ～
+  d_main_04_09_e_52:
+    speaker: rapi
+    en: Emma! Long time no see.
+    ko: "…오랜만이야. 엠마."
+    ja: "…久しぶり、エマ。"
+  d_main_04_09_e_53:
+    speaker: Narration
+    en: Emma hugs Rapi.
+    ko: 엠마는 라피를 끌어안았다.
+    ja: エマはラピを抱き寄せた
+  d_main_04_09_e_54:
+    speaker: emma
+    en: Hey, what's the big idea? You left last time without even saying goodbye!
+    ko: |-
+      그때 말도 없이 가버리고.
+      내가 얼마나 섭섭했는지 알아?
+    ja: |-
+      この間は、挨拶なしで帰っちゃって、
+      本当に寂しかったのよ〜？
+  d_main_04_09_e_55:
+    speaker: rapi
+    en: "... Sorry."
+    ko: "…미안해."
+    ja: "…ごめんなさい。"
+  d_main_04_09_e_56:
+    speaker: emma
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04_09_e_57:
+    speaker: emma
+    en: Well, you seem to be doing well, and that's good enough for me.
+    ko: |-
+      그래도 잘 지내고 있는 것 같아서 다행이네.
+      안심했어.
+    ja: |-
+      でも、ちゃんとやっているみたいで〜
+      とっても安心したのぉ。
+  d_main_04_09_e_58:
+    speaker: rapi
+    en: I... seem good?
+    ko: 잘… 지내고 있는 걸까.
+    ja: ちゃんと…やれているのかは分からないけど。
+  d_main_04_09_e_59:
+    speaker: emma
+    en: Your expression has changed.
+    ko: 표정이 달라졌는걸.
+    ja: 顔つき、変わったもん〜
+  d_main_04_09_e_60:
+    speaker: rapi
+    en: Me?
+    ko: 내가?
+    ja: 私が？
+  d_main_04_09_e_61:
+    speaker: emma
+    en: Yes.
+    ko: 응.
+    ja: うん。
+  d_main_04_09_e_62:
+    speaker: emma
+    en: So did you finally find it?
+    ko: |-
+      찾은 모양이구나?
+      드디어.
+    ja: |-
+      見つけたのね？
+      ようやく〜
+  d_main_04_09_e_63:
+    speaker: rapi
+    en: I'm not sure yet.
+    ko: "…아직, 확실하진 않지만."
+    ja: "…まだ、定かではないけど。"
+  d_main_04_09_e_64:
+    speaker: emma
+    en: Too bad. Either way, I just want you to be happy.
+    ko: |-
+      우후후. 그럼 됐어.
+      난 라피만 행복하면 되니까.
+    ja: |-
+      うふふ、それでいいの。
+      私はラピが幸せならそれで十分よ。
+  d_main_04_09_e_65:
+    speaker: vesti
+    en: Ra-Rapi, how are you doing?
+    ko: |-
+      라, 라피.
+      잘 지냈어?
+    ja: |-
+      ラ、ラピ。
+      元気？
+  d_main_04_09_e_66:
+    speaker: rapi
+    en: Vesti.
+    ko: 베스티.
+    ja: ベスティー。
+  d_main_04_09_e_67:
+    speaker: vesti
+    en: Oh boy... the tears... here they come...
+    ko: |-
+      어어어 어떡하지?
+      나 눈물 나올 것 같아.
+    ja: |-
+      どどど、どうしよう。
+      涙が出そう。
+  d_main_04_09_e_68:
+    speaker: rapi
+    en: I see you all haven't changed a bit.
+    ko: "…여전하구나. 넌."
+    ja: "…あなたはちっとも変わってない。"
+  d_main_04_09_e_69:
+    speaker: eunhwa
+    en: That's enough chit-chat.
+    ko: 너희들, 저거랑 말 섞지 마.
+    ja: お前ら、あれとしゃべるな。
+  d_main_04_09_e_70:
+    speaker: rapi
+    en: "... Eunhwa."
+    ko: "…은화."
+    ja: "…ウンファ。"
+  d_main_04_09_e_71:
+    speaker: eunhwa
+    en: Your reputation truly precedes you, Rapi.
+    ko: 넌 볼 때마다 문제에 휘말려있네.
+    ja: お前は会うたびに、\nトラブルに巻き込まれているな。
+  d_main_04_09_e_72:
+    speaker: eunhwa
+    en: Every single time we meet, you're getting yourself into a different jam.
+    ko: 그러니까 불량품 소리를 듣는 거야.
+    ja: だから不良品と言われるんだ。
+  d_main_04_09_e_73:
+    speaker: anis
+    en: Come again?
+    ko: "??"
+    ja: "？？"
+  d_main_04_09_e_74:
+    speaker: eunhwa
+    en: You act like the entire world is your playground, but all you're doing is
+      making everyone's lives more difficult.
+    ko: |-
+      그렇게 잘난 듯 떠들어대더니 결국엔
+      이런 곳에서 사고나 치고 있는 거냐.
+    ja: |-
+      あんなに偉そうなことを言っておいて、
+      結局、事故ばかり起こしてる。
+  d_main_04_09_e_75:
+    speaker: eunhwa
+    en: Then again, that's typical of you, isn't it? I see you haven't changed much
+      either.
+    ko: 너답다고 할까, 여전하다고 할까.
+    ja: 相変わらずお前らしい。
+  d_main_04_09_e_76:
+    speaker: eunhwa
+    en: Either way, you're still just a defective
+    ko: 어쨌든, 다행이야.
+    ja: とにかく、良かったな。
+  d_main_04_09_e_77:
+    speaker: eunhwa
+    en: that should be recycled for spare parts.
+    ko: 네가 여전히 불량품이라서.
+    ja: お前が相変わらず不良品で。
+  d_main_04_09_e_78:
+    speaker: anis
+    en: Hey, watch your mouth!
+    ko: 이봐, 말 좀 가려서 하지?
+    ja: ちょっとは、言葉を控えたらどうなの？
+  d_main_04_09_e_79:
+    speaker: eunhwa
+    en: Butt out. Can't you see the adults are talking?
+    ko: |-
+      끼어들지 마. 삼류 니케.
+      내가 얘기하고 있잖아.
+    ja: |-
+      割り込むな、三流ニケ。
+      私がしゃべってるだろうが。
+  d_main_04_09_e_80:
+    speaker: anis
+    en: Emm... her character is no joke.
+    ko: 와 얘 성격 장난 아니네.
+    ja: うわ、嫌なヤツ。
+  d_main_04_09_e_81:
+    speaker: emma
+    en: There she goes again...
+    ko: 에이~ 은화는 또 그런다.
+    ja: もう～ウンファったら、またそんなこと言って。
+  d_main_04_09_e_82:
+    speaker: emma
+    en: I apologize for Eunhwa's behavior.
+    ko: |-
+      미안해.
+      내가 대신 사과할게.
+    ja: |-
+      ごめんなさい〜
+      私が代わりに謝るわぁ。
+  d_main_04_09_e_83:
+    speaker: emma
+    en: She doesn't take too kindly to strangers.
+    ko: 우리 리더가 성격이 좀 못돼서. 응?
+    ja: うちのリーダーは〜ちょっと性格が悪いの、ね？
+  d_main_04_09_e_84:
+    speaker: eunhwa
+    en: Hey, stop talking nonsense.
+    ko: 야, 쓸데없는 소리 하지 마.
+    ja: おい、余計なことを言うな。
+  d_main_04_09_e_85:
+    speaker: emma
+    en: What, you can't tell me that's not the truth!
+    ko: 사실인 걸 어떡해.
+    ja: でも事実なのよぉ。
+  d_main_04_09_e_86:
+    speaker: eunhwa
+    en: "... Tsk."
+    ko: "…쯧."
+    ja: "…チッ。"
+  d_main_04_09_e_87:
+    speaker: eunhwa
+    en: Get on the plane.
+    ko: 타.
+    ja: 乗れ。
+  d_main_04_09_e_88:
+    speaker: eunhwa
+    en: We're heading back to the Ark.
+    ko: 방주로 복귀한다.
+    ja: アークに戻る。
+d_main_04af_01:
+  d_main_04af_01_1:
+    speaker: enikk
+    en: First, you went to the surface to carry out an operation without any prior
+      report.
+    ko: |-
+      제1.
+      상부에 보고하지 않고 지상에서의 작전을 수행한 점.
+    ja: |-
+      第一。
+      上部に報告せず、地上での作戦を遂行したこと。
+  d_main_04af_01_2:
+    speaker: enikk
+    en: Second, you brought five Nikke along with you, far more than was necessary.
+    ko: |-
+      제2.
+      다섯 기의 니케를 대동하여 방주 내 전력을 손실시킨 점.
+    ja: |-
+      第二。
+      5機のニケを伴い、\nアークの戦力を低下させたこと。
+  d_main_04af_01_3:
+    speaker: enikk
+    en: Third, despite this, your intentions were indeed an attempt to bring peace
+      to mankind.
+    ko: |-
+      제3.
+      단, 그 의도가 인류 평화에 이바지하기 위함이었다는 점.
+    ja: |-
+      第三。
+      ただし、その意図は人類の平和に\n貢献するためであったこと。
+  d_main_04af_01_4:
+    speaker: enikk
+    en: On the basis of these facts, a search has shown that there are two cases perfectly
+      matching this incident.
+    ko: |-
+      위 사항을 기반으로 하여 과거의 사례를 조사한 결과
+      100% 일치하는 케이스가 2건이 존재했으며.
+    ja: |-
+      上記の事実を元に過去の事例を調査した結果、
+      100％一致するケースが2件存在し、
+  d_main_04af_01_5:
+    speaker: enikk
+    en: The judgment for both cases was consistent.
+    ko: 해당 케이스는 모두 동일한 판결을 내렸던 것에 기인.
+    ja: 該当ケースは全て同じ判決が下されたことから、
+  d_main_04af_01_6:
+    speaker: enikk
+    en: 'Therefore, I hereby pronounce the same sentence, which is as follows:'
+    ko: 다음과 같이 판결합니다.
+    ja: 次のように判決を下します。
+  d_main_04af_01_7:
+    speaker: enikk
+    en: "@UserName will be banned from all operations for two days."
+    ko: |-
+      @UserName.
+      이틀간 작전 수행 금지.
+    ja: |-
+      @UserName。
+      2日間、作戦遂行を禁じる。
+  d_main_04af_01_8:
+    speaker: enikk
+    en: That is all.
+    ko: 이상입니다.
+    ja: 以上です。
+  d_main_04af_01_9:
+    speaker: enikk
+    en: Next, I shall pronounce the sentence of the Nikkes who were involved.
+    ko: 이어서 동행한 니케에 대해 판결하겠습니다.
+    ja: 続いて同行したニケに対して判決を下します。
+  d_main_04af_01_10:
+    speaker: enikk
+    en: First, you violated the key provision of protecting your Commander above all
+      else.
+    ko: |-
+      제1.
+      지휘관 절대 보호의 법칙을 어긴 점.
+    ja: |-
+      第一。
+      指揮官絶対保護の法則に違反したこと。
+  d_main_04af_01_11:
+    speaker: enikk
+    en: Second, despite you realizing the operation violated the command system, you
+      proceeded to carry it out.
+    ko: |-
+      제2.
+      명령 체제를 무시한 작전임을 인지하고 있었음에도 참전한 점.
+    ja: |-
+      第二。
+      命令体系を無視した作戦であることを\n認知していながら参戦したこと。
+  d_main_04af_01_12:
+    speaker: enikk
+    en: Third, your misguided actions resulted in damage to valuable property belonging
+      to the Ark.
+    ko: |-
+      제3.
+      그로 인해 방주의 소중한 재산을 낭비하게 한 점.
+    ja: |-
+      第三。
+      それにより、アークの大事な財産を\n浪費させたこと。
+  d_main_04af_01_13:
+    speaker: enikk
+    en: On the basis of these facts, a search has shown that there are two cases perfectly
+      matching this incident.
+    ko: |-
+      위 사항을 기반으로 하여 과거의 사례를 조사한 결과
+      87% 일치하는 케이스가 24건이 존재했으며.
+    ja: |-
+      上記の事実を元に過去の事例を調査した結果、
+      87％一致するケースが24件存在し、
+  d_main_04af_01_14:
+    speaker: enikk
+    en: The judgment for both cases was consistent.
+    ko: 해당 케이스는 모두 동일한 판결을 내렸던 것에 기인.
+    ja: 該当ケースは全て同じ判決が下されたことから、
+  d_main_04af_01_15:
+    speaker: enikk
+    en: 'To prevent such cases from reoccurring in the future, I hereby pronounce
+      the following sentence:'
+    ko: |-
+      추가로 유사한 케이스의 사건 재발을 방지하기 위해,
+      다음과 같이 판결합니다.
+    ja: |-
+      さらに類似ケースの再発を防止するため、
+      次のように判決を下します。
+  d_main_04af_01_16:
+    speaker: enikk
+    en: Given that Rapi and Mihara, the captains of Counters and Wardress, were the
+      primary instigators behind this incident,
+    ko: |-
+      소동의 주역인 워드리스와 카운터스.
+      해당 스쿼드의 리더인 니케 라피와 미하라에게.
+    ja: |-
+      事件の主役であるワードレスとカウンターズ、
+      該当分隊のリーダーのニケ、
+      ラピとミハラに対し、
+  d_main_04af_01_17:
+    speaker: enikk
+    en: they shall have their memories erased.
+    ko: 기억 소거를 실시.
+    ja: 記憶消去を実施する。
+  d_main_04af_01_18:
+    speaker: enikk
+    en: That is all.
+    ko: 이상입니다.
+    ja: 以上です。
+d_main_04af_02:
+  d_main_04af_02_1:
+    speaker: anis
+    en: I oughta kill you!
+    ko: 너 이 빌어먹을 자식아-!!
+    ja: この、くそ野郎！！
+  d_main_04af_02_2:
+    speaker: syuen
+    en: Hey now, watch your mouth!
+    ko: 야. 너 말 조심해.
+    ja: ちょっと、余計なこと言わないで。
+  d_main_04af_02_3:
+    speaker: anis
+    en: And if I don't? What are you gonna do about it?!
+    ko: |-
+      어떻게 할 거야!
+      어떻게 할 거냐고!
+    ja: |-
+      どうしてくれるの！
+      どうしてくれるのよ！
+  d_main_04af_02_4:
+    speaker: syuen
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_02_5:
+    speaker: anis
+    en: Why didn't you say anything back there? Why didn't you tell them you ordered
+      us to do all that?
+    ko: |-
+      왜 입 다물고 있었어?
+      네가 시킨 짓이라고 왜 말 안 했냐고!
+    ja: |-
+      なんで黙ってたの？
+      あなたがやらせたって、
+      なんで言わなかったのよ！
+  d_main_04af_02_6:
+    speaker: anis
+    en: You're a CEO. You'd be able to weasel your way out of this no problem!
+    ko: |-
+      CEO잖아!
+      그 정도는 아무렇지도 않게 넘길 수 있잖아!
+    ja: |-
+      あなたCEOよね？
+      こんなの、いくらでももみ消せるのに！
+  d_main_04af_02_7:
+    speaker: syuen
+    en: I had my reasons.
+    ko: 그럴 사정이 있어.
+    ja: 事情があったの。
+  d_main_04af_02_8:
+    speaker: anis
+    en: Are they so important that they're worth two Nikkes having their memories
+      wiped?!
+    ko: |-
+      대체 무슨 대단한 사정이길래
+      아무것도 잘못한 게 없는 둘의 기억이랑 맞바꾸냐고!
+    ja: |-
+      いったい、どれだけ偉い事情なの？
+      罪のない2人の記憶と、引き換えるくらいに！
+  d_main_04af_02_9:
+    speaker: syuen
+    en: Why did you make contact with the Ark in the first place? You must have known
+      this would happen!
+    ko: 그러길래 왜 직통 회선 같은 걸 써서 일을 크게 만들었는데?
+    ja: だから、なんで直通回線なんか使ったのよ。
+  d_main_04af_02_10:
+    speaker: anis
+    en: We nearly died out there!
+    ko: 죽을뻔했다고…!
+    ja: こっちは死ぬとこだったのよ…！
+  d_main_04af_02_11:
+    speaker: anis
+    en: We nearly lost our lives all because of that goddamn Chatterbox!
+    ko: 그 거지 같은 토커티븐가 뭔가 하는 놈 때문에 죽을뻔했다고!
+    ja: そのトーカティブか何かのせいで、\n死にかけたのよ！
+  d_main_04af_02_12:
+    speaker: syuen
+    en: That's right, didn't you say that you met Chatterbox?
+    ko: |-
+      얘기 안 했지?
+      토커티브랑 만난 거.
+    ja: |-
+      話してないわね？
+      トーカティブに会ったこと。
+  d_main_04af_02_13:
+    speaker: anis
+    en: That's not what's important right now!
+    ko: 너…! 지금 그게 중요한 게 아니잖아!
+    ja: あなた…！それがそんなに大事なこと！？
+  d_main_04af_02_14:
+    speaker: syuen
+    en: Hey.
+    ko: 야.
+    ja: おい。
+  d_main_04af_02_15:
+    speaker: syuen
+    en: So a few Nikkes get their brains scrambled. What's the problem?
+    ko: 니케의 기억이 없어지는 게 뭐가 대수라고 난린데?
+    ja: |-
+      ニケの記憶がなくなることなんて、
+      大したことないのにどうしたの？
+  d_main_04af_02_16:
+    speaker: anis
+    en: What did you say...?
+    ko: "…뭐라고…."
+    ja: "…今、何て…"
+  d_main_04af_02_17:
+    speaker: syuen
+    en: You are weapons. Weapons meant to serve humans.
+    ko: |-
+      병기라고.
+      우리 인간을 대신해 싸워주는 병기.
+    ja: |-
+      ただの兵器じゃん。
+      私たち人間の代わりに戦わせる兵器。
+  d_main_04af_02_18:
+    speaker: syuen
+    en: It's meaningless for a weapon to have memory.
+    ko: 병기에 기억이나 감정 같은 게 무슨 소용이라고 그래?
+    ja: 兵器に記憶だとか感情だとか、関係ないでしょ？
+  d_main_04af_02_19:
+    speaker: syuen
+    en: Ah, I get it now. You're acting this way because you and them are all buddy-buddy,
+      aren't you?
+    ko: 아~ 친해서 그렇구나?
+    ja: あ、一緒に苦労してきたから？
+  d_main_04af_02_20:
+    speaker: syuen
+    en: Fine then, consider this a chance to strike up a new friendship, but with
+      an old friend!
+    ko: 그럼 다시 친해지면 되잖아.
+    ja: じゃあ、また一緒に苦労すればいいじゃない。
+  d_main_04af_02_21:
+    speaker: syuen
+    en: Tabula rasa. I'm sure you'll have no problem turning them into your best friends
+      again.
+    ko: |-
+      백지상태라서 더 좋은 거 아냐?
+      네 취향에 맞는 좋은 친구로 만들 수 있으니까.
+    ja: |-
+      白紙状態だから、さらに良くない？
+      お前の好みに合う、いい友だちに\n仕上げられるから。
+  d_main_04af_02_22:
+    speaker: anis
+    en: Damn you!
+    ko: 이…!!
+    ja: この…！！
+  d_main_04af_02_23:
+    speaker: "<Choice>"
+    en: Stop Anis.
+    ko: 아니스를 말린다.
+    ja: アニスを止める
+  d_main_04af_02_24:
+    speaker: "<Choice>"
+    en: Slap Syuen across the face.
+    ko: 슈엔의 뺨을 때린다.
+    ja: シュエンをビンタする
+  d_main_04af_02_25:
+    speaker: rapi
+    en: Anis, stop it.
+    ko: 아니스. 그만.
+    ja: アニス、やめて。
+  d_main_04af_02_26:
+    speaker: anis
+    en: Rapi...!
+    ko: 라피…!
+    ja: ラピ…！
+  d_main_04af_02_27:
+    speaker: rapi
+    en: Never mind, thank you.
+    ko: 괜찮아. 고마워.
+    ja: 大丈夫、ありがとう。
+  d_main_04af_02_28:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_02_29:
+    speaker: Narration
+    en: Suddenly,
+    ko: 텁썩.
+    ja: ガシッ
+  d_main_04af_02_30:
+    speaker: "<Monologue>"
+    en: Rapi grabs your wrist.
+    ko: 라피의 손이 내 손목을 잡았다.
+    ja: ラピが私の手首を掴んだ
+  d_main_04af_02_31:
+    speaker: "<Monologue>"
+    en: She looks at you and shakes her head silently.
+    ko: 그리고 날 쳐다보고 조용히 고개를 가로저었다.
+    ja: そして私を見ながら静かに首を横に振った
+  d_main_04af_02_32:
+    speaker: rapi
+    en: I'm fine, thank you.
+    ko: |-
+      …괜찮습니다.
+      감사합니다.
+    ja: |-
+      …大丈夫です。
+      ありがとうございます。
+  d_main_04af_02_33:
+    speaker: anis
+    en: Aaarghhh!! Damn it!!
+    ko: |-
+      으아아악-!!
+      젠장--!!
+    ja: |-
+      ああああー！！
+      くそー！！
+  d_main_04af_02_34:
+    speaker: syuen
+    en: Ha-ha! Seems like imitating humans has got you two spread pretty thin.
+    ko: |-
+      하하.
+      인간 흉내 낸다고 다들 고생이 많네.
+    ja: |-
+      はは。
+      みんな、人間ごっこで大変そう。
+  d_main_04af_02_35:
+    speaker: syuen
+    en: See you next time.
+    ko: 그럼, 다음에 또 보자.
+    ja: じゃあ、またね。
+  d_main_04af_02_36:
+    speaker: syuen
+    en: Ah, yes.
+    ko: 아.
+    ja: あ。
+  d_main_04af_02_37:
+    speaker: syuen
+    en: Clean yourself up. You look embarrassing.
+    ko: |-
+      청소 좀 제대로 해놔.
+      꼴이 뭐냐 이게.
+    ja: |-
+      ちゃんと掃除してるの？
+      汚いわよ、ここ。
+  d_main_04af_02_38:
+    speaker: Narration
+    en: Syuen turns around and leaves.
+    ko: 슈엔은 등을 돌려 가버렸다.
+    ja: シュエンは背を向け行ってしまった
+  d_main_04af_02_39:
+    speaker: neon
+    en: "... Rapi."
+    ko: "…라피."
+    ja: "…ラピ。"
+  d_main_04af_02_40:
+    speaker: rapi
+    en: Neon, I'll leave the rest to you.
+    ko: |-
+      네온.
+      뒷일을 부탁할게.
+    ja: |-
+      ネオン。
+      後をお願い。
+  d_main_04af_02_41:
+    speaker: neon
+    en: "... Okay."
+    ko: "…예."
+    ja: "…はい。"
+  d_main_04af_02_42:
+    speaker: rapi
+    en: I'm going out to get some fresh air.
+    ko: "…잠시, 바람 좀 쐴게."
+    ja: "…ちょっと、風にあたってくる。"
+  d_main_04af_02_43:
+    speaker: Narration
+    en: Rapi goes out.
+    ko: 라피는 걸어나갔다.
+    ja: ラピが出て行った
+  d_main_04af_02_44:
+    speaker: "<Monologue>"
+    en: You follow her up.
+    ko: 밖으로 나가봐야겠다.
+    ja: 外に出てみよう
+d_main_04af_03:
+  d_main_04af_03_1:
+    speaker: "<Monologue>"
+    en: You see Rapi is standing alone. Mihara is with Yuni.
+    ko: |-
+      혼자 서 있는 라피.
+      유니와 함께 있는 미하라가 보인다.
+    ja: |-
+      1人で立っているラピ
+      ユニと一緒にいるミハラが見える
+  d_main_04af_03_2:
+    speaker: "<Monologue>"
+    en: Who do you want to talk to?
+    ko: "…누구와 얘기를 할까."
+    ja: "…誰と話をしよう"
+  d_main_04af_03_3:
+    speaker: "<Choice>"
+    en: Talk to Rapi.
+    ko: 라피와 얘기한다.
+    ja: ラピと話をする
+  d_main_04af_03_4:
+    speaker: "<Choice>"
+    en: Talk to Mihara.
+    ko: 미하라와 얘기한다.
+    ja: ミハラと話をする
+  d_main_04af_03_5:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_6:
+    speaker: rapi
+    en: I'm a bit frightened.
+    ko: 조금, 겁이 나는군요.
+    ja: ちょっと、怖いですね。
+  d_main_04af_03_7:
+    speaker: rapi
+    en: This isn't right.
+    ko: 억울하기도 하고요.
+    ja: 悔しい気持ちもあります。
+  d_main_04af_03_8:
+    speaker: rapi
+    en: But no one can overturn Enikk's decision. Her judgment is absolute.
+    ko: |-
+      하지만 에닉의 판결은 절대 뒤집을 수 없습니다.
+      그게 방주가 유지되는 원동력이니까요.
+    ja: |-
+      しかし、エニックの判決は絶対に覆せません。
+      それこそがアークが維持される原動力ですから。
+  d_main_04af_03_9:
+    speaker: rapi
+    en: At least the squad will continue on. This isn't a farewell.
+    ko: |-
+      다행히 스쿼드는 유지된다고 합니다.
+      영영 이별은 아닌 셈이죠.
+    ja: |-
+      幸い、分隊は維持されるとのことです。
+      永遠の別れではありませんから。
+  d_main_04af_03_10:
+    speaker: Self
+    en: What will happen if your memory is erased?
+    ko: 기억 소거를 당하면 라피는 어떻게 되지?
+    ja: 記憶を消去されると、ラピはどうなる？
+  d_main_04af_03_11:
+    speaker: rapi
+    en: We'll revert back to the way we were fresh off the assembly line. We won't
+      remember a thing.
+    ko: |-
+      생산 직후의 기억으로 되돌아갑니다.
+      그 이후의 기억은 모두 없던 것이 되죠.
+    ja: |-
+      製造直後の記憶に戻ります。
+      それ以降の記憶はすべて
+      なかったことになります。
+  d_main_04af_03_12:
+    speaker: rapi
+    en: I've heard that in most cases the combat data remains, but everything else...
+    ko: |-
+      배틀 데이터는 남겨놓는 경우가 많다고 들었습니다만,
+      그 외의 것은 모두 소거됩니다.
+    ja: |-
+      バトルデータは残す場合が多いと聞きましたが、
+      それ以外は全て消去されます。
+  d_main_04af_03_13:
+    speaker: rapi
+    en: I won't remember Neon or Anis... or you, Commander.
+    ko: 네온도, 아니스도, 지휘관도 기억하지 못할 겁니다.
+    ja: |-
+      ネオンも、アニスも、指揮官も
+      覚えていないでしょう。
+  d_main_04af_03_14:
+    speaker: Self
+    en: I won't forget about you.
+    ko: "…내가 잊지 않을 거야."
+    ja: "…私が絶対に忘れない"
+  d_main_04af_03_15:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_16:
+    speaker: rapi
+    en: Thank you for everything you've done, Commander.
+    ko: |-
+      그동안 감사했습니다.
+      지휘관.
+    ja: |-
+      ありがとうございました。
+      指揮官。
+  d_main_04af_03_17:
+    speaker: rapi
+    en: And thank you in advance for the future.
+    ko: 이후의 저도 잘 부탁드리겠습니다.
+    ja: |-
+      記憶消去された後の私も、
+      よろしくお願いします。
+  d_main_04af_03_18:
+    speaker: mihara
+    en: |-
+      Commander.
+      How's your leg?
+    ko: |-
+      지휘관.
+      다리는 좀 어때?
+    ja: |-
+      指揮官。
+      足はどう？
+  d_main_04af_03_19:
+    speaker: yuni
+    en: |-
+      Commander,
+      I heard that Mihara's memory will be erased. I-is that true?
+    ko: |-
+      지, 지휘관.
+      미, 미하라, 미하라 기억이 없어진대.
+    ja: |-
+      し、指揮官。
+      ミ、ミハラ、ミハラの記憶がなくなるって。
+  d_main_04af_03_20:
+    speaker: yuni
+    en: What can we do? What can I do?
+    ko: |-
+      응? 어, 어떻게 해?
+      그러면 유니는 어떻게 해?
+    ja: |-
+      ねぇ？ど、どうすればいい？
+      じゃあ、ユニはどうすればいい？
+  d_main_04af_03_21:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_22:
+    speaker: yuni
+    en: Commander, you have to help us.
+    ko: |-
+      지휘관.
+      도와줘.
+    ja: |-
+      指揮官。
+      助けて。
+  d_main_04af_03_23:
+    speaker: yuni
+    en: Didn't you say you would help us?
+    ko: 우, 우리 도와준다고 했잖아.
+    ja: |-
+      ユ、ユニたちのこと、
+      助けてくれるって言ったよね。
+  d_main_04af_03_24:
+    speaker: yuni
+    en: I'll do anything you want, okay?
+    ko: |-
+      유니가 뭐든 할게.
+      응?
+    ja: |-
+      ユニが何でもする。
+      ね？
+  d_main_04af_03_25:
+    speaker: yuni
+    en: Please, please help us...
+    ko: 도, 도와주세요….
+    ja: た、助けてください…
+  d_main_04af_03_26:
+    speaker: Self
+    en: "... I'm sorry."
+    ko: "…미안."
+    ja: "…すまない"
+  d_main_04af_03_27:
+    speaker: yuni
+    en: You're a liar... liar!
+    ko: 거, 거짓말쟁이….
+    ja: う、嘘つき…
+  d_main_04af_03_28:
+    speaker: mihara
+    en: Yuni, the Commander is not a liar.
+    ko: |-
+      유니.
+      지휘관은 아무 잘못이 없어.
+    ja: |-
+      ユニ。
+      指揮官は悪くないわ。
+  d_main_04af_03_29:
+    speaker: mihara
+    en: You know it, so stop saying that.
+    ko: |-
+      그러니 그만.
+      유니도 잘 알잖니.
+    ja: |-
+      だからやめて。
+      ユニも分かってるでしょう？
+  d_main_04af_03_30:
+    speaker: yuni
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_31:
+    speaker: yuni
+    en: Sorry, Commander.
+    ko: 미안해, 지휘관.
+    ja: ごめん、指揮官。
+  d_main_04af_03_32:
+    speaker: Self
+    en: I'm the one who should be sorry.
+    ko: 정말 미안.
+    ja: 本当にすまない
+  d_main_04af_03_33:
+    speaker: mihara
+    en: You truly are a fascinating individual, Commander.
+    ko: |-
+      후후. 정말 재밌는 사람이네.
+      지휘관은.
+    ja: |-
+      ふふ、本当に面白い人ね。
+      指揮官って。
+  d_main_04af_03_34:
+    speaker: yuni
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_35:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_36:
+    speaker: yuni
+    en: Mihara.
+    ko: 미하라.
+    ja: ミハラ。
+  d_main_04af_03_37:
+    speaker: mihara
+    en: Hmm?
+    ko: 응?
+    ja: うん？
+  d_main_04af_03_38:
+    speaker: yuni
+    en: Will you forget about me?
+    ko: 유니 잊을 거야?
+    ja: ユニを忘れる？
+  d_main_04af_03_39:
+    speaker: mihara
+    en: Most likely.
+    ko: 아마 잊겠지.
+    ja: 多分忘れるんじゃない？
+  d_main_04af_03_40:
+    speaker: yuni
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_41:
+    speaker: mihara
+    en: What about you?
+    ko: 유니는 날 잊을 거야?
+    ja: ユニは私のことを忘れるの？
+  d_main_04af_03_42:
+    speaker: yuni
+    en: No. I'll never forget you.
+    ko: 아니. 절대 안 잊어.
+    ja: いや、絶対忘れないよ。
+  d_main_04af_03_43:
+    speaker: mihara
+    en: Haha, that's good then.
+    ko: 후후. 그럼 됐어.
+    ja: ふふ、それでいいわ。
+  d_main_04af_03_44:
+    speaker: mihara
+    en: As long as you remember, I'll still be me.
+    ko: 그거면, 나는 나로서 존재할 수 있어.
+    ja: それなら、私は私として存在できる。
+  d_main_04af_03_45:
+    speaker: mihara
+    en: Let's make a deal.
+    ko: 약속 하나 할까?
+    ja: ひとつだけ約束して。
+  d_main_04af_03_46:
+    speaker: mihara
+    en: You'll make me complete again.
+    ko: 유니가, 나를 완성시켜 줘.
+    ja: ユニが私を完成させて。
+  d_main_04af_03_47:
+    speaker: mihara
+    en: You'll turn me back into the Mihara that you love so much.
+    ko: 유니를 너무 좋아했던 미하라로, 완성시켜 줘.
+    ja: ユニのことが大好きだった\nミハラを完成させて。
+  d_main_04af_03_48:
+    speaker: yuni
+    en: "... Okay!"
+    ko: "…응!"
+    ja: "…うん！"
+  d_main_04af_03_49:
+    speaker: andersen
+    en: Missilis' CEO is on thin ice.
+    ko: |-
+      거하게 저질렀군.
+      미실리스의 CEO께서.
+    ja: |-
+      派手にやらかしたものだ。
+      ミシリスのCEO様は。
+  d_main_04af_03_50:
+    speaker: andersen
+    en: She gave an order that completely circumvented the chain of command. She's
+      getting more and more brazen.
+    ko: |-
+      명령 체제를 완전히 무시한 단독 명령이라.
+      날이 갈수록 망나니가 되어가.
+    ja: |-
+      命令体系を完全に無視した単独命令か。
+      日に日に暴れん坊になっていくな。
+  d_main_04af_03_51:
+    speaker: ingrid
+    en: But it was not illegal.
+    ko: 불법은 아니지.
+    ja: 違法ではないからな。
+  d_main_04af_03_52:
+    speaker: andersen
+    en: That only complicates the matter.
+    ko: 그렇기 때문에 더 문제라는 걸세.
+    ja: それがさらに問題…
+  d_main_04af_03_53:
+    speaker: andersen
+    en: We've let the Big Three run wild for too long. Time to tighten their leash.
+    ko: 3대 회사에 너무 많은 편의를 봐주고 있어.
+    ja: 三大企業に、あまりにも便宜を図り過ぎている。
+  d_main_04af_03_54:
+    speaker: ingrid
+    en: I may be one of their beneficiaries, but I agree with you.
+    ko: |-
+      그 덕을 보고 있는 내가 할 말은 아니지만,
+      동의한다.
+    ja: |-
+      その恩恵を受けている私が言うことではないが、
+      同感だ。
+  d_main_04af_03_55:
+    speaker: ingrid
+    en: All we can do is sit back and take it on the chin. The Ark still needs Syuen.
+    ko: |-
+      …하지만 지금은 참지.
+      슈엔은 아직 방주에 필요해.
+    ja: |-
+      …でも今は我慢しよう。
+      シュエンはまだ、アークにとって必要だ。
+  d_main_04af_03_56:
+    speaker: andersen
+    en: "... Yeah."
+    ko: "…그래."
+    ja: "…そうだな。"
+  d_main_04af_03_57:
+    speaker: andersen
+    en: So what did Syuen get out of all this?
+    ko: 그래서, 슈엔이 그렇게까지 해서 얻은 게 뭐라고 하던가.
+    ja: それで、そこまでしたシュエンは、\n何を得たのかね。
+  d_main_04af_03_58:
+    speaker: ingrid
+    en: You think she'd tell me?
+    ko: 그 녀석이 나한테 말해줄 리가.
+    ja: あいつが私に何か言うとでも？
+  d_main_04af_03_59:
+    speaker: andersen
+    en: What good does it do her keeping a secret from you? I don't understand.
+    ko: |-
+      왜 이러나.
+      선수끼리.
+    ja: |-
+      お互い、すぐにバレる
+      嘘はやめようではないか。
+  d_main_04af_03_60:
+    speaker: ingrid
+    en: Neon's report says
+    ko: 네온에게 보고를 받았다.
+    ja: ネオンから報告を受けた。
+  d_main_04af_03_61:
+    speaker: ingrid
+    en: they encountered Chatterbox.
+    ko: 토커티브와 조우했다고 하더군.
+    ja: トーカティブと遭遇したらしい。
+  d_main_04af_03_62:
+    speaker: andersen
+    en: Did they find him, or the other way around?
+    ko: 찾아낸 건가, 찾아온 건가.
+    ja: |-
+      我々が見つけたのか？
+      向こうから訪ねて来たのか？
+  d_main_04af_03_63:
+    speaker: ingrid
+    en: The other way around.
+    ko: |-
+      ??
+      찾아왔다고 한다.
+    ja: |-
+      ？？
+      あっちから訪ねてきたらしい。
+  d_main_04af_03_64:
+    speaker: andersen
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_65:
+    speaker: ingrid
+    en: Apparently, they also came across the Pilgrims.
+    ko: "…그리고 필그림과도 조우했다고 한다."
+    ja: "…そしてピルグリムとも遭遇したと言っていた。"
+  d_main_04af_03_66:
+    speaker: andersen
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_04af_03_67:
+    speaker: andersen
+    en: Does it say who they met?
+    ko: 누구와 만났다고 하던가.
+    ja: 誰と会ったのかね？
+  d_main_04af_03_68:
+    speaker: ingrid
+    en: No. The situation was pretty hairy, and both sides were quite far from each
+      other.
+    ko: |-
+      그것까진 모른다.
+      상황도 상황이고, 너무 먼 거리였으니까.
+    ja: |-
+      そこまでは分からない。
+      状況も状況だし、距離も遠すぎたからな。
+  d_main_04af_03_69:
+    speaker: andersen
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_03_70:
+    speaker: andersen
+    en: Shifty.
+    ko: 시프티.
+    ja: シフティーくん。
+  d_main_04af_03_71:
+    speaker: shifty
+    en: Yes, sir.
+    ko: 예.
+    ja: はい。
+  d_main_04af_03_72:
+    speaker: andersen
+    en: Call the new Commander in.
+    ko: 신입 지휘관을 좀 불러주겠나?
+    ja: 新人の指揮官を呼んでもらおうか。
+  d_main_04af_03_73:
+    speaker: shifty
+    en: Now?
+    ko: 지금요?
+    ja: 今ですか？
+  d_main_04af_03_74:
+    speaker: andersen
+    en: Yes, right now.
+    ko: 그래. 지금.
+    ja: そう、今。
+d_main_04af_04:
+  d_main_04af_04_1:
+    speaker: andersen
+    en: Long time no see. I'm sorry to call you in like this, what with your leg and
+      all.
+    ko: |-
+      오랜만일세.
+      다리가 부러진 사람을 오라고 해서 미안하군.
+    ja: |-
+      久しぶりだな。
+      足を折った人を呼び出してすまない。
+  d_main_04af_04_2:
+    speaker: andersen
+    en: I've been informed of a rather serious matter.
+    ko: 이번에 제법 큰일이 있었다고 들었네.
+    ja: 今回は、大変な事件があったと聞いた。
+  d_main_04af_04_3:
+    speaker: andersen
+    en: The way you command your Nikkes is rather unorthodox.
+    ko: 보기에 자네는 니케들을 꽤나 특별히 다루고 있는 모양인데.
+    ja: 君はニケたちを特に大切に扱っているのに、
+  d_main_04af_04_4:
+    speaker: andersen
+    en: You must be quite displeased with how we intend on erasing their memories.
+    ko: 기억 소거는 유쾌하지 못 한 경험일 테지.
+    ja: 記憶消去は、愉快な経験ではなかろう。
+  d_main_04af_04_5:
+    speaker: andersen
+    en: So tell me, how are you feeling?
+    ko: |-
+      하나 물어보지.
+      기분이 어떤가.
+    ja: |-
+      1つ聞こう。
+      気分はどうかね。
+  d_main_04af_04_6:
+    speaker: "<Choice>"
+    en: Depressed.
+    ko: 슬픕니다.
+    ja: 悲しいです
+  d_main_04af_04_7:
+    speaker: "<Choice>"
+    en: I'd rather not talk about it.
+    ko: 말하고 싶지 않습니다.
+    ja: 話したくありません
+  d_main_04af_04_8:
+    speaker: andersen
+    en: Are you sure about that?
+    ko: "…그런가."
+    ja: "…そうか。"
+  d_main_04af_04_9:
+    speaker: andersen
+    en: You asked me before,
+    ko: 예전에 나한테 물어본 적이 있었지.
+    ja: 以前、君は私に尋ねた。
+  d_main_04af_04_10:
+    speaker: andersen
+    en: if I knew anything about Marian being corrupted.
+    ko: 마리안의 침식에 대해 알고 있는 것이 있느냐고.
+    ja: |-
+      マリアンの侵食について、
+      何か知っているのかと。
+  d_main_04af_04_11:
+    speaker: andersen
+    en: The answer is yes.
+    ko: |-
+      그래.
+      알고 있네.
+    ja: |-
+      そう。
+      私は知っている。
+  d_main_04af_04_12:
+    speaker: andersen
+    en: As long as you keep it a secret, I will tell you everything I know.
+    ko: 비밀로 해준다고 약속한다면, 내가 알고 있는 것을 말해주지.
+    ja: |-
+      秘密厳守を約束するなら、
+      私が知っていることを話してあげよう。
+  d_main_04af_04_13:
+    speaker: Self
+    en: Your secret is safe with me.
+    ko: 비밀로 하겠습니다.
+    ja: 秘密は守ります
+  d_main_04af_04_14:
+    speaker: andersen
+    en: Not the most convincing answer in the world..
+    ko: 대답 한번 성의 없군.
+    ja: 全く誠意のない返事だな。
+  d_main_04af_04_15:
+    speaker: andersen
+    en: Fine then. Since you've agreed, I'll tell you.
+    ko: 그래. 약속을 했으니 말해주겠네.
+    ja: それでも約束は約束。話してあげよう。
+  d_main_04af_04_16:
+    speaker: andersen
+    en: Someone inside the Ark tampered with the Nikkes and sent them up to the surface
+      to sabotage our operations.
+    ko: |-
+      방주 내에서 니케에게 침식을 걸어,
+      지상으로 올려 작전을 망치는 이들이 있네.
+    ja: |-
+      アーク内でニケに侵食させて
+      地上へ上げ、作戦を邪魔する奴らがいる。
+  d_main_04af_04_17:
+    speaker: andersen
+    en: We're not entirely convinced if it's a one-man operation, or a group who's
+      behind all this.
+    ko: |-
+      음. 이것 또한 확실하진 않군.
+      개인일지 단체일지도 모르니.
+    ja: |-
+      ふむ、これも正確な表現ではないな。
+      個人なのか団体なのかも不明だから。
+  d_main_04af_04_18:
+    speaker: andersen
+    en: Regardless, I believe they're working with the Raptures.
+    ko: 어쨌든 우린 그들을 랩쳐와 내통하고 있다고 판단했네.
+    ja: とにかく、私たちは彼らが\nラプチャーと内通していると判断した。
+  d_main_04af_04_19:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_20:
+    speaker: andersen
+    en: If I had told you this before, you would have said it was impossible.
+    ko: 예전 같으면 무슨 말도 안 되는 소리냐고 반박했겠지.
+    ja: 少し前だったら君も、\nふざけたことを言うなと言い返しただろう。
+  d_main_04af_04_21:
+    speaker: andersen
+    en: But now you know I speak the truth... because you've met Chatterbox.
+    ko: |-
+      하지만 자네는 만났네.
+      코드네임 토커티브와.
+    ja: |-
+      しかし、君は出会った。
+      コードネーム・トーカティブと。
+  d_main_04af_04_22:
+    speaker: andersen
+    en: Raptures with a mind of their own, capable of speech.
+    ko: 사고하고 언어를 하는 랩쳐지.
+    ja: 思考し、言語を駆使するラプチャーだ。
+  d_main_04af_04_23:
+    speaker: andersen
+    en: You understand what I'm saying, don't you?
+    ko: 그러니 이 말을 이해할 수 있을걸세.
+    ja: だからこの話が理解できるだろう。
+  d_main_04af_04_24:
+    speaker: andersen
+    en: This method of corruption, implanting a code into a Nikke's brain and bending
+      them to your will, this is not something humans are capable of yet.
+    ko: |-
+      니케의 뇌에 코드를 심어 자유자재로 의지를 조작하는,
+      이른바 침식은 인류가 다룰 수 없는 기술이지.
+    ja: |-
+      ニケの脳にコードを埋め込んで
+      自由自在に意志を操作する、
+      いわゆる侵食は人類には扱えない技術だ。
+  d_main_04af_04_25:
+    speaker: andersen
+    en: No, this is the Raptures' forte.
+    ko: 랩쳐의 고유 기술이라고 봐도 무방해.
+    ja: ラプチャー固有の技術と見て間違いない。
+  d_main_04af_04_26:
+    speaker: andersen
+    en: Someone used that technology to implant something in those Nikkes' brains,
+      then sent them up to the surface.
+    ko: |-
+      그런 고유 기술이 방주 내에서 니케에게 심어져,
+      지상으로 나간다.
+    ja: |-
+      そんな固有の技術が
+      アーク内でニケに埋め込まれ、
+      地上へ送られる。
+  d_main_04af_04_27:
+    speaker: andersen
+    en: It's safe to assume they have a man on the inside.
+    ko: 내통자가 있다고 밖에 생각할 수 없지.
+    ja: 内通者がいるとしか考えられない。
+  d_main_04af_04_28:
+    speaker: andersen
+    en: No ordinary citizen could pull this off either.
+    ko: 그리고 그런 일은 평범한 시민이 할 수 있는 건 아닐세.
+    ja: そして、そんなことは\n普通の市民にできることではない。
+  d_main_04af_04_29:
+    speaker: andersen
+    en: They gained access to the Aegis Barriers without being discovered, and they
+      must have been using a separate communication line.
+    ko: |-
+      방호벽을 조작할 수 있는 권한,
+      누구에게도 들키지 않는 단독 회선을 쓸 정도로.
+    ja: |-
+      防護壁を操作できる権限、
+      誰にも気づかれない単独回線が使えるほどの。
+  d_main_04af_04_30:
+    speaker: andersen
+    en: It's almost certainly someone high up.
+    ko: 방주 내에서의 입지가 탄탄한 인물일 것이 분명하네.
+    ja: アーク内でも、\nしっかりした立場にある人物に違いない。
+  d_main_04af_04_31:
+    speaker: Self
+    en: What should we do?
+    ko: 제가 어떻게 해야 합니까?
+    ja: 私はどうすればいいのですか？
+  d_main_04af_04_32:
+    speaker: andersen
+    en: I want to catch them, whoever they are.
+    ko: 나는 그들, 혹은 그를 잡고 싶다네.
+    ja: 私は彼ら、もしくは彼を捕まえたい。
+  d_main_04af_04_33:
+    speaker: andersen
+    en: I believe you feel the same.
+    ko: 자네도 마찬가지라 믿네.
+    ja: 君も同じ気持ちだと信じている。
+  d_main_04af_04_34:
+    speaker: andersen
+    en: Chatterbox is their link to the inside, I'm sure of it.
+    ko: |-
+      내통자는 토커티브와 이어져있네.
+      이건 확실하다고보네.
+    ja: |-
+      内通者はトーカティブと繋がっているようだ。
+      これは間違いない。
+  d_main_04af_04_35:
+    speaker: andersen
+    en: You have to do everything in your power to track Chatterbox down.
+    ko: 그러니 자네는 앞으로 토커티브 추적에 힘써주게.
+    ja: |-
+      だから君は、これから
+      トーカティブの追跡に力を入れてくれ。
+  d_main_04af_04_36:
+    speaker: andersen
+    en: Find it, and the truth will be revealed.
+    ko: 그러다 보면 자연스럽게 진실에 다가가게 되겠지.
+    ja: そうすれば自然と真実に近づくだろう。
+  d_main_04af_04_37:
+    speaker: Self
+    en: Understood.
+    ko: 알겠습니다.
+    ja: 分かりました
+  d_main_04af_04_38:
+    speaker: andersen
+    en: Now if you'll excuse me, I have a meeting in five minutes.
+    ko: |-
+      그럼 이만 나가보게.
+      5분 뒤에 회의가 있어서 말이야.
+    ja: |-
+      では、もう行っていい。
+      5分後に会議があってね。
+  d_main_04af_04_39:
+    speaker: Self
+    en: Why are you helping me?
+    ko: 저를 도와주는 이유가 뭔지 물어봐도 되겠습니까?
+    ja: 私を助ける理由を聞いてもいいですか
+  d_main_04af_04_40:
+    speaker: andersen
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_41:
+    speaker: andersen
+    en: Consider it a small consolation to those Nikkes with no feelings, no memories...
+    ko: |-
+      감각도, 기억도 가지고 있지만….
+      단 한 번도 그것의 주인이 된 적 없었던 그녀들에게.
+    ja: |-
+      感覚も記憶もあるのに、
+      自分ではそれらをコントロールすることも\nできない彼女たちに、
+  d_main_04af_04_42:
+    speaker: andersen
+    en: And no control over their own lives.
+    ko: 바치는 헌화라고 생각해 주게.
+    ja: 捧げる献花だと思ってくれ。
+  d_main_04af_04_43:
+    speaker: Narration
+    en: Two days later.
+    ko: 이틀 뒤.
+    ja: 2日後
+  d_main_04af_04_44:
+    speaker: mihara
+    en: Hello, I'm Mihara.
+    ko: 안녕~ 미하라야.
+    ja: |-
+      はじめまして～
+      私はミハラ。
+  d_main_04af_04_45:
+    speaker: mihara
+    en: You're my new teammate, Yuni, right?
+    ko: 네가 나랑 같이 행동하게 될 유니구나?
+    ja: あなたが私と一緒に行動するユニかしら。
+  d_main_04af_04_46:
+    speaker: yuni
+    en: Yep, this is Yuni!
+    ko: |-
+      응!
+      유니는 유니 맞아!
+    ja: |-
+      うん！
+      ユニはユニだよ！
+  d_main_04af_04_47:
+    speaker: mihara
+    en: Aren't you a little cutie!
+    ko: 후후. 귀여워라.
+    ja: ふふ、かわいいわね。
+  d_main_04af_04_48:
+    speaker: mihara
+    en: We're a team now, so we should try and get along.
+    ko: 그럼 우리 이제 같은 팀이니까 친해져야겠지?
+    ja: 私たち、これから同じチームだから、\n仲良くしましょうね。
+  d_main_04af_04_49:
+    speaker: mihara
+    en: Tell me, Yuni, what do you like?
+    ko: 유니는 뭘 좋아할까~?
+    ja: ユニは何が好きなの？
+  d_main_04af_04_50:
+    speaker: yuni
+    en: What about you, Mihara? What do you like?
+    ko: 미하라는 뭘 좋아하는데?
+    ja: ミハラは何が好き？
+  d_main_04af_04_51:
+    speaker: mihara
+    en: Um, well... I'm fresh out of the factory, so I may need to look into that
+      a bit.
+    ko: |-
+      음~ 글쎄.
+      롤아웃 된지 얼마 안 돼서 이제부터 알아봐야 할 것 같아.
+    ja: |-
+      ふう～ん…そうね。
+      ロールアウトしたばかりだし、\nこれから探していかなくちゃ。
+  d_main_04af_04_52:
+    speaker: yuni
+    en: Yuni knows it all.
+    ko: 유니가 다 알아.
+    ja: ユニは全部知ってるよ。
+  d_main_04af_04_53:
+    speaker: mihara
+    en: Hmm?
+    ko: 응?
+    ja: うん？
+  d_main_04af_04_54:
+    speaker: yuni
+    en: Everything that you like.
+    ko: 미하라가 뭘 좋아하는지 다 알아.
+    ja: ミハラが何が好きか、全部知ってる。
+  d_main_04af_04_55:
+    speaker: yuni
+    en: What kind of people you like. What food you love. Your hobbies, where you
+      like to go...
+    ko: |-
+      어떤 사람을 좋아하는지, 어떤 음식을 좋아하는지,
+      어떤 일을 좋아하는지, 어떤 장소를 좋아하는지.
+    ja: |-
+      どんな人が好きか、どんな食べ物が好きか、
+      どんな仕事が好きか、どんな場所が好きか。
+  d_main_04af_04_56:
+    speaker: yuni
+    en: Yuni knows all of it.
+    ko: 유니는 다 알아.
+    ja: ユニは全部知ってる。
+  d_main_04af_04_57:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_58:
+    speaker: yuni
+    en: All you have to do is trust Yuni...
+    ko: 그러니까 미하라는 유니만 믿고 따라와.
+    ja: だからミハラは、ユニを信じてついてきて。
+  d_main_04af_04_59:
+    speaker: yuni
+    en: Yuni...
+    ko: 유니가….
+    ja: ユニが…
+  d_main_04af_04_60:
+    speaker: yuni
+    en: will turn you into Mihara. promise.
+    ko: 미하라를 미하라로 만들어줄게.
+    ja: ミハラをミハラにしてあげる。
+  d_main_04af_04_61:
+    speaker: mihara
+    en: Okay, sounds fun!
+    ko: |-
+      …후후.
+      그럼, 부탁 좀 할까?
+    ja: |-
+      …ふふ。
+      じゃあ、お願いしようかしら。
+  d_main_04af_04_62:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_63:
+    speaker: neon
+    en: Anis.
+    ko: 아니스.
+    ja: アニス。
+  d_main_04af_04_64:
+    speaker: anis
+    en: What's wrong?
+    ko: 왜.
+    ja: 何？
+  d_main_04af_04_65:
+    speaker: neon
+    en: Will you be like that when Rapi comes?
+    ko: 라피가 와도 그렇게 있을 건가요?
+    ja: |-
+      ラピの前でも、そんな風に
+      立っているつもりですか？
+  d_main_04af_04_66:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_67:
+    speaker: anis
+    en: I'm going to take this opportunity to make myself someone who commands respect.
+    ko: 어. 이 기회에 쿨 캐릭터로 컨셉 한 번 잡아보려고.
+    ja: うん。この機会に、\nクールなキャラになろうかと思ってるのよ。
+  d_main_04af_04_68:
+    speaker: neon
+    en: Oh yeah? How about we make ourselves grizzled old war vets then?
+    ko: 어? 이왕 하는 거, 우리 무서운 선배로 컨셉 잡아볼까요?
+    ja: |-
+      じゃあせっかくですし、
+      怖い先輩キャラになるのはどうですか？
+  d_main_04af_04_69:
+    speaker: anis
+    en: Oh, good idea.
+    ko: 오. 그거 좋은 생각이네.
+    ja: ふーん、いい考えね。
+  d_main_04af_04_70:
+    speaker: Narration
+    en: The door opens and Rapi comes in.
+    ko: 문을 열고 라피가 들어왔다.
+    ja: ドアが開き、ラピが入ってきた
+  d_main_04af_04_71:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_72:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_73:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_74:
+    speaker: anis
+    en: Well, rookie, what are you waiting for? Haven't you got any respect for your
+      senior officers?
+    ko: |-
+      야 신입.
+      왔으면 빨랑빨랑 인사부터 박지 뭐하고 있냐?
+    ja: |-
+      ちょっと、新人。
+      来たら早く挨拶しなさい。何やってるの？
+  d_main_04af_04_75:
+    speaker: neon
+    en: Clean my glasses for me, will you?
+    ko: 먼저 제 안경부터 좀 닦고 오실래요?
+    ja: まずは私の眼鏡を拭いてくれますか？
+  d_main_04af_04_76:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_04_77:
+    speaker: rapi
+    en: Commander.
+    ko: 지휘관.
+    ja: 指揮官。
+  d_main_04af_04_78:
+    speaker: Self
+    en: Let's get along well, Rapi...
+    ko: "…잘 지내보자. 라ㅍ…."
+    ja: "…よろしく。ラ…"
+  d_main_04af_04_79:
+    speaker: rapi
+    en: My memory wasn't erased.
+    ko: 기억이 지워지지 않았습니다.
+    ja: 記憶が消えませんでした。
+  d_main_04af_04_80:
+    speaker: anis
+    en: "... What?"
+    ko: "…뭐?"
+    ja: "…は？"
+  d_main_04af_04_81:
+    speaker: neon
+    en: What?!
+    ko: "…예?"
+    ja: "…はい？"
+  d_main_04af_04_82:
+    speaker: rapi
+    en: I still remember everything.
+    ko: 아무것도… 지워지지 않았어요.
+    ja: 何も…消えませんでした。
+d_main_04af_05:
+  d_main_04af_05_1:
+    speaker: anis
+    en: What's my name?
+    ko: 내 이름은?
+    ja: 私の名前は？
+  d_main_04af_05_2:
+    speaker: rapi
+    en: Anis.
+    ko: 아니스.
+    ja: アニス。
+  d_main_04af_05_3:
+    speaker: neon
+    en: My name is Bucephalus.
+    ko: 저는 부케팔로스라고 해요.
+    ja: 私はブケパロスと言います。
+  d_main_04af_05_4:
+    speaker: rapi
+    en: Got it, Neon.
+    ko: 참고할게. 네온.
+    ja: 覚えておくわ、ネオン。
+  d_main_04af_05_5:
+    speaker: anis
+    en: You are my subordinate.
+    ko: 넌 내 부하야.
+    ja: あなたは私の子分だから。
+  d_main_04af_05_6:
+    speaker: neon
+    en: You owe me 2 million Credits as well.
+    ko: 저한테 200만 크레디트 빌려 갔어요.
+    ja: 私から200万クレジットを借りました。
+  d_main_04af_05_7:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_05_8:
+    speaker: rapi
+    en: Don't waste your time. I remember everything.
+    ko: |-
+      시간 낭비할 필요 없어.
+      전부 기억하고 있으니까.
+    ja: |-
+      余計なことをする必要はない。
+      全部覚えてる。
+  d_main_04af_05_9:
+    speaker: anis
+    en: Did they really try and erase your memory?
+    ko: 기억 소거를 받은 건 맞아?
+    ja: 本当に記憶消去されたの？
+  d_main_04af_05_10:
+    speaker: rapi
+    en: I remember that too.
+    ko: |-
+      맞아.
+      그것까지도 확실하게 기억하고 있어.
+    ja: |-
+      された。
+      それもはっきり覚えている。
+  d_main_04af_05_11:
+    speaker: anis
+    en: So you just pretended that you don't remember anything?
+    ko: "…숨겼구나, 너."
+    ja: "…隠したのね、ラピ。"
+  d_main_04af_05_12:
+    speaker: neon
+    en: Wow, so there are Nikkes who are immune to memory wipes?
+    ko: |-
+      와아.
+      기억 소거가 안 먹히기도 하는군요.
+    ja: |-
+      わあ。
+      記憶消去が効かないこともあるんですね。
+  d_main_04af_05_13:
+    speaker: neon
+    en: But what if they find out?
+    ko: 어? 그런데 이거 들키면 어떻게 되나요?
+    ja: あ？ところでこれ、バレたらどうなりますか？
+  d_main_04af_05_14:
+    speaker: rapi
+    en: They'll probably give it another go, and if it doesn't work that time...
+    ko: |-
+      아마 다시 시도하겠지.
+      그럼에도 같은 현상이 발생한다면….
+    ja: |-
+      多分、また試すでしょう。
+      それでも同じことが起きたら…
+  d_main_04af_05_15:
+    speaker: anis
+    en: Then you'll be discarded. You are, to some extent, an Irregular after all.
+    ko: |-
+      처분이겠지.
+      어떤 의미로는 이레귤러가 되는 거니까.
+    ja: |-
+      処分されるわよ。
+      ある意味、イレギュラーだから。
+  d_main_04af_05_16:
+    speaker: rapi
+    en: No exceptions. Ark policy.
+    ko: |-
+      그래.
+      예외를 두지 않는다. 그게 방주의 지침이니까.
+    ja: |-
+      そう。
+      例外は認めない。それがアークの指針だから。
+  d_main_04af_05_17:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_05_18:
+    speaker: rapi
+    en: Commander, it's up to you whether you want to report this case.
+    ko: |-
+      지휘관.
+      이 건에 대한 보고 여부는 맡기겠습니다.
+    ja: |-
+      指揮官。
+      この件を報告するかどうかは、
+      指揮官の判断にお任せします。
+  d_main_04af_05_19:
+    speaker: Self
+    en: How about I report it to Andersen?
+    ko: 엔더슨 부사령관께 보고하는 건 어떨까?
+    ja: アンダーソン副司令官に報告するのはどうだろう
+  d_main_04af_05_20:
+    speaker: anis
+    en: Him?
+    ko: 그 아저씨 말이지….
+    ja: あのおじさんね…
+  d_main_04af_05_21:
+    speaker: anis
+    en: Can he be trusted?
+    ko: 글쎄. 믿을 수 있는 사람이야?
+    ja: う～ん、信じてもいいの？
+  d_main_04af_05_22:
+    speaker: anis
+    en: I always feel like he's up to something.
+    ko: 애초에 무슨 꿍꿍이인지도 모르겠고 말이야.
+    ja: だいたい何を企んでいるかも分からないし。
+  d_main_04af_05_23:
+    speaker: neon
+    en: Then we are going to leave it alone?
+    ko: 그럼 이대로 놔두는 건가요?
+    ja: じゃあ、このまま放置しますか？
+  d_main_04af_05_24:
+    speaker: anis
+    en: What's wrong with that? No one else will know about it so long as we keep
+      our mouths shut.
+    ko: |-
+      문제 될 게 있어?
+      우리만 입 다물고 있으면 되는 거잖아.
+    ja: |-
+      問題ないんじゃない？
+      私たちさえ、黙っていればいいんだから。
+  d_main_04af_05_25:
+    speaker: anis
+    en: It's harder to get close to Nikkes whose memories have been erased.
+    ko: |-
+      기억 소거 받은 녀석이랑
+      다시 친해지는 건 생각보다 어려워.
+    ja: |-
+      記憶消去されたやつと
+      仲良くなるのは、結構難しいよ。
+  d_main_04af_05_26:
+    speaker: neon
+    en: You're right about that.
+    ko: "…그렇죠."
+    ja: "…そうですね。"
+  d_main_04af_05_27:
+    speaker: rapi
+    en: What if I need a brain scan for whatever reason?
+    ko: 만일 어떤 이유로 우리가 뇌 스캔을 받게 될 경우.
+    ja: |-
+      もし、何らかの理由で
+      私たちが脳をスキャンされたら、
+  d_main_04af_05_28:
+    speaker: rapi
+    en: I may be exposed.
+    ko: 이 일이 발각될 수도 있어.
+    ja: このことがバレるかもしれない。
+  d_main_04af_05_29:
+    speaker: anis
+    en: That's easy.
+    ko: 어, 그건 간단하게 해결할 수 있어.
+    ja: あ、それは簡単に解決できる。
+  d_main_04af_05_30:
+    speaker: anis
+    en: We just toss your brain into a fire the moment you get discovered.
+    ko: 붙잡히는 순간, 뇌를 태워버리는 거지.
+    ja: 捕まった瞬間、脳を燃やしてしまえばいいの。
+  d_main_04af_05_31:
+    speaker: anis
+    en: Happy ending for everybody!
+    ko: 그럼 모두가 해피.
+    ja: そしたらみんなハッピー。
+  d_main_04af_05_32:
+    speaker: neon
+    en: Doesn't sound so happy to me...
+    ko: 와. 전혀 해피하지 않은 것 같아요.
+    ja: わあ、全然ハッピーじゃなさそうです。
+  d_main_04af_05_33:
+    speaker: anis
+    en: If you do get found out, you'll have to sell out the Commander.
+    ko: |-
+      …만약 그런 일이 생기면,
+      지휘관님을 팔수밖에 없어.
+    ja: |-
+      …もしそういうことが起きたら、
+      指揮官様を売るしかないかな。
+  d_main_04af_05_34:
+    speaker: Self
+    en: Me?
+    ko: 나를?
+    ja: 私を？
+  d_main_04af_05_35:
+    speaker: anis
+    en: We're just talking right now. Nobody's deciding anything.
+    ko: |-
+      지금 이 대화는
+      [우리의 의견]을 전달하고 있는 거야.
+    ja: |-
+      今、この会話は
+      「私たちの意見」を伝えているの。
+  d_main_04af_05_36:
+    speaker: anis
+    en: You're the one who has to make the final decision, Commander.
+    ko: 하지만 마지막 판단은 지휘관님이 해야 되는 거지.
+    ja: でも最後の判断は、指揮官様がやるしかない。
+  d_main_04af_05_37:
+    speaker: anis
+    en: Nikkes shall obey any and every order issued by their Commander.
+    ko: "[니케는 지휘관의 명령에 절대복종한다]."
+    ja: "「ニケは指揮官の命令に絶対服従する」。"
+  d_main_04af_05_38:
+    speaker: anis
+    en: If the Commander orders us to keep it a secret, then that's what will happen.
+    ko: |-
+      우리는 지휘관님이 비밀로 하라고 해서 비밀로 했다.
+      이러면 끝이거든.
+    ja: |-
+      私たちは指揮官様に言われて秘密にしていた。
+      そう言えばOKだから。
+  d_main_04af_05_39:
+    speaker: neon
+    en: If that's true, then if we're exposed, Master will be...
+    ko: 어… 그러면 만약 들키면 스승님은….
+    ja: え…もしバレてしまったら、師匠は…
+  d_main_04af_05_40:
+    speaker: anis
+    en: relieved of duty. Worst case scenario, the Commander could be banished to
+      the Outer Rim.
+    ko: |-
+      파직되거나.
+      최악의 경우 아우터 림으로 가겠지.
+    ja: |-
+      クビかな。
+      最悪の場合、アウターリム行きでしょうね。
+  d_main_04af_05_41:
+    speaker: anis
+    en: At the end of the day, that's what it means to be the Commander of a squad.
+    ko: |-
+      그런데 결국 그런 거 아냐?
+      한 무리의 대장이라는 게.
+    ja: |-
+      でも結局、そういうものかもね。
+      団体のトップって。
+  d_main_04af_05_42:
+    speaker: anis
+    en: Making decisions freely and then taking responsibility for it.
+    ko: |-
+      자유롭게 판단할 수 있지만,
+      그에 따른 책임을 져야 한다.
+    ja: |-
+      自由に判断できるけど、
+      それに伴う責任は取ってもらう。
+  d_main_04af_05_43:
+    speaker: anis
+    en: When you think about it, this is freedom in the truest sense of the word.
+    ko: 어떤 의미론 진정한 자유인이라 할 수 있는 거지 뭐.
+    ja: ある意味、真の自由人とも言えるわよね。
+  d_main_04af_05_44:
+    speaker: neon
+    en: Anis, are you upset?
+    ko: |-
+      저… 아니스.
+      혹시 화났나요?
+    ja: |-
+      あの…アニス。
+      もしかして、怒ってますか？
+  d_main_04af_05_45:
+    speaker: anis
+    en: You're damn right I am!
+    ko: 응. 났어.
+    ja: うん、当然怒ってるわよ。
+  d_main_04af_05_46:
+    speaker: neon
+    en: Why?
+    ko: 왜요?
+    ja: どうして？
+  d_main_04af_05_47:
+    speaker: anis
+    en: Because...
+    ko: 그거야 당연히.
+    ja: 当然じゃない。
+  d_main_04af_05_48:
+    speaker: anis
+    en: whatever the decision ends up being, we have to stick to it.
+    ko: |-
+      비밀로 할 거면 끝까지 비밀로 하던가,
+      말할 거면 그 자리에서 말할 것이지.
+    ja: |-
+      秘密にするなら、最後まで秘密にするか、
+      しゃべるなら、その場でしゃべった方が\nよかったのよ。
+  d_main_04af_05_49:
+    speaker: anis
+    en: We're only making things harder on ourselves by talking in circles like we
+      are.
+    ko: |-
+      여기까지 그 얘기를 끌고 와서
+      모두를 곤란하게 만들고 있잖아.
+    ja: |-
+      ここまでその話を持ってきて、
+      皆を困らせてるじゃない。
+  d_main_04af_05_50:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_05_51:
+    speaker: anis
+    en: No matter what the outcome is, we are... or more specifically, the Commander...
+      is already in a dilemma.
+    ko: |-
+      뭐가 됐든 우린 곤란해졌어.
+      정확히는 지휘관님이.
+    ja: |-
+      とにかく私たちは今、困ったことになったのよ。
+      正確には指揮官様がね。
+  d_main_04af_05_52:
+    speaker: neon
+    en: You're not unhappy because Rapi is back, are you?
+    ko: 라피가 돌아온 게 맘에 안 드는 건 아니죠?
+    ja: ラピが帰ってきて嫌なわけではないんですね？
+  d_main_04af_05_53:
+    speaker: anis
+    en: What are you talking about?
+    ko: 그럴리가.
+    ja: そんなわけないよ！
+  d_main_04af_05_54:
+    speaker: anis
+    en: I'm happy! Ecstatic. Over the moon.
+    ko: |-
+      기뻐, 기쁘다고.
+      엄청 기뻐.
+    ja: |-
+      嬉しい、嬉しいよ。
+      めちゃ嬉しい。
+  d_main_04af_05_55:
+    speaker: anis
+    en: Look at her. You think getting so close to someone like her happened overnight?
+    ko: |-
+      쟤 봐봐.
+      저런 성격인 녀석이랑 친해지기까지 얼마나 걸렸을 것 같아?
+    ja: |-
+      あの子、見てよ。
+      あんな性格の子と仲良くなるまで、
+      どれくらいの時間かかったと思う？
+  d_main_04af_05_56:
+    speaker: anis
+    en: We're good friends. We can share anything with each other. Of course, I'm
+      happy that my friend has returned safe and sound.
+    ko: |-
+      이제야 마음을 터놓을 수 있는 친구가 됐는데,
+      그 친구가 멀쩡히 돌아왔는데 당연히 기쁘지.
+    ja: |-
+      ようやく、心を許せる友だちになったし、
+      その友だちが無事に帰ってきたのよ。
+      嬉しいに決まってる。
+  d_main_04af_05_57:
+    speaker: anis
+    en: That's not why I'm upset.
+    ko: 그런데 그건 그거고 이건 이거야.
+    ja: でもそれはそれ、これはこれ。
+  d_main_04af_05_58:
+    speaker: anis
+    en: I'm upset because she didn't even consider how barging in here and blurting
+      out how her memory hasn't been erased would affect us.
+    ko: |-
+      이쪽의 입장 같은 건 생각지도 않고,
+      쫄래쫄래 와서 [나 기억이 안 지워졌는데요]라고 하면서.
+    ja: |-
+      こっちの立場は考えもしないで、
+      フラフラ戻ってきては
+      「記憶が消えませんでした」とか言って。
+  d_main_04af_05_59:
+    speaker: anis
+    en: Then she puts the onus on us to make a decision.
+    ko: 뒷일에 대한 판단을 우리한테 맡기는 게 마음에 안 드는 거라고.
+    ja: 後のことに対する判断を私たちに任せてる。\n気に入らないわ。
+  d_main_04af_05_60:
+    speaker: rapi
+    en: I'm sorry, I never considered that.
+    ko: |-
+      …미안해.
+      거기까진 생각하지 못했어.
+    ja: |-
+      …ごめん。
+      そこまでは考えていなかった。
+  d_main_04af_05_61:
+    speaker: anis
+    en: You don't have to apologize, just try not to let it happen again.
+    ko: |-
+      미안할 것까지야.
+      다음부터 안 그러면 되지.
+    ja: |-
+      謝ることないわ。
+      同じことしなければ、それでいいの！
+  d_main_04af_05_62:
+    speaker: anis
+    en: Something this rare may not happen again anyway.
+    ko: |-
+      뭐, 두 번 있을 것 같진 않네.
+      이런 희한한 경우가.
+    ja: |-
+      まあ、こんな珍しいことが
+      また起こるとは思えないけどね。
+  d_main_04af_05_63:
+    speaker: anis
+    en: So, Commander, what do you want us to do?
+    ko: |-
+      그래서, 어떻게 할 거야?
+      지휘관님.
+    ja: |-
+      それで、どうするの？
+      指揮官様。
+  d_main_04af_05_64:
+    speaker: Self
+    en: Keep it a secret.
+    ko: 숨기자.
+    ja: 黙っていよう
+  d_main_04af_05_65:
+    speaker: rapi
+    en: Are you okay with that?
+    ko: "…괜찮으시겠습니까."
+    ja: "…大丈夫でしょうか。"
+  d_main_04af_05_66:
+    speaker: neon
+    en: I think so.
+    ko: 저는 괜찮다고 생각해요.
+    ja: 私はいいと思いますよ。
+  d_main_04af_05_67:
+    speaker: anis
+    en: Very well then. None of this ever leaves this room.
+    ko: |-
+      좋아.
+      그럼 확실히 하자고.
+    ja: |-
+      よし。
+      じゃあ、しっかりやろう。
+  d_main_04af_05_68:
+    speaker: anis
+    en: Commander, please give us the order.
+    ko: |-
+      지휘관님.
+      우리에게 명령을 내려줘.
+    ja: |-
+      指揮官様。
+      私たちに命令して。
+  d_main_04af_05_69:
+    speaker: Self
+    en: Hide the truth that Rapi hasn't lost her memory.
+    ko: 모두, 라피의 기억이 사라지지 않은 사실을 숨겨줘.
+    ja: みんな、ラピの記憶が残っていることを隠すんだ
+  d_main_04af_05_70:
+    speaker: rapi
+    en: "... Roger."
+    ko: "…라져."
+    ja: "…ラジャー。"
+  d_main_04af_05_71:
+    speaker: anis
+    en: Okay.
+    ko: 오케이.
+    ja: 分かった。
+  d_main_04af_05_72:
+    speaker: neon
+    en: Roger.
+    ko: 예.
+    ja: はい。
+  d_main_04af_05_73:
+    speaker: neon
+    en: "... Hang on."
+    ko: "…앗."
+    ja: "…あっ。"
+  d_main_04af_05_74:
+    speaker: neon
+    en: I'm a spy, aren't I? You're not supposed to be telling me stuff like this!
+    ko: 그러고 보니 저 스파인데, 이거 말하면 안 되겠죠?
+    ja: |-
+      そういえば私はスパイですけど、
+      これって言っちゃダメなやつですよね？
+  d_main_04af_05_75:
+    speaker: anis
+    en: I guess you're right about that.
+    ko: 음… 안되지 않을까.
+    ja: うーん…ダメじゃないかしら。
+  d_main_04af_05_76:
+    speaker: neon
+    en: Oh! I can be a double agent!
+    ko: 와! 이중 스파이!
+    ja: うわ！二重スパイ！
+  d_main_04af_05_77:
+    speaker: anis
+    en: Just like the movies!
+    ko: 와. 너무 멋져.
+    ja: わあ、かっこいいね。
+d_main_04af_06:
+  d_main_04af_06_1:
+    speaker: syuen
+    en: Hey.
+    ko: 야.
+    ja: おい。
+  d_main_04af_06_2:
+    speaker: syuen
+    en: Didn't I ask you to clean up this pigsty?
+    ko: 내가 여기 청소해놓으라고 했지?
+    ja: ここ、掃除しとけって言ったわよね？
+  d_main_04af_06_3:
+    speaker: Self
+    en: What are you doing here?
+    ko: "…왜 왔냐."
+    ja: "…何の用だ"
+  d_main_04af_06_4:
+    speaker: syuen
+    en: I've got another mission for all of you.
+    ko: 이번에도 시킬 게 있어서.
+    ja: ちょっとやってもらうことがあってね。
+  d_main_04af_06_5:
+    speaker: syuen
+    en: Allow me to explain...
+    ko: 뭐냐 하면….
+    ja: それは…
+  d_main_04af_06_6:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_06_7:
+    speaker: "<Monologue>"
+    en: Rapi gives you a wink.
+    ko: 라피는 나에게 눈짓을 한 번 보낸 후.
+    ja: ラピはこちらに目で合図を送ると
+  d_main_04af_06_8:
+    speaker: "<Monologue>"
+    en: She struts quickly towards Syuen.
+    ko: 슈엔에게로 거의 뛰듯이 걸어갔다.
+    ja: シュエンのほうへ小走りで向かった
+  d_main_04af_06_9:
+    speaker: syuen
+    en: Hey, what are you...
+    ko: 응? 뭐….
+    ja: ん？何…
+  d_main_04af_06_10:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 퍼억!
+    ja: ドン！
+  d_main_04af_06_11:
+    speaker: syuen
+    en: Ah!
+    ko: 어헉!
+    ja: ぐはっ！
+  d_main_04af_06_12:
+    speaker: "<Monologue>"
+    en: "... Rapi kicks Syuen in the stomach with a roundhouse kick."
+    ko: "…라피는 돌려차기로 슈엔의 배를 걷어찼고."
+    ja: "…ラピは回し蹴りでシュエンのお腹を蹴った"
+  d_main_04af_06_13:
+    speaker: "<Monologue>"
+    en: Syuen slumps to the ground, covering her stomach in pain.
+    ko: 슈엔은 배를 움켜쥐며 바닥에 주저앉았다.
+    ja: シュエンはお腹を抱え地面に座り込んだ
+  d_main_04af_06_14:
+    speaker: syuen
+    en: Urrnggh... aaarggh...
+    ko: 웁…! 으헥…!
+    ja: うっ…！うへっ…！
+  d_main_04af_06_15:
+    speaker: anis
+    en: Has she lost her mind?
+    ko: "…쟤 미친 거야?"
+    ja: "…あの子、頭がおかしくなったのかね？"
+  d_main_04af_06_16:
+    speaker: neon
+    en: Seems so.
+    ko: 그런 거 같은데요.
+    ja: そうみたいですね。
+  d_main_04af_06_17:
+    speaker: rapi
+    en: Commander, we have an intruder.
+    ko: |-
+      지휘관.
+      무단 침입자를 발견했습니다.
+    ja: |-
+      指揮官。
+      無断侵入者を発見しました。
+  d_main_04af_06_18:
+    speaker: rapi
+    en: How shall I dispose of her? Should I execute her?
+    ko: |-
+      어떻게 할까요?
+      처분합니까?
+    ja: |-
+      どうしますか？
+      処分しますか？
+  d_main_04af_06_19:
+    speaker: syuen
+    en: What?!
+    ko: 너… 이…!
+    ja: お前…！この…！
+  d_main_04af_06_20:
+    speaker: syuen
+    en: A-are you insane?! Don't you... know... who I am?
+    ko: |-
+      미, 미쳤… 냐…?
+      내가… 누군… 지 알고…!
+    ja: |-
+      しょ、正気…なの…？
+      私を…誰だと…思って…！
+  d_main_04af_06_21:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_06_22:
+    speaker: Self
+    en: She just had her memory erased. She doesn't recognize you.
+    ko: 얼마 전 기억 소거를 당해서 못 알아본 것 같네.
+    ja: |-
+      この前記憶を消去されて、
+      誰だか分からないみたいだ
+  d_main_04af_06_23:
+    speaker: syuen
+    en: What?!
+    ko: 뭐… 라고…!
+    ja: 何…だって…！
+  d_main_04af_06_24:
+    speaker: Self
+    en: It won't happen again.
+    ko: 다음부턴 그러지 않도록 교육할게.
+    ja: |-
+      これからは、こういうことが
+      ないように教育しておく
+  d_main_04af_06_25:
+    speaker: rapi
+    en: "... Is she someone you know, Commander?"
+    ko: "…혹시 아는 사이십니까?"
+    ja: "…もしかして、お知り合いですか？"
+  d_main_04af_06_26:
+    speaker: rapi
+    en: I'm sorry, I did not recognize her. I thought she was an intruder.
+    ko: |-
+      죄송합니다.
+      미처 몰랐습니다. 강도인 줄 알았습니다.
+    ja: |-
+      申し訳ありません。
+      そうとは知らず、つい強盗か何かだと。
+  d_main_04af_06_27:
+    speaker: rapi
+    en: I felt she posed a potential threat and acted out.
+    ko: |-
+      [지휘관의 신변이 위험하다 판단될 경우,
+      인간을 제압할 수 있다]를 너무 의식했습니다.
+    ja: |-
+      「指揮官が危険だと判断した場合、人間を制
+      圧できる」という点を意識しすぎました。
+  d_main_04af_06_28:
+    speaker: rapi
+    en: My apologies, once again.
+    ko: |-
+      다시 한번 사과드리겠습니다.
+      죄송합니다.
+    ja: |-
+      もう一度謝罪させてください。
+      申し訳ありませんでした。
+  d_main_04af_06_29:
+    speaker: syuen
+    en: Ca-call...
+    ko: 불… 러….
+    ja: はや…く…
+  d_main_04af_06_30:
+    speaker: Self
+    en: Come again?
+    ko: "??"
+    ja: "？？"
+  d_main_04af_06_31:
+    speaker: syuen
+    en: Call... a medic!
+    ko: 의료팀… 부르라… 고…!
+    ja: 医療チームを…呼ん…で…！
+  d_main_04af_06_32:
+    speaker: syuen
+    en: I think she... broke my ribs!
+    ko: 갈비뼈가… 나간 것… 같… 아…!
+    ja: あばら骨が…折れた…みたい…！
+  d_main_04af_06_33:
+    speaker: Narration
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_main_04af_06_34:
+    speaker: Narration
+    en: Syuen is picked up by Missilis' medical team.
+    ko: 슈엔은 미실리스의 의료팀에 의해 실려갔다.
+    ja: |-
+      シュエンはミシリスの医療チーム
+      によって搬送された
+  d_main_04af_06_35:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_06_36:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_06_37:
+    speaker: anis
+    en: I'm afraid that'll be a one-and-done trick.
+    ko: 두 번은 못 써먹겠지?
+    ja: 二度はできないよね？
+  d_main_04af_06_38:
+    speaker: rapi
+    en: "'Fraid so."
+    ko: 아마도.
+    ja: 多分。
+  d_main_04af_06_39:
+    speaker: neon
+    en: That stinks.
+    ko: 아쉽네요.
+    ja: 残念ですね。
+  d_main_04af_06_40:
+    speaker: "<Monologue>"
+    en: The phone beeps.
+    ko: 핸드폰이 울린다.
+    ja: 携帯が鳴った
+  d_main_04af_06_41:
+    speaker: "<Monologue>"
+    en: "... Time to see Andersen."
+    ko: "…엔더슨을 만나러 가보자."
+    ja: "…アンダーソンに会いに行こう"
+d_main_04af_07:
+  d_main_04af_07_1:
+    speaker: andersen
+    en: I need you to go up to the surface and head north.
+    ko: 지상의 북부로 가주게.
+    ja: 地上の北部へ行ってくれ。
+  d_main_04af_07_2:
+    speaker: Self
+    en: The north?
+    ko: 북부 말씀이십니까?
+    ja: 北部ですか？
+  d_main_04af_07_3:
+    speaker: andersen
+    en: You said a Nikke nearly managed to take down the Chatterbox you came across.
+    ko: 자네가 목격한 토커티브를 물러나게 한 니케가.
+    ja: |-
+      君が目撃した、
+      トーカティブを退かせたニケが、
+  d_main_04af_07_4:
+    speaker: andersen
+    en: She was spotted in the north.
+    ko: 북부에 모습을 드러낸 모양이야.
+    ja: 北部に現れたらしい。
+  d_main_04af_07_5:
+    speaker: andersen
+    en: Go and see if she knows anything about its whereabouts.
+    ko: 그녀라면 토커티브의 행방을 알지도 모르니, 접촉해보게.
+    ja: |-
+      彼女なら、トーカティブの行方が
+      分かるかもしれない。会ってみるといい。
+  d_main_04af_07_6:
+    speaker: Self
+    en: Who is that Nikke?
+    ko: 그 니케는 도대체 뭡니까.
+    ja: あのニケは一体何者ですか
+  d_main_04af_07_7:
+    speaker: andersen
+    en: |-
+      Collectively, they are referred to as Pilgrims.
+      They are Nikkes who live up on the surface.
+    ko: |-
+      통칭 [필그림].
+      지상에서 살아가는 니케들을 뜻하네.
+    ja: |-
+      通称「ピルグリム」。
+      地上で生きるニケたちを指す。
+  d_main_04af_07_8:
+    speaker: Self
+    en: You mean there's more than one?
+    ko: 니케[들] 이라면….
+    ja: ニケ「たち」というと…
+  d_main_04af_07_9:
+    speaker: andersen
+    en: We don't know the details.
+    ko: "…자세한 건 우리도 모르네."
+    ja: |-
+      …詳しいことは、
+      私たちも知らないのだ。
+  d_main_04af_07_10:
+    speaker: andersen
+    en: But what is certain is that they live above ground, and we have never had
+      any official contact with them.
+    ko: |-
+      확실한 건 그녀들은 지상에서 살아가고 있고,
+      단 한 번도 제대로 된 조우를 한 적이 없다는 것일세.
+    ja: |-
+      ただ確かなのは、彼女たちは地上で
+      生きているが、一度もまともに遭遇
+      したことがない、ということだ。
+  d_main_04af_07_11:
+    speaker: andersen
+    en: They're incredibly elusive and nearly impossible to track.
+    ko: |-
+      추적도 불가능하네.
+      워낙에 신출귀몰한 이들이니 말일세.
+    ja: |-
+      ましてや、追跡もできない。
+      神出鬼没だからな。
+  d_main_04af_07_12:
+    speaker: andersen
+    en: I'm sure you have many questions.
+    ko: 자, 그럼 여기서 궁금한 게 있겠지.
+    ja: 気になるだろう？
+  d_main_04af_07_13:
+    speaker: andersen
+    en: How am I supposed to locate these Pilgrims? Everyone knows how vast the frozen
+      North is.
+    ko: |-
+      어떻게 필그림과 만나는가.
+      그 춥고 넓은 북부에서.
+    ja: |-
+      どうやってピルグリムに出会うのか。
+      あの広くて寒い北部で。
+  d_main_04af_07_14:
+    speaker: andersen
+    en: There's a research base in that area. I've already sent the coordinates to
+      Shifty.
+    ko: |-
+      연구 기지가 있네.
+      좌표는 시프티 양에게 알려줬으니 일단 그곳으로 향하게.
+    ja: |-
+      研究基地がある。
+      座標はシフティーくんに伝えておいた。
+      とりあえずそこへ向かいなさい。
+  d_main_04af_07_15:
+    speaker: andersen
+    en: Once you arrive, our staff at the research base will provide additional assistance.
+    ko: 그 이후는 연구 기지에서 알아서 해 줄걸세.
+    ja: |-
+      着いたら、研究基地で何をすべきか、
+      教えてくれるだろう。
+  d_main_04af_07_16:
+    speaker: andersen
+    en: Understood?
+    ko: 알겠나?
+    ja: 分かったかね？
+  d_main_04af_07_17:
+    speaker: Self
+    en: Yes, for now.
+    ko: 알겠습니다.
+    ja: 分かりました
+  d_main_04af_07_18:
+    speaker: andersen
+    en: All right, then. We're done here. I've got a meeting coming up.
+    ko: |-
+      그래. 그럼 나가보게.
+      10분 뒤에 회의가 있어서 말일세.
+    ja: |-
+      そうか、ではもう行っていい。
+      10分後に会議があってね。
+  d_main_04af_07_19:
+    speaker: andersen
+    en: Ah, yes.
+    ko: 아.
+    ja: あ。
+  d_main_04af_07_20:
+    speaker: andersen
+    en: How's your leg?
+    ko: 다리는 좀 어떤가?
+    ja: 足はどうかね。
+  d_main_04af_07_21:
+    speaker: Self
+    en: Still working.
+    ko: 거동에 불편함은 없습니다.
+    ja: 動くことには支障ありません
+  d_main_04af_07_22:
+    speaker: andersen
+    en: Ingrid prepared that exoskeleton just for you. Think of it as a cast with
+      some kick to it.
+    ko: |-
+      잉그리드가 특별히 준비해 준 외골격일세.
+      성능 좋은 깁스라 생각하고 잘 써주게.
+    ja: |-
+      イングリッドが特別に用意した
+      外骨格だからな。性能のいいギプス
+      だと思って、大切に使ってくれ。
+  d_main_04af_07_23:
+    speaker: andersen
+    en: Bring me back some good news.
+    ko: |-
+      자. 그럼 어서 가보게.
+      좋은 소식을 기다리겠네.
+    ja: |-
+      さあ、行きなさい。
+      いい報告を待っている。
+d_main_04af_08:
+  d_main_04af_08_1:
+    speaker: rapi
+    en: So we're the only ones being assigned to this mission?
+    ko: 이번엔 카운터스 단독 임무입니까.
+    ja: 今回はカウンターズの単独任務ですか。
+  d_main_04af_08_2:
+    speaker: anis
+    en: It's better this way. Otherwise, we'd have to watch what we say.
+    ko: |-
+      잘 됐지 뭐.
+      너 말 조심해야 되니까.
+    ja: |-
+      よかった！
+      これで、発言に気を付ける必要なしよ。
+  d_main_04af_08_3:
+    speaker: rapi
+    en: Yes.
+    ko: 그건 그래.
+    ja: それはそうだ。
+  d_main_04af_08_4:
+    speaker: anis
+    en: So we're heading for the research base in the north, is that right?
+    ko: 북부의 연구 기지로 간다고 했지?
+    ja: 北部の研究基地に行くのよね？
+  d_main_04af_08_5:
+    speaker: Self
+    en: Yes.
+    ko: 그래.
+    ja: そうだ
+  d_main_04af_08_6:
+    speaker: anis
+    en: Well... As far as I know, that place is completely inaccessible without a
+      pass.
+    ko: |-
+      음… 내가 알기로는 거기,
+      출입증이 없으면 진입이 아예 안 되는 걸로 알고 있는데.
+    ja: |-
+      うーん…私が知る限り、あそこは
+      通行許可証がないと、入ること
+      すらできないって。
+  d_main_04af_08_7:
+    speaker: rapi
+    en: Although it is a research base, it's protected by armed forces, and lots of
+      them.
+    ko: 연구 기지라고는 하지만 방호 무장이 충실합니다.
+    ja: |-
+      研究基地とはいえ、
+      防護用の武器が充実しています。
+  d_main_04af_08_8:
+    speaker: anis
+    en: One false move and that's all she wrote.
+    ko: 벌집이 된다는 소리지.
+    ja: ハチの巣になりかねないわけね。
+  d_main_04af_08_9:
+    speaker: rapi
+    en: So Andersen didn't give you anything? No pass or anything like that?
+    ko: 엔더슨 부사령관께 따로 건네받은 건 없으십니까.
+    ja: |-
+      アンダーソン副司令官から
+      何かもらったものはありませんか。
+  d_main_04af_08_10:
+    speaker: Self
+    en: I'll go talk to him again.
+    ko: "…조금만 기다려. 받아올게."
+    ja: "…少しだけ待ってろ。もらってくる"
+  d_main_04af_08_11:
+    speaker: unknown
+    en: Non.
+    ko: No.
+    ja: No.
+  d_main_04af_08_12:
+    speaker: unknown
+    en: Non non non, that won't be necessary.
+    ko: 그럴 필요 No.
+    ja: その必要はNo.
+  d_main_04af_08_13:
+    speaker: neon
+    en: What's going on? What's that light up ahead?
+    ko: |-
+      …뭐죠?
+      갑자기 어디선가 빛이….
+    ja: |-
+      …何ですか？
+      急にどこからか光が…
+  d_main_04af_08_14:
+    speaker: anis
+    en: Wait, that's a disco ball... Don't tell me that's...
+    ko: |-
+      …잠깐만.
+      이 미러볼 라이트는 설마.
+    ja: |-
+      …ちょっと。
+      このミラーボールのライトはまさか。
+  d_main_04af_08_15:
+    speaker: unknown
+    en: Voilà! Exactement!
+    ko: Yes! 그 설마입니Da!
+    ja: Yes！そのまさかDESU！
+  d_main_04af_08_16:
+    speaker: unknown
+    en: I am the CEO of Tetra Line, the greatest showman in the entire Ark!
+    ko: |-
+      방주의 Entertainment를 책임지는
+      테트라 라인의 C! E! O!
+    ja: アークのEntertainmentを担当するテトララインのC！E！O！
+  d_main_04af_08_17:
+    speaker: mustang
+    en: Mustang!
+    ko: 머스탱입니다Da!
+    ja: マスタングDESU！
+  d_main_04af_08_18:
+    speaker: mustang
+    en: Allez! Repeat after me! Entertainment!
+    ko: |-
+      Everybody!
+      Say Entertainment!
+    ja: |-
+      Everybody！
+      Say Entertainment！
+  d_main_04af_08_19:
+    speaker: mustang
+    en: Eeentertainment!!
+    ko: 엔-----터테인먼트!!
+    ja: エンターーーーーーテイメント！
+  d_main_04af_08_20:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_08_21:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_08_22:
+    speaker: neon
+    en: "... Wow."
+    ko: "…우와."
+    ja: "…うわ。"
+  d_main_04af_08_23:
+    speaker: mustang
+    en: Oh non, Anis, where is your applause?
+    ko: |-
+      Oh No.
+      아니스. 박수는 어디로 갔G Yo?
+    ja: |-
+      Oh No.
+      アニス、拍手はどうしましたKa？
+  d_main_04af_08_24:
+    speaker: anis
+    en: Hello, boss. It's been a while.
+    ko: |-
+      …안녕하세요. 사장님.
+      오랜만이네요.
+    ja: |-
+      …こんにちは、社長。
+      久しぶりですね。
+  d_main_04af_08_25:
+    speaker: mustang
+    en: You look well, chérie.
+    ko: Face가 좋아 보이네Yo.
+    ja: FaceがよさそうですNe。
+  d_main_04af_08_26:
+    speaker: anis
+    en: Ha ha, do I?
+    ko: |-
+      하하.
+      그런가요.
+    ja: |-
+      はは。
+      そうですか。
+  d_main_04af_08_27:
+    speaker: mustang
+    en: Tell me, chérie, when will you come back to me?
+    ko: 그럼 이제 슬슬 Return?
+    ja: じゃあ、そろそろReturn？
+  d_main_04af_08_28:
+    speaker: anis
+    en: Um... I can't just yet.
+    ko: |-
+      음… 아뇨.
+      아직은 좀.
+    ja: |-
+      え…いいえ。
+      まだちょっと。
+  d_main_04af_08_29:
+    speaker: mustang
+    en: Oh...
+    ko: Oh….
+    ja: Oh…
+  d_main_04af_08_30:
+    speaker: mustang
+    en: C'est bon. The best things in life are worth waiting for.
+    ko: |-
+      All Right 아니스.
+      나는 기다릴 수 있어yo.
+    ja: |-
+      All Right、アニス。
+      私は待てますYo。
+  d_main_04af_08_31:
+    speaker: mustang
+    en: And you... Vous êtes Commandant @UserName?
+    ko: |-
+      You.
+      You가 Commander @UserName?
+    ja: |-
+      You.
+      YouがCommander@UserName？
+  d_main_04af_08_32:
+    speaker: "<Choice>"
+    en: Yes.
+    ko: "…그런데."
+    ja: "…それで？"
+  d_main_04af_08_33:
+    speaker: "<Choice>"
+    en: Oui, c'est moi.
+    ko: Yes. I'm.
+    ja: Yes. I'm.
+  d_main_04af_08_34:
+    speaker: mustang
+    en: Hmm...
+    ko: Hm….
+    ja: Hm…
+  d_main_04af_08_35:
+    speaker: mustang
+    en: You've got a sparkle in your eye, mon ami!
+    ko: 눈빛 Good.
+    ja: Goodな目。
+  d_main_04af_08_36:
+    speaker: mustang
+    en: Bravo! Magnifique!
+    ko: |-
+      Oh--!!
+      Cross Fire Hurricane!
+    ja: |-
+      Oh！！
+      Cross Fire Hurricane！
+  d_main_04af_08_37:
+    speaker: mustang
+    en: Bonne réponse!
+    ko: Good Answer!
+    ja: Good Answer！
+  d_main_04af_08_38:
+    speaker: mustang
+    en: You are heading towards the research base in the north, no?
+    ko: North의 연구 기지로 갈 거지Yo?
+    ja: Northの研究基地へ行くんですNe？
+  d_main_04af_08_39:
+    speaker: Narration
+    en: Mustang takes out a card.
+    ko: 머스탱은 품에서 카드 한 장을 꺼내들었다.
+    ja: マスタングは胸元から1枚のカードを取り出した
+  d_main_04af_08_40:
+    speaker: mustang
+    en: Take this pass.
+    ko: Me가 출입증을 줄게Yo.
+    ja: Meが通行許可証をあげまShow。
+  d_main_04af_08_41:
+    speaker: mustang
+    en: However, this pass is, shall we say... particulier.
+    ko: But. 이 Pass는 좀 Special 해Yo.
+    ja: But、このPassはちょっとSpecialな\nものDESU。
+  d_main_04af_08_42:
+    speaker: neon
+    en: Does anyone else hear music?
+    ko: 어… 갑자기 어디선가 음악이 나오고 있는데요.
+    ja: あ…どこからか音楽が聞こえてきました。
+  d_main_04af_08_43:
+    speaker: mustang
+    en: Take a good look, Commandant @UserName!
+    ko: 잘 봐Yo. Commander @UserName!
+    ja: よく見てくだSAI、Commander @UserName！
+  d_main_04af_08_44:
+    speaker: mustang
+    en: I will only show you once!
+    ko: 두 번 보여주진 않습니Da!
+    ja: 1回しか見せませんKara！
+  d_main_04af_08_45:
+    speaker: "<Monologue>"
+    en: Mustang dances to the music.
+    ko: 머스탱은 흘러나오는 음악에 맞춰 춤을 췄다.
+    ja: マスタングは流れてきた音楽に合わせてダンスを踊った
+  d_main_04af_08_46:
+    speaker: "<Monologue>"
+    en: It's a rather... unusual dance.
+    ko: "…굉장히 기괴한 춤이었다."
+    ja: "…ものすごく変わったダンスだった"
+  d_main_04af_08_47:
+    speaker: neon
+    en: No kidding!
+    ko: 오오오!
+    ja: おおお！
+  d_main_04af_08_48:
+    speaker: mustang
+    en: Do you see?
+    ko: 잘 보셨나Yo?
+    ja: しっかり見ましたKa？
+  d_main_04af_08_49:
+    speaker: mustang
+    en: Look at the pass now!
+    ko: 그럼 이제 이 Pass를 봐Yo.
+    ja: では、今度はこのPassを見てくだSAI。
+  d_main_04af_08_50:
+    speaker: Narration
+    en: The card in Mustang's hand starts to glow.
+    ko: 머스탱이 손에 든 카드에서 빛이 나기 시작했다.
+    ja: マスタングが持っているカードが光りだした
+  d_main_04af_08_51:
+    speaker: mustang
+    en: If you do the same, you too can activate this pass.
+    ko: 방금 Me가 한 동작을 수행해야 Pass가 Activation!
+    ja: 今、Meがやった動作を遂行すると\nPassがActivation！
+  d_main_04af_08_52:
+    speaker: mustang
+    en: This pass is the crowning achievement of mon entreprise, Tetra Line!
+    ko: |-
+      My Company!
+      테트라 라인의 Technology가 집약된 Pass인 것이지Yo!
+    ja: |-
+      My Company！
+      テトララインのTechnologyが集約された\nPassなのDESU！
+  d_main_04af_08_53:
+    speaker: neon
+    en: Wow! What technology!
+    ko: Wow! Technology!!
+    ja: Wow！Technology！！
+  d_main_04af_08_54:
+    speaker: anis
+    en: Seems like an awfully big waste of technology to me.
+    ko: "…기술력 낭비도 정도가 있지."
+    ja: "…技術の無駄遣いにも、ほどがあるわ。"
+  d_main_04af_08_55:
+    speaker: mustang
+    en: Come on, take it, Commandant @UserName.
+    ko: |-
+      자, 받아요.
+      Commander @UserName.
+    ja: |-
+      さあ、受け取ってくだSAI。
+      Commander @UserName。
+  d_main_04af_08_56:
+    speaker: mustang
+    en: Or shall I dance again for you, si vous voulez?
+    ko: |-
+      좀 전의 Dance.
+      원한다면 한 번 더 Show 해 줄 수 있어yo.
+    ja: |-
+      今のDance、
+      望むならもう一度お見せしまShow。
+  d_main_04af_08_57:
+    speaker: Self
+    en: "... It's okay."
+    ko: "…아니, 괜찮아."
+    ja: "…いや、大丈夫だ"
+  d_main_04af_08_58:
+    speaker: mustang
+    en: Oh, la danse was so difficult, yet you remember it by just seeing it once?
+      Très bien!
+    ko: |-
+      Oh. 그 정도 Dance는 한 번에 외울 수 있다는 건가Yo?
+      Very Good!
+    ja: |-
+      Oh、これくらいのDanceは
+      一発で覚えるのですNe。
+      Very Good！
+  d_main_04af_08_59:
+    speaker: Narration
+    en: You take the pass from Mustang.
+    ko: 머스탱에게 출입증을 받았다.
+    ja: マスタングから通行許可証を受け取った
+  d_main_04af_08_60:
+    speaker: anis
+    en: Umm... Boss.
+    ko: 저… 사장님.
+    ja: あの…社長。
+  d_main_04af_08_61:
+    speaker: mustang
+    en: Oui.
+    ko: Yeah.
+    ja: Yeah.
+  d_main_04af_08_62:
+    speaker: anis
+    en: I appreciate it, but what exactly are you doing here?
+    ko: 고맙긴 한데, 사장님이 갑자기 왜….
+    ja: ありがたいんですけど、なんで社長が急に…
+  d_main_04af_08_63:
+    speaker: mustang
+    en: Bonne question, mon Anis.
+    ko: |-
+      Good Question.
+      My 아니스.
+    ja: |-
+      Good Question.
+      My アニス。
+  d_main_04af_08_64:
+    speaker: mustang
+    en: Do you realize just how popular Counters is...
+    ko: |-
+      카운터스.
+      You들이 알고 있을지는 모르겠지Man.
+    ja: |-
+      カウンターズ。
+      Youたちは知らないかもしれませんGA。
+  d_main_04af_08_65:
+    speaker: mustang
+    en: "... in the Ark right now? Très populaire indeed!"
+    ko: |-
+      You들은 지금 방주에서 Hot해요.
+      Very Hot.
+    ja: |-
+      Youたちは今、アークでHotです。
+      Very Hot.
+  d_main_04af_08_66:
+    speaker: mustang
+    en: As the Ark's finest showman, it behooves me to have such promising starlets
+      as yourselves to be in my debt!
+    ko: |-
+      Entertainment를 이끌어가는 사람으로서,
+      미래의 Star가 될 이들에게 빚을 만들어 놓는 게 좋으니까yo.
+    ja: |-
+      Entertainmentを率いる者として、
+      未来のStarになるかもしれない人に、
+      貸しを作っておいたほうがいいからDesu。
+  d_main_04af_08_67:
+    speaker: mustang
+    en: "... I was also curious to finally meet the squad that Ingrid is so pleased
+      with."
+    ko: "…잉그리드가 맘에 들어 한 이들을 직접 보고 싶기도 했고."
+    ja: "…イングリッドが気に入っている人を\\n直接見てみたかったのDesu。"
+  d_main_04af_08_68:
+    speaker: anis
+    en: Hmm? What was that at the end?
+    ko: 응? 마지막에 뭐라고 하셨나요?
+    ja: うん？最後になんて言ったんですか？
+  d_main_04af_08_69:
+    speaker: mustang
+    en: Hmm? Oh, nothing.
+    ko: |-
+      Hm?
+      Nothing.
+    ja: |-
+      Hm？
+      Nothing.
+  d_main_04af_08_70:
+    speaker: mustang
+    en: Best of luck with your opération!
+    ko: 자, 그럼 Mission 힘내도록 해Yo.
+    ja: では、Mission頑張りなSAI。
+  d_main_04af_08_71:
+    speaker: mustang
+    en: Eeentertainment!!
+    ko: 엔-----터테인먼트!!
+    ja: エンターーーーーーテイメント！
+  d_main_04af_08_72:
+    speaker: Narration
+    en: Mustang disappears.
+    ko: 머스탱은 사라졌다.
+    ja: マスタングが姿を消した
+  d_main_04af_08_73:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_08_74:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_04af_08_75:
+    speaker: neon
+    en: That guy really knows how to put on a show!
+    ko: 테트라의 사장님은 정말 화려한 분이시군요!
+    ja: テトラの社長はすごく派手な方ですね！
+  d_main_04af_08_76:
+    speaker: anis
+    en: That's one way of putting it.
+    ko: 아… 눈 아파.
+    ja: はあ…目がチカチカする。

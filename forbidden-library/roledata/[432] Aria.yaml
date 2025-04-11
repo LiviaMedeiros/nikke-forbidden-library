@@ -1,0 +1,480 @@
+---
+432_name:
+  en: Aria
+  ko: 아리아
+  ja: アリア
+c432_description:
+  en: An opera singer from Prima Donna, where she plays the lead in every performance
+    she's a part of. Her singing consistently garners standing ovations, making her
+    a living legend in the world of opera.
+  ko: "프리마돈나 스쿼드 소속의 오페라 싱어. \n참여하는 공연마다 주연급을 맡으며, 관객의 기립박수를 받는 오페라계의 살아있는 전설이다."
+  ja: |-
+    プリマドンナ部隊所属のオペラ歌手。
+    主演を務めない舞台はなく、観客から
+    スタンディングオベーションを受けるオペラ界の生きた伝説。
+432_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_432:
+  en: Aria's Spare Body
+  ko: 아리아 스페어 바디
+  ja: アリアのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+24322_name:
+  en: Lacrimoso
+  ko: 라크리모소
+  ja: ラクリモソ
+24322_description:
+  en: "■ Activates when the last bullet hits the target. Affects all allies. <color=#00AEFF>Critical
+    Rate ▲ {description_value_01}% for {description_value_02} sec.</color>"
+  ko: |-
+    ■ 마지막 탄환 명중 시 아군 전체에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、味方全体に
+    <color=#00AEFF>「クリティカル確率{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24321_name:
+  en: Allegro
+  ko: 알레그로
+  ja: アレグロ
+24321_description:
+  en: "■ Activates at the beginning of Full Burst. Affects all allies. <color=#00AEFF>Critical
+    Damage ▲ {description_value_01}% for {description_value_02} sec.</color>"
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「クリティカルダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14323_name:
+  en: Da Capo Aria
+  ko: 아리아 디 캄포
+  ja: アリア・デ・カンポ
+14323_description:
+  en: "■ Affects all allies. \n<color=#00AEFF>Generates a <word_group=10023>Shield</word_group>
+    with {description_value_02}% of the caster's <word_group=10025>final</word_group>
+    Max HP for {description_value_03} sec.</color> \n■ Affects self.\n<color=#00AEFF>Hit
+    Rate ▲ {description_value_04}% for {description_value_05} sec.</color>"
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% <word_group=10023>보호막</word_group>] [{description_value_03}초 유지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[명중률 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_02}％の<word_group=10023>バリア</word_group>」
+    「{description_value_03}秒間維持」</color>
+    ■自分に
+    <color=#00AEFF>「命中率{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+430_name:
+  en: Noise
+  ko: 노이즈
+  ja: ノイズ
+431_name:
+  en: Volume
+  ko: 볼륨
+  ja: ボリューム
+c432_Lobby_Touch_1:
+  en: Before you head on stage, you have to be fully prepared.
+  ko: 무대에 오르기 위한 준비는 늘 완벽해야 해.
+  ja: 舞台に上がるための準備は抜かりないわ。
+c432_Lobby_Touch_2:
+  en: There is nothing more lonely than being a performer on the stage.
+  ko: 무대 위에 선 배우는 누구보다 고독한 법이지.
+  ja: 舞台の上の俳優は誰よりも孤独なものよ。
+c432_Lobby_Touch_3:
+  en: The blue sky is torn asunder, and the monster of iron finds us... Hmm... These
+    lyrics aren't sticking very well.
+  ko: |-
+    푸른 하늘이 열리고 철의 괴물이 우릴 찾아…
+    음… 가사가 입에 잘 안 붙네.
+  ja: |-
+    青い空が開き、鉄の怪物が私たちに訪れる…
+    う～ん…馴染めない歌詞だわ。
+c432_Lobby_Touch_Love_1:
+  en: I want to sing an aria for you one day.
+  ko: 언젠가 당신을 위한 아리아를 불러보고 싶네.
+  ja: いつかあなたのためのアリアを歌ってみたいわ。
+c432_Lobby_Touch_Love_2:
+  en: Are you coming to the show today, Signor?
+  ko: 세뇨르, 오늘 공연 보러 올 거야?
+  ja: セニョール、今日の公演見に来てくれるの？
+c432_Lobby_Touch_Love_3:
+  en: |-
+    The goddess of victory, vengeance incarnate...
+    Hmm... I think I've got the lyrics down pat.
+  ko: |-
+    아아… 승리의 여신이여, 복수의 탄환이 되어주길….
+    음… 가사는 다 외웠네.
+  ja: |-
+    ああ…勝利の女神よ、復讐の弾丸となってちょうだい…
+    うん…歌詞は全部覚えたわ。
+c432_Lobby_Stay_1:
+  en: If there's nothing else, can I leave? I'd rather be preparing for my performance.
+  ko: |-
+    볼일이 없다면 먼저 가봐도 될까?
+    이럴 시간에 공연을 준비하고 싶거든.
+  ja: |-
+    特に用がないなら先に失礼してもいいかしら？
+    こんなことしてる暇があったら公演の準備をしなくちゃ。
+c432_Lobby_Stay_Love_1:
+  en: Oh, my beloved guardian, are you listening? My beloved guardian... are you listening,
+    Signor?
+  ko: |-
+    오, 친애하는 나의 후견인. 듣고 계신가요?
+    친애하는 후견인이라… 듣고 있어, 세뇨르?
+  ja: |-
+    おお、親愛なる私の後見人。
+    聴いていらっしゃいますか？
+    親愛なる後見人だなんて…
+    聞いてるの？セニョール？
+c432_Outpost_Touch_1:
+  en: I'm at the Theater. Come by any time if you want to sing.
+  ko: 난 극장에 있으니, 노래하고 싶다면 언제든지 와.
+  ja: |-
+    私なら劇場にいるわ。
+    歌いたくなったら いつでも来て。
+c432_Outpost_Touch_2:
+  en: This place is closer to the surface than the Ark. If I sing from here, will
+    it reach the surface?
+  ko: |-
+    여긴 방주보다 지상에 더 가까운 곳이지.
+    여기서 노래를 부르면 지상에 닿을 수 있을까?
+  ja: |-
+    ここはアークよりも 地上にもっと近い場所。
+    ここで歌えば地上にも 聞こえるかしら？
+c432_Outpost_Touch_3:
+  en: There aren't very many people at the theater, so it's a good place to practice
+    my singing.
+  ko: 여기 극장은 사람이 적어서 노래를 연습하기에 좋더라.
+  ja: この劇場は人が少なくて 歌の練習には ちょうどいいの。
+c432_Gacha_Get_1:
+  en: I will sing an aria, and you shall be my conductor.
+  ko: 좋아. 당신이 지휘하는 무대 위에서 아리아를 불러줄게.
+  ja: |-
+    いいわ。
+    あなたが指揮する舞台でアリアを歌ってあげる。
+c432_Reinforce_1:
+  en: My singing is getting more and more beautiful.
+  ko: 더욱더 아름답게 노래할 수 있도록.
+  ja: もっと素敵な歌を歌えますように。
+c432_Reinforce_2:
+  en: Thank you for everything you've done.
+  ko: 관리해 줬구나. 고마워.
+  ja: |-
+    ケアしてくれたのね。
+    ありがとう。
+c432_Reinforce_3:
+  en: I think I can sing for a little longer.
+  ko: 조금 더 길게 노래할 수 있을 것 같네.
+  ja: もう少し長く歌えそうだわ。
+c432_Gift_1:
+  en: Oh... thank you. I'll put it to good use.
+  ko: 아... 고마워. 잘 쓸게.
+  ja: あ…ありがとう。大切に使うわ。
+c432_Gift_2:
+  en: Is this something a manager typically does?
+  ko: 이것도 관리의 일환인 거야?
+  ja: これもケアの一環なのかしら？
+c432_Gift_3:
+  en: Very kind of you, Signor.
+  ko: 세뇨르는 친절하네.
+  ja: セニョールは親切なのね。
+c432_Attractive_Up_1:
+  en: I want to share the stage with you.
+  ko: 친애하는 세뇨르, 당신과 함께 무대에 서 보고 싶어.
+  ja: 親愛なるセニョール、あなたと一緒に舞台に立ってみたいわ。
+c432_Attractive_Up_2:
+  en: Your singing may not be perfect, but it inexplicably makes my heart race. How
+    about you? Do I make your heart race?
+  ko: |-
+    당신의 노래는 완벽하진 않지만 이상하게 설레네.
+    당신은 어때? 내게 설렘을 느껴?
+  ja: |-
+    あなたの歌は決して完璧ではないわ。
+    でも不思議と胸が高鳴るの。
+    あなたはどう？
+    私と同じ想いかしら？
+c432_Attractive_Up_3:
+  en: You're the only audience I'll ever need.
+  ko: |-
+    내 생의 관객은 당신 하나만 있어도 충분해.
+    당신이 내게 그런 존재가 되었어.
+  ja: |-
+    私の人生で観客はあなた1人だけで十分よ。
+    あなたは私にとってそういう存在なの。
+c432_Party_Deploy_1:
+  en: I can sing any time.
+  ko: 언제든 노래할 수 있어.
+  ja: いつでも歌えるわ。
+c432_Field_Touch_1:
+  en: Awaiting instructions.
+  ko: 지시해.
+  ja: 指示して。
+c432_Field_Go_1:
+  en: Do I just need to go to that position?
+  ko: 저 위치로 가면 되는 거야?
+  ja: あの位置まで行けばいいの？
+c432_Battle_Enter_1:
+  en: Looks like we have some unwanted guests.
+  ko: 불청객이 왔네.
+  ja: 招かれざる客が来たわね。
+c432_Battle_Ready_1:
+  en: Time to sing not on stage, but on the battlefield.
+  ko: 전장의 아리아, 시작할게.
+  ja: 戦場のアリア、始めるわ。
+c432_Battle_Ready_2:
+  en: It's time to sing.
+  ko: 노래할 시간이네.
+  ja: 歌の時間だわ。
+c432_Battle_Ready_3:
+  en: The prelude to the battlefield has begun.
+  ko: 전장의 서곡이 시작되었구나.
+  ja: 戦場のプロローグの開始だわ。
+c432_Reload_1:
+  en: Hah... Again.
+  ko: 후우… 다시.
+  ja: ふう…もう一度。
+c432_Reload_2:
+  en: Da Capo.
+  ko: Da Capo.
+  ja: ダカーポ。
+c432_Reload_3:
+  en: I'll go once I fix the sound.
+  ko: 음을 정비하고 갈게.
+  ja: 音を調整してから行くわ。
+c432_Ult_Skill_Ready_1:
+  en: Signor.
+  ko: 세뇨르.
+  ja: セニョール。
+c432_Ult_Skill_1:
+  en: The aria that won't stop until the day my life ends.
+  ko: 이 생이 끝나는 날까지 멈추지 않는 아리아를.
+  ja: この命が尽きるまで、止まらないアリアを。
+c432_FullBurst_1:
+  en: Time to bring in the chorus.
+  ko: 합창의 때가 왔어.
+  ja: 合唱する時が来たわ。
+c432_Kill_Monster_1:
+  en: So be it.
+  ko: Fine.
+  ja: フィーネ。
+c432_Kill_Monster_2:
+  en: It is finished.
+  ko: 끝이네.
+  ja: 終わったわね。
+c432_Kill_Monster_3:
+  en: Are there any more?
+  ko: 더 해볼까.
+  ja: もっとやろうかしら。
+c432_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c432_Damage_2:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c432_Damage_3:
+  en: Ah, yes.
+  ko: 아.
+  ja: あ。
+c432_Die_1:
+  en: I'm sorry... I couldn't sing to the end...
+  ko: 끝까지 노래하지 못해서… 미안….
+  ja: |-
+    最後まで歌えなくて…
+    ごめんなさい…
+c432_Win_1:
+  en: The sound of the song of victory is here.
+  ko: 승리의 노랫소리를 이곳에.
+  ja: 勝利の歌声をここに。
+432_cv_ja:
+  en: 'CV: Yū Kobayashi'
+  ko: 'CV : 코바야시 유우'
+  ja: CV：小林ゆう
+432_cv_ko:
+  en: 'CV: Lee So-eun'
+  ko: 'CV : 이소은'
+  ja: CV：イ・ソウン
+432_cv_en:
+  en: 'CV: Michelle Marie'
+  ko: 'CV : 미셸 마리'
+  ja: CV：Michelle Marie

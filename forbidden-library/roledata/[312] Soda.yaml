@@ -1,0 +1,472 @@
+---
+312_name:
+  en: Soda
+  ko: 소다
+  ja: ソーダ
+c312_description:
+  en: The member of Maid For You responsible primarily for domestic duties. She can
+    almost always be seen with a permanent smile on her face, which never fades even
+    when she makes the occasional mistake at work. This indefatigable cheeriness is
+    infectious to those who hang around Soda.
+  ko: |-
+    늘 햇살처럼 웃고 다니는 메이드 포 유의 가사 전담 메이드.
+    가끔 실수할 때도 있지만, 모두를 행복하게 해주는 소다의 미소는 사라지지 않는다.
+  ja: |-
+    いつも太陽のように明るく笑っているメイド・フォー・ユーの\n家事担当メイド。
+    失敗する時もあるけれど、みんなを幸せにするソーダの笑顔は\n消えない。
+312_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_312:
+  en: Soda's Spare Body
+  ko: 소다 스페어 바디
+  ja: ソーダのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+13122_name:
+  en: Squeaky Clean Floor
+  ko: 바닥 청소 메이드
+  ja: 床掃除メイド
+13122_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Recovers HP by {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP.</color>
+    ■ Activates when Maid Spirit is fully stacked. Affects all allies.
+    <color=#00AEFF>Recovers HP by {description_value_02}% of caster's <word_group=10025>final</word_group> Max HP.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
+    ■ 자신이 메이드 정신 최대 중첩 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」</color>
+    ■自分がメイド精神のフルスタック状態
+    なら、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23121_name:
+  en: Spotless Chair
+  ko: 자리 청소 메이드
+  ja: 整理整頓メイド
+23121_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>Maid Spirit: Max HP ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 자기 자신에게
+    <color=#00AEFF>[메이드정신 : 최대 체력 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「メイド精神：最大HP{description_value_02}％▲」「{description_value_03}スタック」\n「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13123_name:
+  en: Spring Cleaning
+  ko: 대청소 메이드
+  ja: 大掃除メイド
+13123_description:
+  en: |-
+    ■ Affects {description_value_01} enemy unit(s) randomly.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.
+    Stun for {description_value_04} sec.</color>
+    ■ Affects all Fire Code allies.
+    <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_03}.</color>
+  ko: |-
+    ■ 무작위 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]
+    [기절] [{description_value_04}초 유지]</color>
+    ■ 작열 코드 아군 전체에게
+    <color=#00AEFF>[<word_group=10001>중첩 가능 이로운 효과 중첩량</word_group> {description_value_03}개 ▲]</color>
+  ja: |-
+    ■ランダムの敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ｣
+    「気絶」「{description_value_04}秒間維持」</color>
+    ■灼熱コードの味方全体に
+    <color=#00AEFF>「<word_group=10001>スタック可能バフ効果のスタック量</word_group> {description_value_03}個▲」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+310_name:
+  en: Ade
+  ko: 에이드
+  ja: エード
+311_name:
+  en: Cocoa
+  ko: 코코아
+  ja: ココア
+313_name:
+  en: 'Privaty: Unkind Maid'
+  ko: '프리바티 : 언카인드 메이드'
+  ja: プリバティ：アンカインド・メイド
+314_name:
+  en: 'Soda: Twinkling Bunny'
+  ko: '소다 : 트윙클링 바니'
+  ja: ソーダ：トゥインクルバニー
+c312_Lobby_Touch_1:
+  en: You're back, Master!
+  ko: 다녀오셨어요, 주인님~
+  ja: お帰りなさいませ、ご主人様～
+c312_Lobby_Touch_2:
+  en: Everyone is happy when things are spick and span.
+  ko: 이렇게 반짝반짝하게 닦으면, 모두 행복해지겠죠?
+  ja: こうやってピカピカに磨けば、みんな幸せになりますよね？
+c312_Lobby_Touch_3:
+  en: Of all the household chores, I'm best at cleaning!
+  ko: 헤헤. 가사 중에서도 청소가 제일 자신 있어요.
+  ja: えへへ。家事の中でも掃除が一番自信あります。
+c312_Lobby_Touch_Love_1:
+  en: Maid for you♪ Maid for you♪ Meet the maid especially for you♪ What do you think?
+    Did that put you in a better mood?
+  ko: 메이드 포 유~♪ 메이드 포 유~♪ 당신만의 메이드를 만나요~♪ 어떠세요? 행복해지셨나요?
+  ja: |-
+    メイド・フォー・ユー♪メイド・フォー・ユー♪
+    あなただけのメイド～♪
+    いかがですか？幸せになりました？
+c312_Lobby_Touch_Love_2:
+  en: No matter how much I scrub them, these pesky spots are still on the window...
+  ko: 왜 창문에는 닦아도 닦아도 자국이 남는 걸까요오… 혹시 주인님은 알고 계세요?
+  ja: |-
+    どうして拭いても拭いても、窓に跡が残るんでしょうかぁ…
+    ご主人様はどうしてかご存じですか？
+c312_Lobby_Touch_Love_3:
+  en: Here, put your head on my lap so I can clean your ears... Oh, wait... then I
+    won't be able to see your cute little face!
+  ko: 오늘은 귀 청소를 해드릴게요. 제 무릎을 베고 누우시면… 어라? 이러면 주인님 얼굴이 안 보여요~!
+  ja: |-
+    今日は耳の掃除をしますね。
+    私の膝を枕にして…あれ？
+    これじゃご主人様の顔が見えません～！
+c312_Lobby_Stay_1:
+  en: I should tidy the place up while Master is asleep!
+  ko: 주인님이 주무실 때 깨끗하게 청소해야지~
+  ja: ご主人様がお休みのうちに、キレイにお掃除しなきゃ～
+c312_Lobby_Stay_Love_1:
+  en: Hehe, sleeping again... let's see if this will wake Master up...
+  ko: 앗. 또 주무신다. 헤헤. 이렇게 해도 안 일어나시려나~?
+  ja: あっ。またお休みだ。えへへ、これでも起きないかな～？
+c312_Outpost_Touch_1:
+  en: I found a place to clean!
+  ko: 청소할 곳을 발견했어요!
+  ja: お掃除スポットを発見しました！
+c312_Outpost_Touch_2:
+  en: Master, do you want to stop by the Maid Cafe? I can give you a massage.
+  ko: 주인님. 메이드 카페에 들러보실래요? 제가 안마도 해드릴 수 있어요!
+  ja: |-
+    ご主人様。
+    メイドカフェに いらっしゃいませんか？
+    マッサージもしますよ！
+c312_Outpost_Touch_3:
+  en: I like this place! Everyone looks so happy here.
+  ko: 헤헤. 여기는 다들 행복해 보여서 좋아요.
+  ja: えへへ。ここはみんな 幸せそうで いいですね。
+c312_Gacha_Get_1:
+  en: I just want everyone to be happy.
+  ko: 헤헤. 모두가 행복했으면 좋겠어요~
+  ja: |-
+    えへへ。
+    みんなが幸せでありますように～
+c312_Reinforce_1:
+  en: I feel so refreshed!
+  ko: 상쾌해졌어요!
+  ja: スッキリしました！
+c312_Reinforce_2:
+  en: Cleaner and cleaner!
+  ko: 더 깨끗하게~!
+  ja: もっとキレイに～！
+c312_Reinforce_3:
+  en: Does this mean I won't get into as many accidents?
+  ko: 이거면 실수를 덜 하게 되겠죠오…?
+  ja: これでミスも減りますよね…？
+c312_Gift_1:
+  en: Huh...? Are you giving it to me? Wow!
+  ko: 흐에…? 저한테 주시는 거예요…? 와아…!
+  ja: |-
+    ふぇ…？
+    私にくれるんですか…？わぁ…！
+c312_Gift_2:
+  en: I want to do something in return, but I'm not sure what you like.
+  ko: 답례로 저도 뭔가 드리고 싶은데, 뭐가 좋으세요?
+  ja: 私も何かお返ししたいのですが、何がいいですか？
+c312_Gift_3:
+  en: I feel like you always give me gifts, but I never return the favor. Are you
+    sure that's okay?
+  ko: 맨날 주인님께 받기만 하는 것 같은데 괜찮은 걸까요오….
+  ja: いつもご主人様からもらってばかりでいいのでしょうかぁ…
+c312_Attractive_Up_1:
+  en: All I want is for Master to be as happy as I am!
+  ko: 지금 제가 행복한 만큼, 주인님도 행복하게 해드릴게요!
+  ja: 私が幸せなのと同じくらい、ご主人様も幸せにしてあげますね！
+c312_Attractive_Up_2:
+  en: I like you so, so much, Master!
+  ko: 주인님. 정~말 좋아해요~!
+  ja: ご主人様。だ～い好きです！
+c312_Attractive_Up_3:
+  en: I want to be your personal maid, Master!
+  ko: 저, 주인님의 전속 메이드가 되고 싶어요!
+  ja: 私、ご主人様の専属メイドになりたいです！
+c312_Party_Deploy_1:
+  en: Cleaning preparations all finished.
+  ko: 청소 준비 완료예요!
+  ja: お掃除の準備、完了です！
+c312_Field_Touch_1:
+  en: Got it.
+  ko: 네에~
+  ja: は～い！
+c312_Field_Go_1:
+  en: I'll be going.
+  ko: 갑니다아~
+  ja: いっきまぁ～す！
+c312_Battle_Enter_1:
+  en: Cleaning starts now!
+  ko: 청소 시작이에요~!
+  ja: お掃除スタートです！
+c312_Battle_Ready_1:
+  en: Everyone, hang in there!
+  ko: 모두 힘내주세요~
+  ja: みなさん、頑張りましょう！
+c312_Battle_Ready_2:
+  en: Just look at this mess! Better start cleaning.
+  ko: 청소할 게 잔뜩 있네요~!
+  ja: お掃除するものがいっぱいです！
+c312_Battle_Ready_3:
+  en: No mistakes this time!
+  ko: 실수하지 않을게요!
+  ja: 失敗しませんから！
+c312_Reload_1:
+  en: Heave-ho!
+  ko: 영~차.
+  ja: よいしょっ。
+c312_Reload_2:
+  en: Is this thing working?
+  ko: 제대로 되는 거겠죠오…?
+  ja: これで合ってますよね…？
+c312_Reload_3:
+  en: I mustn't break it...
+  ko: 고장 내면 안 되는데에….
+  ja: 壊しちゃったらどうしよう…
+c312_Ult_Skill_Ready_1:
+  en: Huh? I-I think it's ready!
+  ko: 흐에? 주, 준비된 것 같아요!
+  ja: ふぇぇ？じゅ、準備OKです！
+c312_Ult_Skill_1:
+  en: I want this place... immaculate!
+  ko: 오늘도… 깨끗하게!
+  ja: 今日も…キレイに！
+c312_FullBurst_1:
+  en: Nothing like a good cleaning, am I right?
+  ko: 청소는 정말 기분 좋아요. 그쵸오~
+  ja: お掃除って気持ちいいですよね～
+c312_Kill_Monster_1:
+  en: Stop making such a mess!
+  ko: 어지르는 건 안 돼요!
+  ja: 散らかしちゃダメですよ！
+c312_Kill_Monster_2:
+  en: There we go, sparkling clean!
+  ko: 반짝반짝해졌네요~!
+  ja: ピカピカになりました～！
+c312_Kill_Monster_3:
+  en: Argh!
+  ko: 에잇~!
+  ja: えいっ！
+c312_Damage_1:
+  en: Ow...
+  ko: 흐엥….
+  ja: ふぇん…
+c312_Damage_2:
+  en: Gasp.
+  ko: 호엑.
+  ja: ほぇっ。
+c312_Damage_3:
+  en: Yikes!
+  ko: 꺄악?!
+  ja: キャアッ！？
+c312_Die_1:
+  en: Oweee... Master...
+  ko: 흐에엥… 주인니임….
+  ja: ふぇぇん…ご主人さまぁ…
+c312_Win_1:
+  en: Wowee, we did it!
+  ko: 와아~ 해냈어요~!
+  ja: わぁ～やりました～！
+312_cv_ja:
+  en: 'CV: Konomi Kohara'
+  ko: 'CV : 코하라 코노미'
+  ja: CV：小原好美
+312_cv_ko:
+  en: 'CV: Park Shi-yoon'
+  ko: 'CV : 박시윤'
+  ja: CV：パク・シユン
+312_cv_en:
+  en: 'CV: Elizabeth'
+  ko: 'CV : 엘리자베스'
+  ja: CV：Elizabeth

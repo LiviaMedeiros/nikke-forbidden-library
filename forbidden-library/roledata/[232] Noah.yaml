@@ -1,0 +1,489 @@
+---
+232_name:
+  en: Noah
+  ko: 노아
+  ja: ノア
+c232_description:
+  en: A widely recognized invincible shield of the surface that protects Inherit.
+    She has possessed tremendous strength since she was a child, leading to her picking
+    up some bad habits.
+  ko: "자타 공인 지상 최강의 방패. \n인헤르트 스쿼드의 든든한 벽이 되어주는데다가, 어린 나이에 지나치게 큰 힘을 갖게 되어 버릇이 아주
+    나쁘다."
+  ja: |-
+    自他ともに認める地上最強の盾。
+    インヘルト部隊の頼もしい壁となってくれるが、
+    幼い頃から大きな力を手に入れてしまったことにより、
+    非常に態度が悪い。
+232_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50232:
+  en: Noah's Spare Body
+  ko: 노아 스페어 바디
+  ja: ノアのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+22322_name:
+  en: Cruisin' for a Bruisin'
+  ko: 때려볼래?
+  ja: 殴ってみれば？
+22322_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects the target(s).
+    <color=#00AEFF>Taunt for {description_value_01} sec.
+    ATK ▼ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 대상에게
+    <color=#00AEFF>[도발] [{description_value_01}초 유지]
+    [공격력 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、対象に
+    <color=#00AEFF>「挑発」「{description_value_01}秒間維持」
+    「攻撃力{description_value_02}％▼」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22321_name:
+  en: This is Gonna Hurt
+  ko: 아파 보이네?
+  ja: 痛そうだね？
+22321_description:
+  en: |-
+    ■ There is a {description_value_03}% chance of activating when attacked. Affects all allies.
+    <color=#00AEFF>Damage Taken ▼ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 피격 시 {description_value_03}% 확률로 아군 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_01}% ▼] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■攻撃を受けた時、{description_value_03}％の確率で味方全体に
+    <color=#00AEFF>「受けるダメージ{description_value_01}％▼」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12323_name:
+  en: U Mad Bro?
+  ko: 약오르죠?
+  ja: ムカつくでしょう？
+12323_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attract: Taunt all enemies for {description_value_02} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Invulnerable for {description_value_03} sec.
+    DEF ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[주목 : 적 전체 도발] [{description_value_02}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[무적] [{description_value_03}초 유지]
+    [방어력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「ヘイト：敵全体を挑発」「{description_value_02}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「無敵」「{description_value_03}秒間維持」
+    「防御力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+231_name:
+  en: Isabel
+  ko: 이사벨
+  ja: イサベル
+230_name:
+  en: Harran
+  ko: 하란
+  ja: ハラン
+233_name:
+  en: Dorothy
+  ko: 도로시
+  ja: ドロシー
+c232_Lobby_Touch_1:
+  en: Good grief, I don't think I've even laid eyes upon such a weak Commander.
+  ko: 우와~ 같은 지휘관인데 그렇게 약해도 괜찮은 거야?
+  ja: うげ～同じ指揮官なのにこんなに弱くていいの？
+c232_Lobby_Touch_2:
+  en: Hehe...
+  ko: 키득키득….
+  ja: クスクス…
+c232_Lobby_Touch_3:
+  en: I'll never obey any command that comes from an impostor's mouth.
+  ko: 가짜 지휘관 명령은 안 드를 근듸~
+  ja: 偽物指揮官の命令なんて聞かないよ～
+c232_Lobby_Touch_Love_1:
+  en: Ah~ I said I would protect you from now on!
+  ko: 아~ 앞으로는 이 노아 님이 지켜 준다니깐? 진짜로!
+  ja: |-
+    ほらほら～これからはこのノア様が守ってあげるから。
+    本当だってば！
+c232_Lobby_Touch_Love_2:
+  en: |-
+    Your weakness is simply one of your many charms.
+    This way, the only way I'll lose is if I let you win on purpose! Hehehe.
+  ko: |-
+    울 가짜는 약해빠진 게 매력이즤~
+    탱킹 하는 맛이 있거든. 키득키득.
+  ja: |-
+    偽物は弱っちいところがまた魅力だよね～
+    無気力の美っていうか～
+    クスクス。
+c232_Lobby_Touch_Love_3:
+  en: |-
+    Imposter, very well, you may caress my hair.
+    Not everyone can earn this privilege.
+  ko: "가짜 너한테만 특~별히 내 머릴 쓰다듬을 기회를 줄게. \n…이거 아무한테나 주는 거 아니다?"
+  ja: |-
+    偽物だけに、特別に私の頭をなでるチャンスをあげちゃう。
+    …これ、誰でもできることじゃないんだよ？
+c232_Lobby_Stay_1:
+  en: Hypocrite, whenever you stare off into space like that, your weakness is...too
+    much to take. Blech...
+  ko: 가짜 너, 멍 때리는 모습도 약해 보이네. 풉….
+  ja: |-
+    偽物って、ぼうっとしてる姿も弱っちく見えるね。
+    プフッ…
+c232_Lobby_Stay_Love_1:
+  en: Hey, why didn't you choose the Mightiest Shield on the Surface for the battle?
+    You're not afraid of Raptures, are you?
+  ko: 저기 가짜. 이 [지상 최강의 방패] 님이 파티에 있는데 왜 출전을 안 해? 무셔워? 랩쳐한테 쫄았쪄?
+  ja: |-
+    おい、偽物。
+    この「地上最強の盾」様が仲間にいるのに、どうして出陣しないの？
+    怖いから？
+    ラプチャーって怖いよね～？
+c232_Outpost_Touch_1:
+  en: It may have been built by a bunch of impostors, but the base is actually looking
+    good. About as good as our outhouse, that is.
+  ko: |-
+    오~ 가짜네 기지치고는 잘 꾸며놨네.
+    우리 기지 화장실만큼이나 멋있는걸?
+  ja: |-
+    お～ 偽物の基地にしては なかなかだね。
+    私たちの基地の トイレといい勝負だけど。
+c232_Outpost_Touch_2:
+  en: Hehehe...
+  ko: 키득키득키득….
+  ja: クスクスクス…
+c232_Outpost_Touch_3:
+  en: |-
+    Kneel before me and lick my boots,
+    and perhaps I'll consider seeing you as my commander... for a day.
+  ko: "[위대하신 노아 님]이라고 백 번 말한다면, \n오늘 하루쯤은 지휘관 취급해 줄 수도 있어."
+  ja: |-
+    「偉大なるノア様」って 百回言えば 今日1日ぐらいなら
+    指揮官扱いしてあげても いいよ。
+c232_Gacha_Get_1:
+  en: Get behind me, you weaklings.
+  ko: 약해빠진 인간들은 다 내 뒤에 숨어~
+  ja: 弱っちい人間どもは全員私の後ろに隠れて～
+c232_Reinforce_1:
+  en: Ha, I'm stronger!
+  ko: 헛. 더 강해져 버렸어.
+  ja: はっ。もっと強くなっちゃった。
+c232_Reinforce_2:
+  en: Heehee, you are falling further behind!
+  ko: 키득키득. 이걸로 격차가 더 커져 버렸네?
+  ja: クスクス。これじゃあもっと差が開いちゃうね？
+c232_Reinforce_3:
+  en: I can grow even stronger.
+  ko: 아직 한참 더 세질 거지롱.
+  ja: まだまだこれからもっと強くなるよ～だ。
+c232_Gift_1:
+  en: Are you trying to bribe me with this?
+  ko: "…이, 이런 걸로 날 꼬시겠다고?"
+  ja: "…こ、こんなので私を誘惑するつもり？"
+c232_Gift_2:
+  en: Ahem... I can see that you put some thought into this.
+  ko: 큼, 머리 좀 썼네.
+  ja: ふん、悪知恵だけはあるんだから。
+c232_Gift_3:
+  en: Oh my gosh... For me?
+  ko: "……우와아아."
+  ja: "……うわあああ。"
+c232_Attractive_Up_1:
+  en: I normally don't allow impostors to follow me, but I'll make an exception for
+    you. Just keep it a secret, all right?
+  ko: |-
+    가, 가짜라도 특별히 날 모실 수 있게 해 줄게.
+    ……진짜 지휘관한텐 비밀인 거 알지?
+  ja: |-
+    に、偽物でも特別に私にお仕えできるようにしてあげる。
+    ……本当の指揮官には秘密だよ？分かった？
+c232_Attractive_Up_2:
+  en: I'll put this offering of yours to good use, hehe!
+  ko: 가짜가 그동안 바친 조공이 빛을 발했노라~ 뚜둔!
+  ja: 偽物の今までの努力が功を奏したのだ～ジャジャ～ン！
+c232_Attractive_Up_3:
+  en: |-
+    Why are you so eager to have a closer relationship with me?
+    Well, either way, I won't say no to it.
+  ko: "뭐야~ 가짜, 나랑 그렇게까지 친해지고 싶었쪄? \n…응, 뭐. 안 될 건 없지만."
+  ja: |-
+    何だよ～偽物ったら、そんなに私と仲良くなりたかったんでちゅか？
+    …うん、まあ、不可能なことじゃないけど。
+c232_Party_Deploy_1:
+  en: Need my help? Hehehe.
+  ko: 내 도움이 필요하다는 거지? 키득키득.
+  ja: 私の力が必要ってことでしょ？クスクス。
+c232_Field_Touch_1:
+  en: What's the scoop? Anything fun?
+  ko: 뭐 재밌는 일 없어?
+  ja: 何か面白いことない？
+c232_Field_Go_1:
+  en: What? I'm already on it.
+  ko: 아~ 가고 있다고오.
+  ja: もう～今行くところだってば。
+c232_Battle_Enter_1:
+  en: Let's get started!
+  ko: 전투 시작!
+  ja: 戦闘開始！
+c232_Battle_Ready_1:
+  en: Time to crush those weaklings. Hehehe.
+  ko: 약한 놈들을 괴롭혀줄 때가 왔네. 키득키득.
+  ja: 弱い奴らをいじめる時間だね。クスクス。
+c232_Battle_Ready_2:
+  en: Like shooting fish in a barrel.
+  ko: 이 정도야 누워서 숨쉬기지.
+  ja: こんなのちょろいもんよ。
+c232_Battle_Ready_3:
+  en: You can't even leave a scratch on my shield.
+  ko: 내 방패엔 스칠 수도 없을걸?
+  ja: この盾に指一本も触れることはできないはずよ？
+c232_Reload_1:
+  en: This is taking forever.
+  ko: 빨리 좀 돼라아.
+  ja: 早く早く。
+c232_Reload_2:
+  en: I'm cooling down.
+  ko: 아, 방열 중이라고~
+  ja: あっ、放熱中だってば～
+c232_Reload_3:
+  en: Those guys are dead meat.
+  ko: 이제 저놈들 다 죽었어.
+  ja: もうあいつらは全滅したよ。
+c232_Ult_Skill_Ready_1:
+  en: Impostor, now!
+  ko: 가짜! 지금이야, 지금!
+  ja: 偽物！今がチャンスだよ、今！
+c232_Ult_Skill_1:
+  en: I am invincible! Hehehe.
+  ko: 이런 게 바로 무적이란 거 아니겠어? 키득키득.
+  ja: これこそまさしく無敵ってやつじゃない？ヒヒヒヒッ。
+c232_FullBurst_1:
+  en: Girls, teach them a lesson!
+  ko: 다 같이 혼쭐을 내 주자고!
+  ja: みんなで懲らしめちゃおうよ！
+c232_Kill_Monster_1:
+  en: Weaklings.
+  ko: 응~ 약하네.
+  ja: う～ん、弱いな。
+c232_Kill_Monster_2:
+  en: So easy.
+  ko: 엥. 너무 쉬운 거 아냐?
+  ja: ええ？ちょっと簡単すぎない？
+c232_Kill_Monster_3:
+  en: Anyone?
+  ko: 다음 와 봐~
+  ja: 次のやつ、来いよ～
+c232_Damage_1:
+  en: Argh!
+  ko: 아야!
+  ja: ああ！
+c232_Damage_2:
+  en: Ah, don't!
+  ko: 아, 쫌!
+  ja: あぁ、もう！
+c232_Damage_3:
+  en: Oops!
+  ko: 아오~
+  ja: ふぅ～
+c232_Die_1:
+  en: No, impossible!
+  ko: 이, 이런 건 말도 안 돼…!
+  ja: こ、こんなのシャレになんない…！
+c232_Win_1:
+  en: If only a REAL commander could see this.
+  ko: 아~ 이걸 진짜 지휘관이 봤어야 했는데!
+  ja: 悔しい～！これは本物の指揮官に見てもらいたかったのに！
+232_cv_ja:
+  en: 'CV: Yui Ogura'
+  ko: 'CV : 오구라 유이'
+  ja: CV：小倉唯
+232_cv_ko:
+  en: 'CV: Jo Kyung-yi'
+  ko: 'CV : 조경이'
+  ja: CV：チョ・ギョンイ
+232_cv_en:
+  en: 'CV: Jackie Lastra'
+  ko: 'CV : 재키 라스트라'
+  ja: CV：Jackie Lastra

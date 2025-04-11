@@ -1,0 +1,533 @@
+---
+590_name:
+  en: Mori
+  ko: 모리
+  ja: モリー
+c590_description:
+  en: |-
+    A Nikke from Missilis' Incubator Squad.
+    With no outstanding abilities, she was part of a mass-produced Nikke squad but was later expelled to the Incubator Squad as a disciplinary action.
+    She does not trust those around her and keeps all kinds of survival items in her bag.
+  ko: |-
+    미실리스 출신의 인큐베이터 소속의 니케.
+    특출난 능력이 없어, 양산형 스쿼드에 소속되어 있다가 징계를 받고 인큐베이터 스쿼드로 쫓겨났다.
+    주변 사람들을 잘 믿지 못해, 가방 속에 온갖 생존 물품을 구비하고 다닌다.
+  ja: |-
+    ミシリス出身のインキュベーター所属のニケ。
+    特別な能力がなく、量産型部隊に所属していたが
+    懲戒処分となりインキュベーター部隊に厄介払いされた。
+    周りの人々を信用できず、様々なサバイバル道具を持ち歩いている。
+590_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_590:
+  en: Mori's Spare Body
+  ko: 모리 스페어 바디
+  ja: モリーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25902_name:
+  en: All-Out Support
+  ko: 필사의 지원
+  ja: 必死のサポート
+25902_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s) when self is in Struggle status. Affects the target.
+    <color=#00AEFF>Taunts for {description_value_02} sec.</color>
+    ■ Activates when <word_group=10052>the parts of any ally (including caster) are destroyed</word_group>. Affects all allies.
+    <color=#00AEFF>Sustained damage ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+    ■ Activates when <word_group=10052>the parts of any ally (including caster) are destroyed</word_group>. Affects {description_value_06} enemy unit(s) with the highest ATK.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_08} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 명중 시 자신이 발버둥 상태라면 대상에게
+    <color=#00AEFF>[도발] [{description_value_02}초 유지]</color>
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 아군 전체에게
+    <color=#00AEFF>[지속 대미지 {description_value_03}% ▲] [{description_value_04} 중첩] [{description_value_05}초 유지]</color>
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 공격력 가장 높은 적 {description_value_06}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 지속 대미지] [1초 간격] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、自分が必死の抵抗状態なら対象に
+    <color=#00AEFF>「挑発」「{description_value_02}秒間維持」</color>
+    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>、味方全体に
+    <color=#00AEFF>「持続ダメージ{description_value_03}％▲」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>、攻撃力が最も高い敵{description_value_06}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％の持続ダメージ」「1秒間隔」「{description_value_08}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25901_name:
+  en: Mole in Hiding
+  ko: 두더지 숨기
+  ja: モグラ隠れ
+25901_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF>Struggle: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the <word_group=10025>final</word_group> Max HP continuously.</color>
+    ■ Activates when using Burst Skill. Affects self if not in Struggle status.
+    <color=#00AEFF>Struggle: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the <word_group=10025>final</word_group> Max HP continuously.</color>
+    ■ Activates when Struggle status ends. Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_02}% continuously, stacks up to {description_value_03} time(s).</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[발버둥 : <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>
+    ■ 버스트 스킬 사용 시 자신이 발버둥 상태가 아니라면 자신에게
+    <color=#00AEFF>[발버둥 : <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>
+    ■ 발버둥 상태 종료 시 자신에게
+    <color=#00AEFF>[최대 체력 {description_value_02}% ▲] [{description_value_03} 중첩] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「必死の抵抗：<word_group=10025>最終</word_group>最大HPの{description_value_01}％の<word_group=10023>バリア</word_group>」「持続」</color>
+    ■バーストスキルを使用した時、
+    自分が必死の抵抗状態でなければ自分に
+    <color=#00AEFF>「必死の抵抗：<word_group=10025>最終</word_group>最大HPの{description_value_01}％の<word_group=10023>バリア</word_group>」「持続」</color>
+    ■必死の抵抗が終了した時、自分に
+    <color=#00AEFF>「最大HP{description_value_02}％▲」「{description_value_03}スタック」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15903_name:
+  en: Survival Tactics of the Weak
+  ko: 약자의 생존법
+  ja: 弱者の生存術
+15903_description:
+  en: |-
+    ■ Activates when self is in Struggle status. Affects self.
+    <color=#00AEFF><word_group=10048>Recovers Shield HP</word_group> equal to {description_value_01}% of caster’s <word_group=10025>final</word_group> Max HP.</color>
+    ■ Activates when self is not in Struggle status. Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Sustained damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신이 발버둥 상태라면 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 <word_group=10048>보호막 체력</word_group> {description_value_01}% 회복]</color>
+    ■ 자신이 발버둥 상태가 아니라면 자신에게
+    <color=#00AEFF>[최대 체력 {description_value_02}% ▲][{description_value_03}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[지속 대미지 {description_value_04}%▲][{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分が必死の抵抗状態なら自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPに比例して
+    <word_group=10048>バリアHP</word_group>{description_value_01}％回復」</color>
+    ■自分が必死の抵抗状態でなければ自分に
+    <color=#00AEFF>「最大HP{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「持続ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c590_Lobby_Touch_1:
+  en: What are you looking at? Haven't you ever seen anyone eat before?
+  ko: 뭘 봐요. 밥 먹는 거 처음 봐요?
+  ja: |-
+    何見てるんですか。
+    人がご飯食べてるとこ見るの、初めてですか？
+c590_Lobby_Touch_2:
+  en: Stay out of my hair, and I'll do the same for you.
+  ko: |-
+    저 신경 쓰지 마세요.
+    저도 평가자님한테 신경 안 쓸 테니까.
+  ja: |-
+    私のことならお構いなく。
+    お互いキョーミないってことで。
+c590_Lobby_Touch_3:
+  en: What am I supposed to do here?
+  ko: 난 또 여기서 뭘 해야 하지.
+  ja: 何をどうしたらいいんだろう…
+c590_Lobby_Touch_Love_1:
+  en: |-
+    Huh? You're giving me something to eat?
+    ... You're a better person than I expected.
+  ko: |-
+    머, 먹을 걸 준다고요…?
+    …생각보다는 좋은 분이시네요.
+  ja: |-
+    た、食べ物をくれる…？
+    …思ったより親切なんですね。
+c590_Lobby_Touch_Love_2:
+  en: If it's you we're talking about... I suppose I can share a piece of bread.
+  ko: 평가자님이라면, 빵 한 조각 정도는 나눠줄 수 있어요.
+  ja: 評価者様にならパンを少しあげてもいいかな。
+c590_Lobby_Touch_Love_3:
+  en: I lack in a lot of areas, but I'll do the best I can.
+  ko: |-
+    제가 좀 많이 부족하긴 한데요.
+    그래도 할 수 있는 건 최선을 다해볼게요.
+  ja: |-
+    私ってできないことばっかりだけど…
+    でもベストは尽くしてみます。
+c590_Lobby_Stay_1:
+  en: I know I don't have much to offer, but leaving me like this is still a bit uncalled
+    for...
+  ko: |-
+    내가 쓸모없는 건 알겠는데,
+    이렇게 방치해두는 건 좀 너무하지 않나….
+  ja: |-
+    私が役立たずなのは分かってるけど、
+    放置ってのは酷すぎない？
+c590_Lobby_Stay_Love_1:
+  en: |-
+    I can have breaks now? What a life.
+    I can't remember the last time I was this at ease.
+  ko: |-
+    쉬는 시간도 주고, 팔자 좋네.
+    …이렇게 마음 편하게 있는 게 얼마 만인지 모르겠어.
+  ja: |-
+    休憩時間もくれるし、ゴクラクゴクラク。
+    …こんなに気持ちが楽なのって、いつぶりかな。
+c590_Outpost_Touch_1:
+  en: What is it? Is there something you want me to do?
+  ko: 왜요, 뭐 시킬 거라도 있어요?
+  ja: |-
+    なんすか？
+    パシリでもさせるつもりですか？
+c590_Outpost_Touch_2:
+  en: |-
+    Everyone here looks so happy.
+    ... Unlike me.
+  ko: |-
+    여기 있는 사람들은 다 행복해 보이네요.
+    …저랑 다르게.
+  ja: |-
+    ここの人はみんな幸せそう。
+    …私とは大違い。
+c590_Outpost_Touch_3:
+  en: I see a lot of different shops, but it seems like I don't really belong anywhere.
+  ko: |-
+    이런저런 가게는 많아 보이는데,
+    딱히 제가 있을 만한 곳은 없어 보이네요.
+  ja: |-
+    色々お店はありますけど、
+    私が入れる場所はなさそうです。
+c590_Gacha_Get_1:
+  en: |-
+    I'm Mori, a member of the Incubator Squad.
+    ... Call me if you need me to do anything.
+  ko: |-
+    인큐베이더 스쿼드 소속, 모리라고 해요.
+    …시킬 거 있으면 불러주세요.
+  ja: |-
+    インキュベーター部隊のモリーです。
+    …何か用事があったら呼んでください。
+c590_Reinforce_1:
+  en: |-
+    Don't waste your time and money on me.
+    I won't be of any help to you anyway.
+  ko: |-
+    저한테 투자하지 마세요.
+    그래봤자 아무런 도움도 안 될 텐데요, 뭐.
+  ja: |-
+    私に投資しないでください。
+    何の意味もないですから。
+c590_Reinforce_2:
+  en: Why do you insist on having expectations of me? It's a real burden on me.
+  ko: 왜 자꾸 기대하는 건데요, 부담스럽게.
+  ja: そんなに期待されても困ります。
+c590_Reinforce_3:
+  en: "... I'll try my best to do what I can, so just hold on a minute."
+  ko: "…뭐라도 해볼 테니까, 잠시만 기다려 봐요."
+  ja: "…何かしてみますから、ちょっと待っててください。"
+c590_Gift_1:
+  en: |-
+    Why are you giving me this...?
+    I don't have anything to give you...
+  ko: |-
+    왜 저한테 이런 걸…
+    전 드릴 게 딱히 없는데요….
+  ja: |-
+    どういう風の吹き回しですか…
+    返せるものもないのに…
+c590_Gift_2:
+  en: |-
+    Um... er...
+    Thank you...
+  ko: |-
+    으, 으으음…
+    감사합니다….
+  ja: |-
+    う、ううう…
+    ありがとうございます…
+c590_Gift_3:
+  en: Wow... I've never received anything like this before.
+  ko: 우와… 저 살면서 이런 거 처음 받아봐요.
+  ja: わあ…こんなの初めてです！
+c590_Attractive_Up_1:
+  en: How nice would it be if the world were made up entirely of people like you,
+    Evaluator?
+  ko: 세상에 평가자님 같은 사람들만 있으면 얼마나 좋을까요.
+  ja: 評価者様みたいな人ばっかりだったらいいのに。
+c590_Attractive_Up_2:
+  en: Thanks to you, I smiled for the first time in a long while.
+  ko: 덕분에, 진짜 오랜만에 좀 웃었어요.
+  ja: おかげさまで本当に久しぶりに笑いました。
+c590_Attractive_Up_3:
+  en: If I'd met you earlier, do you think my life would have turned out differently?
+  ko: 평가자님을 일찍 만났으면, 제 삶도 좀 달라졌을까요…?
+  ja: |-
+    もう少し早く評価者様と出会っていたら、
+    私の人生も違ったでしょうか？
+c590_Party_Deploy_1:
+  en: Even if you bring me along, I won't be of any help.
+  ko: 절 데려가도 아무런 도움이 안 될걸요.
+  ja: 私は何の役にも立ちませんよ。
+c590_Field_Touch_1:
+  en: What's up?
+  ko: 왜요.
+  ja: 何ですか。
+c590_Field_Go_1:
+  en: Moving out.
+  ko: 잘 가고 있다고요.
+  ja: ちゃ～んと移動中ですけど。
+c590_Battle_Enter_1:
+  en: Gah! Rapture!
+  ko: 흐, 흐익…! 랩쳐…!
+  ja: ひ、ひぃっ…！ラプチャー…！
+c590_Battle_Ready_1:
+  en: Screw it, whatever happens, happens!
+  ko: 젠장, 이판사판이다…!
+  ja: くそっ、なるようになれっ…！
+c590_Battle_Ready_2:
+  en: Can I do this...?
+  ko: 내가 할 수 있을까…?
+  ja: 私にできるかな…？
+c590_Battle_Ready_3:
+  en: "... All right! Let's do this!"
+  ko: "…좋아! 한번 해보자고!"
+  ja: "…よし！やってみよ！"
+c590_Reload_1:
+  en: Re-reloading!
+  ko: 리, 리로드!
+  ja: リ、リロード！
+c590_Reload_2:
+  en: Huff...! Huff...!
+  ko: 후우…! 후우…!
+  ja: ふぅ…！ふぅ…！
+c590_Reload_3:
+  en: Wait! I said wait!
+  ko: 잠시만! 진짜 잠시만!
+  ja: |-
+    ちょっと待って！
+    ホントにちょっとだけ！
+c590_Ult_Skill_Ready_1:
+  en: I'm ready!
+  ko: 준비됐어요!
+  ja: 準備できました！
+c590_Ult_Skill_1:
+  en: I-I'll eat quickly, so stop staring!
+  ko: 빠, 빨리 먹을 테니까 그만 쳐다봐요!
+  ja: さ、さっさと食べますから見ないでくださいっ！
+c590_FullBurst_1:
+  en: Ughh... Let's go!!
+  ko: 으으… 가자!!
+  ja: うぅ…行くよ！！
+c590_Kill_Monster_1:
+  en: I took it down!
+  ko: 내가 해치웠어…!
+  ja: 私がやったの…！？
+c590_Kill_Monster_2:
+  en: Did you see that?!
+  ko: 봤어요?!
+  ja: 今の見ました！？
+c590_Kill_Monster_3:
+  en: It worked!
+  ko: 이게 되네…!
+  ja: 嘘でしょ…！
+c590_Damage_1:
+  en: Nngh!
+  ko: 윽…!
+  ja: うっ…！
+c590_Damage_2:
+  en: Agh!
+  ko: 크악!
+  ja: くあっ！
+c590_Damage_3:
+  en: Ugh!
+  ko: 으읏…!
+  ja: うう…！
+c590_Die_1:
+  en: I told you... I'm no help at all...
+  ko: 말했잖아요, 전... 아무런 도움이 안 된다고….
+  ja: |-
+    言ったじゃないですか…
+    私は…役立たずだって…
+c590_Win_1:
+  en: That... actually worked? Am I not entirely worthless in battle?
+  ko: 이게, 이게 된다고? 나 전투에 소질 좀 있나…?
+  ja: |-
+    え、え、私ちゃんと戦えてる！？
+    私、戦闘の才能あるかも…？
+590_cv_ja:
+  en: 'CV: Risa Tsumugi'
+  ko: 'CV : 츠무기 리사'
+  ja: CV：紡木吏佐
+590_cv_ko:
+  en: 'CV: Park Go-woon'
+  ko: 'CV : 박고운'
+  ja: CV：パク・ゴウン
+590_cv_en:
+  en: 'CV: Katiana Sarkissian'
+  ko: 'CV : 카티아나 사르키시안'
+  ja: CV：Katiana Sarkissian

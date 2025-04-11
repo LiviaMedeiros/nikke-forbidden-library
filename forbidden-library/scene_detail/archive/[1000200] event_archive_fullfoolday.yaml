@@ -1,0 +1,3257 @@
+---
+event_fullfoolday_01:
+  event_fullfoolday_01_1:
+    speaker: shifty
+    en: Commander.
+    ko: 지휘관.
+    ja: 指揮官。
+  event_fullfoolday_01_2:
+    speaker: shifty
+    en: Do you trust me? I need you to come to these coordinates, no questions asked.
+    ko: 아무것도 묻지 말고 제가 불러주는 좌표로 와주시겠어요?
+    ja: 何も聞かずに、私がお伝えする座標まで\n来ていただけますか？
+  event_fullfoolday_01_3:
+    speaker: shifty
+    en: It's an emergency.
+    ko: 긴급 상황이에요.
+    ja: 緊急事態です。
+  event_fullfoolday_01_4:
+    speaker: "<Self>"
+    en: "...??"
+    ko: "…??"
+    ja: "…？？"
+  event_fullfoolday_01_5:
+    speaker: "<Self>"
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かった
+  event_fullfoolday_01_6:
+    speaker: shifty
+    en: Thank you.
+    ko: 예.
+    ja: よろしくお願いします。
+  event_fullfoolday_01_7:
+    speaker: "<Monologue>"
+    en: The communication is cut off.
+    ko: 통신이 끊어졌다.
+    ja: 通信が切れた
+  event_fullfoolday_01_8:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  event_fullfoolday_01_9:
+    speaker: "<Monologue>"
+    en: I look at the coordinates sent by Shifty.
+    ko: 시프티에게 전달받은 좌표를 확인한다.
+    ja: シフティーから受け取った座標を確認した
+  event_fullfoolday_01_10:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_01_11:
+    speaker: "<Monologue>"
+    en: They lead to the surface.
+    ko: 지상이다.
+    ja: 地上だ
+event_fullfoolday_02:
+  event_fullfoolday_02_1:
+    speaker: shifty
+    en: Commander! Commander!!
+    ko: 지휘관! 지휘관--!!
+    ja: 指揮官！指揮官ーー！！
+  event_fullfoolday_02_2:
+    speaker: shifty
+    en: What is it?
+    ko: 왜 그래?
+    ja: どうしたんだ？
+  event_fullfoolday_02_3:
+    speaker: shifty
+    en: R-Raptures are coming! Help me!
+    ko: 래, 랩쳐가 오고 있어요! 도도도, 도도와주세요!
+    ja: ラ、ラプチャーが来ています！\nたたた、たっ、助けてください！
+  event_fullfoolday_02_4:
+    speaker: shifty
+    en: Hurry! Hurry!!
+    ko: 빨리빨리! 빨리!!
+    ja: 早く早く！急いで！！
+  event_fullfoolday_02_5:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_fullfoolday_02_6:
+    speaker: "<Self>"
+    en: What's going on?!
+    ko: 무슨 일이야!?
+    ja: どういうことだ？
+  event_fullfoolday_02_7:
+    speaker: "<Monologue>"
+    en: The call with Shifty cuts off.
+    ko: "…통신이 끊어진 모양이다."
+    ja: "…通信が切れたようだ"
+  event_fullfoolday_02_8:
+    speaker: "<Monologue>"
+    en: I better hurry.
+    ko: 서두르자.
+    ja: 急ごう
+event_fullfoolday_03:
+  event_fullfoolday_03_1:
+    speaker: shifty
+    en: Commander!
+    ko: 으아! 지휘관! 지휘관!
+    ja: うわっ！指揮官！指揮官！
+  event_fullfoolday_03_2:
+    speaker: shifty
+    en: Help me!
+    ko: 도, 도와주세요--!!
+    ja: た、助けてくださーい！！
+  event_fullfoolday_03_3:
+    speaker: "<Self>"
+    en: I can't believe it!
+    ko: |-
+      !!
+      이럴 수가…!!
+    ja: |-
+      ！！
+      そんな…！！
+  event_fullfoolday_03_4:
+    speaker: "<Choice>"
+    en: I always thought you were an AI.
+    ko: 난 지금까지 시프티가 A.I.인 줄 알았는데!!
+    ja: 今までシフティーは\nA.I.だと思っていたのに！！
+  event_fullfoolday_03_5:
+    speaker: "<Choice>"
+    en: What are you doing here, Syuen?
+    ko: 슈엔이 왜 여기에…!!
+    ja: どうしてシュエンがここに…！？
+  event_fullfoolday_03_6:
+    speaker: shifty
+    en: Well, as you can see, I'm very much a real person!
+    ko: "…실존 인물인데요."
+    ja: "…実在していますよ。"
+  event_fullfoolday_03_7:
+    speaker: shifty
+    en: I'm not Syuen!
+    ko: 아 슈엔 아니라고요!!
+    ja: シュエンじゃありません！！
+  event_fullfoolday_03_8:
+    speaker: "<Self>"
+    en: Shifty? What are you doing here?
+    ko: 여기서 뭐해?
+    ja: ここで何をしてるんだ？
+  event_fullfoolday_03_9:
+    speaker: shifty
+    en: Come and help me first, will you?!
+    ko: 이, 일단 저 좀 도와주세요!
+    ja: と、とりあえず助けてください！
+  event_fullfoolday_03_10:
+    speaker: shifty
+    en: The Raptures are rushing in! I need your help!
+    ko: |-
+      래, 랩쳐가 몰려오고 있으니까!
+      저 좀 지휘해 주세요!
+    ja: |-
+      ラ、ラプチャーが集まってるんです！
+      私を指揮してください！
+  event_fullfoolday_03_11:
+    speaker: shifty
+    en: Eeeep! Here they come!
+    ko: 오, 오오오! 옵니다!!
+    ja: き、ききき！来ます！！
+event_fullfoolday_04:
+  event_fullfoolday_04_1:
+    speaker: shifty
+    en: Phew... that was a close one.
+    ko: 흐아아…! 힘들어…!
+    ja: はぁぁ…！大変でしたね…！
+  event_fullfoolday_04_2:
+    speaker: "<Self>"
+    en: "... I have many questions."
+    ko: "…궁금한 게 좀 많은데."
+    ja: "…色々聞きたいことがある"
+  event_fullfoolday_04_3:
+    speaker: shifty
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_04_4:
+    speaker: shifty
+    en: Deputy Chief Andersen was telling me,
+    ko: 엔더슨 부사령관님이,
+    ja: アンダーソン副司令官に
+  event_fullfoolday_04_5:
+    speaker: andersen
+    en: '"Some actual field experience would do all of us good, even operators like
+      you."'
+    ko: "[오퍼레이터도 실전을 경험해야 하니]."
+    ja: "「オペレーターも実戦を経験する必要が\\nあるから」"
+  event_fullfoolday_04_6:
+    speaker: andersen
+    en: '"Come up to the surface and eliminate Raptures."'
+    ko: "[지상에 올라가서 랩쳐나 좀 잡고 오게.]"
+    ja: "「地上へ行ってラプチャーを倒してきてくれ」"
+  event_fullfoolday_04_7:
+    speaker: shifty
+    en: So I armed myself and headed up to the surface to bag myself a Rapture,
+    ko: 라고 했어요.
+    ja: と言われたんです。
+  event_fullfoolday_04_8:
+    speaker: shifty
+    en: but turns out I'm no match for them.
+    ko: |-
+      그래서 무기를 챙겨서 올라왔는데,
+      막상 랩쳐랑 싸워보려 하니까 답이 안 나와서.
+    ja: |-
+      それで武器を持ってやってきたのですが、
+      いざラプチャーを目の前にすると\nどうすればいいか分からなくて
+  event_fullfoolday_04_9:
+    speaker: shifty
+    en: Hence why I had to turn to you for assistance, Commander.
+    ko: 지휘관한테 도움을 요청한 거고요.
+    ja: 指揮官に助けを求めたんです。
+  event_fullfoolday_04_10:
+    speaker: "<Self>"
+    en: Andersen
+    ko: 엔더슨 부사령관님이.
+    ja: アンダーソン副司令官が
+  event_fullfoolday_04_11:
+    speaker: "<Self>"
+    en: ordered you to eliminate Raptures?
+    ko: 시프티보고 랩쳐를 잡고 오라고 했다고?
+    ja: シフティーにラプチャー討伐を命じた？
+  event_fullfoolday_04_12:
+    speaker: shifty
+    en: Yes.
+    ko: 예.
+    ja: はい。
+  event_fullfoolday_04_13:
+    speaker: "<Monologue>"
+    en: I turn on my phone to look at the date.
+    ko: 핸드폰을 켜 날짜를 확인했다.
+    ja: 携帯電話の画面で日付を確認した
+  event_fullfoolday_04_14:
+    speaker: "<Monologue>"
+    en: It's April 1st.
+    ko: 4월 1일이다.
+    ja: 4月1日だ
+  event_fullfoolday_04_15:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_04_16:
+    speaker: shifty
+    en: I've gotta say though, I think I did pretty well!
+    ko: 와 근데 저 좀 잘하지 않나요?
+    ja: でも、私ちょっと上手じゃありませんでした？
+  event_fullfoolday_04_17:
+    speaker: shifty
+    en: I chose a place where only older Rapture models appear.
+    ko: 일부러 구형 랩쳐들이 나오는 곳으로 골라 왔거든요!
+    ja: ちゃんと旧型ラプチャーが出てくる場所を\n選んできたんです！
+  event_fullfoolday_04_18:
+    speaker: "<Self>"
+    en: You seem to know your way around a firearm.
+    ko: "…무기를 잘 다루던데."
+    ja: "…武器の扱いが上手だった"
+  event_fullfoolday_04_19:
+    speaker: shifty
+    en: Well, human weapons wouldn't do me any good in taking down a Rapture, so I
+      had to bring one used by Nikkes.
+    ko: |-
+      아, 랩쳐를 잡는데 대인 화기를 가져올 순 없어서,
+      니케용 화기를 가져왔는데.
+    ja: |-
+      あっ、ラプチャーを倒すのに対人銃器を\n持ってくることはできなかったので、
+      ニケ用の銃器を持ってきたんです。
+  event_fullfoolday_04_20:
+    speaker: shifty
+    en: The recoil is a bit rough, but other than that, I don't think it's too bad.
+    ko: 반동이 심하다고 말한 것치곤 괜찮던데요?
+    ja: 反動が激しいと聞いていましたが、\n意外と平気ですね。
+  event_fullfoolday_04_21:
+    speaker: "<Self>"
+    en: Could I shoot it? Just for a bit.
+    ko: 어… 내가 한 번 쏴봐도 될까?
+    ja: "…私が一度撃ってみてもいいか？"
+  event_fullfoolday_04_22:
+    speaker: shifty
+    en: Sure, knock yourself out.
+    ko: 음. 그럼요.
+    ja: はい。もちろんです。
+  event_fullfoolday_04_23:
+    speaker: "<Monologue>"
+    en: Shifty hands me the weapon. I switch to single fire and shoot off into the
+      distance.
+    ko: 시프티에게 총을 받아 단발로 바꾼 후, 허공에 발사했다.
+    ja: シフティーから銃を受け取り、単発に変えた後、\n虚空に発射した
+  event_fullfoolday_04_24:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 탕-!
+    ja: バンッ！
+  event_fullfoolday_04_25:
+    speaker: shifty
+    en: Um, Commander... is there any reason why you're throwing both your hands in
+      the air?
+    ko: 지휘관. 갑자기 만세는 왜 하시나요?
+    ja: 指揮官。どうして急に万歳してるんですか？
+  event_fullfoolday_04_26:
+    speaker: "<Monologue>"
+    en: "... It feels like my shoulder nearly popped out of the socket."
+    ko: "…어깨가 빠질 것 같다."
+    ja: "…肩が外れそうだ"
+  event_fullfoolday_04_27:
+    speaker: "<Choice>"
+    en: Shifty, do you work out?
+    ko: 시프티. 혹시 운동해?
+    ja: シフティー。鍛えているのか？
+  event_fullfoolday_04_28:
+    speaker: "<Choice>"
+    en: Are you a Nikke by any chance?
+    ko: 혹시 니케야?
+    ja: もしかして、ニケなのか？
+  event_fullfoolday_04_29:
+    speaker: shifty
+    en: Huh? No. Why do you ask?
+    ko: |-
+      ??
+      아뇨? 갑자기 그건 왜요?
+    ja: |-
+      ？？
+      いいえ。いきなりどうしたんですか？
+  event_fullfoolday_04_30:
+    speaker: "<Self>"
+    en: No reason.
+    ko: 아무것도 아냐.
+    ja: 何でもない
+  event_fullfoolday_04_31:
+    speaker: shifty
+    en: At any rate, I feel like I'm on a roll now! Let's keep it going and wipe out
+      all these pesky Raptures!
+    ko: 그럼, 이 기세를 몰아서 싹 다 정리해 볼게요!
+    ja: では、この調子で片付けますね！
+event_fullfoolday_05:
+  event_fullfoolday_05_1:
+    speaker: shifty
+    en: This is actually kinda fun.
+    ko: 그런데 이거 은근히 괜찮네요.
+    ja: ラプチャーとの戦いも意外といいですね。
+  event_fullfoolday_05_2:
+    speaker: shifty
+    en: I usually spend all day cooped up inside the command center, so it feels good
+      to be on the surface getting some fresh air.
+    ko: |-
+      매일 오퍼레이터 룸에서 작전 보조나 하다가
+      지상으로 나오니 엄청 기분 전환이 되는데요?
+    ja: |-
+      毎日オペレータールームで\n作戦サポートばかりでしたが、
+      地上に来ると気分転換になります！
+  event_fullfoolday_05_3:
+    speaker: shifty
+    en: I knew there was a reason Deputy Chief Andersen sent me up here.
+    ko: 역시, 엔더슨 부사령관님이 괜히 저를 지상에 올려보낸 게 아닌 것 같아요.
+    ja: やっぱり、アンダーソン副司令官が\n私を地上へ送ったのには理由があったんですね。
+  event_fullfoolday_05_4:
+    speaker: "<Self>"
+    en: Um... Shifty, today is...
+    ko: 시프티. 사실 오늘은….
+    ja: シフティー。実は今日は…
+  event_fullfoolday_05_5:
+    speaker: shifty
+    en: Oh, and another thing!
+    ko: 아, 그리고….
+    ja: あ、それから…
+  event_fullfoolday_05_6:
+    speaker: shifty
+    en: Whenever I've got this gun in my hand,
+    ko: 이 총.
+    ja: この銃。
+  event_fullfoolday_05_7:
+    speaker: shifty
+    en: this strange feeling comes rushing over me.
+    ko: 총을 잡고 있으면 이렇게… 화악 하고 오는 뭔가가 있는 것 같아요.
+    ja: 銃を握っていると…\nこみ上げてくるものがあるんですよね。
+  event_fullfoolday_05_8:
+    speaker: shifty
+    en: It's hard to describe. It's like I can sense where the enemies are.
+    ko: 뭐랄까… 적이 어디 있는지 알려주는 것 같은 느낌이요.
+    ja: 何というか…敵がどこにいるか\n教えてくれるみたいです。
+  event_fullfoolday_05_9:
+    speaker: "<Self>"
+    en: You're starting to freak me out.
+    ko: 뭐야 그거. 무서워.
+    ja: どういうことだ？怖いんだが…
+  event_fullfoolday_05_10:
+    speaker: shifty
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_fullfoolday_05_11:
+    speaker: shifty
+    en: Who goes there?!
+    ko: 거기냐!
+    ja: そこか！？
+  event_fullfoolday_05_12:
+    speaker: "<Narration>"
+    en: "*Tadadada*"
+    ko: 투두두두-!!
+    ja: ダダダダッー！！
+  event_fullfoolday_05_13:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 펑-!!
+    ja: バンッ！！
+  event_fullfoolday_05_14:
+    speaker: "<Monologue>"
+    en: Off in the distance where Shifty fired, a Rapture is blown to smithereens.
+    ko: "…시프티가 쏜 방향에서 랩쳐가 폭발하며 사라졌다."
+    ja: "…シフティーが撃った方向で\\nラプチャーが爆発して消えた"
+  event_fullfoolday_05_15:
+    speaker: shifty
+    en: I told you! I can see where the enemies are.
+    ko: 보여요! 저한테도 적이 보인다고요!
+    ja: 見えます！\n私にも敵が見えるんです！
+  event_fullfoolday_05_16:
+    speaker: "<Self>"
+    en: What on earth is going on...?
+    ko: "…뭔데 진짜."
+    ja: "…どうなってるんだ？"
+  event_fullfoolday_05_17:
+    speaker: shifty
+    en: We might as well take the rest of these Raptures out before going back.
+    ko: 지휘관. 이왕 이렇게 된 거 이 앞에 랩쳐들을 다 처리하고 들어가죠.
+    ja: 指揮官。せっかくですから、この先にいる\nラプチャーを片付けて帰りましょう。
+  event_fullfoolday_05_18:
+    speaker: shifty
+    en: The Deputy Chief would be upset if I came back without taking full advantage
+      of this opportunity to get combat experience.
+    ko: 부사령관님도 제가 잠깐만 지상을 경험하고 돌아오길 원하지 않을 거예요.
+    ja: 副司令官も、しっかり地上を経験してきてほしい\nと思っているはずです。
+  event_fullfoolday_05_19:
+    speaker: shifty
+    en: Tally-ho!
+    ko: 그럼, 갑니다!
+    ja: では、行きます！
+event_fullfoolday_06:
+  event_fullfoolday_06_1:
+    speaker: shifty
+    en: Phew... I think that should do it, don't you?
+    ko: 후우… 이 정도면 괜찮겠죠?
+    ja: ふぅ…これで大丈夫ですよね？
+  event_fullfoolday_06_2:
+    speaker: "<Self>"
+    en: Considering the fact we wiped them all out, I'd say yes.
+    ko: 응. 랩쳐를 다 쓸어버렸네.
+    ja: ああ。ラプチャーを一掃したな
+  event_fullfoolday_06_3:
+    speaker: "<Self>"
+    en: I didn't even do anything either. It was all you.
+    ko: 시프티 혼자서.
+    ja: シフティー1人で
+  event_fullfoolday_06_4:
+    speaker: shifty
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_06_5:
+    speaker: shifty
+    en: You can be honest with me, Commander. I already figured it out a long time
+      ago.
+    ko: 저 사실 한참 전부터 눈치채고 있었어요.
+    ja: 私、ずっと前から気づいていました。
+  event_fullfoolday_06_6:
+    speaker: shifty
+    en: You and the Deputy Chief planned all of this, didn't you?
+    ko: |-
+      이 모든 일.
+      부사령관님과 지휘관이 준비해 준 거죠?
+    ja: |-
+      これも全部、副司令官と
+      指揮官が準備してくれたんですよね？
+  event_fullfoolday_06_7:
+    speaker: "<Self>"
+    en: "... Huh?"
+    ko: "…응?"
+    ja: "…えっ？"
+  event_fullfoolday_06_8:
+    speaker: shifty
+    en: A little while ago, I had a counseling session.
+    ko: 사실 얼마 전에 상담한 적이 있었거든요.
+    ja: 実は先日、相談をしたんです。
+  event_fullfoolday_06_9:
+    speaker: shifty
+    en: I'd been feeling a bit morose for a while.
+    ko: |-
+      제가 정말 잘 하고 있는지,
+      지상 탈환에 기여하고 있는 건지 확신이 안 들어서요.
+    ja: |-
+      私が本当に上手くやれているのか、
+      地上奪還に貢献できているのか\n自信が持てなくて。
+  event_fullfoolday_06_10:
+    speaker: shifty
+    en: I wasn't sure if I was contributing anything in our fight to reclaim the surface.
+    ko: 기운이 되게 없었어요. 한동안.
+    ja: しばらく落ち込んでいたんです。
+  event_fullfoolday_06_11:
+    speaker: shifty
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_06_12:
+    speaker: "<Monologue>"
+    en: Shifty faces me and bows to show her appreciation.
+    ko: 시프티가 허리를 숙여 인사했다.
+    ja: シフティーは深く頭を下げた
+  event_fullfoolday_06_13:
+    speaker: shifty
+    en: Thank you, Commander.
+    ko: 고맙습니다. 지휘관.
+    ja: ありがとうございます、指揮官。
+  event_fullfoolday_06_14:
+    speaker: shifty
+    en: I appreciate all the trouble you went through to prepare this environment
+      and these Raptures for me.
+    ko: |-
+      이곳의 랩쳐들도, 지상의 환경도.
+      저를 위해 준비해 주시느라 고생 많으셨어요.
+    ja: |-
+      ここのラプチャーも、地上の環境も、
+      私のために用意するの、大変でしたよね。
+  event_fullfoolday_06_15:
+    speaker: "<Self>"
+    en: Uh...
+    ko: "…으응?"
+    ja: "…えっ？"
+  event_fullfoolday_06_16:
+    speaker: shifty
+    en: I'm an operator. I know better than anyone how absurd the notion of taking
+      down so many Raptures with such a small firearm is.
+    ko: |-
+      일개 오퍼레이터인 제가 랩쳐들을
+      이렇게나 작은 화기로 잡는다는 게 말이 안 된다는 거,
+      누구보다 잘 알아요.
+    ja: |-
+      一介のオペレーターである私が、
+      こんな小さな銃でラプチャーを倒すなんて
+      あり得ないって、一番よく分かっています。
+  event_fullfoolday_06_17:
+    speaker: shifty
+    en: Have the Counters been helping me from the sidelines? Or some other Nikkes
+      perhaps?
+    ko: |-
+      카운터스 분들이 몰래 도와주고 계시나요?
+      아니면 다른 니케 분들이?
+    ja: |-
+      カウンターズのみなさんが\nこっそり手伝ってくれたんですか？
+      それとも他のニケのみなさん？
+  event_fullfoolday_06_18:
+    speaker: "<Self>"
+    en: No, that isn't...
+    ko: 아니, 그게….
+    ja: いや、その…
+  event_fullfoolday_06_19:
+    speaker: shifty
+    en: Regardless, I'm thankful for what you've done. I feel a lot better now.
+    ko: |-
+      누가 됐든 감사합니다.
+      덕분에 엄청 기운이 났어요.
+    ja: |-
+      とにかく、ありがとうございます。
+      おかげですっかり元気になりました。
+  event_fullfoolday_06_20:
+    speaker: shifty
+    en: I'm much more confident in myself and my work.
+    ko: 저, 좀 더 열심히 할 수 있을 것 같아요.
+    ja: これからもっと頑張れる気がします。
+  event_fullfoolday_06_21:
+    speaker: shifty
+    en: All of these positive things I'm feeling... I'll try and remember them when
+      I return to work.
+    ko: |-
+      이 기분을 그대로 안고,
+      원래 업무에 복귀하겠습니다.
+    ja: |-
+      この気持ちを忘れずに、
+      元の仕事に戻りますね。
+  event_fullfoolday_06_22:
+    speaker: shifty
+    en: Once again, thank you.
+    ko: 다시 한번, 감사합니다!
+    ja: 本当に、ありがとうございました！
+  event_fullfoolday_06_23:
+    speaker: "<Monologue>"
+    en: Before I can say anything, Shifty says goodbye and leaves...
+    ko: 뭐라 말하기도 전에 시프티는 인사를 하고 달려갔다.
+    ja: こちらが発言する前に、\nシフティーは挨拶をして行ってしまった
+  event_fullfoolday_06_24:
+    speaker: "<Narration>"
+    en: "*Bang! Bang! Bang*"
+    ko: 쾅! 쾅! 쾅!
+    ja: バン！バン！バン！
+  event_fullfoolday_06_25:
+    speaker: "<Monologue>"
+    en: "... casually blowing more Raptures to smithereens as she does."
+    ko: "…시프티가 달려가면서 아무렇게나 쏘는 총에 랩쳐들이 터져나갔다."
+    ja: "…シフティーが走りながら何気なく\\n放った銃撃で、ラプチャーが倒れていった"
+  event_fullfoolday_06_26:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_06_27:
+    speaker: "<Monologue>"
+    en: I think I'll be more than safe following Shifty back to the Outpost.
+    ko: 시프티를 따라가면 안전할 것 같으니 뒤를 따라 전초기지로 돌아가자.
+    ja: シフティーについていけば安全そうだから、\n追いかけて前哨基地に戻ろう
+event_fullfoolday_07:
+  event_fullfoolday_07_1:
+    speaker: anis
+    en: Commander! We've got a problem!
+    ko: |-
+      지휘관님-!!
+      큰일 났어! 큰일 났어!
+    ja: |-
+      指揮官様ー！！
+      大変！大変なの！
+  event_fullfoolday_07_2:
+    speaker: anis
+    en: There's a fire!
+    ko: 지, 지휘관실에 불이 났다고!
+    ja: し、指揮官室で火事よ！
+  event_fullfoolday_07_3:
+    speaker: "<Self>"
+    en: "... No kidding. What are the odds?"
+    ko: 와. 큰일인걸?
+    ja: わあ、大変だな
+  event_fullfoolday_07_4:
+    speaker: neon
+    en: What?! There's a fire?! Where?! How?!
+    ko: 뭐, 뭐라고요? 불이 났다뇨!? 왜요!?
+    ja: な、何ですって？火事！？\nなぜですか！？
+  event_fullfoolday_07_5:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_07_6:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_07_7:
+    speaker: anis
+    en: Neon, didn't we just talk about this?
+    ko: 네온. 우리 아까 말 다 맞추지 않았어?
+    ja: ネオン。さっき口裏合わせたわよね？
+  event_fullfoolday_07_8:
+    speaker: neon
+    en: Huh?
+    ko: 예?
+    ja: えっ？
+  event_fullfoolday_07_9:
+    speaker: anis
+    en: We were both going to lie to the Commander about the Commander's Room being
+      on fire.
+    ko: 지휘관실에 불이 났다고 같이 거짓말하기로 했잖아.
+    ja: 指揮官室で火事が起きたって\n嘘つくことにしたでしょ。
+  event_fullfoolday_07_10:
+    speaker: neon
+    en: Oh, that.
+    ko: 아.
+    ja: あっ。
+  event_fullfoolday_07_11:
+    speaker: neon
+    en: I thought you were just messing with me.
+    ko: 저는 그게 거짓말인 줄 알아서.
+    ja: それが嘘かと思ってました。
+  event_fullfoolday_07_12:
+    speaker: anis
+    en: Argh! How are we never on the same wavelength?
+    ko: 으아! 손발이 안 맞는다 손발이!
+    ja: も～！息が合わないんだから！
+  event_fullfoolday_07_13:
+    speaker: neon
+    en: Why are you lying anyway?
+    ko: 그런데 갑자기 왜 거짓말을 하나요?
+    ja: ところで、どうして急に嘘を？
+  event_fullfoolday_07_14:
+    speaker: rapi
+    en: Because today is April Fool's Day.
+    ko: 오늘은 만우절이니까.
+    ja: 今日はエイプリルフールだから。
+  event_fullfoolday_07_15:
+    speaker: neon
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_fullfoolday_07_16:
+    speaker: neon
+    en: Oh boy! That means we can lie all day and not get in trouble!
+    ko: 세상에! 그 어떤 거짓말이라도 용서받을 수 있다는 그날이군요!
+    ja: なんと！どんな嘘でも許されるという、\nあの日でしたか！
+  event_fullfoolday_07_17:
+    speaker: rapi
+    en: I mean, you still don't want to tell major lies...
+    ko: 아니, 그렇다고 너무 심한 거짓말은 안 하는 게….
+    ja: いや、だからってあまりひどい嘘は…
+  event_fullfoolday_07_18:
+    speaker: neon
+    en: Master! I have something to confess. I don't love firepower!
+    ko: |-
+      스승님!
+      사실 저는 화력을 사랑하지 않아요!
+    ja: |-
+      師匠！
+      実は私、火力を愛していないんです！
+  event_fullfoolday_07_19:
+    speaker: neon
+    en: It's totally useless. The world would be better off without it.
+    ko: |-
+      화력 같은 건 쓸모없습니다!
+      그런 건 세상에 존재해서는 안 돼요!
+    ja: |-
+      火力なんて無駄です！そんなもの、
+      世の中に存在してはいけないんです！
+  event_fullfoolday_07_20:
+    speaker: neon
+    en: It's garbage!
+    ko: 화력 따위 쓰레기입니다!!
+    ja: 火力なんてゴミです！！
+  event_fullfoolday_07_21:
+    speaker: neon
+    en: "... Urp... blleeerrrgghhh!"
+    ko: 우웨에엑!!
+    ja: おえええっ！！
+  event_fullfoolday_07_22:
+    speaker: anis
+    en: Ew! What's wrong with you?!
+    ko: 으악! 얘 왜 이래!
+    ja: キャッ！ちょっと、どうしたのよ！？
+  event_fullfoolday_07_23:
+    speaker: rapi
+    en: She got so carried away with her lies that her body couldn't handle it.
+    ko: "…너무 심한 거짓말을 해서 몸에서 거부 반응을 일으키고 있어."
+    ja: "…あまりにもひどい嘘をついたから\\n体が拒否反応を起こしてるのよ。"
+  event_fullfoolday_07_24:
+    speaker: neon
+    en: Ugh... I'm sorry... I'll never lie again.
+    ko: |-
+      으으… 죄송해요….
+      이제 다시는 거짓말하지 않을게요.
+    ja: |-
+      うう…すみません…
+      もう二度と嘘なんてつきません。
+  event_fullfoolday_07_25:
+    speaker: neon
+    en: "... Ha! That itself was a lie!"
+    ko: 라는 게 거짓말!
+    ja: っていうのが嘘！
+  event_fullfoolday_07_26:
+    speaker: neon
+    en: I'm actually the first CEO of Elysion!
+    ko: 저는 사실 엘리시온의 초대 CEO입니다!
+    ja: 実は私、エリシオンの初代CEOなんです！
+  event_fullfoolday_07_27:
+    speaker: anis
+    en: I'm actually a pop superstar!
+    ko: 나는 사실 예전에 아이돌이었어!
+    ja: 私、実は昔アイドルだったの！
+  event_fullfoolday_07_28:
+    speaker: rapi
+    en: I'm...
+    ko: 저는….
+    ja: 私は…
+  event_fullfoolday_07_29:
+    speaker: rapi
+    en: "... er..."
+    ko: "…음."
+    ja: "…うーん。"
+  event_fullfoolday_07_30:
+    speaker: anis
+    en: Come on! You can say anything, so say it.
+    ko: 에이~ 진짜 아무렇게나 말해도 상관없으니까 해봐.
+    ja: も～、何言ったっていいんだから\n言ってみてよ。
+  event_fullfoolday_07_31:
+    speaker: anis
+    en: What other day will you be able to lie with impunity?
+    ko: 이런 날 아니면 언제 거짓말해보겠어?
+    ja: こんな日じゃないと嘘つけないでしょ？
+  event_fullfoolday_07_32:
+    speaker: neon
+    en: Yeah exactly. Plus, I wanna see what you look like when you lie.
+    ko: |-
+      맞아요 맞아.
+      그리고 저 라피 거짓말하는 거 보고 싶단 말이에요.
+    ja: |-
+      そうですよ。
+      それに私、ラピが嘘をつくところが見たいです。
+  event_fullfoolday_07_33:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_07_34:
+    speaker: rapi
+    en: I...
+    ko: 저는….
+    ja: 私は…
+  event_fullfoolday_07_35:
+    speaker: rapi
+    en: I hope that the Commander resigns.
+    ko: 지휘관이 지휘관을 그만뒀으면 좋겠습니다.
+    ja: 指揮官に、指揮官をやめてもらいたいです。
+  event_fullfoolday_07_36:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_07_37:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_07_38:
+    speaker: "<Choice>"
+    en: That was a bit harsh.
+    ko: "…너무해."
+    ja: "…ひどい"
+  event_fullfoolday_07_39:
+    speaker: "<Choice>"
+    en: Uh... okay?
+    ko: "…음."
+    ja: "…うーん"
+  event_fullfoolday_07_40:
+    speaker: rapi
+    en: "... I'm sorry."
+    ko: "…죄송합니다."
+    ja: "…すみません。"
+  event_fullfoolday_07_41:
+    speaker: anis
+    en: Lying just isn't your forte.
+    ko: 너. 어디 가서 거짓말하면 안 되겠다.
+    ja: ラピは嘘ついちゃダメね。
+  event_fullfoolday_07_42:
+    speaker: neon
+    en: Yeah, that sounded a bit too real.
+    ko: 진짜 같으니까요.
+    ja: 本気に聞こえます。
+  event_fullfoolday_07_43:
+    speaker: rapi
+    en: "... Sorry."
+    ko: "…미안."
+    ja: "…ごめん。"
+event_fullfoolday_08:
+  event_fullfoolday_08_1:
+    speaker: "<Monologue>"
+    en: I visit the toy store for April Fool's Day.
+    ko: 만우절을 맞이해 장난감 가게를 들렀다.
+    ja: エイプリルフールにおもちゃ屋に寄った
+  event_fullfoolday_08_2:
+    speaker: "<Monologue>"
+    en: I assume Belorta and Mica will be cooking up another prank. I'll pretend to
+      fall for it.
+    ko: |-
+      아마 벨로타와 미카가 새로운 장난을 준비하고 있겠지.
+      적당히 속아줘야겠다.
+    ja: |-
+      きっとベロータとミカが\n新しいイタズラを準備しているだろう。
+      適度に騙されてあげなくては
+  event_fullfoolday_08_3:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン
+  event_fullfoolday_08_4:
+    speaker: belorta
+    en: Hmm?
+    ko: "…어?"
+    ja: "…あっ。"
+  event_fullfoolday_08_5:
+    speaker: belorta
+    en: Oh, hey Old-Timer.
+    ko: "…아저씨 왔어?"
+    ja: "…おじさん？"
+  event_fullfoolday_08_6:
+    speaker: mica
+    en: "*Sob*"
+    ko: 우우… 아저씨.
+    ja: うう…おじさん。
+  event_fullfoolday_08_7:
+    speaker: "<Self>"
+    en: "??"
+    ko: "…어라."
+    ja: "…あれ？"
+  event_fullfoolday_08_8:
+    speaker: "<Choice>"
+    en: What's going on? Everyone's so glum.
+    ko: 분위기가 왜 이래?
+    ja: この雰囲気、どうしたんだ？
+  event_fullfoolday_08_9:
+    speaker: "<Choice>"
+    en: Is something wrong?
+    ko: 무슨 일 있어?
+    ja: 何かあったのか？
+  event_fullfoolday_08_10:
+    speaker: belorta
+    en: It's all over.
+    ko: |-
+      …음.
+      장난감 가게가 위기라서?
+    ja: |-
+      …えっと。
+      おもちゃ屋の危機だから？
+  event_fullfoolday_08_11:
+    speaker: "<Self>"
+    en: What's the problem?
+    ko: 위기?
+    ja: 危機？
+  event_fullfoolday_08_12:
+    speaker: mica
+    en: The toy store is closing down.
+    ko: 장난감 가게가 문을 닫는데요.
+    ja: おもちゃ屋が店じまいするそうです。
+  event_fullfoolday_08_13:
+    speaker: mica
+    en: Belorta and I were just organizing a few things.
+    ko: 그래서 벨로타랑 정리중이었어요오….
+    ja: それでベロータと片付け中でした…
+  event_fullfoolday_08_14:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_08_15:
+    speaker: "<Self>"
+    en: This is all so sudden.
+    ko: 갑자기?
+    ja: 突然？
+  event_fullfoolday_08_16:
+    speaker: belorta
+    en: Yes, I realize there wasn't much forewarning.
+    ko: 응… 갑자기.
+    ja: うん…突然。
+  event_fullfoolday_08_17:
+    speaker: belorta
+    en: Nevertheless, as of today, the toy store is officially closing its doors.
+    ko: 장난감 가게는 오늘부로 영업 종료야.
+    ja: おもちゃ屋は今日で営業終了だよ。
+  event_fullfoolday_08_18:
+    speaker: belorta
+    en: There just aren't enough customers. We aren't making any money.
+    ko: 손님도 없고, 매출도 안 나와서.
+    ja: お客さんもいないし、売上も悪いから。
+  event_fullfoolday_08_19:
+    speaker: belorta
+    en: Guess people just don't feel the need for a toy store.
+    ko: 생각해 보면 장난감 가게가 있을 이유가 없지.
+    ja: 考えてみたら、\nおもちゃ屋って特に必要でもないし。
+  event_fullfoolday_08_20:
+    speaker: "<Self>"
+    en: Did Mustang order it to be closed down?
+    ko: 머스탱이 지시한 거야?
+    ja: マスタングの指示か？
+  event_fullfoolday_08_21:
+    speaker: belorta
+    en: Yes...
+    ko: "…음."
+    ja: "…うーん。"
+  event_fullfoolday_08_22:
+    speaker: belorta
+    en: I mean, probably.
+    ko: 아마도 그럴걸?
+    ja: きっとそうだよ。
+  event_fullfoolday_08_23:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_08_24:
+    speaker: "<Choice>"
+    en: You're lying, aren't you?
+    ko: "…거짓말이지?"
+    ja: "…嘘だろう？"
+  event_fullfoolday_08_25:
+    speaker: "<Choice>"
+    en: Today is April Fool's day...
+    ko: 오늘 만우절인데….
+    ja: 今日はエイプリルフールだ…
+  event_fullfoolday_08_26:
+    speaker: belorta
+    en: "... Old-Timer."
+    ko: "…아저씨."
+    ja: "…おじさん。"
+  event_fullfoolday_08_27:
+    speaker: belorta
+    en: Who would joke about a thing like this?
+    ko: 누가 이런 거로 장난을 쳐.
+    ja: こんなことでふざけたりしないよ。
+  event_fullfoolday_08_28:
+    speaker: mica
+    en: "*Sob* That's right."
+    ko: 우우… 맞아요.
+    ja: うう…そうですよ。
+  event_fullfoolday_08_29:
+    speaker: mica
+    en: I know Belorta likes pranks, but joking about something like this would be
+      crossing the line.
+    ko: |-
+      벨로타가 아무리 장난을 좋아해도
+      이렇게까지 선 넘는 장난은 안할거예요!
+    ja: |-
+      ベロータがいくらイタズラ好きでも、
+      ここまでひどい嘘はつきませんよ！
+  event_fullfoolday_08_30:
+    speaker: belorta
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_08_31:
+    speaker: belorta
+    en: It is?
+    ko: 아, 오늘 만우절이었어?
+    ja: あ、今日ってエイプリルフールだったの？
+  event_fullfoolday_08_32:
+    speaker: belorta
+    en: I didn't even realize it because of everything that's been going on.
+    ko: 정신이 없어서 생각도 못 했네.
+    ja: バタバタしてて気づかなかったよ。
+  event_fullfoolday_08_33:
+    speaker: mica
+    en: "*Sob* If only it were a joke!"
+    ko: 우우… 정말 거짓말이었으면 좋겠어요.
+    ja: うう…嘘だったらいいですね。
+  event_fullfoolday_08_34:
+    speaker: "<Monologue>"
+    en: Judging by their reactions, they don't appear to be lying.
+    ko: "…반응을 보니 거짓말은 아닌 것 같다."
+    ja: "…反応を見たところ、嘘ではなさそうだ"
+  event_fullfoolday_08_35:
+    speaker: "<Self>"
+    en: I'll speak to Mustang.
+    ko: "…그럼 내가 머스탱한테 잘 말해볼게."
+    ja: "…じゃあ私がマスタングに掛け合ってみる"
+  event_fullfoolday_08_36:
+    speaker: mica
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_fullfoolday_08_37:
+    speaker: mica
+    en: Really? Does that mean we can continue running the toy store?
+    ko: |-
+      정말요?! 아저씨?
+      그럼, 장난감 가게 다시 영업 할 수 있는 거예요?!
+    ja: |-
+      本当ですか！？おじさん！
+      おもちゃ屋はまた営業できるんですか！？
+  event_fullfoolday_08_38:
+    speaker: belorta
+    en: I appreciate your wanting to do that, but it's not necessary.
+    ko: 아니야, 괜찮아♡
+    ja: ううん、大丈夫だよ♡
+  event_fullfoolday_08_39:
+    speaker: belorta
+    en: It's better to leave when the time is right.
+    ko: 박수칠때 떠나는 게 맞아.
+    ja: せっかくなら、惜しまれつつ閉店しなきゃね。
+  event_fullfoolday_08_40:
+    speaker: "<Self>"
+    en: But I don't think the time is right.
+    ko: 박수는 아무도 안친 것 같은데….
+    ja: そこまで惜しむ人はいなさそうだが…
+  event_fullfoolday_08_41:
+    speaker: belorta
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_08_42:
+    speaker: "<Self>"
+    en: "... I'm sorry."
+    ko: "……미안."
+    ja: "…すまない"
+  event_fullfoolday_08_43:
+    speaker: belorta
+    en: I know we never had many customers... but I enjoyed being here.
+    ko: 손님은 별로 없었지만… 그래도 즐거웠어.
+    ja: お客さんは少なかったけど…でも楽しかったよ。
+  event_fullfoolday_08_44:
+    speaker: "<Self>"
+    en: If the Toy Store is gone...
+    ko: 장난감 상점이 없어지면….
+    ja: おもちゃ屋がなくなったら…
+  event_fullfoolday_08_45:
+    speaker: "<Self>"
+    en: what will happen to you two?
+    ko: 벨로타랑 미카는 이제 어디로 가는 거야?
+    ja: ベロータとミカはどこに行くんだ？
+  event_fullfoolday_08_46:
+    speaker: mica
+    en: I'm not sure. Belorta, where do we go now?
+    ko: |-
+      그러게요…?
+      벨로타, 이제 우린 어디로 가?
+    ja: |-
+      そうですね…
+      ベロータ、私たちどこに行くの？
+  event_fullfoolday_08_47:
+    speaker: belorta
+    en: I don't know.
+    ko: 모르겠어.
+    ja: 分かんないよ。
+  event_fullfoolday_08_48:
+    speaker: belorta
+    en: We'll each have to figure out another way to get by.
+    ko: 각자 살길 찾아봐야지.
+    ja: それぞれ生きる道を探さないとね。
+  event_fullfoolday_08_49:
+    speaker: mica
+    en: You mean separately? But I want to stay with you!
+    ko: |-
+      우우… 각자?
+      난 벨로타랑 같이 있고 싶은데….
+    ja: |-
+      うう…それぞれ？
+      私はベロータと一緒にいたいのに…
+  event_fullfoolday_08_50:
+    speaker: mica
+    en: "... Belorta."
+    ko: "…벨로타."
+    ja: "…ベロータ。"
+  event_fullfoolday_08_51:
+    speaker: mica
+    en: Can't we try talking to the boss one last time?
+    ko: 사장님께 한번 말해보면 안 될까?
+    ja: 社長を説得できないかな？
+  event_fullfoolday_08_52:
+    speaker: mica
+    en: Old-Timer wants to help us and... we can tell the boss that we'll try to do
+      better this time!
+    ko: |-
+      아저씨가 도와준다고도 하고…
+      우리도 열심히 한다고 하면 괜찮지 않을까?
+    ja: |-
+      おじさんも手伝ってくれるっていうし…
+      私たちも頑張るって言えば、\n考え直してくれるかも？
+  event_fullfoolday_08_53:
+    speaker: mica
+    en: If not that, then...
+    ko: 아, 아니면….
+    ja: そ、それか…
+  event_fullfoolday_08_54:
+    speaker: "<Monologue>"
+    en: Mica produces a credit card.
+    ko: 미카는 크레디트 카드를 꺼내 들었다.
+    ja: ミカはクレジットカードを取りだした
+  event_fullfoolday_08_55:
+    speaker: mica
+    en: I've got some money saved up on this.
+    ko: 여기에 조금씩 돈을 모아 뒀는데….
+    ja: 少しずつ貯めたお金があるんだけど…
+  event_fullfoolday_08_56:
+    speaker: mica
+    en: Do you think it'd be enough for us to buy the store ourselves?
+    ko: |-
+      이걸로 장난감 가게를 사는 건 어때?
+      돈이 부족하려나…?
+    ja: |-
+      これでおもちゃ屋を買うのはどう？
+      お金、足りないかな…？
+  event_fullfoolday_08_57:
+    speaker: mica
+    en: All I know is that I don't want to get rid of the store.
+    ko: 우우… 아무리 그래도 장난감 가게를 없애는 건 아닌 거 같아.
+    ja: うう…やっぱり\nおもちゃ屋を閉めるのはダメだよ。
+  event_fullfoolday_08_58:
+    speaker: mica
+    en: We'd be giving up all the precious memories we've had here...
+    ko: 우리의 추억이 없어지는 거잖아.
+    ja: 私たちの思い出がなくなるってことでしょ？
+  event_fullfoolday_08_59:
+    speaker: belorta
+    en: "... Mica."
+    ko: "……미카."
+    ja: "…ミカ。"
+  event_fullfoolday_08_60:
+    speaker: belorta
+    en: We'll see. Let me hold onto the credit card.
+    ko: 혹시 모르니까 일단 크레디트 카드는 내가 가지고 있을게.
+    ja: 念のため、クレジットカードは私が預かるね。
+  event_fullfoolday_08_61:
+    speaker: "<Self>"
+    en: "...??"
+    ko: "……?"
+    ja: "……？"
+  event_fullfoolday_08_62:
+    speaker: belorta
+    en: Ah, I nearly forgot.
+    ko: |-
+      아, 참!
+      아저씨.
+    ja: |-
+      あっ、そうだ！
+      おじさん。
+  event_fullfoolday_08_63:
+    speaker: belorta
+    en: While you're here, could you help me think of what to write for our closure
+      notice?
+    ko: 온 김에 폐업 안내문 좀 같이 써줄 수 있어?
+    ja: せっかくだから、閉店のお知らせを\n一緒に書いてくれない？
+  event_fullfoolday_08_64:
+    speaker: belorta
+    en: It's my first time dealing with something like this, so I'm not sure how to
+      word it.
+    ko: 이런 건 처음이라 어떻게 써야 할지 모르겠네.
+    ja: こういうのは初めてだから、\n何て書いたらいいか分からなくて。
+  event_fullfoolday_08_65:
+    speaker: "<Self>"
+    en: Closure notice?
+    ko: 폐업 안내문?
+    ja: 閉店のお知らせ？
+  event_fullfoolday_08_66:
+    speaker: belorta
+    en: We don't want people coming here not knowing that the store is closed.
+    ko: |-
+      응~♡
+      사람들이 폐업한 줄도 모르고 찾아오면 어떡해.
+    ja: |-
+      うん♡
+      みんな閉店したのも知らずに\nお店に来たら困るでしょ？
+  event_fullfoolday_08_67:
+    speaker: belorta
+    en: We have to let them know so that they don't waste their time.
+    ko: 헛걸음하지 않게 알려줘야지~
+    ja: あらかじめ教えてあげなきゃね～
+  event_fullfoolday_08_68:
+    speaker: "<Choice>"
+    en: As of today, the toy store is closing its doors.
+    ko: "…오늘부로 장난감 가게는… 서비스 종료다."
+    ja: "…今日でおもちゃ屋は…サービス終了だ"
+  event_fullfoolday_08_69:
+    speaker: "<Choice>"
+    en: Thank you everyone for all of your support up until now.
+    ko: "…지금까지 사랑해 주셔서 감사합니다?"
+    ja: "…今までご愛顧ありがとうございました？"
+  event_fullfoolday_08_70:
+    speaker: belorta
+    en: Hmm... that's pretty good.
+    ko: 음… 괜찮네♡
+    ja: うーん…いいね♡
+  event_fullfoolday_08_71:
+    speaker: belorta
+    en: I'll go with something like that.
+    ko: 그럼 그렇게 작성해야겠다!
+    ja: じゃあそうやって書くね！
+  event_fullfoolday_08_72:
+    speaker: belorta
+    en: Thank you, Old-Timer.
+    ko: 고마워 아저씨~♡
+    ja: ありがと、おじさん♡
+  event_fullfoolday_08_73:
+    speaker: "<Narration>"
+    en: "*Scribble* *Scribble*"
+    ko: 사각- 사각-
+    ja: サラサラ
+  event_fullfoolday_08_74:
+    speaker: "<Monologue>"
+    en: Belorta starts writing on a piece of paper.
+    ko: 벨로타는 종이에 글을 써내려 가기 시작했다.
+    ja: ベロータは紙に文字を書き始めた
+  event_fullfoolday_08_75:
+    speaker: "<Narration>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_08_76:
+    speaker: mica
+    en: Today... is...
+    ko: 오… 늘… 은.
+    ja: 今…日…は
+  event_fullfoolday_08_77:
+    speaker: "<Self>"
+    en: "... April Fool's Day?"
+    ko: 만우…절 이지… 롱?
+    ja: エイプリル…フール…だよん？
+  event_fullfoolday_08_78:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_08_79:
+    speaker: mica
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_08_80:
+    speaker: belorta
+    en: Hahaha!
+    ko: 꺄하하♡
+    ja: キャハハ♡
+  event_fullfoolday_08_81:
+    speaker: belorta
+    en: Happy April Fool's Day! I got you both!
+    ko: |-
+      만우절 기념,
+      아저씨랑 미카 속이기 대 성 공~♡
+    ja: |-
+      エイプリルフール記念、
+      おじさんとミカへのドッキリ、大・成・功～♡
+  event_fullfoolday_08_82:
+    speaker: mica
+    en: Wh-what? Does that mean the toy store isn't closing down?
+    ko: |-
+      뭐, 뭐야?
+      그럼 장난감 상점은 폐업 안 하는 거야?
+    ja: |-
+      ええっ？
+      じゃあおもちゃ屋は閉店しなくていいの？
+  event_fullfoolday_08_83:
+    speaker: belorta
+    en: Nope! I made all that stuff up.
+    ko: 응! 지금까지 모든이야기는 다 거짓말이었습니다~♡
+    ja: うん！今までの話はぜーんぶ嘘でした～♡
+  event_fullfoolday_08_84:
+    speaker: mica
+    en: Argh! That's going too far!
+    ko: 으앙! 벨로타 너무해!
+    ja: うあーん！ベロータ、ひどいよ！
+  event_fullfoolday_08_85:
+    speaker: belorta
+    en: You're not mad, are you?
+    ko: 미카 화났어~?
+    ja: ミカ、怒っちゃった～？
+  event_fullfoolday_08_86:
+    speaker: belorta
+    en: Here's your credit card back, by the way.
+    ko: 자! 거짓말이었으니까 크레디트 카드는 돌려줄게♡
+    ja: はい！嘘だったからクレジットカードは返すね♡
+  event_fullfoolday_08_87:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_08_88:
+    speaker: belorta
+    en: You're not upset too, are you Old-Timer?
+    ko: 뭐야, 아저씨도 화난 거야~?
+    ja: あれ、おじさんも怒っちゃった～？
+  event_fullfoolday_08_89:
+    speaker: "<Choice>"
+    en: Try and keep it together.
+    ko: 쒸익 쒸익!
+    ja: プンプン！
+  event_fullfoolday_08_90:
+    speaker: "<Choice>"
+    en: Let all the pent-up anger out and scream.
+    ko: 잉이이이이이익!!!
+    ja: このぉぉぉぉ！！！
+  event_fullfoolday_08_91:
+    speaker: belorta
+    en: Haha, you should see yourself, Old-Timer! You're as red as a tomato.
+    ko: 꺄하하~ 아저씨 얼굴 완전 울그락 불그락해♡
+    ja: キャハハ～！おじさん、顔が真っ赤だよ♡
+  event_fullfoolday_08_92:
+    speaker: belorta
+    en: Don't worry, the toy store isn't going anywhere anytime soon.
+    ko: |-
+      킥킥.
+      장난감 가게가 사라지는 일은 절대로 없을 거야~
+    ja: |-
+      クスクス。
+      おもちゃ屋が消えることは絶対にないよ～
+  event_fullfoolday_08_93:
+    speaker: belorta
+    en: Ahhh, pulling one over on you two really made my day.
+    ko: 여기서 아저씨랑 미카 놀리는 게 내 낙이거든♡
+    ja: ここでおじさんとミカをからかうことが、\n私の楽しみだもん♡
+  event_fullfoolday_08_94:
+    speaker: "<Self>"
+    en: I won't fall for it next time.
+    ko: 다음엔 절대로 안 속을 건데?
+    ja: 次は絶対騙されないぞ
+  event_fullfoolday_08_95:
+    speaker: belorta
+    en: Oh, you think so? We'll just have to wait and see next year.
+    ko: |-
+      흐응~ 그래?
+      다음 만우절 때는 더 강력한 거짓말로 아저씨랑 미카 놀려야지♡
+    ja: |-
+      ふ～ん、そう？
+      次のエイプリルフールはもっと強烈な嘘で\nおじさんとミカをからかわなきゃ♡
+  event_fullfoolday_08_96:
+    speaker: mica
+    en: You're the worst...
+    ko: 우우… 벨로타아-!!
+    ja: うう…ベロータぁ～！
+  event_fullfoolday_08_97:
+    speaker: belorta
+    en: Hehehe!
+    ko: 꺄하하-♡
+    ja: キャハハ～♡
+event_fullfoolday_09:
+  event_fullfoolday_09_1:
+    speaker: Monologue
+    en: After being fooled at the toy store, I was feeling hungry, so I stopped by
+      the Maid Cafe.
+    ko: |-
+      장난감 상점에서 시달린 후…
+      배가 고파 메이드 카페에 들렀다.
+    ja: |-
+      おもちゃ屋で苦しめられた後…
+      お腹が減ってメイドカフェに寄った
+  event_fullfoolday_09_2:
+    speaker: Narration
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン
+  event_fullfoolday_09_3:
+    speaker: sugar
+    en: Welcome, Partner.
+    ko: 어서 와, 파트너.
+    ja: いらっしゃい、パートナー。
+  event_fullfoolday_09_4:
+    speaker: milk
+    en: Oh, hey Pal.
+    ko: 형씨?
+    ja: 兄貴？
+  event_fullfoolday_09_5:
+    speaker: milk
+    en: What brings you here?
+    ko: 여긴 어쩐 일이야.
+    ja: どうしてこんなところに？
+  event_fullfoolday_09_6:
+    speaker: Self
+    en: I was about to ask you the very same thing.
+    ko: |-
+      ??
+      내가 묻고 싶은 말인데.
+    ja: |-
+      ？？
+      それはこっちのセリフだ
+  event_fullfoolday_09_7:
+    speaker: frima
+    en: Mmm.
+    ko: 음.
+    ja: うーん。
+  event_fullfoolday_09_8:
+    speaker: frima
+    en: Acquisition.
+    ko: 인수.
+    ja: 買収。
+  event_fullfoolday_09_9:
+    speaker: Self
+    en: Acquisition?
+    ko: 인수??
+    ja: 買収？？
+  event_fullfoolday_09_10:
+    speaker: sugar
+    en: Yep. Just like Frima said, we acquired the Maid Cafe.
+    ko: 맞아. 프림 말대로 메이드 카페를 인수했어.
+    ja: そう。プリムの言う通り\nメイドカフェを買収したの。
+  event_fullfoolday_09_11:
+    speaker: Self
+    en: You did? Why?
+    ko: |-
+      ??
+      대체 왜?
+    ja: |-
+      ？？
+      いったいどうして？
+  event_fullfoolday_09_12:
+    speaker: sugar
+    en: Why not? If your flagship store is doing well, it's only reasonable to expand
+      and create other branches.
+    ko: |-
+      원래 본점이 잘 되면
+      분점을 내는 법이지.
+    ja: |-
+      本店が上手くいけば
+      2号店を出すものでしょ。
+  event_fullfoolday_09_13:
+    speaker: Self
+    en: Cafe Sweety is doing well? Since when?
+    ko: "…카페가 잘 된 적이 있었나?"
+    ja: "…カフェが上手くいったことなんてあったか？"
+  event_fullfoolday_09_14:
+    speaker: milk
+    en: Pal.
+    ko: 형씨.
+    ja: 兄貴。
+  event_fullfoolday_09_15:
+    speaker: milk
+    en: If you know what's good for you, you'll stop talking.
+    ko: 그다음 뒷말은 안 하는 게 좋을 거야.
+    ja: それ以上は言わない方が身のためだぜ。
+  event_fullfoolday_09_16:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_17:
+    speaker: frima
+    en: Scared?
+    ko: 쫄?
+    ja: ビビった？
+  event_fullfoolday_09_18:
+    speaker: Self
+    en: "... No. Anyway, why aren't you wearing maid uniforms?"
+    ko: |-
+      …아니.
+      그럼 메이드복은 왜 안 입고 있어?
+    ja: |-
+      …いや。
+      じゃあなぜメイド服を着ていないんだ？
+  event_fullfoolday_09_19:
+    speaker: sugar
+    en: Wait,
+    ko: 메이드복?
+    ja: メイド服？
+  event_fullfoolday_09_20:
+    speaker: sugar
+    en: are we supposed to dress up like maids?
+    ko: 그걸 꼭 입어야 하는 건가?
+    ja: 絶対に着なきゃいけないの？
+  event_fullfoolday_09_21:
+    speaker: Self
+    en: Of course you are. This is a Maid Cafe.
+    ko: |-
+      당연하지.
+      메이드 카페니까.
+    ja: |-
+      当然だろう。
+      メイドカフェだから
+  event_fullfoolday_09_22:
+    speaker: frima
+    en: Won't do.
+    ko: 난. 기권.
+    ja: 私。棄権。
+  event_fullfoolday_09_23:
+    speaker: milk
+    en: What she said.
+    ko: 나도.
+    ja: 私も。
+  event_fullfoolday_09_24:
+    speaker: sugar
+    en: That's a majority vote. We'll just have to depend on our high-quality drinks
+      to bring in customers.
+    ko: 과반수가 기권했으니 우린 맛으로 승부 하지.
+    ja: 過半数が棄権したから、\n私たちは味で勝負するわ。
+  event_fullfoolday_09_25:
+    speaker: Self
+    en: What about food?
+    ko: 그럼 요리를 하는거야?
+    ja: じゃあ料理をするのか？
+  event_fullfoolday_09_26:
+    speaker: milk
+    en: What about it?
+    ko: 뭐? 요리?
+    ja: ハァ？料理？
+  event_fullfoolday_09_27:
+    speaker: Self
+    en: The Maid Cafe is a restaurant.
+    ko: 응. 메이드 카페는 요식점이니까.
+    ja: ああ。メイドカフェは飲食店だから
+  event_fullfoolday_09_28:
+    speaker: milk
+    en: What kind of food do we have to cook?
+    ko: 무슨 요리 해야 되는데?
+    ja: 何を作らなきゃいけねえんだ？
+  event_fullfoolday_09_29:
+    speaker: "<Choice>"
+    en: Fluffy Bunny Omurice.
+    ko: 쫑긋쫑긋 ♪ 바니 바니 오므라이스.
+    ja: ぴょこぴょこ♪バニーバニーオムライス
+  event_fullfoolday_09_30:
+    speaker: "<Choice>"
+    en: Coochie Woochie Heart-shaped Fried Rice.
+    ko: 몽글몽글 ♪ 사랑의 하트 볶음밥.
+    ja: ドキドキ♪恋のハートチャーハン
+  event_fullfoolday_09_31:
+    speaker: milk
+    en: Can either of you make those?
+    ko: 할줄 아는 사람?
+    ja: 作り方知ってる人？
+  event_fullfoolday_09_32:
+    speaker: frima
+    en: Nope.
+    ko: 모름.
+    ja: 知らない。
+  event_fullfoolday_09_33:
+    speaker: milk
+    en: Me neither.
+    ko: 나도.
+    ja: 私も。
+  event_fullfoolday_09_34:
+    speaker: sugar
+    en: Well, since none of us can cook, we'll scrap the food options.
+    ko: 과반수가 요리를 못하니까 없애는 거로 하지.
+    ja: 過半数が料理できないから、\nなくすことにするわ。
+  event_fullfoolday_09_35:
+    speaker: sugar
+    en: The Maid Cafe isn't that much different from a regular cafe, anyhow.
+    ko: 메이드 카페도 카페와 별반 다를 건 없군.
+    ja: メイドカフェもカフェとそんなに\n変わらないわね。
+  event_fullfoolday_09_36:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_37:
+    speaker: Self
+    en: Then what about the way you speak?
+    ko: "…그럼 말투는?"
+    ja: "…じゃあ話し方は？"
+  event_fullfoolday_09_38:
+    speaker: sugar
+    en: What?
+    ko: 말투?
+    ja: 話し方？
+  event_fullfoolday_09_39:
+    speaker: sugar
+    en: You're telling me they talk a specific way here?
+    ko: 메이드 카페 전용 말투 같은 것도 있나?
+    ja: メイドカフェ専用の話し方でもあるの？
+  event_fullfoolday_09_40:
+    speaker: Self
+    en: Of course.
+    ko: 당연하지.
+    ja: 当然だ
+  event_fullfoolday_09_41:
+    speaker: sugar
+    en: Okay, how do they do it then?
+    ko: 보통 어떻게 말하지?
+    ja: 普通はどういう風に話すの？
+  event_fullfoolday_09_42:
+    speaker: sugar
+    en: I'm sure I can at least pull that off.
+    ko: 뭐, 그정도는 해줄 수있을 것 같군.
+    ja: まあ、それくらいならできそうね。
+  event_fullfoolday_09_43:
+    speaker: Self
+    en: Hello, Master! Welcome to the Maid Cafe!
+    ko: 주인님~ 메이드 카페에 어서 오세요오♡
+    ja: ご主人様～メイドカフェへようこそぉ♡
+  event_fullfoolday_09_44:
+    speaker: milk
+    en: "... Good lord."
+    ko: 윽!
+    ja: うっ！
+  event_fullfoolday_09_45:
+    speaker: frima
+    en: Can't do.
+    ko: 안 함.
+    ja: やらない。
+  event_fullfoolday_09_46:
+    speaker: Monologue
+    en: "... If this keeps up, the Maid Cafe will go under in no time."
+    ko: "…이대로 가다간 메이드 카페가 망하는 건 시간문제 일 것 같다."
+    ja: "…このままではメイドカフェが潰れるのは\\n時間の問題だ"
+  event_fullfoolday_09_47:
+    speaker: Self
+    en: I'll make you a deal.
+    ko: 천 크레디트.
+    ja: 1000クレジット
+  event_fullfoolday_09_48:
+    speaker: milk
+    en: What kind of deal?
+    ko: 뭐?
+    ja: 何だと？
+  event_fullfoolday_09_49:
+    speaker: Self
+    en: If you say that line, I'll give you 1000 credits.
+    ko: |-
+      저 대사를 하면.
+      천 크레디트 줄게.
+    ja: |-
+      さっきのセリフを言ったら、
+      1000クレジットやろう
+  event_fullfoolday_09_50:
+    speaker: milk
+    en: You're really making me work for it, aren't you?
+    ko: 하? 돈 벌어먹기 참 어렵….
+    ja: ハァ？そんなの誰が…
+  event_fullfoolday_09_51:
+    speaker: frima
+    en: Hello, Master! Welcome to the Maid Cafe!
+    ko: 주인님~ 메이드 카페에 어서 오세요오♡
+    ja: ご主人様～メイドカフェへようこそぉ♡
+  event_fullfoolday_09_52:
+    speaker: milk
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_53:
+    speaker: sugar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_54:
+    speaker: Self
+    en: "... I can't believe it."
+    ko: "……헐."
+    ja: "…えっ"
+  event_fullfoolday_09_55:
+    speaker: milk
+    en: Frima, you actually...
+    ko: "…젠장."
+    ja: "…くそっ。"
+  event_fullfoolday_09_56:
+    speaker: milk
+    en: Just for a bit of bread...?
+    ko: 그깟 돈이 뭐라고….
+    ja: そんなはした金…
+  event_fullfoolday_09_57:
+    speaker: frima
+    en: Money. Hand it over.
+    ko: 입금.
+    ja: 入金。
+  event_fullfoolday_09_58:
+    speaker: Self
+    en: "... You got it."
+    ko: "…알겠어."
+    ja: "…分かった"
+  event_fullfoolday_09_59:
+    speaker: sugar
+    en: Okay, looks like Frima will be in charge of greeting the customers.
+    ko: "그래. \n이건 프림이 하면 될 거 같네."
+    ja: |-
+      そうね。
+      これはプリムがやればいいわ。
+  event_fullfoolday_09_60:
+    speaker: frima
+    en: No pay, no line.
+    ko: 돈 안 주면 안 함.
+    ja: お金くれなきゃやらない。
+  event_fullfoolday_09_61:
+    speaker: Self
+    en: There are plenty of other things you have to say.
+    ko: 다른 것도 있어.
+    ja: 他にもある
+  event_fullfoolday_09_62:
+    speaker: milk
+    en: Like what?
+    ko: 또 뭔데.
+    ja: 何だよ。
+  event_fullfoolday_09_63:
+    speaker: Self
+    en: 'This is something they say when serving:'
+    ko: 이건 서빙할 때 하는 말인데….
+    ja: これは料理を運ぶ時に言うセリフだが…
+  event_fullfoolday_09_64:
+    speaker: Self
+    en: By the magic invested in me, I command you to be delicious! Alakazam ★
+    ko: |-
+      맛있어져라~
+      맛있어져라~ 큥~★
+    ja: |-
+      おいしくな～れ、
+      おいしくな～れ、キュン★
+  event_fullfoolday_09_65:
+    speaker: milk
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_66:
+    speaker: frima
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_67:
+    speaker: sugar
+    en: Good grief. This is a bit much...
+    ko: 아, 이건 좀….
+    ja: こ、これはちょっと…
+  event_fullfoolday_09_68:
+    speaker: Self
+    en: There're 10,000 credits in it for you.
+    ko: 만 크레디트.
+    ja: 1万クレジット
+  event_fullfoolday_09_69:
+    speaker: sugar
+    en: By the magic invested in me, I command you to be delicious! Alakazam ★
+    ko: |-
+      맛있어져라~
+      맛있어져라~ 큥~★
+    ja: |-
+      おいしくな～れ、
+      おいしくな～れ、キュン★
+  event_fullfoolday_09_70:
+    speaker: frima
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_71:
+    speaker: milk
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_72:
+    speaker: frima
+    en: Too late.
+    ko: 까비.
+    ja: 残念。
+  event_fullfoolday_09_73:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_74:
+    speaker: milk
+    en: Argh!
+    ko: 으아악!
+    ja: うああっ！
+  event_fullfoolday_09_75:
+    speaker: milk
+    en: Why are there so many things to do in this place?!
+    ko: 메이드 카페는 할 게 왜 이렇게 많아!
+    ja: メイドカフェはなんでこんなに\nやらなきゃいけないことが多いんだよ！
+  event_fullfoolday_09_76:
+    speaker: milk
+    en: I knew the Maid Cafe was a bad idea from the start.
+    ko: 그러니까 내가 메이드 카페는 아니라고 했잖아!
+    ja: だからメイドカフェは\nやめようって言っただろ！？
+  event_fullfoolday_09_77:
+    speaker: milk
+    en: We should have just taken over the toy store. You can spend all day there
+      and not have to do a thing.
+    ko: 할 거 없는 장난감 가게나 털었어야 했는데!
+    ja: 暇なおもちゃ屋を乗っ取るべきだったんだ！
+  event_fullfoolday_09_78:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_09_79:
+    speaker: sugar
+    en: I didn't realize there was so much work involved in running this place.
+    ko: 일이 이렇게 많을 줄은 몰랐지.
+    ja: こんなに仕事が多いと思わなかったのよ。
+  event_fullfoolday_09_80:
+    speaker: Self
+    en: Wait, what was about taking over...
+    ko: |-
+      턴다니…?
+      그게 무슨….
+    ja: |-
+      乗っ取り…？
+      それはいったい…
+  event_fullfoolday_09_81:
+    speaker: Narration
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン
+  event_fullfoolday_09_82:
+    speaker: soda
+    en: Doo doo doo♬
+    ko: 음음음~♬
+    ja: フンフンフン～♬
+  event_fullfoolday_09_83:
+    speaker: soda
+    en: Doo-eh? Master? Did you bring everyone from Cafe Sweety here for something?
+    ko: |-
+      호에에… 주인님?
+      그리고… 카페 스위티 분들이 메이드 카페엔 어쩐 일이세요?
+    ja: |-
+      ほぇぇ…ご主人様？
+      それに…カフェ・スウィーティーのみなさんが\nどうしてメイドカフェに？
+  event_fullfoolday_09_84:
+    speaker: soda
+    en: Cocoa and Ade aren't even here yet...
+    ko: 코코아랑 에이드는 아직 출근 전인데….
+    ja: ココアとエードはまだ出勤前ですが…
+  event_fullfoolday_09_85:
+    speaker: sugar
+    en: We just came to hang out.
+    ko: 놀러 왔어.
+    ja: 遊びに来たのよ。
+  event_fullfoolday_09_86:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_09_87:
+    speaker: soda
+    en: Really...?
+    ko: 정말요오~?
+    ja: 本当ですか～？
+  event_fullfoolday_09_88:
+    speaker: soda
+    en: How did you get in anyway?
+    ko: 흐엥? 근데 어떻게 들어오신….
+    ja: ふぇん？でもどうして中に…
+  event_fullfoolday_09_89:
+    speaker: sugar
+    en: "... Boy oh boy, would you look at the time? We'd better go open up the cafe."
+    ko: 이런. 벌써 카페영업 시간이 다 됐군.
+    ja: あら。もうカフェをオープンする時間だわ。
+  event_fullfoolday_09_90:
+    speaker: milk
+    en: Gotta run.
+    ko: 얼른 가자고!
+    ja: 早く行くぞ！
+  event_fullfoolday_09_91:
+    speaker: frima
+    en: Mistake. Acquisition lie. Bye.
+    ko: 여. 사실. 인수. 거짓말. 안녕.
+    ja: 実は。買収。嘘。さよなら。
+  event_fullfoolday_09_92:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_09_93:
+    speaker: soda
+    en: What'd Frima say? Something about an acquisition?
+    ko: |-
+      움? 인수? 거짓말?
+      호에에 무슨 말인거죠오~?
+    ja: |-
+      ん？買収？嘘？
+      ほぇぇ、どういうことですか～？
+  event_fullfoolday_09_94:
+    speaker: Self
+    en: You're... probably better off not knowing.
+    ko: |-
+      아니야… 아무것도.
+      소다는 몰라도 돼.
+    ja: |-
+      いや…何でもないんだ。
+      ソーダは気にしないでくれ
+event_fullfoolday_10:
+  event_fullfoolday_10_1:
+    speaker: drake
+    en: Hehe...
+    ko: 후후….
+    ja: フフ…
+  event_fullfoolday_10_2:
+    speaker: drake
+    en: Hehehe...
+    ko: 후후후….
+    ja: フフフ…
+  event_fullfoolday_10_3:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_10_4:
+    speaker: "<Choice>"
+    en: Ignore her.
+    ko: 무시한다.
+    ja: 無視する
+  event_fullfoolday_10_5:
+    speaker: "<Choice>"
+    en: "... Why are you at the police station?"
+    ko: "…왜 경찰서에 있는 거야?"
+    ja: "…なぜ警察署にいるんだ？"
+  event_fullfoolday_10_6:
+    speaker: drake
+    en: Hey! You've got some nerve ignoring me!
+    ko: 네놈! 감히 날 무시하다니!
+    ja: 貴様！よくも私を無視したな！？
+  event_fullfoolday_10_7:
+    speaker: Self
+    en: Sorry, I didn't see you.
+    ko: 미안, 못 봤어.
+    ja: すまない、気づかなかった
+  event_fullfoolday_10_8:
+    speaker: drake
+    en: Oh, well... I guess that makes sense.
+    ko: 아, 그럼 어쩔 수 없고.
+    ja: あぁ、ならば仕方ないな。
+  event_fullfoolday_10_9:
+    speaker: Self
+    en: What are you doing at the police station?
+    ko: 경찰서엔 무슨 일이야?
+    ja: どうして警察署に？
+  event_fullfoolday_10_10:
+    speaker: drake
+    en: Hehe.
+    ko: 후후.
+    ja: フフ。
+  event_fullfoolday_10_11:
+    speaker: drake
+    en: I've decided to become a police officer.
+    ko: 오늘부로 이 몸은 경찰이 되기로 했다.
+    ja: 今日から警察官になることにした。
+  event_fullfoolday_10_12:
+    speaker: "<Choice>"
+    en: "... Uh-huh."
+    ko: 오.
+    ja: おっ
+  event_fullfoolday_10_13:
+    speaker: "<Choice>"
+    en: Why?
+    ko: 왜?
+    ja: なぜだ？
+  event_fullfoolday_10_14:
+    speaker: drake
+    en: That's all you've got to say? A little enthusiasm would be nice.
+    ko: 네놈! 더 격한 반응을 내놔라!
+    ja: 貴様！もっといいリアクションをしろ！
+  event_fullfoolday_10_15:
+    speaker: Self
+    en: "... Wow! No way!"
+    ko: 오!!!
+    ja: おぉ！！！
+  event_fullfoolday_10_16:
+    speaker: drake
+    en: That's better. I can't blame you for being surprised.
+    ko: 후후. 놀랐는가?
+    ja: フフ。驚いたか？
+  event_fullfoolday_10_17:
+    speaker: drake
+    en: Sometimes I even surprise myself.
+    ko: 나도 놀랐다.
+    ja: 私も驚いた。
+  event_fullfoolday_10_18:
+    speaker: Self
+    en: But why become a police officer?
+    ko: 근데 왜?
+    ja: でも、どうして？
+  event_fullfoolday_10_19:
+    speaker: drake
+    en: A villain can always recognize a fellow villain.
+    ko: 빌런은 빌런을 알아보는 법이라고.
+    ja: ヴィランはヴィランを知っているからな。
+  event_fullfoolday_10_20:
+    speaker: drake
+    en: Poli asked me if I could do it.
+    ko: 폴리가 와서 나에게 부탁하더군.
+    ja: ポリに頼まれたのだ。
+  event_fullfoolday_10_21:
+    speaker: Self
+    en: "..."
+    ko: "…아하."
+    ja: "…なるほど"
+  event_fullfoolday_10_22:
+    speaker: Monologue
+    en: This is obviously an April Fool's joke, but I'll play along.
+    ko: "…누가 봐도 만우절 거짓말 같으니 적당히 속아주자."
+    ja: "…どう考えてもエイプリルフールの嘘だから\\n適度に騙されてあげよう"
+  event_fullfoolday_10_23:
+    speaker: Self
+    en: That's so cool!
+    ko: 멋진데.
+    ja: カッコいいな
+  event_fullfoolday_10_24:
+    speaker: Self
+    en: What are your duties?
+    ko: 무슨 업무 맡았어?
+    ja: どんな仕事を任されたんだ？
+  event_fullfoolday_10_25:
+    speaker: drake
+    en: Duties?
+    ko: 업무?
+    ja: 仕事？
+  event_fullfoolday_10_26:
+    speaker: drake
+    en: Hmm...
+    ko: 음….
+    ja: うむ…
+  event_fullfoolday_10_27:
+    speaker: drake
+    en: Arresting people!
+    ko: 바로 체포 업무다!
+    ja: 逮捕する仕事だ！
+  event_fullfoolday_10_28:
+    speaker: Self
+    en: I'm not sure if that counts...
+    ko: |-
+      …?
+      그런 업무도 있어?
+    ja: |-
+      …？
+      そんな仕事もあるのか？
+  event_fullfoolday_10_29:
+    speaker: drake
+    en: How would you know? You're not a cop.
+    ko: 역시 네놈은 경찰이 아니라 모르는군!
+    ja: 貴様は警察じゃないから知らぬようだな！
+  event_fullfoolday_10_30:
+    speaker: drake
+    en: Let me show you how it's done.
+    ko: 이 몸이 어떻게 하는지 보여주지.
+    ja: 私が見せてやろう。
+  event_fullfoolday_10_31:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_fullfoolday_10_32:
+    speaker: emma
+    en: Commander?
+    ko: 어머, 지휘관?
+    ja: あら、指揮官？
+  event_fullfoolday_10_33:
+    speaker: Self
+    en: Emma? What brings you here?
+    ko: |-
+      엠마?
+      여긴 어쩐 일이야?
+    ja: |-
+      エマ？
+      どうしてここに？
+  event_fullfoolday_10_34:
+    speaker: emma
+    en: I was making some desserts, but went a little overboard and made too many.
+    ko: 아~ 디저트를 좀 만들었는데, 너무 많이 만들어서.
+    ja: デザートを作ったんだけど、\nちょっと作り過ぎちゃって。
+  event_fullfoolday_10_35:
+    speaker: emma
+    en: I brought some to share with Poli and Miranda,
+    ko: 폴리랑 미란다랑 나눠 먹으려고 좀 가져와 봤는데.
+    ja: ポリとミランダにあげようと思って\n持ってきたんだけど～
+  event_fullfoolday_10_36:
+    speaker: emma
+    en: but it looks like it's only you and Drake.
+    ko: 드레이크랑 지휘관만 있네~
+    ja: ドレイクと指揮官しかいないのね～？
+  event_fullfoolday_10_37:
+    speaker: emma
+    en: In that case, you both can have some!
+    ko: 둘이 나눠 먹으면 되겠다~
+    ja: じゃあ、2人で一緒に召し上がれ～
+  event_fullfoolday_10_38:
+    speaker: "<Choice>"
+    en: No thanks, I'm okay.
+    ko: 난 안먹어도 괜찮아.
+    ja: 私は大丈夫だ
+  event_fullfoolday_10_39:
+    speaker: "<Choice>"
+    en: "... Thank you."
+    ko: "…잘 먹을게."
+    ja: "…いただきます"
+  event_fullfoolday_10_40:
+    speaker: drake
+    en: Nice! I had a hankering for something sweet.
+    ko: 마침 달달한 게 당겼는데 잘 됐군!
+    ja: ちょうど甘い物が食べたかったところだ！
+  event_fullfoolday_10_41:
+    speaker: drake
+    en: Thanks a bunch.
+    ko: 잘 먹겠다!
+    ja: いただこう！
+  event_fullfoolday_10_42:
+    speaker: Narration
+    en: "*Chomp, chomp.*"
+    ko: 우물우물.
+    ja: モグモグ
+  event_fullfoolday_10_43:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_10_44:
+    speaker: drake
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  event_fullfoolday_10_45:
+    speaker: drake
+    en: That's it!
+    ko: "…네놈."
+    ja: "…貴様。"
+  event_fullfoolday_10_46:
+    speaker: drake
+    en: You're under arrest!
+    ko: 체포하겠다!
+    ja: 逮捕する！
+  event_fullfoolday_10_47:
+    speaker: emma
+    en: Huh? Me?
+    ko: 응? 나를?
+    ja: え？私を？
+  event_fullfoolday_10_48:
+    speaker: drake
+    en: That's right! For attempted murder!
+    ko: 암살 혐의로 체포하겠다!
+    ja: 暗殺容疑で逮捕だ！
+  event_fullfoolday_10_49:
+    speaker: emma
+    en: Attempted murder?
+    ko: 암살 혐의~?
+    ja: 暗殺容疑～？
+  event_fullfoolday_10_50:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_10_51:
+    speaker: "<Choice>"
+    en: She's just pulling your leg.
+    ko: 장난치는 거야.
+    ja: ふざけてるだけだ
+  event_fullfoolday_10_52:
+    speaker: "<Choice>"
+    en: Because it's so delicious, it's to "die" for.
+    ko: "…너무 맛있어서 그래."
+    ja: "…おいしすぎたせいだ"
+  event_fullfoolday_10_53:
+    speaker: drake
+    en: Huh?!
+    ko: 뭣이?!
+    ja: 何ぃ！？
+  event_fullfoolday_10_54:
+    speaker: emma
+    en: Hehe, so that's it! You're so funny, Drake.
+    ko: |-
+      후후… 그래?
+      드레이크는 역시 재밌네~
+    ja: |-
+      ふふ…そうなの？
+      やっぱりドレイクは面白いわね～
+  event_fullfoolday_10_55:
+    speaker: emma
+    en: I'm glad you enjoyed it.
+    ko: 맛있게 먹어줘서 고마워~
+    ja: 喜んでくれて嬉しいわ～
+  event_fullfoolday_10_56:
+    speaker: emma
+    en: I'll have to make some more and come visit again. Well, bye now!
+    ko: |-
+      조만간 또 음식 만들어서 놀러 올게~
+      다음에 봐~
+    ja: |-
+      また料理を作って遊びにくるわね～
+      また会いましょ～
+  event_fullfoolday_10_57:
+    speaker: Monologue
+    en: Emma leaves.
+    ko: 엠마는 떠나갔다.
+    ja: エマは去っていった
+  event_fullfoolday_10_58:
+    speaker: drake
+    en: What the hell are you talking about?! That stuff wasn't even fit for human
+      consumption.
+    ko: |-
+      네놈! 뭐 하는 거지?
+      저건 사람이 먹을 음식이 아니었다!
+    ja: |-
+      貴様！何をするんだ？
+      あれは人間の食べ物ではないぞ！
+  event_fullfoolday_10_59:
+    speaker: Self
+    en: Very true, but hardly an offense worth being arrested for. We can let it slide.
+    ko: "…체포할 정도는 아니니까, 좋게 좋게 넘어가자."
+    ja: "…逮捕するほどじゃないから\\n大目に見てやろう"
+  event_fullfoolday_10_60:
+    speaker: drake
+    en: Pssh, you humans are so--
+    ko: 쳇. 이래서 인간들은….
+    ja: チッ。これだから人間は…
+  event_fullfoolday_10_61:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_fullfoolday_10_62:
+    speaker: folkwang
+    en: Hello.
+    ko: 안녕하세요~
+    ja: こんにちは～
+  event_fullfoolday_10_63:
+    speaker: folkwang
+    en: I just came in to beat the heat. It's a scorcher out there.
+    ko: |-
+      여기서 땀 좀 식히고 나갈게요~
+      아이고 더워라.
+    ja: |-
+      ちょっと涼ませてくださいね～
+      あぁ、暑い。
+  event_fullfoolday_10_64:
+    speaker: Self
+    en: Folkwang?
+    ko: 폴크방?
+    ja: フォルクヴァン？
+  event_fullfoolday_10_65:
+    speaker: folkwang
+    en: Coach? Why are you here and not Poli and Miranda?
+    ko: 어? 폴리와 미란다 대신 감독님이 계시다니~
+    ja: あれ？ポリとミランダの代わりに\n監督がいるなんて。
+  event_fullfoolday_10_66:
+    speaker: folkwang
+    en: Never mind. It's actually a good thing I ran into you.
+    ko: |-
+      아! 마침 잘 만났네요.
+      추천해 드릴 영양제가 있었거든요~
+    ja: |-
+      あっ！ちょうどよかったです。
+      おすすめのサプリがあったんですよ。
+  event_fullfoolday_10_67:
+    speaker: folkwang
+    en: There are some supplements I wanted to recommend to you.
+    ko: 원래 따로 지휘관실에 찾아가려 했는데….
+    ja: あとで指揮官室に行こうと思っていたのですが…
+  event_fullfoolday_10_68:
+    speaker: Self
+    en: What kind of supplements?
+    ko: 무슨 영양제인데?
+    ja: どんなサプリだ？
+  event_fullfoolday_10_69:
+    speaker: folkwang
+    en: It's called Double Winter Blast.
+    ko: 더블스노우쿨 영양제인데요~
+    ja: ダブルスノークールサプリです。
+  event_fullfoolday_10_70:
+    speaker: folkwang
+    en: Take one, and it'll cool you down twice as fast.
+    ko: 하나만 먹어도 두 배로 시원한 효과가 있는 영양제에요!
+    ja: 1粒飲むだけで2倍涼しくなります！
+  event_fullfoolday_10_71:
+    speaker: folkwang
+    en: Take ten, and you'll cool down twenty times as fast!
+    ko: 이걸 열 개 먹으면 스무 배의 효과가…!
+    ja: これを10粒飲んだら20倍の効果が…！
+  event_fullfoolday_10_72:
+    speaker: drake
+    en: You're under arrest!
+    ko: 체포하겠다!
+    ja: 逮捕する！
+  event_fullfoolday_10_73:
+    speaker: folkwang
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_10_74:
+    speaker: Self
+    en: Where'd that come from?
+    ko: 갑자기?
+    ja: 突然？
+  event_fullfoolday_10_75:
+    speaker: drake
+    en: I'm booking you for possession of an illegal substance.
+    ko: 불법 약물 소지죄로 체포한다!
+    ja: 違法薬物所持罪で逮捕だ！
+  event_fullfoolday_10_76:
+    speaker: folkwang
+    en: But supplements aren't illegal...
+    ko: 네? 불법 약물은 아니고 영양제인데….
+    ja: え？違法薬物じゃなくてサプリなのに…
+  event_fullfoolday_10_77:
+    speaker: drake
+    en: "... Well either way, I'm taking you in!"
+    ko: 아무튼 체포한다!
+    ja: とにかく逮捕だ！
+  event_fullfoolday_10_78:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_10_79:
+    speaker: Self
+    en: Don't worry about her. She's just playing a cop.
+    ko: 경찰 놀이하는 중이라 그래.
+    ja: 警察ごっこをしてるんだ
+  event_fullfoolday_10_80:
+    speaker: drake
+    en: Hey!
+    ko: 뭣이?!
+    ja: 何ぃ！？
+  event_fullfoolday_10_81:
+    speaker: folkwang
+    en: Phew... that's a relief. For a moment I thought you were arresting me for
+      real. I even started working up a sweat.
+    ko: |-
+      어후, 그래요? 그럼 다행이네요.
+      진짜 체포당하는 줄 알고 땀이 더 나기 시작했어요.
+    ja: |-
+      あら、そうなんですか？それならよかったです。
+      本当に逮捕されるのかと思って\nもっと汗かいちゃいましたよ。
+  event_fullfoolday_10_82:
+    speaker: folkwang
+    en: I better go somewhere else.
+    ko: 다른곳으로 가야겠네요~
+    ja: 他のところに行きますね～
+  event_fullfoolday_10_83:
+    speaker: Self
+    en: Bye.
+    ko: "…잘 가."
+    ja: "…気をつけて"
+  event_fullfoolday_10_84:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_fullfoolday_10_85:
+    speaker: drake
+    en: Tsk.
+    ko: 쳇.
+    ja: チッ。
+  event_fullfoolday_10_86:
+    speaker: drake
+    en: You could never be a cop. You're too soft.
+    ko: 네놈은 너무 물러서 경찰 같은 건 하면 안 되겠군.
+    ja: 貴様は甘すぎるから、警察官には向かないな。
+  event_fullfoolday_10_87:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_10_88:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_fullfoolday_10_89:
+    speaker: miranda
+    en: Hey Commander. Hey Drake.
+    ko: 엇! 지휘관, 드레이크?
+    ja: あっ！指揮官とドレイク？
+  event_fullfoolday_10_90:
+    speaker: poli
+    en: What are you two doing here?
+    ko: 두 분 여기서 뭐 하시는 거에영?
+    ja: ここで何をしているんですかぁ？
+  event_fullfoolday_10_91:
+    speaker: Self
+    en: Arresting people...
+    ko: 드레이크랑 사람들을 체포하….
+    ja: ドレイクと一緒にみんなを逮捕し…
+  event_fullfoolday_10_92:
+    speaker: drake
+    en: That's right! I better go and patrol the area. See you around.
+    ko: |-
+      음! 나는 순찰을 좀 하고 와야겠군.
+      그럼 이만.
+    ja: |-
+      うむ！私はパトロールに行かなくては。
+      では失礼！
+  event_fullfoolday_10_93:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_10_94:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_fullfoolday_10_95:
+    speaker: Monologue
+    en: Drake leaves the police station, leaving me behind.
+    ko: 드레이크는 경찰서에 나만 두고 홀연히 떠나버렸다.
+    ja: ドレイクは警察署に私を置き去りにして\n姿を消してしまった
+  event_fullfoolday_10_96:
+    speaker: poli
+    en: Arrest? Patrol? What is going on?
+    ko: 체포? 순찰? 이게 다 무슨 말이졍?
+    ja: 逮捕？パトロール？どういうことですかぁ？
+  event_fullfoolday_10_97:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_10_98:
+    speaker: poli
+    en: "*Sniff sniff* I smell something funny going on."
+    ko: 킁킁… 뭔가 수상한 냄새가 나는뎅….
+    ja: クンクン…何か怪しい匂いがしますねぇ…
+  event_fullfoolday_10_99:
+    speaker: Self
+    en: Er... It wasn't me! I didn't do anything... I better get going.
+    ko: |-
+      아니… 아무것도 안 했어.
+      나도 이만 가볼게.
+    ja: |-
+      いや…なんでもない。
+      私も失礼するよ
+event_fullfoolday_11:
+  event_fullfoolday_11_1:
+    speaker: Monologue
+    en: I don't have nearly enough energy to trudge all the way back to the Commander's
+      Room.
+    ko: 지휘관실까지 갈 힘이 없다.
+    ja: 指揮官室まで戻る力がない
+  event_fullfoolday_11_2:
+    speaker: Monologue
+    en: I think I'll find a hotel to rest at for a bit.
+    ko: 호텔에서 조금만 쉬다가 가야겠다.
+    ja: ホテルで少し休もう
+  event_fullfoolday_11_3:
+    speaker: Narration
+    en: "*Squeak*"
+    ko: 끼익-
+    ja: キイ――
+  event_fullfoolday_11_4:
+    speaker: yan
+    en: Hey, Rookie.
+    ko: 어? 신참!
+    ja: あれ？新入り！
+  event_fullfoolday_11_5:
+    speaker: yan
+    en: You're here awfully early, aren't you?
+    ko: 니 왜 이렇게 일찍 왔는데.
+    ja: なんでこんな早く来たん？
+  event_fullfoolday_11_6:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_fullfoolday_11_7:
+    speaker: yan
+    en: I appreciate your enthusiasm,
+    ko: 넘 마음 급한 거 아이가?
+    ja: せっかちさんやなぁ。
+  event_fullfoolday_11_8:
+    speaker: yan
+    en: but I'm not done setting everything up. I want the mood to be just right.
+    ko: 분위기 좀 만들어 놓으려고 했더니.
+    ja: せっかく雰囲気つくっとこーとおもたのに。
+  event_fullfoolday_11_9:
+    speaker: Self
+    en: I'm not quite following.
+    ko: "…응?"
+    ja: "…えっ？"
+  event_fullfoolday_11_10:
+    speaker: yan
+    en: You're simply adorable when you look confused.
+    ko: 뭔데, 그 순수한 표정은.
+    ja: 何や？そのピュアな表情は。
+  event_fullfoolday_11_11:
+    speaker: yan
+    en: What woman could resist that face?
+    ko: 쫌 귀엽네~
+    ja: かわいいやっちゃな～
+  event_fullfoolday_11_12:
+    speaker: yan
+    en: Anyway, you should wash up first.
+    ko: 일단 씻고 온….
+    ja: まずはシャワーを…
+  event_fullfoolday_11_13:
+    speaker: Narration
+    en: "*Knock knock*"
+    ko: 똑똑
+    ja: コンコン
+  event_fullfoolday_11_14:
+    speaker: Narration
+    en: "*Open*"
+    ko: 벌컥-
+    ja: ガチャ
+  event_fullfoolday_11_15:
+    speaker: dolla
+    en: My apologies, but it seems you're in the wrong room.
+    ko: 고객님, 방을 잘못 찾아간 거 같아서.
+    ja: お客様が部屋を間違えている気がしてね。
+  event_fullfoolday_11_16:
+    speaker: dolla
+    en: Allow me to show you to your proper room.
+    ko: 내가 데리러 왔어.
+    ja: 迎えに来た。
+  event_fullfoolday_11_17:
+    speaker: dolla
+    en: Yan, you should know better than to intervene.
+    ko: 얀, 이렇게 선수 치는 건 아닌 거 같은데.
+    ja: ヤン、こういう出し抜き方はよくないな。
+  event_fullfoolday_11_18:
+    speaker: dolla
+    en: I arranged plans with Client first.
+    ko: 오늘 고객님과의 약속은 내가 먼저였어.
+    ja: 今日のお客様との約束は、私が先だったんだ。
+  event_fullfoolday_11_19:
+    speaker: Self
+    en: You did?
+    ko: 그랬구나….
+    ja: そうだったのか…
+  event_fullfoolday_11_20:
+    speaker: yan
+    en: It doesn't seem to me like Rookie knows what you're talking about.
+    ko: 신참은 모르는 눈친데?
+    ja: 新入りは知らんみたいやで？
+  event_fullfoolday_11_21:
+    speaker: yan
+    en: Just hold your horses.
+    ko: 쫌 기다려라.
+    ja: ちょっと待っとき。
+  event_fullfoolday_11_22:
+    speaker: yan
+    en: Let me do it first, and then...
+    ko: 일단 내랑 먼저 좀 하고….
+    ja: まずはうちと…
+  event_fullfoolday_11_23:
+    speaker: dolla
+    en: No.
+    ko: 아니.
+    ja: いや。
+  event_fullfoolday_11_24:
+    speaker: dolla
+    en: We will proceed in the proper order.
+    ko: 순서대로 해.
+    ja: 順番通りにしてくれ。
+  event_fullfoolday_11_25:
+    speaker: yan
+    en: Relax. It's not like I'm gonna wear Rookie out.
+    ko: |-
+      뭐고~
+      신참이 닳는 것도 아인데.
+    ja: |-
+      なんやねんな～
+      新入りは使い捨てちゃうやろ？
+  event_fullfoolday_11_26:
+    speaker: yan
+    en: Don't be such a stickler.
+    ko: 엄청 까탈스럽게 구네.
+    ja: そんなピリピリせんでもええやん。
+  event_fullfoolday_11_27:
+    speaker: Self
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  event_fullfoolday_11_28:
+    speaker: dolla
+    en: Client.
+    ko: 고객님.
+    ja: お客様。
+  event_fullfoolday_11_29:
+    speaker: dolla
+    en: Allow me to show you to my room.
+    ko: 일단 내방으로 가자.
+    ja: まずは私の部屋に行こう。
+  event_fullfoolday_11_30:
+    speaker: dolla
+    en: The ambiance there is far better than it is here.
+    ko: 이 방보다 더 좋은 분위기야.
+    ja: この部屋より雰囲気がいいんだ。
+  event_fullfoolday_11_31:
+    speaker: dolla
+    en: I have various...
+    ko: 내가 여러 종류의 ㅋ….
+    ja: 私が色々な種類の…
+  event_fullfoolday_11_32:
+    speaker: rupee
+    en: Sweetie!
+    ko: 오빠!
+    ja: お兄ちゃん！
+  event_fullfoolday_11_33:
+    speaker: Narration
+    en: "*Open*"
+    ko: 벌컥-
+    ja: ガチャ
+  event_fullfoolday_11_34:
+    speaker: rupee
+    en: I was waiting for you.
+    ko: 기다려도 안 오길래….
+    ja: 待ってるのに来ないから…
+  event_fullfoolday_11_35:
+    speaker: rupee
+    en: Then I had a feeling Yan and Dolla were up to something, so I came running.
+    ko: 얀이랑 도라가 먼저 선수 쳤을 거 같아서 헐레벌떡 왔더니.
+    ja: ヤンとドラーに抜けがけされたかもって思って\n慌てて来てみたら！
+  event_fullfoolday_11_36:
+    speaker: rupee
+    en: Turns out I was right!
+    ko: 역시나였네!
+    ja: やっぱり！！
+  event_fullfoolday_11_37:
+    speaker: rupee
+    en: Do you have any idea how much planning I did so that we could spend some quality
+      time together?
+    ko: |-
+      오늘 오빠랑 오붓한 시간 보내려고
+      얼마나 많은 준비를 했는데!
+    ja: |-
+      今日はお兄ちゃんとゆっくり過ごそうと思って
+      たっくさん準備したんだから！
+  event_fullfoolday_11_38:
+    speaker: rupee
+    en: You wanna know how much I spent on this hotel alone?
+    ko: 내가 이 호텔에 얼마를 썼는지 알아?!
+    ja: このホテルにいくら使ったか分かる！？
+  event_fullfoolday_11_39:
+    speaker: rupee
+    en: 50,000 credits!
+    ko: 무려 50만 크레디트나 썼다구!
+    ja: 50万クレジットだよ！
+  event_fullfoolday_11_40:
+    speaker: dolla
+    en: Please, that's chump change.
+    ko: 얼마 안 썼네.
+    ja: 大したことないな。
+  event_fullfoolday_11_41:
+    speaker: dolla
+    en: I spent 100,000 credits.
+    ko: 난 100만 크레디트나 썼어.
+    ja: 私は100万クレジットだ。
+  event_fullfoolday_11_42:
+    speaker: dolla
+    en: So, if you don't mind, could you two kindly beat it?
+    ko: 그러니 다들 나가 주겠어?
+    ja: だからみんな出て行ってくれないか？
+  event_fullfoolday_11_43:
+    speaker: yan
+    en: This is my room! If anyone should leave, it's you two.
+    ko: 여긴 내방인데? 너희가 나가라.
+    ja: ここはうちの部屋やで？あんたらが出ていきや。
+  event_fullfoolday_11_44:
+    speaker: rupee
+    en: No!
+    ko: 싫어!
+    ja: ヤダ！
+  event_fullfoolday_11_45:
+    speaker: rupee
+    en: Sweetie is coming with me!
+    ko: 루피는 오빠 데리고 나갈 거야!
+    ja: ルピーはお兄ちゃんと一緒に行くんだもん！
+  event_fullfoolday_11_46:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_11_47:
+    speaker: dolla
+    en: This isn't going to work. Let's all do it together.
+    ko: 안되겠다. 그럼 다같이 하자.
+    ja: らちが明かないな。じゃあ全員でしよう。
+  event_fullfoolday_11_48:
+    speaker: Self
+    en: "????????"
+    ko: "????????"
+    ja: "？？？？？？"
+  event_fullfoolday_11_49:
+    speaker: yan
+    en: Together? Hmm. That's not a bad idea.
+    ko: |-
+      같이?
+      흠. 그것도 나쁘진 않네.
+    ja: |-
+      一緒に？ふーん。
+      それも悪くないなぁ。
+  event_fullfoolday_11_50:
+    speaker: rupee
+    en: Sure, I'm okay with that.
+    ko: 음…! 루피도 좋아!
+    ja: うん…！ルピーもいいよ！
+  event_fullfoolday_11_51:
+    speaker: rupee
+    en: But it's my first time doing it with multiple people...
+    ko: 근데 다같이 뭘 하는 건 처음이라서….
+    ja: でもみんなで一緒にするのは初めてだから…
+  event_fullfoolday_11_52:
+    speaker: Self
+    en: "????????"
+    ko: "????????"
+    ja: "？？？？？？"
+  event_fullfoolday_11_53:
+    speaker: dolla
+    en: What's that look on your face? Are you not interested?
+    ko: 고객님 표정이 왜 그래, 받기 싫어?
+    ja: お客様、どうしたんだ？\nサービスを受けたくないのか？
+  event_fullfoolday_11_54:
+    speaker: "<Choice>"
+    en: No, that's not it, but...
+    ko: 아니… 그건 아닌데.
+    ja: いや…そうじゃないけど
+  event_fullfoolday_11_55:
+    speaker: "<Choice>"
+    en: What exactly am I getting myself into?
+    ko: 뭘 받는 거야?
+    ja: どんなサービスなんだ？
+  event_fullfoolday_11_56:
+    speaker: yan
+    en: Go take a shower first, then come back.
+    ko: 우선 씻고 온나.
+    ja: まずはシャワー浴びてきてや。
+  event_fullfoolday_11_57:
+    speaker: Self
+    en: "... Are you serious?"
+    ko: "…진짜로?"
+    ja: "…本気か？"
+  event_fullfoolday_11_58:
+    speaker: yan
+    en: Of course. Do I look like the type to play around?
+    ko: 그럼 진짜지, 가짜가.
+    ja: 本気に決まってるやろ？
+  event_fullfoolday_11_59:
+    speaker: Monologue
+    en: I am thoroughly confused, and also unsure as to whether or not I should go
+      wash up.
+    ko: |-
+      …혼란스럽다.
+      씻는 게 맞을까?
+    ja: |-
+      …どうしたらいいんだろう。
+      シャワーを浴びるべきか？
+  event_fullfoolday_11_60:
+    speaker: Monologue
+    en: More than that however... what are these three planning to do to me?
+    ko: 아니, 그것보다… 뭘 하려고 이러는 거지?
+    ja: いや、それより…\n何をしようとしてるんだ？
+  event_fullfoolday_11_61:
+    speaker: "<Choice>"
+    en: Don't do anything.
+    ko: 가만히 있는다.
+    ja: じっとしている
+  event_fullfoolday_11_62:
+    speaker: "<Choice>"
+    en: Go shower.
+    ko: 씻으러 간다.
+    ja: シャワーを浴びに行く
+  event_fullfoolday_11_63:
+    speaker: yan
+    en: What are you doing? Don't you want to clean yourself up first?
+    ko: 뭐 하노, 안 씻나?
+    ja: 何してるん？シャワー浴びへんの？
+  event_fullfoolday_11_64:
+    speaker: Monologue
+    en: "... Actually, I'd like to know why it's so important I take a shower."
+    ko: "…그래도 왜 씻는진 알아야 할 것 같다."
+    ja: "…なぜシャワーを浴びなければならないのか\\n知る必要がありそうだ"
+  event_fullfoolday_11_65:
+    speaker: Self
+    en: What are we doing after I take a shower?
+    ko: 씻고 난 뒤엔 뭐해?
+    ja: シャワーを浴びたら何をするんだ？
+  event_fullfoolday_11_66:
+    speaker: yan
+    en: What do you mean? You'll be treated to room service, what else?
+    ko: 뭐 하긴, 룸서비스 받아야지.
+    ja: 何って、ルームサービスを受けるんやで。
+  event_fullfoolday_11_67:
+    speaker: Self
+    en: Room service?
+    ko: 룸서비스?
+    ja: ルームサービス？
+  event_fullfoolday_11_68:
+    speaker: dolla
+    en: We were thinking about acquiring a hotel, and we bet each other who could
+      provide the best room service.
+    ko: |-
+      응. 우리가 호텔을 하나 인수할까 하는데,
+      누구의 룸서비스가 더 좋은지 내기했거든.
+    ja: |-
+      ああ。ホテルを1つ買収予定なんだが、
+      誰のルームサービスがいいか賭けをしたんだ。
+  event_fullfoolday_11_69:
+    speaker: dolla
+    en: You're gonna be the judge.
+    ko: 평가는 고객님이 해주는 거고.
+    ja: 評価するのはお客様だよ。
+  event_fullfoolday_11_70:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_11_71:
+    speaker: rupee
+    en: Wait... you didn't think we had something else in mind, did you?
+    ko: |-
+      오빠 표정이 왜 그래?
+      헉, 뭐야 뭐야. 혹시 다른 생각한 거야?
+    ja: |-
+      お兄ちゃん、どうしたの？
+      えっ、ちょっとちょっとー！\nもしかして他のこと考えてた？
+  event_fullfoolday_11_72:
+    speaker: Self
+    en: "?????!"
+    ko: "?????!"
+    ja: "！？！？！？"
+  event_fullfoolday_11_73:
+    speaker: yan
+    en: Go on, Newbie. What exactly did you think we were going to do with you?
+    ko: 그러게. 신참, 무슨 생각 했는데.
+    ja: せやなぁ。新入り、何を考えてたん？
+  event_fullfoolday_11_74:
+    speaker: yan
+    en: Nothing too obscene, I hope.
+    ko: 뭐 이상한 상상이라도 했나?
+    ja: なんかおかしなことでも想像してたんちゃう？
+  event_fullfoolday_11_75:
+    speaker: Self
+    en: Of course not!!!
+    ko: 아니!!!!!
+    ja: いや！！！！！
+  event_fullfoolday_11_76:
+    speaker: yan
+    en: Liar. I know that's what you were thinking.
+    ko: 했네, 했어.
+    ja: これ図星やなぁ。
+  event_fullfoolday_11_77:
+    speaker: Self
+    en: I just thought you all were messing with me since it was April Fool's Day.
+    ko: "…만우절이라 거짓말 하는 줄 알았어."
+    ja: "…エイプリルフールだから嘘かと思ったんだ"
+  event_fullfoolday_11_78:
+    speaker: yan
+    en: Ah, that it is. I forgot about that.
+    ko: 아 맞다. 오늘 만우절이제.
+    ja: あっ、ほんまや！今日はエイプリルフールやな。
+  event_fullfoolday_11_79:
+    speaker: Self
+    en: I'm feeling pretty exhausted, so maybe we can do the room service another
+      time.
+    ko: "…오늘 너무 피곤해서… 룸서비스는 다음에 받을게."
+    ja: "…今日はヘトヘトだから…\\nルームサービスは今度にしてくれ"
+  event_fullfoolday_11_80:
+    speaker: rupee
+    en: Would you like me to walk you home?
+    ko: |-
+      헉! 정말?
+      그럼 루피가 오빠 데려다줄까?!
+    ja: |-
+      えっ！マジ？じゃあルピーが
+      送ってあげよっか！？
+  event_fullfoolday_11_81:
+    speaker: Self
+    en: It's okay.
+    ko: 괜찮아.
+    ja: 大丈夫だ
+  event_fullfoolday_11_82:
+    speaker: Monologue
+    en: As I made a quick escape, it took everything I had not to drag my tired body
+      along the floor.
+    ko: "…난 그대로 피곤한 몸을 이끌고 호텔을 빠져나왔다."
+    ja: "…疲れた体を引きずって\\nホテルを抜け出した"
+event_fullfoolday_end:
+  event_fullfoolday_end_1:
+    speaker: Monologue
+    en: It's been a long day, and I'm officially exhausted.
+    ko: "…오늘 하루 종일 시달렸더니 너무 피곤하다."
+    ja: "…今日は一日中みんなに振り回されてヘトヘトだ"
+  event_fullfoolday_end_2:
+    speaker: Monologue
+    en: I'm going to take a shower and go to...
+    ko: 얼른 샤워하고 자야겠….
+    ja: 早くシャワーを浴びて寝な…
+  event_fullfoolday_end_3:
+    speaker: Narration
+    en: "*Splooosh*"
+    ko: 쏴아아아--
+    ja: ザアアア――
+  event_fullfoolday_end_4:
+    speaker: Monologue
+    en: "... Someone is using my shower."
+    ko: "…누군가가 내 방의 샤워실을 쓰고 있다."
+    ja: "…誰かが私の部屋のシャワー室を使っている"
+  event_fullfoolday_end_5:
+    speaker: Narration
+    en: "*Splooosh*"
+    ko: 쏴아아아--
+    ja: ザアアア――
+  event_fullfoolday_end_6:
+    speaker: Narration
+    en: "*Squeak, squeak.*"
+    ko: 끼릭끼릭.
+    ja: キュッキュッ
+  event_fullfoolday_end_7:
+    speaker: Monologue
+    en: Sounds like they're finished.
+    ko: "…샤워가 끝난 모양이다."
+    ja: "…シャワーが終わったようだ"
+  event_fullfoolday_end_8:
+    speaker: Monologue
+    en: Who could be in there?
+    ko: 도대체… 누구지…?
+    ja: いったい…誰が…？
+  event_fullfoolday_end_9:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_fullfoolday_end_10:
+    speaker: Self
+    en: Who...
+    ko: 누구….
+    ja: 誰…
+  event_fullfoolday_end_11:
+    speaker: andersen
+    en: Ah, there you are.
+    ko: 아, 자네 왔는가.
+    ja: あぁ、君か。
+  event_fullfoolday_end_12:
+    speaker: Self
+    en: "!!!!!!!!!!!!"
+    ko: "!!!!!!!!!!"
+    ja: "！！！！！！"
+  event_fullfoolday_end_13:
+    speaker: andersen
+    en: I waited for you so long, I figured I might as well freshen up in the meantime.
+    ko: 자네를 기다리다 시간이 좀 남아서 잠깐 샤워실을 빌렸네.
+    ja: 君を待っていたのだが、時間が余って\nシャワー室を借りたんだ。
+  event_fullfoolday_end_14:
+    speaker: Self
+    en: Why would you think it's okay to use my shower?! Why?!
+    ko: 아니!! 왜!! 어째서!!
+    ja: いや！なぜ！！どうして！？
+  event_fullfoolday_end_15:
+    speaker: andersen
+    en: You seem like you've had a long day.
+    ko: 오늘 하루 종일 이리저리 시달린 모양이더군.
+    ja: 今日は一日中、色々振り回されたようだな。
+  event_fullfoolday_end_16:
+    speaker: andersen
+    en: Well, that's all part of life.
+    ko: 살다 보면 그런 날이 있는 법일세.
+    ja: 生きていればそういう日もあるものだ。
+  event_fullfoolday_end_17:
+    speaker: andersen
+    en: Once in a while, you have those days, good and bad, that just don't feel real.
+    ko: 좋은 의미든, 나쁜 의미든 말 그대로 거짓말 같은 하루라는 날이.
+    ja: いい意味でも、悪い意味でも\n言葉通り嘘のような1日という日が。
+  event_fullfoolday_end_18:
+    speaker: andersen
+    en: Don't let yourself get too stressed about it.
+    ko: 그런 것에 일희일비하지 말게나.
+    ja: そのたびに一喜一憂してはならない。
+  event_fullfoolday_end_19:
+    speaker: andersen
+    en: The important thing is to keep a cool head.
+    ko: 중요한 것은 자네의 평상심일세.
+    ja: 大事なのは平常心だ。
+  event_fullfoolday_end_20:
+    speaker: Self
+    en: I appreciate the advice, but how long are you planning on staying?
+    ko: 좋은 말씀은 감사합니다만, 언제까지 있으실 겁니까.
+    ja: ありがたいお言葉ですが、\nいつまでそこにいるつもりですか？
+  event_fullfoolday_end_21:
+    speaker: andersen
+    en: Days like the one you're having don't go on forever. It's just one out of
+      many others.
+    ko: |-
+      아주 특별한 하루는 계속 이어지지 않네.
+      수많은 날 중 하루일 뿐이지.
+    ja: |-
+      特別な1日というのはその日限りだ。
+      数ある日々の中のたった1日に過ぎない。
+  event_fullfoolday_end_22:
+    speaker: andersen
+    en: So keep what's good and throw away the bad.
+    ko: 그러니 좋은 것은 남기고, 나쁜 것은 털어버리게.
+    ja: だからいい思い出は残し、\n悪い記憶は捨てるんだ。
+  event_fullfoolday_end_23:
+    speaker: andersen
+    en: I know you will do well. I have faith in you.
+    ko: |-
+      자네라면 잘 알아서 하겠지.
+      믿고 있겠네.
+    ja: |-
+      君なら上手くやれるだろう。
+      信じているぞ。
+  event_fullfoolday_end_24:
+    speaker: andersen
+    en: Anyway, I better get going.
+    ko: 그럼 난 이만 돌아가 보지.
+    ja: では私はここで失礼する。
+  event_fullfoolday_end_25:
+    speaker: andersen
+    en: I have a meeting in the Ark in 5 minutes.
+    ko: 5분 뒤에 방주에서 회의가 있어서 말이야.
+    ja: 5分後にアークで会議があってね。
+  event_fullfoolday_end_26:
+    speaker: Self
+    en: If you have a meeting in 5 minutes, why the hell did you come all the way
+      out here?!
+    ko: 5분 뒤에 회의가 있는데 왜 여기까지 오신 겁니까.
+    ja: 5分後に会議があるのに、\nどうしてここまで？
+  event_fullfoolday_end_27:
+    speaker: andersen
+    en: I can see now that perhaps it wasn't the smartest idea.
+    ko: "…음. 좀 무리한 모양이군."
+    ja: "…少し無理をしたようだ。"
+  event_fullfoolday_end_28:
+    speaker: andersen
+    en: Well, I hope what's left of it goes well for you.
+    ko: 그럼 남은 하루 잘 보내게나.
+    ja: では残りの今日も楽しみたまえ。
+  event_fullfoolday_end_29:
+    speaker: Self
+    en: Wait, you're leaving? Why did you even come h...
+    ko: 그러고 가실 겁니까.
+    ja: その格好で行かれるのですか？
+  event_fullfoolday_end_30:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_fullfoolday_end_31:
+    speaker: Monologue
+    en: "... Andersen opens the door and leaves."
+    ko: "…엔더슨은 문을 열고 돌아갔다."
+    ja: "…アンダーソンはドアを開けて帰っていった"
+  event_fullfoolday_end_32:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_end_33:
+    speaker: Monologue
+    en: I should just sleep.
+    ko: 잠이나 자자.
+    ja: 早く寝よう
+  event_fullfoolday_end_34:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_end_35:
+    speaker: Monologue
+    en: "... I'm awakened by the feeling of something moving beside me."
+    ko: "…인기척이 느껴져서 잠이 깼다."
+    ja: "…気配を感じて目が覚めた"
+  event_fullfoolday_end_36:
+    speaker: Monologue
+    en: I listen carefully, keeping my eyes closed.
+    ko: 눈을 뜨지 않은 채 집중했다.
+    ja: 目を閉じたまま\n意識を集中した
+  event_fullfoolday_end_37:
+    speaker: Monologue
+    en: I can hear someone whispering. I also feel my body being squished.
+    ko: "…소근 거리는 소리가 들려오고 압박감이 느껴진다."
+    ja: "…ひそひそと話し声が聞こえ、\\n圧迫感を覚えた"
+  event_fullfoolday_end_38:
+    speaker: anis
+    en: "(Scoot over. It's too tight.)"
+    ko: "(아 옆으로 좀 가봐. 좁잖아.)"
+    ja: "（ちょっとずれてよ。狭いでしょ）"
+  event_fullfoolday_end_39:
+    speaker: neon
+    en: "(Just squeeze in.)"
+    ko: "(아니스가 잘 비집고 들어오면 되잖아요.)"
+    ja: "（アニスが上手く割り込めば\\nいいじゃないですか）"
+  event_fullfoolday_end_40:
+    speaker: rapi
+    en: "(... Is this really necessary?)"
+    ko: "(…이렇게까지 할 필요가 있을까.)"
+    ja: "（…ここまでする必要があるのかしら）"
+  event_fullfoolday_end_41:
+    speaker: anis
+    en: "(Think about it.)"
+    ko: "(생각해 봐.)"
+    ja: "（考えてみてよ）"
+  event_fullfoolday_end_42:
+    speaker: anis
+    en: "(When the Commander wakes up tomorrow, we'll all be in the same bed.)"
+    ko: |-
+      (내일 아침에 지휘관님이 일어났을 때,
+      우리가 다 한 침대에서 자고 있어.)
+    ja: |-
+      （明日の朝、指揮官様が起きた時に
+      私たちが同じベッドで寝てたら）
+  event_fullfoolday_end_43:
+    speaker: anis
+    en: "(Just imagine what a shock it'll be!)"
+    ko: "(그러면 헉! 하고 놀라겠지?)"
+    ja: "（えっ！？ってびっくりするでしょ？）"
+  event_fullfoolday_end_44:
+    speaker: anis
+    en: "(Then we can say,)"
+    ko: "(그러면 그때 한마디 하는 거야.)"
+    ja: "（そこで一言！）"
+  event_fullfoolday_end_45:
+    speaker: anis
+    en: "(Commander, you were amazing last night. How can you do it for so long?)"
+    ko: |-
+      (지휘관님. 진짜 엄청났어.
+      어떻게 그렇게 거짓말처럼 계속…!)
+    ja: |-
+      （指揮官様。ホントすごかったよ。
+      どうしてあんな嘘みたいにずっと…！）
+  event_fullfoolday_end_46:
+    speaker: neon
+    en: "(...)"
+    ko: "(…….)"
+    ja: "（……）"
+  event_fullfoolday_end_47:
+    speaker: rapi
+    en: "(...)"
+    ko: "(…….)"
+    ja: "（……）"
+  event_fullfoolday_end_48:
+    speaker: anis
+    en: "(Haha! This is gonna be so fun!)"
+    ko: "(크~! 재밌겠다!)"
+    ja: "（キャ～！面白いことになりそう！）"
+  event_fullfoolday_end_49:
+    speaker: neon
+    en: "(Shh! Master will wake up!)"
+    ko: "(쉿-! 스승님 깨겠어요!}"
+    ja: "（シーッ！師匠が起きちゃいますよ！）"
+  event_fullfoolday_end_50:
+    speaker: rapi
+    en: Commander, are you asleep?
+    ko: 지휘관. 주무십니까?
+    ja: 指揮官。おやすみですか？
+  event_fullfoolday_end_51:
+    speaker: anis
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_fullfoolday_end_52:
+    speaker: neon
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_fullfoolday_end_53:
+    speaker: "<Choice>"
+    en: "... Zzz..."
+    ko: "…쿨…."
+    ja: "…ぐう…"
+  event_fullfoolday_end_54:
+    speaker: "<Choice>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_end_55:
+    speaker: neon
+    en: I think Master's asleep. At least I'm pretty sure.
+    ko: 주무시고 계시는 것 같죠?
+    ja: 眠ってますよね？
+  event_fullfoolday_end_56:
+    speaker: anis
+    en: Pretty sure?
+    ko: "…아마도?"
+    ja: "…多分？"
+  event_fullfoolday_end_57:
+    speaker: rapi
+    en: Let me check the vitals...
+    ko: 바이탈 체크를….
+    ja: バイタルチェックを…
+  event_fullfoolday_end_58:
+    speaker: anis
+    en: No! Don't.
+    ko: 아니. 그러지 마.
+    ja: いや、やめましょ。
+  event_fullfoolday_end_59:
+    speaker: anis
+    en: Let's just get to sleep already.
+    ko: 자자 얼른.
+    ja: 早く寝ようよ。
+  event_fullfoolday_end_60:
+    speaker: Monologue
+    en: The sounds of everyone fidgeting become louder, and I feel more and more constricted.
+    ko: "…부스럭거리는 소리가 커지고 압박감이 심해졌다."
+    ja: "…ガサガサという音が大きくなり、\\n圧迫感が増した"
+  event_fullfoolday_end_61:
+    speaker: Monologue
+    en: "... I'm worried about the bed."
+    ko: "…이 정도면 침대가 걱정이다."
+    ja: "…ここまでくるとベッドが心配だ"
+  event_fullfoolday_end_62:
+    speaker: anis
+    en: Sleep tight, Commander. See you in the morning.
+    ko: |-
+      잘 자. 지휘관님.
+      내일 아침에 봐.
+    ja: |-
+      おやすみ。指揮官様。
+      明日の朝をお楽しみにね。
+  event_fullfoolday_end_63:
+    speaker: neon
+    en: You had a rough day, Master.
+    ko: 오늘 하루 수고하셨어요. 스승님.
+    ja: 今日一日お疲れ様でした、師匠。
+  event_fullfoolday_end_64:
+    speaker: rapi
+    en: "... Good night."
+    ko: "…수고… 많으셨습니다."
+    ja: "…お疲れ…様でした。"
+  event_fullfoolday_end_65:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_fullfoolday_end_66:
+    speaker: Monologue
+    en: Something tells me I won't get much sleep tonight.
+    ko: 오늘 잠자긴 그른 것 같다.
+    ja: 今日は眠れそうにない

@@ -1,0 +1,487 @@
+---
+221_name:
+  en: Rapunzel
+  ko: 라푼젤
+  ja: ラプンツェル
+c221_description:
+  en: A saint-like figure who appeases the spirits of those who have died on the surface.
+    Often found lost in prayer, she is also prone to reminiscence.
+  ko: "지상에서 죽어간 망자들의 넋을 위로하는 파이오니아 스쿼드의 황금빛 성녀. \n항상 과거를 기억하며 기도한다."
+  ja: |-
+    地上で命を落とした亡者たちの魂を弔う、
+    パイオニア部隊の輝く聖女。
+    常に過去を思いながら祈りを捧げる。
+221_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50221:
+  en: Rapunzel's Spare Body
+  ko: 라푼젤 스페어 바디
+  ja: ラプンツェルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+12212_name:
+  en: Divine Blessing
+  ko: 디바인 블레스
+  ja: ディヴァインブレス
+12212_description:
+  en: "■ Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
+    ATK.\n<color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03}
+    sec. \nPotency of HP restored ▲ {description_value_04}% for {description_value_05}
+    sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[최대 체력 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [받는 체력 회복량 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「最大HP{description_value_02}％▲」「{description_value_03}秒間維持」
+    「受けるHP回復量{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22211_name:
+  en: Sacrifice
+  ko: 세크리파이스
+  ja: サクリファイス
+22211_description:
+  en: "■ Activates when attacking with Full Charge. Affects {description_value_01}
+    ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Recovers {description_value_02}%
+    of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>"
+  ko: |-
+    ■ 풀 차지 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、残りのHPの割合が最も低い味方{description_value_01}機に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12213_name:
+  en: Garden of Shangri-La
+  ko: 가든 오브 샹그릴라
+  ja: ガーデンオブシャングリラ
+12213_description_1:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+    ■ Affects {description_value_02} incapacitated ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Resurrect with {description_value_03}% HP.</color>
+    ■ Activates when HP falls below {description_value_04}%. Affects all enemies.
+    <color=#00AEFF>Stun for {description_value_05} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
+    ■ 전투불능 상태 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_02}기에게
+    <color=#00AEFF>[체력 {description_value_03}%로 부활]</color>
+    ■ 자신의 체력이 {description_value_04}% 이하라면 적 전체에게
+    <color=#00AEFF>[기절] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」</color>
+    ■戦闘不能状態の<word_group=10025>最終</word_group>攻撃力が
+    最も高い味方{description_value_02}機に
+    <color=#00AEFF>「HP{description_value_03}％で復活」</color>
+    ■自分のHPが{description_value_04}％以下なら敵全体に
+    <color=#00AEFF>「気絶」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+220_name:
+  en: Snow White
+  ko: 스노우 화이트
+  ja: スノーホワイト
+222_name:
+  en: Scarlet
+  ko: 홍련
+  ja: 紅蓮
+c221_Lobby_Touch_1:
+  en: Please, oh merciful Creator, bring happiness upon these people.
+  ko: 기도합니다. 모두 행복했으면 좋겠어요.
+  ja: |-
+    祈りましょう。
+    みなさんが幸せになりますようにと。
+c221_Lobby_Touch_2:
+  en: Fill them with your light and bless them with eternal hope.
+  ko: 부디 그들에게 영원한 희망을, 찬란한 희망을.
+  ja: どうかあの者たちへ永遠の希望を、眩い希望を。
+c221_Lobby_Touch_3:
+  en: Please allow the rippling muscles of those men fill my dreams.
+  ko: 부디 오늘은 근육질 형제님이 나오는 꿈을 꾸기를.
+  ja: どうか今夜は、筋肉質なブラザーが夢に出てきますように。
+c221_Lobby_Touch_Love_1:
+  en: All I want is to remember every moment spent with you. Is that too much to ask?
+  ko: |-
+    형제님과의 추억은 단 한순간도 잊고 싶지 않아요.
+    욕심이겠죠.
+  ja: |-
+    ブラザーとの思い出は一瞬たりとも忘れたくありません。
+    欲張りですよね。
+c221_Lobby_Touch_Love_2:
+  en: Believer, tell me, when can we finally submit to our desire to do whatever we
+    wish?
+  ko: 형제님, 저희는 언제쯤 이런 거 저런 거 다 하게 되나요?
+  ja: |-
+    ブラザー、いつになったら私たちは
+    あんなことやこんなことができるのですか？
+c221_Lobby_Touch_Love_3:
+  en: |-
+    Oh my! Such skillful hands...
+    Very impressive, as expected.
+  ko: "헉! 저를 찔러대는 이 능숙한 손놀림… \n역시 예사롭지 않군요."
+  ja: |-
+    はっ！私を突っつき回すこの巧みな手つき…
+    ただ事ではありませんね。
+c221_Lobby_Stay_1:
+  en: I must go pray. Feel free to call upon me if you have any needs.
+  ko: 기도를 올리고 있을 테니 필요할 때 불러주세요.
+  ja: 祈りを捧げておりますので、何かありましたらお呼びください。
+c221_Lobby_Stay_Love_1:
+  en: |-
+    You pretend not to care so that I will let my guard down, is that it?
+    What if I have a moment of weakness? What will you do to me then?!
+  ko: |-
+    이쪽엔 신경도 안 쓰는 척 저를 방심하게 하려는 속셈이군요.
+    그렇게 방심한 저를 어떻게 하시려고…!
+  ja: |-
+    こちらに関心がないふりをして、私を油断させる作戦ですね。
+    いったい何を企んでいらっしゃるのですか…！
+c221_Outpost_Touch_1:
+  en: If there is such a thing as Paradise, surely it is this place. I would love
+    to live here.
+  ko: |-
+    낙원이 있다면 여기겠네요.
+    눌러살고 싶어라.
+  ja: |-
+    楽園があるとしたら ここでしょう。
+    ずっとここにいたいですわ。
+c221_Outpost_Touch_2:
+  en: I certainly hope there aren't any graves lying around here.
+  ko: |-
+    혹시 여기 무덤이 있나요?
+    없었으면 좋겠네요.
+  ja: |-
+    ここには墓地はありますか？
+    無いと言ってください。
+c221_Outpost_Touch_3:
+  en: There must be hidden areas all over this place.
+  ko: 이곳은 은밀한 장소가 많겠네요.
+  ja: ここには秘密の場所が たくさんありそうですね。
+c221_Gacha_Get_1:
+  en: May the Creator bless you for never losing your faith, even during your darkest
+    hours.
+  ko: 그 어떤 절망에도 빛을 잃지 않는 가호가 함께하길.
+  ja: いかなる絶望にも光を失わないご加護が共にあらんことを。
+c221_Reinforce_1:
+  en: It's been quite some time since someone looked after me like this.
+  ko: 제대로 된 케어는 오랜만이에요.
+  ja: ちゃんとしたケアは久しぶりです。
+c221_Reinforce_2:
+  en: Oh. You really don't hold back.
+  ko: 헉. 제 몸을 이렇게 맘대로 하시다니…!
+  ja: なんとまあ。私の体をこんなにも好き勝手に扱うなんて…！
+c221_Reinforce_3:
+  en: It would be nice if I was a bit more... well-rounded in certain areas.
+  ko: 좀 더 커지면 좋겠는데요.
+  ja: もう少し大きくなりたいです。
+c221_Gift_1:
+  en: Thank you. May the Creator bless you, Believer.
+  ko: 감사합니다. 형제님에게 축복이 가득하길.
+  ja: ありがとうございます。ブラザーに祝福がみなぎらんことを。
+c221_Gift_2:
+  en: Would you like to make a donation? Oh... it's for me?
+  ko: 헌금이신가요? 어? 저한테 주신다고요?
+  ja: 献金でしょうか？え？私へですか？
+c221_Gift_3:
+  en: What are you trying to do? It... It can't be...!
+  ko: "…뭘 요구하시려고 이러는 거죠? 서, 설마…!"
+  ja: "…何が目的でこんなことされるのですか？ま、まさか…！"
+c221_Attractive_Up_1:
+  en: Believer, you are virtuous. The sooner I tie you down, the better... I mean...
+    F-forget I said anything!
+  ko: |-
+    형제님은 좋은 분이세요.
+    얼른 낚아채야, 아니. 아무것도 아니에요.
+  ja: |-
+    ブラザーは善良なお方です。
+    早くかっさらわないと、いえ。何でもありません。
+c221_Attractive_Up_2:
+  en: Believer, you must trust your instincts completely.
+  ko: |-
+    형제님, 좀 더 본능에 충실하셔도 괜찮아요.
+    아니, 충실해 주세요.
+  ja: |-
+    ブラザー、もう少し本能に従っても大丈夫ですよ。
+    さあ、正直になりましょう。
+c221_Attractive_Up_3:
+  en: No, I cannot allow myself to be conquered by you like this!
+  ko: 앗, 이렇게 형제님께 함락될 수는 없어요…!
+  ja: あっ、こんなふうにブラザーに落とされるわけには…！
+c221_Party_Deploy_1:
+  en: I'm always by your side.
+  ko: 그 걸음걸이의 옆을 지킬게요.
+  ja: その歩みを傍からお守りします。
+c221_Field_Touch_1:
+  en: I'm ready.
+  ko: 저는 준비되어 있어요.
+  ja: 準備ならもうできています。
+c221_Field_Go_1:
+  en: You want me to get on it? W-wait, that didn't come out right...
+  ko: 갑니다. 핫…! 간다고…?
+  ja: 行きます。はっ…！い・く、ですって…？
+c221_Battle_Enter_1:
+  en: Everybody get ready.
+  ko: 다들 준비해 주세요.
+  ja: みなさん準備してください。
+c221_Battle_Ready_1:
+  en: No one will get hurt.
+  ko: 누구도 다치게 하지 않겠어요.
+  ja: 誰にもケガはさせません。
+c221_Battle_Ready_2:
+  en: I will look over everyone.
+  ko: 제가 모두를 지킬게요.
+  ja: 私がみなさんを守ります。
+c221_Battle_Ready_3:
+  en: May the Creator bless us.
+  ko: 가호가 함께 하길.
+  ja: ご加護が共にあらんことを。
+c221_Reload_1:
+  en: No! The power of my prayers are declining.
+  ko: 앗, 기도력이 떨어졌어요.
+  ja: あっ、祈りの効果が落ちてしまいました。
+c221_Reload_2:
+  en: Sorry, please wait a minute.
+  ko: 잠시만 실례할게요.
+  ja: ちょっと失礼いたします。
+c221_Reload_3:
+  en: May all of us remain standing.
+  ko: 모두 무너지지 않기를.
+  ja: 決して崩壊することのないように。
+c221_Ult_Skill_Ready_1:
+  en: I'm ready.
+  ko: 준비됐어요.
+  ja: 準備できました。
+c221_Ult_Skill_1:
+  en: The Garden of Shangri-La, no pain or despair!
+  ko: "이곳은 완전한 세계. \n가든 오브 샹그릴라."
+  ja: |-
+    苦痛も絶望もない世界。
+    ガーデンオブシャングリラ。
+c221_FullBurst_1:
+  en: Please guide us all to the light!
+  ko: 우리 모두를 빛으로 인도하소서!
+  ja: 我々を光を以てお導きあれ！
+c221_Kill_Monster_1:
+  en: Eh?
+  ko: 어라?
+  ja: あれ？
+c221_Kill_Monster_2:
+  en: My goodness.
+  ko: 어머.
+  ja: まあ。
+c221_Kill_Monster_3:
+  en: Whoa!
+  ko: 우와!
+  ja: うわぁ！
+c221_Damage_1:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c221_Damage_2:
+  en: Errggh!
+  ko: 크윽!
+  ja: くうっ！
+c221_Damage_3:
+  en: "*Gasp*"
+  ko: 허억!
+  ja: うっ！
+c221_Die_1:
+  en: I may have fallen... but so long as all of you are safe...
+  ko: 저는 여기서 쓰러지지만… 여러분들만은…!
+  ja: 私がここで倒れるなど…皆様だけは…！
+c221_Win_1:
+  en: We will also emerge victorious, so long as we never give up hope.
+  ko: 희망을 잃지 않는 이상, 우리는 지지 않아요.
+  ja: 希望を失わない限り、我々は負けません。
+221_cv_ja:
+  en: 'CV: Suzuko Mimori'
+  ko: 'CV : 미모리 스즈코'
+  ja: CV：三森すずこ
+221_cv_ko:
+  en: 'CV: Lee Seul'
+  ko: 'CV : 이슬'
+  ja: CV：イスル
+221_cv_en:
+  en: 'CV: Tamara Fritz'
+  ko: 'CV : 타마라 프리츠'
+  ja: CV：Tamara Fritz

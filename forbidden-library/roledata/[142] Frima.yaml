@@ -1,0 +1,443 @@
+---
+142_name:
+  en: Frima
+  ko: 프림
+  ja: プリム
+c142_description:
+  en: The leader of Cafe Sweety, who sells cream coffee. Her inherent laziness actually
+    leads her to discover the most efficient ways to get things done.
+  ko: |-
+    카페 스위티 스쿼드의 리더.
+    엄청난 게으름뱅이지만 그래서 가장 효율적인 방법을 추구한다.
+    판매하는 커피는 프림 커피.
+  ja: |-
+    カフェ・スウィーティー部隊のリーダー。
+    かなりの怠け者だが、だからこそ
+    最も効率的なやり方を追求する。
+    販売しているコーヒーはプリムコーヒー。
+142_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50142:
+  en: Frima's Spare Body
+  ko: 프림 스페어 바디
+  ja: プリムのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21422_name:
+  en: "... Ah"
+  ko: "…아"
+  ja: "…あ"
+21422_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects all allies.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 아군 전체에게
+    <color=#00AEFF>[최대 체력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、味方全体に
+    <color=#00AEFF>「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21421_name:
+  en: "... I want to sleep"
+  ko: "…자고 싶다"
+  ja: "…眠い"
+21421_description:
+  en: "■ Activates after landing {description_value_01} normal attack(s). Affects
+    the target(s). \n<color=#00AEFF>DEF ▼ {description_value_02}% for {description_value_03}
+    sec.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 대상에게
+    <color=#00AEFF>[방어력 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、対象に
+    <color=#00AEFF>「防御力{description_value_02}％▼」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11423_name:
+  en: "… Annoying"
+  ko: "…귀찮아"
+  ja: "…メンドイ"
+11423_description:
+  en: |-
+    ■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> DEF.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.
+    DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Max HP ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: "■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+    \n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}%
+    대미지]\n[방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>\n■
+    아군 전체에게\n<color=#00AEFF>[최대 체력 {description_value_05}% ▲] [{description_value_06}초
+    유지]</color>"
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」
+    「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「最大HP{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+140_name:
+  en: Sugar
+  ko: 슈가
+  ja: シュガー
+141_name:
+  en: Milk
+  ko: 밀크
+  ja: ミルク
+c142_Lobby_Touch_1:
+  en: Ah...
+  ko: 아….
+  ja: あ…
+c142_Lobby_Touch_2:
+  en: So sleepy.
+  ko: 잠 옴.
+  ja: 眠い。
+c142_Lobby_Touch_3:
+  en: Where's my bed...
+  ko: 피곤. 많이.
+  ja: 疲れた。すごく。
+c142_Lobby_Touch_Love_1:
+  en: Quiet. Good.
+  ko: 조용. 좋음.
+  ja: 静か。いい。
+c142_Lobby_Touch_Love_2:
+  en: Hey. Work stressful?
+  ko: 여. 일. 안 귀찮음?
+  ja: おい。仕事。面倒じゃない？
+c142_Lobby_Touch_Love_3:
+  en: Need sleep. Let's sleep. Same bed.
+  ko: 불면증. 잠. 같이.
+  ja: 不眠症。眠る。一緒に。
+c142_Lobby_Stay_1:
+  en: Why. Am I. Here.
+  ko: 나. 왜. 여기.
+  ja: 私。なぜ。ここに。
+c142_Lobby_Stay_Love_1:
+  en: Fu... Fu... Yea...
+  ko: 쿨- 쿨- 음냐….
+  ja: ぐぅ…ぐぅ…むにゃむにゃ…
+c142_Outpost_Touch_1:
+  en: Cafe... Creamer... Nice.
+  ko: 카페. 프림 커피. 최고.
+  ja: カフェ。カフェオレ。最高。
+c142_Outpost_Touch_2:
+  en: Need nap... but where?
+  ko: 낮잠. 장소. 어디.
+  ja: 昼寝。場所。どこ。
+c142_Outpost_Touch_3:
+  en: So bright... need eyeshade.
+  ko: 밝음. 안대. 필수.
+  ja: 明るい。アイマスク。必須。
+c142_Gacha_Get_1:
+  en: Introductions? No need.
+  ko: "…………소개. 귀찮음."
+  ja: "…………紹介。面倒。"
+c142_Reinforce_1:
+  en: Let's... do this.
+  ko: "…앗."
+  ja: "…あっ。"
+c142_Reinforce_2:
+  en: I'm the strongest.
+  ko: 나. 최강.
+  ja: 私。最強。
+c142_Reinforce_3:
+  en: "... Phew."
+  ko: "…훗."
+  ja: "…ふっ。"
+c142_Gift_1:
+  en: For... me?
+  ko: "…오."
+  ja: "…お。"
+c142_Gift_2:
+  en: Thanks.
+  ko: 고맙.
+  ja: 感謝。
+c142_Gift_3:
+  en: Wow!
+  ko: 우와-
+  ja: うわー。
+c142_Attractive_Up_1:
+  en: You and I. Besties.
+  ko: "…우리. 친함."
+  ja: "…私たち。仲良し。"
+c142_Attractive_Up_2:
+  en: "... We. Are close."
+  ko: "…우리. 많이 친함."
+  ja: "…私たち。すごく仲いい。"
+c142_Attractive_Up_3:
+  en: You. Me. Best friends.
+  ko: 여. 우리. 베프.
+  ja: おい。私たち。親友。
+c142_Party_Deploy_1:
+  en: So annoying.
+  ko: "…아. 귀찮."
+  ja: "…あ。面倒。"
+c142_Field_Touch_1:
+  en: Yes.
+  ko: 응.
+  ja: うん。
+c142_Field_Go_1:
+  en: Um...
+  ko: 어-
+  ja: あー。
+c142_Battle_Enter_1:
+  en: Got it.
+  ko: 음!
+  ja: うん！
+c142_Battle_Ready_1:
+  en: Make it quick. Need sleep.
+  ko: 빨리. 끝. 수면.
+  ja: 早く。終了。睡眠。
+c142_Battle_Ready_2:
+  en: Nothing...
+  ko: 별일. 아님.
+  ja: 大したこと。ない。
+c142_Battle_Ready_3:
+  en: Hehehe...
+  ko: "…아… 아아…."
+  ja: "…あ…ああ…"
+c142_Reload_1:
+  en: Loading.
+  ko: 재장전.
+  ja: リロード。
+c142_Reload_2:
+  en: Be. More. Efficient.
+  ko: 귀찮. 효율.
+  ja: 面倒。効率。
+c142_Reload_3:
+  en: Want to go home.
+  ko: 집. 복귀. 희망.
+  ja: 家。復帰。希望。
+c142_Ult_Skill_Ready_1:
+  en: Here it is.
+  ko: 나.
+  ja: 私。
+c142_Ult_Skill_1:
+  en: "... Annoying."
+  ko: "…짜증."
+  ja: "…イライラ。"
+c142_FullBurst_1:
+  en: Let's... shoot!
+  ko: 일제… 사격…!
+  ja: 一斉…射撃…！
+c142_Kill_Monster_1:
+  en: Down.
+  ko: 격추.
+  ja: 撃墜。
+c142_Kill_Monster_2:
+  en: Destroyed.
+  ko: 파괴.
+  ja: 破壊。
+c142_Kill_Monster_3:
+  en: Good.
+  ko: 굿.
+  ja: グッド。
+c142_Damage_1:
+  en: Argh, yes!
+  ko: 아.
+  ja: あ。
+c142_Damage_2:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c142_Damage_3:
+  en: Agh.
+  ko: 아야.
+  ja: いたっ。
+c142_Die_1:
+  en: Oh well.
+  ko: 아……. 방심.
+  ja: あ……油断。
+c142_Win_1:
+  en: Ha! Victory!
+  ko: 흐아암~ 승리.
+  ja: ふあああ～勝利。
+142_cv_ja:
+  en: 'CV: Kaori Ishihara'
+  ko: 'CV : 이시하라 카오리'
+  ja: CV：石原夏織
+142_cv_ko:
+  en: 'CV: Yoon Eun-seo'
+  ko: 'CV : 윤은서'
+  ja: CV：ユン・ウンソ
+142_cv_en:
+  en: 'CV: Jeannie Tirado'
+  ko: 'CV : 지니 티라도'
+  ja: CV：Jeannie Tirado

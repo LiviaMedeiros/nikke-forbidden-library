@@ -1,0 +1,4427 @@
+---
+d_ex_police_01:
+  d_ex_police_01_1:
+    speaker: miranda
+    en: Commander! Poli! I have a problem!
+    ko: 지휘관! 폴리! 고민이 있습니다!
+    ja: 指揮官！ポリ！悩みがあります！
+  d_ex_police_01_2:
+    speaker: poli
+    en: Okay. Good luck with that.
+    ko: 넹. 그렇군용. 그럼 조금 더 고민하세영.
+    ja: |-
+      は～い。そうですかぁ。
+      ではもう少し悩んでみてくださいねぇ～
+  d_ex_police_01_3:
+    speaker: miranda
+    en: Wh-what?
+    ko: 네?
+    ja: はい？
+  d_ex_police_01_4:
+    speaker: miranda
+    en: Um...
+    ko: 어, 어어….
+    ja: あ、ああ…
+  d_ex_police_01_5:
+    speaker: "<Monologue>"
+    en: Miranda looks at me.
+    ko: 미란다가 이쪽을 빤히 바라보았다.
+    ja: ミランダが思い切りこっちを見ている
+  d_ex_police_01_6:
+    speaker: "<Monologue>"
+    en: It's as if she's saying, "What should I do?"
+    ko: 어떻게 하냐는 눈치다.
+    ja: 助けを求める顔だ
+  d_ex_police_01_7:
+    speaker: "<Choice>"
+    en: What Poli said.
+    ko: 조금 더 고민해봐.
+    ja: もう少し悩んでみろ
+  d_ex_police_01_8:
+    speaker: "<Choice>"
+    en: What's the matter?
+    ko: 무슨 고민이야?
+    ja: どんな悩みだ？
+  d_ex_police_01_9:
+    speaker: miranda
+    en: You too, Commander?
+    ko: 지휘관까지 더 고민하라는 겁니까아…?
+    ja: 指揮官まで同じこと言うなんて…
+  d_ex_police_01_10:
+    speaker: miranda
+    en: All right, I'll think it over...
+    ko: 그럼 알겠습니다. 더 고민하겠습니다!
+    ja: 分かりました。もう少し悩んでみます！
+  d_ex_police_01_11:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_01_12:
+    speaker: miranda
+    en: Poli! I've got it!
+    ko: 폴리! 고민이 다했습니다!
+    ja: ポリ！悩み終わりました！
+  d_ex_police_01_13:
+    speaker: poli
+    en: That was quick.
+    ko: 벌써 끝났어영?!
+    ja: もう終わったのぉ！？
+  d_ex_police_01_14:
+    speaker: miranda
+    en: Yep!
+    ko: 끝났습니다!
+    ja: はい！
+  d_ex_police_01_15:
+    speaker: poli
+    en: No no, Commander.
+    ko: 안돼영. 지휘관.
+    ja: ダメですよぉ。指揮官。
+  d_ex_police_01_16:
+    speaker: poli
+    en: Don't humor her, otherwise she'll never drop those bad habits of hers.
+    ko: 그렇게 자꾸 받아주면 버릇 나빠진단 말이에영.
+    ja: |-
+      そんな風に甘やかしたら
+      図に乗っちゃいますよぉ。
+  d_ex_police_01_17:
+    speaker: miranda
+    en: Hey! I don't have any bad habits!
+    ko: 폴리. 저 버릇 안 나쁩니다!
+    ja: ポリ。私は図に乗ったりしません！
+  d_ex_police_01_18:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_01_19:
+    speaker: poli
+    en: "*Sigh* All right, what is it?"
+    ko: 에흉… 뭔데여. 고민잉.
+    ja: ふぅ…何ですかぁ？悩みって。
+  d_ex_police_01_20:
+    speaker: miranda
+    en: The A.C.P.U.'s duty is to protect Ark citizens, right?
+    ko: 우리 A.C.P.U.는 방주 시민을 지키는 사람이지 않습니까?
+    ja: |-
+      私たちA.C.P.U.は
+      アークの市民をお守りする存在ですよね？
+  d_ex_police_01_21:
+    speaker: poli
+    en: Yes, and?
+    ko: 그렇져?
+    ja: そうですよ？
+  d_ex_police_01_22:
+    speaker: miranda
+    en: But we're at the Outpost right now.
+    ko: 하지만 지금은 전초기지에 있지 않습니까?
+    ja: でも今は前哨基地にいますよね？
+  d_ex_police_01_23:
+    speaker: poli
+    en: Correct again. So?
+    ko: 그렇죵?
+    ja: そうですよぉ？
+  d_ex_police_01_24:
+    speaker: miranda
+    en: So who do we protect in the Outpost?
+    ko: 그럼 전초기지에서는 누굴 지켜야 하는 겁니까?
+    ja: では前哨基地では誰を守ればいいのでしょうか？
+  d_ex_police_01_25:
+    speaker: poli
+    en: If I were to hazard a guess, I'd say Outpost citizens.
+    ko: 전초기지의 시민을 지키면 되는 거 아닌가영?
+    ja: |-
+      前哨基地にいる市民を
+      守ればいいと思いますよぉ？
+  d_ex_police_01_26:
+    speaker: miranda
+    en: Outpost citizens? Who is that?
+    ko: 전초기지의 시민? 그게 누굽니까?
+    ja: 前哨基地にいる市民とは誰のことですか？
+  d_ex_police_01_27:
+    speaker: poli
+    en: Who is that? That's us!
+    ko: 누구냐뇽. 우리들이잖아여!
+    ja: 誰って、私たちがいるじゃないですかぁ！
+  d_ex_police_01_28:
+    speaker: poli
+    en: Who else is there besides the Commander and the other Nikkes?
+    ko: |-
+      지휘관이랑 니케들.
+      이 외에 또 누가 있겠어영.
+    ja: |-
+      指揮官とニケ。
+      他に誰がいるって言うんですかぁ。
+  d_ex_police_01_29:
+    speaker: miranda
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_police_01_30:
+    speaker: miranda
+    en: Really? So Nikkes can be citizens of the Outpost?
+    ko: 그렇습니까? 우리는 전초기지의 시민이었습니까?
+    ja: |-
+      そうなんですか？
+      私たちは前哨基地の市民だったのですか？
+  d_ex_police_01_31:
+    speaker: poli
+    en: Sure.
+    ko: 넹. 그랬습니당.
+    ja: はい。そうですよん。
+  d_ex_police_01_32:
+    speaker: miranda
+    en: So they were right.
+    ko: 아… 그럼 그 말이 맞았습니다.
+    ja: あ…ではみなさんの言うことが合ってました。
+  d_ex_police_01_33:
+    speaker: miranda
+    en: I have to take the complaints here seriously.
+    ko: 여기서도 민원을 받아서 해결해야 하는 것이었습니다!
+    ja: |-
+      ここでも苦情を受け付け、
+      それを解決しなければいけないのでした！
+  d_ex_police_01_34:
+    speaker: poli
+    en: Complaints?
+    ko: 민원이용?
+    ja: 苦情？
+  d_ex_police_01_35:
+    speaker: poli
+    en: From who?
+    ko: 누가 민원을 넣었는데영?
+    ja: 誰から苦情が入ってきたんですかぁ？
+  d_ex_police_01_36:
+    speaker: miranda
+    en: There were several people,
+    ko: 꽤 여러분이 있었는데….
+    ja: 結構な数がありまして…
+  d_ex_police_01_37:
+    speaker: miranda
+    en: but Anis was the first.
+    ko: 첫 번째는 아니스였습니다.
+    ja: 最初はアニスからでした。
+  d_ex_police_01_38:
+    speaker: miranda
+    en: One of the shower heads was broken,
+    ko: 샤워실의 샤워기가 고장 났으니까.
+    ja: シャワーが故障したので…
+  d_ex_police_01_39:
+    speaker: miranda
+    en: and she wanted me to have Mighty Tools rush over and fix it.
+    ko: 마이티 툴즈에게 얼른얼른 고치라고 재촉하라고 했습니다!
+    ja: |-
+      マイティツールズに早く
+      修理要請をしてほしいとのことでした！
+  d_ex_police_01_40:
+    speaker: poli
+    en: What?! She could fix that by herself! Why would she...
+    ko: |-
+      아닝, 그건 본인이 가서 말하면 되징!
+      그걸 왜…!
+    ja: |-
+      え、それは本人が直接言えば
+      いいんじゃないの？何でわざわざ…！
+  d_ex_police_01_41:
+    speaker: miranda
+    en: There's more.
+    ko: 또 있었습니다!
+    ja: まだあります！
+  d_ex_police_01_42:
+    speaker: miranda
+    en: A complaint from Absolute.
+    ko: 앱솔루트에서 온 민원인데.
+    ja: アブソルートからの苦情でして、
+  d_ex_police_01_43:
+    speaker: miranda
+    en: Members of Matis were over by the generator hollering something about heroes
+      and the like.
+    ko: 발전기 쪽에서 메티스가 히어로니 뭐니 큰소리로 떠들고 있다며.
+    ja: 発電機の方でメティスがヒーローだとか何とか\n大声で叫んでいるので
+  d_ex_police_01_44:
+    speaker: miranda
+    en: They said that Matis better make themselves scarce before she blows up the
+      entire building.
+    ko: 직접 날려버리기 전에 방을 빼게 하라고 했습니다.
+    ja: 自分たちが吹っ飛ばす前に、部屋を出るよう\n言ってもらいたいとの要請でした。
+  d_ex_police_01_45:
+    speaker: miranda
+    en: Emma wanted to remind us this is all Eunhwa's opinion,
+    ko: 아, 엠마 말로는 은화의 개인 의견이니까 앱솔루트가 한 게 아니라는 점 꼭 기억해 달라고도 했습니다.
+    ja: あ、エマによればウンファの個人的な\n意見であり、アブソルート全体の意見ではない\nという点を忘れないようにとのことでした。
+  d_ex_police_01_46:
+    speaker: miranda
+    en: and not of Absolute as a whole.
+    ko: 그러니까 은화한테 온 민원입니다!
+    ja: つまりウンファからの苦情ということです！
+  d_ex_police_01_47:
+    speaker: poli
+    en: Can't they just settle this amongst themselves? Why get us involved?!
+    ko: |-
+      아닝… 이 사람들잉!
+      왜 자꾸 직접 말하면 되는 걸 우리한텡…!
+    ja: |-
+      はぁ…一体どうなってるの！
+      本人たちが直接言えばいいことをどうして私たちに…！
+  d_ex_police_01_48:
+    speaker: miranda
+    en: There's more.
+    ko: 또 있습니다!
+    ja: まだあります！
+  d_ex_police_01_49:
+    speaker: poli
+    en: More?!
+    ko: 또 있다고영?!
+    ja: まだあるのぉ！？
+  d_ex_police_01_50:
+    speaker: miranda
+    en: It's from Folkwang.
+    ko: 폴크방에게서 들어온 민원인데.
+    ja: フォルクヴァンからの苦情でして、
+  d_ex_police_01_51:
+    speaker: miranda
+    en: She said the Outpost is sweltering, and that she feels like she's going to
+      die.
+    ko: 전초기지가 너무 더워서 죽을 거 같으니.
+    ja: 前哨基地が暑すぎて死にそうなので、
+  d_ex_police_01_52:
+    speaker: miranda
+    en: She wants air conditioning installed along all the streets.
+    ko: 거리 전체에 냉방기를 틀어달라고 했습니다!
+    ja: |-
+      通り全体にクーラーを設置してほしい
+      との要請でした！
+  d_ex_police_01_53:
+    speaker: poli
+    en: "... Say that again?"
+    ko: 거, 거리 전체에 뭐영?
+    ja: |-
+      と、通り全体に
+      な、何ですって？
+  d_ex_police_01_54:
+    speaker: miranda
+    en: She wants A/C installed along the streets.
+    ko: 냉방기를 설치해달라고 했습니다!
+    ja: クーラーを設置してほしいとの要請です！
+  d_ex_police_01_55:
+    speaker: miranda
+    en: I don't know about the others, but I feel we should consider this one. Folkwang
+      said she might die!
+    ko: |-
+      다른 건 몰라도 이건 들어줘야 할 거 같습니다!
+      죽는다고 합니다!
+    ja: |-
+      他のことはさておき、これは是非とも\n検討する必要があると思います！
+      命がかかってますので！
+  d_ex_police_01_56:
+    speaker: poli
+    en: How can a Nikke die of heatstroke?!
+    ko: 니케가 왜 더위로 죽어여!
+    ja: ニケが暑さで死ぬわけありません！
+  d_ex_police_01_57:
+    speaker: poli
+    en: If she thinks it's so hot, tell her to stay inside and turn on the A/C!
+    ko: 그리고 그렇게 더우면 실내에서 냉방기를 틀고 있으면 되잖아영!
+    ja: それにそんなに暑いなら、部屋の中で\nクーラーをつけていればいいことですぅ！
+  d_ex_police_01_58:
+    speaker: poli
+    en: |-
+      What is wrong with these people?! They're driving me up the wall!
+      Do they even know what the police are meant for?! *Grrr*
+    ko: |-
+      이 사람들이 진짜! 이런 진상 민원을 하다닛!
+      경찰을 뭘로 보는 거양! 크르르릉!
+    ja: |-
+      まったくみんな！こんなどうでもいいことで\n通報してきて！
+      警察をバカにしてるの？グルルン！
+  d_ex_police_01_59:
+    speaker: miranda
+    en: P-Poli! You need to calm down!
+    ko: 포, 폴리! 진정해야 합니다!
+    ja: ポ、ポリ！落ち着いてください！
+  d_ex_police_01_60:
+    speaker: "<Monologue>"
+    en: I pat Poli on the head.
+    ko: 폴리의 머리를 쓰다듬었다.
+    ja: ポリの頭をなでた
+  d_ex_police_01_61:
+    speaker: Self
+    en: There there, calm down.
+    ko: 진정해.
+    ja: 落ち着け
+  d_ex_police_01_62:
+    speaker: poli
+    en: "*Grrr..* *GRRRR*"
+    ko: 크르르… 크르르릉…!
+    ja: グルル…グルルル…！
+  d_ex_police_01_63:
+    speaker: "<Monologue>"
+    en: Poli pants angrily.
+    ko: 폴리가 분한 듯 숨을 몰아쉬었다.
+    ja: ポリが悔しそうに息を荒げた
+  d_ex_police_01_64:
+    speaker: miranda
+    en: Are you okay?
+    ko: 괜찮으십니까…?
+    ja: 大丈夫ですか…？
+  d_ex_police_01_65:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_01_66:
+    speaker: miranda
+    en: P... Poli?
+    ko: 포… 폴리…?
+    ja: ポ…ポリ…？
+  d_ex_police_01_67:
+    speaker: poli
+    en: "... Miranda."
+    ko: "…미란다."
+    ja: "…ミランダ。"
+  d_ex_police_01_68:
+    speaker: miranda
+    en: Yes?
+    ko: 네, 넵!
+    ja: は、はい！
+  d_ex_police_01_69:
+    speaker: poli
+    en: I take back what I said.
+    ko: 아까 했던 말 취소할게영.
+    ja: さっき言ったこと取り消します。
+  d_ex_police_01_70:
+    speaker: poli
+    en: The Commander is the only citizen of the Outpost.
+    ko: 이 전초기지의 시민은 지휘관 뿐이에영!
+    ja: この前哨基地で市民なのは指揮官だけですぅ！
+  d_ex_police_01_71:
+    speaker: poli
+    en: From now on, protect the Commander only!
+    ko: 알겠어영? 앞으로 지휘관만 지키공!
+    ja: |-
+      分かりましたね？
+      これからは指揮官だけをお守りし！
+  d_ex_police_01_72:
+    speaker: poli
+    en: The Commander's complaints are the only ones that count! You got that?
+    ko: 지휘관의 민원만 처리해 주면 돼영! 알겠졍!
+    ja: |-
+      指揮官からの苦情だけ処理すれば
+      いいんです！いいですね？
+  d_ex_police_01_73:
+    speaker: miranda
+    en: Understood!
+    ko: 알겠습니다! 지휘관만 지키겠습니다!
+    ja: 分かりました！指揮官だけをお守りします！
+  d_ex_police_01_74:
+    speaker: miranda
+    en: If I receive any complaints, I will inform them they are not Outpost citizens,
+    ko: 민원이 들어오면! 당신은 전초기지의 시민이 아니니!
+    ja: |-
+      他の方から苦情が入ったら！
+      あなたは前哨基地の市民ではないので！
+  d_ex_police_01_75:
+    speaker: miranda
+    en: and that they must figure it out themselves.
+    ko: 당신이 알아서 해결하라고 하겠습니다!
+    ja: |-
+      あなたが自分で解決してください
+      と言うことにします！
+  d_ex_police_01_76:
+    speaker: poli
+    en: Yes, just like that!
+    ko: 좋아여! 아주 좋은 자세에영!
+    ja: その通りですぅ！とても素晴らしい回答ですぅ！
+  d_ex_police_01_77:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+d_ex_police_02:
+  d_ex_police_02_1:
+    speaker: drake
+    en: Throw me in the clink already!
+    ko: 이 몸을 당장 이곳에 가두도록 해라!
+    ja: 私を今すぐここに閉じ込めろ！
+  d_ex_police_02_2:
+    speaker: miranda
+    en: No! We can't just lock someone up for no reason!
+    ko: 안됩니다! 이곳은 아무나 들어갈 수 없습니다!
+    ja: |-
+      ダメです！
+      ここは誰でも入れる場所ではありません！
+  d_ex_police_02_3:
+    speaker: miranda
+    en: Come back when you've done something wrong!
+    ko: 잘못을 저질렀을 때 오시면 됩니다!
+    ja: 過ちを犯した時に来てもらえれば結構です！
+  d_ex_police_02_4:
+    speaker: poli
+    en: Get that through that thick skull of yours and get out. We're busy!
+    ko: 들었졍? 빨리 나가세영. 지금 바쁘다구용!
+    ja: |-
+      分かりましたねぇ？早く出てください。
+      今私たちは忙しいんです！
+  d_ex_police_02_5:
+    speaker: poli
+    en: Or would you rather pay a fine for obstructing the law?
+    ko: 업무방해죄로 벌금 내고 싶으세영?
+    ja: 公務執行妨害で罰金払いたいんですかぁ？
+  d_ex_police_02_6:
+    speaker: "<Self>"
+    en: What's the matter?
+    ko: 무슨 일이야?
+    ja: 何事だ？
+  d_ex_police_02_7:
+    speaker: poli
+    en: Oh, hi Commander.
+    ko: 아 지휘관 오셨어영?
+    ja: あ、指揮官～
+  d_ex_police_02_8:
+    speaker: poli
+    en: We're completely swamped right now, and this weirdo keeps saying she wants
+      to go to jail.
+    ko: |-
+      지금 바빠 죽겠는데 갑자기 찾아와선
+      유치장에 들어가 보고싶다잖아영.
+    ja: |-
+      一番忙しい時にいきなり押し入ってきて
+      留置場に入らせてくれって言うんですぅ。
+  d_ex_police_02_9:
+    speaker: poli
+    en: "*Grrrr*"
+    ko: 크르르릉….
+    ja: グルルン…
+  d_ex_police_02_10:
+    speaker: drake
+    en: What are you doing here?
+    ko: 네놈, 왔나?
+    ja: 貴様、来たか。
+  d_ex_police_02_11:
+    speaker: drake
+    en: Since you're here, why don't you hear what I have to say?
+    ko: 온 김에 내 오랜 꿈을 들어라.
+    ja: ちょうどいい。私の長年の夢を聞いてくれ。
+  d_ex_police_02_12:
+    speaker: "<Choice>"
+    en: Sure.
+    ko: 그래. 들어 볼게.
+    ja: 話してみろ
+  d_ex_police_02_13:
+    speaker: "<Choice>"
+    en: No thanks.
+    ko: 아니. 들어 줄 수 없어.
+    ja: いや、聞いてやれない
+  d_ex_police_02_14:
+    speaker: drake
+    en: As you know, my strength is immeasurable.
+    ko: 후후…. 네놈도 알다시피 나는 힘이 무척 강하다.
+    ja: |-
+      フフフ…貴様も知っての通り、
+      私は力がとても強い。
+  d_ex_police_02_15:
+    speaker: drake
+    en: That means I will soon become the ultimate villain.
+    ko: 이 말은 즉, 내가 최고의 빌런이 되는 날도 머지 않았다는 거다.
+    ja: |-
+      つまり、私が最高のヴィランになる日も
+      そう遠くないという意味だ。
+  d_ex_police_02_16:
+    speaker: drake
+    en: Before that, I want to experience what it's like to be imprisoned,
+    ko: 그전에 미리 유치장 체험을 하려고 하는데….
+    ja: |-
+      その前に先に留置場体験を
+      しようと思ったのだが…
+  d_ex_police_02_17:
+    speaker: drake
+    en: but these idiots keep saying no!
+    ko: 이 아둔한 녀석들이 안된다고 하지 않나!
+    ja: この愚か者どもが言うことを聞かんのだ！
+  d_ex_police_02_18:
+    speaker: drake
+    en: Help me out, will you?
+    ko: 그러니 네놈이 날 도와야겠다!
+    ja: 貴様に私を手伝ってほしい！
+  d_ex_police_02_19:
+    speaker: "<Self>"
+    en: Got it! Villainy, here we come!
+    ko: 알겠어! 최고의 빌런이 되어보자!
+    ja: 分かった！最高のヴィランを目指せ！
+  d_ex_police_02_20:
+    speaker: drake
+    en: What? You've got some nerve.
+    ko: 뭐? 네놈, 감히 이 몸의 말을 듣지도 않고.
+    ja: 何だと？貴様、私の話も聞かないで。
+  d_ex_police_02_21:
+    speaker: drake
+    en: The least you can do is hear me out.
+    ko: 들어 줄 수 없다고 하는거냐.
+    ja: よくもそんなことが言えたな。
+  d_ex_police_02_22:
+    speaker: drake
+    en: My time of becoming the ultimate villain is nigh.
+    ko: 이 몸은 곧 최고의 빌런이 될 몸….
+    ja: 私はじきに最高のヴィランとなる…
+  d_ex_police_02_23:
+    speaker: drake
+    en: Therefore, I should get a taste of what it's like being imprisoned.
+    ko: 그렇기 때문에 미리 유치장에 들어가는 연습을 해야한다.
+    ja: |-
+      よって、その前に留置場に入る
+      練習をしておかねばならん。
+  d_ex_police_02_24:
+    speaker: drake
+    en: However, these idiots are in the way.
+    ko: 하지만 이 성가신놈들이 내 앞길을 방해하지 않나.
+    ja: |-
+      ところがこの目障りな奴らが
+      私の行く手を阻むではないか。
+  d_ex_police_02_25:
+    speaker: drake
+    en: They're petrified at the thought of me becoming a villain!
+    ko: 분명 내가 빌런이 되는 게 무서워서 그런 걸 거다!
+    ja: きっと私がヴィランになることを\n恐れているのだろう！
+  d_ex_police_02_26:
+    speaker: drake
+    en: You've gotta help me!
+    ko: 그러니 네놈이 날 도와줘야겠다!
+    ja: ここはひとつ、貴様の助けが必要だ！
+  d_ex_police_02_27:
+    speaker: "<Self>"
+    en: Got it, you can count on me.
+    ko: 그렇군! 도와줄게.
+    ja: なるほど！手を貸そう！
+  d_ex_police_02_28:
+    speaker: poli
+    en: Sigh... would you PLEASE get out, both of you.
+    ko: 에흉… 둘 다 나가주세영.
+    ja: ふぅ…2人とも出ていってくださいぃ。
+  d_ex_police_02_29:
+    speaker: poli
+    en: I'm disappointed in you, Commander.
+    ko: 지휘관은 실망이에영.
+    ja: 指揮官にはがっかりですぅ。
+  d_ex_police_02_30:
+    speaker: poli
+    en: Indulging her in these silly fantasies.
+    ko: 저런 시시콜콜한 이야기에 동조해 주시다닝.
+    ja: |-
+      こんなしょうもない話に
+      つき合ってあげるなんてぇ。
+  d_ex_police_02_31:
+    speaker: miranda
+    en: Shame on you, Commander!
+    ko: 지휘관, 실망입니다!
+    ja: 指揮官、失望しました！
+  d_ex_police_02_32:
+    speaker: drake
+    en: Can it! I don't need lip from some mongrel off her leash and a rookie cop!
+    ko: 강아지와 신입 경찰은 조용히 해라!
+    ja: 子イヌと新人警察官は黙ってろ！
+  d_ex_police_02_33:
+    speaker: poli
+    en: What?! I'm not a dog! *Grrr*
+    ko: 뭐라구영?! 강아지 아니라구영! 크르르릉….
+    ja: |-
+      何て言いました！？
+      子イヌじゃありませんよぉ！グルルン…
+  d_ex_police_02_34:
+    speaker: miranda
+    en: And I'm no rookie, thank you very much!
+    ko: 맞습니다! 저는 경찰입니다! 감사합니다!
+    ja: |-
+      その通りです！私は警察です！
+      ありがとうございます！
+  d_ex_police_02_35:
+    speaker: "<Monologue>"
+    en: Neither side is going to back down.
+    ko: 드레이크와 A.C.P.U. 중 어느 한 쪽도 물러서지 않았다.
+    ja: |-
+      ドレイクとA.C.P.U.のいずれも
+      最後まで引き下がろうとしない
+  d_ex_police_02_36:
+    speaker: "<Monologue>"
+    en: I should step up and smooth things over.
+    ko: 아무래도 나서서 중재를 해야할 것 같다.
+    ja: どうやら仲裁に入るしかなさそうだ
+  d_ex_police_02_37:
+    speaker: drake
+    en: You blithering dolts!
+    ko: 이 우매한 녀석들!
+    ja: この愚昧な奴らめ！
+  d_ex_police_02_38:
+    speaker: poli
+    en: I said get out! *Grrrr*
+    ko: 당장 나가세영! 크르르릉….
+    ja: 今すぐここから出てください！グルルン…
+  d_ex_police_02_39:
+    speaker: "<Self>"
+    en: If you want to go to jail, you've got to do it right.
+    ko: 그럼 정당한 방법으로 유치장에 들어가자.
+    ja: では正当な方法で留置場に入ろう
+  d_ex_police_02_40:
+    speaker: drake
+    en: What? Are you saying I need to commit an actual crime?
+    ko: 뭐? 이 몸에게 나쁜 짓을 저지르라는 건가.
+    ja: 何だと？私に悪事を働けと言うのか？
+  d_ex_police_02_41:
+    speaker: "<Self>"
+    en: Yes.
+    ko: 맞아.
+    ja: そうだ
+  d_ex_police_02_42:
+    speaker: poli
+    en: Commander, what are you saying?!
+    ko: 지휘관, 무슨말씀이세용!
+    ja: 指揮官、何を仰ってるんですか！
+  d_ex_police_02_43:
+    speaker: drake
+    en: Hmm. All right, let me hear it.
+    ko: 흠. 뭐, 일단 한번 들어나 보지.
+    ja: |-
+      ふむ。どういうつもりか
+      話だけでも聞いてみよう。
+  d_ex_police_02_44:
+    speaker: "<Choice>"
+    en: Let's prank call the police station.
+    ko: 경찰서에 장난전화를 하자.
+    ja: 警察にイタズラ電話をしろ
+  d_ex_police_02_45:
+    speaker: "<Choice>"
+    en: Let's hassle a random pedestrian.
+    ko: 지나가는 행인을 괴롭히자.
+    ja: 通行人にちょっかいを出せ
+  d_ex_police_02_46:
+    speaker: poli
+    en: You do realize we can hear you, don't you?
+    ko: 지휘관, 여기 A.C.P.U.가 바로 옆에서 듣고 있거든영!
+    ja: |-
+      指揮官、A.C.P.U.が
+      すぐ横で全部聞いてますけど！
+  d_ex_police_02_47:
+    speaker: drake
+    en: If I do that, they might miss a really important call!
+    ko: 그렇게 했다가 정말 중요한 신고 전화를 놓칠 수 있지 않나!
+    ja: |-
+      そんなことをしたら本当に重要な
+      通報を逃がしてしまうかもしれない！
+  d_ex_police_02_48:
+    speaker: drake
+    en: I can't do that!
+    ko: 그런 건 할 수 없다!
+    ja: そんなことはできない！
+  d_ex_police_02_49:
+    speaker: drake
+    en: You're saying I should bully someone who's defenseless?
+    ko: 지금 나더러 약자를 괴롭히라는 건가?
+    ja: 私より弱い者をいじめろというのか？
+  d_ex_police_02_50:
+    speaker: drake
+    en: You're dumber than I thought!
+    ko: 네놈은 정말 멍청한 생각만 하는군!
+    ja: 貴様はとことん頭が回らないな！
+  d_ex_police_02_51:
+    speaker: poli
+    en: Why are you two still here?!
+    ko: 지금 둘 다 뭐하는 거에영!
+    ja: もうっ、何してるんですかぁ！
+  d_ex_police_02_52:
+    speaker: poli
+    en: Sigh... how should we handle this...
+    ko: 에흉… 그럼 이렇게 해보는 건 어때영.
+    ja: はぁ…ではこうしてみるのはどうですかぁ？
+  d_ex_police_02_53:
+    speaker: "<Monologue>"
+    en: Poli produces a small strip of paper from inside her notebook.
+    ko: 폴리는 노트에 끼워져 있던 작은 종이 한장을 가져왔다.
+    ja: |-
+      ポリはノートに挟まっていた
+      小さな紙切れを持ってきた
+  d_ex_police_02_54:
+    speaker: "<Self>"
+    en: What is that?
+    ko: 그건 뭐야?
+    ja: それは何だ？
+  d_ex_police_02_55:
+    speaker: poli
+    en: This is a residential area I've been patrolling.
+    ko: 요즘 제가 순찰하고 있는 주택가 지도에용.
+    ja: |-
+      最近私がパトロールしている
+      住宅街の地図ですよん。
+  d_ex_police_02_56:
+    speaker: poli
+    en: Find this house with the red roof that's marked here.
+    ko: 이 지도에 표시되어 있는 빨간 지붕집을 찾아가세영.
+    ja: |-
+      この地図に示されている
+      赤い屋根の家に行ってください。
+  d_ex_police_02_57:
+    speaker: poli
+    en: In the morning and afternoon, ring the doorbell and hide.
+    ko: 그리고 오전, 오후 한 번씩 벨을 눌러주고 숨으세영.
+    ja: そして午前と午後に1回ずつベルを押して\n隠れてください。
+  d_ex_police_02_58:
+    speaker: poli
+    en: We'll apprehend you then and take you to jail.
+    ko: 그럼 저희가 드레이크를 체포해서 유치장에 넣어드릴게영.
+    ja: そしたら私たちがドレイクを逮捕して\n留置場に入れてあげますぅ。
+  d_ex_police_02_59:
+    speaker: drake
+    en: A bit of ding dong ditch, eh?
+    ko: 아아, 일명 [벨튀]를 하라는 건가?
+    ja: なるほど、あの有名な「ピンポンダッシュ」を\nしろということか？
+  d_ex_police_02_60:
+    speaker: poli
+    en: Yes, that will be your crime.
+    ko: 맞아영. [벨튀죄]로 유치장에 넣어드리죵.
+    ja: そうです。「ピンポンダッシュ罪」で\n留置場に入れてあげます。
+  d_ex_police_02_61:
+    speaker: drake
+    en: Hahaha, this is fun! That's actually not a bad idea.
+    ko: 후하하하! 재밌군. 우매한 줄 알았더니 좋은 제안이다.
+    ja: |-
+      フフフハハハ！面白そうじゃないか。
+      愚昧な奴だと思ったがなかなか頭が冴えるな。
+  d_ex_police_02_62:
+    speaker: drake
+    en: If the police are ordering me to do something bad, then it's at least worth
+      a shot.
+    ko: 경찰이 시키는 나쁜 짓이라면 해볼 만한 거겠지.
+    ja: 警察が勧める悪事ならやってみる価値はある。
+  d_ex_police_02_63:
+    speaker: drake
+    en: All right! I'll be back soon!
+    ko: 좋다! 그럼 당장 다녀오도록 하지!
+    ja: よし！早速出発するとしよう！
+  d_ex_police_02_64:
+    speaker: "<Monologue>"
+    en: Drake struts out of police station confidently.
+    ko: 드레이크는 자신만만한 표정으로 경찰서를 빠져나갔다.
+    ja: ドレイクは意気揚々と警察署を出て行った
+  d_ex_police_02_65:
+    speaker: poli
+    en: Thank goodness, she's finally out of our hair.
+    ko: 에흉, 드디어 나갔네영.
+    ja: ふぅ、やっと出て行ってくれました。
+  d_ex_police_02_66:
+    speaker: "<Self>"
+    en: Won't her ringing the bell disturb whoever's inside?
+    ko: 다른 사람에게 피해 주는 거 아냐?
+    ja: 他の人に被害が及んだりはしないのか？
+  d_ex_police_02_67:
+    speaker: poli
+    en: It's fine. An old lady lives there.
+    ko: 괜찮아영. 그 집에 할머니 한 분 계시는뎅.
+    ja: 大丈夫です。\nその家にはおばあさんが住んでるんですがぁ
+  d_ex_police_02_68:
+    speaker: poli
+    en: and she has to take medication.
+    ko: 요즘 할머니가 약을 챙겨 드시거든용.
+    ja: 最近、おばあさんが薬を飲み始めましてね。
+  d_ex_police_02_69:
+    speaker: poli
+    en: Sometimes she forgets to take it, so I've been thinking about setting up some
+      kind of alarm for her. Now we've got one.
+    ko: 자꾸 졸다가 까먹으셔성 알람이 하나 있어야겠다 생각 했는뎅, 마침 잘 됐졍.
+    ja: うっかり飲み忘れることが多くて、適当な\nお知らせがあればいいなと思ってたですよん。\nちょうどよかったですぅ。
+  d_ex_police_02_70:
+    speaker: miranda
+    en: Good thinking, Poli!
+    ko: 폴리 정말 멋진 순발력입니다!
+    ja: ポリ、実に素晴らしいアイデアです！
+  d_ex_police_02_71:
+    speaker: poli
+    en: From now on, I'm locking the doors to the police station.
+    ko: 이제부터 경찰서 문을 잠가놓도록 하겠어영.
+    ja: 今から警察署のドアの鍵を締めますぅ。
+  d_ex_police_02_72:
+    speaker: poli
+    en: If Drake ever comes over, do not open the door.
+    ko: 미란다, 앞으로 드레이크가 오면 절대 문 열어주지 마세영.
+    ja: ミランダ、もし今度ドレイクが来たら\n絶対にドアを開けてはいけませんよ。
+  d_ex_police_02_73:
+    speaker: miranda
+    en: You got it!
+    ko: 넵! 알겠습니다!
+    ja: はい！分かりました！
+  d_ex_police_02_74:
+    speaker: "<Monologue>"
+    en: It seems Drake won't ever be coming back to the police station.
+    ko: 드레이크는 영영 경찰서에 들어오지 못할 것 같다.
+    ja: ドレイクは一生警察署には入ってこれないだろう
+d_ex_police_03:
+  d_ex_police_03_1:
+    speaker: harran
+    en: Is this the place?
+    ko: 이곳이니?
+    ja: ここなの？
+  d_ex_police_03_2:
+    speaker: harran
+    en: Where you punish the guilty.
+    ko: 한낱 피식자인 너희가 죄지은 이에게 벌을 주는 곳이.
+    ja: |-
+      一介の被食者に過ぎないお前たちが
+      罪人に罰を与える場所は。
+  d_ex_police_03_3:
+    speaker: "<Self>"
+    en: No, not here. This is the police station.
+    ko: 경찰서는 그런 곳이 아니야.
+    ja: 警察署はそんな場所ではない
+  d_ex_police_03_4:
+    speaker: harran
+    en: Then what are those?
+    ko: 흠. 그럼 저건 무엇이니?
+    ja: ふん。ではあれは何なの？
+  d_ex_police_03_5:
+    speaker: harran
+    en: Are those not for imprisoning and torturing criminals?
+    ko: 죄지은 이를 가두고 벌을 주는 곳 아니니?
+    ja: 罪人を閉じ込め罰を与える場所じゃないの？
+  d_ex_police_03_6:
+    speaker: "<Monologue>"
+    en: Harran points at the holding cells which are separated by iron bars.
+    ko: 하란이 가리킨 곳엔 철창으로 둘러싸인 유치장이 있었다.
+    ja: |-
+      ハランが指差した場所には
+      鉄格子で囲まれた留置場があった
+  d_ex_police_03_7:
+    speaker: "<Monologue>"
+    en: Miranda is standing in the corner of the detention center, facing the wall.
+    ko: "…그리고 유치장 구석엔 미란다가 벽을 보고 서 있었다."
+    ja: |-
+      …そして留置場の隅では
+      ミランダが壁を見て立っていた
+  d_ex_police_03_8:
+    speaker: "<Self>"
+    en: "... Miranda?"
+    ko: "…미란다?"
+    ja: "…ミランダ？"
+  d_ex_police_03_9:
+    speaker: miranda
+    en: Yes! I'm here! I wasn't sleeping! Promise!
+    ko: 예! 저는! 조금도! 졸지 않았흡히다하!
+    ja: |-
+      はい！私は！けっして～！
+      居眠りなんかしてましぇ～ん！
+  d_ex_police_03_10:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_03_11:
+    speaker: harran
+    en: Are you the owner of these cages?
+    ko: 네가 이 우리의 주인이니?
+    ja: お前がこの檻の主人なの？
+  d_ex_police_03_12:
+    speaker: miranda
+    en: Owner? What are you talking about?
+    ko: 주인이라면 뭘 말씀하시는 겁니까?
+    ja: 主人って何のことですか？
+  d_ex_police_03_13:
+    speaker: harran
+    en: I mean are you the one responsible for these cages.
+    ko: 이 우리를 관리하고 운용하는 자를 의미하는 거란다.
+    ja: |-
+      この檻を管理し
+      運用する者のことを意味するわ。
+  d_ex_police_03_14:
+    speaker: miranda
+    en: Oh no, not at all! I'm only responsible for cleaning the cells.
+    ko: |-
+      아! 그건 아닙니다!
+      저는 그냥 유치장 청소담당입니다!
+    ja: |-
+      あ！では私は違います！
+      私はただの留置場の掃除係です！
+  d_ex_police_03_15:
+    speaker: harran
+    en: I see.
+    ko: 흠. 그러니?
+    ja: ふん。そう？
+  d_ex_police_03_16:
+    speaker: "<Narration>"
+    en: Harran stares at the floor of the cells.
+    ko: 하란은 유치장의 바닥을 빤히 바라보았다.
+    ja: ハランは留置場の床をじっと見つめた
+  d_ex_police_03_17:
+    speaker: harran
+    en: These "cells", as you call them, are immaculate.
+    ko: 그 흔한 신발 자국 하나 없구나.
+    ja: 足跡が1つもないわね。
+  d_ex_police_03_18:
+    speaker: harran
+    en: They are built for the purpose of punishing criminals, yet they go unused.
+    ko: |-
+      처벌하기 위해 만들어진 우리를,
+      사용하지 않고 그대로 방치해뒀다는 것은.
+    ja: |-
+      処罰のために作られた檻が
+      使用されずにそのまま放置されてきた。
+  d_ex_police_03_19:
+    speaker: harran
+    en: Is it because there are no criminals in this place, or is this all just a
+      show of force?
+    ko: |-
+      죄를 지은 이가 없다는 것이니,
+      아니면 그저 권력의 상징으로 놔두는 것이니.
+    ja: |-
+      これは罪を犯した者がいないってことなの、
+      それともただ権力の象徴として
+      残しているだけなの？
+  d_ex_police_03_20:
+    speaker: harran
+    en: Well?
+    ko: 대답해보렴.
+    ja: 答えてちょうだい。
+  d_ex_police_03_21:
+    speaker: miranda
+    en: "???"
+    ko: "???"
+    ja: "？？？"
+  d_ex_police_03_22:
+    speaker: harran
+    en: All of these unused cells are just for show, is that it?
+    ko: |-
+      …그러니까 제대로 사용하지도 않는 우리를
+      이대로 두는 것은 상징적인 의미에 가깝니?
+    ja: |-
+      …もう一回言うわ。ろくに使いもしない檻を
+      そのまま残しておくのは
+      象徴的な意味のためなの？
+  d_ex_police_03_23:
+    speaker: miranda
+    en: "?????"
+    ko: "??????"
+    ja: "？？？？？？"
+  d_ex_police_03_24:
+    speaker: harran
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_03_25:
+    speaker: harran
+    en: Why are you not using this cell?
+    ko: 왜 이 우리를 사용하지 않는 것이니?
+    ja: どうしてこの檻は使われていないの？
+  d_ex_police_03_26:
+    speaker: miranda
+    en: We are!
+    ko: 사용하고 있습니다!
+    ja: ちゃんと使ってます！
+  d_ex_police_03_27:
+    speaker: harran
+    en: Then why is it so clean?
+    ko: |-
+      …그러니?
+      그런 것치곤 너무 깨끗하구나.
+    ja: |-
+      …そう？
+      それにしてはきれいすぎるわ。
+  d_ex_police_03_28:
+    speaker: miranda
+    en: We're planning on holding a special "detention room experience", so it needs
+      to be cleaned.
+    ko: |-
+      유치장 체험 프로그램을 돌리고 있어서
+      관리를 철저히 하고 있습니다!
+    ja: |-
+      留置場体験プログラムを開催しており
+      管理が徹底しています！
+  d_ex_police_03_29:
+    speaker: harran
+    en: Detention room experience? What is that?
+    ko: |-
+      호오…?
+      유치장 체험이라?
+    ja: |-
+      へぇ…？
+      留置場体験？
+  d_ex_police_03_30:
+    speaker: miranda
+    en: Some people have expressed an interest in experiencing what it's like to stay
+      in one of these cells, so we made a special... what's the word...
+    ko: |-
+      몇몇 분들이 유치장에 들어오고 싶다고 하셔서
+      특별 프로그레시브? 프론트 미션?
+    ja: |-
+      留置場に入ってみたいという
+      要望がいくつかあり
+      特別プログレッシブ？フロントミッション？
+  d_ex_police_03_31:
+    speaker: harran
+    en: Program.
+    ko: 프로그램.
+    ja: プログラムでしょ。
+  d_ex_police_03_32:
+    speaker: miranda
+    en: Yes! A special program.
+    ko: 특별 프로그램을 운용하고 있습니다!
+    ja: 特別プログラムを開催中です！
+  d_ex_police_03_33:
+    speaker: harran
+    en: Interesting.
+    ko: 그건 흥미가 생기는구나.
+    ja: それは面白そうじゃない。
+  d_ex_police_03_34:
+    speaker: harran
+    en: I suppose I would find occasionally playing as a prey amusing.
+    ko: 피식자의 입장이 되어보는 것도 나쁘지 않겠어.
+    ja: |-
+      被食者の立場になってみるのも
+      悪くはなさそうね。
+  d_ex_police_03_35:
+    speaker: harran
+    en: Are there any special procedures to go through?
+    ko: 특별한 절차가 있니?
+    ja: 何か申込みが必要なの？
+  d_ex_police_03_36:
+    speaker: miranda
+    en: Nope, you can walk straight in! We'll let you out after an hour.
+    ko: |-
+      없습니다!
+      들어가서 한 시간 동안 있다 나오시면 됩니다!
+    ja: |-
+      特に何もありません！
+      中に入って1時間後に出てくればいいです！
+  d_ex_police_03_37:
+    speaker: harran
+    en: I'd very much like to try.
+    ko: 내가 해보고 싶구나.
+    ja: 私も体験してみたいわ。
+  d_ex_police_03_38:
+    speaker: miranda
+    en: All right, just leave your weapons here and head right in.
+    ko: 그럼 무기를 이곳에 두고 들어가시면 됩니다!
+    ja: では武器をここに置いて中へお入りください！
+  d_ex_police_03_39:
+    speaker: harran
+    en: Surrender my weapons? Is that really necessary?
+    ko: |-
+      무기까지?
+      제법 본격적이구나.
+    ja: |-
+      武器も持って入っちゃいけないの？
+      かなり本格的ね。
+  d_ex_police_03_40:
+    speaker: miranda
+    en: I'm afraid so. Rules are rules!
+    ko: 그렇습니다! 저는 대충대충 하지 않습니다!
+    ja: そうです！私はやるからには完璧を追求します！
+  d_ex_police_03_41:
+    speaker: harran
+    en: And my raven?
+    ko: 까마귀도 두고 가야 하니?
+    ja: カラスも置いて行かなきゃだめなの？
+  d_ex_police_03_42:
+    speaker: miranda
+    en: It's okay to take pets inside.
+    ko: 반려동물은 동반 입장 가능하십니다!
+    ja: ペットは同伴可能です！
+  d_ex_police_03_43:
+    speaker: harran
+    en: Very well then. This should be interesting.
+    ko: |-
+      후후. 그래.
+      기대되는구나.
+    ja: |-
+      ふふ。分かったわ。
+      楽しみだわ。
+  d_ex_police_03_44:
+    speaker: "<Narration>"
+    en: Harran puts down her weapon and goes into the cell.
+    ko: 하란은 무기를 놔두고 유치장 안으로 걸어들어갔다.
+    ja: |-
+      ハランは武器を下に置くと、
+      留置場の中に入っていった
+  d_ex_police_03_45:
+    speaker: "<Narration>"
+    en: "*Bang* The door of the cell closed."
+    ko: 쾅-! 하고 유치장의 문이 닫혔다.
+    ja: バターンと音を立てて留置場のドアが閉まった
+  d_ex_police_03_46:
+    speaker: harran
+    en: Huh, this cage is cruder than I thought. I'm sure I could bend it with a little
+      effort.
+    ko: |-
+      흠. 우리가 생각보다 허술하구나.
+      조금만 힘을 주면 구부러질….
+    ja: |-
+      ふん。思ったよりもシンプルな作りね。
+      ちょっと押しただけで折れそう…
+  d_ex_police_03_47:
+    speaker: "<Narration>"
+    en: "*Creak* *Creak* *Creak*"
+    ko: 파직 파직 파직!
+    ja: ビリビリビリ！
+  d_ex_police_03_48:
+    speaker: harran
+    en: What is that?
+    ko: "??"
+    ja: "？？"
+  d_ex_police_03_49:
+    speaker: harran
+    en: Hey, what's that ringing sound coming from the bars?
+    ko: 얘야. 철창에서 뭔가 소리가 나는구나.
+    ja: ねえ。鉄格子から何か音が聞こえるわよ。
+  d_ex_police_03_50:
+    speaker: miranda
+    en: Don't touch those, they're electrified!
+    ko: |-
+      초고압 전류를 흘려보냈습니다!
+      만지면 큰일 납니다!
+    ja: |-
+      超高圧電流が流れています！
+      触ったら大変なことになります！
+  d_ex_police_03_51:
+    speaker: harran
+    en: Do you know how high the voltage is?
+    ko: "…전류가 얼마나 되는지 알고 있니?"
+    ja: "…電流の強さはどのくらいなの？"
+  d_ex_police_03_52:
+    speaker: miranda
+    en: Touch those, and you'll come out extra crispy. That's all I know.
+    ko: 모릅니다! 만지면 큰일 납니다!
+    ja: |-
+      分かりません！
+      でも触ったら大変なことになるのは確かです！
+  d_ex_police_03_53:
+    speaker: harran
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_03_54:
+    speaker: harran
+    en: I've changed my mind, let me out.
+    ko: |-
+      생각이 바뀌었다.
+      밖으로 나가….
+    ja: |-
+      考えが変わったわ。
+      外に出して…
+  d_ex_police_03_55:
+    speaker: miranda
+    en: Uh oh!
+    ko: 앗!
+    ja: "…あっ！"
+  d_ex_police_03_56:
+    speaker: miranda
+    en: Sorry, that's the police siren. I've gotta go!
+    ko: |-
+      죄송합니다!
+      지금 민원이 들어와서 급히 가봐야 할 것 같습니다!
+    ja: |-
+      すみません！
+      さっき苦情が入ってきて、
+      今すぐ出動しなければなりません！
+  d_ex_police_03_57:
+    speaker: miranda
+    en: Sugar and Epinel are street racing. Since I'm traffic police, that's my jurisdiction!
+    ko: |-
+      슈가와 에피넬이 경주를 한다고 합니다!
+      교통경찰인 제가 빠질 수 없습니다!
+    ja: |-
+      シュガーとエピネルがレースをするそうです！
+      交通警察の私がいないわけにはいきません！
+  d_ex_police_03_58:
+    speaker: miranda
+    en: You just sit back and relax. You'll be out in an hour.
+    ko: 그럼 한 시간 동안 쉬다 나오십쇼!
+    ja: では1時間後にまたお会いしましょう！
+  d_ex_police_03_59:
+    speaker: harran
+    en: What?! Hey, wait!
+    ko: |-
+      응? 얘야.
+      잠깐ㅁ….
+    ja: |-
+      え？今何て？
+      ちょっと待っ…
+  d_ex_police_03_60:
+    speaker: "<Narration>"
+    en: "*Whoosh*"
+    ko: 쌔앵-!
+    ja: ダダダダ！
+  d_ex_police_03_61:
+    speaker: "<Monologue>"
+    en: Miranda zips out in a flash.
+    ko: "…미란다는 빠른 속도로 뛰어나갔다."
+    ja: "…ミランダは光の速さで走っていった"
+  d_ex_police_03_62:
+    speaker: harran
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_03_63:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_03_64:
+    speaker: harran
+    en: Hey, you.
+    ko: 종자야.
+    ja: 従者。
+  d_ex_police_03_65:
+    speaker: harran
+    en: Can you fetch me my weapon?
+    ko: 그곳에 있는 내 무기를 좀 집어주겠니?
+    ja: そこにある私の武器を取ってくれない？
+  d_ex_police_03_66:
+    speaker: "<Monologue>"
+    en: I try to pick up Harran's weapon.
+    ko: 하란의 무기를 집어 들려 했다.
+    ja: ハランの武器を拾い上げようとした
+  d_ex_police_03_67:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_03_68:
+    speaker: harran
+    en: What's the problem?
+    ko: 왜 그러니?
+    ja: どうしたの？
+  d_ex_police_03_69:
+    speaker: "<Self>"
+    en: "... It's too heavy. I can't lift it."
+    ko: "…무거워서 못 들겠어."
+    ja: "…重くて持てない"
+  d_ex_police_03_70:
+    speaker: harran
+    en: "..."
+    ko: "…그러니."
+    ja: "…そう。"
+  d_ex_police_03_71:
+    speaker: harran
+    en: You've got to be kidding me.
+    ko: "……."
+    ja: "……"
+  d_ex_police_03_72:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_03_73:
+    speaker: harran
+    en: "..."
+    ko: "……."
+    ja: "……"
+d_ex_police_04:
+  d_ex_police_04_1:
+    speaker: rupee_w
+    en: Sweetie, it's you!
+    ko: 아, 오빠!
+    ja: あ、お兄ちゃん！
+  d_ex_police_04_2:
+    speaker: Self
+    en: You're free to go.
+    ko: 가도 된대.
+    ja: もう帰っていいらしい
+  d_ex_police_04_3:
+    speaker: rupee_w
+    en: I'm sorry to have troubled you.
+    ko: 으앙~ 번거롭게 해서 미안해!
+    ja: うわ～ん、時間とらせちゃってごめんね！
+  d_ex_police_04_4:
+    speaker: rupee_w
+    en: They let me go with no problem before.
+    ko: 전에는 잠깐 있다가 보내줬었는데.
+    ja: この前はすぐ帰らせてくれたのに
+  d_ex_police_04_5:
+    speaker: rupee_w
+    en: But this time, they said someone had to come bail me out.
+    ko: 오늘은 보호자가 출두해야 한대서….
+    ja: 今日は保護者呼べって言われて…
+  d_ex_police_04_6:
+    speaker: Self
+    en: This isn't your first time here?
+    ko: 전에는?
+    ja: この前って…
+  d_ex_police_04_7:
+    speaker: rupee_w
+    en: The third time, to be exact.
+    ko: 사실 이번이 세 번째야.
+    ja: 実はこれで3回目なんだ。
+  d_ex_police_04_8:
+    speaker: rupee_w
+    en: Honestly, what sense does it make to report someone for a "noise disturbance"
+      in the middle of a shopping mall?
+    ko: 쇼핑몰 한가운데에서 소음 유발로 신고당하는 게 말이 돼?!
+    ja: モールの真ん中で騒音で\n通報されるなんてありえる！？
+  d_ex_police_04_9:
+    speaker: rupee_w
+    en: They blare the music there way louder than I talk... hey!
+    ko: 음악 소리가 루피 목소리보다 훨씬…. 꺅?
+    ja: 音楽の音のほうがルピーの声よりももっと…\nきゃっ？
+  d_ex_police_04_10:
+    speaker: Monologue
+    en: Almost as if materializing out of thin air, a pair of hands come forward and
+      push Rupee aside.
+    ko: 주먹을 부르르 떠는 루피를 밀어내듯, 누군가가 사이로 끼어들었다.
+    ja: 拳をぷるぷる震わせるルピーを押しのけるように\n誰かが間に割り込んできた
+  d_ex_police_04_11:
+    speaker: viper
+    en: Right? It doesn't make any sense.
+    ko: 그러게~ 말이 안 되지.
+    ja: 本当よね～ありえないわよね～
+  d_ex_police_04_12:
+    speaker: viper
+    en: Thanks for busting me outta here, Babe.
+    ko: 아. 오늘은 고마웠어, 자기♡
+    ja: あ、今日はありがとう、ダーリン♡
+  d_ex_police_04_13:
+    speaker: viper
+    en: If you hadn't shown up, I'd have been stuck in this hole for the next two
+      days.
+    ko: 자기가 안 도와줬으면 내일모레까지 유치장에 있었을 거고~
+    ja: ダーリンがいなかったら明後日まで留置場にいて
+  d_ex_police_04_14:
+    speaker: viper
+    en: The boss would have had my hide.
+    ko: 대장한테 잔소리 좀 들었을 거야.
+    ja: 隊長に小言言われるところだったわ。
+  d_ex_police_04_15:
+    speaker: Self
+    en: Did something happen?
+    ko: 무슨 일이 있었던 거야?
+    ja: 何かあったのか？
+  d_ex_police_04_16:
+    speaker: viper
+    en: Just a minor miscommunication. 'Fraid I can't divulge much more than that.
+    ko: 그냥 작은 착오가 있었어. 자세한 건 비밀~
+    ja: ちょっと誤解があって。詳しいことは秘密よ～
+  d_ex_police_04_17:
+    speaker: Monologue
+    en: Viper nudges me in the arm, hinting at something I have no idea could be.
+    ko: 바이퍼는 여느 때와 같이 적당히 흘려 넘기며 내 팔짱을 꼈다.
+    ja: バイパーはいつものように話をはぐらかすと\n腕を絡めてきた
+  d_ex_police_04_18:
+    speaker: rupee_w
+    en: Ugh... I can see all the headlines now...
+    ko: 으으…. 신고 건만 해도 머리 아파 죽겠는데…!
+    ja: うぅ…通報だけでも頭が痛いのに…！
+  d_ex_police_04_19:
+    speaker: Monologue
+    en: Rupee grabs onto my other arm, refusing to budge.
+    ko: 밀려난 루피는 질 수 없다는 듯 내 반대편으로 돌아와 팔짱을 꼈다.
+    ja: 負けてはいられないといった表情のルピーが\nもう一方の腕に抱きついてきた
+  d_ex_police_04_20:
+    speaker: Self
+    en: Do you know who reported you?
+    ko: 그거 누가 신고한 줄은 모르지?
+    ja: 誰が通報したのか分からないんだな？
+  d_ex_police_04_21:
+    speaker: rupee_w
+    en: No,
+    ko: 응….
+    ja: うん…
+  d_ex_police_04_22:
+    speaker: rupee_w
+    en: but I can make an educated guess.
+    ko: 그래도 어느 정도 짐작 가는 건 있어.
+    ja: でもある程度は予想はついてるよ。
+  d_ex_police_04_23:
+    speaker: "<Choice>"
+    en: A competing mall owner?
+    ko: 다른 쇼핑몰 사장?
+    ja: 他のショッピングモールの社長とか？
+  d_ex_police_04_24:
+    speaker: "<Choice>"
+    en: Another livestreamer?
+    ko: 다른 BJ?
+    ja: 他の配信者とか？
+  d_ex_police_04_25:
+    speaker: rupee_w
+    en: I had considered that, but
+    ko: 그것도 생각해 봤는데.
+    ja: それも考えてみたんだけど
+  d_ex_police_04_26:
+    speaker: rupee_w
+    en: if it were me and I wanted to take down the competition, I'd use a different
+      method.
+    ko: 루피가 보기엔 사업 경쟁자를 방해한다면 이런 식으로는 안 할 것 같아.
+    ja: ビジネスの邪魔をしたいんだったら\n別の方法をとったと思うの。
+  d_ex_police_04_27:
+    speaker: rupee_w
+    en: That's what I was thinking.
+    ko: 응. 루피 생각도 그래.
+    ja: うん。ルピーもそう思う。
+  d_ex_police_04_28:
+    speaker: rupee_w
+    en: It's probably someone from the media who works for another channel.
+    ko: 아마 다른 채널에서 방송하는 사람 중 하나일거야.
+    ja: 他のチャンネルをやってる誰かだと思う。
+  d_ex_police_04_29:
+    speaker: rupee_w
+    en: There have been a lot of platforms popping up recently where people can livestream.
+    ko: 요새 플랫폼도 여럿 생겨서 루피처럼 방송하는 애들 많아졌단말야?
+    ja: 最近はプラットフォームも色々できて\nルピーみたいに配信する人が増えたからね。
+  d_ex_police_04_30:
+    speaker: rupee_w
+    en: There're only so many people in the Ark, so the competition to gain followers
+      is cutthroat.
+    ko: 그런데 시청자 숫자는 한정되어있으니까, 결국 경쟁자인 거구.
+    ja: でも視聴者の数は限られてるでしょ？\nライバルになるしかないってこと。
+  d_ex_police_04_31:
+    speaker: rupee_w
+    en: Some people even try to sabotage other streamers in order to bolster their
+      own following.
+    ko: 그래서 자기 시청자를 늘리려고 다른 방송을 훼방 놓는 경우가 있대.
+    ja: 自分の視聴者を増やしたくて\n他の配信を攻撃する人もいるんだって。
+  d_ex_police_04_32:
+    speaker: viper
+    en: I know you'd like to increase your followers too,
+    ko: 글쎄~?
+    ja: それはどうかしら～？
+  d_ex_police_04_33:
+    speaker: viper
+    en: but you're not gonna stoop to their level, are you?
+    ko: 시청자를 끌어모으려고 굳이 그런 방법을 써야 할까?
+    ja: 視聴者を増やすためにわざわざそんなことを？
+  d_ex_police_04_34:
+    speaker: rupee_w
+    en: Of course not.
+    ko: "…! 그치?"
+    ja: "…！そうだよね。"
+  d_ex_police_04_35:
+    speaker: rupee_w
+    en: Although it would be nice to arrange for whoever did this to have a little
+      "accident",
+    ko: 그런 치사한 방법을 쓸 시간에….
+    ja: そんなことする暇があったら…
+  d_ex_police_04_36:
+    speaker: viper
+    en: like say... a wardrobe malfunction.
+    ko: |-
+      실수인 척 옷을 흘러내리게 하거나,
+      적당히 듣기 좋은 말을 해주면 될텐데.
+    ja: |-
+      わざとらしくないようにチラ見せしたり、
+      適当にリップサービスすればいいのに。
+  d_ex_police_04_37:
+    speaker: rupee_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_04_38:
+    speaker: viper
+    en: You could always offer your fans a greater window into your private life if
+      they subscribe to a higher tier.
+    ko: |-
+      그리고 추가 플랜을 구독하면,
+      더 프라이빗한 모습을 보여주던가~?
+    ja: |-
+      あとは追加プランに登録すればもっと
+      プライベートな映像を見れるようにするとかね～
+  d_ex_police_04_39:
+    speaker: viper
+    en: What do you think, Babe?
+    ko: 자기는 어때?
+    ja: ダーリンはどう思う？
+  d_ex_police_04_40:
+    speaker: viper
+    en: If you wanted, I'd have a special tier just for you.
+    ko: 원하면 자기만을 위한 플랜을 준비해줄게♡
+    ja: もしよかったら、\nダーリン専用のプランもあるわよ♡
+  d_ex_police_04_41:
+    speaker: "<Choice>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_04_42:
+    speaker: "<Choice>"
+    en: No thanks.
+    ko: 괜찮아.
+    ja: いや、大丈夫だ
+  d_ex_police_04_43:
+    speaker: viper
+    en: You're cute when you're flustered.
+    ko: 역시 솔직해~
+    ja: かわいいんだから～
+  d_ex_police_04_44:
+    speaker: viper
+    en: I much prefer interacting face-to-face though. Livestreaming doesn't really
+      do it for me.
+    ko: 그런데 어쩌지? 나는 방송 같은 것보단 직접 얼굴 맞대는 게 더 좋은데.
+    ja: でもそうね。\n私も配信とかより実際に会う方が好きなのよね。
+  d_ex_police_04_45:
+    speaker: viper
+    en: Too bad...
+    ko: 아쉽게 됐네?
+    ja: プランの話はなかったことに♡
+  d_ex_police_04_46:
+    speaker: viper
+    en: Really?
+    ko: 그래~?
+    ja: そう～？
+  d_ex_police_04_47:
+    speaker: viper
+    en: Honestly though, livestreaming doesn't really do it for me.
+    ko: 사실 나도 방송 같은 건 별로 관심 없으니까.
+    ja: 実は私も配信には興味ないの。
+  d_ex_police_04_48:
+    speaker: viper
+    en: I much prefer interacting face-to-face.
+    ko: 나중에 얼굴 맞대고 이야기하자♡
+    ja: 後で顔見ながらおしゃべりしましょ♡
+  d_ex_police_04_49:
+    speaker: Monologue
+    en: Having said all she had to say, Viper takes her leave.
+    ko: 바이퍼는 볼일은 다 끝났다는듯 가버렸다.
+    ja: バイパーは満足したのかどこかに行ってしまった
+  d_ex_police_04_50:
+    speaker: rupee_w
+    en: What an idiot I've been...
+    ko: 혹시나 했던 루피가 바보였어.
+    ja: 期待したルピーがバカだったみたい。
+  d_ex_police_04_51:
+    speaker: Self
+    en: Have you ever considered something like what Viper proposed?
+    ko: 루피도 그럴 생각 든 적 있어?
+    ja: ルピーもああいうことをやろうと\n思ったことがあるか？
+  d_ex_police_04_52:
+    speaker: rupee_w
+    en: Me? No, never.
+    ko: 응? 그럴 리가 없잖아.
+    ja: え？まさか。
+  d_ex_police_04_53:
+    speaker: rupee_w
+    en: The only thing I like doing with my Lupins,
+    ko: 루피는 그냥~ 정말 좋아하는 루팡들이랑.
+    ja: ルピーはね、大好きなルパンたちと
+  d_ex_police_04_54:
+    speaker: rupee_w
+    en: is shopping together.
+    ko: 정~말 좋아하는 쇼핑을 하는 게 즐거울 뿐인걸?
+    ja: 超大好きなショッピングをするのが楽しいだけ。
+  d_ex_police_04_55:
+    speaker: rupee_w
+    en: And you're my favorite, Sweetie!
+    ko: 아, 물론 제일 좋아하는 건 오빠.
+    ja: あ、もちろん一番好きなのはお兄ちゃんだよ。
+  d_ex_police_04_56:
+    speaker: Monologue
+    en: As we start to walk, Rupee grabs my hand.
+    ko: 루피는 내 손을 잡고 척척 걸음을 옮기기 시작했다.
+    ja: ルピーは私の手を握り、スタスタと歩き始めた
+  d_ex_police_04_57:
+    speaker: Self
+    en: Where are we going?
+    ko: "…어디가?"
+    ja: "…どこへ行くんだ？"
+  d_ex_police_04_58:
+    speaker: rupee_w
+    en: What else? We're going shopping, you silly goose!
+    ko: |-
+      어디긴 어디야.
+      모처럼 오빠랑 만났으니까 쇼핑해야지~!
+    ja: |-
+      どこって決まってるでしょ？
+      せっかく会ったんだからショッピングしなきゃ！
+  d_ex_police_04_59:
+    speaker: rupee_w
+    en: I can't make too much noise today, so I'll have to go with a more low-key
+      vlog.
+    ko: 소란스러우면 안 되니까, 오늘은 V-LOG 컨셉으로 해야겠다☆
+    ja: もううるさくできないから、\n今日はVlogスタイルで行くよ☆
+d_ex_police_05:
+  d_ex_police_05_1:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  d_ex_police_05_2:
+    speaker: miranda
+    en: Hey, Commander.
+    ko: 지휘관! 오셨습니까?!
+    ja: 指揮官！いらっしゃいましたか！？
+  d_ex_police_05_3:
+    speaker: poli
+    en: You're just in time.
+    ko: 앗! 지휘관, 시간 맞춰 잘 오셨네영!
+    ja: あっ！指揮官、時間ぴったりですねぇ！
+  d_ex_police_05_4:
+    speaker: "<Self>"
+    en: Why is that you called me out here?
+    ko: 무슨 일 때문에 부른 거야?
+    ja: 何があったんだ？
+  d_ex_police_05_5:
+    speaker: poli
+    en: We wanted to clean up the police station today, and I was afraid we would
+      be short of hands.
+    ko: 오늘 경찰서 대청소를 할까 하는데, 일손이 부족 할 것 같아서용!
+    ja: 今日、警察署の大掃除をする予定なんですが\n人手が足りないんですよん！
+  d_ex_police_05_6:
+    speaker: miranda
+    en: Yeah, this place is super dusty.
+    ko: 경찰서에 먼지가 폴폴 날아다닙니다!
+    ja: 警察署にひらひらホコリが舞っています！
+  d_ex_police_05_7:
+    speaker: "<Self>"
+    en: Forget crime fighting, today we're dust fighting!
+    ko: 폴리 폴리~
+    ja: ホコリ？ポコリ？ポリ？
+  d_ex_police_05_8:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_9:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_10:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_11:
+    speaker: soda
+    en: Soda, reporting for duty!
+    ko: 출장 청소 왔습니다아~
+    ja: 出張お掃除に参りました～
+  d_ex_police_05_12:
+    speaker: "<Self>"
+    en: Soda?
+    ko: 소다?
+    ja: ソーダ？
+  d_ex_police_05_13:
+    speaker: soda
+    en: Master?
+    ko: 앗, 주인님?
+    ja: あっ、ご主人様？
+  d_ex_police_05_14:
+    speaker: poli
+    en: Hey there, Soda.
+    ko: 어서 오세용~ 소다!
+    ja: ソーダ、待ってましたよん！
+  d_ex_police_05_15:
+    speaker: poli
+    en: Thanks for taking the time to help us out.
+    ko: 바쁠 텐데 흔쾌히 와줘서 고마워영!
+    ja: 忙しいのに来てくれてありがとうございますぅ！
+  d_ex_police_05_16:
+    speaker: "<Self>"
+    en: Is Soda going to be cleaning with us?
+    ko: 소다도 같이 청소하는 거야?
+    ja: ソーダも一緒に掃除するのか？
+  d_ex_police_05_17:
+    speaker: poli
+    en: Yep! She's got such a knack for cleaning, I figured I'd ask her to come and
+      help.
+    ko: |-
+      넹! 소다한테 출장 청소를 부탁했어영!
+      소다는 청소를 잘하니까영!
+    ja: |-
+      はい！ソーダに出張お掃除を頼んだんです！
+      ソーダは掃除が得意ですからぁ！
+  d_ex_police_05_18:
+    speaker: poli
+    en: All we've got to do is follow her orders.
+    ko: 소다 지휘 아래 저희가 청소하면 돼영!
+    ja: ソーダの指揮の下、\n私たちが掃除すればいいんですよん！
+  d_ex_police_05_19:
+    speaker: "<Choice>"
+    en: You put her in charge?
+    ko: 청소 지휘관이네.
+    ja: 掃除指揮官だな
+  d_ex_police_05_20:
+    speaker: "<Choice>"
+    en: I can't believe what I'm hearing.
+    ko: "…믿어도 될까."
+    ja: "…信じてもいいのだろうか"
+  d_ex_police_05_21:
+    speaker: poli
+    en: Huh? What'd you say?
+    ko: 넹? 뭐라고영?
+    ja: えっ？何か言いましたぁ？
+  d_ex_police_05_22:
+    speaker: poli
+    en: Speak up, I can't hear you.
+    ko: 너무 작게 말해서 못 들었어영!
+    ja: 声が小さすぎて聞こえなかったですよん！
+  d_ex_police_05_23:
+    speaker: "<Self>"
+    en: I said she's super reliable.
+    ko: 믿음직스럽다고.
+    ja: 頼もしいなって
+  d_ex_police_05_24:
+    speaker: soda
+    en: Leave it to me!
+    ko: 헤헤. 맡겨만 주세요~
+    ja: えへへ。お任せくださ～い。
+  d_ex_police_05_25:
+    speaker: soda
+    en: We'll have this place as clean as a whistle!
+    ko: 깔끔하게 청소해드릴게요~!
+    ja: きれいにお掃除しますよ～！
+  d_ex_police_05_26:
+    speaker: poli
+    en: Where should we start?
+    ko: 좋아영! 뭐부터 청소하면 되나영?!
+    ja: いいですねぇ！何から掃除しますかっ！？
+  d_ex_police_05_27:
+    speaker: soda
+    en: First things first, we should open a window to let in some fresh air.
+    ko: |-
+      우선 환기를 시키면서 하는 게 좋으니까
+      창문부터 열까요?
+    ja: |-
+      まずは換気をしたいので
+      窓を開けましょうか！
+  d_ex_police_05_28:
+    speaker: miranda
+    en: I'm on it!
+    ko: 네! 알겠습니다! 제가 열겠습니다!
+    ja: はい！了解しました！\n私が開けます！
+  d_ex_police_05_29:
+    speaker: poli
+    en: Wait, let me put all these documents away first!
+    ko: 앗! 잠시만용 책상 위에 서류만 좀….
+    ja: あっ！待ってください、机の上の書類を…
+  d_ex_police_05_30:
+    speaker: "<Narration>"
+    en: "*Swoosh*"
+    ko: 드륵-!
+    ja: ガラッ！
+  d_ex_police_05_31:
+    speaker: "<Narration>"
+    en: "*Splish-splash*"
+    ko: 촤라락-!
+    ja: ザァァー！
+  d_ex_police_05_32:
+    speaker: "<Monologue>"
+    en: Miranda opens the window before Poli finishes talking. The documents atop
+      Poli's desk go flying.
+    ko: |-
+      폴리의 말이 끝나기도 전에 미란다는 창문을 열어버렸고.
+      책상 위에 있던 폴리의 서류들은 바람과 함께 날리기 시작했다.
+    ja: |-
+      ポリが言い終わる前にミランダが窓を開け
+      机の上にあったポリの書類は風と共に舞い散った
+  d_ex_police_05_33:
+    speaker: poli
+    en: Would you close that window?!
+    ko: 으앙! 미란다 창문 닫아영!
+    ja: うあん！ミランダ、窓を閉めてくださいよん！
+  d_ex_police_05_34:
+    speaker: "<Narration>"
+    en: "*Swoosh* *Slap*"
+    ko: |-
+      드륵-!
+      탁!
+    ja: |-
+      ガラッ！
+      バタン！
+  d_ex_police_05_35:
+    speaker: miranda
+    en: Oh no! I'm sorry, Poli! I didn't notice the documents lying there.
+    ko: |-
+      헉! 죄송합니다 폴리!
+      책상 위 서류들은 생각 못 했습니다!
+    ja: |-
+      はっ！すみません、ポリ！
+      机の上の書類のことまで考えてませんでした！
+  d_ex_police_05_36:
+    speaker: soda
+    en: Oh boy...
+    ko: 흐, 흐에엥!
+    ja: ふ、ふぇぇん！
+  d_ex_police_05_37:
+    speaker: soda
+    en: I guess I should have made sure everything was okay before issuing any commands.
+      I'm sorry...
+    ko: 제가 미리 물어보고 열었어야 했는데 죄송해요오….
+    ja: 私がちゃんと窓を開けてもいいか\n聞くべきでした。すみません…
+  d_ex_police_05_38:
+    speaker: poli
+    en: It's... it's okay. I should have packed everything up beforehand.
+    ko: |-
+      …괜찮아용!
+      제가 청소 전에 정리를 좀 해놨어야 했는뎅…!
+    ja: |-
+      …大丈夫ですよん！
+      私が掃除の前に片付けておけば\nよかったんですよん…！
+  d_ex_police_05_39:
+    speaker: poli
+    en: Can you help me pick up the documents?
+    ko: 서류만 같이 주워주시겠어영?
+    ja: 書類を一緒に拾ってくれますかぁ？
+  d_ex_police_05_40:
+    speaker: "<Self>"
+    en: Sure.
+    ko: 알겠어.
+    ja: 分かった
+  d_ex_police_05_41:
+    speaker: soda
+    en: I know better now!
+    ko: "흐엥… 네에! \n알겠습니다아!"
+    ja: |-
+      ふぇん…はい！
+      分かりましたぁ！
+  d_ex_police_05_42:
+    speaker: "<Narration>"
+    en: "*Clank*"
+    ko: 툭-!
+    ja: ドンッ！
+  d_ex_police_05_43:
+    speaker: "<Narration>"
+    en: "*Swoosh*"
+    ko: 촤악-!
+    ja: バシャーッ！
+  d_ex_police_05_44:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_police_05_45:
+    speaker: soda
+    en: Whoa!
+    ko: 흐엑?
+    ja: ふぇっ？
+  d_ex_police_05_46:
+    speaker: "<Narration>"
+    en: "*Clank clank*"
+    ko: 우당탕탕-!
+    ja: ドテーン！
+  d_ex_police_05_47:
+    speaker: miranda
+    en: Whoa! Are you okay?
+    ko: 엇, 괜찮으십니까?
+    ja: あっ、大丈夫ですか？
+  d_ex_police_05_48:
+    speaker: "<Narration>"
+    en: "*Clank clank*"
+    ko: 쿠당탕탕탕-!
+    ja: バターン！
+  d_ex_police_05_49:
+    speaker: "<Monologue>"
+    en: Soda trips over a cleaning basket as she attempts to pick up some documents.
+    ko: 소다는 서류를 주우러 오다 청소 바구니에 걸려 그대로 넘어져 버렸고.
+    ja: ソーダは書類を拾おうとしたが、\nバケツに引っかかって\nそのまま転んでしまい
+  d_ex_police_05_50:
+    speaker: "<Monologue>"
+    en: Miranda goes to help Soda, but slips on a puddle of cleaning detergent and
+      faceplants.
+    ko: 미란다는 그런 소다를 도와주러 가다 바닥에 있던 청소 세제에 미끄러졌다.
+    ja: ミランダはそんなソーダを助けようとして\n床にあった掃除洗剤で滑ってしまった
+  d_ex_police_05_51:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_52:
+    speaker: poli
+    en: "*Sigh*"
+    ko: 에흉.
+    ja: はぁぁ。
+  d_ex_police_05_53:
+    speaker: poli
+    en: Leave the documents to the Commander and I.
+    ko: 서류는 저랑 지휘관이 주울게용.
+    ja: 書類は私と指揮官が拾いますよん。
+  d_ex_police_05_54:
+    speaker: poli
+    en: Miranda and Soda, you can go clean up somewhere else.
+    ko: 미란다랑 소다는 다른 곳 청소해주세영.
+    ja: ミランダとソーダは他の場所を\n掃除してくださいねぇ。
+  d_ex_police_05_55:
+    speaker: soda
+    en: Sorry about that...
+    ko: |-
+      흐, 흐에엥!
+      죄송해요오!
+    ja: |-
+      ふ、ふぇぇん！
+      すみませぇん！
+  d_ex_police_05_56:
+    speaker: "<Self>"
+    en: Not a promising start.
+    ko: 처음부터 쉽지 않군….
+    ja: 前途多難だな…
+  d_ex_police_05_57:
+    speaker: miranda
+    en: Wow, what is this for?
+    ko: 우와, 이건 뭐 하는 물건입니까?
+    ja: わあ、これは何をする道具ですか？
+  d_ex_police_05_58:
+    speaker: soda
+    en: That's a scraper. It's a kind of cleaning tool.
+    ko: 앗! 이건 스크래퍼라고 하는 청소도구에요!
+    ja: あっ！これはスクレーパーという掃除道具です！
+  d_ex_police_05_59:
+    speaker: soda
+    en: You can use it to get off all kinds of muck on walls and windows.
+    ko: 벽이나 창문에 있는 이물질을 제거할 때 사용하는 건데….
+    ja: 壁や窓に張り付いた異物を取り除く時に\n使うんですが…
+  d_ex_police_05_60:
+    speaker: soda
+    en: Like here for example. Look at all this gunk.
+    ko: 여기 마침 불필요한 테이프가 붙어 있네요!
+    ja: ちょうどテープがついてますね！
+  d_ex_police_05_61:
+    speaker: soda
+    en: All we've got to do is use the scraper to...
+    ko: 이런 이물질을 스크래퍼로….
+    ja: こういう異物をスクレーパーで…
+  d_ex_police_05_62:
+    speaker: "<Narration>"
+    en: "*Rip*"
+    ko: 부욱-
+    ja: ビリッ
+  d_ex_police_05_63:
+    speaker: soda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_64:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_65:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_66:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_67:
+    speaker: "<Monologue>"
+    en: Soda accidently tears a nearby map while scraping gunk off a wall.
+    ko: 소다는 벽에 붙어 있던 테이프를 떼다 옆에 있던 지도까지 찢어버렸다.
+    ja: ソーダは壁に貼ってあったテープを剥がして\n隣の地図まで破ってしまった
+  d_ex_police_05_68:
+    speaker: poli
+    en: The map of the Ark! You practically tore it in half!
+    ko: 방주의 지도가 찢어져 버렸네영.
+    ja: アークの地図が破れちゃいましたねぇ。
+  d_ex_police_05_69:
+    speaker: soda
+    en: I-I'm sorry! I'll stick it back together.
+    ko: 죄, 죄송해요오! 제가 다시 붙여놓을게요!
+    ja: す、すみませぇん！貼り直します！
+  d_ex_police_05_70:
+    speaker: miranda
+    en: I can just use a feather duster to clean here, right Soda?
+    ko: 소다, 이 부분을 먼지털이로 털면 되는 겁니까?
+    ja: ソーダ、ここははたきを使えばいいですか？
+  d_ex_police_05_71:
+    speaker: soda
+    en: Yep! Just brush it gently.
+    ko: 네에! 살살 털어주면 됩니다아~
+    ja: はい！優しくホコリを落としてくださいね～
+  d_ex_police_05_72:
+    speaker: miranda
+    en: Okay. Gently...
+    ko: 알게습니다! 살~살….
+    ja: 了解です！優しく～…
+  d_ex_police_05_73:
+    speaker: "<Narration>"
+    en: "*Clank clank*"
+    ko: 와장창-!
+    ja: ガシャンッ！
+  d_ex_police_05_74:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_75:
+    speaker: soda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_76:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_77:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_05_78:
+    speaker: "<Monologue>"
+    en: Miranda knocks over a photo frame as she is dusting the wall.
+    ko: 미란다는 먼지를 털다 벽에 있던 액자를 떨어뜨렸다.
+    ja: ミランダはホコリを落とそうとして\n壁にあった写真立てを落としてしまった
+  d_ex_police_05_79:
+    speaker: poli
+    en: You're supposed to brush off the dust, not smash our photo frames!
+    ko: 먼지만 털먼 되는 건데, 왜 액자가 깨진거죵?
+    ja: ホコリを落とせばいいだけなのに、\nどうして写真立てが割れるんでしょうかぁ？
+  d_ex_police_05_80:
+    speaker: miranda
+    en: Sorry!
+    ko: 흐엑! 죄송합니다!
+    ja: ふぇぇ！すみません！
+  d_ex_police_05_81:
+    speaker: "<Choice>"
+    en: Between the two of you, it's been one mishap after another.
+    ko: 돌아가면서 사고를 치네.
+    ja: 順番に問題を起こしてるな
+  d_ex_police_05_82:
+    speaker: "<Choice>"
+    en: This is starting to get out of hand.
+    ko: "…일이 더 늘어나는 것 같은 기분이네."
+    ja: "…仕事が増えている気がする"
+  d_ex_police_05_83:
+    speaker: poli
+    en: "... *Sigh*"
+    ko: "……에흉."
+    ja: "……はぁぁ。"
+  d_ex_police_05_84:
+    speaker: poli
+    en: Miranda.
+    ko: 미란다.
+    ja: ミランダ。
+  d_ex_police_05_85:
+    speaker: poli
+    en: Soda.
+    ko: 소다.
+    ja: ソーダ。
+  d_ex_police_05_86:
+    speaker: poli
+    en: Can you go clean the detention cell windows?
+    ko: 혹시 저기 유치장 안에 창문 좀 같이 닦아줄 수 있나영?
+    ja: 留置場の中にある窓を拭いてくれますかぁ？
+  d_ex_police_05_87:
+    speaker: soda
+    en: Sure thing!
+    ko: 흐, 흐엥! 네!! 창문 닦는 건 자신 있어요!
+    ja: ふ、ふぇん！はい！\n窓拭きは自信あります！
+  d_ex_police_05_88:
+    speaker: miranda
+    en: I'll do my best!
+    ko: 열심히 닦아보겠습니다!
+    ja: 一生懸命拭いてみます！
+  d_ex_police_05_89:
+    speaker: "<Monologue>"
+    en: Miranda and Soda head towards the detention cell.
+    ko: 미란다와 소다는 유치장으로 들어갔다.
+    ja: ミランダとソーダは留置場に入った
+  d_ex_police_05_90:
+    speaker: "<Narration>"
+    en: "*Squeak* *Bang*"
+    ko: 끼이익- 탕-!
+    ja: キィィー、バタン！
+  d_ex_police_05_91:
+    speaker: "<Narration>"
+    en: "*Click*"
+    ko: 철컥.
+    ja: ガチャ
+  d_ex_police_05_92:
+    speaker: soda
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_police_05_93:
+    speaker: miranda
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_police_05_94:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_police_05_95:
+    speaker: poli
+    en: You two are being detained for the crime of interfering with cleaning affairs.
+    ko: 두 분은 업무 방해죄로 유치장에 들어가신 거에영!
+    ja: 2人は公務執行妨害で\n留置場に入っててくださいねぇ！
+  d_ex_police_05_96:
+    speaker: poli
+    en: 'Your sentence: remain in this cell until the Commander and I are finished
+      with the cleaning.'
+    ko: 지휘관이랑 제가 청소 다 할 때까지 이곳에 있으세영!
+    ja: 指揮官と私が掃除を終えるまで\nここにいてくださいよん！
+  d_ex_police_05_97:
+    speaker: poli
+    en: Commander.
+    ko: 지휘관 가영!
+    ja: 指揮官、行きますよん！
+  d_ex_police_05_98:
+    speaker: poli
+    en: Let's go.
+    ko: 흥!
+    ja: ふん！
+  d_ex_police_05_99:
+    speaker: soda
+    en: "*Whimper* N-not fair!"
+    ko: 흐, 흐에엥!
+    ja: ふ、ふぇぇん！
+  d_ex_police_05_100:
+    speaker: miranda
+    en: Poli!
+    ko: 폴리이-!
+    ja: ポリー！
+d_ex_police_06:
+  d_ex_police_06_1:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  d_ex_police_06_2:
+    speaker: quiry
+    en: Commander! We were waiting for you!
+    ko: 지휘관! 기다리고 있었어요!
+    ja: 指揮官！お待ちしておりました！
+  d_ex_police_06_3:
+    speaker: Self
+    en: I got here as fast as I could after receiving the call. What's wrong?
+    ko: 연락받고 급하게 왔는데, 무슨 일이야?
+    ja: 連絡をもらって急いで来たが、どうしたんだ？
+  d_ex_police_06_4:
+    speaker: novel
+    en: Allow me to explain, Watson.
+    ko: 그건 제가 설명해드리죠, 왓슨.
+    ja: それは私が説明しましょう、ワトソン。
+  d_ex_police_06_5:
+    speaker: novel
+    en: This case goes back about 20 minutes.
+    ko: 이 사건은 20분 전으로 거슬러 올라갑니다.
+    ja: |-
+      この事件は、
+      20分前にさかのぼるのであります。
+  d_ex_police_06_6:
+    speaker: novel
+    en: I heard a report about a fence in the park that was damaged.
+    ko: 저는 공원에 설치되어 있던 펜스가 망가져 있다는 속보를 듣고.
+    ja: |-
+      私は公園に設置されていたフェンスが
+      壊れているという情報を聞き、
+  d_ex_police_06_7:
+    speaker: novel
+    en: Hot on the trail, I found myself heading straight to the park.
+    ko: 사건의 냄새를 맡아 바로 공원으로 향했습니다.
+    ja: |-
+      事件のにおいを嗅ぎつけ、
+      すぐに公園へ向かったのであります。
+  d_ex_police_06_8:
+    speaker: novel
+    en: The fence had been heavily vandalized. It was covered in bite marks, and Jackal
+      was nearby.
+    ko: "망가진 펜스에는 이빨 자국이 가득했고, \n그 근처에는 자칼이 있었던 것입니다."
+    ja: |-
+      壊れたフェンスにはたくさんの歯形があり、
+      その近くにジャッカルがいたのであります。
+  d_ex_police_06_9:
+    speaker: novel
+    en: Not only that, but my pen went missing.
+    ko: 게다가 결정적으로 제 탐정 펜도 사라진 것입니다.
+    ja: |-
+      それだけではなく、私の探偵ペンも
+      消えたのであります。
+  d_ex_police_06_10:
+    speaker: novel
+    en: So, the A.C.P.U. was dispatched, and we all gathered at the police station.
+    ko: 그래서 A.C.P.U.가 출동하고 다 같이 이곳으로 오게 되었습니다.
+    ja: |-
+      だからA.C.P.U.が出動し、
+      みんなこちらに出動したのであります。
+  d_ex_police_06_11:
+    speaker: Self
+    en: I'm not quite sure where your pen factors into all this, but I think I'm up
+      to speed.
+    ko: "…중간에 탐정 펜은 무슨 상관인지 모르겠지만, 그런 일이 있었군."
+    ja: |-
+      …途中の探偵ペンは何の関係があるのか
+      分からないが、そんなことがあったのか
+  d_ex_police_06_12:
+    speaker: jackal
+    en: Commander!
+    ko: 헤헤! 지휘관이다!
+    ja: へへへ！指揮官だー！
+  d_ex_police_06_13:
+    speaker: jackal
+    en: Hurry up and let me out of here!
+    ko: 빨리 여기서 나 내보내 줘!!
+    ja: 早く私をここから出してよ！！
+  d_ex_police_06_14:
+    speaker: Monologue
+    en: Jackal leaps up and down inside the cell.
+    ko: 자칼은 유치장 속에서 위아래로 뛰었다.
+    ja: |-
+      ジャッカルは留置場の中で
+      上へ下へと飛び跳ねていた
+  d_ex_police_06_15:
+    speaker: quiry
+    en: Jackal, you need to behave.
+    ko: 자칼, 얌전히 있어야 해요.
+    ja: ジャッカル、大人しくしていてくださいね。
+  d_ex_police_06_16:
+    speaker: Self
+    en: Quiry, you're talking to Novel.
+    ko: 그쪽은 노벨이야, 키리.
+    ja: そっちはノベルだ、キリ
+  d_ex_police_06_17:
+    speaker: quiry
+    en: Oh, whoops!
+    ko: 흐익!
+    ja: ああっ！
+  d_ex_police_06_18:
+    speaker: quiry
+    en: Sorry.
+    ko: 죄송해요.
+    ja: すみません。
+  d_ex_police_06_19:
+    speaker: Self
+    en: So you haven't been able to identify who damaged the fence?
+    ko: 그래서 아직 망가진 공원 펜스의 범인이 안 밝혀진 거야?
+    ja: |-
+      それで、公園のフェンスを壊した犯人は
+      まだ明らかになってないのか？
+  d_ex_police_06_20:
+    speaker: quiry
+    en: Oh no, we're quite certain the culprit is Jackal.
+    ko: 아뇨, 그건 자칼이 확실해요!
+    ja: いえ、犯人はジャッカルに間違いありません！
+  d_ex_police_06_21:
+    speaker: quiry
+    en: She gave a confession and everything.
+    ko: 자칼이 직접 자백했거든요.
+    ja: ジャッカルが自白したんです。
+  d_ex_police_06_22:
+    speaker: jackal
+    en: Would you let me out here? I'm starving!
+    ko: 아직 배고프니까 빨리 꺼내줘!!
+    ja: まだお腹減ってるんだから、早く出してよ！！
+  d_ex_police_06_23:
+    speaker: Self
+    en: So, case closed?
+    ko: 그럼… 문제 해결된 거 아냐?
+    ja: じゃあ…問題解決じゃないか？
+  d_ex_police_06_24:
+    speaker: novel
+    en: Not quite.
+    ko: 아닙니다.
+    ja: 違うのです。
+  d_ex_police_06_25:
+    speaker: novel
+    en: My pen is still MIA.
+    ko: 제 탐정 펜을 아직 찾지 못한 것입니다.
+    ja: |-
+      私の探偵ペンが、
+      まだ見つかっていないのであります。
+  d_ex_police_06_26:
+    speaker: novel
+    en: I always carry it around in my bag,
+    ko: 가방 속에 항상 넣어 다니는데,
+    ja: いつもカバンに入れているのに、
+  d_ex_police_06_27:
+    speaker: novel
+    en: but when I tried to look for it to write up my concluding report, it was nowhere
+      to be found.
+    ko: 사건을 정리하려고 찾아보니 탐정 펜이 없어진 것입니다.
+    ja: |-
+      事件を整理しようと思ったら、
+      探偵ペンがなくなっていたのであります。
+  d_ex_police_06_28:
+    speaker: novel
+    en: We can't move on until that pen shows back up again.
+    ko: 이대로 사건을 해결하지 못한 채 넘어갈 수는 없는 것입니다.
+    ja: |-
+      このまま事件を未解決で終わらせるわけには、
+      いかないのであります。
+  d_ex_police_06_29:
+    speaker: quiry
+    en: Is there a chance that you could have dropped it on the way here?
+    ko: 오는 길에 떨어뜨렸을 가능성은 없나요?
+    ja: |-
+      来る途中で落としたという可能性は
+      ありませんか？
+  d_ex_police_06_30:
+    speaker: novel
+    en: Not a chance.
+    ko: 절대 떨어졌을 리는 없는 것입니다.
+    ja: それは絶対にないのであります。
+  d_ex_police_06_31:
+    speaker: novel
+    en: Before the pen went missing, I hadn't opened my bag even once.
+    ko: 펜이 없어지기 전까지 가방을 열어보지 않았습니다.
+    ja: |-
+      ペンがなくなるまで、
+      カバンを開けていないのです。
+  d_ex_police_06_32:
+    speaker: novel
+    en: Not only that, but at the very moment I discovered it had disappeared,
+    ko: 하지만 펜이 사라졌을 때.
+    ja: しかし、ペンが消えた時。
+  d_ex_police_06_33:
+    speaker: novel
+    en: I happened to be near the desecrated fence,
+    ko: 마침 그때 주변엔 망가진 펜스가 있었고.
+    ja: |-
+      ちょうどその時、
+      周りには壊れたフェンスがあり、
+  d_ex_police_06_34:
+    speaker: novel
+    en: where Jackal was close by.
+    ko: 펜스 옆에는 자칼이 있었으니.
+    ja: |-
+      フェンスの隣にはジャッカルが
+      いたのであります。
+  d_ex_police_06_35:
+    speaker: novel
+    en: I'm certain that Jackal is the one who took my pen!
+    ko: 제 탐정 펜을 가져간 범인은 자칼이 분명합니다!
+    ja: |-
+      私の探偵ペンを盗んだ犯人は、
+      ジャッカルに違いないのであります！
+  d_ex_police_06_36:
+    speaker: jackal
+    en: Is that pen edible?
+    ko: 그거 먹는 거야?
+    ja: それって食べられるの？
+  d_ex_police_06_37:
+    speaker: quiry
+    en: No.
+    ko: 아뇨.
+    ja: いいえ。
+  d_ex_police_06_38:
+    speaker: jackal
+    en: Growwwl...
+    ko: 크르르릉….
+    ja: グルル…
+  d_ex_police_06_39:
+    speaker: jackal
+    en: Then it wasn't me!
+    ko: 그럼 나 아니야!!
+    ja: じゃあ、私じゃないよ！！
+  d_ex_police_06_40:
+    speaker: novel
+    en: That fence in the park wasn't edible either.
+    ko: 하지만 공원 펜스도 먹는 건 아닙니다.
+    ja: |-
+      でも、公園のフェンスも
+      食べ物じゃないのであります。
+  d_ex_police_06_41:
+    speaker: jackal
+    en: You're telling me. It tasted terrible.
+    ko: 맞아! 맛없었어!
+    ja: そう！マズかった！
+  d_ex_police_06_42:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_06_43:
+    speaker: quiry
+    en: Should I go out searching for it?
+    ko: 그럼, 제가 한번 수색에 나서볼까요?
+    ja: では、私が捜索してみましょうか？
+  d_ex_police_06_44:
+    speaker: Self
+    en: Just you?
+    ko: 키리, 혼자서!?
+    ja: キリが1人で！？
+  d_ex_police_06_45:
+    speaker: quiry
+    en: Sure!
+    ko: 네!
+    ja: はい！
+  d_ex_police_06_46:
+    speaker: Self
+    en: You're the only one assigned to the station right now, so it'd probably be
+      best for you to stay put.
+    ko: 지금 경찰서에는 키리밖에 없으니까 나가지 않는 게 좋을 거 같아.
+    ja: |-
+      今、警察署にはキリしかいないから
+      出かけない方がいい
+  d_ex_police_06_47:
+    speaker: quiry
+    en: Oh, good point.
+    ko: 앗, 그렇네요!
+    ja: あっ、そうですね！
+  d_ex_police_06_48:
+    speaker: quiry
+    en: Then what's our next move?
+    ko: 그러면 이 사건은 어쩌죠…?
+    ja: じゃあ、この事件…どうしましょう…？
+  d_ex_police_06_49:
+    speaker: Self
+    en: Novel, what if Jackal ate the pen?
+    ko: 노벨, 만약에 자칼이 탐정 펜을 먹었으면 어떻게 할 거야?
+    ja: |-
+      ノベル、もしジャッカルが
+      探偵ペンを食べていたら、どうするつもりだ？
+  d_ex_police_06_50:
+    speaker: novel
+    en: If that is in fact what transpired, then there's nothing to do but get a new
+      pen.
+    ko: 음, 그렇다면 하는 수 없이 새로운 탐정 펜을 구하는 수밖에 없습니다.
+    ja: |-
+      うーん、それなら仕方ないので
+      新しいペンを買うしかないのであります。
+  d_ex_police_06_51:
+    speaker: Self
+    en: Show Jackal one of the pens from the Police Station.
+    ko: 자칼에게 경찰서에 있는 펜 하나를 보여준다.
+    ja: 警察署にあるペンをジャッカルに見せた
+  d_ex_police_06_52:
+    speaker: jackal
+    en: What is this? Wonder how it tastes...
+    ko: 이게 뭐야? 맛있는 거야?
+    ja: 何これ？おいしいの？
+  d_ex_police_06_53:
+    speaker: jackal
+    en: "*Crunch*"
+    ko: 와작-
+    ja: ガリッ
+  d_ex_police_06_54:
+    speaker: jackal
+    en: Blech! It's horrible!
+    ko: 에퉤퉤! 맛없어!
+    ja: ペペペッ！マズい！
+  d_ex_police_06_55:
+    speaker: jackal
+    en: I wouldn't eat this if you gave it to me for free!
+    ko: 이런 건 줘도 안 먹어!
+    ja: こんなの、もらっても食べないよ！
+  d_ex_police_06_56:
+    speaker: quiry
+    en: Hm, maybe Jackal isn't the culprit after all.
+    ko: 흠, 어쩌면 자칼이 범인이 아닐 수도 있겠네요.
+    ja: |-
+      うーん、ジャッカルは犯人じゃないかも
+      しれませんね。
+  d_ex_police_06_57:
+    speaker: quiry
+    en: I better jot down what we know so far.
+    ko: 우선, 제가 지금까지의 상황을 노트에 쭉 정리해 보겠습니다.
+    ja: |-
+      まずは、今までの状況を
+      ノートにまとめてみます。
+  d_ex_police_06_58:
+    speaker: Monologue
+    en: Quiry takes out her notebook and a pen, and holds the notebook close up to
+      her nose to examine it.
+    ko: 키리는 노트와 펜 하나를 꺼내더니, 노트를 코 앞까지 가져다 대며 확인했다.
+    ja: |-
+      キリはノートとペンを取り出し、
+      ノートを顔に近づけて確認した
+  d_ex_police_06_59:
+    speaker: quiry
+    en: I always summarize my findings in this notebook.
+    ko: 이건 상황 정리 노트가 맞네요! 그럼 이제 적어볼까요.
+    ja: |-
+      これは状況整理ノートですね！
+      では、まとめてみます。
+  d_ex_police_06_60:
+    speaker: quiry
+    en: Let's see... the park fence was destroyed... next...
+    ko: 공원 펜스가 망가졌다…. 그다음에는….
+    ja: 公園のフェンスが壊れた…その次は…
+  d_ex_police_06_61:
+    speaker: novel
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_police_06_62:
+    speaker: novel
+    en: That's my pen!
+    ko: 제 탐정 펜을 찾았습니다!
+    ja: 私の探偵ペンを見つけたのであります！
+  d_ex_police_06_63:
+    speaker: Self
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_police_06_64:
+    speaker: quiry
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_police_06_65:
+    speaker: jackal
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_police_06_66:
+    speaker: jackal
+    en: I'm huuuuungry!
+    ko: 나 배고파!!
+    ja: ねえ、お腹空いた！！
+  d_ex_police_06_67:
+    speaker: quiry
+    en: Where?
+    ko: 어디에 있나요?
+    ja: どこにありましたか？
+  d_ex_police_06_68:
+    speaker: Monologue
+    en: Novel points to the pen Quiry is holding onto.
+    ko: 노벨은 키리가 쥐고 있는 펜을 가리켰다.
+    ja: ノベルは、キリが握っているペンを指さした
+  d_ex_police_06_69:
+    speaker: novel
+    en: Right there!
+    ko: 저 펜입니다!
+    ja: このペンであります！
+  d_ex_police_06_70:
+    speaker: quiry
+    en: Where?!
+    ko: 어디인가요!?
+    ja: どれですか！？
+  d_ex_police_06_71:
+    speaker: Monologue
+    en: Quiry looks around.
+    ko: 키리는 열심히 주변을 두리번거렸다.
+    ja: キリは、一生懸命周りを見回した
+  d_ex_police_06_72:
+    speaker: Self
+    en: I believe it's the pen you're holding right now, Quiry.
+    ko: "…키리가 지금 잡고 있는 펜이라는데?"
+    ja: "…キリが今握っているペンらしい"
+  d_ex_police_06_73:
+    speaker: quiry
+    en: Huh?
+    ko: "…네?"
+    ja: "…はい？"
+  d_ex_police_06_74:
+    speaker: quiry
+    en: Wait a sec... this isn't the pen we typically use.
+    ko: 이건 저희 A.C.P.U.에서 사용하는 펜… 이 아니네요!
+    ja: |-
+      これは、A.C.P.U.で使ってるペン…
+      じゃないですね！？
+  d_ex_police_06_75:
+    speaker: novel
+    en: 'We''ve got a new development:'
+    ko: 대체 어떻게 제 펜이 키리의 손으로 들어가게 된 걸까요?
+    ja: |-
+      どうして私のペンが、
+      キリのところにあるのでありますか？
+  d_ex_police_06_76:
+    speaker: novel
+    en: How on earth did my pen end up in your possession?
+    ko: 이건 새로운 사건이 발생한 것입니다!
+    ja: これは…新しい事件が発生したのであります！
+  d_ex_police_06_77:
+    speaker: jackal
+    en: Growwwl...
+    ko: 크르릉….
+    ja: グルル…
+  d_ex_police_06_78:
+    speaker: jackal
+    en: I'm telling you, let me out! Or else I'm gonna chew through these bars!
+    ko: 난 꺼내달라고!! 아니면 이거 다 물어뜯을 거야!
+    ja: |-
+      ねえ、出してってば！！
+      出してくれないなら、全部噛みちぎっちゃうよ！
+  d_ex_police_06_79:
+    speaker: quiry
+    en: You really mustn't do that, Jackal.
+    ko: 유치장 문은 물어뜯으면 안 돼요, 자칼.
+    ja: |-
+      留置場の扉は噛みちぎっちゃダメですよ、
+      ジャッカル。
+  d_ex_police_06_80:
+    speaker: Self
+    en: You're talking to a towel, Quiry.
+    ko: "…그건 수건이야, 키리."
+    ja: "…キリ、それはタオルだ"
+  d_ex_police_06_81:
+    speaker: quiry
+    en: Whoops...
+    ko: 앗, 그렇네요!
+    ja: あっ、そうでしたか！
+  d_ex_police_06_82:
+    speaker: novel
+    en: Anyway, we can work together now to crack this case.
+    ko: 그럼, 이제부터 다 같이 새로운 사건을 파헤쳐 보는 것입니다.
+    ja: |-
+      では、みんなで新しい事件を
+      調べるのであります。
+  d_ex_police_06_83:
+    speaker: novel
+    en: You can join us as well, Watson.
+    ko: 그리고 왓슨도 함께 하는 겁니다.
+    ja: ワトソンも協力するのであります。
+  d_ex_police_06_84:
+    speaker: jackal
+    en: Growwl...
+    ko: 크르르릉….
+    ja: ガルル…
+  d_ex_police_06_85:
+    speaker: Monologue
+    en: Jackal starts to chew on the cell bars.
+    ko: 자칼은 유치장을 물어뜯기 시작했다.
+    ja: ジャッカルは、留置場の扉を噛みちぎり始めた
+  d_ex_police_06_86:
+    speaker: Monologue
+    en: I start to feel an overriding desire to go back to the Commander's Room.
+    ko: 그리고 나는 지휘관실로 돌아가고 싶은 마음이 간절하게 들기 시작했다.
+    ja: そして、私は心から指揮官室に帰りたいと思った
+d_ex_police_07:
+  d_ex_police_07_1:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ウィーン
+  d_ex_police_07_2:
+    speaker: leona_no
+    en: Oh, hi, Zoo Keeper.
+    ko: 어머, 사육사님 왔어?
+    ja: あれ、飼育士さん？
+  d_ex_police_07_3:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_police_07_4:
+    speaker: "<Self>"
+    en: What are you doing here?
+    ko: 레오나가 왜 경찰서에 있어?
+    ja: どうしてレオナが警察署に？
+  d_ex_police_07_5:
+    speaker: leona_no
+    en: Poli said we got another complaint about the shelter, so here I am.
+    ko: 폴리가 보호소 관련 민원이 있다고 해서 확인하러 왔는데.
+    ja: |-
+      シェルターに苦情が来てるって
+      ポリに言われて確認しにきたの。
+  d_ex_police_07_6:
+    speaker: leona_no
+    en: Not long after I got here though, she had to run off to handle some kind of
+      emergency.
+    ko: 갑자기 급한 사건이 생겼다고 다녀온다고 해서~
+    ja: |-
+      でも、急に事件が起きたって
+      出動しちゃってね。
+  d_ex_police_07_7:
+    speaker: leona_no
+    en: In the meantime, something interesting happened while I was waiting.
+    ko: 하하, 그런데 기다리던 중에 재미있는 일이 생겼지 뭐야?
+    ja: |-
+      あはは、でも待ってる間に
+      面白いことが起きたのよ。
+  d_ex_police_07_8:
+    speaker: "<Self>"
+    en: What would that be?
+    ko: 재미있는 일?
+    ja: 面白いこと？
+  d_ex_police_07_9:
+    speaker: "<Monologue>"
+    en: I turn to where Leona is pointing.
+    ko: 레오나가 가리키는 방향을 바라보았다.
+    ja: レオナが指さす方を見た
+  d_ex_police_07_10:
+    speaker: quiry
+    en: Oh my goodness.
+    ko: 폴리…?
+    ja: ポリ…？
+  d_ex_police_07_11:
+    speaker: quiry
+    en: When did Poli get so big?
+    ko: 언제 이렇게 커져버리신 건가요?
+    ja: いつの間にそんなに大きくなったんですか？
+  d_ex_police_07_12:
+    speaker: timi
+    en: Graul?
+    ko: 크헝?
+    ja: ガオ？
+  d_ex_police_07_13:
+    speaker: quiry
+    en: Your hair...
+    ko: 어?!
+    ja: えっ！？
+  d_ex_police_07_14:
+    speaker: quiry
+    en: You seem to have much more of it than before.
+    ko: 머리가 커지신… 아, 아니 머리카락이 참 풍성해지셨네요!
+    ja: |-
+      頭が大きく…
+      い、いえ、髪がもこもこになりましたね！
+  d_ex_police_07_15:
+    speaker: timi
+    en: Graul?
+    ko: 크헝?
+    ja: ガオ？
+  d_ex_police_07_16:
+    speaker: quiry
+    en: How come all you've been doing is growling?
+    ko: 어… 근데 왜 아까부터 크헝크헝만….
+    ja: えっと…なぜさっきからガオガオと…
+  d_ex_police_07_17:
+    speaker: quiry
+    en: Ah!
+    ko: 아!
+    ja: あ！
+  d_ex_police_07_18:
+    speaker: quiry
+    en: I think I know why.
+    ko: 설마 머리카락이 너무 자라버려서,
+    ja: まさか髪が伸びすぎて
+  d_ex_police_07_19:
+    speaker: quiry
+    en: You let your hair grow wild,
+    ko: 그 속에 파묻혀 버리게 되어버린 건가요!?
+    ja: 中に埋まっちゃったんですか！？
+  d_ex_police_07_20:
+    speaker: quiry
+    en: and now it's suffocating you!
+    ko: 숨을 못 쉬고 계신 건가요?!
+    ja: 息ができないんですか！？
+  d_ex_police_07_21:
+    speaker: quiry
+    en: Have no fear,
+    ko: 아, 안돼!!
+    ja: そ、そんな！！
+  d_ex_police_07_22:
+    speaker: quiry
+    en: I'll save you, Poli!
+    ko: 제가 꺼내드릴게요!
+    ja: 私が助けます！
+  d_ex_police_07_23:
+    speaker: "<Monologue>"
+    en: Quiry rushes over to Timi.
+    ko: 키리가 티미를 향해 달려들었다.
+    ja: キリはティミに飛びついた
+  d_ex_police_07_24:
+    speaker: timi
+    en: Graul!!
+    ko: 크허허허헝-!!
+    ja: ガオオオオッ！！
+  d_ex_police_07_25:
+    speaker: leona_no
+    en: Okay, that's far enough.
+    ko: 자, 자. 그만~
+    ja: はいはい。そこまで～
+  d_ex_police_07_26:
+    speaker: "<Monologue>"
+    en: Leona catches Quiry.
+    ko: 레오나가 키리를 붙잡았다.
+    ja: レオナがキリをつかんだ
+  d_ex_police_07_27:
+    speaker: quiry
+    en: Huh?
+    ko: 어?
+    ja: あれ？
+  d_ex_police_07_28:
+    speaker: leona_no
+    en: Hello, Quiry.
+    ko: 안녕~ 키리.
+    ja: こんにちは、キリ。
+  d_ex_police_07_29:
+    speaker: quiry
+    en: "... Leona?"
+    ko: 이 목소리는… 레오나?
+    ja: この声は…レオナ？
+  d_ex_police_07_30:
+    speaker: leona_no
+    en: That's Timi, not Poli.
+    ko: 키리. 티미는 폴리가 아니야.
+    ja: キリ。ティミはポリじゃないよ。
+  d_ex_police_07_31:
+    speaker: quiry
+    en: Wha... oh my gosh!
+    ko: 아아…! 티미였군요!
+    ja: ああっ…！ティミでしたか！
+  d_ex_police_07_32:
+    speaker: quiry
+    en: I'm so sorry, Timi!
+    ko: 죄송해요!
+    ja: すみません！
+  d_ex_police_07_33:
+    speaker: quiry
+    en: Your fur is just so white and soft like Poli's hair.
+    ko: 하얗고 퐁실퐁실한게, 폴리 같아서 그만….
+    ja: 白くてふわふわなところが、ポリみたいで…
+  d_ex_police_07_34:
+    speaker: leona_no
+    en: Your eyes really are shot, aren't they?
+    ko: 키리는 눈이 많이 안 좋다고 했었지?
+    ja: キリってすごく目が悪いのよね？
+  d_ex_police_07_35:
+    speaker: quiry
+    en: Yeah,
+    ko: "…예."
+    ja: "…はい。"
+  d_ex_police_07_36:
+    speaker: quiry
+    en: so I tend to have little mishaps like this.
+    ko: 그래서 늘 이렇게 실수하곤 해요.
+    ja: それでいつもミスしてばかりです。
+  d_ex_police_07_37:
+    speaker: leona_no
+    en: Hmm...
+    ko: 음.
+    ja: うーん。
+  d_ex_police_07_38:
+    speaker: leona_no
+    en: Perhaps that means your other senses are more acute.
+    ko: 시각이 좋지 않다는 건, 다른 감각이 뛰어나다는 뜻일 수도 있어.
+    ja: |-
+      目が悪いってことは、他の感覚が
+      優れてるのかもしれないよ。
+  d_ex_police_07_39:
+    speaker: leona_no
+    en: Can you show me your hand?
+    ko: 손 내밀어 볼래?
+    ja: 手を出してくれる？
+  d_ex_police_07_40:
+    speaker: quiry
+    en: Huh? Okay...
+    ko: 예? 아… 예!
+    ja: え？あ…はい！
+  d_ex_police_07_41:
+    speaker: "<Monologue>"
+    en: Quiry extends her hand to Leona.
+    ko: 키리가 레오나에게 손을 내밀었다.
+    ja: キリはレオナに手を差し出した
+  d_ex_police_07_42:
+    speaker: leona_no
+    en: Here, feel it.
+    ko: 자아~ 잘 느껴봐.
+    ja: 集中して。
+  d_ex_police_07_43:
+    speaker: "<Monologue>"
+    en: Leona takes Quiry's hand and puts it on Timi's fur.
+    ko: 레오나가 키리의 손을 이끌어 티미의 털에 가져다 댔다.
+    ja: |-
+      レオナはキリの手を引っ張って
+      ティミの毛に触れさせた
+  d_ex_police_07_44:
+    speaker: leona_no
+    en: Give it a rub.
+    ko: 한번 쓰다듬어 볼래?
+    ja: なでてみて。
+  d_ex_police_07_45:
+    speaker: quiry
+    en: O-okay!
+    ko: 예… 예!
+    ja: は…はい！
+  d_ex_police_07_46:
+    speaker: "<Monologue>"
+    en: Quiry gently caresses Timi's fur.
+    ko: 키리가 조심스레 티미의 털을 쓰다듬었다.
+    ja: キリは慎重にティミの毛をなでた
+  d_ex_police_07_47:
+    speaker: quiry
+    en: Wow...
+    ko: 와아…
+    ja: わあ…
+  d_ex_police_07_48:
+    speaker: leona_no
+    en: Thoughts?
+    ko: 어때?
+    ja: どう？
+  d_ex_police_07_49:
+    speaker: quiry
+    en: It's more coarse than I imagined. But still soft!
+    ko: 생각보다… 더 빳빳한데… 부드러워요!
+    ja: |-
+      思ったより…ゴワゴワしてますが…
+      柔らかいです！
+  d_ex_police_07_50:
+    speaker: "<Narration>"
+    en: "*Rub*"
+    ko: 쓰담 쓰담-
+    ja: ナデナデ…
+  d_ex_police_07_51:
+    speaker: timi
+    en: Graul!
+    ko: 크허엉~
+    ja: ガオ～
+  d_ex_police_07_52:
+    speaker: "<Monologue>"
+    en: Timi stretches with no small amount of pride.
+    ko: 티미가 자랑스럽다는 듯 몸을 곧게 폈다.
+    ja: ティミは誇らしげに姿勢を正した
+  d_ex_police_07_53:
+    speaker: quiry
+    en: Do you want to try, Commander?
+    ko: 지휘관도 한번 만져 보실래요?
+    ja: 指揮官も触ってみますか？
+  d_ex_police_07_54:
+    speaker: leona_no
+    en: Yeah, come and have a feel, Zoo Keeper.
+    ko: 그래, 사육사님도 한번 만져봐.
+    ja: そうね、飼育士さんも触ってみて。
+  d_ex_police_07_55:
+    speaker: timi
+    en: Graul!
+    ko: 크헝!
+    ja: ガオ！
+  d_ex_police_07_56:
+    speaker: "<Monologue>"
+    en: Timi turns his body to my side.
+    ko: 티미가 이쪽으로 몸을 내밀어 주었다.
+    ja: ティミが体をこちらに向けた
+  d_ex_police_07_57:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_07_58:
+    speaker: "<Monologue>"
+    en: I gently pet Timi's fur.
+    ko: 조심스레 티미의 털을 쓰다듬어 보았다.
+    ja: そっとティミをなでてみた
+  d_ex_police_07_59:
+    speaker: "<Monologue>"
+    en: It is much thicker than I expected, and remarkably soft.
+    ko: 생각보다 두껍고 빳빳한 털이었지만, 무척이나 부드러웠다.
+    ja: |-
+      思ったより毛は太かったが、
+      とても柔らかかった
+  d_ex_police_07_60:
+    speaker: "<Choice>"
+    en: This is even softer than Poli's hair.
+    ko: 폴리보다 부드러운데?
+    ja: ポリより柔らかい
+  d_ex_police_07_61:
+    speaker: "<Choice>"
+    en: Poli's hair is fluffier.
+    ko: 폴리가 더 폭신해.
+    ja: ポリの方がふわふわしてる
+  d_ex_police_07_62:
+    speaker: timi
+    en: Graul!
+    ko: 크헝!
+    ja: ガオ！
+  d_ex_police_07_63:
+    speaker: "<Monologue>"
+    en: Timi seems proud.
+    ko: 티미가 우쭐거렸다.
+    ja: ティミは得意げになった
+  d_ex_police_07_64:
+    speaker: timi
+    en: Graul?
+    ko: 크헝…?
+    ja: ガオ…？
+  d_ex_police_07_65:
+    speaker: "<Monologue>"
+    en: Timi seems put off.
+    ko: 티미가 당황했다.
+    ja: ティミは戸惑った
+  d_ex_police_07_66:
+    speaker: quiry
+    en: You think so?
+    ko: 오, 그런가요?
+    ja: あ、そうですか？
+  d_ex_police_07_67:
+    speaker: leona_no
+    en: You should follow Zoo Keeper's lead.
+    ko: 그래, 이렇게 사육사님처럼.
+    ja: こうやって飼育士さんみたいに
+  d_ex_police_07_68:
+    speaker: leona_no
+    en: Make sure to get a good feel this time around,
+    ko: "티미를 쓰다듬었던 이 감각을 잘 기억해뒀다가, \n나중에 폴리랑 비교해 봐."
+    ja: |-
+      ティミをなでた感覚を覚えておいて、
+      今度ポリと比べてみて。
+  d_ex_police_07_69:
+    speaker: leona_no
+    en: that way, you won't confuse Timi and Poli again.
+    ko: 그럼 다시는 헷갈리는 일이 없을 거야.
+    ja: そうすれば間違えないはずよ。
+  d_ex_police_07_70:
+    speaker: quiry
+    en: But...
+    ko: 음… 그 말은….
+    ja: うーん…ということは…
+  d_ex_police_07_71:
+    speaker: quiry
+    en: doesn't that mean I'll have to touch Poli's head as well?
+    ko: 제가 폴리의 머리를 쓰다듬어야 한다는 거죠?
+    ja: ポリの頭をなでなきゃいけないんですよね？
+  d_ex_police_07_72:
+    speaker: leona_no
+    en: Yep.
+    ko: 그렇지?
+    ja: そうね。
+  d_ex_police_07_73:
+    speaker: quiry
+    en: Er...
+    ko: 음….
+    ja: うーん…
+  d_ex_police_07_74:
+    speaker: quiry
+    en: Do you think she'll let me do that?
+    ko: 허락해 주실까요?
+    ja: 許可してくれるでしょうか？
+  d_ex_police_07_75:
+    speaker: leona_no
+    en: Hmm...
+    ko: 그건….
+    ja: それは…
+  d_ex_police_07_76:
+    speaker: quiry
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_07_77:
+    speaker: leona_no
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_07_78:
+    speaker: "<Self>"
+    en: She may get mad.
+    ko: "…화낼 것 같은데."
+    ja: "…怒りそうだな"
+  d_ex_police_07_79:
+    speaker: quiry
+    en: That's what I was thinking.
+    ko: 그렇겠죠?
+    ja: そうですよね？
+  d_ex_police_07_80:
+    speaker: leona_no
+    en: How about distracting her with something that she likes?
+    ko: 음~ 좋아하는 걸 주면서 시선을 돌리면 되지 않을까?
+    ja: 好きなものをあげて、注意を逸らすのはどう？
+  d_ex_police_07_81:
+    speaker: quiry
+    en: Let me think...
+    ko: 좋아하는 거요?
+    ja: 好きなものですか？
+  d_ex_police_07_82:
+    speaker: quiry
+    en: Hmm...
+    ko: 음….
+    ja: うーん…
+  d_ex_police_07_83:
+    speaker: quiry
+    en: Oh, Commander!
+    ko: 지휘관?
+    ja: 指揮官？
+  d_ex_police_07_84:
+    speaker: "<Self>"
+    en: Yes?
+    ko: 응?
+    ja: ん？
+  d_ex_police_07_85:
+    speaker: quiry
+    en: No, I mean what she likes is the Commander.
+    ko: 지휘관이요.
+    ja: 指揮官です。
+  d_ex_police_07_86:
+    speaker: quiry
+    en: I'm sure she'll let you touch her hair.
+    ko: 지휘관에게는 그 폭신폭신한 머리를 쓰다듬으라고 할 정도로 좋아하세요.
+    ja: |-
+      指揮官なら、あのふわふわな髪を
+      なでても怒らないんですよ。
+  d_ex_police_07_87:
+    speaker: leona_no
+    en: Great, sounds like a plan.
+    ko: 음~ 좋네.
+    ja: なるほど。
+  d_ex_police_07_88:
+    speaker: leona_no
+    en: Zoo Keeper can act as our honeypot.
+    ko: 사육사님이 미끼가 되어주면 되겠다.
+    ja: じゃあ、飼育士さんがおとりになればいいね。
+  d_ex_police_07_89:
+    speaker: "<Self>"
+    en: Me?
+    ko: 내가?
+    ja: 私が？
+  d_ex_police_07_90:
+    speaker: leona_no
+    en: While you draw Poli's attention,
+    ko: 미끼로 시선을 유도한 사이에,
+    ja: おとりとして注意を逸らしてから
+  d_ex_police_07_91:
+    speaker: leona_no
+    en: Quiry can get a good feel of her dome.
+    ko: 손을 뻗어서 폴리의 머리를 만져보는 거야.
+    ja: 手を伸ばしてポリの髪に触ってみるの。
+  d_ex_police_07_92:
+    speaker: leona_no
+    en: This is a foolproof plan when dealing with skittish critters.
+    ko: 경계심이 강한 아이들을 대할 때 종종 쓰는 방법이니까,
+    ja: |-
+      警戒心が強い子たちを相手する時に
+      よく使う方法だから
+  d_ex_police_07_93:
+    speaker: leona_no
+    en: Trust me.
+    ko: 분명 유효할 거야.
+    ja: きっとうまくいくわ。
+  d_ex_police_07_94:
+    speaker: "<Self>"
+    en: Poli isn't an animal, you know...
+    ko: 폴리는 동물이 아닌….
+    ja: ポリは動物じゃな…
+  d_ex_police_07_95:
+    speaker: quiry
+    en: This is a great idea!
+    ko: 그거 좋은 방법이네요!
+    ja: いいアイデアですね！
+  d_ex_police_07_96:
+    speaker: quiry
+    en: With the Commander helping, I'm sure we can pull this off.
+    ko: 지휘관을 미끼로 반드시 성공시켜볼게요!
+    ja: |-
+      指揮官をおとりにして、
+      必ず成功させてみせます！
+  d_ex_police_07_97:
+    speaker: leona_no
+    en: Let's do a few practice runs.
+    ko: 말이 나온 김에 지금 한 번 연습해 볼래?
+    ja: せっかくだから練習してみる？
+  d_ex_police_07_98:
+    speaker: leona_no
+    en: Timi and I will help you.
+    ko: 나랑 티미가 도와줄게.
+    ja: 私とティミが手伝ってあげる。
+  d_ex_police_07_99:
+    speaker: timi
+    en: Graul!
+    ko: 크헝!
+    ja: ガオ！
+  d_ex_police_07_100:
+    speaker: quiry
+    en: Oh, really? Thanks!
+    ko: 오, 정말요? 감사합니다!
+    ja: 本当ですか？ありがとうございます！
+  d_ex_police_07_101:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_07_102:
+    speaker: "<Monologue>"
+    en: The motley crew runs a few practice drills until Poli returns back to the
+      Police Station.
+    ko: "두 사람과 한 사자는 폴리가 돌아올 때까지 \n열심히 미끼로 시선을 돌린 후, 쓰다듬는 법을 연습했지만…."
+    ja: |-
+      2人と1匹のライオンは、ポリが戻ってくるまで
+      おとりを使って視線を逸らし、ポリをなでる
+      方法を一生懸命練習したが…
+  d_ex_police_07_103:
+    speaker: "<Monologue>"
+    en: When Quiry attempts to pet Poli, however, she evades Quiry's touch with remarkable
+      agility.
+    ko: 폴리가 날렵한 반사 신경으로 키리의 손을 피해버리는 바람에,
+    ja: |-
+      ポリが素早く反応し、
+      キリの手を避けてしまったせいで
+  d_ex_police_07_104:
+    speaker: "<Monologue>"
+    en: Not only does Quiry fail to touch Poli's head, but she also gets an earful
+      from Poli.
+    ko: 머리는 쓰다듬지도 못한 채, 잔뜩 혼만 났다.
+    ja: |-
+      頭をなでるどころか、
+      しこたま怒られてしまった
+d_ex_police_08:
+  d_ex_police_08_1:
+    speaker: "<Monologue>"
+    en: After receiving a sudden phone call from Poli, I find myself heading towards
+      the police station.
+    ko: 나는 갑작스러운 폴리의 호출을 받고, 경찰서로 향했다.
+    ja: 突然ポリに呼び出され、警察署へ向かった
+  d_ex_police_08_2:
+    speaker: "<Self>"
+    en: T.A.L.O.S.?
+    ko: 엥.
+    ja: あれっ
+  d_ex_police_08_3:
+    speaker: talos
+    en: Hello, Commander.
+    ko: 안녕하세요, 지휘관.
+    ja: こんにちは、指揮官。
+  d_ex_police_08_4:
+    speaker: "<Self>"
+    en: What are you doing here?
+    ko: 경찰서 앞에서 뭐 해?
+    ja: 警察署の前で何をしてるんだ？
+  d_ex_police_08_5:
+    speaker: talos
+    en: I am waiting for Kilo.
+    ko: 킬로 님을 기다리고 있습니다.
+    ja: キロ様をお待ちしております。
+  d_ex_police_08_6:
+    speaker: "<Self>"
+    en: I see.
+    ko: 그렇구나….
+    ja: そうか…
+  d_ex_police_08_7:
+    speaker: "<Monologue>"
+    en: Something doesn't feel quite right about this, but I decide to ignore it and
+      head to the police station.
+    ko: 조금 이상함을 느꼈지만, 일단 경찰서 안으로 들어가 보기로 했다.
+    ja: |-
+      少し違和感を覚えたが、
+      とりあえず警察署に入ることにした
+  d_ex_police_08_8:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン…
+  d_ex_police_08_10:
+    speaker: kilo
+    en: Le-let me out!
+    ko: 내, 내보내 주세요…!
+    ja: こ、ここから出してください！
+  d_ex_police_08_11:
+    speaker: miranda
+    en: I'm afraid I can't.
+    ko: 안됩니다!
+    ja: ダメです！
+  d_ex_police_08_12:
+    speaker: miranda
+    en: Parking illegally is a major felony.
+    ko: 불법 주차는 중범죄입니다!
+    ja: 無断駐車は重犯罪ですよ！
+  d_ex_police_08_13:
+    speaker: poli
+    en: No, they're not. Traffic violations are misdemeanors.
+    ko: 경범죄예영.
+    ja: 軽犯罪ですよん。
+  d_ex_police_08_14:
+    speaker: miranda
+    en: Oh, is that right?
+    ko: 그랬습니까?
+    ja: あれ、そうでしたか？
+  d_ex_police_08_15:
+    speaker: miranda
+    en: You hear that? Parking illegally is a misdemeanor!
+    ko: 그럼 경범죄입니다!
+    ja: では、軽犯罪です！
+  d_ex_police_08_16:
+    speaker: kilo
+    en: If it's just a misdemeanor, why are you locking me up?
+    ko: 경범죄인데 왜 유치장에 가두는 건가요…?
+    ja: |-
+      軽犯罪なのに、
+      どうして留置場に入れられるんですか…？
+  d_ex_police_08_17:
+    speaker: miranda
+    en: Because it's a traffic violation!
+    ko: 경범죄이기 때문입니다!
+    ja: 軽犯罪だからです！
+  d_ex_police_08_18:
+    speaker: kilo
+    en: I feel like I'm talking to a brick wall!
+    ko: 네에? 그게 무슨….
+    ja: ええっ！？そんな…
+  d_ex_police_08_19:
+    speaker: kilo
+    en: Also, I never illegally parked in the first place!
+    ko: 그리고 전 애초에 불법 주차를 한 적이 없어요…!
+    ja: そもそも、私は無断駐車なんかしてません…！
+  d_ex_police_08_20:
+    speaker: miranda
+    en: |-
+      How can you say that?
+      It's parked right in front of the police station as we speak!
+    ko: |-
+      지금도 경찰서 앞에
+      떡하니 주차를 해두지 않았습니까!
+    ja: |-
+      今だって、警察署の前に
+      これ見よがしに駐車してるじゃないですか！
+  d_ex_police_08_21:
+    speaker: kilo
+    en: I didn't park there. I just stopped there for a second.
+    ko: 저건 주차가 아니라 잠시 둔 거예요…!
+    ja: あれはちょっと停めておいただけで…！
+  d_ex_police_08_22:
+    speaker: miranda
+    en: If that's not illegal parking, then what would you call it?
+    ko: 그러니까 불법 주차인 것 아닙니까!
+    ja: だからそれが無断駐車なんですっ！
+  d_ex_police_08_23:
+    speaker: kilo
+    en: Argh! Commander, you've gotta help me!
+    ko: 으아아아… 제발 도와주세요 지휘관….
+    ja: あううっ…助けてください、指揮官…
+  d_ex_police_08_24:
+    speaker: "<Self>"
+    en: What's going on here?
+    ko: 대체 이게 무슨 상황이야.
+    ja: 一体何の騒ぎだ
+  d_ex_police_08_25:
+    speaker: poli
+    en: Hi, Commander.
+    ko: 아 지휘관, 오셨나영.
+    ja: あっ、指揮官。お疲れさまですぅ。
+  d_ex_police_08_26:
+    speaker: poli
+    en: Hm...
+    ko: 음….
+    ja: うーん…
+  d_ex_police_08_27:
+    speaker: poli
+    en: |-
+      I should mention that holding Kilo in detention was Miranda's decision.
+      We'll be releasing her shortly.
+    ko: |-
+      유치장에 가둔 건 미란다의 독단이니
+      금방 풀어드릴 거 예영.
+    ja: |-
+      勾留はミランダの独断なので、
+      すぐに釈放されますよん。
+  d_ex_police_08_28:
+    speaker: poli
+    en: However, did you see that thing outside?
+    ko: 그것 보다도, 혹시 밖에 있는 저거 보셨나영?
+    ja: それより、外にあるアレ、見ましたぁ？
+  d_ex_police_08_29:
+    speaker: "<Self>"
+    en: Do you mean T.A.L.O.S.? Yeah, I did.
+    ko: 탈로스 말이지? 응, 봤어.
+    ja: タロスのことか？ああ、見たぞ
+  d_ex_police_08_30:
+    speaker: poli
+    en: T.A.L.O.S.? Is that what it's called?
+    ko: 탈로스라고 하는 거군영.
+    ja: あれ、タロスっていうんですねぇ。
+  d_ex_police_08_31:
+    speaker: poli
+    en: We've had a steady stream of complaints about it lately.
+    ko: 최근에 관련해서 민원이 많이 들어왔거든영.
+    ja: 最近、あれのせいで苦情が多いんですぅ。
+  d_ex_police_08_32:
+    speaker: poli
+    en: |-
+      "It keeps blocking the way when I'm riding with my Partner.
+      Let's see who is faster next time!"
+    ko: |-
+      파트너와 라이딩을 해야 하는데 자꾸 앞을 막고 있당.
+      다음에는 누가 더 빠른지 겨뤄 보장.
+    ja: |-
+      「パートナーと一緒に走りたいのに邪魔だわ。
+      次はどっちが速いか勝負よ」
+  d_ex_police_08_33:
+    speaker: poli
+    en: '"I thought it was a building and tried to go in, but I kept bumping into
+      it and now my forehead hurts."'
+    ko: 건물인줄 알고 들어가려다가 자꾸 부딪혀서 이마가 너무 아픕니당.
+    ja: |-
+      「建物と間違えて入ろうとしてしまいました。
+      何度もぶつかっておでこが痛いです」
+  d_ex_police_08_34:
+    speaker: poli
+    en: Like this.
+    ko: 이런 식으로영.
+    ja: って感じですよん。
+  d_ex_police_08_35:
+    speaker: "<Monologue>"
+    en: "...It seems like the last one was written by someone working at the police
+      station..."
+    ko: "…마지막은 경찰서에 일하고 있는 사람이 쓴 것 같은데…."
+    ja: "…最後のは警察署で働いている人物のようだが…"
+  d_ex_police_08_36:
+    speaker: poli
+    en: I called Kilo over to hear her side of the story,
+    ko: 그래서 얘기 좀 들어보려고 부른 거긴 했는뎅.
+    ja: それで事情聴取のために呼んだんですけどぉ、
+  d_ex_police_08_37:
+    speaker: poli
+    en: but she refuses to talk and instead keeps asking for you.
+    ko: 계속 지휘관을 찾아서영.
+    ja: |-
+      ずっと指揮官に会わせてほしいって
+      騒いでるんですぅ。
+  d_ex_police_08_38:
+    speaker: poli
+    en: I suppose I can see why she's upset. We may have been a bit hasty in holding
+      her.
+    ko: "…뭐, 저희 잘못도 있는 것 같긴 하네영."
+    ja: "…ま、こちらの落ち度もあるみたいですけどぉ。"
+  d_ex_police_08_39:
+    speaker: "<Self>"
+    en: Miranda, can you let Kilo out?
+    ko: 미란다, 킬로를 내보내 줄 수 있을까?
+    ja: ミランダ、キロを釈放してくれないか？
+  d_ex_police_08_40:
+    speaker: miranda
+    en: I'll do no such thing!
+    ko: 안됩니다!
+    ja: ダメです！
+  d_ex_police_08_41:
+    speaker: miranda
+    en: Before I even consider that, we need to resolve this illegal parking issue.
+    ko: 불법 주차를 해결해야 내보낼 수 있습니다!
+    ja: 無断駐車の件を解決するのが先です！
+  d_ex_police_08_42:
+    speaker: poli
+    en: Miranda, if you want her to move that robot, don't you think you'll have to
+      let her out?
+    ko: 어흉, 미란다가 내보내줘야 저걸 옮기든지 말든지 하졍!
+    ja: |-
+      もうっ、ミランダが出してあげないと
+      移動もさせられないですよん！
+  d_ex_police_08_43:
+    speaker: miranda
+    en: Oh...yeah, I guess you're right.
+    ko: 아, 그런 겁니까?
+    ja: あっ、そうですか？
+  d_ex_police_08_44:
+    speaker: miranda
+    en: All right, I'll let her out.
+    ko: 넵! 그럼 풀어드리겠습니다!
+    ja: 分かりました！なら、釈放します！
+  d_ex_police_08_45:
+    speaker: "<Narration>"
+    en: "*Click*"
+    ko: 덜컹-!
+    ja: ガチャン！
+  d_ex_police_08_46:
+    speaker: kilo
+    en: Thank goodness! Oh, Commander, I was so scared!
+    ko: 흐아아 지, 지휘관…! 무서웠어요….
+    ja: ふええ、し、指揮官…！怖かったです…
+  d_ex_police_08_47:
+    speaker: "<Self>"
+    en: This must have been quite a traumatic experience for you.
+    ko: 놀랐지, 고생 많았어.
+    ja: 災難だったな。お疲れ様
+  d_ex_police_08_48:
+    speaker: kilo
+    en: It sure was. Thank you again.
+    ko: 네, 감사해요.
+    ja: はい、ありがとうございます。
+  d_ex_police_08_49:
+    speaker: kilo
+    en: Hmm...
+    ko: 으음….
+    ja: うーん…
+  d_ex_police_08_50:
+    speaker: kilo
+    en: Now, about all these complaints.
+    ko: 저 혹시, 아까 민원이 많이 들어왔다고 들었는데요….
+    ja: あの、さっきの苦情が多いって話ですが…
+  d_ex_police_08_51:
+    speaker: kilo
+    en: Is there perhaps a separate area somewhere in the Outpost where I can leave
+      T.A.L.O.S.?
+    ko: 그럼 전초기지 안에 탈로스를 세워둘 만한 공간이 따로 있을까요?
+    ja: |-
+      前哨基地で、他にタロスを
+      停めておける場所はないでしょうか？
+  d_ex_police_08_52:
+    speaker: kilo
+    en: The last thing I want is to be an imposition to anyone.
+    ko: |-
+      다른 분들을 계속 곤란하게 만드는 것 같아서
+      신경이 쓰이네요….
+    ja: |-
+      他の人たちを何度も困らせちゃってるみたいで
+      心配です…
+  d_ex_police_08_53:
+    speaker: poli
+    en: So you're using T.A.L.O.S. to get around?
+    ko: 으음~ 일단 저 탈로스라는 걸 이동 수단으로 사용하고 계신거졍?
+    ja: |-
+      うーん…第一に、あのタロスっていうのは
+      移動手段なんですよねぇ？
+  d_ex_police_08_54:
+    speaker: kilo
+    en: Correct.
+    ko: 네, 맞아요.
+    ja: はい、そうです。
+  d_ex_police_08_55:
+    speaker: poli
+    en: This is the first time I've seen someone use such a large means of transportation.
+    ko: |-
+      일단 저 정도로 큰 이동 수단을 이용하는 건
+      킬로가 최초라서영.
+    ja: |-
+      あんなに大きな移動手段は
+      今回が初めてなのでぇ…
+  d_ex_police_08_56:
+    speaker: poli
+    en: Rather than run around creating designated parking spaces,
+    ko: 당장 전초기지 곳곳에 전용 주차 공간을 만들기보다는.
+    ja: |-
+      今すぐ前哨基地のあちこちに
+      専用の駐車場を作るよりも、
+  d_ex_police_08_57:
+    speaker: poli
+    en: |-
+      I'm willing to bet there's more than enough space
+      near most of the buildings here for T.A.L.O.S.
+    ko: |-
+      각 건물별로 탈로스를 세워둘 만한 공간을
+      지정해 달라고 하는 게 좋을 것 같네영.
+    ja: |-
+      それぞれの建物ごとにタロスを停める場所を
+      指定してもらったほうが良さそうですねぇ。
+  d_ex_police_08_58:
+    speaker: poli
+    en: What do you think, Commander?
+    ko: 지휘관 생각은 어떠신가영?
+    ja: 指揮官はどう思いますかぁ？
+  d_ex_police_08_59:
+    speaker: "<Self>"
+    en: I think that's a brilliant idea.
+    ko: 응, 좋은 생각인 것 같아.
+    ja: ああ、いいアイデアだと思う
+  d_ex_police_08_60:
+    speaker: kilo
+    en: Oh...!
+    ko: 아…!
+    ja: あ…！
+  d_ex_police_08_61:
+    speaker: kilo
+    en: I think that's a great idea as well!
+    ko: 저도 그게 좋을 것 같아요…!
+    ja: 私もそれがいいと思います…！
+  d_ex_police_08_62:
+    speaker: kilo
+    en: Finally, a police officer I can reason with.
+    ko: 폴리는 말이 잘 통하는 경찰이셨군요.
+    ja: ポリさんは話の分かる警察官なんですね。
+  d_ex_police_08_63:
+    speaker: kilo
+    en: What a relief.
+    ko: 정말 다행이에요!!
+    ja: 本当によかったです！！
+  d_ex_police_08_64:
+    speaker: poli
+    en: Oh...
+    ko: 아….
+    ja: あー…
+  d_ex_police_08_65:
+    speaker: poli
+    en: |-
+      Hehe, I hardly think that suggestion was worthy of such effusive praise,
+      but thank you nonetheless.
+    ko: |-
+      헤헤, 뭐 그렇게 까지 칭찬받을 정도는 아닌 것 같지만
+      어쨌든 감사드려영~
+    ja: |-
+      へへっ、そんなに褒められるほどの
+      ことでもないですが、
+      でも、ありがとうございますぅ～
+  d_ex_police_08_66:
+    speaker: kilo
+    en: So where should we place T.A.L.O.S. here at the station?
+    ko: 그럼 경찰서에서는 탈로스를 어디에 두면 될까요?
+    ja: |-
+      じゃあ、警察署では
+      どこにタロスを停めればいいですか？
+  d_ex_police_08_67:
+    speaker: poli
+    en: You left him near this corner outside, right?
+    ko: 음, 지금 서 바로 옆 구석에 세워두셨졍?
+    ja: |-
+      えっと、今は署のすぐ側の隅っこに
+      停めてあるんですよねぇ？
+  d_ex_police_08_68:
+    speaker: kilo
+    en: Yeah.
+    ko: 네, 맞아요!
+    ja: はい、そうです！
+  d_ex_police_08_69:
+    speaker: poli
+    en: |-
+      It's not really obstructing traffic, and it's not sticking out dangerously,
+      so I think it should be fine where it is.
+    ko: |-
+      딱히 통행에 방해가 되는 곳도 아니고,
+      눈에 크게 띄지도 않을 테니 괜찮겠네영.
+    ja: |-
+      通行の邪魔になる位置でもないし、
+      目立つこともないから問題ないですねぇ。
+  d_ex_police_08_70:
+    speaker: poli
+    en: Let's just leave it there.
+    ko: 거기로 하시졍.
+    ja: そこにしましょう。
+  d_ex_police_08_71:
+    speaker: kilo
+    en: Okay, thanks!
+    ko: 와아…! 감사합니다!
+    ja: わあ…！ありがとうございます！
+  d_ex_police_08_72:
+    speaker: miranda
+    en: Huh?
+    ko: 어?
+    ja: あれ？
+  d_ex_police_08_73:
+    speaker: miranda
+    en: So are we not considering this illegal parking?
+    ko: 그럼 이제 불법 주차가 아니게 되는 겁니까?
+    ja: ということは、無断駐車じゃなくなるんですか？
+  d_ex_police_08_74:
+    speaker: poli
+    en: Nope.
+    ko: 그런 셈이네영.
+    ja: そういうことになりますねぇ。
+  d_ex_police_08_75:
+    speaker: miranda
+    en: "...Okay!"
+    ko: 알겠습니다!
+    ja: 分かりました！
+  d_ex_police_08_76:
+    speaker: miranda
+    en: Drive safely!
+    ko: 그럼 돌아가실 때 안전 운전하시길 바랍니다!
+    ja: では、お帰りの際はくれぐれも安全運転で！
+  d_ex_police_08_77:
+    speaker: kilo
+    en: "..."
+    ko: 어….
+    ja: えっ…
+  d_ex_police_08_78:
+    speaker: kilo
+    en: You changed your tune awfully quickly.
+    ko: 갑자기 엄청 친절해지셨네요…?
+    ja: なんか、急に親切に…？
+  d_ex_police_08_79:
+    speaker: miranda
+    en: Naturally!
+    ko: 당연합니다!
+    ja: もちろんです！
+  d_ex_police_08_80:
+    speaker: miranda
+    en: It's a police officer's duty to be kind to the populace.
+    ko: 시민들에게 친절하게 대하는 것이 경찰입니다!
+    ja: 市民に親切に接するのが警察というもの！
+  d_ex_police_08_81:
+    speaker: kilo
+    en: "...Right."
+    ko: 그, 그렇군요.
+    ja: そ、そうですね。
+  d_ex_police_08_82:
+    speaker: kilo
+    en: You must not have considered me part of the populace before...
+    ko: "…아까의 저는 시민이 아니었군요…."
+    ja: "…さっきの私は市民じゃなかったんだ…"
+  d_ex_police_08_83:
+    speaker: kilo
+    en: Anyway, thanks. I'll be more careful from now on.
+    ko: 어쨌든 감사합니다, 저도 앞으로 더 주의하도록 할게요.
+    ja: |-
+      何はともあれ、お世話になりました。
+      私も、今後はもっと注意します。
+  d_ex_police_08_84:
+    speaker: poli
+    en: Thanks, we appreciate it.
+    ko: 넹, 조심히 들어가세영.
+    ja: はい、お気をつけてぇ。
+  d_ex_police_08_85:
+    speaker: "<Monologue>"
+    en: We head out of the police station,
+    ko: 우리는 무사히 경찰서를 나왔고.
+    ja: 私たちは無事に警察署を後にし
+  d_ex_police_08_86:
+    speaker: "<Monologue>"
+    en: |-
+      and proceed to circle the Outpost together,
+      looking for suitable places near each building where Kilo can leave T.A.L.O.S.
+    ko: |-
+      함께 전초기지를 한 바퀴 돌면서,
+      건물마다 적당히 탈로스를 세울 수 있을 만한 곳을 정했다.
+    ja: |-
+      一緒に前哨基地を一周しながら
+      建物ごとにタロスを停めておく場所を決めた
+d_ex_police_09:
+  d_ex_police_09_1:
+    speaker: "<Monologue>"
+    en: On a quiet afternoon, I'm on a peaceful stroll through the Outpost,
+    ko: 한가한 오후.
+    ja: のどかな昼下がり
+  d_ex_police_09_2:
+    speaker: "<Monologue>"
+    en: when I run into Soda who is holding a bunch of envelopes in her hand and looking
+      lost.
+    ko: 전초기지를 걷던 도중 봉투를 들고 우물쭈물하고 있는 소다를 마주쳤다.
+    ja: |-
+      前哨基地を歩いていたところ、
+      袋を持ってもじもじしているソーダを見かけた
+  d_ex_police_09_3:
+    speaker: "<Self>"
+    en: What are you up to, Soda?
+    ko: 소다, 여기서 뭐해?
+    ja: ソーダ、何してるんだ？
+  d_ex_police_09_4:
+    speaker: soda_b
+    en: H-huh? Master?
+    ko: 흐에? 주… 주인님?!
+    ja: ふぇぇ？ご…ご主人様！？
+  d_ex_police_09_5:
+    speaker: soda_b
+    en: Coin Rush and the Maid Cafe are doing a crossover promotion, and we've been
+      giving out free bunny cookies for the past week.
+    ko: |-
+      이번에 코인 러시의 협찬을 받아서요…
+      일주일 동안 메이드 카페에서 바니 쿠키를 공짜로 나누어 드리고 있어요!
+    ja: |-
+      コインラッシュがメイドカフェの
+      スポンサーになって、1週間、バニークッキーを
+      配ることになったんです！
+  d_ex_police_09_6:
+    speaker: soda_b
+    en: That's why I'm wearing this outfit.
+    ko: 헤헤, 덕분에 옷도 이렇게 차려입고 온 거랍니다~!
+    ja: |-
+      えへへ、おかげでまたこの衣装が
+      着られました～！
+  d_ex_police_09_7:
+    speaker: "<Self>"
+    en: Working as hard as ever, I see.
+    ko: 최고야 소다.
+    ja: 良く似合っている
+  d_ex_police_09_8:
+    speaker: soda_b
+    en: Hehe, you know it. I brought the cookies,
+    ko: |-
+      헤헤~ 감사합니다아…
+      일단 쿠키를 가져오긴 했는데요오….
+    ja: |-
+      えへへ～ありがとうございますぅ…
+      それで、とりあえずクッキーを
+      持ってきたんですけどぉ…
+  d_ex_police_09_9:
+    speaker: soda_b
+    en: but I feel a bit awkward approaching people, so I'm not sure where to start.
+    ko: 아직 어색하신 분들도 많아서 어디부터 가야 할지이….
+    ja: |-
+      まだよく知らない方も多くて、
+      どう声を掛けたらいいのか…
+  d_ex_police_09_10:
+    speaker: "<Self>"
+    en: Would you like me to help you?
+    ko: 그럼 나랑 같이 갈까?
+    ja: それなら、一緒に行こうか？
+  d_ex_police_09_11:
+    speaker: soda_b
+    en: W-would that be okay?
+    ko: 와아…! 정말 그래도 되나요오…?
+    ja: わあ…！いいんですかぁ…？
+  d_ex_police_09_12:
+    speaker: "<Self>"
+    en: Sure, it's no problem. Let's get going.
+    ko: 응, 바로 출발하자.
+    ja: ああ、すぐに出発しよう
+  d_ex_police_09_13:
+    speaker: "<Self>"
+    en: How about we start at the Police Station?
+    ko: 경찰서부터 어때?
+    ja: 警察署から行ってみるか？
+  d_ex_police_09_14:
+    speaker: soda_b
+    en: Sure! Sounds good.
+    ko: 네에! 좋아요 주인니임~!
+    ja: はい！そうしましょう、ご主人さまぁ～！
+  d_ex_police_09_15:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_police_09_16:
+    speaker: soda_b
+    en: Hello, everyone!
+    ko: 안녕하세요~ 여러부운!
+    ja: みなさん、こんにちは～！
+  d_ex_police_09_17:
+    speaker: soda_b
+    en: We came to hand out some delicious bunny cookies, courtesy of the Maid Cafe.
+    ko: 메이드 카페에서 맛있는 바니 쿠키를 나눠드리러 왔어요오~
+    ja: |-
+      メイドカフェからおいしいバニークッキーを
+      お配りしに来ましたぁ～
+  d_ex_police_09_18:
+    speaker: "<Monologue>"
+    en: As we head into the Police Station, we're greeted with dead silence.
+    ko: 경찰서 안은 고요하다.
+    ja: 署の中は静まりかえっている
+  d_ex_police_09_19:
+    speaker: soda_b
+    en: Huh?
+    ko: 호에…?
+    ja: ほぇぇ…？
+  d_ex_police_09_20:
+    speaker: "<Self>"
+    en: There doesn't seem to be anyone here.
+    ko: 음… 아무도 없네?
+    ja: なんだ…誰もいないな？
+  d_ex_police_09_21:
+    speaker: soda_b
+    en: Looks like you're right.
+    ko: 흐에… 그러게요오….
+    ja: ふぇぇ…そうですねぇ…
+  d_ex_police_09_22:
+    speaker: soda_b
+    en: I really wanted to deliver these cookies personally...
+    ko: 직접 전달해 드리고 싶었는데에….
+    ja: 直接手渡ししたかったですけどぉ…
+  d_ex_police_09_23:
+    speaker: "<Self>"
+    en: Even if you don't hand them over yourself, they'll appreciate the gesture.
+      I'll be sure to tell them.
+    ko: |-
+      그래도 소다의 마음은 전해질 거야.
+      내가 잘 말해둘게.
+    ja: |-
+      ソーダの気持ちは伝わるはずだ。
+      私が連絡しておこう
+  d_ex_police_09_24:
+    speaker: soda_b
+    en: Okay, thanks, Master.
+    ko: 헤헤, 그렇겠죠? 감사합니다 주인님~
+    ja: えへへ、ありがとうございます、ご主人様～
+  d_ex_police_09_25:
+    speaker: soda_b
+    en: I'll just set them on the front desk then.
+    ko: 그러면 여기 책상 위에~
+    ja: じゃあ、この机に～
+  d_ex_police_09_26:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 툭-
+    ja: ストンッ
+  d_ex_police_09_27:
+    speaker: "<Monologue>"
+    en: Soda places a rabbit-shaped envelope on the desk.
+    ko: 소다가 토끼 모양 봉투를 책상 위에 올려놨다.
+    ja: ソーダがウサギ型の袋を机の上に置いた
+  d_ex_police_09_28:
+    speaker: "<Self>"
+    en: Alright, let's move onto the next location...
+    ko: 그럼 이제 다음으로 가볼….
+    ja: さて、次は…
+  d_ex_police_09_29:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_police_09_30:
+    speaker: miranda
+    en: Oh, hey you two!
+    ko: 어? 지휘관! 소다! 안녕하십니까!
+    ja: あれ？指揮官！ソーダ！お疲れ様です！
+  d_ex_police_09_31:
+    speaker: quiry
+    en: Is that you, Commander? Hey!
+    ko: 흐으음… 저기 서있는 게 지휘관이군요!
+    ja: うーん…そこに立っているのは指揮官ですね！
+  d_ex_police_09_32:
+    speaker: quiry
+    en: What are you doing running around with a giant rabbit?
+    ko: 안녕하세요! 어…? 그리고 웬 토끼가….
+    ja: こんにちは！あれ…？どうしてウサギが…
+  d_ex_police_09_33:
+    speaker: "<Self>"
+    en: Hey Miranda, hey Quiry.
+    ko: 안녕, 미란다, 키리.
+    ja: やあ、ミランダ、キリ
+  d_ex_police_09_34:
+    speaker: soda_b
+    en: Howdy!
+    ko: 헤헤~ 안녕하세요오~
+    ja: えへへ～こんにちはぁ～
+  d_ex_police_09_35:
+    speaker: miranda
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_police_09_36:
+    speaker: "<Self>"
+    en: What were you two up to?
+    ko: 뭐하고 온 거야?
+    ja: 何かあったのか？
+  d_ex_police_09_37:
+    speaker: miranda
+    en: We received a report and we're searching for the culprit.
+    ko: |-
+      으음… 저희는 방금 전까지 신고를 접수받고,
+      범인을 찾아다니다 왔습니다!
+    ja: 通報があったので、犯人を追跡していました！
+  d_ex_police_09_38:
+    speaker: miranda
+    en: We almost apprehended a suspect, but they got away. And we were scolded by
+      Poli.
+    ko: 범인을 놓쳐버려서 폴리에게 혼나긴 했지만… 음….
+    ja: |-
+      逃げられてしまって、
+      ポリに怒られましたけど…
+  d_ex_police_09_39:
+    speaker: soda_b
+    en: Don't be too disheartened, Miranda.
+    ko: |-
+      미란다아….
+      너무 상심하지 말아요….
+    ja: |-
+      ミランダ…
+      あんまり落ち込まないでください…
+  d_ex_police_09_40:
+    speaker: soda_b
+    en: We appreciate how hard you work to keep us safe.
+    ko: 미란다는 항상 우리의 안전을 위해서 노력하시잖아요!
+    ja: |-
+      いつも私たちの安全のために
+      頑張ってるじゃないですか！
+  d_ex_police_09_41:
+    speaker: soda_b
+    en: You'll get another chance, I'm sure of...
+    ko: 언젠가 기회가 다시 올….
+    ja: いつかまたチャンスが…
+  d_ex_police_09_42:
+    speaker: miranda
+    en: You're right, and that chance is right now.
+    ko: 그런데 지금 다시 기회가 온 것입니다!
+    ja: しかし、今そのチャンスが来たようです！
+  d_ex_police_09_43:
+    speaker: soda_b
+    en: Huh?
+    ko: 에?
+    ja: えっ？
+  d_ex_police_09_44:
+    speaker: quiry
+    en: I knew it! My suspicions turned out to be correct.
+    ko: 역시… 제가 보고 생각하고 있는 것이 틀림없군요!
+    ja: やっぱり…私の予想が当たっていたようですね！
+  d_ex_police_09_45:
+    speaker: miranda
+    en: That's right!
+    ko: 맞습니다!
+    ja: その通りです！
+  d_ex_police_09_46:
+    speaker: miranda
+    en: The culprit was described as wearing a bunny outfit and causing a ruckus.
+      It's none other than Soda!
+    ko: 바니걸 옷을 입고 고성방가를 하던 범인이 소다였던 것입니다!
+    ja: |-
+      バニーガール姿で騒ぎを起こしていた犯人は
+      ソーダだったのです！
+  d_ex_police_09_47:
+    speaker: soda_b
+    en: What?!
+    ko: 호엑?
+    ja: ふぇっ！？
+  d_ex_police_09_48:
+    speaker: "<Self>"
+    en: There must be some kind of misunderstanding. Soda was simply giving out cookies...
+    ko: 오해야 소다는 쿠키를 전해주러….
+    ja: 誤解だろう、ソーダはクッキーを渡しに…
+  d_ex_police_09_49:
+    speaker: miranda
+    en: I don't want to hear your excuses!
+    ko: 변명은 통하지 않습니다!
+    ja: 言い逃れはできません！
+  d_ex_police_09_50:
+    speaker: miranda
+    en: You attempted to hide in the Police Station to avoid any suspicion.
+    ko: 등잔 밑이 어둡다고 생각하여 경찰서에 숨어든 것입니다!
+    ja: |-
+      「灯台もと暗し」と考えて、
+      署に隠れていたのでしょう！
+  d_ex_police_09_51:
+    speaker: miranda
+    en: Soda, you're under arrest for creating a public disturbance.
+    ko: 소다! 당신을 중범죄인 고성방가죄로 체포합니다!
+    ja: |-
+      ソーダ！あなたを大音量で歌った重罪人として
+      緊急逮捕します！
+  d_ex_police_09_52:
+    speaker: soda_b
+    en: What's going on?!
+    ko: 호에에에엥?
+    ja: ふぇぇぇ～！？
+  d_ex_police_09_53:
+    speaker: miranda
+    en: We can't let her get away like last time. Quiry!
+    ko: |-
+      키리! 방금처럼 놓칠 수는 없습니다!
+      부탁드립니다!
+    ja: |-
+      キリ！今度は逃がすわけにはいきません！
+      お願いします！
+  d_ex_police_09_54:
+    speaker: quiry
+    en: On it!
+    ko: 네! 알겠어요!
+    ja: はい！分かりました！
+  d_ex_police_09_55:
+    speaker: "<Narration>"
+    en: "*Jump*"
+    ko: 펄쩍-
+    ja: バッ――
+  d_ex_police_09_56:
+    speaker: "<Narration>"
+    en: "*Crash*"
+    ko: 와장창-
+    ja: ガン！
+  d_ex_police_09_57:
+    speaker: "<Monologue>"
+    en: Quiry leaps haphazardly towards the desk where the rabbit-shaped envelope
+      is placed, banging her head on it in the process.
+    ko: 키리는 책상 위에 놓여 있는 토끼 모양 봉투에 뛰어들어 머리를 박아버렸다.
+    ja: |-
+      キリは机の上にあったウサギの袋に飛びかかり、
+      勢いよく頭をぶつけた
+  d_ex_police_09_58:
+    speaker: miranda
+    en: Stay right where you are, Soda!
+    ko: 소다! 거기 서십시오!
+    ja: ソーダ！動かないでください！
+  d_ex_police_09_59:
+    speaker: "<Narration>"
+    en: "*Crash*"
+    ko: 우당탕!
+    ja: ドタンバタンッ！
+  d_ex_police_09_60:
+    speaker: soda_b
+    en: Gah!
+    ko: 후에에에엥~
+    ja: ふぇぇぇ～
+  d_ex_police_09_61:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_09_62:
+    speaker: "<Monologue>"
+    en: Miranda and Soda are running around the Police Station in a frenzy.
+    ko: 미란다와 소다가 경찰서를 정신없이 뛰어다니고 있다.
+    ja: ミランダとソーダが署内を走り回りはじめた
+  d_ex_police_09_63:
+    speaker: soda_b
+    en: Miranda, I'm innocent!
+    ko: 미란다아~ 저는 억울하다구요오오~
+    ja: ミランダ～人違いですよぉ～
+  d_ex_police_09_64:
+    speaker: miranda
+    en: Save your defense for your trial!
+    ko: 그런 변명은 감옥에서 하시는 겁니다!
+    ja: 言い訳は留置所で聞きます！
+  d_ex_police_09_65:
+    speaker: miranda
+    en: You got away last time by feeding us the same line!
+    ko: 아까도 그런 식으로 도망가지 않았습니까!
+    ja: さっきもそうやって逃げたではありませんか！
+  d_ex_police_09_66:
+    speaker: "<Narration>"
+    en: "*Pow pow pow*"
+    ko: 퍽- 퍽- 퍽-
+    ja: ズカズカズカ…
+  d_ex_police_09_67:
+    speaker: quiry
+    en: Ow! Stop stepping on me!
+    ko: 크엑… 저를 밟지 말아주세요….
+    ja: ぐえ～…私を踏まないでください…
+  d_ex_police_09_68:
+    speaker: "<Monologue>"
+    en: Miranda and Soda are trampling on Quiry, who is collapsed on the ground nursing
+      her head.
+    ko: 넘어져있던 키리는 둘에게 정신없이 밟히고 있다.
+    ja: 倒れていたキリは何度も2人に踏まれていた
+  d_ex_police_09_69:
+    speaker: soda_b
+    en: Master, help me!
+    ko: 주인니이임 도와주세요오오~
+    ja: ご主人さまぁ～助けてくださぁ～い！
+  d_ex_police_09_70:
+    speaker: miranda
+    en: We're not letting you slip past us this time! We're gonna make Poli proud!
+    ko: 이번에는 반드시 체포해서 폴리에게 칭찬받을 것입니다!
+    ja: |-
+      何としてもホシを挙げて
+      ポリに褒めてもらうのです！
+  d_ex_police_09_71:
+    speaker: "<Narration>"
+    en: "*Crash*"
+    ko: 와장창-
+    ja: ガシャーン！
+  d_ex_police_09_72:
+    speaker: "<Monologue>"
+    en: At this rate, there won't be anything in the Police Station left intact.
+    ko: 이대로면 경찰서에 멀쩡한 물건이 남아나지 않을 것 같다….
+    ja: |-
+      このままだと警察署が
+      めちゃくちゃになってしまう…
+  d_ex_police_09_73:
+    speaker: "<Self>"
+    en: Everyone, calm down...
+    ko: 다들 그만하는 게….
+    ja: みんな、落ち着いて…
+  d_ex_police_09_74:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 툭-
+    ja: ガッ――
+  d_ex_police_09_75:
+    speaker: quiry
+    en: Argh!
+    ko: 크엑.
+    ja: げふっ！
+  d_ex_police_09_76:
+    speaker: soda_b
+    en: "?!"
+    ko: 호에?
+    ja: ふぇぇ！？
+  d_ex_police_09_77:
+    speaker: "<Narration>"
+    en: "*Crash*"
+    ko: 콰당탕-
+    ja: ドテーン！
+  d_ex_police_09_78:
+    speaker: "<Monologue>"
+    en: Soda trips over Quiry.
+    ko: 소다가 바닥에 쓰러져있던 키리에 걸려 넘어졌다.
+    ja: |-
+      ソーダは倒れていたキリにつまづき
+      転んでしまった
+  d_ex_police_09_79:
+    speaker: miranda
+    en: Got you!
+    ko: 드디어 체포했습니다!
+    ja: ついに犯人の身柄を確保しました！
+  d_ex_police_09_80:
+    speaker: miranda
+    en: All that's left to do is notify Poli.
+    ko: 이제 폴리에게 보고할 일만 남았습니다!
+    ja: あとはポリに報告するだけです！
+  d_ex_police_09_81:
+    speaker: soda_b
+    en: You got it wrong, Miranda!
+    ko: 흐에엥~ 미란다아 잘못했어요오….
+    ja: ふぇぇ～ん、ミランダ、違いますよぉ…
+  d_ex_police_09_82:
+    speaker: "<Narration>"
+    en: "*Bzzzz*"
+    ko: 우웅-
+    ja: ブブブ…
+  d_ex_police_09_83:
+    speaker: miranda
+    en: Hmm? Someone's calling me?
+    ko: 어…? 전화?
+    ja: あれ…？電話？
+  d_ex_police_09_84:
+    speaker: miranda
+    en: This is Miranda. Who's this?
+    ko: 네! 미란다입니다! 누구십니까!?
+    ja: はい！こちらミランダ！どちら様ですか！？
+  d_ex_police_09_85:
+    speaker: poli_op
+    en: Who do you think? It's me, Poli.
+    ko: 누구긴 누구에여 폴리졍.
+    ja: 私です、ポリですよん。
+  d_ex_police_09_86:
+    speaker: miranda
+    en: Poli! I have good news. I managed to apprehend the suspect!
+    ko: 앗! 폴리! 기쁜 소식입니다! 제가 범인을 잡았습니다!
+    ja: |-
+      あっ！ポリ！朗報です！
+      犯人を逮捕しました！
+  d_ex_police_09_87:
+    speaker: poli_op
+    en: You did?
+    ko: 녱…?
+    ja: はい…？
+  d_ex_police_09_88:
+    speaker: miranda
+    en: She was shamelessly attempting to seek refuge in the Police Station after
+      committing a serious offense.
+    ko: |-
+      범인은 중범죄를 저지르고 뻔뻔하게도
+      경찰서에 숨어들어 있었습니다!
+    ja: |-
+      あれほど重大な罪を犯しておきながら、
+      図々しくも署内に隠れていたようです！
+  d_ex_police_09_89:
+    speaker: poli_op
+    en: But... I just caught the culprit.
+    ko: 범인은 방금 제가 잡았는데영…?
+    ja: それなら私が捕まえましたけどぉ…？
+  d_ex_police_09_90:
+    speaker: miranda
+    en: Y-you what?
+    ko: 네? 버, 버, 버, 범인을 잡은 겁니까?!
+    ja: はい？は、は、は、犯人をですか！？
+  d_ex_police_09_91:
+    speaker: miranda
+    en: Then... the person I just caught is... uh oh.
+    ko: 으음… 그럼 제가 잡은 건… 음….
+    ja: むむむ…では、私が捕まえたのは…
+  d_ex_police_09_92:
+    speaker: poli_op
+    en: Grrrr... Miranda, did you just do something foolish again?
+    ko: 크르릉! 미란다! 또 사고 치신건가영!
+    ja: |-
+      グルルル！ミランダ！
+      また誤認逮捕ですかぁ！？
+  d_ex_police_09_93:
+    speaker: miranda
+    en: N-No! Not at all!
+    ko: 아, 아닙니다 폴리!
+    ja: そそ、そんなことは！
+  d_ex_police_09_94:
+    speaker: poli_op
+    en: Ugh... just wait there. I'll be there soon.
+    ko: 에흉. 기다리고 있어영! 금방 갈 테니까!
+    ja: |-
+      はぁぁ…待っててくださいよん！
+      すぐ行きますからぁ！
+  d_ex_police_09_95:
+    speaker: miranda
+    en: Soda, I... I think I owe you an apology.
+    ko: 소다… 제가 사과를 해야할 것 같습니다….
+    ja: ソーダ…私は謝罪しなければなりません…
+  d_ex_police_09_96:
+    speaker: miranda
+    en: I'm sorry. I made a mistake.
+    ko: 죄송합니다… 이번에도 실수를 해버렸습니다….
+    ja: |-
+      申しわけありません…
+      またミスをしてしまいました…
+  d_ex_police_09_97:
+    speaker: soda_b
+    en: It's okay, don't be too hard on yourself, Miranda. Everyone makes mistakes.
+    ko: |-
+      미… 미란다아 너무 상심하지 말아요오…
+      누구나 실수는 할 수 있는 거라고 생각해요오….
+    ja: |-
+      み…ミランダ、落ち込まないでください…
+      ミスは誰でもすると思いますぅ…
+  d_ex_police_09_98:
+    speaker: miranda
+    en: Can... can you find it in yourself to forgive me?
+    ko: 요, 용서해 주는 겁니까?!
+    ja: ゆ、許していただけるのですか！？
+  d_ex_police_09_99:
+    speaker: soda_b
+    en: Of course! I also make mistakes all the time, but I keep trying!
+    ko: 그럼요! 저도 항상 실수하지만 계속 노력하는걸요!
+    ja: |-
+      もちろんです！私もがんばってますけど、
+      ミスしてばっかりですから！
+  d_ex_police_09_100:
+    speaker: "<Self>"
+    en: Soda is right. Everyone makes mistakes. What matters is how you deal with
+      it going forward.
+    ko: |-
+      맞아, 실수는 누구나 할 수 있다고 생각해.
+      그 이후에 어떻게 해결하느냐가 중요한 거지.
+    ja: |-
+      その通り、誰にでも失敗はある。
+      それをどう解決するかが大事だ
+  d_ex_police_09_101:
+    speaker: miranda
+    en: Exactly.
+    ko: 지휘관….
+    ja: 指揮官…
+  d_ex_police_09_102:
+    speaker: soda_b
+    en: Couldn't have said it better myself!
+    ko: 주인니이임….
+    ja: ご主人さまぁ…
+  d_ex_police_09_103:
+    speaker: "<Self>"
+    en: Now, why don't we clean this place up before Poli gets here?
+    ko: 그러니까 폴리가 오기 전에 어서 여기를 청소해놔야 하지 않을까?
+    ja: |-
+      …だから、ポリが来る前に掃除した方が
+      いいんじゃないか？
+  d_ex_police_09_104:
+    speaker: miranda
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_police_09_105:
+    speaker: miranda
+    en: Oh no! I didn't even notice! The Police Station is a mess.
+    ko: 크, 큰일 났습니다! 경찰서가 박살이 났습니다!
+    ja: た、大変です！署内がめちゃくちゃです！
+  d_ex_police_09_106:
+    speaker: miranda
+    en: A burglar must have come in and ransacked the place while we were distracted.
+    ko: 저희가 한눈을 판 사이 도둑이 들어왔던 것 같습니다!
+    ja: |-
+      私たちが騒いでいたすきに、
+      泥棒が入って来るとは！
+  d_ex_police_09_107:
+    speaker: quiry
+    en: Huh? Who came in? I didn't see anything.
+    ko: 저, 저는 보지 못했는데, 누가 왔다 간 거죠…?
+    ja: |-
+      わ、私は気づきませんでした！
+      いったい誰が…？
+  d_ex_police_09_108:
+    speaker: "<Self>"
+    en: You were the ones who did this...
+    ko: 너희들이 그랬잖아….
+    ja: 犯人は君たち自身だ…
+  d_ex_police_09_109:
+    speaker: miranda
+    en: We're doomed. All we can do is wait to get chewed out by Poli again.
+    ko: 이제 폴리에게 두 배로 혼날 일만 남았습니다….
+    ja: ますますポリに怒られてしまいます…
+  d_ex_police_09_110:
+    speaker: soda_b
+    en: Don't worry, Miranda. Cleaning up is my specialty.
+    ko: |-
+      헤헤~ 미란다 걱정하지 마세요~
+      청소는 제 특기니까요!
+    ja: |-
+      えへへ、ミランダ、心配しないでください！
+      お掃除は私の特技ですから！
+  d_ex_police_09_111:
+    speaker: miranda
+    en: You'd do that for me? You're amazing, Soda!
+    ko: |-
+      저를 구해주시는 겁니까?!
+      멋집니다! 소다!
+    ja: |-
+      私を助けてくださるのですか！？
+      最高です！ソーダ！
+  d_ex_police_09_112:
+    speaker: soda_b
+    en: Don't mention it! Just give me a few moments.
+    ko: 네~! 조금만 기다려주세요~
+    ja: はい！ちょっと待っててくださいね～
+  d_ex_police_09_113:
+    speaker: soda_b
+    en: La de dah♪
+    ko: 헤헤~ 흐으응~♪
+    ja: えへへ～フンフン～♪
+  d_ex_police_09_114:
+    speaker: "<Monologue>"
+    en: Soda brings over a barrage of different cleaning tools, humming all the while.
+    ko: |-
+      소다는 콧노래를 부르며,
+      앞이 보이지 않을 정도로 청소도구를 가득 들고 오고 있다.
+    ja: |-
+      ソーダは鼻歌を歌いながら、前が見えないほど
+      大量の掃除道具を持って戻って来た
+  d_ex_police_09_115:
+    speaker: "<Self>"
+    en: Be careful, Quiry is still lying on the floor.
+    ko: 소다… 조심해! 바닥에 아직 키리가…!
+    ja: ソーダ、危ない！床にまだキリが…！
+  d_ex_police_09_116:
+    speaker: soda_b
+    en: Huh? What did you say... wwhooooa!
+    ko: 네? 뭐라고 하셨… 호에?
+    ja: えっ？何かいいまし…ふぇぇ！？
+  d_ex_police_09_117:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 툭-
+    ja: ガッ
+  d_ex_police_09_118:
+    speaker: quiry
+    en: Argh!
+    ko: 크엑.
+    ja: ぐえっ！
+  d_ex_police_09_119:
+    speaker: "<Narration>"
+    en: "*Crash*"
+    ko: 와장창-
+    ja: ガッシャーン！
+  d_ex_police_09_120:
+    speaker: "<Monologue>"
+    en: I'm going to have some explaining to do when Poli arrives.
+    ko: "…폴리가 돌아오면 설명을 잘해줘야겠다."
+    ja: |-
+      …ポリが帰ってきたら、
+      きちんと説明しなくては…

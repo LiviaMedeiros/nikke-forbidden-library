@@ -1,0 +1,499 @@
+---
+833_name:
+  en: Misato
+  ko: 미사토
+  ja: ミサト
+c833_description:
+  en: |-
+    Her full name is Misato Katsuragi.
+    Age 29. Part of the operations department of the special agency, NERV.
+    She seems optimistic and carefree at first, but there's a stern side to her.
+  ko: |-
+    풀네임은 카츠라기 미사토.
+    29세. 네르프 전술 작전부 작전국 소속.
+    낙천적인 사람처럼 행동하고 있지만 내면에는 엄격한 부분도 내포하고 있다.
+  ja: |-
+    フルネームは葛城ミサト。
+    29歳。ネルフ戦術作戦部作戦局所属。
+    楽天家のようにふるまっているが、
+    内面には厳しい部分も秘めている。
+833_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_833:
+  en: Misato's Spare Body
+  ko: 미사토 스페어 바디
+  ja: ミサトのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28332_name:
+  en: Recovery Assistant
+  ko: 회복 보조
+  ja: 回復補助
+28332_description:
+  en: |-
+    ■ Only activates when in Shooting Manual status. Affects all allies.
+    <color=#00AEFF><word_group=10054>Damage dealt to Shield</word_group> ▲ {description_value_01}% continuously.</color>
+    ■ Only activates when Shooting Manual is fully stacked. Affects self.
+    <color=#00AEFF>Potency of HP granted ▲ {description_value_02}% continuously.</color>
+  ko: |-
+    ■  자신이 사격 매뉴얼 상태일 때 한하여 아군 전체에게
+    <color=#00AEFF>[<word_group=10054>보호막에 가하는 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 자신이 사격 매뉴얼 최대 중첩 상태일 때 한하여 자신에게
+    <color=#00AEFF>[주는 체력 회복량 {description_value_02}% ▲] [지속]</color>
+  ja: |-
+    ■自分が射撃マニュアル状態の時に限り、味方全体に
+    <color=#00AEFF>「<word_group=10054>バリアに与えるダメージ</word_group>{description_value_01}％▲」「持続」</color>
+    ■自分が射撃マニュアルのフルスタック状態の時のみ
+    <color=#00AEFF>「与えるHP回復量{description_value_02}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28331_name:
+  en: Shooting Manual
+  ko: 사격 매뉴얼
+  ja: 射撃マニュアル
+28331_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>Shooting Manual: Hit Rate ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+    ■ Activates after landing {description_value_05} normal attack(s). Affects {description_value_06} ally unit(s) with the lowest HP percentage.
+    <color=#00AEFF>Recovers {description_value_07}% of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 자신에게
+    <color=#00AEFF>[사격 매뉴얼 : 명중률 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>
+    ■ 일반 공격 {description_value_05}회 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_06}기에게
+    <color=#00AEFF>[시전자 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_07}% 회복]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「射撃マニュアル：命中率{description_value_02}％▲」「{description_value_03}スタック」「{description_value_04}秒間維持」</color>
+    ■通常攻撃で{description_value_05}回攻撃した時、残りのHPの割合が最も低い味方{description_value_06}機に
+    <color=#00AEFF>「スキル発動者<word_group=10025>最終</word_group>最大HPの{description_value_07}％回復」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18333_name:
+  en: Command to Rest
+  ko: 휴식 명령
+  ja: 休息命令
+18333_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec continuously.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복] [1초 간격] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」「1秒間隔」「{description_value_02}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+830_name:
+  en: Asuka
+  ko: 아스카
+  ja: アスカ
+831_name:
+  en: Rei
+  ko: 레이
+  ja: レイ
+832_name:
+  en: Mari
+  ko: 마리
+  ja: マリ
+834_name:
+  en: Rei (Tentative Name)
+  ko: 레이 (가칭)
+  ja: レイ（仮称）
+c833_Lobby_Touch_1:
+  en: |-
+    Come here, Pen Pen.
+    That's a good boy!
+  ko: |-
+    펜펜. 이리온.
+    착하다 착해.
+  ja: |-
+    ペンペン。いらっしゃい。
+    いい子ね。
+c833_Lobby_Touch_2:
+  en: I look forward to working with you until we return.
+  ko: 다시 되돌아갈 때까지 잘 부탁해.
+  ja: ここにいる間、よろしくね。
+c833_Lobby_Touch_3:
+  en: If it's not too much trouble, can you arrange for a freezer?
+  ko: 실례가 안 된다면, 냉장고를 부탁해도 될까?
+  ja: 申し訳ないんだけど、冷蔵庫をお願いしてもいい？
+c833_Lobby_Touch_Love_1:
+  en: |-
+    This here is Pen Pen.
+    Please be nice to each other.
+  ko: |-
+    이 아이는 펜펜.
+    사이좋게 지내줘.
+  ja: |-
+    この子はペンペン。
+    仲良くしてあげてね。
+c833_Lobby_Touch_Love_2:
+  en: I wonder if Shinji is okay?
+  ko: 신지 군. 괜찮을까.
+  ja: シンジ君、大丈夫かしら…
+c833_Lobby_Touch_Love_3:
+  en: The beer is lovely here.
+  ko: 이곳의 맥주도 괜찮네.
+  ja: ここのビールもいけるわね。
+c833_Lobby_Stay_1:
+  en: |-
+    Are you going to keep me waiting?
+    Okay, that's fine... for now.
+  ko: |-
+    계속 대기하는 거야?
+    …일단, 알겠어.
+  ja: |-
+    このまま待機？
+    …まあ、分かったわ。
+c833_Lobby_Stay_Love_1:
+  en: Is it all right if I look around?
+  ko: 괜찮다면 이 근처를 좀 둘러봐도 될까?
+  ja: よかったら、このあたりを見学してもいい？
+c833_Outpost_Touch_1:
+  en: |-
+    So this is the Outpost...
+    Incredible.
+  ko: |-
+    여기가 전초기지….
+    굉장해.
+  ja: |-
+    ここが前哨基地…
+    すごいわ。
+c833_Outpost_Touch_2:
+  en: This place actually has everything...
+  ko: 이런 곳까지 준비되어 있다니….
+  ja: こんな場所まで 用意されてるなんて…
+c833_Outpost_Touch_3:
+  en: |-
+    There's even a bar!
+    Amazing!
+  ko: |-
+    BAR도 있는 거구나.
+    좋네.
+  ja: |-
+    BARもあるのね。
+    いいじゃない。
+c833_Gacha_Get_1:
+  en: |-
+    I'm Misato Katsuragi, and I work for NERV.
+    You can simply call me Misato.
+  ko: |-
+    NERV 소속의 카츠라기 미사토야.
+    미사토라고 불러도 돼.
+  ja: |-
+    NERV所属の葛城ミサトよ。
+    ミサトでいいわ。
+c833_Reinforce_1:
+  en: What scientific laws are governing this?
+  ko: 이건… 무슨 원리로…?
+  ja: これは…どういう原理で…？
+c833_Reinforce_2:
+  en: |-
+    I don't quite understand how this all works,
+    but thank you for the support.
+  ko: 잘 모르겠지만… 지원 고마워.
+  ja: よく分からないけど…支援ありがとう。
+c833_Reinforce_3:
+  en: Ritsuko wouldn't believe this even if I told her.
+  ko: 리츠코에게 말해도 믿지 않을 거야.
+  ja: リツコに言っても信じないでしょうね。
+c833_Gift_1:
+  en: Thank you. I'll be sure to put it to good use.
+  ko: 고마워. 잘 쓸게.
+  ja: ありがとう。使わせてもらうわ。
+c833_Gift_2:
+  en: I owe you quite a lot, you know.
+  ko: 이것저것 신세 지네.
+  ja: いろいろお世話になってるわね。
+c833_Gift_3:
+  en: Uh... What exactly is a Darling for a Day?
+  ko: 그… 지휘관 자유이용권은, 대체 뭐야?
+  ja: その…指揮官利用し放題券って、何なの？
+c833_Attractive_Up_1:
+  en: |-
+    So the Ark is the last bastion of humanity?
+    That's something it shares with Nerv.
+  ko: |-
+    인류 최후의 보루, 방주인가….
+    NERV와 닮았네.
+  ja: |-
+    人類最後のとりで、アークか…
+    NERVと似てるわね。
+c833_Attractive_Up_2:
+  en: As fellow Commanders, let's do our due diligence.
+  ko: 피차 지휘권자들끼리, 힘내보자고.
+  ja: お互い同じ指揮権を握る者として、頑張りましょ。
+c833_Attractive_Up_3:
+  en: It can be tough to keep the children in line.
+  ko: 아이들 관리는 확실히 힘들지~
+  ja: 子どもたちの面倒見るのって大変よね～
+c833_Party_Deploy_1:
+  en: Combat isn't my specialty... but I'll go with you.
+  ko: 실전은 특기가 아니지만… 가보겠어.
+  ja: 実戦は得意じゃないけど…やってみるわ。
+c833_Field_Touch_1:
+  en: Understood.
+  ko: 라져.
+  ja: 了解。
+c833_Field_Go_1:
+  en: It's that side.
+  ko: 그쪽이네.
+  ja: そっちね。
+c833_Battle_Enter_1:
+  en: commence operation.
+  ko: 전투 개시!
+  ja: 戦闘開始！
+c833_Battle_Ready_1:
+  en: Proceed according to the operational plans!
+  ko: 작전대로 가는 거야!
+  ja: 作戦通りに行くわよ！
+c833_Battle_Ready_2:
+  en: "... Let's go!"
+  ko: "…가자!"
+  ja: "…行くわよ！"
+c833_Battle_Ready_3:
+  en: I'm counting on you!
+  ko: 모두, 부탁해!
+  ja: みんな、お願い！
+c833_Reload_1:
+  en: Reloading!
+  ko: 리로드!
+  ja: リロード！
+c833_Reload_2:
+  en: Cover me!
+  ko: 커버 부탁해!
+  ja: カバーをお願い！
+c833_Reload_3:
+  en: Sorry! Stay strong, everyone!
+  ko: 미안! 다들 버텨줘!
+  ja: ごめん！みんな耐えて！
+c833_Ult_Skill_Ready_1:
+  en: Let's get this done!
+  ko: 갈 수 있어!
+  ja: 行けるわ！
+c833_Ult_Skill_1:
+  en: Prepare for launch! Launch!
+  ko: |-
+    발진 준비!
+    발진!
+  ja: |-
+    発進準備！
+    発進！
+c833_FullBurst_1:
+  en: Focus all firepower on target!
+  ko: 목표에 화력 집중!
+  ja: 目標に火力集中！
+c833_Kill_Monster_1:
+  en: We did it!
+  ko: 해냈다!
+  ja: やった！
+c833_Kill_Monster_2:
+  en: Great!
+  ko: 좋아!
+  ja: いいわ！
+c833_Kill_Monster_3:
+  en: Gotcha!
+  ko: 잡았다!
+  ja: 捕まえた！
+c833_Damage_1:
+  en: Watch out...!
+  ko: 위험해…!
+  ja: 危ない…！
+c833_Damage_2:
+  en: Ugh...!
+  ko: 읏…!
+  ja: うっ…！
+c833_Damage_3:
+  en: Keuk...!
+  ko: 크읏…!
+  ja: くっ…！
+c833_Die_1:
+  en: "... Sorry, it's up to you now."
+  ko: "…미안. 뒤는 맡길게."
+  ja: "…ごめん。あとは任せるわ。"
+c833_Win_1:
+  en: Whew... I need a drink.
+  ko: 후우~! 돌아가서 한잔 해야겠네.
+  ja: ふぅ～！戻って1杯やらなきゃね。
+833_cv_ja:
+  en: 'CV: Kotono Mitsuishi'
+  ko: 'CV : 미츠이시 코토노'
+  ja: CV：三石琴乃
+833_cv_ko:
+  en: 'CV: Kotono Mitsuishi'
+  ko: 'CV : 미츠이시 코토노'
+  ja: CV：三石琴乃
+833_cv_en:
+  en: 'CV: Kotono Mitsuishi'
+  ko: 'CV : 미츠이시 코토노'
+  ja: CV：三石琴乃

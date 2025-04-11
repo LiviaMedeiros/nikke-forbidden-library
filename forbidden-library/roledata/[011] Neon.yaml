@@ -1,0 +1,470 @@
+---
+11_name:
+  en: Neon
+  ko: 네온
+  ja: ネオン
+c011_description:
+  en: A rabid gun nut who thinks about nothing else. She is from Counters, but her
+    true identity as a spy is an open secret.
+  ko: "화력에 살고 화력에 죽는, 이 시대의 진정한 화력 마니아. \n카운터스 스쿼드 소속으로, 그녀가 스파이라는 것은 누구나 알고 있는 비밀."
+  ja: |-
+    火力至上主義。この時代に生きる真の火力マニア。
+    カウンターズ部隊所属で、
+    彼女がスパイだということは公然の秘密。
+11_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50011:
+  en: Neon's Spare Body
+  ko: 네온 스페어 바디
+  ja: ネオンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20112_name:
+  en: Viva Firepower!
+  ko: 화력 만세!
+  ja: 火力最高！
+20112_description:
+  en: "■ Activates at the beginning of Full Burst. Affects all allies. <color=#00AEFF>
+    Critical Rate ▲ {description_value_01}% for {description_value_02} shots.</color>"
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [{description_value_02}발 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「クリティカル確率{description_value_01}％▲」
+    「{description_value_02}発間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20111_name:
+  en: Neon's Special Bullet
+  ko: 네온 특제탄
+  ja: ネオン特製弾
+20111_description:
+  en: |-
+    ■  Activates when killing an enemy. Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Critical Rate ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 적 처치 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■敵を倒した時、<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「クリティカル確率{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10113_name:
+  en: Firepower Rules!
+  ko: 오직 화력!
+  ja: 火力が全て！
+10113_description_1:
+  en: "■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group>
+    DEF.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color> \n■ Affects all allies with a Shotgun.\n<color=#00AEFF>Max
+    Ammunition Capacity ▲ {description_value_03} round(s) for {description_value_04}
+    sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
+    ■ 샷건 소지 아군 전체에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_03}발 ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のバーストスキルダメージ」</color>
+    ■ショットガンを所持する味方全体に
+    <color=#00AEFF>「最大装弾数{description_value_03}発▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+14_name:
+  en: 'Neon: Blue Ocean'
+  ko: '네온 : 블루 오션'
+  ja: ネオン：ブルーオーシャン
+15_name:
+  en: 'Anis: Sparkling Summer'
+  ko: '아니스 : 스파클링 서머'
+  ja: アニス：スパークリングサマー
+16_name:
+  en: 'Rapi: Red Hood'
+  ko: '라피 : 레드 후드'
+  ja: ラピ：レッドフード
+10_name:
+  en: Rapi
+  ko: 라피
+  ja: ラピ
+12_name:
+  en: Anis
+  ko: 아니스
+  ja: アニス
+c011_Lobby_Touch_1:
+  en: More firepower for a brighter tomorrow!
+  ko: 스승님! 오늘도 화력을 위해 힘내보죠!
+  ja: 師匠！今日も火力のために頑張ります！
+c011_Lobby_Touch_2:
+  en: The only thing standing between us and the enemy, is our firepower!
+  ko: 오직 높은 화력만이 우릴 지켜준답니다.
+  ja: 私たちを守ってくれるのは、高い火力だけです。
+c011_Lobby_Touch_3:
+  en: Firepower is the be all and end all!
+  ko: 화력! 오직 화력뿐입니다!
+  ja: 火力！火力が全てです！
+c011_Lobby_Touch_Love_1:
+  en: Let's go, Master! Bigger and better firepower awaits us!
+  ko: 가죠, 스승님! 화력의 길이 우릴 기다리고 있습니다!
+  ja: 行きましょう、師匠！火力の道が私たちを待っています！
+c011_Lobby_Touch_Love_2:
+  en: Master, I just know that one day I'll find a legendary weapon that can hold
+    the bullets I make. Do you think so too?
+  ko: |-
+    스승님, 언젠가 제가 만든 총알을 받아줄
+    전설의 총을 찾아낼 수 있겠죠?
+  ja: |-
+    師匠、いつか私が作った銃弾を受け入れてくれる
+    伝説の銃が見つかりますよね？
+c011_Lobby_Touch_Love_3:
+  en: |-
+    After being around you, my firepower has gotten stronger!
+    And I'm definitely gonna stick around in the future.
+  ko: |-
+    스승님과 함께 한 후, 화력이 좀 더 강해졌습니다!
+    앞으로도 계속 함께하겠습니다!
+  ja: |-
+    師匠と一緒に過ごすようになってから、
+    火力がパワーアップしました！
+    これからもよろしくお願いします！
+c011_Lobby_Stay_1:
+  en: Master, now is the time for action, not relaxation!
+  ko: |-
+    스승님, 이러고 있을 시간이 아닙니다.
+    화력을 위해 움직여야 합니다!
+  ja: |-
+    師匠、こんなことしている場合じゃありません。
+    火力のために行動しましょう！
+c011_Lobby_Stay_Love_1:
+  en: Is sitting here quietly one of your secret methods of boosting our firepower?
+  ko: "이렇게 아무것도 안 하고 가만히 있는 것 또한 \n스승님만의 화력 강화법이겠죠?"
+  ja: |-
+    何もせずじっとしているのも
+    師匠ならではの火力強化法なんですよね？
+c011_Outpost_Touch_1:
+  en: When are the showers going to be running again?
+  ko: 샤워기는 대체 언제 고쳐지는 걸까요?
+  ja: シャワーはいつになったら 交換してくれるの でしょうか？
+c011_Outpost_Touch_2:
+  en: This place is fantastic, I can shoot as much as I want.
+  ko: 여기서는 아무 데나 총을 쏴도 돼서 좋아요.
+  ja: ここではどこにでも 銃を撃っていいので 気が楽です。
+c011_Outpost_Touch_3:
+  en: Why does our dorm look more like a warehouse?
+  ko: 저희 숙소 말인데요, 아무래도 창고 같죠?
+  ja: 私たちの宿所なんですけど、 どう見ても倉庫ですよね？
+c011_Gacha_Get_1:
+  en: I'm Neon, and firepower is my game!
+  ko: |-
+    화력의 전도자. 화력의 화신.
+    그게 바로 저, 네온입니다.
+  ja: |-
+    火力の伝道者。火力の化身。
+    それがまさしく私、ネオンです。
+c011_Reinforce_1:
+  en: Firepower up!
+  ko: 화력 업!
+  ja: 火力アップ！
+c011_Reinforce_2:
+  en: Higher firepower output!
+  ko: 좀 더 높은 화력을 낼 수 있겠군요!
+  ja: もっと強力な火力を出せるんですね！
+c011_Reinforce_3:
+  en: Booyah!
+  ko: 흐으아아압-!!
+  ja: うあああああーっ！！
+c011_Gift_1:
+  en: Thanks, Master!
+  ko: 헉! 감사합니다! 스승님!
+  ja: きゃっ！ありがとうございます！師匠！
+c011_Gift_2:
+  en: There's nothing I won't do for greater firepower.
+  ko: 내일의 화력을 위해 좀 더 힘내겠습니다!
+  ja: 明日の火力のためにもう少し頑張ります！
+c011_Gift_3:
+  en: Wow, for me?
+  ko: 와! 저한테 주시는 건가요?
+  ja: わあ！私にくれるんですか？
+c011_Attractive_Up_1:
+  en: I would give up my finest ammo for you.
+  ko: 스승님을 위해서라면, 총알도 내어줄 수 있어요.
+  ja: 師匠のためなら銃弾だって惜しくありません。
+c011_Attractive_Up_2:
+  en: I'm starting to feel the sparks between us!
+  ko: 스승님을 향한 제 화력이 더욱 강해졌습니다!
+  ja: 師匠に向けた私の火力がさらに強くなりました！
+c011_Attractive_Up_3:
+  en: You've taught me well Master. I'll repay you by putting my firepower to good
+    use!
+  ko: "스승님께 받은 가르침만큼 \n화력으로 보답할 수 있게 앞으로도 노력하겠습니다!"
+  ja: |-
+    師匠の教えを無駄にしないためにも火力でお返しできるよう、
+    これからも頑張ります！
+c011_Party_Deploy_1:
+  en: Time to put my firepower to the test.
+  ko: 화력의 힘을 보여줄 때가 왔군요!
+  ja: 火力の力を見せつける時が来ました！
+c011_Field_Touch_1:
+  en: Firepower!
+  ko: 화력!
+  ja: 火力！
+c011_Field_Go_1:
+  en: Repeat after me! Firepower!
+  ko: 화력 화력!
+  ja: 火力、火力！
+c011_Battle_Enter_1:
+  en: Time to battle!
+  ko: 전투 시작하겠습니다!
+  ja: 戦闘を開始します！
+c011_Battle_Ready_1:
+  en: Firepower ready!
+  ko: 화력 레디!
+  ja: 火力レディー！
+c011_Battle_Ready_2:
+  en: Kneel before my mighty firepower!
+  ko: 보여드릴게요. 저의 화력을!
+  ja: お見せいたしましょう！私の火力を！
+c011_Battle_Ready_3:
+  en: That's what I'm talking about!
+  ko: 화력은 충분해요! 가죠!
+  ja: 火力は十分です！行きましょう！
+c011_Reload_1:
+  en: Reloading!
+  ko: 장전하겠습니다!
+  ja: 装填します！
+c011_Reload_2:
+  en: Firepower refilled!
+  ko: 화! 력! 충! 전!
+  ja: 火！力！充！填！
+c011_Reload_3:
+  en: Oh no, my firepower!
+  ko: 으아아…! 내 화력이…!
+  ja: うああ…！私の火力が…！
+c011_Ult_Skill_Ready_1:
+  en: Me! Me!
+  ko: 저요! 저요!
+  ja: 私です！私です！
+c011_Ult_Skill_1:
+  en: Time for the grand finale!
+  ko: 드디어 보여드릴 때가 됐군요… 제 궁극의 화력을!
+  ja: ついにお披露目する時が来ましたか…私の究極の火力を！
+c011_FullBurst_1:
+  en: Now! Concentrate all attacks!
+  ko: 여러분 지금이에요! 전 화력 전방에 집중!!
+  ja: みなさん、今です！全火力を前方に集中！！
+c011_Kill_Monster_1:
+  en: One down!
+  ko: 격추!
+  ja: 撃墜！
+c011_Kill_Monster_2:
+  en: They're mine, mine I said!
+  ko: 제가 잡았어요 제가!
+  ja: 私が捕まえました。私が！
+c011_Kill_Monster_3:
+  en: Did you see that?
+  ko: 다들 보셨나요?
+  ja: みなさん、見てましたか？
+c011_Damage_1:
+  en: Gah!
+  ko: 으앗!
+  ja: うあっ！
+c011_Damage_2:
+  en: Firepower!
+  ko: 화력!
+  ja: 火力！
+c011_Damage_3:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c011_Die_1:
+  en: My firepower... just couldn't cut it.
+  ko: 화력이 부족했던… 제 탓입니다.
+  ja: 火力が足りなかった…私のせいです。
+c011_Win_1:
+  en: Nothing can stand against my firepower!
+  ko: 후후… 이것이… 화력의 힘입니다.
+  ja: ふふ…これが…火力のパワーです。
+11_cv_ja:
+  en: 'CV: Rina Hidaka'
+  ko: 'CV : 히다카 리나'
+  ja: CV：日高里菜
+11_cv_ko:
+  en: 'CV: Jang Mi'
+  ko: 'CV : 장미'
+  ja: CV：ジャンミ
+11_cv_en:
+  en: 'CV: UNKNOWN'
+  ko: 'CV : UNKNOWN'
+  ja: CV：UNKNOWN

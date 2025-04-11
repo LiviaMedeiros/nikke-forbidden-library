@@ -1,0 +1,445 @@
+---
+800_name:
+  en: Makima
+  ko: 마키마
+  ja: マキマ
+c800_description:
+  en: |-
+    Member of Public Safety Devil Extermination Special Division 4.
+    A devil hunter working directly under the Chief Cabinet Secretary.
+  ko: |-
+    공안 대마 특이 4과.
+    관방장관 직속의 데블 헌터.
+  ja: |-
+    公安対魔特異4課、
+    官房長官直属のデビルハンター。
+800_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_800:
+  en: Makima's Spare Body
+  ko: 마키마 스페어 바디
+  ja: マキマのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28002_name:
+  en: Seems I've Been Noticed
+  ko: 발각된 모양이네
+  ja: 気づかれたようだね
+28002_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF> Attract: Taunt all enemies for {description_value_02} sec.</color>
+    ■ Activates when taking lethal damage. Affects self.
+    <color=#00AEFF>Gain <word_group=10006>indomitability</word_group> for {description_value_03} sec. Activates {description_value_04} time(s) per battle.
+    <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_05} sec.</color>
+  ko: "■ 일반 공격 {description_value_01}회 공격 시 자신에게\n<color=#00AEFF>[주목 : 적 전체 도발] [{description_value_02}초
+    유지]</color> \n■ 전투불능에 이르는 공격에 피격 시 자신에게 \n<color=#00AEFF>[<word_group=10006>불굴</word_group>]
+    [{description_value_03}초 유지] [전투 중 {description_value_04}회 발동] \n[버스트 스킬 <word_group=10031>재사용
+    시간</word_group> {description_value_05}초 ▼]</color>"
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「ヘイト：敵全体を挑発」「{description_value_02}秒間維持」</color>
+    ■戦闘不能に至る攻撃を受けると、自分に
+    <color=#00AEFF>「<word_group=10006>不屈</word_group>」「{description_value_03}秒間維持」「戦闘中{description_value_04}回発動」
+    「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_05}秒▼」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28001_name:
+  en: Show Me What You Got
+  ko: 나에게 활약을 보여줄 수 있겠니?
+  ja: 私に活躍見せられそう？
+28001_description:
+  en: "■ Activates when attacked {description_value_01} time(s). Affects all allies.\n<color=#00AEFF>Reloading
+    Speed ▲ {description_value_02}% for {description_value_03} sec. \nDEF ▲ {description_value_04}%
+    for {description_value_05} sec.</color>"
+  ko: |-
+    ■ {description_value_01}회 피격 시 아군 전체에게
+    <color=#00AEFF>[재장전 속도 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [방어력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■{description_value_01}回攻撃を受けた時、味方全体に
+    <color=#00AEFF>「リロード速度{description_value_02}％▲」「{description_value_03}秒間維持」
+    「防御力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18003_name:
+  en: Can You Be Quiet?
+  ko: 조용히 해주겠니?
+  ja: 静かにできる？
+18003_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Gain Pierce for {description_value_01} sec.
+    Recover {description_value_02}% of attack damage as HP over {description_value_03} sec.</color>
+    ■ Activates during <word_group=10006>indomitability</word_group>. Affects self.
+    <color=#00AEFF>Potency of HP restored ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[관통 특화] [{description_value_01}초 유지]
+    [공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]</color>
+    ■ 자신이 <word_group=10006>불굴</word_group> 상태라면 자신에게
+    <color=#00AEFF>[받는 체력 회복량 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「貫通特化」「{description_value_01}秒間維持」
+    「攻撃ダメージの{description_value_02}％回復」「{description_value_03}秒間維持」</color>
+    ■自分が<word_group=10006>不屈</word_group>状態なら、自分に
+    <color=#00AEFF>「受けるHP回復量{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+801_name:
+  en: Power
+  ko: 파워
+  ja: パワー
+802_name:
+  en: Himeno
+  ko: 히메노
+  ja: 姫野
+c800_Lobby_Touch_1:
+  en: What should I do today?
+  ko: 오늘은 뭘 해볼까.
+  ja: 今日は何をしようかな。
+c800_Lobby_Touch_2:
+  en: Huh?
+  ko: 응?
+  ja: ん？
+c800_Lobby_Touch_3:
+  en: Hm?
+  ko: 흐음?
+  ja: おや？
+c800_Lobby_Touch_Love_1:
+  en: Come here.
+  ko: 이리 온.
+  ja: おいで。
+c800_Lobby_Touch_Love_2:
+  en: That's a good child.
+  ko: 착한 아이네.
+  ja: いい子だね。
+c800_Lobby_Touch_Love_3:
+  en: Good job.
+  ko: 기특하네.
+  ja: えらいね。
+c800_Lobby_Stay_1:
+  en: Hmm...
+  ko: 흐음~
+  ja: ふーん…
+c800_Lobby_Stay_Love_1:
+  en: Nothing wrong with a moment of silence.
+  ko: 고요함은 싫어하지 않아.
+  ja: 静かなのは嫌いじゃないよ。
+c800_Outpost_Touch_1:
+  en: Should I go for a little jaunt?
+  ko: 좀 걸어볼까.
+  ja: 散歩でもしようかな。
+c800_Outpost_Touch_2:
+  en: The drinks yesterday were superb...
+  ko: 어제 마신 술 맛있었지….
+  ja: 昨日のお酒 美味しかった…
+c800_Outpost_Touch_3:
+  en: Normally we have to wear a suit and tie.
+  ko: 우리는 기본적으로 제복 착용이니까.
+  ja: うちは基本制服だからね。
+c800_Gacha_Get_1:
+  en: I'm Makima, a public safety devil hunter.
+  ko: 나는 마키마. 공안의 데블 헌터야.
+  ja: 私はマキマ、公安のデビルハンターなんだ
+c800_Reinforce_1:
+  en: Nicely done.
+  ko: 수고했어.
+  ja: お疲れさま。
+c800_Reinforce_2:
+  en: This will suffice.
+  ko: 이 정도면 충분해.
+  ja: これなら十分。
+c800_Reinforce_3:
+  en: Thanks.
+  ko: 고마워.
+  ja: ありがとう。
+c800_Gift_1:
+  en: Is this a gift?
+  ko: 선물인가….
+  ja: プレゼントか…
+c800_Gift_2:
+  en: This makes me feel... happy.
+  ko: 흠… 기분 좋아.
+  ja: ふ～ん…嬉しいかも。
+c800_Gift_3:
+  en: Interesting.
+  ko: 흥미롭네.
+  ja: 面白いことするね。
+c800_Attractive_Up_1:
+  en: I feel like I can trust you more now.
+  ko: 신뢰가 쌓인다라… 좋지.
+  ja: 信頼を築く…か、いいね。
+c800_Attractive_Up_2:
+  en: Good dog.
+  ko: 쓸만한 개로구나.
+  ja: 使える犬だね。
+c800_Attractive_Up_3:
+  en: Thanks.
+  ko: 고마워.
+  ja: ありがとう。
+c800_Party_Deploy_1:
+  en: Time to get to work.
+  ko: 근무시간이야.
+  ja: 勤務時間だよ。
+c800_Field_Touch_1:
+  en: I have an exceptionally sharp nose.
+  ko: 나는 냄새를 잘 맡아.
+  ja: 私は特別に鼻が利くんだ。
+c800_Field_Go_1:
+  en: Should I go over there?
+  ko: 저쪽으로 가볼까.
+  ja: あっちに行ってみよう。
+c800_Battle_Enter_1:
+  en: It seems we've been noticed.
+  ko: 발각된 모양이네.
+  ja: 気づかれたようだね。
+c800_Battle_Ready_1:
+  en: Be careful.
+  ko: 조심해.
+  ja: 気を付けてね。
+c800_Battle_Ready_2:
+  en: Commencing operation.
+  ko: 작전 개시.
+  ja: 作戦開始。
+c800_Battle_Ready_3:
+  en: I don't need a dog that talks back.
+  ko: 말대꾸하는 개는 필요 없어.
+  ja: 口答えする犬はいらない。
+c800_Reload_1:
+  en: This is a bit of a hassle.
+  ko: 이건 좀 번거롭네.
+  ja: これはちょっと面倒だね。
+c800_Reload_2:
+  en: All good.
+  ko: 괜찮아.
+  ja: 大丈夫。
+c800_Reload_3:
+  en: Let's lock and load.
+  ko: 대응하자.
+  ja: 対応しよう。
+c800_Ult_Skill_Ready_1:
+  en: Here.
+  ko: 여기 여기.
+  ja: こっちこっち。
+c800_Ult_Skill_1:
+  en: Can you be quiet?
+  ko: 조용히 해주겠니?
+  ja: 静かにできる？
+c800_FullBurst_1:
+  en: I expect great things from you.
+  ko: 나에게 활약을 보여줄 수 있겠니?
+  ja: 私に活躍見せられそう？
+c800_Kill_Monster_1:
+  en: Good.
+  ko: 좋아.
+  ja: いいね。
+c800_Kill_Monster_2:
+  en: "*Sigh*"
+  ko: 후….
+  ja: ふぅ…
+c800_Kill_Monster_3:
+  en: Ah-ah.
+  ko: 아-아.
+  ja: あーあ。
+c800_Damage_1:
+  en: Ouch.
+  ko: 앗.
+  ja: あっ。
+c800_Damage_2:
+  en: Hm.
+  ko: 음.
+  ja: ふ～ん。
+c800_Damage_3:
+  en: Argh.
+  ko: 아.
+  ja: おっと
+c800_Die_1:
+  en: Perhaps we should leave it at this.
+  ko: 이쯤 해둘까.
+  ja: これくらいにしとこうか。
+c800_Win_1:
+  en: Good.
+  ko: 좋아.
+  ja: よし。
+800_cv_ja:
+  en: 'CV: Tomori Kusunoki'
+  ko: 'CV : 쿠스노키 토모리'
+  ja: CV：楠木ともり
+800_cv_ko:
+  en: 'CV: Tomori Kusunoki'
+  ko: 'CV : 쿠스노키 토모리'
+  ja: CV：楠木ともり
+800_cv_en:
+  en: 'CV: Tomori Kusunoki'
+  ko: 'CV : 쿠스노키 토모리'
+  ja: CV：楠木ともり

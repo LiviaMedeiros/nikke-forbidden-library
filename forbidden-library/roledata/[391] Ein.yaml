@@ -1,0 +1,791 @@
+---
+391_name:
+  en: Ein
+  ko: 아인
+  ja: アイン
+c391_description:
+  en: |-
+    A freshman at the M.M.R. Vocational School who is utterly obsessed with fashion design.
+    She is prone to using her phone and falling asleep in class. This behavior, which gives her a seemingly rebellious and harsh edge, disguises the fact that she is actually an emotionally sensitive person who truly cherishes her friendship with Zwei and Rei.
+  ko: |-
+    미미르 부속 고등학교에 재학 중인 패션 디자인에 관심 많은 1학년생.
+    수업 시간에 핸드폰을 하거나 엎드려 자는 등, 불량하고 까칠해 보이지만,
+    선배인 츠바이와 라이를 누구보다 아끼는 정 많은 소녀.
+  ja: |-
+    M.M.R.附属高校に通う ファッションデザインに 関心のある1年生。
+    授業中に携帯電話を触ったり 居眠りしたりするなど
+    不良で気難しいように見えるが、 先輩のツバイとライを
+    誰よりも大切に思っている 思いやりのある少女。
+391_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_391:
+  en: Ein's Spare Body
+  ko: 아인 스페어 바디
+  ja: アインのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+23912_name:
+  en: Feather Shot
+  ko: 페더 샷
+  ja: フェザーショット
+23912_description:
+  en: |-
+    ■ Activates when <word_group=10053>Near Feather</word_group> is summoned. Affects {description_value_01} random enemy unit(s).
+    <color=#00AEFF><word_group=10053>Near Feather</word_group> Attack: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as true damage.</color>
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Charge Damage ▲ {description_value_03}% for {description_value_04} shot(s).</color>
+  ko: |-
+    ■ <word_group=10053>니어 페더</word_group>가 소환된 상태라면 무작위 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10053>니어 페더</word_group> 공격 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 방어력 무시 대미지]</color>
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[차지 대미지 {description_value_03}% ▲] [{description_value_04}발 유지]</color>
+  ja: |-
+    ■<word_group=10053>ニアフェザー</word_group>が展開された状態なら、 ランダムの敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10053>ニアフェザー</word_group>攻撃：<word_group=10025>最終</word_group>攻撃力の {description_value_02}％の防御力無視ダメージ」</color>
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「チャージダメージ{description_value_03}％▲」 「{description_value_04}発間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23911_name:
+  en: Feather Standby
+  ko: 페더 스탠바이
+  ja: フェザースタンバイ
+23911_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF>Summons 4 <word_group=10053>Near Feathers</word_group>.</color>
+    ■ Activates when entering Burst Skill Stage 3. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10053>니어 페더</word_group> 4기 소환]</color>
+    ■ 버스트 3단계 진입 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10053>ニアフェザー</word_group>4機展開」</color>
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13913_name:
+  en: Feather All-Range
+  ko: 페더 올레인지
+  ja: フェザーオールレンジ
+13913_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Summons 6 <word_group=10053>Near Feathers</word_group>.</color>
+    <color=#00AEFF>True Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    <color=#00AEFF>Charge Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects {description_value_05} enemy unit(s) with the highest <word_group=10025>final</word_group> DEF.
+    <color=#00AEFF>Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as true damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[<word_group=10053>니어 페더</word_group> 6기 소환]</color>
+    <color=#00AEFF>[방어력 무시 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    <color=#00AEFF>[차지 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_05}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_06}% 방어력 무시 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「<word_group=10053>ニアフェザー</word_group>6機展開」</color>
+    <color=#00AEFF>「防御力無視ダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「チャージダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_05}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％の
+    防御力無視ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+392_name:
+  en: Rei
+  ko: 라이
+  ja: ライ
+390_name:
+  en: Zwei
+  ko: 츠바이
+  ja: ツバイ
+c391_Lobby_Touch_1:
+  en: |-
+    Did you call me?
+    What's up? I'm kinda busy listening to music.
+  ko: |-
+    저 불렀어요?
+    노래 듣느라 좀 바쁜데, 왜요?
+  ja: |-
+    呼びました？
+    音楽聴いてて忙しいんですけど～
+c391_Lobby_Touch_2:
+  en: |-
+    This place is dull as dirt.
+    Isn't there anything fun to do around here?
+  ko: |-
+    아~ 노잼.
+    쌤! 뭐 재미있는 거 없어요?
+  ja: |-
+    あーつまんない。
+    先生！なんか面白いことありません？
+c391_Lobby_Touch_3:
+  en: "I have to be honest with you, Teacher. Your outfit is a bit dated, especially
+    the color... \nIt'd be much better if they were brighter."
+  ko: |-
+    솔직히 쌤이 입고 있는 그 옷, 좀 촌스러운 것 같아요.
+    특히 색이 좀… 더 화사하면 예뻤을 텐데.
+  ja: |-
+    ぶっちゃけ、先生が着てるその服…ちょっとダサいですよ。
+    特に色が…もっと明るい色を着ればいいのに。
+c391_Lobby_Touch_Love_1:
+  en: "What type of music do you usually listen to? \nDo you wanna swap playlists?"
+  ko: |-
+    쌤은 평소에 어떤 노래 들어요?
+    저랑 플레이리스트 공유하실?
+  ja: |-
+    先生は普段どんな曲聴くんですか？
+    私とプレイリスト共有しません？
+c391_Lobby_Touch_Love_2:
+  en: |-
+    When I become the exclusive designer for Rushae,
+    I'll make you the coolest outfit in town!
+  ko: |-
+    제가 나중에 루셰 전속 디자이너가 되면
+    쌤한테 멋진 옷 한 벌 만들어 드릴게요!
+  ja: |-
+    将来、ルシェーの専属デザイナーになったら
+    先生に素敵な服をプレゼントしますね！
+c391_Lobby_Touch_Love_3:
+  en: |-
+    I can't wait to graduate so I can call you Commander too.
+    That'd be so badass!
+  ko: |-
+    빨리 졸업해서 저도 쌤을 지휘관이라고 부르고 싶어요.
+    개쩔잖아요~!
+  ja: |-
+    早く卒業して、私も先生のこと、指揮官って呼びたいです。
+    カッコイイですよね～！
+c391_Lobby_Stay_1:
+  en: |-
+    Ugh, I'm so bored!
+    Why'd you even bother inviting me if this is all we're gonna do?!
+  ko: |-
+    아~ 재미없어~
+    이럴 거면 저 왜 불렀어요 쌔애앰~!!!
+  ja: |-
+    あーつまんなーい。
+    ほっとくなら、なんで呼んだんですか。せんせぇ～！！
+c391_Lobby_Stay_Love_1:
+  en: |-
+    Since you left me all alone,
+    you've got to go to karaoke with me when you get back. No ifs, ands, or buts!
+  ko: |-
+    쌤 저 혼자 뒀으니까
+    이따 오면 같이 노래방 가줘야 해요. 반박 안 받음.
+  ja: |-
+    私をほったらかしにするなんて～
+    あとで一緒にカラオケ行ってくださいよ。絶対ですよー。
+c391_Outpost_Touch_1:
+  en: |-
+    Don't you think this place is a bit barren?
+    We should liven it up with a karaoke bar or something.
+  ko: |-
+    여기 너무 휑한 거 아니에요?
+    좀 더 놀 거리 많이 만들어봐요. 노래방이나 그런 거요.
+  ja: |-
+    ここ、 何もなさすぎ じゃないですか？
+    もう少し遊べるところ 作ってくださいよ。 カラオケとか。
+c391_Outpost_Touch_2:
+  en: |-
+    At least you've got a decent-sized shopping mall.
+    Maybe we'll find Rupee there?
+  ko: |-
+    쇼핑몰 크게 있는 건 좀 좋은 듯요.
+    가면 우리 루피 언니도 볼 수 있나~?
+  ja: |-
+    大きなショッピングモールって いいですよね。
+    ルピーさんにも 会えるかな～？
+c391_Outpost_Touch_3:
+  en: |-
+    Hey, teach! Have you seen any of the other students?
+    Pretty sure we were supposed to meet up here... or maybe not...
+  ko: |-
+    어, 쌤! 선배들 못 봤어요?
+    분명 이 근처에서 보기로 했던 것 같은데… 아닌가?
+  ja: |-
+    あ、先生！ 先輩たち見ませんでした？
+    この辺で 会う約束してたはずなのに…  違ったっけ？
+c391_Gacha_Get_1:
+  en: Teacher, it's been ages! I missed you so much, hehe!
+  ko: 쌤~ 오랜만! 완전 보고 싶었어요~! 히히.
+  ja: 先生～久しぶりですね！ちょー会いたかったです～！へへっ。
+c391_Reinforce_1:
+  en: Yahoo! I'm gonna brag about this to the others, hehe.
+  ko: 오예~ 선배들한테 자랑해야지~
+  ja: やったー！先輩たちに自慢しよーっと。
+c391_Reinforce_2:
+  en: At this rate, I'll be able to beat Zwei pretty soon.
+  ko: 이러다가 츠바이 선배도 이기는 거 아냐~?
+  ja: この調子ならツバイ先輩にも勝てるかも～？
+c391_Reinforce_3:
+  en: You didn't have to go all out like this... but thanks anyway!
+  ko: 이렇게까지 안 해주셔도 되는데~ 고마워요!
+  ja: |-
+    ここまでしてくれなくてもいいのに～
+    あざます！
+c391_Gift_1:
+  en: You're the best, Teacher!
+  ko: 아싸!! 쌤 진짜 최고예요!
+  ja: やった！！先生、マジサイコー！
+c391_Gift_2:
+  en: Oh my gosh, this is totally my style! Thanks!
+  ko: 헐, 완전 취저예요! 감사요!
+  ja: やば！ちょー好み！あざーっす！
+c391_Gift_3:
+  en: If you can, try and get me something from Rushae next time.
+  ko: 다음엔 루셰에서 파는 걸로 부탁해요.
+  ja: 次はルシェーの商品でお願いしま～す。
+c391_Attractive_Up_1:
+  en: |-
+    You look particularly handsome today.
+    Just sayin'!
+  ko: |-
+    쌤, 오늘따라 잘생겼네요.
+    걍 그렇다고요~
+  ja: |-
+    先生、今日はやけにカッコイイですね。
+    お世辞じゃないですよ～
+c391_Attractive_Up_2:
+  en: Do you think you could be our homeroom teacher?
+  ko: 아~ 쌤, 그냥 저희 담임해 주면 안 돼요?
+  ja: あの、担任の先生になってくれません？
+c391_Attractive_Up_3:
+  en: Just wait a little longer until I graduate, hehe.
+  ko: 쌤, 저 졸업할 때까지 좀만 기다려요~ 히히.
+  ja: 先生、私が卒業するまで待っててください！へへっ。
+c391_Party_Deploy_1:
+  en: Are you really going to take me? Seriously? Wow...
+  ko: 저 진짜 데려가게요? 진짜로? 아….
+  ja: ホントに私も行くんですか？ホントに？あー…
+c391_Field_Touch_1:
+  en: Huh?
+  ko: 왜요?
+  ja: 呼びました？
+c391_Field_Go_1:
+  en: Let's go!
+  ko: 가요, 가~
+  ja: いま行きま～す。
+c391_Battle_Enter_1:
+  en: If we're gonna do this, might as well do it right.
+  ko: 이왕 하는 거, 제대로 해보죠 뭐.
+  ja: どうせやるなら、ちゃんとやりますよ。
+c391_Battle_Ready_1:
+  en: Put your head right here.
+  ko: 머리통 딱 대라.
+  ja: 頭、狙いますね。
+c391_Battle_Ready_2:
+  en: Let's finish this quickly!
+  ko: 후딱 끝냅시다~
+  ja: さっさと終わらせましょ～
+c391_Battle_Ready_3:
+  en: Time to show off my skills!
+  ko: 실력 발휘 좀 해볼까~
+  ja: 見せてやりますかっ！
+c391_Reload_1:
+  en: Just like how I did during practice.
+  ko: 배운 대로 써먹기~
+  ja: 習った通りにっと！
+c391_Reload_2:
+  en: Reloaded! Wasn't that cool?
+  ko: 리로드! 좀 멋졌나?
+  ja: リロード！今のイケてた？
+c391_Reload_3:
+  en: Just a second, Teacher!
+  ko: 잠시만요, 쌤!
+  ja: 待ってください、先生！
+c391_Ult_Skill_Ready_1:
+  en: Why are there so many?!
+  ko: 뭐 이리 많아!!
+  ja: なんでこんなにいんの！？
+c391_Ult_Skill_1:
+  en: What are you looking at?! Get lost!
+  ko: 후- 뭘 봐, 꺼져!
+  ja: ふぅ…なに見てんだよ！失せろ！
+c391_FullBurst_1:
+  en: You're all dead!
+  ko: 다 죽었어!!
+  ja: ここで終わりだ！！
+c391_Kill_Monster_1:
+  en: Phew, got you.
+  ko: 헐 이걸 잡네.
+  ja: やば！倒しちゃった。
+c391_Kill_Monster_2:
+  en: These things are so weak!
+  ko: 약해 빠졌네~
+  ja: あ～弱かった。
+c391_Kill_Monster_3:
+  en: Another one bites the dust!
+  ko: 한 놈, 컷!
+  ja: 1体、撃破！
+c391_Damage_1:
+  en: Ugh!
+  ko: 아씨!
+  ja: チッ！
+c391_Damage_2:
+  en: That hurt!
+  ko: 아프다고!
+  ja: 痛いって！
+c391_Damage_3:
+  en: Ow!
+  ko: 읏!
+  ja: うっ！
+c391_Die_1:
+  en: Ow... That really hurts... I'm gonna head to the nurse's office...
+  ko: 아… 아, 개 아파… 쌤 저 보건실 좀요….
+  ja: うっ…マジ痛い…先生、保健室連れてって…
+c391_Win_1:
+  en: Did you see that, Teacher? Wasn't I great?
+  ko: 쌤 봤어요? 저 쩔었죠?!
+  ja: 先生、見ました？私、ヤバかったですよね！？
+c391_01_Lobby_Touch_1:
+  en: |-
+    What do you think of the outfit? I tweaked it myself.
+    Think it’s good enough to apply to Rushae?
+  ko: |-
+    옷 어때요? 제가 직접 리폼한 건데.
+    이 정도면 루셰에 지원서 넣어볼 만하지 않나요?
+  ja: |-
+    この服どうです？自分で手を加えてみたんですよ。
+    ルシェーに履歴書出せるレベルですよね？
+c391_01_Lobby_Touch_2:
+  en: |-
+    Did I buy too much? I'm running out of hands...
+    Hey, Teacher, mind carrying a few things for me?
+  ko: |-
+    너무 많이 샀나? 손이 없네….
+    쌤, 몇 개만 들어주시면 안 돼요~?
+  ja: |-
+    ちょっと買いすぎたかな？持てないや…
+    先生、ちょっと持ってくれません？
+c391_01_Lobby_Touch_3:
+  en: |-
+    Teacher! Come here quickly!
+    There's all sorts of fun things here!
+  ko: |-
+    쌤! 빨리 와봐요~!
+    여기에 재미있는 거 진짜 많아요!
+  ja: |-
+    先生！こっちこっち～！
+    ここ、面白いものいっぱいありますよ！
+c391_01_Lobby_Touch_Love_1:
+  en: It's nice to see you again, Teacher... Do you feel the same way?
+  ko: |-
+    쌤이랑 이렇게 학교 밖에서 만나는 거 좀 두근두근하네요.
+    …쌤은요?
+  ja: |-
+    学校の外で会うなんて、なんだかドキドキします。
+    …先生も…ですか？
+c391_01_Lobby_Touch_Love_2:
+  en: |-
+    If we walk around like this,
+    people might get the wrong idea, right? Hehe.
+  ko: |-
+    이러고 돌아다니면,
+    쌤이랑 저랑 커플인 줄 아는 거 아녜요? 히히.
+  ja: |-
+    こんなふうに一緒にいたら、
+    先生と私、カップルに見えちゃうかも？ひひ。
+c391_01_Lobby_Touch_Love_3:
+  en: |-
+    Let's take a picture together later!
+    I'm gonna go put it up in my dorm!
+  ko: |-
+    이따 같이 사진 찍어요!
+    기숙사 방 안에 붙여두려고요~!
+  ja: |-
+    あとで一緒に写真撮りましょう！
+    部屋に貼りたいんです！
+c391_01_Lobby_Stay_1:
+  en: |-
+    Where did you go, Teacher?
+    If you keep doing this, I'm going to go off and explore on my own!
+  ko: |-
+    아, 어디 갔어요 쌔애앰~!
+    자꾸 이러면 저 혼자 구경하러 가요?!
+  ja: |-
+    あ、先生！どこ行ってたんですか！
+    またどっか行っちゃったら、もう私ひとりで行きますよ！？
+c391_01_Lobby_Stay_Love_1:
+  en: |-
+    I touched up my makeup, and my hair looks nice too.
+    All we need to do now is wait for Teacher to come back, hehe.
+  ko: |-
+    화장 수정했고, 머리 상태도 괜찮고~
+    이제 쌤만 돌아오면 되겠다, 히히.
+  ja: |-
+    メイクも直したし、ヘアスタイルもオッケー。
+    あとは先生が帰ってくるのを待つだけ。ひひ。
+c391_01_Outpost_Touch_1:
+  en: |-
+    They were selling a lot of trinkets for the festival.
+    I really wish there was a festival every day.
+  ko: |-
+    축제라고 액세서리도 많이 팔더라고요.
+    맨날 축제였음 좋겠네요.
+  ja: |-
+    アクセサリーのお店も いっぱいありました。
+    毎日お祭りだったら最高なのに。
+c391_01_Outpost_Touch_2:
+  en: Doesn't it seem like Zwei is super stoked? She's so cute.
+  ko: |-
+    츠바이 선배, 엄청 신난 것 같지 않아요?
+    아무튼 귀엽다니까요~
+  ja: |-
+    ツバイ先輩、 すごく楽しそうじゃありません？
+    先輩はやっぱり可愛いです。
+c391_01_Outpost_Touch_3:
+  en: I wonder if Rupee went to the festival?
+  ko: 루피 언니는 축제 안 보러 왔나…?
+  ja: ルピーさんはお祭り 見に来ないのかな…？
+c391_01_Gacha_Get_1:
+  en: Happy New Year, Teacher!
+  ko: 쌤~! 새해 복 많이 받으세요~!
+  ja: 先生！あけおめで～す！
+c391_01_Reinforce_1:
+  en: I'm going to beat up all my rivals!
+  ko: 경쟁자들 다 이겨 먹으러 갑니다~
+  ja: ライバルを片っ端から倒しに行きま～す。
+c391_01_Reinforce_2:
+  en: At this rate, I'm gonna end up graduating early!
+  ko: 저 이러다가 조기 졸업 같은 거 하면 어떡해요?!
+  ja: 私、この感じだと早めに卒業できちゃうかも？
+c391_01_Reinforce_3:
+  en: |-
+    I'll protect you from here on out, Teacher!
+    ... That sounded pretty cool, didn't it?
+  ko: |-
+    쌤, 이제 제가 지켜드릴게요!
+    …좀 멋있었어요?
+  ja: |-
+    先生は私が守ってあげますからね！
+    …どうです？カッコよくなかったですか？
+c391_01_Gift_1:
+  en: |-
+    Oh my goodness! You didn't have to give me this.
+    It's a festival, so I brought some money of my own.
+  ko: |-
+    아! 진짜! 이런 거 안 주셔도 되는데!
+    축제라고 저도 돈 좀 들고 왔는데! 아~!
+  ja: |-
+    え！マジですか！プレゼントとかいいのに！
+    お祭りのために、私も少しはお金持ってきたのに！あ～！
+c391_01_Gift_2:
+  en: You shouldn't even be allowed to give me such nice things all the time!
+  ko: 쌤, 자꾸 이렇게 좋은 것만 주는 거 유죄라고요~!
+  ja: |-
+    先生、いつもこんなによくしてくれちゃ、
+    ずるいですよ～！
+c391_01_Gift_3:
+  en: Wow, thanks! I'll be sure to buy you something that suits you, Teacher.
+  ko: 와! 감사요! 저도 쌤한테 어울리는 거 하나 사드릴게요.
+  ja: |-
+    わぁ！ありがとうございます！
+    私も先生に似合いそうなの買ってあげますね。
+c391_01_Attractive_Up_1:
+  en: How do I look? It's almost the New Year, and I feel like I've grown up a bit,
+    don't you think?
+  ko: 저 어때요? 새해도 됐는데, 좀 어른스러워진 것 같지 않아요?
+  ja: |-
+    どうです？
+    新年だから少し大人っぽくしてみました。
+c391_01_Attractive_Up_2:
+  en: |-
+    If anyone asks for your phone number at the festival, just say you don't have a phone, okay?
+    Or tell them to get in line!
+  ko: |-
+    축제에서 누가 번호 달라 그러면 폰 없다 그래요, 알았죠?
+    아니면 번호표 뽑으라고 해요!
+  ja: |-
+    お祭りで番号聞かれたら、携帯持ってないって言ってくださいね？
+    それか、番号札取ってこいって！
+c391_01_Attractive_Up_3:
+  en: I wish I could just have fun with you like this every day...
+  ko: 아~ 쌤이랑 맨날 이러고 놀고 싶다….
+  ja: あ～毎日こんなふうに先生と遊びたいな…
+c391_01_Party_Deploy_1:
+  en: Wasn't today supposed to be a festival? It's not a Rapture festival, right?!
+  ko: 오늘 축제 아니었어요? 랩쳐 축제였어요?!
+  ja: |-
+    今日はお祭りじゃないんですか？
+    え？ラプチャーのお祭りだった！？
+c391_01_Field_Touch_1:
+  en: Yep.
+  ko: 넹.
+  ja: はぁい。
+c391_01_Field_Go_1:
+  en: On my way.
+  ko: 가는 중~
+  ja: 移動中～
+c391_01_Battle_Enter_1:
+  en: So you're the ones who ruined my festival!
+  ko: 내 축제 망친 놈들이 너희구나!
+  ja: 私のお祭りを台無しにしやがって！
+c391_01_Battle_Ready_1:
+  en: Let's get this over with so we can go back.
+  ko: 빨리 끝내고 돌아가요.
+  ja: さっさと終わらせて帰りましょう。
+c391_01_Battle_Ready_2:
+  en: These guys are done for!
+  ko: 다 죽었어 진짜!
+  ja: 覚悟しときな！
+c391_01_Battle_Ready_3:
+  en: Ugh! I'm so sick of this.
+  ko: 으~! 지긋지긋해.
+  ja: うぅ～！いい加減にしてよ。
+c391_01_Reload_1:
+  en: Gotta use what I've learned.
+  ko: 또, 배운 대로 써먹기~
+  ja: この前習った通りにっと！
+c391_01_Reload_2:
+  en: Was it like this...?
+  ko: 이렇게… 였나?
+  ja: こう…だったっけ？
+c391_01_Reload_3:
+  en: Reloading!
+  ko: 장전하는 중~
+  ja: 装填中～
+c391_01_Ult_Skill_Ready_1:
+  en: Teacher! Me, me!
+  ko: 쌤! 저요!
+  ja: 先生！私、私！
+c391_01_Ult_Skill_1:
+  en: Give me back my festival!
+  ko: 내 축제 돌려 내!
+  ja: 私のお祭りを返せっ！
+c391_01_FullBurst_1:
+  en: Let's wipe them out!
+  ko: 쓸어버리죠!
+  ja: 片付けちゃいます！
+c391_01_Kill_Monster_1:
+  en: I think I'm doing pretty well!
+  ko: 저 좀 치는 듯!
+  ja: 私って結構使えるんですよ！
+c391_01_Kill_Monster_2:
+  en: No big deal!
+  ko: 별거 아니네~
+  ja: 大したことないじゃ～ん。
+c391_01_Kill_Monster_3:
+  en: Don't mess with me!
+  ko: 깝치지 마라!
+  ja: なめんなよ！
+c391_01_Damage_1:
+  en: Ouch!
+  ko: 아야!
+  ja: ああ！
+c391_01_Damage_2:
+  en: Hey! My clothes!
+  ko: 야! 내 옷~!
+  ja: ちょっと！私の服～！
+c391_01_Damage_3:
+  en: Oh, come on...!
+  ko: 우씨…!
+  ja: うっ…！
+c391_01_Die_1:
+  en: Argh... Teacher... you can't just leave me and go to the festival...
+  ko: 아… 쌤… 저만 두고 축제 가면 안 돼요….
+  ja: あ…先生…私を置いてお祭り行っちゃ…ダメです…
+c391_01_Win_1:
+  en: |-
+    We're going back to see the festival now, aren't we?!
+    Not a Rapture festival, a regular festival!
+  ko: |-
+    이제 축제 다시 보러 가는 거 맞죠?!
+    랩쳐 축제 말고, 그냥 축제요!
+  ja: |-
+    また行けるんですよね！？
+    ラプチャーのお祭りじゃなくて、本当のお祭りに！
+391_cv_ja:
+  en: 'CV: Nao Ojika'
+  ko: 'CV : 오지카 나오'
+  ja: CV：小鹿なお
+391_cv_ko:
+  en: 'CV: Won Esther'
+  ko: 'CV : 원에스더'
+  ja: CV：ウォン・エスター
+391_cv_en:
+  en: 'CV: Jalitza Delgado'
+  ko: 'CV : 얄리차 델가도'
+  ja: CV：Jalitza Delgado

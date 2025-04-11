@@ -1,0 +1,1761 @@
+---
+d_nikke_ce005_03_01:
+  d_nikke_ce005_03_01_1:
+    speaker: "<Narration>"
+    en: Temporary base, clinic.
+    ko: 임시 기지 진료소
+    ja: 臨時基地診療所
+  d_nikke_ce005_03_01_2:
+    speaker: ce005_03
+    en: How was today's hospital meal?
+    ko: 오늘 병원 식사는 어떠셨어요?
+    ja: 今日の病院食はどうでしたか？
+  d_nikke_ce005_03_01_3:
+    speaker: npc_massnikke
+    en: Lady Sakura, thank you. It was really delicious. Thank you for your hard work
+      today as well.
+    ko: |-
+      사쿠라 님, 감사합니다.
+      정말 맛있었어요.
+      오늘도 수고하셨습니다.
+    ja: |-
+      サクラ様、ありがとうございます。
+      とてもおいしかったです。
+      今までお疲れ様でした。
+  d_nikke_ce005_03_01_4:
+    speaker: npc_massnikke
+    en: "... Ugh!"
+    ko: "…윽!"
+    ja: "…うっ！"
+  d_nikke_ce005_03_01_5:
+    speaker: ce005_03
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_nikke_ce005_03_01_6:
+    speaker: ce005_03
+    en: Are you okay?
+    ko: 괜찮으세요?
+    ja: 大丈夫ですか？
+  d_nikke_ce005_03_01_7:
+    speaker: npc_massnikke
+    en: I think my wound has opened up again...
+    ko: 상처가 벌어진 것 같아요….
+    ja: 傷が開いたみたいです…
+  d_nikke_ce005_03_01_8:
+    speaker: ce005_03
+    en: Let me take a look!
+    ko: 보여주세요!
+    ja: 見せてください！
+  d_nikke_ce005_03_01_9:
+    speaker: ce005_03
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_ce005_03_01_10:
+    speaker: ce005_03
+    en: Ah...
+    ko: 앗….
+    ja: あっ…
+  d_nikke_ce005_03_01_11:
+    speaker: ce005_03
+    en: I'm sorry. I'm not familiar with the treatment for Nikkes...
+    ko: 죄송해요. 니케 치료 방법을 잘 몰라서….
+    ja: すみません。ニケの治療法が分からなくて…
+  d_nikke_ce005_03_01_12:
+    speaker: ce005_03
+    en: "... Pepper will be here soon. Please hang in there a little longer!"
+    ko: |-
+      …곧 페퍼 씨가 올 거예요.
+      조금만 기다려 주세요!
+    ja: |-
+      …すぐにペッパーさんが来ます。
+      少しだけ待ってください！
+  d_nikke_ce005_03_01_13:
+    speaker: npc_massnikke
+    en: Ugh... Okay, understood...
+    ko: 윽… 네, 알겠습니다….
+    ja: うっ…はい、分かりました…
+  d_nikke_ce005_03_01_14:
+    speaker: ce005_03
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_ce005_03_01_15:
+    speaker: "<Monologue>"
+    en: After not seeing Sakura for a while, I go outside and find her standing on
+      the deck, gazing at the crimson sea.
+    ko: |-
+      한동안 사쿠라의 모습이 보이지 않아 밖에 나가 보니
+      사쿠라가 갑판에 서서 붉은 바다를 보고 있었다.
+    ja: |-
+      しばらくサクラの姿が見えず、外に出てみると
+      サクラはデッキに立って赤い海を見つめていた
+  d_nikke_ce005_03_01_16:
+    speaker: ce005_03
+    en: "*Sigh*..."
+    ko: 후우….
+    ja: ふう…
+  d_nikke_ce005_03_01_17:
+    speaker: "<Self>"
+    en: Sakura, are you okay?
+    ko: 사쿠라, 괜찮아?
+    ja: サクラ、大丈夫か？
+  d_nikke_ce005_03_01_18:
+    speaker: ce005_03
+    en: Oh, hey Commander.
+    ko: 앗, 지휘관.
+    ja: あっ、指揮官。
+  d_nikke_ce005_03_01_19:
+    speaker: ce005_03
+    en: I'm fine. Thank you for your concern.
+    ko: |-
+      저는 괜찮아요.
+      신경 써 주셔서 감사합니다.
+    ja: |-
+      私は大丈夫です。
+      お気遣いありがとうございます。
+  d_nikke_ce005_03_01_20:
+    speaker: "<Self>"
+    en: I heard you've been staying in the infirmary, providing support.
+    ko: 의무실에 남아 계속 서포트하고 있다고 들었어.
+    ja: 医務室に残ってサポートを続けていると聞いた
+  d_nikke_ce005_03_01_21:
+    speaker: "<Self>"
+    en: Aren't you tired?
+    ko: 힘들지 않아?
+    ja: つらくないか？
+  d_nikke_ce005_03_01_22:
+    speaker: ce005_03
+    en: I stayed to help... but all I could really do was manage supplies.
+    ko: |-
+      도우려고 남아 있던 건데….
+      제가 할 수 있는 일은
+      물자 배분 정도예요.
+    ja: |-
+      手伝うつもりで残ったんですが…
+      私にできる仕事って、
+      物資の配分くらいなんです。
+  d_nikke_ce005_03_01_23:
+    speaker: ce005_03
+    en: Compared to the combat units, what I do is insignificant.
+    ko: 전투원들에 비하면 제 일 같은 건 사소한 일이죠.
+    ja: |-
+      戦闘員たちに比べたら、
+      私の仕事なんて些細なものです。
+  d_nikke_ce005_03_01_24:
+    speaker: "<Self>"
+    en: Your willingness to help alone means a lot to everyone.
+    ko: 도와주는 것만으로도 다들 고마워하고 있어.
+    ja: 手伝ってくれるだけで、みんな感謝している
+  d_nikke_ce005_03_01_25:
+    speaker: "<Self>"
+    en: Pepper is always singing praises of you.
+    ko: 페퍼가 너를 무척 칭찬했어.
+    ja: ペッパーが君のことをとても褒めていた
+  d_nikke_ce005_03_01_26:
+    speaker: ce005_03
+    en: It's nothing.
+    ko: 별거 아니에요.
+    ja: 大したことではありません。
+  d_nikke_ce005_03_01_27:
+    speaker: ce005_03
+    en: I can't fight, and I don't really know what treatment Nikkes use, so as a
+      medical officer...
+    ko: 전투는 못 하고, 니케 치료법도 잘 모르니 의무관으로서….
+    ja: |-
+      戦闘は不得意ですし、
+      ニケの治療法にも詳しくないので、
+      医官として…
+  d_nikke_ce005_03_01_28:
+    speaker: ce005_03
+    en: This is the least I can do.
+    ko: 이 정도는 당연히 해야죠.
+    ja: これくらいできて当然です。
+  d_nikke_ce005_03_01_29:
+    speaker: ce005_03
+    en: If I could be as helpful as Pepper...
+    ko: |-
+      저도 페퍼 씨처럼
+      모두의 도움이 될 수 있다면….
+    ja: |-
+      私もペッパーさんのように
+      みなさんのお役に立てたら…
+  d_nikke_ce005_03_01_30:
+    speaker: ce005_03
+    en: Ah! I just had a great idea.
+    ko: 아! 좋은 생각이 났어요.
+    ja: あっ！いいことを思いつきました。
+  d_nikke_ce005_03_01_31:
+    speaker: ce005_03
+    en: Commander, could you give me a hand?
+    ko: 지휘관, 좀 도와주시겠어요?
+    ja: 指揮官、ちょっと手伝ってくれませんか？
+  d_nikke_ce005_03_01_32:
+    speaker: "<Self>"
+    en: Of course.
+    ko: 물론이지.
+    ja: もちろん
+  d_nikke_ce005_03_01_33:
+    speaker: ce005_03
+    en: I want to learn more about medical treatment for Nikkes!
+    ko: 니케에 관한 의료 지식을 익히고 싶어요!
+    ja: ニケに関する医療知識を身につけたいんです！
+  d_nikke_ce005_03_01_34:
+    speaker: "<Self>"
+    en: If you ask Pepper, I'm sure she'd be more than happy to teach you.
+    ko: |-
+      페퍼에게 물어보면
+      틀림없이 기꺼이 가르쳐줄 거야.
+    ja: |-
+      ペッパーに聞けば、
+      きっと喜んで教えてくれるはずだ
+  d_nikke_ce005_03_01_35:
+    speaker: ce005_03
+    en: Ever since I came to this world, the battles have never stopped.
+    ko: 이 세계에 온 후로 계속 전투가 이어지고 있어요.
+    ja: |-
+      この世界に来てから、
+      ずっと戦闘が続いています。
+  d_nikke_ce005_03_01_36:
+    speaker: ce005_03
+    en: Pepper has been handling a constant stream of injured soldiers all on her
+      own.
+    ko: 끊임없이 실려 오는 부상자를 모두 페퍼 씨가 혼자 대처하고 있어요.
+    ja: |-
+      次々と送られてくる負傷者全員を、
+      ペッパーさんが1人で対応しているんです。
+  d_nikke_ce005_03_01_37:
+    speaker: ce005_03
+    en: That's why I don't want to give her any more trouble than she already has.
+    ko: 그러니까 페퍼 씨에게는 폐를 끼치고 싶지 않아요.
+    ja: |-
+      だからペッパーさんには…
+      迷惑をかけたくありません。
+  d_nikke_ce005_03_01_38:
+    speaker: ce005_03
+    en: A little bird told me you know a lot of Nikkes, Commander. Could you introduce
+      me to another Nikke doctor?
+    ko: |-
+      지휘관은 아는 니케가 많다고 들었어요.
+      다른 니케 의사분을 소개해 주실 수 없을까요?
+    ja: |-
+      指揮官はニケの知り合いが多いと聞きました。
+      他のニケのお医者さんを紹介してくれませんか？
+  d_nikke_ce005_03_01_39:
+    speaker: "<Self>"
+    en: I don't mind, but... they're all in the Ark.
+    ko: 그건 상관없는데… 다들 방주에 있어.
+    ja: 構わないが…みんなアークにいるんだ
+  d_nikke_ce005_03_01_40:
+    speaker: ce005_03
+    en: That's fine, no matter where they are!
+    ko: 어디든지 상관없어요!
+    ja: どこでも大丈夫です！
+  d_nikke_ce005_03_01_41:
+    speaker: ce005_03
+    en: Please introduce me!
+    ko: 소개해 주세요!
+    ja: 紹介してください！
+  d_nikke_ce005_03_01_42:
+    speaker: ce005_03
+    en: I promise I won't make a scene.
+    ko: 절대 폐 끼치지 않을게요.
+    ja: 絶対にご迷惑はおかけしません。
+  d_nikke_ce005_03_01_43:
+    speaker: ce005_03
+    en: Pretty, please!
+    ko: 부디 부탁드려요!
+    ja: どうか、お願いします！
+d_nikke_ce005_03_02:
+  d_nikke_ce005_03_02_1:
+    speaker: ce005_03
+    en: Is this the Ark?
+    ko: 여기가 방주인가요?
+    ja: ここがアークでしょうか？
+  d_nikke_ce005_03_02_2:
+    speaker: "<Self>"
+    en: Yes, what do you think?
+    ko: 맞아, 어때?
+    ja: ああ、どうかしたか？
+  d_nikke_ce005_03_02_3:
+    speaker: ce005_03
+    en: It's full of energy. Like a headless chicken running around, but hey, everyone
+      looks happy...
+    ko: |-
+      활기가 넘치네요.
+      정신없지만 다들 즐거워 보여요….
+    ja: |-
+      活気に溢れていますね。
+      慌ただしいけど、みんな楽しそうですね…
+  d_nikke_ce005_03_02_4:
+    speaker: "<Narration>"
+    en: "*Thunk*"
+    ko: 툭
+    ja: ドンッ
+  d_nikke_ce005_03_02_5:
+    speaker: youngwoman
+    en: Ah... Sorry.
+    ko: 앗… 죄송해요.
+    ja: あっ…すみません…
+  d_nikke_ce005_03_02_6:
+    speaker: ce005_03
+    en: I'm the one who should be apologizing.
+    ko: 저야말로 죄송해요.
+    ja: こちらこそすみません。
+  d_nikke_ce005_03_02_7:
+    speaker: youngwoman
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_ce005_03_02_8:
+    speaker: "<Monologue>"
+    en: The passerby who bumped into Sakura staggers backwards.
+    ko: 사쿠라와 부딪힌 통행인이 비틀거렸다.
+    ja: サクラとぶつかった通行人がよろめいた
+  d_nikke_ce005_03_02_9:
+    speaker: ce005_03
+    en: Are you okay?
+    ko: 괜찮으세….
+    ja: 大丈夫で…
+  d_nikke_ce005_03_02_10:
+    speaker: ce005_03
+    en: Hey! Watch out!
+    ko: 앗! 위험해요!
+    ja: あっ！危ない！
+  d_nikke_ce005_03_02_11:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 털썩
+    ja: ドサッ
+  d_nikke_ce005_03_02_12:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_nikke_ce005_03_02_13:
+    speaker: ce005_03
+    en: "...!!"
+    ko: "……!!!"
+    ja: "……！！！"
+  d_nikke_ce005_03_02_14:
+    speaker: ce005_03
+    en: Are you all right?!
+    ko: 괜찮으세요?!
+    ja: 大丈夫ですか！？
+  d_nikke_ce005_03_02_15:
+    speaker: ce005_03
+    en: "... She's unconscious."
+    ko: "…의식이 없어요."
+    ja: "…意識がない。"
+  d_nikke_ce005_03_02_16:
+    speaker: ce005_03
+    en: Commander, we need paramedics right away!
+    ko: 지휘관, 어서 구급대에 연락을…!
+    ja: 指揮官、早く救急隊に連絡を…！
+  d_nikke_ce005_03_02_17:
+    speaker: "<Self>"
+    en: The hospital is nearby. It's quicker to take her there.
+    ko: 병원이 바로 근처에 있어. 데려가는 게 빨라.
+    ja: 病院はすぐ隣だ。連れていった方が早い
+  d_nikke_ce005_03_02_18:
+    speaker: ce005_03
+    en: Understood. Please show me the way!
+    ko: 알겠어요. 안내해 주세요!
+    ja: 分かりました。案内してください！
+  d_nikke_ce005_03_02_19:
+    speaker: "<Narration>"
+    en: Hospital entrance.
+    ko: 병원 입구
+    ja: 病院の入口
+  d_nikke_ce005_03_02_20:
+    speaker: mary
+    en: Hello, Commander...
+    ko: 안녕하세요, 지휘….
+    ja: こんにちは、指揮…
+  d_nikke_ce005_03_02_21:
+    speaker: mary
+    en: Oh my.
+    ko: 어머나.
+    ja: まあ。
+  d_nikke_ce005_03_02_22:
+    speaker: mary
+    en: "... A patient, huh? Please gently lay her down here."
+    ko: "…환자네요. 여기 눕혀 주세요."
+    ja: "…患者ですね。こちらに寝かせてください。"
+  d_nikke_ce005_03_02_23:
+    speaker: ce005_03
+    en: All right.
+    ko: 네.
+    ja: はい。
+  d_nikke_ce005_03_02_24:
+    speaker: ce005_03
+    en: She was staggering on the street and suddenly collapsed.
+    ko: 길에서 비틀거리더니 갑자기 쓰러졌어요.
+    ja: 道路でふらついて、急に倒れたんです。
+  d_nikke_ce005_03_02_25:
+    speaker: ce005_03
+    en: Considering the initial symptoms I've noticed, it's likely a brain hemorrhage.
+    ko: 증상을 보면 뇌출혈일 가능성이 있어요.
+    ja: 症状から考えて、脳出血の疑いがあります。
+  d_nikke_ce005_03_02_26:
+    speaker: ce005_03
+    en: We brought her here as quickly as possible, so with the right treatment, there
+      shouldn't be any long-term effects.
+    ko: |-
+      바로 데려왔으니 적절한 치료를 하면
+      후유증은 없을 거예요.
+    ja: |-
+      すぐに連れてきたので、適切に治療を行えば
+      後遺症はないはずです。
+  d_nikke_ce005_03_02_27:
+    speaker: mary
+    en: That's an accurate diagnosis.
+    ko: 정확한 진단이네요.
+    ja: 的確な診断ですね。
+  d_nikke_ce005_03_02_28:
+    speaker: mary
+    en: Thank you. I'll get ready right away.
+    ko: 감사합니다. 바로 준비할게요.
+    ja: ありがとうございます。すぐに準備します。
+  d_nikke_ce005_03_02_29:
+    speaker: mary
+    en: Commander, I'm sorry. You've come all this way, but it seems like you'll have
+      to wait for a bit.
+    ko: |-
+      지휘관, 죄송해요.
+      모처럼 와 주셨는데
+      조금 기다리셔야 할 것 같아요.
+    ja: |-
+      指揮官、すみません。
+      せっかくお越しいただいたのに、
+      少々お待ちいただくことになりそうです。
+  d_nikke_ce005_03_02_30:
+    speaker: "<Self>"
+    en: It's okay. A person's life is more important than anything.
+    ko: 괜찮아. 사람 목숨이 중요하지.
+    ja: 問題ない。人命第一だからな
+  d_nikke_ce005_03_02_31:
+    speaker: mary
+    en: Hehe, then please wait just a little longer.
+    ko: 후후, 그럼 잠시만 기다려 주세요~
+    ja: ふふ、では少しお待ちくださいね～
+  d_nikke_ce005_03_02_32:
+    speaker: "<Narration>"
+    en: Mary pushes the stretcher with the patient into the hospital room.
+    ko: |-
+      메어리는 환자가 누워 있는
+      들것을 밀며 병실로 들어갔다.
+    ja: |-
+      メアリーは患者が横たわっている
+      ストレッチャーを押して病室に入った
+  d_nikke_ce005_03_02_33:
+    speaker: "<Narration>"
+    en: Moments later.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_nikke_ce005_03_02_34:
+    speaker: mary
+    en: Sorry for keeping you waiting.
+    ko: 죄송해요. 기다리셨죠~
+    ja: すみません。お待たせしました～
+  d_nikke_ce005_03_02_35:
+    speaker: mary
+    en: Is this the Sakura you were talking about, Commander?
+    ko: |-
+      이분이… 지휘관이 말씀하신
+      사쿠라인가요?
+    ja: |-
+      こちらが…指揮官がおっしゃっていた
+      サクラですか？
+  d_nikke_ce005_03_02_36:
+    speaker: "<Self>"
+    en: Yes.
+    ko: 응.
+    ja: ああ
+  d_nikke_ce005_03_02_37:
+    speaker: ce005_03
+    en: Nice to meet you. I'm Sakura Suzuhara.
+    ko: 처음 뵙겠습니다. 스즈하라 사쿠라라고 합니다.
+    ja: 初めまして。鈴原サクラと言います。
+  d_nikke_ce005_03_02_38:
+    speaker: mary
+    en: Hello, I'm Mary. I'm a doctor from the Seraphim Squad.
+    ko: |-
+      안녕하세요, 저는 메어리예요.
+      세라핌 스쿼드 소속의 의사예요~
+    ja: |-
+      初めまして、私はメアリー。
+      セラフィム部隊所属の医者です～
+  d_nikke_ce005_03_02_39:
+    speaker: mary
+    en: I heard you've been helping out a lot.
+    ko: 일을 많이 도와주고 계시다고 들었어요.
+    ja: |-
+      沢山お手伝いしてくださっている
+      そうですね。
+  d_nikke_ce005_03_02_40:
+    speaker: mary
+    en: I'd love to help in any way if I had the time.
+    ko: |-
+      저도 시간이 있으면
+      도우러 가고 싶은데~
+    ja: |-
+      私も、時間があったら
+      お手伝いにいきたいんですが～…
+  d_nikke_ce005_03_02_41:
+    speaker: ce005_03
+    en: It looks really busy here, too.
+    ko: 여기도 무척 바빠 보이네요.
+    ja: ここもすごく忙しそうですね。
+  d_nikke_ce005_03_02_42:
+    speaker: ce005_03
+    en: By the way, how is the patient from earlier?
+    ko: 참, 아까 환자는 어떤가요?
+    ja: あ、さっきの患者さんの容体は？
+  d_nikke_ce005_03_02_43:
+    speaker: mary
+    en: Fortunately, you two found her and brought her here as soon as you could.
+      Thanks to you two, she's fine.
+    ko: |-
+      다행히 두 분이 바로 발견해 주신 덕분에
+      무사해요~
+    ja: |-
+      幸い、お二人がすぐに発見してくださったので
+      大事には至りませんでした～
+  d_nikke_ce005_03_02_44:
+    speaker: mary
+    en: But I was a bit surprised.
+    ko: 하지만 정말 놀랐어요.
+    ja: ですが、本当に驚きました。
+  d_nikke_ce005_03_02_45:
+    speaker: mary
+    en: I heard from the Commander that you wanted to learn some medical knowledge,
+      so I thought a rookie would be coming...
+    ko: |-
+      지휘관에게 당신이 의료 지식을
+      익히고 싶어 한다고 들었거든요.
+      그래서 신입이 올 줄 알았는데….
+    ja: |-
+      指揮官から、あなたが医療知識を
+      身に着けたがっていると聞いたんです。
+      だからてっきり、新人が来るものと…
+  d_nikke_ce005_03_02_46:
+    speaker: mary
+    en: But what you did earlier was nothing short of masterful.
+    ko: |-
+      하지만 조금 전의 처치는
+      명의 그 자체던데요~?
+    ja: |-
+      でも先ほどの処置は、
+      まるで名医そのものでしたよ～？
+  d_nikke_ce005_03_02_47:
+    speaker: ce005_03
+    en: I'm embarrassed to admit, but I was originally a medical officer... A medical
+      officer who treated humans.
+    ko: |-
+      부끄럽지만 원래는 의무관이었어요.
+      인간을 치료하는 의무관이요.
+    ja: |-
+      お恥ずかしながら、
+      元々は医官をやっていました。
+      人間を治療する医官として。
+  d_nikke_ce005_03_02_48:
+    speaker: ce005_03
+    en: That's why I don't know anything about how to treat Nikkes.
+    ko: 니케에 관해서는 전혀 몰라서….
+    ja: ニケに関しては全くわからず…
+  d_nikke_ce005_03_02_49:
+    speaker: ce005_03
+    en: As a result, I'm not of much help on the front lines...
+    ko: 최전선에서는 도움이 안 돼요….
+    ja: 戦場の最前線では使い物にならなくて…
+  d_nikke_ce005_03_02_50:
+    speaker: mary
+    en: Don't say that, Sakura.
+    ko: 사쿠라, 그런 말 마세요.
+    ja: サクラ、そんなこと言わないでください。
+  d_nikke_ce005_03_02_51:
+    speaker: mary
+    en: Becoming a doctor already takes unimaginable effort.
+    ko: |-
+      의사가 된 시점에서
+      이미 상상을 뛰어넘는 노력을 한 거예요.
+    ja: |-
+      医者になった時点で、
+      想像を超えるような努力をされているんです。
+  d_nikke_ce005_03_02_52:
+    speaker: mary
+    en: You're so kind, Sakura.
+    ko: 사쿠라는 다정하네요.
+    ja: サクラは優しいんですね。
+  d_nikke_ce005_03_02_53:
+    speaker: mary
+    en: Right now, you just don't know how to treat Nikkes yet, that's all.
+    ko: 지금은 그저 니케의 치료법을 모르는 것뿐이죠.
+    ja: 今はただ、ニケの治療法を知らないだけ。
+  d_nikke_ce005_03_02_54:
+    speaker: mary
+    en: But I’m sure you’ll pick it up in no time.
+    ko: 사쿠라라면 금방 배울 수 있어요.
+    ja: サクラならすぐに覚えられますよ。
+  d_nikke_ce005_03_02_55:
+    speaker: ce005_03
+    en: Really...? Would you be willing to teach me?
+    ko: 정말인가요…? 가르쳐 주시겠어요?
+    ja: 本当ですか…？教えていただけますか？
+  d_nikke_ce005_03_02_56:
+    speaker: mary
+    en: Hehe. You don't have to be so polite.
+    ko: 후후~ 그렇게 예의 차리지 않아도 괜찮아요.
+    ja: ふふ～そんなにかしこまらなくて大丈夫ですよ。
+  d_nikke_ce005_03_02_57:
+    speaker: mary
+    en: Let's call it an exchange of information.
+    ko: 정보 교환인 걸로 해요.
+    ja: 情報交換ってことにしましょう。
+  d_nikke_ce005_03_02_58:
+    speaker: ce005_03
+    en: How exactly should we do it?
+    ko: 정보 교환…?
+    ja: 情報交換…？
+  d_nikke_ce005_03_02_59:
+    speaker: mary
+    en: There are many human patients here.
+    ko: 네. 이곳에는 인간 환자도 많아요.
+    ja: |-
+      はい。ここには人間の患者さんも
+      たくさんいます。
+  d_nikke_ce005_03_02_60:
+    speaker: mary
+    en: You'll teach me how to treat humans, and I'll show you how we treat Nikkes.
+    ko: |-
+      사쿠라는 인간의, 저는 니케의 치료법을
+      서로 가르쳐주는 거예요.
+    ja: |-
+      サクラは人間の、私はニケの治療法を
+      お互いに教え合うんです。
+  d_nikke_ce005_03_02_61:
+    speaker: mary
+    en: How does that sound?
+    ko: 어때요?
+    ja: どうでしょうか。
+  d_nikke_ce005_03_02_62:
+    speaker: ce005_03
+    en: "!"
+    ko: 아…!
+    ja: あっ…！
+  d_nikke_ce005_03_02_63:
+    speaker: ce005_03
+    en: Deal!
+    ko: 물론이에요!
+    ja: もちろんです！
+  d_nikke_ce005_03_02_64:
+    speaker: ce005_03
+    en: Commander, is it okay if I study here for a while?
+    ko: |-
+      지휘관,
+      한동안 여기서 공부해도 될까요?
+    ja: |-
+      指揮官、
+      しばらくここで勉強してもいいですか？
+  d_nikke_ce005_03_02_65:
+    speaker: "<Self>"
+    en: Of course, you can.
+    ko: 물론이지.
+    ja: もちろんだ
+  d_nikke_ce005_03_02_66:
+    speaker: ce005_03
+    en: Thank you!
+    ko: 감사합니다!
+    ja: ありがとうございます！
+  d_nikke_ce005_03_02_67:
+    speaker: ce005_03
+    en: Then, Mary, I'm looking forward to working with you!
+    ko: 그럼 메어리 선생님. 잘 부탁드립니다!
+    ja: では、メアリー先生。よろしくお願いします！
+  d_nikke_ce005_03_02_68:
+    speaker: mary
+    en: I'm looking forward to it too.
+    ko: 저야말로 잘 부탁드려요~
+    ja: こちらこそ～
+d_nikke_ce005_03_03:
+  d_nikke_ce005_03_03_1:
+    speaker: "<Monologue>"
+    en: I stop by the hospital again to check on Sakura.
+    ko: |-
+      사쿠라를 살펴보러
+      다시 병원에 들렀다.
+    ja: |-
+      サクラの様子を見るために、
+      再び病院を訪れた
+  d_nikke_ce005_03_03_2:
+    speaker: "<Monologue>"
+    en: When I arrive, I am told that Sakura is in surgery.
+    ko: 도착하니 사쿠라는 수술 중이라고 한다.
+    ja: 到着すると、サクラは手術中だという
+  d_nikke_ce005_03_03_3:
+    speaker: "<Monologue>"
+    en: I wait in the hallway, my mind filled with questions... Time passes, and the
+      moment the lamp goes out, the operating room door opens.
+    ko: |-
+      의문을 가지고 복도에서 기다렸다….
+      시간이 흐르고, 램프가 꺼짐과 동시에
+      수술실 문이 열렸다.
+    ja: |-
+      疑問を抱えながら廊下で待つ…
+      しばらくすると、ランプの消灯と共に
+      手術室の扉が開いた
+  d_nikke_ce005_03_03_4:
+    speaker: sadman
+    en: Doctor! H-how's the surgery?
+    ko: 선생님! 수… 수술은 어떻게 됐습니까?
+    ja: 先生！しゅ…手術はどうなりました？
+  d_nikke_ce005_03_03_5:
+    speaker: mary
+    en: The surgery was a success.
+    ko: 안심하세요. 무사히 끝났어요.
+    ja: ご安心ください。無事に終わりましたよ。
+  d_nikke_ce005_03_03_6:
+    speaker: mary
+    en: We're preparing to move the patient to the room, so please wait a little longer.
+    ko: |-
+      환자를 병실로 옮길 준비를 하고 있으니
+      조금만 기다려 주세요.
+    ja: |-
+      患者を病室に移す準備をしているので、
+      少々お待ちください。
+  d_nikke_ce005_03_03_7:
+    speaker: ce005_03
+    en: Phew...
+    ko: 후우….
+    ja: ふう…
+  d_nikke_ce005_03_03_8:
+    speaker: mary
+    en: Good job, Sakura. It must have been hard, right?
+    ko: 사쿠라, 수고했어요. 힘들었죠?
+    ja: サクラ、お疲れ様でした。大変だったでしょう？
+  d_nikke_ce005_03_03_9:
+    speaker: mary
+    en: There's so much to learn from Sakura's surgery.
+    ko: 사쿠라의 수술은 정말 배울 점이 많네요.
+    ja: サクラのオペは本当に勉強になります。
+  d_nikke_ce005_03_03_10:
+    speaker: ce005_03
+    en: While learning about Nikkes' treatment methods, I also reconsidered my own
+      surgical approach.
+    ko: |-
+      니케의 치료법을 배우면서
+      제 자신의 수술 방식도 다시 살펴봤거든요.
+    ja: |-
+      ニケの治療法を学びながら、
+      自分のオペの仕方も見直してみたんです。
+  d_nikke_ce005_03_03_11:
+    speaker: "<Self>"
+    en: It seems the surgery was successful.
+    ko: 수술은 성공한 모양이네.
+    ja: 手術は成功したようだな
+  d_nikke_ce005_03_03_12:
+    speaker: mary
+    en: Yes, it's all thanks to Sakura.
+    ko: 네, 사쿠라 덕분이에요.
+    ja: はい。サクラのおかげです。
+  d_nikke_ce005_03_03_13:
+    speaker: mary
+    en: The diagnosis was quick, and the surgery went smoothly, so she'll recover
+      soon.
+    ko: |-
+      진단도 빨랐고, 수술도 무사히 끝났으니
+      금방 회복할 거예요~
+    ja: |-
+      診断も早く、手術も無事に終わったので
+      すぐに回復するはずですよ～
+  d_nikke_ce005_03_03_14:
+    speaker: mary
+    en: It's thanks to Sakura that she was discovered.
+    ko: 사쿠라가 환자를 발견해 준 덕분이에요.
+    ja: サクラが患者さんを発見してくれたおかげです。
+  d_nikke_ce005_03_03_15:
+    speaker: mary
+    en: If you had found her any later, I can't even begin to imagine what might have
+      happened.
+    ko: |-
+      발견이 늦었다면 어떻게 됐을지….
+      상상도 하고 싶지 않아요.
+    ja: |-
+      発見が遅れていたら、どうなっていたか…
+      想像もしたくありません。
+  d_nikke_ce005_03_03_16:
+    speaker: "<Self>"
+    en: So this patient is the one...
+    ko: 이 환자는 분명….
+    ja: この患者は確か…
+  d_nikke_ce005_03_03_17:
+    speaker: ce005_03
+    en: Yes, the one who collapsed right in front of me last time.
+    ko: 네. 저번에 눈앞에서 쓰러진 분이에요.
+    ja: はい。この間目の前で急に倒れた方です。
+  d_nikke_ce005_03_03_18:
+    speaker: mary
+    en: I'm going to move the patient, so you two can talk.
+    ko: |-
+      저는 환자를 옮기러 갈 테니
+      두 분은 얘기 나누고 계세요~
+    ja: |-
+      私は患者さんを運ぶので、
+      お二人はお話しててくださいね～
+  d_nikke_ce005_03_03_19:
+    speaker: mary
+    en: Please excuse me.
+    ko: 지휘관, 죄송해요. 먼저 실례할게요~
+    ja: 指揮官、すみません。お先に失礼します～
+  d_nikke_ce005_03_03_20:
+    speaker: "<Self>"
+    en: Of course.
+    ko: 그래, 알았어.
+    ja: ああ、分かった
+  d_nikke_ce005_03_03_21:
+    speaker: ce005_03
+    en: Mary doesn't seem to know the meaning of rest...
+    ko: 메어리 씨는 정말 지칠 줄을 모르네요….
+    ja: メアリーさんは本当、疲れ知らずですね…
+  d_nikke_ce005_03_03_22:
+    speaker: "<Self>"
+    en: Nikkes are definitely different from us, but Mary especially tends to push
+      herself too much.
+    ko: |-
+      니케는 확실히 우리와 다르지만
+      메어리는 특히 무리하는 편이야.
+    ja: |-
+      ニケは確かに私たちと違うが、
+      メアリーは特に無理をする方なんだ
+  d_nikke_ce005_03_03_23:
+    speaker: ce005_03
+    en: I see...
+    ko: 그런….
+    ja: そんな…
+  d_nikke_ce005_03_03_24:
+    speaker: ce005_03
+    en: Nikkes also needs rest. Commander, please try to convince Mary.
+    ko: |-
+      니케도 휴식은 필요해요.
+      지휘관이 메어리 씨를 설득해 주세요.
+    ja: |-
+      ニケだって休憩が必要です。
+      指揮官がメアリーさんを説得してください。
+  d_nikke_ce005_03_03_25:
+    speaker: "<Choice>"
+    en: I'm on it. But why did you go into the operating room?
+    ko: 알았어. 그런데 사쿠라가 왜 수술실에 들어간 거야?
+    ja: 分かった。でも、どうしてサクラが手術室に？
+  d_nikke_ce005_03_03_26:
+    speaker: "<Choice>"
+    en: I thought you just wanted to learn...
+    ko: 공부만 하는 건 줄 알았는데….
+    ja: てっきり勉強だけをするのだと…
+  d_nikke_ce005_03_03_27:
+    speaker: ce005_03
+    en: There are a lot of patients here.
+    ko: 여기는 환자가 정말 많아요.
+    ja: ここは患者がとても多いんです。
+  d_nikke_ce005_03_03_28:
+    speaker: ce005_03
+    en: Mary said it was fine if I didn't help, but...
+    ko: |-
+      메어리 씨는 돕지 않아도
+      괜찮다고 했지만….
+    ja: |-
+      メアリーさんは手伝わなくてもいいと
+      言っていましたが…
+  d_nikke_ce005_03_03_29:
+    speaker: ce005_03
+    en: I just couldn't leave the patient in front of me like that.
+    ko: |-
+      눈앞에 있는 환자를
+      그냥 내버려둘 수는 없었어요.
+    ja: |-
+      目の前にいる患者を見て、
+      じっとしていられませんでした。
+  d_nikke_ce005_03_03_30:
+    speaker: ce005_03
+    en: I also feel at ease this way.
+    ko: 이편이 저도 마음이 편해요.
+    ja: この方が私も気が楽なんです。
+  d_nikke_ce005_03_03_31:
+    speaker: ce005_03
+    en: At least I can help treat humans.
+    ko: |-
+      적어도 인간을 치료하는 건
+      도울 수 있으니까요.
+    ja: |-
+      少なくとも、人間の治療は
+      お手伝いできますから。
+  d_nikke_ce005_03_03_32:
+    speaker: "<Narration>"
+    en: "*Beep* *Beep* *Beep*"
+    ko: 삐삐삐삐, 삐삐삐삐.
+    ja: ピピピッ、ピピピッ
+  d_nikke_ce005_03_03_33:
+    speaker: "<Narration>"
+    en: An alarm rings from Sakura's pocket.
+    ko: 사쿠라의 주머니에서 알람이 울린다.
+    ja: サクラのポケットからアラーム音が鳴る
+  d_nikke_ce005_03_03_34:
+    speaker: ce005_03
+    en: Ah! My break is over. I have to hit the books.
+    ko: |-
+      아! 휴식 시간이 끝났네요.
+      책을 읽어야 해요.
+    ja: |-
+      あっ！休憩時間が終わりました。
+      本を読まないと。
+  d_nikke_ce005_03_03_35:
+    speaker: "<Self>"
+    en: What kind of book?
+    ko: 책?
+    ja: 本？
+  d_nikke_ce005_03_03_36:
+    speaker: ce005_03
+    en: It's a medical book about Nikkes that Mary prepared for me.
+    ko: |-
+      네. 메어리 씨가 준비해 준
+      니케의 의학 책이에요.
+    ja: |-
+      はい。メアリーさんが用意してくれた
+      ニケの医学本です。
+  d_nikke_ce005_03_03_37:
+    speaker: ce005_03
+    en: Even though she was so busy, she made time to prepare the book for me and
+      even left me a note.
+    ko: |-
+      그렇게 바쁜 와중에 시간을 내서
+      책을 준비해 줬어요. 메모까지 남겨 주고요.
+    ja: |-
+      あんなに忙しい中、時間を作って
+      本を用意してくれたんです。それにメモまで。
+  d_nikke_ce005_03_03_38:
+    speaker: ce005_03
+    en: That's why I want to repay Mary's kindness.
+    ko: 그러니까 저도 메어리 씨의 마음에 보답하고 싶어요.
+    ja: |-
+      だから私もメアリーさんの気持ちに
+      応えたいです。
+  d_nikke_ce005_03_03_39:
+    speaker: "<Self>"
+    en: But... the surgery just ended, right?
+    ko: 하지만… 방금 수술이 끝났잖아?
+    ja: でも…手術が終わったばかりだろう？
+  d_nikke_ce005_03_03_40:
+    speaker: ce005_03
+    en: I don't have much time, so I can't rest.
+    ko: 시간도 얼마 없는데 쉴 수 없어요.
+    ja: 時間も少ないですし、休めませんよ。
+  d_nikke_ce005_03_03_41:
+    speaker: ce005_03
+    en: Commander, Pepper, Mary... I want to support everyone...
+    ko: |-
+      지휘관, 페퍼 씨, 메어리 씨….
+      모두를 서포트할 수 있도록….
+    ja: |-
+      指揮官、ペッパーさん、メアリーさん…
+      皆さんをサポートできるよう…
+  d_nikke_ce005_03_03_42:
+    speaker: ce005_03
+    en: So I'll do my best.
+    ko: 열심히 할 거예요.
+    ja: 頑張ります。
+  d_nikke_ce005_03_03_43:
+    speaker: ce005_03
+    en: It must be exhausting for you to come all this way.
+    ko: 일부러 와 주셨는데 죄송해요.
+    ja: わざわざ来てくださったのに、すみません。
+  d_nikke_ce005_03_03_44:
+    speaker: ce005_03
+    en: I'm fine, don't worry about that.
+    ko: 저는 괜찮으니까 걱정하지 마세요.
+    ja: 私は大丈夫なので、心配しないでください。
+  d_nikke_ce005_03_03_45:
+    speaker: "<Self>"
+    en: All right. Don't push yourself too hard.
+    ko: 알았어. 무리하지는 마.
+    ja: 分かった。無理はするなよ
+  d_nikke_ce005_03_03_46:
+    speaker: ce005_03
+    en: Got it!
+    ko: 네!
+    ja: はい！
+  d_nikke_ce005_03_03_47:
+    speaker: "<Self>"
+    en: Sakura and Mary... the way they both work so hard...
+    ko: 사쿠라와 메어리. 둘 다 노력하는 모습이….
+    ja: |-
+      サクラとメアリー。
+      2人とも、努力している姿が…
+  d_nikke_ce005_03_03_48:
+    speaker: "<Self>"
+    en: I could've mistaken them for sisters.
+    ko: 정말 똑 닮았어.
+    ja: 本当にそっくりだ
+d_nikke_ce005_03_04:
+  d_nikke_ce005_03_04_1:
+    speaker: mary
+    en: Commander, don't you think Sakura is pushing herself too hard?
+    ko: |-
+      지휘관. 사쿠라가 너무
+      열심히 한다고 생각하지 않으세요~?
+    ja: |-
+      指揮官。サクラ、頑張りすぎていると
+      思いませんか～？
+  d_nikke_ce005_03_04_2:
+    speaker: "<Self>"
+    en: Yeah, I'm also worried about her.
+    ko: 그래, 무리하는 건 아닌지 걱정돼.
+    ja: ああ、無理しているんじゃないか心配だ
+  d_nikke_ce005_03_04_3:
+    speaker: mary
+    en: Sakura is pure-hearted and works incredibly hard.
+    ko: 사쿠라는 순수하고 정말 열심히 노력해요.
+    ja: サクラは純粋で頑張り屋さんです。
+  d_nikke_ce005_03_04_4:
+    speaker: mary
+    en: She's giving it all she got, from the bottom of her heart, to save everyone.
+    ko: |-
+      그리고 모두를 구하기 위해 진심으로….
+      최선을 다하고 있어요.
+    ja: |-
+      そして、みんなを救うために本気で…
+      全力を尽くしています。
+  d_nikke_ce005_03_04_5:
+    speaker: mary
+    en: But at this rate, she's going to faint.
+    ko: 하지만 이대로는 쓰러져 버릴 거예요.
+    ja: でも、このままでは倒れてしまうでしょう。
+  d_nikke_ce005_03_04_6:
+    speaker: "<Self>"
+    en: That goes for you too, Mary.
+    ko: 그건 메어리도 마찬가지잖아.
+    ja: それはメアリーも同じだろう
+  d_nikke_ce005_03_04_7:
+    speaker: mary
+    en: I know you care about me, Commander, but I'm a Nikke.
+    ko: |-
+      지휘관이 저를 아끼는 마음은 알지만
+      저는 니케예요.
+    ja: |-
+      指揮官が私を大切に思う気持ちは分かりますが、
+      私はニケです。
+  d_nikke_ce005_03_04_8:
+    speaker: mary
+    en: But Sakura isn't. One day, she's going to run out of strength...
+    ko: |-
+      하지만 사쿠라는 아니에요.
+      언젠가 체력이 다 떨어지겠죠….
+    ja: |-
+      でも、サクラは違います。
+      いつか、体力が底をついてしまうはず…
+  d_nikke_ce005_03_04_9:
+    speaker: mary
+    en: That's why you need to talk to her, Commander.
+    ko: 그러니까 지휘관이 사쿠라를 설득해 주세요.
+    ja: ですから、指揮官がサクラを説得してください。
+  d_nikke_ce005_03_04_10:
+    speaker: "<Self>"
+    en: Hmm...
+    ko: 으음….
+    ja: うーん…
+  d_nikke_ce005_03_04_11:
+    speaker: "<Narration>"
+    en: I head back to the hospital.
+    ko: 다시 병원을 찾았다.
+    ja: 再び病院を訪れた
+  d_nikke_ce005_03_04_12:
+    speaker: "<Narration>"
+    en: In the distance, Sakura stands at the entrance, talking to a Nikke.
+    ko: |-
+      저 멀리 입구에 사쿠라가 보였다.
+      니케와 대화하고 있는 듯하다.
+    ja: |-
+      遠くの入口にサクラが見えた。
+      ニケと話しているようだ
+  d_nikke_ce005_03_04_13:
+    speaker: cheerfulnikke
+    en: Thank you so much!
+    ko: 정말 감사합니다.
+    ja: 本当にありがとうございます。
+  d_nikke_ce005_03_04_14:
+    speaker: cheerfulnikke
+    en: You've saved my life!
+    ko: 덕분에 살았어요!
+    ja: おかげで助かりました！
+  d_nikke_ce005_03_04_15:
+    speaker: ce005_03
+    en: You're very welcome.
+    ko: 천만에요.
+    ja: どういたしまして。
+  d_nikke_ce005_03_04_16:
+    speaker: ce005_03
+    en: Just... please try not to get injured again.
+    ko: 이제 다치지 마세요.
+    ja: もうケガしないでくださいね。
+  d_nikke_ce005_03_04_17:
+    speaker: cheerfulnikke
+    en: But if I do, you'll be there to heal me, right, Sakura?
+    ko: |-
+      다쳐도 사쿠라 씨가
+      치료해 주실 거잖아요.
+    ja: |-
+      ケガをしても、サクラさんが
+      治してくれるじゃないですか。
+  d_nikke_ce005_03_04_18:
+    speaker: cheerfulnikke
+    en: Besides, I feel lighter than ever!
+    ko: 게다가 전보다 몸이 가벼워진 것 같아요!
+    ja: それに、前より体が軽くなった気がします！
+  d_nikke_ce005_03_04_19:
+    speaker: cheerfulnikke
+    en: Look!
+    ko: 보세요!
+    ja: 見てください！
+  d_nikke_ce005_03_04_20:
+    speaker: ce005_03
+    en: Wait! You shouldn't be making sudden movements!
+    ko: 갑자기 격렬하게 움직이면 안 돼요!
+    ja: ダメですよ！急に激しく動いちゃ！
+  d_nikke_ce005_03_04_21:
+    speaker: cheerfulnikke
+    en: Ah!
+    ko: 앗, 죄송해요!
+    ja: あっ、すみません！
+  d_nikke_ce005_03_04_22:
+    speaker: cheerfulnikke
+    en: I just got so excited...
+    ko: 너무 기뻐서 그만….
+    ja: 嬉しさのあまり、つい…
+  d_nikke_ce005_03_04_23:
+    speaker: cheerfulnikke
+    en: This is the first time I've been treated like a human... and it's also by
+      a human.
+    ko: |-
+      인간처럼 치료받은 건 처음이거든요….
+      그것도 인간에게요.
+    ja: |-
+      初めてなんです…
+      人間と同じように治療してもらったの…
+      それも、人間に。
+  d_nikke_ce005_03_04_24:
+    speaker: ce005_03
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_ce005_03_04_25:
+    speaker: cheerfulnikke
+    en: Can I... give you a hug?
+    ko: 안아 봐도 될까요?
+    ja: ハグしてもいいですか？
+  d_nikke_ce005_03_04_26:
+    speaker: ce005_03
+    en: Huh?
+    ko: 네에?
+    ja: ええ？
+  d_nikke_ce005_03_04_27:
+    speaker: cheerfulnikke
+    en: Oh, sorry... not big on hugs?
+    ko: 앗, 죄송해요… 싫으셨어요?
+    ja: あっ。ごめんなさい…嫌ですよね？
+  d_nikke_ce005_03_04_28:
+    speaker: ce005_03
+    en: No, it's not that. I was just surprised. Of course, I'd love to!
+    ko: 아니에요, 그냥 놀라서 그래요. 물론 좋아요!
+    ja: |-
+      いいえ。少し驚いただけです。
+      もちろんいいですよ！
+  d_nikke_ce005_03_04_29:
+    speaker: cheerfulnikke
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_ce005_03_04_30:
+    speaker: cheerfulnikke
+    en: Thank you for everything.
+    ko: 신세 많이 졌습니다. 감사해요.
+    ja: お世話になりました。ありがとうございました。
+  d_nikke_ce005_03_04_31:
+    speaker: cheerfulnikke
+    en: Truly.
+    ko: 정말 감사합니다….
+    ja: 本当に、ありがとうございました…
+  d_nikke_ce005_03_04_32:
+    speaker: ce005_03
+    en: No, it's me who should be thanking you.
+    ko: 저야말로 감사합니다.
+    ja: こちらこそ、ありがとうございました。
+  d_nikke_ce005_03_04_33:
+    speaker: ce005_03
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_ce005_03_04_34:
+    speaker: cheerfulnikke
+    en: I should get back to my squad!
+    ko: 저는 스쿼드로 돌아갈게요!
+    ja: 私は部隊に戻ります！
+  d_nikke_ce005_03_04_35:
+    speaker: cheerfulnikke
+    en: I'll keep fighting for humanity!
+    ko: 앞으로도 계속 싸울 거예요! 인류를 위해!
+    ja: これからも戦い続けます！人類のために！
+  d_nikke_ce005_03_04_36:
+    speaker: ce005_03
+    en: That'd be great!
+    ko: 네!
+    ja: はい…！
+  d_nikke_ce005_03_04_37:
+    speaker: "<Narration>"
+    en: The Nikke gives Sakura a deep bow before running off.
+    ko: |-
+      니케는 사쿠라에게 꾸벅 인사하고
+      밖으로 달려갔다.
+    ja: |-
+      ニケはサクラにぺこりと挨拶をして、
+      外へ走っていった
+  d_nikke_ce005_03_04_38:
+    speaker: "<Self>"
+    en: That was a beautiful sight.
+    ko: 아름다운 광경이네.
+    ja: 美しい光景だな
+  d_nikke_ce005_03_04_39:
+    speaker: "<Self>"
+    en: Here, wipe your tears.
+    ko: 이걸로 눈물을 닦아.
+    ja: これで涙を拭いてくれ
+  d_nikke_ce005_03_04_40:
+    speaker: ce005_03
+    en: Thanks...
+    ko: 감사합니다….
+    ja: ありがとうございます…
+  d_nikke_ce005_03_04_41:
+    speaker: "<Self>"
+    en: Don't mention it.
+    ko: 나야말로.
+    ja: こちらこそ
+  d_nikke_ce005_03_04_42:
+    speaker: "<Self>"
+    en: You are more dedicated than I ever expected.
+    ko: 생각보다 더 열심히 해 줬어.
+    ja: 想像以上に尽くしてくれた
+  d_nikke_ce005_03_04_43:
+    speaker: ce005_03
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_ce005_03_04_44:
+    speaker: ce005_03
+    en: Back in my world...
+    ko: 저… 원래 세계에 있었을 때….
+    ja: 私…自分の世界にいた時…
+  d_nikke_ce005_03_04_45:
+    speaker: ce005_03
+    en: I watched so many lives fade away in an instant.
+    ko: 수많은 목숨이 쉽게 사라지는 것을 봤어요.
+    ja: たくさんの命が簡単に消えるのを見たんです。
+  d_nikke_ce005_03_04_46:
+    speaker: ce005_03
+    en: Some of them... disappeared without even knowing why.
+    ko: 그중에는 이유도 모르고 사라지는 목숨도 있었어요….
+    ja: 中には理由もわからずに消え去る命もあり…
+  d_nikke_ce005_03_04_47:
+    speaker: ce005_03
+    en: I couldn't do anything about it except stand there and watch...
+    ko: |-
+      어떻게 해야 할지도 모른 채
+      그저 지켜볼 수밖에 없었죠….
+    ja: |-
+      どうしたらいいのかさえ分からず、
+      ただ見守ることしかできませんでした…
+  d_nikke_ce005_03_04_48:
+    speaker: ce005_03
+    en: That's why...
+    ko: 그러니까 저는….
+    ja: だから、私は…
+  d_nikke_ce005_03_04_49:
+    speaker: ce005_03
+    en: I'm just grateful I could save even one more person.
+    ko: |-
+      한 명이라도 더 구할 수 있어서
+      정말 다행이라고 생각해요.
+    ja: |-
+      たとえ一つでも命を救えたことが、
+      本当に良かったと思います。
+  d_nikke_ce005_03_04_50:
+    speaker: mary
+    en: That's right. It's all thanks to you, Sakura.
+    ko: 맞아요~ 사쿠라 덕분이에요~
+    ja: そうですよ～サクラのおかげです～
+  d_nikke_ce005_03_04_51:
+    speaker: ce005_03
+    en: Mary! When did you get here?
+    ko: 메어리 씨…! 언제 오셨어요?
+    ja: メアリーさん…！いつからここに…
+  d_nikke_ce005_03_04_52:
+    speaker: mary
+    en: Hehe. I've been here for a while now.
+    ko: 후후~ 아까부터 있었어요.
+    ja: ふふ～さっきからいましたよ。
+  d_nikke_ce005_03_04_53:
+    speaker: mary
+    en: I knew it from the moment we met. Sakura, you're a true doctor.
+    ko: |-
+      저는 처음 만났을 때부터 알고 있었어요~
+      사쿠라가 명의라는 걸요.
+    ja: |-
+      初めて会った時から、私にはわかってましたよ～
+      サクラが名医だって。
+  d_nikke_ce005_03_04_54:
+    speaker: mary
+    en: You've saved so many lives, haven't you?
+    ko: |-
+      지금까지 수많은 사람의 목숨을
+      구해 온 거죠?
+    ja: |-
+      今まで、たくさんの人々の命を
+      救って来たんですよね？
+  d_nikke_ce005_03_04_55:
+    speaker: mary
+    en: That's why I wanted to tell you... you're amazing.
+    ko: |-
+      그러니까 사쿠라는 정말 대단하다는
+      말을 해 주고 싶었어요~
+    ja: |-
+      だから、サクラは本当に素晴らしいって、
+      そう伝えたかったんです～
+  d_nikke_ce005_03_04_56:
+    speaker: "<Self>"
+    en: I feel the same way.
+    ko: 나도 같은 생각이야.
+    ja: 私も同意見だ
+  d_nikke_ce005_03_04_57:
+    speaker: ce005_03
+    en: But... this was my first time treating a Nikke.
+    ko: 하지만 니케를 치료한 건… 이번이 처음이에요.
+    ja: でも、ニケを治療したのは…今回が初めてです。
+  d_nikke_ce005_03_04_58:
+    speaker: ce005_03
+    en: It's all thanks to you, Mary.
+    ko: 모두 메어리 씨 덕분이에요.
+    ja: すべてメアリーさんのおかげですよ。
+  d_nikke_ce005_03_04_59:
+    speaker: mary
+    en: Hehe. What are you saying?
+    ko: 후후~ 무슨 말씀이세요.
+    ja: ふふ～何をおっしゃってるんですか。
+  d_nikke_ce005_03_04_60:
+    speaker: mary
+    en: If anything, the Commander deserves the most credit.
+    ko: |-
+      그렇게 생각하면 지휘관의 공적이
+      가장 크죠~
+    ja: |-
+      そう考えたら、指揮官の功績が
+      一番大きいですね～
+  d_nikke_ce005_03_04_61:
+    speaker: mary
+    en: If it weren't for the Commander, none of us would have met here.
+    ko: |-
+      지휘관이 없었다면, 우리는 이곳에서
+      만날 일도 없었을 거예요.
+    ja: |-
+      指揮官がいなかったら、私たちはここで
+      会うことさえできなかったはずです。
+  d_nikke_ce005_03_04_62:
+    speaker: "<Self>"
+    en: What's this? You two just passing compliments back and forth?
+    ko: 뭐야? 둘이서 서로 감사를 주고받고.
+    ja: 何だ？二人で交互にお礼を言い合ったりして
+  d_nikke_ce005_03_04_63:
+    speaker: ce005_03
+    en: Seems like it.
+    ko: 그러게요.
+    ja: 確かに。
+  d_nikke_ce005_03_04_64:
+    speaker: ce005_03
+    en: Hehe.
+    ko: 후후훗.
+    ja: ふふふっ
+  d_nikke_ce005_03_04_65:
+    speaker: mary
+    en: Hehe, it's such a heartwarming moment.
+    ko: 후후, 훈훈한 광경이네요~
+    ja: ふふ、ほっこりしますね～
+  d_nikke_ce005_03_04_66:
+    speaker: mary
+    en: I hope we have more days like this.
+    ko: 이런 날이 계속됐으면 좋겠어요.
+    ja: こんな日が続くといいんですが。
+  d_nikke_ce005_03_04_67:
+    speaker: ce005_03
+    en: I hope so too.
+    ko: 맞아요.
+    ja: そうですね。
+  d_nikke_ce005_03_04_68:
+    speaker: ce005_03
+    en: One day... I hope there's a world where no one needs a doctor anymore.
+    ko: |-
+      언젠가는 의사가 필요 없는
+      그런 날이 오기를….
+    ja: |-
+      いつか医者の要らない、
+      そんな日が来ますように…
+d_nikke_ce005_03_05:
+  d_nikke_ce005_03_05_1:
+    speaker: ce005_03
+    en: All right, it's finally over!
+    ko: 좋아, 이제 끝이에요!
+    ja: よし、これで終わりです！
+  d_nikke_ce005_03_05_2:
+    speaker: ce005_03
+    en: Today's my last day working here.
+    ko: 여기서 일하는 것도 오늘이 마지막이에요.
+    ja: ここで働くのも、今日で最後。
+  d_nikke_ce005_03_05_3:
+    speaker: ce005_03
+    en: After saying my goodbyes, I'll be heading back to the clinic at the temporary
+      base.
+    ko: |-
+      작별 인사를 하고
+      저는 임시 기지의 진료소로 돌아갈 거예요.
+    ja: |-
+      お別れの挨拶をして、
+      私は臨時基地の診療所に戻ります～
+  d_nikke_ce005_03_05_4:
+    speaker: "<Self>"
+    en: Aren't you going to take a break?
+    ko: 쉬지 않아도 돼?
+    ja: 休まなくてもいいのか？
+  d_nikke_ce005_03_05_5:
+    speaker: ce005_03
+    en: It's fine. I'll take a short break on the way back.
+    ko: 괜찮아요. 돌아가는 길에 조금 쉬면 돼요.
+    ja: 大丈夫です。帰り道に少し休めば。
+  d_nikke_ce005_03_05_6:
+    speaker: ce005_03
+    en: Now that I think about it... when I first got here, everyone kept telling
+      me not to overwork myself, and to take it easy.
+    ko: |-
+      그러고 보니… 이곳에 처음 왔을 때는
+      다들 입을 모아 무리하지 말라고,
+      쉬라고 하셨는데….
+    ja: |-
+      そういえば…ここに来たばかりの頃は、
+      みなさん口を揃えて無理するな、休めって
+      おっしゃってたんですが…
+  d_nikke_ce005_03_05_7:
+    speaker: ce005_03
+    en: But lately, no one says that anymore. It feels much more comfortable now.
+    ko: |-
+      요새는 그런 말을 안 하셔서
+      많이 편해졌어요.
+    ja: |-
+      最近は言われなくなったので
+      だいぶ楽になりました～
+  d_nikke_ce005_03_05_8:
+    speaker: "<Choice>"
+    en: That's good to hear.
+    ko: 그거 다행이다.
+    ja: それは良かった
+  d_nikke_ce005_03_05_9:
+    speaker: "<Choice>"
+    en: Or maybe they just gave up because you never listen?
+    ko: 아무리 말해도 안 쉬니까 포기한 거 아니야?
+    ja: |-
+      どうせ何を言っても休まないから、
+      諦めたんじゃないか？
+  d_nikke_ce005_03_05_10:
+    speaker: ce005_03
+    en: Hehe, maybe.
+    ko: 후후, 그럴지도 모르죠.
+    ja: ふふ、そうかもしれませんね。
+  d_nikke_ce005_03_05_11:
+    speaker: ce005_03
+    en: But someone always leaves vitamins and snacks on my desk.
+    ko: 하지만 언제나 누군가가 책상에 다양한 영양제나 과자를 놓고 가시니까….
+    ja: |-
+      でも、いつも誰かがデスクに、
+      いろんなサプリメントやおやつを
+      置いてくださっているので…
+  d_nikke_ce005_03_05_12:
+    speaker: ce005_03
+    en: So in a way...
+    ko: 오히려….
+    ja: むしろ…
+  d_nikke_ce005_03_05_13:
+    speaker: ce005_03
+    en: It feels like they're looking out for me even more now.
+    ko: 전보다 신경 써 주시고 있는 것 같아요.
+    ja: 以前より気に掛けてくださっている気がします。
+  d_nikke_ce005_03_05_14:
+    speaker: ce005_03
+    en: And that's all thanks to you, Commander.
+    ko: 이것도 다 지휘관 덕분이에요.
+    ja: これも全部、指揮官のおかげです。
+  d_nikke_ce005_03_05_15:
+    speaker: "<Self>"
+    en: No, it just means they appreciate your hard work.
+    ko: 아니, 다들 사쿠라의 노력을 인정한 거겠지.
+    ja: いや、皆サクラの頑張りを認めているんだろう
+  d_nikke_ce005_03_05_16:
+    speaker: ce005_03
+    en: Hehe, thank you.
+    ko: 에헤헤, 감사합니다.
+    ja: えへへ、ありがとうございます。
+  d_nikke_ce005_03_05_17:
+    speaker: ce005_03
+    en: I want to do even better.
+    ko: 저… 더 노력하고 싶어요.
+    ja: 私…もっと勉強したいです。
+  d_nikke_ce005_03_05_18:
+    speaker: ce005_03
+    en: I want to save as many Nikke as I can.
+    ko: 더 많은 니케를 구할 수 있도록.
+    ja: そしてもっと多くのニケを助けられるように。
+  d_nikke_ce005_03_05_19:
+    speaker: "<Self>"
+    en: I'll be cheering you on.
+    ko: 그래, 응원할게.
+    ja: ああ、応援してる
+  d_nikke_ce005_03_05_20:
+    speaker: ce005_03
+    en: Thanks!
+    ko: 네!
+    ja: はい！
+  d_nikke_ce005_03_05_21:
+    speaker: mary
+    en: Sakura! On behalf of the medical team, I've come to see you off.
+    ko: |-
+      사쿠라~ 의료팀을 대표해
+      배웅하러 왔어요~
+    ja: |-
+      サクラ～医療チームを代表して
+      お見送りに来ました～
+  d_nikke_ce005_03_05_22:
+    speaker: mary
+    en: Here, these flowers are for you.
+    ko: 받으세요, 사쿠라를 위해 준비한 꽃이에요.
+    ja: どうぞ、サクラのために用意したお花です。
+  d_nikke_ce005_03_05_23:
+    speaker: mary
+    en: They're artificial, though.
+    ko: 조화지만요.
+    ja: 造花ですけどね。
+  d_nikke_ce005_03_05_24:
+    speaker: ce005_03
+    en: F-for me?
+    ko: 저, 저한테요…?
+    ja: わ、私に…？
+  d_nikke_ce005_03_05_25:
+    speaker: "<Self>"
+    en: Take them.
+    ko: 받아 줘.
+    ja: 受け取ってくれ
+  d_nikke_ce005_03_05_26:
+    speaker: "<Self>"
+    en: They're proof of everything you've done.
+    ko: 네가 열심히 일한 증표야.
+    ja: 君が頑張ったことの何よりの証明だ
+  d_nikke_ce005_03_05_27:
+    speaker: ce005_03
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_ce005_03_05_28:
+    speaker: ce005_03
+    en: Mary... Please make sure you take some time to rest when I'm gone.
+    ko: |-
+      메어리 씨, 제가 돌아가면 꼭 시간을 내서
+      푹 쉬어 주세요.
+    ja: |-
+      メアリーさん、私が戻ったら必ず時間を作って
+      ゆっくり休んでくださいね。
+  d_nikke_ce005_03_05_29:
+    speaker: mary
+    en: Hmm... That might be a little difficult.
+    ko: 으음~ 그건 어렵겠네요~
+    ja: う〜ん。それは難しいですね〜
+  d_nikke_ce005_03_05_30:
+    speaker: mary
+    en: You didn't take any breaks either.
+    ko: 사쿠라도 못 쉬었잖아요~
+    ja: サクラも休めなかったじゃないですか～
+  d_nikke_ce005_03_05_31:
+    speaker: ce005_03
+    en: T-that's... because I'm still learning...
+    ko: 그, 그건… 저는 배우는 입장이니까….
+    ja: そ、それは…私は学ぶ立場なので…
+  d_nikke_ce005_03_05_32:
+    speaker: mary
+    en: Haha, don't worry. I make sure to rest whenever I can.
+    ko: |-
+      후후, 몸에 무리가 가지 않는 선에서
+      쉬고 있으니까 걱정하지 마세요.
+    ja: |-
+      ふふ、体に支障をきたさない範囲で
+      休んでいるので、ご安心ください。
+  d_nikke_ce005_03_05_33:
+    speaker: ce005_03
+    en: "... Okay!"
+    ko: "…네!"
+    ja: "…はい！"
+  d_nikke_ce005_03_05_34:
+    speaker: ce005_03
+    en: Thank you for the flowers!
+    ko: 꽃 감사합니다!
+    ja: お花、ありがとうございます！
+  d_nikke_ce005_03_05_35:
+    speaker: ce005_03
+    en: I didn't prepare anything in return...
+    ko: 저는 아무것도 준비하지 못했는데….
+    ja: 私は何も用意できなかったのに…
+  d_nikke_ce005_03_05_36:
+    speaker: mary
+    en: Sakura, just having you here was the greatest gift of all.
+    ko: |-
+      사쿠라. 당신의 존재 자체가
+      제게는 무엇보다도 큰 선물이었어요.
+    ja: |-
+      サクラ。あなたの存在こそ、
+      私たちにとって何よりのプレゼントでした。
+  d_nikke_ce005_03_05_37:
+    speaker: mary
+    en: It's a shame I can't go with you. I'm swamped with work here.
+    ko: |-
+      이쪽이 너무 바빠서
+      저도 같이 가지 못하는 게 아쉬워요~
+    ja: |-
+      こちらが忙しすぎて、
+      私も一緒に行けないのが残念です～
+  d_nikke_ce005_03_05_38:
+    speaker: mary
+    en: Pepper was the only one handling missions in Seraphim,
+    ko: |-
+      세라핌에서 임무를 수행할 수 있었던 건
+      페퍼밖에 없었지만,
+    ja: |-
+      セラフィムで任務を遂行できたのは
+      ペッパー1人だけでしたが、
+  d_nikke_ce005_03_05_39:
+    speaker: mary
+    en: but now that you're joining, I feel so much more at ease.
+    ko: |-
+      사쿠라라는 든든한 지원군이
+      합류해 줘서 안심이에요.
+    ja: |-
+      サクラという頼もしい援軍が
+      合流してくださるので、安心です。
+  d_nikke_ce005_03_05_40:
+    speaker: ce005_03
+    en: I'll do my best to support everyone!
+    ko: 네! 열심히 서포트할게요!
+    ja: はい！精いっぱいサポートします！
+  d_nikke_ce005_03_05_41:
+    speaker: mary
+    en: Hehe.
+    ko: 후후.
+    ja: ふふ。
+  d_nikke_ce005_03_05_42:
+    speaker: mary
+    en: I knew you'd say that.
+    ko: |-
+      사쿠라라면 틀림없이
+      그렇게 말해줄 줄 알았어요~
+    ja: |-
+      サクラなら、きっと
+      そう言ってくださると思っていました～
+  d_nikke_ce005_03_05_43:
+    speaker: mary
+    en: Once this battle is over, we won't be able to meet again, right?
+    ko: |-
+      이 싸움이 끝나면
+      더는 사쿠라를 만날 수 없겠죠?
+    ja: |-
+      この戦いが終わったら、
+      もうサクラには会えませんよね？
+  d_nikke_ce005_03_05_44:
+    speaker: ce005_03
+    en: "... Yeah."
+    ko: "…네."
+    ja: "…はい。"
+  d_nikke_ce005_03_05_45:
+    speaker: ce005_03
+    en: But I'll never forget the time I spent working with you all.
+    ko: |-
+      하지만 여기서 여러분과 함께 일한 날들은
+      절대 잊지 않을 거예요.
+    ja: |-
+      でも、ここでみなさんと一緒に働いた日々は
+      絶対に忘れません。
+  d_nikke_ce005_03_05_46:
+    speaker: mary
+    en: Hehe, glad to hear that.
+    ko: 후후~ 그래요.
+    ja: ふふ～はい。
+  d_nikke_ce005_03_05_47:
+    speaker: mary
+    en: Whenever things get tough, just remember all the lives you've saved.
+    ko: |-
+      힘들 때는 사쿠라가 구한
+      수많은 목숨을 떠올려 주세요.
+    ja: |-
+      つらい時は、サクラが助けた
+      たくさんの命を思い出してください。
+  d_nikke_ce005_03_05_48:
+    speaker: mary
+    en: I'm sure it'll give you a greater strength.
+    ko: 틀림없이 큰 힘이 될 테니까요.
+    ja: きっと大きな力になるはずです。
+  d_nikke_ce005_03_05_49:
+    speaker: ce005_03
+    en: You too, Mary.
+    ko: 메어리 씨도요.
+    ja: メアリーさんも。
+  d_nikke_ce005_03_05_50:
+    speaker: ce005_03
+    en: Commander, please take good care of Mary.
+    ko: |-
+      그럼 지휘관, 메어리 씨를
+      잘 부탁드려요.
+    ja: |-
+      では指揮官、メアリーさんのことを
+      よろしくお願いします。
+  d_nikke_ce005_03_05_51:
+    speaker: ce005_03
+    en: "... Make sure she gets a lot of rest."
+    ko: "…꼭 쉬게 해주세요."
+    ja: "…必ず休ませてくださいね。"
+  d_nikke_ce005_03_05_52:
+    speaker: mary
+    en: That's my line.
+    ko: 그건 제가 할 말이에요~
+    ja: それはこちらのセリフですよ～
+  d_nikke_ce005_03_05_53:
+    speaker: mary
+    en: Commander, once Sakura returns, please make sure she doesn't overwork herself.
+    ko: |-
+      지휘관, 돌아가면 사쿠라가 무리하지 않도록
+      부탁드릴게요~
+    ja: |-
+      指揮官、戻ったらサクラが無理をしないよう
+      お願いしますね～
+  d_nikke_ce005_03_05_54:
+    speaker: mary
+    en: Promise me!
+    ko: 후후~ 약속이에요~!
+    ja: ふふ～、私たちの約束ですよ～！
+  d_nikke_ce005_03_05_55:
+    speaker: ce005_03
+    en: I promise!
+    ko: 약속해요!
+    ja: 約束ですね！
+  d_nikke_ce005_03_05_56:
+    speaker: "<Self>"
+    en: You have my word.
+    ko: 약속할게.
+    ja: 約束だ

@@ -1,0 +1,916 @@
+---
+260_name:
+  en: Modernia
+  ko: 모더니아
+  ja: モダニア
+c260_description:
+  en: A plain and delicate girl who sold out mankind. A member of the Queen's elite
+    squad, the Heretics.
+  ko: |-
+    순수하고 상냥한 인류의 배신자.
+    퀸의 정예라 불리는 헬레틱 중 한 명이다.
+  ja: |-
+    純粋で優しい人類の裏切り者。
+    クイーンの精鋭と呼ばれるヘレティックの一人。
+260_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50260:
+  en: Modernia's Spare Body
+  ko: 모더니아 스페어 바디
+  ja: モダニアのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22602_name:
+  en: Giant Leap
+  ko: 대도약
+  ja: 大跳躍
+22602_description:
+  en: |-
+    ■ Affects all allies. Activates when entering Full Burst.
+    <color=#00AEFF>Hit Rate ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects self. Activates when normal attack hits {description_value_03} time(s) during increasing Hit Rate status.
+    <color=#00AEFF> ATK ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[명중률 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 일반 공격 {description_value_03}회 명중 시 자신이 명중률 증가 상태라면 자신에게
+    <color=#00AEFF>[공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「命中率{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■通常攻撃が{description_value_03}回命中した時、自分が命中率増加状態なら、自分に
+    <color=#00AEFF>「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22601_name:
+  en: High-Speed Evolution
+  ko: 고속진화
+  ja: 高速進化
+22601_description:
+  en: "■ Activates when normal attack hits. Affects the target(s).\n<color=#00AEFF>Deals
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as additional
+    damage.</color> \n■ Activates when normal attack hits {description_value_02} time(s).
+    Affects self.\n<color=#00AEFF>Critical Damage ▲ {description_value_03}%, stacks
+    up to {description_value_04} time(s) and lasts for {description_value_05} sec.\nMax
+    Ammunition Capacity ▼ {description_value_06}%, stacks up to {description_value_07}
+    time(s) and lasts for {description_value_08} sec.</color>"
+  ko: |-
+    ■ 일반 공격 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 추가 대미지]</color>
+    ■ 일반 공격 {description_value_02}회 명중 시 자신에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_03}% ▲] [{description_value_04}중첩] [{description_value_05}초 유지]
+    [최대 장탄 수 {description_value_06}% ▼] [{description_value_07}중첩] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■通常攻撃が命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の追加ダメージ」</color>
+    ■通常攻撃が{description_value_02}回命中した時、自分に
+    <color=#00AEFF>「クリティカルダメージ{description_value_03}％▲」
+    「{description_value_04}スタック」「{description_value_05}秒間維持」
+    「最大装弾数{description_value_06}％▼」
+    「{description_value_07}スタック」「{description_value_08}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12603_name:
+  en: New World
+  ko: 신세계
+  ja: 新世界
+12603_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Full Burst Time ▲ 5 sec.</color>
+    ■ Affects self.
+    <color=#00AEFF>Grants unlimited ammunition for {description_value_02} sec.
+    Destroy Mode:
+    Extending the line of sight and auto-aim at all enemies within fire range. Stage target will be recognized as a single enemy regardless of its interruption parts.
+    Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage for {description_value_02} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[풀 버스트 타임 지속 시간 5초 ▲]</color>
+    ■ 자신에게
+    <color=#00AEFF>[장탄 수 무한] [{description_value_02}초 유지]
+    [섬멸 모드] :
+    기능 : 조준선 확장 & 조준 범위 내 적 전체 동시 조준. 보스는 저지 부위 및 파츠 무관, 단일 적으로 간주
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
+    유지 시간 : {description_value_02}초</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「フルバーストタイム5秒▲」</color>
+    ■自分に
+    <color=#00AEFF>「装弾数無限」「{description_value_02}秒間維持」
+    「殲滅モード」：
+    機能：照準線拡張＆照準範囲内のすべての敵を同時に照準。ボスは阻止部位及びパーツに関係なく、単一の敵とみなす
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+    維持時間：{description_value_02}秒</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+261_name:
+  en: Nihilister
+  ko: 니힐리스타
+  ja: ニヒリスター
+c260_Lobby_Touch_1:
+  en: I'll protect you, Commander!
+  ko: 지휘관! 지켜드릴게요!
+  ja: 指揮官！守ってあげます！
+c260_Lobby_Touch_2:
+  en: Commander, Rapi, Anis, Neon... You're all the best!
+  ko: 지휘관이 좋아요. 라피랑 아니스랑 네온도 좋아요!
+  ja: |-
+    指揮官が大好きです！
+    ラピもアニスもネオンも好きです！
+c260_Lobby_Touch_3:
+  en: I think bandages are great. They make me feel warm inside.
+  ko: 붕대 좋아해요. 마음이 따뜻해져요.
+  ja: |-
+    包帯が好きです。
+    心が温かくなるんです。
+c260_Lobby_Touch_Love_1:
+  en: I like you Commander, way more than Rapi, Anis, or Neon!
+  ko: 지휘관이 좋아요. 라피랑 아니스랑 네온보다 좋아요!
+  ja: |-
+    指揮官が好きです。
+    ラピやアニスやネオンよりも！
+c260_Lobby_Touch_Love_2:
+  en: |-
+    The bandages you gave me are my most treasured possession.
+    I won't share them with anyone.
+  ko: "지휘관이 준 붕대가 제일 소중해요. \n아무한테도 안 줄 거예요."
+  ja: |-
+    指揮官にもらった包帯は一番の宝物です。
+    誰にも渡しません。
+c260_Lobby_Touch_Love_3:
+  en: I'm so elated Commander, just over the moon!
+  ko: |-
+    행복해요. 지휘관.
+    저 엄청 엄청 많이 행복해요!
+  ja: |-
+    幸せです。指揮官。
+    私、本当にとっても幸せです！
+c260_Lobby_Stay_1:
+  en: Commander, are we playing Red Light, Green Light?
+  ko: 지휘관, 가만히 있기 놀이하는 거예요?
+  ja: 指揮官、動いたら負けちゃうゲームでもやってるんですか？
+c260_Lobby_Stay_Love_1:
+  en: Hehe, I like staying still like this 'cause then I can watch you all the time!
+  ko: "이렇게 가만히 있는 거 좋아요. \n헤헤. 지휘관 계속 봐서 좋아요!"
+  ja: |-
+    こんなふうにじっとしているのが好きなんです。
+    へへ。指揮官をずっと見れて嬉しいです！
+c260_Outpost_Touch_1:
+  en: This place makes me feel warm inside. Just like with you, Commander.
+  ko: 여기는 지휘관 같아요. 따뜻해요.
+  ja: |-
+    ここは指揮官みたいです。
+    暖かいんです。
+c260_Outpost_Touch_2:
+  en: Anis kicked me out of the dormitory because I sprinkled flour everywhere.
+  ko: 아니스가 숙소에서 밀가루 뿌리고 논다고 나가 있으랬어요.
+  ja: アニスが宿所で 小麦粉で遊ぶんだって、 私は外に追い出されました。
+c260_Outpost_Touch_3:
+  en: Commander! Let's go for a wao... wall... What's the word? Ah, that's it! Let's
+    go for a waook!
+  ko: "지휘관! 같이 산…? 사안… 사... 뭐였더라? \n아! 사채할까요?"
+  ja: |-
+    指揮官！ 一緒にさん…？ さん…さ…何だっけ？
+    あ！さんずの川に 行きますか？
+c260_Gacha_Get_1:
+  en: I said I would protect you Commander, and I will.
+  ko: 지휘관, 지켜줄게요. 제가 지킬게요.
+  ja: 指揮官、守ってあげます。私が守ります。
+c260_Reinforce_1:
+  en: It's amazing!
+  ko: 신기해요!
+  ja: 不思議です！
+c260_Reinforce_2:
+  en: I've become stronger!
+  ko: 지휘관! 강해졌어요.
+  ja: 指揮官！強くなりました。
+c260_Reinforce_3:
+  en: I will continue to protect you.
+  ko: 제가 더 많이 지켜줄게요.
+  ja: 私がもっと守ってあげます。
+c260_Gift_1:
+  en: This is kind of like a bandage, right?
+  ko: 이거 붕대 같은 거죠!
+  ja: これ包帯みたいなものですよね！
+c260_Gift_2:
+  en: You're the best, Commander!
+  ko: 지휘관 좋아요!
+  ja: 指揮官が好きです！
+c260_Gift_3:
+  en: Every time I get one of your gifts, my heart flutters.
+  ko: 선물 받았더니 마음이 따뜻해졌어요.
+  ja: プレゼントをもらって心が温かくなりました。
+c260_Attractive_Up_1:
+  en: Commander, I miss you so much. I miss you every single day.
+  ko: 지휘관. 보고 싶어요. 매일매일 보고 싶어요.
+  ja: 指揮官。会いたいです。毎日会いたいです。
+c260_Attractive_Up_2:
+  en: Whenever I'm around you, I feel warm inside.
+  ko: 지휘관이랑 있으면 마음이 따뜻해져요.
+  ja: 指揮官と一緒にいると心が温かくなります。
+c260_Attractive_Up_3:
+  en: I like you, Commander. I really do.
+  ko: 좋아해요. 지휘관. 많이 많이 좋아해요.
+  ja: |-
+    好きです。指揮官。
+    心の底から好きです。
+c260_Party_Deploy_1:
+  en: I will always protect you, Commander!
+  ko: 지휘관을 지킬 거예요!
+  ja: 指揮官を守ります！
+c260_Field_Touch_1:
+  en: Yes, Commander!
+  ko: 네! 지휘관!
+  ja: はい！指揮官！
+c260_Field_Go_1:
+  en: Want me to go there?
+  ko: 저기로 가야 돼요?
+  ja: あそこに行けばいいですか？
+c260_Battle_Enter_1:
+  en: Encoming Incounter... Is that right?
+  ko: 디스카운트!
+  ja: ディスカウント！
+c260_Battle_Ready_1:
+  en: I've got your back!
+  ko: 지휘관 지킬 거예요!
+  ja: 指揮官を守ります！
+c260_Battle_Ready_2:
+  en: Can I attack now?
+  ko: 공격하면 돼요?
+  ja: 攻撃すればいいですか？
+c260_Battle_Ready_3:
+  en: Are you in danger? Let me at 'em!
+  ko: 지휘관이 위험한 거죠? 그럼 싸울래요.
+  ja: 指揮官が危険なんですね？じゃあ戦います。
+c260_Reload_1:
+  en: Re...loa...ding!
+  ko: 리… 로… 드!
+  ja: リ…ロー…ド！
+c260_Reload_2:
+  en: I'll reload right now.
+  ko: 탄을 채워야 해요.
+  ja: 弾を入れませんとね。
+c260_Reload_3:
+  en: Uh... Rapi told me so...
+  ko: 어… 라피가 가르쳐 줬는데….
+  ja: えっと…ラピが教えてくれたよね…
+c260_Ult_Skill_Ready_1:
+  en: Ready or not, here I come!
+  ko: 제가 할래요!
+  ja: 私がやります！
+c260_Ult_Skill_1:
+  en: You're mine!
+  ko: 당신의 운명, 거둬갈게요.
+  ja: あなたの運命、私がもらいます。
+c260_FullBurst_1:
+  en: Everyone, give 'em everything you've got!
+  ko: 다 같이 쏘고 있어요!
+  ja: みんなで一緒に撃ってます！
+c260_Kill_Monster_1:
+  en: "... Poor thing."
+  ko: "…불쌍해."
+  ja: "…かわいそう。"
+c260_Kill_Monster_2:
+  en: Huh? They're all down.
+  ko: 어? 쓰러지셨어요.
+  ja: あれ？倒れちゃいました。
+c260_Kill_Monster_3:
+  en: Did I do well?
+  ko: 저 잘했나요?
+  ja: 私、よくできましたか？
+c260_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c260_Damage_2:
+  en: Argh!
+  ko: 흑.
+  ja: ふっ。
+c260_Damage_3:
+  en: Ow!
+  ko: 아파.
+  ja: 痛い。
+c260_Die_1:
+  en: Commander... I'm so sorry...
+  ko: 지휘관… 미안해요… 지휘관… 지휘관….
+  ja: 指揮官…ごめんなさい…指揮官…指揮官…
+c260_Win_1:
+  en: Chalk up another victory for the Commander!
+  ko: 다 잘 된 거죠? 지휘관 멋져요!
+  ja: 全部うまくいったんですね？指揮官、かっこいいです！
+c260_01_Lobby_Touch_1:
+  en: Why is your clothing all so big, Commander?
+  ko: 지휘관은 왜 이렇게 큰 옷을 입는 거예요?
+  ja: 指揮官は、どうしてこんなに大きな服を着ているんですか？
+c260_01_Lobby_Touch_2:
+  en: Wow, the sleeves are so long! Like dangly bandages.
+  ko: 와~ 팔이 엄청 길어요! 붕대 같아요!
+  ja: |-
+    わあ～腕が長いですね！
+    包帯みたいです！
+c260_01_Lobby_Touch_3:
+  en: |-
+    This doll is just like you, Commander.
+    I'll never let it out of my sight.
+  ko: |-
+    이 인형은 지휘관이에요!
+    절대로 떨어지지 않을 거예요!
+  ja: |-
+    このぬいぐるみは指揮官です！
+    絶対に放しません！
+c260_01_Lobby_Touch_Love_1:
+  en: I love your smell, Commander.
+  ko: 킁킁! 으헤헤 지휘관 냄새~
+  ja: |-
+    くんくん！えへへ、
+    指揮官のにおいがします～
+c260_01_Lobby_Touch_Love_2:
+  en: Whenever I hug you tight, I fall fast asleep.
+  ko: 지휘관을 꼭 끌어안고 자면 잠이 솔솔 와요.
+  ja: 指揮官をぎゅっとしながら眠ると、ぐっすり眠れるんです。
+c260_01_Lobby_Touch_Love_3:
+  en: Wearing these clothes makes me feel like you're giving me a hug.
+  ko: 이 옷을 입으니까 지휘관이 안아주는 느낌이에요.
+  ja: この服を着ていると、指揮官に抱きしめられてるみたいです。
+c260_01_Lobby_Stay_1:
+  en: "Commander? Where did you go? \nCan I try on more of your other clothes?"
+  ko: |-
+    지휘관? 어디 갔어요?
+    저 다른 것도 입어봐도 돼요?
+  ja: |-
+    指揮官？どこですか？
+    他のも着てみていいですか？
+c260_01_Lobby_Stay_Love_1:
+  en: |-
+    Commander, where are you?
+    How do you do these buttons?
+  ko: |-
+    으응… 지휘관, 어디 갔어요?
+    단추는 어떻게 잠그는 거예요?
+  ja: |-
+    うーん…指揮官、どこですか？
+    ボタンってどうやって留めるんですか？
+c260_01_Outpost_Touch_1:
+  en: |-
+    Anis keeps saying that she thought I was a ghost,
+    but what does she mean?
+  ko: |-
+    아니스가 저 보고 귀신인 줄 알았다고 뭐라고 했어요!
+    …그런데 귀신이 뭐예요?
+  ja: |-
+    アニスに「おばけみたい」って 言われたんです！
+    …それで、 おばけって何ですか？
+c260_01_Outpost_Touch_2:
+  en: I am on a walk with Commander!
+  ko: 지휘관이랑 같이 산책 중이에요!
+  ja: 指揮官とお散歩中です！
+c260_01_Outpost_Touch_3:
+  en: |-
+    Commander, the fridge is packed to the brim with Anis' sodas.
+    Let's go empty it out together.
+  ko: |-
+    지휘관! 냉장고가 아니스 탄산수로 꽉 찼어요!
+    같이 냉장고 비우러 가요!
+  ja: |-
+    指揮官！ 冷蔵庫がアニスの炭酸水で いっぱいです！
+    一緒に空にしましょう！
+c260_01_Gacha_Get_1:
+  en: Your clothes smell of you. It's wonderful!
+  ko: 지휘관 옷에서 지휘관 냄새가 나요! 너무 좋아요.
+  ja: |-
+    指揮官の服から指揮官のにおいがします！
+    嬉しいです。
+c260_01_Reinforce_1:
+  en: Can I wear another piece of your clothing now?
+  ko: 이제 옷 하나 더 입어도 되는 거예요?
+  ja: もう一着、着てもいいんですか？
+c260_01_Reinforce_2:
+  en: I've become stronger!
+  ko: 튼튼해졌어요!
+  ja: 丈夫になりました！
+c260_01_Reinforce_3:
+  en: I feel so powerful all of a sudden.
+  ko: 와아, 갑자기 힘이 나요!
+  ja: わあ、急に力が湧いてきました！
+c260_01_Gift_1:
+  en: Can I wear this too?
+  ko: 이것도 입을 수 있는 건가요?
+  ja: これも着られるんですか？
+c260_01_Gift_2:
+  en: Wow, this has your smell on it too!
+  ko: 우와, 여기서도 지휘관 냄새가 나요!
+  ja: わあ、これも指揮官のにおいがします！
+c260_01_Gift_3:
+  en: You're supposed to say 'thank you' at a time like this, right? Thank you!
+  ko: 이럴 땐 고맙다고 하는 거랬어요! 고맙다!
+  ja: こういう時は「ありがとう」って言うんですよね！ありがとう！
+c260_01_Attractive_Up_1:
+  en: I really like you, Commander, more than flour!
+  ko: 지휘관 좋아요! 밀가루보다 좋아요!
+  ja: |-
+    指揮官、好きです！
+    小麦粉より好きです！
+c260_01_Attractive_Up_2:
+  en: You're the best, Commander. My love for you is bigger than these gigantic clothes.
+  ko: 지휘관! 좋아해요! 이 옷 크기만큼 좋아해요!
+  ja: |-
+    指揮官！好きです！
+    この服の大きさくらい好きです！
+c260_01_Attractive_Up_3:
+  en: You take up all the space in my heart, Commander!
+  ko: 마음속에 지휘관이 가득해졌어요!
+  ja: 心の中が指揮官でいっぱいです！
+c260_01_Party_Deploy_1:
+  en: Can I wear your clothes on this mission, Commander?
+  ko: 지휘관 옷 입고 가도 되나요?
+  ja: 指揮官の服を着ていってもいいですか？
+c260_01_Field_Touch_1:
+  en: Yes, Commander!
+  ko: 네! 지휘관!
+  ja: はい！指揮官！
+c260_01_Field_Go_1:
+  en: Is this the right way?
+  ko: 이쪽 맞나요?
+  ja: こっちですか？
+c260_01_Battle_Enter_1:
+  en: Scout!
+  ko: 스카우트!
+  ja: スカウト！
+c260_01_Battle_Ready_1:
+  en: Can't get these clothes dirty.
+  ko: 옷 더러워지면 안 돼요!
+  ja: 服を汚したらダメですよ！
+c260_01_Battle_Ready_2:
+  en: I'll protect you.
+  ko: 제가 지킬게요!
+  ja: 私がお守りします！
+c260_01_Battle_Ready_3:
+  en: Commander, be careful!
+  ko: 지휘관 조심해요!
+  ja: 指揮官、気をつけてください！
+c260_01_Reload_1:
+  en: Open up and say 'aaahhh', Commander!
+  ko: 지휘관~ 밥 줄게요!
+  ja: 指揮官～ご飯あげますね！
+c260_01_Reload_2:
+  en: Let's give you a little pat.
+  ko: 쓰담쓰담~
+  ja: なでなで～
+c260_01_Reload_3:
+  en: You're so cute, Commander.
+  ko: 헤헤, 지휘관 너무 귀여워요!
+  ja: えへへ、指揮官、とってもかわいいです！
+c260_01_Ult_Skill_Ready_1:
+  en: Commander!
+  ko: 지휘관!
+  ja: 指揮官！
+c260_01_Ult_Skill_1:
+  en: I really... really like you!
+  ko: 진짜, 진짜 좋아해요…!
+  ja: 本当に本当に、大好きです…！
+c260_01_FullBurst_1:
+  en: All together! Attack!
+  ko: 다 함께! 돌진!
+  ja: みんな一緒に！突撃～！
+c260_01_Kill_Monster_1:
+  en: "... Good bye."
+  ko: "…잘 가."
+  ja: "…バイバイ。"
+c260_01_Kill_Monster_2:
+  en: I did good, right?
+  ko: 저 잘했죠!
+  ja: 私、よくできたでしょう？
+c260_01_Kill_Monster_3:
+  en: All right, you all are next!
+  ko: 다음은 저쪽이에요!
+  ja: 次はこっちです！
+c260_01_Damage_1:
+  en: Watch the clothes!
+  ko: 지휘관 옷이…!
+  ja: 指揮官、服が…！
+c260_01_Damage_2:
+  en: Ugh...!
+  ko: 윽…!
+  ja: うっ…！
+c260_01_Damage_3:
+  en: Agh!
+  ko: 아얏!
+  ja: ああっ！
+c260_01_Die_1:
+  en: I'm sorry, Commander, I got your clothes dirty...
+  ko: 미안해요 지휘관… 옷이 더러워졌어요….
+  ja: |-
+    ごめんなさい、指揮官…
+    服が汚れちゃいました…
+c260_01_Win_1:
+  en: After all that, I deserve a compliment.
+  ko: 저 힘냈어요! 칭찬해 주세요!
+  ja: 頑張りました！褒めてください！
+c260_02_Lobby_Touch_1:
+  en: I will protect you, no matter what.
+  ko: 지켜드릴게요, 반드시.
+  ja: 守ります、必ず。
+c260_02_Lobby_Touch_2:
+  en: |-
+    I will cherish this bandage forever,
+    for it is a precious treasure to me.
+  ko: |-
+    이 붕대는 평생 간직할 거예요.
+    제 소중한 보물이거든요.
+  ja: |-
+    この包帯は一生大切にします。
+    私の大事な宝ものですから。
+c260_02_Lobby_Touch_3:
+  en: Do you think everyone is doing well?
+  ko: 다들 잘 지내고 계시겠죠?
+  ja: みなさん、元気にお過ごしですか？
+c260_02_Lobby_Touch_Love_1:
+  en: |-
+    So many precious things...
+    I must protect them all.
+  ko: |-
+    소중한 것들이 너무 많아져 버렸어요.
+    …그러니 이젠 제가 모두를 지킬게요.
+  ja: |-
+    大切なものがたくさん増えました。
+    …だから、次は私がみなさんを守ります。
+c260_02_Lobby_Touch_Love_2:
+  en: |-
+    I think I'm starting to understand who I am.
+    You all have been so kind and helpful.
+  ko: |-
+    제가 누구인지 조금은 알 것 같아요.
+    많은 분들이 도와주셨거든요.
+  ja: |-
+    自分が誰なのか、少し分かった気がします。
+    たくさんの方に助けてもらったので。
+c260_02_Lobby_Touch_Love_3:
+  en: I want to show everyone what I can do and make them proud of me.
+  ko: |-
+    빨리 제 모습을 보여드리고 싶어요.
+    분명 칭찬해 주시겠죠?
+  ja: |-
+    早く私の姿を見てもらいたいです。
+    きっと褒めてくれますよね？
+c260_02_Lobby_Stay_1:
+  en: |-
+    I'm fine.
+    I'm used to waiting.
+  ko: |-
+    전 괜찮아요.
+    기다리는 거에는 익숙하답니다.
+  ja: |-
+    私は大丈夫です。
+    待つことには慣れています。
+c260_02_Lobby_Stay_Love_1:
+  en: |-
+    I'm willing to keep waiting...
+    Because I don't feel lonely anymore.
+  ko: |-
+    계속 기다릴 수 있어요.
+    …더 이상 외롭지 않거든요.
+  ja: |-
+    いくらでも待てますよ。
+    …もう寂しくありませんから。
+c260_02_Outpost_Touch_1:
+  en: It's still a place I dearly miss.
+  ko: 여전히 그리운 곳이네요.
+  ja: 相変わらず懐かしい場所ですね。
+c260_02_Outpost_Touch_2:
+  en: This is another place that I must protect at all costs.
+  ko: 이곳도 제가 지켜야 할 장소겠죠.
+  ja: ここも私が守るべき場所ですね。
+c260_02_Outpost_Touch_3:
+  en: |-
+    This reminds me of the moments shared with everyone.
+    They were such joyous times.
+  ko: |-
+    모두와 함께 있었던 순간이 떠오르네요.
+    정말 즐거웠어요, 그땐.
+  ja: |-
+    みなさんと一緒に過ごした時を 思い出します。
+    本当に楽しかったです、 あの頃は。
+c260_02_Gacha_Get_1:
+  en: |-
+    I won't cry anymore,
+    because there are people who I have to look after.
+  ko: |-
+    이제 더는 울지 않을 거예요.
+    제가 모두 지켜낼 테니까요.
+  ja: |-
+    もう泣きません。
+    私がみなさんを守ります。
+c260_02_Reinforce_1:
+  en: Thanks to you, I'll be able to keep going.
+  ko: 덕분에 더 오래 버틸 수 있겠어요.
+  ja: おかげでもっと強くなれそうです。
+c260_02_Reinforce_2:
+  en: I won't disappoint you.
+  ko: 실망시키지 않을게요.
+  ja: 期待は裏切りません。
+c260_02_Reinforce_3:
+  en: I've definitely become stronger.
+  ko: 음. 확실히 강해졌어요.
+  ja: うん。確かに強くなりました。
+c260_02_Gift_1:
+  en: I've missed this.
+  ko: 그리운 물건이네요.
+  ja: 懐かしいですね。
+c260_02_Gift_2:
+  en: I will cherish it.
+  ko: 소중하게 간직할게요.
+  ja: 大切にします。
+c260_02_Gift_3:
+  en: |-
+    I remember everyone used to send me heartfelt gifts quite often...
+    Thank you.
+  ko: |-
+    다들 제게 마음을 담아 선물을 주곤 했었죠.
+    …고마워요.
+  ja: |-
+    みなさん、私に心のこもったプレゼントをしてくれましたよね。
+    …ありがとうございます。
+c260_02_Attractive_Up_1:
+  en: You've touched my heart in many ways.
+  ko: 마음이 따뜻해졌어요.
+  ja: 心が温かくなりました。
+c260_02_Attractive_Up_2:
+  en: "I miss you... \nI miss you more than words can say."
+  ko: |-
+    보고 싶어요.
+    …너무 보고 싶어요.
+  ja: |-
+    会いたいです。
+    …すごく会いたいです。
+c260_02_Attractive_Up_3:
+  en: I can't believe I can like you even more.
+  ko: |-
+    …여기서 더 좋아질 수 있다는 게
+    신기할 정도네요.
+  ja: "…不思議なくらい、もっともっと好きになります。"
+c260_02_Party_Deploy_1:
+  en: I'm always ready.
+  ko: 전 언제든 준비되어 있어요.
+  ja: 私はいつでも準備できています。
+c260_02_Field_Touch_1:
+  en: Yes? What is it?
+  ko: 네, 말씀하세요.
+  ja: はい、どうぞ。
+c260_02_Field_Go_1:
+  en: Moving.
+  ko: 이동할게요.
+  ja: 移動します。
+c260_02_Battle_Enter_1:
+  en: Encounter.
+  ko: 인카운터.
+  ja: エンカウンター。
+c260_02_Battle_Ready_1:
+  en: I guess I have no choice but to fight.
+  ko: 싸울 수밖에 없겠네요.
+  ja: 戦うしかありませんね。
+c260_02_Battle_Ready_2:
+  en: I will send you off without pain.
+  ko: 고통 없이 보내드릴게요.
+  ja: 苦しまないように送ってあげますね。
+c260_02_Battle_Ready_3:
+  en: I will send you all away.
+  ko: "…모두 돌려보낼게요."
+  ja: "…みんなを帰してあげましょう。"
+c260_02_Reload_1:
+  en: I can still keep fighting.
+  ko: 계속 싸울 수 있어요.
+  ja: まだまだ戦えます。
+c260_02_Reload_2:
+  en: Preparing to reload.
+  ko: 장전할게요.
+  ja: 装填します。
+c260_02_Reload_3:
+  en: Hold on a little longer.
+  ko: 조금만 더 버텨요.
+  ja: もう少しだけ耐えてください。
+c260_02_Ult_Skill_Ready_1:
+  en: I'm ready.
+  ko: 준비 됐어요.
+  ja: 準備できました。
+c260_02_Ult_Skill_1:
+  en: Return to where you belong.
+  ko: 모두 돌아가주세요. 있어야 할 그곳으로.
+  ja: 帰ってください。あなたたちがいるべき場所へ。
+c260_02_FullBurst_1:
+  en: I'll see it through!
+  ko: 밀어붙일게요!
+  ja: 行きます！
+c260_02_Kill_Monster_1:
+  en: Next.
+  ko: 다음.
+  ja: 次。
+c260_02_Kill_Monster_2:
+  en: I'm sorry...
+  ko: "…미안해요."
+  ja: "…ごめんなさい。"
+c260_02_Kill_Monster_3:
+  en: Just a little more...
+  ko: 조금만 더…!
+  ja: もうちょっと…！
+c260_02_Damage_1:
+  en: Ahh!
+  ko: 앗!
+  ja: あっ！
+c260_02_Damage_2:
+  en: Argh...!
+  ko: 크윽…!
+  ja: くっ…！
+c260_02_Damage_3:
+  en: Ouch!
+  ko: 읏!
+  ja: うっ！
+c260_02_Die_1:
+  en: No, I wasn't... able to protect anyone...
+  ko: 안 돼, 아직… 지키지… 못 했는데….
+  ja: ダメ、まだ…守れて…ないのに…
+c260_02_Win_1:
+  en: I'm glad I was able to protect everyone.
+  ko: 지킬 수 있어서 다행이에요.
+  ja: 守ることができてよかったです。
+260_cv_ja:
+  en: 'CV: Kana Hanazawa'
+  ko: 'CV : 하나자와 카나'
+  ja: CV：花澤香菜
+260_cv_ko:
+  en: 'CV: Kim Ha-ru'
+  ko: 'CV : 김하루'
+  ja: CV：キム・ハル
+260_cv_en:
+  en: 'CV: Ryan Bartley'
+  ko: 'CV : 라이언 바틀리'
+  ja: CV：Ryan Bartley

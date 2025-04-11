@@ -1,0 +1,754 @@
+---
+830_name:
+  en: Asuka
+  ko: 아스카
+  ja: アスカ
+c830_description:
+  en: |-
+    Her full name is Asuka Shikinami Langley.
+    A native of Germany and the pilot of Evangelion Unit Two,
+    her competitive nature and straightforward personality makes it difficult for her to be bested by people around her.
+  ko: "풀네임은 시키나미 아스카 랑그레이.\n에반게리온 2호기 파일럿. 독일 출신. \n지기 싫어하는 성격이며, 직설적인 언동으로 주변을 압도한다."
+  ja: |-
+    フルネームは式波・アスカ・ラングレー。
+    エヴァンゲリオン2号機のパイロット。
+    ドイツ出身、勝ち気な性格と気持ちを
+    ストレートに反映した言動で周囲を圧倒する。
+830_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_830:
+  en: Asuka's Spare Body
+  ko: 아스카 스페어 바디
+  ja: アスカのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28302_name:
+  en: Assault Tactics
+  ko: 돌격 전술
+  ja: 突撃戦術
+28302_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects self when in <word_group=10023>Shield</word_group> status.
+    <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects all Fire Code allies.
+    <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신이 <word_group=10023>보호막</word_group> 적용 상태라면 자신에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 작열 코드 아군 전체에게
+    <color=#00AEFF>[코어 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分が<word_group=10023>バリア</word_group>適用状態なら自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが発動した時、灼熱コードの味方全体に
+    <color=#00AEFF>「コアダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28301_name:
+  en: Competitiveness
+  ko: 호승심
+  ja: 負けず嫌い
+28301_description:
+  en: |-
+    ■ Activates at the start of the battle. Affects self.
+    <color=#00AEFF><word_group=10054>Damage dealt to Shield</word_group> ▲ {description_value_01}% continuously.</color>
+    ■ Activates when <word_group=10027>recovery takes effect</word_group>. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10054>보호막에 가하는 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ <word_group=10027>회복 효과 적용 시</word_group> 자신에게
+    <color=#00AEFF>[공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10054>バリアに与えるダメージ</word_group>{description_value_01}％▲」「持続」</color>
+    ■<word_group=10027>回復効果が適用された時</word_group>、自分に
+    <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18303_name:
+  en: Piercing Bullets
+  ko: 관통 특화 탄환
+  ja: 貫通特化弾丸
+18303_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Gain Pierce for {description_value_01} sec.</color>
+    <color=#00AEFF>Attack damage ▲ {description_value_02}% for {description_value_03} sec.</color>
+    <color=#00AEFF>Recovers {description_value_04}% of attack damage as HP over {description_value_05} sec.</color>
+    <color=#00AEFF>Hit Rate ▲ {description_value_06}% for {description_value_07} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[관통 특화] [{description_value_01}초 유지]</color>
+    <color=#00AEFF>[공격 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    <color=#00AEFF>[공격 대미지 비례 {description_value_04}% 회복] [{description_value_05}초 유지]</color>
+    <color=#00AEFF>[명중률 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「貫通特化」「{description_value_01}秒間維持」</color>
+    <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    <color=#00AEFF>「攻撃ダメージの{description_value_04}％回復」
+    「{description_value_05}秒間維持」</color>
+    <color=#00AEFF>「命中率{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+831_name:
+  en: Rei
+  ko: 레이
+  ja: レイ
+832_name:
+  en: Mari
+  ko: 마리
+  ja: マリ
+834_name:
+  en: Rei (Tentative Name)
+  ko: 레이 (가칭)
+  ja: レイ（仮称）
+833_name:
+  en: Misato
+  ko: 미사토
+  ja: ミサト
+c830_Lobby_Touch_1:
+  en: Helping the stupid masses is the duty of the elite.
+  ko: 우민을 돕는 것은, 엘리트의 의무일 뿐이야.
+  ja: 愚民を助けるのは、エリートの義務ってだけよ。
+c830_Lobby_Touch_2:
+  en: |-
+    Is the food in this world called "Splendamin"?
+    I can't believe you're making me eat that.
+  ko: |-
+    이 세계의 음식. 퍼펙트랬나?
+    그런 걸 먹으라니, 믿을 수 없어.
+  ja: |-
+    この世界の食べ物… パーフェクトだっけ？
+    あんなものを食べろだなんて、信じらんないわ。
+c830_Lobby_Touch_3:
+  en: |-
+    The air is terrible.
+    Is it because we're underground?
+  ko: |-
+    공기가 나쁘네.
+    지하니까 당연한가.
+  ja: |-
+    空気が悪いわね。
+    地下だから当然か。
+c830_Lobby_Touch_Love_1:
+  en: |-
+    Do you also have game consoles here?
+    The handheld ones you can bring anywhere.
+  ko: |-
+    이곳에도 게임기가 있어?
+    휴대용으로.
+  ja: |-
+    ここにもゲーム機があるの？
+    携帯用の。
+c830_Lobby_Touch_Love_2:
+  en: I'll have to go through this alone, anyway.
+  ko: 어차피, 혼자서 해나갈 수밖에 없는 거야.
+  ja: どうせ、ひとりでやるしかないのよ。
+c830_Lobby_Touch_Love_3:
+  en: Just wait, Unit Two. We'll be able to go back soon.
+  ko: 기다려 2호기. 곧 돌아갈 테니까.
+  ja: 待ってて2号機。すぐ戻るから。
+c830_Lobby_Stay_1:
+  en: |-
+    Are you a complete idiot?
+    Don't just stand there. Do something!
+  ko: |-
+    너 바보야?
+    가만히 있지 말고 뭐라도 하란 말이야.
+  ja: |-
+    あんたバカぁ？
+    じっとしてないで、何かしてなさいよ。
+c830_Lobby_Stay_Love_1:
+  en: |-
+    How long are you going to keep me waiting?
+    What an idiot.
+  ko: |-
+    얼마나 기다리게 할 셈이야?
+    바보 같아.
+  ja: |-
+    どんだけ待たせるつもり？
+    バッカみたい。
+c830_Outpost_Touch_1:
+  en: |-
+    Where can I find a quiet place...?
+    I guess there's none.
+  ko: |-
+    조용한 곳은… 없어 보이네.
+    정말이지.
+  ja: |-
+    静かな場所は…なさそうね。
+    やんなっちゃう。
+c830_Outpost_Touch_2:
+  en: |-
+    Raptures have invaded, and you're acting like this?
+    Don't you have a sense of urgency?!
+  ko: |-
+    여기까지 랩쳐가 쳐들어오는데 이런 분위기?
+    위기감 부족한 것 아냐?
+  ja: |-
+    ここまでラプチャーが 攻めてくるってのに、 何よこの雰囲気。
+    危機感足りなさすぎじゃない？
+c830_Outpost_Touch_3:
+  en: Houses that have rooms without locks? Unbelievable.
+  ko: 모든 건물에 열쇠가 없다니, 믿을 수 없어.
+  ja: どの建物にも カギがかかってないなんて、 信じらんない。
+c830_Gacha_Get_1:
+  en: |-
+    I am Asuka Shikinami Langley, the pilot of Evangelion Unit Two.
+    Remember that.
+  ko: |-
+    에반게리온 2호기의 파일럿. 시키나미 아스카 랑그레이야.
+    기억해 둬.
+  ja: |-
+    エヴァンゲリオン2号機のパイロット。
+    式波・アスカ・ラングレーよ。
+    覚えておきなさい。
+c830_Reinforce_1:
+  en: Now you have no choice but to acknowledge my talent, right?
+  ko: 내 재능을 인정할 수밖에 없겠지?
+  ja: 私の才能を認めざるを得ないでしょ？
+c830_Reinforce_2:
+  en: That's a given. I'm a genius, after all.
+  ko: 당연해. 천재인걸.
+  ja: 当然よ。天才なんだから。
+c830_Reinforce_3:
+  en: I'm the cream of the crop.
+  ko: 톱 스코어는 내 거야.
+  ja: トップスコアは私のものよ。
+c830_Gift_1:
+  en: |-
+    Is this item from this world?
+    Interesting.
+  ko: |-
+    이 세계의 물건이야?
+    흥미롭네.
+  ja: |-
+    この世界のもの？
+    気になるわね。
+c830_Gift_2:
+  en: I'll still do well even if you don't give me such things.
+  ko: 이런 걸 주지 않아도 알아서 잘할거야.
+  ja: こんなものくれなくたって、ちゃんと活躍するわよ。
+c830_Gift_3:
+  en: |-
+    A gift?
+    Fine, I'll take it.
+  ko: |-
+    선물?
+    뭐 좋아. 받아둘게.
+  ja: |-
+    プレゼント？
+    まあ、いいわ。もらってあげる。
+c830_Attractive_Up_1:
+  en: |-
+    Nikkes who fight for mankind...
+    Wherever you go, it's always the outstanding ones who get the short end of the stick.
+  ko: |-
+    인류를 위해 싸우는 니케라.
+    정말이지, 어딜 가나 우수한 사람들이 손해네.
+  ja: |-
+    人類のために戦うニケ、ね。
+    ホント、どの世界でも優秀な人たちが損をするのよ。
+c830_Attractive_Up_2:
+  en: |-
+    So the Ark is akin to mankind's last paradise.
+    Hmm, I guess things are better in our world.
+  ko: |-
+    방주는 인류 최후의 장소 같은 거네.
+    뭐, 우리 쪽이 사정은 좀 더 나은가.
+  ja: |-
+    アークは人類最後の砦って感じか。
+    まあ、私たちの方がちょっとはマシかな。
+c830_Attractive_Up_3:
+  en: |-
+    So, Raptures are the main villains in this world?
+    The equivalents in my world are called Angels.
+  ko: |-
+    이 세계의 주적은 랩쳐라는 기계들인 거지?
+    우리 세계에도 비슷한 건 있어. 사도라고.
+  ja: |-
+    この世界の敵はラプチャーっていう機械なんでしょ？
+    私たちの世界にも、使徒っていう似たようなのがいるの。
+c830_Party_Deploy_1:
+  en: If you think about who's better, the answer is obvious.
+  ko: 뭐, 어느 쪽이 우수한가를 생각한다면 당연한 결론이지.
+  ja: ま、どっちが優秀かを考えれば、当然の結論ね。
+c830_Field_Touch_1:
+  en: I'm listening.
+  ko: 듣고 있어.
+  ja: 聞いてる。
+c830_Field_Go_1:
+  en: Let's move out.
+  ko: 이동할게.
+  ja: 移動するわ。
+c830_Battle_Enter_1:
+  en: Brace yourself!
+  ko: 각오하라고!
+  ja: 覚悟しなさい！
+c830_Battle_Ready_1:
+  en: I can take them on alone!
+  ko: 이 정도 상대, 나 혼자서도 충분해!
+  ja: これくらい、私ひとりで十分よ！
+c830_Battle_Ready_2:
+  en: Quit struggling!
+  ko: 이제 그만 단념해!
+  ja: もう諦めなさい！
+c830_Battle_Ready_3:
+  en: Think you can challenge me?!
+  ko: 해보자는거지!
+  ja: 受けて立つわ！
+c830_Reload_1:
+  en: Reloading!
+  ko: 리로드!
+  ja: リロード！
+c830_Reload_2:
+  en: Oh, come on!
+  ko: 아아~! 정말!
+  ja: ああ～！もうっ！
+c830_Reload_3:
+  en: Stay where you are!
+  ko: 거기서 얌전히 있어!
+  ja: そこで大人しくしてなさい！
+c830_Ult_Skill_Ready_1:
+  en: It's my turn now!
+  ko: 나설 차례네!
+  ja: 私の出番ね！
+c830_Ult_Skill_1:
+  en: Let's end this!
+  ko: 이걸로…! 라스트!
+  ja: これで…！ラスト！
+c830_FullBurst_1:
+  en: Go go go!
+  ko: 가라-!
+  ja: いっけー！
+c830_Kill_Monster_1:
+  en: I got it!
+  ko: 잡았다!
+  ja: 捕まえた！
+c830_Kill_Monster_2:
+  en: Out of my way!
+  ko: 방해야!
+  ja: 邪魔よ！
+c830_Kill_Monster_3:
+  en: Take this!
+  ko: 먹어랏!
+  ja: くらえっ！
+c830_Damage_1:
+  en: Tsk!
+  ko: 칫…!
+  ja: ちっ…！
+c830_Damage_2:
+  en: Urgh...
+  ko: 으윽…!
+  ja: ううっ…！
+c830_Damage_3:
+  en: This is...!
+  ko: 이게…!
+  ja: こんのっ…！
+c830_Die_1:
+  en: Darn it!
+  ko: 젠장…! 잘도…!
+  ja: チッ…！よくも…！
+c830_Win_1:
+  en: That was a cakewalk.
+  ko: 이 정도는 낙승이지.
+  ja: これくらい、楽勝よ。
+c830_03_Lobby_Touch_1:
+  en: |-
+    How much longer do I have to stay in this world?
+    It's so boring!
+  ko: 언제까지 이 세계에 있어야 하는 걸까.지루해.
+  ja: |-
+    いつまでこの世界に いなきゃいけないの？
+    退屈だわ。
+c830_03_Lobby_Touch_2:
+  en: "Today's condition? \nAre you an idiot? It's perfect, of course."
+  ko: 오늘의 컨디션?바보 아냐. 당연히 완벽해.
+  ja: |-
+    今日のコンディション？バッカじゃないの？
+    もちろん完璧よ。
+c830_03_Lobby_Touch_3:
+  en: |-
+    School, huh... Will that be okay?
+    Wouldn't it be a problem if an outsider gets the top score?
+  ko: 학교인가…. 괜찮겠어?외부인이 톱 스코어를 갱신하면 곤란한 것 아냐?
+  ja: |-
+    学校か…大丈夫？
+    部外者がトップスコアを更新しちゃったら困るんじゃない？
+c830_03_Lobby_Touch_Love_1:
+  en: |-
+    You did a great job.
+    ... What. Are you unhappy about my greeting?
+  ko: 수고 많네.…뭐야. 내 인사에 불만이라도 있어?
+  ja: |-
+    お疲れ様。
+    …何よ。あたしのあいさつに不満でもあるの？
+c830_03_Lobby_Touch_Love_2:
+  en: |-
+    You always seem busy.
+    Do you feel happier when you're with others?
+  ko: 넌 항상 바빠 보이네.남들이랑 어울리는 건 즐거워?
+  ja: |-
+    あんたはいつも忙しそうね。
+    人付き合いって楽しい？
+c830_03_Lobby_Touch_Love_3:
+  en: What is that idiot Shinji doing now?
+  ko: 뭐 하고 있을까. 바보 신지.
+  ja: 何してんのかな。バカシンジ。
+c830_03_Lobby_Stay_1:
+  en: Hey! What are you doing? Are you even listening?
+  ko: 어~이. 뭐 하는 거야? 듣고 있어?
+  ja: ねえ、何してるの？聞いてる？
+c830_03_Lobby_Stay_Love_1:
+  en: |-
+    Hey! You're just going to leave me standing here?
+    Are you an idiot or something?
+  ko: 이봐! 여기 계속 세워둘 생각이야?너 바보야?
+  ja: |-
+    ちょっと！ずっとここに立たせるつもり？
+    あんた、バカぁ？
+c830_03_Outpost_Touch_1:
+  en: |-
+    That entire thing that looks like the sky is a screen?
+    Woah, that's huge.
+  ko: 하늘처럼 보이는 게 전부 디스플레이?헤에~ 굉장하네.
+  ja: |-
+    空に見えるのは 全部ディスプレイなの？
+    へえ～すごいわね。
+c830_03_Outpost_Touch_2:
+  en: |-
+    Don't you all think you're a little too relaxed?
+    And you people have no sense of security.
+  ko: 다들 너무 여유 부리는 것 아냐?정말, 위기감이 부족해.
+  ja: |-
+    みんな、のんびりしすぎじゃない？
+    ホント、危機感が足りないわ。
+c830_03_Outpost_Touch_3:
+  en: I can't imagine living in a house where doors don't lock.
+  ko: 열쇠 없는 곳에서 잘도 지내네.믿을 수 없어.
+  ja: |-
+    鍵がない場所でよく暮らせるわね。
+    信じらんない。
+c830_03_Gacha_Get_1:
+  en: "By the way, about this test plug suit... \nI like the red color, but don't
+    you think it's too revealing?"
+  ko: 빨간 것은 좋지만, 이 테스트용 플러그 슈트… 너무 보이는 거 아냐?
+  ja: |-
+    赤いのは気に入ったけど、このテスト用プラグスーツ…
+    見えすぎじゃない？
+c830_03_Reinforce_1:
+  en: That's the difference in abilities.
+  ko: 재능의 차이, 라는 거지.
+  ja: 才能の違い、ってことね。
+c830_03_Reinforce_2:
+  en: Don't be surprised. This is normal.
+  ko: 놀랄 필요 없어. 당연한 거니까.
+  ja: 驚かなくていいわ。当然のことだから。
+c830_03_Reinforce_3:
+  en: Good. It's time to update the top score.
+  ko: 좋아, 톱 스코어를 갱신할 때네.
+  ja: よし、トップスコアを更新する時ね。
+c830_03_Gift_1:
+  en: What's this? A gift for me?
+  ko: 뭐야 이거? 선물? 나한테?
+  ja: 何これ？プレゼント？あたしに？
+c830_03_Gift_2:
+  en: You don't have to butter me up. I'll do my job well regardless.
+  ko: 아부는 필요 없어. 알아서 잘할 테니까.
+  ja: お世辞は結構。そんなのなくてもちゃんとやるから。
+c830_03_Gift_3:
+  en: Heh, the things in this world aren't that different, after all.
+  ko: 흐음~ 이 세계의 물건이라고 특별히 다르진 않구나.
+  ja: ふーん。この世界のものも特別違うわけじゃないのね。
+c830_03_Attractive_Up_1:
+  en: |-
+    Nikkes don't really look that different from humans.
+    I wouldn't have known if you didn't tell me.
+  ko: 겉보기에 니케는 사람과 다르지 않네.알려주지 않으면 모르겠어.
+  ja: |-
+    ニケって見た目は人間と同じね。
+    言われなかったら分かんないわ。
+c830_03_Attractive_Up_2:
+  en: |-
+    So the Ark is a replication of the surface?
+    Awesome. It doesn't feel like the underground at all.
+  ko: 방주는 지상의 환경을 그대로 재현한 거지?제법이네. 지하라는 인식이 들지 않을 정도야.
+  ja: |-
+    アークって地上の環境をそのまま再現してるのよね？
+    なかなかじゃない。地下とは思えないぐらいよ。
+c830_03_Attractive_Up_3:
+  en: |-
+    The probability of encountering Raptures on the surface within an hour is 100%?
+    What the heck? Doesn't that mean there are infinite encounters?
+  ko: 지상에서 1시간 이내에 랩쳐와의 조우율이 100%?뭐야, 그 정도면 무한인 것 아냐?
+  ja: |-
+    地上で1時間以内にラプチャーと遭遇する確率が100％？
+    何それ。無限にいるってこと？
+c830_03_Party_Deploy_1:
+  en: For being a genius!
+  ko: 천재니까 선택받는 거야.
+  ja: 天才だから選ばれるのよ。
+c830_03_Field_Touch_1:
+  en: I know.
+  ko: 알고 있어.
+  ja: 分かってる。
+c830_03_Field_Go_1:
+  en: I will take the lead.
+  ko: 내가 선두에 서겠어.
+  ja: あたしが先頭に立つわ。
+c830_03_Battle_Enter_1:
+  en: Come on. Bring it on!
+  ko: 자, 덤벼봐!
+  ja: かかってきなさい！
+c830_03_Battle_Ready_1:
+  en: You eyesores!
+  ko: 거슬린다고 너희들!
+  ja: 目障りなのよ、あんたたち！
+c830_03_Battle_Ready_2:
+  en: I alone can wipe you all out!
+  ko: 이 정도라면, 혼자서 섬멸가능해!
+  ja: これくらいなら、1人で殲滅できるわ！
+c830_03_Battle_Ready_3:
+  en: Ha, easy-peasy!
+  ko: 뭐, 낙승이네!
+  ja: ふん、楽勝ね！
+c830_03_Reload_1:
+  en: Reloading! Cover me!
+  ko: 리로드 할게! 엄호해!
+  ja: リロードするわ！援護して！
+c830_03_Reload_2:
+  en: Getting better at this!
+  ko: 슬슬 손에 익어가는걸!
+  ja: あったまってきたわ！
+c830_03_Reload_3:
+  en: I'll be there soon. Wait for me!
+  ko: 곧 갈 테니, 조금만 기다려!
+  ja: すぐ行くから、ちょっと待ってて！
+c830_03_Ult_Skill_Ready_1:
+  en: Here I come!
+  ko: 이대로 강행할게!
+  ja: このまま強行よ！
+c830_03_Ult_Skill_1:
+  en: Well, that's not bad.
+  ko: 뭐, 이것도 나쁘지 않네.
+  ja: まっ、これも悪くないわね。
+c830_03_FullBurst_1:
+  en: Heyaaaaaaa!
+  ko: 오랴아아앗!
+  ja: おりゃああっ！
+c830_03_Kill_Monster_1:
+  en: That was a piece of cake!
+  ko: 간단하네!
+  ja: 簡単ね！
+c830_03_Kill_Monster_2:
+  en: Next!
+  ko: 다음!
+  ja: 次！
+c830_03_Kill_Monster_3:
+  en: Great!
+  ko: 좋아!
+  ja: いいわ！
+c830_03_Damage_1:
+  en: Watch out...!
+  ko: 위험해…!
+  ja: 危ない…！
+c830_03_Damage_2:
+  en: Damn it...!
+  ko: 젠장…!
+  ja: チッ…！
+c830_03_Damage_3:
+  en: Seriously...!?
+  ko: 잘도…!
+  ja: よくも…！
+c830_03_Die_1:
+  en: Tsk...! How troublesome...!
+  ko: 칫…! 번거로운 짓을…!
+  ja: チッ…！面倒なマネを…！
+c830_03_Win_1:
+  en: This is the inevitable outcome.
+  ko: 당연한 결과야.
+  ja: 当然の結果ね。
+830_cv_ja:
+  en: 'CV: Yūko Miyamura'
+  ko: 'CV : 미야무라 유코'
+  ja: CV：宮村優子
+830_cv_ko:
+  en: 'CV: Yūko Miyamura'
+  ko: 'CV : 미야무라 유코'
+  ja: CV：宮村優子
+830_cv_en:
+  en: 'CV: Yūko Miyamura'
+  ko: 'CV : 미야무라 유코'
+  ja: CV：宮村優子

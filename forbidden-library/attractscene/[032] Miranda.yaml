@@ -1,0 +1,3223 @@
+---
+d_nikke_miranda_01:
+  d_nikke_miranda_01_1:
+    speaker: "<Monologue>"
+    en: One peaceful afternoon...
+    ko: 평화로운 오후.
+    ja: のどかな昼下がり
+  d_nikke_miranda_01_2:
+    speaker: "<Monologue>"
+    en: No operations or commissions today. It is an idle day.
+    ko: |-
+      오늘은 임무도 의뢰도 없다.
+      아주 한가롭다.
+    ja: |-
+      今日は任務もないし、依頼もない
+      時間がたっぷりある
+  d_nikke_miranda_01_3:
+    speaker: "<Monologue>"
+    en: How about taking a nap?
+    ko: 낮잠이라도 자볼까?
+    ja: 昼寝でもするか？
+  d_nikke_miranda_01_4:
+    speaker: "<Narration>"
+    en: "*Knock knock*"
+    ko: 똑똑-
+    ja: トントンー
+  d_nikke_miranda_01_5:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_nikke_miranda_01_6:
+    speaker: miranda
+    en: Commander, are you there?
+    ko: 지휘관. 계십니까?
+    ja: 指揮官。いらっしゃいますか？
+  d_nikke_miranda_01_7:
+    speaker: "<Self>"
+    en: Yes.
+    ko: 계십니다.
+    ja: いらっしゃる
+  d_nikke_miranda_01_8:
+    speaker: miranda
+    en: Are you alone?
+    ko: 혼자 계십니까?
+    ja: お一人でしょうか？
+  d_nikke_miranda_01_9:
+    speaker: "<Self>"
+    en: I am alone.
+    ko: 나 혼잔데?
+    ja: 1人だが？
+  d_nikke_miranda_01_10:
+    speaker: miranda
+    en: Great. I'm coming in!
+    ko: |-
+      다행입니다.
+      들어가겠습니다!
+    ja: |-
+      そうですか。
+      では中に入らせていただきます！
+  d_nikke_miranda_01_11:
+    speaker: miranda
+    en: Ah, I shouldn't be talking so loudly...!
+    ko: 아, 이렇게 크게 말하면 안 되는데…!
+    ja: あっ、こんなに大きな声を出しちゃっては…！
+  d_nikke_miranda_01_12:
+    speaker: "<Narration>"
+    en: Miranda carefully opens the door and walks in.
+    ko: 미란다가 조심스레 문을 열고 들어왔다.
+    ja: ミランダがそっとドアを開けて中に入ってきた
+  d_nikke_miranda_01_13:
+    speaker: "<Self>"
+    en: What's the matter?
+    ko: 무슨 일이야?
+    ja: どうした？
+  d_nikke_miranda_01_14:
+    speaker: miranda
+    en: I... heard that you can guess the rest of the ten questions after only hearing
+      the first one.
+    ko: 저… 지휘관이 질문 하나만 들어도 열을 꿰뚫어보는.
+    ja: |-
+      あの…指揮官は一を聞いて
+      十を知ることができる、
+  d_nikke_miranda_01_15:
+    speaker: miranda
+    en: That's just like consulting a genius.
+    ko: 상담의 귀재라고 들었습니다.
+    ja: 相談の鬼才だという噂を耳にしました。
+  d_nikke_miranda_01_16:
+    speaker: "<Choice>"
+    en: Yes.
+    ko: 맞아.
+    ja: そうだ
+  d_nikke_miranda_01_17:
+    speaker: "<Choice>"
+    en: No.
+    ko: 아니야.
+    ja: 違う
+  d_nikke_miranda_01_18:
+    speaker: miranda
+    en: Just as I expected.
+    ko: 역시.
+    ja: やはり。
+  d_nikke_miranda_01_19:
+    speaker: miranda
+    en: I think you must be the rumored protagonist, Commander!
+    ko: 지휘관이라면 분명 소문의 주인공일 거라고 생각했습니다!
+    ja: 指揮官こそがその噂の\n張本人だと思っておりました！
+  d_nikke_miranda_01_20:
+    speaker: miranda
+    en: It's actually so typical of you, Commander.
+    ko: 역시 지휘관입니다.
+    ja: さすがは指揮官です。
+  d_nikke_miranda_01_21:
+    speaker: miranda
+    en: Cool!
+    ko: 멋집니다!
+    ja: 尊敬いたします！
+  d_nikke_miranda_01_22:
+    speaker: "<Self>"
+    en: Thank you.
+    ko: 고마워.
+    ja: ありがとう
+  d_nikke_miranda_01_23:
+    speaker: miranda
+    en: N-no?
+    ko: 아, 아닙니까?
+    ja: あ、違いましたか？
+  d_nikke_miranda_01_24:
+    speaker: miranda
+    en: Impossible...
+    ko: 말도 안 돼….
+    ja: そんなはずは…
+  d_nikke_miranda_01_25:
+    speaker: "<Self>"
+    en: Huh?
+    ko: 뭐가?
+    ja: 何が？
+  d_nikke_miranda_01_26:
+    speaker: miranda
+    en: This won't do.
+    ko: 이러면 안 되는데 말입니다아.
+    ja: それじゃあ困ります。
+  d_nikke_miranda_01_27:
+    speaker: "<Self>"
+    en: Do you need advice?
+    ko: 혹시 상담이 필요해?
+    ja: もしかして面談が必要か？
+  d_nikke_miranda_01_28:
+    speaker: miranda
+    en: Yes! I actually need it very much!
+    ko: 네! 꼭! 필요합니다!
+    ja: はい！そうなんです！困ってるんです！
+  d_nikke_miranda_01_29:
+    speaker: "<Self>"
+    en: Go ahead.
+    ko: 말해봐.
+    ja: 話してみろ
+  d_nikke_miranda_01_30:
+    speaker: miranda
+    en: From now on, everything I'm telling you is all top secret.
+    ko: 지금부터 들려드릴 이야기는 1급 비밀입니다.
+    ja: 今から話す内容はトップシークレットです。
+  d_nikke_miranda_01_31:
+    speaker: miranda
+    en: You mustn't tell anyone. Or else, I'll be in trouble!
+    ko: "어디 가서 이야기하시면 안 됩니다. \n큰일 납니다!"
+    ja: |-
+      絶対に他の人に話してはいけません。
+      もし誰かに知られたら大変なことになります！
+  d_nikke_miranda_01_32:
+    speaker: "<Self>"
+    en: Got it.
+    ko: 알겠어.
+    ja: 分かった
+  d_nikke_miranda_01_33:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_01_34:
+    speaker: miranda
+    en: Commander... Actually, I... I'm not a cop of the A.C.P.U.
+    ko: |-
+      저… 지휘관. 사실은….
+      전 A.C.P.U. 소속 경찰관이 아닙니다.
+    ja: |-
+      あの…指揮官。実は…
+      私はA.C.P.U.所属の警察官ではありません。
+  d_nikke_miranda_01_35:
+    speaker: miranda
+    en: I was secretly sent to the A.C.P.U. as an inspector!
+    ko: 저는 감사를 위해 A.C.P.U.에 비밀리에 파견된 감찰관입니다!
+    ja: 私は監査のためにA.C.P.U.に\n秘密裏に派遣された監察官です！
+  d_nikke_miranda_01_36:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!!"
+    ja: "！！！！"
+  d_nikke_miranda_01_37:
+    speaker: miranda
+    en: Oh, you must be surprised.
+    ko: 어, 엄청 놀라시지 말입니다.
+    ja: あっ、すごい驚きのようですね。
+  d_nikke_miranda_01_38:
+    speaker: miranda
+    en: Well, of course, this is really a surprise.
+    ko: 아… 물론 놀랄 일이긴 합니다만.
+    ja: まあ…もちろん驚かない方がおかしいですが。
+  d_nikke_miranda_01_39:
+    speaker: "<Self>"
+    en: Unbelievable.
+    ko: 믿기지 않아서.
+    ja: 信じられなくて
+  d_nikke_miranda_01_40:
+    speaker: miranda
+    en: Oh? I-is it?
+    ko: 엇? 그, 그렇습니까?
+    ja: え？そ、そうですか？
+  d_nikke_miranda_01_41:
+    speaker: miranda
+    en: I-I must have been putting on a really good act.
+    ko: 제, 제가 너무 연기를 잘 한 모양입니다.
+    ja: わ、私の演技力がなかなかだったようですね。
+  d_nikke_miranda_01_42:
+    speaker: "<Self>"
+    en: "... It doesn't seem like you are an inspector."
+    ko: "…그건 아닌 거 같은데."
+    ja: "…そこじゃない"
+  d_nikke_miranda_01_43:
+    speaker: miranda
+    en: Huh? Then why...
+    ko: 예? 아니면 왜….
+    ja: はい？では…
+  d_nikke_miranda_01_44:
+    speaker: "<Self>"
+    en: So why an inspector?
+    ko: 그래서 감찰관인 게 왜?
+    ja: でもそれがどうしたんだ？
+  d_nikke_miranda_01_45:
+    speaker: miranda
+    en: So this happened a few days ago...
+    ko: 저 그게… 며칠 전의 일입니다.
+    ja: 実は…この前のことです。
+  d_nikke_miranda_01_46:
+    speaker: "<Narration>"
+    en: A few days ago.
+    ko: 며칠 전
+    ja: 数日前
+  d_nikke_miranda_01_47:
+    speaker: "<Monologue>"
+    en: That day, I completed my task of protecting and guiding the missing children.
+      You know, the usual.
+    ko: 전 그날도 어김없이 미아 보호와 길 안내 임무를 끝내고.
+    ja: |-
+      私はその日も、いつものように
+      迷子の保護と道案内業務を終え、
+  d_nikke_miranda_01_48:
+    speaker: "<Monologue>"
+    en: I was eating my lunch happily. And then...
+    ko: |-
+      점심을 맛있게 먹어 기뻐하고 있었습니다.
+      그런데 그때.
+    ja: |-
+      おいしい昼食を食べ終え満足していました
+      ところが、その時
+  d_nikke_miranda_01_49:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  d_nikke_miranda_01_50:
+    speaker: miranda
+    en: A new message?
+    ko: 메시지?
+    ja: メッセージ？
+  d_nikke_miranda_01_51:
+    speaker: miranda
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_nikke_miranda_01_52:
+    speaker: "<Narration>"
+    en: Miranda hurriedly closes the message and then looks around.
+    ko: 미란다는 황급히 메신저를 닫고 주위를 두리번거렸다.
+    ja: ミランダは慌ててメッセンジャー画面を閉じ\n周囲を見渡した
+  d_nikke_miranda_01_53:
+    speaker: miranda
+    en: Whew... Fortunately, no one is around here!
+    ko: 휴… 아무도 없는 것 같습니다. 다행입니다!
+    ja: ふぅ…誰もいないみたいです。よかったです！
+  d_nikke_miranda_01_54:
+    speaker: poli
+    en: What's the matter? Did you find money lying on the ground?
+    ko: 왜여? 돈이라도 주웠어여?
+    ja: どうしましたぁ？お金でも拾いましたかぁ？
+  d_nikke_miranda_01_55:
+    speaker: miranda
+    en: P-P-P-Poli?
+    ko: 포, 포, 포, 포, 폴리?!
+    ja: ポ、ポ、ポ、ポ、ポリ！？
+  d_nikke_miranda_01_56:
+    speaker: poli
+    en: What? I'm no ghost! Don't be afraid!
+    ko: 왜 그래여? 뭐 못 볼 거 본 사람처럼.
+    ja: |-
+      どうしたんですかぁ？
+      幽霊でも見たみたいに。
+  d_nikke_miranda_01_57:
+    speaker: miranda
+    en: Ah... Nothing!
+    ko: 아… 무 것도 아닙니다!
+    ja: な…何でもありません！
+  d_nikke_miranda_01_58:
+    speaker: miranda
+    en: I-it's just that I received strange messages!
+    ko: 그, 그냥 이상한 메시지가 와서 그렇습니다!
+    ja: た、ただ変なメッセージが来て\nびっくりしてただけです！
+  d_nikke_miranda_01_59:
+    speaker: poli
+    en: Just ignore them. Why are you looking around?
+    ko: 그럼 그냥 지우면 되징. 왜 그렇게 두리번 거려여?
+    ja: |-
+      だったらただ削除すればいいのにぃ。
+      なんでそんなにキョロキョロしてるんですぅ？
+  d_nikke_miranda_01_60:
+    speaker: miranda
+    en: Um... Um...
+    ko: 그… 그게….
+    ja: そ…それは…
+  d_nikke_miranda_01_61:
+    speaker: miranda
+    en: Ah, I feel like they were sent by someone I know. I have a feeling they're
+      nearby...
+    ko: "아, 알고 보니 아는 사람인 거 같아서… \n주, 주변에 있을 거 같아서…!"
+    ja: |-
+      よ、よく考えたら知り合いのような気もして…
+      ち、近くにいるかな～って！
+  d_nikke_miranda_01_62:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_01_63:
+    speaker: poli
+    en: I see. I'll go back to the headquarters then.
+    ko: "에흉. 알겠어영. \n그럼 저 먼저 본부에 들어가 있을게여."
+    ja: |-
+      ふぅ、分かりましたぁ。
+      私は先に本部に戻ってますよん。
+  d_nikke_miranda_01_64:
+    speaker: poli
+    en: I don't know what kind of messages you just received, but don't take them
+      too seriously.
+    ko: 그 메시지가 뭔지는 모르겠는데, 너무 심각하게 생각하지 마여.
+    ja: |-
+      どんなメッセージか知りませんけど、
+      あまり深く考えないようにしてくださいねぇ。
+  d_nikke_miranda_01_65:
+    speaker: poli
+    en: You work best when you don't overthink!
+    ko: 미란다는 단순하게 생각할 때 일을 제일 잘하니깡!
+    ja: ミランダは単純に考えた方が\n何でもうまくいくタイプですからっ！
+  d_nikke_miranda_01_66:
+    speaker: "<Narration>"
+    en: Poli leaves.
+    ko: 폴리가 떠나갔다.
+    ja: ポリが姿を消した
+  d_nikke_miranda_01_67:
+    speaker: miranda
+    en: Whew... Fortunately, she didn't suspect a thing.
+    ko: 후우… 눈치채지 못해서 다행입니다아….
+    ja: ふぅ…気づかれなくてよかったです…
+  d_nikke_miranda_01_68:
+    speaker: "<Narration>"
+    en: Miranda carefully reads her messages.
+    ko: 미란다는 조심스레 다시 메시지를 들여다보았다.
+    ja: |-
+      ミランダは慎重にもう一度
+      メッセンジャーを開いた
+  d_nikke_miranda_01_69:
+    speaker: "<Narration>"
+    en: Miranda angrily closes the message.
+    ko: 미란다는 힘차게 메신저를 종료했다.
+    ja: |-
+      ミランダは力強い内容で
+      メッセンジャーを終わらせた
+  d_nikke_miranda_01_70:
+    speaker: miranda
+    en: I have to prove myself!
+    ko: 꼭 증명해 보이겠습니다!
+    ja: 必ず証明してみせます！
+  d_nikke_miranda_01_71:
+    speaker: "<Narration>"
+    en: I made up my mind just like that...
+    ko: 그때는 이렇게 다짐했습니다만….
+    ja: あの時はそう固く心に誓いましたが…
+  d_nikke_miranda_01_72:
+    speaker: "<Narration>"
+    en: At present
+    ko: 현재
+    ja: 現在
+  d_nikke_miranda_01_73:
+    speaker: miranda
+    en: But I can't think of any way to prove that I'm working hard.
+    ko: 아무리 생각해도 열심히 하는 걸 증명할 방법이 없어서.
+    ja: どう考えても一生懸命働いていることを\n証明する方法が思い浮かばなくて、
+  d_nikke_miranda_01_74:
+    speaker: miranda
+    en: That's why I came to you, Commander...
+    ko: 지휘관을 찾아오게 되었습니다….
+    ja: こうして指揮官を訪ねてきました…
+  d_nikke_miranda_01_75:
+    speaker: "<Self>"
+    en: You don't want to give up your job in the A.C.P.U., do you?
+    ko: 미란다는 A.C.P.U.를 그만두고 싶지 않은 거야?
+    ja: |-
+      ミランダは
+      A.C.P.U.を辞めたくないのか？
+  d_nikke_miranda_01_76:
+    speaker: miranda
+    en: Hmm! Yes.
+    ko: 네! 그렇습니다.
+    ja: はい！そうです。
+  d_nikke_miranda_01_77:
+    speaker: "<Self>"
+    en: Why?
+    ko: 왜?
+    ja: どうして？
+  d_nikke_miranda_01_78:
+    speaker: miranda
+    en: Hmm? Because...
+    ko: 네? 그건… 어…
+    ja: はい？それは…えっと…
+  d_nikke_miranda_01_79:
+    speaker: miranda
+    en: Um... I don't know.
+    ko: 음… 모르겠습니다.
+    ja: う～ん…よく分かりません。
+  d_nikke_miranda_01_80:
+    speaker: miranda
+    en: I just don't want to give up. Should there be any other reason?
+    ko: |-
+      그냥 그만두고 싶지 않습니다.
+      꼭 이유가 필요한 겁니까?
+    ja: |-
+      うまく説明できませんが、辞めたくありません。
+      必ずしも理由が必要でしょうか？
+  d_nikke_miranda_01_81:
+    speaker: "<Self>"
+    en: No. I know what you mean.
+    ko: 아니, 무슨 말인지 알겠어.
+    ja: いや、言いたいことは分かった
+  d_nikke_miranda_01_82:
+    speaker: miranda
+    en: Commander... Do you have any way to prove that I work hard?
+    ko: 지휘관도… 증명할 방법이 없는 것 같으십니까?
+    ja: 指揮官も…いい方法が思い浮かばないですか？
+  d_nikke_miranda_01_83:
+    speaker: "<Self>"
+    en: You want proof, huh?
+    ko: 증거를 남기면 되는 것 아니야?
+    ja: 証拠があればいいのでは？
+  d_nikke_miranda_01_84:
+    speaker: miranda
+    en: Yes. Give my boss the proof of my hard work!
+    ko: "그렇습니다. \n열심히 일하는 증거를 제출하면 됩니다!"
+    ja: |-
+      そうです。一生懸命働いたことが
+      分かる証拠を見せつければいいのです！
+  d_nikke_miranda_01_85:
+    speaker: "<Self>"
+    en: Will it help by taking pictures of you at work?
+    ko: 일하는 모습을 찍으면 증거가 되지 않을까?
+    ja: |-
+      働いている姿を撮影して
+      送ればいいんじゃないのか？
+  d_nikke_miranda_01_86:
+    speaker: miranda
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_nikke_miranda_01_87:
+    speaker: miranda
+    en: Yes! That can be the proof!
+    ko: 맞습니다! 증거가 될 겁니다!
+    ja: それです！それなら証拠になりそうです！
+  d_nikke_miranda_01_88:
+    speaker: miranda
+    en: Oh... But wait. Who's going to take photos of me while I'm working?
+    ko: 어… 그런데 누가 그걸 찍어줍니까?
+    ja: あ…でも誰がそれを撮るのでしょうか？
+  d_nikke_miranda_01_89:
+    speaker: "<Self>"
+    en: You can ask Poli for help...
+    ko: 폴리에게 부탁하는 게….
+    ja: ポリに頼んだ方が…
+  d_nikke_miranda_01_90:
+    speaker: miranda
+    en: It will be troublesome for Poli if I ask her to do it.
+    ko: 폴리에게 부탁하면 분명 귀찮다고 할겁니다.
+    ja: ポリは間違いなく面倒がって\n引き受けてくれないと思います。
+  d_nikke_miranda_01_91:
+    speaker: miranda
+    en: I also have to tell her I'm an inspector...
+    ko: 그리고 부탁하려면 제가 감찰관이라는 걸 말해야하는데….
+    ja: それにそれを頼むためには私が\n監察官であることを話さなければいけません…
+  d_nikke_miranda_01_92:
+    speaker: miranda
+    en: I can't do that, because it's top secret!
+    ko: "그럴 수는 없습니다. \n이건 1급 비밀이기 때문입니다!"
+    ja: |-
+      それはできません。
+      これはトップシークレットなのです！
+  d_nikke_miranda_01_93:
+    speaker: "<Self>"
+    en: I feel that even if you tell her, she may not believe it...
+    ko: 말해줘도 믿지 않을 거 같은데….
+    ja: 話しても信じないと思うが…
+  d_nikke_miranda_01_94:
+    speaker: miranda
+    en: Hmm?
+    ko: 네?
+    ja: はい？
+  d_nikke_miranda_01_95:
+    speaker: "<Self>"
+    en: All right. I'll shoot it for you.
+    ko: 알겠어. 찍어줄게.
+    ja: 分かった、撮ってやる
+  d_nikke_miranda_01_96:
+    speaker: miranda
+    en: Thank you! Thank you very much! Commander!
+    ko: "감사합니다! \n정말 감사합니다. 지휘관!"
+    ja: |-
+      本当ですか？
+      ありがとうございます。指揮官！
+  d_nikke_miranda_01_97:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+d_nikke_miranda_02:
+  d_nikke_miranda_02_1:
+    speaker: miranda
+    en: Hum, hum!
+    ko: 흐, 흠!
+    ja: ふっ、ふんっ！
+  d_nikke_miranda_02_2:
+    speaker: miranda
+    en: The filming starts!
+    ko: 촬영 시작합니다!
+    ja: 撮影をお願いします！
+  d_nikke_miranda_02_3:
+    speaker: "<Narration>"
+    en: You turn on the camera.
+    ko: 카메라를 켰다.
+    ja: カメラの電源を入れた
+  d_nikke_miranda_02_4:
+    speaker: miranda
+    en: L-let's start filming me when I'm hard at work.
+    ko: 지, 지금부터 열심히 일하는 모습을 촬영하겠습니다.
+    ja: い、今から一生懸命働く姿を撮影します。
+  d_nikke_miranda_02_5:
+    speaker: miranda
+    en: Boss. Please watch my hard work closely.
+    ko: |-
+      팀장님. 열심히 일하는 제 모습.
+      꼭 지켜봐 주시기 바랍니다.
+    ja: |-
+      課長。一生懸命働いている私の姿、
+      ちゃんと見ててください。
+  d_nikke_miranda_02_6:
+    speaker: "<Self>"
+    en: Where do we go first?
+    ko: 어디부터 가면 돼?
+    ja: 最初はどこに行くんだ？
+  d_nikke_miranda_02_7:
+    speaker: miranda
+    en: First of all, I'll go direct traffic!
+    ko: 우선은 교통정리 임무부터 하러 가겠습니다!
+    ja: まず交通整理業務から始めます！
+  d_nikke_miranda_02_8:
+    speaker: "<Narration>"
+    en: On the scene of the Tetra Line Skateboard Festival before it starts. It's
+      a sea of people.
+    ko: "테트라 라인 롱보드 페스티벌 공연장 앞. \n사람들이 가득하다."
+    ja: |-
+      テトララインのロングボード\nフェスティバルの会場前
+      すごい人だかり
+  d_nikke_miranda_02_9:
+    speaker: "<Narration>"
+    en: You turn on the camera.
+    ko: 카메라를 켰다.
+    ja: カメラの電源を入れた
+  d_nikke_miranda_02_10:
+    speaker: miranda
+    en: I heard that Epinel is playing a gig today so there are a lot of fans waiting.
+    ko: |-
+      오늘은 에피넬의 공연이 있는 날이라고 합니다.
+      그래서 기다리는 사람이 매우 많습니다.
+    ja: |-
+      今日はエピネルの公演がある日だと
+      聞きました。それでこんなにたくさんの人が
+      集まったみたいです。
+  d_nikke_miranda_02_11:
+    speaker: miranda
+    en: Admission is about to begin.
+    ko: 이제 곧 입장이 시작되는데.
+    ja: もうすぐ入場開始時間ですが、
+  d_nikke_miranda_02_12:
+    speaker: miranda
+    en: So to prevent people from getting hurt by gathering at the entrance, I will
+      start directing them now.
+    ko: "사람들이 입구로 몰려들어 다치지 않도록 \n교통정리를 시작해 보겠습니다."
+    ja: |-
+      お客さんたちが入口に殺到した
+      勢いで負傷者が出ないよう、
+      交通整理を始めます。
+  d_nikke_miranda_02_13:
+    speaker: staff
+    en: Admission starts now!
+    ko: 지금부터 입장을 시작하겠습니다~
+    ja: ただ今より入場を開始いたします～
+  d_nikke_miranda_02_14:
+    speaker: miranda
+    en: Ah. Here we go!
+    ko: 앗, 시작되었습니다!
+    ja: あっ、入場開始です！
+  d_nikke_miranda_02_15:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삐이익-!
+    ja: ピィィー！
+  d_nikke_miranda_02_16:
+    speaker: miranda
+    en: Please stand in two rows and come this way!
+    ko: 이쪽으로 두 줄씩 차례대로 서주시면 됩니다!
+    ja: こちらから二列になってお並びください！
+  d_nikke_miranda_02_17:
+    speaker: miranda
+    en: Follow my directions and you'll soon... Whoa!
+    ko: 차분히 질서를 지키면 모두 빨리 들어갈 수… 우아앗!
+    ja: 順番にお並びいただくことで、よりスムーズに\nご入場いただけますので…うわあっ！
+  d_nikke_miranda_02_18:
+    speaker: "<Narration>"
+    en: People ignore Miranda.
+    ko: 사람들이 미란다를 무시하고 지나쳐갔다.
+    ja: 観客たちはミランダを無視して通り過ぎていった
+  d_nikke_miranda_02_19:
+    speaker: miranda
+    en: N-no... It's dangerous to crowd together like that... Hey...!
+    ko: 아, 아니… 저 그렇게 몰려가면 위험…. 저기…!
+    ja: あ、ちょっと…そんな風に一気に\n押し入ったら危ない…あのぉっ…！
+  d_nikke_miranda_02_20:
+    speaker: miranda
+    en: P-please stay in line...! Please...!
+    ko: 주, 줄을…! 줄을 서시면…!
+    ja: れ、列に…！列に並んでいただければ…！
+  d_nikke_miranda_02_21:
+    speaker: "<Narration>"
+    en: People continue to ignore Miranda.
+    ko: 계속해서 무시하고 지나갔다.
+    ja: それでも観客たちは無視して通り過ぎていった
+  d_nikke_miranda_02_22:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_02_23:
+    speaker: "<Narration>"
+    en: You turn off the camera.
+    ko: 카메라를 껐다.
+    ja: カメラの電源を切った
+  d_nikke_miranda_02_24:
+    speaker: "<Narration>"
+    en: And turn it on again.
+    ko: 카메라를 켰다.
+    ja: カメラの電源を入れた
+  d_nikke_miranda_02_25:
+    speaker: miranda
+    en: I found a child left alone!
+    ko: 혼자 있는 어린아이! 찾았습니다!
+    ja: 独りでいる子どもを発見しました！
+  d_nikke_miranda_02_26:
+    speaker: miranda
+    en: I almost didn't notice this hideaway!
+    ko: 이렇게나 숨겨진 곳이 있었다니…!
+    ja: こんな場所があったなんて…！
+  d_nikke_miranda_02_27:
+    speaker: miranda
+    en: So it's true that you can always expect a new path even in a familiar place!
+    ko: 역시 공원은 아무리 돌아도 새로운 길이 나오는 것 같습니다!
+    ja: |-
+      やはり何回来ても新しい道を発見出来ますね、
+      この公園は！
+  d_nikke_miranda_02_28:
+    speaker: child01
+    en: Boohoohoo!
+    ko: 우아아아앙-!
+    ja: うわぁぁぁぁ～ん！
+  d_nikke_miranda_02_29:
+    speaker: miranda
+    en: Ah, well, do you remember where you were separated from your parents?
+    ko: 아, 저, 혹시 보호자 분과 어디에서 헤어졌는지 기억하십니까?
+    ja: あっ、その、親御さんとどこで\nはぐれてしまったのか覚えていますか？
+  d_nikke_miranda_02_30:
+    speaker: child01
+    en: I don't know! Boohoohoo!
+    ko: 그런 거 몰라! 우아아아아아앙!
+    ja: そんなの分かんないっ！うわぁぁぁ～ん！
+  d_nikke_miranda_02_31:
+    speaker: miranda
+    en: C-calm down...
+    ko: 이, 일단 진정하시고….
+    ja: と、とりあえず泣き止みましょうか…
+  d_nikke_miranda_02_32:
+    speaker: child01
+    en: Go away!
+    ko: 언니 저리 가!
+    ja: 知らないお姉ちゃん、あっち行け！
+  d_nikke_miranda_02_33:
+    speaker: miranda
+    en: L-let's get you to the temporary shelter first!
+    ko: 그, 그럼 일단 보호소에라도…!
+    ja: で、ではひとまず保護所に…！
+  d_nikke_miranda_02_34:
+    speaker: child01
+    en: No! I don't want to! Boohoohoohoo!
+    ko: 싫어! 싫다고! 우아아아아아앙!
+    ja: やだ！やだもん！うわぁぁぁぁ～ん！
+  d_nikke_miranda_02_35:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_02_36:
+    speaker: "<Narration>"
+    en: You turn off the camera.
+    ko: 카메라를 껐다.
+    ja: カメラの電源を切った
+  d_nikke_miranda_02_37:
+    speaker: "<Narration>"
+    en: You turn on the camera.
+    ko: 카메라를 켰다.
+    ja: カメラの電源を入れた
+  d_nikke_miranda_02_38:
+    speaker: miranda
+    en: The operation is over. I'm back!
+    ko: 임무 끝내고 지금 복귀했습니다!
+    ja: 任務を終えてただ今戻りました！
+  d_nikke_miranda_02_39:
+    speaker: miranda
+    en: Is there anything I can help with?
+    ko: 혹시 제가 도울 일이 있습니까?
+    ja: 何かお手伝いすることはありますでしょうか？
+  d_nikke_miranda_02_40:
+    speaker: poli
+    en: Oh? So soon?
+    ko: 어? 벌써 다녀오신 건가여?
+    ja: あっ？もう帰ってきたんですかぁ？
+  d_nikke_miranda_02_41:
+    speaker: poli
+    en: Didn't you say you were going to shoot something today?
+    ko: 오늘 무슨 촬영한다고 하지 않았어여?
+    ja: |-
+      今日は何か撮影するとか
+      言ってませんでしたっけぇ？
+  d_nikke_miranda_02_42:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 지이잉-
+    ja: ジリリリリーン
+  d_nikke_miranda_02_43:
+    speaker: poli
+    en: Uh? Who is it?
+    ko: 엥? 왠 전화?
+    ja: ん？電話ぁ？
+  d_nikke_miranda_02_44:
+    speaker: "<Narration>"
+    en: Poli answers the call.
+    ko: 폴리가 전화를 받았다.
+    ja: ポリが電話に出た
+  d_nikke_miranda_02_45:
+    speaker: poli
+    en: Hello?
+    ko: 넹. 여보세영~
+    ja: はい。もしもしぃ～
+  d_nikke_miranda_02_46:
+    speaker: poli
+    en: Promo...? Ah... Oh. What a bomb!
+    ko: |-
+      쇼핑… 이여?
+      아… 넹. 그거 참 정말 폭탄이겠네영.
+    ja: |-
+      ショッピング…ですかぁ？
+      あ…はい。それは本当に爆弾ですねぇ。
+  d_nikke_miranda_02_47:
+    speaker: miranda
+    en: A bomb?!
+    ko: 폭탄?!
+    ja: 爆弾！？
+  d_nikke_miranda_02_48:
+    speaker: poli
+    en: I'm not interested! Not even discounted bombs! Goodbye.
+    ko: 폭탄 세일이어도 안 살래영~ 넹~ 끊겠습니당~
+    ja: |-
+      爆弾セールでも買いませ～ん。
+      は～い～じゃあまたぁ～
+  d_nikke_miranda_02_49:
+    speaker: "<Narration>"
+    en: Poli hangs up.
+    ko: 폴리가 전화를 끊었다.
+    ja: ポリが電話を切った
+  d_nikke_miranda_02_50:
+    speaker: miranda
+    en: D-did you say there was a bomb?
+    ko: 지금 포, 폭탄이라고 하셨습니까?
+    ja: 今、ば、爆弾と言いましたか？
+  d_nikke_miranda_02_51:
+    speaker: poli
+    en: Huh? No. It was a sales call saying there was a promo...
+    ko: 넹? 아녕. 판매 광고 전화인데 폭탄 세일을….
+    ja: えっ？あ、ああ。販売セールスの電話です。\n爆弾セールが何とかかんとかって…
+  d_nikke_miranda_02_52:
+    speaker: miranda
+    en: I heard you say bomb!
+    ko: 역시 폭탄이란 말입니까!
+    ja: やっぱり爆弾なんですね！
+  d_nikke_miranda_02_53:
+    speaker: miranda
+    en: Did they call to report terrorist activities? Where's the location?
+    ko: 테러 제보인 겁니까? 어디에서 발견되었다는 겁니까?
+    ja: テロの通報ですか？\nどこで発見されたんですか？
+  d_nikke_miranda_02_54:
+    speaker: miranda
+    en: Or... Did the terrorists call you directly?
+    ko: 아니면 설마…! 테러범이 직접 전화를…?
+    ja: |-
+      それともまさか…！
+      テロ犯自ら電話をかけてきた…？
+  d_nikke_miranda_02_55:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_02_56:
+    speaker: poli
+    en: Commander. Is your camera on?
+    ko: 지휘관. 혹시 카메라가 켜져 있나여?
+    ja: 指揮官。今、カメラ回ってますぅ？
+  d_nikke_miranda_02_57:
+    speaker: "<Narration>"
+    en: You turn off the camera immediately.
+    ko: 재빨리 촬영을 멈췄다.
+    ja: 急いで撮影を中断した
+  d_nikke_miranda_02_58:
+    speaker: "<Self>"
+    en: It's off now.
+    ko: 지금 멈췄어.
+    ja: 今中断した
+  d_nikke_miranda_02_59:
+    speaker: poli
+    en: Good job, Commander. You always know what to do!
+    ko: 역시 지휘관! 센스 있네여!
+    ja: さすが指揮官！機転が利きますねぇ！
+  d_nikke_miranda_02_60:
+    speaker: miranda
+    en: Why are you doing this?
+    ko: 왜 그러십니까?
+    ja: どうしてですか？
+  d_nikke_miranda_02_61:
+    speaker: poli
+    en: Can you just listen to me?! It's Not! A! Bomb!
+    ko: |-
+      사람 말 좀 들어여!
+      폭탄 아니에여! 아니라고!
+    ja: |-
+      人の話は最後までちゃんと聞きましょうねっ！
+      爆弾じゃありませんっ！
+  d_nikke_miranda_02_62:
+    speaker: miranda
+    en: Oh, i-is that so...?
+    ko: 그, 그렇습니까….
+    ja: そ、そうでしたか…
+  d_nikke_miranda_02_63:
+    speaker: miranda
+    en: Sorry, I misunderstood.
+    ko: 오해해서 죄송합니다.
+    ja: 早とちりしてしまいました。すみません。
+  d_nikke_miranda_02_64:
+    speaker: poli
+    en: "... It's okay. It's just typical of you."
+    ko: "…괜찮아여. 미란다가 이러는 게 하루 이틀도 아니공."
+    ja: "…大丈夫ですよん。ミランダのこういうミスには慣れてますからねっ！"
+  d_nikke_miranda_02_65:
+    speaker: poli
+    en: Have you got your filming done?
+    ko: 영상은 잘 찍고 오셨나영?
+    ja: 動画はちゃんと撮れましたかぁ？
+  d_nikke_miranda_02_66:
+    speaker: "<Self>"
+    en: "... We did, yeah."
+    ko: "…찍긴 잘 찍었어."
+    ja: "…ちゃんと撮った"
+  d_nikke_miranda_02_67:
+    speaker: miranda
+    en: I-I tried...
+    ko: 여, 열심히는 했습니다….
+    ja: い、一生懸命にはやりました…
+  d_nikke_miranda_02_68:
+    speaker: poli
+    en: Huh? Why are you two behaving like that? Did something happen?
+    ko: |-
+      뭐, 뭐야. 둘 다 분위기가 왜그래여!
+      무슨 일 있었어여?
+    ja: |-
+      な、何ですかぁ。
+      二人とも微妙な顔しちゃってぇ！
+      何か問題でもありましたぁ？
+  d_nikke_miranda_02_69:
+    speaker: poli
+    en: What on earth were you doing? Where are these clips going to be used?
+    ko: 뭐 하는 거길래 그래여. 그 영상 어디에 쓸건데여?
+    ja: |-
+      何だっていうんですかぁ。
+      その動画は何に使うんですかぁ？
+  d_nikke_miranda_02_70:
+    speaker: miranda
+    en: N-nowhere! I-I just wanted to show someone that I am working hard.
+    ko: "아, 아닙니다! \n그, 그냥 아는 분께 열심히 일하고 있다고 보내드리려는 겁니다!"
+    ja: |-
+      な、何でもありません！
+      た、ただちょっと知り合いに一生懸命\n働いている様子を見せるだけです！
+  d_nikke_miranda_02_71:
+    speaker: miranda
+    en: I just want my efforts to be seen. It's done. It's over now!
+    ko: |-
+      열심히 하는 걸 찍었으니 됐습니다.
+      충분히 잘 찍어서 이제 끝내도 됩니다!
+    ja: |-
+      いい感じで撮れたのでもう大丈夫です。
+      これならもう終わりにしてもよさそうです！
+  d_nikke_miranda_02_72:
+    speaker: miranda
+    en: Right?
+    ko: 그렇지 않습니까. 지휘관?
+    ja: そうですよね？指揮官？
+  d_nikke_miranda_02_73:
+    speaker: "<Self>"
+    en: That's right.
+    ko: 그 말이 맞아.
+    ja: そうだな
+  d_nikke_miranda_02_74:
+    speaker: poli
+    en: Uh...something is off and a bit strange.
+    ko: 흐응… 뭔가 이상한뎅.
+    ja: う～ん…何だか怪しいぃ。
+  d_nikke_miranda_02_75:
+    speaker: poli
+    en: But, if Commander says so, then that should be all right.
+    ko: 뭐, 지휘관이 맞다고 하면 괜찮은 거겠져.
+    ja: まあ、指揮官がそう言うならいいでしょう。
+  d_nikke_miranda_02_76:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_02_77:
+    speaker: poli
+    en: I'm going to go on patrol now. Have a good rest, Commander!
+    ko: |-
+      그럼 전 순찰 좀 돌고 올게여.
+      잘 쉬다 가세여 지휘관~
+    ja: |-
+      では私はパトロールに行ってきま～す。
+      どうぞ、ごゆっくり～
+  d_nikke_miranda_02_78:
+    speaker: "<Narration>"
+    en: Poli leaves.
+    ko: 폴리가 떠나갔다.
+    ja: ポリが姿を消した
+  d_nikke_miranda_02_79:
+    speaker: miranda
+    en: Woo... Thank goodness she didn't ask more questions.
+    ko: 후우… 더 물어보지 않아 다행입니다아.
+    ja: ふぅ…何とかごまかせました。
+  d_nikke_miranda_02_80:
+    speaker: "<Self>"
+    en: Is the filming really over?
+    ko: 정말 이걸로 촬영 끝?
+    ja: 本当にこれで撮影は終わりか？
+  d_nikke_miranda_02_81:
+    speaker: miranda
+    en: Yes. Today's work is all finished. I really worked hard!
+    ko: |-
+      네. 오늘 해야 할 일은 전부 끝냈고
+      열심히 한 건 맞으니까요!
+    ja: |-
+      はい。今日の仕事は全部終わりましたし、
+      一生懸命やりましたから！
+  d_nikke_miranda_02_82:
+    speaker: miranda
+    en: I'll copy the video and send it now.
+    ko: 지금 영상을 따서 바로 보낼 생각입니다.
+    ja: 今日撮影した動画ですぐ送るつもりです。
+  d_nikke_miranda_02_83:
+    speaker: "<Self>"
+    en: Now? Right away?
+    ko: 지금 바로?
+    ja: 今すぐに？
+  d_nikke_miranda_02_84:
+    speaker: miranda
+    en: Yes! This kind of thing should be done as soon as possible,
+    ko: "네! 그렇습니다. \n이런 일은 생각났을 때 바로바로 해야 하는 법입니다."
+    ja: |-
+      はい！そうです。
+      こういうことは思い立ったが吉日です。
+  d_nikke_miranda_02_85:
+    speaker: miranda
+    en: because if he is not satisfied with these videos, then we would have to shoot
+      them again!
+    ko: "그분이 이 영상이 마음에 안 든다고 하시면 \n다시 찍어서 또 보내드려야 하기 때문입니다!"
+    ja: |-
+      課長からこの映像が気に入らないって言われたら
+      また撮影し直さなければいけませんし！
+  d_nikke_miranda_02_86:
+    speaker: "<Self>"
+    en: Oh I see.
+    ko: "…알겠어."
+    ja: "…分かった"
+  d_nikke_miranda_02_87:
+    speaker: "<Narration>"
+    en: Miranda takes the camera.
+    ko: 미란다가 카메라를 받아 들었다.
+    ja: ミランダがカメラを受け取った
+  d_nikke_miranda_02_88:
+    speaker: "<Narration>"
+    en: After a while.
+    ko: 잠시 후
+    ja: しばらくして
+  d_nikke_miranda_02_89:
+    speaker: "<Self>"
+    en: Have all the videos been sent?
+    ko: 영상은 잘 보냈어?
+    ja: 動画はちゃんと送ったか？
+  d_nikke_miranda_02_90:
+    speaker: miranda
+    en: Ah...Yes!
+    ko: 아… 네! 잘 보냈습니다.
+    ja: あ…はい！さっき送っておきました。
+  d_nikke_miranda_02_91:
+    speaker: miranda
+    en: I don't remember his exact ID but it doesn't matter!
+    ko: 아이디가 조금 헷갈렸는데 괜찮았습니다!
+    ja: 受取人のIDがちょっと紛らわしかったですが、\n大丈夫だと思います！
+  d_nikke_miranda_02_92:
+    speaker: "<Self>"
+    en: ID?
+    ko: 아이디?
+    ja: ID？
+  d_nikke_miranda_02_93:
+    speaker: miranda
+    en: Right. His message ID is something that begins with an M... and ends with
+      an 0...
+    ko: "네. 분명히 메신저 아이디가 \nM… 으로 시작해서… 0로 끝났는데…."
+    ja: |-
+      はい。確かメッセンジャーのIDが
+      M…で始まって…0で終わってたはず…
+  d_nikke_miranda_02_94:
+    speaker: miranda
+    en: I think it could be Ms. 0, so I sent it!
+    ko: Ms. 0인 것 같아서 그렇게 보냈습니다!
+    ja: Ms.0だったと思うので、\nその人に送っておきました！
+  d_nikke_miranda_02_95:
+    speaker: "<Self>"
+    en: I don't know why but I feel off. Something's not right...
+    ko: 왠지 불안한데….
+    ja: 何だか不安だな…
+  d_nikke_miranda_02_96:
+    speaker: miranda
+    en: Y-you are? Off?
+    ko: 그, 그렇습니까? 부, 불안합니까?
+    ja: そ、そうですか？ふ、不安ですか？
+  d_nikke_miranda_02_97:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  d_nikke_miranda_02_98:
+    speaker: miranda
+    en: Oh? He replied so soon!
+    ko: 어? 벌써 답변이 왔나 봅니다!
+    ja: あっ。もう返事が来たようです！
+  d_nikke_miranda_02_99:
+    speaker: miranda
+    en: The TV?
+    ko: TV?
+    ja: TV？
+  d_nikke_miranda_02_100:
+    speaker: "<Narration>"
+    en: Miranda turns on the TV.
+    ko: 미란다가 TV를 틀었다.
+    ja: ミランダがTVをつけた
+  d_nikke_miranda_02_101:
+    speaker: tvvoice
+    en: 'Hello, ladies and gentlemen. Welcome to The Ark: Inside Edition!'
+    ko: |-
+      안녕하십니까. [TV 특종 비리를 밝혀라!]입니다.
+      오늘은….
+    ja: |-
+      みなさん、こんにちは。\n「テレビ特ダネ・汚職を暴け！」です。
+      今日は…
+  d_nikke_miranda_02_102:
+    speaker: "<Narration>"
+    en: Poli rushes over to Miranda.
+    ko: 우당탕탕-
+    ja: ダダダダダッー
+  d_nikke_miranda_02_103:
+    speaker: poli
+    en: Miranda!
+    ko: 미란닷!
+    ja: ミランダっ！
+  d_nikke_miranda_02_104:
+    speaker: miranda
+    en: Poli? Why are you in such a hurry!
+    ko: 폴리? 왜 그렇게 급하게…!
+    ja: ポリ？どうしましたか？そんなに慌てて…！
+  d_nikke_miranda_02_105:
+    speaker: poli
+    en: Get ready to go! Gosh...!
+    ko: 얼른 출동준비해여! 진짜…!
+    ja: 早く出動準備してくださいっ！もうっ…！
+  d_nikke_miranda_02_106:
+    speaker: poli
+    en: Someone really reported a bomb attack!
+    ko: 진짜 폭탄 테러 신고가 들어왔어여!
+    ja: 本当に爆弾テロの通報が入ってきましたっ！
+  d_nikke_miranda_02_107:
+    speaker: miranda
+    en: Huh? Where is the location?
+    ko: 넵?! 자, 장소는 어디입니까?
+    ja: ええ！？ば、場所はどこですか？
+  d_nikke_miranda_02_108:
+    speaker: poli
+    en: The park where you were on a mission today...!
+    ko: 오늘 미란다가 임무 나갔던 공원엥…!
+    ja: 今日ミランダがパトロールに行った公園に…！
+  d_nikke_miranda_02_109:
+    speaker: tvvoice
+    en: It was indeed a bomb!
+    ko: "[역시 폭탄이란 말입니까!]"
+    ja: "「やっぱり爆弾なんですね！」"
+  d_nikke_miranda_02_110:
+    speaker: poli
+    en: A bomb?
+    ko: 폭탄?
+    ja: 爆弾？
+  d_nikke_miranda_02_111:
+    speaker: "<Narration>"
+    en: Poli stares at the TV screen.
+    ko: 폴리가 TV를 자세히 들여다보았다.
+    ja: ポリがTV画面に集中した
+  d_nikke_miranda_02_112:
+    speaker: unknown
+    en: Is it a terrorist report? Where is this place?
+    ko: "[테러 제보인 겁니까? 어디에서 발견되었다는 겁니까?]"
+    ja: "「テロの通報ですか？\\nどこで発見されたんですか？」"
+  d_nikke_miranda_02_113:
+    speaker: unknown
+    en: Or... Did the terrorists call you directly?
+    ko: "[아니면 설마…! 테러범이 직접 전화를…?]"
+    ja: "「それともまさか…！\\nテロ犯自ら電話をかけてきた…？」"
+  d_nikke_miranda_02_114:
+    speaker: miranda
+    en: Um...!
+    ko: 저, 저건…!
+    ja: あ、あれは…！
+  d_nikke_miranda_02_115:
+    speaker: poli
+    en: Is that you, Miranda?
+    ko: 저거 미란다 맞져?
+    ja: あれ、ミランダですよねぇ？
+  d_nikke_miranda_02_116:
+    speaker: announcer
+    en: As you can see from this video, not long ago, the A.C.P.U. received a report
+      of a bomb attack...
+    ko: "이 영상은 조금 전, \nA.C.P.U.에 폭탄 테러 신고가 들어왔는데도."
+    ja: |-
+      この映像は先ほど、
+      A.C.P.U.に爆弾テロの通報が\n入ってきたにもかかわらず
+  d_nikke_miranda_02_117:
+    speaker: announcer
+    en: 'But they didn''t respond and concealed the truth. The Ark: Inside Edition!
+      team received some clips and a tip-off...'
+    ko: "대응 없이 사실을 은폐하려 한다며 \n저희 [TV 특종 비리를 밝혀라!]에 제보된 영상입니…."
+    ja: |-
+      何の対応もせず事件を隠蔽しようとしている\n証拠資料として
+      「テレビ特ダネ・汚職を暴け！」に\n送られてきた映像で…
+  d_nikke_miranda_02_118:
+    speaker: poli
+    en: Where did you send the videos you just shot? Huh?
+    ko: 아까 촬영한 그 영상, 어디에 보낸 거예여! 예?
+    ja: さっき撮影したあの動画、\n一体どこに送ったんですかっ！
+  d_nikke_miranda_02_119:
+    speaker: "<Narration>"
+    en: Miranda hurriedly looks at her messages again.
+    ko: 미란다는 황급히 다시 메신저를 들여다보았다.
+    ja: |-
+      ミランダは慌てて
+      もう一度メッセンジャーを確認した
+  d_nikke_miranda_02_120:
+    speaker: miranda
+    en: Oh... What, what is this...?
+    ko: 어… 이, 이게 도대체….
+    ja: あぁ…こ、これは一体…
+  d_nikke_miranda_02_121:
+    speaker: poli
+    en: Miranda?
+    ko: 미란다?
+    ja: ミランダ？
+  d_nikke_miranda_02_122:
+    speaker: miranda
+    en: Commander, Poli... Wh-what do we do?
+    ko: 지휘관. 폴리… 어, 어떡합니까?
+    ja: 指揮官、ポリ…ど、どうしましょう？
+  d_nikke_miranda_02_123:
+    speaker: miranda
+    en: S-something terrible seems to have happened.
+    ko: 크… 큰일 난 거 같습니다아.
+    ja: た…大変なことになってしまいました。
+  d_nikke_miranda_02_124:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+d_nikke_miranda_03:
+  d_nikke_miranda_03_1:
+    speaker: poli
+    en: So...
+    ko: 그러니까….
+    ja: だから…
+  d_nikke_miranda_03_2:
+    speaker: poli
+    en: The messages that should have been sent to Mr. 0 were sent to Ms. 0.
+    ko: |-
+      Mr. 0라는 분께 보내야 하는 메시지를
+      Ms. 0라는 분께 보내서.
+    ja: |-
+      Mr.0という人に送るべきメッセージを
+      Ms.0という人に送ってしまい
+  d_nikke_miranda_03_3:
+    speaker: poli
+    en: That's why the show said something about concealing a bomb?
+    ko: 폭탄을 은폐하느니 뭐니 하는 방송이 나왔다는 거졍?
+    ja: 爆弾テロを隠蔽するだ何だって騒ぎの内容で、\n放送されてしまったってことですねぇ？
+  d_nikke_miranda_03_4:
+    speaker: miranda
+    en: I-I'm so sorry!
+    ko: 죄, 죄송합니다!
+    ja: も、申し訳ございません！
+  d_nikke_miranda_03_5:
+    speaker: poli
+    en: And at this time, they really got a call saying there was a bomb...
+    ko: 그 와중에 진짜 폭탄 신고가 들어왔고….
+    ja: そんな最中に本当の爆弾テロの\n通報まで入ってきて…
+  d_nikke_miranda_03_6:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_03_7:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_03_8:
+    speaker: poli
+    en: Well, forget it. There is no time to feel sorry now!
+    ko: "에흉. 됐어영. \n지금은 이렇게 서로 미안해할 시간 없어여!"
+    ja: |-
+      ふぅ。もういいですよん。
+      今はこんなことしてる場合じゃありませんっ！
+  d_nikke_miranda_03_9:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 지이잉-
+    ja: ジリリリリーン
+  d_nikke_miranda_03_10:
+    speaker: poli
+    en: Uh, it's the chief.
+    ko: 으악 서장님이당.
+    ja: うわぁっ、署長からだぁ。
+  d_nikke_miranda_03_11:
+    speaker: "<Narration>"
+    en: Poli picks up the phone.
+    ko: 폴리가 전화를 받았다.
+    ja: ポリが電話に出た
+  d_nikke_miranda_03_12:
+    speaker: poli
+    en: Yes! Chief! This is Poli!
+    ko: 넹! 서장님! 전화받았습니닷!
+    ja: はいっ！署長！お電話ありがとうございますっ！
+  d_nikke_miranda_03_13:
+    speaker: miranda
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_nikke_miranda_03_14:
+    speaker: poli
+    en: Ah, the show? Ah, I see. The bomb thing was on TV.
+    ko: 아~ 방송이여? 그, 그렇군여. 폭탄 방송이 나갔져.
+    ja: |-
+      あ～あの番組ですか？
+      そ、そうですか。爆弾のことですよね。
+  d_nikke_miranda_03_15:
+    speaker: poli
+    en: Ah, this, this... Is my mistake...
+    ko: 아, 그, 그게… 제가 실수로….
+    ja: あ、そ、その…私が間違えて…
+  d_nikke_miranda_03_16:
+    speaker: poli
+    en: Ah, to your office now? Aha... Okay. Okay... Got it.
+    ko: 아, 지금 서장실로 오라구여? 아하… 네. 넹… 알겠습니당.
+    ja: |-
+      あ、今すぐ署長室まで来いですか？
+      あぁ…はい。はい、了解しましたぁ。
+  d_nikke_miranda_03_17:
+    speaker: "<Narration>"
+    en: Poli hangs up.
+    ko: 폴리가 전화를 끊었다.
+    ja: ポリが電話を切った
+  d_nikke_miranda_03_18:
+    speaker: "<Self>"
+    en: Shall we go now?
+    ko: 지금 바로 오라는 거야?
+    ja: 今すぐ来いって言われたのか？
+  d_nikke_miranda_03_19:
+    speaker: poli
+    en: Yes... You'd like me to come over. Of course.
+    ko: 넹… 오라고 하시네여.
+    ja: はいぃ…今すぐ来いって言ってますねぇ。
+  d_nikke_miranda_03_20:
+    speaker: poli
+    en: Uh... But we should prioritize locating the bomb for now...!
+    ko: 으으… 이 시간에 얼른 폭탄을 찾아야 하는뎅…!
+    ja: |-
+      うう…
+      今は早く爆弾を探さなきゃいけないのにぃ…！
+  d_nikke_miranda_03_21:
+    speaker: miranda
+    en: B-but I'll...!
+    ko: 그, 그럼 저도…!
+    ja: で、では私も…！
+  d_nikke_miranda_03_22:
+    speaker: poli
+    en: No. I'll go to the chief's office alone.
+    ko: 아니에영. 제가 혼자 서장님께 다녀올게여.
+    ja: 大丈夫ですぅ。私一人で行ってきますぅ。
+  d_nikke_miranda_03_23:
+    speaker: miranda
+    en: Hmm? Are you going by yourself?
+    ko: 네? 혼자서 말입니까?
+    ja: え？一人でですか？
+  d_nikke_miranda_03_24:
+    speaker: "<Self>"
+    en: You may be punished.
+    ko: 징계를 받을지도 몰라.
+    ja: 懲戒処分を受けるかもしれないな
+  d_nikke_miranda_03_25:
+    speaker: poli
+    en: How severe can that be? It's not the first time that police information was
+      leaked.
+    ko: |-
+      뭐~ 심한 징계라도 내리겠어여?
+      경찰 정보가 누설된 게 한두 번도 아니고.
+    ja: |-
+      まさか～軽い警告ぐらいで済むと思いますよん。
+      警察の情報が漏れることは\n今までにも何度かありましたしぃ。
+  d_nikke_miranda_03_26:
+    speaker: poli
+    en: I just said I was filming for fun and accidentally sent them to the wrong
+      person.
+    ko: 제가 영상을 찍으면서 놀다가 잘못 보냈다고 하면 돼여.
+    ja: 私が間違って動画を送ってしまったって言えば\n大丈夫ですよん。
+  d_nikke_miranda_03_27:
+    speaker: miranda
+    en: P-Poli... Why...
+    ko: 포, 폴리…가 그걸 왜…!
+    ja: ポ、ポリ…！
+  d_nikke_miranda_03_28:
+    speaker: "<Self>"
+    en: I shot the videos. I should be responsible.
+    ko: 그 영상을 찍은 건 나야. 내가 책임져야 해.
+    ja: その動画を撮ったのは私だから、\n私が責任を取るべきだ
+  d_nikke_miranda_03_29:
+    speaker: poli
+    en: Um... Commander. You must know that
+    ko: 음… 지휘관. 지휘관도 잘 아시겠지만.
+    ja: |-
+      う～ん…指揮官。
+      指揮官もよくご存じでしょうが、
+  d_nikke_miranda_03_30:
+    speaker: poli
+    en: if other people know that you have something to do with the videos,
+    ko: 여기에 지휘관이 관련되어 있다는 게 알려지면.
+    ja: このことに指揮官が関連していると知られたら
+  d_nikke_miranda_03_31:
+    speaker: poli
+    en: it will become complicated.
+    ko: 상황이 더 복잡해질 거예여.
+    ja: それこそ状況がもっと複雑になりますぅ。
+  d_nikke_miranda_03_32:
+    speaker: "<Self>"
+    en: I know, but...
+    ko: 그건 알지만….
+    ja: それは分かってるが…
+  d_nikke_miranda_03_33:
+    speaker: poli
+    en: Please don't worry too much.
+    ko: 너무 걱정하지 마세여.
+    ja: そんなに心配することないですぅ。
+  d_nikke_miranda_03_34:
+    speaker: poli
+    en: Chief is an understanding person!
+    ko: 서장님이 그렇게까지 인정과 온정이 없는 분은 아니니까여!
+    ja: 署長は話せば分かる方ですからっ！
+  d_nikke_miranda_03_35:
+    speaker: poli
+    en: Well, he's not flexible at all though...
+    ko: 뭐, 아주 조~금 융통성이 없긴 하시지만….
+    ja: まあ、すこ～しだけ融通が利かないところも\nありますけどぉ…
+  d_nikke_miranda_03_36:
+    speaker: miranda
+    en: It was because of me.
+    ko: 제가 잘못한 겁니다.
+    ja: 私が悪いんです。
+  d_nikke_miranda_03_37:
+    speaker: miranda
+    en: It was my fault, Poli. You don't have to take responsibility!
+    ko: 제 실수인데 폴리가 책임을 질 필요는 없습니다!
+    ja: |-
+      私のミスなのに
+      ポリが責任を取る必要ありません！
+  d_nikke_miranda_03_38:
+    speaker: poli
+    en: Hmm? What responsibility?
+    ko: 엥? 책임이라녀?
+    ja: え？責任？
+  d_nikke_miranda_03_39:
+    speaker: poli
+    en: We are not only colleagues. We are in the same squad.
+    ko: 우리는 같은 A.C.P.U. 소속 경찰관이기 전에 한 스쿼드 잖아여?
+    ja: 私たちは同じA.C.P.U.所属の警察官である\n以前に同じ部隊の仲間ですぅ！
+  d_nikke_miranda_03_40:
+    speaker: poli
+    en: So this is just a coordinated operation.
+    ko: 그러니까 우리는 협동작전을 하는 거예여.
+    ja: |-
+      ですから
+      私たちは今協同作戦を遂行中なんですぅ。
+  d_nikke_miranda_03_41:
+    speaker: miranda
+    en: Coordinated operation...?
+    ko: 협동… 작전?
+    ja: 協同…作戦？
+  d_nikke_miranda_03_42:
+    speaker: poli
+    en: I'll calm Chief down and talk to the TV guys.
+    ko: 저는 서장님을 진정시킨 후에 방송 쪽을 막아볼게여.
+    ja: 私は署長を説得した後で放送局の方を\n何とかしてみますぅ。
+  d_nikke_miranda_03_43:
+    speaker: poli
+    en: I'm more capable than you on this, am I not?
+    ko: 그건 미란다보다 제가 더 잘할 수 있는 일이잖아여?
+    ja: こういうことはミランダよりも私の方が\n上手にできると思いませんかぁ？
+  d_nikke_miranda_03_44:
+    speaker: poli
+    en: So, Miranda, you...
+    ko: 그러니까 미란다는….
+    ja: ですからミランダは…
+  d_nikke_miranda_03_45:
+    speaker: miranda
+    en: You want me do what I'm more capable of?
+    ko: 제가 잘할 수 있는 일을 하라는 겁니까?
+    ja: 私が得意なことをすればいいってことですか？
+  d_nikke_miranda_03_46:
+    speaker: poli
+    en: Yes! You are so smart!
+    ko: 맞아여! 잘 알고 있네여!
+    ja: そうですっ！よく分かってるじゃないですかっ！
+  d_nikke_miranda_03_47:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_03_48:
+    speaker: poli
+    en: I'll leave the bomb to you.
+    ko: 폭탄을 부탁해여.
+    ja: 爆弾の方をお願いしますぅ。
+  d_nikke_miranda_03_49:
+    speaker: poli
+    en: It was said that it's hidden in the park. I'm sure you can find it.
+    ko: |-
+      공원에 숨겨져 있다고 하니까
+      분명히 찾을 수 있을 거예여.
+    ja: |-
+      公園に隠されてるみたいなので
+      きっとすぐに見つかるはずですよん。
+  d_nikke_miranda_03_50:
+    speaker: poli
+    en: That's your area of duty!
+    ko: 거긴 미란다의 임무지역이니까여!
+    ja: あそこはミランダの担当地域ですしねっ！
+  d_nikke_miranda_03_51:
+    speaker: miranda
+    en: Um...
+    ko: 그건….
+    ja: それは…
+  d_nikke_miranda_03_52:
+    speaker: poli
+    en: All right. Get over there before things get worse. Understand?
+    ko: |-
+      자, 자. 더 큰일 나기 전에 어서 움직이자구여.
+      알겠져?
+    ja: |-
+      ほらほら、
+      状況がもっと悪くなる前に急ぎましょっ。
+      分かりましたねぇ？
+  d_nikke_miranda_03_53:
+    speaker: miranda
+    en: Okay... Got it.
+    ko: 네… 알겠습니다.
+    ja: はい…分かりました。
+  d_nikke_miranda_03_54:
+    speaker: poli
+    en: Please take care of Miranda for me, Commander.
+    ko: 미란다를 부탁할게여. 지휘관.
+    ja: ミランダを頼みますぅ、指揮官。
+  d_nikke_miranda_03_55:
+    speaker: "<Self>"
+    en: You have my word.
+    ko: 걱정하지 마.
+    ja: 心配するな
+  d_nikke_miranda_03_56:
+    speaker: "<Narration>"
+    en: Poli leaves.
+    ko: 폴리가 떠나갔다.
+    ja: ポリが姿を消した
+  d_nikke_miranda_03_57:
+    speaker: miranda
+    en: "... Now I don't know what to do."
+    ko: "…이제 어떻게 해야 할지 모르겠습니다."
+    ja: "…これからどうすればいいのか分かりません。"
+  d_nikke_miranda_03_58:
+    speaker: miranda
+    en: Although Poli said we could find it.
+    ko: 폴리는 찾을 수 있다고 했지만.
+    ja: ポリは見つけられると言いましたが、
+  d_nikke_miranda_03_59:
+    speaker: miranda
+    en: But the park is so big, can I really find the bomb...?
+    ko: 그 넓은 공원에서 폭탄을 찾는 걸 제가 할 수 있을지….
+    ja: あんな広い公園の中からどうやって爆弾を\n見つければいいのか…
+  d_nikke_miranda_03_60:
+    speaker: miranda
+    en: The only thing I'm capable of seems to be causing trouble.
+    ko: 제가 잘 하는 일은 사고 치는 것 뿐인 것 같습니다.
+    ja: |-
+      私の得意なことは
+      失敗ばかりすることみたいです。
+  d_nikke_miranda_03_61:
+    speaker: miranda
+    en: I don't want to be a burden to everyone.
+    ko: 이렇게 모두를 힘들게 하게 하고 싶지 않았습니다.
+    ja: こんな風にみなさんを困らせるつもりでは\nありませんでした。
+  d_nikke_miranda_03_62:
+    speaker: miranda
+    en: I just want to do a good job.
+    ko: 그저 잘하고 싶어서.
+    ja: ただ役に立ちたくて
+  d_nikke_miranda_03_63:
+    speaker: miranda
+    en: I thought all I had to do was to work hard...
+    ko: 열심히 하면 될 거 같아서 그랬던 건데….
+    ja: 一生懸命やればできると思ってやったことが…
+  d_nikke_miranda_03_64:
+    speaker: miranda
+    en: Maybe it would be better to do nothing.
+    ko: 아무것도 하지 않는 게 더 나았을지도 모릅니다.
+    ja: 最初から何もしなかった方が\nよかったのかもしれません。
+  d_nikke_miranda_03_65:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_03_66:
+    speaker: miranda
+    en: Mr. 0 was right.
+    ko: Mr. 0의 말이 맞았습니다.
+    ja: Mr.0の言うことが正しかったみたいです。
+  d_nikke_miranda_03_67:
+    speaker: miranda
+    en: If I keep staying here, I will only become a burden.
+    ko: 저는 여기 더 있어봤자 민폐가 될 뿐입니다.
+    ja: 私はこれ以上ここにいたところで\n迷惑になるだけです。
+  d_nikke_miranda_03_68:
+    speaker: miranda
+    en: I'll tell Poli everything.
+    ko: 폴리에게 모든 걸 밝히고.
+    ja: ポリに本当のことを全部話して
+  d_nikke_miranda_03_69:
+    speaker: miranda
+    en: And then... It is the right choice to give up being a police officer.
+    ko: 경찰을… 그만두는 게 맞는 거 같습니다.
+    ja: 警察を…辞めた方がいいみたいです。
+  d_nikke_miranda_03_70:
+    speaker: "<Self>"
+    en: So you are going to throw everything to Poli and give up?
+    ko: 그럼 폴리에게 모든 걸 맡기고 포기할 거야?
+    ja: じゃあポリに全部押し付けて諦めるのか？
+  d_nikke_miranda_03_71:
+    speaker: miranda
+    en: Hmm?
+    ko: 네?
+    ja: はい？
+  d_nikke_miranda_03_72:
+    speaker: miranda
+    en: No, it's not like that!
+    ko: 그, 그건 아닙니다!
+    ja: そ、それは違います！
+  d_nikke_miranda_03_73:
+    speaker: "<Self>"
+    en: Aren't you patrolling the park every day and looking for missing children?
+    ko: 매일매일 공원을 순찰하며 미아를 찾았던 거 아니었어?
+    ja: |-
+      毎日公園をパトロールして
+      迷子がいないか探してたんじゃないのか？
+  d_nikke_miranda_03_74:
+    speaker: miranda
+    en: Yes... Yes... But...
+    ko: 그건… 그렇지만….
+    ja: それは…そうですが…
+  d_nikke_miranda_03_75:
+    speaker: "<Self>"
+    en: If it were you, where would you hide the bomb?
+    ko: 만약 미란다가 폭탄을 숨긴다면 어디에 숨길 거 같아?
+    ja: |-
+      もしミランダが爆弾を隠すんだったら、
+      どこに隠す？
+  d_nikke_miranda_03_76:
+    speaker: miranda
+    en: Um... It can't be too conspicuous.
+    ko: 그야… 눈에 잘 띄면 안 될 거 같으니까.
+    ja: それは…やっぱり目立ってはいけませんから、
+  d_nikke_miranda_03_77:
+    speaker: miranda
+    en: A deserted place?
+    ko: 사람의 발길이 잘 닿지 않는 곳…?
+    ja: 誰も行かないような場所…？
+  d_nikke_miranda_03_78:
+    speaker: "<Self>"
+    en: Remember the child we found during our shoot? Where was it, again?
+    ko: 촬영할 때 찾았던 아이는 어디에 있었지?
+    ja: |-
+      動画を撮影する時に
+      出会った迷子はどこにいた？
+  d_nikke_miranda_03_79:
+    speaker: miranda
+    en: Somewhere very deserted...!
+    ko: 사람의 발길이 잘 닿지 않는…!
+    ja: 誰も行かないような…！
+  d_nikke_miranda_03_80:
+    speaker: miranda
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_nikke_miranda_03_81:
+    speaker: "<Self>"
+    en: You think it's fine if you didn't look for it and gave up?
+    ko: 찾아보지도 않고 포기해도 괜찮겠어?
+    ja: 探す前から諦めてもいいのか？
+  d_nikke_miranda_03_82:
+    speaker: miranda
+    en: No, I don't!
+    ko: 아, 아뇨!
+    ja: い、いいえ！
+  d_nikke_miranda_03_83:
+    speaker: miranda
+    en: I have to look for the bomb. If I try hard enough, I'll be able to find it!
+    ko: "찾아봐야 할 거 같습니다. \n열심히 하면 찾을 수 있을 거 같습니다!"
+    ja: |-
+      探してみます！一生懸命探せば
+      見つけられるかもしれません！
+  d_nikke_miranda_03_84:
+    speaker: miranda
+    en: I-I am good at working hard!
+    ko: 여, 열심히 하는 건 잘합니다!
+    ja: い、一生懸命やることなら自信があります！
+  d_nikke_miranda_03_85:
+    speaker: miranda
+    en: Even if I don't do well, I will work hard!
+    ko: 잘은 못해도 열심히는 합니다!
+    ja: 上手にはできなくても一生懸命にはできます！
+  d_nikke_miranda_03_86:
+    speaker: "<Self>"
+    en: What do we do now?
+    ko: 그럼 이제 무엇을 해야 하지?
+    ja: じゃあこれから何をすればいいんだ？
+  d_nikke_miranda_03_87:
+    speaker: miranda
+    en: We have to find the bomb. We'll try our best!
+    ko: |-
+      폭탄을 찾으러 가야 합니다.
+      열심히 찾아야 합니다!
+    ja: |-
+      爆弾を見つけに行くのです。
+      一生懸命に探します！
+  d_nikke_miranda_03_88:
+    speaker: miranda
+    en: Hurry up!
+    ko: 서둘러야 합니다!
+    ja: 急ぎましょう！
+  d_nikke_miranda_03_89:
+    speaker: "<Self>"
+    en: Let's go.
+    ko: 가자!
+    ja: よし、行こう！
+  d_nikke_miranda_03_90:
+    speaker: miranda
+    en: Yes! Commander!
+    ko: 네! 지휘관!
+    ja: はい！指揮官！
+d_nikke_miranda_04:
+  d_nikke_miranda_04_1:
+    speaker: "<Monologue>"
+    en: No one is in the park.
+    ko: 공원 안에는 아무도 보이지 않는다.
+    ja: 公園には誰もいなかった
+  d_nikke_miranda_04_2:
+    speaker: "<Monologue>"
+    en: Maybe they all took refuge after watching that TV program.
+    ko: 방송을 보고 모두 피난한 듯하다.
+    ja: 放送を見てみんな避難したようだ
+  d_nikke_miranda_04_3:
+    speaker: miranda
+    en: There is chaos outside the park. But there seems to be no one here.
+    ko: |-
+      공원 바깥은 아수라장이었는데
+      여기는 아무도 없는 것 같습니다.
+    ja: |-
+      公園の外は大騒ぎですが
+      ここには誰もいないようです。
+  d_nikke_miranda_04_4:
+    speaker: miranda
+    en: That's great!
+    ko: 정말 다행입니다!
+    ja: 本当によかったです！
+  d_nikke_miranda_04_5:
+    speaker: "<Self>"
+    en: So where to start looking?
+    ko: 어디서부터 찾아야 하는데?
+    ja: どこから探せばいい？
+  d_nikke_miranda_04_6:
+    speaker: miranda
+    en: Well, wait a minute...
+    ko: 그건, 잠시만….
+    ja: それですが、ちょっと待ってください…
+  d_nikke_miranda_04_7:
+    speaker: "<Narration>"
+    en: Miranda slowly takes out a map.
+    ko: 미란다는 주섬주섬 종이 지도를 꺼내들었다.
+    ja: ミランダはごそごそと紙の地図を取り出した
+  d_nikke_miranda_04_8:
+    speaker: "<Self>"
+    en: A map?
+    ko: 지도?
+    ja: 地図？
+  d_nikke_miranda_04_9:
+    speaker: miranda
+    en: Right! I made it myself.
+    ko: 네! 제가 만든 겁니다.
+    ja: はい！私が作りました。
+  d_nikke_miranda_04_10:
+    speaker: miranda
+    en: Also known as Miranda's Special Map for Missing Children!
+    ko: 일명 미란다용 미아 탐지 지도입니다!
+    ja: 名付けて「ミランダ用迷子探知地図」です！
+  d_nikke_miranda_04_11:
+    speaker: "<Self>"
+    en: You didn't draw it directly, did you?
+    ko: 설마 직접 그린 거야?
+    ja: まさか自分で描いたのか？
+  d_nikke_miranda_04_12:
+    speaker: miranda
+    en: Yes, I drew it!
+    ko: 네, 그렇습니다!
+    ja: はい、そうです！
+  d_nikke_miranda_04_13:
+    speaker: "<Self>"
+    en: Great.
+    ko: 멋지네.
+    ja: すごいな
+  d_nikke_miranda_04_14:
+    speaker: miranda
+    en: Y-you praised me?! Thanks!
+    ko: 머, 멋지다니…! 아닙니다!
+    ja: す、すごいだなんて…！そんなことないです！
+  d_nikke_miranda_04_15:
+    speaker: miranda
+    en: Uh... Come on, let's start looking!
+    ko: 으으… 서, 서두르겠습니다!
+    ja: うう…い、急ぎましょう！
+  d_nikke_miranda_04_16:
+    speaker: "<Monologue>"
+    en: I follow Miranda all around the park.
+    ko: 미란다와 함께 공원 구석구석을 뛰어다녔다.
+    ja: ミランダと一緒に公園の至る所を探し回った
+  d_nikke_miranda_04_17:
+    speaker: "<Monologue>"
+    en: But we uncover no bombs.
+    ko: 그러나 아무리 찾아도 폭탄은 보이지 않았다.
+    ja: しかし、いくら探しても爆弾は見つからなかった
+  d_nikke_miranda_04_18:
+    speaker: miranda
+    en: We are screwed. I can't find the bomb anywhere.
+    ko: "큰일입니다. \n아무리 찾아도 보이지 않습니다."
+    ja: |-
+      困りました。
+      どこをどう探しても見つかりません。
+  d_nikke_miranda_04_19:
+    speaker: miranda
+    en: You doing good, Commander?
+    ko: 지휘관 체력은 괜찮습니까?
+    ja: 指揮官、休憩しなくても大丈夫ですか？
+  d_nikke_miranda_04_20:
+    speaker: "<Self>"
+    en: "... I'm okay."
+    ko: "…괜찮아."
+    ja: "…大丈夫だ"
+  d_nikke_miranda_04_21:
+    speaker: miranda
+    en: If you are tired, you can have a rest here. As for me...
+    ko: |-
+      많이 힘드시면 여기서 잠시 쉬고 계셔도 됩니다.
+      저 혼자…!
+    ja: |-
+      もしお疲れでしたらここで
+      少し休憩されても大丈夫です。
+      私一人で…！
+  d_nikke_miranda_04_22:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 지이잉-
+    ja: ジリリリリーン
+  d_nikke_miranda_04_23:
+    speaker: miranda
+    en: Oh...? It's Poli!
+    ko: 어…? 폴리입니다!
+    ja: あ…！ポリです！
+  d_nikke_miranda_04_24:
+    speaker: "<Narration>"
+    en: Miranda picks up the phone.
+    ko: 미란다가 전화를 받았다.
+    ja: ミランダが電話に出た
+  d_nikke_miranda_04_25:
+    speaker: miranda
+    en: This is Miranda!
+    ko: 미란다입니다!
+    ja: はい、ミランダです！
+  d_nikke_miranda_04_26:
+    speaker: poli
+    en: Hello? Miranda! Are you in the park now?
+    ko: |-
+      여보세여? 미란다!
+      지금 공원이져?
+    ja: |-
+      もしもし？ミランダ！
+      今公園にいますかぁ？
+  d_nikke_miranda_04_27:
+    speaker: miranda
+    en: Yes, that's right!
+    ko: 네, 그렇습니다!
+    ja: はい、そうです！
+  d_nikke_miranda_04_28:
+    speaker: poli
+    en: Then come out quickly! We've caught the terrorist!
+    ko: |-
+      그럼 당장 거기서 나와여!
+      지금 테러범 잡혔어여!
+    ja: |-
+      じゃあ、すぐに公園の外に出てくださいっ！
+      たった今テロ犯が捕まりましたっ！
+  d_nikke_miranda_04_29:
+    speaker: poli
+    en: And we decided to evacuate all the people inside the park first. We can look
+      for the bomb after interrogating the terrorist!
+    ko: |-
+      그래서 일단 공원 안에 인원 전부 철수 시키고.
+      범인을 심문해서 폭탄을 찾는 쪽으로 결정 났어여!
+    ja: |-
+      とりあえず公園内の人員は全員撤収し、
+      犯人を尋問してから爆弾を探すことに\nなりましたっ！
+  d_nikke_miranda_04_30:
+    speaker: miranda
+    en: Y-you mean everyone?
+    ko: 저, 정말 다들 철수했단 말입니까?
+    ja: ほ、本当にみなさん撤収したんですか？
+  d_nikke_miranda_04_31:
+    speaker: "<Narration>"
+    en: Miranda looks around.
+    ko: 미란다가 주변을 두리번거렸다.
+    ja: ミランダは周囲を見渡した
+  d_nikke_miranda_04_32:
+    speaker: poli
+    en: Right! So you come out quickly! With the Commander!
+    ko: 네! 그러니까 미란다랑 지휘관도 빨리…!
+    ja: はい！ですからミランダと指揮官も早く…！
+  d_nikke_miranda_04_33:
+    speaker: miranda
+    en: Oh? What's that box over there..?
+    ko: 어? 저기 웬 상자가….
+    ja: あれ？あそこに何か箱が…
+  d_nikke_miranda_04_34:
+    speaker: "<Narration>"
+    en: Miranda unearths a box hidden among the trees and opens it.
+    ko: 미란다가 수풀 사이에 숨겨져 있던 상자를 꺼내 열어보았다.
+    ja: ミランダは草むらの中に隠された箱を\n手に取り、蓋を開けた
+  d_nikke_miranda_04_35:
+    speaker: miranda
+    en: I-I found it! T-the bomb!
+    ko: 차, 찾았습니다! 포, 폭탄입니다!
+    ja: み、見つけました！ば、爆弾です！
+  d_nikke_miranda_04_36:
+    speaker: poli
+    en: You found it? The bomb?
+    ko: 찾았다고여? 폭탄을?
+    ja: 見つけたですって？爆弾を？
+  d_nikke_miranda_04_37:
+    speaker: poli
+    en: Well done! I'll contact the bomb disposal team now...
+    ko: |-
+      잘했어여!
+      그럼 이제 제거반에 연락을….
+    ja: |-
+      よくやりましたっ！
+      では早速爆弾処理班に連絡を…
+  d_nikke_miranda_04_38:
+    speaker: "<Narration>"
+    en: "*Beep Beep Beep Beep*"
+    ko: 삑-! 삑-! 삑-! 삑-!
+    ja: ピーッ！ピーッ！ピーッ！ピーッ！
+  d_nikke_miranda_04_39:
+    speaker: "<Self>"
+    en: What's that sound?
+    ko: 이게 무슨 소리지?
+    ja: 何の音だ？
+  d_nikke_miranda_04_40:
+    speaker: "<Monologue>"
+    en: Looking closely, I see a countdown timer on the bomb!
+    ko: 자세히 바라보니 폭탄에 시간 패널이 붙어 있다!
+    ja: 爆弾に時間表示パネルがついている！
+  d_nikke_miranda_04_41:
+    speaker: miranda
+    en: I-it's a time bomb!
+    ko: 시, 시한폭탄입니다!
+    ja: じ、時限爆弾です！
+  d_nikke_miranda_04_42:
+    speaker: poli
+    en: Don't touch it, Miranda! I'll inform the bomb disposal team!
+    ko: |-
+      미란다! 그거 건드리지 마여!
+      이제 곧 폭탄 제거반을 그쪽으로 보낼 테니까…!
+    ja: |-
+      ミランダ！絶対に触っちゃダメですよっ！
+      今すぐに爆弾処理班をそちらに送りますっ…！
+  d_nikke_miranda_04_43:
+    speaker: miranda
+    en: There's only... five minutes left.
+    ko: 5분 밖에… 남지 않았습니다.
+    ja: 5分しか…残ってません。
+  d_nikke_miranda_04_44:
+    speaker: poli
+    en: C-calm down. Leave the bomb there and leave the park with Commander!
+    ko: "치, 침작해여. \n그럼 그냥 그거 놓고 지휘관이랑 공원 밖으로 나가여!"
+    ja: |-
+      お、落ち着くんです。
+      ではそれはそこに置いて、指揮官と一緒に\n公園の外に逃げてくださいっ！
+  d_nikke_miranda_04_45:
+    speaker: miranda
+    en: Uh... What if this bomb is so powerful that it affects the surrounding area
+      around the park too?
+    ko: "저… 그런데, 만약 이게 생각보다 위력이 강해서 \n공원 밖에까지 영향을 끼치면 어떡합니까?"
+    ja: |-
+      でも…もしこの爆弾の威力が思ったより強くて
+      公園の外にまで影響があったらどうしますか？
+  d_nikke_miranda_04_46:
+    speaker: miranda
+    en: I just saw a lot of citizens outside...
+    ko: 아까 보니까 공원 밖에는 시민들이 많던데….
+    ja: 公園の外にはたくさん人がいるのに…
+  d_nikke_miranda_04_47:
+    speaker: miranda
+    en: There's a possibility they'll be hurt too, right?
+    ko: 그럼 그분들도 다치는 거 아닙니까?
+    ja: その人たちがケガをしてしまうかもしれません。
+  d_nikke_miranda_04_48:
+    speaker: poli
+    en: D-don't think about that now. Come out quickly!
+    ko: 지, 지금은 그런 거 생각하지 마여. 일단 나와여!
+    ja: い、今はそんなことは考えている\n暇はありませんっ。早く逃げてっ！
+  d_nikke_miranda_04_49:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_04_50:
+    speaker: miranda
+    en: I will hold it until it explodes.
+    ko: 이게 터질 때까지 제가 이걸 안고 있겠습니다.
+    ja: |-
+      これが爆発するまで
+      私が抱きかかえて持ってます。
+  d_nikke_miranda_04_51:
+    speaker: miranda
+    en: A Nikke's body is durable and hardy. The explosion range will be reduced if
+      it blows up in my arms.
+    ko: |-
+      니케의 몸은 튼튼하니까 감싸고 있으면
+      폭발 범위가 줄어들 겁니다!
+    ja: |-
+      ニケの体は頑丈ですから、こうして抱えていれば
+      爆発の範囲が減ると思います！
+  d_nikke_miranda_04_52:
+    speaker: poli
+    en: What are you talking about? We will die in the face of bombs!
+    ko: "튼튼하긴 뭐가 튼튼해! \n우리도 폭탄을 직격으로 맞으면 죽어여!"
+    ja: |-
+      何言ってるんですか！
+      ニケでも爆弾を直に受ければ死んじゃいますっ！
+  d_nikke_miranda_04_53:
+    speaker: miranda
+    en: B-but I can also protect the citizens! I... I...!
+    ko: |-
+      그, 그래도 시민들은 지킬 수 있을 겁니다!
+      저는… 저는!
+    ja: |-
+      で、でも市民は守ることができるはずです！
+      私は…私は！
+  d_nikke_miranda_04_54:
+    speaker: miranda
+    en: I'm a police officer of A.C.P.U.! It is my duty to protect citizens!
+    ko: |-
+      A.C.P.U.의 경찰입니다!
+      시민을 지켜야 합니다!
+    ja: |-
+      A.C.P.U.の警察官です！
+      市民を守る義務があります！
+  d_nikke_miranda_04_55:
+    speaker: poli
+    en: Miranda?
+    ko: 미란다?
+    ja: ミランダ？
+  d_nikke_miranda_04_56:
+    speaker: miranda
+    en: Bye-bye!
+    ko: 끊겠습니다!
+    ja: また後で電話します！
+  d_nikke_miranda_04_57:
+    speaker: poli
+    en: Wai...!
+    ko: 잠깐ㅁ…!
+    ja: ちょっと待っ…！
+  d_nikke_miranda_04_58:
+    speaker: "<Narration>"
+    en: Miranda hangs up.
+    ko: 미란다가 전화를 끊었다.
+    ja: ミランダが電話を切った
+  d_nikke_miranda_04_59:
+    speaker: miranda
+    en: Commander. Just leave me alone here.
+    ko: 지휘관. 여긴 저 혼자 남겠습니다.
+    ja: 指揮官。ここには私一人で残ります。
+  d_nikke_miranda_04_60:
+    speaker: "<Self>"
+    en: No way.
+    ko: 안 돼.
+    ja: ダメだ
+  d_nikke_miranda_04_61:
+    speaker: miranda
+    en: Don't worry, I'm a Nikke. I might survive even if the bomb explodes.
+    ko: |-
+      저는 진짜 괜찮습니다!
+      전 니케라서 폭탄이 터지면 살지도 모릅니다.
+    ja: |-
+      私なら大丈夫です！
+      私はニケなので爆弾が爆発しても生きられる\n可能性があります。
+  d_nikke_miranda_04_62:
+    speaker: miranda
+    en: But you are different.
+    ko: 하지만 지휘관은 다릅니다.
+    ja: でも指揮官は違います。
+  d_nikke_miranda_04_63:
+    speaker: miranda
+    en: "... You might die."
+    ko: 폭탄이 터지는데 옆에 있으면 죽을 겁니다.
+    ja: 爆弾の横にいたら死んでしまいます。
+  d_nikke_miranda_04_64:
+    speaker: "<Self>"
+    en: Anyway, the explosion range of the bomb may be equal to a 5-minute walk!
+    ko: 5분 동안 열심히 뛰어봤자 죽을 수도 있어.
+    ja: 5分間一生懸命走っても、\n死ぬかもしれない
+  d_nikke_miranda_04_65:
+    speaker: miranda
+    en: Oh? I-it makes sense...
+    ko: 어? 그, 그건 그런데….
+    ja: え？そ、それはそうかもしれませんが…
+  d_nikke_miranda_04_66:
+    speaker: miranda
+    en: Ah! Then I'll just run inside!
+    ko: 아! 그럼 제가 안쪽으로 달리겠습니다!
+    ja: あ！では私が公園の中心部に向かって\n走っていきます！
+  d_nikke_miranda_04_67:
+    speaker: miranda
+    en: I'll just run in the opposite direction from you. You'll be safe, Commander!
+    ko: |-
+      지휘관이랑 반대로 뛰어가면 되지 않겠습니까?
+      그럼 안전할 겁니다!
+    ja: |-
+      指揮官とは反対方向に
+      離れればいいじゃないですか。
+      それなら安全なはずです！
+  d_nikke_miranda_04_68:
+    speaker: "<Self>"
+    en: Don't do that. I'll be with you.
+    ko: 싫어. 함께 있을 거야.
+    ja: 嫌だ、一緒にいる
+  d_nikke_miranda_04_69:
+    speaker: miranda
+    en: No way! You must leave! I have to protect the citizens.
+    ko: |-
+      안됩니다! 가셔야 합니다!
+      저는 시민을 지켜야 하고.
+    ja: |-
+      ダメです。逃げてください！
+      私は市民を守る義務があり、
+  d_nikke_miranda_04_70:
+    speaker: miranda
+    en: You're one of them too, Commander.
+    ko: 지휘관도 제가 지켜야 하는 시민입니다!
+    ja: 指揮官も私が守るべき市民の一人です！
+  d_nikke_miranda_04_71:
+    speaker: "<Self>"
+    en: Miranda is a Nikke I have to protect!
+    ko: 미란다도 내가 지켜야 하는 니케야!
+    ja: ミランダも私が守るべきニケだ！
+  d_nikke_miranda_04_72:
+    speaker: miranda
+    en: I said! I am a police officer!
+    ko: 저, 저는 경찰이라고 하지 않았습니까아!
+    ja: わ、私は警察だと言いました！
+  d_nikke_miranda_04_73:
+    speaker: miranda
+    en: In the Ark, you must listen to the police in all emergencies!
+    ko: 방주 내에선 위급 상황 시 경찰의 말을 들어야 합니다!
+    ja: アーク内では緊急事態発生時、\n警察の命令に従わなければなりません！
+  d_nikke_miranda_04_74:
+    speaker: "<Self>"
+    en: No. Or we'll risk our lives together.
+    ko: 그렇다면 같이 목숨을 걸게.
+    ja: それなら一緒に命をかける
+  d_nikke_miranda_04_75:
+    speaker: miranda
+    en: Hmm? Risk lives...?!
+    ko: 네? 목숨을 건다니…!
+    ja: はい？命をかける…！？
+  d_nikke_miranda_04_76:
+    speaker: miranda
+    en: What do you mean?
+    ko: 무슨 말씀을 하시는 겁니까?
+    ja: 何を仰ってるんですか？
+  d_nikke_miranda_04_77:
+    speaker: "<Monologue>"
+    en: I look at the bomb again.
+    ko: 다시 한번 폭탄을 바라보았다.
+    ja: 改めて爆弾を見た
+  d_nikke_miranda_04_78:
+    speaker: "<Monologue>"
+    en: There is a red line and a blue line.
+    ko: 빨간색과 파란색의 선이 보인다.
+    ja: 赤い線と青い線が見える
+  d_nikke_miranda_04_79:
+    speaker: "<Monologue>"
+    en: Somehow, I feel the timer will stop if we cut one of them.
+    ko: 왠지 둘 중 하나의 선을 제거하면 멈출 것 같은 기분이 든다.
+    ja: 何となく2つの線のうち、どちらかを抜けば\nタイマーが止まる気がした
+  d_nikke_miranda_04_80:
+    speaker: "<Self>"
+    en: Let's cut one of the lines.
+    ko: 둘 중 하나의 선을 제거하자.
+    ja: どちらか1つの線を抜こう
+  d_nikke_miranda_04_81:
+    speaker: miranda
+    en: You, you mean that we do something to this bomb?
+    ko: 포, 폭탄을 건드리자는 말입니까?
+    ja: ば、爆弾を操作するつもりですか？
+  d_nikke_miranda_04_82:
+    speaker: miranda
+    en: No way! If something goes wrong, it will explode! You will die!
+    ko: 안됩니다! 잘못하면 터집니다! 죽습니다!
+    ja: ダメです！一歩間違えば爆発してしまいます！\n死んでしまいます！
+  d_nikke_miranda_04_83:
+    speaker: "<Self>"
+    en: Anyway, now we are just waiting to die.
+    ko: 가만히 있어도 죽는 건 마찬가지야.
+    ja: じっとしていても死ぬのは同じだ
+  d_nikke_miranda_04_84:
+    speaker: miranda
+    en: That makes sense...
+    ko: 그건 그렇지만….
+    ja: それはそうですが…
+  d_nikke_miranda_04_85:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_04_86:
+    speaker: miranda
+    en: Uh... I-I don't know. My choice will affect your life... I can't choose!
+    ko: |-
+      으… 저, 전 못 고르겠습니다.
+      제 선택에 지휘관의 목숨이 달려 있다니… 못하겠습니다!
+    ja: |-
+      うう…わ、私には選べません。
+      私の選択に指揮官の命がかかっているなんて…\n私にはできません！
+  d_nikke_miranda_04_87:
+    speaker: "<Monologue>"
+    en: Think it over carefully.
+    ko: 신중하게 생각하자.
+    ja: 慎重に考えよう
+  d_nikke_miranda_04_88:
+    speaker: "<Monologue>"
+    en: There are two lines. Which one should be cut?
+    ko: |-
+      두 개의 선이 있다.
+      어떤 걸 제거해야 할까?
+    ja: |-
+      2つの線がある。
+      どちらを抜けばいいんだ？
+  d_nikke_miranda_04_89:
+    speaker: "<Choice>"
+    en: Cut the blue line.
+    ko: 파란 선을 제거한다.
+    ja: 青い線を抜く
+  d_nikke_miranda_04_90:
+    speaker: "<Choice>"
+    en: Cut the red line.
+    ko: 빨간 선을 제거한다.
+    ja: 赤い線を抜く
+  d_nikke_miranda_04_91:
+    speaker: miranda
+    en: W-wait up!
+    ko: 자, 잠깐!
+    ja: ちょ、ちょっと待ってください！
+  d_nikke_miranda_04_92:
+    speaker: miranda
+    en: Do you really want to get rid of this line?
+    ko: 정말 이 선으로 하시겠습니까?
+    ja: 本当にこっちでいいんですか？
+  d_nikke_miranda_04_93:
+    speaker: miranda
+    en: I... I feel that the red line is the right one...
+    ko: 저… 저는 빨간 선이 맞는 것 같은데에….
+    ja: わ…私は赤い線が合ってるような気が…
+  d_nikke_miranda_04_94:
+    speaker: "<Monologue>"
+    en: I think we should choose the blue line!
+    ko: 갑자기 파란 선을 선택하길 잘했다는 생각이 든다!
+    ja: |-
+      急に青い線を選んで
+      よかったという気がしてきた！
+  d_nikke_miranda_04_95:
+    speaker: miranda
+    en: Um... Um...!
+    ko: 그, 그러면!
+    ja: で、では！
+  d_nikke_miranda_04_96:
+    speaker: miranda
+    en: I want to know the reason!
+    ko: 파란 선을 선택한 이유가 뭔지 듣고 싶습니다!
+    ja: 青い線を選んだ理由をお聞かせください！
+  d_nikke_miranda_04_97:
+    speaker: "<Self>"
+    en: When it comes to police, the first color that comes to mind is blue.
+    ko: 경찰은 역시 블루지.
+    ja: 警察はやっぱりブルーだ
+  d_nikke_miranda_04_98:
+    speaker: miranda
+    en: That's it?
+    ko: 서, 설마 고작 그 이유뿐입니까?
+    ja: ま、まさかそんな単純な理由でですか？
+  d_nikke_miranda_04_99:
+    speaker: miranda
+    en: No way! How can we decide a matter of life and death like this?!
+    ko: "안됩니다! \n그런 이유에 목숨을 걸면 안 됩니다!!"
+    ja: |-
+      ダメです！
+      そんな理由で命をかけてはいけません！！
+  d_nikke_miranda_04_100:
+    speaker: "<Narration>"
+    en: "*Beep beep*"
+    ko: 삣- 삣- 삣- 삣-!
+    ja: ピッ ピッ ピッ ピッ！
+  d_nikke_miranda_04_101:
+    speaker: "<Narration>"
+    en: The timer on the bomb shows we have nine seconds left.
+    ko: 시한폭탄 패널에 9초가 남았다고 표시되었다.
+    ja: 時限爆弾のパネルには9秒と表示されていた
+  d_nikke_miranda_04_102:
+    speaker: "<Self>"
+    en: We got no time!
+    ko: 시간이 없어!
+    ja: 時間がない！
+  d_nikke_miranda_04_103:
+    speaker: "<Monologue>"
+    en: I ignore Miranda's yells and grab the blue line.
+    ko: 절규하는 미란다를 내버려 두고 파란 선을 잡았다.
+    ja: 絶叫するミランダを無視して青い線を掴んだ
+  d_nikke_miranda_04_104:
+    speaker: miranda
+    en: Commander... Do you?
+    ko: 지휘관… 설마?
+    ja: 指揮官…本当に？
+  d_nikke_miranda_04_105:
+    speaker: "<Self>"
+    en: I'm gonna cut it!
+    ko: 제거할게!
+    ja: 抜くぞ！
+  d_nikke_miranda_04_106:
+    speaker: "<Monologue>"
+    en: I'll cut the blue line!
+    ko: 파란 선을 잡아 뜯었다!
+    ja: 青い線を引き抜いた！
+  d_nikke_miranda_04_107:
+    speaker: miranda
+    en: No!
+    ko: 안돼에!
+    ja: だめぇぇ！
+  d_nikke_miranda_04_108:
+    speaker: miranda
+    en: R-red?
+    ko: 빠, 빨간색 말입니까…!
+    ja: あ、赤い線ですか…！
+  d_nikke_miranda_04_109:
+    speaker: miranda
+    en: It's amazing! Actually, I think so too!
+    ko: "신기합니다! \n실은 저도 그렇게 생각하고 있었습니다!"
+    ja: |-
+      不思議です！
+      実は私もそう思っていました！
+  d_nikke_miranda_04_110:
+    speaker: "<Monologue>"
+    en: This sudden decision to go with the red line unsettles me.
+    ko: 갑자기 빨간 선을 선택한 것이 불안해졌다.
+    ja: |-
+      急に赤い線を選んで
+      よかったのかと不安になってきた
+  d_nikke_miranda_04_111:
+    speaker: "<Narration>"
+    en: Miranda's hands begin to tremble.
+    ko: 미란다의 손이 부들부들 떨리기 시작했다.
+    ja: ミランダの手がぶるぶると震え始めた
+  d_nikke_miranda_04_112:
+    speaker: miranda
+    en: Woo... I-I'm so nervous...
+    ko: 후우우우… 너, 너무 긴장됩니다아….
+    ja: うううううう…き、緊張します…
+  d_nikke_miranda_04_113:
+    speaker: "<Narration>"
+    en: "*Beep Beep Beep Beep*"
+    ko: 삣- 삣- 삣- 삣-!
+    ja: ピッ ピッ ピッ ピッ！
+  d_nikke_miranda_04_114:
+    speaker: "<Narration>"
+    en: The timer on the bomb shows we have nine seconds left.
+    ko: 시한폭탄 패널에 9초가 남았다고 표시되었다.
+    ja: 時限爆弾のパネルには9秒と表示されていた
+  d_nikke_miranda_04_115:
+    speaker: "<Self>"
+    en: We got no time!
+    ko: 시간이 없어!
+    ja: 時間がない！
+  d_nikke_miranda_04_116:
+    speaker: miranda
+    en: Uh-uh! Whatever the outcome!
+    ko: 으으으! 모르겠습니다아!
+    ja: ううっ！もう知りません！
+  d_nikke_miranda_04_117:
+    speaker: "<Monologue>"
+    en: Miranda's hand reaches for the red line...
+    ko: 미란다의 손이 빨간 선을 향해 가다가….
+    ja: ミランダの手が赤い線に向かおうとしたが…
+  d_nikke_miranda_04_118:
+    speaker: "<Monologue>"
+    en: And then she cuts the blue line?
+    ko: 파란 선을 잡아 뜯어버렸다?
+    ja: 青い線を抜いてしまった！？
+  d_nikke_miranda_04_119:
+    speaker: miranda
+    en: Uh huh, I got it wrong!
+    ko: 으아아, 자, 잘못 제거했습니다!
+    ja: うわああ、ま、間違えてしまいました！
+  d_nikke_miranda_04_120:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_nikke_miranda_04_121:
+    speaker: "<Narration>"
+    en: Miranda put her arms around my head.
+    ko: 미란다가 머리를 꼭 끌어안았다.
+    ja: ミランダが頭を引き寄せ抱きかかえた
+  d_nikke_miranda_04_122:
+    speaker: miranda
+    en: Commander... Commander!
+    ko: 지휘관만큼은… 지휘관만큼은!
+    ja: 指揮官だけは…どうか指揮官だけは！
+  d_nikke_miranda_04_123:
+    speaker: miranda
+    en: You can't die!
+    ko: 죽어선 안됩니다!
+    ja: 死んではいけません！
+  d_nikke_miranda_04_124:
+    speaker: "<Narration>"
+    en: A white flash surrounds us.
+    ko: 하얀 섬광이 두 사람을 덮쳤다.
+    ja: 白い閃光が二人に覆い被さった
+d_nikke_miranda_05:
+  d_nikke_miranda_05_1:
+    speaker: poli
+    en: Oh my gosh! What's going on?
+    ko: |-
+      세상에.
+      이게 무슨 일이에여.
+    ja: |-
+      本当にもうっ。
+      何がどうなってるんですかぁ。
+  d_nikke_miranda_05_2:
+    speaker: poli
+    en: The bomb didn't even explode yet and you hid out of fear.
+    ko: 폭탄이 터지지도 않았는데 지레 겁먹고 피하다가.
+    ja: |-
+      爆弾が爆発してもないのに
+      先走って逃げようとして、
+  d_nikke_miranda_05_3:
+    speaker: poli
+    en: You squashed the Commander and dislocated one of his shoulders!
+    ko: 지휘관을 깔고 뭉개서 어깨 탈골이 되게 하다닛!
+    ja: 指揮官が下にいるのも分からず踏んだあげく、\n肩の骨を脱臼させるなんてっ！
+  d_nikke_miranda_05_4:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_05_5:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_05_6:
+    speaker: poli
+    en: Well, if you're so afraid, then why did you touch the bomb?
+    ko: "아닛, 그렇게 겁먹을 거였으면 \n폭탄은 도대체 왜 건드린 거예여?"
+    ja: |-
+      そもそも、そんなに怖いんだったら
+      何で爆弾に手を出したんですかぁ？
+  d_nikke_miranda_05_7:
+    speaker: miranda
+    en: Um... Um...
+    ko: 그… 그게….
+    ja: そ…それは…
+  d_nikke_miranda_05_8:
+    speaker: "<Self>"
+    en: I told her to.
+    ko: 폭탄은 내가 만지자고 했어.
+    ja: 爆弾処理は私が提案した
+  d_nikke_miranda_05_9:
+    speaker: poli
+    en: Stay here. Both of you!
+    ko: 두 사람 다 가만히 있어여!
+    ja: 二人とも質問だけに答えてくださいっ！
+  d_nikke_miranda_05_10:
+    speaker: poli
+    en: I told you to run away! Why did you disarm the bomb instead of running away?!
+    ko: "아니 도망치라니깟! \n왜 도망치지 않고 폭탄을 해체하고 있어여!"
+    ja: |-
+      だから逃げてって言ったのにっ！
+      何で逃げないで爆弾を\n解体しようとしたんですか！
+  d_nikke_miranda_05_11:
+    speaker: poli
+    en: What if you chose the wrong wire?
+    ko: 그러다 선을 잘못 뽑았으면 어쩌려고 그랬어여!
+    ja: |-
+      もしも赤い線を引っ張ってたら、
+      どうなったと思ってるんですかぁ！
+  d_nikke_miranda_05_12:
+    speaker: poli
+    en: Were both of you that determined to die!?
+    ko: 두 사람 다 죽으려고 작정했어여!
+    ja: |-
+      二人で一緒に心中でもしようと
+      約束してたんですかっ！
+  d_nikke_miranda_05_13:
+    speaker: miranda
+    en: P-Poli, calm down...
+    ko: 포, 폴리 진정을….
+    ja: ポ、ポリ、落ち着いて…
+  d_nikke_miranda_05_14:
+    speaker: poli
+    en: Shut up!
+    ko: 진정은 무슨 진정!
+    ja: こんな状況で落ち着けると思うのっ？
+  d_nikke_miranda_05_15:
+    speaker: poli
+    en: If you wanted to use Nikke abilities on the bomb,
+    ko: 니케의 몸으로 폭탄을 견뎌낼 생각이 있었으면.
+    ja: ニケの体で爆弾に耐えようと思ったんだったら、
+  d_nikke_miranda_05_16:
+    speaker: poli
+    en: then you should have found a way to escape quickly!
+    ko: 니케 능력을 이용해서 최대한 빠르게 도망칠 생각을 해야지!
+    ja: ニケの能力を利用してできるだけ早く\n逃げようって思うのが普通でしょっ！
+  d_nikke_miranda_05_17:
+    speaker: poli
+    en: You never listen to others at all! How dare you hang up on me!
+    ko: "사람 이야기는 끝까지 듣지도 않고! \n도대체 전화는 왜 멋대로 끊는 거얏!"
+    ja: |-
+      人の話はろくに聞かないし！
+      電話は勝手に切っちゃうし！
+  d_nikke_miranda_05_18:
+    speaker: poli
+    en: Aaaahhh!
+    ko: 크르르르릉!
+    ja: グルルルルン！
+  d_nikke_miranda_05_19:
+    speaker: miranda
+    en: S-sorry! It was my fault!
+    ko: 죄, 죄송합니다! 잘못했습니다!
+    ja: |-
+      も、申し訳ございません！
+      本当に私が悪かったです！
+  d_nikke_miranda_05_20:
+    speaker: "<Self>"
+    en: Sorry. It was my fault.
+    ko: 미안해. 잘못했어.
+    ja: すまない、悪かった
+  d_nikke_miranda_05_21:
+    speaker: poli
+    en: Gee!!
+    ko: 어흉!!
+    ja: もうっ！！
+  d_nikke_miranda_05_22:
+    speaker: poli
+    en: But... you're lucky to be alive.
+    ko: 그래도… 살아 있어서 다행이에여.
+    ja: でも…生きて帰ってこれてよかったですぅ。
+  d_nikke_miranda_05_23:
+    speaker: poli
+    en: 50% probability. What a good guess.
+    ko: 50 대 50의 확률이었는데. 잘 찍으셨네여.
+    ja: |-
+      1/2の確率だったのに。
+      本当に運がよかったですねっ。
+  d_nikke_miranda_05_24:
+    speaker: "<Self>"
+    en: "... It was all good luck."
+    ko: "…운이 좋았지."
+    ja: "…確かに運がよかった"
+  d_nikke_miranda_05_25:
+    speaker: miranda
+    en: It was all thanks to the Commander's sound advice!
+    ko: 전부 다 지휘관 덕분입니다!
+    ja: 全部指揮官のおかげです！
+  d_nikke_miranda_05_26:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_05_27:
+    speaker: poli
+    en: Miranda.
+    ko: 미란다.
+    ja: ミランダ。
+  d_nikke_miranda_05_28:
+    speaker: miranda
+    en: Hmm?
+    ko: 네?
+    ja: はい？
+  d_nikke_miranda_05_29:
+    speaker: poli
+    en: Although the Commander was the one in charge.
+    ko: 이번엔 지휘관도 지휘관이지만.
+    ja: 今回の事件は指揮官も指揮官ですけど、
+  d_nikke_miranda_05_30:
+    speaker: poli
+    en: I feel like that it was through your efforts and courage that the citizens
+      were saved.
+    ko: 미란다의 노력과 용기가 시민들을 살렸다고 생각해여.
+    ja: |-
+      ミランダの努力と勇気が
+      市民を救ったと思いますぅ。
+  d_nikke_miranda_05_31:
+    speaker: poli
+    en: As a police officer myself, I want to say thank you very much.
+    ko: 같은 경찰관으로서 감사의 인사를 드립니당.
+    ja: 同じ警察官として感謝の意を表しますぅ！
+  d_nikke_miranda_05_32:
+    speaker: miranda
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_nikke_miranda_05_33:
+    speaker: miranda
+    en: No! I'm the one who should say thank you!
+    ko: |-
+      아닙니다!
+      가, 감사해야 할 건 저입니다!
+    ja: |-
+      とんでもありません！
+      か、感謝しないといけないのは私の方です！
+  d_nikke_miranda_05_34:
+    speaker: miranda
+    en: I wanted to show off my hardwork through filming videos, but ended up causing
+      so much trouble.
+    ko: |-
+      열심히 하는 걸 보여주겠다면서
+      영상이나 찍어서 사고나 치고.
+    ja: |-
+      一生懸命働く姿を見せるとか言って
+      動画撮影したものの相手を間違って送ったり、
+  d_nikke_miranda_05_35:
+    speaker: miranda
+    en: And you had to clean up the mess for me.
+    ko: 폴리가 뒷수습을 하게 만들었습니다.
+    ja: ポリに迷惑をかけてしまいました。
+  d_nikke_miranda_05_36:
+    speaker: miranda
+    en: You even said that we're not only colleagues, but squad mates. Yet I...
+    ko: 그리고 A.C.P.U.를 떠나 한 스쿼드라고 이야기 해줬는데. 저는….
+    ja: |-
+      それからA.C.P.U.である以前に、
+      1つの部隊だとも言ってくれたのに。
+      私は…
+  d_nikke_miranda_05_37:
+    speaker: miranda
+    en: Actually, I've been lying to you.
+    ko: 저는 폴리를 속이고 있었습니다.
+    ja: 私はポリを騙していました。
+  d_nikke_miranda_05_38:
+    speaker: poli
+    en: Lying? What do you mean you were lying to me?
+    ko: "저, 저를여? \n미란다가 저를 속이고 있었다고여?"
+    ja: |-
+      わ、私をですか？
+      ミランダが私を騙したですってぇ？
+  d_nikke_miranda_05_39:
+    speaker: poli
+    en: No way! How could you be lying to me?
+    ko: 말도 안 돼! 제가 미란다에게?
+    ja: 信じられない！私がミランダに騙されるぅ？
+  d_nikke_miranda_05_40:
+    speaker: "<Self>"
+    en: Calm down.
+    ko: 폴리, 진정해.
+    ja: ポリ、落ち着け
+  d_nikke_miranda_05_41:
+    speaker: miranda
+    en: Yes. I have been lying to you.
+    ko: 네. 폴리는 속고 있었습니다.
+    ja: はい。ポリは騙されていました。
+  d_nikke_miranda_05_42:
+    speaker: miranda
+    en: Actually, I'm not a police officer of the A.C.P.U. I'm...!
+    ko: 전 사실 A.C.P.U. 소속의 경찰관이 아닙니다. 전…!
+    ja: 実は私はA.C.P.U.所属の警察官では\nありません。私は…！
+  d_nikke_miranda_05_43:
+    speaker: poli
+    en: An inspector under the Central Government Supervision Department?
+    ko: 중앙정부 감사부 소속, 감찰관이라고여?
+    ja: 中央政府監査課所属の監察官\nって言おうとしてるぅ？
+  d_nikke_miranda_05_44:
+    speaker: miranda
+    en: H-how did you...?!
+    ko: 어, 어떻게 그걸…!
+    ja: ど、どうしてそれを…！
+  d_nikke_miranda_05_45:
+    speaker: poli
+    en: Uh, it's no big deal. Actually, I think everyone knows.
+    ko: |-
+      난 또 뭐라고~
+      아마 저 뿐만 아니라 다들 알고 있을 걸여?
+    ja: |-
+      な～んだ、そんなことか～
+      多分私だけじゃなくてみんな知ってると\n思いますけどぉ？
+  d_nikke_miranda_05_46:
+    speaker: miranda
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_nikke_miranda_05_47:
+    speaker: poli
+    en: So... In a sense, we were deceiving each other. So I guess that makes us even!
+    ko: |-
+      뭐어… 이렇게 따지면 서로 속인 셈이니깡.
+      퉁치는 걸로 하져!
+    ja: |-
+      まあ…結果的にはお互いに
+      騙しあっこしてたってわけだし、
+      チャラにしましょっ！
+  d_nikke_miranda_05_48:
+    speaker: miranda
+    en: Aren't you angry?
+    ko: 화를 내시지 않습니까?
+    ja: 怒らないのですか？
+  d_nikke_miranda_05_49:
+    speaker: poli
+    en: Why would I be angry?
+    ko: 왜 화를 내여?
+    ja: 何で怒るのぉ？
+  d_nikke_miranda_05_50:
+    speaker: miranda
+    en: I mean... I was lying to you...
+    ko: 그게… 당연히 속였으니까….
+    ja: |-
+      それは…
+      だって、私はポリを騙してたんですよ…？
+  d_nikke_miranda_05_51:
+    speaker: poli
+    en: Miranda, people like us in the A.C.P.U. are all police!
+    ko: 미란다. 우리 A.C.P.U.는 경찰이에여!
+    ja: ミランダ。私たちA.C.P.U.は警察ですっ！
+  d_nikke_miranda_05_52:
+    speaker: poli
+    en: We are professionals who can distinguish truth from lies!
+    ko: 진실과 거짓을 구분하는데 특화된 사람들이져!
+    ja: 真実と嘘を見分けることが専門の集団ですっ！
+  d_nikke_miranda_05_53:
+    speaker: poli
+    en: Even if someone wears a disguise, we can recognize them by their behavior.
+    ko: "위장 취업한 사람 같은 건 \n몸짓만 봐도 알고."
+    ja: |-
+      偽装就業した人なんて
+      身振りだけでもすぐに分かりますぅ。
+  d_nikke_miranda_05_54:
+    speaker: poli
+    en: It's as easy as a piece of Splendamin to know if you're serious about your
+      work.
+    ko: "일에 진지하게 임하는지 \n아닌지를 캐치하는 건 누워서 퍼펙트 먹기라 고여."
+    ja: |-
+      仕事に対する情熱のあるなしを
+      判断することなどチョロイもんですよん。
+  d_nikke_miranda_05_55:
+    speaker: poli
+    en: My detective senses tell me that you've always been serious about it.
+    ko: |-
+      제 형사의 코가 말하건대.
+      미란다는 늘 진심이었어여.
+    ja: |-
+      私のよく利く刑事の鼻が何か言ってますよん。
+      ミランダはいつでも真剣だったってね。
+  d_nikke_miranda_05_56:
+    speaker: poli
+    en: Aren't you?
+    ko: 아닌가여?
+    ja: 違いますかぁ？
+  d_nikke_miranda_05_57:
+    speaker: miranda
+    en: Um...
+    ko: 그건….
+    ja: それは…
+  d_nikke_miranda_05_58:
+    speaker: poli
+    en: Also, don't you remember?
+    ko: 그리고 기억 안 나여?
+    ja: それと覚えてないんですかぁ？
+  d_nikke_miranda_05_59:
+    speaker: poli
+    en: What you said on the phone in the park.
+    ko: 공원에서 전화했을 때, 미란다가 한 말.
+    ja: 公園で電話で話した時、ミランダが言った言葉。
+  d_nikke_miranda_05_60:
+    speaker: miranda
+    en: Th-that I can also protect the citizens! I... I!
+    ko: |-
+      그, 그래도 시민들은 지킬 수 있을 겁니다!
+      저는… 저는!
+    ja: |-
+      で、でも市民は守ることができるはずです！
+      私は…私は！
+  d_nikke_miranda_05_61:
+    speaker: miranda
+    en: I'm a police officer of the A.C.P.U.! It is my duty to protect the citizens!
+    ko: |-
+      A.C.P.U.의 경찰입니다!
+      시민을 지켜야 합니다!
+    ja: |-
+      A.C.P.U.の警察官です！
+      市民を守る義務があります！
+  d_nikke_miranda_05_62:
+    speaker: miranda
+    en: Arghhh! What I said then...!
+    ko: 으아아! 그, 그때 이야기는…!
+    ja: うわあああ！あ、あの時は私も興奮してて…！
+  d_nikke_miranda_05_63:
+    speaker: poli
+    en: I was really touched!
+    ko: 저 그때 진짜 감동했잖아여!
+    ja: 私、本当に感動しちゃいましたぁ！
+  d_nikke_miranda_05_64:
+    speaker: miranda
+    en: Wah... Poli!
+    ko: 으으… 폴리!
+    ja: うう…ポリ！
+  d_nikke_miranda_05_65:
+    speaker: poli
+    en: So stop saying things like you're not a police officer.
+    ko: |-
+      그러니까 더 이상 자신은 경찰관이 아니니 뭐니
+      이상한 말 하지 말아여.
+    ja: |-
+      ですからもう自分は警察官じゃないとか
+      そんなこと言わないでくださいねぇ。
+  d_nikke_miranda_05_66:
+    speaker: poli
+    en: It makes me sad!
+    ko: 엄청 서운하단 말이에여!
+    ja: そんなこと言われると寂しくなっちゃいますぅ！
+  d_nikke_miranda_05_67:
+    speaker: miranda
+    en: I-I won't say it again!
+    ko: 이, 이제 더 이상 안 할 겁니다!
+    ja: も、もうこれからは言いません！
+  d_nikke_miranda_05_68:
+    speaker: poli
+    en: Good to know!
+    ko: 그럼 됐어여!
+    ja: そう来なくっちゃぁ！
+  d_nikke_miranda_05_69:
+    speaker: poli
+    en: Well, it seems like both of you are in good shape.
+    ko: 자, 그럼 두분 다 상태가 좋은 거 같으니.
+    ja: じゃあ、お二人とも大丈夫そうなので、
+  d_nikke_miranda_05_70:
+    speaker: poli
+    en: I'm gonna go. I have some work to finish.
+    ko: "전 먼저 가볼게여. \n마무리해야 할 일이 있거든여."
+    ja: |-
+      私はこの辺で失礼しますねっ。
+      まだ仕事が残ってるんですぅ。
+  d_nikke_miranda_05_71:
+    speaker: "<Self>"
+    en: You've had it really tough.
+    ko: 고생 많았어.
+    ja: お疲れ様
+  d_nikke_miranda_05_72:
+    speaker: poli
+    en: It's nothing. It's been hard on you two too. Have a good rest!
+    ko: "뭘여. 고생은 두 사람이 했져. \n푹쉬세여!"
+    ja: |-
+      何言ってるんですかぁ。
+      それはこっちのセリフですよぉ。
+      ゆっくり休んでくださいねっ！
+  d_nikke_miranda_05_73:
+    speaker: "<Narration>"
+    en: Poli leaves.
+    ko: 폴리가 떠나갔다.
+    ja: ポリが姿を消した
+  d_nikke_miranda_05_74:
+    speaker: miranda
+    en: Uh, uh... I can't believe she knows...
+    ko: 으으… 알고 있었다니….
+    ja: うう…最初から知ってたなんて…
+  d_nikke_miranda_05_75:
+    speaker: miranda
+    en: And it's not just Poli. Everyone knows... I'm shocked.
+    ko: 그것도 폴리뿐만 아니라 모두 알고 있었다니… 충격입니다.
+    ja: しかもポリだけじゃなくてみんな\n知ってたなんて…びっくりです。
+  d_nikke_miranda_05_76:
+    speaker: "<Self>"
+    en: What do we do now?
+    ko: 이제 어떻게 할 거야?
+    ja: これからどうする？
+  d_nikke_miranda_05_77:
+    speaker: miranda
+    en: Hmm?
+    ko: 네?
+    ja: はい？
+  d_nikke_miranda_05_78:
+    speaker: "<Self>"
+    en: Send videos to Mr. 0?
+    ko: 다시 Mr. 0에게 영상을 보낼 거야?
+    ja: またMr.0に動画を送るのか？
+  d_nikke_miranda_05_79:
+    speaker: miranda
+    en: Um... Yes.
+    ko: 그, 그게… 네.
+    ja: そ、それは…はい。
+  d_nikke_miranda_05_80:
+    speaker: miranda
+    en: I want to send some.
+    ko: 보내 볼 생각입니다.
+    ja: 送るつもりです。
+  d_nikke_miranda_05_81:
+    speaker: "<Self>"
+    en: Another option is that you resign from the supervision department.
+    ko: 감찰부를 그만둔다는 선택지도 있어.
+    ja: 監察課を辞めるという選択肢もある
+  d_nikke_miranda_05_82:
+    speaker: miranda
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_nikke_miranda_05_83:
+    speaker: miranda
+    en: Ah, I never thought about that at all.
+    ko: 엇, 그건 생각지도 못했습니다.
+    ja: あっ、その方法がありましたか。
+  d_nikke_miranda_05_84:
+    speaker: miranda
+    en: Um... But...
+    ko: 음… 그런데.
+    ja: う～ん…でも。
+  d_nikke_miranda_05_85:
+    speaker: miranda
+    en: This might seem weird, but I don't want to give up my job there.
+    ko: "이상한 말일지도 모르지만 \n저 감찰부를 그만두고 싶진 않습니다."
+    ja: |-
+      変な風に思われるかもしれませんが
+      私は監察課を辞めるつもりはありません。
+  d_nikke_miranda_05_86:
+    speaker: miranda
+    en: I have my reasons...
+    ko: 그건 나름의 사정이 있긴 한데….
+    ja: これにはそれなりの事情がありまして…
+  d_nikke_miranda_05_87:
+    speaker: miranda
+    en: Then I think I should resign from the A.C.P.U...
+    ko: |-
+      그럼 A.C.P.U.를 그만두는 게 맞지 않을까
+      싶지만….
+    ja: |-
+      だったらA.C.P.U.を辞めるべきなのかも
+      しれませんが…
+  d_nikke_miranda_05_88:
+    speaker: miranda
+    en: But I don't want to give that up either.
+    ko: A.C.P.U.도 그만두고 싶지 않습니다.
+    ja: A.C.P.U.も辞めるつもりはありません。
+  d_nikke_miranda_05_89:
+    speaker: miranda
+    en: I-I know I'm selfish. But I like this job a lot.
+    ko: |-
+      제, 제가 이기적이라는 거 압니다.
+      그래도 이 일이 너무 좋습니다.
+    ja: |-
+      わ、私が自分勝手だってことは
+      よく分かってます。でも私は
+      この仕事が大好きなんです。
+  d_nikke_miranda_05_90:
+    speaker: miranda
+    en: A-although... I always make all kinds of mistakes and I often cause trouble...
+    ko: "무, 물론! 늘 실수투성이에 \n사고도 많이 치긴 하는데…."
+    ja: |-
+      も、もちろん！いつも失敗ばかりで
+      迷惑ばかりかけてますけど…
+  d_nikke_miranda_05_91:
+    speaker: "<Self>"
+    en: But you saved my life. Be confident.
+    ko: 그래도 나를 구해줬잖아. 자신감을 가져.
+    ja: でも私を助けてくれただろう？自信を持て
+  d_nikke_miranda_05_92:
+    speaker: miranda
+    en: I-I didn't!
+    ko: 아, 아닙니다!
+    ja: と、とんでもありません！
+  d_nikke_miranda_05_93:
+    speaker: miranda
+    en: I let you go to the hospital. How does that count?
+    ko: "이렇게 병원 신세를 지게 했는데 \n뭘 구한 거란 말입니까아!"
+    ja: |-
+      入院までさせといて
+      そんなことを言われては困ります！
+  d_nikke_miranda_05_94:
+    speaker: "<Self>"
+    en: Will you keep on protecting me?
+    ko: 앞으로도 계속 지켜줄 거야?
+    ja: これからもずっと守ってくれるか？
+  d_nikke_miranda_05_95:
+    speaker: miranda
+    en: Of course!
+    ko: 물론입니다!
+    ja: もちろんです！
+  d_nikke_miranda_05_96:
+    speaker: miranda
+    en: I'll protect you from harm next time!
+    ko: 다음에는 꼭 다치지 않게 지켜드릴 겁니다!
+    ja: 次は必ず無傷でお守りいたします！
+  d_nikke_miranda_05_97:
+    speaker: "<Self>"
+    en: Will you hold me like last time?
+    ko: 그럼 저번처럼 끌어안아 주는 거야?
+    ja: じゃあこの前みたいに抱きしめてくれるか？
+  d_nikke_miranda_05_98:
+    speaker: miranda
+    en: Huh? Why are you suddenly saying this...!
+    ko: 예? 갑자기 그건 왜…!
+    ja: はい？何でいきなりその話が…！
+  d_nikke_miranda_05_99:
+    speaker: "<Self>"
+    en: You don't want to?
+    ko: 싫어?
+    ja: イヤか？
+  d_nikke_miranda_05_100:
+    speaker: miranda
+    en: It's not that!
+    ko: 아뇨!
+    ja: いいえ！
+  d_nikke_miranda_05_101:
+    speaker: miranda
+    en: I-I do! Yes, I'll hug you with all I've got!
+    ko: |-
+      조, 좋습니다!
+      어, 얼마든지 끌어안아 드리겠습니다!
+    ja: |-
+      よ、喜んで！
+      い、いくらでも抱きしめます！
+  d_nikke_miranda_05_102:
+    speaker: "<Narration>"
+    en: Miranda puts her arms around my head like in the park.
+    ko: 미란다가 공원에서처럼 머리를 끌어안았다.
+    ja: ミランダが公園でやったように頭を抱きかかえた
+  d_nikke_miranda_05_103:
+    speaker: miranda
+    en: D-does this hurt?
+    ko: 이, 이 정도면 아프지 않으십니까?
+    ja: こ、このくらいなら痛くないですか？
+  d_nikke_miranda_05_104:
+    speaker: "<Self>"
+    en: A little.
+    ko: 조금 아픈데.
+    ja: ちょっと痛い
+  d_nikke_miranda_05_105:
+    speaker: miranda
+    en: I-it hurts?!
+    ko: 아, 아픕니까?!
+    ja: あ、痛かったですか！？
+  d_nikke_miranda_05_106:
+    speaker: miranda
+    en: I'll let go then!
+    ko: 그, 그럼 그만하는 게…!
+    ja: で、ではもうやめた方が…！
+  d_nikke_miranda_05_107:
+    speaker: "<Narration>"
+    en: I hug Miranda who wants to leave.
+    ko: 몸을 빼려는 미란다를 끌어안았다.
+    ja: 体を離そうとするミランダを抱き寄せた
+  d_nikke_miranda_05_108:
+    speaker: miranda
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_nikke_miranda_05_109:
+    speaker: miranda
+    en: Well, I-I can't breathe...
+    ko: 이, 이러면 제, 제가 숨을 못 쉴 거 같은데….
+    ja: |-
+      こ、これではわ、
+      私が息ができないと思われますが…
+  d_nikke_miranda_05_110:
+    speaker: "<Self>"
+    en: Just get used to it.
+    ko: 적응하면 괜찮을 거야.
+    ja: 慣れれば大丈夫だ
+  d_nikke_miranda_05_111:
+    speaker: miranda
+    en: How can I get used to this...
+    ko: 이런 게 어떻게 적응이 된다는 겁니까아….
+    ja: |-
+      こんなことに
+      どうやって慣れろっていうんですか…
+  d_nikke_miranda_05_112:
+    speaker: "<Self>"
+    en: Miranda.
+    ko: 미란다.
+    ja: ミランダ
+  d_nikke_miranda_05_113:
+    speaker: miranda
+    en: Hmm?
+    ko: 네?
+    ja: はい？
+  d_nikke_miranda_05_114:
+    speaker: "<Self>"
+    en: Don't worry too much. You're doing well at both jobs.
+    ko: 너무 걱정 마. 두 가지 일 다 잘 할 수 있을 거야.
+    ja: 心配するな、両方とも上手くやれる
+  d_nikke_miranda_05_115:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_05_116:
+    speaker: miranda
+    en: The best thing I did... was to come to you and seek advice, Commander.
+    ko: 그때… 상담하러 지휘관을 찾아가길 잘한 거 같습니다.
+    ja: あの時…相談しに指揮官室に行って正解でした。
+  d_nikke_miranda_05_117:
+    speaker: miranda
+    en: You gave me courage... and trust.
+    ko: 용기를 주셔서… 믿어주셔서.
+    ja: 私に勇気をくださり…私を信じてくださり、
+  d_nikke_miranda_05_118:
+    speaker: miranda
+    en: Thank you, Commander.
+    ko: 감사합니다. 지휘관.
+    ja: 感謝いたします。指揮官。
+  d_nikke_miranda_05_119:
+    speaker: "<Monologue>"
+    en: A few days later, I heard that Miranda sent videos to Mr. 0,
+    ko: 며칠 뒤 미란다가 Mr. 0에게 영상을 보내고.
+    ja: 数日後、ミランダがMr.0に動画を送り、
+  d_nikke_miranda_05_120:
+    speaker: "<Monologue>"
+    en: and she managed to stay in the A.C.P.U.
+    ko: 무사히 A.C.P.U.에 남았다는 소식이 들려왔다.
+    ja: 無事にA.C.P.U.に残れるようになったとの\n知らせを聞いた
+  d_nikke_miranda_05_121:
+    speaker: "<Monologue>"
+    en: Before long, Miranda came to the commander's room again.
+    ko: 그리고 얼마 지나지 않아 미란다가 지휘관 실을 찾아왔다.
+    ja: |-
+      そしてまた何日も経たないうちに、
+      ミランダが指揮官室を訪れた
+  d_nikke_miranda_05_122:
+    speaker: "<Monologue>"
+    en: She had some new matters to consult.
+    ko: 새로운 상담 거리와 함께.
+    ja: 新しい相談をしに
+  d_nikke_miranda_05_123:
+    speaker: miranda
+    en: Commander! Um... Everyone has been so strange lately!
+    ko: 지휘관! 그게… 요즘 사람들이 이상합니다!
+    ja: 指揮官！実は…最近みんなが変なんです！
+  d_nikke_miranda_05_124:
+    speaker: miranda
+    en: When I made mistakes before, they would smile and forget about them.
+    ko: 예전에는 실수를 해도 웃으면서 넘어가 주셨는데.
+    ja: |-
+      昔は失敗しても
+      ただ笑って見逃してくれてたんですが、
+  d_nikke_miranda_05_125:
+    speaker: miranda
+    en: But after the bomb incident, they've suddenly become ill-tempered.
+    ko: 폭탄 사건 이후로 갑자기 화를 내시기 시작했습니다.
+    ja: |-
+      爆弾事件の後からは
+      急に怒るようになったんです。
+  d_nikke_miranda_05_126:
+    speaker: miranda
+    en: They said a newcomer should be full of vigor and even knocked on my back!
+    ko: 신입이 패기가 없다면서 등을 때리기도 합니다!
+    ja: 新人のくせに覇気がないと言いながら、\n背中も叩いてくるんです！
+  d_nikke_miranda_05_127:
+    speaker: miranda
+    en: And strangely enough, I think my workload has increased recently.
+    ko: 그리고 이상하게 요즘 일이 많아진 느낌입니다.
+    ja: それから妙に最近仕事が増えた気がします。
+  d_nikke_miranda_05_128:
+    speaker: miranda
+    en: There are floor cleaning robots, but they asked me to clean anyway, saying
+      that all novices have to do this!
+    ko: "분명히 청소 로봇이 있는데도 \n신입은 이것부터 시작하는 거라며 청소를 하라고 합니다!"
+    ja: |-
+      掃除ロボットがいるのにもかかわらず
+      新人は最初はみんなこれから始まるんだと\n言って、掃除をやらせるんです！
+  d_nikke_miranda_05_129:
+    speaker: miranda
+    en: Commander, do you know why everyone became like this?
+    ko: |-
+      혹시 지휘관은 사람들이
+      왜 이러는지 알 것 같습니까?
+    ja: |-
+      指揮官は何でみんなが
+      そんなことをするのか分かりますか？
+  d_nikke_miranda_05_130:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_nikke_miranda_05_131:
+    speaker: "<Monologue>"
+    en: I hug Miranda without saying a word.
+    ko: 말없이 미란다를 끌어안았다.
+    ja: 何も言わずミランダを抱き寄せた
+  d_nikke_miranda_05_132:
+    speaker: miranda
+    en: C-Commander? Sh-shouldn't I be the one to hold you...?
+    ko: 지, 지휘관? 끄, 끌어안는 건 제가 해드려야 하는데….
+    ja: し、指揮官？そ、それは私がやって差し上げ\nなければいけないのに…
+  d_nikke_miranda_05_133:
+    speaker: "<Monologue>"
+    en: Whether it's good or bad, she seems to have been recognized by everyone as
+      a new police officer.
+    ko: |-
+      좋은 의미로든 나쁜 의미로든 신입 경찰관으로
+      인정받았기 때문인 것 같았지만.
+    ja: |-
+      いい意味でも悪い意味でも新人警察官として
+      認められた証だと思ったが、
+  d_nikke_miranda_05_134:
+    speaker: "<Monologue>"
+    en: But I decide not to say anything.
+    ko: 아무 말도 하지 않기로 했다.
+    ja: 敢えて何も言わないことにした

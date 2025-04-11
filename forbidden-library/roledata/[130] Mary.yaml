@@ -1,0 +1,718 @@
+---
+130_name:
+  en: Mary
+  ko: 메어리
+  ja: メアリー
+c130_description:
+  en: A talented doctor who treats her patients with an unsurpassed solicitude. In
+    Seraphim, she is known as the Angel in White. As for patients who disobey her
+    orders, however...
+  ko: |-
+    실력도 좋고 배려심도 넘치는 유능한 의사.
+    세라핌 스쿼드에서 백의의 천사로 불리고 있지만 말을 안 듣는 환자들에겐….
+  ja: |-
+    実力のある、思いやりにあふれる有能な医師。
+    セラフィム部隊で白衣の天使と呼ばれているが、
+    言うことを聞かない患者には…
+130_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50130:
+  en: Mary's Spare Body
+  ko: 메어리 스페어 바디
+  ja: メアリーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21302_name:
+  en: Nursing
+  ko: 너싱
+  ja: ナーシング
+21302_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Potency of HP restored ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[받는 체력 회복량 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「受けるHP回復量{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21301_name:
+  en: CPR
+  ko: CPR
+  ja: CPR
+21301_description:
+  en: "■ Activates when the last bullet hits the target. Affects {description_value_01}
+    ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Recovers {description_value_02}%
+    of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>"
+  ko: |-
+    ■ 마지막 탄환 명중 시 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、残りのHPの割合が最も低い味方{description_value_01}機に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11303_name:
+  en: Angel in White
+  ko: 백의의 천사
+  ja: 白衣の天使
+11303_description:
+  en: |-
+    ■ Affects all allies.
+     <color=#00AEFF>Recovers {description_value_04}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+    ■ Activates when above {description_value_01}% HP. Affects all allies.
+    <color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_04}% 회복]</color>
+    ■ 자신의 체력이 {description_value_01}% 이상이라면 아군 전체에게
+    <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_04}％回復」</color>
+    ■自分のHPが{description_value_01}％以上なら味方全体に
+    <color=#00AEFF>「防御力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+131_name:
+  en: Pepper
+  ko: 페퍼
+  ja: ペッパー
+132_name:
+  en: 'Mary: Bay Goddess'
+  ko: '메어리 : 베이 갓데스'
+  ja: メアリー：ベイゴッデス
+c130_Lobby_Touch_1:
+  en: If you're ever feeling sick, give me a call.
+  ko: 아플 땐, 꼭 말씀해 주셔야 해요~
+  ja: 治療が必要な時は、我慢しないでちゃんと言ってくださいね～
+c130_Lobby_Touch_2:
+  en: Anything I can help you with?
+  ko: 무엇을 도와드릴까요?
+  ja: 何をお手伝いいたしましょうか？
+c130_Lobby_Touch_3:
+  en: Let me treat you. It won't hurt a bit.
+  ko: 후후, 아프지 않게 치료해 드릴게요~
+  ja: ふふ、なるべく痛くないように治療しますね～
+c130_Lobby_Touch_Love_1:
+  en: Don't even think about feigning illness. You won't like me when I'm mad.
+  ko: 꾀병을 부리면~ 블랙 데빌 메어리가 혼내줄 거예요~
+  ja: |-
+    仮病を使ったら～
+    ブラックデビル・メアリーがお仕置きしますよ～
+c130_Lobby_Touch_Love_2:
+  en: |-
+    Um... I'm not entirely sure how things got to this point,
+    but thanks for reliving the past with me, painful as it was.
+  ko: |-
+    음~ 아직도 왜 그랬는지 이해는 못 하겠지만
+    제 아픈 과거를 함께 감당해 줘서 고마워요.
+  ja: |-
+    う～ん、あの時は何が何だかよく分かりませんでしたが
+    私の辛い過去を共有してくれて嬉しかったです。
+c130_Lobby_Touch_Love_3:
+  en: "Commander, please take care of yourself. \nIf you get sick, it would break
+    my heart."
+  ko: |-
+    지휘관~ 몸을 좀 더 소중히 해주세요.
+    지휘관이 아프면 제 마음이 찢어질 것 같다고요~
+  ja: |-
+    指揮官～もう少し体を労わってください。
+    指揮官が苦しむ姿を見ると、私の心は張り裂けそうになります～
+c130_Lobby_Stay_1:
+  en: "What a relaxing day. \nIt's nice not to have any new patients."
+  ko: |-
+    오늘은 여유 있네요~
+    후후, 환자가 없다는 건 좋은 일이죠.
+  ja: |-
+    今日は時間がありますね～
+    ふふ、患者がいないのは良いことです。
+c130_Lobby_Stay_Love_1:
+  en: |-
+    Commander? It's time for your physical, where are you?
+    You're making my job very difficult by doing this, you know...
+  ko: |-
+    지휘관~? 진료를 봐야 하는데 어디에 가신 거죠?
+    매번 이렇게 도망가시면 아~주 곤란한데요….
+  ja: |-
+    指揮官～？
+    診療しないといけないのに、どこに行ったんでしょう？
+    毎回これでは困ります…
+c130_Outpost_Touch_1:
+  en: Are you feeling sick?
+  ko: 어디 아프신데라도 있으신가요?
+  ja: どこか具合でも悪いのですか？
+c130_Outpost_Touch_2:
+  en: The hospital is just ahead. Feel free to stop by and see me.
+  ko: 후후, 요 앞이 병원이니까 언제든 찾아오세요~
+  ja: |-
+    ふふ、すぐそこが病院です。
+    いつでも遊びに来てください～
+c130_Outpost_Touch_3:
+  en: The Outpost is such a peaceful place.
+  ko: 전초기지는 좋네요~ 평화롭고~
+  ja: 前哨基地は平和でいいですね～
+c130_Gacha_Get_1:
+  en: TLC for the sick, painful shots for the malingers!
+  ko: 아픈 환자에게는 치료를~ 꾀병 환자에겐 아픈 주사를~
+  ja: 本当の患者さんには治療を～仮病の患者さんには痛い注射を～
+c130_Reinforce_1:
+  en: Now I can take care of more patients.
+  ko: 더 많은 환자분들을 돌볼 수 있겠네요!
+  ja: もっとたくさんの患者さんのお世話ができそうです！
+c130_Reinforce_2:
+  en: Let's increase the dosage, shall we?
+  ko: 좀 더 강력한 주사의 맛을 보여드릴게요~
+  ja: もっと強力な注射を味あわせてあげますね～
+c130_Reinforce_3:
+  en: Thank you for all that you've done.
+  ko: 챙겨주셔서 감사해요~
+  ja: お気遣いありがとうございます～
+c130_Gift_1:
+  en: Are these for me?
+  ko: 이걸 전부 주시는 건가요?
+  ja: これ全部くださるのですか？
+c130_Gift_2:
+  en: A gift for me? I'm so happy!
+  ko: 어머, 세상에 선물이라니! 정말 기뻐요.
+  ja: まあ、嬉しい。プレゼントだなんて！すごく嬉しいです。
+c130_Gift_3:
+  en: Thank you, really.
+  ko: 정말 감사드려요~
+  ja: 本当にありがとうございます～
+c130_Attractive_Up_1:
+  en: Would you like your treatment to be more... personalized?
+  ko: 지휘관이랑은 조금 더 긴밀한 진료를 보고 싶어지네요~
+  ja: 指揮官には、もう少しちゃんとした診療をしてあげたくなりますね～
+c130_Attractive_Up_2:
+  en: |-
+    Can you lay on the bed~?
+    I have a shot I prepared especially for you~
+  ko: |-
+    침대에 누워보시겠어요~?
+    지휘관만을 위한 특제 주사랍니다~
+  ja: |-
+    ベッドに横になってくれますか～？
+    指揮官のためだけに準備した特製のお注射ですよ～
+c130_Attractive_Up_3:
+  en: I feel that we're getting closer and closer, I'm so happy!
+  ko: 지휘관과 점점 가까워지는 것 같아서 좋네요~
+  ja: 指揮官とどんどん仲良くなっている気がして嬉しいですね～
+c130_Party_Deploy_1:
+  en: Need my help?
+  ko: 제가 필요하신가요?
+  ja: 私が必要でしょうか？
+c130_Field_Touch_1:
+  en: Your instructions please.
+  ko: 지시하실게 있나요?
+  ja: 何かご指示はございますか？
+c130_Field_Go_1:
+  en: I'll go over and check.
+  ko: 저쪽으로 가볼까요?
+  ja: あちらに行ってみましょうか？
+c130_Battle_Enter_1:
+  en: Ready or not, here I come!
+  ko: 이런, 나와버렸네요~!
+  ja: まあ、出てきてしまいましたね～！
+c130_Battle_Ready_1:
+  en: Wowee, there sure are a lot of them.
+  ko: 와~ 많기도 해라.
+  ja: わあ～すごいたくさん。
+c130_Battle_Ready_2:
+  en: These guys are just like germs.
+  ko: 병균처럼 위험한 분들이네요~
+  ja: バイ菌みたいに危険な方たちですね～
+c130_Battle_Ready_3:
+  en: I better get started with the treatment.
+  ko: 치료하고 가보실까요?
+  ja: 治療してから行きましょうか？
+c130_Reload_1:
+  en: That was close.
+  ko: 후후, 위험해라~
+  ja: ふふ、危ない～
+c130_Reload_2:
+  en: Reloading.
+  ko: 재장전~
+  ja: リロード～
+c130_Reload_3:
+  en: I'll be ready in a jiffy.
+  ko: 탄을 채우고~
+  ja: 弾を入れて～
+c130_Ult_Skill_Ready_1:
+  en: Call me anytime!
+  ko: 언제든 불러주세요.
+  ja: いつでもお呼びください。
+c130_Ult_Skill_1:
+  en: Time for an injection! Still hurt?
+  ko: 주사 맞을 시간이에요. 이제 안 아프시죠?
+  ja: |-
+    はいはい～注射の時間ですよ。
+    もう痛くないですね？
+c130_FullBurst_1:
+  en: Get lost, germs!
+  ko: 병균아 물러가라~!
+  ja: バイ菌よ、とんでいけ～！
+c130_Kill_Monster_1:
+  en: Hasta la vista!
+  ko: 안녕히 가세요~
+  ja: さようなら～
+c130_Kill_Monster_2:
+  en: Gotta disinfect those germs!
+  ko: 병의 원인을 퇴치!
+  ja: 病気の原因を退治します！
+c130_Kill_Monster_3:
+  en: Heehee.
+  ko: 후후후.
+  ja: ふふふ。
+c130_Damage_1:
+  en: Urgh!
+  ko: 윽!
+  ja: うっ！
+c130_Damage_2:
+  en: "*Gasp*"
+  ko: 허억!
+  ja: うっ！
+c130_Damage_3:
+  en: Argh!
+  ko: 아악!
+  ja: ああっ！
+c130_Die_1:
+  en: I think... this is as far as I can go...
+  ko: 전… 여기까지인 거 같네요….
+  ja: 私は…ここまでのようです…
+c130_Win_1:
+  en: An apple a day keeps the Raptures away!
+  ko: 후후, 이겼네요. 지휘관은 어디 다치신 곳 없나요?
+  ja: ふふ、勝ちましたね。指揮官はおケガなどございませんか？
+c130_01_Lobby_Touch_1:
+  en: |-
+    Do you think younger patients will get a kick out of this bunny outfit?
+    Hehe, I'm only joking.
+  ko: |-
+    귀여운 토끼 옷이니까, 어린이 환자 분들도 좋아하시겠죠?
+    후후, 농담이에요.
+  ja: |-
+    かわいいウサギの格好ですから、
+    子どもの患者さんたちも喜んでくれますよね？
+    ふふ、冗談です。
+c130_01_Lobby_Touch_2:
+  en: If I'm a rabbit, does that make you a tortoise?
+  ko: 제가 토끼면~ 지휘관은 거북이인가요~?
+  ja: |-
+    私がウサギなら～
+    指揮官はカメさんですか～？
+c130_01_Lobby_Touch_3:
+  en: Don't be fooled by my appearance. I'm still a doctor who deserves respect.
+  ko: 후후, 이래 봬도 어엿한 의사랍니다~
+  ja: |-
+    ふふ。こう見えても、
+    立派なお医者さんなんですよ～
+c130_01_Lobby_Touch_Love_1:
+  en: |-
+    Hehe, it seems that you like this outfit.
+    In that case, I'll wear it whenever you come for a check-up.
+  ko: |-
+    후후, 이 옷을 마음에 들어 하시는 것 같으니
+    지휘관 검진 날마다 꼭 입고 와야겠네요.
+  ja: |-
+    ふふ、この格好がお気に入りみたいですから、
+    指揮官の診察がある日は必ず着ますね。
+c130_01_Lobby_Touch_Love_2:
+  en: |-
+    I didn't know you were such a fan of animals.
+    Should I wear a cat or dog outfit next time?
+  ko: |-
+    지휘관이 동물을 좋아하시는 줄은 몰랐네요.
+    다음은 고양이나~ 강아지로도 입어볼까요? 후후.
+  ja: |-
+    指揮官が動物好きだとは思いませんでした。
+    次はネコやイヌになってみましょうか～？ふふ。
+c130_01_Lobby_Touch_Love_3:
+  en: |-
+    If you're a good boy and lie down on the bed,
+    I'll make sure this won't hurt.
+  ko: |-
+    제 말을 잘 들으시면~ 안아프게 해드릴게요.
+    그러니까 침대에 한 번 누워보시겠어요~?
+  ja: |-
+    私の言うことをちゃーんと聞けば、痛くしませんよ。
+    ですから、ベッドに横になってくれますか～？
+c130_01_Lobby_Stay_1:
+  en: |-
+    Is it okay if I head back?
+    I have a lot of patients waiting for me.
+  ko: |-
+    지휘관~ 환자분들이 기다리고 있어요.
+    이만 들어가 봐도 될까요~?
+  ja: |-
+    指揮官～患者さんたちが待っています。
+    もう戻ってもいいですか～？
+c130_01_Lobby_Stay_Love_1:
+  en: |-
+    There's no point in trying to run from me, hehe!
+    Rabbits are very fast runners.
+  ko: |-
+    후후, 도망가도 소용없어요, 지휘관~
+    토끼는 달리기가 빠르답니다~?
+  ja: |-
+    ふふ。逃げても無駄ですよ、指揮官～
+    ウサギは足が速いですからね～
+c130_01_Outpost_Touch_1:
+  en: If you find yourself in need of a bunny doctor, give me a shout!
+  ko: 토끼 의사가 필요하시면 언제든 말씀해 주세요~
+  ja: ウサギのお医者さんが 必要でしたら、 いつでも言ってくださいね～
+c130_01_Outpost_Touch_2:
+  en: Hop, hop!
+  ko: 깡충~ 깡충~
+  ja: ぴょん、ぴょ～ん。
+c130_01_Outpost_Touch_3:
+  en: Did you call? Are you feeling a bit under the weather?
+  ko: 어머, 부르셨어요? 혹시 어디 아프신가요?
+  ja: あら、呼びました？ どこか具合が 悪いのですか？
+c130_01_Gacha_Get_1:
+  en: |-
+    How do I look?
+    Pretty adorable, right? Hehe!
+  ko: |-
+    토끼 의사는 어떠신가요?
+    귀엽고 상냥하답니다~ 후후.
+  ja: |-
+    ウサギのお医者さんはいかがですか？
+    かわいくて、優しいお医者さんですよ～ふふ。
+c130_01_Reinforce_1:
+  en: |-
+    Thanks to you,
+    I think I've become stronger, hehe.
+  ko: 덕분에 튼튼해지겠어요~ 후후.
+  ja: おかげで力がつきそうですね～ふふ。
+c130_01_Reinforce_2:
+  en: I ought to examine you more thoroughly.
+  ko: 더 꼼꼼하게 진료를 봐드릴게요~
+  ja: 丁寧に診察してあげますね～
+c130_01_Reinforce_3:
+  en: |-
+    I'll take this as encouragement to work even harder.
+    Now, when should we book you for your next check up?
+  ko: |-
+    열심히 하라는 의미로 알게요~
+    그래서, 다음 검진은 언제로 잡을까요~?
+  ja: |-
+    応援してくださるんですね～
+    さて、次の診察はいつにしましょうか～？
+c130_01_Gift_1:
+  en: |-
+    Thank you, Commander!
+    I'll be sure to give you a more thorough examination next time to repay you.
+  ko: |-
+    어머, 감사해요 지휘관~
+    선물을 받았으니 더 꼼꼼하게 진료를 봐드릴게요~
+  ja: |-
+    まあ、ありがとうございます。指揮官～
+    プレゼントをいただいたので、もっと頑張りますね～
+c130_01_Gift_2:
+  en: You don't happen to have any carrots on hand, do you? Hehe.
+  ko: 후후, 당근 선물은 없나요~?
+  ja: ふふ、ニンジンのプレゼントはありませんか～？
+c130_01_Gift_3:
+  en: I'm touched! This makes me so happy!
+  ko: 감동이에요~ 정말 기뻐요.
+  ja: 感動しました～すごく嬉しいです。
+c130_01_Attractive_Up_1:
+  en: |-
+    Whenever I look at you, my heart starts to race.
+    You don't think I have heart problems, do you? Hehe.
+  ko: |-
+    지휘관을 보면 가슴이 두근두근 하네요~
+    부정맥이라도 온 걸까요~? 후후.
+  ja: |-
+    指揮官を見ると、ドキドキします～
+    不整脈でしょうか～？ふふ。
+c130_01_Attractive_Up_2:
+  en: |-
+    I know I'm supposed to treat all my patients fairly,
+    but with you around, Commander, it's hard to keep that up, hehe.
+  ko: |-
+    환자는 모두 공평하게 대해야 하지만~
+    지휘관은 그러기가 쉽지 않네요~ 후후.
+  ja: |-
+    患者さんには平等に接しないといけませんが～
+    指揮官相手だと難しいですね～ふふ。
+c130_01_Attractive_Up_3:
+  en: |-
+    Hmm... this is most troubling.
+    I keep imagining all sorts of strange things.
+  ko: |-
+    음~ 곤란하네요.
+    자꾸 이상한 상상을 하게 되어서요.
+  ja: |-
+    う～ん、困りました。
+    つい、おかしな想像をしてしまうんです。
+c130_01_Party_Deploy_1:
+  en: Here comes the bunny doctor!
+  ko: 토끼 의사, 준비 됐어요~
+  ja: ウサギドクター、準備できました～
+c130_01_Field_Touch_1:
+  en: You called?
+  ko: 부르셨나요?
+  ja: お呼びですか？
+c130_01_Field_Go_1:
+  en: Should I hop over there?
+  ko: 네~ 깡충깡충 가볼까요~?
+  ja: は～い。ぴょんぴょん行きましょうか～？
+c130_01_Battle_Enter_1:
+  en: That's quite enough from you, you naughty germs!
+  ko: 어머, 못된 병균들이!
+  ja: あら、悪いバイ菌さんが！
+c130_01_Battle_Ready_1:
+  en: This injection will be particularly painful!
+  ko: 토끼 주사는 더 강력하답니다~?
+  ja: ウサギのお注射は強力ですよ～？
+c130_01_Battle_Ready_2:
+  en: I'll treat each and every one of you.
+  ko: 모두 깔끔하게 치료해 드릴게요~
+  ja: ぜーんぶ治療してあげますね～
+c130_01_Battle_Ready_3:
+  en: Stay behind me, Commander.
+  ko: 지휘관~ 제 뒤에 계셔주세요~
+  ja: 指揮官～私の後ろにいてくださいね～
+c130_01_Reload_1:
+  en: Hehe, how terrifying!
+  ko: 후후, 무서워라~
+  ja: ふふ、怖いですね～
+c130_01_Reload_2:
+  en: Just a moment.
+  ko: 잠시만 기다려주세요~
+  ja: 少々お待ちくださいね～
+c130_01_Reload_3:
+  en: One... two...
+  ko: 하나~ 둘~
+  ja: いち、に～
+c130_01_Ult_Skill_Ready_1:
+  en: Ready for the next physical!
+  ko: 진찰 준비 끝~
+  ja: 診察の準備ができました～
+c130_01_Ult_Skill_1:
+  en: Here comes the needle!
+  ko: 토끼 주사를 놔드릴게요~ 따끔!
+  ja: ウサギのお注射で～す。チクッ！
+c130_01_FullBurst_1:
+  en: This will make all your pain go away.
+  ko: 아픈 거 다 날아가라~
+  ja: 痛いの痛いの、飛んでけ～
+c130_01_Kill_Monster_1:
+  en: Germs, be gone!
+  ko: 병균, 퇴치~!
+  ja: バイ菌さん、さようなら～！
+c130_01_Kill_Monster_2:
+  en: Hehe, hehehe!
+  ko: 후후~ 후후후~
+  ja: ふふ～ふふふ～
+c130_01_Kill_Monster_3:
+  en: Next patient!
+  ko: 다음 환자분~
+  ja: 次の方～
+c130_01_Damage_1:
+  en: Ugh...!
+  ko: 읏…!
+  ja: うっ…！
+c130_01_Damage_2:
+  en: Ow!
+  ko: 흐읏!
+  ja: ふぅっ…！
+c130_01_Damage_3:
+  en: Argh!
+  ko: 아악…!
+  ja: ああっ…！
+c130_01_Die_1:
+  en: |-
+    Oh dear...
+    I'll have to leave the rest to you.
+  ko: 이런... 뒤를 맡길게요.
+  ja: そんな…あとはお願いします…
+c130_01_Win_1:
+  en: All done! Next patient, please.
+  ko: 진료 끝~ 다음 환자는 어디인가요~?
+  ja: 診察はおしまいです～次の患者さんはどこですか～？
+130_cv_ja:
+  en: 'CV: Haruka Tomatsu'
+  ko: 'CV : 토마츠 하루카'
+  ja: CV：戸松遥
+130_cv_ko:
+  en: 'CV: Lee Da-eun'
+  ko: 'CV : 이다은'
+  ja: CV：イ・ダウン
+130_cv_en:
+  en: 'CV: Amber Lee Connors'
+  ko: 'CV : 앰버 리 코너스'
+  ja: CV：Amber Lee Connors

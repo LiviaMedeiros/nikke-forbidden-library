@@ -1,0 +1,6385 @@
+---
+d_ex_maidcafe_01:
+  d_ex_maidcafe_01_1:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_01_2:
+    speaker: emma
+    en: Hey, Commander.
+    ko: 후후. 지휘관 왔어?
+    ja: ふふ。指揮官、いらっしゃい。
+  d_ex_maidcafe_01_3:
+    speaker: cocoa
+    en: Master! I'm glad you're here.
+    ko: 주인! 잘 와써.
+    ja: 主人！待ってた。
+  d_ex_maidcafe_01_4:
+    speaker: cocoa
+    en: Welcome to my cooking class.
+    ko: 코코아 요리 교실에 온 걸 환영해.
+    ja: ココアの料理教室へようこそ。
+  d_ex_maidcafe_01_5:
+    speaker: "<Self>"
+    en: Cooking class?
+    ko: 요리 교실?
+    ja: 料理教室？
+  d_ex_maidcafe_01_6:
+    speaker: cocoa
+    en: That's right! I agreed to show Emma the ropes.
+    ko: "응! 코코아. \n엠마한테 요리 알려주기로 해써."
+    ja: |-
+      うん！ココア、
+      エマに料理を教えることにした。
+  d_ex_maidcafe_01_7:
+    speaker: emma
+    en: Hopefully she can show me a few things.
+    ko: 후후. 맞아~
+    ja: ふふ、そうなの～
+  d_ex_maidcafe_01_8:
+    speaker: emma
+    en: I've never thought of it, but I was wanting to branch out with my recipes
+      recently.
+    ko: |-
+      요즘 새로운 요리를 도전해보고 싶었는데.
+      엄두가 잘 안 났거든~
+    ja: |-
+      最近、新しい料理に挑戦してみたかったんだけど
+      なかなかいいアイデアが浮かばなくて～
+  d_ex_maidcafe_01_9:
+    speaker: emma
+    en: Cocoa was gracious enough to offer to teach me.
+    ko: 마침 코코아가 알려준다지 뭐야.
+    ja: ちょうどココアが教えてくれるっていうから。
+  d_ex_maidcafe_01_10:
+    speaker: emma
+    en: We invited you because we thought you'd make the perfect taste tester.
+    ko: 시식은 지휘관이 해주면 좋을 것 같아서 불렀어~
+    ja: 指揮官には試食をお願いしたくて呼んだの～
+  d_ex_maidcafe_01_11:
+    speaker: cocoa
+    en: Is there anything you want to eat in particular, Master?
+    ko: 주인. 먹고 싶은 거 이써?
+    ja: 主人。食べたいものある？
+  d_ex_maidcafe_01_12:
+    speaker: cocoa
+    en: We'll try and make it for you.
+    ko: 코코아랑 엠마가 만드러 주께.
+    ja: ココアとエマが作ってあげる。
+  d_ex_maidcafe_01_13:
+    speaker: "<Monologue>"
+    en: It feels like I have to tread cautiously as far as it concerns my recommendations.
+    ko: "…잘 말해야 할 것 같다."
+    ja: "…よく考えた方がよさそうだ"
+  d_ex_maidcafe_01_14:
+    speaker: "<Choice>"
+    en: Ramen.
+    ko: 라면?
+    ja: ラーメン？
+  d_ex_maidcafe_01_15:
+    speaker: "<Choice>"
+    en: Salad.
+    ko: 샐러드?
+    ja: サラダ？
+  d_ex_maidcafe_01_16:
+    speaker: emma
+    en: No way, that is too easy!
+    ko: 어머. 그건 너무 쉬운 거 아니야?
+    ja: あら。それは簡単すぎないかしら？
+  d_ex_maidcafe_01_17:
+    speaker: emma
+    en: This is a cooking class, after all.
+    ko: 명색이 요리 교실인데~
+    ja: 一応、料理教室なのよ～
+  d_ex_maidcafe_01_18:
+    speaker: cocoa
+    en: Exactly, for a skilled maid, that's a piece of c... a piece of what?
+    ko: |-
+      마자.
+      그건 프로메이드에게 식은… 식은….
+    ja: |-
+      そうだよ。
+      それはプロメイドには…えっと…
+  d_ex_maidcafe_01_19:
+    speaker: emma
+    en: A piece of cake.
+    ko: 죽 먹기야~
+    ja: 朝飯前よ～
+  d_ex_maidcafe_01_20:
+    speaker: "<Self>"
+    en: How about fried rice then?
+    ko: "…그럼 볶음밥?"
+    ja: "…じゃあ、チャーハン？"
+  d_ex_maidcafe_01_21:
+    speaker: cocoa
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_maidcafe_01_22:
+    speaker: cocoa
+    en: Fried rice is one of my favorites!
+    ko: 코코아. 볶음밥 제일 잘해!
+    ja: ココア、チャーハン一番得意！
+  d_ex_maidcafe_01_23:
+    speaker: emma
+    en: That's a great suggestion.
+    ko: 후후. 좋은 의견이네~
+    ja: ふふ、いいアイデアだわ～
+  d_ex_maidcafe_01_24:
+    speaker: emma
+    en: I've never made fried rice before.
+    ko: 나도 볶음밥은 한 번도 만들어 본 적 없거든~
+    ja: 私もチャーハンは、\n一度も作ったことがないのよ～
+  d_ex_maidcafe_01_25:
+    speaker: cocoa
+    en: In fact, I use it in one of my specialty dishes, Cocoa's Fried Rice of Love.
+    ko: |-
+      코코아가 제일 잘하는 건.
+      사랑의 하트 볶음밥이야.
+    ja: |-
+      ココアが一番得意なのは、
+      愛のハートチャーハンだよ。
+  d_ex_maidcafe_01_26:
+    speaker: emma
+    en: Really? Can you teach me how to make it?
+    ko: |-
+      정말~?
+      그럼 어떻게 만드는지 알려줄래?
+    ja: |-
+      そうなの～？
+      じゃあ作り方を教えてくれる？
+  d_ex_maidcafe_01_27:
+    speaker: cocoa
+    en: Sure I can! First things first, you need to wash your hands.
+    ko: 응! 먼저 손을 씻어야대!
+    ja: うん！まずは手を洗わなきゃ。
+  d_ex_maidcafe_01_28:
+    speaker: cocoa
+    en: Good cooking always starts with good hygiene.
+    ko: 모든 요리는 청결에서부터 시작이니까.
+    ja: どんな料理も清潔は大事。
+  d_ex_maidcafe_01_29:
+    speaker: cocoa
+    en: A lot of oil goes into making this fried rice, which is why it tastes so good.
+    ko: 그리고 볶음밥엔 기름이 많이 들어가야 마시써.
+    ja: それから、チャーハンには油をたくさん入れると\nおいしいよ。
+  d_ex_maidcafe_01_30:
+    speaker: cocoa
+    en: Then mix some eggs in it...
+    ko: 거기에 계란을 풀어주고….
+    ja: そこに卵を溶いて…
+  d_ex_maidcafe_01_31:
+    speaker: emma
+    en: I was thinking...
+    ko: 아~ 음.
+    ja: えっと～\nそれなら…
+  d_ex_maidcafe_01_32:
+    speaker: emma
+    en: How about putting in some butter?
+    ko: 여기에 버터도 넣어보는 건 어떨까?
+    ja: バターを入れてみるのはどう～？
+  d_ex_maidcafe_01_33:
+    speaker: emma
+    en: It's bound to taste better with a few more ingredients added.
+    ko: 재료가 많이 들어갈수록 더 맛있는 법이니까~
+    ja: 材料が多いほど、おいしくなるでしょ～？
+  d_ex_maidcafe_01_34:
+    speaker: cocoa
+    en: Butter-fried rice?
+    ko: 헛! 사랑의 버터 볶음밥?
+    ja: はっ！愛のバターチャーハン？
+  d_ex_maidcafe_01_35:
+    speaker: cocoa
+    en: I can't say I've ever put butter into fried rice before.
+    ko: 하지만 코코아, 그건 볶음밥에 한 번도 넣어본 적 업써.
+    ja: でもココア、\nバターはチャーハンに入れたことないよ。
+  d_ex_maidcafe_01_36:
+    speaker: emma
+    en: Well, butter is delicious, so I'm sure it'll go great with it.
+    ko: |-
+      분명 맛있을 거야~
+      버터는 맛있는거니까.
+    ja: |-
+      きっとおいしいはずよ～
+      バターがおいしいから。
+  d_ex_maidcafe_01_37:
+    speaker: cocoa
+    en: Hmm...
+    ko: 음….
+    ja: うーん…
+  d_ex_maidcafe_01_38:
+    speaker: cocoa
+    en: Okay, let's give it a whirl!
+    ko: 알게써! 도전!
+    ja: 分かった！挑戦！
+  d_ex_maidcafe_01_39:
+    speaker: cocoa
+    en: Life is all about trying new things.
+    ko: 인생은 도전의 연속이니까.
+    ja: 人生は挑戦の連続だから。
+  d_ex_maidcafe_01_40:
+    speaker: emma
+    en: Words to live by!
+    ko: 와~ 너무 멋있는 말이다~
+    ja: わ～\n素敵な言葉ね～
+  d_ex_maidcafe_01_41:
+    speaker: cocoa
+    en: I first heard it from Ade.
+    ko: 예전에 에이드가 알려줘써.
+    ja: 前にエードが教えてくれた。
+  d_ex_maidcafe_01_42:
+    speaker: emma
+    en: Well, since we're adding butter, then how about some tomato?
+    ko: 버터 넣는 김에 토마토도 넣을까?
+    ja: バターを入れるついでに、トマトも入れてみる？
+  d_ex_maidcafe_01_43:
+    speaker: emma
+    en: I read somewhere that egg and tomato complement each other perfectly.
+    ko: 계란이랑 토마토가 만나면 맛있다는 걸 어디선가 봤거든~
+    ja: 卵とトマトは相性がいいって\nどこかで見たわ～
+  d_ex_maidcafe_01_44:
+    speaker: cocoa
+    en: Sure! Tomatoes aren't too far off from ketchup, so I'm sure it'll be good.
+    ko: |-
+      음! 조아!
+      케첩도 토마토로 만드는 거니까 마싯을 거야!
+    ja: |-
+      うーん…分かった！
+      ケチャップもトマトで作るから、おいしいはず！
+  d_ex_maidcafe_01_45:
+    speaker: emma
+    en: And then we can add...
+    ko: 그리고….
+    ja: それから…
+  d_ex_maidcafe_01_46:
+    speaker: "<Monologue>"
+    en: Before long, it seems to turn into Emma's cooking class.
+    ko: "…어느새 엠마의 요리 교실이 되어버렸다."
+    ja: "…いつの間にかエマの料理教室になってしまった"
+  d_ex_maidcafe_01_47:
+    speaker: "<Narration>"
+    en: A couple of hours later.
+    ko: 몇 시간 후.
+    ja: 数時間後
+  d_ex_maidcafe_01_48:
+    speaker: "<Narration>"
+    en: "*Splat* *Sppplat*"
+    ko: 뿌직… 뿌지직….
+    ja: ピュッ…ピュッ…
+  d_ex_maidcafe_01_49:
+    speaker: cocoa
+    en: Then you simply squirt the ketchup like this...
+    ko: 이러케 케첩을 뿌려주면….
+    ja: こーやってケチャップをかけたら…
+  d_ex_maidcafe_01_50:
+    speaker: cocoa
+    en: and wah-lah!
+    ko: 완성!
+    ja: 完成！
+  d_ex_maidcafe_01_51:
+    speaker: emma
+    en: Wow!
+    ko: 와아~ 짝짝짝.
+    ja: わあ～\nパチパチパチ。
+  d_ex_maidcafe_01_52:
+    speaker: emma
+    en: It looks wonderful.
+    ko: 엄청 맛있어 보이는걸~
+    ja: とってもおいしそうだわ～
+  d_ex_maidcafe_01_53:
+    speaker: cocoa
+    en: "*Sniff sniff* It definitely smells good, I'll say that much."
+    ko: 킁킁. 일단 향은 합격이야.
+    ja: クンクン。とりあえず香りは合格。
+  d_ex_maidcafe_01_54:
+    speaker: "<Self>"
+    en: It certainly took long enough.
+    ko: "…오래 걸렸네."
+    ja: "…ずいぶん時間がかかったな"
+  d_ex_maidcafe_01_55:
+    speaker: "<Monologue>"
+    en: The fried rice that Emma and Cocoa have produced is a hodgepodge of various
+      Splendamin flavors.
+    ko: |-
+      엠마와 코코아가 내놓은 볶음밥엔.
+      여러 음식 퍼펙트가 한데 뒤엉켜 있었다.
+    ja: |-
+      エマとココアが持ってきたチャーハンには
+      様々な食べ物のパーフェクトが混ざり合っていた
+  d_ex_maidcafe_01_56:
+    speaker: emma
+    en: And now, for the official taste testing.
+    ko: 그럼 이제 지휘관이 시식해줄래?
+    ja: それじゃあ、指揮官が試食してくれる？
+  d_ex_maidcafe_01_57:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_01_58:
+    speaker: "<Choice>"
+    en: Eat it.
+    ko: 먹는다.
+    ja: 食べる
+  d_ex_maidcafe_01_59:
+    speaker: "<Choice>"
+    en: Don't eat it.
+    ko: 먹지 않는다.
+    ja: 食べない
+  d_ex_maidcafe_01_60:
+    speaker: "<Monologue>"
+    en: Cocoa and Emma are staring at me intently.
+    ko: 코코아와 엠마가 빤히 쳐다보고 있다.
+    ja: ココアとエマがじっと見つめている
+  d_ex_maidcafe_01_61:
+    speaker: "<Monologue>"
+    en: I should probably eat it.
+    ko: "…먹어야 할 것 같다."
+    ja: "…食べるしかなさそうだ"
+  d_ex_maidcafe_01_62:
+    speaker: "<Self>"
+    en: Well, down the hatch...
+    ko: "…냠."
+    ja: "…ぱくっ"
+  d_ex_maidcafe_01_63:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_maidcafe_01_64:
+    speaker: cocoa
+    en: How is it? Is it good?
+    ko: 어때? 마시써?
+    ja: どう？おいしい？
+  d_ex_maidcafe_01_65:
+    speaker: emma
+    en: Considering how many delicious ingredients are in it, I can't see how it wouldn't
+      taste good.
+    ko: 맛있는 거만 잔뜩 들어갔으니까 분명 맛있을 거야~
+    ja: おいしいものがたっぷり入ってるから\nきっとおいしいはずよ～
+  d_ex_maidcafe_01_66:
+    speaker: cocoa
+    en: Exactly! I even added my own specially-made ketchup.
+    ko: 마자! 이번엔 코코아 특제 케첩도 들어갔으니까.
+    ja: そうだよ！\n今回はココア特製ケチャップも入ってるから。
+  d_ex_maidcafe_01_67:
+    speaker: cocoa
+    en: I can't imagine how it'd possibly taste bad.
+    ko: 맛이 없는 게 이상해.
+    ja: マズい方がおかしいよ。
+  d_ex_maidcafe_01_68:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_01_69:
+    speaker: "<Monologue>"
+    en: My tongue hurts more and more with every bite. My whole body is beginning
+      to ache.
+    ko: |-
+      먹으면 먹을수록 혓바닥도 아프고.
+      온몸이 아픈 기분이다.
+    ja: |-
+      食べれば食べるほど舌が痛くなり、
+      全身に痛みが広がるようだ
+  d_ex_maidcafe_01_70:
+    speaker: "<Monologue>"
+    en: "... But I feel obliged to eat it all."
+    ko: "…하지만 다 먹어야 할 것 같다."
+    ja: "…しかし、完食しなければ"
+  d_ex_maidcafe_01_71:
+    speaker: "<Narration>"
+    en: "*Chomp chomp*"
+    ko: 와구와구-!
+    ja: ガツガツ！
+  d_ex_maidcafe_01_72:
+    speaker: cocoa
+    en: Whoa, you must really enjoy it, Master.
+    ko: |-
+      !!
+      주인, 마싯나바!
+    ja: |-
+      ！！
+      主人、おいしいんだね！
+  d_ex_maidcafe_01_73:
+    speaker: emma
+    en: Save some for us!
+    ko: |-
+      후후. 그러게.
+      우리가 먹을 건 없을 것 같네~
+    ja: |-
+      ふふ。そうね。
+      私たちの分は残らなそうだわ～
+  d_ex_maidcafe_01_74:
+    speaker: "<Self>"
+    en: Erp...
+    ko: "…욱."
+    ja: "…うっ"
+  d_ex_maidcafe_01_75:
+    speaker: "<Self>"
+    en: It's... delicious.
+    ko: "…………맛있어."
+    ja: "…………おいしい"
+  d_ex_maidcafe_01_76:
+    speaker: cocoa
+    en: Do you mean it? This was my first time making it, but I guess it was a success!
+    ko: |-
+      헛! 정말?
+      코코아, 새로운 도전이었는데 성공해써!
+    ja: |-
+      えっ！ホント？
+      ココア、新しい挑戦だったけど成功したよ！
+  d_ex_maidcafe_01_77:
+    speaker: emma
+    en: You run one hell of a cooking class.
+    ko: 역시 믿음직스러운 요리 교실이네~
+    ja: やっぱり信頼できる料理教室だわ～
+  d_ex_maidcafe_01_78:
+    speaker: cocoa
+    en: You bet I do! I'm a top-tier maid.
+    ko: 응! 코코아는 프로 메이드니까!
+    ja: うん！ココアはプロのメイドだから！
+  d_ex_maidcafe_01_79:
+    speaker: emma
+    en: I'll definitely be back to learn more new dishes.
+    ko: |-
+      오늘은 요리 하나 배웠으니,
+      다음에 또 배우러 와야겠어~
+    ja: |-
+      今日はチャーハンを学んだから、
+      今度また違うものを習いに来るわ～
+  d_ex_maidcafe_01_80:
+    speaker: "<Monologue>"
+    en: I need to find a bathroom, quickly.
+    ko: "…얼른 화장실을 가야겠다."
+    ja: "…早くトイレに行かなければ"
+d_ex_maidcafe_03:
+  d_ex_maidcafe_03_1:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン―
+  d_ex_maidcafe_03_2:
+    speaker: soda
+    en: Welcome!
+    ko: 어서 오세요오~
+    ja: いらっしゃいませぇ～
+  d_ex_maidcafe_03_3:
+    speaker: folkwang
+    en: Aagh! So hot! I'm burning up!
+    ko: |-
+      아아… 더워라.
+      더워어….
+    ja: |-
+      ああ…暑い。
+      暑い…
+  d_ex_maidcafe_03_4:
+    speaker: "<Self>"
+    en: Folkwang?
+    ko: 폴크방?
+    ja: フォルクヴァン？
+  d_ex_maidcafe_03_5:
+    speaker: folkwang
+    en: Coach?
+    ko: 감독님?
+    ja: 監督？
+  d_ex_maidcafe_03_6:
+    speaker: folkwang
+    en: What brings you to the Maid Cafe?
+    ko: 메이드 카페엔 어쩐 일이세요?
+    ja: どうしてメイドカフェへ？
+  d_ex_maidcafe_03_7:
+    speaker: "<Choice>"
+    en: Just hanging out.
+    ko: 놀러 왔어.
+    ja: 遊びに来た
+  d_ex_maidcafe_03_8:
+    speaker: "<Choice>"
+    en: I was going to ask you the same question.
+    ko: 내가 묻고 싶은 질문이야.
+    ja: こっちのセリフだ
+  d_ex_maidcafe_03_9:
+    speaker: folkwang
+    en: Oh, I see...
+    ko: 아~ 그러시구나….
+    ja: あ～そうなんですね…
+  d_ex_maidcafe_03_10:
+    speaker: folkwang
+    en: It's sweltering out there, so I just chose a random place to beat the heat.
+    ko: |-
+      저는 밖이 너무 더워서
+      시원해 보이는 곳으로 무작정 들어왔어요.
+    ja: |-
+      私は外が暑すぎるので、
+      とにかく涼しそうな場所に来たんです。
+  d_ex_maidcafe_03_11:
+    speaker: folkwang
+    en: Turns out that it's hot in here as well...
+    ko: 근데… 이곳도 덥네요?
+    ja: でも…ここも暑いですね？
+  d_ex_maidcafe_03_12:
+    speaker: folkwang
+    en: Is the air conditioning working?
+    ko: 혹시 에어컨 켜져 있는 걸까요?
+    ja: エアコンはついてますか？
+  d_ex_maidcafe_03_13:
+    speaker: soda
+    en: It's not that warm today, so we didn't turn it on.
+    ko: 앗. 오늘은 조금 따뜻해서 안 켰어요오~
+    ja: あっ。今日はちょっと涼しいので\nつけてませんよぉ～
+  d_ex_maidcafe_03_14:
+    speaker: folkwang
+    en: Gah! No wonder it's like a sauna in here.
+    ko: 아아… 어쩐지 너무 덥더라.
+    ja: ああ…どうりで暑すぎると思った。
+  d_ex_maidcafe_03_15:
+    speaker: folkwang
+    en: Any chance you can turn it on? And set it to below zero, please and thank
+      you.
+    ko: 죄송한데… 온도를 영하로 맞춰주시면 안 될까요?
+    ja: すみませんが…\n温度をマイナスにしてくれませんか？
+  d_ex_maidcafe_03_16:
+    speaker: "<Choice>"
+    en: I don't think air conditioners can go that low.
+    ko: 에어컨에 영하 온도는 없어.
+    ja: エアコンにマイナス温度設定はない
+  d_ex_maidcafe_03_17:
+    speaker: "<Choice>"
+    en: The other customers will be freezing.
+    ko: 다른 손님들이 추워하지 않을까?
+    ja: 他の客が寒がるんじゃないか？
+  d_ex_maidcafe_03_18:
+    speaker: folkwang
+    en: Fine, then just set it to as low as it can go.
+    ko: 그럼, 제일 최저온도로 맞춰주시면 안 될까요…?
+    ja: じゃあ、一番低い温度にしてくれませんか…？
+  d_ex_maidcafe_03_19:
+    speaker: soda
+    en: I still think that'll make the other customers a bit too cold...
+    ko: 앗. 그러면 다른 손님들이 추워하실 것 같아서요오….
+    ja: あっ。それだと、他のお客様が寒がりそうで…
+  d_ex_maidcafe_03_20:
+    speaker: folkwang
+    en: All right, all right.
+    ko: 아아… 그렇군요.
+    ja: ああ…そうですか。
+  d_ex_maidcafe_03_21:
+    speaker: folkwang
+    en: Guess I'll have to go somewhere else.
+    ko: 어쩔 수 없이 다른 곳으로 가야겠네요.
+    ja: 仕方ないですね。他のところに行きます。
+  d_ex_maidcafe_03_22:
+    speaker: soda
+    en: Before you go, can I offer you a cup of ice water?
+    ko: 후엥… 그러면 가시기 전에 시원한 물이라도 한잔 드릴까요?
+    ja: ふぇん…じゃあ、行かれる前に\n冷たいお水でもいかがですか？
+  d_ex_maidcafe_03_23:
+    speaker: folkwang
+    en: You bet you can! That's very kind of you.
+    ko: 와, 그럼 너무 감사하죠.
+    ja: わあ、とてもありがたいです。
+  d_ex_maidcafe_03_24:
+    speaker: folkwang
+    en: I'm so hot that I can barely move.
+    ko: 사실 너무 더워서 움직일 힘마저도 없었거든요.
+    ja: 実は暑すぎて、動く気力もなかったんです。
+  d_ex_maidcafe_03_25:
+    speaker: soda
+    en: Coming right up!
+    ko: 헤헤. 얼른 가져다드릴게요~
+    ja: えへへ。すぐお持ちしますね～
+  d_ex_maidcafe_03_26:
+    speaker: "<Narration>"
+    en: After a while.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_maidcafe_03_27:
+    speaker: soda
+    en: Here's your water.
+    ko: 여기 물 한 잔 드릴….
+    ja: お水、お持ちしま…
+  d_ex_maidcafe_03_28:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 툭-
+    ja: ガッ
+  d_ex_maidcafe_03_29:
+    speaker: soda
+    en: Whoops!
+    ko: 어어…!
+    ja: ああ…！
+  d_ex_maidcafe_03_30:
+    speaker: "<Narration>"
+    en: "*Clank clank*"
+    ko: 우당탕탕-!!
+    ja: ドテーン！
+  d_ex_maidcafe_03_31:
+    speaker: "<Narration>"
+    en: "*Swoosh*"
+    ko: 촤악-!
+    ja: バシャーッ！
+  d_ex_maidcafe_03_32:
+    speaker: "<Monologue>"
+    en: Soda walks into a table and trips while serving Folkwang.
+    ko: 소다는 폴크방에게 서빙하다 테이블에 부딪혀 그대로 넘어져 버렸고.
+    ja: ソーダはフォルクヴァンに水を運ぶ途中で\nテーブルにぶつかって転んでしまい
+  d_ex_maidcafe_03_33:
+    speaker: "<Monologue>"
+    en: The entire cup of water splashes onto Folkwang.
+    ko: 컵에 가득 담긴 물은 폴크방에게 쏟아졌다.
+    ja: コップに入っていた水をフォルクヴァンに\nかけてしまった
+  d_ex_maidcafe_03_34:
+    speaker: "<Choice>"
+    en: Soda! Are you all right?
+    ko: 소다, 괜찮아?
+    ja: ソーダ、大丈夫か？
+  d_ex_maidcafe_03_35:
+    speaker: "<Choice>"
+    en: Folkwang! Are you all right?
+    ko: 폴크방, 괜찮아?
+    ja: フォルクヴァン、大丈夫か？
+  d_ex_maidcafe_03_36:
+    speaker: soda
+    en: I'm fine..
+    ko: 호엑! 저는 괜찮아요!
+    ja: ほえっ！私は大丈夫です！
+  d_ex_maidcafe_03_37:
+    speaker: soda
+    en: Folkwang, what about you?
+    ko: 폴크방, 괜찮으세요?
+    ja: フォルクヴァン、大丈夫ですか？
+  d_ex_maidcafe_03_38:
+    speaker: folkwang
+    en: Ah...
+    ko: "……아."
+    ja: "……あぁ。"
+  d_ex_maidcafe_03_39:
+    speaker: soda
+    en: I'm sorry!
+    ko: 죄, 죄송…!
+    ja: す、すみま…！
+  d_ex_maidcafe_03_40:
+    speaker: folkwang
+    en: That... felt great!
+    ko: 너무 시원하네요….
+    ja: とても涼しいです…
+  d_ex_maidcafe_03_41:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_maidcafe_03_42:
+    speaker: folkwang
+    en: It felt like heaven when that iced water splashed all over me.
+    ko: |-
+      얼음물이 절 덮치자마자…
+      천국에 온 기분이었어요.
+    ja: |-
+      氷水をかぶった瞬間…
+      天国に来たような気分になりました。
+  d_ex_maidcafe_03_43:
+    speaker: folkwang
+    en: Thanks to you, I don't feel like I'm dying of heatstroke anymore.
+    ko: 덕분에 열기가 좀 가라 앉은기분이에요.
+    ja: おかげで暑さが少しマシになったようです。
+  d_ex_maidcafe_03_44:
+    speaker: soda
+    en: I should apologize anyway...
+    ko: 흐엥… 그래도 죄송해요오….
+    ja: ふぇん…でもすみません…
+  d_ex_maidcafe_03_45:
+    speaker: folkwang
+    en: Forget about it! I was already drenched in sweat anyway.
+    ko: |-
+      괜찮아요~
+      어차피 온몸이 땀이라서….
+    ja: |-
+      大丈夫ですよ～
+      どうせ汗っかきなので…
+  d_ex_maidcafe_03_46:
+    speaker: "<Self>"
+    en: Guess you lucked out this time, Soda.
+    ko: 다행인 건가.
+    ja: いいのか？
+  d_ex_maidcafe_03_47:
+    speaker: soda
+    en: I'd say so.
+    ko: "…손님이 만족했으니 다행인 거 아닐까요오…?"
+    ja: "…お客様が満足してるので、\\n結果的によかったんじゃないでしょうかぁ…？"
+  d_ex_maidcafe_03_48:
+    speaker: folkwang
+    en: I better stay here until I dry off.
+    ko: 물이 마를 때까진 이곳에 좀 있어야 할 것 같은데….
+    ja: 水が乾くまでここにいた方がよさそうです…
+  d_ex_maidcafe_03_49:
+    speaker: folkwang
+    en: Got anything else that's cool and refreshing?
+    ko: 혹시 또 시원한 게 없을까요?
+    ja: 他に冷たいものはありませんか？
+  d_ex_maidcafe_03_50:
+    speaker: folkwang
+    en: Like say... ice cream? Or shaved ice?
+    ko: 아이스크림이나… 얼음이나….
+    ja: アイスクリームとか…氷とか…
+  d_ex_maidcafe_03_51:
+    speaker: soda
+    en: Are you hungry? How about I get you some chilled desserts?
+    ko: |-
+      앗. 혹시 배고프신가요?
+      그럼 시원한 디저트를 준비해드릴게요!
+    ja: |-
+      あっ、もしかしてお腹空いてますか？
+      それなら冷たいデザートをお持ちします！
+  d_ex_maidcafe_03_52:
+    speaker: folkwang
+    en: That sounds perfect.
+    ko: 와, 너무 좋아요.
+    ja: わあ、いいですね。
+  d_ex_maidcafe_03_53:
+    speaker: soda
+    en: I'll get one for Master, too! Wait right here.
+    ko: 헤헤. 주인님 거도 만들어 드릴 테니 잠시만 기다려 주세요~
+    ja: えへへ。ご主人様の分も持ってくるので\n少々お待ちくださいね～
+  d_ex_maidcafe_03_54:
+    speaker: "<Narration>"
+    en: After a while.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_maidcafe_03_55:
+    speaker: soda
+    en: One refreshing parfait slush, coming right up!
+    ko: 상큼 소다♡ 파르페 빙수 나왔습니다아~
+    ja: 爽やかソーダ♡パフェをお持ちしました～
+  d_ex_maidcafe_03_56:
+    speaker: soda
+    en: The bottom is ice-cold slushie, and on top, we've got a big ol' scoop of ice
+      cream.
+    ko: |-
+      밑에는 시원한 얼음을 갈아 만든 빙수구요~
+      빙수 위에는 아이스크림을 잔뜩 올려 파르페로 만들었어요~
+    ja: |-
+      下は冷たいかき氷で、その上に
+      アイスをたっぷり載せてパフェにしました～！
+  d_ex_maidcafe_03_57:
+    speaker: "<Choice>"
+    en: If it tastes as good as it looks, we're in for a treat.
+    ko: 맛있어 보여.
+    ja: おいしそうだ
+  d_ex_maidcafe_03_58:
+    speaker: "<Choice>"
+    en: "*Slurp*"
+    ko: 츄릅.
+    ja: じゅる…
+  d_ex_maidcafe_03_59:
+    speaker: soda
+    en: Have a taste before it melts.
+    ko: 녹기 전에 한 번 드셔보세요~
+    ja: 溶ける前に召し上がってください。
+  d_ex_maidcafe_03_60:
+    speaker: folkwang
+    en: It looks fantastic, thanks!
+    ko: |-
+      보기만 해도 시원하네요…
+      잘 먹을게요!
+    ja: |-
+      見た目も涼しくていいですね…
+      いただきます！
+  d_ex_maidcafe_03_61:
+    speaker: "<Self>"
+    en: Thanks.
+    ko: 잘 먹을게.
+    ja: いただきます
+  d_ex_maidcafe_03_62:
+    speaker: "<Narration>"
+    en: "*Nom nom*"
+    ko: 우물우물.
+    ja: モグモグ
+  d_ex_maidcafe_03_63:
+    speaker: "<Self>"
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_maidcafe_03_64:
+    speaker: "<Monologue>"
+    en: The ice-cold parfait slush is incredible. It's so cold that it makes my teeth
+      hurt.
+    ko: 소다가 가져온 파르페 빙수는 이가 시릴 정도로 시원하고 맛있었다.
+    ja: ソーダが持ってきたパフェは、\n歯に染みるくらい冷たくておいしかった
+  d_ex_maidcafe_03_65:
+    speaker: folkwang
+    en: Holy moly! It's like I'm eating ice cream in the middle of the Antarctic.
+    ko: |-
+      세상에…
+      남극 한 가운데에서 아이스크림을 먹고 있는 기분이에요.
+    ja: |-
+      すごい…
+      南極の真ん中でアイスを食べているような\n気分です。
+  d_ex_maidcafe_03_66:
+    speaker: folkwang
+    en: "*Chew*"
+    ko: 냠!
+    ja: パク！
+  d_ex_maidcafe_03_67:
+    speaker: folkwang
+    en: "*Chew chew*"
+    ko: 냠냠!
+    ja: パクパク！
+  d_ex_maidcafe_03_68:
+    speaker: "<Monologue>"
+    en: Folkwang wolfs down the dessert.
+    ko: 폴크방은 빠른 속도로 디저트를 먹기 시작했다.
+    ja: フォルクヴァンは光の速さで\nデザートを食べ始めた
+  d_ex_maidcafe_03_69:
+    speaker: folkwang
+    en: Say Coach... are you gonna finish yours?
+    ko: 감독님… 혹시 남기실 것 같으면 제가 조금만 먹어도 될까요?
+    ja: 監督…もし残すなら\n私が食べてもいいですか？
+  d_ex_maidcafe_03_70:
+    speaker: soda
+    en: Don't worry, I'll get you more. Just a moment.
+    ko: |-
+      헤헤. 조금 더 가져다드릴게요!
+      잠시만요~
+    ja: |-
+      えへへ。お代わりお持ちしますね！
+      お待ちくださ～い！
+  d_ex_maidcafe_03_71:
+    speaker: folkwang
+    en: I can't believe how happy this made me! It's been ages since I had chilled
+      dessert like that. I feel so good I could cry.
+    ko: |-
+      아아…. 감독님, 이런 시원함…
+      너무 오랜만이라 눈물 날 지경이에요.
+    ja: |-
+      ああ…監督、こんな冷たさ…
+      久しぶりで涙が出そうです。
+  d_ex_maidcafe_03_72:
+    speaker: "<Self>"
+    en: Aren't you being a bit dramatic?
+    ko: "…그 정도야?"
+    ja: "…そんなに？"
+  d_ex_maidcafe_03_73:
+    speaker: soda
+    en: One more parfait slush, coming ri...
+    ko: |-
+      헤헤.
+      주문하신 파르페 빙수 나왔…!
+    ja: |-
+      えへへ。
+      ご注文のパフェ、お待た…！
+  d_ex_maidcafe_03_74:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 툭-
+    ja: ガッ
+  d_ex_maidcafe_03_75:
+    speaker: "<Narration>"
+    en: "*Crush*"
+    ko: 우당탕탕!
+    ja: ガシャァン！
+  d_ex_maidcafe_03_76:
+    speaker: soda
+    en: Oh no! I'm so sorry! I'll clean it up right away!
+    ko: |-
+      흐, 흐엥… 어떡해! 죄송해요오…!
+      얼른 닦아드릴게요!
+    ja: |-
+      ふ、ふぇん…すみません…！
+      すぐお拭きします！
+  d_ex_maidcafe_03_77:
+    speaker: folkwang
+    en: My face is... so cold! It feels amazing.
+    ko: "…얼굴이 달콤해지고 시원해져서 좋네요."
+    ja: "…顔が甘くて冷たくていいですね。"
+  d_ex_maidcafe_03_78:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_03_79:
+    speaker: "<Narration>"
+    en: Later.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_maidcafe_03_80:
+    speaker: folkwang
+    en: Oof... so full... so cool... have I died and gone to heaven?
+    ko: |-
+      하아~ 배부르고… 시원하고…
+      이곳이 천국인가요.
+    ja: |-
+      ハァ～、お腹いっぱいで…冷たくて…
+      ここは天国でしょうか。
+  d_ex_maidcafe_03_81:
+    speaker: folkwang
+    en: Having said that, I know in a little while, I'll be just as hot as I was before.
+    ko: "…얼마 안 가 또 더워지겠지만."
+    ja: "…またすぐ暑くなるでしょうけど。"
+  d_ex_maidcafe_03_82:
+    speaker: soda
+    en: Would you like me to bring you an ice compress?
+    ko: 그럼… 시원한 얼음찜질을 좀 해드릴까요오?!
+    ja: じゃあ…アイスパックを\nお持ちしましょうか！？
+  d_ex_maidcafe_03_83:
+    speaker: folkwang
+    en: A what?
+    ko: 얼음찜질이요?
+    ja: アイスパックですか？
+  d_ex_maidcafe_03_84:
+    speaker: soda
+    en: An ice compress, so you can keep your face cooler for longer.
+    ko: 네! 그걸 얹고 있으면 시원함이 좀 오래 지속 될 거예요!
+    ja: はい！パックを持っていれば冷たさが\n続くはずですよ！
+  d_ex_maidcafe_03_85:
+    speaker: folkwang
+    en: Oh, neato! Thanks a bunch.
+    ko: 어머. 너무 감사해요.
+    ja: あら、ありがとうございます。
+  d_ex_maidcafe_03_86:
+    speaker: soda
+    en: I'll go get some ice cubes and put them into an ice bag.
+    ko: |-
+      헤헤. 얼른 주머니에 얼음 넣어서 가져올게요!
+      잠시만요~
+    ja: |-
+      えへへ。急いで氷を入れて持ってきますね！
+      お待ちください！
+  d_ex_maidcafe_03_87:
+    speaker: folkwang
+    en: Man, this place is the best, isn't it?
+    ko: 아아… 감독님, 메이드 카페는 정말 좋은 곳이군요…?
+    ja: ああ…監督、\nメイドカフェは本当にいいところですね…
+  d_ex_maidcafe_03_88:
+    speaker: soda
+    en: Here's your ice bag!
+    ko: 얼음찜질팩 가져 왔습…!
+    ja: アイスパック、お待たせしま…！
+  d_ex_maidcafe_03_89:
+    speaker: soda
+    en: Whoa!
+    ko: 흐엑!
+    ja: ふぇぇっ！
+  d_ex_maidcafe_03_90:
+    speaker: "<Narration>"
+    en: "*Crush*"
+    ko: 우당탕탕!
+    ja: ドテーン！
+  d_ex_maidcafe_03_91:
+    speaker: "<Narration>"
+    en: "*Swoosh*"
+    ko: 촤악-
+    ja: バシャーッ
+  d_ex_maidcafe_03_92:
+    speaker: "<Monologue>"
+    en: The ice cubes fly out of the bag and land on Folkwang.
+    ko: |-
+      …소다가 가져온 얼음찜질팩은
+      그대로 폴크방에게 쏟아져 버렸다.
+    ja: |-
+      …ソーダはアイスパックに入っていた氷水を
+      フォルクヴァンにかけてしまった
+  d_ex_maidcafe_03_93:
+    speaker: folkwang
+    en: "... *Sigh*"
+    ko: "……하."
+    ja: "……ハァ。"
+  d_ex_maidcafe_03_94:
+    speaker: folkwang
+    en: I see you're rather prone to accidents.
+    ko: 이번에 또 같은 실수를….
+    ja: また同じことを…
+  d_ex_maidcafe_03_95:
+    speaker: soda
+    en: It's okay if you're mad at me...
+    ko: 후엥… 이번엔 충분히 화날만 하시…!
+    ja: ふぇん…今回はさすがに怒ります…！？
+  d_ex_maidcafe_03_96:
+    speaker: folkwang
+    en: Are you kidding? I'm grateful! I haven't felt this cool in my entire life.
+    ko: |-
+      해주셔서 감사해요~
+      정말 시원하네요… 아아… 얼음까지 있어서 더 시원하다….
+    ja: |-
+      転んでくれてありがとうございます～
+      本当に涼しいですね…\nああ…氷もあるからさらに冷たい…
+  d_ex_maidcafe_03_97:
+    speaker: soda
+    en: Um... you're welcome? I'll bring you more, then.
+    ko: |-
+      …!!
+      가, 감사합니다? 얼른 다시 가져올게요!
+    ja: |-
+      …！！
+      あ、ありがとうございます？\nすぐに新しいのを持って来ますね！
+  d_ex_maidcafe_03_98:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_03_99:
+    speaker: "<Monologue>"
+    en: Later.
+    ko: 그 이후로도.
+    ja: それからも
+  d_ex_maidcafe_03_100:
+    speaker: "<Narration>"
+    en: "*Clank*"
+    ko: 콰당-!
+    ja: バターン！
+  d_ex_maidcafe_03_101:
+    speaker: folkwang
+    en: Ahh... that hits the spot.
+    ko: 하아… 시원해요….
+    ja: ハァ…冷たいです…
+  d_ex_maidcafe_03_102:
+    speaker: "<Narration>"
+    en: "*Clank clank*"
+    ko: 우당탕탕!
+    ja: ドテーン！
+  d_ex_maidcafe_03_103:
+    speaker: folkwang
+    en: Yep, that's the ticket...
+    ko: 아… 좋네요….
+    ja: あぁ…いいですね…
+  d_ex_maidcafe_03_104:
+    speaker: "<Narration>"
+    en: "*Clank clank*"
+    ko: 쾅-! 우당탕탕탕-!
+    ja: バン！ドテーン！
+  d_ex_maidcafe_03_105:
+    speaker: soda
+    en: Whoops, sorry!
+    ko: 흐에엥! 죄송해요오오…!!
+    ja: ふぇぇん！すみません…！！
+  d_ex_maidcafe_03_106:
+    speaker: "<Monologue>"
+    en: Soda keeps making mistake after mistake.
+    ko: 소다의 실수는 끝이 없었고.
+    ja: ソーダのミスは延々と続き
+  d_ex_maidcafe_03_107:
+    speaker: "<Monologue>"
+    en: I sneak out of the Maid Cafe.
+    ko: "…난 조용히 메이드 카페를 빠져나왔다."
+    ja: "…私は静かにメイドカフェを後にした"
+d_ex_maidcafe_02:
+  d_ex_maidcafe_02_1:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_02_2:
+    speaker: biscuit
+    en: Oh, hey Trainer!
+    ko: 어? 훈련사님!
+    ja: あれ？訓練士さん！
+  d_ex_maidcafe_02_3:
+    speaker: cocoa
+    en: Welcome, Master.
+    ko: 주인 어서 와.
+    ja: 主人、いらっしゃい。
+  d_ex_maidcafe_02_4:
+    speaker: "<Self>"
+    en: Biscuit? What are you doing at the Maid Cafe?
+    ko: 비스킷이 메이드 카페에 오다니 무슨 일이야?
+    ja: どうしてビスケットがメイドカフェに？
+  d_ex_maidcafe_02_5:
+    speaker: biscuit
+    en: Well...
+    ko: 그게….
+    ja: それが…
+  d_ex_maidcafe_02_6:
+    speaker: biscuit
+    en: Coffee doesn't really agree with me,
+    ko: "제가 커피가 들어가 있는 걸 못 먹어서… \n카페에 가면 아무것도 먹을 수 없다고 했거든요."
+    ja: |-
+      私、コーヒーが苦手で…
+      カフェに行っても楽しめない、
+  d_ex_maidcafe_02_7:
+    speaker: biscuit
+    en: so I don't frequent cafes all that often.
+    ko: 그래서 카페에 잘 안 가는 편이라고 했더니,
+    ja: だからあまりカフェに行かないと言ったら、
+  d_ex_maidcafe_02_8:
+    speaker: biscuit
+    en: Cocoa told me that the Maid Cafe was different though, and that I should stop
+      by sometime.
+    ko: |-
+      코코아가 메이드 카페에선 다를 거라고
+      한번 와보라고 하셔서요.
+    ja: |-
+      ココアが、メイドカフェは違うから
+      一度来てみてほしいと言うので。
+  d_ex_maidcafe_02_9:
+    speaker: cocoa
+    en: That's right, this place is unlike any other Cafe.
+    ko: "마자. \n메이드 카페는 달라."
+    ja: |-
+      そう。
+      メイドカフェは違う。
+  d_ex_maidcafe_02_10:
+    speaker: cocoa
+    en: We've got plenty of things that you can eat.
+    ko: 비스킷도 먹을 거 이써.
+    ja: ビスケットが楽しめるものもあるよ。
+  d_ex_maidcafe_02_11:
+    speaker: "<Self>"
+    en: What are you planning on suggesting?
+    ko: 어떤 걸 추천해 줄 생각이야?
+    ja: 何がオススメなんだ？
+  d_ex_maidcafe_02_12:
+    speaker: cocoa
+    en: Cocoa.
+    ko: 코코아.
+    ja: ココア。
+  d_ex_maidcafe_02_13:
+    speaker: "<Self>"
+    en: "... You?"
+    ko: 코코아?
+    ja: ココア？
+  d_ex_maidcafe_02_14:
+    speaker: cocoa
+    en: No, the drink!
+    ko: 웅.
+    ja: うん。
+  d_ex_maidcafe_02_15:
+    speaker: cocoa
+    en: A nice cup of hot, slurptastic cocoa.
+    ko: 아이 뜨거 ♪ 호록호록 코코아.
+    ja: アチチ♪フーフー、ココア。
+  d_ex_maidcafe_02_16:
+    speaker: "<Self>"
+    en: That doesn't exactly sound appetizing...
+    ko: 그건 안될 거 같은데….
+    ja: それはダメだと思うが…
+  d_ex_maidcafe_02_17:
+    speaker: cocoa
+    en: It doesn't?
+    ko: 안 대?
+    ja: ダメ？
+  d_ex_maidcafe_02_18:
+    speaker: cocoa
+    en: Hmm...
+    ko: "…우움."
+    ja: "…うーん。"
+  d_ex_maidcafe_02_19:
+    speaker: cocoa
+    en: I've got it!
+    ko: 그러타면!
+    ja: それなら！
+  d_ex_maidcafe_02_20:
+    speaker: cocoa
+    en: What if I make it cold?
+    ko: 아이 차가 ♪ 후룩후룩 코코아는?
+    ja: ヒヤヒヤ♪ごくごく、ココアは？
+  d_ex_maidcafe_02_21:
+    speaker: "<Self>"
+    en: Not making it any better.
+    ko: 그것도 안 돼.
+    ja: それもダメだ
+  d_ex_maidcafe_02_22:
+    speaker: cocoa
+    en: No?
+    ko: 이것도 안 대?
+    ja: これもダメ？
+  d_ex_maidcafe_02_23:
+    speaker: cocoa
+    en: Why not?
+    ko: 왜?
+    ja: どうして？
+  d_ex_maidcafe_02_24:
+    speaker: biscuit
+    en: Wait a sec, doesn't hot cocoa have chocolate in it?
+    ko: 어… 그게, 코코아는 초콜릿이 들어가 있지 않나요?
+    ja: あっ…その、ココアにはチョコが\n入ってますよね？
+  d_ex_maidcafe_02_25:
+    speaker: cocoa
+    en: Oh yeah, bunches!
+    ko: 웅. 초코가 잔뜩 들어가 이써.
+    ja: うん。チョコたっぷり。
+  d_ex_maidcafe_02_26:
+    speaker: biscuit
+    en: "... I figured as much."
+    ko: 아… 헤헤, 역시 그렇군요.
+    ja: あ…へへ、やっぱりそうでしたか。
+  d_ex_maidcafe_02_27:
+    speaker: "<Self>"
+    en: A cup of cocoa won't work for Biscuit either.
+    ko: 비스킷은 코코아도 먹으면 안 돼.
+    ja: ビスケットはココアも飲んだらダメなんだ
+  d_ex_maidcafe_02_28:
+    speaker: cocoa
+    en: Why not? Hot cocoa doesn't have any coffee in it.
+    ko: 안 대? 코코아는 커피 아닌데?
+    ja: ダメ？ココアはコーヒーじゃないのに？
+  d_ex_maidcafe_02_29:
+    speaker: "<Self>"
+    en: 'You''re right, but there''s something else it has in common with cocoa: caffeine.'
+    ko: 비스킷은 카페인을 먹으면 안 되는데,
+    ja: ビスケットはカフェインを摂取したら\nダメなんだが
+  d_ex_maidcafe_02_30:
+    speaker: "<Self>"
+    en: Biscuit can't have caffeine.
+    ko: 코코아에도 커피처럼 카페인이 들어가 있거든.
+    ja: ココアにもコーヒーのようにカフェインが\n入ってるんだ
+  d_ex_maidcafe_02_31:
+    speaker: cocoa
+    en: No kidding...
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_maidcafe_02_32:
+    speaker: cocoa
+    en: I had no idea.
+    ko: 말도 안 대.
+    ja: なんてこった。
+  d_ex_maidcafe_02_33:
+    speaker: cocoa
+    en: But I promised Biscuit that we'd have something here she could eat.
+    ko: 코코아가 메이드 카페에서 먹을 수 있게 해준다고 했는데….
+    ja: ココアがメイドカフェなら大丈夫って\n言ったのに…
+  d_ex_maidcafe_02_34:
+    speaker: cocoa
+    en: What if I can't come up with anything?
+    ko: 코코아를 줄 쑤 없으면 어떡하지?
+    ja: ココアがダメならどうしよう？
+  d_ex_maidcafe_02_35:
+    speaker: "<Choice>"
+    en: Surely you can make something other than hot cocoa?
+    ko: 코코아가 잘할 수 있는 게 코코아뿐이야?
+    ja: ココアが得意なのはココアだけか？
+  d_ex_maidcafe_02_36:
+    speaker: "<Choice>"
+    en: Come on, you're a professional maid. You can do this.
+    ko: 프로 메이드가 해줄 수 있는 게 그거뿐이야?
+    ja: プロのメイドがそれしかできないのか？
+  d_ex_maidcafe_02_37:
+    speaker: cocoa
+    en: Let me think...
+    ko: 코코아가 잘하는 거?
+    ja: ココアが得意なこと？
+  d_ex_maidcafe_02_38:
+    speaker: cocoa
+    en: Let me think...
+    ko: 프로 메이드가 해줄 쑤 있는 거….
+    ja: プロのメイドができること…
+  d_ex_maidcafe_02_39:
+    speaker: cocoa
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_maidcafe_02_40:
+    speaker: cocoa
+    en: I know now.
+    ko: 이제 아라써.
+    ja: やっと分かった。
+  d_ex_maidcafe_02_41:
+    speaker: cocoa
+    en: I'll have Ade make you some omurice.
+    ko: 코코아가 에이드한테 말해서 오므라이스 만들어 주께.
+    ja: ココアがエードに頼んで、\nオムライス作ってあげる。
+  d_ex_maidcafe_02_42:
+    speaker: biscuit
+    en: Omurice?
+    ko: 오므라이스요?
+    ja: オムライスですか？
+  d_ex_maidcafe_02_43:
+    speaker: cocoa
+    en: Yup! We can even use the ketchup to draw some cute doggies on top.
+    ko: 웅! 그 위에 코코아가 케첩으로 강아지를 잔뜩 그려주께!
+    ja: うん！その上にココアが\nケチャップでイヌを描いてあげる！
+  d_ex_maidcafe_02_44:
+    speaker: cocoa
+    en: I'm sure I can pull that off with no problem.
+    ko: 코코아 그런 거 잘해!
+    ja: ココア、そういうの得意！
+  d_ex_maidcafe_02_45:
+    speaker: biscuit
+    en: Erm, about ketchup...
+    ko: 예…? 케첩…?
+    ja: えっ…？ケチャップ…？
+  d_ex_maidcafe_02_46:
+    speaker: "<Self>"
+    en: She can't have ketchup eit...
+    ko: 케첩도 먹으면 안….
+    ja: ケチャップも食べたらダ…
+  d_ex_maidcafe_02_47:
+    speaker: cocoa
+    en: Extra ketchup, got it!
+    ko: 웅웅. 케첩도 마니마니 뿌려줄게!
+    ja: うんうん。ケチャップもたくさんかけてあげる！
+  d_ex_maidcafe_02_48:
+    speaker: biscuit
+    en: No, that's not it...
+    ko: 아니, 그게 아니라….
+    ja: いえ、そうじゃなくて…
+  d_ex_maidcafe_02_49:
+    speaker: cocoa
+    en: You wait right here. I'll have it ready in a jiffy.
+    ko: |-
+      쪼꼼만 기다려.
+      금방 만들어주께!
+    ja: |-
+      ちょっと待ってて。
+      すぐ作るから！
+  d_ex_maidcafe_02_50:
+    speaker: "<Monologue>"
+    en: Cocoa rushes into the kitchen to look for Ade.
+    ko: 코코아가 에이드를 찾아 주방으로 들어가 버렸다.
+    ja: ココアはエードを探しに\nキッチンへ行ってしまった
+  d_ex_maidcafe_02_51:
+    speaker: biscuit
+    en: Oh boy... what should I do?
+    ko: "…훈련사님, 어떡하죠?"
+    ja: "…訓練士さん、どうしましょう？"
+  d_ex_maidcafe_02_52:
+    speaker: biscuit
+    en: I can't have ketchup.
+    ko: 저… 케첩도 먹으면 안 되는데….
+    ja: 私…ケチャップも食べられないのに…
+  d_ex_maidcafe_02_53:
+    speaker: "<Self>"
+    en: Let's just wait for now.
+    ko: "…일단 기다려 보자."
+    ja: "…ひとまず待とう"
+  d_ex_maidcafe_02_54:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: 잠시 후….
+    ja: しばらくして…
+  d_ex_maidcafe_02_55:
+    speaker: "<Monologue>"
+    en: Cocoa brings out the omurice made by Ade.
+    ko: 코코아가 에이드가 만든 오므라이스를 가지고 나왔다.
+    ja: ココアはエードが作ったオムライスを持ってきた
+  d_ex_maidcafe_02_56:
+    speaker: biscuit
+    en: Wow, it looks delicious!
+    ko: 와~ 엄청 맛있어 보여요!
+    ja: わぁ～、とってもおいしそうです！
+  d_ex_maidcafe_02_57:
+    speaker: cocoa
+    en: As it should! Nobody makes better omurice than Ade.
+    ko: 흠흠! 에이드가 만든 오므라이스는 최고니까.
+    ja: えっへん！\nエードが作ったオムライスはサイコーだから。
+  d_ex_maidcafe_02_58:
+    speaker: cocoa
+    en: I told her it was a special order for Biscuit, and she removed the salty.
+    ko: |-
+      비스킷이 먹는 거라고 말해줬더니
+      에이드가 염부니를 제거했다고 해써.
+    ja: |-
+      ビスケットが食べるって伝えたら
+      エードがでんぷんを減らしたって。
+  d_ex_maidcafe_02_59:
+    speaker: "<Self>"
+    en: "... Did you mean to say salt?"
+    ko: 염분을 말하는 거지?
+    ja: でんぷんじゃなくて塩分だろう？
+  d_ex_maidcafe_02_60:
+    speaker: cocoa
+    en: Oh yeah, that. I think that's what she said.
+    ko: 웅. 그러케 얘기했던 거 같아.
+    ja: うん。たぶんそれ。
+  d_ex_maidcafe_02_61:
+    speaker: biscuit
+    en: Thank you for being so considerate.
+    ko: 배려해 주셔서 감사해요!
+    ja: ご配慮ありがとうございます！
+  d_ex_maidcafe_02_62:
+    speaker: cocoa
+    en: Now's the part where I come in.
+    ko: 그리고 이제, 코코아의 차례야.
+    ja: 次はココアの番。
+  d_ex_maidcafe_02_63:
+    speaker: cocoa
+    en: I'll draw a cute little dog for you.
+    ko: 귀여운 강아지를 그려주께!
+    ja: かわいいイヌを描いてあげる！
+  d_ex_maidcafe_02_64:
+    speaker: "<Monologue>"
+    en: Cocoa produces a ketchup bottle.
+    ko: 코코아가 케첩을 꺼내들었다.
+    ja: ココアがケチャップを取り出した
+  d_ex_maidcafe_02_65:
+    speaker: "<Self>"
+    en: Cocoa, stop!
+    ko: 코코아 멈춰!
+    ja: ココア、ストップ！
+  d_ex_maidcafe_02_66:
+    speaker: cocoa
+    en: Huh?
+    ko: 웅?
+    ja: ん？
+  d_ex_maidcafe_02_67:
+    speaker: "<Self>"
+    en: Actually... Biscuit can't have ketchup either.
+    ko: "…사실 비스킷은 케첩도 먹으면 안 돼."
+    ja: "…実はビスケットは\\nケチャップも食べられないんだ"
+  d_ex_maidcafe_02_68:
+    speaker: cocoa
+    en: "!!!!"
+    ko: "!!!!"
+    ja: "！！！！"
+  d_ex_maidcafe_02_69:
+    speaker: cocoa
+    en: Really?
+    ko: 정말?
+    ja: 本当？
+  d_ex_maidcafe_02_70:
+    speaker: biscuit
+    en: "... Yes. I'm sorry."
+    ko: "…예. 죄송해요."
+    ja: "…はい。すみません。"
+  d_ex_maidcafe_02_71:
+    speaker: cocoa
+    en: But if ketchup isn't allowed either...
+    ko: 케첩도 안되면….
+    ja: ケチャップもダメなら…
+  d_ex_maidcafe_02_72:
+    speaker: cocoa
+    en: then I can't do anything...
+    ko: 그럼… 코코아는 아무것도 한 게 엄는데….
+    ja: じゃあ…ココアにできることは何もない…
+  d_ex_maidcafe_02_73:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_02_74:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_02_75:
+    speaker: "<Self>"
+    en: Go ahead and put it on. I'll eat the parts with the ketchup.
+    ko: "…일단 뿌려. 케첩이 묻은 건 내가 먹을게."
+    ja: "…とりあえず、かけてくれ。\\nケチャップがついた部分は私が食べる"
+  d_ex_maidcafe_02_76:
+    speaker: cocoa
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_maidcafe_02_77:
+    speaker: "<Self>"
+    en: I can describe how it tastes to Biscuit.
+    ko: 난 비스킷의 훈련사니까 내가 먹고 비스킷한테 맛을 전해줄게.
+    ja: 私はビスケットの訓練士だから、\n私が食べてビスケットに味を伝えればいい
+  d_ex_maidcafe_02_78:
+    speaker: biscuit
+    en: Yeah, Trainer will eat those parts on my behalf!
+    ko: 맞아요, 케첩은 훈련사님이 제 대신 먹어주실 거예요!
+    ja: そうですね！ケチャップは訓練士さんが\n代わりに食べてくれますよ！
+  d_ex_maidcafe_02_79:
+    speaker: biscuit
+    en: I can eat the portions that don't have any ketchup.
+    ko: 전 묻지 않은 쪽을 먹으면 돼요!
+    ja: 私はついてない部分を食べますね！
+  d_ex_maidcafe_02_80:
+    speaker: biscuit
+    en: That way, there will still be something that I can eat here.
+    ko: |-
+      그럼 코코아가 말한 대로
+      저도 메이드 카페에서 먹을 수 있는 게 생기는 거니까요.
+    ja: |-
+      そうすれば、ココアが言ったとおり
+      私もメイドカフェで楽しめるものが\nあるってことですから。
+  d_ex_maidcafe_02_81:
+    speaker: cocoa
+    en: Is that okay?
+    ko: 그래도 대?
+    ja: それでもいい？
+  d_ex_maidcafe_02_82:
+    speaker: cocoa
+    en: You won't be disappointed?
+    ko: 안 섭섭하게써?
+    ja: 残念じゃない？
+  d_ex_maidcafe_02_83:
+    speaker: biscuit
+    en: It may not be perfect... but it's okay. Trainer will be eating the parts I
+      can't, so nothing will go to waste.
+    ko: |-
+      조금 섭섭하겠지만… 괜찮아요!
+      훈련사님이 먹어주시는 거니까요!
+    ja: |-
+      ちょっと残念ですが…大丈夫です！
+      訓練士さんが食べてくれるんですから！
+  d_ex_maidcafe_02_84:
+    speaker: cocoa
+    en: Well...
+    ko: 주인이….
+    ja: 主人が…
+  d_ex_maidcafe_02_85:
+    speaker: cocoa
+    en: Okay. In that case, I'll use the same amount of ketchup I usually give Master.
+    ko: |-
+      알게써.
+      주인이 먹는 만큼 코코아 열심히 뿌릴게.
+    ja: |-
+      分かった。
+      主人のためにもココア、一生懸命かけるね。
+  d_ex_maidcafe_02_86:
+    speaker: "<Self>"
+    en: Wait, that's not necessary...
+    ko: 아니 그러지 않아도….
+    ja: いや、その必要は…
+  d_ex_maidcafe_02_87:
+    speaker: biscuit
+    en: Go ahead!
+    ko: 네! 잘 부탁드려요!
+    ja: はい！よろしくお願いします！
+  d_ex_maidcafe_02_88:
+    speaker: "<Narration>"
+    en: "*Squirt* *Squirt*"
+    ko: 뿌직. 뿌직.
+    ja: ピュッピュッ
+  d_ex_maidcafe_02_89:
+    speaker: "<Narration>"
+    en: |-
+      *Sqquirt* *Shoot*
+      *Pfff* *Sqqqquuiirrtt*
+    ko: "뿌지직. 푸슉. \n푸슈슉… 뿌지지지직!"
+    ja: |-
+      ピュピュッ、プシュー
+      プシュシュ…ビュイッ！
+  d_ex_maidcafe_02_90:
+    speaker: cocoa
+    en: There you go!
+    ko: 완성.
+    ja: 完成。
+  d_ex_maidcafe_02_91:
+    speaker: "<Monologue>"
+    en: Cocoa pushes forward the omurice, freshly adorned with ketchup.
+    ko: 코코아가 케첩을 뿌린 오므라이스를 앞으로 내밀었다.
+    ja: ココアがケチャップをかけたオムライスを\n差し出した
+  d_ex_maidcafe_02_92:
+    speaker: biscuit
+    en: "*Gasp*"
+    ko: 히엑…!!!
+    ja: ひえっ…！！
+  d_ex_maidcafe_02_93:
+    speaker: "<Monologue>"
+    en: On top of the omurice is a gargantuan pile of ketchup that has nearly consumed
+      the entire dish.
+    ko: 오므라이스 위엔 과도한 케첩 양에 원래 형체를 잃어버린…
+    ja: オムライスの上には大量のケチャップで\n本来の形を失った…
+  d_ex_maidcafe_02_94:
+    speaker: "<Monologue>"
+    en: What should be a dog pattern instead appears to be...
+    ko: 마치 피를 흘리는 듯한 강아지가 그려져 있었다.
+    ja: まるで血を流しているようなイヌが描かれていた
+  d_ex_maidcafe_02_95:
+    speaker: biscuit
+    en: Erm, the dog...
+    ko: 강아지가… 강아지가…!
+    ja: ワ…ワンちゃんが…！
+  d_ex_maidcafe_02_96:
+    speaker: "<Choice>"
+    en: Appears to be suffering from a massive hemorrhage.
+    ko: 강아지가 피를 흘리고 있군.
+    ja: イヌが血を流しているな
+  d_ex_maidcafe_02_97:
+    speaker: "<Choice>"
+    en: Seems to be vomiting ketchup in gross quantities.
+    ko: 강아지가 케첩을 토해내고 있군.
+    ja: イヌがケチャップを吐き出しているな
+  d_ex_maidcafe_02_98:
+    speaker: cocoa
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_maidcafe_02_99:
+    speaker: cocoa
+    en: That's not blood, silly. It's ketchup.
+    ko: "피 아니야. \n케첩이야."
+    ja: |-
+      血じゃない。
+      ケチャップだよ。
+  d_ex_maidcafe_02_100:
+    speaker: cocoa
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_maidcafe_02_101:
+    speaker: cocoa
+    en: That's not vomit, silly. It's ketchup.
+    ko: 케첩을? 안 토했는데?
+    ja: ケチャップを？吐き出してないけど？
+  d_ex_maidcafe_02_102:
+    speaker: cocoa
+    en: Now, here you go!
+    ko: 자, 주인.
+    ja: はい、主人。
+  d_ex_maidcafe_02_103:
+    speaker: "<Monologue>"
+    en: Cocoa pushes the plate of omurice forward. It is more ketchup than rice at
+      this point.
+    ko: 코코아가 내게 케첩이 가득한 오므라이스를 내밀었다.
+    ja: ココアがケチャップたっぷりのオムライスを\n差し出した
+  d_ex_maidcafe_02_104:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_02_105:
+    speaker: biscuit
+    en: Trainer...
+    ko: 후, 훈련사님….
+    ja: く、訓練士さん…
+  d_ex_maidcafe_02_106:
+    speaker: "<Monologue>"
+    en: I lift up a spoonful of the omurice with shaking hands.
+    ko: 떨리는 손을 들어 오므라이스를 한 숟가락 퍼먹었다.
+    ja: 震える手でオムライスをすくい、口に運んだ
+  d_ex_maidcafe_02_107:
+    speaker: biscuit
+    en: "... Are you okay?"
+    ko: "…괜찮으세요?"
+    ja: "…大丈夫ですか？"
+  d_ex_maidcafe_02_108:
+    speaker: "<Self>"
+    en: Want to try some?
+    ko: 비스킷도 먹어볼래?
+    ja: ビスケットも食べてみるか？
+  d_ex_maidcafe_02_109:
+    speaker: biscuit
+    en: Oh, um... sure!
+    ko: 예…? 예!
+    ja: え…？はい！
+  d_ex_maidcafe_02_110:
+    speaker: "<Monologue>"
+    en: I somehow find a part without any ketchup and feed it to Biscuit.
+    ko: 비스킷에게 케첩이 묻지 않은 부분을 떠먹여 주었다.
+    ja: ビスケットにケチャップがついていない部分を\n食べさせてあげた
+  d_ex_maidcafe_02_111:
+    speaker: biscuit
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_maidcafe_02_112:
+    speaker: cocoa
+    en: What do you think? Pretty delicious, right?
+    ko: "어때? \n메이드 카페 맛있지?"
+    ja: |-
+      どう？
+      メイドカフェ、おいしいでしょ？
+  d_ex_maidcafe_02_113:
+    speaker: biscuit
+    en: It's fantastic!
+    ko: 와아, 정말 맛있어요!
+    ja: わあ、本当においしいです！
+  d_ex_maidcafe_02_114:
+    speaker: biscuit
+    en: You can tell you used fresh ingredients, and it's not too salty, so it's perfect
+      for me.
+    ko: |-
+      재료도 신선하고 짜지도 않아서
+      제가 먹기에 딱 좋은 거 같아요!
+    ja: |-
+      材料も新鮮で、しょっぱくなくて、
+      私が食べるのにぴったりです！
+  d_ex_maidcafe_02_115:
+    speaker: cocoa
+    en: There you have it!
+    ko: 흠흠!
+    ja: えっへん！
+  d_ex_maidcafe_02_116:
+    speaker: cocoa
+    en: That right there, is the special taste of omurice made by professional maids.
+    ko: 그 거시 바로 프로 메이드의 특제 오므라이스의 맛이야.
+    ja: それがずばり、\nプロメイドの特製オムライスの味だよ。
+  d_ex_maidcafe_02_117:
+    speaker: cocoa
+    en: Isn't that right, Master?
+    ko: 그러치 주인?
+    ja: でしょ？主人。
+  d_ex_maidcafe_02_118:
+    speaker: "<Self>"
+    en: "... Yup."
+    ko: "…응."
+    ja: "…ああ"
+  d_ex_maidcafe_02_119:
+    speaker: "<Self>"
+    en: All I can taste is ketchup...
+    ko: 케첩 맛이네….
+    ja: ケチャップの味だな…
+  d_ex_maidcafe_02_120:
+    speaker: "<Monologue>"
+    en: Biscuit and I will have to visit the Maid Cafe again when Cocoa isn't working.
+    ko: "…코코아가 없을 때 다시 한번 비스킷을 데리고 메이드 카페에 가보기로 했다."
+    ja: "…ココアがいない時に\\nもう一度ビスケットを連れて\\nメイドカフェに行くことにした"
+d_ex_maidcafe_04:
+  d_ex_maidcafe_04_1:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_04_2:
+    speaker: vesti
+    en: We-welcome.
+    ko: 어, 어서 오세요.
+    ja: い、いらっしゃいませ。
+  d_ex_maidcafe_04_3:
+    speaker: "<Self>"
+    en: Vesti?
+    ko: |-
+      ??
+      베스티?
+    ja: |-
+      ？？
+      ベスティー？
+  d_ex_maidcafe_04_4:
+    speaker: vesti
+    en: Commander?
+    ko: 지, 지휘관님?
+    ja: し、指揮官様？
+  d_ex_maidcafe_04_5:
+    speaker: "<Self>"
+    en: What are you doing in the Maid Cafe?
+    ko: 메이드 카페에서 뭐해?
+    ja: メイドカフェで何してるんだ？
+  d_ex_maidcafe_04_6:
+    speaker: vesti
+    en: I-I work here.
+    ko: 이, 일하고 있었어.
+    ja: お、お仕事だよ。
+  d_ex_maidcafe_04_7:
+    speaker: "<Self>"
+    en: You're telling me you work at the café?
+    ko: |-
+      ??
+      메이드 카페에서?
+    ja: |-
+      ？？
+      メイドカフェで？
+  d_ex_maidcafe_04_8:
+    speaker: vesti
+    en: Yeah. This place has a lot of customers,
+    ko: 으응… 메이드 카페에는 손님들이 많아서.
+    ja: うん…メイドカフェはお客さんも多いから
+  d_ex_maidcafe_04_9:
+    speaker: vesti
+    en: and I hear it's easy to talk to people and make friends.
+    ko: 친구 사귀기도 쉽고… 말도 잘할 수 있다고 해서.
+    ja: |-
+      友だちもすぐできて…
+      おしゃべりが上手になるって聞いたから。
+  d_ex_maidcafe_04_10:
+    speaker: vesti
+    en: So I asked Ade if I could work here for a day.
+    ko: 에이드한테 하루만 일하게 해달라고 부탁했어….
+    ja: エードに1日だけ働かせてほしいって頼んだの…
+  d_ex_maidcafe_04_11:
+    speaker: "<Self>"
+    en: So have you made any friends?
+    ko: 그래서 친구는 좀 사귀었어?
+    ja: それで、友だちはできたか？
+  d_ex_maidcafe_04_12:
+    speaker: vesti
+    en: Not yet...
+    ko: 아, 아니.
+    ja: う、ううん。
+  d_ex_maidcafe_04_13:
+    speaker: vesti
+    en: Actually, you're our first customer.
+    ko: "…지휘관님이 첫 번째 손님이야."
+    ja: "…指揮官様が最初のお客さんだよ。"
+  d_ex_maidcafe_04_14:
+    speaker: vesti
+    en: It's been dead today.
+    ko: 오늘따라… 손님들이 안 와.
+    ja: 今日はなぜか…お客さんが来ないの。
+  d_ex_maidcafe_04_15:
+    speaker: vesti
+    en: Cocoa and Ade went out on business, and Soda is cleaning.
+    ko: |-
+      그래서 코코아랑 에이드도 잠깐 볼일 보러 나갔고.
+      소다는 청소하고 있어.
+    ja: |-
+      それでココアとエードも出かけちゃって、
+      ソーダはお掃除してるよ。
+  d_ex_maidcafe_04_16:
+    speaker: "<Self>"
+    en: I see.
+    ko: "…그렇구나."
+    ja: "…そうか"
+  d_ex_maidcafe_04_17:
+    speaker: vesti
+    en: Actually, I think it's great that we don't have any customers.
+    ko: |-
+      …하, 한편으론
+      손님들이 안 와서 다행이라고 생각하고 있었어.
+    ja: |-
+      …で、でもお客さんが来なくて
+      よかったって思ってたんだ。
+  d_ex_maidcafe_04_18:
+    speaker: "<Self>"
+    en: Why?
+    ko: 왜?
+    ja: どうしてだ？
+  d_ex_maidcafe_04_19:
+    speaker: vesti
+    en: Because I wouldn't know what to do if we did have them.
+    ko: 손님들이 와도 아, 아무것도 못 할 것 같아서….
+    ja: お客さんが来ても、な、何もできない気がして…
+  d_ex_maidcafe_04_20:
+    speaker: vesti
+    en: Just the thought of it makes my mind go blank, and I break out in a cold sweat.
+    ko: |-
+      상상만 했는데도
+      갑자기 머릿속이 새하얘지더니 땀이 나더라고.
+    ja: |-
+      想像しただけでも頭の中が
+      真っ白になって、汗が出てきちゃう。
+  d_ex_maidcafe_04_21:
+    speaker: vesti
+    en: Maybe I should just give up...
+    ko: 그래서… 그냥 포기하고 돌아갈까 고민….
+    ja: だから…諦めて帰ろうかなって悩んでて…
+  d_ex_maidcafe_04_22:
+    speaker: "<Self>"
+    en: Let me help you.
+    ko: 내가 도와줄게.
+    ja: 私が手伝おう
+  d_ex_maidcafe_04_23:
+    speaker: vesti
+    en: C-Commander?
+    ko: 지, 지휘관님이?
+    ja: し、指揮官様が？
+  d_ex_maidcafe_04_24:
+    speaker: vesti
+    en: B-but how you plan on...
+    ko: 어떻게….
+    ja: どうやって…
+  d_ex_maidcafe_04_25:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_04_26:
+    speaker: vesti
+    en: Oh jeez, a customer!
+    ko: 소, 손님이다.
+    ja: お、お客さんだ。
+  d_ex_maidcafe_04_27:
+    speaker: "<Self>"
+    en: Just calm down and greet them.
+    ko: 우선 침착하게 인사부터 해.
+    ja: まずは落ち着いて挨拶だ
+  d_ex_maidcafe_04_28:
+    speaker: vesti
+    en: Okay...
+    ko: 으응…!
+    ja: うん…！
+  d_ex_maidcafe_04_29:
+    speaker: vesti
+    en: W-welcome!
+    ko: 어, 어서 오세요!
+    ja: い、いらっしゃいませ！
+  d_ex_maidcafe_04_30:
+    speaker: blanc
+    en: Vesti? Pit Boss?
+    ko: 베스티? 점장님?
+    ja: ベスティー？店長？
+  d_ex_maidcafe_04_31:
+    speaker: "<Self>"
+    en: Blanc?
+    ko: 블랑?
+    ja: ブラン？
+  d_ex_maidcafe_04_32:
+    speaker: blanc
+    en: Fancy meeting you two here.
+    ko: 여기서 두 분을 만나다니 럭키네요~!
+    ja: ここで2人に会えるなんてラッキーです～！
+  d_ex_maidcafe_04_33:
+    speaker: "<Monologue>"
+    en: Blanc enters the Maid Cafe, eyeballing the surroundings curiously.
+    ko: 블랑은 주위를 둘러보며 메이드 카페로 들어왔고.
+    ja: |-
+      ブランは周りを見まわしながら
+      メイドカフェに入ってきた
+  d_ex_maidcafe_04_34:
+    speaker: "<Monologue>"
+    en: 'While Blanc isn''t paying attention, I lean over to Vesti and whisper in
+      her ear:'
+    ko: 나는 그 틈을 타, 베스티에게 귓속말을 했다.
+    ja: 私はその隙にベスティーに耳打ちをした
+  d_ex_maidcafe_04_35:
+    speaker: "<Self>"
+    en: Vesti.
+    ko: 베스티.
+    ja: ベスティー
+  d_ex_maidcafe_04_36:
+    speaker: "<Self>"
+    en: Try making friends with Blanc.
+    ko: 블랑을 친구로 만들어봐.
+    ja: ブランと友だちになるんだ
+  d_ex_maidcafe_04_37:
+    speaker: vesti
+    en: With Blanc?
+    ko: "…브, 블랑을?"
+    ja: "…ブ、ブランと？"
+  d_ex_maidcafe_04_38:
+    speaker: "<Self>"
+    en: She's a customer, isn't she?
+    ko: 응. 블랑도 손님이니까.
+    ja: ああ。ブランもお客さんだから
+  d_ex_maidcafe_04_39:
+    speaker: vesti
+    en: I guess you're right...
+    ko: 아, 알겠어!
+    ja: わ、分かった！
+  d_ex_maidcafe_04_40:
+    speaker: blanc
+    en: This place is usually packed to the gills, so I always steered clear of it.
+    ko: 메이드 카페엔 손님이 많아서 올 엄두를 못 냈었는데.
+    ja: |-
+      メイドカフェはいつも混んでるから
+      来れなかったけど
+  d_ex_maidcafe_04_41:
+    speaker: blanc
+    en: Seems like today's an exception.
+    ko: 오늘은 꽤 한가하네요~!
+    ja: 今日はずいぶん空いてますね～！
+  d_ex_maidcafe_04_42:
+    speaker: blanc
+    en: Where do I order?
+    ko: 주문은 어디서 하면 되나요?
+    ja: 注文はどこでするんですか？
+  d_ex_maidcafe_04_43:
+    speaker: vesti
+    en: O-over here!
+    ko: 여, 여기서…!
+    ja: こ、こちらで…！
+  d_ex_maidcafe_04_44:
+    speaker: blanc
+    en: Huh? Since when did you start working here?
+    ko: 음? 베스티가 주문받나요?
+    ja: え？ベスティーが？
+  d_ex_maidcafe_04_45:
+    speaker: vesti
+    en: Uh... I... Well...
+    ko: 어… 저… 그게….
+    ja: えっ…そ…その…
+  d_ex_maidcafe_04_46:
+    speaker: "<Self>"
+    en: She's only here for the day.
+    ko: 일일 아르바이트래.
+    ja: 1日バイトらしい
+  d_ex_maidcafe_04_47:
+    speaker: vesti
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_04_48:
+    speaker: blanc
+    en: Fair enough. Well, what do you recommend?
+    ko: |-
+      아하~! 그렇군요~
+      음… 뭘 먹을까나.
+    ja: |-
+      なるほど～！
+      えっと…何にしようかな。
+  d_ex_maidcafe_04_49:
+    speaker: vesti
+    en: Ah...
+    ko: 아….
+    ja: あ…
+  d_ex_maidcafe_04_50:
+    speaker: vesti
+    en: Um...
+    ko: 음…….
+    ja: うーん……
+  d_ex_maidcafe_04_51:
+    speaker: "<Monologue>"
+    en: Vesti finds herself tongue-tied as Blanc peruses the menu.
+    ko: "…베스티는 메뉴를 고르고 있는 블랑 앞에서 우물쭈물하고 있다."
+    ja: |-
+      …ベスティーはメニューを選んでいる
+      ブランの前で、もじもじしている
+  d_ex_maidcafe_04_52:
+    speaker: "<Monologue>"
+    en: She'll be there all day, stammering, unless I do something.
+    ko: 이대로 가다간 아무 말도 못 하고 끝날 것 같다.
+    ja: このままでは何も言えずに終わりそうだ
+  d_ex_maidcafe_04_53:
+    speaker: "<Choice>"
+    en: Recommend something on the menu.
+    ko: 메뉴를 추천해 봐.
+    ja: おすすめメニューを教えるんだ
+  d_ex_maidcafe_04_54:
+    speaker: "<Choice>"
+    en: Ask Blanc if you can help her come to a decision.
+    ko: 무엇을 고민하고 있는지 물어봐.
+    ja: 何を悩んでいるのか聞いてみるんだ
+  d_ex_maidcafe_04_55:
+    speaker: vesti
+    en: A recommendation...
+    ko: 메, 메뉴 추천?
+    ja: お、おすすめメニュー？
+  d_ex_maidcafe_04_56:
+    speaker: vesti
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_04_57:
+    speaker: vesti
+    en: Um... can I help you with anything?
+    ko: 호, 혹시 뭘 고민하고 있는 거야?
+    ja: ね、ねえ、何を悩んでるの？
+  d_ex_maidcafe_04_58:
+    speaker: blanc
+    en: Oh, I'm just not sure whether I want a parfait or a drink.
+    ko: |-
+      아, 파르페랑 음료 중에 뭘 먹을지
+      고민하고 있었어요.
+    ja: |-
+      あ、パフェとドリンクどっちにしようか
+      悩んでたんです。
+  d_ex_maidcafe_04_59:
+    speaker: vesti
+    en: The parfait here is delicious.
+    ko: 여, 여기는 파르페가 맛있어!
+    ja: こ、ここはパフェがおいしいよ！
+  d_ex_maidcafe_04_60:
+    speaker: vesti
+    en: I personally think the strawberry ice cream is the best flavor.
+    ko: |-
+      그리고 파르페에 바닐라 아이스크림보다
+      딸기 아이스크림을 얹어 먹는 게 좋아.
+    ja: |-
+      それからバニラアイスよりイチゴアイスが
+      おすすめだよ。
+  d_ex_maidcafe_04_61:
+    speaker: vesti
+    en: Much better than the vanilla, I think.
+    ko: 여기는 딸기 아이스크림이 특히 맛있어서….
+    ja: ここはイチゴアイスが特においしいから…
+  d_ex_maidcafe_04_62:
+    speaker: vesti
+    en: Oh! And it goes wonderfully with some chocolate syrup drizzled on top.
+    ko: 아! 그리고… 초코시럽도 추가해서 먹으면 더 맛있어.
+    ja: |-
+      あっ！それから…チョコシロップも追加すると
+      もっとおいしくなるよ。
+  d_ex_maidcafe_04_63:
+    speaker: blanc
+    en: Yeah? I'll have that, then.
+    ko: 그래요? 그럼 그렇게 주세요!
+    ja: そうなんですか？じゃあそれで！
+  d_ex_maidcafe_04_64:
+    speaker: vesti
+    en: Y-you will?
+    ko: "…응? 저, 정말?"
+    ja: "…え？ほ、本当に？"
+  d_ex_maidcafe_04_65:
+    speaker: blanc
+    en: Why not? Since you give it such a glowing recommendation, I've gotta try it.
+    ko: |-
+      네에~!
+      베스티가 추천해 줬으니 그렇게 먹어봐야죠.
+    ja: |-
+      はい！
+      ベスティーのおすすめなんだから、
+      食べてみないと！
+  d_ex_maidcafe_04_66:
+    speaker: vesti
+    en: Okay! I'll have Soda start preparing your order.
+    ko: |-
+      으응…! 알겠어.
+      내가 소다한테 주문 넣고 올게!
+    ja: |-
+      うん…！分かった。
+      ソーダに伝えてくるね！
+  d_ex_maidcafe_04_67:
+    speaker: vesti
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_04_68:
+    speaker: vesti
+    en: Thanks, Commander!
+    ko: 지, 지휘관님 덕분이야!
+    ja: し、指揮官様のおかげだよ！
+  d_ex_maidcafe_04_69:
+    speaker: "<Monologue>"
+    en: Vesti whispers to me.
+    ko: 베스티는 나를 보며 작게 속삭였다.
+    ja: ベスティーは私を見て小さくささやいた
+  d_ex_maidcafe_04_70:
+    speaker: "<Narration>"
+    en: A while later.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_maidcafe_04_71:
+    speaker: vesti
+    en: Here's your parfait, enjoy.
+    ko: |-
+      주, 주문하신 파르페 나왔습니다.
+      맛있어야 할 텐데….
+    ja: |-
+      ご、ご注文のパフェ、お待たせしました。
+      口に合うといいんだけど…
+  d_ex_maidcafe_04_72:
+    speaker: blanc
+    en: Well, it certainly looks delicious. Time to dig in!
+    ko: |-
+      와, 맛있겠다!
+      잘 먹겠습니다~!
+    ja: |-
+      わあ、おいしそう！
+      いただきま～す！
+  d_ex_maidcafe_04_73:
+    speaker: blanc
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_maidcafe_04_74:
+    speaker: "<Monologue>"
+    en: Blanc takes a bite of the parfait, and her eyes widen.
+    ko: 파르페를 한 입 떠먹은 블랑의 눈은 동그랗게 커졌다.
+    ja: |-
+      ブランはパフェを1口すくって食べ、
+      目を大きく見開いた
+  d_ex_maidcafe_04_75:
+    speaker: vesti
+    en: Do you like it?
+    ko: "…호, 혹시 맛없어?"
+    ja: "…も、もしかしておいしくない？"
+  d_ex_maidcafe_04_76:
+    speaker: blanc
+    en: I love it!
+    ko: |-
+      아니요!
+      너무 맛있어요!
+    ja: |-
+      いいえ！
+      すごくおいしいです！
+  d_ex_maidcafe_04_77:
+    speaker: vesti
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_maidcafe_04_78:
+    speaker: vesti
+    en: You do?
+    ko: 저, 정말?
+    ja: ほ、本当？
+  d_ex_maidcafe_04_79:
+    speaker: blanc
+    en: Yes! In fact, this is the best parfait I've ever had.
+    ko: |-
+      네! 지금까지 먹은 파르페 중에
+      제일 맛있는 것 같아요!
+    ja: |-
+      はい！今まで食べたパフェの中で
+      一番おいしいです！
+  d_ex_maidcafe_04_80:
+    speaker: "<Self>"
+    en: No kidding?
+    ko: 그 정도야?
+    ja: そんなに？
+  d_ex_maidcafe_04_81:
+    speaker: blanc
+    en: You want a bite, Pit Boss?
+    ko: 점장님도 한번 드셔보실래요?
+    ja: 店長も食べてみますか？
+  d_ex_maidcafe_04_82:
+    speaker: "<Self>"
+    en: Sure.
+    ko: 좋아.
+    ja: ああ
+  d_ex_maidcafe_04_83:
+    speaker: "<Narration>"
+    en: I take a bite. It's...
+    ko: "…우물우물-"
+    ja: "…モグモグ"
+  d_ex_maidcafe_04_84:
+    speaker: "<Self>"
+    en: Absolutely delicious.
+    ko: |-
+      !!
+      진짜 맛있네.
+    ja: |-
+      ！！
+      本当においしいな
+  d_ex_maidcafe_04_85:
+    speaker: blanc
+    en: Told you.
+    ko: 그렇죠?
+    ja: そうでしょう？
+  d_ex_maidcafe_04_86:
+    speaker: blanc
+    en: How did you come up with this flavor combination, Vesti?
+    ko: 베스티는 어떻게 이렇게 먹게 된 거예요?
+    ja: |-
+      ベスティーはどうやって
+      この食べ方を知ったんですか？
+  d_ex_maidcafe_04_87:
+    speaker: vesti
+    en: Whenever I came here with Emma, I could never decide between strawberry or
+      chocolate.
+    ko: |-
+      아, 저번에 엠마랑 같이 왔었는데…
+      딸기랑 초코 둘 다 먹고싶은거야.
+    ja: |-
+      あ、この間エマと一緒に来たんだけど…
+      イチゴとチョコ、両方食べたかったの。
+  d_ex_maidcafe_04_88:
+    speaker: vesti
+    en: When I was deliberating, Emma told me, "Why not combine the two?".
+    ko: |-
+      그래서 고민하고 있는데 엠마가
+      어떻게든 조합하면 다 먹을 수 있지 않을까~? 라고 말해줘서.
+    ja: |-
+      それで悩んでたらエマが
+      上手く組み合わせたら両方食べられるんじゃ
+      ないかしら～？って言ってくれて。
+  d_ex_maidcafe_04_89:
+    speaker: vesti
+    en: I followed her suggestion,
+    ko: 나름대로 메뉴를 여러가지 방법으로 조합해서 주문 했거든….
+    ja: |-
+      メニューを色んな方法で組み合わせて
+      注文してみたの…
+  d_ex_maidcafe_04_90:
+    speaker: vesti
+    en: and I found it delicious!
+    ko: 근데 먹어보니 너무 맛있는거야.
+    ja: それで食べてみたらすごくおいしくて。
+  d_ex_maidcafe_04_91:
+    speaker: vesti
+    en: So I order this every time I come here.
+    ko: 그, 그래서 메이드 카페에 오면 이것만 먹어.
+    ja: |-
+      だ、だからメイドカフェに来たら
+      こればっかり食べてるよ。
+  d_ex_maidcafe_04_92:
+    speaker: blanc
+    en: They should have this on the menu. I'm gonna recommend this to Noir.
+    ko: |-
+      메뉴로 팔아도 될 정도예요!
+      다음에 누아르 언니한테도 추천해 줘야겠어요.
+    ja: |-
+      メニューとして売り出してもいいかも！
+      今度ノワールお姉ちゃんにも教えてあげなきゃ。
+  d_ex_maidcafe_04_93:
+    speaker: vesti
+    en: I'm glad you like it!
+    ko: 다, 다행이다.
+    ja: よ、よかった。
+  d_ex_maidcafe_04_94:
+    speaker: blanc
+    en: You got any other recommendations?
+    ko: 파르페 말고 또 맛있는 건 뭐가 있나요?
+    ja: パフェ以外にもおいしいものってあります？
+  d_ex_maidcafe_04_95:
+    speaker: blanc
+    en: Noir and I can try it out the next time we come here.
+    ko: 다음에 언니랑 와서 먹으려고요!
+    ja: 今度お姉ちゃんと一緒に食べたいです！
+  d_ex_maidcafe_04_96:
+    speaker: vesti
+    en: After the parfait, I think the omurice is a close second.
+    ko: 파르페 다음으로는 오므라이스가 제일 맛있긴 한데….
+    ja: オムライスもおいしいけど…
+  d_ex_maidcafe_04_97:
+    speaker: vesti
+    en: The way they prepare it is very unique.
+    ko: 오므라이스도 기본 말고….
+    ja: あ、でも普通のやつじゃなくて…
+  d_ex_maidcafe_04_98:
+    speaker: blanc
+    en: Is it the kind with the ketchup drizzled on top?
+    ko: 혹시… 특제케첩이 들어간 오므라이스요?
+    ja: もしかして…特製ケチャップ入りオムライス？
+  d_ex_maidcafe_04_99:
+    speaker: vesti
+    en: That's it!
+    ko: 으응! 맞아.
+    ja: うん！そうだよ。
+  d_ex_maidcafe_04_100:
+    speaker: blanc
+    en: I'm a sucker for that stuff.
+    ko: 저도 그거 정말 좋아해요!
+    ja: 私もそれ大好きです！
+  d_ex_maidcafe_04_101:
+    speaker: vesti
+    en: It sounds like we have similar tastes.
+    ko: 헤헤… 나랑 입맛이 비슷하네.
+    ja: えへへ…私と好みが似てるね。
+  d_ex_maidcafe_04_102:
+    speaker: blanc
+    en: Sure does. Have you ever tried fried rice, by any chance?
+    ko: 그러게요! 베스티, 그럼 볶음밥도 먹어봤어요?
+    ja: |-
+      そうですね！
+      じゃあチャーハンも食べたことあります？
+  d_ex_maidcafe_04_103:
+    speaker: vesti
+    en: No, I haven't.
+    ko: |-
+      아, 아니!
+      그건 아직 못 먹어 봤어.
+    ja: |-
+      う、ううん！
+      まだ食べたことない。
+  d_ex_maidcafe_04_104:
+    speaker: blanc
+    en: Oh man, you can't beat it. Next time...
+    ko: 그것도 진짜 맛있는데 다음에 오면….
+    ja: それもすごくおいしいから、今度来たら…
+  d_ex_maidcafe_04_105:
+    speaker: "<Monologue>"
+    en: Vesti and Blanc proceed to have a natural, free-flowing conversation.
+    ko: 베스티는 자연스럽게 블랑과 이야기해 나가기 시작했다.
+    ja: ベスティーは自然にブランと話し始めた
+  d_ex_maidcafe_04_106:
+    speaker: "<Narration>"
+    en: A few minutes later.
+    ko: "……몇분 후."
+    ja: "…数分後"
+  d_ex_maidcafe_04_107:
+    speaker: blanc
+    en: Why does it feel like someone is watching me...
+    ko: 음? 어디서 시선이 느껴진다고 했더니….
+    ja: あれ？何か視線を感じると思ったら…
+  d_ex_maidcafe_04_108:
+    speaker: blanc
+    en: Pit Boss? What are you laughing at?
+    ko: 점장님, 왜 계속 저희 보고 웃고 계세요~?
+    ja: 店長、どうして笑顔でこっち見てるんですか～？
+  d_ex_maidcafe_04_109:
+    speaker: "<Self>"
+    en: Nothing. It's just nice to see you two becoming such fast friends.
+    ko: 아… 되게 사이좋은 친구 같아서.
+    ja: いや、仲がいいなと思って
+  d_ex_maidcafe_04_110:
+    speaker: vesti
+    en: F-friends?
+    ko: 치, 친구?
+    ja: な、仲がいい？
+  d_ex_maidcafe_04_111:
+    speaker: "<Self>"
+    en: You two are chatting like a pair of old friends.
+    ko: 응. 친한 친구끼리 대화하는 것 같아.
+    ja: ああ。親友同士の会話に聞こえた
+  d_ex_maidcafe_04_112:
+    speaker: blanc
+    en: Well, if the shoe fits... let's be friends, starting today!
+    ko: |-
+      그럼 오늘부터 친구 하면 되겠다!
+      그렇죠 베스티?
+    ja: |-
+      じゃあ今日から友だちになりましょう！
+      いいですよね、ベスティー？
+  d_ex_maidcafe_04_113:
+    speaker: vesti
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_maidcafe_04_114:
+    speaker: vesti
+    en: O-okay!
+    ko: 조, 좋아!
+    ja: う、うん！
+  d_ex_maidcafe_04_115:
+    speaker: blanc
+    en: Next time, you can come to Coin Rush.
+    ko: 헤헷. 다음엔 코인 러시에 놀러 오세요!
+    ja: |-
+      えへへっ。今度コインラッシュに
+      遊びにきてください！
+  d_ex_maidcafe_04_116:
+    speaker: blanc
+    en: Noir and I will show you a good time.
+    ko: 제가 언니랑 재밌게 놀아드릴게요~!
+    ja: 私とお姉ちゃんが楽しませてあげますから～！
+  d_ex_maidcafe_04_117:
+    speaker: vesti
+    en: Sounds great!
+    ko: "…응! 알겠어!"
+    ja: "…うん！分かった！"
+  d_ex_maidcafe_04_118:
+    speaker: blanc
+    en: Well, this was fun,
+    ko: 아, 저 이제 언니가 찾을 것 같아서 이만 가봐야겠어요!
+    ja: |-
+      あ、お姉ちゃんが心配するので
+      そろそろ帰りますね！
+  d_ex_maidcafe_04_119:
+    speaker: blanc
+    en: but I've got to meet up with Noir.
+    ko: 오늘 재밌었어요!
+    ja: 今日は楽しかったです！
+  d_ex_maidcafe_04_120:
+    speaker: blanc
+    en: See you around.
+    ko: 다음에 또 봐요!
+    ja: またお会いしましょう！
+  d_ex_maidcafe_04_121:
+    speaker: "<Monologue>"
+    en: Blanc leaves the Maid Cafe in a hurry.
+    ko: 블랑은 메이드 카페를 빠르게 나섰다.
+    ja: ブランはメイドカフェを出ていった
+  d_ex_maidcafe_04_122:
+    speaker: vesti
+    en: How strange...
+    ko: "…지, 지휘관님."
+    ja: "…し、指揮官様。"
+  d_ex_maidcafe_04_123:
+    speaker: vesti
+    en: I felt like I could say whatever came to my mind in front of Blanc.
+    ko: 이, 이상하게 블랑 앞에선 하고 싶은 말이 자연스럽게 나왔어.
+    ja: |-
+      な、なぜかブランの前では言いたいことが
+      自然に言えたよ。
+  d_ex_maidcafe_04_124:
+    speaker: vesti
+    en: I think that... we can be good friends.
+    ko: 뭔가… 블랑이랑은 좋은 친구가 될 수 있을 것 같아.
+    ja: 何だか…ブランとはいい友だちになれそう。
+  d_ex_maidcafe_04_125:
+    speaker: "<Self>"
+    en: I feel the same way.
+    ko: 나도 그렇게 생각해.
+    ja: 私もそう思う
+  d_ex_maidcafe_04_126:
+    speaker: "<Monologue>"
+    en: Vesti gazes at the door of the café from which Blanc just departed, a bashful
+      smile spreading across her face.
+    ko: 베스티는 수줍게 웃으며 블랑이 나간 문을 쳐다봤다.
+    ja: |-
+      ベスティーは照れくさそうに笑いながら
+      ブランが出ていったドアを見つめた
+d_ex_maidcafe_05:
+  d_ex_maidcafe_05_1:
+    speaker: cocoa
+    en: Hmm...
+    ko: 으으음….
+    ja: うーん…
+  d_ex_maidcafe_05_2:
+    speaker: cocoa
+    en: Hmmmmmm...
+    ko: 으으으음….
+    ja: うーーん…
+  d_ex_maidcafe_05_3:
+    speaker: "<Monologue>"
+    en: Cocoa is pacing in circles, with a look of grave seriousness.
+    ko: |-
+      코코아는 심각한 표정과 함께.
+      같은 자리에서 뱅글뱅글 돌고 있다.
+    ja: |-
+      ココアが深刻そうな顔で
+      同じ場所をグルグル回っている
+  d_ex_maidcafe_05_4:
+    speaker: "<Choice>"
+    en: Is something wrong?
+    ko: 코코아, 무슨 일 있어?
+    ja: ココア、どうしたんだ？
+  d_ex_maidcafe_05_5:
+    speaker: "<Choice>"
+    en: Do you need to use the restroom?
+    ko: 혹시 화장실 가고 싶어?
+    ja: もしかしてトイレに行きたいのか？
+  d_ex_maidcafe_05_6:
+    speaker: cocoa
+    en: "... Master."
+    ko: "……주인."
+    ja: "…主人。"
+  d_ex_maidcafe_05_7:
+    speaker: cocoa
+    en: Do you really think it's appropriate to ask a lady that question?
+    ko: 그런 질문은 숙녀에게 실례야.
+    ja: そういう質問はレディーに失礼だよ。
+  d_ex_maidcafe_05_8:
+    speaker: "<Self>"
+    en: Sorry.
+    ko: 미안.
+    ja: すまない
+  d_ex_maidcafe_05_9:
+    speaker: cocoa
+    en: It's okay. I'll let it go, just this once.
+    ko: |-
+      갠차나.
+      이번 한 번은 봐주께.
+    ja: |-
+      だいじょーぶ。
+      今回は許してあげる。
+  d_ex_maidcafe_05_10:
+    speaker: "<Self>"
+    en: Is something wrong?
+    ko: 무슨 일 있어?
+    ja: 何かあったのか？
+  d_ex_maidcafe_05_11:
+    speaker: cocoa
+    en: Yes, there is.
+    ko: "…그게."
+    ja: "…それが。"
+  d_ex_maidcafe_05_12:
+    speaker: cocoa
+    en: The Boss isn't coming.
+    ko: 보스가 안 와.
+    ja: ボスが来ないの。
+  d_ex_maidcafe_05_13:
+    speaker: "<Self>"
+    en: What are you talking about?
+    ko: 보스?
+    ja: ボス？
+  d_ex_maidcafe_05_14:
+    speaker: cocoa
+    en: A couple days ago, I saw a gangster movie on TV.
+    ko: |-
+      응. 코코아.
+      며칠 전, TV에서 마피아 영화를 봤거든.
+    ja: |-
+      うん。ココア、数日前に、
+      TVでマフィア映画を見た。
+  d_ex_maidcafe_05_15:
+    speaker: cocoa
+    en: There was a big mafia don in the movie, and she was super cool.
+    ko: 영화 속 주인공인 보스가 진짜 머싯었는데.
+    ja: 映画の主人公のボスがすごくかっこよかったよ。
+  d_ex_maidcafe_05_16:
+    speaker: cocoa
+    en: Yesterday, I was at the park, and I saw someone who reminded me of the actress
+      in the movie.
+    ko: |-
+      어제 공원에서
+      영화 속 주인공과 똑같이 생긴 사람을 봐써.
+    ja: |-
+      昨日公園で映画の主人公と
+      同じ人を見た。
+  d_ex_maidcafe_05_17:
+    speaker: cocoa
+    en: There wasn't much of a physical resemblance, but it was more in the way she
+      carried herself.
+    ko: 겉모습은 달랐지만, 하는 행동도 똑같았고.
+    ja: 見た目は違ったけど、行動も同じだったし
+  d_ex_maidcafe_05_18:
+    speaker: cocoa
+    en: There was a crowd of people around her, and she talked just like the don in
+      the movie.
+    ko: |-
+      주변에 사람도 우글우글.
+      대사도 똑같아써.
+    ja: |-
+      周りに人もたくさん。
+      セリフも同じだったよ。
+  d_ex_maidcafe_05_19:
+    speaker: "<Self>"
+    en: For example?
+    ko: 뭐라고 했는데?
+    ja: 何て言ってたんだ？
+  d_ex_maidcafe_05_20:
+    speaker: cocoa
+    en: One thing she said that stuck out was, "We're all hyenas, hungry for a piece
+      of the pie."
+    ko: |-
+      우린 배고픈 하이에나 들이야.
+      라고.
+    ja: |-
+      あたしたちは飢えたハイエナだ。
+      って。
+  d_ex_maidcafe_05_21:
+    speaker: cocoa
+    en: So I wrote a note and handed it to her.
+    ko: |-
+      그래서 코코아.
+      보스에게 재빨리 쪽지를 써서 줬지.
+    ja: |-
+      それでココア、ボスに素早く
+      メモを書いて渡したの。
+  d_ex_maidcafe_05_22:
+    speaker: "<Self>"
+    en: Are you sure it wasn't dangerous doing that?
+    ko: |-
+      ?!
+      위험했던 상황 아니야?
+    ja: |-
+      ！？
+      危険な状況だったんじゃないか？
+  d_ex_maidcafe_05_23:
+    speaker: cocoa
+    en: Nah, they were just filming for a movie.
+    ko: "아니야. \n영화 촬영 중인 거 같았거든."
+    ja: |-
+      ううん。
+      映画の撮影中みたいだったから。
+  d_ex_maidcafe_05_24:
+    speaker: cocoa
+    en: It wasn't real. Even I can tell the difference.
+    ko: 코코아 그 정도쯤은 눈치껏 알아챌 수 이써.
+    ja: ココア、それくらいは空気読めるよ。
+  d_ex_maidcafe_05_25:
+    speaker: "<Self>"
+    en: Well, if that's the case, that's a relief.
+    ko: "…그런 거였다면 다행인데."
+    ja: "…それならいいが"
+  d_ex_maidcafe_05_26:
+    speaker: "<Self>"
+    en: What did you write on the note?
+    ko: 쪽지엔 뭐라고 적었어?
+    ja: メモには何て書いたんだ？
+  d_ex_maidcafe_05_27:
+    speaker: cocoa
+    en: I said if she's hungry, then she should come to the Maid Cafe.
+    ko: 배고픈 거 가타서 메이드 카페에 와달라고 해써.
+    ja: |-
+      お腹空いてるみたいだったから
+      メイドカフェに来てって書いたよ。
+  d_ex_maidcafe_05_28:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_05_29:
+    speaker: cocoa
+    en: I asked the person beside her to pass it on.
+    ko: 보스 옆에 있는 사람한테 전해달라고 했지.
+    ja: ボスの隣にいる人に頼んできた。
+  d_ex_maidcafe_05_30:
+    speaker: cocoa
+    en: But it doesn't look like she's coming.
+    ko: "…근데 안 와."
+    ja: "…でも来ないの。"
+  d_ex_maidcafe_05_31:
+    speaker: cocoa
+    en: Maybe she never saw my note.
+    ko: 코코아의 쪽지… 못 본 걸까.
+    ja: ココアのメモ…見てないのかな。
+  d_ex_maidcafe_05_32:
+    speaker: "<Choice>"
+    en: Maybe she's busy?
+    ko: 바쁜 거 아닐까?
+    ja: 忙しいんじゃないか？
+  d_ex_maidcafe_05_33:
+    speaker: "<Choice>"
+    en: I don't think she meant "hungry" literally...
+    ko: 배가 별로 안 고픈 거 같은데.
+    ja: お腹が空いてたわけではないと思うが
+  d_ex_maidcafe_05_34:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_05_35:
+    speaker: "<Monologue>"
+    en: Cocoa seems crestfallen. I need to console her, fast.
+    ko: |-
+      코코아의 표정이 시무룩해졌다.
+      얼른 수습해 줘야….
+    ja: |-
+      ココアは落ち込んでしまった。
+      なんとかしなければ…
+  d_ex_maidcafe_05_36:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_05_37:
+    speaker: rosanna
+    en: Where's the person who gave me this note?
+    ko: 나한테 이 쪽지 보낸 사람이 누구지?
+    ja: あたしにこのメモを渡したのは誰？
+  d_ex_maidcafe_05_38:
+    speaker: "<Self>"
+    en: Rosanna?
+    ko: |-
+      ??
+      로산나?
+    ja: |-
+      ？？
+      ロザンナ？
+  d_ex_maidcafe_05_39:
+    speaker: rosanna
+    en: Mister? I didn't know you'd be here.
+    ko: 오~? 미스터가 여기에 있을 줄은….
+    ja: あれ？なんでミスターがここに…
+  d_ex_maidcafe_05_40:
+    speaker: cocoa
+    en: Gasp!
+    ko: "…헛!"
+    ja: "…はっ！"
+  d_ex_maidcafe_05_41:
+    speaker: cocoa
+    en: It's the boss!
+    ko: 보스다!
+    ja: ボスだ！
+  d_ex_maidcafe_05_42:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_maidcafe_05_43:
+    speaker: "<Self>"
+    en: You were talking about Rosanna?
+    ko: 로산나가?
+    ja: ロザンナが？
+  d_ex_maidcafe_05_44:
+    speaker: cocoa
+    en: Yeah, she's the one I saw in the park.
+    ko: |-
+      응. 마자.
+      내가 공원에서 본 멋진 보스…!
+    ja: |-
+      そーだよ。
+      公園で見たかっこいいボス…！
+  d_ex_maidcafe_05_45:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_05_46:
+    speaker: "<Monologue>"
+    en: I don't think what Cocoa saw was from a movie set...
+    ko: 그럼 코코아가 본 건 촬영 현장이 아닌 것 같은데….
+    ja: |-
+      じゃあココアが見たのは
+      撮影現場ではないと思うが…
+  d_ex_maidcafe_05_47:
+    speaker: "<Monologue>"
+    en: Best I keep that to myself for the moment.
+    ko: "…일단 조용히 있자."
+    ja: "…とりあえず黙っていよう"
+  d_ex_maidcafe_05_48:
+    speaker: rosanna
+    en: What the...
+    ko: "…하?"
+    ja: "…ハァ？"
+  d_ex_maidcafe_05_49:
+    speaker: rosanna
+    en: I thought they were pulling my leg, but some snot-nosed little kid really
+      did give me this note?
+    ko: |-
+      이 쪽지를 어떤 꼬맹이가 줬다고 하더니
+      진짜로 꼬맹이가 보낸 게 맞네.
+    ja: |-
+      ちびっ子にメモを渡されたって言ってたけど
+      マジでちびっ子だったんだね？
+  d_ex_maidcafe_05_50:
+    speaker: cocoa
+    en: Boss.
+    ko: 보스.
+    ja: ボス。
+  d_ex_maidcafe_05_51:
+    speaker: cocoa
+    en: So you saw my note?
+    ko: 코코아가 쓴 쪽지를 보고 와준 거야?
+    ja: ココアが書いたメモを見て、来てくれたの？
+  d_ex_maidcafe_05_52:
+    speaker: "<Narration>"
+    en: "*Stare*"
+    ko: 지긋-
+    ja: ジーッ…
+  d_ex_maidcafe_05_53:
+    speaker: "<Monologue>"
+    en: Cocoa fixes her eyes on Rosanna.
+    ko: 코코아는 로산나를 뚫어지게 쳐다봤다.
+    ja: ココアはロザンナを穴が空きそうなほど見つめた
+  d_ex_maidcafe_05_54:
+    speaker: rosanna
+    en: "... Right. I came here because of your note."
+    ko: "…그래. 네 쪽지 때문에 온 거야."
+    ja: "…そうだよ。メモを見て来たの。"
+  d_ex_maidcafe_05_55:
+    speaker: cocoa
+    en: Wowzer!
+    ko: "…헛!"
+    ja: "…はっ！"
+  d_ex_maidcafe_05_56:
+    speaker: cocoa
+    en: I-it's...
+    ko: 코코아.
+    ja: ココア。
+  d_ex_maidcafe_05_57:
+    speaker: cocoa
+    en: An hon... hon...
+    ko: 가문의… 가문의…!
+    ja: 一族の…一族の…！
+  d_ex_maidcafe_05_58:
+    speaker: "<Self>"
+    en: It's an honor.
+    ko: 영광이야.
+    ja: 誉れだ
+  d_ex_maidcafe_05_59:
+    speaker: cocoa
+    en: Yeah, that's it. That's it.
+    ko: |-
+      응. 그래.
+      그거야.
+    ja: |-
+      うん。そう。
+      それだよ。
+  d_ex_maidcafe_05_60:
+    speaker: rosanna
+    en: Well, now that I've figured out who sent this infernal thing, I'm outta here.
+    ko: |-
+      뭐, 이제 누가 보낸 건지
+      확인했으니 난 이만….
+    ja: |-
+      誰が渡してきたのかは分かったから、
+      あたしはこれで…
+  d_ex_maidcafe_05_61:
+    speaker: cocoa
+    en: Wait!
+    ko: 잠깐!
+    ja: ちょっと待った！
+  d_ex_maidcafe_05_62:
+    speaker: cocoa
+    en: Boss.
+    ko: 보스.
+    ja: ボス。
+  d_ex_maidcafe_05_63:
+    speaker: cocoa
+    en: Are you not hungry anymore?
+    ko: 배고픈 건 갠차나?
+    ja: お腹ぺこぺこじゃない？
+  d_ex_maidcafe_05_64:
+    speaker: cocoa
+    en: If you're still hungry, I can make you something to eat before you go.
+    ko: |-
+      아직도 배가 고프다면.
+      코코아의 음식을 먹고 가조.
+    ja: |-
+      まだお腹空いてるなら、
+      ココアの料理を食べていって。
+  d_ex_maidcafe_05_65:
+    speaker: rosanna
+    en: Huh?
+    ko: 허?
+    ja: ハァ？
+  d_ex_maidcafe_05_66:
+    speaker: rosanna
+    en: What are you...
+    ko: 그게 무슨….
+    ja: それはどういう…
+  d_ex_maidcafe_05_67:
+    speaker: "<Narration>"
+    en: "*Stare*"
+    ko: 지긋-
+    ja: ジーッ…
+  d_ex_maidcafe_05_68:
+    speaker: "<Monologue>"
+    en: Cocoa looks at Rosanna with her puppy-dog eyes.
+    ko: 코코아는 로산나를 뚫어지게 쳐다봤다.
+    ja: ココアはロザンナを穴が空きそうなほど見つめた
+  d_ex_maidcafe_05_69:
+    speaker: rosanna
+    en: Fine. Just make it quick.
+    ko: |-
+      그래.
+      뭐라도 빨리 가져와 봐.
+    ja: |-
+      ハイハイ。じゃあ、
+      何でもいいから早く持ってきて。
+  d_ex_maidcafe_05_70:
+    speaker: cocoa
+    en: Yes, ma'am! Right away!
+    ko: |-
+      예써!
+      조금만 기다려조!
+    ja: |-
+      イエッサー！
+      ちょっと待ってて！
+  d_ex_maidcafe_05_71:
+    speaker: "<Monologue>"
+    en: Cocoa hustles off to the kitchen.
+    ko: 코코아는 주방으로 빠르게 달려갔다.
+    ja: ココアはキッチンに走っていった
+  d_ex_maidcafe_05_72:
+    speaker: "<Choice>"
+    en: You're being awfully friendly.
+    ko: 로산나는 꽤 상냥하네?
+    ja: 対応が優しいな
+  d_ex_maidcafe_05_73:
+    speaker: "<Choice>"
+    en: You're being awfully congenial.
+    ko: 로산나는 꽤 따뜻하네?
+    ja: 対応が温かいな
+  d_ex_maidcafe_05_74:
+    speaker: rosanna
+    en: What of it? Can't I be agreeable once in a while?
+    ko: 어때, 반전 매력이지?
+    ja: どう？ギャップに惚れちゃった？
+  d_ex_maidcafe_05_75:
+    speaker: rosanna
+    en: Am I starting to win you over?
+    ko: 미스터, 나한테 반한 거야?
+    ja: ミスター、あたしに惚れちゃった？
+  d_ex_maidcafe_05_76:
+    speaker: "<Self>"
+    en: It's just unexpected, that's all.
+    ko: 좀 의외긴 해.
+    ja: 少し意外ではある
+  d_ex_maidcafe_05_77:
+    speaker: rosanna
+    en: Haha. Yeah?
+    ko: 하하. 그래?
+    ja: アハハ、そう？
+  d_ex_maidcafe_05_78:
+    speaker: rosanna
+    en: Did you consider me a heartless person before this?
+    ko: 미스터는 나를 피도 눈물도 없는 사람으로 봤나 봐?
+    ja: |-
+      あたしのこと血も涙もない人間だと
+      思ってたでしょ？
+  d_ex_maidcafe_05_79:
+    speaker: rosanna
+    en: There's no need to be overtly cruel to a child. Even I know that.
+    ko: |-
+      뭐, 꼬맹이에게까지
+      차갑고 냉정할 필요는 없으니까.
+    ja: |-
+      まあ、ちびっ子にまで
+      冷たくする必要はないからね。
+  d_ex_maidcafe_05_80:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_maidcafe_05_81:
+    speaker: cocoa
+    en: Here you go, Boss! Cocoa's Special Omurice!
+    ko: |-
+      자! 보스!
+      코코아의 특제 오므라이스야!
+    ja: |-
+      はい！ボス！
+      ココアの特製オムライスだよ！
+  d_ex_maidcafe_05_82:
+    speaker: "<Monologue>"
+    en: Cocoa brings out a delicious plate of omurice.
+    ko: 코코아는 맛있어 보이는 오므라이스를 하나 가져왔고.
+    ja: ココアはおいしそうなオムライスを持ってきた
+  d_ex_maidcafe_05_83:
+    speaker: "<Monologue>"
+    en: There are squiggly drawings of a gun and a rose on top.
+    ko: 오므라이스 위에는 삐뚤빼뚤하게 총과 장미가 그려져 있었다.
+    ja: |-
+      オムライスの上にはクネクネの
+      銃とバラが描かれていた
+  d_ex_maidcafe_05_84:
+    speaker: cocoa
+    en: I drew some of the stuff I've seen on your body.
+    ko: 이건 보스 몸에 있는 걸 그려써.
+    ja: これはボスの体にあるのを描いたよ。
+  d_ex_maidcafe_05_85:
+    speaker: cocoa
+    en: What do you think?
+    ko: 어때.
+    ja: どう？
+  d_ex_maidcafe_05_86:
+    speaker: rosanna
+    en: "... A fine job."
+    ko: "……잘 그렸네."
+    ja: "…よく描けてるね。"
+  d_ex_maidcafe_05_87:
+    speaker: cocoa
+    en: Hehe!
+    ko: 후훗.
+    ja: フフッ。
+  d_ex_maidcafe_05_88:
+    speaker: cocoa
+    en: I invited you here for some omurice
+    ko: |-
+      코코아.
+      보스에게 오므라이스를 주고 시퍼서 메이드카페에 초대 한 거야.
+    ja: |-
+      ココア、ボスにオムライスを食べさせて
+      あげたくて、メイドカフェに招待したんだよ。
+  d_ex_maidcafe_05_89:
+    speaker: cocoa
+    en: because you seemed really hungry before.
+    ko: 배가 마니 고파보였거든.
+    ja: すごくお腹が空いてるみたいだったから。
+  d_ex_maidcafe_05_90:
+    speaker: rosanna
+    en: "... I did?"
+    ko: "…내가?"
+    ja: "…あたしが？"
+  d_ex_maidcafe_05_91:
+    speaker: cocoa
+    en: I also wanna know how to be cool like you.
+    ko: 그리고 나도 보스처럼 멋있는 사람이 되고시퍼.
+    ja: |-
+      ココアもボスみたいに
+      かっこいい人になりたい。
+  d_ex_maidcafe_05_92:
+    speaker: cocoa
+    en: What should I do?
+    ko: 그럼 어떻게 해야 해?
+    ja: どうすればいい？
+  d_ex_maidcafe_05_93:
+    speaker: rosanna
+    en: Let me think...
+    ko: 별거 없어.
+    ja: 大したことじゃないよ。
+  d_ex_maidcafe_05_94:
+    speaker: rosanna
+    en: 'Just remember this one thing:'
+    ko: |-
+      눈에는 눈.
+      이에는 이.
+    ja: |-
+      目には目を。
+      歯には歯を。
+  d_ex_maidcafe_05_95:
+    speaker: rosanna
+    en: An eye for an eye.
+    ko: 이것만 기억해.
+    ja: これだけは忘れないで。
+  d_ex_maidcafe_05_96:
+    speaker: cocoa
+    en: Whoa! Okay! But... erm... what does that mean?
+    ko: |-
+      오오…! 근데 무슨 뜻이지?
+      일단 알게…!
+    ja: |-
+      おお…！でもどういう意味？
+      とりあえず覚えておくね…！
+  d_ex_maidcafe_05_97:
+    speaker: rosanna
+    en: Just a second.
+    ko: 잠깐.
+    ja: 待って。
+  d_ex_maidcafe_05_98:
+    speaker: rosanna
+    en: Mister.
+    ko: 미스터.
+    ja: ミスター。
+  d_ex_maidcafe_05_99:
+    speaker: rosanna
+    en: Give this squirt a hug.
+    ko: 저 꼬맹이 감싸 안아.
+    ja: このちびっ子を守って。
+  d_ex_maidcafe_05_100:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_maidcafe_05_101:
+    speaker: rosanna
+    en: Hurry!
+    ko: 빨리!
+    ja: 早く！
+  d_ex_maidcafe_05_102:
+    speaker: "<Narration>"
+    en: |-
+      *Grab*
+      *Crashhh*
+    ko: |-
+      휙-!
+      와장창-!
+    ja: |-
+      バッ！
+      ガシャーンッ！
+  d_ex_maidcafe_05_103:
+    speaker: "<Monologue>"
+    en: The moment I wrap my arms around Cocoa, Rosanna stands in front of us.
+    ko: |-
+      내가 코코아를 감싸 안는 순간,
+      로산나는 우리 앞을 가로막았고.
+    ja: |-
+      私がココアを抱き抱えた瞬間、
+      ロザンナは私たちの前に飛び出した
+  d_ex_maidcafe_05_104:
+    speaker: "<Monologue>"
+    en: Suddenly, the cafe window shatters.
+    ko: |-
+      누군가가 창문으로 향해 돌을 던진 건지.
+      카페의 유리창이 산산조각 나있었다.
+    ja: |-
+      誰かが窓に向かって石を投げたのか
+      カフェの窓が粉々になっていた
+  d_ex_maidcafe_05_105:
+    speaker: rosanna
+    en: Damn...
+    ko: 쯧.
+    ja: チッ。
+  d_ex_maidcafe_05_106:
+    speaker: rosanna
+    en: they're getting away.
+    ko: 도망갔군.
+    ja: 逃げられた。
+  d_ex_maidcafe_05_107:
+    speaker: rosanna
+    en: I thought I felt some eyes on us.
+    ko: 어쩐지 이곳에 올 때부터 시선이 느껴지더니.
+    ja: |-
+      どうりでここに来た時から
+      視線を感じると思ったよ。
+  d_ex_maidcafe_05_108:
+    speaker: rosanna
+    en: I need to go and take care of those punks.
+    ko: 얼른 찾아서 반 죽여 놔야….
+    ja: 早く見つけて半殺しに…
+  d_ex_maidcafe_05_109:
+    speaker: cocoa
+    en: That... was awesome!!
+    ko: 우오오오옷-!!!
+    ja: うおおおおおっ！！
+  d_ex_maidcafe_05_110:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_maidcafe_05_111:
+    speaker: rosanna
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_maidcafe_05_112:
+    speaker: "<Monologue>"
+    en: Cocoa pokes her head out from between my arms and stares at Rosanna.
+    ko: "…코코아는 내 품에서 고개를 내민 채로, 로산나를 보고 있었다."
+    ja: |-
+      …ココアは私の胸から顔を出して、
+      ロザンナを見ていた
+  d_ex_maidcafe_05_113:
+    speaker: cocoa
+    en: This is just like...
+    ko: 이 장면….
+    ja: このシーン…
+  d_ex_maidcafe_05_114:
+    speaker: cocoa
+    en: the movie I saw on TV!
+    ko: 영화에서 봐써.
+    ja: 映画で見た。
+  d_ex_maidcafe_05_115:
+    speaker: cocoa
+    en: The mafia don protecting his subordinates from the bad guys...
+    ko: 악당에게서 우리를 지켜주는 보스…!
+    ja: 悪者から守ってくれるボス…！
+  d_ex_maidcafe_05_116:
+    speaker: cocoa
+    en: Are we filming a movie right now?
+    ko: |-
+      주인!
+      이것도 영화 촬영인 거지.
+    ja: |-
+      主人！
+      これも映画の撮影でしょ？
+  d_ex_maidcafe_05_117:
+    speaker: "<Self>"
+    en: Yeah... sure.
+    ko: "…음."
+    ja: "…うーん"
+  d_ex_maidcafe_05_118:
+    speaker: rosanna
+    en: Yeah... we're shooting a movie.
+    ko: |-
+      응. 맞아.
+      영화 촬영이야.
+    ja: |-
+      うん、そうだよ。
+      映画の撮影。
+  d_ex_maidcafe_05_119:
+    speaker: cocoa
+    en: Wow! So cool!
+    ko: 우오옷… 짱 머시써.
+    ja: うおおっ…かっこよすぎる。
+  d_ex_maidcafe_05_120:
+    speaker: "<Monologue>"
+    en: Cocoa runs in front of Rosanna.
+    ko: 코코아는 로산나 앞으로 달려갔다.
+    ja: ココアはロザンナの元に走っていった
+  d_ex_maidcafe_05_121:
+    speaker: cocoa
+    en: I've always dreamt of being like you.
+    ko: |-
+      코코아.
+      꿈이 생겨써.
+    ja: |-
+      ココア。
+      夢ができた。
+  d_ex_maidcafe_05_122:
+    speaker: cocoa
+    en: Someone who's super cool and protects others from the bad guys.
+    ko: |-
+      보스처럼 악당을 물리치고
+      누군가를 지켜주는 머싯는 사람이 될 거야.
+    ja: |-
+      ボスみたいに悪者を倒して
+      誰かを守るかっこいい人になる。
+  d_ex_maidcafe_05_123:
+    speaker: cocoa
+    en: I've got a cool weapon like you too. Say hi to Cocorella.
+    ko: |-
+      나도 보스같이 멋있는 무기도 있거든.
+      코코렐라.
+    ja: |-
+      私もボスみたいなかっこいい武器もあるよ。
+      ココレラ。
+  d_ex_maidcafe_05_124:
+    speaker: rosanna
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_05_125:
+    speaker: "<Monologue>"
+    en: Rosanna regards Cocoa with an intense curiosity,
+    ko: 로산나는 코코아를 빤히 내려다봤고.
+    ja: ロザンナはココアをじっと見つめ
+  d_ex_maidcafe_05_126:
+    speaker: "<Monologue>"
+    en: then pats her on the head.
+    ko: 이내 코코아의 머리를 쓰다듬었다.
+    ja: ココアの頭をなでてあげた
+  d_ex_maidcafe_05_127:
+    speaker: cocoa
+    en: Ohmygosh, ohmygosh!
+    ko: 오옷…!
+    ja: おおっ…！
+  d_ex_maidcafe_05_128:
+    speaker: cocoa
+    en: I can't believe the boss touched me! This is the best day of my life!
+    ko: 보스의 쓰다듬!
+    ja: ボスのナデナデ！
+  d_ex_maidcafe_05_129:
+    speaker: rosanna
+    en: If you want to be as cool as me, you've got your work cut out for you.
+    ko: 근데 나처럼 멋있는 보스는 되기 힘들걸?
+    ja: |-
+      でもあたしみたいにかっこいいボスになるのは
+      大変だよ？
+  d_ex_maidcafe_05_130:
+    speaker: cocoa
+    en: I can do it! When I become a big boss like you, I'll come find you.
+    ko: |-
+      아니야. 코코아, 될 수 이써.
+      꼭 보스처럼 멋있는 사람 돼서 찾아갈게.
+    ja: |-
+      ううん。ココア、なれる。
+      ボスみたいにかっこいい人になって
+      会いに行くから。
+  d_ex_maidcafe_05_131:
+    speaker: cocoa
+    en: And I'll bring Cocorella with me.
+    ko: 코코렐라와 함께.
+    ja: ココレラと一緒に。
+  d_ex_maidcafe_05_132:
+    speaker: rosanna
+    en: Sounds good. Well, I better go capture those bad guys.
+    ko: 그래. 그럼 보스는 이만 못된 악당을 잡으러 가야겠네.
+    ja: 分かった。じゃあボスは悪者を捕まえに行くね。
+  d_ex_maidcafe_05_133:
+    speaker: cocoa
+    en: Sure thing! Go get 'em, Boss!
+    ko: |-
+      응, 보스!
+      다 쓸어버리고 오는 거야!
+    ja: |-
+      うん、ボス！
+      全部倒してきてね！
+  d_ex_maidcafe_05_134:
+    speaker: rosanna
+    en: I'll leave this place to you, Mister.
+    ko: "…미스터 뒤처리를 부탁하지."
+    ja: "…ミスター、あとはお願いね。"
+  d_ex_maidcafe_05_135:
+    speaker: "<Self>"
+    en: You got it.
+    ko: 알겠어.
+    ja: 分かった
+  d_ex_maidcafe_05_136:
+    speaker: cocoa
+    en: Later, Boss!
+    ko: 잘 가, 보스!
+    ja: バイバイ、ボス！
+  d_ex_maidcafe_05_137:
+    speaker: "<Monologue>"
+    en: Rosanna smiles brightly at Cocoa as she leaves the Maid Cafe.
+    ko: 로산나는 코코아에게 싱긋 웃어주곤 메이드 카페를 나갔다.
+    ja: |-
+      ロザンナはココアににっこりと笑いかけて
+      メイドカフェを出た
+  d_ex_maidcafe_05_138:
+    speaker: cocoa
+    en: Isn't she the coolest?!
+    ko: 보스… 완전 착하고 머싯어!
+    ja: ボス…すごく優しくてかっこいい！
+  d_ex_maidcafe_05_139:
+    speaker: "<Self>"
+    en: That she is... what an unexpected turn of events.
+    ko: |-
+      …그러게.
+      의외네.
+    ja: |-
+      …そうだな。
+      意外だった
+  d_ex_maidcafe_05_140:
+    speaker: "<Monologue>"
+    en: Although the Maid Cafe is in shambles, Cocoa is beaming with joy.
+    ko: |-
+      …비록 메이드 카페는 엉망이 됐지만,
+      코코아의 눈은 반짝거리고 있었다.
+    ja: |-
+      …メイドカフェはめちゃくちゃになったが
+      ココアの目は輝いていた
+d_ex_maidcafe_06:
+  d_ex_maidcafe_06_1:
+    speaker: Narration
+    en: "*Ding*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_06_2:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_3:
+    speaker: Self
+    en: I don't see anyone.
+    ko: 아무도 안 보이네.
+    ja: 誰もいないな
+  d_ex_maidcafe_06_4:
+    speaker: marciana
+    en: I think I should head back.
+    ko: 지휘관님… 제가 생각해 봤는데 역시 전 돌아가는 편이….
+    ja: |-
+      指揮官様…考えたのですが、
+      やっぱり私は帰りま…
+  d_ex_maidcafe_06_5:
+    speaker: Narration
+    en: "*Taptaptap*"
+    ko: 두다다다-!!
+    ja: タタタタ…！！
+  d_ex_maidcafe_06_6:
+    speaker: cocoa
+    en: Hey, Master!
+    ko: 주인 왔구나!
+    ja: 主人、来たんだ！
+  d_ex_maidcafe_06_7:
+    speaker: marciana
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  d_ex_maidcafe_06_8:
+    speaker: cocoa
+    en: Welcome, Marciana.
+    ko: 마르차나도 잘 와써.
+    ja: マルチャーナも、よーこそ。
+  d_ex_maidcafe_06_9:
+    speaker: Self
+    en: Are you ready, Cocoa?
+    ko: 준비됐어, 코코아?
+    ja: ココア、準備はいいか？
+  d_ex_maidcafe_06_10:
+    speaker: cocoa
+    en: I was born ready.
+    ko: 물론이지, 주인.
+    ja: もちろんだよ、主人。
+  d_ex_maidcafe_06_11:
+    speaker: marciana
+    en: What's going on here?
+    ko: "……?"
+    ja: "……？"
+  d_ex_maidcafe_06_12:
+    speaker: cocoa
+    en: I'll definitely cheer you up, Marciana.
+    ko: 마르차나의 우울한 기분은 코코아가 책임지께.
+    ja: |-
+      マルチャーナの憂うつな気分は、
+      ココアが晴らしてあげるよ。
+  d_ex_maidcafe_06_13:
+    speaker: cocoa
+    en: I received a message from Master, and I prepared a magical special course
+      just for you.
+    ko: 주인 연락받고 마법의 츄 코스로 준비해써.
+    ja: |-
+      主人から連絡をもらって、
+      魔法のチューコースで準備したよ。
+  d_ex_maidcafe_06_14:
+    speaker: marciana
+    en: You did?
+    ko: 코스 말입니까?
+    ja: コースですか？
+  d_ex_maidcafe_06_15:
+    speaker: marciana
+    en: You didn't have to do all that...
+    ko: 그렇게까지 안 해주셔도….
+    ja: そこまでしなくても…
+  d_ex_maidcafe_06_16:
+    speaker: cocoa
+    en: Of course I have to! I've got to treat you to the best service, and nothing
+      less.
+    ko: 안대. 코코아, 채고의 서비스로 모실께.
+    ja: |-
+      ダメ。ココア、
+      サイコーのサービスでおもてなしする。
+  d_ex_maidcafe_06_17:
+    speaker: Monologue
+    en: Cocoa turns and strides confidently into the kitchen.
+    ko: 그렇게 코코아는 주방으로 위풍당당하게 걸어갔다.
+    ja: |-
+      ココアはそう言って、
+      威風堂々とキッチンへ歩いていった
+  d_ex_maidcafe_06_18:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_19:
+    speaker: "<Choice>"
+    en: Are you excited?
+    ko: 어때, 기대돼?
+    ja: 楽しみだろう？
+  d_ex_maidcafe_06_20:
+    speaker: "<Choice>"
+    en: If you're feeling uncomfortable, just let me know.
+    ko: 혹시 불편하면 말해줘도 돼.
+    ja: もし嫌だったら言ってくれ
+  d_ex_maidcafe_06_21:
+    speaker: marciana
+    en: Of course I am, but...
+    ko: 물론 기대는 되지만….
+    ja: もちろん、楽しみではありますが…
+  d_ex_maidcafe_06_22:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_23:
+    speaker: marciana
+    en: I feel bad for making things difficult for everyone just because of my bad
+      mood.
+    ko: |-
+      제 기분이 좋지 않다는 이유만으로
+      모두에게 폐를 끼치는 것 같아 죄송하네요.
+    ja: |-
+      私が落ち込んでいるという理由だけで
+      みなさんに迷惑をかけているようで、
+      申し訳ないです。
+  d_ex_maidcafe_06_24:
+    speaker: marciana
+    en: That's not it.
+    ko: 그런 건 아닙니다.
+    ja: そういうわけではありません。
+  d_ex_maidcafe_06_25:
+    speaker: marciana
+    en: I feel I've been causing trouble for so many people just because of my bad
+      mood.
+    ko: |-
+      단지 제 기분이 좋지 않다는 이유만으로
+      모두에게 폐를 끼치는 것 같아서요.
+    ja: |-
+      ただ、私が落ち込んでいるという理由だけで
+      みなさんに迷惑をかけているような気がして…
+  d_ex_maidcafe_06_26:
+    speaker: marciana
+    en: I'm not sure if I can enjoy this...
+    ko: "…온전히 즐겨도 될지…."
+    ja: "…心から楽しんでもいいものか…"
+  d_ex_maidcafe_06_27:
+    speaker: Self
+    en: Don't feel like you have to put on an act. Just be natural.
+    ko: 마르차나가 편한 대로 하면 돼.
+    ja: マルチャーナがしたいようにすればいい
+  d_ex_maidcafe_06_28:
+    speaker: marciana
+    en: "... All right."
+    ko: "…노력해 보겠습니다."
+    ja: "…努力してみます。"
+  d_ex_maidcafe_06_29:
+    speaker: cocoa
+    en: Here's the magical appetizer!
+    ko: 코코아, 마법의 애피타이저 갖고 돌아와써.
+    ja: ココア、魔法のアペタイザー持ってきた。
+  d_ex_maidcafe_06_30:
+    speaker: cocoa
+    en: Here's your bling bling teddy bear salad.
+    ko: 블링블링♪ 곰돌이 샐러드.
+    ja: キラキラ♪クマさんサラダ。
+  d_ex_maidcafe_06_31:
+    speaker: marciana
+    en: "...!?"
+    ko: "……!?"
+    ja: "……！？"
+  d_ex_maidcafe_06_32:
+    speaker: Self
+    en: It looks delicious.
+    ko: 맛있어 보이네.
+    ja: おいしそうだな
+  d_ex_maidcafe_06_33:
+    speaker: marciana
+    en: So... can I start eating?
+    ko: "…그럼, 이제 식사하면 되는 겁니까?"
+    ja: "…では、食事を始めればいいのですか？"
+  d_ex_maidcafe_06_34:
+    speaker: cocoa
+    en: Just a second!
+    ko: 잠깐!
+    ja: ちょっと待った！
+  d_ex_maidcafe_06_35:
+    speaker: cocoa
+    en: I haven't done the most important step yet.
+    ko: 가장 중요한 걸 안해써.
+    ja: 一番大事なことしてない。
+  d_ex_maidcafe_06_36:
+    speaker: cocoa
+    en: Before you dig in, you've got to recite the magic incantation.
+    ko: 먹기 전엔 마법의 주문을 외워야대.
+    ja: 食べる前に、魔法の呪文を唱えなきゃ。
+  d_ex_maidcafe_06_37:
+    speaker: marciana
+    en: Okay...
+    ko: "…아."
+    ja: "…え？"
+  d_ex_maidcafe_06_38:
+    speaker: cocoa
+    en: Master and I will demonstrate.
+    ko: 코코아랑 주인이 시범을 보여주께.
+    ja: ココアと主人がお手本見せる。
+  d_ex_maidcafe_06_39:
+    speaker: Self
+    en: We will?
+    ko: "……?"
+    ja: "……？"
+  d_ex_maidcafe_06_40:
+    speaker: cocoa
+    en: I'll start.
+    ko: 웅. 그럼 시작하께.
+    ja: うん。それじゃ、始めるよ。
+  d_ex_maidcafe_06_41:
+    speaker: cocoa
+    en: May this dish be delicious.
+    ko: 맛있어져라~
+    ja: おいしくな～れ。
+  d_ex_maidcafe_06_42:
+    speaker: Self
+    en: May this dish be delicious.
+    ko: "…맛있어져라~"
+    ja: "…おいしくな～れ"
+  d_ex_maidcafe_06_43:
+    speaker: cocoa
+    en: By the power in my beating heart!
+    ko: 하트하트~
+    ja: ハート、ハート♥
+  d_ex_maidcafe_06_44:
+    speaker: Self
+    en: Badump badump!
+    ko: 큥~
+    ja: キュン～★
+  d_ex_maidcafe_06_45:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_46:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_47:
+    speaker: cocoa
+    en: This time, you and I will do it together, Marciana.
+    ko: 이번엔 마르차나랑 코코아가 같이 할꺼야.
+    ja: 次は、マルチャーナとココアが一緒にやる。
+  d_ex_maidcafe_06_48:
+    speaker: marciana
+    en: Huh...?
+    ko: 네…?
+    ja: はい…？
+  d_ex_maidcafe_06_49:
+    speaker: marciana
+    en: Right now?
+    ko: 지금 당장 말입니까?
+    ja: 今ですか？
+  d_ex_maidcafe_06_50:
+    speaker: cocoa
+    en: Yep! Now then...
+    ko: 웅. 자 그럼….
+    ja: うん。それじゃ…
+  d_ex_maidcafe_06_51:
+    speaker: marciana
+    en: Wai...
+    ko: 잠시…!
+    ja: 待っ…！
+  d_ex_maidcafe_06_52:
+    speaker: cocoa
+    en: May this dish be delicious.
+    ko: 맛있어져라~
+    ja: おいしくな～れ。
+  d_ex_maidcafe_06_53:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_54:
+    speaker: Narration
+    en: "*Stare*"
+    ko: 지긋-
+    ja: ジーッ…
+  d_ex_maidcafe_06_55:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_56:
+    speaker: Narration
+    en: "*Stare*"
+    ko: 지긋--
+    ja: ジーッ……
+  d_ex_maidcafe_06_57:
+    speaker: marciana
+    en: May... this dish be... delicious.
+    ko: "…맛… 있어… 져… 라…."
+    ja: "…おい…しく…な…れ…"
+  d_ex_maidcafe_06_58:
+    speaker: cocoa
+    en: By the power in my beating heart.
+    ko: 하트하트~
+    ja: ハート、ハート♥
+  d_ex_maidcafe_06_59:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_60:
+    speaker: marciana
+    en: Badump badump.
+    ko: "…큥."
+    ja: "…キュン。"
+  d_ex_maidcafe_06_61:
+    speaker: cocoa
+    en: Amazing! Now you both can dig in.
+    ko: 조아. 그럼 주인이랑 마르차나, 맛있게 먹어.
+    ja: |-
+      いーかんじ。じゃあ、主人とマルチャーナ。
+      召し上がれ。
+  d_ex_maidcafe_06_62:
+    speaker: cocoa
+    en: I'll go prepare the next course.
+    ko: 코코아는 다음 코스 준비하러 가보께.
+    ja: ココアは次のコース準備する。
+  d_ex_maidcafe_06_63:
+    speaker: Monologue
+    en: Cocoa heads back to the kitchen.
+    ko: 그렇게 코코아는 주방으로 들어갔다.
+    ja: そうしてココアは、キッチンへ向かった
+  d_ex_maidcafe_06_64:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_65:
+    speaker: Self
+    en: You handled that well.
+    ko: "…고생했어."
+    ja: "…お疲れ様"
+  d_ex_maidcafe_06_66:
+    speaker: Self
+    en: Let's give this bling bling teddy bear salad a try.
+    ko: 이제 블링블링♪ 곰돌이 샐러드 먹어볼까?
+    ja: キラキラ♪クマさんサラダを食べてみようか？
+  d_ex_maidcafe_06_67:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_68:
+    speaker: marciana
+    en: All right.
+    ko: 네.
+    ja: はい。
+  d_ex_maidcafe_06_69:
+    speaker: Self
+    en: How is it?
+    ko: 어때?
+    ja: どうだ？
+  d_ex_maidcafe_06_70:
+    speaker: marciana
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  d_ex_maidcafe_06_71:
+    speaker: marciana
+    en: It's delicious.
+    ko: 맛있습니다….
+    ja: おいしいです…
+  d_ex_maidcafe_06_72:
+    speaker: Self
+    en: That's a relief.
+    ko: 다행이다.
+    ja: よかった
+  d_ex_maidcafe_06_73:
+    speaker: Monologue
+    en: When we almost finish the bling bling teddy bear salad, Cocoa appears once
+      again.
+    ko: |-
+      그렇게 블링블링♪ 곰돌이 샐러드가 끝나갈 때쯤,
+      코코아가 다시 나타났다.
+    ja: |-
+      キラキラ♪クマさんサラダを食べ終わる頃、
+      ココアが再び現れた
+  d_ex_maidcafe_06_74:
+    speaker: cocoa
+    en: This time, we've got an entrée brimming with magical power.
+    ko: 이번엔 마법의 메인 디쉬야.
+    ja: 次は魔法のメインディッシュだよ。
+  d_ex_maidcafe_06_75:
+    speaker: cocoa
+    en: BadaBOOM hearty omurice.
+    ko: 큥큥♪ 하트 오므라이스.
+    ja: キュンキュン♪ハートオムライス。
+  d_ex_maidcafe_06_76:
+    speaker: Self
+    en: If anything's hearty, it's these portions.
+    ko: 양이 상당히 많아 보이는 걸…?
+    ja: かなり量が多そうだな…？
+  d_ex_maidcafe_06_77:
+    speaker: cocoa
+    en: Oh, I'm sure you can finish it with no problem.
+    ko: 주인은 다 먹을 수 이써.
+    ja: 主人は全部食べられる。
+  d_ex_maidcafe_06_78:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_79:
+    speaker: marciana
+    en: Don't tell me we've got to do another weird spell beforehand.
+    ko: 이번엔 그냥 먹어도 되는 겁니까?
+    ja: 今回はそのまま食べてもいいのですか？
+  d_ex_maidcafe_06_80:
+    speaker: cocoa
+    en: We sure do!
+    ko: 안대.
+    ja: ダメ。
+  d_ex_maidcafe_06_81:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_82:
+    speaker: cocoa
+    en: Master and I will give another demonstration.
+    ko: 이번에도 주인이랑 코코아가 시범을 보여주께.
+    ja: 今回も、主人とココアがお手本見せる。
+  d_ex_maidcafe_06_83:
+    speaker: Self
+    en: Again?
+    ko: 또…?
+    ja: また…？
+  d_ex_maidcafe_06_84:
+    speaker: cocoa
+    en: BadaBOOM!
+    ko: 큥큥~
+    ja: キュンキュン～
+  d_ex_maidcafe_06_85:
+    speaker: Self
+    en: "... BadaBOOM!"
+    ko: "…큥큥~"
+    ja: "…キュンキュン～"
+  d_ex_maidcafe_06_86:
+    speaker: cocoa
+    en: May this omurice be scrumdiddlyumptious!
+    ko: 맛있어져라 오므라이스님~
+    ja: おいしくな～れ、オムライス様～
+  d_ex_maidcafe_06_87:
+    speaker: Self
+    en: May this omurice be scrumdiddlyumptious!
+    ko: 맛있어져라… 오므라이스님~
+    ja: おいしくな～れ…オムライス様～
+  d_ex_maidcafe_06_88:
+    speaker: cocoa
+    en: Make my heart spin round and round.
+    ko: 하트하트 빙그르르~
+    ja: ハート、ハート、グルグル～
+  d_ex_maidcafe_06_89:
+    speaker: Self
+    en: Badump badump!
+    ko: 큥!
+    ja: キュン！
+  d_ex_maidcafe_06_90:
+    speaker: cocoa
+    en: I knew you'd get into the swing of things, Master.
+    ko: 역시 주인. 소질이 이써.
+    ja: さすが、主人。素質あるね。
+  d_ex_maidcafe_06_91:
+    speaker: Self
+    en: "... I'm not sure how I should feel about that."
+    ko: "…기뻐해야 하는 거겠지."
+    ja: "…喜んでいいんだよな"
+  d_ex_maidcafe_06_92:
+    speaker: cocoa
+    en: All right. Marciana, you're up.
+    ko: 이번엔 마르차나랑 코코아가 함께 하는 거야.
+    ja: 次は、マルチャーナとココアが一緒にやる。
+  d_ex_maidcafe_06_93:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_94:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_95:
+    speaker: marciana
+    en: I'm not sure I'm mentally prepared for th...
+    ko: 저 마음의 준비를….
+    ja: あの、心の準備を…
+  d_ex_maidcafe_06_96:
+    speaker: cocoa
+    en: BadaBOOM!
+    ko: 큥큥~
+    ja: キュンキュン～
+  d_ex_maidcafe_06_97:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_98:
+    speaker: marciana
+    en: Bada... BOOM.
+    ko: "…큥… 큥…."
+    ja: "…キュン…キュン…"
+  d_ex_maidcafe_06_99:
+    speaker: cocoa
+    en: May this omurice be scrumdiddlyumptious!
+    ko: 맛있어져라 오므라이스님~
+    ja: おいしくな～れ、オムライス様～
+  d_ex_maidcafe_06_100:
+    speaker: marciana
+    en: May... this omurice be... scrumdiddlyumptious.
+    ko: 맛있어져라… 오므… 님….
+    ja: おいしくなれ…オム…様…
+  d_ex_maidcafe_06_101:
+    speaker: cocoa
+    en: Make my heart spin round and round.
+    ko: 하트하트 빙그르르~
+    ja: ハート、ハート、グルグル～
+  d_ex_maidcafe_06_102:
+    speaker: marciana
+    en: "... Badump."
+    ko: "……큐…."
+    ja: "……キュ…"
+  d_ex_maidcafe_06_103:
+    speaker: cocoa
+    en: One more!
+    ko: 끝까지 해야대.
+    ja: 最後までやって。
+  d_ex_maidcafe_06_104:
+    speaker: marciana
+    en: "... Badump."
+    ko: "…큥…."
+    ja: "…キュン…"
+  d_ex_maidcafe_06_105:
+    speaker: cocoa
+    en: Good, and now for the final flourish, just for you.
+    ko: 조아. 이제 특별 서비스 해줄께.
+    ja: いーよ。スペシャルサービスしてあげる。
+  d_ex_maidcafe_06_106:
+    speaker: cocoa
+    en: I'll draw a unique pattern with the ketchup.
+    ko: 코코아가 케첩 이만큼. 새 걸로 짜줄께.
+    ja: |-
+      ココアが新品のケチャップを
+      たくさんかけてあげる。
+  d_ex_maidcafe_06_107:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_108:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_109:
+    speaker: cocoa
+    en: Since I'm doing this just for you, I'll draw Master.
+    ko: 특별 서비스니까 주인을 그려줄께.
+    ja: |-
+      スペシャルサービスだから、
+      主人も描いてあげる。
+  d_ex_maidcafe_06_110:
+    speaker: Monologue
+    en: Cocoa skillfully squeezes out the ketchup for quite some time.
+    ko: 그렇게 코코아는 한참 동안 케첩을 현란하게 짜냈다.
+    ja: |-
+      そうしてココアは、しばらくの間
+      豪快にケチャップを絞った
+  d_ex_maidcafe_06_111:
+    speaker: Narration
+    en: "*Squeeze squeeze*"
+    ko: 뿌직. 뿌직.
+    ja: ピュッピュッ
+  d_ex_maidcafe_06_112:
+    speaker: cocoa
+    en: Phew, that should do the trick.
+    ko: "…후우. 케첩 주인, 완성."
+    ja: "…ふぅ。ケチャップ主人、完成。"
+  d_ex_maidcafe_06_113:
+    speaker: Self
+    en: "... Thanks Cocoa. It looks delicious."
+    ko: 고마워… 코코아. 정말 맛있어 보여.
+    ja: |-
+      ありがとう…ココア。
+      すごくおいしそうだ
+  d_ex_maidcafe_06_114:
+    speaker: cocoa
+    en: I'm a pro at this, so it's only natural that it looks good.
+    ko: 코코아는 프로니까 당연한 거야.
+    ja: ココアはプロだから当たり前。
+  d_ex_maidcafe_06_115:
+    speaker: marciana
+    en: "... Can we start eating now?"
+    ko: "…잘 먹겠습니다."
+    ja: "…いただきます。"
+  d_ex_maidcafe_06_116:
+    speaker: cocoa
+    en: Yep! I'll be back in a jiffy.
+    ko: 먹고 이써. 코코아, 금방 돌아오께.
+    ja: 食べてて。ココア、すぐ戻る。
+  d_ex_maidcafe_06_117:
+    speaker: Monologue
+    en: Cocoa runs into the kitchen.
+    ko: 코코아는 주방으로 뛰어 들어갔다.
+    ja: ココアはキッチンに走っていった
+  d_ex_maidcafe_06_118:
+    speaker: "<Choice>"
+    en: How are you doing, Marciana?
+    ko: 마르차나… 괜찮아?
+    ja: マルチャーナ…大丈夫か？
+  d_ex_maidcafe_06_119:
+    speaker: "<Choice>"
+    en: You're beet red, Marciana.
+    ko: 마르차나, 얼굴이 사과가 됐는데….
+    ja: マルチャーナ、顔が真っ赤だが…
+  d_ex_maidcafe_06_120:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_121:
+    speaker: marciana
+    en: I'm fine.
+    ko: 전… 괜찮습니다.
+    ja: 私は…大丈夫です。
+  d_ex_maidcafe_06_122:
+    speaker: Self
+    en: You don't look fine.
+    ko: 좀 힘들어 보이는데.
+    ja: つらそうに見える
+  d_ex_maidcafe_06_123:
+    speaker: marciana
+    en: It's okay. I can do this.
+    ko: 힘들지 않습니다… 전 할 수 있습니다.
+    ja: つらくはありません…私はできます。
+  d_ex_maidcafe_06_124:
+    speaker: marciana
+    en: I can do this.
+    ko: 네. 저는 할 수 있습니다.
+    ja: はい。私はできます。
+  d_ex_maidcafe_06_125:
+    speaker: Self
+    en: You just repeated yourself...
+    ko: 방금 같은 말을 두 번이나….
+    ja: 同じ言葉を2回も…
+  d_ex_maidcafe_06_126:
+    speaker: cocoa
+    en: Here I am!
+    ko: 코코아, 돌아와써.
+    ja: ココア、帰ってきた。
+  d_ex_maidcafe_06_127:
+    speaker: marciana
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  d_ex_maidcafe_06_128:
+    speaker: Monologue
+    en: In Cocoa's hand is a small cake decorated with adorable patterns.
+    ko: 코코아의 손에는 귀여운 레이스로 장식된 예쁜 케이크가 있었다.
+    ja: |-
+      ココアの手には、かわいいレースで飾られた
+      ケーキがあった
+  d_ex_maidcafe_06_129:
+    speaker: Monologue
+    en: On the plate, painstakingly scrawled in ketchup are the words "Cheer up, Marciana!".
+    ko: "그리고 그 접시에는 \"마르차나 우울해 하지 마!\"라고 \n케첩으로 정성스레 적혀 있었다."
+    ja: |-
+      そして、その皿には
+      「マルチャーナ、元気出して！」と
+      ケチャップで丁寧に書かれていた
+  d_ex_maidcafe_06_130:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_131:
+    speaker: cocoa
+    en: This time, only Master and I will have to recite the magic incantation.
+    ko: 이번 마법의 주문은 나랑 주인만 외칠 거야.
+    ja: 今回の魔法の呪文は、私と主人だけでやるよ。
+  d_ex_maidcafe_06_132:
+    speaker: cocoa
+    en: Are you ready, Master?
+    ko: 준비됐어, 주인?
+    ja: 主人、準備はいい？
+  d_ex_maidcafe_06_133:
+    speaker: Self
+    en: Ready.
+    ko: 물론이지, 코코아.
+    ja: もちろんだ
+  d_ex_maidcafe_06_134:
+    speaker: cocoa
+    en: With the power of magic...
+    ko: 마법의 힘으로~
+    ja: 魔法の力で～
+  d_ex_maidcafe_06_135:
+    speaker: Self
+    en: spin round and round...
+    ko: 빙그르르~
+    ja: グルグル～
+  d_ex_maidcafe_06_136:
+    speaker: cocoa
+    en: and bestow Marciana with...
+    ko: 마르차나에게~
+    ja: マルチャーナに～
+  d_ex_maidcafe_06_137:
+    speaker: Self
+    en: and bestow Marciana with...
+    ko: 마르차나에게~
+    ja: マルチャーナに～
+  d_ex_maidcafe_06_138:
+    speaker: cocoa
+    en: a heartfelt dish!
+    ko: 하트하트~
+    ja: ハート、ハート♥
+  d_ex_maidcafe_06_139:
+    speaker: Self
+    en: Badump badump!
+    ko: 큥~
+    ja: キュン～★
+  d_ex_maidcafe_06_140:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_06_141:
+    speaker: cocoa
+    en: That's all there is to it!
+    ko: 코코아 서비스는 여기까지.
+    ja: ココアのサービスはここまで。
+  d_ex_maidcafe_06_142:
+    speaker: cocoa
+    en: What do you think?
+    ko: 주인! 프로 메이드의 진심이 느껴져써?
+    ja: 主人！プロメイドの本気が伝わった？
+  d_ex_maidcafe_06_143:
+    speaker: Self
+    en: Simply remarkable.
+    ko: 최고였어.
+    ja: 最高だった
+  d_ex_maidcafe_06_144:
+    speaker: cocoa
+    en: Marciana, although I don't know what happened, you're always welcome to the
+      Maid Cafe when you feel down.
+    ko: |-
+      마르차나, 무슨 일이 있었는지는 몰라도,
+      우울할 때는 언제든 메이드 카페를 찾아조.
+    ja: |-
+      マルチャーナ、何があったのか分かんないけど、
+      落ち込んだ時はいつでもメイドカフェに来て。
+  d_ex_maidcafe_06_145:
+    speaker: marciana
+    en: "... Thanks."
+    ko: 코코아, 지휘관님….
+    ja: ココア、指揮官様…
+  d_ex_maidcafe_06_146:
+    speaker: marciana
+    en: Thank you, both of you.
+    ko: "…감사합니다."
+    ja: "…ありがとうございます。"
+d_ex_maidcafe_07:
+  d_ex_maidcafe_07_1:
+    speaker: Monologue
+    en: As I arrive to meet Tia at the scheduled time, she greets me with a beaming
+      smile.
+    ko: 약속 시간에 맞춰 가자, 티아가 밝게 웃으며 반겨주었다.
+    ja: |-
+      約束の時間にカフェに行くと、
+      ティアが明るい笑顔で迎えてくれた
+  d_ex_maidcafe_07_2:
+    speaker: tia
+    en: Hey, Teacher!
+    ko: 선생니임~ 잘 왔어.
+    ja: せんせぇ～、待ってたよ。
+  d_ex_maidcafe_07_3:
+    speaker: Narration
+    en: "*Hug*"
+    ko: 와락-
+    ja: ギュッ
+  d_ex_maidcafe_07_4:
+    speaker: Self
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_maidcafe_07_5:
+    speaker: tia
+    en: Oh, sorry! Sorry.
+    ko: 어라, 미안 미안.
+    ja: あ、ごめんごめん。
+  d_ex_maidcafe_07_6:
+    speaker: tia
+    en: I was just so happy to see you that I forgot.
+    ko: 헤헤. 반가워서 나도 모르게 그만.
+    ja: えへへ。つい嬉しすぎてぇ。
+  d_ex_maidcafe_07_7:
+    speaker: tia
+    en: Here, it's this way.
+    ko: 여기야, 여기. 이쪽으로 와.
+    ja: こっちだよぉ。
+  d_ex_maidcafe_07_8:
+    speaker: Monologue
+    en: The inside of the cafe is decorated
+    ko: 카페 내부가 평소보다 더 귀여운 마스코트들과
+    ja: カフェの店内は、かわいいマスコットと
+  d_ex_maidcafe_07_9:
+    speaker: Monologue
+    en: with cute mascots and various decorations.
+    ko: 여러 가지 장식들로 아기자기하게 꾸며져 있었다.
+    ja: |-
+      様々な飾りで、
+      いつもよりさらにかわいくなっていた
+  d_ex_maidcafe_07_10:
+    speaker: Self
+    en: Is there a special event today?
+    ko: 오늘 무슨 행사라도 해?
+    ja: 何かイベントでもあるのか？
+  d_ex_maidcafe_07_11:
+    speaker: tia
+    en: This is what I was talking about on Bla.
+    ko: 내가 블라로 말해준 게 이거야.
+    ja: 私がBlaBlaで言ってたのは、これだよぉ。
+  d_ex_maidcafe_07_12:
+    speaker: tia
+    en: For one day only, you can taste a limited edition parfait that is sold only
+      once a month.
+    ko: 한 달에 한 번씩만 판매하는 한정 파르페를 맛볼 수 있는 날!
+    ja: 1ヶ月に一度の限定パフェが食べられる日！
+  d_ex_maidcafe_07_13:
+    speaker: tia
+    en: If you want to try it out, they sell tickets on the internet.
+    ko: 한정 파르페 교환 티켓은 인터넷에서 판매하고 있는데.
+    ja: |-
+      限定パフェ交換チケットは
+      ネットで売ってるんだけど
+  d_ex_maidcafe_07_14:
+    speaker: tia
+    en: There aren't many to go around, so the competition is fierce. The purchase
+      window opens at random times as well, so it's super tough to get your hands
+      on one.
+    ko: |-
+      경쟁도 엄청 심한 데다가 티켓 구매창 시간도 랜덤으로 열려서
+      그야말로 극악의 확률로 구매할 수 있다구.
+    ja: |-
+      大人気だし、チケットの販売開始時間も
+      ランダムだから、まさに争奪戦なんだよぉ。
+  d_ex_maidcafe_07_15:
+    speaker: tia
+    en: Only those with unyielding determination can overcome the odds and get to
+      taste this limited-edition parfait.
+    ko: |-
+      그야말로 이 한정 파르페는 그 극악의 확률을 뚫은 사람만이
+      맛볼 수 있는 디저트라는 이야기지이.
+    ja: |-
+      この限定パフェは、
+      その争奪戦を勝ち抜いた人だけが
+      食べられるスイーツなのぉ。
+  d_ex_maidcafe_07_16:
+    speaker: tia
+    en: Even with Naga's help, I only just managed to get a ticket.
+    ko: 나도 나가가 도와줘서 겨우겨우 구할 수 있었어.
+    ja: |-
+      私も、ナガに手伝ってもらって、
+      やっと買えたんだぁ。
+  d_ex_maidcafe_07_17:
+    speaker: tia
+    en: Here it is. Isn't it adorable?
+    ko: 이게 그 티켓인데 귀엽지 않아? 헤헤.
+    ja: |-
+      これがそのチケットなんだけど、
+      チケットもかわいいでしょ？えへへ。
+  d_ex_maidcafe_07_18:
+    speaker: tia
+    en: Squeeee! I'm so thrilled!
+    ko: 흐우웅~ 설렌다아.
+    ja: ふふふ～、ワクワクするぅ。
+  d_ex_maidcafe_07_19:
+    speaker: Monologue
+    en: A moment later, Tia exchanges the pink ticket for a parfait.
+    ko: 잠시 후, 티아는 핑크색 티켓과 파르페를 교환해 왔다.
+    ja: |-
+      しばらくして、ティアは
+      ピンクのチケットとパフェを交換した
+  d_ex_maidcafe_07_20:
+    speaker: tia
+    en: Wow, would you look at that?
+    ko: 우와아, 이것 봐.
+    ja: わああ、これ見て。
+  d_ex_maidcafe_07_21:
+    speaker: tia
+    en: The colors are so vibrant!
+    ko: 이 차르르한 색감!
+    ja: この鮮やかな色！
+  d_ex_maidcafe_07_22:
+    speaker: tia
+    en: The toppings are sensational!
+    ko: 센세이션한 데코레이션!
+    ja: インパクトのあるデコレーション！
+  d_ex_maidcafe_07_23:
+    speaker: tia
+    en: And they give you a generous portion.
+    ko: 풍성한 볼륨감!
+    ja: ボリューム感！
+  d_ex_maidcafe_07_24:
+    speaker: tia
+    en: I can't find anything to possibly fault it for.
+    ko: 뭐 하나 빠지는 게 없네에.
+    ja: すべてにおいて、完璧だよねぇ。
+  d_ex_maidcafe_07_25:
+    speaker: tia
+    en: Teacher, can you hold it for a sec?
+    ko: 선생님, 잠깐 들고 있어 줄래?
+    ja: 先生、ちょっと持っててくれる？
+  d_ex_maidcafe_07_26:
+    speaker: Narration
+    en: "*Click*"
+    ko: 찰칵.
+    ja: カシャ
+  d_ex_maidcafe_07_27:
+    speaker: tia
+    en: Hmm... that's not quite right.
+    ko: 음… 이게 아닌데.
+    ja: うーん…ちょっと違うなぁ。
+  d_ex_maidcafe_07_28:
+    speaker: Narration
+    en: "*Click click*"
+    ko: 찰칵. 찰칵.
+    ja: カシャ、カシャ
+  d_ex_maidcafe_07_29:
+    speaker: tia
+    en: That's not it either.
+    ko: 이것도 아니야.
+    ja: これも違う。
+  d_ex_maidcafe_07_30:
+    speaker: Narration
+    en: "*Click click click*"
+    ko: 찰칵. 찰칵. 찰칵.
+    ja: カシャ、カシャ、カシャ
+  d_ex_maidcafe_07_31:
+    speaker: tia
+    en: None of these are really popping like I want them to.
+    ko: 좀 더 상큼한 느낌이 살았으면 좋겠단 말이지이.
+    ja: もっと爽やかな感じを出したいんだよねぇ。
+  d_ex_maidcafe_07_32:
+    speaker: Narration
+    en: "*Clickclickclickclickclick*"
+    ko: 찰칵찰칵찰칵찰칵찰칵.
+    ja: カシャカシャカシャカシャカシャ
+  d_ex_maidcafe_07_33:
+    speaker: Monologue
+    en: Tia continues taking pictures until she is satisfied.
+    ko: 티아는 본인이 만족할 만한 컷이 나올 때까지,
+    ja: ティアは、満足する写真が撮れるまで
+  d_ex_maidcafe_07_34:
+    speaker: Monologue
+    en: By that point, she's taken well over several hundred.
+    ko: 몇백 장이 넘는 사진을 찍어 댔다.
+    ja: 何百枚も写真を撮った
+  d_ex_maidcafe_07_35:
+    speaker: tia
+    en: Thanks for holding it. Well, I say it's high time we try this bad boy!
+    ko: 헤헤. 고마워, 이제 먹을까?
+    ja: えへへ。ありがと。食べよっか？
+  d_ex_maidcafe_07_36:
+    speaker: Self
+    en: This tastes...
+    ko: "…이 맛은."
+    ja: "…これは"
+  d_ex_maidcafe_07_37:
+    speaker: "<Choice>"
+    en: Cloyingly sweet. I feel like I'll get several cavities from it alone.
+    ko: 혈당이 고점을 찍는 맛!
+    ja: 血糖値爆上がりの味！
+  d_ex_maidcafe_07_38:
+    speaker: "<Choice>"
+    en: Positively divine. It's like I've died and gone to heaven.
+    ko: 둘이 먹다 하나가 죽어도 모르겠는 맛!
+    ja: おいしすぎてほっぺが落ちそうだ！
+  d_ex_maidcafe_07_39:
+    speaker: tia
+    en: Hmm, maybe this is a bit much for you in terms of sweetness.
+    ko: 으웅~ 선생님에겐 너무 달았나 봐.
+    ja: う～ん、先生には甘すぎたみたいだね。
+  d_ex_maidcafe_07_40:
+    speaker: tia
+    en: Next time, I'll treat you to something less sweet.
+    ko: 다음엔 설탕이 덜 들어간 디저트를 대접할게에.
+    ja: |-
+      次は砂糖少なめのスイーツを
+      ごちそうするねぇ。
+  d_ex_maidcafe_07_41:
+    speaker: tia
+    en: I'm glad you like it!
+    ko: 앗, 마음에 들어해 줘서 기분 좋아. 헤헤.
+    ja: あっ、喜んでもらえて嬉しいなぁ。えへへ。
+  d_ex_maidcafe_07_42:
+    speaker: tia
+    en: Next time, I'll treat you to something even more delicious.
+    ko: 다음엔 더 맛있는 디저트를 대접할게에.
+    ja: |-
+      次はもっとおいしいスイーツを
+      ごちそうするねぇ。
+  d_ex_maidcafe_07_43:
+    speaker: Monologue
+    en: Tia and I are devouring the magnificent parfait, when...
+    ko: 티아와 마주 앉아 파르페를 먹던 도중.
+    ja: |-
+      ティアと向かい合って
+      パフェを食べていたところ
+  d_ex_maidcafe_07_44:
+    speaker: marciana
+    en: This is...!
+    ko: 이건…!
+    ja: これは…！
+  d_ex_maidcafe_07_45:
+    speaker: marciana
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  d_ex_maidcafe_07_46:
+    speaker: marciana
+    en: Amazing...
+    ko: 환상적이야.
+    ja: 絶品だわ。
+  d_ex_maidcafe_07_47:
+    speaker: Monologue
+    en: I notice a familiar face sitting at the opposite table.
+    ko: 맞은편 자리에서 익숙한 얼굴을 발견했다.
+    ja: 向かい側の席に見慣れた顔を発見した
+  d_ex_maidcafe_07_48:
+    speaker: Self
+    en: Marciana?
+    ko: 마르차나…?
+    ja: マルチャーナ…？
+  d_ex_maidcafe_07_49:
+    speaker: tia
+    en: Oh, hey Miss Marciana.
+    ko: 응? 마르차나 선생님?
+    ja: ん？マルチャーナ先生？
+  d_ex_maidcafe_07_50:
+    speaker: marciana
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_maidcafe_07_51:
+    speaker: Narration
+    en: "*Smash*"
+    ko: 짤그랑-
+    ja: カシャンッ
+  d_ex_maidcafe_07_52:
+    speaker: Monologue
+    en: Upon noticing the two of us,
+    ko: 우리를 발견한 마르차나가,
+    ja: 私たちを発見したマルチャーナが
+  d_ex_maidcafe_07_53:
+    speaker: Monologue
+    en: Marciana drops the parfait spoon in her hands.
+    ko: 손에 들고 있던 파르페 스푼을 맥없이 떨어뜨렸다.
+    ja: |-
+      手に持っていたパフェのスプーンを
+      落としてしまった
+  d_ex_maidcafe_07_54:
+    speaker: tia
+    en: What are you doing here?
+    ko: 선생님이 여긴 어쩐 일이세요?
+    ja: 先生がどうしてこんなところに？
+  d_ex_maidcafe_07_55:
+    speaker: marciana
+    en: I... er...
+    ko: "…저는, 그게…."
+    ja: "…私は、その…"
+  d_ex_maidcafe_07_56:
+    speaker: Monologue
+    en: Marciana looks around nervously.
+    ko: 마르차나의 동공이 이리저리 흔들렸다.
+    ja: マルチャーナの瞳が大きく揺れた
+  d_ex_maidcafe_07_57:
+    speaker: tia
+    en: What's up with her?
+    ko: 으우웅~?
+    ja: う～～ん？
+  d_ex_maidcafe_07_58:
+    speaker: "<Choice>"
+    en: Maybe she came here to keep up with the latest trends.
+    ko: 최신 트렌드를 파악하기 위해 온 게 아닐까.
+    ja: 最新のトレンドを知るために来たんじゃないか
+  d_ex_maidcafe_07_59:
+    speaker: "<Choice>"
+    en: Maybe she wanted to enjoy some alone time.
+    ko: 혼자만의 시간을 가지기 위해 온 게 아닐까.
+    ja: 1人だけの時間を楽しむために来たんじゃないか
+  d_ex_maidcafe_07_60:
+    speaker: marciana
+    en: I...
+    ko: 저, 저는….
+    ja: わ、私は…
+  d_ex_maidcafe_07_61:
+    speaker: marciana
+    en: Er... no, that's not why I'm here.
+    ko: "…그러기 위해 온 것이 아닙니다."
+    ja: "…そのために来たのではありません。"
+  d_ex_maidcafe_07_62:
+    speaker: tia
+    en: Ah, I know!
+    ko: 아~ 알았다!
+    ja: あ～、分かった！
+  d_ex_maidcafe_07_63:
+    speaker: tia
+    en: You must have come here for the parfait as well.
+    ko: 마르차나 선생님도 파르페를 먹으러 오신 거죠?
+    ja: |-
+      マルチャーナ先生も、
+      パフェを食べに来たんですよね？
+  d_ex_maidcafe_07_64:
+    speaker: marciana
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_maidcafe_07_65:
+    speaker: marciana
+    en: I...
+    ko: 그, 그건…!
+    ja: そ、それは…！
+  d_ex_maidcafe_07_66:
+    speaker: marciana
+    en: I think there's been a misunderstanding.
+    ko: 오해가 있었던 것 같습니다.
+    ja: 誤解です。
+  d_ex_maidcafe_07_67:
+    speaker: marciana
+    en: I most certainly did not come here to try this limited-edition parfait that
+      they only sell once a month.
+    ko: |-
+      저는 절대로 한 달에 한 번만 판매되는
+      이 한정 파르페를 먹어보고 싶다거나,
+    ja: |-
+      私は決して、1ヶ月に一度しか販売されない
+      この限定パフェを食べてみたいとか、
+  d_ex_maidcafe_07_68:
+    speaker: marciana
+    en: Nor do I find the toppings irresistible,
+    ko: 이 카페의 장식들이 귀엽다거나,
+    ja: このカフェの飾りがかわいいとか、
+  d_ex_maidcafe_07_69:
+    speaker: marciana
+    en: or the mascots adorable.
+    ko: 마스코트들이 사랑스럽다거나,
+    ja: マスコットたちがキュートだとか、
+  d_ex_maidcafe_07_70:
+    speaker: marciana
+    en: That's absolutely, positively not why I'm here.
+    ko: 그래서 온 것이 아닌….
+    ja: 思っていたわけではありません…
+  d_ex_maidcafe_07_71:
+    speaker: tia
+    en: Hehe. Don't worry.
+    ko: 헤헤. 걱정 마세요.
+    ja: えへへ。安心してください。
+  d_ex_maidcafe_07_72:
+    speaker: tia
+    en: This parfait isn't as bad as you might think.
+    ko: 이 파르페는 선생님이 생각하시는 것처럼 위험하지 않아요.
+    ja: |-
+      このパフェは、先生が考えているような
+      危険なものじゃありませんよ。
+  d_ex_maidcafe_07_73:
+    speaker: tia
+    en: I bet you were concerned that it potentially contained harmful ingredients,
+      and came to try it for yourself.
+    ko: 위험한 성분이 들어가 있을까 봐 굳이 드셔보시러 온 거죠?
+    ja: |-
+      危険な成分が入っていないか心配で、
+      わざわざ味を確かめに来たんですよね？
+  d_ex_maidcafe_07_74:
+    speaker: marciana
+    en: "... Huh?"
+    ko: "…네?"
+    ja: "…はい？"
+  d_ex_maidcafe_07_75:
+    speaker: tia
+    en: I'm right, aren't I? You worry too much.
+    ko: 마르차나 선생님도 차암~ 너무 걱정이 많으시다니까.
+    ja: マルチャーナ先生も、心配性なんだからぁ。
+  d_ex_maidcafe_07_76:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_07_77:
+    speaker: marciana
+    en: That's right.
+    ko: 맞습니다.
+    ja: その通りです。
+  d_ex_maidcafe_07_78:
+    speaker: marciana
+    en: As a teacher, I should be mindful of what my students are consuming.
+    ko: |-
+      교사 된 자로서 학생들이 먹는 것에
+      주의를 기울이는 것은 당연한 일입니다.
+    ja: |-
+      教師として、生徒たちが口にするものに
+      注意を払うのは当然のことです。
+  d_ex_maidcafe_07_79:
+    speaker: marciana
+    en: Like you said, though, there doesn't appear to be anything wrong with this
+      parfait.
+    ko: 티아 말대로 이 파르페에는 별문제가 없는 것 같네요.
+    ja: |-
+      ティアの言う通り、このパフェは
+      特に問題なさそうですね。
+  d_ex_maidcafe_07_80:
+    speaker: marciana
+    en: Since I've concluded my testing, I'll be off.
+    ko: 성분 검사를 마쳤으니, 이만 실례하겠습니다.
+    ja: 成分検査が終わったので、失礼します。
+  d_ex_maidcafe_07_81:
+    speaker: marciana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_07_82:
+    speaker: Monologue
+    en: Marciana shoots one last mournful glance at the unfinished parfait,
+    ko: 마르차나는 미련이 가득 남은 눈길로 자신의 파르페를 바라본 후.
+    ja: |-
+      マルチャーナは未練がある様子で
+      自分のパフェを見つめてから
+  d_ex_maidcafe_07_83:
+    speaker: Monologue
+    en: and reluctantly turns to leave.
+    ko: 천천히 발길을 돌렸다.
+    ja: ゆっくりと外へ向かった
+  d_ex_maidcafe_07_84:
+    speaker: Self
+    en: Just a moment.
+    ko: 잠깐만.
+    ja: 待ってくれ
+  d_ex_maidcafe_07_85:
+    speaker: marciana
+    en: Yes?
+    ko: 무슨 일이십니까, 지휘관님.
+    ja: どうされましたか、指揮官様。
+  d_ex_maidcafe_07_86:
+    speaker: Self
+    en: You left your parfait.
+    ko: 파르페를 두고 갔어.
+    ja: パフェを忘れているぞ
+  d_ex_maidcafe_07_87:
+    speaker: marciana
+    en: But I...
+    ko: 하지만 이건….
+    ja: しかし、これは…
+  d_ex_maidcafe_07_88:
+    speaker: Self
+    en: You should know better than to waste good food.
+    ko: 이대로 음식물 쓰레기로 만들 셈이야?
+    ja: このまま生ゴミにするつもりか？
+  d_ex_maidcafe_07_89:
+    speaker: marciana
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  d_ex_maidcafe_07_90:
+    speaker: marciana
+    en: My mistake.
+    ko: 제 실수입니다.
+    ja: 私のミスです。
+  d_ex_maidcafe_07_91:
+    speaker: marciana
+    en: Thank you for reminding me.
+    ko: 챙겨주셔서 감사합니다, 지휘관님.
+    ja: |-
+      教えてくださりありがとうございます。
+      指揮官様。
+  d_ex_maidcafe_07_92:
+    speaker: Monologue
+    en: Marciana gingerly grabs the half-eaten parfait and leaves the cafe.
+    ko: 마르차나는 파르페를 소중히 받아 든 후, 카페를 나섰다.
+    ja: |-
+      マルチャーナはパフェを大事そうに受け取り、
+      カフェを出た
+  d_ex_maidcafe_07_93:
+    speaker: tia
+    en: This parfait has been all the rage amongst the student body as of late.
+    ko: 최근 들어서 이 파르페가 학생들 사이에서 인기거든.
+    ja: 最近、このパフェが生徒たちの間で話題なの。
+  d_ex_maidcafe_07_94:
+    speaker: tia
+    en: That's why Miss Marciana came here to see if everything was on the up and
+      up.
+    ko: 그래서 직접 성분 검사를 하러 오셨나 봐.
+    ja: それで、直接成分検査をしに来たんだね。
+  d_ex_maidcafe_07_95:
+    speaker: tia
+    en: She truly is amazing.
+    ko: 정말 대단하시다아. 헤헤.
+    ja: 本当にすごいよぉ。えへへ。
+  d_ex_maidcafe_07_96:
+    speaker: Self
+    en: She sure is.
+    ko: "…그러게."
+    ja: "…そうだな"
+  d_ex_maidcafe_07_97:
+    speaker: tia
+    en: Now that this parfait has Miss Marciana's seal of approval,
+    ko: 마르차나 선생님이 성분까지 보증해준 파르페~
+    ja: |-
+      マルチャーナ先生が、
+      成分まで保証してくれたパフェ～
+  d_ex_maidcafe_07_98:
+    speaker: tia
+    en: I bet it's gonna be even harder to get one from now on.
+    ko: 앞으로 더 먹기 힘들어지겠는데?
+    ja: これからもっと人気出ちゃいそう。
+  d_ex_maidcafe_07_99:
+    speaker: tia
+    en: I'm glad I got the chance to try it out before it's impossible to get.
+    ko: 미리 먹어둬서 다행이다아.
+    ja: 今食べれてよかったぁ。
+  d_ex_maidcafe_07_100:
+    speaker: Monologue
+    en: While I watch Tia dive into the rest of the parfait,
+    ko: 행복한 듯 남은 파르페를 먹는 티아를 보며.
+    ja: |-
+      幸せそうに残りのパフェを食べている
+      ティアを見ながら
+  d_ex_maidcafe_07_101:
+    speaker: Monologue
+    en: I find myself thinking about what a tough gig teaching is.
+    ko: 교사란 생각보다 더 힘든 거구나, 생각했다.
+    ja: 教師は想像以上に大変なんだな、と思った
+d_ex_maidcafe_08:
+  d_ex_maidcafe_08_1:
+    speaker: "<Monologue>"
+    en: One peaceful afternoon,
+    ko: 평화로운 오후.
+    ja: のどかな昼下がり
+  d_ex_maidcafe_08_2:
+    speaker: "<Monologue>"
+    en: I find myself spending a relaxing time at the Maid Cafe, when...
+    ko: 메이드 카페에서 여유 있는 시간을 보내던 중-
+    ja: |-
+      メイドカフェでのんびりと
+      過ごしていたところ…
+  d_ex_maidcafe_08_3:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_08_4:
+    speaker: sugar
+    en: So, this is the place they keep blabbering about.
+    ko: 여기야?
+    ja: ここなの？
+  d_ex_maidcafe_08_5:
+    speaker: sugar
+    en: The one with coffee supposedly sweeter than Sugar Coffee.
+    ko: 슈가 커피보다 더 달달한 게 있다는 곳이.
+    ja: |-
+      シュガーコーヒーより
+      もっと甘いのがある場所って。
+  d_ex_maidcafe_08_6:
+    speaker: milk
+    en: This is it, all right!
+    ko: 그래, 여기야.
+    ja: ああ、ここだ。
+  d_ex_maidcafe_08_7:
+    speaker: milk
+    en: The place that has coffee creamier than Milk Coffee.
+    ko: 밀크 커피보다 더 찌인한 게 있다는 곳이.
+    ja: |-
+      ミルクコーヒーより
+      もっと濃～いのがある場所は。
+  d_ex_maidcafe_08_8:
+    speaker: ade
+    en: Welcome, Miss Sugar and Miss Milk.
+    ko: 어서 오세요 슈가 아가씨, 밀크 아가씨.
+    ja: |-
+      いらっしゃいませ。
+      シュガーお嬢様、ミルクお嬢様。
+  d_ex_maidcafe_08_9:
+    speaker: ade
+    en: Please take a seat wherever you desire.
+    ko: 원하시는 자리로 안내해 드리겠습니다.
+    ja: お好きな席にどうぞ。
+  d_ex_maidcafe_08_10:
+    speaker: "<Monologue>"
+    en: An unsettling tension starts to envelop the cafe.
+    ko: "…알 수 없는 긴장감이 돌기 시작했다."
+    ja: "…謎の緊張感が漂い始めた"
+  d_ex_maidcafe_08_11:
+    speaker: "<Self>"
+    en: What brings you two here?
+    ko: 슈가랑 밀크가 메이드 카페엔 웬일이야?
+    ja: シュガーとミルクがどうしてここに？
+  d_ex_maidcafe_08_12:
+    speaker: sugar
+    en: Our cafe's sales are in the dumps, but we heard this place is raking it in.
+    ko: |-
+      우리 카페 매출이 많이 줄었는데,
+      여기는 잘 나간다고 들어서.
+    ja: |-
+      うちのカフェの売上は下がってるのに、
+      ここは繁盛してるって聞いたから。
+  d_ex_maidcafe_08_13:
+    speaker: sugar
+    en: Thought we'd swing by and see if we can learn a thing or two.
+    ko: 뭐 참고라도 할 거 있나 싶어서 왔지.
+    ja: 何か参考になるんじゃないかと思って。
+  d_ex_maidcafe_08_14:
+    speaker: milk
+    en: I checked the reviews, and apparently, it has a 5-star rating.
+    ko: 후기를 보니까 별점이 5점이더라고.
+    ja: レビューを見たら、星5つだったんだよ。
+  d_ex_maidcafe_08_15:
+    speaker: milk
+    en: Seriously, does that even make sense?!
+    ko: 그게 말이 돼?!
+    ja: そんなのあり得ないだろ！？
+  d_ex_maidcafe_08_16:
+    speaker: milk
+    en: People's preferences for even a single cup of coffee can vary greatly; whether
+      they want sugar or milk added.
+    ko: |-
+      당장 커피 한잔에도 취향이 갈려서
+      설탕을 넣니 우유를 넣니 하는데.
+    ja: |-
+      コーヒー1杯でもみんな好みが違って、
+      砂糖を入れたりミルクを入れたりすんのに。
+  d_ex_maidcafe_08_17:
+    speaker: milk
+    en: Those reviews have to be fake.
+    ko: 분명 별점 사기일 거야.
+    ja: ぜったいやらせだな。
+  d_ex_maidcafe_08_18:
+    speaker: "<Self>"
+    en: "…"
+    ko: 아….
+    ja: あ…
+  d_ex_maidcafe_08_19:
+    speaker: ade
+    en: Allow me to properly introduce myself, ladies.
+    ko: 아가씨들, 다시 정식으로 인사드리겠습니다.
+    ja: |-
+      お嬢様がた、もう一度正式に
+      ご挨拶させていただきます。
+  d_ex_maidcafe_08_20:
+    speaker: ade
+    en: I'm Ade, the maid who has the pleasure of serving you today.
+    ko: 오늘 두 분을 모시게 될 메이드, 에이드라고 합니다.
+    ja: |-
+      本日お二人にお仕えさせていただく、
+      メイドのエードと申します。
+  d_ex_maidcafe_08_21:
+    speaker: sugar
+    en: Wow, fancy.
+    ko: 오, 우아한데?
+    ja: あら、優雅だこと。
+  d_ex_maidcafe_08_22:
+    speaker: milk
+    en: Wipe that smile off your face.
+    ko: 뭘 좋다고 쳐다보고 있어.
+    ja: なに喜んでんだよ。
+  d_ex_maidcafe_08_23:
+    speaker: milk
+    en: Now,
+    ko: 크흠! 그래, 에이드.
+    ja: オホンッ！よし、エード。
+  d_ex_maidcafe_08_24:
+    speaker: milk
+    en: what's a person got to do to get a menu around here?
+    ko: 여기는 메뉴판 같은 것도 없어?
+    ja: メニューとか、ないのか？
+  d_ex_maidcafe_08_25:
+    speaker: sugar
+    en: We don't have that either.
+    ko: 우리도 없잖아.
+    ja: うちもないわよね。
+  d_ex_maidcafe_08_26:
+    speaker: milk
+    en: Shut it, you!
+    ko: 야, 너 진짜…!
+    ja: なっ、お前…！
+  d_ex_maidcafe_08_27:
+    speaker: ade
+    en: My sincere apologies for the delay in presenting the menus,
+    ko: 제 소개를 드리느라 메뉴 전달이 늦어졌네요.
+    ja: |-
+      自己紹介をしていて、
+      メニューをお渡しするのが
+      遅くなってしまいました。
+  d_ex_maidcafe_08_28:
+    speaker: ade
+    en: as I was taking a moment to introduce myself.
+    ko: 죄송합니다, 메뉴판 드리겠습니다.
+    ja: |-
+      申し訳ございません。
+      こちらがメニューでございます。
+  d_ex_maidcafe_08_29:
+    speaker: milk
+    en: Well… at least you addressed the issue quickly enough.
+    ko: 으음… 뭐, 피드백은 빨라서 좋네.
+    ja: うーん…まあ、対応が早くていいな。
+  d_ex_maidcafe_08_30:
+    speaker: milk
+    en: Let's see…
+    ko: 어디 보자.
+    ja: どれどれ…
+  d_ex_maidcafe_08_31:
+    speaker: milk
+    en: What's good here? Is there anything you would recommend?
+    ko: 여기는 뭐가 맛있어? 추천할만한 거 있어?
+    ja: ここは何がうまいんだ？おすすめは？
+  d_ex_maidcafe_08_32:
+    speaker: ade
+    en: Our most popular dish is undoubtedly the omurice.
+    ko: |-
+      가장 많이 나가는 음식은
+      특제 오므라이스라고 하는 메뉴인데요.
+    ja: 一番人気のメニューは、特製オムライスです。
+  d_ex_maidcafe_08_33:
+    speaker: ade
+    en: Our maids will personally drizzle ketchup atop the dish.
+    ko: |-
+      저희 가게의 메이드들이
+      오므라이스 위에 케첩으로 직접 그림을 그려드리죠.
+    ja: |-
+      当店のメイドたちが
+      オムライスの上にケチャップで
+      イラストを描かせていただきます。
+  d_ex_maidcafe_08_34:
+    speaker: milk
+    en: No kidding?
+    ko: 오호, 그래?
+    ja: おお、そうなのか。
+  d_ex_maidcafe_08_35:
+    speaker: sugar
+    en: All right, I'll take the omurice and a cup of coffee.
+    ko: 난 특제 오므라이스 하나랑 커피 한 잔 부탁해.
+    ja: 私は特製オムライスとコーヒーをお願い。
+  d_ex_maidcafe_08_36:
+    speaker: milk
+    en: I'll have the same.
+    ko: 그럼 나도 같은 걸로.
+    ja: じゃあ、私もそれで。
+  d_ex_maidcafe_08_37:
+    speaker: ade
+    en: Certainly.
+    ko: 네, 알겠습니다.
+    ja: はい、かしこまりました。
+  d_ex_maidcafe_08_38:
+    speaker: ade
+    en: Could you please wait just a moment?
+    ko: 잠시만 기다려주세요.
+    ja: 少々お待ちくださいませ。
+  d_ex_maidcafe_08_39:
+    speaker: milk
+    en: If anything seems even slightly off about this place, I'm gonna leave a bad
+      review.
+    ko: |-
+      조금이라도 맛이 이상하면
+      바로 후기에 남겨버릴 거야.
+    ja: |-
+      ちょっとでもマズかったら
+      すぐに書きこんでやるぜ。
+  d_ex_maidcafe_08_40:
+    speaker: milk
+    en: Anyway,
+    ko: 그나저나 형씨.
+    ja: それより、兄貴。
+  d_ex_maidcafe_08_41:
+    speaker: milk
+    en: it seems like you come here quite often, huh, Pal?
+    ko: 메이드 카페에 자주 오나 봐?
+    ja: 兄貴もメイドカフェにはよく来てるみてえだな？
+  d_ex_maidcafe_08_42:
+    speaker: "<Self>"
+    en: I come occasionally.
+    ko: 종종 오는 편이지.
+    ja: ああ、まあな
+  d_ex_maidcafe_08_43:
+    speaker: sugar
+    en: So, you're a fan as well?
+    ko: 파트너까지 마음에 들어 했다니.
+    ja: パートナーも通い詰めてるなんて。
+  d_ex_maidcafe_08_44:
+    speaker: sugar
+    en: I'm actually starting to really look forward to this.
+    ko: 점점 더 기대되는데?
+    ja: 期待できそうね。
+  d_ex_maidcafe_08_45:
+    speaker: "<Monologue>"
+    en: A short while later.
+    ko: "…그렇게 잠시 후."
+    ja: "…しばらくして"
+  d_ex_maidcafe_08_46:
+    speaker: ade
+    en: Thank you for waiting.
+    ko: 오래 기다리셨습니다.
+    ja: お待たせいたしました。
+  d_ex_maidcafe_08_47:
+    speaker: ade
+    en: Here are your omurice and coffee.
+    ko: 주문하신 오므라이스와 커피 내어 드릴게요.
+    ja: オムライスとコーヒーをお持ちいたしました。
+  d_ex_maidcafe_08_48:
+    speaker: "<Narration>"
+    en: "*Clang*"
+    ko: 달그락.
+    ja: カチャ
+  d_ex_maidcafe_08_49:
+    speaker: milk
+    en: Hmm?
+    ko: 음?
+    ja: ん？
+  d_ex_maidcafe_08_50:
+    speaker: milk
+    en: Hey, Ade!
+    ko: 이봐, 에이드.
+    ja: おい、エード。
+  d_ex_maidcafe_08_51:
+    speaker: milk
+    en: Why are our coffees different color?
+    ko: 왜 나랑 슈가의 커피색이 다르지?
+    ja: なんで私とシュガーのコーヒーの色が違うんだ？
+  d_ex_maidcafe_08_52:
+    speaker: ade
+    en: We took great care in tailoring each cup to suit your preferences.
+    ko: 저희는 아가씨들의 취향에 최대한 맞춰드리고 있어요.
+    ja: |-
+      私たちはお嬢様がたのお好みにできるだけ
+      沿うことができるよう、努力しております。
+  d_ex_maidcafe_08_53:
+    speaker: ade
+    en: For Miss Sugar, we've sweetened the coffee with a touch more sugar,
+    ko: 그래서 슈가 아가씨에겐 설탕을 넣은 커피를.
+    ja: シュガーお嬢様にはお砂糖入りのコーヒーを、
+  d_ex_maidcafe_08_54:
+    speaker: ade
+    en: while yours is made creamier with the additional milk.
+    ko: 밀크 아가씨에겐 우유를 넣은 커피를 내려드렸어요.
+    ja: |-
+      ミルクお嬢様にはミルク入りのコーヒーを
+      お持ちいたしました。
+  d_ex_maidcafe_08_55:
+    speaker: sugar
+    en: So, you cater to each customer's preferences? Seems like a hassle.
+    ko: 이렇게 손님마다 다르게 주면 번거롭지 않아?
+    ja: ひとりひとりに対応するのは面倒じゃない？
+  d_ex_maidcafe_08_56:
+    speaker: ade
+    en: It's no trouble at all.
+    ko: 같은 메뉴라도, 아가씨들이 더 맛있게 드실 수 있다면.
+    ja: |-
+      お嬢様がたによりおいしく召し上がって
+      いただけるのでしたら
+  d_ex_maidcafe_08_57:
+    speaker: ade
+    en: Even with the same menu, I strive to create a uniquely delightful experience
+      for both of you.
+    ko: 전 전혀 번거롭지 않아요.
+    ja: よろこんでそうさせていただきます。
+  d_ex_maidcafe_08_58:
+    speaker: sugar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_08_59:
+    speaker: milk
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_08_60:
+    speaker: milk
+    en: Ha! You expect me to believe this is tasty?
+    ko: 하! 이래놓고 엄청 맛없는 거 아냐?
+    ja: ふん！実はとんでもなくマズイかもな？
+  d_ex_maidcafe_08_61:
+    speaker: milk
+    en: Well, let me have a try!
+    ko: 어디 한 번 마셔볼까?!
+    ja: 飲んでみるぞ！
+  d_ex_maidcafe_08_62:
+    speaker: "<Narration>"
+    en: "*Sip*"
+    ko: 호로록-
+    ja: ゴクッ
+  d_ex_maidcafe_08_63:
+    speaker: milk
+    en: "...!"
+    ko: "……!!"
+    ja: "……！！"
+  d_ex_maidcafe_08_64:
+    speaker: milk
+    en: What the heck is this? This rich milk taste...
+    ko: 뭐야, 이 고소한 우유맛.
+    ja: 風味豊かなミルクの味…
+  d_ex_maidcafe_08_65:
+    speaker: milk
+    en: It's surprisingly delicious!
+    ko: 엄청 맛있는데…?
+    ja: 何だよ、めちゃくちゃうまいぞ…
+  d_ex_maidcafe_08_66:
+    speaker: sugar
+    en: I'd say 14 spoonfuls of sugar were used in mine.
+    ko: 설탕 14스푼.
+    ja: 砂糖14杯。
+  d_ex_maidcafe_08_67:
+    speaker: sugar
+    en: That's sufficiently sweet. Quite pleasant, in fact.
+    ko: 적당히 달고 괜찮은 맛이야.
+    ja: 適度に甘くていい味ね。
+  d_ex_maidcafe_08_68:
+    speaker: ade
+    en: I'm delighted to hear that you both enjoyed it.
+    ko: 만족하셨다니, 다행이에요.
+    ja: ご満足いただけたようで、安心いたしました。
+  d_ex_maidcafe_08_69:
+    speaker: milk
+    en: Hold your horses, we've not tried the omurice yet!
+    ko: 하, 하지만 아직 오므라이스가 남았어!
+    ja: で、でもまだオムライスがある！
+  d_ex_maidcafe_08_70:
+    speaker: milk
+    en: Who knows, it might taste horrendous!
+    ko: 이 오므라이스가 어엄청 맛이 이상할 수도 있잖아?
+    ja: |-
+      このオムライスがめっっっちゃ
+      マズいかもしれないだろ？
+  d_ex_maidcafe_08_71:
+    speaker: ade
+    en: Would you like to have your omurice straight away?
+    ko: 아, 바로 오므라이스도 드실 건가요?
+    ja: |-
+      あっ、オムライスもすぐにお召し上がりに
+      なりますか？
+  d_ex_maidcafe_08_72:
+    speaker: ade
+    en: If so, please allow me to garnish it with some ketchup.
+    ko: 그럼 제가 케첩을 뿌려 드릴게요.
+    ja: それでは私がケチャップをかけさせて頂きます。
+  d_ex_maidcafe_08_73:
+    speaker: ade
+    en: For Miss Sugar, I believe a motorcycle would be most fitting.
+    ko: 슈가 아가씨에게는 멋진 바이크 그림을.
+    ja: シュガーお嬢様にはかっこいいバイクの絵を
+  d_ex_maidcafe_08_74:
+    speaker: sugar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_08_75:
+    speaker: ade
+    en: For Miss Milk, I'll draw a mighty fist.
+    ko: 밀크 아가씨에게는 커다란 주먹 그림을.
+    ja: ミルクお嬢様には大きな拳の絵を。
+  d_ex_maidcafe_08_76:
+    speaker: milk
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_08_77:
+    speaker: ade
+    en: Voila, it's all done!
+    ko: 짠~ 다 그렸어요.
+    ja: さあ、できました。
+  d_ex_maidcafe_08_78:
+    speaker: milk
+    en: Wow, you're really good at that!
+    ko: 와! 너 케첩으로 그림 진짜 잘 그린다.
+    ja: わあ！絵、うまいな！
+  d_ex_maidcafe_08_79:
+    speaker: milk
+    en: It's so well-done that I'm almost tempted to give it a fist bump.
+    ko: 여기에 내 주먹을 대보고 싶을 정도야.
+    ja: ここに私の拳をぶつけたくなるぜ。
+  d_ex_maidcafe_08_80:
+    speaker: sugar
+    en: It's Black Typhoon, but… red.
+    ko: "…레드 블랙 타이푼?"
+    ja: "…レッドブラックタイフーン？"
+  d_ex_maidcafe_08_81:
+    speaker: sugar
+    en: Very cool!
+    ko: 멋져.
+    ja: かっこいいわね。
+  d_ex_maidcafe_08_82:
+    speaker: milk
+    en: Are we all set to dig in?
+    ko: 좋아, 이제 다 된 거지?
+    ja: よし、これで完成だな？
+  d_ex_maidcafe_08_83:
+    speaker: milk
+    en: Then...
+    ko: 바로 먹어볼-
+    ja: さっそく食べてみ…
+  d_ex_maidcafe_08_84:
+    speaker: ade
+    en: Just a moment, ladies.
+    ko: 아직 안 돼요, 아가씨.
+    ja: お待ちください、お嬢様。
+  d_ex_maidcafe_08_85:
+    speaker: milk
+    en: Huh?
+    ko: 엥?
+    ja: え？
+  d_ex_maidcafe_08_86:
+    speaker: ade
+    en: You have to recite the spell with me.
+    ko: 저와 함께 맛있어지는 주문을 외우셔야 해요.
+    ja: 私と一緒においしくなる呪文を唱えましょう。
+  d_ex_maidcafe_08_87:
+    speaker: milk
+    en: Come again?
+    ko: 마, 맛있어지는 주문…?
+    ja: お、おいしくなる呪文…？
+  d_ex_maidcafe_08_88:
+    speaker: sugar
+    en: Alakazam, make this sucker delicious!
+    ko: 맛있어져라 얍.
+    ja: おいしくなれ、はっ！
+  d_ex_maidcafe_08_89:
+    speaker: ade
+    en: Hehe, that's a fine spell as well,
+    ko: 후후, 슈가 아가씨의 주문도 좋지만.
+    ja: ふふ、シュガーお嬢様の呪文もいいですが
+  d_ex_maidcafe_08_90:
+    speaker: ade
+    en: but there is one specific spell that is exclusive to the Maid Cafe.
+    ko: 저희 메이드 카페에서만 할 수 있는 주문이 있답니다.
+    ja: メイドカフェでしかできない呪文があるのです。
+  d_ex_maidcafe_08_91:
+    speaker: ade
+    en: Now, repeat after me.
+    ko: 자, 따라 해 보세요.
+    ja: では、繰り返してくださいね。
+  d_ex_maidcafe_08_92:
+    speaker: ade
+    en: Ooey gooey goodness, make this omurice delicious!
+    ko: 맛있어져라~ 하트하트 큥♪
+    ja: おいしくな～れ、ハートハート、キュン♪
+  d_ex_maidcafe_08_93:
+    speaker: milk
+    en: What in the world…?
+    ko: 으에! 그게 뭔….
+    ja: うげっ！何だよそれ…
+  d_ex_maidcafe_08_94:
+    speaker: sugar
+    en: Ooey gooey goodness, make this omurice delicious!
+    ko: 맛있어져라~ 하트하트 큥♪
+    ja: おいしくな～れ、ハートハート、キュン♪
+  d_ex_maidcafe_08_95:
+    speaker: milk
+    en: How can you just follow like that?
+    ko: 넌 그걸 바로 따라 하냐!
+    ja: なんでやってんだよ！
+  d_ex_maidcafe_08_96:
+    speaker: milk
+    en: Ugh…
+    ko: 으으….
+    ja: うう…
+  d_ex_maidcafe_08_97:
+    speaker: milk
+    en: Do I really have to do this?
+    ko: 이거 꼭 해야해?
+    ja: 絶対やんなきゃダメなのか？
+  d_ex_maidcafe_08_98:
+    speaker: ade
+    en: It's not mandatory, but reciting the spell would undoubtedly elevate the flavors.
+    ko: |-
+      네, 주문을 외우지 않으면
+      오므라이스의 맛이 떨어질 거예요.
+    ja: |-
+      はい。呪文を唱えなければ、
+      オムライスの味が落ちてしまいます。
+  d_ex_maidcafe_08_99:
+    speaker: milk
+    en: Ugh, fine!
+    ko: 으으으으…!!
+    ja: うううう…！！
+  d_ex_maidcafe_08_100:
+    speaker: milk
+    en: "... Ooey gooey goodness, make this omurice delicious!"
+    ko: "…마, 맛있어져라, 하트하트 큥!"
+    ja: "…お、おいしくな～れ、ハートハート、キュン！"
+  d_ex_maidcafe_08_101:
+    speaker: ade
+    en: Incredible!
+    ko: 와아~
+    ja: わあ～！
+  d_ex_maidcafe_08_102:
+    speaker: ade
+    en: You both recited the spell very nicely.
+    ko: |-
+      두 분 다 완벽하게 주문을 외워주셔서
+      마법이 완벽하게 걸렸어요.
+    ja: |-
+      お二人とも完璧でしたので、
+      ちゃんと魔法がかかりました。
+  d_ex_maidcafe_08_103:
+    speaker: ade
+    en: Now, please enjoy your meal.
+    ko: 이제 맛있게 드셔주세요.
+    ja: どうぞお召し上がりください。
+  d_ex_maidcafe_08_104:
+    speaker: milk
+    en: Just you wait! If this tastes horrendous, I'm gonna give you the worst review
+      ever!
+    ko: 좋아! 먹고 나서 어마어마한 혹평을 쏟아주지!
+    ja: よし！食べてから厳しく評価してやるぞ！
+  d_ex_maidcafe_08_105:
+    speaker: milk
+    en: "*Munch*"
+    ko: 냠!
+    ja: もぐ！
+  d_ex_maidcafe_08_106:
+    speaker: sugar
+    en: "*Munch*"
+    ko: 냠.
+    ja: もぐ。
+  d_ex_maidcafe_08_107:
+    speaker: milk
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_08_108:
+    speaker: sugar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_08_109:
+    speaker: ade
+    en: Thank you for dining with us.
+    ko: 들러 주셔서 감사했어요, 아가씨들.
+    ja: |-
+      本日はお越しいただきありがとうございました、
+      お嬢様がた。
+  d_ex_maidcafe_08_110:
+    speaker: ade
+    en: Hope to see you again soon.
+    ko: 그럼 다녀오세요.
+    ja: それでは、行ってらっしゃいませ。
+  d_ex_maidcafe_08_111:
+    speaker: milk
+    en: Sure, everything we had today was decent, but don't celebrate just yet!
+    ko: "…뭐, 오늘 먹은 건 맛있긴 했다만."
+    ja: "…まあ、今日食べたのはうまかったけど"
+  d_ex_maidcafe_08_112:
+    speaker: milk
+    en: I'll be trying every dish on your menu, and if I find a flaw, you'll be in
+      for a scathing review!
+    ko: |-
+      모든 메뉴를 다 먹고 나서
+      하나하나 다 혹평을 날려줄 테니까, 긴장하고 있어!
+    ja: |-
+      全メニューを制覇してから
+      酷評してやるから、覚悟しろよ！
+  d_ex_maidcafe_08_113:
+    speaker: sugar
+    en: Next time I come, I'll swap out the engine on Black Typhoon, and you can reflect
+      that change in the ketchup doodle.
+    ko: |-
+      다음엔 블랙 타이푼의 엔진을 바꿔 올 테니
+      케첩 그림에도 반영 부탁해.
+    ja: |-
+      次はブラックタイフーンの
+      エンジンを変えてくるから
+      ケチャップの絵にも反映してね。
+  d_ex_maidcafe_08_114:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_08_115:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_08_116:
+    speaker: "<Monologue>"
+    en: Ade gazes out the door with a soft smile.
+    ko: 에이드는 문을 바라보며 부드러운 웃음을 짓고 있었고.
+    ja: エードは扉を見つめながら優しく微笑んでいた
+  d_ex_maidcafe_08_117:
+    speaker: "<Monologue>"
+    en: Just like that, there are two more regulars at the Maid Cafe.
+    ko: 그렇게 메이드 카페에 새로운 단골이 생겼다.
+    ja: こうして、メイドカフェに新しい常連客ができた
+d_ex_maidcafe_09:
+  d_ex_maidcafe_09_1:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_maidcafe_09_2:
+    speaker: "<Monologue>"
+    en: Blanc, Noir, and I have been invited to the Maid Cafe.
+    ko: 오늘은 블랑, 누아르와 같이 메이드 카페에 초대를 받은 날이다.
+    ja: |-
+      今日はブラン、ノワールと一緒に
+      メイドカフェに招待された
+  d_ex_maidcafe_09_3:
+    speaker: "<Monologue>"
+    en: We've come to taste some of the new menu items, and as thanks for our effort,
+    ko: |-
+      블랑과 누아르를 컨셉으로 한 쌍둥이 바니걸 특별 메뉴들이
+      준비되어 있으니.
+    ja: |-
+      ブランとノワールをモチーフにした
+      双子バニーガールの特別メニューを用意したから
+  d_ex_maidcafe_09_4:
+    speaker: "<Monologue>"
+    en: Soda plans on creating a few unique dishes especially for Blanc and Noir.
+    ko: 직접 맛을 보고 평가를 해달라는 소다의 부탁이었다.
+    ja: |-
+      実際に味を見て評価してほしいと
+      ソーダから頼まれたのだった
+  d_ex_maidcafe_09_5:
+    speaker: blanc
+    en: Wowzer!
+    ko: 와아~
+    ja: わあ～！
+  d_ex_maidcafe_09_6:
+    speaker: noir
+    en: Wow...
+    ko: 와아…!
+    ja: わあ…！
+  d_ex_maidcafe_09_7:
+    speaker: "<Monologue>"
+    en: The cafe is festooned with bunny girl-related decorations.
+    ko: 이곳저곳에 바니걸에 관련된 장식이 눈에 보였다.
+    ja: |-
+      バニーガールに関連したアイテムが
+      至る所に飾ってあった
+  d_ex_maidcafe_09_8:
+    speaker: soda_b
+    en: Hey, guys!
+    ko: 어어? 주인니임~
+    ja: あれ？ご主人さまぁ～
+  d_ex_maidcafe_09_9:
+    speaker: soda_b
+    en: How nice of you to come!
+    ko: 그리고 블랑, 누아르까지~! 와주셨군요~!
+    ja: |-
+      それにブランとノワールも！
+      来てくれたんですね～！
+  d_ex_maidcafe_09_10:
+    speaker: blanc
+    en: We heard you'd prepared a special menu just for us, so how could we not come?
+    ko: |-
+      우리를 위해 특별히 준비한 메뉴가 있다는데,
+      어떻게 안 올 수가 있겠어요~
+    ja: |-
+      私たちのために特別に用意してくれた
+      メニューがあるんですよね？
+      楽しみです！
+  d_ex_maidcafe_09_11:
+    speaker: blanc
+    en: Isn't that right, Noir?
+    ko: 그렇지 언니?
+    ja: ね？お姉ちゃん。
+  d_ex_maidcafe_09_12:
+    speaker: noir
+    en: Y-yeah! I love your outfit, Soda. It's so pretty.
+    ko: |-
+      으… 응!
+      소, 소다! 지금 입고 있는 옷도 너무 예뻐요…!
+    ja: |-
+      う…うん！
+      そ、ソーダ！その格好もすごくかわいいです…！
+  d_ex_maidcafe_09_13:
+    speaker: soda_b
+    en: Oh my gosh, thanks!
+    ko: 후에에~ 감사해요~!
+    ja: ふぇぇ～ありがとうございます～！
+  d_ex_maidcafe_09_14:
+    speaker: soda_b
+    en: What an honor to be praised by real, genuine bunny girls.
+    ko: 헤헤, 진짜 바니걸 분들에게 칭찬받으니 기분이 좋네요~
+    ja: |-
+      えへへ、本物のバニーガールさんに
+      褒めてもらって嬉しいです～
+  d_ex_maidcafe_09_15:
+    speaker: blanc
+    en: Come now, there's no such thing as real or fake when it comes to bunny girls.
+    ko: 에이~ 진짜 가짜가 어디에 있어요~
+    ja: 本物も偽物もないですよ～
+  d_ex_maidcafe_09_16:
+    speaker: blanc
+    en: From where I'm standing, you look like a proper bunny girl through and through.
+    ko: 소다도 지금 어엿한 바니걸로 보이는걸요?!
+    ja: ソーダも立派なバニーガールに見えます！
+  d_ex_maidcafe_09_17:
+    speaker: soda_b
+    en: Hehe, thank you.
+    ko: 헤헤~ 감사합니다아!
+    ja: えへへ、ありがとうございますぅ！
+  d_ex_maidcafe_09_18:
+    speaker: soda_b
+    en: Here, let me show you to your seat. Wait right here, and I'll be back.
+    ko: |-
+      일단 이쪽으로 안내해 드릴게요!
+      편하게 앉아서 기다려주세요!
+    ja: |-
+      どうぞ、こちらへ！
+      お掛けになってお待ちください！
+  d_ex_maidcafe_09_19:
+    speaker: "<Monologue>"
+    en: Soda darts into the kitchen.
+    ko: 소다는 부엌으로 뛰어갔다.
+    ja: ソーダはキッチンに走っていった
+  d_ex_maidcafe_09_20:
+    speaker: blanc
+    en: An entire menu inspired by us... I can hardly believe it.
+    ko: 와아~ 우리를 컨셉으로 한 메뉴라니~
+    ja: 私たちをモチーフにしたメニューだなんて…
+  d_ex_maidcafe_09_21:
+    speaker: blanc
+    en: I'm so pumped for this! What about you, Noir?
+    ko: 너무 기대된다 그치? 언니.
+    ja: すごく楽しみだね、お姉ちゃん。
+  d_ex_maidcafe_09_22:
+    speaker: noir
+    en: I'm really excited as well. And you, Pit Boss?
+    ko: |-
+      응! 나도 너무 기대돼!
+      점장님은… 어떠신가요?
+    ja: |-
+      うん！ドキドキするね。
+      店長は…いかがですか？
+  d_ex_maidcafe_09_23:
+    speaker: "<Self>"
+    en: I'm looking forward to it too.
+    ko: 나도 기대되는걸?
+    ja: 私も楽しみだ
+  d_ex_maidcafe_09_24:
+    speaker: soda_b
+    en: Thank you for waiting. First up, we have some Bunny Omurice for you.
+    ko: 오래 기다리셨어요~ 첫 번째 음식은 바니 오므라이스에요!
+    ja: |-
+      お待たせしました～！
+      1つ目は、バニーオムライスです！
+  d_ex_maidcafe_09_25:
+    speaker: soda_b
+    en: Enjoy.
+    ko: 그럼… 한번 맛을 봐주실 수 있을까요~?
+    ja: 味見していただけますか？
+  d_ex_maidcafe_09_26:
+    speaker: "<Self>"
+    en: Let's dig in.
+    ko: 알겠어, 먹어볼게.
+    ja: 分かった。食べてみよう
+  d_ex_maidcafe_09_27:
+    speaker: blanc
+    en: Thanks, Soda.
+    ko: 헤헤, 잘 먹겠습니다~ 아앙~
+    ja: えへへ、いただきまーす！ぱくっ！
+  d_ex_maidcafe_09_28:
+    speaker: "<Monologue>"
+    en: We each take a scoop of our omurice and sample it eagerly.
+    ko: 우리는 오므라이스를 조금씩 떠서 입에 넣었다.
+    ja: 私たちはオムライスを一口食べた
+  d_ex_maidcafe_09_29:
+    speaker: blanc
+    en: Wow! It's delicious!
+    ko: 와아~ 너무 맛있어요!
+    ja: わあ、すごくおいしいです！
+  d_ex_maidcafe_09_30:
+    speaker: noir
+    en: Yeah! The ketchup is really sweet, I like it.
+    ko: 응…! 케첩 소스가 너무 달콤해서 좋아!
+    ja: うん…！ケチャップがすごく甘くていいね！
+  d_ex_maidcafe_09_31:
+    speaker: blanc
+    en: Really? I thought it was a bit spicy, actually.
+    ko: 엇, 정말? 나는 약간 매콤했었는데?
+    ja: えっ？ちょっと辛かったよ？
+  d_ex_maidcafe_09_32:
+    speaker: blanc
+    en: What do you think of the taste, Pit Boss?
+    ko: 점장님은 어떤 맛이었나요?
+    ja: 店長はどうでしたか？
+  d_ex_maidcafe_09_33:
+    speaker: "<Choice>"
+    en: I think it's leaning towards sweet.
+    ko: 달콤한 케첩 소스가 느껴졌어.
+    ja: 甘いケチャップだった
+  d_ex_maidcafe_09_34:
+    speaker: "<Choice>"
+    en: I think it's leaning towards spicy.
+    ko: 매콤한 소스가 느껴졌어.
+    ja: 辛いソースだった
+  d_ex_maidcafe_09_35:
+    speaker: blanc
+    en: Really? Is my taste sensor broken?
+    ko: 정말요? 저의 미각 센서가 고장 난 걸까요…?
+    ja: |-
+      本当ですか？
+      私の味覚センサーが壊れちゃったのかな…？
+  d_ex_maidcafe_09_36:
+    speaker: noir
+    en: Oh... m-maybe I made a mistake.
+    ko: 앗… 제, 제가 착각했나 봐요!
+    ja: あっ…わ、私の勘違いだったみたいです！
+  d_ex_maidcafe_09_37:
+    speaker: noir
+    en: There's no way you both could be wrong...
+    ko: 점장님과 블랑이 틀릴 리는 없으니까….
+    ja: 店長とブランが間違うはずないので…
+  d_ex_maidcafe_09_38:
+    speaker: soda_b
+    en: Since today's menu is centered around Blanc and Noir,
+    ko: 누아르와 블랑의 컨셉이니까요~
+    ja: ノワールとブランをモチーフにしたので、
+  d_ex_maidcafe_09_39:
+    speaker: soda_b
+    en: I made two variations for each dish.
+    ko: 맛도 한쪽씩 다른 맛으로 해봤어요!
+    ja: 2つの味が楽しめるようにしてみたんです！
+  d_ex_maidcafe_09_40:
+    speaker: blanc
+    en: I can't believe you went to such lengths for us, Soda.
+    ko: 와, 정성이 정말 대단해요 소다!
+    ja: わあ、すごく手が込んでいますね！
+  d_ex_maidcafe_09_41:
+    speaker: noir
+    en: I'm so touched...
+    ko: 저희를 위해서 이렇게까지… 너무 감동이에요….
+    ja: 私たちのためにそこまで…感動です…
+  d_ex_maidcafe_09_42:
+    speaker: "<Self>"
+    en: Sauces can be similar in many ways, but also distinctly unique. Just like
+      Blanc and Noir.
+    ko: |-
+      마치 한 몸과 같지만 다른 매력을 품고 있는,
+      토끼 자매의 매력을 표현한 음식이구나?
+    ja: |-
+      似ているがそれぞれ異なる魅力を持った…
+      ウサギ姉妹の魅力を表現した料理だな
+  d_ex_maidcafe_09_43:
+    speaker: soda_b
+    en: That's precisely what I was going for!
+    ko: 네에! 정확해요~!
+    ja: はい！その通りです！
+  d_ex_maidcafe_09_44:
+    speaker: soda_b
+    en: Here, let me show you one more thing.
+    ko: 헤헤~ 한 가지 더 보여드릴게요!
+    ja: えへへ、もう1つお持ちしますね！
+  d_ex_maidcafe_09_45:
+    speaker: soda_b
+    en: This is a Bunny Parfait! I made this in two variations.
+    ko: |-
+      이번에는 바니 파르페에요~
+      이것도 비슷한 느낌으로 두 가지 맛으로 만들어봤어요!
+    ja: |-
+      次はバニーパフェです～
+      これも2つの味で作ってみました！
+  d_ex_maidcafe_09_46:
+    speaker: "<Monologue>"
+    en: Soda brings out a parfait in an opulent glass.
+    ko: 소다는 화려한 용기에 담긴 파르페를 가져왔다.
+    ja: |-
+      ソーダは派手な器に盛り付けられた
+      パフェを運んできた
+  d_ex_maidcafe_09_47:
+    speaker: soda_b
+    en: The right side is chocolate flavored, representing Noir, and the left is cream
+      flavored for Blanc.
+    ko: |-
+      파르페의 오른쪽은 초코 맛으로 누아르,
+      왼쪽은 우유 맛으로 블랑을 표현한 부분이에요~!
+    ja: |-
+      パフェの右側はチョコ味でノワール、
+      左側はミルク味でブランを表現しています！
+  d_ex_maidcafe_09_48:
+    speaker: blanc
+    en: It looks absolutely gorgeous!
+    ko: 와아~ 너무 이쁘게 생겼어요~
+    ja: わあ！すごくかわいいです！
+  d_ex_maidcafe_09_49:
+    speaker: noir
+    en: How interesting.
+    ko: 너무 신기해요…!
+    ja: すごく面白いです…！
+  d_ex_maidcafe_09_50:
+    speaker: "<Monologue>"
+    en: All three of us dig into our parfaits, and before we know it, we've nearly
+      polished them off.
+    ko: |-
+      토끼 자매와 나는 맛있게 음식을 시식했고,
+      어느덧 막바지에 다다랐다.
+    ja: ウサギ姉妹と私はおいしく料理を食べ終えた
+  d_ex_maidcafe_09_51:
+    speaker: soda_b
+    en: So, what did you think?
+    ko: 전체적으로 어떠셨나요오…?
+    ja: いかがでしたか…？
+  d_ex_maidcafe_09_52:
+    speaker: noir
+    en: I really enjoyed it.
+    ko: |-
+      저, 저는 너무 마음에 들었어요!
+      점장님은요?
+    ja: |-
+      わ、私はとても気に入りました！
+      店長はどうでしたか？
+  d_ex_maidcafe_09_53:
+    speaker: "<Self>"
+    en: Delicious. Blanc?
+    ko: 응, 너무 맛있었어. 블랑은?
+    ja: ああ、すごくおいしかった。ブランは？
+  d_ex_maidcafe_09_54:
+    speaker: blanc
+    en: Hmm... there was one thing that bothered me.
+    ko: 흠… 저는 한 가지 걸리는 게 있더라고요.
+    ja: うーん…私は1つ引っかかることがあります。
+  d_ex_maidcafe_09_55:
+    speaker: soda_b
+    en: Oh?
+    ko: 흐에…? 정말요?
+    ja: ふぇぇ…？
+  d_ex_maidcafe_09_56:
+    speaker: soda_b
+    en: What's that?
+    ko: 혹시… 어떤 부분이 마음에 들지 않으셨는지 알 수 있을까요오…?
+    ja: |-
+      その…何が気になったのか
+      教えていただけますか…？
+  d_ex_maidcafe_09_57:
+    speaker: blanc
+    en: Aren't you supposed to be a bunny girl right now?
+    ko: 으음… 소다도 지금 바니걸이 되었지 않나요?
+    ja: えっと…ソーダも今はバニーガールですよね。
+  d_ex_maidcafe_09_58:
+    speaker: soda_b
+    en: Yes... why?
+    ko: 네에, 맞아요오….
+    ja: はい、そうですぅ…
+  d_ex_maidcafe_09_59:
+    speaker: blanc
+    en: You crafted these incredible dishes for us, but left yourself out. I wish
+      there was something prepared for you, Soda.
+    ko: |-
+      저희를 위한 메뉴도 좋지만,
+      이번만큼은 소다를 위한 메뉴도 하나쯤 있었으면 좋겠어요!
+    ja: |-
+      私たちのためのメニューもいいけど、
+      今回はソーダのためのメニューも
+      あったらいいなって！
+  d_ex_maidcafe_09_60:
+    speaker: noir
+    en: I agree.
+    ko: 아앗… 저도 이건 찬성이에요!
+    ja: あっ…私もそれは賛成です！
+  d_ex_maidcafe_09_61:
+    speaker: noir
+    en: You're always thinking of others and neglecting yourself.
+    ko: 소다는 항상 남을 생각하고 남을 위해서 일하니까요….
+    ja: ソーダはいつも誰かのために働いてますから…
+  d_ex_maidcafe_09_62:
+    speaker: blanc
+    en: This time, you deserve to share the spotlight with us.
+    ko: 이번에는 소다도 저희와 함께 같이 빛나주세요!
+    ja: 今回は、ソーダも私たちと一緒に輝きましょう！
+  d_ex_maidcafe_09_63:
+    speaker: blanc
+    en: Every individual bunny girl should shine as bright as the next.
+    ko: 바니걸은 그런 존재잖아요?
+    ja: バニーガールは、そういう存在ですから！
+  d_ex_maidcafe_09_64:
+    speaker: soda_b
+    en: I... I never thought about that before.
+    ko: 흐에에? 그런 건 생각해 본 적 없는데요오….
+    ja: ふぇぇ？考えたこともありませんでしたぁ…
+  d_ex_maidcafe_09_65:
+    speaker: soda_b
+    en: So what should I do?
+    ko: 으움… 그러면 어떻게 해야 할지….
+    ja: うーん…それならどうしたら…
+  d_ex_maidcafe_09_66:
+    speaker: "<Self>"
+    en: Hmm...
+    ko: 흐음….
+    ja: うーん…
+  d_ex_maidcafe_09_67:
+    speaker: "<Self>"
+    en: How about adding a flavor to the parfait that represents Soda?
+    ko: 파르페에 소다를 컨셉으로 한 맛을 하나 추가하는 게 어때?
+    ja: |-
+      パフェにソーダをモチーフにした味を
+      1つ加えるのはどうだ？
+  d_ex_maidcafe_09_68:
+    speaker: blanc
+    en: A fine idea, Pit Boss. I'm sure we can come up with something between all
+      of us.
+    ko: |-
+      와아~ 역시 점장님이에요!
+      그럼 지금 바로 같이 생각해 볼까요?
+    ja: |-
+      わあ、さすが店長！
+      さっそく一緒に考えてみましょう！
+  d_ex_maidcafe_09_69:
+    speaker: noir
+    en: I'm sure we can!
+    ko: 으응…! 나도 도울게!
+    ja: うん…！私も手伝う！
+  d_ex_maidcafe_09_70:
+    speaker: "<Monologue>"
+    en: All of us get to work brainstorming a new modified parfait,
+    ko: 우리는 새로운 메뉴를 개발하기 시작했고,
+    ja: 私たちは新しいメニューを考えた
+  d_ex_maidcafe_09_71:
+    speaker: "<Monologue>"
+    en: and we end up with one consisting of chocolate, cream, and melon.
+    ko: 초코, 우유, 멜론 세 가지 맛을 가진 커다란 파르페가 완성되었다.
+    ja: |-
+      そしてチョコ、ミルク、メロンという
+      3つの味が楽しめる大きなパフェが完成した
+  d_ex_maidcafe_09_72:
+    speaker: blanc
+    en: Phew... all done.
+    ko: 와아~! 드디어 완성이에요!
+    ja: わあ！ついに完成です！
+  d_ex_maidcafe_09_73:
+    speaker: noir
+    en: Thanks for the help, Pit Boss. We couldn't have done it without you.
+    ko: 이게 다 점장님 덕분이에요…! 너무 감사드려요….
+    ja: |-
+      これもすべて店長のおかげです…！
+      ありがとうございます…！
+  d_ex_maidcafe_09_74:
+    speaker: "<Self>"
+    en: Don't mention it.
+    ko: 후후, 별말씀을.
+    ja: どういたしまして
+  d_ex_maidcafe_09_75:
+    speaker: "<Self>"
+    en: I presume this parfait is meant for three people, yes?
+    ko: 이 파르페는 세명을 위한 파르페네?
+    ja: このパフェは3人のためのパフェだな
+  d_ex_maidcafe_09_76:
+    speaker: soda_b
+    en: A dish made just for me...
+    ko: 흐에… 이런 기분 처음이에요…!
+    ja: ふぇぇ…こんな気持ち、初めてです…！
+  d_ex_maidcafe_09_77:
+    speaker: soda_b
+    en: I've never felt this way before.
+    ko: 저를 위한 메뉴가 생기다니이….
+    ja: 私のためのメニューができるなんてぇ…
+  d_ex_maidcafe_09_78:
+    speaker: blanc
+    en: It's always bothered me seeing your hard work go unrecognized.
+    ko: 항상 남을 위해 고생하는 소다가 계속 마음에 걸렸었거든요~
+    ja: |-
+      いつも周りを気遣ってくれるソーダのことが
+      気になっていたんです～
+  d_ex_maidcafe_09_79:
+    speaker: noir
+    en: Right! We want you to be happy too.
+    ko: 마, 맞아요! 저희는 소다도 행복해졌으면 좋겠어요…!
+    ja: |-
+      そ、そうですよ！
+      私たちはソーダにも幸せになってほしいです…！
+  d_ex_maidcafe_09_80:
+    speaker: soda_b
+    en: Oh my gosh, you guys... you're gonna make me cry.
+    ko: 후에에엥~ 블랑, 누아르… 너무 감동이에요오….
+    ja: |-
+      ふぇぇ～ん！
+      ブラン、ノワール…感動しましたぁ…
+  d_ex_maidcafe_09_81:
+    speaker: blanc
+    en: So long as you're happy, we're happy. Isn't that right, Noir?
+    ko: |-
+      헤헤. 소다가 기뻐하니 저희도 기분이 좋네요~
+      그렇지 언니?
+    ja: |-
+      えへへ。ソーダに喜んでもらえて、
+      私たちも嬉しいです。ね？お姉ちゃん。
+  d_ex_maidcafe_09_82:
+    speaker: noir
+    en: That's right! What a wonderful feeling this is.
+    ko: 응! 너무 뿌듯한 거 같아….
+    ja: うん！胸がいっぱい…
+  d_ex_maidcafe_09_83:
+    speaker: blanc
+    en: Well, Noir and I have to be on our way,
+    ko: 그럼 점장님! 소다! 그럼 저희는 이만 가볼게요~
+    ja: |-
+      じゃあ、店長！ソーダ！
+      私たちはお先に失礼しますね～
+  d_ex_maidcafe_09_84:
+    speaker: blanc
+    en: so we'll catch you two later.
+    ko: 다음에 또 봐요~
+    ja: またお会いしましょう！
+  d_ex_maidcafe_09_85:
+    speaker: noir
+    en: Goodbye!
+    ko: 모, 모두 안녕히 계세요~
+    ja: み、みなさんさようなら。
+  d_ex_maidcafe_09_86:
+    speaker: soda_b
+    en: Bye! Thanks for stopping by.
+    ko: 안녕히 가세요~! 오늘 와주셔서 고마웠어요!
+    ja: |-
+      お気を付けて～！
+      今日は来てくれてありがとうございました！
+  d_ex_maidcafe_09_87:
+    speaker: "<Monologue>"
+    en: Blanc and Noir wave goodbye as they leave the café.
+    ko: 블랑과 누아르는 손을 흔들며 가게 밖으로 사라졌다.
+    ja: ブランとノワールは手を振りながら去っていった
+  d_ex_maidcafe_09_88:
+    speaker: soda_b
+    en: Hehe... so this is for me...
+    ko: 헤헤… 이게… 저를 위한….
+    ja: えへへ…これが…私のための…
+  d_ex_maidcafe_09_89:
+    speaker: "<Monologue>"
+    en: Soda stares at the parfait made specially for her, lost in thought.
+    ko: 소다는 여운에 잠긴 듯 자신을 위해 만들어진 파르페를 바라보았다.
+    ja: |-
+      ソーダは余韻に浸るかのように、
+      自分のために作られたパフェを見つめていた
+d_ex_maidcafe_10:
+  d_ex_maidcafe_10_1:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン―
+  d_ex_maidcafe_10_2:
+    speaker: ade
+    en: Welcome back, Master.
+    ko: 다녀오셨어요, 주인님.
+    ja: お帰りなさいませ、ご主人様。
+  d_ex_maidcafe_10_3:
+    speaker: "<Self>"
+    en: Hello.
+    ko: 안녕.
+    ja: やあ
+  d_ex_maidcafe_10_4:
+    speaker: ade
+    en: The lady next to you is Miss Flora, right?
+    ko: 옆에 계신 분이 플로라 아가씨죠?
+    ja: |-
+      お隣にいらっしゃるのは
+      フローラお嬢様ですね？
+  d_ex_maidcafe_10_5:
+    speaker: flora
+    en: Yes, that's correct.
+    ko: 예, 그렇습니다.
+    ja: はい。
+  d_ex_maidcafe_10_6:
+    speaker: ade
+    en: I heard this is your first time at a maid cafe?
+    ko: 메이드 카페는 처음이시라고 전해 들었습니다.
+    ja: メイドカフェは初めてだとか。
+  d_ex_maidcafe_10_7:
+    speaker: flora
+    en: Yes, it's my first time.
+    ko: 예, 처음이에요.
+    ja: ええ、初めてです。
+  d_ex_maidcafe_10_8:
+    speaker: "<Monologue>"
+    en: Flora glances around the Maid Cafe.
+    ko: 플로라는 메이드 카페를 둘러보았다.
+    ja: フローラはメイドカフェの店内を見渡した
+  d_ex_maidcafe_10_9:
+    speaker: flora
+    en: Hmm...
+    ko: 음….
+    ja: ええと…
+  d_ex_maidcafe_10_10:
+    speaker: flora
+    en: At first glance, it doesn't seem much different from a regular cafe.
+    ko: 얼핏 보기엔 일반 카페랑 크게 다르지 않아 보이네요.
+    ja: 一見、普通のカフェと変わらないようですね。
+  d_ex_maidcafe_10_11:
+    speaker: flora
+    en: Except for the staff
+    ko: 메이드 복장을 한 직원이 일을 하고 있다.
+    ja: メイド服を着た店員が働いている…
+  d_ex_maidcafe_10_12:
+    speaker: flora
+    en: working in maid outfits, that is.
+    ko: 이것 외에.
+    ja: それ以外に、
+  d_ex_maidcafe_10_13:
+    speaker: flora
+    en: Other than that, what are the differences between this place and a regular
+      cafe?
+    ko: 메이드 카페는 일반 카페랑 어떤 차이점이 있나요?
+    ja: |-
+      メイドカフェと普通のカフェの
+      違いはなんでしょうか？
+  d_ex_maidcafe_10_14:
+    speaker: ade
+    en: Well, other than the outfits that you just mentioned,
+    ko: 물론, 복장의 차이도 있지만.
+    ja: もちろん、衣装の違いもございますが
+  d_ex_maidcafe_10_15:
+    speaker: ade
+    en: at our cafe, we tailor our service to suit the individual preferences of each
+      Master who visits.
+    ko: |-
+      저희 카페를 찾아주시는 주인님 개개인의 성향에 맞춰
+      서비스를 해드리고 있습니다.
+    ja: |-
+      私たちのカフェでは、
+      ご主人様一人一人に合わせた
+      サービスを提供しています。
+  d_ex_maidcafe_10_16:
+    speaker: ade
+    en: We strive to provide an experience that will leave you feeling completely
+      satisfied.
+    ko: 만족할 만한 경험을 하고 돌아가실 수 있도록요.
+    ja: |-
+      最善を尽くし、ご満足いただけるよう
+      お仕えしております。
+  d_ex_maidcafe_10_17:
+    speaker: flora
+    en: I see.
+    ko: 아하, 그렇군요.
+    ja: なるほど、そうでしたか。
+  d_ex_maidcafe_10_18:
+    speaker: flora
+    en: You've got me curious now.
+    ko: 어떤 서비스일지, 기대되네요.
+    ja: どのようなサービスか、楽しみですね。
+  d_ex_maidcafe_10_19:
+    speaker: ade
+    en: We will do our utmost to meet your expectations, Miss.
+    ko: 기대에 부응할 수 있도록 최선을 다하겠습니다, 아가씨.
+    ja: |-
+      ご期待に応えられるように
+      全力でおもてなしさせていただきます。
+  d_ex_maidcafe_10_20:
+    speaker: ade
+    en: Please have a seat over here.
+    ko: 이쪽 자리에 앉아주세요.
+    ja: では、こちらの席におかけください。
+  d_ex_maidcafe_10_21:
+    speaker: "<Monologue>"
+    en: Flora and I sit down at the spot Ade guides us to, and look at the menu.
+    ko: 에이드가 안내해 준 자리에 앉아 메뉴판을 보았다.
+    ja: |-
+      エードが案内してくれた席に座り、
+      メニューを見た
+  d_ex_maidcafe_10_22:
+    speaker: "<Self>"
+    en: I'll have a coffee, please.
+    ko: 나는 커피로 부탁해.
+    ja: 私はコーヒーで
+  d_ex_maidcafe_10_23:
+    speaker: ade
+    en: Excellent.
+    ko: 네, 알겠습니다.
+    ja: はい、かしこまりました。
+  d_ex_maidcafe_10_24:
+    speaker: ade
+    en: And for you, Miss Flora?
+    ko: 플로라 아가씨는 어떤 메뉴로 하시겠어요?
+    ja: フローラお嬢様は何になさいますか？
+  d_ex_maidcafe_10_25:
+    speaker: flora
+    en: Hmm...
+    ko: "…음."
+    ja: "…うーん。"
+  d_ex_maidcafe_10_26:
+    speaker: flora
+    en: You've got quite a lot of different tea options...
+    ko: 차 종류가 많네요….
+    ja: お茶の種類がたくさんありますね…
+  d_ex_maidcafe_10_27:
+    speaker: flora
+    en: Have you got plain water?
+    ko: 그냥 물은 없나요?
+    ja: ただのお水はございませんか？
+  d_ex_maidcafe_10_28:
+    speaker: ade
+    en: If you'd like some water, we can serve that free of charge.
+    ko: 물은 원하시면 그냥 내어드리고 있습니다.
+    ja: |-
+      お水をご希望でしたら、
+      サービスでお出しできますよ。
+  d_ex_maidcafe_10_29:
+    speaker: flora
+    en: "... Uh-huh."
+    ko: "…그렇군요."
+    ja: "…そうですか。"
+  d_ex_maidcafe_10_30:
+    speaker: flora
+    en: I came all the way out here, so I might as well get more than water.
+    ko: 그래도 여기까지 왔는데 맛은 보는 게 좋겠죠.
+    ja: でも、せっかくなので…
+  d_ex_maidcafe_10_31:
+    speaker: flora
+    en: I'll have a coffee as well.
+    ko: 저도 커피로 부탁드릴게요.
+    ja: 私もコーヒーを試してみます。
+  d_ex_maidcafe_10_32:
+    speaker: ade
+    en: Excellent. I'll have those for you in just a moment.
+    ko: 알겠습니다, 그럼 잠시만 기다려주세요.
+    ja: |-
+      かしこまりました。
+      では、少々お待ちください。
+  d_ex_maidcafe_10_33:
+    speaker: "<Monologue>"
+    en: Ade heads to the kitchen.
+    ko: 에이드는 주방으로 들어갔다.
+    ja: エードはキッチンに入っていった
+  d_ex_maidcafe_10_34:
+    speaker: flora
+    en: Thanks for coming here with me, Blossom.
+    ko: 같이 와주셔서 감사합니다, 꽃님.
+    ja: |-
+      ご一緒いただき、ありがとうございます。
+      お花様。
+  d_ex_maidcafe_10_35:
+    speaker: "<Self>"
+    en: No problem. It's been a while since I've been here, so I was happy to tag
+      along.
+    ko: 아냐, 나도 간만에 오니 좋네.
+    ja: いや、私も久しぶりだからうれしい
+  d_ex_maidcafe_10_36:
+    speaker: flora
+    en: Hmm...
+    ko: 음….
+    ja: ええと…
+  d_ex_maidcafe_10_37:
+    speaker: "<Monologue>"
+    en: Flora takes another look around the Maid Cafe.
+    ko: 플로라는 다시 한번 메이드 카페를 둘러보았다.
+    ja: |-
+      フローラはもう一度
+      メイドカフェの店内を見渡した
+  d_ex_maidcafe_10_38:
+    speaker: flora
+    en: Upon closer inspection,
+    ko: 좀 더 자세히 살펴보니.
+    ja: よく見てみると…
+  d_ex_maidcafe_10_39:
+    speaker: flora
+    en: this place does have quite a lovely atmosphere.
+    ko: 메이드 카페는 굉장히 사랑스러운 분위기의 카페네요.
+    ja: とてもかわいらしい雰囲気ですね。
+  d_ex_maidcafe_10_40:
+    speaker: flora
+    en: A lot of effort has gone into the decorations, both big and small.
+    ko: 크고 작은 데코레이션에 많은 정성을 쏟은 것 같아요.
+    ja: |-
+      細部にまで装飾に
+      こだわっているのが分かります。
+  d_ex_maidcafe_10_41:
+    speaker: flora
+    en: Especially... do you see that vase over there?
+    ko: 특히나… 저쪽의 화병, 보이시나요?
+    ja: 特にあちらの花瓶…見えますか？
+  d_ex_maidcafe_10_42:
+    speaker: "<Self>"
+    en: Yes, it's pretty.
+    ko: 응, 예쁘네.
+    ja: ああ、きれいな花瓶だな
+  d_ex_maidcafe_10_43:
+    speaker: flora
+    en: It's more than just pretty.
+    ko: 예쁜 정도를 넘어섰어요.
+    ja: ただのきれいな花瓶ではございません。
+  d_ex_maidcafe_10_44:
+    speaker: flora
+    en: The flowers that are placed inside go perfectly with the vase itself.
+    ko: 꽃과 병이 완벽한 조화를 이루고 있잖아요.
+    ja: 花と花瓶が完璧に調和しております。
+  d_ex_maidcafe_10_45:
+    speaker: flora
+    en: The color combination is wonderfully harmonious.
+    ko: 색상 배합도 매우 잘 어울리고요.
+    ja: 色のバランスも絶妙ですね。
+  d_ex_maidcafe_10_46:
+    speaker: flora
+    en: It's sublime.
+    ko: 굉장해요.
+    ja: お見事です。
+  d_ex_maidcafe_10_47:
+    speaker: flora
+    en: Whoever arranged them must really know their flowers.
+    ko: |-
+      저 화병을 세팅해 놓으신 분은
+      꽃에 일가견이 있는 게 틀림없어요.
+    ja: |-
+      この花瓶を飾った方は
+      花に精通しているに違いありません。
+  d_ex_maidcafe_10_48:
+    speaker: flora
+    en: I can feel the affection they have for them.
+    ko: 어쩐지… 꽃에 대한 애정이 느껴지거든요.
+    ja: "…花への愛情が伝わってくるのです。"
+  d_ex_maidcafe_10_49:
+    speaker: ade
+    en: Here are your coffees.
+    ko: 주문하신 커피 두 잔 나왔습니다.
+    ja: |-
+      お待たせいたしました、
+      ご注文のコーヒーでございます。
+  d_ex_maidcafe_10_50:
+    speaker: flora
+    en: Excuse me, Lily.
+    ko: 저, 백합님.
+    ja: あの、ユリ様。
+  d_ex_maidcafe_10_51:
+    speaker: flora
+    en: May I ask
+    ko: 궁금한 게 있어요.
+    ja: お聞きしたいことがございます。
+  d_ex_maidcafe_10_52:
+    speaker: flora
+    en: who arranged that vase over there?
+    ko: 혹시 저쪽에 있는 화병은 누가 꾸며놓으신 건가요?
+    ja: あちらの花瓶は、どなたが飾られたのですか？
+  d_ex_maidcafe_10_53:
+    speaker: ade
+    en: I did.
+    ko: 제가 갖다 놓았습니다.
+    ja: あちらでございますか？私ですよ。
+  d_ex_maidcafe_10_54:
+    speaker: flora
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_maidcafe_10_55:
+    speaker: flora
+    en: You like flowers, don't you?
+    ko: 백합님은 꽃을 좋아하시죠?
+    ja: ユリ様は、花がお好きなのですね。
+  d_ex_maidcafe_10_56:
+    speaker: ade
+    en: Yes, I do.
+    ko: 네, 좋아합니다.
+    ja: ええ、そうですね。
+  d_ex_maidcafe_10_57:
+    speaker: ade
+    en: Looking at them soothes my mind.
+    ko: 보고 있으면 마음이 편안해지거든요.
+    ja: 見ていると、心が癒されますから。
+  d_ex_maidcafe_10_58:
+    speaker: ade
+    en: I placed them there in hopes that
+    ko: 방문해 주시는 분들도 같은 걸 느끼셨으면 하는 마음으로.
+    ja: |-
+      お客様にも同じように
+      感じていただけたらと思って…
+  d_ex_maidcafe_10_59:
+    speaker: ade
+    en: our customers would feel the same.
+    ko: 배치해 두었습니다.
+    ja: 飾っておいたのです。
+  d_ex_maidcafe_10_60:
+    speaker: flora
+    en: I see...
+    ko: 그렇군요….
+    ja: なるほど…
+  d_ex_maidcafe_10_61:
+    speaker: flora
+    en: I really like them, hehe.
+    ko: 아주 마음에 들어요, 후후.
+    ja: とても気に入りました、ふふ。
+  d_ex_maidcafe_10_62:
+    speaker: flora
+    en: Hmm?
+    ko: "…음?"
+    ja: "…あら？"
+  d_ex_maidcafe_10_63:
+    speaker: flora
+    en: Is this coffee?
+    ko: 이거, 커피 맞죠?
+    ja: これ、コーヒーですよね？
+  d_ex_maidcafe_10_64:
+    speaker: flora
+    en: It looks different from Blossom's.
+    ko: 꽃님의 커피랑 색이 좀 다른 것 같아요.
+    ja: お花様のコーヒーとは、色が違うようですが…
+  d_ex_maidcafe_10_65:
+    speaker: flora
+    en: Mine seems a bit lighter?
+    ko: 제 잔에 있는 커피가 좀 더 색이 좀 더 연한 듯한….
+    ja: 私のものは少し色が薄いような…
+  d_ex_maidcafe_10_66:
+    speaker: ade
+    en: Oh, I'm sorry for not explaining sooner.
+    ko: 아, 설명해 드리는 게 늦어 죄송합니다.
+    ja: あ、説明が遅れてしまい申し訳ありません。
+  d_ex_maidcafe_10_67:
+    speaker: ade
+    en: Yours isn't regular coffee, Miss.
+    ko: 아가씨의 커피는 일반 커피가 아닙니다.
+    ja: |-
+      お嬢様のコーヒーは、
+      通常お出ししているコーヒーではありません。
+  d_ex_maidcafe_10_68:
+    speaker: ade
+    en: We've served you water infused with coffee grounds.
+    ko: 일반 커피 대신 커피박을 우린 물을 내어드렸어요.
+    ja: |-
+      通常のコーヒーの代わりに、
+      コーヒーグラウンズから抽出したお水を
+      特別にご用意しました。
+  d_ex_maidcafe_10_69:
+    speaker: ade
+    en: I felt this would be more suitable to your tastes.
+    ko: 이쪽이 더 취향에 맞으실 것 같아서요.
+    ja: こちらのほうが、お口に合うかと思いまして。
+  d_ex_maidcafe_10_70:
+    speaker: flora
+    en: "... I see."
+    ko: "…아."
+    ja: "…ああ…"
+  d_ex_maidcafe_10_71:
+    speaker: flora
+    en: The smell is quite mild. Very delicate.
+    ko: 향도 훨씬 약해졌네요.
+    ja: 香りもずいぶん軽やかなものになっていますね。
+  d_ex_maidcafe_10_72:
+    speaker: flora
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_10_73:
+    speaker: "<Narration>"
+    en: "*Gulp*"
+    ko: 꿀꺽-
+    ja: ゴクリ――
+  d_ex_maidcafe_10_74:
+    speaker: flora
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_maidcafe_10_75:
+    speaker: flora
+    en: Wow, it's so smooth.
+    ko: 와, 연하고 부드럽네요.
+    ja: まあ、薄くてまろやかですね。
+  d_ex_maidcafe_10_76:
+    speaker: flora
+    en: It's perfect.
+    ko: 제 입에 딱 맞아요.
+    ja: 私の好みにぴったりです。
+  d_ex_maidcafe_10_77:
+    speaker: ade
+    en: I'm glad you like it.
+    ko: 맘에 들어 하셔서 다행이에요.
+    ja: お気に召していただけて嬉しいです。
+  d_ex_maidcafe_10_78:
+    speaker: ade
+    en: Moreover, the water has a balanced acidity, which can be beneficial for some
+      plants as well.
+    ko: |-
+      게다가 그 물은 적당한 산도를 포함하고 있어
+      일부 식물에게도 유익하답니다.
+    ja: |-
+      そのお水は適度な酸性なので、
+      植物の生育にも役立つんですよ。
+  d_ex_maidcafe_10_79:
+    speaker: flora
+    en: Really?
+    ko: 네?
+    ja: え？
+  d_ex_maidcafe_10_80:
+    speaker: flora
+    en: Is that true?
+    ko: 정말요?
+    ja: それは本当ですか？
+  d_ex_maidcafe_10_81:
+    speaker: flora
+    en: Could you tell me how to make this? How long do I brew the coffee grounds,
+      and how much of them?
+    ko: |-
+      혹시 커피박을 어느 정도,
+      아니 얼마나 우리면 되나요?
+    ja: |-
+      どのようにですか？
+      コーヒーグラウンズをどのくらい
+      使えばいいのですか？
+  d_ex_maidcafe_10_82:
+    speaker: flora
+    en: Could you give me the exact amount and time measurements?
+    ko: 자세한 용량과 시간을 좀….
+    ja: 分量と時間を詳しく…
+  d_ex_maidcafe_10_83:
+    speaker: "<Monologue>"
+    en: Flora proceeds to bombard Ade with a flurry of questions.
+    ko: 플로라는 티타임 내내 에이드에게 질문 세례를 퍼부었고.
+    ja: |-
+      フローラはティータイムの間、
+      エードに次々と質問を浴びせかけた
+  d_ex_maidcafe_10_84:
+    speaker: "<Monologue>"
+    en: A few hours later.
+    ko: 그렇게 몇 시간 뒤.
+    ja: "…そして数時間後"
+  d_ex_maidcafe_10_85:
+    speaker: flora
+    en: That was incredibly satisfying.
+    ko: 너무 만족스러운 시간이었어요.
+    ja: とても素晴らしい時間でした。
+  d_ex_maidcafe_10_86:
+    speaker: flora
+    en: The Maid Cafe truly is a wonderful place.
+    ko: 메이드 카페는 정말 좋은 곳이네요.
+    ja: メイドカフェは本当にいいところですね。
+  d_ex_maidcafe_10_87:
+    speaker: flora
+    en: I'll definitely come back... No,
+    ko: 또 올… 아니.
+    ja: また来ま…いえ。
+  d_ex_maidcafe_10_88:
+    speaker: flora
+    en: I'll come often, Lily!
+    ko: 자주 올게요, 백합님!
+    ja: |-
+      これからたびたびお邪魔させて
+      いただきますね、ユリ様！
+  d_ex_maidcafe_10_89:
+    speaker: ade
+    en: Thank you for stopping by.
+    ko: 들러 주셔서 감사합니다.
+    ja: お立ち寄りいただき、ありがとうございました。
+  d_ex_maidcafe_10_90:
+    speaker: ade
+    en: See you next time.
+    ko: 그럼, 다녀오세요.
+    ja: それでは、行ってらっしゃいませ。
+  d_ex_maidcafe_10_91:
+    speaker: "<Monologue>"
+    en: Clutching the bag of coffee grounds she received from Ade,
+    ko: 플로라는 에이드에게서 얻은 커피박 포대를 소중하게 껴안은 채.
+    ja: |-
+      フローラはエードからもらった
+      コーヒーグラウンズの袋を
+      大事そうに抱えながら
+  d_ex_maidcafe_10_92:
+    speaker: "<Monologue>"
+    en: Flora leaves the Maid Cafe with a satisfied look on her face.
+    ko: 만족스러운 얼굴로 메이드 카페를 나섰다.
+    ja: 満足そうな顔でメイドカフェを後にした

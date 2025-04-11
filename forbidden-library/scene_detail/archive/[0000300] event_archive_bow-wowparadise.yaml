@@ -1,0 +1,5518 @@
+---
+event_bowwowparadise_prologue:
+  event_bowwowparadise_prologue_1:
+    speaker: "<Narration>"
+    en: Inside the shelter, it is somewhere between spacious and cramped.
+    ko: "…좁지도, 넓지도 않은 보호소 안."
+    ja: "…狭くも、広くもないアニマルシェルター内"
+  event_bowwowparadise_prologue_2:
+    speaker: "<Narration>"
+    en: The building is equipped with all the necessary facilities, including a training
+      center, a playroom and an examination room.
+    ko: |-
+      보호소 내부엔 훈련소, 놀이방, 검사실 등.
+      강아지들에게 필요한 것들이 잘 갖추어져 있었고.
+    ja: |-
+      シェルターの中には\n訓練所、プレイルーム、検査室など
+      必要なものが揃っており
+  event_bowwowparadise_prologue_3:
+    speaker: "<Narration>"
+    en: Each dog is placed inside a well-maintained cage that is spotless.
+    ko: |-
+      강아지들은 관리가 잘 된
+      케이지 안에 한 마리씩 들어가 있었다.
+    ja: |-
+      よく管理されたケージの中に
+      1匹ずつイヌが入っていた
+  event_bowwowparadise_prologue_4:
+    speaker: max
+    en: "*Ahwoooo*"
+    ko: 아우우우-!
+    ja: ウオーン！
+  event_bowwowparadise_prologue_5:
+    speaker: "<Narration>"
+    en: One healthy-looking dog with a muscular build and soft coat of fur begins
+      to yelp.
+    ko: 근육질 몸매. 잘 잡힌 균형. 매끈한 털.
+    ja: バランスの取れた筋肉質な体、柔らかい毛
+  event_bowwowparadise_prologue_6:
+    speaker: "<Narration>"
+    en: The abrupt cry shows that this dog is the leader of the pack.
+    ko: 거침없는 울음소리는 그 강아지가 이곳의 리더임을 알려주는 듯했다.
+    ja: 迷いのない鳴き声は、\nこのイヌがここのリーダーであることを\n表しているかのようだった
+  event_bowwowparadise_prologue_7:
+    speaker: puppies
+    en: "*Yip*"
+    ko: 아우우우우-!
+    ja: アオオーン！！
+  event_bowwowparadise_prologue_8:
+    speaker: "<Narration>"
+    en: In response, several other dogs cry out in quick succession.
+    ko: |-
+      리더처럼 보이는 강아지의 하울링에
+      보호소에 있는 여러 강아지들도 따라 울기 시작했고.
+    ja: |-
+      リーダー格のイヌの遠吠えに続いて
+      シェルターの他のイヌも鳴き始め
+  event_bowwowparadise_prologue_9:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_prologue_10:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_prologue_11:
+    speaker: "<Narration>"
+    en: The dogs bark and yip amongst one another, holding constant canine communication.
+    ko: |-
+      이내 작당 모의라도 하듯.
+      강아지들은 일제히 신호를 주고받았다.
+    ja: |-
+      作戦会議でもするかのように
+      一斉に合図を送りあった
+  event_bowwowparadise_prologue_12:
+    speaker: "<Narration>"
+    en: "... *Ta-da-dak*"
+    ko: "…타다닥-"
+    ja: "…ダダーッ！"
+  event_bowwowparadise_prologue_13:
+    speaker: "<Narration>"
+    en: Their ears all perk up.
+    ko: 쫑긋-
+    ja: ぴょこっ
+  event_bowwowparadise_prologue_14:
+    speaker: "<Narration>"
+    en: "*Chakchakchak*"
+    ko: 챡챡챡챡-
+    ja: ササササッ
+  event_bowwowparadise_prologue_15:
+    speaker: "<Narration>"
+    en: There is the sound of someone running towards the shelter.
+    ko: 멀리서 누군가가 보호소로 달려오는 소리에.
+    ja: 遠くから何者かがシェルターに近づくと
+  event_bowwowparadise_prologue_16:
+    speaker: "<Narration>"
+    en: Suddenly, all the dogs race back to their individual cages.
+    ko: |-
+      강아지들의 귀가 쫑긋거리더니.
+      일사불란하게 흩어져 각자의 케이지에 자리 잡고 앉았다.
+    ja: |-
+      みんな耳をそばだたせ
+      一斉にそれぞれのケージに戻っていった
+  event_bowwowparadise_prologue_17:
+    speaker: "<Narration>"
+    en: |-
+      *Beep* *Beeeep* *Beep*
+      *Dringgg*
+    ko: |-
+      삑- 삐빅- 삑-
+      또로롱-
+    ja: |-
+      ピ、ピピッ、ピッ
+      ティリンッ
+  event_bowwowparadise_prologue_18:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_bowwowparadise_prologue_19:
+    speaker: biscuit
+    en: Time to eat, everyone!
+    ko: 얘들아! 밥시간이야~
+    ja: みんな！ご飯の時間だよ～
+  event_bowwowparadise_prologue_20:
+    speaker: biscuit
+    en: Since you all were so good this morning, I prepared something special for
+      you.
+    ko: 오늘 오전 일과를 잘 따라와 준 기념으로 특식을 준비했어!
+    ja: 午前中頑張ってくれたから、\nご褒美にスペシャルご飯を用意したよ！
+  event_bowwowparadise_prologue_21:
+    speaker: biscuit
+    en: It's some special Kibble fresh from Royal Road!
+    ko: 바로, 로열 로드에서 공수해 온 특별 사료야!
+    ja: なんと、ロイヤルロードから取り寄せたの！
+  event_bowwowparadise_prologue_22:
+    speaker: "<Narration>"
+    en: "*Pour*"
+    ko: 촤르륵-!
+    ja: ザアー！
+  event_bowwowparadise_prologue_23:
+    speaker: biscuit
+    en: Max, I know chicken breast is your favorite flavor, so here you are.
+    ko: |-
+      헤헤. 맥스는 닭가슴살 맛을 좋아하니까~
+      닭가슴살 맛으로 줄게!
+    ja: |-
+      へへ。マックスはササミ味が好きだから～
+      たくさんあげるね！
+  event_bowwowparadise_prologue_24:
+    speaker: "<Narration>"
+    en: "*Pourrr*"
+    ko: 촤르르륵-!
+    ja: ザアアー！
+  event_bowwowparadise_prologue_25:
+    speaker: biscuit
+    en: Lily, you said you like beef flavor, right?
+    ko: 릴리는 소고기 맛이 좋다고 했지?
+    ja: リリーは牛肉味が好きだよね？
+  event_bowwowparadise_prologue_26:
+    speaker: "<Narration>"
+    en: Biscuit starts to apportion the kibble according to each dog's preference.
+    ko: 비스킷은 강아지들에게 맞춰 사료를 급여하기 시작했다.
+    ja: ビスケットはそれぞれの好みに合わせて\nご飯を配り始めた
+  event_bowwowparadise_prologue_27:
+    speaker: "<Narration>"
+    en: "*Click*"
+    ko: 달칵-
+    ja: ガチャ
+  event_bowwowparadise_prologue_28:
+    speaker: biscuit
+    en: All right, everybody, you can come out now.
+    ko: 모두 케이지에서 나오세요~
+    ja: みんなケージから出てきてくださ～い。
+  event_bowwowparadise_prologue_29:
+    speaker: "<Narration>"
+    en: "*Ta-dak* *Ta-dak*"
+    ko: 타닥- 타닥-
+    ja: ダダッ、ダダッ
+  event_bowwowparadise_prologue_30:
+    speaker: "<Narration>"
+    en: The dogs all bound out of their cages and stand in front of their individual
+      bowls.
+    ko: 강아지들은 케이지에 나와 자신의 밥그릇 앞에 자리 잡았고.
+    ja: イヌたちはケージから出て\n自分の皿の前に座った
+  event_bowwowparadise_prologue_31:
+    speaker: biscuit
+    en: Not yet!
+    ko: 자, 다들 기다려!
+    ja: みんな、待て！
+  event_bowwowparadise_prologue_32:
+    speaker: biscuit
+    en: Wait until I say it's okay.
+    ko: 먹어! 라고 말하면 먹는 거야.
+    ja: よし！って言ったら食べるんだよ。
+  event_bowwowparadise_prologue_33:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_prologue_34:
+    speaker: biscuit
+    en: "... Good."
+    ko: "……옳지."
+    ja: "……いい子だね。"
+  event_bowwowparadise_prologue_35:
+    speaker: biscuit
+    en: Go ahead.
+    ko: 먹어!
+    ja: よし！
+  event_bowwowparadise_prologue_36:
+    speaker: "<Narration>"
+    en: "*Crunch*"
+    ko: 까드득-!
+    ja: バクバク！
+  event_bowwowparadise_prologue_37:
+    speaker: "<Narration>"
+    en: |-
+      *Crunch crunch*
+      *Chomp* *Chomp*
+    ko: |-
+      까득까득-!
+      찹-! 찹-!
+    ja: |-
+      バクバク！
+      モグモグ！
+  event_bowwowparadise_prologue_38:
+    speaker: "<Narration>"
+    en: The dogs under Biscuit's care all tear into their food ravenously.
+    ko: 비스킷이 보호하는 강아지들은 삼삼오오 모여 밥을 먹기 시작했다.
+    ja: ビスケットが世話をしているイヌは\n仲良く集まってご飯を食べ始めた
+  event_bowwowparadise_prologue_39:
+    speaker: biscuit
+    en: Such smart doggies.
+    ko: 헤헤. 역시 똑똑한 강아지들이네.
+    ja: へへ。やっぱりみんな賢いね。
+  event_bowwowparadise_prologue_40:
+    speaker: biscuit
+    en: Does it taste good?
+    ko: 맛있어?
+    ja: おいしい？
+  event_bowwowparadise_prologue_41:
+    speaker: biscuit
+    en: I wonder...
+    ko: "…츄릅."
+    ja: "…じゅるっ。"
+  event_bowwowparadise_prologue_42:
+    speaker: max
+    en: "*Ruff*"
+    ko: 멍!
+    ja: ワン！
+  event_bowwowparadise_prologue_43:
+    speaker: biscuit
+    en: Oh no, it's okay. You go ahead.
+    ko: 아, 아냐! 나는 괜찮아. 많이 먹어!
+    ja: う、ううん！私は大丈夫。たくさん食べて！
+  event_bowwowparadise_prologue_44:
+    speaker: biscuit
+    en: "... Maybe just one bite."
+    ko: "…한 입만 먹어도 돼?"
+    ja: "…一口だけいいかな？"
+  event_bowwowparadise_prologue_45:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_prologue_46:
+    speaker: biscuit
+    en: Thanks. Just a little bite.
+    ko: |-
+      헙! 정말? 고마워!
+      그럼 조금만 먹을게.
+    ja: |-
+      えっ！本当？ありがとう！
+      じゃあちょっとだけ。
+  event_bowwowparadise_prologue_47:
+    speaker: biscuit
+    en: Omnomnom.
+    ko: 옴뇸뇸.
+    ja: モグモグ。
+  event_bowwowparadise_prologue_48:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_prologue_49:
+    speaker: biscuit
+    en: Omnomnomnom!
+    ko: 옴뇸뇸뇸!
+    ja: モグモグ！
+  event_bowwowparadise_prologue_50:
+    speaker: biscuit
+    en: Omnomnomnomnom...!
+    ko: 옴뇸뇸뇸뇸…!
+    ja: モグモグモグ…！
+  event_bowwowparadise_prologue_51:
+    speaker: max
+    en: "*Whine*"
+    ko: 끼잉-
+    ja: クゥゥン。
+  event_bowwowparadise_prologue_52:
+    speaker: biscuit
+    en: Whoops, guess I ate a bit too much... huh?
+    ko: |-
+      아, 미안!
+      내가 너무 많이… 응?
+    ja: |-
+      あ、ごめん！
+      食べ過ぎ…え？
+  event_bowwowparadise_prologue_53:
+    speaker: max
+    en: "*Whine*"
+    ko: 끼이잉-
+    ja: クーン…
+  event_bowwowparadise_prologue_54:
+    speaker: biscuit
+    en: Is your stomach not feeling well?
+    ko: 헉. 속이 안 좋다고?
+    ja: えっ！お腹の調子が悪い？
+  event_bowwowparadise_prologue_55:
+    speaker: biscuit
+    en: Is the kibble not agreeing with you? I'll go fetch you some medicine.
+    ko: |-
+      사료가 안 맞는 건가?
+      일단 약을 좀 가져올게.
+    ja: |-
+      ご飯が合わなかったのかな？
+      薬を持ってくるね。
+  event_bowwowparadise_prologue_56:
+    speaker: biscuit
+    en: Wait right here.
+    ko: 여기서 조금만 기다리고 있어!
+    ja: ちょっと待ってて！
+  event_bowwowparadise_prologue_57:
+    speaker: max
+    en: "*Ruff*"
+    ko: 멍!
+    ja: ワン！
+  event_bowwowparadise_prologue_58:
+    speaker: "<Narration>"
+    en: "*Stomp* *Stomp*"
+    ko: 저벅- 저벅-
+    ja: スタスタ
+  event_bowwowparadise_prologue_59:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_prologue_60:
+    speaker: "<Narration>"
+    en: Max keeps his gaze fixated on Biscuit.
+    ko: 맥스는 비스킷을 유심히 바라봤다.
+    ja: マックスはビスケットをじっと見つめた
+  event_bowwowparadise_prologue_61:
+    speaker: biscuit
+    en: I'm pretty sure I had some indigestion medicine laying around here somewhere.
+    ko: 으음… 소화제가 있었던가.
+    ja: うーん…胃薬あったかな？
+  event_bowwowparadise_prologue_62:
+    speaker: "<Narration>"
+    en: |-
+      *Beep* *Beeeep* *Beep*
+      *Dringgg*
+    ko: |-
+      삑- 삑- 삑-
+      또로롱-
+    ja: |-
+      ピッ、ピッ、ピッ
+      ティリンッ
+  event_bowwowparadise_prologue_63:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_bowwowparadise_prologue_64:
+    speaker: max
+    en: "*Yeep*"
+    ko: "…아우우우-!"
+    ja: "…ウオーン！"
+  event_bowwowparadise_prologue_65:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 컹컹!
+    ja: ガウガウ！
+  event_bowwowparadise_prologue_66:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_prologue_67:
+    speaker: "<Narration>"
+    en: "*Craaaashh*"
+    ko: 우당탕탕!
+    ja: ドタンバタン！
+  event_bowwowparadise_prologue_68:
+    speaker: biscuit
+    en: Wh-what the... guys, wait! What are you...!
+    ko: |-
+      어? 어어어!
+      얘, 얘들아! 잠깐 이게 뭐 하는…!
+    ja: |-
+      あれ？ええっ！？
+      み、みんな！ちょ、ちょっと…！
+  event_bowwowparadise_prologue_69:
+    speaker: "<Narration>"
+    en: The moment Biscuit opens the door to the shelter, Max signals to the other
+      dogs.
+    ko: |-
+      비스킷이 보호소 문을 열자마자 맥스는 기다렸다는 듯.
+      다른 강아지들에게 신호를 보냈고.
+    ja: |-
+      ビスケットがシェルターの扉を開けた瞬間、\nマックスは待ってましたとばかりに
+      他のイヌに合図を送り
+  event_bowwowparadise_prologue_70:
+    speaker: "<Narration>"
+    en: "*Dadadada*"
+    ko: 우다다다-!
+    ja: ダダダダーッ！
+  event_bowwowparadise_prologue_71:
+    speaker: "<Narration>"
+    en: Without a moment's hesitation, the entire pack of dogs make a mad dash for
+      the door.
+    ko: 함께 있던 강아지들은 망설임 없이 문밖으로 나갔다.
+    ja: みんな迷わず扉の外に飛び出した
+  event_bowwowparadise_prologue_72:
+    speaker: biscuit
+    en: Wait, stop!
+    ko: 잠깐, 멈춰!
+    ja: ま、待って！
+  event_bowwowparadise_prologue_73:
+    speaker: "<Narration>"
+    en: In an instant, every last dog has liberated itself from the shelter.
+    ko: 그렇게 모든 강아지들이 보호소에서 탈주했다.
+    ja: こうして、すべてのイヌが\nシェルターから脱走した
+event_bowwowparadise_01_s:
+  event_bowwowparadise_01_s_1:
+    speaker: "<Narration>"
+    en: "*Beeeeep*"
+    ko: 삐이이익-!
+    ja: ピーーッ！
+  event_bowwowparadise_01_s_2:
+    speaker: biscuit
+    en: Guys, stop!
+    ko: 얘들아, 멈춰!
+    ja: みんな、止まって！
+  event_bowwowparadise_01_s_3:
+    speaker: "<Narration>"
+    en: "*Beeeeeeep*"
+    ko: 삐이이이익-!!
+    ja: ピーーーーッ！！
+  event_bowwowparadise_01_s_4:
+    speaker: "<Narration>"
+    en: Biscuit blows frantically on her whistle as she chases after the runaway dogs,
+    ko: 비스킷은 탈주하는 강아지들을 따라가며 피리를 세차게 불었지만.
+    ja: ビスケットは逃げ出すマックスたちを追いかけ、\n強く笛を吹いたが
+  event_bowwowparadise_01_s_5:
+    speaker: "<Narration>"
+    en: but they pay her no mind.
+    ko: 아무도 비스킷의 신호에 따르지 않았다.
+    ja: 誰もビスケットの指示に従わなかった
+  event_bowwowparadise_01_s_6:
+    speaker: biscuit
+    en: "*Pant, pant* G-guyyys!"
+    ko: |-
+      헥헥.
+      얘, 얘들아아아!
+    ja: |-
+      ハァ、ハァ…
+      み、みんなぁぁ！
+  event_bowwowparadise_01_s_7:
+    speaker: "<Narration>"
+    en: The rest of the pack follows Max, running at full speed.
+    ko: 맥스를 따라 강아지들은 빠르게 보호소를 벗어났고.
+    ja: マックスの後に続いて\n他のイヌも素早くシェルターを抜け出した
+  event_bowwowparadise_01_s_8:
+    speaker: biscuit
+    en: Wh... What's going on?
+    ko: 이, 이게 무슨 일이지?
+    ja: ど、どうなってるの？
+  event_bowwowparadise_01_s_9:
+    speaker: biscuit
+    en: I've got to follow them.
+    ko: 우선 얼른 쫓아가야… 하는데.
+    ja: とにかく早く追いかけなきゃ…
+  event_bowwowparadise_01_s_10:
+    speaker: "<Narration>"
+    en: "*Swooshhh*"
+    ko: 휘이이잉-
+    ja: ヒュゥゥゥ…
+  event_bowwowparadise_01_s_11:
+    speaker: "<Narration>"
+    en: Before long, however, the dogs vanish off into the distance.
+    ko: 얼마 안 가, 강아지들은 흔적도 없이 사라져 버렸다.
+    ja: ビスケットは追いかけようとしたが、\nみんなは跡形もなく消え去ってしまった後だった
+  event_bowwowparadise_01_s_12:
+    speaker: biscuit
+    en: Which way did they go...?
+    ko: 어느 쪽으로 갔지…?
+    ja: どっちに行ったんだろう…？
+  event_bowwowparadise_01_s_13:
+    speaker: biscuit
+    en: There's no way I can catch up to them.
+    ko: 으으으… 나 혼자 보호소 강아지들을 쫓아가는 건 역부족인데.
+    ja: ううう…私1人じゃ追いかけられないよ。
+  event_bowwowparadise_01_s_14:
+    speaker: biscuit
+    en: This is awful!
+    ko: "…으으으음!"
+    ja: "…うーーん！"
+  event_bowwowparadise_01_s_15:
+    speaker: "<Narration>"
+    en: Biscuit's ears and tail droop despondently.
+    ko: 비스킷의 귀와 꼬리가 축 처졌다.
+    ja: ビスケットの耳と尻尾がしゅんとした
+  event_bowwowparadise_01_s_16:
+    speaker: biscuit
+    en: What should I do now? I don't even know where to start...
+    ko: |-
+      어떡하지?
+      어디서부터 시작해야….
+    ja: |-
+      どうしよう。
+      どこから始めたら…
+  event_bowwowparadise_01_s_17:
+    speaker: unknown
+    en: "*Yawwwn*"
+    ko: 하아암-!
+    ja: ふわぁぁ～
+  event_bowwowparadise_01_s_18:
+    speaker: "<Narration>"
+    en: "*Turn*"
+    ko: 휙-!
+    ja: パッ！
+  event_bowwowparadise_01_s_19:
+    speaker: biscuit
+    en: Nero?
+    ko: 네로?
+    ja: ネロ？
+  event_bowwowparadise_01_s_20:
+    speaker: nero
+    en: Hey there.
+    ko: 안냥.
+    ja: やっほーにゃん。
+  event_bowwowparadise_01_s_21:
+    speaker: "<Narration>"
+    en: Nero is laying placidly on a patch of grass.
+    ko: 네로는 풀숲에 누워 비스킷을 맞이했다.
+    ja: ネロは草むらに座り、ビスケットに話しかけた
+  event_bowwowparadise_01_s_22:
+    speaker: biscuit
+    en: What is that smell? Is that... freshly baked bread?
+    ko: |-
+      아! 그… 뭐더라!
+      식빵… 굽는 거라고 했었나?!
+    ja: |-
+      あっ！その…何だっけ？
+      香箱座り…だっけ！？
+  event_bowwowparadise_01_s_23:
+    speaker: nero
+    en: That's right.
+    ko: 맞다냥.
+    ja: そうだにゃん。
+  event_bowwowparadise_01_s_24:
+    speaker: "<Narration>"
+    en: "*Purr purr*"
+    ko: 고롱고롱-
+    ja: ゴロゴロー
+  event_bowwowparadise_01_s_25:
+    speaker: biscuit
+    en: Wowzer, I can hear your purring all the way over here. You must be happy.
+    ko: 헤헤. 골골송 부르는 거 보니 기분이 좋은가 보구나~?
+    ja: へへ。ゴロゴロ鳴るってことは\n機嫌いいみたいだね。
+  event_bowwowparadise_01_s_26:
+    speaker: biscuit
+    en: Wait, I've gotta stay focused!
+    ko: 앗. 이게 문제가 아니라….
+    ja: って、そんなのんきなこと\n言ってる場合じゃなくて…
+  event_bowwowparadise_01_s_27:
+    speaker: biscuit
+    en: Nero! I've got an emergency!
+    ko: 네로! 비상사태야!
+    ja: ネロ！緊急事態だよ！
+  event_bowwowparadise_01_s_28:
+    speaker: biscuit
+    en: The dogs escaped from the shelter!
+    ko: 강아지들이 보호소에서 탈출했어!
+    ja: ワンちゃんたちがシェルターから\n逃げ出しちゃったの！
+  event_bowwowparadise_01_s_29:
+    speaker: "<Narration>"
+    en: "*Rub rub*"
+    ko: 슥슥-
+    ja: スッスッ
+  event_bowwowparadise_01_s_30:
+    speaker: "<Narration>"
+    en: Nero starts grooming herself as she listens to Biscuit.
+    ko: 네로는 비스킷의 말을 들으며 그루밍을 하기 시작했다.
+    ja: ネロはビスケットの話を聞きながら\n毛づくろいを始めた
+  event_bowwowparadise_01_s_31:
+    speaker: nero
+    en: How did they escape? I thought the shelter was well-secured.
+    ko: |-
+      어쩌다가 탈출한거냥.
+      보호소는 철통 보안 아니냥.
+    ja: |-
+      どうやって逃げたにゃん？
+      シェルターのセキュリティは完璧じゃ\nなかったかにゃん？
+  event_bowwowparadise_01_s_32:
+    speaker: biscuit
+    en: I...
+    ko: 그게….
+    ja: 実は…
+  event_bowwowparadise_01_s_33:
+    speaker: biscuit
+    en: I was feeding the dogs, and then Max suddenly said something about not feeling
+      well.
+    ko: |-
+      강아지들 밥 주러 보호소에 들어갔는데.
+      맥스가 갑자기 몸이 안 좋다고 하는거야.
+    ja: |-
+      みんなにご飯をあげるために\nシェルターに行ったんだけど
+      マックスが急に体調が悪いって言ったの。
+  event_bowwowparadise_01_s_34:
+    speaker: biscuit
+    en: I opened the door to give him some medicine,
+    ko: 그래서 약을 가져다주려고 문을 열었는데.
+    ja: それで薬を渡そうと思って扉を開けたんだけど
+  event_bowwowparadise_01_s_35:
+    speaker: biscuit
+    en: and when I did, Max suddenly began howling.
+    ko: 그 순간, 맥스가 하울링을 하더니.
+    ja: その瞬間、マックスが遠吠えをして
+  event_bowwowparadise_01_s_36:
+    speaker: biscuit
+    en: All the other dogs barged towards the door and escaped.
+    ko: 다른 강아지들도 문으로 돌진해서 그대로 탈출했어.
+    ja: 他のみんなも扉に突進してきて、\nそのまま逃げちゃったの。
+  event_bowwowparadise_01_s_37:
+    speaker: nero
+    en: Sounds like Max is the problem.
+    ko: 맥스가 문제구냥.
+    ja: マックスが問題のようだにゃん。
+  event_bowwowparadise_01_s_38:
+    speaker: nero
+    en: Ask Leona for help.
+    ko: 레오나한테 도와달라고 말해 보라냥.
+    ja: レオナに助けを求めるのがいいにゃん。
+  event_bowwowparadise_01_s_39:
+    speaker: biscuit
+    en: Leona is busy right now.
+    ko: 음… 레오나는 지금 부재중이라서….
+    ja: うーん…レオナは今出かけてるから…
+  event_bowwowparadise_01_s_40:
+    speaker: nero
+    en: Then go to the Scoops.
+    ko: 그럼, 집사한테 가보라냥.
+    ja: じゃあ、執事のところに行ってみるにゃん。
+  event_bowwowparadise_01_s_41:
+    speaker: biscuit
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_bowwowparadise_01_s_42:
+    speaker: biscuit
+    en: Right, I forgot about Trainer!
+    ko: 맞아! 훈련사님이 있었지?!
+    ja: そうだ！訓練士さんがいたよね！
+  event_bowwowparadise_01_s_43:
+    speaker: biscuit
+    en: Trainer knows the Ark's layout inside and out.
+    ko: 아무래도 훈련사님은 방주 지리를 빠삭하게 알고 있으니까…!
+    ja: 訓練士さんはアークの地理に詳しいから…！
+  event_bowwowparadise_01_s_44:
+    speaker: nero
+    en: "*Meow*"
+    ko: 냥.
+    ja: にゃん。
+  event_bowwowparadise_01_s_45:
+    speaker: "<Narration>"
+    en: Nero closes her eyes again.
+    ko: 네로는 다시 눈을 감았다.
+    ja: ネロは再び目を閉じた
+  event_bowwowparadise_01_s_46:
+    speaker: biscuit
+    en: Thanks for the help, Nero!
+    ko: 고마워 네로! 훈련사님한테 가봐야겠어!
+    ja: ありがとう、ネロ！\n訓練士さんのところに行ってみるね！
+event_bowwowparadise_01_e:
+  event_bowwowparadise_01_e_1:
+    speaker: "<Self>"
+    en: The dogs escaped from the shelter?
+    ko: 강아지들이 보호소에서 탈출했다고?
+    ja: イヌがシェルターから逃げ出したって？
+  event_bowwowparadise_01_e_2:
+    speaker: biscuit
+    en: "... Yes."
+    ko: "…네에."
+    ja: "…はい…"
+  event_bowwowparadise_01_e_3:
+    speaker: biscuit
+    en: It's all my fault. I'm sorry to drag you into this,
+    ko: |-
+      우우… 사고 쳐 놓고.
+      이런 부탁하는 게 죄송하지만.
+    ja: |-
+      うう…私のせいなのに
+      こんなお願いをするのは申し訳ないのですが…
+  event_bowwowparadise_01_e_4:
+    speaker: biscuit
+    en: but can you help me look for them?
+    ko: 강아지 찾는 걸 도와주시면 안 될까요?
+    ja: みんなを捜すのを手伝ってくれませんか？
+  event_bowwowparadise_01_e_5:
+    speaker: "<Monologue>"
+    en: Biscuit stares at me woefully, her eyes welling up.
+    ko: 비스킷은 눈물이 그렁그렁 맺힌 눈으로 날 바라봤다.
+    ja: ビスケットは目に涙を浮かべて私を見つめた
+  event_bowwowparadise_01_e_6:
+    speaker: "<Choice>"
+    en: Pet her on the head.
+    ko: 머리를 쓰다듬어 준다.
+    ja: 頭をなでる
+  event_bowwowparadise_01_e_7:
+    speaker: "<Choice>"
+    en: Pet her on the shoulder.
+    ko: 어깨를 토닥거려준다.
+    ja: 肩を軽く叩く
+  event_bowwowparadise_01_e_8:
+    speaker: biscuit
+    en: Thank you for cheering me up.
+    ko: |-
+      …위로해 주셔서 감사해요.
+      훈련사님.
+    ja: |-
+      …慰めてくれてありがとうございます。
+      訓練士さん。
+  event_bowwowparadise_01_e_9:
+    speaker: "<Self>"
+    en: Is there any chance of the dogs being in danger?
+    ko: 강아지들이 위험에 노출될 일은 없어?
+    ja: みんなが危険な目に遭う心配はないのか？
+  event_bowwowparadise_01_e_10:
+    speaker: biscuit
+    en: No, we don't have to worry about that.
+    ko: 네! 그건 걱정 안 하셔도 돼요!
+    ja: はい！その点はご安心を！
+  event_bowwowparadise_01_e_11:
+    speaker: biscuit
+    en: I might have to explain a few things.
+    ko: 조금만 설명해 드리자면….
+    ja: 簡単に説明しますと…
+  event_bowwowparadise_01_e_12:
+    speaker: biscuit
+    en: Only certain members of the upper class can have pets,
+    ko: 로열에 있는 일부 특권층들만 반려동물을 키울 수 있고.
+    ja: ペットを飼えるのは、\nロイヤルの一部の特権層だけで
+  event_bowwowparadise_01_e_13:
+    speaker: biscuit
+    en: and even then, you need approval from the Central Government.
+    ko: 동물들을 키우려면 중앙 정부의 허락을 맡아야 하거든요!
+    ja: 中央政府の許可が必要なんです！
+  event_bowwowparadise_01_e_14:
+    speaker: biscuit
+    en: If anyone took one of those dogs without permission, the Central Government
+      would throw the book at them.
+    ko: |-
+      함부로 데려가면 엄벌에 처해지기 때문에.
+      무작정 데려갈 순 없을 거예요.
+    ja: |-
+      勝手に連れていったりすると
+      厳しく罰せられます。
+  event_bowwowparadise_01_e_15:
+    speaker: biscuit
+    en: The Ark's animal protection laws are quite strict, and heavily enforced.
+    ko: 방주의 동물보호법은 꽤 까다롭고 무거우니까요.
+    ja: アークの動物保護法は\nかなり重く、厳しいですから。
+  event_bowwowparadise_01_e_16:
+    speaker: biscuit
+    en: The only thing that worries me is
+    ko: 다만 걱정되는 건….
+    ja: ただ、心配なのは…
+  event_bowwowparadise_01_e_17:
+    speaker: biscuit
+    en: one of them getting hurt or causing a problem.
+    ko: 강아지들이 방주에서 다치거나, 큰 사고를 치고 다닐까 봐서 걱정이에요.
+    ja: みんながアークでケガをしたり、\n大きなトラブルを起こしたり\nしないかということです。
+  event_bowwowparadise_01_e_18:
+    speaker: biscuit
+    en: None of them have been to the Ark before.
+    ko: 보호소 강아지들은 아직 한 번도 방주에 나가본 적이 없거든요.
+    ja: シェルターのイヌはまだ一度も\nアークに出たことがないんです。
+  event_bowwowparadise_01_e_19:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_01_e_20:
+    speaker: "<Self>"
+    en: Not even once?
+    ko: 강아지들이 방주에 나온 적이 한 번도 없어?
+    ja: アークに出たことが一度もない？
+  event_bowwowparadise_01_e_21:
+    speaker: biscuit
+    en: Not a one. They've been at the shelter ever since they were little pups. Many
+      of them still haven't been trained properly.
+    ko: |-
+      네! 아무래도 어린 친구들이라
+      훈련이 덜 된 친구들이 많아서요.
+    ja: |-
+      はい！まだみんな子どもなので
+      訓練が足りない子が多いんです。
+  event_bowwowparadise_01_e_22:
+    speaker: biscuit
+    en: There's no need for them to visit the Ark anyway. The shelter has everything
+      they'd possibly need.
+    ko: |-
+      그리고 방주에 나가지 않아도
+      보호소 안에 모든 시설이 갖춰져 있거든요!
+    ja: |-
+      だからアークに出なくてもいいように
+      シェルター内に施設が揃っています！
+  event_bowwowparadise_01_e_23:
+    speaker: biscuit
+    en: There's a training center, an examination room, a play room...
+    ko: 훈련장도 있고, 검사실도 있고, 놀이방도 있고….
+    ja: 訓練所も、検査室も、プレイルームも…
+  event_bowwowparadise_01_e_24:
+    speaker: "<Monologue>"
+    en: Biscuit's ears droop down while she speaks.
+    ko: 비스킷은 말을 하다 말곤 귀가 축 처졌다.
+    ja: 話している途中でビスケットの耳がしゅんとした
+  event_bowwowparadise_01_e_25:
+    speaker: "<Self>"
+    en: What's wrong?
+    ko: 왜 그래?
+    ja: どうした？
+  event_bowwowparadise_01_e_26:
+    speaker: biscuit
+    en: Why do you think the dogs ran away?
+    ko: 강아지들이 왜 탈출한 걸까요?
+    ja: どうしてみんな逃げ出したのでしょうか？
+  event_bowwowparadise_01_e_27:
+    speaker: biscuit
+    en: They've never done that before.
+    ko: 이런 적이 한 번도 없었는데….
+    ja: こんなこと、今まで一度もなかったのに…
+  event_bowwowparadise_01_e_28:
+    speaker: "<Self>"
+    en: Why don't we ask them?
+    ko: 물어보자.
+    ja: 聞いてみよう
+  event_bowwowparadise_01_e_29:
+    speaker: biscuit
+    en: Huh?
+    ko: 네?
+    ja: えっ？
+  event_bowwowparadise_01_e_30:
+    speaker: "<Self>"
+    en: Let's find the dogs and ask them.
+    ko: 강아지들을 찾아서 물어보자.
+    ja: みんなを捜して聞いてみよう
+  event_bowwowparadise_01_e_31:
+    speaker: "<Self>"
+    en: There must be a reason.
+    ko: 분명 이유가 있을 거야.
+    ja: きっと理由があるはずだ
+  event_bowwowparadise_01_e_32:
+    speaker: biscuit
+    en: "... Right!"
+    ko: "…맞아요!"
+    ja: "…そうですね！"
+  event_bowwowparadise_01_e_33:
+    speaker: biscuit
+    en: There has to be a reasonable explanation.
+    ko: 분명 납득할 만한 이유가 있을 거예요!
+    ja: きっとなにか理由があるはずです！
+  event_bowwowparadise_01_e_34:
+    speaker: "<Monologue>"
+    en: Biscuit's eyes start to sparkle.
+    ko: 비스킷의 눈동자가 반짝거리기 시작했다.
+    ja: ビスケットの瞳が輝き始めた
+  event_bowwowparadise_01_e_35:
+    speaker: biscuit
+    en: Let's hurry!
+    ko: 얼른 출발해요. 훈련사님!
+    ja: 早く出発しましょう。訓練士さん！
+  event_bowwowparadise_01_e_36:
+    speaker: "<Self>"
+    en: You got it.
+    ko: 그래.
+    ja: ああ
+  event_bowwowparadise_01_e_37:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ブブブ…
+  event_bowwowparadise_01_e_38:
+    speaker: biscuit
+    en: Oh! Wait!
+    ko: 엇! 잠시만요!
+    ja: あっ！ちょっと待ってください！
+  event_bowwowparadise_01_e_39:
+    speaker: biscuit
+    en: Oh no...
+    ko: 헙….
+    ja: えっ…
+  event_bowwowparadise_01_e_40:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_01_e_41:
+    speaker: biscuit
+    en: I just got a message from the police station.
+    ko: "…경찰서에서 연락 왔어요."
+    ja: "…警察署から連絡が来ました。"
+event_bowwowparadise_02_s:
+  event_bowwowparadise_02_s_1:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_02_s_2:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_02_s_3:
+    speaker: puppies
+    en: "*Grrrr*"
+    ko: 아르르르…!
+    ja: ガルルル…！
+  event_bowwowparadise_02_s_4:
+    speaker: miranda
+    en: Poli, we've got to put these dogs in the jail cell!
+    ko: |-
+      폴리, 우선 이 강아지들.
+      유치장 안에 넣겠습니다!
+    ja: |-
+      ポリ、まずはこのワンちゃんたちを
+      留置場に入れます！
+  event_bowwowparadise_02_s_5:
+    speaker: poli
+    en: Absolutely not!
+    ko: 안돼영!
+    ja: ダメですよん！
+  event_bowwowparadise_02_s_6:
+    speaker: poli
+    en: I'm not going to lock up a few innocent dogs.
+    ko: 강아지들을 유치장에 가둘 순 없어영!
+    ja: イヌを留置場に閉じ込めるわけには\nいきませんっ！
+  event_bowwowparadise_02_s_7:
+    speaker: poli
+    en: Jail cells are for criminals who have done something wrong.
+    ko: 유치장은 사고 친 범죄자들을 가두는 곳이라구영!
+    ja: 留置場は事件を起こした犯罪者を\n収監する場所ですよん！
+  event_bowwowparadise_02_s_8:
+    speaker: miranda
+    en: But... these dogs have been causing all sorts of problems.
+    ko: 어… 일단 이 강아지들도 방주에서 사고 치고 다녔으니.
+    ja: えっと…でもこの子たちも\nアークで事件を起こしたので
+  event_bowwowparadise_02_s_9:
+    speaker: miranda
+    en: Doesn't that count?
+    ko: 비슷한 거 아닙니까?
+    ja: 似たようなものではありませんか？
+  event_bowwowparadise_02_s_10:
+    speaker: poli
+    en: They haven't committed any serious crimes.
+    ko: 엄청난 범죄를 저지른 게 아니잖아영!
+    ja: とんでもない犯罪を\n起こしたわけじゃないですよん！
+  event_bowwowparadise_02_s_11:
+    speaker: poli
+    en: Besides, there's no such thing as a bad dog. They just don't exist.
+    ko: 그리고 세상에 나쁜 강아지들은 없다구영!
+    ja: それに、この世に悪いイヌはいないんですぅ！
+  event_bowwowparadise_02_s_12:
+    speaker: puppies
+    en: "*Sniff sniff*"
+    ko: 킁킁-
+    ja: クンクン…
+  event_bowwowparadise_02_s_13:
+    speaker: "<Narration>"
+    en: "*Shhhhh*"
+    ko: 쉬이이이-
+    ja: シャーッ
+  event_bowwowparadise_02_s_14:
+    speaker: miranda
+    en: "... That one is peeing on your shoe."
+    ko: 엇! 강아지가 폴리 신발에 쉬합니다!
+    ja: あっ！ワンちゃんがポリの靴に\nおしっこしてます！
+  event_bowwowparadise_02_s_15:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_16:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_17:
+    speaker: poli
+    en: "... Miranda."
+    ko: "…미란다."
+    ja: "…ミランダ。"
+  event_bowwowparadise_02_s_18:
+    speaker: poli
+    en: Perhaps we can put them in a cell until Biscuit shows up.
+    ko: 일단 비스킷이 올 때까지 유치장에 넣어두는 걸로 할까영?
+    ja: とりあえず、ビスケットが来るまで\n留置場に入れておきましょうかぁ？
+  event_bowwowparadise_02_s_19:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_bowwowparadise_02_s_20:
+    speaker: biscuit
+    en: Poli!
+    ko: 폴리!
+    ja: ポリ！
+  event_bowwowparadise_02_s_21:
+    speaker: poli
+    en: Ah, Biscuit. You're just in time.
+    ko: |-
+      앗! 비스킷.
+      딱 맞춰서 왔군용!
+    ja: |-
+      あっ、ビスケット！
+      やっと来ましたねぇ！
+  event_bowwowparadise_02_s_22:
+    speaker: "<Self>"
+    en: Poli, your shoe...
+    ko: 폴리 신발이….
+    ja: ポリの靴が…
+  event_bowwowparadise_02_s_23:
+    speaker: biscuit
+    en: "*Gasp* Did one of my dogs do that?"
+    ko: 헙! 설마 우리 강아지들이 그런 건가요?
+    ja: はっ！まさかうちの子たちがやったんですか？
+  event_bowwowparadise_02_s_24:
+    speaker: miranda
+    en: They sure did. I think it was marking its territory.
+    ko: |-
+      맞습니다!
+      방금 폴리 신발에 영역 표시를 한 것 같습니다!
+    ja: |-
+      そのとおりです！
+      今、ポリの靴にマーキングをしました！
+  event_bowwowparadise_02_s_25:
+    speaker: "<Choice>"
+    en: Perhaps it felt a sense of kinship with her.
+    ko: 동질감이 느껴진 건가.
+    ja: 仲間意識を感じたのか？
+  event_bowwowparadise_02_s_26:
+    speaker: "<Choice>"
+    en: Maybe it thought she was a dog.
+    ko: 강아지라 생각한 건가.
+    ja: イヌだと思ったのか？
+  event_bowwowparadise_02_s_27:
+    speaker: poli
+    en: Commander, how many times have I told you, I'm not a dog! Grrrr...
+    ko: 지휘관, 저는 강아지가 아니거든영? 크르르릉…!
+    ja: 指揮官、私はイヌじゃありませんよぉ？\nグルルル…！
+  event_bowwowparadise_02_s_28:
+    speaker: biscuit
+    en: I'm sorry! I'll buy you a new pair of shoes.
+    ko: |-
+      죄송해요!
+      제가 새 걸로 사드릴게요!
+    ja: |-
+      すみません！
+      私が新品を買いますので！
+  event_bowwowparadise_02_s_29:
+    speaker: poli
+    en: Don't worry about it.
+    ko: 괜찮아영~
+    ja: 大丈夫ですよん～
+  event_bowwowparadise_02_s_30:
+    speaker: poli
+    en: They'll be good as new after I wash them.
+    ko: 신발은 세탁하면 되졍.
+    ja: 靴は洗えばいいですからぁ。
+  event_bowwowparadise_02_s_31:
+    speaker: poli
+    en: Anyway, how did so many dogs end up in the Ark?
+    ko: 그것보다… 이렇게 많은 강아지가 어떻게 방주에 나와 있는거졍?
+    ja: それより…\nどうしてこんなにたくさんのイヌがアークに？
+  event_bowwowparadise_02_s_32:
+    speaker: poli
+    en: Did they escape from the shelter?
+    ko: 혹시 보호소에서 탈출한 건가영?
+    ja: ひょっとして、\nシェルターから逃げ出したんですかぁ？
+  event_bowwowparadise_02_s_33:
+    speaker: biscuit
+    en: Yes... I lost track of them for a moment...
+    ko: 네에… 제가 잠깐 한눈판 사이에….
+    ja: はい…私が目を離した隙に…
+  event_bowwowparadise_02_s_34:
+    speaker: poli
+    en: Oh boy. Bad things start to happen once you let dogs out of your sight.
+    ko: |-
+      에궁.
+      원래 강아지들은 잠깐 한눈판 사이에 사고를 치는 법이졍.
+    ja: |-
+      やれやれ。
+      イヌって目を離した隙に\nイタズラするんですよねぇ。
+  event_bowwowparadise_02_s_35:
+    speaker: "<Self>"
+    en: How did you catch the dogs?
+    ko: 강아지들은 어떻게 잡은 거야?
+    ja: どうやってこんなに捕まえたんだ？
+  event_bowwowparadise_02_s_36:
+    speaker: poli
+    en: A bunch of citizens brought them here one by one.
+    ko: 아, 시민분들이 한 마리씩 데려다줬어영.
+    ja: あ、市民のみなさんが\n1匹ずつ連れてきてくれたんですよん。
+  event_bowwowparadise_02_s_37:
+    speaker: poli
+    en: These guys have been traipsing around the Ark getting into a whole bunch of
+      trouble.
+    ko: |-
+      이 녀석들.
+      방주에서 꽤나 사고를 치고 다닌 모양이에영.
+    ja: |-
+      この子たち、アークで
+      ずいぶんトラブルを起こしたようですねぇ。
+  event_bowwowparadise_02_s_38:
+    speaker: biscuit
+    en: Have you gotten many complaints?
+    ko: "…혹시 민원 같은 게 많이 들어왔나요?"
+    ja: "…ひょっとして苦情がたくさん入りました？"
+  event_bowwowparadise_02_s_39:
+    speaker: "<Narration>"
+    en: "*Ring* *Ring* *Ring*"
+    ko: 띠링- 띠링- 띠링-
+    ja: プルル…プルル…プルル…
+  event_bowwowparadise_02_s_40:
+    speaker: miranda
+    en: That's putting it mildly. As you can see, they're still coming in.
+    ko: 네! 보다시피 지금도 들어오고 있습니다!
+    ja: はい！ご覧のとおり、今も入ってきています！
+  event_bowwowparadise_02_s_41:
+    speaker: biscuit
+    en: Oh dear... what exactly was the nature of the complaints?
+    ko: 헛! 어떤 민원들이 들어왔는지 알 수 있을까요?
+    ja: はっ！どんな苦情ですか？
+  event_bowwowparadise_02_s_42:
+    speaker: miranda
+    en: Let's see...
+    ko: 넵! 지금까지 들어온 민원들을 말씀드리겠습니다!
+    ja: はい！今まで届いた内容をお伝えします！
+  event_bowwowparadise_02_s_43:
+    speaker: miranda
+    en: 3 instances of vandalism of Ark property.
+    ko: 방주 내 기물 파손 세건.
+    ja: アーク内の器物損壊3件、
+  event_bowwowparadise_02_s_44:
+    speaker: miranda
+    en: 12 counts of public urination on a telephone pole.
+    ko: 전봇대 영역 표시 열두 건.
+    ja: 電柱へのマーキング12件、
+  event_bowwowparadise_02_s_45:
+    speaker: miranda
+    en: 20 counts of defecating in the streets.
+    ko: 길거리 배변 활동 스무 건.
+    ja: 道路での排便20件、
+  event_bowwowparadise_02_s_46:
+    speaker: miranda
+    en: 7 counts of digging holes on public property.
+    ko: 땅파기 일곱 건.
+    ja: 地面掘り7件、
+  event_bowwowparadise_02_s_47:
+    speaker: miranda
+    en: And approximately 35 noise complaints.
+    ko: 소음 민원 서른다섯 건 정도입니다!
+    ja: 騒音35件、以上です！
+  event_bowwowparadise_02_s_48:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_49:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_50:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_51:
+    speaker: biscuit
+    en: I can't tell you how sorry I am!
+    ko: 죄, 죄송해요!
+    ja: す、すみません！
+  event_bowwowparadise_02_s_52:
+    speaker: biscuit
+    en: I'll do everything I can to make this right.
+    ko: 제가 얼른 수습하도록 할게요!
+    ja: 私が急いで何とかしますので！
+  event_bowwowparadise_02_s_53:
+    speaker: poli
+    en: Don't worry, this is what dogs do.
+    ko: |-
+      괜찮아영.
+      강아지들이 다 그렇졍.
+    ja: |-
+      大丈夫ですよん。
+      イヌはそういうものですからぁ。
+  event_bowwowparadise_02_s_54:
+    speaker: poli
+    en: We'll handle all the complaints.
+    ko: 접수된 민원들은 저희가 수습할 테니.
+    ja: 苦情は私たちが対応するので
+  event_bowwowparadise_02_s_55:
+    speaker: poli
+    en: You two take care of the dogs we've gathered so far.
+    ko: 비스킷과 지휘관은 경찰서에 있는 강아지들을 부탁해용.
+    ja: ビスケットと指揮官は\n警察署にいるみんなを頼みますよん。
+  event_bowwowparadise_02_s_56:
+    speaker: "<Self>"
+    en: Thank you for being so understanding.
+    ko: 고마워.
+    ja: ありがとう
+  event_bowwowparadise_02_s_57:
+    speaker: biscuit
+    en: Thank you!
+    ko: 감사합니다!
+    ja: ありがとうございます！
+  event_bowwowparadise_02_s_58:
+    speaker: "<Monologue>"
+    en: Biscuit and I walk towards the dogs who are gathered in the middle of the
+      police station lobby.
+    ko: |-
+      우리는 경찰서 한가운데에 눈치 보며 모여있는
+      강아지 무리에게 다가갔다.
+    ja: |-
+      私たちは警察署の真ん中に集まっている
+      イヌの群れに近づいた
+  event_bowwowparadise_02_s_59:
+    speaker: "<Self>"
+    en: Are you going to scold them?
+    ko: 혼낼거야?
+    ja: 叱るのか？
+  event_bowwowparadise_02_s_60:
+    speaker: biscuit
+    en: Of course not. Scolding them straight away isn't the proper way to discipline
+      them.
+    ko: |-
+      아니요!
+      무작정 혼내는 건, 좋은 훈육 방법이 아니에요.
+    ja: |-
+      いいえ！
+      むやみに怒るのは\nいいしつけとは言えませんから。
+  event_bowwowparadise_02_s_61:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_62:
+    speaker: biscuit
+    en: Listen up, all of you. Leaving the shelter like that so suddenly is not good.
+    ko: 얘들아, 이렇게 무작정 보호소를 나가는 건 안 좋은 행동이야.
+    ja: みんな、勝手にシェルターを出るのは\nいけないことだよ。
+  event_bowwowparadise_02_s_63:
+    speaker: "<Monologue>"
+    en: Biscuit stares each of the dogs in the eye and begins to reprimand them in
+      a stern but subdued tone of voice.
+    ko: |-
+      비스킷은 이내 강아지들과 눈높이를 맞추더니.
+      낮은 목소리 톤으로 훈육하기 시작했다.
+    ja: |-
+      ビスケットはイヌたちと目線を合わせ
+      落ち着いた声で話し始めた
+  event_bowwowparadise_02_s_64:
+    speaker: puppies
+    en: "*Whine*"
+    ko: 끼이잉….
+    ja: クーン…
+  event_bowwowparadise_02_s_65:
+    speaker: biscuit
+    en: Can any of you explain what happened?
+    ko: 혹시 어떻게 된 일인지 나한테 설명해 줄래?
+    ja: 何があったのか説明してくれる？
+  event_bowwowparadise_02_s_66:
+    speaker: puppies
+    en: "* Arf*"
+    ko: "…멍."
+    ja: "…ワン。"
+  event_bowwowparadise_02_s_67:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_02_s_68:
+    speaker: biscuit
+    en: "... That can't be true!"
+    ko: "…헙!"
+    ja: "…えっ！"
+  event_bowwowparadise_02_s_69:
+    speaker: "<Self>"
+    en: What's wrong?
+    ko: 왜 그래?
+    ja: どうした？
+  event_bowwowparadise_02_s_70:
+    speaker: biscuit
+    en: They were all following Max's lead. He's the one who proposed leaving the
+      shelter.
+    ko: "…맥스가 보호소를 나가자고 해서 따라 나온 거래요."
+    ja: "…マックスがシェルターを出ようって言ったから\\nついていったそうです。"
+  event_bowwowparadise_02_s_71:
+    speaker: biscuit
+    en: But that can't be...
+    ko: 그럴 리가 없는데…
+    ja: そんなはず…
+  event_bowwowparadise_02_s_72:
+    speaker: "<Self>"
+    en: Who is Max?
+    ko: 맥스가 누구야?
+    ja: マックスって？
+  event_bowwowparadise_02_s_73:
+    speaker: biscuit
+    en: One of the dogs at the shelter.
+    ko: 아! 저희 보호소에 있는 강아지인데, 반장 역할을 맡고 있는 친구예요.
+    ja: あっ！シェルターにいるイヌなんですが、\nみんなのまとめ役なんです。
+  event_bowwowparadise_02_s_74:
+    speaker: biscuit
+    en: He's kind of their unofficial leader.
+    ko: 강아지들의 리더라고나 할까요…?
+    ja: リーダーって感じでしょうか？
+  event_bowwowparadise_02_s_75:
+    speaker: biscuit
+    en: He's as smart as a whip, and usually incredibly well-behaved...
+    ko: 평소에 말도 잘 듣고, 영리하고, 똑똑한 강아지인데….
+    ja: 普段はよく言うことを聞くし、\n賢い子なんですが…
+  event_bowwowparadise_02_s_76:
+    speaker: biscuit
+    en: I think our best course of action is to find Max and ask him what's going
+      on.
+    ko: 음. 우선, 맥스를 찾아서 이야기해보는 게 맞는 것 같아요!
+    ja: うーん。まずはマックスを捜して\n話を聞いてみましょう！
+  event_bowwowparadise_02_s_77:
+    speaker: biscuit
+    en: You all stay inside your cages, okay?
+    ko: 너희는 케이지에 들어가 있을….
+    ja: みんなはケージに入って…
+  event_bowwowparadise_02_s_78:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_bowwowparadise_02_s_79:
+    speaker: max
+    en: "*Owwwww*"
+    ko: 아우우우-!
+    ja: ウオーン！
+  event_bowwowparadise_02_s_80:
+    speaker: biscuit
+    en: Max?!
+    ko: 맥스?!
+    ja: マックス！？
+  event_bowwowparadise_02_s_81:
+    speaker: miranda
+    en: How the... that dog just opened the door by itself and waltzed right in!
+    ko: 어? 강아지가 경찰서 문을 열고 들어왔습니다!
+    ja: あれ？イヌが警察署のドアを開けて\n入ってきました！
+  event_bowwowparadise_02_s_82:
+    speaker: miranda
+    en: It must be some kind of genius!
+    ko: 천재 강아지인 것 같습니다!
+    ja: 天才犬のようです！
+  event_bowwowparadise_02_s_83:
+    speaker: poli
+    en: Miranda, focus on the issue at hand!
+    ko: 미란다! 지금 그게 문제가 아니거든영!
+    ja: ミランダ！\nそんなこと言ってる場合じゃないですぅ！
+  event_bowwowparadise_02_s_84:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_02_s_85:
+    speaker: biscuit
+    en: Everyone, block the door! Max is trying to break the dogs free!
+    ko: |-
+      엇! 여러분, 문을 막아주세요!
+      맥스가 강아지들을 데려가려고 해요!
+    ja: |-
+      あっ！みなさん、ドアを塞いでください！
+      マックスがみんなを連れていこうとしてます！
+  event_bowwowparadise_02_s_86:
+    speaker: poli
+    en: Hold on to them!
+    ko: 얼른 잡아영!
+    ja: 早く捕まえてくださいよん！
+  event_bowwowparadise_02_s_87:
+    speaker: max
+    en: "*Arooooo*"
+    ko: 아우우우-!
+    ja: ウオーン！
+  event_bowwowparadise_02_s_88:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_02_s_89:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_02_s_90:
+    speaker: "<Narration>"
+    en: "*Ta-da-dak*"
+    ko: 타다닥-!
+    ja: ダダーッ！
+  event_bowwowparadise_02_s_91:
+    speaker: "<Monologue>"
+    en: Max scrambles around frantically, leading the dogs towards the main door.
+    ko: |-
+      우왕좌왕하는 사이.
+      맥스는 경찰서에 있던 강아지들을 문 쪽으로 몰기 시작했다.
+    ja: |-
+      私たちがあたふたしている間に
+      マックスは警察署にいたイヌをドアの方へ\n誘導していった
+  event_bowwowparadise_02_s_92:
+    speaker: biscuit
+    en: Don't let them escape!
+    ko: 놓치면 안 돼요!
+    ja: 逃がしちゃダメです！
+  event_bowwowparadise_02_s_93:
+    speaker: miranda
+    en: There are two of them to the right, and four on the left heading right for
+      you!
+    ko: 오른쪽 두 마리, 왼쪽으로 네 마리 갑니다!
+    ja: 右に2匹、左に4匹行きます！
+  event_bowwowparadise_02_s_94:
+    speaker: poli
+    en: Grrrrowl... You guys!
+    ko: 크릉크릉… 이 녀석들!
+    ja: ガルル…こいつら！
+  event_bowwowparadise_02_s_95:
+    speaker: "<Narration>"
+    en: "*Craaasssh*"
+    ko: 우당탕탕-!
+    ja: ドタンバタン！
+  event_bowwowparadise_02_s_96:
+    speaker: "<Monologue>"
+    en: We all bump into each other and fall over.
+    ko: 우리는 서로 부딪혀 넘어져 버렸고.
+    ja: 私たちは互いにぶつかり、転び…
+  event_bowwowparadise_02_s_97:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_98:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_99:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_s_100:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_bowwowparadise_02_s_101:
+    speaker: "<Monologue>"
+    en: Max runs out of the police station, taking the rest of the dogs with him.
+    ko: 맥스는 그대로 강아지들을 데리고 나가버렸다.
+    ja: マックスはそのまま\n他のイヌを連れて行ってしまった
+  event_bowwowparadise_02_s_102:
+    speaker: poli
+    en: Miranda, you were supposed to catch the dogs! Why did you catch me?!
+    ko: |-
+      …미란다, 강아지를 잡으라고 했는데.
+      왜 절 잡은거졍.
+    ja: |-
+      …ミランダ、イヌを捕まえてって言ったのに
+      どうして私を捕まえたんですかぁ？
+  event_bowwowparadise_02_s_103:
+    speaker: miranda
+    en: "... I got confused."
+    ko: "…헷갈렸습니다."
+    ja: "…混乱してしまいました。"
+  event_bowwowparadise_02_s_104:
+    speaker: "<Monologue>"
+    en: And with that, we lost the dogs.
+    ko: 그렇게 강아지들을 놓쳐버렸다.
+    ja: こうしてみんなを見失ってしまった
+event_bowwowparadise_02_e:
+  event_bowwowparadise_02_e_1:
+    speaker: biscuit
+    en: We need to track down Max.
+    ko: "…맥스를 추적해야 할 것 같아요!"
+    ja: "…マックスを追いかけましょう！"
+  event_bowwowparadise_02_e_2:
+    speaker: "<Self>"
+    en: Why is he doing this?
+    ko: "…왜 그런 걸까?"
+    ja: "…何がしたいんだろう？"
+  event_bowwowparadise_02_e_3:
+    speaker: biscuit
+    en: Your guess is as good as mine.
+    ko: "…그러게요. \n저도 그게 의문이긴 해요."
+    ja: |-
+      …そうですね。
+      私もそれが疑問です。
+  event_bowwowparadise_02_e_4:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_02_e_5:
+    speaker: biscuit
+    en: But he must have a good reason.
+    ko: 하지만 맥스라면 분명 이렇게 행동한 이유가 있었을 거예요.
+    ja: でも、きっと理由があるはずです。
+  event_bowwowparadise_02_e_6:
+    speaker: biscuit
+    en: As I said before, Max is a really smart dog.
+    ko: 아까도 말했지만, 맥스는 진짜 똑똑한 강아지거든요!
+    ja: さっきも言いましたが、\nマックスは本当に賢い子なんです！
+  event_bowwowparadise_02_e_7:
+    speaker: biscuit
+    en: He's my little helper, and he often cheers me up whenever I'm feeling down.
+    ko: |-
+      항상 제 일을 도와주기도 하고.
+      힘들 땐 옆에서 위로까지 해주는 그런 멋진 강아지예요.
+    ja: |-
+      いつも私の仕事を手伝ってくれて
+      つらい時は慰めてくれる、\nそんな素敵な子なんです。
+  event_bowwowparadise_02_e_8:
+    speaker: poli
+    en: It sounds like you and the dogs at the shelter are really close.
+    ko: 비스킷은 보호소 강아지들을 많이 좋아하시는군영.
+    ja: ビスケットはシェルターのみんなが\n大好きなんですねぇ。
+  event_bowwowparadise_02_e_9:
+    speaker: miranda
+    en: I can sense how much you love them.
+    ko: 애정이 느껴졌습니다!
+    ja: 愛情を感じます！
+  event_bowwowparadise_02_e_10:
+    speaker: poli
+    en: Whatever reason Max has for doing this, it can't be bad.
+    ko: |-
+      맞아영.
+      분명 나쁜 뜻이 있어서 그런 건 아닐 거에영!
+    ja: |-
+      そうですよん。
+      きっと悪意があってやったわけじゃ\nないはずですぅ！
+  event_bowwowparadise_02_e_11:
+    speaker: biscuit
+    en: I think that as well.
+    ko: 네! 저도 그렇게 생각해요!
+    ja: はい！私もそう思います！
+  event_bowwowparadise_02_e_12:
+    speaker: biscuit
+    en: After all, there's no such thing as a bad dog.
+    ko: 세상에 나쁜 강아지는 없으니까요!
+    ja: この世に悪いイヌはいませんから！
+  event_bowwowparadise_02_e_13:
+    speaker: poli
+    en: Agreed.
+    ko: 동의해영.
+    ja: そのとおりですねぇ。
+  event_bowwowparadise_02_e_14:
+    speaker: biscuit
+    en: I knew you would.
+    ko: |-
+      헤헤.
+      역시 폴리도 잘 아시는군요!
+    ja: |-
+      へへ。
+      やっぱりポリもよくご存じですね！
+  event_bowwowparadise_02_e_15:
+    speaker: "<Self>"
+    en: That's because she's very dog-like.
+    ko: 역시 강아지들답군.
+    ja: やっぱりイヌらしいな
+  event_bowwowparadise_02_e_16:
+    speaker: poli
+    en: Grrrrr... I'm not a dog!
+    ko: 크릉크릉… 지휘관, 전 강아지가 아니라구영!
+    ja: ガルル…指揮官、私はイヌじゃないですよん！
+  event_bowwowparadise_02_e_17:
+    speaker: poli
+    en: Hmph!
+    ko: 흥!
+    ja: ふん！
+  event_bowwowparadise_02_e_18:
+    speaker: poli
+    en: Anyway, where do you think they could have gone?
+    ko: 그럼, 다음은 어디로 가실건가영?
+    ja: じゃあ、次はどこへ行くんですかぁ？
+  event_bowwowparadise_02_e_19:
+    speaker: biscuit
+    en: I've got to go to whichever place the dogs are frequenting most often.
+    ko: 일단… 강아지들이 자주 갈만한 곳으로 가보려고요!
+    ja: ひとまず…みんなが行きそうな場所に\n行ってみます！
+  event_bowwowparadise_02_e_20:
+    speaker: biscuit
+    en: Wherever the most complaints have come from.
+    ko: 민원이 자주 들어왔던 곳이요!
+    ja: 苦情が多い場所です！
+  event_bowwowparadise_02_e_21:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 띠링-
+    ja: プルル…
+  event_bowwowparadise_02_e_22:
+    speaker: miranda
+    en: We just received a complaint from the shopping mall.
+    ko: 엇! 방금 쇼핑몰에서 민원이 들어왔습니다!
+    ja: あっ！今、ショッピングモールから\n苦情が入りました！
+  event_bowwowparadise_02_e_23:
+    speaker: biscuit
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_bowwowparadise_02_e_24:
+    speaker: poli
+    en: A place with lots of people...
+    ko: 흠… 사람들이 많은 곳이군영.
+    ja: うーん…人が多い場所ですねぇ。
+  event_bowwowparadise_02_e_25:
+    speaker: "<Self>"
+    en: Should we check out the shopping mall?
+    ko: 일단 쇼핑몰로 가볼까?
+    ja: まずはショッピングモールに行こう
+  event_bowwowparadise_02_e_26:
+    speaker: biscuit
+    en: Good idea.
+    ko: 네! 훈련사님!
+    ja: はい！訓練士さん！
+  event_bowwowparadise_02_e_27:
+    speaker: poli
+    en: We'll go on patrol and keep our eyes open as well.
+    ko: 저희도 순찰하면서 한 번 찾아볼게용!
+    ja: 私たちもパトロールしながら\n捜してみますねぇ！
+  event_bowwowparadise_02_e_28:
+    speaker: biscuit
+    en: Thank you, Poli.
+    ko: 고마워요. 폴리!
+    ja: ありがとうございます、ポリ！
+  event_bowwowparadise_02_e_29:
+    speaker: biscuit
+    en: Ooh! I have something for you...
+    ko: 앗! 이건 별거 아닌데….
+    ja: あっ！これはつまらないものですが…
+  event_bowwowparadise_02_e_30:
+    speaker: "<Narration>"
+    en: "*Crumble* *Crumble*"
+    ko: 부스럭- 부스럭-
+    ja: ガサゴソ…
+  event_bowwowparadise_02_e_31:
+    speaker: biscuit
+    en: Here you go! Enjoy it!
+    ko: 헤헤. 이거 드세요!
+    ja: へへ、どうぞ！
+  event_bowwowparadise_02_e_32:
+    speaker: poli
+    en: What is it?
+    ko: 이게 뭔가용?
+    ja: これは何ですかぁ？
+  event_bowwowparadise_02_e_33:
+    speaker: biscuit
+    en: A sweet potato stick. It's one of my favorites!
+    ko: |-
+      어… 이건…
+      제가 좋아하는 고구마스틱이에요!
+    ja: |-
+      えっと…これは…
+      私が好きなサツマイモスティックです！
+  event_bowwowparadise_02_e_34:
+    speaker: biscuit
+    en: I figured you might like it as well.
+    ko: 폴리도 좋아할까 싶어서요.
+    ja: ポリも好きかなと思ったんです。
+  event_bowwowparadise_02_e_35:
+    speaker: miranda
+    en: Poli is gaga for these things!
+    ko: 이건 폴리가 가장 좋아하는 간식입니다!
+    ja: これはポリが一番好きなおやつです！
+  event_bowwowparadise_02_e_36:
+    speaker: poli
+    en: This is perfect! I just ran out of snacks recently.
+    ko: |-
+      안 그래도 간식이 다 떨어졌었는뎅.
+      고마워영. 비스킷!
+    ja: |-
+      ちょうどおやつがなかったんですよん。
+      ありがとうございますぅ！
+  event_bowwowparadise_02_e_37:
+    speaker: poli
+    en: Thanks, Biscuit!
+    ko: 잘 먹을게영!
+    ja: ありがたくいただきますねぇ！
+  event_bowwowparadise_02_e_38:
+    speaker: biscuit
+    en: You're welcome!
+    ko: 헤헤! 넵!
+    ja: へへ！はいっ！
+  event_bowwowparadise_02_e_39:
+    speaker: "<Self>"
+    en: All right, let's get going.
+    ko: 그럼, 이제 출발하자.
+    ja: それじゃあ出発しよう
+event_bowwowparadise_03_s:
+  event_bowwowparadise_03_s_1:
+    speaker: Narration
+    en: "*Crackkk*"
+    ko: 쨍그랑-!
+    ja: ガシャンッ！
+  event_bowwowparadise_03_s_2:
+    speaker: Narration
+    en: "*Crasssh*"
+    ko: 우당탕탕!
+    ja: ドタンバタン！
+  event_bowwowparadise_03_s_3:
+    speaker: maam
+    en: Someone get those dogs!
+    ko: 아이고! 저기 강아지들 좀 잡아봐요.
+    ja: もうっ！誰かあのイヌを捕まえてちょうだい。
+  event_bowwowparadise_03_s_4:
+    speaker: Narration
+    en: "*Crushh*"
+    ko: 까드득-!
+    ja: バクバク！
+  event_bowwowparadise_03_s_5:
+    speaker: staff
+    en: No! Dogs can't eat those!
+    ko: 어어! 그거 강아지가 먹으면 안 되는데!
+    ja: あっ！それは食べちゃダメなのに！
+  event_bowwowparadise_03_s_6:
+    speaker: citizen
+    en: That one is huge! What an adorable big boi!
+    ko: 와아~ 강아지들 왕 크니까, 왕 귀엽다!
+    ja: わあ～、ワンちゃん大きくてかわいい！
+  event_bowwowparadise_03_s_7:
+    speaker: Monologue
+    en: The moment we arrive at the shopping mall, we see Max and the other dogs wreaking
+      havoc.
+    ko: |-
+      쇼핑몰에 도착하니.
+      맥스와 강아지들은 사고를 치며 거리를 활보하고 있었다.
+    ja: |-
+      ショッピングモールに到着すると
+      マックスたちが騒ぎを起こしながら\n街を闊歩していた
+  event_bowwowparadise_03_s_8:
+    speaker: Narration
+    en: "*Beeeeep*"
+    ko: 삐이이-!
+    ja: ピィィー！
+  event_bowwowparadise_03_s_9:
+    speaker: biscuit
+    en: Max! Gather your friends together and get over here!
+    ko: 맥스! 강아지들 데리고 나한테 와!
+    ja: マックス！みんなを連れて、私のところに来て！
+  event_bowwowparadise_03_s_10:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_03_s_11:
+    speaker: Narration
+    en: "*Whip*"
+    ko: 휙-!
+    ja: パッ！
+  event_bowwowparadise_03_s_12:
+    speaker: Narration
+    en: "*Ta-da-dak*"
+    ko: 타다닥!
+    ja: ダダダ！
+  event_bowwowparadise_03_s_13:
+    speaker: Monologue
+    en: Max stares at Biscuit for a brief moment, then takes off with blinding speed.
+    ko: |-
+      맥스는 비스킷을 한 번 쳐다보곤,
+      더 빠르게 달리기 시작했다.
+    ja: |-
+      マックスはちらっとビスケットを見て
+      さらに速く走り始めた
+  event_bowwowparadise_03_s_14:
+    speaker: biscuit
+    en: Max...!
+    ko: 맥스…!
+    ja: マックス…！
+  event_bowwowparadise_03_s_15:
+    speaker: Narration
+    en: "*Crassssh*"
+    ko: 우당탕탕-!
+    ja: ドタンバタン！
+  event_bowwowparadise_03_s_16:
+    speaker: Self
+    en: Forget Max, let's just focus on grabbing the other dogs!
+    ko: 우선 다른 강아지들부터 잡자!
+    ja: まずは他の子たちから捕まえよう！
+  event_bowwowparadise_03_s_17:
+    speaker: biscuit
+    en: Okay!
+    ko: 넵!
+    ja: はい！
+  event_bowwowparadise_03_s_18:
+    speaker: citizen
+    en: Let me help too!
+    ko: 저희도 도와드릴게요!
+    ja: 私たちも手伝います！
+  event_bowwowparadise_03_s_19:
+    speaker: biscuit
+    en: Thank you.
+    ko: 앗! 감사합니다!
+    ja: あっ！ありがとうございます！
+  event_bowwowparadise_03_s_20:
+    speaker: citizen
+    en: Awww, aren't you a cutie? Here's a treat.
+    ko: |-
+      우쭈쭈. 여기 간식 있다~
+      우쭈, 우쭈, 우쭈쭈!
+    ja: |-
+      よしよ～し。おやつがあるよ～
+      いい子だね～！
+  event_bowwowparadise_03_s_21:
+    speaker: Self
+    en: Aren't those meant for humans?
+    ko: 그건 사람이 먹는 거 아닌가?
+    ja: それは人間の食べ物じゃないか？
+  event_bowwowparadise_03_s_22:
+    speaker: citizen
+    en: Oh, right. Dogs can't eat this.
+    ko: 아, 이건 강아지가 못 먹는 거군요.
+    ja: あ、これは食べられないんですね。
+  event_bowwowparadise_03_s_23:
+    speaker: Narration
+    en: "*Scrumble* *Scrumble*"
+    ko: 부스럭- 부스럭-
+    ja: ガサゴソ…
+  event_bowwowparadise_03_s_24:
+    speaker: biscuit
+    en: Here, take a sweet potato stick. Dogs go crazy for them, and humans can eat
+      them too.
+    ko: |-
+      여기 고구마스틱이요.
+      강아지들이 제일 좋아하는 간식이에요! 사람이 먹어도 돼요!
+    ja: |-
+      サツマイモスティックです。
+      イヌが大好きなおやつで、\n人間が食べても大丈夫ですよ！
+  event_bowwowparadise_03_s_25:
+    speaker: Self
+    en: "...?"
+    ko: "……?"
+    ja: "……？"
+  event_bowwowparadise_03_s_26:
+    speaker: citizen
+    en: This is my first stint as a dog catcher. How do I grab them?
+    ko: 강아지를 처음 잡아봐서 그런데, 이렇게 잡으면 되나요?
+    ja: 初めてイヌを捕まえたんですが、\nこれで大丈夫ですか？
+  event_bowwowparadise_03_s_27:
+    speaker: citizen
+    en: I heard it's not good to lift them by their front legs.
+    ko: 앞발을 들어 올리면 안 좋다고 했어요!
+    ja: 前足を持ち上げるのはよくないらしいですよ！
+  event_bowwowparadise_03_s_28:
+    speaker: citizen
+    en: Hey, over here! I caught one!
+    ko: 여기도 한 마리 잡았어요!
+    ja: こっちも1匹捕まえました！
+  event_bowwowparadise_03_s_29:
+    speaker: biscuit
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_bowwowparadise_03_s_30:
+    speaker: biscuit
+    en: Thank you!
+    ko: 감사합니다!
+    ja: ありがとうございます！
+  event_bowwowparadise_03_s_31:
+    speaker: Narration
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_bowwowparadise_03_s_32:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_03_s_33:
+    speaker: Narration
+    en: "*Bam*"
+    ko: 탁-!
+    ja: バタンッ！
+  event_bowwowparadise_03_s_34:
+    speaker: Monologue
+    en: Thanks to some good Samaritans, we were able to capture the dogs without too
+      much hassle.
+    ko: |-
+      주변 사람들의 도움으로.
+      나름 손쉽게 강아지들을 잡을 수 있었고.
+    ja: |-
+      周りの人々の助けを借りて
+      それなりにスムーズにイヌを捕まえ
+  event_bowwowparadise_03_s_35:
+    speaker: Monologue
+    en: One by one, the dogs are put into the cages that Biscuit brought along.
+    ko: 강아지들은 비스킷이 가져온 케이지 안으로 하나둘 들어갔다.
+    ja: ビスケットが持ってきたケージの中に入れた
+  event_bowwowparadise_03_s_36:
+    speaker: biscuit
+    en: Okay, let's book it back to the shelter.
+    ko: |-
+      조금만 참아줘.
+      얼른 보호소로 돌아가자.
+    ja: |-
+      ちょっと我慢してね。
+      早くシェルターに帰ろうね。
+  event_bowwowparadise_03_s_37:
+    speaker: Self
+    en: Is Max the only one left?
+    ko: 이제 맥스만 잡으면 되는 거야?
+    ja: あとはマックスを捕まえるだけか？
+  event_bowwowparadise_03_s_38:
+    speaker: biscuit
+    en: That's right.
+    ko: "…네!"
+    ja: "…はい！"
+  event_bowwowparadise_03_s_39:
+    speaker: Monologue
+    en: Biscuit turns to look at Max, who is staring at her quietly.
+    ko: 비스킷은 가만히 자신을 바라보고 있는 맥스에게 시선을 돌렸다.
+    ja: ビスケットはじっと自分を見つめている\nマックスに視線を向けた
+  event_bowwowparadise_03_s_40:
+    speaker: biscuit
+    en: Max.
+    ko: 맥스.
+    ja: マックス。
+  event_bowwowparadise_03_s_41:
+    speaker: Narration
+    en: "*Stomp*"
+    ko: 터벅.
+    ja: スタスタ…
+  event_bowwowparadise_03_s_42:
+    speaker: Narration
+    en: "*Ta-dak*"
+    ko: 타닥-
+    ja: ダダッ
+  event_bowwowparadise_03_s_43:
+    speaker: Monologue
+    en: Every time Biscuit takes a step forward, Max takes a step back.
+    ko: 비스킷이 한 발짝 다가가자, 맥스는 한 발짝 멀어졌다.
+    ja: ビスケットが一歩近づくと、\nマックスは一歩遠ざかった
+  event_bowwowparadise_03_s_44:
+    speaker: biscuit
+    en: "... Fine."
+    ko: "…으으음!"
+    ja: "…う～ん！"
+  event_bowwowparadise_03_s_45:
+    speaker: biscuit
+    en: Let's just talk.
+    ko: 그럼 여기서 이야기하자!
+    ja: じゃあここで話そう！
+  event_bowwowparadise_03_s_46:
+    speaker: biscuit
+    en: Can you tell me why you escaped?
+    ko: 왜 보호소에서 탈출했는지 말해주면 안 될까?
+    ja: どうしてシェルターを抜け出したのか、\n教えてくれない？
+  event_bowwowparadise_03_s_47:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_03_s_48:
+    speaker: biscuit
+    en: If there is something bothering you, please tell me!
+    ko: 혹시 불만이나 그런 게 있으면 말해줘!
+    ja: もし不満があるなら言って！
+  event_bowwowparadise_03_s_49:
+    speaker: biscuit
+    en: We shouldn't have any secrets between us.
+    ko: 우리끼리는 비밀이 없잖아!
+    ja: 私たちに隠し事はなしでしょ？
+  event_bowwowparadise_03_s_50:
+    speaker: max
+    en: "... *Ruff ruff*"
+    ko: "……멍멍!"
+    ja: "……ワンワン！"
+  event_bowwowparadise_03_s_51:
+    speaker: Narration
+    en: "*Ta-da-dak*"
+    ko: 타다닥!
+    ja: ダダダ！
+  event_bowwowparadise_03_s_52:
+    speaker: biscuit
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_bowwowparadise_03_s_53:
+    speaker: Monologue
+    en: Max barks once and runs off.
+    ko: 이내 맥스는 비스킷에게 한마디를 남기고는 도망쳤다.
+    ja: マックスはビスケットに何か言い残し、\n逃げ出した
+  event_bowwowparadise_03_s_54:
+    speaker: biscuit
+    en: Max said...
+    ko: 맥스가…….
+    ja: マックスが……
+  event_bowwowparadise_03_s_55:
+    speaker: biscuit
+    en: He doesn't want to come back to the shelter.
+    ko: 보호소로 돌아가기 싫대요!
+    ja: シェルターに帰りたくないって！
+event_bowwowparadise_03_e:
+  event_bowwowparadise_03_e_1:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_03_e_2:
+    speaker: Monologue
+    en: Biscuit heads towards the dogs that have been captured.
+    ko: 비스킷은 포획한 강아지들이 있는 케이지 쪽으로 다가갔다.
+    ja: ビスケットは捕獲したイヌが入っている\nケージの方へ近づいた
+  event_bowwowparadise_03_e_3:
+    speaker: biscuit
+    en: Guys.
+    ko: 얘들아.
+    ja: みんな。
+  event_bowwowparadise_03_e_4:
+    speaker: biscuit
+    en: |-
+      Max says he doesn't want to come back to the shelter.
+      Care to fill me in?
+    ko: |-
+      맥스가 보호소에 돌아가기 싫다고 하는데…
+      너희가 조금 더 자세하게 말해줄 수 있을까?
+    ja: |-
+      マックスがシェルターに帰りたくないって…
+      事情を詳しく教えてくれない？
+  event_bowwowparadise_03_e_5:
+    speaker: puppies
+    en: "*Whine*"
+    ko: 끼잉….
+    ja: クゥン…
+  event_bowwowparadise_03_e_6:
+    speaker: biscuit
+    en: I won't scold you.
+    ko: 혼내지 않아!
+    ja: 怒らないから！
+  event_bowwowparadise_03_e_7:
+    speaker: biscuit
+    en: None of you have done anything wrong, and neither has Max.
+    ko: 맥스도 너희도 잘못한 건 없는걸.
+    ja: マックスもみんなも、間違ってないよ。
+  event_bowwowparadise_03_e_8:
+    speaker: biscuit
+    en: There must be a reason for your actions.
+    ko: 분명 이유가 있어서 한 행동일 테니까!
+    ja: 理由があって抜け出したんでしょ？
+  event_bowwowparadise_03_e_9:
+    speaker: biscuit
+    en: Perhaps I owe all of you an apology. I should have paid more attention to
+      your feelings...
+    ko: |-
+      오히려 내가 사과해야 할지도 몰라.
+      내가 조금 더 너희의 마음을 세세하게 헤아렸어야 했는데….
+    ja: |-
+      むしろ私が謝らないといけないのかも。
+      もっとみんなの気持ちを考えるべきだったのに…
+  event_bowwowparadise_03_e_10:
+    speaker: Monologue
+    en: The dogs avoid making eye contact with Biscuit.
+    ko: 강아지들은 흰자위를 굴리며 서로의 눈치를 보기 시작했다.
+    ja: みんな目をキョロキョロさせて\n互いの様子をうかがっている
+  event_bowwowparadise_03_e_11:
+    speaker: biscuit
+    en: Hmm...
+    ko: 으음…!
+    ja: 仕方ない…！
+  event_bowwowparadise_03_e_12:
+    speaker: Narration
+    en: "*Scrumble* *Scrumble*"
+    ko: 부스럭- 부스럭-
+    ja: ガサゴソ…
+  event_bowwowparadise_03_e_13:
+    speaker: biscuit
+    en: If you tell me, I'll give you three sweet potato sticks.
+    ko: 말해주면 고구마 스틱 세 개씩 줄게!
+    ja: 教えてくれたら、サツマイモスティックを\n3本ずつあげる！
+  event_bowwowparadise_03_e_14:
+    speaker: puppies
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_bowwowparadise_03_e_15:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_03_e_16:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_03_e_17:
+    speaker: puppies
+    en: "*Arf arf arf arf arf aaaarf*"
+    ko: 멍멍멍멍멍멍!!
+    ja: ワンワンワンワンワンワン！！
+  event_bowwowparadise_03_e_18:
+    speaker: "<Choice>"
+    en: They might act tough, but at the end of the day, they're still dogs.
+    ko: 어쩔 수 없는 강아지들이네.
+    ja: 現金な奴らだな
+  event_bowwowparadise_03_e_19:
+    speaker: "<Choice>"
+    en: Seems like snacks are their weakness.
+    ko: 간식에 약하네.
+    ja: おやつに弱いな
+  event_bowwowparadise_03_e_20:
+    speaker: biscuit
+    en: Hehe, aren't they adorable?
+    ko: 헤헤. 그게 귀여운 거죠~
+    ja: へへ。そこがかわいいんですよ～
+  event_bowwowparadise_03_e_21:
+    speaker: biscuit
+    en: Such innocent little babies.
+    ko: 헤헤. 그만큼 순수한 거 아닐까요?
+    ja: へへ。それだけ純粋だってことですよ。
+  event_bowwowparadise_03_e_22:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_03_e_23:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_03_e_24:
+    speaker: biscuit
+    en: "*Gasp* Really?"
+    ko: 헉! 진짜?
+    ja: えっ！ホントに？
+  event_bowwowparadise_03_e_25:
+    speaker: biscuit
+    en: I had no idea!
+    ko: 전혀 몰랐어!
+    ja: 全然知らなかった！
+  event_bowwowparadise_03_e_26:
+    speaker: biscuit
+    en: I see...
+    ko: 그렇구나….
+    ja: そっか…
+  event_bowwowparadise_03_e_27:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!!
+    ja: ワンワンワン！！
+  event_bowwowparadise_03_e_28:
+    speaker: biscuit
+    en: Okay, thank you for telling me.
+    ko: "…응! 말해줘서 고마워!"
+    ja: "…うん！教えてくれてありがとう！"
+  event_bowwowparadise_03_e_29:
+    speaker: biscuit
+    en: Trainer!
+    ko: 훈련사님!
+    ja: 訓練士さん！
+  event_bowwowparadise_03_e_30:
+    speaker: biscuit
+    en: I found out why Max left the shelter.
+    ko: 맥스가 왜 보호소를 나왔는지 알아냈어요!
+    ja: どうしてマックスがシェルターを出たのか\n分かりました！
+  event_bowwowparadise_03_e_31:
+    speaker: Self
+    en: What is the reason?
+    ko: 무슨 이유 때문이야?
+    ja: 何があったんだ？
+  event_bowwowparadise_03_e_32:
+    speaker: biscuit
+    en: It's because he... was curious about the Ark.
+    ko: 방주가 궁금해서래요!
+    ja: アークが気になったからだそうです！
+  event_bowwowparadise_03_e_33:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_03_e_34:
+    speaker: biscuit
+    en: Now that I think about it, Max has always had a keen interest in the Ark.
+    ko: "…생각해 보면 맥스는 유독 방주에 관심이 많았어요."
+    ja: "…考えてみたら、マックスは確かに\\nアークに興味を持っていました。"
+  event_bowwowparadise_03_e_35:
+    speaker: biscuit
+    en: Every once in a while, he'd ask me about it.
+    ko: 저한테 한 번씩 물어봤거든요.
+    ja: いつも私に聞いていたんです。
+  event_bowwowparadise_03_e_36:
+    speaker: biscuit
+    en: What kind of place it was, what goes on at Royal Road, stuff like that.
+    ko: |-
+      방주가 어떤 곳인지.
+      로열 로드가 뭐 하는 곳 인지.
+    ja: |-
+      アークはどんな場所なのか、
+      ロイヤルロードは何をする場所なのか。
+  event_bowwowparadise_03_e_37:
+    speaker: biscuit
+    en: I'd regale him with stories of my time spent there pet-sitting.
+    ko: 그래서 제가 펫시터 했던 이야기를 종종 해주곤 했었는데.
+    ja: それで私がペットシッターをした時の話を\nよくしてあげたのですが
+  event_bowwowparadise_03_e_38:
+    speaker: biscuit
+    en: I think those stories may have encouraged him, especially since he'd never
+      stepped outside the shelter walls.
+    ko: |-
+      그 이야기들이 조금씩 맥스를 자극한 것 같아요.
+      보호소 밖을 나가본 적이 없으니까요.
+    ja: |-
+      それが少しずつマックスを刺激したみたいです。
+      シェルターの外に出たことがなかったので。
+  event_bowwowparadise_03_e_39:
+    speaker: biscuit
+    en: All the other dogs followed Max out of curiosity, and they had a ball once
+      they were out.
+    ko: |-
+      강아지들도 맥스의 말을 듣곤 호기심에 따라 나왔는데.
+      막상 나오니까 너무 좋았대요.
+    ja: |-
+      みんなもマックスに言われて、\n好奇心で外に出たのですが、
+      いざ出てみたらとても楽しかったそうです。
+  event_bowwowparadise_03_e_40:
+    speaker: biscuit
+    en: A new environment. Wide open spaces.
+    ko: 새로운 환경, 탁 트인 공간.
+    ja: 新しい環境、開放的な空間。
+  event_bowwowparadise_03_e_41:
+    speaker: biscuit
+    en: People who think they're the cutest thing ever.
+    ko: 자신을 귀여워해 주는 사람들.
+    ja: 自分をかわいがってくれる人々。
+  event_bowwowparadise_03_e_42:
+    speaker: biscuit
+    en: There are some things out here that the shelter doesn't have, I can't deny
+      that. And we don't get many visitors.
+    ko: |-
+      …아무래도 보호소라는 공간은 한정적이고.
+      사람들도 왕래하지 않으니까요.
+    ja: |-
+      …シェルターという空間は限定されていて、
+      人の行き来もありませんから。
+  event_bowwowparadise_03_e_43:
+    speaker: biscuit
+    en: Spending their entire life in the shelter must have felt restricting after
+      a while.
+    ko: "…보호라는 이름이 강아지들에겐 구속이었을 수도 있었겠네요."
+    ja: "…みんなにとっては\\n息苦しい場所だったのかもしれませんね。"
+  event_bowwowparadise_03_e_44:
+    speaker: biscuit
+    en: How could I not have realized that when Max asked me about the Ark?
+    ko: 맥스가 방주에 대해서 물어볼 때, 왜 눈치채지 못했을까요….
+    ja: マックスがアークについて聞いてきた時、\nどうして気づけなかったのでしょうか…
+  event_bowwowparadise_03_e_45:
+    speaker: "<Choice>"
+    en: Just because you're close, doesn't mean you know everything.
+    ko: 친하다고 다 아는 건 아니니까.
+    ja: 仲がいいからって、\nすべてを理解できるわけじゃない
+  event_bowwowparadise_03_e_46:
+    speaker: "<Choice>"
+    en: Sometimes, the more you get to know someone, the less you know.
+    ko: 원래 가까울수록 더 모르는 법이지.
+    ja: 近しい関係であるほど\n分からないこともある
+  event_bowwowparadise_03_e_47:
+    speaker: biscuit
+    en: "*Sigh*"
+    ko: "…끼잉."
+    ja: "…クゥン。"
+  event_bowwowparadise_03_e_48:
+    speaker: Narration
+    en: "*Smack*"
+    ko: 짝-!
+    ja: バチン！
+  event_bowwowparadise_03_e_49:
+    speaker: Monologue
+    en: Biscuit smacks her cheeks with the palms of her hands.
+    ko: 비스킷은 자신의 두 볼을 손바닥으로 쳤다.
+    ja: ビスケットは自分の両頬を手のひらで叩いた
+  event_bowwowparadise_03_e_50:
+    speaker: biscuit
+    en: Now's not the time to get fall into a downward spiral!
+    ko: 이렇게 우울해할 시간이 없어요!
+    ja: 落ち込んでいる時間はありません！
+  event_bowwowparadise_03_e_51:
+    speaker: biscuit
+    en: I've gotta find Max first.
+    ko: 우선 맥스를 찾아야겠어요!
+    ja: まずはマックスを見つけないと！
+  event_bowwowparadise_03_e_52:
+    speaker: biscuit
+    en: Then I can focus on fixing the issue once and for all.
+    ko: 그 다음, 문제를 해결하는 거예요.
+    ja: そのあと、問題を解決するんです。
+  event_bowwowparadise_03_e_53:
+    speaker: biscuit
+    en: The dogs' happiness is the top priority.
+    ko: 우선순위는 강아지들의 행복이니까요!
+    ja: 一番大事なのは、みんなの幸せですから！
+  event_bowwowparadise_03_e_54:
+    speaker: "<Choice>"
+    en: Very admirable of you.
+    ko: 기특하네.
+    ja: 健気だな
+  event_bowwowparadise_03_e_55:
+    speaker: "<Choice>"
+    en: That's using the ol' noggin.
+    ko: 똑똑하네.
+    ja: 賢いな
+  event_bowwowparadise_03_e_56:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_03_e_57:
+    speaker: biscuit
+    en: I don't deserve to be complimented.
+    ko: 전 칭찬받을 자격 없어요.
+    ja: 私に褒められる資格はありません。
+  event_bowwowparadise_03_e_58:
+    speaker: biscuit
+    en: If it weren't for Max escaping, I would have been clueless until the bitter
+      end.
+    ko: |-
+      맥스가 이렇게 하지 않았으면.
+      저는 끝까지 몰랐을 테니까요.
+    ja: |-
+      マックスがこんなことをしなかったら、
+      最後まで気づけませんでした。
+  event_bowwowparadise_03_e_59:
+    speaker: biscuit
+    en: I should have clued in earlier.
+    ko: 제가 먼저 알아차렸어야 했는데.
+    ja: 先に気づいてあげるべきだったのに。
+  event_bowwowparadise_03_e_60:
+    speaker: biscuit
+    en: Uuuugggh! At least I know now. Anyway, I need to hurry and find Max so I can
+      talk to him.
+    ko: 으으으! 지금이라도 알았으니까, 얼른 맥스를 찾아서 대화해 봐야겠어요!
+    ja: ううう！でも分かったからには！\n早くマックスを見つけて話し合わないと！
+  event_bowwowparadise_03_e_61:
+    speaker: biscuit
+    en: "*Sniff sniff*"
+    ko: 킁킁!
+    ja: クンクン！
+  event_bowwowparadise_03_e_62:
+    speaker: biscuit
+    en: "*Sniff sniff sniff sniff*"
+    ko: 킁킁킁킁!
+    ja: クンクンクンクン！
+  event_bowwowparadise_03_e_63:
+    speaker: Self
+    en: What are you doing?
+    ko: 뭐 하는 거야?
+    ja: 何してるんだ？
+  event_bowwowparadise_03_e_64:
+    speaker: biscuit
+    en: I'm using my nose to track Max's scent.
+    ko: 온 신경을 모아서 맥스의 흔적을 추적 중이에요.
+    ja: 全神経を集中させて、\nマックスの跡を辿っています。
+  event_bowwowparadise_03_e_65:
+    speaker: biscuit
+    en: "*Sniff sniff*"
+    ko: 킁킁…!
+    ja: クンクン…！
+  event_bowwowparadise_03_e_66:
+    speaker: Monologue
+    en: Biscuit moves slowly while tracking Max's scent.
+    ko: |-
+      비스킷은 맥스의 흔적을 찾으며,
+      조금씩 이동했다.
+    ja: |-
+      ビスケットはマックスの痕跡を辿り
+      少しずつ移動した
+  event_bowwowparadise_03_e_67:
+    speaker: Narration
+    en: A few minutes later.
+    ko: "……몇 분 후."
+    ja: "……数分後"
+  event_bowwowparadise_03_e_68:
+    speaker: biscuit
+    en: I found him!!
+    ko: 찾았다!!
+    ja: 見つけた！！
+  event_bowwowparadise_03_e_69:
+    speaker: biscuit
+    en: Let's go, Trainer!
+    ko: 가요. 훈련사님!
+    ja: 行きましょう。訓練士さん！
+  event_bowwowparadise_03_e_70:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_03_e_71:
+    speaker: biscuit
+    en: I think I know where Max is!
+    ko: 맥스가 어디 있는지 알 것 같아요!
+    ja: マックスの居場所が分かりそうです！
+event_bowwowparadise_intermission_01:
+  event_bowwowparadise_intermission_01_1:
+    speaker: biscuit
+    en: Trainer.
+    ko: "…훈련사님."
+    ja: "…訓練士さん。"
+  event_bowwowparadise_intermission_01_2:
+    speaker: biscuit
+    en: Can you go into the park by yourself?
+    ko: 혹시 공원에 혼자 들어가 주실 수 있나요?
+    ja: 1人で公園に行ってもらえませんか？
+  event_bowwowparadise_intermission_01_3:
+    speaker: biscuit
+    en: If I go, Max might run away again.
+    ko: 제가 가면 맥스는 또 도망갈 것 같아서요.
+    ja: 私が行ったらまたマックスが逃げそうなので。
+  event_bowwowparadise_intermission_01_4:
+    speaker: Narration
+    en: "*Scrumble* *Scrumble*"
+    ko: 부스럭- 부스럭-
+    ja: ガサゴソ…
+  event_bowwowparadise_intermission_01_5:
+    speaker: biscuit
+    en: This is Max's favorite ball.
+    ko: 이건 맥스가 제일 좋아하는 공이에요.
+    ja: これ、マックスが一番好きなボールです。
+  event_bowwowparadise_intermission_01_6:
+    speaker: biscuit
+    en: While you play fetch with him,
+    ko: 훈련사님이 맥스와 공놀이를 하고 있을 때,
+    ja: 訓練士さんがマックスとボールで遊んでいる時に
+  event_bowwowparadise_intermission_01_7:
+    speaker: biscuit
+    en: I'll come slowly from behind and grab him.
+    ko: 제가 뒤에서 조용히 맥스를 잡을게요.
+    ja: 私が後ろからこっそりマックスを捕まえます。
+  event_bowwowparadise_intermission_01_8:
+    speaker: "<Choice>"
+    en: Won't Max be suspicious of me?
+    ko: 맥스가 날 의심하지 않을까?
+    ja: マックスに怪しまれるのでは？
+  event_bowwowparadise_intermission_01_9:
+    speaker: "<Choice>"
+    en: What should I do if Max runs away again?
+    ko: 맥스가 또 도망가면 어떡해?
+    ja: また逃げ出したらどうする？
+  event_bowwowparadise_intermission_01_10:
+    speaker: biscuit
+    en: All you've got to do is grab his attention with this ball.
+    ko: 그러니 공으로 맥스의 시선을 끌어주세요!
+    ja: だからボールでマックスの気を引いてください！
+  event_bowwowparadise_intermission_01_11:
+    speaker: biscuit
+    en: There's nothing Max likes more than playing fetch.
+    ko: 맥스는 공놀이하면서 뛰어노는 걸 아주 좋아하거든요!
+    ja: マックスはボールで遊びながら\n走り回るのが大好きなんです！
+  event_bowwowparadise_intermission_01_12:
+    speaker: Self
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かった
+  event_bowwowparadise_intermission_01_13:
+    speaker: Monologue
+    en: After receiving the ball from Biscuit, I head inside the park.
+    ko: 비스킷에게 공을 전달받은 뒤, 공원으로 들어갔고.
+    ja: ビスケットからボールをもらい、公園に入った
+  event_bowwowparadise_intermission_01_14:
+    speaker: Self
+    en: "... Liter?"
+    ko: "…리타?"
+    ja: "…リター？"
+  event_bowwowparadise_intermission_01_15:
+    speaker: liter
+    en: Greenhorn?
+    ko: 애송이?
+    ja: 青二才？
+  event_bowwowparadise_intermission_01_16:
+    speaker: Monologue
+    en: Upon entering the park, I see Volt, Max, and Liter all playing together.
+    ko: 그곳엔 볼트와 놀고 있는 맥스, 그리고 리타가 있었다.
+    ja: そこにはボルトと遊んでいるマックス、\nそしてリターがいた
+  event_bowwowparadise_intermission_01_17:
+    speaker: liter
+    en: What are you doing here?
+    ko: 네놈이 여긴 어쩐 일이더냐?
+    ja: どうして青二才がここにいるんじゃ？
+  event_bowwowparadise_intermission_01_18:
+    speaker: "<Choice>"
+    en: I came to play fetch.
+    ko: "…공놀이를 하러 왔어."
+    ja: "…ボール遊びをしに来た"
+  event_bowwowparadise_intermission_01_19:
+    speaker: "<Choice>"
+    en: I'm looking for a dog.
+    ko: "…강아지를 찾으러 왔어."
+    ja: "…イヌを捜しに来た"
+  event_bowwowparadise_intermission_01_20:
+    speaker: liter
+    en: "... By yourself?"
+    ko: 네놈… 혼자서 말이냐?
+    ja: 青二才…1人でか？
+  event_bowwowparadise_intermission_01_21:
+    speaker: Self
+    en: All right, I'll come clean. I'm looking for a dog.
+    ko: "…사실 강아지를 찾으러 왔어."
+    ja: "…実はイヌを捜しに来たんだ"
+  event_bowwowparadise_intermission_01_22:
+    speaker: liter
+    en: Any dog in particular?
+    ko: 강아지?
+    ja: イヌ？
+  event_bowwowparadise_intermission_01_23:
+    speaker: Monologue
+    en: Just in case Max overhears us, I quietly whisper to Liter.
+    ko: |-
+      …혹시나 맥스가 들을까 봐,
+      리타에게 작게 속삭였다.
+    ja: |-
+      …マックスに聞かれないように
+      リターの耳元で小さく囁いた
+  event_bowwowparadise_intermission_01_24:
+    speaker: Self
+    en: Yeah. I need to capture the dog that's playing with Volt.
+    ko: 응. 볼트와 있는 강아지를 잡아야 해.
+    ja: ああ。ボルトと一緒にいるイヌを\n捕まえないといけない
+  event_bowwowparadise_intermission_01_25:
+    speaker: Self
+    en: He escaped from the shelter.
+    ko: 보호소에서 탈출했거든.
+    ja: シェルターから逃げ出したんだ
+  event_bowwowparadise_intermission_01_26:
+    speaker: liter
+    en: Oooh, gotcha.
+    ko: 흐음. 그렇구나.
+    ja: ふむ。なるほど。
+  event_bowwowparadise_intermission_01_27:
+    speaker: liter
+    en: I was taking Volt for a walk when we ran into this little guy. I thought it
+      was strange that there was a dog hanging around in the park.
+    ko: |-
+      안 그래도 볼트랑 산책 나왔는데.
+      공원에 강아지 한 마리가 있길래 의아해하던 참이었다.
+    ja: |-
+      ボルトと散歩をしていたら
+      公園にイヌがいて\n不思議に思っていたところじゃ。
+  event_bowwowparadise_intermission_01_28:
+    speaker: liter
+    en: They seemed to get along so well though, that I just left them to their own
+      devices.
+    ko: 둘이 잘 놀길래 일단 가만히 두었는데….
+    ja: 楽しそうに遊んでいたから\n放っておいたのじゃが…
+  event_bowwowparadise_intermission_01_29:
+    speaker: liter
+    en: How do you plan on catching him?
+    ko: 어떻게 잡을 생각인게냐.
+    ja: どうやって捕まえるつもりじゃ？
+  event_bowwowparadise_intermission_01_30:
+    speaker: Self
+    en: With this ball.
+    ko: 공으로.
+    ja: ボールで
+  event_bowwowparadise_intermission_01_31:
+    speaker: liter
+    en: That one in your hand?
+    ko: 공으로?
+    ja: ボールで？
+  event_bowwowparadise_intermission_01_32:
+    speaker: Narration
+    en: "... *Whistle*"
+    ko: "…휘익-!"
+    ja: "…ピー！"
+  event_bowwowparadise_intermission_01_33:
+    speaker: Monologue
+    en: "As soon as I whistle, Volt and Max stare at me. \nI hold up the ball high
+      for them both to see."
+    ko: |-
+      휘파람을 불자, 볼트와 맥스는 날 쳐다봤고.
+      나는 강아지들 앞에서 공을 들어 보였다.
+    ja: |-
+      口笛を吹くと、ボルトとマックスは\nこちらに視線を向けた
+      私は2匹の前でボールを手に取った
+  event_bowwowparadise_intermission_01_34:
+    speaker: Self
+    en: How about a game of fetch, fellas?
+    ko: 우리같이 공놀이할까?
+    ja: 一緒にボールで遊ばないか？
+  event_bowwowparadise_intermission_01_35:
+    speaker: Self
+    en: I'll throw the ball, and whoever catches it first is the winner.
+    ko: 내가 공을 던졌을 때, 빠르게 가져오는 강아지가 이기는 거야.
+    ja: 私が投げたボールを早く持ってきた方が勝ちだ
+  event_bowwowparadise_intermission_01_36:
+    speaker: volt
+    en: "*Bark*"
+    ko: 멍!
+    ja: ワン！
+  event_bowwowparadise_intermission_01_37:
+    speaker: max
+    en: "... *Ruff ruff*"
+    ko: "…멍멍!"
+    ja: "…ワンワン！"
+  event_bowwowparadise_intermission_01_38:
+    speaker: Monologue
+    en: Volt and Max begin to wag their tails furiously, their gaze fixated on the
+      ball in my hand.
+    ko: |-
+      볼트와 맥스의 꼬리가 빠르게 흔들거렸고,
+      둘은 내가 던지려는 공을 쳐다봤다.
+    ja: |-
+      ボルトとマックスは素早く尻尾を動かし、
+      私が手にしているボールを見つめた
+  event_bowwowparadise_intermission_01_39:
+    speaker: liter
+    en: Man, they're really into it. Then again, they are dogs...
+    ko: 호오… 역시 강아지들이라 그런가 엄청 좋아하는구나.
+    ja: ほお…やはりイヌはボールが好きなんじゃのう。
+  event_bowwowparadise_intermission_01_40:
+    speaker: Self
+    en: Ready? Go get it!
+    ko: 그럼, 이제 던질게.
+    ja: じゃあ、投げるぞ
+  event_bowwowparadise_intermission_01_41:
+    speaker: Narration
+    en: "*Whip*"
+    ko: 휙-!
+    ja: ヒュンッ！
+  event_bowwowparadise_intermission_01_42:
+    speaker: Monologue
+    en: The moment Volt and Max start to rush towards the ball,
+    ko: 볼트와 맥스가 공을 향해 달려가는 순간.
+    ja: ボルトとマックスがボールに向かって\n走ろうとした瞬間
+  event_bowwowparadise_intermission_01_43:
+    speaker: Monologue
+    en: Biscuit pops out of some nearby bushes and grabs onto Max.
+    ko: 비스킷은 풀숲에서 튀어나와 맥스를 끌어안았다.
+    ja: ビスケットが草むらから飛び出し、\nマックスを抱きしめた
+  event_bowwowparadise_intermission_01_44:
+    speaker: Narration
+    en: "*Grab*"
+    ko: 와락-
+    ja: ガシッ
+  event_bowwowparadise_intermission_01_45:
+    speaker: biscuit
+    en: Got you!
+    ko: 잡았다!
+    ja: 捕まえた！
+  event_bowwowparadise_intermission_01_46:
+    speaker: liter
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_bowwowparadise_intermission_01_47:
+    speaker: liter
+    en: What the... Biscuit? Why were you hiding in there?
+    ko: |-
+      아이고! 깜짝이야!
+      비스킷? 네 녀석은 어디 숨어있었던 게냐!
+    ja: |-
+      ひゃあ！びっくりした！
+      ビスケット？どこにおったのじゃ！？
+  event_bowwowparadise_intermission_01_48:
+    speaker: biscuit
+    en: Hey, Liter.
+    ko: |-
+      헤헤.
+      리타, 안녕하세요!
+    ja: |-
+      へへ。
+      リター、こんにちは！
+  event_bowwowparadise_intermission_01_49:
+    speaker: Narration
+    en: "*Roll roll*"
+    ko: 버둥- 버둥-
+    ja: ジタバタ
+  event_bowwowparadise_intermission_01_50:
+    speaker: Narration
+    en: "*Click*"
+    ko: 달칵-
+    ja: ガチャ
+  event_bowwowparadise_intermission_01_51:
+    speaker: Monologue
+    en: Biscuit clips a leash onto the squirming Max.
+    ko: 비스킷은 발버둥 치는 맥스에게 리드줄을 채웠다.
+    ja: ビスケットは暴れるマックスに\nリードをつけた
+  event_bowwowparadise_intermission_01_52:
+    speaker: biscuit
+    en: Shhhh!
+    ko: 쉬이이이-
+    ja: シーッ。
+  event_bowwowparadise_intermission_01_53:
+    speaker: biscuit
+    en: Max, relax.
+    ko: 맥스 진정해.
+    ja: マックス、落ち着いて。
+  event_bowwowparadise_intermission_01_54:
+    speaker: biscuit
+    en: I didn't catch you to drag you back to the shelter!
+    ko: 너를 무작정 보호소에 데려가려고 잡은 게 아니야!
+    ja: 無理やりシェルターに連れて行く気はないから！
+  event_bowwowparadise_intermission_01_55:
+    speaker: biscuit
+    en: I came because I want to talk!
+    ko: 대화하고 싶어서 온 거야!
+    ja: ただ話し合いたかったの！
+  event_bowwowparadise_intermission_01_56:
+    speaker: biscuit
+    en: If you run away, how are we supposed to talk?
+    ko: 맥스가 이렇게 도망만 가면 대화를 할 수 없으니까….
+    ja: マックスが逃げ続けたら\n話し合えないでしょ？
+  event_bowwowparadise_intermission_01_57:
+    speaker: Monologue
+    en: At the mention of this, Max begins to calm down.
+    ko: 이야기를 듣고 있던 맥스는 곧 얌전해졌고.
+    ja: 話を聞いていたマックスは大人しくなり
+  event_bowwowparadise_intermission_01_58:
+    speaker: Narration
+    en: "*Rub* *Rub*"
+    ko: 슥- 슥-
+    ja: ナデナデ
+  event_bowwowparadise_intermission_01_59:
+    speaker: Monologue
+    en: Biscuit scratches Max's belly to relax him further.
+    ko: 비스킷은 이내 맥스의 몸을 쓰다듬으며 진정시켰다.
+    ja: ビスケットはマックスの体をなでて\n落ち着かせた
+  event_bowwowparadise_intermission_01_60:
+    speaker: biscuit
+    en: Feeling a little more levelheaded now?
+    ko: 이제 진정이 좀 됐어?
+    ja: ちょっと落ち着いた？
+  event_bowwowparadise_intermission_01_61:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_intermission_01_62:
+    speaker: biscuit
+    en: Then, how about you tell me?
+    ko: 그럼, 맥스 이야기를 나한테 해주면 안 될까?
+    ja: マックスの話が聞きたいな。
+  event_bowwowparadise_intermission_01_63:
+    speaker: biscuit
+    en: I've only heard the story from others at this point.
+    ko: 지금까진 다 전해 들은 이야기뿐이라서…!
+    ja: みんなから聞いただけだから…
+  event_bowwowparadise_intermission_01_64:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍…!
+    ja: ワンワン…！
+  event_bowwowparadise_intermission_01_65:
+    speaker: biscuit
+    en: Yes, you were curious about the Ark. I knew that.
+    ko: |-
+      응. 그건 알고 있었어.
+      방주가 궁금했다며.
+    ja: |-
+      うん。それは聞いたよ。
+      アークが気になったんでしょ？
+  event_bowwowparadise_intermission_01_66:
+    speaker: max
+    en: "*Ruff*"
+    ko: 멍!
+    ja: ワン！
+  event_bowwowparadise_intermission_01_67:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_intermission_01_68:
+    speaker: biscuit
+    en: So you felt confined having never left the shelter...
+    ko: 그랬구나… 너희는 한 번도 보호소 밖을 나간 적이 없으니까.
+    ja: そっか…みんな一度もシェルターの外に\n出たことがなかったから…
+  event_bowwowparadise_intermission_01_69:
+    speaker: biscuit
+    en: I'm sorry. I never realized that you guys would feel that way.
+    ko: |-
+      미안해.
+      나는 보호소가 답답할 거라고 생각 못 했어.
+    ja: |-
+      ごめんね。
+      私はシェルターが息苦しいなんて\n思ってなかったの。
+  event_bowwowparadise_intermission_01_70:
+    speaker: max
+    en: "... *Ruff ruff*"
+    ko: "…멍멍!"
+    ja: "…ワンワン！"
+  event_bowwowparadise_intermission_01_71:
+    speaker: biscuit
+    en: What?!
+    ko: 헙.
+    ja: えっ。
+  event_bowwowparadise_intermission_01_72:
+    speaker: biscuit
+    en: You don't want to go back to the shelter?
+    ko: 다시 보호소로 가기 싫다고…?
+    ja: もうシェルターに戻りたくないって…？
+  event_bowwowparadise_intermission_01_73:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_intermission_01_74:
+    speaker: biscuit
+    en: You won't go?
+    ko: "…안 갈 거라고?!"
+    ja: "…絶対行かないって！？"
+  event_bowwowparadise_intermission_01_75:
+    speaker: biscuit
+    en: But...
+    ko: "…하지만 보호소는…!"
+    ja: "…でもシェルターは…！"
+  event_bowwowparadise_intermission_01_76:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_intermission_01_77:
+    speaker: Monologue
+    en: Biscuit seems lost in thought for a moment.
+    ko: 비스킷은 무엇인가 골똘히 생각했다.
+    ja: ビスケットは何かを考え込んだ
+  event_bowwowparadise_intermission_01_78:
+    speaker: biscuit
+    en: I understand how you feel, Max.
+    ko: "…맥스 마음 잘 알겠어."
+    ja: "…マックスの気持ちはよく分かったよ。"
+  event_bowwowparadise_intermission_01_79:
+    speaker: biscuit
+    en: How about we make a shelter that's more like the Ark?
+    ko: "……그럼, 방주 같은 보호소를 만들면?"
+    ja: "……じゃあ、アークみたいなシェルターは？"
+  event_bowwowparadise_intermission_01_80:
+    speaker: max
+    en: "*Ruff?*"
+    ko: 멍?
+    ja: ワン？
+  event_bowwowparadise_intermission_01_81:
+    speaker: biscuit
+    en: If we do that, will you come back?
+    ko: |-
+      방주와 비슷한 보호소를 만들면.
+      다시 돌아와 줄 거야?
+    ja: |-
+      アークに似たシェルターを作ったら
+      また帰ってきてくれる？
+  event_bowwowparadise_intermission_01_82:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_intermission_01_83:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_intermission_01_84:
+    speaker: biscuit
+    en: Okay then!
+    ko: |-
+      !!
+      응! 알겠어!
+    ja: |-
+      ！！
+      うん！分かった！
+  event_bowwowparadise_intermission_01_85:
+    speaker: biscuit
+    en: I'll make a shelter where you can run around freely, just like in the Ark.
+    ko: |-
+      맥스가 원하는.
+      방주처럼 자유롭게 뛰어놀 수 있는 그런 보호소로 만들어놓을게!
+    ja: |-
+      マックスの望みどおり
+      アークみたいに自由に遊び回れる\nそんなシェルターを作るね！
+  event_bowwowparadise_intermission_01_86:
+    speaker: Self
+    en: Come again?
+    ko: 무슨 이야기했어?
+    ja: どういう話になったんだ？
+  event_bowwowparadise_intermission_01_87:
+    speaker: biscuit
+    en: I said I'm gonna make a shelter that's just like the Ark.
+    ko: 보호소를 방주처럼 만들기로 했어요!
+    ja: シェルターをアークみたいに\nすることにしました！
+  event_bowwowparadise_intermission_01_88:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_intermission_01_89:
+    speaker: Self
+    en: Is that even possible?
+    ko: 그게 가능해?
+    ja: そんなことができるのか？
+  event_bowwowparadise_intermission_01_90:
+    speaker: biscuit
+    en: I've got to try.
+    ko: 일단 해봐야죠!
+    ja: とりあえずやってみます！
+  event_bowwowparadise_intermission_01_91:
+    speaker: biscuit
+    en: Since I can't set them free just yet, it's the least I can do.
+    ko: "…강아지들한테 당장의 자유를 선물할 순 없으니, 노력이라도 해야죠!"
+    ja: "…みんなに今すぐ自由を\\n与えることはできませんが、\\nせめて努力はしないと！"
+  event_bowwowparadise_intermission_01_92:
+    speaker: "<Choice>"
+    en: I can help with that.
+    ko: 같이 하자.
+    ja: 一緒にやろう
+  event_bowwowparadise_intermission_01_93:
+    speaker: "<Choice>"
+    en: I'll help.
+    ko: 도와줄게.
+    ja: 手伝うよ
+  event_bowwowparadise_intermission_01_94:
+    speaker: biscuit
+    en: That's okay, this is my responsibility.
+    ko: |-
+      헙! 아니에요!
+      제 일은 제가 혼자 할 수 있어요!
+    ja: |-
+      えっ！いえいえ！
+      私1人でできますから！
+  event_bowwowparadise_intermission_01_95:
+    speaker: liter
+    en: I think I can gather what's going on here.
+    ko: |-
+      옆에서 하는 이야기를 들어보니.
+      어떤 상황인지 대충 알겠구나.
+    ja: |-
+      隣で話を聞いていただけじゃが、
+      だいたいの状況は分かったのじゃ。
+  event_bowwowparadise_intermission_01_96:
+    speaker: liter
+    en: I'll help.
+    ko: 나도 도와주마.
+    ja: 私も手伝うとしよう。
+  event_bowwowparadise_intermission_01_97:
+    speaker: liter
+    en: It'll take you ages if you go solo on this one.
+    ko: 혼자서 하면 시간이 오래 걸릴 것이야.
+    ja: 1人だと時間がかかるじゃろう？
+  event_bowwowparadise_intermission_01_98:
+    speaker: liter
+    en: As a fellow pet owner, I care about the happiness of those dogs just as much
+      as you do.
+    ko: |-
+      애견인으로서.
+      보호소 강아지들이 행복한 모습을 보고 싶구나.
+    ja: |-
+      愛犬家として、
+      シェルターのみんなの幸せな姿を見たいのじゃ。
+  event_bowwowparadise_intermission_01_99:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_intermission_01_100:
+    speaker: volt
+    en: "*bark bark bark*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_intermission_01_101:
+    speaker: liter
+    en: Haha, I see you two are awfully excited.
+    ko: |-
+      하하. 녀석들.
+      왜 그렇게 신난 것이더냐.
+    ja: |-
+      あはは。
+      2匹ともずいぶん興奮しておるな？
+  event_bowwowparadise_intermission_01_102:
+    speaker: biscuit
+    en: Liter, Trainer... thank you.
+    ko: |-
+      …헤헤!
+      리타, 훈련사님 감사해요!
+    ja: |-
+      …へへ！
+      リター、訓練士さん、ありがとうございます！
+event_bowwowparadise_04_s:
+  event_bowwowparadise_04_s_1:
+    speaker: liter
+    en: Wow, this shelter is pretty impressive.
+    ko: 흐음. 보호소가 열악한 수준은 아니구나.
+    ja: ふむ。シェルターが劣悪な環境というわけでは\nないのじゃな。
+  event_bowwowparadise_04_s_2:
+    speaker: biscuit
+    en: Yep, it's got everything that you need.
+    ko: 네! 필요한 건 다 갖춰져 있어요!
+    ja: はい！必要なものは全部揃ってます！
+  event_bowwowparadise_04_s_3:
+    speaker: Monologue
+    en: As Biscuit said, the inside of the shelter contains everything necessary to
+      keep the dogs alive,
+    ko: |-
+      비스킷 말대로 보호소 내부는.
+      강아지들에게 필요한 모든 것이 비치되어 있었지만.
+    ja: |-
+      ビスケットの言うとおり、シェルターには
+      イヌに必要なすべてが揃っていたが
+  event_bowwowparadise_04_s_4:
+    speaker: Monologue
+    en: but not much more.
+    ko: 딱 그 정도일 뿐이었다.
+    ja: ただそれだけだった
+  event_bowwowparadise_04_s_5:
+    speaker: Monologue
+    en: The windows are practically the size of postage stamps.
+    ko: 강아지를 위한 창문은 너무나도 작았고.
+    ja: イヌ用の窓はとても小さく
+  event_bowwowparadise_04_s_6:
+    speaker: Monologue
+    en: The fenced-off area for the dogs to run in is far too small.
+    ko: 뛰어놀 수 있는 공간은 울타리로 쳐져 있어서 한정적이었다.
+    ja: 遊び回れるのは、柵で囲われた\n限られた空間だけだった
+  event_bowwowparadise_04_s_7:
+    speaker: centi
+    en: Hey guys.
+    ko: 선배님! 반장님!
+    ja: 先輩！親方！
+  event_bowwowparadise_04_s_8:
+    speaker: liter
+    en: Thanks for coming, Centi.
+    ko: 센티 왔느냐.
+    ja: センチ、待っておったぞ。
+  event_bowwowparadise_04_s_9:
+    speaker: liter
+    en: Sorry to call you up here during your vacation.
+    ko: 휴가 중인데 불러서 미안하구나.
+    ja: 休暇中なのに呼び出して悪いのう。
+  event_bowwowparadise_04_s_10:
+    speaker: centi
+    en: No worries!
+    ko: 괜찮슴다!
+    ja: 大丈夫っす！
+  event_bowwowparadise_04_s_11:
+    speaker: centi
+    en: So this is the dog shelter?
+    ko: 우와! 이게 강아지들 보호소임까?
+    ja: わあ！\nこれがワンちゃんたちのシェルターっすか？
+  event_bowwowparadise_04_s_12:
+    speaker: centi
+    en: It's nicer than I imagined. I can't think of any other place I'd rather spend
+      my vacation.
+    ko: |-
+      생각보다 좋슴다!
+      여기서 휴가를 보내도 좋을 것 같슴다.
+    ja: |-
+      思ったよりすごいっす！
+      ここで休暇を過ごしてもよさそうっすね。
+  event_bowwowparadise_04_s_13:
+    speaker: "<Choice>"
+    en: Aren't you going a bit overboard?
+    ko: 그건 좀….
+    ja: それはちょっと…
+  event_bowwowparadise_04_s_14:
+    speaker: "<Choice>"
+    en: You're not serious, are you?
+    ko: "…진심으로 하는 말이야?"
+    ja: "…本気で言ってるのか？"
+  event_bowwowparadise_04_s_15:
+    speaker: centi
+    en: I'm joking, you big goof!
+    ko: 당연히 장난임다!
+    ja: もちろん冗談っす！
+  event_bowwowparadise_04_s_16:
+    speaker: centi
+    en: But I am looking forward to spending some time with these doggies.
+    ko: 하지만 강아지들이랑 보내면 좋을 것 같기도 함다!
+    ja: でもワンちゃんたちと過ごすのは楽しそうっす！
+  event_bowwowparadise_04_s_17:
+    speaker: biscuit
+    en: They're what brightens my day.
+    ko: 헤헤. 그래서 전 매일이 행복해요!
+    ja: へへ。だから、私は毎日幸せです！
+  event_bowwowparadise_04_s_18:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_04_s_19:
+    speaker: liter
+    en: All right, time to get down to brass tacks.
+    ko: 잡담은 그만하고.
+    ja: おしゃべりはそれくらいにして。
+  event_bowwowparadise_04_s_20:
+    speaker: liter
+    en: Centi, I need you to make this place resemble the Ark.
+    ko: |-
+      센티야,
+      이곳을 방주처럼 만들면 된다.
+    ja: |-
+      センチ、
+      ここをアークのようにするのじゃ。
+  event_bowwowparadise_04_s_21:
+    speaker: centi
+    en: Huh?
+    ko: 네? 이곳을 방주처럼 말임까?
+    ja: はい？ここをアークのようにっすか？
+  event_bowwowparadise_04_s_22:
+    speaker: biscuit
+    en: I want to have a shelter where you can run freely, just like in the Ark.
+    ko: 네! 방주만큼 자유롭게 뛰어놀 수 있는 보호소를 만들고 싶어요!
+    ja: はい！アークみたいに自由に遊び回れる\nシェルターを作りたいんです！
+  event_bowwowparadise_04_s_23:
+    speaker: centi
+    en: Hmm... well, the interior is quite spacious, so I'm sure I can come up with
+      something.
+    ko: |-
+      음… 외부가 꽤 넓어서
+      자유롭게 뛰어놀 수 있는 공간은 만들 수 있을 것 같슴다!
+    ja: |-
+      うーん…外がかなり広いので
+      自由に遊び回れる空間は作れそうっす！
+  event_bowwowparadise_04_s_24:
+    speaker: liter
+    en: Just remember, no matter how nice the interior is,
+    ko: 그래. 아무리 실내가 좋더라도.
+    ja: そうじゃな。いくら室内の環境がよくても
+  event_bowwowparadise_04_s_25:
+    speaker: liter
+    en: dogs need to be able to run around outside.
+    ko: 강아지는 밖에서 뛰어놀며 살아야 하는 법이지.
+    ja: イヌは外で遊び回る必要があるからのう。
+  event_bowwowparadise_04_s_26:
+    speaker: Narration
+    en: "*Swoosh*"
+    ko: 촤륵-!
+    ja: シャッ！
+  event_bowwowparadise_04_s_27:
+    speaker: liter
+    en: Let's draw up some blueprints first.
+    ko: 일단 설계도부터 짜보자꾸나.
+    ja: まずは設計図から作るのじゃ。
+  event_bowwowparadise_04_s_28:
+    speaker: liter
+    en: That'll be a big help once we actually start construction.
+    ko: 그래야 공사가 수월하고 빠르게 끝날 것 같으니.
+    ja: そうすれば工事がスムーズに終わるからのう。
+  event_bowwowparadise_04_s_29:
+    speaker: biscuit
+    en: Sounds good!
+    ko: 헤헤. 좋아요!
+    ja: へへ、分かりました！
+  event_bowwowparadise_04_s_30:
+    speaker: biscuit
+    en: So, what I was thinking was...
+    ko: 제가 생각한 건 뭐냐면요~
+    ja: 私のアイデアはですね～
+  event_bowwowparadise_04_s_31:
+    speaker: Monologue
+    en: And with that, we commence the renovation of the shelter.
+    ko: 그렇게 우리는 보호소 환경을 바꾸기 위해 대공사를 시작했다.
+    ja: こうしてシェルターの環境を変えるための\n大工事が始まった
+event_bowwowparadise_04_e:
+  event_bowwowparadise_04_e_1:
+    speaker: Narration
+    en: A few hours later.
+    ko: 몇 시간 후….
+    ja: 数時間後…
+  event_bowwowparadise_04_e_2:
+    speaker: liter
+    en: There's no way we'll finish this in a day.
+    ko: 음.
+    ja: うーむ。
+  event_bowwowparadise_04_e_3:
+    speaker: liter
+    en: I figured as much.
+    ko: 역시 하루 만에 다 끝내는 건 불가능하구나.
+    ja: やはり1日ですべてを終えるのは不可能じゃな。
+  event_bowwowparadise_04_e_4:
+    speaker: biscuit
+    en: It already looks completely different!
+    ko: 우와아~ 보호소가 완전히 색달라졌어요!
+    ja: わあ～！シェルターが大変身しましたね！
+  event_bowwowparadise_04_e_5:
+    speaker: liter
+    en: You ain't seen nothing yet.
+    ko: 하하, 녀석 허풍도….
+    ja: はは、大げさじゃのう。
+  event_bowwowparadise_04_e_6:
+    speaker: liter
+    en: I'm only about halfway finished.
+    ko: 아직 50%도 못 만들었다.
+    ja: まだ50％も完成しておらんわ。
+  event_bowwowparadise_04_e_7:
+    speaker: liter
+    en: This is just the barebones framework.
+    ko: 뼈대만 그럴싸하게 잡아놨지.
+    ja: 骨組みを組んだだけじゃよ。
+  event_bowwowparadise_04_e_8:
+    speaker: centi
+    en: Either way, I like what you've done so far.
+    ko: 그래도 지금까지의 작업은 꽤 마음에 듬다!
+    ja: でも今のところ作業はかなりいいかんじっす！
+  event_bowwowparadise_04_e_9:
+    speaker: centi
+    en: It might not look exactly like the Ark when it's completed, but it'll be darn
+      close.
+    ko: 완성되면, 방주만큼은 아니더라도 흉내는 낼 수 있을 것 같슴다!
+    ja: 完成すれば、完璧とまではいかなくても\nアークらしさは感じられるはずっす！
+  event_bowwowparadise_04_e_10:
+    speaker: centi
+    en: It's all because you gave us such a detailed explanation, Biscuit.
+    ko: 비스킷이 설계도를 잘 만들어 준 덕분임다!
+    ja: ビスケットが設計図を\n上手に作ってくれたおかげっす！
+  event_bowwowparadise_04_e_11:
+    speaker: liter
+    en: That way we could draw up super precise blueprints that make construction
+      a cinch.
+    ko: 원하는 걸 확실히 말해줘서 공사가 나름 수월했어.
+    ja: 欲しいものをしっかり伝えてくれたおかげで\nスムーズに進められたのじゃ。
+  event_bowwowparadise_04_e_12:
+    speaker: Monologue
+    en: Looking around, a brand new shelter is slowly taking shape.
+    ko: 주위를 둘러보니 꽤 구색을 갖춰져 가는 보호소가 눈에 들어왔다.
+    ja: あたりを見回すと、変身中の\nシェルターが目に飛び込んできた
+  event_bowwowparadise_04_e_13:
+    speaker: Monologue
+    en: The enclosed interior area is altered to make it more spacious.
+    ko: 울타리로 쳐져 있던 외부 공간은 더 넓게 쓸 수 있도록 바뀌었으며,
+    ja: 柵で囲われていた外の空間は\nさらに広く使えるようになっていた
+  event_bowwowparadise_04_e_14:
+    speaker: Monologue
+    en: Floor-length windows and doggie doors have been installed to make everything
+      feel more open.
+    ko: 외관은 통유리창과 펫도어를 설치해 내부의 답답함을 해소할 수 있게 만들었다.
+    ja: 外観も全面ガラス張りになり、\nペットドアを設置し、\n開放的な作りになっている
+  event_bowwowparadise_04_e_15:
+    speaker: liter
+    en: I'll be a bit busy for the next few days, so it'll be a while before I can
+      come and finish this.
+    ko: |-
+      내일부턴 일정이 있어서
+      이곳에 다시 오려면 못해도 며칠은 걸릴 것이야.
+    ja: |-
+      明日からは別件があって、
+      工事の続きは数日後になりそうじゃ。
+  event_bowwowparadise_04_e_16:
+    speaker: liter
+    en: In the meantime, don't let anyone in here, human or animal.
+    ko: |-
+      아직 공사가 완료된 건 아니니.
+      절대 사람도, 강아지도 들이지 말거라.
+    ja: |-
+      まだ工事は終わってないから
+      人間も、イヌも絶対に入るんじゃないぞ。
+  event_bowwowparadise_04_e_17:
+    speaker: Self
+    en: Got it.
+    ko: 알겠어.
+    ja: 分かった
+  event_bowwowparadise_04_e_18:
+    speaker: liter
+    en: I've got to get ready for a business trip.
+    ko: 그래. 이만 나는 출장 때문에 가봐야겠구나.
+    ja: それじゃあ私は出張に行くとするのじゃ。
+  event_bowwowparadise_04_e_19:
+    speaker: centi
+    en: And I'm gonna go on vacation for real this time.
+    ko: 저도 이제부터 본격적인 휴가 시작임다!
+    ja: 私も今度こそ休暇に入るっす！
+  event_bowwowparadise_04_e_20:
+    speaker: biscuit
+    en: Thank you both for all the help!
+    ko: 헤헤. 시간 써주셔서 감사해요!
+    ja: へへ。お時間作っていただき、\nありがとうございました！
+  event_bowwowparadise_04_e_21:
+    speaker: liter
+    en: See you in a few days.
+    ko: 그럼, 며칠 후에 또 보자꾸나.
+    ja: いいんじゃよ。数日後にまた会おう。
+  event_bowwowparadise_04_e_22:
+    speaker: Self
+    en: See you.
+    ko: 고생했어.
+    ja: お疲れ様
+  event_bowwowparadise_04_e_23:
+    speaker: Monologue
+    en: Liter and Centi leave.
+    ko: 리타와 센티는 보호소를 떠나갔다.
+    ja: リターとセンチはシェルターを後にした
+  event_bowwowparadise_04_e_24:
+    speaker: biscuit
+    en: I can't wait to show this to Max and the other dogs!
+    ko: 얼른 맥스랑 강아지들을 데려오고 싶네요!
+    ja: 早くマックスたちを連れて来たいですね！
+  event_bowwowparadise_04_e_25:
+    speaker: biscuit
+    en: Do you think Max will want to come back once everything's finished?
+    ko: 공사가 완료되면… 맥스도 보호소로 다시 돌아오고 싶어지겠죠?
+    ja: 工事が終わったら…マックスも\nシェルターに戻りたくなりますよね？
+  event_bowwowparadise_04_e_26:
+    speaker: Self
+    en: Yes. I'm sure of it.
+    ko: 응. 분명히 그럴 거야.
+    ja: ああ、きっと
+  event_bowwowparadise_04_e_27:
+    speaker: biscuit
+    en: We should head over to Nero's, since the dogs are over there.
+    ko: |-
+      그럼, 저희도 이만 네로한테 가요!
+      그곳에 강아지들이….
+    ja: |-
+      じゃあ、私たちもネロのところへ行きましょう！
+      そこにみんなが…
+  event_bowwowparadise_04_e_28:
+    speaker: Narration
+    en: "... *Tadak*"
+    ko: "…타닥!"
+    ja: "…ダダッ！"
+  event_bowwowparadise_04_e_29:
+    speaker: unknown
+    en: "... *Arf*"
+    ko: "…헤."
+    ja: "…ヘッ。"
+  event_bowwowparadise_04_e_30:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_04_e_31:
+    speaker: unknown
+    en: "... *Pant pant*"
+    ko: "…헥헥!"
+    ja: "…ヘッヘッ！"
+  event_bowwowparadise_04_e_32:
+    speaker: biscuit
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_04_e_33:
+    speaker: biscuit
+    en: Trainer...
+    ko: "…어, 훈련사님?"
+    ja: "…えっと、訓練士さん？"
+  event_bowwowparadise_04_e_34:
+    speaker: biscuit
+    en: am I hallucinating, or are all the dogs running towards us?
+    ko: 제 눈에만 강아지들이 달려오는 게 보이나요?
+    ja: ワンちゃんたちが走ってくるのが見えるんですが\n私だけでしょうか？
+  event_bowwowparadise_04_e_35:
+    speaker: "<Choice>"
+    en: I see it too.
+    ko: 나도 보여.
+    ja: 私にも見える
+  event_bowwowparadise_04_e_36:
+    speaker: "<Choice>"
+    en: Seems that only you could see it.
+    ko: 비스킷만 보이는 것 같아.
+    ja: ビスケットにしか見えないようだ
+  event_bowwowparadise_04_e_37:
+    speaker: biscuit
+    en: Then are the other dogs... ghosts?! Eek!
+    ko: 헙! 그럼, 저 강아지들은 유령 강아지인 걸까요?
+    ja: はっ！じゃあ、あれはイヌのおばけでしょうか？
+  event_bowwowparadise_04_e_38:
+    speaker: Narration
+    en: "*Rub rub*"
+    ko: 부비적- 부비적-
+    ja: ゴシゴシ
+  event_bowwowparadise_04_e_39:
+    speaker: biscuit
+    en: No, wait... those are the rest of the dogs from the shelter!
+    ko: |-
+      아닌데요!
+      보호소 강아지들 같은데요?!
+    ja: |-
+      いや、違いますよ！
+      シェルターのみんなですよ！？
+  event_bowwowparadise_04_e_40:
+    speaker: Narration
+    en: "... *Doodada*"
+    ko: "…두다다-!"
+    ja: "…ダダダッ！"
+  event_bowwowparadise_04_e_41:
+    speaker: Narration
+    en: Off in the distance, dozens of dogs are hurtling towards the shelter.
+    ko: 멀리서 엄청난 속도로 수십 마리의 강아지가 보호소로 달려오고 있었다.
+    ja: 遠くからとんでもないスピードで\n数十匹のイヌがシェルターに\n向かってきている
+  event_bowwowparadise_04_e_42:
+    speaker: biscuit
+    en: No, they can't come into the shelter yet!
+    ko: 어어… 아직 보호소로 들어오면 안 되는데!
+    ja: ああ…まだシェルターに入っちゃダメなのに！
+  event_bowwowparadise_04_e_43:
+    speaker: biscuit
+    en: Trainer, we've got to stop them!
+    ko: 훈련사님! 강아지들을 잡아주세요!
+    ja: 訓練士さん！みんなを止めてください！
+  event_bowwowparadise_04_e_44:
+    speaker: Self
+    en: Okay!
+    ko: 알겠어!
+    ja: 分かった！
+  event_bowwowparadise_04_e_45:
+    speaker: Narration
+    en: "*Swish*"
+    ko: 휙-!
+    ja: ヒュンッ！
+  event_bowwowparadise_04_e_46:
+    speaker: Narration
+    en: "*Swish* *Swish*"
+    ko: 휙- 휙-!
+    ja: ヒュンッヒュンッ！
+  event_bowwowparadise_04_e_47:
+    speaker: Monologue
+    en: Every time I try to catch one of the dogs, they quickly escape my grasp.
+    ko: 잡으려고 할 때마다 강아지들은 손아귀에서 빠르게 벗어났다.
+    ja: 捕まえようとするたびに、\nイヌは素早く腕の中から抜け出した
+  event_bowwowparadise_04_e_48:
+    speaker: Narration
+    en: "*Beep*"
+    ko: 삐이익-!
+    ja: ピィィー！
+  event_bowwowparadise_04_e_49:
+    speaker: biscuit
+    en: Stop!
+    ko: 멈춰!
+    ja: 動かないで！
+  event_bowwowparadise_04_e_50:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_04_e_51:
+    speaker: puppies
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_04_e_52:
+    speaker: Narration
+    en: "*Doodadadadada*"
+    ko: 두다다다다-!
+    ja: ダダダダダッ！
+  event_bowwowparadise_04_e_53:
+    speaker: Monologue
+    en: Max and the other dogs take a quick glimpse and Biscuit and I, then make a
+      beeline for the new and improved shelter.
+    ko: |-
+      맥스와 강아지들은 나와 비스킷을 한 번씩 훑어보더니.
+      넓어진 보호소를 더 빠르게 누비기 시작했고.
+    ja: |-
+      マックスたちは私とビスケットをちらっと見て
+      広くなったシェルターを駆け回り始めた
+  event_bowwowparadise_04_e_54:
+    speaker: biscuit
+    en: W-wait guys, the shelter isn't ready yet! You can't go in right n...
+    ko: |-
+      어! 얘, 얘들아 아직 보호소엔 들어가면 안 돼!
+      아직 공사가…!
+    ja: |-
+      あっ！み、みんな！\nまだシェルターに入らないで！
+      まだ工事が…！
+  event_bowwowparadise_04_e_55:
+    speaker: Narration
+    en: "*Crash* *Rattle*"
+    ko: |-
+      쿵!
+      후두둑-!
+    ja: |-
+      ドン！
+      バンッ！
+  event_bowwowparadise_04_e_56:
+    speaker: Monologue
+    en: Before Biscuit has even finished her sentence, the stampeding herd of canines
+      crashes into a wall that is still under construction.
+    ko: 말 끝나기 무섭게 정신없이 달리던 강아지들은 공사 중인 벽에 부딪혔다.
+    ja: ビスケットが言い終わる前に、\n勢いよく走っていたイヌが\n工事中の壁にぶつかった
+  event_bowwowparadise_04_e_57:
+    speaker: biscuit
+    en: Eep! Are you okay?
+    ko: 헙! 괜찮아?
+    ja: えっ！大丈夫？
+  event_bowwowparadise_04_e_58:
+    speaker: puppies
+    en: "*Yelp*"
+    ko: 끼잉….
+    ja: クゥン…
+  event_bowwowparadise_04_e_59:
+    speaker: biscuit
+    en: I told you to be careful!
+    ko: |-
+      그러니까 내가 조심하라고 했잖아!
+      너희 여긴 어떻게….
+    ja: |-
+      だから気をつけてって言ったでしょ！
+      どうしてここに…
+  event_bowwowparadise_04_e_60:
+    speaker: biscuit
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  event_bowwowparadise_04_e_61:
+    speaker: Narration
+    en: Several of the dogs' ears perk up.
+    ko: 쫑긋-
+    ja: ぴょこっ
+  event_bowwowparadise_04_e_62:
+    speaker: Narration
+    en: "*Swish* *Swish*"
+    ko: 휙- 휙-!
+    ja: パッ、パッ！
+  event_bowwowparadise_04_e_63:
+    speaker: Narration
+    en: Biscuit's ears perk up as well, as she suddenly swerves around to face me.
+    ko: |-
+      비스킷은 귀가 쫑긋거리더니.
+      이내 빠르게 주변을 둘러봤다.
+    ja: |-
+      ビスケットは耳をそばだたせ
+      素早くあたりを見回した
+  event_bowwowparadise_04_e_64:
+    speaker: biscuit
+    en: We've gotta get out of here!
+    ko: "…피해!"
+    ja: "…逃げて！"
+  event_bowwowparadise_04_e_65:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_04_e_66:
+    speaker: biscuit
+    en: Take cover!
+    ko: 훈련사님, 피해요!
+    ja: 訓練士さん、逃げてください！
+  event_bowwowparadise_04_e_67:
+    speaker: biscuit
+    en: The shelter is collapsing!
+    ko: 보호소가 무너져요!
+    ja: シェルターが崩れます！
+  event_bowwowparadise_04_e_68:
+    speaker: Self
+    en: I don't feel any...
+    ko: 아무런 느낌도….
+    ja: 何も感じないが…
+  event_bowwowparadise_04_e_69:
+    speaker: Narration
+    en: "*Crack*"
+    ko: 쩌적-
+    ja: ビキッ
+  event_bowwowparadise_04_e_70:
+    speaker: Narration
+    en: "*Craaaaack*"
+    ko: 쩌저저저적-!
+    ja: バキバキッ！
+  event_bowwowparadise_04_e_71:
+    speaker: Narration
+    en: "*Raaaaatle*"
+    ko: 우르르르-!
+    ja: ズシャアッ！
+  event_bowwowparadise_04_e_72:
+    speaker: Narration
+    en: "*Crash*"
+    ko: 쿠웅-!
+    ja: ドンッ！
+  event_bowwowparadise_04_e_73:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_04_e_74:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_04_e_75:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_04_e_76:
+    speaker: puppies
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_04_e_77:
+    speaker: Monologue
+    en: The shelter, which we had devoted so much time and effort into, collapses.
+    ko: |-
+      …열심히 공사해놓은 보호소가
+      강아지들로 인해 허무하게 무너져 버렸다.
+    ja: |-
+      …一生懸命工事したシェルターが
+      みんなが暴れたせいで虚しく崩れてしまった
+event_bowwowparadise_05_s:
+  event_bowwowparadise_05_s_1:
+    speaker: "<Monologue>"
+    en: I suppose I should notify Liter.
+    ko: "…리타에게 문자를 해볼까."
+    ja: "…リターに連絡してみよう"
+  event_bowwowparadise_05_s_2:
+    speaker: puppies
+    en: "*Whine*"
+    ko: 끼이잉….
+    ja: クーン…
+  event_bowwowparadise_05_s_3:
+    speaker: biscuit
+    en: No treats for you for a week!
+    ko: 너희 일주일 동안 간식 금지야!
+    ja: みんな、1週間おやつ禁止だからね！
+  event_bowwowparadise_05_s_4:
+    speaker: "<Monologue>"
+    en: Biscuit is giving the dogs, who all seem highly distressed, a serious dressing
+      down.
+    ko: |-
+      시선을 돌리니, 강아지들을 혼내는 비스킷이 보였고.
+      강아지들은 한껏 풀이 죽은 채로 흰자위를 보이며 눈치만 보고 있었다.
+    ja: |-
+      顔を上げると、みんなを叱りつけている\nビスケットが見えた
+      みんな落ち込んで、目をキョロキョロ\nさせながら様子をうかがっている
+  event_bowwowparadise_05_s_5:
+    speaker: "<Choice>"
+    en: They didn't know any better.
+    ko: 강아지들도 모르고 그런 걸 거야.
+    ja: みんな知らなかったんだ
+  event_bowwowparadise_05_s_6:
+    speaker: "<Choice>"
+    en: These furballs destroy everything they touch.
+    ko: 천년의 사랑도 식게 만드는 사고뭉치들이네.
+    ja: 日頃の愛も冷める\nトラブルメーカーたちだな
+  event_bowwowparadise_05_s_7:
+    speaker: biscuit
+    en: Maybe so, but...
+    ko: 그건 그렇지만….
+    ja: それはそうですが…
+  event_bowwowparadise_05_s_8:
+    speaker: biscuit
+    en: I don't know if I'd go that far...
+    ko: "…아니요! 사랑은 안 식어요!"
+    ja: "…いいえ！愛は冷めません！"
+  event_bowwowparadise_05_s_9:
+    speaker: "<Self>"
+    en: It'll be a while before Liter gets here. What should we do in the meantime?
+    ko: |-
+      어떡하지?
+      리타가 다시 오려면 시간이 좀 걸린다는데….
+    ja: |-
+      どうしようか？リターが来るまで
+      時間がかかりそうだ…
+  event_bowwowparadise_05_s_10:
+    speaker: biscuit
+    en: What else can we do?
+    ko: |-
+      헙. 정말요?
+      …어쩔 수 없죠.
+    ja: |-
+      えっ。そうなんですか？
+      …仕方ありません。
+  event_bowwowparadise_05_s_11:
+    speaker: biscuit
+    en: We wait.
+    ko: 지금 상황에선 기다릴 수밖에.
+    ja: 今はただ待つしかありませんよね。
+  event_bowwowparadise_05_s_12:
+    speaker: biscuit
+    en: "*Sigh* What a bunch of rascals you all are!"
+    ko: 후우… 이 녀석들!
+    ja: ふぅ…まったく！
+  event_bowwowparadise_05_s_13:
+    speaker: biscuit
+    en: Max, I thought you didn't want to come back to the shelter?
+    ko: 맥스, 넌 보호소로 돌아오기 싫다고 했으면서…!
+    ja: マックス！シェルターに戻りたくないって\n言ってたくせに…！
+  event_bowwowparadise_05_s_14:
+    speaker: biscuit
+    en: Do you realize how much danger you all were in just now?
+    ko: 그리고 방금은 정말 위험한 상황이었어!
+    ja: それにさっきは本当に\n危なかったんだからね！
+  event_bowwowparadise_05_s_15:
+    speaker: biscuit
+    en: You were very nearly flattened into a bunch of puppy pancakes!
+    ko: 빨리 대피하지 않았으면 다칠 수도 있었다구….
+    ja: 一歩間違えたら、\nケガをしてたかもしれないんだよ…
+  event_bowwowparadise_05_s_16:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_17:
+    speaker: puppies
+    en: "..."
+    ko: "………."
+    ja: "………"
+  event_bowwowparadise_05_s_18:
+    speaker: "<Choice>"
+    en: No one got hurt though, so shouldn't you take it easy on them?
+    ko: 아무도 다치지 않았으니까 괜찮은 거 아닐까?
+    ja: 誰もケガをしなかったから\nもういいんじゃないか？
+  event_bowwowparadise_05_s_19:
+    speaker: "<Choice>"
+    en: I think they know they were wrong.
+    ko: 반성하고 있는 것 같아.
+    ja: 反省しているはずだ
+  event_bowwowparadise_05_s_20:
+    speaker: biscuit
+    en: Maybe you're right. I'm glad no one got hurt, but...
+    ko: 그건 맞아요. 아무도 안 다쳐서 정말 다행이지만….
+    ja: 確かに、誰もケガをしなかったのは\n不幸中の幸いでしたが…
+  event_bowwowparadise_05_s_21:
+    speaker: biscuit
+    en: From their expressions, I'd say you're right.
+    ko: 네. 표정 보니까 그런 것 같긴 한데….
+    ja: はい。表情を見たところそうだと思いますが…
+  event_bowwowparadise_05_s_22:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_23:
+    speaker: puppies
+    en: "..."
+    ko: "………."
+    ja: "………"
+  event_bowwowparadise_05_s_24:
+    speaker: biscuit
+    en: Even so, no treats.
+    ko: "…그래도 간식은 금지야."
+    ja: "…でも、おやつは禁止だよ。"
+  event_bowwowparadise_05_s_25:
+    speaker: "<Narration>"
+    en: A few hours later.
+    ko: 몇 시간 후.
+    ja: 数時間後
+  event_bowwowparadise_05_s_26:
+    speaker: "<Narration>"
+    en: "*Crumble* *Crumble*"
+    ko: 부스럭- 부스럭-
+    ja: ガサゴソ…
+  event_bowwowparadise_05_s_27:
+    speaker: "<Self>"
+    en: What are you doing?
+    ko: 뭐해?
+    ja: 何してるんだ？
+  event_bowwowparadise_05_s_28:
+    speaker: biscuit
+    en: Preparing for training.
+    ko: 아, 훈련 준비 중이에요!
+    ja: あ、トレーニングの準備中です！
+  event_bowwowparadise_05_s_29:
+    speaker: biscuit
+    en: Just because the shelter collapsed doesn't mean training is canceled.
+    ko: 보호소가 무너졌어도 훈련은 해야 하니까요!
+    ja: シェルターが崩れても\nトレーニングは必要ですから！
+  event_bowwowparadise_05_s_30:
+    speaker: biscuit
+    en: All right, let's go everyone!
+    ko: 읏챠!
+    ja: よいしょっ！
+  event_bowwowparadise_05_s_31:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삐익-
+    ja: ピーッ
+  event_bowwowparadise_05_s_32:
+    speaker: biscuit
+    en: Gather in front of me, it's time for training.
+    ko: |-
+      얘들아, 다들 내 앞으로 모여!
+      훈련 시간이야!
+    ja: |-
+      みんな、集まって！
+      トレーニングの時間だよ！
+  event_bowwowparadise_05_s_33:
+    speaker: biscuit
+    en: Today we're going to talk about correcting bad behavior.
+    ko: 오늘은 행동 교정에 대해서 훈련할 거야~
+    ja: 今日は行動矯正トレーニングをするからね～
+  event_bowwowparadise_05_s_34:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_35:
+    speaker: puppies
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_36:
+    speaker: "<Monologue>"
+    en: All of the dogs lie slumped down in front of the shelter.
+    ko: 강아지들은 부서진 보호소 앞에서 풀이 죽은 채 엎드려 있었다.
+    ja: みんなは崩れたシェルターの前で\nしょんぼりしたまま伏せをしていた
+  event_bowwowparadise_05_s_37:
+    speaker: "<Self>"
+    en: They don't exactly seem full of verve.
+    ko: 강아지들, 기운이 영 없어 보이는데.
+    ja: みんな元気がなさそうだが
+  event_bowwowparadise_05_s_38:
+    speaker: biscuit
+    en: Hmm...
+    ko: "…음."
+    ja: "…うーん。"
+  event_bowwowparadise_05_s_39:
+    speaker: biscuit
+    en: It might be because of how I scolded them back there. That was the first time
+      I've ever had to do that.
+    ko: |-
+      아까 혼나서 그런 거 같아요.
+      이렇게 크게 혼난 건 처음이거든요.
+    ja: |-
+      さっき怒ったからですね。
+      あんなに強く怒ったのは初めてだったんです。
+  event_bowwowparadise_05_s_40:
+    speaker: "<Choice>"
+    en: Why don't we take a day off?
+    ko: 오늘은 쉬는 게 어때?
+    ja: 今日は休んだらどうだ？
+  event_bowwowparadise_05_s_41:
+    speaker: "<Choice>"
+    en: Why don't we give them some treats?
+    ko: 간식을 좀 주는 건 어때?
+    ja: 少しおやつをあげたらどうだ？
+  event_bowwowparadise_05_s_42:
+    speaker: biscuit
+    en: It's not good to skip training.
+    ko: 훈련을 거르면 안 좋은데….
+    ja: トレーニングは欠かせないのに…
+  event_bowwowparadise_05_s_43:
+    speaker: "<Self>"
+    en: They might come back feeling refreshed after a bit of rest.
+    ko: 쉬어가는 시간이 있으면 리프레쉬도 되고 좋을 거야.
+    ja: 休んだ方がリフレッシュできて\nいいはずだ
+  event_bowwowparadise_05_s_44:
+    speaker: biscuit
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_45:
+    speaker: biscuit
+    en: What?
+    ko: 간식이요?
+    ja: おやつですか？
+  event_bowwowparadise_05_s_46:
+    speaker: "<Self>"
+    en: Treats cure everything.
+    ko: 응. 간식은 만병통치약이잖아.
+    ja: ああ。おやつは万能薬じゃないか
+  event_bowwowparadise_05_s_47:
+    speaker: biscuit
+    en: I really didn't want to give them treats today, but...
+    ko: 우우… 오늘은 간식 안 주려고 했는데….
+    ja: うう…今日はおやつをあげないでおこうと\n思ったのに…
+  event_bowwowparadise_05_s_48:
+    speaker: biscuit
+    en: Would you guys like some treats?
+    ko: "…얘들아, 간식 줄까?"
+    ja: "…みんな、おやつ食べる？"
+  event_bowwowparadise_05_s_49:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_50:
+    speaker: puppies
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_51:
+    speaker: biscuit
+    en: Oh my goodness... they didn't even react to the promise of treats.
+    ko: 헙! 간식에도 반응이 없다니….
+    ja: えっ！おやつにも反応しないなんて…
+  event_bowwowparadise_05_s_52:
+    speaker: "<Self>"
+    en: How about we take a break today?
+    ko: 그럼, 오늘은 좀 쉬는 게 어때?
+    ja: じゃあ、今日は少し休んだらどうだ？
+  event_bowwowparadise_05_s_53:
+    speaker: biscuit
+    en: Yeah, let's do that.
+    ko: "…그래야겠어요!"
+    ja: "…分かりました！"
+  event_bowwowparadise_05_s_54:
+    speaker: biscuit
+    en: These little guys might be a little shaken up.
+    ko: 강아지들도 많이 놀랐을 수 있으니까요!
+    ja: みんなもすごくびっくりしたはずですから！
+  event_bowwowparadise_05_s_55:
+    speaker: "<Self>"
+    en: Good idea.
+    ko: 좋은 생각이야.
+    ja: いい考えだ
+  event_bowwowparadise_05_s_56:
+    speaker: "<Narration>"
+    en: Next day.
+    ko: 다음 날.
+    ja: 翌日
+  event_bowwowparadise_05_s_57:
+    speaker: biscuit
+    en: All right guys, chowtime!
+    ko: 얘들아! 밥 먹자~
+    ja: みんな！ご飯だよ～
+  event_bowwowparadise_05_s_58:
+    speaker: "<Narration>"
+    en: "*Pour*"
+    ko: 촤륵-!
+    ja: シャッ！
+  event_bowwowparadise_05_s_59:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_60:
+    speaker: puppies
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_61:
+    speaker: "<Monologue>"
+    en: The dogs sit back and stare at the food Biscuit had put in the bowls.
+    ko: 강아지들은 비스킷이 나눠주는 밥을 멀뚱히 쳐다보고 있었다.
+    ja: みんなビスケットがくれたご飯を\nじっと見つめている
+  event_bowwowparadise_05_s_62:
+    speaker: biscuit
+    en: Huh?
+    ko: 음?
+    ja: ん？
+  event_bowwowparadise_05_s_63:
+    speaker: biscuit
+    en: Are you not hungry?
+    ko: 아직 배가 안 고픈 거야?
+    ja: まだお腹空いてないの？
+  event_bowwowparadise_05_s_64:
+    speaker: biscuit
+    en: Then... how about we play with some toys first, and then eat?
+    ko: 후움… 그럼 우리 장난감으로 좀 놀다가 밥 먹을까?
+    ja: うーん…じゃあおもちゃで遊んでから\nご飯にする？
+  event_bowwowparadise_05_s_65:
+    speaker: biscuit
+    en: Getting you up and active might help you work up an appetite.
+    ko: 신나게 뛰어놀다 보면 배가 고파질 수도 있으니까!
+    ja: 楽しく遊んだらお腹が空くかも！
+  event_bowwowparadise_05_s_66:
+    speaker: biscuit
+    en: Do you wanna play tug of war?
+    ko: 터그 놀이할까?
+    ja: 引っ張り合いする？
+  event_bowwowparadise_05_s_67:
+    speaker: biscuit
+    en: Or frisbee, maybe?
+    ko: 아니면 원반던지기?!
+    ja: それともフライングディスク！？
+  event_bowwowparadise_05_s_68:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_69:
+    speaker: puppies
+    en: "..."
+    ko: "………."
+    ja: "………"
+  event_bowwowparadise_05_s_70:
+    speaker: "<Monologue>"
+    en: The dogs continue to stare at Biscuit without moving an inch.
+    ko: 강아지들은 비스킷 눈치만 보며 움직이지 않았다.
+    ja: みんなビスケットの様子をうかがうだけで\n動こうとしなかった
+  event_bowwowparadise_05_s_71:
+    speaker: biscuit
+    en: What's wrong?
+    ko: "…우우."
+    ja: "…うう。"
+  event_bowwowparadise_05_s_72:
+    speaker: biscuit
+    en: Are you guys hurt?
+    ko: |-
+      얘들아, 왜 그래?
+      어디 아픈 거야?
+    ja: |-
+      みんな、どうしたの？
+      具合でも悪い？
+  event_bowwowparadise_05_s_73:
+    speaker: "<Choice>"
+    en: I think they're a bit apprehensive.
+    ko: 눈치 보고 있는 것 같은데….
+    ja: 様子をうかがっているようだが…
+  event_bowwowparadise_05_s_74:
+    speaker: "<Choice>"
+    en: Maybe they feel bad about what they did yesterday.
+    ko: 어제의 일이 미안해서 그런 거 아닐까?
+    ja: 昨日のことが申し訳ないからじゃないか？
+  event_bowwowparadise_05_s_75:
+    speaker: biscuit
+    en: Apprehensive? But why?
+    ko: |-
+      눈치요?!
+      왜요…?
+    ja: |-
+      え？
+      どうしてでしょうか…？
+  event_bowwowparadise_05_s_76:
+    speaker: "<Self>"
+    en: Maybe they feel bad about yesterday.
+    ko: 어제의 일이 미안해서 그런 거 아닐까?
+    ja: 昨日のことが申し訳ないからじゃないか？
+  event_bowwowparadise_05_s_77:
+    speaker: "<Monologue>"
+    en: As soon as I mention this, their tails begin to wag.
+    ko: 강아지들은 나의 말이 끝나자마자 꼬리를 살랑 흔들었다.
+    ja: 私がそう言うと、みんな尻尾を振った
+  event_bowwowparadise_05_s_78:
+    speaker: biscuit
+    en: Looks like you might be onto something.
+    ko: "…꼬리가 반응하는 거 보니까 맞나 봐요."
+    ja: "…尻尾が反応してるってことは\\nそのとおりみたいです。"
+  event_bowwowparadise_05_s_79:
+    speaker: biscuit
+    en: It's okay everyone. Eat up!
+    ko: 얘들아, 괜찮으니까 와서 밥 먹어!
+    ja: みんな、大丈夫だからご飯食べて！
+  event_bowwowparadise_05_s_80:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_81:
+    speaker: puppies
+    en: "..."
+    ko: "………."
+    ja: "………"
+  event_bowwowparadise_05_s_82:
+    speaker: biscuit
+    en: It's okay, honestly!
+    ko: 진짜 괜찮다니까~?
+    ja: 本当に大丈夫だってば～！
+  event_bowwowparadise_05_s_83:
+    speaker: biscuit
+    en: Look, can't you see me smiling? Hehe!
+    ko: 이거 봐! 나 지금 활짝 웃고 있잖아~ 헤에~
+    ja: ほら！今は笑顔でしょ～？ニッコリ！
+  event_bowwowparadise_05_s_84:
+    speaker: "<Monologue>"
+    en: The sight of Biscuit's smile fails to move the dogs.
+    ko: 비스킷의 미소에도 강아지들은 흰자위만 빠르게 움직일 뿐이었다.
+    ja: ビスケットが微笑んでも、みんなは\n目をキョロキョロさせるだけだった
+  event_bowwowparadise_05_s_85:
+    speaker: biscuit
+    en: Oh boy... what should I do?
+    ko: 우우. 어떡하죠 훈련사님?
+    ja: うう。どうしましょう…訓練士さん。
+  event_bowwowparadise_05_s_86:
+    speaker: "<Self>"
+    en: Hmm...
+    ko: "…흐음."
+    ja: "…うーん"
+  event_bowwowparadise_05_s_87:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_05_s_88:
+    speaker: "<Self>"
+    en: If they feel sorry for what they did yesterday, perhaps we can try repairing
+      the shelter together.
+    ko: |-
+      어제 일이 미안해서 그런 거면…
+      같이 보호소 복구를 좀 해볼까?
+    ja: |-
+      昨日のことを申し訳ないと思っているなら…
+      一緒にシェルターを直さないか？
+  event_bowwowparadise_05_s_89:
+    speaker: biscuit
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_05_s_90:
+    speaker: max
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_bowwowparadise_05_s_91:
+    speaker: puppies
+    en: "???"
+    ko: "???"
+    ja: "？？？"
+  event_bowwowparadise_05_s_92:
+    speaker: "<Self>"
+    en: Let's do what we can before Liter comes.
+    ko: 리타가 오기 전까지 할 수 있는 만큼 같이 해보자.
+    ja: リターが来るまで、\nやれるだけのことはやってみよう
+  event_bowwowparadise_05_s_93:
+    speaker: "<Self>"
+    en: I'll pitch in.
+    ko: 내가 도와줄게.
+    ja: 私が手伝う
+  event_bowwowparadise_05_s_94:
+    speaker: max
+    en: "... *Ruff*"
+    ko: "…멍!"
+    ja: "…ワン！"
+  event_bowwowparadise_05_s_95:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_s_96:
+    speaker: "<Monologue>"
+    en: The dogs wag their tails with gusto.
+    ko: 순간 강아지들의 꼬리가 흔들거리며 반응하기 시작했다.
+    ja: みんなの尻尾が動き、反応し始めた
+  event_bowwowparadise_05_s_97:
+    speaker: biscuit
+    en: You mean...
+    ko: 훈련사님! 그게 무슨….
+    ja: 訓練士さん！でも…
+  event_bowwowparadise_05_s_98:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_s_99:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_05_s_100:
+    speaker: biscuit
+    en: You guys want to do it together?
+    ko: 응?? 같이 하고 싶다고?
+    ja: え？一緒にやりたいって？
+  event_bowwowparadise_05_s_101:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_s_102:
+    speaker: biscuit
+    en: I know it was your fault, but it's still too dangerous.
+    ko: |-
+      너희가 잘못한 건 맞는데…
+      그래도 너무 위험해!
+    ja: |-
+      確かにみんな悪いことをしたけど…
+      でも危なすぎるよ！
+  event_bowwowparadise_05_s_103:
+    speaker: max
+    en: "*Ruff ruff ruff ruff*"
+    ko: 멍멍멍멍!
+    ja: ワンワンワンワン！
+  event_bowwowparadise_05_s_104:
+    speaker: biscuit
+    en: I know, but...
+    ko: 그건 그렇지만…!
+    ja: 確かにそうだけど…！
+  event_bowwowparadise_05_s_105:
+    speaker: biscuit
+    en: "... Are you sure we can do it?"
+    ko: "…우리가 할 수 있을까?"
+    ja: "…私たちにできるかな？"
+  event_bowwowparadise_05_s_106:
+    speaker: "<Choice>"
+    en: Trust me.
+    ko: 나만 믿어.
+    ja: 私を信じてくれ
+  event_bowwowparadise_05_s_107:
+    speaker: "<Choice>"
+    en: I'm practically an honorary member of Mighty Tools.
+    ko: 나는 사실 마이티 툴즈의 세 번째 멤버야.
+    ja: 実は私はマイティツールズの\n3番目のメンバーなんだ
+  event_bowwowparadise_05_s_108:
+    speaker: biscuit
+    en: Okay, if you say so.
+    ko: 으으으음…! 알겠어요!
+    ja: うーーん…！分かりました！
+  event_bowwowparadise_05_s_109:
+    speaker: biscuit
+    en: Let's give it a shot.
+    ko: 일단 해봐요! 저도 열심히 할게요!
+    ja: とりあえずやってみましょう！\n私も頑張ります！
+  event_bowwowparadise_05_s_110:
+    speaker: biscuit
+    en: Here are the blueprints that Liter and Centi drafted.
+    ko: |-
+      아, 참!
+      여기, 리타랑 센티가 쓴 도면도 있어요!
+    ja: |-
+      あっ、そうだ！
+      リターとセンチが描いた図面もありますよ！
+  event_bowwowparadise_05_s_111:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삐익-
+    ja: ピーッ
+  event_bowwowparadise_05_s_112:
+    speaker: biscuit
+    en: Okay, all of you, line up!
+    ko: 다들 일렬로!
+    ja: みんな一列に！
+  event_bowwowparadise_05_s_113:
+    speaker: "<Narration>"
+    en: "*Step* *Step* *Step*"
+    ko: 착- 착- 착-!
+    ja: ザッ、ザッ、ザッ！
+  event_bowwowparadise_05_s_114:
+    speaker: "<Self>"
+    en: They're certainly listening to you now.
+    ko: 이제야 말을 듣는군.
+    ja: やっと言うことを聞いたな
+  event_bowwowparadise_05_s_115:
+    speaker: biscuit
+    en: We're going to renovate the shelter on our own.
+    ko: 지금부터 보호소 공사를 들어갈 거야!
+    ja: 今からシェルターの工事を始めるよ！
+  event_bowwowparadise_05_s_116:
+    speaker: biscuit
+    en: Trainer and I will work on the foundation while you all bring us the materials.
+    ko: 나랑 훈련사님이랑 뼈대를 세울 테니.
+    ja: 私と訓練士さんが骨組みを立てるから
+  event_bowwowparadise_05_s_117:
+    speaker: biscuit
+    en: It's just like fetch.
+    ko: |-
+      너희는 자재를 가지고 와줘!
+      그 정도는 할 수 있지?
+    ja: |-
+      みんなは資材を運んで！
+      できるよね？
+  event_bowwowparadise_05_s_118:
+    speaker: biscuit
+    en: Can you guys do it?
+    ko: 우리 가져오기 놀이 많이 했으니까!
+    ja: おもちゃを持ってくるのは得意でしょ？
+  event_bowwowparadise_05_s_119:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_s_120:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_05_s_121:
+    speaker: "<Monologue>"
+    en: We begin to renovate the shelter... again.
+    ko: 우리는 그렇게 두 번째 보호소 공사에 들어갔다.
+    ja: 私たちはこうして\n2回目の工事を始めた
+event_bowwowparadise_05_e:
+  event_bowwowparadise_05_e_1:
+    speaker: "<Narration>"
+    en: "*Craash*"
+    ko: 쾅쾅-!
+    ja: ガンガン！
+  event_bowwowparadise_05_e_2:
+    speaker: "<Narration>"
+    en: "*Crush! Crush*"
+    ko: 까득-! 까득-!
+    ja: ドドドッ！
+  event_bowwowparadise_05_e_3:
+    speaker: biscuit
+    en: Max! Hammer!
+    ko: 맥스! 망치!
+    ja: マックス！カナヅチ！
+  event_bowwowparadise_05_e_4:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_e_5:
+    speaker: biscuit
+    en: You had it ready? Thanks!
+    ko: |-
+      헤헤. 이미 가지고 왔구나?
+      고마워~
+    ja: |-
+      へへ。もう持ってきてくれたんだ。
+      ありがとう～
+  event_bowwowparadise_05_e_6:
+    speaker: "<Narration>"
+    en: "*Bangbang*"
+    ko: 탕탕-!
+    ja: カンカン！
+  event_bowwowparadise_05_e_7:
+    speaker: "<Self>"
+    en: I need a wrench.
+    ko: 흠… 렌치가 필요한데.
+    ja: うーん…レンチが必要だな
+  event_bowwowparadise_05_e_8:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 툭-
+    ja: ポトッ
+  event_bowwowparadise_05_e_9:
+    speaker: puppies
+    en: "*Arf*"
+    ko: 멍!
+    ja: ワン！
+  event_bowwowparadise_05_e_10:
+    speaker: "<Self>"
+    en: Thanks.
+    ko: "…고마워."
+    ja: "…ありがとう"
+  event_bowwowparadise_05_e_11:
+    speaker: "<Monologue>"
+    en: Biscuit, the dogs and I begin to renovate the shelter together.
+    ko: 나와 강아지들, 그리고 비스킷은 힘을 합쳐 보호소를 복구하기 시작했다.
+    ja: 私とビスケット、そしてマックスたちは\n力を合わせてシェルターを直し始めた
+  event_bowwowparadise_05_e_12:
+    speaker: "<Narration>"
+    en: "*Squeak* *Squeak*"
+    ko: 끼릭끼릭-
+    ja: クルクル…
+  event_bowwowparadise_05_e_13:
+    speaker: "<Self>"
+    en: Screwdriver.
+    ko: 드라이버가….
+    ja: ドライバーが…
+  event_bowwowparadise_05_e_14:
+    speaker: max
+    en: "*Ruff*"
+    ko: 멍!
+    ja: ワン！
+  event_bowwowparadise_05_e_15:
+    speaker: biscuit
+    en: We need some wood.
+    ko: 여기엔 목재가….
+    ja: ここには木材が…
+  event_bowwowparadise_05_e_16:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_e_17:
+    speaker: "<Self>"
+    en: Drill.
+    ko: 드릴이….
+    ja: ドリルが…
+  event_bowwowparadise_05_e_18:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!!
+    ja: ワンワンワン！！
+  event_bowwowparadise_05_e_19:
+    speaker: "<Narration>"
+    en: "*Brrrrrr*"
+    ko: 위이이잉-!
+    ja: ウィィィン！
+  event_bowwowparadise_05_e_20:
+    speaker: "<Choice>"
+    en: We work together better than I thought we would.
+    ko: "…생각보다 합이 잘 맞는데?"
+    ja: "…思ったより息がぴったりだな"
+  event_bowwowparadise_05_e_21:
+    speaker: "<Choice>"
+    en: We really do make a great team.
+    ko: "…팀워크가 좋은데?"
+    ja: "…チームワークがいいな"
+  event_bowwowparadise_05_e_22:
+    speaker: biscuit
+    en: Hehe. Right?
+    ko: 헤헤. 그러게요!
+    ja: へへ。そうですね！
+  event_bowwowparadise_05_e_23:
+    speaker: "<Narration>"
+    en: A few hours later.
+    ko: "…몇 시간 후."
+    ja: "…数時間後"
+  event_bowwowparadise_05_e_24:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_e_25:
+    speaker: biscuit
+    en: Huh? You want me to install some blinds here?
+    ko: 응? 이곳에 블라인드 설치해 달라고?
+    ja: え？ここにブラインドを設置してほしいって？
+  event_bowwowparadise_05_e_26:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_05_e_27:
+    speaker: biscuit
+    en: Ah, I see. Gotcha.
+    ko: |-
+      아~ 그렇구나!
+      알겠어!
+    ja: |-
+      あ～そっか！
+      分かった！
+  event_bowwowparadise_05_e_28:
+    speaker: biscuit
+    en: Trainer!
+    ko: 훈련사님!
+    ja: 訓練士さん！
+  event_bowwowparadise_05_e_29:
+    speaker: biscuit
+    en: Can you install some window blinds on the left?
+    ko: 왼쪽에 블라인드 하나만 설치해 주시면 안 될까요?
+    ja: 左に1つだけブラインドを\n設置してくれませんか？
+  event_bowwowparadise_05_e_30:
+    speaker: "<Self>"
+    en: Why? Don't dogs like sunlight?
+    ko: 왜? 강아지들은 햇빛을 좋아하지 않아?
+    ja: なぜだ？イヌは日差しが好きなんじゃないのか？
+  event_bowwowparadise_05_e_31:
+    speaker: biscuit
+    en: Yes, but Lily only sleeps wherever there isn't any sunlight.
+    ko: 아! 릴리는 햇빛이 없어야 잠을 잘 자거든요!
+    ja: はい！でもリリーは日差しがあると\n眠れないんです！
+  event_bowwowparadise_05_e_32:
+    speaker: biscuit
+    en: This area is where Lily will be spending the most time.
+    ko: 이 공간에서 릴리가 시간을 많이 보내서요.
+    ja: リリーはよくここにいるので。
+  event_bowwowparadise_05_e_33:
+    speaker: biscuit
+    en: Once you're done with the ones on the left, we'll need one on the right as
+      well.
+    ko: 그리고 오른쪽에도 하나만 설치해주세요!
+    ja: それから右にも1つだけ設置してください！
+  event_bowwowparadise_05_e_34:
+    speaker: biscuit
+    en: Booboo and Koko are both scared of windows.
+    ko: 부부랑 코코는 창문 보는 걸 무서워하거든요~
+    ja: ブブとココは窓を見るのを怖がるんですよ。
+  event_bowwowparadise_05_e_35:
+    speaker: "<Self>"
+    en: Sure thing.
+    ko: 알겠어.
+    ja: 分かった
+  event_bowwowparadise_05_e_36:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_05_e_37:
+    speaker: biscuit
+    en: Yes, I know about Teddy and his bad joints.
+    ko: 응! 테디가 관절 안 좋은 거 알고 있어!
+    ja: うん！テディの関節が悪いのは知ってるよ！
+  event_bowwowparadise_05_e_38:
+    speaker: biscuit
+    en: That's why I prepared a mat here that he can lie on.
+    ko: 그래서 여기 매트도 깔아두려고 준비해놨지~
+    ja: だからここにマットも準備してあるよ～
+  event_bowwowparadise_05_e_39:
+    speaker: biscuit
+    en: Can't forget Rocky's dolls either. He can't sleep without them.
+    ko: 로키는 애착 인형 없이는 잠을 안 자니까 옆에 둬야하고….
+    ja: ロキはぬいぐるみがないと眠れないから\n隣に置かないと…
+  event_bowwowparadise_05_e_40:
+    speaker: biscuit
+    en: I know how fond Joy is of chewing wires, so I'll install them on the ceiling.
+    ko: 조이는 전선 잘 물어뜯으니까 천장에 설치해야겠다!
+    ja: ジョイはよく電線を噛むから\n天井に設置しなきゃ！
+  event_bowwowparadise_05_e_41:
+    speaker: biscuit
+    en: And for Buddy, I'll put the pee pad on the wall since he likes marking his
+      territory.
+    ko: 또 버디는 영역 표시하는 걸 좋아하니까 벽 쪽에 배변 패드를 붙여두고….
+    ja: バディはマーキングをするのが好きだから\n壁側にトイレシートを貼って…
+  event_bowwowparadise_05_e_42:
+    speaker: "<Monologue>"
+    en: Biscuit takes the personality traits of every single dog into consideration
+      as we progress with the renovations.
+    ko: 비스킷은 강아지들의 특성을 하나씩 나열하며 그에 맞게 공사하기 시작했다.
+    ja: ビスケットはイヌの特性を1つずつ言いながら\nそれに合わせて工事を始めた
+  event_bowwowparadise_05_e_43:
+    speaker: "<Self>"
+    en: You've memorized all of that?
+    ko: "…그걸 다 외우고 있는 거야?"
+    ja: "…全部覚えているのか？"
+  event_bowwowparadise_05_e_44:
+    speaker: biscuit
+    en: I don't think of it as memorization. It's just something that I should know.
+    ko: 외우고 있다기보단… 당연히 알고 있어야 하는 거니까요?
+    ja: 覚えているというよりは…\n当然知っておかないと困ることですから！
+  event_bowwowparadise_05_e_45:
+    speaker: biscuit
+    en: This is basic information.
+    ko: 이건 기본 중의 기본인걸요!
+    ja: 基本中の基本ですよ！
+  event_bowwowparadise_05_e_46:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_05_e_47:
+    speaker: biscuit
+    en: See, you guys know what I'm talking about.
+    ko: 맞아~ 너희도 잘 알고 있지?
+    ja: そうだね。みんなもよく知ってるよね？
+  event_bowwowparadise_05_e_48:
+    speaker: biscuit
+    en: We're family! Hee hee!
+    ko: 우리는 가족이니까! 헤헤.
+    ja: 私たちは家族だから！へへ。
+  event_bowwowparadise_05_e_49:
+    speaker: "<Narration>"
+    en: A few moments later.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_bowwowparadise_05_e_50:
+    speaker: "<Narration>"
+    en: "*Snap*"
+    ko: 뚝딱-!
+    ja: トントン！
+  event_bowwowparadise_05_e_51:
+    speaker: "<Narration>"
+    en: "*Bangbang*"
+    ko: 탕탕-!
+    ja: カンカン！
+  event_bowwowparadise_05_e_52:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_e_53:
+    speaker: biscuit
+    en: We should tailor this to fit Max.
+    ko: 음… 맥스 크기에 맞추는 게 맞지 않을까?
+    ja: うーん…マックスの大きさに\n合わせるべきじゃないかな？
+  event_bowwowparadise_05_e_54:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_05_e_55:
+    speaker: biscuit
+    en: Just about... this big should do it.
+    ko: 그렇지? 그럼 이 정도 크기가 좋겠다!
+    ja: だよね？じゃあこれくらいの大きさがいいね！
+  event_bowwowparadise_05_e_56:
+    speaker: "<Monologue>"
+    en: Biscuit is squatting near a door, tinkering with something.
+    ko: 비스킷은 문 앞에 쪼그려 앉아 무엇인가를 조립하고 있었다.
+    ja: ビスケットはドアの前に座り込み、\n何かを組み立てていた
+  event_bowwowparadise_05_e_57:
+    speaker: "<Self>"
+    en: What are you doing?
+    ko: 뭐 하고 있었어?
+    ja: 何をしてたんだ？
+  event_bowwowparadise_05_e_58:
+    speaker: biscuit
+    en: I'm fixing one of the doggie doors that broke.
+    ko: 부서진 펫도어를 설치하고 있었어요.
+    ja: ペットドアを設置していました。
+  event_bowwowparadise_05_e_59:
+    speaker: biscuit
+    en: Finished! Now let's go outside.
+    ko: |-
+      헤헤. 설치 끝!
+      이제 밖으로 나가자!
+    ja: |-
+      へへ。設置完了！
+      外に出てみよう！
+  event_bowwowparadise_05_e_60:
+    speaker: "<Narration>"
+    en: "*Whoosh*"
+    ko: 우다다-!
+    ja: ダダダッ！
+  event_bowwowparadise_05_e_61:
+    speaker: "<Monologue>"
+    en: Biscuit and the dogs all head out to the yard.
+    ko: |-
+      비스킷은 펫도어를 설치하곤
+      강아지를 이끌고 마당으로 달려 나갔다.
+    ja: |-
+      ビスケットはペットドアを設置し
+      みんなを連れて庭に走って行った
+  event_bowwowparadise_05_e_62:
+    speaker: biscuit
+    en: Guys!
+    ko: 얘들아!
+    ja: みんな！
+  event_bowwowparadise_05_e_63:
+    speaker: biscuit
+    en: Can you dig here so that I can plant some grass?
+    ko: 여기 잔디 심게 땅 좀 파줄래?
+    ja: ここに芝生を植えたいから、\n地面を掘ってくれる？
+  event_bowwowparadise_05_e_64:
+    speaker: puppies
+    en: "*Arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_e_65:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_05_e_66:
+    speaker: "<Monologue>"
+    en: All the dogs start digging in unison.
+    ko: 강아지들은 힘을 합쳐 앞발로 땅굴을 파기 시작했다
+    ja: イヌたちは力を合わせて\n前足で地面を掘り始めた
+  event_bowwowparadise_05_e_67:
+    speaker: "<Narration>"
+    en: "*Dig dig*"
+    ko: 파바박-!
+    ja: バババッ！
+  event_bowwowparadise_05_e_68:
+    speaker: "<Narration>"
+    en: "*Dig dig dig*"
+    ko: 파바바박-!
+    ja: ババババッ！
+  event_bowwowparadise_05_e_69:
+    speaker: biscuit
+    en: Don't dig too deep! Good... good... perfect!
+    ko: |-
+      너무 깊게 파면 안 돼!
+      좋아~ 좋아~ 잘하네!
+    ja: |-
+      あんまり深く掘りすぎないで！
+      いいね～上手！
+  event_bowwowparadise_05_e_70:
+    speaker: "<Narration>"
+    en: "*Plant! *Plant*"
+    ko: 쏙-! 쏙-!
+    ja: ザッ！ザッ！
+  event_bowwowparadise_05_e_71:
+    speaker: "<Narration>"
+    en: "*Plant! *Plant* *Plant*"
+    ko: 쏙-! 쏙-! 쏙-!
+    ja: ザッ！ザッ！ザッ！
+  event_bowwowparadise_05_e_72:
+    speaker: "<Self>"
+    en: Why are you planting grass?
+    ko: 잔디는 왜 심는 거야?
+    ja: なぜ芝生を植えるんだ？
+  event_bowwowparadise_05_e_73:
+    speaker: biscuit
+    en: Since the dogs are going to be playing outside, I don't want them to hurt
+      their paws.
+    ko: |-
+      이제 강아지들이 밖에서도 뛰어놀 텐데.
+      발바닥이 아프지 않았으면 해서요!
+    ja: |-
+      みんな外でも遊ぶことになるので
+      足の裏が痛くならないようにするためです！
+  event_bowwowparadise_05_e_74:
+    speaker: biscuit
+    en: It may be artificial grass, but it's better than nothing.
+    ko: 비록 인공 잔디지만요. 헤헤.
+    ja: 人工芝ですけどね。へへ。
+  event_bowwowparadise_05_e_75:
+    speaker: biscuit
+    en: The ideal solution would be for them to wear booties, but some of them really
+      hate those.
+    ko: 신발 신겨주는 게 가장 좋겠지만, 싫어하는 아이들도 있거든요~
+    ja: 靴を履かせるのが一番いいんですが、\n嫌がる子もいるんですよ～
+  event_bowwowparadise_05_e_76:
+    speaker: biscuit
+    en: After we're done here, I'll install a tent too.
+    ko: 그 뒤엔, 천막도 설치할 거예요!
+    ja: それから、日除けも設置します！
+  event_bowwowparadise_05_e_77:
+    speaker: "<Self>"
+    en: I can help with that.
+    ko: 같이 하자.
+    ja: 一緒にやろう
+  event_bowwowparadise_05_e_78:
+    speaker: biscuit
+    en: Sounds like a plan!
+    ko: 네! 좋아요~
+    ja: はい！お願いします！
+  event_bowwowparadise_05_e_79:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_05_e_80:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_05_e_81:
+    speaker: biscuit
+    en: Sure, you guys can pitch in as well.
+    ko: 응! 너희도 같이해야지~
+    ja: うん！あなたたちも一緒にね。
+  event_bowwowparadise_05_e_82:
+    speaker: "<Monologue>"
+    en: All through the evening, we keep at it.
+    ko: "…그렇게 아침이 다가올 때까지."
+    ja: "…こうして朝が来るまで"
+  event_bowwowparadise_05_e_83:
+    speaker: "<Monologue>"
+    en: The lights of the shelter stay on until the morning.
+    ko: 보호소의 불은 꺼지지 않았다.
+    ja: シェルターの明かりが消えることはなかった
+event_bowwowparadise_06_s:
+  event_bowwowparadise_06_s_1:
+    speaker: "<Narration>"
+    en: Next day.
+    ko: 다음 날.
+    ja: 翌日
+  event_bowwowparadise_06_s_2:
+    speaker: biscuit
+    en: Check this out, Trainer!
+    ko: 헤헤. 훈련사님 이거 봐요!
+    ja: へへ。訓練士さん、これ見てください！
+  event_bowwowparadise_06_s_3:
+    speaker: biscuit
+    en: Tah-dah! It's a sign for our new shelter.
+    ko: 짠! 보호소 이름 팻말이에요!
+    ja: ジャーン！シェルターの看板です！
+  event_bowwowparadise_06_s_4:
+    speaker: "<Self>"
+    en: A sign?
+    ko: 팻말?
+    ja: 看板？
+  event_bowwowparadise_06_s_5:
+    speaker: biscuit
+    en: Yeah! Now that we have a newly constructed shelter, we should give it a name.
+    ko: 네! 보호소도 새롭게 공사했으니, 기념으로 이름을 지어봤어요.
+    ja: はい！シェルターも新しくなったので\n記念に名前を付けてみました。
+  event_bowwowparadise_06_s_6:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_s_7:
+    speaker: biscuit
+    en: I wonder what we should name it?
+    ko: 헤헤. 강아지들이랑 같이 지었어요~
+    ja: へへ。みんなで考えたんですよ～
+  event_bowwowparadise_06_s_8:
+    speaker: biscuit
+    en: I wonder...
+    ko: 어때요? 괜찮나요?!
+    ja: どうですか？大丈夫でしょうか！？
+  event_bowwowparadise_06_s_9:
+    speaker: "<Monologue>"
+    en: We built it together with the dogs, so...
+    ko: 비스킷과 강아지들이 함께 지은 보호소 이름은….
+    ja: ビスケットとマックスたちが一緒に付けた\nシェルターの名前は…
+  event_bowwowparadise_06_s_10:
+    speaker: "<Self>"
+    en: Bow Wow Paradise?
+    ko: 바우 와우 파라다이스?
+    ja: わんわんパラダイス？
+  event_bowwowparadise_06_s_11:
+    speaker: biscuit
+    en: That's pretty good! Like a paradise for dogs.
+    ko: 네! 강아지들의 낙원이라는 뜻이에요.
+    ja: はい！ワンちゃんたちの楽園っていう意味です。
+  event_bowwowparadise_06_s_12:
+    speaker: biscuit
+    en: A place where the dogs can spend their days happy and carefree.
+    ko: 이제 이곳에서 걱정과 근심 없이 행복을 누렸으면 해서요!
+    ja: ここで何も心配することなく、\n幸せに暮らしてほしくて！
+  event_bowwowparadise_06_s_13:
+    speaker: "<Self>"
+    en: That's a wonderful interpretation.
+    ko: 좋은 뜻이네.
+    ja: いい意味だな
+  event_bowwowparadise_06_s_14:
+    speaker: biscuit
+    en: In that case, I'll put up the sign.
+    ko: 헤헤. 이걸 이제 이 땅에 꽂으면!
+    ja: へへ。これを地面に挿せば…
+  event_bowwowparadise_06_s_15:
+    speaker: "<Narration>"
+    en: "*Stick*"
+    ko: 콕-!
+    ja: ザクッ！
+  event_bowwowparadise_06_s_16:
+    speaker: biscuit
+    en: Now we're finally finished.
+    ko: 진짜 완성!
+    ja: 完成！
+  event_bowwowparadise_06_s_17:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_s_18:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_06_s_19:
+    speaker: "<Monologue>"
+    en: It may not be as fancy as what Liter and Centi would have produced,
+    ko: 리타와 센티가 처음 만들어놓은 것만큼 완성도가 높진 않았지만.
+    ja: リターとセンチが初めに建てたものほど\n完成度は高くなかったけれど
+  event_bowwowparadise_06_s_20:
+    speaker: "<Monologue>"
+    en: but it has a little more character now, and it shows off the dogs' personalities.
+    ko: 보호소 강아지들의 특성을 살린, 나름대로 개성 있는 보호소가 되어 있었다.
+    ja: シェルターのみんなの特性を活かした\n個性のあるシェルターになっていた
+  event_bowwowparadise_06_s_21:
+    speaker: biscuit
+    en: What do you think, Trainer?
+    ko: 헤헤. 훈련사님이 보기에는 어때요?
+    ja: へへ。訓練士さんから見てどうですか？
+  event_bowwowparadise_06_s_22:
+    speaker: biscuit
+    en: The dogs and I are quite satisfied!
+    ko: 저랑 강아지들은 꽤 만족하고 있어요!
+    ja: 私とみんなはとても満足しています！
+  event_bowwowparadise_06_s_23:
+    speaker: "<Choice>"
+    en: I like it as well.
+    ko: 나도 마음에 들어.
+    ja: 私も気に入った
+  event_bowwowparadise_06_s_24:
+    speaker: "<Choice>"
+    en: I think it's great.
+    ko: 괜찮은 것 같아.
+    ja: いいと思う
+  event_bowwowparadise_06_s_25:
+    speaker: biscuit
+    en: Hehe. Me too!
+    ko: 헤헤. 저도요!
+    ja: へへ。私もです！
+  event_bowwowparadise_06_s_26:
+    speaker: biscuit
+    en: Not too bad.
+    ko: 이 정도면 나쁘지 않은 것 같아요!
+    ja: これなら悪くないと思います！
+  event_bowwowparadise_06_s_27:
+    speaker: "<Self>"
+    en: We can have Liter put on the finishing touches later.
+    ko: 응. 나중에 리타에게 마무리만 부탁하자.
+    ja: ああ。今度リターに仕上げを頼もう
+  event_bowwowparadise_06_s_28:
+    speaker: biscuit
+    en: Sure thing.
+    ko: 헤헤! 네!!
+    ja: へへ！はい！！
+  event_bowwowparadise_06_s_29:
+    speaker: biscuit
+    en: Well guys, take a look at the shelter we made together!
+    ko: 얘들아 우리가 다 같이 힘을 합쳐 만든 보호소야.
+    ja: みんな！私たちが一緒に力を合わせて建てた\nシェルターだよ。
+  event_bowwowparadise_06_s_30:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_s_31:
+    speaker: puppies
+    en: "*Arf arf arf*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_06_s_32:
+    speaker: "<Choice>"
+    en: "*Woof woof*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_s_33:
+    speaker: "<Choice>"
+    en: "*Bow wow*"
+    ko: 왈왈!
+    ja: ガウガウ！
+  event_bowwowparadise_06_s_34:
+    speaker: puppies
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_06_s_35:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_06_s_36:
+    speaker: "<Self>"
+    en: "... Sorry."
+    ko: "…미안."
+    ja: "…すまない"
+  event_bowwowparadise_06_s_37:
+    speaker: biscuit
+    en: Max and the dogs are really proud of their work, and they say they like it
+      too.
+    ko: 맥스도 강아지들도 뿌듯하고 마음에 든대요~
+    ja: マックスたちも気に入ってるそうです！
+  event_bowwowparadise_06_s_38:
+    speaker: "<Narration>"
+    en: "*Growl*"
+    ko: 꼬르륵-
+    ja: グゥゥー
+  event_bowwowparadise_06_s_39:
+    speaker: "<Narration>"
+    en: "*Groooowl*"
+    ko: 꼬르르르륵-
+    ja: グゥゥゥゥー
+  event_bowwowparadise_06_s_40:
+    speaker: biscuit
+    en: Huh? Are you all hungry?
+    ko: 헙! 얘들아 배고파?
+    ja: はっ！みんなお腹減ったの？
+  event_bowwowparadise_06_s_41:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_s_42:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_06_s_43:
+    speaker: biscuit
+    en: Let's eat then!
+    ko: |-
+      헤헤. 배가 많이 고팠구나~
+      그럼 이제 밥 먹자!
+    ja: |-
+      お腹ペコペコだったんだね～
+      じゃあ今からご飯にしよう！
+  event_bowwowparadise_06_s_44:
+    speaker: biscuit
+    en: How about you, Trainer? Are you going to eat too?
+    ko: 훈련사님도 드실 거죠?
+    ja: 訓練士さんも召し上がりますか？
+  event_bowwowparadise_06_s_45:
+    speaker: "<Choice>"
+    en: As long as it's not dog food.
+    ko: "…강아지 밥만 아니면."
+    ja: "…ドッグフードじゃないなら"
+  event_bowwowparadise_06_s_46:
+    speaker: "<Choice>"
+    en: Sure.
+    ko: "…응?"
+    ja: "…えっ？"
+  event_bowwowparadise_06_s_47:
+    speaker: biscuit
+    en: Don't worry, I've got some kibble that humans can eat as well.
+    ko: |-
+      헤헤.
+      사람도 먹을 수 있는 사료라서 괜찮을 거예요~
+    ja: |-
+      へへ。
+      人間も食べられるご飯なので\n大丈夫なはずですよ～
+  event_bowwowparadise_06_s_48:
+    speaker: biscuit
+    en: At least, it tasted pretty good when I had some.
+    ko: 제가 먹어봤는데 엄청 맛있었거든요!
+    ja: 私も食べてみたんですが、\nとってもおいしかったです！
+  event_bowwowparadise_06_s_49:
+    speaker: biscuit
+    en: I'll bring you a bowl.
+    ko: 훈련사님 거까지 얼른 준비해서 가져올게요!
+    ja: 訓練士さんの分も用意してきますね！
+  event_bowwowparadise_06_s_50:
+    speaker: "<Monologue>"
+    en: Breakfast may end up being more grueling than all that physical labor.
+    ko: "……어쩌면 공사보다 더 힘든 시간이 될지도 모르겠다."
+    ja: "……ひょっとしたら、工事よりつらい時間に\\nなるかもしれない"
+event_bowwowparadise_06_e:
+  event_bowwowparadise_06_e_1:
+    speaker: "<Narration>"
+    en: A few days later.
+    ko: 며칠 후.
+    ja: 数日後
+  event_bowwowparadise_06_e_2:
+    speaker: liter
+    en: All finished!
+    ko: 완성이니라!
+    ja: 完成じゃ！
+  event_bowwowparadise_06_e_3:
+    speaker: liter
+    en: I fortified the foundation and made some improvements to the exterior.
+    ko: 조금 더 뼈대를 튼튼하게 하고 외관을 손봤다.
+    ja: 骨組みをさらに丈夫にして\n外観を整えたぞ。
+  event_bowwowparadise_06_e_4:
+    speaker: liter
+    en: The interior was done perfectly, so I didn't have to do anything there.
+    ko: 내부는 잘 꾸며져 있어서 딱히 손댈 게 없었어.
+    ja: 中は上手く作ってあったから、\nそのままにしてあるのじゃ。
+  event_bowwowparadise_06_e_5:
+    speaker: "<Self>"
+    en: Thank you.
+    ko: 고마워.
+    ja: ありがとう
+  event_bowwowparadise_06_e_6:
+    speaker: biscuit
+    en: Thank you, Liter.
+    ko: 헤헤. 고마워요. 리타!
+    ja: へへ。ありがとうございます、リター！
+  event_bowwowparadise_06_e_7:
+    speaker: "<Monologue>"
+    en: A few days later, Liter came and put a few finishing touches on Bow Wow Paradise.
+    ko: 며칠 뒤, 리타가 돌아와 바우 와우 파라다이스를 손봐주었고.
+    ja: 数日後、リターが来て\nわんわんパラダイスの点検をした
+  event_bowwowparadise_06_e_8:
+    speaker: "<Monologue>"
+    en: The shelter was now well and truly complete.
+    ko: 리타의 손길이 더해져 더욱더 완벽한 건물로 탄생되었다.
+    ja: リターが手を加えることで\nさらに完璧な建物が誕生したのだった
+  event_bowwowparadise_06_e_9:
+    speaker: max
+    en: "*Ahwoooooo*"
+    ko: 아우우우-!
+    ja: ウオーン！
+  event_bowwowparadise_06_e_10:
+    speaker: puppies
+    en: "*Arf arf*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_e_11:
+    speaker: liter
+    en: Haha, you guys happy? Now it won't break if any of you accidently crash into
+      it.
+    ko: |-
+      하하, 녀석들 좋으냐?
+      이제 누가 와서 부딪혀도 절대 무너지지 않을 것이야.
+    ja: |-
+      はは、嬉しいかい？もう誰かが
+      ぶつかっても絶対に崩れないはずじゃ。
+  event_bowwowparadise_06_e_12:
+    speaker: max
+    en: "*Sniff sniff*"
+    ko: 킁킁….
+    ja: クンクン…
+  event_bowwowparadise_06_e_13:
+    speaker: puppies
+    en: "*Sniff sniff sniff*"
+    ko: 킁킁킁….
+    ja: クンクンクン…
+  event_bowwowparadise_06_e_14:
+    speaker: "<Narration>"
+    en: "*Tadadak*"
+    ko: 타다닥-!
+    ja: ダダーッ！
+  event_bowwowparadise_06_e_15:
+    speaker: biscuit
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_bowwowparadise_06_e_16:
+    speaker: "<Monologue>"
+    en: Max and the dogs run past Biscuit and into the shelter.
+    ko: 맥스와 강아지들은 비스킷을 넘어서 보호소로 뛰어 들어갔고.
+    ja: マックスたちはビスケットを超えて\nシェルターへ飛び込み
+  event_bowwowparadise_06_e_17:
+    speaker: "<Monologue>"
+    en: They scamper around excitedly, leaving pawprints everywhere.
+    ko: 이곳저곳을 자유롭게 누비며 흔적을 남기기 시작했다.
+    ja: あちこち自由に駆け回りながら\nマーキングし始めた
+  event_bowwowparadise_06_e_18:
+    speaker: liter
+    en: They're beside themselves with excitement.
+    ko: 녀석들 신났구나.
+    ja: 楽しそうじゃのう。
+  event_bowwowparadise_06_e_19:
+    speaker: "<Self>"
+    en: They seem happy.
+    ko: 기분이 좋아 보여.
+    ja: 嬉しそうに見える
+  event_bowwowparadise_06_e_20:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_e_21:
+    speaker: "<Monologue>"
+    en: Max runs up to Biscuit and licks her face.
+    ko: 맥스는 이내 비스킷에게 달려와 그대로 품에 안겼다.
+    ja: マックスはビスケットの胸に飛び込んだ
+  event_bowwowparadise_06_e_22:
+    speaker: biscuit
+    en: Ahhhh! Max!
+    ko: 으아아-! 맥스!
+    ja: うああー！マックス！
+  event_bowwowparadise_06_e_23:
+    speaker: "<Narration>"
+    en: "*Craaaash*"
+    ko: 우당탕탕-!
+    ja: ドタンバタン！
+  event_bowwowparadise_06_e_24:
+    speaker: "<Narration>"
+    en: "*Lick*"
+    ko: 할짝-!
+    ja: ペロッ！
+  event_bowwowparadise_06_e_25:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_e_26:
+    speaker: biscuit
+    en: Max, that tickles! You like it? Really? Even better than the Ark?
+    ko: |-
+      맥스~ 간지러워!
+      마음에 들어? 정말?! 방주보다 더 좋다고?!
+    ja: |-
+      マックス～くすぐったい！
+      気に入った？本当に！？\nアークよりいいって！？
+  event_bowwowparadise_06_e_27:
+    speaker: "<Choice>"
+    en: I'm not so sure I believe that...
+    ko: 그건… 아닌 것 같은데.
+    ja: それは…違うと思うが
+  event_bowwowparadise_06_e_28:
+    speaker: "<Choice>"
+    en: I think that might be a white lie on his part.
+    ko: "…선의의 거짓말인가."
+    ja: "…善意のウソか"
+  event_bowwowparadise_06_e_29:
+    speaker: max
+    en: "*Grrrrrrr*"
+    ko: 크르르릉….
+    ja: ガルル…
+  event_bowwowparadise_06_e_30:
+    speaker: "<Self>"
+    en: "... Sorry."
+    ko: "…미안."
+    ja: "…すまない"
+  event_bowwowparadise_06_e_31:
+    speaker: biscuit
+    en: What do you say we head outside?
+    ko: 헤헤.
+    ja: へへ。
+  event_bowwowparadise_06_e_32:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_06_e_33:
+    speaker: biscuit
+    en: Let's go for our inaugural run around Bow Wow Paradise.
+    ko: 좋아, 그럼, 파라다이스에서 열심히 한 번 뛰어볼까?
+    ja: よし、それじゃパラダイスの中を\n走ってみよっか！
+  event_bowwowparadise_06_e_34:
+    speaker: biscuit
+    en: Why don't you join us, Trainer?
+    ko: 훈련사님도 같이 뛰어요!
+    ja: 訓練士さんも一緒に走りましょう！
+  event_bowwowparadise_06_e_35:
+    speaker: "<Self>"
+    en: Don't mind if I do.
+    ko: 그래!
+    ja: 分かった
+  event_bowwowparadise_06_e_36:
+    speaker: liter
+    en: You can join them too, Volt.
+    ko: 볼트야 너도 같이 뛰거라!
+    ja: ボルトも一緒に走るんじゃよ！
+  event_bowwowparadise_06_e_37:
+    speaker: volt
+    en: "*Ahwoooooo*"
+    ko: 아우우우-!
+    ja: ウオーン！
+  event_bowwowparadise_06_e_38:
+    speaker: "<Monologue>"
+    en: Biscuit and the dogs frolic amongst the large field.
+    ko: 비스킷과 강아지들은 넓은 들판은 자유롭게 뛰어다녔다.
+    ja: ビスケットとマックスたちは、\n広い芝生の上を自由に走り回った
+  event_bowwowparadise_06_e_39:
+    speaker: "<Monologue>"
+    en: Finally, there's a place where these dogs can be happy.
+    ko: 방주의 강아지들이 행복할 수 있는 곳.
+    ja: アークのイヌが幸せに過ごせる場所
+  event_bowwowparadise_06_e_40:
+    speaker: "<Monologue>"
+    en: That place is called Bow Wow Paradise.
+    ko: 그곳은 바로 비스킷이 있는 바우 와우 파라다이스다.
+    ja: それがここ、ビスケットがいる\nわんわんパラダイスだ
+  event_bowwowparadise_06_e_41:
+    speaker: "<Narration>"
+    en: 'Bow Wow Paradise: End'
+    ko: 'BOW WOW PARADISE : END'
+    ja: BOW WOW PARADISE：END
+event_bowwowparadise_epilogue:
+  event_bowwowparadise_epilogue_1:
+    speaker: "<Monologue>"
+    en: I'm Max.
+    ko: 난 맥스다.
+    ja: ボクはマックス。
+  event_bowwowparadise_epilogue_2:
+    speaker: "<Monologue>"
+    en: The leader of Bow Wow Paradise, and a dog with dignity.
+    ko: 바우 와우 파라다이스의 늠름한 리더지.
+    ja: わんわんパラダイスの頼りになるリーダーさ。
+  event_bowwowparadise_epilogue_3:
+    speaker: joy
+    en: "*Boof boof* (Max! Teddy says his leg hurts.)"
+    ko: 멍멍! (맥스! 테디가 다리 아프대!)
+    ja: ワンワン！\n（マックス！テディが足が痛いって！）
+  event_bowwowparadise_epilogue_4:
+    speaker: max
+    en: "*Bow Wow* (All right, I'll have his mat swapped out for a thicker one.)"
+    ko: 왈왈! (그럼, 매트를 더 두꺼운 거로 바꿔주지!)
+    ja: ガウガウ！\n（じゃあマットを厚いやつに替えよう！）
+  event_bowwowparadise_epilogue_5:
+    speaker: bubu
+    en: "*Woof woof woof* (Max, Buddy peed on the floor.)"
+    ko: 컹컹컹! (맥스! 버디가 바닥에 쉬했어!)
+    ja: キャンキャン！\n（マックス！バディが床におしっこしたよ！）
+  event_bowwowparadise_epilogue_6:
+    speaker: max
+    en: "*Ruff ruff* (Let's get some paper towels and wipe it off.)"
+    ko: 멍멍! (휴지로 같이 닦자!)
+    ja: ワンワン！\n（ティッシュで一緒に拭こう！）
+  event_bowwowparadise_epilogue_7:
+    speaker: loki
+    en: "*Woo woo woo*(Max! Lily is bothering me!)"
+    ko: 멍멍멍멍! (맥스! 릴리가 괴롭혀!)
+    ja: ワンワンワンワン！\n（マックス！リリーがいじめるんだ！）
+  event_bowwowparadise_epilogue_8:
+    speaker: lily
+    en: "*Grrrrrrr* (You ate my snack first!)"
+    ko: 크르르릉!! (로키가 먼저 내 간식 먹었잖아!)
+    ja: ガルルル！！\n（ロキが先におやつを食べちゃったんでしょ！）
+  event_bowwowparadise_epilogue_9:
+    speaker: babi
+    en: "*Whine* (Max, I'm hungry.)"
+    ko: 끼잉…. (맥스… 나 배고파.)
+    ja: クゥン…\n（マックス…お腹空いた…）
+  event_bowwowparadise_epilogue_10:
+    speaker: buddy
+    en: "*Bow wow wow* (Max! I need to poop!)"
+    ko: 왈왈왈!!! (맥스! 나 똥 마려워!)
+    ja: ガウガウガウ！！\n（マックス！ウンチしたい！！）
+  event_bowwowparadise_epilogue_11:
+    speaker: max
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_epilogue_12:
+    speaker: "<Monologue>"
+    en: I've got to tell Biscuit about all these issues.
+    ko: "…이것들은 비스킷에게 말해야겠다."
+    ja: "…これはビスケットに言わなければ。"
+  event_bowwowparadise_epilogue_13:
+    speaker: "<Narration>"
+    en: "*Ta-da-dak*"
+    ko: 타다닥-!
+    ja: ダダーッ！
+  event_bowwowparadise_epilogue_14:
+    speaker: "<Monologue>"
+    en: I climb onto the platform situated in the middle of the yard.
+    ko: 나는 마당 중간에 있는 단상 위로 올라갔다.
+    ja: ボクは庭の中央にあるステージに上がった。
+  event_bowwowparadise_epilogue_15:
+    speaker: "<Monologue>"
+    en: This place provides the best vantage point in all of Bow Wow Paradise.
+    ko: 이곳은 바우 와우의 모든 풍경이 보이는 장소다.
+    ja: ここはわんわんパラダイスの\n全体が見渡せる場所だ。
+  event_bowwowparadise_epilogue_16:
+    speaker: "<Monologue>"
+    en: Biscuit made it especially for me.
+    ko: 비스킷이 날 위해 만들어줬다.
+    ja: ビスケットがボクのために作ってくれたんだ。
+  event_bowwowparadise_epilogue_17:
+    speaker: coco
+    en: "*Bark bark* (Catch me!)"
+    ko: 멍멍! (나 잡아봐라!)
+    ja: ワンワン！（捕まえてごら～ん！）
+  event_bowwowparadise_epilogue_18:
+    speaker: bubu
+    en: "*Woof woof?* (Why should I?)"
+    ko: 멍멍? (내가 왜?)
+    ja: ワンワン？（どうしてボクが？）
+  event_bowwowparadise_epilogue_19:
+    speaker: buddy
+    en: "*Bow! Grrrr*"
+    ko: 멍! 끄응…! (여기서 똥 싸야지.)
+    ja: ワン！ううん…！（ここでウンチしなきゃ）
+  event_bowwowparadise_epilogue_20:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_epilogue_21:
+    speaker: "<Monologue>"
+    en: Such a peaceful day today.
+    ko: 음! 역시 오늘도 평화롭군.
+    ja: うん！今日も平和だな。
+  event_bowwowparadise_epilogue_22:
+    speaker: biscuit
+    en: Max!
+    ko: 맥스~
+    ja: マックス～！
+  event_bowwowparadise_epilogue_23:
+    speaker: biscuit
+    en: Where are you? It's time to eat.
+    ko: |-
+      어딨어?
+      밥 먹을 시간이야~
+    ja: |-
+      どこにいるの？
+      ご飯の時間だよ～
+  event_bowwowparadise_epilogue_24:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_epilogue_25:
+    speaker: biscuit
+    en: There you are.
+    ko: 여기 있었네!
+    ja: ここにいたんだ！
+  event_bowwowparadise_epilogue_26:
+    speaker: biscuit
+    en: What have you been up to?
+    ko: 헤헤. 뭐 하고 있었어?
+    ja: へへ。何してたの？
+  event_bowwowparadise_epilogue_27:
+    speaker: biscuit
+    en: I brought some beef-flavored kibble, your favorite.
+    ko: |-
+      아, 참! 오늘 밥은 예전에 맥스가 먹고 싶다고 했던.
+      소고기 맛으로 가져왔어!
+    ja: |-
+      あっ、そうだ！\n今日は前にマックスが食べたがってた
+      牛肉味のご飯だよ！
+  event_bowwowparadise_epilogue_28:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_epilogue_29:
+    speaker: "<Monologue>"
+    en: Biscuit always knows what I like.
+    ko: 역시 비스킷은 내가 원하는 걸 잘 안다.
+    ja: やっぱりビスケットは\nボクの望みをよく分かっている。
+  event_bowwowparadise_epilogue_30:
+    speaker: "<Monologue>"
+    en: If she wants a bite or two, I'll let her.
+    ko: 오늘도 사료를 탐내면 조금 줘야겠다.
+    ja: 今日もご飯を欲しがったら少しあげないと。
+  event_bowwowparadise_epilogue_31:
+    speaker: "<Monologue>"
+    en: "*Pour*"
+    ko: 촤르륵-!
+    ja: ザアー！
+  event_bowwowparadise_epilogue_32:
+    speaker: biscuit
+    en: Go ahead and eat up so you can play with the others.
+    ko: 자! 얼른 먹고 강아지들이랑 놀자!
+    ja: はい！早く食べてみんなと遊ぼうね！
+  event_bowwowparadise_epilogue_33:
+    speaker: max
+    en: "*Ruff ruff ruff*"
+    ko: 멍멍멍!
+    ja: ワンワンワン！
+  event_bowwowparadise_epilogue_34:
+    speaker: biscuit
+    en: Yes, we played Booboo's favorite game, Tug of War, yesterday,
+    ko: 응! 오늘은 맥스랑 릴리가 좋아하는 공놀이할 거야.
+    ja: うん！今日はマックスとリリーが好きな\nボール遊びをするよ。
+  event_bowwowparadise_epilogue_35:
+    speaker: biscuit
+    en: so today we'll toss a ball. I know that's what you and Lily prefer.
+    ko: 어제는 부부가 좋아하는 터그 놀이했으니까~
+    ja: 昨日はブブが好きな引っ張り合いをしたから～
+  event_bowwowparadise_epilogue_36:
+    speaker: biscuit
+    en: Ah, right. On the way back from Royal Road today, I saw a dog that was wearing
+      a ribbon.
+    ko: |-
+      아, 참 오늘 로열 로드 다녀왔는데.
+      거기서 리본을 단, 털이 고운 강아지를 봤어.
+    ja: |-
+      あっ、そうだ。\n今日ロイヤルロードに行ってきたんだけど
+      そこでリボンをつけた\n毛並みがきれいなワンちゃんを見たよ。
+  event_bowwowparadise_epilogue_37:
+    speaker: biscuit
+    en: It was positively adorable! I think you'd be cute with a ribbon too.
+    ko: |-
+      너무 귀여운 거 있지?
+      맥스도 리본 달면 귀여울 텐데~
+    ja: |-
+      すっごくかわいかったんだよね。
+      マックスもリボンをつけたらかわいいのに～
+  event_bowwowparadise_epilogue_38:
+    speaker: "<Monologue>"
+    en: Please, I'm far too dignified for such garish accessories.
+    ko: 나같이 늠름한 강아지에게 리본이라니.
+    ja: ボクみたいにりりしいイヌにリボンだなんて。
+  event_bowwowparadise_epilogue_39:
+    speaker: "<Narration>"
+    en: "*Chomp* *Chomp* *Chomp* *Crunch*"
+    ko: |-
+      찹- 찹- 찹-
+      까드득-!
+    ja: |-
+      パクパクパク
+      ガリッ！
+  event_bowwowparadise_epilogue_40:
+    speaker: biscuit
+    en: "*Drool* Is it good?"
+    ko: |-
+      …츄릅.
+      맛있어?
+    ja: |-
+      …じゅるっ。
+      おいしい？
+  event_bowwowparadise_epilogue_41:
+    speaker: max
+    en: "*Ruff?*"
+    ko: 멍?
+    ja: ワン？
+  event_bowwowparadise_epilogue_42:
+    speaker: biscuit
+    en: Oh, no, I'm okay.
+    ko: 아, 아냐! 괜찮은데…!
+    ja: あ、ううん！大丈夫だよ…！
+  event_bowwowparadise_epilogue_43:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_epilogue_44:
+    speaker: biscuit
+    en: "... Okay, just a little bite. Hee hee."
+    ko: "…그럼 한 입만 먹을게. 헤헤."
+    ja: "…じゃあ一口だけもらうね。へへ。"
+  event_bowwowparadise_epilogue_45:
+    speaker: biscuit
+    en: "*Chomp chomp*"
+    ko: 옴뇸뇸!
+    ja: モグモグ！
+  event_bowwowparadise_epilogue_46:
+    speaker: "<Monologue>"
+    en: If that's what you call a "little" bite...
+    ko: "…녀석. 역시 오늘도 잘 먹는군."
+    ja: "…やっぱり今日もよく食べるな。"
+  event_bowwowparadise_epilogue_47:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_bowwowparadise_epilogue_48:
+    speaker: "<Monologue>"
+    en: Back in the day, I dreamt of the outside.
+    ko: 한때 나는 바깥을 꿈꿨었다.
+    ja: かつてボクは外の世界を夢見ていた。
+  event_bowwowparadise_epilogue_49:
+    speaker: "<Monologue>"
+    en: Looking back, I realize now how ignorant I was then.
+    ko: 생각해 보면 참 철없는 행동이었다.
+    ja: 考えてみたら、本当に自分勝手な行動だった。
+  event_bowwowparadise_epilogue_50:
+    speaker: biscuit
+    en: "*Munch munch* Aren't you eating, Max?"
+    ko: |-
+      옴뇸뇸뇨…!
+      맥스는 안 먹어?
+    ja: |-
+      モグモグ…！
+      マックスは食べないの？
+  event_bowwowparadise_epilogue_51:
+    speaker: max
+    en: "*Ruff ruff*"
+    ko: 멍멍!
+    ja: ワンワン！
+  event_bowwowparadise_epilogue_52:
+    speaker: biscuit
+    en: You're full already? Well, in that case... I'll finish the rest!
+    ko: |-
+      벌써 배부르다고?
+      …움. 그럼, 어쩔 수 없이 내가 다 먹어야겠다!
+    ja: |-
+      もうお腹いっぱいだって？
+      …うーん。じゃあ、仕方ないから私が食べるね！
+  event_bowwowparadise_epilogue_53:
+    speaker: biscuit
+    en: Omnomnomnom!
+    ko: 옴뇸뇸뇸!
+    ja: モグモグ！
+  event_bowwowparadise_epilogue_54:
+    speaker: "<Monologue>"
+    en: However.
+    ko: 하지만.
+    ja: でも。
+  event_bowwowparadise_epilogue_55:
+    speaker: "<Monologue>"
+    en: Things are different now.
+    ko: 이젠 다르다.
+    ja: 今は違う。
+  event_bowwowparadise_epilogue_56:
+    speaker: "<Monologue>"
+    en: I like it here better than the Ark.
+    ko: 방주보다 이곳이 더 좋다.
+    ja: アークよりもここが好きだ。
+  event_bowwowparadise_epilogue_57:
+    speaker: "<Monologue>"
+    en: I'll do whatever it takes to protect Biscuit and the other dogs.
+    ko: 난 여기서 비스킷과 강아지들을 지킬 것이다.
+    ja: ボクはここでビスケットとみんなを守るんだ。
+  event_bowwowparadise_epilogue_58:
+    speaker: "<Monologue>"
+    en: Because this is a place
+    ko: 왜냐하면,
+    ja: なぜって、
+  event_bowwowparadise_epilogue_59:
+    speaker: "<Monologue>"
+    en: that we made with our own hands.
+    ko: 이곳은 우리가 만든.
+    ja: ここはボクたちが作った
+  event_bowwowparadise_epilogue_60:
+    speaker: "<Monologue>"
+    en: This is our paradise.
+    ko: 우리의 낙원,
+    ja: ボクたちの楽園、
+  event_bowwowparadise_epilogue_61:
+    speaker: "<Monologue>"
+    en: Our home.
+    ko: 우리의 고향.
+    ja: ボクたちの故郷。
+  event_bowwowparadise_epilogue_62:
+    speaker: "<Monologue>"
+    en: Bow Wow Paradise.
+    ko: 바우 와우 파라다이스니까.
+    ja: わんわんパラダイスだから。

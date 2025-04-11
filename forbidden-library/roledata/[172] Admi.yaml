@@ -1,0 +1,445 @@
+---
+172_name:
+  en: Admi
+  ko: 애드미
+  ja: アドミ
+c172_description:
+  en: A Nikke from Triangle. Her time in the army has given her a maturity far beyond
+    her years. Kittens are her favorite.
+  ko: "군대 속에서 너무 일찍 철이 들어버린 트라이앵글 스쿼드의 막내. \n고양이를 좋아한다."
+  ja: |-
+    軍隊の中で大人になるのが早すぎた
+    トライアングル部隊の少女。
+    ネコが好き。
+172_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50172:
+  en: Admi's Spare Body
+  ko: 애드미 스페어 바디
+  ja: アドミのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+11722_name:
+  en: Kitten's Breath
+  ko: 고양이 숨결
+  ja: ネコの息遣い
+11722_description:
+  en: |-
+    ■ Affects 2 allies with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Damage Taken ▼ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 2기에게
+    <color=#00AEFF>[받는 대미지 {description_value_01}% ▼] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い味方2機に
+    <color=#00AEFF>「受けるダメージ{description_value_01}％▼」
+    「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21721_name:
+  en: Helping Hand
+  ko: 응원의 손길
+  ja: 応援の手
+21721_description:
+  en: |-
+    ■ Activates when attacked {description_value_01} time(s). Affects all allies.
+    <color=#00AEFF>Charge Damage <word_group=10029>Multiplier</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ {description_value_01}회 피격 시 아군 전체에게
+    <color=#00AEFF>[차지 대미지 {description_value_02}% <word_group=10029>배율</word_group> ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■{description_value_01}回攻撃を受けた時、味方全体に
+    <color=#00AEFF>「チャージダメージ{description_value_02}％<word_group=10029>倍率</word_group>▲」
+    「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11723_name:
+  en: Love Returned
+  ko: 애정의 보은
+  ja: 愛情の恩返し
+11723_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Reloading Speed ▲ {description_value_01}% for {description_value_02} sec.
+    Critical Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[재장전 속도 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [크리티컬 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「リロード速度{description_value_01}％▲」「{description_value_02}秒間維持」
+    「クリティカルダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+170_name:
+  en: Privaty
+  ko: 프리바티
+  ja: プリバティ
+171_name:
+  en: Yulha
+  ko: 율하
+  ja: ユルハ
+c172_Lobby_Touch_1:
+  en: As long as you're with me, Commander, I feel safe.
+  ko: 지휘관과 같이 있으면 편안해져요.
+  ja: 指揮官と一緒にいると落ち着きます。
+c172_Lobby_Touch_2:
+  en: Is something on your mind?
+  ko: 무슨 걱정이라도 있으신가요?
+  ja: 何か心配事でもあるんですか？
+c172_Lobby_Touch_3:
+  en: Oh. That feels quite nice.
+  ko: 조금 더 쓰다듬어주세요. 지휘관이 쓰다듬어주는 건 좋아요.
+  ja: |-
+    もっとなでてください。
+    指揮官だけは特別ですから。
+c172_Lobby_Touch_Love_1:
+  en: Wanna go see the kitten?
+  ko: 지휘관. 같이 고양이 보러 가실래요?
+  ja: 指揮官、一緒にネコを見に行きませんか？
+c172_Lobby_Touch_Love_2:
+  en: I always have such fun spending time with you.
+  ko: 지휘관이랑 함께 있어서 행복해요.
+  ja: 指揮官と一緒にいられて幸せです。
+c172_Lobby_Touch_Love_3:
+  en: Your hand is so warm. Can you... touch me a little more?
+  ko: 많이 쓰다듬어 주세요. 지휘관의 손, 정말 좋아해요.
+  ja: |-
+    たくさんなでてください。
+    指揮官の手、大好きです。
+c172_Lobby_Stay_1:
+  en: I wanna go see the kitty.
+  ko: 아… 고양이 보러 가고 싶다.
+  ja: ふぅ…ネコ見に行きたいな。
+c172_Lobby_Stay_Love_1:
+  en: Is the Commander here? Guess not...
+  ko: 지휘관 거기 계신가요? 안 계시나 보네… 보고 싶다.
+  ja: |-
+    指揮官、そこにいらっしゃるのですか？
+    いないみたい…会いたいな。
+c172_Outpost_Touch_1:
+  en: Commander, will you... drop by the Courthouse when you have time?
+  ko: 지휘관, 가끔씩은… 법원에 들려주시겠어요?
+  ja: 指揮官、たまには… 裁判所にも 寄ってくれませんか？
+c172_Outpost_Touch_2:
+  en: What is a Courthouse doing in the Outpost?
+  ko: 그런데 전초기지에 왜 법원이 있는 건가요?
+  ja: どうして前哨基地に 裁判所があるんでしょうか？
+c172_Outpost_Touch_3:
+  en: It's smaller than the Ark, but fully equipped.
+  ko: 방주보다 작은데도 있을 건 다 있네요.
+  ja: アークよりも小さいのに、 一通りのものは揃ってますね。
+c172_Gacha_Get_1:
+  en: Please don't let me be abandoned again...
+  ko: 이번에는 부디, 버려지지 않기를….
+  ja: 今度はどうか、捨てられませんように…
+c172_Reinforce_1:
+  en: I feel safe now.
+  ko: 안전해진 기분이에요.
+  ja: 守られている気がします。
+c172_Reinforce_2:
+  en: Thank you for helping me.
+  ko: 도와주셔서 감사합니다.
+  ja: 助けていただき、ありがとうございます。
+c172_Reinforce_3:
+  en: You must have put your heart and soul into it... Thank you, Commander!
+  ko: 구하기 힘드셨을 텐데… 고마워요. 지휘관.
+  ja: 集めるの大変だったでしょうに…ありがとうございます。指揮官。
+c172_Gift_1:
+  en: Th-thank you!
+  ko: 아… 감사합니다.
+  ja: あ…ありがとうございます。
+c172_Gift_2:
+  en: But... I don't have anything to give in return...
+  ko: 저… 답례를 준비하지 못했는데….
+  ja: あの…お返しの準備がまだできていませんが…
+c172_Gift_3:
+  en: Is this really for me?
+  ko: 정말 이게 제 것인가요?
+  ja: 本当にこれ、私がいただいてもいいんですか？
+c172_Attractive_Up_1:
+  en: I'm a little scared... I think I'm starting to get attached.
+  ko: 무서울 정도로… 마음이 커져버렸네요.
+  ja: 怖いほど…この思いが大きくなってしまいました。
+c172_Attractive_Up_2:
+  en: Is this all just a wonderful dream?
+  ko: 이렇게 행복해도 되는 걸까요?
+  ja: こんなに幸せでいいのでしょうか？
+c172_Attractive_Up_3:
+  en: We've gotten closer... but I may end up regretting it.
+  ko: 아… 이렇게 많이 좋아지면 나중에 더 힘들어지는데….
+  ja: |-
+    ふぅ…
+    こんなに好きになってしまうと、あとで苦しいのに…
+c172_Party_Deploy_1:
+  en: Preparation finished.
+  ko: 준비 완료했습니다.
+  ja: 準備完了しました。
+c172_Field_Touch_1:
+  en: Awaiting instructions.
+  ko: 네. 말씀해 주세요.
+  ja: はい。お話しください。
+c172_Field_Go_1:
+  en: I will do your bidding.
+  ko: 명령을 이행할게요.
+  ja: 命令を実行します。
+c172_Battle_Enter_1:
+  en: Take care, Commander!
+  ko: 지휘관 조심하세요!
+  ja: 指揮官、気をつけてください。
+c172_Battle_Ready_1:
+  en: This place is dangerous. Let's go somewhere safe.
+  ko: 위험하니까 안전한 곳에 계세요.
+  ja: 危険ですので安全な場所にいてください。
+c172_Battle_Ready_2:
+  en: Commencing battle.
+  ko: 전투 시작하겠습니다.
+  ja: 戦闘を始めます。
+c172_Battle_Ready_3:
+  en: Thanks in advance.
+  ko: 잘 부탁드릴게요.
+  ja: よろしくお願いします。
+c172_Reload_1:
+  en: Let me suit up and I'll be right out.
+  ko: 재장전 하고 갈게요.
+  ja: リロードしてから行きます。
+c172_Reload_2:
+  en: "... I must go back..."
+  ko: "…다시 가야 해."
+  ja: "…もう一度行かなきゃ。"
+c172_Reload_3:
+  en: Reload...
+  ko: 탄을 다시 채우고….
+  ja: 弾を入れ直して…
+c172_Ult_Skill_Ready_1:
+  en: I'm ready.
+  ko: 준비됐습니다.
+  ja: 準備できました。
+c172_Ult_Skill_1:
+  en: Please. It's for everyone!
+  ko: 잘 부탁해. 모두를 돕는 거야!
+  ja: よろしくお願いします。みんなを助けましょう！
+c172_FullBurst_1:
+  en: I'll give it my all!
+  ko: 여기에 전부 쏟아 넣을게요!
+  ja: ここに全部注ぎ込みます！
+c172_Kill_Monster_1:
+  en: Cleared.
+  ko: 제거했습니다.
+  ja: 排除しました。
+c172_Kill_Monster_2:
+  en: Target re-selected.
+  ko: 목표 재설정.
+  ja: 目標再設定。
+c172_Kill_Monster_3:
+  en: Target seems to have been cleared.
+  ko: 처치한 듯합니다.
+  ja: 退治できたみたいです。
+c172_Damage_1:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c172_Damage_2:
+  en: Argh!
+  ko: 흑.
+  ja: ふっ。
+c172_Damage_3:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c172_Die_1:
+  en: This task is too difficult for me... I'm sorry!
+  ko: 제겐 무리인 임무였나 봅니다… 죄송합니다.
+  ja: 私には無理な任務だったようです…申し訳ありません。
+c172_Win_1:
+  en: We won... What a blessing!
+  ko: 이겼군요… 다행이네요.
+  ja: 勝ったんですね…よかったです。
+172_cv_ja:
+  en: 'CV: Maaya Uchida'
+  ko: 'CV : 우치다 마아야'
+  ja: CV：内田真礼
+172_cv_ko:
+  en: 'CV: Gwak Gyu-mi'
+  ko: 'CV : 곽규미'
+  ja: CV：クァク・ギュミ
+172_cv_en:
+  en: "CV: \tSuzie Yeung"
+  ko: 'CV : 수지 융'
+  ja: CV：Suzie Yeung

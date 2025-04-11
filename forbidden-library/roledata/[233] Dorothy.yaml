@@ -1,0 +1,707 @@
+---
+233_name:
+  en: Dorothy
+  ko: 도로시
+  ja: ドロシー
+c233_description:
+  en: |-
+    The leader of the Inherit Squad.
+    In a squad renowned for its superlative strength, she is recognized as the most powerful amongst all of them.
+    Her angelic smile conceals the true contents of her heart, which remain a mystery.
+  ko: |-
+    인헤르트 스쿼드의 리더.
+    최강이라 일컬어지는 인헤르트 내에서도 가장 압도적인 무력을 지녔다.
+    늘 천사처럼 미소를 짓고 있지만, 그 속엔 알 수 없는 뭔가로 가득 차 있다.
+  ja: |-
+    インヘルト部隊のリーダー。
+    最強と言われているインヘルトの中でも最も圧倒的な武力を誇る。
+    いつも天使のように微笑んでいるが、その中には欲望が
+    渦巻いている。
+233_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_233:
+  en: Dorothy's Spare Body
+  ko: 도로시 스페어 바디
+  ja: ドロシーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+12332_name:
+  en: Baptism
+  ko: 세례
+  ja: 洗礼
+12332_description:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Scorch to Dust: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[초토화 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% <word_group=10019>분배 대미지</word_group>]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「焦土化：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    <word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22331_name:
+  en: Holy Fire
+  ko: 성화
+  ja: 聖火
+22331_description:
+  en: "■ Activates when firing the last bullet. Affects all allies.\n<color=#00AEFF><word_group=10031>Cooldown</word_group>
+    of Burst Skill ▼ {description_value_01} sec.</color> \n■ Activates when firing
+    the last bullet during Manifestation. Affects all allies.\n<color=#00AEFF><word_group=10011>Damage
+    to Parts</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>"
+  ko: |-
+    ■ 마지막 탄환 공격 시 아군 전체에게
+    <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_01}초 ▼]</color>
+    ■ 마지막 탄환 공격 시 자신이 발현 상태라면 아군 전체에게
+    <color=#00AEFF>[<word_group=10011>파츠 대미지</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■最後の弾丸で攻撃した時、味方全体に
+    <color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_01}秒▼」</color>
+    ■最後の弾丸で攻撃した時、自分が発現状態なら、味方全体に
+    <color=#00AEFF>「<word_group=10011>パーツダメージ</word_group> {description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12333_name:
+  en: Paradise Lost
+  ko: 실낙원
+  ja: 失楽園
+12333_description_1:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Manifestation: <word_group=10031>Cooldown</word_group> of Skill 2 ▼ {description_value_05} sec, lasts for {description_value_01} sec.
+    Gain Pierce for {description_value_02} sec.</color>
+    ■ Affects a designated enemy.
+    <color=#00AEFF><word_group=10018>Brand</word_group>: Accumulates total damage dealt to the designated enemy during the duration, and then deals that accumulated damage to all enemies as <word_group=10019>Distributed Damage</word_group> once the duration ends. The maximum accumulated damage is {description_value_03}% of the caster's <word_group=10025>final</word_group> ATK. Lasts for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[발현 : 스킬 2 <word_group=10031>재사용 시간</word_group> {description_value_05}초 ▼] [{description_value_01}초 유지]
+    [관통 특화] [{description_value_02}초 유지]</color>
+    ■ 지정한 적 대상 1기에게
+    <color=#00AEFF>[<word_group=10018>낙인</word_group> : 유지 시간동안 해당 적의 받는 대미지 일괄 누적. 유지 시간 만료 후 누적 대미지만큼 적 전체에 <word_group=10019>분배 대미지</word_group>. 대미지 최대 누적량은 시전자 <word_group=10025>최종</word_group> 공격력의 {description_value_03}%만큼 가능] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「発現：スキル2の<word_group=10031>クールタイム</word_group>{description_value_05}秒▼」
+    「{description_value_01}秒間維持」
+    「貫通特化」「{description_value_02}秒間維持」</color>
+    ■指定された敵対象1機に<color=#00AEFF>「<word_group=10018>烙印</word_group>：効果時間中、対象の受けるダメージを一括で累計。効果時間終了後、累計ダメージに応じて敵全体に<word_group=10019>分配ダメージ</word_group>。ダメージの最大蓄積量はスキル発動者の<word_group=10025>最終</word_group>攻撃力の{description_value_03}％」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+231_name:
+  en: Isabel
+  ko: 이사벨
+  ja: イサベル
+230_name:
+  en: Harran
+  ko: 하란
+  ja: ハラン
+232_name:
+  en: Noah
+  ko: 노아
+  ja: ノア
+c233_Lobby_Touch_1:
+  en: I will guide you to paradise, Your Grace.
+  ko: 귀하를 낙원으로 안내하겠습니다.
+  ja: あなたを楽園にご案内します。
+c233_Lobby_Touch_2:
+  en: Those deserving the blessing of paradise shall have it.
+  ko: 자격을 갖춘 이들에게 낙원의 축복이 있기를.
+  ja: 資格を持つ人々に、楽園の祝福がありますように。
+c233_Lobby_Touch_3:
+  en: This is Eden's armor. Do you like it?
+  ko: 에덴의 무장입니다. 마음에 드시나요?
+  ja: |-
+    エデンの武装です。
+    お気に召しました？
+c233_Lobby_Touch_Love_1:
+  en: So long as we share a common goal, we can be together moving forward.
+  ko: 목적이 같다면 앞으로도 함께할 수 있겠죠.
+  ja: 目的が同じなら、これからも共に歩めるでしょう。
+c233_Lobby_Touch_Love_2:
+  en: I will have plenty of use for you in the future, Your Grace.
+  ko: 귀하라는 열쇠를 앞으로도 잘 사용해 볼게요.
+  ja: あなたという鍵を、これからも使わせていただきますね。
+c233_Lobby_Touch_Love_3:
+  en: Don't you look forward to life in paradise?
+  ko: 낙원에서의 삶이 기대되지 않나요?
+  ja: 楽園での生活が楽しみではありませんか？
+c233_Lobby_Stay_1:
+  en: Why aren't you saying anything? You aren't leaving me here while you do something
+    else, are you?
+  ko: |-
+    왜 아무 말씀이 없는 거죠?
+    설마 절 여기 두고 다른 일을 하러 가신 건 아니겠죠?
+  ja: |-
+    どうして何も言わないのですか？
+    まさか、私を置いて他のことをしに行ったわけじゃありませんよね？
+c233_Lobby_Stay_Love_1:
+  en: Go ahead if you have a mission to complete. I'll keep watch over you here.
+  ko: |-
+    하실 일이 있다면 다녀오세요.
+    저는 이곳에서 귀하를 관찰하고 있을 테니.
+  ja: |-
+    用事があるならどうぞ。
+    私はここであなたを観察していますから。
+c233_Outpost_Touch_1:
+  en: Neither the Ark nor Eden... interesting. This place reminds me of you.
+  ko: |-
+    방주도 에덴도 아닌 곳.
+    후후… 당신을 닮은 곳이네요.
+  ja: |-
+    アークでもエデンでもない 場所。
+    ふふ… あなたらしい場所ですね。
+c233_Outpost_Touch_2:
+  en: Is this place your own paradise? Intriguing.
+  ko: |-
+    이곳이 당신이 만든 낙원인가요?
+    흥미롭네요.
+  ja: |-
+    ここがあなたが作った 楽園ですか？
+    興味深いですね。
+c233_Outpost_Touch_3:
+  en: Wings of Victory? Pfft. A group of weaklings converging to make something as
+    useless as themselves.
+  ko: "승리의 날개라… \n후후, 힘없는 자들이 모여 쓸모없는 걸 만들고 있었군요."
+  ja: |-
+    勝利の翼ですか…
+    ふふ、力なき者たちが集まって、 無駄なものを作ったのですね。
+c233_Gacha_Get_1:
+  en: You called me? My name is Dorothy, and I guide others to paradise, Your Grace.
+  ko: |-
+    축하합니다. 낙원의 안내자, 도로시.
+    귀하의 부름을 받고 찾아왔습니다.
+  ja: |-
+    おめでとうございます。
+    楽園の案内人、ドロシー。
+    あなたに呼ばれてやってきました。
+c233_Reinforce_1:
+  en: To thank you, I will give you results.
+  ko: 성의만큼의 결과를 보여드릴게요.
+  ja: 誠意のある結果をお見せします。
+c233_Reinforce_2:
+  en: Thank you for this.
+  ko: 정성에 감사드립니다.
+  ja: 真心をありがとうございます。
+c233_Reinforce_3:
+  en: I'm quite capable of leveling up in the Ark as well, I see.
+  ko: 방주의 강화 기술도 나쁘진 않네요.
+  ja: アークの強化技術も悪くありませんね。
+c233_Gift_1:
+  en: Is this how you take care of Nikkes?
+  ko: 이것이 귀하께서 니케들을 관리하는 방식이군요.
+  ja: これがあなたがニケを管理する方法なのですね。
+c233_Gift_2:
+  en: Are you trying to get my attention?
+  ko: 제 관심이 필요하신가요?
+  ja: 私の興味を引きたいのですか？
+c233_Gift_3:
+  en: Your efforts will not go unnoticed.
+  ko: |-
+    귀하의 노력은 보답받을 거예요.
+    어떤 방식으로든 말이죠.
+  ja: |-
+    あなたの努力は報われるでしょう。
+    どんな形であれ。
+c233_Attractive_Up_1:
+  en: Recently, my mind has been filled with you.
+  ko: 요즘 제 관심은 오직 귀하께 있답니다.
+  ja: 最近、あなたにしか興味がありません。
+c233_Attractive_Up_2:
+  en: Fine, you have piqued my interest. Satisfied?
+  ko: |-
+    제 흥미를 이끌어 내셨군요.
+    만족스러우신가요?
+  ja: |-
+    私の気をひきましたね。
+    満足ですか？
+c233_Attractive_Up_3:
+  en: Shall I use you, or make you mine... I'm not so sure what I'll do.
+  ko: "귀하를 이용하고 싶은 마음과 갖고 싶은 마음의 균형이 \n어느 쪽으로 기울어질지… 저도 기대가 되네요."
+  ja: |-
+    あなたを利用したい気持ちと、手に入れたい気持ちのバランスが
+    どちらに傾くか…私も楽しみです。
+c233_Party_Deploy_1:
+  en: If you want, I will join you, Your Grace.
+  ko: 귀하께서 원하신다면 함께 해드리죠.
+  ja: あなたが望むなら、共にまいりましょう。
+c233_Field_Touch_1:
+  en: Did you find it?
+  ko: 찾으셨나요?
+  ja: お呼びですか？
+c233_Field_Go_1:
+  en: Very well, moving out.
+  ko: 예. 움직여 드리죠.
+  ja: はい。かしこまりました。
+c233_Battle_Enter_1:
+  en: Coming.
+  ko: 옵니다.
+  ja: 来ます。
+c233_Battle_Ready_1:
+  en: I'm here. There's no cause for concern.
+  ko: 긴장하실 필요 없습니다. 제가 있으니까요.
+  ja: |-
+    緊張する必要はありません。
+    私がいますから。
+c233_Battle_Ready_2:
+  en: I will show you what Eden is capable of.
+  ko: 에덴의 기술을 보여드리죠.
+  ja: エデンの技術をご覧にいれましょう。
+c233_Battle_Ready_3:
+  en: This will be finished soon. You can rest for a moment.
+  ko: 금방 끝날 테니, 조금만 쉬고 계세요.
+  ja: すぐに終わるので、休んでいてください。
+c233_Reload_1:
+  en: Reloading.
+  ko: 재장전할게요.
+  ja: リロードします。
+c233_Reload_2:
+  en: This may take more time than I thought.
+  ko: 예상보다 시간이 좀 걸리겠네요.
+  ja: 予想より時間がかかりそうですね。
+c233_Reload_3:
+  en: You are merely delaying the inevitable.
+  ko: 의미 없는 저항은 지루할 뿐인데….
+  ja: 無意味な抵抗はつまらないのに…
+c233_Ult_Skill_Ready_1:
+  en: My turn.
+  ko: 제 차례군요.
+  ja: 私の番ですね。
+c233_Ult_Skill_1:
+  en: Everything superfluous will be banished from paradise.
+  ko: 쓸모없는 건 낙원에서 추방할 뿐.
+  ja: 役立たずは楽園から追放するのみ。
+c233_FullBurst_1:
+  en: Time to finish this.
+  ko: 자, 모든 걸 끝내 볼까요?
+  ja: さあ、すべてを終わらせましょうか。
+c233_Kill_Monster_1:
+  en: I wanted a challenge.
+  ko: 시시하네요.
+  ja: つまらないですね。
+c233_Kill_Monster_2:
+  en: Who's next?
+  ko: 다음 건….
+  ja: 次は…
+c233_Kill_Monster_3:
+  en: Hmm... Let's see.
+  ko: 흐음….
+  ja: うーん…
+c233_Damage_1:
+  en: Very good.
+  ko: 아.
+  ja: あっ。
+c233_Damage_2:
+  en: Haha.
+  ko: 하하.
+  ja: はは。
+c233_Damage_3:
+  en: Damn you...
+  ko: 거슬리게….
+  ja: 目障りな…
+c233_Die_1:
+  en: My apologies. I no longer wish to expend any energy here.
+  ko: 죄송하지만, 이 이상 힘을 쏟고 싶지 않네요.
+  ja: すみませんが、これ以上力を使いたくありません。
+c233_Win_1:
+  en: I shall grant you victory, Your Grace.
+  ko: 귀하께 승리를 안겨드렸습니다.
+  ja: あなたに勝利をもたらしました。
+c233_01_Lobby_Touch_1:
+  en: Talking about the good old days never gets old.
+  ko: 좋았던 시절의 이야기는 아무리 해도 넘치지 않아요.
+  ja: 楽しかったあの頃の話は、いくらでもできますね。
+c233_01_Lobby_Touch_2:
+  en: Even today's meeting will one day become a treasured memory.
+  ko: 오늘의 만남도, 언젠가의 추억이 되겠죠.
+  ja: 今日の出会いも、いつか思い出になるでしょう。
+c233_01_Lobby_Touch_3:
+  en: We've really come a long way, haven't we?
+  ko: 정말 먼 길을 돌아왔죠? 우리.
+  ja: 本当に、遠い道のりを歩いてきましたね。私たち。
+c233_01_Lobby_Touch_Love_1:
+  en: |-
+    It was a glorious time.
+    We were all together, and that was more than enough.
+  ko: |-
+    ...영광스러운 시절이었죠.
+    우린 모두 함께였고, 그것만으로도 충분했어요.
+  ja: |-
+    …輝かしい時代でしたね。
+    みんな一緒だった。それだけで十分でした。
+c233_01_Lobby_Touch_Love_2:
+  en: |-
+    Red Hood, Lilith.
+    Neither of you has met Pinne yet, have you? I'll introduce you.
+  ko: |-
+    레드 후드, 릴리스.
+    두 사람은 피나를 본 적이 없었죠? 소개할게요.
+  ja: |-
+    レッドフード、リリス。
+    2人はピナに会ったことがありませんよね？紹介します。
+c233_01_Lobby_Touch_Love_3:
+  en: Stay a bit longer. Have dessert. We have a lot of time.
+  ko: 조금만 더 머물렀다 가요. 디저트도, 시간도 많으니까.
+  ja: |-
+    もう少し、ここにいてください。
+    スイーツも、時間もたくさんありますから。
+c233_01_Lobby_Stay_1:
+  en: |-
+    Where did everyone go?
+    Get back before the tea gets cold.
+  ko: |-
+    다들 어디 갔나요?
+    식기 전에 어서 와요.
+  ja: |-
+    みなさん、どちらへ？
+    お茶が冷めてしまう前に、早く来てください。
+c233_01_Lobby_Stay_Love_1:
+  en: |-
+    It has been a while since we last met.
+    Tell me more about the others.
+  ko: |-
+    오랜만에 만난 거잖아요.
+    좀 더 모두의 이야기를 해 줘요.
+  ja: |-
+    久しぶりの再会じゃないですか。
+    もう少し、みなさんの話を聞かせてください。
+c233_01_Outpost_Touch_1:
+  en: Sorry, but I have plans today.
+  ko: 아, 미안해요. 오늘은 약속이 있어서요.
+  ja: あ、ごめんなさい。 今日は約束があるので。
+c233_01_Outpost_Touch_2:
+  en: It is about time for me to go to the party.
+  ko: 슬슬 파티에 가야 할 시간이네요.
+  ja: そろそろパーティーへ行く 時間です。
+c233_01_Outpost_Touch_3:
+  en: |-
+    The sun is so lovely up on the surface.
+    It's a waste being underground on a day like today.
+  ko: |-
+    지상은 햇살이 참 좋더군요.
+    오늘 같은 날은 아래에 있긴 아깝죠.
+  ja: |-
+    地上の日差しは 温かいですよ。
+    今日のような日は、 地下にいるのが もったいないです。
+c233_01_Gacha_Get_1:
+  en: |-
+    The sun is shining so wonderfully today.
+    Pinne, should we invite everyone to a tea party?
+  ko: |-
+    햇살이 참 좋은 날이네요.
+    모두를 티 파티에 초대해 볼까요, 피나?
+  ja: |-
+    いい天気ですね。
+    ピナ、みなさんをティーパーティーに招待しませんか？
+c233_01_Reinforce_1:
+  en: I must protect the others.
+  ko: 모두를 지키기 위해.
+  ja: みんなを守るために。
+c233_01_Reinforce_2:
+  en: |-
+    As long as I am with all of you,
+    I can become stronger.
+  ko: |-
+    저는 더 강해질 수 있어요.
+    당신들과 함께라면.
+  ja: |-
+    私はもっと強くなれます。
+    あなたたちと一緒なら。
+c233_01_Reinforce_3:
+  en: Leave the battle to me.
+  ko: 전투는 맡겨주세요.
+  ja: 戦闘はお任せください。
+c233_01_Gift_1:
+  en: Thank you. I shall put it to good use.
+  ko: 고마워요. 소중히 할게요.
+  ja: ありがとうございます。大切にします。
+c233_01_Gift_2:
+  en: Oh my goodness... I think I'm going to cry.
+  ko: 후후. 눈물이 나올 것 같아요.
+  ja: ふふ。涙が出そうです。
+c233_01_Gift_3:
+  en: Is there anything I can do for you?
+  ko: 제가 뭔가 해드릴 건 없을까요?
+  ja: 私に何かできることはありませんか？
+c233_01_Attractive_Up_1:
+  en: We'll always be together, right?
+  ko: 계속 함께 해요, 우리.
+  ja: ずっと一緒にいましょう、私たち。
+c233_01_Attractive_Up_2:
+  en: Nothing lasts forever, but I get greedy sometimes.
+  ko: 영원한 건 없다지만, 욕심이 나네요.
+  ja: "「永遠」などなかったとしても、欲しくなってしまいますね。"
+c233_01_Attractive_Up_3:
+  en: True happiness must be something like this.
+  ko: 행복이란, 이런 것이었군요.
+  ja: 幸せとは、こういうものだったのですね。
+c233_01_Party_Deploy_1:
+  en: I shall take the lead.
+  ko: 제가 선봉에 서겠어요.
+  ja: 私が先頭に立ちます。
+c233_01_Field_Touch_1:
+  en: Here.
+  ko: 여기 있어요.
+  ja: こちらです。
+c233_01_Field_Go_1:
+  en: Everyone, it's time to move.
+  ko: 여러분, 움직일 시간이에요.
+  ja: みなさん、動いてください。
+c233_01_Battle_Enter_1:
+  en: Encounter.
+  ko: 인카운터.
+  ja: エンカウンター。
+c233_01_Battle_Ready_1:
+  en: If it's us, we can win.
+  ko: 우리라면, 이길 수 있어요.
+  ja: 私たちなら、勝てます。
+c233_01_Battle_Ready_2:
+  en: Don't push yourselves too hard.
+  ko: 다들 무리하지 말아요.
+  ja: みなさん、ご無理なさらず。
+c233_01_Battle_Ready_3:
+  en: Let's do this. For the future.
+  ko: 시작하죠. 미래를 위해.
+  ja: 始めましょう。未来のために。
+c233_01_Reload_1:
+  en: Please cover me.
+  ko: 커버 부탁해요.
+  ja: フォローをお願いします。
+c233_01_Reload_2:
+  en: I'm reloading.
+  ko: 재장전 합니다.
+  ja: リロードします。
+c233_01_Reload_3:
+  en: Sorry, I'll get back to it soon.
+  ko: 미안해요. 금방 복귀할게요.
+  ja: ごめんなさい。すぐに戻ります。
+c233_01_Ult_Skill_Ready_1:
+  en: The light...
+  ko: 아아. 빛이….
+  ja: ああ、光が…
+c233_01_Ult_Skill_1:
+  en: May this time last forever.
+  ko: 이 시간이 영원하기를.
+  ja: この時間が永遠に続きますように。
+c233_01_FullBurst_1:
+  en: Everyone, come with me!
+  ko: 모두, 저와 함께 가줘요!
+  ja: みなさん、私と一緒に行きましょう！
+c233_01_Kill_Monster_1:
+  en: Neutralized.
+  ko: 격추 완료.
+  ja: 撃墜完了。
+c233_01_Kill_Monster_2:
+  en: Got you.
+  ko: 잡았습니다.
+  ja: 捕らえました。
+c233_01_Kill_Monster_3:
+  en: Did you see that?
+  ko: 보셨나요?
+  ja: いかがですか？
+c233_01_Damage_1:
+  en: Agh!
+  ko: 아.
+  ja: あ。
+c233_01_Damage_2:
+  en: Urgh.
+  ko: 윽.
+  ja: うっ。
+c233_01_Damage_3:
+  en: Hmph.
+  ko: 칫.
+  ja: チッ。
+c233_01_Die_1:
+  en: I must fall back. I will leave the rest to you all.
+  ko: 먼저 퇴각할게요. 뒤를 부탁해요, 여러분.
+  ja: 先に退却します。あとをお願いします、みなさん。
+c233_01_Win_1:
+  en: |-
+    I am glad we wrapped this up before the tea got cold.
+    Would you not agree, Pinne?
+  ko: |-
+    차가 식기 전에 끝나서 다행이에요.
+    그렇죠? 피나.
+  ja: |-
+    お茶が冷めてしまう前に終わってよかったです。
+    そうでしょう？ピナ。
+233_cv_ja:
+  en: 'CV: Chiwa Saito'
+  ko: 'CV : 사이토 치와'
+  ja: CV：斎藤千和
+233_cv_ko:
+  en: 'CV: Kim Sae-hae'
+  ko: 'CV : 김새해'
+  ja: CV：キム・セヘ
+233_cv_en:
+  en: 'CV: Megan Shipman'
+  ko: 'CV : 메건 쉽맨'
+  ja: CV：Megan Shipman

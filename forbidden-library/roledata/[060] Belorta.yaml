@@ -1,0 +1,458 @@
+---
+60_name:
+  en: Belorta
+  ko: 벨로타
+  ja: ベロータ
+c060_description:
+  en: The leader of the Carronades who is adorable and cuddly. She possesses above-average
+    intelligence and has a soft spot for pulling pranks.
+  ko: |-
+    리틀 캐논 스쿼드 소속의 리더.
+    애교 많고 영악한 소녀는 짓궂은 장난으로 남을 놀려먹곤 한다.
+  ja: |-
+    リトルキャノン部隊所属のリーダー。
+    愛きょうがあってずる賢く、
+    意地悪なイタズラでみんなをからかっている。
+60_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50060:
+  en: Belorta's Spare Body
+  ko: 벨로타 스페어 바디
+  ja: ベロータのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20602_name:
+  en: Greed
+  ko: 그리디
+  ja: 食い意地
+20602_description:
+  en: "■ Activates when an attack hits more than {description_value_01} enemy unit(s).
+    Affects the target(s). \n<color=#00AEFF>DEF ▼ {description_value_02}% for {description_value_03}
+    sec. \nDeals {description_value_04}% of <word_group=10025>final</word_group> ATK
+    as additional damage.</color>"
+  ko: |-
+    ■ {description_value_01}기 이상을 동시에 명중시켰다면 대상에게
+    <color=#00AEFF>[방어력 {description_value_02}% ▼] [{description_value_03}초 유지]
+    [<word_group=10025>최종</word_group> 공격력 {description_value_04}% 추가 대미지]</color>
+  ja: |-
+    ■{description_value_01}機以上同時に命中した場合は対象に
+    <color=#00AEFF>「防御力{description_value_02}％▼」「{description_value_03}秒間維持」
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の追加ダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20601_name:
+  en: Surprise
+  ko: 서프라이즈
+  ja: サプライズ
+20601_description:
+  en: |-
+    ■ Activates when hitting a target with Full Charge. Affects self.
+    <color=#00AEFF>Explosion Radius ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 명중 시 자신에게
+    <color=#00AEFF>[폭발 범위 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、自分に
+    <color=#00AEFF>「爆発範囲{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10603_name:
+  en: Tricky Bomber
+  ko: 트릭키 봄버
+  ja: トリッキーボンバー
+10603_description_1:
+  en: "■ Affects <word_group=10020>enemies within attack range</word_group>.\nDeals
+    <color=#00AEFF>{description_value_01}% of <word_group=10025>final</word_group>
+    ATK as damage.</color> \n■ Affects all allies.\n<color=#00AEFF>Charge Speed ▲
+    {description_value_02}% for {description_value_03} sec.</color>"
+  ko: |-
+    ■ <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[차지 속도 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」</color>
+    ■味方全体に
+    <color=#00AEFF>「チャージ速度{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+62_name:
+  en: 'Mica: Snow Buddy'
+  ko: '미카 : 스노우 버디'
+  ja: ミカ：スノーバディ
+61_name:
+  en: Mica
+  ko: 미카
+  ja: ミカ
+c060_Lobby_Touch_1:
+  en: I love a good meal! What about you?
+  ko: 난 먹는 게 제일 좋아~! 아저씨도 그래?
+  ja: |-
+    私、食べるのだ～い好き！
+    おじさんもそう？
+c060_Lobby_Touch_2:
+  en: Have you seen Mica? I want to tease her a bit, but I can't seem to find her.
+  ko: 미카 못 봤어? 흐응~ 놀리고 싶은데 어디 갔지?
+  ja: |-
+    ミカ見なかった？ふ～ん、からかいたかったのに。
+    どこ行ったのかな？
+c060_Lobby_Touch_3:
+  en: Wanna see some firecrackers? I'll show you something really cool!
+  ko: 폭죽놀이하러 갈래? 엄청 멋진 거 보여줄게!
+  ja: 爆竹で遊ばない？すんごくキレイなの見せてあげるから！
+c060_Lobby_Touch_Love_1:
+  en: Are you over your cold? Don't get sick. Let's get something delicious to eat!
+  ko: "감기 몸살은 다 나았어?! 아프지 마~ \n나랑 맛있는 거 먹으러 가야지!"
+  ja: |-
+    頑張りすぎて寝込んでたのはもう治った！？
+    これからは無理しないでね～
+    さっ、一緒においしいもの食べに行こっ！
+c060_Lobby_Touch_Love_2:
+  en: Let's eat something delicious together.
+  ko: 아저씨는 나한테 관심이 참 많은 거 같아♡
+  ja: おじさんは私に興味津々だね♡
+c060_Lobby_Touch_Love_3:
+  en: Can you draw a heart on my palm?
+  ko: 아저씨~ 나 손바닥에 하트 그려주면 안 돼요~?
+  ja: おじさ～ん、私の手のひらにハートの絵描いてくれない？
+c060_Lobby_Stay_1:
+  en: "Huh? Where did you go? \nYou were playing and ran away?"
+  ko: "응? 아저씨 어디 갔어? \n혹시 장난 많이 쳐서 도망간 거야?"
+  ja: |-
+    あれ？おじさん、どこ行っちゃったの？
+    イタズラしすぎて逃げちゃったのかな？
+c060_Lobby_Stay_Love_1:
+  en: Mister, I'm not joking anymore. Please come back soon.
+  ko: "아저씨~ 이제 장난 안 칠게. \n얼른 돌아와쥬떼요~♡"
+  ja: |-
+    おじさ～ん、もうイタズラしないからぁ～
+    早く戻ってきてくだちゃ～い♡
+c060_Outpost_Touch_1:
+  en: Would you like to come to the toy store? They've got all sorts of neat stuff
+    there!
+  ko: 장난감 가게로 올래? 재미있는 거 엄청 많아!
+  ja: |-
+    おもちゃ屋さんに 来てくれる？
+    面白いもの たくさんあるよ！
+c060_Outpost_Touch_2:
+  en: Buy me something yummy! Old-Timer!
+  ko: 아저씨~♡ 맛있는 거 사쥬떼요~
+  ja: |-
+    おじさ～ん♡
+    おいしいもの おごってくだちゃ～い。
+c060_Outpost_Touch_3:
+  en: Who should I prank today?
+  ko: 오늘은~ 누구한테~ 장난을 쳐볼까~
+  ja: 今日は誰に イタズラしちゃおうかな～
+c060_Gacha_Get_1:
+  en: Let's go find something delicious, Old-Timer!
+  ko: 아저씨, 맛있는 거 먹으러 가자!
+  ja: おじさん、おいしいもの食べに行こう！
+c060_Reinforce_1:
+  en: Thanks.
+  ko: 고마워. 아저씨~
+  ja: ありがとう、おじさん。
+c060_Reinforce_2:
+  en: Is something troubling you, Old-Timer!
+  ko: 아저씨 엄청 고생한 얼굴이네!
+  ja: おじさん、すっごく疲れた顔してる！
+c060_Reinforce_3:
+  en: Heh heh, now I can take my pranks to the next level!
+  ko: 흐흥~ 이제 더 신나게 장난칠 수 있겠네?
+  ja: フフン～これでもっとたくさんイタズラできちゃうね？
+c060_Gift_1:
+  en: Is this for me? Really?
+  ko: 이거 나주는 거야? 진짜?
+  ja: これ私にくれるの？本当？
+c060_Gift_2:
+  en: You know, you're the first person who's ever given me a present!
+  ko: 그거 알아? 선물 주는 어른은 아저씨가 처음이다?
+  ja: ねえ知ってた？プレゼントくれた大人って、おじさんが初めてなんだよ？
+c060_Gift_3:
+  en: I LOVE IT!
+  ko: 너-무-좋-아♡
+  ja: 最高～♡
+c060_Attractive_Up_1:
+  en: I love anyone who brings me lots of yummy goodies I can eat!
+  ko: 난 맛있는 거 사주는 우리 아저씨가 세상에서 제일 좋더라♡
+  ja: おいしいものおごってくれるおじさんが、世界で一番好きだよ♡
+c060_Attractive_Up_2:
+  en: How about we share some heart-shaped Splendamin?
+  ko: 아저씨 나랑 하트 모양 퍼펙트 먹으러 가자♡
+  ja: おじさん、ハート型のパーフェクト食べに行こっ♡
+c060_Attractive_Up_3:
+  en: Hey, did you know? I think you're just the coolest!
+  ko: 아저씨가 너~~~~무 좋아 어떡해?♡
+  ja: おじさんのこと、大大大だ～い好き！♡
+c060_Party_Deploy_1:
+  en: Will you buy me some snacks on the way?
+  ko: 가면 먹을 거 사줄 거야?
+  ja: 行けば、何か食べさせてくれるの？
+c060_Field_Touch_1:
+  en: What are we going to play?
+  ko: 뭐 하고 놀까?
+  ja: 何して遊ぶ？
+c060_Field_Go_1:
+  en: Are you sending me there?
+  ko: 저쪽으로 가라는 거지?
+  ja: あっちに行けってことでしょ？
+c060_Battle_Enter_1:
+  en: Eek! Something scary is coming!
+  ko: 꺄아~ 무서운 게 온다~!
+  ja: きゃあ～怖いのが来る～！
+c060_Battle_Ready_1:
+  en: If I defeat all the baddies, can we eat something yummy?
+  ko: 이거 다 잡으면 맛있는 거 먹으러 갈까?
+  ja: これ全部倒したら、おいしいもの食べに行かない？
+c060_Battle_Ready_2:
+  en: Firecrackers incoming!
+  ko: 폭죽놀이~ 시작할게!
+  ja: 爆竹遊び、はっじめっるよ～！
+c060_Battle_Ready_3:
+  en: Wowee, they sure look scary!
+  ko: 우와~ 다들 엄청 무섭게 생겼네~
+  ja: うわ～みんな怖い顔してるね～
+c060_Reload_1:
+  en: This is gonna be a big one.
+  ko: 와~ 큰일 날 뻔했다.
+  ja: わあ～大変なことになるところだった。
+c060_Reload_2:
+  en: Gotta reload!
+  ko: 리로드 시간입니다~
+  ja: リロード時間で～す。
+c060_Reload_3:
+  en: Just a little longer...
+  ko: 좀 더 챙겨서…!
+  ja: もう少したくさん準備して…！
+c060_Ult_Skill_Ready_1:
+  en: Old-Timer!
+  ko: 아저씨!
+  ja: おじさん！
+c060_Ult_Skill_1:
+  en: The bigger the firecracker, the better!
+  ko: 진짜 큰~ 걸 터트려 볼게! 꺄아~ 멋져!
+  ja: 大きいの爆発させるね！きゃあ～ワクワクする！
+c060_FullBurst_1:
+  en: I'm going to set off all the firecrackers!
+  ko: 폭죽을 전부 터뜨리는 거야!
+  ja: 爆竹を全部爆発させるよ！
+c060_Kill_Monster_1:
+  en: I got it!
+  ko: 잡았다!
+  ja: 捕まえた！
+c060_Kill_Monster_2:
+  en: I didn't hurt you, did I?
+  ko: 이렇게 하는 거지?
+  ja: こうやればいいの？
+c060_Kill_Monster_3:
+  en: KO!
+  ko: 쓰러졌다~!
+  ja: 倒れちゃった～！
+c060_Damage_1:
+  en: Yes!
+  ko: 아파!
+  ja: 痛いわよ！
+c060_Damage_2:
+  en: Argh!
+  ko: 아!!
+  ja: あ！
+c060_Damage_3:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c060_Die_1:
+  en: If I had known this would happen, I'd have filled up on some more good food
+    beforehand...
+  ko: 이럴 줄 알았으면 맛있는 거 먹어둘걸….
+  ja: こんなことになるんだったら、おいしいもの食べておけばよかった…
+c060_Win_1:
+  en: The bigger the boom, the bigger the win!
+  ko: 이번 폭죽놀이도 대성공이야!
+  ja: この爆竹遊びも大成功！
+60_cv_ja:
+  en: 'CV: Fairouz Ai'
+  ko: 'CV : 파이루즈 아이'
+  ja: CV：ファイルーズあい
+60_cv_ko:
+  en: 'CV: Son Seon-yeong'
+  ko: 'CV : 손선영'
+  ja: CV：ソン・ソニョン
+60_cv_en:
+  en: 'CV: Skyler Davenport'
+  ko: 'CV : 스카일러 데이븐포트'
+  ja: CV：Skyler Davenport

@@ -1,0 +1,489 @@
+---
+100_name:
+  en: Laplace
+  ko: 라플라스
+  ja: ラプラス
+c100_description:
+  en: The leader of Matis, the top squad in Missilis. She more than lives up to her
+    heroic reputation inside the Ark, which goes unquestioned.
+  ko: |-
+    미실리스 최강의 스쿼드 메티스의 리더.
+    자타공인 방주의 히어로로, 그 이름에 걸맞은 힘을 가지고 있다.
+  ja: |-
+    ミシリス最強の部隊メティスのリーダー。
+    自他ともに認めるアークのヒーローで、
+    その名にふさわしい力を持っている。
+100_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50100:
+  en: Laplace's Spare Body
+  ko: 라플라스 스페어 바디
+  ja: ラプラスのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21002_name:
+  en: Hero Bomber
+  ko: 히어로 봄버
+  ja: ヒーローボンバー
+21002_description:
+  en: "■ Activates when the last bullet hits the target. Affects the target.\n<color=#00AEFF>Deals
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as additional
+    damage.</color> \n■ Activates when hitting the target's Parts. Affects the target.\n<color=#00AEFF>Deals
+    {description_value_02}% of <word_group=10025>final</word_group> ATK as additional
+    damage.</color>"
+  ko: |-
+    ■ 마지막 탄환 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 추가 대미지]</color>
+    ■ 대상 파츠 명중 시 대상 본체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の追加ダメージ」</color>
+    ■対象のパーツに命中した時、対象本体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21001_name:
+  en: Hero Vision
+  ko: 히어로 비전
+  ja: ヒーロービジョン
+21001_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Hero Vision: Explosion Radius ▲ {description_value_01}%, stacks up to {description_value_03} time(s) and lasts for {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀차지 공격 시 자신에게
+    <color=#00AEFF>[히어로 비전 : 폭발 범위 {description_value_01}% ▲] [{description_value_03}중첩] [{description_value_02}초 유지] </color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「ヒーロービジョン：爆発範囲{description_value_01}％▲」
+    「{description_value_03}スタック」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11003_name:
+  en: Laplace Buster
+  ko: 라플라스 버스터
+  ja: ラプラスバスター
+11003_description:
+  en: "■ Affects self. \n<color=#00AEFF>Change the Weapon in use: \nFirst Damage:
+    {description_value_01}% of <word_group=10025>final</word_group> ATK\nNormal Damage:
+    {description_value_02}% of <word_group=10025>final</word_group> ATK\nLast for:
+    {description_value_03} sec\nAdditional Effect: Pierce\nAttention: Unable to take
+    cover when using Burst Skill.</color>\n■ Affects the same enemy unit(s) when Hero
+    Vision is fully stacked.\n<color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group>
+    ATK as true damage.</color>"
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경] :
+    최초 대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
+    일반 대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지
+    유지 시간 : {description_value_03}초
+    추가 효과 : 관통 특화
+    특이 사항 : 버스트 스킬 시전 중 엄폐 불가</color>
+    ■ 자신이 히어로 비전 최대 중첩 상태라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% 방어력 무시 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器変更」：
+    初回ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+    通常ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ
+    維持時間：{description_value_03}秒
+    追加効果：貫通特化
+    注意事項：バーストスキル発動中はハイド不可</color>
+    ■自分がヒーロービジョンの
+    フルスタック状態なら、同じ敵に<color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の防御力無視ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+102_name:
+  en: Maxwell
+  ko: 맥스웰
+  ja: マクスウェル
+101_name:
+  en: Drake
+  ko: 드레이크
+  ja: ドレイク
+c100_Lobby_Touch_1:
+  en: Step aside and let the real heroine show you how it's done.
+  ko: 하하하! 히어로 등장이다!
+  ja: ははは！ヒーローの登場だ！
+c100_Lobby_Touch_2:
+  en: Justice always prevails, and so do I!
+  ko: 정의는 늘 승리한다. 그런 고로 나도 늘 승리한다!
+  ja: |-
+    正義は常に勝つ。
+    故に私も常に勝利する！
+c100_Lobby_Touch_3:
+  en: All Nikkes are heroic. It's in our nature.
+  ko: "모든 니케는 히어로가 되어야 해. \n그것이 우리의 본질이다."
+  ja: |-
+    全てのニケはヒーローにならねばならない。
+    それが私たちの本質なのだから！
+c100_Lobby_Touch_Love_1:
+  en: Birdie! Let's be heroes together!
+  ko: 버드 보이! 함께 히어로가 되는 거다!
+  ja: |-
+    バードボーイ！
+    君もヒーローになるのだ！
+c100_Lobby_Touch_Love_2:
+  en: As long as you trust me, I will never falter!
+  ko: 네가 믿어 주는 한, 나의 정의는 흔들리지 않는다!
+  ja: 君が信じてくれさえすれば、私の正義は揺らがない！
+c100_Lobby_Touch_Love_3:
+  en: |-
+    All Nikkes are heroes, and so are you!
+    So we will never lose!
+  ko: "니케는 모두 히어로다! 버드 보이, 너도 히어로다! \n그러므로 우리는 지지 않는다!"
+  ja: |-
+    ニケはすべてヒーローだ！
+    バードボーイ、君も同じく！
+    よって私たちは負けない！
+c100_Lobby_Stay_1:
+  en: Awaiting your orders... for quite some time now!
+  ko: 히어로 대기 중! 아까부터 계속 대기 중!
+  ja: |-
+    ヒーロー待機中！
+    先ほどより引き続き待機中！
+c100_Lobby_Stay_Love_1:
+  en: "Let's roll out, Birdie! \nThere are people who need our help!"
+  ko: "버드 보이! 출동하자! \n위험에 빠진 수많은 이들이 널 기다리고 있다!"
+  ja: |-
+    バードボーイ！出動だ！
+    君を待つ、無数の危機に瀕した者たちのために！
+c100_Outpost_Touch_1:
+  en: It's always deafeningly loud over at the power station, but you won't hear me
+    complaining. All that commotion means Maxwell is busy crafting weapons!
+  ko: "발전소는 늘 머리가 아플 정도로 시끄럽다. \n하지만 괜찮다! 맥스웰이 무기를 만드는 소리기 때문이다!"
+  ja: |-
+    発電所はいつも、 頭が痛くなるくらい うるさいんだ。
+    でも問題ない！
+    なぜなら、 あの音はマクスウェルが 武器を作っている音なのだから！
+c100_Outpost_Touch_2:
+  en: I'll ensure this place remains safe!
+  ko: 이곳의 평화도 내가 지켜주겠다!
+  ja: ここの平和も私が守る！
+c100_Outpost_Touch_3:
+  en: Anyone need a hero? If so, I'm your gal!
+  ko: 히어로가 필요한 곳은 없나? 무엇이든 도와주겠다!
+  ja: |-
+    ヒーローが 必要な場所はないか？
+    なんでも助けてやる！
+c100_Gacha_Get_1:
+  en: Don't freak out, but you've got the number one heroine with you now!
+  ko: 기뻐해라. 최고의 히어로가 이제부터 너와 함께한다!
+  ja: 喜ぶがいい。これから、最高のヒーローが君たちにはついている！
+c100_Reinforce_1:
+  en: Oh! I'm feeling stronger now!
+  ko: 오오! 힘이 솟구친다!
+  ja: おお！力が湧いてくる！
+c100_Reinforce_2:
+  en: Not bad, you did good.
+  ko: 음, 나쁘지 않군. 수고했다.
+  ja: うむ、悪くはない。ご苦労だった。
+c100_Reinforce_3:
+  en: I know you've always got my back, Birdie!
+  ko: 훌륭한 지원이다. 버드 보이!
+  ja: 見事な支援だ。バードボーイ！
+c100_Gift_1:
+  en: You got this just for me? That's so nice of you!
+  ko: 이런 걸 주다니…! 감동이다!
+  ja: こんなものをくれるなんて…！感動したよ！
+c100_Gift_2:
+  en: Even though a true hero never expects anything in return, it's still a nice
+    gesture.
+  ko: "진정한 히어로는 대가를 바라지 않지만 \n특별히 받아주겠다!"
+  ja: |-
+    真のヒーローは見返りを期待しないが
+    特別に受け取ってやろう！
+c100_Gift_3:
+  en: This is almost as fun as giving a bad guy what for!
+  ko: 악당을 물리쳤을 때만큼이나 기쁘군!
+  ja: 悪党を退けた時と同じくらい嬉しいぞ！
+c100_Attractive_Up_1:
+  en: All right Birdie, I'm going to grant you the honor of having you accompany me
+    on my heroic journey!
+  ko: 버드 보이, 너에게 나의 히어로 로드를 함께할 영광을 주겠다!
+  ja: バードボーイ、君に私のヒーローロードを共にする栄光を授けよう！
+c100_Attractive_Up_2:
+  en: It's so strange... Being with you somehow makes me feel more heroic!
+  ko: 이상하군! 너와 함께일 땐 히어로 파워가 증가하는 느낌이다!
+  ja: 不思議だ！君と一緒にいるとヒーローパワーが増大する気がする！
+c100_Attractive_Up_3:
+  en: |-
+    Birdie, thank you for everything you've done for me!
+    Now it's my turn to take care of you.
+  ko: "버드 보이, 히어로를 향한 너의 헌신만큼 \n너의 안전은 내가 책임지겠다!"
+  ja: |-
+    バードボーイ、君のヒーローへの想いはしかと受け取った！
+    君の安全は私が守ろう！
+c100_Party_Deploy_1:
+  en: Here I come!
+  ko: 히어로 라플라스, 출격한다!
+  ja: ヒーローラプラス、出撃だ！
+c100_Field_Touch_1:
+  en: Point me to the bad guys!
+  ko: 악당은 어디에 있지?
+  ja: 悪党はどこだ？
+c100_Field_Go_1:
+  en: I'm raring to go!
+  ko: 좋아, 내가 간다!
+  ja: よし、私が行こう！
+c100_Battle_Enter_1:
+  en: Encounter imminent! Get ready!
+  ko: 각오해라, 인카운터!
+  ja: 覚悟しろ、エンカウンター！
+c100_Battle_Ready_1:
+  en: Don't you worry, I'll squash them all like bugs.
+  ko: 안심하고 있어라, 금방 물리칠 테니.
+  ja: 心配ない、すぐに倒してみせる。
+c100_Battle_Ready_2:
+  en: Those who block the path of the righteous will be shown no quarter!
+  ko: 이 히어로를 막는 자, 그 누구도 용서치 않으리라!
+  ja: このヒーローの邪魔をする者は、誰であっても許さない！
+c100_Battle_Ready_3:
+  en: I am an agent of justice.
+  ko: 나의 힘으로 정의를 증명할 것이다.
+  ja: 私の力で正義を証明してみせよう。
+c100_Reload_1:
+  en: Reloading!
+  ko: 리로드.
+  ja: リロード。
+c100_Reload_2:
+  en: You're tougher than I thought.
+  ko: 생각보다 저항이 거세군.
+  ja: 思ったより抵抗が激しい。
+c100_Reload_3:
+  en: Even a hero needs to recharge once in a while!
+  ko: 히어로 파워 차징-!
+  ja: ヒーローパワーチャージ！
+c100_Ult_Skill_Ready_1:
+  en: Birdie!
+  ko: 버드 보이!
+  ja: バードボーイ！
+c100_Ult_Skill_1:
+  en: C'mon everyone, let's score one for the good guys!
+  ko: 지금 이곳에 정의를 증명한다!
+  ja: 皆の希望を集め、今ここに正義を証明する！
+c100_FullBurst_1:
+  en: Give 'em everything you've got!
+  ko: 히어로들이여, 모든 힘을 쏟아부어라!
+  ja: ヒーローたちよ、全身全霊で戦うのだ！
+c100_Kill_Monster_1:
+  en: You can run, but you can't hide!
+  ko: 물리쳤다!
+  ja: 退治した！
+c100_Kill_Monster_2:
+  en: Justice has been served.
+  ko: 이것이 정의다.
+  ja: これが正義だ。
+c100_Kill_Monster_3:
+  en: Who's next?
+  ko: 다음 차례는 누구냐!
+  ja: 次は誰だ！
+c100_Damage_1:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c100_Damage_2:
+  en: Ugh.
+  ko: 큿.
+  ja: くっ。
+c100_Damage_3:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c100_Die_1:
+  en: "*Cough*Is this the end? Am I too weak?!"
+  ko: 큭… 이 정도에 쓰러지다니… 아직도 갈 길이 멀었단 말인가…!
+  ja: |-
+    くっ…この程度で倒れてしまうとは…
+    まだまだ上には上がいるということか…！
+c100_Win_1:
+  en: I told you justice would prevail!
+  ko: 보았느냐! 이것이 바로 정의의 힘이다!
+  ja: 見たか！これがまさに正義の力だ！
+100_cv_ja:
+  en: 'CV: Ai Kakuma'
+  ko: 'CV : 카쿠마 아이'
+  ja: CV：加隈亜衣
+100_cv_ko:
+  en: 'CV: Kim Ye-rim'
+  ko: 'CV : 김예림'
+  ja: CV：キム・エリム
+100_cv_en:
+  en: 'CV: Lauren Landa'
+  ko: 'CV : 로런 랜다'
+  ja: CV：Lauren Landa

@@ -1,0 +1,517 @@
+---
+411_name:
+  en: Flora
+  ko: 플로라
+  ja: フローラ
+c411_description:
+  en: |-
+    A Nikke from the Botanic Garden Squad who's responsible for tending to the plants in the Ark's garden, especially flowers.
+    She expresses her affection in her own way, such as naming and talking to the flowers.
+  ko: |-
+    보타닉 가든 스쿼드 소속의 니케.
+    방주 내 정원에서 식물, 그중에서도 꽃을 관리하는 일을 담당하고 있다.
+    정원에서 키우는 꽃에게 이름을 붙이고, 대화를 하는 등 그녀만의 방식으로 사랑을 표하곤 한다.
+  ja: |-
+    ボタニックガーデン部隊所属のニケ。
+    アーク内の庭園で植物、特に花の管理を担当している。
+    庭園の花に名前を付け会話をするなど、
+    彼女だけの方法で愛を表現する。
+411_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_411:
+  en: Flora's Spare Body
+  ko: 플로라 스페어 바디
+  ja: フローラのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+24112_name:
+  en: Iris
+  ko: 아이리스
+  ja: アイリス
+24112_description:
+  en: |-
+    ■ Activates when the HP of one of the allies on <word_group=10055>both sides</word_group> is lower than {description_value_01}%. Affects all allies.
+    <color=#00AEFF>Generates a <word_group=10023>Shield</word_group> with {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_03} sec.</color>
+    ■ Activates when the HP of one of the allies on <word_group=10055>both sides</word_group> reaches Max HP. Affects all allies.
+    <color=#00AEFF>True Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신의 <word_group=10055>양 옆</word_group> 아군 중 1기가 체력 {description_value_01}% 이하 도달 시 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% <word_group=10023>보호막</word_group>] [{description_value_03}초 유지]</color>
+    ■ 자신의 <word_group=10055>양 옆</word_group> 아군 중 1기가 최대 체력 도달 시 아군 전체에게
+    <color=#00AEFF>[방어력 무시 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分の<word_group=10055>両隣</word_group>の味方のうち1機がHP{description_value_01}％以下になった時、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％の<word_group=10023>バリア</word_group>」「{description_value_03}秒間維持」</color>
+    ■自分の<word_group=10055>両隣</word_group>の味方のうち1機のHPが最大になった時、味方全体に
+    <color=#00AEFF>「防御力無視ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24111_name:
+  en: Petunia
+  ko: 피튜니아
+  ja: ペチュニア
+24111_description:
+  en: |-
+    ■ Activates at the start of battle only if self survives. Affects self and 2 allies on <word_group=10055>both sides</word_group>.
+    <color=#00AEFF>Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec continuously.
+    Potency of HP restored ▲ {description_value_05}% continuously, stacks up to {description_value_06} time(s).</color>
+    ■ Activates after landing {description_value_03} normal attack(s). Affects all Electric Code allies.
+    <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_04}.</color>
+  ko: |-
+    ■ 전투 시작 시 자신이 생존 상태일 때 한하여 자신과 자신의 <word_group=10055>양 옆</word_group>에 있는 아군 2기에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복] [1초 간격] [지속]
+    [받는 체력 회복량 {description_value_05}% ▲] [{description_value_06} 중첩] [지속]</color>
+    ■ 일반 공격 {description_value_03}회 공격 시 전격 코드 아군 전체에게
+    <color=#00AEFF>[<word_group=10001>중첩 가능 이로운 효과 중첩량</word_group> {description_value_04}개 ▲]</color>
+  ja: |-
+    ■戦闘開始時に自分が生存状態の時に限り、自分と自分の<word_group=10055>両隣</word_group>にいる味方2機に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」「1秒間隔」「持続」
+    「受けるHP回復量{description_value_05}％▲」「{description_value_06}スタック」「持続」</color>
+    通常攻撃{description_value_03}回攻撃した時、電撃コードの味方全体に
+    <color=#00AEFF>「<word_group=10001>スタック可能バフ効果のスタック量</word_group>{description_value_04}個▲」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14113_name:
+  en: Secret Garden
+  ko: 시크릿 가든
+  ja: 秘密の花園
+14113_description:
+  en: |-
+    ■ Affects all allies.
+     <color=#00AEFF>Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP as HP.
+    True Damage ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]
+    [방어력 무시 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」
+    「防御力無視ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+412_name:
+  en: Trina
+  ko: 트리나
+  ja: トリナ
+c411_Lobby_Touch_1:
+  en: If you'd like to meet me, feel free to come to the garden.
+  ko: 저를 만나고 싶으시다면, 정원으로 오시지요.
+  ja: 私をお探しの時は、どうぞお庭までお越しください。
+c411_Lobby_Touch_2:
+  en: |-
+    Today, you remind me of a sunflower.
+    I wonder what flower you'll resemble tomorrow.
+  ko: |-
+    꽃님, 오늘은 해바라기를 닮으셨네요.
+    내일은 어떤 꽃을 닮으실지 기대되는군요.
+  ja: |-
+    お花様、今日はヒマワリに似ていらっしゃいますね。
+    明日はどんなお花に似ていらっしゃるのでしょう。
+    楽しみでございます。
+c411_Lobby_Touch_3:
+  en: |-
+    I often hear people say that my mind is like a flower garden.
+    Perhaps it's because I know so much about flowers, haha.
+  ko: |-
+    꽃을 많이 알고 있어서 그런지.
+    머릿속이 꽃밭이라는 말을 종종 듣긴 한답니다. 후후.
+  ja: |-
+    花に詳しいからでしょうか…
+    たまに「頭がお花畑」だと言われたりするのですよ。ふふっ。
+c411_Lobby_Touch_Love_1:
+  en: |-
+    Flowers have the power to lift people's spirits.
+    Did you know that you have that power as well, Blossom?
+  ko: |-
+    꽃에게는 사람의 기분을 좋게 만드는 힘이 있답니다.
+    꽃님에게도 그런 힘이 있다는 걸 아시나요?
+  ja: |-
+    花には人の気持ちを和らげてくれる力がございます。
+    お花様にも、そうした力があることをご存知ですか？
+c411_Lobby_Touch_Love_2:
+  en: |-
+    I was wondering where that lovely floral scent was coming from.
+    Turns out it was you, Blossom.
+  ko: |-
+    …어디서 좋은 꽃의 향이 난다고 생각했는데.
+    꽃님의 향이었군요.
+  ja: |-
+    …どこからともなく良い花の香りがすると思えば…
+    お花様の香りだったのですね。
+c411_Lobby_Touch_Love_3:
+  en: In the future, I'd love to join you on the surface and grow beautiful flowers.
+  ko: "다음엔 지상에서 꽃님과 함께 \n예쁜 꽃을 피워보고 싶습니다."
+  ja: |-
+    機会があれば、地上でお花様と一緒に
+    綺麗な花を咲かせてみたいですね。
+c411_Lobby_Stay_1:
+  en: |-
+    Will you be away for long?
+    If so, I'll wait in the garden.
+  ko: |-
+    …꽃님, 더 늦으실 건가요?
+    그럼 저는 정원에 가있을게요.
+  ja: |-
+    …お花様、まだお時間がかかりそうですか？
+    でしたら、先に庭の方でお待ちしております。
+c411_Lobby_Stay_Love_1:
+  en: Hehe, I'm fine playing with the flowers, so take your time.
+  ko: |-
+    후후, 저는 꽃과 놀고 있으면 되니,
+    천천히 오셔도 괜찮습니다.
+  ja: |-
+    ふふっ、私は花たちと遊んでいますので、
+    どうぞごゆっくりお越しください。
+c411_Outpost_Touch_1:
+  en: It would be nice to create a garden here that suits you, Blossom.
+  ko: 이곳에도 꽃님과 어울리는 정원을 만들면 좋겠군요.
+  ja: ここにもお花様にふさわしい庭を 作れたらと思います。
+c411_Outpost_Touch_2:
+  en: |-
+    This one is... a rose, and that one... a tulip.
+    There are many people here who resemble flowers. It’s a lovely place.
+  ko: |-
+    이분은… 장미, 저분은… 튤립.
+    여긴 꽃을 닮은 분이 많아요. 좋은 곳이네요.
+  ja: |-
+    この方は…バラ。 あちらの方は…チューリップ。
+    花に似ていらっしゃる方が こんなに…
+    ここは良い場所でございますね。
+c411_Outpost_Touch_3:
+  en: Someday, a garden might bloom here, don’t you think?
+  ko: 언젠간 이곳에 정원이 생길 수 있겠죠?
+  ja: いつかはここに 庭を作りたいものです。
+c411_Gacha_Get_1:
+  en: |-
+    How do you do? Flora from Botanic Garden, at your service.
+    Would you like to visit my garden?
+  ko: |-
+    안녕하신지요. 보타닉 가든의 플로라, 인사 올립니다.
+    저의 정원에 놀러 오시겠어요?
+  ja: |-
+    ごきげんよう。ボタニックガーデンのフローラでございます。
+    ぜひ、私の庭に遊びにいらしてくださいね。
+c411_Reinforce_1:
+  en: Now I can better tend to my garden.
+  ko: 정원을 더 열심히 가꿀 수 있겠네요.
+  ja: 庭の手入れがはかどりますね。
+c411_Reinforce_2:
+  en: You always know when I'm starting to wither.
+  ko: 꽃님은 제가 시들고 있을 때를 잘 알고 계신 것 같아요.
+  ja: お花様は、私が萎れる頃合いをよくご存知のようです。
+c411_Reinforce_3:
+  en: Thank you for your concern.
+  ko: 신경 써주셔서 감사해요.
+  ja: お気遣いいただき、ありがとうございます。
+c411_Gift_1:
+  en: Hehe, I should place this in the garden.
+  ko: 후후, 이건 정원에 두어야겠어요.
+  ja: ふふっ、これは庭に飾らせていただきますね。
+c411_Gift_2:
+  en: It feels like I'm always the one receiving gifts. Is there nothing you want,
+    Blossom?
+  ko: |-
+    매번 받기만 하는 것 같은데…
+    꽃님은 갖고 싶은 게 없으신가요?
+  ja: |-
+    いつも私ばかりいただいて…
+    お花様は、何か欲しいものはございませんか？
+c411_Gift_3:
+  en: Next time, I'll prepare a gift for you.
+  ko: 다음엔 제가 꽃님의 선물을 준비할게요.
+  ja: 今度は私がお花様にプレゼントをご用意いたします。
+c411_Attractive_Up_1:
+  en: |-
+    I used to find joy in cultivating flowers on my own.
+    ... But now, I find even greater joy in seeing them bloom alongside you.
+  ko: |-
+    원래는 혼자 꽃 피우는 게 즐거웠는데.
+    …이제는 꽃님과 함께 꽃 피우는 게 더 즐거워요.
+  ja: |-
+    以前は、一人で花を咲かせるのが楽しかったのですが…
+    今は、お花様と一緒に咲かせる方が、より楽しく思えます。
+c411_Attractive_Up_2:
+  en: |-
+    Do you know what the lisianthus flower represents?
+    I'll give you a hint: it's what I feel for you, hehe.
+  ko: |-
+    혹시 리시안셔스의 꽃말을 아시나요?
+    후후, 제가 꽃님께 해주고 싶은 말이랍니다.
+  ja: |-
+    リシアンサスの花言葉をご存知ですか？
+    ふふっ、私がお花様にお伝えしたい言葉でございます。
+c411_Attractive_Up_3:
+  en: "... You're the first one I've ever liked more than flowers."
+  ko: "…꽃보다 좋았던 건, 꽃님이 처음이에요."
+  ja: "…花より好きになれたのは、お花様が初めてです。"
+c411_Party_Deploy_1:
+  en: |-
+    It would be nice if the flowers could come along too.
+    So they could see the sunlight.
+  ko: |-
+    꽃들도 같이 가면 좋을 텐데.
+    …햇빛을 볼 수 있으니까요.
+  ja: |-
+    花たちを連れていけないのが残念です。
+    …太陽の光を浴びる、貴重な機会ですので。
+c411_Field_Touch_1:
+  en: Yes, Blossom?
+  ko: 예, 꽃님.
+  ja: はい、お花様。
+c411_Field_Go_1:
+  en: Be careful not to step on the sprouts.
+  ko: 새싹 안 밟게 조심하세요.
+  ja: 新芽を踏まないよう、お気をつけください。
+c411_Battle_Enter_1:
+  en: Shall we start purifying the air with the flowers?
+  ko: 꽃들과 함께 공기정화를 시작해 볼까요.
+  ja: 花たちと共に、空気の浄化を始めましょう。
+c411_Battle_Ready_1:
+  en: I will protect both Blossom and the flowers.
+  ko: 꽃님도 꽃들도 지킬 거예요.
+  ja: お花様も、花たちも、私がお守りします。
+c411_Battle_Ready_2:
+  en: "... The flowers are crying."
+  ko: "…꽃이 울고 있어요."
+  ja: "…花が泣いています。"
+c411_Battle_Ready_3:
+  en: Let's show them the power of flowers.
+  ko: 꽃의 힘을 보여주죠.
+  ja: 花の力をお見せいたしましょう。
+c411_Reload_1:
+  en: Keep an eye out for places where we can plant flowers.
+  ko: 꽃 심을 곳도 틈틈이 봐주세요.
+  ja: 花を植える場所もお忘れなく。
+c411_Reload_2:
+  en: Aren't there any seeds around?
+  ko: 주변에 씨앗 없나요?
+  ja: この辺りに種はございませんか？
+c411_Reload_3:
+  en: Perhaps I should have brought some poisonous herbs...
+  ko: 독초를 챙겼어야 했나….
+  ja: 毒草を持ってくるべきだったかしら…
+c411_Ult_Skill_Ready_1:
+  en: It's time for the flowers to bloom.
+  ko: 꽃을 피울 때가 되었군요.
+  ja: 花を咲かせる時が来ました。
+c411_Ult_Skill_1:
+  en: Shall we let the seeds sprout?
+  ko: 싹을 틔워볼까요?
+  ja: さあ、芽吹きの時間です。
+c411_FullBurst_1:
+  en: This is the most beautiful flower in the world.
+  ko: 세상에서 가장 아름다운 꽃이네요.
+  ja: 世界で一番美しい花でございますね。
+c411_Kill_Monster_1:
+  en: Let's use it for the potted plants.
+  ko: 화분으로 쓰죠.
+  ja: 植木鉢に使いましょう。
+c411_Kill_Monster_2:
+  en: The flowers are coming back to life.
+  ko: 꽃이 살아나고 있어요.
+  ja: 花が蘇っています。
+c411_Kill_Monster_3:
+  en: They are being purified.
+  ko: 정화되고 있군요.
+  ja: 浄化は順調です。
+c411_Damage_1:
+  en: Eek!
+  ko: 꺅-!
+  ja: きゃっ！
+c411_Damage_2:
+  en: Ugh...!
+  ko: 으읏…!
+  ja: うっ…！
+c411_Damage_3:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c411_Die_1:
+  en: "... I need to go water the garden."
+  ko: "…정원에 물 주러 가야 하는데."
+  ja: 庭に水をやらないと…
+c411_Win_1:
+  en: Victory is blooming before our very eyes.
+  ko: 승리를 꽃피웠네요.
+  ja: 勝利の花を咲かせました。
+411_cv_ja:
+  en: 'CV: Aya Endō'
+  ko: 'CV : 엔도 아야'
+  ja: CV：遠藤綾
+411_cv_ko:
+  en: 'CV: Chae Rim'
+  ko: 'CV : 채림'
+  ja: CV：チェリム
+411_cv_en:
+  en: 'CV: Amber Aviles'
+  ko: 'CV : 앰버 아빌레스'
+  ja: CV：Amber Aviles

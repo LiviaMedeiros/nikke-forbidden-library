@@ -1,0 +1,6390 @@
+---
+event_ltk_prologue:
+  event_ltk_prologue_1:
+    speaker: Monologue
+    en: There is a man with his back turned.
+    ko: 뒤돌아 있는 남자.
+    ja: 男が後ろを向いている
+  event_ltk_prologue_2:
+    speaker: Monologue
+    en: From the back, he appears confident, but he cannot hide the fact that he is
+      trembling.
+    ko: 남자의 뒷모습은 당당했지만 떨림은 감추지 못했다.
+    ja: |-
+      男の後ろ姿は堂々としていたが、
+      恐怖による震えは隠しきれなかった
+  event_ltk_prologue_3:
+    speaker: Monologue
+    en: Meanwhile, the two with their guns drawn at him are both steady as a rock.
+    ko: 그와 상반되게 남자에게 총구를 겨누고 있는 둘은 미동도 하지 않았다.
+    ja: |-
+      反対に、男に銃口を向けている二人は
+      微動だにしていない
+  event_ltk_prologue_4:
+    speaker: Monologue
+    en: The man attempts to suppress the quivering of his voice when he speaks.
+    ko: 남자는 애써 떨리는 목소리를 억누르며 말했다.
+    ja: 男は声の震えを必死に抑えながら言った
+  event_ltk_prologue_5:
+    speaker: owner
+    en: Please, don't do something you'll regret.
+    ko: "…후회하지 않을 자신 있나?"
+    ja: "…後悔しないか？"
+  event_ltk_prologue_6:
+    speaker: owner
+    en: What I've done, what I'm doing, and what I will do...
+    ko: 내가 해왔던 일, 하는 일, 앞으로 할 일 모두.
+    ja: |-
+      私がしてきたこと、していること、
+      これからすること。
+  event_ltk_prologue_7:
+    speaker: owner
+    en: You've got to take it all into consideration.
+    ko: 단순하게 생각할 일이 아니야.
+    ja: そう単純な話じゃない。
+  event_ltk_prologue_8:
+    speaker: owner
+    en: You can't let your personal feelings get in the way of all this.
+    ko: 개인의 기분만으로 결정이 내려질 정도의 무게가 아니란 말이야.
+    ja: |-
+      気まぐれで決められるほど
+      軽いものじゃないんだ。
+  event_ltk_prologue_9:
+    speaker: owner
+    en: So please, think carefully
+    ko: 그러니 잘 생각해.
+    ja: だからよく考えてくれ。
+  event_ltk_prologue_10:
+    speaker: owner
+    en: about what the right decision is.
+    ko: 어떤 것이 옳은 선택인지.
+    ja: 何が正しい選択なのか。
+  event_ltk_prologue_11:
+    speaker: Narration
+    en: The two figures who are pointing guns at the man begin to speak.
+    ko: 남자에게 총을 겨누고 있던 둘이 말했다.
+    ja: 男に銃を向けていた二人が言った
+  event_ltk_prologue_12:
+    speaker: d
+    en: Decide.
+    ko: 선택해.
+    ja: 選べ。
+  event_ltk_prologue_13:
+    speaker: k
+    en: All you need to do is make a choice.
+    ko: 너는 선택만 해.
+    ja: お前は選ぶだけだよ～
+  event_ltk_prologue_14:
+    speaker: k
+    en: We'll handle the rest.
+    ko: 하는 건 우리가 할 테니까.
+    ja: やるのは私たちの仕事だ。
+  event_ltk_prologue_15:
+    speaker: d
+    en: Just keep in mind.
+    ko: 대신.
+    ja: その代わり、
+  event_ltk_prologue_16:
+    speaker: d
+    en: You mustn't make it personal.
+    ko: 그 선택은 너만의 것이 되어선 안 돼.
+    ja: |-
+      その選択はお前ひとりだけの
+      ものであってはならない。
+  event_ltk_prologue_17:
+    speaker: d
+    en: Whatever you decide, it has to be what you feel is best for everyone.
+    ko: 모두를 위한 것이어야 해.
+    ja: みんなのためでなければ。
+  event_ltk_prologue_18:
+    speaker: k
+    en: You shouldn't need a lot of time.
+    ko: 오래 끌 것 없겠지.
+    ja: そんなに時間かける必要ないよ。
+  event_ltk_prologue_19:
+    speaker: k
+    en: Especially since you've already made up your mind.
+    ko: 넌 이미 마음을 정했을 테니까.
+    ja: お前の気持ちはもう決まってるはずだろ。
+  event_ltk_prologue_20:
+    speaker: k
+    en: So out with it.
+    ko: 그럼 지금 바로 말해줄래?
+    ja: ほら、どうする～？
+  event_ltk_prologue_21:
+    speaker: k
+    en: What do you think?
+    ko: 앞에 이 녀석.
+    ja: 目の前にいるこいつ。
+  event_ltk_prologue_22:
+    speaker: k
+    en: |-
+      Should we kill him?
+      Or should we let him live?
+    ko: |-
+      죽일까?
+      아니면 살릴까?
+    ja: |-
+      殺す？
+      それとも生かす？
+event_ltk_01_s:
+  event_ltk_01_s_1:
+    speaker: Monologue
+    en: It's been ages since I had some free time on my hands.
+    ko: 오랜만에 여유가 생겼다.
+    ja: 久しぶりに時間ができた
+  event_ltk_01_s_2:
+    speaker: Monologue
+    en: At long last, some precious time with no appointments or any work to do.
+    ko: 아무런 약속도, 잔여 업무도 없는 귀한 시간이다.
+    ja: 何の約束も、仕事もない貴重な時間だ
+  event_ltk_01_s_3:
+    speaker: Monologue
+    en: First, I'm going to hop in the shower, then I'll think about what I want to
+      do today.
+    ko: 일단 샤워부터 하고 오늘 하루를 어떻게 보낼지 고민해 보자.
+    ja: |-
+      まずはシャワーを浴びて、
+      今日1日どう過ごすか考えよう
+  event_ltk_01_s_4:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_ltk_01_s_5:
+    speaker: Monologue
+    en: D and K are in my shower.
+    ko: 샤워실 안에는 D와 K가 있었다.
+    ja: シャワー室の中にDとKがいた
+  event_ltk_01_s_6:
+    speaker: d
+    en: We've received an assignment.
+    ko: 지령이 내려왔다.
+    ja: 指令が出た。
+  event_ltk_01_s_7:
+    speaker: k
+    en: Let's get to work.
+    ko: 일하러 가자.
+    ja: 仕事だよ～
+  event_ltk_01_s_8:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_01_s_9:
+    speaker: Self
+    en: "... I'm far too tired for all of this."
+    ko: 뭐지. 많이 피곤한가.
+    ja: 何だろう。疲れているのだろうか
+  event_ltk_01_s_10:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_ltk_01_s_11:
+    speaker: k
+    en: Why are you closing the door?
+    ko: 뭐야 뭐야? 왜 문을 닫아?
+    ja: ちょっと～？なんで閉めるの？
+  event_ltk_01_s_12:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_01_s_13:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_ltk_01_s_14:
+    speaker: d
+    en: You seem puzzled.
+    ko: 혼란스러운 표정이군.
+    ja: 混乱しているようだな。
+  event_ltk_01_s_15:
+    speaker: k
+    en: Perhaps I wasn't quite clear.
+    ko: 그래? 너무 간결하게 얘기했나?
+    ja: そう？説明が足りなかった？
+  event_ltk_01_s_16:
+    speaker: k
+    en: Sit over there. I'll explain everything in detail.
+    ko: |-
+      그럼 저기 앉아.
+      자세하게 설명해 줄 테니까.
+    ja: |-
+      じゃー、そこに座って。
+      詳しく説明してやるよ。
+  event_ltk_01_s_17:
+    speaker: k
+    en: Everything will be made clear very soon.
+    ko: 얘기 들으면 되지 뭘 혼란스러워하기까지 해?
+    ja: そんな混乱することないのに。
+  event_ltk_01_s_18:
+    speaker: Self
+    en: I'm not confused, it's just...
+    ko: "…아니, 내가 혼란스러운 건 그쪽이 아니라…."
+    ja: "…いや、そういうことではなくて…"
+  event_ltk_01_s_19:
+    speaker: k
+    en: Go on, sit. Let me fill you in.
+    ko: |-
+      앉아 앉아.
+      얘기해 줄 테니까.
+    ja: |-
+      座って座って～
+      説明するから。
+  event_ltk_01_s_20:
+    speaker: Narration
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_ltk_01_s_21:
+    speaker: Monologue
+    en: The three of us sit at the table.
+    ko: 우리는 테이블 앞에 앉아있었다.
+    ja: 私たちはテーブルの前に座っていた
+  event_ltk_01_s_22:
+    speaker: d
+    en: The target is the president of C.O.L.
+    ko: 타겟은 C.O.L.의 대표야.
+    ja: ターゲットはC.O.L.の社長。
+  event_ltk_01_s_23:
+    speaker: k
+    en: C.O.L. stands for "Cycle of Life". It's a company that buys used electronics,
+      repairs them, then resells them.
+    ko: |-
+      사이클 오브 라이프라는 이름이야.
+      중고 전자제품을 사들여서 수리 후 재판매하는 기업이지.
+    ja: |-
+      サイクル・オブ・ライフって名前ね。
+      中古電子製品を買い込んで、
+      修理してから再販売する企業。
+  event_ltk_01_s_24:
+    speaker: k
+    en: Their expansion has been remarkable, in fact, so much that only the Big Three
+      are valued higher.
+    ko: 성장세가 아주 커서 지금은 3대 기업 바로 아래라는 얘기가 나올 정도야.
+    ja: |-
+      ものすごい成長ぶりで、三大企業に
+      追いつきそう、なんて話も出てるくらい。
+  event_ltk_01_s_25:
+    speaker: k
+    en: In fact, some reports indicate that they are actually outperforming the Big
+      Three in terms of purchasing and sales.
+    ko: 구매와 판매 루트 면에서는 3대 기업보다 낫다는 평가도 있어.
+    ja: |-
+      購入・販売ルートの面からいえば、
+      三大企業より上とも言われてる。
+  event_ltk_01_s_26:
+    speaker: k
+    en: In other words, they're raking in the cash.
+    ko: 돈을 무지하게 많이 번다는 얘기지.
+    ja: めちゃくちゃ儲かってるって話だよ。
+  event_ltk_01_s_27:
+    speaker: d
+    en: The money isn't what's important.
+    ko: 돈은 중요한 점이 아냐.
+    ja: それは重要ではない。
+  event_ltk_01_s_28:
+    speaker: k
+    en: I know. I'm just saying.
+    ko: 알아 알아. 그냥 그렇다는 거지.
+    ja: |-
+      分かってるって～
+      ただ事実を言っただけ。
+  event_ltk_01_s_29:
+    speaker: k
+    en: Anyway, this guy used to be a real bigwig in the Central Government.
+    ko: 아무튼 이 녀석, 과거 중앙정부에서 제법 끗발 날리는 자리까지 올라갔다가.
+    ja: |-
+      とにかく。こいつ、昔は中央政府で
+      それなりの地位まで上り詰めたのに
+  event_ltk_01_s_30:
+    speaker: k
+    en: Until one day he retired and started this electronics business.
+    ko: 돌연 퇴직, 전자제품 사업을 시작했어.
+    ja: 突然退職して電子製品事業を始めたんだ。
+  event_ltk_01_s_31:
+    speaker: k
+    en: Then it blew up.
+    ko: 그게 완전 대박이 난 거지.
+    ja: それが大当たりってわけ。
+  event_ltk_01_s_32:
+    speaker: d
+    en: All of this is superfluous information.
+    ko: 필요 이상의 정보를 너무 노출하고 있어.
+    ja: 必要以上の情報を教えているんじゃないか。
+  event_ltk_01_s_33:
+    speaker: k
+    en: Fine, then you tell it.
+    ko: 아 그럼 네가 하던가.
+    ja: じゃあDがやったら？
+  event_ltk_01_s_34:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_01_s_35:
+    speaker: d
+    en: This so-called "president" is making large donations to the Central Government.
+    ko: 타겟. 통칭 [사장]은 중앙 정부에 대량의 기부금을 내고 있어.
+    ja: |-
+      ターゲット、通称「社長」は中央政府に
+      大金を寄付している。
+  event_ltk_01_s_36:
+    speaker: d
+    en: He's also been investing in the medical industry, and making some hefty donations
+      as well.
+    ko: 그 외에도 의료 사업에 투자 및 기부도 적극적으로 하고 있어.
+    ja: |-
+      それ以外に、医療事業への投資や寄付も
+      積極的に行っている。
+  event_ltk_01_s_37:
+    speaker: k
+    en: It sounds like he's a real standup guy.
+    ko: 얼핏 보면 좋은 일만 골라 하는 것 같지?
+    ja: |-
+      ぱっと見、いいことばっかり
+      してるみたいじゃない？
+  event_ltk_01_s_38:
+    speaker: d
+    en: But he's been targeted.
+    ko: 하지만 타겟으로 지정되었어.
+    ja: しかし、ターゲットに指定された。
+  event_ltk_01_s_39:
+    speaker: d
+    en: Why is that?
+    ko: 그 이유는.
+    ja: その理由は…
+  event_ltk_01_s_40:
+    speaker: k
+    en: He's making waaaaay too much moolah.
+    ko: 돈을 벌어도 너~~무 번다는 거지.
+    ja: 儲けすぎ～
+  event_ltk_01_s_41:
+    speaker: d
+    en: What kind of a reason is that?
+    ko: 그게 이유가 되진 않아.
+    ja: それでは理由にはならない。
+  event_ltk_01_s_42:
+    speaker: k
+    en: His income can't come just from trading electronics.
+    ko: 전자제품을 거래하는 것만으로 그 수익은 말이 안 돼.
+    ja: 電子製品の取引だけでこの収益はあり得な～い、
+  event_ltk_01_s_43:
+    speaker: k
+    en: The Judges feel there must be something else going on.
+    ko: 그것 이외에 뭔가가 있다는 것이 [저지스]에서 내린 결론이고.
+    ja: |-
+      それ以外にも何かある、っていうのが
+      「ジャッジス」が下した結論。
+  event_ltk_01_s_44:
+    speaker: k
+    en: It's up to us to figure out what exactly that is.
+    ko: 너와 우린 그 [뭔가]가 뭔지 찾아낸 다음.
+    ja: お前と私たちはその「何か」を見つけ出して
+  event_ltk_01_s_45:
+    speaker: k
+    en: Once we have, we'll make our decision and carry it out.
+    ko: 결정을 내리고 실행하면 돼.
+    ja: 決定を下し、実行すればいいんだ。
+  event_ltk_01_s_46:
+    speaker: Self
+    en: What exactly do you mean?
+    ko: 무슨 결정을 내리고 실행한다는 거야?
+    ja: 何を決定するんだ？
+  event_ltk_01_s_47:
+    speaker: k
+    en: Isn't it obvious?
+    ko: 응? 당연하잖아.
+    ja: え？分かりきってるだろ。
+  event_ltk_01_s_48:
+    speaker: k
+    en: Whether or not we kill this guy.
+    ko: 죽일지 말지 결정하면 되는 거야.
+    ja: 殺すかどうか決めるんだよ。
+event_ltk_01_e:
+  event_ltk_01_e_1:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_01_e_2:
+    speaker: Self
+    en: Wait... say that again?
+    ko: 뭘 어떻게 한다고?
+    ja: 何をするって？
+  event_ltk_01_e_3:
+    speaker: k
+    en: We've got to decide whether or not we kill this guy.
+    ko: 죽일지 말지 결정하면 된다고.
+    ja: 殺すかどうか決めるんだって。
+  event_ltk_01_e_4:
+    speaker: k
+    en: The president. Our target. Kill him. Yes or no? Comprende?
+    ko: |-
+      타겟인 사장을.
+      죽일지. 말지. 결정. 네가. 알겠어?
+    ja: |-
+      ターゲットの社長を…
+      殺すか、どうか、決める、お前が。OK？
+  event_ltk_01_e_5:
+    speaker: Self
+    en: But why does this guy potentially deserve to die?
+    ko: 아니, 얘기가 왜 그렇게….
+    ja: いや、どうしてそんな話に…
+  event_ltk_01_e_6:
+    speaker: k
+    en: There's a high chance he's got his fingers in some legally dubious pies.
+    ko: 타겟이 불법에 연루되었을 가능성이 높기 때문이야.
+    ja: |-
+      ターゲットが違法行為に関わっている可能性が
+      高いからだよ。
+  event_ltk_01_e_7:
+    speaker: k
+    en: That's evil.
+    ko: 그것도 악질인.
+    ja: しかも悪質な。
+  event_ltk_01_e_8:
+    speaker: Self
+    en: You're going to kill him just for that?
+    ko: 불법을 저질렀다고 죽이는 거야?
+    ja: 違法行為をしたから殺すのか？
+  event_ltk_01_e_9:
+    speaker: d
+    en: No.
+    ko: 아니.
+    ja: いや。
+  event_ltk_01_e_10:
+    speaker: d
+    en: We will investigate.
+    ko: 조사한다.
+    ja: 調査をする。
+  event_ltk_01_e_11:
+    speaker: d
+    en: If he has done something illegal, then we'll consider the severity of the
+      crime.
+    ko: |-
+      불법을 저지르는지,
+      저지른다면 어떤 종류의 불법을 저지르는지.
+    ja: |-
+      違法行為をしたのか、
+      したのならどのような違法行為なのか。
+  event_ltk_01_e_12:
+    speaker: d
+    en: We will be completely impartial in our investigation.
+    ko: 짐작과 추측은 철저히 배제한 채.
+    ja: 想像や憶測は徹底的に排除して
+  event_ltk_01_e_13:
+    speaker: d
+    en: Once we've concluded said investigation, we'll reach our final decision.
+    ko: 모든 [사실] 조사가 끝나면 결정을 내린다.
+    ja: "「事実」に基づく調査が終われば決定を下す。"
+  event_ltk_01_e_14:
+    speaker: k
+    en: You follow me?
+    ko: 알겠지?
+    ja: 分かったか？
+  event_ltk_01_e_15:
+    speaker: k
+    en: 'To recap: We determine exactly what the target is, or isn''t, up to.'
+    ko: 요약하자면 타겟이 무슨 일들을 하는지 확실하게 알아낸 다음.
+    ja: |-
+      つまり、ターゲットが何をしたのか
+      ちゃんとはっきりさせてから
+  event_ltk_01_e_16:
+    speaker: k
+    en: Then we make a decision as to whether or not we kill him.
+    ko: 타겟을 죽일지 말지 결정하는 거야.
+    ja: ターゲットを殺すかどうか決めるんだよ。
+  event_ltk_01_e_17:
+    speaker: k
+    en: That's how we Perilous Siege work.
+    ko: 그게 우리 시지 패러리스가 하는 일이지.
+    ja: それがシージペリラスの仕事。
+  event_ltk_01_e_18:
+    speaker: k
+    en: This time, you'll be making the final decision, and we'll carry it out.
+    ko: 이번엔 네가 결정하고, 우리가 따르는 쪽이지만.
+    ja: 今回はお前が決めて、私たちが従う側だけどね。
+  event_ltk_01_e_19:
+    speaker: Self
+    en: Why would I...
+    ko: "…그걸 왜 내가…."
+    ja: "…どうして私が…"
+  event_ltk_01_e_20:
+    speaker: d
+    en: The Judges have decreed it.
+    ko: 저지스에서의 전언이다.
+    ja: ジャッジスがそうしろと。
+  event_ltk_01_e_21:
+    speaker: d
+    en: This is a first for us as well.
+    ko: 우리도 이런 경우는 처음이야.
+    ja: 私たちもこのパターンは初めてだ。
+  event_ltk_01_e_22:
+    speaker: k
+    en: Usually, our opinions are taken into serious consideration when making the
+      final decision. But this time, you're the one who gets to pull the trigger...
+      figuratively speaking, that is.
+    ko: 그래. 보통은 우리 판단을 적극 수용해서 최종적으로 결정하거든? 근데 이번엔 네가 최종 결정권자야.
+    ja: |-
+      普通は私たちの判断を受けて
+      最終的にジャッジスが決定するんだけどね～
+      でも今回はお前が最終決定権を持ってるんだ。
+  event_ltk_01_e_23:
+    speaker: k
+    en: Actually, I do have a guess as to why it's different this time around.
+    ko: 뭐, 무슨 이유인지는 대충 짐작은 가지만.
+    ja: まあ、理由はだいたい予想つくけど。
+  event_ltk_01_e_24:
+    speaker: Self
+    en: What's the reason?
+    ko: 이유가 뭔데?
+    ja: 何だ？
+  event_ltk_01_e_25:
+    speaker: k
+    en: Remember how the target donates a whole lot of money to the Central Government?
+    ko: 타겟이 중앙 정부에 무지막지한 금액을 지원한다고 말했지?
+    ja: |-
+      ターゲットが中央政府に
+      大金を支援してるって言っただろ？
+  event_ltk_01_e_26:
+    speaker: k
+    en: That's why.
+    ko: 그거 때문이야.
+    ja: そのせいだよ。
+  event_ltk_01_e_27:
+    speaker: k
+    en: If we eliminate the target, there goes the higher-ups' cash cow.
+    ko: 타겟을 처리하면 지원금이 끊겨.
+    ja: ターゲットを処理すると支援金が途切れるんだ。
+  event_ltk_01_e_28:
+    speaker: k
+    en: The target may be obtaining the money using underhanded methods,
+    ko: |-
+      높으신 분들은 아는 거야.
+      타겟은 인륜을 벗어난 방법으로 돈을 벌고 있지만.
+    ja: |-
+      お偉いさんたちは分かってるんだろ。
+      ターゲットは道徳に背く行いで金を稼いでるけど
+  event_ltk_01_e_29:
+    speaker: k
+    en: but a whole bunch of those profits are being funneled straight to the Central
+      Government.
+    ko: 그 돈 중 일부분이 중앙 정부로 흘러들어온다는걸.
+    ja: その金の一部は中央政府に流れてるってことを。
+  event_ltk_01_e_30:
+    speaker: k
+    en: So they've got cold feet.
+    ko: 그러니 망설이는 거지.
+    ja: だから迷ってるんだ。
+  event_ltk_01_e_31:
+    speaker: k
+    en: Killing him means derailing the gravy train, but letting him live doesn't
+      sit right with them either.
+    ko: |-
+      죽이자니 지원금이 끊길 테니 아쉽고,
+      살리자니 그건 좀 너무 아닌 것 같고.
+    ja: |-
+      殺すと支援金が途切れるから残念、
+      かといって生かしておくのも変。
+  event_ltk_01_e_32:
+    speaker: k
+    en: So they're leaving the hard part of making the decision up to you.
+    ko: 그래서 너한테 모두 맡겨버리는 거야.
+    ja: だからお前にすべてを任せたんだ。
+  event_ltk_01_e_33:
+    speaker: k
+    en: Judges vote to select the next target.
+    ko: 타겟의 선별은 저지스에서 투표로 진행되는 건 알아?
+    ja: |-
+      ターゲットの選別は
+      ジャッジスの投票で決まるんだよ。
+  event_ltk_01_e_34:
+    speaker: k
+    en: Whatever this guy's done, he's obviously crossed the line far enough for the
+      Judges to designate him as a target,
+    ko: |-
+      저지스에서 타겟으로 지정될 만큼,
+      그 녀석은 선을 넘었다는 거지.
+    ja: |-
+      ジャッジスにターゲットに選ばれたってことは
+      そいつは一線を越えたってことだ。
+  event_ltk_01_e_35:
+    speaker: k
+    en: despite the fact many of them are lining their pockets with his ill-gotten
+      money.
+    ko: 받아먹은 이들조차, 찬성할 정도로.
+    ja: |-
+      オイシイ思いをしてる奴らでさえ、
+      賛成するほどに。
+  event_ltk_01_e_36:
+    speaker: k
+    en: That's why they're tossing this hot potato in your lap.
+    ko: 그러니 너한테 떠넘긴 거야.
+    ja: だからお前に押しつけたんだ。
+  event_ltk_01_e_37:
+    speaker: k
+    en: It might also be because you're part of the Central Government too.
+    ko: "…뭐, 네가 중앙 정부 소속이라서 그런 것일지도 모르고."
+    ja: |-
+      …まあ、お前が中央政府所属だからかも
+      しれないし。
+  event_ltk_01_e_38:
+    speaker: Self
+    en: In other words, they're hoping that I'll play favorites.
+    ko: "…대놓고 편파적인 판단을 하라는 것일지도 모르겠네."
+    ja: |-
+      …堂々と偏った判断をしろ
+      ということかもしれない
+  event_ltk_01_e_39:
+    speaker: k
+    en: Potentially.
+    ko: 그럴 수도 있다는 거지.
+    ja: そうかもしれないね～
+  event_ltk_01_e_40:
+    speaker: d
+    en: Don't say anything that you can't prove to be true.
+    ko: 사실 여부가 판단되지 않은 사실을 얘기하지 마.
+    ja: 事実かどうか分からないことは言うな。
+  event_ltk_01_e_41:
+    speaker: k
+    en: All right, all right.
+    ko: 네네. 알겠습니다.
+    ja: はいはい～、了解。
+  event_ltk_01_e_42:
+    speaker: k
+    en: We should get going.
+    ko: 자 그럼 움직여볼까.
+    ja: それじゃ、行こうか～
+  event_ltk_01_e_43:
+    speaker: Self
+    en: How do we do this?
+    ko: 어떻게 움직이지?
+    ja: 何をするんだ？
+  event_ltk_01_e_44:
+    speaker: d
+    en: We are going to go undercover.
+    ko: 잠입한다.
+    ja: 潜入する。
+  event_ltk_01_e_45:
+    speaker: k
+    en: We've already completed the preliminary investigation.
+    ko: 그래. 공식적인 자료로 조사할 수 있는 건 다 했어.
+    ja: |-
+      公開されてる資料で
+      調査できることは全部やったから、
+  event_ltk_01_e_46:
+    speaker: k
+    en: All we have left to do is figure out a few smaller details.
+    ko: 남은 건 비공식적인 자료를 조사하는 건데.
+    ja: あとは公開されてない資料を調査する。
+  event_ltk_01_e_47:
+    speaker: k
+    en: Going undercover is our best option for that.
+    ko: 그러려면 잠입이 최적이지.
+    ja: それには潜入が一番だ。
+  event_ltk_01_e_48:
+    speaker: "<Choice>"
+    en: I'm not very confident in my clandestine capabilities.
+    ko: 은밀 기동은 자신 없는데.
+    ja: 隠密行動には自信がないが
+  event_ltk_01_e_49:
+    speaker: "<Choice>"
+    en: Stand back and watch a master of disguise at work, ladies.
+    ko: "…갈고닦았던 인술을 보여줄 때가 왔군."
+    ja: "…今まで磨いてきた忍術を見せる時が来たか"
+  event_ltk_01_e_50:
+    speaker: k
+    en: What are you babbling about?
+    ko: 무슨 소리야?
+    ja: 何言ってんだ？
+  event_ltk_01_e_51:
+    speaker: k
+    en: What good would infiltrating the company do us?
+    ko: 회사에 몰래 숨어들어가서 뭘 어쩌게?
+    ja: 会社にこっそり入ってどうする？
+  event_ltk_01_e_52:
+    speaker: k
+    en: You think they're gonna leave stacks of illegal paperwork laying around for
+      us to find? How stupid do you think they are?
+    ko: |-
+      뭐 불법 서류 같은 거라도 있을까 봐?
+      바보도 아니고 불법 서류를 회사에 왜 놔둬?
+    ja: |-
+      違法書類でも探すのか？
+      会社に置いておくバカはいないだろ。
+  event_ltk_01_e_53:
+    speaker: Self
+    en: Well, what then?
+    ko: 그럼….
+    ja: じゃあ…
+  event_ltk_01_e_54:
+    speaker: d
+    en: We're going to
+    ko: 취직한다.
+    ja: 就職するんだ。
+  event_ltk_01_e_55:
+    speaker: d
+    en: become company employees.
+    ko: 타겟의 회사에.
+    ja: ターゲットの会社に。
+event_ltk_02_s:
+  event_ltk_02_s_1:
+    speaker: Self
+    en: "... We're going to get jobs?"
+    ko: "…취직을 한다고?"
+    ja: "…就職するって？"
+  event_ltk_02_s_2:
+    speaker: k
+    en: That's right. We'll get hired at the target's company, and see what we can
+      dig up.
+    ko: 그래. 취직한 다음 안에서 무슨 일이 벌어지고 있는지 조사할 거야.
+    ja: |-
+      そう。就職して内部で何が起きているのか
+      調査するんだよ。
+  event_ltk_02_s_3:
+    speaker: k
+    en: If we want to find out the truth, we've got to get on the inside.
+    ko: 내부의 사정은 내부에서만 알 수 있을 테니까.
+    ja: 社内事情は中に入らないと分からないから。
+  event_ltk_02_s_4:
+    speaker: Self
+    en: How exactly do you plan on all of us getting hired?
+    ko: "…어… 취직을 어떻게…."
+    ja: "…えっ…でもどうやって…"
+  event_ltk_02_s_5:
+    speaker: d
+    en: Starting tomorrow, all we've got to do is show up at the office.
+    ko: 내일부터 출근하면 돼.
+    ja: 明日から出勤すればいい。
+  event_ltk_02_s_6:
+    speaker: k
+    en: We've got it all taken care of.
+    ko: 그래. 이미 얘기는 다 되어있어.
+    ja: もう話はつけてある。
+  event_ltk_02_s_7:
+    speaker: k
+    en: We just need to start working from tomorrow morning.
+    ko: 내일 아침부터 출근해서 일하면 된다는 말씀.
+    ja: 明日の朝から出勤して働けばいいってこと。
+  event_ltk_02_s_8:
+    speaker: k
+    en: Don't worry, we didn't do anything illegal.
+    ko: 아, 불법 루트로 입사하는 건 아니니까 걱정하지 마.
+    ja: |-
+      あ、不正ルートで入社したわけじゃないから
+      安心して。
+  event_ltk_02_s_9:
+    speaker: k
+    en: We've got our official employee documentation all in order. They look so good,
+      you'd never know they were fake.
+    ko: 정성스럽게 조작된 서류로 정식 입사하는 거니까.
+    ja: |-
+      心をこめてねつ造した書類で
+      正式に入社しました～
+  event_ltk_02_s_10:
+    speaker: Self
+    en: That's illegal.
+    ko: 그게 불법이잖아.
+    ja: それを不正と言う
+  event_ltk_02_s_11:
+    speaker: k
+    en: Don't be such a stick in the mud.
+    ko: 걱정 많은 인간이네 정말.
+    ja: 心配性だな。
+  event_ltk_02_s_12:
+    speaker: k
+    en: Anyway, good luck at work.
+    ko: 어쨌든 가서 열심히 일해봐.
+    ja: とにかく一生懸命働いてこい。
+  event_ltk_02_s_13:
+    speaker: Self
+    en: You talk as if you're not going.
+    ko: |-
+      ??
+      남 일처럼 얘기하네.
+    ja: |-
+      ？？
+      Kは行かないのか？
+  event_ltk_02_s_14:
+    speaker: k
+    en: That's exactly right. I'm not going to work.
+    ko: 응. 난 일하러 안 가.
+    ja: 私は行かないよ～
+  event_ltk_02_s_15:
+    speaker: k
+    en: I'm going to look into the medical institutions that the target has been putting
+      money into.
+    ko: 타겟이 기부하고 투자한다는 의료 업계 쪽을 한 번 알아보려고.
+    ja: |-
+      ターゲットが寄付や投資をしてる
+      医療業界を調べようと思ってね。
+  event_ltk_02_s_16:
+    speaker: k
+    en: That's important too, y'know.
+    ko: 거기서 무슨 일이 일어나는지도 한 번 봐야지.
+    ja: そっちも何が起きてるか調べておかないと。
+  event_ltk_02_s_17:
+    speaker: k
+    en: You and D can handle this side of things without me.
+    ko: D랑 너만 출근해서 일하면 돼.
+    ja: 出勤して働くのはDとお前だけ。
+  event_ltk_02_s_18:
+    speaker: Self
+    en: All right.
+    ko: 음… 일단 알겠어.
+    ja: うーん…とりあえず分かった
+  event_ltk_02_s_19:
+    speaker: k
+    en: Get some rest tonight. We put our plan into action starting tomorrow.
+    ko: 좋아. 그럼 잘 주무시고 내일부터 움직여 보자고.
+    ja: |-
+      オッケー。それじゃぐっすり寝て、
+      明日から動いてみよ～
+  event_ltk_02_s_20:
+    speaker: Self
+    en: One last thing.
+    ko: "…조금 신경 쓰이는 게 있어."
+    ja: "…少し気になることがある"
+  event_ltk_02_s_21:
+    speaker: k
+    en: Ugh, what is it?
+    ko: 아 또 뭔데?
+    ja: ハァ、今度は何？
+  event_ltk_02_s_22:
+    speaker: Self
+    en: Why can't you just ask Enikk to make a judgment?
+    ko: 에닉에게 그 타겟을 판결해달라고 하면 되는 거 아냐?
+    ja: |-
+      エニックにそのターゲットを裁いてくれと
+      頼めばいいのでは？
+  event_ltk_02_s_23:
+    speaker: k
+    en: A fair question.
+    ko: "…흠."
+    ja: "…うーん。"
+  event_ltk_02_s_24:
+    speaker: d
+    en: Enikk doesn't make judgments unless requested by the Judges.
+    ko: 에닉은 저지스의 요청이 없다면 판결하지 않아.
+    ja: |-
+      エニックはジャッジスの依頼がなければ
+      裁きを下したりしない。
+  event_ltk_02_s_25:
+    speaker: k
+    en: The target has an uncomfortable association with the Judges. There's no way
+      they'd take this to Enikk.
+    ko: |-
+      저지스와 타겟은 불편한 관계로 묶여있고.
+      그러니 타겟을 에닉에게 데려가는 일은 없을 거란 말이지.
+    ja: |-
+      ジャッジスとターゲットの関係はいわくつき～
+      だからターゲットをエニックのところへ
+      連れていくことはないんだよ。
+  event_ltk_02_s_26:
+    speaker: k
+    en: The only scenario where Enikk would act on her own
+    ko: 에닉이 스스로 움직이는 경우는 단 하나야.
+    ja: エニックが自ら動く要因は1つだけ。
+  event_ltk_02_s_27:
+    speaker: k
+    en: would be if someone was causing untold damage to the Ark or its inhabitants.
+    ko: |-
+      누군가 방주와 인류에게 큰 피해를 입혔다.
+      라고 판단되면 스스로 움직여서 판결을 내려.
+    ja: |-
+      誰かがアークと人類に大きな被害を与えた。
+      そう判断したら自ら動いて、判決を下す。
+  event_ltk_02_s_28:
+    speaker: k
+    en: Otherwise, she grants the Judges full autonomy.
+    ko: 그렇지 않을 경우는 저지스가 알아서 하라는 입장이지.
+    ja: それ以外はジャッジスに任せるって感じだよ。
+  event_ltk_02_s_29:
+    speaker: k
+    en: Basically,
+    ko: 그 말은 또 바꿔서 얘기하면.
+    ja: 言い換えると
+  event_ltk_02_s_30:
+    speaker: k
+    en: regardless of what this guy is up to, it doesn't constitute a major threat
+      to security, at least not in Enikk's eyes.
+    ko: 타겟이 하는 일은 에닉 입장에서는 아무 문제도 없다는 얘기야.
+    ja: |-
+      ターゲットがしたことはエニックからしてみれば
+      何の問題もないってこと。
+  event_ltk_02_s_31:
+    speaker: k
+    en: So long as that's the case, she won't act on her own.
+    ko: 놔둬도 방주와 인류에게 위협이 안 된다는 얘기지.
+    ja: |-
+      ほっといてもアークと人類に
+      危害を及ぼさないってこと。
+  event_ltk_02_s_32:
+    speaker: k
+    en: I'll give you an example.
+    ko: 간단하게 얘기해 볼까.
+    ja: 簡単に説明しようか。
+  event_ltk_02_s_33:
+    speaker: k
+    en: Human trafficking. An unforgivable offense, wouldn't you say?
+    ko: |-
+      인신매매.
+      이건 용서받지 못할 일이야. 그렇지?
+    ja: |-
+      人身売買。
+      これは許せないこと。そうだろ？
+  event_ltk_02_s_34:
+    speaker: Self
+    en: Of course.
+    ko: 물론이야.
+    ja: もちろんだ
+  event_ltk_02_s_35:
+    speaker: k
+    en: Not from Enikk's perspective.
+    ko: 하지만 에닉 입장에서는 문제가 안 돼.
+    ja: でもエニックからしてみれば、問題じゃない。
+  event_ltk_02_s_36:
+    speaker: k
+    en: Nobody gets killed. It's not a question of how traumatic an experience is
+      or isn't. For Enikk, it's purely numbers. If they don't change, then it's not
+      a problem.
+    ko: |-
+      인간의 수는 변동이 없거든.
+      인간 개개인이 어떤 경험을 하든 숫자상으로는 문제가 없다는 거야.
+    ja: |-
+      人間の数は変わらないから。
+      その人間がどんな経験をしたとしても
+      数字上は問題ないんだよ。
+  event_ltk_02_s_37:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_38:
+    speaker: k
+    en: Having said that, human trafficking often involves a litany of other heinous
+      offenses.
+    ko: 물론 인신매매라는 쓰레기 같은 짓에는 다른 더러운 수단도 동원되기에, 보통은 개박살이 나는 경우가 대부분이지.
+    ja: |-
+      もちろん人身売買ってクズみたいなマネには
+      他の汚い手段も使うだろうから普通は
+      どっかでボコボコにされるだろうけどな。
+  event_ltk_02_s_39:
+    speaker: k
+    en: However warped it seems, the essential act of human trafficking in and of
+      itself is not a problem as far as Enikk is concerned.
+    ko: |-
+      그런데 음… 이 표현은 좀 이상하지만,
+      순수한 인신매매는 에닉 입장에서는 문제가 안된다는 말씀.
+    ja: |-
+      でも、その…変な言い方だけど「純粋な」
+      人身売買はエニック的には問題ないってこと。
+  event_ltk_02_s_40:
+    speaker: k
+    en: She operates according to different standards than us.
+    ko: 기준이 다른 거야. 에닉과 우리는.
+    ja: 基準が違うんだ。エニックと私たちは。
+  event_ltk_02_s_41:
+    speaker: k
+    en: Therefore, this case is something that the Judges and us need to figure out
+      on our own.
+    ko: 그러니 이건 저지스와 우리가 결론을 보고, 해결까지 해야 해.
+    ja: |-
+      だからこれはジャッジスと私たちが結論を出して
+      解決までしなきゃいけない。
+  event_ltk_02_s_42:
+    speaker: k
+    en: Yourself included.
+    ko: 그 대행이 네가 된 거고.
+    ja: その代行者がお前なんだ。
+  event_ltk_02_s_43:
+    speaker: Self
+    en: Okay. I understand.
+    ko: 알겠어. 이해했어.
+    ja: 理解はできた
+  event_ltk_02_s_44:
+    speaker: d
+    en: Don't take this lightly.
+    ko: 이 일을 가볍게 생각하지 마.
+    ja: この仕事を軽く考えるな。
+  event_ltk_02_s_45:
+    speaker: d
+    en: This can be a heavy burden, but it is one you must carry.
+    ko: 왕관을 쓴 자는 그 무게를 견뎌야 해.
+    ja: 王冠を戴く者は、その重さに耐えるべきだ。
+  event_ltk_02_s_46:
+    speaker: Self
+    en: I'll keep that in mind.
+    ko: "…응. 명심할게."
+    ja: "…肝に銘じておく"
+  event_ltk_02_s_47:
+    speaker: Narration
+    en: Next day.
+    ko: 다음 날.
+    ja: 翌日
+  event_ltk_02_s_48:
+    speaker: Monologue
+    en: D and I started work at the distribution warehouse.
+    ko: 나와 D는 물류 창고에서 일을 시작했다.
+    ja: 私とDは物流倉庫で働き始めた
+  event_ltk_02_s_49:
+    speaker: Monologue
+    en: We sort items, move others, and carry out inventory.
+    ko: 물건을 분류하고, 물건을 옮기고, 재고를 조사했다.
+    ja: 荷物を仕分けて、運んで、在庫をチェックした
+  event_ltk_02_s_50:
+    speaker: Monologue
+    en: After moving around non-stop, it's finally break time.
+    ko: 정신없이 움직이다 보니 쉬는 시간이 되었다.
+    ja: 慌ただしく動いていたら休み時間になった
+  event_ltk_02_s_51:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_52:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_53:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_54:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_55:
+    speaker: Self
+    en: This is exhausting.
+    ko: 힘드네.
+    ja: 大変だな
+  event_ltk_02_s_56:
+    speaker: d
+    en: You think so?
+    ko: 그런가.
+    ja: そうか？
+  event_ltk_02_s_57:
+    speaker: Self
+    en: Are you used to this kind of work?
+    ko: 이런 일이 익숙한가 봐?
+    ja: こういう仕事に慣れているのか？
+  event_ltk_02_s_58:
+    speaker: d
+    en: Nope.
+    ko: 익숙하지 않아.
+    ja: いや。
+  event_ltk_02_s_59:
+    speaker: Self
+    en: "... All right then."
+    ko: "…그렇구나."
+    ja: "…そうか"
+  event_ltk_02_s_60:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_61:
+    speaker: Self
+    en: You don't talk much, do you?
+    ko: "…D는 말이 없는 편이네."
+    ja: "…Dは口数が少ないな"
+  event_ltk_02_s_62:
+    speaker: d
+    en: Nope.
+    ko: 맞아.
+    ja: ああ。
+  event_ltk_02_s_63:
+    speaker: Self
+    en: "... I see."
+    ko: "…그렇구나."
+    ja: "…そうか"
+  event_ltk_02_s_64:
+    speaker: supervisor
+    en: Hey there, you two. You're the new hires, right?
+    ko: 허이구~ 반갑습니다, 신입분들.
+    ja: どうも～、こんにちは。新人のみなさん。
+  event_ltk_02_s_65:
+    speaker: supervisor
+    en: How's the work so far?
+    ko: 어떻게, 일은 좀 할만한가요?
+    ja: お仕事の方はどうですか？
+  event_ltk_02_s_66:
+    speaker: supervisor
+    en: Nothing too difficult, I hope?
+    ko: 힘든 건 없고?
+    ja: 辛くありません？
+  event_ltk_02_s_67:
+    speaker: d
+    en: No, no problems.
+    ko: 예. 일은 할만하고 힘든 건 없어요.
+    ja: はい。なんとかやっていけそうです。
+  event_ltk_02_s_68:
+    speaker: Self
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_ltk_02_s_69:
+    speaker: d
+    en: Are you the supervisor?
+    ko: 현장 감독님이신가요?
+    ja: 現場監督の方ですか？
+  event_ltk_02_s_70:
+    speaker: supervisor
+    en: Guilty! I'm the supervising officer for this line.
+    ko: |-
+      아아. 맞아요 맞아.
+      내가 이 라인 현장 감독이에요.
+    ja: |-
+      ええ、そうですよ。
+      このラインの現場監督です。
+  event_ltk_02_s_71:
+    speaker: d
+    en: In that case, if it's all right,
+    ko: 저 입사하기 전부터 궁금한 게 있었는데.
+    ja: |-
+      入社する前から気になっていたことが
+      あるんですが
+  event_ltk_02_s_72:
+    speaker: d
+    en: I do have a question for you.
+    ko: 물어봐도 되나요?
+    ja: 質問してもいいですか？
+  event_ltk_02_s_73:
+    speaker: supervisor
+    en: Oh... um... sure. Go right ahead.
+    ko: |-
+      응? 예 물어봐요, 물어봐.
+      뭐길래?
+    ja: |-
+      ん？ああ、どうぞ。
+      聞いてください。
+  event_ltk_02_s_74:
+    speaker: d
+    en: How's the cafeteria food here?
+    ko: 여기 점심은 맛있나요?
+    ja: ここの昼ご飯っておいしいですか？
+  event_ltk_02_s_75:
+    speaker: supervisor
+    en: Haha, a very important question indeed! I think you'd be hard-pressed to find
+      anywhere with better lunch options than us.
+    ko: |-
+      어휴 말이라고.
+      여기보다 맛있는 점심 나오는 곳 찾아보기 힘들어요.
+    ja: |-
+      あはは。ここの昼食より
+      おいしい場所を探すのは大変ですよ。
+  event_ltk_02_s_76:
+    speaker: supervisor
+    en: I must admit that I haven't exactly eaten at many other companies, but I still
+      stand by our food here.
+    ko: 내가 많은 곳을 다녀본 건 아니지만 여기가 최고죠.
+    ja: |-
+      他の場所をたくさん知ってるわけじゃないけど、
+      ここが一番です。
+  event_ltk_02_s_77:
+    speaker: supervisor
+    en: Why, are you hungry already?
+    ko: 왜. 벌써 배고파요?
+    ja: もうお腹が空いたんですか？
+  event_ltk_02_s_78:
+    speaker: d
+    en: I didn't have any breakfast because I was nervous.
+    ko: 긴장해서 아침을 안 먹고 왔더니 좀 그러네요.
+    ja: 緊張して朝ご飯を抜いちゃって。
+  event_ltk_02_s_79:
+    speaker: supervisor
+    en: My goodness! You mustn't forget breakfast. It's the most important meal of
+      the day!
+    ko: 하하. 아이구, 그래도 아침은 챙겨 먹고 와야지.
+    ja: あはは。やれやれ、朝ご飯は食べないと。
+  event_ltk_02_s_80:
+    speaker: supervisor
+    en: I see that you both started at the same time and are working on the same line.
+    ko: |-
+      그런데 둘 입사일도 같고,
+      일도 같은 라인에서 하는 걸 보니 보통 사이는 아닌 것 같은데.
+    ja: |-
+      ところでお二人、入社日も同じだし
+      仕事も同じラインということは
+      特別なご関係のようですね。
+  event_ltk_02_s_81:
+    speaker: supervisor
+    en: May I ask how you two know each other?
+    ko: 혹시 둘이 무슨 사이인지 물어봐도 돼요?
+    ja: どういう関係かうかがっても？
+  event_ltk_02_s_82:
+    speaker: d
+    en: We're newlyweds.
+    ko: 신혼부부에요.
+    ja: 新婚なんです。
+  event_ltk_02_s_83:
+    speaker: d
+    en: Just got hitched two weeks ago.
+    ko: 2주일 전에 결혼했거든요.
+    ja: 2週間前に結婚しました。
+  event_ltk_02_s_84:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_85:
+    speaker: supervisor
+    en: Oh, I see. Well, good luck with all of that!
+    ko: |-
+      허이구 그렇구만.
+      그럼 더 열심히 해야겠네.
+    ja: |-
+      なるほど。
+      そりゃあ、頑張らないとね。
+  event_ltk_02_s_86:
+    speaker: d
+    en: We're very grateful for you giving us this job. Aren't we, honey?
+    ko: |-
+      예. 그래야죠.
+      그렇지 여보?
+    ja: |-
+      そうですね。
+      頑張ろうね、あなた。
+  event_ltk_02_s_87:
+    speaker: Self
+    en: Yeah...
+    ko: 응….
+    ja: ああ…
+  event_ltk_02_s_88:
+    speaker: supervisor
+    en: You two seem like nice people, so let me say this to you.
+    ko: 그 신혼부부라고 하니까 얘기하는 건데.
+    ja: 新婚さんなら話しておくけど
+  event_ltk_02_s_89:
+    speaker: supervisor
+    en: This is a fine company to work for. It may be tough going at first,
+    ko: |-
+      이 회사 진짜 괜찮은 곳이에요.
+      힘들고 그래도 꾹 참고 한 번 해봐요.
+    ja: |-
+      この会社、本当にいいところですよ。
+      辛くても頑張ってください。
+  event_ltk_02_s_90:
+    speaker: supervisor
+    en: but if you stick it out, you're sure to be noticed.
+    ko: 열심히 하는 것만 보이면 승진도 하고 잘 챙겨주니까.
+    ja: |-
+      一生懸命働きさえすれば、
+      昇進もできますから。
+  event_ltk_02_s_91:
+    speaker: supervisor
+    en: Take me for example. My legs aren't in the greatest shape, but they still
+      let me work here.
+    ko: |-
+      나 사실 다리가 많이 안 좋거든.
+      그래도 여기서 일하게 해줬다고요.
+    ja: |-
+      実は私は足が悪くてね。
+      でも雇ってもらえたんですよ。
+  event_ltk_02_s_92:
+    speaker: supervisor
+    en: As a matter of fact, I'll be working directly under the president starting
+      tomorrow.
+    ko: 그리고 내일부터 사장님 직속으로 일해요.
+    ja: そして明日からは社長のすぐ下で働くんです。
+  event_ltk_02_s_93:
+    speaker: d
+    en: Wow, no kidding?
+    ko: 와. 사장님 직속이요?
+    ja: わあ、社長直属ですか？
+  event_ltk_02_s_94:
+    speaker: d
+    en: What does that position entail, exactly?
+    ko: 사장님 직속은 무슨 일을 하나요?
+    ja: どんな仕事をするんですか？
+  event_ltk_02_s_95:
+    speaker: supervisor
+    en: Actually, I don't know the details myself, but if it's directly under the
+      president, it must be good, right?
+    ko: 뭐 나도 자세한 건 모르겠지만 사장 직속이니 좋은 일이지 않겠어요?
+    ja: |-
+      詳しいことは分からないけど、
+      いい仕事じゃないですか？
+  event_ltk_02_s_96:
+    speaker: supervisor
+    en: Not to mention the pay...
+    ko: 그리고 결정적으로 월급이….
+    ja: 何より給料が…
+  event_ltk_02_s_97:
+    speaker: Monologue
+    en: The supervisor lifts his hand far above his head.
+    ko: 현장 감독은 말없이 손바닥을 펴 보였다.
+    ja: 現場監督は無言で手のひらを開いて見せた
+  event_ltk_02_s_98:
+    speaker: supervisor
+    en: Let's just say I might be in for an early retirement.
+    ko: 이만큼이나 뛰었다 이거요.
+    ja: こんなに上がったんですよ。
+  event_ltk_02_s_99:
+    speaker: d
+    en: You lucky son of a gun!
+    ko: 와, 대단하네요.
+    ja: わあ、すごいですね。
+  event_ltk_02_s_100:
+    speaker: supervisor
+    en: All you need is a good work ethic. Work hard, and you'll reap the rewards.
+    ko: |-
+      뭐 딱히 기술이 필요한 것도 아니에요.
+      그저 열심히. 최선을 다해서. 절실하게.
+    ja: |-
+      特にスキルが必要なわけでもありません。
+      ひたすら一生懸命、ベストを尽くして頑張れば。
+  event_ltk_02_s_101:
+    speaker: supervisor
+    en: The president admires people like that.
+    ko: 사장님은 그런 사람 좋아하니까.
+    ja: 社長はそういう人が好きみたいです。
+  event_ltk_02_s_102:
+    speaker: supervisor
+    en: I've only been here 3 weeks as well.
+    ko: 나도 여기 온 지 3주 밖에 안 됐어요.
+    ja: 私もここに来て3週間しか経ってないんですよ。
+  event_ltk_02_s_103:
+    speaker: d
+    en: You came on as a supervisor, but you've moved up that fast in less than a
+      month? Remarkable.
+    ko: |-
+      3주 만에 현장 감독이 되고 사장님 직속이 된 거예요?
+      너무 대단하시다.
+    ja: |-
+      3週間で現場監督になって社長直属にまで？
+      本当にすごいですね。
+  event_ltk_02_s_104:
+    speaker: supervisor
+    en: The president just takes a shine to people who put their noses to the grindstone.
+    ko: |-
+      내가 대단한 게 아니라,
+      사장님이 열심히 하는 사람을 좋아하는 거죠.
+    ja: |-
+      私がすごいんじゃなくて
+      社長が一生懸命働く人のことが好きなんですよ。
+  event_ltk_02_s_105:
+    speaker: supervisor
+    en: So long as you two work hard, you can become like me too.
+    ko: |-
+      그러니 두 분도 열심히 해요.
+      나처럼 되는 거, 열심히만 하면 할 수 있어요.
+    ja: |-
+      だからお二人も頑張って。
+      一生懸命やれば、私みたいになれますよ。
+  event_ltk_02_s_106:
+    speaker: d
+    en: I certainly hope so.
+    ko: 후후. 예. 감사합니다.
+    ja: ふふ、ありがとうございます。
+  event_ltk_02_s_107:
+    speaker: supervisor
+    en: Best of luck!
+    ko: 그럼 고생들 해요.
+    ja: それじゃ頑張ってくださいね～
+  event_ltk_02_s_108:
+    speaker: d
+    en: You too.
+    ko: 예. 고생하세요~
+    ja: はい、頑張ります！
+  event_ltk_02_s_109:
+    speaker: Monologue
+    en: The supervisor walks away.
+    ko: 현장 감독은 걸어갔다.
+    ja: 現場監督は去っていった
+  event_ltk_02_s_110:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_111:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_112:
+    speaker: d
+    en: You got something to say?
+    ko: "…할 말이라도 있어?"
+    ja: "…何か言いたいことでも？"
+  event_ltk_02_s_113:
+    speaker: Self
+    en: No, I was just admiring your acting skills back there.
+    ko: 아니, 연기를 되게 잘한다 싶어서.
+    ja: いや、演技が上手いなと思って
+  event_ltk_02_s_114:
+    speaker: d
+    en: Presenting an amiable and innocuous image is beneficial to gathering information.
+    ko: 친근하고 무해한 이미지를 주는 건 정보 수집에 도움이 돼.
+    ja: |-
+      親しみやすく、無害なイメージを与えると
+      情報収集がスムーズになる。
+  event_ltk_02_s_115:
+    speaker: Self
+    en: I'm just surprised you can turn on a dime like that.
+    ko: "…얼굴색 하나 안 바꾸고 그래서 엄청 놀랐어."
+    ja: |-
+      …顔色ひとつ変えずにやってのけたから
+      とても驚いた
+  event_ltk_02_s_116:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_s_117:
+    speaker: d
+    en: You're starting to make me self-conscious.
+    ko: 나도 부끄러워.
+    ja: 私も恥ずかしいんだ。
+  event_ltk_02_s_118:
+    speaker: Self
+    en: "... Sorry."
+    ko: "…미안."
+    ja: "…すまない"
+  event_ltk_02_s_119:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ブルルルー
+  event_ltk_02_s_120:
+    speaker: Narration
+    en: "*Ding dong dang dong*"
+    ko: 딩- 동- 댕- 동-
+    ja: ピンポンパンポーン
+  event_ltk_02_s_121:
+    speaker: Monologue
+    en: It seems that break time is over.
+    ko: 쉬는 시간이 끝난 모양이다.
+    ja: 休み時間が終わったようだ
+  event_ltk_02_s_122:
+    speaker: d
+    en: Let's get back to it.
+    ko: 가자.
+    ja: 行こう。
+  event_ltk_02_s_123:
+    speaker: Monologue
+    en: While walking back to the assembly line,
+    ko: 현장으로 걸어가는 중 생각했다.
+    ja: 持ち場へ戻りながら思った
+  event_ltk_02_s_124:
+    speaker: Monologue
+    en: all I can think about is how I want to finish work quickly.
+    ko: 빨리 퇴근하고 싶다고.
+    ja: 早く退勤したいと
+event_ltk_02_e:
+  event_ltk_02_e_1:
+    speaker: Narration
+    en: After work. Hospital.
+    ko: 퇴근 후. 병원.
+    ja: 退勤後、病院
+  event_ltk_02_e_2:
+    speaker: k
+    en: How'd it go? Did you find anything suspicious?
+    ko: 어땠어? 직장에서 뭐 수상한 거라도 발견했어?
+    ja: |-
+      どうだった～？
+      何か見つかった？
+  event_ltk_02_e_3:
+    speaker: Self
+    en: It was only the first day...
+    ko: 이제 첫날이라서….
+    ja: まだ初日だから…
+  event_ltk_02_e_4:
+    speaker: k
+    en: Even so, there must have been something that caught your attention.
+    ko: 첫날이라도 신경 쓰이는 건 있었을 텐데.
+    ja: 初日でも気になることくらいあるだろ。
+  event_ltk_02_e_5:
+    speaker: k
+    en: I don't care how minor it seems. I want to hear everything.
+    ko: 작은 거라도 좋으니까 한 번 말해봐.
+    ja: ささいなことでもいいから、言ってみ。
+  event_ltk_02_e_6:
+    speaker: "<Choice>"
+    en: The lunch wasn't self-service.
+    ko: 점심밥이 자율 배식이 아니었어.
+    ja: 昼食がビュッフェ形式じゃなかった
+  event_ltk_02_e_7:
+    speaker: "<Choice>"
+    en: The break time seemed a little short.
+    ko: 쉬는 시간이 좀 짧았던 것 같아.
+    ja: 休み時間がちょっと短かった
+  event_ltk_02_e_8:
+    speaker: k
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_e_9:
+    speaker: k
+    en: What, are you planning on starting a new career there or something?
+    ko: 너 진짜 일하러 간 거였냐.
+    ja: お前、本当に働きに行ったのか？
+  event_ltk_02_e_10:
+    speaker: k
+    en: Spare me the workplace complaints and give me the dirt!
+    ko: 회사 생활의 어려움을 말하지 말고 수상한 걸 말하라고!
+    ja: |-
+      そんなことはどうでもいいから
+      怪しいところを教えろよ！
+  event_ltk_02_e_11:
+    speaker: Self
+    en: Well... there wasn't anything really.
+    ko: 음… 딱히.
+    ja: うーん…特にない
+  event_ltk_02_e_12:
+    speaker: k
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_e_13:
+    speaker: k
+    en: D, help me out here.
+    ko: 야. D.
+    ja: おい、D。
+  event_ltk_02_e_14:
+    speaker: d
+    en: They seem to give out promotions like candy.
+    ko: 승진이 이상할 정도로 빨라.
+    ja: 昇進が異常なほど早い。
+  event_ltk_02_e_15:
+    speaker: Self
+    en: Oh, right. That was strange...
+    ko: 아. 그러고 보니….
+    ja: あ、そういえば…
+  event_ltk_02_e_16:
+    speaker: k
+    en: Tell me in detail.
+    ko: 자세히 얘기해 봐.
+    ja: 詳しく。
+  event_ltk_02_e_17:
+    speaker: Monologue
+    en: I tell K that our supervisor has only been there for 3 weeks, but he's already
+      going to be working directly under the president, starting tomorrow.
+    ko: K에게 현장 감독이 입사 3주 만에 사장 직속이 되었다는 얘기를 했다.
+    ja: |-
+      Kに現場監督が入社3週間で
+      社長直属になったことを話した
+  event_ltk_02_e_18:
+    speaker: k
+    en: That's odd, all right.
+    ko: 확실히 묘하네.
+    ja: 確かにヘンだね～
+  event_ltk_02_e_19:
+    speaker: k
+    en: No one moves that quickly up the corporate ladder.
+    ko: |-
+      입사한지 3주 만에 일반 사원에서 현장 감독.
+      그다음 사장 직속이라.
+    ja: |-
+      入社3週間で平社員から現場監督、
+      さらに社長直属なんて～
+  event_ltk_02_e_20:
+    speaker: k
+    en: Does he have any connections within the company?
+    ko: 낙하산인가?
+    ja: 天下りとか？
+  event_ltk_02_e_21:
+    speaker: d
+    en: I did a background check on him, and didn't turn anything up.
+    ko: 인적 사항 조사 결과 그런 사실은 없어.
+    ja: 調べてみたが、そんな事実はなかった。
+  event_ltk_02_e_22:
+    speaker: k
+    en: Hmm...
+    ko: "…흠."
+    ja: "…うーん。"
+  event_ltk_02_e_23:
+    speaker: k
+    en: Any other ideas?
+    ko: 뭐 짚이는 건 없고?
+    ja: 何か心当たりはないの？
+  event_ltk_02_e_24:
+    speaker: d
+    en: All I can do is assume, and you know what that does.
+    ko: 짐작은 판단을 흐리게 할 뿐이야.
+    ja: 推測は判断を揺らがせるだけ。
+  event_ltk_02_e_25:
+    speaker: k
+    en: It only makes an "ass" out of "u" and "me".
+    ko: 잘나셨어 아주.
+    ja: はいはい～、その通り～
+  event_ltk_02_e_26:
+    speaker: d
+    en: How are things on your end?
+    ko: 그쪽은.
+    ja: そっちは？
+  event_ltk_02_e_27:
+    speaker: k
+    en: Our target has been pouring money into this hospital almost non-stop.
+    ko: 이 병원 말이야.
+    ja: この病院。
+  event_ltk_02_e_28:
+    speaker: k
+    en: But it's strange...
+    ko: 타겟이 매달 돈을 쏟아부으면서 지원해 주는 곳인데.
+    ja: |-
+      ターゲットが毎月大金を
+      支援してるとこなんだけど
+  event_ltk_02_e_29:
+    speaker: k
+    en: It's too clean.
+    ko: 너무 깨끗해.
+    ja: すごくきれいなんだよ～
+  event_ltk_02_e_30:
+    speaker: Self
+    en: It's a hospital. Shouldn't it be clean?
+    ko: 병원이니까 깨끗해야지.
+    ja: 病院はきれいじゃないと
+  event_ltk_02_e_31:
+    speaker: k
+    en: Are you intentionally trying to get on my nerves?
+    ko: |-
+      너 나한테 시비 걸려고 왔냐.
+      왜 자꾸 헛소리야.
+    ja: |-
+      私にケンカ売りに来たのか？
+      何でふざけたことばっか言うんだ？
+  event_ltk_02_e_32:
+    speaker: Self
+    en: "... Sorry."
+    ko: "…미안."
+    ja: "…すまない"
+  event_ltk_02_e_33:
+    speaker: k
+    en: I looked into the patients, and everyone under the sun is staying there.
+    ko: 환자들의 인적 사항을 확인해 봤는데 말 그대로 범위가 엄청 넓어.
+    ja: |-
+      患者の資料を確認してみたけど、
+      いろんな人がいる。
+  event_ltk_02_e_34:
+    speaker: k
+    en: Literally everyone from high-level executives to part-time students.
+    ko: 기업의 고위급 간부도 있고, 아르바이트하는 학생도 있어.
+    ja: 企業の上層部もいるし、バイトの学生も。
+  event_ltk_02_e_35:
+    speaker: k
+    en: There's a wide age range too.
+    ko: 나이대도 잘 분포되어 있고.
+    ja: 年代もうまくバラけてるし
+  event_ltk_02_e_36:
+    speaker: k
+    en: As far as I can tell, it doesn't seem like a hospital that focuses specifically
+      on any age group or class.
+    ko: 일단 겉보기에는 특정 계층만을 위한 병원은 아닌 걸로 보여.
+    ja: まあ特定の人たち相手の病院ではなさそうだね。
+  event_ltk_02_e_37:
+    speaker: k
+    en: The employees aren't skimming anything off the top, and there aren't any funds
+      being misappropriated for unnecessary repairs or maintenance.
+    ko: |-
+      직원들에게 필요 이상의 금액이 들어간 적도 없고,
+      시설 보수 및 유지에도 헛된 돈이 사용되지 않아.
+    ja: |-
+      職員に必要以上の金額を渡してるって
+      記録もないし、施設の補修や維持にも
+      適切な金額が使われてる。
+  event_ltk_02_e_38:
+    speaker: k
+    en: There was one crucial thing, however.
+    ko: 그리고 가장 결정적인 건.
+    ja: で、あれだよ、
+  event_ltk_02_e_39:
+    speaker: k
+    en: That.
+    ko: 저기야.
+    ja: アレ。
+  event_ltk_02_e_40:
+    speaker: Monologue
+    en: K points to a girl off in the distance. She is holding the hand of a hospital
+      staff member, and is struggling to walk unassisted.
+    ko: K가 가리킨 곳엔 보호자의 손을 잡고 힘겹게 걷고 있는 소녀가 있었다.
+    ja: |-
+      Kが指さした場所には保護者の手を握って
+      必死に歩いている少女がいた
+  event_ltk_02_e_41:
+    speaker: Self
+    en: What's so crucial about that kid?
+    ko: "…저 아이가 가장 결정적인 이유야?"
+    ja: "…あの子どもが？"
+  event_ltk_02_e_42:
+    speaker: k
+    en: I'll tell you what.
+    ko: 그래.
+    ja: そう。
+  event_ltk_02_e_43:
+    speaker: k
+    en: This hospital is filled with people who have the same symptoms as that kid.
+    ko: 이 병원에 저 꼬맹이와 같은 증상의 인간들이 많아.
+    ja: この病院にはあの子みたいな症状の患者が多い。
+  event_ltk_02_e_44:
+    speaker: k
+    en: |-
+      Only thing is, that's an incredibly rare disease.
+      So uncommon, in fact, that only a couple dozen people in the entire Ark have it.
+    ko: |-
+      희귀병이라고 하던데.
+      발병률 자체가 엄청 낮아서 방주에서 수십 명만 걸렸다고 하더라고.
+    ja: |-
+      難病らしいけど、発症率自体がとても低くて
+      アークにいる患者も数十人しかいないとか。
+  event_ltk_02_e_45:
+    speaker: k
+    en: The mortality rate is quite high.
+    ko: 치사율은 굉장히 높아.
+    ja: 致死率も非常に高い。
+  event_ltk_02_e_46:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_02_e_47:
+    speaker: k
+    en: Not much research has been done regarding this disease because so little is
+      known about it and there are so few recorded cases.
+    ko: 원인도 잘 모르고 발병된 수도 몇 없어서 사실상 거의 방치해놓은 병인데.
+    ja: |-
+      原因もよく分からないし発症例も少ないから
+      事実上ほぼ放置されてきた病気なんだ。
+  event_ltk_02_e_48:
+    speaker: k
+    en: More than 80% of the donations the target has given are going towards the
+      research and treatment of this disease.
+    ko: 타겟이 지원해 주는 금액의 80% 이상이 저 병을 연구하고 치료하는 것에 쓰이고 있어.
+    ja: |-
+      そして、ターゲットが支援している金額の80％
+      以上があの病気の研究と治療に使われてる。
+  event_ltk_02_e_49:
+    speaker: k
+    en: He's poured so much money into this place, that research on the disease has
+      progressed by leaps and bounds.
+    ko: 돈을 마구잡이로 쏟아붓고 있어서 병에 대한 연구가 제법 진척이 있고.
+    ja: |-
+      とにかく大金を使ってるから
+      病気に関する研究もかなり進んでるし
+  event_ltk_02_e_50:
+    speaker: k
+    en: They're also trying to find a meaningful cure.
+    ko: 유의미한 치료법도 알아내고 있다나 봐.
+    ja: 効果のある治療法も見つかってるみたい。
+  event_ltk_02_e_51:
+    speaker: k
+    en: Nearly everyone who is suffering from this disease has gathered at this hospital.
+    ko: 덕분에 같은 병을 앓고 있는 인간들이 다 이 병원으로 모여들고 있지.
+    ja: |-
+      だから同じ病気の患者がみんな
+      この病院に集まってるんだ。
+  event_ltk_02_e_52:
+    speaker: k
+    en: You see that kid over there? 3 days ago, she was bedridden.
+    ko: 저 꼬맹이, 3일 전만 하더라도 침대에 누워있는 것 밖에 못 했다고 해.
+    ja: あの子、3日前までは寝たきりだったそうだ。
+  event_ltk_02_e_53:
+    speaker: d
+    en: What's your point?
+    ko: 요점은?
+    ja: 要点は？
+  event_ltk_02_e_54:
+    speaker: k
+    en: I need to do a bit more digging, but
+    ko: 뭐 더 조사해 보고 뒤를 캐봐야 하겠지만.
+    ja: もう少し調査して裏取りが必要だけど
+  event_ltk_02_e_55:
+    speaker: k
+    en: this place looks clean to me.
+    ko: 지금까지는 여기, 더할 나위 없이 깨끗한 곳이야.
+    ja: 今のところはこの上なくクリーンなとこだね。
+  event_ltk_02_e_56:
+    speaker: k
+    en: For the moment, at least.
+    ko: 겉보기로는 말이지.
+    ja: 表面上は。
+  event_ltk_02_e_57:
+    speaker: Self
+    en: What's your next move?
+    ko: "…어떻게 하려고?"
+    ja: "…どうするつもりだ？"
+  event_ltk_02_e_58:
+    speaker: k
+    en: I'm going to use my own methods to dig a bit deeper.
+    ko: 내 방식대로 좀 더 [깊이] 조사해 볼 거야.
+    ja: 私のやり方でもっと「深く」調査する。
+  event_ltk_02_e_59:
+    speaker: k
+    en: The simplest way of going about this would be to concentrate on a few key
+      figures.
+    ko: 가장 간단한 건 주요 인물을 집중 조사하는 거지.
+    ja: |-
+      一番簡単なのは、
+      主要人物を徹底的に調査すること。
+  event_ltk_02_e_60:
+    speaker: k
+    en: Using this.
+    ko: 이걸로.
+    ja: これでな。
+  event_ltk_02_e_61:
+    speaker: Narration
+    en: "*Buzzz*"
+    ko: 빠지지직-!
+    ja: バチッ！
+  event_ltk_02_e_62:
+    speaker: Monologue
+    en: The stinger attached to K's gun makes an ominous sound.
+    ko: "…K의 총에 달린 가시에서 불길한 소리가 나오고 있다."
+    ja: "…Kの銃についているトゲから不吉な音がした"
+  event_ltk_02_e_63:
+    speaker: k
+    en: It hurts like heck, but it won't leave any lasting damage.
+    ko: 아무런 후유증도 안 남기고 고통만 줄 수 있는 거야.
+    ja: 後遺症は一切残さず、苦しみだけを与えるんだ。
+  event_ltk_02_e_64:
+    speaker: k
+    en: If you want to get the truth out of someone, you can't beat this.
+    ko: "[진실]을 듣기에 이것 만한 게 없지."
+    ja: "「真実」を聞き出すにはぴったり～"
+  event_ltk_02_e_65:
+    speaker: d
+    en: We mustn't resort to such underhanded tactics.
+    ko: 수단은 깨끗해야 해.
+    ja: 汚い手は使うな。
+  event_ltk_02_e_66:
+    speaker: k
+    en: Not this again. We're going to be here forever if we don't.
+    ko: 또 저러네. 그러다가 날 샌다고.
+    ja: またその話？それじゃ日が暮れるって。
+  event_ltk_02_e_67:
+    speaker: d
+    en: Don't forget.
+    ko: 명심해.
+    ja: 肝に銘じろ。
+  event_ltk_02_e_68:
+    speaker: d
+    en: If you want clean results, then your methods have to be just as clean.
+    ko: 수단이 깨끗해야 결과도 깨끗해.
+    ja: |-
+      キレイな結果が欲しければ、
+      キレイな手段を使え。
+  event_ltk_02_e_69:
+    speaker: k
+    en: You go ahead and do that.
+    ko: 아 그러셔. 댁은 계속 그렇게 깨끗하게 해.
+    ja: あー、はいはい。そっちはそのやり方でどうぞ～
+  event_ltk_02_e_70:
+    speaker: k
+    en: I'm doing this my way.
+    ko: 난 내 방식대로 할 테니까.
+    ja: 私は私のやり方でやるからさ。
+  event_ltk_02_e_71:
+    speaker: Self
+    en: I don't think that's a good idea.
+    ko: 그건 좀 아닌 것 같은데.
+    ja: それはちょっとひどいんじゃないか
+  event_ltk_02_e_72:
+    speaker: k
+    en: Not you too?
+    ko: 하하. 너 말이야.
+    ja: はは、お前さあ？
+  event_ltk_02_e_73:
+    speaker: k
+    en: Do you have any idea of the lengths people go to cover up the terrible things
+      they do?
+    ko: 나쁜 놈들이 자기가 한 악행을 숨기려고 얼마나 많은 정성을 쏟는지 알아?
+    ja: |-
+      悪い奴らが自分がした悪事を隠すために
+      どれだけ必死か分かってるか？
+  event_ltk_02_e_74:
+    speaker: k
+    en: If you want to bring them to justice, you've got to be willing to go just
+      as far as they are.
+    ko: 그거 찾아내려면 놈들이 쏟아부은 정성에 곱절을 쏟아부어야 해.
+    ja: |-
+      それを見つけるには奴らの何倍も
+      必死にならないといけないんだよ。
+  event_ltk_02_e_75:
+    speaker: k
+    en: Think of this as a "shortcut".
+    ko: 그 시간을 효율적으로 줄여줄 수 있는 거라고, 이게.
+    ja: その時間を効率的に減らせるんだ、これは。
+  event_ltk_02_e_76:
+    speaker: Narration
+    en: "*Buzzz*"
+    ko: 빠지지직-!
+    ja: バチッ！
+  event_ltk_02_e_77:
+    speaker: k
+    en: I despise how these people cover everything up and manipulate the truth.
+    ko: 그리고.
+    ja: それに
+  event_ltk_02_e_78:
+    speaker: k
+    en: It sickens me how they keep it all under wraps.
+    ko: |-
+      난 놈들이 은폐하고 조작하고 이러는 게 너무 싫어.
+      그렇게 꽁꽁 숨겨놓는 게 너무 싫어.
+    ja: |-
+      私は奴らがバレないように丁寧に
+      隠ぺいしてねつ造するのが大嫌いでね。
+  event_ltk_02_e_79:
+    speaker: k
+    en: They know what they're doing is wrong, but they do it anyway. They couldn't
+      care less.
+    ko: |-
+      지들이 잘못한 걸 안다는 거라고.
+      잘못한 걸 알면서 그딴 짓을 하는 거라고.
+    ja: 悪いことをしてる自覚があるってことだろ？
+  event_ltk_02_e_80:
+    speaker: k
+    en: We need to be strong in the face of evil, don't you think?
+    ko: 뭐든 당당해야지. 안 그래?
+    ja: 何でも堂々としないと。だろ？
+  event_ltk_02_e_81:
+    speaker: k
+    en: Well, it doesn't get much stronger than this.
+    ko: 그래서 난, 당당하게 이걸 쓸 거야.
+    ja: だから私は、堂々とこれを使うんだ。
+  event_ltk_02_e_82:
+    speaker: Narration
+    en: "*Buzzz*"
+    ko: 빠지지직-!
+    ja: バチッ！
+  event_ltk_02_e_83:
+    speaker: k
+    en: I'll give them a taste of their own medicine.
+    ko: 더러운 수를 쓰는 놈들한텐 더러운 수를 써주는 게 인지상정이지.
+    ja: 因果応報だろ？
+  event_ltk_02_e_84:
+    speaker: d
+    en: I don't agree with your methods.
+    ko: "…역시, 안 맞네."
+    ja: "…やっぱり、合わないな。"
+  event_ltk_02_e_85:
+    speaker: k
+    en: Right back at ya.
+    ko: 내가 할 말이다.
+    ja: こっちのセリフだよ。
+  event_ltk_02_e_86:
+    speaker: d
+    en: We should go back.
+    ko: 우린 돌아가자.
+    ja: 私たちは帰ろう。
+  event_ltk_02_e_87:
+    speaker: d
+    en: We need to be at work by 8.
+    ko: 내일 8시까지 출근이야.
+    ja: 明日8時に出勤だ。
+  event_ltk_02_e_88:
+    speaker: Self
+    en: "... Okay."
+    ko: "…그래."
+    ja: "…分かった"
+  event_ltk_02_e_89:
+    speaker: k
+    en: Have a nice day at work.
+    ko: 뭐, 열심히들 하셔.
+    ja: まっ、頑張って～
+event_ltk_03_s:
+  event_ltk_03_s_1:
+    speaker: Monologue
+    en: We've been showing up to work for 5 days,
+    ko: 출근 5일째.
+    ja: 出勤5日目
+  event_ltk_03_s_2:
+    speaker: Monologue
+    en: but haven't noticed anything out of the ordinary.
+    ko: 회사는 아직까지 별다른 움직임은 보이지 않고 있다.
+    ja: 会社ではいまだにこれといった動きがない
+  event_ltk_03_s_3:
+    speaker: Monologue
+    en: Because we're new employees, and low-level ones at that, the information we're
+      privy to is somewhat limited.
+    ko: 신입이고 일반 사원이라 접근할 수 있는 루트가 한정적일 것이라 짐작하고.
+    ja: |-
+      新人で平社員のためアクセスできる場所が
+      限られているからだ
+  event_ltk_03_s_4:
+    speaker: Monologue
+    en: When I ask D whether the Judges could help get us a promotion of some kind,
+    ko: 저지스에게 부탁해 직급과 직책을 올려보는 것이 어떻냐는 내 제안에
+    ja: |-
+      ジャッジスに頼み、
+      役職を上げてもらうのはどうかと提案すると
+  event_ltk_03_s_5:
+    speaker: Monologue
+    en: she immediately rebukes me.
+    ko: D는 조금도 흔들림 없는 태도로 대답했다.
+    ja: Dはなんの迷いもなく答えた
+  event_ltk_03_s_6:
+    speaker: d
+    en: If we pull any outside strings to attain a higher position,
+    ko: 외압으로 인해 얻은 자리는 시선이 모이는 법이야.
+    ja: |-
+      コネで手に入れた地位には
+      視線が集まるものだ。
+  event_ltk_03_s_7:
+    speaker: d
+    en: the other workers might end up getting jealous, or it could ring alarm bells
+      in upper management.
+    ko: 그게 질투가 됐든, 경계가 됐든.
+    ja: それが嫉妬であろうと、警戒であろうと
+  event_ltk_03_s_8:
+    speaker: d
+    en: Either way, we don't want to draw any unwanted attention.
+    ko: 많은 사람들의 시선을 모아봐야 좋을 게 없어.
+    ja: 注目を集めたところで何の得にもならない。
+  event_ltk_03_s_9:
+    speaker: Monologue
+    en: Our only recourse is to work harder.
+    ko: "…할 수 있는 게 열심히 일하는 것 밖에 없었다."
+    ja: "…できることは一生懸命働くことだけだった"
+  event_ltk_03_s_10:
+    speaker: Monologue
+    en: Our co-workers have taken a keen interest in us,
+    ko: 직원들은 우리에게 관심이 많았고.
+    ja: 社員たちは私たちに興味を持ち
+  event_ltk_03_s_11:
+    speaker: Monologue
+    en: and we're bombarded with questions every time we are on break.
+    ko: 쉬는 시간만 되면 질문 공세가 이어졌다.
+    ja: 休み時間になると質問攻めにあった
+  event_ltk_03_s_12:
+    speaker: Narration
+    en: You look so young! Why did you marry so early?
+    ko: Q. 젊어 보이는 것 같은데 왜 그렇게 빨리 결혼했어?
+    ja: |-
+      Q. 若く見えるけど
+      なぜそんなに早く結婚したの？
+  event_ltk_03_s_13:
+    speaker: d
+    en: So that we'd have a joint bank account. Being together means you can make
+      more money together.
+    ko: 돈 벌어야죠. 둘이 같이 모으면 빨리 모을 테니까.
+    ja: |-
+      お金を稼がないと。
+      二人で貯めれば早く貯まりますから。
+  event_ltk_03_s_14:
+    speaker: Narration
+    en: How did you meet each other?
+    ko: Q. 어떻게 만났어?
+    ja: Q. どうやって知り合ったの？
+  event_ltk_03_s_15:
+    speaker: d
+    en: |-
+      We met at another job.
+      We both wanted to make a lot of money, so we hit it off.
+    ko: |-
+      돈 벌다가 만났어요.
+      돈을 많이 벌고 싶다는 게 공통점이라서 잘 만났죠.
+    ja: |-
+      仕事先で出会いました。
+      お金をたくさん稼ぎたいという
+      共通点があったんです。
+  event_ltk_03_s_16:
+    speaker: Narration
+    en: You both are such hard workers. You're not like most young people these days.
+    ko: Q. 일 엄청 열심히 하네. 요즘 젊은 사람들 같지 않게.
+    ja: |-
+      Q. ずいぶん仕事熱心だな。
+      最近の若者っぽくないね。
+  event_ltk_03_s_17:
+    speaker: d
+    en: We want to get promoted, so that we can make more money.
+    ko: 승진하고 싶거든요. 돈 많이 벌어야죠.
+    ja: 昇進したいんです。お金をたくさん稼がないと。
+  event_ltk_03_s_18:
+    speaker: Narration
+    en: Why are you so fixated on making more money?
+    ko: Q. 돈을 왜 그렇게 벌려고 그래?
+    ja: Q. どうしてそんなにお金が必要なの？
+  event_ltk_03_s_19:
+    speaker: d
+    en: We want to buy a house, and be able to eat out whenever we want.
+    ko: 집도 사고, 맛있는 것도 맘껏 먹고….
+    ja: 家を買って、おいしいものもたくさん食べて…
+  event_ltk_03_s_20:
+    speaker: d
+    en: We also want children.
+    ko: 아이도 낳고 싶거든요.
+    ja: 子どもも欲しいので。
+  event_ltk_03_s_21:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_03_s_22:
+    speaker: Narration
+    en: Have you ever considered getting a second, or even a third, job?
+    ko: Q. 투잡이나 쓰리잡은 할 생각 없어?
+    ja: Q. 副業をするつもりはないの？
+  event_ltk_03_s_23:
+    speaker: d
+    en: Your focus suffers if you stretch yourself too thin.
+    ko: 일을 많이 하면 아무래도 집중력이 떨어져서요.
+    ja: 仕事を増やすと集中力が落ちるので。
+  event_ltk_03_s_24:
+    speaker: d
+    en: We want to concentrate fully on working here. We like this company a lot.
+    ko: |-
+      여기서 일하면서 집중력을 다 써야죠.
+      이 회사 엄청 맘에 들었거든요.
+    ja: |-
+      ここでの仕事に集中したいんです。
+      この会社、とても気に入りました。
+  event_ltk_03_s_25:
+    speaker: Monologue
+    en: Thanks to D's bravura performance,
+    ko: "…D의 활약으로 인해 우리는."
+    ja: "…Dの活躍により私たちは"
+  event_ltk_03_s_26:
+    speaker: Monologue
+    en: we are regarded as newlyweds eager to prove themselves and get promoted
+    ko: 승진해서 어떻게든 가난을 벗어나기 위해 열심히 사는 애사심 가득한 신혼부부.
+    ja: |-
+      昇進して何とか貧乏から抜け出すために
+      一生懸命働く愛社精神に満ちあふれた新婚夫婦…
+  event_ltk_03_s_27:
+    speaker: Monologue
+    en: and keep ourselves from being in the poorhouse.
+    ko: 가 되어있었다.
+    ja: ということになっていた
+  event_ltk_03_s_28:
+    speaker: Monologue
+    en: One day, I ask D something.
+    ko: D에게 물어봤다.
+    ja: Dに尋ねてみた
+  event_ltk_03_s_29:
+    speaker: Self
+    en: Lying isn't exactly a "clean" way of going about things, is it?
+    ko: 거짓말을 하는 건 깨끗한 수단이 아니지 않아?
+    ja: 嘘をつくのはキレイな手段のうちなのか？
+  event_ltk_03_s_30:
+    speaker: d
+    en: No one's getting hurt, so it's fine.
+    ko: 아무도 피해를 보지 않으니 괜찮아.
+    ja: 被害を受ける人がいなければ構わない。
+  event_ltk_03_s_31:
+    speaker: Monologue
+    en: On our 6th day on the job,
+    ko: 그리고 출근 6일째.
+    ja: そして出勤6日目
+  event_ltk_03_s_32:
+    speaker: Monologue
+    en: I meet D, and we head to work.
+    ko: 방주 내의 습도 조절을 위해 안개가 가득한 날.
+    ja: アーク内の湿度調節により霧が立ちこめていた日
+  event_ltk_03_s_33:
+    speaker: Monologue
+    en: A dense fog lingers in the air, part of the Ark's effort to adjust the internal
+      humidity.
+    ko: 회사 입구 근처에서 D와 만나 출근길을 걷는다.
+    ja: 会社の入口近くでDと落ちあい、会社へ向かう
+  event_ltk_03_s_34:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+  event_ltk_03_s_35:
+    speaker: Self
+    en: How long do we have to keep this up?
+    ko: 언제까지 열심히 일할 거야?
+    ja: いつまでこんなに働くんだ？
+  event_ltk_03_s_36:
+    speaker: d
+    en: One should always work hard.
+    ko: 일은 언제나 열심히 해야 해.
+    ja: 仕事には常に全力で取り組まねば。
+  event_ltk_03_s_37:
+    speaker: Self
+    en: I mean at this company specifically.
+    ko: 이 회사에서 언제까지 열심히 일 할 거냐는 질문이었어.
+    ja: この会社での話だ
+  event_ltk_03_s_38:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+  event_ltk_03_s_39:
+    speaker: d
+    en: Until who we're after comes to us.
+    ko: 저쪽에서 접근해 올 때까지.
+    ja: あちらから近づいてくるまでだ。
+  event_ltk_03_s_40:
+    speaker: Self
+    en: Are you sure they'll do that?
+    ko: 접근 해온다고?
+    ja: 近づいてくるって？
+  event_ltk_03_s_41:
+    speaker: d
+    en: We're talking about a place where you can apparently make a fortune in just
+      3 weeks.
+    ko: 3주 만에 벼락출세가 가능한 곳이야.
+    ja: 3週間で出世できる場所だ。
+  event_ltk_03_s_42:
+    speaker: d
+    en: If we keep our heads down and appear eager, I'm sure someone will seek us
+      out.
+    ko: 열심히 하고 간절히 하는 이가 있다면 접근해오겠지.
+    ja: |-
+      必死に働く者がいれば
+      近づいてくるだろう。
+  event_ltk_03_s_43:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+  event_ltk_03_s_44:
+    speaker: Self
+    en: What you're really saying is that we'll have to keep doing this for at least
+      another two weeks...
+    ko: 최소 3주는 더 이렇게 생활해야 한다는 거구나.
+    ja: 最低3週間はこの生活が続くということか
+  event_ltk_03_s_45:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+  event_ltk_03_s_46:
+    speaker: Self
+    en: Do you hear that? What is that?
+    ko: 근데 아까부터 나는 이 소리는 뭐야?
+    ja: |-
+      ところで、さっきから聞こえてくる
+      この音は何だ？
+  event_ltk_03_s_47:
+    speaker: d
+    en: Couldn't tell you.
+    ko: 글쎄.
+    ja: さあ。
+  event_ltk_03_s_48:
+    speaker: Monologue
+    en: I've been hearing a strange noise for a while now. It's starting to get on
+      my nerves.
+    ko: "…좀 전부터 신경 쓰이는 이 소리."
+    ja: "…先ほどから気になっていたこの音は"
+  event_ltk_03_s_49:
+    speaker: Monologue
+    en: The closer we get to work, the louder it gets.
+    ko: 회사와 가까워질수록 점점 커지고 있었다.
+    ja: 会社に近づくほど、どんどん大きくなっていた
+  event_ltk_03_s_50:
+    speaker: Monologue
+    en: I squint and peer at where the sound appears to be coming from.
+    ko: 눈을 가늘게 뜨고 소리가 나는 곳을 바라본다.
+    ja: 目を凝らして音がする場所を見る
+  event_ltk_03_s_51:
+    speaker: Monologue
+    en: I can't see well because of the heavy fog, but...
+    ko: "…안개가 짙어 잘 안 보이지만."
+    ja: "…霧が濃くてよく見えないが"
+  event_ltk_03_s_52:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+  event_ltk_03_s_53:
+    speaker: Monologue
+    en: I can vaguely make out something swaying in the air.
+    ko: 뭔가가 공중에서 흔들리고 있는 게 보였다.
+    ja: 何かが空中で揺れているのが見えた
+  event_ltk_03_s_54:
+    speaker: Self
+    en: What is that?
+    ko: 뭘까 저거.
+    ja: あれは何だ？
+  event_ltk_03_s_55:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_03_s_56:
+    speaker: d
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_ltk_03_s_57:
+    speaker: d
+    en: Turn around.
+    ko: 뒤돌아.
+    ja: 後ろを向け。
+  event_ltk_03_s_58:
+    speaker: Self
+    en: "...Huh?"
+    ko: "…응?"
+    ja: "…え？"
+  event_ltk_03_s_59:
+    speaker: d
+    en: I said turn around.
+    ko: 뒤돌아. 당장.
+    ja: 後ろを向け。今すぐ。
+  event_ltk_03_s_60:
+    speaker: Monologue
+    en: I turn around.
+    ko: 뒤로 돌았다.
+    ja: 後ろを向いた
+  event_ltk_03_s_61:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+  event_ltk_03_s_62:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_03_s_63:
+    speaker: d
+    en: Whatever you do, don't look behind you.
+    ko: 절대 뒤돌아보지 마.
+    ja: 絶対に振り返るなよ。
+  event_ltk_03_s_64:
+    speaker: Self
+    en: "... What's going on?"
+    ko: "…왜 그래?"
+    ja: "…どうした？"
+  event_ltk_03_s_65:
+    speaker: d
+    en: Just don't look behind you.
+    ko: 돌아보지 마.
+    ja: いいから。
+  event_ltk_03_s_66:
+    speaker: Self
+    en: "...?"
+    ko: "……?"
+    ja: "……？"
+  event_ltk_03_s_67:
+    speaker: Narration
+    en: Ahhhhh!!
+    ko: 꺄아아악-!!
+    ja: きゃあああー！
+  event_ltk_03_s_68:
+    speaker: Narration
+    en: Argh! Ahhhhh!!
+    ko: 으아! 으아아아-!!
+    ja: うあっ！うあああっ！！
+  event_ltk_03_s_69:
+    speaker: Monologue
+    en: Terrified screams echo near the company entrance.
+    ko: 회사 입구 쪽에서 공포에 질린 비명소리가 들려왔다.
+    ja: |-
+      会社の入口の方から恐怖におびえた人々の
+      悲鳴が聞こえてきた
+  event_ltk_03_s_70:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_03_s_71:
+    speaker: Self
+    en: "... D."
+    ko: "…D."
+    ja: "…D"
+  event_ltk_03_s_72:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+  event_ltk_03_s_73:
+    speaker: d
+    en: Quiet.
+    ko: 조용히.
+    ja: 静かに。
+  event_ltk_03_s_74:
+    speaker: Narration
+    en: Someone call the police!
+    ko: 누가! 누가 좀 신고해 줘요!
+    ja: 誰か！誰か通報して！
+  event_ltk_03_s_75:
+    speaker: Narration
+    en: Hurry! Hurry!
+    ko: 빨리! 빨리!
+    ja: 早く！早くっ！
+  event_ltk_03_s_76:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+  event_ltk_03_s_77:
+    speaker: Monologue
+    en: An ominous feeling begins to overtake me.
+    ko: 불길한 예감.
+    ja: 嫌な予感
+  event_ltk_03_s_78:
+    speaker: Monologue
+    en: The only thing I know is that I absolutely,
+    ko: 아니. 확신.
+    ja: いや、確信
+  event_ltk_03_s_79:
+    speaker: Monologue
+    en: positively cannot turn around, or say anything.
+    ko: 나는 뒤를 돌아보지도, 아무런 말도 꺼내지 못했다.
+    ja: |-
+      私は振り返ることも、
+      言葉を発することもできなかった
+  event_ltk_03_s_80:
+    speaker: Narration
+    en: "*Creek* *Creek*"
+    ko: 끼익… 끼익….
+    ja: ギィ…ギィ…
+event_ltk_03_e:
+  event_ltk_03_e_1:
+    speaker: Monologue
+    en: Did you ever get the impression something was off about the supervisor?
+    ko: Q. 현장 감독님이 평소 때 그런 기색이 보였었나요?
+    ja: |-
+      Q. 現場監督の様子で気になることは
+      ありましたか？
+  event_ltk_03_e_2:
+    speaker: productionlinestaff
+    en: I seem to remember hearing something about him having a lot of debt from illegal
+      gambling,
+    ko: 뭐라더라. 불법 도박을 해서 큰 빚이 있다고 했던 것 같기도 하고….
+    ja: |-
+      えっと～。賭博で大きな借金を抱えてるって
+      聞いたような…
+  event_ltk_03_e_3:
+    speaker: productionlinestaff
+    en: but he never mentioned anything about it himself.
+    ko: 근데 본인 입에서 그런 말이 나온 적은 한 번도 없었던 것 같은데.
+    ja: でも本人はそんなこと言ってなかったかな。
+  event_ltk_03_e_4:
+    speaker: productionlinestaff
+    en: I never saw any warning signs, not from what I remember...
+    ko: 음… 내가 보기엔 딱히 그런 기색은 없었던 것 같아요.
+    ja: うーん…特におかしな様子はなかったけど。
+  event_ltk_03_e_5:
+    speaker: productionlinestaff
+    en: He was such a good worker... How...
+    ko: 그냥 열심히 하는 사람이었는데… 어쩌다가….
+    ja: 一生懸命な人だったのに…なんで…
+  event_ltk_03_e_6:
+    speaker: Monologue
+    en: Did the supervisor recently seem upset or perturbed in any way?
+    ko: Q. 현장 감독님이 최근 안 좋은 일을 겪었나요?
+    ja: |-
+      Q. 現場監督に最近何か変なところは
+      ありましたか？
+  event_ltk_03_e_7:
+    speaker: materialsortingstaff
+    en: He did seem a bit downcast the past few days.
+    ko: 최근 들어 낯빛이 좀 어두워지긴 했지.
+    ja: 最近、顔色が少し悪いなって思ってたんだ。
+  event_ltk_03_e_8:
+    speaker: materialsortingstaff
+    en: I think it was after he started working for the president.
+    ko: 그 뭐냐. 사장 직속이 된 이후였던 것 같은데.
+    ja: その、ほら。社長直属になってからだね。
+  event_ltk_03_e_9:
+    speaker: materialsortingstaff
+    en: Whenever I asked if something was wrong, he would just shake his head.
+    ko: 뭔 일 있냐고 물어보면 그냥 말없이 고개만 절레절레했었지, 응.
+    ja: |-
+      何かあったのか聞いても
+      ただ首を横に振るだけでさ。
+  event_ltk_03_e_10:
+    speaker: materialsortingstaff
+    en: I never thought he'd do such a thing...
+    ko: 그렇다고 그렇게 가버릴 줄은 몰랐는데….
+    ja: でも、こんなことになるなんて…
+  event_ltk_03_e_11:
+    speaker: Monologue
+    en: Did he have any complaints about the company?
+    ko: Q. 현장 감독님이 회사에 불만이 있었나요?
+    ja: Q. 現場監督は会社に不満があったのですか？
+  event_ltk_03_e_12:
+    speaker: transportationstaff
+    en: Not a one. He would have died for this company.
+    ko: 그럴 리가요. 그 사람, 회사라고 하면 껌벅 죽었어요.
+    ja: まさか。不満なんて一切なかったはずですよ。
+  event_ltk_03_e_13:
+    speaker: transportationstaff
+    en: He had a bad leg, but they hired him anyway, and paid him a full salary. Management
+      rewarded him for his hard work...
+    ko: 자기처럼 다리 불편한 사람도 아무런 페널티 없이 채용해 주고, 열심히 한 만큼 대가도 챙겨준다고.
+    ja: |-
+      自分みたいに足が不自由でも
+      他の人と同じように採用してくれて、
+      頑張った分、見返りもくれるって。
+  event_ltk_03_e_14:
+    speaker: transportationstaff
+    en: Complaining about this place is just about the last thing he'd ever do.
+    ko: 목숨을 바쳤으면 바쳤지, 불만이 있었을 리가….
+    ja: 忠誠心に溢れてましたよ。不満なんて…
+  event_ltk_03_e_15:
+    speaker: transportationstaff
+    en: So then why did he...
+    ko: "…그런데 왜 회사 입구에서…."
+    ja: "…それなのに、どうして会社の入口で…"
+  event_ltk_03_e_16:
+    speaker: Self
+    en: The most logical thing would be that something happened after he started working
+      for the president.
+    ko: 사장 직속이 된 이후 뭔가가 바뀌었다고 보는 게 타당하겠네.
+    ja: |-
+      社長直属になってから何かがあったと
+      考えるべきだな
+  event_ltk_03_e_17:
+    speaker: d
+    en: What exactly does he do under the president?
+    ko: 사장 직속이 되면 무슨 일을 하는 거지?
+    ja: 社長直属になったら、どんな仕事をするんだ？
+  event_ltk_03_e_18:
+    speaker: Self
+    en: "... That I can't say."
+    ko: "…거기까진 아직 모르겠어."
+    ja: "…そこまではまだ分からない"
+  event_ltk_03_e_19:
+    speaker: d
+    en: The only thing we can do is wait.
+    ko: 기다릴 수밖에 없네.
+    ja: 待つしかないな。
+  event_ltk_03_e_20:
+    speaker: Self
+    en: How about we search his house?
+    ko: "…현장 감독님의 집을 조사해 보는 건?"
+    ja: "…現場監督の家は調査しないのか？"
+  event_ltk_03_e_21:
+    speaker: d
+    en: I already did.
+    ko: 조사해 봤어.
+    ja: すでに調査済みだ。
+  event_ltk_03_e_22:
+    speaker: d
+    en: The place was immaculate.
+    ko: 깨끗하게 정리되어 있었어.
+    ja: きれいに片付けられていた。
+  event_ltk_03_e_23:
+    speaker: d
+    en: A little too clean in fact.
+    ko: 부자연스러울 정도로 깨끗하게.
+    ja: 不自然なほど、きれいに。
+  event_ltk_03_e_24:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_03_e_25:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_03_e_26:
+    speaker: Self
+    en: Let's expedite our plan.
+    ko: 계획을 앞당기자.
+    ja: 計画を前倒ししよう
+  event_ltk_03_e_27:
+    speaker: d
+    en: What plan?
+    ko: 무슨 계획.
+    ja: 何の計画だ？
+  event_ltk_03_e_28:
+    speaker: Self
+    en: I'm saying we should make getting noticed by the president our top priority.
+    ko: 사장 쪽에서 우릴 찾게 되는 시점을 앞당기자는 얘기야.
+    ja: |-
+      社長がもっとはやく接近してくるように
+      仕向けよう
+  event_ltk_03_e_29:
+    speaker: d
+    en: Don't lose your head.
+    ko: "…서두르지 마."
+    ja: "…焦るな。"
+  event_ltk_03_e_30:
+    speaker: d
+    en: We've cultivated a good image at this point.
+    ko: 우린 지금 이미지가 확고해.
+    ja: 私たちのイメージはすでに固まっている。
+  event_ltk_03_e_31:
+    speaker: d
+    en: If we move too quickly, people might sense something is up.
+    ko: 섣부르게 움직이면 이상을 눈치챌 거야.
+    ja: うかつに動けば怪しまれるだけだ。
+  event_ltk_03_e_32:
+    speaker: Self
+    en: How about we come up with a situation where we need money, and fast?
+    ko: 돈이 급하게 필요하게 된 계기가 있으면 되는 거지?
+    ja: |-
+      金が必要になるようなきっかけが
+      あればいいんだろう？
+  event_ltk_03_e_33:
+    speaker: Self
+    en: That'll be in line with the image we've set up for ourselves.
+    ko: 지금까지 우리가 쌓아놓은 이미지가 무너지지 않는 선에서.
+    ja: |-
+      今まで私たちが築いてきたイメージが
+      崩れない範囲で
+  event_ltk_03_e_34:
+    speaker: d
+    en: Good idea.
+    ko: 맞아.
+    ja: そうだな。
+  event_ltk_03_e_35:
+    speaker: d
+    en: But I can't seem to think of anything that'd work.
+    ko: 하지만 떠오르지 않아.
+    ja: しかし、思い浮かばない。
+  event_ltk_03_e_36:
+    speaker: Self
+    en: What's our relationship again?
+    ko: 우리 사이가 어떤 사이였지?
+    ja: 私たちの関係は？
+  event_ltk_03_e_37:
+    speaker: d
+    en: Newlyweds.
+    ko: 신혼부부.
+    ja: 新婚夫婦。
+  event_ltk_03_e_38:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_03_e_39:
+    speaker: d
+    en: You don't mean...
+    ko: "…설마."
+    ja: "…まさか。"
+  event_ltk_03_e_40:
+    speaker: Self
+    en: That's right. If we go with that, no one will suspect us.
+    ko: 그래. 이거면 아무런 의심도 안 받을 거야.
+    ja: ああ。これなら何も疑われないはずだ
+event_ltk_intermission_01:
+  event_ltk_intermission_01_1:
+    speaker: productionlinestaff
+    en: Oh my stars! How wonderful it is to hear some good news in a dark time like
+      this.
+    ko: |-
+      아이구, 아이구.
+      흉흉할 때 좋은 소식이라도 들려서 다행이네.
+    ja: |-
+      いや～
+      暗くなってる時にいい話が聞けてよかった。
+  event_ltk_intermission_01_2:
+    speaker: productionlinestaff
+    en: How far along is she? Did the hospital tell you?
+    ko: 그래서, 얼마나 됐다고 해? 병원에서.
+    ja: それで、病院で何て言ってたの？
+  event_ltk_intermission_01_3:
+    speaker: Self
+    en: 5 weeks.
+    ko: 이제 5주 지났대요.
+    ja: まだ5週目だそうです
+  event_ltk_intermission_01_4:
+    speaker: productionlinestaff
+    en: Oh! So it's a recent development!
+    ko: |-
+      그래?
+      초창기이긴 하네.
+    ja: |-
+      そうなんだ。
+      まだ初期だね。
+  event_ltk_intermission_01_5:
+    speaker: productionlinestaff
+    en: But what are you going to do? Before long, you won't be able to work...
+    ko: |-
+      근데 어떡해.
+      조만간 몸이 무거워져서 일하기 힘들 텐데.
+    ja: |-
+      でもきっとすぐに体が重くなって
+      仕事が辛くなるんじゃない？
+  event_ltk_intermission_01_6:
+    speaker: productionlinestaff
+    en: And you'll be needing more money than ever.
+    ko: 돈 들어갈 구석이 한두 군데가 아닐 텐데….
+    ja: 色々お金がかかるだろうに…
+  event_ltk_intermission_01_7:
+    speaker: Self
+    en: Funny that you mention that. Would it be possible to take on another job at
+      this same company?
+    ko: 그래서 말인데, 혹시 이 회사 겸업 가능한가요?
+    ja: それで…この会社は副業しても大丈夫ですか？
+  event_ltk_intermission_01_8:
+    speaker: productionlinestaff
+    en: Two jobs? I'm not sure.
+    ko: 겸업? 글쎄….
+    ja: 副業？どうだろう…
+  event_ltk_intermission_01_9:
+    speaker: productionlinestaff
+    en: If you bring it up with them, I don't think it'd be an issue.
+    ko: 뭐 얘기만 잘 해보면 안될 거야 없을 것 같지만….
+    ja: 上手く話せばダメってことはないだろうけど…
+  event_ltk_intermission_01_10:
+    speaker: productionlinestaff
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_intermission_01_11:
+    speaker: productionlinestaff
+    en: Would you like me to try and have a word with the higher-ups?
+    ko: 어떻게, 내가 위에다 얘기 좀 해봐줄까?
+    ja: 私が上に話してあげようか？
+  event_ltk_intermission_01_12:
+    speaker: productionlinestaff
+    en: I can tell them the new hire could use the extra money.
+    ko: 신입 청년이 돈이 많이 필요하다고.
+    ja: 新人くんがお金に困ってるって。
+  event_ltk_intermission_01_13:
+    speaker: Self
+    en: If you can, that'll be great.
+    ko: 그래주시면 고맙죠.
+    ja: そうしていただけると助かります
+  event_ltk_intermission_01_14:
+    speaker: productionlinestaff
+    en: Okay, I'll see what I can do.
+    ko: 알겠어. 내가 한 번 얘기해 볼게.
+    ja: 分かった。話してみるよ。
+  event_ltk_intermission_01_15:
+    speaker: productionlinestaff
+    en: The president is a good person. I'm sure he'll work something out for you.
+    ko: 사장님 좋은 분이니까, 어떻게든 사정 봐줄 거야.
+    ja: 社長はいい人だから、分かってくれるはず。
+  event_ltk_intermission_01_16:
+    speaker: productionlinestaff
+    en: Don't you worry.
+    ko: 그러니 걱정하지 마. 알겠지?
+    ja: だから心配しないで。
+  event_ltk_intermission_01_17:
+    speaker: Monologue
+    en: The lady scurries off the production line.
+    ko: 생산 라인의 아주머니는 급한 걸음으로 걸어갔다.
+    ja: |-
+      生産ラインのおばさんは早歩きで
+      その場を去っていった
+  event_ltk_intermission_01_18:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_intermission_01_19:
+    speaker: Self
+    en: "*Sigh*"
+    ko: 하아….
+    ja: はあ…
+  event_ltk_intermission_01_20:
+    speaker: d
+    en: Is there a problem?
+    ko: 문제라도 있어?
+    ja: 何か問題でも？
+  event_ltk_intermission_01_21:
+    speaker: Self
+    en: I feel rotten.
+    ko: 마음이 안 좋아.
+    ja: 罪悪感がある
+  event_ltk_intermission_01_22:
+    speaker: d
+    en: Why?
+    ko: "…어떤 점이."
+    ja: "…どの部分に？"
+  event_ltk_intermission_01_23:
+    speaker: Self
+    en: I feel like we're taking advantage of that lady.
+    ko: |-
+      축복받아야 마땅한 일을 이용한 것도 그렇고,
+      저 아주머니 마음을 이용한 것도 그렇고.
+    ja: |-
+      祝福されるべきことを利用したことも
+      あのおばさんの気持ちを利用したことも
+  event_ltk_intermission_01_24:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_intermission_01_25:
+    speaker: d
+    en: I feel the same way.
+    ko: 나도 마찬가지야.
+    ja: 私も同じだ。
+  event_ltk_intermission_01_26:
+    speaker: Monologue
+    en: On the way home after work,
+    ko: 퇴근길.
+    ja: 帰宅途中
+  event_ltk_intermission_01_27:
+    speaker: Monologue
+    en: as soon as we enter an area with no other people, someone calls for us to
+      stop.
+    ko: 인적이 드문 곳에 들어서자 누군가가 우릴 불러 세웠다.
+    ja: |-
+      人通りの少ない場所で
+      誰かに呼び止められた
+  event_ltk_intermission_01_28:
+    speaker: owner
+    en: Excuse me.
+    ko: 실례합니다.
+    ja: すみません。
+  event_ltk_intermission_01_29:
+    speaker: owner
+    en: You're Diana and Steve, right?
+    ko: 다이애나 님과 스티브 님이시죠?
+    ja: ダイアナさんとスティーブさんですね？
+  event_ltk_intermission_01_30:
+    speaker: owner
+    en: Nice to meet you.
+    ko: 처음 뵙겠습니다.
+    ja: 初めまして。
+  event_ltk_intermission_01_31:
+    speaker: Self
+    en: Hi, nice to meet you.
+    ko: "…안녕하세요. 스티브입니다."
+    ja: "…初めまして。スティーブです"
+  event_ltk_intermission_01_32:
+    speaker: d
+    en: It's a pleasure to meet you, Mr. President.
+    ko: |-
+      다이애나에요.
+      반갑습니다 사장님.
+    ja: |-
+      ダイアナです。
+      初めまして、社長。
+  event_ltk_intermission_01_33:
+    speaker: owner
+    en: I heard from some of the other employees that you're looking to take on some
+      additional responsibilities?
+    ko: |-
+      다른 직원분한테 들었는데,
+      겸업을 희망하신다고요?
+    ja: |-
+      他の社員から聞きました。
+      副業を希望しているとか？
+  event_ltk_intermission_01_34:
+    speaker: Self
+    en: Yes. We're in urgent need of some additional funds.
+    ko: 예. 지금 돈이 좀 급한 상황이 되어서.
+    ja: はい。急にお金が必要になって…
+  event_ltk_intermission_01_35:
+    speaker: owner
+    en: Mmm, they informed me of your situation.
+    ko: 음. 사정은 다 전해 들었습니다.
+    ja: 事情は全部聞きました。
+  event_ltk_intermission_01_36:
+    speaker: owner
+    en: I've also heard a few things about both of you.
+    ko: 그리고 두 분에 대해서 제가 들은 얘기도 있어서요.
+    ja: そしてお二人の評判も聞いていますよ。
+  event_ltk_intermission_01_37:
+    speaker: owner
+    en: You two are real hard workers with a whole lotta passion, or so I'm told.
+    ko: 그렇게 애사심이 높고 열심히 일해주신다고요.
+    ja: |-
+      愛社精神にあふれ、
+      仕事にも熱心に取り組んでいると。
+  event_ltk_intermission_01_38:
+    speaker: owner
+    en: Since you could use a little help financially,
+    ko: 돈도 많이 필요하다고 하시고.
+    ja: お金にも困っているとか…
+  event_ltk_intermission_01_39:
+    speaker: owner
+    en: how would you like to come work for me personally?
+    ko: |-
+      그래서 드리는 말씀입니다만,
+      제 직속이 되어 업무를 진행해 줄 생각이 있으십니까?
+    ja: |-
+      そこで提案なのですが、
+      私の直属になり、仕事をしませんか？
+  event_ltk_intermission_01_40:
+    speaker: Self
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_ltk_intermission_01_41:
+    speaker: Self
+    en: What would our job be, exactly?
+    ko: 직속이라면 어떤….
+    ja: 直属というと、どのような…
+  event_ltk_intermission_01_42:
+    speaker: owner
+    en: It's quite simple, really.
+    ko: 뭐 간단합니다.
+    ja: まあ、簡単です。
+  event_ltk_intermission_01_43:
+    speaker: owner
+    en: C.O.L. is also involved in the transportation business.
+    ko: 우리 C.O.L.은 운송 업무도 하고 있는 걸 알고 계시죠?
+    ja: |-
+      C.O.L.は運送業務もしていることは
+      ご存じでしょう？
+  event_ltk_intermission_01_44:
+    speaker: owner
+    en: We do deliveries to certain special areas.
+    ko: 특별한 구역에 운송을 하고 있거든요.
+    ja: 特別なエリアに運送しているのですよ。
+  event_ltk_intermission_01_45:
+    speaker: owner
+    en: You'll be responsible for making those deliveries.
+    ko: 그 업무를 맡아주시면 됩니다.
+    ja: その業務を任せたいと思っています。
+  event_ltk_intermission_01_46:
+    speaker: Self
+    en: What is this "special" location?
+    ko: 위치는 어딘가요?
+    ja: 場所はどこですか？
+  event_ltk_intermission_01_47:
+    speaker: owner
+    en: The Outer Rim.
+    ko: 음. 아우터 림입니다.
+    ja: アウターリムです。
+  event_ltk_intermission_01_48:
+    speaker: Self
+    en: "... The Outer Rim?"
+    ko: "…아우터 림이요?"
+    ja: "…アウターリムですか？"
+  event_ltk_intermission_01_49:
+    speaker: owner
+    en: Oh, don't worry. It's nothing illegal.
+    ko: 아아. 불법적인 일은 아니니 걱정하지 마세요.
+    ja: ああ。違法ではないからご安心を。
+  event_ltk_intermission_01_50:
+    speaker: owner
+    en: I've been donating electronics to the Outer Rim for some time now.
+    ko: 사실 저는 주기적으로 아우터 림에 전자제품을 기부하고 있습니다.
+    ja: |-
+      実は私は定期的にアウターリムに
+      電子製品を寄付しているのです。
+  event_ltk_intermission_01_51:
+    speaker: owner
+    en: You know how tough it can be out there.
+    ko: 아무래도 열악하니까요. 아우터 림은.
+    ja: |-
+      アウターリムの環境は決していいとは
+      言えません。
+  event_ltk_intermission_01_52:
+    speaker: owner
+    en: The people there should have the right to have access to technology, even
+      if it may not be the latest models.
+    ko: 그곳의 분들도 최신까지는 아니지만 기술을 누릴 권리가 있습니다.
+    ja: |-
+      それでも、アウターリムの人々にも
+      最新とまではいかなくても
+      技術に触れる権利はありますからね。
+  event_ltk_intermission_01_53:
+    speaker: Self
+    en: You must have a lot of people willing to carry out these deliveries.
+    ko: 배송할 사람은 많을 텐데요.
+    ja: 私じゃなくても、誰でも運べると思いますが…
+  event_ltk_intermission_01_54:
+    speaker: owner
+    en: If only that were true.
+    ko: 아아. 그게 또 그렇지가 않습니다.
+    ja: ああ、それがそうでもないのです。
+  event_ltk_intermission_01_55:
+    speaker: owner
+    en: The Outer Rim is a dangerous place,
+    ko: 아우터 림은 위험한 곳이니까요.
+    ja: アウターリムは危険な場所ですから。
+  event_ltk_intermission_01_56:
+    speaker: owner
+    en: or at least that's what most people think.
+    ko: 정확히는, 그렇게 인지하는 사람이 많죠.
+    ja: |-
+      正確に言えば、
+      そう認識している人が多いのです。
+  event_ltk_intermission_01_57:
+    speaker: owner
+    en: If you ask me, it's not dangerous at all.
+    ko: 사실은 조금도 위험하지 않습니다.
+    ja: 実際はまったく危険ではありません。
+  event_ltk_intermission_01_58:
+    speaker: owner
+    en: The people there know we have good intentions, and have been nothing but friendly
+      to us.
+    ko: 아우터 림의 분들도 우리의 선의를 알아채고 아주 우호적입니다.
+    ja: |-
+      アウターリムの人々も
+      私たちの善意を分かっているので
+      とても友好的です。
+  event_ltk_intermission_01_59:
+    speaker: owner
+    en: That I can guarantee.
+    ko: 그건 제가 장담하죠.
+    ja: それは私が断言します。
+  event_ltk_intermission_01_60:
+    speaker: owner
+    en: Anyway, that long-standing prejudice means that a lot of people are hesitant
+      to go to the Outer Rim.
+    ko: 어쨌든 그런 선입견 때문에 아우터 림으로 가는 것을 꺼리는 분들이 대부분입니다.
+    ja: |-
+      とにかく、先入観のせいでアウターリムへ
+      行くのを嫌がる人がほとんどなのです。
+  event_ltk_intermission_01_61:
+    speaker: owner
+    en: But from what I've heard about you two, something tells me you won't feel
+      that way.
+    ko: 하지만… 두 분은 제가 듣기로는 딱히 그런 걸 따지지 않으실 것 같아서요.
+    ja: |-
+      でも…お二人は話を聞く限り
+      そのようなことは気にしないようなので。
+  event_ltk_intermission_01_62:
+    speaker: d
+    en: How much does it pay?
+    ko: 보수는 어떻게 되나요?
+    ja: 報酬はどうなりますか？
+  event_ltk_intermission_01_63:
+    speaker: owner
+    en: Five times what you get now.
+    ko: 지금의 다섯 배. 쳐드리겠습니다.
+    ja: 今の5倍、お支払いします。
+  event_ltk_intermission_01_64:
+    speaker: d
+    en: F-five times?
+    ko: 다, 다섯 배요?
+    ja: ご、5倍ですか？
+  event_ltk_intermission_01_65:
+    speaker: owner
+    en: Please don't think I'm giving you that much because it's illegal.
+    ko: 예. 아, 방금 불법적인 일이라 그렇게 쳐주는 것 아냐? 라고 생각하셨죠?
+    ja: |-
+      あ、違法な仕事だからそんなに
+      くれるのでは？と思いましたか？
+  event_ltk_intermission_01_66:
+    speaker: owner
+    en: It's nothing like that.
+    ko: 하하. 아닙니다. 절대 그런 게 아니에요.
+    ja: はは、違いますよ。絶対に。
+  event_ltk_intermission_01_67:
+    speaker: owner
+    en: It's just my way of showing a little appreciation to those working for me
+      who go above and beyond.
+    ko: 제 회사에 와주셔서 열심히 일해주신 여러분께 드리는 작은 성의입니다.
+    ja: |-
+      私の会社で一生懸命働いてくれるみなさんに
+      差し上げる、ほんの気持ちです。
+  event_ltk_intermission_01_68:
+    speaker: owner
+    en: Well, what do you say?
+    ko: 어떻게 하시겠습니까?
+    ja: どうなさいますか？
+  event_ltk_intermission_01_69:
+    speaker: d
+    en: Can we think ab--
+    ko: 생각을 조금….
+    ja: 少し考え…
+  event_ltk_intermission_01_70:
+    speaker: Self
+    en: We'll do it. When do we start?
+    ko: 하겠습니다. 언제부터 시작하나요?
+    ja: やります。いつから始めましょうか？
+  event_ltk_intermission_01_71:
+    speaker: owner
+    en: Very good.
+    ko: 음. 좋군요.
+    ja: おお、いいですね。
+  event_ltk_intermission_01_72:
+    speaker: owner
+    en: Be at the number 3 inventory warehouse by 6 o'clock tomorrow morning.
+    ko: 그럼 내일 아침 6시까지, 3번 물류창고로 와주세요.
+    ja: |-
+      では明日の朝6時までに
+      3番物流倉庫に来てください。
+  event_ltk_intermission_01_73:
+    speaker: owner
+    en: I'll have an employee there waiting. They'll explain everything.
+    ko: 그곳에 대기 중인 제 직원이 잘 설명해 줄 겁니다.
+    ja: そこでスタッフが説明してくれるはずです。
+  event_ltk_intermission_01_74:
+    speaker: owner
+    en: Looking forward to working with you both.
+    ko: 그럼… 잘 부탁드리겠습니다.
+    ja: では…よろしくお願いします。
+  event_ltk_intermission_01_75:
+    speaker: Monologue
+    en: The president nods and turns around.
+    ko: 사장은 고개를 숙이고 뒤돌아갔다.
+    ja: 社長は頭を下げて立ち去った
+  event_ltk_intermission_01_76:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_intermission_01_77:
+    speaker: d
+    en: That was fast.
+    ko: 빠르군.
+    ja: 早いな。
+  event_ltk_intermission_01_78:
+    speaker: Self
+    en: Because his last assistant is gone.
+    ko: "…전임자가 없어졌으니까."
+    ja: "…前任者がいなくなったからな"
+  event_ltk_intermission_01_79:
+    speaker: Self
+    en: At any rate, something fishy is definitely going on. We'll see for sure tomorrow.
+    ko: |-
+      어쨌든 뭔가 있는 건 확실해.
+      내일 보면 알겠지.
+    ja: |-
+      何かがあるのは間違いない。
+      明日行けば分かるだろう
+  event_ltk_intermission_01_80:
+    speaker: d
+    en: Right.
+    ko: 그래.
+    ja: ああ。
+event_ltk_04_s:
+  event_ltk_04_s_1:
+    speaker: Narration
+    en: Next day. 6 in the morning. Number 3 inventory warehouse.
+    ko: 다음날. 아침 6시. 3번 물류 창고.
+    ja: 翌日。朝6時。3番物流倉庫
+  event_ltk_04_s_2:
+    speaker: youngstaff
+    en: About time you showed up.
+    ko: 어. 너희들이야?
+    ja: あ、お前たちか？
+  event_ltk_04_s_3:
+    speaker: youngstaff
+    en: Get in.
+    ko: 타.
+    ja: 乗れ。
+  event_ltk_04_s_4:
+    speaker: Self
+    en: Who are you?
+    ko: 누구….
+    ja: あなたは…
+  event_ltk_04_s_5:
+    speaker: youngstaff
+    en: Your bodyguard.
+    ko: 보디가드.
+    ja: ボディガードだよ。
+  event_ltk_04_s_6:
+    speaker: youngstaff
+    en: The president may like to pontificate about how safe the Outer Rim is,
+    ko: 아무리 사장님이 아우터 림이 안전하다고는 해도.
+    ja: いくら社長がアウターリムは安全だって言っても
+  event_ltk_04_s_7:
+    speaker: youngstaff
+    en: but it's filled with all sorts of seedy characters.
+    ko: 아우터 림에는 상식 밖에서 노는 것들이 많아서 내가 따라가는 거야.
+    ja: |-
+      あそこには常識外れの奴らが多いから
+      俺がついていくんだ。
+  event_ltk_04_s_8:
+    speaker: youngstaff
+    en: Hurry up and get in. We've got a schedule to keep.
+    ko: 빨리 타. 바빠.
+    ja: 早く乗れ。忙しいんだから。
+  event_ltk_04_s_9:
+    speaker: d
+    en: Who's driving?
+    ko: 운전은 누가 하나요?
+    ja: 運転はどなたが？
+  event_ltk_04_s_10:
+    speaker: youngstaff
+    en: I am.
+    ko: 내가.
+    ja: 俺。
+  event_ltk_04_s_11:
+    speaker: d
+    en: Can I drive?
+    ko: 제가 해도 되나요?
+    ja: 私が運転してもいいですか？
+  event_ltk_04_s_12:
+    speaker: youngstaff
+    en: Think you can handle it?
+    ko: 오 뭐야. 운전할 줄 알아?
+    ja: おっ、何だ。できんのか？
+  event_ltk_04_s_13:
+    speaker: d
+    en: Of course.
+    ko: 그럼요.
+    ja: もちろんです。
+  event_ltk_04_s_14:
+    speaker: youngstaff
+    en: Go right ahead. Gives me some time to relax for a bit.
+    ko: |-
+      그래. 그럼 네가 해.
+      난 간만에 편하게 안내나 좀 하게.
+    ja: |-
+      じゃあよろしく。
+      久しぶりに楽できそうだな。
+  event_ltk_04_s_15:
+    speaker: d
+    en: Can I open the trunk before we go?
+    ko: 가기 전에 짐칸 좀 열어봐도 되나요?
+    ja: 出発の前に荷台を開けてもいいですか？
+  event_ltk_04_s_16:
+    speaker: youngstaff
+    en: "... Why?"
+    ko: "…그건 왜."
+    ja: "…なぜだ？"
+  event_ltk_04_s_17:
+    speaker: d
+    en: I need to know what's inside. It could affect how I have to drive.
+    ko: 뭐가 실려있는지는 알아야 운전할 때 참고하죠.
+    ja: 何が載っているのか確認してから運転しないと。
+  event_ltk_04_s_18:
+    speaker: youngstaff
+    en: Electronics.
+    ko: 전자 제품이야.
+    ja: 電子製品だ。
+  event_ltk_04_s_19:
+    speaker: d
+    en: I know that, but I need to know how it's all laid out.
+    ko: 그건 아는데, 적재가 어디에 어떻게 되어있는지 알면 운전할 때 도움 되거든요.
+    ja: |-
+      それは分かっていますが、荷物の位置を
+      把握しておけば、より安全に運転できるので。
+  event_ltk_04_s_20:
+    speaker: youngstaff
+    en: A real professional, I see.
+    ko: 오, 본격적이네.
+    ja: おっ、プロっぽいな。
+  event_ltk_04_s_21:
+    speaker: youngstaff
+    en: Be my guest. Look, but don't touch.
+    ko: |-
+      그럼 봐봐.
+      보기만 해야 돼.
+    ja: |-
+      じゃあ見てみろよ。
+      見るだけだからな？
+  event_ltk_04_s_22:
+    speaker: Monologue
+    en: D and I head to the back of the semi-truck and open up the trunk.
+    ko: D와 나는 큰 트럭의 짐칸을 열어 내부를 확인했다.
+    ja: |-
+      Dと私は大きなトラックの荷台を開けて
+      中を確認した
+  event_ltk_04_s_23:
+    speaker: Monologue
+    en: It is filled with various household appliances.
+    ko: 각종 생활용 가전제품들이 가득 실려있었다.
+    ja: 生活家電がたくさん積んであった
+  event_ltk_04_s_24:
+    speaker: Monologue
+    en: At first glance, nothing seems out of the ordinary.
+    ko: "…보기에 문제는 없어 보인다."
+    ja: "…見たところ問題はなさそうだ"
+  event_ltk_04_s_25:
+    speaker: d
+    en: All right, got it.
+    ko: 네 확인했어요.
+    ja: はい、確認しました。
+  event_ltk_04_s_26:
+    speaker: d
+    en: Let's hit the road.
+    ko: 그럼 갈까요?
+    ja: では行きましょうか。
+event_ltk_04_e:
+  event_ltk_04_e_1:
+    speaker: Monologue
+    en: D drives the truck towards the Outer Rim, and passes through the boundary
+      wall without issue.
+    ko: D가 운전한 트럭은 아우터 림의 격벽을 아주 쉽게 통과했다.
+    ja: |-
+      Dが運転するトラックはアウターリムの防壁を
+      簡単に通過した
+  event_ltk_04_e_2:
+    speaker: Monologue
+    en: We're allowed to pass after a simple inspection.
+    ko: 정말 간단한 검문만 실시하고 바로 지나갈 수 있었다.
+    ja: 本当に簡単な検問だけですぐに通ることができた
+  event_ltk_04_e_3:
+    speaker: Monologue
+    en: The perks of being tight with the military, I suppose.
+    ko: 군부와 이어져있다는 것이 이런 의미인 건가.
+    ja: 軍部と繋がっているということだろうか
+  event_ltk_04_e_4:
+    speaker: Monologue
+    en: We bob and weave our way through the Outer Rim.
+    ko: 트럭은 아우터 림 안을 한참 동안 달렸다.
+    ja: トラックはアウターリムの中をしばらく走った
+  event_ltk_04_e_5:
+    speaker: youngstaff
+    en: Take a right here.
+    ko: 여기서 오른쪽.
+    ja: ここを右に。
+  event_ltk_04_e_6:
+    speaker: Monologue
+    en: The truck enters a narrow alley.
+    ko: "…트럭은 좁은 골목으로 들어갔다."
+    ja: "…トラックは狭い道に入った"
+  event_ltk_04_e_7:
+    speaker: Monologue
+    en: After a while, we reach a small clearing.
+    ko: 그렇게 한참을 가다, 작은 공터에 다다랐다.
+    ja: |-
+      そうしてしばらく進むと
+      小さな空き地にたどり着いた
+  event_ltk_04_e_8:
+    speaker: youngstaff
+    en: Here. Stop.
+    ko: 여기야. 스톱.
+    ja: ここだ。ストップ。
+  event_ltk_04_e_9:
+    speaker: Monologue
+    en: The clearing is completely empty and desolate.
+    ko: 작은 공터엔 아무것도, 아무도 없었다.
+    ja: 空き地には何もなく、誰もいなかった
+  event_ltk_04_e_10:
+    speaker: Monologue
+    en: That is, except for another truck similar to the one we're driving, which
+      is parked opposite us.
+    ko: 단 하나. 우리가 타고 온 트럭과 같은 트럭이 한 대 놓여 있었을 뿐이었다.
+    ja: |-
+      私たちが乗ってきたトラックと同じ
+      トラックが1台置かれているだけだった
+  event_ltk_04_e_11:
+    speaker: Monologue
+    en: We get out of the truck.
+    ko: 우리는 트럭에서 내렸다.
+    ja: 私たちはトラックから降りた
+  event_ltk_04_e_12:
+    speaker: youngstaff
+    en: That's it. We leave the truck we rode in here.
+    ko: 됐어. 이제 타고 온 트럭은 여기 놔두고 가면 돼.
+    ja: |-
+      よし。乗ってきたトラックは
+      ここに置いていけばいい。
+  event_ltk_04_e_13:
+    speaker: youngstaff
+    en: |-
+      You see the truck parked there?
+      That's the one we'll drive back.
+    ko: |-
+      돌아갈 때는 여기 세워놓은 트럭 보이지?
+      이거 타고 가면 돼.
+    ja: |-
+      帰る時はそこにトラックがあるだろ？
+      それに乗って帰ればいいんだ。
+  event_ltk_04_e_14:
+    speaker: d
+    en: So we're just leaving this entire truck here?
+    ko: 어? 그냥 세워놓고 가나요?
+    ja: え？これはそのままでいいんですか？
+  event_ltk_04_e_15:
+    speaker: youngstaff
+    en: Right. Someone from the Outer Rim will come and take the items inside.
+    ko: 그래. 여기 세워놓으면 아우터 림에서 사람이 와서 내용물만 가져갈 거야.
+    ja: |-
+      ああ。ここに置いておけばアウターリムから
+      人が来て、中身だけ持っていくから。
+  event_ltk_04_e_16:
+    speaker: d
+    en: Why aren't we giving them out ourselves?
+    ko: 왜 직접 안 나눠주고요?
+    ja: どうして直接渡さないんですか？
+  event_ltk_04_e_17:
+    speaker: youngstaff
+    en: You're awfully inquisitive. The last guy asked too many questions as well.
+    ko: "…이번 신입은 질문이 많네. 저번 신입도 그러더니."
+    ja: |-
+      …今回の新人は質問が多いな。
+      この間もそうだったけど。
+  event_ltk_04_e_18:
+    speaker: youngstaff
+    en: If we hand them out ourselves, we'd be in close proximity to the general population.
+    ko: 직접 나눠주면 아우터 림의 인간들과 마주쳐야 하잖아.
+    ja: |-
+      直接渡すにはアウターリムの人間と
+      接触しないといけないだろ。
+  event_ltk_04_e_19:
+    speaker: youngstaff
+    en: Do you have any idea how dangerous that would be?
+    ko: 너 그게 얼마나 위험한 일인지 모르지?
+    ja: それがどれだけ危険なことか分かってるのか？
+  event_ltk_04_e_20:
+    speaker: youngstaff
+    en: Let's get a move on. I don't want to linger here.
+    ko: 그럼 이제 가자. 나도 여기 있기 싫어.
+    ja: もう行くぞ。俺もここに長居したくないんだ。
+  event_ltk_04_e_21:
+    speaker: d
+    en: You got it.
+    ko: 예. 알겠어요.
+    ja: はい、分かりました。
+  event_ltk_04_e_22:
+    speaker: d
+    en: Oh, darn.
+    ko: "…아."
+    ja: "…あっ。"
+  event_ltk_04_e_23:
+    speaker: d
+    en: I screwed up.
+    ko: 큰일 났다.
+    ja: どうしましょう。
+  event_ltk_04_e_24:
+    speaker: Self
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  event_ltk_04_e_25:
+    speaker: d
+    en: I think I left my wallet in the trunk earlier when I was checking it.
+    ko: 아까 짐칸 열어볼 때 지갑을 거기 놔뒀나 봐요.
+    ja: |-
+      さっき荷台を開けた時に
+      財布を置いてきちゃったみたいです。
+  event_ltk_04_e_26:
+    speaker: youngstaff
+    en: What? Hey, wait...
+    ko: 뭐? 어, 잠깐….
+    ja: え？おい、ちょっと…
+  event_ltk_04_e_27:
+    speaker: Monologue
+    en: D jogs over to the back of the truck and opens the door.
+    ko: D는 짐칸으로 달려가듯 다가가 문을 열었다.
+    ja: Dは荷台に駆け寄り、ドアを開けた
+  event_ltk_04_e_28:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_04_e_29:
+    speaker: youngstaff
+    en: Hey! You can't be opening that without permission.
+    ko: 아 거 함부로 막 열고 그러지 마.
+    ja: おい、勝手に開けるな。
+  event_ltk_04_e_30:
+    speaker: d
+    en: You know, I just thought of something.
+    ko: 이상하네요.
+    ja: おかしいですね。
+  event_ltk_04_e_31:
+    speaker: d
+    en: When I was driving, the truck felt awfully loaded down.
+    ko: 운전을 하다 보면 지금 차가 얼마나 무거운지 대충 알 수 있거든요.
+    ja: |-
+      運転をしていたら車の重さが
+      だいたい分かるんですけど、
+  event_ltk_04_e_32:
+    speaker: d
+    en: Whenever I picked up speed or took a turn, I could really feel the weight
+      bearing down.
+    ko: 가속이라던가 코너링이라던가 할 때 [차가 무겁다]는 느낌을 받아요.
+    ja: |-
+      加速した時やカーブを曲がった時に
+      「車が重い」と感じたんです。
+  event_ltk_04_e_33:
+    speaker: d
+    en: But these electronics here couldn't possibly account for all that weight.
+    ko: 지금 실려있는 전자제품들 만으로는 이렇게까지 차가 무거울 리가 없거든요.
+    ja: |-
+      でも積んである電子製品だけでは
+      そこまで重くないはずです。
+  event_ltk_04_e_34:
+    speaker: youngstaff
+    en: "... So?"
+    ko: "…그래서?"
+    ja: "…それで？"
+  event_ltk_04_e_35:
+    speaker: d
+    en: Mind if I take a look inside?
+    ko: 안에 좀 확인해 봐도 되나요?
+    ja: 中を確認してもいいですか？
+  event_ltk_04_e_36:
+    speaker: youngstaff
+    en: Yes, I do mind.
+    ko: 안돼.
+    ja: ダメだ。
+  event_ltk_04_e_37:
+    speaker: d
+    en: Just a quick peek.
+    ko: 에이, 한 번만 확인해 볼게요.
+    ja: ちょっとだけですから。
+  event_ltk_04_e_38:
+    speaker: youngstaff
+    en: It ain't gonna happen, lady.
+    ko: 안된다고.
+    ja: ダメだって。
+  event_ltk_04_e_39:
+    speaker: Narration
+    en: "*Grab*"
+    ko: 텁썩.
+    ja: ガシッ
+  event_ltk_04_e_40:
+    speaker: Monologue
+    en: The employee moves towards D and grabs her shoulder.
+    ko: 직원이 D에게 다가가 어깨를 움켜쥐었다.
+    ja: 職員がDに近づき、肩を掴んだ
+  event_ltk_04_e_41:
+    speaker: youngstaff
+    en: Move aside. Why are you so damn nosy, anyway?
+    ko: 비켜. 별걸 다 궁금해하고 난리야.
+    ja: どけ。余計なこと考えやがって。
+  event_ltk_04_e_42:
+    speaker: Narration
+    en: "*Whip*"
+    ko: 휙-
+    ja: ヒュッ
+  event_ltk_04_e_43:
+    speaker: youngstaff
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_ltk_04_e_44:
+    speaker: Monologue
+    en: D produces some kind of canister from her pocket and tosses it into the back
+      of the truck.
+    ko: D는 품에서 작은 캔 같은 것을 짐칸 안으로 집어던졌다.
+    ja: |-
+      Dは胸元から小さな缶のようなものを取り出し
+      荷台の中へ投げた
+  event_ltk_04_e_45:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 탱-!
+    ja: カンッ！
+  event_ltk_04_e_46:
+    speaker: Narration
+    en: "*Whhhhssssssssss*"
+    ko: 푸슈슈슉--!!
+    ja: プシューッ！！
+  event_ltk_04_e_47:
+    speaker: Self
+    en: A smoke grenade?
+    ko: "…연막 수류탄?"
+    ja: "…発煙弾？"
+  event_ltk_04_e_48:
+    speaker: youngstaff
+    en: Wh-what is this? What's going on?
+    ko: 뭐, 뭐야 이거? 이거 왜 이래?
+    ja: な、何だこれは？どうなってるんだ？
+  event_ltk_04_e_49:
+    speaker: Narration
+    en: "*Baaang* *Crashhh*"
+    ko: 우당탕탕! 와르르르!
+    ja: バタンッ！ゴロゴロ！
+  event_ltk_04_e_50:
+    speaker: Monologue
+    en: The appliances that were piled in the back come tumbling down with a resounding
+      crash.
+    ko: 짐칸에 실어 놨던 전자 제품들이 요란한 소리를 내며 이리저리 넘어졌다.
+    ja: |-
+      荷台に積んであった電子製品が
+      大きな音を立てながら崩れていった
+  event_ltk_04_e_51:
+    speaker: Monologue
+    en: Revealing...
+    ko: 그리고 그 너머에서 나온 것은.
+    ja: そしてその奥から出てきたのは
+  event_ltk_04_e_52:
+    speaker: Monologue
+    en: approximately 10 mass-produced Nikkes.
+    ko: 10명 남짓한 양산형 니케들이었다.
+    ja: 10人あまりの量産型ニケだった
+  event_ltk_04_e_53:
+    speaker: Monologue
+    en: They come rushing out from the truck and look themselves over.
+    ko: 양산형 니케들은 짐칸에서 나와 자신의 몸 상태를 점검했고,
+    ja: 量産型ニケは荷台から出ると自身の体を見て
+  event_ltk_04_e_54:
+    speaker: Monologue
+    en: Once they've confirmed they haven't sustained any injuries, they stare at
+      us nervously.
+    ko: 몸에 아무런 이상이 없다는 것을 안 다음 불안한 표정으로 우리를 지켜봤다.
+    ja: |-
+      何の異常もないことを確認すると
+      不安そうな顔で私たちを見た
+  event_ltk_04_e_55:
+    speaker: youngstaff
+    en: This can't be happening...
+    ko: 아… 미치겠네.
+    ja: ハァ…最悪だ。
+  event_ltk_04_e_56:
+    speaker: d
+    en: Who are these people?
+    ko: 이분들은 누군가요?
+    ja: この方たちは？
+  event_ltk_04_e_57:
+    speaker: youngstaff
+    en: Are you blind? They're Nikkes.
+    ko: 보면 몰라? 니케잖아.
+    ja: 見れば分かるだろ？ニケだよ。
+  event_ltk_04_e_58:
+    speaker: d
+    en: Are they being sent here to volunteer at the Outer Rim?
+    ko: 아하. 아우터 림에 봉사활동하러 오신 분들인가요?
+    ja: |-
+      あっ。アウターリムで
+      ボランティアをしに来たのですか？
+  event_ltk_04_e_59:
+    speaker: youngstaff
+    en: In a way.
+    ko: "…뭐, 그렇지. 여러 가지 의미로."
+    ja: "…まあ、そうだな。色んな意味で。"
+  event_ltk_04_e_60:
+    speaker: Self
+    en: Are you selling Nikkes to the Outer Rim?
+    ko: "…니케를 파는 건가? 아우터 림에?"
+    ja: "…ニケを売っているのか？アウターリムに？"
+  event_ltk_04_e_61:
+    speaker: youngstaff
+    en: Don't act so surprised.
+    ko: 아 알면서 뭘 물어봐?
+    ja: 分かってるくせにいちいち聞くなよ。
+  event_ltk_04_e_62:
+    speaker: youngstaff
+    en: Do you really think we'd come all the way to the Outer Rim just to deliver
+      electronics?
+    ko: 그럼, 이 아우터 림까지 달랑 전자제품만 싣고 올 줄 알았어?
+    ja: |-
+      わざわざここまで電子製品だけを
+      積んできたと思ったのか？
+  event_ltk_04_e_63:
+    speaker: youngstaff
+    en: Give up acting all innocent.
+    ko: 왜 이래. 순진한 척하고.
+    ja: 純粋なフリするなよ。
+  event_ltk_04_e_64:
+    speaker: youngstaff
+    en: You should have known something was up when they were willing to pay you a
+      king's ransom for this job.
+    ko: 기본 봉급의 다섯 배나 준다고 할 때부터 알았을 것 아냐.
+    ja: |-
+      基本給の5倍もくれるって言われた時から
+      分かってただろ？
+  event_ltk_04_e_65:
+    speaker: youngstaff
+    en: Who in their right mind would pay you five times your salary for a basic delivery?
+    ko: 세상 누가 배송만 하는데 다섯 배나 준다고 할 것 같아?
+    ja: 荷物運びだけで5倍も渡すはずないよな？
+  event_ltk_04_e_66:
+    speaker: Self
+    en: What will happen to these Nikkes?
+    ko: "…이 니케들은 어떻게 되는 거지?"
+    ja: "…このニケたちはどうなる？"
+  event_ltk_04_e_67:
+    speaker: youngstaff
+    en: How should I know?
+    ko: 몰라.
+    ja: さあな。
+  event_ltk_04_e_68:
+    speaker: youngstaff
+    en: Cannon fodder for some local insurrection, maybe. Who cares?
+    ko: 내전용 총알받이로나 쓰이겠지.
+    ja: 内戦用の弾よけにでも使われるんだろ。
+  event_ltk_04_e_69:
+    speaker: Self
+    en: You son-of-a...
+    ko: "…너…!"
+    ja: "…なっ…！"
+  event_ltk_04_e_70:
+    speaker: youngstaff
+    en: Jeez, another boy scout? First the guy before, now you two.
+    ko: 나 참. 전에 온 놈도 그렇고 왜 이렇게 깨끗한 놈들만 있대?
+    ja: |-
+      この間来た奴もそうだけど、
+      なんでこんなに純粋な奴ばっかなんだ？
+  event_ltk_04_e_71:
+    speaker: youngstaff
+    en: So I'm the bad guy, is that it?
+    ko: 나만 쓰레기야? 응?
+    ja: クズは俺だけか？なぁ？
+  event_ltk_04_e_72:
+    speaker: youngstaff
+    en: Just shut up and take the money. We're all out here trying to make a living,
+      aren't we?
+    ko: |-
+      나도 좀 먹고살자.
+      다 먹고살자고 하는 짓이잖아? 너희나 나나.
+    ja: |-
+      俺だって生活がかかってんだよ。
+      お前らもそうだろ？
+  event_ltk_04_e_73:
+    speaker: youngstaff
+    en: So stop glaring at me, and hurry up and get in the truck.
+    ko: 그러니 눈알 그만 부라리고 빨리 차나 타.
+    ja: だから、にらむなよ。早く車に乗れ。
+  event_ltk_04_e_74:
+    speaker: youngstaff
+    en: We've got another stop to make.
+    ko: 다른 곳에도 가야 하니까.
+    ja: 次の場所に行く。
+  event_ltk_04_e_75:
+    speaker: d
+    en: Does the president know this?
+    ko: 사장님도 이걸 아나요?
+    ja: 社長もご存じなんですか？
+  event_ltk_04_e_76:
+    speaker: youngstaff
+    en: What do you think, genius?
+    ko: 당연한 소릴 하고 있어.
+    ja: 当たり前だろ？
+  event_ltk_04_e_77:
+    speaker: d
+    en: How long have you been doing this?
+    ko: 그쪽의 직원분은 이 일을 하신지 얼마나 됐나요?
+    ja: この仕事を始めてどれくらいなんですか？
+  event_ltk_04_e_78:
+    speaker: youngstaff
+    en: 6 months, give or take.
+    ko: "…한 반년 됐어."
+    ja: "…半年くらいだな。"
+  event_ltk_04_e_79:
+    speaker: youngstaff
+    en: I had my misgivings in the beginning, but then I remembered the Central Government
+      would only scrap these Nikkes anyway.
+    ko: |-
+      처음엔 나도 좀 그랬는데,
+      어차피 중앙 정부에서 폐기될 거라고 얘들.
+    ja: |-
+      最初は俺もどうかと思ったけど
+      どうせ中央政府で廃棄される奴らだそうだ。
+  event_ltk_04_e_80:
+    speaker: youngstaff
+    en: It's easier if you just think of them as objects. That's pretty much what
+      they are, anyway.
+    ko: 그냥 물건이라고 생각하면 편해.
+    ja: ただのモノだと思えば気が楽だぞ。
+  event_ltk_04_e_81:
+    speaker: d
+    en: I see.
+    ko: 그렇군요.
+    ja: そうですか。
+  event_ltk_04_e_82:
+    speaker: d
+    en: Die then.
+    ko: 그럼 죽어라.
+    ja: じゃあ、死ね。
+  event_ltk_04_e_83:
+    speaker: youngstaff
+    en: "... Huh?"
+    ko: "…어?"
+    ja: "…はぁ？"
+  event_ltk_04_e_84:
+    speaker: Narration
+    en: "*Swoosh*"
+    ko: 후웅-!!
+    ja: ブンッ！
+  event_ltk_04_e_85:
+    speaker: Monologue
+    en: D's axe flies through the air.
+    ko: D의 도끼가 휘둘러졌다!
+    ja: Ｄが斧を振り下ろした！
+  event_ltk_04_e_86:
+    speaker: Monologue
+    en: I quickly grab onto the employee's shirt and yank him back.
+    ko: 급하게 직원의 옷깃을 잡고 당겼다.
+    ja: 私は慌てて社員の服を引っ張った
+  event_ltk_04_e_87:
+    speaker: Monologue
+    en: D's axe whirls past and embeds into the side of the truck with a loud thud.
+    ko: D의 도끼가 허공을 가르며 끔찍한 파공음을 만들어냈다.
+    ja: |-
+      Ｄの斧が空中を切り裂き、
+      ぞっとするような音を立てた
+  event_ltk_04_e_88:
+    speaker: youngstaff
+    en: Gahh!
+    ko: 히, 히익...!
+    ja: ひ、ひぃっ…！
+  event_ltk_04_e_89:
+    speaker: Self
+    en: What are you doing?!
+    ko: 뭐 하는 거야!
+    ja: 何をするんだ！？
+  event_ltk_04_e_90:
+    speaker: d
+    en: I was about to kill something that shouldn't be considered human.
+    ko: 인륜을 벗어난 것을 죽이려 하고 있어.
+    ja: 不道徳な行いをした者を殺そうとしている。
+  event_ltk_04_e_91:
+    speaker: youngstaff
+    en: Y-you were gonna kill me?!
+    ko: 주, 주주죽, 죽인다고?
+    ja: こ、こここっ、殺すって？
+  event_ltk_04_e_92:
+    speaker: Self
+    en: You were going to kill someone just because you got riled up?
+    ko: 네 기분이 나쁘다고 죽인다고?
+    ja: 腹が立ったから殺すのか？
+  event_ltk_04_e_93:
+    speaker: d
+    en: No.
+    ko: 아니.
+    ja: いや。
+  event_ltk_04_e_94:
+    speaker: d
+    en: I don't act based on emotion.
+    ko: 난 내 기분으로 움직이지 않아.
+    ja: 私は自分の機嫌だけで動きはしない。
+  event_ltk_04_e_95:
+    speaker: d
+    en: If there is someone who has acted immorally,
+    ko: 나한테는 권한이 있어.
+    ja: だが私には権限がある。
+  event_ltk_04_e_96:
+    speaker: d
+    en: and I can prove it beyond a reasonable doubt,
+    ko: |-
+      명백히 인륜을 벗어난 이가 있고,
+      그것을 완벽히 증명할 수 있다면.
+    ja: |-
+      明らかに不道徳な行いをした者がいて
+      それを完璧に証明できるなら
+  event_ltk_04_e_97:
+    speaker: d
+    en: I am authorized to use deadly force.
+    ko: 죽일 수 있어.
+    ja: 殺せるんだ。
+  event_ltk_04_e_98:
+    speaker: d
+    en: Should any evidence be brought into question, I will take my own life.
+    ko: 증명에 조금이라도 틈이 있다면 내 목숨을 대신 내놓는다.
+    ja: |-
+      証明に少しでも穴があれば
+      自分の命を代わりに差し出す。
+  event_ltk_04_e_99:
+    speaker: d
+    en: This is the cross I bear.
+    ko: 그게 내가 짊어지고 있으며,
+    ja: それが、私が背負い
+  event_ltk_04_e_100:
+    speaker: d
+    en: I carry it with me always.
+    ko: 쓰고 있는 왕관이다.
+    ja: 戴いている王冠だ。
+  event_ltk_04_e_101:
+    speaker: youngstaff
+    en: Ah! Arghhh!!
+    ko: 으아, 으아아아--!!
+    ja: うあっ、うあああっ！！
+  event_ltk_04_e_102:
+    speaker: Monologue
+    en: In a panic, the employee flees.
+    ko: 직원은 전력으로 뛰어갔다.
+    ja: 社員は全力で逃げ出した
+  event_ltk_04_e_103:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_04_e_104:
+    speaker: d
+    en: Wait here.
+    ko: 여기서 기다려.
+    ja: ここで待ってろ。
+  event_ltk_04_e_105:
+    speaker: Monologue
+    en: D takes off in a flash.
+    ko: D는 번개같은 속도로 뛰어갔다.
+    ja: Dは稲妻のようなスピードで追いかけた
+  event_ltk_04_e_106:
+    speaker: Self
+    en: Wait! D!!
+    ko: 잠깐! D!!
+    ja: 待ってくれ！D！！
+  event_ltk_04_e_107:
+    speaker: Monologue
+    en: She is already out of sight.
+    ko: "…D는 이미 보이지 않는다."
+    ja: "…Dの姿はすでに見えなかった"
+  event_ltk_04_e_108:
+    speaker: Monologue
+    en: A few minutes later,
+    ko: 그리고 몇 분 후.
+    ja: そして数分後
+  event_ltk_04_e_109:
+    speaker: Monologue
+    en: she comes ambling back.
+    ko: D는 천천히 걸어왔다.
+    ja: Dがゆっくりと歩いてきた
+  event_ltk_04_e_110:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_04_e_111:
+    speaker: Self
+    en: "... What did you do?"
+    ko: "…어떻게 한 거야."
+    ja: "…どうなった？"
+  event_ltk_04_e_112:
+    speaker: d
+    en: Do you really want to know?
+    ko: 왜 묻지?
+    ja: なぜ尋ねる？
+  event_ltk_04_e_113:
+    speaker: Self
+    en: I asked, didn't I?
+    ko: "…어떻게 한 거냐고."
+    ja: "…どうなったんだ？"
+  event_ltk_04_e_114:
+    speaker: d
+    en: I did what I had to.
+    ko: 내가 할 일을 했어.
+    ja: 私がすべきことをした。
+  event_ltk_04_e_115:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_04_e_116:
+    speaker: "<Choice>"
+    en: Well done.
+    ko: "…고생했어."
+    ja: "…お疲れ様"
+  event_ltk_04_e_117:
+    speaker: "<Choice>"
+    en: You'll come to regret it.
+    ko: "…후회할 거야."
+    ja: "…後悔するぞ"
+  event_ltk_04_e_118:
+    speaker: d
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  event_ltk_04_e_119:
+    speaker: d
+    en: All right then.
+    ko: 그래.
+    ja: ああ。
+  event_ltk_04_e_120:
+    speaker: d
+    en: I have never regretted any of my actions.
+    ko: 난 단 한 번도 내 선택에 후회한 적 없어.
+    ja: 私は一度も自分の選択を後悔したことはない。
+  event_ltk_04_e_121:
+    speaker: d
+    en: That man got what he deserved.
+    ko: 그는 치러야 할 대가를 치렀을 뿐이야.
+    ja: 彼は払うべき代償を払っただけだ。
+  event_ltk_04_e_122:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_04_e_123:
+    speaker: d
+    en: Let's go back.
+    ko: 돌아가자.
+    ja: 戻ろう。
+  event_ltk_04_e_124:
+    speaker: Monologue
+    en: We usher the mass-produced Nikkes back into the truck and head back to the
+      Ark.
+    ko: "…우리는 양산형 니케들을 태우고 방주로 돌아왔다."
+    ja: "…私たちは量産型ニケを乗せてアークへ戻った"
+  event_ltk_04_e_125:
+    speaker: Monologue
+    en: Neither of us utters a single word to each other the entire way back.
+    ko: 오는 도중, 우리는 한 마디도 나누지 않았다.
+    ja: 道中、一言も言葉を交わさなかった
+event_ltk_05_s:
+  event_ltk_05_s_1:
+    speaker: Monologue
+    en: We don't report to work the next day.
+    ko: 다음 날. 우린 출근하지 않았다.
+    ja: 翌日。私たちは出勤しなかった
+  event_ltk_05_s_2:
+    speaker: Monologue
+    en: D is out taking care of an errand.
+    ko: D는 볼일을 보러 간다고 외출했고.
+    ja: Dは用事があると言って外出し
+  event_ltk_05_s_3:
+    speaker: Monologue
+    en: I lie on my bed, staring at the ceiling.
+    ko: 난 지휘관실에서 멍하니 천장만 바라보고 누워있었다.
+    ja: |-
+      私は指揮官室で横になって
+      ぼーっと天井を見つめていた
+  event_ltk_05_s_4:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_ltk_05_s_5:
+    speaker: Self
+    en: Is that you, D?
+    ko: "…D야?"
+    ja: "…Dか？"
+  event_ltk_05_s_6:
+    speaker: d
+    en: Yeah.
+    ko: 그래.
+    ja: ああ。
+  event_ltk_05_s_7:
+    speaker: Self
+    en: What were you up to?
+    ko: 어디 갔다 왔어?
+    ja: どこに行ってたんだ？
+  event_ltk_05_s_8:
+    speaker: d
+    en: Doing some investigation. And extermination.
+    ko: 조사 및 섬멸.
+    ja: 調査と殲滅。
+  event_ltk_05_s_9:
+    speaker: Self
+    en: What?
+    ko: "…뭐?"
+    ja: "…何だって？"
+  event_ltk_05_s_10:
+    speaker: d
+    en: I focused my investigation on what transpired yesterday.
+    ko: 어제 있었던 일을 중점으로 그 주위를 조사했어.
+    ja: 昨日の出来事を中心に周辺を調査した。
+  event_ltk_05_s_11:
+    speaker: d
+    en: Read this.
+    ko: 자세한 건 이걸 읽어봐.
+    ja: 詳しく知りたければこれを読め。
+  event_ltk_05_s_12:
+    speaker: Monologue
+    en: D hands a file over to me.
+    ko: D는 나에게 서류철을 건네줬다.
+    ja: Dは私に書類を渡した
+  event_ltk_05_s_13:
+    speaker: Monologue
+    en: I parse through the file and read its contents.
+    ko: "…서류철을 뒤적거려 문서를 읽는다."
+    ja: "…書類を開いて読んだ"
+  event_ltk_05_s_14:
+    speaker: Monologue
+    en: The president was a former member of the Seimeikai who left in disgrace. After
+      that, he linked up with a smaller splinter group.
+    ko: 세이메이카이에서 퇴출되어 별도의 세력을 꾸린 소규모 조직과의 커넥션을 만든 사장은.
+    ja: |-
+      社長は清明会から追い出された者が
+      新たに立ち上げた小さな組織との
+      コネクションを作り
+  event_ltk_05_s_15:
+    speaker: Monologue
+    en: With their help, he began cutting deals with the Outer Rim.
+    ko: 그들의 도움으로 아우터 림과의 거래를 시작했다고 한다.
+    ja: |-
+      彼らのサポートによりアウターリムとの
+      取引を始めたらしい
+  event_ltk_05_s_16:
+    speaker: Monologue
+    en: At some point during the investigation process, this splinter group was eradicated.
+    ko: "…이 사실을 조사하는 과정에서 그 이름 모를 조직은 괴멸당했다 한다."
+    ja: |-
+      …この調査過程で
+      その組織は壊滅したそうだ
+  event_ltk_05_s_17:
+    speaker: Monologue
+    en: The Central Government sold mass-produced Nikkes which were near the end of
+      their life cycles, as well as a variety of weapons, to the president.
+    ko: 중앙 정부는 수명이 다 해가는 양산형 니케들 및 각종 무기들을 사장에게 판매했고.
+    ja: |-
+      中央政府は寿命が近い量産型ニケや武器を
+      社長に販売し
+  event_ltk_05_s_18:
+    speaker: Monologue
+    en: He then sold those mass-produced Nikkes and weapons under the guise of giving
+      a charitable donation.
+    ko: 사장은 그 양산형 니케들과 무기를 아우터 림에 전자 제품 기부라는 형태로 판매했다.
+    ja: |-
+      社長はそれらを電子製品の寄付という形で
+      アウターリムに販売した
+  event_ltk_05_s_19:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_05_s_20:
+    speaker: Monologue
+    en: The mass-produced Nikkes who were sent to the Outer Rim ended their own lives
+      for a variety of reasons.
+    ko: |-
+      아우터 림으로 간 양산형 니케들은
+      저마다의 이유로 그 삶을 끝마쳤다.
+    ja: |-
+      アウターリムに送られた量産型ニケは
+      様々な理由でその生涯を終えた
+  event_ltk_05_s_21:
+    speaker: Monologue
+    en: I'd rather not read through the sordid details.
+    ko: "…이 부분은 자세히 읽어보고 싶지 않다."
+    ja: "…ここはこれ以上読みたくない"
+  event_ltk_05_s_22:
+    speaker: Monologue
+    en: The mass-produced Nikkes and weapons were purchased by various factions in
+      the Outer Rim, both big and small.
+    ko: |-
+      아우터 림에 자리한 크고 작은 세력들을 상대로
+      양산형 니케와 무기의 보급 여부를 두고 돈을 요구했다는 사실도 있었다.
+    ja: |-
+      アウターリムにある大小様々な組織を相手に
+      量産型ニケと武器の取引をめぐって
+      金を要求したという事実もあった
+  event_ltk_05_s_23:
+    speaker: Monologue
+    en: The president of C.O.L. grew the company by leveraging the benefits and connections
+      he had garnered through all these backdoor deals.
+    ko: C.O.L.의 사장은 그 일련의 거래에서 발생하는 이익을 기반으로 회사를 성장시켰고.
+    ja: |-
+      社長はその一連の取引で得た利益で
+      会社を成長させ
+  event_ltk_05_s_24:
+    speaker: Monologue
+    en: He has, however, engaged in some genuine philanthropy, such as his investing
+      in the hospital.
+    ko: 의료 시설을 비롯한 각종 선행을 일삼고 있었다.
+    ja: 医療施設への寄付などを行っていた
+  event_ltk_05_s_25:
+    speaker: Monologue
+    en: The president is closely connected to several high-ranking officials in the
+      Central Government's Nikke Management Department,
+    ko: 사장은 중앙 정부 니케 관리부의 고위 간부 몇과 연줄이 있었으며,
+    ja: |-
+      社長は中央政府ニケ管理部の幹部らと
+      繋がりがあり
+  event_ltk_05_s_26:
+    speaker: Monologue
+    en: and lines their pockets often.
+    ko: 주기적으로 그들에게 막대한 양의 부를 안겨줬다.
+    ja: 定期的に彼らに大金を渡していた
+  event_ltk_05_s_27:
+    speaker: Monologue
+    en: That's not all.
+    ko: 그뿐만이 아니었다.
+    ja: それだけではなかった
+  event_ltk_05_s_28:
+    speaker: Monologue
+    en: He periodically makes donations to various other departments.
+    ko: 중앙 정부 각각의 부서에 주기적으로 기부를 하고 있었고.
+    ja: 中央政府の各部署にも定期的に寄付を行い
+  event_ltk_05_s_29:
+    speaker: Monologue
+    en: He's been invited as an honored guest to several official events.
+    ko: 온갖 공식 행사에 귀빈으로 초청되기도 했다.
+    ja: 公的行事の貴賓として招待されることもあった
+  event_ltk_05_s_30:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_05_s_31:
+    speaker: Self
+    en: Now I see why Enikk can't pass judgment.
+    ko: 에닉이 판결을 내릴 수 없는 이유를 이제 완벽히 이해했어.
+    ja: |-
+      エニックが判決を下せない理由が
+      これでよく分かった
+  event_ltk_05_s_32:
+    speaker: Self
+    en: Because no one would ever give up their golden goose and send him to her.
+    ko: 그 누구도 이 사람을 에닉 앞에 세우지 않을 거니까.
+    ja: 誰もこの人間をエニックの前に立たせないからだ
+  event_ltk_05_s_33:
+    speaker: d
+    en: Precisely.
+    ko: "…그래."
+    ja: "…そうだ。"
+  event_ltk_05_s_34:
+    speaker: Self
+    en: What does K have to say about this?
+    ko: K는 뭐래?
+    ja: Kはなんと言っていた？
+  event_ltk_05_s_35:
+    speaker: d
+    en: She'll be here soon.
+    ko: 곧 올 거야.
+    ja: もうすぐ来るはずだ。
+  event_ltk_05_s_36:
+    speaker: Narration
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン
+  event_ltk_05_s_37:
+    speaker: k
+    en: How's it hangin', everyone?
+    ko: 오랜만이야.
+    ja: 久しぶり～
+  event_ltk_05_s_38:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_05_s_39:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_05_s_40:
+    speaker: k
+    en: Well, aren't we a cheery bunch.
+    ko: 분위기 한 번 죽여주네.
+    ja: 空気重くない？
+  event_ltk_05_s_41:
+    speaker: k
+    en: Did you guys forget how to talk or something?
+    ko: 너희들 대화를 하긴 하냐?
+    ja: 話し方忘れた？
+  event_ltk_05_s_42:
+    speaker: Self
+    en: Tell us what you've turned up.
+    ko: 조사한 걸 알려줘.
+    ja: 調査結果を教えてくれ
+  event_ltk_05_s_43:
+    speaker: k
+    en: Yikes.
+    ko: "…흠."
+    ja: "…うん。"
+  event_ltk_05_s_44:
+    speaker: k
+    en: You guys are wound tight today.
+    ko: 분위기 정말 묘하네.
+    ja: 妙な雰囲気だな。
+  event_ltk_05_s_45:
+    speaker: k
+    en: You didn't do the deed, did you?
+    ko: 설마 니들 했냐?
+    ja: もしかしてお前たち、やっちゃった？
+  event_ltk_05_s_46:
+    speaker: Self
+    en: Excuse me?
+    ko: 뭐, 뭐라고?
+    ja: な、何だって？
+  event_ltk_05_s_47:
+    speaker: k
+    en: You know...
+    ko: 이거 했냐고 이거.
+    ja: これ、やったのかって。
+  event_ltk_05_s_48:
+    speaker: Monologue
+    en: K takes her finger and slides it across her neck dramatically.
+    ko: K는 손날로 자신의 목을 톡. 톡. 하고 쳤다.
+    ja: Kは自分の首を軽くチョップした
+  event_ltk_05_s_49:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_05_s_50:
+    speaker: k
+    en: Gotcha.
+    ko: "…그렇구만."
+    ja: "…なるほどね。"
+  event_ltk_05_s_51:
+    speaker: k
+    en: What did the Judges say?
+    ko: 저지스는 뭐래?
+    ja: ジャッジスは何だって？
+  event_ltk_05_s_52:
+    speaker: d
+    en: Justified. Sentence upheld.
+    ko: |-
+      정당함.
+      면허는 그대로 유지.
+    ja: |-
+      正当である。
+      ライセンスはそのまま維持。
+  event_ltk_05_s_53:
+    speaker: k
+    en: Nicely done.
+    ko: 하하. 그래.
+    ja: はは、そっか。
+  event_ltk_05_s_54:
+    speaker: k
+    en: You've always been good at that part of the job. Catches me a little off guard
+      sometimes.
+    ko: |-
+      진짜 [잘 죽이네] 너.
+      한 번씩 진짜 깜짝깜짝 놀랄 정도야.
+    ja: |-
+      本当に「上手く殺す」よな。
+      毎回びっくりだよ。
+  event_ltk_05_s_55:
+    speaker: d
+    en: What'd you find at the hospital?
+    ko: 병원 조사 결과는.
+    ja: 病院の調査結果は？
+  event_ltk_05_s_56:
+    speaker: k
+    en: Oh, that?
+    ko: 음.
+    ja: うーん。
+  event_ltk_05_s_57:
+    speaker: k
+    en: I used a variety of different "methods".
+    ko: 이런저런 [방법]을 다 동원해서 알아봤는데.
+    ja: 色々な「方法」を使って調べてみたけど
+  event_ltk_05_s_58:
+    speaker: k
+    en: I couldn't turn up an ounce of dirt on the place.
+    ko: |-
+      병원은 완전무결.
+      엄~~청 깨끗해.
+    ja: |-
+      病院は完璧。
+      す～～っごくきれい。
+  event_ltk_05_s_59:
+    speaker: k
+    en: Far as I can tell, it's a perfectly respectable establishment.
+    ko: 약간 뭐랄까… 청렴하게 운용하는 것의 모범 사례를 본 것 같달까.
+    ja: |-
+      何て言うか…
+      まるでクリーンな経営のお手本みたいな。
+  event_ltk_05_s_60:
+    speaker: k
+    en: The place is squeaky clean. So much so, that I'm starting to wonder if I'm
+      missing something.
+    ko: |-
+      안 나와 아무것도.
+      이래도 되나 싶을 정도로 정직하고 투명해.
+    ja: |-
+      なんにも出てこないんだよ。
+      超キレイ。
+  event_ltk_05_s_61:
+    speaker: k
+    en: At any rate, I'm calling it. There isn't anything suspicious about the hospital.
+    ko: |-
+      그래서 병원은 끝.
+      아무 문제 없음.
+    ja: |-
+      だから病院は終わり。
+      問題なし。
+  event_ltk_05_s_62:
+    speaker: k
+    en: Right, that reminds me.
+    ko: 아, 그러고 보니.
+    ja: あ、そういえば
+  event_ltk_05_s_63:
+    speaker: k
+    en: Our target is attending an event today.
+    ko: 오늘 타겟이 뭐 행사한다고 하던데.
+    ja: |-
+      今日ターゲットがなんかイベントするって
+      言ってたけど。
+  event_ltk_05_s_64:
+    speaker: k
+    en: Do you want to go?
+    ko: 가볼래?
+    ja: 行ってみる？
+event_ltk_05_e:
+  event_ltk_05_e_1:
+    speaker: Monologue
+    en: We are standing in front of a crowded building filled with people.
+    ko: 인파가 가득한 어느 건물의 앞.
+    ja: 建物の前に人だかりができている
+  event_ltk_05_e_2:
+    speaker: Monologue
+    en: The president stands on a small podium.
+    ko: 사장은 그 건물의 앞, 작은 단상에 올라가 있었다.
+    ja: |-
+      社長はその建物の前にある
+      小さなステージの上にいた
+  event_ltk_05_e_3:
+    speaker: Monologue
+    en: 'He makes an excited declaration:'
+    ko: 사장은 한껏 들뜬 목소리로 외쳤다.
+    ja: 社長は声を弾ませて叫んだ
+  event_ltk_05_e_4:
+    speaker: owner
+    en: The biomedical center is finally completed!
+    ko: 드디어 바이오 메디컬 센터가 완공되었습니다!
+    ja: |-
+      ついにバイオメディカルセンターが
+      完成しました！
+  event_ltk_05_e_5:
+    speaker: owner
+    en: This building will focus specifically on treating rare, harmful diseases.
+    ko: 이곳은 현재 인류를 괴롭히고 있는 희귀병들을 집중적으로 치료하기 위한 곳이며,
+    ja: |-
+      ここは、現在人類を苦しめている難病を
+      集中的に治療するだけでなく、
+  event_ltk_05_e_6:
+    speaker: owner
+    en: It is a monumental place that will help countless people live longer, happier
+      lives.
+    ko: 나아가서는 인류 수명 연장의 꿈을 꾸게 해 줄 기념비적인 곳입니다!
+    ja: |-
+      不老長寿という人類の夢を
+      叶えてくれる記念碑とも言える病院です！
+  event_ltk_05_e_7:
+    speaker: owner
+    en: No longer will anyone be refused proper medical treatment purely because they
+      have a rare disease.
+    ko: 희귀병이라는 이유로 온갖 병원에서 치료를 거부당하고!
+    ja: |-
+      難病だからという理由で
+      他の病院に治療を断られ！
+  event_ltk_05_e_8:
+    speaker: owner
+    en: No longer will they be denied the necessary governmental care.
+    ko: 정부에서 제대로 된 지원도 받지 못했던 모든 분들은!
+    ja: |-
+      政府からもまともに支援を受けられなかった
+      みなさんは！
+  event_ltk_05_e_9:
+    speaker: owner
+    en: As of today, they will find help here at the biomedical center.
+    ko: 이제부터 바이오 메디컬 센터로 와주시면 됩니다!
+    ja: バイオメディカルセンターへお越しください！
+  event_ltk_05_e_10:
+    speaker: owner
+    en: Everything from preliminary examinations, to exhaustive treatment, will all
+      be offered free of charge.
+    ko: 검사에서 치료까지! 모두 무료로 제공됩니다!
+    ja: 検査から治療まで！すべて無料で行います！
+  event_ltk_05_e_11:
+    speaker: owner
+    en: 'You may be asking: Why would we do something where we know we won''t make
+      any money?'
+    ko: 왜 이런 돈도 안되는 짓을 하냐고요?
+    ja: なぜ一銭にもならないことをするのかって？
+  event_ltk_05_e_12:
+    speaker: owner
+    en: 'My answer is: Because all lives are equal!'
+    ko: 모든 생명은 동등하기 때문입니다!
+    ja: 命はみな平等だからです！
+  event_ltk_05_e_13:
+    speaker: owner
+    en: All lives deserve the same amount of respect, no matter what.
+    ko: 어떤 이유가 되었든, 모든 생명은 동등하게 존중받아야 합니다!
+    ja: |-
+      どんな理由があっても、
+      命はみな平等に尊重されるべきなのです！
+  event_ltk_05_e_14:
+    speaker: owner
+    en: That is what we believe here at Cycle of Life.
+    ko: 그것이 우리 C.O.L.! 사이클 오브 라이프의 이념입니다!
+    ja: |-
+      それがC.O.L.！
+      サイクル・オブ・ライフの理念です！
+  event_ltk_05_e_15:
+    speaker: Monologue
+    en: The crowd erupts into raucous cheers and applause.
+    ko: "…인파에서 박수와 함성이 터져 나왔다."
+    ja: "…観衆から拍手と歓声が沸き起こった"
+  event_ltk_05_e_16:
+    speaker: k
+    en: Everything for free? That's incredible.
+    ko: |-
+      이야 대박이네.
+      저걸 공짜로 풀어?
+    ja: |-
+      こりゃすごい。
+      タダだって？
+  event_ltk_05_e_17:
+    speaker: Monologue
+    en: I feel as if something has crawled deep up inside me.
+    ko: 나는 속에서 뭔가가 꿈틀거리는 느낌을 받았다.
+    ja: なんだか心がざわざわした
+  event_ltk_05_e_18:
+    speaker: Monologue
+    en: I stand there for a while, thunderstruck.
+    ko: 그렇게 한참 동안 멍하니 서 있었다.
+    ja: そうしてしばらく呆然と立っていた
+  event_ltk_05_e_19:
+    speaker: Narration
+    en: "*Tap*"
+    ko: 툭.
+    ja: トン
+  event_ltk_05_e_20:
+    speaker: d
+    en: Let's head back.
+    ko: 돌아가자.
+    ja: 戻ろう。
+  event_ltk_05_e_21:
+    speaker: d
+    en: It's dangerous to stay here.
+    ko: 여기 있으면 위험해.
+    ja: ここにいるのは危険だ。
+  event_ltk_05_e_22:
+    speaker: d
+    en: In more ways than one.
+    ko: 여러 가지 의미로.
+    ja: 色々な意味で。
+  event_ltk_05_e_23:
+    speaker: Monologue
+    en: All three of us head back to the Commander's Room.
+    ko: "…D, K와 함께 지휘관실로 돌아갔다."
+    ja: "…DとKとともに指揮官室へ戻った"
+  event_ltk_05_e_24:
+    speaker: d
+    en: The target knows about us.
+    ko: 타겟에게 우리 존재는 노출되었어.
+    ja: ターゲットに私たちの存在がバレた。
+  event_ltk_05_e_25:
+    speaker: d
+    en: Our cover is blown since we sabotaged the delivery and quit our jobs.
+    ko: 거래를 망쳤고 퇴사했으니까.
+    ja: 取引をめちゃくちゃにして退社したからな。
+  event_ltk_05_e_26:
+    speaker: d
+    en: We need to act now.
+    ko: 그러니 이제 행동에 옮겨야 할 때야.
+    ja: だから行動に移す時だ。
+  event_ltk_05_e_27:
+    speaker: k
+    en: Let's go over everything one more time.
+    ko: 정보를 정리해 보자.
+    ja: 情報を整理してみよう。
+  event_ltk_05_e_28:
+    speaker: k
+    en: 'Reasons why we should kill the target:'
+    ko: 타겟을 죽여야 하는 이유.
+    ja: ターゲットを殺さなきゃいけない理由。
+  event_ltk_05_e_29:
+    speaker: k
+    en: He sells mass-produced Nikkes and weapons to the Outer Rim.
+    ko: 양산형 니케와 무기를 아우터 림에 판다.
+    ja: 量産型ニケと武器をアウターリムに売っている。
+  event_ltk_05_e_30:
+    speaker: k
+    en: And it goes deeper than that.
+    ko: 이건 단순히 판매한다는 것 정도로 그치는 게 아냐.
+    ja: 単なる販売じゃない。
+  event_ltk_05_e_31:
+    speaker: k
+    en: That merchandise gets utilized in civil conflicts, further destabilizing the
+      situation at the Outer Rim and resulting in additional casualties.
+    ko: |-
+      아우터 림의 내전에 투입되어,
+      결과적으로 아우터 림 내부의 사망자 증가에 일조하고 있어.
+    ja: |-
+      アウターリムの内戦に投入され
+      結果的にアウターリム内部の
+      死亡者数増加に繋がっている。
+  event_ltk_05_e_32:
+    speaker: k
+    en: 'Reasons why we shouldn''t kill the target:'
+    ko: 타켓을 죽이지 말아야 하는 이유.
+    ja: ターゲットを殺しちゃいけない理由。
+  event_ltk_05_e_33:
+    speaker: k
+    en: He built a hospital specializing in rare diseases that offers free treatment
+      for patients.
+    ko: 희귀병 전용의 병원을 설립해 희귀병 때문에 괴로워하는 이들을 무료로 치료해 준다.
+    ja: |-
+      難病専用の病院を設立し、難病で苦しむ人々を
+      無料で治療して、
+  event_ltk_05_e_34:
+    speaker: k
+    en: That gives hope to those who are suffering from these diseases, as well as
+      their families.
+    ko: 절망하고 있는 인간과, 그 가족들에게 희망을 준다.
+    ja: |-
+      絶望している人間とその家族に
+      希望を与えている。
+  event_ltk_05_e_35:
+    speaker: k
+    en: This is a tough one.
+    ko: "…좋지 않네."
+    ja: "…困ったな～"
+  event_ltk_05_e_36:
+    speaker: k
+    en: If we're going by my standards, this guy is a positive and a negative put
+      together, which adds up to zero.
+    ko: 내 기준에선 이거 플러스마이너스 제로야.
+    ja: 私の基準だと、プラマイゼロだよ。
+  event_ltk_05_e_37:
+    speaker: d
+    en: What should we do?
+    ko: 어떻게 할 거지?
+    ja: どうする？
+  event_ltk_05_e_38:
+    speaker: Self
+    en: I want to hear more about what you two think.
+    ko: "…둘의 의견을 들어보고 싶어."
+    ja: "…二人の意見が聞きたい"
+  event_ltk_05_e_39:
+    speaker: d
+    en: I would kill him if I were you.
+    ko: 나라면 죽였어.
+    ja: 私なら殺す。
+  event_ltk_05_e_40:
+    speaker: k
+    en: I wouldn't.
+    ko: 난 안 죽였어.
+    ja: 私なら殺さない。
+  event_ltk_05_e_41:
+    speaker: Self
+    en: Can I ask why?
+    ko: 이유를 물어봐도 될까?
+    ja: 理由を聞いてもいいか？
+  event_ltk_05_e_42:
+    speaker: d
+    en: Because he deserves to die.
+    ko: 죽을만하니까.
+    ja: 殺すだけの理由があるから。
+  event_ltk_05_e_43:
+    speaker: k
+    en: Because he doesn't deserve to die.
+    ko: 안 죽을만해서.
+    ja: 生かしておくだけの理由があるから。
+  event_ltk_05_e_44:
+    speaker: Self
+    en: "... Right."
+    ko: "…그래."
+    ja: "…そうか"
+  event_ltk_05_e_45:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_05_e_46:
+    speaker: Self
+    en: I want to speak with the president.
+    ko: 사장과 얘기를 해보고 싶어.
+    ja: 社長と話してみたい
+  event_ltk_05_e_47:
+    speaker: k
+    en: "???"
+    ko: 음…?
+    ja: えっ…？
+  event_ltk_05_e_48:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_05_e_49:
+    speaker: Self
+    en: Is that not possible?
+    ko: 안될까?
+    ja: ダメだろうか？
+  event_ltk_05_e_50:
+    speaker: k
+    en: I don't see why not.
+    ko: 안될 것 없지.
+    ja: ダメってことはないけど。
+  event_ltk_05_e_51:
+    speaker: k
+    en: But he's amped up security in light of what's happened.
+    ko: 그런데 벌써 경호 병력을 엄청 강화했더라고.
+    ja: 警備が厳重なんだよね。
+  event_ltk_05_e_52:
+    speaker: k
+    en: I don't know how you'll be able to get close to him.
+    ko: 얘기할 상황이 되려나 모르겠는걸?
+    ja: 話せるかどうかは分からないよ？
+  event_ltk_05_e_53:
+    speaker: d
+    en: Quit joking around, will you?
+    ko: 장난치지 마.
+    ja: ふざけるな。
+  event_ltk_05_e_54:
+    speaker: k
+    en: Hehe, sorry. Couldn't resist.
+    ko: 하하. 미안미안. 장난 한 번 쳐봤어.
+    ja: あはは、ごめん。ついついね～
+  event_ltk_05_e_55:
+    speaker: k
+    en: It's true that he's amped up security,
+    ko: 경호 병력이 엄청 강화된 건 사실이야.
+    ja: 警備が強化されてるのは事実。
+  event_ltk_05_e_56:
+    speaker: k
+    en: but that won't be a problem for us.
+    ko: 하지만 그건 우리한테 아무런 문제가 안 돼.
+    ja: でも私たちには問題じゃない。
+  event_ltk_05_e_57:
+    speaker: k
+    en: The cross that we bear is heavy indeed,
+    ko: 왕관을 쓴 자, 그 무게를 견뎌라.
+    ja: 王冠を戴く者は、その重さに耐えろ。
+  event_ltk_05_e_58:
+    speaker: k
+    en: but if you can endure it,
+    ko: 이 말인즉, 무게를 견딜 수만 있다면.
+    ja: これはつまり、その重さに耐えられるなら
+  event_ltk_05_e_59:
+    speaker: k
+    en: you're capable of anything.
+    ko: 뭐든 해도 된다는 얘기라고.
+    ja: 何をしてもいいってことだから。
+  event_ltk_05_e_60:
+    speaker: Self
+    en: So how do we get close to the president?
+    ko: 어떻게 사장에게 접근하지?
+    ja: どうやって社長に近づくんだ？
+  event_ltk_05_e_61:
+    speaker: d
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_ltk_05_e_62:
+    speaker: d
+    en: Show up at his front door. I'm sure he'll be at home.
+    ko: |-
+      그냥 가면 돼.
+      자택에 있을 테니까.
+    ja: |-
+      ただ行けばいいだけだ。
+      自宅にいるだろうから。
+  event_ltk_05_e_63:
+    speaker: Self
+    en: But what about the security?
+    ko: 경호 병력이 늘었다고….
+    ja: 警備が強化されてるって…
+  event_ltk_05_e_64:
+    speaker: d
+    en: We'll mow through them easily enough.
+    ko: 뚫고 가면 돼.
+    ja: 突っ切って行けばいい。
+  event_ltk_05_e_65:
+    speaker: Self
+    en: Wouldn't that only cause us more problems?
+    ko: "…소동이 일어나지 않을까? 여러 가지로."
+    ja: "…騒ぎになるんじゃないか？色んな意味で"
+  event_ltk_05_e_66:
+    speaker: d
+    en: It's fine. The Judges will take care of it.
+    ko: 그런 건 저지스가 뒤처리해 주니 괜찮아.
+    ja: |-
+      そういうことはジャッジスが
+      後始末してくれるから平気だ。
+  event_ltk_05_e_67:
+    speaker: Self
+    en: I thought you two were all about subterfuge and keeping a low profile.
+    ko: "…신중하게 움직이는 게 일하는 방식 아니었어?"
+    ja: "…慎重に動くのが君たちのやり方では？"
+  event_ltk_05_e_68:
+    speaker: d
+    en: Sure, until we've reached a final decision.
+    ko: 확정 짓기 전까진 그래.
+    ja: それは確定するまでだ。
+  event_ltk_05_e_69:
+    speaker: d
+    en: Once we're certain what needs to be done,
+    ko: 확정되는 순간.
+    ja: 確定した瞬間
+  event_ltk_05_e_70:
+    speaker: d
+    en: it's full steam ahead.
+    ko: 전력을 다해 몰아쳐야지.
+    ja: 全力で追い込む。
+  event_ltk_05_e_71:
+    speaker: k
+    en: Put this on.
+    ko: 써.
+    ja: 使え。
+  event_ltk_05_e_72:
+    speaker: Monologue
+    en: K hands me a mask.
+    ko: K는 나에게 복면을 건넸다.
+    ja: Kは私に覆面マスクを渡した
+  event_ltk_05_e_73:
+    speaker: k
+    en: It doesn't matter to us, but if you get recognized, it could be an issue for
+      you later on.
+    ko: 우리야 상관없지만 넌 얼굴 팔리면 앞으로 피곤할 테니까.
+    ja: |-
+      私たちは関係ないけど、お前は顔が割れたら
+      後々困るだろう。
+  event_ltk_05_e_74:
+    speaker: k
+    en: Time to move out.
+    ko: 그럼 가볼까?
+    ja: それじゃ、行くよ？
+event_ltk_06_s:
+  event_ltk_06_s_1:
+    speaker: guard
+    en: Hold them back!
+    ko: 막아! 막으라고!
+    ja: 止めろ！中に入れるな！
+  event_ltk_06_s_2:
+    speaker: guard
+    en: Agh! Who are these guys?!
+    ko: 으아! 뭐야 이것들!
+    ja: うわっ！何だこいつら！
+  event_ltk_06_s_3:
+    speaker: Monologue
+    en: We decide to charge in and take everyone head-on.
+    ko: "…우리가 선택한 방법은 정면 돌파였다."
+    ja: "…私たちが選んだやり方は強行突破だった"
+  event_ltk_06_s_4:
+    speaker: Monologue
+    en: We kick down the main door to the house, and fight our way through the guards
+      waiting in the garden.
+    ko: |-
+      자택의 문을 걷어차서 열고,
+      정원에서 대기 중이던 경호원들을 제압했다.
+    ja: |-
+      自宅の門を蹴り破り
+      庭で待機中だった警備員を制圧した
+  event_ltk_06_s_5:
+    speaker: Monologue
+    en: D and K knock every one of them unconscious without firing a single bullet.
+    ko: D와 K는 총 한발 쏘지 않고 그들을 모두 쓰러뜨렸다.
+    ja: DとKは銃を一発も撃たずに全員を倒した
+  event_ltk_06_s_6:
+    speaker: Monologue
+    en: Before I know it, we're in front of the president's private office.
+    ko: 그리고 단숨에 사장의 방으로 향했다.
+    ja: そして一気に社長の部屋へと向かった
+  event_ltk_06_s_7:
+    speaker: Narration
+    en: "*Thud*"
+    ko: 벌컥-
+    ja: ガチャ
+  event_ltk_06_s_8:
+    speaker: Monologue
+    en: Behind the door is the president, along with 4 of his bodyguards, staring
+      at us.
+    ko: 문 너머에는 사장이 4명의 경호원을 옆에 두고 우리를 쳐다보고 있었다.
+    ja: |-
+      ドアを開けると
+      社長が4人の警備員に守られながら
+      私たちを見つめていた
+  event_ltk_06_s_9:
+    speaker: owner
+    en: Are you here to kill me?
+    ko: 날 죽이러 온 건가?
+    ja: 私を殺しに来たのか？
+  event_ltk_06_s_10:
+    speaker: owner
+    en: Was ruining my deal not enough for you?
+    ko: 내 거래를 망쳐놓은 것도 모자라 날 죽이기까지?
+    ja: 取引をめちゃくちゃにした上に、私を殺す？
+  event_ltk_06_s_11:
+    speaker: owner
+    en: I don't understand this.
+    ko: 이해가 잘 안되는데.
+    ja: 理解できないな。
+  event_ltk_06_s_12:
+    speaker: owner
+    en: Do you have something against me? Do we know each other?
+    ko: |-
+      혹시 우리 아는 사이였던가?
+      아니면 내가 원수라도 된다던가.
+    ja: |-
+      もしや知り合いだったのか？
+      それとも、誰かのカタキとか。
+  event_ltk_06_s_13:
+    speaker: d
+    en: Need to know basis, and you don't need to know.
+    ko: 알 것 없어.
+    ja: 知る必要はない。
+  event_ltk_06_s_14:
+    speaker: owner
+    en: Fine. If I'm being honest, I wasn't overly curious.
+    ko: 사실 나도 별로 궁금하진 않아.
+    ja: まあ、私も別にどうでもいいのだがね。
+  event_ltk_06_s_15:
+    speaker: Monologue
+    en: The president lifts his hand,
+    ko: 사장이 팔을 들어 올리자
+    ja: 社長が腕を上げると
+  event_ltk_06_s_16:
+    speaker: Narration
+    en: "*Cluck*"
+    ko: 철컥.
+    ja: カチャ
+  event_ltk_06_s_17:
+    speaker: Monologue
+    en: and the bodyguards all aim their weapons at us.
+    ko: 경호원들이 우리에게 총을 겨눴다.
+    ja: 警備員たちが私たちに銃を向けた
+  event_ltk_06_s_18:
+    speaker: owner
+    en: You did a good job with those documents. I had no idea they were forged.
+    ko: 그나저나 서류를 아주 정밀하게 조작했더군.
+    ja: |-
+      それにしても
+      ずいぶん上手く書類をねつ造したな。
+  event_ltk_06_s_19:
+    speaker: owner
+    en: I gave you that job because I took pity on you, since you needed money so
+      badly.
+    ko: 둘 다 고아 출신에 돈이 급해 보여서 그 일을 맡긴 거였는데.
+    ja: |-
+      二人とも孤児で金に困っているようだったから
+      あの仕事を任せたのに。
+  event_ltk_06_s_20:
+    speaker: owner
+    en: And now you've come here to take me down?
+    ko: 내 일을 망치러 온 이들일 줄이야….
+    ja: 私の仕事を潰しにきた奴らだったとは…
+  event_ltk_06_s_21:
+    speaker: owner
+    en: No, this isn't some personal vendetta.
+    ko: 그 정도의 조작은 개인이 할 수 있는 게 아냐.
+    ja: あのねつ造は個人ができることじゃない。
+  event_ltk_06_s_22:
+    speaker: owner
+    en: Who sent you?
+    ko: |-
+      …누가 시켰지?
+      너희들 뒤에 누가 있나.
+    ja: |-
+      …誰に頼まれた？
+      後ろに誰がいるんだ？
+  event_ltk_06_s_23:
+    speaker: d
+    en: Again. Need to know basis.
+    ko: 알 것 없어.
+    ja: 知る必要はない。
+  event_ltk_06_s_24:
+    speaker: owner
+    en: Fine.
+    ko: "…뭐, 그래."
+    ja: "…そうか。"
+  event_ltk_06_s_25:
+    speaker: owner
+    en: There's always been plenty of people who have wanted me dead.
+    ko: 나를 죽이고 싶어 하는 것들은 언제나 많았고.
+    ja: 私を殺したがる者はいつも大勢いる。
+  event_ltk_06_s_26:
+    speaker: owner
+    en: I took care of them all exactly the same way.
+    ko: 그럴 때마다 난 같은 방법으로 문제를 해결했지.
+    ja: そのたびに、同じ方法で解決してきた。
+  event_ltk_06_s_27:
+    speaker: owner
+    en: This time won't be any different.
+    ko: 이번이라고 크게 다르진 않을 거야.
+    ja: 今回も例外じゃない。
+  event_ltk_06_s_28:
+    speaker: owner
+    en: This isn't my first rodeo.
+    ko: 수십 번 해왔던 일이니까.
+    ja: 何回もやってきたことだ…
+  event_ltk_06_s_29:
+    speaker: owner
+    en: Say goodnight.
+    ko: 잘 가도록.
+    ja: さようなら。
+  event_ltk_06_s_30:
+    speaker: Narration
+    en: "*Whoo*"
+    ko: 후웅-!
+    ja: ブンッ！
+  event_ltk_06_s_31:
+    speaker: Narration
+    en: "*Crunch*"
+    ko: 콰작!!
+    ja: ガシャッ！！
+  event_ltk_06_s_32:
+    speaker: guard
+    en: Ugh!
+    ko: 으억!
+    ja: うわあっ！
+  event_ltk_06_s_33:
+    speaker: Monologue
+    en: D hurls her axe at the bodyguard's gun, shattering it into pieces.
+    ko: D가 집어던진 도끼가 경호원의 총을 박살 냈다.
+    ja: Dが投げた斧が警備員の銃を破壊した
+  event_ltk_06_s_34:
+    speaker: Monologue
+    en: She rushes forward, retrieves the axe, and tosses it to the side.
+    ko: 단숨에 뛰쳐나간 D는 도끼를 다시 집어 들고 가로로 크게 휘둘렀다.
+    ja: |-
+      それとほぼ同時に飛び出したDは
+      斧を再び掴み、大きく横一文字に振った
+  event_ltk_06_s_35:
+    speaker: Narration
+    en: "*Crumble*"
+    ko: 우드득!
+    ja: ドカッ！
+  event_ltk_06_s_36:
+    speaker: Monologue
+    en: It hits another bodyguard in the side.
+    ko: |-
+      휘둘러진 도끼는 경호원의 옆구리를 후려쳤고,
+      불길한 소리와 함께 경호원의 몸이 접히듯 기울어졌다.
+    ja: |-
+      斧は警備員の脇腹に当たり
+      嫌な音を立てながら警備員の体が
+      折れるように曲がった
+  event_ltk_06_s_37:
+    speaker: Monologue
+    en: He emits a pained groan as he slumps to the ground.
+    ko: 경호원은 옅은 숨소리와 함께 무너졌고,
+    ja: 警備員は息も絶え絶えのまま倒れ
+  event_ltk_06_s_38:
+    speaker: Monologue
+    en: As he falls, D knocks over another bodyguard who is standing frozen in terror.
+    ko: D는 빠르고 정확하게 놀란 채 굳어버린 경호원들을 쓰러뜨렸다.
+    ja: |-
+      Dは驚いて固まってしまった他の警備員たちを
+      素早く正確に倒していった
+  event_ltk_06_s_39:
+    speaker: Monologue
+    en: It's all over in less than 10 seconds.
+    ko: 체감상, 10초가 채 걸리지 않은 것 같았다.
+    ja: 10秒もかからなかった気がする
+  event_ltk_06_s_40:
+    speaker: Monologue
+    en: All I can think is that it's a good thing that the axe didn't have a sharpened
+      edge.
+    ko: "…날이 서있지 않는 도끼라, 천만다행이라고 생각했다."
+    ja: "…切れない斧で本当によかったと思った"
+  event_ltk_06_s_41:
+    speaker: owner
+    en: Tsk!!
+    ko: 칫!!
+    ja: チッ！！
+  event_ltk_06_s_42:
+    speaker: Narration
+    en: "*Tang* *Tang* *Tang*"
+    ko: 탕! 탕! 탕!
+    ja: バン！バン！バン！
+  event_ltk_06_s_43:
+    speaker: Monologue
+    en: As D kneels down to pick up the axe, the president grabs a pistol and fires
+      at her head.
+    ko: 사장은 도끼를 주워들고 있는 D의 머리를 향해 권총을 발사했다.
+    ja: |-
+      社長は斧を拾おうとしたDの頭に向かって
+      銃を撃った
+  event_ltk_06_s_44:
+    speaker: Monologue
+    en: D lowers her head slightly.
+    ko: D의 고개가 살짝 젖혀졌다.
+    ja: Dは軽く頭を反らせ弾をよけた
+  event_ltk_06_s_45:
+    speaker: Monologue
+    en: After gathering herself as if nothing happened, she glowers at the president.
+    ko: 그리고 아무렇지도 않게 고개를 추스른 후 사장을 쳐다봤다.
+    ja: |-
+      そして何事もなかったかのように
+      社長を見つめた
+  event_ltk_06_s_46:
+    speaker: owner
+    en: A Nikke?!
+    ko: "…니케?"
+    ja: "…ニケ？"
+  event_ltk_06_s_47:
+    speaker: owner
+    en: But how can you harm humans?
+    ko: 니케가 어떻게 사람을….
+    ja: ニケがどうして人間を…
+  event_ltk_06_s_48:
+    speaker: owner
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_s_49:
+    speaker: owner
+    en: You are Perilous Siege...!
+    ko: 시지 패러리스…!
+    ja: シージペリラス…！
+  event_ltk_06_s_50:
+    speaker: owner
+    en: Those infernal Judges! They've already taken so much, yet they're coming after
+      me?!
+    ko: 저지스 놈들…! 그렇게나 받아먹었으면서 결국 나를…!
+    ja: |-
+      ジャッジスの奴ら…！
+      あれだけ受け取っておいて、結局私を…！
+  event_ltk_06_s_51:
+    speaker: k
+    en: Whoa, you know us?
+    ko: 와 시지 패러리스까지 알아?
+    ja: へえ、シージペリラスを知ってるの？
+  event_ltk_06_s_52:
+    speaker: k
+    en: You really are in the upper echelons.
+    ko: 고위직이 따로 없으시네 아주.
+    ja: さすがお偉いさんは違うね～
+  event_ltk_06_s_53:
+    speaker: owner
+    en: "... Have they sent you to kill me?"
+    ko: "…날 죽이라고 시키던가?"
+    ja: "…私を殺せと命じられたのか？"
+  event_ltk_06_s_54:
+    speaker: k
+    en: Not yet.
+    ko: 아직은?
+    ja: まだだけど？
+  event_ltk_06_s_55:
+    speaker: owner
+    en: What?
+    ko: 뭐?
+    ja: 何だと？
+  event_ltk_06_s_56:
+    speaker: k
+    en: Our client here would like to have a word with you.
+    ko: 여기 있는 우리 클라이언트 님이 너랑 대화를 좀 해보고 싶으시단다.
+    ja: |-
+      ここにいるクライアント様が
+      お前と話したいって言うから。
+  event_ltk_06_s_57:
+    speaker: Self
+    en: Is that supposed to be referring to me?
+    ko: "…내가 클라이언트야?"
+    ja: "…私がクライアント？"
+  event_ltk_06_s_58:
+    speaker: k
+    en: For crying out loud, would it kill you to just play along? What, then? An
+      adjudicator?
+    ko: |-
+      아 대충 맞춰. 뭐라고 설명할 건데 그럼.
+      구경 왔다고 하게?
+    ja: |-
+      テキトーに合わせろよ。
+      なんて説明するつもり？
+      見物に来ました～って？
+  event_ltk_06_s_59:
+    speaker: owner
+    en: It sounds like I might live, depending on how this conversation goes.
+    ko: "…대화 내용에 따라 내가 살 수도 있다는 얘기처럼 들리는데."
+    ja: "…話によっては、助かるかもしれないのか？"
+  event_ltk_06_s_60:
+    speaker: k
+    en: You never know.
+    ko: 그럴지도 모르지.
+    ja: そうかもね。
+  event_ltk_06_s_61:
+    speaker: owner
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_s_62:
+    speaker: owner
+    en: Very well. Let's talk.
+    ko: 좋아. 얘기를 나눠보지.
+    ja: よし。話をしよう。
+  event_ltk_06_s_63:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_s_64:
+    speaker: Self
+    en: How are you committing such diametrically opposed acts?
+    ko: 왜 그렇게 상반되는 일을 하는 거지?
+    ja: なぜそこまで相反する行動を取る？
+  event_ltk_06_s_65:
+    speaker: Self
+    en: One minute you're an illegal arms dealer, and the other you're a philanthropist.
+      What's going on?
+    ko: |-
+      한쪽으로는 니케를 팔고,
+      다른 한쪽으로는 선행을 베푸는 이유가 뭐야?
+    ja: |-
+      一方ではニケを売り、
+      もう一方では善行を積む理由は何だ？
+  event_ltk_06_s_66:
+    speaker: owner
+    en: That's the cycle of life, is it not?
+    ko: 나는 그것이 삶의 순환이라 생각한다.
+    ja: 私はそれが命の循環だと思っている。
+  event_ltk_06_s_67:
+    speaker: k
+    en: Huh?
+    ko: 오.
+    ja: へぇ。
+  event_ltk_06_s_68:
+    speaker: owner
+    en: The mass-produced Nikkes. Right. I feel bad for them.
+    ko: 양산형 니케들. 그래. 안됐지.
+    ja: 量産型ニケ。ああ、本当に可哀そうだ。
+  event_ltk_06_s_69:
+    speaker: owner
+    en: Being sold to the Outer Rim to be used and abused during their final days,
+      which are numbered to begin with. A sorry fate, to be sure.
+    ko: |-
+      살 날이 얼마 남지 않은 상태에서,
+      아우터 림에 팔려가 좋을 대로 이용당하다가 죽는 거. 안 됐지.
+    ja: |-
+      先が長くない状態でアウターリムに売られ、
+      利用されて死ぬ。気の毒だろう？
+  event_ltk_06_s_70:
+    speaker: owner
+    en: But if they didn't go to the Outer Rim, they would have just been scrapped,
+      quietly swept under the rug like discarded refuse.
+    ko: 하지만 아우터 림으로 가지 않으면 그저 조용히 폐기처분 당할 뿐이야.
+    ja: |-
+      しかし、アウターリムに行かなければ
+      ただ人知れず廃棄処分されるだけだ。
+  event_ltk_06_s_71:
+    speaker: owner
+    en: They would have disappeared without a trace.
+    ko: 아무것도 남기지 못하고 사라져.
+    ja: 何も残せずに消えてしまう。
+  event_ltk_06_s_72:
+    speaker: owner
+    en: I took those miserable fates and turned them into an opportunity to make money.
+    ko: 난 그 무의미한 삶을 돈으로 바꿔서
+    ja: 私はそんな無意味な命を金に換えて
+  event_ltk_06_s_73:
+    speaker: owner
+    en: Money that I can use to better other people's lives.
+    ko: 다른 사람이 삶을 이어나갈 수 있게 해 줘.
+    ja: 他の人が長生きできるようにしたい。
+  event_ltk_06_s_74:
+    speaker: owner
+    en: I buy life, and repay it with new life.
+    ko: 생명을 사서 생명으로 갚는 거야.
+    ja: 命を買って命で返すんだ。
+  event_ltk_06_s_75:
+    speaker: Self
+    en: What about the people in the Outer Rim? Do their lives not count?
+    ko: 아우터 림의 사람들은 생명이 아냐?
+    ja: アウターリムの人々の命は？
+  event_ltk_06_s_76:
+    speaker: owner
+    en: I simply provide them with Nikkes and weapons.
+    ko: 난 아우터 림에 니케들과 무기를 제공할 뿐이야.
+    ja: |-
+      私はアウターリムにニケと武器を
+      提供するだけだ。
+  event_ltk_06_s_77:
+    speaker: owner
+    en: What they decide to do with them is out of my hands.
+    ko: 그걸 어떻게 쓸지는 그들이 정할 일이지.
+    ja: それをどう使うかは、彼らが決める。
+  event_ltk_06_s_78:
+    speaker: owner
+    en: They have other options available to them.
+    ko: 그들에겐 더 좋은 선택이 있었을거다.
+    ja: もっといい選択もあったはずだ。
+  event_ltk_06_s_79:
+    speaker: owner
+    en: They could have used the Nikkes for labor and dismantled the weapons, using
+      the parts to improve their own livelihoods.
+    ko: 니케들을 노동력으로 쓰고, 무기의 부품을 활용해 생활 수준을 높일 수 있었어.
+    ja: |-
+      ニケを労働力として使い、武器の部品を活用して
+      生活水準を上げることだってできた。
+  event_ltk_06_s_80:
+    speaker: owner
+    en: But they didn't.
+    ko: 하지만 그러지 않았어.
+    ja: しかし、彼らはそうはしなかった。
+  event_ltk_06_s_81:
+    speaker: Self
+    en: Why did you leave it to your employees to make the deliveries?
+    ko: 직원에게 운송 업무를 맡긴 건 왜지?
+    ja: 社員に運送業務を任せたのはなぜだ？
+  event_ltk_06_s_82:
+    speaker: owner
+    en: Out of kindness. It's as simple as that.
+    ko: 단순한 호의다.
+    ja: 単なる厚意だ。
+  event_ltk_06_s_83:
+    speaker: owner
+    en: I merely wanted to give back to those who had worked so hard for my company.
+    ko: 내 회사를 위해 열심히 해주는 이들에게 뭐라도 해주고 싶었어.
+    ja: |-
+      私の会社のために頑張ってくれるみんなに
+      何かしてあげたかったのさ。
+  event_ltk_06_s_84:
+    speaker: Self
+    en: Don't lie to me.
+    ko: 거짓말하지 마.
+    ja: 嘘をつくな
+  event_ltk_06_s_85:
+    speaker: owner
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_s_86:
+    speaker: owner
+    en: It was to create distance between me and the deals.
+    ko: 그래. 꼬리 자르기다.
+    ja: ふっ…そうだ。トカゲの尻尾切りだ。
+  event_ltk_06_s_87:
+    speaker: owner
+    en: I couldn't have people know I was involved in such a shady business. How could
+      I continue with my philanthropy otherwise?
+    ko: |-
+      난 양지에 있을 필요가 있어.
+      그래야 선의를 베풀 수 있으니까.
+    ja: |-
+      私は陽の当たる場所にいる必要がある。
+      そうでないと善き行いができない。
+  event_ltk_06_s_88:
+    speaker: Self
+    en: So it doesn't matter what happens to the delivery person?
+    ko: 운송하는 사람의 기분은 어떻게 되든 상관없다는 거야?
+    ja: 運ぶ側の気持ちは関係ないということか？
+  event_ltk_06_s_89:
+    speaker: owner
+    en: I made sure to request not to inspect the cargo.
+    ko: 짐을 확인하지 말라고 신신당부했다.
+    ja: 荷物を確認するなと言いつけてある。
+  event_ltk_06_s_90:
+    speaker: owner
+    en: Some choose not to heed my warning and end up feeling remorse. Some end up
+      taking their own lives.
+    ko: |-
+      그걸 기어코 봐서, 멋대로 양심의 가책을 느껴….
+      목숨을 끊기도 하지.
+    ja: |-
+      それなのにわざわざ見て
+      勝手に罪悪感を抱いて、
+      命を絶つ…
+  event_ltk_06_s_91:
+    speaker: owner
+    en: There's nothing I can do about that.
+    ko: 그것까진 내가 어떻게 할 수 없어.
+    ja: それは、私にはどうしようもできない。
+  event_ltk_06_s_92:
+    speaker: Self
+    en: "... Are you going to keep doing this?"
+    ko: "…이 짓을 계속할 건가?"
+    ja: "…これからも続けるつもりか？"
+  event_ltk_06_s_93:
+    speaker: owner
+    en: Yes.
+    ko: 그래.
+    ja: ああ。
+  event_ltk_06_s_94:
+    speaker: owner
+    en: I am.
+    ko: 난 계속할 거다.
+    ja: 私は続ける。
+  event_ltk_06_s_95:
+    speaker: owner
+    en: Think about this.
+    ko: 잘 생각해라.
+    ja: よく考えてくれ。
+  event_ltk_06_s_96:
+    speaker: owner
+    en: Killing me will mean you'll be cutting off support for those people with incurable
+      diseases.
+    ko: 날 죽이면 불치병에 고통받는 이들에게 갈 지원이 끊겨.
+    ja: |-
+      私を殺せば不治の病に苦しむ人々への
+      支援が途切れる。
+  event_ltk_06_s_97:
+    speaker: owner
+    en: A lot of people will lose their jobs.
+    ko: 그리고 많은 직원들이 일자리를 잃겠지.
+    ja: そして多くの社員が仕事を失うだろう。
+  event_ltk_06_s_98:
+    speaker: d
+    en: If we let you live, those Nikkes and countless people in the Outer Rim will
+      keep dying.
+    ko: 널 살리면 니케들과 아우터 림의 사람들은 계속 죽어나간다.
+    ja: |-
+      お前を生かしておけば、ニケと
+      アウターリムの人々は死に続ける。
+  event_ltk_06_s_99:
+    speaker: owner
+    en: "... Mass-produced Nikkes and the people of the Outer Rim."
+    ko: "…양산형 니케와 아우터 림의 사람들."
+    ja: "…量産型ニケとアウターリムの人々。"
+  event_ltk_06_s_100:
+    speaker: owner
+    en: People in the Ark, who have a future.
+    ko: 방주 안의 미래가 창창한 사람들.
+    ja: アークにいる明るい未来が待っている人々。
+  event_ltk_06_s_101:
+    speaker: owner
+    en: Take your pick.
+    ko: 잘 생각해서 저울질해.
+    ja: よく考えて天秤に掛けてくれ。
+  event_ltk_06_s_102:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_s_103:
+    speaker: k
+    en: That's enough questions.
+    ko: 질문 타임은 끝난 것 같네.
+    ja: 質問タイムは終わりだね。
+  event_ltk_06_s_104:
+    speaker: k
+    en: Turn around. Don't even think about trying to look back.
+    ko: |-
+      어이 사장님. 뒤돌아.
+      여기 돌아볼 생각하지 말고.
+    ja: |-
+      おい、社長。後ろを向け。
+      絶対に振り返るなよ。
+  event_ltk_06_s_105:
+    speaker: k
+    en: It's time for us to decide.
+    ko: 그럼 선택할 시간이야.
+    ja: それじゃあ、選択の時間だ。
+event_ltk_06_e:
+  event_ltk_06_e_1:
+    speaker: Monologue
+    en: The president has his back turned to us.
+    ko: 뒤돌아 있는 사장.
+    ja: 社長は後ろを向いている
+  event_ltk_06_e_2:
+    speaker: Monologue
+    en: From the back, he appears confident, but he cannot hide the fact that he is
+      trembling.
+    ko: 사장의 뒷모습은 당당했지만 떨림은 감추지 못했다.
+    ja: |-
+      社長の後ろ姿は堂々としていたが、
+      恐怖による震えは隠しきれなかった
+  event_ltk_06_e_3:
+    speaker: Monologue
+    en: Meanwhile, the two with their guns drawn at him are both steady as a rock.
+    ko: 그와 상반되게 사장에게 총구를 겨누고 있는 둘은 미동도 하지 않았다.
+    ja: |-
+      反対に、社長に銃口を向けている二人は
+      微動だにしていない
+  event_ltk_06_e_4:
+    speaker: Monologue
+    en: The man attempts to suppress the quivering of his voice when he speaks.
+    ko: 사장은 애써 떨리는 목소리를 억누르며 말했다.
+    ja: 社長は声の震えを必死に抑えながら言った
+  event_ltk_06_e_5:
+    speaker: owner
+    en: Please, don't do something you'll regret.
+    ko: "…후회하지 않을 자신 있나?"
+    ja: "…後悔しないか？"
+  event_ltk_06_e_6:
+    speaker: owner
+    en: What I've done, what I'm doing, and what I will do...
+    ko: 내가 해왔던 일, 하는 일, 앞으로 할 일 모두.
+    ja: |-
+      私がしてきたこと、していること、
+      これからすること。
+  event_ltk_06_e_7:
+    speaker: owner
+    en: You've got to take it all into consideration.
+    ko: 단순하게 생각할 일이 아니야.
+    ja: そう単純な話じゃない。
+  event_ltk_06_e_8:
+    speaker: owner
+    en: You can't let your personal feelings get in the way of all this.
+    ko: 개인의 기분만으로 결정이 내려질 정도의 무게가 아니란 말이야.
+    ja: |-
+      気まぐれで決められるほど
+      軽いものじゃないんだ。
+  event_ltk_06_e_9:
+    speaker: owner
+    en: So please, think carefully
+    ko: 그러니 잘 생각해.
+    ja: だからよく考えてくれ。
+  event_ltk_06_e_10:
+    speaker: owner
+    en: about what the right decision is.
+    ko: 어떤 것이 옳은 선택인지.
+    ja: 何が正しい選択なのか。
+  event_ltk_06_e_11:
+    speaker: Narration
+    en: The two figures who are pointing guns at the man begin to speak.
+    ko: 남자에게 총을 겨누고 있던 둘이 말했다.
+    ja: 男に銃を向けていた二人が言った
+  event_ltk_06_e_12:
+    speaker: d
+    en: Decide.
+    ko: 선택해.
+    ja: 選べ。
+  event_ltk_06_e_13:
+    speaker: k
+    en: All you need to do is make a choice.
+    ko: 너는 선택만 해.
+    ja: お前は選ぶだけだよ～
+  event_ltk_06_e_14:
+    speaker: k
+    en: We'll handle the rest.
+    ko: 하는 건 우리가 할 테니까.
+    ja: やるのは私たちの仕事だ。
+  event_ltk_06_e_15:
+    speaker: d
+    en: Just keep in mind.
+    ko: 대신.
+    ja: その代わり、
+  event_ltk_06_e_16:
+    speaker: d
+    en: You mustn't make it personal.
+    ko: 그 선택은 너만의 것이 되어선 안 돼.
+    ja: |-
+      その選択はお前ひとりだけの
+      ものであってはならない。
+  event_ltk_06_e_17:
+    speaker: d
+    en: Whatever you decide, it has to be what you feel is best for everyone.
+    ko: 모두를 위한 것이어야 해.
+    ja: みんなのためでなければ。
+  event_ltk_06_e_18:
+    speaker: k
+    en: No need to drag it out.
+    ko: 오래 끌 것 없겠지.
+    ja: そんなに時間かける必要ないよ。
+  event_ltk_06_e_19:
+    speaker: k
+    en: Especially since you've already made up your mind.
+    ko: 넌 이미 마음을 정했을 테니까.
+    ja: お前の気持ちはもう決まってるはずだろ。
+  event_ltk_06_e_20:
+    speaker: k
+    en: So out with it.
+    ko: 그럼 지금 바로 말해줄래?
+    ja: ほら、どうする～？
+  event_ltk_06_e_21:
+    speaker: k
+    en: What do you think?
+    ko: 앞에 이 녀석.
+    ja: 目の前にいるこいつ。
+  event_ltk_06_e_22:
+    speaker: k
+    en: Should we kill him? Or let him live?
+    ko: |-
+      죽일까?
+      아니면 살릴까?
+    ja: |-
+      殺す？
+      それとも生かす？
+  event_ltk_06_e_23:
+    speaker: d
+    en: This is the cross you must bear.
+    ko: 지금 너에게 씌워진 왕관의 무게를.
+    ja: 今お前が戴いている王冠の重さに
+  event_ltk_06_e_24:
+    speaker: d
+    en: Can you endure it?
+    ko: 견뎌라.
+    ja: 耐えろ。
+  event_ltk_06_e_25:
+    speaker: "<Choice>"
+    en: Kill him.
+    ko: 죽인다.
+    ja: 殺す
+  event_ltk_06_e_26:
+    speaker: "<Choice>"
+    en: Let him live.
+    ko: 죽이지 않는다.
+    ja: 殺さない
+  event_ltk_06_e_27:
+    speaker: d
+    en: Affirmative.
+    ko: 라져.
+    ja: ラジャー。
+  event_ltk_06_e_28:
+    speaker: d
+    en: Any last words? A last request is fine as well.
+    ko: |-
+      마지막으로 남길 말은?
+      요청도 좋다.
+    ja: |-
+      最後に言い残したいことは？
+      頼みでもいい。
+  event_ltk_06_e_29:
+    speaker: owner
+    en: Bite me. You're nothing but Central Government lapdogs.
+    ko: 엿 먹어라, 중앙 정부의 개들아.
+    ja: クソくらえ、中央政府のイヌども。
+  event_ltk_06_e_30:
+    speaker: d
+    en: "@UserName"
+    ko: "@UserName."
+    ja: "@UserName。"
+  event_ltk_06_e_31:
+    speaker: d
+    en: Go home.
+    ko: 집으로 돌아가.
+    ja: 家に帰れ。
+  event_ltk_06_e_32:
+    speaker: d
+    en: Take a hot shower and get some sleep.
+    ko: 집에 가서 따뜻한 물로 씻고 잠을 자.
+    ja: 家に帰って温かいシャワーを浴びて寝るんだ。
+  event_ltk_06_e_33:
+    speaker: d
+    en: Tomorrow is a new day.
+    ko: 내일부터는 평소와는 다른 아침이 될 테니까.
+    ja: |-
+      明日からは、いつもとは違う
+      朝が来るはずだから。
+  event_ltk_06_e_34:
+    speaker: Self
+    en: I have to see this to the end.
+    ko: 끝까지 지켜봐야….
+    ja: 最後まで見届けなくては…
+  event_ltk_06_e_35:
+    speaker: d
+    en: No.
+    ko: 아니.
+    ja: いや、
+  event_ltk_06_e_36:
+    speaker: d
+    en: Go.
+    ko: 가.
+    ja: 行け。
+  event_ltk_06_e_37:
+    speaker: d
+    en: It's for the best.
+    ko: 그 편이 좋아.
+    ja: その方がいい。
+  event_ltk_06_e_38:
+    speaker: d
+    en: You've set down your cross, but the weight of it remains.
+    ko: 왕관은 벗겨졌지만, 그 무게는 남는다.
+    ja: 王冠を外しても、その重さは残る。
+  event_ltk_06_e_39:
+    speaker: d
+    en: Don't make it any heavier than it already is.
+    ko: 더 무거울 필요는 없어.
+    ja: それ以上重くする必要はない。
+  event_ltk_06_e_40:
+    speaker: d
+    en: Let us carry it the rest of the way.
+    ko: 남은 무게는 우리가 짊어진다.
+    ja: 残りの重さは私たちが背負う。
+  event_ltk_06_e_41:
+    speaker: d
+    en: Go.
+    ko: 그러니 가.
+    ja: だから行け。
+  event_ltk_06_e_42:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_e_43:
+    speaker: Monologue
+    en: I turn and start walking.
+    ko: 나는 등을 돌려 걸어갔다.
+    ja: 私は背を向けて歩き始めた
+  event_ltk_06_e_44:
+    speaker: Monologue
+    en: "*Bang*"
+    ko: 탕-
+    ja: バンッ
+  event_ltk_06_e_45:
+    speaker: Monologue
+    en: I can't tell whether it was the sound of the door closing or a gunshot.
+    ko: 문이 닫히는 소리인지, 총이 발사되는 소리인지.
+    ja: ドアが閉まる音なのか、銃の発砲音なのか
+  event_ltk_06_e_46:
+    speaker: Monologue
+    en: And I don't want to know.
+    ko: 그때의 나는 구분하지 못했다.
+    ja: その時の私には分からなかった
+  event_ltk_06_e_47:
+    speaker: Monologue
+    en: Two days have passed.
+    ko: 이틀이 지났다.
+    ja: 2日が過ぎた
+  event_ltk_06_e_48:
+    speaker: Monologue
+    en: I haven't gotten any sleep.
+    ko: 나는 단 한숨도 제대로 자지 못했다.
+    ja: 私はほぼ一睡もできなかった
+  event_ltk_06_e_49:
+    speaker: Monologue
+    en: On the news, I keep seeing stories about the missing C.O.L. president.
+    ko: 뉴스에는 C.O.L.의 대표가 행방불명 되었다는 소식이 연신 들려왔다.
+    ja: |-
+      ニュースではC.O.L.の社長が
+      行方不明になったという報道が絶えず流れている
+  event_ltk_06_e_50:
+    speaker: Monologue
+    en: There's also plenty of coverage detailing how the biomedical center is having
+      difficulty keeping its doors open.
+    ko: 바이오 메디컬 센터의 유지가 힘들어졌다는 소식도 들려왔다.
+    ja: |-
+      バイオメディカルセンターの経営が
+      厳しくなったという報道もあった
+  event_ltk_06_e_51:
+    speaker: Monologue
+    en: Finally, there are reports about the hardships faced by C.O.L. employees.
+    ko: C.O.L. 직원들의 힘없는 모습이 보도된다.
+    ja: C.O.L.の社員の意気消沈する姿も報道された
+  event_ltk_06_e_52:
+    speaker: Monologue
+    en: All I can do is continue to stare blankly at the ceiling.
+    ko: 내가 할 수 있는 일은, 그저 침대에 걸터앉아 멍하니 허공을 보는 것뿐이었다.
+    ja: |-
+      私にできることは、ただベッドに腰掛けて
+      ぼーっと宙を見つめることだけだった
+  event_ltk_06_e_53:
+    speaker: d
+    en: How are you feeling?
+    ko: 기분이 어때?
+    ja: 気分はどうだ？
+  event_ltk_06_e_54:
+    speaker: Self
+    en: Not like I thought I would.
+    ko: "…생각했던 것과 많이 다르네."
+    ja: "…想像と全然違った"
+  event_ltk_06_e_55:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_e_56:
+    speaker: d
+    en: C.O.L. will be taken over by the Vice President.
+    ko: C.O.L.은 부사장이 이어받는다.
+    ja: C.O.L.は副社長が引き継ぐ。
+  event_ltk_06_e_57:
+    speaker: d
+    en: I'm told everything will be the same as before.
+    ko: 모든 것을 그대로 유지한다고 해.
+    ja: すべてそのまま維持するそうだ。
+  event_ltk_06_e_58:
+    speaker: d
+    en: As for the biomedical center...
+    ko: 바이오 메디컬 센터는….
+    ja: バイオメディカルセンターは…
+  event_ltk_06_e_59:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_e_60:
+    speaker: d
+    en: The Sovereigns came forward to lend a hand financially.
+    ko: 로열들이 나서서 지원하기로 했어.
+    ja: ロイヤルたちが積極的に支援することになった。
+  event_ltk_06_e_61:
+    speaker: Self
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_ltk_06_e_62:
+    speaker: d
+    en: I always envision the world as being ruled by a cosmic scale.
+    ko: "…나는 이 세상에."
+    ja: "…私はこの世界には"
+  event_ltk_06_e_63:
+    speaker: d
+    en: On one end, you've got good, and evil on the other. All in perfect balance.
+    ko: |-
+      악행과 선행의 추가 놓인 저울이 있다고 생각해.
+      완벽한 평행을 이루는.
+    ja: |-
+      悪行と善行を測る天秤があると思う。
+      完璧に釣り合いが取れている天秤が。
+  event_ltk_06_e_64:
+    speaker: d
+    en: The scales occasionally skew to one side or the other.
+    ko: 악행의 추는 너무나 쉽게 그 무게를 올릴 수 있어.
+    ja: 悪行は簡単に重りが増えていく
+  event_ltk_06_e_65:
+    speaker: d
+    en: Evil tends to win out more easily,
+    ko: 한 번 올리면 그다음은 더 쉬워져.
+    ja: 一度増えれば次からはもっと簡単だ。
+  event_ltk_06_e_66:
+    speaker: d
+    en: where good has a tougher time coming out on top.
+    ko: 반면 선행의 추는 올리기가 쉽지 않아.
+    ja: 一方、善行の重りはなかなか増えない。
+  event_ltk_06_e_67:
+    speaker: d
+    en: That's because it's dependent on sacrifice.
+    ko: 희생이라는 것을 전제로 삼으니까.
+    ja: 犠牲を前提にしているからだ。
+  event_ltk_06_e_68:
+    speaker: d
+    en: Your money, your time, and your feelings... they're all part of it.
+    ko: 나의 돈, 나의 시간, 나의 감정을 희생해야 해.
+    ja: |-
+      自分の金、自分の時間、
+      自分の感情が犠牲となる。
+  event_ltk_06_e_69:
+    speaker: d
+    en: Even after all that, when there are so many people giving so much of themselves
+    ko: 그럼에도 불구하고 그 저울이 평행을 이루는 건.
+    ja: にもかかわらず天秤が釣り合っているのは
+  event_ltk_06_e_70:
+    speaker: d
+    en: to committing good deeds, it can still be difficult to get the scales to balance.
+    ko: 그 어려운 선행을 일삼는 많은 이가 있기 때문이야.
+    ja: |-
+      その簡単ではない善行に取り組む
+      多くの人々がいるからだ。
+  event_ltk_06_e_71:
+    speaker: d
+    en: So I kill the ones who commit evil deeds.
+    ko: 그래서 나는 악행을 저지른 이들을 죽인다.
+    ja: だから私は悪事に手を染めた者を殺す。
+  event_ltk_06_e_72:
+    speaker: d
+    en: So long as I do that,
+    ko: 죽이고 죽이고 또 죽이다 보면.
+    ja: 殺して、殺して、殺し続ければ
+  event_ltk_06_e_73:
+    speaker: d
+    en: I'll tip the scales in good's favor.
+    ko: 악행의 추가 덜어지고 선행의 추가 더 무거워질 거야.
+    ja: |-
+      悪行の重りは減り、
+      善行の重りは増え続けるはずだ。
+  event_ltk_06_e_74:
+    speaker: d
+    en: Until one day,
+    ko: 그러면 언젠가.
+    ja: そうすれば、いつか
+  event_ltk_06_e_75:
+    speaker: d
+    en: the scales will skew towards good permanently, and the world will follow suit.
+    ko: 세상이 선한 쪽으로 기울겠지.
+    ja: 世界が善の方へ傾くだろう。
+  event_ltk_06_e_76:
+    speaker: d
+    en: That is what I believe. That is why I do the work I do.
+    ko: 난 그렇게 믿고 이 일을 하고 있어.
+    ja: 私はそう信じてこの仕事をしている。
+  event_ltk_06_e_77:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_e_78:
+    speaker: d
+    en: Because of your decision,
+    ko: 네 선택으로 인해.
+    ja: お前の選択により
+  event_ltk_06_e_79:
+    speaker: d
+    en: I believe the world is a better place.
+    ko: 나는 세상이 조금이라도 더 좋아졌다고 생각해.
+    ja: 世界はほんの少しだけ、よくなったと思う。
+  event_ltk_06_e_80:
+    speaker: d
+    en: So don't let the burden consume you.
+    ko: 그러니 이제 무게를 견디지 않아도 돼.
+    ja: だからもうその重さに耐える必要はない。
+  event_ltk_06_e_81:
+    speaker: d
+    en: This cross is no longer yours to bear.
+    ko: 왕관은 벗겨졌어.
+    ja: 王冠は外れた。
+  event_ltk_06_e_82:
+    speaker: Monologue
+    en: After D leaves,
+    ko: D가 떠난 후.
+    ja: Dが去ってから
+  event_ltk_06_e_83:
+    speaker: Monologue
+    en: for reasons I'm still not clear of, I sleep soundly for the first time in
+      ages.
+    ko: 어째서인지 모르겠지만 나는 오랜만에 깊게 잠들 수 있었다.
+    ja: |-
+      なぜかは分からないが
+      久しぶりに深く眠ることができた
+  event_ltk_06_e_84:
+    speaker: d
+    en: Are you sure?
+    ko: "…그런가."
+    ja: "…そうか。"
+  event_ltk_06_e_85:
+    speaker: k
+    en: Consider yourself lucky, mister.
+    ko: 목숨을 건졌네, 사장님.
+    ja: 命拾いしたな、社長。
+  event_ltk_06_e_86:
+    speaker: owner
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_e_87:
+    speaker: k
+    en: Let's get out of here.
+    ko: 그럼 돌아갈까.
+    ja: それじゃ帰ろうか。
+  event_ltk_06_e_88:
+    speaker: k
+    en: Oh, and a friendly reminder.
+    ko: 아, 혹시나 해서 말하는데.
+    ja: あ、念のため言っておくけど
+  event_ltk_06_e_89:
+    speaker: k
+    en: One word about us, and there won't be enough Judges in the world to protect
+      you.
+    ko: 우리에 대해 입이라도 뻥긋하면 제아무리 저지스에 연줄을 대고 있다고 해도.
+    ja: |-
+      私たちのことを少しでも口外したら
+      いくらジャッジスと縁があっても
+  event_ltk_06_e_90:
+    speaker: k
+    en: We'll make sure you disappear without a trace.
+    ko: 쥐도 새도 모르게 어떻게 될 수도 있어.
+    ja: |-
+      誰にも知られないうちに
+      あの世行きだから。
+  event_ltk_06_e_91:
+    speaker: k
+    en: Don't forget that.
+    ko: 명심해.
+    ja: 肝に銘じといて。
+  event_ltk_06_e_92:
+    speaker: owner
+    en: I'll... keep that in mind.
+    ko: "…명심하지."
+    ja: "…覚えておこう。"
+  event_ltk_06_e_93:
+    speaker: k
+    en: Farewell.
+    ko: 그럼 안녕.
+    ja: それじゃ、バイバイ～
+  event_ltk_06_e_94:
+    speaker: Narration
+    en: "*Craaack*"
+    ko: 빠지지직-!!
+    ja: バチッ！！
+  event_ltk_06_e_95:
+    speaker: owner
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_ltk_06_e_96:
+    speaker: Narration
+    en: "*Thud*"
+    ko: 털썩.
+    ja: ドサッ
+  event_ltk_06_e_97:
+    speaker: Monologue
+    en: The president slumps to the floor after being hit by the stun gun.
+    ko: 사장은 K의 전기 충격기에 당해 쓰러졌다.
+    ja: 社長はKの電気ショックで倒れた
+  event_ltk_06_e_98:
+    speaker: k
+    en: Let's go. The Judges will handle the rest.
+    ko: 가자. 나머지는 저지스가 알아서 하겠지.
+    ja: |-
+      行こう。あとはジャッジスが
+      片付けてくれるはず。
+  event_ltk_06_e_99:
+    speaker: Self
+    en: All right.
+    ko: "…그래. 가자."
+    ja: "…ああ、行こう"
+  event_ltk_06_e_100:
+    speaker: Monologue
+    en: I sit on the park bench, looking up at the empty sky.
+    ko: 공원에 앉아 허공을 바라보고 있다.
+    ja: 公園のベンチに座って宙を見つめる
+  event_ltk_06_e_101:
+    speaker: Monologue
+    en: Nothing has changed.
+    ko: 바뀐 것은 단 하나도 없다.
+    ja: 何も変わらなかった
+  event_ltk_06_e_102:
+    speaker: Monologue
+    en: If not today or tomorrow, then the next day,
+    ko: 오늘, 아니면 내일, 그게 아니면 모레.
+    ja: 今日か明日、もしくは明後日
+  event_ltk_06_e_103:
+    speaker: Monologue
+    en: mass-produced Nikkes will head to the Outer Rim crammed in a small storage
+      container.
+    ko: 양산형 니케들은 좁은 짐칸에 탄 채 아우터 림으로 향할 거다.
+    ja: |-
+      量産型ニケは狭い荷台に乗せられて
+      アウターリムへ向かうだろう
+  event_ltk_06_e_104:
+    speaker: Monologue
+    en: Civil conflict will continue to rage in the Outer Rim, using Nikkes and weapons
+      that have been sold to them.
+    ko: 아우터 림에서는 니케와 무기를 앞세운 내전이 벌어질 거다.
+    ja: |-
+      アウターリムではニケと武器を使用した
+      内戦が起きるはずだ
+  event_ltk_06_e_105:
+    speaker: Monologue
+    en: Many lives will be lost.
+    ko: "…많은 생명이 꺼져갈 거다."
+    ja: "…多くの命が消えるだろう"
+  event_ltk_06_e_106:
+    speaker: Narration
+    en: Hahahahah!
+    ko: 꺄하하하-!
+    ja: あはははっ！
+  event_ltk_06_e_107:
+    speaker: Monologue
+    en: I hear the unbridled laughter of a little girl.
+    ko: 즐거움을 주체할 수 없어하는 소녀의 웃음소리가 들려왔다.
+    ja: 楽しそうな少女の笑い声が聞こえる
+  event_ltk_06_e_108:
+    speaker: Monologue
+    en: I turn to look.
+    ko: 고개를 돌려본다.
+    ja: 声がする方を見た
+  event_ltk_06_e_109:
+    speaker: Self
+    en: I can't believe it...
+    ko: "…아."
+    ja: "…あっ"
+  event_ltk_06_e_110:
+    speaker: Monologue
+    en: It's the little girl from the hospital who was having a hard time walking
+      before.
+    ko: 병원에서 본 힘겹게 걷고 있던 소녀였다.
+    ja: 病院で見かけた、必死に歩いていた少女だった
+  event_ltk_06_e_111:
+    speaker: Monologue
+    en: She has a big smile on her face...
+    ko: 함박웃음을 짓고, 쌕쌕거리는 숨소리와 함께.
+    ja: 楽しそうに笑い、息を弾ませながら
+  event_ltk_06_e_112:
+    speaker: Monologue
+    en: as she runs around the park.
+    ko: 소녀는 공원을 뛰어다니고 있었다.
+    ja: 少女は公園を駆け回っていた
+  event_ltk_06_e_113:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_e_114:
+    speaker: k
+    en: Hey.
+    ko: 야.
+    ja: おい。
+  event_ltk_06_e_115:
+    speaker: k
+    en: Feeling a twinge of regret?
+    ko: 후회하냐?
+    ja: 後悔してる？
+  event_ltk_06_e_116:
+    speaker: Monologue
+    en: I don't answer.
+    ko: 대답하지 않는다.
+    ja: 答えない
+  event_ltk_06_e_117:
+    speaker: k
+    en: I have good news, so listen up.
+    ko: 그래도 좋은 소식이 있으니 들어봐.
+    ja: いい知らせがあるから聞いてよ。
+  event_ltk_06_e_118:
+    speaker: k
+    en: They're going to be building more biomedical centers.
+    ko: 바이오 메디컬 센터가 몇 개 더 지어질 모양이야.
+    ja: バイオメディカルセンターが増えるみたいだよ。
+  event_ltk_06_e_119:
+    speaker: k
+    en: They're being proposed by our target... I mean... a certain someone who apparently
+      was deeply affected by your generosity.
+    ko: 타겟… 아니, 사장의 행동에 깊은 감명을 받은 사람들이 모금했다나.
+    ja: |-
+      ターゲット…いや、社長の行動に
+      感銘を受けた人たちが募金したんだって。
+  event_ltk_06_e_120:
+    speaker: k
+    en: He's back on the straight and narrow as well.
+    ko: 그리고 사장이 손을 씻었어.
+    ja: それから、社長が足を洗ったんだ。
+  event_ltk_06_e_121:
+    speaker: Self
+    en: "... What?"
+    ko: "…뭐?"
+    ja: "…今なんて？"
+  event_ltk_06_e_122:
+    speaker: k
+    en: It was inevitable.
+    ko: 정확히는 씻을 수밖에 없게 된 거지.
+    ja: 正確に言えば、洗うしかなかった。
+  event_ltk_06_e_123:
+    speaker: k
+    en: The rumor about a certain individual selling mass-produced Nikkes to the Outer
+      Rim has spread to the upper echelons of the Central Government.
+    ko: |-
+      양산형 니케를 아우터 림에 판매하는 사람이 있다는 얘기가,
+      중앙 정부 전체는 물론 언론에 싹 퍼진 모양이야.
+    ja: |-
+      量産型ニケをアウターリムに売っている人が
+      いるっていう話が、中央政府全体どころか
+      メディアにまで広がったみたいでね。
+  event_ltk_06_e_124:
+    speaker: k
+    en: I think you can guess as to who started those rumors.
+    ko: 뭐, 누가 그 사실을 퍼트렸는지는 알만 하지만.
+    ja: |-
+      まあ、誰が広めたのかは
+      分かりそうなもんだけど。
+  event_ltk_06_e_125:
+    speaker: Self
+    en: "... D."
+    ko: "…D."
+    ja: "…D"
+  event_ltk_06_e_126:
+    speaker: k
+    en: At any rate, he's out of our hands now.
+    ko: 아무튼 그 덕에 지금은 손도 못 대는 상황인 거지.
+    ja: |-
+      とにかく、そのおかげで
+      今は何もできないってわけ。
+  event_ltk_06_e_127:
+    speaker: k
+    en: I'm sure he'll try something the next chance he gets, but for now, we've put
+      a stop to it.
+    ko: 기회가 되면 다시 넘보겠지만, 당장 막은 게 어디야?
+    ja: |-
+      チャンスがあればまたやりそうだけど、
+      今すぐは無理だろうね。
+  event_ltk_06_e_128:
+    speaker: k
+    en: So let it go.
+    ko: 그러니 이제 그만 내려놔.
+    ja: だからもう外しなよ～
+  event_ltk_06_e_129:
+    speaker: k
+    en: You don't have to carry this burden with you everywhere you go.
+    ko: 계속 쓰고 있지 말고.
+    ja: ずっと背負ってないで。
+  event_ltk_06_e_130:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_06_e_131:
+    speaker: k
+    en: "... In life, you come across many different scales."
+    ko: "…살다 보면 수많은 저울을 마주하게 돼."
+    ja: |-
+      …生きていればたくさんの天秤と
+      向き合うことになる。
+  event_ltk_06_e_132:
+    speaker: k
+    en: We can add a bit here and take some there to tilt the balance, but
+    ko: |-
+      기울어져 있는 저울을 평행하게 만들기 위해
+      이런저런 것을 올려보고 내려보고 하지만.
+    ja: |-
+      天秤を釣り合わせるために色々なものを
+      載せたり下ろしたりするだろうけど
+  event_ltk_06_e_133:
+    speaker: k
+    en: there's no such thing as perfect balance.
+    ko: 완벽한 평행이라는 것은 사실 존재하지 않지.
+    ja: |-
+      完璧に釣り合っている状態なんて
+      存在しないんだ。
+  event_ltk_06_e_134:
+    speaker: k
+    en: When that happens, I just tilt my head to the side, so that everything looks
+      to be in perfect balance, at least to me.
+    ko: |-
+      그럴 때 나는 고개를 기울여.
+      그럼 완벽한 평행이 되거든.
+    ja: |-
+      そういう時、私は自分の首を傾ける。
+      そうすれば完璧に釣り合ってるように
+      見えるから。
+  event_ltk_06_e_135:
+    speaker: k
+    en: Rather than trying to make everything perfect, just tilt your head.
+    ko: |-
+      기를 써서 평행으로 만드는 것보다,
+      고개를 살짝 기울이는 것도.
+    ja: |-
+      必死に釣り合わせるだけじゃなくて
+      軽く首を傾けるのも
+  event_ltk_06_e_136:
+    speaker: k
+    en: It makes getting through life a heck of a lot easier.
+    ko: 살아가는 방식 중 하나야.
+    ja: 生き方の1つだな。
+  event_ltk_06_e_137:
+    speaker: k
+    en: I gotta go. See you next time.
+    ko: 간다. 다음에 또 보자.
+    ja: それじゃ、またな～
+  event_ltk_06_e_138:
+    speaker: Monologue
+    en: After K leaves,
+    ko: K가 간 후.
+    ja: Kが立ち去った後も
+  event_ltk_06_e_139:
+    speaker: Monologue
+    en: I can't take my eyes off the girl who is running around the park with gleeful
+      abandon.
+    ko: 난 한참 동안 공원에 앉아 소녀가 뛰어다니는 모습을 바라보았다.
+    ja: |-
+      私はしばらくベンチに座り
+      少女が走り回る姿を見つめていた
+  event_ltk_06_e_140:
+    speaker: Narration
+    en: 'LICENSE TO KILL: END'
+    ko: 'LICENSE TO KILL : END'
+    ja: 'LICENSE TO KILL : END'
+event_ltk_epilogue:
+  event_ltk_epilogue_1:
+    speaker: Narration
+    en: "*Zaaaaahhhhh*"
+    ko: 쏴아아아아---
+    ja: ザアアア…
+  event_ltk_epilogue_2:
+    speaker: Monologue
+    en: I left my place without looking at the weather forecast.
+    ko: 방주에 소나기를 내릴 것이라는 예보를 듣지 못하고 외출했다.
+    ja: にわか雨が降ることを知らず、出かけてしまった
+  event_ltk_epilogue_3:
+    speaker: Monologue
+    en: As a result, I'm stuck in an alley, hiding under an awning, seeking shelter
+      from the rain.
+    ko: 덕분에 골목길 처마 아래에서 비를 피하는 신세가 됐다.
+    ja: おかげで軒先で雨宿りすることになった
+  event_ltk_epilogue_4:
+    speaker: Monologue
+    en: I check my phone. Apparently it's going to last another 10 minutes.
+    ko: "…핸드폰을 확인해 보니 앞으로 10분은 더 내릴 것 같다."
+    ja: |-
+      …携帯で天気予報を確認すると、
+      あと10分は降り続きそうだ
+  event_ltk_epilogue_5:
+    speaker: Monologue
+    en: Looks like I've got some time to kill before I can set out again.
+    ko: 적당히 시간을 죽이다 움직여야….
+    ja: ちょっと時間を潰してから動かなければ…
+  event_ltk_epilogue_6:
+    speaker: Narration
+    en: "*Crumble*"
+    ko: 부스럭-
+    ja: ガサッ
+  event_ltk_epilogue_7:
+    speaker: Monologue
+    en: I look towards where the sound came from.
+    ko: 소리가 난 곳을 바라본다.
+    ja: 音がした方を見る
+  event_ltk_epilogue_8:
+    speaker: Monologue
+    en: D is walking with her hatchet in one hand.
+    ko: D가 손에 도끼를 든 채 걸어가고 있다.
+    ja: Dが斧を持って歩いていた
+  event_ltk_epilogue_9:
+    speaker: Monologue
+    en: There's something dripping from the tip of the hatchet that most assuredly
+      isn't rain, but I choose to ignore it.
+    ko: "…도끼 끝에 뭔가가 흐르고 있었지만 애써 무시했다."
+    ja: |-
+      …斧の先端から何かが垂れ流れていたが、
+      気にしないことにした
+  event_ltk_epilogue_10:
+    speaker: d
+    en: Are you watching the rain?
+    ko: "…비를 구경하고 있는 중이야?"
+    ja: "…雨を見ているのか？"
+  event_ltk_epilogue_11:
+    speaker: Self
+    en: No. I'm hiding from it.
+    ko: 아니. 비를 피하고 있는 중이야.
+    ja: いや。雨宿りしているんだ
+  event_ltk_epilogue_12:
+    speaker: d
+    en: They say it will stop after about 10 minutes, so you'll be able to leave then.
+    ko: 그래. 10분 뒤면 그친다고 하니 그때 움직여.
+    ja: |-
+      そうか。10分後には止むそうだから
+      それから動くといい。
+  event_ltk_epilogue_13:
+    speaker: Self
+    en: Okay. Thanks.
+    ko: 그래. 고마워.
+    ja: そうだな。ありがとう
+  event_ltk_epilogue_14:
+    speaker: Monologue
+    en: D turns and starts to walk away.
+    ko: D는 등을 돌려 걸어갔다.
+    ja: Dは背を向けて歩いていった
+  event_ltk_epilogue_15:
+    speaker: Monologue
+    en: I suddenly remember something I wanted to ask her.
+    ko: "…갑자기 물어보고 싶은 게 생겨, D를 불러 세웠다."
+    ja: "…聞きたいことを思い出し、Dを呼び止めた"
+  event_ltk_epilogue_16:
+    speaker: Self
+    en: D.
+    ko: D.
+    ja: D
+  event_ltk_epilogue_17:
+    speaker: d
+    en: Yes?
+    ko: 음?
+    ja: 何だ？
+  event_ltk_epilogue_18:
+    speaker: Self
+    en: Are you... okay?
+    ko: 너는… 괜찮아?
+    ja: 君は…大丈夫なのか？
+  event_ltk_epilogue_19:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_ltk_epilogue_20:
+    speaker: d
+    en: I...
+    ko: 나는….
+    ja: 私は…
+  event_ltk_epilogue_21:
+    speaker: d
+    en: I'm not sure if I know what being okay feels like.
+    ko: 나는 한 번도 괜찮았던 적이 없어.
+    ja: 大丈夫だったことなど一度もない。
+  event_ltk_epilogue_22:
+    speaker: d
+    en: My life's been hard, and always will be.
+    ko: 힘들었고, 힘들고, 힘들 거야.
+    ja: 辛かったし、辛いし、これからも辛いはずだ。
+  event_ltk_epilogue_23:
+    speaker: d
+    en: It's heavy.
+    ko: 나는 무거워.
+    ja: 私には重い。
+  event_ltk_epilogue_24:
+    speaker: d
+    en: But I'm enduring it.
+    ko: 하지만 견디고 있어.
+    ja: でも、耐えている。
+  event_ltk_epilogue_25:
+    speaker: d
+    en: I believe that
+    ko: 믿고 있으니까.
+    ja: 信じているから。
+  event_ltk_epilogue_26:
+    speaker: d
+    en: I'm doing the right thing.
+    ko: 내가 옳은 일을 한다고.
+    ja: 自分が正しいことをしていると。
+  event_ltk_epilogue_27:
+    speaker: d
+    en: I believe that I'm making this world a better place.
+    ko: 세상을 조금이라도 좋게 만들고 있다고.
+    ja: 世界を少しでもいい方向に導いていると。
+  event_ltk_epilogue_28:
+    speaker: d
+    en: It's what makes me able to endure it.
+    ko: 그러니 견딜 수 있어.
+    ja: だから耐えられる。
+  event_ltk_epilogue_29:
+    speaker: d
+    en: It's okay.
+    ko: 괜찮아.
+    ja: 大丈夫だ。
+  event_ltk_epilogue_30:
+    speaker: Self
+    en: "... Okay."
+    ko: "…그래."
+    ja: "…そうか"
+  event_ltk_epilogue_31:
+    speaker: d
+    en: See you next time.
+    ko: 그럼 다음에 봐.
+    ja: またな。
+  event_ltk_epilogue_32:
+    speaker: Monologue
+    en: D walks away in the rain.
+    ko: D는 비를 맞으며 걸어갔다.
+    ja: Dは雨に打たれながら歩いていった
+  event_ltk_epilogue_33:
+    speaker: Monologue
+    en: The weight of the cross I bore was enough to bring me to my knees,
+    ko: 잠깐 동안 썼던 왕관의 무게는.
+    ja: わずかの間、戴いた王冠の重さは
+  event_ltk_epilogue_34:
+    speaker: Monologue
+    en: even though I only had to carry it for a short time.
+    ko: 쉴 새 없이 나를 짓눌러 무릎을 꿇게 만들었다.
+    ja: 休むことなく私を押さえつけ、膝をつかせた
+  event_ltk_epilogue_35:
+    speaker: Monologue
+    en: The cross she carries is far heavier than I can imagine,
+    ko: 그녀는 나로서는 가늠할 수 없는 무게의 왕관을 쓴 채.
+    ja: |-
+      彼女は私には計り知れないほどの
+      重い王冠を戴いたまま
+  event_ltk_epilogue_36:
+    speaker: Monologue
+    en: more than I could bear.
+    ko: 그 무게를 묵묵히 견디며.
+    ja: その重さに静かに耐え
+  event_ltk_epilogue_37:
+    speaker: Monologue
+    en: Yet she endures.
+    ko: 앞으로 걸어간다.
+    ja: 前へ進んでいた
+  event_ltk_epilogue_38:
+    speaker: Monologue
+    en: I watch her in silence.
+    ko: 나는 그 모습을 가만히 지켜본다.
+    ja: 私はその姿をただじっと見守る
+  event_ltk_epilogue_39:
+    speaker: Monologue
+    en: I can only hope that one day,
+    ko: 언젠가. 그 언젠가.
+    ja: いつか、いつの日か
+  event_ltk_epilogue_40:
+    speaker: Monologue
+    en: she will finally be able to put down that cross.
+    ko: 그녀의 머리에 써진 왕관이 벗겨지는 날이 오길 바라며.
+    ja: |-
+      彼女の頭にある王冠が外れる日が
+      来ることを願いながら

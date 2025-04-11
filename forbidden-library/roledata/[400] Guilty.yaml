@@ -1,0 +1,751 @@
+---
+400_name:
+  en: Guilty
+  ko: 길티
+  ja: ギルティ
+c400_description:
+  en: |-
+    A Nikke subordinate of the Real Kindness Squad.
+    Possesses incredible strength.
+    Detained in the Rehabilitation Center for causing severe bodily damage to over 40 Nikkes within 2 weeks.
+  ko: "리얼 카인드니스 스쿼드 소속의 니케. \n압도적으로 강한 완력을 지녔다. \n2주 남짓한 시간 동안 니케 40여 명의 신체를 부순 죄로,
+    갱생관에 수감되었다."
+  ja: |-
+    リアルカインドネス部隊所属のニケ。
+    圧倒的に強い腕力を持つ。
+    2週間余りの短期間で約40人のニケの身体を破壊した罪により、\n更生館に収容された。
+400_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_400:
+  en: Guilty's Spare Body
+  ko: 길티 스페어 바디
+  ja: ギルティのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+24002_name:
+  en: Time to play
+  ko: 같이 놀자아….
+  ja: 一緒に遊ぼうよぉ…
+24002_description_2:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects all Wind Code allies.
+    <color=#00AEFF>Increases <word_group=10001>stack count of buffs</word_group> by {description_value_02}.
+    ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 풍압 코드 아군 전체에게
+    <color=#00AEFF>[<word_group=10001>중첩 가능 이로운 효과 중첩량</word_group> {description_value_02}개 ▲]
+    [공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、風圧コードの味方全体に
+    <color=#00AEFF>「<word_group=10001>スタック可能バフ効果のスタック量</word_group> {description_value_02}個▲」
+    「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24001_name:
+  en: Mind If I Borrow This?
+  ko: 빌려 갈게에….
+  ja: 借りていくよぉ…
+24001_description_2:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>Mind If I Borrow This?: <word_group=10012>Duplicate {description_value_02}% ATK</word_group> of ally with the highest ATK, stacks up to {description_value_04} time(s) and lasts for {description_value_03} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 자신에게
+    <color=#00AEFF>[빌려 갈게에…. : 공격력이 가장 높은 아군 1기의 <word_group=10012>공격력 복제</word_group> {description_value_02}%] [{description_value_04}중첩] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「借りていくよぉ…：攻撃力が最も高い味方
+    1機の<word_group=10012>攻撃力のコピー</word_group> {description_value_02}％」「{description_value_04}スタック」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14003_name:
+  en: Gotcha...
+  ko: 잡았다아….
+  ja: つかまえたぁ…
+14003_description_1:
+  en: |-
+    ■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> DEF.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Affects the same target(s) when Mind If I Borrow This? is fully stacked.
+    <color=#00AEFF>DEF ▼ {description_value_03}% for {description_value_04} sec.
+    Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
+    ■ 자신이 빌려 갈게에.... 최대 중첩 상태라면 동일 적 대상에게
+    <color=#00AEFF>[방어력 {description_value_03}% ▼] [{description_value_04}초 유지]
+    [<word_group=10025>최종</word_group> 공격력 {description_value_05}% 추가 대미지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の
+    バーストスキルダメージ」</color>
+    ■自分が借りていくよぉ…のフルスタック状態なら、同じ敵に
+    <color=#00AEFF>「防御力{description_value_03}％▼」「{description_value_04}秒間維持」
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+401_name:
+  en: Sin
+  ko: 신
+  ja: シン
+402_name:
+  en: Quency
+  ko: 퀀시
+  ja: クエンシー
+403_name:
+  en: 'Quency: Escape Queen'
+  ko: '퀀시 : 이스케이프 퀸'
+  ja: クエンシー：エスケープクイーン
+c400_Lobby_Touch_1:
+  en: This thing is so stifling... Any chance I can have this untied?
+  ko: 답답해… 이거 풀어주면 안 돼…?
+  ja: |-
+    窮屈だわ…
+    これ解いてくれないかしら…
+c400_Lobby_Touch_2:
+  en: Didn't you say you trusted me? So why won't you untie me?
+  ko: 날 믿는다고 했으면서… 풀어주지도 않고….
+  ja: |-
+    私のこと信じるって言っといて…
+    何で解いてくれないの…
+c400_Lobby_Touch_3:
+  en: How long do I have to stay like this, Counselor?
+  ko: 교과안… 나 언제까지 이러고 있어야 해…?
+  ja: 教官…いつまでこうしてなきゃいけないの…？
+c400_Lobby_Touch_Love_1:
+  en: Haven't I been doing well in my rehabilitation, Counselor? Why don't you untie
+    me just this once?
+  ko: 교과안… 갱생 기념으로… 한 번만 풀어주면 안 돼에?
+  ja: |-
+    教官…更生記念に…
+    1回だけ解いちゃダメ…？
+c400_Lobby_Touch_Love_2:
+  en: Do you like what you see, Counselor?
+  ko: 교관은… 내가 이러고 있는 게 좋아…?
+  ja: 教官…私がこんな仕打ち受けて気分いい…？
+c400_Lobby_Touch_Love_3:
+  en: Just because I'm in these restraints, you think you can touch me however you
+    want??
+  ko: 내가 묶여 있다고 이렇게 함부로 만지는 거야아…?
+  ja: 私が身動きできないからって、好き勝手に触っていいとでも…？
+c400_Lobby_Stay_1:
+  en: Ugh, so bored... I should just end my life and be done with it.
+  ko: 답답해… 심심해… 그냥 끊고 나가버릴까….
+  ja: |-
+    息苦しい…退屈…
+    こんなの壊して脱走しちゃおうかしら…
+c400_Lobby_Stay_Love_1:
+  en: Why don't you come closer? I want to hold your hand, Counselor...
+  ko: |-
+    그렇게 멀리서 보고만 있을 거야…?
+    나… 교관이랑 손잡고 싶은데에….
+  ja: |-
+    そうやってずっと遠くから見てるつもり…？
+    私…教官と手をつなぎたいのに…
+c400_Outpost_Touch_1:
+  en: It really is nice here... It's not nearly as stuffy as the Rehabilitation Center...
+  ko: 여기 좋네에… 갱생관이랑은 달라… 안 답답해에….
+  ja: |-
+    ここはいいわ… 更生館とは違う…
+    息苦しくない…
+c400_Outpost_Touch_2:
+  en: This is the Courthouse, isn't it? You're not trying to have me punished again,
+    right?
+  ko: 법원에 있으라니… 나한테 또 벌을 내리고 싶은거야아…?
+  ja: |-
+    裁判所だなんて…
+    まだ私を苦しめたいの…？
+c400_Outpost_Touch_3:
+  en: When I was at the Courthouse, I encountered some patients I've seen at the Rehabilitation
+    Center. Are you sure it's a good idea to gather so many of us under one roof?
+  ko: |-
+    법원에 가니까 갱생관에서 본 애들이 있던데에…
+    우릴 이렇게 모아둬도 괜찮겠어어?
+  ja: |-
+    裁判所には更生館で 見た子たちがいたけど…
+    私みたいなのを1ヶ所に 集めちゃって大丈夫…？
+c400_Gacha_Get_1:
+  en: |-
+    Since you rehabilitated me,
+    I don't want you straying too far. All right?
+  ko: "교관이 날 갱생시켰으니까아… \n앞으로도 쭉… 같이 있자아… 알겠지?"
+  ja: |-
+    教官が私を更生させてくれた…
+    これからもずっと…
+    一緒にいて…分かってるわよね…？
+c400_Reinforce_1:
+  en: Wow, I've gotten stronger!
+  ko: 와… 내 힘이 더 강해졌어…!
+  ja: |-
+    わぁ…
+    力がパワーアップしたわ…！
+c400_Reinforce_2:
+  en: This'll make me a force to be reckoned with. Are you sure this is all right?
+  ko: 이러면 내가 더 무서워질텐데에… 괜찮겠어…?
+  ja: |-
+    これじゃ私がもっと怖い存在になってしまうのに…
+    いいの…？
+c400_Reinforce_3:
+  en: Just once... I'd love to use my powers to my heart's content.
+  ko: 딱 한 번만… 이 힘을 마음껏 써보고 싶다아….
+  ja: |-
+    1回だけでいいから…
+    この力を思う存分使ってみたいわ…
+c400_Gift_1:
+  en: A gift? Why are you giving me this? You want me to like you?
+  ko: 선물…? 이런 건 왜 주는 거야…? 나 좋아하라고?
+  ja: |-
+    プレゼント…？
+    何でこんなことするの…？
+    私のご機嫌取りでもするつもり…？
+c400_Gift_2:
+  en: So this is the kind of stuff you get when you're rehabilitated? That's simply
+    amazing!
+  ko: 갱생하면… 이런 것도 주는구나아… 좋다아….
+  ja: |-
+    更生すると…
+    こんなのももらえるのね…
+    悪くないわ…
+c400_Gift_3:
+  en: I don't need any of these things. To be able to hold your hand is the greatest
+    gift of all, but still, thanks...
+  ko: |-
+    이런 거 필요 없이… 그냥 교관의 손만 줘도 되는데에…
+    그래도 고마워어….
+  ja: |-
+    こんなの必要ないのに…
+    ただ教官の手を触るだけで充分なのに…
+    でも嬉しいわ…
+c400_Attractive_Up_1:
+  en: The odd thing is I want you more and more, Counselor...
+  ko: 이상하게 교관은 점점 더 갖고 싶어지네에….
+  ja: |-
+    不思議だわ…
+    教官だけは絶対逃がしたくないって思うの…
+c400_Attractive_Up_2:
+  en: Don't be afraid of me, Counselor... Please learn to trust me...
+  ko: 교과안… 앞으로도 나 무서워하지 말고… 잘 믿어줘야 해에….
+  ja: |-
+    教官…
+    これからも私のこと怖がらないで…
+    信じてちょうだいね…
+c400_Attractive_Up_3:
+  en: |-
+    Being rehabilitated sure has its perks,
+    like say... being with you, Counselor.
+  ko: |-
+    갱생하니까 좋다아…
+    교관이랑 이렇게 같이 있을 수 있고오….
+  ja: |-
+    更生してよかった…
+    こうやって教官と一緒にいれるし…
+c400_Party_Deploy_1:
+  en: Counselor, you need me...?
+  ko: 교관. 내가 필요해에…?
+  ja: 教官…私が必要なの…？
+c400_Field_Touch_1:
+  en: Hm... What should I do now?
+  ko: 응… 뭐할까아…?
+  ja: う～ん…何しようかしら…？
+c400_Field_Go_1:
+  en: Do I really need to go all the way over there?
+  ko: 저기까지 가야 해에…?
+  ja: あそこまで行かなきゃいけないの…？
+c400_Battle_Enter_1:
+  en: Time to cut loose.
+  ko: 힘쓸 시간인가아….
+  ja: 本気出してみようかしら…
+c400_Battle_Ready_1:
+  en: It's nice being able to move my arms.
+  ko: 오랜만에 마음껏 팔을 움직이니까… 좋다아….
+  ja: |-
+    久しぶりに腕を動かしたせいかしら…
+    気分がいいわ…
+c400_Battle_Ready_2:
+  en: My hands are free... I wanna break something!
+  ko: 손이 시원해서… 뭐든 부수고 싶어어….
+  ja: |-
+    元気が有り余ってるの…
+    手当たり次第に壊したいわ…
+c400_Battle_Ready_3:
+  en: You released me, I'll do as you say, Counselor.
+  ko: 구속구 풀어줬으니까… 교관이 시키는 대로 해줄게….
+  ja: |-
+    解いてくれたお礼に…
+    教官の言いなりになってあげる…
+c400_Reload_1:
+  en: Gotta be prepared...
+  ko: 다시 준비이….
+  ja: また準備…
+c400_Reload_2:
+  en: Guns are boring... I like using my fists...
+  ko: 총 쏘는 거 귀찮아… 그냥 맨손이 좋은데….
+  ja: |-
+    銃なんて面倒だわ…
+    素手で十分なのに…
+c400_Reload_3:
+  en: You gotta be careful, else the gun will break...
+  ko: 총은 부서지만 안되니까… 조심해서어….
+  ja: |-
+    銃が壊れちゃいけないから…
+    慎重に…
+c400_Ult_Skill_Ready_1:
+  en: Counselor...
+  ko: 교과안….
+  ja: 教官…
+c400_Ult_Skill_1:
+  en: No restraints, no mercy!
+  ko: 풀렸다… 이제 날뛰어도 돼?
+  ja: |-
+    拘束解除っと…
+    今から暴れちゃっていい…？
+c400_FullBurst_1:
+  en: Don't run away! Let's play together!
+  ko: 도망가지 마아… 다 같이 놀자아….
+  ja: |-
+    逃げないで…
+    私と一緒に遊びましょ…
+c400_Kill_Monster_1:
+  en: One down.
+  ko: 하나 끝….
+  ja: 1つ目終わり…
+c400_Kill_Monster_2:
+  en: Who's next?
+  ko: 다음은 누굴까아….
+  ja: 次は誰かしら…
+c400_Kill_Monster_3:
+  en: So happy!
+  ko: 기분 좋아….
+  ja: いい気分…
+c400_Damage_1:
+  en: Ugh...
+  ko: 아….
+  ja: あ…
+c400_Damage_2:
+  en: That hurts...
+  ko: 아프네에….
+  ja: 痛いじゃない…
+c400_Damage_3:
+  en: Ow!
+  ko: 윽….
+  ja: うっ…
+c400_Die_1:
+  en: So tired... I'm tapping out.
+  ko: 귀찮아… 피곤해에… 나 그만할래에….
+  ja: |-
+    面倒くさい…疲れた…
+    これでおしまい…
+c400_Win_1:
+  en: This is what you wanted, right? Did I do well?
+  ko: 이런 거 원했던 거… 맞지? 나 잘했지이?
+  ja: |-
+    こういうの…
+    望んでたんでしょ…？
+    私、上手にできた？
+c400_01_Lobby_Touch_1:
+  en: This outfit isn't too... restrictive. It's quite nice, actually.
+  ko: 이 옷 답답하지 않고오… 시원해서 좋네에.
+  ja: この服は苦しくないしぃ…涼しくていいわぁ。
+c400_01_Lobby_Touch_2:
+  en: Would you... like to have some ice cream with me, Counselor?
+  ko: 교과안… 나랑 같이 아이스크림 먹을래애…?
+  ja: 教官…私と一緒にアイスクリーム食べる…？
+c400_01_Lobby_Touch_3:
+  en: You weren't lying about us spending next summer together, were you?
+  ko: |-
+    다음 여름도 같이 보내자고 한 거어….
+    거짓말은 아니지이…?
+  ja: |-
+    来年の夏も一緒に過ごそうって…
+    嘘じゃないわよねぇ…？
+c400_01_Lobby_Touch_Love_1:
+  en: Counselor, I'm feeling a bit... uncomfortable. Could you... maybe loosen this
+    for me? If you want, you could even untie it completely...
+  ko: |-
+    교과안… 불편한데 이것 좀 풀어줄 수 있어어…?
+    다 풀어줘도 상관은 없으니까아….
+  ja: |-
+    教官…これ、ちょっと緩めてくれないかしらぁ…？
+    なんだったら全部外してもいいのよぉ…
+c400_01_Lobby_Touch_Love_2:
+  en: |-
+    This summer was nice... I even made some new friends...
+    Though, I'm not sure how long they'll be able to put up with me.
+  ko: |-
+    이번 여름 좋았어어… 새로운 친구도 생기고오….
+    날 감당할 수 있을진 지켜봐야겠지마안….
+  ja: |-
+    今年の夏は楽しかったわぁ…新しい友だちもできたしぃ…
+    私に耐えられるかは分からないけどぉ…
+c400_01_Lobby_Touch_Love_3:
+  en: |-
+    I never thought I'd have the opportunity to enjoy the summer with you, Counselor.
+    I'm glad I was able to leave the Rehabilitation Center.
+  ko: |-
+    교관하고 여름을 즐길 수 있을지 몰랐어어….
+    갱생관에서 나오기 잘한 거 같아아….
+  ja: |-
+    教官と夏を楽しめるなんて思わなかったわぁ…
+    更生館から出て正解よねぇ…
+c400_01_Lobby_Stay_1:
+  en: I'm so bored... Maybe I could browse through the photos I took last time...
+  ko: 지루하네에… 그때 찍은 사진이나 볼까아…?
+  ja: 退屈…あの時撮った写真でも見ようかしらぁ…
+c400_01_Lobby_Stay_Love_1:
+  en: |-
+    How can you ignore me when you're the one who made me wear this?
+    Don't be like that. Come here and hold my hand.
+  ko: |-
+    이런 옷까지 입혀놓고 무시하기야아….
+    그러지 말고 손 잡아주면 안 돼에…?
+  ja: |-
+    こんな服まで着せておいて、無視するのぉ…？
+    手を繋いでくれないかしらぁ…？
+c400_01_Outpost_Touch_1:
+  en: |-
+    Maiden was teaching me how to play a game,
+    but I got a bit angry and hit the keyboard, and now it's busted.
+  ko: |-
+    메이든한테 게임 배웠는 데에…
+    살짝 화 나서 키보드 쳤더니 다 부서져 버렸어어….
+  ja: |-
+    メイデンからゲームを 教えてもらったんだけど…
+    ちょっとムカついて キーボードを叩いたら、 壊れちゃったぁ…
+c400_01_Outpost_Touch_2:
+  en: You said that's the swimming pool, right? Do you think there's a Great White
+    Shark in there?
+  ko: |-
+    저기… 수영장이라고 했지이?
+    저기에도 백상아리가 있으려나아?
+  ja: |-
+    あそこ… プールなのよねぇ？
+    あそこにも ホホジロザメがいるかしらぁ？
+c400_01_Outpost_Touch_3:
+  en: |-
+    Do you think we could smash some watermelons here?
+    I'm really good at it.
+  ko: |-
+    여기서 수박 깨기 해도 될까아…?
+    나 그건 자신 있는 데에….
+  ja: |-
+    ここでスイカ割りしてもいい…？
+    私、得意なのぉ…
+c400_01_Gacha_Get_1:
+  en: This is just something I got for summer, but... what do you think, Counselor?
+  ko: |-
+    여름이라고 해서 받은 옷인데에….
+    교관이 보기엔 어때애…? 마음대로 하고 싶어…?
+  ja: |-
+    夏用にもらった服なんだけど…
+    教官はどう…？私を思いのままにしたいって思う…？
+c400_01_Reinforce_1:
+  en: Can you handle my strength...?
+  ko: 내 힘 감당할 수 있겠어…?
+  ja: 私の力に耐えられるかしらぁ…？
+c400_01_Reinforce_2:
+  en: Thinking about the sea while wearing a swimsuit makes me feel stronger.
+  ko: 수영복 입고 바다 생각하면… 더 강해지는 기분이야아….
+  ja: 水着を着て、海のことを考えると…強くなれる気がするわぁ…
+c400_01_Reinforce_3:
+  en: I'll never lose you now.
+  ko: 이제 교관 놓치지 않을 수 있겠다아….
+  ja: もう離さないわぁ…
+c400_01_Gift_1:
+  en: The world outside the Rehabilitation Center is such a joyous place.
+  ko: 갱생관에서 나오니까 즐거운 일만 가득하구나아….
+  ja: 更生館の外は、楽しいことばかりなのねぇ…
+c400_01_Gift_2:
+  en: |-
+    Can... can I touch this?
+    It won't break, right?
+  ko: |-
+    이거어… 내가 만져도 될까아…?
+    부서지진 않겠지이?
+  ja: |-
+    これぇ…私が触ってもいいかしらぁ…？
+    壊れたりしないわよねぇ？
+c400_01_Gift_3:
+  en: I still want more...
+  ko: 또 받고 싶다아….
+  ja: もっと欲しいわぁ…
+c400_01_Attractive_Up_1:
+  en: Thank you for believing in me with all your heart.
+  ko: 교과안… 나 진심으로 믿어줘서 고마워어….
+  ja: 教官…信じてくれてありがとう…
+c400_01_Attractive_Up_2:
+  en: I'll stay still... You're free to handle this however you wish, Counselor.
+  ko: 나 가만히 있을 테니까아… 교관 마음대로 해도 좋아.
+  ja: 大人しくしてるからぁ…教官の好きにしていいわよ。
+c400_01_Attractive_Up_3:
+  en: Thanks for helping me with my swimsuit. You're more than welcome to do the same
+    for me again in the future.
+  ko: |-
+    수영복 입혀줘서 고마워어.
+    다음에도, 그다음에도 또 직접 입혀주는 거야. 알겠지이?
+  ja: |-
+    水着をありがとう。
+    次も、その次も教官が着せてくれるんでしょぉ？
+c400_01_Party_Deploy_1:
+  en: It's time to use physical force now.
+  ko: 이제 물리력을 쓸 시간이구나아.
+  ja: 力を使う時なのねぇ。
+c400_01_Field_Touch_1:
+  en: What's the matter...?
+  ko: 무슨 일이야아…?
+  ja: どうしたのぉ…？
+c400_01_Field_Go_1:
+  en: Counselor, can I hold your hand while we move out?
+  ko: 교관 손 잡고 가도 될까아…?
+  ja: 教官、手を繋いでもいい…？
+c400_01_Battle_Enter_1:
+  en: Counselor, you have to let go of my hand now.
+  ko: 교관, 손 풀어줘어….
+  ja: 教官、これ外してくれる…？
+c400_01_Battle_Ready_1:
+  en: Is it okay if I hug you tight?
+  ko: 꽉 안아주면 되는 거야아?
+  ja: ぎゅっと抱きしめればいいのぉ？
+c400_01_Battle_Ready_2:
+  en: I'll destroy it all…
+  ko: 전부 부술게에….
+  ja: 全部壊すわねぇ…
+c400_01_Battle_Ready_3:
+  en: It's hot out here, so I'll finish this quick.
+  ko: 더우니까 빨리 끝낼래애….
+  ja: 暑いから、早く終わらせるわぁ…
+c400_01_Reload_1:
+  en: It's such a hassle to reload.
+  ko: 장전 어려워어….
+  ja: 装填がめんどうね…
+c400_01_Reload_2:
+  en: I want to use my bare hands.
+  ko: 맨손 쓰고 싶다아….
+  ja: いつも自分の手でやりたいわぁ…
+c400_01_Reload_3:
+  en: Wait a moment...
+  ko: 잠깐마안….
+  ja: ちょっと待ってぇ…
+c400_01_Ult_Skill_Ready_1:
+  en: I think it's my turn, Counselor.
+  ko: 교관… 내 차롄거 같아….
+  ja: 教官…私の番みたいねぇ…
+c400_01_Ult_Skill_1:
+  en: Do you really think... you can handle me?
+  ko: 넌… 날 감당할 수 있을까아…?
+  ja: 君は…私に耐えられるかしらぁ…？
+c400_01_FullBurst_1:
+  en: I don't need to hold back anymore.
+  ko: 힘조절 안 해도 되지이…?
+  ja: 手加減しなくてもいいんでしょぉ…？
+c400_01_Kill_Monster_1:
+  en: It shattered...
+  ko: 부서졌네에….
+  ja: 壊れちゃったぁ…
+c400_01_Kill_Monster_2:
+  en: How boring.
+  ko: 시시하다아….
+  ja: つまんないわぁ…
+c400_01_Kill_Monster_3:
+  en: So this is how it feels...
+  ko: 이런 기분이었지이….
+  ja: こんな気分だったわねぇ…
+c400_01_Damage_1:
+  en: Ah...!
+  ko: 앗…!
+  ja: あっ…！
+c400_01_Damage_2:
+  en: Ugh!
+  ko: 윽.
+  ja: うっ。
+c400_01_Damage_3:
+  en: That hurt!
+  ko: 아프다아….
+  ja: いたぁい…
+c400_01_Die_1:
+  en: I'm tired… I think I'll stop now.
+  ko: 나 힘들어어… 그만할게에….
+  ja: つらい…もうやめるわぁ…
+c400_01_Win_1:
+  en: Is this proof enough of my feelings for you?
+  ko: 교관을 생각하는 내 마음… 증명된 걸까아…?
+  ja: 教官を想う私の気持ち…伝わったかしらぁ…？
+400_cv_ja:
+  en: 'CV: Rina Sato'
+  ko: 'CV : 사토 리나'
+  ja: CV：佐藤利奈
+400_cv_ko:
+  en: 'CV: Lee Bo-hee'
+  ko: 'CV : 이보희'
+  ja: CV：イ・ボヒ
+400_cv_en:
+  en: 'CV: Brittany Lauda'
+  ko: 'CV : 브리타니 라우다'
+  ja: CV：Brittany Lauda

@@ -1,0 +1,465 @@
+---
+141_name:
+  en: Milk
+  ko: 밀크
+  ja: ミルク
+c141_description:
+  en: A combative girl who likes to provoke others. She sells milk coffee in Cafe
+    Sweety.
+  ko: |-
+    카페 스위티 스쿼드에서 밀크 커피 판매를 담당하고 있는 호전적이고 살벌한 소녀.
+    누군가와 대적하는 상황을 즐기는 격투광이기도 하다.
+  ja: "カフェ・スウィーティー部隊でミルクコーヒーを\n販売している、好戦的で殺伐とした少女。 \n誰かと敵対する状況を楽しむ格闘マニアでもある。"
+141_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50141:
+  en: Milk's Spare Body
+  ko: 밀크 스페어 바디
+  ja: ミルクのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21412_name:
+  en: Sugar Rush
+  ko: 밀크 도핑
+  ja: ミルクドーピング
+21412_description:
+  en: |-
+    ■ Activates when above 80% HP. Affects all allies.
+    <color=#00AEFF>Critical Damage ▲ {description_value_01}% permanently.</color>
+  ko: |-
+    ■ 자신의 체력이 80% 이상일 때 한하여 아군 전체에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_01}% ▲] [지속]</color>
+  ja: |-
+    ■自分のHPが80％以上の時のみ味方全体に
+    <color=#00AEFF>「クリティカルダメージ{description_value_01}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+11411_name:
+  en: In It to Win It
+  ko: 승부욕
+  ja: 負けず嫌い
+11411_description:
+  en: |-
+    ■ Affects 2 allies with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 2기에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い味方2機に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11413_name:
+  en: Victory is Mine
+  ko: 투 더 빅토리
+  ja: 勝利に向かって
+11413_description_1:
+  en: "■ Affects the enemy with the highest <word_group=10025>final</word_group> DEF.
+    \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color> \n■ Affects all allies. \n<color=#00AEFF>Recovers
+    {description_value_03}% of attack damage as HP over {description_value_01} sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 비례 {description_value_03}% 회복] [{description_value_01}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のバーストスキルダメージ」</color>
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージの{description_value_03}％回復」「{description_value_01}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+140_name:
+  en: Sugar
+  ko: 슈가
+  ja: シュガー
+142_name:
+  en: Frima
+  ko: 프림
+  ja: プリム
+c141_Lobby_Touch_1:
+  en: Hey Punk, what's your problem? Come here and say it to my face!
+  ko: 내 표정이 맘에 안 든다고? 덤벼 이 쨔샤!
+  ja: |-
+    私の表情が気に入らないだと？
+    かかってこい、このアマが！
+c141_Lobby_Touch_2:
+  en: Hey, are you any good at fighting?
+  ko: 형씨. 형씨는 싸움 잘 해?
+  ja: 兄貴。兄貴はケンカ強い？
+c141_Lobby_Touch_3:
+  en: I'll take you all on! That oughta scare 'em, don't you think?
+  ko: 다 덤벼! 라고 하면 쎄 보이겠지?
+  ja: |-
+    全部まとめてかかってきやがれ！
+    って言えば、強そうに見えるだろ？
+c141_Lobby_Touch_Love_1:
+  en: |-
+    Do you want some milk coffee?
+    I brought it myself just for you!
+  ko: |-
+    밀크 커피 한잔할래?
+    물론 내가 직접 가져다주는 희귀 밀크 커피로!
+  ja: |-
+    ミルクコーヒーを一杯どうだ？
+    この私が淹れたレアミルクコーヒーだぞ！
+c141_Lobby_Touch_Love_2:
+  en: I want to know everything about you, no matter how trivial it is.
+  ko: 형씨에 관한 거라면 사소한 거라도 다 알아내고 말겠어!
+  ja: |-
+    兄貴に関することなら、どんなちっぽけなことでも
+    全部洗い出してやる！
+c141_Lobby_Touch_Love_3:
+  en: What? Why are you poking me all the time? Are you challenging me to a duel?
+  ko: 왜, 왜 자꾸 찌르는 거야! 결투 신청이야?
+  ja: |-
+    ど、どうしてそう突っつくんだよ！
+    決闘の申し込みか？
+c141_Lobby_Stay_1:
+  en: Why call me here for nothing? I'm a busy woman!
+  ko: 사람 불러다 놓고 뭐 하냐? 내가 한가해 보여?!
+  ja: |-
+    人を呼んでおいてどういうつもりだ。
+    こっちは暇じゃないんだぞ！？
+c141_Lobby_Stay_Love_1:
+  en: |-
+    I can practice punching here, so don't mind me.
+    But considering how long you kept me waiting, I'd say you owe me dinner!
+  ko: |-
+    나는 펀치 연습하고 있으면 되니까 신경 쓰지 말고 할 거 해.
+    …대신 기다리게 했으니까 오늘은 형씨가 밥 쏘기야!
+  ja: |-
+    私ならパンチの練習してればいいから気にすんな。
+    …その代わり、待たせたんだから今日は兄貴がメシおごれよ！
+c141_Outpost_Touch_1:
+  en: Milk Coffee is our best seller at the coffee shop!
+  ko: 카페의 명물은 당연히 밀크 커피지.
+  ja: カフェの名物と言えば、 なんてったって ミルクコーヒーだろ。
+c141_Outpost_Touch_2:
+  en: Looks like we've got a couple unwelcome customers. Allow me to show them the
+    door.
+  ko: 카페에 불법 침입자 둘이 있는 것 같던데, 쫓아내줄래?
+  ja: |-
+    カフェに不法侵入者が 二人ほどいるみてーだ。
+    追っ払ってくんない？
+c141_Outpost_Touch_3:
+  en: When I'm here, I can be myself. I don't have to worry about what expectations
+    other people have of me.
+  ko: 여긴 눈치 보지 않고 날뛰어도 되니까 좋아.
+  ja: ここは好きなだけ 暴れていいから いいよな。
+c141_Gacha_Get_1:
+  en: Leave the fighting to me, I'll show them what for!
+  ko: 싸움이라면 맡겨둬! 다 때려눕혀줄 테니까!
+  ja: ケンカなら任せろ！全員ボッコボコにしてやるよ！
+c141_Reinforce_1:
+  en: Powering up!
+  ko: 파워 업!
+  ja: パワーアップ！
+c141_Reinforce_2:
+  en: All right, who wants some of this?!
+  ko: 아 이거 주먹이 근질근질하네.
+  ja: あ、何だか体がムズムズしてきたぜ。
+c141_Reinforce_3:
+  en: I'm ready to rock!
+  ko: 얼른 한 판 하러 가자고!
+  ja: 早く一勝負しに行こうぜ！
+c141_Gift_1:
+  en: Hmm? Is this a gift? Wow!
+  ko: 오 이거 뭐야? 선물? 이야~
+  ja: あ？これ何だ？プレゼント？へえ～
+c141_Gift_2:
+  en: Thanks, Pal. I'll be sure not to waste it.
+  ko: 고마워 형씨. 좋은데 쓸게.
+  ja: ありがとな、兄貴。大切に使うよ。
+c141_Gift_3:
+  en: What are you giving me a gift for? Well, thanks anyway.
+  ko: 뭘 이런 걸 다 주시나. 고맙게.
+  ja: こんなモンいいのに。悪いな。
+c141_Attractive_Up_1:
+  en: If anyone is giving you a hard time, just let me know and I'll set them straight.
+  ko: 못살게 구는 녀석이 있으면 말해. 내가 혼내줄게.
+  ja: いじめる奴がいたら教えてくれよな。私がお仕置きするからよ。
+c141_Attractive_Up_2:
+  en: I'm curious about what your real personality is.
+  ko: 형씨가 어떤 사람인지 점점 궁금해지는데?
+  ja: 兄貴がどんな人なのか、もっと知りたくなるぜ。
+c141_Attractive_Up_3:
+  en: If you're the one drinking it, then the milk coffee is on me.
+  ko: "형씨라면 밀크 커피 한 잔 정도는 \n공짜로 줄 수 있을 것 같아."
+  ja: |-
+    兄貴ならミルクコーヒー一杯くらい
+    ただでやってもいいぞ。
+c141_Party_Deploy_1:
+  en: All right, let's do this!
+  ko: 좋아! 싸우러 가자고!
+  ja: よっしゃ！ぶっ放しに行こうぜ！
+c141_Field_Touch_1:
+  en: What do you want me to do?
+  ko: OK. 뭘 하면 돼?
+  ja: OK。何すりゃいい？
+c141_Field_Go_1:
+  en: Setting out!
+  ko: 가자 가자!
+  ja: 行こうぜ行こうぜ！
+c141_Battle_Enter_1:
+  en: You're not going anywhere, you twerps!
+  ko: 거기 가만히 있어라 쨔샤!
+  ja: じっとしろ、このアマ！
+c141_Battle_Ready_1:
+  en: No... you're dead meat!
+  ko: 너희들 오늘 다 죽었다 생각해!
+  ja: お前らの命日は今日だ！
+c141_Battle_Ready_2:
+  en: Time to turn it up to 11!
+  ko: 한판 날뛰어 보실까!
+  ja: 一発かましてやっか！
+c141_Battle_Ready_3:
+  en: C'mon, give me all you've got!
+  ko: 한꺼번에 덤벼라 이 쨔샤들아!
+  ja: 一気にかかってこいっつーんだ！
+c141_Reload_1:
+  en: Hmph, you just wait and see.
+  ko: 칫. 기다리고 있어라, 응?
+  ja: ちっ。待ってろよ、あん？
+c141_Reload_2:
+  en: Come on, come on, come on!
+  ko: 빨리, 빨리, 빨리!
+  ja: 早く、ほら、急げ！
+c141_Reload_3:
+  en: I'm in the zone!
+  ko: 에잇 한창 좋을 때…!
+  ja: くそっ、一番いいところなのによ…！
+c141_Ult_Skill_Ready_1:
+  en: Right now!
+  ko: 지금이야!
+  ja: 今だ！
+c141_Ult_Skill_1:
+  en: Try this one on for size!
+  ko: 큰 거 한방 간다. 먹고 죽어라 이 쨔샤-!!
+  ja: |-
+    ほらほら、でっかいの行くぜ。
+    これでお陀仏しやがれ！
+c141_FullBurst_1:
+  en: Go back to hell where you belong!
+  ko: 다 같이 박살을 내버리자고!!
+  ja: 全部まとめて木っ端みじんにしてやる！！
+c141_Kill_Monster_1:
+  en: Nice!
+  ko: 나이스!
+  ja: ナイス！
+c141_Kill_Monster_2:
+  en: Hah hah!
+  ko: 하핫!
+  ja: ははは！
+c141_Kill_Monster_3:
+  en: I almost feel sorry for you... but not quite!
+  ko: 꼴좋구만!
+  ja: いいザマだ！
+c141_Damage_1:
+  en: Ow!
+  ko: 으윽!
+  ja: ううっ！
+c141_Damage_2:
+  en: Damn it.
+  ko: 젠장.
+  ja: ちくしょう。
+c141_Damage_3:
+  en: Ugh!
+  ko: 큭!
+  ja: くうっ！
+c141_Die_1:
+  en: I didn't lose! This is a tactical withdrawal.
+  ko: 진 거 아냐. 전술적 후퇴라고.
+  ja: 負けてなんかねぇ。戦術的後退だっつーの。
+c141_Win_1:
+  en: Another victory for us, thanks to me!
+  ko: 봤냐 이 쨔샤들아! 내 덕에 이긴 거라고!
+  ja: おい、お前ら！私のおかげで勝ったと思え！
+141_cv_ja:
+  en: 'CV: Mutsumi Tamura'
+  ko: 'CV : 타무라 미츠미'
+  ja: CV：田村睦心
+141_cv_ko:
+  en: 'CV: Kim Na-yul'
+  ko: 'CV : 김나율'
+  ja: CV：キム・ナユル
+141_cv_en:
+  en: 'CV: Laura Stahl'
+  ko: 'CV : 로라 스탈'
+  ja: CV：Laura Stahl

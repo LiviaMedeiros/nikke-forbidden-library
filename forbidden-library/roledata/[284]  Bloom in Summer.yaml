@@ -1,0 +1,531 @@
+---
+284_name:
+  en: 'Sakura: Bloom in Summer'
+  ko: '사쿠라 : 블룸 인 서머'
+  ja: サクラ：ブルーム・イン・サマー
+c284_description:
+  en: |-
+    The leader of Seimeikai dons a swimsuit and arrives at Coral Island for the magazine photoshoot.
+    This summer, she will stop at nothing to attain all that she desires.
+  ko: |-
+    수영복을 입은 세이메이카이의 당주.
+    코랄 아일랜드에 잡지 사진을 찍으러 나왔다.
+    이번 여름, 그녀는 원하는 것을 모두 손에 넣기 위해 행동한다.
+  ja: |-
+    水着になった清明会の当主。
+    グラビア写真を撮りにサンゴ島へ。
+    この夏、彼女は欲しいものを
+    すべて手にするために行動する。
+284_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_284:
+  en: 'Sakura: Bloom in Summer''s Spare Body'
+  ko: '사쿠라 : 블룸 인 서머 스페어 바디'
+  ja: サクラ：ブルーム・イン・サマーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+12842_name:
+  en: Full Glory
+  ko: 흐드러지다
+  ja: 競い咲き
+12842_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Dancing Flower: Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects the enemy with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Sakura Petals: Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[춤추는 꽃 : 공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 1기에게
+    <color=#00AEFF>[벚꽃잎 : <word_group=10025>최종</word_group> 공격력 {description_value_03}% 지속 대미지] [1초 간격] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「花の舞：攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に
+    <color=#00AEFF>「桜かんむり：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の持続ダメージ」「1秒間隔」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22841_name:
+  en: Bloom
+  ko: 피어나다
+  ja: 花のほころび
+22841_description:
+  en: |-
+    ■ Activates at the start of the battle. Affects self.
+    <color=#00AEFF>Forcefully uses Skill 2.</color>
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self if in Dancing Flower status.
+    <color=#00AEFF>Dancing Flower <word_group=10051>Duration ▲ {description_value_01} sec</word_group>.</color>
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all enemies who are in Sakura Petals status.
+    <color=#00AEFF>Sakura Petals <word_group=10051>Duration ▲ {description_value_04} sec</word_group>.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[스킬 2 강제 사용]</color>
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 자신이 춤추는 꽃 상태라면 자신에게
+    <color=#00AEFF>[춤추는 꽃 <word_group=10051>유지 시간 {description_value_01}초 ▲</word_group>]</color>
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 벚꽃잎 상태인 적 전체에게
+    <color=#00AEFF>[벚꽃잎 <word_group=10051>유지 시간 {description_value_04}초 ▲</word_group>]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「スキル2強制使用」</color>
+    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>、自分に
+    <color=#00AEFF>「持続ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>、自分が花の舞状態なら、自分に
+    <color=#00AEFF>「花の舞<word_group=10051>維持時間{description_value_01}秒▲</word_group>」</color>
+    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>桜かんむり状態の敵全体に
+    <color=#00AEFF>「桜かんむり<word_group=10051>維持時間{description_value_04}秒▲</word_group>」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12843_name:
+  en: Ephemeral Splendor
+  ko: 화양연화
+  ja: 花の生涯
+12843_description:
+  en: |-
+    ■ Affects random enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s).</color>
+    ■ Affects the same target(s).
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+  ko: |-
+    ■ 무작위 적들에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지] [{description_value_02}회 <word_group=10050>순차 공격</word_group>] </color>
+    ■ 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 지속 대미지] [1초 간격] [{description_value_04}중첩][{description_value_05}초 유지]</color>
+  ja: |-
+    ■ランダムの敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」「{description_value_02}回<word_group=10050>順番に攻撃</word_group>」</color>
+    ■同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の持続ダメージ」「1秒間隔」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+282_name:
+  en: Sakura
+  ko: 사쿠라
+  ja: サクラ
+281_name:
+  en: Moran
+  ko: 목단
+  ja: モラン
+280_name:
+  en: Rosanna
+  ko: 로산나
+  ja: ロザンナ
+283_name:
+  en: 'Rosanna: Chic Ocean'
+  ko: '로산나 : 시크 오션'
+  ja: ロザンナ：シックオーシャン
+c284_Lobby_Touch_1:
+  en: You don't think this is too revealing, do you?
+  ko: |-
+    노출이 너무 과하진 않았으면 좋겠는데.
+    군이 보기엔 어떠한가요?
+  ja: |-
+    過度な露出は避けたいのですが。
+    君から見て、いかがでしょう？
+c284_Lobby_Touch_2:
+  en: |-
+    The hot summer weather, the beach, even the swimsuits.
+    These are all unfamiliar to me, so I would appreciate your guidance.
+  ko: |-
+    무더운 여름, 바다. 그리고 수영복까지.
+    제게 있어 낯선 것들 뿐이니 잘 부탁드립니다.
+  ja: |-
+    暑い夏、海、そして水着。
+    私にとっては慣れないものばかりですので、お手柔らかに。
+c284_Lobby_Touch_3:
+  en: I believe this attire complements the ambiance quite well.
+  ko: 분위기에 편승해, 이런 복장을 입는 것도 나쁘진 않군요.
+  ja: 雰囲気に乗じて、このような格好をするのも悪くありませんね。
+c284_Lobby_Touch_Love_1:
+  en: Would you care to come inside? The sun is rather scorching out there.
+  ko: 햇살이 뜨거우니, 이 안에 들어오는 건 어떠신지요.
+  ja: 日差しが熱いので、この中にどうぞ。
+c284_Lobby_Touch_Love_2:
+  en: |-
+    I believe I have informed you before, but I do not have the habit of sharing what is mine.
+    Since you have entered my heart, everything of yours now belongs to me.
+  ko: |-
+    말씀드렸을 겁니다. 제 것을 남들과 나누는 취미는 없다고.
+    이 마음속에 들어온 이상, 군의 모든 것은 전부 저의 것입니다.
+  ja: |-
+    お伝えしたはずです。私のものを分け合う趣味はないと。
+    この心に入り込んだ以上、君はすべて私のものです。
+c284_Lobby_Touch_Love_3:
+  en: |-
+    When I close my eyes, memories of us together come flooding back...
+    What was your favorite part of this summer?
+  ko: |-
+    눈을 감으면, 군과 함께 쌓아 올린 추억이 하나 둘 떠오르는군요.
+    …이번 여름, 군께선 무엇이 가장 즐거우셨는지요?
+  ja: |-
+    目を閉じると、君との思い出が一つずつ思い浮かびます。
+    …この夏、君の一番の思い出は何でしたか？
+c284_Lobby_Stay_1:
+  en: After all the trouble I've gone through to prepare this outfit, you won't even
+    spare me a glance? How disheartening...
+  ko: |-
+    이런 복장까지 준비했는데, 눈길조차 없다니.
+    …섭섭하군요.
+  ja: |-
+    このような服まで用意したのに、目もくれないとは。
+    …寂しいですね。
+c284_Lobby_Stay_Love_1:
+  en: |-
+    I wonder where all those connections we made at the beach will lead to next?
+    Hehe, it's quite exciting.
+  ko: |-
+    바다에서의 인연이, 다음엔 어디로 이어질지.
+    후후, 기대되는군요.
+  ja: |-
+    海での縁が、次はどこまで続くのか…
+    ふふ、楽しみですね。
+c284_Outpost_Touch_1:
+  en: |-
+    Have you seen Moran?
+    After she looked at the photos we took at the beach, she started sulking, and I haven't seen her since.
+  ko: |-
+    혹시 목단을 보셨습니까?
+    바다에서 찍어온 사진을 보고 토라진 뒤로 보이질 않는군요.
+  ja: |-
+    モランを 見かけませんでしたか？
+    海で撮った写真を見せたら いじけてしまい、
+    それから見かけないのです。
+c284_Outpost_Touch_2:
+  en: When will we get to spend some time alone?
+  ko: 다음엔 언제 군과 단둘이 시간을 보낼지….
+  ja: 次はいつ 君と二人きりの時間を 過ごすことができるやら…
+c284_Outpost_Touch_3:
+  en: |-
+    You mentioned there was a pool here, did you not?
+    Hmm... Perhaps having it to ourselves for a day wouldn't be too egregious, would it?
+  ko: |-
+    이곳에 수영장이 있다고 했죠.
+    흠, 하루 정도는 독점하여도 괜찮지 않을까 싶군요.
+  ja: |-
+    ここにはプールが あるそうですね。
+    1日くらいは 貸し切っても よろしいでしょうか。
+c284_Gacha_Get_1:
+  en: |-
+    I've prepared an outfit perfect for welcoming the summer.
+    I hope it pleases you.
+  ko: |-
+    여름을 맞이하여 그에 어울리는 복장을 준비해 보았는데.
+    군의 마음에 들었으면 좋겠군요.
+  ja: |-
+    夏にふさわしい服装を用意してみました。
+    君に気に入っていただけると嬉しいのですが。
+c284_Reinforce_1:
+  en: Memories of the sea strengthen me.
+  ko: 바다에서의 추억은 저를 강하게 만들어주는군요.
+  ja: 海での思い出は、私を強くしてくれるのです。
+c284_Reinforce_2:
+  en: Slow but steady wins the race.
+  ko: 천천히 쌓아 올라가는 건, 언제나 옳지요.
+  ja: 時間をかけて積み上げたものは、常に正しい結果をもたらします。
+c284_Reinforce_3:
+  en: In order to have you all to myself, I must work even harder.
+  ko: 군의 모든 걸 얻을 수 있도록, 더 정진하겠습니다.
+  ja: 君のすべてを手にできるように、さらに精進してまいります。
+c284_Gift_1:
+  en: I hope your affections are directed solely at me, hehe.
+  ko: 군의 다정함이 저만을 향했으면 좋겠군요. 후후.
+  ja: 君の優しさが、私だけのものでありますように。ふふ。
+c284_Gift_2:
+  en: Every time summer rolls around, I think of you.
+  ko: 여름이 올 때마다 군이 떠오르겠군요.
+  ja: 夏が来るたびに、君のことを想うでしょう。
+c284_Gift_3:
+  en: You truly understand me.
+  ko: 군께선 언제나 저의 마음을 헤아려 주시는군요.
+  ja: 君はいつも私の気持ちを考えてくださるのですね。
+c284_Attractive_Up_1:
+  en: Our connection has deepened by leaps and bounds this summer. Even the taste
+    of tea will grow richer for me.
+  ko: |-
+    이번 여름. 군과의 인연은 비할 바 없이 진해졌으니.
+    차 맛도 한결 더 깊어지겠군요.
+  ja: |-
+    この夏。君との縁はこれまで以上に深まりました。
+    お茶の味も、いっそう深まることでしょう。
+c284_Attractive_Up_2:
+  en: Your presence always makes me feel at ease.
+  ko: 군의 존재는 언제나 절 편안하게 만들어주는군요.
+  ja: 君の存在が、いつも私を落ち着かせてくれるのです。
+c284_Attractive_Up_3:
+  en: |-
+    Please don't ever change.
+    Let me come to you.
+  ko: |-
+    언제까지고 변하지 말고 그 자리에 계셔주시길.
+    …이 사쿠라가 먼저 다가갈 테니.
+  ja: |-
+    いつまでも変わらず、その場にいてください。
+    …私から歩み寄ります。
+c284_Party_Deploy_1:
+  en: I knew you would choose me.
+  ko: 군이라면 절 선택해 주시리라 생각했습니다.
+  ja: 君ならば、私を選んでくださると思っていました。
+c284_Field_Touch_1:
+  en: Did you call?
+  ko: 군, 부르셨나요?
+  ja: 呼びましたか？
+c284_Field_Go_1:
+  en: What a lovely breeze.
+  ko: 바깥바람을 쐬는 것도 나쁘진 않군요.
+  ja: 外の風にあたるのも悪くありませんね。
+c284_Battle_Enter_1:
+  en: This time, I'll be the one supporting you.
+  ko: 군, 이번엔 제가 기댈 곳이 되어드리겠습니다.
+  ja: 今度は私が支えとなりましょう。
+c284_Battle_Ready_1:
+  en: What your heart desires, I shall make it a reality.
+  ko: 군이 원하시는 바, 제가 이루어드리죠.
+  ja: 君の望みを、私が叶えて差しあげましょう。
+c284_Battle_Ready_2:
+  en: I will fulfill my duties.
+  ko: 이 사쿠라, 소임을 다하도록 하겠습니다.
+  ja: このサクラ、役目を全ういたします。
+c284_Battle_Ready_3:
+  en: I will show you the way of the Seimeikai.
+  ko: 세이메이카이의 방식을 보여드리죠.
+  ja: 清明会のやり方をご覧に入れましょう。
+c284_Reload_1:
+  en: Don't rush it.
+  ko: 서두르지 마시지요.
+  ja: 焦りは禁物です。
+c284_Reload_2:
+  en: The heat is rising.
+  ko: 열기가 오르는군요.
+  ja: 暑くなってまいりましたね。
+c284_Reload_3:
+  en: I entrust this to you momentarily.
+  ko: 잠시 뒤를 맡기겠습니다.
+  ja: しばし、背中を預けます。
+c284_Ult_Skill_Ready_1:
+  en: Awaiting your orders.
+  ko: 군, 명령을.
+  ja: 命令を。
+c284_Ult_Skill_1:
+  en: May this radiant summer day remain beautiful.
+  ko: 여름날, 이 순간이 아름답게 남아있길.
+  ja: 夏の日のこの瞬間が、美しく刻まれますように。
+c284_FullBurst_1:
+  en: You've touched what is mine. You will pay the price.
+  ko: 저의 것을 건드린 각오는 되어있겠죠?
+  ja: 私のものに手出しするとは。覚悟はよろしいですか？
+c284_Kill_Monster_1:
+  en: That was nothing.
+  ko: 별 것 없군요.
+  ja: 大したことありませんね。
+c284_Kill_Monster_2:
+  en: Let's keep it going.
+  ko: 기세를 이어가죠.
+  ja: この勢いでまいりましょう。
+c284_Kill_Monster_3:
+  en: "... Finished."
+  ko: "…마무리."
+  ja: "…これで終わりです。"
+c284_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c284_Damage_2:
+  en: Careless.
+  ko: "…방심했군요."
+  ja: "…油断しました。"
+c284_Damage_3:
+  en: "*Cough*"
+  ko: 큭.
+  ja: くっ。
+c284_Die_1:
+  en: Was it all just memories of a midsummer night...?
+  ko: 결국, 한여름밤의 추억이었을까요….
+  ja: しょせん、真夏の夜の思い出に過ぎないのでしょうか…
+c284_Win_1:
+  en: It seems I will now be able to enjoy some quiet time with you.
+  ko: 이제 군과의 조용한 시간을 즐길 수 있겠군요.
+  ja: これで君と静かな時間を楽しめますね。
+284_cv_ja:
+  en: 'CV: Sanae Kobayashi'
+  ko: 'CV : 코바야시 사나에'
+  ja: CV：小林沙苗
+284_cv_ko:
+  en: 'CV: Choi Jeong-yoon'
+  ko: 'CV : 최정윤'
+  ja: CV：チェ・ジョンユン
+284_cv_en:
+  en: 'CV: Anjali Kunapaneni'
+  ko: 'CV : 안잘리 쿠나파네니'
+  ja: CV：Anjali Kunapaneni

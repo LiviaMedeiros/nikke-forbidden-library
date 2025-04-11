@@ -1,0 +1,477 @@
+---
+811_name:
+  en: A2
+  ko: A2
+  ja: A2
+c811_description:
+  en: |-
+    A hate-filled vortex with a painful past.
+    YoRHa No.2 Type A android.
+  ko: |-
+    [과거와 증오의 소용돌이].
+    요르하 부대 소속 A형 2호 안드로이드.
+  ja: |-
+    「過去と憎悪の、渦」
+    ヨルハ部隊所属A型二号のアンドロイド。
+811_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_811:
+  en: A2's Spare Body
+  ko: A2 스페어 바디
+  ja: A2のスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up_750:
+  en: "■ Affects target(s).\nUnleashes sword energy for an attack of large range.
+    \n<color=#00AEFF>Deals {damage}% of ATK as damage.\nCharge Time: {charge_time}
+    sec.\nFull Charge Damage: {full_charge_damage}% of damage.\nDeals {core_damage_rate}%
+    damage when attacking core.</color>"
+  ko: |-
+    ■ 대상에게
+    검기를 날려 넓은 범위를 공격합니다.
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    剣気を飛ばして広範囲を攻撃する
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+28112_name:
+  en: Slow Charge Attack
+  ko: 완충전 공격
+  ja: フルチャージ攻撃
+28112_description:
+  en: "■ Activates when hitting a target with Full Charge. Affects the target.\n<color=#00AEFF>Deals
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as additional
+    damage.</color> \n■ Activates when hitting a target with Full Charge. Affects
+    self.\n<color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_02}%
+    for {description_value_03} sec.</color>"
+  ko: |-
+    ■ 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 추가 대미지]</color>
+    ■ 풀 차지 공격 명중 시 자신에게
+    <color=#00AEFF>[<word_group=10011>파츠 대미지</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の追加ダメージ」</color>
+    ■フルチャージ攻撃が命中した時、自分に
+    <color=#00AEFF>「<word_group=10011>パーツダメージ</word_group>{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28111_name:
+  en: Output Increased
+  ko: 출력 상승
+  ja: 出力上昇
+28111_description:
+  en: "■ Activates when using Burst Skill. Affects self.\n<color=#00AEFF>Charge Damage
+    ▲ {description_value_01}% for {description_value_02} sec. \nExplosion Radius ▲
+    {description_value_03}% for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[차지 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [폭발 범위 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「チャージダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「爆発範囲{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18113_name:
+  en: Mode B
+  ko: B 모드
+  ja: Bモード
+18113_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Mode B:
+    Own HP decreases every second while ATK and Charge Speed increase. If own HP dips below {description_value_01}%, Mode B is deactivated.
+    Effect 1: Current HP ▼ {description_value_02}% every 1 sec.
+    Effect 2: ATK ▲ {description_value_03}%
+    Effect 3: Charge Speed ▲ {description_value_04}%.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[B 모드] :
+    기능 : 1초 마다 자신의 체력이 감소하는 대신 공격력과 차지 속도 증가. 자신의 체력이 {description_value_01}% 이하라면 B 모드 해제.
+    효과1 : [현재 체력 {description_value_02}% ▼] [1초 간격]
+    효과2 : [공격력 {description_value_03}% ▲]
+    효과3 : [차지 속도 {description_value_04}% ▲]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「Bモード」：
+    機能：1秒ごとに自分のHPが減少する代わりに、攻撃力とチャージ速度増加。自分のHPが{description_value_01}％以下ならBモード解除
+    効果1：「現在のHP{description_value_02}％▼」「1秒間隔」
+    効果2：「攻撃力{description_value_03}％▲」
+    効果3：「チャージ速度{description_value_04}％▲」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+810_name:
+  en: 2B
+  ko: 2B
+  ja: 2B
+c811_Lobby_Touch_1:
+  en: 'Objective: Destroy Machine Lifeforms.'
+  ko: 목적은 기계생명체를 부수는 거다.
+  ja: 目的は機械生命体をぶっ壊すことだ。
+c811_Lobby_Touch_2:
+  en: Anything to say?
+  ko: 할 말이라도 있나?
+  ja: 何か言いたいことでも？
+c811_Lobby_Touch_3:
+  en: Hey, watch the hands.
+  ko: 어이. 함부로 건들지 마.
+  ja: おい、勝手に触るな。
+c811_Lobby_Touch_Love_1:
+  en: We should handle our own affairs.
+  ko: 서로서로 할 일을 하면 되는 거야.
+  ja: それぞれやるべきことをやればいい。
+c811_Lobby_Touch_Love_2:
+  en: You guys did a great job out there.
+  ko: 너희들도 고생이 많겠어.
+  ja: お前たちも大変そうだな。
+c811_Lobby_Touch_Love_3:
+  en: If you need me for anything, just give me a shout.
+  ko: 이봐. 불렀으면 말을 해.
+  ja: おい。呼んだなら何か言え。
+c811_Lobby_Stay_1:
+  en: Don't you have anything better to do than just stand there?
+  ko: 가만히 있는 건가? 한가한 모양이군.
+  ja: |-
+    じっとしてるのか？
+    退屈そうだな。
+c811_Lobby_Stay_Love_1:
+  en: Suit yourself, I don't mind staying like this.
+  ko: |-
+    뭐, 맘대로 해.
+    이렇게 있는 것도 나쁘진 않으니까.
+  ja: |-
+    まあ、勝手にしろ。
+    こうしてるのも悪くない。
+c811_Outpost_Touch_1:
+  en: |-
+    No need for introductions.
+    I'll wander around by myself.
+  ko: |-
+    안내는 필요 없어.
+    적당히 둘러볼 테니.
+  ja: |-
+    案内はいらない。
+    適当に見て回る。
+c811_Outpost_Touch_2:
+  en: This place is quite advanced. Impressive.
+  ko: |-
+    제법 발전된 곳이네.
+    나쁘지 않아.
+  ja: |-
+    意外と発展してるな。
+    悪くない。
+c811_Outpost_Touch_3:
+  en: |-
+    Peace and quiet.
+    What a dreamy place...
+  ko: |-
+    평화롭고, 조용해.
+    이런 곳이 있다니….
+  ja: |-
+    平和で、静かだ。
+    こんな場所があったなんて…
+c811_Gacha_Get_1:
+  en: I'm A2, and I'll be joining you, although not for long.
+  ko: A2다. 잠깐뿐이겠지만 합류하도록 하지.
+  ja: |-
+    A2だ。
+    少しの間だが、合流しよう。
+c811_Reinforce_1:
+  en: Huh? My firepower is enhanced?
+  ko: 음… 출력이 올랐다고…?
+  ja: 何…？出力が上がっただと…？
+c811_Reinforce_2:
+  en: How did I get stronger?
+  ko: 무슨 원리로 강해지는 거야 이거.
+  ja: どういう原理で強くなってるんだ？
+c811_Reinforce_3:
+  en: Now I can wreak as much havoc as I like.
+  ko: 좀 더 맘껏 부술 수 있겠어.
+  ja: 思う存分、壊せそうだ。
+c811_Gift_1:
+  en: What's this? I suppose I'll accept it for now.
+  ko: 음? 일단… 받아두지.
+  ja: ん？とりあえず…受け取ろう。
+c811_Gift_2:
+  en: You don't have some ulterior motive, do you?
+  ko: 다른 꿍꿍이가 있는 건 아니겠지?
+  ja: 何か企んでるわけじゃないよな？
+c811_Gift_3:
+  en: I don't know what exactly this is... but thank you anyway.
+  ko: 이게 뭔지는 잘 모르겠지만… 잘 쓰겠어.
+  ja: |-
+    これが何かよく分からないが…
+    使わせてもらおう。
+c811_Attractive_Up_1:
+  en: You're a better person than I thought.
+  ko: 생각보다 좋은 녀석이네, 너.
+  ja: 思ったよりいい奴だな、お前。
+c811_Attractive_Up_2:
+  en: I will return the favor, you'll see.
+  ko: 신세는 반드시 갚겠어.
+  ja: 借りは必ず返す。
+c811_Attractive_Up_3:
+  en: Hey, don't die on me.
+  ko: 이봐. 죽지 마.
+  ja: おい、死ぬなよ。
+c811_Party_Deploy_1:
+  en: Leave the fighting to me.
+  ko: 전투인가? 나한테 맡겨.
+  ja: 戦闘か？任せろ。
+c811_Field_Touch_1:
+  en: What?
+  ko: 왜?
+  ja: なんだ？
+c811_Field_Go_1:
+  en: Don't tell me what to do.
+  ko: 나한테 명령하지 마.
+  ja: 私に命令するな。
+c811_Battle_Enter_1:
+  en: I will destroy them all.
+  ko: 다 부숴주겠어.
+  ja: すべてぶっ壊してやる。
+c811_Battle_Ready_1:
+  en: I demand satisfaction!
+  ko: 나를 만족시켜봐.
+  ja: 私を満足させてみろ。
+c811_Battle_Ready_2:
+  en: Come, let's get started.
+  ko: 자, 시작하지.
+  ja: さぁ、始めよう。
+c811_Battle_Ready_3:
+  en: Don't break down too fast.
+  ko: 바로 부서지진 말아줘.
+  ja: すぐに壊れないでくれよ？
+c811_Reload_1:
+  en: Sorry, one moment.
+  ko: 미안, 잠시만 부탁해.
+  ja: 悪い、少しの間頼んだぞ。
+c811_Reload_2:
+  en: What a nuisance.
+  ko: 번거롭네 이거.
+  ja: 面倒だな、これ。
+c811_Reload_3:
+  en: We right back with you in a second.
+  ko: 곧 재합류 한다.
+  ja: すぐ戻る。
+c811_Ult_Skill_Ready_1:
+  en: Time to end this.
+  ko: 금방 끝내주겠어.
+  ja: 一瞬で終わらせてやる。
+c811_Ult_Skill_1:
+  en: Mode B activated!
+  ko: B 모드!
+  ja: Bモード！
+c811_FullBurst_1:
+  en: Destroy them all!
+  ko: 다 부숴버려!
+  ja: ぶっ壊してやる！
+c811_Kill_Monster_1:
+  en: Is that all you got?
+  ko: 이 정도인가?
+  ja: こんなものか。
+c811_Kill_Monster_2:
+  en: Phew...
+  ko: 후….
+  ja: ふぅ……
+c811_Kill_Monster_3:
+  en: Next.
+  ko: 다음.
+  ja: 次だ。
+c811_Damage_1:
+  en: Uh! Tsk.
+  ko: 큿!
+  ja: くっ！
+c811_Damage_2:
+  en: Damn!
+  ko: 젠장!
+  ja: くそっ！
+c811_Damage_3:
+  en: Ugh!
+  ko: 칫!
+  ja: ちぃっ！
+c811_Die_1:
+  en: They caught me with my guard down... retreat.
+  ko: 방심했나…. 퇴각한다.
+  ja: 油断したか…退却だ。
+c811_Win_1:
+  en: Is that all?
+  ko: 이걸로 끝인가?
+  ja: これで終わりか？
+811_cv_ja:
+  en: 'CV: Ayaka Suwa'
+  ko: 'CV : 스와 아야카'
+  ja: CV：諏訪彩花
+811_cv_ko:
+  en: 'CV: Ayaka Suwa'
+  ko: 'CV : 스와 아야카'
+  ja: CV：諏訪彩花
+811_cv_en:
+  en: 'CV: UNKNOWN'
+  ko: 'CV : UNKNOWN'
+  ja: CV：UNKNOWN

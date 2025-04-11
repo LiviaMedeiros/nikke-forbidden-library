@@ -1,0 +1,2832 @@
+---
+event_nocallerid_prologue:
+  event_nocallerid_prologue_1:
+    speaker: skinnyman
+    en: Have you heard?
+    ko: 너 그 소문 알아?
+    ja: あの噂知ってる？
+  event_nocallerid_prologue_2:
+    speaker: fancywoman
+    en: Heard what?
+    ko: 무슨 소문?
+    ja: 何の噂？
+  event_nocallerid_prologue_3:
+    speaker: skinnyman
+    en: Rumor is there are people still left up on the surface.
+    ko: 지상에 사람이 남아있다는 얘기.
+    ja: 地上に人が残ってるって噂。
+  event_nocallerid_prologue_4:
+    speaker: fancywoman
+    en: Don't be ridiculous.
+    ko: 뭔 헛소리야.
+    ja: 何を言ってるの。
+  event_nocallerid_prologue_5:
+    speaker: skinnyman
+    en: Apparently, if you wait until 11 PM,
+    ko: 밤 11시에 이쯤에서 핸드폰을 들고 있으면.
+    ja: 夜の11時に、ここら辺で携帯を持っていると、
+  event_nocallerid_prologue_6:
+    speaker: skinnyman
+    en: you'll get a voice message on your phone. It's happened to over 10 people
+      already.
+    ko: |-
+      지상에서 음성 메시지가 날아온대.
+      벌써 열몇 명이 받아봤다더라.
+    ja: |-
+      地上から音声メッセージが届くんだって。
+      もう10人以上が受け取ってるらしいよ。
+  event_nocallerid_prologue_7:
+    speaker: fancywoman
+    en: No kidding. Is that why you're here? I was wondering why you weren't heading
+      inside.
+    ko: |-
+      아~ 그래서 여기 온 거야?
+      난 또 왜 이렇게 안 들어가나 했네.
+    ja: |-
+      ああ、それでここに来たんだね。
+      どうりで入らないわけだわ。
+  event_nocallerid_prologue_8:
+    speaker: skinnyman
+    en: Aren't you curious?
+    ko: 안 궁금해?
+    ja: 気にならない？
+  event_nocallerid_prologue_9:
+    speaker: fancywoman
+    en: Sure I am.
+    ko: "…궁금하긴 하네."
+    ja: "…気にはなるけど。"
+  event_nocallerid_prologue_10:
+    speaker: skinnyman
+    en: Let's give it shot, then.
+    ko: 그럼 한다.
+    ja: じゃあ、やるぞ。
+  event_nocallerid_prologue_11:
+    speaker: Narration
+    en: The man lifted his cellphone high up to the sky.
+    ko: 남자는 하늘 높이 핸드폰을 들었다.
+    ja: 男は携帯を高く掲げた
+  event_nocallerid_prologue_12:
+    speaker: skinnyman
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_prologue_13:
+    speaker: fancywoman
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_prologue_14:
+    speaker: skinnyman
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_prologue_15:
+    speaker: fancywoman
+    en: You look ridiculous. How long do you plan on...
+    ko: |-
+      푸훗! 진짜 바보 같다.
+      언제까지 그러고 있을….
+    ja: |-
+      ぷっ！本当、バカみたい。
+      いつまでそうやって…
+  event_nocallerid_prologue_16:
+    speaker: Narration
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  event_nocallerid_prologue_17:
+    speaker: fancywoman
+    en: Huh?
+    ko: 어?
+    ja: あれ？
+  event_nocallerid_prologue_18:
+    speaker: skinnyman
+    en: I got something!
+    ko: "…진짜 왔어."
+    ja: "…本当に届いた。"
+  event_nocallerid_prologue_19:
+    speaker: fancywoman
+    en: F-from the surface?
+    ko: 지, 지상에서 온 거야?
+    ja: ち、地上から来たの？
+  event_nocallerid_prologue_20:
+    speaker: skinnyman
+    en: I-I don't know.
+    ko: 나, 나야 모르지.
+    ja: そ、それは知らないよ。
+  event_nocallerid_prologue_21:
+    speaker: fancywoman
+    en: Let's listen to it.
+    ko: 들어보자 들어보자.
+    ja: 早く聞いてみましょう。
+  event_nocallerid_prologue_22:
+    speaker: Narration
+    en: The man's hands tremble as he goes to check the voice message.
+    ko: 남자는 떨리는 손으로 음성 메시지를 확인했다.
+    ja: 男は震える手で音声メッセージを確認した
+  event_nocallerid_prologue_23:
+    speaker: Narration
+    en: Amongst heavy static, a short voice message can be heard.
+    ko: 지직거리는 소리와 함께, 짧은 음성이 들려왔다.
+    ja: ノイズとともに、短い音声が聞こえる
+  event_nocallerid_prologue_24:
+    speaker: Narration
+    en: "[-----Everyone gathers.]"
+    ko: "[-----모두 모여라]"
+    ja: "「――みんな集まれ」"
+  event_nocallerid_prologue_25:
+    speaker: Narration
+    en: "[This place----------paradise.]"
+    ko: "[이곳----------낙원]"
+    ja: "「ここ――楽園」"
+event_nocallerid_01_s:
+  event_nocallerid_01_s_1:
+    speaker: Narration
+    en: "[-----Everyone gathers.][This place----------paradise.]"
+    ko: "[-----모두 모여라] [이곳----------낙원]"
+    ja: "「――みんな集まれ」「ここ――楽園」"
+  event_nocallerid_01_s_2:
+    speaker: andersen
+    en: For the past few days, a select few have been receiving this message on their
+      cellphones.
+    ko: |-
+      …이것이 요즘 방주에서 특정한 조건 만족 시
+      핸드폰으로 전송된다는 음성 메시지일세.
+    ja: |-
+      …これが最近、アークで特定の条件を満たすと
+      携帯に届くという音声メッセージだ。
+  event_nocallerid_01_s_3:
+    speaker: andersen
+    en: Rumors are starting to spread. People say they're being sent by a survivor
+      up on the surface.
+    ko: 지상의 생존자가 보낸다는 소문이 나돌고 있지.
+    ja: |-
+      地上の生存者が送っているとの
+      噂が広まっている。
+  event_nocallerid_01_s_4:
+    speaker: anis
+    en: Give me a break. This is grade school level pranking.
+    ko: |-
+      에이 이게 뭐야.
+      이런 장난은 나도 칠 수 있겠다.
+    ja: もう、こんなイタズラ、私でもできるよ。
+  event_nocallerid_01_s_5:
+    speaker: anis
+    en: People actually believe this could be from the surface? How gullible can you
+      get...
+    ko: |-
+      이게 진짜 지상에서 온 거라고 믿는 인간이 있단 말이야?
+      세상 참 재미있게 사는….
+    ja: |-
+      これを本当に地上からのメッセージだと
+      信じる人間がいるの？それはおめでたい…
+  event_nocallerid_01_s_6:
+    speaker: andersen
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_01_s_7:
+    speaker: anis
+    en: "... Was it something I said?"
+    ko: 어… 뭐야.
+    ja: え…何これ。
+  event_nocallerid_01_s_8:
+    speaker: rapi
+    en: This message wasn't sent from inside the Ark.
+    ko: "…방주에서 발신된 음성 메시지가 아니군요."
+    ja: |-
+      …アークから発信された
+      音声メッセージではありませんね。
+  event_nocallerid_01_s_9:
+    speaker: andersen
+    en: That's right.
+    ko: 그렇다네.
+    ja: そうだ。
+  event_nocallerid_01_s_10:
+    speaker: andersen
+    en: There's no doubt about it. This came from the surface.
+    ko: 이 음성 메시지의 발신원은 명백히 지상일세.
+    ja: この音声メッセージの発信源は明らかに地上だ。
+  event_nocallerid_01_s_11:
+    speaker: neon
+    en: Wow...
+    ko: "…우와."
+    ja: "…うわ。"
+  event_nocallerid_01_s_12:
+    speaker: andersen
+    en: We're fairly sure we pinpointed the location it was sent from.
+    ko: 정확하진 않지만 발신 지역은 어느 정도 확정되었네.
+    ja: 正確ではないが、発信地はある程度絞ってある。
+  event_nocallerid_01_s_13:
+    speaker: andersen
+    en: I want you to go there and investigate.
+    ko: 그러니 자네가 그곳을 조사해 줬으면 하네.
+    ja: だから、君がそこを調査してくれたまえ。
+  event_nocallerid_01_s_14:
+    speaker: Self
+    en: What exactly are we looking for?
+    ko: 무엇을 조사하면 됩니까?
+    ja: 何を調査すればいいのですか？
+  event_nocallerid_01_s_15:
+    speaker: andersen
+    en: Confirm whether there are any survivors out there.
+    ko: 정말 생존자가 있는지를 조사해 주면 되겠지.
+    ja: 本当に生存者がいるかどうか。
+  event_nocallerid_01_s_16:
+    speaker: Self
+    en: What then?
+    ko: 그다음엔?
+    ja: その後は？
+  event_nocallerid_01_s_17:
+    speaker: andersen
+    en: That depends on what your investigation turns up.
+    ko: 그건 조사 결과에 따라 달라지게 되네.
+    ja: それは調査の結果によって変わってくる。
+  event_nocallerid_01_s_18:
+    speaker: andersen
+    en: If there's anyone remaining on the surface,
+    ko: 만약. 정말 만에 하나라도 생존자가 있다면.
+    ja: もし、本当にもしも、生存者がいるなら。
+  event_nocallerid_01_s_19:
+    speaker: andersen
+    en: the Ark will have to come up with a new policy.
+    ko: 방주는 새로운 정책을 내놓아야 할 테니 말일세.
+    ja: |-
+      アークは新しい政策を
+      打ち出す必要があるからな。
+  event_nocallerid_01_s_20:
+    speaker: neon
+    en: Officially, the number of people left on the surface is 0, right?
+    ko: 공식적으로 지상에 남은 사람의 수는 0명이었죠?
+    ja: 公的には地上に残った人の数は0人ですよね？
+  event_nocallerid_01_s_21:
+    speaker: andersen
+    en: That's right. There's a lot riding on this, more than you can imagine.
+    ko: |-
+      그렇다네.
+      그러니 이 일은 자네들이 생각하는 것 이상으로 온도가 높아.
+    ja: |-
+      そうだ。だからこの任務は
+      君たちが思っている以上に重要だ。
+  event_nocallerid_01_s_22:
+    speaker: andersen
+    en: For some reason, this rumor is spreading quickly on the Ark.
+    ko: 방주에 이 소문이 이상할 정도로 빠르게 퍼지고 있어.
+    ja: |-
+      この噂がアークに異常なスピードで
+      広まっている。
+  event_nocallerid_01_s_23:
+    speaker: andersen
+    en: The Central Government is demanded to publish the truth,
+    ko: 중앙 정부에 진실을 요구하고 있지.
+    ja: みんな中央政府に真実を求めているのだ。
+  event_nocallerid_01_s_24:
+    speaker: andersen
+    en: and I have to give them something. In order to do that, I need to launch an
+      investigation.
+    ko: |-
+      그들에게 답을 내줘야 하네.
+      그러기 위해선 조사가 필요하고.
+    ja: |-
+      彼らに答えなくてはいけない。
+      そのためには調査が必要だ。
+  event_nocallerid_01_s_25:
+    speaker: Self
+    en: Understood.
+    ko: 알겠습니다.
+    ja: 承知しました
+  event_nocallerid_01_s_26:
+    speaker: andersen
+    en: Watch your back out there.
+    ko: 그럼 부탁하겠네.
+    ja: では、よろしく頼む。
+  event_nocallerid_01_s_27:
+    speaker: rapi
+    en: Surface entry complete. Moving towards the marked location.
+    ko: |-
+      지상 도착 완료.
+      엔더슨 부사령관이 제공한 좌표로 이동하겠습니다.
+    ja: |-
+      地上に到着。
+      アンダーソン副司令官から
+      受け取った座標へ移動します。
+  event_nocallerid_01_s_28:
+    speaker: neon
+    en: How long will it take?
+    ko: 얼마나 걸릴까요?
+    ja: どれくらいかかりますかね？
+  event_nocallerid_01_s_29:
+    speaker: rapi
+    en: We'll arrive before the night is out.
+    ko: 별일이 없다면 오늘 중에 도착할거야.
+    ja: |-
+      問題がなければ今日中には
+      到着するわ。
+  event_nocallerid_01_s_30:
+    speaker: anis
+    en: If there aren't any nasty surprises, that is.
+    ko: 별일이 없다면 말이지.
+    ja: 問題がなければね。
+  event_nocallerid_01_s_31:
+    speaker: Self
+    en: Let's go.
+    ko: 출발하자.
+    ja: 出発しよう
+  event_nocallerid_01_s_32:
+    speaker: rapi
+    en: Roger.
+    ko: 라져.
+    ja: ラジャー。
+  event_nocallerid_01_s_33:
+    speaker: neon
+    en: Should we run there? I'm so curious.
+    ko: |-
+      저희 뛰어갈까요?
+      엄청 궁금한데.
+    ja: |-
+      走って行きましょうか？
+      すごく気になるんです！
+  event_nocallerid_01_s_34:
+    speaker: anis
+    en: It might be possible if you carry the Commander.
+    ko: 네가 지휘관님을 업으면 가능할걸.
+    ja: |-
+      あなたが指揮官様をおんぶするなら
+      走って行けるかもね。
+  event_nocallerid_01_s_35:
+    speaker: neon
+    en: Oh... forget it then. Master is too heavy for that. Let's just walk.
+    ko: |-
+      아, 그건 싫어요. 스승님 무거우니까.
+      걸어가죠 우리.
+    ja: |-
+      あ、それはイヤです。
+      師匠重いですもん。
+      歩いて行きましょう。
+  event_nocallerid_01_s_36:
+    speaker: rapi
+    en: Move out.
+    ko: "…가자."
+    ja: "…行こう。"
+event_nocallerid_01_e:
+  event_nocallerid_01_e_1:
+    speaker: rapi
+    en: "... Huh?"
+    ko: "…음?"
+    ja: "…ん？"
+  event_nocallerid_01_e_2:
+    speaker: anis
+    en: What's wrong?
+    ko: 왜 그래?
+    ja: どうしたの？
+  event_nocallerid_01_e_3:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_01_e_4:
+    speaker: neon
+    en: Does your stomach hurt?
+    ko: 배 아프신가요?
+    ja: お腹が痛いんですか？
+  event_nocallerid_01_e_5:
+    speaker: rapi
+    en: I just got a voice message.
+    ko: 음성 메시지가 왔어.
+    ja: 音声メッセージが来た。
+  event_nocallerid_01_e_6:
+    speaker: anis
+    en: What does it say?
+    ko: "…내용은?"
+    ja: "…内容は？"
+  event_nocallerid_01_e_7:
+    speaker: rapi
+    en: Hold on.
+    ko: 잠깐만.
+    ja: 確認してみる。
+  event_nocallerid_01_e_8:
+    speaker: Narration
+    en: "[-----Everyone gathers.]"
+    ko: "[-----모두 모여라]"
+    ja: "「――みんな集まれ」"
+  event_nocallerid_01_e_9:
+    speaker: Narration
+    en: "[This place----------paradise.]"
+    ko: "[이곳----------낙원]"
+    ja: "「ここ――楽園」"
+  event_nocallerid_01_e_10:
+    speaker: anis
+    en: Same as what we heard before...
+    ko: 내용은 똑같은데….
+    ja: 内容は同じだけど…
+  event_nocallerid_01_e_11:
+    speaker: neon
+    en: Is it just me, or does it sound clearer?
+    ko: 소리가 좀 선명해진 것 같은데, 기분 탓일까요?
+    ja: |-
+      何か音声が鮮明になった気がします、
+      気のせいでしょうか？
+  event_nocallerid_01_e_12:
+    speaker: Self
+    en: It's definitely easier to make out.
+    ko: 아니. 확실히 선명해졌어.
+    ja: いや。確かに鮮明になってきてる
+  event_nocallerid_01_e_13:
+    speaker: rapi
+    en: There's less static.
+    ko: 예. 노이즈가 적어졌습니다.
+    ja: はい、ノイズが少なくなりました。
+  event_nocallerid_01_e_14:
+    speaker: rapi
+    en: That means we're heading in the right direction.
+    ko: 제대로 된 방향이라는 얘기겠죠.
+    ja: この方向で合っているという証拠でしょう。
+  event_nocallerid_01_e_15:
+    speaker: Self
+    en: Let's keep going.
+    ko: 계속 가자.
+    ja: どんどん進むぞ
+  event_nocallerid_01_e_16:
+    speaker: rapi
+    en: Yes, Commander.
+    ko: 라져.
+    ja: ラジャー。
+event_nocallerid_02_s:
+  event_nocallerid_02_s_1:
+    speaker: neon
+    en: I'm curious about something.
+    ko: 저 궁금한 게 있어요.
+    ja: 私、聞きたいことがあります。
+  event_nocallerid_02_s_2:
+    speaker: anis
+    en: Save it. You don't have to know everything.
+    ko: |-
+      참아.
+      세상 모든 일을 알 수는 없는 거야.
+    ja: |-
+      我慢して。世の中のすべてのことを
+      知ることは出来ないから。
+  event_nocallerid_02_s_3:
+    speaker: neon
+    en: You're reacting too strongly to a voice message.
+    ko: 음성 메시지 하나에 너무 크게 움직이는 거 아닌가요?
+    ja: |-
+      音声メッセージ1つに
+      振り回され過ぎじゃないですか？
+  event_nocallerid_02_s_4:
+    speaker: anis
+    en: Then, what should I do?
+    ko: 작게 움직일까 그럼.
+    ja: 仕方ないでしょう。
+  event_nocallerid_02_s_5:
+    speaker: rapi
+    en: Commander, I'm seeing a building ahead of us.
+    ko: 지휘관. 전방에 건물이 보입니다.
+    ja: 指揮官、前方に建物が見えます。
+  event_nocallerid_02_s_6:
+    speaker: "<Choice>"
+    en: Let's listen to Neon.
+    ko: 네온 얘기를 좀 들어줘.
+    ja: ネオンの話を聞いてあげよう
+  event_nocallerid_02_s_7:
+    speaker: "<Choice>"
+    en: "...Let's have a conversation about one thing."
+    ko: "…대화 주제를 좀 통일하자."
+    ja: "…話題を統一しよう"
+  event_nocallerid_02_s_8:
+    speaker: neon
+    en: I was the first to speak,
+    ko: 그럼 제가 꺼낸 얘기로 통일하죠.
+    ja: じゃあ、私の話に統一しましょう。
+  event_nocallerid_02_s_9:
+    speaker: neon
+    en: so let's talk about what I'm curious about.
+    ko: 제가 제일 먼저 말했으니까요.
+    ja: 私が一番先に言い出したんですから。
+  event_nocallerid_02_s_10:
+    speaker: Self
+    en: I'm curious too.
+    ko: 나도 궁금해.
+    ja: 私も気になる
+  event_nocallerid_02_s_11:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_02_s_12:
+    speaker: rapi
+    en: During the 1st Rapture Invasion, the entire human race fled to the Ark.
+    ko: 1차 랩쳐 침공 때 지상의 인류는 방주로 이동했습니다.
+    ja: |-
+      第一次ラプチャー侵攻の際
+      地上の人類はアークに移動しました。
+  event_nocallerid_02_s_13:
+    speaker: rapi
+    en: In the decades that followed,
+    ko: 그 후 수십 년이 지났죠.
+    ja: それから数十年が過ぎています。
+  event_nocallerid_02_s_14:
+    speaker: rapi
+    en: the Rapture laid waste to mankind's old home.
+    ko: 그 긴 시간 동안 랩쳐는 가만히 있지 않았습니다.
+    ja: |-
+      その長い年月の間、ラプチャーは
+      じっとしてはいませんでした。
+  event_nocallerid_02_s_15:
+    speaker: rapi
+    en: They've demolished all the significant landmarks, and slaughtered all the
+      humans left on the surface.
+    ko: |-
+      지상의 문명을 파괴하고,
+      지상에 남은 인간을 죽였습니다.
+    ja: |-
+      地上の文明を破壊し
+      地上に残った人間を殺しました。
+  event_nocallerid_02_s_16:
+    speaker: anis
+    en: They operated with incredible precision. Especially when it came to killing
+      humans.
+    ko: |-
+      집요할 정도였다고 해.
+      특히나 인간을 죽이는 일에는.
+    ja: |-
+      執拗だったそうよ。
+      特に人間を殺すことには。
+  event_nocallerid_02_s_17:
+    speaker: anis
+    en: On the surface, there may be a chance of coming across some old knick-knacks
+      or settlements,
+    ko: 시설이나 자재나 뭐 이런 것들은 아직 지상에 남아있는 경우가 많아.
+    ja: 施設や資材はまだ地上に残っているものも多い。
+  event_nocallerid_02_s_18:
+    speaker: anis
+    en: but the Raptures didn't leave a single human alive.
+    ko: 하지만 인간은 단 하나도 남겨두지 않았지.
+    ja: でも、人間は1人も見逃さなかった。
+  event_nocallerid_02_s_19:
+    speaker: neon
+    en: But the surface is a big place, isn't it?
+    ko: 그런데 지상은 엄청 넓잖아요?
+    ja: でも、地上はすごく広いでしょう？
+  event_nocallerid_02_s_20:
+    speaker: neon
+    en: It'd be impossible to search every nook and cranny.
+    ko: 한 명도 남지 않았다는 걸 어떻게 아나요?
+    ja: |-
+      1人も残っていないということは
+      どうやって分かったんですか？
+  event_nocallerid_02_s_21:
+    speaker: neon
+    en: How can you be so sure there aren't any survivors?
+    ko: 구석구석 수색하진 못 했을 것 같은데.
+    ja: 隅々まで捜索することは無理だと思いますけど。
+  event_nocallerid_02_s_22:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_02_s_23:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_02_s_24:
+    speaker: Self
+    en: "... So you've decided."
+    ko: "…그렇게 결정한 거군."
+    ja: "…そう決めたんだろう"
+  event_nocallerid_02_s_25:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_02_s_26:
+    speaker: anis
+    en: "... Mm."
+    ko: "…응."
+    ja: "…うん。"
+  event_nocallerid_02_s_27:
+    speaker: rapi
+    en: The surface is crawling with Raptures. We couldn't possibly comb every inch
+      of it.
+    ko: |-
+      지상은 랩쳐들로 들끓고 있습니다.
+      수색이 여의치 않죠.
+    ja: |-
+      地上はラプチャーでごった返しています。
+      捜索は容易ではありません。
+  event_nocallerid_02_s_28:
+    speaker: rapi
+    en: However, that didn't stop us from trying. For decades, we sent out search
+      parties,
+    ko: |-
+      그렇다고 포기한 적은 없습니다.
+      수십 년 동안 수색 작전이 지속 전개되었습니다만.
+    ja: |-
+      だからといって諦めたわけではありません。
+      捜索作戦は継続的に進められましたが、
+  event_nocallerid_02_s_29:
+    speaker: rapi
+    en: but not a single living human was ever found. Not one.
+    ko: |-
+      살아있는 인간은 발견하지 못했습니다.
+      단 한 명도.
+    ja: |-
+      生きている人間は発見できませんでした。
+      1人も。
+  event_nocallerid_02_s_30:
+    speaker: anis
+    en: Not only that, we never received any distress signals.
+    ko: |-
+      그리고 단 한 번의 구조 신호도 오지 않았어.
+      그 흔적조차 없었고.
+    ja: |-
+      そして救助信号が届いたことも1回もない。
+      痕跡すらなかった。
+  event_nocallerid_02_s_31:
+    speaker: anis
+    en: So, the Central Government made an official statement.
+    ko: 그래서 중앙 정부는 공식 발표를 했어.
+    ja: だから中央政府は公式発表をしたの。
+  event_nocallerid_02_s_32:
+    speaker: anis
+    en: They claimed there were no survivors on the surface, and called off any further
+      searches.
+    ko: |-
+      지상의 생존자는 0명이다.
+      앞으로의 생존자 수색 작전은 전면 중지. 라고.
+    ja: |-
+      地上の生存者は0人。
+      今後、生存者の捜索作戦は全面的に中止すると。
+  event_nocallerid_02_s_33:
+    speaker: neon
+    en: So it's unprecedented to be receiving a voice message like this.
+    ko: 그럼 이번처럼 음성 메시지가 온 것이 처음이라는 얘기군요.
+    ja: |-
+      じゃあ、今回のように音声メッセージが
+      届いたのは初めてってことですね。
+  event_nocallerid_02_s_34:
+    speaker: anis
+    en: Exactly.
+    ko: 그렇지.
+    ja: そうね。
+  event_nocallerid_02_s_35:
+    speaker: neon
+    en: Okay, now I understand.
+    ko: 음. 이해했어요.
+    ja: ふむ、理解しました。
+  event_nocallerid_02_s_36:
+    speaker: Self
+    en: I just hope we can find some survivors.
+    ko: 생존자를 찾을 수 있으면 좋겠군.
+    ja: 生存者が見つかったらいいな
+  event_nocallerid_02_s_37:
+    speaker: rapi
+    en: Likewise.
+    ko: 예.
+    ja: はい。
+  event_nocallerid_02_s_38:
+    speaker: anis
+    en: Me too.
+    ko: "…그러게."
+    ja: "…そうね。"
+event_nocallerid_02_e:
+  event_nocallerid_02_e_1:
+    speaker: Narration
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  event_nocallerid_02_e_2:
+    speaker: rapi
+    en: Commander, I've just received another voice message.
+    ko: "…지휘관. 또 음성 메시지가 왔습니다."
+    ja: "…指揮官。また音声メッセージが届きました。"
+  event_nocallerid_02_e_3:
+    speaker: Narration
+    en: "[-----Everyone gathers.]"
+    ko: "[-----모두 모여라]"
+    ja: "「――みんな集まれ」"
+  event_nocallerid_02_e_4:
+    speaker: Narration
+    en: "[This place----------paradise.]"
+    ko: "[이곳----------낙원]"
+    ja: "「ここ――楽園」"
+  event_nocallerid_02_e_5:
+    speaker: Narration
+    en: "[-----Country.]"
+    ko: "[------나라]"
+    ja: "「――国」"
+  event_nocallerid_02_e_6:
+    speaker: Self
+    en: Country?
+    ko: 나라?
+    ja: 国？
+  event_nocallerid_02_e_7:
+    speaker: anis
+    en: I had my suspicions from the start, but now I'm more certain.
+    ko: "…사실 처음부터 신경 쓰였었는데."
+    ja: "…実は、最初から気になってたんだけど。"
+  event_nocallerid_02_e_8:
+    speaker: anis
+    en: Doesn't this sound like a broadcast directed to any survivors on the surface?
+    ko: 이거 지상에 있는 생존자들을 부르는 방송 같지?
+    ja: |-
+      これ、地上にいる生存者を
+      集める放送みたいじゃない？
+  event_nocallerid_02_e_9:
+    speaker: rapi
+    en: Yeah. It sounds like it's calling people to a specific location.
+    ko: 응. 특정 장소로 인도하는 방송인 것 같아.
+    ja: ええ、特定の場所に導く放送みたい。
+  event_nocallerid_02_e_10:
+    speaker: neon
+    en: That means
+    ko: 엇 그럼.
+    ja: あっ、ということは。
+  event_nocallerid_02_e_11:
+    speaker: neon
+    en: there might be a settlement full of survivors!
+    ko: 생존자분들의 마을이 있을 수도 있겠네요!
+    ja: 生存者たちの村があるかもしれませんね！
+  event_nocallerid_02_e_12:
+    speaker: anis
+    en: Why an entire settlement?
+    ko: "…마을."
+    ja: "…村。"
+  event_nocallerid_02_e_13:
+    speaker: neon
+    en: If they're capable of broadcasting messages, they must have a somewhat decent
+      infrastructure. Besides, they just said 'country'.
+    ko: |-
+      예! 방송을 할 정도면 규모가 크다는 얘기고,
+      방금 나라라고 했잖아요!
+    ja: |-
+      はい！放送をするくらいなら
+      ある程度規模があるってことだし、
+      さっき国って言ったじゃないですか！
+  event_nocallerid_02_e_14:
+    speaker: neon
+    en: It's 100% a settlement.
+    ko: 이건 100% 마을인데요!
+    ja: これは100％村です！
+  event_nocallerid_02_e_15:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_02_e_16:
+    speaker: anis
+    en: You might be right.
+    ko: 뭐, 그럴 수도 있겠네.
+    ja: まあ、そうかもしれないね。
+  event_nocallerid_02_e_17:
+    speaker: neon
+    en: Anis remains subdued.
+    ko: 아니스는 영 반응이 시큰둥하네요.
+    ja: アニスはあまり嬉しそうじゃないですね。
+  event_nocallerid_02_e_18:
+    speaker: anis
+    en: I'm not getting my hopes up.
+    ko: 난 기대 안 해.
+    ja: 私は期待しない。
+  event_nocallerid_02_e_19:
+    speaker: anis
+    en: It'll only lead to disappointment.
+    ko: 기대하면 그만큼 실망도 커지는 법이니까.
+    ja: 期待するとそれだけ失望も大きくなるから。
+  event_nocallerid_02_e_20:
+    speaker: Self
+    en: I still have hope.
+    ko: 그래도 난 기대할 거야.
+    ja: それでも私は期待したい
+  event_nocallerid_02_e_21:
+    speaker: neon
+    en: Me, too.
+    ko: 저도요.
+    ja: 私もです。
+event_nocallerid_intermission_01:
+  event_nocallerid_intermission_01_1:
+    speaker: rapi
+    en: Commander. The sun is setting faster than expected.
+    ko: |-
+      지휘관.
+      예상했던 것보다 해가 빨리 지고 있습니다.
+    ja: |-
+      指揮官。
+      予想よりも日が早く落ちています。
+  event_nocallerid_intermission_01_2:
+    speaker: rapi
+    en: This would be a perfect spot to set up camp. The hill will be to our backs,
+      so we'll only need to watch the front.
+    ko: |-
+      오늘은 이쯤에서 야영하시죠.
+      절벽을 등진다면 경계해야 할 곳이 정면뿐이라 야영에 적합합니다.
+    ja: |-
+      今日はここら辺で野営しましょう。
+      絶壁の前なら警戒すべき方向は
+      正面だけなので、野営に向いています。
+  event_nocallerid_intermission_01_3:
+    speaker: Self
+    en: Understood.
+    ko: 알겠어.
+    ja: 分かった
+  event_nocallerid_intermission_01_4:
+    speaker: anis
+    en: I'll go set up some decoys.
+    ko: 그럼 난 데코이를 뿌리고 올게.
+    ja: じゃあ、私はデコイを撒いておくね。
+  event_nocallerid_intermission_01_5:
+    speaker: neon
+    en: I'll come with you.
+    ko: 저도 같이 가요.
+    ja: 一緒に行きましょう。
+  event_nocallerid_intermission_01_6:
+    speaker: rapi
+    en: Okay, thanks.
+    ko: 응. 부탁할게.
+    ja: うん、お願い。
+  event_nocallerid_intermission_01_7:
+    speaker: Narration
+    en: Anis and Neon went to set up the decoys.
+    ko: 아니스와 네온이 데코이를 뿌리기 위해 이동했다.
+    ja: アニスとネオンがデコイを撒くために移動した
+  event_nocallerid_intermission_01_8:
+    speaker: rapi
+    en: The temperature and humidity look ideal.
+    ko: 온도와 습도는 괜찮아 보이는군요.
+    ja: 温度と湿度はよさそうですね。
+  event_nocallerid_intermission_01_9:
+    speaker: rapi
+    en: Let me know if you're not comfortable.
+    ko: 혹시 춥거나 더우시면 말씀하십쇼.
+    ja: 寒かったり暑かったりしたら言ってください。
+  event_nocallerid_intermission_01_10:
+    speaker: rapi
+    en: What would you like for dinner?
+    ko: 식사는 어떻게 하시겠습니까.
+    ja: 食事はどうしますか？
+  event_nocallerid_intermission_01_11:
+    speaker: Self
+    en: I'm not hungry.
+    ko: 음식은 괜찮아.
+    ja: 食事なら大丈夫だ
+  event_nocallerid_intermission_01_12:
+    speaker: rapi
+    en: Very well.
+    ko: 알겠습니다.
+    ja: 分かりました。
+  event_nocallerid_intermission_01_13:
+    speaker: Self
+    en: Rapi.
+    ko: 라피.
+    ja: ラピ
+  event_nocallerid_intermission_01_14:
+    speaker: rapi
+    en: Yes?
+    ko: 예.
+    ja: はい。
+  event_nocallerid_intermission_01_15:
+    speaker: Self
+    en: Do you think there's a settlement out there?
+    ko: 생존자의 마을이 있을 것 같아?
+    ja: 生存者の村はあると思うか？
+  event_nocallerid_intermission_01_16:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_intermission_01_17:
+    speaker: rapi
+    en: If I'm being honest, no. Even if there is one, it's almost certainly been
+      raided.
+    ko: |-
+      솔직히 말씀드리면, 없을 것 같습니다.
+      있어도 괴멸된 상태겠죠.
+    ja: |-
+      正直に言うと、ないと思います。
+      あっても壊滅した状態でしょう。
+  event_nocallerid_intermission_01_18:
+    speaker: rapi
+    en: The Raptures are consumed with the desire to attack humans.
+    ko: 랩쳐는 인간을 집요하게 공격합니다.
+    ja: ラプチャーは人間を執拗に攻撃します。
+  event_nocallerid_intermission_01_19:
+    speaker: rapi
+    en: Even if there were enough survivors to constitute a settlement, it couldn't
+      have withstood a Rapture attack.
+    ko: |-
+      마을 규모의 생존자 집단이 있었다면,
+      랩쳐의 공격을 피해 갈 순 없었을 거라 생각합니다.
+    ja: |-
+      村規模の生存者集団があったら、
+      ラプチャーの目から逃れることは
+      できないと思います。
+  event_nocallerid_intermission_01_20:
+    speaker: rapi
+    en: Humans are powerless in front of those foul creatures.
+    ko: 그리고 인간은 랩쳐 앞에서는 무력하죠.
+    ja: そして人間は、ラプチャーの前では無力です。
+  event_nocallerid_intermission_01_21:
+    speaker: Self
+    en: Are you positive there's nothing out there?
+    ko: "…그렇구나."
+    ja: "…そうか"
+  event_nocallerid_intermission_01_22:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_intermission_01_23:
+    speaker: rapi
+    en: Never say never.
+    ko: 하지만 만의 하나라는 것이 있습니다.
+    ja: しかし、いつも例外はあります。
+  event_nocallerid_intermission_01_24:
+    speaker: rapi
+    en: Even if the probability of anything existing is near zero, this search isn't
+      in vain.
+    ko: |-
+      지극히 낮은 확률이겠지만,
+      그럼에도 불구하고 이 수색 작전에는 의미가 있다 생각합니다.
+    ja: |-
+      非常に低い確率ですが、それでも
+      この捜索作戦には意味があると思います。
+  event_nocallerid_intermission_01_25:
+    speaker: Self
+    en: I appreciate you saying that.
+    ko: 그래. 고마워.
+    ja: そうだな。ありがとう
+  event_nocallerid_intermission_01_26:
+    speaker: rapi
+    en: Don't worry about it.
+    ko: 아닙니다.
+    ja: いえ。
+  event_nocallerid_intermission_01_27:
+    speaker: Monologue
+    en: Soon after, Anis and Neon came back.
+    ko: 잠시 후 아니스와 네온이 복귀했다.
+    ja: しばらくしてアニスとネオンが戻ってきた
+  event_nocallerid_intermission_01_28:
+    speaker: Monologue
+    en: Rapi decided to keep watch while the rest of us went asleep.
+    ko: 라피가 불침번을 서기로 하고 모두 잠에 들었다.
+    ja: |-
+      ラピが寝ずの番をすることにし
+      みんな眠りについた
+  event_nocallerid_intermission_01_29:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_intermission_01_30:
+    speaker: Monologue
+    en: I'm not sure how long I slept.
+    ko: 얼마나 잤는지 모르겠다.
+    ja: どれくらい寝たのだろう
+  event_nocallerid_intermission_01_31:
+    speaker: Monologue
+    en: It's still dark out. Everything is quiet.
+    ko: 주위는 어둡고 조용하다.
+    ja: 周りは暗くて静かだ
+  event_nocallerid_intermission_01_32:
+    speaker: Monologue
+    en: Despite all that, I still woke up...
+    ko: 그럼에도 잠이 깬 이유는.
+    ja: なのに目が覚めた理由は、
+  event_nocallerid_intermission_01_33:
+    speaker: Monologue
+    en: I felt as if we were being watched.
+    ko: 뭔지 모를 시선이 느껴졌기 때문이다.
+    ja: 何か視線を感じたからだ
+  event_nocallerid_intermission_01_34:
+    speaker: Self
+    en: Rap...
+    ko: 라ㅍ….
+    ja: ラ…
+  event_nocallerid_intermission_01_35:
+    speaker: rapi
+    en: Sssh.
+    ko: 쉿.
+    ja: シッ―
+  event_nocallerid_intermission_01_36:
+    speaker: rapi
+    en: Keep quiet. No sudden movements.
+    ko: 큰 소리를 내지 말고 천천히 움직여주십쇼.
+    ja: 音を立てないように、ゆっくり動いてください。
+  event_nocallerid_intermission_01_37:
+    speaker: rapi
+    en: It's looking right at us.
+    ko: 우릴 보고 있습니다.
+    ja: 私たちを見ています。
+  event_nocallerid_intermission_01_38:
+    speaker: Self
+    en: What is?
+    ko: 보고 있다니 뭐가?
+    ja: 見ているって、何が？
+  event_nocallerid_intermission_01_39:
+    speaker: rapi
+    en: Straight ahead, 11 o'clock.
+    ko: 제 기준 11시 방향입니다.
+    ja: 私の位置から11時の方向です。
+  event_nocallerid_intermission_01_40:
+    speaker: Monologue
+    en: I turned in the direction Rapi mentioned.
+    ko: 라피가 알려준 방향을 쳐다본다.
+    ja: ラピが教えた方向を見る
+  event_nocallerid_intermission_01_41:
+    speaker: Monologue
+    en: All I see is complete darkness.
+    ko: 온통 검은 공간뿐이다.
+    ja: 真っ暗な空間が広がっている
+  event_nocallerid_intermission_01_42:
+    speaker: Monologue
+    en: Suddenly, in the darkness, I see what looks like blueish lights.
+    ko: 그 검은 공간 속, 푸른색으로 빛나는 불빛들이 있었다.
+    ja: その黒い空間の中に、青く光る何かが見える
+  event_nocallerid_intermission_01_43:
+    speaker: rapi
+    en: Do you see it?
+    ko: 보이십니까.
+    ja: 見えますか？
+  event_nocallerid_intermission_01_44:
+    speaker: Self
+    en: I only see some kind of blue light.
+    ko: 푸른색 불빛만 보여.
+    ja: 青い光しか見えない
+  event_nocallerid_intermission_01_45:
+    speaker: rapi
+    en: That's the light reflecting from their eyes. Tigers.
+    ko: 호랑이의 안광입니다.
+    ja: トラの眼光です。
+  event_nocallerid_intermission_01_46:
+    speaker: Self
+    en: Tigers...?!
+    ko: 호랑이…!?
+    ja: トラ…！？
+  event_nocallerid_intermission_01_47:
+    speaker: rapi
+    en: Four of them. Two adults and two babies. I think it's a family.
+    ko: |-
+      개체 수는 넷.
+      성체 둘에 새끼 둘이군요. 가족인 것 같습니다.
+    ja: |-
+      数は4匹。
+      成体が2匹、子どもが2匹です。
+      家族みたいですね。
+  event_nocallerid_intermission_01_48:
+    speaker: Self
+    en: What should we do?
+    ko: "…어떻게 해야 하지?"
+    ja: "…どうすればいい？"
+  event_nocallerid_intermission_01_49:
+    speaker: rapi
+    en: So long as we don't make any sudden movements, they'll leave us alone.
+    ko: 우리 쪽에서 크게 움직이지 않으면 물러갈 겁니다.
+    ja: こっちが騒がなければ去るでしょう。
+  event_nocallerid_intermission_01_50:
+    speaker: rapi
+    en: They don't look like they're on the prowl for food.
+    ko: 식량이 필요해 보이진 않으니까요.
+    ja: 食料を求めているわけではなさそうですので。
+  event_nocallerid_intermission_01_51:
+    speaker: Monologue
+    en: As my eyes adjusted to the darkness, the tigers become more visible.
+    ko: |-
+      어둠에 눈에 익숙해져 갈 때쯤,
+      호랑이의 모습을 확인할 수 있었다.
+    ja: |-
+      暗闇に目が慣れた頃、
+      トラの姿が確認できた
+  event_nocallerid_intermission_01_52:
+    speaker: Monologue
+    en: Two of them are about 3 meters in length, and two seem to be babies.
+    ko: |-
+      3미터는 되어 보이는 둘과,
+      아직 새끼 티를 못 벗은 듯 한 둘.
+    ja: |-
+      3メートルくらいのやつ2匹と
+      まだ子どもに見える2匹
+  event_nocallerid_intermission_01_53:
+    speaker: Monologue
+    en: A deer carcass dangles from the jaws of one of the adults.
+    ko: 그리고 성체의 입에 물려있는 사슴.
+    ja: そして成体がくわえているシカ
+  event_nocallerid_intermission_01_54:
+    speaker: Monologue
+    en: The tigers stared at us for a while, then slowly turned around and left.
+    ko: |-
+      호랑이들은 그 후로 우릴 잠시 동안 지켜보다
+      천천히 자리를 옮겼다.
+    ja: |-
+      トラたちはしばらく私たちを見つめた後
+      ゆっくりどこかへ去っていった
+  event_nocallerid_intermission_01_55:
+    speaker: rapi
+    en: All clear.
+    ko: 상황 종료.
+    ja: 状況終了！
+  event_nocallerid_intermission_01_56:
+    speaker: Self
+    en: That's my first time seeing a tiger in real life.
+    ko: 실제로 보는 건 처음이야.
+    ja: 実際に見るのはこれが初めてだ
+  event_nocallerid_intermission_01_57:
+    speaker: rapi
+    en: Me too.
+    ko: 저도 그렇습니다.
+    ja: 私もです。
+  event_nocallerid_intermission_01_58:
+    speaker: "<Choice>"
+    en: That was absolutely thrilling.
+    ko: 색다른 경험이었어.
+    ja: 貴重な体験だった
+  event_nocallerid_intermission_01_59:
+    speaker: "<Choice>"
+    en: That was terrifying.
+    ko: 조금 무서웠어.
+    ja: 少し緊張した
+  event_nocallerid_intermission_01_60:
+    speaker: rapi
+    en: Yes, perhaps because there was an element of danger to it.
+    ko: 하지만 조금 위험한 상황이었습니다.
+    ja: しかし、少し危ない状態でした。
+  event_nocallerid_intermission_01_61:
+    speaker: rapi
+    en: There was once an incident where 10 tigers managed to take down a Nikke.
+    ko: 실제로 10체의 호랑이가 니케 1기를 무력화시킨 사례가 있었습니다.
+    ja: |-
+      実際、10匹のトラがニケ1機を
+      無力化した例があります。
+  event_nocallerid_intermission_01_62:
+    speaker: rapi
+    en: If they'd rushed at us, I'd have had to open fire and alert the Raptures to
+      our position.
+    ko: |-
+      만약 교전했다면 총기를 사용했을 테고,
+      그랬다면 랩쳐가 몰려왔을 겁니다.
+    ja: |-
+      もし交戦になっていたら銃器を使いますし、
+      そうするとラプチャーが集まってくるでしょう。
+  event_nocallerid_intermission_01_63:
+    speaker: rapi
+    en: It's a good thing they'd already had a successful hunt.
+    ko: 사냥에 성공한 상태라 다행이었군요.
+    ja: 狩りの帰りで良かったです。
+  event_nocallerid_intermission_01_64:
+    speaker: rapi
+    en: You can go back to sleep.
+    ko: 그럼 이제 다시 주무십시오.
+    ja: では、寝直してください。
+  event_nocallerid_intermission_01_65:
+    speaker: Self
+    en: I don't think I'll be able to sleep after that.
+    ko: "…다시 자긴 그른 것 같아."
+    ja: "…もう眠れそうもない"
+  event_nocallerid_intermission_01_66:
+    speaker: rapi
+    en: I don't blame you.
+    ko: "…그렇습니까."
+    ja: "…そうですか。"
+  event_nocallerid_intermission_01_67:
+    speaker: Narration
+    en: The next day.
+    ko: 다음 날.
+    ja: 翌日
+  event_nocallerid_intermission_01_68:
+    speaker: anis
+    en: A tiger?!
+    ko: 호, 호랑이?
+    ja: と、トラ？
+  event_nocallerid_intermission_01_69:
+    speaker: anis
+    en: Why didn't you wake me up?! I've always wanted to see one.
+    ko: |-
+      아니, 왜 안 깨웠어!
+      나도 보고 싶다고 호랑이!
+    ja: |-
+      何で起こさなかったの！
+      私も見たかったのに、トラ！
+  event_nocallerid_intermission_01_70:
+    speaker: neon
+    en: What's got you so upset this morning? A liger?
+    ko: 호랑이가 뭐길래 아침부터 그렇게 난리에요?
+    ja: |-
+      トラって何ですか？
+      なんで朝から騒いでるんですか？
+  event_nocallerid_intermission_01_71:
+    speaker: anis
+    en: Tiger. T-I-G-E-R.
+    ko: 네온. 호랑이는 있잖아.
+    ja: ネオン、トラはね。
+  event_nocallerid_intermission_01_72:
+    speaker: anis
+    en: It's one of the big cats.
+    ko: 엄~청 큰 고양이야.
+    ja: すっごく大きいネコだよ。
+  event_nocallerid_intermission_01_73:
+    speaker: neon
+    en: A cat? How big is it?
+    ko: |-
+      …고양이요?
+      얼마나 큰데요?
+    ja: |-
+      …ネコ？
+      どれくらい大きいんですか？
+  event_nocallerid_intermission_01_74:
+    speaker: anis
+    en: Twice our size, maybe even bigger.
+    ko: |-
+      우리 두 배 정도?
+      더 클 수도 있고.
+    ja: |-
+      私たちの2倍くらい？
+      もしかしたらそれ以上かも。
+  event_nocallerid_intermission_01_75:
+    speaker: neon
+    en: No way!
+    ko: 뭐라고요!?
+    ja: 何ですって！？
+  event_nocallerid_intermission_01_76:
+    speaker: neon
+    en: Why didn't you wake me up?! I'd have loved to see a tiger!
+    ko: |-
+      저 왜 안 깨웠어요!
+      저도 호랑이 보고 싶은데!
+    ja: |-
+      なんで起こさなかったんですか！
+      私も見たかったのに！
+  event_nocallerid_intermission_01_77:
+    speaker: anis
+    en: Go find us another tiger!
+    ko: 가서 호랑이 데려와!
+    ja: 早く行ってトラを連れてきて！
+  event_nocallerid_intermission_01_78:
+    speaker: neon
+    en: Yeah, and make it snappy!
+    ko: 데려와요!
+    ja: 連れてきてください！
+  event_nocallerid_intermission_01_79:
+    speaker: rapi
+    en: "... Let's go."
+    ko: "…출발하겠습니다."
+    ja: "…出発します。"
+event_nocallerid_03_s:
+  event_nocallerid_03_s_1:
+    speaker: anis
+    en: Is this the place?
+    ko: "…여기야?"
+    ja: "…ここ？"
+  event_nocallerid_03_s_2:
+    speaker: rapi
+    en: No. We need to go a little further.
+    ko: 아니. 조금 더 가야 해.
+    ja: いや、もう少し行ったところ。
+  event_nocallerid_03_s_3:
+    speaker: rapi
+    en: Just in case though, let's look around before we leave.
+    ko: 그래도 혹시 모르니 간단하게 조사는 하고 넘어가자.
+    ja: でも念のため簡単に調査しよう。
+  event_nocallerid_03_s_4:
+    speaker: neon
+    en: I don't think we'll turn up anything.
+    ko: 음… 여긴 아무것도 없을 것 같네요.
+    ja: ふむ…ここは何もなさそうですね。
+  event_nocallerid_03_s_5:
+    speaker: anis
+    en: The Raptures really went to town on this place. It's in shambles.
+    ko: |-
+      어. 완전 엉망이네.
+      랩쳐 놈들, 아주 난리를 쳐놨구만.
+    ja: |-
+      うん、本当にひどいね。ラプチャーのやつ、
+      思いっきり暴れまわったみたいよ。
+  event_nocallerid_03_s_6:
+    speaker: Self
+    en: That's funny.
+    ko: 뭔가 이상해.
+    ja: 何かがおかしい
+  event_nocallerid_03_s_7:
+    speaker: neon
+    en: What is it?
+    ko: 응? 뭐가요?
+    ja: え？何がですか？
+  event_nocallerid_03_s_8:
+    speaker: Self
+    en: I don't see any Rapture footprints.
+    ko: 랩쳐의 발자국이 안 보여.
+    ja: ラプチャーの足跡が見当たらない
+  event_nocallerid_03_s_9:
+    speaker: anis
+    en: Hey, you're right.
+    ko: 듣고 보니 그렇네.
+    ja: 言われてみればそうだね。
+  event_nocallerid_03_s_10:
+    speaker: anis
+    en: Raptures walk on all fours, and considering their weight, there's no way they
+      wouldn't leave any tracks.
+    ko: |-
+      사족 보행이 기본인 녀석들인데다가,
+      무게도 제법 나가서 무조건 발자국이 찍힐 텐데.
+    ja: |-
+      基本四足歩行な上に、
+      結構重いから足跡が残らないわけないのに。
+  event_nocallerid_03_s_11:
+    speaker: anis
+    en: But I can't see a single footprint.
+    ko: 바닥이 매끈하네.
+    ja: 地面はきれいだよ。
+  event_nocallerid_03_s_12:
+    speaker: rapi
+    en: Commander, over here.
+    ko: |-
+      지휘관.
+      바닥을.
+    ja: |-
+      指揮官。
+      地面を見てください。
+  event_nocallerid_03_s_13:
+    speaker: Narration
+    en: "*Ting*"
+    ko: 짤랑.
+    ja: カタッ…
+  event_nocallerid_03_s_14:
+    speaker: Self
+    en: A bullet casing?
+    ko: 탄피?
+    ja: 薬きょう？
+  event_nocallerid_03_s_15:
+    speaker: rapi
+    en: One from a human firearm.
+    ko: 예. 인간용 화기의 탄피입니다.
+    ja: はい。人間用火器の薬きょうです。
+  event_nocallerid_03_s_16:
+    speaker: rapi
+    en: There was a firefight.
+    ko: 전투가 있었던 모양입니다.
+    ja: 戦闘があったようです。
+  event_nocallerid_03_s_17:
+    speaker: anis
+    en: More like a surprise attack or bombardment, by the look of it.
+    ko: "…저격이나 포격에 일방적으로 당한 것 같네."
+    ja: "…狙撃か砲撃に一方的にやられたみたいだね。"
+  event_nocallerid_03_s_18:
+    speaker: rapi
+    en: Considering the lack of Rapture tracks, I'd say you're probably right.
+    ko: 아마도. 랩쳐의 발자국이 없는걸 봐선 그런 것 같아.
+    ja: |-
+      多分。
+      ラプチャーの足跡がないからそうだと思う。
+  event_nocallerid_03_s_19:
+    speaker: anis
+    en: Let's hurry and keep moving. This place gives me the creeps...
+    ko: |-
+      그럼 얼른 지나가자.
+      이런 곳에 오래 있으면 기분이 영 안 좋….
+    ja: |-
+      じゃあ、早く行きましょう。
+      こんなところに長居すると気味が悪…
+  event_nocallerid_03_s_20:
+    speaker: anis
+    en: "... Wait a minute."
+    ko: "…잠깐."
+    ja: "…ちょっと。"
+  event_nocallerid_03_s_21:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_03_s_22:
+    speaker: neon
+    en: Anis. Are you thinking what I'm thinking?
+    ko: |-
+      어… 아니스.
+      설마 저랑 같은 생각하고 있나요?
+    ja: |-
+      えっと…アニス。
+      今、私と同じことを思っていますか？
+  event_nocallerid_03_s_23:
+    speaker: anis
+    en: Uh... maybe?
+    ko: 어. 맞을걸?
+    ja: えっと、多分。
+  event_nocallerid_03_s_24:
+    speaker: Self
+    en: What is it?
+    ko: 왜 그래?
+    ja: どうした？
+  event_nocallerid_03_s_25:
+    speaker: neon
+    en: How come there aren't any bodies lying around?
+    ko: 그… 시체가 없어서요.
+    ja: その…死体がありません。
+  event_nocallerid_03_s_26:
+    speaker: anis
+    en: Right. Raptures have no interest in collecting human bodies.
+    ko: |-
+      원거리에서 일방적으로 유린했으면 이곳에
+      시체든 백골이든 있어야 하는 게 맞아.
+    ja: |-
+      遠距離から一方的に蹂躙されたりしたら、
+      ここに死体か白骨があるはずよ。
+  event_nocallerid_03_s_27:
+    speaker: anis
+    en: If it was a surprise attack, this place would be littered with corpses.
+    ko: 랩쳐 놈들은 인간의 시체에는 관심이 없으니까.
+    ja: ラプチャーは人間の死体には興味ないから。
+  event_nocallerid_03_s_28:
+    speaker: Self
+    en: Could they have used some sort of superweapon?
+    ko: 고화력 병기의 가능성은?
+    ja: 高火力兵器の可能性は？
+  event_nocallerid_03_s_29:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_03_s_30:
+    speaker: rapi
+    en: I'm not picking anything up, certainly nothing that would vaporize a human
+      body.
+    ko: 시체를 남기지 않을 정도의 고화력 병기의 흔적은 보이지 않습니다.
+    ja: |-
+      死体を残さないくらいの
+      高火力兵器の痕跡は見えません。
+  event_nocallerid_03_s_31:
+    speaker: rapi
+    en: Let's keep looking.
+    ko: 조사해 보겠습니다.
+    ja: 調査してみます。
+  event_nocallerid_03_s_32:
+    speaker: Narration
+    en: "*Whoosh*"
+    ko: 슈웅-
+    ja: シュンー
+  event_nocallerid_03_s_33:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 콰앙-!
+    ja: ドォーン！
+  event_nocallerid_03_s_34:
+    speaker: rapi
+    en: Everyone take cover!
+    ko: |-
+      !!
+      전원 엄폐!
+    ja: |-
+      ！！
+      全員ハイド！
+  event_nocallerid_03_s_35:
+    speaker: rapi
+    en: Raptures, 500 meters out!
+    ko: |-
+      거리 500!
+      랩쳐 발견!
+    ja: |-
+      距離500！
+      ラプチャー発見！
+  event_nocallerid_03_s_36:
+    speaker: neon
+    en: They're headed this way.
+    ko: 어어어? 이쪽으로 오는데요?
+    ja: えええ？こっちに来ますよ？
+  event_nocallerid_03_s_37:
+    speaker: anis
+    en: How did they find us?
+    ko: 에잇! 어디서 따라붙은 거야!
+    ja: もう！どこから来たのよ！
+  event_nocallerid_03_s_38:
+    speaker: rapi
+    en: Engaging!
+    ko: 인카운터!
+    ja: エンカウンター！
+event_nocallerid_03_e:
+  event_nocallerid_03_e_1:
+    speaker: rapi
+    en: Enemy neutralized.
+    ko: 상황 종료.
+    ja: 状況終了！
+  event_nocallerid_03_e_2:
+    speaker: anis
+    en: They really caught us with our pants down.
+    ko: 아오 깜짝 놀랐네.
+    ja: はあ、びっくりした。
+  event_nocallerid_03_e_3:
+    speaker: rapi
+    en: Commander. Over there.
+    ko: 지휘관. 저길.
+    ja: 指揮官、あそこを見てください。
+  event_nocallerid_03_e_4:
+    speaker: Monologue
+    en: There's a large building with an iron door in the direction Rapi is pointing.
+      It's secured with a lock.
+    ko: 라피가 가리킨 곳은 굳게 닫힌 철문에 자물쇠가 채워져있는 큰 건물이었다.
+    ja: |-
+      ラピが指差したところには、
+      固く閉ざされた鉄の扉に
+      施錠されている大きな建物があった
+  event_nocallerid_03_e_5:
+    speaker: rapi
+    en: The foundation of that building is slightly below ground.
+    ko: 건물 하부 지면이 조금 내려앉은 상태입니다.
+    ja: 建物下部の地面が少し沈んでいます。
+  event_nocallerid_03_e_6:
+    speaker: rapi
+    en: I'm willing to be whatever's in there, it weighs a whole lot.
+    ko: 면적대비 무거운 뭔가가 내부에 있는 것 같습니다.
+    ja: 面積の割に重い何かが内部にあるみたいです。
+  event_nocallerid_03_e_7:
+    speaker: Self
+    en: Any chance that it might be Raptures?
+    ko: 랩쳐일 가능성은?
+    ja: ラプチャーである可能性は？
+  event_nocallerid_03_e_8:
+    speaker: rapi
+    en: Seems a little small for that,
+    ko: 랩쳐가 있기엔 좁을 것 같습니다만….
+    ja: ラプチャーがいるには狭そうですが…
+  event_nocallerid_03_e_9:
+    speaker: rapi
+    en: but I'll check for heat sources just to be safe.
+    ko: 혹시 모르니 열원을 조사해 보겠습니다.
+    ja: 念のために熱源を調査してみます。
+  event_nocallerid_03_e_10:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_03_e_11:
+    speaker: rapi
+    en: I'm not picking up anything. Coast seems clear.
+    ko: 열원 없음. 위험 요소는 없습니다.
+    ja: 熱源なし。危険要素はありません。
+  event_nocallerid_03_e_12:
+    speaker: Self
+    en: Let's check it out.
+    ko: 조사해 보자.
+    ja: 調査してみよう
+  event_nocallerid_03_e_13:
+    speaker: anis
+    en: We need to make this fast.
+    ko: 오래는 못 볼 거야.
+    ja: 長居はできないよ。
+  event_nocallerid_03_e_14:
+    speaker: anis
+    en: We made a lot of noise during that fight. More Raptures could show up any
+      minute.
+    ko: |-
+      전투할 때 소리가 크게 났으니까.
+      다른 랩쳐 놈들이 언제 몰려올지 모른다고.
+    ja: |-
+      戦う時に音がしたから。
+      他のラプチャーがいつ集まってくるか
+      分からない。
+  event_nocallerid_03_e_15:
+    speaker: Narration
+    en: "*Crunch*"
+    ko: 뿌득.
+    ja: ブチッ
+  event_nocallerid_03_e_16:
+    speaker: Monologue
+    en: We ripped the lock off that was in front of the door and went inside.
+    ko: 문 앞에 걸려있는 자물쇠를 손으로 뜯고 내부로 진입했다.
+    ja: 扉の錠を手で引きちぎり、内部に侵入した
+  event_nocallerid_03_e_17:
+    speaker: Monologue
+    en: A strange odor fills the room.
+    ko: "…뭔가 묘한 냄새가 났다."
+    ja: "…妙な匂いがする"
+  event_nocallerid_03_e_18:
+    speaker: anis
+    en: Pretty bare-bones. Seems like humans were living here.
+    ko: |-
+      별거 없네.
+      인간들이 살던 곳 같은데?
+    ja: |-
+      特に何もないわね。
+      人間たちが住んでいたところみたいよ？
+  event_nocallerid_03_e_19:
+    speaker: neon
+    en: Master. Look at this.
+    ko: 스승님. 이거 보세요.
+    ja: 師匠。これを見てください。
+  event_nocallerid_03_e_20:
+    speaker: Monologue
+    en: Neon pointed to a wall filled with photos.
+    ko: 네온이 가리킨 곳엔 벽면을 가득 채운 사진들이 있었다.
+    ja: |-
+      ネオンが指差した先には
+      壁に飾ってある写真が見えた
+  event_nocallerid_03_e_21:
+    speaker: Monologue
+    en: They are old and faded, but the smiling faces of those in the photos can be
+      made out.
+    ko: 모두 낡고 빛이 바랬지만, 웃고 있는 사람들의 모습이 가득했다.
+    ja: |-
+      すべて色あせているが
+      笑っている人々の顔でいっぱいだ
+  event_nocallerid_03_e_22:
+    speaker: neon
+    en: They must have been taken at the theme park.
+    ko: 테마파크에서 찍은 사진들인가 봐요.
+    ja: 遊園地で撮った写真みたいです。
+  event_nocallerid_03_e_23:
+    speaker: Self
+    en: They look so happy.
+    ko: 다들 즐거워 보여.
+    ja: みんないい笑顔だな
+  event_nocallerid_03_e_24:
+    speaker: neon
+    en: They really do.
+    ko: 예. 정말로.
+    ja: はい、本当に。
+  event_nocallerid_03_e_25:
+    speaker: neon
+    en: You think we'll ever be able to take a photo like that?
+    ko: 우리도 언젠가 이렇게 웃으면서 사진 찍을 수 있겠죠?
+    ja: |-
+      私たちにもいつか、こうやって笑いながら
+      写真を撮る日が来ますよね？
+  event_nocallerid_03_e_26:
+    speaker: anis
+    en: We could do that right now. There's a theme park in the Ark, and it ain't
+      like smiling is hard.
+    ko: |-
+      그건 지금도 가능해.
+      웃는 건 쉽잖아? 방주에 테마파크도 있고.
+    ja: |-
+      それは今すぐにでもできるよ。
+      笑うのは簡単でしょう？
+      アークに遊園地もあるし。
+  event_nocallerid_03_e_27:
+    speaker: neon
+    en: That's not what I mean. These photos were taken before the invasion. There's
+      something different about their smiles.
+    ko: |-
+      그 얘기가 아니라
+      뭔가 그런…. 평화로운 시대에서 나오는 진심 어린 미소나 뭐 그런 거.
+    ja: |-
+      そういうことじゃなくて、
+      何かこう…平和な時代だからこそ
+      自然と出る微笑みとか。
+  event_nocallerid_03_e_28:
+    speaker: anis
+    en: I think I understand what you're saying.
+    ko: 하하. 그런 게 있을 리가.
+    ja: はは。そんなのできるわけないじゃん。
+  event_nocallerid_03_e_29:
+    speaker: neon
+    en: Master. Can I take one of these?
+    ko: 스승님. 저 이 중에 하나만 가져도 되나요?
+    ja: 師匠。1枚だけもらってもいいですか？
+  event_nocallerid_03_e_30:
+    speaker: Self
+    en: Take it.
+    ko: 가져.
+    ja: 持っていけ
+  event_nocallerid_03_e_31:
+    speaker: rapi
+    en: All objects on the surface are the property of the Central Government.
+    ko: 지상의 물건은 공식적으로 중앙 정부에 귀속됩니다.
+    ja: 地上のものは公式には中央政府に帰属します。
+  event_nocallerid_03_e_32:
+    speaker: rapi
+    en: You cannot claim anything as your own unless there is a proper reason for
+      it.
+    ko: |-
+      정당한 사유만 있으면 소지 가능하지만,
+      설득은 거의 불가능하다 보시는 게 좋습니다.
+    ja: |-
+      正当な理由があれば所持はできますが
+      説得はほぼ無理でしょう。
+  event_nocallerid_03_e_33:
+    speaker: Self
+    en: "... You heard her."
+    ko: "…그렇다고 하네."
+    ja: "…だそうだ"
+  event_nocallerid_03_e_34:
+    speaker: neon
+    en: "... Right."
+    ko: "…그렇군요."
+    ja: "…そうですか。"
+  event_nocallerid_03_e_35:
+    speaker: anis
+    en: Rapi, let's head this way.
+    ko: 라피. 저기.
+    ja: ラピ、あそこ。
+  event_nocallerid_03_e_36:
+    speaker: rapi
+    en: All right.
+    ko: 응.
+    ja: うん。
+  event_nocallerid_03_e_37:
+    speaker: Monologue
+    en: Inside the room is another big door.
+    ko: 방 안에는 거대한 문이 하나 더 있었다.
+    ja: 部屋の中に大きな扉がもう1つあった
+  event_nocallerid_03_e_38:
+    speaker: Monologue
+    en: It seems more heavily fortified than the door outside.
+    ko: 밖의 문보다 훨씬 크고 튼튼해 보이는 문이다.
+    ja: 外の扉よりももっと大きくて頑丈に見える
+  event_nocallerid_03_e_39:
+    speaker: rapi
+    en: Let's see...
+    ko: 조사해 보겠습니다.
+    ja: 調査してみます。
+  event_nocallerid_03_e_40:
+    speaker: Narration
+    en: Screech---
+    ko: 끼이이익---
+    ja: キィィー
+  event_nocallerid_03_e_41:
+    speaker: Monologue
+    en: The door made a creaking sound and opened slowly.
+    ko: 문은 쇳소리를 내며 천천히 열렸다.
+    ja: 扉は金属音を立てながらゆっくり開いた
+  event_nocallerid_03_e_42:
+    speaker: Monologue
+    en: The unusual odor is getting stronger.
+    ko: "…묘한 냄새가 조금 짙어진 느낌이 들었다."
+    ja: "…妙な匂いが少し濃くなった気がする"
+  event_nocallerid_03_e_43:
+    speaker: rapi
+    en: I'm heading in now.
+    ko: 진입할게.
+    ja: 侵入する。
+  event_nocallerid_03_e_44:
+    speaker: anis
+    en: You think she'll find any machinery in there?
+    ko: 뭐 로봇 같은 거라도 숨겨놓은 거 아냐?
+    ja: ロボットでも隠しておいたんじゃない？
+  event_nocallerid_03_e_45:
+    speaker: neon
+    en: You mean like what they used in the war?
+    ko: 오. 최종 결전 병기 같은 거요?
+    ja: お、最終兵器みたいなですか？
+  event_nocallerid_03_e_46:
+    speaker: anis
+    en: The Commander used to fly one of those machines. Now it's been broken down
+      and used as Rapture parts...
+    ko: |-
+      지휘관님이 그 로봇의 파일럿이었던 거지.
+      이제 그 로봇으로 랩쳐를 때려 부수….
+    ja: |-
+      指揮官様が実はそのロボットの
+      パイロットだった！
+      それでロボットに乗ってラプチャーを倒す…
+  event_nocallerid_03_e_47:
+    speaker: rapi
+    en: Oh my god!
+    ko: |-
+      !!
+      이건…!!
+    ja: |-
+      ！！
+      これは…！！
+  event_nocallerid_03_e_48:
+    speaker: anis
+    en: Rapi?! We're coming!
+    ko: |-
+      라피!!
+      지금 갈ㄱ…!
+    ja: |-
+      ラピ！！
+      今行く…！
+  event_nocallerid_03_e_49:
+    speaker: rapi
+    en: No, stay back!
+    ko: 오지 마!!
+    ja: 来るな！！
+  event_nocallerid_03_e_50:
+    speaker: anis
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_nocallerid_03_e_51:
+    speaker: rapi
+    en: "... Just stay back. I'll come to you."
+    ko: |-
+      …오지 마.
+      나갈게.
+    ja: |-
+      …来ないで。
+      今出るから。
+  event_nocallerid_03_e_52:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_03_e_53:
+    speaker: neon
+    en: What was it? What was inside?
+    ko: |-
+      뭐, 뭔가요?
+      뭐가 있는데 그래요?
+    ja: |-
+      な、何ですが？
+      何があったんですか？
+  event_nocallerid_03_e_54:
+    speaker: rapi
+    en: We need to get out of here.
+    ko: "…가자."
+    ja: "…行こう。"
+  event_nocallerid_03_e_55:
+    speaker: rapi
+    en: Right now.
+    ko: 여기서 나가자.
+    ja: ここから出よう。
+  event_nocallerid_03_e_56:
+    speaker: anis
+    en: "...All right."
+    ko: "…응."
+    ja: "…うん。"
+  event_nocallerid_03_e_57:
+    speaker: Self
+    en: But why?
+    ko: 무슨….
+    ja: どうし…
+  event_nocallerid_03_e_58:
+    speaker: anis
+    en: Commander.
+    ko: 지휘관님.
+    ja: 指揮官様。
+  event_nocallerid_03_e_59:
+    speaker: anis
+    en: Let's go.
+    ko: 나가자.
+    ja: 行こう。
+  event_nocallerid_03_e_60:
+    speaker: Self
+    en: "... Understood."
+    ko: "…그래."
+    ja: "…ああ"
+event_nocallerid_04_s:
+  event_nocallerid_04_s_1:
+    speaker: Narration
+    en: "[-----Everyone gathers.]"
+    ko: "[-----모두 모여라]"
+    ja: "「――みんな集まれ」"
+  event_nocallerid_04_s_2:
+    speaker: Narration
+    en: "[This place----------paradise.]"
+    ko: "[이곳----------낙원]"
+    ja: "「ここ――楽園」"
+  event_nocallerid_04_s_3:
+    speaker: Narration
+    en: "[-----Country.]"
+    ko: "[------나라]"
+    ja: "「――国」"
+  event_nocallerid_04_s_4:
+    speaker: Monologue
+    en: While following a road out of the settlement, we received another transmission.
+    ko: |-
+      마을을 벗어난지 길을 따라 이동하던 중,
+      발신자 불명의 음성 메시지가 다시 수신됐다.
+    ja: |-
+      村から抜け出し、道に沿って移動中、
+      再び発信者不明の音声メッセージが届いた
+  event_nocallerid_04_s_5:
+    speaker: anis
+    en: It's even clearer than before.
+    ko: 조금 더 선명해진 것 같은데.
+    ja: もっと鮮明になったよね。
+  event_nocallerid_04_s_6:
+    speaker: neon
+    en: Isn't this a street that we're on?
+    ko: |-
+      그리고 바닥에 이거,
+      도로 아닌가요?
+    ja: |-
+      あと地面のこれ、
+      道路じゃないですか？
+  event_nocallerid_04_s_7:
+    speaker: rapi
+    en: It must have been a road to let cars through.
+    ko: 맞아. 자동차의 이동 경로였던 모양이야.
+    ja: そう。自動車の移動経路だったみたい。
+  event_nocallerid_04_s_8:
+    speaker: anis
+    en: It'll probably lead us to a factory or some kind of facility.
+    ko: 그럼 이 앞엔 제법 큰 규모의 시설이 있다는 얘긴데.
+    ja: |-
+      じゃあ、この先には結構な規模の
+      施設があるわけね。
+  event_nocallerid_04_s_9:
+    speaker: anis
+    en: Maybe a city, even.
+    ko: 도시가 있을 수도 있고.
+    ja: 都市があるかもしれないし。
+  event_nocallerid_04_s_10:
+    speaker: neon
+    en: "... Could there really be survivors?"
+    ko: "…정말 생존자가 있는 것 아닐까요?"
+    ja: "…本当に生存者がいるんじゃないですか？"
+  event_nocallerid_04_s_11:
+    speaker: anis
+    en: There's no way.
+    ko: 아 그럴 리 없다니까.
+    ja: もう、そんなはずないって。
+  event_nocallerid_04_s_12:
+    speaker: anis
+    en: It's huge.
+    ko: 엄청 넓네.
+    ja: すごく広いね。
+  event_nocallerid_04_s_13:
+    speaker: rapi
+    en: Must have been a real tourist attraction.
+    ko: 관광지였던 모양이야.
+    ja: 観光地だったみたい。
+  event_nocallerid_04_s_14:
+    speaker: anis
+    en: This isn't the place either, right?
+    ko: 이곳도 아닌 거지?
+    ja: ここも違う？
+  event_nocallerid_04_s_15:
+    speaker: rapi
+    en: No, we need to go a little further.
+    ko: 응. 조금 더 가야 해.
+    ja: ええ、もうちょっと行ったところ。
+  event_nocallerid_04_s_16:
+    speaker: rapi
+    en: The transmission tower is at 12 o'clock. Do you see it?
+    ko: |-
+      12시 방향에 송신탑.
+      보여?
+    ja: |-
+      12時方向に送信塔。
+      見える？
+  event_nocallerid_04_s_17:
+    speaker: anis
+    en: Not too well thanks to the fog, but I can still make out the outline.
+    ko: |-
+      음… 안개가 너무 짙어서 잘 안 보이긴 하는데,
+      얼추 윤곽은 보이네.
+    ja: |-
+      うーん…霧が濃すぎてよく見えないけど、
+      輪郭は何とか見えるわね。
+  event_nocallerid_04_s_18:
+    speaker: rapi
+    en: The coordinates show the message originating from there. It must be being
+      sent from the transmission tower.
+    ko: |-
+      저 인근이 발신지야.
+      송신탑에서 음성 메시지를 뿌리고 있을 가능성이 높겠지.
+    ja: |-
+      あの辺が発信地よ。
+      送信塔から音声メッセージを発信している
+      可能性が高いわ。
+  event_nocallerid_04_s_19:
+    speaker: anis
+    en: We're almost there then.
+    ko: 다 왔네 그럼.
+    ja: じゃあ、もうすぐだね。
+  event_nocallerid_04_s_20:
+    speaker: anis
+    en: Let's go.
+    ko: 어서 가자.
+    ja: 早く行こう。
+event_nocallerid_04_e:
+  event_nocallerid_04_e_1:
+    speaker: neon
+    en: Any chance we can stop and smell the roses?
+    ko: 저 여기 좀 구경해도 되나요?
+    ja: あの、ちょっとだけ見物してもいいですか？
+  event_nocallerid_04_e_2:
+    speaker: anis
+    en: Come again?
+    ko: 왜?
+    ja: え？
+  event_nocallerid_04_e_3:
+    speaker: neon
+    en: Since it's a tourist attraction, there must be a lot to see.
+    ko: 관광지니까 이것저것 볼 게 많지 않을까요?
+    ja: |-
+      観光地だから
+      いろいろ見る物があるんじゃないですか？
+  event_nocallerid_04_e_4:
+    speaker: anis
+    en: I won't stop you, but I wouldn't recommend it.
+    ko: 말리지는 않겠는데 추천하진 않겠어.
+    ja: 止めはしないけど、おすすめもしないよ。
+  event_nocallerid_04_e_5:
+    speaker: neon
+    en: How come?
+    ko: "??"
+    ja: "？？"
+  event_nocallerid_04_e_6:
+    speaker: anis
+    en: What do you think happened to all the humans who weren't chosen to stay in
+      the Ark?
+    ko: 방주에 선택 못 받은 인간들이 할 수 있는 일이 얼마나 있었을 것 같아?
+    ja: |-
+      アークに選ばれなかった人間たちに
+      果たして何ができたかな？
+  event_nocallerid_04_e_7:
+    speaker: anis
+    en: Back then, human weaponry didn't even leave a scratch on Raptures.
+    ko: 당시의 최신식 병기는 랩쳐에게 상처도 못 냈어.
+    ja: |-
+      当時の最新式兵器は
+      ラプチャーに傷1つつけられなかった。
+  event_nocallerid_04_e_8:
+    speaker: anis
+    en: It was suicide to engage the enemy.
+    ko: 맞서 싸우는 게 무의미한 수준이었겠지.
+    ja: 対抗する意味がないレベルだったはず。
+  event_nocallerid_04_e_9:
+    speaker: anis
+    en: All people could do was evade the Raptures until the Ark opened its doors
+      once again,
+    ko: |-
+      그럼 남은 건 방주의 문이 다시 열리기까지
+      랩쳐의 눈을 피해 도망 다니거나.
+    ja: |-
+      残った選択肢はアークの扉がまた開くまで
+      ラプチャーから逃げ回るか、
+  event_nocallerid_04_e_10:
+    speaker: anis
+    en: or find a different place to hide out permanently.
+    ko: 숨어 살 수 있는 장소를 확보하는 것인데.
+    ja: 隠れて生きる場所を確保するくらいだけど。
+  event_nocallerid_04_e_11:
+    speaker: anis
+    en: Raptures were bloodthirsty beyond all reason,
+    ko: |-
+      말했다시피 랩쳐의 인간을 향한 적의는
+      나쁜 의미로 맹목적이었어.
+    ja: |-
+      言った通り、ラプチャーの人間への敵意は
+      悪い意味で盲目的だった。
+  event_nocallerid_04_e_12:
+    speaker: anis
+    en: and the Ark has never re-opened its doors.
+    ko: 방주의 문은 그때부터 지금까지 단 한 번도 열린 적 없고.
+    ja: アークの扉はあれから一度も開いてないし。
+  event_nocallerid_04_e_13:
+    speaker: anis
+    en: Some people fell into despair and gave up,
+    ko: |-
+      희망이라고는 없는 그 상태에서
+      대부분은 절망하거나 스스로 무너지는 것을 선택했지만
+    ja: |-
+      希望が全く見えないあの状況で、
+      ほとんどの人間は絶望するか
+      自ら息絶える道を選んだけど、
+  event_nocallerid_04_e_14:
+    speaker: anis
+    en: but some sought out major cities.
+    ko: 일부는 관광지를 찾았어.
+    ja: 一部は観光地を訪れたの。
+  event_nocallerid_04_e_15:
+    speaker: anis
+    en: They wanted to die with some dignity,
+    ko: 멋진 장소에서 좋은 추억을 쌓고.
+    ja: 素敵な場所でいい思い出を作って、
+  event_nocallerid_04_e_16:
+    speaker: anis
+    en: in a place that reminded them of better days.
+    ko: 인간답게 죽어가는 걸 선택한 거야.
+    ja: 人間らしく死んでいく道を選んだ。
+  event_nocallerid_04_e_17:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_04_e_18:
+    speaker: anis
+    en: You see how the roads are all deserted?
+    ko: 거리가 깨끗하지?
+    ja: 街がきれいだよね？
+  event_nocallerid_04_e_19:
+    speaker: anis
+    en: That's because everyone ended it quietly in their own homes.
+    ko: |-
+      다들 각자의 공간에서,
+      조용히 잠들어 있어서 그래.
+    ja: |-
+      みんなが自分の空間で
+      静かに眠っているからだよ。
+  event_nocallerid_04_e_20:
+    speaker: anis
+    en: If you start poking around, you'll end up seeing more than you bargained for.
+    ko: |-
+      그러니 관광지라고 여기저기 둘러보면,
+      이것저것 보게 되겠지.
+    ja: |-
+      だから観光地だと浮かれて
+      あっちこっち見て回ると、
+      いろんなものを見ることになるわよ。
+  event_nocallerid_04_e_21:
+    speaker: neon
+    en: "... I understand. I won't interfere."
+    ko: "…예. 방해하지 않을게요."
+    ja: "…はい、大人しくしています。"
+  event_nocallerid_04_e_22:
+    speaker: rapi
+    en: "... Let's go, Commander."
+    ko: "…가시죠. 지휘관."
+    ja: "…行きましょう、指揮官。"
+  event_nocallerid_04_e_23:
+    speaker: rapi
+    en: We're nearly there.
+    ko: 목적지까지 얼마 남지 않았습니다.
+    ja: 目的地まであと少しです。
+  event_nocallerid_04_e_24:
+    speaker: Self
+    en: Roger.
+    ko: 그래. 가자.
+    ja: ああ、行こう
+  event_nocallerid_04_e_25:
+    speaker: Narration
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  event_nocallerid_04_e_26:
+    speaker: rapi
+    en: Another voice message.
+    ko: |-
+      …음?
+      음성 메시지가….
+    ja: |-
+      …え？
+      音声メッセージが…
+  event_nocallerid_04_e_27:
+    speaker: rapi
+    en: I'll play it.
+    ko: 재생하겠습니다.
+    ja: 再生します。
+  event_nocallerid_04_e_28:
+    speaker: Narration
+    en: "[-----Everyone gathers.]"
+    ko: "[-----모두 모여라]"
+    ja: "「――みんな集まれ」"
+  event_nocallerid_04_e_29:
+    speaker: Narration
+    en: "[This place----------paradise.]"
+    ko: "[이곳----------낙원]"
+    ja: "「ここ――楽園」"
+  event_nocallerid_04_e_30:
+    speaker: Narration
+    en: "[-----Country.]"
+    ko: "[------나라]"
+    ja: "「――国」"
+  event_nocallerid_04_e_31:
+    speaker: anis
+    en: Same as always.
+    ko: 에이, 똑같은 거잖아.
+    ja: もう、また同じものでしょう？
+  event_nocallerid_04_e_32:
+    speaker: Narration
+    en: "[Buzz---]"
+    ko: "[치직---]"
+    ja: "「ザザッ…」"
+  event_nocallerid_04_e_33:
+    speaker: Narration
+    en: "[Ahhhhh-!!]"
+    ko: "[꺄아아아악--!!]"
+    ja: "「きゃあああ！」"
+  event_nocallerid_04_e_34:
+    speaker: Narration
+    en: "[Arghhhhh--!!!]"
+    ko: "[으아아악---!!!]"
+    ja: "「うああああ！！」"
+  event_nocallerid_04_e_35:
+    speaker: Narration
+    en: "[Help, help--!!]"
+    ko: "[살려줘, 살려줘--!!]"
+    ja: "「助けて、助けて――！！」"
+  event_nocallerid_04_e_36:
+    speaker: rapi
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_nocallerid_04_e_37:
+    speaker: anis
+    en: What was that?
+    ko: "…뭐야."
+    ja: "…何？"
+  event_nocallerid_04_e_38:
+    speaker: neon
+    en: Sounds like they're in trouble!
+    ko: |-
+      뭐, 뭔가요 이거?
+      비, 비명 소리 아니에요?
+    ja: |-
+      な、何ですかこれは。
+      ひ、悲鳴じゃないですか？
+  event_nocallerid_04_e_39:
+    speaker: Self
+    en: Let's hurry.
+    ko: "…서두르자."
+    ja: "…急ごう"
+  event_nocallerid_04_e_40:
+    speaker: rapi
+    en: Roger.
+    ko: "…라져."
+    ja: "…ラジャー。"
+event_nocallerid_05_s:
+  event_nocallerid_05_s_1:
+    speaker: anis
+    en: I knew it.
+    ko: 젠장. 이럴 줄 알았어.
+    ja: くそっ、こうなると思った。
+  event_nocallerid_05_s_2:
+    speaker: anis
+    en: Even if there was a settlement of survivors, there's no way the Rapture would
+      have left it alone.
+    ko: |-
+      생존자 마을 같은 게 있었다 하더라도
+      랩쳐 놈들이 그걸 놔둘 리가 없지.
+    ja: |-
+      生存者の村があっても、ラプチャーの奴らが
+      放っておくわけないでしょう。
+  event_nocallerid_05_s_3:
+    speaker: neon
+    en: You never know, there may still...
+    ko: 그래도 혹시 모르잖….
+    ja: でも、もしかしたら…
+  event_nocallerid_05_s_4:
+    speaker: anis
+    en: You heard the yelling.
+    ko: 비명소리 들었잖아.
+    ja: 悲鳴を聞いたでしょう？
+  event_nocallerid_05_s_5:
+    speaker: anis
+    en: The Raptures sent out that voice message to lure people here.
+    ko: 음성 메시지까지 보내면서 인간들을 불렀겠지.
+    ja: |-
+      音声メッセージまで送って
+      人を集めたんでしょうね。
+  event_nocallerid_05_s_6:
+    speaker: anis
+    en: People who had lost hope heard that message, then came here
+    ko: 희망을 잃은 인간들은 그 메시지를 듣고 모여들었겠지.
+    ja: |-
+      希望を失った人たちは
+      そのメッセージを聞いて集まったはず。
+  event_nocallerid_05_s_7:
+    speaker: anis
+    en: dreaming of a new life.
+    ko: 새로운 터전을 꾸려나갔겠지.
+    ja: 新しい住処を作ろうって。
+  event_nocallerid_05_s_8:
+    speaker: anis
+    en: They'd regained hope. Then the Raptures killed every last one of them.
+    ko: |-
+      희망을 꿈꿨겠지.
+      랩쳐놈들이 다 죽이기 전까진.
+    ja: |-
+      希望を持ってたでしょうね。
+      ラプチャーが皆殺しにする前までは。
+  event_nocallerid_05_s_9:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_s_10:
+    speaker: anis
+    en: Let's go back, Commander.
+    ko: |-
+      지휘관님.
+      우리 돌아가자.
+    ja: |-
+      指揮官様。
+      もう戻ろう。
+  event_nocallerid_05_s_11:
+    speaker: anis
+    en: I don't want to see what's over there.
+    ko: 나 거기 별로 보고 싶지 않아.
+    ja: あまり見たくない。
+  event_nocallerid_05_s_12:
+    speaker: rapi
+    en: We need to see this through to the end.
+    ko: 조사는 끝마쳐야 해.
+    ja: 調査は終わらせなければいけないわ。
+  event_nocallerid_05_s_13:
+    speaker: anis
+    en: What's the point? Even if we go, there's nothing we can do.
+    ko: 가봤자 우리가 할 수 있는 일이 없잖아.
+    ja: 行っても私たちにできることはないよ。
+  event_nocallerid_05_s_14:
+    speaker: rapi
+    en: It's the least we can do for those who died.
+    ko: 넋을 기리는 것 정도는 할 수 있을 거야.
+    ja: 魂を慰めるくらいはできるから。
+  event_nocallerid_05_s_15:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_s_16:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_s_17:
+    speaker: Self
+    en: Let's keep going.
+    ko: 계속 가자.
+    ja: どんどん進むぞ
+  event_nocallerid_05_s_18:
+    speaker: rapi
+    en: Roger that.
+    ko: 예.
+    ja: はい。
+  event_nocallerid_05_s_19:
+    speaker: anis
+    en: "*Sigh* I really don't like this."
+    ko: |-
+      아아아아---!
+      가기 싫다 진짜.
+    ja: |-
+      もう…！
+      本当、行きたくない。
+event_nocallerid_05_e:
+  event_nocallerid_05_e_1:
+    speaker: anis
+    en: Where are we?
+    ko: "…뭐야 여기."
+    ja: "…何ここ。"
+  event_nocallerid_05_e_2:
+    speaker: neon
+    en: It's a theme park.
+    ko: 테마파크네요?
+    ja: 遊園地ですね？
+  event_nocallerid_05_e_3:
+    speaker: anis
+    en: I know that. Wasn't this where the last of the survivors gathered?
+    ko: |-
+      아니, 그건 아는데.
+      지상에 남은 인류 최후의 마을 이런 거 아니었어?
+    ja: |-
+      いや、それは分かるけど。
+      地上に残った人類最後の村じゃなかったの？
+  event_nocallerid_05_e_4:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_5:
+    speaker: rapi
+    en: So...
+    ko: 설마….
+    ja: まさか…
+  event_nocallerid_05_e_6:
+    speaker: Narration
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  event_nocallerid_05_e_7:
+    speaker: Monologue
+    en: Just then, I received a voice message on my phone.
+    ko: 그 순간, 내 핸드폰으로 음성 메시지가 도착했다.
+    ja: その時、私の携帯に音声メッセージが届いた
+  event_nocallerid_05_e_8:
+    speaker: Monologue
+    en: I open it.
+    ko: "…열어보자."
+    ja: "…再生してみよう"
+  event_nocallerid_05_e_9:
+    speaker: Narration
+    en: Gather round, children!
+    ko: "[어린이들은 모두 모여라!]"
+    ja: "「子どもたちみんな集まれ！」"
+  event_nocallerid_05_e_10:
+    speaker: Narration
+    en: This place is our own little country.
+    ko: "[이곳은 즐거움 가득한 신나는 낙원!]"
+    ja: "「ここは楽しい楽しい楽園！」"
+  event_nocallerid_05_e_11:
+    speaker: Narration
+    en: A paradise where everyone is happy.
+    ko: "[모두가 행복한 나라!]"
+    ja: "「みんなが幸せな国！」"
+  event_nocallerid_05_e_12:
+    speaker: Narration
+    en: Happy Fantasy Land!
+    ko: "[해피 판타지 랜드!]"
+    ja: "「ハッピーファンタジーランド！」"
+  event_nocallerid_05_e_13:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_14:
+    speaker: Narration
+    en: The fastest rollercoaster in the world!
+    ko: "[세계에서 가장 빠른 롤러코스터!]"
+    ja: "「世界一速いジェットコースター！」"
+  event_nocallerid_05_e_15:
+    speaker: Narration
+    en: Ahhhhhhh--!!
+    ko: "[꺄아아아악--!!]"
+    ja: "「きゃあああ！」"
+  event_nocallerid_05_e_16:
+    speaker: Narration
+    en: The tallest log ride in the world!
+    ko: "[세계에서 가장 높은 후룸 라이드!]"
+    ja: "「世界一速いウォーターライド！」"
+  event_nocallerid_05_e_17:
+    speaker: Narration
+    en: Wheeeeee--!!!
+    ko: "[으아아악---!!!]"
+    ja: "「うああああ！！」"
+  event_nocallerid_05_e_18:
+    speaker: Narration
+    en: The most exciting pirate ship!!
+    ko: "[세계에서 가장 흔들리는 바이킹!!]"
+    ja: "「世界一揺れるバイキング！！」"
+  event_nocallerid_05_e_19:
+    speaker: Narration
+    en: Help, help--!!
+    ko: "[살려줘, 살려줘--!!]"
+    ja: "「助けて、助けて――！！」"
+  event_nocallerid_05_e_20:
+    speaker: Narration
+    en: All at the Happy Fantasy Land!
+    ko: "[모두 해피 판타지 랜드에 있어!]"
+    ja: "「全部ハッピーファンタジーランドにあるよ！」"
+  event_nocallerid_05_e_21:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_22:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_23:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_24:
+    speaker: anis
+    en: So...
+    ko: 어… 그러면.
+    ja: え…じゃあ、
+  event_nocallerid_05_e_25:
+    speaker: anis
+    en: that message, which made it all the way to the Ark,
+    ko: 테마파크에서 만든 광고용 음성 메시지가.
+    ja: 遊園地の広告音声メッセージが、
+  event_nocallerid_05_e_26:
+    speaker: anis
+    en: was just an advertisement for an amusement park?
+    ko: 어찌어찌해서 방주까지 흘러들어간 거?
+    ja: 偶然アークまで流れたわけ？
+  event_nocallerid_05_e_27:
+    speaker: rapi
+    en: Seems that way.
+    ko: 그런 것 같아.
+    ja: そうみたいね。
+  event_nocallerid_05_e_28:
+    speaker: anis
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_29:
+    speaker: anis
+    en: All right, mission complete then. Let's go back.
+    ko: 좋아. 그럼 이제 돌아가자. 임무 끝.
+    ja: よし。じゃあ帰ろう。任務終わり。
+  event_nocallerid_05_e_30:
+    speaker: neon
+    en: I think this place still has power. Can we go on some rides?
+    ko: 엇. 전력이 좀 남은 것 같은데 놀다 가면 안 되나요?
+    ja: |-
+      えっ、まだ電力が残っているみたいですけど
+      ちょっと遊んじゃダメですか？
+  event_nocallerid_05_e_31:
+    speaker: anis
+    en: Get real. There's not a chance in hell that anything here is still running.
+    ko: |-
+      말이 되는 소릴 해.
+      제대로 작동하는 게 있을 리가 있겠어?
+    ja: |-
+      バカな事言わないでよ。
+      まだ作動しているものがあるわけないでしょう？
+  event_nocallerid_05_e_32:
+    speaker: anis
+    en: Besides, we're over the weight limit for rollercoasters.
+    ko: 애초에 인간용으로 만든 놀이 기구에 우리는 탈 수도 없어.
+    ja: |-
+      そもそも、人間用のアトラクションに
+      私たちは乗れないんだから。
+  event_nocallerid_05_e_33:
+    speaker: rapi
+    en: She's right.
+    ko: 우리는 안되지.
+    ja: 私たちは無理でしょう。
+  event_nocallerid_05_e_34:
+    speaker: neon
+    en: True,
+    ko: 아, 그러고 보니.
+    ja: あ、そういえば。
+  event_nocallerid_05_e_35:
+    speaker: neon
+    en: but Master is human.
+    ko: 스승님은 사람이었죠?
+    ja: 師匠は人間ですよね？
+  event_nocallerid_05_e_36:
+    speaker: neon
+    en: How do you read this?
+    ko: 음… 이거, 어떻게 읽는 걸까요?
+    ja: えっと…これ、何と読むんですか？
+  event_nocallerid_05_e_37:
+    speaker: rapi
+    en: Up, Up and Away. It's the tallest Ferris wheel in the world.
+    ko: |-
+      아인 투 바인.
+      세계에서 가장 높은 대관람차라고 해.
+    ja: |-
+      アイントゥバイン。
+      世界一大きい観覧車らしい。
+  event_nocallerid_05_e_38:
+    speaker: rapi
+    en: 300 meters, to be exact.
+    ko: "…높이가 300m네."
+    ja: "…高さ300メートルだって。"
+  event_nocallerid_05_e_39:
+    speaker: neon
+    en: How exciting!
+    ko: 와! 그거 끝내주네요!
+    ja: わあ！それはすごいですね！
+  event_nocallerid_05_e_40:
+    speaker: neon
+    en: Can we go on it, Master?
+    ko: 스승님! 이걸로 하죠!
+    ja: 師匠！これにしましょう！
+  event_nocallerid_05_e_41:
+    speaker: Self
+    en: I don't know, seems kind of dangerous...
+    ko: "…너무 위험하지 않을까?"
+    ja: "…危ないんじゃないか？"
+  event_nocallerid_05_e_42:
+    speaker: neon
+    en: But this is the only ride that's still operational! It's our only option.
+    ko: 지금 유일하게 움직이는 게 이것뿐이라서 선택의 여지가 없어요.
+    ja: |-
+      今動いているのはこれだけだから
+      他に選択肢がありません。
+  event_nocallerid_05_e_43:
+    speaker: Self
+    en: 'There''s another option: don''t ride anything.'
+    ko: 안 탄다는 선택지도 있어.
+    ja: 乗らないという選択肢もある
+  event_nocallerid_05_e_44:
+    speaker: neon
+    en: Sure, but what a letdown that would be!
+    ko: 물론 그렇기는 한데, 너무 아깝잖아요.
+    ja: もちろんそうですけど、\nもったいないですよ。
+  event_nocallerid_05_e_45:
+    speaker: neon
+    en: How can you not be excited about the tallest Ferris wheel in the world?
+    ko: |-
+      이럴 수가, 세계에서 가장 높은 대관람차라니!
+      두근거리지 않나요!?
+    ja: |-
+      なんと世界一大きい観覧車ですよ！
+      ワクワクしませんか！？
+  event_nocallerid_05_e_46:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_47:
+    speaker: rapi
+    en: Commander. We don't know how long the power will last.
+    ko: 지휘관. 언제 전력이 끊길지 모릅니다.
+    ja: 指揮官、いつ電力が切れるか分かりません。
+  event_nocallerid_05_e_48:
+    speaker: rapi
+    en: Make a decision.
+    ko: 결정을 내려주십시오.
+    ja: 乗るか乗らないか決めてください。
+  event_nocallerid_05_e_49:
+    speaker: anis
+    en: We'd ride it if we could.
+    ko: 나 같으면 탔다.
+    ja: 私なら乗る。
+  event_nocallerid_05_e_50:
+    speaker: neon
+    en: We may not be able to, but it'll be nice seeing you take it for a spin.
+    ko: 저희가 못 타니까 스승님이라도 타야 덜 억울할 것 같아요.
+    ja: |-
+      私たちは乗れないから師匠だけでも
+      乗ってくれないと気が済みません。
+  event_nocallerid_05_e_51:
+    speaker: Self
+    en: "... I'll have to think about it."
+    ko: "…알겠어."
+    ja: "…分かった"
+  event_nocallerid_05_e_52:
+    speaker: Narration
+    en: "*Shake shake*"
+    ko: 덜컹. 덜컹.
+    ja: ガタン、ガタン
+  event_nocallerid_05_e_53:
+    speaker: Narration
+    en: "*Creek creek*"
+    ko: 삐걱. 삐걱.
+    ja: キイ、キイ
+  event_nocallerid_05_e_54:
+    speaker: Monologue
+    en: The Ferris wheel makes an ominous sound as it slowly ascends.
+    ko: 대관람차는 불길한 소리를 내며 올라갔다.
+    ja: 観覧車は不気味な音を立てながら上っていく
+  event_nocallerid_05_e_55:
+    speaker: Monologue
+    en: After a while, it reaches its peak.
+    ko: 한참을 올라간 후, 마침내 최고점에 다다랐을 때.
+    ja: しばらく上がり、ようやく頂上に達した時
+  event_nocallerid_05_e_56:
+    speaker: Monologue
+    en: Suddenly, I saw the land laid out before me.
+    ko: 지상이 보였다.
+    ja: 地上が見えた
+  event_nocallerid_05_e_57:
+    speaker: Monologue
+    en: A vast expanse, reaching out into infinity.
+    ko: 방주에서 보던 것과는 다른
+    ja: アークで見たものとは違う、
+  event_nocallerid_05_e_58:
+    speaker: Monologue
+    en: It was a far cry from the views seen in the Ark.
+    ko: 끝없이 펼쳐진 지평선은
+    ja: 果てしなく広がる地平線は
+  event_nocallerid_05_e_59:
+    speaker: Monologue
+    en: As I watched, it was as if I could hear the landscape speak to me,
+    ko: 나에게 말하고 있는 듯했다.
+    ja: 私にこう言っているようだった
+  event_nocallerid_05_e_60:
+    speaker: Monologue
+    en: How long are you going to continue living in the cramped, dark place?
+    ko: 언제까지 그 좁고 어두운 곳에서 살 것이냐고.
+    ja: |-
+      いつまであの狭くて暗いところで
+      生きていくのか、と
+  event_nocallerid_05_e_61:
+    speaker: Narration
+    en: 'No Caller ID: END'
+    ko: 'No Caller ID : END'
+    ja: No Caller ID：END
+event_nocallerid_epilogue:
+  event_nocallerid_05_e_62:
+    speaker: andersen
+    en: Looks like we can close this case.
+    ko: "…그럼 이 건은 이렇게 마무리하겠네."
+    ja: "…では、この件はこうまとめよう。"
+  event_nocallerid_05_e_63:
+    speaker: andersen
+    en: So that voice message came all the way from that theme park...
+    ko: 테마파크에서 송출한 음성 메시지가 방주까지 흘러 들어왔다라….
+    ja: |-
+      遊園地が発した音声メッセージが
+      アークまで流れてきたと…
+  event_nocallerid_05_e_64:
+    speaker: andersen
+    en: Certainly didn't expect that.
+    ko: 별일이 다 있군그래.
+    ja: 不思議なことだな。
+  event_nocallerid_05_e_65:
+    speaker: andersen
+    en: Anyway, since you ensured all power was shut off, it shouldn't happen again.
+    ko: |-
+      모든 전력이 꺼진 것을 확인하고 왔다고 했으니,
+      다신 그럴 일이 없겠군.
+    ja: |-
+      すべての電力が落ちたのを
+      確認してきたと言ったから、
+      二度と同じことは起きないだろう。
+  event_nocallerid_05_e_66:
+    speaker: andersen
+    en: Anything else to report?
+    ko: 그것 말고 테마파크에서 별일은 없었나?
+    ja: 遊園地で他に何かなかったか？
+  event_nocallerid_05_e_67:
+    speaker: Self
+    en: I rode the Ferris wheel.
+    ko: 대관람차를 탔습니다.
+    ja: 大観覧車に乗りました
+  event_nocallerid_05_e_68:
+    speaker: andersen
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_69:
+    speaker: andersen
+    en: Did you say 'Ferris wheel'?
+    ko: 대관람차를?
+    ja: 観覧車に？
+  event_nocallerid_05_e_70:
+    speaker: Self
+    en: It was the tallest in the entire world.
+    ko: 세계에서 가장 높은 대관람차였습니다.
+    ja: 世界で一番大きい観覧車でした
+  event_nocallerid_05_e_71:
+    speaker: andersen
+    en: "... I see."
+    ko: "…그렇군."
+    ja: "…そうか。"
+  event_nocallerid_05_e_72:
+    speaker: andersen
+    en: How was it?
+    ko: 재밌었나?
+    ja: 楽しかったか？
+  event_nocallerid_05_e_73:
+    speaker: Self
+    en: It was fun.
+    ko: 재밌었습니다.
+    ja: はい。楽しかったです
+  event_nocallerid_05_e_74:
+    speaker: andersen
+    en: "... Glad to hear it. You can leave now."
+    ko: 그래. 그럼 이만 나가보게.
+    ja: そうか。ではもう下がってよい。
+  event_nocallerid_05_e_75:
+    speaker: andersen
+    en: Shifty.
+    ko: 시프티.
+    ja: シフティーくん。
+  event_nocallerid_05_e_76:
+    speaker: shifty
+    en: Yes?
+    ko: 예.
+    ja: はい。
+  event_nocallerid_05_e_77:
+    speaker: andersen
+    en: Run a probability for me on a scenario.
+    ko: 수십 년 전 동작이 멈춘 테마파크에서.
+    ja: 数十年前に閉鎖された遊園地で、
+  event_nocallerid_05_e_78:
+    speaker: andersen
+    en: A derelict theme park that's been abandoned for decades,
+    ko: 대관람차만이 돌아가고 있고
+    ja: 観覧車だけが動いていて
+  event_nocallerid_05_e_79:
+    speaker: andersen
+    en: with only a Ferris wheel still operating, transmits a voice message which
+      reaches the Ark.
+    ko: 무작위로 뿌린 음성 메시지가 방주에 닿을 확률이 어떻게 되나?
+    ja: |-
+      ランダムに撒いた音声メッセージが
+      アークに届く確率は？
+  event_nocallerid_05_e_80:
+    speaker: shifty
+    en: One moment.
+    ko: 잠시만 기다려주세요.
+    ja: ちょっとお待ちください。
+  event_nocallerid_05_e_81:
+    speaker: shifty
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_82:
+    speaker: shifty
+    en: 0.000...
+    ko: 어… 0.000….
+    ja: えっと…0.000…
+  event_nocallerid_05_e_83:
+    speaker: andersen
+    en: All right, I get the picture.
+    ko: 음. 더 안 들어도 되겠군.
+    ja: ふむ、それ以上聞くまでもないな。
+  event_nocallerid_05_e_84:
+    speaker: andersen
+    en: Somehow, it managed to defy those odds.
+    ko: 그 확률을 뚫고 일어난 일이라 이건가.
+    ja: その確率を突破して起こったのか。
+  event_nocallerid_05_e_85:
+    speaker: andersen
+    en: Unless there was some external force helping it along...
+    ko: "…뭔가의 개입이 있지 않는 이상 그런 일은…."
+    ja: "…何かの介入がない限り、そんなことは…"
+  event_nocallerid_05_e_86:
+    speaker: andersen
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_nocallerid_05_e_87:
+    speaker: andersen
+    en: Anyway,
+    ko: 뭐 됐네.
+    ja: まあ、いいだろう。
+  event_nocallerid_05_e_88:
+    speaker: andersen
+    en: we'll consider this case closed. Good job.
+    ko: |-
+      이 일은 여기서 닫지.
+      수고했네.
+    ja: |-
+      この件はここでおしまいにしよう。
+      お疲れ様。
+  event_nocallerid_05_e_89:
+    speaker: andersen
+    en: It doesn't matter if something like this happens occasionally.
+    ko: 가끔은 이런 말도 안 되는 일이 일어나도 괜찮겠지.
+    ja: |-
+      たまには、こんなあり得ないことが
+      起きてもいいだろう。

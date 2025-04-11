@@ -1,0 +1,561 @@
+---
+501_name:
+  en: Trony
+  ko: 트로니
+  ja: トロニー
+c501_description:
+  en: |-
+    A Nikke from the Electric Shock squad.
+    She's the pioneer of the electrical engineering field.
+    Due to her lack of social skills, it's difficult for her to communicate with other Nikkes.
+  ko: |-
+    일렉트릭 쇼크 스쿼드 소속의 니케.
+    전기전자공학 분야의 선구자.
+    사회성이 떨어져 다른 니케와의 교류에 어려움을 겪고 있다.
+  ja: |-
+    エレクトリックショック部隊所属のニケ。
+    電気電子工学分野の先駆者。
+    社会性が低く、他のニケとの交流に困っている。
+501_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_501:
+  en: Trony's Spare Body
+  ko: 트로니 스페어 바디
+  ja: トロニーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+25012_name:
+  en: Efficiency Increase
+  ko: 효율 증가
+  ja: 効率アップ
+25012_description:
+  en: |-
+    ■ Activates when attacking with Full Charge for {description_value_01} time(s). Affects self.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates when hitting the target with Full Charge for {description_value_04} time(s). Affects the target.
+    <color=#00AEFF>DEF ▼ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 {description_value_01}회 공격 시 자신에게
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 풀 차지 공격 {description_value_04}회 명중 시 대상에게
+    <color=#00AEFF>[방어력 {description_value_05}% ▼] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■フルチャージして{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■フルチャージして{description_value_04}回命中した時、対象に
+    <color=#00AEFF>「防御力{description_value_05}％▼」「{description_value_06}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25011_name:
+  en: T.Rony Bomber
+  ko: T.Rony 봄버
+  ja: T.Ronyボンバー
+25011_description_1:
+  en: |-
+    ■ Activates when hitting a target with Full Charge. Affects 1 enemy unit nearest to the crosshair if there are no enemies in T.Rony Bomber status.
+    <color=#00AEFF><word_group=10049>Cumulative Damage Skill</word_group> active for {description_value_01} sec.
+    Function: Accumulates a fraction of the caster's inflicted damage. Upon reaching the maximum accumulated damage, deals damage to enemies before ending.
+    Effect 1: Maximum Accumulated Damage is {description_value_03}% of the caster's <word_group=10025>final</word_group> ATK.
+    Effect 2: Accumulates {description_value_02}% of the caster's ATK damage.
+    Effect 3: Deals <word_group=10019>Distributed Damage</word_group> to <word_group=10020>enemies within the attack range</word_group> when <word_group=10049>Cumulative Damage Skill</word_group> explodes.</color>
+  ko: |-
+    ■ 풀 차지 공격 명중 시 T.Rony 봄버 상태의 적이 없다면 조준선에 가장 가까운 적 1기에게
+    <color=#00AEFF>[<word_group=10049>누적 폭발 스킬</word_group>] [{description_value_01}초 유지] :
+    기능 : 시전자가 가하는 대미지의 일부를 누적. 최대 누적량 도달 시 적에게 대미지를 준 후 해제.
+    효과 1 : [최대 대미지 누적량은 시전자 <word_group=10025>최종</word_group> 공격력의 {description_value_03}%]
+    효과 2 : [자신의 공격 대미지의 {description_value_02}%만큼 누적]
+    효과 3 : [<word_group=10049>누적 폭발 스킬</word_group> 폭파 시 <word_group=10020>공격 범위 내 적들</word_group>에게 <word_group=10019>분배 대미지</word_group>]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、T.Ronyボンバー状態の敵がいなければ照準線に最も近い敵1機に
+    <color=#00AEFF>「<word_group=10049>蓄積爆破</word_group>」「{description_value_01}秒間維持」：
+    機能：スキル発動者が与えるダメージの一部を蓄積。最大蓄積量に到達した時、敵にダメージを与えて解除。
+    効果1：「最大ダメージ蓄積量はスキル発動者の<word_group=10025>最終</word_group>攻撃力の{description_value_03}％」
+    効果2：「自分の攻撃ダメージの{description_value_02}％分蓄積」
+    効果3：「<word_group=10049>蓄積爆破</word_group>効果が爆発すると、<word_group=10020>攻撃範囲内の敵</word_group>に<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15013_name:
+  en: Mega T.Rony
+  ko: 메가 T.Rony
+  ja: メガT.Rony
+15013_description:
+  en: "■ Affects self. \n<color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02}
+    sec.</color>\n<color=#00AEFF>Accumulated damage ratio of the <word_group=10049>Cumulative
+    Damage Skill</word_group> ▲ {description_value_03}% for {description_value_04}
+    sec.</color>"
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    <color=#00AEFF>[<word_group=10049>누적 폭발 스킬</word_group>의 대미지 누적 비율 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「<word_group=10049>蓄積爆破</word_group>のダメージ蓄積割合{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+500_name:
+  en: Elegg
+  ko: 일레그
+  ja: エレグ
+c501_Lobby_Touch_1:
+  en: It's lovely weather outside today. Perfect day to stay inside and play some
+    games.
+  ko: 오늘은 날씨가 좋네. 방에서 게임하면 되겠다.
+  ja: 今日はいい天気だね。部屋でゲームしよう。
+c501_Lobby_Touch_2:
+  en: |-
+    If there is any electronic equipment you need, I could try making it for you.
+    I... I'm actually quite confident with this sort of thing!
+  ko: |-
+    필요한 전자기기 있으면 내가 만들어줄게.
+    그, 그런 쪽으로는 자신 있으니까…!
+  ja: |-
+    必要な電子機器があったら作ってあげる。
+    そ、そっち系は自信あるから…！
+c501_Lobby_Touch_3:
+  en: |-
+    Umm... Commander... Er, forget it, it's nothing...
+    I'll tell you later. Maybe next week? No, maybe next month...
+  ko: |-
+    저기… 지휘관… 그… 아, 아무것도 아니야…
+    나중에 말할게. 다음 주… 아니, 다음 달 즈음에….
+  ja: |-
+    その…指揮官…あの…な、何でもない…
+    今度言うね。来週…いや、来月あたりに…
+c501_Lobby_Touch_Love_1:
+  en: |-
+    Elegg is so very, er...
+    Very... BOOM.
+  ko: |-
+    일레그는 음… 그러니까….
+    응, 엄청 BOOM 해.
+  ja: |-
+    エレグは、うーん…その…
+    うん、すごくBOOMだよ。
+c501_Lobby_Touch_Love_2:
+  en: |-
+    Personally, I think the best game ever made is Combat Ace...
+    But don't tell Elegg that.
+  ko: |-
+    최고의 게임? [컴뱃 에이스], 라고 생각하는데….
+    그… 일레그한텐 비밀로 해줘….
+  ja: |-
+    最高のゲーム？「コンバットエース」だと思うけど…
+    その…エレグにはナイショにして…
+c501_Lobby_Touch_Love_3:
+  en: |-
+    Electricity is made by boiling water and spinning a turbine...
+    Oh, I guess I'm boring you. Sorry... I'll go in the corner and stay quiet.
+  ko: |-
+    전기는 물을 끓여서 터빈을 돌리는 방식으로 만드는데….
+    어… 재, 재미없어 보이네. 미안… 구석에 조용히 있을게.
+  ja: |-
+    電気って、水を沸騰させて
+    蒸気でタービンを回転させて作るんだけど…
+    あっ…た、退屈だよね。ごめん…隅っこで大人しくしてるから。
+c501_Lobby_Stay_1:
+  en: |-
+    Commander...? Are you outside?
+    Phew, finally I'm alone. Hehe, this is nice.
+  ko: |-
+    저기… 지휘관…? 밖에 나간 거 맞지?
+    이제야 혼자 남았네. 헤헤… 편안해….
+  ja: |-
+    あの…指揮官…？出かけたの？
+    やっと1人になれた。えへへ…気楽…
+c501_Lobby_Stay_Love_1:
+  en: "Is there anyone here? Hmm... I'm Trony, and I'm here to uphold justice! \nPrepare
+    yourself, villain! Hehe, just like the way the Black Ark Ranger would say it."
+  ko: |-
+    저… 아무도 없지? 흠흠. 나 트로니, 정의를 수호하러 왔다!
+    각오해, 악당! …헤헤, 아크레인저 블랙 같았으려나.
+  ja: |-
+    えーと…誰もいないよね？オホンッ。
+    私はトロニー。正義を守りに来た！
+    覚悟しろ、悪党め！
+    …えへへ、アークレンジャー・ブラックみたいにできたかな。
+c501_Outpost_Touch_1:
+  en: "The Ark Rangers movie just got released in theaters. If-if you happen to have
+    time, would you... \nNo, there's no way you would want to come with me... I'll
+    just go and watch it by myself..."
+  ko: |-
+    아크레인저 극장판 재개봉한다는데. 시, 시간 되면 같이…
+    나랑 가고 싶을 리 없겠지… 혼자 보고 올게….
+  ja: |-
+    アークレンジャーの 劇場版が 再上映されるらしくて…
+    よ、よかったら一緒に…
+    …私と行きたいはずないよね… 1人で見てくるね…
+c501_Outpost_Touch_2:
+  en: |-
+    Have you seen Elegg?
+    We were together just a moment ago, but I think she might have left...
+  ko: |-
+    혹시 일레그 못 봤어?
+    아까까지 같이 있었는데, 혼자 가 버렸어….
+  ja: |-
+    ねえ、エレグ見てない？
+    さっきまで一緒にいたのに、 1人でどっか行っちゃって…
+c501_Outpost_Touch_3:
+  en: |-
+    You said that the elevator breaks down a lot, right?
+    Um... I think I'll just wait inside for a bit. I prefer being alone.
+  ko: |-
+    저 엘리베이터 자주 고장 난다고 했지?
+    …잠깐 갇혔다 올게. 혼자 있고 싶어.
+  ja: |-
+    あのエレベーター、 よく壊れるんだよね？
+    …ちょっと 閉じ込められてくるね。 1人になりたいから…
+c501_Gacha_Get_1:
+  en: I-I'm Trony. Glad to be part of the team.
+  ko: 트, 트로니라고 해. 잘 부탁해.
+  ja: ト、トロニーだよ。よろしくね。
+c501_Reinforce_1:
+  en: 'Note to self: Circuit calibration should be reinforced this way.'
+  ko: 강화 시 회로 조정은 이렇게. 메모.
+  ja: 強化時の回路調整はこんな感じ、メモメモ…
+c501_Reinforce_2:
+  en: Wow, this feeling reminds me of BOOM.
+  ko: 헤헤, 진짜 BOOM한 기분이야.
+  ja: えへへ、本当にBOOMな気分だよ。
+c501_Reinforce_3:
+  en: I definitely feel stronger, even if you can't really tell...
+  ko: 전보다 강해졌어. 티나진 않겠지만….
+  ja: 前より強くなったよ。分かりにくいと思うけど…
+c501_Gift_1:
+  en: |-
+    Um, just a moment. Let me jot down a note on the computer.
+    I got a gift from Commander today, hehe...
+  ko: |-
+    자, 잠깐만. 컴퓨터에 메모 좀 할게.
+    오늘 지휘관에게 선물을 받았다. 헤헤….
+  ja: |-
+    ま、待って。パソコンにメモするから。
+    今日は指揮官からプレゼントをもらった。えへへ…
+c501_Gift_2:
+  en: |-
+    Um... D-don't look at me like that.
+    Am I making a strange face right now?
+  ko: |-
+    으으… 그, 그렇게 쳐다보지 말아 줘.
+    나 지금 이상한 표정 짓고 있지?
+  ja: |-
+    うう…そ、そんなに見つめないで。
+    変な顔になってるでしょ？
+c501_Gift_3:
+  en: |-
+    It's just a tiny gift, so l-I should probably calm down...
+    Hehe... hehehe.
+  ko: |-
+    아무 의미 없는 선물이니까 치, 침착하자….
+    헤헤, 헤헤헤….
+  ja: |-
+    深い意味なんてないんだから、お、落ち着こう…
+    へへ、えへへ…
+c501_Attractive_Up_1:
+  en: |-
+    Th-thank you for always being nice to...
+    Uhh, it feels like my heart is about to explode.
+  ko: |-
+    항상 잘해줘서 고, 고마…
+    우으… 심장이 터질 거 같아.
+  ja: |-
+    いつも気にかけてくれて、あ、ありが…
+    うう…心臓が張り裂けそう。
+c501_Attractive_Up_2:
+  en: |-
+    If there's any Ark Rangers merchandise that you want, I could maybe get you one... or two.
+    You know... as a token of my appreciation.
+  ko: |-
+    가지고 싶은 아크레인저 굿즈 있으면….
+    보, 보답의 의미로… 하나… 아니, 두 개 줄게….
+  ja: |-
+    欲しいアークレンジャーのグッズがあったら…
+    お、お礼に…1つ…いや、2つあげる…
+c501_Attractive_Up_3:
+  en: |-
+    Being with you makes me feel so comfortable...
+    I'm looking forward to doing it more.
+  ko: |-
+    지휘관이랑 있으면 편안해서 좋아.
+    …앞으로도 잘 부탁할게.
+  ja: |-
+    指揮官といると、落ち着くから好き。
+    …これからもよろしくね。
+c501_Party_Deploy_1:
+  en: M-me? Wouldn't it be better to send another Nikke instead of me?
+  ko: 나, 나? 나보단 다른 니케랑 가는 게 나을 텐데….
+  ja: わ、私？他のニケと行った方がいいと思うけど…
+c501_Field_Touch_1:
+  en: Oh, um... You called?
+  ko: 응, 불렀어?
+  ja: うん。呼んだ？
+c501_Field_Go_1:
+  en: I'll be right there.
+  ko: 바로 갈게.
+  ja: すぐ行くね。
+c501_Battle_Enter_1:
+  en: I've got your back.
+  ko: 백업은 맡겨줘.
+  ja: バックアップは任せて。
+c501_Battle_Ready_1:
+  en: Be careful not to run out of battery.
+  ko: 방전되지 않게 조심해.
+  ja: バッテリー切れに気をつけて。
+c501_Battle_Ready_2:
+  en: I-I'm glad to be in this foxhole with you all.
+  ko: 다, 다들 잘 부탁해.
+  ja: み、みんな、よろしくね。
+c501_Battle_Ready_3:
+  en: I guess I should do what needs to be done...
+  ko: 해야 할 일은 해야겠지….
+  ja: やるべきことはやらなくちゃ…
+c501_Reload_1:
+  en: Huh? The battery is dead.
+  ko: 배, 배터리가 방전 됐어.
+  ja: ば、バッテリーが切れた…
+c501_Reload_2:
+  en: Repair complete.
+  ko: 수리 완료.
+  ja: 修理完了。
+c501_Reload_3:
+  en: Just need to do some fixing... Don't leave me behind.
+  ko: 잠시 정비할 건데…. 나 놓고 가지 마.
+  ja: ちょっと整備するから…置いてかないでね…
+c501_Ult_Skill_Ready_1:
+  en: Preparation complete.
+  ko: 작업 준비 끝났어.
+  ja: 準備、終わったよ。
+c501_Ult_Skill_1:
+  en: Work complete. I did it! Hehe.
+  ko: 작업 완료. 해냈어! 헤헤.
+  ja: 作業完了。やった！えへへ。
+c501_FullBurst_1:
+  en: Give them an electrifying blow!
+  ko: 짜릿하게 한 방 먹이는 거야.
+  ja: ビリリと一発、お見舞いするよ！
+c501_Kill_Monster_1:
+  en: Neutralized.
+  ko: 격추 완료.
+  ja: 敵機撃墜。
+c501_Kill_Monster_2:
+  en: Let's wrap this up and go home...
+  ko: 빨리 끝내고 집에 가자….
+  ja: 早く終わらせて帰ろう…
+c501_Kill_Monster_3:
+  en: D-did you see that? I defeated it.
+  ko: 봐, 봤지? 내가 쓰러뜨렸어.
+  ja: み、見た？私が倒したよ。
+c501_Damage_1:
+  en: Eek!
+  ko: 흐익!
+  ja: ひゃあっ！
+c501_Damage_2:
+  en: Ugh…
+  ko: 으으….
+  ja: うう…
+c501_Damage_3:
+  en: Ah...
+  ko: 구석에 조용히 있을걸….
+  ja: 大人しく隅っこにいればよかった…
+c501_Die_1:
+  en: |-
+    I guess this is where I fall.
+    It's been an honor to be fighting alongside you all...
+  ko: |-
+    트로니, 여기서 쓰러지다.
+    지금까지 함께해서 영광이었어….
+  ja: |-
+    トロニー、ここに死す…
+    今まで一緒に戦えて光栄だったよ…
+c501_Win_1:
+  en: I... I feel kinda cool, hehe.
+  ko: 나, 조금 멋졌을 지도… 헤헤….
+  ja: 私、ちょっとカッコよかったかも…えへへ…
+501_cv_ja:
+  en: 'CV: Akane Fujita'
+  ko: 'CV : 후지타 아카네'
+  ja: CV：藤田茜
+501_cv_ko:
+  en: 'CV: Yu Hye-ji'
+  ko: 'CV : 유혜지'
+  ja: CV：ユ・ヘジ
+501_cv_en:
+  en: 'CV: Aria Saltini'
+  ko: 'CV : 아리아 솔티니'
+  ja: CV：Aria Saltini

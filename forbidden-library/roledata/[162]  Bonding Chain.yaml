@@ -1,0 +1,805 @@
+---
+162_name:
+  en: 'Mihara: Bonding Chain'
+  ko: '미하라 : 본딩 체인'
+  ja: ミハラ：ボンディングチェーン
+c162_description:
+  en: |-
+    Following the terrorist attack on the Ark, Mihara's memory was erased once again.
+    Through Mana, she received a new body that Syuen had prepared beforehand.
+    She has returned to the surface, searching for rare Rapture species.
+  ko: |-
+    방주 테러 사건 이후, 또다시 기억 소거가 된 미하라.
+    마나를 통해, 슈엔이 이전에 만들어 놓은 새로운 바디를 이식받았다.
+    다시 지상에 올라 랩쳐 희귀 개체를 수색하고 있다.
+  ja: |-
+    アークテロ事件以降、再び記憶を消去されたミハラ。
+    シュエンが以前作った新しいボディをマナに移植された。
+    再び地上へ向かい、ラプチャーの希少個体を探している。
+162_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_162:
+  en: 'Mihara: Bonding Chain''s Spare Body'
+  ko: '미하라 : 본딩 체인 스페어 바디'
+  ja: ミハラ：ボンディングチェーンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21622_name:
+  en: Tighten Up
+  ko: 타이트
+  ja: タイテンアップ
+21622_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s) during Full Burst. Affects the target if the target is in Ensnaring Chains status.
+    <color=#00AEFF>Stack count of Ensnaring Chains ▲ {description_value_02}.</color>
+    ■ Activates when self is incapacitated. Affects the target(s) in Ensnaring Chains status.
+    <color=#00AEFF>Stack count of Ensnaring Chains ▲ {description_value_03}.</color>
+    ■ Activates when <word_group=10077>the enemy is neutralized</word_group>. Affects self if the target is in Ensnaring Chains status.
+    <color=#00AEFF>Restraint Chain ▲ {description_value_04}, up to 10.</color>
+    ■ Activates when entering Burst Stage 3. Affects self.
+    <color=#00AEFF>Sustained damage ▲ {description_value_07}% for {description_value_08} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 지속 시간 중 일반 공격 {description_value_01}회 명중 시 대상이 사슬 감기 상태라면 대상에게
+    <color=#00AEFF>[사슬 감기 중첩량 {description_value_02}개 ▲]</color>
+    ■ 자신이 전투 불능 시 사슬 감기 상태인 대상에게
+    <color=#00AEFF>[사슬 감기 중첩량 {description_value_03}개 ▲]</color>
+    ■ <word_group=10077>적 사망 시</word_group> 대상이 사슬 감기 상태였다면 자신에게
+    <color=#00AEFF>[포획 사슬 {description_value_04}개 ▲] [최대 10개]</color>
+    ■ 버스트 3단계 진입 시 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムの持続中、通常攻撃が{description_value_01}回命中した時、対象がチェーンバインド状態なら、対象に
+    <color=#00AEFF>「チェーンバインドのスタック量{description_value_02}個▲」</color>
+    ■自分が戦闘不能になった時、チェーンバインド状態の対象に
+    <color=#00AEFF>「チェーンバインドのスタック量{description_value_03}個▲」</color>
+    ■<word_group=10077>敵が破壊された時</word_group>、対象がチェーンバインド状態なら、自分に
+    <color=#00AEFF>「キャプチャーチェーン{description_value_04}回▲」
+    「最大10回」</color>
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「持続ダメージ{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21621_name:
+  en: Body Contact
+  ko: 바디 컨텍
+  ja: ボディコンタクト
+21621_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF>Charges {description_value_01} Restraint Chain(s), up to 10.</color>
+    ■ Activates if the caster has cast Burst Skill before Full Burst ends. Affects self.
+    <color=#00AEFF>Charges {description_value_01} Restraint Chain(s), up to 10.</color>
+    ■ Affects random enemy unit(s) at a <word_group=10075>specific timing</word_group>.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage. Attacks according to the number of Restraint Chain(s).
+    Restraint Chain ▼ 1 for each attack</color>
+    ■ Affects the same enemy unit(s).
+    <color=#00AEFF>Ensnaring Chains: Deals {description_value_03}% <word_group=10025>final</word_group> ATK as sustained damage every 1 sec continuously, stacks up to {description_value_04} time(s).</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[포획 사슬 {description_value_01}개 충전] [최대 10개]</color>
+    ■ 풀 버스트 타임 종료 시 직전에 자신이 버스트 스킬을 사용했다면 자신에게
+    <color=#00AEFF>[포획 사슬 {description_value_01}개 충전] [최대 10개]</color>
+    ■ <word_group=10075>지정된 타이밍</word_group>에 무작위 적들에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지] [포획 사슬 갯수만큼 공격] [공격 당 포획 사슬 1개 ▼]</color>
+    ■ 동일 적 대상에게
+    <color=#00AEFF>[사슬 감기 : <word_group=10025>최종</word_group> 공격력 {description_value_03}% 지속 대미지][1초 간격][{description_value_04} 중첩][지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「キャプチャーチェーン{description_value_01}回チャージ」
+    「最大10回」</color>
+    ■フルバーストタイムが終了した時、直前に自分がバーストスキルを使用していれば自分に
+    <color=#00AEFF>「キャプチャーチェーン{description_value_01}回チャージ」
+    「最大10回」</color>
+    ■<word_group=10075>特定のタイミング</word_group>でランダムな敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」
+    「キャプチャーチェーンの回数分だけ攻撃」「攻撃1回ごとにキャプチャーチェーン1回▼」</color>
+    ■同じ敵に
+    <color=#00AEFF>「チェーンバインド：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の持続ダメージ」「1秒間隔」「{description_value_04}スタック」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11623_name:
+  en: Bonding Pain
+  ko: 본딩 페인
+  ja: ボンディングペイン
+11623_description:
+  en: |-
+    ■ Affects the target(s) in Ensnaring Chains status.
+    <color=#00AEFF>Dragging Chain: Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec. <word_group=10026>Mirrors the stack count</word_group> of Ensnaring Chains on certain target(s) for {description_value_04} sec.
+    Removes Ensnaring Chains status after the effect is triggered.</color>
+  ko: |-
+    ■ 사슬 감기 상태인 대상에게
+    <color=#00AEFF>[사슬 당기기 : <word_group=10025>최종</word_group> 공격력 {description_value_03}% 지속 대미지] [1초 간격] [개별 대상 사슬 감기 <word_group=10026>중첩 복사</word_group>] [{description_value_04}초 유지]
+    [효과 적용 후 사슬 감기 제거]</color>
+  ja: |-
+    ■チェーンバインド状態の対象に
+    <color=#00AEFF>「プリング・チェーン：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の持続ダメージ」「1秒間隔」「個別対象ごとにチェーンバインド<word_group=10026>スタックコピー</word_group>」「{description_value_04}秒間維持」
+    「効果適用後、チェーンバインド解除」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+160_name:
+  en: Yuni
+  ko: 유니
+  ja: ユニ
+161_name:
+  en: Mihara
+  ko: 미하라
+  ja: ミハラ
+c162_Lobby_Touch_1:
+  en: |-
+    I think these changes in my body have made me more sensitive.
+    Now I can enjoy even deeper sensations.
+  ko: |-
+    바디가 바뀌면서, 몸이 더 예민해진 느낌이야.
+    깊은 감각까지 즐길 수 있겠어.
+  ja: |-
+    ボディが変わって、敏感になったみたい。
+    もっと深くまで楽しめそうだわ。
+c162_Lobby_Touch_2:
+  en: So this is what it feels like to be shackled?
+  ko: 속박당하는 기분은, 이런 거였구나.
+  ja: 束縛されるって、こういう感じなのね。
+c162_Lobby_Touch_3:
+  en: With this body, I think I'll be able to try out even more things, haha.
+  ko: 이 몸이라면, 좀 더 이것저것 시도해 볼 수 있겠는걸? 후후.
+  ja: |-
+    この体なら色々と試せそうだわ。
+    ふふ。
+c162_Lobby_Touch_Love_1:
+  en: |-
+    The pain whenever I see Yuni is immense...
+    It's something I'll never forget.
+  ko: |-
+    유니를 볼 때마다 느껴지는 이 고통.
+    영원히 잊을 수 없을 거야.
+  ja: |-
+    ユニを見る度に感じるこの痛み。
+    永遠に忘れないわ。
+c162_Lobby_Touch_Love_2:
+  en: There's no greater thrill than when your life is on the line!
+  ko: 목숨을 붙잡힌 것보다, 더 한 자극은 없을 거야…!
+  ja: |-
+    命をかける…
+    これ以上のスリルはないわ！
+c162_Lobby_Touch_Love_3:
+  en: To have a relationship where we inflict and endure pain together... wouldn't
+    that be perfect?
+  ko: |-
+    서로를 고통 주고, 서로가 고통스러워하는 관계.
+    정말 완벽하다고 생각하지 않아?
+  ja: |-
+    お互いに苦しみを与え、苦しむ関係。
+    本当に完璧だと思わない？
+c162_Lobby_Stay_1:
+  en: |-
+    I can't afford to be alone like this.
+    I'm sorry, but can I go to Yuni?
+  ko: |-
+    이렇게 따로 있을 여유는 없는데.
+    미안하지만, 유니에게 가봐도 될까?
+  ja: |-
+    ユニをひとりにできないわ。
+    悪いけど、ユニの所に行かせて。
+c162_Lobby_Stay_Love_1:
+  en: |-
+    It's okay, I can wait for a bit.
+    Anxiety can be exciting for me, too.
+  ko: |-
+    괜찮아, 이 정도는 기다릴 수 있어.
+    이 불안함조차 나를 흥분시키거든.
+  ja: |-
+    大丈夫よ、これくらい待てるわ。
+    この不安が私を興奮させるの。
+c162_Outpost_Touch_1:
+  en: '"Seedy Club?" A rather unusual name... but I like it.'
+  ko: |-
+    수상한 클럽? 이상한 이름이네.
+    하지만 마음에 들어.
+  ja: |-
+    あやしいクラブ？変な名前ね。
+    でも気に入ったわ。
+c162_Outpost_Touch_2:
+  en: That's strange. I don't remember ever having been here, but this place feels
+    so familiar somehow.
+  ko: |-
+    이상하네~ 기억에는 없는 곳인데.
+    자꾸 익숙한 느낌이 들어.
+  ja: |-
+    変だわ。初めての場所なのに…
+    初めてじゃないみたい。
+c162_Outpost_Touch_3:
+  en: Do you think Yuni and I will fit in here? It's such a bright and lively place.
+  ko: |-
+    밝고 활기차네.
+    나와 유니도 어울릴 수 있을까?
+  ja: |-
+    明るくて活気のある場所ね。
+    私とユニにも合うかしら。
+c162_Gacha_Get_1:
+  en: Living life on the edge, with a bomb strapped to your back. What could be more
+    thrilling than that?
+  ko: |-
+    뒤에 폭탄을 둔 아슬아슬한 삶이라니,
+    정말 짜릿할 것 같지 않아?
+  ja: |-
+    爆弾を背負った人生だなんて、
+    スリル満点じゃない？
+c162_Reinforce_1:
+  en: |-
+    I feel like my skin is thinner than before.
+    That must mean I'll be able to feel more, right?
+  ko: |-
+    점점 살이 얇아지는 기분이야.
+    그만큼 더 많은 걸 느낄 수 있겠지?
+  ja: |-
+    どんどん皮膚が薄くなっていく気がする。
+    その分もっと感じられるわよね？
+c162_Reinforce_2:
+  en: I need to keep myself healthy, so that I can protect Yuni.
+  ko: |-
+    더 강해져야 해.
+    유니를 지킬 수 있도록.
+  ja: |-
+    もっと強くならなくちゃ。
+    ユニを守るために。
+c162_Reinforce_3:
+  en: |-
+    Hmm, this feels nice.
+    Such sensations feel pretty good too.
+  ko: |-
+    으음, 기분 좋아.
+    이런 느낌도 좋은 걸?
+  ja: |-
+    う―ん、いい気分。
+    こういう感覚も悪くないわね。
+c162_Gift_1:
+  en: Haha. Yuni would get a kick out of this.
+  ko: 후후. 유니가 좋아하겠는걸?
+  ja: ふふ。ユニが喜びそうだわ。
+c162_Gift_2:
+  en: This is my first time seeing this, but it feels familiar. I'll make good use
+    of this.
+  ko: 처음 보는 건데 낯설지가 않네. 잘 쓸게.
+  ja: |-
+    初めてなのに、懐かしい気がするわ。
+    ありがとう。
+c162_Gift_3:
+  en: |-
+    How should I repay you?
+    I wonder if you and I have similar tastes? Haha.
+  ko: |-
+    어떻게 보답을 해야 하지.
+    나랑 취향이 좀 맞으려나? 후후.
+  ja: |-
+    どんなお返しをしようかしら？
+    私の好みと似ているかしら？ふふ。
+c162_Attractive_Up_1:
+  en: "This feeling, this sensation... I've felt it before. \nWould you show me a
+    little more?"
+  ko: |-
+    이 감정, 이 감각… 느껴본 적 있어.
+    조금만 더 알려줄래?
+  ja: |-
+    この感情、この感覚…覚えがあるわ。
+    もう少しだけ教えてくれる？
+c162_Attractive_Up_2:
+  en: You really do understand. I like that.
+  ko: 포인트를 너무 잘 아는걸? 마음에 들어.
+  ja: |-
+    ポイントをちゃんと押さえてるわね。
+    気に入ったわ。
+c162_Attractive_Up_3:
+  en: Is this what it means when they say existence itself is stimulating?
+  ko: 존재만으로도 자극적이라는 게 이런 걸까?
+  ja: 存在してるだけでも刺激的ってこういうことかしら。
+c162_Party_Deploy_1:
+  en: Shall we go, Yuni?
+  ko: 갈까, 유니?
+  ja: 行きましょ、ユニ。
+c162_Field_Touch_1:
+  en: Could you press a little harder?
+  ko: 좀 더 세게 눌러줄래♡?
+  ja: もう少し強く押してくれる♡？
+c162_Field_Go_1:
+  en: Keep showing us the way!
+  ko: 계속 리드 부탁해♡
+  ja: そのままリードしてちょうだい♡
+c162_Battle_Enter_1:
+  en: Enough business. Time for pleasure.
+  ko: 쾌락의 시간이네.
+  ja: 快楽の時間よ。
+c162_Battle_Ready_1:
+  en: This is going to be fun.
+  ko: 즐거운 시간, 기대할게.
+  ja: 楽しい時間を期待してるわ。
+c162_Battle_Ready_2:
+  en: Push me to my limit.
+  ko: 한계까지 몰아붙여 줘.
+  ja: 限界まで攻めるわよ。
+c162_Battle_Ready_3:
+  en: I'm not sure if I can hit hard enough...
+  ko: 잘 때릴 수 있으려나.
+  ja: ちゃんと叩けるかしら。
+c162_Reload_1:
+  en: I'm getting more and more excited!
+  ko: 점점 흥분되는걸?
+  ja: 興奮してきちゃった。
+c162_Reload_2:
+  en: Just a second, Yuni.
+  ko: 유니, 조금만 기다려 줘~
+  ja: ユニ、ちょっと待っててね～
+c162_Reload_3:
+  en: I just got hit. It felt good.
+  ko: 방금 맞은 곳, 기분 좋았어.
+  ja: さっき当たった場所、気持ちよかったわ。
+c162_Ult_Skill_Ready_1:
+  en: I can't hold back...
+  ko: 못 참겠어….
+  ja: もう我慢できない…
+c162_Ult_Skill_1:
+  en: Quietly, fully, restrain me.
+  ko: 조용히, 깊게 속박시켜 줘.
+  ja: 静かに、深く、私を縛って。
+c162_FullBurst_1:
+  en: Let's all enjoy this together.
+  ko: 다 함께 즐기는 거야.
+  ja: みんなで楽しみましょ。
+c162_Kill_Monster_1:
+  en: This isn't bad either.
+  ko: 이쪽도 나름 괜찮네.
+  ja: こっちもなかなかね。
+c162_Kill_Monster_2:
+  en: So weak.
+  ko: 너무 약한데.
+  ja: 弱すぎるわ。
+c162_Kill_Monster_3:
+  en: I'm pretty good too, aren't I?
+  ko: 나도 제법이지?
+  ja: 私もなかなかやるでしょ？
+c162_Damage_1:
+  en: Urgh...!
+  ko: 으흣…!
+  ja: うふっ…！
+c162_Damage_2:
+  en: Right there!
+  ko: 방금, 거기♡
+  ja: そこ♡
+c162_Damage_3:
+  en: Ahh...!
+  ko: 꺄흣…!
+  ja: きゃっ…！
+c162_Die_1:
+  en: I'm sorry, Yuni. I must have enjoyed it too much.
+  ko: 미안해 유니, 너무 즐겨버렸나 봐.
+  ja: |-
+    ごめんね、ユニ。
+    楽しみすぎちゃったみたい。
+c162_Win_1:
+  en: It's already over? That's a shame. It felt good. Haha.
+  ko: 벌써 끝났어? 아쉽네, 기분 좋았는데. 후후.
+  ja: |-
+    もう終わり？残念だわ。
+    気持ちよかったのに。ふふ。
+c162_01_Lobby_Touch_1:
+  en: |-
+    Still too weak.
+    Can't you do it a little harder?
+  ko: |-
+    아직 많이 약해.
+    조금 더 세게 부탁해.
+  ja: |-
+    まだ弱いわ。
+    もっと強くお願い。
+c162_01_Lobby_Touch_2:
+  en: When are you finally going to let go of your reservations and let me enjoy this
+    fully?
+  ko: |-
+    이제 그만 부끄러워해도 될 것 같은데.
+    언제쯤 제대로 즐기게 해줄 거야?
+  ja: |-
+    恥ずかしがらなくていいのよ。
+    いつになったらちゃんと楽しませてくれるの？
+c162_01_Lobby_Touch_3:
+  en: If you're under some stress, feel free to take it out on me, hehe.
+  ko: |-
+    스트레스받는 일 있어?
+    그럼 나한테 다 풀어줘. 후후.
+  ja: |-
+    ストレスが溜まってる？
+    私に全部吐き出していいのよ。ふふ。
+c162_01_Lobby_Touch_Love_1:
+  en: "I think I've become accustomed to these things... \nUnless it's a stronger
+    stimulus, my body won't even react anymore."
+  ko: |-
+    나, 완전히 길들여진 것 같아…
+    이 이상의 자극이 아니면 몸이 반응하질 않아.
+  ja: |-
+    私、飼い慣らされてしまったかも…
+    これ以上の刺激じゃないと体が反応しないわ…
+c162_01_Lobby_Touch_Love_2:
+  en: |-
+    My body has become quite sensitive.
+    Please, keep going.
+  ko: |-
+    몸이 잔뜩 예민해졌어.
+    그러니까 계속해 줄래?
+  ja: |-
+    体がすごく敏感になってるわ。
+    もっと続けてちょうだい。
+c162_01_Lobby_Touch_Love_3:
+  en: |-
+    I've never met someone I could speak with so easily.
+    Let's talk all night! Hehe!
+  ko: |-
+    대화가 이렇게 잘 통하는 사람은 처음이야.
+    밤새 떠들까 우리? 후후.
+  ja: |-
+    こんなに話が合う人は初めてよ。
+    夜通しお喋りしない？ふふ。
+c162_01_Lobby_Stay_1:
+  en: |-
+    You're not going to leave me like this, are you?
+    My body is getting restless...
+  ko: |-
+    이렇게 내버려둘 거야?
+    몸이 심심해하는데….
+  ja: |-
+    このまま私を放っておくつもり？
+    体が暇だって言ってるわ…
+c162_01_Lobby_Stay_Love_1:
+  en: |-
+    The way you're looking at me, it's like you want to devour me.
+    If you're going to make a move, take it slow and savor every moment. Hehe.
+  ko: |-
+    시선이 너무 뜨겁네, 잡아먹히겠어.
+    이왕이면 천천히, 맛을 하나하나 음미해 줘. 후후.
+  ja: |-
+    視線が熱いわ。食べられちゃいそう。
+    せっかくだから、ゆっくり一口一口味わってね。ふふ。
+c162_01_Outpost_Touch_1:
+  en: I'll be waiting for you tonight, hehe.
+  ko: 밤에 기다릴게. 후후.
+  ja: 夜になったら、待ってるわ。ふふ。
+c162_01_Outpost_Touch_2:
+  en: |-
+    Isn't there somewhere darker or quieter we can go?
+    It's too bright here.
+  ko: |-
+    더 어둡고, 조용한 곳은 없을까?
+    여기는 너무 밝아.
+  ja: |-
+    もっと暗くて静かな場所はない？
+    ここは明るすぎるわ。
+c162_01_Outpost_Touch_3:
+  en: I don't see anyone here worth conversing with.
+  ko: 나와 대화를 나눠줄 만한 사람은… 딱히 안 보이네.
+  ja: |-
+    私と会話できそうな人は…
+    いないわね。
+c162_01_Gacha_Get_1:
+  en: "You know the rules. \nAnswer me with your actions."
+  ko: |-
+    이곳의 규칙은 알고 있지?
+    대답은 몸으로 해줘.
+  ja: |-
+    ここのルールは知ってるわよね？
+    体で答えてちょうだい。
+c162_01_Reinforce_1:
+  en: Now that you've become stronger, go harder.
+  ko: 단단해진 만큼, 더 세게 부탁해.
+  ja: 強くなったからその分、もっと強くして。
+c162_01_Reinforce_2:
+  en: Your stamina has improved, so now we can last longer.
+  ko: 체력이 좋아졌으니까, 더 오래 할 수 있겠네?
+  ja: 体力がついたから、もっと長くできそうだわ。
+c162_01_Reinforce_3:
+  en: There's no time to rest. Let's keep going.
+  ko: 지칠 틈이 없겠어. 하던 거, 계속할까?
+  ja: |-
+    疲れてる暇もないわね。
+    さっきの続き、しちゃう？
+c162_01_Gift_1:
+  en: |-
+    This doesn't seem like a gift just for me.
+    Hehe, we can both put it to good use later.
+  ko: |-
+    나만을 위한 선물은 아닌 것 같은데?
+    후후, 이따 같이 쓰자.
+  ja: |-
+    私だけのためのプレゼントじゃないみたいね？
+    ふふ、後で一緒に使いましょ。
+c162_01_Gift_2:
+  en: Oh, so this is what you're into? I'll keep that in mind.
+  ko: 이런 취향이었구나? 고마워, 참고해 둘게.
+  ja: |-
+    こういう趣味なのね。
+    ありがとう、参考になるわ。
+c162_01_Gift_3:
+  en: Since I received a gift, I'll have to put in more effort today. Hehe.
+  ko: |-
+    선물을 받아버렸으니…
+    오늘은 더 힘내야겠네? 후후.
+  ja: |-
+    プレゼントももらったし…
+    今日はもっと頑張らなくちゃ。
+c162_01_Attractive_Up_1:
+  en: You've managed to make me a very eager girl. I'm impressed.
+  ko: 나를 이렇게까지 안달 나게 하다니… 대단한데?
+  ja: |-
+    私をこんなに焦らすなんて…
+    すごいわ。
+c162_01_Attractive_Up_2:
+  en: I want to have even more conversations with you.
+  ko: 지금보다 더 많은 대화를 나누고 싶어.
+  ja: もっとたくさんお話がしたいわ。
+c162_01_Attractive_Up_3:
+  en: Oh dear, it looks like you've captured both my body and mind, hehe.
+  ko: 이런… 몸도 마음도 다 빼앗겨 버렸네? 후후.
+  ja: あら…心も体も全部奪われちゃったわね？ふふ。
+c162_01_Party_Deploy_1:
+  en: All right, let's go.
+  ko: 그래, 가자.
+  ja: いいわ。行きましょう。
+c162_01_Field_Touch_1:
+  en: Mmh, right there, that's good.
+  ko: 으응, 거기 좋아♡
+  ja: ああっ。そこいい感じ♡
+c162_01_Field_Go_1:
+  en: Be rough with me.
+  ko: 더 거칠게 이끌어 줘♡
+  ja: もっと荒々しく引っ張って♡
+c162_01_Battle_Enter_1:
+  en: Hehe. What kind of thrill will you give me?
+  ko: 후후. 어떤 자극을 안겨주려나?
+  ja: ふふ。どんな刺激が待ってるかしら？
+c162_01_Battle_Ready_1:
+  en: Let me tease you.
+  ko: 괴롭혀줄게.
+  ja: 苦しめてあげる。
+c162_01_Battle_Ready_2:
+  en: I'm right here, try and hit me!
+  ko: 난 여기에 있을게, 잘 맞혀봐.
+  ja: 私はここよ。当ててみて。
+c162_01_Battle_Ready_3:
+  en: Just don't finish too quickly.
+  ko: 금방 끝내지만 말아줘.
+  ja: すぐ終わらせちゃダメよ。
+c162_01_Reload_1:
+  en: It was just starting to get good.
+  ko: 한참 좋았는데~
+  ja: いいところだったのに～
+c162_01_Reload_2:
+  en: We can't let our conversations get interrupted.
+  ko: 대화가 끊어지면 안 되는데.
+  ja: 会話が途切れちゃダメよ。
+c162_01_Reload_3:
+  en: Hehe. Ahaha!
+  ko: 후후. 아하핫!
+  ja: ふふ。あはは！
+c162_01_Ult_Skill_Ready_1:
+  en: I can feel it.
+  ko: 느낌이 왔어.
+  ja: 来たわ、この感じよ。
+c162_01_Ult_Skill_1:
+  en: Harder... Just a bit harder...!
+  ko: 세게… 조금 더 세게…!
+  ja: 強く…もっと強く…！
+c162_01_FullBurst_1:
+  en: Swing wildly!
+  ko: 마구 휘두르는 거야.
+  ja: かき回すわよ。
+c162_01_Kill_Monster_1:
+  en: Maybe that was too intense.
+  ko: 자극이 너무 강했나 봐.
+  ja: 刺激が強すぎたみたいね。
+c162_01_Kill_Monster_2:
+  en: It's over already?
+  ko: 벌써 끝?
+  ja: もう終わり？
+c162_01_Kill_Monster_3:
+  en: Is this one next?
+  ko: 다음은, 여긴가?
+  ja: 次は…ここかしら？
+c162_01_Damage_1:
+  en: Urgh...!
+  ko: 으흣…!
+  ja: うふっ…！
+c162_01_Damage_2:
+  en: A little more!
+  ko: 조금 더♡
+  ja: もう少し♡
+c162_01_Damage_3:
+  en: Ahah...!
+  ko: 아핫…!
+  ja: あはっ…！
+c162_01_Die_1:
+  en: Hehe... I'm out of breath. I can't go on.
+  ko: 하아… 숨이 너무 차서 안 되겠어….
+  ja: はあ…息が切れてしまってダメね…
+c162_01_Win_1:
+  en: Hmm, not quite enough. Why don't we continue for a little while longer? Hehe.
+  ko: 으음, 부족한데. 우리끼리 조금 더 할까? 후후.
+  ja: |-
+    うーん、物足りないわね。
+    もう少しだけ二人で続けましょ？ふふ。
+162_cv_ja:
+  en: 'CV: Mutsumi Tamura'
+  ko: 'CV : 타무라 무츠미'
+  ja: CV：田村睦心
+162_cv_ko:
+  en: 'CV: Yoo Bo-ra'
+  ko: 'CV : 유보라'
+  ja: CV：ユ・ボラ
+162_cv_en:
+  en: 'CV: Anne Yatco'
+  ko: 'CV : 앤 야트코'
+  ja: CV：Anne Yatco

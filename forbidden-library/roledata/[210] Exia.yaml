@@ -1,0 +1,733 @@
+---
+210_name:
+  en: Exia
+  ko: 엑시아
+  ja: エクシア
+c210_description:
+  en: A hacking wunderkind from Protocol. No one can hold a candle to her when it
+    comes to video games.
+  ko: "프로토콜 스쿼드 소속의 천재 해커. \n게임에도 일가견이 있어 어떤 게임을 잡든 랭킹 1위를 놓치지 않는다."
+  ja: |-
+    プロトコール部隊所属の天才ハッカー。
+    ゲームにも精通しており、どんなゲームを
+    プレイしてもランキング1位を逃さない。
+210_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50210:
+  en: Exia's Spare Body
+  ko: 엑시아 스페어 바디
+  ja: エクシアのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+22102_name:
+  en: Secret Code
+  ko: 시크릿 코드
+  ja: シークレットコード
+22102_description:
+  en: |-
+    ■ Activates when the last round of ammunition hits. Affects self.
+    <color=#00AEFF>Collect Hacking Code: ATK ▲ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
+  ko: |-
+    ■ 마지막 탄환 명중 시 자신에게
+    <color=#00AEFF>[해킹 코드 수집 : 공격력 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、自分に
+    <color=#00AEFF>「ハッキングコード収集：攻撃力{description_value_01}％▲」「{description_value_02}スタック」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22101_name:
+  en: Invasion
+  ko: 인베이젼
+  ja: インヴェイジョン
+22101_description:
+  en: |-
+    ■ When the last round of ammunition hits, affects the target if the caster is in Collect Hacking Code.
+    <color=#00AEFF>ATK ▼ {description_value_01}% for {description_value_02} sec.
+    DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 마지막 탄환 명중 시 자신이 해킹 코드 수집 상태라면 대상에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▼] [{description_value_02}초 유지]
+    [방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、自分がハッキングコード収集状態なら対象に
+    <color=#00AEFF>「攻撃力{description_value_01}％▼」「{description_value_02}秒間維持」
+    「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12103_name:
+  en: Partisan Protocol
+  ko: 원사이드 프로토콜
+  ja: ワンサイドプロトコル
+12103_description:
+  en: |-
+    ■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> DEF.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.
+    DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when Collect Hacking Code is fully stacked. Affects the same target(s).
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]
+    [방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+    ■ 자신이 해킹 코드 수집 최대 중첩 상태라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 추가 대미지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」
+    「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+    ■自分がハッキングコード収集のフルスタック状態なら、同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+212_name:
+  en: Novel
+  ko: 노벨
+  ja: ノベル
+c210_Lobby_Touch_1:
+  en: This gameplay is enough to put me to sleep.
+  ko: |-
+    타격감이 영-
+    별로네요-
+  ja: 打撃感がイマイチですね…
+c210_Lobby_Touch_2:
+  en: Ugh! Another round! That's no fair!
+  ko: |-
+    으-악-
+    이길 때까지 재도전-
+  ja: |-
+    うああっ
+    勝つまでリトライ…
+c210_Lobby_Touch_3:
+  en: How come you die so much, Noob?
+  ko: |-
+    왜 자꾸 죽나요-
+    뉴-비-
+  ja: |-
+    なんでそんなにすぐ死ぬんですー
+    初心者さーん…
+c210_Lobby_Touch_Love_1:
+  en: |-
+    I am an untraceable hacker.
+    Tonight, our objective is to obtain the enemy's source code.
+  ko: |-
+    나는야 무적의 해커-
+    오늘 밤도 적들의 소스 코드를 노리지-
+  ja: |-
+    私は無敵ハッカー…
+    今夜も敵のソースコードを狙うよー…
+c210_Lobby_Touch_Love_2:
+  en: |-
+    Don't tell me you're still not strong enough?
+    Don't worry, let the pro help you out.
+  ko: |-
+    뉴-비- 실력이 안 늘죠-
+    내가 평생 캐리해 줘야겠-죠-
+  ja: |-
+    初心者さーん…
+    実力が伸びませんねー
+    私が一生サポートしてあげないとねー…
+c210_Lobby_Touch_Love_3:
+  en: |-
+    *Yawn* I'm sleepy.
+    Be my pillow, will you?
+  ko: |-
+    졸-려-
+    인간 베개 주세-요-
+  ja: |-
+    眠ーい…
+    人間枕くださーい…
+c210_Lobby_Stay_1:
+  en: |-
+    Helloooo, the game won't play itself!
+    Input a command already.
+  ko: |-
+    이 게임은 방치형 게임이 아-님-
+    빨리 커맨드를 입력하세-요-
+  ja: |-
+    このゲームは放置ゲームではありませーん…
+    早くコマンドを入力してくださーい…
+c210_Lobby_Stay_Love_1:
+  en: Does your mind wander whenever you're in front of a Nikke?
+  ko: 당신의 니케를 두고 한눈파는 겁니까- 어이-
+  ja: 私を差し置いて、目移りするんですかーはぁー…
+c210_Outpost_Touch_1:
+  en: Any interesting video games around?
+  ko: 아- 뭐 괜찮은 게임 없나요-
+  ja: あー、何か面白いゲーム ありませんかね…
+c210_Outpost_Touch_2:
+  en: The radio tower is hands down the best place to play online games!
+  ko: 온라인 게임하기엔- 전파탑이 최고죠-
+  ja: オンラインゲームするなら… 電波塔が最高です…
+c210_Outpost_Touch_3:
+  en: I wonder where I can get the strongest connection...
+  ko: 전초기지에서 가장 통신이 빠른 곳이 어디-게-
+  ja: 前哨基地で 一番通信速度が速い所は どーこだー…
+c210_Gacha_Get_1:
+  en: Allow me to introduce myself. Nobody can top me when it comes to hacking, and
+    I'm at the top of the leaderboards as well.
+  ko: |-
+    랭킹 1위 게이머-가- 사실은 일류 해커였다니-
+    …는 자기소개였습니다- 예-
+  ja: |-
+    ランキング1位のゲーマーが…実は一流ハッカーだったなんて…
+    …って自己紹介でしたー…はい…
+c210_Reinforce_1:
+  en: Leveled up! Great!
+  ko: "만-세- \n레벨 업이다-"
+  ja: |-
+    バンザーイ…
+    レベルアップだ…
+c210_Reinforce_2:
+  en: On the fast-track to excellence!
+  ko: "이번 열차는 만렙행- \n만렙행 열차입니다-"
+  ja: |-
+    次の列車はレベルMAX行き…
+    レベルMAX行き列車です…
+c210_Reinforce_3:
+  en: Oh my gosh, my power is over 9000!
+  ko: 으악- 전투력 측정기가 부서진-다-
+  ja: うああっ…戦闘力測定器が壊れちゃう…
+c210_Gift_1:
+  en: If you think this will make me happy, well... You're right!
+  ko: |-
+    내가 고작 이런 걸로 기뻐할 거라 생각했다면-
+    오예입니다-
+  ja: |-
+    私がたかがこんなもので喜ぶとでも思っただなんて…
+    サンキューです…
+c210_Gift_2:
+  en: Event triggered! Lucky!
+  ko: 럭키 이벤트 발-생-
+  ja: ラッキーイベント発生…
+c210_Gift_3:
+  en: A gift! I'm so happy!
+  ko: |-
+    선물이다-
+    신난-다-
+  ja: |-
+    プレゼントだ…
+    わーい…
+c210_Attractive_Up_1:
+  en: I hate offline meet-ups, but if it's you, Noob, I suppose I can make an exception.
+  ko: "오프라인 만남은 질색이지만- \n뉴비라면 괜찮을지도-"
+  ja: |-
+    オフ会はこりごりだけど…
+    初心者さんならいいかも…
+c210_Attractive_Up_2:
+  en: |-
+    Bond level up.
+    Congrats, you've unlocked the ability to caress my hair.
+  ko: |-
+    친밀도 레벨 업-
+    이제부터는 머리를 쓰다듬어도 좋습니-다-
+  ja: |-
+    親密度レベルアップ―…
+    もう頭をなでてもいいですよー…
+c210_Attractive_Up_3:
+  en: The top-ranked player has ice in her veins but is far from icy with you.
+  ko: |-
+    랭킹 1위 게이머는 차가운 냉혈한이지-만-
+    내 뉴비에게만은 따뜻하겠-지-
+  ja: |-
+    ランキング1位のゲーマーは冷たい冷血漢ではありますがー…
+    私の初心者さんにだけは優しいでしょう…
+c210_Party_Deploy_1:
+  en: Exia, at your service!
+  ko: 엑시아- 출격합니다-
+  ja: エクシア…出撃します…
+c210_Field_Touch_1:
+  en: Awaiting your orders.
+  ko: 명령을 주세-요-
+  ja: 命令をくださーい…
+c210_Field_Go_1:
+  en: Proceeding with caution.
+  ko: 성실하게 이동 중-
+  ja: 真面目に移動中…
+c210_Battle_Enter_1:
+  en: Engaging!
+  ko: 인카운-터-
+  ja: エンカウンター…
+c210_Battle_Ready_1:
+  en: Hacker ready!
+  ko: 해킹 준비 완료-
+  ja: ハッキング準備完了…
+c210_Battle_Ready_2:
+  en: Game on!
+  ko: 게임 스타-트-
+  ja: ゲームスタート…
+c210_Battle_Ready_3:
+  en: All right noobs, can you "hack" it?
+  ko: "힘을 숨긴 해커- \n실력을 개방합니-다-"
+  ja: |-
+    実力を隠してきたハッカー…
+    本気出しまーす…
+c210_Reload_1:
+  en: Reload-
+  ko: 리로드-
+  ja: リロード…
+c210_Reload_2:
+  en: Verifying codes...
+  ko: 코드 점검 중-
+  ja: コードを点検中…
+c210_Reload_3:
+  en: Press R to reload.
+  ko: 재장전은 R 키-
+  ja: リロードはRキー…
+c210_Ult_Skill_Ready_1:
+  en: Hacker code, ready!
+  ko: "해킹 코드- \n준비 완료-"
+  ja: |-
+    ハッキングコード…
+    準備完了…
+c210_Ult_Skill_1:
+  en: Hacking the enemy system - hacking completed.
+  ko: 적 시스템에 침투- 광역 해킹 완-료-
+  ja: 敵のシステムに侵入…広域ハッキング完了…
+c210_FullBurst_1:
+  en: Incoming!
+  ko: 다굴에는 장사가 없습니-다-
+  ja: 集団リンチにはかないません…
+c210_Kill_Monster_1:
+  en: Coup de grace!
+  ko: 막타 먹을게-요-
+  ja: ラストヒット…決めますよ…
+c210_Kill_Monster_2:
+  en: Next!
+  ko: 다음 갑니다-
+  ja: 次行きまーす…
+c210_Kill_Monster_3:
+  en: You died!
+  ko: You Died-
+  ja: あなたはもう死んでいる…
+c210_Damage_1:
+  en: Ou-ch-
+  ko: 으-악-
+  ja: うぅーあーっ。
+c210_Damage_2:
+  en: Help!
+  ko: 살-려-
+  ja: 助けてー…
+c210_Damage_3:
+  en: "*Stomach growling—*"
+  ko: 꼬르륵-
+  ja: グゥゥー
+c210_Die_1:
+  en: Game... Over...
+  ko: 게임 오-버-
+  ja: ゲームオーバー…
+c210_Win_1:
+  en: Good game!
+  ko: "게임 클리어- \n수고하셨습니-다-"
+  ja: |-
+    ゲームクリア…
+    お疲れ様でした…
+c210_01_Lobby_Touch_1:
+  en: |-
+    Is it Rudolph, or is it Bambi?
+    Take a guess, Noob.
+  ko: |-
+    루돌프일까요 밤비일까요-
+    맞춰보십쇼- 뉴비-
+  ja: |-
+    トナカイとバンビ…どっちでしょーかー…
+    当ててみてくださーい、初心者さーん…
+c210_01_Lobby_Touch_2:
+  en: Wait just a moment. We can't miss the Christmas event.
+  ko: |-
+    기다려주세요-
+    크리스마스 이벤트는 놓칠 수 없습니다-
+  ja: |-
+    ちょっと待ってくださーい…
+    クリスマスイベントは外せませーん…
+c210_01_Lobby_Touch_3:
+  en: I made these clothes myself. Just kidding, I bought them.
+  ko: |-
+    이 옷은 직접 만든 것입니다-
+    농담, 그냥 구입한 것입니다-
+  ja: |-
+    この服は私が作りましたー…
+    冗談でーす…
+    どっかで買いましたー…
+c210_01_Lobby_Touch_Love_1:
+  en: |-
+    What are you doing for Christmas?
+    If you don't have anything planned, let's play a game.
+  ko: |-
+    뉴비는 크리스마스에 뭐 하나요-
+    별일 없으면 같이 게임이나 하죠-
+  ja: |-
+    初心者さん、クリスマスは何しますかー…
+    特に予定がなければ一緒にゲームしましょー…
+c210_01_Lobby_Touch_Love_2:
+  en: |-
+    Actually, I'm not wearing anything under this.
+    I wonder if that will get some kind of reaction...
+  ko: |-
+    사실 이 안에는 아무것도 안 입었습니다-
+    라고 하면 반응이 좀 오나요-
+  ja: |-
+    実はこの下に何も着てませーん…
+    って言ったらこっち見てくれますかねー…
+c210_01_Lobby_Touch_Love_3:
+  en: It looks like something you could ride, but not me.
+  ko: |-
+    탈것처럼 생기긴 했지만-
+    저는 탑승 불가입니다-
+  ja: |-
+    乗れるように見えますが―…
+    私には乗らないでくださーい…
+c210_01_Lobby_Stay_1:
+  en: Fine, ignore me all you want. I'm busy with the Christmas event anyway.
+  ko: |-
+    마음껏 방치하십쇼-
+    나도 크리스마스 이벤트로 바쁩니-다-
+  ja: |-
+    好きなだけ放置プレイしてくださーい…
+    私もクリスマスイベントで忙しいですから―…
+c210_01_Lobby_Stay_Love_1:
+  en: Even my sides are cold in the winter. Brrr...
+  ko: 제아무리 나라도 겨울엔 옆구리가 시린 법입니다- 예-
+  ja: 私も冬になると人肌恋しいものでーす…はい…
+c210_01_Outpost_Touch_1:
+  en: Any events going on?
+  ko: 여긴 뭐 이벤트 없나요-
+  ja: ここはイベントとか ないんですかー…
+c210_01_Outpost_Touch_2:
+  en: You could at least put up a tree...
+  ko: 트리 정도는 놔두란 말입니다- 어이-
+  ja: ツリーくらい 飾ってくださーい… はぁ…
+c210_01_Outpost_Touch_3:
+  en: I knew I wouldn't be able to fool you so easily. How disappointing...
+  ko: |-
+    바닥이 미끄러지는 기믹 같은 건 역시 없군요-
+    실-망-
+  ja: |-
+    滑る床ギミックとか やっぱりないですよねー
+    がっかり―…
+c210_01_Gacha_Get_1:
+  en: Tada. Rudolph's bite has turned this poor girl into a were-Rudolph.
+  ko: |-
+    루돌프에게 물려 웨어 루돌프가 된 가련한 소녀-
+    등-장-
+  ja: |-
+    トナカイにかまれトナカイになってしまった
+    哀れな少女―…登場―…
+c210_01_Reinforce_1:
+  en: It's common to have a lot of EXP events during Christmas.
+  ko: 크리스마스에는 경험치 이벤트도 많이 하는 법이죠-
+  ja: クリスマスの経験値イベントはお約束でーす…
+c210_01_Reinforce_2:
+  en: Are there any other prizes for leveling up?
+  ko: 레벨 업 보상은 따로 없나요-
+  ja: レベルアップ報酬はないんですかー…
+c210_01_Reinforce_3:
+  en: Festive cheer, recharging!
+  ko: 크리스마스 파워- 충- 전-
+  ja: クリスマスパワー…チャージ…
+c210_01_Gift_1:
+  en: Hey, my affection is rising!
+  ko: 호오- 호감도가 올라가는군요-
+  ja: ほぉー。好感度がアップしていきまーす…
+c210_01_Gift_2:
+  en: I always feel different on special days like this.
+  ko: 날이 날이다 보니 기분이 색다르군요-
+  ja: やはり今日はちょっとワクワクしまーす…
+c210_01_Gift_3:
+  en: Wow, thanks Noob! It's fantastic. I've been dying to say this line forever.
+  ko: |-
+    꺄아- 고마워- 뉴비 너무 좋아-
+    같은 대사를 꼭 해보고 싶었습니다- 예-
+  ja: |-
+    きゃーありがとうー
+    初心者さん大好き―…
+    みたいなセリフ、言ってみたかったんでーすー…
+c210_01_Attractive_Up_1:
+  en: For you Noob, you can lean on me.
+  ko: 뉴비에게라면 등을 내어줄 수 있습니다-
+  ja: 初心者さんなら助けてあげてもいいでーす…
+c210_01_Attractive_Up_2:
+  en: There's a Bond increase event for Christmas.
+  ko: 크리스마스에는- 호감도 이벤트가 일어나는 법이죠-
+  ja: クリスマスに好感度イベントは外せませーん…
+c210_01_Attractive_Up_3:
+  en: You will belong to Exia. Proceed?
+  ko: |-
+    뉴비가 엑시아에게 귀속됩니다-
+    그래도 진행하시겠습니까-
+  ja: |-
+    初心者さんがエクシアに帰属しまーす…
+    本当によろしいですかー…
+c210_01_Party_Deploy_1:
+  en: Extreme cold mode Exia, ready for launch.
+  ko: 한랭지 사양 엑시아 출격 준비 완료-
+  ja: 寒冷地仕様のエクシア出撃準備完了―…
+c210_01_Field_Touch_1:
+  en: I am Rudolph!
+  ko: 내가 루돌프다-
+  ja: 私がトナカイだー…
+c210_01_Field_Go_1:
+  en: I want to try walking on all fours, but I guess that's a bit much.
+  ko: 사족 보행으로 가보고 싶지만 무리겠죠-
+  ja: 四足歩行で行くのは無理ですよねー…
+c210_01_Battle_Enter_1:
+  en: Engaging.
+  ko: 루돌프. 적을 구축한다-
+  ja: エンカウンター…
+c210_01_Battle_Ready_1:
+  en: You're getting a nightmare for Christmas.
+  ko: 크리스마스의 악몽을- 선사하겠다-
+  ja: |-
+    クリスマスの悪夢を―
+    お見舞いしてやろうー…
+c210_01_Battle_Ready_2:
+  en: Are drop rates increased now?
+  ko: 드랍율 상승 이벤트는 없나요-
+  ja: ドロップ率上昇イベントはありませんかー…
+c210_01_Battle_Ready_3:
+  en: Let's catch the event monster.
+  ko: 이벤트 몬스터를 잡아봅시다-
+  ja: イベントモンスターを捕まえてみまーす…
+c210_01_Reload_1:
+  en: It's annoying to reload in these gloves...
+  ko: 장갑이 불편하군요- 이런-
+  ja: |-
+    手袋がじゃまですねー
+    うかつでしたー…
+c210_01_Reload_2:
+  en: Re-lo-ad!
+  ko: 재-장-전-
+  ja: リロード…
+c210_01_Reload_3:
+  en: Keep smashing the R key.
+  ko: R 키를 연타해 볼까요-
+  ja: Rボタンを連打してみましょうかー…
+c210_01_Ult_Skill_Ready_1:
+  en: Take this ultimate.
+  ko: 받아라- 궁극의-
+  ja: 食らえー究極のー…
+c210_01_Ult_Skill_1:
+  en: Christmas edition malware code.
+  ko: 크리스마스 에디션 악성 코-드-
+  ja: クリスマスエディション悪性コード…
+c210_01_FullBurst_1:
+  en: Incoming!
+  ko: 다굴에는 장사가 없습니-다-
+  ja: 集団リンチにはかないません…
+c210_01_Kill_Monster_1:
+  en: One grunt down.
+  ko: 잡몹 1 격추-
+  ja: 雑魚モンスターを1匹撃墜ー…
+c210_01_Kill_Monster_2:
+  en: Drop some items, will ya?
+  ko: 템 좀 떨궈라- 어이-
+  ja: アイテム落とせー…はぁー…
+c210_01_Kill_Monster_3:
+  en: Bonus points!
+  ko: 콤보 카운트 누적-
+  ja: コンボカウント累積―…
+c210_01_Damage_1:
+  en: Yikes!
+  ko: 으악-
+  ja: うあっー…
+c210_01_Damage_2:
+  en: My clothes!
+  ko: 내- 옷-
+  ja: 私の服ー…
+c210_01_Damage_3:
+  en: Hey!
+  ko: 끄악-
+  ja: ぐぁっー…
+c210_01_Die_1:
+  en: Game over.
+  ko: 게임 오버-
+  ja: ゲームオーバー…
+c210_01_Win_1:
+  en: This Rudolph isn't just for show!
+  ko: 루돌프는 겉치레가 아닙니다-
+  ja: トナカイは伊達ではありませーん…
+210_cv_ja:
+  en: 'CV: Sumire Uesaka'
+  ko: 'CV : 우에사카 스미레'
+  ja: CV：上坂すみれ
+210_cv_ko:
+  en: 'CV: Cheon Ji-seon'
+  ko: 'CV : 천지선'
+  ja: CV：チョン・ジソン
+210_cv_en:
+  en: 'CV: Lauren Landa'
+  ko: 'CV : 로런 랜다'
+  ja: CV：Lauren Landa

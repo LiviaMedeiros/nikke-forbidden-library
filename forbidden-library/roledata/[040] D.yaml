@@ -1,0 +1,516 @@
+---
+40_name:
+  en: D
+  ko: D
+  ja: D
+c040_description:
+  en: |-
+    The leader of Perilous Siege.
+    Not a single wicked soul will escape her grasp, so long as she believes their death will be of benefit to the world.
+    Has a tendency to play up her persona when carrying out a mission.
+  ko: |-
+    시지 패러리스 스쿼드의 리더.
+    세상을 선한 쪽으로 기울게 할 수 있다면, 단호히 악을 제거하겠다고 말하는 니케.
+    임무 시 능숙하게 연기를 하곤 한다.
+  ja: |-
+    シージペリラス部隊のリーダー。
+    世界を良い方向へ導けるのなら、\n断固として悪を排除すると語るニケ。
+    任務の際は言葉巧みに演技をすることも。
+40_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50040:
+  en: D's Spare Body
+  ko: 디 스페어 바디
+  ja: Dのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20402_name:
+  en: Surprise Attack
+  ko: 기습
+  ja: 奇襲
+20402_description:
+  en: |-
+    ■ Activates when the target appears. Affects all allies.
+    <color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by {description_value_01}%. Activates {description_value_02} time(s) per battle.
+    <word_group=10010>Become immune to Stun</word_group> for {description_value_03} sec.</color>
+    ■ Activates when the target appears. Affects self.
+    <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 타겟이 출현했다면 아군 전체에게
+    <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_01}%] [전투 중 {description_value_02}회 발동]
+    [<word_group=10010>기절 면역</word_group>] [{description_value_03}초 유지]</color>
+    ■ 타겟이 출현했다면 자신에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■ターゲットが出現している場合、味方全体に
+    <color=#00AEFF>「<word_group=10015>バーストゲージのチャージ</word_group> {description_value_01}％」「戦闘中{description_value_02}回発動」
+    「<word_group=10010>気絶免疫</word_group>」「{description_value_03}秒間維持」</color>
+    ■ターゲットが出現している場合、自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20401_name:
+  en: Vigorous Waves
+  ko: 노도
+  ja: 怒とう
+20401_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    Recovers {description_value_03}% of attack damage as HP, lasts for {description_value_04} sec.</color>
+    ■ Affects self when first activated.
+    <color=#00AEFF>Additionally recovers {description_value_05}% of ATK damage as HP, lasts for {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]
+    [공격 대미지 비례 {description_value_03}% 회복] [{description_value_04}초 유지]</color>
+    ■ 최초 발동 시 추가로 자신에게
+    <color=#00AEFF>[공격 대미지 비례 {description_value_05}% 회복] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」
+    「攻撃ダメージの{description_value_03}％回復」
+    「{description_value_04}秒間維持」</color>
+    ■初回発動時、追加で自分に
+    <color=#00AEFF>「攻撃ダメージの{description_value_05}％回復」
+    「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10403_name:
+  en: Chastisement
+  ko: 처단
+  ja: 処断
+10403_description_1:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF> Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Affects all Attacker allies.
+    <color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Affects all allies if the caster has <word_group=10010>immunity to Stun</word_group>.
+    <color=#00AEFF>Full Burst Time ▲ {description_value_04} sec.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 화력형 아군 전체에게
+    <color=#00AEFF>[<word_group=10011>파츠 대미지</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 자신이 <word_group=10010>기절 면역</word_group> 상태라면 아군 전체에게
+    <color=#00AEFF>[풀 버스트 타임 지속 시간 {description_value_04}초 ▲]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+    ■火力型の味方全体に
+    <color=#00AEFF>「<word_group=10011>パーツダメージ</word_group> {description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■自分が<word_group=10010>気絶免疫</word_group>状態なら、味方全体に
+    <color=#00AEFF>「フルバーストタイム{description_value_04}秒▲」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+43_name:
+  en: 'D: Killer Wife'
+  ko: 'D : 킬러 와이프'
+  ja: D：キラーワイフ
+c040_Lobby_Touch_1:
+  en: I'm not some homicidal maniac who kills indiscriminately.
+  ko: |-
+    아무나 죽이진 않아.
+    난 살인귀가 아니니까.
+  ja: |-
+    殺す相手は選んでる。
+    殺人鬼じゃないんだ。
+c040_Lobby_Touch_2:
+  en: Don't cross the law. I'd prefer not to kill you.
+  ko: |-
+    죄를 짓지 마.
+    널 죽이고 싶진 않아.
+  ja: |-
+    お前を殺したくない。
+    罪を犯すなよ。
+c040_Lobby_Touch_3:
+  en: You want to know what's in my bag? Take a guess.
+  ko: |-
+    이 가방에 뭐가 들었냐고?
+    …글쎄.
+  ja: |-
+    このカバンに何が入ってるかって？
+    …さあ？
+c040_Lobby_Touch_Love_1:
+  en: Heavy is the head that wears the crown.
+  ko: 왕관을 썼다면 그 무게를 견뎌야 해.
+  ja: 王冠を戴くなら、その重さに耐えるべきだ。
+c040_Lobby_Touch_Love_2:
+  en: You're a good person. Try and keep it that way.
+  ko: |-
+    넌 좋은 사람 같아.
+    계속 그렇게 있어줘.
+  ja: |-
+    お前はいい人だと思う。
+    ずっとそのままでいてくれ。
+c040_Lobby_Touch_Love_3:
+  en: Committing crime is unforgivable. Maybe it sounds cliché, but that's what I
+    believe.
+  ko: |-
+    악행은 용서하지 않아.
+    흔한 소리 같지만 그게 내 신념이야.
+  ja: |-
+    悪事は許さない。
+    ありふれた言葉かもしれないが、それが私の信念だから。
+c040_Lobby_Stay_1:
+  en: Patience is one of my strong suits.
+  ko: 기다리는 건 내가 가장 잘하는 것 중 하나야.
+  ja: 待つのは得意だから。
+c040_Lobby_Stay_Love_1:
+  en: Staying in can be enjoyable. Occasionally.
+  ko: |-
+    가만히 있는 것도 나쁘진 않네.
+    가끔은 괜찮겠어.
+  ja: |-
+    じっとしてるのも悪くない。
+    たまにはいいな。
+c040_Outpost_Touch_1:
+  en: I'm at the hotel. Call me if you need anything.
+  ko: |-
+    난 호텔에 있어.
+    부탁할게 있다면 불러.
+  ja: |-
+    私はホテルにいる。
+    用があるなら呼べ。
+c040_Outpost_Touch_2:
+  en: Assassins always stay at hotels. Not exactly sure why.
+  ko: |-
+    암살자는 호텔에 있어야 한대.
+    왜인지는 모르겠지만.
+  ja: |-
+    殺し屋はホテルに いるべきなんだと。
+    なぜかは知らないが。
+c040_Outpost_Touch_3:
+  en: This place is occupied entirely by Nikkes, save you, so I doubt I'll be finding
+    any of my targets here.
+  ko: |-
+    여긴 니케가 많고 인간은 없네.
+    내가 노릴 타겟은 없겠어. 너를 제외하고는.
+  ja: |-
+    ここにはニケばかりで 人間はいない。
+    私のターゲットは いなそうだ、お前以外は。
+c040_Gacha_Get_1:
+  en: |-
+    Do you wish to wear the crown?
+    Can you really bear its weight?
+  ko: |-
+    왕관을 쓰고 싶은 건가.
+    그 무게를 견딜 수 있겠어?
+  ja: |-
+    王冠をかぶりたい？
+    その重さに耐えられるか？
+c040_Reinforce_1:
+  en: Your support is appreciated.
+  ko: 지원 확인했어.
+  ja: 支援は確認した。
+c040_Reinforce_2:
+  en: Now I can get more work done.
+  ko: 좀 더 일할 수 있겠어.
+  ja: これでもっと働けそうだ。
+c040_Reinforce_3:
+  en: Enhancement complete.
+  ko: 강화 완료.
+  ja: 強化完了。
+c040_Gift_1:
+  en: Is this payment for an assignment? I don't accept personal commissions.
+  ko: |-
+    의뢰 비용인가?
+    사적 의뢰는 받지 않아.
+  ja: |-
+    依頼の代金か？
+    プライベートでの依頼はお断りだが。
+c040_Gift_2:
+  en: I'll put this to good use.
+  ko: 좋은 곳에 쓸게.
+  ja: ありがたく使わせてもらう。
+c040_Gift_3:
+  en: As long as you don't have any ulterior motives... thanks.
+  ko: |-
+    잘 받을게.
+    다른 꿍꿍이가 없다면 말이야.
+  ja: |-
+    ありがとう。
+    裏がないことを願う。
+c040_Attractive_Up_1:
+  en: I knew you were a good person.
+  ko: 역시, 넌 좋은 사람이야.
+  ja: やっぱり、お前はいい奴だ。
+c040_Attractive_Up_2:
+  en: If everyone was like you, I wouldn't have to work so much.
+  ko: 모든 사람이 너만 같다면, 나도 일이 없겠지.
+  ja: みんなお前みたいなら、私も働かなくていいのにな。
+c040_Attractive_Up_3:
+  en: |-
+    You truly are unique,
+    in nearly every way possible.
+  ko: |-
+    넌 묘한 사람이군.
+    여러 가지 의미로.
+  ja: |-
+    お前は変わってるな。
+    色んな意味で。
+c040_Party_Deploy_1:
+  en: Roger, I'm going with you.
+  ko: 라져. 함께 간다.
+  ja: ラジャー。ともに行こう。
+c040_Field_Touch_1:
+  en: Your orders?
+  ko: 말해.
+  ja: 命令を。
+c040_Field_Go_1:
+  en: Moving out.
+  ko: 이동.
+  ja: 移動する。
+c040_Battle_Enter_1:
+  en: Target in sight.
+  ko: 목표 발견.
+  ja: 目標発見。
+c040_Battle_Ready_1:
+  en: Target acquired, shoot to kill.
+  ko: 대상 발견. 사살한다.
+  ja: 対象発見。攻撃開始。
+c040_Battle_Ready_2:
+  en: Engaging the enemy.
+  ko: 전투 개시.
+  ja: 戦闘開始。
+c040_Battle_Ready_3:
+  en: Hit 'em fast and hit 'em hard.
+  ko: 신속하고 정확하게.
+  ja: 迅速かつ正確に。
+c040_Reload_1:
+  en: Reloading.
+  ko: 리로드.
+  ja: リロード。
+c040_Reload_2:
+  en: Target is still alive.
+  ko: 대상, 아직 생존 중.
+  ja: 対象、いまだ生存中。
+c040_Reload_3:
+  en: This isn't easy.
+  ko: 쉽지 않네.
+  ja: 手強いな。
+c040_Ult_Skill_Ready_1:
+  en: Ready and waiting.
+  ko: 준비 끝.
+  ja: 準備完了。
+c040_Ult_Skill_1:
+  en: Target sighted. Engaging.
+  ko: 타깃 발견, 처리한다.
+  ja: ターゲット発見、処理開始。
+c040_FullBurst_1:
+  en: Finish it.
+  ko: 끝내자.
+  ja: 終わらせよう。
+c040_Kill_Monster_1:
+  en: Clear.
+  ko: 클리어.
+  ja: クリア。
+c040_Kill_Monster_2:
+  en: Kill confirmed.
+  ko: 격추 확인.
+  ja: 撃墜確認。
+c040_Kill_Monster_3:
+  en: Destroyed.
+  ko: 파괴했다.
+  ja: 破壊完了。
+c040_Damage_1:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c040_Damage_2:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c040_Damage_3:
+  en: "*Cough*"
+  ko: 큭.
+  ja: くっ。
+c040_Die_1:
+  en: Mission failed. We'll get 'em next time.
+  ko: "…체력 분배 실패. 퇴각한다."
+  ja: "…ペース配分失敗。退却する。"
+c040_Win_1:
+  en: Mission complete.
+  ko: 임무 완료.
+  ja: 任務完了。
+40_cv_ja:
+  en: 'CV: Aya Yamane'
+  ko: 'CV : 야마네 아야'
+  ja: CV：山根綺
+40_cv_ko:
+  en: 'CV: Kim Na-yul'
+  ko: 'CV : 김나율'
+  ja: CV：キム・ナユル
+40_cv_en:
+  en: 'CV: Jeannie Tirado'
+  ko: 'CV : 지니 티라도'
+  ja: CV：Jeannie Tirado

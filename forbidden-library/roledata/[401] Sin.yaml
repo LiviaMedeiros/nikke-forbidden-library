@@ -1,0 +1,709 @@
+---
+401_name:
+  en: Sin
+  ko: 신
+  ja: シン
+c401_description:
+  en: |-
+    The leader of the Real Kindness Squad. She brainwashes others with her words.
+    This ability, in combination with some additional verbal gymnastics, makes her capable of turning anyone into her mindless puppet.
+  ko: |-
+    언어로 상대를 세뇌하는 능력을 지닌 리얼 카인드니스 스쿼드의 리더.
+    이를 교묘한 화술과 섞어서 사용해, 상대를 자신의 꼭두각시로 만들어 버린다.
+  ja: |-
+    言葉で相手を洗脳する能力を持った\nリアルカインドネス部隊のリーダー。
+    その能力を巧妙な話術と共に使用することで、\n相手を自分の操り人形にしてしまう。
+401_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_401:
+  en: Sin's Spare Body
+  ko: 신 스페어 바디
+  ja: シンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+24012_name:
+  en: Hurry Up
+  ko: 허리 온
+  ja: ハリーオン
+24012_description:
+  en: |-
+    ■ Activates after Full Burst ends. Affects self.
+    <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: Recover {description_value_03}% of attack damage as HP, lasts for {description_value_04} sec.
+    Twice: Potency of HP restored ▲ {description_value_05}% for {description_value_06} sec.
+    Three times: DEF ▲ {description_value_07}% for {description_value_08} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 종료 시 자신에게
+    <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[사용 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>] :
+    1회 : [공격 대미지 비례 {description_value_03}% 회복] [{description_value_04}초 유지]
+    2회 : [받는 체력 회복량 {description_value_05}% ▲] [{description_value_06}초 유지]
+    3회 : [방어력 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが終了した時、自分に
+    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「使用回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」：
+    1回：「攻撃ダメージの{description_value_03}％回復」「{description_value_04}秒間維持」
+    2回：「受けるHP回復量{description_value_05}％▲」「{description_value_06}秒間維持」
+    3回：「防御力{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24011_name:
+  en: Full Stop
+  ko: 센텐스 엔딩스
+  ja: センテンス・エンディングズ
+24011_description_2:
+  en: |-
+    ■ Activates when firing the last bullet. Affects self.
+    <color=#00AEFF><word_group=10013>Duplicate {description_value_01}% Max HP</word_group> of ally with the highest Max HP, lasts for {description_value_02} sec.
+    Attract: Taunt all enemies for {description_value_03} sec.</color>
+  ko: |-
+    ■ 마지막 탄환 공격 시 자신에게
+    <color=#00AEFF>[최대 체력이 가장 높은 아군 1기의 <word_group=10013>최대 체력 복제</word_group> {description_value_01}%] [{description_value_02}초 유지]
+    [주목 : 적 전체를 도발] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■最後の弾丸で攻撃した時、自分に
+    <color=#00AEFF>「最大HPが最も高い味方1機の<word_group=10013>最大HPのコピー</word_group> {description_value_01}％」「{description_value_02}秒間維持」
+    「ヘイト：敵全体を挑発」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14013_name:
+  en: Words can Kill
+  ko: 워드 오브 킬
+  ja: ワード・オブ・キル
+14013_description_1:
+  en: "■ Activates when enemy unit(s) (excluding Nikkes) are more than {description_value_02}.
+    Affects all enemies. \n<color=#00AEFF>Damage Taken ▲ {description_value_03}% for
+    {description_value_04} sec.</color>\n■ Affects <word_group=10020>enemies within
+    attack range</word_group>.\nDeals <color=#00AEFF>{description_value_01}% of <word_group=10025>final</word_group>
+    ATK as damage.</color>"
+  ko: |-
+    ■ 니케를 제외한 적이 {description_value_02}기 이상이라면 적 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지]</color>
+  ja: |-
+    ■ニケを除いた敵が{description_value_02}機以上なら、敵全体に
+    <color=#00AEFF>「受けるダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+400_name:
+  en: Guilty
+  ko: 길티
+  ja: ギルティ
+402_name:
+  en: Quency
+  ko: 퀀시
+  ja: クエンシー
+403_name:
+  en: 'Quency: Escape Queen'
+  ko: '퀀시 : 이스케이프 퀸'
+  ja: クエンシー：エスケープクイーン
+c401_Lobby_Touch_1:
+  en: Ugh, this converter feels so constricting around my neck. I'm sure even you
+    think so too.
+  ko: 아~ 컨버터 너무 답답하다. 교관도 보기 답답하지…?
+  ja: |-
+    あ～コンバーターってすごい窮屈。
+    教官も見ててそう思うでしょ…？
+c401_Lobby_Touch_2:
+  en: Hey, you want some Splendamin? The pack is brand new!
+  ko: 퍼펙트 바 하나 줄까? 포장도 안 뜯은 새건대.
+  ja: |-
+    パーフェクトバー1つどう？
+    まだ封も開けてない新品よ。
+c401_Lobby_Touch_3:
+  en: I'm a model prisoner, honest.
+  ko: 솔직히 나 정도면 모범수지~
+  ja: 正直言って、私って模範囚よね～
+c401_Lobby_Touch_Love_1:
+  en: You're a paragon of virtue, Instructor.
+  ko: 우리 교관만큼 공정한 사람도 없다니까~
+  ja: 教官みたいに公明正大な人、なかなかいないわ～
+c401_Lobby_Touch_Love_2:
+  en: Can't you take this off, even for just a moment? We can keep it between us.
+  ko: 우리 사인데, 아직도 이걸 못 벗겨줘…?
+  ja: |-
+    私たちってこれを脱がせられないほどの、
+    そんな関係だった？
+c401_Lobby_Touch_Love_3:
+  en: Let's give you some more points, Instructor. Any good ideas?
+  ko: 교관, 슬슬 점수 올려야지~ 뭐 기발한 방법 없어?
+  ja: |-
+    教官、そろそろ点数稼がなくちゃね～
+    何か画期的な方法はない？
+c401_Lobby_Stay_1:
+  en: I'm so bored... Let's chat, Instructor!
+  ko: 심심하다…. 간만에 대화라도 좀 하자, 교관.
+  ja: |-
+    暇だわ…
+    久しぶりに世間話でもしない？
+c401_Lobby_Stay_Love_1:
+  en: |-
+    Oh, you're abandoning me now that I've been rehabilitated?
+    You should know better than that, Instructor. 10 points deducted!
+  ko: "갱생 끝났다고 방치하는 거야? \n아무리 바빠도 교관이 그러면 안 되지~ 벌점 10점!"
+  ja: |-
+    更生が終わったからって放っておくの？
+    いくら教官でもそれはないわ～マイナス10点！
+c401_Outpost_Touch_1:
+  en: The facilities here are really good, and there're loads of people to talk to
+    as well.
+  ko: 여기 시설은 참 좋아. 이야기할 사람도 많고….
+  ja: |-
+    ここはすごくいいわ。
+    話し相手もたくさんいるし…
+c401_Outpost_Touch_2:
+  en: How am I doing? Don't worry, everyone here has been nice so far.
+  ko: 잘 지내고 있냐고? 걱정 마~ 여기 애들 다 착하더라.
+  ja: |-
+    元気かって？
+    心配いらないわ～
+    みんないい子よ。
+c401_Outpost_Touch_3:
+  en: A Courthouse? That's fab, everything should be done according to the letter
+    of the law.
+  ko: 법원인가… 좋네. 뭐든 법대로 공정하게 해야지~
+  ja: |-
+    裁判所ねぇ… いいじゃない。
+    すべて法に従って 正しく裁かなきゃね～
+c401_Gacha_Get_1:
+  en: I've finally been rehabilitated! To celebrate, here's 10 points!
+  ko: 드디어 갱생 성공했네? 축하하는 의미에서 상점 10점~!
+  ja: |-
+    ついに更生に成功したのね。
+    おめでとうの意味でプラス10点～！
+c401_Reinforce_1:
+  en: Thaannnkksss!
+  ko: 고마워~!
+  ja: ありがとう～！
+c401_Reinforce_2:
+  en: At this rate, I'll be the strongest one here at the Outpost.
+  ko: 이 정도면 전초기지 방장도 먹을 수 있겠다.
+  ja: これなら前哨基地のリーダーもへっちゃらよ。
+c401_Reinforce_3:
+  en: Hahaha! That's it! More, more!
+  ko: 하하하~ 더 올려줘봐, 더.
+  ja: ははは～もっと上げて、もっと。
+c401_Gift_1:
+  en: You don't have to give me this...
+  ko: 뭘 이런 걸 다… 부탁한 적도 없는데.
+  ja: |-
+    こんなことまで…
+    気を遣わなくてもいいのに。
+c401_Gift_2:
+  en: |-
+    A token of your appreciation?
+    I'm so touched... 30 points for you!
+  ko: "성의 표시로 주는 거야? \n감동받아버렸으니까 상점 30점~!"
+  ja: |-
+    好意のしるし？
+    感動しちゃったじゃない。
+    プラス30点～！
+c401_Gift_3:
+  en: Thanks, I'm grateful and all, but... material things aren't everything.
+  ko: 고마워, 고마운데… 물질적인 게 전부는 아니니까.
+  ja: |-
+    ありがとう、嬉しいんだけど…
+    物質的なものだけがすべてじゃないわ。
+c401_Attractive_Up_1:
+  en: Now we're talking!
+  ko: 이제 좀 말이 통하게 됐네?
+  ja: やっと少しは話が通じるようになったわね。
+c401_Attractive_Up_2:
+  en: I've never met anyone like you before, Instructor.
+  ko: 어딜 가도 우리 교관만 한 사람이 없더라~
+  ja: 教官みたいな人、他にはいないわ～
+c401_Attractive_Up_3:
+  en: You've been taking great care of me lately, Instructor. It's incredibly laudable,
+    so here's 30 points for you!
+  ko: "요즘 나 많이 챙겨주네, 교관? \n성의가 갸륵하니까 상점 30점~!"
+  ja: |-
+    最近よく気にかけてくれるよね。
+    その健気な思いにプラス30点～！
+c401_Party_Deploy_1:
+  en: Time for some community service...
+  ko: 사회봉사할 시간이네~
+  ja: 社会奉仕の時間だわ～
+c401_Field_Touch_1:
+  en: Where should I work at?
+  ko: 어디 가서 일하면 돼?
+  ja: どこに行って奉仕すればいいの？
+c401_Field_Go_1:
+  en: Hopefully, I hit pay dirt.
+  ko: 누가 목마라도 안 태워주려나~
+  ja: 誰か肩車でもしてくれないかしら～
+c401_Battle_Enter_1:
+  en: Let's go earn some points, kids!
+  ko: 얘들아~ 점수 따러 가자.
+  ja: みんな～点数稼ぎに行くわよ。
+c401_Battle_Ready_1:
+  en: Imagine... me, contributing to society.
+  ko: 죄수 1번, 방주 사회에 기여 중~!
+  ja: 囚人1番、アーク社会に貢献中～！
+c401_Battle_Ready_2:
+  en: Can we be real for a sec?
+  ko: 진솔한 대화 좀 나눠볼까?
+  ja: 率直に話し合わない？
+c401_Battle_Ready_3:
+  en: Jeez, these guys are even worse than me!
+  ko: 꺄~ 여기 나보다 더 나쁜 놈들이 있어.
+  ja: |-
+    きゃ～
+    私より悪質な奴らがいるわ。
+c401_Reload_1:
+  en: Reloading!
+  ko: 장전 중이야~
+  ja: 装填中よ～
+c401_Reload_2:
+  en: Argh!
+  ko: 영차.
+  ja: よいしょっと。
+c401_Reload_3:
+  en: What should I have for dinner tonight?
+  ko: 오늘 저녁 뭐였지?
+  ja: 今日の夕食何だっけ？
+c401_Ult_Skill_Ready_1:
+  en: Can I take it off now, Instructor?
+  ko: 이제 벗어도 돼, 교관?
+  ja: もう脱いでもいいでしょ？
+c401_Ult_Skill_1:
+  en: I have something to say. Wanna hear it?
+  ko: 내 말을 듣고 싶어질 거야. 그렇지?
+  ja: |-
+    私の話がもっと聞きたくなるはずよ。
+    そう思わない？
+c401_FullBurst_1:
+  en: Ready? Let's serve up some street justice.
+  ko: 다들 린치 할 준비됐어?
+  ja: みんな、リンチする準備はいい？
+c401_Kill_Monster_1:
+  en: Hahaha!
+  ko: 하하하~!
+  ja: ははは～！
+c401_Kill_Monster_2:
+  en: Bang! Bang!
+  ko: 탕탕~
+  ja: パンパン～
+c401_Kill_Monster_3:
+  en: Let's get to work.
+  ko: 일하자, 일.
+  ja: 仕事するわよ～
+c401_Damage_1:
+  en: Ugh...
+  ko: 아….
+  ja: あ…
+c401_Damage_2:
+  en: That hurts!
+  ko: 아프다~
+  ja: いた～い。
+c401_Damage_3:
+  en: Yeouch!
+  ko: 꺅~!
+  ja: きゃぁ～！
+c401_Die_1:
+  en: Sigh... they were too much for me...
+  ko: 하아… 말이 안 통하네, 얘들은.
+  ja: はぁ…この子たちとは話が通じないわ。
+c401_Win_1:
+  en: See that? There's nothing you can't solve with words.
+  ko: 봤지? 역시 말로 해결 안 되는 건 없다니까~!
+  ja: |-
+    見たでしょ？
+    言葉で解決できないことはないんだから～！
+c401_01_Lobby_Touch_1:
+  en: Doesn't this mask seem kind of easy to take off?
+  ko: 이 마스크는 좀 벗기기 쉬워 보이지 않아?
+  ja: このマスク、すぐ取れちゃいそうじゃない？
+c401_01_Lobby_Touch_2:
+  en: Working part-time as a maid isn't so bad. Isn't that right, Master?
+  ko: 메이드 알바도 할 만하네. 그치, 주.인.님?
+  ja: メイドのバイトも悪くないわ。ねえ？ご・主・人・様？
+c401_01_Lobby_Touch_3:
+  en: |-
+    A spell to make it delicious?
+    I'm not quite sure about that. I'm still in training.
+  ko: |-
+    맛있어지는 주문?
+    아직 교육 기간이라 잘 몰라~
+  ja: |-
+    おいしくなる呪文？
+    まだ勉強中だから、分からないわ～
+c401_01_Lobby_Touch_Love_1:
+  en: |-
+    My mask? It's pretty comfortable as it is.
+    But... if you want to take it off, that would be a different story, wouldn't it?
+  ko: |-
+    마스크? 지금도 꽤 편해서 괜찮아~
+    그래도… 주인님이 벗겨보고 싶다면 이야기가 다르지?
+  ja: |-
+    マスク？今は別に苦しくないわ～
+    でも…ご主人様が外したいなら話は別よ？
+c401_01_Lobby_Touch_Love_2:
+  en: What shall we do together today, Master?
+  ko: 주인님. 오늘은 저랑 뭐 하고 노실래요?
+  ja: ご主人様、今日は何して遊ぶ？
+c401_01_Lobby_Touch_Love_3:
+  en: |-
+    Coochie woochie... What's the next part again?
+    Maybe it’ll come back to me if you pick me again.
+  ko: |-
+    몽글몽글... 다음은 뭐더라~?
+    또 지명해 주면 기억날지도?
+  ja: |-
+    ふわふわ…の次は何だっけ～？
+    また指名してくれたら分かるかも？
+c401_01_Lobby_Stay_1:
+  en: Doing nothing does make me feel a little guilty.
+  ko: 아무것도 안 하니까 양심에 조금 찔리긴 하네.
+  ja: 何もしてないと、良心が痛んじゃうわ。
+c401_01_Lobby_Stay_Love_1:
+  en: |-
+    Are you leaving me alone again? That's 50 penalty points!
+    But, since you've been nice to me lately... you get 50 bonus points too.
+  ko: |-
+    또 방치하는 거야? 벌점 50점~!
+    뭐, 그래도 요새 잘해주니까…  상점도 50점.
+  ja: |-
+    また放置する気？マイナス50点！
+    でも、最近よくしてくれるから…ボーナス50点。
+c401_01_Outpost_Touch_1:
+  en: Feel free to take this flyer, even if you end up tossing it later.
+  ko: 그냥 버려도 되니까 전단지 받아가~
+  ja: 捨ててもいいからチラシもらって～
+c401_01_Outpost_Touch_2:
+  en: "*Sigh*... Should I just go back to the Rehabilitation Center?"
+  ko: 하아… 그냥 갱생관으로 다시 돌아갈까….
+  ja: はあ…更生館に戻ろうかしら…
+c401_01_Outpost_Touch_3:
+  en: |-
+    My work hours are a secret.
+    If you're curious, come find me at the Maid Cafe.
+  ko: |-
+    내 근무 시간은 비밀.
+    궁금하면 직접 메이드 카페로 찾아와~
+  ja: |-
+    私のシフトは秘密なの。
+    知りたかったら メイドカフェに来てね～
+c401_01_Gacha_Get_1:
+  en: |-
+    I've been rehabilitated, and have been working hard as a part-time maid.
+    I'm doing great, so you'll pick me, won't you?
+  ko: |-
+    갱생하고 열심히 메이드 알바 중이야~
+    기특하니까 지명해 줄 거지?
+  ja: |-
+    一生懸命メイドのバイト中よ～
+    けなげでしょ？ご指名よろしくね～
+c401_01_Reinforce_1:
+  en: Thank you, Master.
+  ko: 감사합니다, 주인님~
+  ja: ありがと～ご主人様～
+c401_01_Reinforce_2:
+  en: I was tired, but now I feel energized.
+  ko: 피곤했는데 힘이 나네~
+  ja: 疲れてたけど、元気が出そう～
+c401_01_Reinforce_3:
+  en: How thoughtful of you. Thank you.
+  ko: 신경 써주는 거구나? 고마워~
+  ja: お気遣いありがとう～
+c401_01_Gift_1:
+  en: Wow, what's this? Thanks.
+  ko: 우와, 이게 뭐야? 고마워~
+  ja: わぁ～何これ？ありがとう～
+c401_01_Gift_2:
+  en: It's against the rules here, but I'll accept a gift, just this once.
+  ko: 원래 가게 방침상 안 되지만, 이번만 특별히 받을게.
+  ja: お店の規則じゃダメなんだけど、今日だけ特別にもらってあげる。
+c401_01_Gift_3:
+  en: If you keep giving me things like this, I might get the wrong impression, you
+    know?
+  ko: 자꾸 이런 걸 주면 착각할지도 몰라?
+  ja: こういうのはほどほどにしてね？勘違いしちゃうから。
+c401_01_Attractive_Up_1:
+  en: I like you too, Master♡
+  ko: 네~ 저도 좋아해요. 주.인.님♡
+  ja: は～い。私も好きです。ご・主・人・様♡
+c401_01_Attractive_Up_2:
+  en: So, you really like me, huh? Whatever should I do?
+  ko: 날 진심으로 좋아하나 보네? 어떡해~
+  ja: 私のこと、本気で好き？どうしようかな～
+c401_01_Attractive_Up_3:
+  en: To be honest, this makes me quite happy. Perhaps I should give you the privilege
+    of choosing me?
+  ko: |-
+    솔직히 좀 기쁜데?
+    지명권이라도 줘야 하나?
+  ja: |-
+    正直ちょっと嬉しい、かな？
+    指名チケットでもあげちゃう？
+c401_01_Party_Deploy_1:
+  en: Maybe I was better off back at the Rehabilitation Center...
+  ko: 갱생관에 있을 때가 더 나았을지도….
+  ja: 更生館にいたほうがよかったかも…
+c401_01_Field_Touch_1:
+  en: Yes, Master.
+  ko: 네, 주인님~
+  ja: は～い、ご主人様～
+c401_01_Field_Go_1:
+  en: I'll take your order.
+  ko: 주문받겠습니다~
+  ja: ご注文承りま～す。
+c401_01_Battle_Enter_1:
+  en: My goodness, what a rude customer!
+  ko: 우와. 혹시 진상 손님?
+  ja: わあ。もしかしてクレーマーさん？
+c401_01_Battle_Ready_1:
+  en: The ever-so-well-mannered maid is on the job.
+  ko: 바른 생활 메이드 출동~
+  ja: 健全な生活のために、メイド出動～
+c401_01_Battle_Ready_2:
+  en: So many customers again today.
+  ko: 오늘도 손님이 많네~
+  ja: 今日も大繁盛ね～
+c401_01_Battle_Ready_3:
+  en: Any rude customers will be asked to leave.
+  ko: 진상은 퇴장이에요~
+  ja: 迷惑な方はお帰りくださ～い。
+c401_01_Reload_1:
+  en: Let's take a quick break.
+  ko: 잠깐 쉬자….
+  ja: ちょっと休もう…
+c401_01_Reload_2:
+  en: There's no end to this.
+  ko: 끝도 없네….
+  ja: キリがないわね…
+c401_01_Reload_3:
+  en: I've got another job after this...
+  ko: 끝나면 또 알바인가~
+  ja: これが終わったら、またバイトか～
+c401_01_Ult_Skill_Ready_1:
+  en: Should I get serious now?
+  ko: 본격적으로 해볼까?
+  ja: 本気出してく～？
+c401_01_Ult_Skill_1:
+  en: Do you want to be a maid too? Ahahaha.
+  ko: 너도 메이드 할래? 아하핫~
+  ja: あなたもメイドになってみる？あははは～
+c401_01_FullBurst_1:
+  en: Let's teach these rude customers a lesson.
+  ko: 다들 진상 손님들을 혼내주자~!
+  ja: クレーマーはお仕置きよ～！
+c401_01_Kill_Monster_1:
+  en: One down.
+  ko: 하나 처리~
+  ja: 1体、処分完了～
+c401_01_Kill_Monster_2:
+  en: Become delicious!
+  ko: 맛있어져라~!
+  ja: おいしくな～れ！
+c401_01_Kill_Monster_3:
+  en: Onto the next annoying customer.
+  ko: 네, 다음 진상 손님~
+  ja: は～い、次のクレーマーさん。
+c401_01_Damage_1:
+  en: Ergh!
+  ko: 하….
+  ja: はぁ…
+c401_01_Damage_2:
+  en: Ow!
+  ko: 으윽!
+  ja: ううっ！
+c401_01_Damage_3:
+  en: Ouch...
+  ko: 아야야….
+  ja: いた～い…
+c401_01_Die_1:
+  en: Dang, all the customers are from hell...
+  ko: 하... 진상들이잖아….
+  ja: はぁ…クレーマーばっかり…
+c401_01_Win_1:
+  en: I worked so hard fighting them. You'll give me 50 bonus points, right?
+  ko: 열심히 싸운 나한테 상점 50점~ 줄 거지?
+  ja: 全力で戦った私にボーナス50点～でしょ？
+401_cv_ja:
+  en: 'CV: Atsumi Tanezaki'
+  ko: 'CV : 타네자키 아츠미'
+  ja: CV：種﨑敦美
+401_cv_ko:
+  en: 'CV: Yeo Yoon-mi'
+  ko: 'CV : 여윤미'
+  ja: CV：ヨ・ユンミ
+401_cv_en:
+  en: 'CV: Brittany Lauda'
+  ko: 'CV : 브리타니 라우다'
+  ja: CV：Brittany Lauda

@@ -1,0 +1,1232 @@
+---
+d_main_03_01:
+  d_main_03_01_1:
+    speaker: rapi
+    en: We've reached the surface. Establishing connection with Shifty.
+    ko: |-
+      지상 도착 완료했습니다.
+      시프티와 연결을 진행하겠습니다.
+    ja: |-
+      地上に到着しました。
+      シフティーと繋ぎます。
+  d_main_03_01_2:
+    speaker: Self
+    en: Yes, please.
+    ko: 부탁할게.
+    ja: 頼む
+  d_main_03_01_3:
+    speaker: mihara
+    en: You won't have much luck with that. Syuen is jamming the communication network.
+    ko: |-
+      그건 안될걸?
+      슈엔이 통신망을 다 차단해놨거든.
+    ja: |-
+      ダメだと思うわよ。
+      シュエンが通信網を全部遮断したから。
+  d_main_03_01_4:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_01_5:
+    speaker: rapi
+    en: Seems like this is no ordinary operation.
+    ko: |-
+      이 작전.
+      단순한 작전이 아니군.
+    ja: |-
+      この作戦、
+      単なる作戦ではないわね。
+  d_main_03_01_6:
+    speaker: mihara
+    en: You could say that. We refer to them as
+    ko: |-
+      후후. 맞아.
+      이른바.
+    ja: |-
+      ふふ、そうよ。
+      これはいわば…
+  d_main_03_01_7:
+    speaker: mihara
+    en: Black Ops.
+    ko: 비.밀.작.전. 이라는 거지.
+    ja: ひ・み・つ・さ・く・せ・ん、なのよ。
+  d_main_03_01_8:
+    speaker: anis
+    en: How cliché can you get?
+    ko: 구린 냄새가 풀풀 나는데.
+    ja: 怪しいわ。
+  d_main_03_01_9:
+    speaker: neon
+    en: She ordered us to capture a specific Rapture. Is that even possible?
+    ko: |-
+      특정 랩쳐를 포획하라고 했던 것 같은데요.
+      그게 가능한가요?
+    ja: |-
+      特定のラプチャーを捕獲しろと
+      言っていましたが、
+      そんなこと、できるんですか？
+  d_main_03_01_10:
+    speaker: mihara
+    en: Yuni and I were made for this.
+    ko: |-
+      그걸 위한 스쿼드니까.
+      나와 유니는.
+    ja: |-
+      そのための分隊だもの。
+      私とユニは。
+  d_main_03_01_11:
+    speaker: mihara
+    en: Let's move out.
+    ko: 일단 이동할까?
+    ja: とりあえず移動する？
+  d_main_03_01_12:
+    speaker: mihara
+    en: I'll take you to the destination.
+    ko: 포인트까지 안내할게.
+    ja: ポイントまで案内するわ。
+d_main_03_02:
+  d_main_03_02_1:
+    speaker: neon
+    en: Where are we going?
+    ko: 어디까지 가는 건가요?
+    ja: どこまで行くんですか？
+  d_main_03_02_2:
+    speaker: mihara
+    en: Why do you keep asking questions?
+    ko: 어머. 뭘 그렇게 보채고 있어?
+    ja: あら、そんなに急かしちゃダメよ。
+  d_main_03_02_3:
+    speaker: mihara
+    en: Don't you know that men don't like women who are nosy?
+    ko: 그렇게 서두르면 남자친구가 싫어할걸?
+    ja: 気の早い子はモテないわ。
+  d_main_03_02_4:
+    speaker: anis
+    en: Well, we have to know where we're going, don't we?
+    ko: 아니, 어디까지 가는지는 알아야 할 것 아냐.
+    ja: いや、目的地は知りたいわよ。
+  d_main_03_02_5:
+    speaker: "<Choice>"
+    en: How are you feeling?
+    ko: 총에 맞은 곳은 괜찮아?
+    ja: 撃たれたところは大丈夫か？
+  d_main_03_02_6:
+    speaker: "<Choice>"
+    en: You look hungry.
+    ko: 배가 아파 보이는데.
+    ja: お腹は痛くないか
+  d_main_03_02_7:
+    speaker: neon
+    en: Not that great. I was shot, after all.
+    ko: 그러게요. 아무래도 총에 맞았으니까.
+    ja: そうですね、銃で撃たれましたから。
+  d_main_03_02_8:
+    speaker: mihara
+    en: No big deal though.
+    ko: 후후. 괜찮아.
+    ja: ふふ、大丈夫よ。
+  d_main_03_02_9:
+    speaker: mihara
+    en: I don't mind a little pain.
+    ko: |-
+      좋아하거든.
+      맞는 거.
+    ja: |-
+      好きなのよ、
+      痛めつけられるの。
+  d_main_03_02_10:
+    speaker: anis
+    en: What's up with that?
+    ko: "??"
+    ja: "？？"
+  d_main_03_02_11:
+    speaker: Self
+    en: You put a bandage on Mihara.
+    ko: 미하라에게 붕대를 감아준다.
+    ja: ミハラに包帯を巻いてあげる
+  d_main_03_02_12:
+    speaker: mihara
+    en: Hey! What are you doing?
+    ko: 어머. 뭐 하는 거야?
+    ja: あら、何するの？
+  d_main_03_02_13:
+    speaker: anis
+    en: Our Commander likes bandaging up others. It's kind of a thing.
+    ko: 아, 우리 지휘관님은 붕대를 감아주는 게 취미거든.
+    ja: あ、うちの指揮官様はね、包帯巻いてあげるのが\n趣味なの。
+  d_main_03_02_14:
+    speaker: mihara
+    en: I'm sorry, but... please don't touch me.
+    ko: 미안. 건들지 말아 줘.
+    ja: 悪いけど、傷は触らないで。
+  d_main_03_02_15:
+    speaker: Self
+    en: What's wrong?
+    ko: "??"
+    ja: "？？"
+  d_main_03_02_16:
+    speaker: mihara
+    en: I said don't touch my wound.
+    ko: 내 상처는 건드리지 마.
+    ja: 私の傷は放っておいて。
+  d_main_03_02_17:
+    speaker: yuni
+    en: Mihara has a thing for scars. She doesn't like others touching them.
+    ko: 응. 미하라는 상처를 좋아하니까, 남이 건드는 거 싫어해.
+    ja: うん、ミハラは傷が好きで、他人に触れられる\nのがキライ。
+  d_main_03_02_18:
+    speaker: anis
+    en: You can't be serious.
+    ko: "…무슨 말이야 대체?"
+    ja: "…それ、どういうこと？"
+  d_main_03_02_19:
+    speaker: mihara
+    en: No, I mean it.
+    ko: 그냥 그렇게만 알아둬.
+    ja: 分からなくていいの。
+  d_main_03_02_20:
+    speaker: mihara
+    en: I appreciate the gesture, Commander.
+    ko: 지휘관. 마음만 받을게.
+    ja: 指揮官、気持ちだけ受け取るわ。
+d_main_03_03:
+  d_main_03_03_1:
+    speaker: yuni
+    en: Mihara! Over here!
+    ko: |-
+      미하라!
+      여기 있어!
+    ja: |-
+      ミハラ！
+      あった！
+  d_main_03_03_2:
+    speaker: mihara
+    en: Nicely done, Yuni.
+    ko: |-
+      그렇네.
+      잘 했어 유니.
+    ja: |-
+      そうね。
+      よくやったわ、ユニ。
+  d_main_03_03_3:
+    speaker: yuni
+    en: Don't I get a reward? Heh heh.
+    ko: |-
+      헤헤.
+      유니한테 상 줄 거야?
+    ja: |-
+      へへ。
+      ユニにご褒美くれるの？
+  d_main_03_03_4:
+    speaker: mihara
+    en: We'll talk about it later. I haven't decided how much you can have yet.
+    ko: |-
+      그건 나중에.
+      아직 상 받을 정도는 아니니까.
+    ja: |-
+      それは後で。
+      まだご褒美をあげるレベルじゃないわ。
+  d_main_03_03_5:
+    speaker: yuni
+    en: Okay!
+    ko: 응. 알았어.
+    ja: うん、分かった。
+  d_main_03_03_6:
+    speaker: anis
+    en: What are these? Footprints?
+    ko: |-
+      뭔데 이게?
+      발자국?
+    ja: |-
+      これは何？
+      足跡？
+  d_main_03_03_7:
+    speaker: yuni
+    en: Yes, I found them.
+    ko: 맞아. 유니가 찾았어.
+    ja: そうよ、ユニが見つけたの。
+  d_main_03_03_8:
+    speaker: anis
+    en: "... You still track Raptures using footprints? Talk about being stuck in
+      the stone age."
+    ko: |-
+      …이 시대에 발자국으로 랩쳐를 추적한다고?
+      세상에, 무슨 원시시대 사람이세요?
+    ja: |-
+      …今のこの時代に、足跡でラプチャーを追う？
+      あなた、原始人なの？
+  d_main_03_03_9:
+    speaker: yuni
+    en: Chatterbox's signal isn't so easy to pin down.
+    ko: 토커티브는 신호가 안 잡히는걸.
+    ja: トーカティブは信号が捕まんないんだ。
+  d_main_03_03_10:
+    speaker: neon
+    en: Chatterbox? Is that the name of a Rapture?
+    ko: |-
+      토커티브?
+      랩쳐의 이름인가요?
+    ja: |-
+      トーカティブ？
+      ラプチャーの名前ですか？
+  d_main_03_03_11:
+    speaker: mihara
+    en: Yep. Codename Chatterbox.
+    ko: 그래. 코드 네임 토커티브.
+    ja: そう、コードネーム・トーカティブ。
+  d_main_03_03_12:
+    speaker: mihara
+    en: He's a unique organism, unlike any other Rapture we've seen before.
+    ko: 그 어떤 랩쳐의 규격에도 부합되지 않는 특수 객체.
+    ja: |-
+      ラプチャーのどの規格にも当てはまらない、
+      特殊な個体。
+  d_main_03_03_13:
+    speaker: mihara
+    en: He's the reason we're here.
+    ko: 우린 그 녀석을 잡으러 온 거야.
+    ja: 私たちがここに来た目的よ。
+  d_main_03_03_14:
+    speaker: rapi
+    en: Why?
+    ko: 이유는?
+    ja: その理由は？
+  d_main_03_03_15:
+    speaker: mihara
+    en: Hell if I know. They told us to bring him in a few months ago, but never told
+      us why.
+    ko: |-
+      그것까진 모르겠네.
+      몇 달 전부터 그걸 잡으라고만 했지, 이유까진 안 알려줬거든.
+    ja: |-
+      それは分からないわ。
+      数ヶ月前、それを捕まえろって命令されただけ\nだから。
+  d_main_03_03_16:
+    speaker: rapi
+    en: Is there anything about him that stands out? Any previous engagements?
+    ko: |-
+      특징은 있나?
+      교전 이력은?
+    ja: |-
+      特徴はある？
+      交戦した経験は？
+  d_main_03_03_17:
+    speaker: mihara
+    en: I know as much as you do. I've never actually seen him myself.
+    ko: |-
+      아무것도 몰라.
+      실제로 본 적도 없으니까.
+    ja: |-
+      何も分からないわ。
+      この目で見たこともないし。
+  d_main_03_03_18:
+    speaker: neon
+    en: Jeez, this is gonna be like finding a needle in an ocean.
+    ko: 언 발에 바늘 놓기로군요.
+    ja: 焼け石の山から針を探すのですね。
+  d_main_03_03_19:
+    speaker: anis
+    en: Don't you mean a nail in a haystack?
+    ko: 모래사장에서 오줌 누기겠지.
+    ja: それを言うなら干し草に水でしょ？
+  d_main_03_03_20:
+    speaker: rapi
+    en: It's a needle in a haystack, you morons.
+    ko: "…둘 다 틀렸어."
+    ja: "…2人とも違う。"
+  d_main_03_03_21:
+    speaker: mihara
+    en: He has unique footprints, so we use those to track him.
+    ko: 발자국 자체가 워낙 특이해서 추적은 가능해.
+    ja: |-
+      足跡だけはすごく変わってて、
+      追跡に役立ちそうよ。
+  d_main_03_03_22:
+    speaker: mihara
+    en: I've never seen him with my own eyes, though.
+    ko: 그런데 아직까지 한 번도 만나본 적이 없네.
+    ja: でも今まで遭遇したことは一度もないの。
+  d_main_03_03_23:
+    speaker: rapi
+    en: What does that have to do with us?
+    ko: "…왜 우리가 추적에 투입된거지?"
+    ja: "…なぜ私たちが追跡に投入されたのでしょうか？"
+  d_main_03_03_24:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_03_25:
+    speaker: mihara
+    en: Seems like this isn't your first rodeo.
+    ko: 너희가 쓸만해 보이니까.
+    ja: あなたたち、使えそうだから。
+  d_main_03_03_26:
+    speaker: mihara
+    en: Tell me then, what's the probability of a Commander dying in their first battle?
+    ko: 지휘관이 첫 작전에서 사망할 확률이 얼마나 되는지 알아?
+    ja: |-
+      指揮官が初めての作戦で死亡する確率、
+      どれくらいだと思う？
+  d_main_03_03_27:
+    speaker: rapi
+    en: "... 70%."
+    ko: "…70%."
+    ja: "…70％。"
+  d_main_03_03_28:
+    speaker: mihara
+    en: And that number goes up for the second battle, does it not?
+    ko: 두 번째 작전까지 가면 사망 확률은 더 올라가겠지?
+    ja: |-
+      2番目の作戦まで行えば、
+      死亡率はさらに高まるわ。
+  d_main_03_03_29:
+    speaker: anis
+    en: Aha! So is that the reason whatshername came knocking?
+    ko: 아하. 그 기적의 확률을 뚫은 게 우리 지휘관님이다?
+    ja: |-
+      なるほど、その奇跡の確率を攻略したのが、
+      うちの指揮官様？
+  d_main_03_03_30:
+    speaker: anis
+    en: Because of how the Commander beat the odds?
+    ko: 그래서 슈엔인지 슈크림인지가 우릴 부려먹는다?
+    ja: |-
+      だからシュエンだかシュークリームだかが、
+      私たちをこき使うってこと？
+  d_main_03_03_31:
+    speaker: mihara
+    en: Exactly.
+    ko: 정답이야.
+    ja: 正解。
+  d_main_03_03_32:
+    speaker: rapi
+    en: How many of them are there?
+    ko: 몇 명이지?
+    ja: 何人？
+  d_main_03_03_33:
+    speaker: mihara
+    en: Hmm?
+    ko: 응?
+    ja: うん？
+  d_main_03_03_34:
+    speaker: rapi
+    en: How many one-and-done Commanders have there been up until now?
+    ko: |-
+      이렇게 일회용으로 사용된 지휘관이,
+      지금까지 몇 명이나 있었지?
+    ja: |-
+      こうやって使い捨てになった指揮官が、
+      今まで何人いた。
+  d_main_03_03_35:
+    speaker: mihara
+    en: I don't know the exact number, but I'm pretty sure it's over 40.
+    ko: |-
+      모르긴 몰라도.
+      40명은 넘을 거야.
+    ja: |-
+      正確には分からないけど、
+      40人は超えるはずよ。
+  d_main_03_03_36:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_03_37:
+    speaker: anis
+    en: Incredible. I should be a CEO too.
+    ko: |-
+      굉장하네.
+      나도 CEO나 할걸.
+    ja: |-
+      すごいわね。
+      私もCEOになればよかったわ〜
+  d_main_03_03_38:
+    speaker: neon
+    en: Let's start a company! What do you say?
+    ko: 우리도 회사나 차릴까요?
+    ja: 私たちも会社を作りましょうか。
+  d_main_03_03_39:
+    speaker: anis
+    en: Really?
+    ko: 그럴까?
+    ja: そうしようかしら。
+  d_main_03_03_40:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_03_41:
+    speaker: rapi
+    en: Commander, I'm sorry, but we cannot abort this mission.
+    ko: |-
+      지휘관.
+      죄송합니다만, 작전을 거부할 순 없습니다.
+    ja: |-
+      指揮官。
+      申し訳ありませんが、作戦を拒否することは\nできません。
+  d_main_03_03_42:
+    speaker: rapi
+    en: The CEOs of the Big Three have major pull within the Ark.
+    ko: 3대 회사의 CEO는 방주에서도 특별 취급을 받고 있습니다.
+    ja: 三大企業のCEOは、アークでは特別な扱いを\n受けます。
+  d_main_03_03_43:
+    speaker: rapi
+    en: People as low on the totem pole as us don't stand a chance against them.
+    ko: "…일개 지휘관과 휘하 스쿼드가 어떻게 할 수는 없습니다."
+    ja: "…一介の指揮官とその分隊が、どうこうできる\\n存在ではありません。"
+  d_main_03_03_44:
+    speaker: rapi
+    en: All we can do now is tread carefully.
+    ko: 주의하는 것 말고는 방법이 없는 상황입니다.
+    ja: 今は注意する以外には方法がない状況です。
+  d_main_03_03_45:
+    speaker: Self
+    en: "... Got it. Let's continue the operation."
+    ko: "…그래. 작전을 진행하자."
+    ja: "…分かった。作戦を実行しよう"
+  d_main_03_03_46:
+    speaker: rapi
+    en: "... Roger."
+    ko: "…라져."
+    ja: "…ラジャー。"
+  d_main_03_03_47:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_03_48:
+    speaker: mihara
+    en: All right, let's keep following the footprints.
+    ko: 자, 그럼 이 발자국을 따라서 추적을 계속해볼까?
+    ja: さてさて、この足跡を頼りに追跡を続けるわよ。
+d_main_03_04:
+  d_main_03_04_1:
+    speaker: yuni
+    en: Hmm? Mihara, look at this.
+    ko: 응? 미하라, 이거 봐.
+    ja: んっ？ミハラ、これ見て。
+  d_main_03_04_2:
+    speaker: mihara
+    en: "... The footprints are gone."
+    ko: "…발자국이 끊어졌네."
+    ja: "…足跡が消えたわ。"
+  d_main_03_04_3:
+    speaker: yuni
+    en: What do we do now?
+    ko: 그럼 우린 어떡해?
+    ja: じゃあ、どうすればいい？
+  d_main_03_04_4:
+    speaker: mihara
+    en: Well... we could go back...
+    ko: |-
+      흠… 글쎄.
+      복귀할까?
+    ja: |-
+      ふ～ん…じゃ、
+      戻るわよ。
+  d_main_03_04_5:
+    speaker: rapi
+    en: I don't believe this.
+    ko: "…맥 빠지는군."
+    ja: "…拍子抜けね。"
+  d_main_03_04_6:
+    speaker: yuni
+    en: Hmm? Mihara, look at the wall over there!
+    ko: 어? 미하라, 저기 벽.
+    ja: あ、ミハラ。あっちの壁。
+  d_main_03_04_7:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_04_8:
+    speaker: yuni
+    en: So, he stepped on the wall.
+    ko: 벽을 밟으면서 이동했나 봐.
+    ja: 壁を伝って移動したみたい。
+  d_main_03_04_9:
+    speaker: rapi
+    en: "... You mean Raptures can move on walls?"
+    ko: |-
+      …벽면을 딛고 기동할 수 있다고?
+      랩쳐가?
+    ja: |-
+      …壁面を踏んで機動できるというの？
+      ラプチャーが？
+  d_main_03_04_10:
+    speaker: anis
+    en: That's impossible. Only a four-legged animal could do something like that.
+    ko: |-
+      안되잖아 그거.
+      기본적으로 4족 보행 아니었어?
+    ja: |-
+      それできないわよね。
+      ラプチャーは基本、四足歩行なのよ！
+  d_main_03_04_11:
+    speaker: mihara
+    en: The intel has been updated. Chatterbox is able to scale walls.
+    ko: |-
+      정보 갱신이네.
+      토커티브는 벽을 타고 이동할 수 있어.
+    ja: |-
+      新たな情報ね。
+      トーカティブは壁を伝って移動できるって。
+  d_main_03_04_12:
+    speaker: mihara
+    en: "... And he knows that we're tracking him."
+    ko: "…그리고, 우리가 추적하고 있다는 걸 눈치채고 있고."
+    ja: "…それから、私たちの追跡に気づいてる。"
+  d_main_03_04_13:
+    speaker: neon
+    en: "... It sounds as though he's intelligent."
+    ko: "…지능이 있다는 것처럼 들리는데요."
+    ja: "…知能があるということですか。"
+  d_main_03_04_14:
+    speaker: mihara
+    en: Ha ha, what are you, a comedian? Raptures are the farthest thing from intelligent!
+    ko: |-
+      후후. 그럴 리가.
+      랩쳐는 지능이 없어.
+    ja: |-
+      ふふ、それはありえないわ。
+      ラプチャーは知能がないもの。
+  d_main_03_04_15:
+    speaker: mihara
+    en: He must have been programmed with an algorithm that allows him to shake us.
+    ko: |-
+      추적이 붙었을 때 따돌려라.
+      그 정도 알고리즘이겠지.
+    ja: |-
+      追いつかれたら逃げる。
+      そういうアルゴリズムみたい。
+  d_main_03_04_16:
+    speaker: yuni
+    en: Mihara! Give me a reward! Reward!
+    ko: |-
+      미하라!
+      상 줘! 상!
+    ja: |-
+      ミハラ！
+      ご褒美！ご褒美！
+  d_main_03_04_17:
+    speaker: mihara
+    en: All right, all right! You've been a good girl.
+    ko: |-
+      아, 그렇네.
+      이번엔 상 받을만한 일을 했네.
+    ja: |-
+      まあ、確かに。
+      今回はご褒美をあげてもよさそうだわ。
+  d_main_03_04_18:
+    speaker: yuni
+    en: Yes!
+    ko: 응!
+    ja: うん！
+  d_main_03_04_19:
+    speaker: mihara
+    en: Come and get it, then.
+    ko: 그래. 그럼 받아 가.
+    ja: ご褒美をあげるわ。
+  d_main_03_04_20:
+    speaker: mihara
+    en: Let me turn off your pain sensor.
+    ko: 통각 센서를 끌게.
+    ja: 痛覚センサーを切るわよ。
+  d_main_03_04_21:
+    speaker: Narration
+    en: Yuni squeezes Mihara in the calf.
+    ko: 유니는 미하라의 종아리 부분 일부를 강하게 꼬집었다.
+    ja: ユニはミハラのふくらはぎを思い切りつねった
+  d_main_03_04_22:
+    speaker: mihara
+    en: Hrrrrnngh!
+    ko: 으읏…!
+    ja: うっ…！
+  d_main_03_04_23:
+    speaker: yuni
+    en: Hee-hee!
+    ko: 히히….
+    ja: へへ…
+  d_main_03_04_24:
+    speaker: anis
+    en: "... What are they doing?"
+    ko: "…뭐 하는 거야?"
+    ja: "…何やってるの？"
+  d_main_03_04_25:
+    speaker: neon
+    en: She's... pinching her.
+    ko: 꼬집고 있는데요?
+    ja: つねってますね？
+  d_main_03_04_26:
+    speaker: yuni
+    en: Mihara! Does it hurt? Well?
+    ko: |-
+      미하라.
+      많이 아파? 응?
+    ja: |-
+      ミハラ。
+      すごく痛い？どう？
+  d_main_03_04_27:
+    speaker: mihara
+    en: |-
+      Agh!
+      It hurts...! So bad!
+    ko: |-
+      응…!
+      많이…! 아파…!
+    ja: |-
+      そうね…！
+      すごく…！痛いわ…！
+  d_main_03_04_28:
+    speaker: anis
+    en: Wait a minute... I'm confused.
+    ko: |-
+      아, 잠깐.
+      나 지금 머리가 좀 혼란스러운데.
+    ja: |-
+      ねぇ、ちょっと。
+      私、混乱してるんだけど。
+  d_main_03_04_29:
+    speaker: neon
+    en: Master, what's wrong with them?
+    ko: |-
+      스승님.
+      이게 무슨 일일까요?
+    ja: |-
+      師匠。
+      これは何が起きているのでしょうか？
+  d_main_03_04_30:
+    speaker: "<Choice>"
+    en: Different strokes for different folks.
+    ko: 취향에는 여러 형태가 있는 법.
+    ja: 人の好みは千差万別だ
+  d_main_03_04_31:
+    speaker: "<Choice>"
+    en: They're rewarding each other.
+    ko: 서로가 서로한테 상을 준거야.
+    ja: お互いにご褒美をあげたってことだ
+  d_main_03_04_32:
+    speaker: rapi
+    en: You certainly seem to have a good grasp of it.
+    ko: |-
+      …잘 알고 계시는군요.
+      그런 쪽으로.
+    ja: |-
+      …よくご存じですね。
+      そういう方面のことを。
+  d_main_03_04_33:
+    speaker: neon
+    en: Huh? About what?
+    ko: 예? 그런 쪽이 뭔가요?
+    ja: え？そういう方面って何ですか？
+  d_main_03_04_34:
+    speaker: rapi
+    en: Um... that's...
+    ko: "…그건."
+    ja: "…それは…"
+  d_main_03_04_35:
+    speaker: yuni
+    en: Mihara, can I hurt you more?
+    ko: 미하라, 좀 더 아프게 해도 돼?
+    ja: ミハラ、もっと痛くしてもいい？
+  d_main_03_04_36:
+    speaker: mihara
+    en: N-no, that's enough for now.
+    ko: |-
+      후, 후후….
+      아니, 상은 여기까지.
+    ja: |-
+      ふ、ふふ…
+      いいえ、ご褒美はここまで。
+  d_main_03_04_37:
+    speaker: mihara
+    en: We can't get addicted to it, you know?
+    ko: |-
+      너무 열중하면 안 돼.
+      알고 있지?
+    ja: |-
+      夢中になり過ぎちゃダメだから。
+      分かってるわよね？
+  d_main_03_04_38:
+    speaker: yuni
+    en: Okay, I'll do better next time.
+    ko: 응. 유니 더 열심히 할게.
+    ja: うん。ユニ、もっと頑張る。
+d_main_03_05:
+  d_main_03_05_1:
+    speaker: rapi
+    en: We've lost him again.
+    ko: "…발자국이 다시 끊어졌어."
+    ja: "…足跡がまた消えた。"
+  d_main_03_05_2:
+    speaker: anis
+    en: There's nothing around here. He couldn't have walked along a wall.
+    ko: |-
+      주위에 뭐 아무것도 없네.
+      벽을 타고 가진 않았을 것 같고.
+    ja: |-
+      この辺は何もないわね。
+      壁を伝って移動したわけでもなさそうだし。
+  d_main_03_05_3:
+    speaker: neon
+    en: That means...
+    ko: 그렇다는 말은….
+    ja: ということは…
+  d_main_03_05_4:
+    speaker: "<Choice>"
+    en: He's in the sky.
+    ko: 공중!
+    ja: 空中だ！
+  d_main_03_05_5:
+    speaker: "<Choice>"
+    en: He's underground.
+    ko: 지하!
+    ja: 地下だ！
+  d_main_03_05_6:
+    speaker: rapi
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_03_05_7:
+    speaker: rapi
+    en: Raptures! Coming in hot!
+    ko: 랩쳐! 강습합니다!
+    ja: ラプチャー！強襲です！
+  d_main_03_05_8:
+    speaker: rapi
+    en: Engaging!
+    ko: 인카운터!
+    ja: エンカウンター！
+d_main_03_06:
+  d_main_03_06_1:
+    speaker: rapi
+    en: Enemy neutralized.
+    ko: 상황 종료.
+    ja: 状況終了！
+  d_main_03_06_2:
+    speaker: rapi
+    en: Vanishing footprints and a Rapture ambush...
+    ko: |-
+      끊어진 흔적.
+      강습이라는 수단을 사용한 랩쳐.
+    ja: |-
+      途絶えた足跡、
+      強襲という手を使ったラプチャー。
+  d_main_03_06_3:
+    speaker: rapi
+    en: They must have known we were following him.
+    ko: |-
+      확실해.
+      랩쳐는 우리의 추적을 의식하고 있어.
+    ja: |-
+      間違いない。
+      ラプチャーは私たちの追跡を意識している。
+  d_main_03_06_4:
+    speaker: Narration
+    en: "*Ka-chunk*"
+    ko: 기잉-
+    ja: ギィーン
+  d_main_03_06_5:
+    speaker: neon
+    en: Rapi, there's one behind you!
+    ko: |-
+      !!
+      라피! 뒤에 남았어요!
+    ja: |-
+      ！！
+      ラピ！後ろに残ってます！
+  d_main_03_06_6:
+    speaker: rapi
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_03_06_7:
+    speaker: mihara
+    en: Yuni!
+    ko: 유니!
+    ja: ユニ！
+  d_main_03_06_8:
+    speaker: yuni
+    en: Yes!
+    ko: 응!
+    ja: うん！
+  d_main_03_06_9:
+    speaker: Narration
+    en: "*Sizzle*"
+    ko: 빠지직!
+    ja: バキューン！
+  d_main_03_06_10:
+    speaker: Narration
+    en: A Rapture with the gun barrel shakes.
+    ko: 포신을 겨누고 있던 랩쳐가 휘청거렸다.
+    ja: 砲身を構えていたラプチャーがぐらついた
+  d_main_03_06_11:
+    speaker: Narration
+    en: "*Pew*"
+    ko: 푸슝-!
+    ja: プシュッ！
+  d_main_03_06_12:
+    speaker: anis
+    en: You missed!
+    ko: 빗나갔다!
+    ja: 外れた！
+  d_main_03_06_13:
+    speaker: neon
+    en: Fiiirepooower!!
+    ko: 화아려어억-!!
+    ja: 火力ううぅ！！
+  d_main_03_06_14:
+    speaker: Narration
+    en: "*Bang bang*"
+    ko: 콰콰콰쾅!
+    ja: バババーン！
+  d_main_03_06_15:
+    speaker: anis
+    en: Whew... That was close.
+    ko: 후우… 큰일 날뻔했네.
+    ja: ふう…危ないところだったわ。
+  d_main_03_06_16:
+    speaker: anis
+    en: You nearly lost your head... again.
+    ko: 라피 너 또 머리 날아갈뻔했다, 응?
+    ja: ラピ、あなたの頭、また吹っ飛ばされるところだったね。
+  d_main_03_06_17:
+    speaker: rapi
+    en: That Rapture's gun barrel
+    ko: "…방금."
+    ja: "…さっき。"
+  d_main_03_06_18:
+    speaker: rapi
+    en: was pointed straight at my head.
+    ko: 랩쳐의 포신은 정확히 내 머리를 겨누고 있었어.
+    ja: ラプチャーの砲身は正確に私の頭を狙っていた。
+  d_main_03_06_19:
+    speaker: rapi
+    en: What'd you do to piss them off so much? Something to do with capturing them,
+      I assume?
+    ko: |-
+      무슨 짓을 한 거지?
+      랩쳐 포획 능력과 관계가 있는 건가?
+    ja: |-
+      何をした？
+      ラプチャー捕獲能力と何か関係があるの？
+  d_main_03_06_20:
+    speaker: mihara
+    en: More or less.
+    ko: 흐응. 눈치 빨라.
+    ja: ふ～ん、鋭いじゃない。
+  d_main_03_06_21:
+    speaker: mihara
+    en: Yuni is able to target the specific sense of an enemy and shut it down.
+    ko: 유니의 능력은 상대의 특정 감각을 꺼버리는 거야.
+    ja: ユニは相手の特定の感覚を無効にしてしまうわ。
+  d_main_03_06_22:
+    speaker: yuni
+    en: That's right! One shot from this laser and they're out of commission!
+    ko: 응! 빠지직! 하고 쏴서 끌 수 있어!
+    ja: うん！バキューン！って撃って切れる！
+  d_main_03_06_23:
+    speaker: mihara
+    en: As for me, you already know. I can swap my senses with someone else.
+    ko: 내 능력은, 겪어봐서 알겠지만 감각을 교환하는 거고.
+    ja: |-
+      もう知ってるだろうけど、私は感覚を交換する
+      ことができるわ。
+  d_main_03_06_24:
+    speaker: rapi
+    en: So they're not originally meant to be used on Nikkes?
+    ko: 니케 용 능력이 아니었다는 얘긴가?
+    ja: ニケに使うための能力ではなかったのね。
+  d_main_03_06_25:
+    speaker: mihara
+    en: No, we typically use them to bag Raptures.
+    ko: |-
+      맞아.
+      이걸 사용해서 랩쳐를 무력화 시킨 다음, 포회….
+    ja: |-
+      そうよ。
+      これでラプチャーを無力化した後、捕獲…
+  d_main_03_06_26:
+    speaker: rapi
+    en: Can Raptures feel pain?
+    ko: 랩쳐에게 감각이 있나?
+    ja: ラプチャーに感覚があるの？
+  d_main_03_06_27:
+    speaker: mihara
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  d_main_03_06_28:
+    speaker: rapi
+    en: How can abilities meant to be used against Raptures also be effective against
+      Nikkes and humans?
+    ko: |-
+      랩쳐용으로 개발된 능력이 왜 니케는 물론
+      인간에게까지 먹히는 거지?
+    ja: |-
+      ラプチャー向けに開発された能力が、
+      なぜニケや人間にまで使える？
+  d_main_03_06_29:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_06_30:
+    speaker: rapi
+    en: Who are you?
+    ko: "…너흰 뭐냐."
+    ja: "…あなたたち、何者？"
+  d_main_03_06_31:
+    speaker: mihara
+    en: You're quite the supersleuth, Rapi. Always getting to the bottom of things.
+    ko: |-
+      어머. 무서워라.
+      라피는 막 밀어붙이는 스타일이구나?
+    ja: |-
+      まあ、怖いこと。
+      ラピは強引なスタイルなのね。
+  d_main_03_06_32:
+    speaker: rapi
+    en: Answer my question.
+    ko: 대답해.
+    ja: 答えて。
+  d_main_03_06_33:
+    speaker: yuni
+    en: Do-don't talk to Mihara like that!
+    ko: 미, 미하라한테 뭐라고 하지 마!
+    ja: ミ、ミハラをいじめるな！
+  d_main_03_06_34:
+    speaker: mihara
+    en: It's fine.
+    ko: 유니. 괜찮아.
+    ja: ユニ、大丈夫よ。
+  d_main_03_06_35:
+    speaker: mihara
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_06_36:
+    speaker: mihara
+    en: I'll admit we haven't been very transparent about who we are.
+    ko: 자세한 건 우리도 몰라.
+    ja: 詳しいことは私たちも知らないわ。
+  d_main_03_06_37:
+    speaker: mihara
+    en: But I assure you that our abilities are equally effective on Nikkes, Raptures,
+      and humans alike.
+    ko: 확실한 건 우리 능력은 니케, 인간, 랩쳐 모두에게 먹혀.
+    ja: 私たちの能力がニケ、人間、ラプチャー\nすべてに効くってことだけは確かだわ。
+  d_main_03_06_38:
+    speaker: rapi
+    en: You're lying.
+    ko: 거짓말을 하는군.
+    ja: 嘘ね。
+  d_main_03_06_39:
+    speaker: rapi
+    en: Nikkes' bodies are modeled after what humans consider to be the ideal form.
+    ko: 니케의 신체는 인간일 때의 이상향을 기반으로 만들어져.
+    ja: ニケの身体は人間だった頃、\n理想としていた形をベースに作られる。
+  d_main_03_06_40:
+    speaker: rapi
+    en: You couldn't possibly end up with abilities that you didn't want...
+    ko: 네가 원하지 않은 능력이 붙었을 리 없….
+    ja: 自分が望まない能力ができるわけが…
+  d_main_03_06_41:
+    speaker: mihara
+    en: Syuen is the one who made us.
+    ko: 우릴 만든 건 슈엔이야.
+    ja: 私たちを作ったのはシュエンよ。
+  d_main_03_06_42:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_06_43:
+    speaker: mihara
+    en: The CEO of Missilis Industry. You think she's going to sit down with us
+    ko: |-
+      미실리스 인더스트리의 CEO.
+      우리한테 무슨 짓을 어떻게 왜 했는지.
+    ja: |-
+      ミシリス・インダストリーのCEO。
+      その人が私たちに何をやったかとか、\nそういう細かいことまで
+  d_main_03_06_44:
+    speaker: mihara
+    en: and have a nice chat about what she did to us, and why?
+    ko: 친절하게 설명해 줄 것 같아?
+    ja: 親切に説明してくれると思う？
+  d_main_03_06_45:
+    speaker: anis
+    en: Fair enough.
+    ko: 그건, 그렇지.
+    ja: それは、そうよね。
+  d_main_03_06_46:
+    speaker: mihara
+    en: All we know is that we have these abilities,
+    ko: 우리가 아는 건, 우리에겐 이런 능력이 있고.
+    ja: 私たちが知っているのは、こういう能力を持ち、
+  d_main_03_06_47:
+    speaker: mihara
+    en: and that we intend on using those abilities to capture Raptures.
+    ko: 이걸 이용해 랩쳐를 포획하는 거야.
+    ja: この能力でラプチャーを捕獲する義務がある\nってことだけ。
+  d_main_03_06_48:
+    speaker: mihara
+    en: That's all there is to it.
+    ko: 그것 말고는 아무것도 몰라.
+    ja: それ以外は何も知らないわ。
+  d_main_03_06_49:
+    speaker: rapi
+    en: If you say so.
+    ko: |-
+      …그래.
+      알겠어.
+    ja: |-
+      …そうか。
+      分かった。
+  d_main_03_06_50:
+    speaker: rapi
+    en: Adjust the formation. Wardress takes the lead from now on.
+    ko: |-
+      포메이션을 수정하겠어.
+      앞으로 선두는 워드리스가 맡는다.
+    ja: |-
+      フォーメーションを修正する。
+      これから先頭はワードレスよ。
+  d_main_03_06_51:
+    speaker: neon
+    en: "... Rapi."
+    ko: "…라피."
+    ja: "…ラピ。"
+  d_main_03_06_52:
+    speaker: rapi
+    en: I'm not turning my back on a Nikke who doesn't even know what she is.
+    ko: 자기 자신이 뭔지도 모르는 니케에게 등을 맡길 순 없어.
+    ja: 自分の素性も知らないニケに何を任せられる。
+  d_main_03_06_53:
+    speaker: mihara
+    en: "... Roger."
+    ko: "…라져."
+    ja: "…了解。"
+  d_main_03_06_54:
+    speaker: mihara
+    en: The footprints are connected. Let's continue.
+    ko: |-
+      흔적은 이어지고 있어.
+      계속 추적하자.
+    ja: |-
+      痕跡がまだあるわ。
+      追跡を続けるわよ。
+  d_main_03_06_55:
+    speaker: mihara
+    en: We'll take the lead.
+    ko: 물론, 우리가 앞장서는 걸로.
+    ja: もちろん、私たちが先頭に立つわ。
+  d_main_03_06_56:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+d_main_03_07:
+  d_main_03_07_1:
+    speaker: mihara
+    en: Lost them again.
+    ko: 흔적이 끊겼네.
+    ja: 痕跡が途絶えたわ。
+  d_main_03_07_2:
+    speaker: rapi
+    en: I'm sensing dense concentrations of Alva Particles up ahead. That's not a
+      good sign.
+    ko: |-
+      이 앞은 에블라 입자 농도가 짙어.
+      위험도가 높다는 얘기지.
+    ja: |-
+      この先はエブラ粒子の濃度が高い。
+      危険性が高まるということよ。
+  d_main_03_07_3:
+    speaker: mihara
+    en: So what do we do?
+    ko: 흐음~ 이걸 어쩐다.
+    ja: ふ～ん～どうしようかしら。
+  d_main_03_07_4:
+    speaker: mihara
+    en: Commander, should we pull back?
+    ko: |-
+      지휘관.
+      이쯤에서 마무리할까?
+    ja: |-
+      指揮官。
+      この辺で切り上げる？
+  d_main_03_07_5:
+    speaker: Self
+    en: All right.
+    ko: 복귀하자는 얘기야?
+    ja: 戻ろうということか？
+  d_main_03_07_6:
+    speaker: mihara
+    en: Fine by me. Things are starting to get a little too risky for my liking anyway.
+    ko: |-
+      그래.
+      단순 추적이라고 하기엔 리스크가 커지고 있으니까.
+    ja: |-
+      そうね。
+      単純な追跡にしては、リスクがどんどん\n高くなってきてるわ。
+  d_main_03_07_7:
+    speaker: Narration
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ブルルル―
+  d_main_03_07_8:
+    speaker: "<Monologue>"
+    en: The phone beeps.
+    ko: 핸드폰이 울린다.
+    ja: 携帯が鳴った
+  d_main_03_07_9:
+    speaker: "<Monologue>"
+    en: Didn't you say all communications were blocked? Who could that be...?
+    ko: 통신은 모두 단절되었다고 했는데, 누가?
+    ja: 通信は一切不能のはずだが、一体誰からだろう
+  d_main_03_07_10:
+    speaker: "<Monologue>"
+    en: The communication signal is gone.
+    ko: 통신 신호가 잡히지 않는다.
+    ja: 電波が上手く入らない
+  d_main_03_07_11:
+    speaker: "<Monologue>"
+    en: The communication seems to have cut off.
+    ko: 통신이 끊어진 모양이다.
+    ja: 通信が切れたようだ
+  d_main_03_07_12:
+    speaker: neon
+    en: Master, what do we do?
+    ko: 스승님. 뭔가요?
+    ja: 師匠、何ですか？
+  d_main_03_07_13:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_07_14:
+    speaker: mihara
+    en: Should we keep on tracking?
+    ko: "…추적, 계속해야 하는 거지?"
+    ja: "…追跡、続けるしかないんでしょう？"
+  d_main_03_07_15:
+    speaker: Self
+    en: Yes.
+    ko: "…그래."
+    ja: "…そうだ"
+  d_main_03_07_16:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_03_07_17:
+    speaker: rapi
+    en: Understood. Let's keep moving.
+    ko: |-
+      알겠습니다.
+      가시죠.
+    ja: 分かりました。行きましょう。

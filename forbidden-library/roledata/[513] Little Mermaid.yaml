@@ -1,0 +1,718 @@
+---
+513_name:
+  en: Little Mermaid
+  ko: 리틀 머메이드
+  ja: リトルマーメイド
+c513_description:
+  en: |-
+    One of the second-generation Grimms models developed as successors to the Goddess Squad.
+    Due to her long name, people around her usually call her "Siren".
+    Her whereabouts have been unknown since the First Rapture Invasion.
+  ko: |-
+    갓데스 스쿼드의 후속기로 만들어진 2세대 페어리 테일 모델 중 한 명.
+    이름이 너무 길어 주위 인물들은 보통 [세이렌]이라 부른다.
+    1차 랩쳐 침공 이후, 행방이 묘연한 상태다.
+  ja: |-
+    ゴッデス部隊の後継機として作られた
+    第2世代のフェアリーテールモデルの一人。
+    名前が長いため、周りからは「セイレーン」と呼ばれている。
+    第一次ラプチャー侵攻後、行方が分かっていない。
+513_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_513:
+  en: Little Mermaid's Spare Body
+  ko: 리틀 머메이드 스페어 바디
+  ja: リトルマーメイドのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25132_name:
+  en: Bubble Wave
+  ko: 버블 웨이브
+  ja: バブルウェーブ
+25132_description:
+  en: |-
+    ■ Activates when the enemy appears. Affects the target.
+    <color=#00AEFF>Bubble: Damage Taken ▲ {description_value_01}% continuously.</color>
+    ■ Activates after landing {description_value_02} normal attack(s). Affects the target if the target is in Bubble status.
+    <color=#00AEFF>Explosive Bubble: Damage Taken ▲ {description_value_01}% continuously.
+    Stuns for {description_value_03} sec.
+    Removes Bubble.</color>
+    ■ Activates every {description_value_04} sec only during Full Burst. Affects random enemy unit(s).
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_06} time(s).</color>
+    ■ Activates each time <word_group=10078>total ammo consumed by allies</word_group> reaches {description_value_07}. Affects random enemy unit(s).
+    <color=#00AEFF>Bubble Barrage: Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_09} time(s).</color>
+  ko: |-
+    ■ 적 등장 시 대상에게
+    <color=#00AEFF>[거품 : 받는 대미지 {description_value_01}% ▲] [지속]</color>
+    ■ 일반 공격 {description_value_02}회 명중 시 대상이 거품 상태라면 대상에게
+    <color=#00AEFF>[터진 거품 : 받는 대미지 {description_value_01}% ▲] [지속]
+    [기절] [{description_value_03}초 유지]
+    [거품 제거]</color>
+    ■ 풀 버스트 타임일 때 한하여 {description_value_04}초 마다 무작위 적들에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 대미지] [{description_value_06}회 <word_group=10050>순차 공격</word_group>] </color>
+    ■ <word_group=10078>아군이 소비한 탄의 총합</word_group>이 {description_value_07}발이 될 때 마다 무작위 적들에게
+    <color=#00AEFF>[거품 난사 : <word_group=10025>최종</word_group> 공격력 {description_value_08}% 대미지] [{description_value_09}회 <word_group=10050>순차 공격</word_group>] </color>
+  ja: |-
+    ■敵が登場した時に、対象に
+    <color=#00AEFF>「バブル：受けるダメージ{description_value_01}％▲」「持続」</color>
+    ■通常攻撃が{description_value_02}回命中した時、
+    対象がバブル状態なら、対象に
+    <color=#00AEFF>「バブルバースト：受けるダメージ
+    {description_value_01}％▲」「持続」
+    「気絶」「{description_value_03}秒間維持」
+    「バブル解除」</color>
+    ■フルバーストタイム中のみ、
+    {description_value_04}秒ごとにランダムな敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のダメージ」
+    「{description_value_06}回<word_group=10050>順番に攻撃</word_group>」</color>
+    ■<word_group=10078>味方が消費した弾の合計</word_group>が{description_value_07}発ごとに、ランダムな敵に
+    <color=#00AEFF>「バブルバラージ：<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の
+    ダメージ」「{description_value_09}回<word_group=10050>順番に攻撃</word_group>」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25131_name:
+  en: Bubble Order
+  ko: 버블 오더
+  ja: バブルオーダー
+25131_description:
+  en: |-
+    ■ Activates only when in <word_group=10080>Focusing</word_group> status. Affects all allies.
+    <color=#00AEFF><word_group=10079>Focuses fire</word_group> continuously.</color>
+    ■ Activates when Full Burst ends. Affects all allies.
+    <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_01} sec.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates each time <word_group=10078>total ammo consumed by allies</word_group> reaches {description_value_04}. Affects all allies.
+    <color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by {description_value_05}%.</color>
+  ko: |-
+    ■ 자신이 <word_group=10080>포커싱</word_group> 상태일 때 한하여 아군 전체에게
+    <color=#00AEFF>[<word_group=10079>사격 집중</word_group>][지속]</color>
+    ■ 풀 버스트 타임 종료 시 아군 전체에게
+    <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_01}초 ▼]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ <word_group=10078>아군이 소비한 탄의 총합</word_group>이 {description_value_04}발이 될 때 마다 아군 전체에게
+    <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_05}%] </color>
+  ja: |-
+    ■自分が<word_group=10080>フォーカス</word_group>状態の時に限り、味方全体に
+    <color=#00AEFF>「<word_group=10079>射撃集中</word_group>」「持続」</color>
+    ■フルバーストタイムが終了した時、味方全体に
+    <color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group> {description_value_01}秒▼」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■<word_group=10078>味方が消費した弾の合計</word_group>が{description_value_04}発ごとに、味方全体に
+    <color=#00AEFF>「<word_group=10015>バーストゲージのチャージ</word_group> {description_value_05}％」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15133_name:
+  en: Siren's Song
+  ko: 세이렌 송
+  ja: セイレーンソング
+15133_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Attack damage ▲ {description_value_01}% for {description_value_02} sec.
+    Reloads {description_value_03}% magazine(s).</color>
+    ■ Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [탄환 충전 {description_value_03}%]</color>
+    ■ 자신에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「弾丸チャージ{description_value_03}％」</color>
+    ■自分に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+511_name:
+  en: Cinderella
+  ko: 신데렐라
+  ja: シンデレラ
+514_name:
+  en: Grave
+  ko: 그레이브
+  ja: グレイブ
+c513_Lobby_Touch_1:
+  en: What should I create with my bubbles today...
+  ko: "[오늘은 물거품으로 뭘 만들어 볼까….]"
+  ja: "「今日は水泡で何を作ろうかな…」"
+c513_Lobby_Touch_2:
+  en: I should keep talking, or else I might forget how to speak.
+  ko: |-
+    [아, 계속 말을 해줘야 해.
+    말하는 법을 까먹을지도 몰라.]
+  ja: |-
+    「あ、喋らなきゃ。
+    じゃないと喋り方、忘れちゃう」
+c513_Lobby_Touch_3:
+  en: Ah uh ah... Oh right, I can speak normally.
+  ko: "[아으아… 아, 그냥 말해도 되지.]"
+  ja: |-
+    「あう…
+    あ、普通に喋ってもいいんだよね」
+c513_Lobby_Touch_Love_1:
+  en: Now I can recreate my old friends perfectly, hehe.
+  ko: |-
+    [내 소중한 친구들….
+    이제 똑같이 만들 수 있게 되었어. 헤헤.]
+  ja: |-
+    「私の大切な友だち…
+    これでもうちゃんと作れるね。へへ」
+c513_Lobby_Touch_Love_2:
+  en: I will treasure the strength that Abe gave me and use it for good.
+  ko: "[에이브가 준 힘, 선하고 소중하게 사용할게.]"
+  ja: "「エイブがくれた力、いいことだけに使うね」"
+c513_Lobby_Touch_Love_3:
+  en: Let's make sure to reach the end of this story together.
+  ko: "[이야기의 엔딩은 꼭 다 함께 맞이하자.]"
+  ja: "「物語の結末は、絶対にみんなで迎えよう」"
+c513_Lobby_Stay_1:
+  en: "... As I expected, it's lonely with no one else around."
+  ko: "[…역시 혼자는 좀 쓸쓸하네.]"
+  ja: "「…やっぱり一人は寂しいな」"
+c513_Lobby_Stay_Love_1:
+  en: |-
+    It's okay, I can wait.
+    I'm sure we'll see each other again, anyway.
+  ko: |-
+    [괜찮아, 기다릴 수 있어.
+    우리는 분명 다시 만나게 될 테니까.]
+  ja: |-
+    「大丈夫、待ってるね。
+    だって、絶対にまた会えるから」
+c513_Outpost_Touch_1:
+  en: This is a nice place. If we had all lived together in a place like this, I wonder
+    what it would have been like?
+  ko: "[좋은 곳이야. 다 같이 이런 곳에서 살았다면, 어땠을까?]"
+  ja: |-
+    「いいところ。
+    みんなでこんな場所に住んでたら、 どんな毎日になってたかな…」
+c513_Outpost_Touch_2:
+  en: I think this building would look lovely decorated with water droplets.
+  ko: "[이 건물, 물방울로 장식하면 예쁠 것 같아.]"
+  ja: "「この建物、しずくで飾ったら 素敵だろうな」"
+c513_Outpost_Touch_3:
+  en: This place is so full of life. I hope everyone here will live a full and happy
+    life.
+  ko: "[활기가 넘치네. 여기 있는 모두가 행복했으면 좋겠어.]"
+  ja: |-
+    「すごく活気があるね。
+    ここにいるみんなが 幸せだといいな」
+c513_Gacha_Get_1:
+  en: I will never fall, never falter, for I must keep the promise I made to everyone.
+  ko: |-
+    [모두와 했던 맹세를 지키기 위해서.
+    나는 절대 무너지지 않을게…!]
+  ja: |-
+    「みんなとの誓いを守る。
+    絶対に諦めない…！」
+c513_Reinforce_1:
+  en: I can make even more bubbles now.
+  ko: "[더 많은 물거품을 만들어낼 수 있겠어.]"
+  ja: "「もっとたくさん水泡を作れそう」"
+c513_Reinforce_2:
+  en: Now, I'll be able to protect everyone.
+  ko: "[이젠, 모두를 지킬 수 있을 거야.]"
+  ja: "「これでみんなを守れる」"
+c513_Reinforce_3:
+  en: If Abe could see me now, I'm sure she'd lavish me with praise, hehe.
+  ko: "[에이브가 지금 내 모습을 본다면, 분명 칭찬해 줄 거야. 헤헤.]"
+  ja: "「エイブが今の私を見たら、絶対褒めてくれるよね。へへ」"
+c513_Gift_1:
+  en: This is perfect! Just what I needed.
+  ko: "[필요하던 거였는데, 잘 됐다. 헤헤.]"
+  ja: "「ちょうどこれが欲しかったの。へへ」"
+c513_Gift_2:
+  en: Hansel and Gretel would have loved this even more than me.
+  ko: |-
+    [이건 헨젤과 그레텔이 받았다면
+    더 좋아했을 것 같아.]
+  ja: "「ヘンゼルとグレーテルもきっと喜ぶよ」"
+c513_Gift_3:
+  en: I'll set this to the side, and show it off the next time I see everyone, hehe.
+  ko: "[따로 보관해 둔 다음에, 모두를 만나게 되면 자랑해야지. 헤헤.]"
+  ja: "「とっておいて、後でみんなに自慢しよう。へへ」"
+c513_Attractive_Up_1:
+  en: It feels so soft and squishy, just like bubbles.
+  ko: "[물거품처럼 몽글몽글해지는 기분이야.]"
+  ja: "「水泡みたいにふわふわした気分」"
+c513_Attractive_Up_2:
+  en: I can feel my loneliness being replaced with happiness.
+  ko: "[외롭던 감정이, 행복으로 가득 채워진 것만 같아.]"
+  ja: "「寂しさが、幸せになった」"
+c513_Attractive_Up_3:
+  en: This warm feeling... it's the same as being inside a bubble.
+  ko: "[아… 따뜻하다. 물거품 속에 들어간 느낌이랑 비슷해.]"
+  ja: "「ん…あたたかい。水泡の中みたい」"
+c513_Party_Deploy_1:
+  en: Let's go and find everyone.
+  ko: "[가자, 모두를 찾으러.]"
+  ja: "「行こう、みんなを捜しに」"
+c513_Field_Touch_1:
+  en: Did you call me?
+  ko: "[불렀어?]"
+  ja: "「呼んだ？」"
+c513_Field_Go_1:
+  en: The bubbles will show us the way.
+  ko: "[물거품이 길을 찾아줄 거야.]"
+  ja: "「水泡が導いてくれる」"
+c513_Battle_Enter_1:
+  en: I will turn everything into bubbles.
+  ko: "[전부, 물거품으로 만들어 줄게.]"
+  ja: "「全部、水の泡にしてあげる」"
+c513_Battle_Ready_1:
+  en: My voice is ready.
+  ko: "[내 목소리는 준비됐어.]"
+  ja: "「私の声なら準備できてる」"
+c513_Battle_Ready_2:
+  en: Let's go, everyone.
+  ko: "[가자, 얘들아.]"
+  ja: "「行こう、みんな」"
+c513_Battle_Ready_3:
+  en: I'm not alone. We're all in this together.
+  ko: "[혼자가 아니야. 모두가 함께야.]"
+  ja: "「一人じゃない。みんながいる」"
+c513_Reload_1:
+  en: Let me clear my throat...
+  ko: "[목을 가다듬고….]"
+  ja: "「喉の調子を整えて…」"
+c513_Reload_2:
+  en: Regroup, and let's go again.
+  ko: "[모였다가, 다시 가보자.]"
+  ja: "「集まったらまた行こう」"
+c513_Reload_3:
+  en: I'll do my best. Cheer me on.
+  ko: "[힘낼게, 응원해 줘.]"
+  ja: "「頑張るから、応援をお願い」"
+c513_Ult_Skill_Ready_1:
+  en: Bubbles!
+  ko: "[물거품들아…!]"
+  ja: "「水泡よ…！」"
+c513_Ult_Skill_1:
+  en: Tell me the story of victory.
+  ko: "[내게 승리의 이야기를 들려줘.]"
+  ja: "「勝利の物語を聞かせて」"
+c513_FullBurst_1:
+  en: Go forth!
+  ko: "[쏟아내!]"
+  ja: "「出し切って！」"
+c513_Kill_Monster_1:
+  en: Good job.
+  ko: "[잘했어.]"
+  ja: "「やったね」"
+c513_Kill_Monster_2:
+  en: Let's keep going, just a little bit more!
+  ko: "[조금만 더 힘내자!]"
+  ja: "「もう少し、頑張ろう！」"
+c513_Kill_Monster_3:
+  en: Yes, good.
+  ko: "[응, 좋아.]"
+  ja: "「うん、よし」"
+c513_Damage_1:
+  en: Ah...!
+  ko: "[앗…!]"
+  ja: "「あっ…！」"
+c513_Damage_2:
+  en: Ugh!
+  ko: "[어흑!]"
+  ja: "「ああっ！」"
+c513_Damage_3:
+  en: That hurt...
+  ko: "[아파…!]"
+  ja: "「痛い…！」"
+c513_Die_1:
+  en: This won't do... but we mustn't give up. We must try again.
+  ko: "[이래서는 안 돼… 포기하지 말고, 다시 해보자….]"
+  ja: "「これじゃダメ…あきらめないで、もう一回…」"
+c513_Win_1:
+  en: The story will be rewritten into a tale that's happy and beautiful.
+  ko: "[이야기는 다시 쓰일 거야. 행복하고, 아름답게.]"
+  ja: "「物語は、幸せで美しい話として書き直されるの」"
+c513_01_Lobby_Touch_1:
+  en: I feel like I have become one with the bubbles.
+  ko: "[물거품과 하나가 된 기분이야.]"
+  ja: "「まるで、水泡とひとつになったみたい」"
+c513_01_Lobby_Touch_2:
+  en: I hope that one day, I can show this place to everyone. My own space.
+  ko: |-
+    [나만의 공간, 나만의 장소.
+    언젠간 모두에게 보여줄 수 있으면 좋겠어.]
+  ja: |-
+    「私だけの空間、私だけの場所…
+    いつかみんなにも、見せてあげたい」
+c513_01_Lobby_Touch_3:
+  en: Someday, will I be able to swim freely outside these bubbles?
+  ko: |-
+    [언젠가, 이 물거품 밖에서도
+    자유롭게 헤엄칠 수 있을까?]
+  ja: "「いつかこの水泡の外でも、自由に泳げるのかな…？」"
+c513_01_Lobby_Touch_Love_1:
+  en: If Cinderella saw me like this, she would say I look beautiful, right?
+  ko: "[신데렐라가 이 모습을 보면, 아름답다고 말해줬겠지?]"
+  ja: "「シンデレラがこの姿を見たら、美しいって言ってくれるかな？」"
+c513_01_Lobby_Touch_Love_2:
+  en: La la la~ La la la la~♬
+  ko: "[라라라~ 라라라라~♬]"
+  ja: "「ラララ～ララララ～♬」"
+c513_01_Lobby_Touch_Love_3:
+  en: |-
+    It's so warm in here.
+    It feels like everyone is embracing me.
+  ko: |-
+    [이 안, 정말 따뜻해.
+    모두가 날 안아주고 있는 느낌이야.]
+  ja: |-
+    「水泡の中、すごくあたたかい。
+    なんだかみんなに抱きしめられてるみたい」
+c513_01_Lobby_Stay_1:
+  en: I got all dressed up, but there's no one here to show off to...
+  ko: "[…예쁘게 입었는데, 보여줄 사람이 없네.]"
+  ja: "「せっかくおめかししたのに、見てくれる人がいない…」"
+c513_01_Lobby_Stay_Love_1:
+  en: |-
+    If I wear a dress like this and wait,
+    it feels like a prince is going to come looking for me. Hehe.
+  ko: |-
+    [이런 옷을 입고 기다리면,
+    왕자님이 날 찾으러 와줄 것만 같아. 헤헤.]
+  ja: |-
+    「このドレスを着て待っていれば、
+    王子様が来てくれるかも。へへ」
+c513_01_Outpost_Touch_1:
+  en: When I'm here, I don't feel so lonely anymore.
+  ko: "[여기에 있으면, 외로움이 사라질 것만 같아.]"
+  ja: "「ここなら、寂しくなさそう」"
+c513_01_Outpost_Touch_2:
+  en: Will I be able to become friends with everyone here someday?
+  ko: "[언젠가는 여기에 있는 모두와 친구가 될 수 있을까?"
+  ja: "「いつかここのみんなと、 友だちになれるかな…？」"
+c513_01_Outpost_Touch_3:
+  en: Everyone here looks so happy and free. It's incredibly admirable.
+  ko: "[모두 자유로워 보여. 부럽고, 멋있어.]"
+  ja: |-
+    「みんな、自由な感じがして素敵。
+    少し、うらやましい」
+c513_01_Gacha_Get_1:
+  en: |-
+    I feel like a fish that is free to swim wherever it pleases.
+    Would you like to come with me?
+  ko: |-
+    [물고기처럼, 어디든 자유롭게 갈 수 있을 것만 같아.
+    함께 갈래?]
+  ja: |-
+    「魚みたいにどこへでも行けそう。
+    一緒に、行く？」
+c513_01_Reinforce_1:
+  en: The bubbles have become stronger.
+  ko: "[물거품이 더 단단해졌어.]"
+  ja: "「水泡が、もっと丈夫になった」"
+c513_01_Reinforce_2:
+  en: It feels like I'm overflowing with energy.
+  ko: "[힘이 넘쳐흐르는 것 같아.]"
+  ja: "「力がみなぎってくる」"
+c513_01_Reinforce_3:
+  en: So much time has passed. I'm sure everyone's grown stronger in the meantime,
+    so I can't fall behind!
+  ko: |-
+    [시간이 지난 만큼, 다들 강해졌을 거야.
+    나도 뒤처지지 말아야지. 헤헤.]
+  ja: |-
+    「流れた月日のぶんだけ、みんな強くなってるはず。
+    なら私も、負けずに頑張らなきゃ。へへ」
+c513_01_Gift_1:
+  en: Wow, this would go perfectly with my current outfit!
+  ko: "[와아…! 지금 옷에 너무 잘 어울릴 것 같아.]"
+  ja: "「わあ…！今の服にぴったり！」"
+c513_01_Gift_2:
+  en: I'll keep it safe and sound inside the bubbles. Hehe.
+  ko: "[물거품 속에 보관해 둬야지. 헤헤.]"
+  ja: |-
+    「水泡の中にしまっておこうっと。
+    えへへ」
+c513_01_Gift_3:
+  en: Can I share it with the fish too?
+  ko: "[물고기들에게도 나눠줄 수 있을까?]"
+  ja: "「魚たちにも、あげていい？」"
+c513_01_Attractive_Up_1:
+  en: I adore it so much!
+  ko: "[좋아해, 많이많이 좋아해.]"
+  ja: "「あなたが好き。心の底から、大好き」"
+c513_01_Attractive_Up_2:
+  en: It feels so soft, warm and comforting—just like bubbles.
+  ko: "[물거품처럼 따뜻하고, 부드럽고, 달콤한 느낌이야.]"
+  ja: "「水泡のようにあたたかくて、柔らかくて、甘い心地がするの」"
+c513_01_Attractive_Up_3:
+  en: Like sunlight that brightens the deep, dark recesses of the sea.
+  ko: "[어두운 심해 속을 밝히는 햇살 같아.]"
+  ja: "「まるで、深海を照らす太陽みたい」"
+c513_01_Party_Deploy_1:
+  en: Shall I swim over there?
+  ko: "[헤엄쳐서 가볼까?]"
+  ja: "「泳いでいこっか？」"
+c513_01_Field_Touch_1:
+  en: Yes, I'm here.
+  ko: "[응, 여기 있어.]"
+  ja: "「うん、ここにいるよ」"
+c513_01_Field_Go_1:
+  en: "*Blub* *Blub*"
+  ko: "[어푸어푸~]"
+  ja: "「スイスイ～」"
+c513_01_Battle_Enter_1:
+  en: Let's chase away these bad fish.
+  ko: "[나쁜 물고기들을 쫓아내 볼까?]"
+  ja: "「悪い魚を、追い出そう」"
+c513_01_Battle_Ready_1:
+  en: Bubbles at the ready.
+  ko: "[물거품, 준비 됐어.]"
+  ja: "「水泡、準備完了」"
+c513_01_Battle_Ready_2:
+  en: I'm counting on you, guys.
+  ko: "[얘들아, 부탁해.]"
+  ja: "「みんな、お願いね」"
+c513_01_Battle_Ready_3:
+  en: Let's put some gusto into our swimming.
+  ko: "[신나게 헤엄쳐보자.]"
+  ja: "「楽しく泳ごう」"
+c513_01_Reload_1:
+  en: "*Bubble* *Bubble*"
+  ko: "[보글보글~]"
+  ja: "「ブクブク…」"
+c513_01_Reload_2:
+  en: Ah... Yes, my voice is fine.
+  ko: "[아아. 응, 목소리 괜찮아.]"
+  ja: "「あ、あ。うん、喉の調子は大丈夫」"
+c513_01_Reload_3:
+  en: Next time, I'll be even faster.
+  ko: "[다음엔, 더 빠르게.]"
+  ja: "「次は、もっと速く」"
+c513_01_Ult_Skill_Ready_1:
+  en: Everyone, hold your breath.
+  ko: "[다들, 숨 참아.]"
+  ja: "「みんな、息を止めて」"
+c513_01_Ult_Skill_1:
+  en: Swim with all your might toward the light...!
+  ko: "[빛을 향해, 힘껏 헤엄치는 거야…!]"
+  ja: "「光に向かって、全力で泳いで…！」"
+c513_01_FullBurst_1:
+  en: Charge forward quickly!
+  ko: "[빠르게 몰아쳐!]"
+  ja: "「一気に追い込んで！」"
+c513_01_Kill_Monster_1:
+  en: Well done, everyone.
+  ko: "[잘했어, 얘들아.]"
+  ja: "「みんな、お疲れ様」"
+c513_01_Kill_Monster_2:
+  en: Next.
+  ko: "[다음.]"
+  ja: "「次」"
+c513_01_Kill_Monster_3:
+  en: We drove them away!
+  ko: "[쫓아냈어!]"
+  ja: "「追い払った！」"
+c513_01_Damage_1:
+  en: Ugh...!
+  ko: "[아윽…!]"
+  ja: "「あぅ…！」"
+c513_01_Damage_2:
+  en: Ngh!
+  ko: "[읏!]"
+  ja: "「うっ！」"
+c513_01_Damage_3:
+  en: Ow...!
+  ko: "[우우…!]"
+  ja: "「うぅ…！」"
+c513_01_Die_1:
+  en: I won't be able to swim freely like this...
+  ko: "[이대로는 자유롭게 헤엄칠 수 없어…]"
+  ja: "「このままじゃ、自由に泳げない…」"
+c513_01_Win_1:
+  en: The waves have calmed. Why don't we swim towards the next story?
+  ko: "[물결이 잔잔해졌어. 이제, 다음 이야기를 향해 헤엄쳐서 가볼까?]"
+  ja: |-
+    「波が穏やかになったね。
+    次の物語に向かって、泳いでいこう」
+513_cv_ja:
+  en: 'CV: Yū Shimamura'
+  ko: 'CV : 시마무라 유'
+  ja: CV：嶋村侑
+513_cv_ko:
+  en: 'CV: Kim Do-hee'
+  ko: 'CV : 김도희'
+  ja: CV：キム・ドヒ
+513_cv_en:
+  en: 'CV: Monique Thomas'
+  ko: 'CV : 모니크 토마스'
+  ja: CV：Monique Thomas

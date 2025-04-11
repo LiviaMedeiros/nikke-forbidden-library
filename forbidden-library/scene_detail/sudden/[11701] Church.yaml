@@ -1,0 +1,4395 @@
+---
+d_ex_church_01:
+  d_ex_church_01_1:
+    speaker: guillotine
+    en: "*Huff huff*"
+    ko: 헉, 헉….
+    ja: はぁ、はぁ…
+  d_ex_church_01_2:
+    speaker: guillotine
+    en: The Big O shouldn't be able to find us here.
+    ko: 큭… [조직] 놈들. 과연 이런 곳까지 쫓아오지는 못하겠지.
+    ja: |-
+      くくっ…「組織」の奴らでもここまでは
+      追いかけて来ないだろう。
+  d_ex_church_01_3:
+    speaker: guillotine
+    en: However, that doesn't mean we should rest easy.
+    ko: 하지만 당장 놈들을 따돌렸다 해도 안심하긴 일러.
+    ja: 何とか奴らの目はごまかせたが安心はできない。
+  d_ex_church_01_4:
+    speaker: guillotine
+    en: This church doesn't have any shields activated yet.
+    ko: 아직 이 교회엔 [결계]가 활성화되어 있지 않으니까.
+    ja: |-
+      まだこの教会には「結界」が
+      張られていないから。
+  d_ex_church_01_5:
+    speaker: "<Choice>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_church_01_6:
+    speaker: "<Choice>"
+    en: Care to explain?
+    ko: 일단 앞뒤 설명 좀 부탁할게.
+    ja: まずは状況説明をしてくれ
+  d_ex_church_01_7:
+    speaker: guillotine
+    en: Must I explain everything to you?
+    ko: 큭… 그대.
+    ja: くくっ…友よ。
+  d_ex_church_01_8:
+    speaker: guillotine
+    en: Did the Big O's mind attack give you short term memory loss or something?
+    ko: "[조직]의 정신 공격으로 일시적 기억 상실을 겪게 된 건가?"
+    ja: |-
+      「組織」の精神攻撃により一時的に
+      記憶喪失となったか？
+  d_ex_church_01_9:
+    speaker: guillotine
+    en: Fine, I'll make this short.
+    ko: 뭐, 어쩔 수 없지. 최대한 간략하게 설명한다.
+    ja: 仕方ない。できるだけ簡単に説明しよう。
+  d_ex_church_01_10:
+    speaker: guillotine
+    en: A moment ago, I was with you in the Shopping Mall.
+    ko: 조금 전, 그대와 나는 쇼핑몰에 있었다.
+    ja: |-
+      さっきまで、友と我はショッピング
+      モールにいた。
+  d_ex_church_01_11:
+    speaker: guillotine
+    en: We were having a grand old time,
+    ko: 한창 신나게 쇼핑을 하던 중에….
+    ja: 平和にショッピングを楽しんでいたところ…
+  d_ex_church_01_12:
+    speaker: guillotine
+    en: and then we suddenly found the promised sword of victory, Excalibur.
+    ko: 우리는 약속된 승리의 검, [엑스칼리버]를 발견했지.
+    ja: |-
+      我々は約束された勝利の剣
+      「エクスカリバー」を発見した。
+  d_ex_church_01_13:
+    speaker: guillotine
+    en: No one else could make it budge,
+    ko: 그 검은 절대 아무나 뽑을 수 있는 게 아니지만,
+    ja: その剣は選ばれし者だけが扱える。
+  d_ex_church_01_14:
+    speaker: guillotine
+    en: but you removed it from the stone, proving that you are a true warrior.
+    ko: 그대가 그걸 뽑음으로써 스스로가 진정한 용사임을 증명했고.
+    ja: |-
+      友はその剣を持つことで、
+      自らが真の勇士であることを証明し、
+  d_ex_church_01_15:
+    speaker: guillotine
+    en: Because of that, you were chosen to be the owner of that sword.
+    ko: 대가로 그 검의 소유권을 갖게 되었다.
+    ja: |-
+      その剣の所有者であるという
+      責任を負うこととなった。
+  d_ex_church_01_16:
+    speaker: guillotine
+    en: But Dolla, that feeble-minded peddler...
+    ko: 그런데 도라, 그 아무것도 모르는 장사치가….
+    ja: ところがドラーというあの何も知らぬ商売人が…
+  d_ex_church_01_17:
+    speaker: guillotine
+    en: she popped up out of nowhere and accused us of being thieves!
+    ko: |-
+      갑자기 무전기를 들고 나타나서는,
+      우릴 [도둑]이라고 몰아붙이는 게 아닌가?!
+    ja: |-
+      突然無線機を手に現れては、
+      我々を「泥棒」呼ばわりするではないか！？
+  d_ex_church_01_18:
+    speaker: "<Choice>"
+    en: But we are thieves.
+    ko: 도둑 맞지 않냐.
+    ja: 泥棒で合ってると思う
+  d_ex_church_01_19:
+    speaker: "<Choice>"
+    en: That coward...!
+    ko: 그런 비겁한…!
+    ja: 何て卑劣なんだ…！
+  d_ex_church_01_20:
+    speaker: guillotine
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_01_21:
+    speaker: guillotine
+    en: Anyway, that's how we ended up in the A.C.P.U.'s crosshairs,
+    ko: 아무튼 그런 사정으로 [조직의 개], A.C.P.U.가 출동하게 되었고,
+    ja: |-
+      とにかくそんなわけで「組織のイヌ」である
+      A.C.P.U.が出動することとなり、
+  d_ex_church_01_22:
+    speaker: guillotine
+    en: which led us to here.
+    ko: 지금 이 상황까지 오게 된 거다.
+    ja: 今に至る。
+  d_ex_church_01_23:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삐이이--
+    ja: ピィィーー
+  d_ex_church_01_24:
+    speaker: poli
+    en: Mic test, one, two...
+    ko: "아, 아. \n마이크 테스트."
+    ja: |-
+      あ、あー
+      マイクテスト。
+  d_ex_church_01_25:
+    speaker: poli
+    en: Attention, sword thieves.
+    ko: 장난감 칼 절도범들에게 알립니당~
+    ja: おもちゃの剣を盗んだ犯人に告ぐ～
+  d_ex_church_01_26:
+    speaker: poli
+    en: Come out of the church at once.
+    ko: 지금 바로 교회에서 튀어 나오세영.
+    ja: 今すぐ教会から出てきなさぁ～い。
+  d_ex_church_01_27:
+    speaker: poli
+    en: Or else we're coming in.
+    ko: 안 그러면 강제로 진입합니당.
+    ja: そうしないとこっちから進入しますよぉ～
+  d_ex_church_01_28:
+    speaker: guillotine
+    en: Argh... They're right behind us.
+    ko: 큭… 놈들이 바로 지척까지 왔군.
+    ja: くくっ…奴らめ、もうここまで来やがった。
+  d_ex_church_01_29:
+    speaker: "<Choice>"
+    en: Let's just go out now and surrender.
+    ko: 지금 나가서 자수하자.
+    ja: 今すぐ外に出て自首しよう
+  d_ex_church_01_30:
+    speaker: "<Choice>"
+    en: Looks like we'll need a heavy-duty shield.
+    ko: 이런이런… 아주 강력한 [결계]가 필요하겠군.
+    ja: これは大変だ…最強の「結界」が必要だな
+  d_ex_church_01_31:
+    speaker: guillotine
+    en: No.
+    ko: 아니.
+    ja: いや。
+  d_ex_church_01_32:
+    speaker: guillotine
+    en: Surrender is not an option.
+    ko: 지금 우리에게 필요한 건 자수 따위가 아니야.
+    ja: 今我々に必要なのは自首などではない。
+  d_ex_church_01_33:
+    speaker: guillotine
+    en: We need a heavy-duty shield that these punks can't penetrate.
+    ko: 오히려 저 [조직의 개]들조차 뚫지 못할 강력한 결계지.
+    ja: あの「組織のイヌ」でも突破不能な\n強力な結界だ。
+  d_ex_church_01_34:
+    speaker: guillotine
+    en: Precisely.
+    ko: 그 말대로다, 벗이여.
+    ja: その通りだ、友よ。
+  d_ex_church_01_35:
+    speaker: guillotine
+    en: And to make that shield,
+    ko: 그리고 그 결계를 설치하기 위해서는,
+    ja: そしてその結界を張るためには、
+  d_ex_church_01_36:
+    speaker: guillotine
+    en: we must go through the ancient holy ceremony.
+    ko: 고대로부터 전해져 내려오는 성스러운 [의식]을 거행해야 해.
+    ja: |-
+      古代より伝わる聖なる「儀式」を
+      行わねばならない。
+  d_ex_church_01_37:
+    speaker: guillotine
+    en: I'll tell you how it goes. Just follow my lead.
+    ko: 방법은 내가 알려줄 테니, 너는 따라하기만 하면 된다.
+    ja: 方法は我が教える。友は言う通りにすればよい。
+  d_ex_church_01_38:
+    speaker: "<Self>"
+    en: All right.
+    ko: 알겠어.
+    ja: 分かった
+  d_ex_church_01_39:
+    speaker: "<Narration>"
+    en: "... A little while later."
+    ko: "……얼마 후."
+    ja: "……しばらくして"
+  d_ex_church_01_40:
+    speaker: guillotine
+    en: Everything is prepared.
+    ko: 사전 준비는 끝났다.
+    ja: 準備は整った。
+  d_ex_church_01_41:
+    speaker: guillotine
+    en: Let's do this.
+    ko: 그럼 슬슬…… 시작해 보도록 할까.
+    ja: ではそろそろ…始めるとしよう。
+  d_ex_church_01_42:
+    speaker: "<Monologue>"
+    en: Guillotine kneels before the holy figure,
+    ko: 길로틴은 신상 앞에 한쪽 무릎을 꿇고 앉은 뒤,
+    ja: ギロチンは神像の前に片膝を立ててひざまづき、
+  d_ex_church_01_43:
+    speaker: "<Monologue>"
+    en: and crosses her arms to make an ∞ sign.
+    ko: 두 팔을 이리저리 겹쳐 [∞]자를 그렸다.
+    ja: 両腕を八の字に振り「∞」の形を描いた
+  d_ex_church_01_44:
+    speaker: guillotine
+    en: Infinity. Ohm. Limit.
+    ko: 인피니티. 옴. 리미트.
+    ja: インフィニティ・オム・リミット。
+  d_ex_church_01_45:
+    speaker: "<Choice>"
+    en: Infinity. Ohm. Limit.
+    ko: 인피니티. 옴. 리미트.
+    ja: インフィニティ・オム・リミット
+  d_ex_church_01_46:
+    speaker: "<Choice>"
+    en: Don't repeat after me.
+    ko: 따라하지 않는다.
+    ja: 何も言わずにいる
+  d_ex_church_01_47:
+    speaker: guillotine
+    en: What's gotten into you?
+    ko: 그대, 지금 뭐하는 거지?
+    ja: 友よ、何をしておる？
+  d_ex_church_01_48:
+    speaker: guillotine
+    en: You're backing out after coming this far?
+    ko: 이렇게 깊이 발을 들인 주제에, 이제 와서 발 빼겠다는 건가?
+    ja: |-
+      ここまで深く加担しておいて、
+      今さら踵を返すというのか。
+  d_ex_church_01_49:
+    speaker: "<Self>"
+    en: Do as she says.
+    ko: 일단 하라는대로 한다.
+    ja: とりあえず言われるがままにする
+  d_ex_church_01_50:
+    speaker: guillotine
+    en: Sacred. Zool. Darkness.
+    ko: 세이크리드. 줄. 다크니스.
+    ja: セイクリッド・ジュル・ダークニス。
+  d_ex_church_01_51:
+    speaker: "<Self>"
+    en: Sacred. Zool. Darkness.
+    ko: 세이크리드. 줄. 다크니스.
+    ja: セイクリッド・ジュル・ダークニス
+  d_ex_church_01_52:
+    speaker: "<Narration>"
+    en: "*Knock* *Knock knock*"
+    ko: 쿵! 쿵쿵!
+    ja: バン！バンバン！
+  d_ex_church_01_53:
+    speaker: poli
+    en: Do you hear me?
+    ko: 아, 아. 듣고 있나영-
+    ja: あ、あー、聞こえますかぁー
+  d_ex_church_01_54:
+    speaker: poli
+    en: We are prepared to use force if necessary.
+    ko: 지금 강제 진입 준비 다 끝났습니당~
+    ja: ただ今より強制進入を開始しますぅ～
+  d_ex_church_01_55:
+    speaker: poli
+    en: Let's just talk about this. No need for any of this to get nasty.
+    ko: 서로 쓸데없이 힘 빼지 말고, 원만하게 해결하자고용~
+    ja: |-
+      お互い不毛な消耗戦はやめて、
+      丸く収めましょうよぉ～
+  d_ex_church_01_56:
+    speaker: guillotine
+    en: Just ignore her.
+    ko: 무시하는 거다, 벗이여.
+    ja: 無視するのだ、友よ。
+  d_ex_church_01_57:
+    speaker: guillotine
+    en: After the shield is prepared, they won't be able to lay a finger on us.
+    ko: "어차피 결계가 완성되는 순간, \n저들은 우리에게 간섭할 수 없게 돼."
+    ja: |-
+      結界が完成すれば、
+      奴らは我々に手を出すことはできない。
+  d_ex_church_01_58:
+    speaker: "<Choice>"
+    en: Got it.
+    ko: 알겠어.
+    ja: 分かった
+  d_ex_church_01_59:
+    speaker: "<Choice>"
+    en: I can't do this anymore, it's embarrassing.
+    ko: 쪽팔려서 더는 못하겠어.
+    ja: 恥ずかしくてもうやってられない
+  d_ex_church_01_60:
+    speaker: guillotine
+    en: All right, onto the next step.
+    ko: 좋아. 그럼 다음 동작으로 간다.
+    ja: よし。では次の手順に移る。
+  d_ex_church_01_61:
+    speaker: guillotine
+    en: You can't trust your emotions right now.
+    ko: 그 쪽팔림은 허상이다.
+    ja: その恥じらいはただの幻惑だ。
+  d_ex_church_01_62:
+    speaker: guillotine
+    en: They're being manipulated by the force of the shield.
+    ko: 너무나도 강력한 결계를 치는 것에 대한 반작용 같은 거지.
+    ja: |-
+      強力すぎる結界を張るが故に発生する
+      反作用のようなものだ。
+  d_ex_church_01_63:
+    speaker: guillotine
+    en: Just put up with it a little longer.
+    ko: 그러니 조금만 더 견뎌라.
+    ja: もう少しだけ我慢するのだ。
+  d_ex_church_01_64:
+    speaker: guillotine
+    en: All right, onto the next step.
+    ko: 그럼 곧바로… 다음 동작으로 이행하지.
+    ja: では続けて…次の手順を行う。
+  d_ex_church_01_65:
+    speaker: "<Monologue>"
+    en: Guillotine holds her hand out in front of her
+    ko: 길로틴은 양손을 앞으로 내밀더니,
+    ja: ギロチンは両手を前に突き出し、
+  d_ex_church_01_66:
+    speaker: "<Monologue>"
+    en: and extends her hips backwards, her body leaning slightly forward.
+    ko: 엉덩이를 뒤로 휙, 뺀 채 엉거주춤하게 섰다.
+    ja: 尻を後ろにぐっと引き、不安定な姿勢で立った
+  d_ex_church_01_67:
+    speaker: "<Choice>"
+    en: Follow Guillotine perfectly.
+    ko: 길로틴의 동작을 완벽하게 따라한다.
+    ja: ギロチンの動きを完璧に真似る
+  d_ex_church_01_68:
+    speaker: "<Choice>"
+    en: Follow Guillotine half-way.
+    ko: 길로틴의 동작을 반만 따라한다.
+    ja: ギロチンの動きを半分だけ真似る
+  d_ex_church_01_69:
+    speaker: guillotine
+    en: Integral. Volt.
+    ko: 인테그럴. 볼트.
+    ja: インテグラル・ボルト。
+  d_ex_church_01_70:
+    speaker: guillotine
+    en: Judge-ment!!
+    ko: 져지먼-트!!
+    ja: ジャッジメントー！
+  d_ex_church_01_71:
+    speaker: "<Self>"
+    en: Integral. Volt. Judge-ment!!
+    ko: 인테그럴. 볼트. 져지먼-트!!
+    ja: インテグラル・ボルト・ジャッジメントー！
+  d_ex_church_01_72:
+    speaker: "<Narration>"
+    en: |-
+      *Bang*
+      *Swing*
+    ko: "쾅- \n벌컥!!"
+    ja: |-
+      バン―
+      バタン！
+  d_ex_church_01_73:
+    speaker: poli
+    en: A.C.P.U...!!
+    ko: A.C.P.U.입니ㄷ…!!
+    ja: A.C.P.U.です…！
+  d_ex_church_01_74:
+    speaker: poli
+    en: "...?"
+    ko: "……?"
+    ja: "……？"
+  d_ex_church_01_75:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_01_76:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_01_77:
+    speaker: miranda
+    en: Commander... what are you doing?
+    ko: 그건 뭐 하는 동작입니까, 지휘관?
+    ja: それは何のヨガのポーズでしょうか、指揮官？
+  d_ex_church_01_78:
+    speaker: "<Self>"
+    en: Um... nothing.
+    ko: 이건… 아무것도 아니야.
+    ja: その…気にするな
+  d_ex_church_01_79:
+    speaker: miranda
+    en: Uh...
+    ko: 어…….
+    ja: あ…
+  d_ex_church_01_80:
+    speaker: miranda
+    en: What was that sound just then?
+    ko: 그럼 아까 외치신 구호는.
+    ja: では先ほど叫ばれた言葉は…
+  d_ex_church_01_81:
+    speaker: miranda
+    en: Judgment? Integral? What are those?
+    ko: 저, 저지먼트? 인테그랄? 그건 무슨 뜻이었던 겁니까?
+    ja: |-
+      ジャ、ジャッジメント？インテグラル？
+      あれはどういう意味でしょうか？
+  d_ex_church_01_82:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_01_83:
+    speaker: miranda
+    en: I don't mean to pry.
+    ko: 아, 자꾸 여쭤봐서 죄송합니다.
+    ja: あ、質問ばかりしてすみません。
+  d_ex_church_01_84:
+    speaker: miranda
+    en: It's just that I really don't know...
+    ko: 제가 진짜 잘 몰라서 그러는 거라….
+    ja: 本当によく分からなくて気になってしまい…
+  d_ex_church_01_85:
+    speaker: poli
+    en: All right, enough grilling Miranda.
+    ko: 미란다. 은근히 잔인한 구석이 있네용.
+    ja: ミランダって結構Sなところがあるんですねぇ。
+  d_ex_church_01_86:
+    speaker: guillotine
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_01_87:
+    speaker: "<Narration>"
+    en: Guillotine takes a phone out of her pocket.
+    ko: 길로틴은 주머니에서 핸드폰을 꺼냈다.
+    ja: ギロチンはポケットから携帯電話を取り出した
+  d_ex_church_01_88:
+    speaker: guillotine
+    en: Ingrid? It's me.
+    ko: "……잉그리드? 나다."
+    ja: "…イングリッド？我だ。"
+  d_ex_church_01_89:
+    speaker: guillotine
+    en: I was caught doing the holy ceremony by the Big O.
+    ko: 지금 막 [조직의 개]들에게 중대한 의식을 발각당했다.
+    ja: |-
+      たった今「組織のイヌ」どもに
+      重要な儀式を見られてしまった。
+  d_ex_church_01_90:
+    speaker: guillotine
+    en: Yes, this isn't my first rodeo, so I'll be fine.
+    ko: "……그래. 나는 베테랑이라 문제 없다만."
+    ja: "…ふん。我はベテランであるから問題ないが、"
+  d_ex_church_01_91:
+    speaker: guillotine
+    en: But I'm concerned about my partner.
+    ko: 내 벗의 정신 상태가 심히 우려되는군.
+    ja: 我の友の精神状態が非常に心配だ。
+  d_ex_church_01_92:
+    speaker: guillotine
+    en: Could you send over a psychiatrist?
+    ko: 이쪽으로 멘탈 케어 전문가를 보내줄 순 없겠나?
+    ja: |-
+      こちらにメンタルケアの専門家を
+      送ってくれないか？
+  d_ex_church_01_93:
+    speaker: guillotine
+    en: What? None available?
+    ko: "……뭐? 지금 이쪽으로 돌릴 전력이 없다고?"
+    ja: "…何だと？今は予備の戦力がないだと？"
+  d_ex_church_01_94:
+    speaker: guillotine
+    en: Ugh. Damn.
+    ko: 큭, 젠장…….
+    ja: くくっ、何たることだ…
+  d_ex_church_01_95:
+    speaker: "<Narration>"
+    en: She hangs up the phone.
+    ko: 뚜- 뚜-
+    ja: ツーツー
+  d_ex_church_01_96:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_01_97:
+    speaker: poli
+    en: I think I see what's going on here.
+    ko: 사정은 안 봐도 잘 알겠네용.
+    ja: 事情はよく分かりましたぁ。
+  d_ex_church_01_98:
+    speaker: poli
+    en: Let's talk about this down at the station.
+    ko: 나머지는 서에 가서 얘기하실까용?
+    ja: 残りは署に行ってお話ししましょうかね？
+  d_ex_church_01_99:
+    speaker: "<Narration>"
+    en: "*Clank clank*"
+    ko: 철컹 철컹.
+    ja: カチャ、カチャ
+  d_ex_church_01_100:
+    speaker: "<Narration>"
+    en: "*Beep beep*"
+    ko: 삐용- 삐용-
+    ja: ウーウー
+d_ex_church_02:
+  d_ex_church_02_1:
+    speaker: "<Monologue>"
+    en: I came here to clean up the church, as some have said it is too dirty.
+    ko: 교회가 너무 더럽다는 익명의 제보를 받아 청소를 하러 왔다.
+    ja: |-
+      教会が汚すぎるという匿名の通報を受け、
+      掃除をしに来た
+  d_ex_church_02_2:
+    speaker: "<Monologue>"
+    en: There's enough dust here to plug up both my nostrils.
+    ko: 들어오자마자 먼지 때문에 코가 막히는 기분이다.
+    ja: |-
+      中に入った途端、埃のせいで
+      鼻が詰まりそうになった
+  d_ex_church_02_3:
+    speaker: "<Monologue>"
+    en: It seems like much of the dust is coming from the confessional.
+    ko: 먼지의 발생지는 저 앞 고해소인 것 같다.
+    ja: 埃の発生源はあそこにある告解所のようだ
+  d_ex_church_02_4:
+    speaker: "<Monologue>"
+    en: I head inside to clean it up.
+    ko: 청소를 하러 문을 열고 들어갔다.
+    ja: 掃除をするため扉を開けて中に入った
+  d_ex_church_02_5:
+    speaker: "<Monologue>"
+    en: As expected, the small room is caked in dust and grime.
+    ko: 역시나, 좁은 곳에 먼지가 가득하다.
+    ja: 予想通り、隙間に埃がたくさんある
+  d_ex_church_02_6:
+    speaker: "<Monologue>"
+    en: The moment I raise my broom...
+    ko: 빗자루를 드는 순간.
+    ja: ほうきで埃を払おうとした瞬間
+  d_ex_church_02_7:
+    speaker: "<Narration>"
+    en: "*Clank*"
+    ko: 덜컹.
+    ja: バタン
+  d_ex_church_02_8:
+    speaker: "<Monologue>"
+    en: The end of the broom bumps into the door, closing it.
+    ko: 빗자루의 끝 부분이 문에 닿아 문이 닫혀버렸다.
+    ja: |-
+      ほうきの端が当たった拍子で
+      扉が閉まってしまった
+  d_ex_church_02_9:
+    speaker: "<Monologue>"
+    en: All the dust made the room very stuffy. I go to open door to create some ventilation.
+    ko: 밀폐된 공간에서 청소는 몸에 안 좋으니 문을 열고….
+    ja: |-
+      密閉された空間での掃除は体に悪い。
+      扉を開けて…
+  d_ex_church_02_10:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_02_11:
+    speaker: "<Monologue>"
+    en: It's not opening!
+    ko: 문이 열리지 않는다!
+    ja: あれ、開かない！
+  d_ex_church_02_12:
+    speaker: "<Narration>"
+    en: "*Clatter clatter clatter*"
+    ko: 덜컹덜컹덜컹!
+    ja: ガタガタガタ！
+  d_ex_church_02_13:
+    speaker: "<Monologue>"
+    en: The door isn't budging.
+    ko: 문은 꼼짝도 하지 않는다.
+    ja: びくともしない
+  d_ex_church_02_14:
+    speaker: "<Monologue>"
+    en: I need to do something...
+    ko: 어떻게든 해야….
+    ja: 何とかして開けなければ…
+  d_ex_church_02_15:
+    speaker: "<Narration>"
+    en: "*Creak*"
+    ko: 끼익-
+    ja: キイ――
+  d_ex_church_02_16:
+    speaker: "<Monologue>"
+    en: I hear something from the adjacent room.
+    ko: 옆방 문이 열리고 누군가의 목소리가 들려왔다.
+    ja: |-
+      横の部屋の扉が開く音が聞こえたかと思うと、
+      誰かの声が耳に入った
+  d_ex_church_02_17:
+    speaker: unknown
+    en: Honestly, the finale of all things...
+    ko: 정말 기다리고 기다리던 드라마 마지막 회였어요.
+    ja: 待ちに待った最終話だったんです。
+  d_ex_church_02_18:
+    speaker: unknown
+    en: I can't believe I missed it... stupid work making me come home late...
+    ko: 하지만 일이 너무 늦게 끝나서 놓치고 말았어요.
+    ja: |-
+      でも任務が終わるのが遅くなり、
+      見逃してしまいました。
+  d_ex_church_02_19:
+    speaker: "<Monologue>"
+    en: Judging by the voice, I think it's Signal.
+    ko: 목소리를 들어보니 시그널인 것 같다.
+    ja: 声の主はシグナルのようだ
+  d_ex_church_02_20:
+    speaker: signal
+    en: I couldn't wait until a re-run.
+    ko: 재방송을 해줄 때 까진 기다릴 수 없었어요.
+    ja: 再放送の日まで待つことができませんでした。
+  d_ex_church_02_21:
+    speaker: signal
+    en: So, I ended up...
+    ko: 그래서 저는 그만….
+    ja: それで私は…
+  d_ex_church_02_22:
+    speaker: "<Monologue>"
+    en: "... I think she is confessing."
+    ko: "…아무래도 죄를 고백하고 있는 모양이다."
+    ja: "…どうやら罪を告白しているようだ"
+  d_ex_church_02_23:
+    speaker: "<Monologue>"
+    en: I should pick the door and get out of here quick.
+    ko: 빨리 문을 고쳐서 몰래 나가야겠다.
+    ja: 早く扉を直してこっそり外に出なくては
+  d_ex_church_02_24:
+    speaker: "<Monologue>"
+    en: I try to unlock the door using the card that I have.
+    ko: 나는 가지고 있던 카드로 최대한 조용히 문을 고치기 시작했다.
+    ja: |-
+      私は携帯していたカードで、
+      できる限り音を立てず扉を開けようとした
+  d_ex_church_02_25:
+    speaker: "<Narration>"
+    en: "*Clank*"
+    ko: 철컥-
+    ja: カチャ―
+  d_ex_church_02_26:
+    speaker: "<Monologue>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_02_27:
+    speaker: "<Monologue>"
+    en: A sound rings out as the card contacts the hammer.
+    ko: 격철에 카드가 들어가며 소리가 나와버렸다!
+    ja: 蝶番にカードが挟まり、音が出てしまった！
+  d_ex_church_02_28:
+    speaker: signal
+    en: Whoa!
+    ko: 헉!
+    ja: えっ！
+  d_ex_church_02_29:
+    speaker: signal
+    en: Wh-who is it?
+    ko: 여, 옆에 누구신가요?
+    ja: と、隣にいるのはどなたでしょうか？
+  d_ex_church_02_30:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_02_31:
+    speaker: signal
+    en: I-I heard something! Who is it?
+    ko: |-
+      다, 다 들었어요!
+      옆에 누구세요?
+    ja: |-
+      そ、そこにいるのは分かってます！
+      誰ですか？
+  d_ex_church_02_32:
+    speaker: signal
+    en: I-is it...
+    ko: 서, 서서서서서…!
+    ja: ま、ままままま…！
+  d_ex_church_02_33:
+    speaker: signal
+    en: a ghost?!
+    ko: 설마 귀신…!
+    ja: まさかオバケ…！
+  d_ex_church_02_34:
+    speaker: "<Monologue>"
+    en: Yes, she can just run away like this...!
+    ko: 됐다. 이대로 겁먹고 나가주기만 한다면…!
+    ja: よし。このまま怖がって先に出てくれれば…！
+  d_ex_church_02_35:
+    speaker: signal
+    en: C'mon, stay calm...
+    ko: 어, 어어어…!
+    ja: あ、あああ…！
+  d_ex_church_02_36:
+    speaker: signal
+    en: That's right! Neon said firepower can take down a ghost!
+    ko: |-
+      마, 맞다…!
+      네온이 귀, 귀신은 화력으로 잠재울 수 있다고 했으니까…!
+    ja: |-
+      そ、そうだ…！ネオンがお、オバケは
+      火力で追い払えるって言ってたから…！
+  d_ex_church_02_37:
+    speaker: signal
+    en: I'll just shoot at it!
+    ko: 총을 쏴서…!
+    ja: 銃を撃てば…！
+  d_ex_church_02_38:
+    speaker: "<Self>"
+    en: Ahem!
+    ko: 어.
+    ja: あ
+  d_ex_church_02_39:
+    speaker: signal
+    en: Huh?
+    ko: 어?
+    ja: あれ？
+  d_ex_church_02_40:
+    speaker: "<Self>"
+    en: I... er... I am the protector of this place.
+    ko: 나, 나는 이곳을 지키는….
+    ja: わ、私はこの場所を守る…
+  d_ex_church_02_41:
+    speaker: signal
+    en: I... It's talking?
+    ko: 헉, 마, 말했다…?
+    ja: へっ？しゃ、しゃべった…？
+  d_ex_church_02_42:
+    speaker: "<Self>"
+    en: I am the Creator.
+    ko: 시, 신이다.
+    ja: か、神だ
+  d_ex_church_02_43:
+    speaker: signal
+    en: The Creator?!
+    ko: 신, 신이요?!
+    ja: か、神様ですか！？
+  d_ex_church_02_44:
+    speaker: "<Self>"
+    en: Yes, I sensed your sadness, so I came.
+    ko: 그래. 목소리가 딱해 이야기를 들으러 왔지.
+    ja: そうだ。\n切なる声が聞こえたから、話を聞きに来た
+  d_ex_church_02_45:
+    speaker: signal
+    en: Wow! Um... thanks!
+    ko: 헉. 감, 감사합니다.
+    ja: へええ。あ、ありがとうございます。
+  d_ex_church_02_46:
+    speaker: signal
+    en: Wait, haven't I heard this voice before?
+    ko: 근, 근데 어디서 많이 들어본 목소리 같은데….
+    ja: |-
+      で、でもこの声、どこかで聞いたことの
+      あるような…
+  d_ex_church_02_47:
+    speaker: signal
+    en: The Commander... could it be?
+    ko: 혹시 지, 지휘….
+    ja: まさかし、指揮…
+  d_ex_church_02_48:
+    speaker: "<Monologue>"
+    en: I should make my voice higher pitched.
+    ko: 조금 더 얇고 높은 목소리로 내야겠다.
+    ja: もう少し細い声でトーンを高くしよう
+  d_ex_church_02_49:
+    speaker: "<Self>"
+    en: Who goes there?!
+    ko: 그게 누구인가.
+    ja: それは誰だ
+  d_ex_church_02_50:
+    speaker: signal
+    en: Gah! Sorry! I must have been mistaken.
+    ko: 아, 아! 죄송합니다. 신 님 제가 헷갈렸나 봐요.
+    ja: |-
+      あ、あ！すみません。
+      神様、私の思い違いのようです。
+  d_ex_church_02_51:
+    speaker: "<Self>"
+    en: Confess your sins to me.
+    ko: 그래. 무슨 죄를 저질렀느냐.
+    ja: 大丈夫だ。どんな罪を犯したのだ
+  d_ex_church_02_52:
+    speaker: signal
+    en: Well... there's this one TV show that I really like.
+    ko: 그게… 제가 즐겨보는 드라마가 하나 있는데….
+    ja: その…お気に入りのドラマがあるのですが…
+  d_ex_church_02_53:
+    speaker: signal
+    en: Yesterday was the final episode.
+    ko: 어제가 마지막 회였어요.
+    ja: 昨日が最終回だったんです。
+  d_ex_church_02_54:
+    speaker: signal
+    en: Due to my mission, I wasn't able to watch the original airing. So I figured
+      I would just watch a re-run next week.
+    ko: |-
+      저는 임무 때문에 본방사수를 못해서
+      다음주에 재방송을 보려했거든요….
+    ja: |-
+      任務が忙しくて時間に間に合わず、
+      来週の再放送まで待つことにしたんですが…
+  d_ex_church_02_55:
+    speaker: signal
+    en: But then I saw the reviews, and they all mentioned how it has an amazing twist!
+    ko: 그런데 후기를 보니 최고의 반전이라는 거예요…!
+    ja: |-
+      他の人の感想を見たら、
+      最高のどんでん返しだって言ってて…！
+  d_ex_church_02_56:
+    speaker: signal
+    en: I'd have to wait until next week for the re-run.
+    ko: 재, 재방송으로 보려면 일주일이나 기다려야 하고….
+    ja: |-
+      さ、再放送まであと1週間も
+      待たないといけないし…
+  d_ex_church_02_57:
+    speaker: signal
+    en: It might end up getting spoiled for me...
+    ko: 이렇게 가만히 있다간 결말을 알, 알게 될 것 같아서….
+    ja: |-
+      このままだと再放送を見るまでに結末を
+      し、知ってしまうんじゃないかと思い…
+  d_ex_church_02_58:
+    speaker: signal
+    en: so I downloaded it illegally.
+    ko: 저도 모르게 불법 다운로드를 하고 말았어요.
+    ja: 気がついたら違法ダウンロードをしていました。
+  d_ex_church_02_59:
+    speaker: "<Self>"
+    en: Illegal download? How do you do that?
+    ko: 불법 다운로드? 그건 어떻게 하는 거지?
+    ja: 違法ダウンロード？それはどうやるのだ
+  d_ex_church_02_60:
+    speaker: signal
+    en: There's a download site where people upload TV shows.
+    ko: 네. 어, 어둠의 경로라고 드라마들이 끝나면.
+    ja: |-
+      えっと、闇の経路と言いまして、
+      ドラマが終わると
+  d_ex_church_02_61:
+    speaker: signal
+    en: Once an episode airs, it goes straight onto the net.
+    ko: 실시간으로 바로 올라오는 사이트가 있어요.
+    ja: |-
+      リアルタイムでその内容がアップロードされる
+      サイトがあるんです。
+  d_ex_church_02_62:
+    speaker: signal
+    en: All you do is pay with some of your credits,
+    ko: 거기서 약간의 크레디트만 지불하면.
+    ja: そこで一定量のクレジットを支払えば、
+  d_ex_church_02_63:
+    speaker: signal
+    en: and you can download it right then and there.
+    ko: 바로 다운로드해 볼 수 있는 사이트예요.
+    ja: すぐにダウンロードして観ることができます。
+  d_ex_church_02_64:
+    speaker: signal
+    en: I was unable to resist the temptation, and I downloaded the final episode.
+    ko: 그래서 유혹을 이기지 못하고 불법 다운로드를 해버렸어요.
+    ja: 誘惑に勝てずダウンロードしてしまいました。
+  d_ex_church_02_65:
+    speaker: "<Self>"
+    en: After downloading it, did you watch it?
+    ko: 다운로드하고 그 드라마를 봤느냐?
+    ja: ダウンロードした後でそのドラマを観たのか？
+  d_ex_church_02_66:
+    speaker: signal
+    en: N-no! I haven't.
+    ko: 아, 아니요! 아직 안 봤어요.
+    ja: い、いいえ！まだ観てません。
+  d_ex_church_02_67:
+    speaker: signal
+    en: But even though I downloaded it,
+    ko: 다운을 받아놓긴 했는데….
+    ja: ダウンロードはしておきましたが…
+  d_ex_church_02_68:
+    speaker: signal
+    en: I still shouldn't watch it, right?
+    ko: 역시 보, 보면 안 되는 거겠죠?
+    ja: やっぱりみ、観てはいけませんよね？
+  d_ex_church_02_69:
+    speaker: "<Choice>"
+    en: You could get caught by the police.
+    ko: 경찰에 잡혀갈 수도 있겠구나.
+    ja: 警察に捕まるかもしれない
+  d_ex_church_02_70:
+    speaker: "<Choice>"
+    en: You are right. You must delete it.
+    ko: 안된다. 삭제하는 게 좋겠구나.
+    ja: だめだ。削除するのだ
+  d_ex_church_02_71:
+    speaker: signal
+    en: The police?!
+    ko: 경찰에 잡혀간다고요?!
+    ja: 警察ですって！？
+  d_ex_church_02_72:
+    speaker: signal
+    en: But all I did was download it! I didn't actually watch it!
+    ko: 신, 신님! 아직 다운만 받아놓고 한 번도 열어보지 않았어요!
+    ja: |-
+      か、神様！ダウンロードをしただけで
+      まだ一度も開いていません！
+  d_ex_church_02_73:
+    speaker: signal
+    en: I won't do it again,
+    ko: 이번을 마지막으로 다음부턴 불법 다운로드를!
+    ja: これを最後にこれからは違法ダウンロードは！
+  d_ex_church_02_74:
+    speaker: signal
+    en: I promise!
+    ko: 절대 하지 않을 거예요!
+    ja: 絶対にしません！
+  d_ex_church_02_75:
+    speaker: signal
+    en: This is the first time I've done something like this!
+    ko: 그리고 이, 이번이 처음이었어요!
+    ja: それからこ、これが初めてでした！
+  d_ex_church_02_76:
+    speaker: signal
+    en: I-I'll go and delete it right now!
+    ko: 지금 가서 바로 삭, 삭제하도록 할게요!
+    ja: 今すぐ宿所に戻って、削除します！
+  d_ex_church_02_77:
+    speaker: signal
+    en: That's what I thought...
+    ko: 그, 그렇죠?
+    ja: そ、そうですよね？
+  d_ex_church_02_78:
+    speaker: signal
+    en: I should wait for the re-run.
+    ko: 재방송을 기다리는 게 맞는 거겠죠.
+    ja: 再放送を待つべきですよね。
+  d_ex_church_02_79:
+    speaker: signal
+    en: I'll delete the file when I get back.
+    ko: 다시 돌아가서 파일을 삭, 삭제해야겠어요.
+    ja: 宿所に戻って、ファイルをさ、削除します。
+  d_ex_church_02_80:
+    speaker: signal
+    en: I won't get caught will I? Would I have to pay a fine?
+    ko: 혹시 어디 잡혀가거나 벌금을 내진 않겠죠?
+    ja: |-
+      そうすれば捕まったり、罰金を
+      要求されたりしませんよね？
+  d_ex_church_02_81:
+    speaker: "<Monologue>"
+    en: Signal is a nervous wreck and continues talking.
+    ko: 시그널은 안절부절못해하며 이야기를 이어갔다.
+    ja: シグナルは狼狽えながら話を続けた
+  d_ex_church_02_82:
+    speaker: "<Monologue>"
+    en: While listening to Signal go on, I keep prying at the crevice of the door.
+    ko: |-
+      나는 시그널의 이야기를 들으며
+      카드로 문틈사이를 계속 밀어냈다.
+    ja: |-
+      シグナルの話を聞きながら
+      カードで扉の隙間をぐいぐいと押しやった
+  d_ex_church_02_83:
+    speaker: "<Narration>"
+    en: "*Clank*"
+    ko: 철커덕-
+    ja: ガタッー
+  d_ex_church_02_84:
+    speaker: "<Monologue>"
+    en: Finally, the door opens.
+    ko: 드디어 문이 열렸다.
+    ja: ついに扉が開いた
+  d_ex_church_02_85:
+    speaker: signal
+    en: What should I do? Will I be forgiven for this transgression?
+    ko: 어떻게 하면 좋을까요? 이 죄를 씻을 수 있을까요?
+    ja: どうすればこの罪を償えるでしょうか。
+  d_ex_church_02_86:
+    speaker: "<Monologue>"
+    en: I should wrap this up and get out of here.
+    ko: 얼른 이야기를 마무리하고 이곳에서 빠져 나가야겠다.
+    ja: 早く話を終わらせてここから出なければ
+  d_ex_church_02_87:
+    speaker: "<Self>"
+    en: It is possible, yes.
+    ko: 죄를 씻을 수 있다.
+    ja: 罪は償える
+  d_ex_church_02_88:
+    speaker: signal
+    en: Really?! What must I do?
+    ko: 정, 정말요? 어떻게요?
+    ja: ほ、本当ですか？どうやってですか？
+  d_ex_church_02_89:
+    speaker: "<Self>"
+    en: Stay here and listen to the other Nikkes vent for a while.
+    ko: 이곳에 방문하는 니케들의 고민을 들어줘라.
+    ja: ここに来るニケたちの悩みを聞いてやるんだ
+  d_ex_church_02_90:
+    speaker: signal
+    en: What? Me?
+    ko: 네?! 제, 제가요?
+    ja: ええ！？わ、私がですか？
+  d_ex_church_02_91:
+    speaker: "<Self>"
+    en: Yes, at least 10 of them.
+    ko: 그래. 최소 10명은 들어줘야 할 것이야.
+    ja: そうだ。少なくとも10人の話を聞いてやるのだ
+  d_ex_church_02_92:
+    speaker: signal
+    en: That many?!
+    ko: 1, 10명이요?!
+    ja: じゅ、10人ですか！？
+  d_ex_church_02_93:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_02_94:
+    speaker: "<Monologue>"
+    en: I leave behind a flabbergasted Signal as I head away from the church.
+    ko: 나는 놀란 시그널을 뒤로한 채 조용히 교회를 빠져나왔다.
+    ja: |-
+      シグナルが驚いている隙を狙い、
+      そっと教会を抜け出した
+  d_ex_church_02_95:
+    speaker: signal
+    en: Um... Creator... are you still here?
+    ko: 신, 신 님 가신 건가요?
+    ja: か、神様、もうお帰りになられたのですか？
+  d_ex_church_02_96:
+    speaker: signal
+    en: Are you really gone?
+    ko: 진짜 가신 거예요?
+    ja: 本当にお帰りになったのですか？
+  d_ex_church_02_97:
+    speaker: signal
+    en: Guess I'll watch some other shows in the meantime!
+    ko: 저, 저 다른 드라마도 보러 가야 하는데…!
+    ja: |-
+      わ、私、他のドラマも観なくちゃ
+      いけないのに…！
+  d_ex_church_02_98:
+    speaker: "<Monologue>"
+    en: After that day, rumors circulated about the Creator in the church
+    ko: 그 이후로 교회에는 고민 상담을 친절하게 해주는.
+    ja: その後、教会には親切に悩みを聞いてくれる
+  d_ex_church_02_99:
+    speaker: "<Monologue>"
+    en: who was a very good listener.
+    ko: 신이 생겼다는 소문이 떠돌았다.
+    ja: 神が現れたとの噂が流れた
+d_ex_church_03:
+  d_ex_church_03_1:
+    speaker: folkwang
+    en: Oh, Creator!
+    ko: 신 님!
+    ja: 神様！
+  d_ex_church_03_2:
+    speaker: folkwang
+    en: Can you please cure me of this ailment, of this sweating?
+    ko: 제발… 제 땀 좀 어떻게 해주시면 안 될까요?
+    ja: お願いです…私の汗をどうにかしてください。
+  d_ex_church_03_3:
+    speaker: folkwang
+    en: It would be a great act of humanitarianism... No, wait... Nikketarianism...
+      Anyway, I can't go on like this!
+    ko: 인간적… 아니 니케적으로 이건 좀 너무한 거 같아요.
+    ja: |-
+      人間的…いやニケ的に
+      これはちょっとあり得ません。
+  d_ex_church_03_4:
+    speaker: folkwang
+    en: Why must I sit here drenched in my own sweat
+    ko: 다른 니케들 보면 다들 뽀송뽀송 예쁘게 잘 다니는데.
+    ja: |-
+      他のニケたちは
+      サラサラのきれいな肌をしているのに
+  d_ex_church_03_5:
+    speaker: folkwang
+    en: while the other Nikkes are as dry as a bone? Why?
+    ko: 왜 저는 가만히 있어도 땀이 나는 걸까요? 네?
+    ja: 何で私だけ汗びっしょりなんですか？
+  d_ex_church_03_6:
+    speaker: folkwang
+    en: I beg of you, please spare me from this affliction and make me perspire no
+      longer!
+    ko: "부디… 제발 좀 이 땀나는 체질 좀, \n제 땀 좀 가져가 주세요!"
+    ja: |-
+      お願いです…どうかこの汗っかきな体質を、
+      この汗をなくしてください！
+  d_ex_church_03_7:
+    speaker: "<Self>"
+    en: "... Folkwang?"
+    ko: "…폴크방?"
+    ja: "…フォルクヴァン？"
+  d_ex_church_03_8:
+    speaker: harran
+    en: Save your prayers. The Creator won't listen.
+    ko: 들어주지도 않는 신에게 뭘 그렇게 기도를 하고 있니?
+    ja: |-
+      神様なんているわけないのに、
+      何をそう一生懸命祈ってるの？
+  d_ex_church_03_9:
+    speaker: folkwang
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_03_10:
+    speaker: folkwang
+    en: You scared me... who is that beside you?
+    ko: |-
+      까, 깜짝이야… 감독님?
+      그리고 옆에는….
+    ja: |-
+      はっ、びっくりした…監督？
+      それから隣にいるのは…
+  d_ex_church_03_11:
+    speaker: harran
+    en: A Nikke with excessive perspiration...
+    ko: 니케인데 땀이 많은 체질이라….
+    ja: ニケなのに汗っかきな体質とはねぇ…
+  d_ex_church_03_12:
+    speaker: folkwang
+    en: Huh?
+    ko: 예?
+    ja: はい？
+  d_ex_church_03_13:
+    speaker: harran
+    en: Your wish. You want to stop sweating so much, am I right?
+    ko: |-
+      네 소원이라는 거.
+      땀이 많은 체질을 개선하고 싶다는 것 아니니?
+    ja: |-
+      お前の願いっていうのは
+      汗っかきな体質を改善したいってことでしょ？
+  d_ex_church_03_14:
+    speaker: folkwang
+    en: Well... yes, but...
+    ko: 그건 그렇긴 한데….
+    ja: それはそうですけど…
+  d_ex_church_03_15:
+    speaker: harran
+    en: If you don't want to sweat...
+    ko: 땀을 없애고 싶다라….
+    ja: 汗をなくしたいねぇ…
+  d_ex_church_03_16:
+    speaker: harran
+    en: Hmm...
+    ko: 흠.
+    ja: ふむ。
+  d_ex_church_03_17:
+    speaker: harran
+    en: You're lucky I have nothing else going on right now.
+    ko: 마침 무료하던 차에 잘 됐구나.
+    ja: ちょうどよかったわ。暇してたところなの。
+  d_ex_church_03_18:
+    speaker: harran
+    en: I'll prepare a unique potion for you.
+    ko: 특별히 널 위한 에센스를 만들어 주마.
+    ja: |-
+      特別にお前のための
+      エッセンスを作ってあげるわ。
+  d_ex_church_03_19:
+    speaker: folkwang
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_03_20:
+    speaker: folkwang
+    en: You mean... you can cure me?
+    ko: 그 말은… 고칠 수 있다는 말씀이신가요?
+    ja: |-
+      それって…
+      この体質を治してくれるってことですか？
+  d_ex_church_03_21:
+    speaker: folkwang
+    en: I turned to science for a cure, but it wasn't any help...
+    ko: 과학으로도 고치지 못한 이걸…?
+    ja: 科学の力でも治せないこの体質を…？
+  d_ex_church_03_22:
+    speaker: harran
+    en: Hehe, a witch's elixir trumps any of your so-called science.
+    ko: |-
+      후후, 고작 과학 따위가
+      마녀의 묘약을 이길 수 있을 리가 없잖니.
+    ja: |-
+      ふふ、たかが科学なんかが
+      魔女の妙薬に敵うとでも？
+  d_ex_church_03_23:
+    speaker: folkwang
+    en: What did you say?
+    ko: 마, 마녀의 묘약이요?!
+    ja: ま、魔女の妙薬ですか！？
+  d_ex_church_03_24:
+    speaker: harran
+    en: That's right. A witch's elixir.
+    ko: 그래. 마녀의 묘약.
+    ja: そうよ。魔女の妙薬。
+  d_ex_church_03_25:
+    speaker: harran
+    en: Use it correctly, and it will free from all your woes, my clammy compadre.
+    ko: 그거라면 널 그 지독한 땀의 체질에서 벗어나게 해줄 거란다.
+    ja: |-
+      あれならお前をそのうんざりする汗から
+      解放してくれるはず。
+  d_ex_church_03_26:
+    speaker: folkwang
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_03_27:
+    speaker: harran
+    en: Well, are you up for it?
+    ko: 어때, 시도해 보겠니?
+    ja: どう？薬、作ってあげようか？
+  d_ex_church_03_28:
+    speaker: folkwang
+    en: Yes! Let me try!
+    ko: "…네! 해볼래요!"
+    ja: "…はい！お願いします！"
+  d_ex_church_03_29:
+    speaker: "<Narration>"
+    en: A moment later.
+    ko: 잠시 후
+    ja: しばらくして
+  d_ex_church_03_30:
+    speaker: "<Narration>"
+    en: "*Gurgle gurgle gurgle*"
+    ko: 보글- 보글- 보글-
+    ja: ブクブク
+  d_ex_church_03_31:
+    speaker: "<Monologue>"
+    en: A suspicious green liquid bubbles in the huge cauldron.
+    ko: 거대한 솥 안에 매우 수상해 보이는 초록색 액체가 끓고 있다.
+    ja: |-
+      巨大な鍋の中で
+      どう見ても怪しい緑色の液体が煮えている
+  d_ex_church_03_32:
+    speaker: folkwang
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_03_33:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_03_34:
+    speaker: harran
+    en: Come, drink this.
+    ko: 자, 먹어보렴.
+    ja: さあ、お飲み。
+  d_ex_church_03_35:
+    speaker: folkwang
+    en: Um...
+    ko: 이, 이거를요?
+    ja: こ、これをですか？
+  d_ex_church_03_36:
+    speaker: folkwang
+    en: Are you sure it's safe?
+    ko: 어… 엄청 수상해 보이는데요.
+    ja: す…すごく怪しいんですけど。
+  d_ex_church_03_37:
+    speaker: harran
+    en: You're not doubting me, are you?
+    ko: "…지금 날 못 믿겠다는 거니?"
+    ja: "…今、私のことを疑ってるの？"
+  d_ex_church_03_38:
+    speaker: harran
+    en: Don't you pray to gods you've never even met before? If you're so devout,
+      take some of that faith and place it in me, you sweaty fool.
+    ko: "한 번도 보지 못한 신에게는 \n땀까지 흘려가며 간절하게 바랐으면서?"
+    ja: |-
+      一度も会ったことのない神には
+      汗までかきながら一生懸命祈ってたくせに。
+  d_ex_church_03_39:
+    speaker: folkwang
+    en: It's not my fault that I sweat so much...
+    ko: 저… 그러니까 이건 체질인데….
+    ja: あ…ですからこれは体質でして…
+  d_ex_church_03_40:
+    speaker: harran
+    en: If you're not willing to, I won't force you to drink it. Then you can go crawling
+      back to that oh-so-mighty god of yours.
+    ko: "그렇게 싫으면 먹지 말고 \n다시 네 잘난 신에게나 가서 구걸해 보거라."
+    ja: |-
+      そんなに嫌なら飲まなくていいわ。
+      またその偉大な神に祈ってればいいじゃない。
+  d_ex_church_03_41:
+    speaker: harran
+    en: And I'll dump this out.
+    ko: 이건 버리면 그만이니까.
+    ja: これは捨ててしまえばいいから。
+  d_ex_church_03_42:
+    speaker: folkwang
+    en: No, don't! I'll drink it!
+    ko: 아, 아니요! 먹을게요!
+    ja: あ、何でもありません！飲みます！
+  d_ex_church_03_43:
+    speaker: folkwang
+    en: I can drink with a ladle, right?
+    ko: 이 국자로 떠먹으면 되나요?
+    ja: これですくって飲めばいいですか？
+  d_ex_church_03_44:
+    speaker: "<Monologue>"
+    en: Folkwang takes the ladle, scoops up some of the green liquid, and proceeds
+      to drink it.
+    ko: 폴크방이 국자로 초록색 액체를 떠서 들이켰다!
+    ja: |-
+      フォルクヴァンが緑色の液体をすくい
+      一気に飲み干した！
+  d_ex_church_03_45:
+    speaker: "<Narration>"
+    en: "*Gulp*"
+    ko: 꿀꺽-!
+    ja: ゴクッ！
+  d_ex_church_03_46:
+    speaker: folkwang
+    en: "...?!"
+    ko: "……?!"
+    ja: "……！？"
+  d_ex_church_03_47:
+    speaker: "<Self>"
+    en: Folkwang?
+    ko: 폴크방?
+    ja: フォルクヴァン？
+  d_ex_church_03_48:
+    speaker: folkwang
+    en: Wow! This is much tastier than I thought it'd be.
+    ko: 어? 생각보다… 맛도 있네요?
+    ja: あれ？思ったより…美味しいかも？
+  d_ex_church_03_49:
+    speaker: folkwang
+    en: The neon green may be a bit off-putting...
+    ko: |-
+      색깔은 이보다 푸릇한 게 있을 수 있을까 싶을 정도로
+      초록 초록한데….
+    ja: |-
+      見た目はこれ以上ないってくらい
+      どぎつい緑色だけど…
+  d_ex_church_03_50:
+    speaker: folkwang
+    en: but it is delicious!
+    ko: 맛있어요!
+    ja: 味は悪くありません！
+  d_ex_church_03_51:
+    speaker: harran
+    en: Who do you take me for?
+    ko: 날 누구라고 생각한 거니?
+    ja: 私を誰だと思ってるの？
+  d_ex_church_03_52:
+    speaker: harran
+    en: I'd never survive at the top of the food chain if I didn't know how to cook.
+    ko: |-
+      지상 최강의 포식자인 내가
+      맛없는 걸 만들어 낼 리가 없잖니.
+    ja: |-
+      地上最強の捕食者である私が
+      不味いものを作るはずがないでしょ？
+  d_ex_church_03_53:
+    speaker: folkwang
+    en: Wow, that's amazing!
+    ko: 와, 정말 대단하세요!
+    ja: わぁ、本当にすごいです！
+  d_ex_church_03_54:
+    speaker: harran
+    en: Finally, some respect. That's more like it.
+    ko: 흥. 이제야 날 존경의 시선으로 바라보는구나.
+    ja: ふん。やっと私を見る目が変わったわね。
+  d_ex_church_03_55:
+    speaker: harran
+    en: Anyway, enough talk. Let's see if the elixir had any effect.
+    ko: 자, 그럼 효과가 제대로 있는지 테스트해 봐야지?
+    ja: さあ、効果の程を確認してみないと。
+  d_ex_church_03_56:
+    speaker: harran
+    en: Run over there, then come back.
+    ko: 저 끝까지 뛰어갔다 와보렴.
+    ja: 向こうまで走って往復してみて。
+  d_ex_church_03_57:
+    speaker: folkwang
+    en: Sure thing! Be right back!
+    ko: 네! 금방 다녀올게요!
+    ja: はい！行ってきます！
+  d_ex_church_03_58:
+    speaker: "<Monologue>"
+    en: Folkwang takes off.
+    ko: 폴크방이 앞으로 뛰어나갔다.
+    ja: フォルクヴァンが走り去った
+  d_ex_church_03_59:
+    speaker: "<Monologue>"
+    en: A resounding "Impossible!" can be heard off in the distance.
+    ko: 멀리서 [말도 안 돼!]라고 외치는 소리가 들린다.
+    ja: 遠くから「信じられない！」と叫ぶ声が聞こえた
+  d_ex_church_03_60:
+    speaker: "<Monologue>"
+    en: Folkwang runs back.
+    ko: 폴크방이 뛰어서 되돌아왔다.
+    ja: フォルクヴァンが走って戻ってきた
+  d_ex_church_03_61:
+    speaker: harran
+    en: So, how do you feel?
+    ko: 그래, 어떤 것 같니?
+    ja: どうだった？
+  d_ex_church_03_62:
+    speaker: folkwang
+    en: This is incredible!
+    ko: 진짜 최고예요!
+    ja: 最高です！
+  d_ex_church_03_63:
+    speaker: folkwang
+    en: All that running would have had me sweating up a storm before!
+    ko: "이 정도의 거리를 뛰어갔다 오면 \n온몸이 샤워한 것 같이 젖어있어야 하는데."
+    ja: |-
+      このくらいの距離を走ったら
+      シャワーを浴びたみたいに
+      全身汗だくになってるはずなのに。
+  d_ex_church_03_64:
+    speaker: folkwang
+    en: But now I'm bone dry! Not a drop of sweat on me!
+    ko: 아까 흘려둔 땀만 남아있고 새로 땀이 흐르지 않았어요!
+    ja: |-
+      これは薬を飲む前にかいた汗で、
+      今は汗が出てきません！
+  d_ex_church_03_65:
+    speaker: folkwang
+    en: It's a miracle!
+    ko: 이건 정말 기적이에요!!
+    ja: これは奇跡です！
+  d_ex_church_03_66:
+    speaker: harran
+    en: I told you.
+    ko: 후후, 봤니?
+    ja: ふふ、そう？
+  d_ex_church_03_67:
+    speaker: harran
+    en: This is what witches are capable of.
+    ko: 이게 바로 마녀의 힘이란다.
+    ja: これが魔女の力よ。
+  d_ex_church_03_68:
+    speaker: harran
+    en: From now on, if you want anything, pray to the witches.
+    ko: 그러니 앞으로는 마녀에게 소원을 빌어보렴.
+    ja: これからは魔女に祈りを捧げなさい。
+  d_ex_church_03_69:
+    speaker: harran
+    en: If you manage to pique their curiosity, I guarantee they'll make your prayers
+      come true.
+    ko: |-
+      심심한 마녀의 흥미를 끄는 소원이라면
+      무엇이든 이루어질 테니.
+    ja: |-
+      退屈な魔女の興味をそそる願い事なら
+      何でも聞いてあげるから。
+  d_ex_church_03_70:
+    speaker: folkwang
+    en: Absolutely! I'll pray to the witches from now on!
+    ko: 네! 앞으로는 마녀님에게 기도할게요!
+    ja: |-
+      はい！
+      これからは魔女様にお祈りすることにします！
+  d_ex_church_03_71:
+    speaker: harran
+    en: That's what I like to hear.
+    ko: 후후후, 만족스러운 말이로구나.
+    ja: ふふふ、嬉しいじゃないの。
+  d_ex_church_03_72:
+    speaker: "<Monologue>"
+    en: Harran scoops up another spoonful of the green liquid.
+    ko: 하란이 국자로 초록색 액체를 퍼 올렸다.
+    ja: ハランが緑色の液体をすくって上に掲げた
+  d_ex_church_03_73:
+    speaker: harran
+    en: Come, drink some more, and don't forget that it is all thanks to me.
+    ko: |-
+      자, 좀 더 먹어보렴.
+      그리고 땀에게서 벗어나는 거란다.
+    ja: |-
+      さあ、もう少し飲みなさい。
+      そして汗から解放されるのよ。
+  d_ex_church_03_74:
+    speaker: harran
+    en: The great witch Harran gives you special permission.
+    ko: 이 위대한 마녀, 하란이 특별히 허락하마.
+    ja: この偉大なる魔女、ハランが特別に許すわ。
+  d_ex_church_03_75:
+    speaker: folkwang
+    en: Yes! Master Witch! I will free myself from this torment!
+    ko: "네! 마녀님! \n마녀님의 힘으로 땀에게서 벗어날게요!"
+    ja: |-
+      はい！魔女様！
+      あなたの力で汗から解放されます！
+  d_ex_church_03_76:
+    speaker: "<Monologue>"
+    en: Folkwang takes the elixir from Harran and wolfs it down.
+    ko: 폴크방은 하란이 퍼주는 묘약을 넙죽넙죽 받아 마셨다.
+    ja: |-
+      フォルクヴァンはハランがすくった妙薬を
+      がぶがぶと飲んだ
+  d_ex_church_03_77:
+    speaker: "<Monologue>"
+    en: She continues gulping down the elixir until the bottom of the cauldron is
+      visible.
+    ko: 마녀의 솥이 바닥을 드러낼 때까지….
+    ja: 魔女の鍋の底が見えるまで…
+  d_ex_church_03_78:
+    speaker: "<Monologue>"
+    en: "... Several days later, Folkwang sent me a message."
+    ko: "…며칠 뒤 폴크방에게 연락이 왔다."
+    ja: "…数日後、フォルクヴァンから連絡が来た"
+  d_ex_church_03_79:
+    speaker: "<Monologue>"
+    en: She said she was sweating again.
+    ko: 여전히 땀이 나고 있다고 한다.
+    ja: まだ汗が出てくるそうだ
+  d_ex_church_03_80:
+    speaker: "<Monologue>"
+    en: Once again, she began to pray to the gods.
+    ko: 그리고 폴크방은 다시 신에게 기도를 시작했다.
+    ja: フォルクヴァンは再び神に祈り始めた
+d_ex_church_04:
+  d_ex_church_04_1:
+    speaker: volume
+    en: Hey, didn't you mention
+    ko: Hmm, Manager.
+    ja: Hmm、Manager.
+  d_ex_church_04_2:
+    speaker: volume
+    en: there was something on the schedule that would put some pep in your step?
+    ko: 기분을 환기시킬만한 스케줄이 있다고 하지 않았어?
+    ja: |-
+      何か気分転換できる予定があるって
+      言ってなかった？
+  d_ex_church_04_3:
+    speaker: "<Self>"
+    en: Yes.
+    ko: 맞아.
+    ja: そうだ
+  d_ex_church_04_4:
+    speaker: volume
+    en: And it's at a church?
+    ko: 그걸 교회에서 한다고?
+    ja: それを教会でやるの？
+  d_ex_church_04_5:
+    speaker: volume
+    en: I don't have to pray or anything, do I?
+    ko: 설마 나보고 신에게 기도라도 하라는 건 아니지?
+    ja: まさか、私に祈りを捧げろとか言わないよね？
+  d_ex_church_04_6:
+    speaker: "<Self>"
+    en: Of course not.
+    ko: 당연히 아니야.
+    ja: もちろん違う
+  d_ex_church_04_7:
+    speaker: volume
+    en: Then what am I supposed to do here?
+    ko: 그럼 여기서 뭘 하면 되는데?
+    ja: じゃあ、ここで何をするの？
+  d_ex_church_04_8:
+    speaker: "<Self>"
+    en: Vesti, Mica! I brought her.
+    ko: 베스티, 미카! 선생님을 데려왔어.
+    ja: ベスティー、ミカ！先生を連れてきたぞ
+  d_ex_church_04_9:
+    speaker: volume
+    en: What?
+    ko: What?
+    ja: What？
+  d_ex_church_04_10:
+    speaker: vesti
+    en: ohmygodi cantbleievi it*(#!R
+    ko: 선생님!
+    ja: 先生！
+  d_ex_church_04_11:
+    speaker: mica
+    en: It's actually her!
+    ko: 우와! 선생님이다~!
+    ja: わあ！先生～！
+  d_ex_church_04_12:
+    speaker: volume
+    en: "..."
+    ko: Teacher?
+    ja: Teacher？
+  d_ex_church_04_13:
+    speaker: volume
+    en: Care to tell me what's going on here?
+    ko: 이건 또 무슨 신박한 소리지?
+    ja: この子たちは何を言ってるの？
+  d_ex_church_04_14:
+    speaker: mica
+    en: Miss Volume,
+    ko: 선생님, 선생님!
+    ja: 先生、先生！
+  d_ex_church_04_15:
+    speaker: mica
+    en: how can we get better at arguing?
+    ko: 저희가 어떻게 하면 말싸움을 잘 할 수 있을까요?
+    ja: どうすれば口ゲンカが上手くなりますか？
+  d_ex_church_04_16:
+    speaker: volume
+    en: Arguing? Why are you asking me?
+    ko: 말싸움? 그걸 왜 나한테 물어.
+    ja: 口ゲンカ？それをどうして私に聞くの？
+  d_ex_church_04_17:
+    speaker: mica
+    en: Old-Timer says you never lose an argument to anyone.
+    ko: |-
+      아저씨가 그랬는데,
+      볼륨은 누구에게도 지지 않는 사람이라고 했어요!
+    ja: |-
+      おじさんがボリュームは
+      誰にも負けない人だって！
+  d_ex_church_04_18:
+    speaker: mica
+    en: So I thought if you taught me some of the rap basics, I could win an argument
+      with Belorta.
+    ko: "그래서 볼륨 선생님한테 랩을 배우면 \n벨로타랑 말싸움해서 이길 수 있다고 했어요!"
+    ja: |-
+      だからボリューム先生からラップを教われば
+      ベロータと口ゲンカしても勝てるって！
+  d_ex_church_04_19:
+    speaker: vesti
+    en: I also heard that you're the top rapper in the entire Ark.
+    ko: 나도 그렇게 들었어….
+    ja: 私もそう聞いた…
+  d_ex_church_04_20:
+    speaker: vesti
+    en: You'll say whatever's on your mind to anyone, even if they're dangerous.
+    ko: "볼륨은 방주 최고의 래퍼고… \n어떤 무서운 사람을 만나도 할 말을 다 하는 사람이라고."
+    ja: |-
+      ボリュームはアーク最高のラッパーで…
+      どんなに怖い人の前でも
+      言うことは言う人だって。
+  d_ex_church_04_21:
+    speaker: vesti
+    en: You could even stand up to Eunhwa.
+    ko: 은화한테도 지지 않을 거라고….
+    ja: ウンファにも負けないと…
+  d_ex_church_04_22:
+    speaker: volume
+    en: Let me get this straight.
+    ko: 그러니까 지금,
+    ja: つまり、
+  d_ex_church_04_23:
+    speaker: volume
+    en: You want me to teach you how to rap so that you can best someone in an argument?
+    ko: |-
+      나한테 배운 랩으로 한 번도 못이긴 애랑
+      말싸움을 해서 이기고 싶다?
+    ja: |-
+      私にラップを教わって一度も
+      勝てなかった子との口ゲンカに勝ちたいと？
+  d_ex_church_04_24:
+    speaker: vesti
+    en: Exactly! Just for once, I'd like to beat her.
+    ko: 응! 한 번만 꼭… 이기고 싶어.
+    ja: うん！一度でいいから…勝ちたい。
+  d_ex_church_04_25:
+    speaker: mica
+    en: Same here! I want to win against Belorta!
+    ko: 네! 벨로타한테 말싸움으로 이겨보고 싶어요!
+    ja: はい！ベロータに口ゲンカで勝ってみたいです！
+  d_ex_church_04_26:
+    speaker: volume
+    en: Jesus, give me strength. Since when did rap battles become equated with arguments?
+    ko: |-
+      Oh, Jesus.
+      랩 배틀이 언제부터 말싸움이 된 거야?
+    ja: |-
+      Oh、Jesus.
+      ラップバトルがいつから口ゲンカになったの？
+  d_ex_church_04_27:
+    speaker: volume
+    en: I don't do that kind of stuff. I have nothing to teach you.
+    ko: |-
+      난 그딴 거 안 해.
+      가르쳐 줄 것도 없어.
+    ja: |-
+      私はそんなことしない。
+      教えることもないよ。
+  d_ex_church_04_28:
+    speaker: mica
+    en: You're not?
+    ko: 아, 안 되나요…?
+    ja: ダ、ダメですか…？
+  d_ex_church_04_29:
+    speaker: vesti
+    en: But I've been waiting so long for this day...
+    ko: 어쩌지… 오늘만 기다리고 있었는데….
+    ja: どうしよう…この日をずっと待っていたのに…
+  d_ex_church_04_30:
+    speaker: vesti
+    en: All I want is to hold my own when talking to Eunhwa.
+    ko: 은화한테 제대로 말해보고 싶었는데….
+    ja: ウンファに、ちゃんと言いたかったのに…
+  d_ex_church_04_31:
+    speaker: volume
+    en: Why even try learning how to argue?
+    ko: 아니, 말싸움을 왜 배우려고 해?
+    ja: そもそもなんで口ゲンカを教わりたいの？
+  d_ex_church_04_32:
+    speaker: volume
+    en: Just say what's on your mind. It's that simple.
+    ko: 그냥 하고 싶은 말을 하면 되는 거 아냐?
+    ja: 言いたいことを言えばいいんじゃない？
+  d_ex_church_04_33:
+    speaker: vesti
+    en: Well, it's just that Eunhwa is really intimidating, so... I'm afraid.
+    ko: 그게, 은화는 무서우니까… 용기가 안 나서….
+    ja: その、ウンファは怖いから…勇気が出ない…
+  d_ex_church_04_34:
+    speaker: mica
+    en: Me too.
+    ko: 저도요….
+    ja: 私もです…
+  d_ex_church_04_35:
+    speaker: volume
+    en: If courage is what you're lacking, then that's what you should be working
+      on.
+    ko: 그렇게 용기가 없으면 담력을 쌓으러 가던가 하지,
+    ja: |-
+      そんなに勇気が出ないなら、肝試しでもして
+      度胸をつければいいじゃん。
+  d_ex_church_04_36:
+    speaker: volume
+    en: What are you doing in a church anyway?
+    ko: 왜 교회에 와서 이러고 있는데?
+    ja: なんで教会でこんなことをしてるの？
+  d_ex_church_04_37:
+    speaker: volume
+    en: Planning on using prayer as a backup if I didn't teach you?
+    ko: 내가 안 가르쳐 주면 이기게 해달라고 기도라도 하려고?
+    ja: |-
+      私が教えなかったら、勝たせてくださいと
+      祈るつもり？
+  d_ex_church_04_38:
+    speaker: vesti
+    en: Eunhwa would never set foot inside a church,
+    ko: 그게… 은화는 절대 교회에 안 올 테니까.
+    ja: それが…ウンファは教会には絶対来ないから。
+  d_ex_church_04_39:
+    speaker: vesti
+    en: so it's a good place to practice in secret.
+    ko: 몰래 연습하기에 좋아서….
+    ja: こっそり練習するにはちょうどよくて…
+  d_ex_church_04_40:
+    speaker: mica
+    en: Same with Belorta. She thinks churches are boring. "Nothing to make fun of"
+      she says.
+    ko: 저도… 벨로타가 여긴 지루해서 장난칠 거 없다고 해서….
+    ja: |-
+      私も…ベロータがここはつまらないから
+      イタズラもできないって…
+  d_ex_church_04_41:
+    speaker: volume
+    en: Well, praise the Lord! I've seen the light.
+    ko: "Oh~ Holy! \n그거 참 신성한 이유네."
+    ja: |-
+      Oh～Holy！
+      それはとても神聖な理由だね。
+  d_ex_church_04_42:
+    speaker: volume
+    en: What a bunch of scaredy cats you two are.
+    ko: 너네 진짜 겁쟁이구나?
+    ja: あんたたち、本当に臆病者なんだ？
+  d_ex_church_04_43:
+    speaker: vesti
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_04_44:
+    speaker: mica
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_04_45:
+    speaker: volume
+    en: "*Sigh*"
+    ko: 하아….
+    ja: はあ…
+  d_ex_church_04_46:
+    speaker: vesti
+    en: If you don't want to teach us, we can look for someone else... sorry to bother
+      you.
+    ko: |-
+      어… 가르쳐 주기 싫으면 괜찮아.
+      미안… 다른 사람을 찾아볼게.
+    ja: |-
+      あの…教えたくなかったら大丈夫。
+      ごめん…他の人を探すね。
+  d_ex_church_04_47:
+    speaker: vesti
+    en: D-don't worry about us.
+    ko: 우, 우린 신경 쓰지 마.
+    ja: わ、私たちのことは気にしないで。
+  d_ex_church_04_48:
+    speaker: mica
+    en: Th-that's right. We'll be fine.
+    ko: 마, 맞아요! 저흰 괜찮아요!
+    ja: そ、そうです！私たちは大丈夫です！
+  d_ex_church_04_49:
+    speaker: mica
+    en: We'll find someone else to teach us.
+    ko: 다른 선생님을 찾아볼게요!
+    ja: 他の先生を探してみます！
+  d_ex_church_04_50:
+    speaker: volume
+    en: So you think learning how to rap will help give you courage?
+    ko: "…용기가 필요하다 이거지?"
+    ja: "…勇気が必要なんだね？"
+  d_ex_church_04_51:
+    speaker: volume
+    en: Is that it?
+    ko: 그래서 랩을 배우고 싶다는 거지?
+    ja: だからラップを教わりたいと。
+  d_ex_church_04_52:
+    speaker: vesti
+    en: Yes...
+    ko: 응….
+    ja: うん…
+  d_ex_church_04_53:
+    speaker: volume
+    en: Fine, let's do this.
+    ko: Okay. 하자, 해보자고.
+    ja: Okay、やろう。やってみようじゃない。
+  d_ex_church_04_54:
+    speaker: volume
+    en: First off, wipe that meek expression off your face.
+    ko: 그러니까 그 울상인 얼굴 따위 집어치워!
+    ja: だからその泣きっ面はもうやめな！
+  d_ex_church_04_55:
+    speaker: mica
+    en: Yes, Miss Volume!
+    ko: 네! 선생님!
+    ja: はい！先生！
+  d_ex_church_04_56:
+    speaker: volume
+    en: And don't call me Miss Volume anymore!
+    ko: 그놈의 선생님도 갖다 버려!
+    ja: その先生、って呼ぶのも禁止！
+  d_ex_church_04_57:
+    speaker: mica
+    en: Yes, Volume!
+    ko: 네! 볼륨!
+    ja: はい！ボリューム！
+  d_ex_church_04_58:
+    speaker: volume
+    en: Better.
+    ko: 좋아.
+    ja: いい子ね。
+  d_ex_church_04_59:
+    speaker: volume
+    en: Manager. Is the beat ready?
+    ko: 매니저. 비트 준비됐어?
+    ja: マネージャー、ビートは用意できた？
+  d_ex_church_04_60:
+    speaker: "<Choice>"
+    en: Play the music Volume prepared.
+    ko: 준비해놓은 음악을 튼다.
+    ja: 準備しておいた音楽をかける
+  d_ex_church_04_61:
+    speaker: "<Choice>"
+    en: Beatbox using your mouth.
+    ko: 입으로 비트박스를 한다.
+    ja: 口でビートボックスをやる
+  d_ex_church_04_62:
+    speaker: "<Self>"
+    en: Boomboota- Boomboota-! Puschepuschepusche~
+    ko: 뿜뿌 타- 뿜뿌 타-! 푸취푸취푸취~
+    ja: |-
+      ボッボッカーボッボッカー！
+      ゲチゲチゲチ～
+  d_ex_church_04_63:
+    speaker: volume
+    en: For God's sake, stop! It's like nails on a chalkboard.
+    ko: |-
+      Hey, Stop!!
+      지금 고막 테러하는 거야?
+    ja: |-
+      Hey、Stop！！
+      私の耳をどうするつもり？
+  d_ex_church_04_64:
+    speaker: volume
+    en: Are you kidding me?
+    ko: Are you kidding me?
+    ja: Are you kidding me？
+  d_ex_church_04_65:
+    speaker: volume
+    en: You can't honestly expect me to rap with that, do you?
+    ko: 그딴 구린 비트로 나한테 랩을 하라고?
+    ja: |-
+      こんなくそみたいなビートで
+      ラップやれって言うの？
+  d_ex_church_04_66:
+    speaker: volume
+    en: Quit screwing around.
+    ko: 정신 안 차려?
+    ja: しっかりして！
+  d_ex_church_04_67:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_04_68:
+    speaker: "<Monologue>"
+    en: Played the music Volume prepared.
+    ko: "…준비해놓은 음악을 틀었다."
+    ja: "…準備しておいた音楽をかけた"
+  d_ex_church_04_69:
+    speaker: "<Narration>"
+    en: "*Boomboom- pop-* *Boombomm- pop-*"
+    ko: 둥둥- 탁- 둥둥- 탁-
+    ja: ドンドンシャーン、ドンドンシャーン
+  d_ex_church_04_70:
+    speaker: "<Monologue>"
+    en: The music started flowing out from the speakers installed inside the church.
+    ko: 교회에 설치된 스피커를 통해 비트가 흘러나오기 시작했다.
+    ja: |-
+      教会に設置されたスピーカーから
+      ビートが流れ出した
+  d_ex_church_04_71:
+    speaker: volume
+    en: Listen up, kids!
+    ko: Listen, Kid!
+    ja: Listen、 Kid！
+  d_ex_church_04_72:
+    speaker: volume
+    en: Rap is in your soul.
+    ko: Rap is Soul.
+    ja: Rap is Soul.
+  d_ex_church_04_73:
+    speaker: volume
+    en: Let the beat move within you,
+    ko: 잔뜩 쪼그라든 마음을 비트로 부풀리고.
+    ja: 縮こまった心をビートで膨らませて、
+  d_ex_church_04_74:
+    speaker: volume
+    en: summon up that courage and say what's on your mind!
+    ko: "너희의 소울을, \n하고 싶은 말을 가사에 담는 거야!"
+    ja: |-
+      あんたたちのソウル、
+      言いたいことを歌詞に乗せるのよ！
+  d_ex_church_04_75:
+    speaker: vesti
+    en: Say whatever we want...?
+    ko: 하고 싶은 말…?
+    ja: 言いたいこと…？
+  d_ex_church_04_76:
+    speaker: volume
+    en: Yes!
+    ko: Yes!
+    ja: Yes！
+  d_ex_church_04_77:
+    speaker: volume
+    en: Everything you've wanted to say to Belorta and Eunhwa.
+    ko: 너희들이 이기고 싶다는 그 녀석들한테 하고 싶었던 말!
+    ja: |-
+      あんたたちが勝ちたい
+      あいつらに言ってやりたいこと！
+  d_ex_church_04_78:
+    speaker: volume
+    en: Don't be a wimp! Spit it out!
+    ko: |-
+      찌질거리기만 하지 말고
+      그걸 밖으로 꺼내!
+    ja: |-
+      もじもじしてないで
+      口に出して！
+  d_ex_church_04_79:
+    speaker: vesti
+    en: I've always wanted to say...
+    ko: 하고 싶었던 말….
+    ja: 言ってやりたいこと…
+  d_ex_church_04_80:
+    speaker: vesti
+    en: Ah-hah!
+    ko: 아!
+    ja: あ！
+  d_ex_church_04_81:
+    speaker: vesti
+    en: D-don't mess with me, you big meanie!
+    ko: 나, 나보다 약한 게 까불지 마!
+    ja: わ、私より弱いくせに、ふざけないで！
+  d_ex_church_04_82:
+    speaker: mica
+    en: I've had enough of your pranks!
+    ko: 우우… 자, 장난치는 것 좀 그만해!
+    ja: うう…イ、イタズラはもうやめて！
+  d_ex_church_04_83:
+    speaker: volume
+    en: That's it! You're getting the hang of it.
+    ko: Huh! 뭐야, 할 수 있잖아 꼬마들!
+    ja: Huh！なんだ。できるじゃん、Kids！
+  d_ex_church_04_84:
+    speaker: vesti
+    en: But if I said this in front of Eunhwa...
+    ko: 근데 이걸 은화 앞에서 그대로 말했다간….
+    ja: でもこれをウンファの前で言ったら…
+  d_ex_church_04_85:
+    speaker: mica
+    en: Belorta's pranks would only get worse...
+    ko: 어… 어어… 그럼 더 무서운 장난을 칠 거 같은데….
+    ja: あ…あの…もっと怖いイタズラをされそう…
+  d_ex_church_04_86:
+    speaker: volume
+    en: Stop!
+    ko: Stop!
+    ja: Stop！
+  d_ex_church_04_87:
+    speaker: volume
+    en: What are you, a pair of philosophers? I thought not. So quit thinking!
+    ko: "너희가 굴착기야? \n왜 자꾸 땅을 파."
+    ja: |-
+      あんたたち、モグラか何か？
+      穴でも掘って隠れるつもり？
+  d_ex_church_04_88:
+    speaker: volume
+    en: Get rid of all those thoughts.
+    ko: 그딴 잡다한 생각 따윈 버려.
+    ja: そんな余計な考えは捨てちまえ。
+  d_ex_church_04_89:
+    speaker: volume
+    en: All they're doing is holding you back.
+    ko: 그게 너희들 가슴을 쪼그라들게 만드는 거라고!
+    ja: それがあんたたちを、縮こまらせているんだよ。
+  d_ex_church_04_90:
+    speaker: vesti
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_04_91:
+    speaker: mica
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_04_92:
+    speaker: volume
+    en: I don't care how mean the prank was, just get it out of your mind.
+    ko: |-
+      상대가 얼마나 무섭든, 장난을 치든!
+      그딴 건 생각하지 마.
+    ja: |-
+      相手がどんなに怖くても、
+      イタズラをされても！
+      そんなの考えないで。
+  d_ex_church_04_93:
+    speaker: volume
+    en: All you should be thinking about are the words you'll put to this beat.
+    ko: 이 비트에 어떤 말을 얹을지만 생각해.
+    ja: |-
+      このビートにどんな言葉を乗せるか
+      それだけを考えなさい！
+  d_ex_church_04_94:
+    speaker: vesti
+    en: Right, beats and words. Uh... yo yo Eunhwa, boom-boom don't mess with me...?
+    ko: |-
+      비트에… 말을?
+      어… 둥둥 은화? 둥둥 까불지 마?
+    ja: |-
+      ビートに…言葉を？
+      えっと…ドンドン、ウンファ？
+      ドンドン、ふざけるな？
+  d_ex_church_04_95:
+    speaker: mica
+    en: Boomboom... er... cut the pranks?
+    ko: 둥둥! 장난치지 마?
+    ja: ドンドン！イタズラはやめて？
+  d_ex_church_04_96:
+    speaker: volume
+    en: Stop! Stop!
+    ko: Stop! Stop!
+    ja: Stop！Stop！
+  d_ex_church_04_97:
+    speaker: volume
+    en: Both of you, watch and learn.
+    ko: Hey~ Kid! 따라 해!
+    ja: Hey～Kid！繰り返して！
+  d_ex_church_04_98:
+    speaker: volume
+    en: My mind is my tool,
+    ko: 비트를 무기로 들어,
+    ja: ビートを武器に、
+  d_ex_church_04_99:
+    speaker: volume
+    en: the beat is my weapon,
+    ko: 마음을 날카롭게 달궈,
+    ja: 心を鋭く研ぎ澄ませ、
+  d_ex_church_04_100:
+    speaker: volume
+    en: ain't no half-steppin'!
+    ko: 지지 않는 Swag!
+    ja: 負けないSwag！
+  d_ex_church_04_101:
+    speaker: mica
+    en: Do we...
+    ko: 예…?
+    ja: はい…？
+  d_ex_church_04_102:
+    speaker: vesti
+    en: Just say that?
+    ko: 그, 그냥 말하면 되나요?
+    ja: く、繰り返せばいいですか？
+  d_ex_church_04_103:
+    speaker: volume
+    en: Yes, say it!
+    ko: 따라 해!
+    ja: やって！
+  d_ex_church_04_104:
+    speaker: mica
+    en: M-my mind is my tool...
+    ko: 비, 비트를 무기로 들어…?
+    ja: ビ、ビートを武器に…？
+  d_ex_church_04_105:
+    speaker: vesti
+    en: the beat is my w-weapon...
+    ko: 마… 음을 날카롭게 달궈…!
+    ja: こ…心を鋭く研ぎ澄ませ…！
+  d_ex_church_04_106:
+    speaker: "<Choice>"
+    en: ain't no half-steppin'!
+    ko: 지지 않는 Swag!
+    ja: 負けないSwag！
+  d_ex_church_04_107:
+    speaker: "<Choice>"
+    en: ain't no one breakin' my stride!
+    ko: 물러서지 않는 Swag!!!
+    ja: 折れないSwag！！！
+  d_ex_church_04_108:
+    speaker: volume
+    en: Not you too, Manager.
+    ko: 매니저, 너까지 이러기야?
+    ja: |-
+      マネージャー、
+      そんなんでどうするの？
+  d_ex_church_04_109:
+    speaker: volume
+    en: That was so boring!
+    ko: |-
+      변화구 좀 던져봐.
+      You are so boring~
+    ja: |-
+      ちょっと変化球を投げてよ。
+      You are so boring～
+  d_ex_church_04_110:
+    speaker: volume
+    en: Try mixing it up!
+    ko: 좀 더 응용해 봐!
+    ja: もっと応用するの！
+  d_ex_church_04_111:
+    speaker: volume
+    en: Nice, nice!
+    ko: Uh-huh!
+    ja: Uh-huh！
+  d_ex_church_04_112:
+    speaker: volume
+    en: Switch up the lyrics and just go with the flow.
+    ko: 이렇게 가사를 변화 시키면서 흐름을 타는 거야!
+    ja: こうやって歌詞を変えながら流れに乗るのよ！
+  d_ex_church_04_113:
+    speaker: mica
+    en: These beats are my tools... uh..prank!
+    ko: 비트를 무기로… 어… 장난쳐!
+    ja: ビートを武器に…えっと…イタズラ！
+  d_ex_church_04_114:
+    speaker: vesti
+    en: ain't no full-steppin... er... swig!
+    ko: 마음을 날카롭게…? 휘둘러!
+    ja: 心を鋭く…？振りかざせ！
+  d_ex_church_04_115:
+    speaker: "<Self>"
+    en: Swiggity swag!
+    ko: 변화하는 Swag!
+    ja: 変化するSwag！
+  d_ex_church_04_116:
+    speaker: volume
+    en: Good! More confidence! Say whatever comes to mind.
+    ko: 좋아! 이제 자신감 있게 하고 싶은 말을 말해봐!
+    ja: |-
+      よし！自信を持って
+      言いたいことを言ってみて！
+  d_ex_church_04_117:
+    speaker: mica
+    en: I've had enough of your pranks!
+    ko: 네 장난은 지겨워!
+    ja: イタズラされるのはもういやだ！
+  d_ex_church_04_118:
+    speaker: vesti
+    en: Don't mess with me, you big meanie!
+    ko: 나보다 약한 게 까불어!
+    ja: 私より弱いくせになにさまだ！
+  d_ex_church_04_119:
+    speaker: "<Self>"
+    en: I say what I want, and I make it look good.
+    ko: 하고 싶은 말은 하는 Swag!
+    ja: 言いたいことは言うぞSwag！
+  d_ex_church_04_120:
+    speaker: volume
+    en: Yeeee! That's what I'm talking about, kids!
+    ko: "Yeeee~! \n그렇게 하는 거야, Kid!"
+    ja: |-
+      Yeeee～！
+      それだよ、Kid！
+  d_ex_church_04_121:
+    speaker: volume
+    en: Let's keep it going! Can't touch this!
+    ko: "더 해보자고! \n지지 않는 Swag!"
+    ja: |-
+      もっと行こう！
+      負けないSwag！
+  d_ex_church_04_122:
+    speaker: mica
+    en: Can't touch this!
+    ko: 지지 않는 Swag!
+    ja: 負けないSwag！
+  d_ex_church_04_123:
+    speaker: vesti
+    en: Can't touch this!
+    ko: 지지 않는 Swag!
+    ja: 負けないSwag！
+  d_ex_church_04_124:
+    speaker: "<Monologue>"
+    en: We continued freestyling all night long.
+    ko: "…그들의 Swag는 밤새 계속되었다."
+    ja: "…3人のSwagは一晩中続いた"
+d_ex_church_05:
+  d_ex_church_05_1:
+    speaker: Monologue
+    en: There have been reported sightings of a mysterious angelic figure, so I head
+      towards the church.
+    ko: 천사가 나타났다는 제보를 받고 교회에 왔다.
+    ja: 天使が現れたという通報を受け、\n教会へやってきた
+  d_ex_church_05_2:
+    speaker: d
+    en: "... @UserName."
+    ko: "…@UserName."
+    ja: "…@UserName。"
+  d_ex_church_05_3:
+    speaker: d
+    en: You have something to do with religions? That's news to me.
+    ko: 종교가 있었다는 건 금시초문인데.
+    ja: お前に信仰心があるとは知らなかったな。
+  d_ex_church_05_4:
+    speaker: "<Choice>"
+    en: I received a report of some suspicious individuals in the area, so I came
+      to investigate.
+    ko: 난 거수자 제보를 받고 왔어.
+    ja: 不審者の通報を受けて来たんだ
+  d_ex_church_05_5:
+    speaker: "<Choice>"
+    en: I came to see the angel.
+    ko: 난 천사를 구경하러 왔어.
+    ja: 天使を見に来たんだ
+  d_ex_church_05_6:
+    speaker: d
+    en: Really?
+    ko: 그런가.
+    ja: そうか。
+  d_ex_church_05_7:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_8:
+    speaker: Self
+    en: Have you come here to try and kill it?
+    ko: 여차하면 죽일 생각이야?
+    ja: いざとなったら殺すつもりか？
+  d_ex_church_05_9:
+    speaker: d
+    en: Only Nikkes come to this place.
+    ko: 이곳에 있는 건 니케들이야.
+    ja: ここにいるのはニケたちだ。
+  d_ex_church_05_10:
+    speaker: d
+    en: Dispatching such targets is not within my purview.
+    ko: 내 소관은 아니지.
+    ja: 私の管轄ではない。
+  d_ex_church_05_11:
+    speaker: d
+    en: However, I could allow Enikk to make a judgment if necessary.
+    ko: "하지만 필요하다면, \n에닉에게 판결받게 만들 순 있어."
+    ja: |-
+      しかし、必要なら
+      エニックに判決を下させることはできる。
+  d_ex_church_05_12:
+    speaker: d
+    en: Is that so?
+    ko: 그런가.
+    ja: そうか。
+  d_ex_church_05_13:
+    speaker: d
+    en: Aren't you a bit naïve?
+    ko: 생각 외로 순진하네.
+    ja: 思ったより純粋だな。
+  d_ex_church_05_14:
+    speaker: d
+    en: Only two kinds of figures command respect in religious sects.
+    ko: 종교 집단에서 추앙되는 부류는 크게 둘이야.
+    ja: |-
+      宗教団体であがめられる対象は
+      大きく分けて2つだ。
+  d_ex_church_05_15:
+    speaker: d
+    en: Kindly saints.
+    ko: 자애로운 성인이거나.
+    ja: 慈しみ深い聖人か
+  d_ex_church_05_16:
+    speaker: d
+    en: And duplicitous sinners.
+    ko: 사람들을 현혹시키는 악인이거나.
+    ja: 人々を惑わす悪人か。
+  d_ex_church_05_17:
+    speaker: "<Choice>"
+    en: What will you do if the angels end up being a force for good?
+    ko: 천사가 성인이라면 어떻게 할 거야?
+    ja: 天使が聖人ならどうするつもりだ？
+  d_ex_church_05_18:
+    speaker: "<Choice>"
+    en: What will you do if the angels end up being a force for evil?
+    ko: 천사가 악인이라면 어떻게 할 거야?
+    ja: 天使が悪人ならどうするつもりだ？
+  d_ex_church_05_19:
+    speaker: d
+    en: I won't impede them in any way.
+    ko: 그런 이들에 대해 내가 할 일은 없어.
+    ja: そんな奴らに私がすべきことはない。
+  d_ex_church_05_20:
+    speaker: d
+    en: I'd leave them be.
+    ko: 그저 내버려둘 뿐이지.
+    ja: ただ放っておくだけだ。
+  d_ex_church_05_21:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_22:
+    speaker: d
+    en: Only Nikkes come to this place.
+    ko: 이곳에 있는 건 니케들이야.
+    ja: ここにいるのはニケたちだ。
+  d_ex_church_05_23:
+    speaker: d
+    en: Dispatching such targets is not within my purview.
+    ko: 내 소관은 아니지.
+    ja: 私の管轄ではない。
+  d_ex_church_05_24:
+    speaker: d
+    en: However, I could allow Enikk to make a judgment if necessary.
+    ko: "하지만 필요하다면, \n에닉에게 판결받게 만들 순 있어."
+    ja: |-
+      しかし、必要なら
+      エニックに判決を下させることはできる。
+  d_ex_church_05_25:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_26:
+    speaker: d
+    en: Here we are.
+    ko: 왔다.
+    ja: 来たな。
+  d_ex_church_05_27:
+    speaker: Narration
+    en: "*Whew*"
+    ko: 슈우웅-
+    ja: シューン
+  d_ex_church_05_28:
+    speaker: Monologue
+    en: As the doors to the church fling open,
+    ko: 활짝 열린 교회의 입구를 통해,
+    ja: 開け放たれた教会の入口から
+  d_ex_church_05_29:
+    speaker: Monologue
+    en: a winged creature, somewhat reminiscent of an angel, descends.
+    ko: 천사의 날개를 가진 누군가가 내려왔고.
+    ja: 天使の翼を持った何者かが現れた
+  d_ex_church_05_30:
+    speaker: Monologue
+    en: D and I quickly find a place to hide.
+    ko: D와 나는 본능적으로 몸을 숨겼다.
+    ja: Dと私は本能的に身を隠した
+  d_ex_church_05_31:
+    speaker: isabel
+    en: How peculiar...
+    ko: "…이상하네."
+    ja: "…おかしいわね。"
+  d_ex_church_05_32:
+    speaker: isabel
+    en: Why do I sense their presence in my secret base?
+    ko: "내 비밀의 장소에서 왜, \n그 사람의 온기가 느껴지는 걸까?"
+    ja: |-
+      私の秘密の場所からどうして
+      あの人のぬくもりが感じられるのかしら？
+  d_ex_church_05_33:
+    speaker: isabel
+    en: Could it be...?
+    ko: "…설마."
+    ja: "…まさか。"
+  d_ex_church_05_34:
+    speaker: isabel
+    en: Have they found out I've made this place my second base and staked it out?
+    ko: |-
+      내가 여길 둘만의 도피처로 점찍어둔 걸 알고,
+      먼저 와서 기다리고 있는 건 아니겠지.
+    ja: |-
+      私がここを2人だけの隠れ家として
+      目を付けていたことに気づいて、
+      先に来て待っているのかしら？
+  d_ex_church_05_35:
+    speaker: isabel
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_36:
+    speaker: isabel
+    en: No, that can't be it. I'm sure they're far too busy with other matters.
+    ko: 하긴, 그 사람은 이 시간에 늘 업무로 바쁜걸.
+    ja: あの人、この時間帯はいつも忙しいのよね。
+  d_ex_church_05_37:
+    speaker: isabel
+    en: They can't be here.
+    ko: 여기 있을 리 없어.
+    ja: ここにいるはずないわ。
+  d_ex_church_05_38:
+    speaker: Monologue
+    en: I communicate with D by whispering and using hand signals.
+    ko: D가 입모양과 손짓으로 의사를 전했다.
+    ja: Dが口の形と手ぶりで尋ねてきた
+  d_ex_church_05_39:
+    speaker: d
+    en: "(Do you know her?)"
+    ko: "(아는 사이야?)"
+    ja: "（知り合いか？）"
+  d_ex_church_05_40:
+    speaker: "<Choice>"
+    en: "(She's been stalking me for a while now.)"
+    ko: "(내 스토커야.)"
+    ja: "（私のストーカーだ）"
+  d_ex_church_05_41:
+    speaker: "<Choice>"
+    en: "(She's a Pilgrim.)"
+    ko: "(필그림이야.)"
+    ja: "（ピルグリムだ）"
+  d_ex_church_05_42:
+    speaker: d
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_church_05_43:
+    speaker: d
+    en: "(How'd you get caught up with someone like her?)"
+    ko: "(왜 그런 게 붙었지?)"
+    ja: "（なぜそんなことを？）"
+  d_ex_church_05_44:
+    speaker: Self
+    en: "(I wish I knew.)"
+    ko: "(나도 모르겠어.)"
+    ja: "（私も分からない）"
+  d_ex_church_05_45:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_46:
+    speaker: d
+    en: "(What's a Pilgrim doing here?)"
+    ko: "(필그림이 왜 여기 있지?)"
+    ja: "（ピルグリムがなぜここに？）"
+  d_ex_church_05_47:
+    speaker: Self
+    en: "(She might have come looking for me.)"
+    ko: "(날 보러 왔겠지.)"
+    ja: "（私に会いに来たのだろう）"
+  d_ex_church_05_48:
+    speaker: d
+    en: "(Then why are you hiding?)"
+    ko: "(그런데도 네가 숨은 이유는?)"
+    ja: "（それなのになぜ隠れる？）"
+  d_ex_church_05_49:
+    speaker: Self
+    en: "(I'm petrified of her.)"
+    ko: "(…무서워서.)"
+    ja: "（…怖いから）"
+  d_ex_church_05_50:
+    speaker: isabel
+    en: Now, let's see...
+    ko: 그럼, 먼저….
+    ja: じゃあ、まずは…
+  d_ex_church_05_51:
+    speaker: Monologue
+    en: Isabel opens up the bag she has been carrying.
+    ko: 이사벨이 묵직한 가방을 열었다.
+    ja: イサベルが重そうなカバンを開けた
+  d_ex_church_05_52:
+    speaker: isabel
+    en: I've got to prepare some food for them.
+    ko: 그 사람을 위한 요리를 준비해야지.
+    ja: あの人のために料理を作らなきゃ。
+  d_ex_church_05_53:
+    speaker: isabel
+    en: They're probably been eating nothing but Splendamin for weeks now.
+    ko: 최근 몇 주 동안 퍼펙트밖에 못 먹었으니까,
+    ja: ここ最近パーフェクトしか食べてないから
+  d_ex_church_05_54:
+    speaker: isabel
+    en: They must be dying for a proper meal.
+    ko: 분명 지상의 음식을 그리워하고 있을 거야.
+    ja: きっと地上の食べ物が恋しいはずよ。
+  d_ex_church_05_55:
+    speaker: Monologue
+    en: Isabel takes out a portable pot.
+    ko: 이사벨은 휴대용 버너를 꺼낸 뒤,
+    ja: イサベルは携帯用バーナーを取り出して
+  d_ex_church_05_56:
+    speaker: Monologue
+    en: She tosses in a medley of ingredients and begins cooking up a soup.
+    ko: 각종 재료들을 넣고 수프를 끓이기 시작했다.
+    ja: 材料を入れてスープを煮込み始めた
+  d_ex_church_05_57:
+    speaker: isabel
+    en: "... Scrumptious. They're gonna love it."
+    ko: "…냄새가 좋네. 그 사람도 분명 좋아할 것 같아."
+    ja: "…いい香り。あの人もきっと喜ぶはずだわ。"
+  d_ex_church_05_58:
+    speaker: isabel
+    en: Next up, I have to prepare a clean set of clothes.
+    ko: 다음은, 역시 갈아입을 옷이겠지?
+    ja: 次は、着替え用の服が必要よね？
+  d_ex_church_05_59:
+    speaker: isabel
+    en: We might be spending a few days in our little sanctuary of love.
+    ko: "우리가 여기서 며칠 동안이나 \n사랑의 도피를 하게 될지 모르잖아."
+    ja: ここで何日愛の逃避行をするか分からないもの。
+  d_ex_church_05_60:
+    speaker: isabel
+    en: If the mood strikes him, I'll have to...
+    ko: |-
+      그리고 만일 그 사람이 원한다면,
+      …해줘야 하기도 하고.
+    ja: |-
+      そしてもしあの人が望んだら
+      …してあげないといけないし。
+  d_ex_church_05_61:
+    speaker: Narration
+    en: "*Rustle*"
+    ko: 부스럭, 부스럭.
+    ja: ゴソゴソ
+  d_ex_church_05_62:
+    speaker: Monologue
+    en: Isabel produces some clothes from the bag.
+    ko: 이사벨이 가방 속에서 옷가지를 꺼냈다.
+    ja: イサベルがカバンの中から服を取り出した
+  d_ex_church_05_63:
+    speaker: Monologue
+    en: I can make out a few pairs of underwear, along with some devices that seem
+      rather suspect.
+    ko: "…개중에는 속옷과, 수상쩍은 도구들도 섞여 있다."
+    ja: "…中には下着と、怪しい道具も入っている"
+  d_ex_church_05_64:
+    speaker: "<Choice>"
+    en: "(My underwear!)"
+    ko: "(내 속옷이…!)"
+    ja: "（私の下着が…！）"
+  d_ex_church_05_65:
+    speaker: "<Choice>"
+    en: "(Wait, are those devices...)"
+    ko: "(저 도구는…!)"
+    ja: "（あの道具は…！）"
+  d_ex_church_05_66:
+    speaker: d
+    en: "(How did she get those?)"
+    ko: "(도둑맞은 건가?)"
+    ja: "（盗まれたのか？）"
+  d_ex_church_05_67:
+    speaker: Self
+    en: "(I certainly didn't give them to her.)"
+    ko: "(난 준 적이 없거든.)"
+    ja: "（あげた覚えはない）"
+  d_ex_church_05_68:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_69:
+    speaker: d
+    en: "(Not only is she sexually perverse, but she's a thief!)"
+    ko: "(절도에, 성희롱이라.)"
+    ja: "（窃盗に、セクハラか）"
+  d_ex_church_05_70:
+    speaker: d
+    en: "(What is it?)"
+    ko: "(저게 뭐지?)"
+    ja: "（あれは何だ？）"
+  d_ex_church_05_71:
+    speaker: Self
+    en: "(... I can't say it.)"
+    ko: "(…말할 수 없어.)"
+    ja: "（…言えない）"
+  d_ex_church_05_72:
+    speaker: d
+    en: "(You're blushing.)"
+    ko: "(얼굴이 붉어졌군.)"
+    ja: "（顔が赤くなったな）"
+  d_ex_church_05_73:
+    speaker: d
+    en: "(It doesn't take a genius to guess what she intends to use those for.)"
+    ko: "(덕분에 도구가 무슨 용도인지 유추해냈어.)"
+    ja: "（おかげでどういう用途で使うのか推測できた）"
+  d_ex_church_05_74:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_75:
+    speaker: d
+    en: "(Sounds like she's into some kinky stuff.)"
+    ko: "(공공 장소에서의 성희롱이라.)"
+    ja: "（公共の場でセクハラか）"
+  d_ex_church_05_76:
+    speaker: d
+    en: "(A bit eccentric, but not bad enough to notify Enikk.)"
+    ko: "(명백한 악행이지만, \n아직 에닉 앞에 데려갈 정도는 아냐.)"
+    ja: |-
+      （明らかな悪事だが
+      まだエニックの前に連れていくほどではない）
+  d_ex_church_05_77:
+    speaker: d
+    en: "(Let's keep watching.)"
+    ko: "(조금 더 지켜보자.)"
+    ja: "（もう少し見守ろう）"
+  d_ex_church_05_78:
+    speaker: isabel
+    en: Last but not least,
+    ko: "…그리고."
+    ja: "…それから"
+  d_ex_church_05_79:
+    speaker: isabel
+    en: some romantic restraints.
+    ko: 그 사람, 책임감이 강해서….
+    ja: あの人は責任感が強いから…
+  d_ex_church_05_80:
+    speaker: isabel
+    en: Given how strong their moral code is,
+    ko: "도피 생활이 한 주를 넘어가면, \n분명 지휘관실로 돌아가고 싶어할 게 분명해."
+    ja: |-
+      逃避生活が1週間を超えたら
+      指揮官室に戻りたがるわよね。
+  d_ex_church_05_81:
+    speaker: isabel
+    en: I'm sure they'll want to return to the Commander's Room after a week or so.
+    ko: 그때를 대비한 사랑의 밧줄도 준비해두는 게 좋겠네.
+    ja: |-
+      その時に備えて、愛のロープも
+      準備しておきましょう。
+  d_ex_church_05_82:
+    speaker: Narration
+    en: "*Crunch*"
+    ko: 잘그락.
+    ja: ガチャン
+  d_ex_church_05_83:
+    speaker: Monologue
+    en: Isabel hides some heavy chains under the bench.
+    ko: 이사벨은 묵직한 쇠사슬을 장의자 아래에 숨겼다.
+    ja: イサベルは重そうな鎖を長椅子の下に隠した
+  d_ex_church_05_84:
+    speaker: isabel
+    en: Ah, I nearly forgot.
+    ko: "…아, 그러고 보니."
+    ja: "…あ、そういえば。"
+  d_ex_church_05_85:
+    speaker: isabel
+    en: They're always surrounded by their little coterie of women.
+    ko: 그에게는 다른 여자들이 많잖아?
+    ja: 彼の周りには他の女も多いのよね。
+  d_ex_church_05_86:
+    speaker: isabel
+    en: Can't be having them interfere with our romantic interlude, no sir.
+    ko: 그치들에게 우리 둘만의 시간을 방해 받을 순 없어. 절대로.
+    ja: |-
+      2人きりの時間を邪魔させるわけには
+      いかないわ。絶対に。
+  d_ex_church_05_87:
+    speaker: Monologue
+    en: Isabel installs some kind of device at the entrance of the church.
+    ko: 이사벨은 수상쩍은 디바이스를 교회 입구에 설치했다.
+    ja: イサベルは怪しい機械を教会の入口に設置した
+  d_ex_church_05_88:
+    speaker: Monologue
+    en: If I were to guess, it seems to be a booby trap of some sort.
+    ko: "…형태로 보아 부비 트랩인 것 같다."
+    ja: "…おそらくブービートラップだろう"
+  d_ex_church_05_89:
+    speaker: isabel
+    en: Voilà!
+    ko: 아아… 좋아.
+    ja: ああ…完璧よ。
+  d_ex_church_05_90:
+    speaker: isabel
+    en: All that's left to do is bring them here.
+    ko: 이제 남은 건 그 사람을 여기 데려오는 것뿐이네.
+    ja: あとはあの人をここに連れてくるだけね。
+  d_ex_church_05_91:
+    speaker: isabel
+    en: They must be having coffee in their room right about now.
+    ko: 지금쯤이면 그도 지휘관실에서 커피를 내려 마실 때니까.
+    ja: 今頃、指揮官室でコーヒーを\n飲んでいるはずだから。
+  d_ex_church_05_92:
+    speaker: isabel
+    en: A few sleeping pills in their drink will make it a bit easier to bring them
+      here.
+    ko: 그 안에 수면… 아니, 영양제를 넣으면 편히 데려올 수 있겠지?
+    ja: その中に睡眠…いや、サプリを入れたら\n楽に連れてこられるわよね？
+  d_ex_church_05_93:
+    speaker: isabel
+    en: Then, with the two of us in this sacred place, we'll both be joined in holy
+      matrimony!
+    ko: "그리고 신이 축복하는 이곳에서, \n우리만의 작은 결혼식을 올리는 거야…."
+    ja: |-
+      そして神が祝福するこの場所で
+      私たちだけの小さな結婚式を挙げるの…
+  d_ex_church_05_94:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_95:
+    speaker: d
+    en: "(Did you agree to this?)"
+    ko: "(너도 동의한 일이야?)"
+    ja: "（お前も同意したことなのか？）"
+  d_ex_church_05_96:
+    speaker: Self
+    en: "(Of course not.)"
+    ko: "(아니.)"
+    ja: "（いや）"
+  d_ex_church_05_97:
+    speaker: d
+    en: "(Sexual deviancy, kidnapping, unlawful imprisonment.)"
+    ko: "(공공 장소에서의 성희롱, 납치, 감금 모의.)"
+    ja: "（公共の場でのセクハラ、誘拐、監禁計画）"
+  d_ex_church_05_98:
+    speaker: d
+    en: "(Attempted poisoning.)"
+    ko: "(비자발적 약물 투여 시도.)"
+    ja: "（本人が望んでいない薬物投与計画）"
+  d_ex_church_05_99:
+    speaker: d
+    en: "(Plus there's that trap she set up, which could harm innocent people.)"
+    ko: "(게다가 무고한 사람들을 해칠 수 있는 부비 트랩까지.)"
+    ja: "（しかも罪なき人々にも危険をもたらす\\nブービートラップまで）"
+  d_ex_church_05_100:
+    speaker: d
+    en: "(There is more than enough to tip the scales against her.)"
+    ko: "(이 정도면 저울은 충분히 기울었어.)"
+    ja: "（ここまで揃えば十分だろう）"
+  d_ex_church_05_101:
+    speaker: d
+    en: "(However, the Outpost is your jurisdiction.)"
+    ko: "(하지만 전초기지는 네 관할이고.)"
+    ja: "（しかし、前哨基地はお前の管轄だ）"
+  d_ex_church_05_102:
+    speaker: d
+    en: "(So it's your call.)"
+    ko: "(판결을 내릴 왕관도 네 머리 위에 있지.)"
+    ja: "（判決を下すための王冠もお前の頭上にある）"
+  d_ex_church_05_103:
+    speaker: d
+    en: "(How should we proceed?)"
+    ko: "(선택해.)"
+    ja: "（選べ）"
+  d_ex_church_05_104:
+    speaker: d
+    en: "(Do you want to report her to Enikk?)"
+    ko: "(그녀를 에닉 앞에 세울 거야?)"
+    ja: "（彼女をエニックの前に立たせるか？）"
+  d_ex_church_05_105:
+    speaker: Self
+    en: "(... No.)"
+    ko: "(…아니.)"
+    ja: "（…いや）"
+  d_ex_church_05_106:
+    speaker: Self
+    en: "(Isabel doesn't intend on harming anyone. I'm the only one she wants.)"
+    ko: "(이사벨이 악행을 하는 건 내가 관련됐을 때뿐이야.)"
+    ja: "（イサベルが悪事を働くのは\\n私が関係している時だけだ）"
+  d_ex_church_05_107:
+    speaker: Self
+    en: "(Everything tends to pan out fine as long as I avoid her.)"
+    ko: "(대부분의 경우 나만 잘 피해가면 된다는 거지.)"
+    ja: |-
+      （ほとんどの場合、私が上手く避ければ
+      解決する）
+  d_ex_church_05_108:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_05_109:
+    speaker: d
+    en: "(You sure?)"
+    ko: "(그런가.)"
+    ja: "（そうか）"
+  d_ex_church_05_110:
+    speaker: d
+    en: "(If that's your judgment, so be it.)"
+    ko: "(그게 네 판단이라면, 그걸로 됐어.)"
+    ja: "（それがお前の判断なら、それでいい）"
+  d_ex_church_05_111:
+    speaker: d
+    en: "(I'll be on my way, then.)"
+    ko: "(그럼 난 이만.)"
+    ja: "（では、失礼する）"
+  d_ex_church_05_112:
+    speaker: Monologue
+    en: Just as D is about to sneak out of the church,
+    ko: D가 은밀 기동으로 교회를 빠져나가….
+    ja: Dが気配を消して教会を抜け出…
+  d_ex_church_05_113:
+    speaker: Monologue
+    en: I pull her back.
+    ko: 려 했을 때, D의 옷자락을 붙들었다.
+    ja: そうとした時、私はDの裾を掴んだ
+  d_ex_church_05_114:
+    speaker: Self
+    en: "(... wait a minute.)"
+    ko: "(…잠깐.)"
+    ja: "（…待ってくれ）"
+  d_ex_church_05_115:
+    speaker: Self
+    en: "(I'd rather not be left here alone.)"
+    ko: "(나 혼자서는 안 돼.)"
+    ja: "（1人では無理だ）"
+  d_ex_church_05_116:
+    speaker: d
+    en: "(What do you want me to do about it?)"
+    ko: "(그래서?)"
+    ja: "（それで？）"
+  d_ex_church_05_117:
+    speaker: Self
+    en: "(Please let me come with you.)"
+    ko: "(…나 좀 같이 데려가 주면 안 될까?)"
+    ja: "（…私も一緒に連れていってくれないか？）"
+  d_ex_church_05_118:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+d_ex_church_06:
+  d_ex_church_06_1:
+    speaker: mast
+    en: Captain,
+    ko: "…선장 양반."
+    ja: "…船長さん。"
+  d_ex_church_06_2:
+    speaker: mast
+    en: have you ever heard about the Siren?
+    ko: 세이렌에 대해 들어 보셨수?
+    ja: セイレーンについて聞いたことあるか？
+  d_ex_church_06_3:
+    speaker: "<Choice>"
+    en: It's a creature of the sea that seduces sailors.
+    ko: 뱃사람을 유혹하는 괴물.
+    ja: 船乗りを誘惑する怪物
+  d_ex_church_06_4:
+    speaker: "<Choice>"
+    en: Never heard of it.
+    ko: 들어본 적 없어.
+    ja: 聞いたことがない
+  d_ex_church_06_5:
+    speaker: mast
+    en: I see you're well-versed in your sailor lore.
+    ko: 아주 잘 알고 계시구만.
+    ja: よく知ってるな。
+  d_ex_church_06_6:
+    speaker: mast
+    en: Then you probably also know that the one creature
+    ko: 그렇다면 이 해적 마스트가 가장 두려워하면서도,
+    ja: なら、この海賊マストが一番恐れながらも
+  d_ex_church_06_7:
+    speaker: mast
+    en: I fear the most is the Siren. But I'm also really curious about it.
+    ko: 가장 궁금해 하는 괴물이 세이렌이라는 것도 짐작이 되겠지.
+    ja: |-
+      一番興味のある怪物がセイレーンだってことも
+      予想できるだろ？
+  d_ex_church_06_8:
+    speaker: mast
+    en: It's a frightening sea creature with terrible powers.
+    ko: 아주 무시무시한 바다의 괴물이지.
+    ja: とんでもなく恐ろしい海の怪物さ。
+  d_ex_church_06_9:
+    speaker: mast
+    en: It sings this beautiful song that puts you under a spell.
+    ko: 홀릴 듯 아름다운 미성으로 노랠 하는데,
+    ja: 誘惑するような美しい声で歌うんだが
+  d_ex_church_06_10:
+    speaker: mast
+    en: Any sailor who hears it becomes infatuated,
+    ko: 그걸 들은 선원들은 마치 무언가에 씌인 것처럼
+    ja: |-
+      それを聞いた船乗りたちは、
+      まるで何かに取りつかれたかのように
+  d_ex_church_06_11:
+    speaker: mast
+    en: and jumps into the water to get near it, as if possessed.
+    ko: 제 발로 물 속에 뛰어들어 버린다고 합니다.
+    ja: 自分から水の中に飛び込んじまうらしいぜ。
+  d_ex_church_06_12:
+    speaker: mast
+    en: They are the bane of my existence.
+    ko: 바꿔 말하면 이 해적 마스트의 숙적 같은 거지.
+    ja: |-
+      要するに、
+      この海賊マストの宿敵みてえなもんだ。
+  d_ex_church_06_13:
+    speaker: mast
+    en: "... Even though I've never seen one in real life."
+    ko: "…한번도 실물을 본 적은 없지만 말이요."
+    ja: "…一度も実物を見たことはねえけどよ。"
+  d_ex_church_06_14:
+    speaker: mast
+    en: But!
+    ko: 그런데.
+    ja: で、
+  d_ex_church_06_15:
+    speaker: mast
+    en: Yesterday, we got wind of a sighting.
+    ko: 어제 어떤 사람이 날 찾아와서 제보를 해 줬지 뭐요!
+    ja: 昨日、ある人が来て、情報をくれたんだ！
+  d_ex_church_06_16:
+    speaker: "<Monologue>"
+    en: 'According to the report:'
+    ko: "[전초기지의 교회에 바다의 전설이 나타났다.]"
+    ja: "「前哨基地の教会に海の伝説が現れる」"
+  d_ex_church_06_17:
+    speaker: "<Monologue>"
+    en: The entity spoken of in so many seafaring legends appeared at the Outpost's
+      church.
+    ko: "[그 파멸의 노래는 핏빛으로 울려 퍼지고.]"
+    ja: "「破滅の歌は血色に鳴り響き」"
+  d_ex_church_06_18:
+    speaker: "<Monologue>"
+    en: Its bloodthirsty song of destruction resounded throughout the air.
+    ko: "[광기에 현혹된 사람들은 심연 속으로 뛰어들지.]"
+    ja: |-
+      「狂気に惑わされた人々は
+      深淵の中へ飛び込むのだ」
+  d_ex_church_06_19:
+    speaker: mast
+    en: Those who were seduced became mad and leaped into the abyss.
+    ko: "…라고 말이지."
+    ja: "…ってさ。"
+  d_ex_church_06_20:
+    speaker: "<Self>"
+    en: Something tells me I know who wrote that.
+    ko: "…왠지 그 제보자가 누군지 알 것 같은데."
+    ja: |-
+      …その情報提供者、
+      誰か分かった気がするな
+  d_ex_church_06_21:
+    speaker: mast
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_church_06_22:
+    speaker: mast
+    en: I'd never seen them before,
+    ko: 일단 난 처음보는 얼굴이었수다.
+    ja: 私は初めて見る顔だったぜ。
+  d_ex_church_06_23:
+    speaker: mast
+    en: but they seemed fairly chummy with Ingrid, so much so that they used nicknames.
+    ko: 하지만 잉그리드 사장하고도 별명을 부르는 사이 같길래,
+    ja: |-
+      でもイングリッド社長とも
+      あだ名で呼び合う関係っぽかったから
+  d_ex_church_06_24:
+    speaker: mast
+    en: That tells me that they're at least somewhat trustworthy.
+    ko: 그 사람을 봐서 믿어봐야겠다고 생각했지.
+    ja: 信じても良さそうって思ったんだ。
+  d_ex_church_06_25:
+    speaker: mast
+    en: That's why I dragged you over here so quickly.
+    ko: 그래서 부리나케 선장 양반을 끌고 여기로 온 거요.
+    ja: |-
+      だから急いで船長さんを引っ張って
+      ここに来たんだぜ。
+  d_ex_church_06_26:
+    speaker: mast
+    en: Let us embark on an exciting adventure together!
+    ko: 우리 함께 흥미진진한 모험을 해 보자고 말이요! 아하하!
+    ja: |-
+      一緒にワクワクする冒険をしようぜ！ってな！
+      あはは！
+  d_ex_church_06_27:
+    speaker: unknown
+    en: "... Heh."
+    ko: "…크큭."
+    ja: "…ククッ。"
+  d_ex_church_06_28:
+    speaker: mast
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_church_06_29:
+    speaker: guillotine
+    en: Fools.
+    ko: 어리석군.
+    ja: 愚かだな。
+  d_ex_church_06_30:
+    speaker: guillotine
+    en: Both of you.
+    ko: 어리석기 짝이 없어.
+    ja: 愚かすぎるにも程がある。
+  d_ex_church_06_31:
+    speaker: mast
+    en: Wait... aren't you the person who told me about this place?
+    ko: 아니 당신은…! 내게 이 장소를 알려준 사람 아니요?
+    ja: |-
+      なっ、あなたは…！
+      私にこの場所を教えてくれた人じゃねえか？
+  d_ex_church_06_32:
+    speaker: guillotine
+    en: That's right. The very same.
+    ko: "…그렇다."
+    ja: "…いかにも。"
+  d_ex_church_06_33:
+    speaker: guillotine
+    en: "The name is Guillotine de Mephisto. \nAlways call me by my full name when
+      you address me."
+    ko: "이름은 길로틴 드 메피스토. \n호명할 땐 늘 풀 네임으로 부르도록."
+    ja: |-
+      我の名はギロチン・デ・メフィスト。
+      常にフルネームで呼ぶことだ。
+  d_ex_church_06_34:
+    speaker: guillotine
+    en: The Siren won't be showing its face right this moment.
+    ko: 더해서 세이렌은 이 시간에는 오지 않는다.
+    ja: |-
+      さておき、今はまだ
+      セイレーンの至る時ではない。
+  d_ex_church_06_35:
+    speaker: guillotine
+    en: You must wait 30 minutes,
+    ko: 앞으로 한 30분은 더 기다려야 하지.
+    ja: あと半刻は待たねばならぬだろう。
+  d_ex_church_06_36:
+    speaker: guillotine
+    en: for at this very moment, she is at the Cavernous Abyss, causing bedlam.
+    ko: "왜냐면 지금 그녀는 [심연의 홀]에서 \n사람들을 현혹시키고 있는 중이거든."
+    ja: |-
+      なぜなら今、彼女は「深淵のホール」に在って
+      人々を惑わせているからだ。
+  d_ex_church_06_37:
+    speaker: mast
+    en: "... What?"
+    ko: "…뭐요?"
+    ja: "…何だって？"
+  d_ex_church_06_38:
+    speaker: mast
+    en: Then why didn't you tell us to go there from the start?
+    ko: 그럼 왜 진작 그리로 가라고 말해주지 않은 거요.
+    ja: |-
+      じゃあ、なんでそっちに行けって
+      言わなかったんだ？
+  d_ex_church_06_39:
+    speaker: guillotine
+    en: The reason is simple.
+    ko: 이유는 간단하다.
+    ja: 答えは簡単だ。
+  d_ex_church_06_40:
+    speaker: guillotine
+    en: The entry fee to that place is 150,000 credits.
+    ko: 그 홀의 가장 저렴한 입장 비용만 무려 15만 크레디트니까.
+    ja: 入場料が15万クレジットかかる。
+  d_ex_church_06_41:
+    speaker: guillotine
+    en: Is that something you could afford?
+    ko: 그대는 그 비용을 감당할 수 있나?
+    ja: お前にその対価が払えるか？
+  d_ex_church_06_42:
+    speaker: "<Self>"
+    en: That price is a bit steep.
+    ko: "…비싸네."
+    ja: "…高いな"
+  d_ex_church_06_43:
+    speaker: mast
+    en: It's highway robbery! That's what it is!
+    ko: "…비싸구만."
+    ja: "…高いぜ。"
+  d_ex_church_06_44:
+    speaker: mast
+    en: I guess our adventure is over before it even began.
+    ko: 뭐 그런 이유라면 어쩔 수 없지.
+    ja: まあ、そういう理由なら仕方ねえな。
+  d_ex_church_06_45:
+    speaker: mast
+    en: 'I''ve fraternized with my fair share of nobles, so I know all too well:'
+    ko: 실은 나도 로열들과 가까이 있다 보니 잘 알거든.
+    ja: |-
+      私もロイヤルたちの近くにいるから
+      よく分かるんだ。
+  d_ex_church_06_46:
+    speaker: mast
+    en: Capitalism is just as terrifying as any beast of the sea.
+    ko: 자본주의의 괴물도 바다의 괴물만큼이나 무시무시하단 걸.
+    ja: |-
+      資本主義の怪物ってやつも、
+      海の怪物と同じくらい恐ろしいってことが。
+  d_ex_church_06_47:
+    speaker: "<Narration>"
+    en: "*Slump*"
+    ko: 털썩.
+    ja: ドサッ
+  d_ex_church_06_48:
+    speaker: "<Monologue>"
+    en: Mast sinks down at the edge of the bench.
+    ko: 마스트가 장의자에 걸터 앉았다.
+    ja: マストが長椅子に腰掛けた
+  d_ex_church_06_49:
+    speaker: guillotine
+    en: Very true.
+    ko: "…그래."
+    ja: "…そうか。"
+  d_ex_church_06_50:
+    speaker: guillotine
+    en: And that is the cheapest option available as well.
+    ko: 참고로 그게 가장 저렴한 티켓이었다.
+    ja: ちなみに、一番安いチケットでその値段だ。
+  d_ex_church_06_51:
+    speaker: "<Narration>"
+    en: "*Slump*"
+    ko: 털썩.
+    ja: ドサッ
+  d_ex_church_06_52:
+    speaker: "<Monologue>"
+    en: Guillotine plops down beside Mast.
+    ko: 길로틴이 그 옆자리에 걸터 앉았다.
+    ja: ギロチンがマストの隣に腰掛けた
+  d_ex_church_06_53:
+    speaker: "<Choice>"
+    en: Sit beside Guillotine.
+    ko: 길로틴 옆에 앉는다.
+    ja: ギロチンの隣に座る
+  d_ex_church_06_54:
+    speaker: "<Choice>"
+    en: Sit beside Mast.
+    ko: 마스트 옆에 앉는다.
+    ja: マストの隣に座る
+  d_ex_church_06_55:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_06_56:
+    speaker: "<Monologue>"
+    en: We sit in silence, waiting for the Siren to arrive.
+    ko: 침묵 속에서 세이렌이 나타나길 기다렸다.
+    ja: 沈黙の中、セイレーンが現れるのを待った
+  d_ex_church_06_57:
+    speaker: "<Monologue>"
+    en: Soon after.
+    ko: "…잠시 후."
+    ja: "…しばらくして"
+  d_ex_church_06_58:
+    speaker: "<Narration>"
+    en: "*Creeeek*"
+    ko: 끼이익-
+    ja: キィィ…
+  d_ex_church_06_59:
+    speaker: guillotine
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_06_60:
+    speaker: guillotine
+    en: It's the Siren! Hide!
+    ko: "…세이렌이다! 숨어라!"
+    ja: "…セイレーンだ！隠れろ！"
+  d_ex_church_06_61:
+    speaker: "<Narration>"
+    en: "*Crashh*"
+    ko: 우당탕탕-!
+    ja: ドタンバタン！
+  d_ex_church_06_62:
+    speaker: "<Monologue>"
+    en: As we scurry behind the bench,
+    ko: 우리가 장의자 뒤로 몸을 숨긴 것과 동시에,
+    ja: 私たちが長椅子の後ろに隠れるのと同時に
+  d_ex_church_06_63:
+    speaker: "<Monologue>"
+    en: the "Siren" makes its appearance.
+    ko: 압도적인 분위기의 누군가… 아니, [세이렌]이 들어왔다!.
+    ja: |-
+      圧倒的な存在感を放つ何者か…
+      いや、「セイレーン」が入ってきた！
+  d_ex_church_06_64:
+    speaker: aria
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_06_65:
+    speaker: aria
+    en: Lalalala♪
+    ko: 라라라라~♪
+    ja: ララララ～♪
+  d_ex_church_06_66:
+    speaker: aria
+    en: What a magnificent church.
+    ko: "…역시 교회네."
+    ja: "…やっぱり教会ね。"
+  d_ex_church_06_67:
+    speaker: aria
+    en: Sound in here has such a unique echo, and the reverberation is second-to-none.
+    ko: "소리가 독특한 느낌으로 울리고 있어. \n잔향 효과도 좋고."
+    ja: |-
+      独特な響きがあるわ。
+      リバーブもいいし。
+  d_ex_church_06_68:
+    speaker: aria
+    en: I couldn't have found a better place to practice.
+    ko: 혼자 연습하기엔 여기만한 곳이 없는 것 같아.
+    ja: 1人で練習するならここが一番ね。
+  d_ex_church_06_69:
+    speaker: aria
+    en: I better get started.
+    ko: "…그럼, 시작해 볼까."
+    ja: "…じゃあ、始めようかしら。"
+  d_ex_church_06_70:
+    speaker: "<Monologue>"
+    en: Aria, or the "Siren", rather, takes a deep breath.
+    ko: 아리… 아니, 세이렌이 숨을 들이마셨다.
+    ja: アリ…いや、セイレーンが息を吸い込んだ
+  d_ex_church_06_71:
+    speaker: aria
+    en: I am waiting for you, in that place where your reality has sunk.
+    ko: |-
+      당신의 현실이 침몰하는 곳.
+      그 자리에서 난 기다리고 있어요!
+    ja: |-
+      あなたの現実が沈む場所。
+      そこで私は待っています！
+  d_ex_church_06_72:
+    speaker: aria
+    en: I am your dream.
+    ko: 나는 당신의 꿈.
+    ja: あなたの夢。
+  d_ex_church_06_73:
+    speaker: aria
+    en: I am your love.
+    ko: 나는 당신의 사랑.
+    ja: あなたの愛。
+  d_ex_church_06_74:
+    speaker: aria
+    en: "Come inside the water, \nI will drag you to the greatest depths where I reside!"
+    ko: "물 속으로 들어와요, \n당신을 내 깊은 곳으로 끌고 갈게요!"
+    ja: |-
+      水の中へ飛び込んで。
+      あなたを私の奥深くに導くから！
+  d_ex_church_06_75:
+    speaker: guillotine
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_06_76:
+    speaker: mast
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_06_77:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_06_78:
+    speaker: mast
+    en: I mean, it's a beautiful song.
+    ko: 뭐요. 그냥 평범하게 훌륭한 노래인데?
+    ja: 何だ？フツーにすげえ歌だぞ？
+  d_ex_church_06_79:
+    speaker: mast
+    en: I've even got goosebumps.
+    ko: 물론 팔에 소름이 오소소소- 돋긴 했지만, 그게 다요.
+    ja: |-
+      もちろん腕にゾワゾワって鳥肌は立ったけどよ、
+      それだけだぜ。
+  d_ex_church_06_80:
+    speaker: mast
+    en: But I don't feel like jumping into the ocean,
+    ko: 갑자기 바닷물에 뛰어들고 싶다거나,
+    ja: 急に海に飛び込みたくなるとか
+  d_ex_church_06_81:
+    speaker: mast
+    en: and I definitely don't feel any kind of seductive pull where I'd put my life
+      in danger.
+    ko: 죽을 만큼 강렬한 유혹을 느끼거나 하지는 않았다는….
+    ja: 死ぬほど強烈な誘惑を感じたりとかはしなかっ…
+  d_ex_church_06_82:
+    speaker: guillotine
+    en: "*Gasp*"
+    ko: 푸학-!!
+    ja: うぐっ！！
+  d_ex_church_06_83:
+    speaker: "<Monologue>"
+    en: Guillotine covers her mouth with both her hands.
+    ko: 길로틴이 두 손으로 자신의 입을 틀어막았다.
+    ja: ギロチンが両手で自分の口を塞いだ
+  d_ex_church_06_84:
+    speaker: "<Self>"
+    en: Guillotine, are you okay?!
+    ko: 길로틴, 괜찮아?!
+    ja: ギロチン、大丈夫か！？
+  d_ex_church_06_85:
+    speaker: mast
+    en: Yeah, you all right, Guillotine... whatever it was?
+    ko: 괘, 괜찮은 거요, 길로틴 드 어쩌고 양반?
+    ja: だ、大丈夫か？ギロチン・デ・何とかさん？
+  d_ex_church_06_86:
+    speaker: guillotine
+    en: I'm fin... *cough, cough*
+    ko: 나는 괜찮… 쿨럭, 쿨럭!
+    ja: 我は大丈…ゴホ、ゴホッ！
+  d_ex_church_06_87:
+    speaker: guillotine
+    en: Urgh... it's just as I expected.
+    ko: "크흐… 역시나. \n역시 내가 예상한 대로였어."
+    ja: |-
+      クッ…やはり。
+      やはり我の予想通りだ。
+  d_ex_church_06_88:
+    speaker: mast
+    en: What are you talking about?
+    ko: "…대체 뭐가 말이요?"
+    ja: "…何のことだ？"
+  d_ex_church_06_89:
+    speaker: guillotine
+    en: The Siren is real.
+    ko: 저 세이렌은 [진짜]다.
+    ja: あのセイレーンは「本物」だ。
+  d_ex_church_06_90:
+    speaker: guillotine
+    en: She renders pitiable souls asunder with her demonic songs.
+    ko: 마성의 노래로 사람을 파멸시키는 존재지.
+    ja: 魔性の歌で人を破滅させる存在なのだ。
+  d_ex_church_06_91:
+    speaker: mast
+    en: Huh? I feel fine.
+    ko: 음? 하지만 난 멀쩡한데?
+    ja: ん？でも私は何ともないぜ？
+  d_ex_church_06_92:
+    speaker: guillotine
+    en: As you should.
+    ko: 그건 당연한 얘기다.
+    ja: それは当然のことだ。
+  d_ex_church_06_93:
+    speaker: guillotine
+    en: That deadly ditty only affects those who share the same attributes as she.
+    ko: 그 파멸의 작용은 같은 속성을 가진 자에게만 일어나니까.
+    ja: |-
+      あの破滅の作用は、
+      同じ属性を持った者だけに起きる。
+  d_ex_church_06_94:
+    speaker: guillotine
+    en: "... Mast."
+    ko: "…마스트."
+    ja: "…マストとやら。"
+  d_ex_church_06_95:
+    speaker: guillotine
+    en: Are you a fan of adventuring?
+    ko: 그대는 모험을 좋아하나?
+    ja: お前は冒険が好きか？
+  d_ex_church_06_96:
+    speaker: mast
+    en: Isn't the answer obvious? I'm a pirate who sails the high seas.
+    ko: "?? 그건 당연하지. 난 바다를 누빌 해적이거든!"
+    ja: |-
+      ？？そりゃ当然だろ。
+      私は海を駆け回る海賊だぜ！
+  d_ex_church_06_97:
+    speaker: guillotine
+    en: You thus represent adventure, not destruction.
+    ko: "그러니 정의 내리자면 그대의 속성은, \n[파멸]이 아니라 [모험]인 셈이다."
+    ja: |-
+      要するにお前の属性は、
+      「破滅」ではなく「冒険」なのだ。
+  d_ex_church_06_98:
+    speaker: guillotine
+    en: Therefore, this Siren's lethal song, which embodies destruction,
+    ko: "…파멸 속성인 세이렌의 노래가,"
+    ja: "…破滅属性のセイレーンの歌が"
+  d_ex_church_06_99:
+    speaker: guillotine
+    en: has no sway over you.
+    ko: 그대에게는 피해를 입히지 못하고 비껴간 것도 그런 이유지.
+    ja: |-
+      お前にはダメージを与えられず
+      影響を免れたのもそのせいだろう。
+  d_ex_church_06_100:
+    speaker: guillotine
+    en: As for people like myself, who do represent destruction... *gasp* Hrngh!
+    ko: 대신, 같은 파멸 속성인 나는… 푸헉. 쿨럭, 쿨럭!
+    ja: |-
+      しかし、同じ破滅属性の我は…
+      うぐっ。ゴホ、ゴホ！
+  d_ex_church_06_101:
+    speaker: "<Monologue>"
+    en: Guillotine covers her mouth with both hands again.
+    ko: 길로틴이 다시 두 손으로 입을 틀어막았다.
+    ja: ギロチンが再び両手で口を塞いだ
+  d_ex_church_06_102:
+    speaker: guillotine
+    en: Urgh... it's embarrassing to reveal my weaknesses to you both.
+    ko: 큭… 못볼 꼴을 보였군.
+    ja: クッ…見苦しいところを見せたな。
+  d_ex_church_06_103:
+    speaker: guillotine
+    en: However, now that we've already come this far, there's only one thing left
+      to do.
+    ko: "이렇게 된 이상 별 수 없다. \n그 [방법]을 쓰는 수밖에."
+    ja: |-
+      こうなった以上、仕方がない。
+      「あれ」を使うしか…
+  d_ex_church_06_104:
+    speaker: guillotine
+    en: I'll need your help, Partner.
+    ko: "…도와라, 벗이여."
+    ja: "…助けを借りたい、友よ。"
+  d_ex_church_06_105:
+    speaker: "<Self>"
+    en: What are you going to do?
+    ko: 뭘 하려고?
+    ja: 何をする気だ？
+  d_ex_church_06_106:
+    speaker: guillotine
+    en: I am going to retrieve the Siren's true name.
+    ko: 세이렌의 [이름]을 받아오는 거다.
+    ja: セイレーンの「名前」を手に入れるのだ。
+  d_ex_church_06_107:
+    speaker: "<Self>"
+    en: I don't understand.
+    ko: 이름?
+    ja: 名前？
+  d_ex_church_06_108:
+    speaker: guillotine
+    en: Allow me to explain.
+    ko: 그래.
+    ja: ああ。
+  d_ex_church_06_109:
+    speaker: guillotine
+    en: Have you ever heard of the idea that addressing a demon by their true name
+      will be their undoing?
+    ko: "악마는 [진명], 즉 그의 진짜 이름을 부르면 \n퇴치된다는 이야기를 들어 봤겠지?"
+    ja: |-
+      悪魔は「真名」、つまり本当の名前を呼ぶと
+      倒せるという話を聞いたことがあるだろう？
+  d_ex_church_06_110:
+    speaker: guillotine
+    en: The principle behind destroying the Siren is one and the same.
+    ko: 세이렌을 퇴치하는 원리도 이와 같다.
+    ja: セイレーンにも同じ原理が通用する。
+  d_ex_church_06_111:
+    speaker: guillotine
+    en: Siren is merely a general appellation; each individual entity also has its
+      own name.
+    ko: "종족명은 세이렌일지언정, \n각 개체가 가진 이름은 따로 있을 터."
+    ja: |-
+      種族名はセイレーンかもしれないが、
+      各個体が持つ名前は別にあるはず。
+  d_ex_church_06_112:
+    speaker: guillotine
+    en: We must get her to write down her name with her own hand.
+    ko: 그걸 그녀 자신의 손으로 받아 적게 하는 것이지.
+    ja: それを彼女自身の手で書かせるのだ。
+  d_ex_church_06_113:
+    speaker: guillotine
+    en: In other words...
+    ko: 즉—
+    ja: つまり――
+  d_ex_church_06_114:
+    speaker: "<Narration>"
+    en: "*Flick*"
+    ko: 팔랑-
+    ja: ガサッ
+  d_ex_church_06_115:
+    speaker: "<Monologue>"
+    en: Guillotine pulls out two pieces of paper and a pen.
+    ko: 길로틴이 품에서 두 장의 종이와 펜을 꺼내 들었다.
+    ja: ギロチンが懐から2枚の紙とペンを取りだした
+  d_ex_church_06_116:
+    speaker: guillotine
+    en: If we get her to imprint her true name, this will lead her down the path of
+      her own demise.
+    ko: 스스로의 [진명]을 각인시켜, [자멸]의 길로 유도한다.
+    ja: |-
+      自らの「真名」を刻印させ、
+      「自滅」を誘う。
+  d_ex_church_06_117:
+    speaker: "<Self>"
+    en: Where did you get such expensive paper?
+    ko: 이렇게 비싼 종이는 또 어디서 구했어?
+    ja: こんな高級な紙、どこで手に入れたんだ？
+  d_ex_church_06_118:
+    speaker: guillotine
+    en: I placed an order through the Merchant Union.
+    ko: 상인 연합을 통해 주문해 뒀다.
+    ja: 商人連合から取り寄せたんだ。
+  d_ex_church_06_119:
+    speaker: guillotine
+    en: Do you think I'd go up against such a treacherous beast without proper preparation?
+    ko: 아무려면 이 내가, 아무런 준비도 없이 위험한 존재와 마주하려 들 었겠나?
+    ja: |-
+      我が何の準備もなく、
+      危険な存在に立ち向かうはずなかろう？
+  d_ex_church_06_120:
+    speaker: "<Self>"
+    en: "... I see."
+    ko: "…그렇군."
+    ja: "…そうか"
+  d_ex_church_06_121:
+    speaker: guillotine
+    en: Now then, enough explanations.
+    ko: "…그래."
+    ja: "…ああ。"
+  d_ex_church_06_122:
+    speaker: guillotine
+    en: It's time to act.
+    ko: 그럼 이제 설명은 멈추고, 행동할 시간이다.
+    ja: 説明はこの程度にして、行動に移そう。
+  d_ex_church_06_123:
+    speaker: guillotine
+    en: I wish you luck.
+    ko: 건투를 빌지.
+    ja: 健闘を祈る。
+  d_ex_church_06_124:
+    speaker: mast
+    en: "..."
+    ko: "…음."
+    ja: "…うーん。"
+  d_ex_church_06_125:
+    speaker: mast
+    en: I don't know about this.
+    ko: 솔직히 난 잘 모르겠수다.
+    ja: 正直、よく分かんねえや。
+  d_ex_church_06_126:
+    speaker: mast
+    en: Do you think this will actually work, Captain?
+    ko: 정말 이런 게 세이렌 퇴치에 효과가 있을까요, 선장 양반?
+    ja: |-
+      船長さん、本当にこんなのが
+      セイレーンの退治に役立つのか？
+  d_ex_church_06_127:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_06_128:
+    speaker: "<Self>"
+    en: I suppose I'll give it a shot.
+    ko: 일단 내가 알아서 해볼게….
+    ja: ひとまず、私が何とかするから…
+  d_ex_church_06_129:
+    speaker: "<Monologue>"
+    en: I stand up and move out from behind the bench towards the "Siren".
+    ko: |-
+      장의자 뒤에 쭈그리고 있던 몸을 일으켜,
+      [세이렌]에게 다가갔다.
+    ja: |-
+      長椅子の後ろから立ち上がり、
+      「セイレーン」に近づいた
+  d_ex_church_06_130:
+    speaker: aria
+    en: "?"
+    ko: "…??"
+    ja: "…？？"
+  d_ex_church_06_131:
+    speaker: aria
+    en: Maestro? I didn't know you were here.
+    ko: 여기 있는 줄 몰랐어, 세뇨르.
+    ja: いたの？セニョール。
+  d_ex_church_06_132:
+    speaker: aria
+    en: If I knew I wasn't alone, I wouldn't have sung.
+    ko: 사람이 있는 줄 알았다면 노래하지 않았을 텐데.
+    ja: いると分かってたら歌わなかったのに。
+  d_ex_church_06_133:
+    speaker: aria
+    en: I didn't disrupt your praying, did I?
+    ko: 혹시 내 노래가 기도를 방해한 거야?
+    ja: 私の歌が祈りの邪魔をしちゃったかしら？
+  d_ex_church_06_134:
+    speaker: "<Self>"
+    en: No, not at all.
+    ko: "…음, 그런 건 아닌데."
+    ja: "…いや、そうじゃない"
+  d_ex_church_06_135:
+    speaker: "<Self>"
+    en: Actually, could I ask you to sign these for me?
+    ko: 혹시 사인 두 장만 부탁할 수 있을까?
+    ja: あの、サインを2枚頼めないか？
+  d_ex_church_06_136:
+    speaker: aria
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_church_06_137:
+    speaker: mast
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_church_06_138:
+    speaker: "<Self>"
+    en: I met one of your fans who wanted your autograph,
+    ko: 너한테 직접 오긴 부끄럽다면서,
+    ja: 直接書いてもらうのは恥ずかしいからって
+  d_ex_church_06_139:
+    speaker: "<Self>"
+    en: but she was too shy to come and ask you herself.
+    ko: 나한테 사인을 받아와 달라는 사람이 있거든.
+    ja: 私にサインを頼んだ人がいるんだ
+  d_ex_church_06_140:
+    speaker: aria
+    en: I see.
+    ko: 음, 그랬구나.
+    ja: あら、そうだったのね。
+  d_ex_church_06_141:
+    speaker: aria
+    en: I typically only do autographs during signing events,
+    ko: 사인회 때 외에는 이런 요청 잘 안 받고 있지만.
+    ja: |-
+      サイン会以外では
+      あまり書かないようにしているけど、
+  d_ex_church_06_142:
+    speaker: aria
+    en: but if they're friends of yours, I don't see any reason why I can't make an
+      exception for you.
+    ko: 세뇨르의 지인이라면 못 해줄 것도 없지.
+    ja: セニョールの知り合いなら別よ。
+  d_ex_church_06_143:
+    speaker: "<Monologue>"
+    en: Aria grabs the sheets of paper and scrawls her signature with a flourish.
+    ko: "종이를 받아든 아리아는, \n유려한 글씨체로 그 위에 사인을 했다."
+    ja: |-
+      紙を受け取ったアリアは、
+      美しい字でその上にサインをした
+  d_ex_church_06_144:
+    speaker: "<Narration>"
+    en: "*Scratch scratch*"
+    ko: 사각, 사각.
+    ja: サラ、サラ
+  d_ex_church_06_145:
+    speaker: aria
+    en: Who should I make this out to?
+    ko: 받는 사람의 이름은 뭘로 할까?
+    ja: 宛名は何にする？
+  d_ex_church_06_146:
+    speaker: "<Self>"
+    en: Guillotine.
+    ko: 길로틴.
+    ja: ギロチン
+  d_ex_church_06_147:
+    speaker: "<Self>"
+    en: Sorry, make that Guillotine de Mephisto.
+    ko: "…아니, 가능하면 [길로틴 드 메피스토]로 부탁해."
+    ja: |-
+      …いや、できたら
+      「ギロチン・デ・メフィスト」で頼む
+d_ex_church_07:
+  d_ex_church_07_1:
+    speaker: "<Monologue>"
+    en: Rouge has predicted that today is going to be an unlucky day, so she’s feeling
+      really anxious.
+    ko: 오늘 루주가 점친 자신의 운세는 [불운].
+    ja: 今日のルージュの運は「悪い」と出たようで…
+  d_ex_church_07_2:
+    speaker: "<Monologue>"
+    en: That's why I brought her to the Church.
+    ko: 불안해하는 루주를 데리고 교회로 왔다.
+    ja: 不安そうなルージュを連れて、教会に来た
+  d_ex_church_07_3:
+    speaker: "<Monologue>"
+    en: I’m hoping that if we pray here, it might help her feel a little better.
+    ko: 이곳에서 기도라도 올리면 좀 나아지겠지.
+    ja: |-
+      ここで祈りでも捧げれば
+      少しは気がまぎれるだろう
+  d_ex_church_07_4:
+    speaker: rouge
+    en: Mmmm...
+    ko: 후우….
+    ja: ふう…
+  d_ex_church_07_5:
+    speaker: rouge
+    en: It's certainly nice and quiet in here.
+    ko: 확실히 한적하고 좋네요.
+    ja: 静かでいいですね。
+  d_ex_church_07_6:
+    speaker: "<Self>"
+    en: Do you feel better?
+    ko: 어때, 좀 나아진 것 같아?
+    ja: どうだ？少しはマシになったか？
+  d_ex_church_07_7:
+    speaker: rouge
+    en: Yes, I think so.
+    ko: 네, 그런 것 같아요.
+    ja: はい、おかげさまで。
+  d_ex_church_07_8:
+    speaker: rouge
+    en: I feel much calmer, somehow.
+    ko: 뭔가… 조금씩 마음이 안정되는 기분이에요.
+    ja: |-
+      なんだか…徐々に気持ちが
+      落ち着いてきました。
+  d_ex_church_07_9:
+    speaker: rouge
+    en: I think I understand why some people turn to religion.
+    ko: 사람들이 왜 종교를 가지는지 알 것 같은 기분이랄까요.
+    ja: |-
+      人がなぜ信仰を持つのか
+      分かるような気がします。
+  d_ex_church_07_10:
+    speaker: "<Self>"
+    en: I'm glad to hear that.
+    ko: 그렇다면 다행이다.
+    ja: それならよかった
+  d_ex_church_07_11:
+    speaker: unknown
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_church_07_12:
+    speaker: unknown
+    en: M-my prayers have finally been heard!
+    ko: 드, 드디어 제 기도가 닿았군요!
+    ja: つ…ついに私の祈りが届いたのですね！
+  d_ex_church_07_13:
+    speaker: unknown
+    en: Ahhh, thank you, thank you...
+    ko: 아아, 감사합니다, 감사합니다….
+    ja: あ…ありがとうございます…
+  d_ex_church_07_14:
+    speaker: rouge
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_church_07_15:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_church_07_16:
+    speaker: maiden
+    en: You've finally shown yourself to me...
+    ko: 드디어 제게 모습을 드러내 주시다니….
+    ja: ついに私の前にお姿を現してくださるなんて…
+  d_ex_church_07_17:
+    speaker: "<Self>"
+    en: Maiden?
+    ko: 메이든?
+    ja: メイデン？
+  d_ex_church_07_18:
+    speaker: "<Self>"
+    en: What are you doing here?
+    ko: 여기에서 뭐 해?
+    ja: ここで何してるんだ？
+  d_ex_church_07_19:
+    speaker: maiden
+    en: I was deep in prayer.
+    ko: 기도를 올리고 있었어요.
+    ja: 祈りを捧げていました。
+  d_ex_church_07_20:
+    speaker: "<Self>"
+    en: What kind of prayer?
+    ko: 무슨 기도?
+    ja: "…どんな祈りだ？"
+  d_ex_church_07_21:
+    speaker: maiden
+    en: To help me acquire the newly added legendary weapon.
+    ko: 이번에 새로 추가된 전설 무기를 얻게 해 달라고요.
+    ja: |-
+      今回新たに追加された伝説の武器が
+      手に入りますように…と祈っていたんです。
+  d_ex_church_07_22:
+    speaker: maiden
+    en: Everyone seems to have acquired it except me.
+    ko: |-
+      다른 분들은 다 얻은 것 같은데,
+      저만 없는 것 같아서요.
+    ja: |-
+      他の方々はすでに手に入れたようなのですが、
+      私だけまだなので。
+  d_ex_church_07_23:
+    speaker: "<Self>"
+    en: Do you really think praying will make it happen?
+    ko: 기도한다고 그게 나올까?
+    ja: 祈れば手に入るものなのか？
+  d_ex_church_07_24:
+    speaker: maiden
+    en: Of course.
+    ko: 그럼요.
+    ja: もちろんです。
+  d_ex_church_07_25:
+    speaker: maiden
+    en: As you can see, the God of Games herself is in front of me.
+    ko: 보시다시피 게임의 신이 제 앞에 오셨잖아요?
+    ja: |-
+      ご覧のとおりゲームの神が
+      降臨されましたから。
+  d_ex_church_07_26:
+    speaker: rouge
+    en: God of Games?
+    ko: 게임의 신이요?
+    ja: ゲームの神…ですか？
+  d_ex_church_07_27:
+    speaker: rouge
+    en: Who are you talking about...
+    ko: 누구를 말씀하시는 건지….
+    ja: いったい誰のことをおっしゃっているのか…
+  d_ex_church_07_28:
+    speaker: maiden
+    en: Hmm?
+    ko: 네?
+    ja: はい？
+  d_ex_church_07_29:
+    speaker: maiden
+    en: Are you not, Rouge, the God of Games?
+    ko: 게임의 신 루주… 아니신가요?
+    ja: |-
+      ゲームの神、ルージュ様で
+      いらっしゃいますよね？
+  d_ex_church_07_30:
+    speaker: maiden
+    en: I believe I've seen you on TV before.
+    ko: TV에서 본 적이 있는 것 같아요.
+    ja: TVで拝見したことがあります。
+  d_ex_church_07_31:
+    speaker: rouge
+    en: I'm sorry, but I think you might be mistaken.
+    ko: "…저는 게임 마스터인데요?"
+    ja: "…私はゲームマスターですが。"
+  d_ex_church_07_32:
+    speaker: rouge
+    en: I'm just a Game Master.
+    ko: 뭔가 착각하신 게 아니실지….
+    ja: 何か勘違いをされているのでは？
+  d_ex_church_07_33:
+    speaker: maiden
+    en: It's the same thing.
+    ko: 그게 그거죠.
+    ja: そう、それです。
+  d_ex_church_07_34:
+    speaker: maiden
+    en: Do they not both have a similar meaning?
+    ko: 어차피 둘 다 비슷한 의미 아닌가요?
+    ja: どっちも同じようなものでしょう？
+  d_ex_church_07_35:
+    speaker: "<Self>"
+    en: Not at all.
+    ko: 전혀 아니야.
+    ja: 全く違う
+  d_ex_church_07_36:
+    speaker: maiden
+    en: Ahem, anyway.
+    ko: 크흠, 어쨌든.
+    ja: コホン…とにかく。
+  d_ex_church_07_37:
+    speaker: maiden
+    en: Rouge, if you would,
+    ko: 자, 루주.
+    ja: さあ、ルージュ様。
+  d_ex_church_07_38:
+    speaker: maiden
+    en: please grant my wish.
+    ko: 빨리 제 소원을 들어주세요.
+    ja: 早く私の願いを叶えてください。
+  d_ex_church_07_39:
+    speaker: rouge
+    en: What? I...
+    ko: 네? 그렇게 말하셔도….
+    ja: はい？そんなことをおっしゃられても…
+  d_ex_church_07_40:
+    speaker: maiden
+    en: Can you not do it?
+    ko: 못 해주시나요…?
+    ja: 私の願いを叶えてくださらないのですか…？
+  d_ex_church_07_41:
+    speaker: rouge
+    en: I'm not a god.
+    ko: 으음… 저는 신이 아닌걸요.
+    ja: うーん…私は神ではありませんので…
+  d_ex_church_07_42:
+    speaker: maiden
+    en: Y-you're not?
+    ko: 네…? 시, 신이 아니시라고요?
+    ja: はい…？か、神様ではないのですか？
+  d_ex_church_07_43:
+    speaker: maiden
+    en: Say it isn't so... Ugh, the heavens have forsaken me...
+    ko: 아아… 결국 하늘이 저를 버린 거군요….
+    ja: ああ…神は私を見捨てたのですね…
+  d_ex_church_07_44:
+    speaker: maiden
+    en: Even though I prayed with such devotion.
+    ko: 그렇게 간절하게 기도를 드렸는데….
+    ja: しっかりと祈りを捧げたのに…
+  d_ex_church_07_45:
+    speaker: rouge
+    en: "... I may not be able to grant your wish, but I can take a look at your fortune
+      for today."
+    ko: |-
+      …제가 소원을 들어드리긴 힘들지만,
+      오늘의 운세를 봐 드릴 순 있어요.
+    ja: |-
+      願いは叶えてあげられませんが、
+      今日の運勢を見てさしあげることはできます。
+  d_ex_church_07_46:
+    speaker: rouge
+    en: Would you like that?
+    ko: 한번 해보시겠어요?
+    ja: いかがでしょう？
+  d_ex_church_07_47:
+    speaker: maiden
+    en: My fortune?
+    ko: "…운세요?"
+    ja: "…運勢ですか？"
+  d_ex_church_07_48:
+    speaker: maiden
+    en: Very well.
+    ko: |-
+      뭐, 좋아요.
+      아무것도 안 하는 것보단 낫겠죠.
+    ja: |-
+      分かりました。
+      何もしないよりはいいですよね。
+  d_ex_church_07_49:
+    speaker: maiden
+    en: It's better than nothing.
+    ko: 부탁드릴게요.
+    ja: お願いします。
+  d_ex_church_07_50:
+    speaker: "<Narration>"
+    en: "*Swoosh*"
+    ko: 스윽-
+    ja: スッ
+  d_ex_church_07_51:
+    speaker: "<Monologue>"
+    en: Rouge takes out a coin from her pocket.
+    ko: 루주는 품속에서 동전을 꺼냈다.
+    ja: ルージュは胸元からコインを取り出した
+  d_ex_church_07_52:
+    speaker: rouge
+    en: I'll test your luck.
+    ko: 메이든의 운을 시험하도록 할게요.
+    ja: メイデンの運を試しますね。
+  d_ex_church_07_53:
+    speaker: "<Narration>"
+    en: "*Clink*"
+    ko: 팅-
+    ja: ピンッ
+  d_ex_church_07_54:
+    speaker: "<Monologue>"
+    en: Rouge flips the coin, which flies into the air and lands back on her hand.
+    ko: |-
+      루주의 손을 떠난 동전은 공중에서
+      회전하다 다시 돌아왔다.
+    ja: |-
+      ルージュの手を離れたコインは空中で回転し
+      再び手の中に戻ってきた
+  d_ex_church_07_55:
+    speaker: "<Narration>"
+    en: "*Tap*"
+    ko: 탁-
+    ja: パシッ
+  d_ex_church_07_56:
+    speaker: rouge
+    en: Heads or tails?
+    ko: 맞춰 보시겠어요?
+    ja: 当ててみてください。
+  d_ex_church_07_57:
+    speaker: rouge
+    en: If you guess right,
+    ko: 이 동전의 어느 쪽 면이 위를 향해있을지.
+    ja: |-
+      コインのどちら側が
+      上を向いているか。
+  d_ex_church_07_58:
+    speaker: rouge
+    en: today will be a lucky day for you.
+    ko: 맞추신다면 오늘은 운이 좋은 날.
+    ja: 当たれば、今日は運がいい日。
+  d_ex_church_07_59:
+    speaker: rouge
+    en: If not, then it will be an unlucky day.
+    ko: 맞추지 못하신다면 운이 별로인 날이겠죠.
+    ja: 外れたら、運が悪い日です。
+  d_ex_church_07_60:
+    speaker: rouge
+    en: Now, choose.
+    ko: 자, 선택해 주세요.
+    ja: さあ、選んでください。
+  d_ex_church_07_61:
+    speaker: maiden
+    en: "*Gulp*"
+    ko: 꿀꺽-
+    ja: ゴクッ
+  d_ex_church_07_62:
+    speaker: maiden
+    en: I-I'll go with heads!
+    ko: 아, 앞면으로 할게요!
+    ja: おっ、表にします！
+  d_ex_church_07_63:
+    speaker: maiden
+    en: Heads!
+    ko: 앞면!
+    ja: 表！
+  d_ex_church_07_64:
+    speaker: rouge
+    en: Very well. Let's see.
+    ko: |-
+      후후, 알겠습니다.
+      확인하도록 할게요.
+    ja: |-
+      ふふっ、分かりました。
+      確認しましょう。
+  d_ex_church_07_65:
+    speaker: "<Monologue>"
+    en: Rouge slowly opens her hand.
+    ko: 루주는 조심스레 동전을 쥐고 있는 손을 펼쳤다.
+    ja: ルージュはコインを握った手を慎重に広げた
+  d_ex_church_07_66:
+    speaker: rouge
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_07_67:
+    speaker: rouge
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_07_68:
+    speaker: maiden
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_07_69:
+    speaker: "<Self>"
+    en: It's heads.
+    ko: 오, 앞면이다.
+    ja: あっ、表だ
+  d_ex_church_07_70:
+    speaker: maiden
+    en: Does that mean I'll able to acquire the legendary weapon?
+    ko: 이제 저, 전설 무기 얻을 수 있는 건가요?
+    ja: |-
+      ということは、私は伝説の武器を
+      手に入れられるのでしょうか？
+  d_ex_church_07_71:
+    speaker: rouge
+    en: I... I'm not sure about that.
+    ko: |-
+      확실하진 않겠죠…
+      그건 확률의 영역.
+    ja: |-
+      どうでしょう…
+      それは確率の領域ですので。
+  d_ex_church_07_72:
+    speaker: rouge
+    en: Even if there is a success rate of 99%, there is still a 1% chance of failure.
+    ko: |-
+      99퍼센트의 성공 확률이 있어도
+      단 1퍼센트 때문에 실패하는 게 확률이니까요.
+    ja: |-
+      成功率が99パーセントでも
+      1パーセントは失敗するのが確率です。
+  d_ex_church_07_73:
+    speaker: maiden
+    en: Whoa! Thank you, Rouge!
+    ko: 와아~ 고마워요. 루주!
+    ja: ありがとうございます、ルージュ！
+  d_ex_church_07_74:
+    speaker: maiden
+    en: I can finally acquire it!
+    ko: 드디어 저도 얻을 수 있는 거군요!
+    ja: ついに私も…！
+  d_ex_church_07_75:
+    speaker: "<Self>"
+    en: "... I see you've perfected selective hearing."
+    ko: "…듣고 싶은 대로만 듣고 있어."
+    ja: 都合のいいことしか聞こえないみたいだな
+  d_ex_church_07_76:
+    speaker: rouge
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_07_77:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 띠링-
+    ja: ピロン
+  d_ex_church_07_78:
+    speaker: rouge
+    en: Are you going to do it right now?
+    ko: 지금 바로 하시는 건가요?
+    ja: さっそくゲームをなさるのですか？
+  d_ex_church_07_79:
+    speaker: maiden
+    en: Of course!
+    ko: 그럼요!
+    ja: もちろんです！
+  d_ex_church_07_80:
+    speaker: maiden
+    en: I had it turned on for a moment exactly like this.
+    ko: 이 순간을 위해서 미리 켜놓고 있었답니다?
+    ja: |-
+      この時のために、あらかじめ
+      電源をつけておいたんですよ。
+  d_ex_church_07_81:
+    speaker: "<Monologue>"
+    en: Maiden takes out her game and starts exploring the dungeon.
+    ko: 메이든은 게임기를 꺼내 던전을 돌기 시작했다.
+    ja: |-
+      メイデンはゲーム機を取り出し、
+      ダンジョンを回り始めた
+  d_ex_church_07_82:
+    speaker: "<Self>"
+    en: That was fast.
+    ko: 빠르네.
+    ja: はやいな
+  d_ex_church_07_83:
+    speaker: maiden
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_07_84:
+    speaker: rouge
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_07_85:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_07_86:
+    speaker: maiden
+    en: Please...
+    ko: 제발….
+    ja: お願いします…
+  d_ex_church_07_87:
+    speaker: maiden
+    en: "...?!"
+    ko: "…?!"
+    ja: "…！？"
+  d_ex_church_07_88:
+    speaker: maiden
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_church_07_89:
+    speaker: maiden
+    en: I-it...
+    ko: "…나, 나."
+    ja: で、でで…
+  d_ex_church_07_90:
+    speaker: rouge
+    en: Yes?
+    ko: 나…?
+    ja: で…？
+  d_ex_church_07_91:
+    speaker: maiden
+    en: I-i-it appeared!
+    ko: 나, 나, 나왔어요!!!
+    ja: 出ました！！
+  d_ex_church_07_92:
+    speaker: rouge
+    en: Congratulations, Maiden.
+    ko: 축하드려요, 메이든.
+    ja: おめでとうございます、メイデン。
+  d_ex_church_07_93:
+    speaker: maiden
+    en: Rouge!
+    ko: 루주!
+    ja: ルージュ！
+  d_ex_church_07_94:
+    speaker: "<Narration>"
+    en: "*Hug*"
+    ko: 와락-
+    ja: ガバッ
+  d_ex_church_07_95:
+    speaker: "<Monologue>"
+    en: Maiden tightly hugs Rouge.
+    ko: 메이든이 루주의 품에 안겼다.
+    ja: メイデンはルージュを抱きしめた
+  d_ex_church_07_96:
+    speaker: maiden
+    en: Thank you so much!
+    ko: 정말 고마워요!
+    ja: 本当にありがとうございます！
+  d_ex_church_07_97:
+    speaker: maiden
+    en: You're definitely the God of Games!
+    ko: 역시 루주는 게임의 신이 맞았군요!
+    ja: やっぱりルージュはゲームの神だわ！
+  d_ex_church_07_98:
+    speaker: rouge
+    en: Hehe, I'm not sure I'd go that far.
+    ko: 하하… 신이랄 것까지야….
+    ja: そ…そんな大げさな…
+  d_ex_church_07_99:
+    speaker: rouge
+    en: All I did was read your fortune.
+    ko: 그냥 운세만 점쳐준 건데요, 뭘.
+    ja: 私はただ運勢を占っただけです。
+  d_ex_church_07_100:
+    speaker: rouge
+    en: You just happen to have good luck today.
+    ko: 오늘 메이든의 운이 좋았던 것뿐이죠.
+    ja: 今日のメイデンの運がよかったんですよ。
+  d_ex_church_07_101:
+    speaker: maiden
+    en: Now I don't have to worry whenever a new piece of equipment comes out!
+    ko: 이제 새로운 장비가 나올 때마다 걱정이 없겠어요!
+    ja: |-
+      これからは新しい装備が出ても
+      心配しないで済みます！
+  d_ex_church_07_102:
+    speaker: maiden
+    en: You'll be here to help me!
+    ko: 루주가 저희를 도와주실 테니까요!
+    ja: 私たちにはルージュがついていますから！
+  d_ex_church_07_103:
+    speaker: "<Self>"
+    en: "... I can sense this conversation quickly turning south."
+    ko: "…뭔가 대화가 엇나가는 느낌인데."
+    ja: |-
+      なんだか…会話が
+      噛み合ってない気がするのだが
+  d_ex_church_07_104:
+    speaker: maiden
+    en: I'll tell my other party members as well!
+    ko: 저희 파티원 분들께도 말씀드려 놓을게요!
+    ja: パーティのみんなにも伝えておきます！
+  d_ex_church_07_105:
+    speaker: rouge
+    en: Huh?
+    ko: 네?
+    ja: はい？
+  d_ex_church_07_106:
+    speaker: maiden
+    en: Is it okay if we ask for your help in the future?
+    ko: 그때마다 종종 부탁드려도 되죠?
+    ja: その時はお願いしてもいいですよね？
+  d_ex_church_07_107:
+    speaker: rouge
+    en: Um... that might not be terribly convenient for me.
+    ko: 으음… 그건 좀 곤란할 수도 있겠어요.
+    ja: うーん…それはちょっと困ってしまうのですが…
+  d_ex_church_07_108:
+    speaker: maiden
+    en: Oh no, Rouge.
+    ko: 아뇨, 루주.
+    ja: いいえ、ルージュ。
+  d_ex_church_07_109:
+    speaker: maiden
+    en: You must not deny your power.
+    ko: 당신의 재능을 부정하지 말아 주세요.
+    ja: |-
+      あなたには才能があります。
+      自信を持ってください。
+  d_ex_church_07_110:
+    speaker: maiden
+    en: You proved it to me today!
+    ko: 오늘 제게 증명하셨잖아요!
+    ja: 今日、それが証明されたじゃないですか！
+  d_ex_church_07_111:
+    speaker: maiden
+    en: You proved your omnipotence as the God of Games!
+    ko: 게임의 신으로서의 전능함을!
+    ja: ゲームの神としての力が！
+  d_ex_church_07_112:
+    speaker: rouge
+    en: Did you not hear me when I said it was based on probability?
+    ko: |-
+      메이든, 결국 확률이라고 말씀드린 거,
+      잊지 않으셨죠…?
+    ja: |-
+      メイデン、結局は確率の問題だと
+      申し上げたこと、
+      忘れていないですよね…？
+  d_ex_church_07_113:
+    speaker: rouge
+    en: You really should listen to what I'm trying to tell you...
+    ko: 그리고 제 말도 좀 들어주….
+    ja: それから、私の話も少しは聞いてくださ…
+  d_ex_church_07_114:
+    speaker: maiden
+    en: Oh boy, everyone's gonna be so excited!
+    ko: 와~ 다들 기대 많이 하시겠죠?
+    ja: みんな驚くでしょうね？
+  d_ex_church_07_115:
+    speaker: maiden
+    en: After you read their fortunes, they'll all be able to acquire legendary weapons!
+    ko: 루주의 행운점을 보면 전설 장비가 무조건 뜬다니!
+    ja: |-
+      ルージュに運勢を見てもらえば、
+      伝説の装備が絶対に出るなんて！
+  d_ex_church_07_116:
+    speaker: maiden
+    en: I'll visit you with my party members after the next patch.
+    ko: |-
+      그럼, 다음 패치 때 저희 파티원 분들이랑
+      같이 찾아뵐게요!
+    ja: |-
+      それでは、次のアプデの時、
+      パーティのみんなと一緒に
+      お伺いしますね！
+  d_ex_church_07_117:
+    speaker: maiden
+    en: See you!
+    ko: 안녕히 계세요~
+    ja: さようなら～
+  d_ex_church_07_118:
+    speaker: "<Monologue>"
+    en: The Maiden speaks her mind and then just leaves, completely ignoring Rouge's
+      words and reactions.
+    ko: 메이든은 자기 할 말만 하고 떠나버렸다.
+    ja: |-
+      メイデンは言いたいことだけを言って
+      立ち去った
+  d_ex_church_07_119:
+    speaker: rouge
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_07_120:
+    speaker: "<Self>"
+    en: Are you okay, Rouge?
+    ko: 루주… 괜찮아?
+    ja: ルージュ…大丈夫か？
+  d_ex_church_07_121:
+    speaker: "<Monologue>"
+    en: It's at that moment that Rouge remembers
+    ko: 루주는 마지막 순간에 떠올렸다.
+    ja: この時、ルージュは思い出した
+  d_ex_church_07_122:
+    speaker: "<Monologue>"
+    en: today was meant to be an unlucky day for her.
+    ko: 오늘은 아직 [불운]한 날이라는것을….
+    ja: |-
+      今日は自分の運勢が
+      悪い日であるということを…

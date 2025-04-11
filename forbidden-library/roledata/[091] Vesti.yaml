@@ -1,0 +1,708 @@
+---
+91_name:
+  en: Vesti
+  ko: 베스티
+  ja: ベスティー
+c091_description:
+  en: A timid girl who is a crybaby. Despite this, she is actually said to be Absolute's
+    strongest ace member.
+  ko: "눈물도, 겁도 많은 심약한 소녀. \n하지만 실상은 최강이라 불리는 앱솔루트 스쿼드의 에이스 멤버."
+  ja: |-
+    泣き虫で怖がりな気の弱い少女。
+    しかし、実は最強と呼ばれる
+    アブソルート部隊のエースメンバー。
+91_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50091:
+  en: Vesti's Spare Body
+  ko: 베스티 스페어 바디
+  ja: ベスティーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20912_name:
+  en: Survival Instinct
+  ko: 생존본능
+  ja: 生存本能
+20912_description:
+  en: |-
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Additional effects triggered according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: Survival Instinct 1 - ATK ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: Survival Instinct 2 - Critical Damage ▲ {description_value_03}% for {description_value_04} sec.
+    Three times: Survival Instinct 3 - Critical Rate ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[사용 횟수 별 추가 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
+    1 회 : [생존본능 1: 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
+    2 회 : [생존본능 2: 크리티컬 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
+    3 회 : [생존본능 3: 크리티컬 확률 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「使用回数別の追加効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「生存本能1：攻撃力{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    2回：「生存本能2：クリティカルダメージ
+    {description_value_03}％▲」「{description_value_04}秒間維持」
+    3回：「生存本能3：クリティカル確率
+    {description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20911_name:
+  en: Dreams Do Come True
+  ko: 상상실현
+  ja: 想像の実現
+20911_description_1:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Explosion Radius ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[폭발 범위 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「爆発範囲{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10913_name:
+  en: Justifiable Defense
+  ko: 정당방위
+  ja: 正当防衛
+10913_description_1:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Takes out two Missile Containers, dealing {description_value_01}% of <word_group=10025>final</word_group> ATK as damage to the enemy with the lowest remaining HP every 1 sec for 18 sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Additional effects triggered according to the Survival Instinct's phase. <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Survival Instinct 1: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.
+    Survival Instinct 2: Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.
+    Survival Instinct 3: Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Full Burst Time ▼ 5 sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[미사일 컨테이너 2기 호출] :
+    기능 : 남은 체력 수치가 가장 낮은 적에게 <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
+    공격 간격 : 1초
+    유지 시간 : 18초</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[생존본능 단계 별 추가 효과] [<word_group=10028>하위 효과 중복 적용</word_group>] :
+    생존본능 1 : [<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]
+    생존본능 2 : [<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지]
+    생존본능 3 : [<word_group=10025>최종</word_group> 공격력 {description_value_04}% 추가 대미지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[풀 버스트 타임 지속 시간 5초 ▼]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「ミサイルコンテナ2機呼び出し」：
+    機能：残りのHPの数値が最も低い敵に<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+    攻撃間隔：1秒
+    維持時間：18秒</color>
+    ■敵全体に
+    <color=#00AEFF>「生存本能段階別の追加効果」「<word_group=10028>下位効果のスタック適用</word_group>」：
+    生存本能1：
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」
+    生存本能2：
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の追加ダメージ」
+    生存本能3：「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の追加ダメージ」</color>■味方全体に<color=#00AEFF>「フルバーストタイム5秒▼」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+90_name:
+  en: Emma
+  ko: 엠마
+  ja: エマ
+92_name:
+  en: Eunhwa
+  ko: 은화
+  ja: ウンファ
+c091_Lobby_Touch_1:
+  en: Err... C-can you teach me how to make friends?
+  ko: 치, 친구 사귀는 법 알려주는 거야?
+  ja: と、友だちを作る方法を教えてくれるの？
+c091_Lobby_Touch_2:
+  en: What am I good at? Hmm... Killing?
+  ko: 내가 잘하는 게 뭐냐고? 음… 죽이기?
+  ja: |-
+    私が得意なこと？
+    う～ん…殺すこと？
+c091_Lobby_Touch_3:
+  en: I don't care if you're my Commander. I won't let you make fun of me and call
+    me a crybaby!
+  ko: "…우, 울보라고 놀렸다간 가만 안 둬. \n아무리 지휘관 님이라도."
+  ja: |-
+    …な、泣き虫ってからかったらただじゃおかないから。
+    たとえ指揮官様でも。
+c091_Lobby_Touch_Love_1:
+  en: C-Commander, do you remember what was written down in my diary?
+  ko: 지, 지휘관. 내 다이어리 내용 아직도 기억하고 있어?
+  ja: し、指揮官、私のダイアリーの内容、まだ覚えてる？
+c091_Lobby_Touch_Love_2:
+  en: I've been laughing non-stop recently... What is happening to me?
+  ko: 요즘… 그냥 하루 종일 웃음이 나와… 왜, 왜 이러지 나?
+  ja: |-
+    最近…わけもなく一日中笑っちゃうの…
+    私、ど、どうしたんだろう？
+c091_Lobby_Touch_Love_3:
+  en: C-can you take me to watch a movie again?
+  ko: 나, 나랑 또 영화 보러 가주면 안 돼?
+  ja: わ、私と一緒にまた映画観に行ってくれない？
+c091_Lobby_Stay_1:
+  en: Co... Commander... Commander?
+  ko: 지, 지휘관… 지휘관?
+  ja: し、指揮官…指揮官？
+c091_Lobby_Stay_Love_1:
+  en: I can't believe this, the Commander deserted me again!
+  ko: 나빴어 지휘관… 나, 나만 두고 사라지다니….
+  ja: |-
+    指揮官のバカ…
+    わ、私を置いていなくなっちゃうなんて…
+c091_Outpost_Touch_1:
+  en: Did you know that there are all sorts of scary rumors about the armory?
+  ko: 그거 알아? 무기고에는 어, 엄청 무서운 괴담이 있다는 거….
+  ja: |-
+    聞いたことある？
+    武器庫にはす、すごく怖い 怪談があって…
+c091_Outpost_Touch_2:
+  en: Dear diary, today I spoke to the Commander longer than ever before. Two whole
+    sentences! Not bad, huh?
+  ko: "…내 귀여운 일기장, 키티에게. \n오, 오늘 지휘관 님이랑 한 마디 이상 나눴어. 대단하지?"
+  ja: |-
+    …私のかわいい日記帳、ミニーへ。
+    きょ、今日指揮官様と 一言以上言葉を交わせたの。 すごいでしょ？
+c091_Outpost_Touch_3:
+  en: Every day, I imagine all the ways I'd love to get back at my tormentors... It's
+    the only thing that gives me inner peace.
+  ko: 매일 다, 다른 방식으로 날 괴롭힌 사람을 죽이는 상상을 해. …그러면 마음이 아주 편해지거든.
+  ja: |-
+    毎日ち、違う方法で 私をいじめた人を 殺す想像をするの…
+    そうすると気持ちが すごく落ち着くの。
+c091_Gacha_Get_1:
+  en: No, please don't treat me like this... I don't know what I'll end up doing.
+  ko: "나, 날 괴롭히지 마… \n나도 어떻게 될지 모르니까."
+  ja: |-
+    わ、私のこといじめないで…
+    私だってどうなるか分からないから。
+c091_Reinforce_1:
+  en: Th-thank you for standing up for me!
+  ko: 지, 지원해 줘서 고마워!
+  ja: |-
+    サ、サポートしてくれて
+    ありがとう！
+c091_Reinforce_2:
+  en: I... seem to be getting stronger.
+  ko: "…더 강해진 것 같아."
+  ja: "…もっと強くなったみたい。"
+c091_Reinforce_3:
+  en: Will I be able to kill people more easily from now on?
+  ko: 앞으로 더 쉽게 죽일 수 있겠지?
+  ja: これからはもっと楽に殺せるのよね？
+c091_Gift_1:
+  en: Is... Is it for me? Really?
+  ko: 나, 나한테 주는 거야? 정말?
+  ja: わ、私にくれるの？本当？
+c091_Gift_2:
+  en: "... I feel happy."
+  ko: "……기뻐."
+  ja: "……嬉しい。"
+c091_Gift_3:
+  en: Do friends often give each other things like this?
+  ko: 친구끼린 이런 것도 주고받는구나….
+  ja: 友だち同士ってこういうこともするんだね…
+c091_Attractive_Up_1:
+  en: So... does that mean we've become closer friends? Actually... I wish we were
+    closer than this.
+  ko: |-
+    이, 이걸로 더 친한 친구가 된 거지, 우리?
+    아니, 사실은… 그 이상이었으면 좋겠어.
+  ja: |-
+    こ、これでもっと友情が深まったんだよね？
+    あ、本当のこと言うと…それ以上の関係になれたらいいなって。
+c091_Attractive_Up_2:
+  en: What to do... I miss the Commander even when we see each other all the time.
+  ko: 어떡해… 봐, 봐도 봐도 또 보고 싶어.
+  ja: |-
+    どうしよう…
+    会いたくてしょうがないの。
+c091_Attractive_Up_3:
+  en: Is... is this feeling... love?
+  ko: 이, 이거 좋아하는 감정일까…?
+  ja: こ、これが恋ってやつ…？
+c091_Party_Deploy_1:
+  en: J-just leave it to me!
+  ko: 마, 맡겨만 줘!
+  ja: ま、任せて！
+c091_Field_Touch_1:
+  en: I'm listening.
+  ko: "…응, 듣고 있어."
+  ja: "…うん、聞いてるわ。"
+c091_Field_Go_1:
+  en: I-I'm on the move.
+  ko: 이, 이동 중이야.
+  ja: い、移動中よ。
+c091_Battle_Enter_1:
+  en: Time to fight.
+  ko: 전투, 시작할게.
+  ja: 戦闘、始めるわ。
+c091_Battle_Ready_1:
+  en: I'll wipe you all out.
+  ko: 전부 다 쓸어 버리자.
+  ja: 全部片づけちゃいましょう。
+c091_Battle_Ready_2:
+  en: My fantasies have finally become reality.
+  ko: 상상이 이뤄지는 시간이야.
+  ja: 想像が現実になる時間よ。
+c091_Battle_Ready_3:
+  en: This won't take long.
+  ko: 잠깐이면 다 끝날 거야.
+  ja: すぐに終わるわ。
+c091_Reload_1:
+  en: Th-there aren't enough bullets.
+  ko: 타, 탄환이 떨어졌어.
+  ja: た、弾がなくなっちゃった。
+c091_Reload_2:
+  en: "... Will this do?"
+  ko: "…이거면 되겠지?"
+  ja: "…これでいいよね？"
+c091_Reload_3:
+  en: Come on!
+  ko: 읏차.
+  ja: よし。
+c091_Ult_Skill_Ready_1:
+  en: I'm... I'm ready.
+  ko: 주, 준비됐어.
+  ja: じゅ、準備できたわ。
+c091_Ult_Skill_1:
+  en: D-don't come any closer, or... I'll have to kill you all.
+  ko: 다, 다가오지 마. 안 그러면! …다 죽여 버리는 수밖에 없잖아.
+  ja: |-
+    近寄らないで。じゃないと！
+    …みんな殺しちゃうかもしれない。
+c091_FullBurst_1:
+  en: So... all I have to do is kill them all?
+  ko: 다, 다 같이 쓸어 버리면 되는 거지?
+  ja: ぜ、全部倒せばいいんでしょ？
+c091_Kill_Monster_1:
+  en: Enemy down.
+  ko: 주, 죽였다!
+  ja: こ、殺しちゃった！
+c091_Kill_Monster_2:
+  en: Another enemy down.
+  ko: 또 죽였어!
+  ja: また殺しちゃった！
+c091_Kill_Monster_3:
+  en: How am I doing?
+  ko: "…나 잘했지, 지휘관 님?"
+  ja: "…私、褒めてもらえるよね、指揮官様？"
+c091_Damage_1:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c091_Damage_2:
+  en: Aah!
+  ko: 꺄악!
+  ja: きゃあ！
+c091_Damage_3:
+  en: Argh.
+  ko: 흣.
+  ja: ふうっ。
+c091_Die_1:
+  en: I-I'm sorry...
+  ko: 미, 미안해….
+  ja: ご、ごめんなさい…
+c091_Win_1:
+  en: A-are you proud of me?
+  ko: 치, 칭찬… 받을 수 있겠지?
+  ja: ご、ご褒美…もらえるよね？
+c091_01_Lobby_Touch_1:
+  en: Wh-when are we going on an adventure?
+  ko: 모, 모험은 언제 떠날 거야?
+  ja: い、いつ冒険に出発するの？
+c091_01_Lobby_Touch_2:
+  en: |-
+    Why don't I consider learning other spells?
+    There's no point in mastering anything other than explosive magic.
+  ko: |-
+    다른 마법 배울 생각은 없냐고?
+    폭발 마법 말고 다른 건 의미 없는데….
+  ja: |-
+    他の魔法を覚える気はないのかって…？
+    爆発魔法じゃないと意味ないから…
+c091_01_Lobby_Touch_3:
+  en: A magic wand? I... I've got one right here.
+  ko: 요, 요술봉? 여기 들고 있잖아….
+  ja: ま、魔法の杖？こ、ここにあるよ…
+c091_01_Lobby_Touch_Love_1:
+  en: Explosions are what I dream about!
+  ko: 폭발은 로망이야!
+  ja: 爆発はロマンだよ！
+c091_01_Lobby_Touch_Love_2:
+  en: |-
+    Isn't my staff cute? I call her Kitty.
+    W-would the Armored Knight like to be friends with her?
+  ko: |-
+    내 귀여운 지팡이, 키티라고 해.
+    갑옷 기사님도 키티랑 친구 할래?
+  ja: |-
+    私のかわいい杖は、ミニーっていうの。
+    鎧の騎士様もミニーと友だちになりたい？
+c091_01_Lobby_Touch_Love_3:
+  en: I-I'm confident that when it comes to explosions, no one can beat me!
+  ko: 폭발에 있어선 누구에게도 지지 않을 자신 있어…!
+  ja: 爆発に関しては、誰にも負けない自信があるよ…！
+c091_01_Lobby_Stay_1:
+  en: Where did everyone go? Weren't we in the same party?
+  ko: 다, 다들 어디 갔지…? 우리 파티 맺은 거 아니었어…?
+  ja: み、みんなどこ行ったの…？私たち、パーティじゃなかったの…？
+c091_01_Lobby_Stay_Love_1:
+  en: |-
+    I wanted to make this explode too, but is now the time?
+    The extradimensional truth which transcends all, appears here as a distortion...
+  ko: |-
+    여기도 한 번 폭발시키고 싶었는데… 지, 지금인가…?
+    경계의 저편에 떨어진 이치여. 이곳에 일그러짐이 되어….
+  ja: |-
+    ここも爆発させてみたかったんだけど…
+    もしかして、い、今がチャンス…？
+    境界の彼方に消えし理よ…歪みとなりこの地に姿を現せ…
+c091_01_Outpost_Touch_1:
+  en: So... can I blow up that building?
+  ko: 이, 있잖아… 저 건물 폭발시켜도 될까…?
+  ja: あ、あのね… あの建物も爆発させていい…？
+c091_01_Outpost_Touch_2:
+  en: Where do I a-accept quests from?
+  ko: 퀘, 퀘스트는 어디서 수주받으면 돼?
+  ja: ク、クエストはどこで 受注すればいいの？
+c091_01_Outpost_Touch_3:
+  en: |-
+    I-I cast explosive magic every morning.
+    I find it really soothing.
+  ko: |-
+    매, 매일 아침마다 폭발 마법을 쓰곤 해.
+    …그러면 마음이 아주 편해지거든.
+  ja: |-
+    ま、毎朝、爆発魔法を使うの。
+    …そうすると気持ちが すごく落ち着くから。
+c091_01_Gacha_Get_1:
+  en: I-I'm Vesti, b-but they call me the Blue-Eyed Little Devil.
+  ko: 벼, 벽안의 작은 야차… 베스티라고 해….
+  ja: へ、碧眼の小さな夜叉…ベスティーだよ…
+c091_01_Reinforce_1:
+  en: Now I can probably take on higher-level quests.
+  ko: 이, 이제 좀 더 높은 단계 퀘스트도 할 수 있겠다….
+  ja: こ、これでもう少し上級のクエストにもいけるね…
+c091_01_Reinforce_2:
+  en: I'll work even harder to show you the best explosion possible.
+  ko: 최, 최고의 폭발을 보여줄 수 있도록 더 열심히 할게.
+  ja: さ、最高の爆発を見せられるように頑張るね。
+c091_01_Reinforce_3:
+  en: Now I'll be able to blow things up with even more panache!
+  ko: 이제 더 화려하게 날려버릴 수 있겠지?
+  ja: これでもっと派手に吹き飛ばせるね。
+c091_01_Gift_1:
+  en: I never thought there'd be something else as nice as blowing stuff up.
+  ko: 터뜨리는 거 말고도 좋은 게 있었구나.
+  ja: 爆発以外にも、いいものがあったんだね。
+c091_01_Gift_2:
+  en: Heh, hehe.
+  ko: 헤, 헤헤.
+  ja: え、えへへ。
+c091_01_Gift_3:
+  en: Since you gave me this, does that mean we're friends? Or... are we more than
+    that? Er... What exactly are we?
+  ko: |-
+    이, 이런 걸 줬으니까 우리 이제 친구 맞지?
+    아니면 그 이상인가…? 우리 무슨 사이야?
+  ja: |-
+    こ、これをくれたってことは、もう友だちだよね？
+    それとも、それ以上…？私たちって、どんな関係？
+c091_01_Attractive_Up_1:
+  en: I-it feels like my heart's going to explode...
+  ko: 가, 가슴이 폭발할 것만 같아….
+  ja: む、胸が破裂しそう…
+c091_01_Attractive_Up_2:
+  en: My feelings for you keep growing, Armored Knight.
+  ko: 갑옷 기사님을 향한 마음이 점점 더 커지고 있어….
+  ja: 鎧の騎士様を想う気持ちが、どんどん大きくなってるよ…
+c091_01_Attractive_Up_3:
+  en: From here on out, this is my only party.
+  ko: |-
+    아, 앞으로 내 파티는 여기뿐이야.
+    응, 지금 그렇게 정했어.
+  ja: |-
+    こ、これから私のパーティはここだけ。
+    うん、今そう決めたよ。
+c091_01_Party_Deploy_1:
+  en: Are you joining my party?
+  ko: 나, 나랑 파티해 주는 거야…?
+  ja: わ、私とパーティを組んでくれる…？
+c091_01_Field_Touch_1:
+  en: A-awaiting your order.
+  ko: "…응, 오더 내려줘."
+  ja: "…うん、指示をお願い。"
+c091_01_Field_Go_1:
+  en: T-this way?
+  ko: 이, 이쪽…?
+  ja: こ、こっち…？
+c091_01_Battle_Enter_1:
+  en: Commencing the hunt.
+  ko: 토벌, 시작할게.
+  ja: 討伐、始めるね。
+c091_01_Battle_Ready_1:
+  en: Can I... blow everything up?
+  ko: 전부… 터뜨려도 되는 거지?
+  ja: 全部…爆発させてもいいよね？
+c091_01_Battle_Ready_2:
+  en: I'll blow these monsters away!
+  ko: 내가 날려줄게, 괴물들!
+  ja: 私が怪物を吹き飛ばしてあげる！
+c091_01_Battle_Ready_3:
+  en: I've been waiting for this moment!
+  ko: 이 순간만 기다리고 있었어…!
+  ja: この瞬間を待ってたよ…！
+c091_01_Reload_1:
+  en: Ammunition... No, I'm out of mana.
+  ko: 탄환… 아니, 마나가 떨어졌어.
+  ja: 弾丸…ううん、マナが切れちゃった。
+c091_01_Reload_2:
+  en: Be my bullet sponge for a moment, please.
+  ko: 총알받이 좀 되어줘…!
+  ja: 弾よけになって…！
+c091_01_Reload_3:
+  en: Can you buy me some time?
+  ko: 시간 끌어줄 수 있어?
+  ja: 時間を稼いでくれる？
+c091_01_Ult_Skill_Ready_1:
+  en: I-I'll cast a spell now.
+  ko: 주, 주문 캐스팅할게.
+  ja: じゅ、呪文を唱えるね。
+c091_01_Ult_Skill_1:
+  en: Final Flame Explosion!
+  ko: 파이널 플레임 익스플로전!
+  ja: ファイナル・フレイム・エクスプロージョン！
+c091_01_FullBurst_1:
+  en: Explosions are an art... Hehe...!
+  ko: 폭발은 예술이다… 헤헤…!
+  ja: 爆発は芸術だよ…えへへ…！
+c091_01_Kill_Monster_1:
+  en: Heh, hehe.
+  ko: 헤, 헤헤.
+  ja: え、えへへ。
+c091_01_Kill_Monster_2:
+  en: What an explosion!
+  ko: 폭발, 폭발이다…!
+  ja: 爆発、爆発だ…！
+c091_01_Kill_Monster_3:
+  en: What should I blow up next?
+  ko: 다음엔 뭘 터뜨려볼까?
+  ja: 次は何を爆発させる？
+c091_01_Damage_1:
+  en: Gah!
+  ko: 으앗!
+  ja: うあっ！
+c091_01_Damage_2:
+  en: Yikes...!
+  ko: 히익…!
+  ja: ひいっ…！
+c091_01_Damage_3:
+  en: Ugh.
+  ko: 읏.
+  ja: うっ。
+c091_01_Die_1:
+  en: I'm sorry... I'll have to leave the rest to you.
+  ko: 미안… 뒤는… 부탁해….
+  ja: ごめん…あとは…よろしくね…
+c091_01_Win_1:
+  en: Wow, what a wonderful explosion that was today. I'd give it a perfect 10/10,
+    wouldn't you?
+  ko: |-
+    오, 오늘도 멋진 폭발이었네….
+    이번엔… 당연히 120점이겠지?
+  ja: |-
+    きょ、今日も素敵な爆発だったね…
+    今回も…もちろん120点だよね？
+91_cv_ja:
+  en: 'CV: Rie Kugimiya'
+  ko: 'CV : 쿠기미야 리에'
+  ja: CV：釘宮理恵
+91_cv_ko:
+  en: 'CV: Yoo Bo-ra'
+  ko: 'CV : 유보라'
+  ja: CV：ユ・ボラ
+91_cv_en:
+  en: 'CV: Ratana'
+  ko: 'CV : 라타나'
+  ja: CV：Ratana

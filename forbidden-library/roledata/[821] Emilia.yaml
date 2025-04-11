@@ -1,0 +1,714 @@
+---
+821_name:
+  en: Emilia
+  ko: 에밀리아
+  ja: エミリア
+c821_description:
+  en: |-
+    A half elf girl with silver hair, and light purple eyes.
+    With a heart of gold, she is one of the candidates for the throne of the Dragon Kingdom, Lugunica.
+  ko: |-
+    은발에 연보랏빛 눈동자를 가진 하프엘프 미소녀.
+    친룡왕국 루그니카의 차기 국왕 후보 중 하나로 마음씨 좋은 성격의 소유자이다.
+  ja: |-
+    銀髪に紫紺の瞳を持つ美しいハーフエルフの少女。
+    親竜王国ルグニカの次代の王候補の一人で、優しい性格。
+821_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_821:
+  en: Emilia's Spare Body
+  ko: 에밀리아 스페어 바디
+  ja: エミリアのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+28212_name:
+  en: Great Spirit's Mace
+  ko: 대정령의 철퇴
+  ja: 大精霊の鉄槌
+28212_description:
+  en: |-
+    ■ Activates when hitting a target with Full Charge. Affects target(s).
+    <color=#00AEFF><word_group=10040>Deals Fixed Damage to the main body equal to {description_value_01}% of the damage dealt by self</word_group>.</color>
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>Max Ammunition Capacity ▲ {description_value_02} round(s) for {description_value_03} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10040>자신이 가한 피해량의 {description_value_01}% 만큼 본체에 고정 대미지</word_group>]</color>
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_02}발 ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「<word_group=10040>自分が与えたダメージ量の{description_value_01}％分本体に固定ダメージ</word_group>」</color>
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「最大装弾数{description_value_02}発▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28211_name:
+  en: Lesser Spirit's Blessing
+  ko: 미정령의 축복
+  ja: 微精霊の祝福
+28211_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Charge Speed ▲ {description_value_01}% for {description_value_02} round(s).
+    <word_group=10041>Charge Damage ▲{description_value_03}% for every unit in the final Max Ammunition Capacity</word_group>, lasts for {description_value_04} round(s).</color>
+  ko: |-
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[차지 속도 {description_value_01}% ▲] [{description_value_02}발 유지]
+    [<word_group=10041>최종 최대 장탄 수 1발 당 차지 대미지</word_group> {description_value_03}% ▲] [{description_value_04}발 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「チャージ速度{description_value_01}％▲」「{description_value_02}発間維持」
+    「<word_group=10041>自分の最終最大装弾数1発ごとにチャージダメージ</word_group>{description_value_03}％▲」「{description_value_04}発間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18213_name:
+  en: Freezing Witch
+  ko: 빙결의 마녀
+  ja: 氷結の魔女
+18213_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Explosion Range ▲ {description_value_05}% for {description_value_06} sec.
+    Freezing Witch
+    Function: Decreases Charge Speed and increases Charge Damage for {description_value_02} shot(s).
+    Effect 1: Charge Speed ▼ {description_value_01}%.
+    Effect 2: Charge Damage ▲ {description_value_03}%.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[폭발 범위 {description_value_05}% ▲] [{description_value_06}초 유지]
+    [빙결의 마녀]
+    기능 : 차지 속도가 감소하는 대신 차지 대미지 증가 {description_value_02}발 유지
+    효과1 : [차지 속도 {description_value_01}% ▼]
+    효과2 : [차지 대미지 {description_value_03}% ▲]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「爆発範囲{description_value_05}％▲」「{description_value_06}秒間維持」
+    「氷結の魔女」
+    機能：チャージ速度が減少する代わりに、チャージダメージ増加 {description_value_02}発間維持
+    効果1：「チャージ速度{description_value_01}％▼」
+    効果2：「チャージダメージ{description_value_03}％▲」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+820_name:
+  en: Rem
+  ko: 렘
+  ja: レム
+822_name:
+  en: Ram
+  ko: 람
+  ja: ラム
+c821_Lobby_Touch_1:
+  en: In order to grow, you have to work hard.
+  ko: 더 성장하기 위해, 열심히 노력해야지!
+  ja: もっと成長するために、たくさんお勉強しなくっちゃ！
+c821_Lobby_Touch_2:
+  en: Hi there. I hope today's another good day.
+  ko: 안녕, 오늘도 좋은 하루가 되길 바래.
+  ja: |-
+    こんにちは。
+    今日もいい1日になるといいわね。
+c821_Lobby_Touch_3:
+  en: I'm glad to have Rem and Ram by my side, 'cause I know I can rely on them.
+  ko: 렘, 람이 함께라 다행이야. 둘 모두 의지가 되니까.
+  ja: |-
+    ラムとレムが一緒でよかったわ。
+    二人とも頼りになるんだから。
+c821_Lobby_Touch_Love_1:
+  en: May the blessings of the spirits be with you.
+  ko: 당신에게, 정령의 축복이 있기를.
+  ja: あなたに、精霊の祝福がありますように。
+c821_Lobby_Touch_Love_2:
+  en: |-
+    People always treat me differently because I'm a half elf, but not you.
+    I'm grateful that you treat me as I am.
+  ko: |-
+    하프엘프라는 색안경을 끼고 보는 시선이 많았는데,
+    있는 그대로의 나로서 대해주는 게 엄-청 기뻐.
+  ja: |-
+    いつもはハーフエルフって括りで見られちゃうから、
+    ありのままの私として接してくれることが、すごーく嬉しい。
+c821_Lobby_Touch_Love_3:
+  en: What a fascinating place this is! I'll have to tell everyone about it when I
+    return to my world!
+  ko: |-
+    여긴 신기한 것들이 많네.
+    원래 세계로 돌아가면 모두에게 알려줘야지!
+  ja: |-
+    ここは不思議なものがたくさんあるのね。
+    帰ったらみんなにも教えてあげなくっちゃ！
+c821_Lobby_Stay_1:
+  en: Shall we go for a walk with Puck?
+  ko: 팩이랑 산책이나 갈까?
+  ja: パックとお散歩にでも行こうかしら？
+c821_Lobby_Stay_Love_1:
+  en: Do you have something important to take care of? Take care and come back safely.
+  ko: 중요한 볼일이 있는 거야? 조심해서 다녀와.
+  ja: |-
+    なにか大切な用事があるの？
+    いってらっしゃい、気をつけてね。
+c821_Outpost_Touch_1:
+  en: The weapons Nikkes have are absolutely fascinating!
+  ko: 니케들은 엄-청 특이한 무기를 들고 다니는구나.
+  ja: ニケたちってば、 へんてこな武器を 持ち歩いてるのね。
+c821_Outpost_Touch_2:
+  en: There are so many shiny buildings! It's a sight I've never seen in Lugunica.
+  ko: |-
+    번쩍이는 건물들이 많네!
+    루그니카에선 본 적 없는 모습이야.
+  ja: |-
+    立派な建物がたくさん！
+    ルグニカじゃ 見たことない形だわ。
+c821_Outpost_Touch_3:
+  en: What's that delicious smell? It's making me hungry.
+  ko: 맛있는 냄새…. 왠지 배고파졌어.
+  ja: |-
+    美味しそうな匂い…
+    なんだかお腹が 空いてきちゃった。
+c821_Gacha_Get_1:
+  en: My name is Emilia. Nice to meet you.
+  ko: 내 이름은 에밀리아, 잘 부탁해.
+  ja: 私の名前はエミリア。よろしくね。
+c821_Reinforce_1:
+  en: We still have a long way to go, but I'll work even harder!
+  ko: 아직 멀었어. 더 열심히 할 거야!
+  ja: まだまだ、しゃかりき頑張るわ！
+c821_Reinforce_2:
+  en: It seems that I've grown somewhat.
+  ko: 조금은 성장한 것 같아.
+  ja: 少しだけ、成長できたみたい。
+c821_Reinforce_3:
+  en: I've gained a bit more confidence, thanks to you.
+  ko: 살짝 자신감이 생긴 것 같아. 네 덕분이야.
+  ja: ちょっぴり自信がついてきたわ。あなたのおかげね。
+c821_Gift_1:
+  en: Are you giving this to me? Thank you.
+  ko: 나한테 주는 거야? 고마워.
+  ja: 私にくれるの？ありがとう。
+c821_Gift_2:
+  en: This is fantastic! Looks like Puck's a fan as well.
+  ko: 이거 엄-청 멋있다! 팩도 좋아하는 것 같아.
+  ja: これ、すごーく素敵ね！パックも喜んでるみたい。
+c821_Gift_3:
+  en: Thanks! I'll definitely find a way to repay you, I promise!
+  ko: 고마워, 나도 뭔가 보답할게!
+  ja: ありがとう。私もなにかお返ししなくっちゃ！
+c821_Attractive_Up_1:
+  en: Thank you for taking care of even the small things.
+  ko: 사소한 것까지 챙겨줘서 고마워. 앞으로도 잘 부탁해.
+  ja: 色々気を遣ってくれてありがとう。これからもよろしくね。
+c821_Attractive_Up_2:
+  en: I'm not used to receiving kindness from others... Still, it brings me joy.
+  ko: |-
+    누군가의 친절을 받는 것엔 익숙하지 않아서….
+    그래도 기쁘네.
+  ja: |-
+    親切にされるの、あんまり慣れてなくて…
+    嬉しいわ。
+c821_Attractive_Up_3:
+  en: I've made so many wonderful memories, all thanks to you.
+  ko: 덕분에 즐거운 추억이 많이 생겼어.
+  ja: おかげさまで、楽しい思い出がたくさんできたわ。
+c821_Party_Deploy_1:
+  en: You can count on me!
+  ko: 내게 맡겨줘!
+  ja: 私に任せて！
+c821_Field_Touch_1:
+  en: What is it?
+  ko: 응, 무슨 일이야?
+  ja: ええ、なにかしら？
+c821_Field_Go_1:
+  en: Are you sure that's where you want me to go?
+  ko: 정말 그쪽으로 가면 돼?
+  ja: 本当に、そっちでいいの？
+c821_Battle_Enter_1:
+  en: I'm gonna crush them into dust!
+  ko: 엉망진창으로 만들어 줄게!
+  ja: けちょんけちょんにしちゃうんだから！
+c821_Battle_Ready_1:
+  en: Let's do this!
+  ko: 힘내자!
+  ja: 頑張りましょう！
+c821_Battle_Ready_2:
+  en: I will overcome this!
+  ko: 이겨내겠어!
+  ja: 勝ってみせるわ！
+c821_Battle_Ready_3:
+  en: Puck, let's go!
+  ko: 팩, 가자!
+  ja: パック、行きましょう！
+c821_Reload_1:
+  en: I need more time!
+  ko: 시간이 필요해.
+  ja: 時間が必要よ。
+c821_Reload_2:
+  en: Argh, hold on!
+  ko: 으아아, 잠깐만 기다려 줘.
+  ja: わわ、ちょっと待ってて。
+c821_Reload_3:
+  en: I'm almost done!
+  ko: 금방 준비할게.
+  ja: すぐ準備するわね。
+c821_Ult_Skill_Ready_1:
+  en: I'm all set!
+  ko: 준비 됐어!
+  ja: 準備できたわ！
+c821_Ult_Skill_1:
+  en: You asked for this, and I thank you for it.
+  ko: 고마워, 제대로 당해 줘서.
+  ja: ちゃんとやられて！
+c821_FullBurst_1:
+  en: Let's work together!
+  ko: 다 함께 힘을 합치자!
+  ja: みんなで力を合わせましょう！
+c821_Kill_Monster_1:
+  en: Yeah!
+  ko: 에잇!
+  ja: えい！
+c821_Kill_Monster_2:
+  en: Go away!
+  ko: 저리 가!
+  ja: 向こう行って！
+c821_Kill_Monster_3:
+  en: It's done!
+  ko: 이제 끝이야!
+  ja: これでおしまい！
+c821_Damage_1:
+  en: Gah!
+  ko: 흐앗!
+  ja: ああっ！
+c821_Damage_2:
+  en: Agh!
+  ko: 아얏!
+  ja: いたっ！
+c821_Damage_3:
+  en: Kyaa!
+  ko: 꺄악!
+  ja: きゃあ！
+c821_Die_1:
+  en: Sorry... I know I wasn't much help...
+  ko: 도움이 되지 못해서 미안해….
+  ja: みんなの役に立てなくてごめんなさい…
+c821_Win_1:
+  en: I'm glad you're safe. Everyone has worked incredibly hard!
+  ko: 무사해서 다행이야. 다들 엄-청 열심히 했으니까!
+  ja: 無事でよかったわ。みんな、すごーく頑張ったんだから！
+c821_01_Lobby_Touch_1:
+  en: May you be blessed by the spirits.
+  ko: 오늘도 당신에게, 정령의 축복이 있기를.
+  ja: 今日も、あなたに精霊の祝福がありますように！
+c821_01_Lobby_Touch_2:
+  en: Rem and I baked a batch of cookies. Would you like some?
+  ko: 렘이 과자를 구워줬어! 같이 먹을래?
+  ja: |-
+    レムが焼き菓子を作ってくれたの！
+    一緒に食べましょう？
+c821_01_Lobby_Touch_3:
+  en: |-
+    It's a good thing Rem and Ram are here with me.
+    I'd probably lose my head if I were here alone.
+  ko: |-
+    렘, 람이 함께라 다행이야.
+    나 혼자였다면 당황했을지도 몰라.
+  ja: |-
+    ラムとレムが一緒でよかったわ。
+    私ひとりだったら慌てちゃうかも。
+c821_01_Lobby_Touch_Love_1:
+  en: Rem made some tea. You're free to join us if you like.
+  ko: 람이 차를 끓여줬어. 괜찮다면 같이 마실래?
+  ja: ラムがお茶を淹れてくれたの。よかったら一緒に飲みましょう？
+c821_01_Lobby_Touch_Love_2:
+  en: "This outfit is quite different from what we have at the mansion. \nAm I wearing
+    it correctly?"
+  ko: |-
+    이 옷, 저택에 있던 거랑은 많이 다르네.
+    이렇게 입는 게 맞아?
+  ja: |-
+    このお洋服、お屋敷のものとはずいぶん違うのね。
+    着方は合ってるのかしら？
+c821_01_Lobby_Touch_Love_3:
+  en: |-
+    What should I say to the customers?
+    "May I help you?"
+  ko: |-
+    무엇을 주문하시겠어요?
+    …손님이 오면 이렇게 인사하면 되는 거지?
+  ja: |-
+    ご注文はどうなさいますか？
+    ……お客様が来たら、こう言えばいいのよね？
+c821_01_Lobby_Stay_1:
+  en: Puck usually helps me with my hair. How does it look?
+  ko: 내 머리는 항상 팩이 다듬어줘. 잘 어울리려나?
+  ja: 私の髪はいつもパックが整えてくれてるの。どうかしら？
+c821_01_Lobby_Stay_Love_1:
+  en: Is it okay if I wait here? Safe travels!
+  ko: 여기서 기다리면 되는 거지? 조심히 다녀와.
+  ja: |-
+    ここで待ってればいいのよね？
+    気をつけてね。
+c821_01_Outpost_Touch_1:
+  en: A train? I didn't realize Nikkes rode such dragon carriages.
+  ko: 기차? 니케들은 엄-청 큰 용차를 타고 다니는구나.
+  ja: "『れっしゃ』？ \nニケたちって、 すごーく大きな竜車に 乗ってるのね。"
+c821_01_Outpost_Touch_2:
+  en: |-
+    I'll be volunteering at the Maid Cafe for a little while.
+    Do come along!
+  ko: |-
+    잠시 메이드 카페 일을 돕게 되었어.
+    언제든지 놀러 와!
+  ja: |-
+    しばらく『めいどかふぇ』の お仕事を お手伝いすることに なったの。
+    いつでも遊びに来てね！
+c821_01_Outpost_Touch_3:
+  en: |-
+    I made omurice with Cocoa today.
+    What was that magic spell that makes it taste better again?
+  ko: |-
+    오늘은 코코아랑 오므라이스라는 걸 만들어 봤어.
+    맛있어지는 주문이 있다던데…. 뭐였더라?
+  ja: |-
+    今日はココアと 『おむらいす』を作ってみたの。
+    おいしくなる呪文っていうのが あったんだけど…… 何だったかしら？
+c821_01_Gacha_Get_1:
+  en: My name is Emilia. I'll do my best to help from now on.
+  ko: 내 이름은 에밀리아, 앞으로 엄-청 열심히 도와줄게.
+  ja: 私の名前はエミリアよ。お手伝いも、しゃかりき頑張るわ！
+c821_01_Reinforce_1:
+  en: If I want to become a tried-and-true maid, I need to work even harder.
+  ko: 훌륭한 메이드가 되려면, 더 열심히 해야 해.
+  ja: もっと頑張らないと、立派なメイドにはなれないわね。
+c821_01_Reinforce_2:
+  en: I think I'm starting to get the hang of being a maid!
+  ko: 후후, 메이드의 예절을 알게 된 것 같아!
+  ja: ふふっ、メイドとしての作法がわかってきたみたい！
+c821_01_Reinforce_3:
+  en: |-
+    It's because of you that I've been able to work this hard.
+    I'll repay you somehow, promise!
+  ko: |-
+    너희 덕분에 이렇게 열심히 할 수 있었어.
+    보답할 수 있도록 할게!
+  ja: |-
+    ここまで頑張れたのはみんなのおかげ。
+    だから、私からもいっぱいお返しさせてね！
+c821_01_Gift_1:
+  en: |-
+    Is this really for me?
+    Hehe, thanks a bunch!
+  ko: |-
+    나한테 주는 거야?
+    후후, 엄-청 고마워.
+  ja: |-
+    私にくれるの？
+    ふふっ。すごーく、ありがと。
+c821_01_Gift_2:
+  en: Thanks for the gift!
+  ko: 네가 준 거 잘 쓸게.
+  ja: あなたがくれたもの、大切に使うわね。
+c821_01_Gift_3:
+  en: Thank you. I feel I should give you something in return... Are you hungry? I
+    can make some curry for you. It's my specialty!
+  ko: |-
+    고마워, 뭔가 답례를 하고 싶은데… 혹시 배고프지 않아?
+    많이 연습한 카레를 만들어줄게!
+  ja: |-
+    ありがとう！何かお礼をさせてさせてほしいんだけど……
+    お腹は減ってない？
+    いっぱい練習した『かれー』を作ってあげる！
+c821_01_Attractive_Up_1:
+  en: Thanks for always treating me equally!
+  ko: 모두와 똑같이 대해주는 게 너무 기뻐… 고마워!
+  ja: |-
+    みんなと同じように接してくれるのが、すごーく嬉しいの……
+    ありがとう！
+c821_01_Attractive_Up_2:
+  en: I'll repay you with the best service, just like Ade said... right? Oh, wait,
+    no?
+  ko: |-
+    최고의 서비스로 보답할게, 였던가?
+    이럴 때 하는 말이라 에이드가 그랬었는데… 어? 아니야?
+  ja: |-
+    「最高の『さーびす』でおもてなしするね」
+    こういう時に言う言葉だって、エードが言ってたんだけど
+    ……え？違うの？
+c821_01_Attractive_Up_3:
+  en: "Coming to a place I didn't know made me anxious, \nbut you really helped put
+    my mind at ease."
+  ko: |-
+    모르는 곳에 와서 불안했는데, 덕분에 엄-청 즐거웠어.
+    앞으로도 잘 부탁해.
+  ja: |-
+    知らない場所に来て少し不安だったけど、
+    みんなのおかげでへっちゃらだったわ！
+    これからもよろしくね。
+c821_01_Party_Deploy_1:
+  en: Leave it to me!
+  ko: 나한테 맡겨!
+  ja: 私に任せてね！
+c821_01_Field_Touch_1:
+  en: You called?
+  ko: 나 불렀어?
+  ja: 私のこと、呼んだ？
+c821_01_Field_Go_1:
+  en: What's that over there?
+  ko: 그쪽엔 뭐가 있어?
+  ja: そっちには何があるのかしら？
+c821_01_Battle_Enter_1:
+  en: Come on, everyone!
+  ko: 얘들아, 가자!
+  ja: みんな、行きましょう！
+c821_01_Battle_Ready_1:
+  en: Time to buckle down!
+  ko: 방심하면 안 돼.
+  ja: 油断しちゃダメよ。
+c821_01_Battle_Ready_2:
+  en: Your time is up, dastardly villain!
+  ko: 거기까지야, 악당!
+  ja: そこまでよ、悪党！
+c821_01_Battle_Ready_3:
+  en: Puck, a little help here!
+  ko: 팩, 원호를 부탁해!
+  ja: パック、援護をお願い！
+c821_01_Reload_1:
+  en: I've gotta calm down...
+  ko: 침착하게….
+  ja: 落ち着かなくっちゃ……
+c821_01_Reload_2:
+  en: Sorry, I've been pushing myself too hard.
+  ko: 미안해. 무리하게 만들어버렸네.
+  ja: ごめんなさい。無理させちゃってるわね。
+c821_01_Reload_3:
+  en: I'll be back in a second!
+  ko: 금방 돌아올게!
+  ja: すぐに戻るわ！
+c821_01_Ult_Skill_Ready_1:
+  en: That concludes our preparation.
+  ko: 서비스 준비, 끝났어!
+  ja: "『さーびす』の準備が整ったわ！"
+c821_01_Ult_Skill_1:
+  en: I'll give you my best shot!
+  ko: 정성껏 대접해 줄게.
+  ja: 精一杯おもてなししちゃうんだから！
+c821_01_FullBurst_1:
+  en: Here goes nothing!
+  ko: 전력으로 갈게!
+  ja: 全力で行くわよ！
+c821_01_Kill_Monster_1:
+  en: Victory is mine!
+  ko: 해치웠어!
+  ja: やっつけたわ！
+c821_01_Kill_Monster_2:
+  en: I've got this covered!
+  ko: 이쪽은 괜찮아!
+  ja: こっちは大丈夫！
+c821_01_Kill_Monster_3:
+  en: Stay down!
+  ko: 얌전히 있어!
+  ja: 大人しくしてなさい！
+c821_01_Damage_1:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c821_01_Damage_2:
+  en: Ouch!
+  ko: 읏!
+  ja: うっ！
+c821_01_Damage_3:
+  en: Aargh!
+  ko: 꺅!
+  ja: きゃっ！
+c821_01_Die_1:
+  en: I'm sorry for being inadequate...
+  ko: 역부족이라 미안해….
+  ja: 力不足で、ごめんね……
+c821_01_Win_1:
+  en: Well done! We couldn't have done this without everyone's help!
+  ko: 고생했어. 이길 수 있었던 건 너희들 덕분이야!
+  ja: お疲れ様。勝てたのはみんなのおかげです！
+821_cv_ja:
+  en: 'CV: Rie Takahashi'
+  ko: 'CV : 타카하시 리에'
+  ja: CV：高橋李依
+821_cv_ko:
+  en: 'CV: Yu Yeong'
+  ko: 'CV : 유영'
+  ja: CV：ユ・ヨン
+821_cv_en:
+  en: 'CV: Kayli Mills'
+  ko: 'CV : 케일리 밀스'
+  ja: CV：Kayli Mills

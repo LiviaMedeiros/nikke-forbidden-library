@@ -1,0 +1,823 @@
+---
+225_name:
+  en: 'Scarlet: Black Shadow'
+  ko: '홍련 : 흑영'
+  ja: 紅蓮：ブラックシャドウ
+c225_description:
+  en: |-
+    A mass-produced Nikke from the Melee Squad.
+    The numerous modifications she has undergone mean that her physical capabilities are far superior to those of a typical mass-produced Nikke.
+    Known as a swordsmanship genius, possessing extraordinary skills.
+  ko: |-
+    접근전용 스쿼드 소속.
+    양산형으로 제작되었지만 강도 높은 커스터마이징을 받아 신체 능력은 양산형을 아득히 뛰어넘는다.
+    검의 천재라 불릴 정도로 압도적인 기량을 자랑한다.
+  ja: |-
+    接近戦用部隊所属。
+    量産型として製作されたが、高度なカスタマイズを施され
+    その身体能力は量産型を優に超えている。
+    剣の天才と呼ばれるほど圧倒的な実力を誇る。
+225_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_225:
+  en: 'Scarlet: Black Shadow''s Spare Body'
+  ko: '홍련 : 흑영 스페어 바디'
+  ja: 紅蓮：ブラックシャドウのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up_50:
+  en: "■ Affects target(s).\nUnleashes sword energy for an attack of small range.
+    \n<color=#00AEFF>Deals {damage}% of ATK as damage.\nCharge Time: {charge_time}
+    sec.\nFull Charge Damage: {full_charge_damage}% of damage.\nDeals {core_damage_rate}%
+    damage when attacking core.</color>"
+  ko: |-
+    ■ 대상에게
+    검기를 날려 좁은 범위를 공격합니다.
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    剣気を飛ばして狭い範囲を攻撃する
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+22252_name:
+  en: 'Fleetly Fading: Asura'
+  ko: 화무십일홍 · 수라
+  ja: 花無十日紅・修羅
+22252_description:
+  en: "■ Activates when entering Full Burst. Affects self. \n<color=#00AEFF>Max Ammunition
+    Capacity ▲ {description_value_01}% for {description_value_02} sec.</color>\n<color=#00AEFF>Reload
+    {description_value_03}% of the magazine(s).</color>"
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    <color=#00AEFF>[탄환 충전 {description_value_03}%]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「最大装弾数{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「弾丸チャージ{description_value_03}％」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22251_name:
+  en: 'Fleetly Fading: Breakthrough'
+  ko: 화무십일홍 · 파죽
+  ja: 花無十日紅・破竹
+22251_description:
+  en: |-
+    ■ Activates when attacking with Full Charge.
+    <color=#00AEFF>Effect changes according to the number of attack(s). Effect of each phase does not stack.</color>
+    Three times: Affects {description_value_01} enemy unit(s) with the lowest <word_group=10025>final</word_group> DEF.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    Six times: Affects <word_group=10020>enemies within attack range</word_group>.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.</color>
+    Nine times: Affects all enemies.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.</color>
+  ko: "■ 풀 차지 공격 시\n<color=#00AEFF>[공격 횟수 별 효과] [단계별 효과만 적용]</color>\n3회 : <word_group=10025>최종</word_group>
+    방어력이 가장 낮은 적 {description_value_01}기에게 \n<color=#00AEFF>[<word_group=10025>최종</word_group>
+    공격력 {description_value_02}% 대미지]</color>\n6회 : <word_group=10020>공격 범위 내 적들</word_group>에게
+    \n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}%
+    <word_group=10019>분배 대미지</word_group>]</color>\n9회 : 적 전체에게 \n<color=#00AEFF>[<word_group=10025>최종</word_group>
+    공격력 {description_value_04}% <word_group=10019>분배 대미지</word_group>]</color>"
+  ja: |-
+    ■フルチャージして攻撃した時、
+    <color=#00AEFF>「攻撃回数別の効果」
+    「各段階の効果のみ適用」</color>
+    3回：<word_group=10025>最終</word_group>防御力が最も低い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    6回：<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の<word_group=10019>分配ダメージ</word_group>」</color>
+    9回：敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の {description_value_04}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12253_name:
+  en: 'Fleetly Fading: Strike'
+  ko: 화무십일홍 · 만개
+  ja: 花無十日紅・満開
+12253_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Changes Full Charge attack count required for Skill 1 to 1 time/2 times/3 times for {description_value_01} sec.</color>
+    <color=#00AEFF>ATK ▲ {description_value_02}% for {description_value_03} sec.</color>
+    <color=#00AEFF>Charge Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[스킬 1의 풀 차지 공격 횟수 조건이 1회/2회/3회 로 변경] [{description_value_01}초 유지]</color>
+    <color=#00AEFF>[공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    <color=#00AEFF>[차지 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「スキル1のフルチャージ攻撃回数の条件が
+    1回/2回/3回に変更」「{description_value_01}秒間維持」</color>
+    <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    <color=#00AEFF>「チャージダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+470_name:
+  en: Red Hood
+  ko: 레드 후드
+  ja: レッドフード
+224_name:
+  en: 'Snow White: Innocent Days'
+  ko: '스노우 화이트 : 이노센트 데이즈'
+  ja: スノーホワイト：イノセントデイズ
+226_name:
+  en: 'Rapunzel: Pure Grace'
+  ko: '라푼젤 : 퓨어 그레이스'
+  ja: ラプンツェル：ピュアグレイス
+c225_Lobby_Touch_1:
+  en: |-
+    Nothing is eternal.
+    That is the only unchanging truth in this world.
+  ko: |-
+    영원한 것은 없네.
+    그것만이 유일하게 변하지 않는 세상의 이치지.
+  ja: |-
+    永遠などない。
+    それだけが、唯一変わらぬこの世の理だ。
+c225_Lobby_Touch_2:
+  en: |-
+    Thou should not get too close,
+    lest by some mischance I hurt thee.
+  ko: |-
+    너무 가까이 다가오지 말게나.
+    무심코 베어버릴 수 있으니.
+  ja: |-
+    あまり近づくでない。
+    無意識に斬ってしまうかもしれぬ。
+c225_Lobby_Touch_3:
+  en: Thou art most welcome to spar with me at any time.
+  ko: 싸움을 거는 거라면 언제든 환영일세.
+  ja: 果し合いならいつでも歓迎だ。
+c225_Lobby_Touch_Love_1:
+  en: |-
+    Fleeting as time may be,
+    I cannot see an end in sight for me.
+  ko: "열흘 붉은 꽃이 없다고 하건만… \n이 생의 끝은 아직 보이지 않는군."
+  ja: |-
+    花に十日の紅無しとは言うが…
+    この命の終わりは、まだ見えぬ。
+c225_Lobby_Touch_Love_2:
+  en: |-
+    The Goddess Squad has many capable hands.
+    'Tis its most preeminent aspect.
+  ko: |-
+    갓데스 스쿼드에는 싸워볼 만한 이들이 많다네.
+    그것이 가장 큰 장점이지.
+  ja: |-
+    ゴッデス部隊には手応えのありそうな者が多い。
+    それが最大の魅力だ。
+c225_Lobby_Touch_Love_3:
+  en: |-
+    I shall become stronger and not be at the mercy of anyone.
+    Failure is not an option.
+  ko: |-
+    누구에게도 휘둘리지 않도록 강해져야 한다네.
+    그러니... 난 누구에게도 질 수 없네.
+  ja: |-
+    誰にも振り回されないよう、強くならねば。
+    だから…私は誰にも負けられぬ。
+c225_Lobby_Stay_1:
+  en: |-
+    Follow the wind... the clouds... and your heart...
+    Heh-heh, 'tis but impossible.
+  ko: |-
+    바람 따라… 구름 따라… 마음 가는 대로…
+    후후, 그런 게 가능할 리가 없지 않은가.
+  ja: |-
+    風の吹くまま、雲の流れるまま。思うがままに――
+    ふふ、そのようなこと、できるはずがない。
+c225_Lobby_Stay_Love_1:
+  en: |-
+    There are many things to fight for in this vast world.
+    Rose, is it also a way to progress through this life?
+  ko: |-
+    세계는 넓고 싸워볼 것은 많군.
+    그래. 이렇게 사는 것도 하나의 방법인가… 언니.
+  ja: |-
+    世界は広く、戦うべきものは多い。
+    こうして生きるのも1つの方法だろうか…姉さん。
+c225_Outpost_Touch_1:
+  en: |-
+    Where is Lilith?
+    I crave a good tussle.
+  ko: |-
+    릴리스는 어디에 있지?
+    한판 붙고 싶은데.
+  ja: |-
+    リリスはどこだ？
+    手合わせ願いたいのだが。
+c225_Outpost_Touch_2:
+  en: |-
+    I am in search of a place to train.
+    Pray tell, dost thou have anything in mind?
+  ko: |-
+    수련하기에 적당한 곳을 찾고 있는데,
+    알고 있는 곳이 있나?
+  ja: |-
+    修行にいい場所を探している。
+    どこか知らないかい？
+c225_Outpost_Touch_3:
+  en: |-
+    Where does my heart take me...?
+    I desire to go where the strongest personalities congregate.
+  ko: |-
+    가보고 싶은 곳은… 흠… 굳이 뽑는다면,
+    강자가 있는 곳이 좋겠군.
+  ja: |-
+    行きたいところか… ふむ…強いて言うなら
+    強者がいるところだ。
+c225_Gacha_Get_1:
+  en: |-
+    I am a sword which renders Raptures asunder.
+    Do not wield me capriciously, for even my handle has a sharp edge.
+  ko: |-
+    랩쳐를 베는 검, 홍련일세.
+    멋대로 휘두를 생각은 말게. 내 검의 손잡이는 날카로우니.
+  ja: |-
+    ラプチャーを斬る剣、紅蓮だ。
+    気安く触れるな。私の剣は切れるぞ。
+c225_Reinforce_1:
+  en: I desire to be strong enough to cleave anything in half.
+  ko: |-
+    좀 더 강해져야 한다네.
+    모든 것을 벨 수 있을 만큼… 더… 강하게.
+  ja: |-
+    もっと強くならねば。
+    すべてを斬れるほどに…もっと…強く。
+c225_Reinforce_2:
+  en: Now I can fell stronger opponents!
+  ko: 이제 더 강한 걸 벨 수 있겠군.
+  ja: これでさらに強いものを斬れそうだ。
+c225_Reinforce_3:
+  en: Fleetly Fading is more honed than ever.
+  ko: 화무십일홍이 더 날카로워졌군.
+  ja: 花無十日紅がさらに鋭くなったな。
+c225_Gift_1:
+  en: |-
+    Thank you so much,
+    this is precisely what I require.
+  ko: |-
+    이건… 잘 쓰겠네.
+    마침 필요하던 것이었는데 잘 됐군.
+  ja: |-
+    これは…使わせてもらおう。
+    ちょうど欲しかった。
+c225_Gift_2:
+  en: |-
+    This gift... is out of sheer goodwill?
+    Can such a notion truly exist in this world?
+  ko: |-
+    대가 없는 호의라니….
+    그런 게 가능한 세상이었던가.
+  ja: |-
+    見返りを求めない好意…
+    そんなものがあり得る世界だったのかね。
+c225_Gift_3:
+  en: |-
+    Thanks.
+    Let me know if you need anything in return.
+  ko: |-
+    고맙네.
+    원하는 것이 있다면 말하게. 내 꼭 보답하도록 하지.
+  ja: |-
+    ありがたい。
+    望みがあれば言っておくれ。必ず恩に報いよう。
+c225_Attractive_Up_1:
+  en: |-
+    Please, keep thy distance.
+    No good will come of us getting too close.
+  ko: |-
+    내게 더 가까워지지 말게나.
+    그래봤자 좋을 것이 없으니.
+  ja: |-
+    悪いことは言わぬ。
+    これ以上近寄るな。
+c225_Attractive_Up_2:
+  en: |-
+    Should you desire for something to be cleaved in half,
+    I am at your command.
+  ko: |-
+    베어야 할 것이 생긴다면 말하게.
+    그게 무엇이든 반드시 베어 주겠네.
+  ja: |-
+    斬るべきものがあったら言っておくれ。
+    それが何であれ、必ず斬ってみせよう。
+c225_Attractive_Up_3:
+  en: Someone who is this close to me... apart from Rose?
+  ko: 언니를 제외하고… 이렇게나 가까워진 이가 있었던가….
+  ja: 姉さん以外で…ここまで親しくなった者がいただろうか…
+c225_Party_Deploy_1:
+  en: I consider it a blessing to fight alongside you. Let us be on our way.
+  ko: 전투를 할 수 있다면, 좋네. 함께하도록 하지.
+  ja: 戦えるならばそれでよい。共に参ろう。
+c225_Field_Touch_1:
+  en: Tell me what you want.
+  ko: 원하는 걸 말하게.
+  ja: 望みは何だい？
+c225_Field_Go_1:
+  en: Let's go.
+  ko: 움직이지.
+  ja: 行こう。
+c225_Battle_Enter_1:
+  en: A fight then, is it?
+  ko: 호오, 전투인가.
+  ja: ほほう、戦闘か。
+c225_Battle_Ready_1:
+  en: I will destroy everything that's in my way.
+  ko: 가로막는 것이 있다면, 모두 베겠네.
+  ja: 邪魔するものは、すべて斬るまで。
+c225_Battle_Ready_2:
+  en: Whew... have at you.
+  ko: 후우… 오게나.
+  ja: ふぅ…来い。
+c225_Battle_Ready_3:
+  en: If only there were a worthy opponent.
+  ko: 싸울만한 적수가 있었다면 좋겠군.
+  ja: やりがいのある相手はいるか？
+c225_Reload_1:
+  en: You're a rather tenacious foe.
+  ko: 흠… 제법 버티는군.
+  ja: ふむ…なかなかやるな。
+c225_Reload_2:
+  en: Need a sharper sword...
+  ko: 좀 더 날카로운 검격을….
+  ja: もっと鋭く…
+c225_Reload_3:
+  en: I'm on my way.
+  ko: 바로 가겠네.
+  ja: すぐに行こう。
+c225_Ult_Skill_Ready_1:
+  en: I'm ready.
+  ko: 준비됐네.
+  ja: 行けるぞ。
+c225_Ult_Skill_1:
+  en: Fleetly Fading, strike!
+  ko: 화무십일홍. 만개(滿開)!
+  ja: 花無十日紅、満開！
+c225_FullBurst_1:
+  en: Mine blade shall render all asunder.
+  ko: 이 검으로 모든 것을 베겠네.
+  ja: この剣ですべてを斬る。
+c225_Kill_Monster_1:
+  en: Next.
+  ko: 다음.
+  ja: 次。
+c225_Kill_Monster_2:
+  en: But a mere bagatelle.
+  ko: 간단하군.
+  ja: 微温いな。
+c225_Kill_Monster_3:
+  en: Is that all?
+  ko: 더 강한 것은 없나?
+  ja: もっと強いものはいないのか？
+c225_Damage_1:
+  en: Wha...?
+  ko: 호오?
+  ja: ほお？
+c225_Damage_2:
+  en: Ugh.
+  ko: 큿.
+  ja: くっ。
+c225_Damage_3:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c225_Die_1:
+  en: Ha-ha... This is not what I expected...
+  ko: 하하… 고작 이런 곳에서 쓰러지다니....
+  ja: はは…こんなところで倒れるとは…
+c225_Win_1:
+  en: A commendable battle, but I desire stronger opponents next time.
+  ko: 좋은 전투였네. 다음엔 더 강한 것과 붙어보고 싶군.
+  ja: |-
+    いい戦いだった。
+    次はもっと強いものと戦いたい。
+c225_01_Lobby_Touch_1:
+  en: How dost thou expect me to do battle in this garb?
+  ko: 이런 옷을 입고 어떻게 싸우라는 건가.
+  ja: このような服で、どう戦えと？
+c225_01_Lobby_Touch_2:
+  en: "Far too frilly and bothersome. \nMethinks mine own attire shall be sliced before
+    the foe."
+  ko: |-
+    치렁치렁하고, 불편하군.
+    적을 베려다 내 옷을 먼저 베겠네.
+  ja: |-
+    ヒラヒラして、不便なのだよ。
+    敵を斬る前に、私の服を斬りつけてしまいそうだ。
+c225_01_Lobby_Touch_3:
+  en: Such attire is more befitting of Dorothy.
+  ko: 후우… 이런 옷은 도로시나 입으라고 하게.
+  ja: ふぅ…こんな服、ドロシーにでもくれてやれ。
+c225_01_Lobby_Touch_Love_1:
+  en: |-
+    'Tis encouraging to hear that these threads suit me,
+    but I would rather consign them to a fate in storage rather than being worn.
+  ko: |-
+    잘 어울린다 하니 그나마 다행이군.
+    하지만 입지 않고, 따로 보관해두고 싶은 옷일세.
+  ja: |-
+    似合うと言われありがたいが、
+    それでも着ずに取っておきたい服だ。
+c225_01_Lobby_Touch_Love_2:
+  en: |-
+    While I am not well-versed in the rest, I must say the pattern on these garments doth please me greatly.
+    ... These flowers stir a most nostalgic longing within me.
+  ko: |-
+    다른 건 몰라도 옷에 있는 무늬가 썩 마음에 드는군.
+    …아주 그리운 꽃일세.
+  ja: |-
+    他はどうであれ、柄が気に入った。
+    …とても懐かしい花だな。
+c225_01_Lobby_Touch_Love_3:
+  en: |-
+    Even fully bloomed flowers will eventually wilt,
+    but the florets on these clothes will spring eternal.
+  ko: |-
+    활짝 핀 꽃은 언젠가 시드는 법.
+    하지만 이 옷에 핀 꽃은 영원할 테지.
+  ja: |-
+    花はいつか枯れるもの。
+    だがこの服の花は、永遠に咲き続ける。
+c225_01_Lobby_Stay_1:
+  en: "So great is the discomfort of these clothes, that my body feels sluggish. \nI
+    should move around a little."
+  ko: |-
+    옷이 불편하니, 몸이 둔해진 기분이군.
+    조금 움직이러 가야겠어.
+  ja: |-
+    この服だと、体が重く感じるな。
+    少し動いておかねば。
+c225_01_Lobby_Stay_Love_1:
+  en: |-
+    I do know someone who would wear these garments with greater aplomb than I.
+    I'm sure they would be delighted to wear them.
+  ko: |-
+    나 말고 이 옷이 더 어울릴 만한 자를 알고 있지.
+    아마 입고 나면, 굉장히 기뻐했을 걸세.
+  ja: |-
+    この服が私より似合いそうな者を知っている。
+    きっと、とても喜んだであろう。
+c225_01_Outpost_Touch_1:
+  en: |-
+    Even perambulating is torturous.
+    I am being forced to walk slowly.
+  ko: |-
+    걷는 게 불편하군.
+    강제로 천천히 걸어야 하지 않나.
+  ja: |-
+    歩きにくい。
+    ゆっくりと歩くしかない。
+c225_01_Outpost_Touch_2:
+  en: Pray tell, where might the others be? I must observe how striking and cumbersome
+    their garments appear.
+  ko: |-
+    그래서, 다른 이들은 어디에 있는 거지?
+    얼마나 예쁘고 불편한 옷들을 입었는지 좀 봐야겠네.
+  ja: |-
+    それで、他の者たちはどこに？
+    どれほど美しく、 不便な服を着ているか見ものだな。
+c225_01_Outpost_Touch_3:
+  en: It appears there's naught worth cutting.
+  ko: 딱히 벨만 한 것은 없어 보이네만.
+  ja: 特に斬るものはなさそうだが。
+c225_01_Gacha_Get_1:
+  en: Not even the most embellished scabbard can hide the sharpness of my blade.
+  ko: |-
+    화려한 검집으로 치장한다 한들,
+    내 날카로운 검날을 가릴 수는 없을 걸세.
+  ja: |-
+    いくら派手な鞘で装ったとしても、
+    私の鋭い刃を隠すことはできぬ。
+c225_01_Reinforce_1:
+  en: |-
+    Mine strength is still lacking.
+    I must become stronger.
+  ko: |-
+    아직 많이 부족하군.
+    나는 더 강해져야 해.
+  ja: |-
+    まだまだ。
+    もっと強くならなければ。
+c225_01_Reinforce_2:
+  en: I've learned a lesson.
+  ko: 한 수 배웠네.
+  ja: 学ばせてもらったよ。
+c225_01_Reinforce_3:
+  en: Mine blade hath grown keener.
+  ko: 더 날카로운 검이 되었군.
+  ja: より鋭い剣となったぞ。
+c225_01_Gift_1:
+  en: Thank you. I will put it to good use.
+  ko: 잘 쓰도록 하지. 고맙네.
+  ja: 使わせてもらう。感謝する。
+c225_01_Gift_2:
+  en: |-
+    I am unsure as to why thou art bequeathing this unto me.
+    I am not accustomed to receiving gifts.
+  ko: |-
+    나에게 왜 이런 걸 주는 건지 모르겠군.
+    무언가 받는 거에는 익숙하지 않아서 말일세.
+  ja: |-
+    どうしてこんなものをくれるのか、理解できぬ。
+    人からもらうことには慣れていないのだ。
+c225_01_Gift_3:
+  en: |-
+    Are you truly bestowing this upon me?
+    Very well, I shall accept it for now.
+  ko: |-
+    정말 내게 주는 것인가?
+    일단 받아두도록 하지.
+  ja: |-
+    本当にくれるのか？
+    まあ、収めておく。
+c225_01_Attractive_Up_1:
+  en: Keep away and let not the luxurious exterior beguile you; 'tis but a mere scabbard
+    that holds a sword within.
+  ko: |-
+    너무 다가오지 말게.
+    아무리 화려해도 검을 품고 있는 검집일뿐이니 말일세.
+  ja: |-
+    そう近寄るな。
+    いくら派手な見た目でも、剣を胸に抱く鞘に過ぎないのだから。
+c225_01_Attractive_Up_2:
+  en: I did not don these garments merely for appearances, but to see you so joyous
+    is most pleasing.
+  ko: |-
+    보기 좋으라고 이런 옷을 입은 건 아니지만,
+    막상 좋아하는 얼굴을 보니 기분은 나쁘지 않군.
+  ja: |-
+    格好つけてこんな服を着たわけではないが、
+    人が喜ぶ顔を見るのは悪くない。
+c225_01_Attractive_Up_3:
+  en: |-
+    Grip the hilt. And should there be aught to cleave, let it be struck with resolve.
+    I shall be thy sword.
+  ko: |-
+    칼자루를 잡으시게. 그리고 베어내야 할 것이 있다면 휘두르게.
+    나는 그걸 위한 검이니.
+  ja: |-
+    柄をつかめ。そして、時が来たら思い切り振りかざすのだ。
+    そのための剣なのだから。
+c225_01_Party_Deploy_1:
+  en: I want to change mine attire.
+  ko: 옷은 갈아입고 싶네만.
+  ja: 着替えさせてくれ。
+c225_01_Field_Touch_1:
+  en: Speak.
+  ko: 말하게.
+  ja: 何だ。
+c225_01_Field_Go_1:
+  en: So uncomfortable...
+  ko: "…불편하군."
+  ja: "…動きにくい。"
+c225_01_Battle_Enter_1:
+  en: At last, I can stretch mine body.
+  ko: 드디어 몸을 풀 수 있겠군.
+  ja: これでやっと、体の凝りをほぐせるな。
+c225_01_Battle_Ready_1:
+  en: Despite the accursed garments, I'm able to slice a Rapture.
+  ko: 옷이 불편하다 한들, 랩쳐 하나 못 베겠는가.
+  ja: こんな装いだからと、舐めるでないぞ。
+c225_01_Battle_Ready_2:
+  en: "... This brings to mind when I fought beside my sister."
+  ko: "…언니와 함께 싸우는 기분이로군."
+  ja: "…姉さんと一緒に戦ってるようだ。"
+c225_01_Battle_Ready_3:
+  en: I shall cleave through them all.
+  ko: 모두 베어주겠네.
+  ja: すべて斬ってやろう。
+c225_01_Reload_1:
+  en: This attire vexes me.
+  ko: 옷이 거슬리는군.
+  ja: 気が散るな。
+c225_01_Reload_2:
+  en: It seems this battle shall drag on.
+  ko: 전투가 꽤나 길어지겠군.
+  ja: 長引きそうだ。
+c225_01_Reload_3:
+  en: I shall go again.
+  ko: 다시 가겠네.
+  ja: もう一度行く。
+c225_01_Ult_Skill_Ready_1:
+  en: "'Tis time for the flower to bloom."
+  ko: 꽃 필 때가 왔군.
+  ja: 花が咲く時が来たか。
+c225_01_Ult_Skill_1:
+  en: Will thou come view the flowers?
+  ko: 꽃구경하지 않겠는가.
+  ja: 一緒に花見でもどうだ？
+c225_01_FullBurst_1:
+  en: One stroke, and thou are cleaved through.
+  ko: 일격에 베겠네.
+  ja: 一撃で斬ってやろう。
+c225_01_Kill_Monster_1:
+  en: How disappointing.
+  ko: 시시하군.
+  ja: つまらぬ。
+c225_01_Kill_Monster_2:
+  en: Next.
+  ko: 다음, 오게나.
+  ja: 次、来い。
+c225_01_Kill_Monster_3:
+  en: Bisect.
+  ko: 베었네.
+  ja: 斬った。
+c225_01_Damage_1:
+  en: Not bad.
+  ko: 제법이군.
+  ja: やるではないか。
+c225_01_Damage_2:
+  en: Ugh...
+  ko: 큭….
+  ja: くっ…
+c225_01_Damage_3:
+  en: Agh.
+  ko: 읏.
+  ja: うっ。
+c225_01_Die_1:
+  en: Had it not been for these garments, I could have fought with far greater fervor.
+  ko: 옷만 아니었어도, 더 싸울 수 있었네.
+  ja: この服じゃなければ、もっと戦えたのだが…
+c225_01_Win_1:
+  en: |-
+    'Tis taken me longer than usual.
+    Had I donned mine usual garb, I would have been swifter.
+  ko: |-
+    평소보다 시간이 오래 걸렸군.
+    원래 입던 옷이었다면 더 빠르게 베어냈을 걸세.
+  ja: |-
+    時間がかかりすぎた。
+    いつもなら、もっと早く終わっていたのにな。
+225_cv_ja:
+  en: 'CV: Reina Ueda'
+  ko: 'CV : 우에다 레이나'
+  ja: CV：上田麗奈
+225_cv_ko:
+  en: 'CV: Jang Ye-na'
+  ko: 'CV : 장예나'
+  ja: CV：チャン・イェナ
+225_cv_en:
+  en: 'CV: Ratana'
+  ko: 'CV : 라타나'
+  ja: CV：Ratana

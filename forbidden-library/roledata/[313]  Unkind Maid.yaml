@@ -1,0 +1,531 @@
+---
+313_name:
+  en: 'Privaty: Unkind Maid'
+  ko: '프리바티 : 언카인드 메이드'
+  ja: プリバティ：アンカインド・メイド
+c313_description:
+  en: |-
+    For reasons beyond her control, Privaty ends up working as a maid in the Maid For You squad.
+    Although she's unfamiliar and shy about her job duties, she's no doubt a professional maid as she takes responsibility for all her duties.
+  ko: |-
+    피치 못할 사정으로 메이드 포 유 스쿼드에서 메이드로서 일하게 된 프리바티.
+    메이드의 업무 모든 것이 서투르고 부끄럽지만, 책임감만은 프로 메이드라 부르기에 손색이 없다.
+  ja: |-
+    やむを得ない事情により、メイド・フォー・ユー部隊で
+    メイドとして働くことになったプリバティ。
+    メイドの仕事は不慣れで恥ずかしいが、
+    責任感だけはプロメイドに引けを取らない。
+313_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_313:
+  en: 'Privaty: Unkind Maid''s Spare Body'
+  ko: '프리바티 : 언카인드 메이드 스페어 바디'
+  ja: プリバティ：アンカインド・メイドのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down_accuracy:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Increases Hit Rate when attacking.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [공격 시 명중률 증가]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「攻撃した時、命中率増加」
+    「コアダメージ{core_damage_rate}％」</color>
+23132_name:
+  en: Loving Maid
+  ko: 사랑 가득 메이드
+  ja: 愛情たっぷりメイド
+23132_description:
+  en: |-
+    ■ Activates when more than {description_value_01} <word_group=10038>pellet(s)</word_group> hit with a single normal attack. Affects self.
+    <color=#00AEFF>Reloading Speed ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates when hitting {description_value_04} time(s) using <word_group=10038>pellets</word_group> during Full Burst Time. Affects self.
+    <color=#00AEFF>Reload {description_value_05} round(s).</color>
+    <color=#00AEFF>ATK ▲ {description_value_06}%, stacks up to {description_value_07} time(s) and lasts for {description_value_08} sec.</color>
+  ko: |-
+    ■ 일반 공격 1회로 <word_group=10038>펠릿</word_group> {description_value_01}개 이상 명중 시 자신에게
+    <color=#00AEFF>[재장전 속도 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 풀 버스트 타임 지속 시간 중 <word_group=10038>펠릿</word_group> {description_value_04}회 명중 시 자신에게
+    <color=#00AEFF>[탄환 충전 {description_value_05}발]</color>
+    <color=#00AEFF>[공격력 {description_value_06}% ▲] [{description_value_07} 중첩] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■通常攻撃1回で<word_group=10038>ペレット</word_group>が{description_value_01}個以上命中した時、自分に
+    <color=#00AEFF>「リロード速度{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■フルバーストタイムの持続時間中、
+    <word_group=10038>ペレット</word_group>が{description_value_04}回命中した時、自分に
+    <color=#00AEFF>「弾丸チャージ{description_value_05}発」</color>
+    <color=#00AEFF>「攻撃力{description_value_06}％▲」「{description_value_07}スタック」「{description_value_08}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23131_name:
+  en: Passionate Maid
+  ko: 열정 충만 메이드
+  ja: やる気満々メイド
+23131_description:
+  en: "■ Activates when hitting the target with {description_value_01} <word_group=10038>pellet(s)</word_group>.
+    Affects {description_value_03} enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Deals
+    {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>"
+  ko: |-
+    ■ <word_group=10038>펠릿</word_group> {description_value_01}회 명중 시 조준선에 가장 가까운 적 {description_value_03}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+  ja: |-
+    ■<word_group=10038>ペレット</word_group>が{description_value_01}回命中した時、照準線に最も近い敵{description_value_03}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13133_name:
+  en: Your Bashful Maid!
+  ko: 부끄러운! 당신의 메이드
+  ja: あなたのはにかみメイド
+13133_description_1:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attack damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    <color=#00AEFF>Critical Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    <color=#00AEFF>[크리티컬 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 버스트 스킬 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「クリティカルダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+    ■敵全体に<color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のバーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+310_name:
+  en: Ade
+  ko: 에이드
+  ja: エード
+311_name:
+  en: Cocoa
+  ko: 코코아
+  ja: ココア
+312_name:
+  en: Soda
+  ko: 소다
+  ja: ソーダ
+314_name:
+  en: 'Soda: Twinkling Bunny'
+  ko: '소다 : 트윙클링 바니'
+  ja: ソーダ：トゥインクルバニー
+c313_Lobby_Touch_1:
+  en: With this magic spell... this dish will become more tasty... hyah!
+  ko: 마, 맛있어지는 주문을… 걸어… 드릴… 으으으!!
+  ja: お、おいしくなる呪文を…かけ…ううう！！
+c313_Lobby_Touch_2:
+  en: |-
+    Don't be mistaken.
+    Just because I'm wearing this outfit doesn't mean I'm a real maid.
+  ko: |-
+    이런 옷을 입었다고 해서
+    진짜 메이드가 된 건 아니니 착각하지 말아요!
+  ja: |-
+    こんな服を着てるからって、
+    本物のメイドになったわけじゃありません。
+    勘違いしないでください！
+c313_Lobby_Touch_3:
+  en: Or-order your meal somewhere else!
+  ko: 주, 주문은 다른 곳에 가서 하세요!
+  ja: ちゅ、注文はあちらでしてください！
+c313_Lobby_Touch_Love_1:
+  en: W-would you like some coochie woochie omurice...?
+  ko: |-
+    마, 맛있는
+    몽글몽글 오, 오므라이스를 준비해 드리면 될까요…?
+  ja: お、おいしい、ドキドキ、オ、オムライスをご用意しましょうか…？
+c313_Lobby_Touch_Love_2:
+  en: |-
+    Wh-what would you like to eat,
+    Master?
+  ko: |-
+    어, 어떤 음식으로 준비해 드릴까요.
+    주, 주인님….
+  ja: |-
+    ご、ご注文はいかがなさいますか…
+    ご、ご主人様…
+c313_Lobby_Touch_Love_3:
+  en: |-
+    I can't let the others see me like this.
+    You're the only exception I'll make.
+  ko: |-
+    다, 다른 사람들에게 이런 모습을 보여드릴 수는 없어요.
+    그러니까 주인님만 보셔야 해요…!
+  ja: |-
+    ほ、他の人にこんな姿は見せられません。
+    だから、見ていいのはご主人様だけです…！
+c313_Lobby_Stay_1:
+  en: |-
+    Master? Where did you go?
+    I have lots of things to do, you know.
+  ko: |-
+    그… 주인님? 어디 가신 거죠?
+    저도 한가해서 이러고 있는 게 아니라구요.
+  ja: |-
+    あの…ご主人様？どちらへ行かれたのですか？
+    私も、暇だからこうしているわけじゃないんですよ。
+c313_Lobby_Stay_Love_1:
+  en: |-
+    Since I'm your maid, I'll wait for you here.
+    Please come back soon.
+  ko: |-
+    …주, 주인님의 메이드, 프리바티는 여기서 기다릴 테니
+    어서 다녀오세요.
+  ja: |-
+    …ご、ご主人様のメイド、プリバティはここでお待ちしています。
+    いってらっしゃいませ。
+c313_Outpost_Touch_1:
+  en: |-
+    What are you doing?
+    I didn't choose to dress up like this!
+  ko: |-
+    왜, 왜 그러시죠?!
+    저라고 이런 옷을 입고 돌아다니고 싶은 줄 아세요?!
+  ja: |-
+    な、なんですか！？
+    私だってこんな服、 着たくて着てるんじゃ ないんですよ！？
+c313_Outpost_Touch_2:
+  en: |-
+    The Maid Cafe is holding an event,
+    so come and join us if you have time.
+  ko: |-
+    그… 메이드 카페에서 이벤트가 열리고 있으니까
+    시간 되시면 오시던가요.
+  ja: |-
+    その… メイドカフェで イベントを開催しているので
+    時間があったら 来たらどうですか？
+c313_Outpost_Touch_3:
+  en: |-
+    Coochie woochie, boing boing...
+    Ah! You didn't hear that, did you?
+  ko: |-
+    몽글몽글 큐… 큐웅….
+    핫! 서, 설마 들은 건 아니죠?
+  ja: |-
+    ドキドキ、 キュ…キュン…
+    はっ！ ま、まさか 聞こえてました？
+c313_Gacha_Get_1:
+  en: My name is Privaty, and I am your maid...
+  ko: "…주, 주인님의 메이드, 프리바티예요. …흐읏."
+  ja: "…ご、ご主人様のメイド、プリバティです。…ふぅ。"
+c313_Reinforce_1:
+  en: I'll repay you by making some extra tasty omurice.
+  ko: 더 멋진 오므라이스로 보답해 드리죠.
+  ja: もっとおいしいオムライスでお返ししましょう。
+c313_Reinforce_2:
+  en: Are you planning on keeping me as a maid 24/7?
+  ko: 저를 메이드로서 어디까지 키울 생각이죠…?!
+  ja: どこまで私をメイドとして育てるつもりですか…！？
+c313_Reinforce_3:
+  en: Well... I guess being a maid isn't too bad.
+  ko: 뭐, 나쁘진 않네요.
+  ja: まあ、悪くありませんね。
+c313_Gift_1:
+  en: |-
+    Huh? A Master trying to please a maid?
+    Anyway, I'll take it for now...
+  ko: |-
+    흥. 메이드에게 아부하는 주인님이라니.
+    일단 받아는 드리죠.
+  ja: |-
+    ふんっ。メイドに媚びを売るご主人様なんて。
+    とりあえず受け取っておきますけどっ。
+c313_Gift_2:
+  en: Don't you think you're a bit obsessed with me?
+  ko: 하, 저를 너무 좋아하시는 거 아닌가요?
+  ja: ふんっ、私のことが好きすぎではありませんか？
+c313_Gift_3:
+  en: You really know what I like, Master.
+  ko: 주인님은 제 취향을 참 잘 알고 계시네요.
+  ja: ご主人様は私の好みをよくご存じですね。
+c313_Attractive_Up_1:
+  en: |-
+    What do you think happens if a maid falls in love with someone she's serving?
+    Ugh... Just asking!
+  ko: |-
+    호, 혹시 메이드가 주인님을 좋아하게 되면 어떻게 되나요…?
+    그, 그냥 궁금해서 묻는 거예요!
+  ja: |-
+    も、もしメイドがご主人様のことを好きになってしまったら、
+    どうなるのでしょう…？
+    た、ただ聞いてみただけです！
+c313_Attractive_Up_2:
+  en: |-
+    Next time,
+    I'll use the ketchup to draw a heart on your omurice.
+  ko: |-
+    다음엔 특별히 오므라이스에
+    하, 하트 모양 케첩을 뿌려드릴게요.
+  ja: |-
+    次は特別に、ケチャップでオムライスに
+    ハ、ハートを描いてあげましょう。
+c313_Attractive_Up_3:
+  en: I'm starting to get used to calling you Master.
+  ko: "...주인님이란 호칭이 입에 붙어버렸어요."
+  ja: "…ご主人様という呼び方が、クセになってしまいました。"
+c313_Party_Deploy_1:
+  en: Did you select me?
+  ko: 저, 저를 지명하신 건가요?
+  ja: わ、私をご指名ですか？
+c313_Field_Touch_1:
+  en: Yes, M-Master.
+  ko: 네, 주, 주인님.
+  ja: はい、ご、ご主人様。
+c313_Field_Go_1:
+  en: I'm going in!
+  ko: 가면 되잖아요, 가면!
+  ja: 行けばいいんでしょう、行けば！
+c313_Battle_Enter_1:
+  en: Is this the sort of thing a maid should be doing?
+  ko: 메이드가 이런 일도 하나요?!
+  ja: メイドはこんなこともするんですか！？
+c313_Battle_Ready_1:
+  en: I just need to clean this place up, right?!
+  ko: 여기만 정리하면 되는 거죠…?!
+  ja: ここを片づければいいんですよね…！？
+c313_Battle_Ready_2:
+  en: Let's clean up this mess and go back!
+  ko: 빨리 정리하고 돌아가요…!
+  ja: 早く片づけて帰りましょう…！
+c313_Battle_Ready_3:
+  en: Phew... that's a lot of trash to take out.
+  ko: 하아… 청소해야 할 것들이 많네요.
+  ja: はぁ…お掃除しなきゃいけませんね。
+c313_Reload_1:
+  en: I'm reloading.
+  ko: 장전하고 있어요.
+  ja: 装填中です。
+c313_Reload_2:
+  en: Come on, faster!
+  ko: 빨리…! 빨리!
+  ja: 早く…！早く！
+c313_Reload_3:
+  en: What am I doing here?
+  ko: 으으, 이게 뭐 하는 건지.
+  ja: うう、何をしてるんだか…
+c313_Ult_Skill_Ready_1:
+  en: M-Master!
+  ko: 주, 주인님!
+  ja: ご、ご主人様！
+c313_Ult_Skill_1:
+  en: B-become tastier♪ Coochie woochie, boing!
+  ko: 마, 맛있어져라♪ 몽글몽글 큐웅-!
+  ja: |-
+    お、おいしくな～れ♪
+    ドキドキ、キュンッ！
+c313_FullBurst_1:
+  en: Wrap it up, now!
+  ko: 마무리를 부탁해요!
+  ja: 仕上げをお願いします！
+c313_Kill_Monster_1:
+  en: That wasn't such a big deal after all.
+  ko: 뭐, 별거 아니네요.
+  ja: まあ、大したことないですね。
+c313_Kill_Monster_2:
+  en: Who's next?
+  ko: 다음은 어디죠?
+  ja: 次はどこですか？
+c313_Kill_Monster_3:
+  en: All cleaned up!
+  ko: 청소 끝!
+  ja: お掃除、完了！
+c313_Damage_1:
+  en: Ouch!
+  ko: 아얏!
+  ja: ああっ！
+c313_Damage_2:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c313_Damage_3:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c313_Die_1:
+  en: I've got to pull back... I'm sorry, Master...
+  ko: 먼저 퇴각합니다… 죄송해요, 주인님….
+  ja: 先に退却します…すみません、ご主人様…
+c313_Win_1:
+  en: For a maid, this was a piece of cake.
+  ko: "…뭐, 메이드도 이 정도는 한다구요."
+  ja: "…まあ、メイドだってこれくらいはできるんですよ。"
+313_cv_ja:
+  en: 'CV: Ayana Taketatsu'
+  ko: 'CV : 타케타츠 아야나'
+  ja: CV：竹達彩奈
+313_cv_ko:
+  en: 'CV: Bang Siu'
+  ko: 'CV : 방시우'
+  ja: CV：バン・シウ
+313_cv_en:
+  en: 'CV: Kira Buckland'
+  ko: 'CV : 키라 버클랜드'
+  ja: CV：Kira Buckland

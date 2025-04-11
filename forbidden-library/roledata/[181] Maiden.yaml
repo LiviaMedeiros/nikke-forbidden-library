@@ -1,0 +1,478 @@
+---
+181_name:
+  en: Maiden
+  ko: 메이든
+  ja: メイデン
+c181_description:
+  en: A Nikke from Extrinsic who dresses to impress. Underneath her mask lies a shocking
+    secret.
+  ko: "눈에 띄는 복장을 하고 있는 익스터너 스쿼드 소속의 니케. \n그녀의 마스크 아래에는 굉장한 비밀이 숨겨져있다."
+  ja: |-
+    とても目立つ格好をしたエクスターナー部隊所属のニケ。
+    彼女のマスクの下には、とてつもない秘密が隠されている。
+181_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50181:
+  en: Maiden's Spare Body
+  ko: 메이든 스페어 바디
+  ja: メイデンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+11812_name:
+  en: 'Kotodama: Words of Assault'
+  ko: '언령 : 필중의 언'
+  ja: 言霊：必中の言
+11812_description:
+  en: "■ Affects all enemies.\n<color=#00AEFF>Taunt for {description_value_01} sec.</color>
+    \n■ Affects self.\n<color=#00AEFF>Critical Damage ▲ {description_value_02}% for
+    {description_value_03} sec.</color>"
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[도발] [{description_value_01}초 유지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「挑発」「{description_value_01}秒間維持」</color>
+    ■自分に
+    <color=#00AEFF>「クリティカルダメージ{description_value_02}％▲」
+    「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21811_name:
+  en: 'Kotodama: Words of Skill'
+  ko: '언령 : 기교의 언'
+  ja: 言霊：技巧の言
+21811_description:
+  en: |-
+    ■ Activates when attacked {description_value_01} time(s). Affects self.
+    <color=#00AEFF>Revenge: ATK ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ {description_value_01}회 피격 시 자신에게
+    <color=#00AEFF>[복수 : 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■{description_value_01}回攻撃を受けた時、自分に
+    <color=#00AEFF>「復讐：攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11813_name:
+  en: 'Kotodama: Words of Power'
+  ko: '언령 : 힘있는 말'
+  ja: 言霊：確かな言葉
+11813_description_1:
+  en: "■ Affects all enemies.\n<color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color> \n■ Affects the same target(s) when in Revenge
+    status.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as additional damage.</color>"
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 자신이 복수 상태라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    バーストスキルダメージ」</color>
+    ■自分が復讐状態なら同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+180_name:
+  en: Guillotine
+  ko: 길로틴
+  ja: ギロチン
+183_name:
+  en: 'Maiden: Ice Rose'
+  ko: '메이든 : 아이스 로즈'
+  ja: メイデン：アイスローズ
+182_name:
+  en: 'Guillotine: Winter Slayer'
+  ko: '길로틴 : 윈터 슬레이어'
+  ja: ギロチン：ウィンタースレイヤー
+c181_Lobby_Touch_1:
+  en: Gosh, I can barely breathe in this thing... Huh?
+  ko: 하… 답답해. 흐엑?
+  ja: |-
+    はぁ…ムカムカする。
+    きゃぁっ？
+c181_Lobby_Touch_2:
+  en: Onion-flavored Splendamin? For real?
+  ko: 양파맛 퍼펙트를 먹었더니… 아앗?
+  ja: オニオン味のパーフェクトを食べたせいで…ああっ？
+c181_Lobby_Touch_3:
+  en: Yeah, so what if I took off my mask. I felt like I was suffocating in that thing!
+  ko: 예. 마스크를 벗었어요. 답답한데 어쩌란 말인가요.
+  ja: |-
+    はい。マスクは外しました。
+    息苦しくてどうしようもないんですもの。
+c181_Lobby_Touch_Love_1:
+  en: |-
+    It's a wonderful thing to feel like you belong.
+    It makes me look forward to my days off.
+  ko: "소속감이란 건… 정말 좋네요. \n매일 주말을 기대하게 됐어요."
+  ja: |-
+    帰属意識というものは…
+    こんなにもいいものなんですね。
+    週末が待ち遠しいです。
+c181_Lobby_Touch_Love_2:
+  en: |-
+    They said from then on I could take off my facemask when kissing.
+    Kiss who? Well... you already know the answer to that.
+  ko: |-
+    앞으로 키스할 땐 마스크를 벗어도 된대요.
+    누구랑 하냐고요? 그게… 당연하지 않나요?
+  ja: |-
+    これから、キスをする時はマスクをとってもいいそうです。
+    誰とするかですって？そんなの…
+    決まってるじゃないですか。
+c181_Lobby_Touch_Love_3:
+  en: |-
+    I don't know why, but I'm always at ease around you, Commander.
+    So I'm sticking with you.
+  ko: |-
+    이상하게 지휘관 옆에 붙어 있으면 마음이 편해져요.
+    그러니까 계속 붙어 있을래요.
+  ja: |-
+    なぜか指揮官のそばにいると気持ちが落ち着くんです。
+    だから、ずっとそばにいさせてください。
+c181_Lobby_Stay_1:
+  en: Commander, we've been assigned a mission... should we go?
+  ko: 지휘관, 임무 들어온 것 같은데… 안 나가세요?
+  ja: |-
+    指揮官、任務が発生したようですが…
+    行かれないのですか？
+c181_Lobby_Stay_Love_1:
+  en: |-
+    I don't mean to be rude, but can we speed this up?
+    I promised my guildmates I'd be back for a raid.
+  ko: "죄송한데 빨리 움직이면 안 될까요? \n다녀와서 길드원이랑 토벌전 뛰기로 해서요."
+  ja: |-
+    すみませんが、もう少し手際よく動けませんか？
+    帰ったらギルドメンバーと討伐戦に行くんです。
+c181_Outpost_Touch_1:
+  en: I like the church. It's nice and quiet, and makes for a good hiding spot.
+  ko: 교회는 조용해서 좋아요. 숨어있기도 좋고.
+  ja: 教会は静かで好きです。 隠れるにも最適ですし。
+c181_Outpost_Touch_2:
+  en: The Outpost is perfect for putting your feet up and taking a load off.
+  ko: 전초기지는 빈둥거리기 좋은 곳이네요.
+  ja: 前哨基地は暇つぶしに もってこいの場所です。
+c181_Outpost_Touch_3:
+  en: That looks like a good place for a lie down.
+  ko: 아, 저기 눕기 좋은 장소가….
+  ja: あ、あそこで寝転がったら 気持ちよさそう…
+c181_Gacha_Get_1:
+  en: What's under the mask? Why, a beautiful face, of course!
+  ko: |-
+    이 마스크 아래에는 뭐가 있을까요?
+    정답은 미인이에요.
+  ja: |-
+    このマスクの下には何があるでしょうか？
+    正解は、美しい顔です。
+c181_Reinforce_1:
+  en: I could care less about the upgrades. I just want to lie down.
+  ko: 레벨 업이고 뭐고 눕고 싶네요 그냥.
+  ja: レベルアップよりもただ横になりたいんですが。
+c181_Reinforce_2:
+  en: E-excuse me. Is there more?
+  ko: 저… 죄송한데 혹시 더 없나요?
+  ja: あの…すみませんが、もっとないんですか？
+c181_Reinforce_3:
+  en: Please give me more next time.
+  ko: 다음엔 좀 더 많이 준비해 주세요.
+  ja: 次はもっとたくさん準備してください。
+c181_Gift_1:
+  en: Ah... If only you could give me something else...
+  ko: 아… 다른 것도 주면 좋겠는데….
+  ja: あ…他の物をプレゼントしてくれてもいいんですよ…
+c181_Gift_2:
+  en: A gift? For free?
+  ko: 선물이요? 공짜로 주는 건가요?
+  ja: プレゼントですって？タダでくれるんですか？
+c181_Gift_3:
+  en: Thanks. You're not gonna get on my case if I sell it, are you?
+  ko: 감사합니다. 팔면… 혼내실 거죠?
+  ja: ありがとうございます。売ったら…怒りますよね？
+c181_Attractive_Up_1:
+  en: I always want to be by your side. I mean that.
+  ko: 지휘관의 옆에 오래오래 붙어있고 싶어요. 아주 오래.
+  ja: 指揮官のそばにずっとずっといたいです。永遠に。
+c181_Attractive_Up_2:
+  en: So, when are you planning on getting a marriage certificate?
+  ko: 그래서 혼인 신고서는 언제 낼 건가요?
+  ja: それはそうと、婚姻届けはいつ出すんですか？
+c181_Attractive_Up_3:
+  en: |-
+    I love you.
+    Sorry, was that too sudden? Nevertheless, I still love you.
+  ko: |-
+    사랑해요.
+    …아, 너무 갑작스러웠나요? 그래도 사랑해요.
+  ja: |-
+    愛してます。
+    …あ、突然すぎましたか？
+    でも愛してます。
+c181_Party_Deploy_1:
+  en: Me? Do I have to?
+  ko: 저요? 제가 꼭 필요할까요?
+  ja: 私ですか？私じゃないとだめなんですか？
+c181_Field_Touch_1:
+  en: Huh? Me?
+  ko: 어? 저요?
+  ja: え？私？
+c181_Field_Go_1:
+  en: Carry me...
+  ko: 누가 좀 업어줬으면….
+  ja: 誰かおんぶして…
+c181_Battle_Enter_1:
+  en: Time to fight, I suppose.
+  ko: 아… 전투네.
+  ja: あ…戦闘か。
+c181_Battle_Ready_1:
+  en: Let's get this over with.
+  ko: 빠르게 끝낼게요.
+  ja: すぐに終わらせます。
+c181_Battle_Ready_2:
+  en: Before we begin, Commander, can I possibly have a cookie?
+  ko: 지휘관, 시작하기 전에 과자 하나만.
+  ja: 指揮官、始める前にお菓子を一口だけ。
+c181_Battle_Ready_3:
+  en: If only there was someone else to take my place...
+  ko: 누가 대신 싸워줬으면….
+  ja: 誰か代わりに戦ってくれないかしら…
+c181_Reload_1:
+  en: I'll reload.
+  ko: 리로드 할게요.
+  ja: リロードします。
+c181_Reload_2:
+  en: There should be a reload fairy that takes care of this.
+  ko: 장전의 요정은 세상에 없는 걸까요?
+  ja: 装填の妖精とかはこの世にいないのでしょうか？
+c181_Reload_3:
+  en: Do I have to reload by myself?
+  ko: 장전 정도는 제가 해야겠죠, 예.
+  ja: 装填くらいは私がしませんとね、はい。
+c181_Ult_Skill_Ready_1:
+  en: Mask open.
+  ko: 마스크 오프.
+  ja: マスクオフ。
+c181_Ult_Skill_1:
+  en: Kotodama, the power hidden within ones words.
+  ko: 숨결과 단어는 권능. 그것이 언령.
+  ja: 息吹と単語は権能。それが言霊。
+c181_FullBurst_1:
+  en: Everyone's firing all at once... Will anyone notice if I don't?
+  ko: 일제 사격! …저는 안 쏴도 티 안 나겠죠?
+  ja: 一斉射撃！…私が撃たなくてもばれませんよね？
+c181_Kill_Monster_1:
+  en: Huh? They're down already?
+  ko: 어? 잡았다.
+  ja: あれ？捕まえた。
+c181_Kill_Monster_2:
+  en: Target down.
+  ko: 격추했어요.
+  ja: 撃墜しました。
+c181_Kill_Monster_3:
+  en: What a weakling.
+  ko: 약하네요.
+  ja: 弱いんですね。
+c181_Damage_1:
+  en: Ah!
+  ko: 꺅!
+  ja: きゃっ！
+c181_Damage_2:
+  en: Urgh!
+  ko: 흣!
+  ja: ふうっ！
+c181_Damage_3:
+  en: No!
+  ko: 안 돼!
+  ja: やめて！
+c181_Die_1:
+  en: Huh? S-sorry.
+  ko: 어? 음… 죄, 죄송해요.
+  ja: あれ？あ…す、すみません。
+c181_Win_1:
+  en: Ahh... So annoying... Um, did you hear that?
+  ko: 하아… 지긋지긋해라. …들으셨나요?
+  ja: はあ…うんざりする。…何か聞こえました？
+181_cv_ja:
+  en: 'CV: Yui Horie'
+  ko: 'CV : 호리에 유이'
+  ja: CV：堀江由衣
+181_cv_ko:
+  en: 'CV: Min-ah'
+  ko: 'CV : 민아'
+  ja: CV：ミナ
+181_cv_en:
+  en: 'CV: Jenny Yokobori'
+  ko: 'CV : 제니 요코보리'
+  ja: CV：Jenny Yokobori

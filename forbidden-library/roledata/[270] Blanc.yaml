@@ -1,0 +1,759 @@
+---
+270_name:
+  en: Blanc
+  ko: 블랑
+  ja: ブラン
+c270_description:
+  en: |-
+    A member of Squad 777 who draws throngs of customers to Coin Rush.
+    Nothing gives her greater pleasure than dressing herself up as a bunny, and she takes an immense amount of pride in her crowd-pleasing shows.
+    Unlike her diffident sister, Blanc is an exuberant extrovert.
+  ko: |-
+    777 스쿼드 소속 니케이자 코인 러시의 간판스타이다.
+    스스로가 바니걸임을 좋아하고 자신의 쇼로 사람들을 즐겁게 하는 것을 자랑스러워한다.
+    부끄럼을 많이 타는 언니 누아르와 달리, 블랑은 매우 외향적이고 열정적인 편이다.
+  ja: |-
+    777部隊所属のニケであると同時に
+    コインラッシュの看板娘。
+    自分がバニーガールであることが嬉しく、
+    自分のショーを見た人が楽しんでくれることを
+    誇りに思っている。
+    恥ずかしがり屋の姉・ノワールとは違い、
+    ブランは社交的でやる気に満ちあふれている。
+270_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50270:
+  en: Blanc's Spare Body
+  ko: 블랑 스페어 바디
+  ja: ブランのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22702_name:
+  en: Rabbit Twins W
+  ko: 래빗 트윈즈 W
+  ja: ラビットツインズW
+22702_description:
+  en: |-
+    ■ Activates after Full Burst ends. Affects all allies.
+    <color=#00AEFF>Constantly recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
+    ■ Activates when Full Burst ends with an ally from the same squad still on the battlefield. Affects self.
+    <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 종료 시 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 종료 시 동일 스쿼드 아군이 있다면 자신에게
+    <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_03}초 ▼]</color>
+  ja: |-
+    ■フルバーストタイムが終了した時、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％持続回復」「1秒間隔」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが終了した時、同じ部隊の味方がいれば自分に
+    <color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_03}秒▼」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22701_name:
+  en: Lucky Guard
+  ko: 럭키 가드
+  ja: ラッキーガード
+22701_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s).
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP, which protects all allies from damage. Lasts for {description_value_03} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 아군 공용 <word_group=10023>보호막</word_group>] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％の味方共用<word_group=10023>バリア</word_group>」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12703_name:
+  en: Showtime
+  ko: 쇼타임
+  ja: ショータイム
+12703_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Constantly recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
+    ■ Affects {description_value_03} ally unit(s) with the lowest remaining HP (except caster).
+    <color=#00AEFF>Gain <word_group=10006>Indomitability</word_group> for {description_value_04} sec.
+    Max HP ▲ {description_value_05}% for {description_value_06} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Damage Taken ▲ {description_value_07}% for {description_value_08} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격] [{description_value_02}초 유지]</color>
+    ■ 자신을 제외한 남은 체력 수치가 가장 낮은 아군 {description_value_03}기에게
+    <color=#00AEFF>[<word_group=10006>불굴</word_group>] [{description_value_04}초 유지]
+    [최대 체력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％持続回復」「1秒間隔」「{description_value_02}秒間維持」</color>
+    ■自分を除く残りのHPの数値が最も低い味方{description_value_03}機に
+    <color=#00AEFF>「<word_group=10006>不屈</word_group>」「{description_value_04}秒間維持」
+    「最大HP{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「受けるダメージ{description_value_07}％▲」
+    「{description_value_08}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+271_name:
+  en: Noir
+  ko: 누아르
+  ja: ノワール
+272_name:
+  en: Rouge
+  ko: 루주
+  ja: ルージュ
+c270_Lobby_Touch_1:
+  en: A bit of luck, just for you.
+  ko: 행운을 듬~뿍 받아 가세요!
+  ja: 幸せをたっぷりお届けします！
+c270_Lobby_Touch_2:
+  en: Get ready for showtime! Featuring the twin bunnies!
+  ko: 쌍둥이 토끼들이 함께하는 쇼 타임! 기대해 주세요.
+  ja: |-
+    双子のウサギのショータイム！
+    お楽しみに！
+c270_Lobby_Touch_3:
+  en: My sister and I are polar opposites, but that makes it all the better when we
+    appear together.
+  ko: |-
+    저랑 언니가 너무 다르다고요?
+    그러니까 합쳐졌을 때 더 완벽한 거죠.
+  ja: |-
+    私とお姉ちゃんが違いすぎる？
+    だから一緒にいるともっと完璧なんです。
+c270_Lobby_Touch_Love_1:
+  en: I'd be more than happy having you join me and Noir.
+  ko: 점장님이라면, 저랑 언니 사이에 들어와도 좋을 것 같아요.
+  ja: 店長なら、私とお姉ちゃんの間にいてもいいですよ。
+c270_Lobby_Touch_Love_2:
+  en: You understand how we feel, don't you, Pit Boss?
+  ko: 저희 마음 다 아시죠, 점장님?
+  ja: 店長。私たちの気持ち、分かってますよね？
+c270_Lobby_Touch_Love_3:
+  en: You want to touch my tail. Then should I stick it out... like this?
+  ko: 꼬리를 만지고 싶다고요? 으음… 내, 내밀어 드려야 할까요?
+  ja: |-
+    尻尾を触りたい？
+    うーん…こ、これで触れますか？
+c270_Lobby_Stay_1:
+  en: Fortune is fleeting. Let's hurry and start a new game.
+  ko: "행운은 오래 머무르지 않아요! \n어서 새로운 게임을 시작하러 가요."
+  ja: |-
+    幸運は移動するもの！
+    早く新しいゲームを始めましょう。
+c270_Lobby_Stay_Love_1:
+  en: I honestly enjoy spending time with you just doing nothing. I never tire of
+    your company.
+  ko: |-
+    있죠, 실은 점장님이랑 가만있는 시간도 전 좋아요.
+    보고 또 봐도 안 질리거든요.
+  ja: |-
+    実はですね、店長とじっとしてる時間も好きなんですよ。
+    いくら見ていても飽きないんです。
+c270_Outpost_Touch_1:
+  en: Have you seen Noir? It's been 10 minutes since I last saw her.
+  ko: "혹시 누아르 언니 못 봤나요? \n우리 지금 벌써 십분째 떨어져 있는데요!"
+  ja: |-
+    ノワールお姉ちゃんを 見てませんか？
+    もう10分も 離れてるんです！
+c270_Outpost_Touch_2:
+  en: I don't wear this outfit all the time, you know. I'm merely maintaining a professional
+    appearance in front of you.
+  ko: |-
+    저라고 늘 이 차림인 건 아니에요.
+    점장님 앞이니까 프로 정신을 발휘하는 거죠.
+  ja: |-
+    私だってずっと この格好じゃない ですよ。
+    店長の前だから、 プロとして がんばってるんです。
+c270_Outpost_Touch_3:
+  en: "I sometimes do shows at the theater during the holidays. \nWould you like to
+    come see my next show?"
+  ko: |-
+    휴일엔 가끔 극장에서 쇼를 하기도 해요.
+    나중에 보러 와 주실 거죠?
+  ja: |-
+    休日は劇場で ショーをすることも ありますよ。
+    今度見に来て くれますよね？
+c270_Gacha_Get_1:
+  en: The Bunny Girl of Coin Rush, Blanc! I'll bring you luck.
+  ko: 코인 러쉬의 바니걸, 블랑! 행운을 듬뿍 가져다드릴게요.
+  ja: |-
+    コインラッシュのバニーガール、ブラン！
+    幸せをたっぷりお届けします。
+c270_Reinforce_1:
+  en: I feel amazing! I bet I could serve 10 drinks on a tray, no problem.
+  ko: 열 잔 정도는 가뿐히 서빙할 수 있겠어요.
+  ja: 10杯くらいは余裕で運べそうですね。
+c270_Reinforce_2:
+  en: I'll return the favor by putting on an amazing show!
+  ko: 멋진 쇼로 보답할게요!
+  ja: 素敵なショーでお返しします！
+c270_Reinforce_3:
+  en: With this, I'll be able to make so many more people happy!
+  ko: 이걸로 더 많은 사람들을 행복하게 해줄 수 있겠죠?
+  ja: これでもっとみんなを幸せにできますよね？
+c270_Gift_1:
+  en: Wow, I'm so happy! But how am I supposed to share half of this with Noir?
+  ko: |-
+    와, 너무 기뻐요!
+    그런데 이걸 어떻게 언니와 반으로 나누죠?
+  ja: |-
+    わあ、とっても嬉しいです！
+    でもどうやってお姉ちゃんと半分こしよう。
+c270_Gift_2:
+  en: Today is my lucky day.
+  ko: 오늘은 제 행운의 날인가 봐요.
+  ja: 今日は私のラッキーデーみたいです。
+c270_Gift_3:
+  en: Did you really give one of these to Noir as well?
+  ko: "…누아르 언니한테도 같은 걸로 주신 거 맞죠?"
+  ja: "…ノワールお姉ちゃんにも同じものあげたんですよね？"
+c270_Attractive_Up_1:
+  en: Because it's you, I wouldn't mind if you hog all of my luck.
+  ko: 점장님이라면 제 행운을 다 가져가도 좋아요.
+  ja: 店長なら私の幸せを全部持っていってもいいですよ。
+c270_Attractive_Up_2:
+  en: I'm all yours, Pit Boss, body and mind.
+  ko: 몸도 마음도 점장님만의 거예요.
+  ja: 心も体も店長だけのものです。
+c270_Attractive_Up_3:
+  en: If I'm fond of you, I'm sure Noir will be too. What do you say the three of
+    us go on a date together someday?
+  ko: "제가 점장님을 좋아하니까, 언니도 분명 같을 거예요. \n언제 셋이서 같이 데이트할까요?"
+  ja: |-
+    私は店長が好きなので、お姉ちゃんもきっと同じ気持ちのはずです。
+    いつ3人でデートしましょうか？
+c270_Party_Deploy_1:
+  en: Is it a bet? Then count me in!
+  ko: 베팅인가요? 그럼 저와 함께 해요!
+  ja: |-
+    ベットですか？
+    じゃあ私と一緒にしましょう！
+c270_Field_Touch_1:
+  en: You look even more handsome out in the open, Pit Boss.
+  ko: 햇빛 아래에서 보는 점장님은 더 멋지네요.
+  ja: 日差しの下で見る店長は、もっと素敵ですね。
+c270_Field_Go_1:
+  en: I feel like we're gonna hit the jackpot with these guys.
+  ko: 앗, 그쪽에서 잭팟의 기운이…!
+  ja: あっ、あっちから大当たりの予感が…！
+c270_Battle_Enter_1:
+  en: Game on!
+  ko: 게임 시작할게요!
+  ja: ゲームを始めます！
+c270_Battle_Ready_1:
+  en: I'll share my luck with everyone.
+  ko: 제 행운을 나눠드릴게요!
+  ja: 私の幸運を分けてあげますね！
+c270_Battle_Ready_2:
+  en: As long as you have me, you'll never lose this round.
+  ko: 제가 있으니까 이번 판은 절대 지지 않아요!
+  ja: 私がいるので、絶対負けません！
+c270_Battle_Ready_3:
+  en: I'm not scared, so long as Noir is here with me.
+  ko: 언니와 함께니까 두렵지 않아요.
+  ja: お姉ちゃんと一緒だから怖くありません。
+c270_Reload_1:
+  en: Getting ready.
+  ko: 준비 중이에요.
+  ja: 準備中です。
+c270_Reload_2:
+  en: I've got to protect my sister.
+  ko: 언닌 내가 지켜줄 거야.
+  ja: お姉ちゃんは私が守るから。
+c270_Reload_3:
+  en: A bunny girl never loses.
+  ko: 바니걸은 절대 지지 않아요.
+  ja: バニーガールは絶対に負けません。
+c270_Ult_Skill_Ready_1:
+  en: It's time, Pit Boss!
+  ko: 시간 됐어요, 점장님!
+  ja: 時間ですよ、店長！
+c270_Ult_Skill_1:
+  en: Showtime for Noir and Blanc!
+  ko: 블랑과 누아르의 쇼 타임이에요!
+  ja: ブランとノワールのショータイムです！
+c270_FullBurst_1:
+  en: Everyone put your luck together and let 'em have it!
+  ko: 지금이에요! 다들 행운을 믿고 던져봐요!
+  ja: |-
+    今です！
+    幸運を信じて投げましょう！
+c270_Kill_Monster_1:
+  en: That was lucky!
+  ko: 운이 좋았어요!
+  ja: 運がよかったです！
+c270_Kill_Monster_2:
+  en: Lucky!
+  ko: 럭키!
+  ja: ラッキー！
+c270_Kill_Monster_3:
+  en: I'm on a hot streak today.
+  ko: 오늘은 흐름이 좋네요.
+  ja: いい流れですね。
+c270_Damage_1:
+  en: Agh!
+  ko: 꺅!
+  ja: きゃっ！
+c270_Damage_2:
+  en: Noir...!
+  ko: 언니…!
+  ja: お姉ちゃん…！
+c270_Damage_3:
+  en: Woah.
+  ko: 흐앙.
+  ja: ふえん。
+c270_Die_1:
+  en: Noir... I'm sorry I'm leaving you behind.
+  ko: 언니… 두고 가서 미안해….
+  ja: お姉ちゃん…置いていってごめんね…
+c270_Win_1:
+  en: I may look like a bunny, but I'll take on anyone, anytime, anywhere!
+  ko: 바니걸은 언제 어디서나 무적이랍니다!
+  ja: バニーガールはいつでもどこでも無敵です！
+c270_01_Lobby_Touch_1:
+  en: |-
+    Pit Boss!
+    Do you think this dress suits me?
+  ko: |-
+    점장님!
+    이 옷 어때요? 저랑 잘 어울리나요?
+  ja: |-
+    店長！
+    この服、どうですか？似合ってます？
+c270_01_Lobby_Touch_2:
+  en: Noir and I are going to take a bath in the hot spring.
+  ko: 저는 누아르 언니랑 온천에 들어갈 거예요~!
+  ja: ノワールお姉ちゃんと温泉に入ります～！
+c270_01_Lobby_Touch_3:
+  en: New clothes... New hairstyle... I like it!
+  ko: 새로운 옷… 새로운 머리 스타일… 너무 마음에 들어요!
+  ja: |-
+    新しい服…新しいヘアスタイル…
+    とっても気に入りました！
+c270_01_Lobby_Touch_Love_1:
+  en: |-
+    I could stay here with you forever.
+    Oh, and Noir, too!
+  ko: |-
+    점장님과 영원히 설온장에 있고 싶어요.
+    물론 누아르 언니도 함께요!
+  ja: |-
+    店長と、ずっと雪見温泉にいたいです。
+    もちろん、ノワールお姉ちゃんも一緒に！
+c270_01_Lobby_Touch_Love_2:
+  en: |-
+    I am so happy that I get to spend Christmas with you, Pit Boss.
+    This Christmas is gonna be the luckiest ever!
+  ko: |-
+    점장님과 함께 크리스마스를 보내다니 너-무 좋아요!
+    이번 크리스마스는 분명 행운의 크리스마스일 거예요!
+  ja: |-
+    店長と一緒に過ごすクリスマス、すごくいいですね！
+    今年のクリスマスは、きっと幸運のクリスマスになりますよ！
+c270_01_Lobby_Touch_Love_3:
+  en: |-
+    Emma taught me how to give massages.
+    Maybe I can give you one later?
+  ko: |-
+    점장님, 나중에 제가 마사지해 드릴까요?
+    엠마한테 배웠거든요!
+  ja: |-
+    店長、今度マッサージしましょうか？
+    エマに習ったんです！
+c270_01_Lobby_Stay_1:
+  en: |-
+    Are you going to be here soon?
+    If not, can I go hang out with Noir for a while?
+  ko: |-
+    점장님 언제 오세요?
+    저 누아르 언니한테 가봐도 될까요~?!
+  ja: |-
+    店長、いつ帰って来るんですか？
+    ノワールお姉ちゃんのところに行っちゃいますよ～！？
+c270_01_Lobby_Stay_Love_1:
+  en: |-
+    Hurry up and get here, Pit Boss!
+    You, me, and Noir all need to take a soak in the hot spring.
+  ko: |-
+    점장님~ 얼른 오세요!
+    누아르 언니랑 함께 온천에 들어가요!
+  ja: |-
+    店長～早く来てください！
+    ノワールお姉ちゃんと一緒に温泉に入りましょう！
+c270_01_Outpost_Touch_1:
+  en: Noir and I are going to Snowfield. Would you like to join us?
+  ko: 언니랑 같이 설온장에 갈 예정인데 점장님도 같이 가실래요?
+  ja: |-
+    お姉ちゃんと一緒に 雪見温泉に行く 予定なんですが、
+    店長も一緒に 行きませんか？
+c270_01_Outpost_Touch_2:
+  en: |-
+    What I wouldn't give to go back to Snowfield again...
+    When do you think we'll get another chance?
+  ko: |-
+    또 설온장에 가고 싶어요~
+    언제 갈 수 있을까요?
+  ja: |-
+    また雪見温泉に 行きたいです～
+    いつ行けるでしょうか？
+c270_01_Outpost_Touch_3:
+  en: |-
+    Everybody is looking at me...
+    Maybe because I'm wearing something other than my bunny girl suit?
+  ko: |-
+    사람들이 자꾸 쳐다봐요!
+    바니걸 복장이 아닌 게 신기한가 봐요~
+  ja: |-
+    みんなからの 視線を感じます！
+    バニーガールの 格好じゃないのが 不思議みたいですね～
+c270_01_Gacha_Get_1:
+  en: |-
+    I'm Blanc, the lucky white bunny!
+    Would you like to join me in the lucky hot spring?
+  ko: |-
+    행운의 흰토끼 블랑이에요!
+    저와 함께 행운의 온천에 들어가실래요?
+  ja: |-
+    幸運の白ウサギ、ブランです！
+    私と一緒に幸運の温泉に入りませんか？
+c270_01_Reinforce_1:
+  en: |-
+    I feel like I'm full of luck!
+    Maybe it's because I am wearing a new suit.
+  ko: |-
+    새로운 옷을 입어서 그런지
+    행운이 듬뿍 들어오는 기분이에요!
+  ja: 新しい服のおかげか、幸運がたっぷり入ってくる気がします！
+c270_01_Reinforce_2:
+  en: I'm gonna turn Snowfield Hot Spring into a place bursting with luck.
+  ko: 설온장을 행운이 가득한 곳으로 만들 거예요!
+  ja: 雪見温泉を幸運でいっぱいにしたいです！
+c270_01_Reinforce_3:
+  en: Luck energy, recharged!
+  ko: 행운이 충전됐어요!
+  ja: 幸運がチャージされました！
+c270_01_Gift_1:
+  en: Is this a Christmas gift?
+  ko: 크리스마스 선물인가요?!
+  ja: クリスマスプレゼントですか！？
+c270_01_Gift_2:
+  en: |-
+    Wow! Thank you, Pit Boss!
+    I'll take it with me every day at Snowfield.
+  ko: |-
+    …우와! 감사해요 점장님!
+    설온장에서 매일매일 지니고 다닐게요!
+  ja: |-
+    …わあ！ありがとうございます、店長！
+    雪見温泉で毎日持ち歩きますね！
+c270_01_Gift_3:
+  en: |-
+    Whoa... Is this really for me?
+    I'll give you something too when I return to Coin Rush.
+  ko: |-
+    우와아… 정말 저한테 주시는 거예요?
+    코인 러시로 돌아가서 보답할게요!
+  ja: |-
+    わああ…本当に、私にくれるんですか？
+    コインラッシュに戻ったらお礼しますね！
+c270_01_Attractive_Up_1:
+  en: |-
+    I think the reason I like Snowfield so much is...
+    because I can be with you all the time, Pit Boss.
+  ko: |-
+    설온장이 좋은 이유는…
+    점장님과 함께여서 일까요?
+  ja: |-
+    雪見温泉が好きな理由は…
+    店長と一緒にいられるからでしょうか？
+c270_01_Attractive_Up_2:
+  en: I'll never change the way I feel about you.
+  ko: 점장님을 좋아하는 이 마음은 평생 변하지 않을 거예요.
+  ja: 店長を好きなこの気持ちは、一生変わりません。
+c270_01_Attractive_Up_3:
+  en: After Noir, you're the person I cherish most, Pit Boss.
+  ko: |-
+    소중한 사람이 한 명 더 생겼네요.
+    누아르 언니… 그리고 점장님.
+  ja: |-
+    大切な人がもう1人できました。
+    ノワールお姉ちゃん…そして、店長です。
+c270_01_Party_Deploy_1:
+  en: Leave it to me!
+  ko: 맡겨만 주세요!
+  ja: お任せください！
+c270_01_Field_Touch_1:
+  en: Do you need me to share some luck with you?
+  ko: 행운을 나눠드릴까요?
+  ja: 幸運をおすそ分けしましょうか？
+c270_01_Field_Go_1:
+  en: |-
+    Ugh...
+    Moving isn't so easy without my bunny suit…
+  ko: |-
+    으으…
+    바니걸 복장이 아니라 그런지 움직이기 조금 불편하네요!
+  ja: |-
+    うう…
+    バニーガールの格好じゃないせいか、少し動きにくいです！
+c270_01_Battle_Enter_1:
+  en: Misfortune has found us!
+  ko: 불행이 찾아왔어요…!
+  ja: 不幸が訪れました…！
+c270_01_Battle_Ready_1:
+  en: Don't get hurt, Pit Boss!
+  ko: 점장님, 다치지 마세요!
+  ja: 店長、気をつけてください！
+c270_01_Battle_Ready_2:
+  en: I'll protect you!
+  ko: 제가 지켜드릴게요!
+  ja: 私がお守りします！
+c270_01_Battle_Ready_3:
+  en: Let's finish this battle then back to Snowfield Hot Spring!
+  ko: 얼른 끝내고 설온장으로 돌아가요!
+  ja: 早く終わらせて、雪見温泉に戻りましょう！
+c270_01_Reload_1:
+  en: Reloading!
+  ko: 리로드!
+  ja: リロード！
+c270_01_Reload_2:
+  en: Ugh, this clothing is so cumbersome.
+  ko: 으아... 옷이 너무 거슬려요!
+  ja: ううっ…服が邪魔です！
+c270_01_Reload_3:
+  en: I'm going as fast as I can.
+  ko: 빨리할게요!
+  ja: 急ぎます！
+c270_01_Ult_Skill_Ready_1:
+  en: Pit Boss, now's the time!
+  ko: 점장님, 지금이요!
+  ja: 店長、今です！
+c270_01_Ult_Skill_1:
+  en: Lady Luck is always on our side!
+  ko: 행운은 언제나 우리 편이에요!
+  ja: 幸運は、いつも私たちの味方です！
+c270_01_FullBurst_1:
+  en: Luck is reserved for those who are prepared!
+  ko: 행운은 준비된 자에게 오는 법이죠!
+  ja: 幸運は、準備ができている人のところに訪れるものですよ！
+c270_01_Kill_Monster_1:
+  en: One and done!
+  ko: 바로 잡았어요!
+  ja: 倒しました！
+c270_01_Kill_Monster_2:
+  en: Easy peasy!
+  ko: 쉽네요!
+  ja: 簡単ですね！
+c270_01_Kill_Monster_3:
+  en: Nice!
+  ko: 나이스!
+  ja: ナイス！
+c270_01_Damage_1:
+  en: Ooof!
+  ko: 읏!
+  ja: うっ！
+c270_01_Damage_2:
+  en: Ow...
+  ko: 힝.
+  ja: きゃっ。
+c270_01_Damage_3:
+  en: Agh!
+  ko: 흑.
+  ja: ううっ。
+c270_01_Die_1:
+  en: |-
+    Pit Boss,
+    Noir and I have to go back to Coin Rush...
+  ko: |-
+    …점장님,
+    언니랑 다시 코인 러시로 돌아갈래요….
+  ja: "…店長、お姉ちゃんとコインラッシュに帰りますね…"
+c270_01_Win_1:
+  en: Now it's hot spring time!
+  ko: 이제 온천을 즐기러 가요!
+  ja: さあ、温泉を楽しみましょう！
+270_cv_ja:
+  en: 'CV: Sora Tokui'
+  ko: 'CV : 토쿠이 소라'
+  ja: CV：徳井青空
+270_cv_ko:
+  en: 'CV: Lee Bo-hee'
+  ko: 'CV : 이보희'
+  ja: CV：イ・ボヒ
+270_cv_en:
+  en: 'CV: Sarah Wiedenheft'
+  ko: 'CV : 사라 비덴헤프트'
+  ja: CV：Sarah Wiedenheft

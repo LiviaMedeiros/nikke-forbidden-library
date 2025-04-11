@@ -1,0 +1,733 @@
+---
+220_name:
+  en: Snow White
+  ko: 스노우 화이트
+  ja: スノーホワイト
+c220_description:
+  en: A puritanical pilgrim who wanders the surface in an effort to protect humanity.
+    As a member of Pioneer, her days are spent wiping out Raptures with extreme prejudice.
+  ko: "인류를 지킨다는 사명감으로 묵묵히 지상을 떠도는 순백의 순례자. \n파이오니아 스쿼드 중 한 명으로 랩쳐 섬멸을 위해 지상을 떠돈다."
+  ja: |-
+    人類を守るという使命感で黙々と生きる純白の巡礼者。
+    パイオニア部隊の一人で、
+    ラプチャー殲滅のために地上を彷徨う。
+220_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50220:
+  en: Snow White's Spare Body
+  ko: 스노우 화이트 스페어 바디
+  ja: スノーホワイトのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+12202_name:
+  en: 'Seven Dwarves: V&VI'
+  ko: '세븐스 드워프 : V&VI'
+  ja: セブンスドワーフ：V&VI
+12202_description:
+  en: "■ Affects <word_group=10020>enemies within the attack range</word_group>.\n<color=#00AEFF>Deals
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    \n■ Activates when attacking during Full Burst Time. Affects self.\n<color=#00AEFF>Critical
+    Rate ▲ {description_value_02}% for {description_value_03} sec.</color>"
+  ko: "■ <word_group=10020>공격 범위 내 적들</word_group>에게\n<color=#00AEFF>[<word_group=10025>최종</word_group>
+    공격력 {description_value_01}% 대미지]</color>\n■ 풀 버스트 타임 지속 시간 중 발동 시 자신에게 \n<color=#00AEFF>[크리티컬
+    확률 {description_value_02}% ▲] [{description_value_03}초 유지]</color>"
+  ja: |-
+    ■<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」</color>
+    ■フルバーストタイムの持続中に
+    発動した時、自分に
+    <color=#00AEFF>「クリティカル確率{description_value_02}％▲」
+    「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22201_name:
+  en: Determination
+  ko: 순백의 의지
+  ja: 純白の意志
+22201_description:
+  en: "■ Activates when normal attack hits {description_value_01} time(s). Affects
+    the target(s).\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as additional damage.</color> \n■ Activates when normal attack hits {description_value_01}
+    time(s). Affects self.\n<color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04}
+    sec.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+    ■ 일반 공격 {description_value_01}회 명중 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+    ■通常攻撃が{description_value_01}回命中した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12203_name:
+  en: 'Seven Dwarves: I'
+  ko: '세븐스 드워프 : I'
+  ja: セブンスドワーフ：I
+12203_description:
+  en: "■ Affects self. \n<color=#00AEFF>Change the Weapon in use: \nCharge Time: 5
+    sec\nDamage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    \nFull Charge Damage: 1000% of damage \nMax Ammunition Capacity: {description_value_02}
+    round(s) \nAdditional Effect: Pierce</color>"
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경] :
+    차지 시간 : 5초
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}%
+    풀 차지 대미지 : 1000% 대미지
+    최대 장탄 수 : {description_value_02}발
+    추가 효과 : 관통 특화</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器を変更」：
+    チャージ時間：5秒
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％
+    フルチャージダメージ：1000％のダメージ
+    最大装弾数：{description_value_02}発
+    追加効果：貫通特化</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+221_name:
+  en: Rapunzel
+  ko: 라푼젤
+  ja: ラプンツェル
+222_name:
+  en: Scarlet
+  ko: 홍련
+  ja: 紅蓮
+c220_Lobby_Touch_1:
+  en: Remember, the surface no longer belongs to humans.
+  ko: 명심해라. 지상은 이제 인류의 편이 아니다.
+  ja: |-
+    肝に銘じろ。
+    もはや地上は人類の味方ではない。
+c220_Lobby_Touch_2:
+  en: We have not achieved anything. We do not deserve to return to the surface.
+  ko: 우린 돌아가지 않는다. 아직 아무것도 이루지 못했기에.
+  ja: |-
+    我々はまだ引き返せない。
+    まだ何も達成できていないから。
+c220_Lobby_Touch_3:
+  en: I'd appreciate it if you could give me the food you have in your hand.
+  ko: 손에 든 그 음식. 날 주면 고맙겠군.
+  ja: |-
+    その手にある食べ物。
+    私にくれたら嬉しいのだが。
+c220_Lobby_Touch_Love_1:
+  en: I often think of that time you and I camped out in the wilderness... It always
+    reminds me how good it can feel having company.
+  ko: 종종 너와 함께 노숙했을 때를 생각한다. …잊고 있었다만, 길동무가 있다는 건 썩 괜찮은 기분이더군.
+  ja: |-
+    たまにお前と野営したことを思い出す。
+    …すっかり忘れていたが、連れがいると
+    あんなにも楽しいものなんだな。
+c220_Lobby_Touch_Love_2:
+  en: I feel more and more that you and I are alike.
+  ko: 갈수록 너와 내가 더 닮아 있다는 생각이 들어.
+  ja: 会うたびに、お前と私は似ているような気がしてくるよ。
+c220_Lobby_Touch_Love_3:
+  en: I will not stop until the surface has been reclaimed and returned to its rightful
+    owners.
+  ko: 언젠가 너에게 지상을 되돌려줄 날까지, 멈추지 않겠다.
+  ja: お前のために地上を取り戻すまで、私は止まらない。
+c220_Lobby_Stay_1:
+  en: Why don't you do something? Our bodies are full of energy and we're letting
+    it go to waste. We should at least try and save some more people. Even one will
+    still make a difference.
+  ko: 왜 가만히 있는 거지? 이 시간에도 우리 몸의 열량은 낭비되고 있다. 움직여라. 단 하나라도 더 지켜내.
+  ja: |-
+    なぜじっとしている？
+    この瞬間にも我々のエネルギーは消費されている。
+    動くんだ。
+    1つでも多く守り抜くために。
+c220_Lobby_Stay_Love_1:
+  en: "Meanwhile, the Raptures are running wild on the surface. \nWe mustn't waste
+    any time annihilating them."
+  ko: |-
+    이 시간에도 랩쳐는 지상에서 활보하고 있다.
+    어서 섬멸에 나서야 해.
+  ja: |-
+    この瞬間にもラプチャーは地上を闊歩している。
+    早く殲滅しなければ。
+c220_Outpost_Touch_1:
+  en: Is this... paradise?
+  ko: 이곳은… 천국인가.
+  ja: ここは…天国か。
+c220_Outpost_Touch_2:
+  en: I can't stay here for too long. I'll get too attached.
+  ko: 이런 곳에 오래 머물면 안 돼. 마음에 빈틈이 생긴다.
+  ja: |-
+    こんな所に 長居してはいけない。
+    心に隙ができてしまう。
+c220_Outpost_Touch_3:
+  en: What? Unexpired food?!
+  ko: 뭐…? 유통기한이 남은 음식이 있다고?
+  ja: |-
+    何だと…？
+    賞味期限前の 食べ物があるだと？
+c220_Gacha_Get_1:
+  en: My mission is to help humans reclaim the surface.
+  ko: 지상을 인류에게 돌려주는 것, 그게 내 사명이다.
+  ja: 地上を人類に返すこと、それが私の使命だ。
+c220_Reinforce_1:
+  en: It's been a long time since I did equipment maintenance.
+  ko: 정비는 오랜만이군.
+  ja: 整備は久しぶりだ。
+c220_Reinforce_2:
+  en: I have to keep honing my skills.
+  ko: 더욱더 갈고닦아야 한다. 그래야 해.
+  ja: 磨きに磨きをかけなければ。何があっても。
+c220_Reinforce_3:
+  en: Damage output is stable... but I still have a ways to go.
+  ko: 출력 안정…. 예전만큼은 아직 멀었나.
+  ja: 出力安定…以前のレベルにはまだまだ及ばない。
+c220_Gift_1:
+  en: Survival supplies? I'm sure they'll come in handy.
+  ko: 생존을 위한 물품인가. 잘 쓰겠다.
+  ja: 生存のための品物か。大事に使おう。
+c220_Gift_2:
+  en: Is it edible?
+  ko: 이건 먹을 수 있는 건가?
+  ja: これは食べられるものなのか？
+c220_Gift_3:
+  en: Bon appétit.
+  ko: 잘 먹겠다.
+  ja: 頂戴する。
+c220_Attractive_Up_1:
+  en: I'll protect you no matter what, even if it costs me my life.
+  ko: 넌 내가 지킨다. 목숨을 걸어서라도 지킨다.
+  ja: あなたは私が守る。命を懸けてでも守る。
+c220_Attractive_Up_2:
+  en: When it's all over, I hope you will be there.
+  ko: 언젠가 모든 게 끝난 미래에, 네가 있었으면 한다.
+  ja: いつの日かすべてが終わった未来でも、お前に会えたらいいな。
+c220_Attractive_Up_3:
+  en: |-
+    I just realized, besides eating well and sleeping well, I have another desire.
+    And that is being with you.
+  ko: |-
+    배불리 먹고, 푹 자는 것 외에도 바랄 게 있었군.
+    …너와 함께 하는 것 말이다.
+  ja: |-
+    腹いっぱい食べて、ぐっすり寝ること以外にも望みがある。
+    …お前と一緒にいることだ。
+c220_Party_Deploy_1:
+  en: Battle? I'd love to.
+  ko: 전투인가. 기꺼이 함께 하겠다.
+  ja: 戦闘か。喜んで参加する。
+c220_Field_Touch_1:
+  en: My name is Snow White.
+  ko: 스노우 화이트다.
+  ja: スノーホワイトだ。
+c220_Field_Go_1:
+  en: Moving toward the designated location.
+  ko: 목표 지점으로 이동하겠다.
+  ja: 目標地点まで移動する。
+c220_Battle_Enter_1:
+  en: Encounter.
+  ko: 인카운터.
+  ja: エンカウンター。
+c220_Battle_Ready_1:
+  en: Prepare to meet your maker.
+  ko: 네놈들은 여기서 끝이다.
+  ja: 貴様らはここで終わりだ。
+c220_Battle_Ready_2:
+  en: If you believe in the Creator, you better start praying.
+  ko: 기도나 올려라. 믿는 신이 있다면 말이야.
+  ja: 最後に祈るがいい。信じる神がいるならな。
+c220_Battle_Ready_3:
+  en: Seven Dwarves, ready.
+  ko: 세븐스 드워프. 레디.
+  ja: セブンスドワーフ。レディー。
+c220_Reload_1:
+  en: Reload.
+  ko: 리로드.
+  ja: リロード。
+c220_Reload_2:
+  en: I don't need any cover. Do what you have to do.
+  ko: 커버는 필요 없다. 할 걸 해라.
+  ja: |-
+    フォローは必要ない。
+    自分のことに集中しろ。
+c220_Reload_3:
+  en: Remaining ammo is in good condition. Keep moving.
+  ko: 잔탄 수 양호. 계속 간다.
+  ja: 残弾数は良好。続行する。
+c220_Ult_Skill_Ready_1:
+  en: I can do it!
+  ko: 갈 수 있다!
+  ja: 行ける！
+c220_Ult_Skill_1:
+  en: Seven Dwarves! Fully active! Blast away!!
+  ko: 세븐스 드워프! 풀 액티브! 꿰뚫어라-!!
+  ja: セブンスドワーフ！フルアクティブ！貫けー！！
+c220_FullBurst_1:
+  en: Focusing fire! Leave no enemy standing.
+  ko: 화력 집중! 조각 하나 남기지 마라!
+  ja: 火力集中！ひとつ残らず除去するのだ！
+c220_Kill_Monster_1:
+  en: Next one!
+  ko: 다음!
+  ja: 次！
+c220_Kill_Monster_2:
+  en: Clear!
+  ko: 클리어!
+  ja: クリア！
+c220_Kill_Monster_3:
+  en: Enemy down!
+  ko: 적기 다운!
+  ja: 敵機ダウン！
+c220_Damage_1:
+  en: "*Coughing*"
+  ko: 컥!
+  ja: ぐっ！
+c220_Damage_2:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c220_Damage_3:
+  en: Damn!
+  ko: 큭….
+  ja: くっ…
+c220_Die_1:
+  en: Does it mean I still have a long way to go...?
+  ko: 아직… 멀었다는 얘긴가…!
+  ja: まだまだ…ということなのか…！
+c220_Win_1:
+  en: There's no time to bask in our victory. Let's move onto the next mission.
+  ko: 승리에 취할 시간도 아깝다. 바로 다음으로 간다.
+  ja: 勝利に酔いしれる暇はない。すぐに次の場所へ移動する。
+c220_01_Lobby_Touch_1:
+  en: |-
+    A comrade made this armor.
+    Maybe that's why my movements feel stiff...
+  ko: |-
+    이건 동료가 만들어준 무장이다.
+    그래서인지 조금… 움직이는 게 낯설군.
+  ja: |-
+    仲間が作ってくれた武装だ。
+    そのせいか、少し…慣れないな。
+c220_01_Lobby_Touch_2:
+  en: |-
+    This is tailored to Chime's preferences.
+    It appears the kingdom is in need of knights.
+  ko: |-
+    이건 차임의 취향으로 만들어진 거다.
+    왕국에 기사가 필요하다더군.
+  ja: |-
+    これはチャイムの好みで作られたんだ。
+    王国に騎士が必要らしい。
+c220_01_Lobby_Touch_3:
+  en: Perhaps I'm used to another armor... but I'm famished.
+  ko: 평소랑 다른 무장을 써서 그런가… 더 배 고프군.
+  ja: 普段と違う武装のせいか…余計腹が減るな。
+c220_01_Lobby_Touch_Love_1:
+  en: I may lack the pride befitting a knight wearing this armor, but I will do everything
+    I can to protect the kingdom, and my friends within it.
+  ko: |-
+    내겐 이 무장과 어울리는 기사로서의 긍지는 없지만,
+    왕국은 지킬 거다. 그곳엔 동료가 있으니까.
+  ja: |-
+    私にはこの武装にふさわしい騎士としての誇りはないが、
+    王国は守る。仲間がいるから。
+c220_01_Lobby_Touch_Love_2:
+  en: |-
+    Whether in the kingdom or outside of it,
+    in the fight for humanity, I will never surrender.
+  ko: "왕국이든 어디든, \n인류의 승리를 위해서라면 멈추지 않고 싸울 거다."
+  ja: |-
+    王国だろうと、どこであろうと、
+    人類の勝利のためなら戦い続ける。
+c220_01_Lobby_Touch_Love_3:
+  en: |-
+    Back in the kingdom, Chime would have packed me a lunch...
+    I could really go for one of those right now...
+  ko: |-
+    왕국에 가면 차임이 도시락을 주곤 한다.
+    …생각하니 다시 먹고 싶군.
+  ja: |-
+    王国に行くとチャイムが弁当を作ってくれる。
+    …思い出すだけで腹が減るな。
+c220_01_Lobby_Stay_1:
+  en: |-
+    There is no time to waste.
+    I need to get rid of those intruders as soon as possible.
+  ko: |-
+    대기할 시간은 없다.
+    난 한시라도 더 빨리… 그것들을 없애야만 해.
+  ja: |-
+    お前を待っている時間はない。
+    私は一刻も早く…あれを消し去らなければ。
+c220_01_Lobby_Stay_Love_1:
+  en: "*Sigh* Right. They said resting is part of the job... \nI can't do it for a
+    long time, but I will take a short break for you."
+  ko: |-
+    후… 그래. 휴식도 작전의 일환이라고 했던가.
+    …오래는 못하겠지만, 널 위해서라도 잠시 쉬도록 하지.
+  ja: |-
+    ふぅ…そうか。休憩も作戦の一環か。
+    …長くは休めないが、お前のためにも少し休もう。
+c220_01_Outpost_Touch_1:
+  en: This place never fails to impress, no matter how many times I see it.
+  ko: 여긴 언제 와도 훌륭하군.
+  ja: ここはいつ来ても素晴らしいな。
+c220_01_Outpost_Touch_2:
+  en: |-
+    Seeing this place stirs not just hunger in my stomach but my very being.
+    ... I must return.
+  ko: |-
+    이곳을 보니, 마음이든 몸이든 허기가 지는 느낌이다.
+    …돌아가야겠어.
+  ja: |-
+    ここを見ていると、 心も体も飢えを感じる。
+    …戻らなければ。
+c220_01_Outpost_Touch_3:
+  en: |-
+    If Crown and Chime saw this place,
+    they would want to make it a royal palace.
+  ko: |-
+    크라운과 차임이 이곳을 보면,
+    왕궁으로 삼고 싶어 하겠군.
+  ja: |-
+    クラウンとチャイムが ここを見たら、
+    自分の王宮にしたいと 言うだろう。
+c220_01_Gacha_Get_1:
+  en: |-
+    I will reclaim the surface for humanity,
+    and it does not matter what kind of armor or methods I employ.
+  ko: |-
+    새로운 무장을 쓰든, 어떤 방법을 써서라도
+    반드시 인류에게 지상을 돌려줄 거다.
+  ja: |-
+    新しい武装だろうが何だろうが、どんな方法を使ってでも
+    必ず人類に地上を返す。
+c220_01_Reinforce_1:
+  en: |-
+    This is the way to reinforce this armor...?
+    Understood.
+  ko: |-
+    이 무장은 이런 방식으로 강화를 해야 하는 건가….
+    이해했다.
+  ja: |-
+    この武装はこうやって強化するのか…
+    理解した。
+c220_01_Reinforce_2:
+  en: I'm getting more and more accustomed to this armor.
+  ko: 점점 더 무장에 익숙해져 가는군.
+  ja: だんだんこの格好にも慣れてきたな。
+c220_01_Reinforce_3:
+  en: A little more maintenance will go a long way.
+  ko: 조금만 더 정비하면 예상보다 높은 출력을 낼 수 있겠어.
+  ja: もう少し整備すれば、思っていたより高い出力を出せそうだ。
+c220_01_Gift_1:
+  en: Thank you for your constant support.
+  ko: 넌 언제나 날 지원해 주는군. 고맙다.
+  ja: お前はいつも私を支援してくれるな。感謝する。
+c220_01_Gift_2:
+  en: I promise I will return the kindness, one day.
+  ko: "…언젠가 꼭 보답하겠다."
+  ja: "…この恩はいつか必ず返す。"
+c220_01_Gift_3:
+  en: |-
+    Food, for me?
+    ... You truly are a remarkable human.
+  ko: |-
+    먹을 걸 내어주다니.
+    …넌 정말 좋은 인간이군.
+  ja: |-
+    食べ物をくれるとは。
+    …お前は本当にいい人間だ。
+c220_01_Attractive_Up_1:
+  en: |-
+    When humanity one day regains the surface, I will be there by your...
+    ... Never mind.
+  ko: |-
+    인류가 지상을 되찾게 된다면 그땐 네 곁에….
+    …아무것도 아니다.
+  ja: |-
+    人類が地上を取り戻したら、その時はお前のそばに…
+    …何でもない。
+c220_01_Attractive_Up_2:
+  en: |-
+    You are a good human.
+    I hope that never changes.
+  ko: |-
+    넌 좋은 인간이다.
+    그 모습이 변하지 않았으면 좋겠군.
+  ja: |-
+    お前はいい人間だ。
+    変わらないでいてほしい。
+c220_01_Attractive_Up_3:
+  en: |-
+    Regardless of what I become in the future,
+    I will protect you no matter what.
+  ko: "앞으로 내가 어떤 모습이 된다고 해도, \n어떻게 해서든 널 지켜낼 거다."
+  ja: これから私がどんな姿になったとしても、全力でお前を守る。
+c220_01_Party_Deploy_1:
+  en: All right, let's do it together.
+  ko: 좋다. 함께하지.
+  ja: よし。共に行こう。
+c220_01_Field_Touch_1:
+  en: Awaiting orders.
+  ko: 지시해라.
+  ja: 指示を。
+c220_01_Field_Go_1:
+  en: Okay. Let's move.
+  ko: 알겠다. 움직이지.
+  ja: 分かった。動こう。
+c220_01_Battle_Enter_1:
+  en: Incoming.
+  ko: 온다.
+  ja: 来るぞ。
+c220_01_Battle_Ready_1:
+  en: Annihilate them all.
+  ko: 전부 섬멸한다.
+  ja: すべて殲滅する。
+c220_01_Battle_Ready_2:
+  en: Fret not, victory is assured.
+  ko: 걱정 마라. 반드시 승리한다.
+  ja: 心配するな。必ず勝利する。
+c220_01_Battle_Ready_3:
+  en: I will protect everyone.
+  ko: "모두를 지킨다. \n…지켜낼 거다."
+  ja: |-
+    みんなを守る。
+    …守ってみせる。
+c220_01_Reload_1:
+  en: In order to reload faster...
+  ko: 리로드를 더 빠르게 하려면....
+  ja: リロードをもっと速くするには…
+c220_01_Reload_2:
+  en: We're good after some maintenance.
+  ko: 정비 후 다시 간다.
+  ja: 整備後にもう一度行く。
+c220_01_Reload_3:
+  en: I'm getting accustomed to the armor now.
+  ko: 무장이 손에 익어가는군.
+  ja: 手に馴染んできた。
+c220_01_Ult_Skill_Ready_1:
+  en: Now is the time!
+  ko: 지금이다!
+  ja: 今だ！
+c220_01_Ult_Skill_1:
+  en: Give it your all! Run through them all!
+  ko: 최대 출력으로 간다! 전부 꿰뚫어라-!
+  ja: 最大出力！貫けー！
+c220_01_FullBurst_1:
+  en: Don't stop! Give it everything you've got!
+  ko: 멈추지 마라! 모두 쏟아내!
+  ja: 止まるな！全力で行け！
+c220_01_Kill_Monster_1:
+  en: It's the end.
+  ko: 끝이다.
+  ja: 終わりだ。
+c220_01_Kill_Monster_2:
+  en: Come!
+  ko: 와라!
+  ja: 来い！
+c220_01_Kill_Monster_3:
+  en: Moving on to the next one.
+  ko: 다음으로 간다.
+  ja: 次。
+c220_01_Damage_1:
+  en: Tsk.
+  ko: 칫.
+  ja: チッ。
+c220_01_Damage_2:
+  en: Gasp!
+  ko: 큿!
+  ja: くっ！
+c220_01_Damage_3:
+  en: Urgh.
+  ko: 윽.
+  ja: うっ。
+c220_01_Die_1:
+  en: No... This... This isn't how I go down...!
+  ko: 칫… 이렇게 쓰러져선… 안되는데…!
+  ja: チッ…ここで倒れたら…ダメだ…！
+c220_01_Win_1:
+  en: Have we emerged victorious...? This armor will suffice.
+  ko: 승리한 건가… 이 무장도 나쁘지 않군.
+  ja: 勝ったのか…この武装も悪くないな。
+220_cv_ja:
+  en: 'CV: M・A・O'
+  ko: 'CV : M・A・O'
+  ja: CV：M・A・O
+220_cv_ko:
+  en: 'CV: So Yeon'
+  ko: 'CV : 소연'
+  ja: CV：ソヨン
+220_cv_en:
+  en: 'CV: Laura Stahl'
+  ko: 'CV : 로라 스탈'
+  ja: CV：Laura Stahl

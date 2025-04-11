@@ -1,0 +1,483 @@
+---
+110_name:
+  en: Crow
+  ko: 크로우
+  ja: クロウ
+c110_description:
+  en: The leader of Exotic, from the Outer Rim. There is a whiff of madness underneath
+    her calm exterior, like a ticking time bomb that could go off at any moment.
+  ko: "이그조틱 스쿼드의 리더로, 무법지대 아우터 림 출신이다. \n냉정한 이면에 광기를 숨기고 있어, 언제 터질지 모르는 시한폭탄 같은 존재."
+  ja: |-
+    エキゾチック部隊のリーダーで、無法地帯アウターリム出身。
+    冷静さの裏に狂気を隠した、
+    いつ爆発するか分からない時限爆弾のような存在。
+110_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50110:
+  en: Crow's Spare Body
+  ko: 크로우 스페어 바디
+  ja: クロウのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21102_name:
+  en: Daredevil
+  ko: 데어데블
+  ja: デアデビル
+21102_description:
+  en: "■ Activates when the last bullet hits the target. Affects the target.\n<color=#00AEFF>Deals
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as additional
+    damage.</color> \n■ Activates when the last bullet hits the target. Affects self.\n<color=#00AEFF>DEF
+    ▲ {description_value_02}% for {description_value_03} sec.</color>"
+  ko: "■ 마지막 탄환 명중 시 대상에게 \n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력
+    {description_value_01}% 추가 대미지]</color>\n■ 마지막 탄환 명중 시 자신에게 \n<color=#00AEFF>[방어력
+    {description_value_02}% ▲] [{description_value_03}초 유지]</color>"
+  ja: |-
+    ■最後の弾丸が命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の追加ダメージ」</color>
+    ■最後の弾丸が命中した時、自分に
+    <color=#00AEFF>「防御力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21101_name:
+  en: Killing Time
+  ko: 킬링타임
+  ja: 暇つぶし
+21101_description:
+  en: |-
+    ■ Affects all enemies. Activates when entering Full Burst.
+    <color=#00AEFF>ATK ▼ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 적 전체에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▼] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、敵全体に
+    <color=#00AEFF>「攻撃力{description_value_01}％▼」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11103_name:
+  en: The Terrorist
+  ko: 더 테러리스트
+  ja: ザ・テロリスト
+11103_description_1:
+  en: |-
+    ■ Affects the enemy with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+111_name:
+  en: Jackal
+  ko: 자칼
+  ja: ジャッカル
+112_name:
+  en: Viper
+  ko: 바이퍼
+  ja: バイパー
+c110_Lobby_Touch_1:
+  en: This so-called Ark is nothing but a vessel, and sooner or later, it will sink.
+  ko: |-
+    방주라는 건 결국 배잖아.
+    …침몰하기 위해 있는 거지.
+  ja: |-
+    アークも結局はただの舟。
+    …沈没するためにあるだけだ。
+c110_Lobby_Touch_2:
+  en: The savagery of these outlaws is no worse than your own prejudice.
+  ko: 아웃로들은 꼭 너희가 가진 편견만큼 잔인해질 수 있어.
+  ja: アウトローはお前たちの偏見以上に残酷になれる。
+c110_Lobby_Touch_3:
+  en: Nikkes and humans are destined to kill each other.
+  ko: |-
+    니케와 인간.
+    둘은 언젠가 반드시 죽고 죽이게 될 거야.
+  ja: |-
+    ニケと人間。
+    こいつらはいつか必ず殺しあう。
+c110_Lobby_Touch_Love_1:
+  en: Your ability is amazing, in every aspect.
+  ko: 너는 아주 대단한 물건이야. 여러 의미에서 말이지.
+  ja: |-
+    お前はかなりの大物だ。
+    色んな意味でな。
+c110_Lobby_Touch_Love_2:
+  en: |-
+    You want to be my friend?
+    You're not afraid of running afoul of the law, are you?
+  ko: "나와 어울리고 싶다고? \n…전과가 생겨도 감당할 수 있겠어?"
+  ja: |-
+    あたしと一緒にいたいだって？
+    …前科がついてもいいのか？
+c110_Lobby_Touch_Love_3:
+  en: |-
+    I hope this place doesn't chew you up and spit you out like the others.
+    I usually don't care about this kind of stuff, but... it's different with you.
+  ko: |-
+    너처럼 무른 인간이 굳어지는 건 보고 싶지 않아.
+    보통은 알 바 아니지만… 네 경우는 다르지.
+  ja: |-
+    お前みたいに甘い奴にはそのままでいてほしい。
+    他の奴らはどうでもいいが…お前は特別なんだ。
+c110_Lobby_Stay_1:
+  en: This place is dead. I've got to liven it up a bit, make a splash!
+  ko: 너무 조용해서 뭐라도 터뜨리고 싶을 지경이군.
+  ja: 静かすぎて、何でもいいから爆発させたくなるな。
+c110_Lobby_Stay_Love_1:
+  en: There's nothing wrong with flights of fancy, but it's best to keep your feet
+    on the ground and your head out of the clouds.
+  ko: 딴 생각 중인가? 공상도 이상론도 좋지만, 가끔은 현실적인 문제에 머리를 좀 쓰라고.
+  ja: |-
+    何か考え事か？空想、理想論、何でも構わないが、
+    たまには現実的な問題にも頭を使え。
+c110_Outpost_Touch_1:
+  en: The Bar is the local watering hole for those freaks, so it has that going for
+    it.
+  ko: |-
+    바는 온갖 희안한 놈들의 집합소지.
+    그래서 더 재밌는 거고.
+  ja: |-
+    バーは変わり者たちの 集合場所。
+    だから面白いんだ。
+c110_Outpost_Touch_2:
+  en: Viper, Jackal. I'm going out. Don't ask why. If you're curious, keep an eye
+    on the news tomorrow.
+  ko: |-
+    바이퍼, 자칼. 잠깐 나갔다 와야겠다.
+    …뭘 하러 가는 거냐고? 궁금하면 내일자 뉴스 기사를 봐.
+  ja: |-
+    バイパー、ジャッカル。 ちょっと席を外す。
+    …何しに行くのかって？
+    気になるんだったら 明日のニュースでも見ろ。
+c110_Outpost_Touch_3:
+  en: One day in the Outer Rim will silence even the harshest critics of the Outpost.
+  ko: 전초 기지에 대해 불평하는 놈들은, 딱 하루만 아우터 림에 처박아놔 봐. 사고가 아주 긍정적으로 바뀔걸.
+  ja: |-
+    前哨基地に不満がある奴らは、
+    一日だけでいいから アウターリムに放り込め。
+    かなりのポジティブ思考に 変われるはずだ。
+c110_Gacha_Get_1:
+  en: So long as humans exist, so will their irrational ways. Complete extermination
+    is the only solution.
+  ko: |-
+    인간이 존재하는 한 부조리는 절대 사라지지 않아.
+    …그러니까 다 죽여 버리는 게 답이지.
+  ja: |-
+    人間が存在する限り、不正は絶対になくならない。
+    …だから全部殺してしまうのが得策だろ。
+c110_Reinforce_1:
+  en: What? Am I getting lighter?
+  ko: 오. 몸이 가벼워졌는데?
+  ja: おぉ。体が軽くなった。
+c110_Reinforce_2:
+  en: This is nice.
+  ko: 이거 나쁘지 않네.
+  ja: これ、悪くないな。
+c110_Reinforce_3:
+  en: Like shooting fish in a barrel.
+  ko: 쏴 죽이기 편하겠어.
+  ja: 撃ち殺しやすくなった。
+c110_Gift_1:
+  en: Can this be exchanged for weapons?
+  ko: 이거, 팔아서 무기로 바꿔도 되나?
+  ja: これ、売って武器にしてもいいか？
+c110_Gift_2:
+  en: Thanks.
+  ko: 아주 고맙군.
+  ja: すごく助かる。
+c110_Gift_3:
+  en: "... Why do you keep giving me gifts?"
+  ko: "…왜 계속 주는 거지?"
+  ja: "…どうして何度もくれるんだ？"
+c110_Attractive_Up_1:
+  en: You are rather exceptional for a human. It's a shame that I must kill you.
+  ko: "…너는 정말 특별한 인간이야. \n그냥 죽여 버리기 아까울 정도로."
+  ja: |-
+    …お前は本当に特別な人間だな。
+    ただ殺してしまうにはもったいないほどに。
+c110_Attractive_Up_2:
+  en: |-
+    If you were one of us, I'd be more than happy to show you some affection.
+    Don't get it twisted, I'm talking about like what Jackal and I have.
+  ko: "네가 우리와 같은 부류였다면 나도 제법 귀여워해 줬을 거다. \n자칼 녀석처럼 말이지."
+  ja: |-
+    お前があたしたちの仲間だったら、
+    思い切りかわいがってやっただろうに。
+    ジャッカルみたいにな。
+c110_Attractive_Up_3:
+  en: "And what is it you expect in return for this... \nA big wet kiss?"
+  ko: |-
+    내게 뭘 바라고 이런 걸 쏟아붓는지 모르겠군.
+    …뜨거운 키스라도 원하나?
+  ja: |-
+    何が目的であたしにこんなによくしてくれるんだ？
+    …熱いキスでもして欲しいのか？
+c110_Party_Deploy_1:
+  en: So if I don't play ball, you paint the walls with my insides? I see how it is.
+  ko: 안 나가면 이걸 터뜨리겠다는 거지? 좋아.
+  ja: 出て行かない場合、これを爆発させるってことだろ？よし。
+c110_Field_Touch_1:
+  en: I'm listening.
+  ko: 듣고 있어.
+  ja: 聞いてる。
+c110_Field_Go_1:
+  en: Can you keep up?
+  ko: 우리 속도에 따라올 수 있겠어?
+  ja: あたしたちのスピードについてこれるか？
+c110_Battle_Enter_1:
+  en: Encounter.
+  ko: 인카운터.
+  ja: エンカウンター。
+c110_Battle_Ready_1:
+  en: Initiate contact?
+  ko: 개싸움을 시작해 볼까.
+  ja: 泥仕合を始めよう。
+c110_Battle_Ready_2:
+  en: Bystanders are not welcome.
+  ko: 방관자는 지켜보기나 해.
+  ja: 傍観者は大人しくしてろ。
+c110_Battle_Ready_3:
+  en: I'm just cannon fodder to you, aren't I?
+  ko: 총알받이로 세워 두겠다는 거지?
+  ja: 肉の盾にしようってことだろ？
+c110_Reload_1:
+  en: "... I grow tired of this."
+  ko: "…따분하네."
+  ja: "…手持無沙汰だ。"
+c110_Reload_2:
+  en: Reloading.
+  ko: 장전 중.
+  ja: 装填中。
+c110_Reload_3:
+  en: Out of ammo... Just when things were getting good...
+  ko: 딱 좋을 때 끊겼군.
+  ja: ちょうどいいところだったのに。
+c110_Ult_Skill_Ready_1:
+  en: Go!
+  ko: 가자.
+  ja: 行こう。
+c110_Ult_Skill_1:
+  en: Violence is always the answer.
+  ko: 역시 가장 효과적인 해결책은… 폭력이지.
+  ja: 一番効果的な解決法は…暴力だ。
+c110_FullBurst_1:
+  en: Ah, the thrill of the hunt!
+  ko: 머릿수로 밀어붙이는 게 악당의 미덕이지.
+  ja: 数で圧倒するのが悪党の美徳だ。
+c110_Kill_Monster_1:
+  en: You're no fun.
+  ko: 지루한데.
+  ja: あくびが出てくんだけど。
+c110_Kill_Monster_2:
+  en: If you want to fight a losing battle, then be my guest.
+  ko: 좀 더 발버둥 쳐 봐라.
+  ja: もっと足掻いてみろ。
+c110_Kill_Monster_3:
+  en: Easy-peasy.
+  ko: 쉽군.
+  ja: ちょろいもんだな。
+c110_Damage_1:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c110_Damage_2:
+  en: Urgh!
+  ko: 컥.
+  ja: くっ。
+c110_Damage_3:
+  en: Ha...
+  ko: 하아….
+  ja: はあ…
+c110_Die_1:
+  en: Sorry, but I've got to go.
+  ko: 미안하지만 슬슬 빠져야겠다.
+  ja: 悪いけど、そろそろ抜けさせてもらうよ。
+c110_Win_1:
+  en: Happy, you government lap dog?
+  ko: 결과는 마음에 드나? 중앙 정부의 감시견 씨.
+  ja: 結果は気に入ったか？中央政府の番犬さん。
+110_cv_ja:
+  en: 'CV: Sora Amamiya'
+  ko: 'CV : 아마미야 소라'
+  ja: CV：雨宮天
+110_cv_ko:
+  en: 'CV: Lee Myung-ho'
+  ko: 'CV : 이명호'
+  ja: CV：イ・ミョンホ
+110_cv_en:
+  en: 'CV: Corey Pettit'
+  ko: 'CV : 코리 페팃'
+  ja: CV：Corey Pettit

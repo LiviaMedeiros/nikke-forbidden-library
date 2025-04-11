@@ -1,0 +1,681 @@
+---
+191_name:
+  en: Alice
+  ko: 앨리스
+  ja: アリス
+c191_description:
+  en: An endearing individual who often indulges in fantasy with a somewhat unique
+    worldview. She's a member of Unlimited, and spends her days looking for Rabbity.
+  ko: "세상을 조금 다른 시선으로 바라보는 귀여운 망상가. \n언리미티드 스쿼드에서 토끼 씨를 찾아 헤매고 있다."
+  ja: |-
+    世界を少し違った視線で見つめるかわいい妄想家。
+    アンリミテッド部隊でウサギさんを探し回っている。
+191_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50191:
+  en: Alice's Spare Body
+  ko: 앨리스 스페어 바디
+  ja: アリスのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21912_name:
+  en: Healthy Carrot
+  ko: 건강한 당근
+  ja: 健康なニンジン
+21912_description:
+  en: "■ Affects self. Activates when above {description_value_01}% HP.\n<color=#00AEFF>Gain
+    continuous Pierce.</color> \n■ Affects self. Activates when HP falls below {description_value_02}%.
+    \n<color=#00AEFF>Continuously recover HP by {description_value_03}% of attack
+    damage.</color>"
+  ko: |-
+    ■ 자신의 체력이 {description_value_01}% 이상이라면 자신에게
+    <color=#00AEFF>[관통 특화] [지속]</color>
+    ■ 자신의 체력이 {description_value_02}% 미만이라면 자신에게
+    <color=#00AEFF>[공격 대미지 비례 {description_value_03}% 회복] [지속]</color>
+  ja: |-
+    ■自分のHPが{description_value_01}％以上なら自分に
+    <color=#00AEFF>「貫通特化」「持続」</color>
+    ■自分のHPが{description_value_02}％未満なら自分に
+    <color=#00AEFF>「攻撃ダメージの{description_value_03}％を回復」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21911_name:
+  en: Energizing Carrot
+  ko: 힘나는 당근
+  ja: 元気が出るニンジン
+21911_description:
+  en: "■ Activates when entering Full Burst. Affects {description_value_01} ally unit(s)
+    with the highest <word_group=10025>final</word_group> ATK.\n<color=#00AEFF>Charge
+    Speed ▲ {description_value_02}% of caster's Charge Speed for {description_value_03}
+    sec. \nCharge Damage ▲ {description_value_04}% for {description_value_05} sec.</color>"
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[시전자 기준 차지 속도 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [차지 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、
+    <word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「スキル発動者基準でチャージ速度{description_value_02}％▲」「{description_value_03}秒間維持」
+    「チャージダメージ{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11913_name:
+  en: Wonderland
+  ko: 신기하고 이상한 나라
+  ja: 摩訶不思議な世界
+11913_description:
+  en: "■ Affects self. \n<color=#00AEFF>Charge Speed ▲ {description_value_01}% for
+    {description_value_02} sec. \nATK ▲ {description_value_03}% for {description_value_04}
+    sec.</color>"
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[차지 속도 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「チャージ速度{description_value_01}％▲」「{description_value_02}秒間維持」
+    「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+190_name:
+  en: Ludmilla
+  ko: 루드밀라
+  ja: ルドミラ
+192_name:
+  en: Tove
+  ko: 토브
+  ja: トーブ
+194_name:
+  en: 'Ludmilla: Winter Owner'
+  ko: '루드밀라 : 윈터 오너'
+  ja: ルドミラ：ウィンターオーナー
+195_name:
+  en: 'Alice: Wonderland Bunny'
+  ko: '앨리스 : 원더랜드 바니'
+  ja: アリス：ワンダーランドバニー
+193_name:
+  en: Neve
+  ko: 네베
+  ja: ネヴェ
+c191_Lobby_Touch_1:
+  en: Want some carrots, Rabbity?
+  ko: 토끼씨~ 당근 먹으러 갈까요?
+  ja: ウサギさ～ん、ニンジン食べに行きません？
+c191_Lobby_Touch_2:
+  en: Rabbity in the mountains, rabbity in the meadow, oh where oh where can he be?
+  ko: 산 토끼 토끼야~ 어디를 가느냐~
+  ja: ウサギさん、どこに行くの？
+c191_Lobby_Touch_3:
+  en: Rabbity, I'm just so happy whenever you're around.
+  ko: 토끼 씨랑 같이 있으면 행복해져요~
+  ja: ウサギさんと一緒にいると幸せになります～
+c191_Lobby_Touch_Love_1:
+  en: I finished all the books you gave me!
+  ko: 토끼 씨가 선물해 준 책 벌써 다 읽었어요!
+  ja: ウサギさんにもらった本、もう全部読んじゃいました！
+c191_Lobby_Touch_Love_2:
+  en: Rabbity... could you hold my hand?
+  ko: 토끼씨… 저 손잡아 주시면 안 되나요?
+  ja: |-
+    ウサギさん…
+    私の手、触ってくれませんか？
+c191_Lobby_Touch_Love_3:
+  en: To me, you are my Elysium. Forever and always.
+  ko: 토끼 씨는 영원한 제 낙원이에요.
+  ja: ウサギさんは永遠に私の楽園です。
+c191_Lobby_Stay_1:
+  en: You're not... going to Elysium alone, are you?
+  ko: 음… 토끼씨… 저 혼자 두고 행복의 세계로 떠나신 건가요?
+  ja: |-
+    う～ん…ウサギさん…
+    私を置いて幸せの国に遊びに行っちゃいました？
+c191_Lobby_Stay_Love_1:
+  en: Rabbity, take me to Elysium!
+  ko: 토끼씨~ 저도 행복의 세계로 데려가 주세요~
+  ja: ウサギさ～ん、私も幸せの国に連れてってくださ～い。
+c191_Outpost_Touch_1:
+  en: Let's hop around, you and me!
+  ko: 토끼씨! 우리 깡충깡충 뛰어다닐까요?
+  ja: ウサギさん！ 一緒にぴょんぴょん跳ねません？
+c191_Outpost_Touch_2:
+  en: I'm heading to what we call a clothing store. Wanna come?
+  ko: 저는 의류 상점이라는 곳에 있어요. 토끼씨도 오실래요?
+  ja: |-
+    私はブティックという 場所にいます。
+    ウサギさんも来ます？
+c191_Outpost_Touch_3:
+  en: At a clothing store, there are clothes as far as the eye can see! It's fit for
+    a princess!
+  ko: 의류 상점은 옷의 나라에요! 공주님들 옷도 엄청 많아요!
+  ja: |-
+    ブティックはお洋服の国なんです！
+    お姫さまの服もたくさんあります！
+c191_Gacha_Get_1:
+  en: Rabbity, please take me to a world where everyone lives in happiness.
+  ko: 토끼씨! 행복의 세계로 안내해 주실 건가요?
+  ja: ウサギさん！幸せの世界に案内してくれるんですか？
+c191_Reinforce_1:
+  en: Wow! Am I getting stronger?
+  ko: 와아- 저 강해진 건가요?
+  ja: きゃ～私、強くなったんですか？
+c191_Reinforce_2:
+  en: This strength... I can feel it coursing through me!
+  ko: 음? 뭔가 힘이 솟아나는 거 같아요!
+  ja: あれれ？何だかパワーが湧いてくる気がします！
+c191_Reinforce_3:
+  en: Now we can have even more fun!
+  ko: 더 재미있게 놀 수 있게 된 건가요?
+  ja: もっと楽しく遊べるようになったってことですか？
+c191_Gift_1:
+  en: A gift... for me?
+  ko: 저한테… 선물을요?
+  ja: 私への…プレゼントですか？
+c191_Gift_2:
+  en: Thanks a lot!
+  ko: 고마워요! 토끼씨!
+  ja: ありがとうございます！ウサギさん！
+c191_Gift_3:
+  en: I'll give you a present next time in return! I promise!
+  ko: 다음엔 제가 선물 드릴게요! 꼭이에요!
+  ja: 今度は私がプレゼントを準備します！絶対にです！
+c191_Attractive_Up_1:
+  en: You're the best, Rabbity! Just the best!
+  ko: 토끼씨가 좋아요! 너무너무 좋아요!
+  ja: ウサギさん、大好きです！すごくすごく大好きです！
+c191_Attractive_Up_2:
+  en: Take my hand!
+  ko: 토끼씨 손잡을래요!
+  ja: ウサギさんと手をつなぎます！
+c191_Attractive_Up_3:
+  en: Could you bring me to Elysium right now, please?
+  ko: 지금 당장 토끼씨랑 행복의 세계로 떠나면 안 되나요~?
+  ja: 今すぐウサギさんと幸せの国に行っちゃだめですか～？
+c191_Party_Deploy_1:
+  en: I really do enjoy being with you.
+  ko: 토끼씨랑 같이 가는 거 좋아요!
+  ja: ウサギさんと一緒に行くの大好きです！
+c191_Field_Touch_1:
+  en: Hey! Hey, Rabbity!
+  ko: 토끼씨다!
+  ja: ウサギさんだ！
+c191_Field_Go_1:
+  en: Whoa, woo-hoo!
+  ko: 와아아아-!
+  ja: わああああ！
+c191_Battle_Enter_1:
+  en: Is this one of those encounters everyone is talking about?
+  ko: 인카운터래요!
+  ja: エンカウンターですって！
+c191_Battle_Ready_1:
+  en: Let's have some fun!
+  ko: 신나게 놀아 볼까요?
+  ja: 楽しく遊んじゃいましょうか？
+c191_Battle_Ready_2:
+  en: C'mon guys! Turn those frowns upside down!
+  ko: 다들 얼굴 찡그리지 마세요~
+  ja: みなさん、スマイルスマイル～
+c191_Battle_Ready_3:
+  en: Hey, Rabbity! Let's have some fun!
+  ko: 토끼씨~ 함께 놀아요!
+  ja: ウサギさ～ん、一緒に遊びましょ！
+c191_Reload_1:
+  en: Shhh, I'm hiding!
+  ko: 숨었다!
+  ja: 隠れたよ！
+c191_Reload_2:
+  en: Aha! Like this!
+  ko: 이렇게~ 이렇게~
+  ja: こうやって～こうやって～
+c191_Reload_3:
+  en: Give me a few minutes and I'll be right back into it!
+  ko: 준비하고 다시~
+  ja: 準備できたらもう一回～
+c191_Ult_Skill_Ready_1:
+  en: Perfect timing!
+  ko: 때가 됐어요!
+  ja: この時が来ました！
+c191_Ult_Skill_1:
+  en: Everyone will have a blast in Wonderland!
+  ko: 다 같이 원더랜드! 재미있게, 신나게!
+  ja: みんなで一緒にワンダーランド！楽しく、愉快に！
+c191_FullBurst_1:
+  en: Aren't we having such a great time together?!
+  ko: 와아-! 다 같이 놀아요!
+  ja: わあ～！一緒に遊びましょう！
+c191_Kill_Monster_1:
+  en: Gotcha!
+  ko: 잡았다~
+  ja: つ～かまえた！
+c191_Kill_Monster_2:
+  en: Oh no, they fainted!
+  ko: 쓰러졌어요!
+  ja: 倒れちゃいました！
+c191_Kill_Monster_3:
+  en: I'll go find someone else to play with!
+  ko: 다른 분이랑 놀래요!
+  ja: 他の人と遊びます！
+c191_Damage_1:
+  en: That hurt!
+  ko: 아파요!
+  ja: 痛いです！
+c191_Damage_2:
+  en: Argh!
+  ko: 아야!
+  ja: ああ！
+c191_Damage_3:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c191_Die_1:
+  en: Huh? Why can't I move?
+  ko: 어…? 토끼씨 이상해요. 움직이지 못하겠어요.
+  ja: |-
+    あれ…！ウサギさん、おかしいです。
+    動けなくなっちゃいました。
+c191_Win_1:
+  en: We won!
+  ko: 토끼씨 우리가 이겼대요!
+  ja: ウサギさん、私たち勝っちゃったみたいです！
+c191_01_Lobby_Touch_1:
+  en: |-
+    A hop and a skip, la la la...
+    Who will I meet on the way?
+  ko: |-
+    깡충~ 깡충~
+    누구를 만나러 가는 길일까요~?
+  ja: |-
+    ぴょんぴょ～ん。
+    誰に会いに行くんですか～？
+c191_01_Lobby_Touch_2:
+  en: Aren't I cute as a button?
+  ko: 저 어때요? 귀엽나요~?
+  ja: |-
+    私、どうですか？
+    かわいいですか～？
+c191_01_Lobby_Touch_3:
+  en: Rabbits jump like this, right? Boing, boing!
+  ko: 토끼는 이렇게 뛴다는데 맞나요? 뿅뿅!
+  ja: |-
+    ウサギはこうやって走るんですよね？
+    ぴょんぴょん！
+c191_01_Lobby_Touch_Love_1:
+  en: I wanna spend the whole day with you.
+  ko: 토끼 씨랑 하루 종일 같이 있고 싶어요~
+  ja: ウサギさんと1日中、ず～っと一緒にいたいです～
+c191_01_Lobby_Touch_Love_2:
+  en: |-
+    I'm off to a place where love reigns supreme!
+    Are you coming with me?
+  ko: |-
+    사랑의 낙원으로 떠날 거예요!
+    같이 갈래요~?
+  ja: |-
+    愛の楽園に出発です！
+    一緒に行きませんか～？
+c191_01_Lobby_Touch_Love_3:
+  en: Let's go eat some fluffy cotton candy together.
+  ko: 저랑 같이 구름 같은 솜사탕 먹으러 가요!
+  ja: 一緒にふわふわの綿あめを食べに行きましょう！
+c191_01_Lobby_Stay_1:
+  en: |-
+    Rabbity? Where are you?
+    You said you'd take me to the Ark!
+  ko: |-
+    토끼씨~ 어디 계세요~?
+    같이 방주에 놀러 가기로 했잖아요~!
+  ja: |-
+    ウサギさ～ん、どこですか～？
+    一緒にアークに遊びに行くって約束したじゃないですか～！
+c191_01_Lobby_Stay_Love_1:
+  en: |-
+    I can't wait to spend more time with you!
+    So hop on over here, quick!
+  ko: |-
+    같이 놀 생각에 너무너무 설레요!
+    그러니 빨리 와요!
+  ja: |-
+    一緒に遊べるなんてワクワクします！
+    だから早く来てくださいね！
+c191_01_Outpost_Touch_1:
+  en: Where do I want to go...? Anywhere, if it's with you!
+  ko: 어디 가고 싶냐고요~? 어디든 좋아요!
+  ja: |-
+    行きたいところですか？
+    どこでもうれしいです！
+c191_01_Outpost_Touch_2:
+  en: I wanna check out the toy store!
+  ko: 음~ 저는 장난감 상점에 가고 싶어요!
+  ja: う～ん、 私はおもちゃ屋さんに 行きたいです！
+c191_01_Outpost_Touch_3:
+  en: I want to go for a walk in the park with you, hand in hand.
+  ko: 공원에서 손잡고 산책할래요~
+  ja: 公園で手をつないで お散歩したいです～
+c191_01_Gacha_Get_1:
+  en: Are we going to the Ark? Yippee!
+  ko: |-
+    방주에 놀러 가자구요?!
+    너무 좋아요!
+  ja: |-
+    アークに遊びに行くんですか！？
+    とってもうれしいです！
+c191_01_Reinforce_1:
+  en: I wanna play here all day!
+  ko: 하루 종일 놀 수 있어요!
+  ja: 1日中遊べます！
+c191_01_Reinforce_2:
+  en: A hop and a skip, la la la...
+  ko: 깡충~ 깡충~!
+  ja: ぴょんぴょ～ん！
+c191_01_Reinforce_3:
+  en: Wowee! Thanks for sharing your strength with me!
+  ko: 와아-! 토끼 씨의 힘을 나눠줘서 고마워요!
+  ja: |-
+    わあ～！
+    ウサギさんの力を分けてくれて、ありがとうございます！
+c191_01_Gift_1:
+  en: Is this a souvenir from the Ark? Thank you!
+  ko: 이게 그 유명한 방주의 기념품인가요? 감사해요!
+  ja: |-
+    これがアークの有名なお土産なんですか？
+    ありがとうございます！
+c191_01_Gift_2:
+  en: A gift from Rabbity... I'll cherish it forever!
+  ko: 토끼 씨의 선물… 평생 간직할게요!
+  ja: |-
+    ウサギさんのプレゼント…
+    一生大切にします！
+c191_01_Gift_3:
+  en: |-
+    I want to get you a gift, too!
+    What do you want?
+  ko: |-
+    저도 선물해 줄래요!
+    뭐 갖고 싶으세요~?
+  ja: |-
+    私もプレゼントしますね！
+    何がいいですか～？
+c191_01_Attractive_Up_1:
+  en: I want to be with you forever and ever.
+  ko: 토끼 씨랑 계속 같이 있고 싶어요~
+  ja: ウサギさんとずっと一緒にいたいです～
+c191_01_Attractive_Up_2:
+  en: This is the happiest place in the world!
+  ko: 이곳이 행복의 세계인 것 같아요!
+  ja: ここが幸せな世界だと思います！
+c191_01_Attractive_Up_3:
+  en: I think I'm starting to catch feelings for you, Rabbity.
+  ko: 좋아하는 마음이 엄~청 커졌어요!
+  ja: 好きって気持ちがこ～んなに膨らみました！
+c191_01_Party_Deploy_1:
+  en: Can you tell me where we're going?
+  ko: 어디 가는지 알려주시면 안 돼요~?
+  ja: どこに行くのか教えてくれませんか～？
+c191_01_Field_Touch_1:
+  en: Are you calling me?
+  ko: 부르셨나요~?
+  ja: お呼びですか～？
+c191_01_Field_Go_1:
+  en: Let's go together!
+  ko: 같이 가요!
+  ja: 一緒に行きましょう！
+c191_01_Battle_Enter_1:
+  en: Let's have fun together!
+  ko: 재밌게 놀아봐요~!
+  ja: 楽しく遊びましょう！
+c191_01_Battle_Ready_1:
+  en: Ok, everybody! Let's do it!
+  ko: 모두 힘내요~!
+  ja: みなさん頑張りましょう！
+c191_01_Battle_Ready_2:
+  en: I'll show you what a rabbit can do!
+  ko: 토끼의 힘을 보여줄게요!
+  ja: ウサギの力をお見せします！
+c191_01_Battle_Ready_3:
+  en: Let's finish this quickly and go have some fun.
+  ko: 얼른 끝내고 놀러 가요~
+  ja: 早く終わらせて遊びに行きましょう～
+c191_01_Reload_1:
+  en: A-one, and a-two...
+  ko: 하나~ 둘~
+  ja: いち、に～
+c191_01_Reload_2:
+  en: Hehe, you can't see me!
+  ko: 헤헤, 저 어디 있게요~?
+  ja: えへへ、ど～こだっ？
+c191_01_Reload_3:
+  en: Just a moment, please...
+  ko: 조금만 기다려주세요~
+  ja: ちょっと待っててくださいね～
+c191_01_Ult_Skill_Ready_1:
+  en: Rabbity!
+  ko: 토끼 씨!
+  ja: ウサギさん！
+c191_01_Ult_Skill_1:
+  en: Off to the land of eternal happiness you go!
+  ko: 영원한 행복의 나라로 떠나요!
+  ja: 永遠の幸せな世界へ！
+c191_01_FullBurst_1:
+  en: Yahoo! I'm so happy!
+  ko: 와아-! 신나요!
+  ja: わあ～！楽しいです！
+c191_01_Kill_Monster_1:
+  en: Did I do well?
+  ko: 저 잘했어요?
+  ja: 頑張りました！
+c191_01_Kill_Monster_2:
+  en: There's more where that came from.
+  ko: 조금 더 힘낼게요!
+  ja: もう少し頑張ります！
+c191_01_Kill_Monster_3:
+  en: Hey! A compliment would be nice.
+  ko: 칭찬해 주세요!
+  ja: 褒めてください！
+c191_01_Damage_1:
+  en: Ow!
+  ko: 읏!
+  ja: うっ！
+c191_01_Damage_2:
+  en: Kyaa!
+  ko: 꺅!
+  ja: きゃっ！
+c191_01_Damage_3:
+  en: "*Sob*"
+  ko: 히잉….
+  ja: ふえん…
+c191_01_Die_1:
+  en: Maybe we can just play together next time...
+  ko: 같이 노는 건 다음에 해야 할 것 같아요….
+  ja: 一緒に遊ぶのはまた今度ですね…
+c191_01_Win_1:
+  en: All done! Now, are we gonna go have some fun or what?
+  ko: 와아~ 이제 놀러 가는 건가요?
+  ja: わあ～、これから遊びに行くんですか？
+191_cv_ja:
+  en: 'CV: Hina Yōmiya'
+  ko: 'CV : 요우미야 히나'
+  ja: CV：羊宮妃那
+191_cv_ko:
+  en: 'CV: Sung Ye-won'
+  ko: 'CV : 성예원'
+  ja: CV：ソン・エウォン
+191_cv_en:
+  en: 'CV: Kayli Mills'
+  ko: 'CV : 카일리 밀스'
+  ja: CV：Kayli Mills

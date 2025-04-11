@@ -1,0 +1,522 @@
+---
+183_name:
+  en: 'Maiden: Ice Rose'
+  ko: '메이든 : 아이스 로즈'
+  ja: メイデン：アイスローズ
+c183_description:
+  en: |-
+    The first comrade of Guillotine the Hero, also known as Ice Rose.
+    In their quest to defeat the White Ice Dragon, she leads the group onto the right path.
+  ko: |-
+    용사 길로틴의 첫 번째 동료. [아이스로즈]란 이명으로 불린다.
+    백빙룡을 쓰러뜨리기 위한 모험에서 용사 일행이 올바른 길로 나아갈 수 있도록 돕고 있다.
+  ja: |-
+    勇者ギロチンの最初の仲間。
+    「アイスローズ」と呼ばれている。
+    ホワイトアイスドラゴンを倒すための冒険で
+    勇者一行が正しい道に進めるよう手助けをしている。
+183_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_183:
+  en: 'Maiden: Ice Rose''s Spare Body'
+  ko: '메이든 : 아이스 로즈 스페어 바디'
+  ja: メイデン：アイスローズのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+11832_name:
+  en: Blessings Upon You
+  ko: 블레스 유
+  ja: ブレス・ユー
+11832_description:
+  en: "■ Activates when MP is replenished. Affects all Electric Code allies except
+    for self.\n<color=#00AEFF><word_group=10009>Damage as strong element</word_group>
+    ▲ {description_value_01}% for {description_value_02} sec.</color>\n<color=#00AEFF>ATK
+    ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>\n■
+    Activates when MP is used. Affects self.\n<color=#00AEFF><word_group=10009>Damage
+    as strong element</word_group> ▲ {description_value_05}% for {description_value_06}
+    sec.</color>\n<color=#00AEFF>ATK ▲ {description_value_07}% of caster's <word_group=10025>final</word_group>
+    Max HP for {description_value_08} sec.</color>\n■ Activates when attacking with
+    Full Charge for {description_value_11} time(s). Affects {description_value_09}
+    enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Deals {description_value_10}%
+    of <word_group=10025>final</word_group> ATK as damage.</color>"
+  ko: |-
+    ■ MP 충전 시 자신을 제외한 전격 코드 아군 전체에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}% ▲][{description_value_02}초 유지]</color>
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_03}% ▲][{description_value_04}초 유지]</color>
+    ■ MP 사용 후 자신에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_05}% ▲][{description_value_06}초 유지]</color>
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_07}%만큼 공격력 ▲][{description_value_08}초 유지]</color>
+    ■ 풀 차지 공격 {description_value_11}회 공격 시 조준선에 가장 가까운 적 {description_value_09}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_10}% 대미지]</color>
+  ja: |-
+    ■MPチャージ時に自分を除く電撃コードの味方全体に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■MP使用後、自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_07}％分の攻撃力▲」「{description_value_08}秒間維持」</color>
+    ■フルチャージ攻撃で{description_value_11}回攻撃した時、照準線に最も近い敵{description_value_09}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_10}％のダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21831_name:
+  en: Meditation
+  ko: 메디테이션
+  ja: メディテーション
+21831_description:
+  en: |-
+    ■ Activates when entering Burst Stage 1. Affects self when MP is 0.
+    <color=#00AEFF>MP recovers by {description_value_01}. MP can be accumulated up to a maximum of 12. All accumulated MP is consumed when using Burst Skill.</color>
+    ■ Activates when entering Full Burst. Affects self when MP is above 1.
+    <color=#00AEFF>MP replenishes by {description_value_02}. MP can be accumulated up to a maximum of 12. All accumulated MP is consumed when using Burst Skill.</color>
+    ■ Activates when attacking with Full Charge for {description_value_06} time(s). Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_03}% without restoring HP for {description_value_05} sec, stacks up to {description_value_04} time(s).</color>
+  ko: |-
+    ■ 버스트 1단계 진입 시 자신의 MP가 0 이라면 자신에게
+    <color=#00AEFF>[MP {description_value_01} 회복] [최대 MP 12 축적] [버스트 스킬 사용 시 축적된 모든 MP 삭제]</color>
+    ■ 풀 버스트 타임 시작 시 자신의 MP가 1 이상이라면 자신에게
+    <color=#00AEFF>[MP {description_value_02} 충전] [최대 MP 12 축적] [버스트 스킬 사용 시 축적된 모든 MP 삭제]</color>
+    ■ 풀 차지 공격 {description_value_06}회 공격 시 자신에게
+    <color=#00AEFF>[최대 체력만 {description_value_03}% ▲] [{description_value_04} 중첩] [{description_value_05} 초 유지]</color>
+  ja: |-
+    ■バースト1段階突入時、自分のMPが0なら自分に
+    <color=#00AEFF>「MP{description_value_01}回復」「最大12まで蓄積可能」「バーストスキルを使用した時、蓄積したすべてのMPが消滅」</color>
+    ■フルバーストタイムが発動した時、自分のMPが1以上なら自分に
+    <color=#00AEFF>「MP{description_value_02}チャージ」「最大12まで蓄積可能」「バーストスキルを使用した時、蓄積したすべてのMPが消滅」</color>
+    ■フルチャージ攻撃で{description_value_06}回攻撃した時、自分に
+    <color=#00AEFF>「最大HPのみ{description_value_03}％▲」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11833_name:
+  en: Diamond Dust
+  ko: 다이아몬드 더스트
+  ja: ダイヤモンドダスト
+11833_description:
+  en: "■ Affects {description_value_01} enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Deals
+    damage equal to {description_value_03}% of the sum of {description_value_02}%
+    of the caster's <word_group=10025>final</word_group> Max HP and the caster's ATK.
+    <word_group=10060>Attacks continuously</word_group> based on the current MP.</color>"
+  ko: |-
+    ■ 조준선에 가장 가까운 적 {description_value_01}기에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_02}%를 공격력으로 합산한 {description_value_03}% 대미지] [보유 MP 만큼 <word_group=10060>연속 공격</word_group>]</color>
+  ja: |-
+    ■照準線に最も近い敵{description_value_01}機に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％を攻撃力に合算して{description_value_03}％ダメージ」「所持MP分の<word_group=10060>連続攻撃</word_group>」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+180_name:
+  en: Guillotine
+  ko: 길로틴
+  ja: ギロチン
+181_name:
+  en: Maiden
+  ko: 메이든
+  ja: メイデン
+182_name:
+  en: 'Guillotine: Winter Slayer'
+  ko: '길로틴 : 윈터 슬레이어'
+  ja: ギロチン：ウィンタースレイヤー
+c183_Lobby_Touch_1:
+  en: What's our quest for today?
+  ko: 오늘은 무슨 퀘스트를 할 건가요?
+  ja: 今日は何のクエストをするんですか？
+c183_Lobby_Touch_2:
+  en: The mask? In this land of such fecundity, there is no need for such a thing.
+  ko: 마스크요? 봄의 나라에서 그런 건 필요 없어요.
+  ja: マスクですか？春の国ではそんなもの必要ありません。
+c183_Lobby_Touch_3:
+  en: |-
+    You say my outfit is too revealing?
+    You just don't get it. The more revealing the clothing, the higher the defense.
+  ko: |-
+    복장이 너무 짧은 거 아니냐고요?
+    뭘 모르시는군요. 그럴수록 방어력은 올라가는 거라고요.
+  ja: |-
+    布面積が少なすぎる？
+    分かっていませんね。布が少ないほど防御力は上がるのです。
+c183_Lobby_Touch_Love_1:
+  en: Playing as a team is better than going solo.
+  ko: 솔플보다는 파티 플레이가 더 좋은 거로군요.
+  ja: ソロよりはパーティの方がいいですね。
+c183_Lobby_Touch_Love_2:
+  en: Nothing beats a mage that can tank and deal damage at the same time.
+  ko: |-
+    탱킹과 딜링을 동시에 할 수 있는 법사라니,
+    정말 최고 아닌가요?
+  ja: |-
+    防御と攻撃が同時にできる魔法使いなんて…
+    最高だと思いませんか？
+c183_Lobby_Touch_Love_3:
+  en: |-
+    This magic circle engraved on my tongue?
+    Hmm... Would you like to have a taste?
+  ko: |-
+    혀에 새겨진 마법진이요?
+    음… 무슨 마법인지 맛 보여드릴까요?
+  ja: |-
+    舌に刻まれた魔法陣？
+    …どんな魔法か味わってみますか？
+c183_Lobby_Stay_1:
+  en: How can you leave top-tier talent like me standing around idly?
+  ko: 저 같은 고급 인력을 이렇게 방치해 두다니….
+  ja: 私のような優秀な人材を放置するなんて…
+c183_Lobby_Stay_Love_1:
+  en: Time is money, Commander!
+  ko: 시간은 금이에요, 지휘관!
+  ja: 時は金なりですよ、指揮官！
+c183_Outpost_Touch_1:
+  en: Is PvP possible in this area?
+  ko: 여기… PVP 가능 구역인가요?
+  ja: ここは…PVPエリアですか？
+c183_Outpost_Touch_2:
+  en: "Can I break that chest? \nI feel like there's something good inside."
+  ko: 흠, 저 상자 부셔봐도 될까요? 안에 좋은 게 있을 것 같은데.
+  ja: あの箱、壊してみてもいいですか？ いいものが入っていそうです。
+c183_Outpost_Touch_3:
+  en: |-
+    Objection! ... Sorry.
+    I've programmed a macro for that line to sound out whenever I see a courthouse.
+  ko: |-
+    이의 있음! …죄송해요.
+    법원을 보면 이 대사가 튀어나오도록 매크로를 입력해 둬서.
+  ja: |-
+    異議あり！…すみません。
+    裁判所を見たら、 このセリフが飛び出すように
+    マクロを設定していました。
+c183_Gacha_Get_1:
+  en: |-
+    A cold chill, ruthless yet warm... The Ice Rose.
+    I, Maiden, shall join you.
+  ko: |-
+    차가운 냉기를 머금은, 냉혹하면서도 따스한 [아이스로즈]…
+    아니, 메이든 합류할게요.
+  ja: |-
+    冷気をまとい、
+    冷酷でありながらも温かさを秘めた「アイスローズ」…
+    いえ…メイデン、合流します。
+c183_Reinforce_1:
+  en: My power is overflowing!
+  ko: 힘이 넘쳐흘러요!
+  ja: 力がみなぎってきました！
+c183_Reinforce_2:
+  en: Heh, would you like to measure my power?
+  ko: 후후. 제 전투력을 측정해 보시겠어요?
+  ja: ふふ。私の戦闘力を測ってみませんか？
+c183_Reinforce_3:
+  en: You've dumped all my points into attack. Then again, I'm a power mage!
+  ko: 스탯은 공격력에 몰빵 하죠. 전 힘법사니까요!
+  ja: |-
+    ステータスは攻撃力に全振りします。
+    私はパワー系魔法使いですから！
+c183_Gift_1:
+  en: I didn't expect events where we'd increase our fondness.
+  ko: 호감도 상승 이벤트가 있을 거라곤 예상 못했어요….
+  ja: 好感度アップイベントがあるとは…予想できませんでした…
+c183_Gift_2:
+  en: |-
+    Why would you give me this...? Oh, it's our anniversary today, isn't it?
+    Our wedding anniversary, that is.
+  ko: |-
+    왜 저한테 이런 걸…? 아아… 오늘 기념일이었죠.
+    저희 결혼기념일이요.
+  ja: |-
+    どうして私にこんなものを…？ああ…今日は記念日でしたね。
+    私たちの結婚記念日です。
+c183_Gift_3:
+  en: Congratulations. You've successfully conquered the heroine.
+  ko: 축하드려요. 히로인 공략 성공하셨네요.
+  ja: おめでとうございます。ヒロイン攻略成功ですね。
+c183_Attractive_Up_1:
+  en: |-
+    Shall I let you in on a little spoiler?
+    I'm going to be the Commander's main heroine.
+  ko: |-
+    제가 스포 하나 할까요?
+    지휘관의 메인 히로인은 제가 될 거예요.
+  ja: |-
+    一つネタバレをしましょうか？
+    指揮官のメインヒロインは私です。
+c183_Attractive_Up_2:
+  en: Commander, where should we set up our first home as newlyweds?
+  ko: 지휘관, 저희 신혼집은 어디에 마련할까요?
+  ja: 指揮官、私たちの新居はどこにしましょうか？
+c183_Attractive_Up_3:
+  en: |-
+    Adventures are best shared with those who are on the same page.
+    Would you like to go on a journey, just the two of us?
+  ko: |-
+    모험은 마음이 맞는 동료들과 함께하는 거예요.
+    지휘관, 저랑 단둘이 모험 떠나실래요?
+  ja: |-
+    冒険は気の合う仲間たちとするものです。
+    指揮官、私と二人きりで冒険しませんか？
+c183_Party_Deploy_1:
+  en: Are you asking me to be your companion?
+  ko: 너 내 동료가 돼라, 이런 말씀이시죠?
+  ja: 仲間になれ、そういうことですね？
+c183_Field_Touch_1:
+  en: Go ahead and issue the order.
+  ko: 예, 오더 부탁드려요.
+  ja: はい。指示をお願いします。
+c183_Field_Go_1:
+  en: Help me find a shortcut, if at all possible.
+  ko: 숏컷 루트로 안내해 주세요.
+  ja: 最短ルートで案内してください。
+c183_Battle_Enter_1:
+  en: Let's start the dungeon crawl!
+  ko: 던전 공략, 시작하죠!
+  ja: ダンジョン攻略を始めましょう！
+c183_Battle_Ready_1:
+  en: Let's finish it with a flourish!
+  ko: 최대한 멋지게 끝내죠!
+  ja: 華麗に終わらせましょう！
+c183_Battle_Ready_2:
+  en: Have you figured out the patterns yet?
+  ko: 패턴 파악은 끝났겠죠?
+  ja: パターンの把握はお済みですね？
+c183_Battle_Ready_3:
+  en: Is everyone ready?
+  ko: 다들 준비되셨나요?
+  ja: みなさん、準備はよろしいですか？
+c183_Reload_1:
+  en: Let me recharge my mana.
+  ko: 마나 좀 채울게요.
+  ja: マナをチャージします。
+c183_Reload_2:
+  en: Does anyone need a potion?
+  ko: 포션 필요하신 분 있나요?
+  ja: ポーションが欲しい方？
+c183_Reload_3:
+  en: You take the aggro role for a second.
+  ko: 어그로 좀 부탁해요.
+  ja: ヘイトを集めてください。
+c183_Ult_Skill_Ready_1:
+  en: I'll freeze everything.
+  ko: 전부 얼려버릴게요.
+  ja: すべて凍らせましょう。
+c183_Ult_Skill_1:
+  en: A decimating breath. Diamond Dust.
+  ko: 그대의 숨결을 적에게. 다이아몬드 더스트.
+  ja: 汝の息吹を我が敵に。ダイヤモンドダスト。
+c183_FullBurst_1:
+  en: Let's do as much damage as possible!
+  ko: 딜미터기 뚫어버리죠!
+  ja: ダメージメーターを突き破りましょう！
+c183_Kill_Monster_1:
+  en: I want the last strike.
+  ko: 막타는 양보 못해요.
+  ja: トドメはこの私が。
+c183_Kill_Monster_2:
+  en: Frozen solid.
+  ko: 꽁꽁 얼어붙어라.
+  ja: 凍ってしまいなさい。
+c183_Kill_Monster_3:
+  en: Looks like I've dealt the most damage.
+  ko: 딜량 일등 하겠는데요?
+  ja: ダメージ量1位になれそうです！
+c183_Damage_1:
+  en: Heh!
+  ko: 큭!
+  ja: くっ！
+c183_Damage_2:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c183_Damage_3:
+  en: Wrong move!
+  ko: 컨트롤 미스가…!
+  ja: コントロールミス…！
+c183_Die_1:
+  en: I was the weakest in our squad...
+  ko: 안타깝게도… 저는 우리 스쿼드의 최약체였답니다….
+  ja: 残念ながら…私はこのパーティの中でも最弱でした…
+c183_Win_1:
+  en: Commander, our adventure starts now!
+  ko: 지휘관, 우리의 모험은 지금부터에요!
+  ja: 指揮官、私たちの冒険はここからです！
+183_cv_ja:
+  en: 'CV: Yui Horie'
+  ko: 'CV : 호리에 유이'
+  ja: CV：堀江由衣
+183_cv_ko:
+  en: 'CV: Min-ah'
+  ko: 'CV : 민아'
+  ja: CV：ミナ
+183_cv_en:
+  en: 'CV: Jenny Yokobori'
+  ko: 'CV : 제니 요코보리'
+  ja: CV：Jenny Yokobori

@@ -1,0 +1,819 @@
+---
+330_name:
+  en: Crown
+  ko: 크라운
+  ja: クラウン
+c330_description:
+  en: |-
+    A Pilgrim from the White Knight squad.
+    She identifies herself as a king and is currently recruiting subjects for her kingdom.
+    She strives toward the goal of fulfilling her subjects' wishes.
+  ko: |-
+    바이스리터 스쿼드 소속 필그림.
+    본인을 왕이라 칭하며, 왕국의 신하를 모으고 있다.
+    신하의 소원을 이루어주는 것을 목표로 하고 있다.
+  ja: |-
+    ヴァイスリッター部隊所属のピルグリム。
+    自分を王を称し、臣下を集めている。
+    臣下の願いを叶えることを目標としている。
+330_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_330:
+  en: Crown's Spare Body
+  ko: 크라운 스페어 바디
+  ja: クラウンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down_detect:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Senses enemies that cannot be auto-targeted.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [오토 타겟팅 불가능한 적 감지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「オートターゲティング不可能な敵を感知」
+    「コアダメージ{core_damage_rate}％」</color>
+23302_name:
+  en: Royal Attire
+  ko: 로얄 에타이어
+  ja: ロイヤルアタイア
+23302_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>Relax: Potency of HP restored ▲ {description_value_02}% continuously, stacks up to {description_value_03} time(s).</color>
+    ■ Activates when Relax is fully stacked. Affects self after the stacks are removed.
+    <color=#00AEFF>Invulnerable for {description_value_04} sec.</color>
+    <color=#00AEFF>Attract: Taunt all enemies for {description_value_05} sec.</color>
+    <color=#00AEFF>Recovers {description_value_06}% of the caster’s <word_group=10025>final</word_group> Max HP as HP.</color>
+    ■ Activates when<word_group=10027> recovery takes effect</word_group>. Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_07}% for {description_value_08} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 자신에게
+    <color=#00AEFF>[릴렉스 : 받는 체력 회복량 {description_value_02}% ▲] [{description_value_03} 중첩] [지속]</color>
+    ■ 자신이 릴렉스 최대 중첩 상태라면 중첩 해제 후 자신에게
+    <color=#00AEFF>[무적] [{description_value_04}초 유지]</color>
+    <color=#00AEFF>[주목 : 적 전체 도발] [{description_value_05}초 유지]</color>
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_06}% 회복]</color>
+    ■ <word_group=10027>회복 효과 적용 시</word_group> 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「リラックス：受けるHP回復量{description_value_02}％▲」「{description_value_03}スタック」「持続」</color>
+    ■自分がリラックスのフルスタック状態の時、スタック解除後、自分に
+    <color=#00AEFF>「無敵」「{description_value_04}秒間維持」</color>
+    <color=#00AEFF>「ヘイト：敵全体を挑発」「{description_value_05}秒間維持」</color>
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_06}％回復」</color>
+    ■<word_group=10027>回復効果が適用された時</word_group>、味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23301_name:
+  en: One for All
+  ko: 원 포 올
+  ja: ワンフォーオール
+23301_description:
+  en: |-
+    ■ Activates at the start of Full Burst. Affects all allies who previously cast their Burst Skills.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
+    <color=#00AEFF>Reloading Speed ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all allies who did not previously cast their Burst Skills.
+    <color=#00AEFF>DEF ▲ {description_value_05}% of caster's DEF for {description_value_06} sec.</color>
+    <color=#00AEFF>Reloading Speed ▲ {description_value_07}% for {description_value_08} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 직전에 버스트 스킬을 사용한 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    <color=#00AEFF>[재장전 속도 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 풀버스트 타임 시작 시 직전에 버스트 스킬을 사용하지 않은 아군 전체에게
+    <color=#00AEFF>[시전자 기준 방어력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    <color=#00AEFF>[재장전 속도 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、直前にバーストスキルを使用した味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「リロード速度{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■フルバーストタイムが発動した時、直前にバーストスキルを使用していない味方全体に
+    <color=#00AEFF>「スキル発動者基準で防御力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    <color=#00AEFF>「リロード速度{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13303_name:
+  en: Last Kingdom
+  ko: 라스트 킹덤
+  ja: ラストキングダム
+13303_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_03}% of the caster’s <word_group=10025>final</word_group> Max HP for {description_value_04} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% <word_group=10023>보호막</word_group>] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HP{description_value_03}％の
+    <word_group=10023>バリア</word_group>」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c330_Lobby_Touch_1:
+  en: |-
+    Every king must listen to the requests of subjects.
+    Do you have something you would ask of me?
+  ko: |-
+    무릇 왕이라면 백성의 부탁을 들어줘야 하는 법이죠.
+    당신도 제게 부탁할 것이 있나요?
+  ja: |-
+    王とは民の願いを聞くものです。
+    あなたも私に願うことがあるのですか？
+c330_Lobby_Touch_2:
+  en: |-
+    Chime is the kingdom's royal aide.
+    This means that she has to be with the King at all times.
+  ko: |-
+    차임은 크라운 왕국의 비서입니다.
+    왕과 늘 함께 있어야 한다는 거죠.
+  ja: |-
+    チャイムはクラウン王国の秘書ですわ。
+    常に王とともにあるべき存在です。
+c330_Lobby_Touch_3:
+  en: |-
+    Trombe? She is my faithful steed.
+    What more is there to know?
+  ko: "트롬베요? 제 말입니다만. \n무엇이 더 궁금하시다는 거죠?"
+  ja: |-
+    トロンベですか？私の愛馬ですわ。
+    何か気になることがありましたか？
+c330_Lobby_Touch_Love_1:
+  en: Did you call your king?
+  ko: 당신의 왕을 부르셨나요.
+  ja: あなたの王を呼びましたか？
+c330_Lobby_Touch_Love_2:
+  en: |-
+    If you have a wish, please tell me.
+    I will make sure that it comes true.
+  ko: |-
+    당신에게 소원이 있다면 무엇이든 말해주세요.
+    반드시 이루어드리겠습니다.
+  ja: |-
+    願うことがあるのでしたら、何でも聞かせてください。
+    必ず叶えて差し上げますわ。
+c330_Lobby_Touch_Love_3:
+  en: Wherever you are, do not forget that you are a subject of this kingdom.
+  ko: |-
+    당신은 이미 크라운 왕국의 백성입니다.
+    언제 어디에 있든 그것을 꼭 잊지 마시길.
+  ja: |-
+    あなたはすでにクラウン王国の民なのです。
+    いつどこにいても、お忘れなきように。
+c330_Lobby_Stay_1:
+  en: You have gone off without your king? You must truly be disguised with me. Disguised...
+    Disgorge... Disgust? Anyway, I will wait.
+  ko: |-
+    왕을 두고 사라지시다니, 정말 분장하신가 보군요.
+    분장… 부장… 분중? 아, 아무튼… 기다려 드리겠습니다.
+  ja: |-
+    王を置いてゆくとは、本当にあわだたしいようですわね。
+    あわだたしい…あわただしい…？
+    と、とにかく…待っておりますわ。
+c330_Lobby_Stay_Love_1:
+  en: |-
+    Waiting for a busy citizen is also the role of a king.
+    Hohohoho..! Cough. Cough. A-ahem.
+  ko: |-
+    바쁜 백성을 기다려주는 것, 그것이 왕의 역할이겠죠.
+    호호호혹…! 쿨럭. 쿨럭. 크, 크흠.
+  ja: |-
+    忙しい民を待つことも、王の勤め。
+    おほほほ…！ゴホ、ゴホッ！お、おほんっ…
+c330_Outpost_Touch_1:
+  en: This is a truly amazing place, so much so that I would consider making this
+    the second palace of our kingdom.
+  ko: |-
+    이곳은 정말 멋지네요.
+    크라운 왕국의 제 2 왕궁으로 삼고 싶을 정도예요.
+  ja: |-
+    ここはとても素敵ですわね。
+    クラウン王国の 第2王宮としたいほどですわ。
+c330_Outpost_Touch_2:
+  en: |-
+    So this is the Inpost. Is this your kingdom?
+    Ah... yes, it's called the Outpost. I knew that, I was merely trying to amuse you with wordplay.
+  ko: |-
+    여기가 제초기지. 당신의 왕국인가요?
+    아... 전초기지라고요. 어, 언어유쾌를 해본 거랍니다.
+  ja: |-
+    ここが成長基地、 あなたの王国ですか？
+    え…前哨基地でしたか？ た、単なる言葉遊びですわ。
+c330_Outpost_Touch_3:
+  en: Everyone looks to be enjoying themselves here, and it's all thanks to everything
+    you've done for them.
+  ko: |-
+    이곳에선, 모두가 즐거워 보이는군요.
+    …모두 당신의 노력 덕분이겠죠.
+  ja: |-
+    ここの皆さんは、 楽しそうに見えますわね。
+    …すべてあなたの努力に よるものでしょう。
+c330_Gacha_Get_1:
+  en: |-
+    I am Crown, the king of this kingdom.
+    Do you wish to become a subject of my kingdom? You are welcome to.
+  ko: |-
+    크라운 왕국의 왕, 크라운입니다.
+    크라운 왕국의 백성이 되기 위해 저를 찾으셨군요. 환영합니다.
+  ja: |-
+    私はクラウン。クラウン王国を統べる王ですわ。
+    クラウン王国の民となりたいのでしたら、歓迎いたします。
+c330_Reinforce_1:
+  en: "I've gotten stronger, like a child going through adultery. \nAh... adolescence,
+    is it? Er... I knew that."
+  ko: |-
+    사춘기 아이처럼 힘이 더욱 자라났습니다.
+    아… 성장기라고요. 아, 알고 있었답니다.
+  ja: |-
+    思春期の子どものように、力がわいてきますわ。
+    えっ…成長期？ええ、知っておりましたわ。
+c330_Reinforce_2:
+  en: As long as my subjects need it, I can become stronger.
+  ko: 백성이 바란다면, 저는 더 강해질 수 있습니다.
+  ja: 民がそう望むのなら、私はさらに強くなれますわ。
+c330_Reinforce_3:
+  en: With this, the kingdom has become stronger.
+  ko: 이것으로 크라운 왕국은 더욱 강해졌습니다.
+  ja: これでクラウン王国はさらに強大になりましたわ。
+c330_Gift_1:
+  en: |-
+    So you're offering a tribe? Ah, right, tribute.
+    I-I see. I will put it to good use.
+  ko: "제게 바치는 콩물이로군요. 아, 공물이라고요. \n그, 그렇군요. 잘 쓰겠습니다."
+  ja: |-
+    私に捧げるひつぎ物…貢ぎ物？
+    そ、そうですの。大切に使いますわ。
+c330_Gift_2:
+  en: I cannot turn away a gift from my subject. Thank you.
+  ko: 백성이 주는 선물을 외면할 수는 없죠. 감사합니다.
+  ja: |-
+    民からの贈り物を無下にするわけにはまいりません。
+    ありがたく頂戴しますわ。
+c330_Gift_3:
+  en: |-
+    This is called a gift...?
+    But why are you giving it to me?
+  ko: |-
+    이것이 선물이라는 것이군요.
+    …그런데 왜 제게 주시는 거죠?
+  ja: |-
+    これがプレゼントというものですか。
+    …ですが、なぜこれを私に？
+c330_Attractive_Up_1:
+  en: |-
+    Whenever I look at you, my heart starts to pound in my chest...
+    Do you think there's something wrong with it?
+  ko: |-
+    당신만 보면 가슴 안쪽이 두근거리는데….
+    이것이 속이 안 좋다는 것일까요?
+  ja: |-
+    あなたを見ると、胸の鼓動が高鳴りますわ…
+    これが胃もたれというものなのでしょうか？
+c330_Attractive_Up_2:
+  en: |-
+    A king should view all of their subjects equally...
+    But I hold you in special regard.
+  ko: |-
+    왕에게 있어, 백성은 모두 평등해야 하는데….
+    당신이 특별하게 느껴지네요.
+  ja: |-
+    王にとって、民はみな平等であるべきです…
+    しかし、あなたは特別に感じてしまいますわね。
+c330_Attractive_Up_3:
+  en: You are someone whom I cherish as much as Chime.
+  ko: |-
+    당신이… 차임만큼이나,
+    제게 소중한 사람이 되어버렸군요.
+  ja: |-
+    あなたは…チャイムと同じほど、
+    私にとって欠かせない方となってしまいましたわ。
+c330_Party_Deploy_1:
+  en: If it's a request from my subject, I have to accept.
+  ko: 백성의 부탁이라면 들어드려야죠.
+  ja: 民の望みとあらば、喜んで応えましょう。
+c330_Field_Touch_1:
+  en: Did you call?
+  ko: 부르셨나요.
+  ja: 私を呼びましたか？
+c330_Field_Go_1:
+  en: Oh, right, not there. I-I knew that.
+  ko: 아, 저쪽이 아니라고요. 이, 이미 알고 있었답니다.
+  ja: |-
+    え、あちらではない？
+    も、もちろん分かっておりましたわ。
+c330_Battle_Enter_1:
+  en: Coming.
+  ko: 옵니다.
+  ja: 参りましょう。
+c330_Battle_Ready_1:
+  en: Don't worry. I will protect you.
+  ko: 걱정하지 마세요. 당신은 제가 지킵니다.
+  ja: ご心配なく。あなたは私が守りますわ。
+c330_Battle_Ready_2:
+  en: Believe in your king. Victory will be ours.
+  ko: 왕을 믿으세요. 반드시 승리할 것입니다.
+  ja: 信じるのです。王は必ず勝利します。
+c330_Battle_Ready_3:
+  en: Have faith. I will protect my people.
+  ko: 믿으세요. 왕은 백성을 지킵니다.
+  ja: 王は民を守るもの、信じるのです。
+c330_Reload_1:
+  en: This is going on a bit long.
+  ko: "…조금 길어지는군요."
+  ja: "…少し長引いておりますわね。"
+c330_Reload_2:
+  en: Wait a moment. It will end soon.
+  ko: 조금만 기다리세요. 금방 끝납니다.
+  ja: 少々お待ちを。すぐに終わらせますわ。
+c330_Reload_3:
+  en: Re-engaging, er... I mean reloading.
+  ko: 대장전 하겠습니다. 아, 재장전이라고요.
+  ja: リライトいたします…え、リロードですか？
+c330_Ult_Skill_Ready_1:
+  en: Giddy-up, Trombe!
+  ko: 달려요, 트롬베.
+  ja: 行きなさい、トロンベ。
+c330_Ult_Skill_1:
+  en: Down with those who would threaten the kingdom.
+  ko: 왕국을 위협하는 자들에게 심판의 창을.
+  ja: 王国を脅かす者たちに、審判の槍を。
+c330_FullBurst_1:
+  en: Now, we must focus our attacks.
+  ko: 지금입니다. 모두 집중 공갈하는 겁니다.
+  ja: 今こそ昆虫…いえ、集中攻撃の時ですわ。
+c330_Kill_Monster_1:
+  en: Next.
+  ko: 다음, 오시죠.
+  ja: 次はどなたですか？
+c330_Kill_Monster_2:
+  en: This is the power of the king.
+  ko: 이것이 왕의 힘입니다.
+  ja: これが王の力です。
+c330_Kill_Monster_3:
+  en: Be gone.
+  ko: 물러가세요.
+  ja: 下がりなさい。
+c330_Damage_1:
+  en: Agh.
+  ko: 읏.
+  ja: うっ。
+c330_Damage_2:
+  en: Oof.
+  ko: 큿.
+  ja: くっ。
+c330_Damage_3:
+  en: "*Phew*"
+  ko: 후우….
+  ja: ふぅ…
+c330_Die_1:
+  en: I think the wise thing to do now is to call for a "strategic retreat"...
+  ko: 읏… 이런 때 작전상 해태… 라는 말을 쓰나 보군요.
+  ja: うっ…こういう時は戦略的停滞…と言うようですわね。
+c330_Win_1:
+  en: Securing victory for their subjects is a king's duty.
+  ko: 백성이 원하는 승리를 가져다주는 것, 그것이 왕의 역할이죠.
+  ja: 民が望む勝利をもたらすこと、それが王の責務ですわ。
+c330_01_Lobby_Touch_1:
+  en: These clothes carry with them the hope of the subjects.
+  ko: 이 옷은 백성의 바람으로 만들어져 있답니다.
+  ja: この玉衣は民の願いが織りなしたものなのです。
+c330_01_Lobby_Touch_2:
+  en: |-
+    You said you can't see my clothes that well?
+    That is because you are not perceiving them properly.
+  ko: |-
+    제 옷이 잘 보이지 않는다고요?
+    그건 전부 당신의 마음이 그렇게 생각하기 때문이랍니다.
+  ja: |-
+    私の服がよく見えませんか？
+    それは全て、あなたがそう思っているだけですわ。
+c330_01_Lobby_Touch_3:
+  en: |-
+    Chime said that with this, I have truly become a king.
+    Do you also see it that way?
+  ko: "차임이 그러더군요. 이것으로 전 진정한 왕이 되었다고. \n당신의 눈에도 그렇게 보입니까?"
+  ja: |-
+    チャイムが言っていましたわ。これで私は真の王になったと。
+    あなたの目にもそう映っておりますか？
+c330_01_Lobby_Touch_Love_1:
+  en: "You think my clothes are quite blinding? \nThat is because you're seeing your
+    own light spilling forth from within."
+  ko: |-
+    제 옷이 눈부시다고요?
+    그건 당신의 마음에 빛이 가득하기 때문이랍니다.
+  ja: |-
+    私の服がまぶしい？
+    それはあなたの心が光で満ちているからですわ。
+c330_01_Lobby_Touch_Love_2:
+  en: Your faith and hope have made me a true king.
+  ko: |-
+    당신의 믿음과 소망이,
+    저를 진정한 왕으로 만들어주었답니다.
+  ja: あなたの信頼と願いが、私を真の王へと導いたのですわ。
+c330_01_Lobby_Touch_Love_3:
+  en: "I am alone, but I am not lonely. \nThat is because every subject in the kingdom
+    fills me with light."
+  ko: |-
+    저는 비어있지만, 외롭지 않습니다.
+    크라운 왕국의 모두가 저를 빛나게 하기 때문이죠.
+  ja: |-
+    私は空の器に過ぎませんが、寂しくはありません。
+    クラウン王国の民が私を輝かせるからです。
+c330_01_Lobby_Stay_1:
+  en: |-
+    I can wait.
+    Do what you have to and come back.
+  ko: |-
+    기다려도 괜찮습니다.
+    당신이 원하는 것을 하고 오세요.
+  ja: |-
+    待つことはかまいません。
+    あなたの思うままにゆくのです。
+c330_01_Lobby_Stay_Love_1:
+  en: |-
+    Do not worry.
+    My light will continue to shine in the dark spaces of your life.
+  ko: "걱정 마세요. \n제 빛이 당신의 빈자리를 환하게 비추고 있을 겁니다."
+  ja: |-
+    心配はいりません。
+    私の光があなたのいた空間を埋めるでしょう。
+c330_01_Outpost_Touch_1:
+  en: If I may give you a compliment, you are doing a fine job building up the kingdom's
+    second palace.
+  ko: |-
+    칭찬해 드리죠.
+    크라운 왕국의 제2왕궁을 훌륭하게 성장시키고 계시는군요.
+  ja: |-
+    褒めてつかわしましょう。
+    クラウン王国の第2王宮が 立派に発展して おりますわね。
+c330_01_Outpost_Touch_2:
+  en: |-
+    I will go wherever my subjects are.
+    Whether it is on the surface, up in the sky, or down below.
+  ko: |-
+    백성이 있는 곳이라면 어디든 갈 것입니다.
+    그것이 땅 위든, 땅 속이든.
+  ja: |-
+    民がいるのであれば、 どこへでも行きます。
+    それが大地の上であろうと、 下であろうと。
+c330_01_Outpost_Touch_3:
+  en: |-
+    It is always entertaining coming to the Uppost.
+    Oh, right, I meant the Outpost. I knew that.
+  ko: |-
+    정초기지는 언제 와도 즐겁군요.
+    아, 그, 그랬죠. 저, 전초기지죠. 그럼요. 잘 알고 있답니다.
+  ja: |-
+    前兆基地は いつ来ても楽しいですわ。
+    あ、そ、そうです、 前哨基地でしたわね。
+    もちろん分かって おりましたわ。
+c330_01_Gacha_Get_1:
+  en: Clothed in the adoration of the people, I will protect this kingdom as its true
+    king.
+  ko: |-
+    백성의 휘광을 몸에 두른 지금,
+    저는 진정한 왕으로서 크라운 왕국을 지켜낼 것입니다.
+  ja: |-
+    民の光を身にまとった今、
+    私は真の王としてクラウン王国を守り抜きますわ。
+c330_01_Reinforce_1:
+  en: |-
+    I feel your affection and trust.
+    I will ensure it is not misplaced.
+  ko: |-
+    이것이… 당신의 믿음이로군요.
+    잘 쓰겠습니다.
+  ja: |-
+    これが…あなたの信頼の証なのですね。
+    大切に使いますわ。
+c330_01_Reinforce_2:
+  en: With your efforts, my clothes will shimmer even brighter.
+  ko: 당신의 노력으로 제 옷의 빛이 더 강해졌답니다.
+  ja: あなたの尽力で、輝きがさらに増しましたわ。
+c330_01_Reinforce_3:
+  en: Carrying my subjects' faith, I shall venture forth even further.
+  ko: 백성들의 믿음으로 전 더 앞으로 나아갔습니다.
+  ja: 民の信頼を得て、私はさらに前へと進みましたわ。
+c330_01_Gift_1:
+  en: |-
+    Another gift?
+    I have told you before that you should only receive gifts, not give them, for I am your king.
+  ko: |-
+    또 선물을 주시는군요.
+    말했듯, 당신은 받기만 하면 됩니다. 제가 당신의 왕이니까요.
+  ja: |-
+    またプレゼントをくださるのですね。
+    言った通り、あなたは受け取るだけでよいのです。
+    私はあなたの王なのですから。
+c330_01_Gift_2:
+  en: |-
+    Your heart shines as brightly as these clothes of mine.
+    I will accept this gift gladly.
+  ko: |-
+    이 옷만큼이나 빛나는 마음이로군요.
+    잘 받겠습니다.
+  ja: |-
+    この玉衣のように輝くお気持ちです。
+    ありがたく受け取りましょう。
+c330_01_Gift_3:
+  en: Your sincerity will be a great asset to the kingdom, and I will prove it to
+    you.
+  ko: |-
+    당신의 정성이 크라운 왕국의 큰 자산이 될 거랍니다.
+    제가 반드시 그를 증명해 드리죠.
+  ja: |-
+    あなたの御心がクラウン王国の大きな資産となるでしょう。
+    必ずそれを証明してみせますわ。
+c330_01_Attractive_Up_1:
+  en: |-
+    It is rather peculiar. Lately, I have been unable to get you off my mind.
+    Is there something wrong with me?
+  ko: |-
+    이상하게 요즘 자꾸만 당신이 생각납니다.
+    제 머리에 문제가 생긴 것일까요?
+  ja: |-
+    なぜか最近、あなたのことばかり考えてしまうのです。
+    私の頭はどうしてしまったのでしょう？
+c330_01_Attractive_Up_2:
+  en: |-
+    I wish you could continue to be by my side just like Chime...
+    But I know that is not possible.
+  ko: |-
+    당신도 차임처럼 저와 쭉 함께 했으면 좋겠습니다.
+    …그럴 수 없겠지만요.
+  ja: |-
+    あなたもチャイムのように、
+    ずっと共にいてくださるとよいのですが。
+    …難しいことは分かっております。
+c330_01_Attractive_Up_3:
+  en: |-
+    I am no longer able to deny it.
+    You are special to me.
+  ko: "당신이 특별하다는걸… \n이제는 인정할 수밖에 없겠군요."
+  ja: |-
+    あなたが特別な存在ということは…
+    もう認めざるを得ませんわね。
+c330_01_Party_Deploy_1:
+  en: I will answer my subjects' calls.
+  ko: 백성이 부르는 곳이라면, 어디든.
+  ja: 民の呼ぶ声があれば、どこへでも。
+c330_01_Field_Touch_1:
+  en: Tell me where to go.
+  ko: 말씀하세요.
+  ja: 何ごとですか？
+c330_01_Field_Go_1:
+  en: I will move as you wish.
+  ko: 당신의 바람에 따라 움직이죠.
+  ja: あなたの望み通りに動きましょう。
+c330_01_Battle_Enter_1:
+  en: Step back. It is dangerous.
+  ko: 위험하니, 물러서세요.
+  ja: 危険ですわ、お下がりください。
+c330_01_Battle_Ready_1:
+  en: It is time to show the majesty of the kingdom.
+  ko: 가죠, 크라운 왕국의 위엄을 보일 때입니다.
+  ja: 行きましょう。クラウン王国の威厳を示す時ですわ。
+c330_01_Battle_Ready_2:
+  en: Your king shall secure another victory for the crown.
+  ko: 지켜보세요. 당신의 왕이 승리하는 모습을.
+  ja: 見届けるのです。あなたの王の勝利を。
+c330_01_Battle_Ready_3:
+  en: I will protect you, as I protect all my subjects.
+  ko: 백성을 지키는 왕으로서, 당신의 앞에 서겠습니다.
+  ja: 民を守る王として、あなたの前に立ちましょう。
+c330_01_Reload_1:
+  en: I will re-engage shortly.
+  ko: "…다시 가겠습니다."
+  ja: "…もう一度参ります。"
+c330_01_Reload_2:
+  en: You can watch me, there's no need for worry in your eyes.
+  ko: 절 지켜보는 눈에, 걱정은 필요 없답니다.
+  ja: 私を頼りなげに見る必要はありませんわ。
+c330_01_Reload_3:
+  en: This light will keep me going.
+  ko: 빛을 채워, 다시 나아가겠습니다.
+  ja: 光を集め、また進みましょう。
+c330_01_Ult_Skill_Ready_1:
+  en: Trombe, maximum speed.
+  ko: 트롬베, 최고 속도로 가죠.
+  ja: トロンベ、全速力で行きましょう。
+c330_01_Ult_Skill_1:
+  en: Under the light of the kingdom, all shall kneel.
+  ko: 고하노니, 크라운 왕국의 빛 아래 모두 무릎 꿇으리라.
+  ja: クラウン王国の光の下に、ひざまずきなさい。
+c330_01_FullBurst_1:
+  en: I'll take lead. Everyone follow me and attack.
+  ko: 제가 앞장설 테니, 모두 공격하세요.
+  ja: 私が先頭に立ちます。みなさん、攻撃を。
+c330_01_Kill_Monster_1:
+  en: Is there more?
+  ko: 더 없나요?
+  ja: もうおしまいですか？
+c330_01_Kill_Monster_2:
+  en: This represents my subjects' faith in me.
+  ko: 이것이 백성의 믿음입니다.
+  ja: これが民の信頼ですわ。
+c330_01_Kill_Monster_3:
+  en: Kneel.
+  ko: 무릎 꿇으세요.
+  ja: ひざまずきなさい。
+c330_01_Damage_1:
+  en: Urgh.
+  ko: 윽.
+  ja: うっ。
+c330_01_Damage_2:
+  en: Agh.
+  ko: 읏.
+  ja: ああっ。
+c330_01_Damage_3:
+  en: I'm okay.
+  ko: 아무렇지... 않습니다.
+  ja: なんとも…ありませんわ。
+c330_01_Die_1:
+  en: I... I shall come back after a short rest.
+  ko: 읏… 조금만 쉬고 오겠습니다.
+  ja: うっ…少し休んでまいります。
+c330_01_Win_1:
+  en: Did you see? Your king has won another victory.
+  ko: 보셨나요. 당신의 왕이 승리를 가져왔답니다.
+  ja: 見たでしょう。あなたの王がもたらした勝利ですわ。
+330_cv_ja:
+  en: 'CV: Aki Toyosaki'
+  ko: 'CV : 토요사키 아키'
+  ja: CV：豊崎愛生
+330_cv_ko:
+  en: 'CV: Heo Ye-eun'
+  ko: 'CV : 허예은'
+  ja: CV：ホ・イェウン
+330_cv_en:
+  en: 'CV: Kailey Bray'
+  ko: 'CV : 카일리 브레이'
+  ja: CV：Kailey Bray

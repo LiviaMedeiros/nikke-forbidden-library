@@ -1,0 +1,733 @@
+---
+430_name:
+  en: Noise
+  ko: 노이즈
+  ja: ノイズ
+c430_description:
+  en: A singer-songwriter who strives to do her utmost in everything. Apart from being
+    part of Prima Donna, her hit song "Diva" catapulted her into stardom.
+  ko: "매사에 최선을 다하는 싱어송 라이터. \n[DIVA]라는 역전의 히트곡을 내며 일약 스타가 되었다. \n소속은 프리마돈나 스쿼드."
+  ja: |-
+    何事にも最善を尽くすシンガーソングライター。
+    「DIVA」という曲がヒットし、一躍スターとなった。
+    所属はプリマドンナ部隊。
+430_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_430:
+  en: Noise's Spare Body
+  ko: 노이즈 스페어 바디
+  ja: ノイズのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+24302_name:
+  en: Sing Together
+  ko: 싱잉 투게더
+  ja: シンギングトゥギャザー
+24302_description:
+  en: "■ Affects the target(s) when attacking with full charge.\n<color=#00AEFF>Taunt
+    for {description_value_01} sec.</color> \n■ Affects self.\n<color=#00AEFF>Max
+    HP ▲ {description_value_02}% for {description_value_03} sec.</color>"
+  ko: |-
+    ■ 풀 차지 공격 시 대상에게
+    <color=#00AEFF>[도발] [{description_value_01}초 유지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[최대 체력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、対象に
+    <color=#00AEFF>「挑発」「{description_value_01}秒間維持」</color>
+    ■自分に
+    <color=#00AEFF>「最大HP{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24301_name:
+  en: Chorus
+  ko: 코러스
+  ja: コーラス
+24301_description:
+  en: |-
+    ■ Activates when attacked {description_value_01} time(s). Affects all allies.
+    <color=#00AEFF>Damage Taken ▼ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ {description_value_01}회 피격 시 아군 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■{description_value_01}回攻撃を受けた時、味方全体に
+    <color=#00AEFF>「受けるダメージ{description_value_02}％▼」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14303_name:
+  en: Energetic Noise
+  ko: 에너제틱 노이즈
+  ja: エナジェティックノイズ
+14303_description:
+  en: |-
+    ■ Affects all allies.
+     <color=#00AEFF>Constantly recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.
+    Max HP ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격] [{description_value_02}초 유지]
+    [최대 체력 {description_value_03}% ▲] [{description_value_04}초 유지] </color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％持続回復」「1秒間隔」「{description_value_02}秒間維持」
+    「最大HP{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+432_name:
+  en: Aria
+  ko: 아리아
+  ja: アリア
+431_name:
+  en: Volume
+  ko: 볼륨
+  ja: ボリューム
+c430_Lobby_Touch_1:
+  en: What do we need to practice today?
+  ko: 프로듀서, 오늘 뭐부터 연습하면 돼?
+  ja: プロデューサー、今日は何から練習すればいい？
+c430_Lobby_Touch_2:
+  en: How was my live today? I'm a little worried.
+  ko: 오늘 라이브 괜찮았어? …걱정되네.
+  ja: |-
+    今日のライブ、大丈夫だった？
+    …自信ないわ。
+c430_Lobby_Touch_3:
+  en: I want to improve my live vocals. What should I focus on practicing?
+  ko: "라이브를 좀 더 잘하고 싶은데, \n뭘 더 연습해야 할까?"
+  ja: |-
+    もっといいライブにしたいんだけど、
+    何をもっと練習すればいいと思う？
+c430_Lobby_Touch_Love_1:
+  en: I'm going to review the live performance I did today. Would you like to watch
+    it with me?
+  ko: "오늘 한 라이브 모니터링할 건데. \n같이 봐줄래?"
+  ja: |-
+    今日のライブ、モニタリングしようかと思うの。
+    一緒に見てくれない？
+c430_Lobby_Touch_Love_2:
+  en: Do I need to practice... to speak better... Seems like there's no noise in your
+    heart~! ... It's weird.
+  ko: |-
+    말투… 연습해야 하나… 당신의 하트에 노이노이즈~!
+    …이상해.
+  ja: |-
+    言葉遣いだけど…練習した方がいいかな…
+    あなたのハートにノイズノイズ～！
+    …やっぱり変だわ。
+c430_Lobby_Touch_Love_3:
+  en: I want to engage with my fans more. Can you help me with that?
+  ko: |-
+    내 노래를 듣는 사람들에게 좀 더 다가가고 싶어.
+    도와줄 거지? 프로듀서.
+  ja: |-
+    私の歌を聴いてくれる人たちにもっと近づきたい。
+    協力してくれるよね？プロデューサー。
+c430_Lobby_Stay_1:
+  en: Does this mean we'll have more time to practice?
+  ko: 저기, 이러고 있을 시간에 노래 연습하러 가면 안 될까?
+  ja: ねえ、こんなことしてる暇あったら歌の練習しに行っちゃだめ？
+c430_Lobby_Stay_Love_1:
+  en: All I'm doing is standing here and spacing out... It's kinda nice, actually.
+  ko: |-
+    이렇게 아무 생각 없이 대기하고 있는 것도…
+    나쁘진 않네.
+  ja: |-
+    こんな風に何も考えずに待機してるのも…
+    悪くはないわね。
+c430_Outpost_Touch_1:
+  en: I'm doing a show with Volume and Aria at the Theater today. Do you want to come
+    watch?
+  ko: |-
+    오늘 극장에서 볼륨이랑 아리아랑 공연할 건데
+    보러 올래?
+  ja: |-
+    今日劇場で ボリュームとアリアと 公演するんだけど
+    見に来ない？
+c430_Outpost_Touch_2:
+  en: This theater is perfect, but the only thing we don't have is an audience. Could
+    you... be our audience?
+  ko: |-
+    여기 극장은 다 좋은데 관객이 없어.
+    그래서 그런데… 프로듀서가 관객이 되어줄래?
+  ja: |-
+    ここの劇場は 全部文句なしなんだけど、 観客がいないの。
+    だから… プロデューサーが 観客になってくれない？
+c430_Outpost_Touch_3:
+  en: This place is fantastic. There's much more artistic freedom here than in the
+    Ark.
+  ko: "여기 정말 좋네. 뭐랄까… 방주보다 훨씬 자유로워서 \n음악 하기에 좋을 거 같아."
+  ja: |-
+    ここ、すごくいい。 何て言うか…
+    アークよりもずっと 自由な感じで、 音楽活動にもってこいかも。
+c430_Gacha_Get_1:
+  en: Producer, will you listen to my music?
+  ko: 프로듀서, 내 노래를 들어줄래?
+  ja: プロデューサー、私の歌、聴いてくれる？
+c430_Reinforce_1:
+  en: Thanks for caring.
+  ko: 신경 써줘서 고마워.
+  ja: 気にかけてくれてありがとう。
+c430_Reinforce_2:
+  en: That's brilliant producing.
+  ko: 훌륭한 프로듀싱이네.
+  ja: 見事なプロデュースね。
+c430_Reinforce_3:
+  en: I've grown a little, right?
+  ko: 나 조금은 성장한 거겠지?
+  ja: 私、少しは成長したんだよね？
+c430_Gift_1:
+  en: A gift for me? This is all so sudden... Thank you.
+  ko: 갑자기 선물? …고마워.
+  ja: |-
+    いきなりプレゼント？
+    …ありがとう。
+c430_Gift_2:
+  en: You're a fan of my music, aren't you?
+  ko: 프로듀서도 내 팬이었던… 거야?
+  ja: プロデューサーも私のファンだった…ってこと？
+c430_Gift_3:
+  en: I'll take good care of it.
+  ko: 소중히 간직할게.
+  ja: 大切にするわ。
+c430_Attractive_Up_1:
+  en: As a producer, would you be able to produce... something else?
+  ko: "싱어 송 라이터로서 말고… \n다른 것도 프로듀싱해주지 않을래?"
+  ja: |-
+    シンガーソングライターとしてじゃなくて…
+    他の件でもプロデュースしてくれない？
+c430_Attractive_Up_2:
+  en: I hope to make a song for you one day.
+  ko: 언젠가 꼭… 프로듀서를 위한 곡을 쓰고 싶어.
+  ja: |-
+    いつか必ず…
+    プロデューサーのための曲を書いてみせる。
+c430_Attractive_Up_3:
+  en: Whenever I see you, my heart skips a beat. I hope you feel the same way.
+  ko: |-
+    요즘 프로듀서만 보면 두근거려.
+    프로듀서도 그랬으면 좋겠네.
+  ja: |-
+    最近、プロデューサーを見るとドキドキするの。
+    プロデューサーも同じだったらいいな。
+c430_Party_Deploy_1:
+  en: It's my turn.
+  ko: 내 차례구나.
+  ja: 私の番ね。
+c430_Field_Touch_1:
+  en: Yes, I'm listening.
+  ko: 응, 듣고 있어.
+  ja: うん、ちゃんと聞いてるわ。
+c430_Field_Go_1:
+  en: Okay, moving out.
+  ko: 알겠어, 움직일게.
+  ja: 分かった、動くわ。
+c430_Battle_Enter_1:
+  en: Let's start the show.
+  ko: 라이브 시간이네.
+  ja: ライブの時間だわ。
+c430_Battle_Ready_1:
+  en: Everyone shall hear my song.
+  ko: 내 노래가 이곳에 울려 퍼질 수 있도록.
+  ja: 私の歌がこの場所に響き渡るように。
+c430_Battle_Ready_2:
+  en: I'll do my best.
+  ko: 열심히 해볼게.
+  ja: 一生懸命やってみる。
+c430_Battle_Ready_3:
+  en: I won't lose, no matter what kind of audience I face.
+  ko: 어떤 관객이 와도 지지 않아.
+  ja: どんな観客が相手でも負けない。
+c430_Reload_1:
+  en: Ah... I'm going to rest a little.
+  ko: 후우… 조금만 쉴게.
+  ja: ふう…ちょっと休ませて。
+c430_Reload_2:
+  en: Just a little more... I can do this.
+  ko: 조금 더… 할 수 있어.
+  ja: もう少し…きっとできる。
+c430_Reload_3:
+  en: I'll get back in once my I catch my breath.
+  ko: 숨만 고르고 다시 갈게.
+  ja: 深呼吸したらすぐ行くわ。
+c430_Ult_Skill_Ready_1:
+  en: Producer!
+  ko: 프로듀서!
+  ja: プロデューサー！
+c430_Ult_Skill_1:
+  en: Everyone, make some noise!
+  ko: 멈추지 않는 노이즈! 함께 불러요!
+  ja: |-
+    止まらないノイズ！
+    一緒に歌おう！
+c430_FullBurst_1:
+  en: Let's all sing together!
+  ko: 다 같이 노래하는 거야!
+  ja: みんなで一緒に歌おう！
+c430_Kill_Monster_1:
+  en: One more song!
+  ko: 한 곡 더!
+  ja: もう1曲！
+c430_Kill_Monster_2:
+  en: Great!
+  ko: 좋아!
+  ja: いいわ！
+c430_Kill_Monster_3:
+  en: We did it!
+  ko: 해냈어!
+  ja: やった！
+c430_Damage_1:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c430_Damage_2:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c430_Damage_3:
+  en: Whoa.
+  ko: 헉.
+  ja: はっ。
+c430_Die_1:
+  en: I'm sorry... my best just isn't good enough.
+  ko: 미안해… 프로듀서… 내 능력으로는 부족한가 봐.
+  ja: |-
+    ごめんなさい…プロデューサー…
+    私じゃだめみたい。
+c430_Win_1:
+  en: How did I do?
+  ko: 내 라이브 어때? 괜찮았어?
+  ja: |-
+    私のライブどうだった？
+    よかった？
+c430_02_Lobby_Touch_1:
+  en: Producer, ready to watch my show?
+  ko: 프로듀서, 내 무대를 볼 준비는 됐어?
+  ja: プロデューサー、私のステージ、楽しみにしてくれてる？
+c430_02_Lobby_Touch_2:
+  en: |-
+    Whoo boy... I'm as prepared as I'll ever be,
+    but I'm still nervous at the thought of having a concert.
+  ko: |-
+    후우… 꽤 많이 준비했다고 생각했는데.
+    콘서트를 한다고 생각하니까 좀 떨리네.
+  ja: |-
+    ふぅ…準備はバッチリなんだけど…
+    ライブだと思うと緊張しちゃうな。
+c430_02_Lobby_Touch_3:
+  en: I'll need your support more than ever today, Producer.
+  ko: 오늘 라이브도 서포트 잘 부탁할게. 프로듀서.
+  ja: 今日のライブもサポートよろしくね。プロデューサー。
+c430_02_Lobby_Touch_Love_1:
+  en: |-
+    Hard work pays off.
+    This concert is going to be a huge success.
+  ko: |-
+    과거의 노력은 결코 배신하지 않아.
+    그러니 이번 무대는 꼭 빛날 거야.
+  ja: |-
+    努力は絶対に裏切らない。
+    だから今回のステージは絶対成功するよ。
+c430_02_Lobby_Touch_Love_2:
+  en: |-
+    No matter what stage I get on,
+    I'm not afraid as long as I'm with you.
+  ko: |-
+    어떤 무대에 오른다 해도,
+    프로듀서가 함께 있다고 생각하면 두렵지 않아.
+  ja: |-
+    どんなステージに立ったとしても、
+    プロデューサーが一緒なら、怖くない。
+c430_02_Lobby_Touch_Love_3:
+  en: |-
+    Today's concert is for you, Producer.
+    So be sure to come!
+  ko: |-
+    오늘 콘서트는 프로듀서를 위해 준비했어.
+    꼭 와줘야 해.
+  ja: |-
+    今日のライブは、プロデューサーのために準備したの。
+    絶対来てね。
+c430_02_Lobby_Stay_1:
+  en: |-
+    Um… can I make a move first?
+    I need to go prepare for a show.
+  ko: |-
+    음… 나 라이브 준비를 하러 가야 할 것 같은데,
+    먼저 가봐도 될까?
+  ja: |-
+    うーん…私、ライブの準備をしないと。
+    先に行ってもいい？
+c430_02_Lobby_Stay_Love_1:
+  en: |-
+    Whenever you're around, I feel secure,
+    like everything will go smoothly.
+  ko: |-
+    프로듀서 옆에 있으면, 좋은 기운을 받고 있는 느낌이야.
+    모든 것이 다 잘 될 것만 같아.
+  ja: |-
+    プロデューサーの隣にいると、元気がもらえるわ。
+    なんでも上手くいきそう。
+c430_02_Outpost_Touch_1:
+  en: |-
+    I want to do a concert rehearsal in the theater...
+    Would you like to come?
+  ko: "극장에서 콘서트 리허설을 할까 하는데… \n보러 올래?"
+  ja: |-
+    劇場でライブのリハーサルを する予定なんだけど…
+    見に来ない？
+c430_02_Outpost_Touch_2:
+  en: |-
+    You always manage to find me no matter where I am.
+    I like that.
+  ko: |-
+    프로듀서는 내가 어디 있든 잘 찾아와주는 것 같아.
+    그래서… 기뻐.
+  ja: |-
+    プロデューサーは、 私がどこにいても 会いに来てくれるわよね。
+    だから…嬉しい。
+c430_02_Outpost_Touch_3:
+  en: |-
+    I do miss the times when I was practicing in the Outpost.
+    After all, it made me who I am today.
+  ko: |-
+    전초기지에서 연습했던 시간들이 생각나.
+    그 시간들이 지금의 나를 만든 거겠지?
+  ja: |-
+    前哨基地で練習したことを 思い出すわ。
+    その時間が 今の私を作ったのよね？
+c430_02_Gacha_Get_1:
+  en: |-
+    I'm thrilled to be on a bigger stage.
+    Please do come to my show, Producer.
+  ko: |-
+    더 큰 무대에 서게 되어서 기뻐.
+    이번에도 잘 부탁할게, 프로듀서.
+  ja: |-
+    大きなステージに立てて嬉しいわ。
+    今回もよろしくね、プロデューサー。
+c430_02_Reinforce_1:
+  en: I take it this is so I can work even harder?
+  ko: 더 열심히 하라는 의미로 생각할게.
+  ja: 応援してくれてるってことよね。
+c430_02_Reinforce_2:
+  en: Thanks for the vote of confidence.
+  ko: 서포트 고마워.
+  ja: サポート、ありがとう。
+c430_02_Reinforce_3:
+  en: I think my abilities just went up an octave.
+  ko: 더 높은 음역대에 도전해 볼 수 있을 거 같아.
+  ja: もっと高い音にだって挑戦できそうだわ。
+c430_02_Gift_1:
+  en: I'll prepare a gift for you next time.
+  ko: 다음엔 나도 꼭 선물을 준비할게.
+  ja: 次は、私も必ずプレゼントを用意するわ。
+c430_02_Gift_2:
+  en: |-
+    When did you even have time to get this?
+    Thank you so much.
+  ko: |-
+    그렇게나 바쁘면서 언제 이런 걸 준비한 거야?
+    정말 고마워.
+  ja: |-
+    あんなに忙しいのに、いつ用意したの？
+    本当にありがとう。
+c430_02_Gift_3:
+  en: |-
+    How did you...
+    I've wanted this for a while now... thanks.
+  ko: "이걸 어떻게…! \n며칠 전부터 갖고 싶었던 건데… 감동이야."
+  ja: |-
+    どうしてこれを…！
+    何日か前に見つけて、欲しいって思ってたの…感動だわ。
+c430_02_Attractive_Up_1:
+  en: |-
+    Although I'm more confident than ever,
+    I think I still need you around.
+  ko: "자신감이 많이 늘었다곤 해도… \n아직 내겐 프로듀서가 필요한 것 같아."
+  ja: |-
+    かなり自信はついたけど…
+    まだ私にはプロデューサーが必要みたい。
+c430_02_Attractive_Up_2:
+  en: One day, I will make your heart flutter whenever you listen to my songs.
+  ko: 언젠가 내 노래를 듣고 설레게 만들어줄게.
+  ja: いつか私の歌でドキドキさせてあげるね。
+c430_02_Attractive_Up_3:
+  en: "I wouldn't be who I am without you. \nThank you."
+  ko: |-
+    프로듀서의 서포트가 없었다면 지금의 나는 없었을 거야.
+    앞으로도 잘 부탁할게.
+  ja: |-
+    プロデューサーのサポートがなかったら、
+    今の私はいなかったはずよ。
+    これからもよろしくね。
+c430_02_Party_Deploy_1:
+  en: I'm ready. Let's go.
+  ko: 준비됐어. 가자.
+  ja: 準備はできてる。行こう。
+c430_02_Field_Touch_1:
+  en: Go ahead.
+  ko: 말해줘.
+  ja: 教えて。
+c430_02_Field_Go_1:
+  en: Yes. Over there, right?
+  ko: 응, 저쪽으로 가라는 거지?
+  ja: うん、あっちね？
+c430_02_Battle_Enter_1:
+  en: Let the show begin.
+  ko: 후우… 라이브 시작이야.
+  ja: ふぅ…ライブ、スタート。
+c430_02_Battle_Ready_1:
+  en: Let's enjoy the show.
+  ko: 이번 라이브도 즐겁게 이겨내보자.
+  ja: 今回のライブも楽しもう。
+c430_02_Battle_Ready_2:
+  en: With you around, I can do this easy-peasy.
+  ko: 프로듀서가 옆에 있으니, 해낼 수 있어.
+  ja: プロデューサーが隣にいるから、頑張れるわ。
+c430_02_Battle_Ready_3:
+  en: Let's put on a nice show for our audience.
+  ko: 관객의 마음을 울리는 노래를 해보는 거야.
+  ja: 観客の心に響く歌を歌うの。
+c430_02_Reload_1:
+  en: Hah... Don't worry, I'm okay.
+  ko: 후우… 걱정 마, 지치지 않았어.
+  ja: ふぅ…心配しないで、大丈夫。
+c430_02_Reload_2:
+  en: I can do it. I'll try harder!
+  ko: 할 수 있어. 좀 더 힘내는 거야…!
+  ja: 私ならできる。もっと頑張るのよ…！
+c430_02_Reload_3:
+  en: Let's regroup and try again.
+  ko: 좀 더 텐션을 올려서... 가보자.
+  ja: もっとテンションを上げて…行こう。
+c430_02_Ult_Skill_Ready_1:
+  en: Producer!
+  ko: 프로듀서!
+  ja: プロデューサー！
+c430_02_Ult_Skill_1:
+  en: I've prepared a special song just for you!
+  ko: 빛나는 무대 위에, 당신을 위한 Noise!
+  ja: 輝くステージ、あなたのためのNoise！
+c430_02_FullBurst_1:
+  en: Come on, everybody. Sing your hearts out!
+  ko: 모두 힘내! 마지막까지 부르는 거야!
+  ja: みんな頑張って！最後まで歌おう！
+c430_02_Kill_Monster_1:
+  en: Next!
+  ko: 좋아, 다음!
+  ja: よし、次！
+c430_02_Kill_Monster_2:
+  en: Feeling good!
+  ko: 느낌이 좋은데?
+  ja: いい感じ！
+c430_02_Kill_Monster_3:
+  en: Shall we continue?
+  ko: 계속해 볼까?
+  ja: まだ続ける？
+c430_02_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c430_02_Damage_2:
+  en: Hold on...
+  ko: 흔들리면… 안돼….
+  ja: 動揺しちゃ…ダメ…
+c430_02_Damage_3:
+  en: Argh!
+  ko: 앗!
+  ja: はっ！
+c430_02_Die_1:
+  en: The show... must go on...
+  ko: 아직… 라이브를 끝내선… 안되는데….
+  ja: まだ…ライブは…終わってないのに…
+c430_02_Win_1:
+  en: Another successful show!
+  ko: 이번 라이브도 성공적이었어!
+  ja: 今回のライブも成功よ！
+430_cv_ja:
+  en: 'CV: Yoshino Nanjō'
+  ko: 'CV : 난죠 요시노'
+  ja: CV：南條愛乃
+430_cv_ko:
+  en: 'CV: Sung Ye-won'
+  ko: 'CV : 성예원'
+  ja: CV：ソン・エウォン
+430_cv_en:
+  en: "CV: \tSuzie Yeung"
+  ko: 'CV : 수지 융'
+  ja: CV：Suzie Yeung

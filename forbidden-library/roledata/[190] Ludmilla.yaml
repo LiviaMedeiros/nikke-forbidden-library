@@ -1,0 +1,483 @@
+---
+190_name:
+  en: Ludmilla
+  ko: 루드밀라
+  ja: ルドミラ
+c190_description:
+  en: A Nikke from Unlimited. She lives in the bitterly cold northern lands, where
+    she saves Nikkes who have lost their way. Any machinery she touches will...
+  ko: 추운 북쪽 지대에 머물며 길 잃은 니케들을 구하고 있는 언리미티드 스쿼드 소속의 니케. 그녀가 만지는 기계는 모두….
+  ja: |-
+    北の極寒地帯で迷子になったニケを助けている
+    アンリミテッド部隊所属のニケ。
+    彼女が触れる機械はすべて…
+190_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50190:
+  en: Ludmilla's Spare Body
+  ko: 루드밀라 스페어 바디
+  ja: ルドミラのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21902_name:
+  en: Queenly Disposition
+  ko: 여왕의 품격
+  ja: 女王の品格
+21902_description:
+  en: "■ Activates when entering Full Burst. Affects all enemies. \n<color=#00AEFF>Attract:
+    Taunt all enemies for {description_value_01} sec.</color> \n■ Activates when entering
+    Full Burst. Affects self. \n<color=#00AEFF>Damage Taken ▼ {description_value_02}%
+    for {description_value_03} sec.</color>"
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 적 전체에게
+    <color=#00AEFF>[주목 : 적 전체 도발] [{description_value_01}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[받는 대미지 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、
+    敵全体に
+    <color=#00AEFF>「ヘイト：敵全体を挑発」
+    「{description_value_01}秒間維持」</color>
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「受けるダメージ{description_value_02}％▼」
+    「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21901_name:
+  en: Noblesse Oblige
+  ko: 노블레스 오블리주
+  ja: ノブレス・オブリージュ
+21901_description:
+  en: "■ Activates when the last bullet hits the target. Affects the target.\n<color=#00AEFF>[Target]
+    DEF ▼ {description_value_01}% for {description_value_02} sec. \n[Target] ATK ▼
+    {description_value_03}% for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 마지막 탄환 명중 시 대상에게
+    <color=#00AEFF>[방어력 {description_value_01}% ▼] [{description_value_02}초 유지]
+    [공격력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、対象に
+    <color=#00AEFF>「防御力{description_value_01}％▼」「{description_value_02}秒間維持」
+    「攻撃力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11903_name:
+  en: Snow Queen
+  ko: 눈의 여왕
+  ja: 雪の女王
+11903_description:
+  en: "■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group>
+    ATK.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as damage.</color> \n■ Activates when above {description_value_03}% HP. Affects
+    all allies. \n<color=#00AEFF>DEF ▲ {description_value_04}% for {description_value_05}
+    sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+    ■ 자신의 체력이 {description_value_03}% 이상이라면 아군 전체에게
+    <color=#00AEFF>[방어력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    ■自分のHPが{description_value_03}％以上なら味方全体に
+    <color=#00AEFF>「防御力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+191_name:
+  en: Alice
+  ko: 앨리스
+  ja: アリス
+192_name:
+  en: Tove
+  ko: 토브
+  ja: トーブ
+194_name:
+  en: 'Ludmilla: Winter Owner'
+  ko: '루드밀라 : 윈터 오너'
+  ja: ルドミラ：ウィンターオーナー
+195_name:
+  en: 'Alice: Wonderland Bunny'
+  ko: '앨리스 : 원더랜드 바니'
+  ja: アリス：ワンダーランドバニー
+193_name:
+  en: Neve
+  ko: 네베
+  ja: ネヴェ
+c190_Lobby_Touch_1:
+  en: Servant, go prepare the afternoon tea.
+  ko: 시종! 티타임을 준비해라.
+  ja: |-
+    しもべ！
+    ティータイムの準備をしなさい。
+c190_Lobby_Touch_2:
+  en: Hands off. You break it, you buy it.
+  ko: 기계는 이 몸을 감당할 수 없다. 가까이 가져오지 마라.
+  ja: |-
+    機械はこの私の前ではただのポンコツ。
+    近くには持ってこないことね。
+c190_Lobby_Touch_3:
+  en: I'm off to find a lost Nikke. Care to join me?
+  ko: 이 몸을 따라 길 잃은 니케를 찾아보겠나?
+  ja: 私と一緒に、彷徨うニケを見つけに行く？
+c190_Lobby_Touch_Love_1:
+  en: Huh, the tea you prepared was terrible, but I always think of it.
+  ko: 흠, 이상하게 그대가 끓인 맛없는 차가 계속 생각나는군.
+  ja: ふん、なぜかしら。あなたが淹れた不味いお茶が飲みたいわ。
+c190_Lobby_Touch_Love_2:
+  en: Servant, do you want to live with me in the north?
+  ko: 시종, 북방에 와서 함께 살지 않겠나?
+  ja: しもべ、北部に来て一緒に暮らすのはどう？
+c190_Lobby_Touch_Love_3:
+  en: Every machine I touch bites the dust, so it's difficult to contact you.
+  ko: "이런, 기계가 이 몸을 감당하지 못해 \n그대에게 연락하기가 힘들구나."
+  ja: |-
+    あらあら、機械が私の偉大さに畏縮してしまって
+    あなたに連絡ができないわ。
+c190_Lobby_Stay_1:
+  en: "Are you neglecting me? \nI have to admit, I've never experienced that before."
+  ko: |-
+    흠. 이 몸을 이렇게나 방치하다니.
+    이건 또 색다른 경험이로구나.
+  ja: |-
+    ふん。この私をこんなふうに放っておくなんて。
+    これもまた新鮮な経験だわ。
+c190_Lobby_Stay_Love_1:
+  en: |-
+    Humph, should I have this much free time, I could have tea with you.
+    Would you care to join?
+  ko: |-
+    흠. 이 정도 여유라면 그대와 티타임 정도는 할 수 있겠군.
+    어떤가. 함께 하겠나?
+  ja: |-
+    ふん。この程度の余裕があればあなたとお茶ぐらいは嗜めそうだわ。
+    どう？一杯いかが？
+c190_Outpost_Touch_1:
+  en: Fancy some afternoon tea in the Clothing Store?
+  ko: 의류 상점에서 티타임이라도 하고 가겠나?
+  ja: ブティックでティータイムを 嗜んでから行くのはどうかしら？
+c190_Outpost_Touch_2:
+  en: Well, it's certainly warmer than it is up north.
+  ko: 여긴 확실히 북쪽보단 따뜻하군.
+  ja: ここは北の方より断然暖かいわ。
+c190_Outpost_Touch_3:
+  en: Servant, run off to the store and purchase some clothing for me.
+  ko: 시종, 이 몸이 옷을 사주지. 의류 상점으로 가는 거다!
+  ja: |-
+    しもべ、 この私が服を買ってあげるわ。
+    ブティックへ向かいなさい！
+c190_Gacha_Get_1:
+  en: Come to us if you're lost. We'll save you anytime.
+  ko: 지상에서 길을 잃으면 이 몸을 찾아라. 언제든 구해줄 테니.
+  ja: |-
+    地上で道に迷った時はこの私を訪ねてくるように。
+    いつでも助けてあげるわ。
+c190_Reinforce_1:
+  en: Thanks, Servant.
+  ko: 시종. 수고 많았다.
+  ja: しもべ。ご苦労だったわね。
+c190_Reinforce_2:
+  en: This power to save can alleviate the people's suffering.
+  ko: 이 힘은 조난자를 구하는데 사용하겠다.
+  ja: この力は、遭難者の救出に使うわ。
+c190_Reinforce_3:
+  en: Thanks. I'll put it to good use.
+  ko: 고맙다. 잘 쓰지.
+  ja: ありがとう。大切に使わせてもらうわ。
+c190_Gift_1:
+  en: Hmm? Is this some kind of bribe?
+  ko: 호오~ 이게 바로 뇌물인가!
+  ja: ふ～ん、これが賄賂というものね！
+c190_Gift_2:
+  en: So you're trying to curry favor with me, is that it?
+  ko: 흠, 이 몸의 애정을 원하나?
+  ja: ふん、この私から愛されたいの？
+c190_Gift_3:
+  en: My affection towards you has been made very clear already.
+  ko: 이 몸이 좋아하는 걸 잘 알고 있군.
+  ja: 私の好みをよく分かってるじゃない。
+c190_Attractive_Up_1:
+  en: Sure, I have feelings for you. The question is, can you handle it?
+  ko: 이 몸의 애정을 감당할 수 있겠나?
+  ja: 私の愛情を全部受け止められるかしら？
+c190_Attractive_Up_2:
+  en: You ought to appreciate me as much as possible. Don't ever forget that.
+  ko: |-
+    그대는 이 몸이 귀하게 여기는 사람이다.
+    그걸 늘 명심해라.
+  ja: |-
+    あなたはこの私が大切に思う存在よ。
+    常に心に留めておきなさい。
+c190_Attractive_Up_3:
+  en: |-
+    Servant, if you serve your queen well,
+    I shall repay you in turn.
+  ko: |-
+    시종, 그대가 이 몸을 귀하게 여긴 만큼
+    이 몸도 그대를 귀하게 여길 것이다.
+  ja: |-
+    しもべ、あなたがこの私を大切に思うように
+    私もお返しをさせてもらうわ。
+c190_Party_Deploy_1:
+  en: Have you got everything under control?
+  ko: 이 몸이 필요한가?
+  ja: 私が必要？
+c190_Field_Touch_1:
+  en: Where's the target location?
+  ko: 목표 지점은?
+  ja: 目標地点は？
+c190_Field_Go_1:
+  en: Move out.
+  ko: 좋아, 이동하겠다.
+  ja: よし、移動するわよ。
+c190_Battle_Enter_1:
+  en: Enemy incoming!
+  ko: 호오~ 놈들이 오는군!
+  ja: ふ～ん、奴らのお出ましね！
+c190_Battle_Ready_1:
+  en: Servant! Are you ready?
+  ko: 시종, 준비는 됐나?
+  ja: しもべ、準備はいい？
+c190_Battle_Ready_2:
+  en: It's time to show them what we're capable of.
+  ko: 이 몸의 실력을 보여줄 때가 되었군.
+  ja: この私の実力を発揮する時が来たようね。
+c190_Battle_Ready_3:
+  en: You must be honored to be fighting beside me.
+  ko: 이 몸과 싸우는 걸 영광으로 알거라.
+  ja: 私と戦えることを光栄に思いなさい。
+c190_Reload_1:
+  en: Out of ammo.
+  ko: 탄이 다 떨어졌군.
+  ja: 弾が切れてしまったわ。
+c190_Reload_2:
+  en: Once again.
+  ko: 다시 가겠다.
+  ja: もう一度行くわ。
+c190_Reload_3:
+  en: Reload.
+  ko: 이 몸의 리로드다.
+  ja: この身体のリロードよ。
+c190_Ult_Skill_Ready_1:
+  en: Servant!
+  ko: 시종!
+  ja: しもべ！
+c190_Ult_Skill_1:
+  en: Now you'll see why they call me The Queen of Snow.
+  ko: 이 몸이 왜 눈의 여왕이라고 불리는지, 직접 경험해 보거라.
+  ja: 私が雪の女王と呼ばれる理由を、身を持って感じなさい。
+c190_FullBurst_1:
+  en: Blizzard!
+  ko: 눈보라처럼 휘몰아쳐라!
+  ja: 吹雪の如く吹きすさべ！
+c190_Kill_Monster_1:
+  en: Behold, my true power!
+  ko: 이 몸의 실력이다.
+  ja: 私の実力よ。
+c190_Kill_Monster_2:
+  en: I've got you now.
+  ko: 잡았구나.
+  ja: 捕まえたわ。
+c190_Kill_Monster_3:
+  en: You're dismissed.
+  ko: 어서 물러가거라.
+  ja: 早く後ろに下がりなさい。
+c190_Damage_1:
+  en: Ugh.
+  ko: 큿.
+  ja: くっ。
+c190_Damage_2:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c190_Damage_3:
+  en: Oops.
+  ko: 이런.
+  ja: あら。
+c190_Die_1:
+  en: This is... tougher than I thought it would be...
+  ko: 제법이구나, 이 몸을 지치게 만들다니….
+  ja: なかなかやるじゃない、この身体を疲れさせるなんて…
+c190_Win_1:
+  en: You survived yet again. That's something worth celebrating.
+  ko: 기뻐해라. 이번에도 살아남았다.
+  ja: 喜びなさい。今回も生き残ったわ。
+190_cv_ja:
+  en: 'CV: Ai Kakuma'
+  ko: 'CV : 카쿠마 아이'
+  ja: CV：加隈亜衣
+190_cv_ko:
+  en: 'CV: Bi Joo-eon'
+  ko: 'CV : 비주언'
+  ja: CV：ビ・ジュオン
+190_cv_en:
+  en: 'CV: Lauren Landa'
+  ko: 'CV : 로런 랜다'
+  ja: CV：Lauren Landa

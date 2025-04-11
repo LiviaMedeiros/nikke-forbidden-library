@@ -1,0 +1,482 @@
+---
+222_name:
+  en: Scarlet
+  ko: 홍련
+  ja: 紅蓮
+c222_description:
+  en: A wandering swordswoman from Pioneer who's partial to a good drink. Despite
+    the common perception of melee weapons being ineffective in combat, she chooses
+    to wield a sword.
+  ko: "지상의 술과 풍류를 즐기는 파이오니아 스쿼드 소속의 방랑 검객. \n실전성이 없다고 증명된 근접전용 무장인 검을 사용하고 있다."
+  ja: |-
+    地上の酒と風流を楽しむパイオニア部隊所属のさすらい剣士。
+    実戦性がないことが証明された
+    近接戦用武装である剣を使っている。
+222_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50222:
+  en: Scarlet's Spare Body
+  ko: 홍련 스페어 바디
+  ja: 紅蓮のスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22222_name:
+  en: Zatoichi
+  ko: 검신합일
+  ja: 身剣合一
+22222_description:
+  en: "■ There is a {description_value_01}% chance of activating when attacked.\n<color=#00AEFF>Deals
+    {description_value_02}% of <word_group=10025>final</word_group> ATK as additional
+    damage.</color> \n■ Activates when HP falls below {description_value_03}%. Affects
+    self.\n<color=#00AEFF>Critical Damage ▲ {description_value_04}% continuously.</color>"
+  ko: "■ 피격 시 {description_value_01}% 확률로 대상에게 \n<color=#00AEFF>[<word_group=10025>최종</word_group>
+    공격력 {description_value_02}% 추가 대미지]</color>\n■ 자신의 체력이 {description_value_03}%
+    이하일 때 한하여 자신에게\n<color=#00AEFF>[크리티컬 대미지 {description_value_04}% ▲] [지속]</color>"
+  ja: |-
+    ■攻撃を受けた時、{description_value_01}％の確率で対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+    ■自分のHPが{description_value_03}％以下の場合に限り、自分に
+    <color=#00AEFF>「クリティカルダメージ{description_value_04}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22221_name:
+  en: Blood for Blood
+  ko: 육참골단
+  ja: 肉斬骨断
+22221_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_02}%, stacks up to {description_value_04} time(s) and lasts for {description_value_03} sec.
+    Current HP ▼ {description_value_05}%.</color>
+  ko: "■ 일반 공격 {description_value_01}회 명중 시 자신에게 \n<color=#00AEFF>[공격력 {description_value_02}%
+    ▲] [{description_value_04} 중첩] [{description_value_03}초 유지]  \n[현재 체력 {description_value_05}%
+    ▼]</color>"
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_04}スタック」
+    「{description_value_03}秒間維持」
+    「現在のHP{description_value_05}％▼」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12223_name:
+  en: Scarlet Flash
+  ko: 홍련일섬
+  ja: 紅蓮一閃
+12223_description_1:
+  en: "■ Affects self. Activates when HP falls below {description_value_01}%.\n<color=#00AEFF>Critical
+    Rate ▲ {description_value_02}% for {description_value_03} sec.</color> \n■ Affects
+    all enemies.\n<color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color>"
+  ko: |-
+    ■ 자신의 체력이 {description_value_01}% 이하라면 자신에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% 버스트 스킬 대미지]</color>
+  ja: |-
+    ■自分のHPが{description_value_01}％以下の場合、自分に
+    <color=#00AEFF>「クリティカル確率{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％のバーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+220_name:
+  en: Snow White
+  ko: 스노우 화이트
+  ja: スノーホワイト
+221_name:
+  en: Rapunzel
+  ko: 라푼젤
+  ja: ラプンツェル
+c222_Lobby_Touch_1:
+  en: Follow the flow of the breeze, the cloud, and thy heart.
+  ko: 바람 따라 구름 따라. 마음 가는 대로.
+  ja: |-
+    風の吹くまま、雲の流れるまま。
+    思うがままに。
+c222_Lobby_Touch_2:
+  en: Fancy some spirits? It makes for fine bedfellows with the moonlight and the
+    breeze.
+  ko: |-
+    한잔할 텐가?
+    안주는 달빛과 바람일세.
+  ja: |-
+    一杯どうかね？
+    酒の肴は月光と風だ。
+c222_Lobby_Touch_3:
+  en: Be they current foe, or past woes, my blade shall rend them all asunder.
+  ko: |-
+    이 검으로 베지 못 하는 건 없네.
+    강대한 적은 물론, 괴로운 과거마저 베어버리지.
+  ja: |-
+    この剣で斬れぬものはない。
+    強大な敵は無論、辛い過去をも斬り裂くのさ。
+c222_Lobby_Touch_Love_1:
+  en: |-
+    There's naught more pleasurable than imbibing spirits with a kind soul.
+    ... *hic*.
+  ko: |-
+    좋은 사람과 한잔 나누는 것만큼 행복한 일은 없지.
+    …딸꾹.
+  ja: |-
+    気の合う相手と杯を交わすことほど、幸せなことはないね。
+    …ひっく。
+c222_Lobby_Touch_Love_2:
+  en: |-
+    Should you come to earth, call on me anytime.
+    Wherever my feet shall trod, I will definitely visit you.
+  ko: |-
+    지상에 온다면 언제든 연락하게.
+    그곳이 어디든 내 발이 닿는 곳이라면 꼭 찾아갈 테니.
+  ja: |-
+    地上に来ることがあればいつでも連絡してくれ。
+    どこであろうと必ず会いに行こう。
+c222_Lobby_Touch_Love_3:
+  en: |-
+    My lord, I've found some most valuable wine.
+    Shall we have a cup in the near future?
+  ko: |-
+    도령, 내가 아주 귀한 술을 발견했다네.
+    다음에 따로 한잔 하세.
+  ja: |-
+    ぼっちゃん、とても珍しい酒を手に入れたんだ。
+    次の機会に一杯やろうじゃないか。
+c222_Lobby_Stay_1:
+  en: Any marvelous wine?
+  ko: 어디 괜찮은 술 없나….
+  ja: どこかにおいしい酒はないものか…
+c222_Lobby_Stay_Love_1:
+  en: "♪~ ♬♪~ ♩~"
+  ko: "♪~ ♬♪~ ♩~"
+  ja: "♪~ ♬♪~ ♩~"
+c222_Outpost_Touch_1:
+  en: A more barren wasteland have I never laid my eyes upon.
+  ko: 허허. 삭막한 곳이로구만.
+  ja: ははは。 もの寂しい場所であるな。
+c222_Outpost_Touch_2:
+  en: My lord, farm land is what we are in most dire need of here.
+  ko: 도령, 내 보기에 여기 가장 필요한 건 밭일세.
+  ja: ぼっちゃん、私が見るに ここで一番必要なのは 畑だ。
+c222_Outpost_Touch_3:
+  en: I would rather soon part from here, for there is no moon nor breeze for mine
+    eyes to cherish.
+  ko: |-
+    달빛도, 바람도 없는 곳인가….
+    썩 맘에 드는 곳은 아니군그래.
+  ja: |-
+    月光も風もない場所か…
+    私の趣味ではないな。
+c222_Gacha_Get_1:
+  en: Beware, simply brandishing a blade does not make you its master.
+  ko: |-
+    조심하게.
+    칼자루를 쥐었다고 그 검의 주인이 되는 것은 아니니.
+  ja: |-
+    気をつけるんだね。
+    柄を掴んだからといってその剣の主にはなれない。
+c222_Reinforce_1:
+  en: Surely iron cannot be forged without fire? Most peculiar indeed.
+  ko: 수련이 아닌 성장인가. 신기한 기분이군.
+  ja: 修練ではなく成長とは。不思議な気分だ。
+c222_Reinforce_2:
+  en: Doth my blade spring from its sheathe with greater swiftness than before?
+  ko: 흠… 이러면 더 빠르게 벨 수 있는 건가?
+  ja: ふむ…ではもっと早く斬れるようになるのか？
+c222_Reinforce_3:
+  en: I feel more stout than before, to a degree akin to treachery!
+  ko: 강해진 게 느껴지는군. 반칙이라고 느껴질 정도로.
+  ja: 強くなった気がする。まるで反則のようだ。
+c222_Gift_1:
+  en: From you, my lord, such deportment is most unexpected.
+  ko: 호오. 도령에게 이런 면도 있었는가?
+  ja: ほお。ぼっちゃんにこんな一面もあったのかい？
+c222_Gift_2:
+  en: This... is truly an embarrassment of riches.
+  ko: 이거 받기만 해서 너무 미안하구만.
+  ja: もらってばかりで面目ない。
+c222_Gift_3:
+  en: In the future, the two of us shall partake in the imbibing of spirits.
+  ko: 내 언젠가 한 잔 대접하겠네.
+  ja: いつか私からもご馳走させてくれ。
+c222_Attractive_Up_1:
+  en: To wile away one's days on the surface, is this not something you have pondered?
+  ko: 도령, 진지하게 지상에서 살 생각은 없는 겐가?
+  ja: ぼっちゃん、地上で過ごしてみる気はないか？
+c222_Attractive_Up_2:
+  en: |-
+    Latterly, I've been waiting to have a drink with you, my heart full of expectancy.
+    Such delight goes beyond my furthest imaginations.
+  ko: |-
+    요새 도령과 한잔할 날만 손꼽아 기다린다네.
+    …기다림이 이리 즐거울 줄이야.
+  ja: |-
+    最近は、ぼっちゃんと一杯やる日を今か今かと待っておる。
+    ああ…
+    待ちわびることの楽しさよ。
+c222_Attractive_Up_3:
+  en: You manage to delight this soul of mine time and time again.
+  ko: 도령은 날 매번 즐겁게 하는군.
+  ja: ぼっちゃんはいつも私を楽しませてくれるな。
+c222_Party_Deploy_1:
+  en: Who shall be the next to fall under my blade?
+  ko: 그래, 내 무엇을 베면 되겠는가.
+  ja: さて、何を斬ればいいのかね。
+c222_Field_Touch_1:
+  en: Standing by.
+  ko: 난 여기 있네.
+  ja: 私はここにおる。
+c222_Field_Go_1:
+  en: Here I go.
+  ko: 가봄세.
+  ja: いざ行かん。
+c222_Battle_Enter_1:
+  en: Rout them in their entirety, yes?
+  ko: 이것들을 베면 되는 건가?
+  ja: こやつらを斬ればいいのかい？
+c222_Battle_Ready_1:
+  en: My blade shall not be made light of.
+  ko: 검이라고 우습게 보면 목이 달아날걸세.
+  ja: 剣だと甘く見たら首が吹っ飛ぶぞい。
+c222_Battle_Ready_2:
+  en: Which of you scornful dunderheads dare step forward?
+  ko: 어디, 누구부터 베이고 싶으신가?
+  ja: どれどれ、誰が最初に斬られたいのかね？
+c222_Battle_Ready_3:
+  en: They are as candles, the better burnt out.
+  ko: 잘 보고 있게. 눈 깜짝할새에 끝날 테니.
+  ja: とくとご覧あれ。一瞬で終わらせてしんぜよう。
+c222_Reload_1:
+  en: The hour of retribution draws near.
+  ko: 납도 하겠네.
+  ja: 納刀する。
+c222_Reload_2:
+  en: You are out of harm's way, fleeting as it may be.
+  ko: 목숨을 건졌군. 몇 초뿐이겠지만.
+  ja: 命拾いしたな。数秒ばかりだが。
+c222_Reload_3:
+  en: You must persevere!
+  ko: 다들 조금만 버텨주게.
+  ja: 皆の衆、少しだけ耐えてくれ。
+c222_Ult_Skill_Ready_1:
+  en: The onus lies with me now.
+  ko: 가겠네.
+  ja: 行くぞ。
+c222_Ult_Skill_1:
+  en: Behold my ultimate blade.
+  ko: 천지만물을 벤다는 건 이런 것일세.
+  ja: 天地万物を斬るとはこういうことだ。
+c222_FullBurst_1:
+  en: Show them no quarter!
+  ko: 다들 맘껏 날뛰어 보게나.
+  ja: 皆の衆、心ゆくまで楽しむがよい。
+c222_Kill_Monster_1:
+  en: "'Tis but a lark."
+  ko: 간단한 일일세.
+  ja: 容易いことよ。
+c222_Kill_Monster_2:
+  en: How's this?
+  ko: 어떤가.
+  ja: いかがかね。
+c222_Kill_Monster_3:
+  en: Bisect.
+  ko: 베었네.
+  ja: 斬ったぞ。
+c222_Damage_1:
+  en: Ow!
+  ko: 읏!
+  ja: うっ！
+c222_Damage_2:
+  en: Ugh!
+  ko: 허억.
+  ja: ぐっ。
+c222_Damage_3:
+  en: Ouch!
+  ko: 악!
+  ja: きゃっ！
+c222_Die_1:
+  en: I was careless. No, I require more practice.
+  ko: 방심한 모양이군. 아니, 이마저도 수련 부족인가.
+  ja: 油断したようだ。いや、これもまた修行不足というものなのか。
+c222_Win_1:
+  en: Fancy a drink?
+  ko: 그럼 이제 한잔하러 갈 텐가?
+  ja: では、早速一杯やりに行くとするかね？
+222_cv_ja:
+  en: 'CV: Reina Ueda'
+  ko: 'CV : 우에다 레이나'
+  ja: CV：上田麗奈
+222_cv_ko:
+  en: 'CV: Jang Ye-na'
+  ko: 'CV : 장예나'
+  ja: CV：チャン・イェナ
+222_cv_en:
+  en: 'CV: Ratana'
+  ko: 'CV : 라타나'
+  ja: CV：Ratana

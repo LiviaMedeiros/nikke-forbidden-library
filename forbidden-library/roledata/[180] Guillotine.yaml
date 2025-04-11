@@ -1,0 +1,503 @@
+---
+180_name:
+  en: Guillotine
+  ko: 길로틴
+  ja: ギロチン
+c180_description:
+  en: A Nikke from Extrinsic who is always off in her own world. She believes that
+    it is her destiny to lead a solitary life. Half-obscured with an eye patch, who
+    knows where she draws her gaze?
+  ko: "익스터너 스쿼드 소속의 니케. \n자신만의 세계의 빠져있는 고독한 운명을 가진 소녀. \n안대 아래에 번뜩이는 안광은 무엇을 바라보는가."
+  ja: |-
+    エクスターナー部隊所属。
+    自分だけの世界に浸っている孤独な運命を持つ少女。
+    眼帯の下にきらめく眼差しは、何を見つめているのか？
+180_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50180:
+  en: Guillotine's Spare Body
+  ko: 길로틴 스페어 바디
+  ja: ギロチンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21802_name:
+  en: Shroud of Darkness
+  ko: 흑화
+  ja: 黒化
+21802_description:
+  en: "■ Activates after landing {description_value_01} normal attack(s). Affects
+    self.\n<color=#00AEFF>Critical Damage ▲ {description_value_02}% for {description_value_03}
+    sec.</color> \n■ Activates when HP falls below {description_value_04}%. Affects
+    self.\n<color=#00AEFF>ATK ▲ {description_value_05}% with every 1% of HP loss.
+    This effect is active continuously.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 자신에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 자신의 체력이 {description_value_04}% 이하일 때 한하여 자신에게
+    <color=#00AEFF>[잃은 체력 1% 당 공격력 {description_value_05}% ▲] [지속]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、自分に
+    <color=#00AEFF>「クリティカルダメージ{description_value_02}％▲」
+    「{description_value_03}秒間維持」</color>
+    ■自分のHPが{description_value_04}％以下の場合に限り、自分に
+    <color=#00AEFF>「失ったHP1％ごとに攻撃力{description_value_05}％▲」
+    「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21801_name:
+  en: Residual Heat
+  ko: 유열
+  ja: 愉悦
+21801_description:
+  en: "■ Affects self. Activates after landing {description_value_01} normal attack(s).
+    \n<color=#00AEFF>Critical Rate ▲ {description_value_02}% for {description_value_03}
+    sec. \nHP ▼ {description_value_04}%.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 자신에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [현재 체력 {description_value_04}% ▼]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、自分に
+    <color=#00AEFF>「クリティカル確率{description_value_02}％▲」
+    「{description_value_03}秒間維持」
+    「現在のHP{description_value_04}％▼」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11803_name:
+  en: Dragon of the Deep
+  ko: 마계흑룡파
+  ja: 魔界黒龍波
+11803_description_1:
+  en: |-
+    ■ Affects the enemy with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Affects the same target when the caster's HP falls below {description_value_02}%.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 자신의 체력이 {description_value_02}% 이하라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    バーストスキルダメージ」</color>
+    ■自分のHPが{description_value_02}％以下の場合、同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+181_name:
+  en: Maiden
+  ko: 메이든
+  ja: メイデン
+183_name:
+  en: 'Maiden: Ice Rose'
+  ko: '메이든 : 아이스 로즈'
+  ja: メイデン：アイスローズ
+182_name:
+  en: 'Guillotine: Winter Slayer'
+  ko: '길로틴 : 윈터 슬레이어'
+  ja: ギロチン：ウィンタースレイヤー
+c180_Lobby_Touch_1:
+  en: Eyes on me, you fools!
+  ko: 크큭… 주목하라! 어리석은 자들이여.
+  ja: |-
+    くくっ…注目せよ！
+    愚か者たちよ。
+c180_Lobby_Touch_2:
+  en: I am Guillotine de Mephisto, the Guardian of Balance.
+  ko: 나는 길로틴 드 메피스토. [균형의 수호자]지.
+  ja: |-
+    我の名前はギロチン・デ・メフィスト。
+    「均衡の守護者」である。
+c180_Lobby_Touch_3:
+  en: I'm about to cut loose, think you can handle it?
+  ko: 감당할 수 있겠나? 내 안에 꿈틀대는 [그것]을.
+  ja: |-
+    受け止められるか？
+    我の中に渦巻く「アレ」を。
+c180_Lobby_Touch_Love_1:
+  en: |-
+    You are my assistant, therefore you must obey me.
+    I will protect you, no matter what happens.
+  ko: |-
+    그대는 나의 서번트로서 나에게 복종하게 되어 있지.
+    그리고 나는 그런 그대를 무슨 일이 있어도 지킬 것이다.
+  ja: |-
+    友は我のサーバントとして我に服従するのだ。
+    そして我は、何があっても友を守ろう。
+c180_Lobby_Touch_Love_2:
+  en: |-
+    Once, I was trapped in the prison they call "loneliness".
+    But after being with you, I have freed myself from those fetters!
+  ko: |-
+    후… 예전의 나는 [고독]이라는 결계 속에 갇혀 있었지.
+    하지만 그대가 함께 함으로써 그 구속에서 벗어나게 되었다!
+  ja: |-
+    ふぅ…昔の我は「孤独」という結界に封じ込められていた。
+    しかし友のおかげで、その結界から抜け出せたのだ！
+c180_Lobby_Touch_Love_3:
+  en: |-
+    Whenever I see you, my heart starts to race.
+    Perhaps I need to see a doctor?
+  ko: |-
+    그대만 보면 자꾸 내 심장이 뜨거워진다….
+    이로써 난 [블레이즈 하트]를 얻게 된 것인가?!
+  ja: |-
+    友を見るたびに、我の心臓が熱くなるんだ…
+    これは「ブレイズハート」を手にする過程なのか！？
+c180_Lobby_Stay_1:
+  en: "Calm down, One-Winged Dark Lord. \nYour powers are no use here."
+  ko: |-
+    편익의 마왕이여, 진정하거라.
+    여기선 우리들의 힘을 개방할 수 없다.
+  ja: |-
+    片翼の魔王よ、落ち着くのだ。
+    ここで我々の力を開放してはいけない。
+c180_Lobby_Stay_Love_1:
+  en: |-
+    The One-Winged Dark Lord does not stir in your presence.
+    It seems to have accepted you.
+  ko: |-
+    편익의 마왕도 그대의 앞에서는 잠잠하군.
+    그대가 꽤 마음에 든 모양이야.
+  ja: |-
+    片翼の魔王も友の前では大人しい。
+    友のことが随分と気に入ったようだ。
+c180_Outpost_Touch_1:
+  en: No one could ever understand me. I'm destined to be alone.
+  ko: |-
+    평범한 인간들은 날 이해하지 못해.
+    그래서 난 늘 고독하지.
+  ja: |-
+    平凡な人間どもに 我を理解することなどできない。
+    だから我はいつも孤独なのだ。
+c180_Outpost_Touch_2:
+  en: Those people look suspicious. Are they from the Big O?
+  ko: "저 녀석들… 자꾸 수상쩍게 구는데. \n설마 [조직] 쪽 인간인가?"
+  ja: |-
+    あいつら…動きが怪しい。
+    まさか「組織」の人間か？
+c180_Outpost_Touch_3:
+  en: If you want to hide from the Big O, there's no better place than the Church.
+    They wouldn't dream of stepping foot in there.
+  ko: "[조직] 쪽 인간을 피하는 데 교회만 한 장소가 없지. 놈들도 그런 곳만은 절대 발 들이지 않으니까."
+  ja: |-
+    教会ほど「組織」の人間を 避けるのに ふさわしい場所はない。
+    そういう場所には 奴らも足を 踏み入れないのだ。
+c180_Gacha_Get_1:
+  en: Aren't you curious about what I've got here in my right eye?
+  ko: 궁금하지 않나? 이 오른쪽 눈에 봉인된 존재가 무엇인지.
+  ja: 気になるだろう？この右目に封印された存在が何なのか。
+c180_Reinforce_1:
+  en: Heh heh. I can feel the power surging through my body.
+  ko: 크크큭, 힘이 끓어넘치는군.
+  ja: くくくっ、力が沸々とみなぎってくる。
+c180_Reinforce_2:
+  en: Hold up...I've got a pang in my eye.
+  ko: 잠깐… 갑자기 한쪽 눈이 욱신거리는데?
+  ja: ちょっと待て…急に片方の目がズキズキと痛み出したんだが？
+c180_Reinforce_3:
+  en: Great, now the Big O will really have it out for me.
+  ko: 큭, 이걸로 [조직]에서 나를 더 경계하게 되겠어.
+  ja: くっ、これで「組織」が我をさらに警戒するだろう。
+c180_Gift_1:
+  en: Wait, is this... what I've been looking for all this time?
+  ko: "잠깐. 이건 설마… \n내가 아주 오랜 시간 찾고 있던 [그것]인가?"
+  ja: |-
+    はっ。これはもしや…
+    我がずっと捜し求めていた「アレ」なのか？
+c180_Gift_2:
+  en: What is this, some kind of bribe? Well... a smart move I suppose.
+  ko: 이까짓 선물로 날 매수하려 하다니… 큼… 똑똑하군.
+  ja: この程度のプレゼントで我を買収しようとは…ふむ…見事だ。
+c180_Gift_3:
+  en: I know, I know... You don't have to thank me.
+  ko: 크크큭… 고맙다는 말은 생략하지.
+  ja: くくくっ…礼は省略する。
+c180_Attractive_Up_1:
+  en: You may be the only person who understands me... My solitude...
+  ko: 어쩌면 그대야말로, 내 고독한 삶의 유일한 이해자인 지도 모르겠어.
+  ja: |-
+    もしかすると友こそが、
+    我の孤独な人生における唯一の理解者かもしれないな。
+c180_Attractive_Up_2:
+  en: |-
+    It feels like the darkness inside me has been dispelled.
+    You haven't cast any spells on me, have you?
+  ko: |-
+    내 안에 있는 어둠까지도 정화되는 기분이군.
+    백마법을 쓰는 건가?
+  ja: |-
+    我の内に潜む闇まで浄化される気分だ。
+    白魔法を使えるのか？
+c180_Attractive_Up_3:
+  en: I've decided to show you who I am. All of me.
+  ko: 그대에겐 내 모든 걸 숨기지 않고 보여주도록 하겠다.
+  ja: 友に我のすべてを包み隠さず見せることにしよう。
+c180_Party_Deploy_1:
+  en: You want me over there? That could be arranged.
+  ko: 기꺼이 힘을 빌려주도록 하지.
+  ja: 喜んで力を貸してやろう。
+c180_Field_Touch_1:
+  en: What is it?
+  ko: 용건이라도?
+  ja: 何か用件でも？
+c180_Field_Go_1:
+  en: I've got a bad feeling about this!
+  ko: 확실히, 그쪽으로 불길한 바람이 불어오는군.
+  ja: 確かにそちらの方向に不吉な風が吹いている。
+c180_Battle_Enter_1:
+  en: Let's get down to business.
+  ko: 전투를 개시한다.
+  ja: 戦闘を開始する。
+c180_Battle_Ready_1:
+  en: Heh heh... You won't like me when I get angry.
+  ko: 크큭, 내 안의 광기를 해방시킬 때가 왔군.
+  ja: くくっ、我の内に秘める狂気を解放する時が来たか。
+c180_Battle_Ready_2:
+  en: This won't end well for you.
+  ko: "…또 한바탕 피바람이 불겠군."
+  ja: "…また、血の雨が降りそうだ。"
+c180_Battle_Ready_3:
+  en: Let's have some fun, shall we?
+  ko: 한바탕 날뛰어 볼까. 크큭.
+  ja: 少しばかり暴れさせてもらおうか。くくっ。
+c180_Reload_1:
+  en: Gotta reload.
+  ko: 장전이 필요해.
+  ja: 装填が必要だ。
+c180_Reload_2:
+  en: Wait a second.
+  ko: 잠시 기다려라.
+  ja: しばし待つのだ。
+c180_Reload_3:
+  en: Careful.
+  ko: 때를 노려 보지.
+  ja: 機をうかがおう。
+c180_Ult_Skill_Ready_1:
+  en: Now!
+  ko: 때가 왔다!
+  ja: 時は来た！
+c180_Ult_Skill_1:
+  en: Super, Ultra, Wyrmblast!
+  ko: 와라, 편익의 마왕이여!! 마. 계. 흑. 룡. 파!!
+  ja: 来たれ、片翼の魔王よ！！魔・界・黒・龍・波！！
+c180_FullBurst_1:
+  en: Ultra super-duper combo attack!!
+  ko: 궁극의 합체 공격을 받아라!!
+  ja: 究極の合体技を受けてみたまえ！
+c180_Kill_Monster_1:
+  en: Ain't nothing to it.
+  ko: 별거 아니었군.
+  ja: 大したことなかったな。
+c180_Kill_Monster_2:
+  en: Too bad, so sad!
+  ko: 크크큭….
+  ja: くくくっ…
+c180_Kill_Monster_3:
+  en: What a bunch of clowns.
+  ko: 가소로운 것들.
+  ja: 無益な存在よ。
+c180_Damage_1:
+  en: Errggh!
+  ko: 크윽!
+  ja: くうっ！
+c180_Damage_2:
+  en: Tsk!
+  ko: 칫!
+  ja: ちぃっ！
+c180_Damage_3:
+  en: Yeeoowch!
+  ko: 커헉!
+  ja: ぐほっ！
+c180_Die_1:
+  en: Urgh... Guess we'll have to settle this another time.
+  ko: 큭… 아직 때가 아니었나 보군.
+  ja: くっ…まだ時期尚早だったようだ。
+c180_Win_1:
+  en: Score another one for the good guys. Hope the Big O doesn't get wind of it.
+  ko: "…큭, 또 이겨 버렸군. 가능하면 [조직]의 이목은 끌지 않으려 했는데."
+  ja: |-
+    …くっ、また勝ってしまった。
+    なるべく「組織」の目につかないようにしたかったのだが。
+180_cv_ja:
+  en: 'CV: Ami Koshimizu'
+  ko: 'CV : 코시미즈 아미'
+  ja: CV：小清水亜美
+180_cv_ko:
+  en: 'CV: Jung Yoo-jung'
+  ko: 'CV : 정유정'
+  ja: CV：ジョン・ユジョン
+180_cv_en:
+  en: 'CV: Lindsay Sheppard'
+  ko: 'CV : 린제이 셰퍼드'
+  ja: CV：Lindsay Sheppard

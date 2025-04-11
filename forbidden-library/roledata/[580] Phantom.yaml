@@ -1,0 +1,497 @@
+---
+580_name:
+  en: Phantom
+  ko: 팬텀
+  ja: ファントム
+c580_description:
+  en: |-
+    During the day, she's a librarian at the Ark's biggest library.
+    At night, she's a phantom thief who punishes evil in the name of justice.
+    Though she believes she keeps her nightly activities well hidden, most of the people who should know of it already do.
+  ko: |-
+    낮에는 방주의 가장 큰 도서관에서 사서로 일하고,
+    밤에는 정의를 위해 악한 자들을 벌하는 괴도가 된다.
+    본인은 괴도 활동을 하고 있다는 것을 잘 숨기고 있다고 생각하지만, 알 만한 사람들은 대부분 다 알고 있다.
+  ja: |-
+    昼はアークで最も大きな図書館で司書として働き、
+    夜は正義のために悪者を罰する怪盗になる。
+    自分では怪盗の活動をうまく隠せていると思っているが、
+    ほとんど公然の秘密となっている。
+580_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_580:
+  en: Phantom's Spare Body
+  ko: 팬텀 스페어 바디
+  ja: ファントムのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25802_name:
+  en: Thief's Vision
+  ko: 괴도의 시선
+  ja: 怪盗の鑑定眼
+25802_description:
+  en: |-
+    ■ Activates when Thief's Dagger is fully stacked. Affects the target(s) in Calling Card status after the stacks are removed.
+    <color=#00AEFF>Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as additional damage. Calling Card status is removed after the effect is triggered.</color>
+    ■ Activates when Thief's Dagger is fully stacked. Affects self after the stacks are removed.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% continuously, stacks up to {description_value_02} time(s). Stacks are removed after Burst Skill is cast.</color>
+    ■ Activates after landing {description_value_03} normal attack(s). Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_04}% for {description_value_05} sec.
+    <word_group=10019>Distributed Damage</word_group> ▲ {description_value_06}% for {description_value_07} sec.</color>
+  ko: |-
+    ■ 자신이 괴도의 단검 최대 중첩 상태라면 중첩 해제 후 예고장 상태의 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_08}% 추가 대미지] [효과 적용 후 예고장 제거]</color>
+    ■ 자신이 괴도의 단검 최대 중첩 상태라면 중첩 해제 후 자신에게
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_01}% ▲] [{description_value_02} 중첩] [버스트 스킬 사용 후 중첩 제거] [지속]</color>
+    ■ 일반 공격 {description_value_03}회 공격 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_04}% ▲] [{description_value_05}초 유지]
+    [<word_group=10019>분배 대미지</word_group> {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■自分が怪盗の短剣フルスタック状態なら、スタック解除後予告状状態の対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の追加ダメージ」「効果発動後予告状解除」</color>
+    ■自分が怪盗の短剣フルスタック状態なら、スタック解除後自分に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％▲」「{description_value_02}スタック」「バーストスキル使用後スタック解除」
+    「持続」</color>
+    ■通常攻撃で{description_value_03}回攻撃した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」
+    「<word_group=10019>分配ダメージ</word_group>{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25801_name:
+  en: Thief's Calling Card
+  ko: 괴도의 예고장
+  ja: 怪盗の予告状
+25801_description:
+  en: |-
+    ■ Activates when hitting a Rapture with a normal attack if the Rapture is not in Calling Card status. Affects the target.
+    <color=#00AEFF>Calling Card: DEF ▼ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when hitting a Rapture with a normal attack if the Rapture is not in Calling Card status. Affects self.
+    <color=#00AEFF>Thief's Dagger: Hit Rate ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+    ■ Activates when hitting a target with a normal attack if the target is in Calling Card status. Affects self.
+    <color=#00AEFF>Attack damage ▲ {description_value_06}% for {description_value_07} round(s).</color>
+  ko: |-
+    ■ 일반 공격 명중 시 예고장 상태가 아닌 랩쳐라면 대상에게
+    <color=#00AEFF>[예고장 : 방어력 {description_value_01}% ▼] [{description_value_02}초 유지]</color>
+    ■ 일반 공격 명중 시 대상이 예고장 상태가 아닌 랩쳐라면 자신에게
+    <color=#00AEFF>[괴도의 단검 : 명중률 {description_value_03}% ▲] [{description_value_04} 중첩] [{description_value_05}초 유지]</color>
+    ■ 일반 공격 명중 시 대상이 예고장 상태일 때 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_06}% ▲] [{description_value_07}발 유지]</color>
+  ja: |-
+    ■通常攻撃が命中した時、予告状状態ではないラプチャーなら対象に
+    <color=#00AEFF>「予告状：防御力{description_value_01}％▼」「{description_value_02}秒」</color>
+    ■通常攻撃が命中した時、予告状状態ではないラプチャーなら自分に
+    <color=#00AEFF>「怪盗の短剣：命中率{description_value_03}％▲」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+    ■通常攻撃が命中した時、対象が予告状状態なら自分に
+    <color=#00AEFF>｢攻撃ダメージ{description_value_06}％▲」「{description_value_07}発間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15803_name:
+  en: 'Secret Trick: Rampage of Thieves'
+  ko: 비기 괴도 난무
+  ja: 秘技・怪盗乱舞
+15803_description:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% <word_group=10019>분배 대미지</word_group> ]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c580_Lobby_Touch_1:
+  en: Did you call? Despite my appearance, I'm in fact working as a librarian.
+  ko: 불렀는가? 이래 봬도 사서로 일하고 있다네.
+  ja: 呼んだかい？こう見えても、司書として働いているんだよ。
+c580_Lobby_Touch_2:
+  en: If you receive a note from me, I hope it inspires you have a moment of introspection.
+  ko: |-
+    나에게 예고장을 받았다면,
+    평소 행실에 대해 되돌아보기를 바라겠소.
+  ja: |-
+    私の予告状を受け取ったなら、
+    日頃の行いを振り返ってみるといい。
+c580_Lobby_Touch_3:
+  en: |-
+    I'm practicing writing some warning notes.
+    ... Don't you think I'm cool?
+  ko: |-
+    예고장 쓰는 연습을 하고 있었소.
+    …좀 멋있지 않은가?
+  ja: |-
+    予告状を書く練習をしていた。
+    …どうだ、かっこいいだろう？
+c580_Lobby_Touch_Love_1:
+  en: |-
+    I came here to steal your heart,
+    but it's my heart that has been spirited away...
+  ko: |-
+    이런, 그대의 마음을 뺏으러 왔건만
+    되려 내 마음을 빼앗겨 버렸군….
+  ja: |-
+    おっと、君の心を奪いに来たのだが、
+    むしろ私の心を奪われてしまったな…
+c580_Lobby_Touch_Love_2:
+  en: |-
+    I became a thief to return that which has been stolen back to the rightful owner.
+    In that sense, you and I have a lot in common.
+  ko: |-
+    내가 괴도가 된 건, 빼앗긴 것을 주인에게 되돌리기 위함이오.
+    그런 점에서, 우린 닮은 곳이 참 많지 않은가?
+  ja: |-
+    私が怪盗になったのは、奪われたものを持ち主に返すためだ。
+    私たちは似ているな。
+c580_Lobby_Touch_Love_3:
+  en: |-
+    A thief is always captivated by all things beautiful.
+    Perhaps that is why I find you so mesmerizing.
+  ko: |-
+    아름다운 것에 홀리는 건 괴도의 숙명.
+    그래서 그대가 이리 눈부신가 보오.
+  ja: |-
+    美しいものに目を奪われるのは、怪盗の宿命。
+    だからこれほど君がまぶしいのだろう。
+c580_Lobby_Stay_1:
+  en: You're leaving in front of me? Ha. Don't blame me if something goes missing.
+  ko: |-
+    괴도를 눈앞에 두고 자리를 비우다니….
+    무엇 하나 사라져도 원망하지 마시길.
+  ja: |-
+    怪盗を置いていなくなるとは…
+    何かなくなっても恨むなよ。
+c580_Lobby_Stay_Love_1:
+  en: Don't worry. Your heart is the only thing here that I intend to abscond with.
+  ko: |-
+    걱정 마시오, 내 그대의 마음 말고는
+    여기 있는 것 중 그 무엇도 손대지 않을 터이니.
+  ja: |-
+    安心したまえ。ここにあるものには何一つ手を出さないよ。
+    君の心以外はね。
+c580_Outpost_Touch_1:
+  en: |-
+    If you come to the library, I could recommend many good books.
+    For example... The Phantom's Tears?
+  ko: |-
+    도서관에 오면 좋은 책들을 많이 추천해 주겠소.
+    예를 들면… [괴도의 눈물] 이라던가?
+  ja: |-
+    図書館に来たら、おすすめの本を たくさん紹介しよう。
+    例えば…「怪盗の涙」はどうだい？
+c580_Outpost_Touch_2:
+  en: Tell me if you see anyone up to no good.
+  ko: 악한 자들을 만난다면 내게 말해 주시오.
+  ja: 悪い奴らを見かけたら、 私に報告してくれ。
+c580_Outpost_Touch_3:
+  en: |-
+    The Outpost is rife with narrow alleyways winding between these buildings.
+    It's the perfect place for a thief.
+  ko: |-
+    전초기지는 건물 사이의 간격이 좁아,
+    괴도가 활동하기에 아주 좋소.
+  ja: 前哨基地は建物の間隔が狭いから、 怪盗にはぴったりだな。
+c580_Gacha_Get_1:
+  en: Tonight, I shall spirit away your precious heart.
+  ko: 오늘 밤, 그대의 소중한 마음을 받아 가도록 하지.
+  ja: 今宵、君の心を頂くよ。
+c580_Reinforce_1:
+  en: I should be able to move more stealthily now.
+  ko: 더 가볍게 몸을 움직일 수 있겠군.
+  ja: 体が軽くなったな。
+c580_Reinforce_2:
+  en: Thank you. I'll put these skills to good use for you.
+  ko: 고맙소, 그대를 위해 힘쓰도록 하지.
+  ja: ありがたい。君のために力を尽くすよ。
+c580_Reinforce_3:
+  en: This is good. I just so happen to have somewhere I need to be today.
+  ko: 마침 오늘 가야 할 곳이 있었는데, 잘 되었군.
+  ja: ちょうど今日行くべきところがあってね。
+c580_Gift_1:
+  en: You gave me something so precious... Thank you.
+  ko: 어찌 이리 귀한 것을… 고맙소.
+  ja: こんな貴重なものを…ありがたい。
+c580_Gift_2:
+  en: You didn't steal this from somewhere, did you? Haha, just joking.
+  ko: 어디서 훔친 건 아니겠지? 후후, 농담이오.
+  ja: 盗品ではないよな？ふふ、冗談さ。
+c580_Gift_3:
+  en: I won't lose this. I'll take good care of it.
+  ko: 잃어버리지 않게, 잘 보관하겠소.
+  ja: なくさないように、きちんと保管しておこう。
+c580_Attractive_Up_1:
+  en: I want to stroll under the night sky with you.
+  ko: 그대와 함께 밤 하늘을 누비고 싶군.
+  ja: 君と一緒に夜空を飛び回りたいな。
+c580_Attractive_Up_2:
+  en: So, this is how it feels to have your heart stolen.
+  ko: 마음을 도둑맞는다는 건, 이런 기분이었군.
+  ja: 心を盗まれるというのは、こういう気持ちだったのか。
+c580_Attractive_Up_3:
+  en: Tonight, instead of a warning note, I shall write you a love letter.
+  ko: 오늘은 예고장이 아니라 그대를 향한 연서를 써야겠소.
+  ja: 予告状ではなく、君への恋文を書かなければ。
+c580_Party_Deploy_1:
+  en: I'm on your side.
+  ko: 그대와 함께 하겠소.
+  ja: 君とともに行こう。
+c580_Field_Touch_1:
+  en: Did you call?
+  ko: 불렀소?
+  ja: 呼んだかい？
+c580_Field_Go_1:
+  en: Heading over there now.
+  ko: 그리로 가겠소.
+  ja: そちらへ行くよ。
+c580_Battle_Enter_1:
+  en: This is where my warning note leads.
+  ko: 여기가 내 예고장의 종착지인가 보오.
+  ja: ここが予告状の場所か。
+c580_Battle_Ready_1:
+  en: I will punish all wrongdoers.
+  ko: 악한 자들을 벌하겠소.
+  ja: 悪者たちに罰を。
+c580_Battle_Ready_2:
+  en: I'll have this all taken care of before sunrise.
+  ko: 해가 뜨기 전에 정리하겠소.
+  ja: 日が昇る前に片づけよう。
+c580_Battle_Ready_3:
+  en: There are so many things to steal!
+  ko: 훔칠 것들이 많아 보이는군.
+  ja: 盗むべきものがたくさんありそうだ。
+c580_Reload_1:
+  en: Reloading.
+  ko: 장전하겠소.
+  ja: 装填しよう。
+c580_Reload_2:
+  en: There's still plenty here to steal.
+  ko: 아직도 훔칠 것들이 많군, 그래.
+  ja: まだ盗むべきものがたくさんあるね。
+c580_Reload_3:
+  en: I'm waiting for nightfall.
+  ko: 밤이 오기를 기다리고 있소.
+  ja: 夜の訪れを待っている。
+c580_Ult_Skill_Ready_1:
+  en: It's time.
+  ko: 시간이 됐소.
+  ja: 時間だ。
+c580_Ult_Skill_1:
+  en: Phantom will come for you when night falls.
+  ko: 괴도 팬텀이 오늘 밤 그대를 찾아가겠소.
+  ja: 怪盗ファントム。今宵、君の元に参上する。
+c580_FullBurst_1:
+  en: The darkness will cover us.
+  ko: 어둠이 우리를 가려줄 것이오!
+  ja: 闇が私たちを包むだろう！
+c580_Kill_Monster_1:
+  en: I've stolen everything here.
+  ko: 이쪽은 다 훔쳤소.
+  ja: こちらは盗み終わったぞ。
+c580_Kill_Monster_2:
+  en: Where next?
+  ko: 다음은 어디지?
+  ja: 次はどこだい？
+c580_Kill_Monster_3:
+  en: There's nothing else to take.
+  ko: 더 가져갈만한 건 없군.
+  ja: これ以上盗むべきものはなさそうだ。
+c580_Damage_1:
+  en: Urgh!
+  ko: 큿…!
+  ja: くっ…！
+c580_Damage_2:
+  en: I've been caught...!
+  ko: 들켰군…!
+  ja: バレたか…！
+c580_Damage_3:
+  en: Ow!
+  ko: 으윽!
+  ja: ううっ！
+c580_Die_1:
+  en: I'm sorry... I'll come back tomorrow night...
+  ko: 미안하오… 내일 밤, 다시 찾아오겠소….
+  ja: すまない…明日の夜、出直すとしよう…
+c580_Win_1:
+  en: As usual, the thief comes out victorious.
+  ko: 괴도 팬텀, 예고했던 대로 승리를 가져왔소.
+  ja: 怪盗ファントム、予告通り勝利をもたらした。
+580_cv_ja:
+  en: 'CV: Hiromi Hirata'
+  ko: 'CV : 히라타 히로미'
+  ja: CV：平田宏美
+580_cv_ko:
+  en: 'CV: Seo Da-hye'
+  ko: 'CV : 서다혜'
+  ja: CV：ソ・ダヘ
+580_cv_en:
+  en: 'CV: Emi Lo'
+  ko: 'CV : 에미 로'
+  ja: CV：Emi Lo

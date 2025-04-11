@@ -1,0 +1,490 @@
+---
+102_name:
+  en: Maxwell
+  ko: 맥스웰
+  ja: マクスウェル
+c102_description:
+  en: A genius researcher who loves nothing more than machines and knowledge. As the
+    brain of Matis, she is both perceptive, whip-smart, and capable of producing weapons
+    in a flash.
+  ko: "기계와 지식을 사랑하는 천재 연구원. \n빠른 눈치와 지성, 무기를 직접 만들어내는 능력으로 메티스 스쿼드의 두뇌를 담당한다."
+  ja: |-
+    機械と知識を愛する天才研究員。
+    賢く、空気を読むのが得意。さらに武器を自らの手で作り
+    上げる能力を持ち、メティス部隊のブレインを担当している。
+102_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50102:
+  en: Maxwell's Spare Body
+  ko: 맥스웰 스페어 바디
+  ja: マクスウェルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21022_name:
+  en: Spark Shot
+  ko: 일렉트릭 샷
+  ja: エレクトリックショット
+21022_description:
+  en: |-
+    ■ Activates when there are above {description_value_01} enemy unit(s), excluding Nikkes. Affects self.
+    <color=#00AEFF>Critical Rate ▲ {description_value_02}%.
+    Critical Damage ▲ {description_value_03}%.</color>
+  ko: |-
+    ■ 니케를 제외한 적이 {description_value_01}기 이상일 때 한하여 자신에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_02}% ▲] [지속]
+    [크리티컬 대미지 {description_value_03}% ▲] [지속]</color>
+  ja: |-
+    ■ニケを除いた敵が{description_value_01}機以上の時のみ自分に
+    <color=#00AEFF>「クリティカル確率{description_value_02}％▲」「持続」
+    「クリティカルダメージ{description_value_03}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21021_name:
+  en: Straight Shot
+  ko: 스트레이트 샷
+  ja: ストレートショット
+21021_description:
+  en: "■ Activates when entering Full Burst. Affects 2 allies with the highest <word_group=10025>final</word_group>
+    ATK.\n<color=#00AEFF>Charge Speed ▲ {description_value_01}% for {description_value_02}
+    sec. \nATK ▲ {description_value_03}% for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 2기에게
+    <color=#00AEFF>[차지 속도 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、
+    <word_group=10025>最終</word_group>攻撃力が最も高い味方2機に
+    <color=#00AEFF>「チャージ速度{description_value_01}％▲」「{description_value_02}秒間維持」
+    「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11023_name:
+  en: Pierce Shot
+  ko: 피어스 샷
+  ja: ピアスショット
+11023_description:
+  en: "■ Affects self. \n<color=#00AEFF>Change the Weapon in use: \nCharge Time: 2
+    sec\nDamage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    \nFull Charge Damage: 300% of damage \nMax Ammunition Capacity: {description_value_02}
+    round(s) \nAdditional Effect: Pierce</color>"
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경] :
+    차지 시간 : 2초
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}%
+    풀 차지 대미지 : 300% 대미지
+    최대 장탄 수 : {description_value_02}발
+    추가 효과 : 관통 특화</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器を変更」：
+    チャージ時間：2秒
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％
+    フルチャージダメージ：300％のダメージ
+    最大装弾数：{description_value_02}発
+    追加効果：貫通特化</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+101_name:
+  en: Drake
+  ko: 드레이크
+  ja: ドレイク
+100_name:
+  en: Laplace
+  ko: 라플라스
+  ja: ラプラス
+c102_Lobby_Touch_1:
+  en: How about we go and run some tests together?
+  ko: 베이비~ 테스트하러 가자!
+  ja: ベビー、テストしに行こう！
+c102_Lobby_Touch_2:
+  en: You're a most interesting subject to observe.
+  ko: 우리 베이비는 언제 봐도 재미있네~
+  ja: ベビーはいつも面白いね～
+c102_Lobby_Touch_3:
+  en: All right, what's next?
+  ko: 이번엔 뭘 하고 놀아볼까?
+  ja: 今度は何して遊ぼうかな？
+c102_Lobby_Touch_Love_1:
+  en: |-
+    I'll figure you out one day.
+    But before that, thank you for your concern, and your support.
+  ko: |-
+    언젠가 꼭 베이비의 모든 걸 알아내 줄게.
+    그때까지 잘 부탁해~
+  ja: |-
+    いつか必ずベビーのすべてを調べ上げてあげるね。
+    それまでよろしく～
+c102_Lobby_Touch_Love_2:
+  en: I always enjoy running tests with you.
+  ko: 베이비랑 테스트하는 건 언제나 즐겁네~
+  ja: ベビーと一緒にテストするのはいつも楽しいよ～
+c102_Lobby_Touch_Love_3:
+  en: Cutey, we'll have to take our experiments to the next level in the future.
+  ko: 베이비, 우리 언젠가 꼭 찐~하게 실험해 보는 거다?
+  ja: ベビー。いつか必ず、内容の濃い実験してみようね？
+c102_Lobby_Stay_1:
+  en: |-
+    Huh. What are you sitting around for?
+    I hadn't pegged you for a couch potato.
+  ko: |-
+    흠~ 베이비 은근 한가하구나?
+    이렇게 아무것도 안 해도 되겠어?
+  ja: |-
+    う～ん、ベビー暇みたいだね。
+    こんなにぐうたらしてて大丈夫？
+c102_Lobby_Stay_Love_1:
+  en: |-
+    Wow, I have to say, it's amusing being observed by you.
+    Do you plan on doing this often in the future?
+  ko: |-
+    와, 이렇게 베이비한테 관찰 당하는 것도 재미있네?
+    앞으로 자주 이러고 있을까?
+  ja: |-
+    わお、ベビーに観察されるのも面白いかも？
+    これからもたまにはこうしてようか？
+c102_Outpost_Touch_1:
+  en: The power station is chock full of research subjects. And I love it!
+  ko: 발전소는 이것저것 만질게 많아서 좋아. 잘 쓸게~
+  ja: |-
+    発電所は、色々とやることがあって 退屈しないからいいんだ。
+    嬉しい。大事にするね～
+c102_Outpost_Touch_2:
+  en: Want to come up to the power station? I need some help with an experiment I'm
+    running.
+  ko: 베이비~ 발전소로 올래? 나랑 실험 하나만 하자.
+  ja: |-
+    ベビー、発電所に来てくれる？
+    少しだけ私の実験につきあって。
+c102_Outpost_Touch_3:
+  en: If we yield enough positive results here, we'll be able to survive without depending
+    on the Ark. Who knows, we may even be able to build our own Ark!
+  ko: |-
+    여기 말야, 잘만 키우면 방주 없이 살 수 있겠는데?
+    이러다 제2의 방주라도 되는 거 아냐?
+  ja: |-
+    ここってさ、上手くいけば アークなしでも 生きられそうだよね？
+    もしかすると 第2のアークになっちゃうかもよ？
+c102_Gacha_Get_1:
+  en: I've got some testing to do that's pretty interesting, wanna come help out?
+  ko: 베이비~ 나랑 재미있는 연구하러 갈래?
+  ja: ベビー、私と面白い研究しに行かない？
+c102_Reinforce_1:
+  en: Great, attribute up!
+  ko: 흐응~ 좋아, 능력치가 올랐네.
+  ja: うん、やったわね。ステータスが上がったわ。
+c102_Reinforce_2:
+  en: Not bad. Where did you get all these from?
+  ko: 이걸 다 어디서 구했대~ 고생했어.
+  ja: |-
+    こんなに一体どこから入手したのよ～
+    お疲れ様。
+c102_Reinforce_3:
+  en: Nikkes' bodies are so fascinating. It's incredible how they can be augmented
+    using such materials.
+  ko: 니케의 몸은 재미있단 말야. 이런 걸로 강해지고.
+  ja: ニケの体って面白いよね。こんなもので強くなっちゃうんだから。
+c102_Gift_1:
+  en: Wow, a gift? I'm so happy!
+  ko: 와~ 이거 진짜 기분 좋네.
+  ja: わあ～これってすごく気分いい。
+c102_Gift_2:
+  en: I love it. Thank you!
+  ko: 어? 이거 좋아하는 건데! 고마워~
+  ja: ええ？これ私が好きなやつ！ありがとう～
+c102_Gift_3:
+  en: A gift? Are you trying to get on my good side?
+  ko: 선물이라… 호감을 이끌어내는 덴 이런 방법도 있구나?
+  ja: プレゼントか…こうやって好感度をあげる方法もあるんだね。
+c102_Attractive_Up_1:
+  en: You are quite fascinating, Cutey. So many areas worth exploring.
+  ko: 베이비는 정말 연구 거리가 끊이질 않네~ 아주 흥미로워.
+  ja: |-
+    ベビーは本当に研究のし甲斐があるよ～
+    ワクワクしてきちゃう。
+c102_Attractive_Up_2:
+  en: |-
+    My feelings for you are much stronger than before.
+    But what about my power, is it growing as well?
+  ko: |-
+    베이비에 대한 내 애정이 정말 깊어졌는데.
+    내 능력은 어디까지 올랐을까?
+  ja: |-
+    ベビーへの私の愛情はこんなにも深まったよ。
+    私の能力はどれくらい上がったかな？
+c102_Attractive_Up_3:
+  en: I find you more and more lovely with each passing day.
+  ko: 베이비는 점점 더 러블리 해지네~ 재미있어라.
+  ja: |-
+    ベビーはどんどんラブリーになっていくね～
+    見ていて面白いよ。
+c102_Party_Deploy_1:
+  en: Well, let's go then.
+  ko: 그래, 같이 가자.
+  ja: うん、一緒に行こう。
+c102_Field_Touch_1:
+  en: You called, Cutey?
+  ko: 불렀어, 베이비?
+  ja: 呼んだ、ベビー？
+c102_Field_Go_1:
+  en: OK, let's go.
+  ko: OK. 갑니다~
+  ja: OK。行くよ～
+c102_Battle_Enter_1:
+  en: Finally, a battle.
+  ko: 드디어 전투인가?
+  ja: ついに戦闘なの？
+c102_Battle_Ready_1:
+  en: Time for a test!
+  ko: 테스트 시간이다~
+  ja: テストの時間だよ～
+c102_Battle_Ready_2:
+  en: Let's see how strong I've become.
+  ko: 얼마나 강해졌는지 시험해 볼까?
+  ja: どれくらい強くなったか試してみようかな？
+c102_Battle_Ready_3:
+  en: Let's go, My Cutey!
+  ko: 자~ 가자, 마이 러블리 베이비!
+  ja: ほらほら～行こう、マイラブリーベビー！
+c102_Reload_1:
+  en: Need more ammo.
+  ko: 충전하고 갈게.
+  ja: 充電してから行くね。
+c102_Reload_2:
+  en: Reloading.
+  ko: 리~로드.
+  ja: リロード。
+c102_Reload_3:
+  en: Interesting.
+  ko: 이거 재미있네~
+  ja: これ面白い～
+c102_Ult_Skill_Ready_1:
+  en: Cutey!
+  ko: 베이비!
+  ja: ベビー！
+c102_Ult_Skill_1:
+  en: Max power! Go!
+  ko: 자아~ 출력 최대! 가라----!
+  ja: さ～出力最大！行け―――！
+c102_FullBurst_1:
+  en: How long can you withstand the hail of bullets?
+  ko: 하하하! 어디까지 버티는지 보자고!
+  ja: ははは！どこまで耐えられるかな！
+c102_Kill_Monster_1:
+  en: Easy peasy.
+  ko: 흠~ 이 정도는 뭐.
+  ja: ふ～ん、これくらい何てことないわ。
+c102_Kill_Monster_2:
+  en: Come on, fight harder!
+  ko: 좀 더 힘내볼까?
+  ja: もう少し頑張ってみようか！
+c102_Kill_Monster_3:
+  en: Neutralized.
+  ko: 처리 끝.
+  ja: 処理終了。
+c102_Damage_1:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c102_Damage_2:
+  en: Damn it.
+  ko: 젠장.
+  ja: ひゃあ。
+c102_Damage_3:
+  en: Hmph.
+  ko: 칫.
+  ja: チッ。
+c102_Die_1:
+  en: Hehe... Looks like I'm not all I was cracked up to be...
+  ko: 하하, 이 정도로는 안되는구나….
+  ja: ははは、これくらいじゃだめみたいね…
+c102_Win_1:
+  en: All clear. A successful experiment indeed!
+  ko: 후우~ 올 클리어! 좋은 테스트였어!
+  ja: ふう～オールクリア！楽しいテストだったわ！
+102_cv_ja:
+  en: 'CV: Sora Amamiya'
+  ko: 'CV : 아마미야 소라'
+  ja: CV：雨宮天
+102_cv_ko:
+  en: 'CV: Kim Yool'
+  ko: 'CV : 김율'
+  ja: CV：キム・ユル
+102_cv_en:
+  en: 'CV: Amber Lee Connors'
+  ko: 'CV : 앰버 리 코너스'
+  ja: CV：Amber Lee Connors

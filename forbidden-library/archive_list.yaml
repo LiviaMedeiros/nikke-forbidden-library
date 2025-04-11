@@ -1,0 +1,2377 @@
+---
+ALBUM_CATEGORY_NAME_STORY_EVENT:
+  en: Event Album
+  ko: 이벤트 앨범
+  ja: イベントアルバム
+event_nocallerid_prologue_title:
+  en: Hearsay
+  ko: 소문
+  ja: 噂
+event_nocallerid_01_title_a:
+  en: 'Sender Unknown: A'
+  ko: '발신자 불명 : A'
+  ja: '発信者不明 : A'
+event_nocallerid_01_title_b:
+  en: 'Sender Unknown: B'
+  ko: '발신자 불명 : B'
+  ja: '発信者不明 : B'
+event_nocallerid_02_title_a:
+  en: 'Anticipation: A'
+  ko: '기대감 : A'
+  ja: '期待 : A'
+event_nocallerid_02_title_b:
+  en: 'Anticipation: B'
+  ko: '기대감 : B'
+  ja: '期待 : B'
+event_nocallerid_intermission_title:
+  en: Blue Light
+  ko: 푸른 불빛
+  ja: 青い光
+event_nocallerid_03_title_a:
+  en: 'An Empty Village: A'
+  ko: '아무도 없는 마을 : A'
+  ja: '誰もいない村 : A'
+event_nocallerid_03_title_b:
+  en: 'An Empty Village: B'
+  ko: '아무도 없는 마을 : B'
+  ja: '誰もいない村 : B'
+event_nocallerid_04_title_a:
+  en: 'While the City Sleeps: A'
+  ko: '조용히 잠든 도시 : A'
+  ja: '静かに眠る街 : A'
+event_nocallerid_04_title_b:
+  en: 'While the City Sleeps: B'
+  ko: '조용히 잠든 도시 : B'
+  ja: '静かに眠る街 : B'
+event_nocallerid_05_title_a:
+  en: 'Paradise on Earth: A'
+  ko: '모두가 행복한 나라 : A'
+  ja: 'みんなが幸せな国 : A'
+event_nocallerid_05_title_b:
+  en: 'Paradise on Earth: B'
+  ko: '모두가 행복한 나라 : B'
+  ja: 'みんなが幸せな国 : B'
+event_nocallerid_epilogue_title:
+  en: Something Ridiculous
+  ko: 말도 안 되는 일
+  ja: 嘘のような本当の話
+event_overzone_prologue_title:
+  en: Last Farewell
+  ko: 마지막 인사
+  ja: 最後の挨拶
+event_overzone1_01_s_title:
+  en: 'Ark Guardian: A'
+  ko: '아크 가디언 : A'
+  ja: アークガーディアン：A
+event_overzone1_01_e_title:
+  en: 'Ark Guardian: B'
+  ko: '아크 가디언 : B'
+  ja: アークガーディアン：B
+event_overzone1_02_s_title:
+  en: 'A Dry White Season: A'
+  ko: '말라가는 땅 : A'
+  ja: 干からびる大地：A
+event_overzone1_02_e_title:
+  en: 'A Dry White Season: B'
+  ko: '말라가는 땅 : B'
+  ja: 干からびる大地：B
+event_overzone1_03_s_title:
+  en: 'Those Who Have Seen Paradise: A'
+  ko: '낙원을 보던 자들 : A'
+  ja: 楽園を見た者たち：A
+event_overzone1_03_e_title:
+  en: 'Those Who Have Seen Paradise: B'
+  ko: '낙원을 보던 자들 : B'
+  ja: 楽園を見た者たち：B
+event_overzone1_intermission_01_title:
+  en: The Magic Word
+  ko: 마법의 단어
+  ja: 魔法の言葉
+event_overzone1_04_s_title:
+  en: 'Idol: A'
+  ko: '우상 : A'
+  ja: 憧れ：A
+event_overzone1_04_e_title:
+  en: 'Idol: B'
+  ko: '우상 : B'
+  ja: 憧れ：B
+event_overzone1_05_s_title:
+  en: 'Get Up Again: A'
+  ko: '다시 일어나다 : A'
+  ja: 再起：A
+event_overzone1_05_e_title:
+  en: 'Get Up Again: B'
+  ko: '다시 일어나다 : B'
+  ja: 再起：B
+event_overzone1_06_s_title:
+  en: 'Paradise Incommunicado: A'
+  ko: '대답 없는 낙원 : A'
+  ja: 沈黙の楽園：A
+event_overzone1_06_e_title:
+  en: 'Paradise Incommunicado: B'
+  ko: '대답 없는 낙원 : B'
+  ja: 沈黙の楽園：B
+event_overzone2_01_s_title:
+  en: 'Utopia: A'
+  ko: '이상향 : A'
+  ja: 理想像：A
+event_overzone2_01_e_title:
+  en: 'Utopia: B'
+  ko: '이상향 : B'
+  ja: 理想像：B
+event_overzone2_02_s_title:
+  en: 'A Lamentation for Memories Past: A'
+  ko: '그 기억에 애도를 : A'
+  ja: その記憶に哀悼を：A
+event_overzone2_02_e_title:
+  en: 'A Lamentation for Memories Past: B'
+  ko: '그 기억에 애도를 : B'
+  ja: その記憶に哀悼を：B
+event_overzone2_03_s_title:
+  en: 'Steel That Kills, Steel That Saves: A'
+  ko: '죽이는 강철, 살리는 강철 : A'
+  ja: 殺す鋼鉄、生かす鋼鉄：A
+event_overzone2_03_e_title:
+  en: 'Steel That Kills, Steel That Saves: B'
+  ko: '죽이는 강철, 살리는 강철 : B'
+  ja: 殺す鋼鉄、生かす鋼鉄：B
+event_overzone2_intermission_01_title:
+  en: My Friend, and My Friend Alone
+  ko: 나만의 친구
+  ja: 自分だけの友だち
+event_overzone2_04_s_title:
+  en: 'Rise and Fall: A'
+  ko: '부상과 추락 : A'
+  ja: 浮上と墜落：A
+event_overzone2_04_e_title:
+  en: 'Rise and Fall: B'
+  ko: '부상과 추락 : B'
+  ja: 浮上と墜落：B
+event_overzone2_05_s_title:
+  en: 'Turn Around: A'
+  ko: '뒤돌아보면 : A'
+  ja: 振り返れば：A
+event_overzone2_05_e_title:
+  en: 'Turn Around: B'
+  ko: '뒤돌아보면 : B'
+  ja: 振り返れば：B
+event_overzone2_06_s_title:
+  en: 'Paradise Before You: A'
+  ko: '눈앞의 낙원 : A'
+  ja: 目の前の楽園：A
+event_overzone2_06_e_title:
+  en: 'Paradise Before You: B'
+  ko: '눈앞의 낙원 : B'
+  ja: 目の前の楽園：B
+event_overzone2_epilogue_title:
+  en: Crossing the Rubicon
+  ko: 선을 넘어
+  ja: 線を越えて
+event_bowwowparadise_prologue_title:
+  en: Runaway Dog
+  ko: 강아지 대탈주
+  ja: ワンちゃん大脱走
+event_bowwowparadise_01_s_title_a:
+  en: 'Looking for Lost Dogs: A'
+  ko: '강아지를 찾습니다 : A'
+  ja: イヌを捜しています：A
+event_bowwowparadise_01_e_title_b:
+  en: 'Looking for Lost Dogs: B'
+  ko: '강아지를 찾습니다 : B'
+  ja: イヌを捜しています：B
+event_bowwowparadise_02_s_title_a:
+  en: 'Canine Commotion: A'
+  ko: '우당탕탕! 강아지 대소동 : A'
+  ja: ドタバタ！ワンちゃん大騒動：A
+event_bowwowparadise_02_e_title_b:
+  en: 'Canine Commotion: B'
+  ko: '우당탕탕! 강아지 대소동 : B'
+  ja: ドタバタ！ワンちゃん大騒動：B
+event_bowwowparadise_03_s_title:
+  en: 'Max: A'
+  ko: '맥스 : A'
+  ja: マックス：A
+event_bowwowparadise_03_e_title:
+  en: 'Max: B'
+  ko: '맥스 : B'
+  ja: マックス：B
+event_bowwowparadise_intermission_01_title:
+  en: Max and Biscuit
+  ko: 맥스와 비스킷
+  ja: マックスとビスケット
+event_bowwowparadise_04_s_title:
+  en: 'Shelter Renovation: A'
+  ko: '보호소 대공사 : A'
+  ja: シェルター大工事：A
+event_bowwowparadise_04_e_title:
+  en: 'Shelter Renovation: B'
+  ko: '보호소 대공사 : B'
+  ja: シェルター大工事：B
+event_bowwowparadise_05_s_title:
+  en: 'Renovation, Take Two: A'
+  ko: '우당탕탕! 두 번째 공사 : A'
+  ja: ドタバタ！2回目の工事：A
+event_bowwowparadise_05_b_title:
+  en: 'Renovation, Take Two: B'
+  ko: '우당탕탕! 두 번째 공사 : B'
+  ja: ドタバタ！2回目の工事：B
+event_bowwowparadise_06_s_title:
+  en: 'Bow Wow Paradise: A'
+  ko: '바우 와우 파라다이스 : A'
+  ja: わんわんパラダイス：Ａ
+event_bowwowparadise_06_b_title:
+  en: 'Bow Wow Paradise: B'
+  ko: '바우 와우 파라다이스 : B'
+  ja: わんわんパラダイス：Ｂ
+event_bowwowparadise_epilogue_title:
+  en: A Place Where I Belong
+  ko: 내가 있어야 할 곳
+  ja: ボクがいるべき場所
+event_ltk_prologue_title:
+  en: Trigger
+  ko: 방아쇠
+  ja: トリガー
+event_ltk_01_s_title:
+  en: 'Agency: A'
+  ko: '대행 : A'
+  ja: 代行：A
+event_ltk_01_e_title:
+  en: 'Agency: B'
+  ko: '대행 : B'
+  ja: 代行：B
+event_ltk_02_s_title:
+  en: 'Company Life: A'
+  ko: '회사 생활 : A'
+  ja: 会社勤め：A
+event_ltk_02_e_title:
+  en: 'Company Life: B'
+  ko: '회사 생활 : B'
+  ja: 会社勤め：B
+event_ltk_03_s_title:
+  en: 'A Foggy Day: A'
+  ko: '안개 낀 날 : A'
+  ja: 霧がかかった日：A
+event_ltk_03_e_title:
+  en: 'A Foggy Day: B'
+  ko: '안개 낀 날 : B'
+  ja: 霧がかかった日：B
+event_ltk_intermission_title:
+  en: Approach
+  ko: 접근
+  ja: 接近
+event_ltk_04_s_title:
+  en: 'Cross to Bear: A'
+  ko: '왕관의 무게 : A'
+  ja: 王冠の重さ：A
+event_ltk_04_e_title:
+  en: 'Cross to Bear: B'
+  ko: '왕관의 무게 : B'
+  ja: 王冠の重さ：B
+event_ltk_05_s_title:
+  en: 'Light and Shadow: A'
+  ko: '빛과 그림자 : A'
+  ja: 光と影：A
+event_ltk_05_e_title:
+  en: 'Light and Shadow: B'
+  ko: '빛과 그림자 : B'
+  ja: 光と影：B
+event_ltk_06_s_title:
+  en: 'Go Time: A'
+  ko: '선택의 시간 : A'
+  ja: 選択の時間：A
+event_ltk_06_e_title:
+  en: 'Go Time: B'
+  ko: '선택의 시간 : B'
+  ja: 選択の時間：B
+event_ltk_epilogue_title:
+  en: Return To Darkness
+  ko: 다시 그 세계로
+  ja: 再びその世界へ
+event_miraclesnow1_prologue_title:
+  en: Emergency Meeting
+  ko: 긴급 회의
+  ja: 緊急会議
+event_miraclesnow1_01_title_a:
+  en: 'Santa for a Day: A'
+  ko: '오늘의 산타클로스 : A'
+  ja: 今日のサンタクロース：A
+event_miraclesnow1_01_title_b:
+  en: 'Santa for a Day: B'
+  ko: '오늘의 산타클로스 : B'
+  ja: 今日のサンタクロース：B
+event_miraclesnow1_02_title_a:
+  en: 'Operation Christmas Cheer: A'
+  ko: '행복 찾기 대작전 : A'
+  ja: 幸せ探し大作戦：A
+event_miraclesnow1_02_title_b:
+  en: 'Operation Christmas Cheer: B'
+  ko: '행복 찾기 대작전 : B'
+  ja: 幸せ探し大作戦：B
+event_miraclesnow1_03_title_a:
+  en: 'Limited Happiness: A'
+  ko: '한정된 행복 : A'
+  ja: 限りある幸せ：A
+event_miraclesnow1_03_title_b:
+  en: 'Limited Happiness: B'
+  ko: '한정된 행복 : B'
+  ja: 限りある幸せ：B
+event_miraclesnow1_intermission_01:
+  en: A Special Day
+  ko: 최고로 특별한 날
+  ja: 最高に特別な日
+event_miraclesnow1_04_title_a:
+  en: 'Dark Clouds: A'
+  ko: '드리우는 암운 : A'
+  ja: 垂れ込める暗雲：A
+event_miraclesnow1_04_title_b:
+  en: 'Dark Clouds: B'
+  ko: '드리우는 암운 : B'
+  ja: 垂れ込める暗雲：B
+event_miraclesnow1_05_title_a:
+  en: 'Warm and Cuddly: A'
+  ko: '따뜻하고 부드러운 : A'
+  ja: 温かくて柔らかい：A
+event_miraclesnow1_05_title_b:
+  en: 'Warm and Cuddly: B'
+  ko: '따뜻하고 부드러운 : B'
+  ja: 温かくて柔らかい：B
+event_miraclesnow1_06_title_a:
+  en: 'Wishing: A'
+  ko: '소원 : A'
+  ja: 願い：A
+event_miraclesnow1_06_title_b:
+  en: 'Wishing: B'
+  ko: '소원 : B'
+  ja: 願い：B
+event_miraclesnow2_01_title_a:
+  en: 'Ties that Bind: A'
+  ko: '가장 강한 주박 : A'
+  ja: 最も強い呪縛：A
+event_miraclesnow2_01_title_b:
+  en: 'Ties that Bind: B'
+  ko: '가장 강한 주박 : B'
+  ja: 最も強い呪縛：B
+event_miraclesnow2_02_title_a:
+  en: 'Meeting and Parting: A'
+  ko: '만남과 이별 : A'
+  ja: 出会いと別れ：A
+event_miraclesnow2_02_title_b:
+  en: 'Meeting and Parting: B'
+  ko: '만남과 이별 : B'
+  ja: 出会いと別れ：B
+event_miraclesnow2_03_title_a:
+  en: 'For the Meeting: A'
+  ko: '만나게 해주기 위해 : A'
+  ja: 再会のために：A
+event_miraclesnow2_03_title_b:
+  en: 'For the Meeting: B'
+  ko: '만나게 해주기 위해 : B'
+  ja: 再会のために：B
+event_miraclesnow2_04_title_a:
+  en: 'Unable to Meet: A'
+  ko: '만날 수 없는 : A'
+  ja: 会えない：A
+event_miraclesnow2_04_title_b:
+  en: 'Unable to Meet: B'
+  ko: '만날 수 없는 : B'
+  ja: 会えない：B
+event_miraclesnow2_intermission_01_title:
+  en: Her Day
+  ko: 그녀의 하루
+  ja: 彼女の一日
+event_miraclesnow2_05_title_a:
+  en: 'Resignation: A'
+  ko: '포기와 체념 : A'
+  ja: 諦め、そして放棄：A
+event_miraclesnow2_05_title_b:
+  en: 'Resignation: B'
+  ko: '포기와 체념 : B'
+  ja: 諦め、そして放棄：B
+event_miraclesnow2_06_title_a:
+  en: 'Dream of the Blue Butterfly: A'
+  ko: '파란 나비의 꿈 : A'
+  ja: 青い蝶の夢：A
+event_miraclesnow2_06_title_b:
+  en: 'Dream of the Blue Butterfly: B'
+  ko: '파란 나비의 꿈 : B'
+  ja: 青い蝶の夢：B
+event_miraclesnow2_epilogue_title:
+  en: Miracle Snow
+  ko: 미라클 스노우
+  ja: ミラクルスノー
+event_queensorder_prologue_title:
+  en: Trigger
+  ko: Trigger
+  ja: Trigger
+event_queensorder_01_s_title:
+  en: 'Unexpected Guest: A'
+  ko: '뜻밖의 손님 : A'
+  ja: 予想外のお客様：A
+event_queensorder_01_e_title:
+  en: 'Unexpected Guest: B'
+  ko: '뜻밖의 손님 : B'
+  ja: 予想外のお客様：B
+event_queensorder_02_s_title:
+  en: 'Crisis Averted: A'
+  ko: '위협을 피해 : A'
+  ja: 危険を避けて：A
+event_queensorder_02_e_title:
+  en: 'Crisis Averted: B'
+  ko: '위협을 피해 : B'
+  ja: 危険を避けて：B
+event_queensorder_03_s_title:
+  en: 'Convergence: A'
+  ko: '접선 : A'
+  ja: 接線：A
+event_queensorder_03_e_title:
+  en: 'Convergence: B'
+  ko: '접선 : B'
+  ja: 接線：B
+event_queensorder_intermission_01_title:
+  en: My Life in Your Hands
+  ko: 목을 맡기다
+  ja: 首を預ける
+event_queensorder_04_s_title:
+  en: 'Counterattack: A'
+  ko: '반격 : A'
+  ja: 反撃：A
+event_queensorder_04_e_title:
+  en: 'Counterattack: B'
+  ko: '반격 : B'
+  ja: 反撃：B
+event_queensorder_05_s_title:
+  en: 'The Queen''s Order: A'
+  ko: '여왕들의 질서 : A'
+  ja: 女王たちのルール：A
+event_queensorder_05_e_title:
+  en: 'The Queen''s Order: B'
+  ko: '여왕들의 질서 : B'
+  ja: 女王たちのルール：B
+event_queensorder_06_s_title:
+  en: 'The Order of Rosanna: A'
+  ko: '로산나의 질서 : A'
+  ja: ロザンナのルール：A
+event_queensorder_06_e_title:
+  en: 'The Order of Rosanna : B'
+  ko: '로산나의 질서 : B'
+  ja: ロザンナのルール：B
+event_queensorder_epilogue_title:
+  en: A Red-Painted Hill
+  ko: 붉게 물든 언덕
+  ja: 赤く染まった丘
+event_nyanyaparadise_prologue_title:
+  en: Abandoned Cat
+  ko: 유기묘
+  ja: 捨てネコ
+event_nyanyaparadise_01_s_title:
+  en: 'Nero and the Cat: A'
+  ko: '네로와 고양이 : A'
+  ja: ネロとネコ：A
+event_nyanyaparadise_01_e_title:
+  en: 'Nero and the Cat: B'
+  ko: '네로와 고양이 : B'
+  ja: ネロとネコ：B
+event_nyanyaparadise_02_s_title:
+  en: 'Ruru''s Day: A'
+  ko: '루루의 하루 : A'
+  ja: ルルの1日：A
+event_nyanyaparadise_02_e_title:
+  en: 'Ruru''s Day: B'
+  ko: '루루의 하루 : B'
+  ja: ルルの1日：B
+event_nyanyaparadise_03_s_title:
+  en: 'Help: A'
+  ko: '도움닫기 : A'
+  ja: 助走：A
+event_nyanyaparadise_03_e_title:
+  en: 'Help: B'
+  ko: '도움닫기 : B'
+  ja: 助走：B
+event_nyanyaparadise_intermission_01_title:
+  en: Unrequited Love
+  ko: 짝사랑
+  ja: 片思い
+event_nyanyaparadise_04_s_title:
+  en: 'Mental Preparation: A'
+  ko: '마음의 준비 : A'
+  ja: 心の準備：A
+event_nyanyaparadise_04_e_title:
+  en: 'Mental Preparation: B'
+  ko: '마음의 준비 : B'
+  ja: 心の準備：B
+event_nyanyaparadise_05_s_title:
+  en: 'Finding Happiness: A'
+  ko: '행복을 찾아서 : A'
+  ja: 幸せを探して：A
+event_nyanyaparadise_05_e_title:
+  en: 'Finding Happiness: B'
+  ko: '행복을 찾아서 : B'
+  ja: 幸せを探して：B
+event_nyanyaparadise_06_s_title:
+  en: 'Farewell: A'
+  ko: '마지막 인사 : A'
+  ja: 最後の挨拶：A
+event_nyanyaparadise_06_e_title:
+  en: 'Farewell: B'
+  ko: '마지막 인사 : B'
+  ja: 最後の挨拶：B
+event_nyanyaparadise_epilogue_title:
+  en: Nya Nya Paradise
+  ko: 냐냐 파라다이스
+  ja: にゃんにゃんパラダイス
+event_cherryblossom_prologue_title:
+  en: Sakura Scuttlebutt
+  ko: 벚꽃의 소문
+  ja: 桜の噂
+event_cherryblossom_01_s_title:
+  en: 'A Floral Invitation: A'
+  ko: '꽃이 부르는 초대장 : A'
+  ja: 花が誘う招待状：A
+event_cherryblossom_01_e_title:
+  en: 'A Floral Invitation: B'
+  ko: '꽃이 부르는 초대장 : B'
+  ja: 花が誘う招待状：B
+event_cherryblossom_02_s_title:
+  en: 'Speak Now, or Forever Hold Your Peace: A'
+  ko: '그 결혼 반대 : A'
+  ja: その結婚、反対：A
+event_cherryblossom_02_e_title:
+  en: 'Speak Now, or Forever Hold Your Peace: B'
+  ko: '그 결혼 반대 : B'
+  ja: その結婚、反対：B
+event_cherryblossom_03_s_title:
+  en: 'Floral Fracas: A'
+  ko: '꽃의 소란 : A'
+  ja: 花の騒ぎ：A
+event_cherryblossom_03_e_title:
+  en: 'Floral Fracas: B'
+  ko: '꽃의 소란 : B'
+  ja: 花の騒ぎ：B
+event_cherryblossom_intermission_01_title:
+  en: Floral Oath
+  ko: 꽃의 맹약
+  ja: 花の誓い
+event_cherryblossom_04_s_title:
+  en: 'Crackdown: A'
+  ko: '폭력을 억눌러 : A'
+  ja: 暴力を押さえつけて：A
+event_cherryblossom_04_e_title:
+  en: 'Crackdown: B'
+  ko: '폭력을 억눌러 : B'
+  ja: 暴力を押さえつけて：B
+event_cherryblossom_05_s_title:
+  en: 'Flower Show: A'
+  ko: '꽃놀이 : A'
+  ja: 花見：A
+event_cherryblossom_05_e_title:
+  en: 'Flower Show: B'
+  ko: '꽃놀이 : B'
+  ja: 花見：B
+event_cherryblossom_06_s_title:
+  en: 'Like a Flower in Full Bloom: A'
+  ko: '만개하는 꽃처럼 : A'
+  ja: 満開の花のように：A
+event_cherryblossom_06_e_title:
+  en: 'Like a Flower in Full Bloom: B'
+  ko: '만개하는 꽃처럼 : B'
+  ja: 満開の花のように：B
+event_cherryblossom_epilogue_title:
+  en: Truth to the Rumors
+  ko: 소문은 그렇게….
+  ja: 噂はそうして…
+event_doutsiders_prologue_title:
+  en: May the Light Guide Us to Heaven
+  ko: 엔터 헤븐은 빛으로
+  ja: エンターヘブンに光を
+event_doutsiders_01_title_a:
+  en: 'Entering the Outer Rim: A'
+  ko: '아우터 림 입성 : A'
+  ja: アウターリムへ：A
+event_doutsiders_01_title_b:
+  en: 'Entering the Outer Rim: B'
+  ko: '아우터 림 입성 : B'
+  ja: アウターリムへ：B
+event_doutsiders_02_title_a:
+  en: 'Outer Rim Patrol: A'
+  ko: '아우터 림 순찰 : A'
+  ja: アウターリムのパトロール：A
+event_doutsiders_02_title_b:
+  en: 'Outer Rim Patrol: B'
+  ko: '아우터 림 순찰 : B'
+  ja: アウターリムのパトロール：B
+event_doutsiders_intermission_title:
+  en: The Outlaw's Dilemma
+  ko: 아웃로의 사정
+  ja: アウトローの事情
+event_doutsiders_03_title:
+  en: Accomplice
+  ko: 공범자
+  ja: 共犯者
+event_doutsiders_04_title_a:
+  en: 'Manager Exotic: A'
+  ko: '관리자 이그조틱 : A'
+  ja: 管理者エキゾチック：A
+event_doutsiders_04_title_b:
+  en: 'Manager Exotic: B'
+  ko: '관리자 이그조틱 : B'
+  ja: 管理者エキゾチック：B
+event_doutsiders_05_title_a:
+  en: 'Some Justice: A'
+  ko: '어떤 정의 : A'
+  ja: とある正義：A
+event_doutsiders_05_title_b:
+  en: 'Some Justice: B'
+  ko: '어떤 정의 : B'
+  ja: とある正義：B
+event_doutsiders_epilogue_title:
+  en: Peace Again
+  ko: 다시 평화
+  ja: 再び平和
+event_maidinvalentine_prologue_title:
+  en: Maids in Valentine's Day
+  ko: Maids in Valentine's Day
+  ja: Maids in Valentine's Day
+event_maidinvalentine_01_title_a:
+  en: 'Master, Help!: A'
+  ko: '도와주세요, 주인님! : A'
+  ja: 助けてください、ご主人様！：A
+event_maidinvalentine_01_title_b:
+  en: 'Master, Help!: B'
+  ko: '도와주세요, 주인님! : B'
+  ja: 助けてください、ご主人様！：B
+event_maidinvalentine_02_title_a:
+  en: 'Signal the Seducer: A'
+  ko: '시그널의 진심? : A'
+  ja: シグナルの本心？：A
+event_maidinvalentine_02_title_b:
+  en: 'Signal the Seducer: B'
+  ko: '시그널의 진심? : B'
+  ja: シグナルの本心？：B
+event_maidinvalentine_03_title_a:
+  en: 'Weird Manager: A'
+  ko: '이상한 관리자 : A'
+  ja: おかしな管理人：A
+event_maidinvalentine_03_title_b:
+  en: 'Weird Manager: B'
+  ko: '이상한 관리자 : B'
+  ja: おかしな管理人：B
+event_maidinvalentine_intermission_title:
+  en: Collecting Ingredients
+  ko: 재료 모으기
+  ja: 材料集め
+event_maidinvalentine_04_title_a:
+  en: 'Maids and the Chocolate Factory: A'
+  ko: '메이드와 초콜릿 공장 : A'
+  ja: メイドとチョコレート工場：A
+event_maidinvalentine_04_title_b:
+  en: 'Maids and the Chocolate Factory: B'
+  ko: '메이드와 초콜릿 공장 : B'
+  ja: メイドとチョコレート工場：B
+event_maidinvalentine_05_title_a:
+  en: 'True Valentine''s Chocolate: A'
+  ko: '진정한 밸런타인 초콜릿 : A'
+  ja: 真のバレンタインチョコ：A
+event_maidinvalentine_05_title_b:
+  en: 'True Valentine''s Chocolate: B'
+  ko: '진정한 밸런타인 초콜릿 : B'
+  ja: 真のバレンタインチョコ：B
+event_maidinvalentine_06_title_a:
+  en: 'MAID IN VALENTINE: A'
+  ko: 'MAID IN VALENTINE : A'
+  ja: MAID IN VALENTINE：A
+event_maidinvalentine_06_title_b:
+  en: 'MAID IN VALENTINE: B'
+  ko: 'MAID IN VALENTINE : B'
+  ja: MAID IN VALENTINE：B
+event_maidinvalentine_epilogue_title:
+  en: After Valentine
+  ko: After Valentine
+  ja: After Valentine
+event_BunnyX777_prologue_title:
+  en: A Momentous Occasion
+  ko: 행운의 이벤트 개최
+  ja: 幸運のイベント開催
+event_BunnyX777_01_s_title:
+  en: 'Rabbits'' Request: A'
+  ko: '토끼들의 부탁 : A'
+  ja: ウサギたちのお願い：A
+event_BunnyX777_01_e_title:
+  en: 'Rabbits'' Request: B'
+  ko: '토끼들의 부탁 : B'
+  ja: ウサギたちのお願い：B
+event_BunnyX777_02_s_title:
+  en: 'Practice Makes Perfect: A'
+  ko: '연습만이 살 길 : A'
+  ja: 練習こそ生きる道：A
+event_BunnyX777_02_e_title:
+  en: 'Practice Makes Perfect: B'
+  ko: '연습만이 살 길 : B'
+  ja: 練習こそ生きる道：B
+event_BunnyX777_03_s_title:
+  en: 'Going Rabbit Hunting: A'
+  ko: '코인 러시에서 토끼 찾기 : A'
+  ja: コインラッシュでウサギ探し：A
+event_BunnyX777_03_e_title:
+  en: 'Going Rabbit Hunting: B'
+  ko: '코인 러시에서 토끼 찾기 : B'
+  ja: コインラッシュでウサギ探し：B
+event_BunnyX777_intermission_01_title:
+  en: Luck Recharged
+  ko: 행운 충전
+  ja: 幸運チャージ
+event_BunnyX777_04_s_title:
+  en: 'Bunny Battle: A'
+  ko: '토끼들과의 대결 : A'
+  ja: ウサギたちとの対決：A
+event_BunnyX777_04_e_title:
+  en: 'Bunny Battle: B'
+  ko: '토끼들과의 대결 : B'
+  ja: ウサギたちとの対決：B
+event_BunnyX777_05_s_title:
+  en: 'Luck is also a Skill: A'
+  ko: '운도 실력이다 : A'
+  ja: 運も実力のうち：A
+event_BunnyX777_05_e_title:
+  en: 'Luck is also a Skill: B'
+  ko: '운도 실력이다 : B'
+  ja: 運も実力のうち：B
+event_BunnyX777_06_s_title:
+  en: 'The Kiss of Fortune: A'
+  ko: '행운의 입맞춤 : A'
+  ja: 幸運のキス：A
+event_BunnyX777_06_e_title:
+  en: 'The Kiss of Fortune: B'
+  ko: '행운의 입맞춤 : B'
+  ja: 幸運のキス：B
+event_BunnyX777_epilogue_title:
+  en: Four Rabbits
+  ko: 네 마리 토끼
+  ja: 4匹のウサギ
+event_schooloflock_prologue_title:
+  en: End of Semester
+  ko: 학기말
+  ja: 期末
+event_schooloflock_01_s_title:
+  en: 'Invitation: A'
+  ko: '초대장 : A'
+  ja: 招待状：A
+event_schooloflock_01_e_title:
+  en: 'Invitation: B'
+  ko: '초대장 : B'
+  ja: 招待状：B
+event_schooloflock_02_s_title:
+  en: 'Current State of Affairs: A'
+  ko: '학교는 지금 : A'
+  ja: 学校は今：A
+event_schooloflock_02_e_title:
+  en: 'Current State of Affairs: B'
+  ko: '학교는 지금 : B'
+  ja: 学校は今：B
+event_schooloflock_03_s_title:
+  en: 'Written Exam: A'
+  ko: '필기시험 : A'
+  ja: 筆記試験：A
+event_schooloflock_03_e_title:
+  en: 'Written Exam: B'
+  ko: '필기시험 : B'
+  ja: 筆記試験：B
+event_schooloflock_intermission_01_title:
+  en: The Practical Exam
+  ko: 실전 같은 시험
+  ja: 実戦のような試験
+event_schooloflock_04_s_title:
+  en: 'The Absent: A'
+  ko: '시험받지 않는 자 : A'
+  ja: 試験を受けない者：A
+event_schooloflock_04_e_title:
+  en: 'The Absent: B'
+  ko: '시험받지 않는 자 : B'
+  ja: 試験を受けない者：B
+event_schooloflock_05_s_title:
+  en: 'A Teacher''s Role: A'
+  ko: '선생의 역할 : A'
+  ja: 教師の役割：A
+event_schooloflock_05_e_title:
+  en: 'A Teacher''s Role: B'
+  ko: '선생의 역할 : B'
+  ja: 教師の役割：B
+event_schooloflock_06_s_title:
+  en: 'Starting Again: A'
+  ko: '또다시 시작하는 : A'
+  ja: 再び始まる：A
+event_schooloflock_06_e_title:
+  en: 'Starting Again: B'
+  ko: '또다시 시작하는 : B'
+  ja: 再び始まる：B
+event_schooloflock_epilogue_title:
+  en: Off the Record.
+  ko: Off The Record
+  ja: Off The Record
+event_redash_prologue_title:
+  en: Headlocks and Briefings
+  ko: 헤드락과 브리핑
+  ja: ヘッドロックとブリーフィング
+event_redash1_01_s_title:
+  en: 'Last Resort: A'
+  ko: '마지막 수단 : A'
+  ja: 最後の手段：A
+event_redash1_01_e_title:
+  en: 'Last Resort: B'
+  ko: '마지막 수단 : B'
+  ja: 最後の手段：B
+event_redash1_02_s_title:
+  en: 'A Farewell Gift: A'
+  ko: '이별의 선물 : A'
+  ja: 別れのプレゼント：A
+event_redash1_02_e_title:
+  en: 'A Farewell Gift: B'
+  ko: '이별의 선물 : B'
+  ja: 別れのプレゼント：B
+event_redash1_03_s_title:
+  en: 'Red and White: A'
+  ko: '빨강과 하양 : A'
+  ja: 赤と白：A
+event_redash1_03_e_title:
+  en: 'Red and White: B'
+  ko: '빨강과 하양 : B'
+  ja: 赤と白：B
+event_redash1_intermission_01_title:
+  en: Like a Cat with a Mouse
+  ko: 농락당하는
+  ja: もてあそばれる
+event_redash1_04_s_title:
+  en: 'A Fitting End: A'
+  ko: '좋은 마무리 : A'
+  ja: いい終わり方：A
+event_redash1_04_e_title:
+  en: 'A Fitting End: B'
+  ko: '좋은 마무리 : B'
+  ja: いい終わり方：B
+event_redash1_05_s_title:
+  en: 'The Battle Begins: A'
+  ko: '결전 개시 : A'
+  ja: 決戦開始：A
+event_redash1_05_e_title:
+  en: 'The Battle Begins: B'
+  ko: '결전 개시 : B'
+  ja: 決戦開始：B
+event_redash1_06_s_title:
+  en: 'Turn and Walk Away: A'
+  ko: '뒤돌아 걷다 : A'
+  ja: 振り向いて歩く：A
+event_redash1_06_e_title:
+  en: 'Turn and Walk Away: B'
+  ko: '뒤돌아 걷다 : B'
+  ja: 振り向いて歩く：B
+event_redash2_01_s_title:
+  en: 'Passing of Time: A'
+  ko: '시간이 흐른 뒤 : A'
+  ja: 時が流れて：A
+event_redash2_01_e_title:
+  en: 'Passing of Time: B'
+  ko: '시간이 흐른 뒤 : B'
+  ja: 時が流れて：B
+event_redash2_02_s_title:
+  en: 'Proud Memories: A'
+  ko: '긍지 높은 추억 : A'
+  ja: 誇り高き思い出：A
+event_redash2_02_e_title:
+  en: 'Proud Memories: B'
+  ko: '긍지 높은 추억 : B'
+  ja: 誇り高き思い出：B
+event_redash2_03_s_title:
+  en: 'Gratitude: A'
+  ko: '감사를 : A'
+  ja: 感謝を：A
+event_redash2_03_e_title:
+  en: 'Gratitude: B'
+  ko: '감사를 : B'
+  ja: 感謝を：B
+event_redash2_intermission_01_title:
+  en: Loneliness and Regret
+  ko: 그리움과 후회
+  ja: 懐かしさと後悔
+event_redash2_04_s_title:
+  en: 'To Bid You Farewell: A'
+  ko: '멋진 이별을 위해 : A'
+  ja: 素敵な別れ：A
+event_redash2_04_e_title:
+  en: 'To Bid You Farewell: B'
+  ko: '멋진 이별을 위해 : B'
+  ja: 素敵な別れ：B
+event_redash2_05_s_title:
+  en: 'Flashes of Red: A'
+  ko: '붉은 궤적 : A'
+  ja: 赤い軌跡：A
+event_redash2_05_e_title:
+  en: 'Flashes of Red: B'
+  ko: '붉은 궤적 : B'
+  ja: 赤い軌跡：B
+event_redash2_06_s_title:
+  en: 'Walk Away with a Smile: A'
+  ko: '미소와 함께 뒤돌아 걷다 : A'
+  ja: 笑顔と共に：A
+event_redash2_06_e_title:
+  en: 'Walk Away with a Smile: B'
+  ko: '미소와 함께 뒤돌아 걷다 : B'
+  ja: 笑顔と共に：B
+event_redash2_epilogue_title:
+  en: Red on Red
+  ko: 붉은색과 붉은색
+  ja: 赤と赤
+event_brandnewyear_prologue_title:
+  en: New Year's Preparations
+  ko: 새해맞이 준비
+  ja: 新年の準備
+event_brandnewyear_01_title_a:
+  en: 'New Year, New Boat Party: A'
+  ko: '새해 첫 선상 파티 : A'
+  ja: 新年初の船上パーティー：A
+event_brandnewyear_01_title_b:
+  en: 'New Year, New Boat Party: B'
+  ko: '새해 첫 선상 파티 : B'
+  ja: 新年初の船上パーティー：B
+event_brandnewyear_02_title_a:
+  en: 'New Year, New Coffee: A'
+  ko: '새해 첫 커피 : A'
+  ja: 新年初のコーヒー：A
+event_brandnewyear_02_title_b:
+  en: 'New Year, New Coffee: B'
+  ko: '새해 첫 커피 : B'
+  ja: 新年初のコーヒー：B
+event_brandnewyear_03_title_a:
+  en: 'New Year, New Performance: A'
+  ko: '새해 첫 연주 : A'
+  ja: 新年初の演奏：A
+event_brandnewyear_03_title_b:
+  en: 'New Year, New Performance: B'
+  ko: '새해 첫 연주 : B'
+  ja: 新年初の演奏：B
+event_brandnewyear_intermission_title:
+  en: New Year, New Operation.
+  ko: 새해 첫 임무
+  ja: 新年初の任務
+event_brandnewyear_04_title_a:
+  en: 'New Year, New Excursion: A'
+  ko: '새해 첫 지상 : A'
+  ja: 新年初の地上：A
+event_brandnewyear_04_title_b:
+  en: 'New Year, New Excursion: B'
+  ko: '새해 첫 지상 : B'
+  ja: 新年初の地上：B
+event_brandnewyear_05_title_a:
+  en: 'New Year, New Mission Accomplished: A'
+  ko: '새해 첫 임무 완수 : A'
+  ja: 新年初の任務達成：A
+event_brandnewyear_05_title_b:
+  en: 'New Year, New Mission Accomplished: B'
+  ko: '새해 첫 임무 완수 : B'
+  ja: 新年初の任務達成：B
+event_brandnewyear_06_title_a:
+  en: 'New Year, New Sea: A'
+  ko: '새해 첫 바다 : A'
+  ja: 新年初の海：A
+event_brandnewyear_06_title_b:
+  en: 'New Year, New Sea: B'
+  ko: '새해 첫 바다 : B'
+  ja: 新年初の海：B
+event_brandnewyear_epilogue_title:
+  en: Brand New Year
+  ko: Brand New Year
+  ja: Brand New Year
+event_hightechtoy_prologue_title:
+  en: The Heroes' Lowest Performance
+  ko: 히어로! 최하위 실적이다!
+  ja: ヒーロー！最下位の実績だ！
+event_hightechtoy_01_title_a:
+  en: 'Heroes, to the Surface!: A'
+  ko: '히어로와 함께 지상을! : A'
+  ja: 'ヒーローと共に地上へ！ : A'
+event_hightechtoy_01_title_b:
+  en: 'Heroes, to the Surface!: B'
+  ko: '히어로와 함께 지상을! : B'
+  ja: 'ヒーローと共に地上へ！ : B'
+event_hightechtoy_02_title_a:
+  en: 'A Heroic Rescue: A'
+  ko: '히어로와 함께 구조를! : A'
+  ja: 'ヒーローと共に救助を！ : A'
+event_hightechtoy_02_title_b:
+  en: 'A Heroic Rescue: B'
+  ko: '히어로와 함께 구조를! : B'
+  ja: 'ヒーローと共に救助を！ : B'
+event_hightechtoy_03_title_a:
+  en: 'What We Need is a Hero: A'
+  ko: '히어로가 되어야 한다! : A'
+  ja: 'ヒーローにならなければ！ : A'
+event_hightechtoy_03_title_b:
+  en: 'What We Need is a Hero: B'
+  ko: '히어로가 되어야 한다! : B'
+  ja: 'ヒーローにならなければ！ : B'
+event_hightechtoy_intermission_title:
+  en: Heroes and Ordinary Nikkes
+  ko: 히어로와 일반 니케
+  ja: ヒーローと一般ニケ
+event_hightechtoy_04_title_a:
+  en: 'A Moment of Distress: A'
+  ko: '히어로와 함께 조난을! : A'
+  ja: 'ヒーローと共に遭難を！ : A'
+event_hightechtoy_04_title_b:
+  en: 'A Moment of Distress: B'
+  ko: '히어로와 함께 조난을! : B'
+  ja: 'ヒーローと共に遭難を！ : B'
+event_hightechtoy_05_title_a:
+  en: 'Heroes and Toys: A'
+  ko: '히어로와 장난감 : A'
+  ja: 'ヒーローとおもちゃ : A'
+event_hightechtoy_05_title_b:
+  en: 'Heroes and Toys: B'
+  ko: '히어로와 장난감 : B'
+  ja: 'ヒーローとおもちゃ : B'
+event_hightechtoy_06_title_a:
+  en: 'For the Hero: A'
+  ko: '투 더 히어로! : A'
+  ja: 'トゥーザヒーロー！ : A'
+event_hightechtoy_06_title_b:
+  en: 'For the Hero: B'
+  ko: '투 더 히어로! : B'
+  ja: 'トゥーザヒーロー！ : B'
+event_hightechtoy_epilogue_title:
+  en: Hero or Toy?
+  ko: 장난감인가 히어로인가
+  ja: おもちゃか、ヒーローか
+event_goldenship_prologue_title:
+  en: An Adventure Foretold
+  ko: 모험의 시작은 황금 배
+  ja: 冒険の始まりは黄金の船
+event_goldenship_01_s_title:
+  en: 'Pieces of Map to the Golden Ship: A'
+  ko: '황금 배의 지도 조각 : A'
+  ja: 黄金の船の地図の切れ端：A
+event_goldenship_01_e_title:
+  en: 'Pieces of Map to the Golden Ship: B'
+  ko: '황금 배의 지도 조각 : B'
+  ja: 黄金の船の地図の切れ端：B
+event_goldenship_02_s_title:
+  en: 'Those in Search of the Golden Ship: A'
+  ko: '황금 배를 찾는 이들 : A'
+  ja: 黄金の船を探す者たち：A
+event_goldenship_02_e_title:
+  en: 'Those in Search of the Golden Ship: B'
+  ko: '황금 배를 찾는 이들 : B'
+  ja: 黄金の船を探す者たち：B
+event_goldenship_03_s_title:
+  en: 'Searching for the Golden Ship: A'
+  ko: '황금 배를 찾아서 : A'
+  ja: 黄金の船を探して：A
+event_goldenship_03_e_title:
+  en: 'Searching for the Golden Ship: B'
+  ko: '황금 배를 찾아서 : B'
+  ja: 黄金の船を探して：B
+event_goldenship_intermission_01_title:
+  en: Towards the Golden Ship
+  ko: 황금 배를 향하여
+  ja: 黄金の船に向かって
+event_goldenship_04_s_title:
+  en: 'Golden Ship, Discovered?: A'
+  ko: '황금 배 발견? : A'
+  ja: 黄金の船、発見？：A
+event_goldenship_04_e_title:
+  en: 'Golden Ship, Discovered?: B'
+  ko: '황금 배 발견? : B'
+  ja: 黄金の船、発見？：B
+event_goldenship_05_s_title:
+  en: 'Traces of the Golden Ship: A'
+  ko: '황금 배의 흔적을 찾아서 : A'
+  ja: 黄金の船の痕跡を探して：A
+event_goldenship_05_e_title:
+  en: 'Traces of the Golden Ship: B'
+  ko: '황금 배의 흔적을 찾아서 : B'
+  ja: 黄金の船の痕跡を探して：B
+event_goldenship_06_s_title:
+  en: 'Golden Ship: A'
+  ko: '황금 배 : A'
+  ja: 黄金の船：A
+event_goldenship_06_e_title:
+  en: 'Golden Ship: B'
+  ko: '황금 배 : B'
+  ja: 黄金の船：B
+event_goldenship_epilogue_title:
+  en: Brilliant Memories of Adventure
+  ko: 모험의 추억은 황금빛으로
+  ja: 冒険の思い出は黄金色に
+event_dazzlingcupid_prologue_title:
+  en: Substitute Teacher
+  ko: 졸업반의 임시 선생님
+  ja: 卒業直前の臨時教師
+event_dazzlingcupid_01_s_title:
+  en: 'Shopping Mall Event: A'
+  ko: '쇼핑몰 이벤트 : A'
+  ja: ショッピングモールのイベント：A
+event_dazzlingcupid_01_e_title:
+  en: 'Shopping Mall Event: B'
+  ko: '쇼핑몰 이벤트 : B'
+  ja: ショッピングモールのイベント：B
+event_dazzlingcupid_02_s_title:
+  en: 'The Owner of the Arrow: A'
+  ko: '그 화살의 주인은 : A'
+  ja: その矢の持ち主は：A
+event_dazzlingcupid_02_e_title:
+  en: 'The Owner of the Arrow: B'
+  ko: '그 화살의 주인은 : B'
+  ja: その矢の持ち主は：B
+event_dazzlingcupid_03_s_title:
+  en: 'First Date: A'
+  ko: '첫 데이트의 주인공 : A'
+  ja: 初デートの主人公：A
+event_dazzlingcupid_03_e_title:
+  en: 'First Date: B'
+  ko: '첫 데이트의 주인공 : B'
+  ja: 初デートの主人公：B
+event_dazzlingcupid_intermission_01_title:
+  en: The Reason for Wanting the Arrow
+  ko: 화살이 갖고 싶은 이유
+  ja: 矢が欲しい理由
+event_dazzlingcupid_04_s_title:
+  en: 'Three-Way Date: A'
+  ko: '세 사람의 묘한 데이트 : A'
+  ja: 3人の奇妙なデート：A
+event_dazzlingcupid_04_e_title:
+  en: 'Three-Way Date: B'
+  ko: '세 사람의 묘한 데이트 : B'
+  ja: 3人の奇妙なデート：B
+event_dazzlingcupid_05_s_title:
+  en: 'Last Date: A'
+  ko: '마지막 데이트 : A'
+  ja: 最後のデート：A
+event_dazzlingcupid_05_e_title:
+  en: 'Last Date: B'
+  ko: '마지막 데이트 : B'
+  ja: 最後のデート：B
+event_dazzlingcupid_06_s_title:
+  en: 'The Arrow''s Final Destination: A'
+  ko: '그 화살의 최종 목적지 : A'
+  ja: その矢の行方は：A
+event_dazzlingcupid_06_e_title:
+  en: 'The Arrow''s Final Destination: B'
+  ko: '그 화살의 최종 목적지 : B'
+  ja: その矢の行方は：B
+event_dazzlingcupid_epilogue_title:
+  en: Once a Friend, Always a Friend
+  ko: 한번 친구는 영원한 친구
+  ja: 永遠の友だち
+event_bluewaterisland_prologue_title:
+  en: Turning Point
+  ko: 티핑 포인트
+  ja: ティッピングポイント
+event_bluewaterisland1_01_s_title:
+  en: 'The Important Thing is Mindset: A'
+  ko: '중요한 것은 마음가짐 : A'
+  ja: 大事なのは気の持ちよう：A
+event_bluewaterisland1_01_e_title:
+  en: 'The Important Thing is Mindset: B'
+  ko: '중요한 것은 마음가짐 : B'
+  ja: 大事なのは気の持ちよう：B
+event_bluewaterisland1_02_s_title:
+  en: 'Mysterious Sea Road: A'
+  ko: '신비로운 바닷길 : A'
+  ja: 神秘的な海の道：A
+event_bluewaterisland1_02_e_title:
+  en: 'Mysterious Sea Road: B'
+  ko: '신비로운 바닷길 : B'
+  ja: 神秘的な海の道：B
+event_bluewaterisland1_03_s_title:
+  en: 'Isolation: A'
+  ko: '고립 : A'
+  ja: 孤立：A
+event_bluewaterisland1_03_e_title:
+  en: 'Isolation: B'
+  ko: '고립 : B'
+  ja: 孤立：B
+event_bluewaterisland1_intermission_01_title:
+  en: Until the Tide Comes Again
+  ko: 다시 썰물이 오기까지
+  ja: 潮がまた引くまで
+event_bluewaterisland1_04_s_title:
+  en: 'Work and Play: A'
+  ko: '노동과 휴식 : A'
+  ja: 労働と休息：A
+event_bluewaterisland1_04_e_title:
+  en: 'Work and Play: B'
+  ko: '노동과 휴식 : B'
+  ja: 労働と休息：B
+event_bluewaterisland1_05_s_title:
+  en: 'Sea in a Bottle: A'
+  ko: '병 속의 바다 : A'
+  ja: 瓶の中の海：A
+event_bluewaterisland1_05_e_title:
+  en: 'Sea in a Bottle: B'
+  ko: '병 속의 바다 : B'
+  ja: 瓶の中の海：B
+event_bluewaterisland1_06_s_title:
+  en: 'True Vacation: A'
+  ko: '진정한 바캉스 : A'
+  ja: 真のバカンス：A
+event_bluewaterisland1_06_e_title:
+  en: 'True Vacation: B'
+  ko: '진정한 바캉스 : B'
+  ja: 真のバカンス：B
+event_bluewaterisland2_01_s_title:
+  en: 'Déjà Vu: A'
+  ko: '데자뷔 : A'
+  ja: デジャビュ：A
+event_bluewaterisland2_01_e_title:
+  en: 'Déjà Vu: B'
+  ko: '데자뷔 : B'
+  ja: デジャビュ：B
+event_bluewaterisland2_02_s_title:
+  en: 'Escape: A'
+  ko: '탈출 : A'
+  ja: 脱出：A
+event_bluewaterisland2_02_e_title:
+  en: 'Escape: B'
+  ko: '탈출 : B'
+  ja: 脱出：B
+event_bluewaterisland2_03_s_title:
+  en: 'Runaway: A'
+  ko: '도피 : A'
+  ja: 逃避：A
+event_bluewaterisland2_03_e_title:
+  en: 'Runaway: B'
+  ko: '도피 : B'
+  ja: 逃避：B
+event_bluewaterisland2_intermission_01_title:
+  en: What Flows
+  ko: 흘러가는 것
+  ja: 流れていくもの
+event_bluewaterisland2_04_s_title:
+  en: 'What Stays: A'
+  ko: '머무르는 것 : A'
+  ja: 留まること：A
+event_bluewaterisland2_04_e_title:
+  en: 'What Stays: B'
+  ko: '머무르는 것 : B'
+  ja: 留まること：B
+event_bluewaterisland2_05_s_title:
+  en: 'Summer Miracle: A'
+  ko: '여름의 기적 : A'
+  ja: 夏の奇跡：A
+event_bluewaterisland2_05_e_title:
+  en: 'Summer Miracle: B'
+  ko: '여름의 기적 : B'
+  ja: 夏の奇跡：B
+event_bluewaterisland2_06_s_title:
+  en: 'Homeward Bound: A'
+  ko: '다시 집으로 : A'
+  ja: 再び家へ：A
+event_bluewaterisland2_06_e_title:
+  en: 'Homeward Bound: B'
+  ko: '다시 집으로 : B'
+  ja: 再び家へ：B
+event_bluewaterisland2_epilogue_title:
+  en: 'Code Name: ???'
+  ko: 'CODE NAME : ???'
+  ja: 'CODE NAME : ???'
+event_seayouagain1_prologue_title:
+  en: Waiting Colleagues
+  ko: 어느 동료의 기다림
+  ja: ある仲間の期待
+event_seayouagain1_01_s_title:
+  en: 'Reunited with the Sea: A'
+  ko: '다시 바다 : A'
+  ja: 海への再帰：A
+event_seayouagain1_01_e_title:
+  en: 'Reunited with the Sea: B'
+  ko: '다시 바다 : B'
+  ja: 海への再帰：B
+event_seayouagain1_02_s_title:
+  en: 'The Reason We Must Go to the Sea: A'
+  ko: '바다로 가야만 하는 이유 : A'
+  ja: 海に行くべき理由：A
+event_seayouagain1_02_e_title:
+  en: 'The Reason We Must Go to the Sea: B'
+  ko: '바다로 가야만 하는 이유 : B'
+  ja: 海に行くべき理由：B
+event_seayouagain1_03_s_title:
+  en: 'Mission at the Sea: A'
+  ko: '바다에서의 임무 : A'
+  ja: 海での任務：A
+event_seayouagain1_03_e_title:
+  en: 'Mission at the Sea: B'
+  ko: '바다에서의 임무 : B'
+  ja: 海での任務：B
+event_seayouagain1_intermission_01_title:
+  en: Barbecue
+  ko: 바비큐 파티
+  ja: バーベキューパーティー
+event_seayouagain1_04_s_title:
+  en: 'Sunset, Sea, and Something: A'
+  ko: '노을, 바다, 그리고…? : A'
+  ja: 夕日、海、そして…？：A
+event_seayouagain1_04_e_title:
+  en: 'Sunset, Sea, and Something: B'
+  ko: '노을, 바다, 그리고…? : B'
+  ja: 夕日、海、そして…？：B
+event_seayouagain1_05_s_title:
+  en: 'Rapture Inside the Sea: A'
+  ko: '바닷속 랩쳐 : A'
+  ja: 海中ラプチャー：A
+event_seayouagain1_05_e_title:
+  en: 'Rapture Inside the Sea: B'
+  ko: '바닷속 랩쳐 : B'
+  ja: 海中ラプチャー：B
+event_seayouagain1_06_s_title:
+  en: 'Isolation: A'
+  ko: '고립 : A'
+  ja: 孤立：A
+event_seayouagain1_06_e_title:
+  en: 'Isolation: B'
+  ko: '고립 : B'
+  ja: 孤立：B
+event_seayouagain2_01_s_title:
+  en: 'What Can We Do?: A'
+  ko: '우린 무엇을 할 수 있는가 : A'
+  ja: 私たちにできること：A
+event_seayouagain2_01_e_title:
+  en: 'What Can We Do?: B'
+  ko: '우린 무엇을 할 수 있는가 : B'
+  ja: 私たちにできること：B
+event_seayouagain2_02_s_title:
+  en: 'Lighthouse: A'
+  ko: '등대 : A'
+  ja: 灯台：A
+event_seayouagain2_02_e_title:
+  en: 'Lighthouse: B'
+  ko: '등대 : B'
+  ja: 灯台：B
+event_seayouagain2_03_s_title:
+  en: 'Between a Rock and a Hard Place: A'
+  ko: '최후의 선택 : A'
+  ja: 最後の選択：A
+event_seayouagain2_03_e_title:
+  en: 'Between a Rock and a Hard Place: B'
+  ko: '최후의 선택 : B'
+  ja: 最後の選択：B
+event_seayouagain2_intermission_01_title:
+  en: Passing Kraken
+  ko: 크라켄을 지나치는 방법
+  ja: クラーケンの前を通過する方法
+event_seayouagain2_04_s_title:
+  en: 'Never Let Go: A'
+  ko: '절대로 놓지 않아 : A'
+  ja: 絶対に離さない：A
+event_seayouagain2_04_e_title:
+  en: 'Never Let Go: B'
+  ko: '절대로 놓지 않아 : B'
+  ja: 絶対に離さない：B
+event_seayouagain2_05_s_title:
+  en: 'The Ruler of the Sea: A'
+  ko: '바다 위에 군림해야 하는 자 : A'
+  ja: 海の上に君臨すべき者：A
+event_seayouagain2_05_e_title:
+  en: 'The Ruler of the Sea: B'
+  ko: '바다 위에 군림해야 하는 자 : B'
+  ja: 海の上に君臨すべき者：B
+event_seayouagain2_06_s_title:
+  en: 'The Aegis Squad: A'
+  ko: '이지스 스쿼드 : A'
+  ja: イージス部隊：A
+event_seayouagain2_06_e_title:
+  en: 'The Aegis Squad: B'
+  ko: '이지스 스쿼드 : B'
+  ja: イージス部隊：B
+event_seayouagain2_epilogue_title:
+  en: Faith in Others
+  ko: 어느 동료의 믿음
+  ja: ある仲間の信頼
+event_freezeacpu_prologue_title:
+  en: Joyful Halloween Preparation
+  ko: 즐거운 할로윈 준비
+  ja: 楽しいハロウィン準備
+event_freezeacpu_01_s_title:
+  en: 'Halloween Patrol Duty: A'
+  ko: '할로윈의 순찰 업무 : A'
+  ja: ハロウィンパトロール：A
+event_freezeacpu_01_e_title:
+  en: 'Halloween Patrol Duty: B'
+  ko: '할로윈의 순찰 업무 : B'
+  ja: ハロウィンパトロール：B
+event_freezeacpu_02_s_title:
+  en: 'Halloween Shopping: A'
+  ko: '할로윈 쇼핑 : A'
+  ja: ハロウィンショッピング：A
+event_freezeacpu_02_e_title:
+  en: 'Halloween Shopping: B'
+  ko: '할로윈 쇼핑 : B'
+  ja: ハロウィンショッピング：B
+event_freezeacpu_03_s_title:
+  en: 'Patrol Duty Starts: A'
+  ko: '순찰 업무 개시 : A'
+  ja: パトロール開始：A
+event_freezeacpu_03_e_title:
+  en: 'Patrol Duty Starts: B'
+  ko: '순찰 업무 개시 : B'
+  ja: パトロール開始：B
+event_freezeacpu_intermission_01_title:
+  en: The Costumed Woman
+  ko: 분장을 한 여자
+  ja: 仮装をした女
+event_freezeacpu_04_s_title:
+  en: 'Candy: A'
+  ko: '사탕 : A'
+  ja: キャンディ：A
+event_freezeacpu_04_e_title:
+  en: 'Candy: B'
+  ko: '사탕 : B'
+  ja: キャンディ：B
+event_freezeacpu_05_s_title:
+  en: 'Suspicious Candy: A'
+  ko: '미각을 잃는 사탕 : A'
+  ja: 味覚を失うキャンディ：A
+event_freezeacpu_05_e_title:
+  en: 'Suspicious Candy: B'
+  ko: '미각을 잃는 사탕 : B'
+  ja: 味覚を失うキャンディ：B
+event_freezeacpu_06_s_title:
+  en: 'Freeze! A.C.P.U.!: A'
+  ko: '멈춰라! A.C.P.U.다! : A'
+  ja: 動くな！A.C.P.U.だっ！：A
+event_freezeacpu_06_e_title:
+  en: 'Freeze! A.C.P.U.!: B'
+  ko: '멈춰라! A.C.P.U.다! : B'
+  ja: 動くな！A.C.P.U.だっ！：B
+event_freezeacpu_epilogue_title:
+  en: Meanwhile, Drake...
+  ko: 그 시각 드레이크는
+  ja: その頃、ドレイクは…
+event_dirtybackyard_prologue_title:
+  en: Initial False Accusations
+  ko: 누명의 시작
+  ja: 濡れ衣の始まり
+event_dirtybackyard_01_s_title:
+  en: 'Urgent Request for Aid: A'
+  ko: '간곡한 도움 요청 : A'
+  ja: 切実な助け：A
+event_dirtybackyard_01_e_title:
+  en: 'Urgent Request for Aid: B'
+  ko: '간곡한 도움 요청 : B'
+  ja: 切実な助け：B
+event_dirtybackyard_02_s_title:
+  en: 'Inferno: A'
+  ko: '아비규환 : A'
+  ja: 阿鼻叫喚：A
+event_dirtybackyard_02_e_title:
+  en: 'Inferno: B'
+  ko: '아비규환 : B'
+  ja: 阿鼻叫喚：B
+event_dirtybackyard_03_s_title:
+  en: 'Mist: A'
+  ko: '미스트 : A'
+  ja: ミスト：A
+event_dirtybackyard_03_e_title:
+  en: 'Mist: B'
+  ko: '미스트 : B'
+  ja: ミスト：B
+event_dirtybackyard_intermission_01_title:
+  en: Sugar's Dilemma
+  ko: 슈가의 사정
+  ja: シュガーの事情
+event_dirtybackyard_04_s_title:
+  en: 'Sixo: A'
+  ko: '식스오 : A'
+  ja: シックスオー：A
+event_dirtybackyard_04_e_title:
+  en: 'Sixo: B'
+  ko: '식스오 : B'
+  ja: シックスオー：B
+event_dirtybackyard_05_s_title:
+  en: 'Divergent Justice: A'
+  ko: '각자의 정의 : A'
+  ja: それぞれの正義：A
+event_dirtybackyard_05_e_title:
+  en: 'Divergent Justice: B'
+  ko: '각자의 정의 : B'
+  ja: それぞれの正義：B
+event_dirtybackyard_06_s_title:
+  en: 'End of Justice: A'
+  ko: '정의의 끝 : A'
+  ja: 正義の終わり：A
+event_dirtybackyard_06_e_title:
+  en: 'End of Justice: B'
+  ko: '정의의 끝 : B'
+  ja: 正義の終わり：B
+event_dirtybackyard_epilogue_title:
+  en: Trust
+  ko: 신뢰
+  ja: 信頼
+event_lionheart_prologue_title:
+  en: Beast of the Park
+  ko: 공원의 맹수
+  ja: 公園の猛獣
+event_lionheart_01_s_title:
+  en: 'Respect to the King of the Jungle: A'
+  ko: '사자의 왕에게 경의를 : A'
+  ja: 百獣の王に敬意を：A
+event_lionheart_01_e_title:
+  en: 'Respect to the King of the Jungle: B'
+  ko: '사자의 왕에게 경의를 : B'
+  ja: 百獣の王に敬意を：B
+event_lionheart_02_s_title:
+  en: 'Happy Zoo''s Vacation: A'
+  ko: '해피 주의 휴식 : A'
+  ja: ハッピーズーの休暇：A
+event_lionheart_02_e_title:
+  en: 'Happy Zoo''s Vacation: B'
+  ko: '해피 주의 휴식 : B'
+  ja: ハッピーズーの休暇：B
+event_lionheart_03_s_title:
+  en: 'Beasts of the Shelter: A'
+  ko: '보호소의 맹수 : A'
+  ja: シェルターの猛獣：A
+event_lionheart_03_e_title:
+  en: 'Beasts of the Shelter: B'
+  ko: '보호소의 맹수 : B'
+  ja: シェルターの猛獣：B
+event_lionheart_intermission_01_title:
+  en: Permission and Conditions
+  ko: 허락과 조건
+  ja: 許可と条件
+event_lionheart_04_s_title:
+  en: 'To the Homeland of the Beasts: A'
+  ko: '맹수들의 고향으로 : A'
+  ja: 猛獣たちの故郷へ：A
+event_lionheart_04_e_title:
+  en: 'To the Homeland of the Beasts: B'
+  ko: '맹수들의 고향으로 : B'
+  ja: 猛獣たちの故郷へ：B
+event_lionheart_05_s_title:
+  en: 'A Day on the Surface: A'
+  ko: '지상에서의 하루 : A'
+  ja: 地上での1日：A
+event_lionheart_05_e_title:
+  en: 'A Day on the Surface: B'
+  ko: '지상에서의 하루 : B'
+  ja: 地上での1日：B
+event_lionheart_06_s_title:
+  en: 'A Beast''s Rightful Place: A'
+  ko: '맹수가 있어야 할 곳 : A'
+  ja: 猛獣がいるべき場所：A
+event_lionheart_06_e_title:
+  en: 'A Beast''s Rightful Place: B'
+  ko: '맹수가 있어야 할 곳 : B'
+  ja: 猛獣がいるべき場所：B
+event_lionheart_epilogue_title:
+  en: The Price of Happiness
+  ko: 행복의 대가
+  ja: 幸せの代償
+event_lastkingdom1_prologue_title:
+  en: To the Kingdom
+  ko: 왕국으로
+  ja: 王国へ
+event_lastkingdom1_01_s_title:
+  en: 'Kingdom Life: A'
+  ko: '왕국 생활 : A'
+  ja: 王国生活：A
+event_lastkingdom1_01_e_title:
+  en: 'Kingdom Life: B'
+  ko: '왕국 생활 : B'
+  ja: 王国生活：B
+event_lastkingdom1_02_s_title:
+  en: 'Number One Citizen: A'
+  ko: '일등 백성 : A'
+  ja: 優秀な民：A
+event_lastkingdom1_02_e_title:
+  en: 'Number One Citizen: B'
+  ko: '일등 백성 : B'
+  ja: 優秀な民：B
+event_lastkingdom1_03_s_title:
+  en: 'A Place to Be Attached To: A'
+  ko: '마음 붙일 곳 : A'
+  ja: 心のよりどころ：A
+event_lastkingdom1_03_e_title:
+  en: 'A Place to Be Attached To: B'
+  ko: '마음 붙일 곳 : B'
+  ja: 心のよりどころ：B
+event_lastkingdom1_b01_e_title:
+  en: Defensive Battle
+  ko: 방어전
+  ja: 防衛戦
+event_lastkingdom1_intermission_title:
+  en: Decisive Moment
+  ko: 선택할 시간
+  ja: 選択の時
+event_lastkingdom1_b02_s_title:
+  en: 'Relentless Siege: A'
+  ko: '계속되는 공격 : A'
+  ja: 終わりのない攻撃：A
+event_lastkingdom1_b02_e_title:
+  en: 'Relentless Siege: B'
+  ko: '계속되는 공격 : B'
+  ja: 終わりのない攻撃：B
+event_lastkingdom1_04_s_title:
+  en: 'Seed of Hope: A'
+  ko: '희망의 씨앗 : A'
+  ja: 希望の種：A
+event_lastkingdom1_04_e_title:
+  en: 'Seed of Hope: B'
+  ko: '희망의 씨앗 : B'
+  ja: 希望の種：B
+event_lastkingdom1_05_s_title:
+  en: 'The Ultimate Sacrifice: A'
+  ko: '그 사명에 목숨을 : A'
+  ja: その使命に命を：A
+event_lastkingdom1_05_e_title:
+  en: 'The Ultimate Sacrifice: B'
+  ko: '그 사명에 목숨을 : B'
+  ja: その使命に命を：B
+event_lastkingdom1_06_s_title:
+  en: 'Royal Procession: A'
+  ko: '왕의 행차: A'
+  ja: 王の出征：A
+event_lastkingdom1_06_e_title:
+  en: 'Royal Procession: B'
+  ko: '왕의 행차: B'
+  ja: 王の出征：B
+event_lastkingdom1_b03_s_title:
+  en: 'Pioneers: A'
+  ko: '선구자들 : A'
+  ja: 先を駆ける者たち：A
+event_lastkingdom1_b03_e_title:
+  en: 'Pioneers: B'
+  ko: '선구자들 : B'
+  ja: 先を駆ける者たち：B
+event_lastkingdom2_01_s_title:
+  en: 'Low Odds: A'
+  ko: '낮은 승산 : A'
+  ja: 低い勝算：A
+event_lastkingdom2_01_e_title:
+  en: 'Low Odds: B'
+  ko: '낮은 승산 : B'
+  ja: 低い勝算：B
+event_lastkingdom2_b01_s_title:
+  en: 'Finite and Infinite: A'
+  ko: '유한과 무한 : A'
+  ja: 有限と無限：A
+event_lastkingdom2_b01_e_title:
+  en: 'Finite and Infinite: B'
+  ko: '유한과 무한 : B'
+  ja: 有限と無限：B
+event_lastkingdom2_02_s_title:
+  en: 'Intruders: A'
+  ko: '침입자 : A'
+  ja: 侵入者：A
+event_lastkingdom2_02_e_title:
+  en: 'Intruders: B'
+  ko: '침입자 : B'
+  ja: 侵入者：B
+event_lastkingdom2_03_s_title:
+  en: 'Clashing Swords: A'
+  ko: '부딪히는 검 : A'
+  ja: ぶつかり合う剣：A
+event_lastkingdom2_03_e_title:
+  en: 'Clashing Swords: B'
+  ko: '부딪히는 검 : B'
+  ja: ぶつかり合う剣：B
+event_lastkingdom2_intermission_title:
+  en: My Place
+  ko: 나만의 장소
+  ja: 自分だけの場所
+event_lastkingdom2_04_s_title:
+  en: 'Shaky Heart: A'
+  ko: '흔들리는 마음 : A'
+  ja: 揺らぐ心：A
+event_lastkingdom2_04_e_title:
+  en: 'Shaky Heart: B'
+  ko: '흔들리는 마음 : B'
+  ja: 揺らぐ心：B
+event_lastkingdom2_b02_s_title:
+  en: 'Declaration of War: A'
+  ko: '선전포고 : A'
+  ja: 宣戦布告：A
+event_lastkingdom2_b02_e_title:
+  en: 'Declaration of War: B'
+  ko: '선전포고 : B'
+  ja: 宣戦布告：B
+event_lastkingdom2_05_s_title:
+  en: 'Awakened Power: A'
+  ko: '각성하는 힘 : A'
+  ja: 覚醒する力：A
+event_lastkingdom2_05_e_title:
+  en: 'Awakened Power: B'
+  ko: '각성하는 힘 : B'
+  ja: 覚醒する力：B
+event_lastkingdom2_b03_s_title:
+  en: 'Final Defense: A'
+  ko: '최종 방어전 : A'
+  ja: 最終防衛戦：A
+event_lastkingdom2_b03_e_title:
+  en: 'Final Defense: B'
+  ko: '최종 방어전 : B'
+  ja: 最終防衛戦：B
+event_lastkingdom2_06_s_title:
+  en: 'Last Kingdom: A'
+  ko: '최후의 왕국 : A'
+  ja: 最後の王国：A
+event_lastkingdom2_06_e_title:
+  en: 'Last Kingdom: B'
+  ko: '최후의 왕국 : B'
+  ja: 最後の王国：B
+event_lastkingdom2_epilogue_title:
+  en: The King and Queen
+  ko: 왕과 여왕
+  ja: 王と女王
+event_newyearnewsword_prologue_title:
+  en: The Last Night of the Year
+  ko: 1년의 마지막 밤
+  ja: 一年の最後の夜
+event_newyearnewsword_01_s_title:
+  en: 'Encounter Under the Moonlight: A'
+  ko: '달빛 아래의 만남 : A'
+  ja: 月明かりの下の出会い：A
+event_newyearnewsword_01_e_title:
+  en: 'Encounter Under the Moonlight: B'
+  ko: '달빛 아래의 만남 : B'
+  ja: 月明かりの下の出会い：B
+event_newyearnewsword_02_s_title:
+  en: 'Sisters of the Sword: A'
+  ko: '검을 든 자매 : A'
+  ja: 剣を持った姉妹：A
+event_newyearnewsword_02_e_title:
+  en: 'Sisters of the Sword: B'
+  ko: '검을 든 자매 : B'
+  ja: 剣を持った姉妹：B
+event_newyearnewsword_03_s_title:
+  en: 'Painting a Bright Future: A'
+  ko: '장밋빛 미래를 그리며 : A'
+  ja: バラ色の未来を描きながら：A
+event_newyearnewsword_03_e_title:
+  en: 'Painting a Bright Future: B'
+  ko: '장밋빛 미래를 그리며 : B'
+  ja: バラ色の未来を描きながら：B
+event_newyearnewsword_intermission_01_title:
+  en: Nothing is Eternal
+  ko: 영원한 것은 없음을
+  ja: 永遠などない
+event_newyearnewsword_04_s_title:
+  en: 'Seed of Discord: A'
+  ko: '분란의 씨앗 : A'
+  ja: 争いの種：A
+event_newyearnewsword_04_e_title:
+  en: 'Seed of Discord: B'
+  ko: '분란의 씨앗 : B'
+  ja: 争いの種：B
+event_newyearnewsword_05_s_title:
+  en: 'Like a Flower in Bloom: A'
+  ko: '붉게 만개한 꽃처럼 : A'
+  ja: 満開の紅い花のように：A
+event_newyearnewsword_05_e_title:
+  en: 'Like a Flower in Bloom: B'
+  ko: '붉게 만개한 꽃처럼 : B'
+  ja: 満開の紅い花のように：B
+event_newyearnewsword_06_s_title:
+  en: 'Fleetly Fading: A'
+  ko: '화무십일홍 : A'
+  ja: 花無十日紅：A
+event_newyearnewsword_06_e_title:
+  en: 'Fleetly Fading: B'
+  ko: '화무십일홍 : B'
+  ja: 花無十日紅：B
+event_newyearnewsword_epilogue_title:
+  en: To my Beloved Sister
+  ko: 사랑하는 언니에게
+  ja: 大好きな姉さんへ
+event_neverland1_prologue_title:
+  en: Hot Spring Discovered
+  ko: 온천 발견?
+  ja: 温泉発見？
+event_neverland1_01_s_title:
+  en: 'Search for the Hot Spring: A'
+  ko: '온천 수색 임무 : A'
+  ja: 温泉捜索任務：A
+event_neverland1_01_e_title:
+  en: 'Search for the Hot Spring: B'
+  ko: '온천 수색 임무 : B'
+  ja: 温泉捜索任務：B
+event_neverland1_02_s_title:
+  en: 'Curse: A'
+  ko: '징크스 : A'
+  ja: ジンクス：A
+event_neverland1_02_e_title:
+  en: 'Curse: B'
+  ko: '징크스 : B'
+  ja: ジンクス：B
+event_neverland1_03_s_title:
+  en: 'Snowfield Hot Spring: A'
+  ko: '설온장 : A'
+  ja: 雪見温泉：A
+event_neverland1_03_e_title:
+  en: 'Snowfield Hot Spring: B'
+  ko: '설온장 : B'
+  ja: 雪見温泉：B
+event_neverland1_Intermission_01_title:
+  en: Shaky Friendship
+  ko: 흔들리는 우정
+  ja: 揺れる友情
+event_neverland1_04_s_title:
+  en: 'How to Make a Merry Christmas: A'
+  ko: '행복한 크리스마스를 보내는 법 : A'
+  ja: 幸せなクリスマスの過ごし方：A
+event_neverland1_04_e_title:
+  en: 'How to Make a Merry Christmas: B'
+  ko: '행복한 크리스마스를 보내는 법 : B'
+  ja: 幸せなクリスマスの過ごし方：B
+event_neverland1_05_s_title:
+  en: 'A Merry Christmas?: A'
+  ko: '행복한 크리스마스? : A'
+  ja: 幸せなクリスマス？：A
+event_neverland1_05_e_title:
+  en: 'A Merry Christmas?: B'
+  ko: '행복한 크리스마스? : B'
+  ja: 幸せなクリスマス？：B
+event_neverland1_06_s_title:
+  en: 'Mica and Belorta: A'
+  ko: '미카와 벨로타 : A'
+  ja: ミカとベロータ：A
+event_neverland1_06_e_title:
+  en: 'Mica and Belorta: B'
+  ko: '미카와 벨로타 : B'
+  ja: ミカとベロータ：B
+event_neverland2_01_s_title:
+  en: 'Christmas Nightmare: A'
+  ko: '크리스마스의 악몽 : A'
+  ja: クリスマスの悪夢：A
+event_neverland2_01_e_title:
+  en: 'Christmas Nightmare: B'
+  ko: '크리스마스의 악몽 : B'
+  ja: クリスマスの悪夢：B
+event_neverland2_02_s_title:
+  en: 'Life and Death: A'
+  ko: '죽음과 삶 : A'
+  ja: 生と死：A
+event_neverland2_02_e_title:
+  en: 'Life and Death: B'
+  ko: '죽음과 삶 : B'
+  ja: 生と死：B
+event_neverland2_03_s_title:
+  en: 'Finding Hope: A'
+  ko: '희망을 찾아서 : A'
+  ja: 希望を探して：A
+event_neverland2_03_e_title:
+  en: 'Finding Hope: B'
+  ko: '희망을 찾아서 : B'
+  ja: 希望を探して：B
+event_neverland2_Intermission_01_title:
+  en: Lucky Bunny
+  ko: 행운의 토끼
+  ja: 幸運のウサギ
+event_neverland2_04_s_title:
+  en: 'The Signal Flare of Hope: A'
+  ko: '희망의 신호탄 : A'
+  ja: 希望の信号弾：A
+event_neverland2_04_e_title:
+  en: 'Signal Flare of Hope: B'
+  ko: '희망의 신호탄 : B'
+  ja: 希望の信号弾：B
+event_neverland2_05_s_title:
+  en: 'A Light in the Dark: A'
+  ko: '시련 속의 빛 : A'
+  ja: 試練の中の光：A
+event_neverland2_05_e_title:
+  en: 'A Light in the Dark: B'
+  ko: '시련 속의 빛 : B'
+  ja: 試練の中の光：B
+event_neverland2_06_s_title:
+  en: 'An Undying Spark: A'
+  ko: '꺼지지 않는 불꽃 : A'
+  ja: 消えない花火：A
+event_neverland2_06_e_title:
+  en: 'An Undying Spark: B'
+  ko: '꺼지지 않는 불꽃 : B'
+  ja: 消えない花火：B
+event_neverland2_epilogue_title:
+  en: Friends Forever
+  ko: 영원한 친구
+  ja: 永遠の友だち
+event_darkhero_prologue_title:
+  en: Between Romance and Reality
+  ko: 로망과 현실 사이
+  ja: ロマンと現実の間
+event_darkhero_01_s_title:
+  en: 'Gamers: A'
+  ko: 'GAMERS : A'
+  ja: GAMERS：A
+event_darkhero_01_e_title:
+  en: 'Gamers: B'
+  ko: 'GAMERS : B'
+  ja: 'GAMERS : B'
+event_darkhero_02_s_title:
+  en: 'Fear is Not Easily Erased: A'
+  ko: '두려움은 쉽게 지워지지 않는다 : A'
+  ja: 恐れは簡単に消えない：A
+event_darkhero_02_e_title:
+  en: 'Fear is Not Easily Erased: B'
+  ko: '두려움은 쉽게 지워지지 않는다 : B'
+  ja: 恐れは簡単に消えない：B
+event_darkhero_03_s_title:
+  en: 'Hero of the Ark: A'
+  ko: 'The ARK HERO : A'
+  ja: 'The ARK HERO : A'
+event_darkhero_03_e_title:
+  en: 'Hero of the Ark: B'
+  ko: 'The ARK HERO : B'
+  ja: 'The ARK HERO : B'
+event_darkhero_intermission_01_title:
+  en: Irregular
+  ko: 이레귤러
+  ja: イレギュラー
+event_darkhero_04_s_title:
+  en: 'Principles to Live By: A'
+  ko: '무엇을 따르며 행동할 것인가 : A'
+  ja: 何のために：A
+event_darkhero_04_e_title:
+  en: 'Principles to Live By: B'
+  ko: '무엇을 따르며 행동할 것인가 : B'
+  ja: 何のために：B
+event_darkhero_05_s_title:
+  en: 'A Helping Hand: A'
+  ko: '서로를 위할 뿐 : A'
+  ja: ただお互いのために：A
+event_darkhero_05_e_title:
+  en: 'A Helping Hand: B'
+  ko: '서로를 위할 뿐 : B'
+  ja: ただお互いのために：B
+event_darkhero_06_s_title:
+  en: 'Never Retreat, Never Surrender: A'
+  ko: '그러니 물러서지 말고 일어서라 : A'
+  ja: 退かず、立ち上がれ：A
+event_darkhero_06_e_title:
+  en: 'Never Retreat, Never Surrender: B'
+  ko: '그러니 물러서지 말고 일어서라 : B'
+  ja: 退かず、立ち上がれ：B
+event_darkhero_epilogue_title:
+  en: Dark Hero
+  ko: DARK HERO
+  ja: DARK HERO
+event_alonesurvivor_prologue_title:
+  en: A Survivalist on Paper
+  ko: 책상머리 생존가
+  ja: 机上の生存者
+event_alonesurvivor_01_s_title:
+  en: 'Newbie of the North: A'
+  ko: '북부의 신입 : A'
+  ja: 北部の新人：A
+event_alonesurvivor_01_e_title:
+  en: Newbie of the North:B
+  ko: '북부의 신입 : B'
+  ja: 北部の新人：B
+event_alonesurvivor_02_s_title:
+  en: 'Theory and Practice: A'
+  ko: '이론과 실전 : A'
+  ja: 理論と実践：A
+event_alonesurvivor_02_e_title:
+  en: 'Theory and Practice: B'
+  ko: '이론과 실전 : B'
+  ja: 理論と実践：B
+event_alonesurvivor_03_s_title:
+  en: 'Overpayment: A'
+  ko: '과유불급 : A'
+  ja: 過ぎたるはなお：A
+event_alonesurvivor_03_e_title:
+  en: 'Overpayment: B'
+  ko: '과유불급 : B'
+  ja: 過ぎたるはなお：B
+event_alonesurvivor_intermission_01_title:
+  en: Stranded
+  ko: 조난
+  ja: 遭難
+event_alonesurvivor_04_s_title:
+  en: 'Lone Survivalists: A'
+  ko: '고독한 생존가들 : A'
+  ja: 孤独な生存者たち：A
+event_alonesurvivor_04_e_title:
+  en: 'Lonely Survivalists: B'
+  ko: '고독한 생존가들 : B'
+  ja: 孤独な生存者たち：B
+event_alonesurvivor_05_s_title:
+  en: 'Time to Move: A'
+  ko: '움직여야 할 때 : A'
+  ja: 動かなければならない時：A
+event_alonesurvivor_05_e_title:
+  en: 'Time to Move: B'
+  ko: '움직여야 할 때 : B'
+  ja: 動かなければならない時：B
+event_alonesurvivor_06_s_title:
+  en: 'Unlimited: A'
+  ko: '언리미티드 : A'
+  ja: アンリミテッド：A
+event_alonesurvivor_06_e_title:
+  en: 'Unlimited: B'
+  ko: '언리미티드 : B'
+  ja: アンリミテッド：B
+event_alonesurvivor_epilogue_title:
+  en: The Future Continues
+  ko: 이어지는 미래
+  ja: 続く未来
+event_perfectmaid_prologue_title:
+  en: What is Perfection?
+  ko: 완벽한 메이드란
+  ja: 完璧なメイドとは
+event_perfectmaid_01_s_title:
+  en: 'Sudden Maids: A'
+  ko: '갑자기 날아든 메이드 : A'
+  ja: 飛び込みメイド：A
+event_perfectmaid_01_e_title:
+  en: 'Sudden Maids: B'
+  ko: '갑자기 날아든 메이드 : B'
+  ja: 飛び込みメイド：B
+event_perfectmaid_02_s_title:
+  en: 'Maid for You in Crisis: A'
+  ko: '위기의 메이드 포 유 : A'
+  ja: ピンチのメイド・フォー・ユー：A
+event_perfectmaid_02_e_title:
+  en: 'Maid For You in Crisis: B'
+  ko: '위기의 메이드 포 유 : B'
+  ja: ピンチのメイド・フォー・ユー：B
+event_perfectmaid_03_s_title:
+  en: 'Maid Cafe''s Temporary Maids: A'
+  ko: '메이드 카페의 임시 메이드 : A'
+  ja: メイドカフェの臨時メイド：A
+event_perfectmaid_03_e_title:
+  en: 'Maid Cafe''s Temporary Maids: B'
+  ko: '메이드 카페의 임시 메이드 : B'
+  ja: メイドカフェの臨時メイド：B
+event_perfectmaid_intermission_01_title:
+  en: A Maid's Awareness
+  ko: 그 메이드의 자각
+  ja: メイドとしての自覚
+event_perfectmaid_04_s_title:
+  en: 'Maid of Anguish and Oath: A'
+  ko: '고뇌와 맹세의 메이드 : A'
+  ja: 苦悩と誓いのメイド：A
+event_perfectmaid_04_e_title:
+  en: 'Maid of Anguish and Oath: B'
+  ko: '고뇌와 맹세의 메이드 : B'
+  ja: 苦悩と誓いのメイド：B
+event_perfectmaid_05_s_title:
+  en: 'To the Maid Striving for Perfection: A'
+  ko: '완벽함을 향해 가는 메이드에게 : A'
+  ja: 完璧なメイドへ：A
+event_perfectmaid_05_e_title:
+  en: 'To the Maid Striving for Perfection: B'
+  ko: '완벽함을 향해 가는 메이드에게 : B'
+  ja: 完璧なメイドへ：B
+event_perfectmaid_06_s_title:
+  en: 'PERFECT MAID: A'
+  ko: 'PERFECT MAID : A'
+  ja: 'PERFECT MAID : A'
+event_perfectmaid_06_e_title:
+  en: 'PERFECT MAID: B'
+  ko: 'PERFECT MAID : B'
+  ja: 'PERFECT MAID : B'
+event_perfectmaid_epilogue_title:
+  en: Perfect Maid's Epilogue
+  ko: 완벽했던 메이드의 후일담
+  ja: 完璧だったメイドの後日談
+event_boomsday_prologue_title:
+  en: A Girl's Dream
+  ko: 소녀의 꿈
+  ja: 少女の夢
+event_boomsday_01_s_title:
+  en: 'Game Over: A'
+  ko: '게임 오버 : A'
+  ja: ゲームオーバー：A
+event_boomsday_01_e_title:
+  en: 'Game Over: B'
+  ko: '게임 오버 : B'
+  ja: ゲームオーバー：B
+event_boomsday_02_s_title:
+  en: 'Last Coin: A'
+  ko: '라스트 코인 : A'
+  ja: 最後のコイン：A
+event_boomsday_02_e_title:
+  en: 'Last Coin: B'
+  ko: '라스트 코인 : B'
+  ja: 最後のコイン：B
+event_boomsday_03_s_title:
+  en: 'Parallel Lines: A'
+  ko: '평행선 : A'
+  ja: 平行線：A
+event_boomsday_03_e_title:
+  en: 'Parallel Lines: B'
+  ko: '평행선 : B'
+  ja: 平行線：B
+event_boomsday_intermission_01_title:
+  en: The Day the Truth Crumbled
+  ko: 진리가 무너진 날
+  ja: 真理が崩れた日
+event_boomsday_04_s_title:
+  en: 'One Step Forward: A'
+  ko: '한 발 나아갈 때 : A'
+  ja: 一歩踏み出す時：A
+event_boomsday_04_e_title:
+  en: 'One Step Forward: B'
+  ko: '한 발 나아갈 때 : B'
+  ja: 一歩踏み出す時：B
+event_boomsday_05_s_title:
+  en: 'Overcoming Fear: A'
+  ko: '두려움을 극복하고 : A'
+  ja: 恐怖を乗り越えて：A
+event_boomsday_05_e_title:
+  en: 'Overcoming Fear: B'
+  ko: '두려움을 극복하고 : B'
+  ja: 恐怖を乗り越えて：B
+event_boomsday_06_s_title:
+  en: 'BOOMS DAY: A'
+  ko: 'BOOMS DAY : A'
+  ja: 'BOOMS DAY : A'
+event_boomsday_06_e_title:
+  en: 'BOOMS DAY: B'
+  ko: 'BOOMS DAY : B'
+  ja: 'BOOMS DAY : B'
+event_boomsday_epilogue_title:
+  en: Their Dreams
+  ko: 그들은 꿈꾼다.
+  ja: 彼女たちは夢を見る
+event_onemoretime_prologue_title:
+  en: All-Time Worst Score
+  ko: 최저 점수
+  ja: 最低点数
+event_onemoretime_01_s_title:
+  en: 'Problem: A'
+  ko: '문제점 : A'
+  ja: 問題点：A
+event_onemoretime_01_e_title:
+  en: 'Problem: B'
+  ko: '문제점 : B'
+  ja: 問題点：B
+event_onemoretime_02_s_title:
+  en: 'Solution: A'
+  ko: '해결책 : A'
+  ja: 解決策：A
+event_onemoretime_02_e_title:
+  en: 'Solution: B'
+  ko: '해결책 : B'
+  ja: 解決策：B
+event_onemoretime_03_s_title:
+  en: 'New Member: A'
+  ko: '새 멤버 : A'
+  ja: 新メンバー：A
+event_onemoretime_03_e_title:
+  en: 'New Member: B'
+  ko: '새 멤버 : B'
+  ja: 新メンバー：B
+event_onemoretime_intermission_01_title:
+  en: The Divide
+  ko: 분열
+  ja: 分裂
+event_onemoretime_04_s_title:
+  en: 'Outburst: A'
+  ko: '폭발 : A'
+  ja: 爆発：A
+event_onemoretime_04_e_title:
+  en: 'Outburst: B'
+  ko: '폭발 : B'
+  ja: 爆発：B
+event_onemoretime_05_s_title:
+  en: 'Rewind: A'
+  ko: '리와인드 : A'
+  ja: リワインド：A
+event_onemoretime_05_e_title:
+  en: 'Rewind: B'
+  ko: '리와인드 : B'
+  ja: リワインド：B
+event_onemoretime_06_s_title:
+  en: 'Rewind, One More Time: A'
+  ko: 'Rewind, One More Time : A'
+  ja: 'Rewind, One More Time : A'
+event_onemoretime_06_e_title:
+  en: 'Rewind, One More Time: B'
+  ko: 'Rewind, One More Time : B'
+  ja: 'Rewind, One More Time : B'
+event_onemoretime_epilogue_title:
+  en: The Best Cheerleader
+  ko: Best Cheerleader
+  ja: Best Cheerleader
+event_oldtales1_prologue_title:
+  en: Second Fairy Tale
+  ko: 두번째 동화
+  ja: 2つ目の童話
+event_oldtales1_01_s_title:
+  en: 'A Long Wait: A'
+  ko: '오랜 기다림 : A'
+  ja: 待ちぼうけの末：A
+event_oldtales1_01_e_title:
+  en: 'A Long Wait: B'
+  ko: '오랜 기다림 : B'
+  ja: 待ちぼうけの末：B
+event_oldtales1_02_s_title:
+  en: 'Eve of Deployment: A'
+  ko: '출격 전야 : A'
+  ja: 出撃前夜：A
+event_oldtales1_02_e_title:
+  en: 'Eve of Deployment: B'
+  ko: '출격 전야 : B'
+  ja: 出撃前夜：B
+event_oldtales1_03_s_title:
+  en: 'The Best Day, The Worst Day: A'
+  ko: '최고의 날, 최악의 날 : A'
+  ja: 最高の日、最悪の日：A
+event_oldtales1_03_e_title:
+  en: 'The Best Day, The Worst Day: B'
+  ko: '최고의 날, 최악의 날 : B'
+  ja: 最高の日、最悪の日：B
+event_oldtales1_intermission_01_title:
+  en: Beyond the Wall
+  ko: 벽 너머에서
+  ja: 壁の向こうで
+event_oldtales1_04_s_title:
+  en: 'Scattered Fairy Tale: A'
+  ko: '흩어진 동화 : A'
+  ja: 散逸する童話：A
+event_oldtales1_04_e_title:
+  en: 'Scattered Fairy Tale: B'
+  ko: '흩어진 동화 : B'
+  ja: 散逸する童話：B
+event_oldtales1_05_s_title:
+  en: 'Traitor: A'
+  ko: '배신자 : A'
+  ja: 裏切り者：A
+event_oldtales1_05_e_title:
+  en: 'Traitor: B'
+  ko: '배신자 : B'
+  ja: 裏切り者：B
+event_oldtales1_06_s_title:
+  en: 'Heretic Anachiro: A'
+  ko: '헬레틱 아나키오르 : A'
+  ja: ヘレティック・アナキオール：A
+event_oldtales1_06_e_title:
+  en: 'Heretic Anachiro: B'
+  ko: '헬레틱 아나키오르 : B'
+  ja: ヘレティック・アナキオール：B
+event_oldtales2_01_s_title:
+  en: 'Silent Atonement: A'
+  ko: '고요한 속죄 : A'
+  ja: 静かな贖罪：A
+event_oldtales2_01_e_title:
+  en: 'Silent Atonement: B'
+  ko: '고요한 속죄 : B'
+  ja: 静かな贖罪：B
+event_oldtales2_02_s_title:
+  en: 'Tears of a Monster: A'
+  ko: '괴물의 눈물 : A'
+  ja: 化け物の涙：A
+event_oldtales2_02_e_title:
+  en: 'Tears of a Monster: B'
+  ko: '괴물의 눈물 : B'
+  ja: 化け物の涙：B
+event_oldtales2_03_s_title:
+  en: 'Reassembled Fairy Tale: A'
+  ko: '다시 모인 동화 : A'
+  ja: 再び集う童話：A
+event_oldtales2_03_e_title:
+  en: 'Reassembled Fairy Tale: B'
+  ko: '다시 모인 동화 : B'
+  ja: 再び集う童話：B
+event_oldtales2_intermission_01_title:
+  en: Red for Red
+  ko: 붉은색은 붉은색으로
+  ja: 紅色は紅色で
+event_oldtales2_04_s_title:
+  en: 'Always Watching You: A'
+  ko: '항상 지켜봤다 : A'
+  ja: いつも見守っている：A
+event_oldtales2_04_e_title:
+  en: 'Always Watching You: B'
+  ko: '항상 지켜봤다 : B'
+  ja: いつも見守っている：B
+event_oldtales2_05_s_title:
+  en: 'The Most Beautiful Victory: A'
+  ko: '가장 아름다운 승리 : A'
+  ja: 一番美しい勝利：A
+event_oldtales2_05_e_title:
+  en: 'The Most Beautiful Victory: B'
+  ko: '가장 아름다운 승리 : B'
+  ja: 一番美しい勝利：B
+event_oldtales2_06_s_title:
+  en: 'End of Story: A'
+  ko: '이야기의 끝 : A'
+  ja: 物語の終わり：A
+event_oldtales2_06_e_title:
+  en: 'End of Story: B'
+  ko: '이야기의 끝 : B'
+  ja: 物語の終わり：B
+event_oldtales2_epilogue_title:
+  en: A Fairy Tale to be Continued
+  ko: 이어 써지는 동화
+  ja: 再び綴られる童話
+event_killthelord_prologue_title:
+  en: The Start of a Normal Day
+  ko: 평범한 하루의 시작
+  ja: 平凡な1日の始まり
+event_killthelord_01_s_title:
+  en: 'The Start of an Extraordinary Day: A'
+  ko: '평범하지 않은 하루의 시작 : A'
+  ja: 平凡ではない1日の始まり：A
+event_killthelord_01_e_title:
+  en: 'The Start of an Extraordinary Day: B'
+  ko: '평범하지 않은 하루의 시작 : B'
+  ja: 平凡ではない1日の始まり：B
+event_killthelord_02_s_title:
+  en: 'Newlywed Couple: A'
+  ko: '신혼부부 : A'
+  ja: 新婚夫婦：A
+event_killthelord_02_e_title:
+  en: 'Newlywed Couple: B'
+  ko: '신혼부부 : B'
+  ja: 新婚夫婦：B
+event_killthelord_03_s_title:
+  en: 'Life of the Sovereigns: A'
+  ko: '로열의 삶 : A'
+  ja: ロイヤルの暮らし：A
+event_killthelord_03_e_title:
+  en: 'Life of the Sovereigns: B'
+  ko: '로열의 삶 : B'
+  ja: ロイヤルの暮らし：B
+event_killthelord_intermission_01_title:
+  en: Rest for Tomorrow
+  ko: 내일을 위한 휴식
+  ja: 明日のための休息
+event_killthelord_04_s_title:
+  en: 'Her Mansion: A'
+  ko: '그녀의 저택 : A'
+  ja: 標的の邸宅：A
+event_killthelord_04_e_title:
+  en: 'Her Mansion: B'
+  ko: '그녀의 저택 : B'
+  ja: 標的の邸宅：B
+event_killthelord_05_s_title:
+  en: 'Savior: A'
+  ko: '구세주 : A'
+  ja: 救世主：A
+event_killthelord_05_e_title:
+  en: 'Savior: B'
+  ko: '구세주 : B'
+  ja: 救世主：B
+event_killthelord_06_s_title:
+  en: 'Scale: A'
+  ko: '저울 : A'
+  ja: 天秤：A
+event_killthelord_06_e_title:
+  en: 'Scale: B'
+  ko: '저울 : B'
+  ja: 天秤：B
+event_killthelord_epilogue_title:
+  en: Start of Revenge
+  ko: 복수의 시작
+  ja: 復讐の始まり
+EVENT_QUEST_FIRSTAFFECTION:
+  en: Locale_Event:EVENT_QUEST_FIRSTAFFECTION
+  ko: Locale_Event:EVENT_QUEST_FIRSTAFFECTION
+  ja: Locale_Event:EVENT_QUEST_FIRSTAFFECTION
+EVENT_QUEST_FOOLSDAY:
+  en: Locale_Event:EVENT_QUEST_FOOLSDAY
+  ko: Locale_Event:EVENT_QUEST_FOOLSDAY
+  ja: Locale_Event:EVENT_QUEST_FOOLSDAY
+EVENT_QUEST_LIAR'SEND:
+  en: Locale_Event:EVENT_QUEST_LIAR'SEND
+  ko: Locale_Event:EVENT_QUEST_LIAR'SEND
+  ja: Locale_Event:EVENT_QUEST_LIAR'SEND

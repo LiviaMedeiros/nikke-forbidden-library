@@ -1,0 +1,988 @@
+---
+101_name:
+  en: Drake
+  ko: 드레이크
+  ja: ドレイク
+c101_description:
+  en: A hero who yearns to be a villain. As a part of Matis, she has the special ability
+    to detect radio waves with her body.
+  ko: "빌런이 되고 싶은 히어로. \n메티스 스쿼드 소속의 니케로 전파를 몸으로 느낄 수 있는 특수 능력을 지녔다."
+  ja: |-
+    ヴィランになりたいヒーロー。
+    メティス部隊所属のニケで、
+    電波を体で感じられる特殊能力を持つ。
+101_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50101:
+  en: Drake's Spare Body
+  ko: 드레이크 스페어 바디
+  ja: ドレイクのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21012_name:
+  en: Thunderbolt
+  ko: 썬더볼트
+  ja: サンダーボルト
+21012_description_2:
+  en: "■ Activates after {description_value_01} attack(s). Affects {description_value_02}
+    enemy unit(s) with the lowest remaining HP. \nDeals <color=#00AEFF>{description_value_03}%
+    of <word_group=10025>final</word_group> ATK as damage.</color>"
+  ko: "■ {description_value_01}회 공격 시 남은 체력 수치가 가장 낮은 적 {description_value_02}기에게
+    \n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}%
+    대미지]</color>"
+  ja: |-
+    ■{description_value_01}回攻撃した時、残りのHPの数値が最も低い敵{description_value_02}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％のダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21011_name:
+  en: Overcharge
+  ko: 오버 차지
+  ja: オーバーチャージ
+21011_description:
+  en: "■ Activates at the beginning of Full Burst. Affects all allies. \n<color=#00AEFF>Hit
+    Rate ▲ {description_value_01}% for {description_value_02} sec. \nATK ▲ {description_value_03}%
+    for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[명중률 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「命中率{description_value_01}％▲」「{description_value_02}秒間維持」
+    「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11013_name:
+  en: Drake Special
+  ko: 드레이크 스페셜
+  ja: ドレイクスペシャル
+11013_description_1:
+  en: "■ Affects <word_group=10020>enemies within attack range</word_group>.\nDeals
+    <color=#00AEFF>{description_value_01}% of <word_group=10025>final</word_group>
+    ATK as damage.</color> \n■ Affects self.\n<color=#00AEFF>Max Ammunition Capacity
+    ▲ {description_value_02}% for {description_value_03} sec.</color>"
+  ko: |-
+    ■ <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」</color>
+    ■自分に
+    <color=#00AEFF>「最大装弾数{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+102_name:
+  en: Maxwell
+  ko: 맥스웰
+  ja: マクスウェル
+100_name:
+  en: Laplace
+  ko: 라플라스
+  ja: ラプラス
+c101_Lobby_Touch_1:
+  en: Heehee, transform.
+  ko: 후후후. 변신.
+  ja: フフフ。変身だ。
+c101_Lobby_Touch_2:
+  en: Am I scary? You bet I am!
+  ko: 내가 무섭나? 나는 무섭다.
+  ja: 私が怖いか？私は怖い。
+c101_Lobby_Touch_3:
+  en: Am I a hero? That's a tough one...
+  ko: 히어로냐고? 후후, 글쎄.
+  ja: |-
+    ヒーローかって？
+    フフ、どうだか。
+c101_Lobby_Touch_Love_1:
+  en: Yes, it is I, the greatest villain of them all! Bow before me!
+  ko: 최고의 빌런은 바로 나. 드레이크다! 부러운가?
+  ja: |-
+    最高のヴィランはこの私、ドレイクだ！
+    羨ましいか？
+c101_Lobby_Touch_Love_2:
+  en: You want my signature too? Fine, I'll give it to you later.
+  ko: 네놈도 내 싸인이 필요한가? 나중에 해주지.
+  ja: |-
+    貴様も私のサインが欲しいのか？
+    あとでくれてやる。
+c101_Lobby_Touch_Love_3:
+  en: What heinous crimes should I carry out today?
+  ko: 오늘은 어떤 악행을 저질러 볼까.
+  ja: 今日はどんな悪さをしてやろうか。
+c101_Lobby_Stay_1:
+  en: Hahahaha! Hahahahaha! *Cough, cough*
+  ko: 하하하하! 하하하하하! 쿨럭, 쿨럭!
+  ja: |-
+    フフフ！ハハハ！
+    ごほっ、ごほっ！
+c101_Lobby_Stay_Love_1:
+  en: "... Where did you go? Don't tell me you're off being evil without me!"
+  ko: "…어디 간 거지? 설마 혼자 빌런 활동을 갔나?!"
+  ja: |-
+    …どこに行ったんだ？
+    まさか1人でヴィラン活動でもしに行ったのか！？
+c101_Outpost_Touch_1:
+  en: My building, hand it over! If you don't have it, then never mind.
+  ko: 내 전용 건물을 내놔라! 없으면 할 수 없고.
+  ja: |-
+    私専用の建物はどこだ！
+    無ければ仕方ないが。
+c101_Outpost_Touch_2:
+  en: I like power plants. They give me a tingly feeling.
+  ko: 발전소는 좋아. 찌릿찌릿하니까.
+  ja: |-
+    発電所はいい。
+    ビリビリするからな。
+c101_Outpost_Touch_3:
+  en: This place is great! Nice and quiet. Oops, I may have said that too loudly...
+  ko: 이곳은 조용해서 맘에 든다!! 아, 내가 시끄럽게 했군.
+  ja: |-
+    ここは静かで気に入った！！
+    あ、私がうるさくして しまったな。
+c101_Gacha_Get_1:
+  en: Heeheehee... Hahaha!
+  ko: 후후후…. 후하하하하!
+  ja: フフフ…フハハハハハハ！
+c101_Reinforce_1:
+  en: Hand over my enemies! Now!
+  ko: 적을 내놔라! 지금 당장!
+  ja: 敵を連れてこい！今すぐ！
+c101_Reinforce_2:
+  en: Wow... I look pretty scary! Haha!
+  ko: 후후… 강해진 나의 모습. 무섭군.
+  ja: フフ…強くなった私の姿。おぞましい。
+c101_Reinforce_3:
+  en: Time to get down to business.
+  ko: 그럼 이제 부수러 가볼까….
+  ja: ではそろそろ壊しに行くとするか…
+c101_Gift_1:
+  en: What? Is this... for me?
+  ko: 이건… 뭐지? 나에게 바치는 건가?
+  ja: これは…何だ？私への貢物か？
+c101_Gift_2:
+  en: I want them all! Are these all the offerings you have? Forget it then.
+  ko: 다 바쳐라! 엇, 이게 전부면 어쩔 수 없지.
+  ja: |-
+    ひとつ残らず貢ぐのだ！
+    お、これで全部なのか？なら仕方がない。
+c101_Gift_3:
+  en: I'll repay you. What would you like? Just name it.
+  ko: 보답하겠다. 원하는 걸 말해라. 말만 해라.
+  ja: |-
+    恩返ししよう。何を望むのか言うのだ。
+    何でも聞いてやろう。
+c101_Attractive_Up_1:
+  en: A moron like you won't pull the wool over my eyes.
+  ko: |-
+    네놈이 무슨 짓을 해도 난 넘어가지 않는다.
+    너무 좋아하지만 넘어가지 않아.
+  ja: |-
+    貴様が何をしようとも私は騙されない。
+    どんなに嬉しくても騙されはしない。
+c101_Attractive_Up_2:
+  en: Is it possible for a villain to feel love?
+  ko: 빌런도… 사랑이라는 감정을 느낄 수 있나?
+  ja: |-
+    ヴィランにも…
+    愛を感じることができるのか…？
+c101_Attractive_Up_3:
+  en: You're more than welcome to love me, but don't expect any in return!
+  ko: 나에게 애정을 갈구하지 마라! 아, 네가 주는 건 좋다.
+  ja: |-
+    私に愛情を求めるな！
+    あ、貰う分には構わない。
+c101_Party_Deploy_1:
+  en: Let's do this!
+  ko: 후후. 출전이군.
+  ja: フフ。出陣か。
+c101_Field_Touch_1:
+  en: What?
+  ko: 뭐지?
+  ja: 何だ？
+c101_Field_Go_1:
+  en: Are you giving me an order? You best tread lightly.
+  ko: 명령이라니 건방지군. 조심히 가겠다.
+  ja: 命令とは生意気だな。気をつけて行ってくる。
+c101_Battle_Enter_1:
+  en: Bring it on!
+  ko: 후후. 덤벼라.
+  ja: フフ。かかってこい。
+c101_Battle_Ready_1:
+  en: It's nice to be a hero every once in a while.
+  ko: 가끔은 히어로 놀이도 괜찮겠지.
+  ja: たまには英雄ごっこも悪くない。
+c101_Battle_Ready_2:
+  en: I need 10 seconds! No, uh, wait, 10 minutes.
+  ko: 10초 안에 끝내주지. 아니, 10분.
+  ja: 10秒以内に終わらせてやる。いや、10分以内にしよう。
+c101_Battle_Ready_3:
+  en: Watch and learn.
+  ko: 나의 활약을 잘 봐라.
+  ja: 私の活躍をとくと見たまえ。
+c101_Reload_1:
+  en: It's a tough job, but someone's got to do it.
+  ko: 귀찮군. 하지만 필요하지.
+  ja: 面倒くさい。しかし必要ではある。
+c101_Reload_2:
+  en: Cover me, and don't get yourself killed!
+  ko: 날 지켜라. 죽진 말고.
+  ja: 私を守れ。死にはするな。
+c101_Reload_3:
+  en: I'll do it slowly, hehe!
+  ko: 천천히 할 거다. 흡흡흡!
+  ja: ゆっくりと楽しませてもらおう。フッフッフッ！
+c101_Ult_Skill_Ready_1:
+  en: Hahaahaa!
+  ko: 후후하하하!
+  ja: フフフ、ハハハ！
+c101_Ult_Skill_1:
+  en: There's more where that came from!
+  ko: 이것이 나의 가장 약한 공격이다!
+  ja: これが私の一番弱い攻撃だ！
+c101_FullBurst_1:
+  en: Time for the coup de grace! If it fails, forget I said it.
+  ko: 이걸로 끝이다! 아니면 말고.
+  ja: これでおしまいだ！…と思うが。
+c101_Kill_Monster_1:
+  en: Heehee!
+  ko: 후후…!
+  ja: フフ…！
+c101_Kill_Monster_2:
+  en: Hahaha!
+  ko: 하하하!
+  ja: ハハハ！
+c101_Kill_Monster_3:
+  en: Die!
+  ko: 죽어라!
+  ja: 死ね！
+c101_Damage_1:
+  en: Agh!
+  ko: 으악!
+  ja: うおっ！
+c101_Damage_2:
+  en: Ouch!
+  ko: 악!
+  ja: あっ！
+c101_Damage_3:
+  en: Ugh!
+  ko: 헙!
+  ja: ほっ！
+c101_Die_1:
+  en: They didn't best me! I just tripped is all!
+  ko: 난 지지 않았다! 쓰러졌을 뿐이다!
+  ja: 私は負けてなどいない！倒れただけだ！
+c101_Win_1:
+  en: Did you see that? If not, then just ignore me.
+  ko: 후후… 잘 봤나? 못 봤으면 어쩔 수 없고.
+  ja: フフ…よく見ていたか？見逃したなら仕方がない。
+c101_01_Lobby_Touch_1:
+  en: |-
+    Today, I'm a race car driver!
+    ... And a villain.
+  ko: |-
+    오늘만큼은 카레이서다!
+    …빌런도 맞지만.
+  ja: |-
+    今日はカーレーサーだ！
+    …ヴィランでもあるが。
+c101_01_Lobby_Touch_2:
+  en: |-
+    Say, um... do you know anything about race car driving?
+    I don't, so I figured I'd ask.
+  ko: |-
+    후후, 카레이서의 기본 소양이 뭔지 아나?
+    …나도 몰라서 물어본 거다.
+  ja: |-
+    フフ、カーレーサーの素質は何か知ってるか？
+    …私も知らないから聞いているんだ。
+c101_01_Lobby_Touch_3:
+  en: "The ultimate villain has to have her own wheels! \n... Paid in installments,
+    of course."
+  ko: |-
+    최고의 빌런이라면, 차 하나쯤은 가지고 있어야지!
+    …물론 할부다.
+  ja: |-
+    最高のヴィランなら、マイカーを持つべきだろう！
+    …もちろん、分割払いだ。
+c101_01_Lobby_Touch_Love_1:
+  en: |-
+    Push the pedal to the metal!
+    But don't forget to always obey traffic laws.
+  ko: |-
+    최고 속도로 달려볼까!
+    신호는 지키면서.
+  ja: |-
+    最高速度で走るぞ！
+    信号は守りながらだ。
+c101_01_Lobby_Touch_Love_2:
+  en: I can lend you my car if you want, but don't you dare scuff it up.
+  ko: |-
+    네놈이 원한다면 이 차를 빌려주지.
+    …흠집은 내지 마라.
+  ja: |-
+    貴様が望むならこの車を貸してやろう。
+    …傷はつけるなよ。
+c101_01_Lobby_Touch_Love_3:
+  en: |-
+    Have you got a driver's license? You take the wheel, then.
+    I'm way too nervous to drive.
+  ko: |-
+    면허증 있나? 그럼 운전 좀 부탁하지.
+    …나는 운전 울렁증이 있다.
+  ja: |-
+    免許は持ってるか？
+    じゃあ運転を頼もう。
+    …私は運転が怖い。
+c101_01_Lobby_Stay_1:
+  en: Where are you? Did you go to the race track without me?
+  ko: 어디 갔지? 먼저 경기장으로 떠난 건가?!
+  ja: |-
+    どこだ？
+    先にサーキットに行ったのか！？
+c101_01_Lobby_Stay_Love_1:
+  en: I'll be here cleaning the car until you get back.
+  ko: 네놈이 오기 전까지 차를 닦고 있겠다!
+  ja: 貴様が来るまで、車を磨いていよう！
+c101_01_Outpost_Touch_1:
+  en: |-
+    Hmm,
+    there isn't any place for racing here.
+  ko: |-
+    흠.
+    이곳은 마땅히 달릴 곳이 없군.
+  ja: |-
+    ふむ。
+    ここにはまともに 走れそうなコースが ないな。
+c101_01_Outpost_Touch_2:
+  en: Jeez, is there any place here at all where you can drive?
+  ko: 후후. 차 끌고 갈만한 곳, 어디 없나?
+  ja: フフ。 おすすめの ドライブコースは ないか？
+c101_01_Outpost_Touch_3:
+  en: |-
+    We should build a nice, long stretch of road here!
+    But if we can't, that's fine too I guess.
+  ko: |-
+    이곳에 넓은 도로를 만들어라!
+    못 만들면 어쩔 수 없고.
+  ja: |-
+    ここに広い道路を作れ！
+    作れないなら 仕方がないが。
+c101_01_Gacha_Get_1:
+  en: |-
+    I'm coming to pick you up!
+    Heh-heh... Are you waiting for me?
+  ko: |-
+    네놈을 데리러 왔다!
+    후후후… 기다리고 있었나?
+  ja: |-
+    貴様を迎えに来た！
+    フフフ…待たせたな。
+c101_01_Reinforce_1:
+  en: I can drive faster now.
+  ko: 조금 더 빠르게 운전할 수 있겠군.
+  ja: これでさらに速く運転できるな。
+c101_01_Reinforce_2:
+  en: Fire up your engines!
+  ko: 달려볼까!
+  ja: 走ってみるか！
+c101_01_Reinforce_3:
+  en: |-
+    I've gotten stronger...
+    Wanna race?
+  ko: |-
+    강해졌군…
+    이 몸과 레이싱 한판 어떤가.
+  ja: |-
+    強くなったな…
+    私とレースしないか？
+c101_01_Gift_1:
+  en: |-
+    If you've got more, then hand it over. I can put it in my trunk...
+    Oh, wait, this car doesn't have a trunk...
+  ko: |-
+    트렁크에 가득 실을 정도로 내놔라!
+    …엇, 트렁크가 없군.
+  ja: |-
+    トランクに積めるだけ寄越せ！
+    …あっ、トランクがないな。
+c101_01_Gift_2:
+  en: In return, I'll take you wherever you want to go.
+  ko: 보답으로 가고 싶은 곳을 데려다주겠다.
+  ja: お礼に、行きたいところに連れていってやろう。
+c101_01_Gift_3:
+  en: Another gift? Why?
+  ko: "…뭐지? 왜 또 주는 거지?"
+  ja: "…何だ？なぜまたくれるんだ？"
+c101_01_Attractive_Up_1:
+  en: You're doing well, and quickly approaching the finish line.
+  ko: "…다가오는 속도가 자동차만큼 빠르군."
+  ja: "…車と同じくらいの速さで急接近だな。"
+c101_01_Attractive_Up_2:
+  en: You can ride shotgun.
+  ko: 옆자리는 네놈에게 주지.
+  ja: 助手席は貴様にやろう。
+c101_01_Attractive_Up_3:
+  en: Don't be so aggressive!
+  ko: 깜빡이 정도는 켜고 들어와라!
+  ja: ウインカーを出してから入ってこい！
+c101_01_Party_Deploy_1:
+  en: Heh-heh, my turn.
+  ko: 후후. 내 차례군.
+  ja: フフ。私の番だな。
+c101_01_Field_Touch_1:
+  en: Is the green light on?
+  ko: 파란불인가?
+  ja: 青信号か？
+c101_01_Field_Go_1:
+  en: Go!
+  ko: 출발한다!
+  ja: 出発だ！
+c101_01_Battle_Enter_1:
+  en: I'll set my precious car to the side for now.
+  ko: 차는 소중하니까, 두고 이동하겠다!
+  ja: 車は大事だから、置いて移動する！
+c101_01_Battle_Ready_1:
+  en: Start your engines.
+  ko: 시동을 걸어볼까.
+  ja: エンジンをかけよう。
+c101_01_Battle_Ready_2:
+  en: I'm the world's ultimate villain, and ultimate racer!
+  ko: 최고의 빌런, 최고의 카레이서 출동이다.
+  ja: 最高のヴィラン、最高のカーレーサー、出動だ。
+c101_01_Battle_Ready_3:
+  en: Buckle up, buttercup!
+  ko: "…네놈! 안전벨트를 매라!"
+  ja: "…貴様！シートベルトをしろ！"
+c101_01_Reload_1:
+  en: |-
+    Don't rush!
+    Not unless it's urgent...
+  ko: |-
+    재촉 마라!
+    급하면 어쩔 수 없고.
+  ja: |-
+    急かすな！
+    急いでるなら仕方がない。
+c101_01_Reload_2:
+  en: Push it into the redline!
+  ko: 최고 속도로 장전한다.
+  ja: 最高速度で装填する。
+c101_01_Reload_3:
+  en: Faster than a car? Never!
+  ko: 자동차보다 빠르게! 는 안된다.
+  ja: 車より速く！は無理だな。
+c101_01_Ult_Skill_Ready_1:
+  en: Let's rock n' roll.
+  ko: 후후… 준비 완료.
+  ja: フフ…準備完了。
+c101_01_Ult_Skill_1:
+  en: Vroom vrooom vroom!
+  ko: |-
+    부릉부릉!
+    부아아아아앙-!!
+  ja: |-
+    ブルン、ブルン！
+    ブアアアーン！！
+c101_01_FullBurst_1:
+  en: I'm overtaking you!
+  ko: 이 몸이 추월한다!
+  ja: 追い抜いてやる！
+c101_01_Kill_Monster_1:
+  en: Nice kill.
+  ko: 처치 완료.
+  ja: 完了。
+c101_01_Kill_Monster_2:
+  en: Heh-heh, we took care of that quickly, didn't we?
+  ko: 후후. 스피드하게 처리한다.
+  ja: フフ。スピーディーに処理する。
+c101_01_Kill_Monster_3:
+  en: Put it in the car.
+  ko: 차에 실어라!
+  ja: 車に乗せろ！
+c101_01_Damage_1:
+  en: Don't scratch the paint!
+  ko: 차에 상처가!
+  ja: 車に傷が！
+c101_01_Damage_2:
+  en: Ouch!
+  ko: 악!
+  ja: あっ！
+c101_01_Damage_3:
+  en: Agh!
+  ko: 크흣!
+  ja: くっ！
+c101_01_Die_1:
+  en: |-
+    I'm going back to my car...
+    but not to rest!
+  ko: |-
+    …잠깐 차에 다녀오겠다!
+    쉬러 가는 게 아니다!
+  ja: |-
+    …車を見てくる！
+    休みに行くわけじゃないぞ！
+c101_01_Win_1:
+  en: All right! Let's take the car for a spin.
+  ko: 후후! 이제 드라이브를 떠나지.
+  ja: ハハ！さあ、ドライブに行こう。
+c101_02_Lobby_Touch_1:
+  en: |-
+    I'm officially renaming Valentine's Day to Villaintine's Day!
+    If you're not on board, then forget I said anything.
+  ko: |-
+    밸런타인데이 이름을 빌런타인데이로 바꿔라!
+    안되면 말고.
+  ja: |-
+    バレンタインデーをヴィランタインデーに変えろ！
+    無理なら仕方ないが。
+c101_02_Lobby_Touch_2:
+  en: |-
+    Get your own dessert...
+    Fine, I guess that's supposed to be my job.
+  ko: |-
+    디저트는 직접 가져다 먹어라!
+    ...내가 가져다주는 게 맞군.
+  ja: |-
+    スイーツは自分で取ってこい！
+    …私の仕事なのか。
+c101_02_Lobby_Touch_3:
+  en: |-
+    I will cast a curse to make it more delicious...
+    Ah, I mean... a spell?
+  ko: |-
+    후후… 맛있어지는 저주를 걸어주지.
+    아, 주문이라고?
+  ja: |-
+    フフ…うまくなる呪いをかけてやろう。
+    あ、呪いじゃなくて呪文だって？
+c101_02_Lobby_Touch_Love_1:
+  en: "If you want something to eat, just say so! \nI'll bring you anything you want."
+  ko: |-
+    먹고 싶은 게 있다면 말만 해라!
+    들어만 주겠다.
+  ja: |-
+    食べたいものがあったら言え！
+    聞いてやるだけだぞ。
+c101_02_Lobby_Touch_Love_2:
+  en: |-
+    Do you dig my new look?
+    I know I do.
+  ko: |-
+    새로운 내 모습에 반했나?
+    후후… 나도 반했다.
+  ja: |-
+    新しい私の姿に惚れたのか？
+    フフ…私もだ。
+c101_02_Lobby_Touch_Love_3:
+  en: I'll provide you with service that'll leave you satisfied, guaranteed.
+  ko: 주인놈에겐 만족스러운 서비스를 해주지.
+  ja: ご主人様が満足できるサービスをしてやろう。
+c101_02_Lobby_Stay_1:
+  en: |-
+    Darn it,
+    this is digging into my time as a villain. Hurry up and get over here.
+  ko: |-
+    …이런.
+    악행을 저지를 시간이 줄어들고 있다! 빨리 와라!
+  ja: |-
+    …なんてことだ。
+    悪事を働く時間が減るではないか！早く来い！
+c101_02_Lobby_Stay_Love_1:
+  en: |-
+    I'll go make some Villain Omurice.
+    Don't get your hopes up! This isn't meant for you.
+  ko: |-
+    이몸은 빌런 오므라이스를 만들고 있겠다.
+    …착각마라! 주인놈에게 줄 건 아니다!
+  ja: |-
+    ヴィランオムライスを作るとするか。
+    …勘違いするな！ご主人様のものではない！
+c101_02_Outpost_Touch_1:
+  en: |-
+    If you're unsatisfied with my performance in any way, you can report me to the Maid Cafe.
+    However, as far as I know, they haven't received any complaints so far.
+  ko: |-
+    나에 대한 불만은 메이드 카페에 말해라!
+    …아직 불만이 나온 적은 없다더군.
+  ja: |-
+    私への不満は メイドカフェに言え！
+    …まだクレームは 入っていないらしい。
+c101_02_Outpost_Touch_2:
+  en: |-
+    I'm handing out cookies to make people miserable!
+    Mwahahaha!
+  ko: |-
+    쿠키를 나눠주며 사람들을 괴롭히고 있었다!
+    후후… 후하하하하!!
+  ja: |-
+    クッキーを渡して みんなを苦しめていたのだ！
+    フフフ… ハハハハハ！！
+c101_02_Outpost_Touch_3:
+  en: |-
+    Come to the Maid Cafe if you want to see
+    what dastardly deeds I'm up to.
+  ko: |-
+    내가 어떤 악행을 저지를지 궁금하다면
+    메이드 카페로 와라!
+  ja: |-
+    私がどんな悪事を働くか 気になるなら
+    メイドカフェに来い！
+c101_02_Gacha_Get_1:
+  en: |-
+    Are you the one I'm supposed to serve?
+    Pleasure to be working with you.
+  ko: |-
+    네놈이 내가 모실 주인놈인가?
+    잘 부탁하지.
+  ja: |-
+    私が仕えるご主人様は貴様か？
+    よろしく頼む。
+c101_02_Reinforce_1:
+  en: |-
+    You should start calling me the Head Maid!
+    Huh? I'm unqualified for that position, you say?
+  ko: |-
+    후후… 이제 수석 메이드라고 불러라!
+    아, 그 정돈 아니라고?
+  ja: |-
+    フフ…トップメイドと呼ぶがいい！
+    いや、そこまでじゃないか？
+c101_02_Reinforce_2:
+  en: |-
+    I'll cook something really nice for you,
+    so stay tuned!
+  ko: |-
+    더 맛있는 음식을 만들어주마!
+    기대해도 좋다.
+  ja: |-
+    もっとうまい料理を作ってやろう！
+    期待するがいい。
+c101_02_Reinforce_3:
+  en: |-
+    At this rate,
+    I could become a regular employee at the Maid Cafe.
+  ko: |-
+    이 정도면 메이드 카페의
+    정직원이 되어도 아무 문제없겠군.
+  ja: これならメイドカフェの正社員になれそうだ。
+c101_02_Gift_1:
+  en: |-
+    Maids can receive gifts? This is great.
+    I want more!
+  ko: |-
+    메이드는 선물도 받고 좋군.
+    …그럼 더 내놔라!
+  ja: |-
+    メイドはプレゼントをもらえていいな。
+    …じゃあ、もっとよこせ！
+c101_02_Gift_2:
+  en: |-
+    Don't go falling in love with me,
+    'cause we're never gonna be together.
+  ko: |-
+    …날 좋아하지 마라.
+    우린 이루어질 수 없어.
+  ja: |-
+    …私を好きになるな。
+    私たちは結ばれてはいけない関係なのだ。
+c101_02_Gift_3:
+  en: |-
+    Hey.
+    Are you trying to bribe me?
+  ko: |-
+    …주인놈.
+    혹시 이거… 뇌물인가?
+  ja: |-
+    …おい、ご主人様。
+    もしかして、これは…ワイロか？
+c101_02_Attractive_Up_1:
+  en: |-
+    Uh oh... I think we're starting to be on the same wavelength.
+    This is dangerous.
+  ko: |-
+    …이런.
+    주인놈의 마음과 내 마음이 같은 것 같군, 위험해.
+  ja: |-
+    …なんてこった。
+    ご主人様と私は同じ気持ちのようだ。危ないな。
+c101_02_Attractive_Up_2:
+  en: I could be your exclusive maid if you wanted.
+  ko: 원한다면 주인놈의 전속 메이드가 되어주지.
+  ja: お望みなら、ご主人様の専属メイドになってやろう。
+c101_02_Attractive_Up_3:
+  en: I made this omurice especially for you, with lots of love.
+  ko: 특별히 주인놈을 위한 하트 오므라이스다.
+  ja: 特別に、ご主人様のために作ってやったハートのオムライスだ。
+c101_02_Party_Deploy_1:
+  en: This villainous maid is ready to rock and roll!
+  ko: 후후, 빌런 메이드 준비 완료.
+  ja: フフフ、ヴィランメイド、準備完了だ。
+c101_02_Field_Touch_1:
+  en: Huh? Someone is ordering already?
+  ko: 뭐지? 벌써 주문이 들어온 건가.
+  ja: 何？もう注文が入ったのか？
+c101_02_Field_Go_1:
+  en: Figured.
+  ko: 기대되는군.
+  ja: 楽しみだな。
+c101_02_Battle_Enter_1:
+  en: Ready to serve.
+  ko: 메이드 서비스 시작이다.
+  ja: メイドサービス、スタートだ。
+c101_02_Battle_Ready_1:
+  en: He is under my protection!
+  ko: 주인놈은 내가 지켜주지!
+  ja: ご主人様は私が守る！
+c101_02_Battle_Ready_2:
+  en: Let's get this over with so we can go back.
+  ko: 빨리 끝내고 돌아가자!
+  ja: 早く終わらせて帰るぞ！
+c101_02_Battle_Ready_3:
+  en: I'll sweep you all up like it's nothing.
+  ko: 후후, 다 쓸어버려주겠다.
+  ja: フフ、一掃してやる。
+c101_02_Reload_1:
+  en: Keep calm and keep squirting the ketchup, everyone.
+  ko: 케첩 좀 뿌리고 있어라!
+  ja: ケチャップでもかけて待っていろ！
+c101_02_Reload_2:
+  en: These maid outfits are such a nuisance.
+  ko: 메이드 복은 불편하군!
+  ja: メイド服は動きにくいな！
+c101_02_Reload_3:
+  en: Recharge!
+  ko: 장전한다!
+  ja: 装填する！
+c101_02_Ult_Skill_Ready_1:
+  en: You're finished now.
+  ko: 후후… 완성됐군.
+  ja: フフ…完成したな。
+c101_02_Ult_Skill_1:
+  en: Open wide! Omurice coming right up!
+  ko: 입벌려라! 오므라이스 들어간다!
+  ja: 口を開けろ！オムライスをくらえ！
+c101_02_FullBurst_1:
+  en: Mwahahaha! How does it taste?
+  ko: 후하하하! 맛이 어떠냐!
+  ja: フハハハ！味はどうだ！
+c101_02_Kill_Monster_1:
+  en: That was easier than I thought.
+  ko: 생각보다 쉽군.
+  ja: 思ったより簡単だな。
+c101_02_Kill_Monster_2:
+  en: All clear.
+  ko: 깔끔하게 처리했다.
+  ja: キレイに片づけたぞ。
+c101_02_Kill_Monster_3:
+  en: These will make nice decorations at the cafe.
+  ko: 카페 장식품이 더 늘겠군.
+  ja: カフェの飾りが増えたな。
+c101_02_Damage_1:
+  en: Ouch!
+  ko: 악!
+  ja: うわっ！
+c101_02_Damage_2:
+  en: Ow!
+  ko: 으윽!
+  ja: ううっ！
+c101_02_Damage_3:
+  en: "*Gasp*"
+  ko: 허억!
+  ja: うっ！
+c101_02_Die_1:
+  en: Agh, the villain omurice didn't work!
+  ko: 쳇, 빌런 오므라이스가 먹히질 않다니…!
+  ja: ちっ、ヴィランオムライスが効かないとは…！
+c101_02_Win_1:
+  en: That's the power of being a maid!
+  ko: |-
+    후후…
+    이게 바로 메이드의 힘이다!
+  ja: |-
+    フフ…
+    これがまさしくメイドの力だ！
+101_cv_ja:
+  en: 'CV: Sumire Uesaka'
+  ko: 'CV : 우에사카 스미레'
+  ja: CV：上坂すみれ
+101_cv_ko:
+  en: 'CV: Kim Yeon-woo'
+  ko: 'CV : 김연우'
+  ja: CV：キム・ヨヌ
+101_cv_en:
+  en: 'CV: Antonia Flynn'
+  ko: 'CV : 안토니아 플린'
+  ja: CV：Antonia Flynn

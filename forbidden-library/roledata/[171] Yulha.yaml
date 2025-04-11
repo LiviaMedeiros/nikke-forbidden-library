@@ -1,0 +1,469 @@
+---
+171_name:
+  en: Yulha
+  ko: 율하
+  ja: ユルハ
+c171_description:
+  en: An office worker that suffers from work overload. She is the leader of Triangle,
+    and a reliable leader at that. Others inexplicably refer to her as Ghost.
+  ko: "일이 너무 많아 피로와 일에 찌든 피로한 직장인. \n트라이앵글 스쿼드의 믿음직한 리더지만, 어째서인지 주변 사람들에게 귀신이라고 불린다."
+  ja: |-
+    仕事漬けで疲れ果てている会社員。
+    トライアングル部隊の頼もしいリーダーだが、
+    なぜか周りの人々からは鬼と呼ばれている。
+171_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50171:
+  en: Yulha's Spare Body
+  ko: 율하 스페어 바디
+  ja: ユルハのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+11712_name:
+  en: The Weakener
+  ko: 위크 메이커
+  ja: ウィークメイカー
+11712_description_1:
+  en: "■ Affects all allies.\n<color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02}
+    sec. \n<word_group=10044>Equally shares damage taken</word_group> for {description_value_03}
+    sec.</color>"
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [<word_group=10044>받는 대미지 균등 분배</word_group>] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」
+    「<word_group=10044>受けるダメージ均等分配</word_group>」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21711_name:
+  en: Tough Leadership
+  ko: 바이팅 리더십
+  ja: バイティングリーダーシップ
+21711_description:
+  en: |-
+    ■ Activates when attacked {description_value_01} time(s). Affects self.
+    <color=#00AEFF>Calm: Critical Rate ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ {description_value_01}회 피격 시 자신에게
+    <color=#00AEFF>[평정심 : 크리티컬 확률 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■{description_value_01}回攻撃を受けた時、自分に
+    <color=#00AEFF>「平常心：クリティカル確率{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11713_name:
+  en: Busy Bee
+  ko: 히스테릭 워커
+  ja: ヒステリックワーカー
+11713_description_1:
+  en: "■ Affects all enemies.\n<color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color> \n■ Affects the same target(s) when in Calm
+    status.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as additional damage.</color>"
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 자신이 평정심 상태라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+    ■自分が平常心状態なら同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+170_name:
+  en: Privaty
+  ko: 프리바티
+  ja: プリバティ
+172_name:
+  en: Admi
+  ko: 애드미
+  ja: アドミ
+c171_Lobby_Touch_1:
+  en: What? You got something to say to me?
+  ko: 왜, 뭐 할 말 있어?
+  ja: 何よ、何か文句でもあるの？
+c171_Lobby_Touch_2:
+  en: The only way the Ark can continue to function, is under the Central Government's
+    protection. Don't forget that.
+  ko: 중앙 정부의 비호 아래, 방주가 유지되고 있음을 명심해라.
+  ja: 中央政府の庇護の下、アークは維持されていることを忘れないように。
+c171_Lobby_Touch_3:
+  en: If you're not here to help me with some of this work, then I can do without
+    the remarks on my appearance.
+  ko: 일 대신해 줄 거 아니면, 다크서클이니 뭐니 떠들지 마.
+  ja: |-
+    代わりに仕事やってくれるわけでもないくせに、
+    目の下のクマがあるとかないとかうるさいわ。
+c171_Lobby_Touch_Love_1:
+  en: "Listen Newbie, if any of the top brass set their sights on you, it will be
+    a real headache for us, \nso look after yourself."
+  ko: "신입. 윗선에게 찍히면 골치 아프니까 \n적당히 몸 좀 사려."
+  ja: 新人。上の連中に目つけられたら面倒だからほどほどにしてよね。
+c171_Lobby_Touch_Love_2:
+  en: I'll listen to anything you have to say.
+  ko: 할 말 있으면 해. 들어는 줄 테니까.
+  ja: |-
+    何か言いたいなら言って。
+    聞くだけだけど。
+c171_Lobby_Touch_Love_3:
+  en: |-
+    Don't do my work for me like last time,
+    just take care of yourself.
+  ko: |-
+    지난번처럼 일 대신해 주겠다고 나서지 말고
+    네 몸이나 신경 써.
+  ja: |-
+    この前みたいに肩代わりするとか、お節介なこと言わないで。
+    自分の体を大事にして。
+c171_Lobby_Stay_1:
+  en: What are you doing? Quit dawdling and get moving!
+  ko: 뭐 하길래 이렇게 뜸을 들여? 안 움직여?
+  ja: |-
+    何でこんなに待たせるの？
+    早く動いてくれない？
+c171_Lobby_Stay_Love_1:
+  en: |-
+    What's troubling you? You can tell me.
+    I can't help you if you don't tell me anything.
+  ko: "뭐 고민 있어? 있으면 빨리 말해. \n들어야 해결해 주든가 말든가 할 거 아냐."
+  ja: |-
+    何か悩みでもあるの？
+    だったら早く言いなさいよ。
+c171_Outpost_Touch_1:
+  en: Get rid of those Nikkes who are causing a scene in the Courthouse.
+  ko: 법원에 와서 저 시끄러운 니케들 좀 데려가.
+  ja: |-
+    裁判所に来て あのうるさいニケたちを
+    ちょっと連れてって ちょうだい。
+c171_Outpost_Touch_2:
+  en: They call this a Courthouse?
+  ko: 여기 법원은 소꿉놀이하기엔 좋아 보이더군.
+  ja: ここの裁判所はおままごとに 丁度いいと思うわ。
+c171_Outpost_Touch_3:
+  en: The weather here is so nice... It's making me sleepy...
+  ko: 칫 공기가 맑고 난리야, 자고 싶게….
+  ja: ちっ、空気は澄んでるし、 眠たくなるじゃない…
+c171_Gacha_Get_1:
+  en: Looks like things just got a whole lot more complicated.
+  ko: 하아, 귀찮은 일이 늘어나 버렸군.
+  ja: はあ、面倒なことがまた一つ増えちゃった。
+c171_Reinforce_1:
+  en: I appreciate your support, but I assume it comes at a price?
+  ko: 지원은 감사하다만, 뭘 시키려고?
+  ja: 支援は有り難く頂戴するけど、また何か仕事？
+c171_Reinforce_2:
+  en: I'll do everything I can to show that your trust in me isn't misplaced.
+  ko: 믿음은 결과로 증명하겠다.
+  ja: 信用は結果で証明してみせる。
+c171_Reinforce_3:
+  en: You must have gone through a lot to upgrade me to this level.
+  ko: 이 정도로 강화해 주려면 고생 좀 했겠군.
+  ja: ここまで強化してくれるなんて、結構大変だったでしょう。
+c171_Gift_1:
+  en: Is it for me? Why?
+  ko: 나한테 이걸 준다고? 왜?
+  ja: 私にこれをくれるの？何で？
+c171_Gift_2:
+  en: Thanks... Agh, I'm not used to saying things like this.
+  ko: 신입… 고… 아, 이런 쑥스러운 말 못 해!
+  ja: 新人…あり…あ、恥ずかしくて言えない！
+c171_Gift_3:
+  en: Just for the record, nothing's changed just because you've given me this.
+  ko: 미리 말하지만, 이걸 준다고 달라지는 건 없을 거다.
+  ja: 先に言っとくけど、これをもらったからって何も変わりはしないわ。
+c171_Attractive_Up_1:
+  en: No funny business while I'm around. It'll only distract me.
+  ko: 자꾸 옆에서 깔짝대지 마. 신경 쓰이니까.
+  ja: 隣でウロチョロしないで。気が散るのよ。
+c171_Attractive_Up_2:
+  en: Gah, why do you make me so worried all the time?! So annoying!
+  ko: 아, 자꾸 신경 쓰이게 만드네. 정말!
+  ja: |-
+    もう、気になるじゃない。
+    まったく！
+c171_Attractive_Up_3:
+  en: |-
+    I hate owing other people favors.
+    Be it out of kindness or any other emotion, if you did something for me, I guarantee that I will repay you in kind.
+  ko: |-
+    신입! 난 빚지는 건 딱 질색이야.
+    호의든 애정이든 뭐든 간에 꼭 갚을 거다.
+  ja: |-
+    新人！私は借りを作るのが大嫌いなの。
+    好意だろうが愛情だろうが、必ず返させてもらうわ。
+c171_Party_Deploy_1:
+  en: Ready to go?
+  ko: 출발할 준비는 됐나?
+  ja: 出発の準備はできた？
+c171_Field_Touch_1:
+  en: What is it?
+  ko: 뭐, 말해.
+  ja: 何よ、早く言って。
+c171_Field_Go_1:
+  en: Understood.
+  ko: 알겠다.
+  ja: 分かったわ。
+c171_Battle_Enter_1:
+  en: Entering the battle.
+  ko: 전투에 돌입한다.
+  ja: 戦闘に突入する。
+c171_Battle_Ready_1:
+  en: Don't worry. We've got this.
+  ko: 허둥대지 마. 이길 수 있으니까.
+  ja: うろたえないの。勝てるから。
+c171_Battle_Ready_2:
+  en: You'll be the commander, Newbie.
+  ko: 신입. 지휘는 맡긴다.
+  ja: 新人。指揮を頼むわよ。
+c171_Battle_Ready_3:
+  en: Battle start.
+  ko: 작전, 시작한다.
+  ja: 作戦、開始。
+c171_Reload_1:
+  en: This is taking longer than I expected.
+  ko: 칫, 생각보다 길어지는군.
+  ja: ちっ、思ったより長引くわね。
+c171_Reload_2:
+  en: How are you holding up, Newbie?
+  ko: 신입, 멘탈은 괜찮나?
+  ja: 新人、メンタルは大丈夫？
+c171_Reload_3:
+  en: Let me reload and I'll be right there.
+  ko: 리로드하고 가겠다.
+  ja: リロードしてから行く。
+c171_Ult_Skill_Ready_1:
+  en: Newbie!
+  ko: 신입!
+  ja: 新人！
+c171_Ult_Skill_1:
+  en: I've got a lot on my plate right now. Get the hell out of my way!
+  ko: 네놈들 말고도 처리할 일 많아! 다 꺼져버려!
+  ja: 仕事が山積みなのよ！全部消え失せろ！
+c171_FullBurst_1:
+  en: I refuse to work overtime! Be gone!
+  ko: 잔업은 사양한다! 전부 쓸어버려!
+  ja: 残業は遠慮する！全部一掃してしまえ！
+c171_Kill_Monster_1:
+  en: Target down.
+  ko: 목표 제거.
+  ja: 目標を除去。
+c171_Kill_Monster_2:
+  en: Where's the next target?
+  ko: 다음 타깃은?
+  ja: 次のターゲットは？
+c171_Kill_Monster_3:
+  en: Feels nice to blow off some steam.
+  ko: 후련하군.
+  ja: せいせいする。
+c171_Damage_1:
+  en: Hmph.
+  ko: 칫.
+  ja: チッ。
+c171_Damage_2:
+  en: Damn it.
+  ko: 제기랄.
+  ja: くそっ。
+c171_Damage_3:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c171_Die_1:
+  en: Damn... Sorry about that, Newbie.
+  ko: 칫… 미안하다. 신입.
+  ja: ちっ…すまないな。新人。
+c171_Win_1:
+  en: Mission clear. Good job.
+  ko: 전투 완료. 수고했다.
+  ja: 戦闘完了。ご苦労だった。
+171_cv_ja:
+  en: 'CV: Nanami Yamashita'
+  ko: 'CV : 야마시타 나나미'
+  ja: CV：山下七海
+171_cv_ko:
+  en: 'CV: Park Sin-hee'
+  ko: 'CV : 박신희'
+  ja: CV：パク・シニ
+171_cv_en:
+  en: "CV: \tSuzie Yeung"
+  ko: 'CV : 수지 융'
+  ja: CV：Suzie Yeung

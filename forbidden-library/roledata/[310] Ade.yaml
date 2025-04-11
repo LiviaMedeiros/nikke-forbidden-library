@@ -1,0 +1,472 @@
+---
+310_name:
+  en: Ade
+  ko: 에이드
+  ja: エード
+c310_description:
+  en: |-
+    A Nikke from the Maid For You squad.
+    She's calm, gentle, and friendly: truly a perfect maid.
+  ko: |-
+    메이드 포 유 스쿼드 소속.
+    차분하고 다소곳하며 친절한, 그야말로 완벽한 메이드.
+  ja: |-
+    メイド・フォー・ユー部隊所属。
+    落ち着きがあり、奥ゆかしくて親切な、
+    まさに完璧なメイド。
+310_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_331001:
+  en: Ade's Spare Body
+  ko: 에이드 스페어 바디
+  ja: エードのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23102_name:
+  en: Rest Time
+  ko: 잠시 쉬어갈 시간입니다, 주인님.
+  ja: 休憩のお時間です、ご主人様
+23102_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects all allies.
+    <color=#00AEFF>Perfect Maid: Gain <word_group=10039>debuff immunity</word_group> to {description_value_02} debuff(s), stacking up to {description_value_06} time(s) continuously.</color>
+    ■ Activates after {description_value_03} normal attack(s). Affects all allies.
+    <color=#00AEFF>Max HP ▲ {description_value_04}% of caster's Max HP without restoring HP, lasts for {description_value_05} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
+    <color=#00AEFF>[완벽한 메이드 : <word_group=10039>해로운 효과 면역</word_group> {description_value_02}개] [{description_value_06} 중첩] [지속]</color>
+    ■ 일반 공격 {description_value_03}회 공격 시 아군 전체에게
+    <color=#00AEFF>[시전자 기준 최대 체력만 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、味方全体に
+    <color=#00AEFF>「完璧なメイド：<word_group=10039>デバフ効果免疫</word_group>{description_value_02}個」「{description_value_06}スタック」「持続」</color>
+    ■通常攻撃で{description_value_03}回攻撃した時、味方全体に
+    <color=#00AEFF>「スキル発動者基準で最大HPのみ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23101_name:
+  en: Cleaning Time
+  ko: 청소를 시작하겠습니다, 주인님.
+  ja: お掃除を始めます、ご主人様
+23101_description:
+  en: |-
+    ■ Activates when entering battle. Affects all allies.
+    <color=#00AEFF>Perfect Maid: Gain <word_group=10039>debuff immunity</word_group> to {description_value_01} debuff(s), stacking up to {description_value_05} time(s) continuously.</color>
+    ■ Activates when own HP falls below {description_value_02}%. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 아군 전체에게
+    <color=#00AEFF>[완벽한 메이드 : <word_group=10039>해로운 효과 면역</word_group> {description_value_01}개] [{description_value_05} 중첩] [지속]</color>
+    ■ 자신의 체력이  {description_value_02}% 이하일 때 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、味方全体に
+    <color=#00AEFF>「完璧なメイド：<word_group=10039>デバフ効果免疫</word_group>{description_value_01}個」「{description_value_05}スタック」「持続」</color>
+    ■自分のHPが{description_value_02}％以下の時、味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13103_name:
+  en: Mealtime
+  ko: 식사 시간입니다, 주인님.
+  ja: お食事のお時間です、ご主人様
+13103_description:
+  en: "■ Affects all allies.\n<color=#00AEFF>Max HP ▲ {description_value_01}% of caster's
+    Max HP without restoring HP, lasts for {description_value_02} sec. \nATK ▲ {description_value_03}%
+    of caster's ATK for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자 기준 최대 체력만 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>｢スキル発動者基準で最大HPのみ{description_value_01}％▲｣｢{description_value_02}秒間維持｣
+    ｢スキル発動者基準で攻撃力{description_value_03}％▲｣
+    ｢{description_value_04}秒間維持｣</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+311_name:
+  en: Cocoa
+  ko: 코코아
+  ja: ココア
+312_name:
+  en: Soda
+  ko: 소다
+  ja: ソーダ
+313_name:
+  en: 'Privaty: Unkind Maid'
+  ko: '프리바티 : 언카인드 메이드'
+  ja: プリバティ：アンカインド・メイド
+314_name:
+  en: 'Soda: Twinkling Bunny'
+  ko: '소다 : 트윙클링 바니'
+  ja: ソーダ：トゥインクルバニー
+c310_Lobby_Touch_1:
+  en: Welcome, Master.
+  ko: 어서 오세요, 주인님.
+  ja: いらっしゃいませ、ご主人様。
+c310_Lobby_Touch_2:
+  en: Would you like some dessert?
+  ko: 디저트 내어 드릴까요?
+  ja: スイーツをお持ちしましょうか？
+c310_Lobby_Touch_3:
+  en: What can I do for you?
+  ko: 주인님, 필요하신 거라도 있으실까요?
+  ja: ご主人様、何かお探しですか？
+c310_Lobby_Touch_Love_1:
+  en: I'm ready whenever you need me.
+  ko: 기다리고 있었어요, 주인님.
+  ja: お待ちしておりました、ご主人様。
+c310_Lobby_Touch_Love_2:
+  en: How has your day been?
+  ko: 오늘 하루는 어떠셨나요?
+  ja: 今日はどのような1日でございましたか？
+c310_Lobby_Touch_Love_3:
+  en: If Cocoa or Soda gives you any trouble, please let me know.
+  ko: 코코아랑 소다 때문에 곤란할 땐, 언제든 절 불러주세요.
+  ja: |-
+    ココアとソーダのことでお困りの際は、
+    いつでも私をお呼びください。
+c310_Lobby_Stay_1:
+  en: Are you busy at the moment?
+  ko: 주인님, 혹시 바쁘신가요?
+  ja: ご主人様、お忙しいでしょうか？
+c310_Lobby_Stay_Love_1:
+  en: I'm always here, so don't hesitate to call me if you need a hand.
+  ko: 전 여기 있으니, 도움이 필요할 땐 편히 불러주세요.
+  ja: 私はここにおります。お困りの際はお気軽にお呼びください。
+c310_Outpost_Touch_1:
+  en: What kind of service can satisfy every customer?
+  ko: 손님분들 모두가 만족할 만한 서비스, 뭐가 있을까요?
+  ja: お客様全員に ご満足いただける サービス… 何があるでしょうか？
+c310_Outpost_Touch_2:
+  en: |-
+    I am confident that the service we provide at Maid Cafe is world-class.
+    We look forward to your visit when you have time.
+  ko: |-
+    메이드 카페엔 주인님을 위한 서비스가 준비되어 있어요.
+    최고의 서비스라 자부하니, 시간 될 때 한번 들려주세요.
+  ja: |-
+    メイドカフェでは ご主人様のためのサービスを ご用意しております。
+    最高のサービスだと 自負しておりますので、
+    お時間のよろしい時に ぜひお立ち寄りください。
+c310_Outpost_Touch_3:
+  en: |-
+    Do you usually get enough rest day to day, Master?
+    I hope you can get some well-deserved rest on your day off.
+  ko: |-
+    주인님, 평소에 잘 쉬고 계신가요?
+    휴일엔 푹 쉬었으면 좋겠어요.
+  ja: |-
+    ご主人様、 いつもゆっくり休めて いらっしゃいますか？
+    休日はしっかりと お休みになってくださいませ。
+c310_Gacha_Get_1:
+  en: |-
+    Hello, my name is Ade,
+    and I'll be at your service.
+  ko: |-
+    안녕하세요. 주인님을 모시게 된 메이드,
+    에이드라고 해요.
+  ja: |-
+    ごきげんよう。ご主人様にお仕えさせていただくメイド、
+    エードと申します。
+c310_Reinforce_1:
+  en: We are always striving to provide you with better service, so please stay tuned.
+  ko: 한층 더 좋은 서비스, 기대하셔도 좋아요.
+  ja: さらに洗練されたサービスをご期待ください。
+c310_Reinforce_2:
+  en: I feel like I am making progress.
+  ko: 전보다 성장한 느낌이에요.
+  ja: 以前より成長できた気がします。
+c310_Reinforce_3:
+  en: Hehe, I think I'm more capable of assisting you now, Master.
+  ko: 후후, 주인님께 조금 더 도움 될 수 있겠네요.
+  ja: ふふ、またご主人様のお役に立てそうです。
+c310_Gift_1:
+  en: Oh my gosh! Is this for me?
+  ko: 어머…! 주인님, 저한테 주시는 건가요?
+  ja: まあ…！ご主人様、私にくださるのですか？
+c310_Gift_2:
+  en: Wait just a moment. Let me see if I can find something to give you in return.
+  ko: 잠시 기다려주시겠어요. 답례로 드릴 만한 걸 찾아올게요.
+  ja: 少々お待ちください。お返しになりそうなものを探してきます。
+c310_Gift_3:
+  en: Thank you for your kindness, Master. I appreciate it.
+  ko: 주인님의 마음, 감사히 받을게요.
+  ja: ご主人様のお気持ち、ありがたく受け取らせていただきます。
+c310_Attractive_Up_1:
+  en: Thank you for taking care of me, Master.
+  ko: 주인님, 항상 감사해요.
+  ja: ご主人様、いつもありがとうございます。
+c310_Attractive_Up_2:
+  en: I will repay you with the best service I can offer.
+  ko: 후후, 최고의 서비스로 보답해드릴게요.
+  ja: ふふ、最高のサービスでお返しいたしますね。
+c310_Attractive_Up_3:
+  en: It's my honor to serve you, Master.
+  ko: 주인님을 모실 수 있어 영광이에요.
+  ja: ご主人様にお仕えできて、光栄です。
+c310_Party_Deploy_1:
+  en: I won't let you down.
+  ko: 주인님 기대에 부응할게요.
+  ja: ご主人様の期待に応えてみせます。
+c310_Field_Touch_1:
+  en: I'm here, Master.
+  ko: 네, 주인님.
+  ja: はい、ご主人様。
+c310_Field_Go_1:
+  en: Going this way.
+  ko: 이쪽이군요.
+  ja: こちらですね。
+c310_Battle_Enter_1:
+  en: Order received.
+  ko: 주문, 접수했어요.
+  ja: ご注文、承りました。
+c310_Battle_Ready_1:
+  en: Let's take care of each other.
+  ko: 모두 잘 부탁드려요.
+  ja: みなさん、よろしくお願いいたします。
+c310_Battle_Ready_2:
+  en: Just remain calm, like we always do.
+  ko: 평소대로 차분히 하는 거예요.
+  ja: 普段通り、落ち着いていきましょう。
+c310_Battle_Ready_3:
+  en: Let's start cleaning, shall we?
+  ko: 청소, 시작해볼까요?
+  ja: お掃除を始めましょうか？
+c310_Reload_1:
+  en: Let me take a break.
+  ko: 조금만 쉴게요.
+  ja: 少しだけ休みますね。
+c310_Reload_2:
+  en: I'll check it out and be right back.
+  ko: 금방 점검하고 올게요.
+  ja: すぐに点検してまいります。
+c310_Reload_3:
+  en: I need a second.
+  ko: 잠깐 기다려주시겠어요?
+  ja: 少々お待ちいただけますか？
+c310_Ult_Skill_Ready_1:
+  en: Preparation complete, ready to serve.
+  ko: 서비스 준비, 끝났어요.
+  ja: サービスの支度が整いました。
+c310_Ult_Skill_1:
+  en: I'll provide you with the best service.
+  ko: 최고의 서비스로 모시겠습니다.
+  ja: 最高のサービスでおもてなしいたします。
+c310_FullBurst_1:
+  en: It's the rush hour. Leave it to me!
+  ko: 러시타임, 제게 맡기세요!
+  ja: 忙しい時間帯も、私にお任せください！
+c310_Kill_Monster_1:
+  en: One down.
+  ko: 하나, 처리했어요.
+  ja: 1体、処理しました。
+c310_Kill_Monster_2:
+  en: Is it over?
+  ko: 끝인가요?
+  ja: 終わりですか？
+c310_Kill_Monster_3:
+  en: All clear.
+  ko: 깔끔하군요.
+  ja: キレイになりましたね。
+c310_Damage_1:
+  en: Ahh!
+  ko: 앗!
+  ja: あっ！
+c310_Damage_2:
+  en: Gah!
+  ko: 어머!
+  ja: まあ！
+c310_Damage_3:
+  en: Ow...
+  ko: 읏….
+  ja: うっ…
+c310_Die_1:
+  en: I'm sorry, Master.
+  ko: 주인님, 죄송해요….
+  ja: ご主人様、申し訳ございません…
+c310_Win_1:
+  en: Are you satisfied with my service?
+  ko: 진심을 담은 서비스, 만족스러우셨나요?
+  ja: 私どものサービスに、ご満足いただけましたでしょうか？
+310_cv_ja:
+  en: 'CV: Kiyono Yasuno'
+  ko: 'CV : 야스노 키요노'
+  ja: CV：安野希世乃
+310_cv_ko:
+  en: 'CV: Hong Soo-jung'
+  ko: 'CV : 홍수정'
+  ja: CV：ホン・スジョン
+310_cv_en:
+  en: 'CV: Crystal Lee'
+  ko: 'CV : 크리스털 리'
+  ja: CV：Crystal Lee

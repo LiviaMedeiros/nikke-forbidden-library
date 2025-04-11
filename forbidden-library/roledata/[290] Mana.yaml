@@ -1,0 +1,480 @@
+---
+290_name:
+  en: Mana
+  ko: 마나
+  ja: マナ
+c290_description:
+  en: |-
+    A researcher from M.M.R. and a member of the M.M.R. squad.
+    She is a true jack of all trades, possessing both scientific expertise and superlative social skills—but her brilliance often leaves her inundated with work.
+  ko: |-
+    M.M.R.의 연구원이자, M.M.R. 스쿼드 소속의 니케.
+    과학자로서의 지식과 사회성까지 두루 겸비하고 있는 팔방미인이기에, 지독한 업무 과다에 시달리고 있다.
+  ja: |-
+    M.M.R.の研究員でありM.M.R.部隊所属のニケ。
+    科学者としての知識と社会性を備えた有能な人材であるため
+    過剰な業務に苦しんでいる。
+290_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50290:
+  en: Mana's Spare Body
+  ko: 마나 스페어 바디
+  ja: マナのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22902_name:
+  en: Metal σ
+  ko: 매터 시그마
+  ja: マターシグマ
+22902_description:
+  en: |-
+    ■ Activates at the start of the battle. Affects self.
+    <color=#00AEFF>Metal σ: <word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_01}% continuously.</color>
+    ■ Activates when entering Full Burst in Metal σ status. Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_02}% for {description_value_03} sec.
+    ATK ▲ {description_value_04}% for {description_value_05} sec.
+    Removes Metal σ.</color>
+    ■ Activates when entering Full Burst. Affects {description_value_06} ally unit(s) with the longest basic Charge Time.
+    <color=#00AEFF>Charge Time ▼ {description_value_07} sec for {description_value_08} sec.</color>
+    ■ Activates if the caster has cast Burst Skill before Full Burst ends. Affects self.
+    <color=#00AEFF>Metal σ: <word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_01}% continuously.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[매터 시그마 : <word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 풀 버스트 타임 시작 시 자신이 매터 시그마 상태라면 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [공격력 {description_value_04}% ▲] [{description_value_05}초 유지]
+    [매터 시그마 해제]</color>
+    ■ 풀 버스트 타임 시작 시 기본 차지 시간이 가장 긴 아군 {description_value_06}기에게
+    <color=#00AEFF>[차지 시간 {description_value_07}초 ▼] [{description_value_08}초 유지]</color>
+    ■ 풀 버스트 타임 종료 시 직전에 자신이 버스트 스킬을 사용 했다면 자신에게
+    <color=#00AEFF>[매터 시그마 : <word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_01}% ▲] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「マターシグマ：<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_01}％▲」「持続」</color>
+    ■フルバーストタイムが発動した時、自分がマターシグマ状態なら自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」
+    「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」
+    「マターシグマ解除」</color>
+    ■フルバーストタイムが発動した時、基本チャージ時間が一番長い味方{description_value_06}機に
+    <color=#00AEFF>「チャージ時間{description_value_07}秒▼」「{description_value_08}秒間維持」</color>
+    ■フルバーストタイムが終了した時、直前に自分がバーストスキルを使用していれば自分に
+    <color=#00AEFF>「マターシグマ：<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_01}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22901_name:
+  en: Metal γ
+  ko: 매터 감마
+  ja: マターガンマ
+22901_description:
+  en: "■ Activates at the start of the battle. Affects self. \n<color=#00AEFF>Metal
+    γ: ATK ▲ {description_value_01}% continuously. Activates once per battle.</color>\n■
+    Activates when in Metal γ status after landing 10 normal attacks. Affects all
+    allies.\n<color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group>
+    Max HP.</color>\n■ Activates if the caster is in Metal γ status when an ally is
+    out of action. Affects {description_value_03} incapacitated ally unit(s) with
+    the highest <word_group=10025>final</word_group> ATK (except caster).\n<color=#00AEFF>Resurrect
+    with {description_value_04}% HP.</color>\n■ Activates when an ally is out of action.
+    Affects self.\n<color=#00AEFF>Removes Metal γ.</color>"
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[매터 감마 : 공격력 {description_value_01}% ▲] [지속] [전투 중 1회 발동]</color>
+    ■ 일반 공격 10회 공격 시 자신이 매터 감마 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
+    ■ 아군 전투불능 시 자신이 매터 감마 상태라면 자신을 제외한 전투불능 상태 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_03}기에게
+    <color=#00AEFF>[체력 {description_value_04}%로 부활]</color>
+    ■ 아군 전투불능 시 자신에게
+    <color=#00AEFF>[매터 감마 해제]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「マターガンマ：攻撃力{description_value_01}％▲」
+    「持続」「戦闘中1回発動」</color>
+    ■通常攻撃で10回攻撃した時、
+    自分がマターガンマ状態なら味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_02}％回復」</color>
+    ■味方が戦闘不能時、自分がマターガンマ状態なら自分を除く戦闘不能状態の<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_03}機に
+    <color=#00AEFF>「HP{description_value_04}％で復活」</color>
+    ■味方が戦闘不能時、自分に
+    <color=#00AEFF>「マターガンマ解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12903_name:
+  en: Fatal Error!
+  ko: 페이탈 에러!
+  ja: フェイタルエラー！
+12903_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects {description_value_03} enemy unit(s) nearest to the crosshair.
+     <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 조준선에 가장 가까운 적 {description_value_03}기에게
+     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% 지속 대미지] [1초 간격] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「持続ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■照準線に最も近い敵{description_value_03}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の持続ダメージ」
+    「1秒間隔」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+291_name:
+  en: Ether
+  ko: 에테르
+  ja: エーテル
+c290_Lobby_Touch_1:
+  en: Phew... Er, I'm not tired! Honestly.
+  ko: "…후우. 피, 피곤한 거 아닙니다."
+  ja: "…ふう。つ、疲れてなんかいませんよ。"
+c290_Lobby_Touch_2:
+  en: I'm sorry, but could you not bother me?
+  ko: 죄송하지만 건드리지 말아 주시죠…!
+  ja: すみませんが…触らないでください。
+c290_Lobby_Touch_3:
+  en: Don’t tell me I have to work overtime...
+  ko: 설마 추가 업무입니까?
+  ja: まさか、追加業務ですか？
+c290_Lobby_Touch_Love_1:
+  en: How about grabbing a drink together later?
+  ko: 이따가 같이 술이나 한잔하러 가시죠.
+  ja: 後でお酒でも飲みに行きましょう。
+c290_Lobby_Touch_Love_2:
+  en: I was feeling tired, but seeing your face puts a little pep in my step, Commander.
+  ko: 피곤했는데 지휘관 얼굴을 보니 좀 낫군요.
+  ja: 指揮官の顔を見たら、元気が出てきました。
+c290_Lobby_Touch_Love_3:
+  en: Wh-why are you poking me?
+  ko: 왜, 왜 찌르시는 거죠?
+  ja: ど、どうしてつっつくのですか？
+c290_Lobby_Stay_1:
+  en: "*Sigh*... I don't have time for this."
+  ko: 하아, 여기서 이러고 있을 시간이 없는데….
+  ja: はあ…ここでこんなことをしている暇はないのですが…
+c290_Lobby_Stay_Love_1:
+  en: Where did you go, Commander? I made time to see you.
+  ko: 지휘관, 짬 내서 얼굴 보러 온 건데 어딜 가신 거죠?
+  ja: |-
+    指揮官…仕事の合間を見て会いに来たのに、
+    どこに行かれたのでしょう？
+c290_Outpost_Touch_1:
+  en: I’m on my way to the library to gather some materials.
+  ko: 도서관에 자료를 찾으러 가는 길입니다.
+  ja: 資料を探しに、 図書館へ行くところです。
+c290_Outpost_Touch_2:
+  en: The work never seems to end.
+  ko: 일은 해도 해도 끝이 안 보이네요.
+  ja: いくらやっても、 仕事が減りません。
+c290_Outpost_Touch_3:
+  en: Ever since I got here, it feels like there's been even more work to do.
+  ko: 여기에 오고 나서 일이 더 많아진 것 같습니다.
+  ja: ここに来てから、 より仕事が増えた気がします。
+c290_Gacha_Get_1:
+  en: "*Sigh*... Looks like I’m going to be busier for the time being."
+  ko: 하아… 당분간 더 바빠지겠군요.
+  ja: はぁ…また忙しくなりそうですね。
+c290_Reinforce_1:
+  en: The stronger I become, the more work there seems to be.
+  ko: 강해진 만큼 일이 더 많아지겠군요.
+  ja: 強くなった分、もっと仕事が増えそうですね…
+c290_Reinforce_2:
+  en: Thank you for trusting me.
+  ko: 믿어주셔서 감사합니다.
+  ja: 信じてくださって、ありがとうございます。
+c290_Reinforce_3:
+  en: Does this mean... I need to work even harder from here on out?
+  ko: 앞으로 더 열심히 일하라는… 그런 겁니까?
+  ja: より一生懸命働け…という意味でしょうか。
+c290_Gift_1:
+  en: I... I’m not sure if I deserve to receive something like this.
+  ko: 제가… 이런 걸 받아도 될지 잘 모르겠습니다.
+  ja: 私がこんなものを頂いてもいいのでしょうか。
+c290_Gift_2:
+  en: Oh my... thank you.
+  ko: 아… 감사합니다.
+  ja: あ…ありがとうございます。
+c290_Gift_3:
+  en: What kind of work are you planning to assign me with a gift like this...
+  ko: 어떤 일을 시키시려고 이런 선물을….
+  ja: |-
+    プレゼントまでくださるなんて…
+    いったいどんな仕事をさせるおつもりでしょうか…
+c290_Attractive_Up_1:
+  en: I find myself thinking more and more about you.
+  ko: 지휘관이 점점 신경 쓰이는군요….
+  ja: 指揮官のことがますます気になってしまいます…
+c290_Attractive_Up_2:
+  en: Lately, whenever I drink, I end up looking for you.
+  ko: 요새 술만 마시면 지휘관을 그렇게 찾는대요.
+  ja: 最近はお酒を飲んだら必ず、指揮官の姿を探してしまうようです…
+c290_Attractive_Up_3:
+  en: I can’t concentrate on work because I keep thinking about you.
+  ko: 지휘관 생각 때문에 일에 집중이 잘 안됩니다.
+  ja: 指揮官のことで頭がいっぱいで、仕事に集中できません。
+c290_Party_Deploy_1:
+  en: More work again?
+  ko: 또 새로운 일입니까?
+  ja: また新しい仕事ですか？
+c290_Field_Touch_1:
+  en: You called?
+  ko: 부르셨습니까?
+  ja: お呼びでしょうか？
+c290_Field_Go_1:
+  en: Moving out.
+  ko: 이동합니다.
+  ja: 移動します。
+c290_Battle_Enter_1:
+  en: Enemy spotted, engaging!
+  ko: 적 발견, 교전합니다!
+  ja: 敵を発見、交戦します！
+c290_Battle_Ready_1:
+  en: Moving in.
+  ko: 진입합니다.
+  ja: 進入します。
+c290_Battle_Ready_2:
+  en: Encounter!
+  ko: 인카운터!
+  ja: エンカウンター！
+c290_Battle_Ready_3:
+  en: I hope this is the last task.
+  ko: 마지막 업무였으면 좋겠습니다.
+  ja: これが最後の仕事であることを願います。
+c290_Reload_1:
+  en: Reload.
+  ko: 리로드.
+  ja: リロード。
+c290_Reload_2:
+  en: Reloading.
+  ko: 장전합니다.
+  ja: 装填します。
+c290_Reload_3:
+  en: Let’s head back.
+  ko: 다시 가보죠.
+  ja: もう一度行きましょう。
+c290_Ult_Skill_Ready_1:
+  en: Reporting in.
+  ko: 보고드립니다.
+  ja: ご報告いたします。
+c290_Ult_Skill_1:
+  en: Once I finish the final task... huh?
+  ko: 마무리 작업만 하면… 어?
+  ja: あとは最終確認を…え？
+c290_FullBurst_1:
+  en: Let’s wrap this up.
+  ko: 슬슬 마무리하죠.
+  ja: そろそろ終わりにしましょう。
+c290_Kill_Monster_1:
+  en: I've handled it.
+  ko: 처리했습니다.
+  ja: 処理しました。
+c290_Kill_Monster_2:
+  en: It’s nothing special.
+  ko: 별거 아니군요.
+  ja: 大したことありませんね。
+c290_Kill_Monster_3:
+  en: Target eliminated.
+  ko: 처치 완료.
+  ja: 処理完了。
+c290_Damage_1:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c290_Damage_2:
+  en: Ugh...!
+  ko: 크읏…!
+  ja: くっ…！
+c290_Damage_3:
+  en: "*Gasp*"
+  ko: 허억!
+  ja: ううっ！
+c290_Die_1:
+  en: I’m sorry for disappointing you...
+  ko: 실망시켜드려 죄송합니다….
+  ja: 失望させてしまい、申し訳ございません…
+c290_Win_1:
+  en: A rather simple task.
+  ko: 간단한 일이죠.
+  ja: お安いご用です。
+290_cv_ja:
+  en: 'CV: Mai Nakahara'
+  ko: 'CV : 나카하라 마이'
+  ja: CV：中原麻衣
+290_cv_ko:
+  en: 'CV: Lee Myung-hee'
+  ko: 'CV : 이명희'
+  ja: CV：イ・ミョンヒ
+290_cv_en:
+  en: 'CV: Skyler Davenport'
+  ko: 'CV : 스카일러 데이븐포트'
+  ja: CV：Skyler Davenport

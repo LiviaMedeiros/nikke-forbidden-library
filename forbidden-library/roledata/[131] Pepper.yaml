@@ -1,0 +1,706 @@
+---
+131_name:
+  en: Pepper
+  ko: 페퍼
+  ja: ペッパー
+c131_description:
+  en: A doctor who takes care of her patients with optimism. She is like a vitamin
+    to Seraphim, and is admired by many as an idol of the hospital.
+  ko: |-
+    긍정의 에너지로 환자들을 보살피는, 세라핌 스쿼드의 비타민 같은 의사.
+    많은 이들이 그녀를 병원의 아이돌처럼 여기고 있다.
+  ja: |-
+    持ち前の明るさで患者を支える、
+    セラフィム部隊のビタミンのような医師。
+    多くの人から病院のアイドルとしてかわいがられている。
+131_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50131:
+  en: Pepper's Spare Body
+  ko: 페퍼 스페어 바디
+  ja: ペッパーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+11312_name:
+  en: Vitamin Power
+  ko: 비타민파워
+  ja: ビタミンパワー
+11312_description:
+  en: "■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group>
+    ATK. \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as damage.\nATK ▼ {description_value_03}% for {description_value_04} sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]
+    [공격력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」
+    「攻撃力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21311_name:
+  en: Refresh Heart
+  ko: 리프레쉬 하트
+  ja: リフレッシュハート
+21311_description:
+  en: |-
+    ■ Activates when the last bullet hits the target. Affects {description_value_01} ally unit(s) with the lowest HP percentage.
+    <color=#00AEFF>Restores HP equal to {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP.</color>
+    ■ Activates when the last bullet hits the target. Affects all allies.
+    <color=#00AEFF>Refresh Heart: Potency of HP restored ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+  ko: |-
+    ■ 마지막 탄환 명중 시 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
+    ■ 마지막 탄환 명중 시 아군 전체에게
+    <color=#00AEFF>[리프레쉬 하트 : 받는 체력 회복량 {description_value_03}% ▲] [{description_value_04} 중첩] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、残りのHPの割合が最も低い味方{description_value_01}機に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
+    ■最後の弾丸が命中した時、味方全体に
+    <color=#00AEFF>「リフレッシュハート：受けるHP回復量{description_value_03}％▲」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11313_name:
+  en: Pepper Therapy
+  ko: 페퍼 테라피
+  ja: ペッパーセラピー
+11313_description_1:
+  en: |-
+    ■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_03}</color>.
+    ■ Activates when Refresh Heart is fully stacked. Affects all allies.
+    <color=#00AEFF>Restores HP equal to {description_value_04}% of the caster's <word_group=10025>final</word_group> Max HP.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10001>중첩 가능 이로운 효과 중첩량</word_group> {description_value_03}개 ▲]</color>
+    ■ 자신이 리프레쉬 하트 최대 중첩 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_04}% 회복]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のバーストスキルダメージ」</color>
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10001>スタック可能バフ効果のスタック量</word_group>{description_value_03}個▲」</color>
+    ■自分がリフレッシュハートのフルスタック状態なら、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_04}％回復」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+130_name:
+  en: Mary
+  ko: 메어리
+  ja: メアリー
+132_name:
+  en: 'Mary: Bay Goddess'
+  ko: '메어리 : 베이 갓데스'
+  ja: メアリー：ベイゴッデス
+c131_Lobby_Touch_1:
+  en: Good luck today, Commander!
+  ko: 지휘관! 오늘도 힘내세요!
+  ja: |-
+    指揮官！
+    今日も頑張りましょうね！
+c131_Lobby_Touch_2:
+  en: Have you been taking good care of yourself?
+  ko: 건강은 잘 챙기고 계신 거죠?
+  ja: 一にも二にも健康第一ですよ？
+c131_Lobby_Touch_3:
+  en: You've got to keep yourself in tip-top shape!
+  ko: 아픈 몸도, 아픈 마음도 모두 모두 치료되기를!
+  ja: ケガした体も、傷ついた心も全部癒されますように！
+c131_Lobby_Touch_Love_1:
+  en: |-
+    Commander, Commander!
+    Every time I call you, I feel so happy, hee-hee.
+  ko: |-
+    지휘관~ 지휘과안~.
+    언제 불러도 좋네요, 헤헤.
+  ja: |-
+    指揮官～指揮官～
+    何回でもこうして呼びたいです、へへ。
+c131_Lobby_Touch_Love_2:
+  en: |-
+    Would you like to go on a date with me today?
+    I just so happen to have some time off, hee-hee.
+  ko: |-
+    오늘 데이트하러 가실래요?
+    마침 휴가거든요~ 헤헤.
+  ja: |-
+    今日デートしませんか？
+    ちょうど非番なんですよ～へへ。
+c131_Lobby_Touch_Love_3:
+  en: |-
+    Commander, work is important but you know that rest is important too, right?
+    Rest is also a kind of work y'know.
+  ko: |-
+    지휘관, 성실한 것도 좋지만 건강이 최고인 거 아시죠?
+    조금 쉬어주는 것도 방법이에요.
+  ja: |-
+    指揮官、一生懸命なのもいいですが、何と言っても健康が一番です。
+    休むことも必要です。
+c131_Lobby_Stay_1:
+  en: |-
+    Commander? We've got work to do.
+    When are you gonna show up?
+  ko: |-
+    지휘관? 저 이제 일하러 가봐야 할 것 같은데
+    언제쯤 오시는 거죠?
+  ja: |-
+    指揮官？私、そろそろ仕事に戻らないといけません。
+    次はいつ来てくれますか？
+c131_Lobby_Stay_Love_1:
+  en: C'mon Commander, where are you? I have to admit though, even waiting for him
+    feels nice.
+  ko: |-
+    지휘관을 기다리는 시간마저 즐겁네요.
+    언제쯤 오시려나~
+  ja: |-
+    指揮官を待つ時間も楽しいです。
+    いつ頃来ますかね～
+c131_Outpost_Touch_1:
+  en: It's a super nice day today!
+  ko: 오늘은 날씨가 엄청~ 좋네요!
+  ja: 今日は天気が と～ってもいいですね！
+c131_Outpost_Touch_2:
+  en: How can I put it... It's just that the Outpost feels so... full of life!
+  ko: 전초기지는 뭐랄까… 늘 생기가 넘치는 거 같아요!
+  ja: |-
+    前哨基地ってなんというか…
+    いつもパワーが みなぎる感じです！
+c131_Outpost_Touch_3:
+  en: Have you come for a physical, Commander?
+  ko: 지휘관, 병원에 오셔서 건강검진이라도 받고 가실래요?
+  ja: 指揮官、病院に来て 健康診断でも受けませんか？
+c131_Gacha_Get_1:
+  en: Even if there is only a 1% chance, you can be cured!
+  ko: 1%의 가능성이라도 있다면 반드시 치료할 수 있어요!
+  ja: 1％でも可能性があれば、絶対に治療を諦めません！
+c131_Reinforce_1:
+  en: Tougher in both body and soul!
+  ko: 몸도 튼튼! 마음도 튼튼!
+  ja: 体も元気！心も元気！
+c131_Reinforce_2:
+  en: I'm stronger, Commander!
+  ko: 강해졌어요, 지휘관!
+  ja: 強くなりました、指揮官！
+c131_Reinforce_3:
+  en: It's all thanks to you!
+  ko: 이렇게 강해진 건 다 지휘관 덕분이에요!
+  ja: こんなに強くなれたのも、全部指揮官のおかげです！
+c131_Gift_1:
+  en: A present for me? Really?
+  ko: 선물 주시는 건가요? 진짜요?
+  ja: プレゼントですか？本当ですか？
+c131_Gift_2:
+  en: Thank you!
+  ko: 감사합니다!
+  ja: ありがとうございます！
+c131_Gift_3:
+  en: Wow, I'm so touched!
+  ko: 우와~ 감동이에요!
+  ja: うわ～感動しました！
+c131_Attractive_Up_1:
+  en: The Commander... is someone I can see myself falling in love with.
+  ko: 지휘관은 뭐랄까… 연애하고 싶어지는 사람이네요.
+  ja: 指揮官って…恋をしたくなる人ですね。
+c131_Attractive_Up_2:
+  en: |-
+    I want to spend more time with you.
+    May I get closer to you?
+  ko: 점점 지휘관에게 욕심이 생겨요. 제가 다가가도 될까요?
+  ja: |-
+    もっともっと指揮官のことが好きになります。
+    少しだけ近づいてもいいですか？
+c131_Attractive_Up_3:
+  en: It's a great pleasure knowing you, Commander!
+  ko: 지휘관을 알게 돼서 정말 기뻐요!
+  ja: 指揮官に会えて本当によかったです！
+c131_Party_Deploy_1:
+  en: Let's step on it!
+  ko: 우리 힘내서 가요!
+  ja: ほら、元気出して行きましょう！
+c131_Field_Touch_1:
+  en: Present! Awaiting your orders!
+  ko: 네! 말씀해 주세요!
+  ja: はい！お話しください！
+c131_Field_Go_1:
+  en: Should I go over there?
+  ko: 아… 저쪽으로요?
+  ja: あ…あっちにですか？
+c131_Battle_Enter_1:
+  en: Enemy incoming!
+  ko: 읏… 적이 옵니다!
+  ja: うっ…敵が来ます！
+c131_Battle_Ready_1:
+  en: Keep it up!
+  ko: 힘내서 가볼까요!
+  ja: 頑張って行ってきます！
+c131_Battle_Ready_2:
+  en: We can win!
+  ko: 우린 이길 수 있을 거예요!
+  ja: 私たちなら勝てます！
+c131_Battle_Ready_3:
+  en: I hope nobody gets hurt!
+  ko: 모두 다치지 않고 끝나길…!
+  ja: みなさんケガしないで終われますように…！
+c131_Reload_1:
+  en: Reloading!
+  ko: 장전은… 이렇게…!
+  ja: 装填は…こうやって…！
+c131_Reload_2:
+  en: This is tougher than I expected.
+  ko: 헤헤, 쉽지 않네요.
+  ja: へへ、難しいですね。
+c131_Reload_3:
+  en: I can do this!
+  ko: 조금 더 힘내볼게요!
+  ja: もう少し頑張ってみます！
+c131_Ult_Skill_Ready_1:
+  en: It's my turn!
+  ko: 제 차례에요!
+  ja: 私の番です！
+c131_Ult_Skill_1:
+  en: Don't give up! Let me help!
+  ko: 포기하시면 안 돼요…! 제가 도와드릴게요!
+  ja: 諦めてはダメです…！私がサポートします！
+c131_FullBurst_1:
+  en: Come on! We can defeat them!
+  ko: 더, 더, 더! 쓰러뜨릴 수 있어요!
+  ja: もっと、もっと！絶対に倒せます！
+c131_Kill_Monster_1:
+  en: Yeah! I made it!
+  ko: 해냈어요!
+  ja: やりました！
+c131_Kill_Monster_2:
+  en: Did you see that?
+  ko: 방금 보셨어요?
+  ja: さっきの見ましたか？
+c131_Kill_Monster_3:
+  en: W-we made it!
+  ko: 이, 이게 되네요!
+  ja: こ、これができるんですね！
+c131_Damage_1:
+  en: Ow!
+  ko: 읏!
+  ja: うっ！
+c131_Damage_2:
+  en: Aah!
+  ko: 꺄악!
+  ja: きゃあ！
+c131_Damage_3:
+  en: Ow!
+  ko: 으윽!
+  ja: ううっ！
+c131_Die_1:
+  en: Sorry, I thought we could win...
+  ko: 죄송해요, 이길 수 있을 줄 알았는데….
+  ja: すみません、勝てると思ったんです…
+c131_Win_1:
+  en: W-we won! We did it!
+  ko: 승리… 승리에요! 해냈어요, 우리!
+  ja: 勝利…勝利です！私たち、やりました！
+c131_01_Lobby_Touch_1:
+  en: Commander! It's summer! It's summer!
+  ko: 지휘관! 여름이에요~ 여름이 왔어요!
+  ja: |-
+    指揮官！
+    夏ですよ～夏が来ました！
+c131_01_Lobby_Touch_2:
+  en: It's going to be a vitamin-filled summer!
+  ko: 비타민 가득한 여름이 왔어요~!
+  ja: ビタミンいっぱいの夏が来ました～！
+c131_01_Lobby_Touch_3:
+  en: The sea may be beautiful, but the sun can be very harmful. Be careful.
+  ko: |-
+    바다는 즐겁지만 햇빛이 뜨거우니까
+    조심하셔야 해요~!
+  ja: 海は楽しいですが、日差しが強いので気をつけてくださいね～！
+c131_01_Lobby_Touch_Love_1:
+  en: Would you like to take some vitamins before going for a dip?
+  ko: |-
+    물놀이하러 가기 전에,
+    비타민 충천하러 가실래요?
+  ja: 水遊びの前に、ビタミンチャージしませんか？
+c131_01_Lobby_Touch_Love_2:
+  en: What do you think of my swimsuit?
+  ko: "바다에 간다고 해서 수영복을 입어봤는데… 에헤헤. \n어때요?"
+  ja: |-
+    海に行くって聞いたので、水着を着てみたのですが…
+    えへへ。どうですか？
+c131_01_Lobby_Touch_Love_3:
+  en: Commander! Come talk to me if you're tired of swimming.
+  ko: |-
+    지휘관~!
+    물놀이하다가 지치면 언제든 찾아오세요~!
+  ja: |-
+    指揮官～！
+    水遊びで疲れたら、いつでも私のところへ来てくださいね～！
+c131_01_Lobby_Stay_1:
+  en: Where have you been, Commander? Did you go for a swim?
+  ko: |-
+    지휘관 어디 가셨어요?
+    물놀이하러 가신 건가요?
+  ja: |-
+    指揮官、どこですか？
+    水遊びに行っちゃったんですか？
+c131_01_Lobby_Stay_Love_1:
+  en: Ah, this feels nice. I love working at the hospital, but it's nice to get out
+    and have some fun once in a while.
+  ko: |-
+    음~ 좋다~
+    병원에 있는 것도 좋지만 이렇게 나와서 노는 것도 좋네요~
+  ja: |-
+    う～ん、いいですね～
+    病院にいるのもいいですが、こうして外で遊ぶのも最高です～
+c131_01_Outpost_Touch_1:
+  en: We're going to set up a first aid station by the pool. Would you like to have
+    a look?
+  ko: |-
+    수영장 근처에도 치료소를 만들어 놓을 건데,
+    한번 보고 가실래요?
+  ja: |-
+    プールの近くにも 診療所を作ろうと 思ってるんですが、
+     一度ご覧になりますか？
+c131_01_Outpost_Touch_2:
+  en: How about a physical to celebrate the arrival of summer?
+  ko: 여름 기념으로 건강검진받고 가실래요?
+  ja: 夏の記念に健康診断、 いかがですか？
+c131_01_Outpost_Touch_3:
+  en: Isn't the sunshine wonderful? What a lovely day to swim in the sea.
+  ko: |-
+    햇살이 참 좋네요~!
+    물속에 들어가 있기 좋은 날이에요!
+  ja: |-
+    日差しが心地いいですね～！
+    水遊びにぴったりの お天気です！
+c131_01_Gacha_Get_1:
+  en: Let's strengthen our bodies and minds! This will be an awesome and healthy summer
+    for all of us!
+  ko: |-
+    몸도 마음도 튼튼하게!
+    비타민 가득한 여름을 맞이해 볼까요?
+  ja: |-
+    心も体も健康に！
+    ビタミンいっぱいの夏を迎えましょう！
+c131_01_Reinforce_1:
+  en: Thanks! I think I just got healthier.
+  ko: 감사해요~ 더 건강해진 것 같아요!
+  ja: |-
+    ありがとうございます。
+    もっと元気になりました！
+c131_01_Reinforce_2:
+  en: You're still so busy, even during the summer.
+  ko: 지휘관은 여름에도 바쁘시네요.
+  ja: 指揮官は夏もお忙しいですね。
+c131_01_Reinforce_3:
+  en: Thanks to you, Commander, I'll have a super healthy summer.
+  ko: 지휘관 덕분에 건강하게 여름을 날 수 있겠네요!
+  ja: 指揮官のおかげで、元気に夏を過ごせそうです！
+c131_01_Gift_1:
+  en: Oh my goodness, this is amazing!
+  ko: 세상에… 너무 좋아요!
+  ja: わあ…すごく嬉しいです！
+c131_01_Gift_2:
+  en: I'm always so touched by your gifts, Commander.
+  ko: 늘 지휘관에게 감동하는 것 같아요.
+  ja: 指揮官、感動です～
+c131_01_Gift_3:
+  en: I'll repay you, I promise!
+  ko: 다음엔 제가 꼭 보답할게요!
+  ja: 今度は私がお返ししますね！
+c131_01_Attractive_Up_1:
+  en: |-
+    Next time, I want to go to the sea with you alone...
+    If that's okay with you, heh-heh.
+  ko: |-
+    다음에 또 바다에 가게 되면 둘이서만 가고 싶은데….
+    헤헤, 안되겠죠?
+  ja: |-
+    今度また海に行くのなら、二人きりで行きたいです…
+    えへへ、ダメですよね？
+c131_01_Attractive_Up_2:
+  en: I don't know if it's the summer weather or you, but I'm feeling a bit emotional.
+  ko: |-
+    여름이라서 그런가~ 지휘관 옆이라서 그런가,
+    자꾸 신나고 설레네요!
+  ja: |-
+    夏のせいですか？
+    それとも指揮官の隣だからですか？
+    ドキドキワクワクしちゃいます！
+c131_01_Attractive_Up_3:
+  en: From now on, I want to be the vitamin that energizes and protects you. Can I?
+  ko: |-
+    앞으로도 지휘관의 비타민이 되고 싶어요.
+    그래도 될까요?
+  ja: 指揮官に元気をお届けするビタミンのような存在になりたいです。
+c131_01_Party_Deploy_1:
+  en: Let's stick together while we're at the resort.
+  ko: 휴양지에서도 함께할게요!
+  ja: リゾートでもご一緒します！
+c131_01_Field_Touch_1:
+  en: Let's make this fight cool and refreshing!
+  ko: 시원하게 가볼까요!
+  ja: 涼しくいきましょう！
+c131_01_Field_Go_1:
+  en: Over there?
+  ko: 저쪽을 말씀하시는 거죠?
+  ja: あっちですよね？
+c131_01_Battle_Enter_1:
+  en: Ah! Watch out!
+  ko: 으앗! 조심하세요~!
+  ja: うあっ！気を付けてください～！
+c131_01_Battle_Ready_1:
+  en: Don't get hurt before you go for a swim.
+  ko: 모두 다치지 말고, 끝나면 물놀이하러 가요!
+  ja: みんなケガしないで、終わったら水遊びしましょう！
+c131_01_Battle_Ready_2:
+  en: The medic is right beside you!
+  ko: 걱정 마세요, 여러분 곁에 의사가 있어요!
+  ja: |-
+    安心してください！
+    みんなのそばに、ドクターがいますよ！
+c131_01_Battle_Ready_3:
+  en: We won't let this heat get the best of us!
+  ko: 뜨거운 여름도 이겨낼 수 있어요!
+  ja: 暑い夏も乗り越えられます！
+c131_01_Reload_1:
+  en: I've gotta regroup and give it another go.
+  ko: 힘내서 다시 해볼까요?
+  ja: また頑張りましょう！
+c131_01_Reload_2:
+  en: This is a bit tougher than I expected.
+  ko: 헤헤. 생각보다 길어지겠네요.
+  ja: 思ったより長引きそうですね。
+c131_01_Reload_3:
+  en: There's no rush.
+  ko: 서두를 필요 없어요!
+  ja: 急ぐ必要はありません！
+c131_01_Ult_Skill_Ready_1:
+  en: Commander!
+  ko: 지휘관!
+  ja: 指揮官！
+c131_01_Ult_Skill_1:
+  en: Vitamins recharged! I can do it!
+  ko: 비타민 풀 충전! 할 수 있어요!
+  ja: |-
+    ビタミンフルチャージ！
+    いきます！
+c131_01_FullBurst_1:
+  en: It's time to go all out!
+  ko: 지금이에요! 다들 쏟아붓는 거예요!
+  ja: 今です！全力でいきましょう！
+c131_01_Kill_Monster_1:
+  en: Germs eliminated!
+  ko: 병균 처치 완료!
+  ja: バイ菌退治完了！
+c131_01_Kill_Monster_2:
+  en: Treatment complete!
+  ko: 치료 끝!
+  ja: 治療おしまい！
+c131_01_Kill_Monster_3:
+  en: Wow!
+  ko: 와아!
+  ja: わあ！
+c131_01_Damage_1:
+  en: Gah!
+  ko: 으앗!
+  ja: うあっ！
+c131_01_Damage_2:
+  en: That hurt...
+  ko: 아파라….
+  ja: いったぁ…
+c131_01_Damage_3:
+  en: Uh...
+  ko: 으으….
+  ja: うう…
+c131_01_Die_1:
+  en: Sorry, I may have gotten carried away since it's summer...
+  ko: 죄송해요, 여름이라고 너무 들떴었나 봐요….
+  ja: すみません。夏だからって、はしゃぎすぎました…
+c131_01_Win_1:
+  en: Summertime victory!
+  ko: 여름의 대 승리에요!
+  ja: 夏の大勝利です！
+131_cv_ja:
+  en: 'CV: Akari Kitō'
+  ko: 'CV : 키토 아카리'
+  ja: CV：鬼頭明里
+131_cv_ko:
+  en: 'CV: Yoon Ah-yeong'
+  ko: 'CV : 윤아영'
+  ja: CV：ユン・アヨン
+131_cv_en:
+  en: 'CV: Kimberly Woods'
+  ko: 'CV : 킴벌리 우즈'
+  ja: CV：Kimberly Woods

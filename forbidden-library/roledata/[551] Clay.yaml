@@ -1,0 +1,504 @@
+---
+551_name:
+  en: Clay
+  ko: 클레이
+  ja: クレイ
+c551_description:
+  en: "A new member of the cheerleading team, Rewind Squad. \nShe admires and idolizes
+    Bay.\nDespite being rhythmically challenged, her infectious energy allows her
+    to captivate audiences like no one else can."
+  ko: |-
+    방주 치어리더 팀, 리와인드 스쿼드에 뒤늦게 합류한 신입 멤버.
+    베이를 존경하며, 동경하고 있다.
+    굉장한 박치지만, 관객들의 호응을 이끌어내는 밝은 에너지만큼은 누구에게도 지지 않는다.
+  ja: |-
+    アークのチアリーダーチーム、リワインド部隊に
+    あとから合流した新人メンバー。
+    ベイを尊敬し、憧れている。
+    かなりのリズム音痴だが、
+    観客を盛り上げる明るさだけは誰にも負けない。
+551_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_551:
+  en: Clay's Spare Body
+  ko: 클레이 스페어 바디
+  ja: クレイのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25512_name:
+  en: WAKE UP!
+  ko: WAKE UP!
+  ja: WAKE UP！
+25512_description:
+  en: |-
+    ■ Activates when entering Burst stage 1. Affects all allies.
+    <color=#00AEFF><word_group=10039>Immune to {description_value_01} debuff(s)</word_group> for {description_value_03} sec.</color>
+    ■ Only activates when in Victorious Battle Cry status. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK continuously.</color>
+  ko: |-
+    ■ 버스트 1단계 진입 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10039>해로운 효과 면역</word_group> {description_value_01}개] [{description_value_03}초 유지]</color>
+    ■ 자신이 승리의 외침 상태일 때 한하여 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_02}% ▲] [지속]</color>
+  ja: |-
+    ■バースト1段階突入時、味方全体に
+    <color=#00AEFF>「<word_group=10039>デバフ効果免疫</word_group>{description_value_01}個」「{description_value_03}秒間維持」</color>
+    ■自分がヴィクトリークライ状態の時に限り、味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_02}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25511_name:
+  en: DON'T MISS!
+  ko: DON'T MISS!
+  ja: DON'T MISS！
+25511_description_1:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s) during Full Burst Time. Affects all allies.
+    <color=#00AEFF>Victorious Battle Cry: True Damage ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.
+    <word_group=10007>When attacking an enemy projectile, damage to that projectile</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 지속 중 일반 공격 {description_value_01}회 공격 시 아군 전체에게
+    <color=#00AEFF>[승리의 외침 : 방어력 무시 대미지 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]
+    [<word_group=10007>적 발사체 공격 시 해당 발사체에 가하는 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■フルバーストタイム持続中に通常攻撃で{description_value_01}回攻撃した時、味方全体に
+    <color=#00AEFF>「ヴィクトリークライ：防御力無視ダメージ{description_value_02}％▲」「{description_value_03}スタック」「{description_value_04}秒間維持」
+    「<word_group=10007>敵の発射体を攻撃する時、該当の発射体に与えるダメージ</word_group>{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15513_name:
+  en: GO! GO! VICTORY!
+  ko: GO! GO! VICTORY!
+  ja: GO！GO！VICTORY！
+15513_description_1:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>True Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects self.
+    <color=#00AEFF>Normal attacks deal true damage for {description_value_03} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[방어력 무시 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[일반 공격을 방어력 무시 대미지로 적용] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「防御力無視ダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+    ■自分に<color=#00AEFF>「通常攻撃を防御無視ダメージとして適用」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+550_name:
+  en: Bay
+  ko: 베이
+  ja: ベイ
+c551_Lobby_Touch_1:
+  en: Hey Coach, do you wanna join me for cheerleading practice?
+  ko: 헷헷, 코치님도 저와 같이 치어리딩 하실래요옷~?
+  ja: へへ、コーチも私と一緒にチアリーディングしますかっ？
+c551_Lobby_Touch_2:
+  en: One, two... whoops, I missed the beat.
+  ko: 하나, 둘… 으엣? 박차를 놓쳐버렸어요옷~
+  ja: いち、にっ…えっ？リズムがずれてしまいましたっ。
+c551_Lobby_Touch_3:
+  en: |-
+    It's always been my dream to join Rewind.
+    You have no idea how happy I am!
+  ko: |-
+    꿈에 그리던 리와인드에 들어와서
+    얼마나 기쁜지 몰라요옷~
+  ja: 念願のリワインドに入れて、本当に嬉しいですっ。
+c551_Lobby_Touch_Love_1:
+  en: |-
+    If you come to see me perform,
+    I feel like I'll be able to cheer twice as hard!
+  ko: "코치님이 제 치어리딩을 보러 와주신다면... \n힘내서 응원할 수 있을 것 같아요옷!"
+  ja: |-
+    コーチが私のチアリーディングを見に来てくれたら…
+    頑張って応援できそうな気がしますっ！
+c551_Lobby_Touch_Love_2:
+  en: Whenever you and I cheer together, my energy goes through the roof, teehee!
+  ko: 헷헷, 코치님과 함께 응원하면 텐션이 엄청 높아져요옷~
+  ja: |-
+    へへ、コーチと一緒に応援すると、
+    テンションがすごく上がるんですっ。
+c551_Lobby_Touch_Love_3:
+  en: Coach, give me your hand and let's do the wave! Wooooo!
+  ko: |-
+    코치님, 손 줘보실래요옷~? 같이 파도 타요옷~
+    슈우우웅~
+  ja: |-
+    コーチ、手を上げてくださいっ。一緒にウェーブしましょうっ！
+    ビュ～～ンっ！
+c551_Lobby_Stay_1:
+  en: |-
+    Umm...
+    If you're going to be running late, can I go to the practice room first?
+  ko: |-
+    …움. 코치님.
+    늦을 것 같으면 먼저 연습실 가 있어도 될까요옷~?
+  ja: |-
+    …え～と、コーチ。
+    遅くなるなら、先にトレーニングルームに行っててもいいですかっ？
+c551_Lobby_Stay_Love_1:
+  en: I'll practice hard until you get here!
+  ko: 헷헷, 코치님이 올 때까지 열심히 연습하고 있어야겠어요옷~
+  ja: へへ、コーチが来るまで一生懸命練習しなくちゃっ。
+c551_Outpost_Touch_1:
+  en: |-
+    Have you seen Bay by any chance?
+    We were supposed to practice together today...
+  ko: |-
+    혹시 베이 못 보셨나요옷?
+    오늘 같이 연습하기로 했는데엣….
+  ja: |-
+    ベイを見ませんでしたかっ？
+    一緒に練習する 約束だったのに…
+c551_Outpost_Touch_2:
+  en: The stadium is my favorite place to be.
+  ko: 저는 경기장에 오는 게 제일 좋아요옷~
+  ja: 競技場は大好きな 場所なんですっ。
+c551_Outpost_Touch_3:
+  en: Hey Coach, wanna check out the practice room?
+  ko: 코치님, 연습실에 구경 오실래요옷?
+  ja: コーチ、 トレーニングルームの 見学に来ませんかっ？
+c551_Gacha_Get_1:
+  en: |-
+    I'm Clay from Rewind.
+    Three cheers for victory!
+  ko: |-
+    리와인드 소속 클레이예요옷~
+    반드시 승리할 수 있도록 열심히 응원할게요옷~
+  ja: |-
+    リワインド部隊所属のクレイですっ。
+    絶対勝てるように、一生懸命応援しますっ！
+c551_Reinforce_1:
+  en: Now, I can practice longer!
+  ko: 연습을 더 오래 할 수 있겠어요옷~
+  ja: もっと練習できるようになりましたっ。
+c551_Reinforce_2:
+  en: I feel like I can sync up to the rhythm better.
+  ko: 우와, 박자가 좀 더 잘 맞는 것 같아요옷~
+  ja: わあ、前よりリズムに乗れてる気がしますっ。
+c551_Reinforce_3:
+  en: |-
+    Thanks to Coach's guidance, I've grown tremendously!
+    Thank you so much!
+  ko: |-
+    코치님의 지도 덕분에 엄청나게 성장했어요옷~
+    감사합니다앗~
+  ja: |-
+    コーチのご指導のおかげでぐんぐん成長できましたっ。
+    ありがとうございますっ！
+c551_Gift_1:
+  en: Is this for me? I'm so happy!
+  ko: 저 주시는 건가요옷~? 기뻐요옷~
+  ja: 私にプレゼントですかっ？嬉しいですっ。
+c551_Gift_2:
+  en: |-
+    It's kinda embarrassing to always be on the receiving end.
+    Someday, I'll definitely repay you, I promise!
+  ko: |-
+    늘 받기만 하는 것 같아 민망하네요옷~
+    언젠가 꼭 보답해드릴게요옷~
+  ja: |-
+    いつももらってばかりですみませんっ。
+    いつか必ずお返ししますっ。
+c551_Gift_3:
+  en: |-
+    You always know exactly what to get me.
+    Thanks, Coach!
+  ko: |-
+    코치님은 제가 좋아하는 것만 골라 주시네요옷~
+    정말 감사해요옷~!
+  ja: |-
+    コーチは私の好きなものがお見通しなんですねっ。
+    本当にありがとうございますっ！
+c551_Attractive_Up_1:
+  en: You're the best, Coach!
+  ko: 최고예요옷~ 코치님!
+  ja: 最高ですっ、コーチ！
+c551_Attractive_Up_2:
+  en: I always feel over the moon whenever I see you!
+  ko: 코치님만 보면 기분이 좋아져요옷~
+  ja: コーチと会うだけでも、気持ちが晴れるんですっ。
+c551_Attractive_Up_3:
+  en: |-
+    You're looking even cooler lately...
+    This feeling is totally new to me...
+  ko: |-
+    점점 더 코치님이 멋져보여요옷….
+    이런 느낌은 처음이네요옷….
+  ja: |-
+    コーチがかっこよく見えてきます…
+    こんな気持ちは初めてですっ…
+c551_Party_Deploy_1:
+  en: I'll put my heart and soul into cheering you on!
+  ko: 힘차게 응원해드릴게요옷~
+  ja: めいいっぱいエールを送りますねっ！
+c551_Field_Touch_1:
+  en: Do you need some motivation?
+  ko: 응원이 필요하실까요옷~?
+  ja: 応援が必要ですかっ？
+c551_Field_Go_1:
+  en: On it!
+  ko: 얼른 갈게요옷~
+  ja: すぐに行きますよっ。
+c551_Battle_Enter_1:
+  en: I'll cheer as hard as I can!
+  ko: 할 수 있는 데까지 열심히 응원할게요옷~
+  ja: 精一杯応援しますっ。
+c551_Battle_Ready_1:
+  en: Everyone, focus on me.
+  ko: 여러분, 저에게 주목해 주세요옷~
+  ja: みなさん、こちらに注目してくださいっ！
+c551_Battle_Ready_2:
+  en: Time to start my routine!
+  ko: 응원 시작합니다앗~
+  ja: 応援が始まりますよっ！
+c551_Battle_Ready_3:
+  en: |-
+    Cheer up!
+    Power up!
+  ko: |-
+    Cheer Up-!
+    Power Up-!
+  ja: |-
+    Cheer Up！
+    Power Up！
+c551_Reload_1:
+  en: Cheer charging...
+  ko: 응원 충전합니다앗~
+  ja: 応援をチャージしますっ！
+c551_Reload_2:
+  en: Just a moment...
+  ko: 잠시만요옷~
+  ja: ちょっと待ってくださいっ。
+c551_Reload_3:
+  en: Almost done!
+  ko: 금방 끝나요옷~
+  ja: すぐに終わりますっ。
+c551_Ult_Skill_Ready_1:
+  en: Ready to cheer!
+  ko: 호응할 준비 끝났어요옷~
+  ja: コール準備完了ですっ。
+c551_Ult_Skill_1:
+  en: Never give up!
+  ko: DON'T MIND! NEVER GIVE UP-!
+  ja: DON'T MIND！ NEVER GIVE UP！
+c551_FullBurst_1:
+  en: Let's do the wave, everyone!
+  ko: 좀 더 신나게 파도 타볼까요옷~? 슈우우웅~
+  ja: もっと楽しくウェーブしましょうっ！ビュ～～ンっ！
+c551_Kill_Monster_1:
+  en: Let's keep it going!
+  ko: 다음 응원도 열심히 할게요옷~!
+  ja: これからも頑張りますっ！
+c551_Kill_Monster_2:
+  en: Wow, we did it!
+  ko: 우와, 해냈어요옷~
+  ja: わあ、やった～！
+c551_Kill_Monster_3:
+  en: Hehe.
+  ko: 헷헷, 이 정도는 문제없어요옷~
+  ja: えへへ～
+c551_Damage_1:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c551_Damage_2:
+  en: Ugh!
+  ko: 읏!
+  ja: うっ！
+c551_Damage_3:
+  en: Agh!
+  ko: 아얏!
+  ja: ああっ！
+c551_Die_1:
+  en: I'm sorry... Looks like my cheering wasn't enough...
+  ko: 죄송해요옷… 더 열심히 응원했어야 했는데엣….
+  ja: ごめんなさいっ…もっと頑張って応援していれば…
+c551_Win_1:
+  en: Looks like our cheers worked! That's fantastic!
+  ko: 응원이 통했나봐요옷~ 기뻐요옷~
+  ja: 応援が効いたみたいですねっ、やったぁ！
+551_cv_ja:
+  en: 'CV: Minori Suzuki'
+  ko: 'CV : 스즈키 미노리'
+  ja: CV：鈴木みのり
+551_cv_ko:
+  en: 'CV: Lee Joo-eun'
+  ko: 'CV : 이주은'
+  ja: CV：イ・ジュウン
+551_cv_en:
+  en: 'CV: Kailey Bray'
+  ko: 'CV : 케일리 브레이'
+  ja: CV：Kailey Bray

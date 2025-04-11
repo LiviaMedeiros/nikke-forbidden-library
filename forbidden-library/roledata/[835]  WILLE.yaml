@@ -1,0 +1,745 @@
+---
+835_name:
+  en: 'Asuka: WILLE'
+  ko: '아스카 : WILLE'
+  ja: アスカ：WILLE
+c835_description:
+  en: |-
+    Her full name is Asuka Shikinami Langley.
+    The pilot of New Evangelion Unit-02.
+    Due to the Curse of Eva, her physical appearance has remained perpetually at 14 years of age.
+    She wears a black eye patch over her left eye.
+  ko: |-
+    풀네임 시키나미 아스카 랑그레이.
+    에반게리온 신 2호기의 파일럿.
+    「에바의 주박」으로 인해 신체 나이는 14세에 머물러 있다.
+    왼쪽 눈에 안대를 하고 있다.
+  ja: |-
+    フルネームは式波・アスカ・ラングレー。
+    エヴァンゲリオン新2号機のパイロット。
+    「エヴァの呪縛」によって肉体年齢は14歳のまま止まっている。
+    左目には黒い眼帯を覆っている。
+835_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_835:
+  en: 'Asuka: WILLE''s Spare Body'
+  ko: '아스카 : WILLE 스페어 바디'
+  ja: アスカ：WILLEのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28352_name:
+  en: Emergency Repair
+  ko: 긴급 수복
+  ja: 緊急修復
+28352_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects self when in Annihilation State status.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when using Annihilation. Affects self.
+    <color=#00AEFF>Emergency Repair:
+    Function: Reduces MG heating up speed and clears ammo. Fixes recharge speed and restores HP based on the Max HP proportion continuously.
+    Effect 1: <word_group=10073>MG heating up speed</word_group> ▼ {description_value_03}% for {description_value_04} sec.
+    Effect 2: Clears {description_value_05}% of ammo.
+    Effect 3: Constantly recovers {description_value_06}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec over {description_value_07} sec.
+    Effect 4: Fixes the recharge speed with a {description_value_08}% increase for {description_value_09} shot(s).</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신이 섬멸 태세 상태라면 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 섬멸 시 자신에게
+    <color=#00AEFF>[긴급 수복] :
+    기능: 머신건 예열 속도 감소 & 탄환 제거를 하는 대신  재장전 속도 고정 & 최대 체력 비례 지속 회복
+    효과 1 : [<word_group=10073>머신건 예열 속도</word_group> {description_value_03}% ▼] [{description_value_04}초 유지]
+    효과 2 : [탄환 {description_value_05}% 제거]
+    효과 3 : [시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_06}% 지속 회복] [1초 간격] [{description_value_07}초 유지]
+    효과 4 : [재장전 속도 {description_value_08}% 증가 상태로 고정] [{description_value_09}발 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分が殲滅態勢状態なら自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■殲滅の効果発動時、自分に
+    <color=#00AEFF>「緊急修復」：
+    機能：マシンガン立ち上げ速度低下＆残弾数が低下する代わりにリロード速度固定＆最大HPに比例して持続回復
+    効果1：「<word_group=10073>マシンガン立ち上げ速度</word_group> {description_value_03}％▼」「{description_value_04}秒間維持」
+    効果2：「残弾数{description_value_05}％減少」
+    効果3：「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_06}％持続回復」「1秒間隔」「{description_value_07}秒間維持」
+    効果4：「リロード速度{description_value_08}％増加状態で固定」「{description_value_09}発間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28351_name:
+  en: Anti A.T. Field
+  ko: 안티 AT 필드
+  ja: アンチA.T.フィールド
+28351_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects the target(s).
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+    ■ Activates only when in Annihilation State status. Affects self.
+    <color=#00AEFF>Annihilation State's additional effect:
+    Target: Affects {description_value_05} enemy unit(s) within the attack range nearest to the crosshair every {description_value_04} shot(s).
+    Damage: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage.
+    Additional effect: Anti A.T. Field: Damage Taken ▲ {description_value_07}% for {description_value_09} sec, stacks up to {description_value_08} time(s).</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+    ■ 자신이 섬멸 태세 상태일 때 한하여 자신에게
+    <color=#00AEFF>[섬멸 태세 추가 효과] :
+    대상 : {description_value_04}발 당 조준선에 가장 가까운 공격 범위내 적 {description_value_05}기
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_06}% 대미지
+    추가 효과 : [안티 AT 필드 : 받는 대미지 {description_value_07}% ▲] [{description_value_08}중첩] [{description_value_09}초 유지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+    ■自分が殲滅態勢状態の時に限り、自分に
+    <color=#00AEFF>「殲滅態勢の追加効果」：
+    対象：{description_value_04}発ごとに照準線に最も近い攻撃範囲内の敵{description_value_05}機
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_06}％のダメージ
+    追加効果：「アンチA.T.フィールド：受けるダメージ{description_value_07}％▲」「{description_value_08}スタック」「{description_value_09}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18353_name:
+  en: Annihilation State
+  ko: 섬멸 태세
+  ja: 殲滅態勢
+18353_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Annihilation State:
+    Function: Reduces the normal attack damage while increasing attack capabilities.
+    Effect 1: Normal Attack Damage <word_group=10029>Multiplier</word_group> ▼ {description_value_07}% for {description_value_08} sec.
+    Effect 2: Reloads {description_value_01}% magazine(s).
+    Effect 3: ATK ▲ {description_value_02}% of caster's ATK for {description_value_03} sec.
+    Effect 4: Attack Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Affects the target(s) afflicted with Anti A.T. Field.
+    <color=#00AEFF>Annihilation:
+    Function: After Annihilation State ends, fires powerful attacks at targets affected by Anti A.T. Field.
+    Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as additional damage. <word_group=10026>Mirrors the stack count</word_group> of Anti A.T. Field for certain targets. Anti A.T. Field status is removed after the effect is triggered.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[섬멸 태세] :
+    기능 : 일반 공격 대미지가 감소하는 대신 공격 능력 증가
+    효과 1 : [일반 공격 대미지 {description_value_07}% <word_group=10029>배율</word_group> ▼] [{description_value_08}초 유지]
+    효과 2 : [탄환 충전 {description_value_01}%]
+    효과 3 : [시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]
+    효과 4 : [공격 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 안티 AT 필드 상태인 대상에게
+    <color=#00AEFF>[섬멸] :
+    기능: 섬멸 태세 종료 시 안티 AT 필드가 걸린 대상에게 강력한 공격
+    [<word_group=10025>최종</word_group> 공격력 {description_value_06}% 추가 대미지] [개별 대상 안티 AT 필드 <word_group=10026>중첩 복사</word_group>] [효과 적용 후 안티 AT 필드 제거]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「殲滅態勢」：
+    機能：通常攻撃ダメージの減少と引き換えに、攻撃能力増加
+    効果1：「通常攻撃ダメージ{description_value_07}％<word_group=10029>倍率</word_group>▼」「{description_value_08}秒間維持」
+    効果2：「弾丸チャージ{description_value_01}％」
+    効果3：「スキル発動者基準で攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」
+    効果4：「攻撃ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■アンチA.T.フィールド状態の対象に
+    <color=#00AEFF>「殲滅」：
+    機能：殲滅態勢が終了した時、アンチA.T.フィールドの効果中の対象に、強力な攻撃
+    「<word_group=10025>最終</word_group>攻撃力{description_value_06}％の追加ダメージ」「個別対象ごとにアンチA.T.フィールド<word_group=10026>スタックコピー</word_group>」「効果適用後、アンチA.T.フィールド解除」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+836_name:
+  en: Sakura
+  ko: 사쿠라
+  ja: サクラ
+c835_Lobby_Touch_1:
+  en: What are you doing?
+  ko: 뭐해?
+  ja: 何してるの？
+c835_Lobby_Touch_2:
+  en: That Four-Eyed Crony has some nerve disappearing at a time like this.
+  ko: 연줄안경은... 이런 때 사라지다니….
+  ja: |-
+    コネメガネ…
+    こんな時にいなくなるなんて…
+c835_Lobby_Touch_3:
+  en: My appearance has something to do with Eva's cur... Never mind, it has nothing
+    to do with you.
+  ko: 내 외모? 에바의 주박... 너하고는 상관없어.
+  ja: 私の見た目？エヴァの呪縛…あんたには関係ないわ。
+c835_Lobby_Touch_Love_1:
+  en: Don't treat me like a child.
+  ko: 나를 어린애 취급하지 마.
+  ja: 私を子どもだと思わないで。
+c835_Lobby_Touch_Love_2:
+  en: There are lots of weird people here. Lilins like you are rare.
+  ko: "여긴 이상한 녀석들이 많아. \n너 같은 릴림은 드물지."
+  ja: |-
+    ここはおかしな奴らが多いわね。
+    あんたみたいなリリンは珍しい。
+c835_Lobby_Touch_Love_3:
+  en: As long as you're fighting, Unit Two and I will help.
+  ko: 네가 싸우는 한, 나와 2호기가 도울 거야.
+  ja: あんたが戦う限り、私と2号機で助けるわ。
+c835_Lobby_Stay_1:
+  en: I'm a bit bored, but a peaceful daily life isn't so bad either.
+  ko: 심심해. 하지만 평화로운 일상도 나쁘지 않네.
+  ja: 退屈だわ。でも、平和な日常を過ごすのもいいわね。
+c835_Lobby_Stay_Love_1:
+  en: Bring a game console next time.
+  ko: 다음에는 게임기를 가지고 와.
+  ja: 戻ってくる時、ゲーム機を持ってきて。
+c835_Outpost_Touch_1:
+  en: Get me a room that's farther away.
+  ko: 좀 더 멀리 있는 방을 마련해 줘.
+  ja: 私の部屋だけど、 ちょっと遠くに用意して。
+c835_Outpost_Touch_2:
+  en: Very well. I'll protect this place as well.
+  ko: 알았어. 이곳도 내가 지켜야지.
+  ja: |-
+    分かった。
+    ここも私が守るところよ。
+c835_Outpost_Touch_3:
+  en: Shouldn't we upgrade the defenses here, Lilin?
+  ko: 릴림, 여기 방어 시설을 더 갖춰야 하지 않을까?
+  ja: |-
+    ねぇリリン、ここの防御施設…
+    準備が足りないんじゃない？
+c835_Gacha_Get_1:
+  en: That's right, I'm Asuka. When the battle starts, stay behind me, Lilin.
+  ko: "맞아. 내가 아스카야. \n릴림, 전투가 시작되면 내 뒤로 피해."
+  ja: |-
+    そうよ、私がアスカ。
+    戦闘が始まったら、さっさと私の後ろに隠れるように。
+c835_Reinforce_1:
+  en: Isn't that obvious?
+  ko: 당연한 거 아냐?
+  ja: 当然でしょ？
+c835_Reinforce_2:
+  en: Unit Two, are you listening?
+  ko: 2호기 듣고 있어?
+  ja: 2号機、聞いてる？
+c835_Reinforce_3:
+  en: Great!
+  ko: 좋아!
+  ja: いいわね！
+c835_Gift_1:
+  en: Ah, thank you.
+  ko: 아, 고마워.
+  ja: ありがとう。
+c835_Gift_2:
+  en: Hmm? Trying to impress me, are you?
+  ko: 흥, 나에게 잘 보이려고?
+  ja: ふんっ、ご機嫌取りのつもり？
+c835_Gift_3:
+  en: I suppose I'll have to accept it.
+  ko: 어쩔 수 없이 받아줘야겠네.
+  ja: 仕方ないからもらってあげるわ。
+c835_Attractive_Up_1:
+  en: Cut my hair for me. It keeps growing, and it's rather bothersome.
+  ko: "머리카락 좀 잘라줘. \n계속 자라니까 너무 귀찮아."
+  ja: |-
+    髪、切ってくれる？
+    髪だけは伸びる。うっとおしい。
+c835_Attractive_Up_2:
+  en: How do you even manage something this frustrating? It must be hard for you.
+  ko: 이렇게 귀찮은 걸 관리하는 거야? 고생이 많네.
+  ja: こんなに面倒な奴も管理しなきゃなの？大変ね。
+c835_Attractive_Up_3:
+  en: |-
+    That startled me!
+    What was that?
+    Are you an idiot?
+  ko: |-
+    깜짝이야!
+    뭐야! 너 바보야?
+  ja: |-
+    わっ！びっくりした！
+    なんなのよう！あんたバカぁ？
+c835_Party_Deploy_1:
+  en: What about Four-Eyed Crony?
+  ko: 연줄안경은?
+  ja: コネメガネは？
+c835_Field_Touch_1:
+  en: Are you stupid?
+  ko: 너 바보야?
+  ja: あんた、バカぁ？
+c835_Field_Go_1:
+  en: Got it...
+  ko: 알았어….
+  ja: "…分かった。"
+c835_Battle_Enter_1:
+  en: Perfect timing.
+  ko: 마침 잘 왔어.
+  ja: ちょうどいいところに来たわね。
+c835_Battle_Ready_1:
+  en: Deployment confirmed.
+  ko: 출전 확인.
+  ja: 出撃、確認。
+c835_Battle_Ready_2:
+  en: Let's sortie.
+  ko: 출격하자.
+  ja: 出撃するわよ。
+c835_Battle_Ready_3:
+  en: Cover me!
+  ko: 엄호해!
+  ja: 援護して！
+c835_Reload_1:
+  en: Don't rush me!
+  ko: 재촉하지 마!
+  ja: 急かさないで！
+c835_Reload_2:
+  en: Reload!
+  ko: 리로드!
+  ja: リロード！
+c835_Reload_3:
+  en: Still reloading!
+  ko: 아직 장전 중이야!
+  ja: まだ装填中よ！
+c835_Ult_Skill_Ready_1:
+  en: Unit Two!
+  ko: 2호기!
+  ja: 2号機！
+c835_Ult_Skill_1:
+  en: Charge!
+  ko: 돌격!
+  ja: 突撃！
+c835_FullBurst_1:
+  en: Take that!
+  ko: 에잇!
+  ja: ええいっ！
+c835_Kill_Monster_1:
+  en: Move!
+  ko: 비켜!
+  ja: どけー！
+c835_Kill_Monster_2:
+  en: You're in the way!
+  ko: 방해돼!
+  ja: 邪魔っ！
+c835_Kill_Monster_3:
+  en: Next!
+  ko: 다음!
+  ja: 次！
+c835_Damage_1:
+  en: Tch...
+  ko: 쳇….
+  ja: ちっ…
+c835_Damage_2:
+  en: This is the worst.
+  ko: 최악이야.
+  ja: 最っ低。
+c835_Damage_3:
+  en: That hurt...
+  ko: 아파….
+  ja: いったぁ…
+c835_Die_1:
+  en: Support fire is always late!
+  ko: 지원 사격이 항상 늦어!
+  ja: 援護射撃、いっつも遅いっ！
+c835_Win_1:
+  en: Mission complete. Let's head back, Lilin.
+  ko: 임무 완료. 돌아가자, 릴림.
+  ja: 任務完了。帰るわよ、リリン。
+c835_02_Lobby_Touch_1:
+  en: Never thought I'd wear formal attire. I'm usually ready for battle at all times.
+  ko: "내가 예복을 입게 될 줄이야. \n하긴, 늘 전투 준비 중이니까."
+  ja: |-
+    私がこんな格好するなんてね。
+    まっ、あっちもこっちもずっと戦闘準備中だし、無理ないか。
+c835_02_Lobby_Touch_2:
+  en: What's Four-Eyed Crony doing in the band? Ugh, this sucks.
+  ko: 왜 연줄안경이 밴드에 있는 거야? 짜증 나.
+  ja: |-
+    なんでコネメガネがバンドに入ってくるわけ？
+    うっとおしいんだけど。
+c835_02_Lobby_Touch_3:
+  en: Hey, don't look so surprised! It stands to reason someone as talented as I could
+    handle an instrument.
+  ko: "너, 그렇게 놀란 얼굴 하지마! \n나같은 엘리트가 악기 정도는 당연히 다룰 수 있지 않겠어?"
+  ja: |-
+    何よ、その驚いた顔は！
+    私はエリートなんだから、演奏くらい楽勝よ。
+c835_02_Lobby_Touch_Love_1:
+  en: You're surprisingly laidback in situations like this, Four-Eyed Crony.
+  ko: |-
+    연줄안경은...
+    이런 상황에서 참 속도 편하구나.
+  ja: |-
+    コネメガネのやつ…
+    こんな状況でよくのんきにしてられるわね。
+c835_02_Lobby_Touch_Love_2:
+  en: Lilin and Nikkes both seem to have an affinity for music, and that's good enough
+    for me.
+  ko: |-
+    릴림, 니케…
+    뭐, 너희도 똑같이 음악을 좋아하는 거지? 그럼 됐어.
+  ja: |-
+    …ニケって、リリンと同じように
+    音楽が好きなのよね？ならいいわ。
+c835_02_Lobby_Touch_Love_3:
+  en: |-
+    When I was a Lilin, I used to play instruments.
+    Why? I'm not so sure myself.
+  ko: |-
+    릴림이었을 때는 악기 연주도 했어.
+    왜냐고? ...나도 몰라.
+  ja: |-
+    リリンだった頃は楽器の練習もしてたわ。
+    どうしてって？…そんなの知らないわよ。
+c835_02_Lobby_Stay_1:
+  en: My hair is still growing... Oh well, it suits the look.
+  ko: 머리카락이... 아직도 자라네. 됐어. 이거랑 잘 어울리니.
+  ja: 髪が…また伸びてる。ま、いいわ。この格好と似合いそうだし。
+c835_02_Lobby_Stay_Love_1:
+  en: Tired? Good. I can't stand noisy things.
+  ko: 피곤해? 마침 잘됐어, 소란스러운 건 싫은걸.
+  ja: 疲れたの？ちょうどいいわ、騒々しいのはごめんだもの。
+c835_02_Outpost_Touch_1:
+  en: |-
+    You're thinking of throwing a party in a place like this?
+    Shouldn't you decorate it some more?
+  ko: |-
+    이런 곳에서 파티할 생각이야?
+    더 꾸며야 하지 않아?
+  ja: |-
+    こんな場所でパーティーする気？
+    飾りつけが足りないんじゃない？
+c835_02_Outpost_Touch_2:
+  en: So this is where you feel most comfortable... I see.
+  ko: 그래, 여기야말로 네가 가장 편안한 집이구나... 알았어.
+  ja: ふうん、ここがあんたが 一番落ち着く場所なんだ… 分かったわ。
+c835_02_Outpost_Touch_3:
+  en: This place is halfway decent. If I get the chance... Never mind, forget I said
+    anything.
+  ko: "여기는 그나마 편하네. 기회가 되면... \n아니야, 못 들은 거로 해."
+  ja: |-
+    ここはまあ、 それなりに落ち着くわね。
+    機会があれば… ううん、何でもない。
+c835_02_Gacha_Get_1:
+  en: I know that you invited me to the party, but I've never dressed like this before.
+  ko: |-
+    네가 파티에 초대했다고는 해도...
+    이런 차림은 처음이라고!
+  ja: |-
+    あんたからパーティーに招待されたとはいえ…
+    こんな格好、初めてなんだけど！
+c835_02_Reinforce_1:
+  en: Switching to new gear!
+  ko: 새로운 장비로 교체!
+  ja: 新しい装備に交換！
+c835_02_Reinforce_2:
+  en: |-
+    Aren't Nikkes able to fight no matter what they wear?
+    So can I.
+  ko: "니케는 어떤 차림으로도 전투할 수 있는 거잖아? \n나도 그래."
+  ja: |-
+    ニケはどんな格好でも戦闘に行けるんでしょ？
+    私もよ。
+c835_02_Reinforce_3:
+  en: You must always be thoroughly prepared for any emergencies.
+  ko: 긴급사태는 철저히 대비해야 해.
+  ja: 緊急事態への備えは、徹底するもんよ。
+c835_02_Gift_1:
+  en: The curtain call hasn't come yet, so don't rush in with the gifts.
+  ko: 아직 커튼콜이 남았으니, 선물은 서두르지 마.
+  ja: |-
+    まだカーテンコールが残ってるわ。
+    プレゼントはあとでちょうだい。
+c835_02_Gift_2:
+  en: I've told you before not to get it twisted; I'm not a superstar.
+  ko: 전에도 말했지만 난 아이돌이 아니야. 착각하지 마.
+  ja: 前にも言ったけど、私はアイドルじゃないわ。勘違いしないで。
+c835_02_Gift_3:
+  en: The party's not bad, and I like your gift. Thanks.
+  ko: |-
+    파티도 나쁘지 않고, 네 선물도 마음에 들어.
+    고마워.
+  ja: |-
+    パーティーも悪くないし、あんたのプレゼントも気に入ったわ。
+    ありがと。
+c835_02_Attractive_Up_1:
+  en: Hold on, why are you turning down this gift? I’m not a superstar, you know.
+  ko: |-
+    잠깐, 뭘 사양하는 거야?
+    난 아이돌이 아니라니까.
+  ja: |-
+    ちょっと、なに遠慮してんのよ。
+    私はアイドルでもないんだから。
+c835_02_Attractive_Up_2:
+  en: |-
+    I smile more often now?
+    Don't be ridiculous.
+  ko: "자주 웃게 됐다고? \n아니거든!"
+  ja: |-
+    笑顔が増えたですって？
+    そんなことないわよ！
+c835_02_Attractive_Up_3:
+  en: |-
+    I've already adapted here, so you don't have to avoid me anymore.
+    Isn't this how it's supposed to be?
+  ko: |-
+    이미 여기에 적응했으니까 날 피해서 숨지 않아도 돼.
+    그래, 이게 당연한 거지?
+  ja: |-
+    もうここにも慣れたし、いちいち私を避けたりしなくていいわ。
+    …別に、当然のことでしょ？
+c835_02_Party_Deploy_1:
+  en: I don't care about stuff like that!
+  ko: 그런 거 신경 안 써!
+  ja: 気にせず出るわよ！
+c835_02_Field_Touch_1:
+  en: When can I go back and change out of these clothes?
+  ko: 옷 갈아입으러 언제 돌아갈 거야?
+  ja: で、いつ着替えに行くの？
+c835_02_Field_Go_1:
+  en: These clothes are so annoying!
+  ko: 이 옷 정말 걸리적거려.
+  ja: ったく、この服、ほんっとうに邪魔っ！
+c835_02_Battle_Enter_1:
+  en: All right, emergency sortie!
+  ko: 알았어. 긴급 출격!
+  ja: 分かったわ。緊急出撃！
+c835_02_Battle_Ready_1:
+  en: Hurry up and deal with it!
+  ko: 빨리 처리해!
+  ja: 早く処理して！
+c835_02_Battle_Ready_2:
+  en: It's already started.
+  ko: 이미 시작하고 있어.
+  ja: もうやってる！
+c835_02_Battle_Ready_3:
+  en: Tch, why now of all times?
+  ko: 쳇, 왜 하필 지금이야.
+  ja: ちっ、なんで今なのよ。
+c835_02_Reload_1:
+  en: Out of bullets.
+  ko: 총알이 비었네.
+  ja: 弾切れだわ。
+c835_02_Reload_2:
+  en: How did an instrument end up here...!
+  ko: 어떻게 여기에 악기가...!
+  ja: どうしてここに楽器が…！？
+c835_02_Reload_3:
+  en: Pass me the magazine.
+  ko: 탄창 이리 줘.
+  ja: 弾倉！早く！
+c835_02_Ult_Skill_Ready_1:
+  en: Get rough with them!
+  ko: 거칠게 몰아붙여!
+  ja: ガンガン攻めるわよ！
+c835_02_Ult_Skill_1:
+  en: Unit Two, restart!
+  ko: 2호기, 재기동!
+  ja: エヴァ2号機、起動！
+c835_02_FullBurst_1:
+  en: It's time for the climax!
+  ko: 클라이막스 시간이야!
+  ja: クライマックスの時間よ！
+c835_02_Kill_Monster_1:
+  en: That was simple.
+  ko: 간단하네.
+  ja: 楽勝ね！
+c835_02_Kill_Monster_2:
+  en: Weak.
+  ko: 약해.
+  ja: 弱い！
+c835_02_Kill_Monster_3:
+  en: So irritating!
+  ko: 귀찮네!
+  ja: 邪魔くさい！
+c835_02_Damage_1:
+  en: Ugh...
+  ko: 윽...
+  ja: うっ…
+c835_02_Damage_2:
+  en: I've been hit!
+  ko: 공격당했어!
+  ja: 攻撃されたわ！
+c835_02_Damage_3:
+  en: That's dirty!
+  ko: 치사해!
+  ja: ズルイ！
+c835_02_Die_1:
+  en: Argh! You nasty bugger!
+  ko: 쳇! 악질이네.
+  ja: ちっ！タチ悪い！
+c835_02_Win_1:
+  en: |-
+    This is worse than emergency training.
+    Let's head back, Lilin.
+  ko: |-
+    긴급 훈련보다도 못하네.
+    릴림, 돌아가자.
+  ja: |-
+    緊急訓練以下だわ。
+    リリン、帰るわよ。
+835_cv_ja:
+  en: 'CV: Yūko Miyamura'
+  ko: 'CV : 미야무라 유코'
+  ja: CV：宮村優子
+835_cv_ko:
+  en: 'CV: Yūko Miyamura'
+  ko: 'CV : 미야무라 유코'
+  ja: CV：宮村優子
+835_cv_en:
+  en: 'CV: Yūko Miyamura'
+  ko: 'CV : 미야무라 유코'
+  ja: CV：宮村優子

@@ -1,0 +1,949 @@
+---
+82_name:
+  en: Liter
+  ko: 리타
+  ja: リター
+c082_description:
+  en: The leader of Mighty Tools. Contrary to her appearance, she has already lived
+    a long life. At present, no other Nikke can surpass her when it comes to construction.
+  ko: "마이티 툴즈 스쿼드의 리더.\n겉보기와는 달리 오랜 시간을 살아왔다. \n건축에 관한 능력만큼은 현존하는 니케 중 최고로 꼽힌다."
+  ja: |-
+    マイティツールズ部隊のリーダー。見かけによらず
+    長い年月を生きてきた。建築に関する能力は、
+    現存するニケの中でトップクラスに入る。
+82_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50082:
+  en: Liter's Spare Body
+  ko: 리타 스페어 바디
+  ja: リターのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+10822_name:
+  en: Volt Boost
+  ko: 볼트 부스트
+  ja: ボルトブースト
+10822_description:
+  en: |-
+    ■ Affects {description_value_01} ally unit(s) with the lowest remaining cover HP.
+    <color=#00AEFF><word_group=10017>Cover's HP recovers</word_group> by {description_value_02}%.</color>
+  ko: |-
+    ■ 남은 엄폐물 체력 수치가 가장 낮은 아군 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10017>엄폐물 체력 회복</word_group> {description_value_02}%]</color>
+  ja: |-
+    ■残存する遮蔽物HPの数値が最も低い味方{description_value_01}機に
+    <color=#00AEFF>「<word_group=10017>遮蔽物HP回復</word_group> {description_value_02}％」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20821_name:
+  en: Liter Boost
+  ko: 리타 부스트
+  ja: リターブースト
+20821_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_01} sec.
+    Twice: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_02} sec.
+    Three times: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>
+    ■ Activates when using Burst Skill. Affects all allies.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: Max Ammunition Capacity ▲ {description_value_04}% for {description_value_05} sec.
+    Twice: Critical Damage ▲ {description_value_06}% for {description_value_07} sec.
+    Three times: ATK ▲ {description_value_08}% for {description_value_09} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>] :
+    1회 : [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_01}초 ▼]
+    2회 : [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_02}초 ▼]
+    3회 : [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_03}초 ▼]</color>
+    ■ 버스트 스킬 사용 시 아군 전체에게
+    <color=#00AEFF>[사용 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>] :
+    1회 : [최대 장탄 수 {description_value_04}% ▲] [{description_value_05}초 유지]
+    2회 : [크리티컬 대미지 {description_value_06}% ▲] [{description_value_07}초 유지]
+    3회 : [공격력 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「開始回数別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」：
+    1回：
+    「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_01}秒▼」
+    2回：
+    「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_02}秒▼」
+    3回：
+    「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_03}秒▼」</color>
+    ■バーストスキルを使用した時、味方全体に
+    <color=#00AEFF>「使用回数別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」：
+    1回：「最大装弾数{description_value_04}％▲」「{description_value_05}秒間維持」
+    2回：「クリティカルダメージ{description_value_06}％▲」「{description_value_07}秒間維持」
+    3回：「攻撃力{description_value_08}％▲」「{description_value_09}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10823_name:
+  en: Double Boost
+  ko: 더블 부스트
+  ja: ダブルブースト
+10823_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+80_name:
+  en: Centi
+  ko: 센티
+  ja: センチ
+c082_Lobby_Touch_1:
+  en: There's nothing Raze & Rebuild can't do!
+  ko: 마이티 툴즈는 전지전능의 도구니라!
+  ja: マイティツールズは全知全能の道具なのじゃ！
+c082_Lobby_Touch_2:
+  en: Oh, that? Name's Volt. Pretty cute, huh?
+  ko: 이 아이? 볼트라고 한단다. 귀여운지 어떤지는 알아서 판단하거라.
+  ja: |-
+    この子？ボルトと言う。
+    かわいいかどうかの判断はご勝手に。
+c082_Lobby_Touch_3:
+  en: Give me a shout if you've got anything that needs fixin'. I can make plenty
+    of stuff too!
+  ko: 만들거나 고칠 것이 있다면 언제든 얘기하거라.
+  ja: 何か作ったり直したりすることならいつでも歓迎じゃ。
+c082_Lobby_Touch_Love_1:
+  en: Good thing you always know what I am thinking, Greenhorn.
+  ko: 그래도 애송이 네놈이 내 속을 알아줘서 다행이니라.
+  ja: 青二才が私のことを理解してくれて嬉しいのじゃ。
+c082_Lobby_Touch_Love_2:
+  en: Before I go, I want to leave behind a legacy that matters.
+  ko: 네놈들에겐 좋은 흔적만 남기고 가고 싶구나.
+  ja: 君たちには良い印象を残して行きたいのう。
+c082_Lobby_Touch_Love_3:
+  en: Wanna take Volt for a walk? We can talk along the way.
+  ko: 함께 볼트를 산책시키지 않겠느냐? 가는 길에 내 말동무나 해다오.
+  ja: |-
+    ボルトの散歩に行かないかい？
+    ついでに私の話し相手にもなってくれ。
+c082_Lobby_Stay_1:
+  en: Helloooo, anybody home? Let's get going!
+  ko: 젊은 녀석이 혼을 어디 두고 있는 게냐? 어서 몸을 움직이지 않고!
+  ja: |-
+    若い衆は気合いが入っておらんのう。
+    早く体を動かすのじゃ！
+c082_Lobby_Stay_Love_1:
+  en: Greenhorn, don't forget to keep your room nice and tidy!
+  ko: 애송이 네놈, 늘어져 있을 시간이 있으면 방 청소라도 하거라!
+  ja: |-
+    青二才、ボサッとしている暇があったら、
+    部屋の掃除でもするのじゃ！
+c082_Outpost_Touch_1:
+  en: What a dump! It'll take me forever to fix all of this.
+  ko: 아아~ 손 볼 곳이 너무 많아 고민인 곳이로다.
+  ja: ああ～ 手直しする場所が多すぎて 頭が痛いねえ。
+c082_Outpost_Touch_2:
+  en: Stop by the workshop whenever you've got a spare minute. You can always find
+    us there.
+  ko: 시간 나면 공방에도 놀러 오거라. 우린 항상 거기 있으니.
+  ja: |-
+    時間があれば 工房にも遊びにおいで。
+    私たちはいつも そこにいるからね。
+c082_Outpost_Touch_3:
+  en: This place is perfect for Volt! Plenty of space to run around in.
+  ko: 볼트가 뛰어놀기 좋은 곳이로구나.
+  ja: ボルトが走り回るのに ちょうどいい場所だこと。
+c082_Gacha_Get_1:
+  en: Let me know if you want anything. I can make it for you.
+  ko: 원하는 것이 있다면 말만 하거라. 내 언제든 만들어 줄 테니.
+  ja: |-
+    欲しいものがあったら何でも言ってごらん。
+    すぐに作ってあげよう。
+c082_Reinforce_1:
+  en: I didn't know it was possible to make such progress at this age!
+  ko: 호오… 이 나이에 성장이라니.
+  ja: ほお…この年で成長とは。
+c082_Reinforce_2:
+  en: I'm still in my prime, baby!
+  ko: 기쁘구나. 나도 아직 한창이야.
+  ja: 嬉しいねえ。私もまだ青春真っ盛りのようじゃ。
+c082_Reinforce_3:
+  en: "... Why can't I grow taller?"
+  ko: "…어째서 키는 안 크는 것이더냐."
+  ja: "…どうして身長だけ伸びないんじゃ。"
+c082_Gift_1:
+  en: I can't remember the last time I got a gift from someone.
+  ko: 선물…! 이 얼마나 오랜만인지…!
+  ja: プレゼント…！久しくもらってないのう…！
+c082_Gift_2:
+  en: Greenhorn, you really should learn how to handle your money better.
+  ko: 애송이 네놈. 돈이 어디 있다고 자꾸….
+  ja: 青二才のくせに無理してはいかんぞ…
+c082_Gift_3:
+  en: You didn't have to do this, but... thanks anyway.
+  ko: 뭘 이런 걸 다 주느냐. 고맙긴 하다만….
+  ja: |-
+    こんなことしてくれなくてもいいんじゃが。
+    気持ちは嬉しいがのう…
+c082_Attractive_Up_1:
+  en: Hmm... I didn't think someone my age could feel this way. It's... kinda nice.
+  ko: 흠… 이 나이에 이런 감정이라니. 나쁘지만은 않구나.
+  ja: |-
+    ふむ…この年になってこんな気持ちになるとは。
+    悪くはないのう。
+c082_Attractive_Up_2:
+  en: So you know how to respect your elders after all!
+  ko: 젊은 녀석이 어른을 공경할 줄 아는구나!
+  ja: 若いのに年長者に対する礼儀がなっておるのう！
+c082_Attractive_Up_3:
+  en: They say kindness trumps all evil, so maybe I should pay more attention to you,
+    you little rascal.
+  ko: 미운 놈 떡 하나 더 준다고, 나도 네놈에게 더 정이 가느니라.
+  ja: |-
+    情けは人の為ならずじゃ。
+    君にはもっとよくしてあげたいのう。
+c082_Party_Deploy_1:
+  en: I may not be the best, but I can at least crack a few skulls!
+  ko: 전투는 자신 없다만, 맡겨보거라!
+  ja: 戦闘には自信がないが、任せなさい！
+c082_Field_Touch_1:
+  en: Standing by.
+  ko: 대기 중이니라.
+  ja: 待機中じゃ。
+c082_Field_Go_1:
+  en: Let's go, Volt.
+  ko: 볼트야. 가자꾸나.
+  ja: ボルト。行こうかのう。
+c082_Battle_Enter_1:
+  en: Ugh! Do I have to fight?
+  ko: 으음…! 전투라니…!
+  ja: う～む…！戦闘は…！
+c082_Battle_Ready_1:
+  en: Whatever, I'll just do what I can.
+  ko: 음. 열심히는 해 보겠다.
+  ja: うむ。手抜きはせんぞ。
+c082_Battle_Ready_2:
+  en: Volt! Follow me.
+  ko: 볼트야. 내 옆에서 떨어지지 말거라.
+  ja: ボルト。私の傍にぴったりくっついておるのじゃ。
+c082_Battle_Ready_3:
+  en: No need to fear, Liter is here!
+  ko: 내가 있으니 다들 걱정은 접어두거라.
+  ja: 私がいるから皆、心配ご無用。
+c082_Reload_1:
+  en: I need to reload!
+  ko: 재장전 할 것이야!
+  ja: リロードするのじゃ！
+c082_Reload_2:
+  en: Lay off the tongue, Volt!
+  ko: 이놈! 적당히 핥아대거라!
+  ja: こいつめ！軽くあしらってやるのじゃ！
+c082_Reload_3:
+  en: Let me see... Am I doing it right?
+  ko: 어디 보자… 이렇게 하는 게 맞던가?
+  ja: どれどれ…これでよかったかね？
+c082_Ult_Skill_Ready_1:
+  en: Volt! Let's go!
+  ko: 볼트야!
+  ja: ボルト！行くのじゃ！
+c082_Ult_Skill_1:
+  en: Woooo!!
+  ko: 가자꾸나! 아우우우우-!!
+  ja: あうううう！！
+c082_FullBurst_1:
+  en: Go, boys!!
+  ko: 가자꾸나 이 녀석들아!!
+  ja: 行くぞ、こやつめ！！
+c082_Kill_Monster_1:
+  en: Good!
+  ko: 옳지!
+  ja: その通りじゃ！
+c082_Kill_Monster_2:
+  en: Haha!
+  ko: 하하!
+  ja: はは！
+c082_Kill_Monster_3:
+  en: Did you see that?
+  ko: 봤느냐!?
+  ja: 見たか！？
+c082_Damage_1:
+  en: Ah!
+  ko: 꺅!
+  ja: きゃっ！
+c082_Damage_2:
+  en: Uh...
+  ko: 으으….
+  ja: うう…
+c082_Damage_3:
+  en: Oh my!
+  ko: 아이쿠!
+  ja: ひええ！
+c082_Die_1:
+  en: Ouch... I may have gone a bit overboard...
+  ko: 에고고… 너무 무리한 모양이구나….
+  ja: あああ…ちょっと無理しすぎたようじゃ…
+c082_Win_1:
+  en: One more victory for Volt and me!
+  ko: 볼트와 나의 승리니라!
+  ja: ボルトと私の勝利じゃ！
+c082_01_Lobby_Touch_1:
+  en: Mighty Tools is just as mighty by the seaside!
+  ko: 해변에서도 마이티 툴즈는 전지전능이니라!
+  ja: ビーチでも、マイティツールズは全知全能の道具なのじゃ！
+c082_01_Lobby_Touch_2:
+  en: |-
+    Volt wears a life vest whenever we're near the ocean.
+    You should do the same, Greenhorn.
+  ko: |-
+    바다에 왔으니 볼트도 조끼를 입혔단다.
+    애송이 네놈도 꼭 챙겨 입거라.
+  ja: |-
+    海じゃから、ボルトにもライフジャケットを着せたんじゃ。
+    青二才も必ず着るんじゃぞ。
+c082_01_Lobby_Touch_3:
+  en: Who put fish in my toolbox?!
+  ko: 누가 공구상자에 생선을 갖다 넣어놓은 게냐!
+  ja: 誰が工具箱にサカナを入れたのじゃ！？
+c082_01_Lobby_Touch_Love_1:
+  en: Thanks to you, Greenhorn, I finally got to visit the ocean.
+  ko: |-
+    살다 보니 바다에도 다 와보고, 참으로 좋구나.
+    이것도 다 애송이, 네 덕이겠지?
+  ja: |-
+    長生きすれば、海に来ることもあるんじゃのう。
+    これも青二才のおかげじゃな？
+c082_01_Lobby_Touch_Love_2:
+  en: |-
+    Life is so unpredictable.
+    Who would have thought the day would come when I'd be wearing a swimsuit?
+  ko: |-
+    삶은 길고 한 치 앞을 알 수 없구나.
+    내가 이렇게 수영복을 입을 날이 올지 누가 알았을까.
+  ja: |-
+    人生は長く、未来は分からぬものじゃ。
+    私がこうして水着を着る日が来るなんて、誰が予想できたかね。
+c082_01_Lobby_Touch_Love_3:
+  en: |-
+    Let's weave a net.
+    I'll catch you a netful of fish!
+  ko: |-
+    애송아, 조금 이따 그물이나 치러 가자꾸나!
+    생선을 잔뜩 잡아주마!
+  ja: |-
+    青二才、あとで網を設置するのじゃ！
+    サカナをたくさん捕まえてやろう！
+c082_01_Lobby_Stay_1:
+  en: Are you just going to stay on the shore and watch the water?
+  ko: 애송이 너는 물놀이하러 가지 않고 보고만 있는 게냐?
+  ja: 青二才、君は水遊びもせずに見ているだけかね？
+c082_01_Lobby_Stay_Love_1:
+  en: |-
+    It's weird not having any work to do.
+    I guess this is what people mean when they say 'R&R'.
+  ko: |-
+    오랜만에 일하지 않고 있으려니 이상하구나.
+    그래… 이것이 휴양이라는 것이겠지.
+  ja: |-
+    久しぶりに仕事がないから、妙な感じじゃ。
+    そうか…これが休養というものなんじゃな。
+c082_01_Outpost_Touch_1:
+  en: |-
+    Is the swimming pool working properly?
+    Is there anything that needs repairing?
+  ko: |-
+    수영장은 잘 쓰고 있느냐?
+    어디 수리할 곳은 없고?
+  ja: |-
+    プールはどうじゃ？
+    直すところはないかのう？
+c082_01_Outpost_Touch_2:
+  en: |-
+    It's summer all right!
+    It's getting much warmer.
+  ko: "여름은 여름이구나~ \n제법 날씨가 뜨거워졌어."
+  ja: |-
+    確かに夏が来たようじゃ～
+    気温が上がっておるぞ。
+c082_01_Outpost_Touch_3:
+  en: It's much cooler here, compared to the ocean up on the surface.
+  ko: 그래도 여기가 지상의 바다보다는 시원하구나.
+  ja: それでも、 地上の海よりは ここの方が涼しいのじゃ。
+c082_01_Gacha_Get_1:
+  en: |-
+    If a cool summer is what you're after, let me know.
+    I can make anything.
+  ko: |-
+    시원한 여름을 보내고 싶거든 말만 하거라.
+    뭐든 만들어줄 테니.
+  ja: |-
+    涼しい夏を過ごしたければ、いつでも言ってごらん。
+    何でも作ってあげよう。
+c082_01_Reinforce_1:
+  en: Thanks for the pick-me-up! This way, I won't get heatstroke again.
+  ko: 이렇게 기력을 채워주니 더위 먹지는 않겠구나.
+  ja: こうして元気をくれるから、夏バテの心配はなさそうじゃ。
+c082_01_Reinforce_2:
+  en: I'm ready to go for a dip now, thanks.
+  ko: 발장구 칠 힘이 생겼구나. 고맙다.
+  ja: バタ足する力がついたのじゃ。感謝するぞ。
+c082_01_Reinforce_3:
+  en: Thanks for everything you're doing, Greenhorn. I know today's a real scorcher.
+  ko: 더운 날에도 애썼구나, 애송이.
+  ja: 暑いのにご苦労様じゃな、青二才。
+c082_01_Gift_1:
+  en: A gift? ... Thank you.
+  ko: 선물이라고? …고맙구나.
+  ja: |-
+    プレゼントじゃと？
+    …ありがたいねえ。
+c082_01_Gift_2:
+  en: When did you find time to get these?
+  ko: 이런 건 다 언제 준비한 게냐…!
+  ja: こんなもの、いつ準備したのじゃ…！
+c082_01_Gift_3:
+  en: |-
+    Thank you for the gift...
+    But don't just think about others. Take good care of yourself, too.
+  ko: "챙겨주니 좋긴 하다마는… \n남들만 챙겨주지 말고 너한테도 좋은 것 좀 사거라."
+  ja: |-
+    気にかけてくれるのは嬉しいんじゃが…
+    青二才の分もちゃんと取っておくんじゃぞ。
+c082_01_Attractive_Up_1:
+  en: Greenhorn, let's be friends forever.
+  ko: 애송아, 오래 보자꾸나.
+  ja: 青二才、これからも頼んだぞ。
+c082_01_Attractive_Up_2:
+  en: |-
+    I think I'm starting to have feelings for you, Greenhorn.
+    Let's spend next summer together as well.
+  ko: |-
+    확실히 내가 애송이, 네놈과 정이 들긴 들은 모양이구나.
+    다음 여름도 같이 보내고 싶은 걸 보니.
+  ja: |-
+    確かに青二才との仲が深まったようじゃ。
+    来年の夏も一緒に過ごしたいのう。
+c082_01_Attractive_Up_3:
+  en: This summer I've spent with you has been the best time of my life.
+  ko: 애송아. 그래도 너와 같이 보내는 여름이 제일 즐거운 것 같구나.
+  ja: 青二才。君と一緒に過ごす夏が一番楽しいのじゃ。
+c082_01_Party_Deploy_1:
+  en: Are we going for a swim? Sure, let's go!
+  ko: 물놀이하러 가자고? 그래, 가보자꾸나!
+  ja: 水遊び？よし、行くのじゃ！
+c082_01_Field_Touch_1:
+  en: Did you call me?
+  ko: 불렀느냐?
+  ja: 呼んだかい？
+c082_01_Field_Go_1:
+  en: Swimming sure can tucker you out.
+  ko: 물놀이하러 가는 것 한번 힘들구나.
+  ja: 水遊びに行くのも大変じゃのう。
+c082_01_Battle_Enter_1:
+  en: Hmm... I don't think this'll proceed terribly smoothly.
+  ko: 음… 역시나 순탄치 않구나.
+  ja: うむ…やはりスムーズにはいかぬな。
+c082_01_Battle_Ready_1:
+  en: It doesn't matter how hot it gets, I'll always succeed.
+  ko: 음. 덥긴 하지만 이번에도 어떻게든 될 것이야.
+  ja: うむ。暑いが、今回も何とかなるじゃろう。
+c082_01_Battle_Ready_2:
+  en: Volt, finish this and hurry to the sea.
+  ko: 볼트야, 얼른 끝내고 바다 보러 가자꾸나.
+  ja: ボルト、早く終わらせて海を見に行くのじゃ。
+c082_01_Battle_Ready_3:
+  en: I don't think I'll ever get used to fighting.
+  ko: 으음… 전투는 언제 해도 적응되지 않는구나.
+  ja: 戦闘は何回やっても慣れないものじゃな。
+c082_01_Reload_1:
+  en: Aw jeez, Volt, you're all wet.
+  ko: 볼트야… 축축하구나.
+  ja: ボルト…濡れてしまったのう。
+c082_01_Reload_2:
+  en: Why do you keep licking my hands? Do they smell like fish?
+  ko: 설마 생선 맛이 나서 자꾸 핥아대는 게냐?
+  ja: まさか、サカナの味がするのかい？
+c082_01_Reload_3:
+  en: This scorching heat is making my memory fuzzy.
+  ko: 흐음… 더우니까 기억이 더 가물가물하구나.
+  ja: |-
+    ふむ…
+    暑くて記憶があいまいじゃ。
+c082_01_Ult_Skill_Ready_1:
+  en: Greenhorn!
+  ko: 애송아!
+  ja: 青二才！
+c082_01_Ult_Skill_1:
+  en: Toward the sea! Woof-woof!
+  ko: 바다로 가자꾸나! 아우우우우우우--!!
+  ja: 海に行くのじゃ！あうううう！！
+c082_01_FullBurst_1:
+  en: Let's have fun, guys!
+  ko: 이 녀석들아, 실컷 놀아보거라!!
+  ja: 思う存分、遊ぶのじゃ！！
+c082_01_Kill_Monster_1:
+  en: Take this!
+  ko: 보거라!
+  ja: ほら見なさい！
+c082_01_Kill_Monster_2:
+  en: It worked!
+  ko: 됐다!
+  ja: よし！
+c082_01_Kill_Monster_3:
+  en: I did it!
+  ko: 그렇지!
+  ja: ナイスじゃ！
+c082_01_Damage_1:
+  en: Gah!
+  ko: 으앗!
+  ja: うあっ！
+c082_01_Damage_2:
+  en: Arrgh!
+  ko: 어쿠쿠.
+  ja: いたたた…
+c082_01_Damage_3:
+  en: Ouch.
+  ko: 에구구.
+  ja: ううっ。
+c082_01_Die_1:
+  en: I guess water and I just don't get along.
+  ko: 으음… 역시 나는 물이랑은 안 맞는 모양이구나….
+  ja: うーむ…やはり私は水と相性が悪いようじゃ…
+c082_01_Win_1:
+  en: Volt! We won again!
+  ko: 볼트야! 또 이겼느니라!
+  ja: ボルト！また勝ったのじゃ！
+c082_02_Lobby_Touch_1:
+  en: |-
+    Hey, check it out!
+    Volt and I have matching outfits.
+  ko: |-
+    보았느냐?
+    볼트와 세트로 입었느니라.
+  ja: |-
+    どうじゃ！
+    ボルトとお揃いなのじゃ。
+c082_02_Lobby_Touch_2:
+  en: |-
+    You told me to wear something formal...
+    but why do I look like a child? I'm not into this at all.
+  ko: |-
+    격식 입게 차려입으라 해서 입었건만…
+    묘하게 애처럼 보이는 것 같아 신경 쓰이는구나.
+  ja: |-
+    洒落てみたんじゃが…
+    何だか子どもっぽく見えそうで心配じゃな。
+c082_02_Lobby_Touch_3:
+  en: |-
+    No matter what I wear,
+    it won't tarnish Mighty Tools' impeccable reputation.
+  ko: "어떤 옷을 입고 있든, \n마이티 툴즈는 전지전능이니라!"
+  ja: |-
+    どんな服を着ていようと、
+    マイティツールズは全知全能なのじゃ！
+c082_02_Lobby_Touch_Love_1:
+  en: |-
+    Sunflowers remind me of Volt, so I like them.
+    Actually... they're a bit like you, too.
+  ko: |-
+    해바라기는 볼트와 닮은 꽃이라 좋아하고 있느니라.
+    흠… 그러고 보니, 애송이 네놈도 닮은 듯하구나.
+  ja: |-
+    ヒマワリはボルトみたいだから好きなのじゃ。
+    ふむ…そういえば、青二才もヒマワリみたいじゃのう。
+c082_02_Lobby_Touch_Love_2:
+  en: |-
+    You say I look like a kindergartener?
+    You take that back!
+  ko: |-
+    유치원생 같다고…?
+    이노옴~!! 그 말을 취소하지 못하겠느냐!
+  ja: |-
+    幼稚園児みたいじゃと…？
+    こやつめ～！！今すぐその言葉を取り消すのじゃ！
+c082_02_Lobby_Touch_Love_3:
+  en: |-
+    I never thought that one day I would dress like this.
+    I must have lived too long.
+  ko: |-
+    참으로 오래 살고 볼일이로구나.
+    이 나이에 이렇게나 차려입어 보다니.
+  ja: |-
+    長生きするものじゃのう。
+    この歳になって、こんな洒落た格好をするとは。
+c082_02_Lobby_Stay_1:
+  en: |-
+    I'll leave you to your work then.
+    I told Centi she should come see Volt's new outfit.
+  ko: |-
+    바쁘면 나도 이만 가보겠다.
+    센티에게 볼트의 새 옷을 보여주기로 했느니라.
+  ja: |-
+    忙しいなら、私も失礼するのじゃ。
+    センチにボルトの新しい服を見せてあげねばのう。
+c082_02_Lobby_Stay_Love_1:
+  en: |-
+    I wanna go play with Volt while I'm wearing a cute outfit.
+    I'll be back when you're free.
+  ko: |-
+    예쁜 옷을 입고 있으니 조금 더 노닥거리고 싶구나.
+    볼트랑 놀고 있을 테니 한가해지거든 오너라.
+  ja: |-
+    せっかくかわいい服を着たんじゃから、
+    もう少しおしゃべりしたいのう。
+    ボルトと遊んでいるから、暇になったら来るのじゃ。
+c082_02_Outpost_Touch_1:
+  en: Volt, do you want to go on a walk with the new clothes?
+  ko: 볼트야, 새로운 옷도 입었으니 산책을 가겠느냐?
+  ja: ボルト、 服も新調したことだし、 散歩にでも行くのじゃ。
+c082_02_Outpost_Touch_2:
+  en: |-
+    Wearing this to the Workshop may be a bit...
+    What do you think, Greenhorn?
+  ko: |-
+    이 차림으로 공방에 가는 건 좀… 그럴 것 같은데.
+    애송이 네놈은 어떻게 생각하느냐?
+  ja: |-
+    この格好で工房に行くのは ちょっと… あれじゃのう。
+    青二才はどう思う？
+c082_02_Outpost_Touch_3:
+  en: "Is there a kindergarten in the Outpost? Of course not. \n... Why do you ask?"
+  ko: |-
+    전초기지에 유치원이 있냐고? 그런 게 있을 리가 없지 않겠느냐.
+    …그런데 그런 건 왜 묻는 게냐?
+  ja: |-
+    前哨基地に幼稚園？ そんなもの あるはずないじゃろう。
+    …しかし、 なんでそんなことを 聞くのじゃ？
+c082_02_Gacha_Get_1:
+  en: |-
+    Dressing like this is a bit embarrassing,
+    but doesn't it match perfectly with Volt?
+  ko: |-
+    이렇게 차려입고 있으니 확실히 어색하긴 하구나.
+    그래도 볼트와 세트로 입으니 보기 좋지 않더냐?
+  ja: |-
+    こうして洒落ておると、妙な感じがするのう。
+    でも、ボルトとお揃いでいいじゃろう？
+c082_02_Reinforce_1:
+  en: Thank you for looking after me.
+  ko: 이번에도 애써줬구나. 수고했다.
+  ja: 今回もご苦労じゃったな。
+c082_02_Reinforce_2:
+  en: I think I've got the strength to hold on a little longer now.
+  ko: 기력도 챙겼으니 조금 더 오래 살 수 있겠구나.
+  ja: 元気も出たことだし、長生きできそうじゃ。
+c082_02_Reinforce_3:
+  en: Thanks to you, Greenhorn, I can have some fun for once.
+  ko: 애송이, 네 덕에 호강하는구나. 고맙다.
+  ja: 青二才のおかげでぜいたくができるのう。ありがとう。
+c082_02_Gift_1:
+  en: You're always sending me such wonderful gifts. Thank you so much.
+  ko: 매번 이렇게 받기만 하는구나. 고맙다.
+  ja: いつももらってばかりで悪いねぇ。
+c082_02_Gift_2:
+  en: |-
+    Another gift?
+    What if I were to tell you I want even more?
+  ko: "뭘 또 이런 걸 준비했느냐… \n내가 더 받고 싶다면 어찌하려고!"
+  ja: |-
+    またこんなものを用意して…
+    私を甘やかしてどうするつもりじゃ！
+c082_02_Gift_3:
+  en: Is it just me, or do I get the impression that you're giving presents to a small
+    child?
+  ko: "묘하게 어린아이에게 줄 것을 주는 것 같은 느낌인데… \n기분 탓이겠지?"
+  ja: |-
+    子どもにあげるようなものばかり…
+    気のせいじゃろうか？
+c082_02_Attractive_Up_1:
+  en: |-
+    Greenhorn, I'm making a Volt badge for you.
+    I'll give it to you next time we see each other.
+  ko: |-
+    애송이, 네놈에게 줄 볼트 배지를 만들고 있느니라.
+    다음에 선물로 주마.
+  ja: |-
+    青二才にあげるボルトバッジを作っているのじゃ。
+    今度プレゼントしよう。
+c082_02_Attractive_Up_2:
+  en: |-
+    I wish you'll lead a long, long life.
+    That way, I can see you more.
+  ko: |-
+    애송아 오래 살거라.
+    그래야 오래 보지 않겠느냐.
+  ja: |-
+    青二才も長生きするのじゃぞ。
+    そうすれば、ずっと一緒に居られるからのう。
+c082_02_Attractive_Up_3:
+  en: The more I think about it, the more I'm into you.
+  ko: 보면 볼수록 자꾸 정들어서 큰일이구나.
+  ja: 会えば会うほど、情が移って困ったもんじゃ。
+c082_02_Party_Deploy_1:
+  en: You want me to fight in this outfit?
+  ko: 이런 옷을 입고 싸우러 나가라는 게냐?
+  ja: こんな服を着て戦えというのかい？
+c082_02_Field_Touch_1:
+  en: Go ahead.
+  ko: 말하거라.
+  ja: 何じゃ。
+c082_02_Field_Go_1:
+  en: There's no way I can run in this thing.
+  ko: 이 차림으로 뛰어가자니 힘들구나.
+  ja: この格好で走るのは大変じゃのう。
+c082_02_Battle_Enter_1:
+  en: This isn't going smoothly at all!
+  ko: 으음… 역시 쉽게 가질 못하는구나…!
+  ja: うーむ…やはり簡単にはいかぬのじゃ…！
+c082_02_Battle_Ready_1:
+  en: Let's get this over with and hurry back.
+  ko: 이왕 이렇게 된 거, 얼른 끝내고 돌아가자꾸나!
+  ja: こうなったら、とっとと終わらせて戻るのじゃ！
+c082_02_Battle_Ready_2:
+  en: A new outfit for a new fight! Go get 'em, Volt!
+  ko: 볼트야, 새 옷 새 뜻으로 가보자꾸나!
+  ja: ボルト！新しい服じゃから、新鮮な気持ちで行くのじゃ！
+c082_02_Battle_Ready_3:
+  en: Another battle? I just finished dressing up.
+  ko: 모처럼 꾸몄는데… 또 전투인 게냐…!
+  ja: せっかく着飾ったのに…また戦うのかい…！
+c082_02_Reload_1:
+  en: Stop licking me, Volt! I'm not even wearing a helmet…
+  ko: 이놈! 그만 핥거라! 이젠 헬멧도 없느니라…!
+  ja: |-
+    こら！舐めるでない！
+    もうヘルメットもないのじゃ…！
+c082_02_Reload_2:
+  en: Why are you so obsessed with licking my hair?
+  ko: 도대체 뭐 때문에 이렇게 머리를 핥아대는 게냐?
+  ja: どうしてそんなに頭を舐めるんじゃ？
+c082_02_Reload_3:
+  en: Fighting is tougher. I must be getting old.
+  ko: 끄으응… 나이 먹고 싸우려니 힘들구나.
+  ja: うぅ…この歳で戦うのは大変じゃのう。
+c082_02_Ult_Skill_Ready_1:
+  en: Volt!
+  ko: 볼트야!
+  ja: ボルト！
+c082_02_Ult_Skill_1:
+  en: Woo-hoo!! Let's have a party!
+  ko: 파티하러 가자꾸나! 아우우우우우우우-!!
+  ja: パーティーに行くのじゃ！あうううう！！
+c082_02_FullBurst_1:
+  en: Now! Everyone!
+  ko: 지금이다! 모두 달려들 거라!
+  ja: 今じゃ！みんな飛びかかれ！
+c082_02_Kill_Monster_1:
+  en: Let's do it again!
+  ko: 더 해보자꾸나!
+  ja: まだまだ行けるのじゃ！
+c082_02_Kill_Monster_2:
+  en: Did I catch it?
+  ko: 내가 잡은 게냐?
+  ja: 私がやったのかい？
+c082_02_Kill_Monster_3:
+  en: Yeah!
+  ko: 옳구나!
+  ja: よしっ！
+c082_02_Damage_1:
+  en: Oof!
+  ko: 에구.
+  ja: ううっ。
+c082_02_Damage_2:
+  en: Argh!
+  ko: 아이고오~
+  ja: あぁ～
+c082_02_Damage_3:
+  en: You tore my outfit!
+  ko: 옷이 다 망가지겠구나.
+  ja: 服がボロボロじゃ。
+c082_02_Die_1:
+  en: Fighting dressed up like this is impossible.
+  ko: 으으… 이렇게 차려입으니 싸우기가 힘들구나….
+  ja: うう…着飾っているから戦いにくいのじゃ…
+c082_02_Win_1:
+  en: How do you like that? A grand victory!
+  ko: 어떠냐. 보기 좋게 승리했느니라.
+  ja: うむ。華麗なる勝利じゃ。
+82_cv_ja:
+  en: 'CV: Yuka Iguchi'
+  ko: 'CV : 이구치 유카'
+  ja: CV：井口裕香
+82_cv_ko:
+  en: 'CV: Choi Jeong-yoon'
+  ko: 'CV : 최정윤'
+  ja: CV：チェ・ジョンユン
+82_cv_en:
+  en: 'CV: Lisa Reimold'
+  ko: 'CV : 리사 레이몰드'
+  ja: CV：Lisa Reimold

@@ -1,0 +1,545 @@
+---
+195_name:
+  en: 'Alice: Wonderland Bunny'
+  ko: '앨리스 : 원더랜드 바니'
+  ja: アリス：ワンダーランドバニー
+c195_description:
+  en: |-
+    By sheer coincidence, Alice is wearing a bunny costume.
+    Ecstatic, she proceeds to spend her time meeting various rabbit-related characters at Coin Rush.
+  ko: "우연한 기회로 바니 옷을 입게 된 앨리스. \n코인 러시에서 다양한 토끼 씨를 만나 행복한 시간을 보내게 된다."
+  ja: |-
+    偶然バニーの服を着ることになったアリス。
+    コインラッシュでたくさんのウサギさんと出会い、
+    幸せな時間を過ごす。
+195_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_195:
+  en: 'Alice: Wonderland Bunny''s Spare Body'
+  ko: '앨리스 : 원더랜드 바니 스페어 바디'
+  ja: アリス：ワンダーランドバニーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21952_name:
+  en: More Carrots
+  ko: 좀 더 많은 당근
+  ja: もっとたくさんのニンジン
+21952_description:
+  en: |-
+    ■ Activates after Full Burst ends. Affects all allies.
+    <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Max Ammunition Capacity ▲ {description_value_03}% for {description_value_04} sec.
+    Reload {description_value_05}%.</color>
+  ko: |-
+    ■ 풀 버스트 타임 종료 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [탄환 충전 {description_value_05}%]</color>
+  ja: |-
+    ■フルバーストタイムが終了した時、味方全体に
+    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「最大装弾数{description_value_03}％▲」「{description_value_04}秒間維持」
+    「弾丸チャージ{description_value_05}％」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21951_name:
+  en: Carrot and Bunny Party
+  ko: 당근과 토끼 파티
+  ja: ニンジンとウサギパーティー
+21951_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects all allies.
+    <color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group> Max HP as HP.
+    Carrot Party: <word_group=10000>Damage to Interruption Parts</word_group> ▲{description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+    ■ Activates after {description_value_06} normal attack(s). Affects all Water Code allies.
+    <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_07}.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]
+    [당근 파티 : <word_group=10000>저지 부위 공격 대미지</word_group> {description_value_03}% ▲] [{description_value_04} 중첩] [{description_value_05}초 유지]</color>
+    ■ 일반 공격 {description_value_06}회 공격 시 수냉 코드 아군 전체에게
+    <color=#00AEFF>[<word_group=10001>중첩 가능 이로운 효과 중첩량</word_group> {description_value_07}개 ▲]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」
+    「ニンジンパーティー：<word_group=10000>阻止部位の攻撃ダメージ</word_group>{description_value_03}％▲」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+    ■通常攻撃で{description_value_06}回攻撃した時、水冷コードの味方全体に
+    <color=#00AEFF>「<word_group=10001>スタック可能バフ効果のスタック量</word_group>{description_value_07}個▲」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11953_name:
+  en: Precious Big Carrot
+  ko: 소중한 큰 당근
+  ja: 大きくて大切なニンジン
+11953_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10002>Re-enter Burst Skill</word_group> Stage 1.
+    Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+    ■ Activates when Carrot Party is fully stacked. Affects all allies.
+    <color=#00AEFF>Potency of HP restored ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10002>버스트 재진입</word_group> 1단계]
+    [시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
+    ■ 자신이 당근 파티 최대 중첩 상태라면 아군 전체에게
+    <color=#00AEFF>[받는 체력 회복량 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10002>バースト再突入</word_group>1段階」
+    「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」</color>
+    ■自分がニンジンパーティーのフルスタック状態なら、味方全体に
+    <color=#00AEFF>「受けるHP回復量{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+191_name:
+  en: Alice
+  ko: 앨리스
+  ja: アリス
+190_name:
+  en: Ludmilla
+  ko: 루드밀라
+  ja: ルドミラ
+192_name:
+  en: Tove
+  ko: 토브
+  ja: トーブ
+194_name:
+  en: 'Ludmilla: Winter Owner'
+  ko: '루드밀라 : 윈터 오너'
+  ja: ルドミラ：ウィンターオーナー
+193_name:
+  en: Neve
+  ko: 네베
+  ja: ネヴェ
+c195_Lobby_Touch_1:
+  en: Here I come!
+  ko: 짜잔~ 앨리스 토끼랍니다!
+  ja: ジャーン！アリスウサギです！
+c195_Lobby_Touch_2:
+  en: |-
+    My tail isn't moving when I walk, is it?
+    Can you check it for me?
+  ko: |-
+    걸을 때마다 꼬리가 움직인다고 하는데, 어때요?
+    저는 잘 안 보여요!
+  ja: |-
+    歩くとしっぽが動くらしいです。どうですか？
+    私はよく見えません！
+c195_Lobby_Touch_3:
+  en: |-
+    Are these carrots in my hair edible?
+    May I eat them?
+  ko: |-
+    제 머리에 있는 당근, 진짜로 먹어도 되는 걸까요~?
+    한 입만 먹어보면 안 돼요?
+  ja: |-
+    頭のニンジン、食べてもいいんでしょうか～？
+    一口だけ、ダメですか？
+c195_Lobby_Touch_Love_1:
+  en: |-
+    The main reason I love this outfit
+    is because you gave it to me.
+  ko: |-
+    이 옷 너무 좋아요!
+    토끼 씨가 주신 옷이라 더 좋아요~!
+  ja: |-
+    この服、すごくステキです！
+    ウサギさんにもらったので、もっとステキです～！
+c195_Lobby_Touch_Love_2:
+  en: |-
+    You wanna know why I love this place so much?
+    Because you're here.
+  ko: |-
+    전 여기가 너~무 좋아요! 왜냐구요?
+    당연히 토끼 씨가 있으니까요!
+  ja: |-
+    私はここが大好きです！どうしてかって？
+    もちろん、ウサギさんがいるからです！
+c195_Lobby_Touch_Love_3:
+  en: You and I are gonna live happily ever after!
+  ko: |-
+    앨리스 토끼와 토끼 씨는~
+    오래오래 행복하게 잘 살았답니다~
+  ja: |-
+    アリスウサギとウサギさんは～
+    ずっと幸せに暮らしました～めでたしめでたし～
+c195_Lobby_Stay_1:
+  en: |-
+    Bunnies aren't meant to be solitary creatures, you know.
+    They get lonely...
+  ko: |-
+    힝, 토끼는 혼자 두면 외롭다고 했는데….
+    저 외로워요 토끼 씨~!
+  ja: |-
+    えーん。ウサギはひとりぼっちだと寂しいのに…
+    寂しいです、ウサギさ～ん！
+c195_Lobby_Stay_Love_1:
+  en: |-
+    Don't be gone too long.
+    I'll be here waiting for you.
+  ko: |-
+    토끼 씨, 금방 오실 거죠~?
+    앨리스 토끼는 씩씩하니까 얌전히 기다리고 있을 게요!
+  ja: |-
+    ウサギさん、すぐ戻りますよね～？
+    アリスウサギはえらいので、いい子にして待ってます！
+c195_Outpost_Touch_1:
+  en: |-
+    Gah! You scared me!
+    Where are you headed to?
+  ko: |-
+    으앗! 깜짝 놀랐어요~!
+    토끼 씨는 어디 가는 길이예요?
+  ja: |-
+    きゃっ！ びっくりしました～！
+    ウサギさんは どこに行くんですか？
+c195_Outpost_Touch_2:
+  en: |-
+    Are there no other rabbits around?
+    Like Twinkling Bunny or Slippery Bunny?
+  ko: |-
+    다른 토끼 씨는 안 계시려나요~?
+    반짝 토끼 씨나, 미끌 토끼 씨나….
+  ja: |-
+    他のウサギさんは いませんか～？
+    ピカピカウサギさんとか、 ツルツルウサギさんとか…
+c195_Outpost_Touch_3:
+  en: All right, time to go out on a walk. Bounce, bounce!
+  ko: 앨리스 토끼는 산책 중이랍니다~ 깡총! 깡총!
+  ja: アリスウサギは お散歩中です。 ぴょん！ぴょん！
+c195_Gacha_Get_1:
+  en: |-
+    Check it out,
+    I've got ears and a tail! Aren't they adorable?
+  ko: |-
+    토끼 씨, 이것 봐요!
+    저~ 귀도 생겼고, 꼬리도 생겼어요! 귀엽죠~?
+  ja: |-
+    ウサギさん、見てください！
+    耳もあるし、しっぽもあります！かわいいでしょう？
+c195_Reinforce_1:
+  en: Whoa, I can feel my power soaring!
+  ko: 우와! 힘이 불끈 솟는 것 같아요~!
+  ja: わあ！力があふれてきます～！
+c195_Reinforce_2:
+  en: |-
+    Let's hang out, Rabbity.
+    We've got all night.
+  ko: |-
+    저희 놀러 가요, 토끼 씨!
+    저 밤새 놀 수 있을 것 같아요!
+  ja: |-
+    遊びに行きましょう、ウサギさん！
+    一晩中遊べそうです！
+c195_Reinforce_3:
+  en: |-
+    I can feel the magic in the air.
+    How did you do that?
+  ko: |-
+    신기한 느낌이 났어요!
+    어떻게 하신 거예요~?
+  ja: |-
+    不思議な感じがしました！
+    どうやったんですか～？
+c195_Gift_1:
+  en: You're the best, Rabbity! I feel so happy now!
+  ko: 토끼 씨, 최고! 지금 너무너무 행복해요~!
+  ja: ウサギさん、最高です！今、とっても幸せです～！
+c195_Gift_2:
+  en: Wowee! I'm gonna show this off to Queen.
+  ko: 와아~ 여왕님한테 가서 자랑할래요!
+  ja: わあ～女王様にも見せてあげたいです！
+c195_Gift_3:
+  en: |-
+    Hmm... I don't have anything to give you in return...
+    Unless you want some carrots.
+  ko: |-
+    어어… 저는 토끼 씨한테 드릴 게 없는데….
+    당근이라도 드릴까요?!
+  ja: |-
+    えっと…私はウサギさんにあげるものがなくて…
+    ニンジンはいらないですか！？
+c195_Attractive_Up_1:
+  en: I just love you to bits, Rabbity.
+  ko: 토끼 씨가 너무 좋아요!
+  ja: ウサギさんのことが大好きです！
+c195_Attractive_Up_2:
+  en: |-
+    Whenever I see you,
+    my heart won't stop racing.
+  ko: |-
+    토끼 씨를 보고 있으면
+    가슴이 콩닥~콩닥~ 뛰는 게 느껴져요~!
+  ja: ウサギさんを見ていると胸がドキドキします～！
+c195_Attractive_Up_3:
+  en: Whenever you're around, I can't stop blushing.
+  ko: 토끼 씨를 보면 얼굴이 빨개지는 것 같아요…!
+  ja: ウサギさんを見ると顔が真っ赤になります…！
+c195_Party_Deploy_1:
+  en: I'm happy going anywhere, so long as you're with me.
+  ko: 토끼 씨랑 함께라면, 어디든 좋아요~
+  ja: ウサギさんと一緒なら、どこでも嬉しいです～
+c195_Field_Touch_1:
+  en: Alice the Wonderland Bunny, reporting in!
+  ko: 앨리스 토끼, 여기 있어요~
+  ja: アリスウサギはここですよ～
+c195_Field_Go_1:
+  en: Bounce, bounce!
+  ko: 깡총~ 깡총~!
+  ja: ぴょん！ぴょん！
+c195_Battle_Enter_1:
+  en: Let's play together!
+  ko: 다 함께 놀아요~!
+  ja: みんなで遊びましょう！
+c195_Battle_Ready_1:
+  en: This seems like fun!
+  ko: 와아아~ 재미있을 것 같아요!
+  ja: わあ～面白そうです！
+c195_Battle_Ready_2:
+  en: It's like playing hide-and-seek!
+  ko: 꼭, 숨바꼭질하는 것 같아요!
+  ja: なんだか、隠れんぼみたいですね！
+c195_Battle_Ready_3:
+  en: Are you ready? I'm ready!
+  ko: 준비 됐나요~ 준비 됐어요~
+  ja: もういいか～い、ま～だだよ～
+c195_Reload_1:
+  en: Alice isn't home!
+  ko: 앨리스 없~다!
+  ja: アリスはどーこだ？
+c195_Reload_2:
+  en: Just a sec.
+  ko: 잠시만요~ 금방 가요~
+  ja: すぐに行きま～す！
+c195_Reload_3:
+  en: Come and get me!
+  ko: 나 잡아 봐~라!
+  ja: こ～こま～でお～いで～！
+c195_Ult_Skill_Ready_1:
+  en: Ugh! It's carrots!
+  ko: 어! 당근이다!
+  ja: あっ！ニンジン！
+c195_Ult_Skill_1:
+  en: Gotcha, carrots!
+  ko: 당그으으은~! 잡았다!
+  ja: ニンジンさ～ん！捕まえた！
+c195_FullBurst_1:
+  en: See you in heaven!
+  ko: 다 함께, 낙원으로 가요~!
+  ja: みんなで幸せの国に行きましょう！
+c195_Kill_Monster_1:
+  en: Yahoo! Gotcha!
+  ko: 야호! 잡았어요!
+  ja: やったー！つ～かま～えた！
+c195_Kill_Monster_2:
+  en: I did pretty good, don't you think?
+  ko: 저 잘하고 있는 거죠~?
+  ja: いい感じですよね～？
+c195_Kill_Monster_3:
+  en: This is fun!
+  ko: 이거 재미있어요~!
+  ja: これ、面白いです～！
+c195_Damage_1:
+  en: Gah!
+  ko: 으앗!
+  ja: ひゃっ！
+c195_Damage_2:
+  en: Whoa!
+  ko: 힝….
+  ja: えーん…
+c195_Damage_3:
+  en: "*Sob*"
+  ko: 우엥!
+  ja: うわーん！
+c195_Die_1:
+  en: So tired... but I'm not done having fun yet...
+  ko: 아직 덜 놀았는데… 벌써 졸리네요….
+  ja: まだ遊び足りないのに…もう眠いです…
+c195_Win_1:
+  en: I had a great time! Where to now?
+  ko: 재밌었어요~! 이제 어디로 놀러 가나요~?
+  ja: 楽しかったです！次はどこに行きましょうか～？
+195_cv_ja:
+  en: 'CV: Hina Yōmiya'
+  ko: 'CV : 요우미야 히나'
+  ja: CV：羊宮妃那
+195_cv_ko:
+  en: 'CV: Sung Ye-won'
+  ko: 'CV : 성예원'
+  ja: CV：ソン・エウォン
+195_cv_en:
+  en: 'CV: Kayli Mills'
+  ko: 'CV : 카일리 밀스'
+  ja: CV：Kayli Mills

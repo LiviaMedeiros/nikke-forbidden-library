@@ -1,0 +1,500 @@
+---
+226_name:
+  en: 'Rapunzel: Pure Grace'
+  ko: '라푼젤 : 퓨어 그레이스'
+  ja: ラプンツェル：ピュアグレイス
+c226_description:
+  en: |-
+    One of the Grimms Models that joined the Goddess Squad.
+    Originating from V.T.C., she was once a candidate for the next pope.
+    She fights for mankind with a devout heart.
+  ko: |-
+    갓데스 스쿼드에 합류한 페어리 테일 모델 중 한 명.
+    V.T.C. 출신의 차기여교황이라고 불리던 이었다.
+    신실한 마음가짐으로 인류를 위해 싸우고 있다.
+  ja: |-
+    ゴッデス部隊に合流したフェアリーテールモデルの1人。
+    V.T.C.出身で、次の教皇と言われていた。
+    敬虔な心を持ち、人類のために戦っている。
+226_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_226:
+  en: 'Rapunzel: Pure Grace''s Spare Body'
+  ko: '라푼젤 : 퓨어 그레이스 스페어 바디'
+  ja: ラプンツェル：ピュアグレイスのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+22262_name:
+  en: Pray
+  ko: 프레이
+  ja: プレイア
+22262_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP.</color>
+    ■ Activates only when Full Charge status is maintained for more than {description_value_02} sec and <word_group=10032>a Shield</word_group> is present. Affects self.
+    <color=#00AEFF>Current HP ▼ {description_value_03}% every 1 sec continuously.
+    <word_group=10048>Recovers Shield HP</word_group> equal to {description_value_04}% of caster’s <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
+    ■ 풀 차지 상태를 {description_value_02}초 이상 유지 시 자신이 <word_group=10032>보호막 적용</word_group> 상태일 때 한하여 자신에게
+    <color=#00AEFF>[현재 체력 {description_value_03}% ▼] [1초 간격] [지속]
+    [시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 <word_group=10048>보호막 체력</word_group> {description_value_04}% 회복] [1초 간격] [지속]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_01}％回復」</color>
+    ■フルチャージ状態を{description_value_02}秒以上維持した場合、自分が<word_group=10032>バリア適用</word_group>状態の時に限り、自分に
+    <color=#00AEFF>「現在のHP{description_value_03}％▼」「1秒間隔」「持続」
+    「スキル発動者の<word_group=10025>最終</word_group>最大HPに比例して<word_group=10048>バリアHP</word_group>{description_value_04}％回復」「1秒間隔」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22261_name:
+  en: Sanctuary
+  ko: 생츄어리
+  ja: サンクチュアリ
+22261_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP continuously, which protects all allies from damage.</color>
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP continuously, which protects all allies from damage.</color>
+    ■ Activates only when Full Charge status is maintained for more than {description_value_03} sec and <word_group=10032>a Shield</word_group> is present. Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_04}% continuously.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 공용 <word_group=10023>보호막</word_group>] [지속]</color>
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 공용 <word_group=10023>보호막</word_group>] [지속]</color>
+    ■ 풀 차지 상태를 {description_value_03}초 이상 유지 시 자신이 <word_group=10032>보호막 적용</word_group> 상태일 때 한하여 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_04}% ▲] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の共用<word_group=10023>バリア</word_group>」「持続」</color>
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％の共用<word_group=10023>バリア</word_group>」「持続」</color>
+    ■フルチャージ状態を{description_value_03}秒以上維持した場合、自分が<word_group=10032>バリア適用</word_group>状態の時に限り、味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_04}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12263_name:
+  en: Garden of Utopia
+  ko: 가든 오브 유토피아
+  ja: ガーデンオブユートピア
+12263_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[최대 체력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+470_name:
+  en: Red Hood
+  ko: 레드 후드
+  ja: レッドフード
+224_name:
+  en: 'Snow White: Innocent Days'
+  ko: '스노우 화이트 : 이노센트 데이즈'
+  ja: スノーホワイト：イノセントデイズ
+225_name:
+  en: 'Scarlet: Black Shadow'
+  ko: '홍련 : 흑영'
+  ja: 紅蓮：ブラックシャドウ
+c226_Lobby_Touch_1:
+  en: Would you like me to pray for you?
+  ko: 기도가 필요하신가요?
+  ja: 私の祈りが必要ですか？
+c226_Lobby_Touch_2:
+  en: May you have a blessed day as well.
+  ko: 오늘도 평안한 하루가 되시길.
+  ja: 今日も平和な1日になりますように。
+c226_Lobby_Touch_3:
+  en: May blessings and hope be upon everyone.
+  ko: 모두에게 축복과 희망을.
+  ja: みなさんの心に祝福と希望を。
+c226_Lobby_Touch_Love_1:
+  en: |-
+    What do I pray for?
+    ... I pray for a world where peace prevails and all hearts are free from conflict.
+  ko: |-
+    평소에 어떤 기도를 하냐고요?
+    …부디 모두가 싸우지 않는, 평화로운 세상이 오기를 빌어요.
+  ja: |-
+    いつも何を祈っているのか、ですか？
+    …争いのない、平和な世界が訪れますようにと祈っています。
+c226_Lobby_Touch_Love_2:
+  en: |-
+    Red Hood keeps recommending forbidden books to me.
+    It's... rather troubling.
+  ko: |-
+    레드 후드가 자꾸 저에게 금서를 권하더라고요.
+    휴우… 정말 곤란해요.
+  ja: |-
+    レッドフードが私に禁書を勧めるのです。
+    ふぅ…困ったものですね。
+c226_Lobby_Touch_Love_3:
+  en: |-
+    I am proud to be a member of the Goddess Squad.
+    To that end, I must protect everyone, no matter what.
+  ko: |-
+    갓데스 스쿼드의 일원으로서, 매우 자랑스러워요.
+    그래서 모두를 지키고 싶어요. 반드시.
+  ja: |-
+    ゴッデス部隊の一員であることを、とても誇りに思っています。
+    みなさんを守りたいです、必ず。
+c226_Lobby_Stay_1:
+  en: Now is a good time to offer a prayer.
+  ko: 기도를 올리기 좋은 시간이네요.
+  ja: 祈りを捧げる時間ですね。
+c226_Lobby_Stay_Love_1:
+  en: |-
+    Please guide me away from the path of temptation,
+    and protect me from being tainted by sin...
+  ko: |-
+    저를 타락의 길로 인도하지 마시고,
+    죄악에 물들지 않게 하소서….
+  ja: 堕ちることなく、悪の道を避けられますように…
+c226_Outpost_Touch_1:
+  en: This place is filled with such kindness and warmth.
+  ko: 다정하고 따뜻한 기운이 가득한 곳이네요.
+  ja: あたたかく、 雰囲気のいい場所ですね。
+c226_Outpost_Touch_2:
+  en: May everyone here be filled with grace.
+  ko: |-
+    이 장소에 계신 모든 분들에게
+    은총이 가득하시길.
+  ja: ここにいるすべての方に 神の恵みがあらんことを。
+c226_Outpost_Touch_3:
+  en: May I stop by this church and pray?
+  ko: 교회가 있었군요, 잠시 들러서 기도를 드리고 가도 될까요?
+  ja: |-
+    教会があるのですね。
+    少し祈りを捧げても よろしいでしょうか？
+c226_Gacha_Get_1:
+  en: I shall pray for everyone's salvation.
+  ko: 모두에게 구원이 닿을 수 있도록, 기도할게요.
+  ja: 人々のために祈ります。みなさんが救われますように。
+c226_Reinforce_1:
+  en: Thank you for bestowing this blessing upon me.
+  ko: 축복을 내려주셨군요, 감사합니다.
+  ja: 祝福を与えてくださったのですね、ありがとうございます。
+c226_Reinforce_2:
+  en: With this power, I will protect everyone.
+  ko: 이 힘으로 모두를 지켜내겠어요.
+  ja: この力でみなさんをお守りします。
+c226_Reinforce_3:
+  en: In accordance with your will, I will strive ever harder.
+  ko: 뜻에 따라, 더 정진하겠습니다.
+  ja: 志に従い、さらに精進いたします。
+c226_Gift_1:
+  en: Thank you. I will repay you by keeping you in my prayers.
+  ko: 감사합니다. 기도로 보답 드릴게요.
+  ja: ありがとうございます。祈りでお返しいたします。
+c226_Gift_2:
+  en: Oh, I'm not sure if I can accept this...
+  ko: 엇, 제가 이런 걸 받아도 될지….
+  ja: わ…私がこんなものを頂いてもいいのでしょうか…
+c226_Gift_3:
+  en: I want to show this off to the others.
+  ko: 다른 분들에게도 자랑해야겠어요.
+  ja: みんなに自慢しなくては。
+c226_Attractive_Up_1:
+  en: You are truly a warm and compassionate person.
+  ko: 정말 따뜻한 분이시네요.
+  ja: 本当にお優しい方ですね。
+c226_Attractive_Up_2:
+  en: When I'm with you, I feel as if salvation is near.
+  ko: 함께 있으면, 구원을 받는 기분이에요.
+  ja: 一緒にいると、救われるような心地です。
+c226_Attractive_Up_3:
+  en: |-
+    Thanks to you, I've uncovered this new feeling within me.
+    Is this... what you would call fate?
+  ko: |-
+    덕분에 새로운 감정을 배웠어요.
+    이런 걸 운명… 이라고 하는 걸까요?
+  ja: |-
+    おかげで新たな感情を学びました。
+    これを運命…と呼ぶのでしょうか？
+c226_Party_Deploy_1:
+  en: If my blessings reach you, I will be with you.
+  ko: 제 축복이 닿는다면, 함께할게요.
+  ja: 私の祝福が届くのなら、お供いたします。
+c226_Field_Touch_1:
+  en: Yes? Did you call?
+  ko: 네, 부르셨나요?
+  ja: はい、お呼びですか？
+c226_Field_Go_1:
+  en: I'll move as you command.
+  ko: 말씀하신 대로 움직일게요.
+  ja: お心のままに。
+c226_Battle_Enter_1:
+  en: Everyone, be careful.
+  ko: 모두, 조심하세요.
+  ja: みなさん、お気を付けて。
+c226_Battle_Ready_1:
+  en: Please, may no one be hurt.
+  ko: 부디 아무도 다치지 않고 끝날 수 있길.
+  ja: どうか誰も傷つきませんように。
+c226_Battle_Ready_2:
+  en: I will protect you.
+  ko: 지켜드릴게요.
+  ja: お守りします。
+c226_Battle_Ready_3:
+  en: It's time to punish the sinners.
+  ko: 죄지은 자들을 벌할 시간이에요.
+  ja: 罪深き者たちの、審判の時です。
+c226_Reload_1:
+  en: Hold on just a little longer.
+  ko: 조금만 버텨주세요.
+  ja: 少しだけ耐えてください。
+c226_Reload_2:
+  en: Let me pray for a moment.
+  ko: 잠시, 기도할게요.
+  ja: 少しの間、祈りを捧げます。
+c226_Reload_3:
+  en: Kindly deliver judgment.
+  ko: 심판을 내리소서.
+  ja: 審判を。
+c226_Ult_Skill_Ready_1:
+  en: My prayers have been answered.
+  ko: 기도가 닿았어요.
+  ja: 祈りが届きました。
+c226_Ult_Skill_1:
+  en: May blessings be bestowed upon the faithful.
+  ko: 믿는 자들에게 가호가 내릴지니.
+  ja: 信じる者たちに、ご加護があらんことを。
+c226_FullBurst_1:
+  en: Salvation will come through victory.
+  ko: 승리로 구원하리라.
+  ja: 勝利を以って救いとならん！
+c226_Kill_Monster_1:
+  en: Don't let your guard down.
+  ko: 방심하면 안 돼요.
+  ja: 油断してはいけませんよ。
+c226_Kill_Monster_2:
+  en: We did it.
+  ko: 해냈어요.
+  ja: 成し遂げましたね。
+c226_Kill_Monster_3:
+  en: Next.
+  ko: 다음.
+  ja: 次。
+c226_Damage_1:
+  en: Ugh...!
+  ko: 읏…!
+  ja: くっ…！
+c226_Damage_2:
+  en: Ow!
+  ko: 으윽!
+  ja: ううっ！
+c226_Damage_3:
+  en: "*Gasp*"
+  ko: 허억!
+  ja: うっ！
+c226_Die_1:
+  en: Were my prayers... not enough?
+  ko: 제 기도가… 부족했을까요….
+  ja: 私の祈りが…足りなかったのでしょうか…
+c226_Win_1:
+  en: The judgment delivered by prayer is always fair.
+  ko: 기도가 내리는 심판은 언제나 공평하답니다.
+  ja: 祈りがもたらす審判は、常に公平です。
+226_cv_ja:
+  en: 'CV: Suzuko Mimori'
+  ko: 'CV : 미모리 스즈코'
+  ja: CV：三森すずこ
+226_cv_ko:
+  en: 'CV: Lee Seul'
+  ko: 'CV : 이슬'
+  ja: CV：イスル
+226_cv_en:
+  en: 'CV: Tamara Fritz'
+  ko: 'CV : 타마라 프리츠'
+  ja: CV：Tamara Fritz

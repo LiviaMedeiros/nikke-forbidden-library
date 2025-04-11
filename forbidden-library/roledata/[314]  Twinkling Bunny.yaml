@@ -1,0 +1,552 @@
+---
+314_name:
+  en: 'Soda: Twinkling Bunny'
+  ko: '소다 : 트윙클링 바니'
+  ja: ソーダ：トゥインクルバニー
+c314_description:
+  en: |-
+    In order to participate in the Tetra Golden Chip event, Soda ends up donning a bunny outfit.
+    Unsure if the outfit will bring her good luck, she will nonetheless do her best for Maid For You.
+  ko: "테트라 황금칩 이벤트에 참가하기 위해 바니 옷을 입게 된 소다. \n이 옷이 행운을 가져다 줄 지는 모르겠지만, 메이드 포 유를 위해
+    최선을 다 할 것이다."
+  ja: |-
+    テトラゴールデンチップ争奪戦に参加するために
+    バニーの服を着たソーダ。
+    この服が幸運をもたらしてくれるかどうかは分からないが、
+    メイド・フォー・ユーのためにベストを尽くす。
+314_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_314:
+  en: 'Soda: Twinkling Bunny''s Spare Body'
+  ko: '소다 : 트윙클링 바니 스페어 바디'
+  ja: ソーダ：トゥインクルバニーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23142_name:
+  en: Beginner's Rewards
+  ko: 비기너즈 베네핏
+  ja: ビギナーズベネフィット
+23142_description:
+  en: "■ Activates when entering Burst stage 3. Affects all allies.\n<color=#00AEFF>Additional
+    effects triggered according to the number of Golden Chip stacks. <word_group=10028>Previous
+    effects trigger repeatedly</word_group>:</color>\nStage 1: Golden Chip {description_value_01}
+    stack(s) and above.\n<color=#00AEFF>Time Extension I: Full Burst Time Duration▲
+    {description_value_02} sec. Active during Full Burst Time.</color>\nStage 2: Golden
+    Chip {description_value_03} stack(s) and above.\n<color=#00AEFF>Time Extension
+    II: Full Burst Time Duration▲ {description_value_04} sec. Active during Full Burst
+    Time.</color>\n■ Activates when casting a normal attack during Full Burst Time.
+    Affects {description_value_05} enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Additional
+    effects triggered according to Time Extension state. <word_group=10028>Previous
+    effects trigger repeatedly</word_group>:</color>\nStage 1: When in Time Extension
+    I state.\n<color=#00AEFF>Deals {description_value_06}% of <word_group=10025>final</word_group>
+    ATK as damage.</color>\nStage 2: When in Time Extension II state.\n<color=#00AEFF>Deals
+    {description_value_07}% of <word_group=10025>final</word_group> ATK as damage.</color>"
+  ko: |-
+    ■ 버스트 3단계 진입 시 아군 전체에게
+    <color=#00AEFF>[골든 칩 중첩량 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]</color>
+    1단계 : 골든 칩 {description_value_01} 중첩 이상이라면
+    <color=#00AEFF>[시간 연장 I : 풀 버스트 타임 지속 시간 {description_value_02}초 ▲] [풀 버스트 타임 동안 지속]</color>
+    2단계 : 골든 칩 {description_value_03} 중첩 이상이라면
+    <color=#00AEFF>[시간 연장 II : 풀 버스트 타임 지속 시간 {description_value_04}초 ▲] [풀 버스트 타임 동안 지속]</color>
+    ■ 풀 버스트 타임 지속 중 일반 공격 시 조준선에 가장 가까운 적 {description_value_05}기에게
+    <color=#00AEFF>[시간 연장 상태 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]</color>
+    1단계 : 자신이 시간 연장 I 상태라면
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_06}% 대미지]</color>
+    2단계 : 자신이 시간 연장 II 상태라면
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 대미지]</color>
+  ja: |-
+    ■バースト3段階突入時、味方全体に
+    <color=#00AEFF>「ゴールデンチップのスタック量別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」</color>
+    1段階：ゴールデンチップ{description_value_01}スタック以上なら
+    <color=#00AEFF>「時間延長I：フルバーストタイムの持続時間{description_value_02}秒▲」「フルバーストタイムの間持続」</color>
+    2段階：ゴールデンチップ{description_value_03}スタック以上なら
+    <color=#00AEFF>「時間延長II：フルバーストタイムの持続時間{description_value_04}秒▲」「フルバーストタイムの間持続」</color>
+    ■フルバーストタイムの持続中、通常攻撃をした時、照準線に最も近い敵{description_value_05}機に
+    <color=#00AEFF>「時間延長状態別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」</color>
+    1段階：自分が時間延長I状態なら
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％のダメージ」</color>
+    2段階：自分が時間延長II状態なら
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％のダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23141_name:
+  en: Lucky Golden Chip
+  ko: 럭키 골든 칩
+  ja: ラッキーゴールデンチップ
+23141_description:
+  en: "■ Activates at the start of the battle. Affects self. \n<color=#00AEFF>Number
+    of Golden Chip stacks ▲ {description_value_01}.</color>\n■ Activates after casting
+    {description_value_02} normal attack(s) during Full Burst Time. Affects self.\n<color=#00AEFF>Golden
+    Chip: Critical damage ▲ {description_value_03}% continuously, stacks up to {description_value_04}
+    time(s).</color>\n■ Activates after casting {description_value_02} normal attack(s)
+    during Full Burst Time. Affects self and {description_value_07} ally unit(s) with
+    the highest <word_group=10025>final</word_group> ATK (except caster). \n<color=#00AEFF>Attack
+    damage ▲ {description_value_05}% for {description_value_06} sec.</color>"
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[골든 칩 중첩량 {description_value_01}개 ▲]</color>
+    ■ 풀 버스트 타임 지속 중 일반 공격 {description_value_02}회 공격 시 자신에게
+    <color=#00AEFF>[골든 칩 : 크리티컬 대미지 {description_value_03}% ▲] [{description_value_04} 중첩] [지속]</color>
+    ■ 풀 버스트 타임 지속 중 일반 공격 {description_value_02}회 공격 시 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_07}기에게
+    <color=#00AEFF>[공격 대미지 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「ゴールデンチップのスタック量{description_value_01}個▲」</color>
+    ■フルバーストタイム持続中に通常攻撃で{description_value_02}回攻撃した時、自分に
+    <color=#00AEFF>「ゴールデンチップ：クリティカルダメージ{description_value_03}％▲」「{description_value_04}スタック」「持続」</color>
+    ■フルバーストタイム中に通常攻撃で{description_value_02}回攻撃した時、自分と自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_07}機に
+    <color=#00AEFF>「攻撃ダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13143_name:
+  en: Onward, Soda!
+  ko: 고 어헤드, 소다!
+  ja: ゴー・アヘッド、ソーダ！
+13143_description_1:
+  en: |-
+    ■ Activates when using Onward, Soda!
+    <color=#00AEFF>Additional effects triggered according to the number of Golden Chip stacks. <word_group=10028>Previous effects trigger repeatedly</word_group>. Number of Golden Chip stacks ▼ {description_value_01} after the effect applied.</color>
+    Stage 1: Affects all enemies.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    Stage 2: Activates when number of Golden Chip stacks is {description_value_03} and above. Affects self.
+    <color=#00AEFF>Hit Rate ▲ {description_value_04}% for {description_value_05} sec.</color>
+    Stage 3: Activates when number of Golden Chip stacks is {description_value_06} and above. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_07}% for {description_value_08} sec.</color>
+  ko: |-
+    ■ 고 어헤드, 소다! 사용 시
+    <color=#00AEFF>[골든 칩 중첩량 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>] [효과 적용 후 골든 칩 중첩량 {description_value_01}개 ▼]</color>
+    1단계 : 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
+    2단계 : 골든 칩 {description_value_03} 중첩 이상이라면 자신에게
+    <color=#00AEFF>[명중률 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    3단계 : 골든 칩 {description_value_06} 중첩 이상이라면 자신에게
+    <color=#00AEFF>[공격력 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■ゴー・アヘッド、ソーダ！を使用した時、
+    <color=#00AEFF>「ゴールデンチップのスタック量別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」「効果適用後、ゴールデンチップのスタック量{description_value_01}個▼」</color>
+    1段階：敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のバーストスキルダメージ」</color>
+    2段階：ゴールデンチップ{description_value_03}スタック以上なら、自分に
+    <color=#00AEFF>「命中率{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    3段階：ゴールデンチップ{description_value_06}スタック以上なら、自分に
+    <color=#00AEFF>「攻撃力{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+310_name:
+  en: Ade
+  ko: 에이드
+  ja: エード
+311_name:
+  en: Cocoa
+  ko: 코코아
+  ja: ココア
+312_name:
+  en: Soda
+  ko: 소다
+  ja: ソーダ
+313_name:
+  en: 'Privaty: Unkind Maid'
+  ko: '프리바티 : 언카인드 메이드'
+  ja: プリバティ：アンカインド・メイド
+c314_Lobby_Touch_1:
+  en: Master! I was waiting for you!
+  ko: 주인님~ 기다리고 있었어요!
+  ja: ご主人様～お待ちしてました！
+c314_Lobby_Touch_2:
+  en: |-
+    Oh boy, this outfit is a bit tight.
+    Is there any chance I can get a larger size?
+  ko: |-
+    오, 옷이 좀 작은 것 같은데요오…?
+    사이즈 큰 건 없나요오?
+  ja: |-
+    ふ、服がちょっと小さいような…
+    大きいサイズはありませんかぁ？
+c314_Lobby_Touch_3:
+  en: |-
+    Alice was complimenting me on how cute I looked.
+    Do you agree?
+  ko: |-
+    앨리스가 반짝 토끼씨는 귀여워요~ 라고 해줬어요.
+    헤헤. 정말 그런가요?
+  ja: |-
+    アリスが、「ピカピカウサギさん、かわいいです～」って
+    言ってくれたんです。えへへ。本当でしょうか？
+c314_Lobby_Touch_Love_1:
+  en: Why are you looking at me like that? You're making me self-conscious.
+  ko: 이, 이상한가요오? 그렇게 보시면 부끄러워요오.
+  ja: な、なにか変ですかぁ？見つめられると恥ずかしいですぅ。
+c314_Lobby_Touch_Love_2:
+  en: |-
+    Check it out, Master,
+    I can clean things with my tail!
+  ko: |-
+    주인님 그거 아세요오?
+    꼬리로 청소도 할 수 있어요오!
+  ja: |-
+    ご主人様、ご存じですかぁ？
+    しっぽでお掃除もできるんですよぉ！
+c314_Lobby_Touch_Love_3:
+  en: Good luck to you, Master!
+  ko: 주인님께 토끼의 행운을 나눠드릴게요~
+  ja: ご主人様にウサギの幸運を分けてあげますね～
+c314_Lobby_Stay_1:
+  en: |-
+    Master, where are you?
+    You haven't left me, have you?
+  ko: |-
+    주인님 어디계세요오.
+    저만 두고 가신 건 아니죠오?
+  ja: |-
+    ご主人様、どこですかぁ。
+    私を置いていかないでください～
+c314_Lobby_Stay_Love_1:
+  en: If you keep disappearing on me, I'm gonna hold onto your arm and never let go.
+  ko: 계속 없어지시면… 파, 팔짱 끼고 다닐 거예요~!
+  ja: |-
+    す、すぐいなくなっちゃう…
+    …腕を組んで歩きましょう～！
+c314_Outpost_Touch_1:
+  en: |-
+    What beautiful weather we're having.
+    A perfect day for cleaning.
+  ko: |-
+    와아~ 오늘도 날씨가 좋네요~
+    같이 청소하실래요~?
+  ja: |-
+    わあ～ 今日もいい天気ですね～
+    一緒にお掃除しませんか？
+c314_Outpost_Touch_2:
+  en: I miss Cocoa and Ade so much...
+  ko: 코코아… 에이드… 보고 싶었어요오.
+  ja: ココア…エード… 会いたかったですぅ。
+c314_Outpost_Touch_3:
+  en: Hehe, back to the cafe, home sweet home!
+  ko: 헤헤, 카페로 돌아오니 마음이 편해요오~
+  ja: えへへ、 カフェに帰ったら 落ち着きましたぁ～
+c314_Gacha_Get_1:
+  en: Now you and I are squadmates, Master!
+  ko: 주인님과 전 이제 한 팀이에요~!
+  ja: ご主人様、私と同じチームです～！
+c314_Reinforce_1:
+  en: Keep it up!
+  ko: 파이팅~! 파이팅~!
+  ja: ファイトです～！
+c314_Reinforce_2:
+  en: You think this makes me look cuter?
+  ko: 더 귀, 귀여워진 것 같다고요오?
+  ja: も、もっとかわいくなれましたかぁ？
+c314_Reinforce_3:
+  en: Wow, this must be the power of luck.
+  ko: 호에엑! 이것이 행운의 힘인가요오?
+  ja: ふぇぇっ！これが幸運の力ですかぁ？
+c314_Gift_1:
+  en: |-
+    Another gift?
+    But you've already given me so much...
+  ko: |-
+    또 다른 선물이라구요오?
+    힝… 이미 많이 받았는데요.
+  ja: |-
+    またプレゼントですかぁ？
+    ふぇぇ…もうたくさん頂きましたよぉ。
+c314_Gift_2:
+  en: |-
+    I want to give you something in return...
+    How about a lucky letter?
+  ko: "저도 답례로 뭔가 드리고 싶은데… \n행운의 편지… 라도 괜찮으실까요?"
+  ja: |-
+    私もお礼に何か差し上げたいのですが…
+    幸運のお手紙…でも大丈夫ですか？
+c314_Gift_3:
+  en: Here, let me try and bestow some luck upon you.
+  ko: 반짝 토끼의 행운을 받으세요오~!
+  ja: ピカピカウサギの幸運をもらってくださ～い！
+c314_Attractive_Up_1:
+  en: I feel like I can depend on you.
+  ko: 주인님과 한팀이라 다행이에요~
+  ja: ご主人様と同じチームでよかったです～
+c314_Attractive_Up_2:
+  en: |-
+    I'm having trouble catching my breath.
+    Could it be because of this outfit?
+  ko: |-
+    흐에엥… 이상하게 숨이 차요.
+    옷이 작아서 그런 걸까요…?
+  ja: |-
+    ふぇぇ…なぜか息が苦しいです。
+    服が小さいからでしょうか…？
+c314_Attractive_Up_3:
+  en: |-
+    Master, I lo... er...
+    I mean, thank you.
+  ko: |-
+    주인님, 조… 좋…!
+    아, 아니 감사하다고요오.
+  ja: |-
+    ご主人様、す…すきで…！
+    い、いえ、ありがとうございますぅ。
+c314_Party_Deploy_1:
+  en: I'll hold the line!
+  ko: 파, 파이팅 할게요~!
+  ja: が、頑張ります～！
+c314_Field_Touch_1:
+  en: Huh?
+  ko: 네, 네에~?
+  ja: は、はい～
+c314_Field_Go_1:
+  en: Bit by bit...
+  ko: 조금만 더어….
+  ja: あとちょっとぉ…
+c314_Battle_Enter_1:
+  en: The battle begins.
+  ko: 후에엥~ 전투 시작이래요.
+  ja: ふぇぇ～戦闘開始ですぅ。
+c314_Battle_Ready_1:
+  en: I-I can do this!
+  ko: 하, 할 수 있다!
+  ja: や、やればできるっ！
+c314_Battle_Ready_2:
+  en: What if I mess up?
+  ko: 실수하면 어쩌죠…?
+  ja: 失敗しちゃったらどうしましょう…？
+c314_Battle_Ready_3:
+  en: Here we go.
+  ko: 호에에, 시작해버렸어요오.
+  ja: ふぇぇ、始まっちゃいましたぁ。
+c314_Reload_1:
+  en: I won't give up!
+  ko: 포기하지 않을게요오!
+  ja: 諦めませぇん！
+c314_Reload_2:
+  en: Oh gosh, I'm so nervous…
+  ko: 흐에엥… 떨려요오.
+  ja: ふぇぇ…緊張しますぅ。
+c314_Reload_3:
+  en: Cocoa... Ade...
+  ko: 코코아… 에이드….
+  ja: ココア…エードぉ…
+c314_Ult_Skill_Ready_1:
+  en: I'm gonna shine bright!
+  ko: 반짝 토끼 준비됐어요오~!
+  ja: ピカピカウサギ、準備できました～！
+c314_Ult_Skill_1:
+  en: Ah! Did you see anyone coming?
+  ko: 흐엑! 보신 분 계신가요오?
+  ja: ふぇぇっ！今の見ましたぁ？
+c314_FullBurst_1:
+  en: I will clean it up!
+  ko: 깨끗하게 정리할게요!
+  ja: きれいに片づけますね！
+c314_Kill_Monster_1:
+  en: Yeah! It worked!
+  ko: 와아~! 해냈어요오!
+  ja: わあ～！やりましたぁ！
+c314_Kill_Monster_2:
+  en: Cleaning finished!
+  ko: 청소 끄읏!
+  ja: お掃除、完了っ！
+c314_Kill_Monster_3:
+  en: Lucky bunny!
+  ko: 토끼의 행운이네요오~
+  ja: ウサギの幸運ですねぇ～
+c314_Damage_1:
+  en: Woo...
+  ko: 힝….
+  ja: えーん…
+c314_Damage_2:
+  en: Gasp.
+  ko: 호엑.
+  ja: ほぇっ。
+c314_Damage_3:
+  en: Ouch!
+  ko: 후갹!
+  ja: ふぎゃっ！
+c314_Die_1:
+  en: The cafe... we have to protect it...
+  ko: 카페를 지켜야 하는데….
+  ja: カフェを守らないと…
+c314_Win_1:
+  en: I-I made it!
+  ko: 제가, 제가 해냈어요~!
+  ja: や、やりました～！
+314_cv_ja:
+  en: 'CV: Konomi Kohara'
+  ko: 'CV : 코하라 코노미'
+  ja: CV：小原好美
+314_cv_ko:
+  en: 'CV: Park Shi-yoon'
+  ko: 'CV : 박시윤'
+  ja: CV：パク・シユン
+314_cv_en:
+  en: 'CV: Elizabeth'
+  ko: 'CV : 엘리자베스'
+  ja: CV：Elizabeth

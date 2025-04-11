@@ -1,0 +1,510 @@
+---
+132_name:
+  en: 'Mary: Bay Goddess'
+  ko: '메어리 : 베이 갓데스'
+  ja: メアリー：ベイゴッデス
+c132_description:
+  en: |-
+    An Angel in White who spends her whole vacation healing people.
+    Behind her kind and gentle smile, there are secrets that no one knows.
+  ko: |-
+    휴가를 나와서도 치료를 멈추지 않는 [백의의 천사].
+    그 선하고 배려심 넘치는 미소의 이면에는, 누구도 짐작 못할 비밀을 간직하고 있다.
+  ja: |-
+    休暇でも治療をやめない「白衣の天使」
+    その優しく気遣いのある笑顔の裏には、
+    誰も知らない秘密があった。
+132_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_132:
+  en: 'Mary: Bay Goddess'' spare body'
+  ko: '메어리 : 베이 갓데스 스페어 바디'
+  ja: メアリー：ベイゴッデスのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21322_name:
+  en: Waves Kiss The Feet
+  ko: 발을 적시는 파도
+  ja: 足を濡らす波
+21322_description:
+  en: |-
+    ■ Activates when using Burst Skill. Affects all Water Code allies.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_03}% for {description_value_04} sec.
+    Three times: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: "■ 버스트 스킬 사용 시 수냉 코드 아군 전체에게\n<color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위
+    효과 중복 적용</word_group>]\n1회 : [<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}%
+    ▲] [{description_value_02}초 유지] \n2회 : [<word_group=10009>우월 코드 공격 대미지</word_group>
+    {description_value_03}% ▲] [{description_value_04}초 유지] \n3회 : [<word_group=10009>우월
+    코드 공격 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>"
+  ja: |-
+    ■バーストスキルを使用した時、水冷コードの味方全体に
+    <color=#00AEFF>「開始回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」
+    2回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_03}％▲」「{description_value_04}秒間維持」
+    3回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21321_name:
+  en: Seaside Sunshine
+  ko: 해변의 햇살
+  ja: 海辺の日差し
+21321_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.
+    Twice: Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_04} sec.
+    Three times: Recovers {description_value_05}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
+    1회: [시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복] [1초 간격] [{description_value_02}초 유지]
+    2회: [시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복] [1초 간격] [{description_value_04}초 유지]
+    3회: [시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_05}% 회복] [1초 간격] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「開始回数別効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％
+    回復」「1秒間隔」「{description_value_02}秒間維持」
+    2回：「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％
+    回復」「1秒間隔」「{description_value_04}秒間維持」
+    3回：「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_05}％
+    回復」「1秒間隔」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11323_name:
+  en: Tranquil Waters
+  ko: 고요한 수면
+  ja: 静かな水面
+11323_description:
+  en: "■ Affects all Water Code allies.\n<color=#00AEFF>ATK ▲ {description_value_01}%
+    for {description_value_02} sec.</color> \n■ Affects all allies.\n<color=#00AEFF>Max
+    HP ▲ {description_value_03}% of the caster's <word_group=10025>final</word_group>
+    Max HP for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 수냉 코드 아군 전체에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 최대 체력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■水冷コードの味方全体に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HP基準で
+    最大HP{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+130_name:
+  en: Mary
+  ko: 메어리
+  ja: メアリー
+131_name:
+  en: Pepper
+  ko: 페퍼
+  ja: ペッパー
+c132_Lobby_Touch_1:
+  en: |-
+    If it's too hot, be sure to tell me.
+    Summertime is when you're most at risk for heat stroke.
+  ko: |-
+    너무 더우면 말씀해 주세요~
+    이런 한여름에는 일사병에 걸릴 수도 있으니까요.
+  ja: |-
+    暑いと思ったら言ってくださいね～
+    真夏は熱中症にかかりやすいですから。
+c132_Lobby_Touch_2:
+  en: I get to see the ocean thanks to you.
+  ko: 덕분에 바다를 다 와보네요~
+  ja: おかげで海に来られました～
+c132_Lobby_Touch_3:
+  en: This is so relaxing!
+  ko: 여유롭고 평화롭고, 좋네요~
+  ja: のんびり平和で、いいですね～
+c132_Lobby_Touch_Love_1:
+  en: Since you barely have any clothes on, it'll make giving a physical exam much
+    simpler, haha!
+  ko: 웃옷을 벗고 계시니, 진찰할 때 편하겠어요~ 후후.
+  ja: |-
+    服を脱いでいらっしゃるので、
+    簡単に診察できそうですね～
+    ふふふっ。
+c132_Lobby_Touch_Love_2:
+  en: |-
+    I'll rub some sunscreen on you later.
+    Otherwise, you'll get burned if you stay out in the sun.
+  ko: |-
+    이따 자외선 크림을 발라 드릴게요.
+    햇볕에 계속 노출되어 있으면 피부가 아플 테니까요.
+  ja: |-
+    あとで日焼け止めクリームを塗ってあげますね。
+    ずっと日差しを浴びてると、お肌がヒリヒリしますから。
+c132_Lobby_Touch_Love_3:
+  en: The sun's shining awfully bright today. Actually, it reminds me of you, Commander.
+  ko: 정말 눈부시네요~ 햇빛도, 지휘관도.
+  ja: |-
+    本当に眩しいですね～。
+    お日さまも、指揮官も。
+c132_Lobby_Stay_1:
+  en: |-
+    You haven't swam in the ocean yet, have you?
+    I can't swim, so I won't be able to save you if you fall in.
+  ko: |-
+    지휘관~? 바다에 들어가신 건 아니죠?
+    저는 수영을 할 수 없어서 물에 빠지면 구해드릴 수가 없답니다.
+  ja: |-
+    指揮官～？
+    海に入ってませんよね？
+    私は泳げないので、溺れても助けられませんよ。
+c132_Lobby_Stay_Love_1:
+  en: |-
+    There's nothing wrong with playing in the water, but just be careful so you don't end up drowning.
+    If anything happened to you, I'd never be able to forgive myself.
+  ko: |-
+    지휘관~? 물놀이도 좋지만 조심하셔야 해요~
+    정말 물에 빠지거나, 다치거나 하시면…
+    제가 저를 용서하지 못할 것 같거든요~
+  ja: |-
+    指揮官～？水遊びもいいですが、気をつけてくださいね～
+    もし溺れたり、ケガをしたりしたら…
+    私、自分が許せなくなりそうなので。
+c132_Outpost_Touch_1:
+  en: That day was so much fun!
+  ko: 그날은 너무 즐거웠어요, 지휘관~
+  ja: あの日はとても 楽しかったですよ。 指揮官～
+c132_Outpost_Touch_2:
+  en: |-
+    Maybe the next time, we can go, just the two of us.
+    I can be your personal attending physician, hehe.
+  ko: |-
+    다음엔 단둘이 바다로 갈까요?
+    물론 지휘관의 주치의로서 말이에요.
+  ja: |-
+    次は2人きりで 海に行きましょうか？
+    もちろん、 指揮官の主治医としてですよ。
+c132_Outpost_Touch_3:
+  en: I look forward to our next vacation.
+  ko: 다음 휴가가 기다려지네요~
+  ja: 次の休暇が待ち遠しいですね～
+c132_Gacha_Get_1:
+  en: Playing in the water is fun and all, but be careful not to tire yourself out.
+  ko: 물놀이도 좋지만, 잠시 이쪽에서 쉬어 가시겠어요~?
+  ja: 水遊びもいいですが、こちらでひと休みしませんか～？
+c132_Reinforce_1:
+  en: I'll be able to give you a more thorough examination next time, hehe!
+  ko: 다음 진찰은 더 꼼꼼하게 봐 드릴 수 있겠어요~
+  ja: 次の診察では、細かくチェックできそうです～
+c132_Reinforce_2:
+  en: Now my physical fortitude is as strong as my mental fortitude!
+  ko: 몸도 튼튼, 마음도 튼튼! 해졌어요~ 후후.
+  ja: 体も元気、心も元気！になりました～ふふっ。
+c132_Reinforce_3:
+  en: |-
+    You've got to catch up, Commander.
+    I'm the only one getting stronger.
+  ko: |-
+    지휘관이 튼튼해져야 하는데~
+    저만 튼튼해지고 있는 것 같네요.
+  ja: |-
+    指揮官が元気にならなきゃいけないのに、
+    私ばっかり元気になっている気がしますね。
+c132_Gift_1:
+  en: Oh, thank you! This may come in handy during your next physical.
+  ko: 답례로 다음 진찰은 더 자세히 봐드려야겠네요~
+  ja: お礼に、次の診察では細かくチェックしますね～
+c132_Gift_2:
+  en: You're so kind, Commander.
+  ko: 지휘관, 매번 감사드려요~
+  ja: 指揮官、いつもありがとうございます～
+c132_Gift_3:
+  en: I'll take good care of this.
+  ko: 소중히 사용할게요~
+  ja: 大切に使いますね～
+c132_Attractive_Up_1:
+  en: It seems kind of hot in here... maybe that's just because it's summer?
+  ko: 지휘관, 여름이라 그런가 더 뜨겁네요~ 후후.
+  ja: 指揮官、夏のせいか熱いですね～ふふっ。
+c132_Attractive_Up_2:
+  en: In theory, I should treat every patient the exact same, but I do show you some
+    special treatment from time to time.
+  ko: |-
+    모든 환자에게 차별 없이 대하는 게 맞지만…
+    지휘관은 자꾸 특별 취급을 하게 되네요.
+  ja: |-
+    患者さんには、みんな平等に接するべきなのですが…
+    指揮官は特別扱いしちゃいますね。
+c132_Attractive_Up_3:
+  en: I'm a bit concerned, because I can't stop thinking about you.
+  ko: 자꾸 욕심이 생겨버려서 곤란하네요~
+  ja: ついつい欲張りになってしまって、困りますね～
+c132_Party_Deploy_1:
+  en: Do you need help?
+  ko: 도움이 필요하신가요~?
+  ja: 何かお手伝いしましょうか～？
+c132_Field_Touch_1:
+  en: Yes? What is it?
+  ko: 네, 말씀하세요~
+  ja: はい、どうぞ～
+c132_Field_Go_1:
+  en: Coming!
+  ko: 가고 있어요~
+  ja: 今行きま～す。
+c132_Battle_Enter_1:
+  en: Oh dear, there isn't much time to rest, is there?
+  ko: 정말 쉴 틈이 없네요~
+  ja: 本当に休む暇がないですね～
+c132_Battle_Ready_1:
+  en: Everyone, gather 'round.
+  ko: 다들 모여보세요~
+  ja: 皆さん、集まってください～
+c132_Battle_Ready_2:
+  en: I've got a special inoculation prepared for this.
+  ko: 커다란 주사를 준비했답니다~
+  ja: 大きなお注射を用意しましたよ～
+c132_Battle_Ready_3:
+  en: This'll only hurt a bit.
+  ko: 따~끔할 거예요~
+  ja: チクッとしますよ～
+c132_Reload_1:
+  en: Wait a moment, please.
+  ko: 잠시만 기다려 주세요~
+  ja: 少々お待ちくださいね～
+c132_Reload_2:
+  en: I'll be back in a jiffy.
+  ko: 금방 다시 가요~
+  ja: 今行きますから～
+c132_Reload_3:
+  en: Reloading.
+  ko: 장전합니다~
+  ja: 装填しま～す。
+c132_Ult_Skill_Ready_1:
+  en: Commander?
+  ko: 지휘관?
+  ja: 指揮官？
+c132_Ult_Skill_1:
+  en: Just a little closer...
+  ko: 잠시, 가까이 갈게요.
+  ja: ちょっと近づきますね。
+c132_FullBurst_1:
+  en: Pain, be gone!
+  ko: 아픈 거 다 날아가라~
+  ja: 痛いの痛いの、飛んでけ～
+c132_Kill_Monster_1:
+  en: Next patient.
+  ko: 자, 다음 분~
+  ja: はい、次の方～
+c132_Kill_Monster_2:
+  en: Haha!
+  ko: 후후, 후후후….
+  ja: ふふ、ふふふ…
+c132_Kill_Monster_3:
+  en: Invasive pathogens exterminated.
+  ko: 병균 퇴치 완료~
+  ja: バイ菌退治完了～
+c132_Damage_1:
+  en: Ugh...!
+  ko: 읏…!
+  ja: うっ…！
+c132_Damage_2:
+  en: Errggh!
+  ko: 크윽!
+  ja: くうっ！
+c132_Damage_3:
+  en: "*Gasp*"
+  ko: 허억!
+  ja: ううっ！
+c132_Die_1:
+  en: Sorry, but I'll have to bow out early.
+  ko: 죄송해요… 먼저 빠지겠습니다….
+  ja: すみません…先に抜けますね…
+c132_Win_1:
+  en: If you're hurt anywhere, come find me.
+  ko: 혹시 다친 곳이 있으시면 저한테 와주세요~
+  ja: もしケガをしたら来てくださいね～
+132_cv_ja:
+  en: 'CV: Haruka Tomatsu'
+  ko: 'CV : 토마츠 하루카'
+  ja: CV：戸松遥
+132_cv_ko:
+  en: 'CV: Lee Da-eun'
+  ko: 'CV : 이다은'
+  ja: CV：イ・ダウン
+132_cv_en:
+  en: 'CV: Amber Lee Connors'
+  ko: 'CV : 앰버 리 코너스'
+  ja: CV：Amber Lee Connors

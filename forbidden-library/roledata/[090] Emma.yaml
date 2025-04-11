@@ -1,0 +1,702 @@
+---
+90_name:
+  en: Emma
+  ko: 엠마
+  ja: エマ
+c090_description:
+  en: Something of a sister figure for Absolute, who enjoys caring for others. Yet,
+    there are times when she lets her guard down.
+  ko: "앱솔루트 스쿼드의 맏언니. \n넘치는 이타심으로 동료들을 포용해 준다. \n가끔 허술한 면도 보인다."
+  ja: |-
+    アブソルート部隊のお姉さん。
+    あふれる思いやりで仲間たちを包み込む。
+    たまに抜けている面もある。
+90_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50090:
+  en: Emma's Spare Body
+  ko: 엠마 스페어 바디
+  ja: エマのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20902_name:
+  en: Temptation
+  ko: 템프테이션
+  ja: テンプテーション
+20902_description:
+  en: |-
+    ■ Activates when above {description_value_01}% HP. Affects all allies.
+    <color=#00AEFF>Potency of HP restored ▲ {description_value_02}% continuously.</color>
+  ko: |-
+    ■ 자신의 체력이 {description_value_01}% 이상일 때 한하여 아군 전체에게
+    <color=#00AEFF>[받는 체력 회복량 {description_value_02}% ▲] [지속]</color>
+  ja: |-
+    ■自分のHPが{description_value_01}％以上の時のみ味方全体に
+    <color=#00AEFF>「受けるHP回復量{description_value_02}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20901_name:
+  en: Cheerleading
+  ko: 치어리딩
+  ja: チアリーディング
+20901_description:
+  en: |-
+    ■ There is a {description_value_02}% chance to activate when attacked. Affects all allies.
+    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+  ko: |-
+    ■ 피격 시 {description_value_02}% 확률로 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
+  ja: |-
+    ■攻撃を受けた時、{description_value_02}％の確率で味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％を
+    回復」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10903_name:
+  en: Altruism
+  ko: 알트루이즘
+  ja: 自己犠牲
+10903_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Recover HP equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP.
+    Recover {description_value_02}% of attack damage as HP over {description_value_03} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]
+    [공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％を
+    回復」
+    「攻撃ダメージの{description_value_02}％回復」
+    「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+91_name:
+  en: Vesti
+  ko: 베스티
+  ja: ベスティー
+92_name:
+  en: Eunhwa
+  ko: 은화
+  ja: ウンファ
+c090_Lobby_Touch_1:
+  en: Goodness me. When did I drop that?
+  ko: 나도 참~ 언제 그걸 두고 왔담?
+  ja: 私ったらもう～それを置いてきちゃうなんてねぇ？
+c090_Lobby_Touch_2:
+  en: Do you need... some therapy?
+  ko: 혹시… 테라피가 필요해?
+  ja: もしかして…セラピーが必要？
+c090_Lobby_Touch_3:
+  en: If you need to get some things off your chest, come see me.
+  ko: 고민이 있으면, 언제든지 상담하러 와~
+  ja: |-
+    悩み事があったらいつでも言って。
+    相談に乗ってあげる～
+c090_Lobby_Touch_Love_1:
+  en: I'm always cooking up something new for you!
+  ko: 늘 지휘관을 위해 새로운 요리를 연구하고 있어~
+  ja: いつも指揮官のために新しい料理を研究しているわ～
+c090_Lobby_Touch_Love_2:
+  en: |-
+    I enjoy looking after people who push themselves.
+    Like Eunhwa... or you. Heehee.
+  ko: 자신에게 가혹한 사람일수록, 더 보듬어 주고 싶어지는 것 같아. 내 동료인 은화나… 지휘관처럼 말이야. 우후후.
+  ja: |-
+    自分に厳しい人ほど抱きしめてあげたくなるのよね。
+    同じ所属のウンファとか…指揮官とか。うふふ。
+c090_Lobby_Touch_Love_3:
+  en: Whenever you feel tired, I'll be there for you.
+  ko: 힘들 땐 늘 지휘관 곁에 있을게.
+  ja: 指揮官が辛い時は、いつでもそばにいてあげるわ。
+c090_Lobby_Stay_1:
+  en: You seem troubled. Penny for your thoughts?
+  ko: 생각이 많아 보이네~ 말 못 할 고민이라도 있어?
+  ja: |-
+    考え事で頭がいっぱいみたいね～
+    何か人には言えない悩みでもあるの？
+c090_Lobby_Stay_Love_1:
+  en: |-
+    Um, the Commander is always crazy busy.
+    Is it because he's always working hard for us? Oops.
+  ko: |-
+    음, 지휘관은 늘 정신없이 바쁘구나~
+    언제나 우릴 위해 노력해 주고 있기 때문일까? 우후후.
+  ja: |-
+    指揮官は本当にいつも忙しそうね～
+    毎日私たちのために頑張ってくれているからかしら？
+    うふふ。
+c090_Outpost_Touch_1:
+  en: Some therapy? Now's not really a good time. How about... a private appointment
+    tonight? Heehee.
+  ko: |-
+    테라피를 받으러 왔어? 음… 지금은 조금 어려우니까~
+    …이따 저녁에 찾아갈게. 후후.
+  ja: |-
+    セラピーを受けに来たの？ …今はちょっと忙しいのよね～
+    …夜にまたお邪魔するわ。ふふふ。
+c090_Outpost_Touch_2:
+  en: |-
+    Dig in, guys...
+    Hey, where'd everybody go?
+  ko: |-
+    다들, 내가 새로 만든 요리 좀 먹어봐~!
+    …어머, 왜 다들 도망가지?
+  ja: |-
+    みんな、私の新作料理食べて～！
+    …あれ、どうしてみんな 逃げるのぉ？
+c090_Outpost_Touch_3:
+  en: Sometimes when I'm repairing weapons in the armory... it feels like I'm a piece
+    in an exhibit myself.
+  ko: |-
+    가끔씩 무기고에서 총을 손질하다 보면…
+    나까지 그 안의 전시품이 된 것 같을 때가 있어.
+  ja: |-
+    たまに武器庫で 銃のお手入れをしていると…
+    私までそこに展示された 品物になった気がしてくるの。
+c090_Gacha_Get_1:
+  en: Are you hurt? How about you let me give you some TLC? Heehee!
+  ko: 치유가 필요해? 그렇다면 내가 지휘관의 안식처가 되어 줄게. 우후후.
+  ja: |-
+    癒されたい？
+    だったら私が指揮官の安息の場所になってあげるわぁ。うふふ。
+c090_Reinforce_1:
+  en: I won't let you down.
+  ko: 기대에 보답하도록 할게. 후후.
+  ja: 期待に応えてみせるわぁ。ふふふ。
+c090_Reinforce_2:
+  en: I'll make you feel better... Every part of you.
+  ko: 마음이 더 커진 느낌?
+  ja: 心がもっと寛大になった感じ、かしら？
+c090_Reinforce_3:
+  en: My healing abilities are becoming more powerful.
+  ko: 치유력이 늘었어.
+  ja: 治癒力がパワーアップしたわぁ。
+c090_Gift_1:
+  en: Heehee, thanks.
+  ko: 우후후. 고마워.
+  ja: うふふ。ありがとう。
+c090_Gift_2:
+  en: You picked this for me? Oh my gosh, I love it!
+  ko: 어머, 지휘관이 직접 골라준 거야? 잘 쓸게~
+  ja: まあ、指揮官が選んでくれたの？大切に使うわ～
+c090_Gift_3:
+  en: Is this... a date?
+  ko: 혹시 이거 데이트 신청이야?
+  ja: まさかこれってデートの申し込み？
+c090_Attractive_Up_1:
+  en: You're the only patient who gets my TLC, Commander. Heehee!
+  ko: 앞으로도 지휘관만의 안식처가 되어줄게. 우후후.
+  ja: これからも指揮官だけの安息の場所になってあげる。うふふ。
+c090_Attractive_Up_2:
+  en: We're getting closer don't you think? I feel it too.
+  ko: "우리, 좀 더 가까워진 기분이지? \n내가 느끼기에도 그래."
+  ja: |-
+    私たち、距離が縮まった気がしない？
+    気のせいかしら、いや、絶対そうよ。
+c090_Attractive_Up_3:
+  en: Everyone in the squad is precious to me, but you're the most special of all.
+    Wait, why do I think that?
+  ko: 내겐 스쿼드의 모두가 소중하지만, 지휘관은 그중에서도 더 특별한 것 같아. …이유가 뭘까?
+  ja: |-
+    分隊のみんなはとても大切な存在よ。
+    指揮官はその中でも特別だわ。
+    …でも、どうしてかしら。
+c090_Party_Deploy_1:
+  en: Let's give it everything we've got.
+  ko: 힘내서 가 볼까?
+  ja: 奮発して行ってみようかしらぁ？
+c090_Field_Touch_1:
+  en: Waiting for your orders.
+  ko: 명령할 게 있을까?
+  ja: 命令することはあるぅ？
+c090_Field_Go_1:
+  en: On my way!
+  ko: 이동 중이야~
+  ja: 移動中よ～
+c090_Battle_Enter_1:
+  en: Battle engaged.
+  ko: 전투를 시작할게.
+  ja: 戦闘を始めるわ。
+c090_Battle_Ready_1:
+  en: Let's fight together.
+  ko: 다 같이 힘내 볼까?
+  ja: みんな一緒に元気出してみるぅ？
+c090_Battle_Ready_2:
+  en: Get serious, OK?
+  ko: 진심으로 가 볼까?
+  ja: 本気で行ってみようかしら？
+c090_Battle_Ready_3:
+  en: I ought to punish you, heehee!
+  ko: 혼쭐을 내주는 거야. 우후후.
+  ja: お仕置きしてあげる。うふふ。
+c090_Reload_1:
+  en: Cover me!
+  ko: 커버를 부탁해.
+  ja: フォローを頼むわ。
+c090_Reload_2:
+  en: I'll take my chance.
+  ko: 때를 노리고 있어.
+  ja: チャンスを待っているの。
+c090_Reload_3:
+  en: Reloading as soon as I can.
+  ko: 빠르게 장전할게.
+  ja: 急いで装填するわ。
+c090_Ult_Skill_Ready_1:
+  en: Now, Commander!
+  ko: 지금이야, 지휘관.
+  ja: 今よ、指揮官。
+c090_Ult_Skill_1:
+  en: I'll give you my... full attention. Heehee!
+  ko: 온 마음으로 치유해 줄게~ 우후후.
+  ja: 全身全霊を捧げて癒してあげる～うふふ。
+c090_FullBurst_1:
+  en: All together now!
+  ko: 모두들 힘을 합쳐 볼까~?
+  ja: みんなの力を合わせてみましょうか～？
+c090_Kill_Monster_1:
+  en: Nice.
+  ko: 좋았어.
+  ja: 上出来だったわ。
+c090_Kill_Monster_2:
+  en: Neat.
+  ko: 내가 처리했어~
+  ja: 私が片付けておいたわ～
+c090_Kill_Monster_3:
+  en: Done.
+  ko: 처리 완료~
+  ja: 処理完了～
+c090_Damage_1:
+  en: Ugh!
+  ko: 꺅!
+  ja: きゃっ！
+c090_Damage_2:
+  en: Gah!
+  ko: 어머!
+  ja: まあ！
+c090_Damage_3:
+  en: Huh!
+  ko: 흣!
+  ja: ふうっ！
+c090_Die_1:
+  en: Sorry, I need to take a rest.
+  ko: 미안~ 조금 쉬어야 할 것 같아.
+  ja: ごめんね～ちょっとだけ休ませてぇ。
+c090_Win_1:
+  en: If we work together, this'll be a walk in the park.
+  ko: 이것 봐~ 힘을 합치니까 금방 끝나지?
+  ja: ほらね～みんなの力を合わせればすぐに終わるでしょぉ？
+c090_01_Lobby_Touch_1:
+  en: Here's to a merry Christmas together, Commander.
+  ko: 지휘관이랑 크리스마스를 보낼 생각하니까 즐겁네~
+  ja: 指揮官と一緒に過ごすクリスマスが楽しみだわ～
+c090_01_Lobby_Touch_2:
+  en: What do you think of this outfit? Do you like it?
+  ko: 지휘관~ 이 옷 어때? 마음에 들어?
+  ja: |-
+    指揮官～この服どうかしら？
+    気に入った？
+c090_01_Lobby_Touch_3:
+  en: The thought of spending Christmas with you makes me so happy.
+  ko: 지휘관~ 같이 행복한 크리스마스 보내자~
+  ja: |-
+    指揮官～
+    一緒にハッピーなクリスマスを過ごしましょう～
+c090_01_Lobby_Touch_Love_1:
+  en: I'm planning on whipping up something for Christmas. Would you like to eat together?
+  ko: |-
+    크리스마스 기념으로 따뜻한 요리를 해볼까 하는데~
+    지휘관도 같이 먹어볼래?
+  ja: |-
+    クリスマス用に体が温まる料理を作ろうかと思うの～
+    指揮官も一緒に食べない？
+c090_01_Lobby_Touch_Love_2:
+  en: Now that we've changed into something more comfortable, would you like to go
+    on a date?
+  ko: 지휘관~ 옷도 새로 갈아입었는데 데이트하러 가지 않을래~?
+  ja: |-
+    指揮官～
+    新しい服にも着替えたことだし、デートしに行かない～？
+c090_01_Lobby_Touch_Love_3:
+  en: No matter how cold the winter wind blows, I'll never leave your side.
+  ko: |-
+    아무리 추운 겨울이 온다고 해도,
+    늘 지휘관 곁에 있을게.
+  ja: どんなに寒い冬が来ようとも、いつも指揮官のそばにいてあげるわ。
+c090_01_Lobby_Stay_1:
+  en: Commander... Commander? Busy even on Christmas... such a busy bee.
+  ko: "지휘관~ 지휘관~? \n흠~ 크리스마스에도 지휘관은 바쁘구나~"
+  ja: |-
+    指揮官～指揮官～？
+    う～ん、指揮官はクリスマスも忙しいのね～
+c090_01_Lobby_Stay_Love_1:
+  en: You work so hard! I'll have to warm this place up for you.
+  ko: |-
+    열심히 일하는 지휘관을 위해~
+    이곳을 따뜻하게 데우고 있을게~
+  ja: |-
+    一生懸命働く指揮官のために～
+    部屋を暖めて待ってるわ～
+c090_01_Outpost_Touch_1:
+  en: |-
+    When do you plan on coming to the armory?
+    Eunhwa, Vesti, and I have prepared a small party, so hurry up!
+  ko: |-
+    지휘관~ 무기고에 언제 올 거야?
+    은화랑 베스티랑 파티 준비해 놨으니까 얼른 와~
+  ja: |-
+    指揮官～ 武器庫にはいつ来るの？
+    ウンファとベスティーと 一緒にパーティーの 準備しておいたわ～
+    早く来てね～
+c090_01_Outpost_Touch_2:
+  en: Where did everybody go? I cooked up something festive for the holidays.
+  ko: |-
+    크리스마스랑 잘 어울리는 따뜻한 요리를 해놨는데~
+    다들 어디로 간 걸까?
+  ja: |-
+    クリスマスにぴったりな 温かい料理を準備したのに～
+    みんなどこに 行ったのかしら？
+c090_01_Outpost_Touch_3:
+  en: The armory is practically a freezer during the winter, but it feels a little
+    warmer whenever you show up.
+  ko: |-
+    겨울에 무기고는 다른 곳보다 더 추운데,
+    지휘관이 오면 따뜻해지는 느낌이야.
+  ja: 冬の武器庫は他の場所より ずっと寒いんだけど、 指揮官が来ると 暖かく感じるわ。
+c090_01_Gacha_Get_1:
+  en: Get a little closer if you're feeling cold. I'll give you a nice warm hug.
+  ko: |-
+    우후후, 지휘관~ 추우면 이쪽으로 와.
+    따뜻하게 안아줄게~
+  ja: |-
+    うふふ、指揮官～寒かったらこっちにいらっしゃい～
+    寒くないように抱きしめてあげるわ～
+c090_01_Reinforce_1:
+  en: I'll try my best and work just as hard as you.
+  ko: 지휘관이 노력해 준 만큼 열심히 할게~
+  ja: 指揮官の努力を無駄にしないよう、私も頑張るわ～
+c090_01_Reinforce_2:
+  en: Oh my, acknowledged by the Commander. Thank you!
+  ko: 우후후. 지휘관의 정성 잘 받았어. 고마워~
+  ja: |-
+    うふふ。指揮官の想いはしっかり受け取ったわ。
+    ありがとう～
+c090_01_Reinforce_3:
+  en: It feels like my body is a little warmer than before.
+  ko: 뭐랄까~ 몸이 따뜻해진 느낌이야~
+  ja: |-
+    何て言えばいいのかしら～
+    体が温かくなる感じがするの～
+c090_01_Gift_1:
+  en: I was planning on giving you a gift first, but you beat me to it.
+  ko: 어머, 이번에는 내가 먼저 주려고 했는데~
+  ja: あら、今度は私が先にあげようと思ったのに～
+c090_01_Gift_2:
+  en: Thank you for making this Christmas a happy one, Commander.
+  ko: 이번 크리스마스도 지휘관 덕분에 행복해졌어.
+  ja: 今年のクリスマスも指揮官のおかげで幸せだわ。
+c090_01_Gift_3:
+  en: Oh, just what I wanted! Thank you so much.
+  ko: 우후후. 갖고 싶었던 건데, 정말 고마워~
+  ja: |-
+    うふふ。
+    私が欲しかったものだわ～
+    本当にありがとう。
+c090_01_Attractive_Up_1:
+  en: Whenever I think of you, my heart gets all warm and fuzzy.
+  ko: 우후후. 지휘관만 생각하면 가슴이 따뜻해져~
+  ja: |-
+    うふふ。
+    指揮官のことを考えると心が温かくなるの～
+c090_01_Attractive_Up_2:
+  en: |-
+    It's a little cold in here...
+    Can I sit beside you?
+  ko: |-
+    지휘관~ 여기 좀 추운 것 같은데…
+    옆으로 가도 될까?
+  ja: |-
+    指揮官～
+    ここって何だか寒くない…？
+    隣に行ってもいいかしら？
+c090_01_Attractive_Up_3:
+  en: I don't know why, but I feel like spending this Christmas with you and nobody
+    else. Do you feel that way too?
+  ko: 왠지 이번 크리스마스는 둘이서만 파티하고 싶어지는 기분인데... 지휘관도 그래?
+  ja: |-
+    私と指揮官の2人だけで過ごすクリスマス…
+    どんな感じか気にならない？
+c090_01_Party_Deploy_1:
+  en: Shall we get started?
+  ko: 즐겁게 가 볼까?
+  ja: 元気よく行くわよ～
+c090_01_Field_Touch_1:
+  en: Yes, Commander.
+  ko: 응~ 지휘관~
+  ja: うん、指揮官～
+c090_01_Field_Go_1:
+  en: I wonder what's over there?
+  ko: 저쪽에 뭐가 있을까~?
+  ja: あっちには何があるかしら～？
+c090_01_Battle_Enter_1:
+  en: Off to battle we go!
+  ko: 전투하러 다녀올게~
+  ja: 戦闘しに行ってきま～す。
+c090_01_Battle_Ready_1:
+  en: Let's have a good time while we're out there, okay?
+  ko: 신나게 물리쳐볼까?
+  ja: はり切って退治しちゃうわよ～
+c090_01_Battle_Ready_2:
+  en: Let's score another one for the good guys.
+  ko: 즐거운 마음으로 이겨내자~
+  ja: 楽しみながら戦うわよ～
+c090_01_Battle_Ready_3:
+  en: Let's finish quickly so we can get back to the party.
+  ko: 우후후, 빨리 끝내고 파티하러 가자~
+  ja: うふふ、早く終わらせてパーティーに行くわよ～
+c090_01_Reload_1:
+  en: My outfit is too short... it's a bit inconvenient.
+  ko: 음, 옷이 짧아서 신경 쓰이네~
+  ja: う～ん、服が短くて気になっちゃう～
+c090_01_Reload_2:
+  en: It's even more fun reloading a pretty weapon.
+  ko: 무기가 예뻐지니까 장전하는 것도 즐겁네~
+  ja: 武器がかわいくなると装填するのも楽しいわ～
+c090_01_Reload_3:
+  en: Hang in there, Commander.
+  ko: 지휘관 조금만 더 힘내~
+  ja: 指揮官、もう少しの辛抱よ～
+c090_01_Ult_Skill_Ready_1:
+  en: All set, Commander.
+  ko: 지휘관~ 준비됐어~
+  ja: 指揮官～準備できたわ～
+c090_01_Ult_Skill_1:
+  en: Come over here. I'll keep you warm.
+  ko: 이리 와. 따뜻하게 해줄게~ 우후후~
+  ja: |-
+    いらっしゃ～い。
+    暖かくしてあげるわ～うふふ～
+c090_01_FullBurst_1:
+  en: Everyone, hang in there!
+  ko: 다들 조금만 더 힘내~!
+  ja: みんな、あと少しよ、頑張ろう～！
+c090_01_Kill_Monster_1:
+  en: Ah haha.
+  ko: 우후후.
+  ja: うふふ。
+c090_01_Kill_Monster_2:
+  en: We did it!
+  ko: 이겨냈어~
+  ja: 勝ったわ～
+c090_01_Kill_Monster_3:
+  en: I'll keep doing my best!
+  ko: 조금 더 힘낼게~
+  ja: まだまだ頑張るわよ～
+c090_01_Damage_1:
+  en: Aghh!
+  ko: 앗!
+  ja: あっ！
+c090_01_Damage_2:
+  en: Ack!
+  ko: 아… 새 옷인데….
+  ja: あ…新しい服なのに…
+c090_01_Damage_3:
+  en: My hat!
+  ko: 으… 모자가….
+  ja: うぅ…帽子が…
+c090_01_Die_1:
+  en: Sorry Commander, but I'm going to go rest for a while...
+  ko: 미안해 지휘관~ 조금만 쉬고 올게….
+  ja: |-
+    ごめんなさい、指揮官～
+    ちょっとだけ休ませて…
+c090_01_Win_1:
+  en: Whoo, it's over! Now we can go party!
+  ko: 잘 끝났네~ 이제 파티하러 갈 수 있겠어~
+  ja: |-
+    やった～
+    これでパーティーに行けるわ～
+90_cv_ja:
+  en: 'CV: Mamiko Noto'
+  ko: 'CV : 노토 마미코'
+  ja: CV：能登麻美子
+90_cv_ko:
+  en: 'CV: Lee Myung-ho'
+  ko: 'CV : 이명호'
+  ja: CV：イ・ミョンホ
+90_cv_en:
+  en: 'CV: Dominique North'
+  ko: 'CV : 도미니크 노스'
+  ja: CV：Dominique North

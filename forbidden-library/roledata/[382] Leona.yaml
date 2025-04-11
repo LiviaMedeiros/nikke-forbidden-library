@@ -1,0 +1,521 @@
+---
+382_name:
+  en: Leona
+  ko: 레오나
+  ja: レオナ
+c382_description:
+  en: |-
+    A Nikke from the Happy Zoo Squad, which is responsible for overseeing the Ark's animals.
+    Manages ferocious beasts like lions and tigers.
+    Shares a unique bond with a timid lion named Timi.
+  ko: |-
+    방주의 동물들을 관리하는 부대, 해피 주 소속의 니케.
+    사자, 호랑이 등의 맹수를 관리한다.
+    티미라 불리는 겁쟁이 사자와 둘도 없는 단짝.
+  ja: |-
+    アークの動物を管理する部隊、ハッピーズー所属のニケ。
+    ライオンやトラなどの猛獣を管理している。
+    ティミと呼ばれる怖がりなライオンと大の仲よし。
+382_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_382:
+  en: Leona's Spare Body
+  ko: 레오나 스페어 바디
+  ja: レオナのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23822_name:
+  en: Courageous Look
+  ko: 용기있는 시선
+  ja: 勇気の眼差し
+23822_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Hit Rate ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects {description_value_03} ally unit(s) with the highest <word_group=10025>final</word_group> ATK and a Shotgun.
+    <color=#00AEFF>Number of <word_group=10038>pellets</word_group> ▲ {description_value_04} for {description_value_05} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[명중률 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 샷건 소지 아군 {description_value_03}기에게
+    <color=#00AEFF>[<word_group=10038>펠릿</word_group> 개수 {description_value_04}개 ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「命中率{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが発動した時、ショットガンを所持する<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_03}機に
+    <color=#00AEFF>「<word_group=10038>ペレット</word_group>数{description_value_04}個▲」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23821_name:
+  en: Thunderous Roar
+  ko: 우렁찬 포효
+  ja: 力強い咆哮
+23821_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects all allies.
+    <color=#00AEFF>Roar: Critical Rate ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+    ■ Activates after {description_value_05} normal attack(s). Affects all allies with a Shotgun.
+    <color=#00AEFF><word_group=10036>Maximum Effective Range</word_group> ▲ {description_value_06}% for {description_value_07} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
+    <color=#00AEFF>[포효 : 크리티컬 확률 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>
+    ■ 일반 공격 {description_value_05}회 공격 시 샷건 소지 아군 전체에게
+    <color=#00AEFF>[<word_group=10036>적정 최대 사거리</word_group> {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、味方全体に
+    <color=#00AEFF>「咆哮：クリティカル確率{description_value_02}％▲」
+    「{description_value_03}スタック」「{description_value_04}秒間維持」</color>
+    ■通常攻撃で{description_value_05}回攻撃した時、ショットガンを所持する味方全体に
+    <color=#00AEFF>「<word_group=10036>適正最大射程距離</word_group>{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13823_name:
+  en: Lion's Heart
+  ko: 사자의 심장
+  ja: ライオンの心
+13823_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Critical Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when the caster's Roar is fully stacked. Affects all allies with a Shotgun.
+    <color=#00AEFF>Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 자신이 포효 최대 중첩 상태라면 샷건 소지 아군 전체에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「クリティカルダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+    ■自分が咆哮のフルスタック状態なら、
+    ショットガンを所持する味方全体に
+    <color=#00AEFF>「クリティカル確率{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+381_name:
+  en: Biscuit
+  ko: 비스킷
+  ja: ビスケット
+380_name:
+  en: Nero
+  ko: 네로
+  ja: ネロ
+c382_Lobby_Touch_1:
+  en: Oh Timi, you're such a cutie!
+  ko: |-
+    우리 티미~ 쪽!
+    너무 귀여워, 헤헤.
+  ja: |-
+    ティミ～ちゅっ！
+    すっごくかわいい。ふふっ。
+c382_Lobby_Touch_2:
+  en: |-
+    I wish people would't judge Timi based solely on his appearance.
+    He's actually very kind.
+  ko: |-
+    사람들이 티미의 겉모습만 보고 판단하지 않았으면 좋겠어.
+    엄청 순하다구.
+  ja: |-
+    ティミを見た目だけで判断しないでほしいな。
+    すごく優しい子なんだから。
+c382_Lobby_Touch_3:
+  en: |-
+    I've always fed large animals,
+    so whenever I touch small animals, I'm afraid that I'll end up hurting them.
+  ko: |-
+    큰 동물들만 다루다 보니,
+    작은 동물들은 건드리기만 해도 부서질 것 같아서 무서워.
+  ja: |-
+    大きな動物ばっかり相手してるから、
+    小さな動物は触れるだけで壊しちゃいそうで怖いの。
+c382_Lobby_Touch_Love_1:
+  en: |-
+    Here's a kiss for you, Timi!
+    Would you like a kiss too, Zoo Keeper?
+  ko: |-
+    우리 티미~ 쪽!
+    음? 사육사님도 받고 싶어?
+  ja: |-
+    ティミ～ちゅっ！
+    ん？飼育士さんもしてほしい？
+c382_Lobby_Touch_Love_2:
+  en: |-
+    I like everything to be king-sized,
+    whether it's animals or you, Zoo Keeper, hehe.
+  ko: |-
+    나는 뭐든 큰 게 좋더라.
+    동물도, 사육사님도. 헤헤.
+  ja: |-
+    私は何でも大きいのが好き。
+    動物も、飼育士さんも。ふふっ。
+c382_Lobby_Touch_Love_3:
+  en: |-
+    I want to be alone with you,
+    so I won't bring Timi with me next time.
+  ko: |-
+    다음엔 티미를 두고 와야겠어.
+    사육사님이랑 단둘이 있어 보고 싶거든.
+  ja: |-
+    次はティミを置いてこなきゃ。
+    飼育士さんと二人きりになりたいから。
+c382_Lobby_Stay_1:
+  en: |-
+    Are you tired of waiting, Timi?
+    I'll play with you later.
+  ko: |-
+    티미, 기다리는 거 지루하지?
+    이따가 내가 재미있게 놀아줄게.
+  ja: |-
+    ティミ、待つのは退屈だね？
+    あとでたくさん遊んであげる。
+c382_Lobby_Stay_Love_1:
+  en: |-
+    Are you eager to see Zoo Keeper, Timi?
+    Me too.
+  ko: |-
+    티미도 사육사님이 보고싶어?
+    나도 빨리 보고싶어. 헤헤.
+  ja: |-
+    ティミも飼育士さんに会いたいの？
+    私も早く会いたいな。ふふっ。
+c382_Outpost_Touch_1:
+  en: |-
+    This place is nice and quiet.
+    Perfect for walking Timi.
+  ko: |-
+    여기는 한적해서 좋다.
+    티미랑 같이 산책하기 딱이겠어.
+  ja: |-
+    ここは静かでいいね。
+    ティミと一緒に お散歩するのにぴったり。
+c382_Outpost_Touch_2:
+  en: I don't suppose they've got any shops here that cater to big cats, do they?
+  ko: 음. 맹수를 위한 상점은 없겠지?
+  ja: うーん。 猛獣向けのお店はないよね？
+c382_Outpost_Touch_3:
+  en: I hope Timi's appearance doesn't scare anyone.
+  ko: |-
+    다른 사람들이 티미를 보고
+    놀라지 않았으면 좋겠는데.
+  ja: みんな、 ティミを見て 驚かないといいけど。
+c382_Gacha_Get_1:
+  en: Hello there, my name is Leona, and this cute lion here is Timi.
+  ko: |-
+    안녕, 나는 레오나고 여기는 귀여운 사자 티미야.
+    잘 부탁해.
+  ja: |-
+    こんにちは。私はレオナ。こっちはかわいいライオンのティミ。
+    よろしくね。
+c382_Reinforce_1:
+  en: You have hopes of me becoming better at my job, right? I'll try my best, I promise.
+  ko: 더 멋진 사육사가 되라는 거지? 열심히 할게.
+  ja: もっと素敵な飼育士になれってこと？頑張るよ。
+c382_Reinforce_2:
+  en: I feel like my body has become lighter. Thanks!
+  ko: 음! 몸이 가벼워졌어, 고마워.
+  ja: わあ！体が軽くなった、ありがとう。
+c382_Reinforce_3:
+  en: I'm more skilled now.
+  ko: 좀 더 능숙하게 다룰 수 있겠는걸?
+  ja: これでもっと上手に訓練できそう。
+c382_Gift_1:
+  en: Wow, thanks! I'll put it to good use.
+  ko: 우와, 정말 고마워. 잘 쓸게.
+  ja: わあ、本当にありがとう。大切に使うね。
+c382_Gift_2:
+  en: Timi seems to like it too, haha.
+  ko: 어? 티미도 마음에 들었나 봐, 하하.
+  ja: あれ？ティミも気に入ったみたい。あはは。
+c382_Gift_3:
+  en: I'm not used to getting gifts all the time.
+  ko: 이렇게 받기만 하는 거, 적응이 잘 안 되는데.
+  ja: もらってばっかり…こういうのには慣れてないの。
+c382_Attractive_Up_1:
+  en: It would be nice if you could be there for me like Timi has.
+  ko: 음. 사육사님도 티미처럼 내 옆에 딱 붙어있으면 좋을 텐데.
+  ja: |-
+    うーん。飼育士さんもティミみたいに、
+    べったりくっついてくれたらいいのに。
+c382_Attractive_Up_2:
+  en: |-
+    What should I do? I'm growing more and more fond of you, Zoo Keeper.
+    Timi might get jealous...
+  ko: |-
+    사육사님이 점점 좋아져서 어떡하지?
+    티미가 질투할 텐데….
+  ja: |-
+    飼育士さんのこと、どんどん好きになっちゃうな。
+    ティミが嫉妬しちゃいそう…
+c382_Attractive_Up_3:
+  en: Oh boy... my heart is beating faster than the last time I saw a brown bear out
+    in the wild.
+  ko: 아…! 불곰을 직접 봤을 때 보다 더 두근거리는 것 같아.
+  ja: あっ…！ヒグマを初めて見た時よりもドキドキしてる。
+c382_Party_Deploy_1:
+  en: Off I go, Timi.
+  ko: 티미, 다녀올게.
+  ja: ティミ、行ってくるね。
+c382_Field_Touch_1:
+  en: Roar!
+  ko: 어흥~!
+  ja: ガオ～！
+c382_Field_Go_1:
+  en: On my way.
+  ko: 가고 있어.
+  ja: 今行くよ。
+c382_Battle_Enter_1:
+  en: You fools dare stand in the way of a lion?
+  ko: 사자의 앞을 막다니, 겁이 없는 녀석들이네.
+  ja: ライオンの前に立ちはだかるなんて、怖いもの知らずね。
+c382_Battle_Ready_1:
+  en: Looks like we've got some naughty kids who need taking care of.
+  ko: 못된 친구들이 많네.
+  ja: 悪い子たちが多いね。
+c382_Battle_Ready_2:
+  en: Let the training begin!
+  ko: 훈련을 시작해 볼까?
+  ja: 訓練を始めよっか？
+c382_Battle_Ready_3:
+  en: You're all worse than beasts.
+  ko: 짐승보다 못한 것들….
+  ja: あなたたちは獣以下ね…
+c382_Reload_1:
+  en: Replenishing ammo.
+  ko: 채우고 있어.
+  ja: リロードしてるよ。
+c382_Reload_2:
+  en: Give me a second.
+  ko: 기다려 줘.
+  ja: 待ってて。
+c382_Reload_3:
+  en: Can you keep an eye out for me?
+  ko: 잠시 망 좀 봐줄래?
+  ja: ちょっと見張っててくれる？
+c382_Ult_Skill_Ready_1:
+  en: I'm ready.
+  ko: 준비됐어.
+  ja: 準備できたよ。
+c382_Ult_Skill_1:
+  en: Who wants some treats? Come over here!
+  ko: 츄르 먹을 친구~ 여기 여기 붙어라!
+  ja: |-
+    おやつ食べる子～
+    こっちにおいで～！
+c382_FullBurst_1:
+  en: Bite at will!
+  ko: 마음껏 물어뜯어!
+  ja: 思いっきり噛みついて！
+c382_Kill_Monster_1:
+  en: Gotcha.
+  ko: 잡았어.
+  ja: 捕まえた。
+c382_Kill_Monster_2:
+  en: How was that? Am I doing good?
+  ko: 어때, 방금 괜찮았어?
+  ja: どう？今のカッコよかった？
+c382_Kill_Monster_3:
+  en: There are still so many.
+  ko: 아직도 많이 남았네.
+  ja: まだたくさん残ってるね。
+c382_Damage_1:
+  en: Ouch!
+  ko: 아얏!
+  ja: ああっ！
+c382_Damage_2:
+  en: "*Whimper*"
+  ko: 끼잉….
+  ja: クゥン…
+c382_Damage_3:
+  en: Ugh...!
+  ko: 읏…!
+  ja: うっ…！
+c382_Die_1:
+  en: Sorry, but I'm standing down.
+  ko: 먼저 빠질게, 미안해….
+  ja: 先に抜けるね、ごめん…
+c382_Win_1:
+  en: Never tread on the lion's tail.
+  ko: 잠자는 사자의 코털을 건드리면 안 되지.
+  ja: 眠ってるライオンを起こしちゃダメだよ。
+382_cv_ja:
+  en: 'CV: Haruka Yoshimura'
+  ko: 'CV : 요시무라 하루카'
+  ja: CV：佳村はるか
+382_cv_ko:
+  en: 'CV: Son Jung-min'
+  ko: 'CV : 손정민'
+  ja: CV：ソン・ジョンミン
+382_cv_en:
+  en: 'CV: Ashely Biski'
+  ko: 'CV : 애슐리'
+  ja: CV：Ashely Biski

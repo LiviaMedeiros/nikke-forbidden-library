@@ -1,0 +1,445 @@
+---
+120_name:
+  en: N102
+  ko: N102
+  ja: N102
+c120_description:
+  en: A Nikke from Recall & Release who is outgoing and energetic. Yet, she inexplicably
+    feels a sense of emptiness inside herself.
+  ko: |-
+    리콜&릴리즈 스쿼드 소속의 니케.
+    밝고 기운찬 순수함 속 어딘가 공허함이 느껴진다.
+  ja: |-
+    リコール＆リリーズ部隊所属のニケ。
+    明るく元気で純粋だが、どこか虚しさが感じられる。
+120_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50120:
+  en: N102's Spare Body
+  ko: N102 스페어 바디
+  ja: N102のスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+11202_name:
+  en: Impaired Memory
+  ko: 부상하는 기억
+  ja: 蘇る記憶
+11202_description:
+  en: "■ Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
+    ATK. \n<color=#00AEFF>Charge Damage ▲ {description_value_02}% for {description_value_03}
+    sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[차지 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「チャージダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21201_name:
+  en: Written Memories
+  ko: 노트 위의 기억
+  ja: ノートの中の記憶
+21201_description:
+  en: "■ Activates when attacking during Full Charge. Affects {description_value_01}
+    ally unit(s) with the highest <word_group=10025>final</word_group> ATK. \n<color=#00AEFF>Max
+    Ammunition Capacity ▲ {description_value_02} shot(s) for {description_value_03}
+    sec. \nCritical Damage ▲ {description_value_04}% for {description_value_05} sec.</color>"
+  ko: |-
+    ■ 풀 차지 공격 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_02}발 ▲] [{description_value_03}초 유지]
+    [크리티컬 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「最大装弾数{description_value_02}発▲」「{description_value_03}秒間維持」
+    「クリティカルダメージ{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11203_name:
+  en: Memories of Blue Butterflies
+  ko: 파란 나비의 기억
+  ja: 青い蝶の記憶
+11203_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+121_name:
+  en: 'Anne: Miracle Fairy'
+  ko: '앤 : 미라클 페어리'
+  ja: 'エヌ : ミラクルフェアリー'
+c120_Lobby_Touch_1:
+  en: Wow, a butterfly! Wait, what's a butterfly?
+  ko: |-
+    후와아~ 나비다!
+    …나비가 뭐였더라?
+  ja: |-
+    ふわああ～ちょうちょだ！
+    …ちょうちょって何だっけ？
+c120_Lobby_Touch_2:
+  en: Hi Teacher, we're gonna have a great time today!
+  ko: 선생님! 오늘도 재밌게 놀아요!
+  ja: |-
+    先生！
+    今日も楽しく遊びましょう！
+c120_Lobby_Touch_3:
+  en: Wow, check this out!
+  ko: 우와~! 선생님! 이거 봐요!
+  ja: |-
+    うわ～！先生！
+    これ見てください！
+c120_Lobby_Touch_Love_1:
+  en: I wish every day could be just like today!
+  ko: 매일매일이 오늘만 같았으면 좋겠어요!
+  ja: 毎日が今日みたいだったらいいのに！
+c120_Lobby_Touch_Love_2:
+  en: Teacher, let's go have a Light Croquette.
+  ko: 선생님, 같이 마일드 크로켓 먹으러 가요.
+  ja: 先生、一緒にマイルドコロッケを食べに行きましょ。
+c120_Lobby_Touch_Love_3:
+  en: What should we do for fun today?
+  ko: 오늘은 무얼 하고 노나요?
+  ja: 今日は何して遊びますか？
+c120_Lobby_Stay_1:
+  en: Er... What is this place?
+  ko: 어… 여기는 어디지…?
+  ja: あ…ここはどこだろう…？
+c120_Lobby_Stay_Love_1:
+  en: Teacher~ Are you playing hide and seek?
+  ko: 선생님~ 숨바꼭질 중이신가요?
+  ja: 先生～かくれんぼしてますか？
+c120_Outpost_Touch_1:
+  en: What is this place? It's out of this world!
+  ko: 여긴 어딘가요? 좋은 곳이네요!
+  ja: |-
+    ここはどこですか？
+    いい場所ですね！
+c120_Outpost_Touch_2:
+  en: Can I go to the library and read some books?
+  ko: 도서관이 있던데, 가서 책 읽어도 돼요?
+  ja: |-
+    図書館が ありましたよね。
+    本を読みに行っても いいですか？
+c120_Outpost_Touch_3:
+  en: Wow, I've never seen anything like this before!
+  ko: 우와, 저 이런 곳은 처음이에요!
+  ja: うわぁ、私、こんな場所は 初めてです！
+c120_Gacha_Get_1:
+  en: Ah right, I promised to meet with my new teacher today.
+  ko: "…아, 오늘은 새로운 선생님을 만나기로 했지."
+  ja: "…あ、今日は新しい先生に会う日だった。"
+c120_Reinforce_1:
+  en: My body... It feels strange.
+  ko: 어? 몸이 좀 이상해요.
+  ja: あれ？体が何だか変です。
+c120_Reinforce_2:
+  en: What's this?
+  ko: 선생님. 이건 뭔가요?
+  ja: 先生。これは何ですか？
+c120_Reinforce_3:
+  en: So shiny...
+  ko: 반짝반짝….
+  ja: キラキラ…
+c120_Gift_1:
+  en: I really like this... I think?
+  ko: 앗, 이거 제가 좋아하는… 거던가?
+  ja: あっ、これは私が好きな…やつだったっけ？
+c120_Gift_2:
+  en: What's this? A gift? What is a gift?
+  ko: 이건 뭔가요? 선물? 그게 뭐죠?
+  ja: これは何ですか？プレゼント？それは何ですか？
+c120_Gift_3:
+  en: Today is a good day.
+  ko: 오늘은 되게 좋은 날이네요.
+  ja: 今日はすごくいい日です。
+c120_Attractive_Up_1:
+  en: There's this warm feeling inside me... I don't understand it. We haven't met
+    before, have we?
+  ko: 선생님은 오늘 처음 봤지만 어쩐지 따뜻한 느낌이 들어요.
+  ja: 先生には今日初めて会いましたが、何だか温かい気持ちになります。
+c120_Attractive_Up_2:
+  en: I feel so at ease being around you.
+  ko: 선생님이랑 같이 있으면 너무 즐거워요.
+  ja: 先生と一緒にいると本当に楽しいです。
+c120_Attractive_Up_3:
+  en: Teacher! I like you!
+  ko: 선생님! 좋아해요!
+  ja: 先生！大好きです！
+c120_Party_Deploy_1:
+  en: Let's rock and roll!
+  ko: 놀러 가는 건가요? 좋아요!
+  ja: 遊びに行くんですか？わーい！
+c120_Field_Touch_1:
+  en: What is this place?
+  ko: 여긴… 어디지….
+  ja: ここは…どこ…
+c120_Field_Go_1:
+  en: Move... forward...
+  ko: 이동… 걷는 것… 앞으로….
+  ja: 移動…歩くこと…前に…
+c120_Battle_Enter_1:
+  en: En...counter...
+  ko: 전… 투….
+  ja: 戦…闘…
+c120_Battle_Ready_1:
+  en: This all feels so familiar...but how?
+  ko: 익숙한 공기네. 왜… 익숙한 걸까?
+  ja: 嗅いだことのある空気だ。どうして…なんだろう？
+c120_Battle_Ready_2:
+  en: I must survive. I must...
+  ko: 살아남아야 해. 그래야….
+  ja: 生き残らなきゃ。そうすれば…
+c120_Battle_Ready_3:
+  en: What is this place? Why am I here?
+  ko: 여긴 어디지… 난 뭐 하는 걸까.
+  ja: ここはどこ…私は何をしているんだろう。
+c120_Reload_1:
+  en: Errr... Ah...
+  ko: 으으… 아아…!
+  ja: うう…ああ…！
+c120_Reload_2:
+  en: Reload...
+  ko: 재장전….
+  ja: リロード…
+c120_Reload_3:
+  en: Why do I know this?
+  ko: 내가 이걸 왜 알고 있지…?
+  ja: 何で私がこんなことを知っているんだろう…？
+c120_Ult_Skill_Ready_1:
+  en: Ah...
+  ko: 아앗!
+  ja: ああっ！
+c120_Ult_Skill_1:
+  en: Oh... All gone...
+  ko: "…아. …지워진다. 모두."
+  ja: "…あ。…消される。全て。"
+c120_FullBurst_1:
+  en: So I just have to shoot?
+  ko: 지금 쏘면 되는 건… 가?
+  ja: 今撃てばいいの…かな？
+c120_Kill_Monster_1:
+  en: Emmm?
+  ko: 어?
+  ja: あれ？
+c120_Kill_Monster_2:
+  en: What just happened?
+  ko: 왜, 왜?
+  ja: え、どうして？
+c120_Kill_Monster_3:
+  en: It exploded.
+  ko: 터졌어?
+  ja: 爆発した？
+c120_Damage_1:
+  en: Aah!
+  ko: 꺄악!
+  ja: きゃあ！
+c120_Damage_2:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c120_Damage_3:
+  en: Argh!
+  ko: 아악!
+  ja: ああっ！
+c120_Die_1:
+  en: Urgh... My head is pounding!
+  ko: 으으… 머리… 아파…!
+  ja: うう…頭が…痛い…！
+c120_Win_1:
+  en: What am I doing here?
+  ko: "…나 여기서 뭘 하고 있었더라…."
+  ja: "…私、ここで何をしていたんだろう…"
+120_cv_ja:
+  en: 'CV: Satomi Satō'
+  ko: 'CV : 사토 사토미'
+  ja: CV：佐藤聡美
+120_cv_ko:
+  en: 'CV: Kim Yeon-woo'
+  ko: 'CV : 김연우'
+  ja: CV：キム・ヨヌ
+120_cv_en:
+  en: 'CV: Corina Boettger'
+  ko: 'CV : 코리나 뵈트거'
+  ja: CV：Corina Boettger

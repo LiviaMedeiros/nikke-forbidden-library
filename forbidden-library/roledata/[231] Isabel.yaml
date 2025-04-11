@@ -1,0 +1,719 @@
+---
+231_name:
+  en: Isabel
+  ko: 이사벨
+  ja: イサベル
+c231_description:
+  en: An aerial pursuer with a twisted mind. She will track her target to the ends
+    of the earth, regardless of whether they're friend or foe. It's because of her
+    that Inherit is a force to be reckoned with in the skies.
+  ko: "하늘을 나는 추적자. \n집요한 성격으로, 한번 정한 표적은 적이든 연인이든 절대 놓아주지 않는다. \n그녀 덕에 인헤르트 스쿼드는 공중전에서도
+    강하다."
+  ja: |-
+    空を飛ぶ追跡者。執拗な性格で、一度決めた標的は
+    敵だろうと恋人だろうと絶対に離さない。
+    彼女のおかげでインヘルト部隊は空中戦にも強い。
+231_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50231:
+  en: Isabel's Spare Body
+  ko: 이사벨 스페어 바디
+  ja: イサベルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+12312_name:
+  en: Pointed Feather
+  ko: 페더 이젝션
+  ja: フェザー・イジェクション
+12312_description:
+  en: "■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group>
+    DEF. \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as damage.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22311_name:
+  en: Marked Target
+  ko: 타겟 마킹
+  ja: ターゲットマーキング
+22311_description:
+  en: |-
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: Marked Target 1 - Critical Rate ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: Marked Target 2 - Critical Damage ▲ {description_value_03}% for {description_value_04} sec.
+    Three times: Marked Target 3 - ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[사용 횟수 별 추가 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
+    1 회 : [타겟 마킹 1 : 크리티컬 확률 {description_value_01}% ▲] [{description_value_02}초 유지]
+    2 회 : [타겟 마킹 2 : 크리티컬 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
+    3 회 : [타겟 마킹 3 : 공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「使用回数別の追加効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「ターゲットマーキング1：クリティカル確率{description_value_01}％▲」「{description_value_02}秒間維持」
+    2回：「ターゲットマーキング2：クリティカルダメージ{description_value_03}％▲」「{description_value_04}秒間維持」
+    3回：「ターゲットマーキング3：攻撃力
+    {description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12313_name:
+  en: Sonic Chaser
+  ko: 소닉 체이서
+  ja: ソニックチェイサー
+12313_description_1:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.
+    Additional effect(s) triggered according to the Marked Target's phase. <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Marked Target 1: Damage Taken ▲ {description_value_02}% for {description_value_03} sec.
+    Marked Target 2: Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.
+    Marked Target 3: Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Full Burst Time ▼ 5 sec.</color>
+  ko: "■ 적 전체에게\n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}%
+    버스트 스킬 대미지]\n[타겟 마킹 단계 별 추가 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]  :
+    \n타겟 마킹 1 : [받는 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]\n타겟
+    마킹 2 : [<word_group=10025>최종</word_group> 공격력 {description_value_04}% 추가 대미지]\n타겟
+    마킹 3 : [<word_group=10025>최종</word_group> 공격력 {description_value_05}% 추가 대미지]</color>\n■
+    아군 전체에게\n<color=#00AEFF>[풀 버스트 타임 지속 시간 5초 ▼]</color>"
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」
+    「ターゲットマーキング段階別の追加効果」「<word_group=10028>下位効果のスタック適用</word_group>」：
+    ターゲットマーキング1：「受けるダメージ
+    {description_value_02}％▲」「{description_value_03}秒間維持」
+    ターゲットマーキング2：「<word_group=10025>最終</word_group>攻撃力の
+    {description_value_04}％の追加ダメージ」
+    ターゲットマーキング3：「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の追加ダメージ」</color>■味方全体に<color=#00AEFF>「フルバーストタイム5秒▼」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+230_name:
+  en: Harran
+  ko: 하란
+  ja: ハラン
+232_name:
+  en: Noah
+  ko: 노아
+  ja: ノア
+233_name:
+  en: Dorothy
+  ko: 도로시
+  ja: ドロシー
+c231_Lobby_Touch_1:
+  en: Don't worry, there's nothing to be afraid of. You're safe with me, I promise.
+  ko: "아무것도 두려워할 필요 없어요. \n당신은, 아아… 제가 반드시, 지킬 테니까."
+  ja: |-
+    何も恐れる必要はありません。
+    ああ…私が必ず、守ってあげる。
+c231_Lobby_Touch_2:
+  en: I can't help but wonder what you're doing... and who you're with...
+  ko: "언제나 당신이 궁금해요. \n무엇을 하는지, 또 누구와 있는지도."
+  ja: |-
+    いつもあなたのことが気になります。
+    何をしていて、そして誰に会っているのか。
+c231_Lobby_Touch_3:
+  en: So many sleepless nights... All because I'm thinking of you, darling.
+  ko: "밤새 당신을 상상… 아니, \n생각하며 잠들지 못했답니다."
+  ja: |-
+    一晩中あなたのことを想像…
+    いえ、考えていたら一睡もできませんでした。
+c231_Lobby_Touch_Love_1:
+  en: |-
+    Is that all for our stroll?
+    Then let's go home. Our home.
+  ko: "이제 산책은 다 끝나셨나요? \n그럼 함께 집으로 돌아가요. 당신과 나의 집으로요."
+  ja: |-
+    お散歩は終わりましたか？
+    では一緒に帰りましょう。
+    あなたと私の家へ。
+c231_Lobby_Touch_Love_2:
+  en: You... erm... you give me a reason to keep living.
+  ko: 당신은, 아아… 제게 살아갈 의미를 주었어요.
+  ja: あなたは、ああ…私に生きる意味を与えてくれました。
+c231_Lobby_Touch_Love_3:
+  en: Now you won't be distracted, not even by those admirers of yours.
+  ko: |-
+    이제 더 이상 한눈팔지 않으시겠죠?
+    당신이 소중히 여기는 그 여자들을 위해서라도요.
+  ja: |-
+    もうこれからはよそ見しないでくださいね？
+    あなたが大切にしているあの女たちのためにも。
+c231_Lobby_Stay_1:
+  en: Even looking at you makes my heart feel so full. I hope you can understand...
+  ko: 바라보는 것만으로 충만해지는 기분, 당신은 아시나요?
+  ja: 見つめているだけで満ち溢れるこの気持ち、あなたに分かりますか？
+c231_Lobby_Stay_Love_1:
+  en: Darling, are you talking to other girls behind my back?
+  ko: 저를 두고 다른 여자와 연락이라도 나누고 계신 건가요, 사랑스러운 분?
+  ja: |-
+    私の愛するお方。
+    私を差し置いて、他の女と連絡を取っていらっしゃったのですか？
+c231_Outpost_Touch_1:
+  en: What? That winged statue reminds you of me? Aww, you're making me blush, darling...
+  ko: |-
+    네? 날개 동상을 보면 제가 떠오른다고요?
+    부, 부끄러워라….
+  ja: |-
+    はい？ 翼の銅像を見ると 私を思い出す？
+    は、恥ずかしいです…
+c231_Outpost_Touch_2:
+  en: There's an awful lot of other Nikkes here... Perhaps I shouldn't have let you
+    come.
+  ko: |-
+    여긴 니케들이 참 많네요.
+    …역시 당신을 지상에 붙잡아 뒀어야 했을까요?
+  ja: |-
+    ここにはニケが たくさんいますね。
+    …やはりあなたを 地上に引き止めておくべき だったでしょうか。
+c231_Outpost_Touch_3:
+  en: I'm here because I missed you.
+  ko: 당신이 그리워져서 찾아 왔어요.
+  ja: あなたが恋しくて 会いに来ました。
+c231_Gacha_Get_1:
+  en: You're so adorable. I'll get rid of anything standing in your way, anything!
+  ko: "아아… 사랑스러운 분. \n당신을 괴롭히는 건 제가 다 없애 줄게요."
+  ja: |-
+    あぁ…愛しいあなた。
+    あなたを苦しめる存在は私が全部始末します。
+c231_Reinforce_1:
+  en: Now I can fly to you faster.
+  ko: 당신에게 더 빨리 날아갈 수 있게 됐어요.
+  ja: これでもっと早くあなたのもとへ飛んで行けます。
+c231_Reinforce_2:
+  en: Ah... Is this a form of love?
+  ko: 아아… 이것도 사랑의 한 형태인 거죠?
+  ja: あぁ…これもひとつの愛のカタチなのですね？
+c231_Reinforce_3:
+  en: I'm the only shield you'll need.
+  ko: 당신의 하나뿐인 방패가 될게요.
+  ja: あなたのたった一つの盾になります。
+c231_Gift_1:
+  en: Does this mean... You like me too, darling?
+  ko: 이건… 당신도 제게 관심이 있다는 의미인가요?
+  ja: これは…あなたも私に興味があるという意味でしょうか？
+c231_Gift_2:
+  en: With this, it's like you'll always be with me.
+  ko: 이걸로 하루 종일 당신을 떠올릴 수 있어요.
+  ja: これのおかげで一日中、あなたのことを想っていられます。
+c231_Gift_3:
+  en: A piece of my darling... For me to keep.
+  ko: "…당신의 일부를 소유한 기분이 들어요."
+  ja: "…あなたの一部を手に入れた気分です。"
+c231_Attractive_Up_1:
+  en: From now on, I want to be your one and only.
+  ko: 미래에는 당신의… 하나뿐인 신부가 되고 싶네요.
+  ja: いつかあなたの…一人だけの花嫁になりたいです。
+c231_Attractive_Up_2:
+  en: We love each other, right?
+  ko: 역시 우린 서로 사랑하고 있는 거였어요. 그렇죠?
+  ja: |-
+    やっぱり私たちは愛し合っていたようです。
+    そうでしょう？
+c231_Attractive_Up_3:
+  en: I wish I could sleep by your side every night.
+  ko: 매일 밤 당신 곁에서 잠들고 싶어요.
+  ja: 毎晩、あなたのそばで眠りに落ちたいです。
+c231_Party_Deploy_1:
+  en: I'll protect you, darling.
+  ko: 제가 당신을 지킬게요.
+  ja: 私があなたを護ります。
+c231_Field_Touch_1:
+  en: Did you call my name...?
+  ko: 부르셨나요…?
+  ja: お呼びでしょうか…？
+c231_Field_Go_1:
+  en: I'll go right away.
+  ko: 지금 바로 날아갈게요.
+  ja: 今すぐに飛んでまいります。
+c231_Battle_Enter_1:
+  en: Bring it on.
+  ko: 전투를 시작할게요.
+  ja: 戦闘を開始します。
+c231_Battle_Ready_1:
+  en: Leave everything to me.
+  ko: 제가 전부 처리해 줄게요.
+  ja: 私が全部処理してあげます。
+c231_Battle_Ready_2:
+  en: I'm the one to keep you safe.
+  ko: 당신은 제가 지켜줄게요.
+  ja: あなたは私が護ります。
+c231_Battle_Ready_3:
+  en: Don't worry. Just get behind me.
+  ko: 괜찮아요. 제 뒤에만 숨어 있어요.
+  ja: 心配いりません。私の後ろに隠れていてください。
+c231_Reload_1:
+  en: No time to waste.
+  ko: 시간이 없어.
+  ja: 時間がない。
+c231_Reload_2:
+  en: I must keep my darling safe...
+  ko: 그 사람을 지켜야 해.
+  ja: あの人を護らなければ。
+c231_Reload_3:
+  en: Hurry up.
+  ko: 서둘러야 해.
+  ja: 急がなければ。
+c231_Ult_Skill_Ready_1:
+  en: Time to end this.
+  ko: 끝낼 시간이야.
+  ja: これでおしまいよ。
+c231_Ult_Skill_1:
+  en: I'll chase you to the end of the world.
+  ko: 세상 끝까지 추격해 주겠어.
+  ja: この世の果てまで追撃してやる。
+c231_FullBurst_1:
+  en: I usually prefer going solo, but there's no other choice.
+  ko: 협동은 내키지 않지만, 지금은 어쩔 수 없네.
+  ja: チームプレーは気が進まないけど、今は仕方ないわ。
+c231_Kill_Monster_1:
+  en: Die.
+  ko: 죽어.
+  ja: 死んでちょうだい。
+c231_Kill_Monster_2:
+  en: Neutralized.
+  ko: 격추 완료.
+  ja: 撃墜完了。
+c231_Kill_Monster_3:
+  en: Be gone!
+  ko: 사라지도록 해.
+  ja: 消えてちょうだい。
+c231_Damage_1:
+  en: "... Ugh."
+  ko: "…읏."
+  ja: "…うっ。"
+c231_Damage_2:
+  en: No.
+  ko: 안 돼.
+  ja: ダメ。
+c231_Damage_3:
+  en: Ah!
+  ko: 아!
+  ja: あ！
+c231_Die_1:
+  en: Ugh... No... I can't leave you behind...
+  ko: 으윽… 당신을 두고 갈 순 없는… 데.
+  ja: うぅぅ…あなたを置いて死ねない…のに。
+c231_Win_1:
+  en: I knew you couldn't do it without me... right?
+  ko: "…역시 당신에겐 내가 필요해요. 그렇죠?"
+  ja: |-
+    …やっぱりあなたには私が必要ですよね？
+    そうですよね？
+c231_01_Lobby_Touch_1:
+  en: "Thank you for inviting me to the party. \nIt's an honor to be with you like
+    this."
+  ko: |-
+    파티에 초대해 주셔서 감사해요.
+    이렇게 함께 있을 수 있는 것만으로도 영광이랍니다.
+  ja: |-
+    お招きいただきありがとうございます。
+    こうして一緒にいられるだけで光栄です。
+c231_01_Lobby_Touch_2:
+  en: |-
+    There are more people here than I expected.
+    I was hoping this dress would be for your eyes only.
+  ko: |-
+    생각보다 사람이 많네요.
+    이 드레스는 당신에게만 보여주고 싶었는데 말이죠.
+  ja: |-
+    思ったより賑やかですね。
+    このドレスはあなただけに見てもらいたかったのですが。
+c231_01_Lobby_Touch_3:
+  en: |-
+    When does this bori—er... splendid party come to a close?
+    I want to be alone with you.
+  ko: |-
+    그래서 이 지루한… 아니, 화려한 파티는 언제 끝나나요?
+    당신과 둘이 있고 싶어서요.
+  ja: |-
+    それでこの退屈な…
+    いいえ、豪華なパーティーはいつ終わりますか？
+    はやく2人きりになりたいです。
+c231_01_Lobby_Touch_Love_1:
+  en: |-
+    I was so excited about partying with you all night that I couldn't sleep at all.
+    Will you put me to bed with a sweet lullaby?
+  ko: |-
+    밤새 당신과 파티를 즐길 생각에 한숨도 자지 못했어요.
+    그러니 달콤한 자장가와 함께 저를 재워주시겠어요?
+  ja: |-
+    一晩中あなたとパーティーだなんて、一睡もできませんでした。
+    だから甘い子守唄で私を眠らせてくれませんか？
+c231_01_Lobby_Touch_Love_2:
+  en: |-
+    The outfit you're wearing today suits you wonderfully.
+    What even more splendid things have you prepared for me underneath it?
+  ko: |-
+    오늘 입은 옷, 정말 잘 어울리세요.
+    …그 안에는 얼마나 더 멋진 걸 준비해두셨나요?
+  ja: |-
+    今日の格好、とってもよくお似合いです。
+    …その中にはもっと素敵なものが用意されているんですよね？
+c231_01_Lobby_Touch_Love_3:
+  en: |-
+    I was dying to know what your expression would be when you saw me in this outfit.
+    Seeing it in person is even more enchanting than I imagined.
+  ko: |-
+    계속 궁금했어요. 제가 이 옷을 입으면 당신은 어떤 표정을 지을지.
+    …역시 실물은 상상 이상으로 황홀하네요.
+  ja: |-
+    ずっと気になっていたのです。
+    これを着た私を見て、あなたがどんな顔をなさるのか。
+    …想像以上にいいですね。
+c231_01_Lobby_Stay_1:
+  en: You can go wherever you like, as long as you're within my sight.
+  ko: 멀리 가셔도 좋아요, 제 시야 안에만 들어오신다면 말이에요.
+  ja: |-
+    遠くに行ってもいいんですよ。
+    私の視界の範囲内であればですが。
+c231_01_Lobby_Stay_Love_1:
+  en: Parties are for socializing, so feel free to talk to the others, Darling...
+    so long as it isn't other women.
+  ko: |-
+    파티란 그런 거죠, 대화를 나누고 사교를 하는.
+    하지만 상대방이 여자들이라면 좀 곤란해요, 사랑스러운 분.
+  ja: |-
+    パーティーって、こういうものですよね。会話をして、交流する。
+    でも、相手が女性なのはちょっと困りますね。愛しいあなた。
+c231_01_Outpost_Touch_1:
+  en: |-
+    Is there somewhere the two of us can enjoy a little party of our own?
+    There are too many eyes on us here.
+  ko: |-
+    그래서, 저희 둘만의 파티를 즐길 곳은 어디죠?
+    여기는 보는 눈이 너무 많은 것 같은데요.
+  ja: |-
+    それで、2人のパーティーは どこで楽しみましょうか？
+    ここでは周りの目が多すぎます。
+c231_01_Outpost_Touch_2:
+  en: "Once we're newlyweds, let's build our house around here. \nNo need to soundproof
+    it. We can make the walls as thin as possible."
+  ko: |-
+    나중에 신혼집은 이쯤에 짓도록 해요.
+    방음은 필요 없으니 벽은 최대한 얇게 말이에요.
+  ja: |-
+    私たちの新居は この辺りに建てましょう。
+    防音は必要ないので、 壁はできるだけ薄く。
+c231_01_Outpost_Touch_3:
+  en: This place is filled with your scent, so it's no wonder I love it.
+  ko: 이곳엔 당신의 향기가 가득해서 너무 좋아요.
+  ja: |-
+    ここはあなたの香りで 満ちていますね。
+    大好きな場所です。
+c231_01_Gacha_Get_1:
+  en: What do you think of my dress? I've been saving it for you.
+  ko: 어떤가요? 당신을 위해 아껴둔 드레스랍니다.
+  ja: どうですか？あなたのためだけのドレスなのですが…
+c231_01_Reinforce_1:
+  en: Is this more to your liking?
+  ko: 당신의 취향에 조금 더 가까워졌을까요?
+  ja: あなたの好みに、もっと近づけましたか？
+c231_01_Reinforce_2:
+  en: Now you can rely on me more, Darling.
+  ko: 사랑스러운 분, 제게 더 의지해 주세요.
+  ja: 愛しいあなた、もっと私を頼ってください。
+c231_01_Reinforce_3:
+  en: No one but me is allowed to touch you at this party today.
+  ko: 오늘 파티에서, 저 말고는 아무도 당신을 건들지 못 할 거예요.
+  ja: 今日のパーティー、私以外は誰もあなたに触れさせない…
+c231_01_Gift_1:
+  en: Is this perhaps something to be used for our private party later?
+  ko: 이건 설마… 오늘 둘만의 파티에서 사용할 물건인가요?
+  ja: これはまさか…今日の2人きりのパーティーで使うものですか？
+c231_01_Gift_2:
+  en: I'll never forget today, ever.
+  ko: 사랑스러운 분… 전 오늘을 잊지 못 할 거예요. 평생.
+  ja: 愛しいあなた…今日という日を一生忘れません。
+c231_01_Gift_3:
+  en: I will treasure it forever, thank you.
+  ko: 평생 보물로 간직할게요, 고마워요.
+  ja: 一生の宝ものです、ありがとうございます。
+c231_01_Attractive_Up_1:
+  en: I'll be waiting for you tonight.
+  ko: 오늘 밤… 기다릴게요.
+  ja: 今晩…待っています。
+c231_01_Attractive_Up_2:
+  en: Is our private party about to begin?
+  ko: 둘만의 파티는 지금부터 시작인 거군요?
+  ja: 2人きりのパーティーは、今から始まるんですね？
+c231_01_Attractive_Up_3:
+  en: I knew you'd be waiting for me as well.
+  ko: 역시, 당신도 저와 같은 시간을 기다리고 계셨군요.
+  ja: やはり、あなたも私との時間を期待していたのですね。
+c231_01_Party_Deploy_1:
+  en: I guess this is an outdoor party.
+  ko: 야외 파티인가 보군요.
+  ja: 屋外でのパーティーのようですね。
+c231_01_Field_Touch_1:
+  en: Yes, Darling.
+  ko: 네, 사랑스러운 분.
+  ja: はい、愛しいあなた。
+c231_01_Field_Go_1:
+  en: Is that our party venue?
+  ko: 그곳이, 저희의 파티장인가요?
+  ja: あれが私たちのパーティー会場でしょうか？
+c231_01_Battle_Enter_1:
+  en: There are too many intruders at our private party.
+  ko: 둘만의 파티에, 방해꾼들이 너무 많네요.
+  ja: 2人きりのパーティーだというのに、邪魔が多すぎますね。
+c231_01_Battle_Ready_1:
+  en: Stay behind me for a moment.
+  ko: 잠시 뒤에서 기다리세요.
+  ja: 少し後ろに下がっていてください。
+c231_01_Battle_Ready_2:
+  en: I'll finish this quickly.
+  ko: 금방 끝낼게요.
+  ja: すぐに終わらせます。
+c231_01_Battle_Ready_3:
+  en: I will protect you.
+  ko: 반드시 지킬게요.
+  ja: 必ず護ります。
+c231_01_Reload_1:
+  en: I'm going to be late for the party.
+  ko: 파티 시간에 늦겠어.
+  ja: パーティーに遅れてしまう。
+c231_01_Reload_2:
+  en: I have someone waiting for me.
+  ko: 그 사람이 기다릴 거야.
+  ja: あの人が待っているわ。
+c231_01_Reload_3:
+  en: I can't disappoint him.
+  ko: 실망시키면 안 돼.
+  ja: がっかりさせられない。
+c231_01_Ult_Skill_Ready_1:
+  en: Let's finish this quickly.
+  ko: 빠르게 끝내자.
+  ja: 早く終わらせましょう。
+c231_01_Ult_Skill_1:
+  en: Get lost! This is a private party.
+  ko: 둘만의 파티를 위해, 다 사라져줄래?
+  ja: 2人きりのパーティーを邪魔しないでもらえる？
+c231_01_FullBurst_1:
+  en: There's no time, give it your all.
+  ko: 시간이 없어, 모두 쏟아내.
+  ja: 時間がない、全力で撃つのよ。
+c231_01_Kill_Monster_1:
+  en: It's almost done.
+  ko: 끝나가요.
+  ja: もうすぐ終わります。
+c231_01_Kill_Monster_2:
+  en: It's all taken care of.
+  ko: 처리했어요.
+  ja: 処理しました。
+c231_01_Kill_Monster_3:
+  en: "... What a hassle."
+  ko: "…번거로워."
+  ja: "…面倒だわ。"
+c231_01_Damage_1:
+  en: My dress...!
+  ko: "…드레스가…!"
+  ja: ドレスが…！
+c231_01_Damage_2:
+  en: Ugh...!
+  ko: 읏!
+  ja: うっ！
+c231_01_Damage_3:
+  en: Ahh...!
+  ko: 아앗…!
+  ja: あっ…！
+c231_01_Die_1:
+  en: My party with you... ugh... I'm really sorry.
+  ko: 당신과의 파티가… 읏… 정말 미안해요….
+  ja: あなたとのパーティーが…うぅっ…本当にごめんなさい…
+c231_01_Win_1:
+  en: |-
+    Now that the intruders are all gone,
+    shall we start our private party?
+  ko: |-
+    자, 방해꾼은 모두 사라졌으니
+    둘만의 파티를 시작해 볼까요?
+  ja: |-
+    さあ、邪魔者はみんな消えました。
+    2人きりのパーティーを始めましょうか？
+231_cv_ja:
+  en: 'CV: Rie Tanaka'
+  ko: 'CV : 타나카 리에'
+  ja: CV：田中理恵
+231_cv_ko:
+  en: 'CV: Lee Sae-ah'
+  ko: 'CV : 이새아'
+  ja: CV：イ・セア
+231_cv_en:
+  en: 'CV: Cat Protano'
+  ko: 'CV : 캣 프로타노'
+  ja: CV：Cat Protano

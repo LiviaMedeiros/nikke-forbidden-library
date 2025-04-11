@@ -1,0 +1,645 @@
+---
+834_name:
+  en: Rei (Tentative Name)
+  ko: 레이 (가칭)
+  ja: レイ（仮称）
+c834_description:
+  en: |-
+    Rei (Tentative Name) pilots Evangelion Mark.09.
+    Follows orders without question, and often acts and speaks in a way that suggests a complete lack of personal identity.
+    Asuka often refers to her as being from an early lot of the Ayanami series.
+  ko: |-
+    에반게리온 Mark. 09의 파일럿 [아야나미 레이 (가칭)].
+    명령에 순종적이며, 자아를 가지고 있지 않는 듯한 말과 행동을 많이 한다.
+    아스카에게는 [초기 로트]라고 불리고 있다.
+  ja: |-
+    エヴァンゲリオンMark.09のパイロット「アヤナミレイ（仮称）」。
+    命令に従順で、自我を持たないような言動が多い。
+    アスカからは「初期ロット」と呼ばれている。
+834_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_834:
+  en: Rei (Tentative Name)'s Spare Body
+  ko: 레이 (가칭) 스페어 바디
+  ja: レイ（仮称）のスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28342_name:
+  en: Maintenance and Resupply
+  ko: 정비 및 보급
+  ja: 整備補給
+28342_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all allies with a Machine Gun who have used their Burst Skills.
+    <color=#00AEFF><word_group=10073>MG heating up speed</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 직전에 버스트 스킬을 사용한 머신건 아군 전체에게
+    <color=#00AEFF>[<word_group=10073>머신건 예열 속도</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、直前にバーストスキルを使用したマシンガンの味方全体に
+    <color=#00AEFF>「<word_group=10073>マシンガン立ち上げ速度</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28341_name:
+  en: Annihilation Support
+  ko: 섬멸 지원
+  ja: 殲滅支援
+28341_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects the target when the target is in Anti A.T. Field status.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.
+    Stack count of Anti A.T. Field ▲ {description_value_03}.</color>
+    ■ Activates after landing {description_value_04} normal attack(s) when self is in Attack State status. Affects the target(s).
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+    ■ Activates when entering Full Burst. Affects all allies in Annihilation State status.
+    <color=#00AEFF><word_group=10071>Units affected</word_group> by Annihilation State's additional effect ▲ {description_value_06} for {description_value_07} sec.
+    <word_group=10072>Attack range</word_group> of Annihilation State's additional effect ▲ {description_value_08}% for {description_value_09} sec.
+    ATK ▲ {description_value_10}% of caster's ATK for {description_value_11} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 대상이 안티 AT 필드 상태라면 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]
+    [안티 AT 필드 중첩량 {description_value_03}개 ▲]</color>
+    ■ 자신이 공격 태세 상태라면 일반 공격 {description_value_04}회 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 추가 대미지]</color>
+    ■ 풀 버스트 타임 시작 시 섬멸 태세 상태인 아군 전체에게
+    <color=#00AEFF>[섬멸 태세 추가 효과 <word_group=10071>적용 대상</word_group> {description_value_06} ▲] [{description_value_07}초 유지]
+    [섬멸 태세 추가 효과 <word_group=10072>공격 범위</word_group> {description_value_08}% ▲] [{description_value_09}초 유지]
+    [시전자 기준 공격력 {description_value_10}% ▲] [{description_value_11}초 유지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、対象がアンチA.T.フィールド状態なら、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」
+    「アンチA.T.フィールドスタック量{description_value_03}個▲」</color>
+    ■自分が攻撃態勢状態なら、通常攻撃が{description_value_04}回命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の追加ダメージ」</color>
+    ■フルバーストタイムが発動した時、殲滅態勢状態の味方全体に
+    <color=#00AEFF>「殲滅態勢の追加効果<word_group=10071>適用対象</word_group> {description_value_06}▲」「{description_value_07}秒間維持」
+    「殲滅態勢の追加効果<word_group=10072>攻撃範囲</word_group> {description_value_08}％▲」「{description_value_09}秒間維持」
+    「スキル発動者基準で攻撃力{description_value_10}％▲」「{description_value_11}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18343_name:
+  en: Attack State
+  ko: 공격 태세
+  ja: 攻撃態勢
+18343_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attack State:
+    Attack Damage ▲ {description_value_01}% for {description_value_02} sec.
+    ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격 태세] :
+    [공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 버스트 스킬 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃態勢」：
+    「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のバーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+830_name:
+  en: Asuka
+  ko: 아스카
+  ja: アスカ
+831_name:
+  en: Rei
+  ko: 레이
+  ja: レイ
+832_name:
+  en: Mari
+  ko: 마리
+  ja: マリ
+833_name:
+  en: Misato
+  ko: 미사토
+  ja: ミサト
+c834_Lobby_Touch_1:
+  en: How do I get to the library?
+  ko: 도서관, 어떻게 가?
+  ja: 図書館、どうやって行くの？
+c834_Lobby_Touch_2:
+  en: Even here, there's music.
+  ko: 여기에서도 음악이 나오네.
+  ja: ここでも音楽が流れてる。
+c834_Lobby_Touch_3:
+  en: The happiness of not having to board an Eva...
+  ko: 에바에 타지 않는 행복….
+  ja: エヴァに乗らない幸せ…
+c834_Lobby_Touch_Love_1:
+  en: I'm happy to be with everyone.
+  ko: 모두와 함께 있을 수 있어서 기뻐.
+  ja: みんなと一緒にいられて、嬉しい。
+c834_Lobby_Touch_Love_2:
+  en: It's nice not having to ride in the Eva.
+  ko: 더 이상 에바에 타지 않아도 돼.
+  ja: エヴァに乗らなくてもいいようにする。
+c834_Lobby_Touch_Love_3:
+  en: I'll protect you too.
+  ko: 나도 지킬게.
+  ja: 私も守る。
+c834_Lobby_Stay_1:
+  en: Hm?
+  ko: 응?
+  ja: 何？
+c834_Lobby_Stay_Love_1:
+  en: Is there anything I can do?
+  ko: 할 수 있는 일 있어?
+  ja: できることある？
+c834_Outpost_Touch_1:
+  en: So this is the village where you and the Nikkes reside...
+  ko: 니케와 너의 마을….
+  ja: ここがあなたたちの村？
+c834_Outpost_Touch_2:
+  en: Is there work to do here as well?
+  ko: 여기에도 일이 있어?
+  ja: ここにも仕事があるの？
+c834_Outpost_Touch_3:
+  en: Did the Raptures break this too?
+  ko: 이것도 랩쳐 때문에 망가진거야?
+  ja: これもラプチャーに壊されたの？
+c834_Gacha_Get_1:
+  en: My name? I have no idea.
+  ko: 이름...? 모르겠어.
+  ja: 名前…？わからない。
+c834_Reinforce_1:
+  en: What does strength mean?
+  ko: 강함이라는 게, 뭐야?
+  ja: 強さって、何？
+c834_Reinforce_2:
+  en: This feeling...
+  ko: 이런 느낌….
+  ja: この感じは…？
+c834_Reinforce_3:
+  en: I, too, can do this.
+  ko: 나도 할 수 있어.
+  ja: 私もできる。
+c834_Gift_1:
+  en: A gift?
+  ko: 선물?
+  ja: プレゼント？
+c834_Gift_2:
+  en: Thank you. Is that the right way to say it?
+  ko: 고마워. 이렇게 말하는 게 맞아?
+  ja: ありがとう。これで合ってる？
+c834_Gift_3:
+  en: Is this happiness?
+  ko: 이게, 기쁨?
+  ja: これが、嬉しい？
+c834_Attractive_Up_1:
+  en: I want everyone to have a good time together.
+  ko: 모두가 함께 놀고 싶어.
+  ja: みんなと一緒に、遊びたい。
+c834_Attractive_Up_2:
+  en: A handshake is a spell intended to get closer to someone.
+  ko: 악수. 친해지기 위한 주문.
+  ja: 握手。仲良くなるための、おまじない。
+c834_Attractive_Up_3:
+  en: Here too... is a place I will protect.
+  ko: 여기도... 내가 지켜야 할 곳이야.
+  ja: ここも…私が守る場所。
+c834_Party_Deploy_1:
+  en: Evangelion... is gone.
+  ko: 에반게리온이, 없어.
+  ja: エヴァが、いない。
+c834_Field_Touch_1:
+  en: Okay.
+  ko: 응.
+  ja: ええ。
+c834_Field_Go_1:
+  en: Command confirmed.
+  ko: 명령 확인.
+  ja: 命令確認。
+c834_Battle_Enter_1:
+  en: Ready for battle.
+  ko: 전투 준비.
+  ja: 戦闘準備。
+c834_Battle_Ready_1:
+  en: Awaiting your command.
+  ko: 명령.
+  ja: 命令。
+c834_Battle_Ready_2:
+  en: Got it.
+  ko: 알았어.
+  ja: 分かった。
+c834_Battle_Ready_3:
+  en: Deploying.
+  ko: 출격.
+  ja: 出撃。
+c834_Reload_1:
+  en: Reloading.
+  ko: 장전 중.
+  ja: 装填中。
+c834_Reload_2:
+  en: Wait.
+  ko: 기다려.
+  ja: 待って。
+c834_Reload_3:
+  en: Reload.
+  ko: 리로드.
+  ja: リロード。
+c834_Ult_Skill_Ready_1:
+  en: Ready for deployment.
+  ko: 출격 준비 완료.
+  ja: 出撃準備完了。
+c834_Ult_Skill_1:
+  en: I won't lose.
+  ko: 지지 않아.
+  ja: 負けない。
+c834_FullBurst_1:
+  en: I will protect everyone.
+  ko: 모두를 지킬 거야.
+  ja: みんなを守る。
+c834_Kill_Monster_1:
+  en: Switching targets.
+  ko: 목표 변경.
+  ja: 目標変更。
+c834_Kill_Monster_2:
+  en: Target eliminated.
+  ko: 목표 섬멸.
+  ja: 目標殲滅。
+c834_Kill_Monster_3:
+  en: Mission complete.
+  ko: 명령 완수.
+  ja: 命令達成。
+c834_Damage_1:
+  en: Ugh...
+  ko: 윽….
+  ja: うっ…
+c834_Damage_2:
+  en: Mm...
+  ko: 음….
+  ja: うう…
+c834_Damage_3:
+  en: I've been attacked.
+  ko: 공격받았어.
+  ja: 攻撃された。
+c834_Die_1:
+  en: What would the original Rei Ayanami do in a situation like this?
+  ko: 이럴 때 아야나미 레이라면 어떻게 하지?
+  ja: こんな時、綾波レイならどうするの？
+c834_Win_1:
+  en: I won.
+  ko: 이겼어.
+  ja: 勝った。
+c834_02_Lobby_Touch_1:
+  en: I've learned how to play an instrument to a degree.
+  ko: 나, 악기를 조금 배웠어.
+  ja: 楽器、少し習ったの。
+c834_02_Lobby_Touch_2:
+  en: You look happy. What's going on?
+  ko: 즐거워 보여. 뭐야?
+  ja: 楽しそう。何？
+c834_02_Lobby_Touch_3:
+  en: The Nikkes have told me that peace means we can throw a party anytime.
+  ko: "니케들이 가르쳐 줬어. \n언제든지 파티를 열 수 있는 게 평화라고."
+  ja: "ニケたちが教えてくれた。 \nパーティーを開けるのは、平和の証。"
+c834_02_Lobby_Touch_Love_1:
+  en: Would you like to hear me play?
+  ko: 연주, 들어 볼래?
+  ja: 演奏、聴いてみる？
+c834_02_Lobby_Touch_Love_2:
+  en: Once we've gotten rid of the Raptures, I'll return and continue practicing.
+  ko: 랩쳐를 제거하면, 돌아와서 계속 연습할 거야.
+  ja: ラプチャーを倒したら、また練習する。
+c834_02_Lobby_Touch_Love_3:
+  en: It's still warm.
+  ko: 따끈따끈해.
+  ja: ぽかぽかする。
+c834_02_Lobby_Stay_1:
+  en: I'm practicing.
+  ko: 연습하고 있어.
+  ja: 練習してる。
+c834_02_Lobby_Stay_Love_1:
+  en: Will there be another concert next time...?
+  ko: 다음...에도 음악회가 있을까?
+  ja: 次…演奏はあるの？
+c834_02_Outpost_Touch_1:
+  en: A cat?
+  ko: 고양이?
+  ja: 猫？
+c834_02_Outpost_Touch_2:
+  en: Are there any children in this place?
+  ko: 아기는 있어?
+  ja: 赤ちゃんはいる？
+c834_02_Outpost_Touch_3:
+  en: Is it my job to protect this place?
+  ko: 여기를 지키는 게 일?
+  ja: ここを守るのが仕事？
+c834_02_Gacha_Get_1:
+  en: Your clothes are soft.
+  ko: 옷, 부드러워.
+  ja: この服、フカフカする。
+c834_02_Reinforce_1:
+  en: It's the same as training, just with a different outfit.
+  ko: 훈련, 하지만 옷은 달라.
+  ja: 訓練、でも服は違う。
+c834_02_Reinforce_2:
+  en: I'm used to it.
+  ko: 익숙해.
+  ja: 慣れてる。
+c834_02_Reinforce_3:
+  en: I'm stronger now.
+  ko: 나, 강해졌어.
+  ja: 強くなった。
+c834_02_Gift_1:
+  en: So sparkly.
+  ko: 반짝거려.
+  ja: キラキラしてる。
+c834_02_Gift_2:
+  en: Is this for me?
+  ko: 주는 거야?
+  ja: くれるの？
+c834_02_Gift_3:
+  en: A performance, in return for the gift.
+  ko: 연주, 선물의 답례.
+  ja: 演奏、プレゼントのお礼。
+c834_02_Attractive_Up_1:
+  en: Everyone, play some sounds... I mean, music.
+  ko: 모두 소리를 연주해…… 그래, 음악.
+  ja: みんなで、音を奏でる…そう、音楽。
+c834_02_Attractive_Up_2:
+  en: Performing brings me such joy.
+  ko: 연주. 즐거워.
+  ja: 演奏。楽しい。
+c834_02_Attractive_Up_3:
+  en: May I keep practicing?
+  ko: 연습. 계속해도 돼?
+  ja: 練習。続けてもいい？
+c834_02_Party_Deploy_1:
+  en: Time to act.
+  ko: 행동 시간.
+  ja: 行動の時間。
+c834_02_Field_Touch_1:
+  en: Where are the enemies?
+  ko: 적, 어디에 있어?
+  ja: 敵は、どこ？
+c834_02_Field_Go_1:
+  en: I can't hear their laughter, nor the music...
+  ko: 모두의 웃음소리와 음악... 안 들려.
+  ja: みんなの笑い声と音楽…聞こえない。
+c834_02_Battle_Enter_1:
+  en: Commencing mission.
+  ko: 미션 시작.
+  ja: 状況開始。
+c834_02_Battle_Ready_1:
+  en: Got it.
+  ko: 그래.
+  ja: 分かった。
+c834_02_Battle_Ready_2:
+  en: Into the fray.
+  ko: 전투 합류.
+  ja: 戦闘合流。
+c834_02_Battle_Ready_3:
+  en: Ready.
+  ko: 준비 완료.
+  ja: 準備完了。
+c834_02_Reload_1:
+  en: Reloading immediately.
+  ko: 바로 장전.
+  ja: すぐに装填。
+c834_02_Reload_2:
+  en: Out of bullets.
+  ko: 탄환 없어.
+  ja: 残弾、ゼロ。
+c834_02_Reload_3:
+  en: Reloading bullets.
+  ko: 탄환 보충.
+  ja: 弾丸補充。
+c834_02_Ult_Skill_Ready_1:
+  en: Ready signal.
+  ko: 준비 완료의 신호.
+  ja: 準備完了の合図。
+c834_02_Ult_Skill_1:
+  en: Witness my strength.
+  ko: 나의 힘.
+  ja: 私の力。
+c834_02_FullBurst_1:
+  en: I'll take them all down.
+  ko: 전부 해치울게.
+  ja: 全部、片付ける。
+c834_02_Kill_Monster_1:
+  en: Target eliminated.
+  ko: 목표 격파.
+  ja: 目標撃破。
+c834_02_Kill_Monster_2:
+  en: Let's keep going.
+  ko: 계속.
+  ja: 続けて。
+c834_02_Kill_Monster_3:
+  en: Yet another enemy...
+  ko: 또 적...
+  ja: また敵…
+c834_02_Damage_1:
+  en: Ugh...
+  ko: 윽……
+  ja: くっ…！
+c834_02_Damage_2:
+  en: Ahh...
+  ko: 으윽……
+  ja: ううっ……
+c834_02_Damage_3:
+  en: My instrument...!
+  ko: 악기……
+  ja: 楽器が…
+c834_02_Die_1:
+  en: I wanted to be with everyone...
+  ko: 나, 모두와 함께하고 싶었는데....
+  ja: みんなと一緒に、いたかった…
+c834_02_Win_1:
+  en: We won, so shouldn't we be celebrating?
+  ko: 이겼을 때에는 축하?
+  ja: 勝った時はお祝い？
+834_cv_ja:
+  en: 'CV: Megumi Hayashibara'
+  ko: 'CV : 하야시바라 메구미'
+  ja: CV：林原めぐみ
+834_cv_ko:
+  en: 'CV: Megumi Hayashibara'
+  ko: 'CV : 하야시바라 메구미'
+  ja: CV：林原めぐみ
+834_cv_en:
+  en: 'CV: Megumi Hayashibara'
+  ko: 'CV : 하야시바라 메구미'
+  ja: CV：林原めぐみ

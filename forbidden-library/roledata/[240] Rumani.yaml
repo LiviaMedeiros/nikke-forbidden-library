@@ -1,0 +1,560 @@
+---
+240_name:
+  en: Rumani
+  ko: 루마니
+  ja: ルマニ
+c240_description:
+  en: |-
+    A member of the Nepenthe Squad.
+    She serves as a personal trainer responsible for enhancing human muscle strength and overall physique.
+    As the lead trainer at the prominent Body X Body Gym, she has gained both popularity and a large client base among its members.
+  ko: |-
+    라이프 토닉 부대 소속의 니케.
+    인간의 근력 향상 및, 몸을 가꾸는 것을 담당하고 있다. 쉽게 말하면 헬스 트레이너.
+    거대 헬스 센터 [바디x바디]의 대표 트레이너로, 수많은 회원을 거느리고 있는 인기스타.
+  ja: "ライフトニック部隊に所属するニケ。\n人間の筋力向上およびボディメイクを担当している。 \n簡単にいえばジムのインストラクター。\n大手ジム「ボディ×ボディ」の代表インストラクターで、\n多くの会員を抱える人気スター。"
+240_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50240:
+  en: Rumani's Spare Body
+  ko: 루마니 스페어 바디
+  ja: ルマニのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+22402_name:
+  en: Muscle Time
+  ko: 머슬 타임
+  ja: マッスルタイム
+22402_description:
+  en: |-
+    ■ Activates when hitting a target's Parts for {description_value_01} time(s). Affects all allies.
+    <color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 대상 파츠 {description_value_01}회 명중 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10011>파츠 대미지</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■対象のパーツに{description_value_01}回命中した時、味方全体に
+    <color=#00AEFF>「<word_group=10011>パーツダメージ</word_group>{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22401_name:
+  en: Muscle Up
+  ko: 머슬 업
+  ja: マッスルアップ
+22401_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Muscle Up: Max HP ▲ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
+    ■ Activates when hitting a target with Full Charge during Full Burst Time. Affects the target.
+    <color=#00AEFF>Taunt for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[머슬 업 : 최대 체력 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>
+    ■ 풀 버스트 타임 지속 시간 중 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[도발] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「マッスルアップ：最大HP{description_value_01}％▲」「{description_value_02}スタック」「{description_value_03}秒間維持」</color>
+    ■フルバーストタイムの持続中にフルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「挑発」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12403_name:
+  en: Almighty Muscle
+  ko: 머슬 올마이티
+  ja: マッスルオールマイティー
+12403_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Normal Attack Damage <word_group=10029>Multiplier</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when Muscle Up is fully stacked. Affects self.
+    <color=#00AEFF>Damage Taken ▼ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[최대 체력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[일반 공격 대미지 {description_value_03}% <word_group=10029>배율</word_group> ▲] [{description_value_04}초 유지]</color>
+    ■ 자신이 머슬 업 최대 중첩 상태라면 자신에게
+    <color=#00AEFF>[받는 대미지 {description_value_05}% ▼] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「通常攻撃ダメージ{description_value_03}％<word_group=10029>倍率</word_group>▲」「{description_value_04}秒間維持」</color>
+    ■自分がマッスルアップのフルスタック状態なら、自分に
+    <color=#00AEFF>「受けるダメージ{description_value_05}％▼」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+241_name:
+  en: Epinel
+  ko: 에피넬
+  ja: エピネル
+242_name:
+  en: Folkwang
+  ko: 폴크방
+  ja: フォルクヴァン
+c240_Lobby_Touch_1:
+  en: |-
+    I have to work out every single day.
+    If I don't, I'll lose definition in my muscles.
+  ko: |-
+    저는 하루도 빠짐없이 운동을 해야 돼요.
+    안 그러면 근손실 오거든요.
+  ja: |-
+    毎日休まず運動しないとダメなんです。
+    じゃないと筋力が落ちてしまうので。
+c240_Lobby_Touch_2:
+  en: |-
+    You want to learn how to work out?
+    You’re not just going to give up after a few days, are you?
+  ko: |-
+    운동을 배우고 싶다고요?
+    …작심삼일은 아니겠죠?
+  ja: |-
+    運動を始めたい？
+    …三日坊主にならないですよね？
+c240_Lobby_Touch_3:
+  en: |-
+    I was in the middle of a body check.
+    Have I put on some weight?
+  ko: |-
+    바디 체크 중이었어요.
+    군살이 좀 붙었나?
+  ja: |-
+    ボディチェック中でした。
+    ちょっと太ったかな？
+c240_Lobby_Touch_Love_1:
+  en: |-
+    Gym Rat, you have a natural talent for working out.
+    How about becoming a trainer with me?
+  ko: |-
+    회원님, 운동에 소질 있으신데
+    저랑 같이 트레이너 하시는 건 어때요?
+  ja: |-
+    会員さん、運動神経いいですよね。
+    私と一緒にトレーナーになりませんか？
+c240_Lobby_Touch_Love_2:
+  en: If you're okay with it, how about we work out together this evening?
+  ko: 회원님만 괜찮으시면… 오늘 저녁에 같이 운동하실래요?
+  ja: |-
+    会員さんさえよければ…
+    今夜一緒に運動しませんか？
+c240_Lobby_Touch_Love_3:
+  en: I've never thought anyone's body was more aesthetic than mine, but yours is
+    truly amazing.
+  ko: 제 몸보다 좋다고 생각한 사람은 회원님이 처음이에요.
+  ja: 私よりいい体だなって思ったのは、会員さんが初めてです。
+c240_Lobby_Stay_1:
+  en: |-
+    When will you be arriving, Gym Rat? My schedule is quite busy, you know.
+    Each time you're late, I'll add an extra set of weights.
+  ko: |-
+    회원님, 저 바쁜데 언제 오실 건가요?
+    늦게 오실 때마다 웨이트 한세트씩 추가에요.
+  ja: |-
+    会員さん、私忙しいんですけどいつ戻るんですか？
+    遅れるたびに、トレーニングを1セットずつ追加です。
+c240_Lobby_Stay_Love_1:
+  en: |-
+    I came here because I wanted to work out with you. Where are you?
+    Hurry up. I'll be lifting weights while I wait.
+  ko: |-
+    회원님이랑 같이 운동하고 싶어서 온 건데 어디 계세요.
+    얼른 오세요, 웨이트 하면서 기다릴게요.
+  ja: |-
+    会員さんと一緒に運動したくて来たのに…どこにいるんですか？
+    早く来てください。トレーニングしながら待ってます。
+c240_Outpost_Touch_1:
+  en: Is there no place that sells protein bars around here?
+  ko: 이곳엔 프로틴 바 파는 곳 없나요?
+  ja: プロテインバーを売ってるお店は ありますか？
+c240_Outpost_Touch_2:
+  en: I'm always at the gym, so if you need me, that's where you can find me.
+  ko: |-
+    저는 항상 체육관에 있으니,
+    제가 필요하면 체육관으로 오세요.
+  ja: |-
+    私はいつも体育館にいますので、
+    用事がある時は そちらに来てください。
+c240_Outpost_Touch_3:
+  en: |-
+    Have you seen Folkwang and Epinel?
+    We planned to work out today, but I don't see them.
+  ko: |-
+    폴크방이랑 에피넬 못 보셨나요?
+    오늘같이 운동하기로 했는데, 안보이네요.
+  ja: |-
+    フォルクヴァンとエピネルを 見ませんでしたか？
+    今日一緒に運動する約束なのに、 見つからないんです。
+c240_Gacha_Get_1:
+  en: |-
+    I'm Rumani, your personal trainer.
+    Are you ready to break a sweat with me?
+  ko: |-
+    회원님의 몸을 책임질 트레이너 루마니에요.
+    저와 함께 운동 할 준비 되셨죠?
+  ja: |-
+    あなたの健康をサポートするトレーナー、ルマニです。
+    会員さん、一緒に運動する準備はよろしいですか？
+c240_Reinforce_1:
+  en: "... Oh, my abs have become a bit more visible."
+  ko: "…오, 복근이 조금 더 선명해 진 것 같아요."
+  ja: "…あっ、腹筋がさらにくっきりしました。"
+c240_Reinforce_2:
+  en: |-
+    How do I look?
+    I toned up quite a bit, don't you think?
+  ko: |-
+    어때요? 제 몸.
+    바디 라인이 조금 더 좋아졌죠?
+  ja: |-
+    私の体、どうですか？
+    ボディラインが美しくなったでしょう？
+c240_Reinforce_3:
+  en: |-
+    I feel more energetic today.
+    It's a good time for a full-body workout...
+  ko: |-
+    오늘따라 힘이 더 나는 것 같은데요?
+    이럴 때 전신운동을….
+  ja: |-
+    今日はいつも以上に調子がいいんです。
+    こういう時は、全身運動を…
+c240_Gift_1:
+  en: |-
+    I haven't prepared anything to give in return.
+    Would you like an unlimited Body X Body Gym membership as a gift?
+  ko: |-
+    저는 준비한 게 없는데…
+    [바디X바디] 센터 무제한 이용권이라도 드릴까요?
+  ja: |-
+    その、何もお返しを用意してなくて…
+    よければ、「ボディ×ボディ」の利用チケットでもいかがですか？
+c240_Gift_2:
+  en: |-
+    A gift? Thank you.
+    ... You're not doing this to avoid sending me photos of your diet like I asked you to, are you?
+  ko: |-
+    선물인가요? 감사해요.
+    …설마 식단 사진 보내기 싫어서 그런 건 아니죠?
+  ja: |-
+    プレゼントですか？ありがとうございます。
+    …でも、食事チェックの写真はちゃんと送ってくださいね。
+c240_Gift_3:
+  en: You coming to the gym as often as you do is the best gift I could ask for.
+  ko: |-
+    회원님이 센터에 자주 운동하러 와주시는 게
+    저에겐 더 큰 선물이에요.
+  ja: |-
+    会員さんがジムに来てくれることが、
+    私にとっては一番のプレゼントですけどね？
+c240_Attractive_Up_1:
+  en: |-
+    I can't concentrate on my workout because of you.
+    This has never happened before.
+  ko: |-
+    회원님 때문에 운동에 집중을 못 하겠어요.
+    이런 적 없었는데.
+  ja: |-
+    会員さんのせいで、運動に集中できません。
+    こんなこと、今までなかったのに。
+c240_Attractive_Up_2:
+  en: |-
+    Everything about you is starting to do it for me, Gym Rat.
+    Including your muscles.
+  ko: |-
+    …회원님이 제 취향으로 변하고 있어요.
+    몸도 근육도 모든 게 다.
+  ja: |-
+    …会員さん、ますます私好みになってますよね。
+    体も筋肉も、すべて。
+c240_Attractive_Up_3:
+  en: |-
+    Would you like to have dinner together tonight?
+    Forget about healthy foods, we can treat ourselves to something delicious.
+  ko: |-
+    회원님, 오늘 저녁 같이 먹으실래요?
+    식단 말고 맛있는 거요.
+  ja: |-
+    会員さん、一緒に夕食でもどうですか？
+    ダイエットメニューではなく、おいしいものを食べましょう。
+c240_Party_Deploy_1:
+  en: Do you need some training?
+  ko: 제 트레이닝이 필요하신가요?
+  ja: 私のトレーニングが必要ですか？
+c240_Field_Touch_1:
+  en: Did you call?
+  ko: 부르셨어요?
+  ja: お呼びですか？
+c240_Field_Go_1:
+  en: Let's move on to lunges, Gym Rat.
+  ko: 회원님, 런지로 이동하죠.
+  ja: 会員さん、筋トレしながら移動しましょう。
+c240_Battle_Enter_1:
+  en: How about we do this battle in a squat position?
+  ko: 이번 전투는 스쾃 자세로 해볼까.
+  ja: 今回はスクワットの姿勢で戦ってみようかな。
+c240_Battle_Ready_1:
+  en: We'll go straight to the gym after, right?
+  ko: 끝나고 바로 운동 가는 거죠?
+  ja: 終わったら、さくっとジムに行きませんか？
+c240_Battle_Ready_2:
+  en: Raptures' muscles are... Oh, never mind.
+  ko: 랩쳐는 근육이… 아니에요.
+  ja: ラプチャーは筋肉が…何でもありません。
+c240_Battle_Ready_3:
+  en: Darn, I don't even have time to get a workout in.
+  ko: 하아, 운동할 시간도 없는데.
+  ja: はぁ、運動する時間もないなんて。
+c240_Reload_1:
+  en: Reload.
+  ko: 리로드.
+  ja: リロード。
+c240_Reload_2:
+  en: How are my arm muscles looking?
+  ko: 제 팔근육 어때요?
+  ja: この腕の筋肉、どうですか？
+c240_Reload_3:
+  en: Reloading now.
+  ko: 장전 중이에요.
+  ja: 装填中です。
+c240_Ult_Skill_Ready_1:
+  en: This is quite enough.
+  ko: 회원님, 이 정도면 충분해요.
+  ja: 会員さん、もう十分ですよ。
+c240_Ult_Skill_1:
+  en: Today's workout is complete!
+  ko: 오늘 운동 완료!
+  ja: 今日の運動、完了！
+c240_FullBurst_1:
+  en: LIGHT WEIGHT, BABY!
+  ko: LIGHT WEIGHT BABY!
+  ja: LIGHT WEIGHT BABY!
+c240_Kill_Monster_1:
+  en: Upper body workout complete.
+  ko: 상체 운동 끝.
+  ja: 上半身の運動、完了。
+c240_Kill_Monster_2:
+  en: Let's move onto a lower-body workout.
+  ko: 하체 운동 시작.
+  ja: 下半身の運動、開始。
+c240_Kill_Monster_3:
+  en: One more set!
+  ko: 한 세트 더!
+  ja: もう1セット！
+c240_Damage_1:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c240_Damage_2:
+  en: Eeep!
+  ko: 앗!
+  ja: はっ！
+c240_Damage_3:
+  en: Huut!
+  ko: 흐읏!
+  ja: ふぅっ！
+c240_Die_1:
+  en: I feel like I might be losing muscle mass...
+  ko: 근손실 날 것 같은데….
+  ja: 筋力が衰えた…？
+c240_Win_1:
+  en: |-
+    Whew, I won.
+    Oh, right! Gym Rat, don't forget to stretch.
+  ko: |-
+    후우, 이겼다.
+    아, 맞다. 회원님, 스트레칭해야 해요.
+  ja: |-
+    ふぅ、勝った。
+    あ、そうだ会員さん、戦闘後のストレッチもお忘れなく！
+240_cv_ja:
+  en: 'CV: Hinako Takahashi'
+  ko: 'CV : 타카하시 히나코'
+  ja: CV：高橋雛子
+240_cv_ko:
+  en: 'CV: Son Seon-yeong'
+  ko: 'CV : 손선영'
+  ja: CV：ソン・ソニョン
+240_cv_en:
+  en: 'CV: Elsie Lovelock'
+  ko: 'CV : 엘시 러블록'
+  ja: CV：Elsie Lovelock

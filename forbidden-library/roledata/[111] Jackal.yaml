@@ -1,0 +1,517 @@
+---
+111_name:
+  en: Jackal
+  ko: 자칼
+  ja: ジャッカル
+c111_description:
+  en: |-
+    A Nikke subordinate of the Exotic Squad.
+    Crow's loyal lackey.
+    Fully prepared to do Crow's bidding at any given moment.
+  ko: |-
+    이그조틱 스쿼드 소속의 니케.
+    크로우의 충직한 개.
+    크로우가 시키는 일이라면 뭐든 물어뜯을 준비가 되어있다.
+  ja: |-
+    エキゾチック部隊所属のニケ。
+    クロウの忠犬。
+    クロウに頼まれれば、何にでも飛びつく準備ができている。
+111_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50111:
+  en: Jackal's Spare Body
+  ko: 자칼 스페어 바디
+  ja: ジャッカルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21112_name:
+  en: Jumpin' Jackal Flash
+  ko: 치얼업 자칼
+  ja: チアーアップジャッカル
+21112_description_1:
+  en: |-
+    ■ Activates when entering battle. Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF><word_group=10044>Equally shares damage taken</word_group>  for {description_value_02} sec.
+    DEF ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10044>받는 대미지 균등 분배</word_group>] [{description_value_02}초 유지]
+    [방어력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分と自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「<word_group=10044>受けるダメージ均等分配</word_group>」「{description_value_02}秒間維持」
+    「防御力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21111_name:
+  en: Happy Jackal
+  ko: 해피 자칼
+  ja: ハッピージャッカル
+21111_description:
+  en: |-
+    ■ Activates when attacked {description_value_01} time(s). Affects {description_value_02} enemy unit(s) with the highest <word_group=10025>final</word_group> Max HP.
+    <color=#00AEFF>Damage Taken ▲ {description_value_03}% for {description_value_04} sec.
+    ATK ▼ {description_value_05}% for {description_value_06} sec.</color>
+  ko: "■ {description_value_01}회 피격 시 <word_group=10025>최종</word_group> 최대 체력이 가장
+    높은 적 {description_value_02}기에게\n<color=#00AEFF>[받는 대미지 {description_value_03}%
+    ▲] [{description_value_04}초 유지] \n[공격력 {description_value_05}% ▼] [{description_value_06}초
+    유지]</color>"
+  ja: |-
+    ■{description_value_01}回攻撃を受けた時、
+    <word_group=10025>最終</word_group>最大HPが最も高い敵{description_value_02}機に
+    <color=#00AEFF>「受けるダメージ{description_value_03}％▲」「{description_value_04}秒間維持」
+    「攻撃力{description_value_05}％▼」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11113_name:
+  en: Crazy Jackal
+  ko: 크레이지 자칼
+  ja: クレイジージャッカル
+11113_description_1:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10069>Burst Skill damage of skills with "Affects 1 enemy unit(s)" in the description</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    DEF ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10069>대상 설명이 '~ 적 1기에게'로 끝나는 버스트 스킬 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]
+    [방어력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10069>スキル対象の説明部分が『～敵1機に』で
+    終わるバーストスキルダメージ</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」
+    「防御力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+110_name:
+  en: Crow
+  ko: 크로우
+  ja: クロウ
+112_name:
+  en: Viper
+  ko: 바이퍼
+  ja: バイパー
+c111_Lobby_Touch_1:
+  en: Hehe! Hehehe! *Gasp, cough, cough*
+  ko: 헤헤헤! 헤헥 켈룩케룩케룩!
+  ja: |-
+    へへへへへへっ、アハハっ…
+    ウッ、んっ。
+    アハアハッ…アハっ！
+c111_Lobby_Touch_2:
+  en: The leader said I'm acting like a dog. That's a compliment, right?
+  ko: |-
+    대장이 나한테 개 같대!
+    이거 좋은 거지, 맞지!
+  ja: |-
+    隊長が、私のことを
+    イヌみたいだって！
+    これっていいことだよね？ねっ？
+c111_Lobby_Touch_3:
+  en: I had a great day. I ate a lot, and got to fire a whole lotta artillery.
+  ko: |-
+    밥도 많이 먹고 총도 많이 쐈어!
+    오늘 엄청 행복해에!
+  ja: |-
+    ご飯もたーくさん食べて、銃もたくさん撃ったよ！
+    今日はすっごく幸せ～！
+c111_Lobby_Touch_Love_1:
+  en: If anyone is giving you a hard time, let me know and I'll bite their heads off!
+  ko: "싫어하는 거 있으면 말해! \n내가 다 물어뜯어줄게!"
+  ja: |-
+    嫌いなものがあったら言って！
+    私が全部噛みちぎってあげる！
+c111_Lobby_Touch_Love_2:
+  en: Hehehe! It's always a blast hanging out with you, Commander.
+  ko: "히히힛! \n지휘관이랑 있으면 엄청 재밌어!"
+  ja: |-
+    イヒヒヒ！指揮官といると
+    すっごく楽しいよ！
+c111_Lobby_Touch_Love_3:
+  en: I'll wait for you like a faithful guard dog. Aren't I awesome?
+  ko: |-
+    집 지키는 똥개처럼 지휘관 기다리고 있었어!
+    나 잘했지이-!
+  ja: |-
+    家を守るワンちゃんみたいに、指揮官のこと待ってたよ！
+    偉いでしょー？
+c111_Lobby_Stay_1:
+  en: Commander... why aren't you doing anything? I'm bored stiff!
+  ko: "지휘과안… 왜 아무것도 안 해? \n나 심심해에-"
+  ja: |-
+    指揮官…なんで何もしないの？
+    退屈だよぉ～
+c111_Lobby_Stay_Love_1:
+  en: Come and play with me, Commander, or I'll give you a chomp. Hehe.
+  ko: |-
+    지휘관 놀자아-
+    헤헤, 자꾸 이렇게 안 놀아 주면 물어버리는 수가 있다아?
+  ja: |-
+    指揮官、遊ぼうよぉ～
+    ヘヘ、遊んでくれないと、噛みついちゃうぞ？
+c111_Outpost_Touch_1:
+  en: Captain asked me to take you to Trandy Bar. No, was it Trendy Bar? Who cares.
+    Let's go!
+  ko: |-
+    대장이 모덩 바? 모던 바?
+    여튼 거기로 데리고 오래!
+  ja: |-
+    隊長が、モタンバ？ モダンバー？
+    そこに連れてこいって！
+c111_Outpost_Touch_2:
+  en: |-
+    I've never been anywhere as great as this! Tasty food and fun abound!
+    Can I stay here as long as I like?
+  ko: |-
+    여긴 좋네! 먹을 것도 많고 놀 것도 많아!
+    나 계속 여기 있어도 돼?
+  ja: |-
+    ここイイねー！
+    食べ物も遊ぶ場所もいっぱい！
+    ずっとここにいてもいい？
+c111_Outpost_Touch_3:
+  en: What if I shoot here? Rat-tat-tat! HAHAHA!
+  ko: |-
+    여기서 총 쏘고 놀면 엄청 재미있을 거 같아!
+    투두두- 투두두두두! 히히힛!
+  ja: |-
+    ここで銃を撃って遊んだら、 すっごく楽しそう！
+    ドドドッ、 ドドドドドッ！
+    ヒヒヒ！
+c111_Gacha_Get_1:
+  en: Hehehe! I'll rip out the throats of all your enemies!
+  ko: 헤헤헤! 누구를 개처럼 물어뜯으면 돼?
+  ja: へへへ！誰をイヌみたいに噛みちぎればいい？
+c111_Reinforce_1:
+  en: I'm so much stronger!
+  ko: 강해졌다아!
+  ja: 強くなったぁ！
+c111_Reinforce_2:
+  en: Look! I've gotten my teeth sharpened!
+  ko: 봐봐! 내 이빨 더 단단해졌어!
+  ja: |-
+    見てー！
+    歯がもっと頑丈になったよ！
+c111_Reinforce_3:
+  en: Whose throat will my fangs sink into?
+  ko: 이제 누굴 물어뜯으면 돼?
+  ja: 次は誰を噛みちぎればいい？
+c111_Gift_1:
+  en: Is this for me? Really?
+  ko: 이거 나 주는 거야? 진짜?
+  ja: これ、私にくれるの？ホントに？
+c111_Gift_2:
+  en: You are so nice, Commander!
+  ko: 지휘관, 진짜 좋은 인간이구나!
+  ja: 指揮官、ホントにいい人間なんだね！
+c111_Gift_3:
+  en: All these are mine! Am I dreaming?
+  ko: 이게 다 내 거야! 행복해에-!
+  ja: |-
+    これぜーんぶ私のもの！
+    幸せだぁ～！
+c111_Attractive_Up_1:
+  en: |-
+    Commander, you're awesome!
+    But Crow is my owner. If she wasn't, I'd be by your side!
+  ko: "지휘관 좋아! \n대장이 없었으면 지휘관을 주인으로 삼았을 거야!"
+  ja: |-
+    指揮官好き！
+    隊長がいなかったら、指揮官をご主人様にしてたよ！
+c111_Attractive_Up_2:
+  en: |-
+    Can we spend every day together?
+    I'd love that!
+  ko: |-
+    지휘관이 없으면 심심해.
+    나랑 계속 같이 놀아줬으면 좋겠어!
+  ja: |-
+    指揮官がいないとつまんない。
+    ずっと一緒に遊んでほしいな！
+c111_Attractive_Up_3:
+  en: Hehe! You're the only one I won't bite, that's the truth!
+  ko: |-
+    헤헤헤! 다른 인간은 다 물어도 지휘관은 안 물어뜯을게!
+    약속해!
+  ja: |-
+    へへへ！
+    他の人間には噛みついても、指揮官には噛みつかない！
+    約束するよ！
+c111_Party_Deploy_1:
+  en: Are we going to play? Where at?
+  ko: 우리 놀러 가? 어디로?
+  ja: 遊びに行くの？どこに？
+c111_Field_Touch_1:
+  en: You rang?
+  ko: 나 불렀어?
+  ja: 私のこと呼んだ？
+c111_Field_Go_1:
+  en: I'll be there ASAP!
+  ko: 저리로 갈게-!
+  ja: そっちに行くねー！
+c111_Battle_Enter_1:
+  en: Pleasure incoming!
+  ko: 재미있는 게 온다아!
+  ja: 面白いのが来るよー！
+c111_Battle_Ready_1:
+  en: I'm ready to bite down and never let go!
+  ko: 저거 죄다 물어뜯으면 되는 거지?
+  ja: あれ全部噛みちぎればいいんでしょ？
+c111_Battle_Ready_2:
+  en: Hehehe! Here it comes... Here it is!
+  ko: 이히히힛! 온다… 온다아!
+  ja: イヒヒヒッ！来る…来るよぉ！
+c111_Battle_Ready_3:
+  en: Compliment me when I take them down!
+  ko: 저거 다 죽이면 칭찬해 줄 거지?
+  ja: あれ全部倒したら、褒めてくれるよね？
+c111_Reload_1:
+  en: Hehehe! I had a blast!
+  ko: 히히히! 재밌다아-!
+  ja: ヒヒヒ！楽しいなぁ～！
+c111_Reload_2:
+  en: Gotta reload, and advance!
+  ko: 이거 얼른 하고 다시 가야지!
+  ja: 早く終わらせて、また行かなきゃ！
+c111_Reload_3:
+  en: Yeeehawww! So exciting!
+  ko: 여기 엄청 두근두근해! 신나아!
+  ja: |-
+    すっごくワクワクする！
+    たっのしー！
+c111_Ult_Skill_Ready_1:
+  en: Commander!
+  ko: 지휘과안-!
+  ja: しきかぁん！
+c111_Ult_Skill_1:
+  en: Tear them apart! HAHAHAHAHAHA!
+  ko: 죄다 물어뜯어버릴 거야 히히히힛!
+  ja: |-
+    全部噛みちぎってやる！
+    イヒヒヒヒッ！
+c111_FullBurst_1:
+  en: Hehehehe! Fire at will!
+  ko: 으히히힛! 다 쏴서 맞추자아-!
+  ja: ウヒヒヒッ！当てちゃうぞぉ～！
+c111_Kill_Monster_1:
+  en: I got it!
+  ko: 잡았다!
+  ja: 捕まえた！
+c111_Kill_Monster_2:
+  en: Dead!
+  ko: 죽였어어!
+  ja: ヤったぁ！
+c111_Kill_Monster_3:
+  en: Hehehehe!
+  ko: 히히히힛!
+  ja: ヒヒヒヒッ！
+c111_Damage_1:
+  en: "*Coughing*"
+  ko: 켁!
+  ja: ゴホッ！
+c111_Damage_2:
+  en: Owww!
+  ko: 깨갱!
+  ja: キャンッ！
+c111_Damage_3:
+  en: Ah!
+  ko: 아!
+  ja: あ！
+c111_Die_1:
+  en: Arghhh... I've had enough, no more combat for now.
+  ko: 헥헥… 으엑 나 힘들어. 그만 싸울래.
+  ja: |-
+    ハァハァ…うぅっ、疲れたぁ。
+    もうおしま～い。
+c111_Win_1:
+  en: I won, Commander! Gimme some treats!
+  ko: 지휘관 나 이겼어! 잘했지!
+  ja: |-
+    指揮官、勝ったよ！
+    頑張ったでしょー！？
+111_cv_ja:
+  en: 'CV: Aya Suzaki'
+  ko: 'CV : 스자키 아야'
+  ja: CV：洲崎綾
+111_cv_ko:
+  en: 'CV: Gang Eun-ae'
+  ko: 'CV : 강은애'
+  ja: CV：カン・ウネ
+111_cv_en:
+  en: 'CV: Lindsay Sheppard'
+  ko: 'CV : 린제이 셰퍼드'
+  ja: CV：Lindsay Sheppard

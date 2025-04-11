@@ -1,0 +1,482 @@
+---
+392_name:
+  en: Rei
+  ko: 라이
+  ja: ライ
+c392_description:
+  en: |-
+    A third-year student from the M.M.R. Vocational School, who nevertheless has the appearance of a small child.
+    Despite the fact she is childlike in both her demeanor and personal hobbies, she utterly despises being referred to as "kid" or "little girl".
+    As a senior, she feels obligated to take care of her fellow students who are younger than her, and spares no effort in doing so.
+  ko: |-
+    미미르 부속 고등학교에 재학 중인 유아적인 외견의 3학년생.
+    아기 같다, 어려 보인다는 말을 가장 싫어하지만 성격이나 취향은 영락없는 어린애다.
+    선배라는 자각은 있어서, 나름대로 후배들을 잘 돌보려 노력하는 편이긴 하다.
+  ja: |-
+    M.M.R.附属の高校に在学中の幼児体型の3年生。
+    子どもっぽい、幼く見えると言われることを一番嫌うが、
+    性格や好みは紛れもなく子ども。
+    先輩だという自覚はあり、後輩の面倒を見ようと努力する方である。
+392_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_392:
+  en: Rei's Spare Body
+  ko: 라이 스페어 바디
+  ja: ライのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23922_name:
+  en: Senior Spirit
+  ko: 선배의 기합
+  ja: 先輩の気合
+23922_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an Avatar with {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP for {description_value_04} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10024>디코이</word_group> : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 분신] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10024>デコイ</word_group>：スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_03}％の分身」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23921_name:
+  en: Senior Support
+  ko: 선배의 응원
+  ja: 先輩の応援
+23921_description:
+  en: "■ Activates after {description_value_01} normal attack(s). Affects all allies.\n<color=#00AEFF><word_group=10015>Fills
+    Burst Gauge</word_group> by {description_value_02}%.</color> \n■ Affects decoy
+    <word_group=10056>when decoy exists</word_group>.\n<color=#00AEFF><word_group=10057>Recovers
+    decoy's HP</word_group> equal to {description_value_03}% of caster's <word_group=10025>final</word_group>
+    Max HP.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_02}%]</color>
+    ■ <word_group=10056>디코이가 있다면</word_group> 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 <word_group=10057>디코이 회복</word_group> {description_value_03}%]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、味方全体に
+    <color=#00AEFF>「<word_group=10015>バーストゲージのチャージ</word_group> {description_value_02}％」</color>
+    ■<word_group=10056>デコイが存在する時</word_group>自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの<word_group=10057>デコイ回復</word_group> {description_value_03}％」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13923_name:
+  en: Model Senior Student
+  ko: 선배의 모범
+  ja: 先輩のお手本
+13923_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attract: Taunt all enemies for {description_value_01} sec.
+    Damage Taken ▼ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Affects decoy <word_group=10056>when decoy exists</word_group>.
+    <color=#00AEFF><word_group=10058>Constantly recovers decoy's HP</word_group> equal to {description_value_04}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[주목 : 적 전체 도발] [{description_value_01}초 유지]
+    [받는 대미지 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+    ■ <word_group=10056>디코이가 있다면</word_group> 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 <word_group=10058>디코이 지속 회복</word_group> {description_value_04}%] [1초 간격] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「ヘイト：敵全体を挑発」「{description_value_01}秒間維持」
+    「受けるダメージ{description_value_02}％▼」「{description_value_03}秒間維持」</color>
+    ■<word_group=10056>デコイが存在する時</word_group>自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの<word_group=10058>デコイ持続回復</word_group> {description_value_04}％」「1秒間隔」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+391_name:
+  en: Ein
+  ko: 아인
+  ja: アイン
+390_name:
+  en: Zwei
+  ko: 츠바이
+  ja: ツバイ
+c392_Lobby_Touch_1:
+  en: Gotta hurry before everyone sees it... Mmm, delicious!
+  ko: 모두가 보기 전에~ 흐으으응! 맛있어.
+  ja: |-
+    みんなに見つかる前に～♪
+    うぅ～ん！おいしいっ！
+c392_Lobby_Touch_2:
+  en: I may be a little older now, but it's not the end of the world if I eat sweets
+    once in a while, right?
+  ko: 이제 3학년이지만, 가끔씩은 단 걸 먹어도 되겠지?
+  ja: 3年生になったけど、たまには甘いもの食べてもいいよね？
+c392_Lobby_Touch_3:
+  en: Naru, say aaaahhhhh! Let's see if you have any cavities.
+  ko: 나루야, 아~ 해 봐. 이빨 상한 거 있는지 보자.
+  ja: |-
+    ナルちゃ～ん、あ～してごらん。
+    虫歯がないか見てみようね。
+c392_Lobby_Touch_Love_1:
+  en: Would you like to have lunch together? We don't have to tell the others.
+  ko: 선생님도 같이 먹을래? …애들한텐 절대 비밀이야.
+  ja: |-
+    先生も一緒に食べる？
+    …みんなには内緒だよ？
+c392_Lobby_Touch_Love_2:
+  en: I love these snacks, especially the ones you give me, Teacher!
+  ko: 간식은 맛있어. 그런데 선생님이 주면 더 맛있어!
+  ja: |-
+    おやつ大好き！
+    先生がくれるおやつはもっと好き！
+c392_Lobby_Touch_Love_3:
+  en: Naru and I will protect you, Teacher. Pinky promise!
+  ko: 선생님은 나랑 나루 1, 2, 3호가 지켜줄게. 손가락 걸고 약속.
+  ja: |-
+    先生は、私とナル1、2、3号が守ってあげる。
+    約束するよ。
+c392_Lobby_Stay_1:
+  en: When will we have time to self-study, Teacher?
+  ko: 선생님~ 우리 언제까지 자습해?
+  ja: 先生～いつ自習終わるの？
+c392_Lobby_Stay_Love_1:
+  en: Why don't we all go downtown if there's nothing else that needs doing? I heard
+    there's a store where you can buy as much candy as you want.
+  ko: 있잖아, 할 거 없으면 다 같이 시내에 갈래? 츠바이가 그러는데, 사탕을 마음대로 골라 먹을 수 있는 가게가 생겼대.
+  ja: |-
+    ねえねえ、やることなかったら街に行こうよ。
+    キャンディを好きなだけ自由に食べられるお店が
+    オープンしたって噂だよ。
+c392_Outpost_Touch_1:
+  en: AP class is mandatory at the Tactic Academy, so are EMP performance tests...
+    I don't understand any of this...
+  ko: 택틱 아카데미에서 AP 클래스 의무 수강… EMP 성능 시험 및 기술 교류? 무슨 말인지 하나도 모르겠어….
+  ja: |-
+    タクティクアカデミーで APクラス受講必須…
+    EMP性能試験 および 技術交流？
+    何のことだかさっぱり…
+c392_Outpost_Touch_2:
+  en: Penguins aren't usually afraid of people. Maybe that's why Naru and I have grown
+    so close.
+  ko: 펭귄은 원래 사람을 별로 안 무서워한대. 그래서 나루랑 내가 이렇게 친해졌나 봐.
+  ja: |-
+    ペンギンは元々人を 怖がらないんだって。
+    だからナルと私って こんなに仲がいいのかも！
+c392_Outpost_Touch_3:
+  en: Even with the school, you're still doing the opposite of what's intended, ya
+    know what I mean?
+  ko: 학교는 있잖아. 가라고 하면 가기 싫고, 가지 말라고 하면 더 가고 싶어. 무슨 말인지 알지?
+  ja: |-
+    学校って、 行けって言われると 行きたくなくて、
+    行くなって言われると 行きたくなるんだよね。
+    何のことだか 分かるでしょ？
+c392_Gacha_Get_1:
+  en: I'm Rei, a senior from a vocational school! Nice to meet you, Teacher!
+  ko: 미미르 부속 고등학교 3학년, 라이라고 해! 잘 부탁해, 선생님.
+  ja: |-
+    M.M.R附属高校3年生のライだよ！
+    よろしくね、先生。
+c392_Reinforce_1:
+  en: The penguin colony has become more resilient.
+  ko: 펭귄 무리가 더 강해졌습니다.
+  ja: ペンギンの群れがさらに強くなりました。
+c392_Reinforce_2:
+  en: I'll grow a little taller with this, right?
+  ko: 이걸로 키도 더 크겠지?
+  ja: これで背ももっと伸びるよね？
+c392_Reinforce_3:
+  en: We'll protect you, Teacher!
+  ko: 우리가 선생님을 지켜줄게!
+  ja: 私たちが先生を守ってあげるっ！
+c392_Gift_1:
+  en: For me? Really?
+  ko: 뭐? 정말 나 주는 거야?
+  ja: え？本当に私にくれるの？
+c392_Gift_2:
+  en: Woooow...
+  ko: 흐와아아….
+  ja: うわぁぁぁ…
+c392_Gift_3:
+  en: I'll split it with Naru. Hehe!
+  ko: 나루네랑 잘 나눠 먹을게. 헤헤….
+  ja: ナルたちと半分こして食べるね。へへ…
+c392_Attractive_Up_1:
+  en: You're the best, Teacher.
+  ko: 우리는 선생님이 정말 좋아.
+  ja: 私たちは先生が大好き。
+c392_Attractive_Up_2:
+  en: You're not going away, are you, Teacher?
+  ko: 선생님, 계속 우리 선생님 해주면 안 돼?
+  ja: 先生、ずっと私たちの先生でいてくれる？
+c392_Attractive_Up_3:
+  en: Are you hungry, Teacher? I can always share my snacks with you.
+  ko: 선생님, 배고파? 내 간식… 나눠줄까?
+  ja: |-
+    先生、お腹空いた？
+    私のおやつ…
+    ちょっとあげようか？
+c392_Party_Deploy_1:
+  en: Now that I'm a senior in school, I needa to stay sharp.
+  ko: 이제 내가 선배니까 정신 똑바로 차려야 돼.
+  ja: 私も先輩だし、気を引き締めていかなきゃ。
+c392_Field_Touch_1:
+  en: What do we do now?
+  ko: 우리 이제 뭐 하면 돼?
+  ja: 何からすればいい？
+c392_Field_Go_1:
+  en: I'm going!
+  ko: 선생님이 저쪽으로 가래!
+  ja: 先生があっちの方に行けだって！
+c392_Battle_Enter_1:
+  en: Time for some extracurricular activities!
+  ko: 방과 후 활동 시작이야!
+  ja: 放課後クラブ始めるよっ！
+c392_Battle_Ready_1:
+  en: Let's go, Naru!
+  ko: 가자, 나루야!
+  ja: 行くよ、ナル！
+c392_Battle_Ready_2:
+  en: I've got this!
+  ko: 선배가 다 알아서 해줄게!
+  ja: 先輩の私に任せてっ！
+c392_Battle_Ready_3:
+  en: Let's show them what penguins are made of!
+  ko: 진짜 펭귄의 힘을 보여줘!
+  ja: ペンギンの底力を見せてちょうだい！
+c392_Reload_1:
+  en: Hurry up, Naru...
+  ko: 나루야, 빨리….
+  ja: ナル、急いで…
+c392_Reload_2:
+  en: Argh...
+  ko: 끙차….
+  ja: ううん…
+c392_Reload_3:
+  en: C'mon, a little more!
+  ko: 조금만 더~!
+  ja: もうちょっとぉ～っ！
+c392_Ult_Skill_Ready_1:
+  en: Me! Pick me!
+  ko: 나! 나 시켜줘!
+  ja: 私！私にやらせてっ！
+c392_Ult_Skill_1:
+  en: Why don't you pick on someone your own size?!
+  ko: 내 후배들 괴롭히면 가만 안 둬!
+  ja: 私の後輩をいじめたら、ただじゃおかないよ！
+c392_FullBurst_1:
+  en: Ready, set, GO!
+  ko: 다 같이 준비, 시~작!
+  ja: みんな、準備して！
+c392_Kill_Monster_1:
+  en: We did it!
+  ko: 됐다!
+  ja: よし！
+c392_Kill_Monster_2:
+  en: Gotcha!
+  ko: 잡았어!
+  ja: 捕まえた！
+c392_Kill_Monster_3:
+  en: Did you see that?
+  ko: 봤지?
+  ja: さっきの見たでしょ？
+c392_Damage_1:
+  en: Ugh!
+  ko: 아파!
+  ja: 痛いわよ！
+c392_Damage_2:
+  en: Kyaa!
+  ko: 꺅!
+  ja: きゃっ！
+c392_Damage_3:
+  en: Hiccup!
+  ko: 히끅….
+  ja: うぅっ…
+c392_Die_1:
+  en: I'm sorry. Hiccup... I'll be leaving early...
+  ko: 선생님, 끅, 미안. 나 먼저 조퇴할게….
+  ja: |-
+    先生、ひっく、ごめんなさい。
+    私、早退するね…
+c392_Win_1:
+  en: Did you see that, Teacher? We won!
+  ko: 선생님, 봤지? 우리 반이 이겼어!
+  ja: |-
+    先生、見たでしょ？
+    私のクラスが勝ったよ！
+392_cv_ja:
+  en: 'CV: Aimi Tanaka'
+  ko: 'CV : 타나카 아이미'
+  ja: CV：田中あいみ
+392_cv_ko:
+  en: 'CV: Bang Yeon-ji'
+  ko: 'CV : 방연지'
+  ja: CV：バン・ヨンジ
+392_cv_en:
+  en: 'CV: Tatiana Varria'
+  ko: 'CV : 타티아나 바리아'
+  ja: CV：Tatiana Varria

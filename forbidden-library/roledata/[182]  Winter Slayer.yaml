@@ -1,0 +1,572 @@
+---
+182_name:
+  en: 'Guillotine: Winter Slayer'
+  ko: '길로틴 : 윈터 슬레이어'
+  ja: ギロチン：ウィンタースレイヤー
+c182_description:
+  en: |-
+    With the Winter's Bane cast by the White Ice Dragon, the world was plunged into an endless blizzard.
+    To save the country in peril, Guillotine takes on the role of a hero and gathers her comrades to embark on an adventure.
+  ko: |-
+    백빙룡이 [겨울의 저주]를 내려 언제나 눈보라가 몰아치는 세상.
+    위기에 빠진 봄의 나라를 구하기 위해 길로틴은 용사가 되어 동료를 모아 모험을 떠난다.
+  ja: |-
+    ホワイトアイスドラゴンが「冬の呪い」をかけ
+    常に吹雪が吹く世界で、危機に陥った
+    春の国を救うため、ギロチンが勇者になり
+    仲間を集めて冒険をする。
+182_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_182:
+  en: 'Guillotine: Winter Slayer''s Spare Body'
+  ko: '길로틴 : 윈터 슬레이어 스페어 바디'
+  ja: ギロチン：ウィンタースレイヤーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21822_name:
+  en: Hero's Gift
+  ko: 용사의 자질
+  ja: 勇者の資格
+21822_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s) without hitting the core. Affects self.
+    <color=#00AEFF>EXP: ATK ▲ {description_value_02}%, stacks up to {description_value_03} time(s) continuously. </color>
+    ■ Activates when hitting the Core for {description_value_04} time(s). Affects self.
+    <color=#00AEFF>EXP: ATK ▲ {description_value_05}%, stacks up to {description_value_06} time(s) continuously.</color>
+    ■ Activates when Hero Level is 2 or above. Affects self.
+    <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_07}% continuously.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 코어가 아니라면 자신에게
+    <color=#00AEFF>[경험치 : 공격력 {description_value_02}% ▲] [{description_value_03} 중첩][지속]</color>
+    ■ 코어 {description_value_04}회 명중 시 자신에게
+    <color=#00AEFF>[경험치 : 공격력 {description_value_05}% ▲] [{description_value_06} 중첩][지속]</color>
+    ■ 자신이 용사 레벨이 2 이상일 때 한하여 자신에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_07}% ▲] [지속]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、コアでなければ自分に
+    <color=#00AEFF>「経験値：攻撃力{description_value_02}％▲」「{description_value_03}スタック」「持続」</color>
+    ■コアに{description_value_04}回命中した時、自分に
+    <color=#00AEFF>「経験値：攻撃力{description_value_05}％▲」「{description_value_06}スタック」「持続」</color>
+    ■自分の勇者レベルが2以上の時のみ自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_07}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21821_name:
+  en: Hero's Fate
+  ko: 용사의 숙명
+  ja: 勇者の宿命
+21821_description:
+  en: |-
+    ■ Activates every time EXP stacks {description_value_01}. Affects self.
+    <color=#00AEFF>Hero Level Up: Reaches a maximum of Level 11.
+    Hero Level Up Reward: Reloads {description_value_02}%.
+    Hero Level Up Reward: Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP.</color>
+    ■ Activates when Hero levels up. Affects all Water Code allies.
+    <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_04}% * Hero Level continuously.
+    ATK ▲ {description_value_05}% of caster's ATK * Hero Level continuously.</color>
+  ko: |-
+    ■ 경험치 {description_value_01} 중첩 마다 자신에게
+    <color=#00AEFF>[용사 레벨 업 : 최대 11레벨까지 성장]
+    [용사 레벨 업 보상 : 탄환 충전 {description_value_02}%]
+    [용사 레벨 업 보상 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복]</color>
+    ■ 용사 레벨 업 시 수냉 코드 아군 전체에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_04}% X 용사 레벨 수 ▲] [지속]
+    [시전자 기준 공격력 {description_value_05}% X 용사 레벨 수 ▲] [지속]</color>
+  ja: |-
+    ■経験値{description_value_01}スタックごとに自分に
+    <color=#00AEFF>「勇者レベルアップ：最大11レベルまで成長」
+    「勇者レベルアップ効果：弾丸チャージ{description_value_02}％」
+    「勇者レベルアップ効果：スキル発動者の<word_group=10025>最終</word_group>最大HPに比例して{description_value_03}％回復」</color>
+    ■勇者レベルアップ時、水冷コードの味方全体に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_04}％X勇者レベル数分▲」「持続」
+    「スキル発動者基準で攻撃力{description_value_05}％X勇者レベル数分▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11823_name:
+  en: Extermination
+  ko: 익스터미네이션
+  ja: エクスターミネイション
+11823_description:
+  en: |-
+    ■ Affects all Water Code allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.
+    <word_group=10009>Damage as strong element</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects {description_value_05} enemy unit(s) with the highest <word_group=10025>final</word_group> Max HP.
+    <color=#00AEFF>Deals continuous damage equal to {description_value_06}% of the <word_group=10025>final</word_group> ATK * Hero Level every sec for {description_value_07} sec.</color>
+  ko: |-
+    ■ 수냉 코드 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ <word_group=10025>최종</word_group> 최대 체력이 가장 높은 적 {description_value_05}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_06}% X 용사 레벨 수 지속 대미지] [1초 간격] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■水冷コードの味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■<word_group=10025>最終</word_group>最大HPが最も高い敵{description_value_05}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％×勇者レベル数分の持続ダメージ」「1秒間隔」「{description_value_07}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+180_name:
+  en: Guillotine
+  ko: 길로틴
+  ja: ギロチン
+181_name:
+  en: Maiden
+  ko: 메이든
+  ja: メイデン
+183_name:
+  en: 'Maiden: Ice Rose'
+  ko: '메이든 : 아이스 로즈'
+  ja: メイデン：アイスローズ
+c182_Lobby_Touch_1:
+  en: My blood runs cold. Yes, winter is upon us.
+  ko: 피가 차갑게 식으면, 겨울이 왔음을 느끼곤 하지.
+  ja: 血が冷たい。冬の訪れを感じるな。
+c182_Lobby_Touch_2:
+  en: |-
+    Any hero worth their salt has numerous stalwart comrades by their side.
+    Tell me, Partner, are you a fitting companion for me?
+  ko: |-
+    용사의 곁엔 훌륭한 동료가 함께하는 법.
+    벗이여, 그대는 이 몸의 동료로 어울리는 자인가.
+  ja: |-
+    勇者の隣には素晴らしい仲間が存在するもの。
+    友は我の仲間としてふさわしいだろうか。
+c182_Lobby_Touch_3:
+  en: |-
+    The One-Winged Dark Lord. He awaits for the day to consume me whole.
+    When that day comes, you must defeat me along with my companion, Ice Rose.
+  ko: |-
+    편익의 마왕. 놈은 이 몸을 집어삼킬 날만을 기다리고 있다.
+    그날이 오면 [아이스로즈]와 함께 이 몸을 쓰러뜨려라.
+  ja: |-
+    片翼の魔王。奴は我を飲み込もうとしている。
+    その日が来たら、「アイスローズ」と共に我を倒してくれ。
+c182_Lobby_Touch_Love_1:
+  en: Before we went on this adventure, I used to think a wretched and solitary fate
+    was what awaited me.
+  ko: |-
+    과거엔 고독이라는 지독한 운명에 묶여있다고 생각했다.
+    이 모험을 끝내기 전까진 말이지.
+  ja: |-
+    かつては孤独という過酷な運命に縛られていると思っていた。
+    この冒険を終わらせるまではな。
+c182_Lobby_Touch_Love_2:
+  en: |-
+    My new outfit? It's truly fitting for a winter warrior, don't you think?
+    But, um, perhaps don't look so intently...
+  ko: |-
+    내 새로운 복장? 그야말로 겨울의 용사에 걸맞지 않은가.
+    그, 그렇다고 너무 자세히는 보지 말아라….
+  ja: |-
+    我の新しい服装？まさしく冬の勇者にふさわしいであろう。
+    だ、だからといってあまりジロジロ見ないでくれ…
+c182_Lobby_Touch_Love_3:
+  en: |-
+    I will not be subsumed by the One-Winged Dark Lord,
+    for I have you and Maiden.
+  ko: |-
+    편익의 마왕에게 삼켜질 일 따윈 없다.
+    내게는 벗과 메이든이 있으니.
+  ja: |-
+    片翼の魔王に飲み込まれることなどない。
+    我には友とメイデンがいるのだから。
+c182_Lobby_Stay_1:
+  en: |-
+    Urgh! Gah! Calm yourself, One-Winged Dark Lord.
+    Now is not the time for you to come forth!
+  ko: |-
+    큭. 크악. 진정해라, 편익의 마왕.
+    지금은 네가 나설 때가 아니다!
+  ja: |-
+    くっ。ああっ。落ち着け、片翼の魔王よ。
+    今はお前が出る時ではない！
+c182_Lobby_Stay_Love_1:
+  en: I must behave in a manner befitting the title of Guardian of Balance which Chloe
+    bestowed upon me.
+  ko: |-
+    클로이에게 물려받은 [균형의 수호자]란 칭호에 어울리도록,
+    행동거지를 바로 해야겠지.
+  ja: |-
+    クロエから受け継いだ「均衡の守護者」という称号に恥じぬよう、
+    しっかりと振る舞わねば。
+c182_Outpost_Touch_1:
+  en: |-
+    The Radio Tower. They say a sage lives cloistered within its walls.
+    That sage, known as Exia, is said to know everything about this other world.
+  ko: |-
+    전파탑. 저곳에 현자가 은거해 있다는 거지.
+    이세계에 관해선 뭐든 꿰고 있다는 현자 엑시아가…!
+  ja: |-
+    電波塔。あそこに隠居した 賢者がいるのだな。
+    異世界に関する すべてを知り尽くした賢者… その名もエクシアが…！
+c182_Outpost_Touch_2:
+  en: Such serenity in this world, a place untouched by the winter curse.
+  ko: "[겨울의 저주]가 퍼지지 않은 세계는 이토록 평화롭구나."
+  ja: "「冬の呪い」がない世界は、 こんなにも平和なのか。"
+c182_Outpost_Touch_3:
+  en: Partner, my nemesis and rival. Call me when you see the Blue-Eyed Little Devil.
+  ko: |-
+    벗이여, 내 숙적이자 라이벌.
+    [벽안의 작은 야차]를 보게 되면 날 불러라.
+  ja: |-
+    友よ。我の宿敵でありライバル…
+    「碧眼の小さな夜叉」を 見かけたら我を呼んでくれ。
+c182_Gacha_Get_1:
+  en: I, the hero Guillotine de Mephisto, shall answer your call in accordance with
+    the will of the world!
+  ko: |-
+    용사, 길로틴 드 메피스토.
+    세계의 의지에 따라 그대의 부름에 응하겠다!
+  ja: |-
+    勇者、ギロチン・デ・メフィスト。
+    世界の意志に従い、その呼びかけに応えん！
+c182_Reinforce_1:
+  en: Heh, power is overflowing.
+  ko: 크큭. 힘이 넘쳐 흐르는군.
+  ja: ククッ。力がみなぎってくるな。
+c182_Reinforce_2:
+  en: I'll take down as many White Ice Dragons as they can throw at me!
+  ko: 백빙룡 따윈 얼마든지 물리쳐주지!
+  ja: ホワイトアイスドラゴンなぞ、いくらでも倒してみせよう！
+c182_Reinforce_3:
+  en: |-
+    Now that I know where I must go and why, there can be no stopping.
+    The only way is forward.
+  ko: |-
+    어디로, 무엇을 위해 나아가야 할지 정해졌으니.
+    멈추지 않고 앞으로 전진할 뿐.
+  ja: |-
+    進むべき道は決まった。
+    あとは突き進むのみ。
+c182_Gift_1:
+  en: |-
+    My, my, Partner.
+    It seems you've finally taken an interest in me.
+  ko: |-
+    이런, 이런.
+    벗이여, 결국 그대도 내게 흥미를 느끼고 말았나.
+  ja: |-
+    おやおや。
+    友よ、やはり我に興味を持ってしまったか。
+c182_Gift_2:
+  en: |-
+    A hero is never swayed by temptation. I must refuse this...
+    Urgh! Gah! One-Winged Dark Lord, don't you dare reach out for gifts of your own volition!
+  ko: |-
+    용사란 그 어떠한 유혹에도 흔들리지 않는 자. 이건 거절하도록….
+    큭. 크악. 편익의 마왕, 멋대로 선물에 손을 뻗지 말아라!
+  ja: |-
+    勇者とは、いかなる誘惑にも負けない者のこと。これは断らせて…
+    くっ。ああっ。片翼の魔王…勝手にプレゼントに手を伸ばすな！
+c182_Gift_3:
+  en: |-
+    If you thought giving me something like this would make me happy...
+    Then again, I suppose it can be considered a wise decision.
+  ko: |-
+    이런 걸 준다고, 내가 좋아할 것 같았다면….
+    크흠, 옳은 판단이라고 할 수 있겠군.
+  ja: |-
+    こんなもの、我が喜ぶと思ったら…
+    オホンッ、正しい判断だな。
+c182_Attractive_Up_1:
+  en: |-
+    My sword will always be wielded in your name.
+    This, I swear to you.
+  ko: |-
+    그대에게 맹세하지.
+    내 검은 언제나 벗을 위하겠다고.
+  ja: |-
+    友に誓おう。
+    我の剣は、常に友のためにあると。
+c182_Attractive_Up_2:
+  en: |-
+    This is a bond which has carried over from our past lives and continued into the present day.
+    It would seem that our destinies are intertwined.
+  ko: |-
+    전생부터 이어져온 인연이 이번에도 이어지는군.
+    벗이여, 아무래도 우린 운명으로 엮인 사이인 듯하다.
+  ja: |-
+    前世からの縁が続いているとは。
+    友よ、やはり我々は運命で結ばれているようだ。
+c182_Attractive_Up_3:
+  en: |-
+    They say adventures are best shared with those who understand the inner workings of your heart.
+    With a friend like you, we can go anywhere, hehe.
+  ko: |-
+    모험은 마음이 맞는 동료들과 함께하는 거라고 했지.
+    크큭. 벗과 함께라면 어디든 갈 수 있겠어.
+  ja: |-
+    冒険は気の合う仲間たちと共にするものだろう？
+    ククッ。友と一緒であれば、どこにでも行けそうだ。
+c182_Party_Deploy_1:
+  en: Will you use me wisely, Partner?
+  ko: 크큭. 벗이여, 이 몸을 다룰 수 있겠나?
+  ja: ククッ。友よ。この我を制御しきれるかな？
+c182_Field_Touch_1:
+  en: Partner, give me your command.
+  ko: 벗이여, 지시를.
+  ja: 友よ、指示を。
+c182_Field_Go_1:
+  en: Fate is calling us!
+  ko: 운명이 우리를 부르고 있다!
+  ja: 運命が我々を呼んでいる！
+c182_Battle_Enter_1:
+  en: Heh, it's time for a showdown!
+  ko: 크큭, 승부다!
+  ja: ククッ、勝負だ！
+c182_Battle_Ready_1:
+  en: I will show you the true form of a hero.
+  ko: 용사의 자질을 보여주지.
+  ja: 勇者とはなにか見せてやろう。
+c182_Battle_Ready_2:
+  en: My blood is starting to boil.
+  ko: 피가 끓어오르기 시작하는군.
+  ja: 血がたぎるな。
+c182_Battle_Ready_3:
+  en: I'll wipe out every last one of those Big O scum!
+  ko: "[조직]놈들, 전부 쓸어주마!"
+  ja: "「組織」の奴らめ、全員片付けてやる！"
+c182_Reload_1:
+  en: Calm down, One-Winged Dark Lord!
+  ko: 진정해라, 편익의 마왕!
+  ja: 落ち着け、片翼の魔王！
+c182_Reload_2:
+  en: Cover me for a moment.
+  ko: 잠시 엄호를 부탁하마.
+  ja: しばし援護を頼む。
+c182_Reload_3:
+  en: I promise, I'll be right back.
+  ko: 약속하지, 금방 돌아오겠다.
+  ja: 約束しよう、すぐに戻ってくる。
+c182_Ult_Skill_Ready_1:
+  en: I'll give you a fine ending befitting you.
+  ko: 최고의 엔딩을 보여주도록 하지.
+  ja: 最高の終焉を見せてやろう。
+c182_Ult_Skill_1:
+  en: Time to bring down the curtain on this epic saga!
+  ko: 대서사시의 막을 내릴 시간이다!
+  ja: 壮大な叙事詩の幕を下ろす時だ！
+c182_FullBurst_1:
+  en: Believe in those I believe in!
+  ko: 내가 믿는 너희를 믿어라!
+  ja: 我が信じるお前たちを信じろ！
+c182_Kill_Monster_1:
+  en: No need for words.
+  ko: 문답무용.
+  ja: 問答無用。
+c182_Kill_Monster_2:
+  en: Pathetic.
+  ko: 나약하군.
+  ja: 弱いな。
+c182_Kill_Monster_3:
+  en: You were a worthy sacrifice.
+  ko: 제물이 되어라.
+  ja: いけにえとなれ。
+c182_Damage_1:
+  en: Ugh...!
+  ko: 따흑…!
+  ja: うぐっ…！
+c182_Damage_2:
+  en: "*Cough*"
+  ko: 큭!
+  ja: くっ！
+c182_Damage_3:
+  en: Ugh...
+  ko: 아으….
+  ja: あう…
+c182_Die_1:
+  en: "*Sigh*... So, a lonely fate it will be... El Telema Solus..."
+  ko: 큭… 고독한 운명이군… 엘 텔레마 솔루스….
+  ja: くっ…孤独な運命だな…エル・テレマ・ソルース…
+c182_Win_1:
+  en: |-
+    What do you think, Partner?
+    How do you feel about being part of this grand adventure of Guillotine de Mephisto?
+  ko: |-
+    어떤가, 벗이여.
+    이 길로틴 드 메피스토의 위대한 모험담에 함께한 소감이!
+  ja: |-
+    どうだ？友よ。
+    このギロチン・デ・メフィストと偉大なる冒険を共にした感想は！
+182_cv_ja:
+  en: 'CV: Ami Koshimizu'
+  ko: 'CV : 코시미즈 아미'
+  ja: CV：小清水亜美
+182_cv_ko:
+  en: 'CV: Jung Yoo-jung'
+  ko: 'CV : 정유정'
+  ja: CV：ジョン・ユジョン
+182_cv_en:
+  en: 'CV: Lindsay Sheppard'
+  ko: 'CV : 린제이 셰퍼드'
+  ja: CV：Lindsay Sheppard

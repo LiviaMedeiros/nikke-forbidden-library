@@ -1,0 +1,521 @@
+---
+261_name:
+  en: Nihilister
+  ko: 니힐리스타
+  ja: ニヒリスター
+c261_description:
+  en: "A Heretic and loyal subject of the Rapture Queen who has long been a scourge
+    to all Nikkes. \nAs the lead general of the legions under the Queen's command,
+    \nher belligerence knows no bounds, nor does her appetite for destruction."
+  ko: "랩쳐 퀸 휘하에서 오랫동안 니케들과 싸워온 헬레틱 중 하나. \n그 선봉장 격인 인물.\n호전적이고 파괴적인 성향을 지녔다."
+  ja: |-
+    ラプチャークイーンの下で長い間ニケと戦ってきた\nヘレティックの一員。
+    切り込み隊長的な存在。
+    好戦的で破壊的な気質を持つ。
+261_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_261:
+  en: Nihilister's Spare Body
+  ko: 니힐리스타 스페어 바디
+  ja: ニヒリスターのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+12612_name:
+  en: Megiddo Flame
+  ko: 메기도 플레임
+  ja: メギドフレイム
+12612_description:
+  en: "■ Affects <word_group=10020>enemies within attack range</word_group>. \n<color=#00AEFF>Deals
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as damage.
+    </color>"
+  ko: |-
+    ■ <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지]</color>
+  ja: |-
+    ■<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22611_name:
+  en: Burning Shot
+  ko: 버닝 샷
+  ja: バーニングショット
+22611_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Gain Pierce for {description_value_01} round(s).
+    Piercing Radius ▲ 50% for {description_value_02} round(s).</color>
+    ■ Activates when hits {description_value_03} or more enemies concurrently. Affects all enemies hit.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[관통 특화] [{description_value_01}발 유지]
+    [관통 범위 50% 확장] [{description_value_02}발 유지]</color>
+    ■ {description_value_03}기 이상을 동시에 명중시켰다면 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% 추가 대미지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「貫通特化」「{description_value_01}発間維持」
+    「貫通範囲50％拡張」「{description_value_02}発間維持」</color>
+    ■{description_value_03}機以上同時に命中した場合、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の追加ダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12613_name:
+  en: Burning Scourge
+  ko: 번 아포칼립스
+  ja: バーンアポカリプス
+12613_description_1:
+  en: "■ Affects <word_group=10020>enemies within the attack range</word_group>.\n<color=#00AEFF>Deals
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as damage.\nBurn:
+    Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as sustained
+    damage every 1 sec for {description_value_03} sec.</color> \n■ Affects self.\n<color=#00AEFF>Max
+    Ammunition Capacity ▲ {description_value_04} round(s) for {description_value_05}
+    sec.</color>"
+  ko: |-
+    ■ <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지]
+    [화상 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 지속 대미지] [1초 간격] [{description_value_03}초 유지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_04}발 ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」
+    「火傷：<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の
+    持続ダメージ」「1秒間隔」「{description_value_03}秒間維持」</color>
+    ■自分に
+    <color=#00AEFF>「最大装弾数{description_value_04}発▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+260_name:
+  en: Modernia
+  ko: 모더니아
+  ja: モダニア
+c261_Lobby_Touch_1:
+  en: There's nothing I despise more than boredom.
+  ko: |-
+    지루한 건 딱 질색이야.
+    그렇지?
+  ja: |-
+    退屈なのはごめんだ。
+    知ってんだろ？
+c261_Lobby_Touch_2:
+  en: Keep pestering me, and see what happens.
+  ko: |-
+    자꾸 깔짝깔짝 건드리면,
+    물어뜯어 버린다?
+  ja: |-
+    調子に乗んな。
+    噛みついても知らねえぞ？
+c261_Lobby_Touch_3:
+  en: So boooooring! If you don't get a move on, you'll be sorry.
+  ko: |-
+    따분해… 따분하다고!
+    더 안 움직이면 삼켜버린다?
+  ja: |-
+    つまらん…つまらんのだ！
+    何もしないんだったら食っちまうぞ！
+c261_Lobby_Touch_Love_1:
+  en: If you bug me, I'll return it two-fold.
+  ko: |-
+    좋을 대로 건드려 봐.
+    나도 널 마음대로 건드릴 테니까.
+  ja: |-
+    好きなように突いてみろ。
+    こっちも黙っちゃいないから。
+c261_Lobby_Touch_Love_2:
+  en: Don't be scared. I don't feel like meddling in your affairs right now.
+  ko: |-
+    너무 무서워하지 마.
+    지금은 널 건드릴 생각이 없으니까.
+  ja: |-
+    そんなに怖がるなよ。
+    今はお前を攻撃する気はない。
+c261_Lobby_Touch_Love_3:
+  en: I'm jonesing for a fix right now, and I gotta break something. Wanna join me?
+  ko: |-
+    아… 손이 심심해서 뭐라도 부수고 싶은데.
+    같이 갈래?
+  ja: |-
+    はあ…うずうずする。
+    何でもいいから壊してえ。
+    一緒にどうだ？
+c261_Lobby_Stay_1:
+  en: Don't just stand there and stare at me. Move.
+  ko: |-
+    따분하게 보고만 있을 거야?
+    움직이라고.
+  ja: |-
+    何もせずに見てるだけかよ。
+    ちょっとは動け。
+c261_Lobby_Stay_Love_1:
+  en: Okay, soak it all in while you can. This is the only chance you're going to
+    get.
+  ko: |-
+    그래, 마음껏 봐둬.
+    지금이 아니면 언제 네가 날 이렇게 보고 있을 수 있겠어?
+  ja: |-
+    ふん、好きなだけ見とけ。
+    私をまじまじと見れる機会はそうないからな。
+c261_Outpost_Touch_1:
+  en: Hm... This place ain't so bad. Plenty of things to break.
+  ko: |-
+    흠… 여기 나쁘지 않은데?
+    부수는 맛이 있겠어.
+  ja: |-
+    ふん…ここも悪くないかも？
+    壊しがいがありそうだ。
+c261_Outpost_Touch_2:
+  en: Everything here reeks of your scent, Human. I'm itching to tear it all to shreds.
+  ko: |-
+    여긴… 인간, 네 냄새가 가득하네.
+    물어뜯고 싶어져.
+  ja: |-
+    ここは…人間、 お前の匂いがあちこちでする。
+    噛みつきたくなるな。
+c261_Outpost_Touch_3:
+  en: I can't believe you brought me to such a peaceful place... You all right?
+  ko: |-
+    이런 평화로운 곳에 날 끌어들이다니…
+    괜찮겠어?
+  ja: |-
+    こんな平和な所に 連れてきやがって…
+    後悔しても知らねえぞ？
+c261_Gacha_Get_1:
+  en: You've got your work cut out for you, Human. I'm gonna destroy everything.
+  ko: |-
+    하하! 인간, 마음껏 발버둥 쳐봐.
+    내가 전부 부숴버릴 테니까.
+  ja: |-
+    はは！人間、思う存分足掻くがいい。
+    全部壊してやる。
+c261_Reinforce_1:
+  en: Ugh, I wanna go bust something up.
+  ko: 아… 뭐든 부수러 가고 싶다.
+  ja: はあ…何でもいいから壊したい。
+c261_Reinforce_2:
+  en: You're not too bad yourself.
+  ko: 인간의 기술도 나쁘진 않네.
+  ja: 人間の技術力も捨てたもんじゃないな。
+c261_Reinforce_3:
+  en: Good job, Human.
+  ko: 수고했어. 인간.
+  ja: お疲れ。人間。
+c261_Gift_1:
+  en: Trying to ply me with gifts, are you? Well, do keep trying.
+  ko: 아하. 선물로 호감을 사보시겠다? 마음껏 해봐.
+  ja: |-
+    あはは。
+    こんなんで好感度を稼ごうと？
+    勝手にしろ。
+c261_Gift_2:
+  en: The best present would be having you on a silver platter... but I should probably
+    stop now.
+  ko: |-
+    가장 좋은 선물은 네가 내 먹잇감이 되는 거겠지만…
+    지금은 참아줄게.
+  ja: |-
+    一番の贈り物はお前が私の餌食になることだが…
+    今はまだ我慢してやろう。
+c261_Gift_3:
+  en: You really do know what I like.
+  ko: 제법 취향에 맞는 걸 준비할 줄 아네?
+  ja: 私の好みをよく分かってるじゃないか。
+c261_Attractive_Up_1:
+  en: Hmm... You're kind of fun.
+  ko: 흠, 너 좀 재미있네.
+  ja: ふん、お前、結構楽しませてくれるな。
+c261_Attractive_Up_2:
+  en: Humans are usually such monotonous creatures. Yet, you're not the same.
+  ko: |-
+    인간이란 건 지루한 것들 투성이었는데…
+    넌 아닌 것 같네.
+  ja: |-
+    人間は退屈な奴ばかりだったが…
+    お前はちょっと違うな。
+c261_Attractive_Up_3:
+  en: I'd love to swallow you up just once... I guess now's not the time?
+  ko: |-
+    딱 한 번만 널 삼켜보고 싶은데…
+    아직은 안되겠지?
+  ja: |-
+    1回だけでいいからお前を殴ってみたいんだが…
+    まだだめだよな？
+c261_Party_Deploy_1:
+  en: You think you can handle me?
+  ko: 날 감당할 수 있겠어?
+  ja: 私に耐えられるか？
+c261_Field_Touch_1:
+  en: What?
+  ko: 뭐.
+  ja: 何だよ。
+c261_Field_Go_1:
+  en: Is that place a little more exciting?
+  ko: 저쪽은 좀 덜 지루한가?
+  ja: そっちは、ここよりはマシか？
+c261_Battle_Enter_1:
+  en: Are things finally going to pick up?
+  ko: 흠, 드디어 재미있어지나?
+  ja: フン、やっとお楽しみの時間か？
+c261_Battle_Ready_1:
+  en: I can use a little excitement right now.
+  ko: 부디, 지루하지 않게 해달라고.
+  ja: お願いだから、退屈させないでくれよ。
+c261_Battle_Ready_2:
+  en: You can run, but you can't hide!
+  ko: 잔뜩 발버둥 쳐봐!
+  ja: 思い切り足掻くがいい！
+c261_Battle_Ready_3:
+  en: Haha! Time to play.
+  ko: 하하, 어디 한 번 놀아보실까.
+  ja: ハハ、一発かましてみるか。
+c261_Reload_1:
+  en: Let's keep it going.
+  ko: 더 가보자고.
+  ja: どんどん行くぞ。
+c261_Reload_2:
+  en: Now it's starting to get fun!
+  ko: 하하! 점점 재미있어지는데!
+  ja: ハハ！この調子だ！
+c261_Reload_3:
+  en: More, more, more! Let's fight!
+  ko: 더, 더, 더! 싸워보자고!!
+  ja: |-
+    もっと、もっと、もっと！
+    戦え！！
+c261_Ult_Skill_Ready_1:
+  en: Let's go wild!
+  ko: 날뛰어 볼까!
+  ja: 暴れまくるぞ！
+c261_Ult_Skill_1:
+  en: It's my turn! Taste this!
+  ko: 내 차례야! 버텨보라고--!!
+  ja: 私の番だ、耐えてみろー！
+c261_FullBurst_1:
+  en: Kill them all! Mwahahaha!
+  ko: 하하하! 다 죽여! 더 재미있게 해봐!!
+  ja: |-
+    ハハハ！皆殺しだ！
+    もっと楽しませろ！
+c261_Kill_Monster_1:
+  en: Next!
+  ko: 다음!
+  ja: 次！
+c261_Kill_Monster_2:
+  en: C'mon, next! Hurry up!
+  ko: 아, 다음 거 빨리 오라고!
+  ja: おい、どんどんかかってこい！
+c261_Kill_Monster_3:
+  en: Gotcha.
+  ko: 잡았다.
+  ja: 逃がさねえ。
+c261_Damage_1:
+  en: Hm?
+  ko: 흠?
+  ja: へえ？
+c261_Damage_2:
+  en: Oh yeah?
+  ko: 어쭈.
+  ja: ほお？
+c261_Damage_3:
+  en: Haha!
+  ko: 하하!
+  ja: はは！
+c261_Die_1:
+  en: This is boring. I'm done here.
+  ko: 흠… 재미없어. 그만할래.
+  ja: フン…面白くねえ。もうやめる。
+c261_Win_1:
+  en: Well, that was fun, wasn't it?
+  ko: 어때? 다 죽이니까 재밌지?
+  ja: |-
+    どうだ？
+    バタバタ死んでくの面白いだろ？
+261_cv_ja:
+  en: 'CV: Hitomi Nabatame'
+  ko: 'CV : 나바타메 히토미'
+  ja: CV：生天目仁美
+261_cv_ko:
+  en: 'CV: Kim Hyeon-sim'
+  ko: 'CV : 김현심'
+  ja: CV：キム・ヒョンシム
+261_cv_en:
+  en: 'CV: Marissa Lenti'
+  ko: 'CV : 마리사 렌티'
+  ja: CV：Marissa Lenti

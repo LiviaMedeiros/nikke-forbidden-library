@@ -1,0 +1,753 @@
+---
+352_name:
+  en: Helm
+  ko: 헬름
+  ja: ヘルム
+c352_description:
+  en: The leader of Aegis and the captain of the Admire, an amphibious warship. She
+    eagerly awaits the day when she can prove her mettle in naval combat.
+  ko: |-
+    이지스 스쿼드의 리더.
+    동시에 수륙양용 만능 전함 어드마이어 호의 함장이기도 하다.
+    하루빨리 바다로 나가 전과를 세울 날을 기다리고 있다.
+  ja: |-
+    イージス部隊のリーダー兼水陸両用万能戦艦
+    アドマイアー号の艦長でもある。
+    一日も早く海に出て戦功を挙げる日を待ち望んでいる。
+352_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_352:
+  en: Helm's Spare Body
+  ko: 헬름 스페어 바디
+  ja: ヘルムのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+23522_name:
+  en: Fire Away
+  ko: 포문 개방
+  ja: 砲門開放
+23522_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10000>Damage to Interruption Parts</word_group> ▲{description_value_01}% permanently.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Attack damage ▲{description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10000>저지 부위 공격 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10000>阻止部位の攻撃ダメージ</word_group> {description_value_01}％▲」「持続」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23521_name:
+  en: Frontline Command
+  ko: 진두지휘
+  ja: 陣頭指揮
+23521_description:
+  en: "■ Activates when the last bullet hits the target. Affects all allies. \n<color=#00AEFF>Critical
+    Rate of normal attack ▲ {description_value_01}% for {description_value_02} sec.</color>"
+  ko: |-
+    ■ 마지막 탄환 명중 시 아군 전체에게
+    <color=#00AEFF>[일반 공격 크리티컬 확률 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、味方全体に
+    <color=#00AEFF>「通常攻撃のクリティカル確率{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13523_name:
+  en: Aegis Cannon
+  ko: 이지스 캐논
+  ja: イージスキャノン
+13523_description_1:
+  en: "■ Affects the enemy with the highest <word_group=10025>final</word_group> ATK.
+    \n<color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color> \n■ Affects all allies. \n<color=#00AEFF>Recovers
+    {description_value_02}% of attack damage as HP over {description_value_03} sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    バーストスキルダメージ」</color>
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージの{description_value_02}％回復」
+    「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+350_name:
+  en: Mast
+  ko: 마스트
+  ja: マスト
+353_name:
+  en: 'Helm: Aquamarine'
+  ko: '헬름 : 아쿠아마린'
+  ja: ヘルム：アクアマリン
+354_name:
+  en: 'Mast: Romantic Maid'
+  ko: '마스트 : 로망틱 메이드'
+  ja: マスト：ロマンチックメイド
+355_name:
+  en: 'Anchor: Innocent Maid'
+  ko: '앵커 : 이노센트 메이드'
+  ja: アンカー：イノセントメイド
+351_name:
+  en: Anchor
+  ko: 앵커
+  ja: アンカー
+c352_Lobby_Touch_1:
+  en: We'll take to the high seas, I'm sure of it!
+  ko: 우리는 바다로 나갈 거야. 반드시.
+  ja: 私たちは海に行く。いつか必ず。
+c352_Lobby_Touch_2:
+  en: The Admire is invincible. I just have to prove it.
+  ko: 어드마이어 호는 무적. 그걸 증명해야 해.
+  ja: |-
+    アドマイアー号は無敵よ。
+    証明してみせるわ。
+c352_Lobby_Touch_3:
+  en: This is just a prop sword, so don't be scared.
+  ko: 이건 가검이야. 진검이 아니니 겁먹지 말도록.
+  ja: |-
+    これはおもちゃの剣よ。
+    本物じゃないから怖がらなくていいわ。
+c352_Lobby_Touch_Love_1:
+  en: You need to take better care of yourself.
+  ko: 귀관은 몸을 좀 더 소중히 할 필요가 있어.
+  ja: 貴官はもっと自分を大切に扱う必要があるわね。
+c352_Lobby_Touch_Love_2:
+  en: Will you join us at the next fundraiser?
+  ko: 다음 기부 행사에도 와 줄 거지?
+  ja: 次のカンパイベントにも来てくれるわよね？
+c352_Lobby_Touch_Love_3:
+  en: When we finally take to the high seas, I hope you'll be there with me.
+  ko: |-
+    우리가 바다로 나가는 그날,
+    귀관이 꼭 내 옆에 있었으면 해.
+  ja: 私たちが海に向かう時は、貴官が私の隣にいてくれたらいいのに。
+c352_Lobby_Stay_1:
+  en: What are you doing? If you have nothing better to do, I'm leaving.
+  ko: |-
+    귀관. 뭘 하는 거지?
+    시간 낭비를 하는 거라면 난 이만 돌아가겠어.
+  ja: |-
+    貴官。何をしているの？
+    時間を無駄にするつもりなら私は戻るわ。
+c352_Lobby_Stay_Love_1:
+  en: You zoned out for a while back there. Are you all right? If you're feeling under
+    the weather, just let me know.
+  ko: |-
+    아까부터 멍하니 있는데, 어디 아픈 건 아니지?
+    만약 그렇다면 꼭 말해주면 좋겠어.
+  ja: |-
+    さっきから視線が定まってないけど、大丈夫？
+    具合が悪いならすぐに言ってちょうだい。
+c352_Outpost_Touch_1:
+  en: The observatory... I'm sure Anchor will love it here.
+  ko: 관측소라… 앵커가 좋아하겠어.
+  ja: |-
+    観測所…
+    アンカーが喜びそうだわ。
+c352_Outpost_Touch_2:
+  en: This place is so well-maintained. I wonder where they're getting their money
+    from?
+  ko: 귀관. 이곳은 무슨 돈으로 유지되는 거지?
+  ja: 貴官。 ここはどうやって 維持されてるの？
+c352_Outpost_Touch_3:
+  en: It's been ages since I went for a swim... O-oh, never mind...
+  ko: 오랜만에 수영이나… 아, 아니. 아무것도 아냐.
+  ja: |-
+    久しぶりに水泳でも…
+    あ、いや。 何でもないわ。
+c352_Gacha_Get_1:
+  en: I look forward to the day I go on a voyage with you.
+  ko: 귀관과 함께 바다를 가로지를 그날을 기대할게.
+  ja: 貴官と一緒に海に出る日を楽しみにしてるわ。
+c352_Reinforce_1:
+  en: Another step closer to my dream.
+  ko: 좀 더… 꿈에 가까워졌어.
+  ja: これでまた少し…夢に近づいたわ。
+c352_Reinforce_2:
+  en: If I convert this to credits... O-oh, never mind... Thanks.
+  ko: 이걸 크레디트로 환산하면… 아, 아냐. 고마워.
+  ja: |-
+    クレジットに換算したら…
+    あ、何でもないわ。
+    ありがとう。
+c352_Reinforce_3:
+  en: I will never let you down.
+  ko: 기대에 부응할게.
+  ja: 期待に応えてみせるわ。
+c352_Gift_1:
+  en: You can put donations over there. Wait, it's a gift? Oh... um... S-sorry.
+  ko: |-
+    아, 기부구나. 저기에 넣어주면 돼.
+    …응? 선물이라고? 미, 미안해.
+  ja: |-
+    あ、寄付ならそこに入れておいてちょうだい。
+    …え？プレゼント？し、失礼。
+c352_Gift_2:
+  en: You shouldn't spend so much on me... but thanks, anyways.
+  ko: |-
+    돈은 귀관 자신을 위해 쓰도록 해.
+    …그래도 고마워.
+  ja: |-
+    お金なら貴官のために使ってちょうだい。
+    …でもその気持ちだけはありがたく頂戴するわ。
+c352_Gift_3:
+  en: Thanks, but I feel bad accepting it.
+  ko: 고마워. 왠지 나만 받기 좀 미안하네.
+  ja: |-
+    ありがとう。
+    でももらってばかりで悪いわ。
+c352_Attractive_Up_1:
+  en: I'm sorry, but I'm not blushing right now, am I?
+  ko: |-
+    미안한데 귀관.
+    내가 지금 어떤 표정을 짓고 있지?
+  ja: |-
+    ちょっといいかしら、貴官。
+    私が今、どんな顔をしてるか教えてくれない？
+c352_Attractive_Up_2:
+  en: Can I ask you a question? Do you... um... get around a lot?
+  ko: |-
+    솔직하게 물어볼게.
+    귀관은 바람둥이인가?
+  ja: |-
+    正直に聞かせてもらうわ。
+    貴官はプレイボーイなの？
+c352_Attractive_Up_3:
+  en: These feelings weren't mentioned in the textbook...
+  ko: 이런 기분은 교범에 나와있지 않았는데….
+  ja: こんな気持ち、教科書にはなかったのに…
+c352_Party_Deploy_1:
+  en: Finally, it's time we can show everyone what we're capable of!
+  ko: 전과를 올릴 절호의 기회야.
+  ja: 戦果を挙げる絶好のチャンスだわ。
+c352_Field_Touch_1:
+  en: Please make your orders clear and concise.
+  ko: 명령은 신속 정확하게 부탁해.
+  ja: 命令は迅速かつ正確に頼むわ。
+c352_Field_Go_1:
+  en: All right, moving in.
+  ko: 알겠어. 이동할게.
+  ja: 了解。移動するわ。
+c352_Battle_Enter_1:
+  en: Engaging with the enemy.
+  ko: 교전 개시.
+  ja: 交戦開始。
+c352_Battle_Ready_1:
+  en: If we can't clinch the victory...
+  ko: 전과를 올리지 않으면….
+  ja: 戦果を挙げなくては…
+c352_Battle_Ready_2:
+  en: You can always count on quality training.
+  ko: 훈련은 배신하지 않아.
+  ja: 訓練は裏切らない。
+c352_Battle_Ready_3:
+  en: Time to show them what we're made of.
+  ko: 우리의 존재를 증명할 때가 왔어.
+  ja: 私たちの存在を証明する時が来たわ。
+c352_Reload_1:
+  en: Reloading. Cover me.
+  ko: 리로드. 커버 부탁해.
+  ja: リロード。フォローを頼むわ。
+c352_Reload_2:
+  en: We can do it faster.
+  ko: 더 빠르게 할 수 있을 거야.
+  ja: もっと速くできるはずよ。
+c352_Reload_3:
+  en: All right, let's keep going.
+  ko: 좋아. 계속 가자.
+  ja: その調子で突き進むわよ。
+c352_Ult_Skill_Ready_1:
+  en: Admire, stand by.
+  ko: 어드마이어. 스탠바이.
+  ja: アドマイアー。スタンバイ。
+c352_Ult_Skill_1:
+  en: Full speed ahead! Aegis cannon, fire!
+  ko: 전속 전진! 이지스 캐논! 발사!
+  ja: |-
+    全速前進！
+    イージスキャノン！発射！
+c352_FullBurst_1:
+  en: All gunports open! Fire!
+  ko: 전 포문 개방! 일제 사격!
+  ja: 全砲門開放！一斉射撃！
+c352_Kill_Monster_1:
+  en: Next!
+  ko: 다음!
+  ja: 次！
+c352_Kill_Monster_2:
+  en: Enemy down!
+  ko: 격추 확인!
+  ja: 撃墜確認！
+c352_Kill_Monster_3:
+  en: Direct hit!
+  ko: 직격이야!
+  ja: 直撃よ！
+c352_Damage_1:
+  en: Urgh!
+  ko: 큿…!
+  ja: くっ…！
+c352_Damage_2:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c352_Damage_3:
+  en: This is nothing...!
+  ko: 이 정도쯤은…!
+  ja: 何のこれしき…！
+c352_Die_1:
+  en: That's it... I'll leave the rest to you.
+  ko: 여기까지네... 뒤는 귀관에게 맡길게.
+  ja: |-
+    ここまでみたいね…
+    あとは貴官に任せたわ。
+c352_Win_1:
+  en: With this, we're one step closer to our dream.
+  ko: 이걸로 우린 좀 더 꿈에 다가갈 수 있어.
+  ja: これでまた一歩夢に近づいたわ。
+c352_02_Lobby_Touch_1:
+  en: "An emergency? I'll get changed into my uniform and head out right away! \n...
+    What? That's not necessary?"
+  ko: |-
+    긴급 상황? 바로 군복으로 갈아입고 출발할게!
+    …뭐? 그럴 필요 없다고?
+  ja: |-
+    緊急事態？今すぐ軍服に着替えて出発するわ！
+    …え？その必要はないですって？
+c352_02_Lobby_Touch_2:
+  en: |-
+    I'm taking a steam bath.
+    I'm almost done, so I'll get back to the mission soon.
+  ko: |-
+    증기 치료를 위해서 목욕 중이었어.
+    다 끝났으니까, 곧 임무에 복귀할게.
+  ja: |-
+    体を温めていたところよ。
+    もう終わったから任務に戻るわ。
+c352_02_Lobby_Touch_3:
+  en: |-
+    I'm sure the bathroom is a bit warm due to all the steam.
+    Sorry, I'll get ready as quickly as I can and go out.
+  ko: |-
+    수증기 때문에 욕실 안이 많이 덥지?
+    미안. 얼른 준비하고 나갈게.
+  ja: |-
+    蒸気のせいで浴室が暑いでしょ？
+    ごめんなさい。すぐに準備するわ。
+c352_02_Lobby_Touch_Love_1:
+  en: |-
+    It's strange... I feel like I'm becoming more conscious of your gaze...
+    Can I get changed and come back?
+  ko: "이, 이상하게… 점점 귀관의 시선을 의식하게 되는데… \n옷을 좀 갈아입고 와도 될까?"
+  ja: |-
+    な、なんだか…貴官の視線が気になって…
+    着替えてきてもいいかしら？
+c352_02_Lobby_Touch_Love_2:
+  en: |-
+    It makes me feel a bit self-conscious with you watching...
+    Er, could you look away for a moment?
+  ko: |-
+    귀관이 보고 있으니까 좀… 부끄럽네.
+    자, 잠깐만… 시선을 돌려줄 수 있을까?
+  ja: |-
+    貴官に見られていると思うと…恥ずかしいわ。
+    す、少しだけ…むこうを向いていてくれるかしら。
+c352_02_Lobby_Touch_Love_3:
+  en: |-
+    Getting a good steam is quite therapeutic.
+    You should give it a try sometime, Subordinate.
+  ko: |-
+    증기 치료라는 거 해보니까 정말 좋네.
+    귀관도 나중에 꼭 해봤으면 좋겠어.
+  ja: |-
+    温まると疲れが取れるわよ。
+    貴官も今度試してみて。
+c352_02_Lobby_Stay_1:
+  en: If you're busy, I can go get some things prepared.
+  ko: 귀관, 많이 바쁘면 나도 이만 준비하러 가보도록 할게.
+  ja: 忙しいのね。私も準備をするわ。
+c352_02_Lobby_Stay_Love_1:
+  en: |-
+    If you have something urgent to take care of, go ahead.
+    I'll be soaking my feet in the meantime.
+  ko: |-
+    급한 일 있으면 먼저 다녀와.
+    난 그동안 족욕이라도 하고 있을게.
+  ja: |-
+    急用があるなら、そちらを優先して。
+    私は足湯でもしながら待ってるわ。
+c352_02_Outpost_Touch_1:
+  en: |-
+    Do you think we could fill the Outpost's pool with warm water?
+    I'd love for everyone to experience what it's like to have a nice, hot soak.
+  ko: |-
+    전초기지의 수영장에도 온수가 나오게 할 수는 없겠지?
+    다들 따뜻한 물에 들어가는 걸 경험하게 해주고 싶은데….
+  ja: |-
+    前哨基地のプールでも 温水が使えないかしら。
+    みんなにも温かいプールに 入らせてあげたいわ…
+c352_02_Outpost_Touch_2:
+  en: |-
+    Now that I think about it, don't you have a bathtub in your room?
+    I think it'd be great for you to have a steam sometime.
+  ko: |-
+    그러고 보니 지휘관실에는 욕조가 있었던가?
+    귀관도 증기 치료를 경험해 봤으면 좋겠는데….
+  ja: |-
+    指揮官室には浴槽がなかったわね。
+    貴官にもお風呂の魅力を 知ってもらいたいわ…
+c352_02_Outpost_Touch_3:
+  en: "What's my favorite bath toy? \nNot sure... Although I think I would like having
+    a miniature of the Admire."
+  ko: |-
+    제일 좋아하는 목욕 장난감이 뭐냐고?
+    글쎄… 어드마이어 호의 미니어처가 있다면 좋아했을 거 같아.
+  ja: |-
+    一番好きなお風呂のおもちゃ？
+    そうね…アドマイアー号の フィギュアとかかしら？
+    そんなものがあればの話だけど。
+c352_02_Gacha_Get_1:
+  en: "Being in warm water feels much better than I thought. \nWould you like to try
+    it for yourself later?"
+  ko: |-
+    따뜻한 물에 들어가 있는 건 생각보다 더 기분 좋은 일이었네.
+    귀관도 나중에 해볼래?
+  ja: |-
+    温かいお湯に浸かるのは、予想以上に気持ちがよかったわ。
+    貴官も今度どうかしら？
+c352_02_Reinforce_1:
+  en: Is this thanks to all those steam treatments...?
+  ko: 이게… 증기 치료의 효과인가?
+  ja: 体が温まったからかしら…？
+c352_02_Reinforce_2:
+  en: Thanks for giving me time to regroup.
+  ko: 재정비할 시간을 줘서 고마워.
+  ja: 再整備の時間ができて助かったわ。
+c352_02_Reinforce_3:
+  en: I couldn't have done this without your support. I'll repay you with stellar
+    results.
+  ko: 귀관의 지원 덕분이야. 성과로 보답할게.
+  ja: 貴官の支援のおかげよ。最高の成果でお返しするわ。
+c352_02_Gift_1:
+  en: I... I'm not really sure how I should express my gratitude. Thank you so much.
+  ko: |-
+    음… 무슨 말로 이 고마움을 표현해야 할지 모르겠어.
+    …정말 고마워.
+  ja: |-
+    あ…何て言えば感謝が伝わるかしら。
+    …本当にありがとう。
+c352_02_Gift_2:
+  en: You know what I like better than I do.
+  ko: 내가 뭘 좋아하는지, 나보다 귀관이 더 잘 아는 것 같네.
+  ja: 私が何を好きなのか、貴官のほうが分かっているのね。
+c352_02_Gift_3:
+  en: Thanks to you, I can feel this warmth filling up my heart.
+  ko: 귀관 덕분에 마음에도 온기가 채워지는 느낌이야.
+  ja: 貴官のおかげで、心まで温かく満たされる感じがするわ。
+c352_02_Attractive_Up_1:
+  en: |-
+    Lately, my mind goes a bit fuzzy whenever I see you.
+    Could it be because I stayed in the bath for too long?
+  ko: |-
+    요즘 귀관을 보면 마음이 어지러운 것 같아.
+    …목욕을 오래 해서 그런 걸까?
+  ja: |-
+    貴官を見ていると頭がぼーっとしてくるの。
+    …お湯に浸かり過ぎたせいかしら。
+c352_02_Attractive_Up_2:
+  en: |-
+    I'd love for us to be alone together forever,
+    even though I know that's impossible.
+  ko: |-
+    이대로 쭉… 귀관과 둘이서 함께 있었으면 좋겠네.
+    …그럴 수 없겠지만.
+  ja: |-
+    このままずっと…貴官と二人きりでいたいわ。
+    …でも、それは無理な話よね。
+c352_02_Attractive_Up_3:
+  en: This feeling of warmth that you give me is something I'll cherish forever.
+  ko: 귀관이 내게 준 마음속 온기를… 평생 간직할게.
+  ja: 貴官がくれた心のぬくもり…一生大切にするわ。
+c352_02_Party_Deploy_1:
+  en: Right now? Er... Okay, no problem.
+  ko: 지금 바로? 문제… 없어.
+  ja: 今から？問題…ないわ。
+c352_02_Field_Touch_1:
+  en: Standing by.
+  ko: 대기하고 있어.
+  ja: いつでも準備できてるわ。
+c352_02_Field_Go_1:
+  en: Yes, understood.
+  ko: 응, 알겠어.
+  ja: 分かったわ。
+c352_02_Battle_Enter_1:
+  en: Everyone, prepare for battle!
+  ko: 모두, 전투 준비!
+  ja: 全員、戦闘準備！
+c352_02_Battle_Ready_1:
+  en: Don't worry about me. My body is in perfect condition.
+  ko: 내 걱정은 하지 마. 바디 정비는 완벽하니까.
+  ja: 私のことなら心配ないわ。ボディの整備は完璧よ。
+c352_02_Battle_Ready_2:
+  en: I'm going to finish this quickly and get back to the warm water.
+  ko: 얼른 끝내고, 다시 따뜻한 물속으로 돌아가야겠어.
+  ja: 早く終わらせて、お風呂に戻りましょう。
+c352_02_Battle_Ready_3:
+  en: Time to show what steam treatments can do.
+  ko: 증기 치료의 효과를 보여줄게.
+  ja: 効果を見せてあげるわ。
+c352_02_Reload_1:
+  en: Dang it, my hands are too slippery.
+  ko: 윽, 손이 미끄럽네.
+  ja: うっ、手が滑る…
+c352_02_Reload_2:
+  en: Careful now... Let's go again.
+  ko: 신중하게… 다시 가는 거야.
+  ja: 慎重に…もう一度。
+c352_02_Reload_3:
+  en: Back to it.
+  ko: 바로 복귀할게.
+  ja: すぐに戻るわ。
+c352_02_Ult_Skill_Ready_1:
+  en: I'm ready.
+  ko: 난 준비됐어.
+  ja: 準備はできてるわ。
+c352_02_Ult_Skill_1:
+  en: Will you join me, Subordinate?
+  ko: 귀관, 함께… 해줄 거야?
+  ja: 貴官、一緒に…いいかしら？
+c352_02_FullBurst_1:
+  en: The time has come! Let's give it our all!
+  ko: 때가 됐어! 전력을 다하는 거야!
+  ja: 時が来たわ！全力を尽くすのよ！
+c352_02_Kill_Monster_1:
+  en: Resolved!
+  ko: 해결했어!
+  ja: 始末したわ！
+c352_02_Kill_Monster_2:
+  en: Gotta go faster!
+  ko: 더 빠르게…!
+  ja: もっと速く…！
+c352_02_Kill_Monster_3:
+  en: There's no escape!
+  ko: 놓치지 않아!
+  ja: 逃さない！
+c352_02_Damage_1:
+  en: Ugh!
+  ko: 윽!
+  ja: うっ！
+c352_02_Damage_2:
+  en: Gah!
+  ko: 큭!
+  ja: くっ！
+c352_02_Damage_3:
+  en: Argh!
+  ko: 으흑!
+  ja: ううっ！
+c352_02_Die_1:
+  en: I... I'm sorry for failing you, Subordinate.
+  ko: 귀관의 믿음을 저버려서… 미안해.
+  ja: 信じてくれていたのに…ごめんなさい。
+c352_02_Win_1:
+  en: Whew... I'm glad that's all resolved, but now I need to wash up again.
+  ko: |-
+    후… 잘 해결된 건 좋은데,
+    …다시 씻어야겠네.
+  ja: ふぅ…一段落したのはいいけれど、また体を洗わなくちゃ。
+352_cv_ja:
+  en: 'CV: Inoue Marina'
+  ko: 'CV : 이노우에 마리나'
+  ja: CV：井上麻里奈
+352_cv_ko:
+  en: 'CV: Sa Moon-young'
+  ko: 'CV : 사문영'
+  ja: CV：サ・ムニョン
+352_cv_en:
+  en: 'CV: Elizabeth Simmons'
+  ko: 'CV : 엘리자베스 시몬스'
+  ja: CV：Elizabeth Simmons

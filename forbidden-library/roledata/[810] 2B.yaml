@@ -1,0 +1,626 @@
+---
+810_name:
+  en: 2B
+  ko: 2B
+  ja: 2B
+c810_description:
+  en: "A taciturn blade of silent resolve. \nYoRHa No. 2 Type B android."
+  ko: |-
+    [조용한 의지의 칼날].
+    요르하 부대 소속 2호 B형 안드로이드.
+  ja: |-
+    「静かな意志の、刃」
+    ヨルハ部隊所属二号B型のアンドロイド。
+810_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_810:
+  en: 2B's Spare Body
+  ko: 2B 스페어 바디
+  ja: 2Bのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+18102_name:
+  en: Cluster Bomb
+  ko: 클러스터 봄
+  ja: クラスターボム
+18102_description:
+  en: "■ Activates after firing {description_value_01} time(s). Affects all enemies.\n<color=#00AEFF>Deals
+    {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    \n■ Activates when entering battle. Affects self.\n<color=#00AEFF>ATK ▲ {description_value_03}%
+    of the caster's <word_group=10025>final</word_group> Max HP continuously.</color>"
+  ko: |-
+    ■ {description_value_01}회 사격 시 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_03}%만큼 공격력 ▲] [지속]</color>
+  ja: |-
+    ■{description_value_01}回射撃した時、敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％分の
+    攻撃力▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28101_name:
+  en: Survival
+  ko: 생존 행동
+  ja: 生存行動
+28101_description:
+  en: |-
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: Max HP ▲ {description_value_01}% continuously.
+    Twice: Max HP ▲ {description_value_02}% continuously.
+    Three times: Max HP ▲ {description_value_03}% continuously.</color>
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
+    1회 : [최대 체력 {description_value_01}% ▲] [지속]
+    2회 : [최대 체력 {description_value_02}% ▲] [지속]
+    3회 : [최대 체력 {description_value_03}% ▲] [지속]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「開始回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「最大HP{description_value_01}％▲」「持続」
+    2回：「最大HP{description_value_02}％▲」「持続」
+    3回：「最大HP{description_value_03}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18103_name:
+  en: Series of Attacks
+  ko: 연속 공격
+  ja: 連続攻撃
+18103_description:
+  en: "■ Affects all enemies.\n<color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group>
+    ATK as <word_group=10019>distributed damage</word_group>.</color> \n■ Affects
+    {description_value_02} enemy unit(s) with the highest remaining HP.\n<color=#00AEFF>Deals
+    {description_value_03}% of <word_group=10025>final</word_group> ATK as additional
+    damage.</color>"
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% <word_group=10019>분배 대미지</word_group>]</color>
+    ■ 남은 체력 수치가 가장 높은 적 {description_value_02}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の<word_group=10019>分配ダメージ</word_group>」</color>
+    ■残りHPの値が最も高い敵{description_value_02}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+811_name:
+  en: A2
+  ko: A2
+  ja: A2
+c810_Lobby_Touch_1:
+  en: Need anything?
+  ko: 필요한 거라도?
+  ja: 何か必要？
+c810_Lobby_Touch_2:
+  en: Mission briefing required.
+  ko: 작전에 관한 설명 부탁해.
+  ja: 作戦の説明をお願い。
+c810_Lobby_Touch_3:
+  en: Yes?
+  ko: 음?
+  ja: 何か？
+c810_Lobby_Touch_Love_1:
+  en: Humans in this world are under threat by robotic weapons called Raptures?
+  ko: 이곳에는 랩쳐라는 기계병기가 인류를 위협하고 있다고…?
+  ja: ここではラプチャーという機械兵器が人類を脅かしているの…？
+c810_Lobby_Touch_Love_2:
+  en: Perhaps we share a common goal.
+  ko: 어떻게 보면 우리는 같은 목표를 갖고 있는 거군.
+  ja: ある意味、私たちは同じ目的を持っている。
+c810_Lobby_Touch_Love_3:
+  en: Yes? Are you summoning me?
+  ko: 응? 불렀어?
+  ja: 呼んだ？
+c810_Lobby_Stay_1:
+  en: I'm waiting.
+  ko: 대기 중.
+  ja: 待機中。
+c810_Lobby_Stay_Love_1:
+  en: I'm always ready for battle. Count me in if you need me.
+  ko: 전투 준비는 언제든 완료되어 있으니 필요할 때 불러줘.
+  ja: |-
+    戦闘の準備はできている。
+    いつでも呼んで。
+c810_Outpost_Touch_1:
+  en: There are so many amazing buildings here.
+  ko: 여기는 신기한 건물들이 많네.
+  ja: ここは不思議な建物が多い。
+c810_Outpost_Touch_2:
+  en: These machines passing by are called... Nikkes?
+  ko: 지나가는 저들이 니케…라고?
+  ja: あの人たちがニケ… だって？
+c810_Outpost_Touch_3:
+  en: I appreciate you allowing me to look around this place.
+  ko: 덕분에 구경 중이야.
+  ja: おかげでいい見学ができた。
+c810_Gacha_Get_1:
+  en: 2B here, at your service.
+  ko: 내 이름은 2B. 준비는 돼있어.
+  ja: 私の名前は2B、準備はできている。
+c810_Reinforce_1:
+  en: Body reinforcement complete.
+  ko: 바디 강화 완료.
+  ja: ボディ強化完了。
+c810_Reinforce_2:
+  en: Parts here are quite special.
+  ko: 이곳의 부품은 조금 특이한 것 같아.
+  ja: ここの部品は少し変わっている気がする。
+c810_Reinforce_3:
+  en: I appreciate your support.
+  ko: 지원에 감사를 표하지.
+  ja: 支援に感謝を。
+c810_Gift_1:
+  en: Fine, I will accept it.
+  ko: 받아둘게.
+  ja: もらっておく。
+c810_Gift_2:
+  en: Where exactly is this supposed to be used?
+  ko: 이건… 어디서 사용하는 물건이지?
+  ja: これは…何に使うもの？
+c810_Gift_3:
+  en: I will accept your gift, although I do not understand why you give it.
+  ko: 무의미한 호의라고 생각하지만, 받아는 둘게.
+  ja: 無意味な好意だと思うけど、受け取っておく。
+c810_Attractive_Up_1:
+  en: Nice to meet you.
+  ko: 잘 부탁해.
+  ja: よろしく。
+c810_Attractive_Up_2:
+  en: It seems I do not need to be too wary of you.
+  ko: 너무 경계할 필요는 없겠어.
+  ja: 警戒しすぎる必要はなさそう。
+c810_Attractive_Up_3:
+  en: Thank you for your kindness.
+  ko: 호의에 감사하지.
+  ja: 好意に感謝を。
+c810_Party_Deploy_1:
+  en: I will be joining your squad temporarily.
+  ko: 해당 부대에 임시 합류한다.
+  ja: 該当部隊に一時合流する。
+c810_Field_Touch_1:
+  en: 2B here.
+  ko: 여기는 2B.
+  ja: こちら2B。
+c810_Field_Go_1:
+  en: Roger.
+  ko: 라져.
+  ja: 了解。
+c810_Battle_Enter_1:
+  en: Ready for combat.
+  ko: 전투태세에 들어간다.
+  ja: 戦闘態勢に入る。
+c810_Battle_Ready_1:
+  en: Multiple enemies detected.
+  ko: 적 다수. 발견.
+  ja: 敵、多数確認。
+c810_Battle_Ready_2:
+  en: Destroy.
+  ko: 파괴한다.
+  ja: 破壊する。
+c810_Battle_Ready_3:
+  en: Target acquired.
+  ko: 대상을 포착.
+  ja: 対象を捕捉。
+c810_Reload_1:
+  en: Reorganizing.
+  ko: 정비중.
+  ja: 整備中。
+c810_Reload_2:
+  en: Buy me some time.
+  ko: 잠시만 시간을 벌어줘.
+  ja: 少し時間を稼いで。
+c810_Reload_3:
+  en: Start over.
+  ko: 다시 가자.
+  ja: もう一度行こう。
+c810_Ult_Skill_Ready_1:
+  en: Ready.
+  ko: 준비됐어.
+  ja: 準備完了。
+c810_Ult_Skill_1:
+  en: You can't hold a candle to me.
+  ko: 힘의 차이를 깨달아라.
+  ja: 力の差を知れ。
+c810_FullBurst_1:
+  en: Going all out.
+  ko: 전력으로.
+  ja: 全力で行く。
+c810_Kill_Monster_1:
+  en: What a nuisance.
+  ko: 방해야.
+  ja: 邪魔。
+c810_Kill_Monster_2:
+  en: Another one down.
+  ko: 쓰러뜨린다.
+  ja: 倒す。
+c810_Kill_Monster_3:
+  en: That's that.
+  ko: 이걸로 끝.
+  ja: これで終わり。
+c810_Damage_1:
+  en: Ugh...
+  ko: 읏….
+  ja: うっ…
+c810_Damage_2:
+  en: Eh.
+  ko: 음.
+  ja: あ。
+c810_Damage_3:
+  en: Argh!
+  ko: 큿!
+  ja: ぐぅ！
+c810_Die_1:
+  en: I'll leave the rest to you.
+  ko: 뒤를 부탁할게.
+  ja: 後はお願い。
+c810_Win_1:
+  en: Enemy dispatched.
+  ko: 섬멸, 완료.
+  ja: 殲滅、完了。
+c810_02_Lobby_Touch_1:
+  en: What do you need?
+  ko: 볼일이 있어?
+  ja: 何か用？
+c810_02_Lobby_Touch_2:
+  en: What's the mission objective?
+  ko: 이번 작전의 목표는 뭐지?
+  ja: 今回の作戦の目標は？
+c810_02_Lobby_Touch_3:
+  en: My overall condition is satisfactory.
+  ko: 상태 양호.
+  ja: 状態良好。
+c810_02_Lobby_Touch_Love_1:
+  en: How many of those Raptures are there in total?
+  ko: 랩쳐라는 것들의 수는 얼마나 되는 거지?
+  ja: ラプチャーというものの数は、どれくらいなの？
+c810_02_Lobby_Touch_Love_2:
+  en: So this so-called Ark is mankind's last line of defense?
+  ko: 방주라는 곳이 인류 최후의 방어선인 셈이네.
+  ja: アークという場所が、人類最後の防御線ということね。
+c810_02_Lobby_Touch_Love_3:
+  en: Nikkes and androids share some similarities.
+  ko: 니케와 우리는 닮은 점이 있는 것 같아.
+  ja: ニケと私たちには、似ている部分があると思う。
+c810_02_Lobby_Stay_1:
+  en: I'm undergoing maintenance.
+  ko: 메인터넌스 중.
+  ja: メンテナンス中。
+c810_02_Lobby_Stay_Love_1:
+  en: |-
+    Let me know if you need me.
+    I'm ready for anything.
+  ko: |-
+    언제든 움직일 수 있어.
+    볼일이 있다면 불러도 괜찮아.
+  ja: |-
+    いつでも動ける。
+    用があったら呼んでくれて
+    構わない。
+c810_02_Outpost_Touch_1:
+  en: This place seems so tranquil.
+  ko: 이곳은 평화로워 보이네.
+  ja: ここは平和そうだね。
+c810_02_Outpost_Touch_2:
+  en: As long as you perform regular cleaning and maintenance, bathing is unnecessary.
+  ko: 샤워? 우리는 부품 세정 점검만으로 충분하니 신경 쓰지 않아도 돼.
+  ja: |-
+    シャワー？
+    私たちは部品洗浄 メンテナンスだけで 十分だから、
+    気にしないでいい。
+c810_02_Outpost_Touch_3:
+  en: Are you the only male here?
+  ko: 이 장소에 남성은 너 하나뿐인 건가?
+  ja: ここにいる男性は貴方だけ？
+c810_02_Gacha_Get_1:
+  en: YoRHa unit 2B, joining temporarily.
+  ko: 요르하 부대 소속 2B. 임시 합류한다.
+  ja: |-
+    ヨルハ部隊所属2B。
+    一時合流する。
+c810_02_Reinforce_1:
+  en: Output increased.
+  ko: 출력 상승 확인.
+  ja: 出力上昇を確認。
+c810_02_Reinforce_2:
+  en: Body enhanced.
+  ko: 바디 강화 완료.
+  ja: ボディ強化完了。
+c810_02_Reinforce_3:
+  en: No signs of rejection detected.
+  ko: 거부반응 없음.
+  ja: 拒否反応なし。
+c810_02_Gift_1:
+  en: What's this?
+  ko: 이건…?
+  ja: これは……？
+c810_02_Gift_2:
+  en: What is the function of this?
+  ko: 이것의 용도는 뭐지?
+  ja: これの用途は？
+c810_02_Gift_3:
+  en: What exactly is this for?
+  ko: 이건… 무슨 물건이지?
+  ja: これは…どう使うの？
+c810_02_Attractive_Up_1:
+  en: Thank you.
+  ko: 감사를 표하지.
+  ja: 感謝する。
+c810_02_Attractive_Up_2:
+  en: Camaraderie confirmed.
+  ko: 우호적 행동을 확인.
+  ja: 友好的行動を確認。
+c810_02_Attractive_Up_3:
+  en: No hostility detected.
+  ko: 적성 반응 없음.
+  ja: 敵性反応なし。
+c810_02_Party_Deploy_1:
+  en: We don't get to choose our assignments.
+  ko: 작전에 좋고 싫음은 없다.
+  ja: 作戦に好き嫌いはない。
+c810_02_Field_Touch_1:
+  en: What is it?
+  ko: 뭐지?
+  ja: 何？
+c810_02_Field_Go_1:
+  en: All right.
+  ko: 알았다.
+  ja: 分かった。
+c810_02_Battle_Enter_1:
+  en: Enemies sighted.
+  ko: 찾았다.
+  ja: 見つけた。
+c810_02_Battle_Ready_1:
+  en: You can count on me.
+  ko: 나한테 맡겨.
+  ja: 私に任せて。
+c810_02_Battle_Ready_2:
+  en: I'll take care of it.
+  ko: 쓰러뜨린다.
+  ja: 倒す。
+c810_02_Battle_Ready_3:
+  en: Enemy units detected. Wipe them out.
+  ko: 적 출현. 섬멸한다.
+  ja: 敵出現。殲滅する。
+c810_02_Reload_1:
+  en: Back me up.
+  ko: 원호는 맡길게.
+  ja: 援護は任せる。
+c810_02_Reload_2:
+  en: I'll be back soon.
+  ko: 금방 복귀할게.
+  ja: すぐ戻る。
+c810_02_Reload_3:
+  en: Gotta regroup and rendezvous.
+  ko: 재정비 후 합류한다.
+  ja: 再整備後、合流する。
+c810_02_Ult_Skill_Ready_1:
+  en: Preparation completed.
+  ko: 준비됐어.
+  ja: 準備完了。
+c810_02_Ult_Skill_1:
+  en: You're wasting your time.
+  ko: 시간 낭비야.
+  ja: 時間がもったいない。
+c810_02_FullBurst_1:
+  en: Go!
+  ko: 가라!
+  ja: 行けッ！！
+c810_02_Kill_Monster_1:
+  en: Target down.
+  ko: 격추 확인.
+  ja: 撃墜確認。
+c810_02_Kill_Monster_2:
+  en: Enemies destroyed.
+  ko: 파괴를 확인.
+  ja: 破壊を確認。
+c810_02_Kill_Monster_3:
+  en: Begone.
+  ko: 사라져.
+  ja: 消えて。
+c810_02_Damage_1:
+  en: Uh!
+  ko: 윽!
+  ja: うっ！
+c810_02_Damage_2:
+  en: Argh!
+  ko: 앗!
+  ja: うぁ！
+c810_02_Damage_3:
+  en: "*Groan*"
+  ko: 큭!
+  ja: がっ！
+c810_02_Die_1:
+  en: Significant damage taken. Pull back.
+  ko: 대미지 누적. 퇴각한다.
+  ja: ダメージ蓄積。退却する。
+c810_02_Win_1:
+  en: All clear.
+  ko: 깨끗해졌네.
+  ja: きれいになった。
+810_cv_ja:
+  en: 'CV: Yui Ishikawa'
+  ko: 'CV : 이시카와 유이'
+  ja: CV：石川由依
+810_cv_ko:
+  en: 'CV: Yui Ishikawa'
+  ko: 'CV : 이시카와 유이'
+  ja: CV：石川由依
+810_cv_en:
+  en: 'CV: Kira Buckland'
+  ko: 'CV : 키라 버클랜드'
+  ja: CV：Kira Buckland

@@ -1,0 +1,3497 @@
+---
+event_brandnewyear_prologue:
+  event_brandnewyear_prologue_1:
+    speaker: Narration
+    en: "*knock knock*"
+    ko: 똑똑-
+    ja: コンコン
+  event_brandnewyear_prologue_2:
+    speaker: Self
+    en: Come in.
+    ko: 들어와.
+    ja: どうぞ
+  event_brandnewyear_prologue_3:
+    speaker: Narration
+    en: "*zing*"
+    ko: 지잉-
+    ja: ウィーン…
+  event_brandnewyear_prologue_4:
+    speaker: helm
+    en: Subordinate. It's been a while.
+    ko: |-
+      귀관.
+      오랜만이야.
+    ja: 久しぶりね。
+  event_brandnewyear_prologue_5:
+    speaker: Self
+    en: Helm?
+    ko: 헬름?
+    ja: ヘルム？
+  event_brandnewyear_prologue_6:
+    speaker: Self
+    en: What are you doing here?
+    ko: 이곳엔 어쩐 일이야?
+    ja: どうしてここに？
+  event_brandnewyear_prologue_7:
+    speaker: helm
+    en: I came to give you a party invitation.
+    ko: 파티 초대권을 주러 왔어.
+    ja: パーティーの招待券を渡しに来たの。
+  event_brandnewyear_prologue_8:
+    speaker: helm
+    en: Since the new year is coming, I'm planning on hosting a party on the Admire.
+    ko: |-
+      새해가 밝았으니.
+      어드마이어 호에서 선상 파티를 개최할 예정이거든.
+    ja: |-
+      新年だから、アドマイアー号で
+      船上パーティーを開く予定なの。
+  event_brandnewyear_prologue_9:
+    speaker: helm
+    en: Something like a New Year's celebration.
+    ko: 신년회라고 생각하면 돼.
+    ja: 新年会だと思えばいいわ。
+  event_brandnewyear_prologue_10:
+    speaker: helm
+    en: I think it would be good if you participated.
+    ko: 귀관도 참가하면 좋을 것 같아서.
+    ja: 貴官にも参加してほしくて。
+  event_brandnewyear_prologue_11:
+    speaker: "<Choice>"
+    en: I'll go if I have time.
+    ko: 시간 나면 참석할게.
+    ja: 時間があったら参加しよう
+  event_brandnewyear_prologue_12:
+    speaker: "<Choice>"
+    en: Do I need to bring a donation?
+    ko: 기부금도 챙겨 가야 해?
+    ja: 寄付金も必要か？
+  event_brandnewyear_prologue_13:
+    speaker: helm
+    en: Okay, but don't feel like you have to go out of your way to attend.
+    ko: 응. 너무 바쁘면 무리하지 않아도 돼.
+    ja: ええ。忙しかったら無理しなくてもいいわ。
+  event_brandnewyear_prologue_14:
+    speaker: helm
+    en: No, that won't be necessary.
+    ko: |-
+      아니, 괜찮아.
+      몸만 와도 상관없어.
+    ja: |-
+      いいえ、大丈夫よ。
+      手ぶらでも問題ないわ。
+  event_brandnewyear_prologue_15:
+    speaker: helm
+    en: "... But if you did, I certainly wouldn't turn it down."
+    ko: "…하지만 챙겨와 준다면 사양은 안 할게."
+    ja: "…でも持ってきてくれるなら、\\n遠慮はしないわよ。"
+  event_brandnewyear_prologue_16:
+    speaker: helm
+    en: It's going to be quite a fancy soiree.
+    ko: |-
+      이번 선상 파티는.
+      꽤 호화스럽게 진행될 테니까… 기대할만할 거야.
+    ja: |-
+      今回の船上パーティーは
+      かなり豪勢に行う予定だから…\n楽しみにしてて。
+  event_brandnewyear_prologue_17:
+    speaker: Self
+    en: I'm looking forward to it.
+    ko: 알겠어.
+    ja: 分かった
+  event_brandnewyear_prologue_18:
+    speaker: helm
+    en: Hope to see you there.
+    ko: 응. 그럼 그때 봐.
+    ja: それじゃあ会場でね。
+  event_brandnewyear_prologue_19:
+    speaker: helm
+    en: Oh, right...
+    ko: 아, 참. 귀관.
+    ja: あ、そうだ。
+  event_brandnewyear_prologue_20:
+    speaker: Self
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_brandnewyear_prologue_21:
+    speaker: helm
+    en: I just wanted to say that...
+    ko: 올해도.
+    ja: 今年も
+  event_brandnewyear_prologue_22:
+    speaker: helm
+    en: I'm excited to continue working with you this year.
+    ko: 잘 부탁해.
+    ja: よろしくね。
+  event_brandnewyear_prologue_23:
+    speaker: Self
+    en: Me too.
+    ko: 나도 잘 부탁해.
+    ja: こちらこそよろしく
+event_brandnewyear_01_s:
+  event_brandnewyear_01_s_1:
+    speaker: Narration
+    en: The day of the party.
+    ko: 파티 당일.
+    ja: パーティー当日
+  event_brandnewyear_01_s_2:
+    speaker: Monologue
+    en: The guests are starting to arrive at the Admire. They are all dressed up to
+      the nines.
+    ko: |-
+      어드마이어 호에 도착하니.
+      한껏 차려입은 사람들과.
+    ja: |-
+      アドマイアー号に到着すると
+      おめかしをした人々と
+  event_brandnewyear_01_s_3:
+    speaker: sugar
+    en: Vrrrooom! Full steam ahead, Black Typhoon!
+    ko: 부아아앙- 블랙 타이푼.
+    ja: ブアアアーン。ブラックタイフーン。
+  event_brandnewyear_01_s_4:
+    speaker: solemnofficer
+    en: That motorcycle seems to be well taken care of.
+    ko: 오토바이 관리가 잘 되어 있네요.
+    ja: よく手入れされたバイクですね。
+  event_brandnewyear_01_s_5:
+    speaker: solemnofficer
+    en: But... are you allowed to bring a motorcycle on board?
+    ko: 그런데… 오토바이를 이곳에 가지고 와도 되는 건가요?
+    ja: しかし…ここに乗ってきてもいいのですか？
+  event_brandnewyear_01_s_6:
+    speaker: colorfulvip
+    en: It must be okay since no one is stopping her.
+    ko: 아무도 제재를 안 하는 것 보니, 괜찮은가 보네요.
+    ja: 誰も止めないところを見ると、\n大丈夫なのでしょう。
+  event_brandnewyear_01_s_7:
+    speaker: Narration
+    en: "*screech*"
+    ko: 끼이이익-
+    ja: キィィー
+  event_brandnewyear_01_s_8:
+    speaker: julia
+    en: My musical muse is escaping me...
+    ko: 아직… 음악의 혼이 안 보이는군요.
+    ja: まだ…音楽の魂が見つかりませんね。
+  event_brandnewyear_01_s_9:
+    speaker: Monologue
+    en: More guests are gathering in one corner of the room and enjoying the party.
+    ko: "…다른 손님들도 한곳에 모여 파티를 즐기고 있었다."
+    ja: "…他の招待客も一堂に会し、\\nパーティーを楽しんでいた"
+  event_brandnewyear_01_s_10:
+    speaker: helm
+    en: Hey!
+    ko: 귀관.
+    ja: 貴官。
+  event_brandnewyear_01_s_11:
+    speaker: helm
+    en: Thanks for coming.
+    ko: |-
+      와줬구나.
+      고마워.
+    ja: |-
+      来てくれたのね。
+      ありがとう。
+  event_brandnewyear_01_s_12:
+    speaker: helm
+    en: What do you think? I spent a lot of time decorating.
+    ko: 어때? 나름 열심히 꾸몄는데.
+    ja: どう？頑張って飾ってみたんだけど。
+  event_brandnewyear_01_s_13:
+    speaker: "<Choice>"
+    en: I can hardly take my eyes off you.
+    ko: "…헬름한테서 눈을 뗄 수가 없어."
+    ja: "…ヘルムから目が離せない"
+  event_brandnewyear_01_s_14:
+    speaker: "<Choice>"
+    en: You're the most beautiful woman here.
+    ko: 이 파티장에서 제일 아름다워.
+    ja: このパーティー会場で一番美しい
+  event_brandnewyear_01_s_15:
+    speaker: helm
+    en: I was talking about the Admire, not me.
+    ko: |-
+      …아니.
+      나 말고 어드마이어 호를 말하는 거였어.
+    ja: |-
+      …いや。私じゃなくて
+      アドマイアー号のことだったんだけど。
+  event_brandnewyear_01_s_16:
+    speaker: Monologue
+    en: I take a look around me.
+    ko: 헬름의 말에 어드마이어 호를 다시 한번 둘러보니.
+    ja: そう言われてアドマイアー号を見回すと
+  event_brandnewyear_01_s_17:
+    speaker: Monologue
+    en: The room is filled with elegant decorations, with the pièce de résistance
+      being a glass chandelier hanging from the ceiling.
+    ko: |-
+      파티에 어울리는 샹들리에와
+      고풍스러운 장식들이 화려하게 꾸며져 있었다.
+    ja: |-
+      パーティーにふさわしいシャンデリアと
+      アンティークな小物で華やかに飾られていた
+  event_brandnewyear_01_s_18:
+    speaker: "<Choice>"
+    en: It's lovely.
+    ko: 멋있게 꾸민 것 같아.
+    ja: 素敵だと思う
+  event_brandnewyear_01_s_19:
+    speaker: "<Choice>"
+    en: It's very befitting of the Admire.
+    ko: 역시 어드마이어 호네.
+    ja: さすがアドマイアー号だ
+  event_brandnewyear_01_s_20:
+    speaker: helm
+    en: I appreciate you saying that.
+    ko: 칭찬 고마워.
+    ja: お褒めの言葉、ありがとう。
+  event_brandnewyear_01_s_21:
+    speaker: helm
+    en: I can't believe the year is nearly over.
+    ko: "…벌써 새해라니."
+    ja: "…もう新年だなんて。"
+  event_brandnewyear_01_s_22:
+    speaker: helm
+    en: It all went by so quickly.
+    ko: 시간 참 빠른 것 같아.
+    ja: 時が経つのは早いわね。
+  event_brandnewyear_01_s_23:
+    speaker: helm
+    en: What's your New Year's resolution?
+    ko: 귀관의 올해 목표는 뭐야?
+    ja: 貴官の今年の目標は？
+  event_brandnewyear_01_s_24:
+    speaker: "<Choice>"
+    en: Recapturing the surface.
+    ko: 지상 탈환.
+    ja: 地上奪還
+  event_brandnewyear_01_s_25:
+    speaker: "<Choice>"
+    en: Becoming the richest person in the world.
+    ko: 세계 부자.
+    ja: 世界一のお金持ち
+  event_brandnewyear_01_s_26:
+    speaker: helm
+    en: I really hope you will be able to do that.
+    ko: 꼭 할 수 있었으면 좋겠네.
+    ja: 叶うといいわね。
+  event_brandnewyear_01_s_27:
+    speaker: helm
+    en: "... Money?"
+    ko: "…돈."
+    ja: "…お金。"
+  event_brandnewyear_01_s_28:
+    speaker: helm
+    en: I do suppose that's important.
+    ko: 중요하지.
+    ja: 大事よね。
+  event_brandnewyear_01_s_29:
+    speaker: helm
+    en: I hope it will become a reality for you.
+    ko: 꼭 이룰 수 있었으면 좋겠네.
+    ja: 叶うといいわね。
+  event_brandnewyear_01_s_30:
+    speaker: Self
+    en: What's your resolution this year, Helm?
+    ko: 헬름의 올해 목표는 뭐야?
+    ja: ヘルムの今年の目標は何だ？
+  event_brandnewyear_01_s_31:
+    speaker: helm
+    en: I...
+    ko: 난….
+    ja: 私は…
+  event_brandnewyear_01_s_32:
+    speaker: helm
+    en: I've always had the same goal every year.
+    ko: 매년 똑같은 목표를 가지고 있는 것 같아.
+    ja: 毎年同じ目標にしてる気がするわ。
+  event_brandnewyear_01_s_33:
+    speaker: helm
+    en: To recapture the surface and let the Admire sail the open seas.
+    ko: 지상을 탈환해 어드마이어 호를 바다로 내보내는 것.
+    ja: 地上を奪還して、\nアドマイアー号を海に送ること。
+  event_brandnewyear_01_s_34:
+    speaker: helm
+    en: That's what I want the most.
+    ko: 이게 내 목표야.
+    ja: これが私の目標よ。
+  event_brandnewyear_01_s_35:
+    speaker: helm
+    en: "... But will it ever come true?"
+    ko: "…이루어질 수 있을까."
+    ja: "…叶えられるかしら。"
+  event_brandnewyear_01_s_36:
+    speaker: Self
+    en: I'll do my best.
+    ko: 열심히 할게.
+    ja: 頑張る
+  event_brandnewyear_01_s_37:
+    speaker: helm
+    en: Oh, I didn't mean it like that.
+    ko: 아, 그 뜻으로 말한 건 아니야.
+    ja: あ、そういう意味で言ったんじゃないのよ。
+  event_brandnewyear_01_s_38:
+    speaker: helm
+    en: I need to try harder too.
+    ko: 나도 열심히 해야지.
+    ja: 私も頑張らないと。
+  event_brandnewyear_01_s_39:
+    speaker: Self
+    en: We'll make a good team.
+    ko: 올해도 같이 힘내보자.
+    ja: 今年も一緒に頑張ろう
+  event_brandnewyear_01_s_40:
+    speaker: helm
+    en: I think so too.
+    ko: 응. 좋아.
+    ja: そうね。
+  event_brandnewyear_01_s_41:
+    speaker: helm
+    en: Oh, I prepared a bunch of hors d'oeuvres.
+    ko: 아, 맛있는 파티 음식들을 준비했는데.
+    ja: あ、おいしい料理も準備したのよ。
+  event_brandnewyear_01_s_42:
+    speaker: helm
+    en: Would you like to try some?
+    ko: 귀관만 괜찮으면 같이 먹으러 가겠어?
+    ja: 貴官さえよければ、一緒に食べにいかない？
+  event_brandnewyear_01_s_43:
+    speaker: helm
+    en: I'm sure you'll find something that you like.
+    ko: 아까 잠깐 맛봤는데, 나쁘지 않았거든.
+    ja: さっき味見してみたけど、悪くなかったわ。
+  event_brandnewyear_01_s_44:
+    speaker: Self
+    en: Sure.
+    ko: 그래.
+    ja: 分かった
+event_brandnewyear_01_e:
+  event_brandnewyear_01_e_1:
+    speaker: "<Monologue>"
+    en: As I follow Helm, I see Julia in the corner playing her violin.
+    ko: |-
+      헬름을 따라 자리를 옮기는 도중.
+      구석에서 바이올린을 연주하고 있는 율리아가 보였다.
+    ja: |-
+      ヘルムと一緒に移動している途中
+      隅でバイオリンを演奏しているジュリアが見えた
+  event_brandnewyear_01_e_2:
+    speaker: "<Narration>"
+    en: "♬♪♩♬♪♩♬♪♩~"
+    ko: "♬♪♩♬♪♩♬♪♩~"
+    ja: "♬♪♩♬♪♩♬♪♩～"
+  event_brandnewyear_01_e_3:
+    speaker: helm
+    en: How does the violin sound?
+    ko: 바이올린 소리 어때?
+    ja: バイオリンの音色はどう？
+  event_brandnewyear_01_e_4:
+    speaker: helm
+    en: There are a lot of distinguished guests here tonight,
+    ko: 이번 파티 연주를 율리아에게 부탁했어.
+    ja: 今回のパーティーの演奏を\nジュリアにお願いしたの。
+  event_brandnewyear_01_e_5:
+    speaker: helm
+    en: so I invited Julia to come play for us.
+    ko: 아무래도 중요한 손님들이 많이 올 테니까.
+    ja: やっぱり大事なお客様がたくさん来るから。
+  event_brandnewyear_01_e_6:
+    speaker: helm
+    en: And above all, the first day of the new year...
+    ko: 무엇보다 새해 첫날을….
+    ja: 何より、新年を…
+  event_brandnewyear_01_e_7:
+    speaker: "<Narration>"
+    en: "*screech*"
+    ko: 끼익익-!
+    ja: キィィッー！
+  event_brandnewyear_01_e_8:
+    speaker: colorfulvip
+    en: Agh! My ears!
+    ko: |-
+      악-!
+      내 귀!
+    ja: |-
+      あぁっ！
+      耳がっ！
+  event_brandnewyear_01_e_9:
+    speaker: solemnofficer
+    en: It's like nails on a chalkboard.
+    ko: "…정말 소름 돋는 소리군요."
+    ja: "…本当に鳥肌が立つ音ですね。"
+  event_brandnewyear_01_e_10:
+    speaker: helm
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_01_e_11:
+    speaker: "<Self>"
+    en: Is she going to be okay?
+    ko: "…괜찮을까?"
+    ja: "…大丈夫だろうか？"
+  event_brandnewyear_01_e_12:
+    speaker: helm
+    en: She should be fine. This is still just the rehearsal.
+    ko: |-
+      본 연주가 아니라서 괜찮을 거야.
+      보통 이런 걸… 리허설이라고 하지?
+    ja: |-
+      本番じゃないから大丈夫なはずよ。
+      普通はこういうのを…\nリハーサルっていうのよね？
+  event_brandnewyear_01_e_13:
+    speaker: "<Self>"
+    en: I see.
+    ko: 아하.
+    ja: なるほど
+  event_brandnewyear_01_e_14:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: "…잠시 후."
+    ja: "…しばらくして"
+  event_brandnewyear_01_e_15:
+    speaker: helm
+    en: What do you think the main course would be?
+    ko: 귀관은 파티 음식 중에 좋아하는 게 뭐야?
+    ja: 貴官はどんなパーティーの料理が好き？
+  event_brandnewyear_01_e_16:
+    speaker: "<Choice>"
+    en: Wagyu beef with beluga caviar.
+    ko: 최고급 캐비어가 올라간 1++ 스테이크.
+    ja: 最高級キャビアがのった特上ステーキ
+  event_brandnewyear_01_e_17:
+    speaker: "<Choice>"
+    en: If it comes from your ship, anything will be wonderful.
+    ko: 어드마이어 호에 있는 음식이라면 뭐든.
+    ja: アドマイアー号にある料理なら何でも
+  event_brandnewyear_01_e_18:
+    speaker: helm
+    en: "... I'm sorry, but I don't think I'll be able to live up to that."
+    ko: "…귀관의 입맛을 만족시킬 수 없어서 아쉽네."
+    ja: "…貴官を満足させてあげられなくて残念だわ。"
+  event_brandnewyear_01_e_19:
+    speaker: helm
+    en: It may not be up to your usual standard,
+    ko: 귀관이 말한 만큼은 아니지만.
+    ja: 貴官が言う料理ほどではないけど
+  event_brandnewyear_01_e_20:
+    speaker: helm
+    en: but the food here is quite good, honestly.
+    ko: 이곳의 음식들도 꽤 괜찮을 거야.
+    ja: ここの料理もなかなかのものよ。
+  event_brandnewyear_01_e_21:
+    speaker: helm
+    en: Thank you for saying that.
+    ko: 그렇게 말해줘서 고마워.
+    ja: そう言ってくれると嬉しいわ。
+  event_brandnewyear_01_e_22:
+    speaker: helm
+    en: Eat as much as you please.
+    ko: 마음껏 먹고 가도록 해.
+    ja: 好きなだけ食べていって。
+  event_brandnewyear_01_e_23:
+    speaker: "<Self>"
+    en: I will.
+    ko: 알겠어.
+    ja: 分かった
+  event_brandnewyear_01_e_24:
+    speaker: mast
+    en: Hey buddy!
+    ko: 헬름양반!
+    ja: ヘルムさん！
+  event_brandnewyear_01_e_25:
+    speaker: helm
+    en: Mast?
+    ko: 마스트?
+    ja: マスト？
+  event_brandnewyear_01_e_26:
+    speaker: mast
+    en: It's been ages.
+    ko: 선장 양반, 오랜만이요.
+    ja: 船長さん、久しぶりっすね。
+  event_brandnewyear_01_e_27:
+    speaker: anchor
+    en: Hi.
+    ko: 안녕.
+    ja: こんにちは。
+  event_brandnewyear_01_e_28:
+    speaker: helm
+    en: What's wrong?
+    ko: 무슨 일이니?
+    ja: どうしたの？
+  event_brandnewyear_01_e_29:
+    speaker: mast
+    en: Burningum was looking for you, Helm. I'd get over there if I were you.
+    ko: |-
+      버닝엄 나리가 헬름양반을 찾는데.
+      얼른 가보는 게 좋겠수다.
+    ja: |-
+      バーニンガムさんがヘルムさんを
+      捜してたんすよ。早く行った方がいいっす。
+  event_brandnewyear_01_e_30:
+    speaker: helm
+    en: Is it urgent?
+    ko: |-
+      부사령관님이?
+      급한 일이야?
+    ja: |-
+      副司令官が？
+      急ぎの用かしら？
+  event_brandnewyear_01_e_31:
+    speaker: mast
+    en: Dunno.
+    ko: 글쎄올시다~
+    ja: どうっすかね～
+  event_brandnewyear_01_e_32:
+    speaker: mast
+    en: Nobody tells me nothin'.
+    ko: 그것까진 듣지 못했수.
+    ja: そこまでは聞けなかったっす。
+  event_brandnewyear_01_e_33:
+    speaker: mast
+    en: My only orders were to bring you over to him, and to make it snappy.
+    ko: 헬름 양반을 빨리 데려오라는 지시만 받았지.
+    ja: ヘルムさんを早く連れてこいって\n指示をもらっただけっすから。
+  event_brandnewyear_01_e_34:
+    speaker: helm
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かったわ。
+  event_brandnewyear_01_e_35:
+    speaker: mast
+    en: "*sniff* What is that? *sniff sniff* I thought something smelled heavenly
+      on the way here."
+    ko: |-
+      킁킁- 이거이거~
+      오는 길에 좋은 냄새가 난다고 했더니.
+    ja: |-
+      クンクン、これこれ～！
+      いい匂いがすると思ったら。
+  event_brandnewyear_01_e_36:
+    speaker: mast
+    en: Helm, can we eat this?
+    ko: 헬름양반, 이건 우리가 먹어도 되는 거요?
+    ja: ヘルムさん、これ\n私たちが食べてもいいっすか？
+  event_brandnewyear_01_e_37:
+    speaker: helm
+    en: Today is a special occasion, so yes. You won't have to scrounge for leftovers.
+    ko: |-
+      응. 오늘은 괜찮아.
+      나중에 남은 음식들 주워 먹지 말고.
+    ja: |-
+      今日は大丈夫よ。
+      あとで残った食べ物を拾い食いしないで。
+  event_brandnewyear_01_e_38:
+    speaker: helm
+    en: You can eat as much as you like.
+    ko: 지금 마음껏 먹어두도록 해.
+    ja: 今好きなだけ食べなさい。
+  event_brandnewyear_01_e_39:
+    speaker: mast
+    en: All right!
+    ko: 좋수다!
+    ja: よっし！
+  event_brandnewyear_01_e_40:
+    speaker: mast
+    en: Anchor, make sure to grab some extra for the starfish.
+    ko: 앵커 양반! 불가사리 밥도 좀 챙기쇼.
+    ja: アンカーさん！\nヒトデのご飯も確保だっ！
+  event_brandnewyear_01_e_41:
+    speaker: anchor
+    en: I already did.
+    ko: 이미 챙겼어.
+    ja: もう確保したよ。
+  event_brandnewyear_01_e_42:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_01_e_43:
+    speaker: helm
+    en: |-
+      ... Mast.
+      You can eat your fill, but go easy on the drinks.
+    ko: "…마스트. \n음식 먹는 건 좋은데, 과음은 안 돼."
+    ja: |-
+      …マスト。
+      食べるのはいいけど、飲みすぎはダメよ。
+  event_brandnewyear_01_e_44:
+    speaker: mast
+    en: Ha, don't you worry.
+    ko: 어허. 걱정마쇼.
+    ja: ふふっ、心配いらないっすよ。
+  event_brandnewyear_01_e_45:
+    speaker: mast
+    en: I've got it under control.
+    ko: 알아서 잘 조절할 테니.
+    ja: ちゃんと調節するっす！
+  event_brandnewyear_01_e_46:
+    speaker: anchor
+    en: Yeah, right.
+    ko: "…거짓말."
+    ja: "…嘘つき。"
+  event_brandnewyear_01_e_47:
+    speaker: helm
+    en: If you'll excuse me...
+    ko: 그럼 잠시 실례할게.
+    ja: じゃあちょっと失礼するわね。
+  event_brandnewyear_01_e_48:
+    speaker: helm
+    en: I'll see you later.
+    ko: 나중에 또 봐. 귀관.
+    ja: またあとで。
+event_brandnewyear_02_s:
+  event_brandnewyear_02_s_1:
+    speaker: "<Monologue>"
+    en: After Helm excuses herself, I spent time eating with Mast and Anchor.
+    ko: |-
+      헬름을 떠나보낸 뒤.
+      마스트, 앵커와 함께 밥을 먹으며 시간을 보냈고.
+    ja: |-
+      ヘルムを見送ってから
+      マストとアンカーと一緒に\n食事をして時間を過ごした
+  event_brandnewyear_02_s_2:
+    speaker: "<Monologue>"
+    en: Mast got carried away and had to be carried out by Anchor.
+    ko: 마스트는 분위기에 취해 술을 진탕 먹고는 앵커에게 실려 나갔다.
+    ja: マストは雰囲気に酔ってどんどん酒を飲み、\nアンカーに運ばれていった
+  event_brandnewyear_02_s_3:
+    speaker: "<Monologue>"
+    en: Now that I'm on my own, how should I amuse myself?
+    ko: 이제 혼자서 뭘 해야….
+    ja: 1人で何をしよう…
+  event_brandnewyear_02_s_4:
+    speaker: sugar
+    en: Hmm...
+    ko: 음.
+    ja: うーん。
+  event_brandnewyear_02_s_5:
+    speaker: sugar
+    en: What kind of coffee do you think goes best with a party?
+    ko: 파티에 가장 잘 어울리는 커피는 뭐라고 생각하지?
+    ja: パーティーに一番相応しい\nコーヒーは何だと思う？
+  event_brandnewyear_02_s_6:
+    speaker: sugar
+    en: 'You''ve got three choices: Milk, Sugar, and Cream.'
+    ko: 선택지는 밀크, 슈가, 프림밖에 없어.
+    ja: ミルク、シュガー、クリームの中から選んで。
+  event_brandnewyear_02_s_7:
+    speaker: colorfulvip
+    en: Well,
+    ko: 그렇다면 아무래도.
+    ja: それならやっぱり
+  event_brandnewyear_02_s_8:
+    speaker: colorfulvip
+    en: I think Milk Coffee with a splash of Cream coffee tastes the best, so...
+    ko: 밀크커피에 프림을 조금 넣은 게 맛도 있어서 파티와….
+    ja: ミルクコーヒーにクリームを少し入れるのが、\nおいしくてパーティーに…
+  event_brandnewyear_02_s_9:
+    speaker: sugar
+    en: Please, don't insult me.
+    ko: 맛은.
+    ja: おいしさで
+  event_brandnewyear_02_s_10:
+    speaker: sugar
+    en: The flavor can't possibly compare to Sugar Coffee.
+    ko: 슈가 커피를 따라올 수 없어.
+    ja: シュガーコーヒーに勝るものはないわ。
+  event_brandnewyear_02_s_11:
+    speaker: sugar
+    en: Add about 15 spoonfuls of brown sugar, and then we can talk.
+    ko: 흑설탕 15스푼만 첨가해서 먹어봐.
+    ja: 黒砂糖を15杯入れて飲んでみて。
+  event_brandnewyear_02_s_12:
+    speaker: "<Self>"
+    en: "... Sugar?"
+    ko: "…슈가?"
+    ja: "…シュガー？"
+  event_brandnewyear_02_s_13:
+    speaker: "<Self>"
+    en: What are you doing?
+    ko: 뭐 하고 있어?
+    ja: 何をしている？
+  event_brandnewyear_02_s_14:
+    speaker: sugar
+    en: Oh, hey Partner.
+    ko: 파트너?
+    ja: パートナー？
+  event_brandnewyear_02_s_15:
+    speaker: sugar
+    en: I was trying to enlighten my friend here on how coffee should be served.
+    ko: 이분과 함께 커피에 대해 깊이 있는 이야기를 나누고 있었어.
+    ja: この方と一緒にコーヒーについて\n深い話をしていたところよ。
+  event_brandnewyear_02_s_16:
+    speaker: sugar
+    en: They're hopeless.
+    ko: 근데 잘 모르는 것 같아.
+    ja: でも、コーヒーをよく分かってないみたい。
+  event_brandnewyear_02_s_17:
+    speaker: "<Self>"
+    en: "... I see."
+    ko: "…그렇구나."
+    ja: "…そうか"
+  event_brandnewyear_02_s_18:
+    speaker: sugar
+    en: I'm glad you're here.
+    ko: 마침 잘 왔어.
+    ja: ちょうどいいところに来たわね。
+  event_brandnewyear_02_s_19:
+    speaker: sugar
+    en: What kind of coffee do you think best goes with this party, Partner?
+    ko: |-
+      파트너는 이 파티와
+      가장 잘 어울리는 커피가 뭐라고 생각하지?
+    ja: |-
+      パートナーは、このパーティーに
+      一番相応しいコーヒーは何だと思う？
+  event_brandnewyear_02_s_20:
+    speaker: "<Choice>"
+    en: Something fancy.
+    ko: 아무래도 이곳엔 고급 커피가….
+    ja: やはりここでは高級コーヒーが…
+  event_brandnewyear_02_s_21:
+    speaker: "<Choice>"
+    en: Sugar coffee.
+    ko: 슈가 커피.
+    ja: シュガーコーヒー
+  event_brandnewyear_02_s_22:
+    speaker: sugar
+    en: Are you saying Sugar coffee isn't fancy?
+    ko: 슈가 커피는 고급스럽지 않다는 거야?
+    ja: シュガーコーヒーは高級じゃないってこと？
+  event_brandnewyear_02_s_23:
+    speaker: "<Self>"
+    en: That's what I was referring to.
+    ko: 슈가 커피를 뜻하는 거였어.
+    ja: シュガーコーヒーのことだ
+  event_brandnewyear_02_s_24:
+    speaker: sugar
+    en: Oh, sorry for interrupting. Should've let you finish.
+    ko: 아, 내가 파트너 말을 끝까지 안 듣고 답했군.
+    ja: あぁ、私が早とちりしちゃったのね。
+  event_brandnewyear_02_s_25:
+    speaker: sugar
+    en: I knew I could count on you.
+    ko: 역시 파트너는 잘 알 것 같았어.
+    ja: やっぱりパートナーはよく分かってる。
+  event_brandnewyear_02_s_26:
+    speaker: "<Self>"
+    en: Are you enjoying the party?
+    ko: 파티는 재밌게 즐기고 있어?
+    ja: パーティーは楽しんでいるか？
+  event_brandnewyear_02_s_27:
+    speaker: sugar
+    en: Sure am, as you can see.
+    ko: 응. 보다시피.
+    ja: うん。ご覧のとおり。
+  event_brandnewyear_02_s_28:
+    speaker: "<Self>"
+    en: Where are Milk and Frima?
+    ko: 밀크랑 프림은?
+    ja: ミルクとプリムは？
+  event_brandnewyear_02_s_29:
+    speaker: sugar
+    en: They're probably at the cafe.
+    ko: 카페에 있을 거야.
+    ja: カフェにいるはずよ。
+  event_brandnewyear_02_s_30:
+    speaker: sugar
+    en: We were only able to get one invitation to the party.
+    ko: 파티 초대권을 한 장밖에 못 구했거든.
+    ja: パーティーの招待券が1枚しか手に入らなくて。
+  event_brandnewyear_02_s_31:
+    speaker: sugar
+    en: While the two of them were arguing, I secretly grabbed it and came here.
+    ko: |-
+      둘이서 실랑이 벌이고 있을 때,
+      몰래 가지고 나왔어.
+    ja: |-
+      2人がケンカしてる間に
+      こっそり持ってきたの。
+  event_brandnewyear_02_s_32:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_02_s_33:
+    speaker: "<Self>"
+    en: Aren't you lonely being here by yourself?
+    ko: "…혼자 와서 외롭진 않아?"
+    ja: "…1人で寂しくないか？"
+  event_brandnewyear_02_s_34:
+    speaker: sugar
+    en: Not really.
+    ko: 음? 별로.
+    ja: え？別に。
+  event_brandnewyear_02_s_35:
+    speaker: sugar
+    en: It may be an opportunity, actually.
+    ko: 어쩌면 기회일지도 몰라.
+    ja: ひょっとしたらチャンスかもしれないわ。
+  event_brandnewyear_02_s_36:
+    speaker: sugar
+    en: I'll have all the eyes of these highfalutin rich types on me.
+    ko: 고급 의뢰를 나한테만 집중적으로….
+    ja: お金になる依頼を私が全部…
+  event_brandnewyear_02_s_37:
+    speaker: "<Self>"
+    en: It's not good to be too greedy.
+    ko: 욕심이 과하면 안 좋아.
+    ja: 欲張りすぎるのはよくない
+  event_brandnewyear_02_s_38:
+    speaker: sugar
+    en: It'll be fine. If I'm busy, then the other guests will go find Milk and Frima.
+    ko: "괜찮아. \n내가 바쁘면 자연스럽게 밀크랑 프림한테도 의뢰가 갈 테니까."
+    ja: |-
+      大丈夫よ。私が忙しかったら、自然と
+      ミルクとプリムにも依頼が行くから。
+  event_brandnewyear_02_s_39:
+    speaker: "<Self>"
+    en: I see you've considered everything.
+    ko: 큰 그림이구나.
+    ja: 計画的だな
+  event_brandnewyear_02_s_40:
+    speaker: sugar
+    en: But of course.
+    ko: 그런 셈이지.
+    ja: そういうこと。
+  event_brandnewyear_02_s_41:
+    speaker: sugar
+    en: Anyway...
+    ko: 음. 그것보다.
+    ja: それより。
+  event_brandnewyear_02_s_42:
+    speaker: sugar
+    en: I see you cleaned up nicely for this shindig.
+    ko: 파트너, 오늘 파티라고 멋 좀 부렸는데?
+    ja: パートナー、\n今日はパーティーだからって\nオシャレしてきたのね？
+  event_brandnewyear_02_s_43:
+    speaker: sugar
+    en: You look sharp, I like it.
+    ko: |-
+      내 스타일이야.
+      잘 어울려.
+    ja: |-
+      私好みだわ。
+      よく似合ってる。
+  event_brandnewyear_02_s_44:
+    speaker: "<Choice>"
+    en: All for you, Sugar.
+    ko: 슈가를 위해 힘 좀 썼어.
+    ja: シュガーのために頑張った
+  event_brandnewyear_02_s_45:
+    speaker: "<Choice>"
+    en: You look pretty good yourself.
+    ko: 슈가도 잘 어울려.
+    ja: シュガーもよく似合っている
+  event_brandnewyear_02_s_46:
+    speaker: sugar
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_brandnewyear_02_s_47:
+    speaker: sugar
+    en: "... Is this the part where we kiss?"
+    ko: "…키스할 타이밍인가?"
+    ja: "…キスするタイミングかな？"
+  event_brandnewyear_02_s_48:
+    speaker: "<Self>"
+    en: Afraid not.
+    ko: 아니.
+    ja: いや
+  event_brandnewyear_02_s_49:
+    speaker: sugar
+    en: All right, later then.
+    ko: 나중에 하는 걸로 알고 있을게.
+    ja: おあずけってことね。
+  event_brandnewyear_02_s_50:
+    speaker: sugar
+    en: How about you have a cup of coffee with me instead?
+    ko: 그럼 나와 함께 커피를 마시러 가지 않겠어?
+    ja: じゃあ、私と一緒にコーヒーを飲みにいかない？
+  event_brandnewyear_02_s_51:
+    speaker: sugar
+    en: I saw a barista making coffee at the other end of the hall.
+    ko: 로비 한구석에서 바리스타가 커피 타 주고 있던데.
+    ja: ロビーでバリスタがコーヒーを淹れてたの。
+  event_brandnewyear_02_s_52:
+    speaker: sugar
+    en: If it's any good, maybe I can use their beans for my Sugar Coffee blend.
+    ko: 괜찮다면 슈가 커피에 벤치마킹해서 쓸 예정이거든.
+    ja: おいしかったらシュガーコーヒーの\n参考にしようと思って。
+event_brandnewyear_02_e:
+  event_brandnewyear_02_e_1:
+    speaker: barista
+    en: Here's your coffee, miss.
+    ko: 주문하신 커피 나왔습니다.
+    ja: お待たせしました、コーヒーです。
+  event_brandnewyear_02_e_2:
+    speaker: sugar
+    en: Well, right off the bat, they get a pass for the scent.
+    ko: 음. 일단 향은 합격이야.
+    ja: とりあえず香りは合格ね。
+  event_brandnewyear_02_e_3:
+    speaker: sugar
+    en: Now, for the taste.
+    ko: 한번 마셔볼까.
+    ja: 飲んでみましょう。
+  event_brandnewyear_02_e_4:
+    speaker: "<Narration>"
+    en: "*sip*"
+    ko: 호록-
+    ja: ゴクッ
+  event_brandnewyear_02_e_5:
+    speaker: "<Self>"
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  event_brandnewyear_02_e_6:
+    speaker: "<Monologue>"
+    en: It's absolutely delicious.
+    ko: 맛있다.
+    ja: おいしい
+  event_brandnewyear_02_e_7:
+    speaker: "<Monologue>"
+    en: It may be the best coffee I ever tasted!
+    ko: 지금까지 먹었던 커피 중에 제일 맛있는 커피다.
+    ja: 今まで飲んだコーヒーの中で\n一番おいしいコーヒーだ
+  event_brandnewyear_02_e_8:
+    speaker: sugar
+    en: Blech, no good.
+    ko: 음. 맛은 별로군.
+    ja: う～ん。味はイマイチね。
+  event_brandnewyear_02_e_9:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_brandnewyear_02_e_10:
+    speaker: sugar
+    en: Do you prefer this, or Sugar Coffee?
+    ko: |-
+      파트너는 이 커피와 슈가 커피 중에.
+      뭐가 더 맛있다고 생각해?
+    ja: |-
+      パートナーは、このコーヒーとシュガーコーヒー
+      どっちがおいしいと思う？
+  event_brandnewyear_02_e_11:
+    speaker: "<Choice>"
+    en: I think this coffee is good too.
+    ko: 이 커피도 맛있는데.
+    ja: このコーヒーもおいしいが
+  event_brandnewyear_02_e_12:
+    speaker: "<Choice>"
+    en: "... Sugar coffee?"
+    ko: "…슈가 커피?"
+    ja: "…シュガーコーヒー？"
+  event_brandnewyear_02_e_13:
+    speaker: sugar
+    en: "..."
+    ko: "…파트너."
+    ja: "…パートナー。"
+  event_brandnewyear_02_e_14:
+    speaker: sugar
+    en: Are you kidding?
+    ko: 진심이야?
+    ja: 本気で言ってる？
+  event_brandnewyear_02_e_15:
+    speaker: "<Self>"
+    en: But nothing beats Sugar Coffee in my book.
+    ko: 하지만 슈가 커피가 더 내 취향이야.
+    ja: でもシュガーコーヒーの方が好みだ
+  event_brandnewyear_02_e_16:
+    speaker: sugar
+    en: I knew you'd feel the same way I do.
+    ko: 역시 파트너의 취향과 내 취향은 똑같군.
+    ja: やっぱりパートナーの好みと私の好みは同じね。
+  event_brandnewyear_02_e_17:
+    speaker: sugar
+    en: I knew you'd feel the same way I do.
+    ko: 역시 파트너.
+    ja: さすがパートナー。
+  event_brandnewyear_02_e_18:
+    speaker: sugar
+    en: No surprises there.
+    ko: 나와 생각이 똑같구나.
+    ja: 私と同じ考えね。
+  event_brandnewyear_02_e_19:
+    speaker: sugar
+    en: I'll be sure to make you plenty of Sugar Coffee this year.
+    ko: |-
+      올해에도 슈가 커피.
+      많이 만들어 줄게.
+    ja: |-
+      今年もシュガーコーヒーを
+      たくさん淹れてあげるわ。
+  event_brandnewyear_02_e_20:
+    speaker: sugar
+    en: You can visit the cafe anytime you want a cup.
+    ko: 먹고 싶을 땐, 언제든 카페를 찾아와도 좋아.
+    ja: 飲みたい時はいつでもカフェに来て。
+  event_brandnewyear_02_e_21:
+    speaker: sugar
+    en: You can have unlimited refills!
+    ko: 파트너에겐 무제한으로 제공해 줄 테니.
+    ja: パートナーにはいくらでも淹れてあげるから。
+  event_brandnewyear_02_e_22:
+    speaker: sugar
+    en: "... But you'll have to pay, of course."
+    ko: 아, 물론 돈은 내야 해.
+    ja: あ、もちろんお金は払ってね。
+  event_brandnewyear_02_e_23:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_02_e_24:
+    speaker: sugar
+    en: Hmm...
+    ko: 음.
+    ja: うーん。
+  event_brandnewyear_02_e_25:
+    speaker: sugar
+    en: Something's missing.
+    ko: 뭔가 부족해.
+    ja: 何かが足りないのよね。
+  event_brandnewyear_02_e_26:
+    speaker: sugar
+    en: It might be a good idea to add some sugar.
+    ko: 설탕이 들어가는 게 좋겠어.
+    ja: 砂糖を入れた方がいいわ。
+  event_brandnewyear_02_e_27:
+    speaker: "<Self>"
+    en: I think it's sweet enough as is.
+    ko: "…안 들어가도 충분할 것 같은데."
+    ja: "…入れなくても十分だと思うが"
+  event_brandnewyear_02_e_28:
+    speaker: sugar
+    en: What?
+    ko: 뭐라고?
+    ja: え？
+  event_brandnewyear_02_e_29:
+    speaker: sugar
+    en: Speak up. I didn't quite hear that.
+    ko: 너무 작게 이야기해서 못 들었어.
+    ja: 声が小さすぎて聞こえなかったわ。
+  event_brandnewyear_02_e_30:
+    speaker: "<Self>"
+    en: You're right. More sugar.
+    ko: 슈가 말이 맞아.
+    ja: シュガーの言うとおりだ
+  event_brandnewyear_02_e_31:
+    speaker: sugar
+    en: That's what I thought.
+    ko: 그렇지?
+    ja: そうよね？
+  event_brandnewyear_02_e_32:
+    speaker: sugar
+    en: I better have a word with that barista.
+    ko: 난 저 바리스타와 함께 깊이 있는 대화를 나누고 와야겠어.
+    ja: バリスタと話をしてくるわ。
+  event_brandnewyear_02_e_33:
+    speaker: "<Self>"
+    en: Knock yourself out.
+    ko: "…잘 다녀와."
+    ja: "…行ってらっしゃい"
+event_brandnewyear_03_s:
+  event_brandnewyear_03_s_1:
+    speaker: "<Narration>"
+    en: "*screech... screechh... screeech*"
+    ko: 끽… 끼긱… 끼이익-
+    ja: キッ…キキッ…キィィー
+  event_brandnewyear_03_s_2:
+    speaker: "<Self>"
+    en: "... I think your violin needs tuning."
+    ko: "…조율을 해야 할 것 같은데."
+    ja: "…調律が必要みたいだな"
+  event_brandnewyear_03_s_3:
+    speaker: julia
+    en: Conductor?
+    ko: 마에스트로?
+    ja: マエストロ？
+  event_brandnewyear_03_s_4:
+    speaker: julia
+    en: I don't think the tuning is the issue.
+    ko: 조율의 문제는 아닌 것 같습니다.
+    ja: 調律の問題ではなさそうです。
+  event_brandnewyear_03_s_5:
+    speaker: julia
+    en: All my performances went splendidly until yesterday.
+    ko: 어제까지만 해도 멋진 연주를 했거든요.
+    ja: 昨日までは素敵な演奏ができたのですが
+  event_brandnewyear_03_s_6:
+    speaker: julia
+    en: I think it's because I haven't found anything here that inspires me.
+    ko: 이곳에서 음악의 혼을 찾는 건 오랜만이라 그런 것 같습니다.
+    ja: ここで音楽の魂を探すのが\n久しぶりなせいだと思います。
+  event_brandnewyear_03_s_7:
+    speaker: "<Self>"
+    en: Have you been on the Admire before?
+    ko: 어드마이어 호에 온 적 있어?
+    ja: アドマイアー号に来たことがあるのか？
+  event_brandnewyear_03_s_8:
+    speaker: julia
+    en: No. It's my first time.
+    ko: |-
+      아니요.
+      처음입니다.
+    ja: |-
+      いいえ。
+      初めてです。
+  event_brandnewyear_03_s_9:
+    speaker: julia
+    en: But the winds have carried many of my notes here in the past.
+    ko: 하지만 수많은 선율은 바람과 함께 이곳을 거쳐 갔을 테니까요.
+    ja: しかし、たくさんの旋律が\n風と共にこの場所を通ったはずですから。
+  event_brandnewyear_03_s_10:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_03_s_11:
+    speaker: "<Narration>"
+    en: "♬♪♩♬♪... *screech*"
+    ko: "♬♪♩♬♪… 끽-"
+    ja: "♬♪♩♬♪…キィッ…"
+  event_brandnewyear_03_s_12:
+    speaker: julia
+    en: "*sigh* If only I could find some form of inspiration."
+    ko: 아아… 음악의 혼은 도대체 어디에….
+    ja: ああ…音楽の魂はいったいどこへ…
+  event_brandnewyear_03_s_13:
+    speaker: "<Choice>"
+    en: How about taking a rest and having another go at it later?
+    ko: 조금 쉬었다가 연주해보는 건 어때?
+    ja: 少し休んでから演奏しては？
+  event_brandnewyear_03_s_14:
+    speaker: "<Choice>"
+    en: Perhaps you need to be one with the music?
+    ko: 음악과 조금 더 대화해보는 건 어때?
+    ja: 音楽と少し会話してみては？
+  event_brandnewyear_03_s_15:
+    speaker: julia
+    en: The performance is going to start soon. I don't have any time to waste.
+    ko: 곧 연주가 시작되기 때문에 시간을 허투루 쓸 수 없습니다.
+    ja: まもなく演奏が始まるので、\n時間を無駄にすることはできません。
+  event_brandnewyear_03_s_16:
+    speaker: "<Self>"
+    en: Then gather your thoughts and simply flow with the music.
+    ko: 그럼 생각을 가다듬고 음악과 대화해 봐.
+    ja: じゃあ考えを整理して、\n音楽と会話してみるんだ
+  event_brandnewyear_03_s_17:
+    speaker: julia
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_brandnewyear_03_s_18:
+    speaker: julia
+    en: Why didn't I think of that?
+    ko: 아아… 왜 음악과 대화 해 볼 생각을 못 했을까요.
+    ja: ああ…どうして思いつかなかったのでしょう。
+  event_brandnewyear_03_s_19:
+    speaker: julia
+    en: I must hurry.
+    ko: 얼른 이야기를 나누어 봐야겠습니다.
+    ja: 急いで会話してみます。
+  event_brandnewyear_03_s_20:
+    speaker: julia
+    en: Could you accompany me when I start?
+    ko: "마에스트로. \n대화가 끝날 때까지 제 옆에 계셔주실 수 있으십니까?"
+    ja: |-
+      マエストロ。会話が終わるまで、
+      私の隣で待っていてくれますか？
+  event_brandnewyear_03_s_21:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_brandnewyear_03_s_22:
+    speaker: "<Narration>"
+    en: "♬♪♩♬♪♩♬♪♩~"
+    ko: "♬♪♩♬♪♩♬♪♩~"
+    ja: "♬♪♩♬♪♩♬♪♩～"
+  event_brandnewyear_03_s_23:
+    speaker: "<Narration>"
+    en: "♪♩♬♪♬♪♩♬♪♬♪♩♬♪~"
+    ko: "♪♩♬♪♬♪♩♬♪♬♪♩♬♪~"
+    ja: "♪♩♬♪♬♪♩♬♪♬♪♩♬♪～"
+  event_brandnewyear_03_s_24:
+    speaker: "<Monologue>"
+    en: Julia begins playing flawlessly.
+    ko: 율리아는 막힘없이 연주해나가기 시작했다.
+    ja: ジュリアはスムーズに演奏を始めた
+  event_brandnewyear_03_s_25:
+    speaker: "<Self>"
+    en: That was a spectacular performance.
+    ko: 멋진 연주야.
+    ja: 素敵な演奏だ
+  event_brandnewyear_03_s_26:
+    speaker: julia
+    en: It's all thanks to you.
+    ko: 마에스트로 덕분입니다.
+    ja: マエストロのおかげです。
+  event_brandnewyear_03_s_27:
+    speaker: julia
+    en: Once I immersed myself in the music and connected with it, I found my inspiration
+      in no time.
+    ko: |-
+      음악과 진솔한 대화를 나누었더니,
+      곧바로 해답을 찾을 수 있었습니다.
+    ja: |-
+      音楽と率直な会話をしたら
+      すぐに答えが見つかりました。
+  event_brandnewyear_03_s_28:
+    speaker: "<Self>"
+    en: What did the music tell you?
+    ko: 무슨 이야기를 했지?
+    ja: どんな話をしたんだ？
+  event_brandnewyear_03_s_29:
+    speaker: julia
+    en: It told me... to let my melodies flow naturally and fill this room.
+    ko: |-
+      음악이…
+      이 파티장의 향기와 흐름만을 담아내라고 말해주었습니다.
+    ja: このパーティー会場の雰囲気と波動だけを\n音楽に込めるよう教えてくれました。
+  event_brandnewyear_03_s_30:
+    speaker: julia
+    en: That was the answer.
+    ko: 그게 정답이었습니다.
+    ja: それが正解だったのです。
+  event_brandnewyear_03_s_31:
+    speaker: julia
+    en: Before that, I was so eager about wanting to try all sorts of different musical
+      styles for my audience.
+    ko: |-
+      대화하기 전엔,
+      들려드리고 싶은 음악이 너무 많았었거든요.
+    ja: |-
+      会話する前は、
+      みなさんにお聴かせしたいことが多すぎました。
+  event_brandnewyear_03_s_32:
+    speaker: julia
+    en: I was lost at sea, unable to find my muse.
+    ko: 그래서 혼을 쉽게 찾지 못한 거였습니다.
+    ja: それで、魂がなかなか見つけられなかった\nのです。
+  event_brandnewyear_03_s_33:
+    speaker: "<Self>"
+    en: It sounds like the time you spent connecting with your music did you a lot
+      of good.
+    ko: 멋진 대화를 나누고 왔군.
+    ja: 素敵な会話をしたようだな
+  event_brandnewyear_03_s_34:
+    speaker: julia
+    en: Very much so. It's thanks to you that my performance went as well as it did.
+    ko: 네. 덕분에 멋진 연주가 나올 수 있었습니다.
+    ja: はい。おかげで素敵な演奏ができました。
+  event_brandnewyear_03_s_35:
+    speaker: julia
+    en: I realize now that being open to new experiences and communication are key
+      to overcoming life's hurdles.
+    ko: |-
+      막힘이 있을 땐.
+      대화로 푸는 게 가장 좋다는 걸 또 한 번 느낍니다.
+    ja: |-
+      上手くいかない時は
+      会話で解決するのが一番だということを\n改めて感じました。
+  event_brandnewyear_03_s_36:
+    speaker: "<Self>"
+    en: Truer words have never been spoken.
+    ko: 대화만큼 좋은 건 없지.
+    ja: 会話の力は絶大だ
+  event_brandnewyear_03_s_37:
+    speaker: julia
+    en: It was an absolute brainwave you had
+    ko: "…마에스트로는 대단하시군요."
+    ja: "…マエストロはすごいですね。"
+  event_brandnewyear_03_s_38:
+    speaker: julia
+    en: to come up with this idea, Conductor.
+    ko: 이런 부분까지 생각해내시다니.
+    ja: そこまでお考えだとは。
+  event_brandnewyear_03_s_39:
+    speaker: julia
+    en: It's nearly time for the next performance.
+    ko: "…연주 시간이 다 되었네요."
+    ja: "…演奏の時間になりました。"
+  event_brandnewyear_03_s_40:
+    speaker: julia
+    en: I'll see you in a bit.
+    ko: 혼을 담아 멋진 연주를 하고 오도록 하겠습니다.
+    ja: 魂を込めて、素敵な演奏をしてまいります。
+  event_brandnewyear_03_s_41:
+    speaker: "<Self>"
+    en: Good luck.
+    ko: 파이팅이야.
+    ja: 頑張れ
+event_brandnewyear_03_e:
+  event_brandnewyear_03_e_1:
+    speaker: "<Narration>"
+    en: "♬♪♩♬♪♩♬♪♩~"
+    ko: "♬♪♩♬♪♩♬♪♩~"
+    ja: "♬♪♩♬♪♩♬♪♩～"
+  event_brandnewyear_03_e_2:
+    speaker: "<Narration>"
+    en: "♬♪♩♬♪♩♬♪♩~"
+    ko: "♬♪♩♬♪♩♬♪♩~"
+    ja: "♬♪♩♬♪♩♬♪♩～"
+  event_brandnewyear_03_e_3:
+    speaker: solemnofficer
+    en: What a beautiful melody.
+    ko: 정말 아름다운 선율이군요.
+    ja: 本当に美しい旋律ですね。
+  event_brandnewyear_03_e_4:
+    speaker: solemnofficer
+    en: Really tugs at the heartstrings.
+    ko: 심금을 울리는 것 같아요.
+    ja: 心の琴線に触れるような演奏です。
+  event_brandnewyear_03_e_5:
+    speaker: colorfulvip
+    en: I feel her music speaking directly to me.
+    ko: 연주자의 이야기가 들리는 기분입니다.
+    ja: 演奏者の思いが聞こえてくるようですね。
+  event_brandnewyear_03_e_6:
+    speaker: colorfulvip
+    en: It complements the atmosphere perfectly as well.
+    ko: 이곳과 너무 잘 어울려요.
+    ja: ここの雰囲気にぴったりです。
+  event_brandnewyear_03_e_7:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_brandnewyear_03_e_8:
+    speaker: "<Choice>"
+    en: Well done.
+    ko: 역시 율리아다.
+    ja: さすがジュリアだ
+  event_brandnewyear_03_e_9:
+    speaker: "<Choice>"
+    en: We couldn't have asked for a more fitting musical performance.
+    ko: 파티와 어울리는 연주였어.
+    ja: パーティーにぴったりな演奏だった
+  event_brandnewyear_03_e_10:
+    speaker: julia
+    en: I appreciate you saying that.
+    ko: 그렇게 말씀해주시다니… 감사합니다.
+    ja: そう言ってくださるなんて…\nありがとうございます。
+  event_brandnewyear_03_e_11:
+    speaker: julia
+    en: I'm glad I'm able to start the new year in such a good mood.
+    ko: 올해의 시작을 기분 좋게 할 수 있어서 다행입니다.
+    ja: 気分よく新年を始めることができて、\nよかったです。
+  event_brandnewyear_03_e_12:
+    speaker: julia
+    en: I will perform even better music going forward.
+    ko: 앞으로 더 좋은 음악을 들려드리겠습니다.
+    ja: これからさらによい音楽をお聴かせいたします。
+  event_brandnewyear_03_e_13:
+    speaker: "<Self>"
+    en: Julia, what is your New Year's resolution?
+    ko: 율리아의 새해 목표는 뭐야?
+    ja: ジュリアの新年の目標は何だ？
+  event_brandnewyear_03_e_14:
+    speaker: julia
+    en: To have even more meaningful conversations with music
+    ko: 지상을 여행하면서.
+    ja: 地上を旅しながら
+  event_brandnewyear_03_e_15:
+    speaker: julia
+    en: while I'm up on the surface.
+    ko: 음악과 더 많은 대화를 나누는 것입니다.
+    ja: 音楽とさらに色々な会話をすることです。
+  event_brandnewyear_03_e_16:
+    speaker: julia
+    en: There's still so much more I want to discuss.
+    ko: 아직 해야 할 이야기가 많이 있거든요.
+    ja: まだ話したいことがたくさんあるのです。
+  event_brandnewyear_03_e_17:
+    speaker: "<Self>"
+    en: So you intend to just roam the surface?
+    ko: 그러면 이제 지상으로 여행 가는 거야?
+    ja: じゃあこれから地上へ旅に出るのか？
+  event_brandnewyear_03_e_18:
+    speaker: julia
+    en: Not necessarily. I do have a purpose.
+    ko: 아니요.
+    ja: いいえ。
+  event_brandnewyear_03_e_19:
+    speaker: julia
+    en: I want to search for sheet music.
+    ko: 악보를 찾아볼 예정입니다.
+    ja: 楽譜を探す予定です。
+  event_brandnewyear_03_e_20:
+    speaker: julia
+    en: It's been far too long since I last had such a deep connection with music.
+    ko: 오랜만에 음악과 대화를 나눴더니.
+    ja: 久しぶりに音楽と会話したら
+  event_brandnewyear_03_e_21:
+    speaker: julia
+    en: I'm sure that this will make for a most excellent muse.
+    ko: 이곳에서 좋은 음악의 혼이 느껴지거든요.
+    ja: ここで素敵な音楽の魂が感じられました。
+  event_brandnewyear_03_e_22:
+    speaker: "<Self>"
+    en: I see.
+    ko: 그렇군.
+    ja: そうか
+  event_brandnewyear_03_e_23:
+    speaker: julia
+    en: If I do come across good sheet music, I will definitely perform it for you,
+      Conductor.
+    ko: |-
+      멋진 악보를 찾는다면.
+      마에스트로 앞에서 연주해 드리겠습니다.
+    ja: |-
+      素敵な楽譜を見つけたら
+      マエストロの前で演奏いたします。
+  event_brandnewyear_03_e_24:
+    speaker: "<Self>"
+    en: I look forward to that.
+    ko: 기대하고 있을게.
+    ja: 楽しみにしてる
+  event_brandnewyear_03_e_25:
+    speaker: julia
+    en: I hope you enjoy the rest of the party.
+    ko: 네. 즐거운 파티 보내세요.
+    ja: はい。\nそれではパーティーをお楽しみください。
+  event_brandnewyear_03_e_26:
+    speaker: "<Self>"
+    en: You too.
+    ko: 너도.
+    ja: ジュリアも楽しんでくれ
+  event_brandnewyear_03_e_27:
+    speaker: "<Narration>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_03_e_28:
+    speaker: "<Monologue>"
+    en: A lot of time has passed, although I'm not sure exactly how much.
+    ko: 시간이 얼마나 흘렀을까.
+    ja: どれくらい時間が経っただろうか
+  event_brandnewyear_03_e_29:
+    speaker: "<Monologue>"
+    en: The party is still in full swing, but I'm about ready to start heading home.
+    ko: |-
+      파티는 끝날 기미가 보이지 않는다.
+      슬슬 집에 돌아가고 싶어졌다.
+    ja: |-
+      パーティーは終わりそうにないが
+      そろそろ家に帰りたくなった
+  event_brandnewyear_03_e_30:
+    speaker: "<Self>"
+    en: Should I head back?
+    ko: "…음. 돌아갈까."
+    ja: "…帰ろうか"
+  event_brandnewyear_03_e_31:
+    speaker: helm
+    en: Oh, you're still here! That's good.
+    ko: |-
+      귀관. 아직 있었구나.
+      다행이다.
+    ja: |-
+      まだいたのね。
+      よかったわ。
+  event_brandnewyear_03_e_32:
+    speaker: helm
+    en: I couldn't find you and thought that you'd left.
+    ko: 찾아도 안보이길래 파티장을 떠난 줄 알았어.
+    ja: 捜してもいないから、\nもう帰ったのかと思って。
+  event_brandnewyear_03_e_33:
+    speaker: "<Choice>"
+    en: I was planning on leaving because you weren't around me.
+    ko: 헬름이 없어서 돌아갈 예정이었어.
+    ja: ヘルムがいないから帰ろうとしていた
+  event_brandnewyear_03_e_34:
+    speaker: "<Choice>"
+    en: Now that you're here, I can enjoy the party again.
+    ko: 헬름이 왔으니 다시 재밌는 파티를 즐겨보려고.
+    ja: ヘルムが来たからまた楽しもう
+  event_brandnewyear_03_e_35:
+    speaker: helm
+    en: "... I would appreciate it if you wouldn't engage in such frivolous flirtation
+      in the coming year."
+    ko: |-
+      귀관.
+      새해부터 의미 없는 추파는 던지지 않았으면 해.
+    ja: 新年から意味のない口説き文句は、お断りよ。
+  event_brandnewyear_03_e_36:
+    speaker: "<Self>"
+    en: Sorry.
+    ko: 미안.
+    ja: すまない
+  event_brandnewyear_03_e_37:
+    speaker: helm
+    en: The Deputy Chief is asking for you.
+    ko: "…부사령관님이 귀관을 호출하셨어."
+    ja: "…副司令官が貴官を呼んでるわ。"
+  event_brandnewyear_03_e_38:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_brandnewyear_03_e_39:
+    speaker: helm
+    en: This way.
+    ko: 이쪽으로.
+    ja: こちらへ。
+event_brandnewyear_intermission_01:
+  event_brandnewyear_intermission_01_1:
+    speaker: "<Self>"
+    en: The surface?
+    ko: 지상 말씀이십니까?
+    ja: 地上ですか？
+  event_brandnewyear_intermission_01_2:
+    speaker: burningum
+    en: That's right.
+    ko: 그, 그래.
+    ja: そ、そうだ。
+  event_brandnewyear_intermission_01_3:
+    speaker: burningum
+    en: I arranged for a supply shipment to be sent there as a gesture of goodwill
+      for the new year.
+    ko: |-
+      새, 새해를 맞이해서
+      지상에 올려보낼 물품을 정리했는데.
+    ja: |-
+      新年を迎えて、地上に送る物を
+      整理していたのだが。
+  event_brandnewyear_intermission_01_4:
+    speaker: burningum
+    en: But we sent the wrong products.
+    ko: 그, 그때 물건이 잘못 들어간 것 같아.
+    ja: そ、そこで間違えて送ってしまったようだ。
+  event_brandnewyear_intermission_01_5:
+    speaker: burningum
+    en: Now they've gone missing. They must be up there somewhere.
+    ko: "…그거 말고는 잃어버릴 이유가 없거든."
+    ja: "…それ以外に、なくす理由がないのだよ。"
+  event_brandnewyear_intermission_01_6:
+    speaker: "<Self>"
+    en: Do you mind if I ask what it is?
+    ko: 혹시 무슨 물건인지 여쭈어봐도 되겠습니까?
+    ja: どういう物か伺ってもよろしいですか？
+  event_brandnewyear_intermission_01_7:
+    speaker: burningum
+    en: A figurine.
+    ko: 피, 피규어야.
+    ja: フィ、フィギュアだ。
+  event_brandnewyear_intermission_01_8:
+    speaker: burningum
+    en: It was very difficult to obtain.
+    ko: 어렵게 구, 구한 건데.
+    ja: 手に入れるのが、大変だったのに。
+  event_brandnewyear_intermission_01_9:
+    speaker: "<Self>"
+    en: It doesn't happen to be the new limited-edition Ark Ranger figurine, is it?
+    ko: |-
+      …혹시,
+      이번에 나온 한정판 아크레인저 피규어입니까?
+    ja: |-
+      …ひょっとして最近発売された
+      限定版アークレンジャーのフィギュアですか？
+  event_brandnewyear_intermission_01_10:
+    speaker: burningum
+    en: The one and the same.
+    ko: 마, 맞아.
+    ja: そ、そうだ。
+  event_brandnewyear_intermission_01_11:
+    speaker: burningum
+    en: It was meant to be a present for my youngest daughter.
+    ko: 막, 막내딸 선물이야.
+    ja: 末っ子へのプレゼントなんだ。
+  event_brandnewyear_intermission_01_12:
+    speaker: burningum
+    en: She's wanted one for ages.
+    ko: 아크레인저 피, 피규어를 가지고 싶다고 해서.
+    ja: アークレンジャーの、フィ、フィギュアが\n欲しいと言うから。
+  event_brandnewyear_intermission_01_13:
+    speaker: burningum
+    en: If you can help me, I'd be incredibly grateful.
+    ko: 그러니까 부, 부탁할게.
+    ja: だから、た、頼む。
+  event_brandnewyear_intermission_01_14:
+    speaker: burningum
+    en: I gave Helm the coordinates.
+    ko: 자, 좌표는 헬름한테 말해 놨어.
+    ja: ざ、座標はヘルムに伝えてある。
+  event_brandnewyear_intermission_01_15:
+    speaker: "<Self>"
+    en: Fine.
+    ko: 네. 알겠습니다.
+    ja: はい。分かりました
+  event_brandnewyear_intermission_01_16:
+    speaker: helm
+    en: I'm sorry.
+    ko: "…미안해. 귀관."
+    ja: "…ごめんね。貴官。"
+  event_brandnewyear_intermission_01_17:
+    speaker: helm
+    en: I invited you to the party, and you got roped into an operation.
+    ko: |-
+      기껏 파티에 초대해놓고.
+      임무를 맡게 하다니.
+    ja: |-
+      パーティーに招待しておいて
+      任務を頼むなんて。
+  event_brandnewyear_intermission_01_18:
+    speaker: "<Self>"
+    en: It's okay.
+    ko: 괜찮아.
+    ja: 大丈夫だ
+  event_brandnewyear_intermission_01_19:
+    speaker: helm
+    en: Thanks for understanding.
+    ko: 이해해 줘서 고마워.
+    ja: 理解してくれてありがとう。
+  event_brandnewyear_intermission_01_20:
+    speaker: helm
+    en: I'll try to join you.
+    ko: |-
+      이번 임무,
+      나도 합류하도록 할게.
+    ja: 今回の任務、私も合流するわ。
+  event_brandnewyear_intermission_01_21:
+    speaker: helm
+    en: To be honest, I'm a little worried.
+    ko: "…조금 신경 쓰이거든."
+    ja: "…ちょっと気になるのよね。"
+  event_brandnewyear_intermission_01_22:
+    speaker: "<Self>"
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かった
+  event_brandnewyear_intermission_01_23:
+    speaker: "<Self>"
+    en: Who should we take with us when we go to the surface?
+    ko: 그럼… 누구를 지상에 데려가지?
+    ja: じゃあ…誰を地上に連れていこうか？
+  event_brandnewyear_intermission_01_24:
+    speaker: helm
+    en: Anchor and Mast are probably our best bet...
+    ko: 아무래도 앵커랑 마스트를 데려….
+    ja: やっぱりアンカーとマストを連れ…
+  event_brandnewyear_intermission_01_25:
+    speaker: sugar
+    en: Try adding 20 spoonfuls of sugar and selling it then.
+    ko: 이 커피에 설탕 20번만 타서 판매해 봐.
+    ja: このコーヒーに砂糖を20杯入れて売ってみて。
+  event_brandnewyear_intermission_01_26:
+    speaker: sugar
+    en: You'd make a fortune.
+    ko: 분명 떼돈 벌 거야.
+    ja: 儲かるはずよ。
+  event_brandnewyear_intermission_01_27:
+    speaker: barista
+    en: I'm not so sure about that...
+    ko: 떼돈은 못 벌 것 같은데….
+    ja: 無理だと思うけど…
+  event_brandnewyear_intermission_01_28:
+    speaker: sugar
+    en: We'll split the profits 70:30.
+    ko: '수익은 7 : 3으로 나누지.'
+    ja: 収益は7対3で分けましょう。
+  event_brandnewyear_intermission_01_29:
+    speaker: sugar
+    en: I'll be getting the lion's share, of course.
+    ko: 물론 내가 7이야.
+    ja: もちろん私が7よ。
+  event_brandnewyear_intermission_01_30:
+    speaker: barista
+    en: What?
+    ko: 네??
+    ja: えっ？？
+  event_brandnewyear_intermission_01_31:
+    speaker: sugar
+    en: Let's write up a contract.
+    ko: 계약서 작성하자고.
+    ja: 契約書を書くわね。
+  event_brandnewyear_intermission_01_32:
+    speaker: "<Narration>"
+    en: "*screech... screeeech*"
+    ko: 끼익… 끼이익-
+    ja: キィ…キィィー
+  event_brandnewyear_intermission_01_33:
+    speaker: julia
+    en: This place is teeming with musical inspiration...
+    ko: 아아… 이곳엔 좋은 음악의 기운이 가득한데….
+    ja: ああ…ここには素敵な音楽のオーラが\nあふれているのに…
+  event_brandnewyear_intermission_01_34:
+    speaker: julia
+    en: What's happening?
+    ko: 뭐가 문제일까요.
+    ja: 何が問題なのでしょうか。
+  event_brandnewyear_intermission_01_35:
+    speaker: "<Narration>"
+    en: "*screech sccreech*"
+    ko: 끽- 끼긱-
+    ja: キッ…キィィー
+  event_brandnewyear_intermission_01_36:
+    speaker: solemnofficer
+    en: I feel like my ears are bleeding.
+    ko: 귀가… 너무 아프네요.
+    ja: 耳が…痛すぎますね。
+  event_brandnewyear_intermission_01_37:
+    speaker: colorfulvip
+    en: Can someone please get her to stop?
+    ko: 연주를 말릴 방법은 없을까요?
+    ja: 演奏をやめさせる方法はありませんか？
+  event_brandnewyear_intermission_01_38:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_intermission_01_39:
+    speaker: "<Self>"
+    en: How about taking those two?
+    ko: "…저 둘을 데려가는 건 어때?"
+    ja: "…あの2人を連れて行こう。"
+  event_brandnewyear_intermission_01_40:
+    speaker: helm
+    en: Good idea.
+    ko: "…좋은 생각이야."
+    ja: "…いい考えだわ。"
+event_brandnewyear_04_s:
+  event_brandnewyear_04_s_1:
+    speaker: sugar
+    en: The surface?
+    ko: 오. 지상이라.
+    ja: あら、地上？
+  event_brandnewyear_04_s_2:
+    speaker: sugar
+    en: If we're going, we might as well take the long way 'round.
+    ko: 이왕 간다면 도로가 길게 뻗은 곳으로 가면 좋겠는데.
+    ja: せっかくなら、\n道路がまっすぐ続く場所に行きたいわ。
+  event_brandnewyear_04_s_3:
+    speaker: sugar
+    en: That way I can really cut loose with Black Typhoon.
+    ko: 블랙 타이푼이 원 없이 달리기 좋은 곳으로 말이야.
+    ja: ブラックタイフーンが\n思いっきり走れる場所にね。
+  event_brandnewyear_04_s_4:
+    speaker: julia
+    en: I'll be more likely to find musical inspiration there as well.
+    ko: 새로운 음악의 혼을 찾을 수도 있겠군요.
+    ja: 新しい音楽の魂を\n見つけられるかもしれませんね。
+  event_brandnewyear_04_s_5:
+    speaker: helm
+    en: No.
+    ko: 안돼.
+    ja: ダメ。
+  event_brandnewyear_04_s_6:
+    speaker: helm
+    en: You don't have a say in this matter.
+    ko: 단독 행동은 금물이야.
+    ja: 単独行動はダメよ。
+  event_brandnewyear_04_s_7:
+    speaker: helm
+    en: We're not going on a field trip. This is an official operation.
+    ko: |-
+      우린 놀러 가는 게 아니라.
+      임무를 하러 가는 거니까.
+    ja: |-
+      私たちは遊びに行くんじゃなくて、
+      任務をしに行くんだから。
+  event_brandnewyear_04_s_8:
+    speaker: sugar
+    en: Yeesh, who pissed in your cereal this morning?
+    ko: 음. 너무 빡빡하군.
+    ja: 厳しすぎじゃない？
+  event_brandnewyear_04_s_9:
+    speaker: sugar
+    en: Fine, I'm not going.
+    ko: 그럼 난 안 가겠어.
+    ja: それなら私は行かない。
+  event_brandnewyear_04_s_10:
+    speaker: "<Self>"
+    en: Helm.
+    ko: 헬름.
+    ja: ヘルム
+  event_brandnewyear_04_s_11:
+    speaker: "<Choice>"
+    en: Will it kill us to enjoy ourselves just a little bit?
+    ko: 콧바람 정도는 쐬고 와도 괜찮지 않을까?
+    ja: 軽い息抜きくらいは\nいいんじゃないか？
+  event_brandnewyear_04_s_12:
+    speaker: "<Choice>"
+    en: Would seeing some sights along the way really be that big of an issue?
+    ko: 가는 길에 구경 정도는 해도 괜찮지 않을까?
+    ja: 途中で見物するくらいは\nいいんじゃないか？
+  event_brandnewyear_04_s_13:
+    speaker: helm
+    en: But...
+    ko: 하지만….
+    ja: でも…
+  event_brandnewyear_04_s_14:
+    speaker: sugar
+    en: I agree with Partner.
+    ko: 나도 파트너 말에 동의해.
+    ja: 私もパートナーの意見に賛成よ。
+  event_brandnewyear_04_s_15:
+    speaker: sugar
+    en: They're sending us out on an operation on our day off. We should at least
+      try and squeeze some fun out of it.
+    ko: |-
+      쉬는 날 임무를 나가는 건데.
+      특별 보상은 있어야지.
+    ja: |-
+      休みの日に任務に出かけるんだから。
+      ご褒美くらいないとね。
+  event_brandnewyear_04_s_16:
+    speaker: helm
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_04_s_17:
+    speaker: helm
+    en: "... Fine."
+    ko: "…그래."
+    ja: "…分かったわ。"
+  event_brandnewyear_04_s_18:
+    speaker: helm
+    en: As long as we complete the operation,
+    ko: 임무만 잘 마친다면야.
+    ja: 任務さえ無事に終われるなら、
+  event_brandnewyear_04_s_19:
+    speaker: helm
+    en: it shouldn't be a problem.
+    ko: 문제없을 것 같아.
+    ja: 問題ないはずよ。
+  event_brandnewyear_04_s_20:
+    speaker: helm
+    en: If there are any sights you wish to see along the way, I will allow us to
+      stop momentarily.
+    ko: |-
+      가는 길에 원하는 목적지가 있으면.
+      잠깐 들리는 것 까진 허락할게.
+    ja: |-
+      途中で行きたい場所がある時、
+      少し立ち寄るくらいは許可するわ。
+  event_brandnewyear_04_s_21:
+    speaker: sugar
+    en: Thanks... I think.
+    ko: 음. 이거 고맙다고 해야 하나?
+    ja: うーん。これは感謝すべき？
+  event_brandnewyear_04_s_22:
+    speaker: julia
+    en: Don't look a gift horse in the mouth.
+    ko: 좋은 게 좋은 거니까요.
+    ja: 行けることになったんですから、\nいいじゃないですか。
+  event_brandnewyear_04_s_23:
+    speaker: sugar
+    en: Fair enough. All right, thanks.
+    ko: 그래. 그럼 좋은 거라고 하지.
+    ja: そうね。そういうことにしとくわ。
+  event_brandnewyear_04_s_24:
+    speaker: julia
+    en: May the wind and waves carry us to our destination.
+    ko: 바람과 파도가 우리를 목적지까지 이끌어 줄 것입니다.
+    ja: 風と波が、私たちを目的地まで\n導いてくれるはずです。
+  event_brandnewyear_04_s_25:
+    speaker: julia
+    en: The rest, we shall leave to them.
+    ko: 그러니 자연스럽게 몸을 맡기도록 하죠.
+    ja: ですから自然に身をまかせましょう。
+  event_brandnewyear_04_s_26:
+    speaker: helm
+    en: Did you mention waves?
+    ko: 파도…?
+    ja: 波…？
+  event_brandnewyear_04_s_27:
+    speaker: "<Self>"
+    en: If we go up to the surface,
+    ko: 지상에 올라가면.
+    ja: 地上に行けば
+  event_brandnewyear_04_s_28:
+    speaker: "<Self>"
+    en: we might catch a glimpse of the sea.
+    ko: 바다를 볼 수 있을지도 몰라.
+    ja: 海が見られるかもしれない
+  event_brandnewyear_04_s_29:
+    speaker: helm
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_brandnewyear_04_s_30:
+    speaker: helm
+    en: Would we really?
+    ko: 바다를… 볼 수도 있구나.
+    ja: 海が…見られるかもしれないのね。
+  event_brandnewyear_04_s_31:
+    speaker: "<Self>"
+    en: Have you ever seen the ocean?
+    ko: 실제로 바다 본 적 있어?
+    ja: 実際に海を見たことがあるか？
+  event_brandnewyear_04_s_32:
+    speaker: helm
+    en: "... No."
+    ko: "…아니."
+    ja: "…いいえ。"
+  event_brandnewyear_04_s_33:
+    speaker: helm
+    en: Living underground like we do, it's obviously not a common sight.
+    ko: 바다가 쉽게 볼 수 있는 건 아니니까.
+    ja: 簡単に見られるものじゃないから。
+  event_brandnewyear_04_s_34:
+    speaker: helm
+    en: All I can do is imagine the Admire sailing on the open seas in my dreams.
+    ko: 그 대신, 바다 위에 어드마이어 호가 있는 상상은 매일 해.
+    ja: その代わり、海の上にアドマイアー号が\n浮かんでいるところは毎日想像してるわ。
+  event_brandnewyear_04_s_35:
+    speaker: sugar
+    en: The same goes for me too.
+    ko: 그건 나도 마찬가지야.
+    ja: それは私も同じよ。
+  event_brandnewyear_04_s_36:
+    speaker: sugar
+    en: I always envision Black Typhoon tearing down a stretch of road that goes on
+      into infinity.
+    ko: 블랙 타이푼이 끝없는 도로를 미친 듯이 달리는 상상을 하지.
+    ja: ブラックタイフーンが終わりのない道路を\n永遠と走り続ける想像をするの。
+  event_brandnewyear_04_s_37:
+    speaker: sugar
+    en: Vrooooom!
+    ko: 부아아아앙-!
+    ja: ブアアアーン！
+  event_brandnewyear_04_s_38:
+    speaker: "<Self>"
+    en: It'd be nice if we can achieve all of that while we're up there.
+    ko: "…간 김에 원하는 걸 다 이루고 내려오면 좋을 것 같네."
+    ja: "…せっかくだから、望みをすべて叶えてこよう"
+  event_brandnewyear_04_s_39:
+    speaker: helm
+    en: Most certainly.
+    ko: 그러게.
+    ja: そうね。
+  event_brandnewyear_04_s_40:
+    speaker: helm
+    en: Then should we leave?
+    ko: 그럼 출발할까?
+    ja: じゃあ出発する？
+  event_brandnewyear_04_s_41:
+    speaker: "<Self>"
+    en: Let's go.
+    ko: 응. 출발하자.
+    ja: 行こう
+event_brandnewyear_04_e:
+  event_brandnewyear_04_e_1:
+    speaker: sugar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_04_e_2:
+    speaker: sugar
+    en: "... Vr."
+    ko: "…부."
+    ja: "…ブ…"
+  event_brandnewyear_04_e_3:
+    speaker: sugar
+    en: Vrrrrroooom.
+    ko: 부아아아앙-
+    ja: ブアアアーン！
+  event_brandnewyear_04_e_4:
+    speaker: sugar
+    en: Black Typhoon,
+    ko: 블랙 타이푼.
+    ja: ブラックタイフーン。
+  event_brandnewyear_04_e_5:
+    speaker: sugar
+    en: full speed ahead!
+    ko: 날뛰어라!
+    ja: フルスピード！
+  event_brandnewyear_04_e_6:
+    speaker: "<Narration>"
+    en: "*ba ba ba ba*"
+    ko: 바바바바-
+    ja: ドドドド…
+  event_brandnewyear_04_e_7:
+    speaker: helm
+    en: Sugar sure is revved up.
+    ko: "…슈가 신났네."
+    ja: "…シュガー、楽しそうね。"
+  event_brandnewyear_04_e_8:
+    speaker: julia
+    en: I don't think I've ever seen her so excited.
+    ko: |-
+      이렇게 즐거워하는 모습은.
+      처음 보는 것 같습니다.
+    ja: |-
+      こんなに楽しそうな姿は
+      初めて見た気がします。
+  event_brandnewyear_04_e_9:
+    speaker: "<Monologue>"
+    en: Up on the surface, while en route to the coordinates,
+    ko: 지상에 올라와 좌표로 이동하던 중.
+    ja: 地上に上がり、座標へ移動する途中で
+  event_brandnewyear_04_e_10:
+    speaker: "<Monologue>"
+    en: we discovered a long straight path. Sugar took off on her motorcycle as if
+      she's been waiting her whole life for this moment.
+    ko: |-
+      길게 뻗은 도로를 발견하게 되었고.
+      슈가는 기다렸다는 듯 바이크를 몰기 시작했다.
+    ja: |-
+      まっすぐ続く道路を見つけ
+      シュガーはバイクで疾走を始めた
+  event_brandnewyear_04_e_11:
+    speaker: sugar
+    en: Vrrroooooom!
+    ko: |-
+      부아앙-!
+      블랙 타이푼.
+    ja: |-
+      ブアアン！
+      ブラックタイフーン。
+  event_brandnewyear_04_e_12:
+    speaker: sugar
+    en: Vrrroooommmm!
+    ko: 부우으아아아아앙-!
+    ja: ブアアアーン！
+  event_brandnewyear_04_e_13:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_04_e_14:
+    speaker: helm
+    en: She looks really happy.
+    ko: 정말 행복해 보여.
+    ja: 本当に幸せそう。
+  event_brandnewyear_04_e_15:
+    speaker: "<Self>"
+    en: I do wonder why she makes those muffler sounds with her mouth though.
+    ko: 근데 배기음 소리는 왜 굳이 입으로 내는 걸까.
+    ja: でも、どうしてわざわざ排気音を\n口で言うのだろう
+  event_brandnewyear_04_e_16:
+    speaker: julia
+    en: I don't mind it. It actually goes quite nicely with some violin accompaniment.
+    ko: |-
+      듣기 좋은 목소리 톤입니다.
+      바이올린의 맑은 선율과 어울릴 것 같아요.
+    ja: |-
+      聞きやすい声のトーンです。
+      バイオリンの明るい旋律と合いそうですね。
+  event_brandnewyear_04_e_17:
+    speaker: helm
+    en: Her dreams are now a reality. Can't imagine how delighted she must be...
+    ko: |-
+      …상상해 왔던걸.
+      실제로 하게 된다면 얼마나 좋겠어.
+    ja: |-
+      …想像してきたことを
+      実現できるなんて最高でしょ。
+  event_brandnewyear_04_e_18:
+    speaker: helm
+    en: If we end up seeing the ocean,
+    ko: 슈가도 그런 거겠지.
+    ja: シュガーもそうなのよ。
+  event_brandnewyear_04_e_19:
+    speaker: helm
+    en: I'm not sure I'd be able to contain my emotions either.
+    ko: 나도 바다를 본다면 흥분을 감추지 못할 것 같아.
+    ja: 私も海を見たら、興奮を隠しきれないと思うわ。
+  event_brandnewyear_04_e_20:
+    speaker: "<Self>"
+    en: We'll see the ocean, I promise.
+    ko: 바다도 보러 가자.
+    ja: 海も見に行こう
+  event_brandnewyear_04_e_21:
+    speaker: helm
+    en: I hope so.
+    ko: 응. 볼 수 있었으면 좋겠네.
+    ja: ええ。見られたら嬉しいわ。
+  event_brandnewyear_04_e_22:
+    speaker: "<Self>"
+    en: Wanna come along, Julia?
+    ko: 율리아는 좀 느껴지는 게 있어?
+    ja: ジュリアは何か感じられないか？
+  event_brandnewyear_04_e_23:
+    speaker: julia
+    en: No, I still haven't found my muse yet.
+    ko: |-
+      아니요.
+      아직까진 음악의 혼이 느껴지진 않습니다.
+    ja: |-
+      はい。
+      まだ音楽の魂は感じられませんね。
+  event_brandnewyear_04_e_24:
+    speaker: julia
+    en: But I'm sure it's here. I can sense it.
+    ko: |-
+      하지만 분명 이곳에.
+      좋은 영감과 자극이 있는 건 확실합니다.
+    ja: |-
+      しかし、絶対にいいインスピレーションと
+      刺激があるのは間違いありません。
+  event_brandnewyear_04_e_25:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: "…잠시 후."
+    ja: "…しばらくして"
+  event_brandnewyear_04_e_26:
+    speaker: "<Narration>"
+    en: "*ba ba ba ba*"
+    ko: 바바바바-
+    ja: ドドドド…
+  event_brandnewyear_04_e_27:
+    speaker: "<Monologue>"
+    en: Sugar returns atop Black Typhoon, beaming from ear to ear.
+    ko: 슈가는 벅찬 표정으로 블랙 타이푼과 돌아왔다.
+    ja: シュガーは満足そうな表情で\nブラックタイフーンと帰ってきた
+  event_brandnewyear_04_e_28:
+    speaker: "<Choice>"
+    en: Pushed the pedal to the metal?
+    ko: 열심히 달렸어?
+    ja: お疲れ様
+  event_brandnewyear_04_e_29:
+    speaker: "<Choice>"
+    en: Happy?
+    ko: 이제 만족해?
+    ja: 満足したか？
+  event_brandnewyear_04_e_30:
+    speaker: sugar
+    en: The new year has only just begun,
+    ko: "…파트너."
+    ja: "…パートナー。"
+  event_brandnewyear_04_e_31:
+    speaker: sugar
+    en: and my greatest wish already came true.
+    ko: 올해 목표는 다 이뤘어.
+    ja: 今年の目標は全部叶ったわ。
+  event_brandnewyear_04_e_32:
+    speaker: sugar
+    en: I've never been able to reach speeds like this in the Ark.
+    ko: 방주에선 한 번도 이 속도로 달려본 적이 없었는데.
+    ja: アークでは一度もこのスピードで\n走ったことがなかったのに。
+  event_brandnewyear_04_e_33:
+    speaker: sugar
+    en: My heart was racing the entire time.
+    ko: 오랜만에 심장이 요동쳤어.
+    ja: 久しぶりに心臓がドキドキしたわ。
+  event_brandnewyear_04_e_34:
+    speaker: "<Self>"
+    en: I'm glad you enjoyed yourself.
+    ko: 행복해 보여서 다행이야.
+    ja: 幸せそうで何よりだ
+  event_brandnewyear_04_e_35:
+    speaker: sugar
+    en: Oh, Helm.
+    ko: 아. 헬름.
+    ja: あ、ヘルム。
+  event_brandnewyear_04_e_36:
+    speaker: sugar
+    en: According to the coordinates you sent, this is the way we should be headed.
+    ko: 네가 말한 좌표는 이곳으로 가는 게 맞아.
+    ja: あなたが言ってた座標はこっちで正解よ。
+  event_brandnewyear_04_e_37:
+    speaker: sugar
+    en: I passed by a stack of boxes on the side of the road.
+    ko: 지나가는 길에 보니까, 상자 여러 개가 모여 있는 곳이 있더라고.
+    ja: 途中で箱がいくつもある場所を見つけたの。
+  event_brandnewyear_04_e_38:
+    speaker: helm
+    en: Really? That's a relief.
+    ko: 그래? 다행이네.
+    ja: そう？よかった。
+  event_brandnewyear_04_e_39:
+    speaker: helm
+    en: Then let's get a move on.
+    ko: 그럼 이제 다시 이동해 보자.
+    ja: じゃあ移動しましょう。
+  event_brandnewyear_04_e_40:
+    speaker: helm
+    en: We need to arrive before it gets dark.
+    ko: 날이 어두워지기 전엔 도착해야 하니까.
+    ja: 暗くなる前に到着しないと。
+event_brandnewyear_05_s:
+  event_brandnewyear_05_s_1:
+    speaker: "<Monologue>"
+    en: We continue towards the coordinates.
+    ko: 우리는 좌표를 향해 걷고 또 걸었다.
+    ja: 私たちは座標に向かって歩き続けた
+  event_brandnewyear_05_s_2:
+    speaker: "<Monologue>"
+    en: My legs are starting to feel numb, and my breath is becoming ragged.
+    ko: |-
+      …다리가 저려온다.
+      숨이 차기 시작했다.
+    ja: |-
+      …足がしびれ
+      息が上がり始めた
+  event_brandnewyear_05_s_3:
+    speaker: "<Monologue>"
+    en: Meanwhile, Helm, Julia, and Sugar are showing no signs of exhaustion and continue
+      forward at full speed.
+    ko: |-
+      헬름과 율리아, 슈가는 힘든 기색 하나 없이
+      거침없이 걸어 나갔다.
+    ja: |-
+      ヘルム、ジュリア、シュガーは\nまったくつらそうな様子もなく
+      どんどん進んでいった
+  event_brandnewyear_05_s_4:
+    speaker: "<Choice>"
+    en: "*pant*"
+    ko: "…후욱."
+    ja: "…ふぅ…"
+  event_brandnewyear_05_s_5:
+    speaker: "<Choice>"
+    en: Think we could rest for a bit?
+    ko: "…잠시 쉬었다 가는 건 어때?"
+    ja: "…少し休んでいかないか？"
+  event_brandnewyear_05_s_6:
+    speaker: helm
+    en: You okay? You sound like you're having a tough time.
+    ko: |-
+      괜찮아?
+      숨이 거친데.
+    ja: |-
+      大丈夫？
+      息が上がってるけど。
+  event_brandnewyear_05_s_7:
+    speaker: helm
+    en: How about we take a short rest?
+    ko: "…우리 좀 쉬었다가 가는 건 어때?"
+    ja: "…少し休んでいかない？"
+  event_brandnewyear_05_s_8:
+    speaker: sugar
+    en: That's a good idea.
+    ko: 좋은 생각이야.
+    ja: いい考えね。
+  event_brandnewyear_05_s_9:
+    speaker: helm
+    en: Sit down here.
+    ko: 귀관. 여기 앉아.
+    ja: 貴官。ここに座って。
+  event_brandnewyear_05_s_10:
+    speaker: "<Self>"
+    en: Thanks.
+    ko: 고마워.
+    ja: ありがとう
+  event_brandnewyear_05_s_11:
+    speaker: julia
+    en: "*Inhale* Haaah!"
+    ko: 스읍- 하-!
+    ja: スーッ、ハー！
+  event_brandnewyear_05_s_12:
+    speaker: sugar
+    en: What are you doing?
+    ko: 뭐 하는 거지?
+    ja: 何してるの？
+  event_brandnewyear_05_s_13:
+    speaker: julia
+    en: I was just taking in the winter air.
+    ko: 겨울 공기를 한 번 마셔보고 있었습니다.
+    ja: 冬の空気を吸っていました。
+  event_brandnewyear_05_s_14:
+    speaker: julia
+    en: It's so different than what you normally breathe in the Ark.
+    ko: 방주에선 맡기 쉽지 않으니까요.
+    ja: アークではなかなか体験できませんから。
+  event_brandnewyear_05_s_15:
+    speaker: sugar
+    en: Oh, yeah. Makes sense.
+    ko: 오. 일리 있는 말이군.
+    ja: あ、確かに一理あるわね。
+  event_brandnewyear_05_s_16:
+    speaker: sugar
+    en: I'll give it a try too, then.
+    ko: 그럼 나도 한 번.
+    ja: じゃあ、私も。
+  event_brandnewyear_05_s_17:
+    speaker: sugar
+    en: "*Inhale* Haaah!"
+    ko: 스읍- 하-!
+    ja: スーッ、ハー！
+  event_brandnewyear_05_s_18:
+    speaker: helm
+    en: The air always smells nice in winter.
+    ko: "…겨울 냄새가 좋네."
+    ja: "…冬のいい香りね。"
+  event_brandnewyear_05_s_19:
+    speaker: sugar
+    en: Pray tell, what exactly does winter smell like?
+    ko: |-
+      겨울 냄새?
+      그건 무슨 냄새지.
+    ja: |-
+      冬の香り？
+      どういう感じ？
+  event_brandnewyear_05_s_20:
+    speaker: helm
+    en: It's hard to explain... there's something unique about the cold in the air
+      during winter.
+    ko: 겨울 공기에서 나는 특유의 청량하고 맑은 냄새라고 해야 하나….
+    ja: 冬の空気にある特有の\n爽やかで新鮮な香りっていうのかしら…
+  event_brandnewyear_05_s_21:
+    speaker: helm
+    en: Like you're standing in a beautiful field of snow. It makes me feel warm and
+      fuzzy inside.
+    ko: 따뜻하고 포근한 설원의 향이 느껴져.
+    ja: 暖かくて柔らかい雪原の香りが感じられるのよ。
+  event_brandnewyear_05_s_22:
+    speaker: sugar
+    en: Wait, you're in the middle of a snowfield, and you feel warm inside? What
+      a contradiction.
+    ko: |-
+      설원인데 따뜻하고 포근하다라.
+      역설적이네.
+    ja: |-
+      雪原なのに暖かくて柔らかい？
+      逆説的ね。
+  event_brandnewyear_05_s_23:
+    speaker: julia
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  event_brandnewyear_05_s_24:
+    speaker: "<Self>"
+    en: What's wrong?
+    ko: 왜 그래?
+    ja: どうした？
+  event_brandnewyear_05_s_25:
+    speaker: julia
+    en: Helm's words just gave me a burst of inspiration.
+    ko: |-
+      헬름의 말을 듣고.
+      좋은 연주가 떠올랐습니다.
+    ja: |-
+      ヘルムの言葉を聞いて
+      いい旋律が思い浮かびました。
+  event_brandnewyear_05_s_26:
+    speaker: julia
+    en: It's unlike anything I've ever felt before.
+    ko: 한 번도 느껴본 적 없는 음악의 혼입니다.
+    ja: 一度も感じたことがない音楽の魂です。
+  event_brandnewyear_05_s_27:
+    speaker: julia
+    en: My heart is racing.
+    ko: 설레이는군요.
+    ja: ドキドキしますね。
+  event_brandnewyear_05_s_28:
+    speaker: julia
+    en: Can I perform while we rest?
+    ko: "…쉬는 동안, 연주하고 있어도 되겠습니까?"
+    ja: "…休んでいる間、演奏してもよろしいですか？"
+  event_brandnewyear_05_s_29:
+    speaker: "<Self>"
+    en: If you'd like.
+    ko: 마음대로 해.
+    ja: 好きにしていい
+  event_brandnewyear_05_s_30:
+    speaker: julia
+    en: Thank you.
+    ko: 감사합니다.
+    ja: ありがとうございます。
+  event_brandnewyear_05_s_31:
+    speaker: "<Narration>"
+    en: "♬♪♩♬♪♩♬♪♩♪~"
+    ko: "♬♪♩♬♪♩♬♪♩♪~"
+    ja: "♬♪♩♬♪♩♬♪♩♪～"
+  event_brandnewyear_05_s_32:
+    speaker: "<Narration>"
+    en: "♩♬♪♬♪♩♬♪♬♪♩♬♪~"
+    ko: "♩♬♪♬♪♩♬♪♬♪♩♬♪~"
+    ja: "♩♬♪♬♪♩♬♪♬♪♩♬♪～"
+  event_brandnewyear_05_s_33:
+    speaker: "<Monologue>"
+    en: Julia begins to play a melody that's both comforting and soothing.
+    ko: 율리아는 잔잔하면서도 포근한 곡을 연주하기 시작했고.
+    ja: ジュリアは穏やかで柔らかい曲を演奏し始め
+  event_brandnewyear_05_s_34:
+    speaker: "<Monologue>"
+    en: We all sit quietly and take in Julia's playing.
+    ko: 우리는 율리아의 음악을 조용히 감상했다.
+    ja: 私たちはジュリアの音楽を静かに鑑賞した
+  event_brandnewyear_05_s_35:
+    speaker: "<Narration>"
+    en: "... Soon after."
+    ko: "…잠시 후."
+    ja: "…しばらくして"
+  event_brandnewyear_05_s_36:
+    speaker: "<Self>"
+    en: That was lovely.
+    ko: 좋은 연주였어.
+    ja: いい演奏だった
+  event_brandnewyear_05_s_37:
+    speaker: julia
+    en: Thank you, Conductor.
+    ko: |-
+      감사합니다.
+      마에스트로.
+    ja: |-
+      感謝いたします。
+      マエストロ。
+  event_brandnewyear_05_s_38:
+    speaker: julia
+    en: Thanks to you guys, I was able to find a particularly lovely muse.
+    ko: 여러분 덕분에 좋은 음악의 혼을 찾을 수 있었습니다.
+    ja: みなさんのおかげで、\n素敵な音楽の魂を見つけられました。
+  event_brandnewyear_05_s_39:
+    speaker: julia
+    en: I can see now that the surface is a place
+    ko: 아아… 지상은 정말.
+    ja: ああ…地上は本当に
+  event_brandnewyear_05_s_40:
+    speaker: julia
+    en: in which music and melodies thrive.
+    ko: 많은 음률과 선율이 존재하는 곳입니다.
+    ja: たくさんの旋律が存在する場所ですね。
+  event_brandnewyear_05_s_41:
+    speaker: "<Self>"
+    en: Julia's performance has given me a second wind, and I feel ready to move again.
+    ko: |-
+      율리아 연주 때문에,
+      기운 내서 움직일 수 있을 것 같아.
+    ja: |-
+      ジュリアの演奏のおかげで元気が出て
+      動けそうだ
+  event_brandnewyear_05_s_42:
+    speaker: julia
+    en: My music seems to motivate you.
+    ko: 제 곡이 응원가였군요.
+    ja: 私の曲は応援歌だったのですね。
+  event_brandnewyear_05_s_43:
+    speaker: julia
+    en: I'll continue playing while we're moving.
+    ko: 그럼 옆에서 계속 연주하며 이동하겠습니다.
+    ja: それでは、隣で演奏しながら移動しましょう。
+  event_brandnewyear_05_s_44:
+    speaker: "<Narration>"
+    en: "... *screech screeech*"
+    ko: "…끽- 끼긱-"
+    ja: "…キッ…キィィー"
+  event_brandnewyear_05_s_45:
+    speaker: julia
+    en: Hmm... it seems that my muse has left me.
+    ko: 음… 겨울 공기가 부족한가 보군요.
+    ja: これは…冬の空気が足りないようですね。
+  event_brandnewyear_05_s_46:
+    speaker: julia
+    en: Perhaps I haven't taken in enough of the winter air.
+    ko: 다시 한번 겨울의 혼을 느껴야겠습니다.
+    ja: もう一度冬の魂を感じてみます。
+  event_brandnewyear_05_s_47:
+    speaker: julia
+    en: "*Inhale* Haaah!"
+    ko: 스읍- 하-!
+    ja: スーッ、ハー！
+  event_brandnewyear_05_s_48:
+    speaker: "<Narration>"
+    en: "♩♬♪♬♪♩♬♪♬♪♩♬♪~"
+    ko: "♩♬♪♬♪♩♬♪♬♪♩♬♪~"
+    ja: "♩♬♪♬♪♩♬♪♬♪♩♬♪～"
+  event_brandnewyear_05_s_49:
+    speaker: "<Narration>"
+    en: "♩♬♪♬♪♩♬... *Screech*"
+    ko: "♩♬♪♬♪♩♬… 끽-"
+    ja: "♩♬♪♬♪♩♬…キィッ…"
+  event_brandnewyear_05_s_50:
+    speaker: julia
+    en: "*Inhale* Haaah!"
+    ko: 스읍- 하-!
+    ja: スーッ、ハー！
+  event_brandnewyear_05_s_51:
+    speaker: "<Narration>"
+    en: "♬♪♩♬♪♩..."
+    ko: "♬♪♩♬♪♩…"
+    ja: "♬♪♩♬♪♩…"
+  event_brandnewyear_05_s_52:
+    speaker: "<Narration>"
+    en: "*screech*"
+    ko: 끽-
+    ja: キッ…
+  event_brandnewyear_05_s_53:
+    speaker: julia
+    en: "*gasp*"
+    ko: 스읍…!
+    ja: スーッ…！
+  event_brandnewyear_05_s_54:
+    speaker: "<Self>"
+    en: "... We should try and move silently."
+    ko: "…조용히 가자."
+    ja: "…静かに行こう"
+event_brandnewyear_05_e:
+  event_brandnewyear_05_e_1:
+    speaker: sugar
+    en: Is this it?
+    ko: 여긴가?
+    ja: ここかしら？
+  event_brandnewyear_05_e_2:
+    speaker: helm
+    en: According to the coordinates, yes.
+    ko: 응. 좌표상 이곳이야.
+    ja: ええ。座標ではここね。
+  event_brandnewyear_05_e_3:
+    speaker: "<Monologue>"
+    en: Helm leads us to a pile of boxes that are neatly stacked up. The labels show
+      them as having been sent from the Ark.
+    ko: |-
+      헬름을 따라온 곳엔.
+      방주에서 보낸 듯한 깔끔한 상자가 여러 개 쌓여 있었다.
+    ja: |-
+      たどり着いた場所には
+      アークから送ったように見える\nきれいな箱がいくつも積まれていた
+  event_brandnewyear_05_e_4:
+    speaker: sugar
+    en: Seems a bit strange, doesn't it?
+    ko: 주변엔 아무도 없는 것 같은데.
+    ja: 周りには誰もいなさそうだけど。
+  event_brandnewyear_05_e_5:
+    speaker: sugar
+    en: These boxes are out here in the middle of nowhere.
+    ko: 상자만 이렇게 덩그러니 있는 것도 좀 웃기군.
+    ja: 箱だけこうして置いてあるのもおかしいわね。
+  event_brandnewyear_05_e_6:
+    speaker: julia
+    en: Are they safe to touch?
+    ko: 만져도 되는 걸까요?
+    ja: 触ってもいいのでしょうか？
+  event_brandnewyear_05_e_7:
+    speaker: helm
+    en: Yes, we're here under orders from the Deputy Commander-in-Chief.
+    ko: 응. 우리는 부사령관님 명령하에 온 거니까.
+    ja: ええ。私たちは副司令官の命令で来たのだから。
+  event_brandnewyear_05_e_8:
+    speaker: helm
+    en: Let's find the figurine quickly and get out of here.
+    ko: 피규어만 찾아서 얼른 빠져나가자.
+    ja: フィギュアを捜して、早く帰りましょう。
+  event_brandnewyear_05_e_9:
+    speaker: sugar
+    en: Okay.
+    ko: 오케이.
+    ja: 了解。
+  event_brandnewyear_05_e_10:
+    speaker: "<Narration>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_05_e_11:
+    speaker: "<Narration>"
+    en: "..."
+    ko: "………."
+    ja: "………"
+  event_brandnewyear_05_e_12:
+    speaker: helm
+    en: Guys, I found it.
+    ko: 얘들아, 찾았어.
+    ja: みんな、見つけたわ。
+  event_brandnewyear_05_e_13:
+    speaker: helm
+    en: An Ark Ranger figurine. Is this the one?
+    ko: |-
+      귀관. 이거 맞지?
+      아크레인저 한정판 피규어.
+    ja: |-
+      これよね？
+      アークレンジャーの限定版フィギュア。
+  event_brandnewyear_05_e_14:
+    speaker: "<Self>"
+    en: That's the one.
+    ko: |-
+      맞아.
+      이거야.
+    ja: そう。これだ
+  event_brandnewyear_05_e_15:
+    speaker: sugar
+    en: The packaging is all bent out of shape.
+    ko: 음… 근데 포장 상태가 영 엉망이군.
+    ja: うーん…でも包装がめちゃくちゃね。
+  event_brandnewyear_05_e_16:
+    speaker: sugar
+    en: I doubt the person it was meant for will appreciate that.
+    ko: 받는 사람은 선물이라고 생각 못할지도 모르겠어.
+    ja: 受け取った人はプレゼントだって思わないかも。
+  event_brandnewyear_05_e_17:
+    speaker: julia
+    en: When it comes to presents, it's the thought that counts.
+    ko: 선물은 마음이 더 중요한 법이니까요.
+    ja: プレゼントは気持ちが大事ですから。
+  event_brandnewyear_05_e_18:
+    speaker: sugar
+    en: I guess you're right.
+    ko: 뭐, 그럼 다행이고.
+    ja: まあ、それならいいけど。
+  event_brandnewyear_05_e_19:
+    speaker: sugar
+    en: But what are they doing here?
+    ko: 근데 이 물품들은 왜 이곳에 있는 걸까.
+    ja: でも、この荷物って\nどうしてここにあるのかしら？
+  event_brandnewyear_05_e_20:
+    speaker: helm
+    en: I'm sure for some reason that only the higher-ups know.
+    ko: 윗분들의 사정이 있겠지.
+    ja: 上官たちなりの事情があったはずよ。
+  event_brandnewyear_05_e_21:
+    speaker: helm
+    en: We did what we were sent to do. Let's head back.
+    ko: 임무 완수했으니, 이만 돌아가자.
+    ja: 任務は達成したから、帰りましょう。
+  event_brandnewyear_05_e_22:
+    speaker: "<Self>"
+    en: We can't go back yet.
+    ko: 아직은 돌아갈 수 없어.
+    ja: まだ帰ることはできない
+  event_brandnewyear_05_e_23:
+    speaker: helm
+    en: Why not?
+    ko: 응? 왜?
+    ja: え？どうして？
+  event_brandnewyear_05_e_24:
+    speaker: "<Self>"
+    en: Because we haven't seen the ocean yet.
+    ko: 바다를 못 봤으니까.
+    ja: 海を見ていないから
+  event_brandnewyear_05_e_25:
+    speaker: sugar
+    en: Roger that.
+    ko: 그렇군.
+    ja: そうね。
+  event_brandnewyear_05_e_26:
+    speaker: sugar
+    en: I'll take a look around on Black Typhoon.
+    ko: 그럼 내가 블랙 타이푼으로 주위를 한 번 둘러….
+    ja: じゃあ、私がブラックタイフーンで\nぐるっと1周…
+  event_brandnewyear_05_e_27:
+    speaker: helm
+    en: No, that's not necessary.
+    ko: 아니야. 그럴 필요까진 없어.
+    ja: いいえ、そこまでする必要はないわ。
+  event_brandnewyear_05_e_28:
+    speaker: helm
+    en: Our primary reason for coming here was to secure this package.
+    ko: 우리가 올라온 첫 번째 목적은 부사령관님의 임무 때문이니까.
+    ja: 私たちがここに来た一番の目的は、\n副司令官の任務だから。
+  event_brandnewyear_05_e_29:
+    speaker: helm
+    en: Nothing else matters.
+    ko: 나머지는 부가적인 것들이었고.
+    ja: 残りはおまけに過ぎないのよ。
+  event_brandnewyear_05_e_30:
+    speaker: helm
+    en: Besides, it doesn't seem like you can see the ocean from here.
+    ko: "…그리고 여기선 바다를 볼 수 있을 것 같진 않아."
+    ja: "…それにここでは、海は見られそうにないわ。"
+  event_brandnewyear_05_e_31:
+    speaker: "<Self>"
+    en: But...
+    ko: 하지만….
+    ja: しかし…
+  event_brandnewyear_05_e_32:
+    speaker: helm
+    en: It's okay. To be honest, I'd be lying if I said I wasn't looking forward to
+      it.
+    ko: |-
+      괜찮아.
+      솔직히 기대를 안 했다면 거짓말이겠지만.
+    ja: |-
+      大丈夫よ。
+      正直、期待していなかったといったら\n嘘になるけど。
+  event_brandnewyear_05_e_33:
+    speaker: helm
+    en: But you don't have to go out of your way for me. One day, I will see the ocean
+      with my own eyes. I know it.
+    ko: |-
+      언젠간 바다를 내 두 눈으로 직접 볼 거니까.
+      너무 애쓰지 않아도 돼.
+    ja: |-
+      いつかこの目で海を見る日は来るはずだから。
+      そこまでしなくてもいいのよ。
+  event_brandnewyear_05_e_34:
+    speaker: "<Self>"
+    en: But we're already here on the surface.
+    ko: 지상까지 올라왔는데….
+    ja: 地上まで来たのに…
+  event_brandnewyear_05_e_35:
+    speaker: helm
+    en: Please, let's just give this matter a rest.
+    ko: |-
+      귀관.
+      칭얼거리는 건 여기까지 해줬으면 좋겠어.
+    ja: |-
+      貴官。
+      だだをこねるのはここまでにして。
+  event_brandnewyear_05_e_36:
+    speaker: helm
+    en: Right now, carrying out the mission trumps everything else, including the
+      ocean.
+    ko: |-
+      지금 나에겐 바다보다.
+      부사령관님이 내려주신 임무를 무사히 완수하는 게 목표니까.
+    ja: |-
+      今は海ではなく、副司令官の任務を
+      無事に達成することが目標なのだから。
+  event_brandnewyear_05_e_37:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_05_e_38:
+    speaker: helm
+    en: Are you okay?
+    ko: |-
+      귀관.
+      그건 무슨 표정이지?
+    ja: |-
+      貴官。
+      その顔は何？
+  event_brandnewyear_05_e_39:
+    speaker: "<Choice>"
+    en: I'm sad.
+    ko: 슬퍼하는 표정이야.
+    ja: 悲しんでいる顔だ
+  event_brandnewyear_05_e_40:
+    speaker: "<Choice>"
+    en: I'm about to cry.
+    ko: 눈물이 날 것 같은 표정이야.
+    ja: 涙が出そうな顔だ
+  event_brandnewyear_05_e_41:
+    speaker: helm
+    en: Please, don't be melodramatic.
+    ko: "…그런 표정을 지을 정도는 아닌 것 같은데."
+    ja: "…そんな顔をするほどじゃないと思うけど。"
+  event_brandnewyear_05_e_42:
+    speaker: helm
+    en: I'd like to know what possibly could be making you so emotional.
+    ko: "…눈물이 나올 포인트가 어디였는지 알려줄래?"
+    ja: "…涙が出るポイントが\\nどこにあったか教えてくれる？"
+  event_brandnewyear_05_e_43:
+    speaker: "<Self>"
+    en: "*sniffle*"
+    ko: 쿨쩍-
+    ja: グスン…
+  event_brandnewyear_05_e_44:
+    speaker: helm
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_05_e_45:
+    speaker: sugar
+    en: Well, if Helm feels that way, then there's nothing we can do.
+    ko: 뭐, 헬름이 그렇다면 어쩔 수 없지.
+    ja: まあ、ヘルムがそう言うなら仕方ないわね。
+  event_brandnewyear_05_e_46:
+    speaker: helm
+    en: Precisely. Let's go back.
+    ko: 응. 돌아가자.
+    ja: ええ。帰りましょう。
+  event_brandnewyear_05_e_47:
+    speaker: "<Monologue>"
+    en: Holding the figurine in her hand, Helm takes the lead.
+    ko: 헬름은 피규어를 손에 쥐곤 앞서 걸어 나갔다.
+    ja: ヘルムはフィギュアを握って\n先に歩いていった
+event_brandnewyear_06_s:
+  event_brandnewyear_06_s_1:
+    speaker: helm
+    en: Hmm... I don't think this is the place.
+    ko: 음… 이곳이 아닌 것 같은데.
+    ja: うーん…ここじゃなさそうだわ。
+  event_brandnewyear_06_s_2:
+    speaker: sugar
+    en: We turned around and retraced our steps, didn't we? How did we get so lost?
+    ko: 왔던 길을 되돌아가는 건데, 이렇게 헤맬 일이야?
+    ja: 来た道を戻るだけなのに、こんなに迷う？
+  event_brandnewyear_06_s_3:
+    speaker: julia
+    en: We didn't expect it to be dark so quickly.
+    ko: 어둠이 너무 빨리 찾아왔습니다.
+    ja: 暗くなるのが早すぎました。
+  event_brandnewyear_06_s_4:
+    speaker: helm
+    en: I guess you're right. The sun was already setting when we were looking for
+      that figurine.
+    ko: 뭐… 피규어 찾을 때부터 해는 지고 있었으니까.
+    ja: まあ…フィギュアを捜してた時には\n日は暮れていたから。
+  event_brandnewyear_06_s_5:
+    speaker: sugar
+    en: I'll take Black Typhoon out for a spin.
+    ko: 일단, 내가 블랙 타이푼으로 주변을 둘러보고 올 테니까.
+    ja: とりあえず、私がブラックタイフーンで\n周りを見てくる。
+  event_brandnewyear_06_s_6:
+    speaker: sugar
+    en: I'll go find a cave or somewhere we can shack up for the night.
+    ko: 동굴 같은 곳에 들어가 있어.
+    ja: 洞窟とかに入ってて。
+  event_brandnewyear_06_s_7:
+    speaker: "<Choice>"
+    en: Will you be okay on your own?
+    ko: 혼자 다녀와도 괜찮겠어?
+    ja: 1人で大丈夫か？
+  event_brandnewyear_06_s_8:
+    speaker: "<Choice>"
+    en: Should I go with you?
+    ko: 같이 갈까?
+    ja: 一緒に行こうか？
+  event_brandnewyear_06_s_9:
+    speaker: sugar
+    en: I can hold my own,
+    ko: 혼자 가도 괜찮긴 하지만….
+    ja: 1人でも平気だけど…
+  event_brandnewyear_06_s_10:
+    speaker: sugar
+    en: but two people riding a motorcycle together on a cold, dark night...
+    ko: |-
+      바이크 위에 있는 남자와 여자.
+      짙은 어둠….
+    ja: |-
+      バイクに乗った男と女。
+      暗闇…
+  event_brandnewyear_06_s_11:
+    speaker: sugar
+    en: Sounds like the perfect time for a kiss!
+    ko: 키스할 타이밍인가.
+    ja: キスするタイミングかな？
+  event_brandnewyear_06_s_12:
+    speaker: "<Self>"
+    en: "... You go ahead on your own."
+    ko: 잘 다녀와.
+    ja: 気をつけて行ってこい
+  event_brandnewyear_06_s_13:
+    speaker: sugar
+    en: Right. I'll take a rain check.
+    ko: |-
+      그래.
+      나중에 하는 걸로 알지.
+    ja: |-
+      そう。
+      おあずけってことね。
+  event_brandnewyear_06_s_14:
+    speaker: sugar
+    en: Be right back.
+    ko: 다녀올게.
+    ja: 行ってくるわ。
+  event_brandnewyear_06_s_15:
+    speaker: "<Narration>"
+    en: "*ba ba ba ba*"
+    ko: 바바바바-
+    ja: ドドドド…
+  event_brandnewyear_06_s_16:
+    speaker: "<Monologue>"
+    en: Sugar hops on Black Typhoon and takes off.
+    ko: 슈가는 블랙 타이푼을 타고 떠났다.
+    ja: シュガーはブラックタイフーンに乗って行った
+  event_brandnewyear_06_s_17:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_brandnewyear_06_s_18:
+    speaker: "<Monologue>"
+    en: An uncertain amount of time has passed.
+    ko: 몇 분이 흘렀을까.
+    ja: どれくらい経っただろうか
+  event_brandnewyear_06_s_19:
+    speaker: helm
+    en: Seems we went further off track than we thought. Sugar still isn't back.
+    ko: |-
+      우리가 생각보다 잘못된 길로 꽤 오래 걸어왔나 봐.
+      슈가가 안 오네.
+    ja: |-
+      道を間違えてからずいぶん進んでたみたいね。
+      シュガーが戻って来ないわ。
+  event_brandnewyear_06_s_20:
+    speaker: helm
+    en: I'll go look for her.
+    ko: 내가 한번 찾으러….
+    ja: ちょっと捜しに…
+  event_brandnewyear_06_s_21:
+    speaker: "<Narration>"
+    en: "*ba ba ba ba*"
+    ko: 바바바바-
+    ja: ドドドド…
+  event_brandnewyear_06_s_22:
+    speaker: julia
+    en: Speak of the devil.
+    ko: |-
+      호랑이도 제 말 하면 온다더니.
+      도착한 것 같습니다.
+    ja: |-
+      噂をすれば何とやら。
+      戻って来たようです。
+  event_brandnewyear_06_s_23:
+    speaker: sugar
+    en: Whoo!
+    ko: 역시.
+    ja: やっぱり
+  event_brandnewyear_06_s_24:
+    speaker: sugar
+    en: Nothing beats tearing it up on a long stretch of straight road.
+    ko: 길게 뻗은 도로를 라이딩할 때가 기분이 제일 좋아.
+    ja: まっすぐ続く道路を走る時が一番気分いいわね。
+  event_brandnewyear_06_s_25:
+    speaker: helm
+    en: Did you find the road?
+    ko: 길은 찾았니?
+    ja: 道は分かった？
+  event_brandnewyear_06_s_26:
+    speaker: sugar
+    en: Yeah. Somehow, we got completely lost. We were totally in the wrong direction.
+    ko: 응. 우리가 반대쪽으로 오고 있었더라고.
+    ja: うん。私たち、反対側に進んでたのよ。
+  event_brandnewyear_06_s_27:
+    speaker: sugar
+    en: Should be easy enough to correct.
+    ko: 다시 되돌아 가면 될 것 같아.
+    ja: 戻ればよさそう。
+  event_brandnewyear_06_s_28:
+    speaker: helm
+    en: Good. We can't waste any more time. Let's go.
+    ko: |-
+      그래? 다행이다.
+      더 이상 시간을 지체할 순 없으니 출발하자.
+    ja: |-
+      そう？よかった。
+      これ以上遅くなるわけにはいかないから、\n出発しましょ。
+  event_brandnewyear_06_s_29:
+    speaker: sugar
+    en: Before that...
+    ko: 그 전에.
+    ja: その前に。
+  event_brandnewyear_06_s_30:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_brandnewyear_06_s_31:
+    speaker: sugar
+    en: The sea.
+    ko: 바다.
+    ja: 海。
+  event_brandnewyear_06_s_32:
+    speaker: sugar
+    en: I found it.
+    ko: 찾았어.
+    ja: 見つけたわよ。
+  event_brandnewyear_06_s_33:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_brandnewyear_06_s_34:
+    speaker: helm
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_brandnewyear_06_s_35:
+    speaker: julia
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_brandnewyear_06_s_36:
+    speaker: sugar
+    en: It's just behind a hill, through a grass field.
+    ko: 풀숲 뒤에 숨어 있더라고.
+    ja: 草むらで見えなかったのよね。
+  event_brandnewyear_06_s_37:
+    speaker: sugar
+    en: It's not that out of the way. We could stop by on the way back.
+    ko: 가는 길에 잠깐 들렀다 가면 어떨까 싶은데.
+    ja: ちょっと寄って行かない？
+  event_brandnewyear_06_s_38:
+    speaker: "<Self>"
+    en: Let's go.
+    ko: 가자.
+    ja: 行こう
+event_brandnewyear_06_e:
+  event_brandnewyear_06_e_1:
+    speaker: "<Narration>"
+    en: "*swoosh swoosh*"
+    ko: 사락- 사락-
+    ja: ザア…ザア…
+  event_brandnewyear_06_e_2:
+    speaker: "<Monologue>"
+    en: As we pass through the field of grass that Sugar mentioned, the vast ocean
+      slowly begins to reveal itself.
+    ko: |-
+      슈가를 따라 풀숲을 가로질러 나와보니.
+      드넓은 바다가 펼쳐졌다.
+    ja: |-
+      シュガーの後について草むらを進んでいくと
+      その先に大きな海が広がっていた
+  event_brandnewyear_06_e_3:
+    speaker: helm
+    en: The sea...
+    ko: "……바다."
+    ja: "…海。"
+  event_brandnewyear_06_e_4:
+    speaker: helm
+    en: So this is what it looks like.
+    ko: 이게… 바다라는 거구나.
+    ja: これが…海なのね。
+  event_brandnewyear_06_e_5:
+    speaker: "<Monologue>"
+    en: Helm covers her mouth as she stares in awe.
+    ko: |-
+      헬름은 입을 틀어막곤,
+      바다를 경이롭게 쳐다보고 있었다.
+    ja: |-
+      ヘルムは口を押え
+      驚いた様子で海を見つめていた
+  event_brandnewyear_06_e_6:
+    speaker: sugar
+    en: Certainly feels refreshing!
+    ko: 와, 숨이 탁 트이는 느낌이야.
+    ja: わあ、息をのむ絶景ね。
+  event_brandnewyear_06_e_7:
+    speaker: julia
+    en: It's so beautiful.
+    ko: "…정말 아름답습니다."
+    ja: "…本当に美しいですね。"
+  event_brandnewyear_06_e_8:
+    speaker: helm
+    en: Yes... it... it's amazing.
+    ko: |-
+      …응.
+      정말 멋있다.
+    ja: |-
+      …ええ。
+      本当に素敵だわ。
+  event_brandnewyear_06_e_9:
+    speaker: "<Monologue>"
+    en: The four of us stare at the sea for a while.
+    ko: 한동안 우리는 넋을 놓고 바다를 바라봤다.
+    ja: しばらくの間、\n私たちはぼーっと海を見つめていた
+  event_brandnewyear_06_e_10:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_brandnewyear_06_e_11:
+    speaker: julia
+    en: Huh? The sun is rising.
+    ko: 어? 해가 뜹니다.
+    ja: あれ？日が昇りますよ。
+  event_brandnewyear_06_e_12:
+    speaker: sugar
+    en: Never thought I'd get the chance to see a sunrise up on the surface.
+    ko: 지상에서 해가 떠오르는 걸 보게 될 줄이야.
+    ja: |-
+      まさか地上で
+      日の出を見れるなんてね。
+  event_brandnewyear_06_e_13:
+    speaker: julia
+    en: It's my first time seeing one as well.
+    ko: 저도 일출은 처음 보는 것 같습니다.
+    ja: 私も日の出を見るのは初めてです。
+  event_brandnewyear_06_e_14:
+    speaker: helm
+    en: "... Me too."
+    ko: "……나도."
+    ja: "…私も。"
+  event_brandnewyear_06_e_15:
+    speaker: helm
+    en: It's magnificent.
+    ko: 이쁘네.
+    ja: キレイね。
+  event_brandnewyear_06_e_16:
+    speaker: sugar
+    en: "... Hmm?"
+    ko: "…음?"
+    ja: "…ん？"
+  event_brandnewyear_06_e_17:
+    speaker: sugar
+    en: Partner, what are you doing?
+    ko: 파트너, 뭐 하는 거야?
+    ja: パートナー、何してるの？
+  event_brandnewyear_06_e_18:
+    speaker: "<Self>"
+    en: I'm making a wish.
+    ko: 소원 비는 거야.
+    ja: 願いごとをしてるんだ
+  event_brandnewyear_06_e_19:
+    speaker: sugar
+    en: Ah-ha. I see.
+    ko: 아하. 그렇군.
+    ja: あー、なるほどね。
+  event_brandnewyear_06_e_20:
+    speaker: sugar
+    en: Maybe I'll do the same.
+    ko: 나도 빌어볼까.
+    ja: 私もしようかしら。
+  event_brandnewyear_06_e_21:
+    speaker: julia
+    en: I will make a wish too.
+    ko: 저도 빌겠습니다.
+    ja: 私もします。
+  event_brandnewyear_06_e_22:
+    speaker: helm
+    en: "... Then so will I."
+    ko: "…그럼 나도."
+    ja: "…じゃあ、私も。"
+  event_brandnewyear_06_e_23:
+    speaker: "<Monologue>"
+    en: We shut our eyes and make a wish.
+    ko: |-
+      우리는 다 같이 눈을 감고.
+      두 손을 모아 새해 소원을 빌었다.
+    ja: |-
+      私たちはみんなで目を閉じ
+      両手を合わせて新年の願いごとをした
+  event_brandnewyear_06_e_24:
+    speaker: "<Narration>"
+    en: "..."
+    ko: "………"
+    ja: "………"
+  event_brandnewyear_06_e_25:
+    speaker: helm
+    en: Subordinate,
+    ko: 귀관.
+    ja: 貴官。
+  event_brandnewyear_06_e_26:
+    speaker: helm
+    en: what did you wish for?
+    ko: 무슨 소원 빌었는지 물어봐도 될까?
+    ja: 何を願ったのか聞いてもいい？
+  event_brandnewyear_06_e_27:
+    speaker: "<Choice>"
+    en: That I'll be happy in the days to come.
+    ko: 앞으로도 행복하게 해달라고.
+    ja: これからも幸せでありますように
+  event_brandnewyear_06_e_28:
+    speaker: "<Choice>"
+    en: That I'll be healthy in the days to come.
+    ko: 앞으로도 건강하게 해달라고.
+    ja: これからも健康でありますように
+  event_brandnewyear_06_e_29:
+    speaker: sugar
+    en: A fine wish.
+    ko: 그렇지.
+    ja: そうね。
+  event_brandnewyear_06_e_30:
+    speaker: sugar
+    en: There's not much more important than that.
+    ko: 그게 제일 중요하지.
+    ja: それが一番大事よ。
+  event_brandnewyear_06_e_31:
+    speaker: sugar
+    en: What about you guys? What'd you wish for?
+    ko: 너희는 어떤 소원 빌었어?
+    ja: あなたたちの願いごとは？
+  event_brandnewyear_06_e_32:
+    speaker: helm
+    en: I wished that... one day I would be somewhere on this sea.
+    ko: 난… 언젠간 이 바다 위에 있게 해달라고 빌었어.
+    ja: 私は…\nいつかこの海の上にいられますようにって。
+  event_brandnewyear_06_e_33:
+    speaker: julia
+    en: My wish was to find more musical inspiration.
+    ko: 전 음악의 혼을 더 잘 찾을 수 있게 해달라고 빌었습니다.
+    ja: 私は音楽の魂をもっと上手く\n見つけられますようにと祈りました。
+  event_brandnewyear_06_e_34:
+    speaker: sugar
+    en: Man, all of your wishes are so boring.
+    ko: 다들 시시한 소원을 빌었군.
+    ja: みんなつまんない願いごとね。
+  event_brandnewyear_06_e_35:
+    speaker: "<Self>"
+    en: What'd you wish for, then?
+    ko: 슈가, 넌?
+    ja: シュガーは？
+  event_brandnewyear_06_e_36:
+    speaker: sugar
+    en: Me?
+    ko: 난.
+    ja: 私は…
+  event_brandnewyear_06_e_37:
+    speaker: sugar
+    en: I wished that I'd get more orders than Milk and Frima.
+    ko: 밀크와 프림보다 의뢰가 더 많이 들어오게 해달라고 빌었어.
+    ja: ミルクとプリムより\n依頼がたくさん入りますようにって。
+  event_brandnewyear_06_e_38:
+    speaker: sugar
+    en: For every order they get, I want to get 100.
+    ko: |-
+      나한테 100개의 의뢰가 들어오면,
+      걔네는 1개 정도.
+    ja: |-
+      私に100件の依頼が来たら
+      2人には1件くらい。
+  event_brandnewyear_06_e_39:
+    speaker: julia
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_06_e_40:
+    speaker: helm
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_06_e_41:
+    speaker: "<Self>"
+    en: That's... cool, I guess.
+    ko: "…멋진 소원이네."
+    ja: "…素敵な願いごとだな"
+  event_brandnewyear_06_e_42:
+    speaker: sugar
+    en: Thanks!
+    ko: 고마워, 파트너.
+    ja: ありがとう、パートナー。
+  event_brandnewyear_06_e_43:
+    speaker: helm
+    en: You do realize that's not a compliment, right?
+    ko: "…이걸 칭찬으로 듣다니."
+    ja: "…褒めてないと思うけど。"
+  event_brandnewyear_06_e_44:
+    speaker: sugar
+    en: It'll be easy going from here on out.
+    ko: 돌아가는 발걸음은 가볍겠군.
+    ja: 帰りの足取りは軽くなりそう。
+  event_brandnewyear_06_e_45:
+    speaker: "<Monologue>"
+    en: As if on cue, we watch the sunrise in silence.
+    ko: |-
+      약속이라도 한 듯,
+      우리는 조용히 태양이 떠오르는 걸 보고 있었다.
+    ja: |-
+      私たちは示し合わせたかのように
+      静かに太陽が昇るのを見ていた
+  event_brandnewyear_06_e_46:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_06_e_47:
+    speaker: "<Narration>"
+    en: "*whip*"
+    ko: 휙-
+    ja: パッ
+  event_brandnewyear_06_e_48:
+    speaker: "<Monologue>"
+    en: I catch sight of something in my peripheral vision and turn to see a figure
+      floating in the air.
+    ko: 태양을 바라보다 고개를 살짝 돌리니, 바다 위 언덕이 하나 보였다.
+    ja: 太陽からふと視線を移すと、\n海の上に丘が見えた
+  event_brandnewyear_06_e_49:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_06_e_50:
+    speaker: "<Self>"
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  event_brandnewyear_06_e_51:
+    speaker: "<Self>"
+    en: Is it... a person?
+    ko: "…사람?"
+    ja: "…人？"
+  event_brandnewyear_06_e_52:
+    speaker: "<Monologue>"
+    en: Whoever, or whatever, the figure is, they are too far away to make out clearly.
+    ko: "…멀리 있어서 잘 보이지 않는다."
+    ja: "…遠くてよく見えない"
+  event_brandnewyear_06_e_53:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_06_e_54:
+    speaker: "<Monologue>"
+    en: Marian?
+    ko: "…마리…안?"
+    ja: "…マリ…アン？"
+  event_brandnewyear_06_e_55:
+    speaker: "<Monologue>"
+    en: I close my eyes and rub them in disbelief. By the time I reopen them,
+    ko: 믿기지 않아, 눈을 감았다 뜨니.
+    ja: 信じられず、まばたきをすると
+  event_brandnewyear_06_e_56:
+    speaker: "<Monologue>"
+    en: the figure has disappeared.
+    ko: 형체는 사라졌다.
+    ja: 人影は消えていた
+  event_brandnewyear_06_e_57:
+    speaker: "<Self>"
+    en: Did I just imagine that?
+    ko: "…잘못 본 건가."
+    ja: "…見間違いか？"
+  event_brandnewyear_06_e_58:
+    speaker: "<Narration>"
+    en: "*thud*"
+    ko: 툭-
+    ja: トン
+  event_brandnewyear_06_e_59:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_brandnewyear_06_e_60:
+    speaker: "<Monologue>"
+    en: A bandage lands softly at my feet.
+    ko: 내 발치엔, 붕대 한 개가 떨어져 있었다.
+    ja: 私の足元に、包帯が落ちていた
+event_brandnewyear_epilogue:
+  event_brandnewyear_epilogue_1:
+    speaker: helm
+    en: Well... now that we've seen the ocean...
+    ko: 그럼… 이제 돌아갈까?
+    ja: じゃあ…帰りましょうか？
+  event_brandnewyear_epilogue_2:
+    speaker: helm
+    en: should we head back?
+    ko: "…바다도 봤으니까."
+    ja: "…海も見たし。"
+  event_brandnewyear_epilogue_3:
+    speaker: "<Self>"
+    en: Yeah.
+    ko: 그래.
+    ja: そうだな
+  event_brandnewyear_epilogue_4:
+    speaker: julia
+    en: Is today the last day of the party?
+    ko: 오늘이 파티 마지막 날인가요.
+    ja: 今日がパーティーの最終日みたいですね。
+  event_brandnewyear_epilogue_5:
+    speaker: helm
+    en: Yes.
+    ko: 응. 맞아.
+    ja: ええ、そうよ。
+  event_brandnewyear_epilogue_6:
+    speaker: sugar
+    en: I want to hurry back and enjoy the rest of the party.
+    ko: 얼른 돌아가서 남은 파티를 즐기고 싶군.
+    ja: 早く帰って、残りのパーティーを楽しみたいわ。
+  event_brandnewyear_epilogue_7:
+    speaker: sugar
+    en: This operation wasn't so bad after all.
+    ko: 이번 지상 임무 꽤 괜찮았어.
+    ja: 今回の地上任務、すごくよかった。
+  event_brandnewyear_epilogue_8:
+    speaker: julia
+    en: Yes, it was a lovely start to the new year.
+    ko: 네. 올해의 시작이 좋네요.
+    ja: はい。今年は幸先がいいですね。
+  event_brandnewyear_epilogue_9:
+    speaker: helm
+    en: It would have been even better if Mast and Anchor had been here to see it.
+    ko: "…마스트랑 앵커도 데려왔다면 좋았을 텐데."
+    ja: "…マストとアンカーも連れてくればよかったわ。"
+  event_brandnewyear_epilogue_10:
+    speaker: "<Self>"
+    en: We'll take them with us next time.
+    ko: 다음에 또 오자.
+    ja: また来よう
+  event_brandnewyear_epilogue_11:
+    speaker: burningum
+    en: Well done.
+    ko: 고, 고생했어.
+    ja: ご、ご苦労さま。
+  event_brandnewyear_epilogue_12:
+    speaker: burningum
+    en: Finding some new packaging shouldn't be a problem.
+    ko: 포, 포장은 다시 새로 하면 되니까.
+    ja: ほ、包装はやり直せばいいだけだ。
+  event_brandnewyear_epilogue_13:
+    speaker: "<Self>"
+    en: That's good.
+    ko: 다행입니다.
+    ja: よかったです
+  event_brandnewyear_epilogue_14:
+    speaker: burningum
+    en: My youngest daughter will be ecstatic.
+    ko: 덕분에 마, 막내딸이 좋아할 거야.
+    ja: おかげで、娘が喜ぶだろう。
+  event_brandnewyear_epilogue_15:
+    speaker: burningum
+    en: Helm,
+    ko: 헤, 헬름.
+    ja: ヘ、ヘルム。
+  event_brandnewyear_epilogue_16:
+    speaker: burningum
+    en: please see to our guests for the remainder of the party.
+    ko: 이제 파티 마무리를 부, 부탁해.
+    ja: パーティーの締めくくりを、頼んだぞ。
+  event_brandnewyear_epilogue_17:
+    speaker: helm
+    en: Yes, sir.
+    ko: 네. 부사령관님.
+    ja: はい、副司令官。
+  event_brandnewyear_epilogue_18:
+    speaker: burningum
+    en: That is all.
+    ko: 그, 그럼 이만 나가봐도 좋아.
+    ja: で、では、戻りたまえ。
+  event_brandnewyear_epilogue_19:
+    speaker: "<Self>"
+    en: Got it.
+    ko: 네. 가보겠습니다.
+    ja: 失礼します
+  event_brandnewyear_epilogue_20:
+    speaker: burningum
+    en: Happy New Year.
+    ko: 그래. 새, 새해 복 많이 받아.
+    ja: ああ。こ、今年もよろしく頼むぞ。
+  event_brandnewyear_epilogue_21:
+    speaker: "<Self>"
+    en: And the same to you.
+    ko: 네. 새해 복 많이 받으십시오.
+    ja: こちらこそ、よろしくお願いします
+  event_brandnewyear_epilogue_22:
+    speaker: "<Narration>"
+    en: "*pababang*"
+    ko: 파바방-!!
+    ja: バン！
+  event_brandnewyear_epilogue_23:
+    speaker: "<Narration>"
+    en: "*pababang!! pababang*"
+    ko: 파방-!! 파바방-!!
+    ja: バン！バーン！
+  event_brandnewyear_epilogue_24:
+    speaker: "<Monologue>"
+    en: As we leave Burninghum's room, a fireworks display explodes on the other side
+      of the boat.
+    ko: |-
+      부사령관실을 나오니.
+      선상 밖에선 파티 마지막을 알리는 불꽃축제가 진행되고 있었다.
+    ja: |-
+      副司令官室を出ると
+      船上ではパーティーの終わりを知らせる\n花火が打ち上げられていた
+  event_brandnewyear_epilogue_25:
+    speaker: sugar
+    en: Helm, Partner, hurry up!
+    ko: "헬름, 파트너. \n얼른 와."
+    ja: |-
+      ヘルム、パートナー。
+      早く来て。
+  event_brandnewyear_epilogue_26:
+    speaker: sugar
+    en: They're setting off fireworks for the end of the party.
+    ko: 파티의 마지막 대미를 장식해 줄 불꽃축제가 시작됐다고.
+    ja: パーティーのフィナーレを飾る\n花火が始まったわよ。
+  event_brandnewyear_epilogue_27:
+    speaker: julia
+    en: Just look at them light up the night sky. They remind me of neon flowers.
+    ko: 마치 밤하늘의 꽃 같군요.
+    ja: まるで夜空の花みたいですね。
+  event_brandnewyear_epilogue_28:
+    speaker: helm
+    en: What a lovely ending to the day.
+    ko: 기분 좋은 마무리네.
+    ja: 気持ちのいいフィナーレだわ。
+  event_brandnewyear_epilogue_29:
+    speaker: julia
+    en: I feel like this year will be a good one.
+    ko: 올해도 잘 풀릴 것 같은 기분 좋은 예감이 듭니다.
+    ja: 今年もいいことがありそうな予感がします。
+  event_brandnewyear_epilogue_30:
+    speaker: "<Self>"
+    en: Happy New Year, everyone.
+    ko: 다들 새해 복 많이 받아.
+    ja: みんな今年もよろしく
+  event_brandnewyear_epilogue_31:
+    speaker: sugar
+    en: Happy New Year.
+    ko: 새해 복 많이 받으라고.
+    ja: よろしくね、パートナー。
+  event_brandnewyear_epilogue_32:
+    speaker: julia
+    en: Happy New Year.
+    ko: 해피 뉴이어입니다.
+    ja: ハッピーニューイヤー。
+  event_brandnewyear_epilogue_33:
+    speaker: helm
+    en: I wouldn't want to spend it with anyone else.
+    ko: 올해도 잘 부탁해.
+    ja: こちらこそよろしく。

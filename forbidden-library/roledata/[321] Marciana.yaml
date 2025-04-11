@@ -1,0 +1,697 @@
+---
+321_name:
+  en: Marciana
+  ko: 마르차나
+  ja: マルチャーナ
+c321_description:
+  en: |-
+    The rational, perfectionist teacher at M.M.R Vocational School.
+    She continuously strives to provide excellent education to students.
+    She also has a girly side and adores cute things.
+  ko: |-
+    미미르 부속 고등학교의 이성적인 완벽주의자 선생님.
+    학생들에게 좋은 교육을 제공하고자 끊임없이 노력한다.
+    귀여운 것을 매우 좋아하는 소녀 같은 면도 있다.
+  ja: |-
+    M.M.R.附属高校の先生で、理性的な完璧主義者。
+    生徒たちにいい教育を提供すべく絶えず努力している。
+    かわいいものが大好きで、少女のような一面も持つ。
+321_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_232101:
+  en: Marciana's Spare Body
+  ko: 마르차나 스페어 바디
+  ja: マルチャーナのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23212_name:
+  en: School Nurse
+  ko: 양호 선생님
+  ja: 保健室の先生
+23212_description:
+  en: "■ Activates when using Burst Skill. Affects all allies. \n<color=#00AEFF>Recovers
+    {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP
+    as HP. </color>"
+  ko: |-
+    ■ 버스트 스킬 사용 시 아군 전체에게
+    <color=#00AEFF>[시전자 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
+  ja: |-
+    ■バーストスキルを使用した時、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_01}％を回復」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23211_name:
+  en: Drone Supporter
+  ko: 드론 서포터
+  ja: ドローンサポーター
+23211_description:
+  en: |-
+    ■ Activates when the last bullet hits the target. Affects all allies.
+    <color=#00AEFF>Recovers {description_value_01}% of attack damage as HP over {description_value_02} sec.</color>
+    ■ Activates when the last bullet hits the target. Affects {description_value_03} ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Potency of HP restored ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: "■ 마지막 탄환 명중 시 아군 전체에게 \n<color=#00AEFF>[공격 대미지 비례 {description_value_01}% 회복]
+    [{description_value_02}초 유지]</color>\n■ 마지막 탄환 명중 시 <word_group=10025>최종</word_group>
+    공격력이 가장 높은 아군 {description_value_03}기에게 \n<color=#00AEFF>[받는 체력 회복량 {description_value_04}%▲]
+    [{description_value_05}초 유지]</color>"
+  ja: |-
+    ■最後の弾丸が命中した時、味方全体に
+    <color=#00AEFF>「攻撃ダメージの{description_value_01}％回復」「{description_value_02}秒間維持」</color>
+    ■最後の弾丸が命中した時、<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_03}機に
+    <color=#00AEFF>「受けるHP回復量{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13213_name:
+  en: A Teacher's Grace
+  ko: 스승의 은혜
+  ja: わが師の恩
+13213_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Storage: If the target obtained a healing effect that exceeds the character's Max HP, excess portion will be stored, up to {description_value_01}% of the caster's Max HP, lasts for {description_value_02} sec.
+    DEF ▲ {description_value_03}% of the caster's DEF for {description_value_04} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[저장 : 시전자 기준 최대 체력 {description_value_01}% 까지 초과 받는 체력 회복량 저장] [{description_value_02}초 유지]
+    [시전자 방어력 비례 {description_value_03}% 방어력 ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「保存：スキル発動者基準で最大HP
+    {description_value_01}％まで超過するHP回復量保存」
+    「{description_value_02}秒間維持」
+    「スキル発動者の防御力に比例して
+    {description_value_03}％防御力▲」
+    「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c321_Lobby_Touch_1:
+  en: As a teacher, it's important to understand your students.
+  ko: 교사로서 학생들을 이해하는 것은 중요합니다.
+  ja: 教師として、生徒たちを理解することは大切です。
+c321_Lobby_Touch_2:
+  en: Did you have a question, Commander?
+  ko: 지휘관님. 궁금한 게 있으십니까?
+  ja: 指揮官様。何かご質問でも？
+c321_Lobby_Touch_3:
+  en: "Once I'm finished grading these tests, I have to prepare for the communal assessments
+    and arrange one-to-one interviews with the students... \nAnd then there's a demonstration
+    class for a new subject."
+  ko: |-
+    시험 채점이 끝나면 협동 평가 준비, 학생들 개인 면담…
+    이후에는 새롭게 도입하는 수업의 시범 운영이 있습니다.
+  ja: |-
+    試験の採点が終わったら、協同評価の準備、生徒たちの個人面談…
+    それから、新しく導入する授業の試験運用を行う予定です。
+c321_Lobby_Touch_Love_1:
+  en: If you're going to school today, would you want to go together?
+  ko: "…지휘관님. 오늘 학교로 가시는 날이면, 함께 가시겠습니까?"
+  ja: "…指揮官様。学校に行くならご一緒しませんか？"
+c321_Lobby_Touch_Love_2:
+  en: "Cat-shaped cherry cakes are all the rage right now. \nI'll have to try some
+    so that I can keep up with the newest trends among my students."
+  ko: |-
+    요즘 고양이 체리 케이크가 유행이랍니다.
+    …학생들을 이해하기 위해선 먹어볼 필요가 있습니다.
+  ja: |-
+    最近、ネコのチェリーケーキが流行っているそうです。
+    …生徒たちを理解するために、食べてみる必要がありますね。
+c321_Lobby_Touch_Love_3:
+  en: |-
+    Lovely Sweets Magazines...
+    Ah, I'm buying these just so I can better connect with my students.
+  ko: |-
+    러블리 스위츠 잡지 추가 구매….
+    …아, 이건 학생들의 관심사를 파악하기 위해 구매하는 겁니다.
+  ja: |-
+    最新号の「ラブリースイーツ」を買って…
+    …あ、生徒たちの流行を把握するために購読しているのです。
+c321_Lobby_Stay_1:
+  en: I'll be marking the students' tests.
+  ko: 저는 시험지를 채점하고 있겠습니다.
+  ja: 私はテストの採点をしています。
+c321_Lobby_Stay_Love_1:
+  en: "... Commander, are you still busy?"
+  ko: "…지휘관님, 아직 바쁘십니까?"
+  ja: "…指揮官様、まだお忙しいですか？"
+c321_Outpost_Touch_1:
+  en: "As a teacher, I always welcome questions. \nIf there is anything you're curious
+    about, please ask."
+  ko: |-
+    교사는 장소를 가리지 않습니다.
+    궁금한 게 있으시면 편하게 물어봐 주세요.
+  ja: |-
+    気になることがあったら、 いつでも聞いてください。
+    私は皆さんの先生ですので。
+c321_Outpost_Touch_2:
+  en: |-
+    Commander?
+    I'm on my way to the library to gather some materials.
+  ko: "…지휘관님? \n저는 자료 수집을 위해 도서관으로 향하고 있었습니다."
+  ja: |-
+    …指揮官様？
+    私は資料収集のため、 図書館へ向かうところです。
+c321_Outpost_Touch_3:
+  en: Whenever I take a stroll here, it puts my mind at ease.
+  ko: 이곳에서 산책할 때면 마음이 편안해지는 것 같습니다.
+  ja: ここを散歩していると、 心が落ち着くような 気がします。
+c321_Gacha_Get_1:
+  en: |-
+    I'm Marciana, and I teach at the M. M. R. vocational school.
+    I always do my best to provide the best learning experience for my students.
+  ko: |-
+    미미르 부속 고등학교의 교사 마르차나입니다.
+    좋은 수업을 할 수 있도록 노력하겠습니다.
+  ja: |-
+    M.M.R.附属高校の教師、マルチャーナです。
+    いい授業になるよう、努力します。
+c321_Reinforce_1:
+  en: I should be able to provide the students with better instruction.
+  ko: 학생들을 더 잘 가르칠 수 있을 것 같습니다.
+  ja: 生徒たちによりよい教育を提供できそうです。
+c321_Reinforce_2:
+  en: This is sure to cut down on the prep time necessary for class.
+  ko: 수업 준비 시간이 단축될 것 같습니다.
+  ja: 授業の準備時間を短縮できそうです。
+c321_Reinforce_3:
+  en: I'll go prepare a new lesson plan.
+  ko: 새로운 수업을 준비해 보겠습니다.
+  ja: 新しい授業の準備をします。
+c321_Gift_1:
+  en: Thank you, Commander.
+  ko: "…감사히 받겠습니다, 지휘관님."
+  ja: "…ありがたく頂きます。指揮官様。"
+c321_Gift_2:
+  en: I always feel that this is improving the teaching experience I provide my students.
+  ko: "…왠지 학생들을 더 잘 가르칠 수 있을 것 같습니다."
+  ja: "…なんだか、もっと上手に指導できそうです。"
+c321_Gift_3:
+  en: Is this for me? Thank you, Commander.
+  ko: 저를 위한 겁니까? …기쁩니다, 지휘관님.
+  ja: |-
+    私のためですか？
+    …嬉しいです、指揮官様。
+c321_Attractive_Up_1:
+  en: I'm so thankful for everything you've done.
+  ko: "…지휘관님, 늘 감사하고 있습니다."
+  ja: "…指揮官様、いつもありがとうございます。"
+c321_Attractive_Up_2:
+  en: Thanks to you, I feel like my knowledge is expanding.
+  ko: 지휘관님 덕에 제 견문이 넓어지고 있음을 느낍니다.
+  ja: 指揮官様のおかげで、見聞が広がりました。
+c321_Attractive_Up_3:
+  en: Are you... planning on sticking around in the future?
+  ko: "…지휘관님, 앞으로도 함께해 주시겠습니까?"
+  ja: "…指揮官様、これからもご一緒してくれますか？"
+c321_Party_Deploy_1:
+  en: Are you planning on attending class, Commander?
+  ko: 수업이 필요하십니까, 지휘관님?
+  ja: 私の授業が必要でしょうか、指揮官様。
+c321_Field_Touch_1:
+  en: I'm ready.
+  ko: 저는 준비되었습니다.
+  ja: 私は準備できています。
+c321_Field_Go_1:
+  en: On my way.
+  ko: 네, 이동하겠습니다.
+  ja: はい、移動します。
+c321_Battle_Enter_1:
+  en: Should I begin?
+  ko: 시작하면 됩니까?
+  ja: 始めてもよろしいでしょうか？
+c321_Battle_Ready_1:
+  en: It's time I bring this class to a close.
+  ko: 수업은 완벽히 끝마치겠습니다.
+  ja: 授業は、完璧に終わらせます。
+c321_Battle_Ready_2:
+  en: This is an educational experience as well.
+  ko: 이것 또한 하나의 수업이겠죠.
+  ja: これもまた、1つの勉強でしょう。
+c321_Battle_Ready_3:
+  en: It's time I teach all of you a lesson.
+  ko: 제대로 가르쳐 드리겠습니다.
+  ja: きちんと教えてあげますね。
+c321_Reload_1:
+  en: Reloading.
+  ko: 재장전하겠습니다.
+  ja: リロードします。
+c321_Reload_2:
+  en: I have to do some quick maintenance.
+  ko: 금방 정비하겠습니다.
+  ja: すぐに整備します。
+c321_Reload_3:
+  en: Give me just a second.
+  ko: 조금만 기다려주시겠습니까?
+  ja: 少々お待ちいただけますか？
+c321_Ult_Skill_Ready_1:
+  en: We're ready for class.
+  ko: 수업 준비 끝났습니다.
+  ja: 授業の準備が終わりました。
+c321_Ult_Skill_1:
+  en: Time for class to begin.
+  ko: 그럼, 본격적인 수업을 시작하겠습니다.
+  ja: では、本格的に授業を始めます。
+c321_FullBurst_1:
+  en: Pay attention in class!
+  ko: 수업에 모두 집중해 주세요!
+  ja: みなさん、授業に集中してください！
+c321_Kill_Monster_1:
+  en: I've handled it.
+  ko: 처리했습니다.
+  ja: 処理しました。
+c321_Kill_Monster_2:
+  en: Well done.
+  ko: 수고하셨습니다.
+  ja: お疲れ様でした。
+c321_Kill_Monster_3:
+  en: Class is over.
+  ko: 수업 마칩니다.
+  ja: 授業を終わります。
+c321_Damage_1:
+  en: Ugh...
+  ko: 으….
+  ja: う…
+c321_Damage_2:
+  en: I'm okay.
+  ko: 전 괜찮습니다….
+  ja: 私は大丈夫です…
+c321_Damage_3:
+  en: Hnrgh!
+  ko: 흣…!
+  ja: ふっ…！
+c321_Die_1:
+  en: I'm sorry... I'll have to leave the rest to you.
+  ko: 죄송합니다… 뒤를 부탁드립니다.
+  ja: すみません…後をお願いします。
+c321_Win_1:
+  en: I should start preparing for the next class.
+  ko: 이제 다음 수업을 준비해 보려 합니다.
+  ja: 次の授業の準備をしたいと思います。
+c321_01_Lobby_Touch_1:
+  en: |-
+    All right, let's start the cla...
+    Oh, wait. I'm a student now.
+  ko: |-
+    그럼 수업을 시작… 앗.
+    지금은 제가 학생이었죠.
+  ja: |-
+    では、授業を始め…あっ。
+    今は私が教わる側でしたね。
+c321_01_Lobby_Touch_2:
+  en: |-
+    Comma... No, Teacher.
+    It's still a bit awkward calling you that...
+  ko: |-
+    지휘관님… 아니, 선생님.
+    아직은 이 호칭이 좀 어색하네요.
+  ja: |-
+    指揮官様…いえ、先生。
+    まだこの呼び方には慣れませんね。
+c321_01_Lobby_Touch_3:
+  en: What lesson will you start with today?
+  ko: 오늘은 어떤 수업부터 시작하실 건가요?
+  ja: 今日はどんな授業から始めますか？
+c321_01_Lobby_Touch_Love_1:
+  en: |-
+    This school uniform is more uncomfortable than I expected.
+    It feels much too tight.
+  ko: |-
+    교복은 생각보다 불편하군요.
+    너무 몸에 꼭 맞는 느낌입니다.
+  ja: |-
+    制服は思ったより動きにくいですね。
+    体にフィットしすぎている気がします。
+c321_01_Lobby_Touch_Love_2:
+  en: |-
+    Teacher, I'm not sure about this part.
+    Could you help me?
+  ko: |-
+    선생님… 이 부분을 잘 모르겠는데.
+    가르쳐주시겠어요?
+  ja: |-
+    先生…ここがよく分かりません。
+    教えていただけますか？
+c321_01_Lobby_Touch_Love_3:
+  en: A one-on-one lesson? I'm a little nervous.
+  ko: 일대일 수업이라니, 조금 떨리네요.
+  ja: プライベートレッスンだなんて、少し緊張しますね。
+c321_01_Lobby_Stay_1:
+  en: Please go ahead. I'll stay here and study.
+  ko: 복습하고 있을 테니, 다녀오세요.
+  ja: 自習していますので、お構いなく。
+c321_01_Lobby_Stay_Love_1:
+  en: |-
+    Teacher, are you busy?
+    I feel a bit... self-conscious standing here alone in this outfit.
+  ko: |-
+    선생님, 많이 바쁘신가요?
+    이 차림으로 혼자 있으려니 부끄... 아니, 어색해서요.
+  ja: |-
+    先生、お忙しいですか？
+    この格好で1人でいると、恥ずかし…いえ、気まずいので。
+c321_01_Outpost_Touch_1:
+  en: I hope I won't bump into any students...
+  ko: 하, 학생들과 마주치진 않겠죠?
+  ja: が、学校の子たちに 見つかったりしませんよね？
+c321_01_Outpost_Touch_2:
+  en: I'll follow your lead, Comma... I mean, Teacher.
+  ko: |-
+    지휘… 앗.
+    선생님이 이끌어주시는 대로 따르겠습니다.
+  ja: |-
+    指揮…いえ。
+    先生の指示に従います。
+c321_01_Outpost_Touch_3:
+  en: I didn't realize walking around in sneakers would be so comfortable.
+  ko: |-
+    운동화를 신고 돌아다니는 게,
+    이렇게 편할 줄은 몰랐어요.
+  ja: |-
+    スニーカーで歩き回ることが、
+    これほど楽だとは 思いませんでした。
+c321_01_Gacha_Get_1:
+  en: |-
+    Even though it's just for a day,
+    there's still a lot I want to learn from you, Teacher.
+  ko: |-
+    비록 하루 동안이지만,
+    선생님께 많은 걸 배워가고 싶어요.
+  ja: |-
+    たった1日ですが、
+    先生からは多くのことを学ばせていただきたいです。
+c321_01_Reinforce_1:
+  en: My knowledge has increased.
+  ko: 지식이 늘었습니다.
+  ja: 知識が増えました。
+c321_01_Reinforce_2:
+  en: A most impressive methodology.
+  ko: 이런 수업 방법도 있었군요, 멋집니다.
+  ja: こんな教え方もあったんですね。参考にします。
+c321_01_Reinforce_3:
+  en: |-
+    Thank you, Comma... Teacher.
+    Your instruction is second to none.
+  ko: |-
+    지휘관… 아니,
+    선생님의 가르침에 감탄했어요, 감사합니다.
+  ja: 指揮官…いえ、先生のご指導に感銘を受けました。
+c321_01_Gift_1:
+  en: Is it okay to give me something this nice?
+  ko: 이렇게 좋은 걸 주셔도 괜찮나요?
+  ja: こんなにいいものをいただいて、よろしいのですか？
+c321_01_Gift_2:
+  en: You're so kind, Teacher.
+  ko: 선생님은 상냥하시군요.
+  ja: 先生はお優しいですね。
+c321_01_Gift_3:
+  en: I'm so happy, Comma... Teacher.
+  ko: |-
+    너무 기뻐요… 지휘관님… 이 아니라.
+    선생님.
+  ja: とても嬉しいです…指揮官様…ではなく、先生。
+c321_01_Attractive_Up_1:
+  en: I've always respected you.
+  ko: 늘 존경하고 있어요.
+  ja: いつも尊敬しています。
+c321_01_Attractive_Up_2:
+  en: Would it be okay if I let you take the reins a bit more, Teacher?
+  ko: 조금 더 선생님을 의지해도 괜찮을까요?
+  ja: もう少し先生に頼ってもいいですか？
+c321_01_Attractive_Up_3:
+  en: |-
+    Thanks to you, I feel like I can empathize more with the students.
+    ... I'm feeling strangely nervous.
+  ko: |-
+    선생님 덕분에 학생의 마음을 이해하게 된 것 같아요.
+    …어쩐지 떨리네요.
+  ja: |-
+    先生のおかげで、教え子たちの気持ちが分かった気がします。
+    …なんだか緊張してしまいますね。
+c321_01_Party_Deploy_1:
+  en: I'll stick closer to you, Comma... I mean, Teacher.
+  ko: |-
+    함께 하겠습니다, 지휘관님.
+    아니, 선생님.
+  ja: |-
+    ご一緒します、指揮官様…
+    いえ、先生。
+c321_01_Field_Touch_1:
+  en: Yes? Did you call?
+  ko: 네, 부르셨나요?
+  ja: はい、お呼びですか？
+c321_01_Field_Go_1:
+  en: I'll follow along.
+  ko: 따라가겠습니다.
+  ja: 従います。
+c321_01_Battle_Enter_1:
+  en: I am fully prepared.
+  ko: 완벽하게 준비됐어요.
+  ja: 準備は完璧です。
+c321_01_Battle_Ready_1:
+  en: A-are we going out like this?
+  ko: 이, 이대로 출전하는 건가요?
+  ja: こ、このまま戦うのですか？
+c321_01_Battle_Ready_2:
+  en: I will be... a diligent student.
+  ko: 성실한 학생이… 될게요.
+  ja: まじめな学生として…励みます。
+c321_01_Battle_Ready_3:
+  en: Awaiting instruction.
+  ko: 가르침을 부탁드립니다.
+  ja: ご指導よろしくお願いします。
+c321_01_Reload_1:
+  en: Reloading.
+  ko: 재장전 중입니다.
+  ja: リロード中です。
+c321_01_Reload_2:
+  en: Like... this?
+  ko: 이렇게… 맞죠?
+  ja: こう…ですよね？
+c321_01_Reload_3:
+  en: This skirt is such a pain.
+  ko: 치마가 좀 신경 쓰이네요.
+  ja: スカートが気になります…
+c321_01_Ult_Skill_Ready_1:
+  en: I'm ready, Teacher.
+  ko: 준비됐습니다, 선생님.
+  ja: 準備できました、先生。
+c321_01_Ult_Skill_1:
+  en: What's today's lesson, Teacher?
+  ko: 오늘은 뭘 가르쳐 주실 건가요… 선생님?
+  ja: 今日は 何を教えてもらえますか… 先生？
+c321_01_FullBurst_1:
+  en: Let's finish this!
+  ko: 얼른 끝내시죠!
+  ja: 早く終わらせましょう！
+c321_01_Kill_Monster_1:
+  en: Whew.
+  ko: 후우.
+  ja: ふぅ。
+c321_01_Kill_Monster_2:
+  en: It's all taken care of.
+  ko: 처리했어요.
+  ja: 処理しました。
+c321_01_Kill_Monster_3:
+  en: It's finished.
+  ko: 마무리했습니다.
+  ja: 終わらせました。
+c321_01_Damage_1:
+  en: Ow!
+  ko: 으윽.
+  ja: ううっ。
+c321_01_Damage_2:
+  en: "*Cough*"
+  ko: 큭!
+  ja: くっ！
+c321_01_Damage_3:
+  en: No way...!
+  ko: 이런…!
+  ja: そんな…！
+c321_01_Die_1:
+  en: I'm sorry that I failed you...
+  ko: 기대에 보답하지 못해, 죄송합니다….
+  ja: 期待にお応えできず、申し訳ありません…
+c321_01_Win_1:
+  en: Let's go back to the classroom now, Teacher.
+  ko: 이제 그만 교실로 돌아가시죠… 선생님.
+  ja: 教室に戻りましょう…先生。
+321_cv_ja:
+  en: 'CV: Konomi Inagaki'
+  ko: 'CV : 이나가키 코노미'
+  ja: CV：稲垣好
+321_cv_ko:
+  en: 'CV: Lee Noon-sol'
+  ko: 'CV : 이눈솔'
+  ja: CV：イ・ヌンソル
+321_cv_en:
+  en: 'CV: Madeline Dorroh'
+  ko: 'CV : 매들린 도로'
+  ja: CV：Madeline Dorroh

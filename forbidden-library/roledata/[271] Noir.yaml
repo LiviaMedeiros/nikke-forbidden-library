@@ -1,0 +1,524 @@
+---
+271_name:
+  en: Noir
+  ko: 누아르
+  ja: ノワール
+c271_description:
+  en: |-
+    A member of Squad 777 who draws throngs of customers to Coin Rush.
+    The biological elder sister of Light Bunny Blanc.
+    A pusillanimous girl who is both fond and proud of her decidedly bolder sister.
+  ko: "777 스쿼드 소속 니케이자 코인 러시의 간판스타이다.\n흰색 바니걸인 블랑과는 쌍둥이 자매이며 누아르가 언니이다. \n부끄러움이 많아,
+    당당하고 자신감 넘치는 블랑을 매우 아끼고 자랑스러워한다."
+  ja: |-
+    777部隊所属のニケであると同時に
+    コインラッシュの看板娘。
+    白いバニーガールのブランとは双子の姉妹で、ノワールが姉。
+    自身は恥ずかしがり屋なため、堂々としていて自信満々な
+    ブランのことを大切にしており、誇りに思っている。
+271_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50271:
+  en: Noir's Spare Body
+  ko: 누아르 스페어 바디
+  ja: ノワールのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22712_name:
+  en: Rabbit Twins B
+  ko: 래빗 트윈즈 B
+  ja: ラビットツインズB
+22712_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Max Ammunition Capacity ▲ {description_value_01} round(s) for {description_value_02} sec.
+    Reload {description_value_03}% magazine(s).</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_01}발 ▲] [{description_value_02}초 유지]
+    [탄환 충전 {description_value_03}%]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「最大装弾数{description_value_01}発▲」「{description_value_02}秒間維持」
+    「弾丸チャージ{description_value_03}％」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22711_name:
+  en: Lucky Charm
+  ko: 럭키챰
+  ja: ラッキーチャーム
+22711_description:
+  en: |-
+    ■ Activates when above {description_value_01}% HP. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK constantly.</color>
+  ko: |-
+    ■ 자신의 체력이 {description_value_01}% 이상이라면 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_02}% ▲] [지속]</color>
+  ja: |-
+    ■自分のHPが{description_value_01}％以上なら味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_02}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12713_name:
+  en: Finale
+  ko: 피날레
+  ja: フィナーレ
+12713_description_1:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Affects all allies with a Shotgun.
+    <color=#00AEFF>Hit Rate ▲ {description_value_02}% for {description_value_03} sec.
+    <word_group=10000>Damage to Interruption Parts</word_group> ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates with an ally from the same squad still on the battlefield. Affects all allies.
+    <color=#00AEFF>Hit Rate ▲ {description_value_06}% for {description_value_07} sec.
+    <word_group=10000>Damage to Interruption Parts</word_group> ▲ {description_value_08}% for {description_value_09} sec.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 샷건 소지 아군 전체에게
+    <color=#00AEFF>[명중률 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [<word_group=10000>저지 부위 공격 대미지</word_group> {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 동일 스쿼드 아군이 있다면 아군 전체에게
+    <color=#00AEFF>[명중률 {description_value_06}% ▲] [{description_value_07}초 유지]
+    [<word_group=10000>저지 부위 공격 대미지</word_group> {description_value_08}% ▲] [{description_value_09}초 유지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+    ■ショットガンを所持する味方全体に
+    <color=#00AEFF>「命中率{description_value_02}％▲」「{description_value_03}秒間維持」
+    「<word_group=10000>阻止部位の攻撃ダメージ</word_group>{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■同じ部隊の味方がいれば味方全体に
+    <color=#00AEFF>「命中率{description_value_06}％▲」「{description_value_07}秒間維持」
+    「<word_group=10000>阻止部位の攻撃ダメージ</word_group> {description_value_08}％▲」「{description_value_09}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+270_name:
+  en: Blanc
+  ko: 블랑
+  ja: ブラン
+272_name:
+  en: Rouge
+  ko: 루주
+  ja: ルージュ
+c271_Lobby_Touch_1:
+  en: B-best of luck to you.
+  ko: 해, 행운을 듬뿍… 받아 가세요.
+  ja: し、幸せをたっぷり…お届けします。
+c271_Lobby_Touch_2:
+  en: I hope you'll enjoy our show... Ugh, I'm so embarrassed...
+  ko: |-
+    토끼들의 쇼 타임 기대해 주세요.
+    으… 부끄러워.
+  ja: |-
+    ウサギのショータイムをお楽しみに。
+    うぅ…恥ずかしい。
+c271_Lobby_Touch_3:
+  en: Blanc is so different from me. She's prettier, and more fun.
+  ko: 블랑은 저와는 다르게… 이쁘고 사랑스러워요. 그렇죠?
+  ja: |-
+    ブランは私とは違って…
+    きれいでかわいいでしょう？
+c271_Lobby_Touch_Love_1:
+  en: When I'm around you, Pit Boss, I'm not embarrassed about how I look.
+  ko: 점장님에겐 제 모습이 부끄럽지 않아요.
+  ja: 店長に見られても恥ずかしくありません。
+c271_Lobby_Touch_Love_2:
+  en: You'll always be with me and Blanc, won't you?
+  ko: "…블랑과 제 옆에 항상 계실 거죠?"
+  ja: "…ブランと私の隣にいてくれますよね？"
+c271_Lobby_Touch_Love_3:
+  en: If I offer you love instead of luck... would that be okay?
+  ko: |-
+    점장님께 행운 말고 사랑을 드릴게요.
+    …그래도 괜찮죠?
+  ja: |-
+    店長には幸運じゃなくて愛をあげます。
+    …それでもいいですよね？
+c271_Lobby_Stay_1:
+  en: Pit Boss? Where'd you go? Fine, since you're not here, I'll go find Blanc.
+  ko: |-
+    점장님? 어디 계시나요?
+    …안 계시니 블랑한테 가봐야겠어요.
+  ja: |-
+    店長？どこですか？
+    …いないみたいなのでブランのところに行きますね。
+c271_Lobby_Stay_Love_1:
+  en: I really treasure the time we spend together. Do you feel the same way?
+  ko: |-
+    점장님과 함께 있는 시간은… 저에게 있어 엄청 소중해요.
+    점장님도 그러신가요?
+  ja: |-
+    店長と一緒にいる時間は…私にとってとても大切です。
+    店長も同じですか？
+c271_Outpost_Touch_1:
+  en: Have you seen Blanc? We've never been apart this long before...
+  ko: |-
+    혹시 블랑 못 보셨나요?
+    이렇게 오래 떨어져 본 게 처음이라….
+  ja: |-
+    ブランを見ていませんか？
+    こんなに長く 離れているのは 初めてなので…
+c271_Outpost_Touch_2:
+  en: Is there anywhere I can hide? I don't think I can walk around in an outfit like
+    this...
+  ko: |-
+    어디 숨을 곳 없을까요?
+    이 차림으론 도저히 못 돌아다닐 것 같아요….
+  ja: |-
+    どこか隠れる場所は ありませんか？
+    この格好じゃ 到底歩き回れません…
+c271_Outpost_Touch_3:
+  en: Oh jeez, there are so many people. I feel like they're all staring at me. This
+    is so embarrassing...
+  ko: |-
+    으… 사람이 너무 많아요.
+    다들 저만 쳐다보는 거 같아서 부끄러워요.
+  ja: |-
+    うぅ… 人が多すぎます。
+    みんなに見られている気がして、 恥ずかしいです。
+c271_Gacha_Get_1:
+  en: I'm Noir, and I work at the casino. I can bring you luck.
+  ko: |-
+    코인 러시의 바니걸 누아르에요.
+    행운을 가져다드릴게요.
+  ja: |-
+    コインラッシュのバニーガール、ノワールです。
+    幸せをお届けします。
+c271_Reinforce_1:
+  en: Will this make me less self-conscious?
+  ko: "…이제 부끄러움을 좀 덜 수 있을까요?"
+  ja: "…これで少しは恥ずかしくなくなるでしょうか？"
+c271_Reinforce_2:
+  en: I'll put a little more energy into my performance.
+  ko: 힘내서 쇼 진행할게요.
+  ja: 頑張ってショーをします。
+c271_Reinforce_3:
+  en: Thank you for helping me, Pit Boss.
+  ko: 도와주셔서 감사해요, 점장님.
+  ja: 手伝ってくれてありがとうございます。店長。
+c271_Gift_1:
+  en: Can you give Blanc something as well? I don't want to be the only one receiving
+    a gift.
+  ko: |-
+    …블랑에게도 선물해 주시면 안 될까요?
+    저만 받을 순 없어요.
+  ja: |-
+    …ブランにもあげてくれませんか？
+    私だけ受け取るわけにはいきません。
+c271_Gift_2:
+  en: You prepared this just for me? I don't know what to say...
+  ko: |-
+    저, 절 위해 준비하셨다고요?
+    몸 둘 바를 모르겠네요….
+  ja: |-
+    わ、私のために用意したんですか？
+    恐縮です…
+c271_Gift_3:
+  en: Wow, thank you! Could... I share it with Blanc?
+  ko: |-
+    와, 감사해요.
+    어… 블랑이랑 같이 사용해도 되나요?
+  ja: |-
+    わあ、ありがとうございます。
+    えっと…ブランと一緒に使ってもいいですか？
+c271_Attractive_Up_1:
+  en: I feel like I'm taking a liking to you, Pit Boss. I suppose Blanc must feel
+    the same.
+  ko: |-
+    점장님이 점점 더 좋아지고 있어요.
+    …그럼 블랑도 저와 같은 마음이겠죠?
+  ja: |-
+    どんどん店長のことを好きになっています。
+    …きっと、ブランも私と同じ気持ちですよね？
+c271_Attractive_Up_2:
+  en: I can't look at you too long before I have to avert my eyes. Why is that so?
+  ko: |-
+    으… 점장님을 잘 못 쳐다보겠어요.
+    왜 이런 걸까요?
+  ja: |-
+    うぅ…
+    店長のことを直視できません。
+    なぜでしょうか。
+c271_Attractive_Up_3:
+  en: Blanc is precious to me, but so are you. Do you feel the same way?
+  ko: |-
+    저에겐 블랑도 소중하지만, 점장님도 소, 소중해요.
+    …점장님은요?
+  ja: |-
+    ブランも大切ですが、店長も、た、大切です。
+    …店長はどうですか？
+c271_Party_Deploy_1:
+  en: Are we gonna go play a game? Sounds fun!
+  ko: 게임하러 가는 건가요?
+  ja: ゲームをしに行くんですか？
+c271_Field_Touch_1:
+  en: D-don't stare at me like that. I'm too shy.
+  ko: |-
+    그, 그렇게 빤히 보지 마세요.
+    부끄러워요.
+  ja: |-
+    そ、そんなにじっと見つめないでください。
+    恥ずかしいです。
+c271_Field_Go_1:
+  en: Let's go make ourselves some luck.
+  ko: 행운을 찾으러 가봐요.
+  ja: 幸運を探しにいきましょう。
+c271_Battle_Enter_1:
+  en: Shall we roll the dice?
+  ko: 운명의 주사위를 던져볼까요?
+  ja: 運命のサイコロを投げましょうか。
+c271_Battle_Ready_1:
+  en: Let's bet on who'd win.
+  ko: 저와 함께… 베팅 걸어보실래요?
+  ja: |-
+    私と一緒に…
+    ベットしてみませんか？
+c271_Battle_Ready_2:
+  en: How am I supposed to fight in this outfit?!
+  ko: 이, 이 차림으로 전투하나요?!
+  ja: こ、この格好で戦うんですか！？
+c271_Battle_Ready_3:
+  en: As long as I have Blanc, I can be strong.
+  ko: 블랑이 있어서 힘낼 수 있어요.
+  ja: ブランがいるから頑張れます。
+c271_Reload_1:
+  en: Reloading.
+  ko: 리로드.
+  ja: リロード。
+c271_Reload_2:
+  en: I need to protect Blanc no matter what happens.
+  ko: 블랑은 무조건 지켜야 해.
+  ja: 絶対にブランを守らなきゃ。
+c271_Reload_3:
+  en: I'm a bit flustered... how do you reload again?
+  ko: 으… 장전하는 것도 부끄러워요.
+  ja: うぅ…リロードも恥ずかしいです。
+c271_Ult_Skill_Ready_1:
+  en: Pit Boss, it's time!
+  ko: 점장님, 시간 다 됐어요!
+  ja: 店長、時間です！
+c271_Ult_Skill_1:
+  en: It's showtime, with Noir and Blanc!
+  ko: 누아르와 블랑의 쇼 타임이에요!
+  ja: ノワールとブランのショータイムです！
+c271_FullBurst_1:
+  en: Jackpot! Whoops, I got too excited...
+  ko: |-
+    잭팟이에요!
+    …아, 너무 들떴죠?
+  ja: |-
+    大当たりです！
+    …あっ、喜びすぎましたね。
+c271_Kill_Monster_1:
+  en: It exploded!
+  ko: 터졌어요!
+  ja: 当たりました！
+c271_Kill_Monster_2:
+  en: Bullseye!
+  ko: 나이스 샷!
+  ja: ナイス！
+c271_Kill_Monster_3:
+  en: J-just a lucky shot, that's all...
+  ko: 우, 운이 좋았어요!
+  ja: う、運がよかったです！
+c271_Damage_1:
+  en: Oh!
+  ko: 앗!
+  ja: あっ！
+c271_Damage_2:
+  en: Blanc? Blanc!
+  ko: 블랑…!
+  ja: ブラン…！
+c271_Damage_3:
+  en: Ugh!
+  ko: 윽!
+  ja: うっ！
+c271_Die_1:
+  en: Blanc... Sorry for leaving you behind...
+  ko: 블랑… 두고 가서 미안해….
+  ja: ブラン…置いていってごめんね…
+c271_Win_1:
+  en: I guess this makes me a good luck charm, doesn't it?
+  ko: 이, 이 정도면 행운의 토끼 맞죠?
+  ja: こ、これなら幸運のウサギって言えますよね？
+271_cv_ja:
+  en: 'CV: Yurika Kubo'
+  ko: 'CV : 쿠보 유리카'
+  ja: CV：久保ユリカ
+271_cv_ko:
+  en: 'CV: Gwak Gyu-mi'
+  ko: 'CV : 곽규미'
+  ja: CV：クァク・ギュミ
+271_cv_en:
+  en: 'CV: Dominique North'
+  ko: 'CV : 도미니크 노스'
+  ja: CV：Dominique North

@@ -1,0 +1,450 @@
+---
+150_name:
+  en: Julia
+  ko: 율리아
+  ja: ジュリア
+c150_description:
+  en: A violinist whose life revolves around music. Belonging to Master Hand, she
+    uses music as a way to express herself.
+  ko: |-
+    음악의 길을 걷고 있는 바이올리니스트.
+    마스터 핸드 스쿼드 소속으로, 그녀의 감정은 음악이라는 언어로 전달된다.
+  ja: |-
+    音楽の道を歩んでいるバイオリニスト。
+    マスターハンド部隊所属で、
+    彼女の感情は音楽という言語で伝えられる。
+150_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50150:
+  en: Julia's Spare Body
+  ko: 율리아 스페어 바디
+  ja: ジュリアのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21502_name:
+  en: Crescendo
+  ko: 크레센도
+  ja: クレッシェンド
+21502_description:
+  en: |-
+    ■ Activates when the last bullet hits the target. Affects self.
+    <color=#00AEFF>Crescendo: Critical Damage ▲ {description_value_01}%, stacks up to {description_value_02} times and lasts for {description_value_03} sec.</color>
+  ko: |-
+    ■ 마지막 탄환 명중 시 자신에게
+    <color=#00AEFF>[크레센도 : 크리티컬 대미지 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、自分に
+    <color=#00AEFF>「クレッシェンド：クリティカルダメージ
+    {description_value_01}％▲」「{description_value_02}スタック」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+11501_name:
+  en: Decrescendo
+  ko: 데크레센도
+  ja: デクレッシェンド
+11501_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Critical Rate▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「クリティカル確率{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11503_name:
+  en: Climax
+  ko: 클라이맥스
+  ja: クライマックス
+11503_description:
+  en: |-
+    ■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> DEF.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    ■ Activates when Crescendo is fully stacked. Affects the same target(s).
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+    ■ 자신이 크레센도 최대 중첩 상태라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    ■自分がクレッシェンドの
+    フルスタック状態なら、同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c150_Lobby_Touch_1:
+  en: Such a wonderful breeze... Can you sense its rhythm?
+  ko: 오늘의 바람… 음률… 모두 나쁘지 않은 것 같군요.
+  ja: |-
+    今日の風…メロディー…
+    とても良いですね。
+c150_Lobby_Touch_2:
+  en: Why do people always call me Jukebox?
+  ko: 왜 모두들 저보고 주크박스라고 하는 걸까요?
+  ja: |-
+    どうして私は、みなさんからジュークボックスと
+    呼ばれるのでしょうか？
+c150_Lobby_Touch_3:
+  en: Empty your mind. Be as free as the wind and the waters.
+  ko: 바람처럼. 물결처럼. 자유롭게 떠나가 볼까요.
+  ja: |-
+    風のように。波のように。
+    自由に旅立ちましょうか。
+c150_Lobby_Touch_Love_1:
+  en: I wish you and I could stay on the surface and simply... drift. Like the breeze.
+  ko: 마에스트로와 함께 실바람처럼 지상을 거닐어 보고 싶네요.
+  ja: マエストロと一緒にそよ風のごとく、地上を散策してみたいです。
+c150_Lobby_Touch_Love_2:
+  en: |-
+    On the day I finish my journey,
+    will you come to hear me play once again?
+  ko: "언젠가 제 여행이 끝나고 나면, \n한 번 더 제 연주를 들어주시겠습니까?"
+  ja: |-
+    いつかこの旅が終わったら、
+    その時はもう一度私の演奏を聴いてくれますか？
+c150_Lobby_Touch_Love_3:
+  en: I will never forget how you helped me find my love for music once again.
+  ko: 마에스트로가 찾아주신 음악의 혼을 잊지 않고 살아가겠습니다.
+  ja: |-
+    マエストロが見つけてくれた、
+    音楽の魂を忘れることなく生きていきます。
+c150_Lobby_Stay_1:
+  en: Um... Is it okay to play like this?
+  ko: 아아… 이렇게 연주만 하고 있어도 되는 걸까요?
+  ja: ああ…こんなふうに演奏ばかりしていてもいいのでしょうか。
+c150_Lobby_Stay_Love_1:
+  en: |-
+    I will remember how relaxed I felt in this place, so full of atmosphere. And my anticipation...
+     I will reproduce all of this when I play for you.
+  ko: "지금의 여유, 이곳의 공기, \n마에스트로를 기다리는 마음을 담아 연주하겠습니다."
+  ja: |-
+    今のこの余裕、ここの空気、
+    マエストロを待つ想いをこめて演奏します。
+c150_Outpost_Touch_1:
+  en: Let the wind carry you.
+  ko: 바람이 부르는 대로 걸음을 옮기고 있습니다.
+  ja: 風の吹くままに 歩みを進めています。
+c150_Outpost_Touch_2:
+  en: This place isn't nearly as restrictive as the Ark.
+  ko: 이곳은 방주보다 조금 더 자유로운 곳이로군요.
+  ja: ここはアークより もう少し自由な場所ですね 。
+c150_Outpost_Touch_3:
+  en: The acoustics in this Theater are fantastic! Perfect for playing.
+  ko: 극장 안은 고요하고 아늑해서 연주하기에 좋습니다.
+  ja: 劇場の中は静かで こぢんまりとしていて、 演奏にはぴったりです。
+c150_Gacha_Get_1:
+  en: Together on the battlefield, we will weave a masterful symphony!
+  ko: "죽음과 탄생이 함께하는 모순의 선율을, \n함께 연주하시겠습니까?"
+  ja: 生と死が共存する矛盾の旋律を、一緒に奏でてみませんか？
+c150_Reinforce_1:
+  en: I feel like I can play longer.
+  ko: 조금 더 오래 연주할 수 있겠군요.
+  ja: 少しだけ長く演奏できるようになりました。
+c150_Reinforce_2:
+  en: Such an overwhelming power... I can feel the melody emanating from it.
+  ko: 요동치는 힘의 선율이 느껴집니다.
+  ja: みなぎる力の旋律が感じられます。
+c150_Reinforce_3:
+  en: This is a big help... Thank you.
+  ko: 지원을 해주시다니… 정말 감사합니다.
+  ja: ご支援いただけるなんて…本当に感謝します。
+c150_Gift_1:
+  en: This makes me so happy!
+  ko: 아아… 마음이 환희로 가득 찼습니다.
+  ja: ああ…胸の中が喜びで溢れかえっています。
+c150_Gift_2:
+  en: What a lovely gift, it sends my heart into a crescendo!
+  ko: 선물을 받는다는 건 이런 설렘을 동반하는 거로군요.
+  ja: 贈り物をもらうというのは、こんなにも胸が高鳴ることなのですね。
+c150_Gift_3:
+  en: A short sonatina, to express my joy.
+  ko: 이 기쁨을 꼭 연주해 보고 싶습니다.
+  ja: この喜びを何としても演奏してみたいのです。
+c150_Attractive_Up_1:
+  en: No melody can express this restlessness I feel.
+  ko: 이 요동치는 마음을 어떻게 연주할 수 있을까요.
+  ja: この胸躍る喜びを、どう演奏すればいいのでしょうか。
+c150_Attractive_Up_2:
+  en: Can you hear the melody in my heart? It sings for you.
+  ko: |-
+    설레는 마음이, 음률이.
+    마에스트로를 향해 요동치고 있습니다.
+  ja: 高鳴る心が、メロディーが、マエストロに向かって躍動しています。
+c150_Attractive_Up_3:
+  en: One day, I will let you hear the melody that lives inside me.
+  ko: 언젠가 이 두근거리는 음률을 당신께 꼭 들려드리고 싶습니다.
+  ja: |-
+    いつの日か、この胸高鳴るメロディーを
+    あなたに聞かせてあげたいです。
+c150_Party_Deploy_1:
+  en: We can play a duet together.
+  ko: 함께 연주하게 되었군요.
+  ja: 一緒に演奏することになったんですね。
+c150_Field_Touch_1:
+  en: Yes, Conductor.
+  ko: 네, 마에스트로.
+  ja: はい、マエストロ。
+c150_Field_Go_1:
+  en: I appreciate your advice.
+  ko: 안내 감사합니다.
+  ja: お導きに感謝します。
+c150_Battle_Enter_1:
+  en: I hear the sound of war drums.
+  ko: 전장의 북소리가 들립니다!
+  ja: 戦場の太鼓の音が聞こえます！
+c150_Battle_Ready_1:
+  en: The thrill of battle is undeniable.
+  ko: 전장의 떨림이 느껴지는군요.
+  ja: 戦場の振動が伝わってきます。
+c150_Battle_Ready_2:
+  en: I'm going to start playing.
+  ko: 연주 시작합니다.
+  ja: 演奏を始めます。
+c150_Battle_Ready_3:
+  en: I await your instructions, Conductor.
+  ko: 마에스트로, 지휘를.
+  ja: マエストロ、指揮を。
+c150_Reload_1:
+  en: I have to make a few preparations.
+  ko: 잠시 준비를….
+  ja: しばらく準備を…
+c150_Reload_2:
+  en: I'm tuning my instrument.
+  ko: 악기를 조율 중입니다.
+  ja: 楽器を調律しているところです。
+c150_Reload_3:
+  en: Just a little luftpause.
+  ko: 숨표입니다.
+  ja: ブレスです。
+c150_Ult_Skill_Ready_1:
+  en: Conductor!
+  ko: 마에스트로.
+  ja: マエストロ。
+c150_Ult_Skill_1:
+  en: This battle shall be my masterpiece!
+  ko: 연주하겠습니다. 매섭게 몰아치는 전장의 선율을…!
+  ja: 演奏します。険しい戦場の旋律を…！
+c150_FullBurst_1:
+  en: And now for the chorus, with gusto!
+  ko: 파도처럼 몰아치는 합주를!
+  ja: 波のように迫りくる合奏を！
+c150_Kill_Monster_1:
+  en: The end.
+  ko: 쓰러졌군요.
+  ja: 倒れましたか。
+c150_Kill_Monster_2:
+  en: Luck is on my side.
+  ko: 이건 행운입니다.
+  ja: これは幸運です。
+c150_Kill_Monster_3:
+  en: The power of music.
+  ko: 이것이 음악의 힘.
+  ja: これがまさに音楽の力。
+c150_Damage_1:
+  en: Ah, yes!
+  ko: 아.
+  ja: あ。
+c150_Damage_2:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c150_Damage_3:
+  en: Ow.
+  ko: 읏.
+  ja: うっ。
+c150_Die_1:
+  en: Now, we have come to the morendo...
+  ko: 줄이 끊어졌군요. 연주를 마칩니다….
+  ja: |-
+    弦が切れてしまいました。
+    演奏を終了します…
+c150_Win_1:
+  en: What a wonderful denouement!
+  ko: 승리의 팡파르가 울려 퍼지는군요.
+  ja: 勝利のファンファーレが鳴り響きますね。
+150_cv_ja:
+  en: 'CV: Ayane Sakura'
+  ko: 'CV : 사쿠라 아야네'
+  ja: CV：佐倉綾音
+150_cv_ko:
+  en: 'CV: Park Ri-na'
+  ko: 'CV : 박리나'
+  ja: CV：パク・リナ
+150_cv_en:
+  en: 'CV: Corey Pettit'
+  ko: 'CV : 코리 페팃'
+  ja: CV：Corey Pettit

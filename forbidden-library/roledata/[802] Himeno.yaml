@@ -1,0 +1,482 @@
+---
+802_name:
+  en: Himeno
+  ko: 히메노
+  ja: 姫野
+c802_description:
+  en: "Member of Public Safety Devil Extermination Special Division 4. \nHayakawa's
+    senior officer and buddy."
+  ko: |-
+    공안 대마 특이 4과.
+    후배인 하야카와와 버디를 짜서 행동한다.
+  ja: |-
+    公安対魔特異4課。
+    後輩の早川とバディを組んで行動する。
+802_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_802:
+  en: Himeno's Spare Body
+  ko: 히메노 스페어 바디
+  ja: 姫野のスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+18022_name:
+  en: Invisible Hand
+  ko: 보이지 않는 손
+  ja: 見えない手
+18022_description:
+  en: |-
+    ■ Affects all allies with sniper rifles.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.
+    Max Ammunition Capacity ▲ {description_value_03} round(s) for {description_value_04} sec.</color>
+  ko: |-
+    ■ 스나이퍼 라이플 소지 아군 전체에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [최대 장탄 수 {description_value_03}발 ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■スナイパーライフルを所持する味方全体に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」
+    「最大装弾数{description_value_03}発▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28021_name:
+  en: Weak Spot Attack
+  ko: 약점 공략
+  ja: 弱点攻略
+28021_description:
+  en: |-
+    ■ Activates when hitting a target with Full Charge. Affects the target.
+    <color=#00AEFF>DEF ▼ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[방어력 {description_value_01}% ▼] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「防御力{description_value_01}％▼」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18023_name:
+  en: Ghost
+  ko: 고스트
+  ja: ゴースト
+18023_description:
+  en: "■ Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
+    ATK. \n<color=#00AEFF>Charge Damage ▲ {description_value_02}% for {description_value_03}
+    sec. \nCritical Rate ▲ {description_value_04}% for {description_value_05} sec.</color>"
+  ko: |-
+    ■ 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[차지 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [크리티컬 확률 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「チャージダメージ{description_value_02}％▲」「{description_value_03}秒間維持」
+    「クリティカル確率{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+800_name:
+  en: Makima
+  ko: 마키마
+  ja: マキマ
+801_name:
+  en: Power
+  ko: 파워
+  ja: パワー
+c802_Lobby_Touch_1:
+  en: Would you like one? Oh, are we not allowed to smoke in here?
+  ko: 너도 한 대 피울… 아, 여기선 피우면 안 된다고 했던가?
+  ja: |-
+    アンタも一服どう…
+    あ、ここ禁煙エリアだったっけ？
+c802_Lobby_Touch_2:
+  en: Hmm... I wonder what Aki is up to.
+  ko: 흠~ 아키는 뭐 하고 있으려나~
+  ja: はぁ～アキ君は何してるかな～
+c802_Lobby_Touch_3:
+  en: This place is unlike anywhere else I've been.
+  ko: 여긴… 그야말로 낯선 세계네~
+  ja: |-
+    ここって…
+    ほんと見慣れない世界だね～
+c802_Lobby_Touch_Love_1:
+  en: The inside of this place is so peaceful.
+  ko: 이 안은 정말 평화롭네~ 좋다. 여기.
+  ja: |-
+    ほんと平和な場所ね～
+    気に入ったわ、ここ。
+c802_Lobby_Touch_Love_2:
+  en: I'm gonna head out for a smoke.
+  ko: 아~ 나가서 한 대만 피고 올까~
+  ja: |-
+    はあ～
+    気晴らしに一本吸おうかな～
+c802_Lobby_Touch_Love_3:
+  en: How about a drink later? You, me, and Aki?
+  ko: 이봐. 이따가 아키랑 한잔하러 갈까?
+  ja: ねえ。あとでアキ君と一杯どう？
+c802_Lobby_Stay_1:
+  en: You're not going to stay here, are you? Didn't you say you had something to
+    do?
+  ko: |-
+    저기~ 계속 여기 있을 거야?
+    할 거 있다고 하지 않았어?
+  ja: |-
+    ねぇ～ずっとここにいるつもり？
+    なんかやることあったんじゃない？
+c802_Lobby_Stay_Love_1:
+  en: All right then. I'm gonna kick my feet up and take it easy. If you need me,
+    just holler.
+  ko: |-
+    그래~ 휴가다 생각하고 쉬고 있을 테니까,
+    필요하면 불러~
+  ja: |-
+    そっか～
+    じゃ休暇だと思って休んでるから、必要な時は呼んで～
+c802_Outpost_Touch_1:
+  en: Where are we staying again? Before that though, where can I get some beer around
+    here?
+  ko: |-
+    우리 숙소가 어디 있더라…?
+    아, 그보다 여기 맥주 파는 곳이 어디 있다고 했었지?
+  ja: |-
+    宿所はどこだっけ…？
+    あ、それよりも ビールはどこで 売ってるんだっけ？
+c802_Outpost_Touch_2:
+  en: Ahh, this air is so refreshing. The sky seems so real... hard to believe it's
+    all fake.
+  ko: |-
+    음~ 공기 좋다.
+    하늘도 진짜 같은데, 이게 다 가짜라니 신기하네~
+  ja: |-
+    う～ん、 いい空気。
+    空も本物そっくり。
+    全部つくりものだなんて 信じられない～
+c802_Outpost_Touch_3:
+  en: I'm gonna take the day off.
+  ko: 오늘은 느긋하게 쉬자.
+  ja: 今日はゆっくり休もう～
+c802_Gacha_Get_1:
+  en: Let's make the most of our time together and have a good time!
+  ko: 여기 있는 동안 서로 귀찮아지지 않게~ 사이좋게 지내자~
+  ja: |-
+    ここにいる間は面倒なことにならないように～
+    仲良くしようね～
+c802_Reinforce_1:
+  en: I feel like I'm walking on sunshine!
+  ko: 몸이 가벼워졌어!
+  ja: 体が軽くなった！
+c802_Reinforce_2:
+  en: Interesting, my body feels so at ease.
+  ko: 흠~ 신기하네, 몸이 편해졌어.
+  ja: うわ～何なのこれ、体が楽になった。
+c802_Reinforce_3:
+  en: That was great! Where did you get this?
+  ko: 좋다~ 이런 건 다 어디서 구해왔어?
+  ja: |-
+    へえ～
+    こんなのどこで手に入るの？
+c802_Gift_1:
+  en: Is this a reward for all my hard work?
+  ko: 이건 내가 열심히 한 상인가~?
+  ja: これって日頃の行いのおかげってやつ～？
+c802_Gift_2:
+  en: Oh wow, you shouldn't have! Thanks.
+  ko: 와, 생각지도 못했는데. 고마워.
+  ja: |-
+    わぁ、びっくりした。
+    ありがとう。
+c802_Gift_3:
+  en: What is all this? You didn't have to do this, honestly.
+  ko: 이게 다 뭐야~? 나한테 너무 잘해주는데?
+  ja: |-
+    一体どうしたの～？
+    私に気遣いすぎじゃない？
+c802_Attractive_Up_1:
+  en: Hey, got time for a drink?
+  ko: 다 같이 술 마시러 갈까?
+  ja: みんなで酒、飲みいこう？
+c802_Attractive_Up_2:
+  en: Having a reward will give me more motivation.
+  ko: 상이 있으면 의욕이 셈솟지.
+  ja: ご褒美あったほうがやる気でるでしょ！？
+c802_Attractive_Up_3:
+  en: Let's show 'em what we're made of.
+  ko: 뭐, 서로서로 힘내자고.
+  ja: お互い頑張りましょ。
+c802_Party_Deploy_1:
+  en: Oh, am I going too?
+  ko: 오, 나도 가는 거야?
+  ja: えっ、私も連れてってくれるの？
+c802_Field_Touch_1:
+  en: All right, tell me what to do.
+  ko: 응~ 말해.
+  ja: は～い、何の用？
+c802_Field_Go_1:
+  en: Let's get started, shall we?
+  ko: 움직여 볼까~
+  ja: ちょっと動こうかな～
+c802_Battle_Enter_1:
+  en: Coming.
+  ko: 온다.
+  ja: 来るぞ。
+c802_Battle_Ready_1:
+  en: Don't die on me!
+  ko: 다들 죽지 말라고~!
+  ja: みんな生きててよ～！
+c802_Battle_Ready_2:
+  en: Waddya say we finish this?
+  ko: 해치우러 가볼까?
+  ja: 片付けに行っちゃおう。
+c802_Battle_Ready_3:
+  en: Can we... Do this?
+  ko: 이거… 할 수 있겠지?
+  ja: これって…大丈夫よね？
+c802_Reload_1:
+  en: So... like this, right?
+  ko: 이렇게 하면 되나?
+  ja: こうすればいい？
+c802_Reload_2:
+  en: Turned out better than I expected. Hehe.
+  ko: 하하. 이거 생각보다 할만한데?
+  ja: |-
+    ハハッ。
+    思ったよりいけそうじゃない？
+c802_Reload_3:
+  en: Actually, it's not too bad.
+  ko: 좋아, 해볼 만하네~
+  ja: よし、なかなか面白いじゃない～
+c802_Ult_Skill_Ready_1:
+  en: Hey!
+  ko: 어이~!
+  ja: おい～！
+c802_Ult_Skill_1:
+  en: Finish them.
+  ko: 해치워버려.
+  ja: 叩きのめす。
+c802_FullBurst_1:
+  en: Right now!
+  ko: 지금이야!
+  ja: 今だ！
+c802_Kill_Monster_1:
+  en: Down they go!
+  ko: 오~ 쓰러졌다!
+  ja: お～終わった！
+c802_Kill_Monster_2:
+  en: Did we get them?
+  ko: 처리한 건가?
+  ja: これでいいのかな？
+c802_Kill_Monster_3:
+  en: Next!
+  ko: 다음!
+  ja: はい、次！
+c802_Damage_1:
+  en: Argh.
+  ko: 으앗.
+  ja: うあっ。
+c802_Damage_2:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c802_Damage_3:
+  en: Ugh.
+  ko: 큿.
+  ja: くっ。
+c802_Die_1:
+  en: No... ugh... I need to move...!
+  ko: 안돼… 윽… 움직여야 하는데…!
+  ja: |-
+    だめ…うっ…
+    立ち上がらなきゃ…！
+c802_Win_1:
+  en: Whew... well, now that that's over, how about a drink?
+  ko: |-
+    후우… 다행이다~
+    술이나 마시러 갈까?
+  ja: |-
+    ふぅ…よかった～
+    一杯行っちゃう？
+802_cv_ja:
+  en: 'CV: Mariya Ise'
+  ko: 'CV : 이세 마리야'
+  ja: CV：伊瀬茉莉也
+802_cv_ko:
+  en: 'CV: Mariya Ise'
+  ko: 'CV : 이세 마리야'
+  ja: CV：伊瀬茉莉也
+802_cv_en:
+  en: 'CV: Mariya Ise'
+  ko: 'CV : 이세 마리야'
+  ja: CV：伊瀬茉莉也

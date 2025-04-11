@@ -1,0 +1,679 @@
+---
+351_name:
+  en: Anchor
+  ko: 앵커
+  ja: アンカー
+c351_description:
+  en: |-
+    A Nikke from Aegis squad, who is passionate about marine life.
+    She is equipped with high-performance radar detectors inside her body,
+    so she has made a significant contribution to the Admire's voyage and combat.
+  ko: "해양 생물들을 사랑하는 이지스 스쿼드 소속의 니케.\n체내에 고성능 레이더가 탑재되어 있어, \n어드마이어 호의 운항 및 전투에 큰 기여를
+    하고 있다."
+  ja: |-
+    海洋生物を愛するイージス部隊所属のニケ。
+    体内に高性能レーダーが搭載されており、
+    アドマイアー号の運航と戦闘に大きく貢献している。
+351_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_351:
+  en: Anchor's Spare Body
+  ko: 앵커 스페어 바디
+  ja: アンカーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+23512_name:
+  en: MDS
+  ko: MDS
+  ja: MDS
+23512_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF><word_group=10007>When attacking an enemy projectile, damage dealt to that projectile</word_group> ▲ {description_value_01}% continuously.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10007>적 발사체 공격 시 해당 발사체에 가하는 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10007>敵の発射体を攻撃する時、該当の発射体に与えるダメージ</word_group>{description_value_01}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23511_name:
+  en: GS
+  ko: GS
+  ja: GS
+23511_description:
+  en: "■ Activates when the last bullet hits the target. Affects the target.\n<color=#00AEFF>Taunt
+    for {description_value_01} sec.</color> \n■ Activates when the last bullet hits
+    the target. Affects self.\n<color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03}
+    sec.</color>"
+  ko: |-
+    ■ 마지막 탄환 명중 시 대상에게
+    <color=#00AEFF>[도발] [{description_value_01}초 유지]</color>
+    ■ 마지막 탄환 명중 시 자신에게
+    <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、対象に
+    <color=#00AEFF>「挑発」「{description_value_01}秒間維持」</color>
+    ■最後の弾丸が命中した時、自分に
+    <color=#00AEFF>「防御力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13513_name:
+  en: CIWS
+  ko: CIWS
+  ja: CIWS
+13513_description_1:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+352_name:
+  en: Helm
+  ko: 헬름
+  ja: ヘルム
+350_name:
+  en: Mast
+  ko: 마스트
+  ja: マスト
+353_name:
+  en: 'Helm: Aquamarine'
+  ko: '헬름 : 아쿠아마린'
+  ja: ヘルム：アクアマリン
+354_name:
+  en: 'Mast: Romantic Maid'
+  ko: '마스트 : 로망틱 메이드'
+  ja: マスト：ロマンチックメイド
+355_name:
+  en: 'Anchor: Innocent Maid'
+  ko: '앵커 : 이노센트 메이드'
+  ja: アンカー：イノセントメイド
+c351_Lobby_Touch_1:
+  en: I like the sea. Seawater... not so much.
+  ko: 음… 바다는 좋은데 바닷물은 싫어.
+  ja: うーん…海は好きだけど海水は嫌。
+c351_Lobby_Touch_2:
+  en: Oh jeez, Helm is really gonna let me have it now.
+  ko: 아… 헬름한테 혼나겠다.
+  ja: あ…ヘルムに怒られそう。
+c351_Lobby_Touch_3:
+  en: Ugh... I'm soaked.
+  ko: 으으… 축축해.
+  ja: うう…ジメジメする。
+c351_Lobby_Touch_Love_1:
+  en: Captain, could you help me wring the water out?
+  ko: 함장… 이거 짜는 거 좀 도와줘.
+  ja: |-
+    艦長…
+    これ絞るのちょっと手伝って。
+c351_Lobby_Touch_Love_2:
+  en: |-
+    Do you know the human body is made up mostly of water?
+    A little bit of trivia for you.
+  ko: |-
+    그거 알아? 사람의 몸은 대부분 물이래.
+    응? 그냥 그렇다고.
+  ja: |-
+    知ってる？
+    人間の体はほとんど水だって。
+    え？ただそれだけだよ。
+c351_Lobby_Touch_Love_3:
+  en: Don't tell Helm that I went swimming.
+  ko: 수영했다는 거, 헬름한텐 비밀이야.
+  ja: 泳いだこと、ヘルムには秘密だよ。
+c351_Lobby_Stay_1:
+  en: What are you up to, Captain? Wanna go see some starfish?
+  ko: 함장 뭐해? 불가사리 보러 안 갈 거야?
+  ja: |-
+    艦長、何してるの？
+    ヒトデ見に行かないの？
+c351_Lobby_Stay_Love_1:
+  en: |-
+    I'll be fishing while you're away.
+    I usually catch a lot fairly quickly, so don't be too long.
+  ko: |-
+    낚시하면서 기다리고 있을게.
+    많이 잡아놓을 테니까 빨리 와.
+  ja: |-
+    釣りしながら待ってる。
+    たくさん釣っておくから早く来て。
+c351_Outpost_Touch_1:
+  en: I suppose Helm wouldn't be pleased if I put a starfish or sea cucumber in the
+    swimming pool.
+  ko: 수영장에 불가사리나 해삼 풀어놓으면 헬름이 싫어하겠지?
+  ja: プールにヒトデとか ナマコを放したら ヘルムが嫌がるよね？
+c351_Outpost_Touch_2:
+  en: Electromagnetic waves from the radio tower give me a headache.
+  ko: 전파탑에서 나오는 전파 때문에 머리 아파.
+  ja: 電波塔から出る電波のせいで 頭痛い。
+c351_Outpost_Touch_3:
+  en: Can I take a dip in the swimming pool?
+  ko: 수영장에서 수영해도 돼?
+  ja: プールで泳いでもいい？
+c351_Gacha_Get_1:
+  en: |-
+    I'm Anchor from Aegis.
+    Would you like a starfish, Captain?
+  ko: |-
+    이지스 스쿼드, 앵커야.
+    함장한테도 불가사리 줄까?
+  ja: |-
+    イージス部隊、アンカーだよ。
+    艦長にもヒトデ、あげよっか？
+c351_Reinforce_1:
+  en: Cool, my surveillance capabilities have been enhanced... I think? At least they
+    should be.
+  ko: 음. 탐지능력이 더 강해졌… 을 거야. 아마. 응.
+  ja: |-
+    うん。
+    探知能力が強く…なったはず。
+    たぶん。うん。
+c351_Reinforce_2:
+  en: I'll put this power to good use... fishing!
+  ko: 이 힘을 활용해서 낚시에 좀 더 힘쓸게.
+  ja: この力を生かして、釣りを頑張るね。
+c351_Reinforce_3:
+  en: Thanks. Do you want a sea cucumber?
+  ko: 고마워. 해삼 줄까?
+  ja: ありがとう。ナマコいる？
+c351_Gift_1:
+  en: Is it a starfish? It must be. Aw nuts, it's not...
+  ko: 불가사리야? 불가사리지? 아… 아니구나….
+  ja: |-
+    ヒトデ？ヒトデだよね？
+    あ…違った…
+c351_Gift_2:
+  en: Can I use this as bait?
+  ko: 이거 낚시 미끼로 써도 돼?
+  ja: これ、釣りのエサにしていい？
+c351_Gift_3:
+  en: "*Beep* Probe launched. Not showing any sea cucumbers. How unfortunate."
+  ko: 삐빗. 감지 완료. 해삼 아님. 실망.
+  ja: |-
+    ピピーッ。探知完了。
+    ナマコじゃない。ショック。
+c351_Attractive_Up_1:
+  en: Spending a day fishing with you would be awesome, Captain.
+  ko: 함장이랑 하루 종일 낚시하면 재밌겠다.
+  ja: 艦長と1日中釣りできたら、楽しそう。
+c351_Attractive_Up_2:
+  en: You're so cool, Captain. You're as cool as, like 100 sea cucumbers!
+  ko: 나 함장이 불가사리 100개 만큼 좋아.
+  ja: 艦長のこと、ヒトデ100個分くらい好き。
+c351_Attractive_Up_3:
+  en: How do you feel when you see me, Captain? I feel this electricity every time
+    we meet.
+  ko: 함장은 나 보면 어때? 나는 찌릿찌릿해.
+  ja: |-
+    艦長は私を見てどう思う？
+    私はビリッとくるよ。
+c351_Party_Deploy_1:
+  en: Are we going to the beach?
+  ko: 해변으로 가는 거야?
+  ja: 海辺に行くの？
+c351_Field_Touch_1:
+  en: Huh?
+  ko: 으에?
+  ja: んえっ？
+c351_Field_Go_1:
+  en: Commencing detection...
+  ko: 탐지 시작-
+  ja: 探知開始～
+c351_Battle_Enter_1:
+  en: Whoa, the starfish is on the move.
+  ko: 어. 불가사리가 움직였다.
+  ja: あ、ヒトデが動いた。
+c351_Battle_Ready_1:
+  en: I could really use some fish.
+  ko: 아. 물고기 먹고 싶어.
+  ja: あ。おサカナ食べたい。
+c351_Battle_Ready_2:
+  en: Do you like fishing, Captain?
+  ko: 함장. 낚시 좋아해?
+  ja: 艦長。釣り好き？
+c351_Battle_Ready_3:
+  en: Have you ever seen kelp? They're very interesting to observe.
+  ko: 미역 본 적 있어? 보고 있으면 재밌어.
+  ja: |-
+    ワカメ見たことある？
+    見てると面白いよ。
+c351_Reload_1:
+  en: A sea cucumber's homeliness is part of its charm.
+  ko: 해삼은 못생긴 게 매력이야.
+  ja: ナマコはブサイクなところが魅力だよ。
+c351_Reload_2:
+  en: Can't I just go on the back of a flying fish?
+  ko: 날치를 타고 다닐 수는 없을까?
+  ja: トビウオに乗って移動できないかな？
+c351_Reload_3:
+  en: I want to build a house for hermit crabs.
+  ko: 소라게한테 집 지어주고 싶어.
+  ja: ヤドカリに家を建ててあげたい。
+c351_Ult_Skill_Ready_1:
+  en: Yeah, that's the stuff.
+  ko: 음. 느낌이 왔어.
+  ja: うん。いい感じ。
+c351_Ult_Skill_1:
+  en: Is this... oh yeah, that's it.
+  ko: 이 느낌은… 그거다.
+  ja: この感じは…あれだ。
+c351_FullBurst_1:
+  en: You see that? Just shoot in that direction.
+  ko: 저기 보이지? 저기로 쏘면 돼.
+  ja: |-
+    見えるでしょ？
+    あそこを狙えばいいよ。
+c351_Kill_Monster_1:
+  en: Sea squirt!
+  ko: 멍게!
+  ja: ホヤ！
+c351_Kill_Monster_2:
+  en: Sea anemone!
+  ko: 말미잘!
+  ja: イソギンチャク！
+c351_Kill_Monster_3:
+  en: Styela clava!
+  ko: 미더덕!
+  ja: サンゴ！
+c351_Damage_1:
+  en: Eah.
+  ko: 으엑.
+  ja: うえっ。
+c351_Damage_2:
+  en: "*Sob*"
+  ko: 힝.
+  ja: ひぃん。
+c351_Damage_3:
+  en: Aargh!
+  ko: 아얏.
+  ja: ああっ。
+c351_Die_1:
+  en: That's it, I'm going back to Atlantis.
+  ko: 나 먼저… 용궁으로 갈게….
+  ja: 先に…竜宮城に行くね…
+c351_Win_1:
+  en: It's over. Wanna go fishing? Playing with some starfish is okay, too.
+  ko: 끝났으니 낚시 갈래? 아니면 불가사리 놀이도 괜찮아.
+  ja: |-
+    終わったから釣りに行く？
+    ヒトデ遊びでもいいよ。
+c351_01_Lobby_Touch_1:
+  en: |-
+    Beep-beep. Movement from large object detected at 12 o'clock...
+    Oh... It was you, Captain?
+  ko: |-
+    삐빗. 12시 방향에 거대 생체반응…!
+    어… 함장이었구나?
+  ja: |-
+    ピピーッ。12時の方向に大型の生体反応…！
+    あ…艦長だったの？
+c351_01_Lobby_Touch_2:
+  en: I wonder what kind of creatures lie deep in the ocean?
+  ko: 더 깊은 곳에는 어떤 생명체가 있을까?
+  ja: もっと深いところには、どんな生命体がいるのかな？
+c351_01_Lobby_Touch_3:
+  en: I like this outfit because it's quite moisture-resistant.
+  ko: 이 옷은 축축하지 않아서 좋아.
+  ja: この服は濡れてないからいいね。
+c351_01_Lobby_Touch_Love_1:
+  en: I caught a pufferfish, would you like to eat it together with me?
+  ko: 음… 복어 잡았는데, 같이 먹을래?
+  ja: うーん…フグを釣ったんだけど、一緒に食べる？
+c351_01_Lobby_Touch_Love_2:
+  en: Don't tell anyone, but I attached a sea cucumber to the bottom of the Admire.
+  ko: |-
+    어드마이어 호 바닥에 몰래 해삼을 붙여놨어.
+    이건 나와 함장만의 비밀이야.
+  ja: |-
+    アドマイアー号の底にこっそりナマコを付けておいたよ。
+    私と艦長だけの秘密ね。
+c351_01_Lobby_Touch_Love_3:
+  en: You remind me of a sea squirt.
+  ko: 함장은 멍게랑 촉감이 비슷한걸?
+  ja: 艦長は触り心地がホヤと似てるよ。
+c351_01_Lobby_Stay_1:
+  en: At this rate, all the starfish are gonna run away.
+  ko: 함장… 이러다가 불가사리가 도망가겠어….
+  ja: 艦長…このままじゃヒトデが逃げちゃうよ…
+c351_01_Lobby_Stay_Love_1:
+  en: Is this going to take long? I'd prefer to go for a swim together.
+  ko: 오래 걸려? 같이 수영하고 싶은데….
+  ja: まだかかる？一緒に泳ぎたいのに…
+c351_01_Outpost_Touch_1:
+  en: The fact that these clothes cling to my body actually helps with my detection
+    abilities.
+  ko: |-
+    옷이 몸에 달라붙어서
+    탐지 능력이 예민해지는 것 같아.
+  ja: 服が体に密着して、 探知能力がよくなってるのかも。
+c351_01_Outpost_Touch_2:
+  en: It sure would be nice if some sea creatures could move to the Outpost.
+  ko: 음. 해양 생물들도 전초기지로 이주하면 좋겠어.
+  ja: うーん。 海洋生物も前哨基地に 移住したらいいのに。
+c351_01_Outpost_Touch_3:
+  en: What's this I'm holding? It's a starfish. Do you want to see it?
+  ko: 들고 있는 거? 불가사리인데 한번 볼래?
+  ja: なに持ってるのかって？ ヒトデだけど、見たい？
+c351_01_Gacha_Get_1:
+  en: I'm going to catch a rainbow sea squirt if it's the last thing I do!
+  ko: 함장. 이번에는 꼭 무지개 멍게를 잡는 거야.
+  ja: 艦長。今度こそ虹色のホヤを捕まえよう。
+c351_01_Reinforce_1:
+  en: This is great! Do you think I could talk to the starfish now?
+  ko: 좋아. 이 정도면 불가사리랑 말할 수 있을까?
+  ja: いいね。これならヒトデと話せるかな？
+c351_01_Reinforce_2:
+  en: Now I can swim faster.
+  ko: 이제 더 빠르게 수영할 수 있어.
+  ja: これでもっと速く泳げるよ。
+c351_01_Reinforce_3:
+  en: Thank you. Would you like to go diving with me?
+  ko: 고마워. 같이 잠수하러 갈래?
+  ja: ありがとう。一緒に潜る？
+c351_01_Gift_1:
+  en: |-
+    Thanks, Captain.
+    Let's see... I can give you a sea urchin in return.
+  ko: |-
+    고마워 함장.
+    음… 그럼 나는 성게를 줄게.
+  ja: |-
+    ありがと、艦長。
+    うーん…じゃあ私はウニをあげる。
+c351_01_Gift_2:
+  en: Can I share this with the starfish?
+  ko: 이거 불가사리한테 나눠 줘도 돼?
+  ja: これ、ヒトデに分けてあげてもいい？
+c351_01_Gift_3:
+  en: Hehe. Next time, please get me a sea cucumber.
+  ko: 헤헤. 다음에는 해삼으로 부탁해.
+  ja: えへへ。次はナマコでお願いね。
+c351_01_Attractive_Up_1:
+  en: I want to stick to you like a barnacle.
+  ko: 함장한테 붙어있고 싶다. 따개비처럼….
+  ja: 艦長にくっついてたいな。フジツボみたいに…
+c351_01_Attractive_Up_2:
+  en: This signal makes me feel tingly. I've never felt anything like this before...
+  ko: 찌릿해. 처음 느껴보는 신호야….
+  ja: ビリビリする。初めて感じる信号だよ…
+c351_01_Attractive_Up_3:
+  en: Next time, I'll give you the starfish I cherish the most.
+  ko: 나도 다음에 제일 아끼는 불가사리를 줄게.
+  ja: 私も今度、一番大切にしてるヒトデをあげる。
+c351_01_Party_Deploy_1:
+  en: Anchor, ready to dive.
+  ko: 다이버 앵커 준비 완료야.
+  ja: ダイバー・アンカー、準備できたよ。
+c351_01_Field_Touch_1:
+  en: To the deeper depths!
+  ko: 더 깊은 곳으로…!
+  ja: もっと深く…！
+c351_01_Field_Go_1:
+  en: Keep your eyes peeled, everyone.
+  ko: 바닥을 잘 보고 다녀야 해.
+  ja: 足元をよく見て動かなきゃ。
+c351_01_Battle_Enter_1:
+  en: Hold on, something's moving over there...
+  ko: 잠깐만. 저기 뭐가 움직이는데….
+  ja: 待って。何か動いたような…
+c351_01_Battle_Ready_1:
+  en: I think I'll go a bit deeper today.
+  ko: 오늘은 좀 더 깊게 가봐야겠어.
+  ja: 今日はもっと深く潜ろう。
+c351_01_Battle_Ready_2:
+  en: We need to finish before the starfish dries out.
+  ko: 불가사리가 마르기 전에 끝내야 해.
+  ja: ヒトデが乾いちゃう前に終わらせなきゃ。
+c351_01_Battle_Ready_3:
+  en: Beep-beep. Multiple movements detected up ahead!
+  ko: 삐빗. 전방에 움직임 다수…!
+  ja: ピピーッ。前方に複数の不明生物を探知…！
+c351_01_Reload_1:
+  en: Last night, I dreamed I was a clam.
+  ko: 어제 조개가 되는 꿈을 꿨어.
+  ja: 昨日、貝になる夢を見たよ。
+c351_01_Reload_2:
+  en: Can't I like get gills or something?
+  ko: 나도 아가미 파츠를 달 수는 없을까?
+  ja: 私もエラのパーツを付けられないかな？
+c351_01_Reload_3:
+  en: I wonder what texture squid ink has...
+  ko: 오징어 먹물의 촉감은 어떨까….
+  ja: イカ墨の触り心地ってどんな感じなんだろう…
+c351_01_Ult_Skill_Ready_1:
+  en: Hmm... this signal is...
+  ko: 어… 이 신호는….
+  ja: えっ…この信号は…
+c351_01_Ult_Skill_1:
+  en: Something about these coordinates seems off...
+  ko: 이 좌표에서 심상치 않은 느낌이….
+  ja: この座標からヘンな感じが…
+c351_01_FullBurst_1:
+  en: Fire at the coordinates I gave to you.
+  ko: 내가 보내준 좌표로 쏘는 거야.
+  ja: 私が送った座標に撃ってね。
+c351_01_Kill_Monster_1:
+  en: Sea urchin!
+  ko: 성게!
+  ja: ウニ！
+c351_01_Kill_Monster_2:
+  en: Sea cucumber!
+  ko: 해삼!
+  ja: ナマコ！
+c351_01_Kill_Monster_3:
+  en: Squid!
+  ko: 오징어!
+  ja: イカ！
+c351_01_Damage_1:
+  en: Urgh.
+  ko: 윽.
+  ja: うっ。
+c351_01_Damage_2:
+  en: Argh.
+  ko: 으으.
+  ja: うう。
+c351_01_Damage_3:
+  en: Ouch.
+  ko: 아야.
+  ja: いたっ。
+c351_01_Die_1:
+  en: Argh... Need more... oxygen...
+  ko: 꼬르륵… 산소가... 부족해….
+  ja: ゴポ…酸素が…足りない…
+c351_01_Win_1:
+  en: Sweet! Now I can swim all day long!
+  ko: 좋아. 이제 하루 종일 수영할 거야.
+  ja: うん。これで一日中泳げるよ。
+351_cv_ja:
+  en: 'CV: Hiyori Nitta'
+  ko: 'CV : 닛타 히요리'
+  ja: CV：新田ひより
+351_cv_ko:
+  en: 'CV: Kim Chae-rin'
+  ko: 'CV : 김채린'
+  ja: CV：キム・チェリン
+351_cv_en:
+  en: 'CV: Bryn Apprill'
+  ko: 'CV : 브린 애프릴'
+  ja: CV：Bryn Apprill

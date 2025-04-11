@@ -1,0 +1,491 @@
+---
+282_name:
+  en: Sakura
+  ko: 사쿠라
+  ja: サクラ
+c282_description:
+  en: |-
+    A Nikke belonging to Underworld Queen who is also the head of a yakuza group known as the Seimeikai.
+    A woman of principle, the Seimeikai refrain from engaging in immoral acts thanks to her leadership. Under her guidance, the Seimeikai has become an organization with a well-deserved reputation for its honorable conduct.
+  ko: |-
+    언더월드 퀸 스쿼드의 니케이자, 보수적인 야쿠자 조직 세이메이카이(清明會)의 젊은 당주.
+    밝고 깨끗하다는 조직의 이름에 걸맞게, 조직을 도리에 맞게 이끌고자 노력하는 보수적 원칙주의자다.
+  ja: |-
+    アンダーワールドクイーン部隊のニケであり、\n保守的なヤクザの組織である清明会の若き当主。
+    清く明るいという組織の名にふさわしく、\n道理にかなった組織へと導くために努力し、原則を重んじる。
+282_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50282:
+  en: Sakura's Spare Body
+  ko: 사쿠라 스페어 바디
+  ja: サクラのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+22822_name:
+  en: Falling Petals
+  ko: 꽃잎 떨구기
+  ja: 花びら落とし
+22822_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10007>When attacking an enemy projectile, damage to that projectile</word_group> ▲ {description_value_01}% continuously.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_02} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10007>적 발사체 공격 시 해당 발사체에 가하는 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_02}초 ▼]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10007>敵の発射体を攻撃する時、該当の発射体に与えるダメージ</word_group> {description_value_01}％▲」「持続」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_02}秒▼」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22821_name:
+  en: Cherry Blossom Tea
+  ko: 벚꽃차
+  ja: 桜茶
+22821_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects all allies.
+    <color=#00AEFF>Cherry Blossom Tea: {description_value_02}% of DEF, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
+    <color=#00AEFF>[벚꽃차 : 방어력 {description_value_02}%] [{description_value_03}중첩] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、味方全体に
+    <color=#00AEFF>「桜茶：防御力{description_value_02}％」「{description_value_03}スタック」
+    「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12823_name:
+  en: Resplendent Cherry Blossom
+  ko: 앵화난만
+  ja: 桜花らんまん
+12823_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10008>Damage dealt by Wind Code enemies</word_group> ▼ {description_value_01}% for {description_value_02} sec. Activates {description_value_03} time(s) per battle.
+    ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
+    ■ Affects all allies when Cherry Blossom Tea is fully stacked.
+    <color=#00AEFF><word_group=10000>Damage to Interruption Parts</word_group> ▲ {description_value_06}% for {description_value_07} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10008>풍압 코드 적으로부터 받는 대미지</word_group> {description_value_01}% ▼] [{description_value_02}초 유지] [전투 중 {description_value_03}회 발동]
+    [시전자 기준 공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 자신이 벚꽃차 최대 중첩 상태라면 아군 전체에게
+    <color=#00AEFF>[<word_group=10000>저지 부위 공격 대미지</word_group> {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10008>風圧コードの敵から受けるダメージ</word_group> {description_value_01}％▼」「{description_value_02}秒間維持」「戦闘中{description_value_03}回発動」
+    「スキル発動者基準で攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■自分が桜茶のフルスタック状態なら、味方全体に
+    <color=#00AEFF>「<word_group=10000>阻止部位の攻撃ダメージ</word_group> {description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+281_name:
+  en: Moran
+  ko: 목단
+  ja: モラン
+280_name:
+  en: Rosanna
+  ko: 로산나
+  ja: ロザンナ
+283_name:
+  en: 'Rosanna: Chic Ocean'
+  ko: '로산나 : 시크 오션'
+  ja: ロザンナ：シックオーシャン
+284_name:
+  en: 'Sakura: Bloom in Summer'
+  ko: '사쿠라 : 블룸 인 서머'
+  ja: サクラ：ブルーム・イン・サマー
+c282_Lobby_Touch_1:
+  en: At the end of the day, organizations are made up of humans, who should be treated
+    with dignity.
+  ko: "조직이라 함은 결국 사람이 모인 곳. \n사람답게 다스려야 하지요."
+  ja: |-
+    組織というものは結局、人が集まる場所。
+    人らしく治めるべきでしょう。
+c282_Lobby_Touch_2:
+  en: What do you want from me this time?
+  ko: 이번에는 제게 무엇을 구하러 오셨는지요?
+  ja: 今度は私に何をお望みですか？
+c282_Lobby_Touch_3:
+  en: If you want the support of the organization, you'll need to win me over first.
+  ko: |-
+    조직의 힘을 빌리고자 한다면,
+    먼저 제 마음을 움직이셔야 할 겁니다.
+  ja: |-
+    組織の力を借りようとするならば、
+    まず私の心から動かしてみてください。
+c282_Lobby_Touch_Love_1:
+  en: All that is yours, is mine. Never forget that.
+  ko: "군의 모든 것은 이 사쿠라의 것이랍니다. \n가슴에 새겨 두시길."
+  ja: |-
+    君のすべてはこのサクラのものなのです。
+    胸に刻んでくださいね。
+c282_Lobby_Touch_Love_2:
+  en: You're free to have tea with me anytime...
+  ko: "군을 위한 꽃과 차는 늘 준비되어 있답니다. \n…그리고 이 마음도."
+  ja: |-
+    君のための花と茶はいつも用意してあります。
+    …そしてこの心も。
+c282_Lobby_Touch_Love_3:
+  en: Would you like to go see the cherry blossoms in the garden?
+  ko: 정원에 벚꽃이 만개했으니, 함께 꽃놀이라도 가시겠나요?
+  ja: |-
+    庭の桜が満開です。
+    一緒にお花見でもしませんか？
+c282_Lobby_Stay_1:
+  en: Since you're leaving me here standing, I assume you're taking time to compose
+    a haiku?
+  ko: 저를 이리 세워둔 채로, 하이쿠라도 짓고 계신 것인지.
+  ja: 私をここに立たせたまま、俳句でも詠んでいるのでしょうか。
+c282_Lobby_Stay_Love_1:
+  en: It's nice spending a quiet moment with you.
+  ko: 가끔은 군과 이리 한가로운 시간을 보내는 것도 좋겠지요.
+  ja: たまには君とこうしてのんびり時間を過ごすのもいいでしょう。
+c282_Outpost_Touch_1:
+  en: I'm expanding my knowledge and looking into the organization you're a part of.
+  ko: 군이 다스리는 조직을 살피며 견문을 넓히고 있답니다.
+  ja: 君がまとめる組織を見ながら、 見聞を広めているのです。
+c282_Outpost_Touch_2:
+  en: It's nice to get out sometimes.
+  ko: 가끔은 이렇게 저택 밖을 거니는 것도 즐겁군요.
+  ja: たまにはこうして 屋敷の外を歩くのも 楽しいですね。
+c282_Outpost_Touch_3:
+  en: Apparently there is a court here, but in name only. Any semblance of justice
+    in this place rests in your own hands.
+  ko: "법원이 있다고는 하나 유명무실하니. \n이곳의 기강은 오롯이 군의 손에 달렸군요."
+  ja: |-
+    一応裁判所はありますが、 形だけのものですから。
+    ここのルールは 君の手に 委ねられているのですね。
+c282_Gacha_Get_1:
+  en: I am Sakura, head of Saimaikai. If you are willing to accept the assistance
+    of the underworld, I will gladly give it.
+  ko: "세이메이카이의 당주, 사쿠라라고 합니다. \n음지의 힘이라도 괜찮으시다면 기꺼이 빌려드리지요."
+  ja: |-
+    清明会の当主、サクラと申します。
+    陰の力でもよろしければ、喜んでお貸ししましょう。
+c282_Reinforce_1:
+  en: I will remember this.
+  ko: 이 은혜는 반드시 기억하겠습니다.
+  ja: このご恩は決して忘れません。
+c282_Reinforce_2:
+  en: Are you starting to trust me?
+  ko: 신뢰해주시는 건가요?
+  ja: 信頼してくださるのでしょうか？
+c282_Reinforce_3:
+  en: It won't do us any harm to be overprepared.
+  ko: 준비가 지나쳐서 해가 될 일은 없지요.
+  ja: 準備に「しすぎ」ということはありませんからね。
+c282_Gift_1:
+  en: Why would you give this to me? On second thought, I'll accept it gladly.
+  ko: 제게 왜 이런 것을…… 아니, 감사히 받겠습니다.
+  ja: |-
+    なぜ私にこのようなものを…
+    …いえ、ありがたく頂戴いたします。
+c282_Gift_2:
+  en: You're not doing this just to get into my good books, are you?
+  ko: 가벼운 마음으로 주는 건 아니시겠죠?
+  ja: 軽い気持ちでくださったわけではないでしょう？
+c282_Gift_3:
+  en: You truly are a kind person.
+  ko: 참으로 다정하신 분.
+  ja: 本当にお優しい方。
+c282_Attractive_Up_1:
+  en: I hope that I'm the only recipient of your love.
+  ko: 군의 애정이 오직 제 것이기만을 바라고 있답니다.
+  ja: 君の愛情がすべて私のものであることを願っております。
+c282_Attractive_Up_2:
+  en: You always catch me off guard like this.
+  ko: 늘 이렇게 저의 처음을 가져가시는군요.
+  ja: いつもこうして私の初めてをさらっていくのですね。
+c282_Attractive_Up_3:
+  en: Since our bond has deepened, perhaps the flavor of our tea will follow likewise.
+  ko: "인연이 깊어졌으니, \n함께 마시는 차 맛도 더 깊어지지 않겠나요."
+  ja: |-
+    縁が深まったので、一緒に飲むお茶の味も
+    さらに深まることでしょう。
+c282_Party_Deploy_1:
+  en: Very well, I will lend you the organization's power.
+  ko: 좋습니다. 조직의 힘을 빌려 드리지요.
+  ja: |-
+    いいでしょう。
+    組織の力をお貸しします。
+c282_Field_Touch_1:
+  en: I'm here.
+  ko: 네, 저는 여기에 있습니다.
+  ja: はい、私はここにおります。
+c282_Field_Go_1:
+  en: On my way.
+  ko: 그리로 가고 있으니 안심하시지요.
+  ja: |-
+    そちらへ向かっているので
+    ご安心ください。
+c282_Battle_Enter_1:
+  en: Time to take out the trash.
+  ko: 숙청의 때가 왔군요.
+  ja: 粛清の時が来ましたね。
+c282_Battle_Ready_1:
+  en: I'll settle this according to our own rules.
+  ko: 조직의 법도대로 다스리겠습니다.
+  ja: 組織のルールどおりに治めましょう。
+c282_Battle_Ready_2:
+  en: Those without sense of duty are punished.
+  ko: 도리를 모르는 자들에게 처벌을.
+  ja: 道理を知らぬ者には罰を。
+c282_Battle_Ready_3:
+  en: By Saimaikai, these fiends will go no further.
+  ko: 조직의 이름을 걸고 처단해 드리지요.
+  ja: 組織の名において処分します。
+c282_Reload_1:
+  en: Can you buy me some time?
+  ko: 시간을 벌어주시겠나요?
+  ja: 時間を稼いでくれますか？
+c282_Reload_2:
+  en: Trust me.
+  ko: 저를 믿으시지요.
+  ja: 私を信じてください。
+c282_Reload_3:
+  en: No time to waste.
+  ko: 급할수록 돌아가야 하는 법.
+  ja: 急がば回れですよ。
+c282_Ult_Skill_Ready_1:
+  en: You and me, right now.
+  ko: 군, 지금입니다.
+  ja: 今です。
+c282_Ult_Skill_1:
+  en: We are Saimaikai. We see all.
+  ko: |-
+    보이지 않는 곳에서 만인을 움직이니,
+    제가 곧 조직입니다.
+  ja: 見えぬところで万人を動かす、これが組織です。
+c282_FullBurst_1:
+  en: The time has come to end this strife.
+  ko: 항쟁을 끝낼 때가 왔군요.
+  ja: 抗戦を終わらせる時が来ましたね。
+c282_Kill_Monster_1:
+  en: Easy.
+  ko: 순조롭군요.
+  ja: 順調ですね。
+c282_Kill_Monster_2:
+  en: Next.
+  ko: "…다음."
+  ja: "…次。"
+c282_Kill_Monster_3:
+  en: We're on a roll. Let's keep going.
+  ko: 여세를 몰아보죠.
+  ja: この調子です。
+c282_Damage_1:
+  en: Ah!
+  ko: 아!
+  ja: あっ！
+c282_Damage_2:
+  en: Too many.
+  ko: 이 정도쯤….
+  ja: これしきのこと…
+c282_Damage_3:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c282_Die_1:
+  en: I'm sorry I didn't see this through.
+  ko: 끝까지 의리를 지키지 못해… 미안합니다.
+  ja: |-
+    最後まで義理を果たせず…
+    申し訳ございません。
+c282_Win_1:
+  en: The organization will be proud of this outcome.
+  ko: 조직의 명성에 부끄럽지 않은 결과로군요.
+  ja: 組織の名声に恥じぬ結果ですね。
+282_cv_ja:
+  en: 'CV: Sanae Kobayashi'
+  ko: 'CV : 코바야시 사나에'
+  ja: CV：小林沙苗
+282_cv_ko:
+  en: 'CV: Choi Jeong-yoon'
+  ko: 'CV : 최정윤'
+  ja: CV：チェ・ジョンユン
+282_cv_en:
+  en: 'CV: Anjali Kunapaneni'
+  ko: 'CV : 안잘리 쿠나파네니'
+  ja: CV：Anjali Kunapaneni

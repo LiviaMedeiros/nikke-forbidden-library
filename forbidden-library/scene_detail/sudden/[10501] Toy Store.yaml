@@ -1,0 +1,5506 @@
+---
+d_ex_toyshop_01:
+  d_ex_toyshop_01_1:
+    speaker: Narration
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_01_2:
+    speaker: belorta
+    en: Welcome!
+    ko: 어서 오세요~
+    ja: いらっしゃいませ～
+  d_ex_toyshop_01_3:
+    speaker: belorta
+    en: Ah! It's you, Old-Timer!
+    ko: 어? 아저씨다!
+    ja: あ？おじさんだ！
+  d_ex_toyshop_01_4:
+    speaker: mica
+    en: Good to see you! Who's that behind you?
+    ko: 아저씨 안녕하세요! 뒤에는….
+    ja: |-
+      おじさん、こんにちは！
+      あれ？後ろにいるのは…
+  d_ex_toyshop_01_5:
+    speaker: soline
+    en: What are you staring at?!
+    ko: "…뭘 그렇게 뚫어지게 봐."
+    ja: "…何じろじろ見てんのよ。"
+  d_ex_toyshop_01_6:
+    speaker: soline
+    en: Never seen a Nikke before?
+    ko: 니케 처음 봐?
+    ja: ニケ見たことないの？
+  d_ex_toyshop_01_7:
+    speaker: belorta
+    en: Oh my, it's a child!
+    ko: 어? 꼬마다!
+    ja: あれ？おちびちゃんだ！
+  d_ex_toyshop_01_8:
+    speaker: soline
+    en: Hey! Who're you calling a child!
+    ko: 누, 누구보고 꼬마라는 거야!
+    ja: 今、だ、誰に向かっておちびって言った？
+  d_ex_toyshop_01_9:
+    speaker: soline
+    en: You're probably younger than me!
+    ko: 그러는 네가 더 꼬마거든!
+    ja: そういうあなたこそちびのくせに！
+  d_ex_toyshop_01_10:
+    speaker: belorta
+    en: You're right, I am a child!
+    ko: 맞아~ 난 꼬마야♡
+    ja: そうだよ～私はちびだよ♡
+  d_ex_toyshop_01_11:
+    speaker: mica
+    en: It's always nice to meet a fellow youngster!
+    ko: 헤헤. 우리 같이 어린 니케가 또 왔네요. 기뻐요!
+    ja: |-
+      へへ。私たちみたいに幼いニケが
+      他にもいるんですね。嬉しいです！
+  d_ex_toyshop_01_12:
+    speaker: soline
+    en: I told you, I'm not a kid!
+    ko: 누가 어리다는 거야, 누가!
+    ja: 誰が幼いだって？誰が！
+  d_ex_toyshop_01_13:
+    speaker: soline
+    en: What kind of customer service is this?
+    ko: 씨이… 여기는 손님을 대하는 태도가 왜 이래!
+    ja: くぅ…この店は接客マナーがなってないわ！
+  d_ex_toyshop_01_14:
+    speaker: soline
+    en: Haven't you had any staff training?
+    ko: 직원 교육 안 받았어?
+    ja: 社員教育受けてないの？
+  d_ex_toyshop_01_15:
+    speaker: belorta
+    en: Not me!
+    ko: 안 받았어!
+    ja: 受けてないよ！
+  d_ex_toyshop_01_16:
+    speaker: mica
+    en: What's staff training?
+    ko: 그게 뭐예요?
+    ja: 何ですか？それ。
+  d_ex_toyshop_01_17:
+    speaker: soline
+    en: Wait... you haven't?
+    ko: 아, 안받았어…? 뭐, 뭐냐고?
+    ja: |-
+      え、受けてない…？
+      な、何だか知らないって？
+  d_ex_toyshop_01_18:
+    speaker: soline
+    en: But... but that...
+    ko: 그게….
+    ja: えっと…
+  d_ex_toyshop_01_19:
+    speaker: "<Monologue>"
+    en: Soline seems confused.
+    ko: 솔린이 어쩔 줄 몰라 했다.
+    ja: ソリンが答えに困った
+  d_ex_toyshop_01_20:
+    speaker: Self
+    en: It means being polite to the customers.
+    ko: 친절하게 대해 달라는 거야.
+    ja: 親切に接してほしいという意味だ
+  d_ex_toyshop_01_21:
+    speaker: belorta
+    en: Ah, I get it now.
+    ko: 아~ 그렇구나~
+    ja: あ～そういうことね～
+  d_ex_toyshop_01_22:
+    speaker: belorta
+    en: So our little friend wants the staff to be nice?
+    ko: 우리 꼬마 친구는 친절한 직원을 원하는구나?
+    ja: このおちびちゃんは親切な店員が好きなんだね？
+  d_ex_toyshop_01_23:
+    speaker: mica
+    en: I like nice people, too!
+    ko: 저도 친절한 사람 좋아해요!
+    ja: 私も親切な人は好きです！
+  d_ex_toyshop_01_24:
+    speaker: soline
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_01_25:
+    speaker: soline
+    en: Are you pulling my leg right now?
+    ko: 지금 너네 나 놀리는 거지?
+    ja: あなたたち、私のことからかってるでしょ？
+  d_ex_toyshop_01_26:
+    speaker: soline
+    en: I'm leaving.
+    ko: "…나 갈래."
+    ja: "…もう帰る。"
+  d_ex_toyshop_01_27:
+    speaker: mica
+    en: Hey, don't go!
+    ko: 네? 왜요?
+    ja: え？どうしてですか？
+  d_ex_toyshop_01_28:
+    speaker: mica
+    en: Why don't you stay a while?
+    ko: 조금만 더 놀다 가시면 안 돼요?
+    ja: もうちょっとだけ遊んで行っちゃダメですか？
+  d_ex_toyshop_01_29:
+    speaker: mica
+    en: We can have fun together!
+    ko: 같이 놀고 싶은데….
+    ja: 一緒に遊びたいのに…
+  d_ex_toyshop_01_30:
+    speaker: belorta
+    en: I'll stop teasing, promise.
+    ko: 알겠어. 이제 장난 그만 칠게!
+    ja: ごめんごめん。もうからかったりしないから！
+  d_ex_toyshop_01_31:
+    speaker: soline
+    en: Really?
+    ko: "…정말?"
+    ja: "…本当に？"
+  d_ex_toyshop_01_32:
+    speaker: belorta
+    en: Really!
+    ko: 정말!
+    ja: 本当だよ！
+  d_ex_toyshop_01_33:
+    speaker: mica
+    en: Really?
+    ko: 정말?!
+    ja: 本当！？
+  d_ex_toyshop_01_34:
+    speaker: belorta
+    en: Don't you believe me, Mica?
+    ko: 미카 너는 왜 못 믿는 거야?
+    ja: ミカ、何であなたまで一緒に疑ってるのよ！
+  d_ex_toyshop_01_35:
+    speaker: mica
+    en: Sure I believe you!
+    ko: 아냐! 믿고 있어!
+    ja: そんなことないよ！信じてるよ！
+  d_ex_toyshop_01_36:
+    speaker: soline
+    en: So, what sells best here?
+    ko: 그래서, 여긴 뭐가 제일 잘 팔리는데?
+    ja: んで、この店のお勧め商品は何なの？
+  d_ex_toyshop_01_37:
+    speaker: belorta
+    en: The most popular thing in the shop? That would be...
+    ko: 우리 가게에서 잘 팔리는 거?
+    ja: この店で一番の人気商品が知りたいんだね？
+  d_ex_toyshop_01_38:
+    speaker: belorta
+    en: Nothing!
+    ko: 없어!
+    ja: ないよ！
+  d_ex_toyshop_01_39:
+    speaker: soline
+    en: Nothing?
+    ko: 없다고?
+    ja: ない？
+  d_ex_toyshop_01_40:
+    speaker: belorta
+    en: Yep. No one ever buys anything...
+    ko: 응. 아무도 안 사 가는걸….
+    ja: うん。誰も買ってくれないの…
+  d_ex_toyshop_01_41:
+    speaker: soline
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_toyshop_01_42:
+    speaker: mica
+    en: Not a single customer.
+    ko: 손님이 아무도 없어요….
+    ja: お客さんが1人も来ないんです…
+  d_ex_toyshop_01_43:
+    speaker: soline
+    en: Hey, come on! Chin up!
+    ko: 우, 우울해하지 마! 뭐 이런 걸로 우울해해!
+    ja: |-
+      そ、そんな落ち込まないで！
+      何よ、そんなことくらいで！
+  d_ex_toyshop_01_44:
+    speaker: soline
+    en: H-how about I buy something?
+    ko: 내, 내가 사주면 되겠네!
+    ja: わ、私が買ってあげるから！
+  d_ex_toyshop_01_45:
+    speaker: belorta
+    en: Really? Will you be our customer?
+    ko: 정말? 손님이 돼줄 거야?
+    ja: 本当に？お客さんになってくれるの？
+  d_ex_toyshop_01_46:
+    speaker: mica
+    en: Hehe. Thank you.
+    ko: 헤헤. 감사해요.
+    ja: へへ。ありがとうございます。
+  d_ex_toyshop_01_47:
+    speaker: belorta
+    en: Right this way then. Let me show you something really neat.
+    ko: 그럼 이쪽으로 따라와. 재미있는 걸 보여줄게!
+    ja: |-
+      だったらこっちに来て。
+      面白いものを見せてあげる！
+  d_ex_toyshop_01_48:
+    speaker: belorta
+    en: You stay here for a bit, Old-Timer.
+    ko: 아저씨는 잠깐 여기 있어. 알겠지♡
+    ja: |-
+      おじさんはちょっとここで待ってて。
+      分かったね♡
+  d_ex_toyshop_01_49:
+    speaker: Self
+    en: "... All right."
+    ko: "…알겠어."
+    ja: "…分かった"
+  d_ex_toyshop_01_50:
+    speaker: "<Monologue>"
+    en: Soline follows Belorta inside the shop.
+    ko: 솔린이 벨로타를 따라 가게 안쪽으로 들어갔다.
+    ja: ソリンがベロータに連れられて店の奥に入った
+  d_ex_toyshop_01_51:
+    speaker: soline
+    en: Gah, you scared me! What is this thing coming from a box?!
+    ko: 으아! 깜짝이야! 왜 상자에서 이런 게 튀어나와!
+    ja: |-
+      うわっ！びっくりした！
+      何で箱の中からこんなものが飛び出すの！
+  d_ex_toyshop_01_52:
+    speaker: mica
+    en: Belorta, you said you wouldn't surprise her...
+    ko: 베, 벨로타… 놀라게 하지 않겠다고….
+    ja: |-
+      ベ、ベロータ…
+      からかわないって約束したんじゃ…
+  d_ex_toyshop_01_53:
+    speaker: mica
+    en: Gah! The ground is gonna cave in!
+    ko: 으, 으앗! 땅이 무너졌어!
+    ja: う、うわっ！地面に穴が！
+  d_ex_toyshop_01_54:
+    speaker: belorta
+    en: Hehehe! Isn't this fun?
+    ko: 꺄하하! 재밌지!
+    ja: きゃはは！面白～い！
+  d_ex_toyshop_01_55:
+    speaker: soline
+    en: Maybe for you!
+    ko: 너…! 너어어!
+    ja: ちょっと…！あなたぁぁ！
+  d_ex_toyshop_01_56:
+    speaker: soline
+    en: Yeesh!
+    ko: 으악!
+    ja: うあっ！
+  d_ex_toyshop_01_57:
+    speaker: "<Monologue>"
+    en: More noise comes from inside the shop.
+    ko: 가게 안쪽에서 시끄러운 소리가 조금 더 들려왔다.
+    ja: 店の奥から少しうるさい音が聞こえてきた
+  d_ex_toyshop_01_58:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_01_59:
+    speaker: Narration
+    en: A few moments later.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_toyshop_01_60:
+    speaker: soline
+    en: Snakes popping out of a gift box...
+    ko: 선물 상자를 열었더니 뱀이 튀어나오질 않나.
+    ja: 箱のふたを開けたらヘビは出てくるわ、
+  d_ex_toyshop_01_61:
+    speaker: soline
+    en: The ground giving way when I go to see a doll..
+    ko: 인형을 보러 갔더니 바닥이 꺼지질 않나!
+    ja: 人形を見に行ったら落とし穴には落とされるわ！
+  d_ex_toyshop_01_62:
+    speaker: soline
+    en: This is no toy shop, it's just a prank shop!
+    ko: "이게 무슨 장난감 가게야! \n장난만 치는 장난 가게지!"
+    ja: |-
+      これのどこがおもちゃ屋さんよ！
+      ただイタズラするだけじゃない！
+  d_ex_toyshop_01_63:
+    speaker: soline
+    en: No wonder you all can't sell anything!
+    ko: 이러니까 장난감이 하나도 안 팔리는 거 아냐!
+    ja: おもちゃが売れない理由が分かるわ！
+  d_ex_toyshop_01_64:
+    speaker: belorta
+    en: But didn't you have fun?
+    ko: 그래도 재미있지 않았어?
+    ja: でも楽しかったでしょ？
+  d_ex_toyshop_01_65:
+    speaker: soline
+    en: Not at all!
+    ko: 하나도 안 재미있었거든!
+    ja: ちっとも楽しくなかったわ！
+  d_ex_toyshop_01_66:
+    speaker: soline
+    en: I'm never coming back here!
+    ko: 내가 여기 다시 오나 봐라!
+    ja: 二度とここには来ないんだから！
+  d_ex_toyshop_01_67:
+    speaker: mica
+    en: Never?
+    ko: 정말 다시 안 오실 거예요?
+    ja: 本当にもう来てくれないんですか？
+  d_ex_toyshop_01_68:
+    speaker: soline
+    en: Never!
+    ko: 그럼 정말 안 오…!
+    ja: もちろん。二度と来な…！
+  d_ex_toyshop_01_69:
+    speaker: mica
+    en: I... I understand. If you don't like us, that's fine.
+    ko: 모처럼 친구가 생긴 줄 알고 좋아했는데….
+    ja: |-
+      せっかく友だちができたと思って
+      嬉しかったのに…
+  d_ex_toyshop_01_70:
+    speaker: mica
+    en: I was so happy to finally have a friend...
+    ko: 우으으… 알겠어요. 저희가 싫으시면 어쩔 수 없죠.
+    ja: |-
+      うぅぅ…分かりました。
+      私たちが嫌なら仕方ありません。
+  d_ex_toyshop_01_71:
+    speaker: soline
+    en: Huh? Hey, what are you so down for?
+    ko: 뭐야, 왜 그렇게 실망하는 건데.
+    ja: 何よ、どうしてそんなにがっかりするのよ。
+  d_ex_toyshop_01_72:
+    speaker: belorta
+    en: I'm sorry. I didn't know you would hate it this much.
+    ko: 미안해. 이렇게까지 싫어할 줄은 몰랐어.
+    ja: |-
+      ごめんなさい。
+      ここまで嫌がるとは思ってなかったの。
+  d_ex_toyshop_01_73:
+    speaker: soline
+    en: Um... hey... don't beat yourself up too much.
+    ko: 너, 넌 또 왜 이래!
+    ja: あ、あなたまでどういうことよ！
+  d_ex_toyshop_01_74:
+    speaker: soline
+    en: I dunno... maybe I'll come back sometime.
+    ko: 으으… 몰라! 하, 한 번은 더 와주지 뭐!
+    ja: |-
+      うぅ…もう知らない！
+      いっ、1回くらいならまた来てあげるから！
+  d_ex_toyshop_01_75:
+    speaker: belorta
+    en: Really? Thank you!
+    ko: 진짜? 고마워!
+    ja: 本当？ありがとう！
+  d_ex_toyshop_01_76:
+    speaker: mica
+    en: Thank you, Soline!
+    ko: 고마워요, 솔린!
+    ja: ありがとう、ソリン！
+  d_ex_toyshop_01_77:
+    speaker: soline
+    en: Jeez, you're easy to please...
+    ko: 좋아하기는….
+    ja: 単純な奴…
+  d_ex_toyshop_01_78:
+    speaker: soline
+    en: Well... I'll be going then. See you later... or maybe not. I don't know.
+    ko: 나, 난 그럼 가볼 테니까. 다음에 보든가 말든가….
+    ja: |-
+      じゃあ、私はもう帰るわ。また会うかも
+      しれないし、会わないかもしれないけど…
+  d_ex_toyshop_01_79:
+    speaker: Narration
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_01_80:
+    speaker: "<Monologue>"
+    en: Soline leaves.
+    ko: 솔린이 떠나갔다.
+    ja: ソリンが去って行った
+  d_ex_toyshop_01_81:
+    speaker: mica
+    en: Wow, a new friend!
+    ko: 우와아! 친구! 새 친구가 생겼어요!
+    ja: うわあ！友だち！新しい友だちができました！
+  d_ex_toyshop_01_82:
+    speaker: belorta
+    en: We finally have someone else to prank other than Mica!
+    ko: 흐흥~ 미카 말고 또 놀려먹을 애가 생겼네♡
+    ja: |-
+      フフン～
+      ミカ以外にまた1人新しくからかう子、
+      み～つけた♡
+  d_ex_toyshop_01_83:
+    speaker: mica
+    en: Huh? Prank? Who?
+    ko: 응? 놀려먹어? 누굴?
+    ja: え？新しくからかう？誰を？
+  d_ex_toyshop_01_84:
+    speaker: belorta
+    en: Never mind, it's nothing.
+    ko: 아무것도 아냐.
+    ja: 何でもない。
+  d_ex_toyshop_01_85:
+    speaker: Self
+    en: "... I feel bad for Soline."
+    ko: "…솔린이 불쌍하네."
+    ja: "…ソリンがかわいそうだ"
+  d_ex_toyshop_01_86:
+    speaker: belorta
+    en: Feel bad? How come? Being friends is a good thing!
+    ko: "불쌍하다니? \n아저씨. 친구는 좋은 거야~"
+    ja: |-
+      かわいそう？
+      おじさん。友だちはいいものだよ～
+  d_ex_toyshop_01_87:
+    speaker: mica
+    en: Right! Friends are great!
+    ko: 맞아요! 친구는 좋은 거예요!
+    ja: そうです！友だちはいいものです！
+  d_ex_toyshop_01_88:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_01_89:
+    speaker: "<Monologue>"
+    en: I pity Soline for what she is about to go through.
+    ko: 솔린의 앞날에 조의를 표했다.
+    ja: ソリンの前途の平穏を祈った
+d_ex_toyshop_02:
+  d_ex_toyshop_02_1:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_02_2:
+    speaker: belorta
+    en: Hey there, Old-Timer.
+    ko: 아저씨 어서 와♡
+    ja: おじさん、いらっしゃい♡
+  d_ex_toyshop_02_3:
+    speaker: mica
+    en: Hello, Old-Timer!
+    ko: 안녕하세요! 아저씨!
+    ja: こんにちは、おじさん！
+  d_ex_toyshop_02_4:
+    speaker: "<Monologue>"
+    en: The shop is dimly lit, and eerie music is playing softly.
+    ko: "가게는 어두운 조명과 함께 \n무서운 음악이 잔잔하게 흘러나왔고."
+    ja: |-
+      店には暗い照明とともに
+      怖い音楽が静かに流れており
+  d_ex_toyshop_02_5:
+    speaker: "<Monologue>"
+    en: There is a mannequin dressed as a ghost, and the toys are displayed haphazardly.
+    ko: |-
+      귀신 분장을 한 마네킹과
+      장난감들이 기괴하게 전시되어 있었다.
+    ja: |-
+      お化けの化粧をしたマネキンと
+      おもちゃが奇妙に並んでいた
+  d_ex_toyshop_02_6:
+    speaker: "<Self>"
+    en: Did you turn the place into a haunted house?
+    ko: 귀신의 집이야?
+    ja: お化け屋敷か？
+  d_ex_toyshop_02_7:
+    speaker: belorta
+    en: Yeah, we were bored, so we thought we'd do some redecorating.
+    ko: 맞아. 심심해서 장난감 가게를 귀신의 집으로 개조해 봤어.
+    ja: |-
+      うん、暇だったからおもちゃ屋を
+      お化け屋敷へ改造してみたの。
+  d_ex_toyshop_02_8:
+    speaker: belorta
+    en: What do you think? Pretty creepy, right?
+    ko: 어때? 완전 으스스하지♡
+    ja: どう？すごく怖いでしょ♡
+  d_ex_toyshop_02_9:
+    speaker: "<Self>"
+    en: I feel like a ghost is going to pop out and get me.
+    ko: 진짜 귀신 나올 것 같아.
+    ja: 本物のお化けが出てきそうだ
+  d_ex_toyshop_02_10:
+    speaker: belorta
+    en: Nice! Mica and I worked hard on it.
+    ko: 정말? 미카랑 내가 열심히 꾸몄지♡
+    ja: 本当？ミカと一生懸命飾ったの♡
+  d_ex_toyshop_02_11:
+    speaker: mica
+    en: It wasn't easy, but I'm proud of it.
+    ko: 으으~ 진짜 힘들었는데 뿌듯해요!
+    ja: |-
+      うう～本当に大変だったんですけど、
+      そう言われて嬉しいです！
+  d_ex_toyshop_02_12:
+    speaker: belorta
+    en: Now you can help us out.
+    ko: 이제 아저씨가 우릴 도와주면 될 것 같아♡
+    ja: 後はおじさんが手伝ってくたら完璧よ♡
+  d_ex_toyshop_02_13:
+    speaker: "<Self>"
+    en: How can I help?
+    ko: 어떻게 도와주면 돼?
+    ja: 何を手伝えばいい？
+  d_ex_toyshop_02_14:
+    speaker: belorta
+    en: Since it's a haunted house and all, I want you to dress up as something scary!
+    ko: "아무래도 귀신의 집이니까 \n엄청 무서운 귀신으로 분장해 줬으면 좋겠어♡"
+    ja: |-
+      やっぱりお化け屋敷だから
+      すごく怖いお化けに仮装してほしいな♡
+  d_ex_toyshop_02_15:
+    speaker: "<Self>"
+    en: I'll do it.
+    ko: 그래. 그러도록 할게.
+    ja: 分かった。そうしよう
+  d_ex_toyshop_02_16:
+    speaker: belorta
+    en: Woo-hoo! Thanks! What kind of costume would you like to wear?
+    ko: 꺄아~ 고마워! 그럼 아저씨는 무슨 분장하고 싶어?
+    ja: |-
+      きゃ～ありがとう！
+      じゃあ、おじさんはどんな仮装がいい？
+  d_ex_toyshop_02_17:
+    speaker: "<Choice>"
+    en: A grim reaper.
+    ko: 저승사자.
+    ja: 死神
+  d_ex_toyshop_02_18:
+    speaker: "<Choice>"
+    en: A goblin.
+    ko: 도깨비.
+    ja: 鬼
+  d_ex_toyshop_02_19:
+    speaker: belorta
+    en: That should suit you perfectly!
+    ko: 저승사자 아저씨♡ 너무 잘 어울리겠다!
+    ja: 死神のおじさん♡きっと似合うよ！
+  d_ex_toyshop_02_20:
+    speaker: belorta
+    en: I'll go get the grim reaper costume.
+    ko: 저승사자로 분장시켜 줄게♡
+    ja: 死神に仮装させてあげるね♡
+  d_ex_toyshop_02_21:
+    speaker: belorta
+    en: That should suit you perfectly!
+    ko: 도깨비 아저씨♡ 너무 잘 어울리겠다!
+    ja: 鬼のおじさん♡きっと似合うよ！
+  d_ex_toyshop_02_22:
+    speaker: belorta
+    en: I'll go get the goblin costume.
+    ko: 도깨비로 분장시켜 줄게♡
+    ja: 鬼に仮装させてあげるね♡
+  d_ex_toyshop_02_23:
+    speaker: mica
+    en: Um, Belorta... we don't have a goblin costume.
+    ko: 어? 어어어어? 벨로타! 도깨비 분장 세트가 없어!
+    ja: |-
+      あ、あれ？ベロータ！
+      鬼の仮装セットがないよ！
+  d_ex_toyshop_02_24:
+    speaker: belorta
+    en: Oh... no worries. You'll just have to be the grim reaper then!
+    ko: 흐응~ 어쩔 수 없네. 저승사자 아저씨 해야겠다♡
+    ja: ふ～ん、仕方ないね。死神のおじさんにしよ♡
+  d_ex_toyshop_02_25:
+    speaker: "<Self>"
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かった
+  d_ex_toyshop_02_26:
+    speaker: "<Narration>"
+    en: A moment later.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_toyshop_02_27:
+    speaker: belorta
+    en: Tah-dah!
+    ko: 짠! 완성♡
+    ja: じゃーん！完成♡
+  d_ex_toyshop_02_28:
+    speaker: mica
+    en: Wow, you really do look like the grim reaper!
+    ko: 우와! 아저씨 진짜 저승사자 같아요!
+    ja: うわぁ！おじさん、本物の死神みたいです！
+  d_ex_toyshop_02_29:
+    speaker: belorta
+    en: I'm scared you're gonna get me!
+    ko: 잡아갈까 봐 무서운걸~♡
+    ja: 連れていかれそうで怖い～♡
+  d_ex_toyshop_02_30:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_02_31:
+    speaker: maiden
+    en: Is this it...?
+    ko: 흠, 여기엔 있으려나….
+    ja: うーん、ここにはあるかな…
+  d_ex_toyshop_02_32:
+    speaker: maiden
+    en: It can't be, this is a toy store...
+    ko: 장난감 가게 상태를 보니… 없을 것 같은데….
+    ja: 店の状態からして…なさそうだけど…
+  d_ex_toyshop_02_33:
+    speaker: maiden
+    en: Commander? What are you doing here?
+    ko: 지휘관? 여기서 뭐하고 계시는 거죠?
+    ja: 指揮官？ここで何をしているんですか？
+  d_ex_toyshop_02_34:
+    speaker: "<Self>"
+    en: Just helping out.
+    ko: 일을 도와주고 있어.
+    ja: 人助けをしている
+  d_ex_toyshop_02_35:
+    speaker: maiden
+    en: You don't look so good...
+    ko: 어머, 근데 지휘관! 안색이 안 좋아 보여요.
+    ja: あら、でも指揮官！具合が悪そうです。
+  d_ex_toyshop_02_36:
+    speaker: maiden
+    en: Your face is all white...
+    ko: 얼굴도 하얗게 질리고...
+    ja: 顔も真っ白だし…
+  d_ex_toyshop_02_37:
+    speaker: "<Self>"
+    en: I'm dressed as the grim reaper.
+    ko: 저승사자 분장한 거야.
+    ja: 死神メイクだ
+  d_ex_toyshop_02_38:
+    speaker: maiden
+    en: Oh, that explains it! You really pull it off.
+    ko: 아! 저승사자가 되셨군요! 잘 어울리시네요.
+    ja: |-
+      あ～！死神になったんですね！
+      よくお似合いです。
+  d_ex_toyshop_02_39:
+    speaker: maiden
+    en: Anyway, do you guys happen to have this limited edition figu...
+    ko: 근데 혹시 이곳에 한정판 피규어가 있….
+    ja: |-
+      ところで、
+      もしかしてここに限定のフィギュアが…
+  d_ex_toyshop_02_40:
+    speaker: maiden
+    en: "???"
+    ko: 어?
+    ja: あれ？
+  d_ex_toyshop_02_41:
+    speaker: maiden
+    en: Wait a sec...
+    ko: 어어어?
+    ja: あれれ？
+  d_ex_toyshop_02_42:
+    speaker: maiden
+    en: That's it!!
+    ko: 여기에 있었다니!
+    ja: ここにある…！
+  d_ex_toyshop_02_43:
+    speaker: "<Monologue>"
+    en: Full of excitement, Maiden rushes towards a figurine in the toy store.
+    ko: |-
+      메이든은 장난감 가게를 둘러보다
+      한껏 들뜬 목소리로 피규어가 있는 쪽으로 다가갔다.
+    ja: |-
+      メイデンは店の中を見渡し
+      はしゃぎながらフィギュアがある方に近づいた
+  d_ex_toyshop_02_44:
+    speaker: maiden
+    en: I can't believe I found this here...
+    ko: 이걸 여기서 구할 수 있다니….
+    ja: こんなところにあったなんて…
+  d_ex_toyshop_02_45:
+    speaker: maiden
+    en: Are you talking about this one?
+    ko: 이 피규어 얼만가요?
+    ja: このフィギュア、いくらですか？
+  d_ex_toyshop_02_46:
+    speaker: belorta
+    en: You plan on buying it?
+    ko: 흐흥~ 그거 살 거야?
+    ja: フフ～ン、それ買うの？
+  d_ex_toyshop_02_47:
+    speaker: maiden
+    en: Of course! This is a limited edition figurine!
+    ko: 당연하죠! 한정판 피규어 인걸요!
+    ja: |-
+      もちろんです！
+      限定のフィギュアじゃないですか！
+  d_ex_toyshop_02_48:
+    speaker: maiden
+    en: Do you know how hard it is to find this?
+    ko: 저게 얼마나 구하기 힘든건데요.
+    ja: なかなか手に入らないものですよ。
+  d_ex_toyshop_02_49:
+    speaker: belorta
+    en: I'm afraid that's for display only. It's not for sale.
+    ko: 근데 그거 전시용이라 안 팔아~!
+    ja: でもそれ、展示用だから売らない～！
+  d_ex_toyshop_02_50:
+    speaker: maiden
+    en: What do I need to do to make you change your mind?
+    ko: 네?! 그럼 어떻게 해야 파실 건가요?
+    ja: はい！？どうすれば売ってくれますか？
+  d_ex_toyshop_02_51:
+    speaker: belorta
+    en: Pitch in with our haunted house.
+    ko: 아르바이트!
+    ja: アルバイト！
+  d_ex_toyshop_02_52:
+    speaker: maiden
+    en: Huh?!
+    ko: 아, 아르바이트요?!
+    ja: ア、アルバイト！？
+  d_ex_toyshop_02_53:
+    speaker: belorta
+    en: That's right. As you can see, we worked our butts off turning the toy shop
+      into a haunted house.
+    ko: "응! 보다시피 우리가 장난감 가게를 \n귀신의 집으로 열심히 개조해놨거든~"
+    ja: |-
+      うん！見ての通り、このおもちゃ屋を
+      頑張ってお化け屋敷に変えたんだ～
+  d_ex_toyshop_02_54:
+    speaker: belorta
+    en: I want you to dress up, then hide and surprise any customers that come in.
+    ko: 귀신 분장하고 숨어 있다가 깜짝 놀래켜 주는 거지!
+    ja: |-
+      お化けの仮装をして隠れて、
+      お客さんが来たらびっくりさせるの！
+  d_ex_toyshop_02_55:
+    speaker: belorta
+    en: If you do that, the figurine is all yours.
+    ko: 그럼 그 대가로 피규어를 팔도록 할게♡
+    ja: |-
+      それをしてくれたら、
+      そのフィギュアを売ってあげる♡
+  d_ex_toyshop_02_56:
+    speaker: maiden
+    en: I don't know... Sounds like a lot...
+    ko: 하아… 귀찮은데….
+    ja: はあ…面倒くさい…
+  d_ex_toyshop_02_57:
+    speaker: maiden
+    en: Fine, I'll do it.
+    ko: 알겠어요. 일단 하도록 하죠.
+    ja: 分かりました、とりあえずやります。
+  d_ex_toyshop_02_58:
+    speaker: belorta
+    en: Excellent! What should we dress her up as?
+    ko: 좋아♡ 메이든은 뭐로 분장시키는 게 좋을까?
+    ja: よし♡メイデンはどんな仮装がいいかな？
+  d_ex_toyshop_02_59:
+    speaker: "<Choice>"
+    en: A creepy ghost girl.
+    ko: 처녀귀신.
+    ja: 鬼女
+  d_ex_toyshop_02_60:
+    speaker: "<Choice>"
+    en: An egg ghost.
+    ko: 달걀귀신.
+    ja: のっぺらぼう
+  d_ex_toyshop_02_61:
+    speaker: belorta
+    en: Actually, she already looks pretty scary as is. I don't think we even need
+      to give her a costume.
+    ko: "꺄아~ 좋아~! 근데 메이든은 지금도 무섭게 생겨서 \n분장 안 해도 될 것 같아♡"
+    ja: |-
+      きゃあ～いいね～！でも、
+      メイデンはこのままでも怖いから
+      仮装しなくても良さそう♡
+  d_ex_toyshop_02_62:
+    speaker: mica
+    en: Yeah, she's already super freaky!
+    ko: 맞아! 지금도 충분히 무서워!
+    ja: そう！もう怖い！
+  d_ex_toyshop_02_63:
+    speaker: maiden
+    en: Is... that a compliment?
+    ko: 칭, 칭찬인 거죠?
+    ja: ほ、褒めているんですよね？
+  d_ex_toyshop_02_64:
+    speaker: belorta
+    en: Yes! You fit perfectly with the haunted house.
+    ko: 응! 귀신의 집이랑 딱 어울리는걸♡
+    ja: うん！お化け屋敷にピッタリだもん♡
+  d_ex_toyshop_02_65:
+    speaker: belorta
+    en: Hide here under the table. When a customer arrives, you can give them a good
+      scare.
+    ko: |-
+      여기 탁자 아래에 있다가
+      손님이 왔을 때 깜짝 놀래켜 주면 돼~!
+    ja: |-
+      このテーブルの下に隠れて
+      お客さんが来たらびっくりさせて～！
+  d_ex_toyshop_02_66:
+    speaker: maiden
+    en: Got it.
+    ko: 알겠어요.
+    ja: 分かりました。
+  d_ex_toyshop_02_67:
+    speaker: "<Monologue>"
+    en: Maiden heads under the table and gets in position.
+    ko: 메이든은 탁자 아래로 들어가 자리 잡았다.
+    ja: メイデンはテーブルの下に陣取った
+  d_ex_toyshop_02_68:
+    speaker: maiden
+    en: Wow, it's actually pretty comfortable down here.
+    ko: 여기 꽤나 편하네요. 움직이지 않아도 되고.
+    ja: ここ、結構楽ですね。動かなくてもいいし。
+  d_ex_toyshop_02_69:
+    speaker: "<Narration>"
+    en: A moment later.
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_toyshop_02_70:
+    speaker: maiden
+    en: Where are all the customers?
+    ko: 손님이 안 오네요.
+    ja: お客さん、来ませんね。
+  d_ex_toyshop_02_71:
+    speaker: belorta
+    en: Don't worry, they'll come soon.
+    ko: 흐흥~ 기다리면 곧 올 거야♡
+    ja: フフン～、待てばすぐ来るよ♡
+  d_ex_toyshop_02_72:
+    speaker: "<Narration>"
+    en: 3 hours later.
+    ko: 3시간 후.
+    ja: 3時間後
+  d_ex_toyshop_02_73:
+    speaker: "<Self>"
+    en: Are you sure anyone is coming?
+    ko: 손님이 오긴 오는 거야?
+    ja: 本当に客が来るのか？
+  d_ex_toyshop_02_74:
+    speaker: mica
+    en: Aw man... After all that work, no one's gonna even show up...
+    ko: 우우… 열심히 꾸몄는데 지금까지 한 명도 안 왔어요….
+    ja: うう…頑張って飾ったのに、1人も来ません…
+  d_ex_toyshop_02_75:
+    speaker: maiden
+    en: How long do I have to stay here?
+    ko: 언제까지 여기에 있어야 하죠?
+    ja: いつまでここにいさせるんですか？
+  d_ex_toyshop_02_76:
+    speaker: "<Narration>"
+    en: 5 hours later.
+    ko: 5시간 후.
+    ja: 5時間後
+  d_ex_toyshop_02_77:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_02_78:
+    speaker: belorta
+    en: Hmm, seems like a slow day.
+    ko: 흐응~ 오늘따라 손님이 안 오네~?
+    ja: ふ～ん、今日はお客さんが来ないね～？
+  d_ex_toyshop_02_79:
+    speaker: "<Narration>"
+    en: 8 hours later.
+    ko: 8시간 후.
+    ja: 8時間後
+  d_ex_toyshop_02_80:
+    speaker: "<Self>"
+    en: It's time to close the shop.
+    ko: 마감 시간이야.
+    ja: 閉店時間だ
+  d_ex_toyshop_02_81:
+    speaker: mica
+    en: Jeez, not even a single person...
+    ko: 우우... 정말 단 한 명도 안 오다니….
+    ja: うう…本当に1人も来ないなんて…
+  d_ex_toyshop_02_82:
+    speaker: belorta
+    en: That's okay! We'll try again another day.
+    ko: 괜찮아~! 다음에 또 하면 되지♡
+    ja: 大丈夫だよ～！またやればいい♡
+  d_ex_toyshop_02_83:
+    speaker: belorta
+    en: Maiden, you can come out now.
+    ko: 메이든, 이제 나와도 돼~!
+    ja: メイデン、もう出てきてもいいよ～！
+  d_ex_toyshop_02_84:
+    speaker: maiden
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_02_85:
+    speaker: mica
+    en: Huh? Maiden fell asleep!
+    ko: 어? 메이든 잠들었다!
+    ja: あれ？メイデン、眠ってる！
+  d_ex_toyshop_02_86:
+    speaker: "<Monologue>"
+    en: When we all look under the table, we see Maiden crouched down, fast asleep.
+    ko: |-
+      다 같이 테이블 밑을 봤을 땐,
+      쭈그려 앉아 곤히 잠들어버린 메이든이 있었다.
+    ja: |-
+      みんながテーブルの下をのぞくと、
+      しゃがんだまま眠りこけているメイデンがいた
+  d_ex_toyshop_02_87:
+    speaker: belorta
+    en: Huh, she fell asleep.
+    ko: 흐응~ 잠들어 버리다니.
+    ja: ふ～ん、眠っちゃうなんて。
+  d_ex_toyshop_02_88:
+    speaker: belorta
+    en: How unprofessional! There's no way we can sell her that figurine now.
+    ko: 근무태만으로 한정판 피규어는 못 주겠는걸♡
+    ja: |-
+      職務怠慢だから
+      限定フィギュアはあげられないな♡
+  d_ex_toyshop_02_89:
+    speaker: "<Monologue>"
+    en: In the end, Maiden was not able to obtain the limited edition figurine.
+    ko: 메이든은 결국 한정판 피규어를 손에 넣지 못했고.
+    ja: |-
+      メイデンは結局、限定フィギュアを
+      手に入れることができず
+  d_ex_toyshop_02_90:
+    speaker: "<Monologue>"
+    en: From a distance, people could hear her screams from inside the toy shop.
+    ko: 잠에서 깬 메이든의 절규만이 장난감 가게에 들려왔다.
+    ja: |-
+      目が覚めたメイデンの絶叫が
+      おもちゃ屋に鳴り響くだけだった
+d_ex_toyshop_03:
+  d_ex_toyshop_03_1:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_03_2:
+    speaker: diesel
+    en: Welcome!
+    ko: 어서 오세요~
+    ja: いらっしゃいませ～
+  d_ex_toyshop_03_3:
+    speaker: "<Self>"
+    en: Diesel?
+    ko: 디젤?
+    ja: ディーゼル？
+  d_ex_toyshop_03_4:
+    speaker: diesel
+    en: Oh, hey Commander. What are you doing here?
+    ko: 어머~ 지휘관~ 여긴 어쩐 일이세요?
+    ja: あら～指揮官～どうしたんですか？
+  d_ex_toyshop_03_5:
+    speaker: "<Self>"
+    en: I should ask you the same thing.
+    ko: 내가 묻고 싶은 말이야.
+    ja: こっちのセリフだ
+  d_ex_toyshop_03_6:
+    speaker: diesel
+    en: Fair enough.
+    ko: 음, 그러게요~
+    ja: まあ、そうですよね～
+  d_ex_toyshop_03_7:
+    speaker: diesel
+    en: I dropped by to look at some toys, but
+    ko: 장난감 구경 할 겸 들렀는데.
+    ja: おもちゃを見たくて寄ったんですけど、
+  d_ex_toyshop_03_8:
+    speaker: diesel
+    en: Belorta and Mica ended up asking me to watch the store for a bit.
+    ko: 벨로타와 미카가 가게를 잠깐 봐달라는 거예요~
+    ja: ベロータとミカに店番を頼まれたんですよ～
+  d_ex_toyshop_03_9:
+    speaker: diesel
+    en: I didn't have any plans, so I said yes, but
+    ko: 마침 시간도 남아서 알겠다고 했는데.
+    ja: 時間もあったんで承諾したんですけど、
+  d_ex_toyshop_03_10:
+    speaker: diesel
+    en: they're still not back...
+    ko: 아직까지 나타나나질 않네요~
+    ja: 帰ってきませんね～
+  d_ex_toyshop_03_11:
+    speaker: diesel
+    en: I've been handing out strawberry candy to the customers.
+    ko: 그래서 지금까지 오신 손님들에게 딸기 사탕을 주고 있었어요~
+    ja: |-
+      だから、来てくれたお客さんに
+      イチゴキャンディをあげていました～
+  d_ex_toyshop_03_12:
+    speaker: diesel
+    en: Commander, if it's okay with you, would you like to keep me company?
+    ko: 지휘관도 괜찮으시면 저랑 같이 있으실래요?
+    ja: |-
+      指揮官もよろしければ、
+      私と一緒に店番しませんか？
+  d_ex_toyshop_03_13:
+    speaker: "<Self>"
+    en: Understood.
+    ko: 알겠어.
+    ja: 分かった
+  d_ex_toyshop_03_14:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_03_15:
+    speaker: diesel
+    en: Welcome!
+    ko: 어서 오세요~
+    ja: いらっしゃいませ～
+  d_ex_toyshop_03_16:
+    speaker: admi
+    en: Diesel? Commander?
+    ko: 어? 디젤이랑 지휘관이 여기에 계시다니.
+    ja: え？ディーゼルと指揮官がどうしてここに？
+  d_ex_toyshop_03_17:
+    speaker: admi
+    en: What are you two doing here?
+    ko: 두 분 여기서 뭐하고 계시나요?
+    ja: ここで何をしているんですか？
+  d_ex_toyshop_03_18:
+    speaker: "<Self>"
+    en: Just some part-time work.
+    ko: 일일 아르바이트생 체험 중이야.
+    ja: 1日バイト体験をしているところだ
+  d_ex_toyshop_03_19:
+    speaker: diesel
+    en: So we're part-timers, then?
+    ko: 음~ 저희 일일 아르바이트생인 건가요~?
+    ja: ふむ～私たちは1日バイトだったんですか～？
+  d_ex_toyshop_03_20:
+    speaker: diesel
+    en: I guess you're right.
+    ko: 그것도 좋네요~
+    ja: それもいいですね～
+  d_ex_toyshop_03_21:
+    speaker: "<Self>"
+    en: Looking for anything today?
+    ko: 장난감 가게엔 무슨 일이야?
+    ja: おもちゃ屋には何の用だ？
+  d_ex_toyshop_03_22:
+    speaker: admi
+    en: Yeah, I'm looking for a cat toy.
+    ko: 아, 고양이 장난감을 사러 왔어요.
+    ja: あ、ネコのおもちゃを買いにきました。
+  d_ex_toyshop_03_23:
+    speaker: admi
+    en: A few days ago, my cat
+    ko: 며칠 전에 고양이들한테.
+    ja: この前ネコたちと
+  d_ex_toyshop_03_24:
+    speaker: admi
+    en: started playing with a string, and he loved it.
+    ko: 끈으로 놀아주니까 되게 좋아하더라고요.
+    ja: ヒモで遊んであげたんですけど、すごく喜んで。
+  d_ex_toyshop_03_25:
+    speaker: admi
+    en: So I thought it might be good to get him a proper cat toy...
+    ko: 그래서 고양이 장난감이 하나 있으면 좋겠다 싶어서….
+    ja: だからネコのおもちゃが欲しくなって…
+  d_ex_toyshop_03_26:
+    speaker: diesel
+    en: I think we've got just the ticket.
+    ko: 아~ 그렇구나!
+    ja: あ～そういうことですね！
+  d_ex_toyshop_03_27:
+    speaker: diesel
+    en: Which do you think would be best, Commander?
+    ko: 음… 지휘관 어떤 게 좋을까요~?
+    ja: ふむ…指揮官、何がいいでしょうか～？
+  d_ex_toyshop_03_28:
+    speaker: "<Choice>"
+    en: A cat wand.
+    ko: 고양이 낚싯대.
+    ja: ネコじゃらし
+  d_ex_toyshop_03_29:
+    speaker: "<Choice>"
+    en: A shoelace.
+    ko: 신발 끈.
+    ja: 靴ひも
+  d_ex_toyshop_03_30:
+    speaker: diesel
+    en: Sounds good.
+    ko: 음~ 좋네요~
+    ja: ああ～いいですね～
+  d_ex_toyshop_03_31:
+    speaker: diesel
+    en: But where do you think they stock those?
+    ko: 근데 고양이 낚싯대가 어디 있을까요~?
+    ja: |-
+      でも、ネコじゃらしは
+      どこにあるんでしょうか～？
+  d_ex_toyshop_03_32:
+    speaker: diesel
+    en: I'm sure that'd work,
+    ko: 신발 끈 좋네요~
+    ja: 靴ひもいいですね～
+  d_ex_toyshop_03_33:
+    speaker: diesel
+    en: but do you think they'd sell shoe laces at a toy shop?
+    ko: 근데 장난감 가게에 신발 끈이 있을까요~?
+    ja: |-
+      でも、おもちゃ屋に靴ひもが
+      あるんでしょうか～？
+  d_ex_toyshop_03_34:
+    speaker: admi
+    en: If you can't find them, I can come back later.
+    ko: 아, 혹시 못 찾겠으면 다음에 다시 올게요.
+    ja: あ、見つからないならまた今度来ます。
+  d_ex_toyshop_03_35:
+    speaker: diesel
+    en: Is that okay?
+    ko: 그래도 괜찮나요~?
+    ja: いいんですか～？
+  d_ex_toyshop_03_36:
+    speaker: diesel
+    en: Sorry, this is actually my first time being inside a toy shop.
+    ko: "후후, 미안해요. \n제가 장난감 가게는 처음이라~"
+    ja: |-
+      ふふ、すみません。
+      私、おもちゃ屋は初めてなもので～
+  d_ex_toyshop_03_37:
+    speaker: admi
+    en: It's okay. It's nothing urgent.
+    ko: 괜찮아요. 급한 거 아니니까.
+    ja: 大丈夫です、急ぎじゃないですから。
+  d_ex_toyshop_03_38:
+    speaker: diesel
+    en: In that case...
+    ko: 아, 그럼~
+    ja: あ、じゃあ～
+  d_ex_toyshop_03_39:
+    speaker: "<Self>"
+    en: "???"
+    ko: "???"
+    ja: "？？？"
+  d_ex_toyshop_03_40:
+    speaker: diesel
+    en: have some strawberry candy!
+    ko: 여기, 딸기 사탕!
+    ja: どうぞ、イチゴキャンディです！
+  d_ex_toyshop_03_41:
+    speaker: admi
+    en: Wow! Looks delicious.
+    ko: 와, 맛있어 보이네요.
+    ja: わあ、おいしそうですね。
+  d_ex_toyshop_03_42:
+    speaker: diesel
+    en: You came all the way here so I don't want you to leave empty-handed.
+    ko: 기껏 왔는데 빈손으로 돌아가면 조금 그렇잖아요~?
+    ja: |-
+      せっかく来たのに、
+      手ぶらで帰るのは寂しいでしょう～？
+  d_ex_toyshop_03_43:
+    speaker: diesel
+    en: Candy makes everything better!
+    ko: 달달한 딸기 사탕을 먹으면 기분이 좋아질 거랍니다~
+    ja: |-
+      甘いイチゴキャンディを食べると、
+      気分がよくなりますよ～
+  d_ex_toyshop_03_44:
+    speaker: admi
+    en: Thanks, I'll come back later.
+    ko: 감사합니다. 그럼 다음에 또 올게요.
+    ja: ありがとうございます、また来ます。
+  d_ex_toyshop_03_45:
+    speaker: admi
+    en: Take care, you two.
+    ko: 안녕히 계세요. 지휘관, 디젤.
+    ja: 失礼します、指揮官、ディーゼル。
+  d_ex_toyshop_03_46:
+    speaker: "<Self>"
+    en: Go ahead.
+    ko: 잘 가.
+    ja: またな
+  d_ex_toyshop_03_47:
+    speaker: diesel
+    en: Phew... running a store sure is tough.
+    ko: 후우~ 장사는 어렵네요~
+    ja: ふう～商売は難しいですね～
+  d_ex_toyshop_03_48:
+    speaker: diesel
+    en: I think the train station suits me much better.
+    ko: 저에겐 역시 기차역이 잘 맞는 거 같아요~
+    ja: やっぱり私には鉄道駅が性に合ってます～
+  d_ex_toyshop_03_49:
+    speaker: diesel
+    en: Where the heck are Belorta and Mica anyway?
+    ko: 그보다 왜 벨로타와 미카는 돌아오지 않는 걸까요~?
+    ja: |-
+      ところで、ベロータとミカは
+      何故帰ってこないんでしょう～
+  d_ex_toyshop_03_50:
+    speaker: "<Self>"
+    en: Probably out goofing around.
+    ko: 땡땡이를 거하게 치고 있군.
+    ja: 思いっきりサボっているな
+  d_ex_toyshop_03_51:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_03_52:
+    speaker: diesel
+    en: Welcome!
+    ko: 어서 오세요~
+    ja: いらっしゃいませ～
+  d_ex_toyshop_03_53:
+    speaker: maxwell
+    en: Didn't expect to see you two here!
+    ko: 와~ 여기서 베이비랑 디젤을 만나다니 의외인데?
+    ja: わあ～ここでベビーとディーゼルに会うとは。
+  d_ex_toyshop_03_54:
+    speaker: "<Self>"
+    en: Hey Maxwell, are you looking for anything in particular?
+    ko: 맥스웰? 장난감 가게엔 무슨 일이야?
+    ja: マクスウェル？おもちゃ屋には何の用だ？
+  d_ex_toyshop_03_55:
+    speaker: maxwell
+    en: I'd like to buy a doll to be a test subject.
+    ko: 내 실험체가 되어줄 인형을 하나 사러 왔어~
+    ja: 実験体になってくれる人形を買いに来たの～
+  d_ex_toyshop_03_56:
+    speaker: maxwell
+    en: But it seems the owners aren't here, so I guess I'll have to come back later?
+    ko: 흠, 근데 장난감 가게의 주인이 없는걸 보니 다음에 와야겠는걸?
+    ja: |-
+      うーん、でもおもちゃ屋の店長がいないね？
+      また今度来た方がいいかな。
+  d_ex_toyshop_03_57:
+    speaker: maxwell
+    en: Something tells me you two aren't exactly doll experts.
+    ko: 디젤과 베이비는 인형을 제대로 추천 못해줄 거 같거든~
+    ja: |-
+      ディーゼルとベビーじゃ、
+      人形のお勧めは難しいからな～
+  d_ex_toyshop_03_58:
+    speaker: "<Choice>"
+    en: Have some faith in us.
+    ko: 우리를 믿어 봐.
+    ja: 私たちに任せてみろ
+  d_ex_toyshop_03_59:
+    speaker: "<Choice>"
+    en: I'll find any doll that you want.
+    ko: 원하는 베이비 인형을 찾아 줄게.
+    ja: どんな人形を探してるんだ？
+  d_ex_toyshop_03_60:
+    speaker: diesel
+    en: Err... Commander, are you sure about that?
+    ko: 어머, 지휘관 자신 있으신가요~?
+    ja: あら、指揮官、自信満々ですね～？
+  d_ex_toyshop_03_61:
+    speaker: maxwell
+    en: Hmm... Is that so?
+    ko: 흐음~ 그래?
+    ja: ふうん～そう？
+  d_ex_toyshop_03_62:
+    speaker: maxwell
+    en: I'm looking for a doll with ball joints, full articulation. About waist height.
+    ko: 사람 허리까지 오는 크기의 구체관절인형인데.
+    ja: 人の腰の高さくらいの球体関節人形だけど、
+  d_ex_toyshop_03_63:
+    speaker: maxwell
+    en: I need to be able to disassemble it, and...
+    ko: 분해를 할 수 있어야 하는 제품이야. 그리고….
+    ja: 分解できる製品が必要なんだ。そして…
+  d_ex_toyshop_03_64:
+    speaker: "<Self>"
+    en: I'm sorry.
+    ko: 미안해.
+    ja: すまない
+  d_ex_toyshop_03_65:
+    speaker: maxwell
+    en: Hehe, I knew it! I'll come back later.
+    ko: 하하. 그럴 줄 알았어 베이비~ 그럼 다음에 다시 올게.
+    ja: |-
+      はは、そうだと思った。
+      じゃあ、また今度来るね。
+  d_ex_toyshop_03_66:
+    speaker: diesel
+    en: Before you go, have some strawberry candy.
+    ko: 그럼 가기 전에 맥스웰도 딸기 사탕 하나 받아 가세요~
+    ja: |-
+      じゃあ、帰る前にマクスウェルも
+      イチゴキャンディをどうぞ～
+  d_ex_toyshop_03_67:
+    speaker: maxwell
+    en: Oh, I was craving something sweet! Thanks!
+    ko: 와~ 안 그래도 달달한 게 먹고 싶었는데! 고마워. 디젤, 지휘관!
+    ja: |-
+      わあ～ちょうど甘いものが欲しかったんだ！
+      ありがとう、ディーゼル、指揮官！
+  d_ex_toyshop_03_68:
+    speaker: maxwell
+    en: See you around.
+    ko: 다음에 또다시 오도록 할게~
+    ja: また来るね～
+  d_ex_toyshop_03_69:
+    speaker: "<Self>"
+    en: The owners need to get back, pronto.
+    ko: 역시 장난감 가게 주인이 있어야 하나 봐.
+    ja: やっぱりおもちゃ屋には店長が必要だ
+  d_ex_toyshop_03_70:
+    speaker: diesel
+    en: You can say that again.
+    ko: 후후, 그러게요~
+    ja: ふふ、そうですね～
+  d_ex_toyshop_03_71:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_03_72:
+    speaker: alice
+    en: Whoa, hey you two!
+    ko: 와아~ 안녕하세요! 천사님~ 토끼씨~
+    ja: わぁ～こんにちは！天使さん～ウサギさん～
+  d_ex_toyshop_03_73:
+    speaker: diesel
+    en: Hey, Alice.
+    ko: 안녕하세요. 앨리스~
+    ja: こんにちは、アリス～
+  d_ex_toyshop_03_74:
+    speaker: "<Self>"
+    en: Sure, why not.
+    ko: 어서 와, 앨리스.
+    ja: いらっしゃい、アリス
+  d_ex_toyshop_03_75:
+    speaker: diesel
+    en: Are you looking to buy a toy?
+    ko: 여긴 어쩐 일인가요~?
+    ja: 今日はどういったご用件でしょうか～
+  d_ex_toyshop_03_76:
+    speaker: alice
+    en: Actually, I heard I could get some strawberry candy by coming here.
+    ko: 움… 여기 오면 딸기 사탕을 받을 수 있다고 해서 왔는데….
+    ja: |-
+      えっと…ここに来ればイチゴキャンディが
+      もらえると聞いたんですけど…
+  d_ex_toyshop_03_77:
+    speaker: alice
+    en: You haven't run out yet, have you?
+    ko: 딸기 사탕이 아직 있나요~?
+    ja: イチゴキャンディはまだありますか～？
+  d_ex_toyshop_03_78:
+    speaker: diesel
+    en: Are you talking about this?
+    ko: 아~ 이 딸기 사탕 말인가요?
+    ja: あ～このイチゴキャンディですか？
+  d_ex_toyshop_03_79:
+    speaker: "<Self>"
+    en: Word travels fast.
+    ko: 벌써 소문 난 거야?
+    ja: もう噂が広まったのか？
+  d_ex_toyshop_03_80:
+    speaker: alice
+    en: That's the stuff! Hehe.
+    ko: 와아~ 맞아요! 헤헤.
+    ja: わあ～そうです！へへ。
+  d_ex_toyshop_03_81:
+    speaker: alice
+    en: If it's okay with you, could I have some too?
+    ko: 혹시… 천사님만 괜찮으시면 저도 딸기 사탕을 주실 수 있나요?
+    ja: |-
+      あの…天使さん、
+      私もイチゴキャンディをもらえますか？
+  d_ex_toyshop_03_82:
+    speaker: diesel
+    en: Of course you can have some. After all, candy always puts you in a good mood.
+    ko: 그럼요~ 먹기만 해도 기분 좋아지는 사탕이랍니다~
+    ja: |-
+      もちろんです～
+      食べるだけで気分がよくなるキャンディですよ～
+  d_ex_toyshop_03_83:
+    speaker: alice
+    en: Thanks!
+    ko: 와아~ 감사해요!
+    ja: わあ～ありがとうございます！
+  d_ex_toyshop_03_84:
+    speaker: alice
+    en: Ah...
+    ko: 아….
+    ja: あ…
+  d_ex_toyshop_03_85:
+    speaker: "<Self>"
+    en: What's wrong?
+    ko: 왜 그래?
+    ja: どうした？
+  d_ex_toyshop_03_86:
+    speaker: alice
+    en: Could I maybe have one more? For the Queen?
+    ko: 여왕님 것도 주실 수 있나요…?
+    ja: 女王様の分ももらえませんか…？
+  d_ex_toyshop_03_87:
+    speaker: alice
+    en: She might be upset if I kept it all for myself.
+    ko: 저만 먹으면 여왕님이 슬퍼하실 거 같아서….
+    ja: 私1人で食べると、女王様が悲しむと思うから…
+  d_ex_toyshop_03_88:
+    speaker: diesel
+    en: Sure, no problem.
+    ko: 당연하죠~
+    ja: もちろんです～
+  d_ex_toyshop_03_89:
+    speaker: diesel
+    en: There's plenty to go around.
+    ko: 딸기 사탕은 많이 있답니다~
+    ja: イチゴキャンディはいっぱいありますから～
+  d_ex_toyshop_03_90:
+    speaker: alice
+    en: Hehe, thanks!
+    ko: 헤헤, 감사합니다~
+    ja: へへ、ありがとうございます～
+  d_ex_toyshop_03_91:
+    speaker: alice
+    en: I've got to hurry back so we can eat it together!
+    ko: |-
+      얼른 돌아가서 여왕님과 함께
+      천사님이 주신 딸기 사탕을 함께 먹어야겠어요!
+    ja: |-
+      早く戻って女王様と一緒に
+      天使さんにもらった
+      イチゴキャンディを食べます！
+  d_ex_toyshop_03_92:
+    speaker: diesel
+    en: I hope you both enjoy it.
+    ko: 와, 좋네요~ 여왕님과 맛있게 먹어요~
+    ja: |-
+      まあ、いいですね～
+      女王様と一緒に
+      おいしく食べてくださいね～
+  d_ex_toyshop_03_93:
+    speaker: alice
+    en: See you guys later!
+    ko: 헤헤. 네! 그럼 다음에 또 봐요 천사님! 토끼 씨~
+    ja: |-
+      へへ、はい！それじゃ、また会いましょう。
+      天使さん！ウサギさん～
+  d_ex_toyshop_03_94:
+    speaker: diesel
+    en: Bye bye.
+    ko: 잘 가요~
+    ja: 気を付けて帰ってください～
+  d_ex_toyshop_03_95:
+    speaker: "<Self>"
+    en: This place is becoming a candy shop.
+    ko: 사탕 가게가 된 것 같아.
+    ja: キャンディ屋になった感じだ
+  d_ex_toyshop_03_96:
+    speaker: diesel
+    en: Hey, whatever brings in business!
+    ko: |-
+      후후, 그런가요~?
+      장난감 가게엔 손님이 북적북적거리네요~
+    ja: |-
+      ふふ、そうですか～？
+      おもちゃ屋はお客さんがたくさん来るんですね～
+  d_ex_toyshop_03_97:
+    speaker: diesel
+    en: I'm just glad I brought enough candy.
+    ko: 딸기 사탕을 많이 가져와서 다행이에요.
+    ja: |-
+      イチゴキャンディをいっぱい持ってきて
+      良かったです。
+  d_ex_toyshop_03_98:
+    speaker: "<Monologue>"
+    en: Word quickly spread about how the toy shop was giving away free candy.
+    ko: 그 후로도 장난감 가게에 가면 공짜로 딸기 사탕을
+    ja: |-
+      それからも、
+      おもちゃ屋に行けばイチゴキャンディを
+  d_ex_toyshop_03_99:
+    speaker: "<Monologue>"
+    en: Before long, the shop was packed with customers coming and going.
+    ko: 받을 수 있다는 소문이 퍼져 삽시간에 많은 손님들이 오갔다.
+    ja: |-
+      タダでもらえるという噂が広まって
+      お客さんが押し寄せた
+  d_ex_toyshop_03_100:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリンー
+  d_ex_toyshop_03_101:
+    speaker: belorta
+    en: We're back!
+    ko: 디젤, 우리 왔어!
+    ja: ディーゼル、ただいま！
+  d_ex_toyshop_03_102:
+    speaker: belorta
+    en: Oh, hi Old-Timer.
+    ko: 흐흥~ 아저씨도 있었네♡
+    ja: ふふん～おじさんも来たんだ♡
+  d_ex_toyshop_03_103:
+    speaker: mica
+    en: Sorry we're late.
+    ko: |-
+      죄송해요오… 많이 늦었죠.
+      어?! 아저씨 안녕하세요!
+    ja: |-
+      すみませーん…遅くなりました。
+      え！？おじさん、こんばんは！
+  d_ex_toyshop_03_104:
+    speaker: diesel
+    en: Welcome back.
+    ko: 잘 다녀오셨나요?
+    ja: おかえりなさい。
+  d_ex_toyshop_03_105:
+    speaker: "<Self>"
+    en: Where were you?
+    ko: 어딜 다녀온 거야?
+    ja: どこに行ってたんだ？
+  d_ex_toyshop_03_106:
+    speaker: belorta
+    en: We wanted to check out this new type of firecracker and lost track of time,
+      sorry!
+    ko: |-
+      미안해! 새로 개발한 폭죽을 빨리 보고 싶어서
+      정신없이 하다 보니 이 시간이 됐지 뭐야!
+    ja: |-
+      ごめん！新しく開発した爆竹を早く
+      見たくて夢中でやってたら
+      こんな時間になってしまったの！
+  d_ex_toyshop_03_107:
+    speaker: mica
+    en: Oh no... not a single sale while we were gone.
+    ko: 우우… 역시 매출은 그대로에요.
+    ja: うう…やっぱり売上は変わらないです。
+  d_ex_toyshop_03_108:
+    speaker: belorta
+    en: I was at least hoping for a few sales...
+    ko: 흐흥~ 매출이 살짝 올랐을까 기대했는데.
+    ja: |-
+      ふふ～ん、売り上げがちょっとは
+      上がるんじゃないかと期待したのに。
+  d_ex_toyshop_03_109:
+    speaker: belorta
+    en: But then again,
+    ko: 역시! 손님이 없었구나♡
+    ja: やっぱり！お客さん来なかったんだ♡
+  d_ex_toyshop_03_110:
+    speaker: belorta
+    en: we hardly ever have any customers.
+    ko: 뭐 괜찮아~!
+    ja: まあ、大丈夫だよ～！
+  d_ex_toyshop_03_111:
+    speaker: belorta
+    en: I shouldn't exactly be surprised.
+    ko: 원래 장난감 가게엔 손님이 없으니까♡
+    ja: 元々おもちゃ屋はお客さん来ないし♡
+  d_ex_toyshop_03_112:
+    speaker: mica
+    en: Sure, but it'd be nice to at least have some...
+    ko: 우우… 그래도 손님이 많았으면 좋겠어요.
+    ja: |-
+      うう…でも、お客さんが
+      たくさん来て欲しいです。
+  d_ex_toyshop_03_113:
+    speaker: belorta
+    en: You're right, even just one would be nice!
+    ko: 그러게~ 사람이 한 명이라도 왔다 갔으면 좋았을 텐데!
+    ja: |-
+      そうだよね～
+      誰か1人でも来てたらよかったのに！
+  d_ex_toyshop_03_114:
+    speaker: "<Monologue>"
+    en: Diesel and I decided to be silent about what happened today.
+    ko: 나와 디젤은 오늘 있었던 일을 조용히 묻어두기로 했다.
+    ja: |-
+      私とディーゼルは、
+      今日あった事は秘密にすることにした
+d_ex_toyshop_04:
+  d_ex_toyshop_04_1:
+    speaker: Narration
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリーン
+  d_ex_toyshop_04_2:
+    speaker: Self
+    en: Welcome.
+    ko: 어서 오세요.
+    ja: いらっしゃいませ
+  d_ex_toyshop_04_3:
+    speaker: ludmilla
+    en: Servant?
+    ko: 시종?
+    ja: しもべ？
+  d_ex_toyshop_04_4:
+    speaker: ludmilla
+    en: What are you manning the store for?
+    ko: |-
+      가게 주인들은 어디 가고
+      시종이 여기 있지?
+    ja: |-
+      店の主人はどこ？
+      どうしてしもべがここに？
+  d_ex_toyshop_04_5:
+    speaker: neve
+    en: "*Yawn* Hey, Burly Bear."
+    ko: 하아아암~ 큰곰 씨~?
+    ja: ふわぁぁ～ヒグマさ～ん。
+  d_ex_toyshop_04_6:
+    speaker: "<Choice>"
+    en: I took over the toy store.
+    ko: 장난감 가게를 인수했어.
+    ja: おもちゃ屋を買収した
+  d_ex_toyshop_04_7:
+    speaker: "<Choice>"
+    en: I kicked Mica and Belorta out.
+    ko: 미카와 벨로타를 내쫓았어.
+    ja: ミカとベロータを追い出した
+  d_ex_toyshop_04_8:
+    speaker: ludmilla
+    en: Took over?
+    ko: 인수?
+    ja: 買収？
+  d_ex_toyshop_04_9:
+    speaker: ludmilla
+    en: You must have deep pockets in order to do that.
+    ko: 돈이 많은가 보군.
+    ja: お金に余裕があるみたいね。
+  d_ex_toyshop_04_10:
+    speaker: neve
+    en: You're not secretly rich, are you?
+    ko: 큰곰 씨는 숨겨진 재력가신가 보군요~?
+    ja: ヒグマさんは隠れた資産家なんですね～
+  d_ex_toyshop_04_11:
+    speaker: ludmilla
+    en: You did?
+    ko: 그래?
+    ja: あら。
+  d_ex_toyshop_04_12:
+    speaker: ludmilla
+    en: Then you should be at the police station, not here.
+    ko: 그럼 시종은 이곳이 아닌 경찰서에 있어야 할 것 같은데.
+    ja: しもべは今すぐ警察署に行くべきでは？
+  d_ex_toyshop_04_13:
+    speaker: ludmilla
+    en: Neve, call the police.
+    ko: 네베, 경찰서에 신고를.
+    ja: ネヴェ、通報してちょうだい。
+  d_ex_toyshop_04_14:
+    speaker: Self
+    en: I was only kidding! I came to hang out, but no one is there, so I'm waiting
+      for them.
+    ko: 사실 놀러 왔다가 아무도 없어서 기다리고 있었어.
+    ja: 実は誰もいないから待ってただけだ
+  d_ex_toyshop_04_15:
+    speaker: Self
+    en: What brings you here?
+    ko: 장난감 가게엔 무슨 일이야?
+    ja: おもちゃ屋には何の用だ？
+  d_ex_toyshop_04_16:
+    speaker: neve
+    en: I came to buy a gift for Alice.
+    ko: 앨리스에게 줄 선물을 사러 왔어요~
+    ja: アリスにあげるプレゼントを買いに来ました～
+  d_ex_toyshop_04_17:
+    speaker: Self
+    en: Anything specific?
+    ko: 선물?
+    ja: プレゼント？
+  d_ex_toyshop_04_18:
+    speaker: neve
+    en: There's a stuffed doll she always hugs tightly whenever she goes to sleep.
+    ko: |-
+      네~ 앨리스가 잘 때,
+      꼭 껴안고 자는 인형이 있거든요~
+    ja: |-
+      そうで～す。アリスは夜、
+      ぬいぐるみを抱いて眠るんで～す。
+  d_ex_toyshop_04_19:
+    speaker: neve
+    en: It's totally adorbs.
+    ko: 애착 인형이라고나 할까요~?
+    ja: 抱きぐるみ…とでも言いましょうか～
+  d_ex_toyshop_04_20:
+    speaker: neve
+    en: But it's a bit worse for wear, so Ludmilla and I wanted to get her a new one.
+    ko: |-
+      그게 너무 낡아버려서,
+      루드밀라와 함께 선물해주려고요~
+    ja: |-
+      それが古くなってぼろぼろなので、
+      新しいものをプレゼントしようと思いまして～
+  d_ex_toyshop_04_21:
+    speaker: Self
+    en: She'd love that.
+    ko: 앨리스가 좋아할 것 같아.
+    ja: アリスが喜びそうだな
+  d_ex_toyshop_04_22:
+    speaker: ludmilla
+    en: That's what we're hoping.
+    ko: 그렇다면 다행이군.
+    ja: そうだといいわ。
+  d_ex_toyshop_04_23:
+    speaker: neve
+    en: Oooh! Look at this one, Ludmilla.
+    ko: 어머, 루드밀라 여기 봐요~
+    ja: あ、見てください、ルドミラ～
+  d_ex_toyshop_04_24:
+    speaker: neve
+    en: This one looks super cuddly.
+    ko: 엄청 푹신해 보이는 큰 인형이 있어요~
+    ja: 大きくてふわふわしたぬいぐるみがありますよ～
+  d_ex_toyshop_04_25:
+    speaker: neve
+    en: Should we get it?
+    ko: 이걸 선물로 사주는 건 어때요~?
+    ja: これなんかどうでしょう～
+  d_ex_toyshop_04_26:
+    speaker: ludmilla
+    en: That thing is bigger than Alice.
+    ko: 음… 인형이 앨리스보다 크군.
+    ja: そうね…でもアリスより大きいわ。
+  d_ex_toyshop_04_27:
+    speaker: ludmilla
+    en: Where will we put it?
+    ko: 그리고 사봤자 놔둘 곳이 없을 거다.
+    ja: 買っても置く場所がないと思うけど。
+  d_ex_toyshop_04_28:
+    speaker: neve
+    en: Fine... can I at least cuddle up with it? Just once, pleaaaase?
+    ko: |-
+      아쉽네요~
+      그럼 잠깐만 인형 위에 누워봐도 될까요~?
+    ja: |-
+      残念～
+      でも記念に少しだけこの上に寝てみま～す。
+  d_ex_toyshop_04_29:
+    speaker: neve
+    en: Even if we can't buy it, I can at least test out how cuddly it is.
+    ko: |-
+      선물로 살 수는 없어도.
+      얼마나 푹신한지… 테스트는….
+    ja: |-
+      プレゼントには合いませんが。
+      どれくらいふわふわなのか…テストを…
+  d_ex_toyshop_04_30:
+    speaker: neve
+    en: Just to... to try and...
+    ko: 할… 수있… 으….
+    ja: して…みるくらい…は…
+  d_ex_toyshop_04_31:
+    speaker: neve
+    en: Zzzz...
+    ko: 쿠울….
+    ja: くぅ…
+  d_ex_toyshop_04_32:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_04_33:
+    speaker: Self
+    en: Should we wake her?
+    ko: 깨울까?
+    ja: 起こすか？
+  d_ex_toyshop_04_34:
+    speaker: ludmilla
+    en: No. Just leave her.
+    ko: 아니. 그대로 놔둬라.
+    ja: いいえ。眠らせておいて。
+  d_ex_toyshop_04_35:
+    speaker: ludmilla
+    en: She'll be angry if we do, and you won't like her when she's angry.
+    ko: |-
+      바로 깨웠다간.
+      네베의 화만 부를 테니.
+    ja: |-
+      今起こしたところで
+      ネヴェが怒るだけだわ。
+  d_ex_toyshop_04_36:
+    speaker: ludmilla
+    en: Would you mind helping me，
+    ko: 시종, 괜찮다면 이 몸과 함께 장난감 가게를 둘러보겠나?
+    ja: しもべ、\n私と一緒に店内を見物するのはどう？
+  d_ex_toyshop_04_37:
+    speaker: ludmilla
+    en: look for a suitable gift?
+    ko: 앨리스 선물도 고를 겸.
+    ja: アリスのプレゼントを選ぶついでに。
+  d_ex_toyshop_04_38:
+    speaker: Self
+    en: Sure.
+    ko: 좋아.
+    ja: 構わない
+  d_ex_toyshop_04_39:
+    speaker: Monologue
+    en: Ludmilla and I slowly look around the toy store.
+    ko: 나와 루드밀라는 장난감 가게를 천천히 둘러보기 시작했다.
+    ja: ルドミラと店の中をゆっくり見物し始めた
+  d_ex_toyshop_04_40:
+    speaker: ludmilla
+    en: This place has all sorts of cute knick-knacks.
+    ko: 역시 장난감 가게라 그런지 귀여운 게 많군.
+    ja: さすがはおもちゃ屋だわ。\nかわいいものがたくさんあること。
+  d_ex_toyshop_04_41:
+    speaker: ludmilla
+    en: A music box?
+    ko: 오호, 오르골을 여기서 보게 될 줄이야.
+    ja: まあ、これはオルゴールじゃないの。
+  d_ex_toyshop_04_42:
+    speaker: ludmilla
+    en: This would look nice back at the home office.
+    ko: 하나 정도는 집무실에 놔둬도 괜찮겠어.
+    ja: ひとつ執務室に置いておこうかしら。
+  d_ex_toyshop_04_43:
+    speaker: ludmilla
+    en: Let's see how it sounds.
+    ko: 한번 소리를 들어볼까.
+    ja: どんな音色なのかしら。
+  d_ex_toyshop_04_44:
+    speaker: Narration
+    en: "*Twist, twist.*"
+    ko: 끼릭- 끼릭-
+    ja: キィーキィー
+  d_ex_toyshop_04_45:
+    speaker: Narration
+    en: "*Ding, di-ring.*"
+    ko: 띵- 띠딩~
+    ja: タンータンタターン～
+  d_ex_toyshop_04_46:
+    speaker: Narration
+    en: "*Tick, tick, tick, tick.*"
+    ko: 띡- 띡- 띡- 띡-
+    ja: タッータッータッータッー
+  d_ex_toyshop_04_47:
+    speaker: Monologue
+    en: After playing for a short while, the music box abruptly stops.
+    ko: 오르골은 천천히 돌아가다 갑자기 멈춰버렸다.
+    ja: オルゴールは音色を奏でたと思うと、\n突然止まった
+  d_ex_toyshop_04_48:
+    speaker: ludmilla
+    en: Hey, what's wrong with this thing?
+    ko: 음? 이게 왜이러지?
+    ja: あら、どうしたのかしら。
+  d_ex_toyshop_04_49:
+    speaker: Self
+    en: "... Perhaps you should just leave it."
+    ko: "…그대로 놔 두는 게 좋을 것 같아."
+    ja: "…そのままにしておいた方がよさそうだ"
+  d_ex_toyshop_04_50:
+    speaker: ludmilla
+    en: Must be defective.
+    ko: 불량품인가 보군.
+    ja: 不良品のようね。
+  d_ex_toyshop_04_51:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_04_52:
+    speaker: ludmilla
+    en: Oh, is this a moving robot?
+    ko: 오, 이건 움직이는 로봇인가?
+    ja: あ、これは動くロボットかしら？
+  d_ex_toyshop_04_53:
+    speaker: ludmilla
+    en: This place has everything.
+    ko: 역시 장난감 가게라 그런지 신기한 게 많군.
+    ja: 不思議なものがたくさんあるわね。
+  d_ex_toyshop_04_54:
+    speaker: Narration
+    en: "*Zing, zing, zing.*"
+    ko: 지잉- 지잉- 지잉-
+    ja: ウィーン、ウィーン、ウィーン
+  d_ex_toyshop_04_55:
+    speaker: Narration
+    en: "*Pusssshhh*"
+    ko: 푸쉬이이이익-
+    ja: プシュシュ―
+  d_ex_toyshop_04_56:
+    speaker: ludmilla
+    en: What the... this is broken too?
+    ko: 음? 이것도 고장이라니.
+    ja: あら、これも故障かしら。
+  d_ex_toyshop_04_57:
+    speaker: ludmilla
+    en: There sure are a lot of defective products in here.
+    ko: 꽤나 불량품이 많은 가게로군.
+    ja: 不良品の多い店だこと。
+  d_ex_toyshop_04_58:
+    speaker: ludmilla
+    en: Seems more like a junkyard that a toy store, if you ask me.
+    ko: 골동품 가게라 해도 믿겠어.
+    ja: 骨董品屋と言った方がいいくらいだわ。
+  d_ex_toyshop_04_59:
+    speaker: Self
+    en: So... Alice's gift...
+    ko: "…앨리스 선물은 언제 고를거야?"
+    ja: "…アリスのプレゼントはいいのか？"
+  d_ex_toyshop_04_60:
+    speaker: ludmilla
+    en: Oh, right. I nearly forgot.
+    ko: |-
+      아, 참.
+      앨리스 선물을 고르고 있었지.
+    ja: |-
+      あ、そうだったわね。
+      アリスのプレゼントを選ばなきゃ。
+  d_ex_toyshop_04_61:
+    speaker: ludmilla
+    en: Well, considering Belorta and Mica are MIA,
+    ko: 시종.
+    ja: しもべ。
+  d_ex_toyshop_04_62:
+    speaker: ludmilla
+    en: is there any chance you could give me some recommendations?
+    ko: 괜찮다면 벨로타와 미카를 대신해서.
+    ja: もしよかったらベロータとミカに代わって
+  d_ex_toyshop_04_63:
+    speaker: ludmilla
+    en: I'm completely in the dark when it comes to this kind of thing.
+    ko: |-
+      이 몸에게 인형을 좀 추천해 줄 수 있나?
+      이쪽으론 무지해서 말이지.
+    ja: |-
+      おすすめのぬいぐるみを探してくれないかしら。
+      人形には詳しくないのよ。
+  d_ex_toyshop_04_64:
+    speaker: "<Choice>"
+    en: How about a polar bear doll?
+    ko: 북극곰 인형은 어때?
+    ja: ホッキョクグマはどうだ？
+  d_ex_toyshop_04_65:
+    speaker: "<Choice>"
+    en: How about a rabbit doll?
+    ko: 토끼 인형은 어때?
+    ja: ウサギのぬいぐるみはどうだ？
+  d_ex_toyshop_04_66:
+    speaker: ludmilla
+    en: I think Neve would get a kick out of that more than Alice.
+    ko: 북극곰 인형은 앨리스보단 네베가 더 좋아할 것 같군.
+    ja: それはアリスよりもネヴェが喜びそうだわ。
+  d_ex_toyshop_04_67:
+    speaker: Self
+    en: Then how about a rabbit doll?
+    ko: 그럼 토끼 인형은?
+    ja: じゃあウサギのぬいぐるみは？
+  d_ex_toyshop_04_68:
+    speaker: ludmilla
+    en: |-
+      A rabbit doll?
+      Hmm... that's a good suggestion.
+    ko: |-
+      토끼 인형?
+      흐음. 꽤 괜찮은 추천이군.
+    ja: |-
+      ウサギ？
+      そうね。いいかもしれないわ。
+  d_ex_toyshop_04_69:
+    speaker: ludmilla
+    en: Alice does have a soft spot for our furry little friends.
+    ko: 아무래도 앨리스는 토끼를 좋아하니까 말이야.
+    ja: アリスはウサギが好きだから。
+  d_ex_toyshop_04_70:
+    speaker: ludmilla
+    en: All right, let's go with that. As for what color, I think pink suits her best.
+    ko: |-
+      그럼 그걸로 하지.
+      색상은 앨리스와 어울리는 분홍색이 좋겠어.
+    ja: |-
+      ではこれで決まりよ。
+      色はアリスとよく合うピンクがよさそうだわ。
+  d_ex_toyshop_04_71:
+    speaker: ludmilla
+    en: Any chance you could gift-wrap it for me?
+    ko: 혹시 선물 포장도 가능한가?
+    ja: プレゼント用に包装することはできるかしら。
+  d_ex_toyshop_04_72:
+    speaker: Self
+    en: I'll do what I can.
+    ko: "…주인은 아니지만, 열심히 해볼게."
+    ja: "…ここの店主ではないが、最善は尽くしてみる"
+  d_ex_toyshop_04_73:
+    speaker: Narration
+    en: Soon after.
+    ko: "……잠시 후."
+    ja: "……しばらくして"
+  d_ex_toyshop_04_74:
+    speaker: ludmilla
+    en: Thanks, Servant.
+    ko: 고맙군 시종.
+    ja: ありがとう、しもべ。
+  d_ex_toyshop_04_75:
+    speaker: ludmilla
+    en: You've earned yourself a new customer.
+    ko: 다음에 또 오도록 하겠다.
+    ja: また今度遊びに来るわ。
+  d_ex_toyshop_04_76:
+    speaker: ludmilla
+    en: Neve, time to wake up.
+    ko: 네베, 이제 일어나거라.
+    ja: ネヴェ、そろそろ起きなさい。
+  d_ex_toyshop_04_77:
+    speaker: ludmilla
+    en: Let's go give Alice her present.
+    ko: 앨리스에게 깜짝 선물을 주러 가자꾸나.
+    ja: アリスにプレゼントを渡しに行くわよ。
+  d_ex_toyshop_04_78:
+    speaker: neve
+    en: Zzzzgrerenn... eh? How long am I out?
+    ko: 하아아암~ 제가 언제 잠들었었죠~?
+    ja: ふわぁぁ～私いつの間に眠ってたんでしょう～
+  d_ex_toyshop_04_79:
+    speaker: neve
+    en: Did you pick a gift?
+    ko: 선물은 고르셨나요~?
+    ja: プレゼントは買いましたか～？
+  d_ex_toyshop_04_80:
+    speaker: Self
+    en: A pink rabbit doll.
+    ko: 분홍색 토끼 인형으로 골랐어.
+    ja: ピンク色のウサギのぬいぐるみを買った
+  d_ex_toyshop_04_81:
+    speaker: neve
+    en: Oh nice, that sounds perfect for Alice.
+    ko: |-
+      어머, 앨리스랑 너무 잘 어울리는 인형이네요~
+      그럼 이만 가볼까요~?
+    ja: |-
+      わあ、アリスにぴったりですね～
+      じゃあそろそろ戻りましょう～
+  d_ex_toyshop_04_82:
+    speaker: neve
+    en: Anyway, see you next time, Burly Bear.
+    ko: 다음에 봐요. 큰곰 씨~
+    ja: また今度会いましょう～ヒグマさ～ん。
+  d_ex_toyshop_04_83:
+    speaker: Self
+    en: See you.
+    ko: 잘 가.
+    ja: じゃあまた
+  d_ex_toyshop_04_84:
+    speaker: Narration
+    en: A few hours later.
+    ko: 몇 시간 후.
+    ja: 数時間後
+  d_ex_toyshop_04_85:
+    speaker: Monologue
+    en: Still no sign of Belorta or Mica.
+    ko: 기다려도 벨로타와 미카는 오지 않는다.
+    ja: いくら待ってもベロータとミカが来ない
+  d_ex_toyshop_04_86:
+    speaker: Monologue
+    en: Time to shove off.
+    ko: 나도 그만 가야겠….
+    ja: 私ももう帰ろ…
+  d_ex_toyshop_04_87:
+    speaker: Narration
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリーン
+  d_ex_toyshop_04_88:
+    speaker: Self
+    en: Alice?
+    ko: 앨리스?
+    ja: アリス？
+  d_ex_toyshop_04_89:
+    speaker: alice
+    en: Hmm? Hey, Rabbity!
+    ko: 와~ 토끼 씨~
+    ja: わあ～ウサギさ～ん。
+  d_ex_toyshop_04_90:
+    speaker: Self
+    en: Are you looking for something?
+    ko: 장난감 가게엔 무슨 일이야?
+    ja: おもちゃ屋に何の用だ？
+  d_ex_toyshop_04_91:
+    speaker: alice
+    en: I came to buy a rabbit doll.
+    ko: 토끼 인형을 사러 왔어요~
+    ja: ウサギのぬいぐるみを買いに来ました～
+  d_ex_toyshop_04_92:
+    speaker: Self
+    en: "... A rabbit doll?"
+    ko: "…토끼 인형?"
+    ja: "…ウサギのぬいぐるみ？"
+  d_ex_toyshop_04_93:
+    speaker: alice
+    en: Yeah, I think it's about time I got a new one.
+    ko: 네~ 새 토끼 인형을 분양받을 때가 된 것 같아서요~
+    ja: そうで～す。新しいウサギのぬいぐるみでも\n買おうかと思いまして～
+  d_ex_toyshop_04_94:
+    speaker: alice
+    en: I had my sights set on a pink one.
+    ko: 핑크색 토끼 인형이었으면 좋겠는데….
+    ja: ピンク色のウサギを探してるんですが…
+  d_ex_toyshop_04_95:
+    speaker: "<Choice>"
+    en: How about buying a different doll?
+    ko: 다른 인형을 사는 건 어때?
+    ja: 他のぬいぐるみはどうだ？
+  d_ex_toyshop_04_96:
+    speaker: "<Choice>"
+    en: Are you sure you don't want a different color?
+    ko: 다른 색상을 사는 건 어때?
+    ja: 他の色はどうだ？
+  d_ex_toyshop_04_97:
+    speaker: alice
+    en: But I wanted a rabbit doll...
+    ko: 우우… 저는 토끼 인형이 좋은걸요?
+    ja: うぅ…私はウサギがいいんです。
+  d_ex_toyshop_04_98:
+    speaker: alice
+    en: But I wanted a pink one...
+    ko: 우우… 저는 분홍색이 좋을걸요?
+    ja: うぅ…私はピンクが好きなんです。
+  d_ex_toyshop_04_99:
+    speaker: alice
+    en: Do you think that's a bad idea?
+    ko: 제가 고른 게 별로인가요?
+    ja: よくないですか？
+  d_ex_toyshop_04_100:
+    speaker: Self
+    en: Not at all... I think it suits you perfectly.
+    ko: |-
+      …아니.
+      앨리스와 제일 잘 어울리긴 해.
+    ja: |-
+      …そんなことはない。
+      アリスにぴったりだと思う
+  d_ex_toyshop_04_101:
+    speaker: alice
+    en: That's what I thought!
+    ko: 그렇죠~?
+    ja: そうですよね～？
+  d_ex_toyshop_04_102:
+    speaker: alice
+    en: A pink rabbit doll it is, then!
+    ko: 헤헤. 그럼 분홍색 토끼 인형을 사야겠어요!
+    ja: へへ。\nやっぱりピンク色のウサギにします！
+  d_ex_toyshop_04_103:
+    speaker: Narration
+    en: A few minutes later.
+    ko: 몇분 후.
+    ja: 数分後
+  d_ex_toyshop_04_104:
+    speaker: Self
+    en: Here you are.
+    ko: "…주문하신 인형 나왔습니다."
+    ja: "…ご注文のぬいぐるみです"
+  d_ex_toyshop_04_105:
+    speaker: alice
+    en: Yippee! Thanks, Rabbity!
+    ko: 와아~ 토끼 씨, 감사해요~
+    ja: わあ～ウサギさ～ん、ありがとうございます。
+  d_ex_toyshop_04_106:
+    speaker: alice
+    en: I can't wait to show this off to Queen and Nanook.
+    ko: 얼른 여왕님과 북극곰님께 자랑하러 갈래요!
+    ja: 女王様とホッキョクグマさんに\n自慢しちゃいます～！
+  d_ex_toyshop_04_107:
+    speaker: alice
+    en: See you next time.
+    ko: 그럼 다음에 또 봐요!
+    ja: じゃあまた！
+  d_ex_toyshop_04_108:
+    speaker: Self
+    en: See you.
+    ko: "…조심해서 가."
+    ja: "…気をつけて"
+  d_ex_toyshop_04_109:
+    speaker: Monologue
+    en: I should keep this a secret from Ludmilla and Neve.
+    ko: 루드밀라와 네베에겐 비밀로 해야겠다.
+    ja: ルドミラとネヴェには内緒にしておこう
+d_ex_toyshop_05:
+  d_ex_toyshop_05_1:
+    speaker: cocoa
+    en: Wowee!
+    ko: 흐어어어….
+    ja: ふぉぉぉ…
+  d_ex_toyshop_05_2:
+    speaker: cocoa
+    en: Master, why are there so many interesting toys here?
+    ko: 주인. 여긴 왜 이러케 신기한 장난감이 많지?
+    ja: 主人、ここはどうしてこんなに\n不思議なおもちゃが多い？
+  d_ex_toyshop_05_3:
+    speaker: cocoa
+    en: If they got into the wrong hands, like mine, they could be deadly weapons.
+    ko: "코코아 같은 프로 손에 잘못 들어가면 \n흉기가 될 수도 있는데."
+    ja: |-
+      ココアみたいなプロの手に渡ったら、
+      凶器になるかもしれない。
+  d_ex_toyshop_05_4:
+    speaker: "<Choice>"
+    en: Fortunately there aren't many pros like you out there.
+    ko: 코코아 같은 프로는 잘 없으니까.
+    ja: ココアみたいなプロはあまりいないから
+  d_ex_toyshop_05_5:
+    speaker: "<Choice>"
+    en: Toys aren't usually used in that way.
+    ko: 보통은 장난감을 그렇게는 안 쓰니까.
+    ja: 普通は、おもちゃをそういう風に使わないから
+  d_ex_toyshop_05_6:
+    speaker: belorta
+    en: You're calling her a pro?
+    ko: 프로~?
+    ja: プロ～？
+  d_ex_toyshop_05_7:
+    speaker: mica
+    en: I've yet to see a "pro" that plays with toys.
+    ko: 장난감을 갖고 노는 프로를 말하는 거예요?
+    ja: おもちゃで遊ぶプロのことですか？
+  d_ex_toyshop_05_8:
+    speaker: belorta
+    en: That's right.
+    ko: 맞아~!
+    ja: そうだよ～！
+  d_ex_toyshop_05_9:
+    speaker: belorta
+    en: Toys are made to play with.
+    ko: 장난감은 장난을 치라고 있는 거거든.
+    ja: おもちゃはイタズラするためにあるんだからね。
+  d_ex_toyshop_05_10:
+    speaker: mica
+    en: Speak for yourself. I don't necessarily agree.
+    ko: 어… 그렇게 생각하는 건 벨로타 뿐일 걸요?
+    ja: えっと…そう思ってるのはベロータだけですよ？
+  d_ex_toyshop_05_11:
+    speaker: cocoa
+    en: Are you the owner of this store?
+    ko: "!! \n너희들 이 가게 주인이야?"
+    ja: |-
+      ！！
+      このお店のオーナー？
+  d_ex_toyshop_05_12:
+    speaker: belorta
+    en: Yep, that's us.
+    ko: 응, 맞아♡
+    ja: うん、そうだよ♡
+  d_ex_toyshop_05_13:
+    speaker: mica
+    en: |-
+      Is there anything you're looking for?
+      We'll help you find it.
+    ko: "혹시 뭐 찾는 거라도 있나요? \n저희가 찾아 줄게요!"
+    ja: |-
+      何かお探しですか？
+      私たちが探してあげますよ！
+  d_ex_toyshop_05_14:
+    speaker: cocoa
+    en: Hmm...
+    ko: 흠…….
+    ja: うーん…
+  d_ex_toyshop_05_15:
+    speaker: cocoa
+    en: I'm the head maid at the Maid Cafe near here.
+    ko: 코코아, 요 근처 메이드 카페에서 메이드장 하고 이써.
+    ja: ココア、この近くのメイドカフェで\nメイド長してる。
+  d_ex_toyshop_05_16:
+    speaker: cocoa
+    en: I've noticed our customers seem to have a lot on their minds as of late.
+    ko: 그런데 요즘 손님들 고민 마나 보여.
+    ja: 最近、悩んでるお客が多いみたいだから、
+  d_ex_toyshop_05_17:
+    speaker: cocoa
+    en: I just want them to have a good time when they visit us. Are there any toys
+      that would work for that?
+    ko: 재밌게 놀아주고 싶은데, 갠차는 장난감 없어?
+    ja: 楽しく遊んであげたいんだけど、\nいいおもちゃある？
+  d_ex_toyshop_05_18:
+    speaker: mica
+    en: Let me see...
+    ko: 음, 그런 거라면 역시….
+    ja: うーん、それならやっぱり…
+  d_ex_toyshop_05_19:
+    speaker: Monologue
+    en: Mica and Belorta stare at each other.
+    ko: 미카와 벨로타는 서로를 마주보았다.
+    ja: ミカとベロータは互いに見つめあった
+  d_ex_toyshop_05_20:
+    speaker: belorta
+    en: How about roulette, where a bad spin nets you a punishment dished out by a
+      Nikke?
+    ko: 메이드와의 벌칙을 건 룰렛 게임 아니겠어~?
+    ja: メイドとの罰ゲームをかけた\nロシアンルーレットじゃない？
+  d_ex_toyshop_05_21:
+    speaker: mica
+    en: How about scratch-off tickets where the prize is a saucy picture of a maid?
+    ko: 메이드와의 사진을 건 뽑기판 아닐까요?
+    ja: メイドとの写真をかけたくじ引きでは？
+  d_ex_toyshop_05_22:
+    speaker: cocoa
+    en: "... Gasp!"
+    ko: "…헛!"
+    ja: "…はっ！"
+  d_ex_toyshop_05_23:
+    speaker: cocoa
+    en: Oh boy, that's a toughie.
+    ko: 코코아, 엄청나게 어려운 선택을 강요당해써.
+    ja: ココア、めちゃくちゃ難しい選択を迫られた。
+  d_ex_toyshop_05_24:
+    speaker: cocoa
+    en: Master. You pick for me.
+    ko: 주인. 대신 골라조.
+    ja: 主人、代わりに選んで。
+  d_ex_toyshop_05_25:
+    speaker: "<Choice>"
+    en: If it were me, I would choose the roulette game.
+    ko: 나라면 룰렛 게임을 고르겠어.
+    ja: 私ならロシアンルーレットを選ぶ
+  d_ex_toyshop_05_26:
+    speaker: "<Choice>"
+    en: The scratch-off tickets sound more thrilling.
+    ko: 뽑기판이 더 두근두근하지.
+    ja: くじ引きの方がドキドキする
+  d_ex_toyshop_05_27:
+    speaker: cocoa
+    en: Roulette, huh?
+    ko: "…룰렛 게임?"
+    ja: "…ロシアンルーレット？"
+  d_ex_toyshop_05_28:
+    speaker: fatman
+    en: Mwahahaha!
+    ko: 으흐흐헤헤헷!!
+    ja: うへへへへっ！！
+  d_ex_toyshop_05_29:
+    speaker: fatman
+    en: Now I shall tickle the feet of every customer in this cafe!
+    ko: 지금부터 너희 카페의 손님들을 모두 간지럽혀 주겠다!
+    ja: 今からこのカフェにいる客み～んな、\nくすぐってやる！
+  d_ex_toyshop_05_30:
+    speaker: dirtyman
+    en: Nary a foot nor an armpit shall be safe!
+    ko: 발바닥부터 겨드랑이까지 빠짐없이 간질러 주지… 크크큭.
+    ja: 足の裏から脇の下まで…全部くすぐってやろう…\nクククッ。
+  d_ex_toyshop_05_31:
+    speaker: femaleguest
+    en: Agh! Help me, head maid!
+    ko: 꺄아악! 도와 주세요, 메이드장!
+    ja: キャアッ！助けてください、メイド長！
+  d_ex_toyshop_05_32:
+    speaker: cocoa
+    en: Wait just a moment.
+    ko: 잠깐.
+    ja: ちょっと待った。
+  d_ex_toyshop_05_33:
+    speaker: cocoa
+    en: A true maid determines the winner through roulette.
+    ko: 진정한 프로는 룰렛으로 승부해.
+    ja: 真のプロはロシアンルーレットで勝負する。
+  d_ex_toyshop_05_34:
+    speaker: cocoa
+    en: You shall all spin the wheel, and whoever lands on this square,
+    ko: 이 50개의 홈에 칼을 꽂아서 먼저 칼이 튕겨나오는 쪽이,
+    ja: この50個の穴にナイフを刺して、\n先にナイフが飛び出した方が
+  d_ex_toyshop_05_35:
+    speaker: cocoa
+    en: will be the first to be tickled mercilessly. How about it?
+    ko: 발바닥을 간질간질 당하는 거로. 어때?
+    ja: 足の裏をくすぐられる。どう？
+  d_ex_toyshop_05_36:
+    speaker: dirtyman
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_toyshop_05_37:
+    speaker: fatman
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_toyshop_05_38:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_05_39:
+    speaker: cocoa
+    en: Scratch-off tickets, huh?
+    ko: "…뽑기판?"
+    ja: "…くじ引き？"
+  d_ex_toyshop_05_40:
+    speaker: suspiciousman
+    en: Hehehe...
+    ko: 으흐흐헤헷….
+    ja: うへへへへっ…
+  d_ex_toyshop_05_41:
+    speaker: suspiciousman
+    en: 'My name is Jonathan. My occupation: Stalker.'
+    ko: 내 이름은 조나단. 직업은 스토커지.
+    ja: 俺の名前はジョナサン。\n職業はストーカーさ。
+  d_ex_toyshop_05_42:
+    speaker: suspiciousman
+    en: I will take a picture of all the maids here at this store.
+    ko: 지금부터 이 가게에 있는 모든 메이드의 사진을 찍어갈 거다.
+    ja: 今からこの店にいるメイド全員の写真を撮る。
+  d_ex_toyshop_05_43:
+    speaker: suspiciousman
+    en: 'My mission: To make all of you look as bad as possible!'
+    ko: 그것도 눈을 깜빡일 때! 역광으로!
+    ja: それもまばたきした瞬間に！逆光で！
+  d_ex_toyshop_05_44:
+    speaker: soda
+    en: You monster! How could you be so cruel?!
+    ko: 흐에엥~ 어떻게 그럴 수가!
+    ja: ふぇぇん、そんなぁ！
+  d_ex_toyshop_05_45:
+    speaker: soda
+    en: Help us, Cocoa!
+    ko: 도와줘요오, 코코아~!
+    ja: 助けてくださぁい、ココア～！
+  d_ex_toyshop_05_46:
+    speaker: cocoa
+    en: Wait just a moment.
+    ko: 잠깐.
+    ja: ちょっと待った。
+  d_ex_toyshop_05_47:
+    speaker: cocoa
+    en: A true maid uses scratch-off tickets to determine whether or not weirdo stalkers
+      can take unflattering pictures.
+    ko: 진정한 프로는 뽑기판으로 사진을 찍을지 말지 정해.
+    ja: 真のプロは、\nくじ引きで写真を撮るかどうか決める。
+  d_ex_toyshop_05_48:
+    speaker: cocoa
+    en: The person who picks the winning scratch-off gets to take a photo with Soda.
+    ko: 이 50개의 뽑기 종이 중에 당첨을 뽑는 쪽이,
+    ja: この50枚のくじの中から当たりを引いた方が、
+  d_ex_toyshop_05_49:
+    speaker: cocoa
+    en: How about it?
+    ko: 소다랑 같이 사진을 찍는 거로. 어때?
+    ja: ソーダと一緒に写真を撮る。どう？
+  d_ex_toyshop_05_50:
+    speaker: suspiciousman
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_toyshop_05_51:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_05_52:
+    speaker: Self
+    en: Seems like you have quite an active imagination.
+    ko: 뭔가 굉장한 걸 상상한 것 같은데.
+    ja: 何かすごいことを想像していたようだが
+  d_ex_toyshop_05_53:
+    speaker: cocoa
+    en: I think it's a good idea.
+    ko: 조은 생각인 거 같아.
+    ja: いい考えだと思う。
+  d_ex_toyshop_05_54:
+    speaker: cocoa
+    en: I can fight valiantly against the villains,
+    ko: 코코아는 정정당당하게 악당들이랑 싸울 수 있고.
+    ja: ココアは正々堂々と悪者と戦えるし、
+  d_ex_toyshop_05_55:
+    speaker: cocoa
+    en: and the customers can have fun watching.
+    ko: 손님들도 구경하면서 재밌을 거 같고.
+    ja: お客たちも楽しみながら見守ってくれそう。
+  d_ex_toyshop_05_56:
+    speaker: belorta
+    en: Uh... Not exactly sure I get what you mean, but I'll get that wrapped up for
+      you.
+    ko: "흐흥~ 무슨 말인진 잘 모르겠지만, \n예쁘게 포장해줄게♡"
+    ja: |-
+      フフン～、よく分かんないけど
+      かわいくラッピングしてあげるね♡
+  d_ex_toyshop_05_57:
+    speaker: mica
+    en: Any other toys you're interested in? Feel free to browse.
+    ko: "또 갖고 싶은 장난감은 없나요? \n편하게 둘러 보세요!"
+    ja: |-
+      他に欲しいおもちゃはありませんか？
+      ゆっくりご覧ください！
+  d_ex_toyshop_05_58:
+    speaker: cocoa
+    en: Hm...
+    ko: 흐음….
+    ja: うーん…
+  d_ex_toyshop_05_59:
+    speaker: cocoa
+    en: Hmmmmm...
+    ko: 흐으으으음….
+    ja: うーーーん…
+  d_ex_toyshop_05_60:
+    speaker: cocoa
+    en: What is that funny-looking orange slipper?
+    ko: 저 웃기게 생긴 주황색 슬리퍼는 뭐야?
+    ja: あの変なオレンジ色のスリッパは何？
+  d_ex_toyshop_05_61:
+    speaker: belorta
+    en: I can see that you have good taste! That's a slipper meant to look like a
+      fish.
+    ko: "뭐야~ 눈썰미 좋네! \n저건 물고기 모양으로 나온 슬리퍼야."
+    ja: |-
+      わ～、センスいいね！
+      あれはおさかなスリッパだよ。
+  d_ex_toyshop_05_62:
+    speaker: belorta
+    en: What kind of fish was it again... was it carp?
+    ko: 이름이… 뭐랬더라? 잉어랬나?
+    ja: 名前は…何だっけ？コイだっけ？
+  d_ex_toyshop_05_63:
+    speaker: mica
+    en: No, I think it was a shark.
+    ko: 상어랬던 것 같아요!
+    ja: サメだった気がします！
+  d_ex_toyshop_05_64:
+    speaker: Self
+    en: What? They're quite different, aren't they?
+    ko: 종이 너무 다르지 않아?
+    ja: 種類が違いすぎないか？
+  d_ex_toyshop_05_65:
+    speaker: belorta
+    en: Anyway, it's a fish that lives in the sea.
+    ko: 아무튼 바다에 사는 물고기래~
+    ja: とにかく、海に暮らすサカナだって～！
+  d_ex_toyshop_05_66:
+    speaker: belorta
+    en: In similar fashion, we've also got a squid mask and an octopus suction-cup
+      plush.
+    ko: 자매품으로 오징어 가면이랑 문어 빨판 토시도 있어.
+    ja: 同じシリーズでイカマスクと\nタコの吸盤アームカバーもあるよ。
+  d_ex_toyshop_05_67:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_05_68:
+    speaker: soda
+    en: Wow! Cocoa, what are these? They're so cool!
+    ko: 와아~ 코코아! 이 근사하고 멋진 패션 소품들은 뭔가요?
+    ja: わ～、ココア！\nこの素敵な小物は何ですか？
+  d_ex_toyshop_05_69:
+    speaker: ade
+    en: They seem to be mimicking different forms of marine life.
+    ko: 음… 아마도 심해에 있는 생물을 모방한 것 아닐까?
+    ja: うーん…深海にいる生物を\nモチーフにしたんじゃない？
+  d_ex_toyshop_05_70:
+    speaker: soda
+    en: That's awesome! You're amazing, Cocoa.
+    ko: 바다라니! 코코아 정말 대단해요오~
+    ja: 海だなんて！ココアは本当にすごいですぅ～
+  d_ex_toyshop_05_71:
+    speaker: ade
+    en: The ocean, and naturally all marine life, only exists on the surface.
+    ko: 그러게. 바다는 지상에밖에 없는 건데.
+    ja: そうね。海は地上にしかないのに。
+  d_ex_toyshop_05_72:
+    speaker: ade
+    en: But you've managed to bring a taste of that to the Ark. You're truly a genius,
+      Cocoa.
+    ko: "그런 걸 이렇게 세련되게 소화해내다니, \n역시 우리 카페의 메이드장다워."
+    ja: |-
+      それをこんなにオシャレにしちゃうなんて、
+      さすがうちのカフェのメイド長だわ。
+  d_ex_toyshop_05_73:
+    speaker: cocoa
+    en: Hehe!
+    ko: "…훗."
+    ja: "…フッ。"
+  d_ex_toyshop_05_74:
+    speaker: cocoa
+    en: I'll take this as well.
+    ko: 코코아, 이거도 살께.
+    ja: ココア、これも買う。
+  d_ex_toyshop_05_75:
+    speaker: Self
+    en: What was running through your mind this time around?
+    ko: 이번엔 또 뭘 상상한 거야?
+    ja: 今度は何を想像してたんだ？
+  d_ex_toyshop_05_76:
+    speaker: cocoa
+    en: I assure you it was strictly professional.
+    ko: 프로페셔널의 프로 상상.
+    ja: プロフェッショナルなプロの想像。
+  d_ex_toyshop_05_77:
+    speaker: cocoa
+    en: Something completely outside the realm of possibility for an amateur.
+    ko: 아마추어는 감히 따라갈 수 없지.
+    ja: シロウトにはマネできない。
+  d_ex_toyshop_05_78:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_05_79:
+    speaker: Monologue
+    en: Cocoa spends the rest of the day scurrying around the toy store, lost in her
+      imagination.
+    ko: |-
+      그날 코코아는 장난감 가게를 누비며
+      무한한 상상의 나래를 펼쳤고.
+    ja: |-
+      その日、ココアはおもちゃ屋を見物しながら
+      果てしなく想像の翼を広げて
+  d_ex_toyshop_05_80:
+    speaker: Monologue
+    en: Before the day is out, she has spent her entire month's stipend.
+    ko: 그달 용돈을 모두 탕진했다.
+    ja: 今月のお小遣いを使い切ってしまった
+d_ex_toyshop_06:
+  d_ex_toyshop_06_1:
+    speaker: Narration
+    en: New cat toys available now!
+    ko: "[고양이 장난감 입고됐어요~!]"
+    ja: "「ネコのおもちゃ入荷しました！」"
+  d_ex_toyshop_06_2:
+    speaker: nero
+    en: This was a notice that was posted at the toy store a few days ago.
+    ko: "…얼마 전에 장난감 가게에 붙은 안내문이다냥."
+    ja: |-
+      …この間おもちゃ屋さんの前に貼ってあった
+      お知らせだにゃん。
+  d_ex_toyshop_06_3:
+    speaker: nero
+    en: The cats are getting a bit tired of the toys that are at the shelter,
+    ko: 마침 보호소에 있는 고양이들이 기존의 장난감을 질려 해서.
+    ja: |-
+      ちょうどシェルターにいるネコたちが
+      今あるおもちゃに飽きたって言うから
+  d_ex_toyshop_06_4:
+    speaker: nero
+    en: so I was thinking of buying them some new ones.
+    ko: 새로운 종류의 장난감을 좀 사다 줄까 하는데.
+    ja: 新しいおもちゃを買おうと思ってたにゃん。
+  d_ex_toyshop_06_5:
+    speaker: nero
+    en: Can you help me choose which ones to buy?
+    ko: 집사가 고르는 걸 좀 도와 달라냥.
+    ja: 執事に選ぶのを手伝ってほしいにゃん。
+  d_ex_toyshop_06_6:
+    speaker: Self
+    en: Aren't you the most knowledgeable when it comes to this kind of stuff?
+    ko: "…그 분야에 대해서는 네로가 가장 잘 알지 않아?"
+    ja: "…ネロの方が詳しいのでは？"
+  d_ex_toyshop_06_7:
+    speaker: nero
+    en: Yes,
+    ko: 냥.
+    ja: にゃん。
+  d_ex_toyshop_06_8:
+    speaker: nero
+    en: but there's only one problem.
+    ko: 하지만 가장 큰 문제가 있다냥.
+    ja: でも大きな問題があるにゃん。
+  d_ex_toyshop_06_9:
+    speaker: nero
+    en: Usually, when you buy an item for the first time, you need to test it out.
+    ko: 원래 물건을 살 땐 시험 사용이라는 걸 해야 하지 않냥.
+    ja: 商品を買う時は、お試しするのが大事だにゃん。
+  d_ex_toyshop_06_10:
+    speaker: nero
+    en: However, if I do that myself, I end up ruining the toys...
+    ko: 그런데 그걸 나 혼자 하면 나도 모르게….
+    ja: でも、それを私1人ですると、つい…
+  d_ex_toyshop_06_11:
+    speaker: nero
+    en: So that's where I need your help.
+    ko: 아무튼 도와 달라냥.
+    ja: とにかく手伝ってほしいにゃん。
+  d_ex_toyshop_06_12:
+    speaker: Self
+    en: This is fairly outside of my wheelhouse, but I'll do what I can to help.
+    ko: 난 문외한인데… 일단 알겠어.
+    ja: よく分からないが…とりあえず行こう
+  d_ex_toyshop_06_13:
+    speaker: Narration
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_toyshop_06_14:
+    speaker: nero
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_toyshop_06_15:
+    speaker: nero
+    en: Where are the owners?
+    ko: 가게 주인들이 없다냥.
+    ja: 店員がいないにゃん。
+  d_ex_toyshop_06_16:
+    speaker: Self
+    en: There's a sign that says they'll be back soon.
+    ko: 잠깐 자리 비움이라고 적혀 있네.
+    ja: 休憩中って書いてあるな
+  d_ex_toyshop_06_17:
+    speaker: nero
+    en: Hmm...
+    ko: "…흠냥."
+    ja: "…うーん。"
+  d_ex_toyshop_06_18:
+    speaker: nero
+    en: Those two like to horse around, but they are helpful when it comes to suggesting
+      which toys to buy.
+    ko: 걔들, 장난기가 좀 많긴 해도 물건 고르는 건 잘 도와줬는데.
+    ja: |-
+      あの子たち、イタズラ好きだけど
+      商品選びはよく手伝ってくれたにゃん。
+  d_ex_toyshop_06_19:
+    speaker: nero
+    en: I guess we'll have to do it ourselves.
+    ko: 이렇게 된 이상 우리끼리 해보는 수밖에 없다냥.
+    ja: こうなったら自力で探すしかないにゃん。
+  d_ex_toyshop_06_20:
+    speaker: Self
+    en: To start, why don't you choose something that you like?
+    ko: 일단 마음에 드는 걸 골라 볼래?
+    ja: とりあえず気に入ったものを選んでくれ
+  d_ex_toyshop_06_21:
+    speaker: nero
+    en: Good idea.
+    ko: 냥.
+    ja: にゃん。
+  d_ex_toyshop_06_22:
+    speaker: Monologue
+    en: Nero picks up a box which is riddled with holes.
+    ko: 네로는 구멍이 숭숭 뚫린 상자를 골랐다.
+    ja: ネロは穴がたくさん空いている箱を選んだ
+  d_ex_toyshop_06_23:
+    speaker: Narration
+    en: "*Toss*"
+    ko: 툭.
+    ja: ぐいっ
+  d_ex_toyshop_06_24:
+    speaker: nero
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_06_25:
+    speaker: Narration
+    en: "*Toss*"
+    ko: 툭.
+    ja: ぐいっ
+  d_ex_toyshop_06_26:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_06_27:
+    speaker: nero
+    en: What is this?
+    ko: 이게 뭐냥?
+    ja: これは何だにゃん？
+  d_ex_toyshop_06_28:
+    speaker: nero
+    en: It's interesting, but I don't know how to play with it.
+    ko: 신기하긴 한데, 어떻게 갖고 놀아야 할지 모르겠다냥.
+    ja: |-
+      面白そうな見た目だけど、
+      どうやって遊べばいいか分からないにゃん。
+  d_ex_toyshop_06_29:
+    speaker: admi
+    en: Uh... you usually put some other toys inside of it.
+    ko: 어… 그건 안에 다른 장난감을 넣어서 가지고 노는 거예요.
+    ja: |-
+      あっ…それは中に別のおもちゃを入れて
+      遊ぶんですよ。
+  d_ex_toyshop_06_30:
+    speaker: admi
+    en: If you put something like say, a cat ball, or some other toy cats like to
+      play with inside it,
+    ko: 주로 고양이들이 굴리기 좋아하는 캣볼을 넣어 두면,
+    ja: ネコが好きなキャットボールを入れておくと
+  d_ex_toyshop_06_31:
+    speaker: admi
+    en: they can put their paws through the holes and try to bat at it.
+    ko: 고양이들이 구멍 안에 손을 넣어 휘젓는 거죠.
+    ja: 穴の中に手を入れて遊ぶんです。
+  d_ex_toyshop_06_32:
+    speaker: Self
+    en: Thanks for the explanation.
+    ko: 설명 고마워.
+    ja: 説明ありがとう
+  d_ex_toyshop_06_33:
+    speaker: Self
+    en: But what are you doing at the toy store, Admi?
+    ko: 그런데 애드미가 장난감 가게에는 웬일이야?
+    ja: ところでなぜアドミがおもちゃ屋に？
+  d_ex_toyshop_06_34:
+    speaker: admi
+    en: I actually came to buy some cat toys as well.
+    ko: 아… 실은 저도 고양이 장난감을 사러 왔어요.
+    ja: |-
+      あっ…実は私もネコのおもちゃを
+      買いにきたんです。
+  d_ex_toyshop_06_35:
+    speaker: admi
+    en: I heard there were some new releases, so I wanted to donate some to the shelter.
+    ko: 새로 입고된 게 있다고 들어서, 보호소에 기부하려고요.
+    ja: |-
+      新しく入荷したって聞いたので
+      シェルターに寄付しようと思って。
+  d_ex_toyshop_06_36:
+    speaker: nero
+    en: Oh! An ally.
+    ko: |-
+      …!!
+      아군이다냥.
+    ja: |-
+      …！！
+      頼もしい味方だにゃん。
+  d_ex_toyshop_06_37:
+    speaker: Self
+    en: You can help us choose what to buy.
+    ko: 그럼 우리들을 도와주지 않을래?
+    ja: じゃあちょっと手伝ってくれないか？
+  d_ex_toyshop_06_38:
+    speaker: nero
+    en: The store owners aren't here at the moment, so we're having trouble making
+      a selection.
+    ko: 가게 주인도 부재중이라서, 쇼핑에 난항을 겪고 있다냥.
+    ja: 店員もいないから、困ってたにゃん。
+  d_ex_toyshop_06_39:
+    speaker: admi
+    en: Sure, if you're okay with it.
+    ko: "…아, 네. 저라도 괜찮으시다면요."
+    ja: "…あっ、はい。私でよければ。"
+  d_ex_toyshop_06_40:
+    speaker: admi
+    en: Although...
+    ko: 음….
+    ja: えっと…
+  d_ex_toyshop_06_41:
+    speaker: admi
+    en: How about we first figure out how to play with that box?
+    ko: 일단 그 상자를 가지고 노는 방법부터 알아 볼까요?
+    ja: まずはその箱の遊び方から教えましょうか？
+  d_ex_toyshop_06_42:
+    speaker: nero
+    en: All right!
+    ko: 냥.
+    ja: にゃん。
+  d_ex_toyshop_06_43:
+    speaker: Monologue
+    en: The three of us gather several cat balls and place them inside the box.
+    ko: 네로와 함께 가게에 있는 캣볼들을 모아 상자에 넣었다.
+    ja: |-
+      ネロと一緒にお店にあるキャットボールを
+      集めて箱に入れた
+  d_ex_toyshop_06_44:
+    speaker: nero
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_06_45:
+    speaker: nero
+    en: How about that.
+    ko: 과연.
+    ja: なるほど。
+  d_ex_toyshop_06_46:
+    speaker: nero
+    en: Now that all these balls are inside it, I feel like batting them around.
+    ko: 공을 넣으니 굴리고 싶은 마음이 드는 것도 같다냥.
+    ja: |-
+      ボールを入れたら
+      転がしたくなってきた気がするにゃん。
+  d_ex_toyshop_06_47:
+    speaker: Narration
+    en: "*Swoosh*"
+    ko: 휘적.
+    ja: コロコロ
+  d_ex_toyshop_06_48:
+    speaker: nero
+    en: Still, so far it's no great shakes.
+    ko: "…그래도 아직까진 평범하다냥."
+    ja: "…でも今のところは普通だにゃん。"
+  d_ex_toyshop_06_49:
+    speaker: Narration
+    en: "*Swoosh swoosh*"
+    ko: 휘적, 휘적.
+    ja: コロコロ
+  d_ex_toyshop_06_50:
+    speaker: nero
+    en: Surely there's some way we can make this more exciting?
+    ko: 이것보단 더 신나게 놀 방법이 있지 않겠냥?
+    ja: |-
+      これよりもっと楽しいおもちゃが
+      ありそうだにゃん。
+  d_ex_toyshop_06_51:
+    speaker: Narration
+    en: "*Swoosh swoosh swoosh*"
+    ko: 휘적, 휘적, 휘적.
+    ja: コロコロ、コロコロ
+  d_ex_toyshop_06_52:
+    speaker: nero
+    en: Like a wind-up mouse that moves on its own, or something mobile like...
+    ko: 혼자서 움직이는 쥐돌이 로봇이라거나, 그런 활동적인….
+    ja: |-
+      勝手に動くネズミロボットとか
+      そういうアクティブな…
+  d_ex_toyshop_06_53:
+    speaker: Narration
+    en: "*Swoosh swoosh swoosh swoosh*"
+    ko: 휘적, 휘적, 휘적, 휘적.
+    ja: コロコロ、コロコロ、コロコロ
+  d_ex_toyshop_06_54:
+    speaker: nero
+    en: Meow!
+    ko: 냥…!
+    ja: にゃん…！
+  d_ex_toyshop_06_55:
+    speaker: "<Choice>"
+    en: Nero, snap out of it.
+    ko: 네로, 정신 차려!
+    ja: ネロ、しっかり！
+  d_ex_toyshop_06_56:
+    speaker: "<Choice>"
+    en: Quietly put the box in the shopping cart.
+    ko: 조용히 상자를 쇼핑 카트에 넣는다.
+    ja: そっと箱を買い物かごに入れる
+  d_ex_toyshop_06_57:
+    speaker: admi
+    en: Looks like she's really into that toy.
+    ko: 와, 정말 재밌나 봐요….
+    ja: わあ、本当に面白いみたいですね…
+  d_ex_toyshop_06_58:
+    speaker: admi
+    en: I bet the cats at the shelter will love it.
+    ko: 분명 보호소의 고양이들도 좋아할 것 같으니까,
+    ja: シェルターのネコたちも喜びそうなので
+  d_ex_toyshop_06_59:
+    speaker: admi
+    en: I'm gonna buy one.
+    ko: 이건 제가 살게요.
+    ja: これは私が買います。
+  d_ex_toyshop_06_60:
+    speaker: admi
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_toyshop_06_61:
+    speaker: admi
+    en: Looks like I should buy some more balls.
+    ko: 그럼 저는 좀 더 다양한 캣볼을 살게요.
+    ja: |-
+      じゃあ私はもっと色んな
+      キャットボールを買いますね。
+  d_ex_toyshop_06_62:
+    speaker: nero
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_06_63:
+    speaker: nero
+    en: Sorry, I got a little worked up. My mistake.
+    ko: 미안하다냥. 답지 않게 조금 흥분했다냥.
+    ja: ごめんにゃん。思わず興奮しちゃったにゃん。
+  d_ex_toyshop_06_64:
+    speaker: Self
+    en: Don't worry, it was a big help.
+    ko: 괜찮아. 큰 도움이 됐어.
+    ja: 大丈夫だ、かなり参考になった
+  d_ex_toyshop_06_65:
+    speaker: admi
+    en: Right.
+    ko: 맞아요.
+    ja: そうですよ。
+  d_ex_toyshop_06_66:
+    speaker: admi
+    en: Any chance you can point us towards any other toys that are of interest to
+      you?
+    ko: 혹시 다른 관심 가는 장난감은 없는지 봐 주실래요?
+    ja: 他に興味のあるおもちゃはありませんか？
+  d_ex_toyshop_06_67:
+    speaker: nero
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_06_68:
+    speaker: nero
+    en: Let's see...
+    ko: 그럼….
+    ja: じゃあ…
+  d_ex_toyshop_06_69:
+    speaker: nero
+    en: How about some cat wands?
+    ko: 이번에는 클래식한 장난감인 낚싯대 쪽을 보겠다냥.
+    ja: |-
+      今度は昔懐かしのおもちゃ、
+      ネコじゃらしの方を見てみるにゃん。
+  d_ex_toyshop_06_70:
+    speaker: Self
+    en: Aren't there already plenty of those at the shelter?
+    ko: 낚싯대라면 보호소에도 많지 않아?
+    ja: |-
+      ネコじゃらしならシェルターにも
+      たくさんあるのでは？
+  d_ex_toyshop_06_71:
+    speaker: nero
+    en: Loads,
+    ko: 많다냥.
+    ja: たくさんあるにゃん。
+  d_ex_toyshop_06_72:
+    speaker: nero
+    en: but cats get tired of the same toys quite easily.
+    ko: 하지만 고양이들은 같은 장난감에 쉽게 질린다냥.
+    ja: |-
+      でもネコたちは同じおもちゃだと
+      すぐ飽きるにゃん。
+  d_ex_toyshop_06_73:
+    speaker: nero
+    en: So I try to swap out the old toys for new ones once in a while.
+    ko: 그러니까 나도 주기적으로 새 장난감을 들여놓으려고 한다냥.
+    ja: |-
+      だから私も定期的に新しいおもちゃを
+      用意するんだにゃん。
+  d_ex_toyshop_06_74:
+    speaker: admi
+    en: Hmm... there are so many types to choose from.
+    ko: 음… 그런데 종류가 아주 많네요.
+    ja: うーん…でもたくさんありますね。
+  d_ex_toyshop_06_75:
+    speaker: admi
+    en: Is there anyone that you like in particular?
+    ko: 네로, 혹시 특별히 좋아하는 낚싯대 종류가 있으세요?
+    ja: 特に好きなネコじゃらしはありますか？
+  d_ex_toyshop_06_76:
+    speaker: nero
+    en: Not really.
+    ko: 딱히 없다냥.
+    ja: そういうのはないにゃん。
+  d_ex_toyshop_06_77:
+    speaker: nero
+    en: When you're my age, you've played pretty much all the wands available,
+    ko: 나 정도 연차가 되면 웬만한 낚싯대로는 다 놀아봐서.
+    ja: |-
+      私くらいの年になったら
+      だいたいのネコじゃらしで遊んだことがあるから
+  d_ex_toyshop_06_78:
+    speaker: nero
+    en: so regardless of what you play with, it's not terribly stimulating.
+    ko: 뭘 갖고 놀아도 딱히 자극이 안 된다냥.
+    ja: |-
+      どんなものでも、
+      あまり刺激にならないにゃん。
+  d_ex_toyshop_06_79:
+    speaker: nero
+    en: Still, you never know, so go ahead and choose one, Scoops.
+    ko: "…그래도 혹시 모르니까 집사가 하나 골라봐 달라냥."
+    ja: "…でも念のため、執事が1つ選んでみるにゃん。"
+  d_ex_toyshop_06_80:
+    speaker: "<Choice>"
+    en: A cat wand with a floundering fish on it.
+    ko: 파닥파닥 물고기가 달려 있는 낚싯대.
+    ja: ピチピチのサカナがついたネコじゃらし
+  d_ex_toyshop_06_81:
+    speaker: "<Choice>"
+    en: A cat wand with a fluffy mouse on it.
+    ko: 복슬복슬한 쥐가 달려 있는 낚싯대.
+    ja: ふわふわのネズミがついたネコじゃらし
+  d_ex_toyshop_06_82:
+    speaker: "<Choice>"
+    en: A cat wand with a colorful peacock feather on it.
+    ko: 화려한 공작 깃털이 달려 있는 낚싯대.
+    ja: 派手なクジャクの羽根がついたネコじゃらし
+  d_ex_toyshop_06_83:
+    speaker: nero
+    en: Hmm...
+    ko: "…흠냥."
+    ja: "…うーん。"
+  d_ex_toyshop_06_84:
+    speaker: nero
+    en: No surprises here.
+    ko: 이번에도 평범한 선택이다냥.
+    ja: 今回の選択も普通だにゃん。
+  d_ex_toyshop_06_85:
+    speaker: nero
+    en: A classic toy with a classic design.
+    ko: 클래식한 장난감에 클래식한 미끼다냥.
+    ja: |-
+      昔ながらのおもちゃに、
+      昔ながらの飾りだにゃん。
+  d_ex_toyshop_06_86:
+    speaker: nero
+    en: I should have figured that the cat wand would be a disappointment.
+    ko: 역시 낚싯대 장난감이란 게 거기서 거기일 수밖에 없는….
+    ja: |-
+      やっぱりネコじゃらしは
+      どれも似たり寄ったり…
+  d_ex_toyshop_06_87:
+    speaker: Narration
+    en: "*Whip*"
+    ko: 휙.
+    ja: ヒュッ
+  d_ex_toyshop_06_88:
+    speaker: Monologue
+    en: I take the cat wand and make a big swirl through the air.
+    ko: 낚싯대를 크게 휘둘러 보았다.
+    ja: ネコじゃらしを大きく振り回してみた
+  d_ex_toyshop_06_89:
+    speaker: Narration
+    en: "*Jump*"
+    ko: 풀쩍~!
+    ja: ぴょんっ！
+  d_ex_toyshop_06_90:
+    speaker: nero
+    en: Meow!
+    ko: 냥~!
+    ja: にゃ～ん！
+  d_ex_toyshop_06_91:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_06_92:
+    speaker: "<Choice>"
+    en: Make another wide swirl horizontally.
+    ko: 낚싯대를 옆으로 넓게 휘두른다.
+    ja: ネコじゃらしを左右に大きく振ってみる
+  d_ex_toyshop_06_93:
+    speaker: "<Choice>"
+    en: Make another wide swirl vertically.
+    ko: 낚싯대를 위로 높이 휘두른다.
+    ja: ネコじゃらしを上に高く振ってみる
+  d_ex_toyshop_06_94:
+    speaker: Narration
+    en: "*Whip*"
+    ko: 휙.
+    ja: ヒュッ
+  d_ex_toyshop_06_95:
+    speaker: nero
+    en: Meow!
+    ko: 냥~!
+    ja: にゃ～ん！
+  d_ex_toyshop_06_96:
+    speaker: admi
+    en: Wow, she nearly made it all the way to the front of the store with that jump!
+    ko: 와, 거의 가게 입구까지 점프했어요…!
+    ja: |-
+      わあ、ほぼお店の入口まで
+      ジャンプしましたよ…！
+  d_ex_toyshop_06_97:
+    speaker: Narration
+    en: "*Whip*"
+    ko: 휙.
+    ja: ヒュッ
+  d_ex_toyshop_06_98:
+    speaker: nero
+    en: Meow!
+    ko: 냥~!
+    ja: にゃ～ん！
+  d_ex_toyshop_06_99:
+    speaker: admi
+    en: Wow, she nearly hit the ceiling with that jump!
+    ko: 와, 거의 천장에 닿을 뻔했어요…!
+    ja: わあ、天井につきそうでした…！
+  d_ex_toyshop_06_100:
+    speaker: Self
+    en: We should buy this one too.
+    ko: 이것도 사야겠네.
+    ja: これも買わないと
+  d_ex_toyshop_06_101:
+    speaker: Monologue
+    en: We proceed to test several additional toys.
+    ko: "…그 뒤로도 우리는 여러 장난감들을 시험해 보았고."
+    ja: "…その後も私たちは様々なおもちゃを試し"
+  d_ex_toyshop_06_102:
+    speaker: admi
+    en: This cat wheel...
+    ko: 이건 캣휠….
+    ja: これはキャットホイール…
+  d_ex_toyshop_06_103:
+    speaker: nero
+    en: Meow!
+    ko: 냥!
+    ja: にゃん！
+  d_ex_toyshop_06_104:
+    speaker: Narration
+    en: "*Spin spin spin*"
+    ko: 달달달달…!
+    ja: ダダダダッ…！
+  d_ex_toyshop_06_105:
+    speaker: Self
+    en: Let's buy this too.
+    ko: 이것도 사자.
+    ja: これも買おう
+  d_ex_toyshop_06_106:
+    speaker: admi
+    en: Hey, check out this cat tunnel.
+    ko: 지휘관, 여기 고양이 터널도 있어요!
+    ja: 指揮官、キャットトンネルもありますよ！
+  d_ex_toyshop_06_107:
+    speaker: nero
+    en: Meow!
+    ko: 냥!
+    ja: にゃん！
+  d_ex_toyshop_06_108:
+    speaker: Narration
+    en: "*Crumple*"
+    ko: 꾸깃….
+    ja: ぐしゃっ…
+  d_ex_toyshop_06_109:
+    speaker: Self
+    en: "... Are you planning on staying there all day?"
+    ko: "…너 거기서 나올 생각이 없지?"
+    ja: "…そこから出るつもりないだろう？"
+  d_ex_toyshop_06_110:
+    speaker: Monologue
+    en: Thanks to Nero displaying such an enthusiastic response for certain toys,
+    ko: 매번 열렬한 반응을 보여준 네로 덕분에,
+    ja: |-
+      毎回激しいリアクションを見せてくれる
+      ネロのおかげで
+  d_ex_toyshop_06_111:
+    speaker: Monologue
+    en: we're able to finish our shopping in no time.
+    ko: 우리는 문제없이 고양이 장난감 쇼핑을 마칠 수 있었다.
+    ja: |-
+      私たちは問題なくネコのおもちゃを
+      買うことができた
+  d_ex_toyshop_06_112:
+    speaker: nero
+    en: "*Yawn*"
+    ko: 흐아암~
+    ja: ふわぁぁ～
+  d_ex_toyshop_06_113:
+    speaker: nero
+    en: "... Weird."
+    ko: "…이상하다냥."
+    ja: "…変だにゃん。"
+  d_ex_toyshop_06_114:
+    speaker: nero
+    en: Why am I so tired? All we did was shop.
+    ko: 고작 쇼핑을 했을 뿐인데 왜 이렇게 피곤한 거냥?
+    ja: |-
+      買い物をしただけなのに
+      どうしてこんなに疲れるにゃん？
+  d_ex_toyshop_06_115:
+    speaker: admi
+    en: Pff...
+    ko: 푸훗….
+    ja: プッ…
+  d_ex_toyshop_06_116:
+    speaker: nero
+    en: What's so funny?
+    ko: "? 왜 그렇게 웃는 거냥?"
+    ja: "？なんで笑うにゃん？"
+  d_ex_toyshop_06_117:
+    speaker: "<Choice>"
+    en: It's always fun to see a cat enjoy itself.
+    ko: 고양이가 행복한 게 좋아서 그래.
+    ja: ネコが幸せなのが嬉しいからだ
+  d_ex_toyshop_06_118:
+    speaker: "<Choice>"
+    en: It's nice that you're happy.
+    ko: 네로가 행복한 게 좋아서 그래.
+    ja: ネロが幸せなのが嬉しいからだ
+  d_ex_toyshop_06_119:
+    speaker: nero
+    en: "... Meow?"
+    ko: "…냥??"
+    ja: "…にゃん？？"
+  d_ex_toyshop_06_120:
+    speaker: admi
+    en: That's right.
+    ko: 그러네요.
+    ja: そうですね。
+  d_ex_toyshop_06_121:
+    speaker: admi
+    en: I hope the cats at the shelter get as much fun out of these toys
+    ko: 이 장난감들을 받을 보호소의 고양이들도,
+    ja: このおもちゃで遊ぶシェルターのネコたちも
+  d_ex_toyshop_06_122:
+    speaker: admi
+    en: as you did.
+    ko: 꼭 그만큼만 행복하게 놀아 줬으면 좋겠는데….
+    ja: |-
+      それくらい幸せに遊んでくれたら
+      いいのですが…
+  d_ex_toyshop_06_123:
+    speaker: Self
+    en: They will for sure.
+    ko: 분명히 그럴 거야.
+    ja: きっと遊んでくれるはずだ
+  d_ex_toyshop_06_124:
+    speaker: Self
+    en: They've been Nero-approved.
+    ko: 다른 누구도 아닌, 네로가 검증해준 장난감들이니까.
+    ja: |-
+      他の誰でもない、
+      ネロのお墨付きのおもちゃだから
+d_ex_toyshop_07:
+  d_ex_toyshop_07_1:
+    speaker: "<Narration>"
+    en: "*Ding*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_toyshop_07_2:
+    speaker: belorta
+    en: Welcome, Old-Timer.
+    ko: 아저씨, 어서 와♡
+    ja: おじさん、いらっしゃい♡
+  d_ex_toyshop_07_3:
+    speaker: mica_w
+    en: H-hey there,
+    ko: 아, 아저씨다!
+    ja: あ、おじさんだ！
+  d_ex_toyshop_07_4:
+    speaker: mica_w
+    en: Old-Timer!
+    ko: 안녕하세요!
+    ja: こんにちは！
+  d_ex_toyshop_07_5:
+    speaker: "<Monologue>"
+    en: As soon as I enter the store, strings of shiny lights festooned around an
+      enormous tree catch my eye.
+    ko: |-
+      가게로 들어서자마자,
+      반짝이는 조명들과 커다란 트리가 눈에 띄었다.
+    ja: |-
+      店に入った瞬間、光り輝く照明と
+      大きなツリーが目に飛び込んできた
+  d_ex_toyshop_07_6:
+    speaker: "<Self>"
+    en: You've redecorated for winter?
+    ko: 겨울을 맞아서 내부를 새롭게 단장한 거야?
+    ja: 店内を冬バージョンに改装したのか？
+  d_ex_toyshop_07_7:
+    speaker: belorta
+    en: I knew you'd catch on so quickly, Old-Timer!
+    ko: 역시 아저씨야♡ 바로 눈치챘구나?
+    ja: さすが、おじさん♡すぐ気づいたね！
+  d_ex_toyshop_07_8:
+    speaker: mica_w
+    en: Hehe, absolutely! And guess what? We've got some winter-exclusive toys too!
+    ko: 헤헤, 맞아요. 거기다 겨울 한정 장난감도 들여놨어요.
+    ja: |-
+      えへへ、そうなんです。
+      冬限定のおもちゃも入荷しました。
+  d_ex_toyshop_07_9:
+    speaker: mica_w
+    en: There are lots of cute things in stock right now.
+    ko: 귀여운 게 엄청 많아요.
+    ja: かわいいものがたくさんあるんです。
+  d_ex_toyshop_07_10:
+    speaker: mica_w
+    en: Wanna come see?
+    ko: 구경해 보실래요?
+    ja: 見てみませんか？
+  d_ex_toyshop_07_11:
+    speaker: "<Self>"
+    en: Sure.
+    ko: 좋아.
+    ja: ああ
+  d_ex_toyshop_07_12:
+    speaker: "<Narration>"
+    en: "*Rustle rustle*"
+    ko: 부스럭- 부스럭-
+    ja: ガサゴソ…
+  d_ex_toyshop_07_13:
+    speaker: "<Monologue>"
+    en: While Belorta and Mica displays the new winter limited-edition toys on the
+      counter...
+    ko: 벨로타와 미카가 겨울 한정 장난감을 카운터에 늘어놓고 있던 그때.
+    ja: |-
+      ベロータとミカが、冬限定のおもちゃを
+      カウンターに並べていたその時
+  d_ex_toyshop_07_14:
+    speaker: "<Narration>"
+    en: "*Ding*"
+    ko: 딸랑-
+    ja: チリン
+  d_ex_toyshop_07_15:
+    speaker: noir
+    en: P-Pit Boss?
+    ko: 저, 점장님?
+    ja: て、店長？
+  d_ex_toyshop_07_16:
+    speaker: blanc
+    en: Oh? Hey there, Pit Boss!
+    ko: 어? 점장님~? 안녕하세요!
+    ja: あれ？店長～？こんにちは！
+  d_ex_toyshop_07_17:
+    speaker: blanc
+    en: What are you doing here?
+    ko: 여기서 뭐 하고 계셨어요?
+    ja: ここで何してるんですか？
+  d_ex_toyshop_07_18:
+    speaker: "<Choice>"
+    en: Waiting for the two of you.
+    ko: 너희를 기다리고 있었어.
+    ja: 君たちを待っていた
+  d_ex_toyshop_07_19:
+    speaker: "<Choice>"
+    en: Browsing the new toys they have in stock.
+    ko: 장난감을 구경하려던 참이었어.
+    ja: おもちゃを見ていたところだ
+  d_ex_toyshop_07_20:
+    speaker: noir
+    en: "!!"
+    ko: 아…!
+    ja: あっ…！
+  d_ex_toyshop_07_21:
+    speaker: blanc
+    en: Holy moly!
+    ko: 세상에!
+    ja: わあ！
+  d_ex_toyshop_07_22:
+    speaker: blanc
+    en: What a coincidence!
+    ko: 통했네요, 저희!
+    ja: 想いが通じ合いましたね！
+  d_ex_toyshop_07_23:
+    speaker: "<Self>"
+    en: What makes you say that?
+    ko: 응?
+    ja: ん？
+  d_ex_toyshop_07_24:
+    speaker: noir
+    en: W-we had a feeling that you'd be here for some reason...
+    ko: 어, 어쩐지 점장님이 여기 계실 것만 같았거든요….
+    ja: |-
+      な、何となく店長が
+      ここにいるような気がしたんです…
+  d_ex_toyshop_07_25:
+    speaker: blanc
+    en: Looks like we just hit the jackpot!
+    ko: 잭팟이었네요~!
+    ja: ジャックポットでしたね～！
+  d_ex_toyshop_07_26:
+    speaker: blanc
+    en: Ah! It's the same for us!
+    ko: 앗, 저희랑 똑같네요!
+    ja: あっ、私たちと同じですね！
+  d_ex_toyshop_07_27:
+    speaker: noir
+    en: I-I'm here with Blanc... to buy some toys, too.
+    ko: 저, 저랑 블랑도… 장난감을 사러 왔거든요….
+    ja: |-
+      わ、私とブランも…
+      おもちゃを買いにきたんです…
+  d_ex_toyshop_07_28:
+    speaker: belorta
+    en: Hmm? More customers?
+    ko: 흐흥~ 손님이 늘어났네?
+    ja: フフン～お客さんが増えたね。
+  d_ex_toyshop_07_29:
+    speaker: mica_w
+    en: W-welcome!
+    ko: 어, 어서 오세요!
+    ja: い、いらっしゃいませ！
+  d_ex_toyshop_07_30:
+    speaker: blanc
+    en: Hey, isn't that what you wore back at Snowfield Hot Spring?
+    ko: 우와, 설온장에서 입었던 옷이네요!
+    ja: わあ、雪見温泉で着ていた服ですね！
+  d_ex_toyshop_07_31:
+    speaker: blanc
+    en: I still think it looks fantastic. Don't you agree, Noir?
+    ko: 다시 봐도 잘 어울려요! 그렇지, 언니?
+    ja: |-
+      やっぱりよく似合ってます！
+      だよね、お姉ちゃん？
+  d_ex_toyshop_07_32:
+    speaker: noir
+    en: Yeah, it's super cute.
+    ko: 응… 귀, 귀여워.
+    ja: うん…か、かわいい。
+  d_ex_toyshop_07_33:
+    speaker: mica_w
+    en: Thanks!
+    ko: 감사합니다…!
+    ja: ありがとうございます…！
+  d_ex_toyshop_07_34:
+    speaker: belorta
+    en: You said you wanted to buy a toy? What exactly do you have in mind?
+    ko: 그러고 보니, 두 사람은 어떤 장난감을 사러 온 거야?
+    ja: |-
+      そういえば、2人はどんなおもちゃを
+      買いにきたの？
+  d_ex_toyshop_07_35:
+    speaker: blanc
+    en: We're looking for something to jazz up our stage!
+    ko: 아, 무대 위를 장식할 장난감을 사러 왔어요!
+    ja: あ、ステージに飾るおもちゃです！
+  d_ex_toyshop_07_36:
+    speaker: blanc
+    en: Something that'll not only surprise but truly wow the audience!
+    ko: 저희 무대를 감상하시는 분들이 우와~ 하고 놀랄만한!
+    ja: |-
+      ステージを見ている方たちが、
+      わあ～って驚きそうな！
+  d_ex_toyshop_07_37:
+    speaker: blanc
+    en: Have you got anything that fits the bill?
+    ko: 그런 멋진 장난감이 있을까요?
+    ja: そういう素敵なおもちゃはありませんか？
+  d_ex_toyshop_07_38:
+    speaker: noir
+    en: It'd be even better if they're related to winter!
+    ko: 겨울이랑 연관이 있는 장난감이면 더 좋을 것 같아요…!
+    ja: 冬らしいおもちゃだといいですね…！
+  d_ex_toyshop_07_39:
+    speaker: mica_w
+    en: Hmm... something to decorate the stage...
+    ko: 음… 무대를 장식할 장난감….
+    ja: うーん…ステージを飾るおもちゃ…
+  d_ex_toyshop_07_40:
+    speaker: mica_w
+    en: This is a toughie...
+    ko: "…우우… 어렵네요."
+    ja: "…うう…難しいですね。"
+  d_ex_toyshop_07_41:
+    speaker: mica_w
+    en: Why don't you check out our winter selection?
+    ko: 혹시 두 분도 겨울 한정으로 들어온 장난감을 같이 구경해 보시겠어요?
+    ja: |-
+      お二人も、冬限定のおもちゃを
+      一緒に見ませんか？
+  d_ex_toyshop_07_42:
+    speaker: mica_w
+    en: I was just about to bring some out to show Old-Timer.
+    ko: 마침 아저씨한테 구경시켜 드리려고 꺼내고 있었거든요.
+    ja: |-
+      ちょうどおじさんに見てもらうために、
+      出していたんです。
+  d_ex_toyshop_07_43:
+    speaker: mica_w
+    en: You may just find something that catches your eye.
+    ko: 그중에서 마음에 드는 장난감이 있을지도 모르고….
+    ja: |-
+      その中に気に入るものが
+      あるかもしれないので…
+  d_ex_toyshop_07_44:
+    speaker: noir
+    en: Sounds good!
+    ko: "…좋아요!"
+    ja: "…いいですね！"
+  d_ex_toyshop_07_45:
+    speaker: blanc
+    en: Winter selection, you say? Sounds intriguing!
+    ko: 와아, 겨울 한정 장난감이라니~ 기대돼요!
+    ja: わあ、冬限定のおもちゃ！楽しみです！
+  d_ex_toyshop_07_46:
+    speaker: mica_w
+    en: All right, then. They're right here.
+    ko: 그, 그럼 여길 봐주세요.
+    ja: じゃ、じゃあこちらへどうぞ。
+  d_ex_toyshop_07_47:
+    speaker: "<Monologue>"
+    en: Mica points at the counter.
+    ko: 미카는 카운터 쪽을 손짓했다.
+    ja: ミカはカウンターの方を指差した
+  d_ex_toyshop_07_48:
+    speaker: blanc
+    en: Wow, that's a lot more than I expected!
+    ko: 앗, 생각보다 더 종류가 많네요!
+    ja: あっ、思ったよりたくさんありますね！
+  d_ex_toyshop_07_49:
+    speaker: noir
+    en: "... They're all so cute and interesting."
+    ko: "…다 귀엽고 흥미로워 보여요."
+    ja: "…どれもかわいくて気になります。"
+  d_ex_toyshop_07_50:
+    speaker: belorta
+    en: I know, right? Mica and I picked them out together!
+    ko: 그렇지? 미카랑 나랑 같이 고른 장난감들이라구~
+    ja: でしょ？ミカと私が一緒に選んだおもちゃだよ～
+  d_ex_toyshop_07_51:
+    speaker: belorta
+    en: I guarantee they'll add an extra dose of excitement to your performances!
+    ko: 기대하는 것보다 더 재밌을 걸♡
+    ja: 期待より面白いはずっ♡
+  d_ex_toyshop_07_52:
+    speaker: blanc
+    en: I don't doubt that!
+    ko: 정말 그래 보여요~!
+    ja: そうですね～！
+  d_ex_toyshop_07_53:
+    speaker: noir
+    en: What's this tree-shaped plushie?
+    ko: "…이 트리 모양 인형은 뭔가요?"
+    ja: "…このツリーのぬいぐるみは何ですか？"
+  d_ex_toyshop_07_54:
+    speaker: mica_w
+    en: Oh, that one? When you press the button on the back...
+    ko: 아, 그 인형은 이 뒤의 버튼을 누르면…!
+    ja: あ、それは後ろのボタンを押すと…！
+  d_ex_toyshop_07_55:
+    speaker: "<Narration>"
+    en: Beebeebeep♪ Beebeebeep♪ Beebeebeepbeebeep♪
+    ko: 삐삐삣~♪ 삐삐삣~♪ 삐빗삐비빗~♪
+    ja: ピピピ～♪ピピピ～♪ピピッピピッ～♪
+  d_ex_toyshop_07_56:
+    speaker: "<Monologue>"
+    en: As music starts playing through a small hidden speaker, the tree begins to
+      dance energetically.
+    ko: 트리 모양 인형에서 노래가 흘러나옴과 동시에, 인형이 격렬하게 춤을 추기 시작했다.
+    ja: |-
+      ツリーのぬいぐるみから音楽が流れ、
+      ぬいぐるみが激しく踊り始めた
+  d_ex_toyshop_07_57:
+    speaker: blanc
+    en: Hahaha, that's so adorable!
+    ko: 아하하, 엄청 귀여운데요?
+    ja: あはは、すごくかわいいですね！
+  d_ex_toyshop_07_58:
+    speaker: noir
+    en: I'm sure the audience would love this.
+    ko: "…무대에 세워놓으면, 관객분들이 좋아하실 것 같아."
+    ja: "…ステージに置いたら、お客さんが喜びそう。"
+  d_ex_toyshop_07_59:
+    speaker: blanc
+    en: Yeah, I think so too! We'll take two of them, then!
+    ko: 응, 그럴 것 같아! 이건 세트로 사자!
+    ja: うん、そうだね！これはセットで買おう！
+  d_ex_toyshop_07_60:
+    speaker: blanc
+    en: Mind helping us pick something too, Pit Boss?
+    ko: 점장님도 하나 골라주실래요?
+    ja: 店長も1つ選んでくれませんか？
+  d_ex_toyshop_07_61:
+    speaker: noir
+    en: Something that would make the stage really pop.
+    ko: "…무대를 화사하게 만들어 줄 상품으로 부탁드려요."
+    ja: |-
+      …ステージを華やかにしてくれる
+      商品をお願いします。
+  d_ex_toyshop_07_62:
+    speaker: "<Self>"
+    en: How about this?
+    ko: 이건 어떨까?
+    ja: これはどうだ？
+  d_ex_toyshop_07_63:
+    speaker: "<Choice>"
+    en: A light bulb that's brimming with Christmas vibes.
+    ko: 크리스마스 느낌이 물씬 나는 전구.
+    ja: クリスマスムードが漂う電球
+  d_ex_toyshop_07_64:
+    speaker: "<Choice>"
+    en: A rabbit figurine with a winter-themed cape.
+    ko: 겨울 망토를 두르고 있는 토끼 모양 인형.
+    ja: ポンチョをまとっているウサギのぬいぐるみ
+  d_ex_toyshop_07_65:
+    speaker: blanc
+    en: Wow!
+    ko: 와, 역시 점장님이세요!
+    ja: わあ、さすが店長です！
+  d_ex_toyshop_07_66:
+    speaker: blanc
+    en: The colors are incredibly vibrant and lovely!
+    ko: 알록달록해서 화사하고 좋네요!
+    ja: カラフルで華やかでいいですね！
+  d_ex_toyshop_07_67:
+    speaker: mica_w
+    en: So pretty
+    ko: 헤헤, 너무 예뻐요.
+    ja: えへへ、すごくキレイです。
+  d_ex_toyshop_07_68:
+    speaker: mica_w
+    en: and eye-catching too!
+    ko: 눈이 즐거워지는 느낌이에요!
+    ja: 目を楽しませてくれますね！
+  d_ex_toyshop_07_69:
+    speaker: noir
+    en: I think it'll look quite nice up on the stage.
+    ko: 무대에 잘 어울릴 것 같아요.
+    ja: ステージにぴったりだと思います。
+  d_ex_toyshop_07_70:
+    speaker: noir
+    en: Thank you, Pit Boss!
+    ko: 감사합니다, 점장님…!
+    ja: ありがとうございます、店長…！
+  d_ex_toyshop_07_71:
+    speaker: mica_w
+    en: That figurine looks so much like you two!
+    ko: 두 분이랑 닮았어요, 이 인형…!
+    ja: このぬいぐるみ、お二人に似てますね…！
+  d_ex_toyshop_07_72:
+    speaker: "<Self>"
+    en: How so?
+    ko: 어디가?
+    ja: どこがだ？
+  d_ex_toyshop_07_73:
+    speaker: mica_w
+    en: Just look at how cute it is!
+    ko: 귀엽고 사랑스러운 점이요.
+    ja: とってもキュートなところが！
+  d_ex_toyshop_07_74:
+    speaker: blanc
+    en: Naw, thanks!
+    ko: 앗, 칭찬 고마워요~
+    ja: あっ、褒めてくれてありがとうございます～！
+  d_ex_toyshop_07_75:
+    speaker: blanc
+    en: We'll take this as well, then.
+    ko: 그럼 이 인형도 살게요!
+    ja: じゃあ、このぬいぐるみも買います！
+  d_ex_toyshop_07_76:
+    speaker: noir
+    en: Thanks, Mica!
+    ko: 고마워요, 미카…!
+    ja: ありがとうございます、ミカ…！
+  d_ex_toyshop_07_77:
+    speaker: blanc
+    en: But, what's the deal with that red box in the corner?
+    ko: 그런데 저쪽 구석에 있는 빨간 상자는 어떤 장난감이에요?
+    ja: |-
+      ところで、そっちの隅にある赤い箱は、
+      どんなおもちゃですか？
+  d_ex_toyshop_07_78:
+    speaker: blanc
+    en: I've been curious about it since earlier!
+    ko: 아까부터 궁금했거든요!
+    ja: さっきから気になってたんです！
+  d_ex_toyshop_07_79:
+    speaker: mica_w
+    en: Oh, that?
+    ko: 어라? 그러게요…!
+    ja: あれ？そうですね…！
+  d_ex_toyshop_07_80:
+    speaker: mica_w
+    en: I've actually never seen this box before...
+    ko: 이런 상자는 처음 보는데….
+    ja: こんな箱は見たことが…
+  d_ex_toyshop_07_81:
+    speaker: "<Monologue>"
+    en: Mica opens the red box lying in the corner.
+    ko: 미카는 구석에 놓여있는 빨간 상자를 열었다.
+    ja: ミカは隅に置いてあった赤い箱を開けた
+  d_ex_toyshop_07_82:
+    speaker: "<Narration>"
+    en: "*Pow powow*"
+    ko: 퍼펑-! 파방-!
+    ja: バン！バーン！
+  d_ex_toyshop_07_83:
+    speaker: mica_w
+    en: Gah!
+    ko: 우…우왓!
+    ja: わ…わあっ！
+  d_ex_toyshop_07_84:
+    speaker: "<Monologue>"
+    en: With a burst of noise, something white shoots up into the sky.
+    ko: 요란한 소리와 함께 하얀 무언가가 하늘로 튀어 올랐다.
+    ja: 大きな音が鳴り、白い何かが飛び出した
+  d_ex_toyshop_07_85:
+    speaker: "<Monologue>"
+    en: After an explosion,
+    ko: 그리고 그 무언가가 터지는 소리와 함께,
+    ja: そして、飛び出した何かが弾ける音と共に
+  d_ex_toyshop_07_86:
+    speaker: "<Monologue>"
+    en: a gentle snowfall of white flakes began to flutter through the air.
+    ko: 장난감 내부에 하얀 눈이 떨어지기 시작했다.
+    ja: おもちゃの中に、白い雪が降り始めた
+  d_ex_toyshop_07_87:
+    speaker: blanc
+    en: Whoa!
+    ko: 와~!
+    ja: わあ～！
+  d_ex_toyshop_07_88:
+    speaker: noir
+    en: How pretty!
+    ko: 예뻐요…!
+    ja: キレイです…！
+  d_ex_toyshop_07_89:
+    speaker: belorta
+    en: Surprise!
+    ko: 짜쟌-!
+    ja: ジャジャーン！
+  d_ex_toyshop_07_90:
+    speaker: belorta
+    en: Do you like the gift I prepared for you?
+    ko: 내가 준비한 서프라이즈 눈 선물 어때?
+    ja: 私が用意した雪のサプライズプレゼント、どう？
+  d_ex_toyshop_07_91:
+    speaker: belorta
+    en: Didn't see that coming, did you?
+    ko: 놀랐지♡
+    ja: 驚いたでしょ♡
+  d_ex_toyshop_07_92:
+    speaker: mica_w
+    en: "... *Sob* That was so mean!"
+    ko: "…으우우… 깜짝 놀랐잖아!"
+    ja: "…うう…びっくりしたよ！"
+  d_ex_toyshop_07_93:
+    speaker: mica_w
+    en: Y-you really startled me!
+    ko: 나빴어…!
+    ja: ひどい…！
+  d_ex_toyshop_07_94:
+    speaker: mica_w
+    en: What's this snow made of, anyway? Cotton?
+    ko: 그리고 이건… 눈이 아니라 솜인데?
+    ja: それにこれは…雪じゃなくて綿じゃない？
+  d_ex_toyshop_07_95:
+    speaker: belorta
+    en: What's your point?
+    ko: 뭐 어때~
+    ja: まあ、いいじゃ～ん♡
+  d_ex_toyshop_07_96:
+    speaker: belorta
+    en: Whether it's snow or cotton, it's all pretty, isn't it?
+    ko: 눈이든 솜이든 예쁘면 그만 아닐까?
+    ja: 雪でも綿でも、キレイならそれで！
+  d_ex_toyshop_07_97:
+    speaker: mica_w
+    en: When will I ever find the time to clean all this up...
+    ko: 이걸 또 언제 다 치워….
+    ja: 片づけが大変そう…
+  d_ex_toyshop_07_98:
+    speaker: mica_w
+    en: But...
+    ko: 아… 그런데.
+    ja: あ…でも…
+  d_ex_toyshop_07_99:
+    speaker: mica_w
+    en: It's really pretty, though.
+    ko: 예쁘긴 하다아….
+    ja: キレイだねぇ…
+  d_ex_toyshop_07_100:
+    speaker: belorta
+    en: You see?
+    ko: 그렇지~?
+    ja: でしょ～？
+  d_ex_toyshop_07_101:
+    speaker: blanc
+    en: Do you have any more of these toy boxes?
+    ko: 벨로타, 혹시 이 상자 장난감은 더 없나요?
+    ja: |-
+      ベロータ、この箱のおもちゃの在庫は
+      ありますか？
+  d_ex_toyshop_07_102:
+    speaker: belorta
+    en: Hmm? Yeah, I do. Why?
+    ko: 응? 더 있긴 한데, 왜?
+    ja: ん？あるけど、どうして？
+  d_ex_toyshop_07_103:
+    speaker: blanc
+    en: These toys would be perfect for the grand finale of our show!
+    ko: 이 장난감을 무대 피날레에 활용하면 정말 멋질 것 같아서요!
+    ja: |-
+      このおもちゃを
+      ステージのフィナーレに使ったら、
+      とても素敵だと思って！
+  d_ex_toyshop_07_104:
+    speaker: noir
+    en: Everyone wouldn't be able to take their eyes off of it.
+    ko: 다들 눈을 떼지 못할 것 같아요… 그러니까.
+    ja: みんな目が釘付けになると思います…だから。
+  d_ex_toyshop_07_105:
+    speaker: noir
+    en: We'll take all that you've got.
+    ko: 저, 저희가 이 장난감…! 다 사 갈게요!
+    ja: わ、私たちがこのおもちゃ…！全部買います！
+  d_ex_toyshop_07_106:
+    speaker: belorta
+    en: Sure thing!
+    ko: 좋아♡
+    ja: は～い♡
+  d_ex_toyshop_07_107:
+    speaker: "<Monologue>"
+    en: Noir and Blanc purchases every last toy box in stock,
+    ko: 누아르, 블랑은 솜 눈이 내리는 장난감을 전부 다 사 갔고.
+    ja: |-
+      ノワール、ブランは綿の雪が降るおもちゃを
+      すべて購入した
+  d_ex_toyshop_07_108:
+    speaker: "<Monologue>"
+    en: setting the highest one-day sales record since the toy store's opening.
+    ko: 이날은 장난감 가게 개점 이래에 최고의 매출을 올린 날이 되었다.
+    ja: |-
+      この日、おもちゃ屋は開店以来、
+      最高の売上を記録した
+d_ex_toyshop_08:
+  d_ex_toyshop_08_1:
+    speaker: "<Monologue>"
+    en: I arrive at the Toy Store after receiving Bay's call.
+    ko: 베이의 연락을 받고 장난감 가게에 왔다.
+    ja: ベイからの連絡を受け、おもちゃ屋にやって来た
+  d_ex_toyshop_08_2:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン―
+  d_ex_toyshop_08_3:
+    speaker: belorta
+    en: Welcome, Old-Timer.
+    ko: 어서 와, 아저씨♡
+    ja: いらっしゃい、おじさん♡
+  d_ex_toyshop_08_4:
+    speaker: mica
+    en: Welcome!
+    ko: 어서 오세요!
+    ja: いらっしゃいませ！
+  d_ex_toyshop_08_5:
+    speaker: bay
+    en: Oh, hello, Coach.
+    ko: 왔어? 코치님.
+    ja: 来たね、コーチ。
+  d_ex_toyshop_08_6:
+    speaker: "<Self>"
+    en: Seems like everyone's here.
+    ko: 응, 다들 있었네.
+    ja: ああ、みんな揃っていたのか
+  d_ex_toyshop_08_7:
+    speaker: "<Monologue>"
+    en: As they greet me warmly, I notice a big box in the room.
+    ko: |-
+      반갑게 맞이해 주는 그들 앞에
+      큰 상자가 하나 놓여있었다.
+    ja: |-
+      歓迎してくれる彼女たちの前に
+      大きな箱が1つ置いてあった
+  d_ex_toyshop_08_8:
+    speaker: "<Self>"
+    en: What's this box for?
+    ko: 이 상자는 뭐야?
+    ja: この箱は何だ？
+  d_ex_toyshop_08_9:
+    speaker: belorta
+    en: Pompoms!
+    ko: 폼폼이야!
+    ja: ポンポンだよ！
+  d_ex_toyshop_08_10:
+    speaker: "<Self>"
+    en: A whole box... full of them?
+    ko: 이 상자 안에 든 게… 전부?
+    ja: この箱の中身…全部か？
+  d_ex_toyshop_08_11:
+    speaker: belorta
+    en: Yeah!
+    ko: 응!
+    ja: うん！
+  d_ex_toyshop_08_12:
+    speaker: mica
+    en: Hehe, are there maybe a bit too many?
+    ko: 헤헤, 조금 많죠?
+    ja: えへへ、ちょっと多いですよね？
+  d_ex_toyshop_08_13:
+    speaker: bay
+    en: I ordered a special pompom for the cheerleading competition,
+    ko: 치어리딩 대회에서 쓸 특별한 폼폼을 주문했는데,
+    ja: |-
+      チアリーディングの大会用に
+      特別なポンポンを注文したんだけど、
+  d_ex_toyshop_08_14:
+    speaker: bay
+    en: and they've prepared so much for me.
+    ko: 이렇게 많이 준비해 준 거 있지.
+    ja: こんなに用意してくれるとは思わなくて。
+  d_ex_toyshop_08_15:
+    speaker: bay
+    en: I gotta pick one of these, but it'd be a real pain to do it alone.
+    ko: |-
+      이 중에 하나를 골라야 하는데
+      혼자는 힘들 것 같아서.
+    ja: |-
+      この中から1つ選ばないといけないんだけど、
+      1人じゃ難しそうだったから、
+  d_ex_toyshop_08_16:
+    speaker: bay
+    en: So, I called you over to help.
+    ko: 코치님한테 연락한 거야.
+    ja: コーチを呼んだってわけ。
+  d_ex_toyshop_08_17:
+    speaker: belorta
+    en: Since Bay's got her eyes set on this for the contest,
+    ko: 베이가 대회에서 쓴다고 하니까~
+    ja: ベイが大会で使うものって聞いて～
+  d_ex_toyshop_08_18:
+    speaker: belorta
+    en: we took special care in preparing this.
+    ko: 우리도 제대로 준비해 봤지♡
+    ja: 私たちも気合を入れて用意したの♡
+  d_ex_toyshop_08_19:
+    speaker: mica
+    en: You can look forward to it!
+    ko: 기대해도 좋아요!
+    ja: 期待してください！
+  d_ex_toyshop_08_20:
+    speaker: "<Self>"
+    en: Okay...
+    ko: "…그래."
+    ja: "…ああ"
+  d_ex_toyshop_08_21:
+    speaker: belorta
+    en: Shall we get started then?
+    ko: 그럼 하나씩 구경해 볼까?
+    ja: それじゃ、1つずつ見てみよっか？
+  d_ex_toyshop_08_22:
+    speaker: "<Monologue>"
+    en: Belorta rummages through the box and takes out a pompom.
+    ko: 벨로타는 상자를 뒤적이더니 폼폼 하나를 꺼냈다.
+    ja: |-
+      ベロータは箱の中をかき回し、
+      ポンポンを1つ取り出した
+  d_ex_toyshop_08_23:
+    speaker: belorta
+    en: Ta-da!
+    ko: 짜잔♡
+    ja: ジャーン♡
+  d_ex_toyshop_08_24:
+    speaker: bay
+    en: Huh? It just looks like a regular pompom.
+    ko: 음? 그냥 평범한 폼폼 같은데?
+    ja: え？普通のポンポンみたいだけど？
+  d_ex_toyshop_08_25:
+    speaker: belorta
+    en: Keke. Of course, it isn't.
+    ko: 흐응~ 그럴 리가.
+    ja: フフーン、まさか。
+  d_ex_toyshop_08_26:
+    speaker: belorta
+    en: Go ahead and shake it!
+    ko: 흔들어봐~!
+    ja: 振ってみて～！
+  d_ex_toyshop_08_27:
+    speaker: "<Narration>"
+    en: "*Flash*"
+    ko: 번쩍-
+    ja: ピカッ
+  d_ex_toyshop_08_28:
+    speaker: "<Monologue>"
+    en: As I shake it, a light blinds me as if a flash bomb has just gone off right
+      before me.
+    ko: 폼폼을 흔들자 섬광탄이 터진 것처럼 일순 시야가 차단되었다.
+    ja: |-
+      ポンポンを振ると、
+      閃光弾が爆発したかのように、
+      一瞬視界が真っ白になった
+  d_ex_toyshop_08_29:
+    speaker: bay
+    en: "...!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_toyshop_08_30:
+    speaker: "<Self>"
+    en: My eyes...
+    ko: 앞이… 보이지 않아.
+    ja: 前が…見えない
+  d_ex_toyshop_08_31:
+    speaker: belorta
+    en: This one's made of a special material. It flashes when you shake it.
+    ko: 특수한 재질로 만들어서 흔들면 빛이 나는데~
+    ja: |-
+      特殊な素材でできてて、
+      振ると光が出るんだけど～
+  d_ex_toyshop_08_32:
+    speaker: belorta
+    en: However, the brightness can’t be adjusted.
+    ko: 빛 세기는 조절이 안 돼!
+    ja: 光の強さは調整出来ないの！
+  d_ex_toyshop_08_33:
+    speaker: bay
+    en: "... I don't think the judges will be able to see us clearly"
+    ko: "…이 폼폼을 쓰면."
+    ja: "…これじゃあ"
+  d_ex_toyshop_08_34:
+    speaker: bay
+    en: if we use this pompom.
+    ko: 우리 치어리딩을 심사위원이 보지 못할 것 같은데.
+    ja: 審査員から、私たちのことが見えないかも。
+  d_ex_toyshop_08_35:
+    speaker: belorta
+    en: Hmm... Is that so?
+    ko: 흐응~ 그런가~?
+    ja: うーん、そうかな～？
+  d_ex_toyshop_08_36:
+    speaker: mica
+    en: Um... How about this one?
+    ko: 음… 그럼 이건 어때요?
+    ja: じゃあ…これなんかどうですか？
+  d_ex_toyshop_08_37:
+    speaker: "<Monologue>"
+    en: Mica takes out a smaller pompom.
+    ko: 미카는 약간 작은 사이즈의 폼폼을 꺼냈다.
+    ja: ミカは少し小さめのポンポンを取り出した
+  d_ex_toyshop_08_38:
+    speaker: mica
+    en: It's got a longer handle, so it won't slip out of your hands easily.
+    ko: 손잡이가 길~어서 놓칠 위험도 없고.
+    ja: |-
+      ながーいハンドル付きなので、
+      うっかり落とす心配もないですし。
+  d_ex_toyshop_08_39:
+    speaker: mica
+    en: Doesn't it look good when I shake it?
+    ko: 나풀나풀한 게 예쁘죠?
+    ja: それに、ふわふわしててカワイイでしょう？
+  d_ex_toyshop_08_40:
+    speaker: bay
+    en: Isn't this...
+    ko: 이건….
+    ja: これは…
+  d_ex_toyshop_08_41:
+    speaker: "<Self>"
+    en: A feather duster?
+    ko: 이거 먼지떨이 아니야?
+    ja: これ、掃除用のはたきじゃないか？
+  d_ex_toyshop_08_42:
+    speaker: mica
+    en: Huh!? Is it?
+    ko: 아! 그런가요?
+    ja: えっ、本当ですか？
+  d_ex_toyshop_08_43:
+    speaker: mica
+    en: It's so cute
+    ko: 너무 예쁘게 생겨서,
+    ja: あまりにもかわいかったから、
+  d_ex_toyshop_08_44:
+    speaker: mica
+    en: that I thought it was a pompom... *Sob*
+    ko: 먼지떨이가 아닌 줄 알았어요. 우우….
+    ja: はたきに見えませんでした。うう…
+  d_ex_toyshop_08_45:
+    speaker: bay
+    en: It doesn't matter.
+    ko: 괜찮아.
+    ja: 気にしないで。
+  d_ex_toyshop_08_46:
+    speaker: bay
+    en: There's a ton of them, so let's keep digging.
+    ko: 아직 많이 남았으니까 다른 것도 보여줄래?
+    ja: まだいっぱいあるから、他のも見せてくれる？
+  d_ex_toyshop_08_47:
+    speaker: mica
+    en: Hehe, okay!
+    ko: 헤헤, 네!
+    ja: えへへ、はい！
+  d_ex_toyshop_08_48:
+    speaker: mica
+    en: There must be one that you'll like!
+    ko: 분명히 베이 마음에 드는 폼폼이 있을 거예요.
+    ja: |-
+      ベイに気に入ってもらえるポンポンが、
+      きっとあるはずです。
+  d_ex_toyshop_08_49:
+    speaker: "<Monologue>"
+    en: But as more and more pompoms are taken out...
+    ko: 하지만 상자에서 폼폼이 하나씩 나올 때마다,
+    ja: しかし、箱からポンポンを1つずつ取り出すたび
+  d_ex_toyshop_08_50:
+    speaker: bay
+    en: Hmm...
+    ko: "…음."
+    ja: "…うん。"
+  d_ex_toyshop_08_51:
+    speaker: bay
+    en: Mm-hmm!
+    ko: 흡!
+    ja: うーん…
+  d_ex_toyshop_08_52:
+    speaker: bay
+    en: Phew...
+    ko: "…후우."
+    ja: "…はあ。"
+  d_ex_toyshop_08_53:
+    speaker: "<Monologue>"
+    en: Bay's face becomes increasingly pale.
+    ko: 베이의 안색은 점점 창백해져 갔다.
+    ja: ベイの顔色はどんどん悪くなっていった
+  d_ex_toyshop_08_54:
+    speaker: mica
+    en: "*Sob* What should we do, Belorta?"
+    ko: 우우… 벨로타 어쩌지.
+    ja: うう…ベロータ、どうしよう？
+  d_ex_toyshop_08_55:
+    speaker: mica
+    en: It seems like there aren't any pompoms that Bay likes.
+    ko: 베이 맘에 드는 폼폼이 없는 것 같아.
+    ja: 気に入るポンポンはなかったみたい。
+  d_ex_toyshop_08_56:
+    speaker: mica
+    en: I've shown her everything we've got...
+    ko: 이젠 더 보여줄 것도 없는데….
+    ja: もう他にないのに…
+  d_ex_toyshop_08_57:
+    speaker: belorta
+    en: Had I known this would happen, I would've prepared more.
+    ko: 흐음~ 더 준비할 걸 그랬나.
+    ja: うーん、もっと用意すればよかったかな。
+  d_ex_toyshop_08_58:
+    speaker: "<Monologue>"
+    en: In the box that used to be filled with a variety of pompoms,
+    ko: 폼폼으로 가득했던 상자 안에는,
+    ja: ポンポンでいっぱいだった箱の中は
+  d_ex_toyshop_08_59:
+    speaker: "<Monologue>"
+    en: only an ordinary pink one remains.
+    ko: 어느새 평범해 보이는 핑크색 폼폼만 덩그러니 남아있었다.
+    ja: |-
+      いつの間にか、ピンク色の
+      平凡なポンポンだけとなっていた
+  d_ex_toyshop_08_60:
+    speaker: "<Self>"
+    en: There's still one left.
+    ko: 아직 하나 남아있는데?
+    ja: まだ1つ残っているぞ？
+  d_ex_toyshop_08_61:
+    speaker: mica
+    en: "*Sob* Those won't make a difference."
+    ko: 우우… 그건 보나 마나일 거예요.
+    ja: うう…それは見るまでもないです。
+  d_ex_toyshop_08_62:
+    speaker: belorta
+    en: Yes, it's too plain to use in a contest!
+    ko: 맞아, 대회에서 쓰기엔 너무 평범해서~
+    ja: そうだよ、大会で使うにはあまりにも普通だし～
+  d_ex_toyshop_08_63:
+    speaker: bay
+    en: Hmm...
+    ko: 음….
+    ja: うーん…
+  d_ex_toyshop_08_64:
+    speaker: bay
+    en: The color seems to go well with Rewind...
+    ko: 색은 리와인드와 잘 맞을 것 같은데….
+    ja: 色はリワインドに合いそうだけど…
+  d_ex_toyshop_08_65:
+    speaker: "<Monologue>"
+    en: After pondering for a while, Bay takes out the pompom and shakes it gently.
+    ko: 베이는 잠시 고민하더니 폼폼을 꺼내 가볍게 흔들었다.
+    ja: |-
+      ベイは少し悩んだ後、
+      ポンポンを取り出して軽く振った
+  d_ex_toyshop_08_66:
+    speaker: bay
+    en: It's so pretty!
+    ko: |-
+      …!!
+      예쁘다.
+    ja: |-
+      …！！
+      キレイ。
+  d_ex_toyshop_08_67:
+    speaker: "<Monologue>"
+    en: Every time she shakes it, specks of colored confetti scatter from the pompom.
+    ko: 폼폼은 흔들릴 때마다 반짝이는 종이꽃가루를 흩날렸다.
+    ja: |-
+      ポンポンを振るたび、
+      光り輝く紙吹雪が舞い散った
+  d_ex_toyshop_08_68:
+    speaker: bay
+    en: I wanna rehearse with it for a bit. Can you help me check how it turns out?
+    ko: |-
+      이걸로 치어리딩 해볼게.
+      괜찮은지 봐줄래?
+    ja: |-
+      これで踊ってみるね。
+      感想を聞かせてくれる？
+  d_ex_toyshop_08_69:
+    speaker: belorta
+    en: Here? Now?
+    ko: 여기서? 지금?
+    ja: 今、ここで？
+  d_ex_toyshop_08_70:
+    speaker: bay
+    en: Yeah, I'd like to hear your opinions.
+    ko: 응, 모두의 의견을 듣고 싶어.
+    ja: うん、みんなの意見が聞きたいから。
+  d_ex_toyshop_08_71:
+    speaker: "<Self>"
+    en: Got it.
+    ko: 알았어.
+    ja: 分かった
+  d_ex_toyshop_08_72:
+    speaker: "<Monologue>"
+    en: Bay starts a cheerleading routine with the pink pompom.
+    ko: 베이가 핑크색 폼폼을 들고 치어리딩을 시작했다.
+    ja: |-
+      ベイはピンク色のポンポンを持って
+      チアリーディングを始めた
+  d_ex_toyshop_08_73:
+    speaker: bay
+    en: Go! Go! Victory! Go! Go! Victory!
+    ko: |-
+      Go! Go! Victory!
+      Go! Go! Victory!
+    ja: |-
+      Go！Go！Victory！
+      Go！Go！Victory！
+  d_ex_toyshop_08_74:
+    speaker: bay
+    en: You can do it!
+    ko: You can do it!
+    ja: You can do it！
+  d_ex_toyshop_08_75:
+    speaker: "<Narration>"
+    en: "*Spin*"
+    ko: 빙글-
+    ja: クルッ
+  d_ex_toyshop_08_76:
+    speaker: bay
+    en: Cheer up!
+    ko: Cheer Up!
+    ja: Cheer Up！
+  d_ex_toyshop_08_77:
+    speaker: "<Narration>"
+    en: "*Whoosh*"
+    ko: 착-!
+    ja: パッ！
+  d_ex_toyshop_08_78:
+    speaker: "<Monologue>"
+    en: With the final cheer, she raises the pompom high,
+    ko: 마지막 구호와 함께 폼폼을 위로 높게 뻗자,
+    ja: 最後のコールと共にポンポンを高く振り上げると
+  d_ex_toyshop_08_79:
+    speaker: "<Monologue>"
+    en: and paper confetti scatters over her head like a shower of flower petals.
+    ko: 베이의 머리 위로 종이꽃가루가 흩뿌려졌다.
+    ja: ベイの頭上から紙吹雪が舞い落ちた
+  d_ex_toyshop_08_80:
+    speaker: bay
+    en: "*Huff huff*"
+    ko: 하아, 하아.
+    ja: はあ、はあ…
+  d_ex_toyshop_08_81:
+    speaker: bay
+    en: How was it?
+    ko: 어때?
+    ja: どうだった？
+  d_ex_toyshop_08_82:
+    speaker: mica
+    en: Wow, it was like you were dancing in a rain of flowers!
+    ko: 우와아~ 베이의 주위로 꽃이 떨어지는 것 같아요.
+    ja: |-
+      わあ～！ベイの周りに
+      花びらが舞い散ってるみたいです。
+  d_ex_toyshop_08_83:
+    speaker: mica
+    en: Hehe, it looks amazing!
+    ko: 헤헤, 너무 예뻐요!
+    ja: えへへ、とってもキレイです！
+  d_ex_toyshop_08_84:
+    speaker: belorta
+    en: That's right!
+    ko: 그러게~
+    ja: そうだね～
+  d_ex_toyshop_08_85:
+    speaker: belorta
+    en: Your cheerleading routine
+    ko: 우리가 보기엔 평범한 폼폼이었는데.
+    ja: 私たちが見た時は普通のポンポンだったのに、
+  d_ex_toyshop_08_86:
+    speaker: belorta
+    en: made this normal-looking pompom
+    ko: 베이의 치어리딩과 만나니까.
+    ja: ベイのチアリーディングと合わさって、
+  d_ex_toyshop_08_87:
+    speaker: belorta
+    en: so special!
+    ko: 특별한 폼폼이 됐네♡
+    ja: 特別なポンポンに変わったんだね♡
+  d_ex_toyshop_08_88:
+    speaker: bay
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_toyshop_08_89:
+    speaker: bay
+    en: I'm flattered...
+    ko: 그렇지 않아….
+    ja: そんなこと…
+  d_ex_toyshop_08_90:
+    speaker: mica
+    en: Bay must be tired, Old-Timer.
+    ko: 아저씨, 베이가 치어리딩 해서 힘든가 봐요.
+    ja: おじさん、ベイが疲れちゃったみたいです。
+  d_ex_toyshop_08_91:
+    speaker: mica
+    en: Her face has gone all red!
+    ko: 얼굴이 빨개졌어요!
+    ja: 顔が真っ赤ですよ！
+  d_ex_toyshop_08_92:
+    speaker: "<Self>"
+    en: She's all right. It must be something else.
+    ko: 괜찮아, 다른 이유 때문일 거야.
+    ja: 大丈夫だ、おそらく別の理由だから
+  d_ex_toyshop_08_93:
+    speaker: belorta
+    en: Naw, Bay's sooo cute!
+    ko: 베이도 참~ 귀엽다니까♡
+    ja: ベイったら～かわいい♡
+  d_ex_toyshop_08_94:
+    speaker: "<Monologue>"
+    en: Bay cradles the pompoms in her arms tightly before speaking.
+    ko: 베이가 폼폼을 꼬옥- 품에 안으며 말했다.
+    ja: ベイはポンポンを抱きしめながら答えた
+  d_ex_toyshop_08_95:
+    speaker: bay
+    en: Thank you, everyone.
+    ko: 고마워, 모두.
+    ja: ありがとう、みんな。
+  d_ex_toyshop_08_96:
+    speaker: bay
+    en: I'll try my best to practice with this pompom.
+    ko: 이 폼폼으로 열심히 대회 준비해 볼게.
+    ja: このポンポンで大会の練習、頑張るね。
+  d_ex_toyshop_08_97:
+    speaker: "<Self>"
+    en: We'll be cheering for you.
+    ko: 응원할게.
+    ja: 応援してる
+  d_ex_toyshop_08_98:
+    speaker: belorta
+    en: Good luck!
+    ko: 파이팅♡
+    ja: 頑張ってね♡
+  d_ex_toyshop_08_99:
+    speaker: mica
+    en: You can do it!
+    ko: 파이팅이에요~!
+    ja: 頑張ってください！
+  d_ex_toyshop_08_100:
+    speaker: "<Monologue>"
+    en: Some time later.
+    ko: 얼마 후.
+    ja: その後
+  d_ex_toyshop_08_101:
+    speaker: "<Monologue>"
+    en: There's some buzz on social media about Rewind winning the cheerleading contest.
+    ko: SNS에는 리와인드의 대회 수상 소식과 함께,
+    ja: SNSにはリワインドの受賞のニュースと共に
+  d_ex_toyshop_08_102:
+    speaker: "<Monologue>"
+    en: They've even got this picture of Bay beaming under a cascade of colorful confetti.
+    ko: 종이꽃가루 아래에서 환하게 웃는 베이의 사진이 실렸다.
+    ja: |-
+      舞い散る紙吹雪の中、満面の笑みを浮かべている
+      ベイの写真が掲載された
+d_ex_toyshop_09:
+  d_ex_toyshop_09_1:
+    speaker: "<Narration>"
+    en: "*Ding dong*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_toyshop_09_2:
+    speaker: mica
+    en: Old-Timer, hello!
+    ko: 아저씨, 안녕하세요!
+    ja: おじさん、こんにちは！
+  d_ex_toyshop_09_3:
+    speaker: belorta
+    en: Welcome!
+    ko: 어서 와♡
+    ja: いらっしゃい♡
+  d_ex_toyshop_09_4:
+    speaker: zwei
+    en: Oh, Teacher?
+    ko: 어? 선생님?
+    ja: あれ？先生？
+  d_ex_toyshop_09_5:
+    speaker: "<Self>"
+    en: Zwei, fancy seeing you here.
+    ko: 츠바이도 있었네.
+    ja: ツバイもいたのか
+  d_ex_toyshop_09_6:
+    speaker: "<Self>"
+    en: Are you here to buy toys?
+    ko: 장난감 사러 온 거야?
+    ja: おもちゃを買いにきたのか？
+  d_ex_toyshop_09_7:
+    speaker: zwei
+    en: Oh no,
+    ko: 네?
+    ja: はい？
+  d_ex_toyshop_09_8:
+    speaker: zwei
+    en: I'm not here for that.
+    ko: 아뇨, 장난감 사러 온 거 아니에요.
+    ja: いいえ、違います。
+  d_ex_toyshop_09_9:
+    speaker: mica
+    en: Huh?
+    ko: 엇?
+    ja: えっ？
+  d_ex_toyshop_09_10:
+    speaker: belorta
+    en: What?
+    ko: 응?
+    ja: ん？
+  d_ex_toyshop_09_11:
+    speaker: belorta
+    en: You're not?
+    ko: 장난감을 사러온 게 아니라구?
+    ja: おもちゃを買いにきたんじゃないの？
+  d_ex_toyshop_09_12:
+    speaker: mica
+    en: But this is the Toy Store.
+    ko: 여긴 장난감 가게인데….
+    ja: ここはおもちゃ屋ですけど…
+  d_ex_toyshop_09_13:
+    speaker: zwei
+    en: I know,
+    ko: 아, 그렇죠.
+    ja: あ、そうですよね。
+  d_ex_toyshop_09_14:
+    speaker: zwei
+    en: but Rei said you sell all kinds of interesting items here.
+    ko: 그건 알고 있어요, 그런데.
+    ja: それは分かっています。でも…
+  d_ex_toyshop_09_15:
+    speaker: zwei
+    en: Things that improve your concentration
+    ko: |-
+      라이 선배가 여긴 아주 흥미로운 물건들을
+      많이 팔고 있다더라고요.
+    ja: |-
+      ライ先輩から、ここにはすごく面白いものが
+      たくさん売っていると聞いたんです。
+  d_ex_toyshop_09_16:
+    speaker: zwei
+    en: or help your grades go up.
+    ko: 집중력을 높여주는 물건? 이라든지.
+    ja: 集中力を上げてくれるもの？とか…
+  d_ex_toyshop_09_17:
+    speaker: zwei
+    en: Oh,
+    ko: 성적이 쑥쑥 오르는 물건도 있다고 했어요.
+    ja: 成績をグングン上げてくれるものもあるって。
+  d_ex_toyshop_09_18:
+    speaker: zwei
+    en: and snacks that help clear your mind.
+    ko: 머리를 맑게 해주는 간식 같은 것도요.
+    ja: |-
+      頭をスッキリさせてくれるおやつもあると
+      言っていました。
+  d_ex_toyshop_09_19:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_09_20:
+    speaker: "<Self>"
+    en: Those all sound pretty fantastical to me.
+    ko: 그런 게 있을 리가….
+    ja: そんなもの、あるはず…
+  d_ex_toyshop_09_21:
+    speaker: belorta
+    en: Hehe, you came to the right place!
+    ko: 흐흥~ 뭐야, 잘 찾아왔잖아?
+    ja: フフン～、そうだったんだ！
+  d_ex_toyshop_09_22:
+    speaker: belorta
+    en: You should've just said that's what you were looking for.
+    ko: 진작 그런 걸 찾고 있었다고 이야기하지 그랬어♡
+    ja: |-
+      そういうのが欲しいって
+      最初から言ってくれたらよかったのに♡
+  d_ex_toyshop_09_23:
+    speaker: "<Self>"
+    en: Hold on, you actually have stuff like that?
+    ko: "…그런 게 있어?"
+    ja: "…そんなものがあるのか？"
+  d_ex_toyshop_09_24:
+    speaker: mica
+    en: I don't know about every little thing she mentioned,
+    ko: 다른 건 잘 모르겠지만….
+    ja: 他はよく分かりませんが…
+  d_ex_toyshop_09_25:
+    speaker: mica
+    en: but we do have candies that clear your mind.
+    ko: 머리를 맑게 해준다는 사탕은 있어요.
+    ja: |-
+      頭をスッキリさせてくれるキャンディは
+      あります。
+  d_ex_toyshop_09_26:
+    speaker: mica
+    en: I'll bring them over!
+    ko: 가져와 볼게요!
+    ja: 持ってきますね！
+  d_ex_toyshop_09_27:
+    speaker: belorta
+    en: I'll fetch you something that boosts your concentration and memory.
+    ko: |-
+      그럼 나는 집중력이랑 암기력을 올려주는
+      아이템을 가져올게♡
+    ja: |-
+      じゃあ、私は集中力と暗記力を上げてくれる
+      商品を持ってくるね♡
+  d_ex_toyshop_09_28:
+    speaker: "<Narration>"
+    en: A few moments later.
+    ko: 잠시 후.
+    ja: しばらくして…
+  d_ex_toyshop_09_29:
+    speaker: belorta
+    en: Ta-da!
+    ko: 쨔잔~!
+    ja: ジャーン！
+  d_ex_toyshop_09_30:
+    speaker: belorta
+    en: Here it is!
+    ko: 바로 이거야♡
+    ja: これだよ♡
+  d_ex_toyshop_09_31:
+    speaker: mica
+    en: I brought this too!
+    ko: 저도 가져왔어요!
+    ja: 私も持ってきました！
+  d_ex_toyshop_09_32:
+    speaker: zwei
+    en: What's this?
+    ko: 이게 뭐죠?
+    ja: これは何ですか？
+  d_ex_toyshop_09_33:
+    speaker: zwei
+    en: That's quite a large box.
+    ko: 박스가 크네요.
+    ja: 大きな箱ですね。
+  d_ex_toyshop_09_34:
+    speaker: "<Self>"
+    en: It looks like a board game.
+    ko: 게임 같아 보이는데.
+    ja: ゲームみたいだな
+  d_ex_toyshop_09_35:
+    speaker: belorta
+    en: Great guess, Old-Timer!
+    ko: 아저씨~ 정답♡
+    ja: おじさん、正解♡
+  d_ex_toyshop_09_36:
+    speaker: belorta
+    en: It's a board game that focuses on improving your concentration and memory.
+    ko: 집중력이랑 암기력에 무지 좋은 보드게임이야~
+    ja: |-
+      集中力と暗記力アップにぴったりな
+      ボードゲームだよ！
+  d_ex_toyshop_09_37:
+    speaker: zwei
+    en: A game?
+    ko: "…게임이라고요?"
+    ja: "…ゲームですか？"
+  d_ex_toyshop_09_38:
+    speaker: zwei
+    en: That's not quite what I was looking for.
+    ko: 그럼 제가 찾던 건 아닌 것 같아요.
+    ja: 私が探していたものではないようですが…
+  d_ex_toyshop_09_39:
+    speaker: zwei
+    en: I don't think a game could really improve your cognitive skills all that much.
+    ko: 게임으로 집중력이랑 암기력이 향상될 리가 없잖아요.
+    ja: ゲームで集中力と暗記力が上がるなんて。
+  d_ex_toyshop_09_40:
+    speaker: belorta
+    en: Trust me, you'll change your mind once you try it.
+    ko: 한번 해보면 생각이 달라질걸~?
+    ja: とりあえずやってみない？
+  d_ex_toyshop_09_41:
+    speaker: belorta
+    en: Come on, give it a shot.
+    ko: 딱 한 번만 해보자, 응?
+    ja: 1回だけやってみよ！ねっ？
+  d_ex_toyshop_09_42:
+    speaker: mica
+    en: And make sure to try this candy too.
+    ko: 헤헤, 이 사탕도 꼭 드셔보세요.
+    ja: |-
+      えへへ。このキャンディも
+      召し上がってみてください。
+  d_ex_toyshop_09_43:
+    speaker: mica
+    en: It'll help, guaranteed.
+    ko: 도움이 될 거예요.
+    ja: お役に立つと思います。
+  d_ex_toyshop_09_44:
+    speaker: zwei
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_09_45:
+    speaker: zwei
+    en: Sure, just once.
+    ko: 그럼… 딱 한 번이에요.
+    ja: じゃあ…1回だけ…
+  d_ex_toyshop_09_46:
+    speaker: belorta
+    en: Great!
+    ko: 좋아♡
+    ja: うん♡
+  d_ex_toyshop_09_47:
+    speaker: belorta
+    en: Why don't you join us, Old-Timer?
+    ko: 아저씨도 같이 하는 거다?
+    ja: おじさんも一緒にやろう！
+  d_ex_toyshop_09_48:
+    speaker: belorta
+    en: All right, let's start!
+    ko: 그럼, 시이작~!
+    ja: それじゃ、始めよ！
+  d_ex_toyshop_09_49:
+    speaker: "<Monologue>"
+    en: I am unwittingly roped into playing the game.
+    ko: 나는 얼떨결에 휘말려 게임에 참여하게 되었고.
+    ja: 私も成り行きでゲームに参加することになった
+  d_ex_toyshop_09_50:
+    speaker: "<Monologue>"
+    en: One round later...
+    ko: 한 판이 끝난 후.
+    ja: ゲームが終わり…
+  d_ex_toyshop_09_51:
+    speaker: belorta
+    en: What the... you're doing great for your first time!
+    ko: 뭐야~ 처음 하는 사람치고 너무 잘하는데?
+    ja: 初めてにしてはすごく上手だね！
+  d_ex_toyshop_09_52:
+    speaker: belorta
+    en: What'd you think?
+    ko: 어땠어, 어땠어?
+    ja: どうだった？
+  d_ex_toyshop_09_53:
+    speaker: zwei
+    en: Wow.
+    ko: "…와."
+    ja: "…わあ…"
+  d_ex_toyshop_09_54:
+    speaker: zwei
+    en: This game is more intense than I thought it'd be.
+    ko: 이 게임… 생각했던 것보다 더 체계적이고 본격적이네요.
+    ja: |-
+      このゲーム…思っていたよりも
+      ルールがしっかりしていて本格的ですね。
+  d_ex_toyshop_09_55:
+    speaker: zwei
+    en: I think I'm getting hooked.
+    ko: 어쩐지… 빠져들어요.
+    ja: なんだか…ハマりそうです。
+  d_ex_toyshop_09_56:
+    speaker: "<Self>"
+    en: Did you have fun?
+    ko: 재밌었어?
+    ja: 楽しかったか？
+  d_ex_toyshop_09_57:
+    speaker: zwei
+    en: "... Yeah."
+    ko: "…네."
+    ja: "…はい。"
+  d_ex_toyshop_09_58:
+    speaker: zwei
+    en: Plus, the candy Mica gave me seems to be working.
+    ko: 게다가 미카가 줬던 사탕도 정말 효과가 있는 것 같아요.
+    ja: |-
+      それに、ミカがくれたキャンディも
+      本当に効果がありました。
+  d_ex_toyshop_09_59:
+    speaker: zwei
+    en: The refreshing sensation in my mouth made my mind feel clearer.
+    ko: 입안에서 시원한 느낌이 퍼지니까, 머리가 맑아지는 느낌이었어요.
+    ja: |-
+      口の中がスッキリして、
+      頭もスッキリした気がします。
+  d_ex_toyshop_09_60:
+    speaker: mica
+    en: Hehe, I'm glad it worked for you.
+    ko: 헤헤, 효과가 좋았다니 기뻐요.
+    ja: えへへ、よかったです。
+  d_ex_toyshop_09_61:
+    speaker: zwei
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_09_62:
+    speaker: zwei
+    en: Let's play another round.
+    ko: 저희 한 판 더 해요.
+    ja: もう1回やりましょう。
+  d_ex_toyshop_09_63:
+    speaker: belorta
+    en: Sure, this time I'll win!
+    ko: 좋아~ 이번엔 내가 이겨야지♡
+    ja: うん！次は私が勝つよ♡
+  d_ex_toyshop_09_64:
+    speaker: "<Monologue>"
+    en: After another round.
+    ko: 다시 한 판이 끝난 후.
+    ja: 二戦目が終わり…
+  d_ex_toyshop_09_65:
+    speaker: belorta
+    en: Dang it! I lost again.
+    ko: 에이, 또 져버렸네~
+    ja: え～また負けちゃった～
+  d_ex_toyshop_09_66:
+    speaker: zwei
+    en: Let's go again.
+    ko: "…한 판 더 해요."
+    ja: "…もう1回やりましょう。"
+  d_ex_toyshop_09_67:
+    speaker: "<Monologue>"
+    en: After yet another round...
+    ko: 또 한 판이 끝난 후.
+    ja: 三戦目が終わった
+  d_ex_toyshop_09_68:
+    speaker: mica
+    en: Ugh... you're just too good at this, Zwei.
+    ko: 우우… 츠바이… 너무 강해요.
+    ja: うう…ツバイ…強すぎます。
+  d_ex_toyshop_09_69:
+    speaker: zwei
+    en: O-one more round.
+    ko: "…하, 한 판만 더요."
+    ja: "…も、もう1回やりましょう。"
+  d_ex_toyshop_09_70:
+    speaker: "<Self>"
+    en: Zwei, are you okay?
+    ko: 츠바이, 괜찮아?
+    ja: ツバイ、大丈夫か？
+  d_ex_toyshop_09_71:
+    speaker: "<Self>"
+    en: Your eyes look strange.
+    ko: 눈빛이 이상한데.
+    ja: 目がおかしいぞ
+  d_ex_toyshop_09_72:
+    speaker: zwei
+    en: I-I'm fine.
+    ko: 저, 전 괜찮아요.
+    ja: わ、私は大丈夫です。
+  d_ex_toyshop_09_73:
+    speaker: zwei
+    en: Let's keep going!
+    ko: 그러니까 한 판 더 해요…!
+    ja: だから、もう1回やりましょう…！
+  d_ex_toyshop_09_75:
+    speaker: "<Monologue>"
+    en: We kept playing late into the night,
+    ko: 그렇게 밤이 늦을 때까지 우리는 게임을 계속 이어 나갔고.
+    ja: こうして夜遅くまで私たちはゲームを続け…
+  d_ex_toyshop_09_76:
+    speaker: "<Monologue>"
+    en: and Zwei ended up buying both the candy and the game.
+    ko: 츠바이는 사탕과 게임을 사 갔다.
+    ja: |-
+      ツバイはキャンディとゲームを買って
+      帰っていった
+  d_ex_toyshop_09_77:
+    speaker: "<Monologue>"
+    en: I've heard that Zwei got addicted to that game for a while and just couldn't
+      tear herself away.
+    ko: |-
+      …들리는 소문으로는
+      츠바이는 한동안 그 게임에 중독되어 벗어나지 못했다고 한다.
+    ja: |-
+      …噂によると、ツバイはしばらくの間
+      そのゲームにすっかりハマり、
+      止められなくなったそうだ
+d_ex_toyshop_10:
+  d_ex_toyshop_10_1:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_toyshop_10_2:
+    speaker: mast_m
+    en: Hey, Master Captain!
+    ko: 오잉? 주인장?
+    ja: ん？ご主人様？
+  d_ex_toyshop_10_3:
+    speaker: "<Self>"
+    en: Hey, Mast.
+    ko: 마스트?
+    ja: マスト？
+  d_ex_toyshop_10_4:
+    speaker: mast_m
+    en: What are you doing here?
+    ko: 이곳에 어쩐 일이요?
+    ja: どうしてここに？
+  d_ex_toyshop_10_5:
+    speaker: "<Self>"
+    en: I came to see Belorta and Mica, what about you?
+    ko: |-
+      나는 벨로타랑 미카 보러 왔는데.
+      마스트는 어쩐 일이야?
+    ja: |-
+      ベロータとミカに会いに来たんだ。
+      マストは？
+  d_ex_toyshop_10_6:
+    speaker: mast_m
+    en: I want to buy Morgan some new clothes.
+    ko: 나는 모건의 옷을 사러 왔수.
+    ja: 私はモーガンの服を買いに来たんだ。
+  d_ex_toyshop_10_7:
+    speaker: mast_m
+    en: His outfit tore while we were working at the Maid Cafe.
+    ko: 메이드 카페에서 일하다 옷이 찢어져서 말이요!
+    ja: |-
+      メイドカフェでの仕事中に、
+      服が破けちまってさ！
+  d_ex_toyshop_10_8:
+    speaker: "<Self>"
+    en: Why didn't you go to a clothing store?
+    ko: 왜 옷가게로 안 가고?
+    ja: なぜ服屋じゃなくてここに？
+  d_ex_toyshop_10_9:
+    speaker: mast_m
+    en: Nothing I'd find at a clothing store would be able to fit Morgan.
+    ko: 주인장, 옷가게에 모건에게 맞는 옷이 있겠수?
+    ja: ご主人様。服屋にモーガンの服があると思うか？
+  d_ex_toyshop_10_10:
+    speaker: mast_m
+    en: He's no bigger than a doll.
+    ko: 모건 사이즈는 딱 봐도 인형 사이즈잖수!
+    ja: |-
+      モーガンのサイズは、
+      どう見たって人形サイズだろ！
+  d_ex_toyshop_10_11:
+    speaker: "<Self>"
+    en: Oh, I guess you're right.
+    ko: 아, 그렇겠네.
+    ja: あぁ、確かに
+  d_ex_toyshop_10_12:
+    speaker: morgan
+    en: Doofus! Doofus!
+    ko: 주인장 바보! 주인장 바보!
+    ja: ご主人様のバカ！ご主人様のバカ！
+  d_ex_toyshop_10_13:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_10_14:
+    speaker: mast_m
+    en: Anyway, I think Belorta and Mica have stepped out.
+    ko: 그런데 벨로타와 미카가 잠깐 자리를 비운 것 같수.
+    ja: |-
+      でもベロータもミカも
+      どっか行っちまったのか…
+  d_ex_toyshop_10_15:
+    speaker: mast_m
+    en: The place was empty when I got here.
+    ko: |-
+      가게 들어왔더니.
+      휑~ 하니 아무도 없구만.
+    ja: 店に入ったら、誰もいないんだよ。
+  d_ex_toyshop_10_16:
+    speaker: "<Self>"
+    en: I wonder where they could have gone?
+    ko: "…어디 놀러 갔나 보네."
+    ja: "…どこかに遊びに出かけたようだな"
+  d_ex_toyshop_10_17:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_toyshop_10_18:
+    speaker: biscuit
+    en: Hello Bel—Huh? Trainer?
+    ko: 안녕하세… 오잉! 훈련사님?
+    ja: こんにち…あれっ？訓練士さん？
+  d_ex_toyshop_10_19:
+    speaker: "<Self>"
+    en: Hi, Biscuit.
+    ko: 비스킷?
+    ja: ビスケット？
+  d_ex_toyshop_10_20:
+    speaker: biscuit
+    en: What a treat running into you here!
+    ko: |-
+      여기서 훈련사님을 만나니까
+      기분이 좋네요~ 헤헤!
+    ja: |-
+      ここで訓練士さんに会えるなんて
+      嬉しいです～えへへ！
+  d_ex_toyshop_10_21:
+    speaker: mast_m
+    en: Hi, Biscuit.
+    ko: 비스킷 양반?
+    ja: ビスケットさん？
+  d_ex_toyshop_10_22:
+    speaker: biscuit
+    en: Oh, hey, Mast. I didn't see you there.
+    ko: |-
+      마스트도 계셨네요?
+      안녕하세요!
+    ja: |-
+      マストもいたんですか？
+      こんにちは！
+  d_ex_toyshop_10_23:
+    speaker: "<Self>"
+    en: What are you doing at the toy store?
+    ko: 비스킷은 장난감 가게에 어쩐 일이야?
+    ja: ビスケットはおもちゃ屋に何の用だ？
+  d_ex_toyshop_10_24:
+    speaker: biscuit
+    en: I came to buy some toys for the puppies.
+    ko: 강아지들 장난감 사러 왔어요!
+    ja: ワンちゃんたちのおもちゃを買いに来ました！
+  d_ex_toyshop_10_25:
+    speaker: biscuit
+    en: I bought some yesterday, but they broke right away.
+    ko: 어제 샀는데, 오늘 바로 고장 내는 바람에… 헤헤!
+    ja: |-
+      昨日買ったばかりなんですけど、
+      すぐ壊れちゃって…えへへ！
+  d_ex_toyshop_10_26:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_10_27:
+    speaker: biscuit
+    en: Where are Belorta and Mica?
+    ko: 그런데 벨로타랑 미카는 안 보이네요?
+    ja: でもベロータとミカがいませんね。
+  d_ex_toyshop_10_28:
+    speaker: mast_m
+    en: We think they must have gone somewhere else for a bit.
+    ko: 잠깐 자리를 비운 모양이요.
+    ja: ちょっと出かけてるみたいなんだ。
+  d_ex_toyshop_10_29:
+    speaker: biscuit
+    en: I see... The puppies are all waiting for me, so I really need to hurry back.
+    ko: |-
+      후움… 그렇군요.
+      강아지들이 기다리고 있어서 빨리 가봐야 하는데.
+    ja: |-
+      うーん…そうですか。
+      みんなが待ってるから早く帰らないと…
+  d_ex_toyshop_10_30:
+    speaker: mast_m
+    en: And I need to buy Morgan some new duds and get back to the Maid Cafe ASAP.
+    ko: |-
+      나도 얼른 모건의 옷을 사고
+      메이드 카페로 복귀 해야 하는데 이것 참….
+    ja: |-
+      私も早くモーガンの服を買って
+      メイドカフェに戻らねえと…
+  d_ex_toyshop_10_31:
+    speaker: biscuit
+    en: What was that about Morgan?
+    ko: 모건의 옷이요?
+    ja: モーガンの服ですか？
+  d_ex_toyshop_10_32:
+    speaker: mast_m
+    en: His clothes got torn, so I'm getting him new threads.
+    ko: 모건의 옷이 찢어져버렸거든.
+    ja: ああ、モーガンの服が破れちまったんだ。
+  d_ex_toyshop_10_33:
+    speaker: biscuit
+    en: Oh, gotcha! Why don't I lend you some puppy clothes?
+    ko: |-
+      헙! 그렇군요!
+      그럼 강아지 옷을 빌려드릴까요?
+    ja: |-
+      えっ！そうなんですか？
+      じゃあ、ワンちゃんの服を貸しましょうか？
+  d_ex_toyshop_10_34:
+    speaker: mast_m
+    en: Puppy clothes?
+    ko: 강아지 옷을?
+    ja: イヌの服？
+  d_ex_toyshop_10_35:
+    speaker: biscuit
+    en: Wouldn't that work in a pinch?
+    ko: 예! 임시방편으로라도 입고 있으면 괜찮지 않을까요?
+    ja: |-
+      はい！とりあえずの代用品として、
+      どうでしょう？
+  d_ex_toyshop_10_36:
+    speaker: mast_m
+    en: Hmm... I appreciate the offer, but we need something pretty specific.
+    ko: 으음… 마음은 고맙지만.
+    ja: うーん…気持ちはありがたいけど…
+  d_ex_toyshop_10_37:
+    speaker: mast_m
+    en: A butler outfit, to be precise.
+    ko: 모건이 집사 컨셉이라 정장 같은 옷이 필요해서 말이지.
+    ja: |-
+      モーガンは執事がコンセプトだから
+      スーツっぽい服が必要なんだ。
+  d_ex_toyshop_10_38:
+    speaker: biscuit
+    en: Oh, sorry, but I don't have anything like that.
+    ko: |-
+      …아, 죄송해요.
+      그런 옷은 없어요.
+    ja: |-
+      …あっ、すみません。
+      そういう服はないですね…
+  d_ex_toyshop_10_39:
+    speaker: "<Monologue>"
+    en: Biscuit's ears and tail droop.
+    ko: 비스킷의 귀와 꼬리가 축 쳐졌다.
+    ja: ビスケットの耳と尻尾が力なく垂れた
+  d_ex_toyshop_10_40:
+    speaker: mast_m
+    en: You don't have to apologize!
+    ko: 아냐 아냐, 비스킷 양반이 죄송할 건 하나도 없지!
+    ja: いやいや、ビスケットさんが謝る必要はないぞ！
+  d_ex_toyshop_10_41:
+    speaker: mast_m
+    en: Jeez, it's been a while already.
+    ko: 이런, 시간이 꽤 흘렀구만.
+    ja: おっと、もうこんな時間か。
+  d_ex_toyshop_10_42:
+    speaker: mast_m
+    en: The cafe is gonna be packed with customers before long.
+    ko: 메이드 카페에 곧 손님이 몰릴 시간인데….
+    ja: メイドカフェが忙しくなる時間だな…
+  d_ex_toyshop_10_43:
+    speaker: "<Self>"
+    en: As soon as Mica and Belorta return, I'll buy some clothes and bring them to
+      the Maid Cafe.
+    ko: |-
+      미카랑 벨로타가 오는 대로
+      내가 옷을 사서 메이드 카페로 갈게.
+    ja: |-
+      ミカとベロータが戻ってきたら、
+      私が服を買ってメイドカフェに届けよう
+  d_ex_toyshop_10_44:
+    speaker: mast_m
+    en: Really? If you could do that, you'd be a real lifesaver!
+    ko: |-
+      정말이요?!
+      주인장이 그래주면 나야 고맙지!
+    ja: |-
+      いいのか！？
+      ご主人様が買ってきてくれるなら、
+      ありがてぇぜ！
+  d_ex_toyshop_10_45:
+    speaker: mast_m
+    en: Sorry Morgan, but you'll have to go without clothes for a bit.
+    ko: |-
+      모건, 미안하지만.
+      잠깐만 맨몸으로….
+    ja: |-
+      モーガン、悪いんだが、
+      ちょっとの間、裸で…
+  d_ex_toyshop_10_46:
+    speaker: morgan
+    en: Embarrassing! Embarrassing!
+    ko: 부끄러워! 부끄러워!
+    ja: 恥ずかしい！恥ずかしい！
+  d_ex_toyshop_10_47:
+    speaker: biscuit
+    en: I just thought of something! Would a cape work by any chance?
+    ko: |-
+      …아!
+      마스트, 혹시 케이프라도 괜찮으신가요?
+    ja: |-
+      …あっ！
+      マスト、ケープでも大丈夫ですか？
+  d_ex_toyshop_10_48:
+    speaker: mast_m
+    en: A crepe? How's that going to help?
+    ko: |-
+      케이프? 그건 뭐요?
+      크레이프는 아는데….
+    ja: |-
+      けーぷ？なんじゃそりゃ。
+      クレープなら知ってるけど…
+  d_ex_toyshop_10_49:
+    speaker: biscuit
+    en: Not crepe, cape! Here, let me show you.
+    ko: 아, 강아지들 목에 두르는 건데… 잠시만요.
+    ja: |-
+      あっ、ワンちゃんの首に巻くんですけど…
+      ちょっと待ってくださいね。
+  d_ex_toyshop_10_50:
+    speaker: "<Monologue>"
+    en: Biscuit pulls a cape with a black ribbon out of her bag.
+    ko: 비스킷은 가방 안에서 검은색 리본 케이프를 하나 꺼내 들었다.
+    ja: |-
+      ビスケットはカバンから
+      黒いリボンのついたケープを取り出した
+  d_ex_toyshop_10_51:
+    speaker: mast_m
+    en: Oh wow, this should fit with the maid concept perfectly!
+    ko: 오, 이 검은색 리본 케이프라면 메이드 컨셉에도 잘 맞겠구만!
+    ja: お、この色ならメイドカフェにもぴったりだな！
+  d_ex_toyshop_10_52:
+    speaker: biscuit
+    en: Good! I put this around the puppies' necks whenever they're feeling chilly.
+    ko: |-
+      헤헤, 그렇죠?
+      강아지들 목이 허전할 때 종종 걸어주거든요!
+    ja: |-
+      えへへ、でしょう？
+      ワンちゃんの首元が寂しい時によく巻くんです！
+  d_ex_toyshop_10_53:
+    speaker: biscuit
+    en: Morgan, could you indulge me?
+    ko: 모건, 나한테 잠깐 와 볼래?
+    ja: モーガン、ちょっと来てくれる？
+  d_ex_toyshop_10_54:
+    speaker: "<Narration>"
+    en: "*Flutter*"
+    ko: 푸드득-!
+    ja: バサッ――！
+  d_ex_toyshop_10_55:
+    speaker: "<Monologue>"
+    en: Morgan flies over to Biscuit.
+    ko: 모건은 비스킷 앞으로 날아갔다.
+    ja: モーガンはビスケットの前に降り立った
+  d_ex_toyshop_10_56:
+    speaker: biscuit
+    en: This cape is the one the youngest puppy at the shelter wears.
+    ko: |-
+      이 케이프가 우리 보호소 강아지 중에
+      제일 아기 강아지가 매는 케이프인데.
+    ja: |-
+      これはシェルターにいる
+      一番小さいワンちゃんが巻くケープなんだけど…
+  d_ex_toyshop_10_57:
+    speaker: biscuit
+    en: I just hope it'll fit.
+    ko: 모건 목에 맞으려나….
+    ja: モーガンの首に合うかな…
+  d_ex_toyshop_10_58:
+    speaker: "<Monologue>"
+    en: Biscuit ties the cape around Morgan's neck.
+    ko: 비스킷은 모건의 목에 케이프를 둘렀다.
+    ja: ビスケットはモーガンの首にケープを巻いた
+  d_ex_toyshop_10_59:
+    speaker: biscuit
+    en: Hmm... it's a bit loose.
+    ko: |-
+      …움.
+      조금 헐렁하네요.
+    ja: |-
+      …うーん。
+      少し緩いですね。
+  d_ex_toyshop_10_60:
+    speaker: "<Self>"
+    en: Well, a bird's neck and a dog's neck are worlds apart.
+    ko: 아무래도 새의 목과 강아지의 목둘레는 천지차이니까.
+    ja: 鳥の首とイヌの首じゃサイズが違うからな
+  d_ex_toyshop_10_61:
+    speaker: mast_m
+    en: I guess there's not much else we can do. I appreciate you trying to help,
+      Biscuit.
+    ko: |-
+      에고… 어쩔 수 없지!
+      비스킷 양반이 이래저래 도움을 많이 줬는데, 미안하구만.
+    ja: |-
+      うーん…仕方ないか！
+      ビスケットさん、色々手伝ってくれたのに
+      申し訳ないな。
+  d_ex_toyshop_10_62:
+    speaker: biscuit
+    en: No worries, the cape is adjustable!
+    ko: 괜찮아요, 이거 사이즈 조절도 되거든요!
+    ja: 大丈夫です！これ、サイズも調節できるので！
+  d_ex_toyshop_10_63:
+    speaker: "<Narration>"
+    en: "*Stretch*"
+    ko: 쭈욱-!
+    ja: ぐいっ！
+  d_ex_toyshop_10_64:
+    speaker: "<Monologue>"
+    en: Biscuit pulls the elastic band at the back of the cape.
+    ko: 비스킷은 케이프 뒤에 있는 고무줄을 당겼다.
+    ja: |-
+      ビスケットはケープの後ろにある
+      ゴムを引っ張った
+  d_ex_toyshop_10_65:
+    speaker: biscuit
+    en: If I tighten up the elastic band, it should fit, but it may be a bit uncomfortable...
+    ko: 그리고 이 고무줄을 거슬리지 않도록 조금 묶어주면….
+    ja: それから、ゴムが邪魔にならないように縛れば…
+  d_ex_toyshop_10_66:
+    speaker: morgan
+    en: Perfect fit! Perfect fit!
+    ko: |-
+      딱 맞아!
+      딱 맞아!
+    ja: |-
+      ピッタリ！
+      ピッタリ！
+  d_ex_toyshop_10_67:
+    speaker: mast_m
+    en: Does it feel okay, Morgan?
+    ko: 모건, 괜찮수?
+    ja: モーガン、大丈夫か？
+  d_ex_toyshop_10_68:
+    speaker: biscuit
+    en: Dogs come in all different shapes and sizes, so I modified the cape to make
+      it adjustable.
+    ko: |-
+      헤헤, 강아지들도 목둘레가 다 제각각이라.
+      제가 사이즈 조절을 할 수 있게 따로 손을 본 케이프거든요!
+    ja: |-
+      えへへ、ワンちゃんたちも
+      大きさがバラバラなので。
+      調節できるようにアレンジしたんです！
+  d_ex_toyshop_10_69:
+    speaker: biscuit
+    en: That way, all kinds of puppers can fit into it.
+    ko: 그래서 강아지들 여러 마리가 이 케이프를 낄 수 있어요!
+    ja: だからいろんな子がこれを使ってます！
+  d_ex_toyshop_10_70:
+    speaker: mast_m
+    en: You're so talented!
+    ko: 손재주가 좋구만!
+    ja: 手先が器用なんだな！
+  d_ex_toyshop_10_71:
+    speaker: biscuit
+    en: Ha, this is puppy care 101.
+    ko: 강아지들 키우면 이 정도는 기본이죠, 헤헤!
+    ja: |-
+      ワンちゃんたちのお世話をするなら、
+      これくらいは基本です。えへへ！
+  d_ex_toyshop_10_72:
+    speaker: "<Self>"
+    en: It looks good on Morgan.
+    ko: 모건한테 잘 어울려.
+    ja: モーガンによく似合ってる
+  d_ex_toyshop_10_73:
+    speaker: morgan
+    en: Thanks! Thanks!
+    ko: 고마워! 고마워!
+    ja: アリガトウ！アリガトウ！
+  d_ex_toyshop_10_74:
+    speaker: mast_m
+    en: Will it be okay if I borrow this cape, just for today?
+    ko: |-
+      비스킷 양반.
+      혹시 이 케이프 내가 하루만 빌려도 되겠수?
+    ja: |-
+      ビスケットさん。
+      このケープ、1日借りてもいいか？
+  d_ex_toyshop_10_75:
+    speaker: biscuit
+    en: Of course. The puppies don't usually like wearing it because they find it
+      uncomfortable.
+    ko: 그럼요! 강아지들은 불편하다고 잘 안 하거든요.
+    ja: |-
+      もちろんです！
+      実はワンちゃんたちは邪魔くさいのか
+      あんまりしてくれないんです。
+  d_ex_toyshop_10_76:
+    speaker: mast_m
+    en: Thanks! I'll take good care of it and return it to you as soon as I can.
+    ko: 고맙수! 깔끔하게 써서 돌려주리다!
+    ja: ありがてえ！きれいに使って返すぜ！
+  d_ex_toyshop_10_77:
+    speaker: biscuit
+    en: Hehe, hurry along then.
+    ko: 헤헤, 그럼 얼른 가보세요.
+    ja: えへへ、そろそろ行きましょう。
+  d_ex_toyshop_10_78:
+    speaker: biscuit
+    en: I've got to get back to the shelter as well.
+    ko: 저도 이제 보호소로 돌아가야겠어요.
+    ja: 私もシェルターに戻らないと。
+  d_ex_toyshop_10_79:
+    speaker: biscuit
+    en: It's time to play fetch with the puppies.
+    ko: 강아지들이랑 공놀이를 할 시간인데….
+    ja: みんなでボール遊びをする時間なんですが…
+  d_ex_toyshop_10_80:
+    speaker: biscuit
+    en: "... But I guess I can't do that, actually. Since I wasn't able to buy a ball."
+    ko: 후움… 공은 못 사서 공놀이는 못하겠네요.
+    ja: |-
+      うーん…ボールが買えなかったから
+      今日は無理ですね。
+  d_ex_toyshop_10_81:
+    speaker: mast_m
+    en: Would this starfish toy work?
+    ko: |-
+      아, 비스킷 양반.
+      혹시 이 불가사리 장난감도 괜찮수?
+    ja: |-
+      あ、ビスケットさん。
+      このヒトデのおもちゃはどうだ？
+  d_ex_toyshop_10_82:
+    speaker: biscuit
+    en: Hmm? What's this?
+    ko: |-
+      ??
+      이건 뭔가요?
+    ja: |-
+      ？？
+      これは何ですか？
+  d_ex_toyshop_10_83:
+    speaker: mast_m
+    en: I bought some as decorations for the Maid Cafe,
+    ko: |-
+      메이드 카페를 꾸미려고 샀던 장난감인데.
+      불가사리가 하나 남았지 뭐요.
+    ja: |-
+      メイドカフェの飾り用に
+      買ったおもちゃなんだけど、
+      ヒトデが1つ余ったんだ。
+  d_ex_toyshop_10_84:
+    speaker: mast_m
+    en: and I have one left over.
+    ko: 공놀이하니까 이게 생각이 났수.
+    ja: ボール遊びって言われて、これを思い出してさ。
+  d_ex_toyshop_10_85:
+    speaker: mast_m
+    en: Do you think this would work for playing fetch?
+    ko: 혹시 강아지들이 이런 것도 가지고 노는가?
+    ja: イヌたちはこういうのでも遊ぶのか？
+  d_ex_toyshop_10_86:
+    speaker: biscuit
+    en: Oh sure! Those furry lil' guys will play with just about anything.
+    ko: 네! 장난감이라면 뭐든지 다 좋아해요!
+    ja: はい！おもちゃなら何でも喜びます！
+  d_ex_toyshop_10_87:
+    speaker: mast_m
+    en: I'm glad to hear that. In that case, consider this a gift.
+    ko: |-
+      오! 다행이구만!
+      그럼 내가 이거 비스킷 양반에게 선물로 주겠수!
+    ja: |-
+      おっ！よかった！
+      それなら、ビスケットさんにプレゼントするぜ！
+  d_ex_toyshop_10_88:
+    speaker: biscuit
+    en: Really?
+    ko: 정말요?
+    ja: いいんですか？
+  d_ex_toyshop_10_89:
+    speaker: mast_m
+    en: You really saved our butts, so it's only right that Morgan and I repay you
+      in the pirate fashion.
+    ko: |-
+      나와 모건을 도와줬으니.
+      사례를 하는 건 해적으로서 당연한 것이요!
+    ja: |-
+      私とモーガンを手伝ってくれたから、
+      お礼をするのは海賊として当然のことだ！
+  d_ex_toyshop_10_90:
+    speaker: biscuit
+    en: Hehe, thanks.
+    ko: 헤헤, 감사합니다!
+    ja: えへへ、ありがとうございます！
+  d_ex_toyshop_10_91:
+    speaker: mast_m
+    en: Oh boy, would you look at the time? I've gotta get going.
+    ko: |-
+      에그… 벌써 시간이!
+      그럼 나는 이만 가보겠수!
+    ja: |-
+      おっと…もうこんな時間だな！
+      それじゃ、失礼するぜ！
+  d_ex_toyshop_10_92:
+    speaker: mast_m
+    en: See you around.
+    ko: 나중에 또 보슈!
+    ja: またな！
+  d_ex_toyshop_10_93:
+    speaker: biscuit
+    en: I've gotta run too.
+    ko: 저도 이만 가볼게요!
+    ja: 私もそろそろ行きますね！
+  d_ex_toyshop_10_94:
+    speaker: "<Self>"
+    en: Goodbye, everyone.
+    ko: 다들 잘가.
+    ja: みんな、気をつけて
+  d_ex_toyshop_10_95:
+    speaker: "<Monologue>"
+    en: Mast and Biscuit leave the toy store.
+    ko: 마스트와 비스킷이 장난감 가게를 떠났다.
+    ja: マストとビスケットがおもちゃ屋を出て行った
+  d_ex_toyshop_10_96:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_10_97:
+    speaker: "<Self>"
+    en: I guess I should head out as well.
+    ko: "…나도 이만 가야겠다."
+    ja: "…私もそろそろ帰ろう"

@@ -1,0 +1,483 @@
+---
+311_name:
+  en: Cocoa
+  ko: 코코아
+  ja: ココア
+c311_description:
+  en: The pampered youngest member and the Maid Leader of Maid For You. She works
+    hard to complete her duties professionally.
+  ko: |-
+    메이드 포 유의 귀염 받는 막내이자 메이드장.
+    나름대로의 프로 의식을 가지고 메이드 일에 임하고 있다.
+  ja: |-
+    メイド・フォー・ユーでみんなから可愛がられる末っ子であり\nメイド長。
+    自分なりにプロ意識を持ってメイドの仕事に取り組んでいる。
+311_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_311:
+  en: Cocoa's Spare Body
+  ko: 코코아 스페어 바디
+  ja: ココアのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+23112_name:
+  en: Professional Tomato Sauce
+  ko: 프로 케첩
+  ja: プロケチャップ
+23112_description_1:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Professional Tomato Sauce: Damage Taken ▼ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
+  ko: |-
+    ■ 풀차지 공격 시 자신에게
+    <color=#00AEFF>[프로 케첩 : 받는 대미지 {description_value_01}% ▼] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「プロケチャップ：受けるダメージ{description_value_01}％▼」「{description_value_02}スタック」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+13111_name:
+  en: Professional Origami
+  ko: 프로 종이접기
+  ja: プロ折り紙
+13111_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10017>Recovers {description_value_01}% of Cover's HP</word_group>.</color>
+    ■ Affects {description_value_02} random ally unit(s) with debuffs.
+    <color=#00AEFF><word_group=10005>Dispels {description_value_03} debuff(s)</word_group>.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10017>엄폐물 체력 회복</word_group> {description_value_01}%]</color>
+    ■ 해로운 효과 소지 아군 중 무작위 아군 {description_value_02}기에게
+    <color=#00AEFF>[<word_group=10005>해로운 효과 해제</word_group> {description_value_03}개]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10017>遮蔽物HP回復</word_group> {description_value_01}％」</color>
+    ■デバフ効果がかけられている味方のうち、ランダムに{description_value_02}機に
+    <color=#00AEFF>「<word_group=10005>デバフ効果解除</word_group> {description_value_03}個」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13113_name:
+  en: Professional Maid Leader
+  ko: 프로 메이드장
+  ja: プロメイド長
+13113_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10005>Dispels {description_value_01} debuff(s)</word_group>.</color>
+    ■ Activates when Professional Tomato Sauce is fully stacked. Affects all enemies.
+    <color=#00AEFF>ATK ▼ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10005>해로운 효과 해제</word_group> {description_value_01}개]</color>
+    ■ 자신이 프로 케첩 최대 중첩 상태라면 적 전체에게
+    <color=#00AEFF>[공격력 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10005>デバフ効果解除</word_group> {description_value_01}個」</color>
+    ■自分がプロケチャップのフルスタック状態なら、敵全体に
+    <color=#00AEFF>「攻撃力{description_value_02}％▼」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+310_name:
+  en: Ade
+  ko: 에이드
+  ja: エード
+312_name:
+  en: Soda
+  ko: 소다
+  ja: ソーダ
+313_name:
+  en: 'Privaty: Unkind Maid'
+  ko: '프리바티 : 언카인드 메이드'
+  ja: プリバティ：アンカインド・メイド
+314_name:
+  en: 'Soda: Twinkling Bunny'
+  ko: '소다 : 트윙클링 바니'
+  ja: ソーダ：トゥインクルバニー
+c311_Lobby_Touch_1:
+  en: Everything's better with fresh ketchup. The more the better.
+  ko: 케첩. 새 거. 한 통 다 뿌려주께.
+  ja: ケチャップ、新しいの、全部かけてあげる。
+c311_Lobby_Touch_2:
+  en: What would you like me to draw for you, Master?
+  ko: 머 그려줄까, 주인?
+  ja: 主人、なに描いてあげよっか？
+c311_Lobby_Touch_3:
+  en: With this, we can fix just about anything.
+  ko: 갠차나. 이거 하나면 다 해결돼.
+  ja: |-
+    だいじょーぶ。
+    これ1つで問題なし。
+c311_Lobby_Touch_Love_1:
+  en: Will you be having the usual?
+  ko: 주문은 매번 먹는 그거. 맞지?
+  ja: 注文は、いつものあれ。でしょ？
+c311_Lobby_Touch_Love_2:
+  en: Manners make the maid.
+  ko: 매너가. 메이드를. 만드러.
+  ja: マナーが、メイドを、作る。
+c311_Lobby_Touch_Love_3:
+  en: Let's have some fun when Ade isn't looking!
+  ko: 주인~! 에이드 안 볼 때 같이 놀자~!
+  ja: |-
+    主人～！
+    エードが見てないうちに、一緒に遊ぼ～！
+c311_Lobby_Stay_1:
+  en: What are you up to, Master? We can hang out if you don't have anyone to spend
+    time with.
+  ko: 주인 머해? 친구 없으면 코코아가 놀아줄게.
+  ja: |-
+    主人、何してる？
+    友だちがいないなら、ココアが遊んであげる。
+c311_Lobby_Stay_Love_1:
+  en: If you have nothing to do right now, how about we go on an adventure together?
+    Let's find somewhere where we can really make some paper planes fly.
+  ko: 주인. 할 거 없으면 코코아랑 탐험 나갈래? 종이비행기 멀리 날릴 수 있는 곳 찾았어.
+  ja: |-
+    主人。やることないなら、ココアと探検行かない？
+    紙飛行機を遠くまで飛ばせる場所を見つけたの。
+c311_Outpost_Touch_1:
+  en: A real maid can fold 50 napkins at a time. If you're incapable of that, then
+    you can't call yourself a professional.
+  ko: 프로 메이드라면 앉은 자리에서 냅킨으로 딱지 50개는 접을 수 있어야 대. 그게 안 되는 애들은 다 아마추어야.
+  ja: |-
+    プロのメイドなら、 ナプキンで メンコ50個は折れるよ。
+    それができない子は みんなシロウト。
+c311_Outpost_Touch_2:
+  en: At the Maid Cafe, we draw all sorts of fun things on omelet rice and hold napkin-folding
+    competitions. You should come visit sometime.
+  ko: 메이드 카페에서는 오므라이스에 그림도 그려주고, 딱지치기 토너먼트도 열어줘. 그러니까 와서 같이 놀자.
+  ja: |-
+    メイドカフェではオムライスに 絵も描いてあげるし、
+    メンコトーナメントもやってる。 だから一緒に遊ぼう。
+c311_Outpost_Touch_3:
+  en: This here is Cocorella. She does all sorts of things, but she mainly functions
+    as an umbrella. She's got a bit of a temper, so you gotta treat her with respect.
+  ko: 이 녀석은 코코렐라. 직업은 우산이지. 까다로운 녀석이니까 매너를 잘 지켜야 대.
+  ja: |-
+    この子はココレラ。 職業は傘。
+    気難しいからマナーを ちゃんと守って。
+c311_Gacha_Get_1:
+  en: Cocoa, the Maid Leader, at your service.
+  ko: 메이드장 코코아. 체고의 서비스로 모실께.
+  ja: |-
+    メイド長、ココア。
+    サイコーのサービスでおもてなしする。
+c311_Reinforce_1:
+  en: The path to becoming a professional maid is long and trying.
+  ko: 프로의 길은 멀고도 험난하지.
+  ja: プロの道は遠く険しいの。
+c311_Reinforce_2:
+  en: Master, did you see that? I'm getting stronger!
+  ko: 주인, 이거 봐~! 코코아 더 세졌어~!
+  ja: 主人、見て～！ココア、もっと強くなった～！
+c311_Reinforce_3:
+  en: I wonder how powerful Cocorella plans on becoming...
+  ko: 어디까지 더 강해지려는 거냐, 코코렐라.
+  ja: |-
+    どこまで強くなるつもり？
+    ココレラ。
+c311_Gift_1:
+  en: Wow...
+  ko: 우와아아….
+  ja: うわああ…
+c311_Gift_2:
+  en: Soda will be jealous if she sees this. I'll give it to Cocorella for safekeeping.
+  ko: 소다가 이거 보면 부러워할 테니까, 코코렐라한테 맡겨둘게.
+  ja: ソーダが見たら羨ましがるから、ココレラに預けておく。
+c311_Gift_3:
+  en: Wow... How did you know I like this?
+  ko: 헛… 코코아가 이거 좋아하는 걸 어떠케 알았지?
+  ja: えっ…ココアがこれ好きって、どーして分かった？
+c311_Attractive_Up_1:
+  en: You can always find me at the cafe, Master.
+  ko: 코코아, 매일매일 카페에서 주인 기다려.
+  ja: ココア、毎日カフェで主人のこと待ってる。
+c311_Attractive_Up_2:
+  en: I can't remember the last time I had so much fun with someone.
+  ko: 요즘은 주인이랑 노는 게 제일 재밌어.
+  ja: 最近は主人と遊ぶのが一番楽しい。
+c311_Attractive_Up_3:
+  en: Master, I like you just as much as Ade and Soda.
+  ko: 주인 좋아. 에이드랑 소다만큼 좋아.
+  ja: |-
+    主人のこと、好き。
+    エードやソーダと同じくらい好き。
+c311_Party_Deploy_1:
+  en: Someone call for a maid?
+  ko: 프로 메이드, 출격할게.
+  ja: プロメイド、出撃する。
+c311_Field_Touch_1:
+  en: I'm back, Master... Oh wait, not this one.
+  ko: 다녀왔어, 주인… 아, 이거 아니지.
+  ja: |-
+    ただいま、主人…
+    あ、間違えちゃった。
+c311_Field_Go_1:
+  en: Yes sir.
+  ko: 써. 예 써.
+  ja: サー、イエッサー。
+c311_Battle_Enter_1:
+  en: Cocoa, peacekeeper of the world.
+  ko: 코코아, 세계 평화 지켜.
+  ja: ココア、世界の平和を守る。
+c311_Battle_Ready_1:
+  en: Cocorella, activate combat mode.
+  ko: 코코렐라, 전투 모드로 들어간다.
+  ja: ココレラ、戦闘モードに入るよ。
+c311_Battle_Ready_2:
+  en: A professional maid always protects her master.
+  ko: 프로는 주인 반드시 지켜.
+  ja: プロは主人を必ず守る。
+c311_Battle_Ready_3:
+  en: Time to teach them some manners.
+  ko: 지금부터 매너 교육을 시작하게따.
+  ja: 今からマナー教育、始めるよっ。
+c311_Reload_1:
+  en: Fast reload.
+  ko: 신소카게 장전한다.
+  ja: 迅速にそーてんするよ。
+c311_Reload_2:
+  en: Whew... humph!
+  ko: 읏차… 흥!
+  ja: よいしょっ…ふん！
+c311_Reload_3:
+  en: Let's go, Cocorella.
+  ko: 가자, 코코렐라.
+  ja: 行くよ、ココレラ。
+c311_Ult_Skill_Ready_1:
+  en: The time is now!
+  ko: 때가 돼써!
+  ja: このタイミングぅ！
+c311_Ult_Skill_1:
+  en: A maid always knows how to wrap things up.
+  ko: 마무리도 완벽하게. 그게 바로 프로 메이드니깐.
+  ja: |-
+    仕上げも完璧。
+    それがプロのメイドだから。
+c311_FullBurst_1:
+  en: Attention, customers! The time is now!
+  ko: 손님들! 지금이야!
+  ja: お客！今だよ！
+c311_Kill_Monster_1:
+  en: I got it!
+  ko: 잡았다!
+  ja: 捕まえた！
+c311_Kill_Monster_2:
+  en: Hohoho!
+  ko: 흐. 흐. 흐.
+  ja: フッフッフッ。
+c311_Kill_Monster_3:
+  en: Perfect.
+  ko: 음. 완벽해.
+  ja: うん。完璧。
+c311_Damage_1:
+  en: Jeez!
+  ko: 헛.
+  ja: はっ。
+c311_Damage_2:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c311_Damage_3:
+  en: Ow!
+  ko: 아파.
+  ja: 痛い。
+c311_Die_1:
+  en: I failed to protect you, Master...
+  ko: 주인, 못 지켰어….
+  ja: 主人、守れなかった…
+c311_Win_1:
+  en: For a professional maid, this is a piece of pudding.
+  ko: 프로 메이드한테 이 정도쯤, 누워서 푸딩 먹기지.
+  ja: プロのメイドにとっては、プリンを食べるくらい簡単なことだよ。
+311_cv_ja:
+  en: 'CV: Misaki Kuno'
+  ko: 'CV : 쿠노 미사키'
+  ja: CV：久野美咲
+311_cv_ko:
+  en: 'CV: Lee Ji-hyeon'
+  ko: 'CV : 이지현'
+  ja: CV：イ・ジヒョン
+311_cv_en:
+  en: 'CV: Amber Conner'
+  ko: 'CV : 엠버 코너'
+  ja: CV：Amber Conner

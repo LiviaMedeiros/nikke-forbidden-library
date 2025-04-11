@@ -1,0 +1,759 @@
+---
+350_name:
+  en: Mast
+  ko: 마스트
+  ja: マスト
+c350_description:
+  en: |-
+    Mast has longed to hit the high seas ever since she first saw the swashbuckling adventures portrayed in pirate films as a child.
+    As time drew on, however, her soul-crushing tenure at the Naval Squad slowly made her disillusioned.
+    Even so, her vibrant personality remains untarnished, and she always brightens everyone else's day aboard the ship she serves.
+  ko: |-
+    어릴 적 '카스피안의 해적'이라는 영화를 보고 바다를 동경하게 된 니케.
+    원래는 해적이 되고 싶었지만 방주에는 해군 스쿼드밖에 없다는 걸 알고 좌절했다.
+    그럼에도 특유의 발랄함을 잃지 않으며, 배의 분위기를 훈훈하게 띄우는 무드 메이커다.
+  ja: |-
+    幼い頃に「カスピアンの海賊」という映画を観て
+    海に憧れを抱くようになったニケ。
+    本当は海賊になりたかったが、
+    アークには海軍部隊しかないと知り挫折する。
+    それでも持ち前の明るさを失わず、
+    船の雰囲気を盛り上げてくれるムードメーカー。
+350_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_350:
+  en: Mast's Spare Body
+  ko: 마스트 스페어 바디
+  ja: マストのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23502_name:
+  en: Pirate's Sight
+  ko: 해적의 안목
+  ja: 海賊の眼差し
+23502_description:
+  en: |-
+    ■ Activates when entering battle. Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except caster).
+    <color=#00AEFF>Critical Rate ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分と自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「クリティカル確率{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23501_name:
+  en: Pirate's Grit
+  ko: 해적의 근성
+  ja: 海賊の根性
+23501_description:
+  en: |-
+    ■ Activates when crit attack hits {description_value_01} time(s). Affects the target(s).
+    <color=#00AEFF>Sea Breeze: DEF ▼ {description_value_02}% of the caster's DEF, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+    ■ Activates when HP falls below {description_value_05}%. Affects self and {description_value_06} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except caster).
+    <color=#00AEFF>Critical Damage ▲ {description_value_07}% continuously.</color>
+  ko: |-
+    ■ 크리티컬 {description_value_01}회 명중 시 대상에게
+    <color=#00AEFF>[해풍 : 시전자 기준 방어력 {description_value_02}% ▼] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>
+    ■ 자신의 체력이 {description_value_05}% 이하일 때 한하여 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_06}기에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_07}% ▲] [지속]</color>
+  ja: |-
+    ■クリティカル攻撃が{description_value_01}回命中した時、対象に
+    <color=#00AEFF>「海風：スキル発動者基準で防御力{description_value_02}％▼」「{description_value_03}スタック」「{description_value_04}秒間維持」</color>
+    ■自分のHPが{description_value_05}％以下の時に限り、自分と自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_06}機に
+    <color=#00AEFF>「クリティカルダメージ{description_value_07}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13503_name:
+  en: Sail Through the Tempest!
+  ko: 비바람을 뚫고!
+  ja: 嵐を突っ切って！
+13503_description:
+  en: |-
+    ■ Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except caster).
+    <color=#00AEFF>Max HP ▲ {description_value_02}% of the caster's Max HP without restoring HP, lasts for {description_value_03} sec.
+    Critical Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Affects the target(s) afflicted with Sea Breeze.
+    <color=#00AEFF>Storm: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10026>Mirrors the stack count</word_group> of Sea Breeze every 1 sec for {description_value_07} sec.</color>
+  ko: "■ 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게\n<color=#00AEFF>[시전자
+    기준 최대 체력만 {description_value_02}% ▲] [{description_value_03}초 유지] \n[크리티컬 대미지
+    {description_value_04}% ▲] [{description_value_05}초 유지]</color>\n■ 해풍 상태인 대상에게\n<color=#00AEFF>[폭풍
+    : <word_group=10025>최종</word_group> 공격력 {description_value_06}% 대미지] [해풍 <word_group=10026>중첩
+    복사</word_group>] [1초 간격] [{description_value_07}초 유지]</color>"
+  ja: |-
+    ■自分と自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「スキル発動者基準で最大HPのみ
+    {description_value_02}％▲」「{description_value_03}秒間維持」
+    「クリティカルダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■海風状態の対象に
+    <color=#00AEFF>「暴風：<word_group=10025>最終</word_group>攻撃力の{description_value_06}％のダメージ」「海風<word_group=10026>スタックコピー</word_group>」「1秒間隔」「{description_value_07}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+352_name:
+  en: Helm
+  ko: 헬름
+  ja: ヘルム
+353_name:
+  en: 'Helm: Aquamarine'
+  ko: '헬름 : 아쿠아마린'
+  ja: ヘルム：アクアマリン
+354_name:
+  en: 'Mast: Romantic Maid'
+  ko: '마스트 : 로망틱 메이드'
+  ja: マスト：ロマンチックメイド
+355_name:
+  en: 'Anchor: Innocent Maid'
+  ko: '앵커 : 이노센트 메이드'
+  ja: アンカー：イノセントメイド
+351_name:
+  en: Anchor
+  ko: 앵커
+  ja: アンカー
+c350_Lobby_Touch_1:
+  en: Check out my parrot, his name's Morgan. Isn't he awesome?
+  ko: |-
+    이 앵무새 이름은 모건이요.
+    좀 세 보이지 않수?
+  ja: |-
+    このオウムの名前はモーガン。
+    ちょっと強そうじゃないっすか？
+c350_Lobby_Touch_2:
+  en: One of these days, Morgan and I are gonna go check out the ocean.
+  ko: 내 언젠간 모건과 함께 꼭 바다에 나갈 거요.
+  ja: いつかモーガンと一緒に海に出るっ。
+c350_Lobby_Touch_3:
+  en: Morgan cracks me up whenever he does a trick.
+  ko: 하하! 이 녀석 재롱을 보고 있으면 웃음을 참지 못하겠수다.
+  ja: あははっ！こいつのおふざけを見てると笑っちゃうぜ。
+c350_Lobby_Touch_Love_1:
+  en: Morgan and I are on a hunt for buried treasure. Wanna join us?
+  ko: |-
+    모건과 함께 보물섬을 찾으러 갈 거요.
+    …같이 가겠수?
+  ja: |-
+    モーガンと一緒に宝島を見つけにいくぞっ。
+    …一緒に行くっすか？
+c350_Lobby_Touch_Love_2:
+  en: So long as I've got my feathered friend with me, I'm practically invincible.
+    We'll protect you, Captain.
+  ko: |-
+    난 이놈과 함께 있으면 무적이요.
+    선장 양반은 나와 모건이 지켜주지.
+  ja: |-
+    こいつと一緒なら無敵だぁ。
+    船長さんは私とモーガンが守るぜ。
+c350_Lobby_Touch_Love_3:
+  en: |-
+    Isn't this birdbrain adorable?
+    Almost as cute as you, Captain.
+  ko: |-
+    이 녀석 참 귀엽다 아니요?
+    마치 선장 양반같이.
+  ja: |-
+    こいつ、かわいくないっすか？
+    船長さんみたいっ。
+c350_Lobby_Stay_1:
+  en: Where did you go? I'm losing my mind waiting here.
+  ko: |-
+    대체 어디 간 거요?
+    기다리다 목 빠지겠네….
+  ja: |-
+    いったいどこに行ったんだぁ？
+    待ちくたびれたぜ…
+c350_Lobby_Stay_Love_1:
+  en: I'll prepare a bountiful feast, complete with rum, before the Captain arrives.
+  ko: |-
+    선장 양반 오기 전에,
+    맛있는 술과 음식을 준비해 놔야지!
+  ja: 船長さんが来る前に、おいしい酒と料理を準備しねえと！
+c350_Outpost_Touch_1:
+  en: If Helm or Anchor come looking for me, you never saw me.
+  ko: 헬름과 앵커가 날 찾는다면 못 봤다고 해주쇼.
+  ja: ヘルムさんとアンカーさんが 私のこと探してても、 知らないフリしてくれっす。
+c350_Outpost_Touch_2:
+  en: |-
+    Is there no ocean here either?
+    *Sigh* When will I ever set my eyes on the open sea?
+  ko: |-
+    여기도 바다가 없는 거요?
+    에휴, 대체 언제 바다에 나갈 수 있을런지….
+  ja: |-
+    ここにも海がないんすか？
+    ハァ、 いったいいつになったら 海に出られるんだか…
+c350_Outpost_Touch_3:
+  en: Which way to the swimming pool?
+  ko: 수영장은 어디로 가면 되는지 알려주쇼.
+  ja: プールはどこに行けばあるのか、 教えてくれっす。
+c350_Gacha_Get_1:
+  en: Mast is my name, and being a pirate is my game! Together, you and I will find
+    a treasure island.
+  ko: "해적 마스트요! \n나와 함께 보물섬을 찾지 않겠수?"
+  ja: |-
+    海賊マストだぁ！
+    私と一緒に宝島を探さないかぁ？
+c350_Reinforce_1:
+  en: A pirate must be strong.
+  ko: |-
+    해적은 힘이 세야지.
+    암 그렇고말고.
+  ja: |-
+    海賊は力が強くないとな。
+    やってやるぜ！
+c350_Reinforce_2:
+  en: |-
+    Thanks for all the help!
+    I'll make it worth your while.
+  ko: |-
+    지원해 줘서 고맙수다!
+    이 은혜는 꼭 갚을 거요!
+  ja: |-
+    サポートありがたいっす！
+    このご恩は必ず返すぜっ！
+c350_Reinforce_3:
+  en: Thanks to you, I'll be a pirate whose escapades will go down in history.
+  ko: 덕분에 역사에 길이 남을 해적이 될 것 같수다.
+  ja: おかげで歴史に残る海賊になれそうだっ。
+c350_Gift_1:
+  en: This isn't rum by chance, is it?
+  ko: "…이건 혹시 고급 럼주인가?"
+  ja: "…これはもしかして高級ラム酒？"
+c350_Gift_2:
+  en: Next time I unearth a treasure chest, I'll give you a share of the booty.
+  ko: 내 다음에 보물창고를 찾으면 똑같이 선물해 주지.
+  ja: 宝の山を見つけたら、お返しするぜっ。
+c350_Gift_3:
+  en: Thanks! This is the first time anyone's ever given me a gift.
+  ko: |-
+    …선물을 받는 건 처음이요!
+    고맙수다~!
+  ja: |-
+    …プレゼントをもらったのは初めてだぁ！
+    ありがてぇ～！
+c350_Attractive_Up_1:
+  en: "I feel good when I see you, Captain. \nLike I've had one too many swigs of
+    rum."
+  ko: |-
+    선장 양반을 보면 기분이 좋아.
+    술을 진탕 마신 것 같이 말이야.
+  ja: |-
+    船長さんを見てると気分がいいんだ。
+    酒をしこたま飲んだみてえに。
+c350_Attractive_Up_2:
+  en: You're all right in my book. I'll even share my rations with you.
+  ko: 내 음식을 나눠줄 수 있을 것 같은 사람이요.
+  ja: 船長さんは、食べ物を分けてやってもいいと思える人っす。
+c350_Attractive_Up_3:
+  en: Say, um... would you ever consider going out with a pirate?
+  ko: 그… 이상형으로 해적은 어떤 것 같수?
+  ja: |-
+    その…理想のタイプに…
+    海賊はどうだっ？
+c350_Party_Deploy_1:
+  en: Are we finally taking to the high seas?
+  ko: Aye~ 드디어 배 타러 가는 거요?
+  ja: Aye～ついに船に乗るのかっ？
+c350_Field_Touch_1:
+  en: Awaiting your orders.
+  ko: 언제든 지시만 내려주쇼.
+  ja: いつでもこいっ。
+c350_Field_Go_1:
+  en: Aye Aye, Captain.
+  ko: Aye Aye Sir~
+  ja: Aye Aye Sir~
+c350_Battle_Enter_1:
+  en: Trust me. I'm the finest helmsman on the seven seas.
+  ko: 믿어보쇼. 타륜은 내가 제일 잘 돌리니.
+  ja: |-
+    信じろって。
+    舵取りは一番得意っすから。
+c350_Battle_Ready_1:
+  en: I'll show you what a true pirate can do.
+  ko: 해적의 본모습을 보여주지.
+  ja: 海賊の真の姿を見せてやるぜ。
+c350_Battle_Ready_2:
+  en: The ocean is calling us!
+  ko: 바다가 우리를 부르네~!
+  ja: 海が私たちを呼んでるぞ～！
+c350_Battle_Ready_3:
+  en: Might there be some gold coins awaiting us?
+  ko: 금화를 찾으러 가볼까.
+  ja: 金貨を探しにいこうぜ！
+c350_Reload_1:
+  en: Reload!
+  ko: 리로드요!
+  ja: リロード！
+c350_Reload_2:
+  en: Just a sip of rum...!
+  ko: 럼주 한 입만…!
+  ja: ラム酒1口だけ…！
+c350_Reload_3:
+  en: Don't pester me.
+  ko: 재촉하지 마쇼.
+  ja: せかすなって。
+c350_Ult_Skill_Ready_1:
+  en: Morgan, are you ready?
+  ko: 모건, 준비됐나!
+  ja: モーガン、準備はいいか！？
+c350_Ult_Skill_1:
+  en: I'll send you down to Davy Jones's locker!
+  ko: 럼주와 함께라면 폭풍도 두렵지 않지.
+  ja: ラム酒があれば、嵐も怖くねえ。
+c350_FullBurst_1:
+  en: Give up all your booty!
+  ko: 해적에게 모든 걸 다 넘겨라!
+  ja: 海賊にすべてを渡しやがれ！
+c350_Kill_Monster_1:
+  en: Aye Aye, Captain. Taken care of!
+  ko: Aye Sir~ 처리했수다~!
+  ja: |-
+    Aye Aye Sir～
+    処理完了！
+c350_Kill_Monster_2:
+  en: Arrrr!
+  ko: 예이-!
+  ja: イェーイ！
+c350_Kill_Monster_3:
+  en: That was almost too easy...
+  ko: 너무 쉬운 거 아니요?
+  ja: 簡単すぎっすよ。
+c350_Damage_1:
+  en: Gasp...!
+  ko: 크흡…!
+  ja: くっ…！
+c350_Damage_2:
+  en: Ouch!
+  ko: 악!
+  ja: うわっ！
+c350_Damage_3:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c350_Die_1:
+  en: I'm sorry for failing you, Captain.
+  ko: "…선장 양반, 먼저 가서 미안하구만."
+  ja: "…船長さん、先に逝ってすまない。"
+c350_Win_1:
+  en: Shiver me timbers! We won!
+  ko: 봤수? 이게 해적이요!
+  ja: 見たかっ？これが海賊だぁ！
+c350_02_Lobby_Touch_1:
+  en: |-
+    Haha! Dreams never fade, Captain,
+    not even underwater!
+  ko: |-
+    하하! 선장 양반!
+    로망이라는 것은 잠수 중에도 꺼지지 않는 것이요!
+  ja: |-
+    あはは！船長さん！
+    ロマンは海の中だって輝くもんさ！
+c350_02_Lobby_Touch_2:
+  en: |-
+    I wonder what treasures lie in the ocean depths!
+    I can't wait to discover them myself!
+  ko: |-
+    바다 깊은 곳에는 어떤 보물이 있을지,
+    기대가 되는구만!
+  ja: 海底にどんなお宝が眠ってるのか楽しみだぜ！
+c350_02_Lobby_Touch_3:
+  en: Morgan, why don't we take this chance to befriend some sea creatures?
+  ko: |-
+    모건, 이번 기회에 해양 생물들과
+    친분을 쌓아보는 게 어떻겠수?
+  ja: モーガン、この機会に海洋生物と仲良くなってみたらどうだ？
+c350_02_Lobby_Touch_Love_1:
+  en: If I do manage to uncover some treasure, I'll make sure you get the lion's share!
+    But just keep this from Morgan!
+  ko: |-
+    보물을 찾게 된다면 선장 양반 몫은 더 챙기겠수…!
+    크흠… 모건에게는 비밀이요…!
+  ja: |-
+    お宝を見つけたら、船長さんには多めにやるよ…！
+    おほんっ…モーガンには秘密だぜ…！
+c350_02_Lobby_Touch_Love_2:
+  en: |-
+    As long as you're with me, I'm not afraid of anything,
+    not even the deep ocean!
+  ko: |-
+    나는 심해가 두렵지 않수다.
+    선장 양반이 함께이기 때문이지!
+  ja: |-
+    深海だって怖くねえ。
+    船長さんが一緒だからな！
+c350_02_Lobby_Touch_Love_3:
+  en: |-
+    It'd be a shame to witness the beauty of this underwater world alone.
+    How about you join me, Captain?
+  ko: |-
+    이 아름다운 해저를 나 혼자 보긴 아깝구만.
+    선장 양반도 같이 가는 게 어떻수?
+  ja: |-
+    あのキレイな海底を独り占めだなんてもったいないぜ。
+    船長さんも一緒に行かねえかぁ？
+c350_02_Lobby_Stay_1:
+  en: At this rate, Captain, we're liable to lose the treasure.
+  ko: |-
+    선장 양반…
+    이러다 보물을 빼앗겨 버리겠수….
+  ja: |-
+    船長さん…
+    このままじゃお宝を取られちまうよ…
+c350_02_Lobby_Stay_Love_1:
+  en: Captain, what's your favorite type of treasure? Hmm... I need to mull this over.
+  ko: |-
+    선장 양반은 어떤 보물을 좋아하려나...?
+    흐음… 고민이 되는구만.
+  ja: |-
+    船長さんはどんなお宝が好きなんだ…？
+    うーん…悩ましいぜ。
+c350_02_Outpost_Touch_1:
+  en: Hmm... Isn't there somewhere even deeper than a swimming pool?
+  ko: 흠… 수영장보다 더 깊은 곳은 없는 거요?
+  ja: うーん… プールより深いところは ねえのかぁ？
+c350_02_Outpost_Touch_2:
+  en: After going through all that trouble to put on a diving suit, and there's no
+    ocean here? What a bummer.
+  ko: |-
+    기껏 잠수복까지 입었는데,
+    여기에 바다가 없는 게 참 아쉽구만.
+  ja: ウェットスーツまで着たのに、 ここに海がないってのが 残念だぜ。
+c350_02_Outpost_Touch_3:
+  en: |-
+    Why am I wearing this suit, you ask?
+    Because one must always be prepared!
+  ko: |-
+    이 옷을 왜 입고 있냐고 묻는 거요?
+    항상 만반의 준비가 필요하기 때문이지!
+  ja: |-
+    なんでこの服を 着てるのかって？
+    常に万全の状態に しておきたいからさ！
+c350_02_Gacha_Get_1:
+  en: |-
+    Mast, ready to dive!
+    Why don't you and I go searching for deep sea treasure together?
+  ko: |-
+    잠수부 마스트요!
+    같이 심해의 보물을 찾아보지 않겠수?
+  ja: |-
+    潜水士マストだぁ！
+    私と一緒に深海のお宝を探さないかぁ？
+c350_02_Reinforce_1:
+  en: I must find a shipwreck full of treasures to repay you!
+  ko: 꼭 보물로 가득한 난파선을 찾아 보은하지!
+  ja: お宝いっぱいの難破船を見つけて、恩返しするぜ！
+c350_02_Reinforce_2:
+  en: Thanks to you, I can dive even deeper now!
+  ko: 덕분에 더 깊은 곳까지 들어갈 수 있겠수다!
+  ja: おかげでもっと深くまで潜れそうだぁ！
+c350_02_Reinforce_3:
+  en: Now I feel safe even without the oxygen tank!
+  ko: 이제 산소통 없이도 거뜬하겠구만!
+  ja: これで酸素ボンベなしでもへっちゃらだぁ！
+c350_02_Gift_1:
+  en: What shipwreck did you get this treasure from?
+  ko: 이건 어느 난파선에서 구한 보물이요?
+  ja: これはどこの難破船で手に入れたお宝だぁ？
+c350_02_Gift_2:
+  en: A gift from you is more precious than any treasure, Captain.
+  ko: |-
+    선장 양반의 선물은…
+    어떤 보물보다 더 소중한 것이요!
+  ja: |-
+    船長さんからのプレゼントは…
+    どんなお宝よりも大切だぜ！
+c350_02_Gift_3:
+  en: Thank you! I'll give you a gift if I find something awesome during my dive.
+  ko: |-
+    고맙수다!
+    나도 잠수 중에 좋은 걸 발견하면 선물하겠수.
+  ja: |-
+    ありがてえ！
+    私も潜水中にいいものを見つけたらプレゼントするぜ。
+c350_02_Attractive_Up_1:
+  en: If you were to ever fall overboard, I'd dive in to save you without hesitation.
+  ko: |-
+    만약 선장 양반이 물에 빠진다면…
+    단 1초도 망설이지 않을 거요.
+  ja: |-
+    もし船長さんが溺れたら…
+    一瞬たりとも、ためらったりしないぜ。
+c350_02_Attractive_Up_2:
+  en: With you by my side, I feel like I can dive even deeper into the ocean!
+  ko: |-
+    선장 양반과 함께라면…
+    더 깊은 심해도 가능할 것 같수다…!
+  ja: |-
+    船長さんと一緒なら…
+    もっと深くまで潜れそうだぁ…！
+c350_02_Attractive_Up_3:
+  en: I'm so happy. I feel like I can hand over all my treasure right now!
+  ko: |-
+    지금 마음 같아선
+    보물을 전부 넘겨줄 수도 있을 것 같구만!
+  ja: |-
+    持ってる宝物を全部渡しちまいそうなくらい
+    いい気分だぜ！
+c350_02_Party_Deploy_1:
+  en: This is my moment!
+  ko: 잠수부 마스트가 필요한 순간이군!
+  ja: 潜水士マストの出番だな！
+c350_02_Field_Touch_1:
+  en: Have you discovered something?
+  ko: 무언가를… 발견한 거요?!
+  ja: 何か見つけたのかぁ！？
+c350_02_Field_Go_1:
+  en: Be careful over there!
+  ko: 어이쿠, 조심하시게나~
+  ja: おっと、気をつけろよぉ～
+c350_02_Battle_Enter_1:
+  en: Let's see... Where's that treasure hiding?
+  ko: 여기요? 보물이 잠든 곳이?
+  ja: ここかぁ？お宝が眠ってるのは！
+c350_02_Battle_Ready_1:
+  en: Can we at least take a swig of rum before going in?
+  ko: 럼주 한 입만 하고 들어가면 안 되겠수…?
+  ja: ラム酒を1口だけ飲んでからじゃダメかぁ…？
+c350_02_Battle_Ready_2:
+  en: The map is pointing this way!
+  ko: 지도가 이쪽을 가리키고 있구만!
+  ja: こっちの方向だぁ！
+c350_02_Battle_Ready_3:
+  en: The treasure is calling out to us!
+  ko: 보물이 우리를 부르네~!
+  ja: お宝が私たちを呼んでるぞ～！
+c350_02_Reload_1:
+  en: I'll load up!
+  ko: 장전하겠수다!
+  ja: 装填するぜっ！
+c350_02_Reload_2:
+  en: All the equipment is still fine.
+  ko: 장비는 아직 멀쩡하다네~
+  ja: 装備はまだまだ使えるぞ～
+c350_02_Reload_3:
+  en: Decompressing now!
+  ko: 감압 중이요!
+  ja: 耳抜き中だぁ！
+c350_02_Ult_Skill_Ready_1:
+  en: Are you ready to dive, Morgan?
+  ko: 모건, 잠수할 준비는 되었수?
+  ja: モーガン、潜水の準備はいいかぁ？
+c350_02_Ult_Skill_1:
+  en: Nothing beats a shot of rum after a successful dive!
+  ko: 잠수 후에 마시는 럼은 더 각별하구만!
+  ja: 潜ったあとのラムは格別だぜ！
+c350_02_FullBurst_1:
+  en: Everyone, hold your breath and give it all you got!
+  ko: 다들 숨 참고 갈겨대는 거요!
+  ja: みんな、息を止めてやっちまえ！
+c350_02_Kill_Monster_1:
+  en: Follow me!
+  ko: 나만 따라오쇼!
+  ja: 私についてこいっ！
+c350_02_Kill_Monster_2:
+  en: Rest in peace.
+  ko: 편히 잠드시게!
+  ja: ゆっくり休んでくれよっ！
+c350_02_Kill_Monster_3:
+  en: Where's the treasure?
+  ko: 보물은 어디요!
+  ja: お宝はどこだぁ！
+c350_02_Damage_1:
+  en: Ugh...!
+  ko: 악…!
+  ja: あっ…！
+c350_02_Damage_2:
+  en: Argh!
+  ko: 크헉!
+  ja: ぐはっ！
+c350_02_Damage_3:
+  en: Aak!
+  ko: 읍!
+  ja: うっ！
+c350_02_Die_1:
+  en: "*Cough* I hope the sea... will lead the way..."
+  ko: 크윽… 가는 길은… 수장이면 좋겠구만….
+  ja: くっ…水葬で見送ってくれよな…
+c350_02_Win_1:
+  en: Now that that's taken care of, can we get back into the sea?
+  ko: 정리도 끝났으니, 다시 바다에 들어가면 되는 거요?
+  ja: 片づけも終わったな！また海に行ってもいいかぁ？
+350_cv_ja:
+  en: 'CV: Ryo Hirohashi'
+  ko: 'CV : 히로하시 료'
+  ja: CV：広橋涼
+350_cv_ko:
+  en: 'CV: Shin Na-ri'
+  ko: 'CV : 신나리'
+  ja: CV：シン・ナリ
+350_cv_en:
+  en: 'CV: Lisa Reimold'
+  ko: 'CV : 리사 레이몰드'
+  ja: CV：Lisa Reimold

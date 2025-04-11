@@ -1,0 +1,505 @@
+---
+355_name:
+  en: 'Anchor: Innocent Maid'
+  ko: '앵커 : 이노센트 메이드'
+  ja: アンカー：イノセントメイド
+c355_description:
+  en: Following Mast's lead, Anchor dons her custom swimsuit and steps in as a "Maid
+    for a Day." Her skills, honed through experiences from various fundraisers aboard
+    the Admire, rival those of a professional maid.
+  ko: |-
+    어레인지한 수영복을 입고, 마스트를 따라 일일 메이드가 된 앵커.
+    선상 파티 준비 경험으로 다져진 실력은 프로 메이드 못지않다.
+  ja: |-
+    アレンジした水着を着て、
+    マストと一日メイドになったアンカー。
+    船上パーティーの準備で培った実力は、プロのメイド並み。
+355_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_355:
+  en: 'Anchor: Innocent Maid''s Spare Body'
+  ko: '앵커 : 이노센트 메이드 스페어 바디'
+  ja: アンカー：イノセントメイドの スペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+23552_name:
+  en: Sea Anemone (Shaped) Pasta
+  ko: 말미잘(모양) 파스타
+  ja: イソギンチャク（形）パスタ
+23552_description:
+  en: |-
+    ■ Activates after Full Burst ends. Affects all allies.
+    <color=#00AEFF>Effect changes according to the activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>.
+    Once: Hit Rate ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.
+    Three times: Reloading Speed ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 종료 시 아군 전체에게
+    <color=#00AEFF>[사용 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
+    1회 : [명중률 {description_value_01}% ▲] [{description_value_02}초 유지]
+    2회 : [시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]
+    3회 : [재장전 속도 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが終了した時、
+    味方全体に
+    <color=#00AEFF>「使用回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「命中率{description_value_01}％▲」「{description_value_02}秒間維持」
+    2回：「スキル発動者基準で
+    攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」
+    3回：「リロード速度{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23551_name:
+  en: Starfish (Shaped) Omurice
+  ko: 불가사리(모양) 오므라이스
+  ja: ヒトデ（形）オムライス
+23551_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Effect changes according to the activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>.
+    Once: Potency of HP ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: <word_group=10019>Distributed Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.
+    Three times: <word_group=10068>Stack count of debuffs</word_group> ▼ {description_value_05}.</color>
+    ■ Activates when entering Full Burst with an ally from the same squad still on the battlefield. Affects all allies.
+    <color=#00AEFF>Recovers {description_value_06}% of caster's Max HP every 1 sec for {description_value_07} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[사용 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
+    1회 : [체력 회복량 {description_value_01}% ▲] [{description_value_02}초 유지]
+    2회 : [<word_group=10019>분배 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]
+    3회 : [<word_group=10068>중첩 가능 해로운 효과 중첩량</word_group> {description_value_05}개 ▼]</color>
+    ■ 풀 버스트 타임 시작 시 동일 스쿼드 아군이 있다면 아군 전체에게
+    <color=#00AEFF>[시전자 최대 체력 비례 {description_value_06}% 회복] [1초 간격] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、
+    味方全体に
+    <color=#00AEFF>「使用回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「HP回復量{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    2回：「<word_group=10019>分配ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」
+    3回：「<word_group=10068>スタック可能デバフ効果のスタック量</word_group>{description_value_05}個▼」</color>
+    ■フルバーストタイムが発動した時、
+    同じ部隊の味方がいれば味方全体に
+    <color=#00AEFF>「スキル発動者の最大HPの{description_value_06}％の回復」「1秒間隔」「{description_value_07}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13553_name:
+  en: Seaside Stroll
+  ko: 바다 산책
+  ja: 海辺で散歩
+13553_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Storage: If the target obtained a healing effect that exceeds the character's Max HP, excess portion will be stored, up to {description_value_01}% of the caster's Max HP, lasts for {description_value_02} sec.
+    Recovers {description_value_03}% of caster's Max HP as HP.
+    ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[저장 : 시전자 기준 최대 체력 {description_value_01}%까지 초과 받는 체력 회복량 저장] [{description_value_02}초 유지]
+    [시전자 최대 체력 비례 {description_value_03}% 회복]
+    [시전자 기준 공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「保存：スキル発動者基準で最大HPの{description_value_01}％まで超過HP回復量を保存」「{description_value_02}秒間維持」
+    「スキル発動者の最大HPの{description_value_03}％の回復」
+    「スキル発動者基準で攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+352_name:
+  en: Helm
+  ko: 헬름
+  ja: ヘルム
+350_name:
+  en: Mast
+  ko: 마스트
+  ja: マスト
+353_name:
+  en: 'Helm: Aquamarine'
+  ko: '헬름 : 아쿠아마린'
+  ja: ヘルム：アクアマリン
+354_name:
+  en: 'Mast: Romantic Maid'
+  ko: '마스트 : 로망틱 메이드'
+  ja: マスト：ロマンチックメイド
+351_name:
+  en: Anchor
+  ko: 앵커
+  ja: アンカー
+c355_Lobby_Touch_1:
+  en: Huh? Weren't we going out to sea?
+  ko: 응? 바다 가는 거 아니었어?
+  ja: え？海に行くんじゃないの？
+c355_Lobby_Touch_2:
+  en: So, I’m calling you Master now, not Captain. Got it!
+  ko: 지금은 함장이 아니라 주인님인 거구나. 응.
+  ja: 今は艦長じゃなくて、ご主人様？
+c355_Lobby_Touch_3:
+  en: "Being a maid is easier than I thought. \nShould I make you some omurice?"
+  ko: |-
+    메이드 일은 생각보다 쉽네.
+    오므라이스 해줄까?
+  ja: |-
+    メイドの仕事、思ったより簡単。
+    オムライス作ってあげようか？
+c355_Lobby_Touch_Love_1:
+  en: You must really like maid cafes, Master. You go there quite often.
+  ko: 주인님은 메이드 카페 좋아하는구나. 자주 가네.
+  ja: ご主人様はメイドカフェが好き。合ってる？
+c355_Lobby_Touch_Love_2:
+  en: I'll give you a massage as a special service.
+  ko: 안마 해줄게. 주인님을 위한 특별 서비스래.
+  ja: マッサージしてあげるね。ご主人様専用の特別サービスだよ。
+c355_Lobby_Touch_Love_3:
+  en: |-
+    Become tastier! Coochie woochie, boing♡
+    ... Would you prefer if I acted a bit more embarrassed?
+  ko: |-
+    맛있어져라~ 몽글몽글 큐웅~♡
+    …좀 더 부끄러워하는 게 좋아?
+  ja: |-
+    おいしくな～れ♪ドキドキ、キュンッ♡
+    …もっと恥ずかしがった方がいい？
+c355_Lobby_Stay_1:
+  en: Oh, a starfish!
+  ko: 오. 불가사리.
+  ja: あっ、ヒトデだ。
+c355_Lobby_Stay_Love_1:
+  en: I also enjoy just doing nothing like this with you, Master.
+  ko: 주인님이랑 이렇게 아무것도 안 하고 있는 것도 좋아.
+  ja: ご主人様とぼーっとしてるのも好き。
+c355_Outpost_Touch_1:
+  en: Were there always this many maids at the Outpost?
+  ko: 전초기지에 원래 이렇게 메이드가 많았나…?
+  ja: 前哨基地って、こんなにメイドが たくさんいたっけ…？
+c355_Outpost_Touch_2:
+  en: Hold on, I'm busy right now. I'm picking up signals from marine life!
+  ko: 잠깐만. 지금 바빠. 해양생물의 신호가 느껴져…!
+  ja: |-
+    ちょっと待って。今忙しいの。
+    海洋生物からの信号が…！
+c355_Outpost_Touch_3:
+  en: |-
+    Oh right, I was supposed to go to the Maid Cafe...
+    Can't I do this at the pool?
+  ko: |-
+    아, 메이드 카페로 가야 하는 거였지….
+    수영장에서 하면 안 되나…?
+  ja: |-
+    あ、メイドカフェに行くんだった…
+    プールでやったらダメかな…？
+c355_Gacha_Get_1:
+  en: |-
+    It's Anchor, at the Master's service and filled with romance!
+    ... Mast told me to say that.
+  ko: |-
+    주인님만의 로망을 담은 메이드, 앵커가 왔어~
+    …마스트가 이렇게 하래.
+  ja: |-
+    ご主人様のロマンいっぱいメイド、アンカーで～す…
+    …マストがそう言えって。
+c355_Reinforce_1:
+  en: Thank you, Master.
+  ko: 감사합니다, 주인님~
+  ja: ありがとうございます、ご主人様～
+c355_Reinforce_2:
+  en: I'm so happy, Master.
+  ko: 너무 기뻐요, 주인님~
+  ja: すごく嬉しいです、ご主人様～
+c355_Reinforce_3:
+  en: You're the best, Master. This turned out wonderfully.
+  ko: 주인님 최고~♡ 엑. 좀 잘됐다.
+  ja: ご主人様最高～♡おお。うまく言えたかも。
+c355_Gift_1:
+  en: Can a maid like me accept gifts?
+  ko: 나 메이드인데 선물 받아도 돼?
+  ja: メイドなのにもらっていいの？
+c355_Gift_2:
+  en: Next time, I'll make you a starfish omurice on the house.
+  ko: 다음에 불가사리 오므라이스 공짜로 해줄게.
+  ja: 次はヒトデオムライス、タダで作ってあげる。
+c355_Gift_3:
+  en: Even my starfish says thank you.
+  ko: 불가사리도 고맙대.
+  ja: ヒトデもありがとうだって。
+c355_Attractive_Up_1:
+  en: I enjoy just being with you, Master.
+  ko: 난 그냥 주인님이랑 같이 있을 수 있어서 좋아.
+  ja: ご主人様と一緒なだけで嬉しい。
+c355_Attractive_Up_2:
+  en: Hmm... Maybe becoming a maid was a good choice.
+  ko: 음… 메이드 하길 잘했을지도.
+  ja: メイドになって良かったかも。
+c355_Attractive_Up_3:
+  en: Hehe. I like this.
+  ko: 헤헤. 좋다.
+  ja: えへへ。嬉しいな。
+c355_Party_Deploy_1:
+  en: Are you calling me? Are we going to do some marine life exploration?
+  ko: 지명이야? 아니면 해양생물 탐색?
+  ja: ご指名？それとも海の生き物探し？
+c355_Field_Touch_1:
+  en: Hello, Master.
+  ko: 주인님 안녕~
+  ja: ご主人様、やっほ～
+c355_Field_Go_1:
+  en: Hmm... These slippers are a bit...
+  ko: 으음… 슬리퍼….
+  ja: うぅ…歩きづらい…
+c355_Battle_Enter_1:
+  en: Let's go, starfish.
+  ko: 가자. 불가사리들.
+  ja: 行こう。ヒトデのみんな。
+c355_Battle_Ready_1:
+  en: You seem to really like maids, Master.
+  ko: 주인님은 메이드를 좋아하나 봐.
+  ja: ご主人様はメイドが好きみたい。
+c355_Battle_Ready_2:
+  en: That dessert was delicious...
+  ko: 디저트 맛있었지….
+  ja: デザートおいしかった…
+c355_Battle_Ready_3:
+  en: Hmm, I think I forgot the recipe.
+  ko: 어. 레시피 까먹었다.
+  ja: あ、レシピ忘れちゃった。
+c355_Reload_1:
+  en: Doo dee doo... Maid for You♪
+  ko: 흐흐흥 메이드 포 유~♪
+  ja: ふんふん、メイド・フォー・ユー♪
+c355_Reload_2:
+  en: Maybe Coral pancake, Sea Squirt Parfait?
+  ko: 산호 팬케이크…? 멍게 파르페…!
+  ja: サンゴのパンケーキ…？ホヤパフェ…！
+c355_Reload_3:
+  en: The starfish decoration is so cool!
+  ko: 불가사리 장식. 꽤 멋졌어….
+  ja: ヒトデの飾り。いいよね…
+c355_Ult_Skill_Ready_1:
+  en: I'm ready, Master.
+  ko: 준비됐어, 주인님.
+  ja: 準備できたよ、ご主人様。
+c355_Ult_Skill_1:
+  en: Would you like to try our signature menu?
+  ko: 비장의 시그니쳐 메뉴. 드셔보시죠~!
+  ja: とっておきの看板メニュー、召し上がれ～！
+c355_FullBurst_1:
+  en: Love Maid Power!
+  ko: 러브러브메이드파워~
+  ja: ラブラブメイドパワ～
+c355_Kill_Monster_1:
+  en: Sea Cucumber Pasta!
+  ko: 해삼 파스타~!
+  ja: ナマコパスタ～！
+c355_Kill_Monster_2:
+  en: Sea Anemone Cake!
+  ko: 말미잘 케이크~!
+  ja: イソギンチャクケーキ～！
+c355_Kill_Monster_3:
+  en: Sea Worm Omurice!
+  ko: 개불 오므라이스~!
+  ja: ユムシオムライス～！
+c355_Damage_1:
+  en: Ouch...
+  ko: 아파….
+  ja: 痛い…
+c355_Damage_2:
+  en: Ugh...
+  ko: 으윽.
+  ja: ううっ。
+c355_Damage_3:
+  en: Hnnnk!
+  ko: 흐엑.
+  ja: ふぇっ。
+c355_Die_1:
+  en: I... I'm a terrible maid.
+  ko: 나는… 나쁜 메이드야….
+  ja: 私…悪いメイドだ…
+c355_Win_1:
+  en: So... this is how powerful maids can be...
+  ko: 이게… 메이드 파워…?
+  ja: これが…メイドパワー…？
+355_cv_ja:
+  en: 'CV: Hiyori Nitta'
+  ko: 'CV : 닛타 히요리'
+  ja: CV：新田ひより
+355_cv_ko:
+  en: 'CV: Kim Chae-rin'
+  ko: 'CV : 김채린'
+  ja: CV：キム・チェリン
+355_cv_en:
+  en: 'CV: Bryn Apprill'
+  ko: 'CV : 브린 애프릴'
+  ja: CV：Bryn Apprill

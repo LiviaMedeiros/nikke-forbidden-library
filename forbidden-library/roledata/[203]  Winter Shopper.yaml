@@ -1,0 +1,527 @@
+---
+203_name:
+  en: 'Rupee: Winter Shopper'
+  ko: '루피 : 윈터 쇼퍼'
+  ja: ルピー：ウィンターショッパー
+c203_description:
+  en: |-
+    Rupee dressed up in a Santa Claus costume, which she has done to deliver gifts and spread the Christmas cheer to everyone this winter.
+    The first white Christmas in 15 years has Rupee incredibly busy.
+  ko: |-
+    모두에게 선물을 주고 다독여줘야 하는 겨울을 맞아, 산타로 변신한 루피.
+    15년 만에 찾아온 화이트 크리스마스를 기념하기 위해 바쁜 하루를 보내고 있다.
+  ja: |-
+    冬を迎え、みんなにプレゼントを渡して元気づけるため、\nサンタに変身したルピー。
+    15年ぶりに訪れたホワイトクリスマスを記念して、\n忙しい1日を送っている。
+203_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_203:
+  en: 'Rupee: Winter Shopper''s Spare Body'
+  ko: '루피: 윈터 쇼퍼 스페어 바디'
+  ja: ルピー：ウィンターショッパーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22032_name:
+  en: VIP Gift
+  ko: VIP 기프트
+  ja: VIPギフト
+22032_description:
+  en: "■ Affects all allies. Activates when any ally unit uses Burst Skills. \n<color=#00AEFF>Shopping:
+    DEF ▲ {description_value_01}%, stacks up to {description_value_02} time(s), lasts
+    for {description_value_03} sec.</color>\n■ Affects all allies. Activates when
+    the caster reaches max stacks of Shopping at the end of Full Burst.\n<color=#00AEFF><word_group=10014>Burst
+    Gauge filling speed</word_group> ▲ {description_value_04}% for {description_value_05}
+    sec.</color>"
+  ko: |-
+    ■ 아군이 버스트 스킬 사용 시 아군 전체에게
+    <color=#00AEFF>[쇼핑 : 방어력 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>
+    ■ 풀 버스트 타임 종료 시 자신이 쇼핑 최대 중첩 상태라면 아군 전체에게
+    <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■味方がバーストスキルを使用した時、味方全体に
+    <color=#00AEFF>「ショッピング：防御力{description_value_01}％▲」「{description_value_02}スタック」「{description_value_03}秒間維持」</color>
+    ■フルバーストタイムが終了した時、自分がショッピングのフルスタック状態なら、味方全体に
+    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group> {description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22031_name:
+  en: Winter Premium
+  ko: 윈터 프리미엄
+  ja: ウィンタープレミアム
+22031_description:
+  en: "■ Activates when the last bullet hits the target. Affects all allies. \n<color=#00AEFF>DEF
+    ▲ {description_value_01}% for {description_value_02} sec.</color>"
+  ko: |-
+    ■ 마지막 탄환 명중 시 아군 전체에게
+    <color=#00AEFF>[방어력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■最後の弾丸が命中した時、味方全体に
+    <color=#00AEFF>「防御力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12033_name:
+  en: Shopaholic Date
+  ko: 쇼퍼홀릭 데이트
+  ja: ショッパホリックデート
+12033_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attract: Taunt all enemies for {description_value_01} sec.
+    Recover {description_value_02}% of attack damage as HP over {description_value_03} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Reload Speed ▲ {description_value_04}% for {description_value_05} sec.
+    <word_group=10002>Re-enter Burst Skill </word_group>Stage 1</color>.
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[주목 : 적 전체 도발] [{description_value_01}초 유지]
+    [공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[재장전 속도 {description_value_04}% ▲] [{description_value_05}초 유지]
+    [<word_group=10002>버스트 재진입</word_group> 1단계]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「ヘイト：敵全体を挑発」「{description_value_01}秒間維持」
+    「攻撃ダメージの{description_value_02}％回復」「{description_value_03}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「リロード速度{description_value_04}％▲」「{description_value_05}秒間維持」
+    「<word_group=10002>バースト再突入</word_group>1段階」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+200_name:
+  en: Rupee
+  ko: 루피
+  ja: ルピー
+201_name:
+  en: Yan
+  ko: 얀
+  ja: ヤン
+202_name:
+  en: Dolla
+  ko: 도라
+  ja: ドラー
+c203_Lobby_Touch_1:
+  en: Winter wear is all about fur. This is a fantastic piece... Maybe I should buy
+    the whole lot?
+  ko: |-
+    겨울 룩 하면 털. 털 하면 겨울 룩!
+    …이거 너무 잘 나왔는데, 같은 라인으로 열 벌만 더 살까?
+  ja: |-
+    冬コーデと言えばファー、ファーと言えば冬コーデ！
+    …これ良すぎるんだけど、同じラインで
+    あと10着くらい買おうかな？
+c203_Lobby_Touch_2:
+  en: I'll be the one offering the finest outfits this season. Hehe... Am I getting
+    carried away?
+  ko: |-
+    이번 시즌, 명품관의 지배자는 나야.
+    …헤헷, 너무 분위기 잡았나?
+  ja: |-
+    今シーズン、ブランドショップの支配者は私よ。
+    …へへっ、カッコつけ過ぎたかな？
+c203_Lobby_Touch_3:
+  en: Hello~ What's that? The new items look great on me? Why thank you!
+  ko: "안녕~ 사랑하는 나의 루팡들☆ \n…응? 이번 신상 잘 어울린다구? 고마워!"
+  ja: |-
+    ヤッホー！私の愛するルパンの皆さ～ん☆
+    …うん？新作が似合う？
+    ありがとう！
+c203_Lobby_Touch_Love_1:
+  en: You know the perfect activity for cold weather like this? Shopping, of course!
+    Walking around, holding hands... You'll get warmed up in no time.
+  ko: "이렇게 추운 날에는 뭘 해야 할까? \n…당연히 쇼핑이지! 손잡고 걸으면 따뜻해지잖아."
+  ja: |-
+    こんな寒い日には何をすればいいのかな？
+    …もちショッピングだよね！
+    手をつないで歩くと温かくなるもん。
+c203_Lobby_Touch_Love_2:
+  en: I'm going with an ice queen vibe for tonight's show. What do you think? Isn't
+    it fabulous?
+  ko: |-
+    이번 방송 컨셉은, 도도한 눈의 마녀야☆
+    …어때? 치명적이지?
+  ja: |-
+    今回の配信コンセプトは「高慢な目をした魔女」よ☆
+    …どう？ぐっとくるでしょ？
+c203_Lobby_Touch_Love_3:
+  en: Have you seen the lights they set up on Royal Road? Aren't they beautiful? Would
+    you be interested in going with me...?
+  ko: |-
+    로열 로드의 일루미네이션 봤어? 예쁘지? 그치?
+    …루피랑 같이 가줄 거지?
+  ja: |-
+    ロイヤルロードのイルミネーション見た？
+    キレイよね？ね？
+    …ルピーと一緒に見に行ってくれるよね？
+c203_Lobby_Stay_1:
+  en: Hey! Don't zone out at a time like this! We've got places to go.
+  ko: 오빠아… 멍 때리지 말구 같이 나가자. 응?
+  ja: |-
+    お兄ちゃん…
+    ぼーっとしてないで、一緒に出かけようよ？ね？
+c203_Lobby_Stay_Love_1:
+  en: I completely changed up my look for Sweetie! Unfortunately, you seem to have
+    your mind on other things...
+  ko: |-
+    오빠를 위한 파격적인 변신!
+    …을 해봤는데 오빠는 딴 생각만 해.
+  ja: |-
+    お兄ちゃんのために電撃変身！
+    …したのに、お兄ちゃんは私を放置。
+c203_Outpost_Touch_1:
+  en: This season's new clothing line has just been released! Let's hurry to the shopping
+    mall before the line stretches past the entire block!
+  ko: "세상에, 지금 막 쇼핑몰에 계절 신상 입고됐대! \n줄 길어지기 전에 빨리 가자!"
+  ja: |-
+    キタキタ！
+    今ちょうど ショッピングモールに シーズン新商品が入荷したって！
+    並びたくないから早く行くよっ！
+c203_Outpost_Touch_2:
+  en: Money can't solve everything? Are you sure you don't simply have enough of it?
+    Hehe.
+  ko: |-
+    응? 돈으로 안 풀리는 일이 있다구?
+    그럼 혹시… 돈이 충분하지 않았던 건 아닐까? 헤헷.
+  ja: |-
+    うん？
+    お金で解決できないこともある？
+    それってもしかして… お金が足りないだけじゃない？
+    へへっ。
+c203_Outpost_Touch_3:
+  en: We're doing a seasonal giveaway on the channel, so be sure to tune in.
+  ko: |-
+    지금 루피의 쇼퍼홀릭 채널에서 선물 당첨 이벤트 중이야.
+    꼭 생방 사수해 줘☆
+  ja: |-
+    今、ルピーの ショッパホリック・チャンネルで
+    プレゼントイベント中だよ。 絶対見てね☆
+c203_Gacha_Get_1:
+  en: When it comes to the latest fashions, if you snooze, you lose! Before you know
+    it, they're gone and it's onto the next fad.
+  ko: |-
+    계절 신상은 있지, 최~대한 빨리 질러야 돼!
+    시즌이 끝나면 눈처럼 녹아버리거든.
+  ja: |-
+    シーズン新商品はね、すぐゲットしないと！
+    シーズンが終わると、雪のように溶けてしまうよ。
+c203_Reinforce_1:
+  en: Managed to snag a great deal on this upgrade!
+  ko: 구매력 충전 완료~!
+  ja: 購買力チャージ完了～！
+c203_Reinforce_2:
+  en: The bank account has taken a heavy hit, but it's still worth it. Hehe.
+  ko: 통장은 홀쭉해졌지만 그래도 보람이 있었지? 헤헷.
+  ja: |-
+    通帳には打撃があったけど、それでもやってよかったよね？
+    へへっ。
+c203_Reinforce_3:
+  en: Thanks for all the support! I have some great stuff in store for you.
+  ko: 후원 고마워! 앞으로도 멋진 콘텐츠 보여줄게☆
+  ja: |-
+    応援ありがとう！
+    これからも素敵なコンテンツを見せてあげる☆
+c203_Gift_1:
+  en: It's wonderful! Can I record an unboxing video?
+  ko: 오빠! 나 이거 언박싱 방송 찍어도 돼?
+  ja: |-
+    お兄ちゃん！
+    これ、開封動画撮っちゃってもいい？
+c203_Gift_2:
+  en: It doesn't matter what it is, anything from you is the greatest gift of all.
+  ko: 그거 알아? 굴러다니는 돌멩이도 오빠가 주면 한정품인 거.
+  ja: |-
+    知ってる？
+    道端の石ころも、お兄ちゃんがくれたら限定品になるの。
+c203_Gift_3:
+  en: This will be our brand logo from here on out.
+  ko: 오늘부터 이게 우리 브랜드 상징이야.
+  ja: 今日からこれがうちのブランドのシンボルだよ。
+c203_Attractive_Up_1:
+  en: If we sold coupons for one day with you, I'd buy every last one of them.
+  ko: |-
+    오빠 하루 이용권을 출시하면 아무한테도 안 팔릴걸?
+    …루피가 독점해버릴 거니까☆
+  ja: |-
+    お兄ちゃんと1日デート券を販売したら、1個も売れないと思うな。
+    …ルピーが買い占めちゃうから☆
+c203_Attractive_Up_2:
+  en: The latest seasonal outfits may be limited, but my love for you is unlimited!
+  ko: 시즌 상품은 한정, 오빠에 대한 루피의 사랑은 무한정!
+  ja: |-
+    シーズン商品は限りあり！
+    お兄ちゃんに対するルピーの愛は限りなし！
+c203_Attractive_Up_3:
+  en: So... are we official now?
+  ko: 헉, 오늘부터 우리 1일인 거지? 맞지?
+  ja: はっ、今日が私たちの記念日になるんだよねっ？ね？
+c203_Party_Deploy_1:
+  en: Shopaholic on the move!
+  ko: 쇼퍼홀릭 출동!
+  ja: ショッパホリック行くよ！
+c203_Field_Touch_1:
+  en: Rupee-ru, la lee loo ☆
+  ko: 루루피~ 루루얍☆
+  ja: ルルピ～、ルル、えいっ☆
+c203_Field_Go_1:
+  en: "... Can I hold hands with you?"
+  ko: "…오빠랑 손잡고 가도 돼?"
+  ja: "…お兄ちゃん、手繋いでもいい？"
+c203_Battle_Enter_1:
+  en: Some cold hard cash should solve this problem.
+  ko: 머니 파워로 혼내줄게!
+  ja: マネーパワーで痛い目に遭わせてあげる！
+c203_Battle_Ready_1:
+  en: Let's hurry up and go buy the latest items!
+  ko: 빨리 끝내구 신상 털러 가자~!
+  ja: ぱぱっと終わらせて新商品を買いに行くよ～！
+c203_Battle_Ready_2:
+  en: Are we sure this can't be solved with money?
+  ko: 돈으로 해결하면 되는 거지? 헤헷.
+  ja: |-
+    お金で解決すればいいのね？
+    へへっ。
+c203_Battle_Ready_3:
+  en: Don't underestimate the power of a shopaholic.
+  ko: 쇼퍼홀릭의 저력을 얕보지 말라구.
+  ja: ショッパホリックの底力をなめないで。
+c203_Reload_1:
+  en: Hang on!
+  ko: 잠깐만~!
+  ja: ちょっと待って～！
+c203_Reload_2:
+  en: How's my gun decal look?
+  ko: 이 데코 어때?
+  ja: このデコレーション、どう？
+c203_Reload_3:
+  en: Come on!
+  ko: 읏차.
+  ja: うっしゃ。
+c203_Ult_Skill_Ready_1:
+  en: Time's up!
+  ko: 시간 됐어!
+  ja: よしっ！時間だよ！
+c203_Ult_Skill_1:
+  en: Let's go take care of business, just the two of us.
+  ko: 오빠~ 빨리 같이 고르러 가자!
+  ja: |-
+    お兄ちゃん～
+    早く一緒に選びに行こー！
+c203_FullBurst_1:
+  en: Preparation complete! Why save, when you can spend!
+  ko: 준비 완료! 아끼지 말구 질러버려!
+  ja: |-
+    準備できた！
+    迷わず全部大人買いしちゃえ！
+c203_Kill_Monster_1:
+  en: Woohoo!
+  ko: 얍!
+  ja: ふふっ！
+c203_Kill_Monster_2:
+  en: Oh yeah!
+  ko: 좋았어☆
+  ja: よし☆
+c203_Kill_Monster_3:
+  en: Hehe.
+  ko: 헤헷.
+  ja: へへっ。
+c203_Damage_1:
+  en: Ouch!
+  ko: 악!
+  ja: きゃっ！
+c203_Damage_2:
+  en: That hurt!
+  ko: 아프잖아!
+  ja: 痛いじゃん！
+c203_Damage_3:
+  en: No!
+  ko: 안 돼!
+  ja: やめて！
+c203_Die_1:
+  en: Looks like we didn't invest enough cash flow into this problem.
+  ko: 힝… 투자가 부족했나 봐.
+  ja: |-
+    はあ…
+    投資が足りなかったのかな。
+c203_Win_1:
+  en: Shopaholics always end up on top! Actually, this would make a killer livestream...
+  ko: 쇼퍼홀릭 BJ의 최전성기, 잘 찍혔어?
+  ja: ショッパホリック配信者のカッコいいところ、上手く撮れた？
+203_cv_ja:
+  en: 'CV: Haruka Shiraishi'
+  ko: 'CV : 시라이시 하루카'
+  ja: CV：白石晴香
+203_cv_ko:
+  en: 'CV: Yoon Eun-seo'
+  ko: 'CV : 윤은서'
+  ja: CV：ユン・ウンソ
+203_cv_en:
+  en: 'CV: AmaLee'
+  ko: 'CV : 아마 리'
+  ja: CV：AmaLee

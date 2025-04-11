@@ -1,0 +1,465 @@
+---
+241_name:
+  en: Epinel
+  ko: 에피넬
+  ja: エピネル
+c241_description:
+  en: A member of Nepenthe who is a master at pulling off skateboarding tricks. She
+    is revered among teenagers because of her distinctly cool and chic demeanor.
+  ko: "보드 트릭의 달인. \n특유의 쿨하고 시크한 성격으로 청소년들에게 선풍적인 인기를 끌고 있다. \n소속은 라이프 토닉 스쿼드이다."
+  ja: |-
+    ボードトリックの達人。
+    クールな性格で若者から絶大な人気を集めている。
+    所属はライフトニック部隊。
+241_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50241:
+  en: Epinel's Spare Body
+  ko: 에피넬 스페어 바디
+  ja: エピネルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22412_name:
+  en: Arachnid
+  ko: 스파이더
+  ja: スパイダー
+22412_description:
+  en: |-
+    ■ Activates when the last bullet hits the target. Affects self.
+    <color=#00AEFF>Critical Rate▲ {description_value_01}% for {description_value_02} sec.
+    Critical Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: "■ 마지막 탄환 명중 시 자신에게\n<color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [{description_value_02}초
+    유지] \n[크리티컬 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>"
+  ja: |-
+    ■最後の弾丸が命中した時、自分に
+    <color=#00AEFF>「クリティカル確率{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    「クリティカルダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22411_name:
+  en: Total Noob
+  ko: 슈퍼 루키
+  ja: スーパールーキー
+22411_description:
+  en: |-
+    ■ Activates when killing an enemy. Affects self.
+    <color=#00AEFF>Total Noob: ATK ▲ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
+  ko: |-
+    ■ 적 처치 시 자신에게
+    <color=#00AEFF>[슈퍼 루키 : 공격력 {description_value_01}% ▲] [{description_value_02}중첩] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■敵を倒した時、自分に
+    <color=#00AEFF>「スーパールーキー：攻撃力{description_value_01}％▲」「{description_value_02}スタック」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12413_name:
+  en: SAFE 50-50
+  ko: SAFE 50-50
+  ja: SAFE 50-50
+12413_description_1:
+  en: "■ Affects all enemies.\n<color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color> \n■ Activates when Total Noob is fully stacked.
+    Affects the same target(s).\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as additional damage.</color>"
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 자신이 슈퍼 루키 최대 중첩 상태라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+    ■自分がスーパールーキーの
+    フルスタック状態なら、同じ敵に<color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+242_name:
+  en: Folkwang
+  ko: 폴크방
+  ja: フォルクヴァン
+240_name:
+  en: Rumani
+  ko: 루마니
+  ja: ルマニ
+c241_Lobby_Touch_1:
+  en: I'm going to go practice.
+  ko: 연습하러 갈게.
+  ja: 練習しに行かなきゃ。
+c241_Lobby_Touch_2:
+  en: I came up with a new trick!
+  ko: 트릭. 생각났어.
+  ja: トリック。思い出したよ。
+c241_Lobby_Touch_3:
+  en: Hey Coach, want some bubblegum?
+  ko: 코치도 줄까? 풍선껌.
+  ja: |-
+    コーチにもあげようか？
+    風船ガム。
+c241_Lobby_Touch_Love_1:
+  en: |-
+    I get a lot of letters from the fans asking, "What's your relationship with the Coach?"
+    What do you say?
+  ko: |-
+    팬들한테서 편지가 엄청 왔어.
+    …코치랑 나랑 무슨 사이냐는 데, 뭐라고 해?
+  ja: |-
+    ファンレターがたくさん届いたよ。
+    …コーチと私はどういう関係なのかって。
+    何て返事すればいいんだろ。
+c241_Lobby_Touch_Love_2:
+  en: |-
+    How did skateboard practice go?
+    Let me know if you're tired, and I'll help you feel better.
+  ko: |-
+    보드 연습은 잘 되어가?
+    …힘들면 말해. 손, 잡아줄 테니까.
+  ja: |-
+    ボードの練習は順調？
+    …うまくいかない時は言って。
+    手、持ってあげる。
+c241_Lobby_Touch_Love_3:
+  en: |-
+    For this new trick...
+    You just pop it like this...
+  ko: |-
+    이번 신트릭은… 음.
+    이런 느낌으로 팝을 차 볼까.
+  ja: |-
+    新しいトリックは…えっと。
+    こんな感じでショービットをやってみようかな。
+c241_Lobby_Stay_1:
+  en: Hey, are you part sloth or something? How come you're not up and about?
+  ko: 코치, 혹시 나무늘보야? 왜 꼼짝도 안 해.
+  ja: |-
+    コーチって実は面倒くさがり屋？
+    何でびくともしないの？
+c241_Lobby_Stay_Love_1:
+  en: "... Coach, what are you doing? Hurry up, you promised we'd give the Cruiser
+    board a spin."
+  ko: "…코치, 뭐해? 어서 나가자. 같이 크루징 하기로 했잖아."
+  ja: |-
+    …コーチ、何してるの？
+    早く行こうよ。
+    一緒にクルージングするって言ったじゃん。
+c241_Outpost_Touch_1:
+  en: But... there's no slope at the Outpost?
+  ko: "…전초기지엔 왜 내리막이 없을까?"
+  ja: "…前哨基地には どうして坂道が ないんだろう？"
+c241_Outpost_Touch_2:
+  en: Practicing in the gym is the best! Such a great echo.
+  ko: |-
+    체육관에서 보드 타는 것도 기분 좋아.
+    실내 특유의 울림이 있거든.
+  ja: |-
+    体育館で乗るボードも いい感じだよ。
+    屋内特有の 響きがあるんだ。
+c241_Outpost_Touch_3:
+  en: I'm figuring out some new tricks.
+  ko: 새로운 트릭을 개발 중이야.
+  ja: 新しいトリックを開発中だよ。
+c241_Gacha_Get_1:
+  en: Check out this new trick!
+  ko: 최고의 트릭을 보여줄게.
+  ja: 最高のトリックを見せてあげるね。
+c241_Reinforce_1:
+  en: I'm stronger.
+  ko: "…더 강해졌어."
+  ja: "…もっと強くなったよ。"
+c241_Reinforce_2:
+  en: I can skate faster.
+  ko: 더 빨리 달릴 수 있어.
+  ja: もっと早く走れるよ。
+c241_Reinforce_3:
+  en: I just came up with a neat trick!
+  ko: 괜찮은 트릭이 떠올랐어.
+  ja: いいトリックを思いついた。
+c241_Gift_1:
+  en: Thanks, Coach.
+  ko: 고마워, 코치.
+  ja: ありがとう、コーチ。
+c241_Gift_2:
+  en: I'll take good care of it.
+  ko: "…잘 받을게."
+  ja: "…ありがとう。"
+c241_Gift_3:
+  en: Are you...cheering me on?
+  ko: 응원해 주는 거지?
+  ja: 応援してくれるよね？
+c241_Attractive_Up_1:
+  en: So long as you're by my side Coach, I'm not afraid of failing.
+  ko: 이제 넘어져도 두렵지 않아. 코치가 날 일으켜줄 거잖아?
+  ja: もう転んだって怖くないよ。コーチが手を貸してくれるもんね？
+c241_Attractive_Up_2:
+  en: You always help me overcome my inner doubts.
+  ko: 코치는 늘 내 한계를 극복하게 해줘.
+  ja: コーチはいつも私に限界を超えさせてくれる。
+c241_Attractive_Up_3:
+  en: It's a blessing to have someone I can trust... Someone that can help me become
+    a better person.
+  ko: 믿고 달릴 수 있는 사람이 있다는 건 축복이야.
+  ja: 信じられる人がいるっていうのはすごいことだよ。
+c241_Party_Deploy_1:
+  en: Need one of my tricks?
+  ko: 내 트릭이 필요해?
+  ja: 私のトリックが必要？
+c241_Field_Touch_1:
+  en: Yes, Coach?
+  ko: 불렀어, 코치?
+  ja: 呼んだ？コーチ。
+c241_Field_Go_1:
+  en: On my way.
+  ko: 지금 달려가고 있어.
+  ja: 今そっちに向かってるよ。
+c241_Battle_Enter_1:
+  en: Match starts now.
+  ko: 경기, 시작할게.
+  ja: ゲーム、始めるよ。
+c241_Battle_Ready_1:
+  en: Full speed.
+  ko: 전속력으로 달려보자.
+  ja: 全速力で走ってみよう。
+c241_Battle_Ready_2:
+  en: Here we go.
+  ko: "…가자."
+  ja: "…行こう。"
+c241_Battle_Ready_3:
+  en: I can try out that new trick I've been working on.
+  ko: 새로 만든 트릭을 시험할 때가 왔어.
+  ja: 新しいトリックを試す時が来たね。
+c241_Reload_1:
+  en: Cover me.
+  ko: 커버해 줘.
+  ja: フォローをお願い。
+c241_Reload_2:
+  en: Reloading.
+  ko: 장전할게.
+  ja: 装填するね。
+c241_Reload_3:
+  en: Reload.
+  ko: 리로드.
+  ja: リロード。
+c241_Ult_Skill_Ready_1:
+  en: I'm ready, Coach.
+  ko: 코치, 달릴 준비는 끝났어.
+  ja: コーチ、走る準備は万端だよ。
+c241_Ult_Skill_1:
+  en: You won't be forgetting this one anytime soon!
+  ko: 평생 잊을 수 없는 트릭이 될 거야.
+  ja: 一生忘れられないトリックになると思うよ。
+c241_FullBurst_1:
+  en: Behold the power of teamwork.
+  ko: 팀의 협동력을 얕보지 마.
+  ja: チームの行動力を甘く見ないでね。
+c241_Kill_Monster_1:
+  en: KO.
+  ko: 잡았다.
+  ja: 捕まえた。
+c241_Kill_Monster_2:
+  en: Easy.
+  ko: 간단했어.
+  ja: 簡単だったよ。
+c241_Kill_Monster_3:
+  en: Faster.
+  ko: 가속을 얻고 있어.
+  ja: 加速中だよ。
+c241_Damage_1:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c241_Damage_2:
+  en: Oh!
+  ko: 아파.
+  ja: 痛い。
+c241_Damage_3:
+  en: Uh...
+  ko: 으으….
+  ja: うう…
+c241_Die_1:
+  en: I'm bowing out of this one.
+  ko: "…이번 경기는 기권할게."
+  ja: "…このゲームは棄権するよ。"
+c241_Win_1:
+  en: Practice makes perfect.
+  ko: 연습은 절대 배신하지 않아.
+  ja: 練習は絶対に裏切らない。
+241_cv_ja:
+  en: 'CV: Maaya Uchida'
+  ko: 'CV : 우치다 마아야'
+  ja: CV：内田真礼
+241_cv_ko:
+  en: 'CV: Song Ha-rim'
+  ko: 'CV : 송하림'
+  ja: CV：ソン・ハリム
+241_cv_en:
+  en: 'CV: Dominique North'
+  ko: 'CV : 도미니크 노스'
+  ja: CV：Dominique North

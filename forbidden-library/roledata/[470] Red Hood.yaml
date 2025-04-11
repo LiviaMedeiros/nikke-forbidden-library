@@ -1,0 +1,848 @@
+---
+470_name:
+  en: Red Hood
+  ko: 레드 후드
+  ja: レッドフード
+c470_description:
+  en: |-
+    The last Grimms Model joining the Goddess squad.
+    She's a bold and cheerful Nikke who loves old songs.
+    Her red hair, red scarf, and red jacket are quite unforgettable.
+  ko: |-
+    갓데스 스쿼드에 마지막으로 합류한 페어리 테일 모델.
+    오래된 음악을 즐겨 듣는, 호탕하고 시원한 성격의 니케.
+    빨간 머리, 빨간 머플러, 빨간 코트가 인상적이다.
+  ja: |-
+    ゴッデス部隊に最後に合流したフェアリーテールモデル。
+    レトロな音楽をよく聴いており、豪快でサバサバした性格のニケ。
+    赤い髪、赤いマフラー、赤いコートが印象的。
+470_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_470:
+  en: Red Hood's Spare Body
+  ko: 레드 후드 스페어 바디
+  ja: レッドフードのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+24702_name:
+  en: Wild Tooth
+  ko: 와일드 투스
+  ja: ワイルドトゥース
+24702_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF>Gain Pierce continuously.</color>
+    ■ Activates during Beast Cage. Affects all allies.
+    <color=#00AEFF>DEF ▲ {description_value_01}% of caster's DEF for {description_value_02} sec.</color>
+    ■ Activates during The Last Howl. Affects self.
+    <color=#00AEFF>Recovers {description_value_03}% of attack damage as HP over {description_value_04} sec.</color>
+    ■ Activates when casting Red Wolf. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[관통 특화] [지속]</color>\n■ 자신이 비스트 케이지 적용 시 아군
+    전체에게 \n<color=#00AEFF>[시전자 기준 방어력 {description_value_01}% ▲] [{description_value_02}초
+    유지]</color>\n■ 자신이 엔드 하울링 적용 시 자신에게\n<color=#00AEFF>[공격 대미지 비례 {description_value_03}%
+    회복] [{description_value_04}초 유지]</color>\n■ 자신이 레드 울프 발동 시 자신에게\n<color=#00AEFF>[공격력
+    {description_value_05}% ▲] [{description_value_06}초 유지]</color>"
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「貫通特化」「持続」</color>
+    ■自分にビーストケージを適用時、味方全体に
+    <color=#00AEFF>「スキル発動者基準で防御力{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+    ■自分にハウリングエンドを適用時、自分に
+    <color=#00AEFF>「攻撃ダメージの{description_value_03}％回復」
+    「{description_value_04}秒間維持」</color>
+    ■自分がレッドウルフを発動した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24701_name:
+  en: Glaring Eyes
+  ko: 글레링 아이즈
+  ja: グレアリングアイズ
+24701_description:
+  en: |-
+    ■ Activates when casting a normal attack. Affects self.
+    <color=#00AEFF>Charge Speed ▲ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF><word_group=10035>Convert excess value over 100% of Charge Speed to Charge Damage</word_group>. Charge Damage ▲ {description_value_04}% of the excess value continuously.</color>
+  ko: |-
+    ■ 일반 공격 시 자신에게
+    <color=#00AEFF>[차지 속도 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10035>차지 속도 100% 초과 시 초과된 값을 차지 대미지로 변환</word_group>] [초과된 값의 {description_value_04}% 차지 대미지 ▲] [지속]</color>
+  ja: |-
+    ■通常攻撃をした時、自分に
+    <color=#00AEFF>「チャージ速度{description_value_01}％▲」「{description_value_02}スタック」
+    「{description_value_03}秒間維持」</color>
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10035>チャージ速度100％を超えた場合、超過した値をチャージダメージに変換</word_group>」「超過した値の{description_value_04}％のチャージダメージ▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14703_name:
+  en: Red Wolf
+  ko: 레드 울프
+  ja: レッドウルフ
+14703_description:
+  en: "When used in Step 1: Beast Cage\n■ Affects all allies.\n<color=#00AEFF>ATK
+    ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>\n■
+    Affects self.\n<color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst
+    Skill ▼ 40 sec. Activates once per battle.</color>\nWhen used in Step 2: The Last
+    Howl\n■ Affects self.\n<color=#00AEFF>Attract: Taunt all enemies for {description_value_04}
+    sec.\nPotency of HP restored ▲ {description_value_05}% for {description_value_06}
+    sec.\n<word_group=10031>Cooldown</word_group> of Burst Skill ▼ 40 sec. Activates
+    once per battle.</color>\nWhen used in Step 3: Red Wolf\n■ Affects self.\n<color=#00AEFF>Change
+    the Weapon in use:\nDamage: {description_value_07}% of final ATK \nFull Charge
+    Damage: 250% of damage\nLast for: 10 sec\nAdditional Effects:\nExpand Pierce range
+    by {description_value_08}% for {description_value_09} sec.\nCharge Speed ▲ {description_value_10}%
+    for {description_value_11} sec.</color>"
+  ko: |-
+    <Step 1에서 사용 시 : 비스트 케이지>
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> 40초 ▼] [전투 중 1회 발동]</color>
+    <Step 2에서 사용 시 : 엔드 하울링>
+    ■ 자신에게
+    <color=#00AEFF>[주목 : 적 전체 도발] [{description_value_04}초 유지]
+    [받는 체력 회복량 {description_value_05}% ▲] [{description_value_06}초 유지]
+    [버스트 스킬 <word_group=10031>재사용 시간</word_group> 40초 ▼] [전투 중 1회 발동]</color>
+    <Step 3에서 사용 시 : 레드 울프>
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경]:
+    대미지 : 최종 공격력 {description_value_07}% 대미지
+    풀 차지 대미지 : 250%
+    유지 시간 : 10초
+    추가 효과
+    [관통 범위 {description_value_08}% 확장] [{description_value_09}초 유지]
+    [차지 속도  {description_value_10}% ▲] [{description_value_11}초 유지]</color>
+  ja: |-
+    『バーストⅠで使用時：ビーストケージ』
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+    ■自分に
+    <color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group>40秒▼」「戦闘中1回発動」</color>
+    『バーストⅡで使用時：ハウリングエンド』
+    ■自分に
+    <color=#00AEFF>「ヘイト：敵全体を挑発」「{description_value_04}秒間維持」
+    「受けるHP回復量{description_value_05}％▲」「{description_value_06}秒間維持」
+    「バーストスキル<word_group=10031>クールタイム</word_group>40秒▼」「戦闘中1回発動」</color>
+    『バーストⅢで使用時：レッドウルフ』
+    ■自分に
+    <color=#00AEFF>「使用武器変更」：
+    ダメージ：最終攻撃力の{description_value_07}％のダメージ
+    フルチャージダメージ：250％
+    維持時間：10秒
+    追加効果
+    「貫通範囲{description_value_08}％拡張」「{description_value_09}秒間維持」
+    「チャージ速度{description_value_10}％▲」「{description_value_11}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+224_name:
+  en: 'Snow White: Innocent Days'
+  ko: '스노우 화이트 : 이노센트 데이즈'
+  ja: スノーホワイト：イノセントデイズ
+225_name:
+  en: 'Scarlet: Black Shadow'
+  ko: '홍련 : 흑영'
+  ja: 紅蓮：ブラックシャドウ
+226_name:
+  en: 'Rapunzel: Pure Grace'
+  ko: '라푼젤 : 퓨어 그레이스'
+  ja: ラプンツェル：ピュアグレイス
+c470_Lobby_Touch_1:
+  en: |-
+    Got any plans?
+    Wanna listen to some music if you're free?
+  ko: |-
+    뭐해?
+    할 거 없으면 노래나 들을래?
+  ja: |-
+    何してんだ？
+    ヒマなら歌でも聴くか？
+c470_Lobby_Touch_2:
+  en: |-
+    I may be into older things,
+    but that doesn't mean I'm an antique.
+  ko: |-
+    아저씨 같다고 하지 마.
+    차라리 형님 같다고 하던가.
+  ja: |-
+    おっさんみたいだって言うなよ。
+    それを言うなら、兄貴みたいだって言ってくれよな。
+c470_Lobby_Touch_3:
+  en: If you've got nothing to do, at least come and massage my back.
+  ko: 할 거 없으면 와서 어깨라도 좀 주물러봐.
+  ja: やることねぇなら、肩でももんでくれよ。
+c470_Lobby_Touch_Love_1:
+  en: |-
+    Everything gets better with age.
+    Have you got any old objects lying around?
+  ko: |-
+    오래된 것일수록 좋은 거야.
+    너한테도 그런 게 있으면 좋겠네.
+  ja: |-
+    古いものほど、いいもんなんだ。
+    お前にも、そういうものがあるといいな。
+c470_Lobby_Touch_Love_2:
+  en: I'd love to hear any music recommendations you have.
+  ko: |-
+    듣는 노래 있으면 좀 줘봐.
+    한 번 들어보게.
+  ja: |-
+    おすすめの曲があったら教えてくれよ。
+    聴いてみっから。
+c470_Lobby_Touch_Love_3:
+  en: |-
+    Live long.
+    Being alive is a blessing.
+  ko: |-
+    넌 오래 살아.
+    살아있는 건 좋은 거야.
+  ja: |-
+    お前は長生きしろよ。
+    生きてるってのはいいことだからな。
+c470_Lobby_Stay_1:
+  en: Take your time. I'll be here listening to some tunes.
+  ko: 노래나 듣고 있을 테니 천천히 볼일 보셔.
+  ja: 歌でも聴いてるから、ゆっくりやれよ。
+c470_Lobby_Stay_Love_1:
+  en: |-
+    I don't mind being alone,
+    as long as it's not for too long.
+  ko: |-
+    혼자 있는 건 싫어하지 않아.
+    그렇다고 너무 오랫동안 혼자 있는 건 싫지만 말이야.
+  ja: |-
+    1人でいるのは嫌いじゃないね。
+    ま、ずっと1人ってのはイヤだけどさ。
+c470_Outpost_Touch_1:
+  en: "I like the Theater. \nI bet the acoustics in it must be amazing."
+  ko: |-
+    극장은 맘에 드네.
+    사운드 빵빵하겠지?
+  ja: |-
+    劇場は気に入ってる。
+    大音量で聴けるだろ？
+c470_Outpost_Touch_2:
+  en: |-
+    I'm a bit turned off by super modernized places like this.
+    It's a bit suffocating.
+  ko: |-
+    난 이렇게 발전된 곳은 좀 그래.
+    숨 막혀.
+  ja: |-
+    あたし、 こういう発展した街って 苦手なんだ。
+    息苦しくてさ。
+c470_Outpost_Touch_3:
+  en: |-
+    Goddess of Victory, and Wings of Victory...
+    Haha, I must say I'm quite proud of this.
+  ko: |-
+    승리의 여신에 승리의 날개라….
+    하하. 이건 좀 뿌듯하네.
+  ja: |-
+    勝利の女神に、 勝利の翼か…
+    あはは。 ちょっとは胸を張れるかな。
+c470_Gacha_Get_1:
+  en: |-
+    I'm a relic from a bygone era, so I'll be leaving soon.
+    But, until that happens, I'll do everything I can to help.
+  ko: |-
+    난 과거의 사람이라, 곧 떠날 거야.
+    대신, 그동안은 전력으로 도울게.
+  ja: |-
+    あたしは過去の存在だから、そのうち消える。
+    けど、それまでは全力で助けるぞ。
+c470_Reinforce_1:
+  en: Whoa, amazing!
+  ko: 오오…! 대단해!
+  ja: おお…！すげえ！
+c470_Reinforce_2:
+  en: Wow, I could have never imagined this happening in my time.
+  ko: 이야~ 나 때는 이런 건 상상도 못 했는데.
+  ja: いや～、あたしの時代には、こんなの想像もできなかったな？
+c470_Reinforce_3:
+  en: So this is how you get stronger these days? So convenient.
+  ko: 요즘은 이렇게 해서 강해지는 거야? 편하네~
+  ja: 最近はこうやって強くなれんのか？便利だな～
+c470_Gift_1:
+  en: What is this? You're not pulling a prank on me, are you?
+  ko: 오~ 뭐야 뭐야. 나한테 무슨 수작 부리려고 이러는 거야?
+  ja: お～、なんだなんだ？あたしに何かする気か？
+c470_Gift_2:
+  en: For me, it's all about the give and take. What kind of gift would you like?
+  ko: 오는게 있으면 가는 것도 있어야지. 뭐 필요해?
+  ja: この世はギブアンドテイク、だろ？何が欲しいんだ？
+c470_Gift_3:
+  en: Do you have any dirty mags?
+  ko: 빨간책 같은 건 없어?
+  ja: そういう本とか、ねえの？
+c470_Attractive_Up_1:
+  en: You're a good person. You should continue living like that.
+  ko: 넌 좋은 녀석이야. 계속 그렇게 살아.
+  ja: お前はいいヤツだな。ずっとその調子でいろよ。
+c470_Attractive_Up_2:
+  en: If I were a little bit younger, you'd be in big trouble.
+  ko: 아오 내가 조금만 더 젊었으면 너 큰일 났을 거다 진짜.
+  ja: |-
+    ったく…お前、あたしがもう少し若かったら、
+    大変なことになってたぞ。
+c470_Attractive_Up_3:
+  en: Come here. Let's listen to music. We can split the earbuds.
+  ko: 이리 와봐. 노래 듣자. 한쪽씩 나눠 끼는 거야.
+  ja: こっち来いよ。歌聴こうぜ。イヤホン片っぽずつでさ。
+c470_Party_Deploy_1:
+  en: Red Hood! Engage!
+  ko: 레드 후드! 출전한다!
+  ja: レッドフード！出撃するぜ！
+c470_Field_Touch_1:
+  en: Mhmm.
+  ko: 어어.
+  ja: よお。
+c470_Field_Go_1:
+  en: Come on, let's go!
+  ko: 가자, 가자!
+  ja: 行こうぜぇ！
+c470_Battle_Enter_1:
+  en: Are you ready? Then let's go.
+  ko: 준비됐어? 그럼 가자!
+  ja: 準備はいいか？んじゃ、ブチかまそうぜ！
+c470_Battle_Ready_1:
+  en: Get lost! I'm busy.
+  ko: 다 꺼져 이것들아! 바쁘다!
+  ja: とっとと失せやがれ！
+c470_Battle_Ready_2:
+  en: You can leave this to me! Trust me!
+  ko: 나만 믿고 있으라고!
+  ja: あたしに任せなっ！
+c470_Battle_Ready_3:
+  en: Today sure isn't your lucky day.
+  ko: 운이 나쁘네 너희들!
+  ja: ツイてなかったな、お前ら！
+c470_Reload_1:
+  en: Better reload.
+  ko: 재장전을~ 해볼까요~
+  ja: リロードするぜ～っと。
+c470_Reload_2:
+  en: Why don't they develop something like an infinite magazine?
+  ko: 무한 탄창 같은 거 개발 안 되나….
+  ja: 無限マガジンとか、できねぇのかよ…
+c470_Reload_3:
+  en: Oh no, I was just getting into the groove.
+  ko: 에잇. 한창 좋을 때.
+  ja: くそっ、一番いいところで！
+c470_Ult_Skill_Ready_1:
+  en: Wolfsbane, ready!
+  ko: 울프스 베인 레디!
+  ja: ウルフスベイン、レディー！
+c470_Ult_Skill_1:
+  en: Sorry to break it to you, but this is the end.
+  ko: 아쉽지만, 여기까지야!
+  ja: 残念だったな、ここまでだ！
+c470_FullBurst_1:
+  en: Let's keep the momentum going!
+  ko: 좋~다! 계속 가보자고!
+  ja: よっしゃあ！このまま行くぜ！
+c470_Kill_Monster_1:
+  en: Right!
+  ko: 옳지!
+  ja: ナイス！
+c470_Kill_Monster_2:
+  en: Good!
+  ko: 좋았으!
+  ja: やるじゃんか！
+c470_Kill_Monster_3:
+  en: That was simple enough.
+  ko: 간단하네!
+  ja: 楽勝だっ！
+c470_Damage_1:
+  en: Touché.
+  ko: 오, 제법인데?
+  ja: おっ、やるな？
+c470_Damage_2:
+  en: What the...?!
+  ko: 이게…!
+  ja: こんのっ…！
+c470_Damage_3:
+  en: Oh?
+  ko: 어쭈?
+  ja: おっと？
+c470_Die_1:
+  en: I'm sorry. I didn't keep my head in the game.
+  ko: 엇, 미안. 너무 정신 놓고 싸웠나 봐.
+  ja: あっ、わりぃ。集中しすぎちまったな～
+c470_Win_1:
+  en: Did you see that? I'm strong, but my comrades are stronger!
+  ko: 잘 봤냐. 나도 강하지만, 내 동료들은 더 강하다고!
+  ja: 見ただろ？あたしも強えけど、仲間たちはもっと強えんだ！
+c470_01_Lobby_Touch_1:
+  en: |-
+    Ugh, this is so uncomfortable.
+    I shouldn't have worn this dress.
+  ko: |-
+    아오~ 불편해 죽겠네.
+    드레스 괜히 입고 왔어.
+  ja: |-
+    クッソ～ 動きにくいな。
+    やっぱドレスなんか着てこなきゃよかった。
+c470_01_Lobby_Touch_2:
+  en: I've never been to a place like this before. I don't feel entirely comfortable,
+    but it's quite nice.
+  ko: |-
+    내가 이런 데 와본 적이 없어서 조금 어색하긴 한데,
+    그래도 뭐… 좋긴 하네.
+  ja: |-
+    こんなところに来んのは初めてだから落ち着かねぇや。
+    でもまあ…たまにはいいか。
+c470_01_Lobby_Touch_3:
+  en: |-
+    What is up with this music? I thought this was supposed to be a party.
+    It's so grating... isn't there something else they could play?
+  ko: |-
+    파티라면서 선곡이 왜 이래?
+    으으… 귀 아파, 다른 노래 없나.
+  ja: |-
+    パーティーでこの選曲はねぇだろ。
+    うう…耳が痛ぇ、他の曲にしてくれよ。
+c470_01_Lobby_Touch_Love_1:
+  en: |-
+    Come on, let's all have a drink.
+    It's a day worth celebrating.
+  ko: |-
+    다들 빼지 말고 술이나 한 잔씩 하자.
+    좋은 날이잖아~
+  ja: |-
+    なぁ、せっかくだからみんなで乾杯しようぜ。
+    おめでたい日だしな。
+c470_01_Lobby_Touch_Love_2:
+  en: |-
+    Hey girl, wanna dance with me later?
+    Haha! Just kidding, just kidding.
+  ko: |-
+    거기 아가씨~ 이따 나랑 춤이나 같이 출래?
+    하하하! 농담이야 농담~
+  ja: |-
+    お嬢サマ～あとであたしと一曲踊らないか？
+    アハハ！冗談だよ、冗談～
+c470_01_Lobby_Touch_Love_3:
+  en: |-
+    Come here! They're finally playing some oldies!
+    Now THIS kind of music is perfect for a party.
+  ko: |-
+    이리 와 봐! 여기서는 옛날 노래가 나와!
+    역시 파티에는 이런 노래가 딱이지~
+  ja: |-
+    こっち来いよ！ここは昔の曲が流れてるぞ！
+    やっぱパーティーっていったら、こういう曲だよな～
+c470_01_Lobby_Stay_1:
+  en: |-
+    Is there nothing fun to do around here?
+    Where is everyone?
+  ko: |-
+    뭐 재미있는 거 없나?
+    애들은 다 어디에 있는 거야?
+  ja: |-
+    何か面白いことねぇかな？
+    みんなはどこ行ったんだ？
+c470_01_Lobby_Stay_Love_1:
+  en: |-
+    Mmm, this wine tastes good.
+    Gotta let Snow try some later.
+  ko: |-
+    음~ 와인 맛 좋은데?
+    이따가 스노우 한테도 줘봐야지.
+  ja: |-
+    う～ん、このワインうまいな。
+    後でスノーにも飲ませてやろう。
+c470_01_Outpost_Touch_1:
+  en: Wow, so a place like this exists, huh?
+  ko: 이야~ 이런 곳이 다 있네?
+  ja: へぇ～こんな場所があるんだな。
+c470_01_Outpost_Touch_2:
+  en: There's way more stuff here than I imagined!
+  ko: 생각보다 있을 건 다 갖추고 있잖아?
+  ja: 思ったより、 なんでも揃ってんだな。
+c470_01_Outpost_Touch_3:
+  en: |-
+    It's obvious that this place is well-managed.
+    They've clearly done a stellar job maintaining it.
+  ko: |-
+    딱 봐도 살기 좋은 곳이라는 게 티가 나는 장소야.
+    그만큼 관리를 잘 했다는 거겠지.
+  ja: |-
+    ちょっと見ただけで、 住みやすい場所だって分かるな。
+    それだけ管理が 行き届いてるってことだな。
+c470_01_Gacha_Get_1:
+  en: |-
+    When you're going to a party, your choice of garment says everything.
+    How do I look?
+  ko: |-
+    파티하면 역시 드레스지.
+    어때, 잘 어울려?
+  ja: |-
+    パーティーっていったら、やっぱドレスだよな。
+    どうだ、似合ってるか？
+c470_01_Reinforce_1:
+  en: |-
+    I feel a bit lighter.
+    Is it because this dress is made of thinner material?
+  ko: |-
+    몸이 좀 가벼워지는 느낌인데?
+    …옷이 얇아져서 그런가?
+  ja: |-
+    なんだか体が軽くなったような…？
+    …薄着だからか？
+c470_01_Reinforce_2:
+  en: |-
+    Why do I feel so restless?
+    Maybe I need to go pester Snow later.
+  ko: |-
+    왜 이렇게 몸이 근질거리지?
+    이따가 스노우나 좀 괴롭혀야겠다.
+  ja: |-
+    なんでこんなに体がムズムズするんだ？
+    後でスノーでもからかって遊ばないと。
+c470_01_Reinforce_3:
+  en: |-
+    I feel unstoppable! I bet I could even beat Lilith right now...
+    Er, forget I said that!
+  ko: |-
+    오? 지금이라면 릴리스도 이길 수 있을 것…
+    아, 아무것도 아냐!
+  ja: |-
+    ん？今ならリリスにも勝てるんじゃ…
+    って、何でもねぇよ！
+c470_01_Gift_1:
+  en: |-
+    What's this? Are you a fan of mine?
+    Thank you!
+  ko: |-
+    뭐야? 혹시 내 팬이야?
+    고맙게 받을게~
+  ja: |-
+    何？ひょっとしてあたしのファンなのか？
+    ありがとな～
+c470_01_Gift_2:
+  en: |-
+    You're going to spoil me if you keep giving me stuff.
+    This is the last thing I'll accept.
+  ko: |-
+    자꾸 주면 나 버릇 나빠져!
+    이것까지만 받는다~?
+  ja: |-
+    何度ももらうのは悪いって。
+    これで最後にしてくれよな～？
+c470_01_Gift_3:
+  en: |-
+    The Goddess Squad seems to be quite popular,
+    considering how many gifts I keep receiving.
+  ko: |-
+    갓데스 인기가 많긴 한가 봐.
+    나한테도 이렇게 선물이 들어오는 걸 보면.
+  ja: |-
+    ゴッデスは人気があるみてぇだな。
+    あたしまでこんなプレゼントもらえるなんてさ。
+c470_01_Attractive_Up_1:
+  en: |-
+    What? You think I look better in a dress? 
+    Maybe I should wear this all the time.
+  ko: |-
+    뭐? 드레스가 더 잘 어울린다고?
+    맨날 이것만 입어야겠네~
+  ja: |-
+    え？ドレスの方が似合うって？
+    じゃ、いつもこのカッコでいねぇとな～
+c470_01_Attractive_Up_2:
+  en: I must be getting drunk. I can feel my face burning.
+  ko: 술이 오르나, 자꾸 얼굴이 빨개지네.
+  ja: 酔いが回ってきたかな。すぐに顔が赤くなっちまうぜ。
+c470_01_Attractive_Up_3:
+  en: |-
+    This song is my favorite.
+    It's even better listening to it with you.
+  ko: |-
+    이 노래 내가 제일 좋아하는 노래야.
+    같이 들으니까 더 좋다.
+  ja: |-
+    これ、あたしが一番好きな曲なんだ。
+    一緒に聴くともっといいな。
+c470_01_Party_Deploy_1:
+  en: What? You expect me to go out in this outfit?
+  ko: 뭐야, 나 이러고 가?
+  ja: えぇっ？この服で行けって？
+c470_01_Field_Touch_1:
+  en: Mhmm.
+  ko: 어어.
+  ja: よっ。
+c470_01_Field_Go_1:
+  en: Argh, my feet keep getting caught in the hem of the dress!
+  ko: 으악! 치마가 자꾸 발에 걸려!
+  ja: ああもうっ！スカートがやたらと引っかかるっ！
+c470_01_Battle_Enter_1:
+  en: Is this a new venue for the party?
+  ko: 여기가 새로운 파티장이야?
+  ja: ここが新しいパーティー会場か？
+c470_01_Battle_Ready_1:
+  en: I never thought I'd be fighting in a dress.
+  ko: 살다 살다 드레스를 입고 싸워보네.
+  ja: ドレスで戦うなんてマジか～
+c470_01_Battle_Ready_2:
+  en: A little too many dance partners for my taste.
+  ko: 댄스 파트너들이 너무 많은데~?
+  ja: ダンスの相手が多すぎて困っちまうな～！
+c470_01_Battle_Ready_3:
+  en: Shall we start with a glass of wine?
+  ko: 와인 한 잔 마시고 시작해 볼까?
+  ja: ワインでも飲んで始めっか！
+c470_01_Reload_1:
+  en: This outfit is a real drag!
+  ko: 옷 진짜 거추장스럽네!
+  ja: この服、マジでダリィな！
+c470_01_Reload_2:
+  en: Let's finish this quickly!
+  ko: 후딱 끝냅시다~
+  ja: とっとと終わらせようぜ～
+c470_01_Reload_3:
+  en: Time out!
+  ko: 잠시 타임!
+  ja: ちょっとタイム！
+c470_01_Ult_Skill_Ready_1:
+  en: I just have one question!
+  ko: 질문 하나만 할게!
+  ja: 一つ質問させてくれ！
+c470_01_Ult_Skill_1:
+  en: How do I look? Sexy, perhaps?
+  ko: 나 오늘 어때? 좀… 섹시한가~?
+  ja: |-
+    今日のあたし、どう？
+    …セクシーすぎるか？ん？
+c470_01_FullBurst_1:
+  en: Let's wipe them out and head back!
+  ko: 싹 다 쓸어버리고, 돌아가자!
+  ja: さっさと始末して帰ろうぜ！
+c470_01_Kill_Monster_1:
+  en: Small potatoes.
+  ko: 별거 아니네.
+  ja: 大したことねぇな。
+c470_01_Kill_Monster_2:
+  en: Next!
+  ko: 다음!
+  ja: 次！
+c470_01_Kill_Monster_3:
+  en: Booooooring!
+  ko: 지루하다, 지루해!
+  ja: あ～つまんねぇ！
+c470_01_Damage_1:
+  en: Ouch!
+  ko: 아야!
+  ja: ああ！
+c470_01_Damage_2:
+  en: My clothes are burning!
+  ko: 옷 탄다!
+  ja: 服が焼けちまう！
+c470_01_Damage_3:
+  en: You're really annoying!
+  ko: 짜증 나게 하네!
+  ja: イライラさせてくれんじゃん！
+c470_01_Die_1:
+  en: Darn, my dress is toast.
+  ko: 아잇, 옷 다 탔네 이거….
+  ja: ちくしょう、服が焼けちまったじゃねぇか…
+c470_01_Win_1:
+  en: |-
+    The party isn't over yet, is it?
+    Let's go back and enjoy ourselves!
+  ko: |-
+    아직 파티 안 끝났겠지?
+    빨리 돌아가서 마저 즐기자고!
+  ja: |-
+    まだパーティーは終わってねぇよな？
+    さっさと帰って、最後まで楽しもうぜ！
+470_cv_ja:
+  en: 'CV: Yoko Hikasa'
+  ko: 'CV : 히카사 요코'
+  ja: CV：日笠陽子
+470_cv_ko:
+  en: 'CV: Jeon Sook-kyung'
+  ko: 'CV : 전숙경'
+  ja: CV：ジョン・スクギョン
+470_cv_en:
+  en: 'CV: Paris Blu'
+  ko: 'CV : 패리스 블루'
+  ja: CV：Paris Blu

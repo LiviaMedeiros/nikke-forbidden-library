@@ -1,0 +1,569 @@
+---
+403_name:
+  en: 'Quency: Escape Queen'
+  ko: '퀀시 : 이스케이프 퀸'
+  ja: クエンシー：エスケープクイーン
+c403_description:
+  en: |-
+    Quency has become one of the Thieves of Justice.
+    At least for today, she's searching for an escape route in the name of justice.
+  ko: |-
+    정의의 괴도단이 된 퀀시.
+    오늘만큼은 정의를 위해 탈출 루트를 찾아 다닌다.
+  ja: |-
+    正義の怪盗団になったクエンシー。
+    いつもとは違い、正義のために脱出ルートを探している。
+403_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_403:
+  en: 'Quency: Escape Queen''s Spare Body'
+  ko: '퀀시 : 이스케이프 퀸 스페어 바디'
+  ja: クエンシー：エスケープクイーンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+24032_name:
+  en: Explore Route
+  ko: 루트 탐색
+  ja: ルート探索
+24032_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>Effects in each phase vary.<word_group=10028>Previous effects trigger repeatedly.</word_group></color>
+    Stage 1: Affects self.
+    <color=#00AEFF>Hit Rate ▲ {description_value_02}%, stacks up to 10 time(s) and lasts for 2 sec.
+    ATK ▲ {description_value_03}%, stacks up to 10 time(s) and lasts for 2 sec.</color>
+    Stage 2: Activates when Explore Route Stage 1 is fully stacked. Affects self.
+    <color=#00AEFF>Hit Rate ▲ {description_value_04}%, stacks up to 10 time(s) and lasts for 1 sec.
+    ATK ▲ {description_value_05}%, stacks up to 10 time(s) and lasts for 1 sec.</color>
+    Stage 3: Activates when Explore Route Stage 2 is fully stacked. Affects self.
+    <color=#00AEFF>Hit Rate ▲ {description_value_06}%, stacks up to 5 time(s) and lasts for 0.5 sec.
+    ATK ▲ {description_value_07}%, stacks up to 5 time(s) and lasts for 0.5 sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 자신에게
+    <color=#00AEFF>[단계 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]</color>
+    1단계 : 자신에게
+    <color=#00AEFF>[명중률 {description_value_02}% ▲] [10 중첩] [2초 유지]
+    [공격력 {description_value_03}% ▲] [10 중첩] [2초 유지]</color>
+    2단계 : 루트 탐색 1단계 최대 중첩 상태라면 자신에게
+    <color=#00AEFF>[명중률 {description_value_04}% ▲] [10 중첩] [1초 유지]
+    [공격력 {description_value_05}% ▲] [10 중첩] [1초 유지]</color>
+    3단계 : 루트 탐색 2단계 최대 중첩 상태라면 자신에게
+    <color=#00AEFF>[명중률 {description_value_06}% ▲] [5 중첩] [0.5초 유지]
+    [공격력 {description_value_07}% ▲] [5 중첩] [0.5초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「段階別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」</color>
+    1段階：自分に
+    <color=#00AEFF>「命中率{description_value_02}％▲」「10スタック」「2秒間維持」
+    「攻撃力{description_value_03}％▲」「10スタック」「2秒間維持」</color>
+    2段階：ルート探索1段階フルスタック状態なら、自分に
+    <color=#00AEFF>「命中率{description_value_04}％▲」「10スタック」「1秒間維持」
+    「攻撃力{description_value_05}％▲」「10スタック」「1秒間維持」</color>
+    3段階：ルート探索2段階フルスタック状態なら、自分に
+    <color=#00AEFF>「命中率{description_value_06}％▲」「5スタック」「0.5秒間維持」
+    「攻撃力{description_value_07}％▲」「5スタック」「0.5秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24031_name:
+  en: Secure Route
+  ko: 루트 확정
+  ja: ルート確定
+24031_description:
+  en: |-
+    ■ Activates only when Explore Route Stage 1 is fully stacked. Affects self.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% continuously.</color>
+    ■ Activates only when Explore Route Stage 2 is fully stacked. Affects self.
+    <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_02}% continuously.</color>
+    ■ Activates only when Explore Route Stage 3 is fully stacked. Affects self.
+    <color=#00AEFF>Critical Rate ▲ {description_value_03}% continuously.</color>
+  ko: |-
+    ■ 자신이 루트 탐색 1단계 최대 중첩 상태일 때 한하여 자신에게
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 자신이 루트 탐색 2단계 최대 중첩 상태일 때 한하여 자신에게
+    <color=#00AEFF>[코어 대미지 {description_value_02}% ▲] [지속]</color>
+    ■ 자신이 루트 탐색 3단계 최대 중첩 상태일 때 한하여 자신에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_03}% ▲] [지속]</color>
+  ja: |-
+    ■自分がルート探索1段階フルスタック状態の時のみ自分に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％▲」「持続」</color>
+    ■自分がルート探索2段階フルスタック状態の時のみ自分に
+    <color=#00AEFF>「コアダメージ{description_value_02}％▲」「持続」</color>
+    ■自分がルート探索3段階フルスタック状態の時のみ自分に
+    <color=#00AEFF>「クリティカル確率{description_value_03}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14033_name:
+  en: The Great Thief
+  ko: 위대한 도둑
+  ja: 素晴らしき大泥棒
+14033_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.
+    Reloading Speed ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [재장전 속도 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% <word_group=10019>분배 대미지</word_group>]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「リロード速度{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+400_name:
+  en: Guilty
+  ko: 길티
+  ja: ギルティ
+401_name:
+  en: Sin
+  ko: 신
+  ja: シン
+402_name:
+  en: Quency
+  ko: 퀀시
+  ja: クエンシー
+c403_Lobby_Touch_1:
+  en: |-
+    Hey, Instructor, how do I look in this outfit? 
+    You don't think it's too small?
+  ko: |-
+    교관님, 이 옷 어때?
+    나한테 좀 작은 거 같지 않아?
+  ja: |-
+    教官様、この服どう思う？
+    私にはちょっと小さくな～い？
+c403_Lobby_Touch_2:
+  en: |-
+    I think being a thief suits me.
+    Maybe I should just consider a career switch?
+  ko: |-
+    괴도라는 직업, 나한테 좀 맞는 것 같아.
+    이참에 전직해 볼까~?
+  ja: |-
+    怪盗って、私に合ってる気がするわ。
+    これを機に転職しようかしら～？
+c403_Lobby_Touch_3:
+  en: |-
+    Don't call me a thief.
+    For today, and today only, I'm on the side of justice.
+  ko: |-
+    도둑이라고 하지 마.
+    오늘만큼은 정의를 위해 일하고 있으니까~
+  ja: |-
+    泥棒だなんて言わないでよ～
+    少なくとも今日は、正義のために働いてるんだから。
+c403_Lobby_Touch_Love_1:
+  en: |-
+    Which outfit do you prefer?
+    I bet this one caught your fancy, right?
+  ko: |-
+    교관님은 어떤 옷이 더 취향이야?
+    당연히 이쪽이겠지~?
+  ja: |-
+    教官様はどっちの服が好き？
+    もちろんこっちよね～？
+c403_Lobby_Touch_Love_2:
+  en: |-
+    If I'm doing my thief thing,
+    you and I can hang out all day? Nice!
+  ko: |-
+    괴도 일하는 동안은
+    하루 종일 붙어있을 수 있겠네? 좋다~
+  ja: 怪盗でいる間は、1日中一緒にいられるわね？ふふ！
+c403_Lobby_Touch_Love_3:
+  en: |-
+    Since I'm gonna be visiting often, I need to dig a few more tunnels leading to your room, Instructor.
+    That's okay with you, right?
+  ko: |-
+    교관님 방에 구멍을 몇 개 더 뚫어놔야겠어~
+    자주 올 것 같으니까, 괜찮지?
+  ja: |-
+    教官様の部屋に、もっとたくさん穴を作っておかなきゃ～
+    よく来るんだし、いいわよね？
+c403_Lobby_Stay_1:
+  en: |-
+    Instructor, if you leave your post for too long,
+    who knows where I, with some choice objects in tow, might run off to?
+  ko: |-
+    교관님~ 이렇게 오~래 자리 비우면.
+    나도, 물건도 어디로 사라질지 모를 텐데 괜찮아~?
+  ja: |-
+    教官様～ずーっと席を外してると、
+    私も部屋の物もどこに消えちゃうか分からないわよ。
+    大丈夫～？
+c403_Lobby_Stay_Love_1:
+  en: |-
+    You must be busy. Fine, take your time.
+    I'll consider which route to work on today.
+  ko: |-
+    일이 많은가 보네~ 천천히 와.
+    오늘은 어떤 루트를 뚫을지 고민하고 있을게.
+  ja: |-
+    忙しそうね～、ゆっくり来て。
+    今日はどのルートを使うか考えておくから。
+c403_Outpost_Touch_1:
+  en: |-
+    If Sin and Guilty come looking for me, tell them you haven't seen me.
+    I can't run into them wearing this outfit.
+  ko: |-
+    혹시 신이랑 길티가 나 찾으면 못 봤다고 해줘~
+    이 옷 입고 마주치면 안 되니까~
+  ja: |-
+    もしシンとギルティが捜してたら、 見てないって言って～
+    この服で会っちゃうとマズいから～
+c403_Outpost_Touch_2:
+  en: |-
+    I'm looking for routes that thieves can use.
+    Do you want to find some together?
+  ko: |-
+    괴도들이 사용할 만한 루트를 찾고 있어.
+    교관님도 같이 찾을래?
+  ja: |-
+    怪盗で使えそうなルートを 探しているの。
+    教官様も一緒に探す？
+c403_Outpost_Touch_3:
+  en: |-
+    Have you seen Phantom and Miranda? 
+    We were supposed to meet here.
+  ko: |-
+    팬텀이랑 미란다 못 봤어?
+    여기서 보기로 했는데~
+  ja: |-
+    ファントムとミランダを見てない？
+    ここで会う約束なんだけど～
+c403_Gacha_Get_1:
+  en: |-
+    I'm Quency the Thief.
+    Shall I plan another grand escape today in the name of justice?
+  ko: |-
+    나는 괴도 퀀시~
+    오늘도 정의를 위해 탈출해 볼까~!
+  ja: |-
+    怪盗クエンシー！
+    今日も正義のために抜け出すわよ～
+c403_Reinforce_1:
+  en: Thanks to you, Instructor, I feel nimbler!
+  ko: 교관님 덕분에 몸이 더 유연해진 기분인걸~?
+  ja: 教官様のおかげで体が軽くなったわ～
+c403_Reinforce_2:
+  en: Thank you. I'll try become a thief for justice.
+  ko: 고마워~ 오늘도 정의로운 괴도가 되어볼게~
+  ja: ありがと～今日も正義の怪盗になるわ～
+c403_Reinforce_3:
+  en: What if I become too strong and famous? That wouldn't necessarily be ideal for a thief, haha.
+  ko: 너무 강해져서 유명한 괴도가 되면 어떡하지? 킥킥.
+  ja: |-
+    有名な怪盗になっちゃったらどうしよう？
+    ふふ。
+c403_Gift_1:
+  en: What's this? Is it a new mask?
+  ko: 뭐야~? 설마 새로운 가면이야? 킥킥.
+  ja: それ、なあに～？まさか新しい仮面？ふふっ。
+c403_Gift_2:
+  en: All I can really give you in return are some bottle caps...
+  ko: |-
+    난 줄 게 없는데…
+    병뚜껑이라도 줄까?
+  ja: |-
+    何もお返しできるものがないんだけど…
+    ボトルキャップはどう？
+c403_Gift_3:
+  en: |-
+    Oooh, just what I needed!
+    Thank you, Instructor. I'll put it to good use!
+  ko: |-
+    이거 마침 필요했는데!
+    고마워~ 잘 쓸게, 교관님!
+  ja: |-
+    これ、ちょうど必要だったの！
+    ありがと～教官様！
+c403_Attractive_Up_1:
+  en: Is it okay if I dig a path to your heart, Instructor?
+  ko: 교관님 마음에 루트 하나 뚫어놔도 되지~?
+  ja: 教官様の心に繋がるルートを一つ作ってもいい～？
+c403_Attractive_Up_2:
+  en: You're quite the thief yourself, stealing my heart, hehe.
+  ko: 교관님도 괴도라서 내 마음을 훔치는 건가? 킥킥.
+  ja: 教官様も怪盗だから、私の心を狙ってるの？ふふっ。
+c403_Attractive_Up_3:
+  en: |-
+    I think you may be too smitten with me, Instructor.
+    Then again, I'm quite taken by you too!
+  ko: |-
+    교관님은 날 너무 좋아하는 거 같아~!
+    근데 나도 교관님이 좋아!
+  ja: |-
+    教官様って私のこと大好きね～？
+    私も教官様のことが大好き！
+c403_Party_Deploy_1:
+  en: Can I put on the mask before I head out?
+  ko: 가면 쓰고 가도 돼~?
+  ja: 仮面をつけて行ってもいい～？
+c403_Field_Touch_1:
+  en: The route is ready!
+  ko: 루트 준비됐어~
+  ja: ルートは準備できてるよ～
+c403_Field_Go_1:
+  en: I know a shortcut, wanna see?
+  ko: 지름길 루트가 있는데, 알려줄까?
+  ja: 近道があるんだけど、知りたい？
+c403_Battle_Enter_1:
+  en: Commencing thief activities!
+  ko: 괴도 활동 시~작!
+  ja: 怪盗、活動開始～っ！
+c403_Battle_Ready_1:
+  en: Let us go forward in the name of justice!
+  ko: 정의를 위해 가보실까나~?
+  ja: 正義のために、行くわよ～！
+c403_Battle_Ready_2:
+  en: Pick up any bottle caps you can!
+  ko: 병뚜껑도 틈틈이 주워줘~
+  ja: ボトルキャップもたまに拾ってね～
+c403_Battle_Ready_3:
+  en: There's so much to do!
+  ko: 해야 할 게 너무 많아~!
+  ja: しなくちゃいけないことが多すぎ～！
+c403_Reload_1:
+  en: Reloading.
+  ko: 장전중~
+  ja: 装填中～
+c403_Reload_2:
+  en: I've got to scout for some new routes as well.
+  ko: 루트도 좀 봐둬야지.
+  ja: ルートも少しチェックしておかなきゃ。
+c403_Reload_3:
+  en: What should I steal this time?
+  ko: 이번엔 뭘 훔치지?
+  ja: 今回は何を盗むの？
+c403_Ult_Skill_Ready_1:
+  en: I'm ready!
+  ko: 준비됐어~!
+  ja: 準備できたよ～！
+c403_Ult_Skill_1:
+  en: I'll snatch it in the blink of an eye!
+  ko: 눈 깜짝할 새 뺏길걸~?
+  ja: あっという間に頂くわよ。
+c403_FullBurst_1:
+  en: I'll take that.
+  ko: 내가 가져갈게~
+  ja: 私が頂いていくわ～
+c403_Kill_Monster_1:
+  en: Too easy.
+  ko: 너무 쉬운데?
+  ja: チョロいもんよ！
+c403_Kill_Monster_2:
+  en: I stole everything!
+  ko: 다 훔쳤다!
+  ja: いっちょあがり！
+c403_Kill_Monster_3:
+  en: Next route!
+  ko: 다음 루트로~
+  ja: 次のルートへ行きましょ！
+c403_Damage_1:
+  en: Eek!
+  ko: 꺅!
+  ja: きゃっ！
+c403_Damage_2:
+  en: Ouch!
+  ko: 아야!
+  ja: いたっ！
+c403_Damage_3:
+  en: Huh!
+  ko: 흣!
+  ja: ふうっ！
+c403_Die_1:
+  en: What if this disrupts the schedule of the Phantom Thieves?
+  ko: "…괴도단 일정에 차질이 생기면 어떡하지."
+  ja: "…怪盗団の予定を遅らせちゃったらどうしよう…"
+c403_Win_1:
+  en: Anything else I can do to help the thieves?
+  ko: 괴도 일에 도움 될만한 물건 뭐 없나~?
+  ja: 怪盗の仕事に役に立ちそうなもの、何かないかしら～？
+403_cv_ja:
+  en: 'CV: Aya Uchida'
+  ko: 'CV : 우치다 아야'
+  ja: CV：内田彩
+403_cv_ko:
+  en: 'CV: Kim Yeong-eun'
+  ko: 'CV : 김영은'
+  ja: CV：キム・ヨンウン
+403_cv_en:
+  en: 'CV: Tatiana Varria'
+  ko: 'CV : 타티아나 바리아'
+  ja: CV：Tatiana Varria

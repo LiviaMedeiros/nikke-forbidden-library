@@ -1,0 +1,467 @@
+---
+22_name:
+  en: Signal
+  ko: 시그널
+  ja: シグナル
+c022_description:
+  en: A communicator for the Scouts and also the best in her field. As a massive fan
+    of soap operas, she always harbors fantasies about torrid love affairs.
+  ko: 로맨스 드라마 마니아로 사랑에 대한 환상을 가지고 있는 스카우팅 스쿼드의 유능한 통신병.
+  ja: |-
+    ロマンス系のドラマが大好きで、愛に対する幻想を抱いている。
+    スカウティング部隊の有能な通信兵。
+22_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50022:
+  en: Signal's Spare Body
+  ko: 시그널 스페어 바디
+  ja: シグナルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20222_name:
+  en: Waiting for Signal
+  ko: 웨이팅 포 시그널
+  ja: ウェイティング・フォー・シグナル
+20222_description:
+  en: |-
+    ■ Affects self. Activates when entering Full Burst.
+    <color=#00AEFF>Recover {description_value_01}% of attack damage as HP over {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[공격 대미지 비례 {description_value_01}% 회복] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「攻撃ダメージの{description_value_01}％を回復」「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20221_name:
+  en: Attack Signal
+  ko: 어택 시그널
+  ja: アタックシグナル
+20221_description:
+  en: "■ Activates after landing {description_value_01} normal attack(s). Affects
+    the target(s).\n<color=#00AEFF>DEF ▼ {description_value_02}% for {description_value_03}
+    sec. \nATK ▼ {description_value_04}% for {description_value_05} sec.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 대상에게
+    <color=#00AEFF>[방어력 {description_value_02}% ▼] [{description_value_03}초 유지]
+    [공격력 {description_value_04}% ▼] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回命中した時、対象に
+    <color=#00AEFF>「防御力{description_value_02}％▼」「{description_value_03}秒間維持」
+    「攻撃力{description_value_04}％▼」「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10223_name:
+  en: Emergency Signal
+  ko: 이머전시 시그널
+  ja: エマージェンシー・シグナル
+10223_description_1:
+  en: |-
+    ■ Affects <word_group=10020>enemies within attack range</word_group>.
+    Deals <color=#00AEFF>{description_value_01}% of <word_group=10025>final</word_group> ATK as damage.
+    DEF ▼ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지]
+    [방어력 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」
+    「防御力{description_value_02}％▼」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+20_name:
+  en: Delta
+  ko: 델타
+  ja: デルタ
+c022_Lobby_Touch_1:
+  en: Any chance I could watch another episode? No?
+  ko: 저… 드, 드라마 한 편만 보고 오면 안 되겠죠?
+  ja: あの…ド、ドラマを一話だけ見てきちゃダメですよね？
+c022_Lobby_Touch_2:
+  en: I like plenty of other genres, not just romance.
+  ko: 로맨스 드라마만 좋아하는 건 아니에요.
+  ja: ロマンス系のドラマ以外も好きですよ。
+c022_Lobby_Touch_3:
+  en: I received a signal to move! M-may I move?
+  ko: 이동하라는 시그널이 왔어요! 우… 움직일까요?
+  ja: |-
+    移動しろというシグナルを受け取りました！
+    う…動きましょうか？
+c022_Lobby_Touch_Love_1:
+  en: |-
+    I can't believe the Commander and I share the same interests...
+    Feels like I'm in a dream!
+  ko: |-
+    지휘관이 저랑 같은 마음이라니…
+    아직도 꿈같아요, 헤헤.
+  ja: |-
+    指揮官が私と同じ気持ちだったなんて…
+    夢みたいです、へへ。
+c022_Lobby_Touch_Love_2:
+  en: |-
+    C-Commander... I just learned of a lovely cafe from watching TV,
+    would you like to go there for a coffee with me?
+  ko: |-
+    지, 지휘관…! 드라마에 나온 예쁜 카페가 있는데
+    가, 같이 가주시겠어요?!
+  ja: |-
+    し、指揮官…！ドラマに出てきたお洒落なカフェがあるんですけど
+    い、一緒に行きませんか！？
+c022_Lobby_Touch_Love_3:
+  en: "I can't thank you enough for how much confidence you've given me. \nYou're
+    the best!"
+  ko: |-
+    지휘관 덕분에 자신감이 많이 생긴 것 같아요.
+    정말 좋아해요…!
+  ja: |-
+    指揮官のおかげで自信が湧いてきました。
+    本当に好きです…！
+c022_Lobby_Stay_1:
+  en: "It's not weird if I just stand here, is it? \nShould I be doing something?"
+  ko: |-
+    저, 저는 뭘 하면 될까요…?
+    계속 서있으면 되나요?
+  ja: |-
+    わ、私は何をすればいいでしょうか…？
+    ずっと立ってればいいですか？
+c022_Lobby_Stay_Love_1:
+  en: |-
+    It looks like you're pretty busy. I can wait for you here.
+    After all, you've waited before for me to finish watching a TV show!
+  ko: |-
+    바, 바쁘시군요! 저는 얼마든지 기다릴 수 있어요!
+    지휘관도 제가 드라마 보는 걸 기다려 주시잖아요.
+  ja: |-
+    お、お忙しいみたいですね！
+    私ならいくらでも待っていられます！
+    指揮官だって私がドラマ見終わるまで、待っててくれますもんね。
+c022_Outpost_Touch_1:
+  en: I'm nearly done with this series! I'll sleep in a second!
+  ko: 오늘은 저녁에 드라마 한편만 보고 자야지…!
+  ja: 今日は夜に ドラマ見てから 寝なきゃ…！
+c022_Outpost_Touch_2:
+  en: D-did you call me? How can I help you?
+  ko: 부, 부르셨나요? 무슨 일로….
+  ja: |-
+    お、お呼びでしょうか？
+    どんなご用件で…
+c022_Outpost_Touch_3:
+  en: Why is the signal so bad in the Outpost?
+  ko: 관측소는 왜 방송 전파가 잘 안 잡히는 걸까요…?
+  ja: 観測所はどうして放送電波が 入りにくいんでしょうか…？
+c022_Gacha_Get_1:
+  en: I'm picking up a signal... Could it be fate?
+  ko: 이런 게 바로 운명의 시그널인가요?
+  ja: こういうのがまさに運命のシグナルってやつですか？
+c022_Reinforce_1:
+  en: C-can I really be this strong...?
+  ko: 이, 이렇게 강해져도 되는 걸까요…?
+  ja: こ、こんなに強くなっていいのでしょうか…？
+c022_Reinforce_2:
+  en: I feel safer! Thank you...
+  ko: 더 안전해진 느낌이에요! 감사합니다….
+  ja: |-
+    もっと安定感が増した気がします！
+    ありがとうございます…
+c022_Reinforce_3:
+  en: I-I will work harder!
+  ko: 더, 더 열심히 일하겠습니다…!
+  ja: もっともっと一生懸命頑張ります…！
+c022_Gift_1:
+  en: I-is that a gift...?
+  ko: 서, 선물, 선물이라니…!
+  ja: プ、プレゼント、プレゼントだなんて…！
+c022_Gift_2:
+  en: I like it very much... Th-thank you!
+  ko: 저 이거 좋아하는데… 가, 감사합니다!
+  ja: これ、私が好きなやつ…あ、ありがとうございます！
+c022_Gift_3:
+  en: M-my heart is racing!
+  ko: 이, 이렇게 두근거리면 안 되는데….
+  ja: こ、こんな風にドキドキしちゃだめなのに…
+c022_Attractive_Up_1:
+  en: I-I can't get the commander out of my head... What should I do?
+  ko: 지, 지휘관이 더 좋아져 버렸어요… 어떡하죠?
+  ja: |-
+    し、指揮官のことがもっと好きになっちゃいました…
+    どうしましょう？
+c022_Attractive_Up_2:
+  en: We can really have a picture perfect romance, just like in the movies!
+  ko: 드, 드라마에서 보던 것처럼 고백하면 될까요…?!
+  ja: ド、ドラマみたいに告白すればいいんでしょうか…！？
+c022_Attractive_Up_3:
+  en: Commander! I've sent you a love signal!
+  ko: 지휘관! 사랑의 시그널을 보냈어요…!
+  ja: |-
+    指揮官！
+    愛のシグナルを送りました…！
+c022_Party_Deploy_1:
+  en: M-may I go with you?
+  ko: 제, 제가 함께하면 될까요?
+  ja: わ、私がお供すればよろしいでしょうか？
+c022_Field_Touch_1:
+  en: You called?
+  ko: 흐엑! 부르셨나요?
+  ja: ふぎゃっ！お呼びですか？
+c022_Field_Go_1:
+  en: We will move according to the signal received.
+  ko: 보, 보내주신 시그널대로 움직이겠습니다.
+  ja: お、送ってくださったシグナル通りに動きます。
+c022_Battle_Enter_1:
+  en: E-enemy ahead! Proceed with caution!
+  ko: 저, 적이에요! 조심하세요!
+  ja: て、敵です！気をつけてください！
+c022_Battle_Ready_1:
+  en: C'mon Signal, you can do this!
+  ko: 후우우우… 시그널, 할 수 있다!
+  ja: ふううう…シグナル、できる！
+c022_Battle_Ready_2:
+  en: Battle start!
+  ko: 전투 시작합니다!
+  ja: 戦闘を始めます！
+c022_Battle_Ready_3:
+  en: E-enemy ahead!
+  ko: 전방에 저, 적이에요!
+  ja: 前方に、て、敵です！
+c022_Reload_1:
+  en: Faster...!
+  ko: 빨리이…!
+  ja: 早くぅ…！
+c022_Reload_2:
+  en: Reload... Please...!
+  ko: 리로드… 제발…!
+  ja: リロード…お願い…！
+c022_Reload_3:
+  en: I-I'll reload!
+  ko: 재, 재장전 할게요오-!
+  ja: リ、リロードしまぁぁす！
+c022_Ult_Skill_Ready_1:
+  en: It's the signal!
+  ko: 시그널입니다!
+  ja: シグナルです！
+c022_Ult_Skill_1:
+  en: D-danger! Please! Requesting backup!
+  ko: 위, 위, 위, 위급 상황! 지원 부탁드려요오!
+  ja: |-
+    き、き、緊急事態！
+    支援をお願いしますぅぅ！
+c022_FullBurst_1:
+  en: So shoot... just like this?
+  ko: 이, 이렇게 쏘면 되는 건가요오-?
+  ja: こ、こんな風に撃てばいいんでしょうかぁぁ？
+c022_Kill_Monster_1:
+  en: T-target down!
+  ko: 해, 해치웠어요!
+  ja: や、やっつけちゃいました！
+c022_Kill_Monster_2:
+  en: I made it!
+  ko: 후우우… 해냈다!
+  ja: ふうう…やったよ！
+c022_Kill_Monster_3:
+  en: Did I take down the target...?
+  ko: 처치한 거죠…?
+  ja: 退治できたんですよね…？
+c022_Damage_1:
+  en: Ahh!
+  ko: 꺄아악!
+  ja: きゃあ！
+c022_Damage_2:
+  en: Agh!
+  ko: 으악!
+  ja: うおっ！
+c022_Damage_3:
+  en: Hrrrrnngh!
+  ko: 으읏!
+  ja: ううっ！
+c022_Die_1:
+  en: I-I'm sorry I couldn't be much help...
+  ko: 도, 도움이 못돼 죄송해요….
+  ja: お、お役に立てず申し訳ございません…
+c022_Win_1:
+  en: V-victory!
+  ko: 이, 이겼어요!
+  ja: か、勝ちました！
+22_cv_ja:
+  en: 'CV: Satomi Satō'
+  ko: 'CV : 사토 사토미'
+  ja: CV：佐藤聡美
+22_cv_ko:
+  en: 'CV: Kim Yoo-rim'
+  ko: 'CV : 김유림'
+  ja: CV：キム・ユリム
+22_cv_en:
+  en: 'CV: Brittany Cox'
+  ko: 'CV : 브리타니 콕스'
+  ja: CV：Brittany Cox

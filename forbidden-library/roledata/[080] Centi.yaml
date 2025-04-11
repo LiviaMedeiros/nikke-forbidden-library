@@ -1,0 +1,468 @@
+---
+80_name:
+  en: Centi
+  ko: 센티
+  ja: センチ
+c080_description:
+  en: An artisan with incredible strength who puts her heart into everything she does,
+    never failing to get the job done at Mighty Tools. As Liter's first apprentice,
+    she has great respect for her mentor. She always listens to what Liter says, and
+    studies her techniques in earnest.
+  ko: "굉장한 완력을 가진 장인으로서 무엇이든 성실하게 임한다. \n사실상 마이티 툴즈의 실무 담당.\n리타의 수제자로서, 리타를 존경하고 따르며
+    그녀의 노하우를 열심히 배워나가고 있다."
+  ja: |-
+    とてつもない腕力を持つ職人で、
+    何事にも誠実に取り組んでいる。
+    事実上、マイティツールズの実務担当。
+    リターの弟子であり、彼女を尊敬していて
+    ノウハウを学ぶことに没頭している。
+80_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50080:
+  en: Centi's Spare Body
+  ko: 센티 스페어 바디
+  ja: センチのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+10802_name:
+  en: Field Discussion
+  ko: 현장검토
+  ja: 現場検討
+10802_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group>, equivalent to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP, which protects all allies from damage. Lasts for {description_value_02} sec. </color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 아군 공용 <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の味方共用<word_group=10023>バリア</word_group>」「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20801_name:
+  en: Maintain Fortification
+  ko: 보수공사
+  ja: 補修工事
+20801_description:
+  en: |-
+    ■ Activates when hitting a target with Full Charge. Affects self.
+    <color=#00AEFF><word_group=10031>Cooldown</word_group> of Skill 2 ▼ {description_value_01}%.</color>
+  ko: |-
+    ■ 풀 차지 공격 명중 시 자신에게
+    <color=#00AEFF>[스킬 2 <word_group=10031>재사용 시간</word_group> {description_value_01}% ▼]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、自分に
+    <color=#00AEFF>「スキル2の<word_group=10031>クールタイム</word_group>{description_value_01}％▼」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10803_name:
+  en: Start Construction
+  ko: 착공시작
+  ja: 着工開始
+10803_description:
+  en: "■ Affects {description_value_01} enemy unit(s) with the lowest remaining HP.
+    \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as damage.\nDEF ▼ {description_value_03}% for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 남은 체력 수치가 가장 낮은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]
+    [방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■残りのHPの数値が最も低い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」
+    「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+82_name:
+  en: Liter
+  ko: 리타
+  ja: リター
+c080_Lobby_Touch_1:
+  en: What'll it be? I'll have it done in a jiffy!
+  ko: 말만 하십쇼! 뚝딱뚝뚝 만들어 드리겠슴다!
+  ja: |-
+    何でも言ってください！
+    ちゃちゃちゃっと作ってみせるっす！
+c080_Lobby_Touch_2:
+  en: There's nothing mightier than Raze & Rebuild!
+  ko: 마이티 툴즈는 전지전능의 도구임다!
+  ja: マイティツールズは全知全能の道具っす！
+c080_Lobby_Touch_3:
+  en: If there are any malfunctions or broken parts, let me know!
+  ko: 어디 고장 나거나 부서진 것이 있다면 바로 말씀 주십쇼!
+  ja: 何か故障したり壊れたりしたらすぐに教えてくださいっす！
+c080_Lobby_Touch_Love_1:
+  en: It's a pleasure to work with you!
+  ko: 반장님과 일을 하면 참 즐겁슴다!
+  ja: 親方と一緒に働くの、すっごく楽しいっす！
+c080_Lobby_Touch_Love_2:
+  en: Boss! Are the loans all taken care of?
+  ko: 반장님! 대금 결제는 완료하셨슴까?
+  ja: |-
+    親方！
+    支払いの方は済みましたか？
+c080_Lobby_Touch_Love_3:
+  en: Business is booming, thanks to you!
+  ko: 공방에 의뢰가 넘쳐남다! 다 반장님 덕임다!
+  ja: |-
+    工房にどんどん依頼が入ってくるっす！
+    全部親方のおかげっす！
+c080_Lobby_Stay_1:
+  en: Is the Boss not here? I better get to work then, lots to do.
+  ko: 반장님 안 오심까? 그럼 저도 바빠서 이만 가봐야겠슴다!
+  ja: |-
+    親方、来ないんすか？
+    じゃあ、私は忙しいのでもう行くっす！
+c080_Lobby_Stay_Love_1:
+  en: "Boss! When are you coming? We gotta get to work. \nThere's much to be done
+    with the class manager."
+  ko: |-
+    반장님! 언제 오심까? 얼른 저와 공사하러 가셔야 함다!
+    반장님과 해야 할 공사가 산더미임다!
+  ja: |-
+    親方！早く来てください！
+    工事しに行かないといけないっす！
+    親方に手伝ってもらうことが山積みっす！
+c080_Outpost_Touch_1:
+  en: This outpost needs to be reworked from the ground up... I love it!
+  ko: 전초기지는 좋슴다! 고치고 만들 것투성이임다!
+  ja: |-
+    前哨基地は最高っす！
+    直したり作ったりすることが いっぱいっす！
+c080_Outpost_Touch_2:
+  en: Pretty cool workshop, huh? Built it ourselves!
+  ko: 공방은 멋지지 않슴까? 우리가 만들었슴다!
+  ja: |-
+    カッコいい工房だと 思いませんか？
+    私たちの手作りっす！
+c080_Outpost_Touch_3:
+  en: Is that a broken part over there? I'm on it!
+  ko: 엇. 저기 부서진 데가 있슴다! 있다 바로 고치겠슴다!
+  ja: |-
+    あっ。あそこが少し壊れてます！
+    あとですぐに修理するっす！
+c080_Gacha_Get_1:
+  en: Saw teeth... entire buildings... you name it, I can make it for you, and fast!
+  ko: 톱니에서 건물까지! 뭐든 만들어드리겠슴다!
+  ja: |-
+    ノコギリから建物まで！
+    何だって作ってみせるっす！
+c080_Reinforce_1:
+  en: Getting closer to completion!
+  ko: 완성도가 올라갔슴다!
+  ja: 完成度が上昇したっす！
+c080_Reinforce_2:
+  en: Woo-hoo! My power is increasing!
+  ko: 오오! 출력이 올라가고 있슴다!
+  ja: おお！出力が上がってるっす！
+c080_Reinforce_3:
+  en: I feel like I could build a skyscraper in the blink of an eye!
+  ko: 고층 빌딩도 지을 수 있을 것 같슴다!
+  ja: 高層ビルも建てちゃいそうっす！
+c080_Gift_1:
+  en: Wait, this isn't a mission letter... Is this a gift?
+  ko: 작업 지시서가 아니라… 선물이란 말임까!?
+  ja: 作業指示書ではなくて…プレゼントっすか！？
+c080_Gift_2:
+  en: So you were thinking about me? Thanks!
+  ko: 챙겨 주시는 검까? 고맙슴다!
+  ja: 私へのお心遣いっすか？嬉しいっす！
+c080_Gift_3:
+  en: Just for me? This means so much to me!
+  ko: 나만을 위한 물건… 이건 귀한 것임다!
+  ja: 私にだけくれる品物…これは貴重っす！
+c080_Attractive_Up_1:
+  en: My heart seems to be beating faster lately... Hope it's not a malfunction...
+  ko: |-
+    요즘 심장 박동이 좀 빨라진 것 같슴다!
+    오작동이 아니라면 좋겠슴다!
+  ja: |-
+    最近心臓の鼓動が少し早くなった気がするっす！
+    誤作動でないことを祈るっす！
+c080_Attractive_Up_2:
+  en: I feel just like I do whenever we finish constructing a building.
+  ko: 이 감정은 마치… 완벽한 건축물을 지었을 때와 같은 느낌임다!
+  ja: |-
+    この気持ちはまるで…
+    建物を完璧に完成させた時と似てるっす！
+c080_Attractive_Up_3:
+  en: |-
+    All these strange emotions I've been feeling... they make my heart race.
+    If only you could repair emotions!
+  ko: |-
+    사람의 감정도 고칠 수 있다면 좋을 것 같슴다!
+    지금 알 수 없는 감정이 계속 울렁거리고 있슴다!
+  ja: |-
+    感情ってものも修理したいっす！
+    得体のしれない感情がどんどん込み上げてくるっす！
+c080_Party_Deploy_1:
+  en: Where is the next site?
+  ko: 이번 현장은 어떤 곳임까?
+  ja: 今回の現場はどんな場所っすか？
+c080_Field_Touch_1:
+  en: Just name a troop!
+  ko: 명령만 주십쇼!
+  ja: 命令してくださいっす！
+c080_Field_Go_1:
+  en: I'm going!
+  ko: 갑니다!
+  ja: 行くっす！
+c080_Battle_Enter_1:
+  en: Let's do this!
+  ko: 싸워보겠슴다!
+  ja: 戦ってくるっす！
+c080_Battle_Ready_1:
+  en: Looks there's a lot to repair!
+  ko: 여긴 고칠 게 많아 보임다!
+  ja: ここは修理のし甲斐がありそうっす！
+c080_Battle_Ready_2:
+  en: Destruction is also my specialty!
+  ko: 부수는 것도 자신 있슴다!
+  ja: 壊すのも得意っす！
+c080_Battle_Ready_3:
+  en: Let's roll!
+  ko: 열심히 싸워보겠슴다!
+  ja: 一生懸命戦ってくるっす！
+c080_Reload_1:
+  en: Reloaded!
+  ko: 재장전함다!
+  ja: リロードっす！
+c080_Reload_2:
+  en: Excuse me!
+  ko: 잠시 실례하겠슴다!
+  ja: ちょっと失礼するっす！
+c080_Reload_3:
+  en: Be back in a second!
+  ko: 빠르게 복귀하겠슴다!
+  ja: すぐに復帰するっす！
+c080_Ult_Skill_Ready_1:
+  en: I'm ready!
+  ko: 준비 완료임다!
+  ja: 準備完了っす！
+c080_Ult_Skill_1:
+  en: Raze & Rebuild are all-powerful tools!
+  ko: 우리 마이티 툴즈는! 전지전능의 도구임다!
+  ja: このマイティツールズは！全知全能の道具っす！
+c080_FullBurst_1:
+  en: Now! Fight to the death!!
+  ko: 지금 쏟아붓는 것임다!!
+  ja: 今一気に注ぎ込むっす！！
+c080_Kill_Monster_1:
+  en: Gotcha!
+  ko: 잡았슴다!
+  ja: 捕まえたっす！
+c080_Kill_Monster_2:
+  en: I did it!
+  ko: 해냈슴다!
+  ja: やったっす！
+c080_Kill_Monster_3:
+  en: See?
+  ko: 보셨슴까?
+  ja: 見てくれたっすか？
+c080_Damage_1:
+  en: That hurt!
+  ko: 아픔다!
+  ja: 痛いっす！
+c080_Damage_2:
+  en: Ugh!
+  ko: 우왓!
+  ja: うわっ！
+c080_Damage_3:
+  en: Gah!
+  ko: 으앗!
+  ja: うあっ！
+c080_Die_1:
+  en: Sorry, if you will excuse me.
+  ko: 죄송함다. 잠시만 물러나겠슴다.
+  ja: すみません。ちょっと後ろに下がってるっす。
+c080_Win_1:
+  en: Is it enough for fighting?
+  ko: 전투에서도 쓸만하지 않슴까?
+  ja: 戦闘でも役に立つと思わないっすか？
+80_cv_ja:
+  en: 'CV: Mikako Komatsu'
+  ko: 'CV : 코마츠 미카코'
+  ja: CV：小松未可子
+80_cv_ko:
+  en: 'CV: Kim Eun-ah'
+  ko: 'CV : 김은아'
+  ja: CV：キム・ウナ
+80_cv_en:
+  en: 'CV: Anairis Quiñones'
+  ko: 'CV : 아나이리스 퀴노네스'
+  ja: CV：Anairis Quiñones

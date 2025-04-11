@@ -1,0 +1,654 @@
+---
+230_name:
+  en: Harran
+  ko: 하란
+  ja: ハラン
+c230_description:
+  en: A charming necromancer from Inherit who relishes her role as an apex predator
+    on the surface. She uses a large scythe and mechanical crows to fight.
+  ko: "인헤르트 스쿼드 소속의 니케. \n지상의 포식자로 군림하는 아름다운 마녀이다. \n거대한 낫과 기계 까마귀 떼를 자유자재로 부린다."
+  ja: |-
+    インヘルト部隊所属。
+    地上の捕食者として君臨する美しい魔女。
+    巨大な鎌と機械カラスの群れを自由自在に操る。
+230_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50230:
+  en: Harran's Spare Body
+  ko: 하란 스페어 바디
+  ja: ハランのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+22302_name:
+  en: Predator
+  ko: 포식
+  ja: 捕食
+22302_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Gain Pierce for {description_value_02} round(s).
+    Critical Rate ▲ {description_value_01}% for {description_value_02} round(s).</color>
+    ■ Activates when killing an enemy. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_03}%, stacks up to {description_value_05} time(s) and lasts for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[관통 특화] [{description_value_02}발 유지]
+    [크리티컬 확률 {description_value_01}% ▲] [{description_value_02}발 유지]</color>
+    ■ 적 처치 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_03}% ▲] [{description_value_05} 중첩] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「貫通特化」「{description_value_02}発間維持」
+    「クリティカル確率{description_value_01}％▲」
+    「{description_value_02}発間維持」</color>
+    ■敵を倒した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_03}％▲」「{description_value_05}スタック」
+    「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22301_name:
+  en: Plague Transfer
+  ko: 역병 전이
+  ja: 疫病転移
+22301_description_1:
+  en: |-
+    ■ There is a {description_value_07}% chance of activating when attacking.
+    <color=#00AEFF>Virus Transfer: Constantly deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage every 1 sec for {description_value_02} sec.</color>
+    ■ Activates when <word_group=10076>an enemy afflicted with Virus Transfer is neutralized</word_group>. Affects {description_value_06} nearest enemy unit(s).
+    <color=#00AEFF>Virus Transfer: Constantly deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage every 1 sec for {description_value_02} sec.</color>
+  ko: |-
+    ■ 공격 시 {description_value_07}% 확률로 대상에게
+    <color=#00AEFF>[바이러스 전이 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 지속 대미지] [1초 간격] [{description_value_02}초 유지]</color>
+    ■ <word_group=10076>적 격추 시</word_group> 대상이 바이러스 전이 상태였다면 가장 가까운 적 {description_value_06}기에게
+    <color=#00AEFF>[바이러스 전이 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 지속 대미지] [1초 간격] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■攻撃した時、{description_value_07}％の確率で対象に
+    <color=#00AEFF>「ウイルス転移：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％持続ダメージ」「1秒間隔」「{description_value_02}秒間維持」</color>
+    ■<word_group=10076>敵が撃破された時</word_group>、対象がウイルス転移状態なら最も近い敵{description_value_06}機に
+    <color=#00AEFF>「ウイルス転移：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％持続ダメージ」「1秒間隔」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12303_name:
+  en: Death Scythe
+  ko: 사멸의 날
+  ja: 死滅の刀
+12303_description_1:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+231_name:
+  en: Isabel
+  ko: 이사벨
+  ja: イサベル
+232_name:
+  en: Noah
+  ko: 노아
+  ja: ノア
+233_name:
+  en: Dorothy
+  ko: 도로시
+  ja: ドロシー
+c230_Lobby_Touch_1:
+  en: What are you looking at? Get back to work!
+  ko: 뭘 빤히 보고 있니? 얼른 날 위해 일하러 가렴.
+  ja: |-
+    何をじーっと見てるの？
+    さっさと私のために働きなさい。
+c230_Lobby_Touch_2:
+  en: My crow only obeys my commands. Isn't she a good little birdie?
+  ko: 내 까마귀는 날 위해서만 일한단다. 바람직한 아이지.
+  ja: 私のカラスは私のためだけに働く。よくできた子よ。
+c230_Lobby_Touch_3:
+  en: There is nothing on this planet more important than me. I can do as I please.
+  ko: 난 뭘 해도 괜찮단다. 세상에서 내가 가장 중요한 존재니까.
+  ja: |-
+    私は何をしても許される。
+    この世で一番重要な存在だから。
+c230_Lobby_Touch_Love_1:
+  en: You've brought life to this visage of mine. I'm quite pleased about that.
+  ko: 네 덕분에 내가 더 아름다워졌구나. 아주 만족스러워.
+  ja: お前のおかげで私の美に磨きがかかった。大満足よ。
+c230_Lobby_Touch_Love_2:
+  en: That's the spirit! Keep it up and I'll dote on you even further!
+  ko: 지금처럼만 계속 날 위해 일하렴. 그럼 더 예뻐해 줄 테니.
+  ja: |-
+    これからもこの調子で私のために尽くすのよ。
+    もっとかわいがってあげるから。
+c230_Lobby_Touch_Love_3:
+  en: So you want to bring me to the Surface again?
+  ko: 널 데리고 다시 지상으로 가고 싶구나.
+  ja: お前を連れてまた地上に行きたいわ。
+c230_Lobby_Stay_1:
+  en: Huh. It's so boring. Did you bring me up here just to ignore me?
+  ko: 흠. 지루하구나. 날 이렇게 방치해두려고 부른 건 아니겠지?
+  ja: |-
+    ふん。暇だわ。
+    こんなふうに退屈させるために呼んだんじゃないわよね？
+c230_Lobby_Stay_Love_1:
+  en: Huh. I'm bored stiff. Do you want me to make you some witch soup?
+  ko: 흠. 심심한데 마녀 수프나 만들어 줄까?
+  ja: ふん。やることもないし、魔女のスープでも作ろうかしら。
+c230_Outpost_Touch_1:
+  en: Walking is such an inconvenience. Why don't you carry me instead?
+  ko: 걸어 다니기 귀찮구나. 업어주지 않겠니?
+  ja: 歩くのも面倒。 おぶってくれない？
+c230_Outpost_Touch_2:
+  en: This dump is a little better off now that I've arrived.
+  ko: 보렴, 이 구질구질한 곳도 내가 오니 빛이 나지?
+  ja: 見て、 この陰気くさい場所も 私が来ると輝くでしょう？
+c230_Outpost_Touch_3:
+  en: Wings of Victory? They suit me.
+  ko: 승리의 날개라. 나와 잘 어울리는 거로구나.
+  ja: 勝利の翼？ 私にぴったりね。
+c230_Gacha_Get_1:
+  en: You ought to thank your lucky stars that I'm around.
+  ko: 기쁨에 겨워 찬양하렴. 내가 네 곁에 왔음을.
+  ja: 幸せなら褒め称えなさい。私があなたの横にいることを。
+c230_Reinforce_1:
+  en: Yes, do my bidding, just like that.
+  ko: 좋구나. 계속 이렇게 날 위해 일하는 거란다.
+  ja: その調子よ。これからもずっと私のために働きなさい。
+c230_Reinforce_2:
+  en: Wow, I'm gaining strength!
+  ko: 아아. 또 강해져 버렸구나.
+  ja: ああ。また強くなってしまった。
+c230_Reinforce_3:
+  en: Excellent. This will suffice for now.
+  ko: 좋아, 이 정도면 나쁘지 않구나.
+  ja: そうね、これくらいならまずまずね。
+c230_Gift_1:
+  en: I accept your offering.
+  ko: 음~ 좋은 공물이구나.
+  ja: ふ～ん、結構な貢物ね。
+c230_Gift_2:
+  en: I suppose this gift is satisfactory.
+  ko: 선물은 마음에 드는구나.
+  ja: プレゼントは気に入ったわ。
+c230_Gift_3:
+  en: Great. Please go on.
+  ko: 좋아~ 좋아~ 더 해보렴.
+  ja: いいわよ～もっとお願い。
+c230_Attractive_Up_1:
+  en: Don't forget how kind I've been to you.
+  ko: 기억하렴. 내가 너를 특별히 더 예뻐해 주고 있음을.
+  ja: 忘れないで。私があなたを特別にかわいがってあげてるってことを。
+c230_Attractive_Up_2:
+  en: I'm more and more satisfied with you, Follower.
+  ko: 점점 더 마음에 드는 종자가 되어가는구나.
+  ja: 少しずつ私好みの色に染まっていってるわね。
+c230_Attractive_Up_3:
+  en: I won't soon forget how you placed your faith in me.
+  ko: 네 정성을 봐서, 지금보다 더 아껴주마.
+  ja: お前の頑張りを評価し、もっとかわいがってあげるわ。
+c230_Party_Deploy_1:
+  en: You need me?
+  ko: 날 원하니?
+  ja: 私が欲しい？
+c230_Field_Touch_1:
+  en: Tell me about it.
+  ko: 말해보렴.
+  ja: 言ってごらんなさい。
+c230_Field_Go_1:
+  en: I made a special trip here just for you.
+  ko: 특별히 움직여 주는 거란다.
+  ja: 特別にやってあげるわ。
+c230_Battle_Enter_1:
+  en: Time to hunt.
+  ko: 사냥 시간이다.
+  ja: 狩りの時間よ。
+c230_Battle_Ready_1:
+  en: Time to kill.
+  ko: 죽음을 내릴 시간이로구나.
+  ja: 死を授ける時間だわ。
+c230_Battle_Ready_2:
+  en: Feeble-minded swine, this is the end of the line!
+  ko: 분수도 모르는 것들이 날뛰기는.
+  ja: 身の程知らずが散々暴れてくれたわね。
+c230_Battle_Ready_3:
+  en: My crow thirsts for blood.
+  ko: 까마귀가 우는구나. 제물을 달라고.
+  ja: カラスが鳴いてるわ。捧げ物が欲しいそうよ。
+c230_Reload_1:
+  en: You had it coming.
+  ko: 성가시게 하기는.
+  ja: ああ、世話が焼ける！
+c230_Reload_2:
+  en: Things are finally starting to get interesting.
+  ko: 일이 재미있어지는구나.
+  ja: 面白くなってきたじゃない。
+c230_Reload_3:
+  en: Reload!
+  ko: 리로드.
+  ja: リロード。
+c230_Ult_Skill_Ready_1:
+  en: It's my turn.
+  ko: 내 차례로구나.
+  ja: 私の番ね。
+c230_Ult_Skill_1:
+  en: I hereby sentence you to death.
+  ko: 너희에게 죽음의 인장을 내리니, 후회하고 절망하거라.
+  ja: 死の刻印を授けるわ。悔やみ、絶望しなさい。
+c230_FullBurst_1:
+  en: I will burn you all to the ground!
+  ko: 먼지처럼 사라지거라.
+  ja: 塵とともに消え去るがいい。
+c230_Kill_Monster_1:
+  en: Hmph.
+  ko: 흠.
+  ja: ふむ。
+c230_Kill_Monster_2:
+  en: I grow weary of these childish games.
+  ko: 지루하구나.
+  ja: 退屈だわ。
+c230_Kill_Monster_3:
+  en: Are you dead yet?
+  ko: 죽었니?
+  ja: 死んだの？
+c230_Damage_1:
+  en: Urgh!
+  ko: 칫.
+  ja: チッ。
+c230_Damage_2:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c230_Damage_3:
+  en: Ugh.
+  ko: 큿.
+  ja: くっ。
+c230_Die_1:
+  en: Foul creatures, I'll finish you off after I take a break.
+  ko: 성가신 놈들이로구나. 잠시 쉬고 오겠다.
+  ja: 世話の焼ける連中だこと。ちょっと息抜きしてくるわ。
+c230_Win_1:
+  en: Yet another victory I brought for you. No need to thank me.
+  ko: 내가 가져다준 승리에 마음껏 기뻐하렴.
+  ja: 私が授けた勝利に酔いしれなさい。
+c230_01_Lobby_Touch_1:
+  en: Now that I think of it, I've never shared a drink with you before.
+  ko: 음~ 생각해 보니 너와 잔을 나눈 적이 없는 것 같구나.
+  ja: よく考えたら、お前と杯を交わしたことがないわね。
+c230_01_Lobby_Touch_2:
+  en: Let's raise our glasses.
+  ko: 축배를 들자꾸나.
+  ja: 祝杯をあげましょう。
+c230_01_Lobby_Touch_3:
+  en: Wouldn't you say I'm the most beautiful girl at this party?
+  ko: 이 파티에서도, 내가 제일 아름답구나. 그렇지?
+  ja: このパーティーでも、私が一番美しい。そうでしょう？
+c230_01_Lobby_Touch_Love_1:
+  en: |-
+    Would you like to have a drink?
+    You should know I never say such things, not to anyone.
+  ko: |-
+    한 잔 받겠니?
+    알겠지만 난 아무에게나 이런 말을 하지 않는단다.
+  ja: |-
+    1杯どうかしら？分かってるでしょうけど、
+    私がこんなことを言う相手は限られてるのよ。
+c230_01_Lobby_Touch_Love_2:
+  en: |-
+    Even if this drink could have been spiked, you would still down it without a second thought, right?
+    That's why I like you.
+  ko: |-
+    이 잔에 든 게 독이라고 해도, 넌 아무런 의심 없이 마시겠지.
+    난 그래서 네가 좋은 거란다.
+  ja: |-
+    このグラスに毒が入っていたとしても、
+    お前は何も疑わずに飲むでしょうね。
+    だから私はお前が好きなのよ。
+c230_01_Lobby_Touch_Love_3:
+  en: You and I shall be the highlight of the party.
+  ko: 이 파티의 주인공은 필시 너와 내가 되겠구나.
+  ja: このパーティーの主人公は、私とお前よ。
+c230_01_Lobby_Stay_1:
+  en: You made me wait. You'll have to make it up to me somehow.
+  ko: 나를 기다리게 한 대가는 반드시 치르게 될 거야.
+  ja: 私を待たせた代償は、必ず払ってもらうわ。
+c230_01_Lobby_Stay_Love_1:
+  en: "Don't make me wait too long. \nSummoning me and then leaving me alone is a
+    privilege granted only to you."
+  ko: |-
+    너무 오래 기다리게 하진 말렴.
+    감히 날 불러놓고 혼자 두는 것도 너에게만 특별히 허락된 것이니.
+  ja: |-
+    あまり待たせないで。
+    私を呼びつけておいてほったらかしにするなんて、
+    お前にしか許されないことなのよ。
+c230_01_Outpost_Touch_1:
+  en: This is a rather... simple place.
+  ko: 내가 있기엔 여전히 누추한 곳이구나.
+  ja: 相変わらず、 みすぼらしい場所ね。
+c230_01_Outpost_Touch_2:
+  en: Prepare a few locations that will suit me.
+  ko: 나와 어울릴 만한 장소도 몇 개 만들어 두렴.
+  ja: 私にふさわしい場所も、 いくつか作りなさい。
+c230_01_Outpost_Touch_3:
+  en: Do you not have a carriage for my use?
+  ko: 내가 타고 다닐 마차라도 하나 준비해 두는 게 어떻겠니?
+  ja: 私のために 馬車を 用意しておいてくれない？
+c230_01_Gacha_Get_1:
+  en: I know it's a lot to take in, but you must endure it.
+  ko: 눈부시더라도, 조금만 참으렴.
+  ja: 眩しくても、少し我慢しなさい。
+c230_01_Reinforce_1:
+  en: Seeing you work for me is quite pleasant.
+  ko: 그래, 날 위해 일하는 모습이 보기 좋구나.
+  ja: 私のために働く姿は、見てて気分がいいわね。
+c230_01_Reinforce_2:
+  en: The gap between you and me will widen even further.
+  ko: 너와 나의 격차가 더 벌어지게 되겠구나.
+  ja: お前と私の差が、また広がったわね。
+c230_01_Reinforce_3:
+  en: I've become stronger.
+  ko: 음~ 더 강해졌구나.
+  ja: さらに強くなったわね。
+c230_01_Gift_1:
+  en: You truly do know what I enjoy. I'm most pleased.
+  ko: 만족스럽구나, 역시 넌 내 취향을 잘 알아.
+  ja: 満足よ。やっぱりお前は、私の好みをよく分かってるわ。
+c230_01_Gift_2:
+  en: I'll reward you with more love and care.
+  ko: 흐음~ 보상으로 잔뜩 예뻐해 주도록 하마.
+  ja: ご褒美として、たっぷりかわいがってあげる。
+c230_01_Gift_3:
+  en: I wouldn't mind seeing this kind of charm more often.
+  ko: 어머? 이런 애교는 자주 보여주면 좋겠구나.
+  ja: あら？こういうのは大歓迎よ。
+c230_01_Attractive_Up_1:
+  en: You may stand beside me. Come here.
+  ko: 특별히 내 옆자리에 설 수 있게 해줄 테니, 이리 오렴.
+  ja: 特別に私の隣に立たせてあげる。こっちへ来なさい。
+c230_01_Attractive_Up_2:
+  en: I'm beginning to like you more and more.
+  ko: 흐음~ 점점 더 마음에 드는구나.
+  ja: あら、ますます気に入ったわ。
+c230_01_Attractive_Up_3:
+  en: How about having a party just for two next time?
+  ko: 다음엔 둘만의 파티를 해보는 건 어떻겠느냐?
+  ja: 次は、2人だけのパーティーをしない？
+c230_01_Party_Deploy_1:
+  en: I'll cooperate just this once.
+  ko: 이번만 어울려 주마.
+  ja: 今回だけは、共に行きましょう。
+c230_01_Field_Touch_1:
+  en: Did you call me?
+  ko: 불렀니?
+  ja: 呼んだかしら？
+c230_01_Field_Go_1:
+  en: Don't rush me.
+  ko: 재촉하지 말렴.
+  ja: 急かさないで。
+c230_01_Battle_Enter_1:
+  en: You'll regret this.
+  ko: 후회하게 될 텐데.
+  ja: 後悔するわよ。
+c230_01_Battle_Ready_1:
+  en: Crows, it's mealtime.
+  ko: 까마귀들아, 식사 시간이로구나.
+  ja: カラスたちよ、食事の時間よ。
+c230_01_Battle_Ready_2:
+  en: Such arrogance. Such insignificance.
+  ko: 건방지고, 하찮구나.
+  ja: 生意気で、つまらないわね。
+c230_01_Battle_Ready_3:
+  en: Seems like you have a death wish.
+  ko: 죽고 싶어 안달이 났구나.
+  ja: どうやら、死にたいようね。
+c230_01_Reload_1:
+  en: Wait a minute.
+  ko: 잠시 기다리렴.
+  ja: ちょっと待ちなさい。
+c230_01_Reload_2:
+  en: Reloading.
+  ko: 리로드.
+  ja: リロード。
+c230_01_Reload_3:
+  en: This is taking longer than I expected.
+  ko: 생각보다 오래 걸리는구나.
+  ja: 思ったより長引いてるわね。
+c230_01_Ult_Skill_Ready_1:
+  en: My crow thirsts for blood.
+  ko: 까마귀가 우는구나.
+  ja: カラスが鳴いてるわ。
+c230_01_Ult_Skill_1:
+  en: Let's throw an executioner's ball.
+  ko: 죽음의 파티를 열어보자꾸나.
+  ja: 死のパーティーを開きましょう。
+c230_01_FullBurst_1:
+  en: Struggle all you wish. You will die in agony.
+  ko: 고통에 몸부림치거라.
+  ja: 苦痛にもだえなさい。
+c230_01_Kill_Monster_1:
+  en: How pitiful.
+  ko: 가소롭구나.
+  ja: 笑わせてくれるじゃない。
+c230_01_Kill_Monster_2:
+  en: What's next?
+  ko: 다음은 어디니?
+  ja: 次はどこ？
+c230_01_Kill_Monster_3:
+  en: I would like to wrap this up.
+  ko: 슬슬 끝내면 좋겠구나.
+  ja: そろそろ終わらせたいわ。
+c230_01_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c230_01_Damage_2:
+  en: Ugh.
+  ko: 칫.
+  ja: チッ。
+c230_01_Damage_3:
+  en: "*Cough*"
+  ko: 큭.
+  ja: くっ。
+c230_01_Die_1:
+  en: This is a special outfit, and I don't wish to see it ruined. I will stay out
+    of this for the time being.
+  ko: 특별한 옷이니 망가지게 둘 수는 없지. 잠시 빠져 있으마.
+  ja: 特別な服だから、汚したくないの。ちょっと抜けるわね。
+c230_01_Win_1:
+  en: |-
+    There's no need to get excited.
+    Our victory was a foregone conclusion.
+  ko: |-
+    너무 감격스러워하지 않아도 괜찮단다.
+    당연한 결과이니.
+  ja: |-
+    そんなに感激する必要ないわ。
+    当然の結果よ。
+230_cv_ja:
+  en: 'CV: Sayaka Ohara'
+  ko: 'CV : 오오하라 사야카'
+  ja: CV：大原さやか
+230_cv_ko:
+  en: 'CV: Song Ha-rim'
+  ko: 'CV : 송하림'
+  ja: CV：ソン・ハリム
+230_cv_en:
+  en: 'CV: Natalie Van Sistine'
+  ko: 'CV : 나탈리 반 시스틴'
+  ja: CV：Natalie Van Sistine

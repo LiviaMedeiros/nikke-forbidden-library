@@ -1,0 +1,524 @@
+---
+353_name:
+  en: 'Helm: Aquamarine'
+  ko: '헬름 : 아쿠아마린'
+  ja: ヘルム：アクアマリン
+c353_description:
+  en: |-
+    Helm sets off on an adventure in Blue Water Island.
+    Although she looks strange wearing a uniform over the swimsuit which was given to her,
+    people can't help but be attracted to her getup.
+  ko: |-
+    블루워터 아일랜드 탐색을 위해 나선 헬름.
+    기부받은 수영복 위에 정복을 걸쳐 입은 수상한 모습이지만,
+    어째서인지 박수를 보내고 싶어진다.
+  ja: |-
+    ブルーウォーターアイランドの探索に乗り出したヘルム。
+    寄付された水着の上に制服を羽織るという怪しい格好だが、
+    なぜか拍手を送りたくなってしまう。
+353_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_353:
+  en: 'Helm: Aquamarine''s Spare Body'
+  ko: '헬름 : 아쿠아마린 스페어 바디'
+  ja: ヘルム：アクアマリンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+13532_name:
+  en: Aegis Cannon Suppression Fire
+  ko: 이지스 캐논 견제 사격
+  ja: イージスキャノン牽制射撃
+13532_description:
+  en: |-
+    ■ Affects {description_value_01} enemy unit(s) randomly.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    ■ Affects the same target(s) when they belong to Electric Code.
+    <color=#00AEFF>Damage Taken ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+  ko: |-
+    ■ 무작위 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+    ■ 대상이 전격 코드라면 동일 적 대상에게
+    <color=#00AEFF>[받는 대미지 {description_value_03}% ▲] [{description_value_04} 중첩] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■ランダムに敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    ■対象が電撃コードなら、同じ敵に
+    <color=#00AEFF>「受けるダメージ{description_value_03}％▲」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23531_name:
+  en: Admire Accompaniment
+  ko: 위드 어드마이어
+  ja: ウィズアドマイアー
+23531_description:
+  en: "■ Activates after landing {description_value_01} normal attack(s). Affects
+    the target(s). \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as additional damage.</color>\n■ Activates when entering Full Burst. Affects
+    all allies.\n<color=#00AEFF>Effect changes according to the number of activation
+    time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:\nOnce:
+    <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03}
+    sec.\nTwice: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_04}
+    sec.\nThree times: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_05}
+    sec.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>] :
+    1회 : [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_03}초 ▼]
+    2회 : [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_04}초 ▼]
+    3회 : [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_05}초 ▼]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「開始回数別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」：
+    1回：
+    「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_03}秒▼」
+    2回：
+    「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_04}秒▼」
+    3回：
+    「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_05}秒▼」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13533_name:
+  en: Aegis Cannon Overload
+  ko: 이지스 캐논 오버로드
+  ja: イージスキャノンオーバーロード
+13533_description_1:
+  en: "■ Affects all enemies.\n<color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color> \n■ Affects the same target(s) when they belong
+    to Electric Code.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as additional damage.</color>"
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 대상이 전격 코드라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+    ■対象が電撃コードなら、同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+352_name:
+  en: Helm
+  ko: 헬름
+  ja: ヘルム
+350_name:
+  en: Mast
+  ko: 마스트
+  ja: マスト
+354_name:
+  en: 'Mast: Romantic Maid'
+  ko: '마스트 : 로망틱 메이드'
+  ja: マスト：ロマンチックメイド
+355_name:
+  en: 'Anchor: Innocent Maid'
+  ko: '앵커 : 이노센트 메이드'
+  ja: アンカー：イノセントメイド
+351_name:
+  en: Anchor
+  ko: 앵커
+  ja: アンカー
+c353_Lobby_Touch_1:
+  en: Eeep! So cold!
+  ko: 꺄악…! 차가워!
+  ja: きゃっ…！冷たい！
+c353_Lobby_Touch_2:
+  en: If you keep splashing water around like that, there's no point in me wearing
+    anything...
+  ko: 그렇게 물을 뿌려대면 겉옷을 입은 의미가….
+  ja: そんなに水をかけたら、上着を着た意味が…
+c353_Lobby_Touch_3:
+  en: Subordinate, I'd kindly ask you to quit splashing me with water.
+  ko: 귀관, 물은 그만 뿌려줬으면 좋겠어.
+  ja: 貴官、水をかけるのはやめてくれる？
+c353_Lobby_Touch_Love_1:
+  en: If you keep splashing me like that, you'll be able to see through my... er...
+  ko: 자, 자꾸 그렇게 물을 뿌리면 안이 다 비친다구….
+  ja: そ、そんなに水をかけたら透けて見えちゃう…
+c353_Lobby_Touch_Love_2:
+  en: This is my first time wearing this kind of swimsuit, so I'm a bit self-conscious.
+  ko: "…이, 이런 수영복은 처음이라 조금 부끄럽네."
+  ja: "…こ、こんな水着は初めてだから、少し照れるわ。"
+c353_Lobby_Touch_Love_3:
+  en: "*Gasp* Subordinate, are you doing this on purpose?"
+  ko: 읏…! 귀관, 일부러 이러는거지…!
+  ja: うっ…！わざとやってるの…？
+c353_Lobby_Stay_1:
+  en: If there's nothing to be done, can I go for a swim in the ocean?
+  ko: |-
+    음…귀관, 딱히 시킬 일이 없다면
+    바다에 나가서 수영을 해봐도 될까?
+  ja: あの…特にすることがないなら、海に行って泳いでもいいかしら？
+c353_Lobby_Stay_Love_1:
+  en: |-
+    You can head back if you want.
+    I'm going to stay and look at the ocean.
+  ko: |-
+    천천히 돌아와도 돼.
+    난 여기서 바다를 보고 있을 테니까.
+  ja: |-
+    ゆっくりでいいわ。
+    私はここで、海を見ているから。
+c353_Outpost_Touch_1:
+  en: When do you think we'll be able to come back to the ocean again?
+  ko: 다음엔 언제쯤 바다에 나가게 될까?
+  ja: 次はいつ海に行けるかしら？
+c353_Outpost_Touch_2:
+  en: I don't know when, if ever, I'll be back here, so I'm going to make the most
+    of it.
+  ko: 언제 또 바다에 나갈지 모르니, 훈련을 해야겠어.
+  ja: いつ海に行くか分からないから、 トレーニングを しておかないと。
+c353_Outpost_Touch_3:
+  en: |-
+    Have you seen Anchor or Mast?
+    I feel they've been lax in their duties ever since we got back from the beach.
+  ko: |-
+    혹시 앵커랑 마스트 봤어?
+    바다에 다녀온 이후로 기강이 풀린 것 같아.
+  ja: |-
+    アンカーとマストを 見なかった？
+    海に行ってきてから、 たるんでるのよね。
+c353_Gacha_Get_1:
+  en: How about we take a nice walk on the beach together?
+  ko: 귀관, 이번에야말로 나와 바다 위를 걸어보겠어?
+  ja: 今度こそ私と海の上を歩いてみない？
+c353_Reinforce_1:
+  en: I think it's finally time to show my skills.
+  ko: 드디어 내 진가를 발휘할 때가 온 것 같아.
+  ja: ついに真価を発揮する時がきたのね。
+c353_Reinforce_2:
+  en: I won't disappoint you.
+  ko: 실망시키지 않을게.
+  ja: 期待は裏切らないわ。
+c353_Reinforce_3:
+  en: I get to be a part of a real battle? I've got no problem with that.
+  ko: 당장 실전에 투입돼도 문제없을 것 같아.
+  ja: 今すぐ実戦に投入しても問題ないはずよ。
+c353_Gift_1:
+  en: |-
+    I feel bad. You always give me gifts, but I never reciprocate.
+    Is there anything you want?
+  ko: |-
+    귀관은 갖고 싶은 거 없어?
+    매번 받기만 해서 미안해.
+  ja: |-
+    何か欲しいものない？
+    毎回もらってばかりで悪いわ。
+c353_Gift_2:
+  en: |-
+    You've already given me so much,
+    yet you're still giving me more?
+  ko: |-
+    이미 귀관에게 너무 큰 선물을 받아 버렸는데
+    이런 것까지 챙겨주다니….
+  ja: |-
+    もう貴官からは沢山のプレゼントをもらってるのに
+    こんなものまで用意してくれるなんて…
+c353_Gift_3:
+  en: |-
+    I can use this to help maintain the Admire...
+    Oh, never mind.
+  ko: |-
+    …이건 나중에 어드마이어 호의 유지비로….
+    아, 아무것도 아냐.
+  ja: |-
+    …これはアドマイアー号の維持費として…
+    な、何でもないわ。
+c353_Attractive_Up_1:
+  en: |-
+    To me, you're just like the ocean.
+    Every time I see you, I feel rejuvenated... and I always want to see you.
+  ko: |-
+    귀관은 마치 바다 같아. 넓고, 청량해.
+    …그리고 늘 보고 싶지.
+  ja: |-
+    貴官はまるで海のようね。
+    広くて、爽やかで…
+    …それに、ずっと見ていたくなるの。
+c353_Attractive_Up_2:
+  en: The water is freezing, so why are my cheeks so hot?
+  ko: 바닷물은 차가운데 내 볼은 왜 이렇게 뜨거운 건지….
+  ja: 海水は冷たいのに、どうして私の頬はこんなに熱いのかしら…
+c353_Attractive_Up_3:
+  en: |-
+    Today has been a dream come true.
+    I will never forget it as long as I live.
+  ko: |-
+    오늘을 평생 잊지 못할 거야.
+    내가 사랑하는 모든 것들을 눈에 담은 날이거든
+  ja: |-
+    今日のことは一生忘れないわ。
+    私が愛するものを目に焼き付けた日だから。
+c353_Party_Deploy_1:
+  en: I'll do whatever I can to help.
+  ko: 내가 할 수 있는 거라면, 뭐든.
+  ja: 私にできることなら、何でも。
+c353_Field_Touch_1:
+  en: Awaiting your orders, Subordinate.
+  ko: 귀관, 명령을.
+  ja: 命令を。
+c353_Field_Go_1:
+  en: Coordinates have been confirmed.
+  ko: 위치 확인했어.
+  ja: 位置を確認したわ。
+c353_Battle_Enter_1:
+  en: Rapture discovered, ready for battle.
+  ko: 랩쳐 발견, 교전 개시.
+  ja: ラプチャー発見、交戦開始。
+c353_Battle_Ready_1:
+  en: Aegis Squad, preparations complete.
+  ko: 이지스 스쿼드, 준비 완료.
+  ja: イージス部隊、準備完了。
+c353_Battle_Ready_2:
+  en: Let's give it our all.
+  ko: 이 전투에 모든걸 쏟아붓는 거야.
+  ja: この戦闘にすべてを注ぎ込むわ。
+c353_Battle_Ready_3:
+  en: Anchor, Mast, let's go!
+  ko: 앵커, 마스트. 가자…!
+  ja: アンカー、マスト。行くわよ…！
+c353_Reload_1:
+  en: Faster...!
+  ko: 더 빠르게…!
+  ja: もっと速く…！
+c353_Reload_2:
+  en: Reloading, all good.
+  ko: 장전 중, 이상 없음!
+  ja: 装填中、異常なし！
+c353_Reload_3:
+  en: Cover me.
+  ko: 커버 부탁해.
+  ja: フォローをお願い。
+c353_Ult_Skill_Ready_1:
+  en: Admire, setting coordinates.
+  ko: 어드마이어, 좌표 설정 완료.
+  ja: アドマイアー号、座標設定完了。
+c353_Ult_Skill_1:
+  en: Aegis cannon! Full steam ahead! Open fire!
+  ko: 이지스 캐논! 전심전력! 포격 개시!
+  ja: |-
+    イージスキャノン！
+    全身全力！砲撃開始！
+c353_FullBurst_1:
+  en: Front ports open! Fire away!
+  ko: 전 포문 개방! 풀 버스트 진입!
+  ja: 全砲門開放！フルバースト突入！
+c353_Kill_Monster_1:
+  en: Clear!
+  ko: 클리어!
+  ja: クリア！
+c353_Kill_Monster_2:
+  en: One down.
+  ko: 1기 격추!
+  ja: 1機撃墜！
+c353_Kill_Monster_3:
+  en: Still more to go!
+  ko: 아직 멀었어!
+  ja: まだまだよ！
+c353_Damage_1:
+  en: Errr...
+  ko: 윽…!
+  ja: うっ…！
+c353_Damage_2:
+  en: It's okay...
+  ko: 괜찮아….
+  ja: 大丈夫…
+c353_Damage_3:
+  en: Keuk...!
+  ko: 크읏…!
+  ja: くっ…！
+c353_Die_1:
+  en: I didn't train enough... I'm sorry.
+  ko: 훈련 부족이야… 미안해.
+  ja: |-
+    トレーニング不足だわ…
+    ごめんなさい。
+c353_Win_1:
+  en: This is where I belong.
+  ko: 여기가 바로 내가 있을 곳이야.
+  ja: ここが、私のいるべき場所よ。
+353_cv_ja:
+  en: 'CV: Marina Inoue'
+  ko: 'CV : 이노우에 마리나'
+  ja: CV：井上麻里奈
+353_cv_ko:
+  en: 'CV: Sa Moon-young'
+  ko: 'CV : 사문영'
+  ja: CV：サ・ムニョン
+353_cv_en:
+  en: 'CV: Elizabeth Simmons'
+  ko: 'CV : 엘리자베스 시몬스'
+  ja: CV：Elizabeth Simmons

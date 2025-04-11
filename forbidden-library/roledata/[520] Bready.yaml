@@ -1,0 +1,530 @@
+---
+520_name:
+  en: Bready
+  ko: 브래디
+  ja: ブレッディ
+c520_description:
+  en: |-
+    The Nikke in charge of taste testing in Cooking Oil Squad.
+    When she eats food, she can discern its nutritional value, ingredients, and even subtle flavors.
+    She's also capable of gathering information about an item's components and fragments of memories tied to it just by tasting it.
+    However, she keeps this ability hidden as it could be exploited if discovered by the public.
+  ko: |-
+    쿠킹오일 스쿼드의 시식 담당 니케.
+    음식을 먹으면 그것의 영양소, 재료, 사소한 맛까지 모두 알 수 있다.
+    사물의 맛을 보면 구성 요소부터 단편적인 기억까지 정보를 얻을 수 있으나,
+    이 부분은 외부에 알려지면 악용될 소지가 커 최대한 숨기고 있다.
+  ja: |-
+    クッキングオイル部隊の試食担当ニケ。
+    食べたものの栄養素・食材・些細な味の違いまで
+    すべて感知できる。
+    物を舐めるとその成分や断片的な記憶まで分かるが、
+    この能力が外部に知られると悪用される可能性が高いため
+    極力隠している。
+520_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_520:
+  en: Bready's Spare Body
+  ko: 브래디 스페어 바디
+  ja: ブレッディのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+25202_name:
+  en: Favorite Candy
+  ko: 페이버릿 캔디
+  ja: フェイバリット・キャンディー
+25202_description:
+  en: |-
+    ■ Activates after landing {description_value_08} Full Charge attack(s) while in Lingering Taste status. Affects the target.
+    <color=#00AEFF>Damage Taken ▲ {description_value_01}% for {description_value_02} sec.
+    Aftertaste: Deals  {description_value_03}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_04} sec.</color>
+    ■ Activates when hitting a target with Full Charge while in Recommended Taste status. Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_05}% for {description_value_06} sec.</color>
+    ■ Activates when hitting a target with Full Charge while in Recommended Taste status. Affects all enemies.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
+  ko: |-
+    ■ 풀 차지 공격 {description_value_08}회 명중 시 자신이 머물고 싶은 맛 상태라면 대상에게
+    <color=#00AEFF>[받는 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [맛의 여운 : <word_group=10025>최종</word_group> 공격력 {description_value_03}% 지속 대미지] [1초 간격] [{description_value_04}초 유지]</color>
+    ■ 풀 차지 공격 명중 시 자신이 나누고 싶은 맛 상태라면 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    ■ 풀 차지 공격 명중 시 자신이 나누고 싶은 맛 상태라면 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% <word_group=10019>분배 대미지</word_group>]</color>
+  ja: |-
+    ■フルチャージ攻撃が{description_value_08}回命中した時、自分がやみつきの味状態なら、対象に
+    <color=#00AEFF>「受けるダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「あと味：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の
+    持続ダメージ」「1秒間隔」「{description_value_04}秒間維持」</color>
+    ■フルチャージ攻撃が命中した時、
+    自分がオススメの味状態なら、自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    ■フルチャージ攻撃が命中した時、
+    自分がオススメの味状態なら、敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25201_name:
+  en: Lonely Gourmet
+  ko: 론리 구르메
+  ja: ロンリーグルメ
+25201_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when gaining the buff that increases sustained damage. Affects self.
+    <color=#00AEFF>Lingering Taste: Charge Speed ▼ {description_value_03}% for {description_value_04} sec. This effect cannot be dispelled.
+    Removes Recommended Taste.</color>
+    ■ Activates when gaining the buff that increases distributed damage while not in a sustained damage-increasing status. Affects self.
+    <color=#00AEFF>Recommended Taste: Charge Speed ▼ {description_value_05}% for {description_value_06} sec. This effect cannot be dispelled.
+    Removes Lingering Taste.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 지속 대미지 증가 효과 적용 시 자신에게
+    <color=#00AEFF>[머물고 싶은 맛 : 차지 속도 {description_value_03}% ▼] [{description_value_04}초 유지] [해제 불가]
+    [나누고 싶은 맛 삭제]</color>
+    ■ 분배 대미지 증가 효과 적용 시 지속 대미지 증가 상태가 아니라면 자신에게
+    <color=#00AEFF>[나누고 싶은 맛 : 차지 속도 {description_value_05}% ▼] [{description_value_06}초 유지] [해제 불가]
+    [머물고 싶은 맛 삭제]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■持続ダメージ増加効果が適用された時、
+    自分に
+    <color=#00AEFF>「やみつきの味：チャージ速度{description_value_03}％▼」「{description_value_04}秒間維持」「解除不可」
+    「オススメの味解除」</color>
+    ■分配ダメージ増加効果が適用された時、
+    持続ダメージ増加状態でなければ自分に
+    <color=#00AEFF>「オススメの味：チャージ速度{description_value_05}％▼」「{description_value_06}秒間維持」「解除不可」
+    「やみつきの味解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15203_name:
+  en: New Flavor
+  ko: 뉴 플레이버
+  ja: ニューフレーバー
+15203_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when in Lingering Taste status. Affects self.
+    <color=#00AEFF>Aftertaste Effect ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when in Recommended Taste status. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 자신이 머물고 싶은 맛 상태라면 자신에게
+    <color=#00AEFF>[맛의 여운 효과 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 자신이 나누고 싶은 맛 상태라면 자신에게
+    <color=#00AEFF>[공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■自分がやみつきの味状態なら自分に
+    <color=#00AEFF>「あと味効果{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■自分がオススメの味状態なら自分に
+    <color=#00AEFF>「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+521_name:
+  en: Crust
+  ko: 크러스트
+  ja: クラスト
+c520_Lobby_Touch_1:
+  en: |-
+    Let me know if you're hungry.
+    I'll invite you to our kitchen.
+  ko: |-
+    배고프면 말해.
+    우리 주방에 초대해 줄 테니까.
+  ja: |-
+    お腹が空いたら言って。
+    キッチンに招待するわ。
+c520_Lobby_Touch_2:
+  en: Did you bring the food? Can I have some?
+  ko: 음식, 가져온 거야? 내가 먹으면 돼?
+  ja: |-
+    食べる物、持ってる？
+    もらってもいいかしら？
+c520_Lobby_Touch_3:
+  en: "*Nibble nibble* Mmm, delicious."
+  ko: |-
+    할짝- 할짝-
+    음~ 맛있다.
+  ja: |-
+    ペロッ、ペロッ…
+    う～ん、おいしい。
+c520_Lobby_Touch_Love_1:
+  en: |-
+    Bonne Bouche, you look as scrumptious as ever.
+    May I have a bite later?
+  ko: |-
+    미미, 오늘도 맛있어 보여.
+    이따가 한 입만 먹어봐도 돼?
+  ja: |-
+    美味、今日もおいしそうね。
+    あとで一口味見してもいい？
+c520_Lobby_Touch_Love_2:
+  en: |-
+    *Nibble nibble* What is it? Are you ticklish?
+    I still want to taste you some more, so please bear with me for a moment.
+  ko: |-
+    할짝- 할짝- 왜? 손가락은 간지러워?
+    미미의 맛, 잔뜩 맛보고 싶으니까 조금만 참아줘.
+  ja: |-
+    ペロッ、ペロッ…えっ？指はくすぐったい？
+    美味をとことん味わいたいから、少し我慢してて。
+c520_Lobby_Touch_Love_3:
+  en: |-
+    I know it's unfair that I’m always the one munching on you...
+    Would you like to try it too?
+  ko: |-
+    매번 나만 핥는 건 불공평하니까…
+    미미도 나를 핥아볼래?
+  ja: |-
+    いつも私ばかりなめていたら不公平よね…
+    私のこと、なめてみる？
+c520_Lobby_Stay_1:
+  en: When are you getting back? I'm hungry.
+  ko: "…배고파. 언제 와?"
+  ja: "…お腹が空いたわ。いつ戻って来るの？"
+c520_Lobby_Stay_Love_1:
+  en: I have to admit, waiting for you does make me appreciate the feeling of hunger
+    a little more.
+  ko: |-
+    미미를 기다린다고 생각하니까,
+    배고픔도 조금은 즐길 수 있게 된 것 같아.
+  ja: 美味を待ってる間なら、空腹も少しは楽しめそう。
+c520_Outpost_Touch_1:
+  en: No one can come to our kitchen unless they are invited.
+  ko: 우리 주방은 초대받은 사람들만 올 수 있어.
+  ja: 私たちのキッチンは、 招待された人しか入れないの。
+c520_Outpost_Touch_2:
+  en: Do you have any tasty treats?
+  ko: 맛있는 거라도 갖고 있어?
+  ja: おいしいものでも持ってるの？
+c520_Outpost_Touch_3:
+  en: |-
+    I'm gonna get something to eat.
+    Personally, I recommend the Maid Cafe.
+  ko: |-
+    밥 먹으러 가고 있어.
+    내가 추천하는 가게는 메이드 카페야.
+  ja: |-
+    ご飯を食べに行くの。
+    おすすめはメイドカフェよ。
+c520_Gacha_Get_1:
+  en: I'm hungry. Have you got anything to eat, perchance?
+  ko: 배고프네, 혹시 먹을 거 좀 갖고 있어?
+  ja: お腹空いたわ。何か食べる物持ってない？
+c520_Reinforce_1:
+  en: I think my tongue has become more sensitive.
+  ko: 혀가 좀 더 예민해진 것 같아.
+  ja: 舌がもっと鋭くなった気がするわ。
+c520_Reinforce_2:
+  en: What a thrilling flavor! This is fun.
+  ko: 짜릿한 맛이야, 재미있어.
+  ja: ピリッとくる味ね。面白いわ。
+c520_Reinforce_3:
+  en: Interesting... I actually feel slightly full.
+  ko: 배가 좀 찬 것 같아. 신기하네.
+  ja: 少しお腹が満たされた気がする。不思議ね。
+c520_Gift_1:
+  en: I'm curious what this will taste like.
+  ko: 어떤 맛이 날까, 궁금하네.
+  ja: どんな味がするか、気になるわ。
+c520_Gift_2:
+  en: Thanks. I'll eat it when I get hungry.
+  ko: 고마워, 배고플 때 꺼내 먹을게.
+  ja: ありがとう。お腹が空いた時に食べるわね。
+c520_Gift_3:
+  en: Anyone who gives me something to eat, like you, must be a good person.
+  ko: |-
+    먹을 거 주는 사람, 좋은 사람.
+    미미, 좋은 사람.
+  ja: |-
+    食べ物をくれる人は、いい人よ。
+    だから、美味もいい人ね。
+c520_Attractive_Up_1:
+  en: Bonne Bouche, you're getting tastier with every passing day.
+  ko: 미미, 날이 갈수록 더 맛있어지네.
+  ja: 美味はどんどん味が深くなるわね。
+c520_Attractive_Up_2:
+  en: I want you to feed me the next item on the menu, Bonne Bouche.
+  ko: 다음 메뉴는 미미가 직접 먹여줘. 아아~
+  ja: 次は美味が食べさせてくれる？あ～ん。
+c520_Attractive_Up_3:
+  en: Just looking at you is enough to make me feel full.
+  ko: 보기만 해도 배부르다는 기분이 이런 거구나.
+  ja: 見てるだけでお腹いっぱいって、こういう気分なのね。
+c520_Party_Deploy_1:
+  en: What's on the menu?
+  ko: 뭐 먹으러 가?
+  ja: 何を食べに行く？
+c520_Field_Touch_1:
+  en: Did you call?
+  ko: 응, 불렀어?
+  ja: うん。呼んだ？
+c520_Field_Go_1:
+  en: I found something that looks delicious.
+  ko: 맛있어 보이는 걸 찾았어.
+  ja: おいしそうなものを見つけたわ。
+c520_Battle_Enter_1:
+  en: The menu here is lacking.
+  ko: 여기는 메뉴가 부실한데.
+  ja: ここのメニューはイマイチね。
+c520_Battle_Ready_1:
+  en: This all looks rather unappetizing.
+  ko: 맛없어 보이는 것들 투성이야.
+  ja: マズそうなものばっかり。
+c520_Battle_Ready_2:
+  en: This barely even counts as a snack.
+  ko: 입가심도 안 되겠어.
+  ja: 口直しにもならないわ。
+c520_Battle_Ready_3:
+  en: Let's finish up quickly and go eat something nice.
+  ko: 빨리 정리하고 맛있는 거 먹으러 가자.
+  ja: 早く片づけて、おいしいものを食べに行きましょ。
+c520_Reload_1:
+  en: Just a moment, let me digest.
+  ko: 잠시만, 소화 좀 시킬게.
+  ja: 待って、消化の時間。
+c520_Reload_2:
+  en: I'm really craving something tasty.
+  ko: "…맛있는 거 먹고 싶다."
+  ja: "…おいしいものが食べたいわ。"
+c520_Reload_3:
+  en: Refilling.
+  ko: 리필 중.
+  ja: おかわり中。
+c520_Ult_Skill_Ready_1:
+  en: I'm famished!
+  ko: 아, 배고파…!
+  ja: あぁ、お腹空いた…！
+c520_Ult_Skill_1:
+  en: I'll eat every last morsel!
+  ko: 잔뜩 핥아줄게.
+  ja: たっぷり味わってあげる。
+c520_FullBurst_1:
+  en: Let's eat together!
+  ko: 다 같이 먹자.
+  ja: 一緒に食べましょ。
+c520_Kill_Monster_1:
+  en: One more plate.
+  ko: 한 접시 더.
+  ja: もう一皿。
+c520_Kill_Monster_2:
+  en: Tasting finished.
+  ko: 시식 끝.
+  ja: 試食はおしまい。
+c520_Kill_Monster_3:
+  en: Main dish finished.
+  ko: 메인 디시, 클리어.
+  ja: メインディッシュ、クリア。
+c520_Damage_1:
+  en: Ouch.
+  ko: 아야.
+  ja: うう…
+c520_Damage_2:
+  en: Ugh...!
+  ko: 으읏…!
+  ja: うっ…！
+c520_Damage_3:
+  en: That hurts!
+  ko: 아파….
+  ja: 痛い…
+c520_Die_1:
+  en: Urgh... Can't gather strength... too hungry...
+  ko: 으… 배고파서 힘이 안 들어가….
+  ja: うぅ…お腹が空いて力が出ないわ…
+c520_Win_1:
+  en: That was a filling meal. What's next on the menu?
+  ko: 잘 먹었어. 다음 메뉴는 뭐야?
+  ja: ごちそうさま。次のメニューは何？
+520_cv_ja:
+  en: 'CV: Naomi Ōzora'
+  ko: 'CV : 오오조라 나오미'
+  ja: CV：大空直美
+520_cv_ko:
+  en: 'CV: Lee Joo-eun'
+  ko: 'CV : 이주은'
+  ja: CV：イ・ジュウン
+520_cv_en:
+  en: 'CV: Brittney Karbowski'
+  ko: 'CV : 브리트니 카바우스키'
+  ja: CV：Brittney Karbowski

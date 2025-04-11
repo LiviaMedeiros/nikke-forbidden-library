@@ -1,0 +1,460 @@
+---
+32_name:
+  en: Miranda
+  ko: 미란다
+  ja: ミランダ
+c032_description:
+  en: A Nikke from the A.C.P.U. who has no lack of passion but sometimes falls short
+    in her work performance. Despite her supposed secret of being an A.C.P.U. Inspector,
+    everyone is all too aware of it.
+  ko: "모자라지만 열정 넘치는 A.C.P.U. 스쿼드 소속 니케. \n경찰을 감찰 중인 비밀 감사관이란 사실은 공공연한 비밀이다."
+  ja: |-
+    未熟だがやる気にあふれるA.C.P.U.部隊所属のニケ。
+    警察を監察中の秘密監視官という事実は、公然の秘密だ。
+32_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50032:
+  en: Miranda's Spare Body
+  ko: 미란다 스페어 바디
+  ja: ミランダのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20322_name:
+  en: Wake Up!
+  ko: 웨이크업!
+  ja: ウェイクアップ！
+20322_description:
+  en: "■ Activates at the beginning of Full Burst. Affects all allies. <color=#00AEFF>Critical
+    Damage ▲ {description_value_01}% for {description_value_02} sec.</color>"
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「クリティカルダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20321_name:
+  en: Health Up!
+  ko: 헬스업!
+  ja: ヘルスアップ！
+20321_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects all allies.
+    <color=#00AEFF>Hit Rate ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates after landing {description_value_04} normal attack(s). Affects all allies with a Submachine Gun.
+    <color=#00AEFF>Hit Rate ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 아군 전체에게
+    <color=#00AEFF>[명중률 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 일반 공격 {description_value_04}회 명중 시 기관단총 아군 전체에게
+    <color=#00AEFF>[명중률 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、味方全体に
+    <color=#00AEFF>「命中率{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■通常攻撃が{description_value_04}回命中した時、サブマシンガンを所持する味方全体に
+    <color=#00AEFF>「命中率{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10323_name:
+  en: Powering Up!
+  ko: 파워 업!
+  ja: パワーアップ！
+10323_description:
+  en: "■ Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
+    ATK (except caster; including the caster if there are not enough allies). \n<color=#00AEFF>ATK
+    ▲ {description_value_02}% for {description_value_03} sec. \nCritical Damage ▲
+    {description_value_04}% for {description_value_05} sec.</color>"
+  ko: |-
+    ■ 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게 (대상 부족 시 자신 포함)
+    <color=#00AEFF>[공격력 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [크리티컬 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に（対象が足りない場合、自分も対象となる）
+    <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」
+    「クリティカルダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+30_name:
+  en: Poli
+  ko: 폴리
+  ja: ポリ
+33_name:
+  en: Quiry
+  ko: 키리
+  ja: キリ
+c032_Lobby_Touch_1:
+  en: A.C.P.U. will always be here to protect the citizens of the Ark.
+  ko: A.C.P.U.는 언제나 방주 시민과 함께합니다!
+  ja: A.C.P.U.はいつもアークの市民の味方です！
+c032_Lobby_Touch_2:
+  en: You called? What do you need?
+  ko: 부르셨습니까? 어떤 걸 하면 되겠습니까?
+  ja: |-
+    お呼びでしょうか？
+    何をすればよろしいでしょうか？
+c032_Lobby_Touch_3:
+  en: You call me over here for nothing? Can you please not do that?
+  ko: 빈둥거리란 말씀이십니까! 엇… 그래도 됩니까?
+  ja: |-
+    ぶらぶら歩けということでしょうか！えっ…
+    それでもいいのですか？
+c032_Lobby_Touch_Love_1:
+  en: I will continue to protect you, Commander!
+  ko: 앞으로도 지휘관을 지켜드리겠습니다!
+  ja: これからも指揮官をお守りいたします！
+c032_Lobby_Touch_Love_2:
+  en: May I hug you?!
+  ko: 혹시 끌어안아도 되겠습니까?!
+  ja: 抱き寄せてもよろしいでしょうか！？
+c032_Lobby_Touch_Love_3:
+  en: You and Poli are the most important people in my life!
+  ko: 지휘관과 폴리는 저에게 있어 제일 소중한 사람들입니다!
+  ja: 指揮官とポリは私の大事な人たちです！
+c032_Lobby_Stay_1:
+  en: Excuse me... is the Commander here?
+  ko: 저… 지휘관 계십니까?
+  ja: し…指揮官、いらっしゃいますか？
+c032_Lobby_Stay_Love_1:
+  en: |-
+    Where have you been, Commander?
+    I waited for your return!
+  ko: |-
+    지휘관 어디 가셨습니까?
+    일단 오실 때까지 기다리겠습니다!
+  ja: |-
+    指揮官、どこに行ったんですか？
+    お戻りになるまで待機してます！
+c032_Outpost_Touch_1:
+  en: We do have iron grate windows. Not sure how sturdy they are though.
+  ko: 경찰서엔 철창도 있습니다! 조금 부실하지만 있긴 합니다!
+  ja: |-
+    警察署には牢屋もあります！
+    ちょっとお粗末ではありますが！
+c032_Outpost_Touch_2:
+  en: Nice weather. I'm feeling strong!
+  ko: 오늘은 날씨도 좋습니다! 힘이 납니다!
+  ja: |-
+    今日はいい天気であります！
+    力が沸いてきます！
+c032_Outpost_Touch_3:
+  en: Complaints keep piling into the police station. I just don't get it.
+  ko: 다들 자꾸 경찰서에 민원을 넣으십니다. 엄청 곤란합니다.
+  ja: |-
+    警察署にみなさんからの 問い合わせが殺到しており、
+    とても困っております。
+c032_Gacha_Get_1:
+  en: I'll make more effort! Wow! I'm full of power!
+  ko: 열심히는 합니다! 뭐든 시키셔도 됩니다!
+  ja: 一生懸命にやります！何でもご用命ください！
+c032_Reinforce_1:
+  en: Thank you for your support!
+  ko: 지원입니까? 감사합니다!
+  ja: 支援でしょうか？ありがとうございます！
+c032_Reinforce_2:
+  en: I'm growing stronger! I really am!
+  ko: 강해졌습니다! 진짜입니다!
+  ja: 強くなりました！本当です！
+c032_Reinforce_3:
+  en: I feel like I'm on top of the world!
+  ko: 뭐든 할 수 있을 것 같습니다!
+  ja: 何でもできる気がします！
+c032_Gift_1:
+  en: Thank you for your gift!
+  ko: 선물 감사합니다!
+  ja: 贈り物、ありがとうございます！
+c032_Gift_2:
+  en: Err... Is someone in my position even allowed to accept this?
+  ko: 저… 공무원이 이런 거 받아도 되는 겁니까?
+  ja: あの…公務員がこんなもの受け取ってもいいのでしょうか？
+c032_Gift_3:
+  en: You are the best, Commander. I'm so happy.
+  ko: 지휘관 최고입니다! 기쁩니다!
+  ja: 指揮官は最高です！嬉しいです！
+c032_Attractive_Up_1:
+  en: I'll do everything I can to make your life easier, Commander.
+  ko: 앞으로도 지휘관께 열심히 잘하겠습니다! 정말입니다!
+  ja: これからも指揮官に一生懸命奉仕いたします！本当です！
+c032_Attractive_Up_2:
+  en: Staying with you always gives me this feeling... I don't know how to describe
+    it!
+  ko: 지휘관과 함께 하면 뭔가 알 수 없는 감정이 솟아납니다!
+  ja: 指揮官と一緒にいると、よく分からない感情が込み上げてきます！
+c032_Attractive_Up_3:
+  en: You have complete trust in me, don't you? And you're willing to rely on me?
+    I'm so glad to hear that!
+  ko: 지휘관도 저를 온전히 믿고 의지하는 겁니까? 기쁩니다!
+  ja: |-
+    指揮官も私を心から頼ってくださるのですか？
+    嬉しいです！
+c032_Party_Deploy_1:
+  en: Go Miranda go!
+  ko: 미란다, 출동합니다!
+  ja: ミランダ、出動です！
+c032_Field_Touch_1:
+  en: Where do you need me?
+  ko: 어디로 가면 되겠습니까?
+  ja: どこに行けばいいでしょうか？
+c032_Field_Go_1:
+  en: To the target!
+  ko: 목표를 향해 앞으로!
+  ja: 目標に向かって前進！
+c032_Battle_Enter_1:
+  en: Enemies, straight ahead!
+  ko: 으와앗! 적입니다!
+  ja: うわあっ！敵です！
+c032_Battle_Ready_1:
+  en: I will protect you, Commander!
+  ko: 반드시 지켜드리겠습니다!
+  ja: 必ずお守りしてみせます！
+c032_Battle_Ready_2:
+  en: I will try my best!
+  ko: 열심히 싸우겠습니다!
+  ja: 一生懸命戦います！
+c032_Battle_Ready_3:
+  en: Enemy sighted!
+  ko: 적들이 옵니다!
+  ja: 敵が向かってきます！
+c032_Reload_1:
+  en: Reloading! I repeat, reloading!
+  ko: 재장전! 빠르게! 재장전!
+  ja: リロード！迅速に！リロード！
+c032_Reload_2:
+  en: Find cover!
+  ko: 일단 숨어 봅니다!
+  ja: ひとまず潜伏します！
+c032_Reload_3:
+  en: I'm going to reload.
+  ko: 리로드 합니다!
+  ja: リロードします！
+c032_Ult_Skill_Ready_1:
+  en: All right! I'm feeling it now!
+  ko: 저! 신호가 왔습니다!
+  ja: あ！信号です！
+c032_Ult_Skill_1:
+  en: Harder! Harder, I said! Yes, the power!
+  ko: 열심히! 더 열심히이-! 힘이 솟는다아-!
+  ja: |-
+    全力で！もっと全力でー！
+    力が湧いてくるー！
+c032_FullBurst_1:
+  en: Push it to the limit!
+  ko: 열심히 쏘는 겁니다아-!
+  ja: 全力で撃つのですー！
+c032_Kill_Monster_1:
+  en: I did it!
+  ko: 잡았습니다!
+  ja: 捕らえました！
+c032_Kill_Monster_2:
+  en: I win!
+  ko: 이겨냈다!
+  ja: 勝った！
+c032_Kill_Monster_3:
+  en: Who's next?
+  ko: 다음은 누굽니까!
+  ja: 次は誰ですか！
+c032_Damage_1:
+  en: Gah!
+  ko: 으앗!
+  ja: うあっ！
+c032_Damage_2:
+  en: Ugh!
+  ko: 헙!
+  ja: ほっ！
+c032_Damage_3:
+  en: Ouch!
+  ko: 악!
+  ja: きゃっ！
+c032_Die_1:
+  en: Guess I didn't work hard enough...
+  ko: 열심히가 안 통하는 것 같습니다….
+  ja: 一生懸命やっても無駄みたいです…
+c032_Win_1:
+  en: We won! We actually won!
+  ko: 우리가 이겼습니다! 열심히 이겨냈습니다!
+  ja: |-
+    我々の勝利です！
+    一生懸命やった甲斐がありました！
+32_cv_ja:
+  en: 'CV: Yui Horie'
+  ko: 'CV : 호리에 유이'
+  ja: CV：堀江由衣
+32_cv_ko:
+  en: 'CV: Min-ah'
+  ko: 'CV : 민아'
+  ja: CV：ミナ
+32_cv_en:
+  en: 'CV: Jackie Lastra'
+  ko: 'CV : 재키 라스트라'
+  ja: CV：Jackie Lastra

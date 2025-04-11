@@ -1,0 +1,508 @@
+---
+280_name:
+  en: Rosanna
+  ko: 로산나
+  ja: ロザンナ
+c280_description:
+  en: |-
+    Leader of Hedonia, a sizable criminal gang.
+    Compared with other members of the Underworld Queen, she is far more pugnacious and firmly believes that violence is the ultimate panacea.
+    She does, however, take exceedingly good care of those who are part of her gang.
+  ko: "뒷세계의 거대 조직 헤도니아의 보스.\n언더월드 퀸 소속의 니케들 중에서도 [폭력은 폭력으로 다스린다]는 취지를 가장 적나라하게 보여주는
+    인물이다. \n단, 자신의 영역 내의 사람들만은 철저하게 챙긴다."
+  ja: |-
+    裏社会の巨大組織・ヘッドニアのボス。
+    アンダーワールドクイーン所属のニケの中でも
+    「暴力は暴力で治める」というモットーを
+    最も赤裸々に見せてくれる人物。
+    ただし、自分のテリトリーにいる人々だけは徹底的に守る。
+280_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50280:
+  en: Rosanna's Spare Body
+  ko: 로산나 스페어 바디
+  ja: ロザンナのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22802_name:
+  en: Capo dei Capi
+  ko: 카포 디 카피
+  ja: カポ・ディ・カピ
+22802_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF>Concealment: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_01} sec. Loses effect when the caster takes damage.</color>
+    ■ Activates when a Nikke is out of action. Affects self.
+    <color=#00AEFF>Frenzy: ATK ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.
+    <word_group=10015>Fills Burst Gauge</word_group> by {description_value_05}%.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[은신 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_01}초 유지]</color>
+    ■ 니케 누군가 전투불능 시 자신에게
+    <color=#00AEFF>[광기 : 공격력 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]
+    [<word_group=10015>버스트 게이지 충전</word_group> {description_value_05}%]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「隠れ身：<word_group=10004>単一攻撃対象から除外</word_group>直接攻撃を受けると解除」「{description_value_01}秒間維持」</color>
+    ■ニケの誰かが戦闘不能時、自分に
+    <color=#00AEFF>「狂気：攻撃力{description_value_02}％▲」「{description_value_03}スタック」「{description_value_04}秒間維持」
+    「<word_group=10015>バーストゲージのチャージ</word_group>{description_value_05}％」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22801_name:
+  en: On the Lam
+  ko: 온 더 렘
+  ja: オン・ザ・ラム
+22801_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>Concealment: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_02} sec. Loses effect when the caster takes damage.
+    Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates after landing {description_value_05} normal attack(s). Affects {description_value_06} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF><word_group=10022>Dispels {description_value_07} buff(s)</word_group>. Activates {description_value_08} time(s) per battle.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 자신에게
+    <color=#00AEFF>[은신 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_02}초 유지]
+    [크리티컬 확률 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 일반 공격 {description_value_05}회 명중 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_06}기에게
+    <color=#00AEFF>[<word_group=10022>이로운 효과 해제</word_group> {description_value_07}개] [전투 중 {description_value_08}회 발동]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、自分に
+    <color=#00AEFF>「隠れ身：<word_group=10004>単一攻撃対象から除外</word_group>直接攻撃を受けると解除」「{description_value_02}秒間維持」
+    「クリティカル確率{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■通常攻撃が{description_value_05}回命中した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_06}機に
+    <color=#00AEFF>「<word_group=10022>バフ効果解除</word_group>{description_value_07}個」「戦闘中{description_value_08}回発動」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12803_name:
+  en: Vendetta
+  ko: 벤데타
+  ja: ヴェンデッタ
+12803_description:
+  en: |-
+    ■ <word_group=10021>Prioritizes {description_value_01} Attacker enemy unit(s)</word_group>.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    ■ Affects the same target(s) when in Concealment status.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ <word_group=10021>우선적으로 화력형 적</word_group> {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+    ■ 자신이 은신 상태라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지]</color>
+  ja: |-
+    ■<word_group=10021>優先的に火力型の敵</word_group>{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    ■自分が隠れ身の状態なら同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+282_name:
+  en: Sakura
+  ko: 사쿠라
+  ja: サクラ
+281_name:
+  en: Moran
+  ko: 목단
+  ja: モラン
+283_name:
+  en: 'Rosanna: Chic Ocean'
+  ko: '로산나 : 시크 오션'
+  ja: ロザンナ：シックオーシャン
+284_name:
+  en: 'Sakura: Bloom in Summer'
+  ko: '사쿠라 : 블룸 인 서머'
+  ja: サクラ：ブルーム・イン・サマー
+c280_Lobby_Touch_1:
+  en: If words fail, then your only recourse is physical force. That's the kind of
+    world I operate in.
+  ko: |-
+    말로 안 되면 폭력으로 해결해야지.
+    그런 세계거든, 내가 있는 곳은.
+  ja: |-
+    言葉でダメなら暴力で解決。
+    そういう世界なの、あたしがいる場所は。
+c280_Lobby_Touch_2:
+  en: This is what happens to those who betray me.
+  ko: |-
+    이게 바로.
+    날 배신한 것들의 말로야.
+  ja: これが、あたしを裏切った奴らの末路だよ。
+c280_Lobby_Touch_3:
+  en: Only those with a strong will are capable of overseeing this organization.
+  ko: |-
+    오직 강한 자만이.
+    조직을 책임질 수 있는 거거든.
+  ja: 強い者にしか、組織は背負えない。
+c280_Lobby_Touch_Love_1:
+  en: |-
+    Come here, Mister.
+    If you want to stay alive, stick close to me.
+  ko: "이리 와, 미스터. \n내 옆에 딱 붙어 있어야 안전하지."
+  ja: |-
+    こっち来て、ミスター。
+    あたしの隣にいれば安全だから。
+c280_Lobby_Touch_Love_2:
+  en: Perhaps tonight, I'll make you an offer you can't refuse.
+  ko: 오늘 밤에, 미스터가 절대 거절하지 못할 제안을 하나 할까?
+  ja: 今夜、絶対にミスターが断れないような提案をしちゃおうかな？
+c280_Lobby_Touch_Love_3:
+  en: No one can touch you, except me.
+  ko: |-
+    아무도 미스터를 건들 수 없게 될 거야.
+    나 말고는.
+  ja: |-
+    誰もミスターに手出しできなくなるよ。
+    あたし以外は。
+c280_Lobby_Stay_1:
+  en: Hey, if you called me out here for nothing, the least you could do is dance
+    for me.
+  ko: 이봐, 미스터. 용건도 없이 날 불러냈으면, 춤이라도 춰야지.
+  ja: |-
+    ミスター。用もないのにあたしを呼んだの？
+    なら、一緒に踊ってよ。
+c280_Lobby_Stay_Love_1:
+  en: You're staring at me so intently. Don't think I don't know why. Well, what are
+    you waiting for? Do you want me to make the first move?
+  ko: |-
+    그렇게 빤히 쳐다보고만 있는 건, 그거지?
+    내 쪽에서 먼저 건드려줬으면 좋겠다는 거지?
+  ja: |-
+    じーっと見てるってことは、あれ？
+    あたしの方から誘ってほしいって？
+c280_Outpost_Touch_1:
+  en: |-
+    I'll never see the inside of a courtroom.
+    My enforcers would take everyone out before anything went to trial.
+  ko: |-
+    아무도 날 법정에 세울 순 없어.
+    재판 일보다 먼저 내 히트맨이 찾아갈 거거든.
+  ja: |-
+    あたしを法廷に 立たせられる奴なんて いないよ。
+    裁判の日より先に、 あたしのヒットマンが 向かうからね。
+c280_Outpost_Touch_2:
+  en: So, all of these Nikkes are your family? Does that, perhaps... include me?
+  ko: "음, 그러니까 이것들이 미스터의 패밀리라는 거지? \n…설마, 나도 포함인가?"
+  ja: |-
+    えっと、これがミスターの ファミリーってこと？
+    …まさか、あたしも 入ってんの？
+c280_Outpost_Touch_3:
+  en: This place has a fairly thriving business district. If you want, I can offer
+    to protect some of the establishments. How about it?
+  ko: "여기도 상권이 제법 갖춰졌네. \n미스터의 부탁이라면 뒤를 좀 봐줄 수도 있는데, 어때?"
+  ja: |-
+    ここもなかなか 手広くやってるね。
+    ミスターの頼みなら 面倒見てあげるけど、どう？
+c280_Gacha_Get_1:
+  en: "I am Rosanna, the leader of Hedonia. \nThere is nothing to be afraid of, so
+    long as you are not my enemy."
+  ko: |-
+    헤도니아의 보스, 로산나다.
+    내 적이 아니라면 날 두려워할 필요는 없어.
+  ja: |-
+    ヘッドニアのボス、ロザンナだよ。
+    あたしの敵じゃないなら、怖がる必要ないわ。
+c280_Reinforce_1:
+  en: Hahaha. Now I can kill more easily.
+  ko: 하하하. 더 쉽게 많이 죽일 수 있겠네.
+  ja: |-
+    アハハ。
+    これでもっと楽に倒せる～
+c280_Reinforce_2:
+  en: Hmm... I assume you want me to use this power to protect you?
+  ko: 흐음~ 이 힘으로 널 보호해달라는 건가?
+  ja: ふ～ん、この力であんたを守ってほしいってこと？
+c280_Reinforce_3:
+  en: Now I'll be able to boost my power.
+  ko: 세력을 더 넓힐 수 있겠어.
+  ja: もっと組織をでっかくできそう。
+c280_Gift_1:
+  en: It's always wise to accept a gift from someone so good-looking.
+  ko: 미남의 선물은 받아두고 볼 일이지.
+  ja: イケメンからのプレゼントは受け取っておかないとね。
+c280_Gift_2:
+  en: I presume in exchange for this, you want personal protection? Very well.
+  ko: 뒤를 봐달라는 거지? 좋아.
+  ja: 面倒を見てほしいってことでしょ？いいよ。
+c280_Gift_3:
+  en: You're not leading me on, are you?
+  ko: 흐음~ 여지를 주는 거야, 이거?
+  ja: ふ～ん、思わせぶりだね？
+c280_Attractive_Up_1:
+  en: Do you have your sights set on becoming more "intimately" connected with my
+    business?
+  ko: 뭐야. 다른 의미에서 내 패밀리가 되려고?
+  ja: 何？違う意味であたしのファミリーになるつもり？
+c280_Attractive_Up_2:
+  en: You're coming awfully close. Well, what's your next move?
+  ko: "이렇게 가까이 다가와서는. \n어떻게 감당할 생각인지 모르겠네."
+  ja: |-
+    こんなに近づいてくるなんて。
+    あんたの手に負えるの？
+c280_Attractive_Up_3:
+  en: From now on, any enemy of yours is an enemy of Hedonia.
+  ko: 이제부턴 미스터의 적이 곧 헤도니아의 적이 될 거야.
+  ja: これからはミスターの敵は、ヘッドニアの敵だね。
+c280_Party_Deploy_1:
+  en: It's only natural that you would need my help in times like this.
+  ko: 그래그래. 이럴 땐 당연히 내게 도움을 청해야지.
+  ja: そうそう。こういう時は当然あたしを呼ばないとね。
+c280_Field_Touch_1:
+  en: What do you need me to do?
+  ko: 뭘 처리해 주면 돼?
+  ja: 何を片付ければいいの？
+c280_Field_Go_1:
+  en: I'm coming. Don't rush me.
+  ko: 가고 있으니까 보채지 마.
+  ja: 今向かってるから焦らせないでよ。
+c280_Battle_Enter_1:
+  en: Time to do what I do best.
+  ko: 매일 하는 일을 하러 갈 때네.
+  ja: いつもの仕事の時間だね。
+c280_Battle_Ready_1:
+  en: Don't forget, everyone, this is war.
+  ko: 얘들아, 전쟁이다.
+  ja: みんな、戦争だよ。
+c280_Battle_Ready_2:
+  en: If I die, I'm taking you all with me.
+  ko: 죽기 전에 먼저 죽여버리면 그만이지.
+  ja: やられる前にやればいい。
+c280_Battle_Ready_3:
+  en: Wipe them all out. Show them no mercy.
+  ko: 후환이 없게 쓸어버리자고.
+  ja: ハデに蹴散らすよ。
+c280_Reload_1:
+  en: Now then, who's next?
+  ko: 자, 다음은 누구야?
+  ja: ほら、次は誰？
+c280_Reload_2:
+  en: This is child's play.
+  ko: 이것들도 별거 아니네.
+  ja: 大したことないね。
+c280_Reload_3:
+  en: Don't worry, everyone will get their turn to die.
+  ko: 순서대로 처리해 줄 테니 기다려.
+  ja: 順番に片付けるから待ってなって。
+c280_Ult_Skill_Ready_1:
+  en: Let's go, guys.
+  ko: 가자, 얘들아.
+  ja: 行くよ、みんな。
+c280_Ult_Skill_1:
+  en: Let's have some fun!
+  ko: 자, 우리만의 벤데타를 즐겨보자고.
+  ja: ヴェンデッタを楽しみましょ。
+c280_FullBurst_1:
+  en: Let's see who racks up more kills!
+  ko: 어디, 누가누가 더 많이 죽이는지 볼까!
+  ja: 誰が一番たくさん倒せるかな！
+c280_Kill_Monster_1:
+  en: Is that all you've got?
+  ko: 이거밖에 안 돼?
+  ja: この程度？
+c280_Kill_Monster_2:
+  en: Bullseye.
+  ko: 굿 샷.
+  ja: グッドショット。
+c280_Kill_Monster_3:
+  en: Easy.
+  ko: 쉽네.
+  ja: かんた～ん。
+c280_Damage_1:
+  en: Ha.
+  ko: 큭.
+  ja: くっ。
+c280_Damage_2:
+  en: How dare you?
+  ko: 감히?
+  ja: よくも！
+c280_Damage_3:
+  en: Ah.
+  ko: 아.
+  ja: あ。
+c280_Die_1:
+  en: Are you sure you can... take it from here?
+  ko: "…후환은… 감당할 자신 있는 거겠지?"
+  ja: "…どうなっても知らないよ？"
+c280_Win_1:
+  en: That's why you don't want to get on my bad side.
+  ko: 하하. 그러게 날 적으로 돌리지 말았어야지.
+  ja: ハハ。あたしを敵に回すとどうなるか分かった？
+280_cv_ja:
+  en: 'CV: Ikumi Hasegawa'
+  ko: 'CV : 하세가와 이쿠미'
+  ja: CV：長谷川育美
+280_cv_ko:
+  en: 'CV: Lee Eun-jo'
+  ko: 'CV : 이은조'
+  ja: CV：イ・ウンジョ
+280_cv_en:
+  en: 'CV: Samantha Berman'
+  ko: 'CV : 사만다 버먼'
+  ja: CV：Samantha Berman

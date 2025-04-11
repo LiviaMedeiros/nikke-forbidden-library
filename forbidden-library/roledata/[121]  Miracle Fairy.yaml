@@ -1,0 +1,511 @@
+---
+121_name:
+  en: 'Anne: Miracle Fairy'
+  ko: '앤 : 미라클 페어리'
+  ja: 'エヌ : ミラクルフェアリー'
+c121_description:
+  en: |-
+    Anne after being reborn as a winter spirit upon receiving some gifts from Rupee.
+    Rupee's infectious energy has made her more cheerful and optimistic than ever before.
+  ko: |-
+    루피의 선물을 받아 겨울 요정으로 다시 태어난 앤.
+    루피의 밝은 에너지의 영향을 받아 이전보다 밝고 긍정적인 모습을 보인다.
+  ja: |-
+    ルピーからプレゼントを受け取り、冬の妖精に生まれ変わったエヌ。
+    ルピーの明るさの影響を受け、前よりもポジティブな姿を見せる。
+121_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_121:
+  en: 'Anne: Miracle Fairy''s Spare Body'
+  ko: '앤 : 미라클 페어리 스페어 바디'
+  ja: エヌ：ミラクルフェアリーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21212_name:
+  en: Fairy's Jest
+  ko: 요정의 장난
+  ja: 妖精のイタズラ
+21212_description:
+  en: |-
+    ■ Affects all allies. Activates when above {description_value_01}% HP.
+    <color=#00AEFF>Potency of HP restored ▲ {description_value_02}%.</color>
+    ■ Activates when the last bullet hits the target while caster has over {description_value_03}% HP. Affects all enemies.
+    <color=#00AEFF>Potency of HP restored ▼ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신의 체력이 {description_value_01}% 이상일 때 한하여 아군 전체에게
+    <color=#00AEFF>[받는 체력 회복량 {description_value_02}% ▲] [지속]</color>
+    ■ 마지막 탄환 명중 시 자신의 체력이 {description_value_03}% 이상이라면 적 전체에게
+    <color=#00AEFF>[받는 체력 회복량 {description_value_04}% ▼] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分のHPが{description_value_01}％以上の時のみ味方全体に
+    <color=#00AEFF>「受けるHP回復量{description_value_02}％▲」「持続」</color>
+    ■最後の弾丸が命中した時、自分のHPが{description_value_03}％以上なら敵全体に
+    <color=#00AEFF>「受けるHP回復量{description_value_04}％▼」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21211_name:
+  en: Fairy Dance
+  ko: 춤추는 요정
+  ja: 踊る妖精
+21211_description:
+  en: |-
+    ■ Affects all Supporter allies. Activates after {description_value_01} normal attack(s).
+    <color=#00AEFF>Recover {description_value_02}% of attack damage as HP over {description_value_03} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 지원형 아군 전체에게
+    <color=#00AEFF>[공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、支援型の味方全体に
+    <color=#00AEFF>「攻撃ダメージの{description_value_02}％回復」
+    「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11213_name:
+  en: Blue Butterfly Slumber
+  ko: 파란 나비의 꿈
+  ja: 青い蝶の夢
+11213_description_1:
+  en: |-
+    ■ Affects all Attacker allies.
+    <color=#00AEFF>Recovers {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP as HP.
+    ATK ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Affects {description_value_01} incapacitated Attacker ally unit(s) randomly.
+    <color=#00AEFF>Resurrect with {description_value_02}% HP. Activates once per battle.</color>
+  ko: |-
+    ■ 화력형 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복]
+    [공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 전투불능 상태 화력형 아군 무작위 {description_value_01}기에게
+    <color=#00AEFF>[체력 {description_value_02}%로 부활] [전투 중 1회 발동]</color>
+  ja: |-
+    ■火力型の味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」
+    「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■戦闘不能状態の火力型の味方をランダムで{description_value_01}機に
+    <color=#00AEFF>「HP{description_value_02}％で復活」「戦闘中1回発動」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+120_name:
+  en: N102
+  ko: N102
+  ja: N102
+c121_Lobby_Touch_1:
+  en: I bought a new notebook. I'll be able to write down all my memories here!
+  ko: |-
+    새로운 수첩이 생겼어요.
+    여기에 추억을 잔뜩 적을 거예요!
+  ja: |-
+    新しい手帳ができました。
+    ここに思い出をいっぱい書きます！
+c121_Lobby_Touch_2:
+  en: Rupee bought this for me, isn't it pretty? I'm going to wear it every day!
+  ko: |-
+    헤헤, 루피 언니가 사준 옷인데, 예뻐요!
+    매일 입고 다닐래요!
+  ja: |-
+    へへ、ルピーお姉ちゃんが買ってくれた服ですけど、かわいい！
+    毎日着ます！
+c121_Lobby_Touch_3:
+  en: Shopa... holic? I just shout it out like this, right?
+  ko: |-
+    쇼퍼… 홀릭?
+    이렇게 외치면 되는 거겠죠?
+  ja: |-
+    しょっぱ…ホリック！
+    これでいいですか？
+c121_Lobby_Touch_Love_1:
+  en: What a miracle! I've noted down and made so many precious memories.
+  ko: |-
+    기적이 일어난 거 같아요!
+    수첩에도 마음속에도 추억이 가득해요.
+  ja: |-
+    奇跡が起きたみたいです！
+    手帳の中にも心の中にも思い出がいっぱいです。
+c121_Lobby_Touch_Love_2:
+  en: The clothes Rupee bought me are so shiny! I feel just like a fairy.
+  ko: |-
+    루피 언니가 사준 옷은 반짝반짝해요!
+    요정이 된 기분이에요!
+  ja: |-
+    ルピーお姉ちゃんが買ってくれた服はキラキラです！
+    妖精になったような気がします！
+c121_Lobby_Touch_Love_3:
+  en: Shopaholic! Rupee said if I keep repeating that slogan, it'll lift my spirits.
+  ko: |-
+    쇼퍼 홀릭☆
+    루피 언니가 행복해지는 주문이랬어요!
+  ja: |-
+    ショッパホリック☆
+    ルピーお姉ちゃんが、幸せになれるおまじないだよ
+    って言ってました！
+c121_Lobby_Stay_1:
+  en: Hey, where did you go? I get anxious whenever you're not around.
+  ko: "선생님 어디 갔어요…? \n선생님이 없으면… 불안해져요…."
+  ja: |-
+    先生、どこですか…？
+    先生がいないと…
+    不安になっちゃいます…
+c121_Lobby_Stay_Love_1:
+  en: I'll just flip through my notebook until you come back. I wrote down a bunch
+    of memories with you and Rupee.
+  ko: |-
+    선생님이 올 때까지, 수첩 보면서 기다리고 있을게요.
+    여기에 선생님이랑, 루피 언니랑, 추억들을 잔뜩 적어놨거든요!
+  ja: |-
+    先生が来るまで、手帳を見ながら待ってます。
+    ここに先生と、ルピーお姉ちゃんとの思い出を
+    いっぱい書き留めておいたから！
+c121_Outpost_Touch_1:
+  en: This place is so warm, I love it. I want to come here every day.
+  ko: |-
+    저 여기 엄청 좋아해요.
+    따뜻해서 매일매일 여기에 오고 싶어요.
+  ja: |-
+    私、ここが大好きです。
+    暖かいから毎日来たいです。
+c121_Outpost_Touch_2:
+  en: There are a lot of fun books at the library. I spent the entire day reading.
+  ko: |-
+    도서관에 재미있는 책이 많아요.
+    어제도 잔뜩 읽었어요!
+  ja: |-
+    図書館に面白い本が たくさんあります。
+    昨日もたくさん読みました！
+c121_Outpost_Touch_3:
+  en: I get a big kick out of the library. It's full of people's memories.
+  ko: |-
+    도서관은 좋아요.
+    사람들의 기억이 가득해요!
+  ja: |-
+    図書館は好きです。
+    みんなの思い出が いっぱい詰まっています！
+c121_Gacha_Get_1:
+  en: Let's go make memories together!
+  ko: 선생님! 같이 추억을 만들러 가요!
+  ja: 先生！一緒に思い出を作りに行きましょう！
+c121_Reinforce_1:
+  en: Wow, cool! I feel like I could jump and take off flying.
+  ko: 신기해요! 하늘을 날아갈 것만 같아요!
+  ja: |-
+    すごい！
+    空を飛べそうな気がします！
+c121_Reinforce_2:
+  en: Whoa, it feels like my entire body is glowing!
+  ko: 와아, 몸이 반짝반짝해진 기분이에요!
+  ja: わあ、体がキラキラになった気がします！
+c121_Reinforce_3:
+  en: Weird, it feels like my wings have grown in size.
+  ko: "어… 이상해요! \n날개가 더 커진 것 같아요!"
+  ja: |-
+    え…不思議！
+    翼がもっと大きくなったような気がします！
+c121_Gift_1:
+  en: So this is what a gift is! Rupee said they're a good thing.
+  ko: |-
+    와아! 이게 선물이라는 거군요!
+    루피 언니가 좋은 거랬어요!
+  ja: |-
+    わあ！これがプレゼントなんですね！
+    ルピーお姉ちゃんがいいものだって言ってました！
+c121_Gift_2:
+  en: Is this for me? Thank you!
+  ko: 이거 저 주시는 거예요…? 고맙습니다!
+  ja: |-
+    これ、私にくれるんですか…？
+    ありがとうございます！
+c121_Gift_3:
+  en: A gift? Thank you!
+  ko: 선물…! 선생님 감사합니다!
+  ja: |-
+    プレゼント…！
+    先生、ありがとうございます！
+c121_Attractive_Up_1:
+  en: I appreciate you spending so much time with me.
+  ko: 매일매일 함께 있어줘서 고마워요.
+  ja: |-
+    毎日一緒にいてくれて、
+    ありがとうございます。
+c121_Attractive_Up_2:
+  en: I'm always happy whenever I'm with you.
+  ko: 선생님이랑 있으면 매일 행복해져요.
+  ja: 先生といると毎日幸せです。
+c121_Attractive_Up_3:
+  en: This notebook contains so many wonderful memories now.
+  ko: 이 수첩 안에 따뜻한 추억이 가득해졌어요.
+  ja: この手帳の中の暖かい思い出が、たくさん増えました。
+c121_Party_Deploy_1:
+  en: I'll go anywhere, as long as I'm with you.
+  ko: 선생님이랑 함께라면 어디든 좋아요.
+  ja: 先生と一緒ならどこでもいいです。
+c121_Field_Touch_1:
+  en: Huh? Did someone call me?
+  ko: 어? 목소리가 들렸는데…?
+  ja: あれ？声が聞こえたのに…
+c121_Field_Go_1:
+  en: I need to go to that shiny place, right?
+  ko: 저기 반짝이는 곳으로 가면 되죠?
+  ja: あそこのキラキラしているところに行けばいいんですよね？
+c121_Battle_Enter_1:
+  en: Something's coming!
+  ko: 와, 뭔가 오고 있어요!
+  ja: わあ、何か近づいてきます！
+c121_Battle_Ready_1:
+  en: I need to finish quickly so I can spend time with you.
+  ko: 얼른 끝내고 선생님이랑 놀러 갈래요!
+  ja: 早く終わらせて、先生と遊びに行きます！
+c121_Battle_Ready_2:
+  en: I have to survive to continue being happy!
+  ko: 살아남아야 해. 매일매일 행복해질 수 있도록!
+  ja: |-
+    生き残らなくちゃ。
+    毎日幸せになるために！
+c121_Battle_Ready_3:
+  en: So this will become a memory too?
+  ko: 이것도 추억이 되겠죠?
+  ja: これも思い出になるのでしょうか？
+c121_Reload_1:
+  en: Hmm... I think this is how I did it...?
+  ko: 어… 이렇게 했던 거 같은데…?
+  ja: えっと…こうやってたかな…？
+c121_Reload_2:
+  en: This is what you call... reloading, right?
+  ko: 이런 걸 재장전… 이라고 했던 거 같아요!
+  ja: これがリロード…ですよね！
+c121_Reload_3:
+  en: Am I doing this right?
+  ko: 어… 저 잘하고 있나요?
+  ja: |-
+    あの…
+    私、ちゃんとできてますか？
+c121_Ult_Skill_Ready_1:
+  en: Teacher!
+  ko: 선생님!
+  ja: 先生！
+c121_Ult_Skill_1:
+  en: Life is ephemeral. Memories are eternal.
+  ko: 추억은 마음속에서 영원히 기억될 거예요.
+  ja: 思い出はいつまでも心の中に残るでしょう。
+c121_FullBurst_1:
+  en: It's time for a miracle!
+  ko: 와아아! 기적이 일어날 거 같아요!
+  ja: わああ！奇跡が起きそうです！
+c121_Kill_Monster_1:
+  en: I did it!
+  ko: 해냈어요!
+  ja: やりました！
+c121_Kill_Monster_2:
+  en: Wow!
+  ko: 와아!
+  ja: わあ！
+c121_Kill_Monster_3:
+  en: Exciting!
+  ko: 신나요!
+  ja: 楽しいです！
+c121_Damage_1:
+  en: Ouch!
+  ko: 아야!
+  ja: ああ！
+c121_Damage_2:
+  en: Uh...
+  ko: 우으….
+  ja: うう…
+c121_Damage_3:
+  en: That hurts!
+  ko: 아파….
+  ja: 痛い…
+c121_Die_1:
+  en: My memories are fading...
+  ko: 안 돼… 추억이… 사라져….
+  ja: ダメ…思い出が…消えちゃう…
+c121_Win_1:
+  en: Whew, all done! Did everything work out?
+  ko: 와아… 끝났어요! 전부 잘 된 거겠죠?
+  ja: |-
+    わあ…終わりました！
+    これでいいんですよね？
+121_cv_ja:
+  en: 'CV: Satomi Satō'
+  ko: 'CV : 사토 사토미'
+  ja: CV：佐藤聡美
+121_cv_ko:
+  en: 'CV: Kim Yeon-woo'
+  ko: 'CV : 김연우'
+  ja: CV：キム・ヨヌ
+121_cv_en:
+  en: 'CV: Corina Boettger'
+  ko: 'CV : 코리나 뵈트거'
+  ja: CV：Corina Boettger

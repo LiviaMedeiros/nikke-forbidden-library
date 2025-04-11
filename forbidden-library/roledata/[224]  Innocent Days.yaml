@@ -1,0 +1,521 @@
+---
+224_name:
+  en: 'Snow White: Innocent Days'
+  ko: '스노우 화이트 : 이노센트 데이즈'
+  ja: スノーホワイト：イノセントデイズ
+c224_description:
+  en: |-
+    One of the Grimms Models who joined the Goddess squad.
+    Highly talented in weapon development, she's in charge of the squad's weapon management.
+    Just like her name suggests, she's a little girl armed with pure-white innocence.
+  ko: |-
+    갓데스 스쿼드에 합류한 페어리 테일 모델 중 한 명.
+    병기 개발에 천부적인 소질이 있어, 갓데스 스쿼드의 무장 전반을 담당하고 있다.
+    이름 그대로 새하얀 순수함으로 무장한 갓데스 스쿼드의 막냇동생.
+  ja: |-
+    ゴッデス部隊に合流したフェアリーテールモデルの1人。
+    兵器の開発に天賦の才能を持ち、
+    ゴッデス部隊の武装全般を担当している。
+    その名の通り、真っ白で無垢なゴッデス部隊の最年少メンバー。
+224_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_224:
+  en: 'Snow White: Innocent Days''s Spare Body'
+  ko: '스노우 화이트 : 이노센트 데이즈 스페어 바디'
+  ja: スノーホワイト：イノセントデイズのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22242_name:
+  en: Seven Dwarves IV
+  ko: 세븐스 드워프 IV
+  ja: セブンスドワーフIV
+22242_description:
+  en: "■ Activates when landing {description_value_01} normal attack(s). Affects all
+    enemies.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as damage.</color> \n■ Activates when using Burst Skill. Affects self.\n<color=#00AEFF>Attack
+    damage ▲ {description_value_03}% for {description_value_04} sec.</color>"
+  ko: "■ 일반 공격 {description_value_01}회 명중 시 적 전체에게 \n<color=#00AEFF>[<word_group=10025>최종</word_group>
+    공격력 {description_value_02}% 대미지]</color> \n■ 버스트 스킬 사용 시 자신에게\n<color=#00AEFF>[공격
+    대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>"
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22241_name:
+  en: Seven Dwarves V&VI
+  ko: 세븐스 드워프 V&VI
+  ja: セブンスドワーフV&VI
+22241_description:
+  en: "■ Activates after landing {description_value_01} normal attack(s). Affects
+    self.\n<color=#00AEFF>Max Ammunition Capacity ▲ {description_value_02}%, stacks
+    up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>\n■
+    Activates after landing {description_value_05} normal attack(s). Affects <word_group=10020>enemies
+    within attack range</word_group>. \n<color=#00AEFF>Deals {description_value_06}%
+    of <word_group=10025>final</word_group> ATK as damage.</color>"
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 자신에게
+    <color=#00AEFF>[최대 장탄 수 {description_value_02}% ▲] [{description_value_03}중첩] [{description_value_04}초 유지]</color>
+    ■ 일반 공격 {description_value_05}회 명중 시 <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_06}% 대미지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、自分に
+    <color=#00AEFF>「最大装弾数{description_value_02}％▲」「{description_value_03}スタック」「{description_value_04}秒間維持」</color>
+    ■通常攻撃が{description_value_05}回命中した時、<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％のダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12243_name:
+  en: Seven Dwarves III
+  ko: 세븐스 드워프 III
+  ja: セブンスドワーフIII
+12243_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Hit count required for Skill 2 ▼ {description_value_01} time(s) for {description_value_02} sec.</color>
+    <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
+    <color=#00AEFF>Grants unlimited ammunition for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[스킬 2 명중 횟수 조건 {description_value_01}회 ▼] [{description_value_02}초 유지]</color>
+    <color=#00AEFF>[공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    <color=#00AEFF>[장탄 수 무한] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「スキル2の命中回数条件{description_value_01}回▼」
+    「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    <color=#00AEFF>「装弾数無限」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+470_name:
+  en: Red Hood
+  ko: 레드 후드
+  ja: レッドフード
+225_name:
+  en: 'Scarlet: Black Shadow'
+  ko: '홍련 : 흑영'
+  ja: 紅蓮：ブラックシャドウ
+226_name:
+  en: 'Rapunzel: Pure Grace'
+  ko: '라푼젤 : 퓨어 그레이스'
+  ja: ラプンツェル：ピュアグレイス
+c224_Lobby_Touch_1:
+  en: |-
+    You're wondering if it's a heavy load?
+    Not at all. It's only 4 tons.
+  ko: |-
+    짐이 무겁지 않냐고요? 전혀요.
+    4톤 밖에 안 되는걸요.
+  ja: |-
+    荷物が重くないかって？全然。
+    たったの4トンですから。
+c224_Lobby_Touch_2:
+  en: |-
+    I'm confident when it comes to making weapons,
+    but actually being in battle...
+  ko: |-
+    무기 만드는 건 자신 있어요.
+    전투는 사실 좀….
+  ja: |-
+    武器作りなら、自信あります。
+    戦闘は、ちょっと…
+c224_Lobby_Touch_3:
+  en: "I still can't believe I'm a member of the Goddess Squad. \nI need to pull my
+    weight."
+  ko: |-
+    제가 갓데스 스쿼드의 일원이라는 게 아직 믿기지 않아요.
+    더 열심히 해야겠죠.
+  ja: |-
+    私がゴッデス部隊のメンバーだなんて、いまだに信じられません。
+    もっと頑張らないと。
+c224_Lobby_Touch_Love_1:
+  en: "Lilith is the best! \nShe's strong, nice, cool, and... just the best!"
+  ko: |-
+    릴리스 언니는 최고예요!
+    강하고, 착하고, 멋있고, 아무튼 다 최고예요!
+  ja: |-
+    リリスお姉ちゃんは最高です！
+    強くて、優しくて、素敵で、とにかく最高なんです！
+c224_Lobby_Touch_Love_2:
+  en: |-
+    Nothing is greater than the Goddess Squad.
+    It's such an honor to be a part of it.
+  ko: |-
+    갓데스 스쿼드는 최고죠.
+    그래서 항상 영광이에요.
+  ja: |-
+    ゴッデス部隊は最高です。
+    だから、いつも光栄だと思っています。
+c224_Lobby_Touch_Love_3:
+  en: |-
+    Red Hood...
+    Hehe. She is a good person.
+  ko: |-
+    레드 후드는….
+    헤헤. 진짜 좋은 사람이에요.
+  ja: |-
+    レッドフードは…
+    えへへ。本当にいい人ですよ。
+c224_Lobby_Stay_1:
+  en: Uh... Should I keep standing here?
+  ko: 어… 저 여기 계속 서 있나요?
+  ja: えっと…ずっとここに立っていろということですか？
+c224_Lobby_Stay_Love_1:
+  en: |-
+    Don't worry about me.
+    I'll be here working on more weapon designs.
+  ko: |-
+    설계도를 짜고 있을게요.
+    그러니 신경 쓰지 마세요.
+  ja: |-
+    設計図を描いてます。
+    だから、気にしないでください。
+c224_Outpost_Touch_1:
+  en: I'd love to take the Lift one day.
+  ko: 언젠가 궤도 엘리베이터를 꼭 타보고 싶어요.
+  ja: いつか軌道エレベーターに 乗ってみたいです。
+c224_Outpost_Touch_2:
+  en: |-
+    I adore snow-covered mountains.
+    I'm not even sure why, but I just do.
+  ko: |-
+    눈 덮인 설산을 좋아해요.
+    왜 그런진 모르겠는데, 그냥 좋아해요.
+  ja: |-
+    雪に覆われた雪山が 好きです。
+    なぜか分かりませんが、 好きなんです。
+c224_Outpost_Touch_3:
+  en: |-
+    There's no place in particular that I want to go.
+    The important thing is that you're there with me.
+  ko: |-
+    가보고 싶은 장소는 딱히 없어요.
+    어디든 누구랑 가는가가 중요하죠.
+  ja: |-
+    行ってみたい場所は、 特にありません。
+    どこに行くかより、 誰と行くかが 大事ですよね。
+c224_Gacha_Get_1:
+  en: "I'm Snow White. \nI'm in charge of weapons development and maintenance."
+  ko: |-
+    스노우 화이트입니다.
+    갓데스 스쿼드에서 무장 개발 및 정비를 맡고 있어요.
+  ja: |-
+    スノーホワイトです。
+    ゴッデス部隊で武装開発と整備を担当しています。
+c224_Reinforce_1:
+  en: Output increase confirmed.
+  ko: 출력 상승 확인했어요.
+  ja: 出力上昇、確認しました。
+c224_Reinforce_2:
+  en: At this rate, am I closing in on Lilith?
+  ko: 이걸로 릴리스 언니에게 조금이라도 다가갔을까요?
+  ja: これで、リリスお姉ちゃんに少しでも近づけたでしょうか？
+c224_Reinforce_3:
+  en: |-
+    I like getting stronger.
+    It means I can better help those around me.
+  ko: |-
+    강해지는 건 좋아요.
+    모두에게 도움이 될 테니까요.
+  ja: |-
+    強くなるのは嬉しいです。
+    みんなの役に立てますから。
+c224_Gift_1:
+  en: Wow, thank you! Really.
+  ko: |-
+    와. 감사합니다.
+    지, 진짜 고마워요.
+  ja: |-
+    わあ、ありがとうございます。
+    ほ、本当に感謝してます。
+c224_Gift_2:
+  en: "Is... \nIs it really okay if I accept this?"
+  ko: |-
+    어… 이건….
+    제, 제가 받아도 되나요?
+  ja: |-
+    えっと…これは…
+    わ、私がもらっていいんですか？
+c224_Gift_3:
+  en: Thank you! I'll be sure to put it to good use.
+  ko: 고맙습니다! 잘 쓸게요!
+  ja: ありがとうございます！大切に使いますね！
+c224_Attractive_Up_1:
+  en: I'll be sure to work even harder going forward.
+  ko: 앞으로도 더 열심히 할게요.
+  ja: これからも、もっと頑張ります。
+c224_Attractive_Up_2:
+  en: I will act in a manner befitting the Goddess Squad.
+  ko: 갓데스 스쿼드의 이름에 걸맞게 행동할게요.
+  ja: ゴッデス部隊の名に恥じぬよう行動します。
+c224_Attractive_Up_3:
+  en: Is there any weapon in particular that you want? I could make it for you.
+  ko: 원하시는 물건이 있나요? 만들어 드릴게요.
+  ja: 欲しいものはありませんか？作ってあげますよ。
+c224_Party_Deploy_1:
+  en: Snow White. Engaging.
+  ko: 스노우 화이트. 출격합니다.
+  ja: スノーホワイト。出撃します。
+c224_Field_Touch_1:
+  en: Snow White, present.
+  ko: 예. 스노우 화이트입니다.
+  ja: はい。スノーホワイトです。
+c224_Field_Go_1:
+  en: Proceeding to target.
+  ko: 목표 지점으로 이동합니다.
+  ja: 目標地点に移動します。
+c224_Battle_Enter_1:
+  en: Encounter!
+  ko: 인카운터!
+  ja: エンカウンター！
+c224_Battle_Ready_1:
+  en: Uh... I'm anxious.
+  ko: 아… 긴장된다.
+  ja: あぁ…緊張する。
+c224_Battle_Ready_2:
+  en: E-enemy spotted!
+  ko: 저, 적기 발견! 옵니다!
+  ja: て、敵機発見！来ます！
+c224_Battle_Ready_3:
+  en: Stay alive, everyone!
+  ko: 다들, 죽지 말아요!
+  ja: みんな、死なないでください！
+c224_Reload_1:
+  en: Re-reloading!
+  ko: 리, 리로드!
+  ja: リ、リロード！
+c224_Reload_2:
+  en: Hu-hurry!
+  ko: 빠, 빨리! 빨리!
+  ja: は、早く！早く！
+c224_Reload_3:
+  en: Like this.
+  ko: 이렇… 게…!
+  ja: こう…やって…！
+c224_Ult_Skill_Ready_1:
+  en: Seven Dwarves, ready!
+  ko: 세븐스 드워프 레디!
+  ja: セブンスドワーフ、レディー！
+c224_Ult_Skill_1:
+  en: I'll take it from here.
+  ko: 여긴 제가 맡을게요!
+  ja: ここは私に任せてください！
+c224_FullBurst_1:
+  en: Everyone focus your fire!
+  ko: 여러분! 도와줘요! 집중 사격!
+  ja: みなさん！手伝ってください！集中射撃！
+c224_Kill_Monster_1:
+  en: There we go!
+  ko: 됐다!
+  ja: よし！
+c224_Kill_Monster_2:
+  en: Did we get them?
+  ko: 앗, 잡았다?
+  ja: あっ、やった？
+c224_Kill_Monster_3:
+  en: Excellent.
+  ko: 조, 좋아!
+  ja: よ、よし！
+c224_Damage_1:
+  en: Ugh!
+  ko: 윽!
+  ja: うっ！
+c224_Damage_2:
+  en: Argh!
+  ko: 아악!
+  ja: ああっ！
+c224_Damage_3:
+  en: Lilith!
+  ko: 언니…!
+  ja: お姉ちゃん…！
+c224_Die_1:
+  en: I'm sorry... I'll get out of everyone's hair.
+  ko: 죄, 죄송합니다. 먼저 퇴각할게요!
+  ja: す、すみません。先に退却します！
+c224_Win_1:
+  en: The Goddess Squad is victorious once again!
+  ko: 갓데스 스쿼드의 승리에요!
+  ja: ゴッデス部隊の勝利です！
+224_cv_ja:
+  en: 'CV: M・A・O'
+  ko: 'CV : M・A・O'
+  ja: CV：M・A・O
+224_cv_ko:
+  en: 'CV: So Yeon'
+  ko: 'CV : 소연'
+  ja: CV：ソヨン
+224_cv_en:
+  en: 'CV: Laura Stahl'
+  ko: 'CV : 로라 스탈'
+  ja: CV：Laura Stahl

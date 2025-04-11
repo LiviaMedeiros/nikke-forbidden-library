@@ -1,0 +1,574 @@
+---
+281_name:
+  en: Moran
+  ko: 목단
+  ja: モラン
+c281_description:
+  en: |-
+    A Nikke from Underworld Queen Squad who manages the underworld of the Ark.
+    Leads a small organization named Peony Association.
+    Values loyalty and camaraderie.
+  ko: |-
+    방주의 뒷세계를 관리하는 언더월드 퀸 소속의 니케.
+    모란회라는 소규모 조직을 이끌고 있다.
+    의리에 살고 의리에 죽는 의리파.
+  ja: |-
+    アークの裏社会を管理している
+    アンダーワールドクイーン所属のニケ。
+    牡丹会という小さな組織を率いている。
+    仁義に生きる人情派。
+281_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50281:
+  en: Moran's Spare Body
+  ko: 목단 스페어 바디
+  ja: モランのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22812_name:
+  en: Leave It To Me!
+  ko: 여긴 내가 맡는다!
+  ja: ここは俺に任せろ！
+22812_description:
+  en: |-
+    ■ Activates when firing the final bullet. Affects {description_value_07} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Taunt for {description_value_08} sec.</color>
+    ■ Activates when HP falls below {description_value_09}%. Affects self.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). Perseverance: Effect of each phase does not stack.
+    Once: Max HP ▲ {description_value_01}% for {description_value_02} sec. Activates once per battle.
+    Twice: Max HP ▲ {description_value_03}% for {description_value_04} sec. Activates once per battle.
+    Three Times: Max HP ▲ {description_value_05}% for {description_value_06} sec. Activates once per battle.</color>
+  ko: |-
+    ■ 마지막 탄환 공격 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_07}기에게
+    <color=#00AEFF>[도발] [{description_value_08}초 유지]</color>
+    ■ 자신의 체력이 {description_value_09}% 이하일 때 자신에게
+    <color=#00AEFF>[사용 횟수 별 효과] [근성 : 단계별 효과만 적용]
+    1회 : [최대 체력 {description_value_01}% ▲] [{description_value_02}초 유지] [전투 중 1회 발동]
+    2회 : [최대 체력 {description_value_03}% ▲] [{description_value_04}초 유지] [전투 중 1회 발동]
+    3회 : [최대 체력 {description_value_05}% ▲] [{description_value_06}초 유지] [전투 중 1회 발동]</color>
+  ja: |-
+    ■最後の弾丸で攻撃した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_07}機に
+    <color=#00AEFF>「挑発」「{description_value_08}秒間維持」</color>
+    ■自分のHPが{description_value_09}％以下の時、自分に
+    <color=#00AEFF>「使用回数別の効果」「根性：各段階の効果のみ適用」
+    1回：「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」「戦闘中1回発動」
+    2回：「最大HP{description_value_03}％▲」「{description_value_04}秒間維持」「戦闘中1回発動」
+    3回：「最大HP{description_value_05}％▲」「{description_value_06}秒間維持」「戦闘中1回発動」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22811_name:
+  en: Bring It On!
+  ko: 다 덤벼!
+  ja: かかって来い！
+22811_description:
+  en: "■ Activates at the start of the battle. Affects self. \n<color=#00AEFF>DEF
+    ▲ {description_value_01}% with every 1% of HP loss. This effect is active continuously.</color>\n■
+    Activates when landing {description_value_03} normal attack(s) when changing the
+    weapon in use. Affects the target.\n<color=#00AEFF>Deals {description_value_02}%
+    of <word_group=10025>final</word_group> ATK as additional damage.</color>"
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[잃은 체력 1% 당 방어력 {description_value_01}% ▲] [지속]</color>
+    ■ 자신이 무기 변경 상태라면 일반 공격 {description_value_03}회 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「失ったHP1％ごとに防御力{description_value_01}％▲」「持続」</color>
+    ■自分が武器変更状態の場合、通常攻撃が{description_value_03}回命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12813_name:
+  en: Fair and Square!
+  ko: 정정당당 승부다!
+  ja: 正々堂々と勝負だ！
+12813_description:
+  en: "■ Affects self.\n<color=#00AEFF>Change the Weapon in use:\nDamage: {description_value_01}%
+    of <word_group=10025>final</word_group> ATK \nLasts for: 10 sec\nAdditional Effect(s):\nRecovers
+    {description_value_02}% of attack damage as HP over {description_value_03} sec.\nAttract:
+    Taunt all enemies for {description_value_04} sec.\nNote: Cannot take cover while
+    casting Burst skill.</color>\n■ Affects all allies.\n<color=#00AEFF>Damage Taken
+    ▼ {description_value_05}% for {description_value_06} sec.\nDEF ▲ {description_value_07}%
+    of caster's DEF for {description_value_08} sec.</color>"
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경]:
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
+    유지 시간 : 10초
+    추가 효과
+    [공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]
+    [주목 : 적 전체 도발] [{description_value_04}초 유지]
+    특이 사항 : 버스트 스킬 시전 중 엄폐 불가</color>
+    ■아군 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_05}% ▼] [{description_value_06}초 유지]
+    [시전자 기준 방어력 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器を変更」：
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+    維持時間：10秒
+    追加効果
+    「攻撃ダメージの{description_value_02}％回復」「{description_value_03}秒間維持」
+    「ヘイト：敵全体を挑発」「{description_value_04}秒間維持」
+    注意事項：バーストスキル発動中は
+    ハイド不可</color>
+    ■味方全体に
+    <color=#00AEFF>「受けるダメージ{description_value_05}％▼」
+    「{description_value_06}秒間維持」
+    「スキル発動者基準で防御力{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+282_name:
+  en: Sakura
+  ko: 사쿠라
+  ja: サクラ
+280_name:
+  en: Rosanna
+  ko: 로산나
+  ja: ロザンナ
+283_name:
+  en: 'Rosanna: Chic Ocean'
+  ko: '로산나 : 시크 오션'
+  ja: ロザンナ：シックオーシャン
+284_name:
+  en: 'Sakura: Bloom in Summer'
+  ko: '사쿠라 : 블룸 인 서머'
+  ja: サクラ：ブルーム・イン・サマー
+c281_Lobby_Touch_1:
+  en: |-
+    Hello, Cadet.
+    Let's be good friends.
+  ko: |-
+    반갑다, 동생!
+    잘 지내보자고.
+  ja: |-
+    会えて嬉しいぞ、弟！
+    よろしくな。
+c281_Lobby_Touch_2:
+  en: Faithfulness is the most important quality of a knight-errant.
+  ko: 협객은 의리 빼면 시체라고 할 수 있지.
+  ja: 侠客から仁義を取ったら、ただの屍だ。
+c281_Lobby_Touch_3:
+  en: The Peony Association never engages in immoral acts.
+  ko: 모란회는 절대로 양아치 짓 같은 거 안 해. 알았지?
+  ja: |-
+    牡丹会はぜってーチンピラみたいなマネはしねえんだ。
+    分かってるだろ？
+c281_Lobby_Touch_Love_1:
+  en: |-
+    Would you like to join my organization?
+    You're always welcome.
+  ko: |-
+    우리 조직에 들어올래?
+    동생이라면 언제든 환영이야!
+  ja: |-
+    俺たちの組織に入らないか？
+    弟ならいつでも歓迎だぜ！
+c281_Lobby_Touch_Love_2:
+  en: |-
+    If you're ever having any difficulties, don't hesitate to reach out.
+    I can help.
+  ko: |-
+    어려운 일 있으면 말만 해.
+    내가 해결해 줄 테니까!
+  ja: |-
+    困ったことがあったらいつでも言えよ。
+    俺が解決してやっから！
+c281_Lobby_Touch_Love_3:
+  en: |-
+    I will be with you forever,
+    that I can promise you.
+  ko: |-
+    약속할게.
+    평생 함께하기로!
+  ja: |-
+    約束する。
+    一生一緒にいるってな！
+c281_Lobby_Stay_1:
+  en: Cadet! Where are you?
+  ko: |-
+    동생--!
+    어디 갔어--!
+  ja: |-
+    おーい！
+    どこだー！？
+c281_Lobby_Stay_Love_1:
+  en: I'll never abandon you, no matter what happens.
+  ko: |-
+    난 동생을 버리고 가지 않아.
+    무슨 일이 있어도!
+  ja: |-
+    俺はお前を捨てねえよ。
+    どんなことがあっても！
+c281_Outpost_Touch_1:
+  en: |-
+    Are you calling for me, Cadet?
+    What's the matter?
+  ko: |-
+    동생이 날 부른 거야?
+    무슨 일이지?
+  ja: |-
+    呼んだか？
+    どうした？
+c281_Outpost_Touch_2:
+  en: |-
+    What a lovely place!
+    I ought to bring my subordinates here for a tour later.
+  ko: |-
+    여기 좋다!
+    부하 녀석들도 데리고 와야겠어!
+  ja: |-
+    ここ、いいな！
+    牡丹会の仲間も 連れてこねえと！
+c281_Outpost_Touch_3:
+  en: |-
+    You want to show me around?
+    Okay!
+  ko: |-
+    동생이 안내해 주려고?
+    좋지!
+  ja: |-
+    弟が案内してくれんのか？
+    頼んだぞ！
+c281_Gacha_Get_1:
+  en: |-
+    I'm Moran, the leader of the Peony Association.
+    Starting from today, you are my Cadet.
+  ko: |-
+    모란회 보스 목단이다!
+    오늘부터 널 내 동생으로 삼겠어.
+  ja: |-
+    牡丹会のボス、モランだ！
+    今日から俺の弟にしてやるよ。
+c281_Reinforce_1:
+  en: Anyone who messes with you will have to answer to me.
+  ko: 동생을 괴롭히는 사람이 있으면 가만두지 않겠어.
+  ja: 俺の弟をいじめる奴がいたらタダじゃおかねえ。
+c281_Reinforce_2:
+  en: Oh! I feel stronger!
+  ko: 오오! 힘이 세진 게 느껴져!
+  ja: おお！力が強くなった気がするぜ！
+c281_Reinforce_3:
+  en: Your safety is my top priority.
+  ko: 내가 책임지고 지켜줄게!
+  ja: 俺が責任持って守ってやる！
+c281_Gift_1:
+  en: |-
+    Huh? Is this for me?
+    Er... Thank you!
+  ko: |-
+    엉? 나 주는 거야?
+    어… 잘 쓸게!
+  ja: |-
+    あん？俺にくれんの？
+    えっと…ありがとな！
+c281_Gift_2:
+  en: |-
+    Your generosity makes me feel a bit embarrassed.
+    What could I possibly give in return?
+  ko: |-
+    이렇게 받기만 하니까 좀 미안한데.
+    동생은 갖고 싶은 거 없어?
+  ja: |-
+    もらってばっかで悪いな。
+    弟はなんか欲しいもんねえの？
+c281_Gift_3:
+  en: "Where did you get something so nice? \nThanks so much."
+  ko: |-
+    이런 좋은 걸 어디서 구한 거야?
+    진짜 고마워, 동생.
+  ja: |-
+    こんないいもん、どこで手に入れたんだ？
+    マジでありがとな。
+c281_Attractive_Up_1:
+  en: Are you trying to suck up to me?
+  ko: |-
+    뭐야, 동생!
+    지금 나한테 아부하는 거야?
+  ja: |-
+    何だよ、弟！
+    俺にゴマすってんのか？
+c281_Attractive_Up_2:
+  en: |-
+    My heart is always beating whenever you're around.
+    Then again, I suppose that's what a heart is supposed to do.
+  ko: |-
+    요즘 심장이 자주 뛰어.
+    아, 심장은 원래 뛰는 거였던가?
+  ja: |-
+    最近、心臓がドキドキしてるんだ。
+    あ、心臓ってそういうもんだっけ？
+c281_Attractive_Up_3:
+  en: |-
+    Thank you for trusting me.
+    I'll make sure it does not go misplaced.
+  ko: |-
+    믿어줘서 고마워.
+    동생의 믿음에 꼭 보답할게!
+  ja: |-
+    信じてくれて、ありがとな。
+    その期待に応えてみせるぜ！
+c281_Party_Deploy_1:
+  en: Leave it to me!
+  ko: 나한테 맡겨둬!
+  ja: 俺に任せろ！
+c281_Field_Touch_1:
+  en: Let's go!
+  ko: 동생, 가자!
+  ja: おい、行くぞ！
+c281_Field_Go_1:
+  en: Loyalty! Loyalty! Loyalty!
+  ko: 의리! 의리! 의리!
+  ja: 義理！人情！仁義！
+c281_Battle_Enter_1:
+  en: Let's show them how powerful we are!
+  ko: 우리 힘을 한 번 보여주자고!
+  ja: 俺たちの力を見せてやろうぜ！
+c281_Battle_Ready_1:
+  en: Let's go, guys!
+  ko: 가자, 이 녀석들아!
+  ja: 行くぞ、てめえら！
+c281_Battle_Ready_2:
+  en: Stay safe. Don't die out there!
+  ko: 몸조심해. 죽으면 안 된다?!
+  ja: 気をつけろ。絶対に死ぬなよ！？
+c281_Battle_Ready_3:
+  en: I will knock them all down.
+  ko: 다 쓸어줄게!
+  ja: 一掃してやるよ！
+c281_Reload_1:
+  en: Wait a moment!
+  ko: 잠깐만 기다려!
+  ja: ちょっと待ってな！
+c281_Reload_2:
+  en: Don't give up, everyone!
+  ko: 다들 무너지지 마!
+  ja: みんな、しっかりしやがれ！
+c281_Reload_3:
+  en: I'll be back soon!
+  ko: 금방 복귀할게!
+  ja: すぐ戻る！
+c281_Ult_Skill_Ready_1:
+  en: Shall we?
+  ko: 그럼 가볼까?
+  ja: んじゃ、行くか！
+c281_Ult_Skill_1:
+  en: That's it? Bring forth your full strength!
+  ko: 그게 끝이야? 있는 힘껏 덤벼보라고!
+  ja: それで終わりか？思いっきりかかってこいよ！
+c281_FullBurst_1:
+  en: Trust me and follow my lead!
+  ko: 나만 믿고 따라와!
+  ja: 俺を信じてついてこい！
+c281_Kill_Monster_1:
+  en: This is fun!
+  ko: 오? 오! 오오오!
+  ja: お？お！おおお！
+c281_Kill_Monster_2:
+  en: Aren't I the best?
+  ko: 이 누님이 최고지?!
+  ja: 俺ってサイコーだろ！？
+c281_Kill_Monster_3:
+  en: Haha, did you see that?
+  ko: 하하, 봤어?!
+  ja: はは、見たか！？
+c281_Damage_1:
+  en: Ugh!
+  ko: 윽!
+  ja: うっ！
+c281_Damage_2:
+  en: Agh!
+  ko: 크읏!
+  ja: くうっ！
+c281_Damage_3:
+  en: Ah!
+  ko: 앗!
+  ja: あっ！
+c281_Die_1:
+  en: I'm sorry... I wasn't able to protect you.
+  ko: 동생을 꼭 지키고 싶었는데… 미안해.
+  ja: お前を守りたかったのに…ごめんな。
+c281_Win_1:
+  en: Did you see me out there? I did great!
+  ko: 봤어 동생? 이게 나야!
+  ja: 見たか？これが俺だ！
+281_cv_ja:
+  en: 'CV: Natsu Yorita'
+  ko: 'CV : 요리타 나츠'
+  ja: CV：依田菜津
+281_cv_ko:
+  en: 'CV: Kang Sae-bom'
+  ko: 'CV : 강새봄'
+  ja: CV：カン・セボム
+281_cv_en:
+  en: 'CV: Stephanie Kerbis'
+  ko: 'CV : 스테파니 커비스'
+  ja: CV：Stephanie Kerbis

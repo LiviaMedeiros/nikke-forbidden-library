@@ -1,0 +1,464 @@
+---
+291_name:
+  en: Ether
+  ko: 에테르
+  ja: エーテル
+c291_description:
+  en: A mad scientist who believes that science is the domain of humankind. She can
+    often be seen carrying out all manner of experiments and overseeing the lives
+    of her fellow M.M.R. members.
+  ko: "과학은 인류를 위해.\n이 말을 위해서라면 어떠한 실험도 가리지 않는 매드 사이언티스트. \nM.M.R. 스쿼드에서 생명 공학을 담당하고
+    있다."
+  ja: |-
+    科学は人類のために。この言葉のためなら、
+    如何なる実験にも挑戦するマッドサイエンティスト。
+    M.M.R.部隊で生命工学を担当している。
+291_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50291:
+  en: Ether's Spare Body
+  ko: 에테르 스페어 바디
+  ja: エーテルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+12912_name:
+  en: Prognostic Response Experiment
+  ko: 예후 반응 실험
+  ja: 副反応実験
+12912_description:
+  en: "■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group>
+    DEF.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as damage.</color> \n■ Affects the same enemy unit(s). Activates during Full
+    Burst.\n<color=#00AEFF>DEF ▼ {description_value_03}% for {description_value_04}
+    sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+    ■ 풀 버스트 타임 지속 시간 중 발동 시 동일 적 대상에게
+    <color=#00AEFF>[방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    ■フルバーストタイム持続中に発動した時、同じ敵に
+    <color=#00AEFF>「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+12911_name:
+  en: Corrosive Bullets
+  ko: 부식물질 탑재탄환
+  ja: 腐蝕物質搭載弾丸
+12911_description:
+  en: "■ Affects {description_value_01} allies with the lowest remaining HP. \n<color=#00AEFF>Damage
+    Taken ▼ {description_value_02}% for {description_value_03} sec.</color>"
+  ko: |-
+    ■ 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게
+    <color=#00AEFF>[받는 대미지 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■残りのHPの数値が最も低い味方{description_value_01}機に
+    <color=#00AEFF>「受けるダメージ{description_value_02}％▼」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12913_name:
+  en: Colossal Single Cell
+  ko: 초거대 단세포
+  ja: 超巨大単細胞
+12913_description:
+  en: |-
+    ■ Affects {description_value_01} ally unit(s) with the lowest remaining HP.
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_03} sec.</color>
+  ko: |-
+    ■ 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% <word_group=10023>보호막</word_group>] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■残りのHPの数値が最も低い味方{description_value_01}機に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％の
+    <word_group=10023>バリア</word_group>」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+290_name:
+  en: Mana
+  ko: 마나
+  ja: マナ
+c291_Lobby_Touch_1:
+  en: What is our experiment for today, No. 7?
+  ko: 7호. 오늘은 무슨 실험하면서 놀까?
+  ja: 7号。今日は何の実験して遊ぼうか？
+c291_Lobby_Touch_2:
+  en: How's the medicine? No bleeding, I hope?
+  ko: |-
+    전에 준 약은 어땠어?
+    출혈은 없었지?
+  ja: |-
+    この前渡した薬はどうだった？
+    出血とかはなかった？
+c291_Lobby_Touch_3:
+  en: Now be good and take your medicine.
+  ko: 아플 땐 약을 먹어야지. 이건 상식이잖아?
+  ja: |-
+    辛い時は薬を飲まなきゃ。
+    常識よ？
+c291_Lobby_Touch_Love_1:
+  en: I can't wait to conduct our experiment together, No. 7.
+  ko: 아… 7호랑 같이 실험하게 될 날이 기대되네.
+  ja: ああ…7号と一緒に実験できる日が早く来るといいな。
+c291_Lobby_Touch_Love_2:
+  en: So you're feeling fine? Too bad, I can't look after you in that case.
+  ko: 어디 아픈데 없지? 아쉽네. 또 아파도 좋았을 텐데….
+  ja: |-
+    具合悪いところはないわよね？
+    残念だわ。また治療してあげたかったのに…
+c291_Lobby_Touch_Love_3:
+  en: If you ever get sick, don't take any medicine. Just come and find me and I'll
+    make some for you.
+  ko: 아플 땐 약 먹지 말고 나한테 와. 내가 만들어 줄게.
+  ja: |-
+    具合が悪い時は薬を飲む前に私のところへ来て。
+    いい薬、作ってあげるから。
+c291_Lobby_Stay_1:
+  en: Is that all? I should be going then.
+  ko: 아무것도 안 할 거면 나 먼저 가봐도 돼?
+  ja: 何もしないなら私、もう行っていい？
+c291_Lobby_Stay_Love_1:
+  en: We don't have to do anything special. I just enjoy watching you.
+  ko: 아무것도 안 해도 돼. 널 관찰하고 있는 것도 즐거우니까.
+  ja: |-
+    何もしなくてもいいわ。
+    あなたを観察するのも楽しいから。
+c291_Outpost_Touch_1:
+  en: Don't mind the smell. Everything's fine in the library.
+  ko: |-
+    도서관에서 이상한 냄새가 나도 신경 쓰지 마.
+    별일 아니니까.
+  ja: |-
+    図書館から 変な臭いがしても 気にしないで。
+    何でもないから。
+c291_Outpost_Touch_2:
+  en: |-
+    Any wild animals around here?
+    I'm cooking up a great experiment.
+  ko: |-
+    야생동물 같은 건 여기 없어?
+    한 번 실험해 보고 싶은데.
+  ja: |-
+    ここには 野生動物とかは いないの？
+    ちょっと実験してみたいのに。
+c291_Outpost_Touch_3:
+  en: Come to the library if you want some supplements.
+  ko: 영양제가 필요하면 도서관으로 와.
+  ja: 栄養剤が欲しかったら 図書館に来て。
+c291_Gacha_Get_1:
+  en: This shot will make you stronger.
+  ko: |-
+    강해지고 싶어?
+    그럼 이 주사 한방 맞아볼래?
+  ja: |-
+    強くなりたい？
+    だったらこの注射打ってみない？
+c291_Reinforce_1:
+  en: Some enhancements here... and then... perfect.
+  ko: 여기에 강화제를 믹스하면… 딱 좋겠네.
+  ja: ここに強化剤を混ぜれば…ちょうどいいかも。
+c291_Reinforce_2:
+  en: Well, I'm an intellectual after all...
+  ko: 아… 난 두뇌판데.
+  ja: あ…私は頭脳派なんだけど。
+c291_Reinforce_3:
+  en: I'm stronger now, although that may spell trouble for me.
+  ko: 강해졌네… 아, 더 귀찮아 지겠다.
+  ja: 強くなった…あ、でももっと面倒なことになりそう。
+c291_Gift_1:
+  en: That's good, but... what's up with you?
+  ko: 좋긴 한데… 무슨 일 있어?
+  ja: 悪くはないけど…どうかしたの？
+c291_Gift_2:
+  en: How am I supposed to take it back? Well, thanks anyway.
+  ko: 음… 들고 가긴 귀찮겠지만 고마워.
+  ja: う～ん…持って帰るのがちょっと面倒だけど、ありがとう。
+c291_Gift_3:
+  en: It's only a gift, right?
+  ko: 정말 순수한 선물인 거, 맞지?
+  ja: このプレゼント…本当に、下心のない純粋なプレゼントなのよね？
+c291_Attractive_Up_1:
+  en: Take care of yourself, my precious No. 7.
+  ko: |-
+    항상 건강해야 해.
+    나의 소중한 실험체 7호.
+  ja: |-
+    いつも健康第一よ。
+    私の大事な実験体7号。
+c291_Attractive_Up_2:
+  en: It's amazing... the more I observe you, the more intriguing you become.
+  ko: 7호는 정말 보고 또 봐도 재미있어. 그게 신기하단 말야.
+  ja: |-
+    7号は何度会っても飽きないわ。
+    どうしてかしら？
+c291_Attractive_Up_3:
+  en: No. 7, you can never ever leave me. Got it?
+  ko: 7호, 나랑 오래오래 함께 해야 해. 알겠지?
+  ja: 7号、ずっと私と一緒にいるのよ？分かった？
+c291_Party_Deploy_1:
+  en: Combat is not my strong suit...
+  ko: 아~ 전투는 전공이 아닌데.
+  ja: あ～戦闘は専門外なのに。
+c291_Field_Touch_1:
+  en: Do I really have to?
+  ko: 뭐야. 명령하게?
+  ja: 何なの。命令？
+c291_Field_Go_1:
+  en: Sure, why not?
+  ko: 아, 예. 갑니다.
+  ja: あ、はい。行きます。
+c291_Battle_Enter_1:
+  en: I suppose this can help me vent.
+  ko: 이왕 온 거 짜증이나 풀고 갈까?
+  ja: せっかく来たんだしストレス解消でもしていこうかな？
+c291_Battle_Ready_1:
+  en: Oh yes, you'll make for wonderful guinea pigs.
+  ko: 너희는 내 스트레스 해소용 모르모트야.
+  ja: あなたたちは、私のストレス解消用モルモットよ。
+c291_Battle_Ready_2:
+  en: Perfect for my experiment.
+  ko: 잘 됐네. 실험해 볼게 있었는데.
+  ja: |-
+    ちょうどいいわ。
+    実験してみたいことがあったの。
+c291_Battle_Ready_3:
+  en: Ready to meet your demise?
+  ko: 그래서, 누구부터 망가질래?
+  ja: だから、誰が最初に壊れてみちゃう？
+c291_Reload_1:
+  en: Reloading.
+  ko: 장전할게.
+  ja: 装填するね。
+c291_Reload_2:
+  en: Why does this always have to happen to me?
+  ko: 아, 이게 뭔 고생이람.
+  ja: ああ、何でこんな思いしなきゃなんないの。
+c291_Reload_3:
+  en: One moment, I'll be right back.
+  ko: 기다려. 곧 가니까.
+  ja: 待ってて。すぐに行くから。
+c291_Ult_Skill_Ready_1:
+  en: I know what I have to do next.
+  ko: 할 게 생각났어.
+  ja: いいこと思いついた。
+c291_Ult_Skill_1:
+  en: There's no need to be afraid. This is good for you.
+  ko: 왜, 무서워? 이거 정말 몸에 좋은 거라니까?
+  ja: どうしたの、怖いの？これ本当に体にいいのよ？
+c291_FullBurst_1:
+  en: You're wasting my time. Let's get this over with.
+  ko: 얼른 끝내자. 나한텐 시간 낭비라서.
+  ja: 早く終わらせましょ。私は暇じゃないの。
+c291_Kill_Monster_1:
+  en: Nice.
+  ko: 나이스.
+  ja: ナイス。
+c291_Kill_Monster_2:
+  en: Good shot.
+  ko: 굿 샷.
+  ja: グッドショット。
+c291_Kill_Monster_3:
+  en: Broken?
+  ko: 망가졌네?
+  ja: 壊れちゃったね？
+c291_Damage_1:
+  en: Damn.
+  ko: 짜증.
+  ja: イライラ。
+c291_Damage_2:
+  en: Agh.
+  ko: 아.
+  ja: あ。
+c291_Damage_3:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c291_Die_1:
+  en: This is why I detest fighting.
+  ko: 이래서 전투는 싫다니까….
+  ja: だから戦闘は嫌いだって言ったのよ…
+c291_Win_1:
+  en: This experiment was a great success. Now, who's next?
+  ko: 실험은 대성공. 그럼 다음엔….
+  ja: 実験は大成功。じゃあ今度は…
+291_cv_ja:
+  en: 'CV: Sayaka Senbongi'
+  ko: 'CV : 센본기 사야카'
+  ja: CV：千本木彩花
+291_cv_ko:
+  en: 'CV: Bang Siu'
+  ko: 'CV : 방시우'
+  ja: CV：バン・シウ
+291_cv_en:
+  en: 'CV: Lisa Ortiz'
+  ko: 'CV : 리사 오티즈'
+  ja: CV：Lisa Ortiz

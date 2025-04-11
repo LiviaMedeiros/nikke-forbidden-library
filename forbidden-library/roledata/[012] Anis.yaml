@@ -1,0 +1,468 @@
+---
+12_name:
+  en: Anis
+  ko: 아니스
+  ja: アニス
+c012_description:
+  en: A girl that knows exactly how to survive in this forlorn world. Somewhere in
+    between somber Rapi and off-the-wall Neon, she is fond of telling jokes to lighten
+    the mood whenever things get too tense.
+  ko: "절망적인 세계에서 살아가는 법을 알아버린 소녀. \n진지한 라피와 엉뚱한 네온을 잇는, 카운터스 스쿼드의 무드 메이커."
+  ja: |-
+    絶望的な世界で生き抜くすべを知ってしまった少女。
+    真面目なラピと天然なネオンをつなぐ、
+    カウンターズ部隊のムードメーカー。
+12_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50012:
+  en: Anis' Spare Body
+  ko: 아니스 스페어 바디
+  ja: アニスのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+10122_name:
+  en: C.H. Formation
+  ko: 포메이션 C.H
+  ja: フォーメーションC.H
+10122_description_1:
+  en: "■ Affects self and 2 allies with the highest <word_group=10025>final</word_group>
+    ATK (except caster). \n<color=#00AEFF>DEF ▲ {description_value_01}% for {description_value_02}
+    sec. \n<word_group=10044>Equally shares damage taken</word_group> for {description_value_03}
+    sec.</color>"
+  ko: |-
+    ■ 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 2기에게
+    <color=#00AEFF>[방어력 {description_value_01}% ▲ ] [{description_value_02}초 유지]
+    [<word_group=10044>받는 대미지 균등 분배</word_group>] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■自分と自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方2機に
+    <color=#00AEFF>「防御力{description_value_01}％▲」「{description_value_02}秒間維持」
+    「<word_group=10044>受けるダメージ均等分配</word_group>」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20121_name:
+  en: D.H. Formation
+  ko: 포메이션 D.H
+  ja: フォーメーションD.H
+20121_description:
+  en: |-
+    ■ Activates when attacked {description_value_01} time(s). Affects self.
+    <color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ {description_value_01}회 피격 시 자신에게
+    <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■{description_value_01}回攻撃を受けた時、自分に
+    <color=#00AEFF>「防御力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10123_name:
+  en: Pinpoint Missile
+  ko: 핀 포인트 미사일
+  ja: ピンポイントミサイル
+10123_description_1:
+  en: |-
+    ■ Affects <word_group=10020>enemies within attack range</word_group>.
+    Deals <color=#00AEFF>{description_value_01}% of <word_group=10025>final</word_group> ATK as damage.
+    DEF ▼ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지]
+    [방어력 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」
+    「防御力{description_value_02}％▼」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+14_name:
+  en: 'Neon: Blue Ocean'
+  ko: '네온 : 블루 오션'
+  ja: ネオン：ブルーオーシャン
+15_name:
+  en: 'Anis: Sparkling Summer'
+  ko: '아니스 : 스파클링 서머'
+  ja: アニス：スパークリングサマー
+16_name:
+  en: 'Rapi: Red Hood'
+  ko: '라피 : 레드 후드'
+  ja: ラピ：レッドフード
+10_name:
+  en: Rapi
+  ko: 라피
+  ja: ラピ
+11_name:
+  en: Neon
+  ko: 네온
+  ja: ネオン
+c012_Lobby_Touch_1:
+  en: Actually believe in others? Now that's a good joke.
+  ko: 믿는 버릇을 들이라고? 하하. 농담도.
+  ja: |-
+    信じる癖をつけろって？
+    あはは。冗談よしてよ。
+c012_Lobby_Touch_2:
+  en: Any missions that are a cakewalk?
+  ko: 어디 쉽고 편한 임무라도 들어왔어?
+  ja: ちゃちゃっとできちゃう任務でもあるの？
+c012_Lobby_Touch_3:
+  en: Do not worry, Commander, we will protect you.
+  ko: 걱정 마. 지휘관님은 우리가 지키니까.
+  ja: |-
+    心配しないで。
+    指揮官様は私たちが守るから。
+c012_Lobby_Touch_Love_1:
+  en: Let's share a soda next time!
+  ko: 지휘관님. 다음에도 같이 탄산수 마실까?
+  ja: |-
+    指揮官様。
+    また次も一緒に炭酸水飲む？
+c012_Lobby_Touch_Love_2:
+  en: You're the only human that I trust. I'm begging you, don't betray us.
+  ko: 다른 인간은 몰라도 지휘관님은 믿어. 그러니까 변하면 안 돼.
+  ja: |-
+    他の人間はさておき、指揮官様だけは信じてる。
+    これからも変わらないでね。
+c012_Lobby_Touch_Love_3:
+  en: Wanna hang out again? I can be your tour guide.
+  ko: 저번처럼 둘이서 어디 놀러 갈래? 내가 또 안내해 줄게.
+  ja: |-
+    この前みたいに2人で遊びに行かない？
+    また案内してあげるから。
+c012_Lobby_Stay_1:
+  en: "*Yawn* booorrrring! Sitting around doing nothing is no fun."
+  ko: 아~ 심심해. 아무것도 안 하고 있는 것도 좋지만은 않네.
+  ja: |-
+    あ～何かすることないかな。
+    やることがなさすぎるのも問題ね。
+c012_Lobby_Stay_Love_1:
+  en: Well... I suppose looking at your face isn't so bad.
+  ko: 흠… 이렇게 지휘관님을 보고만 있는 것도 나쁘진 않네.
+  ja: あ…指揮官様をひたすら見続けるのも悪くないかも。
+c012_Outpost_Touch_1:
+  en: Splish splash, I'm takin' a bath!
+  ko: 샤워~샤워~샤워~
+  ja: シャワ～、シャワ～、シャワ～
+c012_Outpost_Touch_2:
+  en: Cleaning the house doesn't actually make it much cleaner...
+  ko: 숙소 말이야. 치워도 치워도 깨끗해지지 않는단 말이지….
+  ja: 宿所なんだけどさ、 いくら片付けても きれいにならないのよ…
+c012_Outpost_Touch_3:
+  en: The air here is nice. Too bad that's the only thing that's nice.
+  ko: 여기 공기는 좋아. 문제는 공기만 좋다는 거지.
+  ja: |-
+    ここは空気がいいわ。
+    問題は空気だけが いいってこと。
+c012_Gacha_Get_1:
+  en: Nicely done! Where to next?
+  ko: 좋았어! 그럼 어디 한번 힘내서 가볼까?
+  ja: おっしゃ～！さてさて、元気一杯行ってみよー！
+c012_Reinforce_1:
+  en: Well done! I'm stronger!
+  ko: 좋아! 강해졌다!
+  ja: よし！強くなったよ！
+c012_Reinforce_2:
+  en: I'm going to be the best, right?
+  ko: 이러다 최강 되는 거 아냐?
+  ja: この調子で最強になっちゃったりして？
+c012_Reinforce_3:
+  en: Anis-- Level-- Up!
+  ko: 아니스-- 레벨-- 업!
+  ja: アニス～ レベル～ アップ！
+c012_Gift_1:
+  en: Wow! Is this... for me?
+  ko: 오. 나 주는 거야? 진짜?
+  ja: え？私にくれるの？マジ？
+c012_Gift_2:
+  en: Oh my gosh oh my gosh, is this a gift?
+  ko: 세상에 이게 뭐야? 선물이라고?
+  ja: うっそー！プレゼント？
+c012_Gift_3:
+  en: You have my eternal loyalty, Commander.
+  ko: 영원히 충성하겠습니다, 지휘관님.
+  ja: 永遠の忠誠を誓います、指揮官様。
+c012_Attractive_Up_1:
+  en: Well... getting overly attached may be dangerous.
+  ko: 음… 너무 빠지면 위험한데.
+  ja: う～ん…あんまり抜けると危ないんだけど。
+c012_Attractive_Up_2:
+  en: So intense... what are these emotions I'm feeling?
+  ko: 와… 어떻게 더 좋아질 수가 있지?
+  ja: |-
+    わお…
+    もっと好きになっちゃった！？
+c012_Attractive_Up_3:
+  en: My heart's beating so fast!
+  ko: 뭐야, 왜 이렇게 설레! 왜 이렇게 두근거려!
+  ja: |-
+    やだ、何でこんなにときめいちゃうのよ！
+    ドキドキしすぎだってば、私！
+c012_Party_Deploy_1:
+  en: My turn? I suppose I'll have to finish this up.
+  ko: 출격이야? 할 수 없네.
+  ja: 出撃するの？しょうがないなぁ。
+c012_Field_Touch_1:
+  en: What is it Commander?
+  ko: 어. 지휘관님. 왜?
+  ja: あ、指揮官様。どうしたの？
+c012_Field_Go_1:
+  en: OK. Moving!
+  ko: OK. 이동할게.
+  ja: OK。移動するね。
+c012_Battle_Enter_1:
+  en: Show me all you got!
+  ko: 그래그래. 어디 다 덤벼봐.
+  ja: はいはい。かかってきなさい。
+c012_Battle_Ready_1:
+  en: What should the first target be?
+  ko: 자, 누구부터 쏴줄까?
+  ja: さてさて、誰から撃ってあげようかな？
+c012_Battle_Ready_2:
+  en: Position OK! Starting right away!
+  ko: 포지션 OK! 바로 시작할게!
+  ja: ポジションOK！すぐに始めるわよ！
+c012_Battle_Ready_3:
+  en: Ugh, you idiots.
+  ko: 어휴, 지긋지긋한 놈들.
+  ja: ふぅ、うんざりする連中だわ。
+c012_Reload_1:
+  en: Reloading! Cover me!
+  ko: 커버해 줘!
+  ja: フォローお願い！
+c012_Reload_2:
+  en: Reload! Reload! Reload!
+  ko: 장전할게!
+  ja: 装填するね！
+c012_Reload_3:
+  en: With all this modern technology, reloading seems so obsolete.
+  ko: 아오 시대가 어떤 시댄데 일일이 장전을…!
+  ja: もうっ。この時代に一個ずつ装填しないといけないなんて…！
+c012_Ult_Skill_Ready_1:
+  en: Shall we?
+  ko: 가볼까?
+  ja: 行っちゃう？
+c012_Ult_Skill_1:
+  en: Let's get this party started!
+  ko: 한바탕 놀아보자고-!!
+  ja: ひと遊びしちゃおー！！
+c012_FullBurst_1:
+  en: Ouch!
+  ko: 으랴아아압-!!
+  ja: うりゃあああー！！
+c012_Kill_Monster_1:
+  en: I got it!
+  ko: 잡았다!
+  ja: 捕まえた！
+c012_Kill_Monster_2:
+  en: Nice!
+  ko: 나이스!
+  ja: ナイス！
+c012_Kill_Monster_3:
+  en: Well done!
+  ko: 좋았으!
+  ja: でかした！
+c012_Damage_1:
+  en: Oof!
+  ko: 아이고!
+  ja: ああっ！
+c012_Damage_2:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c012_Damage_3:
+  en: Ouch!
+  ko: 악!
+  ja: きゃっ！
+c012_Die_1:
+  en: Sorry, I'm retreating!
+  ko: 미안, 퇴각할게!
+  ja: ごめん、退却するね！
+c012_Win_1:
+  en: Well, that was easy.
+  ko: 뭐, 간단한 일이지.
+  ja: ふん、朝飯前よ。
+12_cv_ja:
+  en: 'CV: Miho Okasaki'
+  ko: 'CV : 오카사키 미호'
+  ja: CV：岡咲美保
+12_cv_ko:
+  en: 'CV : Kim Seong-hui'
+  ko: 'CV : 김성희'
+  ja: CV：キム・ソンヒ
+12_cv_en:
+  en: 'CV: Michelle Marie'
+  ko: 'CV : 미셸 마리'
+  ja: CV：Michelle Marie

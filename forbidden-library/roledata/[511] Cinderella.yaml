@@ -1,0 +1,776 @@
+---
+511_name:
+  en: Cinderella
+  ko: 신데렐라
+  ja: シンデレラ
+c511_description:
+  en: |-
+    One of the second generation Grimms Models created as a successor to the Goddess Squad.
+    Although her specifications surpass that of the Goddess Squad, she was not deployed in actual battles due to corruption.
+    After receiving treatment, she has been fighting alone with zero support to overcome the stigma of being humanity's enemy.
+  ko: |-
+    갓데스 스쿼드의 후속기로 만들어진 2세대 페어리 테일 모델 중 한 명.
+    갓데스를 상회하는 스펙으로 제작되었으나, 침식을 당해 실전에 투입되지 못했다.
+    침식이 치료된 이후, 아무런 지원을 받지 못한 채 인류의 적이었다는 오명을 다시 쓰기 위해 고군분투 중이다.
+  ja: |-
+    ゴッデス部隊の後継機である第2世代フェアリーテールモデルの1人。
+    ゴッデスを上回るスペックを持つが、
+    侵食され、実戦には投入されなかった。
+    侵食が治療された後は人類の敵だったという
+    汚名を雪ぐため孤軍奮闘している。
+511_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_511:
+  en: Cinderella's Spare Body
+  ko: 신데렐라 스페어 바디
+  ja: シンデレラのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up_c511:
+  en: |-
+    ■ Affects target(s).
+    Fires a laser to perform a small-range attack.
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    레이저를 발사하여 좁은 범위를 공격합니다.
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    レーザーを発射して狭い範囲を攻撃する
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+25112_name:
+  en: Dirt-Resistant Mirror
+  ko: 더러워지지 않는 거울
+  ja: 曇りなき鏡
+25112_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP continuously.</color>
+    ■ Activates when entering Burst Skill Stage 3. Affects self.
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP continuously.</color>
+    ■ Activates <word_group=10056>when decoy exists</word_group>. Affects self every {description_value_04} sec.
+    <color=#00AEFF>Beautiful: Max HP ▲ {description_value_02}% continuously, stacks up to {description_value_03} time(s).</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10024>디코이</word_group> : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 분신] [지속]</color>
+    ■ 버스트 3단계 진입 시 자신에게
+    <color=#00AEFF>[<word_group=10024>디코이</word_group> : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 분신] [지속]</color>
+    ■ <word_group=10056>디코이가 있다면</word_group> {description_value_04}초마다 자신에게
+    <color=#00AEFF>[아름다움 : 최대 체력 {description_value_02}% ▲] [{description_value_03} 중첩] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10024>デコイ</word_group>：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の分身」「持続」</color>
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「<word_group=10024>デコイ</word_group>：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の分身」「持続」</color>
+    ■<word_group=10056>デコイが存在する時</word_group>{description_value_04}秒ごとに自分に
+    <color=#00AEFF>「美しさ：最大HP{description_value_02}％▲」
+    「{description_value_03}スタック」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25111_name:
+  en: Flawless Glass
+  ko: 무결한 유리
+  ja: 汚れなきガラス
+25111_description:
+  en: |-
+    ■ Activates when entering Burst Stage 3. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.</color>
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Charge Speed ▲ {description_value_03}%. Removed upon reloading to max ammunition.</color>
+    ■ Activates when hitting a target with Full Charge. Affects the target.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 버스트 3단계 진입 시 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_01}% 만큼 공격력 ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[차지 속도 {description_value_03}% ▲] [최대 장탄 재장전 완료 시 삭제]</color>
+    ■ 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% 추가 대미지]</color>
+  ja: |-
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％分の攻撃力▲」「{description_value_02}秒間維持」</color>
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「チャージ速度{description_value_03}％▲」「最大弾数リロード完了時に解除」</color>
+    ■フルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力{description_value_04}％の追加ダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15113_name:
+  en: Glass Slippers. Full Contact.
+  ko: 유리 구두 풀 컨텍트
+  ja: ガラスの靴・フルコンタクト
+15113_description:
+  en: |-
+    ■ Affects random enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s).</color>
+    ■ Affects the same target(s) when in Beautiful status.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.<word_group=10026>Mirrors the stack count</word_group> of Beautiful.</color>
+  ko: |-
+    ■ 무작위 적들 에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지] [{description_value_02}회 <word_group=10050>순차 공격</word_group>]</color>
+    ■ 자신이 아름다움 상태라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지] [아름다움 <word_group=10026>중첩 복사</word_group>]</color>
+  ja: |-
+    ■ランダムな敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」「{description_value_02}回<word_group=10050>順番に攻撃</word_group>」</color>
+    ■自分が美しさをスタックしている場合、同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の追加ダメージ」「美しさ<word_group=10026>スタックコピー</word_group>」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+514_name:
+  en: Grave
+  ko: 그레이브
+  ja: グレイブ
+513_name:
+  en: Little Mermaid
+  ko: 리틀 머메이드
+  ja: リトルマーメイド
+c511_Lobby_Touch_1:
+  en: |-
+    Oh? Did you need something?
+    I'm a bit preoccupied admiring myself in the mirror right now.
+  ko: |-
+    왜? 할 말이라도 있어?
+    지금은 거울 보느라 바빠.
+  ja: |-
+    何か言いたいことでもあるの？
+    私、鏡を見るのに忙しいの。
+c511_Lobby_Touch_2:
+  en: I don't believe there are enough mirrors here.
+  ko: 여기, 거울이 너무 부족한 것 같은데.
+  ja: ここ、鏡が少なすぎない？
+c511_Lobby_Touch_3:
+  en: It's so beautiful today. I like it.
+  ko: 오늘도 아름다워. 마음에 들어.
+  ja: 今日も美しいわ。いいわね。
+c511_Lobby_Touch_Love_1:
+  en: |-
+    Please try and maintain your current appearance, Prince.
+    If your beauty fades, your audience will abandon you.
+  ko: |-
+    왕자님, 언제나 지금 모습을 유지하도록 해.
+    아름답지 않으면, 관객이 떠나가 버릴 테니까.
+  ja: |-
+    王子様、いつまでも今の姿のままでいて。
+    美しくなければ、観客が去ってしまうから。
+c511_Lobby_Touch_Love_2:
+  en: |-
+    Thank you for awakening me.
+    Because of you, we now have the chance to rewrite our story.
+  ko: |-
+    나를 깨워줘서 고마워.
+    덕분에 우리는 다시 이야기를 쓸 수 있게 되었어.
+  ja: |-
+    私を目覚めさせてくれてありがとう。
+    おかげで私たちは物語を書き直せるわ。
+c511_Lobby_Touch_Love_3:
+  en: |-
+    Be sure to watch our new story through to the end.
+    It is sure to be beautiful.
+  ko: |-
+    왕자님, 우리가 새로 쓸 이야기를 끝까지 지켜봐 줘.
+    분명 아름다울 거야.
+  ja: |-
+    王子様。新たに描く物語を、最後まで見守って。
+    きっと美しいものになるわ。
+c511_Lobby_Stay_1:
+  en: |-
+    Leaving me abandoned like this is hardly a beautiful thing to do.
+    If you have something to say, please do so quickly.
+  ko: |-
+    나를 이렇게 내버려두는 건, 아름답지 않아.
+    용건이 있으면 빨리 얘기하는 게 어때?
+  ja: |-
+    私を放置するなんて、美しくないわ。
+    用事があるならはやくしてちょうだい。
+c511_Lobby_Stay_Love_1:
+  en: |-
+    You are beautiful as well,
+    and beautiful things should always remain in the same place.
+  ko: |-
+    왕자님도 아름답구나.
+    역시 아름다운 건 같은 장소에 있어야만 해.
+  ja: |-
+    王子様も美しいわね。
+    やっぱり美しい存在は集まるものね。
+c511_Outpost_Touch_1:
+  en: |-
+    This is a beautiful place, I like it.
+    All we have to do is install a lot of mirrors.
+  ko: |-
+    아름다운 곳이야, 마음에 들어.
+    거울만 더 많이 두면 되겠어.
+  ja: |-
+    美しい場所ね。気に入ったわ。
+    鏡がたくさんあれば、 もっといいのだけれど。
+c511_Outpost_Touch_2:
+  en: How about outfitting all the buildings with mirrors?
+  ko: 모든 건물을 거울로 다시 짓는 건 어때?
+  ja: 床も壁も天井も、鏡張りにしない？
+c511_Outpost_Touch_3:
+  en: It feels wonderful to walk amongst this place.
+  ko: 이곳을 걷고 있는 나, 너무 아름다워.
+  ja: 歩いている私、とても美しいわ。
+c511_Gacha_Get_1:
+  en: |-
+    Who do you think is the most beautiful person in the world?
+    No need to answer, for I already know.
+  ko: |-
+    왕자님, 이 세상에서 가장 아름다운 건 누구라고 생각해?
+    대답은 괜찮아, 안 들어도 알고 있거든.
+  ja: |-
+    王子様、この世で一番美しいのは誰？
+    返事はいらないわ、聞かなくても分かるから。
+c511_Reinforce_1:
+  en: I feel as though my beauty has reached new heights.
+  ko: 아름다움이 더 채워진 것 같아.
+  ja: 美しさで満たされたようだわ。
+c511_Reinforce_2:
+  en: My Glass Slippers have become so clean, so majestic.
+  ko: 유리 구두가 깨끗해졌네, 아름다워.
+  ja: |-
+    ガラスの靴がきれいになったわ。
+    ああ、美しい。
+c511_Reinforce_3:
+  en: My body feels so much lighter. We should go out at once.
+  ko: 몸이 가벼워졌어, 바로 나가볼까?
+  ja: 体が軽くなったわ。さっそく行きましょう。
+c511_Gift_1:
+  en: Thank you, but a mirror would have been even better.
+  ko: 고마워. 거울이었다면 더 좋았을 텐데.
+  ja: ありがとう。鏡のほうが嬉しいけれど。
+c511_Gift_2:
+  en: |-
+    You’re really great at finding things that suit me.
+    Of course, everything looks fabulous on me.
+  ko: |-
+    나에게 어울리는 걸 잘 찾는구나.
+    물론, 나는 뭐든 잘 어울리겠지만 말이야.
+  ja: |-
+    私に似合うものを見つけるのが上手ね。
+    もちろん、私は何でも似合うけど。
+c511_Gift_3:
+  en: It's a beautiful present. Thank you.
+  ko: 아름다운 선물이야. 잘 받을게.
+  ja: 美しいプレゼントだわ。ありがとう。
+c511_Attractive_Up_1:
+  en: |-
+    You’re becoming more beautiful by the day.
+    Would you like to look in the mirror and see just how ravishing you've become?
+  ko: |-
+    왕자님은 점점 더 아름다워지네.
+    거울로 볼래? 스스로가 얼마나 아름다운지?
+  ja: |-
+    王子様は見るたびに美しくなるわね。
+    自分がどれほど美しいか、鏡で見てみる？
+c511_Attractive_Up_2:
+  en: Our story, as well as yours, is bound to be beautiful.
+  ko: 우리와 왕자님의 이야기도, 분명 아름답겠지.
+  ja: 私と王子様の物語も、きっと美しいでしょうね。
+c511_Attractive_Up_3:
+  en: I now know what it feels like to be rapturously beautiful.
+  ko: |-
+    눈이 부시게 아름답다는 게 어떤 느낌인지
+    조금은 알 것 같기도 해.
+  ja: |-
+    美しすぎて直視できないって、
+    どういうことか少し分かった気がするわ。
+c511_Party_Deploy_1:
+  en: I will go with you.
+  ko: 함께 가줄게.
+  ja: 一緒に行ってあげる。
+c511_Field_Touch_1:
+  en: Did you call?
+  ko: 불렀어?
+  ja: 呼んだ？
+c511_Field_Go_1:
+  en: It is not becoming to rush. I will go slowly.
+  ko: |-
+    급하게 가는 건 아름답지 않아.
+    천천히 갈게.
+  ja: |-
+    急ぐのは美しくないの。
+    ゆっくり行くわ。
+c511_Battle_Enter_1:
+  en: |-
+    They are humanity's enemy,
+    and so I shall defeat them.
+  ko: |-
+    우리의 적, 인류의 적.
+    쓰러뜨릴게.
+  ja: |-
+    私たちの敵、人類の敵…
+    倒すわよ。
+c511_Battle_Ready_1:
+  en: Let us get off to a beautiful start.
+  ko: 아름답게 시작해 보자.
+  ja: 美しく始めましょ。
+c511_Battle_Ready_2:
+  en: Gaze upon me, my audience.
+  ko: 지켜 봐줘, 나의 관객.
+  ja: 見守っていて、私の観客さん。
+c511_Battle_Ready_3:
+  en: I will clean up neatly and beautifully.
+  ko: 깨끗하고 아름답게 정리할게.
+  ja: きれいに美しく片づけるわ。
+c511_Reload_1:
+  en: Let me check the mirror for a moment.
+  ko: 잠시, 거울 좀 확인할게.
+  ja: ちょっと待っていて。鏡で確かめるから。
+c511_Reload_2:
+  en: There's some dirt on my face.
+  ko: 얼굴에 흙이 묻었잖아.
+  ja: 顔に土がついたじゃない。
+c511_Reload_3:
+  en: Even when I'm preparing, I'm gorgeous.
+  ko: 준비하는 나도 아름답네.
+  ja: 準備中の私も美しいわ。
+c511_Ult_Skill_Ready_1:
+  en: Prince, now is the time.
+  ko: 왕자님, 지금이야.
+  ja: 王子様、今よ。
+c511_Ult_Skill_1:
+  en: Glass Slippers, full contact. Pour out.
+  ko: 유리 구두, 풀 컨텍트. 쏟아내라.
+  ja: ガラスの靴、フルコンタクト。行って。
+c511_FullBurst_1:
+  en: Now is the time of true beauty.
+  ko: 가장 아름다울 시간이야.
+  ja: 一番美しい時間よ。
+c511_Kill_Monster_1:
+  en: All sorted.
+  ko: 정리했어.
+  ja: 片付いたわ。
+c511_Kill_Monster_2:
+  en: There are more?
+  ko: 또 있어?
+  ja: まだいるの？
+c511_Kill_Monster_3:
+  en: Pathetic.
+  ko: 한심해.
+  ja: 情けない。
+c511_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c511_Damage_2:
+  en: How annoying.
+  ko: 번거롭네.
+  ja: 面倒ね。
+c511_Damage_3:
+  en: Urgh!
+  ko: 윽…!
+  ja: くっ…！
+c511_Die_1:
+  en: This is not a beautiful story.
+  ko: 이런 이야기는 아름답지 않아.
+  ja: こんな物語、美しくないわ。
+c511_Win_1:
+  en: What a truly beautiful story this was. I am most pleased with it.
+  ko: 아름다운 이야기였어. 만족스러워.
+  ja: 美しい物語だったわ。大満足よ。
+c511_01_Lobby_Touch_1:
+  en: I feel so... beautiful right now.
+  ko: 지금의 난… 너무 아름다운 것 같아.
+  ja: 今の私は…とても美しいと思うわ。
+c511_01_Lobby_Touch_2:
+  en: |-
+    Amongst this lambent glass, I, too, gleam with brilliance.
+    I am satisfied.
+  ko: |-
+    반짝이는 유리들 속에서, 반짝이는 나.
+    …만족스러워.
+  ja: |-
+    輝くドレスに包まれて、輝く私。
+    …素敵だわ。
+c511_01_Lobby_Touch_3:
+  en: Prince, would you put the glass slippers on me?
+  ko: 왕자님. 내게 유리 구두를 신겨줄래?
+  ja: 王子様。私にガラスの靴を履かせてくれる？
+c511_01_Lobby_Touch_Love_1:
+  en: With you by my side, I'm shining brighter than ever.
+  ko: |-
+    왕자님이 곁에 있어줘서,
+    난 지금 가장 찬란하게 빛나고 있어.
+  ja: |-
+    王子様がそばにいるから、
+    今の私は一番美しく輝いているの。
+c511_01_Lobby_Touch_Love_2:
+  en: |-
+    My Prince,
+    I will become a presence most dazzling to you.
+  ko: |-
+    나의 왕자님.
+    왕자님의 눈 속에서 가장 반짝이는 존재가 되어줄게.
+  ja: |-
+    私の王子様。
+    その瞳の中で、何より輝く存在になってあげるわ。
+c511_01_Lobby_Touch_Love_3:
+  en: |-
+    I shall become even more beautiful.
+    With my glass slippers on, I will stride forward.
+  ko: |-
+    난 더 아름다워질 거야.
+    유리 구두를 신고, 앞으로 나아갈 테니까.
+  ja: |-
+    私はもっと美しくなるわ。
+    ガラスの靴を履いて、前に進むから。
+c511_01_Lobby_Stay_1:
+  en: |-
+    Prince, can you return before midnight?
+    Don't make me wait too long.
+  ko: |-
+    왕자님. 12시가 지나기 전에 돌아와 줄래?
+    날 더 기다리게 하지 말고.
+  ja: |-
+    王子様。魔法が解ける前に帰ってきてくれる？
+    あまり待たせないで。
+c511_01_Lobby_Stay_Love_1:
+  en: |-
+    Even after midnight, I will continue to shine,
+    and it's all because of these glass slippers you gave me.
+  ko: |-
+    왕자님. 12시가 지나도 난 계속 빛 날거야.
+    내겐 왕자님이 준 유리 구두가 있으니까.
+  ja: |-
+    王子様。12時の鐘が鳴っても私は輝き続けるわ。
+    王子様がくれたガラスの靴があるから。
+c511_01_Outpost_Touch_1:
+  en: |-
+    I want to see how beautiful I am right now.
+    Where should I go?
+  ko: |-
+    지금의 내가 얼마나 아름다운지 확인하고 싶어.
+    어디로 가면 될까?
+  ja: |-
+    今の私の美しさを確かめたいの。
+    どこへ行けばいいかしら？
+c511_01_Outpost_Touch_2:
+  en: |-
+    Is this your palace?
+    Where will I stay?
+  ko: |-
+    여기가 왕자님의 궁전이구나.
+    그래서, 내가 머물 곳은 어디야?
+  ja: |-
+    ここが王子様のお城ね。
+    それで、私のお部屋はどこ？
+c511_01_Outpost_Touch_3:
+  en: If you would, please escort me to the place that suits me best.
+  ko: |-
+    왕자님.
+    지금의 나와 가장 잘 어울리는 곳으로 에스코트 부탁할게.
+  ja: |-
+    王子様。
+    今の私に一番ふさわしい場所へ 案内して。
+c511_01_Gacha_Get_1:
+  en: My Prince, I shall greet you in my shining glass slippers.
+  ko: |-
+    나의 왕자님.
+    빛나는 유리 구두를 신고, 왕자님을 맞이하러 갈게.
+  ja: |-
+    私の王子様…
+    輝くガラスの靴を履いて、会いに行くわ。
+c511_01_Reinforce_1:
+  en: I have become more beautiful!
+  ko: 아아… 아름다워졌어.
+  ja: ああ…美しくなったわ。
+c511_01_Reinforce_2:
+  en: For my brilliant self.
+  ko: 찬란한 나를 위해.
+  ja: 輝かしい私のために。
+c511_01_Reinforce_3:
+  en: You have my thanks, Prince.
+  ko: 고생했어. 왕자님.
+  ja: お礼を言うわ。王子様。
+c511_01_Gift_1:
+  en: As expected, your gift to me is the most gorgeous.
+  ko: 역시 왕자님의 선물이, 내겐 가장 아름다워.
+  ja: やっぱり王子様のプレゼントが、私にとっては何より美しいの。
+c511_01_Gift_2:
+  en: Thank you, Prince. I feel more beautiful than I ever have.
+  ko: 고마워, 왕자님. 한층 더 아름다워진 느낌이야.
+  ja: ありがとう、王子様。さらに美しくなった気がするわ。
+c511_01_Gift_3:
+  en: Your gifts always sparkle.
+  ko: "…왕자님의 선물은 언제 봐도 반짝거리네."
+  ja: "…王子様からのプレゼントは、いつ見ても輝いているわ。"
+c511_01_Attractive_Up_1:
+  en: |-
+    I feel like I've been enchanted by a spell...
+    I can't stop thinking about you.
+  ko: |-
+    나쁜 마법에 걸린 느낌이야…
+    요즘 왕자님밖에 생각나지 않아.
+  ja: |-
+    悪い魔法にかかった気分よ…
+    最近、王子様のことしか考えられないの。
+c511_01_Attractive_Up_2:
+  en: I hope to become the most beautiful person in your eyes.
+  ko: 왕자님 눈에 가장 아름다운 사람이 되었으면 좋겠네.
+  ja: 王子様にとって誰よりも美しい人になりたいわ。
+c511_01_Attractive_Up_3:
+  en: Isn't it strange? You seem to shine even more these days.
+  ko: 이상하지… 요즘 왕자님이 더욱 반짝여 보여.
+  ja: おかしいわ…最近、王子様がますます輝いて見えるの。
+c511_01_Party_Deploy_1:
+  en: If you wish it so, Prince, I shall gladly oblige.
+  ko: 왕자님이 원한다면, 기꺼이.
+  ja: 王子様の望みなら、喜んで。
+c511_01_Field_Touch_1:
+  en: I'm listening.
+  ko: 듣고 있어.
+  ja: 聞いているわ。
+c511_01_Field_Go_1:
+  en: Let us move forward with grace and poise.
+  ko: 아름답게 가보자.
+  ja: 美しく行きましょ。
+c511_01_Battle_Enter_1:
+  en: An intruder has arrived.
+  ko: 방해꾼이 왔네.
+  ja: 邪魔者が来るわ。
+c511_01_Battle_Ready_1:
+  en: I won't forgive anyone who disrupts the ball.
+  ko: 무도회를 방해하는 건 용서하지 않아.
+  ja: 舞踏会の邪魔は許さないわ。
+c511_01_Battle_Ready_2:
+  en: I shall wrap this up quickly, before midnight.
+  ko: 12시가 되기 전에, 빠르게 정리할게.
+  ja: 12時の鐘がなる前に、急いで片づけるわ。
+c511_01_Battle_Ready_3:
+  en: There are far too many things that lack beauty.
+  ko: 아름답지 못한 게… 너무 많네.
+  ja: 美しくないものが…多すぎるわ。
+c511_01_Reload_1:
+  en: Just a moment... I'll clean my glass slippers.
+  ko: 잠시만… 유리 구두를 닦고 갈게.
+  ja: 待って…ガラスの靴を磨かないと。
+c511_01_Reload_2:
+  en: Rest assured, beauty remains impervious.
+  ko: 걱정하지 마. 아름다움은 꺾이지 않아.
+  ja: 心配しないで。美しさは壊れないわ。
+c511_01_Reload_3:
+  en: Don't worry, Prince. I'll keep you safe.
+  ko: 안심해, 왕자님. 지켜줄 테니까.
+  ja: 安心して、王子様。守ってあげる。
+c511_01_Ult_Skill_Ready_1:
+  en: Prince, I'm ready.
+  ko: 왕자님. 준비됐어.
+  ja: 王子様。支度ができたわ。
+c511_01_Ult_Skill_1:
+  en: Shine brightly, for my radiant self.
+  ko: 반짝여라. 찬란하게 빛날 나를 위해.
+  ja: 輝いて。美しい私のために。
+c511_01_FullBurst_1:
+  en: Let us all strive to be beautiful.
+  ko: 전력으로 아름다워지자.
+  ja: 力の限り、美しくあって。
+c511_01_Kill_Monster_1:
+  en: Next.
+  ko: 다음.
+  ja: 次。
+c511_01_Kill_Monster_2:
+  en: Begone.
+  ko: 사라져.
+  ja: 消えて。
+c511_01_Kill_Monster_3:
+  en: You're in the way.
+  ko: 방해되네.
+  ja: 目ざわりね。
+c511_01_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: あっ。
+c511_01_Damage_2:
+  en: Ugh.
+  ko: 윽.
+  ja: うっ。
+c511_01_Damage_3:
+  en: Phew...
+  ko: 후우….
+  ja: うう…
+c511_01_Die_1:
+  en: No... I can't end the story like this...
+  ko: 안돼… 이렇게 이야기를 끝낼 수는 없어….
+  ja: ダメ…まだ物語を終わらせるわけには…
+c511_01_Win_1:
+  en: How do I look now, Prince? Am I beautiful?
+  ko: 어때? 왕자님. 지금의 난 아름다워?
+  ja: どう？王子様。今の私は美しい？
+511_cv_ja:
+  en: 'CV: Aoi Yūki'
+  ko: 'CV : 유우키 아오이'
+  ja: CV：悠木碧
+511_cv_ko:
+  en: 'CV: Jeon Hae-ri'
+  ko: 'CV : 전해리'
+  ja: CV：ジョン・ヘリ
+511_cv_en:
+  en: 'CV: Kaitlyn Robrock'
+  ko: 'CV : 케이틀린 로브록'
+  ja: CV：Kaitlyn Robrock

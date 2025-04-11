@@ -1,0 +1,477 @@
+---
+831_name:
+  en: Rei
+  ko: 레이
+  ja: レイ
+c831_description:
+  en: |-
+    Her full name is Rei Ayanami.
+    The pilot of EVA Unit Zero.
+    She's a stoic and quiet girl who gives off an inexplicable sense of artificiality.
+  ko: |-
+    풀네임은 아야나미 레이.
+    EVA 0호기 파일럿.
+    감정을 보이지 않는 과묵한 소녀로 어딘가 인공적인 부분을 느끼게 한다.
+  ja: |-
+    フルネームは綾波レイ。
+    EVA零号機のパイロット。
+    感情を見せない無口な少女で、 どこか人工的な部分を感じさせる。
+831_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_831:
+  en: Rei's Spare Body
+  ko: 레이 스페어 바디
+  ja: レイのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28312_name:
+  en: Attack Support
+  ko: 공격 지원
+  ja: 攻撃支援
+28312_description:
+  en: "■ Activates at the start of the battle. Affects self. \n<color=#00AEFF><word_group=10054>Damage
+    dealt to Shield</word_group> ▲ {description_value_01}% continuously.</color>\n■
+    Activates when entering Burst stage {description_value_02}. Affects all Fire Code
+    allies.\n<color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK for {description_value_04}
+    sec.</color>"
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10054>보호막에 가하는 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 버스트 {description_value_02}단계 진입 시 작열 코드 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10054>バリアに与えるダメージ</word_group>{description_value_01}％▲」「持続」</color>
+    ■バースト{description_value_02}段階突入時、灼熱コードの味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28311_name:
+  en: Preemptive Subdual
+  ko: 선두 제압
+  ja: 先頭制圧
+28311_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates after landing {description_value_04} normal attack(s). Affects the <word_group=10020>enemy within attack range</word_group> nearest to the crosshair.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as damage.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 자신에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 일반 공격 {description_value_04}회 명중 시 조준선에 가장 가까운 <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 대미지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■通常攻撃が{description_value_04}回命中した時、照準線に最も近い<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18313_name:
+  en: 'Annihilation: High Explosives'
+  ko: 섬멸용 고폭탄
+  ja: 殲滅用榴弾
+18313_description:
+  en: |-
+    ■ Affects all Fire Code allies.
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.
+    Attack damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as damage.</color>
+  ko: |-
+    ■ 작열 코드 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]
+    [공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 대미지]</color>
+  ja: |-
+    ■灼熱コードの味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の<word_group=10023>バリア</word_group>」「{description_value_02}秒間維持」
+    「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+830_name:
+  en: Asuka
+  ko: 아스카
+  ja: アスカ
+832_name:
+  en: Mari
+  ko: 마리
+  ja: マリ
+834_name:
+  en: Rei (Tentative Name)
+  ko: 레이 (가칭)
+  ja: レイ（仮称）
+833_name:
+  en: Misato
+  ko: 미사토
+  ja: ミサト
+c831_Lobby_Touch_1:
+  en: Yes?
+  ko: 왜?
+  ja: 何？
+c831_Lobby_Touch_2:
+  en: What's wrong?
+  ko: 왜 그래?
+  ja: どうしたの？
+c831_Lobby_Touch_3:
+  en: What is it?
+  ko: 뭔가 용무라도 있어?
+  ja: 何か用？
+c831_Lobby_Touch_Love_1:
+  en: I need to go back and meet with Ikari.
+  ko: 돌아가서, 이카리 군과 만나야 해.
+  ja: 戻って、碇くんと会わないと。
+c831_Lobby_Touch_Love_2:
+  en: Raptures won't be coming here.
+  ko: 랩쳐는 오지 않네.
+  ja: ラプチャー来ないのね。
+c831_Lobby_Touch_Love_3:
+  en: |-
+    Is there a place to cook here?
+    I'd like to practice.
+  ko: |-
+    주방은 있어?
+    연습, 해두고 싶어.
+  ja: |-
+    キッチンはある？
+    練習、しておきたいの。
+c831_Lobby_Stay_1:
+  en: What is this place?
+  ko: 여긴 뭐야?
+  ja: ここはなに？
+c831_Lobby_Stay_Love_1:
+  en: |-
+    ...
+    What are you doing?
+  ko: |-
+    …….
+    뭐 해?
+  ja: |-
+    ……
+    何をしてるの？
+c831_Outpost_Touch_1:
+  en: It's stuffy here.
+  ko: 답답한 곳.
+  ja: 息苦しい場所。
+c831_Outpost_Touch_2:
+  en: So... there's a library here.
+  ko: 도서관… 있구나.
+  ja: 図書館…あるのね。
+c831_Outpost_Touch_3:
+  en: Where should I go?
+  ko: 어디로 가면 될까?
+  ja: どこに行けばいい？
+c831_Gacha_Get_1:
+  en: I'm Rei Ayanami, the pilot of the Evangelion Unit Zero.
+  ko: |-
+    아야나미 레이.
+    에반게리온 0호기의 파일럿이야.
+  ja: |-
+    綾波レイ。
+    エヴァンゲリオン0号機のパイロット。
+c831_Reinforce_1:
+  en: What is this?
+  ko: "…뭐지?"
+  ja: "…どうなってるの？"
+c831_Reinforce_2:
+  en: This feels strange.
+  ko: 이상한 기분.
+  ja: 変な気分。
+c831_Reinforce_3:
+  en: I think something changed.
+  ko: 뭔가 달라진 것 같아.
+  ja: 何か変わった気がする。
+c831_Gift_1:
+  en: "... This is for me? Why?"
+  ko: "…나한테? 왜?"
+  ja: "…私に？なぜ？"
+c831_Gift_2:
+  en: Why?
+  ko: 왜?
+  ja: なに？
+c831_Gift_3:
+  en: What is... this?
+  ko: 이건… 뭐야?
+  ja: これは…何？
+c831_Attractive_Up_1:
+  en: I will assist you while I'm here.
+  ko: 이곳에 있는 동안은 도울게.
+  ja: ここにいる間は助けるわ。
+c831_Attractive_Up_2:
+  en: Nikke is... no, nevermind.
+  ko: 니케는… 아니, 아무것도 아냐.
+  ja: ニケは…ううん、何でもない。
+c831_Attractive_Up_3:
+  en: It's your task to protect this place?
+  ko: 너희들은 이곳을 지키는 거야?
+  ja: あなたたちはここを守ってるの？
+c831_Party_Deploy_1:
+  en: If that's your order.
+  ko: 명령이라면.
+  ja: 命令なら、そうする。
+c831_Field_Touch_1:
+  en: Yes.
+  ko: 응.
+  ja: うん。
+c831_Field_Go_1:
+  en: Roger.
+  ko: 라져.
+  ja: 了解。
+c831_Battle_Enter_1:
+  en: Engaging the enemy.
+  ko: 전투에 돌입.
+  ja: 戦闘に突入する。
+c831_Battle_Ready_1:
+  en: Target identified.
+  ko: 목표를 포착.
+  ja: 目標を捕捉。
+c831_Battle_Ready_2:
+  en: Target confirmed.
+  ko: 타겟 확인.
+  ja: ターゲット確認。
+c831_Battle_Ready_3:
+  en: Visual established.
+  ko: 왔다.
+  ja: 来た。
+c831_Reload_1:
+  en: Reload.
+  ko: 리로드.
+  ja: リロード。
+c831_Reload_2:
+  en: Reloading.
+  ko: 장전 중.
+  ja: 装填中。
+c831_Reload_3:
+  en: I'll be ready to go again soon.
+  ko: 곧 복귀 가능해.
+  ja: まもなく復帰可能。
+c831_Ult_Skill_Ready_1:
+  en: Preparation complete.
+  ko: 준비 완료.
+  ja: 準備完了。
+c831_Ult_Skill_1:
+  en: It's time. Let's go.
+  ko: 시간이야. 가자.
+  ja: 時間よ、行きましょう。
+c831_FullBurst_1:
+  en: I will keep going.
+  ko: 계속해서 갈게.
+  ja: このまま行くわ。
+c831_Kill_Monster_1:
+  en: You're not going anywhere.
+  ko: 놓치지 않아.
+  ja: 逃がさない。
+c831_Kill_Monster_2:
+  en: Bring it down!
+  ko: 적기 격추.
+  ja: 敵機撃墜。
+c831_Kill_Monster_3:
+  en: Next one.
+  ko: 다음으로.
+  ja: 次。
+c831_Damage_1:
+  en: Urgh!
+  ko: 큿…!
+  ja: くっ…！
+c831_Damage_2:
+  en: Ugh...!
+  ko: 윽…!
+  ja: うっ…！
+c831_Damage_3:
+  en: Ugh...!
+  ko: 읏…!
+  ja: んっ…！
+c831_Die_1:
+  en: It's okay, there are replacements for me.
+  ko: 괜찮아. 대신할 건 있는걸.
+  ja: 大丈夫。代わりはいるもの。
+c831_Win_1:
+  en: Mission accomplished.
+  ko: 작전 완료.
+  ja: 作戦完了。
+831_cv_ja:
+  en: 'CV: Megumi Hayashibara'
+  ko: 'CV : 하야시바라 메구미'
+  ja: CV：林原めぐみ
+831_cv_ko:
+  en: 'CV: Megumi Hayashibara'
+  ko: 'CV : 하야시바라 메구미'
+  ja: CV：林原めぐみ
+831_cv_en:
+  en: 'CV: Megumi Hayashibara'
+  ko: 'CV : 하야시바라 메구미'
+  ja: CV：林原めぐみ

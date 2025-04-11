@@ -1,0 +1,586 @@
+---
+521_name:
+  en: Crust
+  ko: 크러스트
+  ja: クラスト
+c521_description:
+  en: |-
+    The Nikke in charge of cooking in Cooking Oil Squad.
+    Not only has she been conducting endless research to recreate food from the surface perfectly using Splendamin, she also hosts a cooking program.
+    For her, eating is a great pleasure in life, so every meal must be perfect.
+  ko: |-
+    쿠킹오일 스쿼드의 요리 담당 니케.
+    퍼펙트로 지상의 음식 맛을 완벽하게 재현하기 위한 연구를 꾸준히 하고 있으며, 요리 프로그램 진행도 함께 겸하고 있다.
+    먹는 것을 인생의 낙으로 생각하고 있으며, 한 끼를 먹더라도 완벽하게 먹어야 한다.
+  ja: |-
+    クッキングオイル部隊の料理担当ニケ。
+    地上の食べ物の味をパーフェクトで完璧に再現するための
+    研究を常に続けており、料理番組も担当している。
+    食べることが人生の楽しみであり、
+    一食もおろそかにはしない。
+521_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_521:
+  en: Crust's Spare Body
+  ko: 크러스트 스페어 바디
+  ja: クラストのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+25212_name:
+  en: Reliable Cooking
+  ko: 든든한 요리
+  ja: たっぷりクッキング
+25212_description:
+  en: |-
+    ■ Activates after landing {description_value_02} normal attack(s) without Full Charge. Affects all allies not in Reliable Cooking status.
+    <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_03}% of the caster's DEF for {description_value_04} sec.
+    <word_group=10005>Dispels 1 debuff</word_group>.</color>
+    ■ Activates after landing {description_value_06} Full Charge attack(s) for more than {description_value_05} sec. Affects all allies not in Reliable Cooking status.
+    <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_07}% of the caster's DEF for {description_value_08} sec.
+    <word_group=10005>Dispels 1 debuff</word_group>.</color>
+    ■ Activates when entering Full Burst. Affects all targets in Maillard or Blanching status.
+    <color=#00AEFF>ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격이 아닌 일반 공격 {description_value_02}회 공격 시 든든한 요리 상태가 아닌 아군 전체에게
+    <color=#00AEFF>[든든한 요리: 시전자 기준 방어력 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [<word_group=10005>해로운 효과 해제</word_group> 1개]</color>
+    ■ 풀 차지 공격 {description_value_05}초 이상 유지를 {description_value_06}회 실행 시 든든한 요리 상태가 아닌 아군 전체에게
+    <color=#00AEFF>[든든한 요리: 시전자 기준 방어력 {description_value_07}% ▲][{description_value_08}초 유지]
+    [<word_group=10005>해로운 효과 해제</word_group> 1개]</color>
+    ■ 풀 버스트 타임 진입 시 마이야르나 블렌칭 상태인 대상에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_09}% ▲] [{description_value_10}초 유지]</color>
+  ja: |-
+    ■フルチャージではない通常攻撃を
+    {description_value_02}回行った時、
+    たっぷりクッキング状態ではない
+    味方全体に
+    <color=#00AEFF>「たっぷりクッキング：スキル発動者基準で防御力{description_value_03}％▲」「{description_value_04}秒間維持」
+    「<word_group=10005>デバフ効果解除</word_group>1個」</color>
+    ■フルチャージ状態を{description_value_05}秒以上維持して
+    {description_value_06}回攻撃した時、
+    たっぷりクッキング状態ではない
+    味方全体に
+    <color=#00AEFF>「たっぷりクッキング：スキル発動者基準で防御力{description_value_07}％▲」「{description_value_08}秒間維持」
+    「<word_group=10005>デバフ効果解除</word_group>1個」</color>
+    ■フルバーストタイム発動時、メイラード
+    またはブランチング状態の対象に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_09}％▲」
+    「{description_value_10}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25211_name:
+  en: Grill and Boil
+  ko: 굽고, 데치고
+  ja: グリル・アンド・ボイル
+25211_description:
+  en: |-
+    ■ Activates when attacking with Full Charge and self is in Maillard status. Affects all allies.
+    <color=#00AEFF>Maillard <word_group=10051>Duration ▲ {description_value_02} sec</word_group>.</color>
+    ■ Activates when attacking with Full Charge and self is in Blanching status. Affects all allies.
+    <color=#00AEFF>Blanching <word_group=10051>Duration ▲ {description_value_02} sec</word_group>.</color>
+    ■ Activates after landing {description_value_04} normal attack(s) without Full Charge. Affects all allies.
+    <color=#00AEFF>Maillard: ATK ▲ {description_value_05}% of caster's ATK for {description_value_06} sec.
+    Removes Blanching.</color>
+    ■ Activates after landing {description_value_08} Full Charge attack(s) for more than {description_value_07} sec. Affects all allies.
+    <color=#00AEFF>Blanching: ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.
+    Removes Maillard.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 마이야르 상태라면 아군 전체에게
+    <color=#00AEFF>[마이야르 <word_group=10051>유지 시간 {description_value_02}초 ▲</word_group>]</color>
+    ■ 풀 차지 공격 시 블렌칭 상태라면 아군 전체에게
+    <color=#00AEFF>[블렌칭 <word_group=10051>유지 시간 {description_value_02}초 ▲</word_group>]</color>
+    ■ 풀 차지 공격이 아닌 일반 공격 {description_value_04}회 공격 시 아군 전체에게
+    <color=#00AEFF>[마이야르 : 시전자 기준 공격력 {description_value_05}% ▲] [{description_value_06}초 유지]
+    [블렌칭 제거]</color>
+    ■ 풀 차지 공격 {description_value_07}초 이상 유지를 {description_value_08}회 실행 시 아군 전체에게
+    <color=#00AEFF>[블렌칭 : 시전자 기준 공격력 {description_value_09}% ▲] [{description_value_10}초 유지]
+    [마이야르 제거]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、メイラード状態なら味方全体に
+    <color=#00AEFF>「メイラード<word_group=10051>持続時間{description_value_02}秒▲</word_group>」</color>
+    ■フルチャージして攻撃した時、
+    ブランチング状態なら味方全体に
+    <color=#00AEFF>「ブランチング<word_group=10051>持続時間{description_value_02}秒▲</word_group>」</color>
+    ■フルチャージではない通常攻撃を
+    {description_value_04}回行った時、味方全体に
+    <color=#00AEFF>「メイラード：スキル発動者基準で攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」
+    「ブランチング解除」</color>
+    ■フルチャージ状態を{description_value_07}秒以上維持して
+    {description_value_08}回攻撃した時、味方全体に
+    <color=#00AEFF>「ブランチング：スキル発動者基準で
+    攻撃力{description_value_09}％▲」「{description_value_10}秒間維持」
+    「メイラード解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15213_name:
+  en: True Flavor
+  ko: 진짜 맛
+  ja: トゥルー・フレーバー
+15213_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects all allies when in Maillard status.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all allies when in Blanching status.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 마이야르 상태일 때 아군 전체에게
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 블렌칭 상태일 때 아군 전체에게
+    <color=#00AEFF>[지속 대미지 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■メイラード状態なら、味方全体に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group> {description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■ブランチング状態なら、味方全体に
+    <color=#00AEFF>「持続ダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+520_name:
+  en: Bready
+  ko: 브래디
+  ja: ブレッディ
+c521_Lobby_Touch_1:
+  en: I've prepared a multi-course meal today, all centered around seafood! You're
+    gonna love it, hehe.
+  ko: |-
+    오늘은 해산물을 베이스로 한 코스 요리를 준비해 봤어요!
+    기대해 주세요~ 헤헤.
+  ja: |-
+    今日は海鮮を軸にコース料理をご用意しました！
+    お楽しみに～えへへ。
+c521_Lobby_Touch_2:
+  en: |-
+    I'm also the host of the Crunchy Cooking Class.
+    If you have some free time, be sure to check it out!
+  ko: |-
+    아삭바삭 쿠킹 클래스의 진행자도 겸하고 있어요.
+    시간 나시면 꼭 봐주세요~!
+  ja: |-
+    「サクッとカリッとクッキングクラス」って言う番組を
+    やってるんです。今度ぜひ見てくださいね～！
+c521_Lobby_Touch_3:
+  en: "I'm in charge of cooking, and Bready is in charge of tasting. \nIt's a match
+    made in heaven!"
+  ko: |-
+    저는 요리 담당, 브래디는 시식 담당이에요.
+    최고의 조합이죠!
+  ja: |-
+    私は料理担当、ブレッディは試食担当です。
+    これが最高のコンビネーション！
+c521_Lobby_Touch_Love_1:
+  en: I wonder what you'll think of today's dish? My heart is beating like crazy!
+  ko: |-
+    미식가님, 오늘은 제 음식에 어떤 평가를 남겨주실 건가요?!
+    두근두근해요~
+  ja: |-
+    グルメ様、今日の料理はどうでしたか！？
+    ドキドキです～
+c521_Lobby_Touch_Love_2:
+  en: |-
+    You’re welcome to visit the kitchen anytime, Mr. Gourmand!
+    Very few people have that kind of access, so be sure not to tell anyone!
+  ko: |-
+    미식가님은 언제든 편하게 주방을 방문하셔도 돼요!
+    아, 이건 엄청난 특혜니까 다른 분들껜 비밀이에요…!
+  ja: |-
+    グルメ様、いつでも気軽にキッチンに来てくださいね！
+    あっ…グルメ様だけ特別なので、
+    他のみなさんにはナイショですよ…！
+c521_Lobby_Touch_Love_3:
+  en: |-
+    I've made a special dish just for you, Mr. Gourmand.
+    Enjoy!
+  ko: |-
+    미식가님만을 위한 특별 요리를 만들어봤어요.
+    부디 맛있게 드셔주세요~!
+  ja: |-
+    グルメ様のために特別なお料理を作りました。
+    どうぞ召し上がれ～！
+c521_Lobby_Stay_1:
+  en: Mr. Gourmand? Where did you go? It's almost time to eat.
+  ko: 미식가님…! 곧 식사 시간인데 어딜 가셨나요오…?
+  ja: グルメ様…！もうすぐお食事の時間なのに、いったいどこ…？
+c521_Lobby_Stay_Love_1:
+  en: |-
+    I packed you a warm meal in this lunchbox!
+    Make sure to eat it when you get back, hehe.
+  ko: |-
+    보온 도시락에 따뜻한 음식을 좀 담아왔어요~!
+    돌아오시면 꼭 드셔주세요! 헤헤.
+  ja: |-
+    保温できるお弁当箱に、あったかい料理を入れておきました～！
+    帰ってきたらぜひお召し上がりください！えへへ。
+c521_Outpost_Touch_1:
+  en: |-
+    I'm hard at work researching various dishes.
+    Be sure to encourage me whenever you can!
+  ko: |-
+    열심히 다양한 음식들을 연구하고 있어요.
+    응원해 주세요!
+  ja: |-
+    頑張って色々な料理を 研究しています。
+    応援お願いします！
+c521_Outpost_Touch_2:
+  en: |-
+    You should never skip a meal!
+    You need to eat well to have energy!
+  ko: |-
+    식사는 절대 거르시면 안 돼요!
+    잘 드셔야 힘이 난다구요.
+  ja: |-
+    お食事を抜くなんてダメですよ！
+    食べないと、力が出ないです。
+c521_Outpost_Touch_3:
+  en: |-
+    There don't seem to be many restaurants at the Outpost.
+    Is everyone here getting enough to eat?
+  ko: |-
+    전초기지에는 식당이 부족한 것 같아요.
+    다들 알아서 잘 챙겨 드시는 거겠죠?
+  ja: |-
+    前哨基地には レストランが足りないです。
+    みなさん、ちゃんと 食べているんでしょうか？
+c521_Gacha_Get_1:
+  en: I, Crust, will make loads of delicious dishes for you!
+  ko: 이 크러스트가, 맛있는 요리를 잔뜩 만들어 드릴게요~!
+  ja: クラストが、おいしい料理をたっぷりお届けしま～す！
+c521_Reinforce_1:
+  en: Wow, I feel like I'll be able to make more dishes than ever!
+  ko: 오오! 더 많은 음식을 할 수 있겠어요!
+  ja: おおっ！もっとたくさんお料理できそうです！
+c521_Reinforce_2:
+  en: Wow, this is...! I just thought of an incredible recipe!
+  ko: |-
+    이, 이건…!
+    저, 엄청난 레시피가 떠올랐어요!!
+  ja: |-
+    こ、これは…！
+    すごいレシピを思いつきました！！
+c521_Reinforce_3:
+  en: I feel a tingling in my fingertips. Could it be... my cooking skills are awakening?!
+  ko: |-
+    손끝의 감각이 달라졌어요.
+    이게 바로… 손맛의 각성?!
+  ja: |-
+    指先から違いを感じます。
+    これが…魔法の手…！？
+c521_Gift_1:
+  en: |-
+    Mr. Gourmand, you shouldn't have!
+    This won't do. Come follow me to the kitchen right away!
+  ko: |-
+    미식가님…!
+    안 되겠어요, 당장 주방으로 따라오세요!
+  ja: |-
+    グルメ様…！
+    こうしちゃいられません、今すぐキッチンに来てください！
+c521_Gift_2:
+  en: Thank you! Thank you so much!
+  ko: |-
+    감사합니다! 감사합니다!
+    정말 감사합니다~!
+  ja: |-
+    すごい！すごいです！
+    ありがとうございます～！
+c521_Gift_3:
+  en: How could I ever repay you, Mr. Gourmand? Oooh, maybe I can become your personal
+    chef?
+  ko: |-
+    이걸 다 보답하려면…
+    미식가님의 전속 요리사가 되어야 할까요?
+  ja: |-
+    この恩をお返しするには、
+    グルメ様の専属シェフになるしかないのでは！？
+c521_Attractive_Up_1:
+  en: It’d make me so happy if you enjoyed my cooking every single day!
+  ko: 미식가님이 매일매일 제가 만든 음식을 드셔주셨으면 좋겠어요…!
+  ja: |-
+    グルメ様には毎日私の作った料理を
+    召し上がっていただきたいです…！
+c521_Attractive_Up_2:
+  en: My heart flutters every time you taste my cooking.
+  ko: |-
+    미식가님이 제 음식을 드셔주실 때마다,
+    가슴이 두근두근해요…!!
+  ja: |-
+    グルメ様に私の料理を食べていただくと、
+    いつも胸がドキドキします…！！
+c521_Attractive_Up_3:
+  en: I'll make sure that you never have another bad meal for the rest of your life!
+  ko: 평생 맛있는 음식만 드실 수 있게 해드릴게요!
+  ja: この先もずっと、おいしい料理だけをお作りします！
+c521_Party_Deploy_1:
+  en: Did someone call for a chef?
+  ko: 요리사를 부르셨나요~?
+  ja: シェフが必要なんですか～？
+c521_Field_Touch_1:
+  en: Yes!
+  ko: 네!
+  ja: はい！
+c521_Field_Go_1:
+  en: Oooh, I've never seen these types of ingredients before.
+  ko: 엇! 저쪽에 처음 보는 식재료가!
+  ja: あっ！あっちに初めて見る食材が！
+c521_Battle_Enter_1:
+  en: Quite a bunch of bad apples here.
+  ko: 상한 음식들이 많네요.
+  ja: 食べられるところは無さそうです。
+c521_Battle_Ready_1:
+  en: Let me do the dishes real quick.
+  ko: 빠르게 설거지해 버릴게요!
+  ja: お皿はすぐに洗っちゃいます！
+c521_Battle_Ready_2:
+  en: I'll have to wrap this up before the food gets cold.
+  ko: 음식이 식기 전에 마무리할게요!
+  ja: 料理が冷める前に、片づけます！
+c521_Battle_Ready_3:
+  en: Once I'm done, I'll make you something tasty.
+  ko: 이것만 끝내고, 맛있는 요리를 해드릴게요!
+  ja: これが終わったら、おいしい料理を作りますね！
+c521_Reload_1:
+  en: Bubble bubble! Sizzle sizzle!
+  ko: 보글보글~ 지글지글~
+  ja: グツグツ～ジュ～ジュ～
+c521_Reload_2:
+  en: Cooking these guys up is a real hassle.
+  ko: 요리하기 번거로운 놈들이네요.
+  ja: これはひと手間かかりますね。
+c521_Reload_3:
+  en: Time to add some seasoning.
+  ko: 양념을 좀 쳐야겠네요.
+  ja: ちょっぴり味付けです。
+c521_Ult_Skill_Ready_1:
+  en: All the ingredients are gathered!
+  ko: 재료가 모두 모였어요!
+  ja: 食材が揃いました！
+c521_Ult_Skill_1:
+  en: I'll pour my heart into this dish!
+  ko: 행복한 맛으로 만들어 드릴게요~!
+  ja: 幸せな味にしちゃいます～！
+c521_FullBurst_1:
+  en: Enjoy your meal!
+  ko: 맛있게 드세요~!!
+  ja: どうぞ召し上がれ～！！
+c521_Kill_Monster_1:
+  en: One more plate, coming up!
+  ko: 한 접시 더~!
+  ja: もう一皿～！
+c521_Kill_Monster_2:
+  en: The dishes are done!
+  ko: 설거지 끝!
+  ja: お皿洗い、おしまい！
+c521_Kill_Monster_3:
+  en: The ingredients are prepped!
+  ko: 재료 손질 끝!
+  ja: 下ごしらえ、おしまい！
+c521_Damage_1:
+  en: Agh!
+  ko: 으악!
+  ja: うぅっ！
+c521_Damage_2:
+  en: Wahh!
+  ko: 후에엥~!
+  ja: ふぇぇ～ん！
+c521_Damage_3:
+  en: Ouuch...!
+  ko: 아야야…!
+  ja: いたたっ…！
+c521_Die_1:
+  en: Urgh... I wasn't able to complete the dish...
+  ko: 으으… 요리를 완성하지 못했어요….
+  ja: うう…料理が間に合いません…
+c521_Win_1:
+  en: All finished cooking! Now then, what do you say we sit down for a nice meal?
+  ko: 요리 끝~! 그럼, 맛있는 식사 시간을 가져볼까요?
+  ja: 出来あがり～！では、お食事の時間にしませんか？
+521_cv_ja:
+  en: 'CV: Fūka Izumi'
+  ko: 'CV : 이즈미 후카'
+  ja: CV：和泉風花
+521_cv_ko:
+  en: 'CV: Park Ha-jin'
+  ko: 'CV : 박하진'
+  ja: CV：パク・ハジン
+521_cv_en:
+  en: 'CV: Mia Paige'
+  ko: 'CV : 미아 페이지'
+  ja: CV：Mia Paige

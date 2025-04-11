@@ -1,0 +1,807 @@
+---
+514_name:
+  en: Grave
+  ko: 그레이브
+  ja: グレイブ
+c514_description:
+  en: |-
+    An unknown Nikke who wanders the surface with a huge coffin on her back.
+    In pursuit of her hidden objectives, her stealth and evasion skills are unmatched by ordinary individuals.
+  ko: |-
+    거대한 관을 짊어지고 지상을 떠돌아다니는 정체불명의 니케.
+    비밀리에 목적을 위해 조용히 움직이고 있기에 은신 및 회피 능력은 타의 추종을 불허할 정도다.
+  ja: |-
+    巨大な棺を背負い、地上を彷徨う正体不明のニケ。
+    目的のために秘密裏に動いているため、
+    潜伏および回避能力は他の追従を許さないほどである。
+514_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_514:
+  en: Grave's Spare Body
+  ko: 그레이브 스페어 바디
+  ja: グレイブのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25142_name:
+  en: Overheat
+  ko: 과열
+  ja: オーバーヒート
+25142_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>Overheat I: ATK ▲ {description_value_02}%. Removed upon reloading to max ammunition.</color>
+    ■ Activates when normal attack hits after Prediction status takes effect. Affects self.
+    <color=#00AEFF>Changes according to the number of hits.<word_group=10028> Previous effects trigger repeatedly</word_group>.</color>
+    {description_value_03} time(s): when in Prediction and Overheat I status.
+    <color=#00AEFF>Overheat II: ATK ▲ {description_value_04}% continuously.</color>
+    {description_value_05} time(s): when in Prediction and Overheat II status.
+    <color=#00AEFF>Overheat III: Attack Damage ▲ {description_value_06}% continuously.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 자신에게
+    <color=#00AEFF>[과열 I : 공격력 {description_value_02}% ▲] [최대 장탄 재장전 완료 시 삭제]</color>
+    ■ 미래 예지 상태 적용 후 일반 공격 명중 시 자신에게
+    <color=#00AEFF>[공격 명중 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]</color>
+    {description_value_03}회 : 미래 예지와 과열 I 상태일 때 한하여
+    <color=#00AEFF>[과열 II : 공격력 {description_value_04}% ▲] [지속]</color>
+    {description_value_05}회 : 미래 예지와 과열 II 상태일 때 한하여
+    <color=#00AEFF>[과열 III : 공격 대미지 {description_value_06}% ▲] [지속]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、自分に
+    <color=#00AEFF>「過熱I：攻撃力{description_value_02}％▲」「最大装弾リロード完了時に解除」</color>
+    ■完全計算状態なら、通常攻撃が命中した時、自分に
+    <color=#00AEFF>「攻撃命中回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」</color>
+    {description_value_03}回：完全計算かつ過熱I状態の時に限り
+    <color=#00AEFF>「過熱II：攻撃力{description_value_04}％▲」「持続」</color>
+    {description_value_05}回：完全計算かつ過熱II状態の時に限り
+    <color=#00AEFF>「過熱III：攻撃ダメージ{description_value_06}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25141_name:
+  en: Heat Emission
+  ko: 방열
+  ja: ヒートラジエーション
+25141_description:
+  en: |-
+    ■ Activates when Prediction status ends. Affects self.
+    <color=#00AEFF>Removes {description_value_01}% of bullets.
+    Heat Emission: Reload Ratio ▼ {description_value_02}%. <word_group=10059>Removes Heat Emission under certain conditions.</word_group></color>
+    ■ Activates only when in Heat Emission status. Affects self.
+    <color=#00AEFF>Recovers {description_value_03}% of <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
+    ■ Activates only when in Heat Emission status. Affects all allies.
+    <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_04}% continuously.
+    <word_group=10042>Pierce Damage</word_group> ▲ {description_value_05}% continuously.</color>
+  ko: |-
+    ■ 미래 예지 상태 종료 시 자신에게
+    <color=#00AEFF>[탄환 {description_value_01}% 제거]
+    [방열 : 재장전 비율 {description_value_02}% ▼] [<word_group=10059>방열 제거 조건</word_group>]</color>
+    ■ 자신이 방열 상태일 때 한하여 자신에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복] [1초 간격] [지속]</color>
+    ■ 자신이 방열 상태일 때 한하여 아군 전체에게
+    <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_04}% ▲] [지속]
+    [<word_group=10042>관통 대미지</word_group> {description_value_05}% ▲] [지속]</color>
+  ja: |-
+    ■完全計算状態が終了した時、自分に
+    <color=#00AEFF>「残弾数{description_value_01}％減少」
+    「放熱：リロード比率{description_value_02}％▼」「<word_group=10059>一定条件で解除</word_group>」</color>
+    ■自分が放熱状態の時に限り、自分に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」「1秒間隔」「持続」</color>
+    ■自分が放熱状態の時に限り、味方全体に
+    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_04}％▲」「持続」
+    「<word_group=10042>貫通ダメージ</word_group>{description_value_05}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15143_name:
+  en: Plot Spoiler
+  ko: 라이터즈 스포일러
+  ja: ライターズ・スポイラー
+15143_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Prediction:
+    Current HP ▼ {description_value_01}% every 1 sec, lasts for 10 sec.
+    Grants unlimited ammunition for 10 sec.
+    Gains Pierce for 10 sec.
+    <word_group=10042>Pierce Damage</word_group> ▲ {description_value_02}% for 10 sec.
+    Critical Rate ▲ {description_value_06}% for 10 sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_03}% for 10 sec.
+    <word_group=10042>Pierce Damage</word_group> ▲ {description_value_04}% for 10 sec.
+    Max Ammunition Capacity ▲ {description_value_05} round(s) for 10 sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[미래 예지]
+    [현재 체력 {description_value_01}% ▼] [1초 간격] [10초 유지]
+    [장탄 수 무한] [10초 유지]
+    [관통 특화] [10초 유지]
+    [<word_group=10042>관통 대미지</word_group> {description_value_02}% ▲] [10초 유지]
+    [크리티컬 확률 {description_value_06}% ▲] [10초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_03}% ▲] [10초 유지]
+    [<word_group=10042>관통 대미지</word_group> {description_value_04}% ▲] [10초 유지]
+    [최대 장탄 수 {description_value_05}발 ▲] [10초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「完全計算」
+    「現在のHP{description_value_01}％▼」「1秒間隔」「10秒間維持」
+    「装弾数無限」「10秒間維持」
+    「貫通特化」「10秒間維持」
+    「<word_group=10042>貫通ダメージ</word_group>{description_value_02}％▲」「10秒間維持」
+    「クリティカル確率{description_value_06}％▲」「10秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_03}％▲」「10秒間維持」
+    「<word_group=10042>貫通ダメージ</word_group>{description_value_04}％▲」「10秒間維持」
+    「最大装弾数{description_value_05}発▲」「10秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+511_name:
+  en: Cinderella
+  ko: 신데렐라
+  ja: シンデレラ
+513_name:
+  en: Little Mermaid
+  ko: 리틀 머메이드
+  ja: リトルマーメイド
+c514_Lobby_Touch_1:
+  en: |-
+    Why do you keep sneaking glances at me?
+    Is there... something wrong with my face?
+  ko: |-
+    왜 자꾸 힐끔 거리는 거지.
+    내 얼굴이… 이상한가?
+  ja: |-
+    なぜ私を見ている？
+    私の顔が···おかしいか？
+c514_Lobby_Touch_2:
+  en: "My previous body was aging and needed to be fixed. \nThis one should be able
+    to function more efficiently."
+  ko: |-
+    이전 바디가 너무 노화되어 고쳐 써야 했다.
+    이 정도면 함께할 수 있다.
+  ja: |-
+    ボディが劣化し、何度も修理した。
+    これなら大丈夫だ。
+c514_Lobby_Touch_3:
+  en: Now, I'm ready to rewrite our story.
+  ko: 이야기를 다시 쓸 준비는 끝났다.
+  ja: 物語を書き直す準備はできた。
+c514_Lobby_Touch_Love_1:
+  en: |-
+    It's a bit odd only wearing half a mask, but I like it.
+    It's refreshing.
+  ko: |-
+    가면을 반만 쓰니까 이상하다.
+    그래도 시원해서 좋다.
+  ja: |-
+    半分だけ仮面なのは妙な感じだ。
+    だが、涼しくていい。
+c514_Lobby_Touch_Love_2:
+  en: |-
+    I am grateful for you.
+    I'll be able to repay you someday, I promise.
+  ko: |-
+    너에겐 매번 고맙다.
+    언젠가 반드시 갚겠다.
+  ja: |-
+    お前にはいつも感謝している。
+    この恩はいつか必ず返す。
+c514_Lobby_Touch_Love_3:
+  en: |-
+    I've used every skill I can recall to repair my body.
+    It's far from perfect, but we can at least fight together now.
+  ko: |-
+    내가 기억하는 모든 기술을 이용해 다시 바디를 정비했다.
+    완벽하진 않아도 함께 싸울 수 있다.
+  ja: |-
+    私が知るすべての技術を駆使して、ボディを整備した。
+    完璧でなくても、一緒に戦える。
+c514_Lobby_Stay_1:
+  en: I'm busy. There's much to be done, and time's slipping away.
+  ko: 나 바쁘다. 할 거 많다. 시간 아깝다.
+  ja: |-
+    忙しい。やることが多い。
+    時間が惜しい。
+c514_Lobby_Stay_Love_1:
+  en: |-
+    Whenever I look at you, you always seem so busy.
+    Do what you need to do. I can wait.
+  ko: |-
+    탈인간. 너 보고 있으면 너무 바쁘다.
+    나 기다릴 수 있다. 너 할 거 해라.
+  ja: |-
+    変人類。お前は忙しすぎる。
+    私は待てる。お前はやることをやれ。
+c514_Outpost_Touch_1:
+  en: |-
+    This place is so stable, so peaceful.
+    It feels... oddly fascinating.
+  ko: "안정적이고 평화롭다. \n그게… 너무 신기하다."
+  ja: |-
+    落ち着いていて平和だ。
+    それが…すごく不思議だ。
+c514_Outpost_Touch_2:
+  en: I want to be here... with them.
+  ko: |-
+    모두와….
+    이곳에서 함께 있고 싶다.
+  ja: |-
+    みんな…
+    ここで一緒にいられたら…
+c514_Outpost_Touch_3:
+  en: Someday, I hope our story can continue here as well.
+  ko: 언젠가 우리의 이야기도, 이곳에서 이어갈 수 있기를.
+  ja: いつか私たちの物語も、 ここで描けるといい。
+c514_Gacha_Get_1:
+  en: |-
+    Long-running stories should have happy endings,
+    and the same goes for your story.
+  ko: |-
+    오래된 이야기는 해피 엔딩으로 끝나야 한다.
+    네 이야기도 마찬가지다.
+  ja: |-
+    昔話はハッピーエンドが決まりだ。
+    お前の物語もな。
+c514_Reinforce_1:
+  en: I didn't realize such a thing was possible. Amazing.
+  ko: 이런 기술이 있었나. 신기하다.
+  ja: こんな技術があったのか。不思議だ。
+c514_Reinforce_2:
+  en: You gathered some materials for my enhancement? Thank you.
+  ko: 너 강화에 필요한 재료 모아줬다. 고맙다.
+  ja: お前は強化に必要な素材を集めてくれた。ありがとう。
+c514_Reinforce_3:
+  en: My equipment has become stronger than before, thanks to you.
+  ko: 이전보다 무장이 단단해졌다. 네 덕분이다.
+  ja: 前より武装が丈夫になった。お前のおかげだ。
+c514_Gift_1:
+  en: Is this... a present? But I didn't prepare anything for you.
+  ko: 선물…? 난 준비한 게 없다.
+  ja: プレゼント…？私は何もあげられない。
+c514_Gift_2:
+  en: This is... exactly what I needed. Thanks.
+  ko: 이건… 필요했던 거다. 고맙다.
+  ja: これは…必要だ。ありがとう。
+c514_Gift_3:
+  en: Superhuman, I'm already so grateful for what you've done. You don't need to
+    keep giving me things.
+  ko: 탈인간. 네겐 계속 고맙다. 그러니 더 주지 않아도 된다.
+  ja: |-
+    変人類。お前にはずっと世話になっている。
+    だからこれ以上何もくれなくていい。
+c514_Attractive_Up_1:
+  en: |-
+    You trusted me. You helped me.
+    Now, it's my turn.
+  ko: |-
+    넌 내게 신뢰를 줬다. 도움을 줬다.
+    그러니 이젠 내 차례다.
+  ja: |-
+    お前は私に信頼を与えてくれた。助けてくれた。
+    次は私の番だ。
+c514_Attractive_Up_2:
+  en: |-
+    It's thanks to you that I was able to rewrite my story.
+    I will always be thankful.
+  ko: |-
+    네 도움으로 나 이야기를 다시 쓸 수 있게 되었다.
+    정말 감사하다.
+  ja: |-
+    お前のおかげで、物語を書き直せる。
+    本当に感謝している。
+c514_Attractive_Up_3:
+  en: |-
+    Stay as you are and never change.
+    You're not like the other humans, and I like you for that.
+  ko: |-
+    탈인간. 변하지 말고 그렇게 있어라.
+    인간이 되지 않는 네가 좋다.
+  ja: |-
+    変人類。お前はこのままでいろ。
+    人間じゃないお前が好きだ。
+c514_Party_Deploy_1:
+  en: If you call, I will come.
+  ko: 네가 부른다면 간다.
+  ja: お前が呼ぶなら、行く。
+c514_Field_Touch_1:
+  en: I heard.
+  ko: 들었다.
+  ja: 聞こえた。
+c514_Field_Go_1:
+  en: Moving to the target.
+  ko: 목표로 이동한다.
+  ja: 目標に移動する。
+c514_Battle_Enter_1:
+  en: Enemy incoming!
+  ko: 적, 온다!
+  ja: 敵！来る！
+c514_Battle_Ready_1:
+  en: I will eliminate them all.
+  ko: 전부 제거하겠다.
+  ja: 全部除去する。
+c514_Battle_Ready_2:
+  en: I will ruin anything that disrupts victory.
+  ko: 해피 엔딩을 방해하는 것은 모두 부순다.
+  ja: ハッピーエンドを妨げるものは、すべて破壊する。
+c514_Battle_Ready_3:
+  en: I vowed to protect you.
+  ko: 널 지키겠다. 그렇게 맹세했다.
+  ja: お前を守る。そう誓った。
+c514_Reload_1:
+  en: I can go further.
+  ko: 더 갈 수 있다.
+  ja: もっと行ける。
+c514_Reload_2:
+  en: I need time.
+  ko: 시간이 필요하다.
+  ja: 時間が必要だ。
+c514_Reload_3:
+  en: Reload.
+  ko: 리로드.
+  ja: リロード。
+c514_Ult_Skill_Ready_1:
+  en: I can do it.
+  ko: 할 수 있다.
+  ja: できる。
+c514_Ult_Skill_1:
+  en: Let's go full power!
+  ko: 최고 출력으로 간다!
+  ja: 最高出力で行く！
+c514_FullBurst_1:
+  en: Now. Let's finish this!
+  ko: 지금이다. 끝을 내자!
+  ja: 今だ。終わらせる！
+c514_Kill_Monster_1:
+  en: Next.
+  ko: 다음.
+  ja: 次。
+c514_Kill_Monster_2:
+  en: It's over.
+  ko: 끝이다.
+  ja: 終わりだ。
+c514_Kill_Monster_3:
+  en: Not bad.
+  ko: 나쁘지 않다.
+  ja: 悪くない。
+c514_Damage_1:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c514_Damage_2:
+  en: Ugh...!
+  ko: 크읏…!
+  ja: くっ…！
+c514_Damage_3:
+  en: Not yet...!
+  ko: 아직이다…!
+  ja: まだだ…！
+c514_Die_1:
+  en: It can't end like this...!
+  ko: 이대로 멈춰 서서는… 안되는데…!
+  ja: このまま立ち止まっては…ダメだ…！
+c514_Win_1:
+  en: I won't stop until we reach the happy ending.
+  ko: 해피 엔딩에 다다를 때까지 멈추지 않고 가겠다.
+  ja: ハッピーエンドまでは、止まらない。
+c514_01_Lobby_Touch_1:
+  en: Do I look like an ordinary person? That would be great if you think so.
+  ko: |-
+    나도 평범한 사람처럼 보이나?
+    그렇다면 좋을 것 같다.
+  ja: |-
+    私も平凡そうに見えるか？
+    そうだと嬉しい。
+c514_01_Lobby_Touch_2:
+  en: |-
+    These clothes feel awkward.
+    I don't think I could wear them all the time.
+  ko: |-
+    이런 옷은 어색하다.
+    자주 입지는 못할 것 같다.
+  ja: |-
+    こういう服は慣れない。
+    頻繁には着ないだろう。
+c514_01_Lobby_Touch_3:
+  en: This fabric isn't very form-fitting. It might be uncomfortable to move around
+    in.
+  ko: 딱 붙는 재질이 아니라서, 활동하기 불편할 것 같다.
+  ja: |-
+    この服は体に密着しない。
+    動きにくい。
+c514_01_Lobby_Touch_Love_1:
+  en: Cinderella said I looked beautiful, and that's all that matters.
+  ko: 신데렐라가 아름답다고 해줬다. 그럼 된 거다.
+  ja: |-
+    シンデレラが美しいと言った。
+    それで十分だ。
+c514_01_Lobby_Touch_Love_2:
+  en: |-
+    Regardless of what I wear, my job doesn't change.
+    I will stand by Cinderella's side and rewrite our story.
+  ko: |-
+    어떤 옷을 입던, 내가 할 일은 변하지 않는다.
+    신데렐라의 곁에서, 이야기를 다시 쓴다.
+  ja: |-
+    どんな服を着ていても、私の役目は変わらない。
+    シンデレラのそばで再び物語を書く。
+c514_01_Lobby_Touch_Love_3:
+  en: |-
+    Why are you staring? Are you eyeing my clothes?
+    Cinderella picked them out for me. I can't give them away, not even to you, Superhuman.
+  ko: |-
+    왜 쳐다보지? 이 옷이 탐나는 건가?
+    이건 신데렐라가 골라준 거다. 아무리 탈인간이라도 줄 수 없다.
+  ja: |-
+    どうしてそんなに見る？この服が欲しいのか？
+    これはシンデレラがくれたものだ。
+    変人類でもあげられない。
+c514_01_Lobby_Stay_1:
+  en: What are you doing? If you have nothing to say, I'll go see Cinderella.
+  ko: 뭐 하는 건가. 딱히 할 말이 없다면, 신데렐라에게 가보겠다.
+  ja: |-
+    何をしている。
+    用事がないなら、シンデレラの所に行くぞ。
+c514_01_Lobby_Stay_Love_1:
+  en: |-
+    I'm not afraid of waiting anymore.
+    I know there will always be a day when you return.
+  ko: |-
+    이제 기다리는 거 두렵지 않다.
+    언젠가 돌아온다는 걸 알았다.
+  ja: |-
+    もう待つことは怖くない。
+    いつか戻ると分かったから。
+c514_01_Outpost_Touch_1:
+  en: This is a great place to take a walk with Cinderella.
+  ko: 신데렐라와 함께 걷기 좋은 곳이다.
+  ja: シンデレラと散歩をするのに ぴったりな場所だ。
+c514_01_Outpost_Touch_2:
+  en: |-
+    It's lively here.
+    But honestly, where we are right now feels just as spirited.
+  ko: |-
+    활기찬 곳이다.
+    하지만, 지금 우리가 있는 곳도 활기차다.
+  ja: |-
+    賑やかだな。
+    だが今、私たちがいるところも 賑やかだ。
+c514_01_Outpost_Touch_3:
+  en: |-
+    If I get the chance, I'd like to pick out some other outfits here.
+    ... For Cinderella, that is.
+  ko: |-
+    기회가 된다면, 여기서 다른 옷도 골라보고 싶다.
+    아. 신데렐라의 옷을 고르는 거다.
+  ja: |-
+    機会があればここで 他の服も選んでみたい。
+    ああ、シンデレラのための服だ。
+c514_01_Gacha_Get_1:
+  en: Cinderella chose this for me. Does it suit me?
+  ko: 신데렐라가 골라줬다. 잘 어울리나?
+  ja: |-
+    シンデレラが選んでくれた。
+    似合っているか？
+c514_01_Reinforce_1:
+  en: Not yet. I still have to become stronger.
+  ko: 아직 부족하다. 더 강해져야 한다.
+  ja: |-
+    まだまだだ。
+    もっと強くならなければ。
+c514_01_Reinforce_2:
+  en: Being strong means being beautiful... Am I beautiful?
+  ko: 강하다는 건 아름답다는 것. 나, 아름답나?
+  ja: |-
+    強いということは、美しいということ。
+    私は美しいか？
+c514_01_Reinforce_3:
+  en: I'll protect both you and Cinderella.
+  ko: 너도 신데렐라도, 내가 지킨다.
+  ja: お前もシンデレラも、私が守る。
+c514_01_Gift_1:
+  en: This will go well with my outfit. Thanks.
+  ko: 지금 입은 옷에 잘 어울린다. 고맙다.
+  ja: |-
+    今着ている服にぴったりだ。
+    ありがとう。
+c514_01_Gift_2:
+  en: I'll share it with Cinderella.
+  ko: 신데렐라와 나눠 쓰겠다.
+  ja: シンデレラと一緒に使う。
+c514_01_Gift_3:
+  en: Someday, I'll make sure to repay you, Superhuman.
+  ko: 언젠가 꼭 보답하겠다, 탈인간.
+  ja: いつか必ずお返しをする。変人類。
+c514_01_Attractive_Up_1:
+  en: Thanks to you, I understand what the meaning of trust is. Thank you.
+  ko: 덕분에 신뢰라는 걸 알게 되었다. 고맙다.
+  ja: |-
+    おかげで信頼というものを知った。
+    ありがとう。
+c514_01_Attractive_Up_2:
+  en: |-
+    In the past, I never could have imagined being able to wear ordinary clothes and walk around with Cinderella...
+    I'm so happy.
+  ko: |-
+    평범한 옷을 입고 신데렐라와 다니는 것.
+    옛날엔 상상도 못 했던 일이다. 행복하다.
+  ja: |-
+    普通の服を着てシンデレラと歩くこと。
+    昔は想像もできなかったことだ。幸せだ。
+c514_01_Attractive_Up_3:
+  en: |-
+    Superhuman, I'm curious about your story too.
+    Will you tell me someday, when the time is right?
+  ko: |-
+    탈인간, 너의 이야기도 궁금하다.
+    때가 된다면 들을 수 있는 건가.
+  ja: |-
+    変人類、お前の話も気になる。
+    いつか聞かせてくれるか？
+c514_01_Party_Deploy_1:
+  en: I'll go with you.
+  ko: 함께 가겠다.
+  ja: 一緒に行こう。
+c514_01_Field_Touch_1:
+  en: Did you call me?
+  ko: 불렀나.
+  ja: 呼んだか。
+c514_01_Field_Go_1:
+  en: Moving out.
+  ko: 이동하겠다.
+  ja: 移動する。
+c514_01_Battle_Enter_1:
+  en: Stand back. I'll protect you.
+  ko: 물러서라. 지켜주겠다.
+  ja: 下がっていろ。私が守る。
+c514_01_Battle_Ready_1:
+  en: I won't let you get away.
+  ko: 놓치지 않겠다.
+  ja: 逃がさない。
+c514_01_Battle_Ready_2:
+  en: Don't wrinkle my clothes.
+  ko: 옷 구겨지면 안 된다.
+  ja: 服がしわになってはいけない。
+c514_01_Battle_Ready_3:
+  en: We have to fight carefully.
+  ko: 조심히 싸워야 한다.
+  ja: 気をつけて戦わなければ。
+c514_01_Reload_1:
+  en: Let's go again.
+  ko: 다시 가겠다.
+  ja: もう一度行く。
+c514_01_Reload_2:
+  en: Is my outfit okay?
+  ko: 옷은 멀쩡한가.
+  ja: 服は大丈夫か？
+c514_01_Reload_3:
+  en: I can still fight.
+  ko: 아직 싸울 수 있다.
+  ja: まだ戦える。
+c514_01_Ult_Skill_Ready_1:
+  en: I'm ready.
+  ko: 준비됐다.
+  ja: 準備はできた。
+c514_01_Ult_Skill_1:
+  en: I'm going all out!
+  ko: 전부 쏟아내겠다!
+  ja: 全力で戦う！
+c514_01_FullBurst_1:
+  en: Let's take them down together!
+  ko: 함께 해치우자!
+  ja: 一緒に片付けるぞ！
+c514_01_Kill_Monster_1:
+  en: It's taken care of.
+  ko: 처리했다.
+  ja: 片付けた。
+c514_01_Kill_Monster_2:
+  en: That should do it.
+  ko: 됐다.
+  ja: これでよし。
+c514_01_Kill_Monster_3:
+  en: Next.
+  ko: 다음.
+  ja: 次。
+c514_01_Damage_1:
+  en: Ugh...!
+  ko: 윽…!
+  ja: うっ…！
+c514_01_Damage_2:
+  en: I can take it...!
+  ko: 버틸 수 있다…!
+  ja: 耐えられる…！
+c514_01_Damage_3:
+  en: Urgh!
+  ko: 크윽!
+  ja: くうっ！
+c514_01_Die_1:
+  en: The outfit Cinderella picked out... it's ruined...
+  ko: 신데렐라가 골라준 옷. 망가졌다….
+  ja: |-
+    シンデレラが選んでくれた服。
+    ボロボロだ…
+c514_01_Win_1:
+  en: Let's get back to our daily lives. Cinderella will be waiting for us.
+  ko: 신데렐라가 기다릴 거다. 일상으로 돌아가자.
+  ja: |-
+    シンデレラが待ってる。
+    日常に戻ろう。
+514_cv_ja:
+  en: 'CV: Hisako Kanemoto'
+  ko: 'CV : 카네모토 히사코'
+  ja: CV：金元寿子
+514_cv_ko:
+  en: 'CV: Han Mi-ri'
+  ko: 'CV : 한미리'
+  ja: CV：ハン・ミリ
+514_cv_en:
+  en: 'CV: Lauren Choo'
+  ko: 'CV : 로렌 추'
+  ja: CV：Lauren Choo

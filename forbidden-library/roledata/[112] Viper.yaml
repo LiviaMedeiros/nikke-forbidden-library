@@ -1,0 +1,737 @@
+---
+112_name:
+  en: Viper
+  ko: 바이퍼
+  ja: バイパー
+c112_description:
+  en: |-
+    Staff officer of the Exotic Squad.
+    She can manipulate any human with her verbal trickery and physical beauty.
+  ko: "이그조틱 스쿼드의 작전 참모. \n세 치 혀와 색기를 무기로 아우터 림 내 온갖 인간 군상을 뜻대로 주무르고 있다."
+  ja: |-
+    エキゾチック部隊の作戦参謀。
+    口が上手く、色気を武器にアウターリムの人間たちを意のままに\n操っている。
+112_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_50112:
+  en: Viper's Spare Body
+  ko: 바이퍼 스페어 바디
+  ja: バイパーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21122_name:
+  en: Snake Scale
+  ko: 스네이크 스케일
+  ja: スネークスケール
+21122_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Hit Rate ▲ {description_value_01}% continuously.</color>
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>Vamp: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_02} sec. Loses effect when the caster takes damage.
+    Invulnerable for {description_value_03} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[명중률 {description_value_01}% ▲] [지속]</color>
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[애교 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_02}초 유지]
+    [무적] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「命中率{description_value_01}％▲」「持続」</color>
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「愛嬌：<word_group=10004>単一攻撃対象から除外</word_group>。直接攻撃を受けると解除」「{description_value_02}秒間維持」
+    「無敵」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21121_name:
+  en: Snake Sense
+  ko: 스네이크 센스
+  ja: スネークセンス
+21121_description:
+  en: |-
+    ■ Activates when the target appears. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.
+    Hit Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 타겟이 출현했다면 아군 전체에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [명중률 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■ターゲットが出現している場合、味方全体に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」
+    「命中率{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11123_name:
+  en: Snake Bite
+  ko: 스네이크 바이트
+  ja: スネークバイト
+11123_description:
+  en: |-
+    ■ Affects {description_value_01} designated enemy unit(s).
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    ■ Activates when the designated enemy unit(s) include the stage target. Affects the same enemy unit(s).
+    <color=#00AEFF>DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 지정한 적 대상 {description_value_01}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
+    ■ 대상이 타겟이라면 동일 적 대상에게
+    <color=#00AEFF>[방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■指定した敵対象{description_value_01}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
+    ■対象がターゲットなら、同じ敵に
+    <color=#00AEFF>「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+110_name:
+  en: Crow
+  ko: 크로우
+  ja: クロウ
+111_name:
+  en: Jackal
+  ko: 자칼
+  ja: ジャッカル
+c112_Lobby_Touch_1:
+  en: You want to know what I'm thinking? Do you want to see for yourself?
+  ko: 내가 무슨 생각 하는지 궁금해? 보여줄까?
+  ja: |-
+    私が何考えてるか知りたい？
+    教えてあげよっか？
+c112_Lobby_Touch_2:
+  en: Let me show you something fun.
+  ko: 내가 재미있는 거 보여줄까?
+  ja: 面白いもの見せてあげよっか？
+c112_Lobby_Touch_3:
+  en: Honey, can you use this to send a message for me?
+  ko: 자기야, 이걸로 나 대신 메시지 한 개만 보내줄래?
+  ja: |-
+    ダーリン、これで私の代わりに1通だけ
+    メッセージを送ってくれない？
+c112_Lobby_Touch_Love_1:
+  en: I canceled all my plans to hang out with you. Wanna take a look?
+  ko: 자기랑 놀려고 약속 다 취소했는데, 볼래?
+  ja: |-
+    ダーリンと遊ぶために、約束を全部キャンセルしたの。
+    チェックする？
+c112_Lobby_Touch_Love_2:
+  en: For your eyes only. It's my deepest secret. ♡
+  ko: 자기한테만 보여줄게. 내 은밀한 비밀♡
+  ja: |-
+    ダーリンだけに見せてあげる。
+    私の隠してた秘密♡
+c112_Lobby_Touch_Love_3:
+  en: I've saved every single message you sent me. See?
+  ko: 자기가 보낸 메시지는 다 저장해 놨어. 그치?
+  ja: |-
+    ダーリンからのメッセージは
+    全部保存してあるの。ほら。
+c112_Lobby_Stay_1:
+  en: What are you up to, honey? I'm so bored... You're not going to leave me like
+    this, are you?
+  ko: |-
+    자기야 뭐해? 나 심심해.
+    계속 이렇게 방치할 거야?
+  ja: |-
+    ダーリン、何してるの？
+    退屈だよ。
+    ずっとこのまま放置するつもり？
+c112_Lobby_Stay_Love_1:
+  en: I was a little upset that you were ignoring me, but now that you're actually
+    here, I can't stay mad at you!
+  ko: |-
+    음~ 이상하네. 자기한테 또 방치당하고 있어서 짜증 나는데.
+    자기 얼굴 보는 거 좀 재밌어.
+  ja: |-
+    うーん、おかしいなぁ。
+    ダーリンに放置されてイライラしてたのに。
+    ダーリンの顔を見ると怒れないの。
+c112_Outpost_Touch_1:
+  en: |-
+    Whoa, the Outer Rim is a dump compared to here.
+    If this area is under my control...
+  ko: |-
+    와~ 여긴 아우터 림보다 훨씬 좋다~
+    갖고 싶어.
+  ja: |-
+    わあ～、 ここってアウターリムより 全然いいね～
+    欲しいなぁ。
+c112_Outpost_Touch_2:
+  en: |-
+    Captain told me to bring you to Trendy Bar by any means necessary.
+    How about through seduction?
+  ko: |-
+    우리 대장이 자길 유혹해서라도 모던 바로 데려오라는데.
+    유혹해도 돼?
+  ja: |-
+    隊長が、 ダーリンを誘惑してでも モダンバーに連れてこいって。
+    誘惑してもいい？
+c112_Outpost_Touch_3:
+  en: |-
+    You are the owner of the Outpost, right?
+    This land will be in my possession if you belong to me.
+  ko: |-
+    여기 전부 자기 거 맞지?
+    그럼 자길 가지면 여기가 다 내 것이 되는 거네?
+  ja: |-
+    これ全部ダーリンの ものでしょ？
+    じゃあダーリンを 手に入れたら、 ここは全部私のもの？
+c112_Gacha_Get_1:
+  en: Am I an eye-catching python, or a viper that can kill? That depends on you.
+  ko: 자기가 원한다면 예쁜 보아 뱀도 위험한 독사도 되어줄 수 있어.
+  ja: ダーリンが望むなら、どんなヘビにだってなれるよ。
+c112_Reinforce_1:
+  en: You want me to get stronger? Why?
+  ko: 내가 더 강해졌으면 좋겠어? 왜~?
+  ja: |-
+    私にもっと強くなってほしいの？
+    なんで～？
+c112_Reinforce_2:
+  en: That's just fine, thanks.
+  ko: 음, 이거 괜찮네. 고생했어~
+  ja: うん、これいいね。ありがと～
+c112_Reinforce_3:
+  en: It's all on you if I end up spoiled.
+  ko: 자꾸 이렇게 잘해주면 나 버릇 나빠진다?
+  ja: こんなに尽くしてくれたら、ワガママになっちゃうよ？
+c112_Gift_1:
+  en: These are for me? That's so sweet!
+  ko: 이거 전부 다 내 거야? 너무 좋다~
+  ja: これ全部私のもの？嬉しい～！
+c112_Gift_2:
+  en: Gifts always delight.
+  ko: 선물은 언제 받아도 즐겁네.
+  ja: プレゼントはいつもらっても嬉しいよね。
+c112_Gift_3:
+  en: That's nice of you, Honey♡
+  ko: 고마워, 자기야♡
+  ja: ありがと、ダーリン♡
+c112_Attractive_Up_1:
+  en: |-
+    Don't let your guard down, Honey.
+    Nourishing a viper in your bosom is not a wise choice.
+  ko: |-
+    자기야, 조심해야 해.
+    이렇게 계속 잘해주다가 나한테 잡아먹힌다?
+  ja: |-
+    ダーリン、気をつけて。
+    尽くしすぎるのも問題だよ？
+c112_Attractive_Up_2:
+  en: Do you mind going further with me?
+  ko: |-
+    자기랑 조금 더 깊은 관계가 되고 싶은데,
+    어떻게 할까?
+  ja: |-
+    ダーリンともっと深い関係になりたいんだけど、
+    どうしたらいいかな？
+c112_Attractive_Up_3:
+  en: I planned to make you fall head over heels for me, but it appears the opposite
+    has happened.
+  ko: |-
+    나한테 빠져서 정신없게 만들려고 했는데.
+    이러다 내가 빠지게 생겼네?
+  ja: |-
+    メロメロにしちゃおうと思ったのに。
+    これじゃ私がハマっちゃいそう。
+c112_Party_Deploy_1:
+  en: You really want to have me by your side?
+  ko: 나랑 그렇게 같이 가고 싶어?
+  ja: そんなに私と一緒にいたいの？
+c112_Field_Touch_1:
+  en: Hmm... Honey.
+  ko: 응~ 자기야.
+  ja: うん、ダーリン♡
+c112_Field_Go_1:
+  en: I'd rather not walk.
+  ko: 나 걷는 거 별로 안 좋아하는데.
+  ja: 私、歩くのはあんまり好きじゃないんだけど～
+c112_Battle_Enter_1:
+  en: Wow, that thing's quite terrifying.
+  ko: 와, 무서운 게 있네?
+  ja: わあ、怖いのがいるね？
+c112_Battle_Ready_1:
+  en: I'm trembling! Go to hell, scary monsters!
+  ko: 아~ 무서워라~ 너무 무서우니까 다 죽여야겠다~
+  ja: 怖～い。怖すぎるから、みんな倒さないと～
+c112_Battle_Ready_2:
+  en: Hmmm... Too much shooting will make my arms sore.
+  ko: 흐음~ 총 많이 쏘면 네일 망가지는데.
+  ja: う～ん。銃を撃ちすぎるとネイルが剥がれちゃうのに～
+c112_Battle_Ready_3:
+  en: Kill the goons over here!
+  ko: 저기 있는 애들 다 죽이면 되는 거지?
+  ja: あそこにいるのを全部倒せばいいんでしょ？
+c112_Reload_1:
+  en: Reloading♡
+  ko: 리로드♡
+  ja: リロード♡
+c112_Reload_2:
+  en: Hey, calm down.
+  ko: 와, 살벌해라♡
+  ja: わあ、怖～い♡
+c112_Reload_3:
+  en: No! My nail broke!
+  ko: 아아… 네일 해놓은 거 다 망가졌네. 짜증 나.
+  ja: |-
+    あぁ…ネイルが剥がれちゃった。
+    ムカツク。
+c112_Ult_Skill_Ready_1:
+  en: Honey ♪
+  ko: 자~ 기야~♪
+  ja: ダ～リン～♪
+c112_Ult_Skill_1:
+  en: Sending my love, ready for it?
+  ko: 내 사랑이야. 받아줄래?
+  ja: 私の愛、受け取ってくれる？
+c112_FullBurst_1:
+  en: Fire to the front!
+  ko: 전방을 향해 발사~
+  ja: 前方に発射～
+c112_Kill_Monster_1:
+  en: One down♡
+  ko: 하나 끝♡
+  ja: 1個終わり♡
+c112_Kill_Monster_2:
+  en: Going down!
+  ko: 쓰러졌다~
+  ja: 倒したよ～
+c112_Kill_Monster_3:
+  en: Oh yay!
+  ko: 예에~
+  ja: イェーイ！
+c112_Damage_1:
+  en: Annoying.
+  ko: 짜증 나.
+  ja: ムカツク。
+c112_Damage_2:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c112_Damage_3:
+  en: Uh.
+  ko: 윽.
+  ja: うっ。
+c112_Die_1:
+  en: Sorry, Honey... I ran out of steam. Gonna take a break.
+  ko: 아… 자기야 미안. 나 너무 피곤해져서 좀 쉬러 갈래.
+  ja: |-
+    あっ…ダーリン、ごめん。
+    ちょっと疲れたから休んでくるね。
+c112_Win_1:
+  en: See? I made it! No enemies left standing.
+  ko: 자기야 봤어? 내가 전부 쏴 죽인 거.
+  ja: |-
+    ダーリン、見た？
+    全部私が倒したんだよ。
+c112_02_Lobby_Touch_1:
+  en: Wouldn't it just be darling if we took some photos together?
+  ko: 자기랑 커플 화보도 찍어보고 싶어~
+  ja: ダーリンとカップルフォトも撮ってみたいな～
+c112_02_Lobby_Touch_2:
+  en: |-
+    Do I look good, Honey?
+    Hehe, if so, could you take a picture of me?
+  ko: |-
+    자기야 나 지금 괜찮아~?
+    후후. 그럼 사진 한 장만 찍어줄래?
+  ja: |-
+    ダーリン。私、いい感じ？
+    ふふ。じゃあ写真撮ってくれる？
+c112_02_Lobby_Touch_3:
+  en: |-
+    Honey, what do you think of my swimsuit?
+    I picked it out just for you!
+  ko: |-
+    자기, 내 수영복 어때?
+    신경 써서 골랐는데~
+  ja: |-
+    ダーリン。私の水着、どう？
+    すっごく悩んだんだよ～
+c112_02_Lobby_Touch_Love_1:
+  en: |-
+    Let's both set our phone backgrounds to that photo of us together!
+    What do you think?
+  ko: |-
+    우리 휴대폰 배경,
+    같이 찍은 사진으로 맞추자~ 어때?
+  ja: 携帯の壁紙、一緒に撮った写真にしない？
+c112_02_Lobby_Touch_Love_2:
+  en: Why don't we head to the ocean and make some secrets of our own?
+  ko: 바다에서 우리 둘만의 비밀, 만들어볼까?
+  ja: 海で二人だけの秘密、作っちゃう？
+c112_02_Lobby_Touch_Love_3:
+  en: |-
+    This swimsuit isn't waterproof.
+    Would you like to see how it works?
+  ko: |-
+    이건 방수가 안 되는 수영복이야~
+    한번… 확인해 볼래?
+  ja: |-
+    この水着、防水じゃないんだ～
+    確認…してみる？
+c112_02_Lobby_Stay_1:
+  en: |-
+    Are you really going to leave me all alone like this, Honey?
+    My skin might get all burned.
+  ko: |-
+    자기야~ 나 이렇게 혼자 둘 거야~?
+    피부가 다 타버리겠어~
+  ja: |-
+    ダーリン。私を放ってどこにいるの～？
+    日焼けしちゃうよ～
+c112_02_Lobby_Stay_Love_1:
+  en: |-
+    You can't stop staring at me...
+    Have you finally fallen for me?
+  ko: |-
+    흐음~ 드디어 나한테 빠진 거야?
+    계속 내 얼굴만 보고 있네?
+  ja: |-
+    あれ、ついに私にメロメロになっちゃった？
+    私の顔ばっかり見てるね♡
+c112_02_Outpost_Touch_1:
+  en: When you're done here, why don't you slip into your swimming trunks and we can
+    have a pool date?
+  ko: |-
+    자기도 수영복 입고 와~
+    같이 수영장 데이트하자♡
+  ja: |-
+    ダーリンも 水着に着替えてきて～
+    一緒にプールデートしよ♡
+c112_02_Outpost_Touch_2:
+  en: |-
+    This is such a rare occasion, so I want to take lots of pictures with you!
+    Come a little closer, Honey!
+  ko: |-
+    모처럼이니까 자기랑 사진 잔뜩 찍으려고~
+    그러니까 좀 더 가까이 와봐~
+  ja: |-
+    せっかくだから、 ダーリンとたくさん 写真撮りたいな～
+    だからもっと 近くに来て♡
+c112_02_Outpost_Touch_3:
+  en: |-
+    Let's go on another date in our swimsuits, Honey!
+    When's the best time for you?
+  ko: |-
+    자기~ 나중에 수영복 입고 또 데이트하자♡
+    다음 약속, 미리 잡을게?
+  ja: |-
+    ダーリン、 水着でまたデートしようね♡
+    次の約束、 決めちゃうよ？
+c112_02_Gacha_Get_1:
+  en: This summer, I want you all to myself, okay?♡
+  ko: 자기~ 이번 여름에는 내가 독점할게♡ 알겠지?
+  ja: この夏は私がダーリンを独り占めしちゃうね♡いいでしょ？
+c112_02_Reinforce_1:
+  en: Are you sure about this? At this rate, I might gobble you up.
+  ko: 괜찮겠어? 이러다 진짜 잡아먹힐 수도 있을 텐데~
+  ja: 大丈夫？このままじゃ本当に私に食べられちゃうかも～
+c112_02_Reinforce_2:
+  en: Thank you! Let's take one more picture to commemorate the occasion, okay?
+  ko: 와아 고마워~ 기념으로 사진 한 장 더 찍자~ 응?
+  ja: わあ、ありがとう。記念に写真撮ろうよ～ねっ？
+c112_02_Reinforce_3:
+  en: Hmm... What's the intention behind all this care you're showing me?
+  ko: 흐음~ 이렇게 챙겨주는 의도가 뭐야~?
+  ja: どうしてこんなに気を遣ってくれるのかな～？
+c112_02_Gift_1:
+  en: Whoa, what a coincidence! I was going to give you a gift as well.
+  ko: 아핫. 우연이네~ 나도 주려고 했는데♡
+  ja: あはっ。奇遇だね～私もあげようと思ってたの♡
+c112_02_Gift_2:
+  en: Oh wow, thank you! Let me take a photo and share it on social media.
+  ko: 어머. 고마워~ 사진 찍어서 자랑해야겠다♡
+  ja: あら。ありがと～写真撮って自慢しなきゃ♡
+c112_02_Gift_3:
+  en: Hehe, I bet the others are going to get so jealous.
+  ko: 후후. 경쟁자들이 질투하겠는걸?
+  ja: ふふ。ライバルのコたちに嫉妬されちゃうね。
+c112_02_Attractive_Up_1:
+  en: |-
+    You really have a knack for getting into a girl's heart.
+    At this rate, I might be in danger myself.
+  ko: |-
+    소녀의 마음을 파고드는 재주가 있네?
+    이러다 나도 위험할 것 같아♡
+  ja: |-
+    女の子のココロに入り込むのが上手だね。
+    このままだと私も危ないかも♡
+c112_02_Attractive_Up_2:
+  en: If you keep this up, I might just snatch you up and spirit you away.
+  ko: 자기~ 계속 그러면 내가 데리고 갈지도 몰라~
+  ja: ダーリン。ずっとそんな感じだと、私にさらわれちゃうかもよ～
+c112_02_Attractive_Up_3:
+  en: |-
+    That's another secret between just us.
+    Hehe, I like it!
+  ko: |-
+    후후. 우리 둘만의 비밀이 하나 더 늘었네?
+    마음에 들어♡
+  ja: |-
+    ふふ。二人だけの秘密がまた増えたね。
+    嬉しいな♡
+c112_02_Party_Deploy_1:
+  en: You wanted to see me again, is that it?
+  ko: 어머. 내가 또 보고 싶었구나?
+  ja: あはっ。また私に会いたくなっちゃった？
+c112_02_Field_Touch_1:
+  en: Did you call me, Honey?
+  ko: 자기야 불렀어~?
+  ja: ダーリン、呼んだ～？
+c112_02_Field_Go_1:
+  en: I wonder if there's a good spot around here to take a picture?
+  ko: 괜찮은 촬영 스팟이 있으려나~?
+  ja: いい撮影スポットはあるかな～？
+c112_02_Battle_Enter_1:
+  en: Honey, I'm scared!
+  ko: 자기야~ 나 무서워~♪
+  ja: ダーリン～私、怖い～♪
+c112_02_Battle_Ready_1:
+  en: I wouldn't want my swimsuit to get ruined.
+  ko: 흐음… 수영복이 상하면 안 되는데.
+  ja: うーん…水着を汚したくないな。
+c112_02_Battle_Ready_2:
+  en: Let's wrap this up and take some photos together.
+  ko: 자기~ 빨리 끝내고 같이 사진 찍자♡
+  ja: ダーリン～早く終わらせて、一緒に写真撮ろ♡
+c112_02_Battle_Ready_3:
+  en: We need to eliminate them for a better composition.
+  ko: 얘들을 치워야 구도가 예쁠 것 같은데~
+  ja: あいつらを片づけたら、いい写真が撮れそうだよね～
+c112_02_Reload_1:
+  en: Wowzers, how scary♡
+  ko: 어머, 무서워라♡
+  ja: きゃっ、怖～い♡
+c112_02_Reload_2:
+  en: Reloading, la de dah♡
+  ko: 장전장전~♡
+  ja: 装填、装填～♡
+c112_02_Reload_3:
+  en: Just a minuuuuuute♡
+  ko: 자암까안♡
+  ja: 待ってぇ♡
+c112_02_Ult_Skill_Ready_1:
+  en: Honey, can I start?
+  ko: 자기야~ 시작해도 돼?
+  ja: ダーリン～始めてもいい？
+c112_02_Ult_Skill_1:
+  en: I'll devour all of you♡
+  ko: 전부 빨아먹어줄게♡
+  ja: 全部吸い取ってあげる♡
+c112_02_FullBurst_1:
+  en: This way, this way!♡
+  ko: 이쪽이야 이쪽♡
+  ja: こっちだよ、こっち♡
+c112_02_Kill_Monster_1:
+  en: Nighty night♡
+  ko: 잘자♡
+  ja: おやすみ♡
+c112_02_Kill_Monster_2:
+  en: Don't disturb me.
+  ko: 방해하지 마.
+  ja: 邪魔しないで。
+c112_02_Kill_Monster_3:
+  en: Sorry about having to do this♡
+  ko: 어머, 미안♡
+  ja: あっ、ごめん♡
+c112_02_Damage_1:
+  en: What?
+  ko: 뭐야?
+  ja: 何？
+c112_02_Damage_2:
+  en: Ugh.
+  ko: 큿.
+  ja: くっ。
+c112_02_Damage_3:
+  en: Ugh.
+  ko: 으읏.
+  ja: ううっ。
+c112_02_Die_1:
+  en: Talk about spoiling the mood...
+  ko: 아아… 분위기 좋았는데, 짜증 나.
+  ja: あーあ…いい雰囲気だったのに。ムカつく。
+c112_02_Win_1:
+  en: Now that that's over, let's take a photo to commemorate the occasion♡
+  ko: 자기야♡ 끝났으니까 같이 기념사진~ 어때~?
+  ja: ダーリン♡終わったよ。一緒に記念写真撮ろ～♡
+112_cv_ja:
+  en: 'CV: Tomori Kusunoki'
+  ko: 'CV : 쿠스노키 토모리'
+  ja: CV：楠木ともり
+112_cv_ko:
+  en: 'CV: Jo Kyung-yi'
+  ko: 'CV : 조경이'
+  ja: CV：チョ・ギョンイ
+112_cv_en:
+  en: 'CV: Samantha Berman'
+  ko: 'CV : 사만다 버먼'
+  ja: CV：Samantha Berman

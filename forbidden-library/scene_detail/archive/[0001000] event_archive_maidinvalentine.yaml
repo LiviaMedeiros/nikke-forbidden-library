@@ -1,0 +1,3776 @@
+---
+event_maidinvalentine_prologue:
+  event_maidinvalentine_prologue_1:
+    speaker: cocoa
+    en: Finally! It's about time.
+    ko: "…드디어, 올 것이 와써."
+    ja: "…ついに、この時が来た。"
+  event_maidinvalentine_prologue_2:
+    speaker: cocoa
+    en: Ade, Soda. Are you ready?
+    ko: 에이드, 소다. 준비됐지?
+    ja: "…エード、ソーダ。準備はいい？"
+  event_maidinvalentine_prologue_3:
+    speaker: ade
+    en: We're all set here, and the chocolates have all been prepared.
+    ko: 그럼. 서비스도 다 세팅됐고, 특별 요리랑 초콜릿도 같이 준비했잖아.
+    ja: もちろん。サービスもバッチリだし、\nスペシャル料理とチョコも一緒に\n準備したでしょう？
+  event_maidinvalentine_prologue_4:
+    speaker: soda
+    en: I made sure the shop was sparkling clean too.
+    ko: 저도 전부 반짝반짝하게 청소했어요~!
+    ja: 私もピカピカにお掃除しました～！
+  event_maidinvalentine_prologue_5:
+    speaker: cocoa
+    en: Good. In that case...
+    ko: "…좋아. 그럼."
+    ja: "…よし。じゃあ…"
+  event_maidinvalentine_prologue_6:
+    speaker: cocoa
+    en: let's begin the Valentine's Day event!
+    ko: 밸런타인 기념행사를 시작하게따!
+    ja: バレンタイン記念イベント、始めるよっ！
+  event_maidinvalentine_prologue_7:
+    speaker: soda
+    en: Woohoo!
+    ko: 와아~
+    ja: わあ～！
+  event_maidinvalentine_prologue_8:
+    speaker: soda
+    en: Wait a minute... It's not Valentine's Day yet.
+    ko: "…어라? 시작하는 날까진 아직 조금 남은 거 아니었어요?"
+    ja: "…あれ？イベントって\\nもう少し先じゃありませんでしたか？"
+  event_maidinvalentine_prologue_9:
+    speaker: cocoa
+    en: I know. That was a practice run-through just now.
+    ko: 지금은 그냥 연습한 거여써.
+    ja: 今のはただのれんしゅー。
+  event_maidinvalentine_prologue_10:
+    speaker: ade
+    en: I've still got a few things to do before we close. Can you help me out, Cocoa?
+    ko: |-
+      후후. 아직 마무리 작업이 조금 남았으니까,
+      메이드장 코코아가 도와줄래?
+    ja: |-
+      ふふっ。まだ仕上げの作業が残ってるから、
+      メイド長のココアが手伝ってくれる？
+  event_maidinvalentine_prologue_11:
+    speaker: cocoa
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_maidinvalentine_prologue_12:
+    speaker: cocoa
+    en: Closing is my jam! Of course I'll help.
+    ko: 역시 마무리는 코코아가 해야대. 응.
+    ja: やっぱり仕上げはココアがやらなきゃ。うん。
+  event_maidinvalentine_prologue_13:
+    speaker: soda
+    en: I'll go wipe the windows one more time.
+    ko: 그럼 저는 유리창 한 번만 더 닦을게요!
+    ja: じゃあ私はもう1回窓を拭いてきます！
+  event_maidinvalentine_prologue_14:
+    speaker: soda
+    en: No matter how many times I wipe the windows, they're always stained...
+    ko: 유리창은 닦아도 닦아도 계속 똑같은 자리에 자국이 남아서… 흐엥….
+    ja: 拭いても拭いても、\n同じ場所に跡が残って…ふぇん…
+  event_maidinvalentine_prologue_15:
+    speaker: ade
+    en: Sounds like a plan.
+    ko: 후후, 그래.
+    ja: ふふ、そうね。
+  event_maidinvalentine_prologue_16:
+    speaker: ade
+    en: We're nothing if not well-prepared. I'm sure the customers are going to love
+      it.
+    ko: 다들 열심히 준비했으니까, 손님분들도 좋아해 주실 거야.
+    ja: みんな一生懸命準備したから、\nお客様も喜んでくれるはずよ。
+event_maidinvalentine_01_s:
+  event_maidinvalentine_01_s_1:
+    speaker: unknown
+    en: Noooooooooooooooooooo!!!
+    ko: NOOOOOOOOOOOOOO!!!
+    ja: NOOOOOOOOOOOOOO！！
+  event_maidinvalentine_01_s_2:
+    speaker: mustang
+    en: My maids! What is going on here?!
+    ko: My Maid들! 이게 대체 무슨 일인가Yo?!
+    ja: My Maidたち！\nこれはどういうことですKa！？
+  event_maidinvalentine_01_s_3:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_01_s_4:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_01_s_5:
+    speaker: soda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_01_s_6:
+    speaker: mustang
+    en: You've all done très magnifique preparing for the special event.
+    ko: 여러분들이 준비한 특별 Event, 전부 완벽해Yo.
+    ja: みなさんが用意したスペシャルEvent、\nすべて完璧Desu。
+  event_maidinvalentine_01_s_7:
+    speaker: mustang
+    en: The desserts are incroyable as always, particularly the chocolate.
+    ko: |-
+      Dessert와 요리도 여느 때처럼 훌륭합니Da.
+      그중에서도 역시 이 Chocolate들은 최고로 Delicious!
+    ja: |-
+      Dessertも料理も、\nいつものように素晴らしいDesu。
+      その中でも、やはりこの\nChocolateは最高にDelicious！
+  event_maidinvalentine_01_s_8:
+    speaker: mustang
+    en: Truly something worth attaching mon sobriquet to.
+    ko: 그건 Me의 Name을 걸고 단언할 수 있어Yo.
+    ja: それはMeのNameにかけて断言できMASU。
+  event_maidinvalentine_01_s_9:
+    speaker: mustang
+    en: However!
+    ko: But!!!
+    ja: But！！
+  event_maidinvalentine_01_s_10:
+    speaker: mustang
+    en: 'Zis chocolate is just that: chocolate, and nothing more.'
+    ko: 이건 그냥 맛있는 Chocolate일 뿐이G,
+    ja: これはただのおいしいChocolateで\nあるだけDe、
+  event_maidinvalentine_01_s_11:
+    speaker: mustang
+    en: Non, I cannot say it is a Valentine's Day chocolate.
+    ko: Valentine 춰컬릿이라고는 할 수 없어Yo!
+    ja: Valentineチョォコレイトゥとは\n言えないのDesu！
+  event_maidinvalentine_01_s_12:
+    speaker: ade
+    en: Boss, I don't quite understand...
+    ko: 사장님, 그 말씀은….
+    ja: 社長、つまり…
+  event_maidinvalentine_01_s_13:
+    speaker: mustang
+    en: I ask you, what do people do on Valentine's Day?
+    ko: Valentine's Day란 어떤 Day인가Yo?
+    ja: Valentine's Dayとは、どんなDayですKa？
+  event_maidinvalentine_01_s_14:
+    speaker: soda
+    en: Express their feelings for someone by giving them chocolate?
+    ko: 음… 좋아하는 사람에게 초콜릿으로 마음을 전하는 날 아닌가요?
+    ja: えっと…好きな人に\nチョコで気持ちを伝える日ですよね？
+  event_maidinvalentine_01_s_15:
+    speaker: mustang
+    en: Précisément!
+    ko: Correct!
+    ja: Correct！
+  event_maidinvalentine_01_s_16:
+    speaker: mustang
+    en: It is a très romantique time to express your amour. That is what Valentine's
+      Day is.
+    ko: |-
+      사랑하는 이에게 Heart를 전하는 Romantic Day.
+      그것이 바로 Valentine's Day 입니Da.
+    ja: |-
+      愛する人にHeartを伝えるRomantic Day、
+      それこそValentine's DayなのDesu。
+  event_maidinvalentine_01_s_17:
+    speaker: mustang
+    en: So, do you know what is missing in this chocolate?
+    ko: 그럼 이 Chocolate에 부족한 것이 뭔지 아시겠습니Gga?
+    ja: ではこのChocolateに足りないものは\n何か分かりますKa？
+  event_maidinvalentine_01_s_18:
+    speaker: soda
+    en: Milk-flavored Splendamin?
+    ko: 역시 우유 퍼펙트를 조금 더 넣어야 했을까요…?
+    ja: やっぱり牛乳パーフェクトを\nもう少し入れるべきでしたか…？
+  event_maidinvalentine_01_s_19:
+    speaker: mustang
+    en: Non.
+    ko: 아닙니Da.
+    ja: 違いMASU。
+  event_maidinvalentine_01_s_20:
+    speaker: soda
+    en: Oh...
+    ko: 힝….
+    ja: ふぇん…
+  event_maidinvalentine_01_s_21:
+    speaker: cocoa
+    en: Some ketchup?
+    ko: 케첩을 더 너으께.
+    ja: ケチャップをもっと入れる。
+  event_maidinvalentine_01_s_22:
+    speaker: mustang
+    en: Non!
+    ko: No!
+    ja: No！
+  event_maidinvalentine_01_s_23:
+    speaker: cocoa
+    en: Darn, I thought I had it.
+    ko: 칫.
+    ja: ちっ。
+  event_maidinvalentine_01_s_24:
+    speaker: ade
+    en: Isn't it obvious? They need some tender loving care.
+    ko: 역시… 진심이 담겨야 하는 거겠죠.
+    ja: やはり…心をこめるべきですよね。
+  event_maidinvalentine_01_s_25:
+    speaker: mustang
+    en: Oui!
+    ko: Yes!
+    ja: Yes！
+  event_maidinvalentine_01_s_26:
+    speaker: mustang
+    en: For an occasion like Valentine's Day, you must pour your heart and soul into
+      the chocolate.
+    ko: Valentine 춰컬릿에는 True Heart가 담겨 있어야 해Yo.
+    ja: Valentineチョォコレイトゥには\nTrue Heartが必要なのDesu。
+  event_maidinvalentine_01_s_27:
+    speaker: mustang
+    en: These are the most essential of all ingredients, and they are absent here!
+    ko: This 춰컬릿에는 바로 그 근본적인 것이 빠져 있습니Da!
+    ja: Thisチョォコレイトゥには、\nその根本的なものが欠けていますYo！
+  event_maidinvalentine_01_s_28:
+    speaker: mustang
+    en: This is truly infortuné, but it seems I have no choice but to cancel the Valentine's
+      Day event.
+    ko: 안타깝지Man. 이 상태로는 Valentine Event를 허락할 수 없어Yo.
+    ja: 残念ですGa、このままでは\nValentine Eventを許可できませんNe。
+  event_maidinvalentine_01_s_29:
+    speaker: ade
+    en: But Boss...
+    ko: 사장님, 하지만….
+    ja: 社長、しかし…
+  event_maidinvalentine_01_s_30:
+    speaker: mustang
+    en: That is, of course,
+    ko: My Lovely 메이드들. 남은 며칠Gan.
+    ja: My Lovelyメイドたち。残りの数日Kanで、
+  event_maidinvalentine_01_s_31:
+    speaker: mustang
+    en: unless you all can concoct the ultimate Valentine's Day chocolate with the
+      days that remain.
+    ko: 진정한 Valentine 춰컬릿을 만들어 내도록 하세Yo.
+    ja: 真のValentineチョォコレイトゥを\n作ってくださいNe。
+  event_maidinvalentine_01_s_32:
+    speaker: mustang
+    en: If you fail, then the event is annulé.
+    ko: 만약 실패한다면, 올해 Valentine Event는 없습니Da.
+    ja: もし失敗したら、\n今年のValentine EventはありませんYo。
+  event_maidinvalentine_01_s_33:
+    speaker: soda
+    en: Oh boy, what are we gonna do?
+    ko: 흐엥… 어떡하죠…?
+    ja: ふぇん…どうしましょう…？
+  event_maidinvalentine_01_s_34:
+    speaker: soda
+    en: We tried so hard to prepare...
+    ko: 엄청 열심히 준비했는데에….
+    ja: 一生懸命準備したのにぃ…
+  event_maidinvalentine_01_s_35:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_01_s_36:
+    speaker: ade
+    en: True Valentine's Day chocolates...
+    ko: 진정한 밸런타인 초콜릿….
+    ja: 真のバレンタインチョコ…
+  event_maidinvalentine_01_s_37:
+    speaker: "<Monologue>"
+    en: Having heard about the Valentine's Day special event, I visit the Maid Cafe.
+    ko: 밸런타인 특별 행사를 한다는 소식을 듣고, 메이드 카페를 방문했다.
+    ja: バレンタイン特別イベントを開催すると聞いて\nメイドカフェを訪ねた
+  event_maidinvalentine_01_s_38:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 짤랑-
+    ja: チリン
+  event_maidinvalentine_01_s_39:
+    speaker: "<Self>"
+    en: Hi, I heard you're holding a special ev...
+    ko: 안녕. 밸런타인 행사를 한다고 들었….
+    ja: バレンタインイベントをやると聞い…
+  event_maidinvalentine_01_s_40:
+    speaker: ade
+    en: Hey, Master.
+    ko: 아, 주인님….
+    ja: あっ、ご主人様…
+  event_maidinvalentine_01_s_41:
+    speaker: soda
+    en: Master! It's terrible!
+    ko: 주인님! 흐엥…!
+    ja: ご主人様！ふぇん…！
+  event_maidinvalentine_01_s_42:
+    speaker: cocoa
+    en: "... *Sob*"
+    ko: "…훌쩍."
+    ja: "…ぐすん。"
+  event_maidinvalentine_01_s_43:
+    speaker: "<Self>"
+    en: What is it?
+    ko: 무슨 일 있었어?
+    ja: 何かあったのか？
+  event_maidinvalentine_01_s_44:
+    speaker: ade
+    en: Well...
+    ko: 그게….
+    ja: それが…
+  event_maidinvalentine_01_s_45:
+    speaker: "<Monologue>"
+    en: The three Nikkes fill me in on their latest setback.
+    ko: 메이드들에게 조금 전 있었던 일을 들었다.
+    ja: メイドたちから先ほどの出来事について聞いた
+  event_maidinvalentine_01_s_46:
+    speaker: "<Self>"
+    en: I see. That's a big problem.
+    ko: 그랬구나. 큰일인데….
+    ja: そうだったのか。大変だな…
+  event_maidinvalentine_01_s_47:
+    speaker: ade
+    en: You got that right.
+    ko: 네. 그래서….
+    ja: はい。それで…
+  event_maidinvalentine_01_s_48:
+    speaker: soda
+    en: You have to help us, Master!
+    ko: 주인님! 도와주세요…!
+    ja: ご主人様！助けてください…！
+  event_maidinvalentine_01_s_49:
+    speaker: "<Self>"
+    en: Me?
+    ko: 내가?
+    ja: 私が？
+  event_maidinvalentine_01_s_50:
+    speaker: soda
+    en: Yes! We've been working so hard preparing for this...
+    ko: 네! 저희 엄청 열심히 준비했단 말이에요오….
+    ja: はい！私たち、一生懸命準備したんですよぉ…
+  event_maidinvalentine_01_s_51:
+    speaker: cocoa
+    en: "... *Sob*"
+    ko: "……훌쩍."
+    ja: "……ぐすん。"
+  event_maidinvalentine_01_s_52:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_01_s_53:
+    speaker: ade
+    en: You're not busy, are you, Master?
+    ko: 주인님. 혹시 바쁘신가요?
+    ja: ご主人様、お忙しいですか？
+  event_maidinvalentine_01_s_54:
+    speaker: "<Self>"
+    en: No. I'm free.
+    ko: 아니. 한가해.
+    ja: いや、退屈してるところだ
+  event_maidinvalentine_01_s_55:
+    speaker: ade
+    en: Then can I ask a favor of you?
+    ko: 그러면 하나만 부탁드려도 될까요?
+    ja: それなら、1つだけお願いしても\nよろしいですか？
+  event_maidinvalentine_01_s_56:
+    speaker: ade
+    en: Other than the chocolate, I feel that we're in need of an inspection regarding
+      our overall service.
+    ko: 초콜릿은 물론이고, 전반적인 서비스를 다시 한번 점검해봐야 할 것 같아서요.
+    ja: チョコだけでなく、全般的なサービスを\nもう一度チェックした方がよさそうなので。
+  event_maidinvalentine_01_s_57:
+    speaker: ade
+    en: If it's okay with you, I'd like you to let us serve you and then give us your
+      feedback.
+    ko: 괜찮으시면 한 번 경험해보시고, 평가를 해주셨으면 하는데….
+    ja: よろしければ一度体験して、\n評価していただけないかと…
+  event_maidinvalentine_01_s_58:
+    speaker: "<Self>"
+    en: Okay, what do you need me to do?
+    ko: 알았어. 뭐부터 하면 돼?
+    ja: 分かった。何をすればいい？
+  event_maidinvalentine_01_s_59:
+    speaker: cocoa
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_maidinvalentine_01_s_60:
+    speaker: soda
+    en: Oh...!
+    ko: 아앗…!
+    ja: わあっ…！
+  event_maidinvalentine_01_s_61:
+    speaker: ade
+    en: Are you sure it's okay?
+    ko: 저, 정말 괜찮으세요…?
+    ja: ほ、本当によろしいのですか…？
+  event_maidinvalentine_01_s_62:
+    speaker: "<Self>"
+    en: Sure.
+    ko: 응.
+    ja: ああ
+  event_maidinvalentine_01_s_63:
+    speaker: cocoa
+    en: All right then, this way.
+    ko: 주인. 이쪽으로.
+    ja: 主人。こっち。
+  event_maidinvalentine_01_s_64:
+    speaker: cocoa
+    en: Time to show you what a professional maid can do.
+    ko: 프로 메이드의 진심을 보여 주께.
+    ja: プロメイドの本気を見せてあげる。
+event_maidinvalentine_01_e:
+  event_maidinvalentine_01_e_1:
+    speaker: "<Monologue>"
+    en: Cocoa takes me through a hallway and shows me to a table.
+    ko: 코코아에게 이끌려 홀의 테이블에 앉았다.
+    ja: ココアに引っ張られて\nホールのテーブルに着いた
+  event_maidinvalentine_01_e_2:
+    speaker: cocoa
+    en: Ready to go?
+    ko: 주인. 준비돼써?
+    ja: 主人、準備はいい？
+  event_maidinvalentine_01_e_3:
+    speaker: "<Choice>"
+    en: As ready as I'll ever be.
+    ko: 완벽히.
+    ja: 完璧だ
+  event_maidinvalentine_01_e_4:
+    speaker: "<Choice>"
+    en: I'm not sure what I'm supposed to be ready for, but sure.
+    ko: 뭔지는 모르겠지만 일단은.
+    ja: よく分からないが、\nとりあえず準備はできた
+  event_maidinvalentine_01_e_5:
+    speaker: soda
+    en: Get ready for an all-new experience.
+    ko: 이제부터 저희가 새로 준비한 서비스를 체험시켜 드릴 거예요.
+    ja: 今から私たちが準備したサービスを\n体験していただきます。
+  event_maidinvalentine_01_e_6:
+    speaker: soda
+    en: Our Valentine's Day-themed service!
+    ko: 그것도 밸런타인 특별 버전~!
+    ja: バレンタイン特別バージョンで～！
+  event_maidinvalentine_01_e_7:
+    speaker: "<Choice>"
+    en: I'm getting a bit hot under the collar...
+    ko: 후욱후욱.
+    ja: はぁはぁ
+  event_maidinvalentine_01_e_8:
+    speaker: "<Choice>"
+    en: I'm supposed to help point out areas that need improvement, right?
+    ko: 문제점을 파악해 달라는 거지?
+    ja: 問題点を見つけてほしいということだな？
+  event_maidinvalentine_01_e_9:
+    speaker: cocoa
+    en: Why are you making that face?
+    ko: "…주인. 왜 그런 표정을 짓는 거지."
+    ja: "…主人。その顔は何？"
+  event_maidinvalentine_01_e_10:
+    speaker: soda
+    en: Your breathing is ragged as well.
+    ko: 숨도 조금 거칠어지셨어요.
+    ja: 息も少し荒くなったような…
+  event_maidinvalentine_01_e_11:
+    speaker: soda
+    en: Are you not feeling well?
+    ko: 혹시 몸이 안 좋으신 걸까요…?
+    ja: もしやどこか具合が…？
+  event_maidinvalentine_01_e_12:
+    speaker: ade
+    en: Hm...
+    ko: 음….
+    ja: ええと…
+  event_maidinvalentine_01_e_13:
+    speaker: ade
+    en: I'm glad you're so... eager to assist. But for now...
+    ko: 기대해주시는 건 정말 감사해요. 그렇지만 지금은 일단….
+    ja: 期待してくださるのは嬉しいのですが\n今はひとまず…
+  event_maidinvalentine_01_e_14:
+    speaker: ade
+    en: Precisely.
+    ko: 네. 맞아요.
+    ja: そのとおりです。
+  event_maidinvalentine_01_e_15:
+    speaker: ade
+    en: Just allow us to serve you, and let us know if there are any problems or if
+      we've overlooked something.
+    ko: 저희 서비스를 받아보시고, 문제점이나 부족한 점이 있으면 말씀해주세요.
+    ja: 私たちのサービスを体験して、\n問題点や足りない点を教えてください。
+  event_maidinvalentine_01_e_16:
+    speaker: cocoa
+    en: All you have to do is sit here nice and comfortably,
+    ko: 주인은 그냥 편안하게 앉아서.
+    ja: 主人は気楽に座って、
+  event_maidinvalentine_01_e_17:
+    speaker: cocoa
+    en: nod your head, and give us some positive affirmation.
+    ko: 흠흠. 조쿤. 이렇게만 말하면 대.
+    ja: "「おほん。いいではないか」\\nって言ってくれればいいから。"
+  event_maidinvalentine_01_e_18:
+    speaker: "<Choice>"
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かった
+  event_maidinvalentine_01_e_19:
+    speaker: "<Choice>"
+    en: Sounds good.
+    ko: 흠흠. 좋군.
+    ja: おほん。いいではないか
+  event_maidinvalentine_01_e_20:
+    speaker: cocoa
+    en: Great.
+    ko: 조아써.
+    ja: そのちょーし。
+  event_maidinvalentine_01_e_21:
+    speaker: soda
+    en: We'll start from the top, then.
+    ko: 그럼 처음부터 할게요~!
+    ja: では始めますよ～！
+  event_maidinvalentine_01_e_22:
+    speaker: soda
+    en: We've decided to change our greetings for the occasion.
+    ko: 밸런타인 시즌에는 인사말을 바꾸기로 했거든요.
+    ja: バレンタインシーズンは\n挨拶を変えることにしたんです。
+  event_maidinvalentine_01_e_23:
+    speaker: "<Monologue>"
+    en: Soda walks a step towards me.
+    ko: 소다는 내게 한 걸음 다가섰다.
+    ja: ソーダは私に一歩近づいた
+  event_maidinvalentine_01_e_24:
+    speaker: soda
+    en: Soda, at your service, Master.
+    ko: 주인님만을 위한 메이드 포 유~
+    ja: ご主人様だけのメイド・フォー・ユー♡
+  event_maidinvalentine_01_e_25:
+    speaker: soda
+    en: From my heart to yours, happy Valentine's Day.
+    ko: 주인님의 하트에 아이 러브 유~
+    ja: ご主人様のハートにアイラブユー♡
+  event_maidinvalentine_01_e_26:
+    speaker: soda
+    en: Love you!
+    ko: 헤헤. 사랑해요, 주인님~♡
+    ja: えへへ。大好きです！ご主人様～♡
+  event_maidinvalentine_01_e_27:
+    speaker: "<Choice>"
+    en: Oh my God...
+    ko: 크윽…!
+    ja: くぅっ…！
+  event_maidinvalentine_01_e_28:
+    speaker: "<Choice>"
+    en: Not bad. Not bad at all.
+    ko: 오. 좋은 것 같아.
+    ja: いいと思う
+  event_maidinvalentine_01_e_29:
+    speaker: soda
+    en: Master?
+    ko: 주인님?
+    ja: ご主人様？
+  event_maidinvalentine_01_e_30:
+    speaker: "<Self>"
+    en: "... Sorry. Continue."
+    ko: "…미안. 계속해줘."
+    ja: "…すまない。続けてくれ"
+  event_maidinvalentine_01_e_31:
+    speaker: soda
+    en: Is it? That's a relief.
+    ko: 그런가요? 다행이다~
+    ja: そうですか？よかったです～
+  event_maidinvalentine_01_e_32:
+    speaker: cocoa
+    en: I'm up next.
+    ko: 다음은 코코아 차례지.
+    ja: 次はココアの番。
+  event_maidinvalentine_01_e_33:
+    speaker: cocoa
+    en: Just a moment.
+    ko: 조금만 기다려.
+    ja: ちょっと待ってて。
+  event_maidinvalentine_01_e_34:
+    speaker: "<Monologue>"
+    en: Soon after, Cocoa produces a terrifying-looking object with something bright
+      red dripping from it.
+    ko: 잠시 후, 코코아가 시뻘건 무언가가 흘러내리는 괴상한 물체를 들고 왔다.
+    ja: しばらくしてココアは、\n真っ赤な何かがしたたり落ちる\n奇妙な物体を持ってきた
+  event_maidinvalentine_01_e_35:
+    speaker: "<Choice>"
+    en: Is that... fried rice plated in the shape of a heart?
+    ko: "…몽글몽글 ♪ 사랑의 하트 볶음밥?"
+    ja: "…ふわふわ♪恋のハートチャーハン？"
+  event_maidinvalentine_01_e_36:
+    speaker: "<Choice>"
+    en: Is that... omurice plated in the shape of a bunny?
+    ko: "…쫑긋쫑긋 ♪ 바니바니 오므라이스?"
+    ja: "…ぴょこぴょこ♪バニーバニーオムライス？"
+  event_maidinvalentine_01_e_37:
+    speaker: "<Choice>"
+    en: Is that... spicy bibimbap?
+    ko: "…울긋불긋 ♪ 파멸의 날 비빔밥?"
+    ja: "…カラフル♪破滅の日ビビンバ？"
+  event_maidinvalentine_01_e_38:
+    speaker: cocoa
+    en: Wrong. This is a special item from our Valentine's Day menu.
+    ko: 틀려써. 이건 밸런타인 특별 메뉴.
+    ja: 違うよ。これはバレンタイン特別メニュー。
+  event_maidinvalentine_01_e_39:
+    speaker: cocoa
+    en: Sweet & Sour Curry Rice of Love.
+    ko: 새콤달콤 ♡ 사랑의 카레라이스야.
+    ja: 甘酸っぱい♡\n愛のカレーライス。
+  event_maidinvalentine_01_e_40:
+    speaker: ade
+    en: Don't worry, you won't get sick. I made sure of that.
+    ko: 걱정하지 마세요, 주인님. 제가 확인했으니까요.
+    ja: ご主人様、ご心配なく。\n私が味見しましたから。
+  event_maidinvalentine_01_e_41:
+    speaker: "<Self>"
+    en: If you say so...
+    ko: 그, 그럼….
+    ja: で、では…
+  event_maidinvalentine_01_e_42:
+    speaker: "<Monologue>"
+    en: With some trepidation, I take a bite of the rice.
+    ko: 조심스레 새콤달콤 ♡ 사랑의 카레라이스를 한 입 먹었다.
+    ja: 甘酸っぱい♡愛のカレーライスを\n恐る恐る一口食べた
+  event_maidinvalentine_01_e_43:
+    speaker: cocoa
+    en: What do you think?
+    ko: 주인. 맛 평가.
+    ja: 主人、味の評価。
+  event_maidinvalentine_01_e_44:
+    speaker: "<Self>"
+    en: It's... good?
+    ko: "…맛있네?"
+    ja: "…おいしいぞ？"
+  event_maidinvalentine_01_e_45:
+    speaker: cocoa
+    en: Since it's Valentine's Day, I used some ketchup with a smidgen of chocolate
+      zest in it.
+    ko: 당연하지. 밸런타인이라 특별히 초코 향이 0.0023% 함유된 케첩을 썼으니까.
+    ja: 当然だよ。バレンタインだから特別に\nチョコの香り0.0023％配合の\nケチャップを使ったから。
+  event_maidinvalentine_01_e_46:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_01_e_47:
+    speaker: ade
+    en: Now, I'll bring out the dessert.
+    ko: 이제 디저트를 내어올게요.
+    ja: お次はデザートですね。
+  event_maidinvalentine_01_e_48:
+    speaker: "<Monologue>"
+    en: Ade wheels out a food cart occupied entirely with a scrumptious-looking chocolate
+      confection.
+    ko: 곧 보기만 해도 먹음직스러운 초콜릿 디저트가 한 상 가득 차려졌다.
+    ja: おいしそうなチョコのデザートが\n手早くたくさん並べられた
+  event_maidinvalentine_01_e_49:
+    speaker: ade
+    en: It's not much, but I worked hard on it.
+    ko: 보잘것없지만 주인님을 위해 열심히 준비했어요.
+    ja: つまらないものですが、ご主人様のために\n一生懸命準備しました。
+  event_maidinvalentine_01_e_50:
+    speaker: ade
+    en: I hope you enjoy it.
+    ko: 부디, 맛있게 드셔주세요.
+    ja: どうぞお召し上がりください。
+  event_maidinvalentine_01_e_51:
+    speaker: "<Self>"
+    en: Thank you.
+    ko: 잘 먹을게.
+    ja: いただきます
+  event_maidinvalentine_01_e_52:
+    speaker: "<Monologue>"
+    en: The moment I sink my teeth into the chocolate cake, a sense of euphoria spreads
+      through my entire body.
+    ko: 초콜릿케이크를 한 입 먹자마자 입 안에 황홀한 느낌이 퍼진다.
+    ja: チョコケーキを口に入れた瞬間\nうっとりするような感覚が広がった
+  event_maidinvalentine_01_e_53:
+    speaker: ade
+    en: How is it?
+    ko: 어떠세요…?
+    ja: いかがですか…？
+  event_maidinvalentine_01_e_54:
+    speaker: "<Self>"
+    en: It's fantastic!
+    ko: 엄청 맛있어…!
+    ja: すごくおいしい…！
+  event_maidinvalentine_01_e_55:
+    speaker: ade
+    en: Haha, thank you.
+    ko: 후후, 감사해요.
+    ja: ふふ、ありがとうございます。
+  event_maidinvalentine_01_e_56:
+    speaker: ade
+    en: Any chance you could elaborate?
+    ko: 그런데… 혹시 그 외에 다른 감상은 없으신가요…?
+    ja: ところで…他の感想はございませんか…？
+  event_maidinvalentine_01_e_57:
+    speaker: "<Self>"
+    en: What else is there to say? It's amazing.
+    ko: 맛있다는 것 외엔….
+    ja: おいしい以外には…
+  event_maidinvalentine_01_e_58:
+    speaker: ade
+    en: I suppose that's a relief.
+    ko: 그런가요… 이걸 다행이라고 해야 할지….
+    ja: そうですか…よかったと言うべきでしょうか…
+  event_maidinvalentine_01_e_59:
+    speaker: ade
+    en: Let's move on, shall we?
+    ko: 일단 다음 서비스로 모실게요.
+    ja: ひとまず次のサービスに移りますね。
+  event_maidinvalentine_01_e_60:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 짤랑-
+    ja: チリン
+  event_maidinvalentine_01_e_61:
+    speaker: "<Self>"
+    en: Has a customer arrived?
+    ko: 손님이 왔나 본데?
+    ja: 客が来たようだが？
+  event_maidinvalentine_01_e_62:
+    speaker: ade
+    en: But we're not open yet... excuse me.
+    ko: 아직 오픈 전인데… 잠시만요, 주인님.
+    ja: まだオープン前なのに…\nお待ちください、ご主人様。
+event_maidinvalentine_02_s:
+  event_maidinvalentine_02_s_1:
+    speaker: signal
+    en: Um, excuse me...
+    ko: 시, 실례합니다….
+    ja: し、失礼します…
+  event_maidinvalentine_02_s_2:
+    speaker: signal
+    en: Are you holding any chocolate-making classes at the moment?
+    ko: 혹시 지금 초콜릿 만들기 체험해 볼 수 있나요?
+    ja: あの、チョコ作り体験はできますか？
+  event_maidinvalentine_02_s_3:
+    speaker: ade
+    en: Oh, hello Miss. Nice to see you again.
+    ko: 다녀오셨어요, 아가씨.
+    ja: お帰りなさいませ、お嬢様。
+  event_maidinvalentine_02_s_4:
+    speaker: ade
+    en: I'm sorry, but we haven't gotten permission from our Boss, and the event has
+      been postponed.
+    ko: 죄송해요. 아직 저희 사장님께 행사 개시 허락을 못 받아서요.
+    ja: すみません。まだ社長から\nイベント開始の許可が下りていないのです。
+  event_maidinvalentine_02_s_5:
+    speaker: signal
+    en: Oh...
+    ko: 아….
+    ja: あっ…
+  event_maidinvalentine_02_s_6:
+    speaker: ade
+    en: Don't worry, I can still give you a few pointers.
+    ko: 후후. 그래도 간단한 조언 정도는 해드릴 수 있어요.
+    ja: ふふ。でも簡単なアドバイス程度なら\nできますよ。
+  event_maidinvalentine_02_s_7:
+    speaker: ade
+    en: You're trying to make chocolate, you said?
+    ko: 초콜릿을 만들어 보시려는 거죠?
+    ja: チョコを作りたいんですよね？
+  event_maidinvalentine_02_s_8:
+    speaker: signal
+    en: Yes. I tried making it on my own but I'm not confident.
+    ko: 네. 혼자서 만들어보긴 했는데 자신이 없어서요.
+    ja: はい。1人で作ってみたんですが、\n自信がなくて…
+  event_maidinvalentine_02_s_9:
+    speaker: signal
+    en: This is the best I could come up with.
+    ko: 일단 이렇게 만들어봤는데….
+    ja: とりあえず、こんな感じで作ってみたんですが…
+  event_maidinvalentine_02_s_10:
+    speaker: "<Narration>"
+    en: "*Thump*"
+    ko: 덜컥.
+    ja: ガチャ
+  event_maidinvalentine_02_s_11:
+    speaker: ade
+    en: You made everything in this box?
+    ko: 어머. 이 아이스박스에 들어있는 걸 전부 만드신 거예요?
+    ja: あら。このアイスボックスに\n入っているもの全部ですか？
+  event_maidinvalentine_02_s_12:
+    speaker: signal
+    en: Yes...
+    ko: 네….
+    ja: はい…
+  event_maidinvalentine_02_s_13:
+    speaker: ade
+    en: It looks delicious. I can see you put a lot of effort into the shapes and
+      the wrapping.
+    ko: |-
+      정말 맛있어 보여요.
+      모양이랑 포장도 정성이 많이 들어간 것 같고요.
+    ja: |-
+      すごくおいしそうですね。
+      形もラッピングも、\n心がこもっているのが伝わってきます。
+  event_maidinvalentine_02_s_14:
+    speaker: signal
+    en: Phew... I'm glad you approve!
+    ko: 그, 그런가요…? 다행이다….
+    ja: そ、そうですか…？よかった…
+  event_maidinvalentine_02_s_15:
+    speaker: "<Self>"
+    en: Signal, you made this all? It looks delicious.
+    ko: 전부 시그널이 만든 거야? 맛있어 보여.
+    ja: 全部シグナルが作ったのか？おいしそうだ
+  event_maidinvalentine_02_s_16:
+    speaker: signal
+    en: Thank you, it was a lot of work.
+    ko: 앗. 감사해요. 열심히….
+    ja: あっ、ありがとうございます。一生懸命…
+  event_maidinvalentine_02_s_17:
+    speaker: signal
+    en: "... Huh?"
+    ko: "…어라?"
+    ja: "…あれ？"
+  event_maidinvalentine_02_s_18:
+    speaker: signal
+    en: Co-Co-Co-Commander?!
+    ko: 지지지지휘관?!
+    ja: ししし、指揮官！？
+  event_maidinvalentine_02_s_19:
+    speaker: "<Self>"
+    en: Hey there.
+    ko: 안녕.
+    ja: ああ
+  event_maidinvalentine_02_s_20:
+    speaker: signal
+    en: Wh-what are you doing he...agh!
+    ko: 왜, 왜 여기에… 꺅?!
+    ja: ど、どうしてここに…キャッ！？
+  event_maidinvalentine_02_s_21:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 꽈당!
+    ja: バタン！
+  event_maidinvalentine_02_s_22:
+    speaker: "<Monologue>"
+    en: Signal trips while backing up and falls to the ground.
+    ko: 시그널은 뒷걸음질 치다 발을 헛디뎌 넘어지고 말았다.
+    ja: シグナルは後ずさりをして足がもつれ\n転んでしまった
+  event_maidinvalentine_02_s_23:
+    speaker: "<Self>"
+    en: Are you okay?
+    ko: 괜찮아?
+    ja: 大丈夫か？
+  event_maidinvalentine_02_s_24:
+    speaker: signal
+    en: Ouch... I'm okay.
+    ko: 아야야… 괘, 괜찮아요.
+    ja: うぅ…だ、大丈夫です。
+  event_maidinvalentine_02_s_25:
+    speaker: signal
+    en: Oh no, the chocolates!
+    ko: 앗, 초콜릿이….
+    ja: あっ、チョコが…
+  event_maidinvalentine_02_s_26:
+    speaker: "<Monologue>"
+    en: The chocolates that Signal was carrying fall all over the floor.
+    ko: 시그널이 메고 있던 아이스박스에서 쏟아진 초콜릿이 바닥에 흩어져 있다.
+    ja: シグナルが背負っていたアイスボックスから\n飛び出したチョコが床に散らばっていた
+  event_maidinvalentine_02_s_27:
+    speaker: signal
+    en: I'm sorry! I'll clean it up at once.
+    ko: 죄, 죄송해요! 금방 치울게요!
+    ja: す、すみません！すぐに片付けます！
+  event_maidinvalentine_02_s_28:
+    speaker: "<Self>"
+    en: Let me help.
+    ko: 도와줄게.
+    ja: 手伝おう
+  event_maidinvalentine_02_s_29:
+    speaker: "<Monologue>"
+    en: I pick up the biggest chocolate of the bunch. It has been exquisitely wrapped.
+    ko: 이리저리 흩어진 초콜릿 중, 가장 커다랗고 정성스레 포장된 초콜릿을 집어 들었다.
+    ja: あちこちに散らばってしまったチョコの中で、\n一番大きく丁寧にラッピングされた\nチョコを手に取った
+  event_maidinvalentine_02_s_30:
+    speaker: signal
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  event_maidinvalentine_02_s_31:
+    speaker: signal
+    en: Just a second, Commander, that one is...!!
+    ko: 지, 지휘관! 잠깐만요! 그건…!
+    ja: し、指揮官！\n待ってください！それは…！
+  event_maidinvalentine_02_s_32:
+    speaker: "<Self>"
+    en: Huh? Is this a letter?
+    ko: 어라? 편지?
+    ja: 手紙？
+  event_maidinvalentine_02_s_33:
+    speaker: "<Monologue>"
+    en: Attached to the wrapping is a small envelope.
+    ko: 포장지에 끼워진 귀여운 편지봉투 겉면에는….
+    ja: かわいい封筒が包装紙に挟まっており、\nそこには…
+  event_maidinvalentine_02_s_34:
+    speaker: "<Monologue>"
+    en: 'On it is written: To my darling Commander.'
+    ko: "[정말 좋아하는 지휘관에게.] 라고 쓰여있다."
+    ja: "「大好きな指揮官へ」と書かれていた"
+  event_maidinvalentine_02_s_35:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_s_36:
+    speaker: signal
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_s_37:
+    speaker: signal
+    en: "*Gulp*"
+    ko: 아아….
+    ja: あぁ…
+event_maidinvalentine_02_e:
+  event_maidinvalentine_02_e_1:
+    speaker: "<Narration>"
+    en: 30 minutes later.
+    ko: 30분 후.
+    ja: 30分後
+  event_maidinvalentine_02_e_2:
+    speaker: "<Self>"
+    en: So... you came to improve your chocolate-making skills?
+    ko: 그러니까… 좀 더 맛있는 초콜릿을 만들고 싶어서 찾아온 거구나?
+    ja: つまり…もっとおいしいチョコを作りたくて\nやってきたということか？
+  event_maidinvalentine_02_e_3:
+    speaker: signal
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_e_4:
+    speaker: "<Monologue>"
+    en: Signal nods her head without saying anything.
+    ko: 시그널은 말없이 고개를 끄덕였다.
+    ja: シグナルは無言で頷いた
+  event_maidinvalentine_02_e_5:
+    speaker: "<Self>"
+    en: So, did you wear this outfit
+    ko: 그리고 그 차림은….
+    ja: そしてその格好は…
+  event_maidinvalentine_02_e_6:
+    speaker: "<Self>"
+    en: so giving me chocolates would seem more natural?
+    ko: 나한테 자연스럽게 주려고 분장한 거고…?
+    ja: 私に自然にチョコを渡すためにコスプレを…？
+  event_maidinvalentine_02_e_7:
+    speaker: signal
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_e_8:
+    speaker: signal
+    en: Uh...!
+    ko: 으으…!
+    ja: うう…！
+  event_maidinvalentine_02_e_9:
+    speaker: "<Monologue>"
+    en: Signal seems to nod.
+    ko: 시그널은 보일 듯 말듯 고개를 끄덕였다.
+    ja: シグナルはほんのわずかに頷いた
+  event_maidinvalentine_02_e_10:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_e_11:
+    speaker: "<Self>"
+    en: Thanks. I will enjoy it.
+    ko: 고마워. 잘 먹을게.
+    ja: ありがとう。いただくよ
+  event_maidinvalentine_02_e_12:
+    speaker: signal
+    en: "... Yes."
+    ko: "……네."
+    ja: "…はい。"
+  event_maidinvalentine_02_e_13:
+    speaker: signal
+    en: I really put my heart into making them.
+    ko: 지, 진심을 담아서 만들었으니까….
+    ja: こ、心をこめて作ったので…
+  event_maidinvalentine_02_e_14:
+    speaker: cocoa
+    en: Wait, that sounds like...
+    ko: "!! 진심…?"
+    ja: "！！心をこめて…？"
+  event_maidinvalentine_02_e_15:
+    speaker: cocoa
+    en: These chocolates were made with TLC, weren't they?
+    ko: 그 초콜릿에는 진심이 담겨있는 건가.
+    ja: そのチョコには心がこもってる…？
+  event_maidinvalentine_02_e_16:
+    speaker: cocoa
+    en: Can I have a look at those?
+    ko: 주인. 시그널. 잠깐 코코아가 봐도 대?
+    ja: 主人、シグナル。\nちょっとココアが見てもいい？
+  event_maidinvalentine_02_e_17:
+    speaker: signal
+    en: Oh, sure you can.
+    ko: 앗, 네. 괜찮아요.
+    ja: あっ、はい。大丈夫ですよ。
+  event_maidinvalentine_02_e_18:
+    speaker: "<Self>"
+    en: Here.
+    ko: 여기.
+    ja: はい
+  event_maidinvalentine_02_e_19:
+    speaker: cocoa
+    en: Hmm...
+    ko: 흐음….
+    ja: ふむ…
+  event_maidinvalentine_02_e_20:
+    speaker: soda
+    en: Do you notice anything, Cocoa?
+    ko: 코코아. 뭔가 알 것 같아요?
+    ja: ココア。何か分かりそうですか？
+  event_maidinvalentine_02_e_21:
+    speaker: cocoa
+    en: Hmmmmmmmm...
+    ko: 흐으으으으음….
+    ja: ふぅぅぅぅむ…
+  event_maidinvalentine_02_e_22:
+    speaker: cocoa
+    en: "... I'm not sure."
+    ko: "…잘 모르게써."
+    ja: "…よく分かんない。"
+  event_maidinvalentine_02_e_23:
+    speaker: soda
+    en: "*Sigh*"
+    ko: 흐엥….
+    ja: ふぇん…
+  event_maidinvalentine_02_e_24:
+    speaker: signal
+    en: Is something wrong? You mentioned something about your Boss delaying the event?
+    ko: |-
+      혹시 무슨 일 있으신 건가요?
+      아까 행사 허락 못 받으셨다고 한 것도 그렇고….
+    ja: |-
+      何かあったんですか？
+      さっきイベントの許可が下りていないって\n言ってましたけど…
+  event_maidinvalentine_02_e_25:
+    speaker: cocoa
+    en: We have to make some true Valentine's Day chocolate.
+    ko: 우리는 진정한 밸런타인 초콜릿을 만들어야 대.
+    ja: 私たちは真のバレンタインチョコを\n作らなきゃいけないの。
+  event_maidinvalentine_02_e_26:
+    speaker: cocoa
+    en: If we can't do that, then we can't hold the special event.
+    ko: 안 그러면 밸런타인 행사 못 한대.
+    ja: そうじゃないと、\nバレンタインイベントできないって。
+  event_maidinvalentine_02_e_27:
+    speaker: signal
+    en: That's a real pickle indeed... oh!
+    ko: 큰일이네요… 아.
+    ja: 困りましたね…あっ。
+  event_maidinvalentine_02_e_28:
+    speaker: signal
+    en: Would something like this help?
+    ko: 혹시 이런 거라도 도움이 될까요?
+    ja: こんなものでもお役に立つでしょうか？
+  event_maidinvalentine_02_e_29:
+    speaker: "<Monologue>"
+    en: Signal hands over her cell phone to Cocoa.
+    ko: 시그널은 코코아에게 핸드폰을 건넸다.
+    ja: シグナルはココアに携帯電話を渡した
+  event_maidinvalentine_02_e_30:
+    speaker: cocoa
+    en: What is this?
+    ko: 이건 머야?
+    ja: これは何？
+  event_maidinvalentine_02_e_31:
+    speaker: "<Self>"
+    en: Sweets & Cocoa?
+    ko: "[Sweets & Cocoa]?"
+    ja: "「Sweets & Cocoa」？"
+  event_maidinvalentine_02_e_32:
+    speaker: "<Monologue>"
+    en: On the screen is information about an old dessert company.
+    ko: 액정에는 [Sweets & Cocoa]라는 구시대의 디저트 회사에 대한 정보가 띄워져 있다.
+    ja: 画面には「Sweets & Cocoa」という\n旧時代のデザート会社に関する\n情報が表示されている
+  event_maidinvalentine_02_e_33:
+    speaker: signal
+    en: This place used to be on the surface, and was really famous. I used them as
+      a reference when making these chocolates.
+    ko: 이번에 초콜릿을 만들 때, 지상에 있던 유명한 회사의 레시피를 참고했거든요.
+    ja: 今回チョコを作る時に、\n地上にあった有名な会社のレシピを\n参考にしたんです。
+  event_maidinvalentine_02_e_34:
+    speaker: signal
+    en: Apparently, they were especially known for the chocolates they sold during
+      Valentine's Day.
+    ko: 밸런타인 시즌에 판매하던 초콜릿도 유명했다고 해서….
+    ja: バレンタインシーズンに販売していた\nチョコも有名だったらしくて…
+  event_maidinvalentine_02_e_35:
+    speaker: soda
+    en: Heh, it's even got Cocoa's name in it.
+    ko: 헤에… 코코아 이름도 들어가 있네요.
+    ja: へぇ…ココアの名前も入ってますね。
+  event_maidinvalentine_02_e_36:
+    speaker: cocoa
+    en: Hmm...
+    ko: 호오… 흠….
+    ja: ほぉ…ふ～む…
+  event_maidinvalentine_02_e_37:
+    speaker: cocoa
+    en: "... I see."
+    ko: "…그러쿤."
+    ja: "…なるほど。"
+  event_maidinvalentine_02_e_38:
+    speaker: "<Monologue>"
+    en: After staring at the phone for an indeterminable amount of time, Cocoa lifts
+      her head.
+    ko: 한참 동안 휴대폰을 들여다보던 코코아가 고개를 들었다.
+    ja: しばらく携帯電話を眺めていたココアが\n顔を上げた
+  event_maidinvalentine_02_e_39:
+    speaker: cocoa
+    en: I need to go up to the surface.
+    ko: 코코아, 지상에 가야게써.
+    ja: ココア、地上に行かなきゃ。
+  event_maidinvalentine_02_e_40:
+    speaker: cocoa
+    en: If there's any hidden secret about the chocolate we need to make, we'll find
+      it there.
+    ko: 여기에 진정한 밸런타인 초콜릿의 비밀이 숨겨져 있을 거야.
+    ja: ここに真のバレンタインチョコの\n秘密が隠されてるはず。
+  event_maidinvalentine_02_e_41:
+    speaker: ade
+    en: Cocoa, you can't just go up the surface whenever you feel like it.
+    ko: 코코아. 지상에는 그렇게 쉽게 나갈 수 없어.
+    ja: ココア、そう簡単に地上には行けないわよ。
+  event_maidinvalentine_02_e_42:
+    speaker: ade
+    en: There's no way they'll grant you permission, especially if it's about finding
+      a chocolate recipe.
+    ko: 하물며 초콜릿을 찾겠다는 이유로는 허가가….
+    ja: ましてや、\nチョコを探すだなんて理由では許可が…
+  event_maidinvalentine_02_e_43:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_e_44:
+    speaker: soda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_e_45:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_e_46:
+    speaker: "<Monologue>"
+    en: Everyone's gaze turns to focus on me.
+    ko: 일동의 시선이 내게로 향했다.
+    ja: 一同の視線が私に向けられている
+  event_maidinvalentine_02_e_47:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_02_e_48:
+    speaker: signal
+    en: Erm... well, I'll be going now.
+    ko: 저, 저는 그럼 가볼게요….
+    ja: わ、私は失礼しますね…
+  event_maidinvalentine_02_e_49:
+    speaker: "<Self>"
+    en: "... Yeah. See you next time."
+    ko: "…응. 다음에 봐."
+    ja: "…ああ。また会おう"
+event_maidinvalentine_03_s:
+  event_maidinvalentine_03_s_1:
+    speaker: Monologue
+    en: Before I know it, I am up on the surface with the Maid For You squad.
+    ko: "…그렇게 되어, 나는 메이드 포 유 스쿼드와 함께 지상으로 올라왔다."
+    ja: "…そうして、\\n私はメイド・フォー・ユー部隊と一緒に\\n地上へやってきた"
+  event_maidinvalentine_03_s_2:
+    speaker: cocoa
+    en: This is it.
+    ko: 도착해써. 바로 여기야.
+    ja: 着いた。ここだよ。
+  event_maidinvalentine_03_s_3:
+    speaker: cocoa
+    en: |-
+      Sweets & Cocoa's factory.
+      Where the secrets are hidden.
+    ko: |-
+      [Sweets & Cocoa]의 공장.
+      진정한 밸런타인 초콜릿의 비밀이 숨겨진 곳…!
+    ja: |-
+      「Sweets & Cocoa」の工場。
+      真のバレンタインチョコの秘密が\n隠されている場所…！
+  event_maidinvalentine_03_s_4:
+    speaker: ade
+    en: I'm not detecting any Rapture presence nearby. We've finished setting up the
+      decoys as well.
+    ko: |-
+      주인님, 근방에 랩쳐 반응은 없어요.
+      데코이 설치도 끝났고요.
+    ja: |-
+      ご主人様、近くにラプチャーの反応は
+      ありません。デコイの設置も終わりました。
+  event_maidinvalentine_03_s_5:
+    speaker: Self
+    en: Okay. Let's go in.
+    ko: 알았어. 들어가자.
+    ja: 分かった。入ろう
+  event_maidinvalentine_03_s_6:
+    speaker: ade
+    en: Roger.
+    ko: 네.
+    ja: はい。
+  event_maidinvalentine_03_s_7:
+    speaker: Narration
+    en: "*Screech*"
+    ko: 끼익-
+    ja: キィッ…
+  event_maidinvalentine_03_s_8:
+    speaker: Monologue
+    en: We enter the factory after heaving open a heavy steel door.
+    ko: 묵직한 철문을 열고 공장 안으로 들어섰다.
+    ja: 重い鉄の扉を開けて\n工場の中へ入った
+  event_maidinvalentine_03_s_9:
+    speaker: soda
+    en: "*Cough, cough*"
+    ko: 계신… 콜록콜록.
+    ja: どなたか…ゴホッゴホッ。
+  event_maidinvalentine_03_s_10:
+    speaker: soda
+    en: Ugh... so much dust!
+    ko: 흐엥… 먼지투성이네요….
+    ja: ふぇん…ホコリだらけですね…
+  event_maidinvalentine_03_s_11:
+    speaker: ade
+    en: We're probably the first visitors in decades.
+    ko: 우리가 수십 년만의 첫 손님 아닐까?
+    ja: 私たちが数十年ぶりのお客さんなんじゃない？
+  event_maidinvalentine_03_s_12:
+    speaker: soda
+    en: Sounds like it needs a nice once-over.
+    ko: 아… 그러면 청소할 보람이 있겠네요!
+    ja: あっ…それなら掃除のしがいがありますね！
+  event_maidinvalentine_03_s_13:
+    speaker: soda
+    en: Hehe. Good thing I brought the cleaning supplies.
+    ko: 헤헤. 청소 도구를 가져오길 잘했어요.
+    ja: えへへ。掃除道具を持ってきて正解でした。
+  event_maidinvalentine_03_s_14:
+    speaker: Monologue
+    en: Soda goes into the factory.
+    ko: 소다는 공장 안쪽으로 향했다.
+    ja: ソーダは工場の奥へ向かった
+  event_maidinvalentine_03_s_15:
+    speaker: ade
+    en: Soda, we all love to clean, but there's a time and a place for it. Just don't
+      overdo it.
+    ko: 소다~ 청소도 청소지만 너무 멀리 가면 안 돼~
+    ja: ソーダ。掃除もいいけど、\nあんまり遠くに行っちゃダメよ？
+  event_maidinvalentine_03_s_16:
+    speaker: soda
+    en: Okie dokie.
+    ko: 네에~
+    ja: はぁ～い。
+  event_maidinvalentine_03_s_17:
+    speaker: ade
+    en: What about you, Master?
+    ko: 그럼 주인님께서는….
+    ja: では、ご主人様は…
+  event_maidinvalentine_03_s_18:
+    speaker: "<Choice>"
+    en: Should I help Soda?
+    ko: 소다를 도와줄까?
+    ja: ソーダを手伝おうか？
+  event_maidinvalentine_03_s_19:
+    speaker: "<Choice>"
+    en: Should I accompany Cocoa?
+    ko: 코코아랑 놀아줄까?
+    ja: ココアと遊ぼうか？
+  event_maidinvalentine_03_s_20:
+    speaker: ade
+    en: Yes, that would make her happy.
+    ko: 후후. 네. 소다가 기뻐할 거예요.
+    ja: ふふっ、はい。\nソーダが喜ぶと思います。
+  event_maidinvalentine_03_s_21:
+    speaker: soda
+    en: You're gonna help too, Master?
+    ko: 네에~? 진짜요~?
+    ja: えぇ～？ホントですか～？
+  event_maidinvalentine_03_s_22:
+    speaker: soda
+    en: I'll start preparing th... yikes!
+    ko: 헤헤. 그럼 준비해 놓을 테니까… 꺄악?!
+    ja: えへへ。じゃあ準備しておくので…\nキャアッ！？
+  event_maidinvalentine_03_s_23:
+    speaker: Narration
+    en: "*Thud! Thump! Bang*"
+    ko: 우당탕탕!!
+    ja: ガシャァン！
+  event_maidinvalentine_03_s_24:
+    speaker: Self
+    en: Are you okay?
+    ko: 괜찮아~?
+    ja: 大丈夫か？
+  event_maidinvalentine_03_s_25:
+    speaker: soda
+    en: Yeah, just accidently spilled a bucket of water, that's all.
+    ko: 네~! 물 양동이를 쏟은 것뿐이에요~
+    ja: は～い！水が入ったバケツを\n倒しただけですから～
+  event_maidinvalentine_03_s_26:
+    speaker: soda
+    en: Guess that's the first thing I'll be cleaning up, hehe!
+    ko: 먼저 이것부터 청소하고 있을게요오~
+    ja: 先にこれを片付けていますね～
+  event_maidinvalentine_03_s_27:
+    speaker: Self
+    en: At this rate, we'll leave this place dirtier than when we came.
+    ko: "…청소가 끝나긴 하는 거겠지?"
+    ja: "…掃除は終わるのだろうか？"
+  event_maidinvalentine_03_s_28:
+    speaker: ade
+    en: Hehe, she may be a bit clumsy at times, but she's good at her job.
+    ko: 후후. 가끔 실수하긴 해도 똑 부러지는 아이니까 걱정하지 마세요.
+    ja: ふふ。失敗することもありますが\nしっかりしている子だから大丈夫ですよ。
+  event_maidinvalentine_03_s_29:
+    speaker: cocoa
+    en: I know what I'm doing.
+    ko: 주인. 코코아는 프로 메이드야.
+    ja: 主人。ココアはプロのメイドだよ。
+  event_maidinvalentine_03_s_30:
+    speaker: cocoa
+    en: I'm more than capable of handling myself.
+    ko: 혼자서도 문제 업써.
+    ja: 1人でも問題なし。
+  event_maidinvalentine_03_s_31:
+    speaker: ade
+    en: Very well.
+    ko: 후후. 그렇네.
+    ja: ふふっ、そうね。
+  event_maidinvalentine_03_s_32:
+    speaker: ade
+    en: Cocoa, you and Master both head into the factory and investigate.
+    ko: 그럼 코코아. 주인님을 모시고 공장 안쪽을 조사해볼래?
+    ja: じゃあ、ココア。\nご主人様を連れて工場の中を調査してみない？
+  event_maidinvalentine_03_s_33:
+    speaker: cocoa
+    en: You got it. I'll find what we're looking for.
+    ko: 마껴둬. 모조리 찾아내께.
+    ja: まかせて。何も見逃さないよ。
+  event_maidinvalentine_03_s_34:
+    speaker: ade
+    en: Best of luck.
+    ko: 그럼 주인님. 부탁드릴게요.
+    ja: じゃあご主人様、よろしくお願いしますね。
+  event_maidinvalentine_03_s_35:
+    speaker: Self
+    en: What about you, Ade?
+    ko: 에이드는?
+    ja: エードは？
+  event_maidinvalentine_03_s_36:
+    speaker: ade
+    en: I'll check from the other side to see if I can turn up anything... what the...?!
+    ko: 저는 반대편에서 레시피나 다른 정보가 남아있는지… 어머?
+    ja: 私は反対側でレシピや\n他の情報が残っていないか…あら？
+  event_maidinvalentine_03_s_37:
+    speaker: Narration
+    en: Wrrrrrrrrr...
+    ko: 윙윙윙윙….
+    ja: ウィンウィンウィンウィン…
+  event_maidinvalentine_03_s_38:
+    speaker: Monologue
+    en: Suddenly there is the sound of machinery from within the factory.
+    ko: 갑자기 공장에서 기계음이 울리기 시작했다.
+    ja: 突然、工場から機械音が響き始めた
+event_maidinvalentine_03_e:
+  event_maidinvalentine_03_e_1:
+    speaker: soda
+    en: This place is gonna be as clean as a whistle when I'm done.
+    ko: 흠흠~♪ 깨끗하게 청소해야지~♪
+    ja: フンフン～♪\nキレイにお掃除しなきゃ～♪
+  event_maidinvalentine_03_e_2:
+    speaker: soda
+    en: Hmm? Wonder what this button is for...
+    ko: 어라? 이 버튼은 뭘까요?
+    ja: あれ？このボタンは何でしょうか？
+  event_maidinvalentine_03_e_3:
+    speaker: Narration
+    en: "*Push*"
+    ko: 꾸욱-
+    ja: ポチッ
+  event_maidinvalentine_03_e_4:
+    speaker: Narration
+    en: Wrrrrrrrr...
+    ko: 윙윙윙윙….
+    ja: ウィンウィンウィンウィン…
+  event_maidinvalentine_03_e_5:
+    speaker: soda
+    en: Uh-oh...
+    ko: "…헤에?"
+    ja: "…へっ？"
+  event_maidinvalentine_03_e_6:
+    speaker: Monologue
+    en: Suddenly there is the sound of machinery from within the factory.
+    ko: 갑자기 공장에서 기계음이 울리기 시작했다.
+    ja: 突然、工場から機械音が響き始めた
+  event_maidinvalentine_03_e_7:
+    speaker: Self
+    en: What is that?
+    ko: 뭐지?
+    ja: 何だ？
+  event_maidinvalentine_03_e_8:
+    speaker: ade
+    en: I think it's the sound of the equipment starting up.
+    ko: 아무래도 설비가 가동되는 것 같아요.
+    ja: どうやら、設備が稼働し始めたようです。
+  event_maidinvalentine_03_e_9:
+    speaker: cocoa
+    en: I saw Soda press some strange button.
+    ko: 소다가 이상한 버튼 누르는 거 코코아가 봐써.
+    ja: ソーダが変なボタン押すの見たよ。
+  event_maidinvalentine_03_e_10:
+    speaker: soda
+    en: Sorrysorrysorry!
+    ko: 죄송해요죄송해요오…!
+    ja: すみません、すみません…！
+  event_maidinvalentine_03_e_11:
+    speaker: Monologue
+    en: The sound of the machinery is becoming stronger...
+    ko: 곧 기계음이 더 격렬해지고….
+    ja: どんどん機械音が激しくなり…
+  event_maidinvalentine_03_e_12:
+    speaker: Monologue
+    en: Something blue appears out of thin air.
+    ko: 푸른 무언가가 나타났다.
+    ja: 青い何かが現れた
+  event_maidinvalentine_03_e_13:
+    speaker: hologram
+    en: You are finally here...
+    ko: 마침내 왔는가….
+    ja: ついに来たか…
+  event_maidinvalentine_03_e_14:
+    speaker: "<Choice>"
+    en: Who are you?
+    ko: 넌 누구지?
+    ja: 君は誰だ？
+  event_maidinvalentine_03_e_15:
+    speaker: "<Choice>"
+    en: Yes, I am here.
+    ko: 그래… 내가 왔도다….
+    ja: ああ…来た…
+  event_maidinvalentine_03_e_16:
+    speaker: sweetjohnny
+    en: I am the manager of this factory, Sweet Johnny.
+    ko: 나는 이 공장의 관리자… 스윗 조니….
+    ja: 私はこの工場の管理人…スイートジョニー…
+  event_maidinvalentine_03_e_17:
+    speaker: sweetjohnny
+    en: Welcome to Sweets & Cocoa, where all your sweetest dreams come true!
+    ko: |-
+      달콤한 꿈이 펼쳐지는 곳.
+      [Sweets & Cocoa]에 어서오세요!!
+    ja: |-
+      甘い夢が広がる場所。
+      「Sweets & Cocoa」へようこそっ！
+  event_maidinvalentine_03_e_18:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_03_e_19:
+    speaker: Self
+    en: The atmosphere suddenly changes.
+    ko: 분위기 진짜 확 바뀌네.
+    ja: 雰囲気ががらっと変わったな
+  event_maidinvalentine_03_e_20:
+    speaker: sweetjohnny
+    en: Let me guess, you all came here to learn how to make chocolate.
+    ko: 자네들, 당연히 초콜릿 만드는 법을 배우러 온 거겠지?
+    ja: 君たちは当然、\nチョコの作り方を学びに来たのだろう？
+  event_maidinvalentine_03_e_21:
+    speaker: cocoa
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_maidinvalentine_03_e_22:
+    speaker: cocoa
+    en: That's right. We're trying to learn how to make the ultimate Valentine's Day
+      chocolate.
+    ko: 마자. 진정한 밸런타인 초콜릿을 찾으러 와써.
+    ja: そう。真のバレンタインチョコを探しに来た。
+  event_maidinvalentine_03_e_23:
+    speaker: sweetjohnny
+    en: What...?
+    ko: 뭣이…?
+    ja: 何だと…？
+  event_maidinvalentine_03_e_24:
+    speaker: soda
+    en: Hey, manager.
+    ko: 관리자 씨, 혹시 알려주실 수 있나요?
+    ja: 管理人さん、教えていただけませんか？
+  event_maidinvalentine_03_e_25:
+    speaker: soda
+    en: Is that something you could teach us?
+    ko: 진심이 담긴 밸런타인 초콜릿을 만드는 방법을요!
+    ja: 心がこもったバレンタインチョコの作り方を！
+  event_maidinvalentine_03_e_26:
+    speaker: sweetjohnny
+    en: "... Very well."
+    ko: "……좋다."
+    ja: "…いいだろう。"
+  event_maidinvalentine_03_e_27:
+    speaker: sweetjohnny
+    en: First, we should start with the ingredients. Oh, I guess we can't do that
+      now. It's been years since any delivery trucks came to this place.
+    ko: |-
+      우선 재료 선별부터 시작해야겠지. 아, 지금은 그런 여건이 안 되는가.
+      납품이 되지 않은 지 벌써 수십 년이군.
+    ja: |-
+      まずは材料の選別からだ。\nあぁ、今はそんなことを言ってられないのか。
+      材料が納品されなくなってから、\nもう数十年だからな。
+  event_maidinvalentine_03_e_28:
+    speaker: sweetjohnny
+    en: We'll have to use ingredients that have been preserved in cryogenic storage.
+      The cacao beans in there are top-shelf though, and they'll still be fresh.
+    ko: |-
+      그럼 재료는 극저온 저장고에 보존된 것으로 대체하겠다.
+      발효까지 모두 끝난 1등급 카카오뿐이지. 거기다 아직도 신선해.
+    ja: |-
+      材料は極低温貯蔵庫に\n保存されているものを使おう。
+      発酵まで完了した新鮮なAランクのカカオさ。
+  event_maidinvalentine_03_e_29:
+    speaker: sweetjohnny
+    en: Once we've gathered our ingredients, we can start roasting the beans. After
+      that, toss some magical spices into the cocoa beans and mix them all together.
+    ko: |-
+      재료가 준비된다면 로스팅부터!
+      그다음에는 달콤한 향기가 나는 카카오에 온갖 마법의 향신료를 섞고 갈아내는 것이다.
+    ja: |-
+      材料の準備が終わったら、ローストから！
+      その次は甘い香りがするカカオに\n色んな魔法の香辛料を混ぜて細かくするんだ。
+  event_maidinvalentine_03_e_30:
+    speaker: sweetjohnny
+    en: Last, but not least, we'll add some cocoa butter!
+    ko: 마지막으로 카카오버터를 첨가하면…!
+    ja: 最後にカカオバターを加えれば…！
+  event_maidinvalentine_03_e_31:
+    speaker: soda
+    en: You sure like to talk...
+    ko: 관리자 씨, 말하는 걸 엄청 좋아하시나 봐요….
+    ja: 管理人さんって、おしゃべり好きみたいですね…
+  event_maidinvalentine_03_e_32:
+    speaker: cocoa
+    en: Yeah, a little too much.
+    ko: 응. 말이 너무 마나.
+    ja: うん。話長い。
+  event_maidinvalentine_03_e_33:
+    speaker: sweetjohnny
+    en: I would appreciate it if you didn't interrupt me.
+    ko: 강의 중에 떠들지 마라!
+    ja: レッスン中は私語厳禁！
+  event_maidinvalentine_03_e_34:
+    speaker: sweetjohnny
+    en: Anyway, that's the gist of it. Any questions?
+    ko: 어쨌든 개요는 여기까지다. 질문 있나?
+    ja: とにかく、ざっとこんなところだ。\n質問はあるかね？
+  event_maidinvalentine_03_e_35:
+    speaker: soda
+    en: "... No?"
+    ko: 아, 아뇨오…?
+    ja: い、いいえ…？
+  event_maidinvalentine_03_e_36:
+    speaker: sweetjohnny
+    en: Then run along and fetch the ingredients.
+    ko: 그렇다면 어서 가서 자네들 손으로 재료를 꺼내와라.
+    ja: それなら早く君たちの手で\n材料を集めてくるんだ。
+  event_maidinvalentine_03_e_37:
+    speaker: sweetjohnny
+    en: Once we have those, we can begin in earnest.
+    ko: 본격적인 수업은 그다음이다.
+    ja: 本格的なレッスンはそれからだな。
+  event_maidinvalentine_03_e_38:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_03_e_39:
+    speaker: ade
+    en: Master, what should we do?
+    ko: 주인님. 어떻게 할까요…?
+    ja: ご主人様。どうしますか…？
+  event_maidinvalentine_03_e_40:
+    speaker: Self
+    en: Let's play along for now.
+    ko: "…일단 시키는 대로 해보자."
+    ja: "…とりあえず言われたとおりにしよう"
+  event_maidinvalentine_03_e_41:
+    speaker: ade
+    en: All right.
+    ko: 네….
+    ja: はい…
+event_maidinvalentine_intermission_01:
+  event_maidinvalentine_intermission_01_1:
+    speaker: Narration
+    en: In the Factory Cryogenic Storage.
+    ko: 공장의 극저온 저장고.
+    ja: 工場の極低温貯蔵庫
+  event_maidinvalentine_intermission_01_2:
+    speaker: soda
+    en: Whoa, these really are cacao beans. This is the first time I've seen them.
+    ko: 와아… 이게 진짜 카카오 열매인가 보네요. 처음 봐요~
+    ja: わあ…これがカカオの実なんですね。\n初めて見ました～
+  event_maidinvalentine_intermission_01_3:
+    speaker: cocoa
+    en: Here's some cocoa butter.
+    ko: 이건 카카오버터.
+    ja: これはカカオバター。
+  event_maidinvalentine_intermission_01_4:
+    speaker: cocoa
+    en: They're both frozen solid.
+    ko: 둘 다 꽁꽁 얼어이써.
+    ja: どっちもカチコチに凍ってる。
+  event_maidinvalentine_intermission_01_5:
+    speaker: Self
+    en: Is that everything we need?
+    ko: 다 챙긴 건가?
+    ja: 全部揃ったか？
+  event_maidinvalentine_intermission_01_6:
+    speaker: ade
+    en: I believe so.
+    ko: |-
+      비밀 재료 같아 보이는 것들도 전부 챙겼고…
+      일단 다 된 것 같아요.
+    ja: |-
+      秘密の材料らしきものも全部見つけましたし…
+      ひとまず揃ったようです。
+  event_maidinvalentine_intermission_01_7:
+    speaker: ade
+    en: Let's head back, Master.
+    ko: 돌아가요, 주인님.
+    ja: 戻りましょう、ご主人様。
+  event_maidinvalentine_intermission_01_8:
+    speaker: soda
+    en: Hehe, now we can learn how to make chocolate!
+    ko: 헤헤. 이제 관리자 씨한테 초콜릿 만들기를 배우게 되겠네요~
+    ja: えへへ。これで管理人さんから\nチョコの作り方を学べますね～
+  event_maidinvalentine_intermission_01_9:
+    speaker: soda
+    en: This is exciting.
+    ko: 엄청 신기한 느낌이에요.
+    ja: なんだか神秘的な感じですね。
+  event_maidinvalentine_intermission_01_10:
+    speaker: cocoa
+    en: Soda, we're not here to have fun.
+    ko: 소다. 우리는 놀러 온 게 아냐.
+    ja: ソーダ、私たちは遊びに来たんじゃない。
+  event_maidinvalentine_intermission_01_11:
+    speaker: cocoa
+    en: You must conduct yourself in a manner becoming a professional maid.
+    ko: 프로 메이드의 마음가짐을 가져.
+    ja: プロメイドの心得を忘れないで。
+  event_maidinvalentine_intermission_01_12:
+    speaker: soda
+    en: I know, but...
+    ko: 그렇긴 하지만….
+    ja: そうですけど…
+  event_maidinvalentine_intermission_01_13:
+    speaker: soda
+    en: I'm just so stoked that we're making real chocolate and not the fake stuff
+      using Splendamin.
+    ko: 헤헤. 그래도 퍼펙트가 아니라 진짜 초콜릿을 만드는 건 처음이라 설레는걸요~?
+    ja: えへへ。でもパーフェクトじゃなくて、\n本物のチョコを作るのは初めてだから\nワクワクしますね～！
+  event_maidinvalentine_intermission_01_14:
+    speaker: soda
+    en: Aren't you excited as well?
+    ko: 코코아는 안 설레요?
+    ja: ココアはワクワクしませんか？
+  event_maidinvalentine_intermission_01_15:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_intermission_01_16:
+    speaker: cocoa
+    en: "... Maybe a little."
+    ko: "…코코아도 설레. 쪼금."
+    ja: "…ココアもワクワク。ちょびっと。"
+  event_maidinvalentine_intermission_01_17:
+    speaker: Self
+    en: Ade, have you made real chocolate before?
+    ko: 에이드는 진짜 초콜릿 만들어본 적 있어?
+    ja: エードは本物のチョコを作ったことがあるか？
+  event_maidinvalentine_intermission_01_18:
+    speaker: ade
+    en: No. This is my first time.
+    ko: 아뇨. 저도 처음이에요.
+    ja: いいえ。私も初めてです。
+  event_maidinvalentine_intermission_01_19:
+    speaker: Self
+    en: Then I presume you're feeling excited?
+    ko: 그럼 에이드도?
+    ja: じゃあエードも？
+  event_maidinvalentine_intermission_01_20:
+    speaker: ade
+    en: Yes. This is not an opportunity that comes by often.
+    ko: 네. 이런 기회는 흔치 않으니까요.
+    ja: はい。こんな機会そうそうありませんから。
+  event_maidinvalentine_intermission_01_21:
+    speaker: ade
+    en: In fact, if we remained in the Ark, we would never have this opportunity.
+    ko: "…아니, 방주에만 있었다면 절대로 이런 기회를 얻지 못했겠죠."
+    ja: "…いえ、地上に来なければ、\\n絶対に巡ってこなかったチャンスです。"
+  event_maidinvalentine_intermission_01_22:
+    speaker: ade
+    en: Thank you for bringing us out, Master.
+    ko: 데리고 나와주셔서 감사해요, 주인님.
+    ja: 連れてきてくださり、ありがとうございます。\nご主人様。
+  event_maidinvalentine_intermission_01_23:
+    speaker: cocoa
+    en: I'll make you some genuine Valentine's Day chocolate if it's the last thing
+      I do, Master.
+    ko: 주인. 코코아가 꼭 진정한 밸런타인 초콜릿 만들어 주께.
+    ja: 主人、ココアが真のバレンタインチョコを\n作ってあげる。
+  event_maidinvalentine_intermission_01_24:
+    speaker: soda
+    en: And I'll make you a chocolate cake!
+    ko: 헤헤. 저는 초콜릿케이크를 만들어 드릴게요~
+    ja: えへへ。私はチョコケーキを作りますね～
+  event_maidinvalentine_intermission_01_25:
+    speaker: Self
+    en: I'm looking forward to tasting what all of you whip up.
+    ko: 응. 기대할게.
+    ja: ああ。期待している
+  event_maidinvalentine_intermission_01_26:
+    speaker: ade
+    en: Hehe. Let's head back to where the manager is.
+    ko: 후후, 그럼 다시 관리자 님이 계신 곳으로 가요.
+    ja: ふふ、では管理人様がいる場所へ戻りましょう。
+event_maidinvalentine_04_s:
+  event_maidinvalentine_04_s_1:
+    speaker: cocoa
+    en: We brought all the ingredients.
+    ko: 재료 다 가져와써.
+    ja: 材料、全部持ってきた。
+  event_maidinvalentine_04_s_2:
+    speaker: sweetjohnny
+    en: Good. We need to go through the defrosting process, so give them to me.
+    ko: 좋아. 해동 절차를 거쳐야 하니 이리 다오.
+    ja: よし。解凍しないといけないから、こちらへ。
+  event_maidinvalentine_04_s_3:
+    speaker: Monologue
+    en: The mechanical arms of the robot stretch out and take the ingredients away.
+    ko: 기계 팔이 다가와 재료들을 수거해 갔다.
+    ja: 機械の腕が近づき、材料を回収していった
+  event_maidinvalentine_04_s_4:
+    speaker: sweetjohnny
+    en: We'll start soon, so if you could prepare the countertop, please.
+    ko: 이제 시작할 테니 조리대 앞에서 준비하도록.
+    ja: さあ、調理台の前に立って準備してくれ。
+  event_maidinvalentine_04_s_5:
+    speaker: Monologue
+    en: Soon after, the ingredients are all laid out on the countertop, and the manager
+      begins to issue orders.
+    ko: 곧 조리대에 재료들이 놓이고, 관리자는 이것저것 지시를 내리기 시작했다.
+    ja: 調理台の上に材料が置かれ、\n管理人はあれこれ指示を出し始めた
+  event_maidinvalentine_04_s_6:
+    speaker: sweetjohnny
+    en: First, get the fire going on the burner and roast the cacao beans.
+    ko: 버너에 불을 붙이고, 나눠준 카카오 콩을 볶아라.
+    ja: バーナーに火を付けて、カカオ豆を炒ってくれ。
+  event_maidinvalentine_04_s_7:
+    speaker: soda
+    en: How strong should the flame be? How long do we roast them?
+    ko: 불 세기랑 시간은 어떻게 할까요~?
+    ja: 火の強さと時間はどれくらいですか～？
+  event_maidinvalentine_04_s_8:
+    speaker: sweetjohnny
+    en: The flame's perfect as is, and you want to roast them until they start giving
+      off an aromatic smell.
+    ko: 적당히. 좋은 향이 날 때까지.
+    ja: 適度に。いい香りがするまで。
+  event_maidinvalentine_04_s_9:
+    speaker: soda
+    en: Oh, okay.
+    ko: 흐에…?
+    ja: ふぇ…？
+  event_maidinvalentine_04_s_10:
+    speaker: sweetjohnny
+    en: After that, peel off the skin and put them in a grinder.
+    ko: 그다음엔 껍질을 벗기고 그라인더로 갈아낸다.
+    ja: それから、皮を剥いてグラインダーで粉砕する。
+  event_maidinvalentine_04_s_11:
+    speaker: sweetjohnny
+    en: Then you add spices to the mix
+    ko: 그리고 옆에 있는 향신료들을 첨가해라.
+    ja: そして隣にある香辛料を入れるんだ。
+  event_maidinvalentine_04_s_12:
+    speaker: cocoa
+    en: What spices do we put in?
+    ko: 뭘 너으면 되는 거지.
+    ja: 何を入れたらいい？
+  event_maidinvalentine_04_s_13:
+    speaker: sweetjohnny
+    en: Whatever you like.
+    ko: 아무거나. 취향껏.
+    ja: 何でも。好きなだけ。
+  event_maidinvalentine_04_s_14:
+    speaker: cocoa
+    en: Even ketchup?
+    ko: 케첩도?
+    ja: ケチャップも？
+  event_maidinvalentine_04_s_15:
+    speaker: sweetjohnny
+    en: As much as you want.
+    ko: 얼마든지.
+    ja: もちろん。
+  event_maidinvalentine_04_s_16:
+    speaker: cocoa
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  event_maidinvalentine_04_s_17:
+    speaker: Narration
+    en: "*Squirt* *Squirt*"
+    ko: 뿌직. 뿌직.
+    ja: ピュッピュッ
+  event_maidinvalentine_04_s_18:
+    speaker: Self
+    en: Are you sure this is right?
+    ko: 이게 맞나…?
+    ja: これでいいのか…？
+  event_maidinvalentine_04_s_19:
+    speaker: ade
+    en: Hey, Mister.
+    ko: "…저, 관리자 님."
+    ja: "…あの、管理人様。"
+  event_maidinvalentine_04_s_20:
+    speaker: sweetjohnny
+    en: What? Next up, we have to mix in the cocoa butter,
+    ko: 뭐지? 다음은 카카오버터 섞기다.
+    ja: 何だ？次はカカオバターを混ぜる工程だ。
+  event_maidinvalentine_04_s_21:
+    speaker: sweetjohnny
+    en: so we have to focus. We're nearly done.
+    ko: 다 끝나가니 집중해.
+    ja: あと少しだから集中してくれ。
+  event_maidinvalentine_04_s_22:
+    speaker: ade
+    en: I don't think we're going to end up with proper chocolate by doing this...
+    ko: 이런 식으로는 제대로 된 초콜릿을 만들 수 없을 것 같은데요….
+    ja: このままだと、ちゃんとしたチョコは\n作れないと思うのですが…
+  event_maidinvalentine_04_s_23:
+    speaker: Monologue
+    en: In front of Soda and Cocoa, there are brownish lumps that only seem remotely
+      chocolate-like.
+    ko: 소다와 코코아 앞에는 초콜릿이었던 무언가가 놓여있다.
+    ja: ソーダとココアの前には\nチョコになりかけていた何かが置かれている
+  event_maidinvalentine_04_s_24:
+    speaker: sweetjohnny
+    en: I'll field any questions after we're done.
+    ko: 질문은 강의가 끝난 다음에 받겠다.
+    ja: 質問はレッスンが終わってからだ。
+  event_maidinvalentine_04_s_25:
+    speaker: sweetjohnny
+    en: Next. Mix the cocoa butter.
+    ko: 다음. 카카오버터를 섞어라.
+    ja: 次。カカオバターを混ぜろ。
+  event_maidinvalentine_04_s_26:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+event_maidinvalentine_04_e:
+  event_maidinvalentine_04_e_1:
+    speaker: Monologue
+    en: Before long, the chocolate is complete.
+    ko: 얼마 뒤 초콜릿이 완성됐다.
+    ja: しばらくして、チョコレートが完成した
+  event_maidinvalentine_04_e_2:
+    speaker: soda
+    en: Why is it so misshapen?
+    ko: 흐에엥… 이상한 모양이 되어 버렸어요오….
+    ja: ふぇぇん…おかしな形になっちゃいましたぁ…
+  event_maidinvalentine_04_e_3:
+    speaker: cocoa
+    en: I made mine in the shape of a dinosaur.
+    ko: 코코아는 공룡 모양으로 만드러써.
+    ja: ココアは恐竜の形にしたよ。
+  event_maidinvalentine_04_e_4:
+    speaker: Self
+    en: Is this really Valentine's Day chocolate?
+    ko: 이게 진정한 밸런타인 초콜릿인가…?
+    ja: これが真のバレンタインチョコなのか…？
+  event_maidinvalentine_04_e_5:
+    speaker: ade
+    en: Making chocolate requires precise measurements and actions, just like baking.
+    ko: "…초콜릿을 만드는 데에는 제빵만큼이나 정확한 계량과 공정이 필요해요."
+    ja: "…チョコを作るには、パン作りのように\\n正確な計量と工程が必要です。"
+  event_maidinvalentine_04_e_6:
+    speaker: ade
+    en: How could it be possible to make chocolate taste better in that way?
+    ko: 이런 식으로는 도저히 맛있는 초콜릿을 만들 수 없어요.
+    ja: こんなやり方では、\n到底おいしいチョコなんて作れませんよ。
+  event_maidinvalentine_04_e_7:
+    speaker: sweetjohnny
+    en: Is that what you think?
+    ko: 그렇게 생각하나 보군.
+    ja: そう思うのか。
+  event_maidinvalentine_04_e_8:
+    speaker: sweetjohnny
+    en: What was running through your head when you were making the chocolate?
+    ko: "…자네들은 이 초콜릿을 만들 때 무슨 생각을 했지?"
+    ja: "…君たちは、このチョコを作る時に\\n何を考えた？"
+  event_maidinvalentine_04_e_9:
+    speaker: soda
+    en: I was thinking about how good it was going to taste.
+    ko: 음… 맛있었으면 좋겠다~ 라고 생각한 것 같아요.
+    ja: う～ん…おいしくなったらいいな～って\n考えてました。
+  event_maidinvalentine_04_e_10:
+    speaker: cocoa
+    en: I was thinking about dinosaurs.
+    ko: 공룡.
+    ja: 恐竜。
+  event_maidinvalentine_04_e_11:
+    speaker: ade
+    en: "..."
+    ko: 아….
+    ja: あっ…
+  event_maidinvalentine_04_e_12:
+    speaker: sweetjohnny
+    en: Do you realize what I'm saying?
+    ko: 아가씨는 알아챘나.
+    ja: お嬢さんは気づいたようだな。
+  event_maidinvalentine_04_e_13:
+    speaker: sweetjohnny
+    en: Think of what you said when you first got here.
+    ko: 자네들이 이곳을 찾아왔을 때 했던 말을 떠올려 보도록.
+    ja: 君たちがここに来た時に\n言った言葉を思い出したまえ。
+  event_maidinvalentine_04_e_14:
+    speaker: cocoa
+    en: That's right. We're trying to learn how to make the ultimate Valentine's Day
+      chocolate.
+    ko: 마자. 진정한 밸런타인 초콜릿을 찾으러 와써.
+    ja: そう。真のバレンタインチョコを探しに来た。
+  event_maidinvalentine_04_e_15:
+    speaker: soda
+    en: Hey, manager.
+    ko: 관리자 씨, 혹시 알려주실 수 있나요?
+    ja: 管理人さん、教えていただけませんか？
+  event_maidinvalentine_04_e_16:
+    speaker: soda
+    en: Is that something you could teach us?
+    ko: 진심이 담긴 밸런타인 초콜릿을 만드는 방법을요!
+    ja: 心がこもったバレンタインチョコの作り方を！
+  event_maidinvalentine_04_e_17:
+    speaker: sweetjohnny
+    en: You said you wanted to make chocolate fit for Valentine's Day.
+    ko: 진정한 밸런타인 초콜릿을 만들고 싶다고 했나.
+    ja: 真のバレンタインチョコを作りたいと\n言っていたではないか。
+  event_maidinvalentine_04_e_18:
+    speaker: sweetjohnny
+    en: If that's the case, as you're making the chocolate, you must be thinking of
+      the person you intend on giving it to.
+    ko: 그렇다면 초콜릿을 건네줄 대상을 진심으로 생각해야 한다.
+    ja: ならば、チョコを渡す相手のことを\n心から考えるべきだ。
+  event_maidinvalentine_04_e_19:
+    speaker: sweetjohnny
+    en: Their personality, their personal preferences. Their reaction when they receive
+      your gift.
+    ko: 받는 사람의 취향과 성격. 그리고 건네줬을 때의 반응까지!
+    ja: 相手の好みと性格。\nそして渡した時の反応！
+  event_maidinvalentine_04_e_20:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_04_e_21:
+    speaker: ade
+    en: The Boss had mentioned that before, but I had forgotten.
+    ko: 분명 사장님께도 지적받았었는데 잊고 있었어요….
+    ja: 社長からも指摘されていたのに、\n忘れていました…
+  event_maidinvalentine_04_e_22:
+    speaker: sweetjohnny
+    en: Unless you're thinking of these things during the process, you'll never end
+      up with true Valentine's Day chocolate.
+    ko: 그런 것을 생각하지 않고 밸런타인 초콜릿을 만들려고 하다니.
+    ja: 相手のことを考えずにバレンタインチョコを\n作ろうとするとはな。
+  event_maidinvalentine_04_e_23:
+    speaker: sweetjohnny
+    en: You might as well try making chocolate without cocoa beans.
+    ko: 차라리 카카오 없이 초콜릿을 만드는 게 더 쉽겠군.
+    ja: いっそのこと、カカオなしでチョコを作る方が\n簡単だぞ。
+  event_maidinvalentine_04_e_24:
+    speaker: sweetjohnny
+    en: Hey, you. Over there. The one staring off into space.
+    ko: 어디… 그래. 거기 멀뚱히 있는 자네.
+    ja: うむ…そこにぼさっと突っ立っている君。
+  event_maidinvalentine_04_e_25:
+    speaker: Self
+    en: Me?
+    ko: 나?
+    ja: 私？
+  event_maidinvalentine_04_e_26:
+    speaker: sweetjohnny
+    en: How do you know these ladies?
+    ko: 이 아가씨들과는 무슨 관계지?
+    ja: このお嬢さんたちとはどういう関係だ？
+  event_maidinvalentine_04_e_27:
+    speaker: Self
+    en: Uh...
+    ko: 어….
+    ja: えっと…
+  event_maidinvalentine_04_e_28:
+    speaker: "<Choice>"
+    en: We like each other.
+    ko: 좋아하는 사이야.
+    ja: 好き同士だ
+  event_maidinvalentine_04_e_29:
+    speaker: "<Choice>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_04_e_30:
+    speaker: soda
+    en: Hehe. I also like Master.
+    ko: 헤헤. 저도 주인님 좋아해요~
+    ja: えへへ。私もご主人様のこと、好きですよ～
+  event_maidinvalentine_04_e_31:
+    speaker: cocoa
+    en: Yeah, me too.
+    ko: 응. 코코아도 주인 조아해.
+    ja: うん。ココアも主人のこと好き。
+  event_maidinvalentine_04_e_32:
+    speaker: ade
+    en: M-Master...
+    ko: 주, 주인님….
+    ja: ご、ご主人様…
+  event_maidinvalentine_04_e_33:
+    speaker: sweetjohnny
+    en: That should work just fine.
+    ko: 그럼 마침 잘됐군.
+    ja: ちょうどいいではないか。
+  event_maidinvalentine_04_e_34:
+    speaker: sweetjohnny
+    en: Hmm, it seems to me that you have feelings for them.
+    ko: 흠. 마음은 있나 보군.
+    ja: ふむ。気持ちはあるようだな。
+  event_maidinvalentine_04_e_35:
+    speaker: sweetjohnny
+    en: Ladies, think of this ignoramus when you're making your chocolate.
+    ko: 아가씨들은 저자에게 줄 초콜릿을 만들어 보도록.
+    ja: お嬢さんたちは、\nこの者に渡すチョコを作ること。
+  event_maidinvalentine_04_e_36:
+    speaker: sweetjohnny
+    en: As I mentioned, focus on their personality, preferences, and how they'll react
+      when being given the chocolate.
+    ko: 방금 말한 대로 저자의 취향과 성격. 그리고 건네줬을 때 어떤 반응을 보일지.
+    ja: 今言ったとおり、この者の好みと性格。\nそして渡した時にどんな反応を見せるか。
+  event_maidinvalentine_04_e_37:
+    speaker: sweetjohnny
+    en: Think over each of these points very carefully.
+    ko: 하나하나 생각하면서!
+    ja: 一つ一つ考えながら、作るのだ！
+event_maidinvalentine_05_s:
+  event_maidinvalentine_05_s_1:
+    speaker: "<Monologue>"
+    en: All of us gather around the table.
+    ko: 우리는 테이블에 둘러앉아 있다.
+    ja: 私たちはテーブルを囲んで座っている
+  event_maidinvalentine_05_s_2:
+    speaker: "<Monologue>"
+    en: Cocoa and Soda are sitting beside me. Both of them are...
+    ko: 그리고 내 양옆에 앉은 코코아와 소다는….
+    ja: そして私の両脇に座ったココアとソーダは…
+  event_maidinvalentine_05_s_3:
+    speaker: "<Narration>"
+    en: "*Squeeze* *Squeeze*"
+    ko: 주물주물.
+    ja: もみもみ
+  event_maidinvalentine_05_s_4:
+    speaker: soda
+    en: Does that feel good, Master?
+    ko: 주인님. 시원하세요?
+    ja: ご主人様。気持ちいいですか？
+  event_maidinvalentine_05_s_5:
+    speaker: "<Self>"
+    en: Very.
+    ko: 응.
+    ja: ああ
+  event_maidinvalentine_05_s_6:
+    speaker: "<Monologue>"
+    en: They are massaging my hands.
+    ko: 내 손을 주물거리고 있다.
+    ja: 私の手を揉んでいる
+  event_maidinvalentine_05_s_7:
+    speaker: soda
+    en: Good.
+    ko: 다행이다아~
+    ja: よかったぁ～
+  event_maidinvalentine_05_s_8:
+    speaker: cocoa
+    en: Does it feel good when I do it?
+    ko: 주인. 코코아가 해주는 것도 시원해?
+    ja: 主人。ココアのマッサージも気持ちいい？
+  event_maidinvalentine_05_s_9:
+    speaker: "<Self>"
+    en: Yes, extremely.
+    ko: 응. 코코아도….
+    ja: ああ…
+  event_maidinvalentine_05_s_10:
+    speaker: "<Narration>"
+    en: "*Crack* *Clink*"
+    ko: 뿌득. 콰득.
+    ja: ボキッ、バキッ
+  event_maidinvalentine_05_s_11:
+    speaker: "<Self>"
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  event_maidinvalentine_05_s_12:
+    speaker: soda
+    en: Do those sounds mean you're enjoying it more?
+    ko: 아, 그렇게 소리가 나는 게 더 시원하세요~?
+    ja: あっ、そういう風に音が鳴るくらいの方が\n気持ちいいですか～？
+  event_maidinvalentine_05_s_13:
+    speaker: "<Narration>"
+    en: "*Crack* *Clink*"
+    ko: 뿌드득. 콰드득.
+    ja: ボキィッ、バキィッ
+  event_maidinvalentine_05_s_14:
+    speaker: "<Self>"
+    en: "...!!!"
+    ko: "……!!!"
+    ja: "……！！！"
+  event_maidinvalentine_05_s_15:
+    speaker: "<Monologue>"
+    en: Weird sounds start coming from the joints of my fingers.
+    ko: 손가락 관절에서 불길한 소리가 나기 시작한다.
+    ja: 指の関節から嫌な音が鳴り始めた
+  event_maidinvalentine_05_s_16:
+    speaker: "<Self>"
+    en: I think that's enough for now.
+    ko: "…손 마사지는 이만하면 된 것 같아."
+    ja: "…手のマッサージはこれくらいでよさそうだ"
+  event_maidinvalentine_05_s_17:
+    speaker: soda
+    en: Already?
+    ko: 흐엥… 벌써요?
+    ja: ふぇん…もういいんですか？
+  event_maidinvalentine_05_s_18:
+    speaker: soda
+    en: Maybe massages aren't to your preference.
+    ko: 마사지는 취향에 안 맞으시는 걸까요오….
+    ja: マッサージはお気に召しませんでした…？
+  event_maidinvalentine_05_s_19:
+    speaker: "<Self>"
+    en: No, it's not that.
+    ko: 그건 아냐.
+    ja: そういうわけではない
+  event_maidinvalentine_05_s_20:
+    speaker: soda
+    en: Oh, well, good.
+    ko: 헤헤. 다행이다아~
+    ja: えへへ。よかったぁ～
+  event_maidinvalentine_05_s_21:
+    speaker: soda
+    en: Can we at least hold hands while we talk?
+    ko: 그럼 아쉬우니까 이야기하는 동안 이렇게 손만 잡고 있으실래요? 깍지 끼구.
+    ja: じゃあ、せっかくだからおしゃべりしながら、\nこうやって手を握っててもいいですか？\n指を絡めて。
+  event_maidinvalentine_05_s_22:
+    speaker: cocoa
+    en: Me too.
+    ko: 코코아도.
+    ja: ココアも。
+  event_maidinvalentine_05_s_23:
+    speaker: ade
+    en: Feeling relaxed, Master?
+    ko: "…주인님. 긴장은 조금 풀리셨나요?"
+    ja: "…ご主人様。緊張は少しほぐれましたか？"
+  event_maidinvalentine_05_s_24:
+    speaker: "<Choice>"
+    en: Yes.
+    ko: 응.
+    ja: ああ
+  event_maidinvalentine_05_s_25:
+    speaker: "<Choice>"
+    en: Not just relaxed. I feel happy.
+    ko: 행복한 시간이었어….
+    ja: 幸せな時間だった…
+  event_maidinvalentine_05_s_26:
+    speaker: ade
+    en: We want to ask you a few questions that could help us better understand you.
+      That way it'll help with our chocolate.
+    ko: |-
+      그, 그럼 주인님께 진심이 담긴 초콜릿을 대접해 드리기
+      위해서 몇 가지 질문을 드리려고 해요.
+    ja: |-
+      で、ではご主人様、\n心をこめたチョコをお渡しするために
+      いくつか質問したいと思います。
+  event_maidinvalentine_05_s_27:
+    speaker: ade
+    en: Would that be okay?
+    ko: 괜찮으세요?
+    ja: よろしいですか？
+  event_maidinvalentine_05_s_28:
+    speaker: "<Self>"
+    en: Sure, go ahead and ask.
+    ko: 응.
+    ja: ああ
+  event_maidinvalentine_05_s_29:
+    speaker: ade
+    en: How sweet would you like it?
+    ko: 주인님께서는 어느 정도의 단맛을 좋아하세요?
+    ja: ご主人様は、どれくらいの甘さがお好きですか？
+  event_maidinvalentine_05_s_30:
+    speaker: "<Choice>"
+    en: If I'm not getting cavities from it, then it's not sweet enough.
+    ko: 이가 썩을 정도로 단 게 좋아.
+    ja: 歯が溶けるくらい甘いのが好きだ
+  event_maidinvalentine_05_s_31:
+    speaker: "<Choice>"
+    en: Just the right amount of sweetness.
+    ko: 적당히 단 게 좋아.
+    ja: 適度な甘さが好きだ
+  event_maidinvalentine_05_s_32:
+    speaker: ade
+    en: Got it.
+    ko: 그렇군요.
+    ja: なるほど。
+  event_maidinvalentine_05_s_33:
+    speaker: ade
+    en: Do you eat breakfast in the morning?
+    ko: 그럼… 아침 식사는 하시는 편인가요?
+    ja: では…朝ご飯は食べるタイプですか？
+  event_maidinvalentine_05_s_34:
+    speaker: "<Choice>"
+    en: Always.
+    ko: 꼭 챙겨 먹어.
+    ja: 必ず食べる
+  event_maidinvalentine_05_s_35:
+    speaker: "<Choice>"
+    en: Not always. Sometimes I like to sleep in for a while instead.
+    ko: 그럴 시간에 1분이라도 더 잘래….
+    ja: 食べる時間があったら、\n1分でも長く眠りたい…
+  event_maidinvalentine_05_s_36:
+    speaker: ade
+    en: Good, breakfast is the most important meal of the day.
+    ko: 다행이네요. 아침 식사는 꼭 챙겨 드시는 게 좋아요.
+    ja: よかったです。\n朝食は食べた方がいいですからね。
+  event_maidinvalentine_05_s_37:
+    speaker: ade
+    en: I don't mean to interrupt, but people do say that it's important to have breakfast
+      every day.
+    ko: 아… 이건 다른 이야기긴 하지만, 아침 식사는 챙겨 드시는 게 좋다고 해요.
+    ja: あっ…これは余談ですが、\n朝食は食べた方がいいですよ。
+  event_maidinvalentine_05_s_38:
+    speaker: ade
+    en: Onto the next question. How would you describe your personality?
+    ko: 그럼 다음으로… 주인님께선 스스로 어떤 성격이라고 생각하세요…?
+    ja: では続いて…ご主人様は自分のことを\nどんな性格だと思いますか…？
+  event_maidinvalentine_05_s_39:
+    speaker: "<Self>"
+    en: Ade.
+    ko: "…에이드."
+    ja: "…エード"
+  event_maidinvalentine_05_s_40:
+    speaker: ade
+    en: Yes?
+    ko: 네?
+    ja: はい？
+  event_maidinvalentine_05_s_41:
+    speaker: "<Self>"
+    en: Do we really have to do all this?
+    ko: 이렇게까지 해야 하는 거야?
+    ja: ここまでしないといけないのか？
+  event_maidinvalentine_05_s_42:
+    speaker: ade
+    en: I-I'm sorry for bothering you...
+    ko: 앗… 죄, 죄송해요.
+    ja: あっ…す、すみません。
+  event_maidinvalentine_05_s_43:
+    speaker: "<Self>"
+    en: That's not what I mean.
+    ko: 그게 아니라.
+    ja: そうじゃなくて
+  event_maidinvalentine_05_s_44:
+    speaker: "<Self>"
+    en: I'm just saying that you should just be yourselves and act normally.
+    ko: 평소대로 해도 괜찮을 것 같아서.
+    ja: いつもどおりでも大丈夫な気がして
+  event_maidinvalentine_05_s_45:
+    speaker: ade
+    en: So you're saying we shouldn't change anything?
+    ko: 평소대로요…?
+    ja: いつもどおりですか…？
+  event_maidinvalentine_05_s_46:
+    speaker: "<Self>"
+    en: Exactly.
+    ko: 응.
+    ja: ああ
+  event_maidinvalentine_05_s_47:
+    speaker: "<Monologue>"
+    en: I look at Soda and Cocoa, who are still holding my hands.
+    ko: 여전히 내 손을 잡고 있는 소다와 코코아를 보았다.
+    ja: まだ私の手を握っているソーダとココアを見た
+  event_maidinvalentine_05_s_48:
+    speaker: soda
+    en: You have such big hands, Master.
+    ko: 헤헤. 주인님 손 크다아… 응?
+    ja: えへへ。ご主人様の手、大きいなぁ…ん？
+  event_maidinvalentine_05_s_49:
+    speaker: soda
+    en: Are you okay? You look a little uncomfortable.
+    ko: 왜 그러세요 주인님? 혹시 뭔가 불편하세요…?
+    ja: どうしました？何かお探しですか？
+  event_maidinvalentine_05_s_50:
+    speaker: cocoa
+    en: If you need anything, just tell us.
+    ko: 필요한 게 있으면 말해.
+    ja: 欲しいものがあったら言って。
+  event_maidinvalentine_05_s_51:
+    speaker: cocoa
+    en: I'll take care of you in no time.
+    ko: 프로 메이드 코코아가 해결해 주께.
+    ja: プロメイドのココアが解決してあげる。
+  event_maidinvalentine_05_s_52:
+    speaker: "<Self>"
+    en: Soda. Cocoa. Ade.
+    ko: 소다랑 코코아, 그리고 에이드는.
+    ja: ソーダとココア、そしてエードは
+  event_maidinvalentine_05_s_53:
+    speaker: "<Self>"
+    en: All three of you have never been anything less than sincere in the way you
+      treat me.
+    ko: 평소에도 나를 진심으로 대해 주지 않나 해서.
+    ja: 普段から、心をこめて私に接してくれているから
+  event_maidinvalentine_05_s_54:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_05_s_55:
+    speaker: ade
+    en: You're right.
+    ko: 그렇… 네요.
+    ja: そう…ですね。
+  event_maidinvalentine_05_s_56:
+    speaker: "<Self>"
+    en: You don't have to be so nervous.
+    ko: 너무 긴장하지 않아도 될 것 같아.
+    ja: そこまで緊張する必要はない
+  event_maidinvalentine_05_s_57:
+    speaker: ade
+    en: "... Hehe."
+    ko: "……후후."
+    ja: "…ふふ。"
+  event_maidinvalentine_05_s_58:
+    speaker: ade
+    en: Very well.
+    ko: 네, 주인님.
+    ja: はい、ご主人様。
+  event_maidinvalentine_05_s_59:
+    speaker: ade
+    en: We'll try to relax and act the way we always do when making the chocolate.
+    ko: 평소대로, 주인님을 위해 맛있는 초콜릿을 만들어 드릴게요.
+    ja: いつもどおり、ご主人様のために\nおいしいチョコを作りますね。
+event_maidinvalentine_05_e:
+  event_maidinvalentine_05_e_1:
+    speaker: "<Monologue>"
+    en: The maids have made the new chocolate.
+    ko: 메이드들은 곧 새로운 초콜릿을 만들어냈다.
+    ja: メイドたちはすぐに新しいチョコを作り上げた
+  event_maidinvalentine_05_e_2:
+    speaker: ade
+    en: Would you like to try it, Master?
+    ko: 주인님. 한 번 드셔보시겠어요?
+    ja: ご主人様、一口いかがですか？
+  event_maidinvalentine_05_e_3:
+    speaker: "<Self>"
+    en: I'd love to.
+    ko: 고마워.
+    ja: ありがとう
+  event_maidinvalentine_05_e_4:
+    speaker: "<Narration>"
+    en: "*Chomp, chomp.*"
+    ko: 우물우물.
+    ja: モグモグ
+  event_maidinvalentine_05_e_5:
+    speaker: ade
+    en: What do you think?
+    ko: 어떠세요…?
+    ja: いかがですか…？
+  event_maidinvalentine_05_e_6:
+    speaker: "<Choice>"
+    en: It's about the same as what you sell at the Maid Cafe.
+    ko: "…메이드 카페에서 파는 것보다 맛있지는 않아."
+    ja: "…メイドカフェで売っているチョコの方が\\nおいしい"
+  event_maidinvalentine_05_e_7:
+    speaker: "<Choice>"
+    en: Delicious.
+    ko: 맛있어.
+    ja: おいしい
+  event_maidinvalentine_05_e_8:
+    speaker: ade
+    en: More delicious than what we sell at the cafe?
+    ko: 저희 카페에서 파는 것보다요?
+    ja: 私たちのカフェで売っているものより？
+  event_maidinvalentine_05_e_9:
+    speaker: "<Self>"
+    en: "... Not by much."
+    ko: "…그렇지는 않아."
+    ja: "…それは…"
+  event_maidinvalentine_05_e_10:
+    speaker: "<Monologue>"
+    en: Although it was made with pure intent, the chocolate tastes about the same
+      as what's being sold at the cafe.
+    ko: 진짜 초콜릿임에도, 확실히 맛은 메이드 카페에서 팔던 것보다는 부족하다.
+    ja: 本物のチョコなのに、味は確かに\nメイドカフェで売っているものに劣っている
+  event_maidinvalentine_05_e_11:
+    speaker: "<Monologue>"
+    en: However, gazing upon the nervous faces of the three ladies, the feeling of
+      being cared for made up for any imperfections in the flavor.
+    ko: 하지만 두근거리는 얼굴로 나를 보는 메이드들의 모습이 부족한 부분을 채우고도 남는다.
+    ja: しかし、ドキドキして私を見つめる\nメイドたちの姿が\nその欠点を十分補っている
+  event_maidinvalentine_05_e_12:
+    speaker: "<Self>"
+    en: I like this better.
+    ko: 그래도 이게 더 좋아.
+    ja: でもこっちの方が好きだ
+  event_maidinvalentine_05_e_13:
+    speaker: ade
+    en: "...! Then..."
+    ko: "……! 그럼…."
+    ja: "……！ということは…"
+  event_maidinvalentine_05_e_14:
+    speaker: sweetjohnny
+    en: Are you starting to get the picture?
+    ko: 마침내 깨달았는가.
+    ja: ついに気づいたか。
+  event_maidinvalentine_05_e_15:
+    speaker: sweetjohnny
+    en: This is true Valentine's Day Chocolate.
+    ko: 진정한 밸런타인 초콜릿을.
+    ja: 真のバレンタインチョコに。
+  event_maidinvalentine_05_e_16:
+    speaker: "<Self>"
+    en: Thank you for showing us the way.
+    ko: 덕분이야. 고마워.
+    ja: 管理人のおかげだ。ありがとう
+  event_maidinvalentine_05_e_17:
+    speaker: sweetjohnny
+    en: I didn't do this for adulation.
+    ko: 감사를 바라고 한 일은 아니네만.
+    ja: 感謝されたくてやったことではない。
+  event_maidinvalentine_05_e_18:
+    speaker: sweetjohnny
+    en: I'm simply doing my job as the factory curator.
+    ko: 나는 그저 이 공장의 큐레이터이자 관리 A.I.로서 사명을 다했을 뿐이니까.
+    ja: ただこの工場のキュレーターかつ\n管理A.I.としての使命を果たしただけさ。
+  event_maidinvalentine_05_e_19:
+    speaker: sweetjohnny
+    en: However, if you care to express your gratitude in some other form, I certainly
+      wouldn't be opposed to it.
+    ko: 다만 굳이 감사를 표하고자 한다면 나도 거절할 생각은 없네.
+    ja: だが、感謝を伝えたいというのであれば、\n断るつもりはない。
+  event_maidinvalentine_05_e_20:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_05_e_21:
+    speaker: sweetjohnny
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_05_e_22:
+    speaker: sweetjohnny
+    en: But as I said, I didn't do to this merely to be thanked...
+    ko: 다시 한번 말하지만 굳이 감사를 바라고 한 일은….
+    ja: もう一度言うが、わざわざ感謝されたくて…
+  event_maidinvalentine_05_e_23:
+    speaker: soda
+    en: You say that, but it sounds like you do expect to be repaid somehow.
+    ko: 바라시는 것 같은데요…?
+    ja: 感謝してほしいみたいですが…？
+  event_maidinvalentine_05_e_24:
+    speaker: cocoa
+    en: Totally.
+    ko: 분명 엄청 바라고 이써.
+    ja: 絶対めちゃくちゃ感謝されたがってる。
+  event_maidinvalentine_05_e_25:
+    speaker: sweetjohnny
+    en: I am an AI machine. I am not swayed by such trivial things as emotions.
+    ko: 난 A.I.일세. 그런 감정에 휘둘리지 않지.
+    ja: 私はA.I.であるぞ。\nそんな感情あるはずがなかろう。
+  event_maidinvalentine_05_e_26:
+    speaker: "<Choice>"
+    en: Hmmm...
+    ko: 흠….
+    ja: ふーん…
+  event_maidinvalentine_05_e_27:
+    speaker: "<Choice>"
+    en: Doesn't seem like it to me.
+    ko: 아닌 것 같은데?
+    ja: そうは見えないが？
+  event_maidinvalentine_05_e_28:
+    speaker: sweetjohnny
+    en: You're worse than those snot-nosed brats who would run all over the factory
+      while making chocolate.
+    ko: 자네는 예전에 이 공장에서 초콜릿 만들기 체험을 하던 아이들보다도 예의가 없군.
+    ja: 君は、前にこの工場でチョコ作り体験に来ていた\n子どもたちよりもマナーがなっておらんな。
+  event_maidinvalentine_05_e_29:
+    speaker: soda
+    en: You remember all of that from before?
+    ko: 와아… 예전 일까지 전부 기억하고 계시는 거예요?
+    ja: わあ…昔のことまで全部覚えてるんですか？
+  event_maidinvalentine_05_e_30:
+    speaker: sweetjohnny
+    en: Of course. I'm an AI. A good one at that.
+    ko: 난 A.I.니까. 그것도 아주 훌륭한.
+    ja: 私はA.I.だからな。それも非常に優秀な。
+  event_maidinvalentine_05_e_31:
+    speaker: sweetjohnny
+    en: There were always children lining up in front of the factory,
+    ko: 그래서 그런 내가 관리하는 이 공장 앞은.
+    ja: だから、そんな私が管理するこの工場の前は
+  event_maidinvalentine_05_e_32:
+    speaker: sweetjohnny
+    en: eagerly awaiting their chance to get chocolate.
+    ko: 초콜릿을 받으려는 아이들로 항상 문전성시를 이뤘었지.
+    ja: チョコを欲しがる子どもたちで\nいつも大賑わいだったのさ。
+  event_maidinvalentine_05_e_33:
+    speaker: sweetjohnny
+    en: My greatest pleasure in life was getting to see the happiness on those children's
+      faces.
+    ko: 그런 아이들의 기쁜 표정을 보기 위해 CPU를 불태우는 것이 나의 즐거….
+    ja: 子どもたちの嬉しそうな顔を見るために\nCPUを燃やすことが私の楽し…
+  event_maidinvalentine_05_e_34:
+    speaker: sweetjohnny
+    en: It became like my mission.
+    ko: 사명이었다네.
+    ja: 使命だったのだ。
+  event_maidinvalentine_05_e_35:
+    speaker: soda
+    en: I think I'm starting to understand what you want.
+    ko: 관리자 씨, 어쩐지 속마음이 보이는 것 같아요….
+    ja: 管理人さん、何だか本音が漏れてますね…
+  event_maidinvalentine_05_e_36:
+    speaker: "<Self>"
+    en: Me too.
+    ko: 그러게….
+    ja: そうだな…
+  event_maidinvalentine_05_e_37:
+    speaker: ade
+    en: Will you continue to look over this place?
+    ko: "…그럼 관리자 님은 계속 이곳을 지키신 건가요?"
+    ja: "…では、管理人様はずっとここを\\n守っているのですか？"
+  event_maidinvalentine_05_e_38:
+    speaker: sweetjohnny
+    en: Yes, why? Is there a problem?
+    ko: 그렇다네. 문제 있나?
+    ja: そうだ。何か問題でも？
+  event_maidinvalentine_05_e_39:
+    speaker: cocoa
+    en: Don't you get lonely?
+    ko: "…안 외로워써?"
+    ja: "…寂しくなかった？"
+  event_maidinvalentine_05_e_40:
+    speaker: sweetjohnny
+    en: Not at all. How could an AI get lonely?
+    ko: 전혀. 난 A.I.니까.
+    ja: 寂しくなどない。私はA.I.だからな。
+  event_maidinvalentine_05_e_41:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_05_e_42:
+    speaker: sweetjohnny
+    en: Having said that, it is a nice change of pace to meet people once in a while.
+    ko: 그래도 오랜만에 손님을 맞이하니 색다른 기분이긴 했다네.
+    ja: しかし、久しぶりに客を迎えたから\n新鮮な気分ではあったぞ。
+  event_maidinvalentine_05_e_43:
+    speaker: "<Self>"
+    en: Would you like to move to the Ark? I could transfer your data.
+    ko: 그럼 방주로 갈래? 데이터를 옮길 수 있을 거야.
+    ja: じゃあアークに行かないか？\nデータを移せるはずだ
+  event_maidinvalentine_05_e_44:
+    speaker: sweetjohnny
+    en: Hmmm...
+    ko: 흠.
+    ja: ふむ。
+  event_maidinvalentine_05_e_45:
+    speaker: sweetjohnny
+    en: That's okay. This factory is where I'm supposed to be.
+    ko: "…됐네. 내가 있어야 할 곳은 이 공장일세."
+    ja: "…いや、結構だ。\\n私がいるべき場所はこの工場だからな。"
+  event_maidinvalentine_05_e_46:
+    speaker: sweetjohnny
+    en: However...
+    ko: 다만….
+    ja: だが…
+  event_maidinvalentine_05_e_47:
+    speaker: "<Self>"
+    en: Yes?
+    ko: 다만?
+    ja: だが？
+  event_maidinvalentine_05_e_48:
+    speaker: sweetjohnny
+    en: If you're not busy, it would be nice to see you again next year on Valentine's
+      Day.
+    ko: 별일 없으면, 다음 밸런타인에도 찾아와 주게.
+    ja: 特に予定がなければ、\n来年のバレンタインも来てくれないか？
+  event_maidinvalentine_05_e_49:
+    speaker: sweetjohnny
+    en: I'll fine-tune my speech so that it's better than before.
+    ko: 더 멋진 강의를 준비해두지.
+    ja: もっと素敵なレッスンを用意しておこう。
+  event_maidinvalentine_05_e_50:
+    speaker: "<Self>"
+    en: It's a deal.
+    ko: "…알았어."
+    ja: "…分かった"
+  event_maidinvalentine_05_e_51:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_05_e_52:
+    speaker: ade
+    en: How are you feeling, Cocoa?
+    ko: 코코아, 왜 그러니?
+    ja: ココア、どうしたの？
+  event_maidinvalentine_05_e_53:
+    speaker: cocoa
+    en: I feel great.
+    ko: 느낌이 조아.
+    ja: いい感じ。
+  event_maidinvalentine_05_e_54:
+    speaker: cocoa
+    en: Like I can make the best Valentine's Day chocolate ever.
+    ko: 최고의 밸런타인 초콜릿을 만들 수 있을 것 같아.
+    ja: サイコーのバレンタインチョコが作れそう。
+  event_maidinvalentine_05_e_55:
+    speaker: soda
+    en: Hehe, me too.
+    ko: 헤헤. 저도요~
+    ja: えへへ。私もで～す。
+  event_maidinvalentine_05_e_56:
+    speaker: soda
+    en: What about you, Ade?
+    ko: 에이드는요?
+    ja: エードはどうですか？
+  event_maidinvalentine_05_e_57:
+    speaker: ade
+    en: Hmmm...
+    ko: 음….
+    ja: ええと…
+  event_maidinvalentine_05_e_58:
+    speaker: "<Monologue>"
+    en: Ade pauses for a moment and stares at me.
+    ko: 잠시 멈칫한 에이드는 나를 보았다.
+    ja: エードは少しためらい、私を見た
+  event_maidinvalentine_05_e_59:
+    speaker: ade
+    en: Master, what do you think?
+    ko: 주인님은 어떻게 생각하세요?
+    ja: ご主人様はどう思いますか？
+  event_maidinvalentine_05_e_60:
+    speaker: "<Self>"
+    en: I think you'll do just fine.
+    ko: 잘 할 수 있을 거야.
+    ja: 上手にできるはずだ
+  event_maidinvalentine_05_e_61:
+    speaker: ade
+    en: Hehe, thanks.
+    ko: 후후, 네.
+    ja: ふふ、はい。
+  event_maidinvalentine_05_e_62:
+    speaker: ade
+    en: I always do.
+    ko: 평소대로 할게요.
+    ja: いつもどおりにやりますね。
+  event_maidinvalentine_05_e_63:
+    speaker: soda
+    en: My only question is who do we think about when we make the chocolate again?
+    ko: 저도 평소대로… 어라?
+    ja: 私もいつもどおり…あれ？
+  event_maidinvalentine_05_e_64:
+    speaker: soda
+    en: Do we think about the customers?
+    ko: 이번에는 손님분들을 생각하면서 만들어야 하는 거겠죠오…?
+    ja: 今度はお客様のことを思いながら、\n作らないといけないんですよねぇ…？
+  event_maidinvalentine_05_e_65:
+    speaker: cocoa
+    en: That's right. As long as we do it with sincerity, our chocolate will never
+      suffer.
+    ko: 응. 진심을 다마서…!
+    ja: うん。心をこめて…！
+event_maidinvalentine_06_s:
+  event_maidinvalentine_06_s_1:
+    speaker: Monologue
+    en: After coming back to the Ark, the maids continue to make chocolate.
+    ko: 방주로 돌아온 뒤 메이드들은 다시 초콜릿을 만들었고,
+    ja: アークへ戻ってきてから、\nメイドたちは再びチョコを作り
+  event_maidinvalentine_06_s_2:
+    speaker: Monologue
+    en: Mustang comes to judge.
+    ko: 심사를 위해 머스탱이 찾아왔다.
+    ja: 審査のためにマスタングがやってきた
+  event_maidinvalentine_06_s_3:
+    speaker: mustang
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_s_4:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_s_5:
+    speaker: soda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_s_6:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_s_7:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_s_8:
+    speaker: mustang
+    en: You all made this chocolate?
+    ko: 이 Chocolate이, 여러분이 다시 만든 Chocolate인가Yo?
+    ja: このChocolateが、\nみなさんが作り直したChocolateですKa？
+  event_maidinvalentine_06_s_9:
+    speaker: ade
+    en: Yes, boss.
+    ko: 네, 사장님.
+    ja: はい、社長。
+  event_maidinvalentine_06_s_10:
+    speaker: mustang
+    en: "... I see."
+    ko: "…그렇군Yo."
+    ja: "…なるほDo。"
+  event_maidinvalentine_06_s_11:
+    speaker: mustang
+    en: I'll have un petit taste.
+    ko: 한 번 Taste를 보겠습니Da.
+    ja: 一度TasteしてみまShow。
+  event_maidinvalentine_06_s_12:
+    speaker: mustang
+    en: "..."
+    ko: Um….
+    ja: Um…
+  event_maidinvalentine_06_s_13:
+    speaker: mustang
+    en: "...!!!"
+    ko: "……!!!"
+    ja: "……！！！"
+  event_maidinvalentine_06_s_14:
+    speaker: mustang
+    en: This...!
+    ko: 이, 이Gun…!
+    ja: こ、KO・RE・WA…！
+  event_maidinvalentine_06_s_15:
+    speaker: ade
+    en: Boss?!
+    ko: 사장님?!
+    ja: 社長！？
+  event_maidinvalentine_06_s_16:
+    speaker: mustang
+    en: My goodness!
+    ko: 우오오오Oat…!
+    ja: うおおおOooo…！
+  event_maidinvalentine_06_s_17:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_s_18:
+    speaker: mustang
+    en: This is fantastic!
+    ko: Fan… tasic합니Da!
+    ja: Fan…tasicですNe！
+  event_maidinvalentine_06_s_19:
+    speaker: mustang
+    en: It's as if I can feel your emotions coursing through it!
+    ko: Love & Peace와 True Heart와 엄청난 Entertainment가 느껴지는군Yo!
+    ja: Love & Peace と True Heart と\nとてつもないEntertainmentが\n感じられますYo！
+  event_maidinvalentine_06_s_20:
+    speaker: ade
+    en: Which means...?
+    ko: 그렇다는 건…?
+    ja: ということは…？
+  event_maidinvalentine_06_s_21:
+    speaker: mustang
+    en: Not only is this truly Valentine's Day chocolate,
+    ko: 이것이야말로 Made In Valentine, 아니!
+    ja: これこそMade In Valentine、いや！
+  event_maidinvalentine_06_s_22:
+    speaker: mustang
+    en: but you yourselves are all Valentine Maids!
+    ko: 이런 Masterpiece를 만든 여러분이야말로 Maid In Valentine!!!
+    ja: こんなMasterpieceを作った\nみなさんこそがMaid In Valentine！！
+  event_maidinvalentine_06_s_23:
+    speaker: mustang
+    en: You passed with flying colors!
+    ko: "…합격입니Da."
+    ja: "…合格Desu。"
+  event_maidinvalentine_06_s_24:
+    speaker: mustang
+    en: Whatever you thought of while making this, do not forget it!
+    ko: 그 Mind, 잊지 마세Yo.
+    ja: そのMind、忘れないでくださいNe。
+  event_maidinvalentine_06_s_25:
+    speaker: Monologue
+    en: Mustang leaves even without looking back.
+    ko: 머스탱은 뒤도 돌아보지 않고 떠났다.
+    ja: マスタングは後ろも振り返らずに去っていった
+  event_maidinvalentine_06_s_26:
+    speaker: ade
+    en: I guess that means we can go ahead with the event?
+    ko: 아무래도… 허락해 주신 것 같아요.
+    ja: どうやら…許可してくださったみたいですね。
+  event_maidinvalentine_06_s_27:
+    speaker: soda
+    en: Woohoo!
+    ko: 와아~!
+    ja: わあ～！
+  event_maidinvalentine_06_s_28:
+    speaker: cocoa
+    en: We did it!
+    ko: 해내써…!
+    ja: やった…！
+  event_maidinvalentine_06_s_29:
+    speaker: Self
+    en: Congratulations.
+    ko: 축하해.
+    ja: おめでとう
+  event_maidinvalentine_06_s_30:
+    speaker: ade
+    en: Thank you, Master.
+    ko: 감사해요, 주인님.
+    ja: ありがとうございます、ご主人様。
+  event_maidinvalentine_06_s_31:
+    speaker: ade
+    en: We couldn't have done it without your help.
+    ko: 주인님의 도움이 없었으면 해내지 못했을 거예요.
+    ja: ご主人様のサポートがなければ\nやり遂げられませんでした。
+  event_maidinvalentine_06_s_32:
+    speaker: ade
+    en: We should also thank Sweet Johnny.
+    ko: 아, 그리고 관리자 님한테도 감사드려야 겠네요.
+    ja: あ、管理人様にも感謝しないといけませんね。
+  event_maidinvalentine_06_s_33:
+    speaker: Self
+    en: Don't shortchange yourselves. You did great.
+    ko: 아냐. 다들 고생했어.
+    ja: いや、みんなお疲れ様
+  event_maidinvalentine_06_s_34:
+    speaker: ade
+    en: Are you leaving already?
+    ko: 그럼… 어머, 가시게요?
+    ja: それでは…あら、お帰りですか？
+  event_maidinvalentine_06_s_35:
+    speaker: Self
+    en: Don't you have to prepare for the event?
+    ko: 이제 영업 준비해야 하는 거 아냐?
+    ja: 営業の準備をするんじゃないのか？
+  event_maidinvalentine_06_s_36:
+    speaker: cocoa
+    en: Don't get ahead of yourself.
+    ko: 주인. 어디가.
+    ja: 主人。どこ行くの。
+  event_maidinvalentine_06_s_37:
+    speaker: cocoa
+    en: We're a way off from selling this stuff.
+    ko: 아직 영업 시작도 안 해써.
+    ja: まだ営業は始まってもいないよ。
+  event_maidinvalentine_06_s_38:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_s_39:
+    speaker: soda
+    en: To be honest, I was hoping you could stay a little longer, Master.
+    ko: 헤헤, 사실 저도 주인님이 같이 계셔 주셨으면 좋겠어요.
+    ja: えへへ、実は私もご主人様に\n一緒にいてほしいんです。
+  event_maidinvalentine_06_s_40:
+    speaker: soda
+    en: I'm sure it'd help me produce even tastier chocolates.
+    ko: 그럼 진심이 담긴 초콜릿케이크를 더 잘 만들 수 있을 것 같아요.
+    ja: 傍にいてくれたら、\n心がこもったチョコケーキを\n上手く作れる気がするので。
+  event_maidinvalentine_06_s_41:
+    speaker: ade
+    en: Cocoa, Soda. You mustn't put Master in a difficult position.
+    ko: 코코아, 소다. 주인님을 곤란하게 만들면 안 돼.
+    ja: ココア、ソーダ。\nご主人様を困らせちゃダメよ。
+  event_maidinvalentine_06_s_42:
+    speaker: ade
+    en: Master has already helped us enough.
+    ko: 벌써 많이 도와주셨잖니.
+    ja: 今までたくさん手伝ってもらったでしょう？
+  event_maidinvalentine_06_s_43:
+    speaker: cocoa
+    en: You don't want Master to leave, do you Ade?
+    ko: 에이드는 주인 갔으면 좋게써?
+    ja: エードは主人に帰ってほしい？
+  event_maidinvalentine_06_s_44:
+    speaker: ade
+    en: Well, no, it's just that...
+    ko: 그, 그건 아니지만….
+    ja: そ、それは違うけど…
+  event_maidinvalentine_06_s_45:
+    speaker: Self
+    en: I'll stay and help you for the day.
+    ko: 그럼 오늘 하루만 도와줄게.
+    ja: じゃあ、今日1日だけ手伝おう
+  event_maidinvalentine_06_s_46:
+    speaker: ade
+    en: Really, you don't have to if you don't want to.
+    ko: 주, 주인님… 그러지 않으셔도….
+    ja: ご、ご主人様…そんなご無理は…
+  event_maidinvalentine_06_s_47:
+    speaker: Self
+    en: I have some free time.
+    ko: 한가하니까.
+    ja: 退屈だから
+  event_maidinvalentine_06_s_48:
+    speaker: soda
+    en: We can go back to the Ark and make desserts!
+    ko: 와아~ 그럼 주방에서 저랑 같이 디저트 만들어요~
+    ja: わあ～！じゃあキッチンで\n一緒にデザートを作りましょう～
+  event_maidinvalentine_06_s_49:
+    speaker: cocoa
+    en: No, Master will be staying here and attending to the cafe.
+    ko: 안대. 주인은 코코아랑 홀에서 마무리랑 서빙을 할 거야.
+    ja: ダメ。主人はココアとホールで\n仕上げと接客をするの。
+  event_maidinvalentine_06_s_50:
+    speaker: soda
+    en: Aw man...
+    ko: 흐엥….
+    ja: ふぇん…
+  event_maidinvalentine_06_s_51:
+    speaker: Self
+    en: I can do both.
+    ko: 둘 다 하지 뭐.
+    ja: 両方やればいい
+  event_maidinvalentine_06_s_52:
+    speaker: ade
+    en: Hehe.
+    ko: 후후.
+    ja: ふふっ。
+  event_maidinvalentine_06_s_53:
+    speaker: ade
+    en: Thank you for today, Master.
+    ko: 그럼 오늘 하루 잘 부탁드려요, 주인님.
+    ja: では今日1日よろしくお願いします。\nご主人様。
+event_maidinvalentine_06_e:
+  event_maidinvalentine_06_e_1:
+    speaker: soda
+    en: Phew! Thanks for helping out, Master.
+    ko: 흐에엥… 수고하셨습니다아….
+    ja: ふぇぇん…お疲れ様でしたぁ…
+  event_maidinvalentine_06_e_2:
+    speaker: cocoa
+    en: That was quite the deluge of customers.
+    ko: 이러케 손님이 많이 온 건 처음이야….
+    ja: こんなにお客がたくさん来たの、初めて…
+  event_maidinvalentine_06_e_3:
+    speaker: ade
+    en: Thanks, Master. I hope we didn't work you too hard.
+    ko: 주인님, 고생 많으셨어요. 힘드셨죠?
+    ja: ご主人様、お疲れ様でした。\n大変だったでしょう？
+  event_maidinvalentine_06_e_4:
+    speaker: "<Choice>"
+    en: I thought I was going to die...
+    ko: 죽는 줄 알았어….
+    ja: 死ぬかと思った…
+  event_maidinvalentine_06_e_5:
+    speaker: "<Choice>"
+    en: All of you did well.
+    ko: 다들 고생했어.
+    ja: みんなお疲れ様
+  event_maidinvalentine_06_e_6:
+    speaker: ade
+    en: Sorry, I knew we were being stubborn by having you stay.
+    ko: 죄송해요. 저희 고집 때문에….
+    ja: すみません。私たちが無理を言ったせいで…
+  event_maidinvalentine_06_e_7:
+    speaker: Self
+    en: Not at all. I still had fun.
+    ko: 아냐. 그래도 재밌었어.
+    ja: いや、それでも楽しかった
+  event_maidinvalentine_06_e_8:
+    speaker: ade
+    en: Hehe. Thank you for saying that.
+    ko: 후후, 그렇게 말씀해주셔서 감사해요.
+    ja: ふふ、そう言ってくださって嬉しいです。
+  event_maidinvalentine_06_e_9:
+    speaker: ade
+    en: Hehe, don't mention it.
+    ko: 후후, 별말씀을요.
+    ja: ふふ、ありがとうございます。
+  event_maidinvalentine_06_e_10:
+    speaker: Self
+    en: We're done with closing too, right?
+    ko: 이제 뒷정리도 전부 끝난 거지?
+    ja: これで後片付けも終わりか？
+  event_maidinvalentine_06_e_11:
+    speaker: soda
+    en: Yep. Everything's been cleaned to a pristine sheen.
+    ko: 네~ 전부 반짝반짝하게 청소했으니까요.
+    ja: はい！全部ピカピカにお掃除しましたよ。
+  event_maidinvalentine_06_e_12:
+    speaker: cocoa
+    en: All done.
+    ko: 코코아도 뒷정리의 마무리까지 다 해써.
+    ja: ココアも、後片付けの仕上げまで全部やった。
+  event_maidinvalentine_06_e_13:
+    speaker: ade
+    en: Now you can rest... oh, my goodness!
+    ko: 이제 조금 쉬시다가… 어머.
+    ja: じゃあ少し休んで…あら。
+  event_maidinvalentine_06_e_14:
+    speaker: ade
+    en: We completely forgot to set aside some chocolate for you.
+    ko: 그러고 보니 정작 오늘 주인님께 초콜릿을 안 드렸어요.
+    ja: そういえば、今日はご主人様に\nチョコを渡していませんでしたね。
+  event_maidinvalentine_06_e_15:
+    speaker: Self
+    en: Really?
+    ko: 어… 그랬나?
+    ja: えっと…そうだったか？
+  event_maidinvalentine_06_e_16:
+    speaker: ade
+    en: I'm so sorry. I'll make some right now.
+    ko: 네… 죄송해요. 금방 만들어드릴게요.
+    ja: はい…すみません。すぐにお作りしますね。
+  event_maidinvalentine_06_e_17:
+    speaker: soda
+    en: This one was our best-seller today, I'll make some... wait a minute...
+    ko: 그럼 저는 제일 잘 팔렸던 초콜릿케이크를… 어라?
+    ja: じゃあ私は一番売れたチョコケーキを…あれ？
+  event_maidinvalentine_06_e_18:
+    speaker: cocoa
+    en: I'll make my special dinosaur chocolate... hey...
+    ko: 코코아는 특별히 울부짖는 공룡 초콜릿을… 응?
+    ja: ココアは特別に、叫ぶ恐竜のチョコを…ん？
+  event_maidinvalentine_06_e_19:
+    speaker: Self
+    en: What's wrong?
+    ko: 왜 그래?
+    ja: どうした？
+  event_maidinvalentine_06_e_20:
+    speaker: soda
+    en: Wh-what should we do? We ran out of ingredients!
+    ko: 어, 어떡하죠? 재료가 다 떨어졌어요!
+    ja: ど、どうしましょう？\n材料を使い切っちゃいました！
+  event_maidinvalentine_06_e_21:
+    speaker: cocoa
+    en: It's all my fault...
+    ko: 이럴 수가. 메이드장 코코아의 불찰이야.
+    ja: そんな。メイド長ココア、つーこんの極み。
+  event_maidinvalentine_06_e_22:
+    speaker: ade
+    en: We sold so much chocolate that we're completely out...
+    ko: 판매용 초콜릿 재고도 전부….
+    ja: 販売用のチョコの在庫もすべて…
+  event_maidinvalentine_06_e_23:
+    speaker: Self
+    en: It's okay. It's the thought that counts.
+    ko: 괜찮아. 마음만 받을게.
+    ja: 大丈夫。気持ちだけもらっておく
+  event_maidinvalentine_06_e_24:
+    speaker: cocoa
+    en: Just a sec, I found something good.
+    ko: 잠깐. 코코아가 조은 걸 찾아써.
+    ja: 待って。ココアいいの見つけた。
+  event_maidinvalentine_06_e_25:
+    speaker: Monologue
+    en: Cocoa brings a bowl full of failed chocolates.
+    ko: 코코아가 실패한 초콜릿을 모아둔 보울을 들고 왔다.
+    ja: ココアは失敗したチョコを集めたボウルを\n持ってきた
+  event_maidinvalentine_06_e_26:
+    speaker: soda
+    en: Aren't those the rejected ones from throughout the day?
+    ko: 이건 너무 다 못생긴 아이들뿐인걸요….
+    ja: これはブチャイクなのばっかりですよ…
+  event_maidinvalentine_06_e_27:
+    speaker: ade
+    en: I'll go buy some more ingredients. You wait here, Master.
+    ko: 조금만 기다려 주세요, 주인님. 금방 재료를 사 와서….
+    ja: ご主人様、少々お待ちください。\nすぐに材料を買ってきて…
+  event_maidinvalentine_06_e_28:
+    speaker: Self
+    en: Those ones will do just fine.
+    ko: 그거면 될 것 같아.
+    ja: それでいい
+  event_maidinvalentine_06_e_29:
+    speaker: ade
+    en: Are you sure?
+    ko: 네?
+    ja: はい？
+  event_maidinvalentine_06_e_30:
+    speaker: Self
+    en: All three of you worked very hard on them.
+    ko: 셋이서 열심히 만든 거잖아?
+    ja: 3人が頑張って作ったものだろう？
+  event_maidinvalentine_06_e_31:
+    speaker: Self
+    en: Each one of you poured your heart and soul into these.
+    ko: 진심을 담아서.
+    ja: 心をこめて
+  event_maidinvalentine_06_e_32:
+    speaker: ade
+    en: I...
+    ko: 아…
+    ja: あっ…
+  event_maidinvalentine_06_e_33:
+    speaker: ade
+    en: I suppose you're right.
+    ko: 후후, 그렇네요.
+    ja: ふふ、そうですね。
+  event_maidinvalentine_06_e_34:
+    speaker: ade
+    en: Well, in that case...
+    ko: 그럼….
+    ja: では…
+  event_maidinvalentine_06_e_35:
+    speaker: ade
+    en: Here, Master. Open your mouth.
+    ko: 주인님. 아~ 하세요.
+    ja: ご主人様、\nあ～んしてくださいね。
+  event_maidinvalentine_06_e_36:
+    speaker: Self
+    en: "... Are you going to feed me?"
+    ko: "…먹여주게?"
+    ja: "…食べさせてくれるのか？"
+  event_maidinvalentine_06_e_37:
+    speaker: ade
+    en: Of course.
+    ko: 네. 진심을 담아서요.
+    ja: はい。心をこめて。
+  event_maidinvalentine_06_e_38:
+    speaker: soda
+    en: Say, "Ahhh..."
+    ko: 주인님~ 아앙~
+    ja: ご主人様～、あ～ん。
+  event_maidinvalentine_06_e_39:
+    speaker: cocoa
+    en: Open wide!
+    ko: 주인. 입 벌려.
+    ja: 主人、口開けて。
+  event_maidinvalentine_06_e_40:
+    speaker: "<Choice>"
+    en: Ahhhhh...
+    ko: 아앙~
+    ja: あ～ん
+  event_maidinvalentine_06_e_41:
+    speaker: "<Choice>"
+    en: Thank you.
+    ko: 잘 먹을게.
+    ja: いただきます
+  event_maidinvalentine_06_e_42:
+    speaker: Monologue
+    en: The chocolate enters my mouth.
+    ko: 초콜릿이 조각이 입 안으로 들어왔다.
+    ja: チョコが口の中に入ってきた
+  event_maidinvalentine_06_e_43:
+    speaker: ade
+    en: How is it?
+    ko: 어떠세요?
+    ja: いかがですか？
+  event_maidinvalentine_06_e_44:
+    speaker: Narration
+    en: "*Chomp, chomp.*"
+    ko: 우물우물.
+    ja: モグモグ
+  event_maidinvalentine_06_e_45:
+    speaker: Self
+    en: It's delicious.
+    ko: "…마시써."
+    ja: "…おいしい"
+  event_maidinvalentine_06_e_46:
+    speaker: ade
+    en: Good!
+    ko: 후후, 다행이네요.
+    ja: ふふ、よかったです。
+  event_maidinvalentine_06_e_47:
+    speaker: cocoa
+    en: There's more where that came from, so don't close your mouth just yet.
+    ko: 아직 많으니까, 계속 입 벌리고 이써.
+    ja: まだたくさんあるから、ずっと口開けてて。
+  event_maidinvalentine_06_e_48:
+    speaker: Self
+    en: Wait... ugh...
+    ko: 잠깐… 웁.
+    ja: ちょっと待っ…うっ
+  event_maidinvalentine_06_e_49:
+    speaker: soda
+    en: Come to think of it, we didn't eat any chocolates ourselves!
+    ko: 아, 생각해보니 저희도 초콜릿 하나도 못 먹었어요. 흐엥….
+    ja: あ、そういえば私たちも\nチョコ1つも食べてませんよね。ふぇん…
+  event_maidinvalentine_06_e_50:
+    speaker: Self
+    en: Soda, do you want me to feed you?
+    ko: 소다도 먹여줄까?
+    ja: ソーダも食べさせてあげようか？
+  event_maidinvalentine_06_e_51:
+    speaker: soda
+    en: Yes! Yesyesyes!
+    ko: 네! 아앙~
+    ja: はい！あ～ん。
+  event_maidinvalentine_06_e_52:
+    speaker: cocoa
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_e_53:
+    speaker: cocoa
+    en: Ahhhh...
+    ko: 아~
+    ja: あ～ん。
+  event_maidinvalentine_06_e_54:
+    speaker: Self
+    en: Here, Cocoa too.
+    ko: 여기, 코코아도.
+    ja: はい、ココアも
+  event_maidinvalentine_06_e_55:
+    speaker: cocoa
+    en: Delicious!
+    ko: 흠흠. 맛있꾼.
+    ja: ふむ。おいちい。
+  event_maidinvalentine_06_e_56:
+    speaker: Self
+    en: "... Ade?"
+    ko: "…에이드는?"
+    ja: "…エードは？"
+  event_maidinvalentine_06_e_57:
+    speaker: ade
+    en: M-me as well?
+    ko: 저, 저요?
+    ja: わ、私ですか？
+  event_maidinvalentine_06_e_58:
+    speaker: ade
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_06_e_59:
+    speaker: ade
+    en: If you insist...
+    ko: 부, 부탁드릴게요 주인님….
+    ja: お、お願いします…ご主人様…
+  event_maidinvalentine_06_e_60:
+    speaker: Monologue
+    en: The four of us spend time sampling various pieces of chocolate.
+    ko: 한동안 메이드들과 초콜릿 조각을 나눠 먹으며 시간을 보냈다.
+    ja: しばらくメイドたちとチョコを食べながら\n営業後の時間を過ごした
+  event_maidinvalentine_06_e_61:
+    speaker: Monologue
+    en: Even though they are all plain pieces of chocolate which are in stark contrast
+      to the fancy pieces that have been for sale,
+    ko: 화려한 판매용 초콜릿과는 달리 수수한 초콜릿 조각일 뿐이었지만.
+    ja: 華やかな販売用のチョコとは違う、\n地味なチョコだったが
+  event_maidinvalentine_06_e_62:
+    speaker: Monologue
+    en: the sincerity of the three maids shines through in each and every bite.
+    ko: 오히려 그래서인지, 세 메이드의 진심이 느껴지는 것 같았다.
+    ja: だからこそ、\n3人の気持ちが感じられるような気がした
+  event_maidinvalentine_06_e_63:
+    speaker: Narration
+    en: 'MAID IN VALENTINE: END'
+    ko: 'MAID IN VALENTINE : END'
+    ja: MAID IN VALENTINE：END
+event_maidinvalentine_epilogue:
+  event_maidinvalentine_epilogue_1:
+    speaker: "<Narration>"
+    en: After Valentine's Day. The Sweets & Cocoa factory on the surface.
+    ko: 밸런타인데이가 지난 뒤, 지상의 [Sweets & Cocoa] 공장.
+    ja: バレンタインデーが終わった後、\n地上にある「Sweets & Cocoa」の工場
+  event_maidinvalentine_epilogue_2:
+    speaker: sweetjohnny
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_epilogue_3:
+    speaker: sweetjohnny
+    en: I hope those ladies managed to pull off the Valentine's Day chocolate...
+    ko: 그 아가씨들, 제대로 밸런타인 초콜릿을 만들었겠지….
+    ja: あのお嬢さんたち、\nちゃんとバレンタインチョコを作れただろうか…
+  event_maidinvalentine_epilogue_4:
+    speaker: sweetjohnny
+    en: They did attend my class though, so there shouldn't be anything to worry about.
+    ko: 흠. 내 강의를 들었으니 걱정할 필요는 없나.
+    ja: 私のレッスンを受けたのだから、\n心配する必要はないか。
+  event_maidinvalentine_epilogue_5:
+    speaker: sweetjohnny
+    en: I should prepare for next year. Who knows, they might come again...
+    ko: 내년 밸런타인 준비나 해둬야겠군. 또 찾아올지도 모르니….
+    ja: 来年のバレンタインの準備でもしておくか。\nまた来るかもしれんからな…
+  event_maidinvalentine_epilogue_6:
+    speaker: "<Narration>"
+    en: "*Screech*"
+    ko: 끼익-
+    ja: キィッ…
+  event_maidinvalentine_epilogue_7:
+    speaker: sweetjohnny
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  event_maidinvalentine_epilogue_8:
+    speaker: privaty_n
+    en: Are you sure this is the place?
+    ko: "…진짜 여기 맞아요?"
+    ja: "…本当にここで合ってるんですか？"
+  event_maidinvalentine_epilogue_9:
+    speaker: privaty_n
+    en: It's supposed to have been abandoned for several decades at least, but there
+      isn't even a speck of dust.
+    ko: 최소한 수십 년은 방치됐을 텐데, 먼지 하나 없이 반짝거리잖아요.
+    ja: 少なくとも数十年は放置されているはずなのに、\nホコリ1つありませんよ。
+  event_maidinvalentine_epilogue_10:
+    speaker: milk_n
+    en: Pal, Signal.
+    ko: 흠. 형씨, 시그널.
+    ja: ふむ。兄貴、シグナル。
+  event_maidinvalentine_epilogue_11:
+    speaker: milk_n
+    en: Is this the correct location?
+    ko: 여기 맞지?
+    ja: ここで合ってるよな？
+  event_maidinvalentine_epilogue_12:
+    speaker: signal_v
+    en: Positive. No doubt about it.
+    ko: 앗, 네. 틀림 없어요.
+    ja: あっ、はい。間違いありません。
+  event_maidinvalentine_epilogue_13:
+    speaker: signal_v
+    en: Maid For You confirmed as much.
+    ko: 메이드 포 유 분들에게 확인도 받았고….
+    ja: メイド・フォー・ユーのみなさんにも\n確認しましたし…
+  event_maidinvalentine_epilogue_14:
+    speaker: "<Choice>"
+    en: This is the right place.
+    ko: 여기 맞아.
+    ja: ここで合っている
+  event_maidinvalentine_epilogue_15:
+    speaker: "<Choice>"
+    en: What am I doing here again?
+    ko: 나는 또 왜….
+    ja: なんで私まで…
+  event_maidinvalentine_epilogue_16:
+    speaker: milk_n
+    en: All right.
+    ko: 그렇다는데.
+    ja: だそうだ。
+  event_maidinvalentine_epilogue_17:
+    speaker: privaty_n
+    en: I already told you. We're here to check if any food supplies from the surface
+      have been smuggled underground. It's one of the many duties that our position
+      entails.
+    ko: |-
+      지상의 음식물이 무단으로 반입되었는지 확인해야 한다고 말씀드렸잖아요.
+      업무의 연장선입니다.
+    ja: |-
+      地上の食べ物が無断で持ち込まれたのか\n確認すべきだとお伝えしましたよね。
+      これも業務ですから。
+  event_maidinvalentine_epilogue_18:
+    speaker: privaty_n
+    en: But are you positive this is the right place?
+    ko: 그런데 지휘관. 진짜 여기가 확실한 거예요?
+    ja: しかし、指揮官。\n本当にここで間違いありませんか？
+  event_maidinvalentine_epilogue_19:
+    speaker: "<Self>"
+    en: Yes.
+    ko: 응.
+    ja: ああ
+  event_maidinvalentine_epilogue_20:
+    speaker: privaty_n
+    en: Okay then. You and Signal head over there and wait until we're done.
+    ko: |-
+      그럼 됐어요.
+      지휘관은 끝날 때까지 시그널이랑 저쪽에 가 있으세요.
+    ja: |-
+      それならいいのです。
+      指揮官は終わるまで\nシグナルとあっちに行っててください。
+  event_maidinvalentine_epilogue_21:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_epilogue_22:
+    speaker: privaty_n
+    en: How come this place is so immaculate?
+    ko: 그런데 대체 왜 이렇게 깨끗… 어라?
+    ja: ところで、ここはどうしてこんなにキレイ…\nあら？
+  event_maidinvalentine_epilogue_23:
+    speaker: privaty_n
+    en: And what's with this button?
+    ko: 이 버튼은 뭐죠?
+    ja: このボタンは何でしょう？
+  event_maidinvalentine_epilogue_24:
+    speaker: milk_n
+    en: It's like it's begging to be pushed.
+    ko: 누가 봐도 눌러달라는 것 같은데.
+    ja: どう見ても押してくれって言ってるよな。
+  event_maidinvalentine_epilogue_25:
+    speaker: "<Narration>"
+    en: "*Push*"
+    ko: 꾸욱.
+    ja: ポチッ
+  event_maidinvalentine_epilogue_26:
+    speaker: privaty_n
+    en: Wait, if you press it...!
+    ko: 잠깐, 그렇게 막 누르면…!
+    ja: あっ、そんな勝手に押したら…！
+  event_maidinvalentine_epilogue_27:
+    speaker: "<Narration>"
+    en: Wrrrrrrr...
+    ko: 윙윙윙윙….
+    ja: ウィンウィンウィンウィン…
+  event_maidinvalentine_epilogue_28:
+    speaker: sweetjohnny
+    en: About time you showed up.
+    ko: 마침내 왔는가….
+    ja: ついにたどりついたぞ…
+  event_maidinvalentine_epilogue_29:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 탕-!
+    ja: バンッ！
+  event_maidinvalentine_epilogue_30:
+    speaker: sweetjohnny
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_epilogue_31:
+    speaker: milk_n
+    en: What is this? A hologram?
+    ko: 뭐야. 홀로그램인가?
+    ja: 何だ？ホログラムか？
+  event_maidinvalentine_epilogue_32:
+    speaker: privaty_n
+    en: Hold your fire! You scared the bejeezus outta me!
+    ko: 까, 깜짝이야. 갑자기 그렇게 총을 쏘는 법이 어디 있나요!
+    ja: び、びっくりしましたわ。\n急に銃を撃つなんて！
+  event_maidinvalentine_epilogue_33:
+    speaker: milk_n
+    en: I've got to ensure the safety of our client, and the Commander as well.
+    ko: 의뢰인의 안전을 보장해야 하잖아. 저기 형씨도 있고.
+    ja: 依頼人の安全を保証しないといけないだろ？\n兄貴もいるし。
+  event_maidinvalentine_epilogue_34:
+    speaker: milk_n
+    en: Speak up, blue boy. Who are you?
+    ko: 그래서 거기 푸르뎅뎅한 짜식. 넌 뭐야?
+    ja: それから、そこの青っちいヤロー。何者だ？
+  event_maidinvalentine_epilogue_35:
+    speaker: sweetjohnny
+    en: I'm the manager of this factory.
+    ko: "…나는 이 공장의 관리자."
+    ja: "…私はこの工場の管理人。"
+  event_maidinvalentine_epilogue_36:
+    speaker: sweetjohnny
+    en: Where your sweetest dreams...
+    ko: 달콤한 꿈이 펼쳐지는….
+    ja: 甘い夢が広がる…
+  event_maidinvalentine_epilogue_37:
+    speaker: privaty_n
+    en: What are you thinking, going around pushing buttons like that?!
+    ko: 그래도 저한테 미리 말을 해야죠! 버튼도 그렇고!
+    ja: それでも、まず私に相談すべきでしょう！\nボタンも勝手に押しちゃって！
+  event_maidinvalentine_epilogue_38:
+    speaker: milk_n
+    en: Hehe, sorry.
+    ko: 아아, 미안.
+    ja: ああ、悪かったな。
+  event_maidinvalentine_epilogue_39:
+    speaker: sweetjohnny
+    en: Sweets & Cocoa...
+    ko: "[Sweets & Cocoa]에…."
+    ja: "「Sweets & Cocoa」に…"
+  event_maidinvalentine_epilogue_40:
+    speaker: privaty_n
+    en: I can't take much more of this...
+    ko: 으으…! 이제 더는 못 참겠어요.
+    ja: うう…！もう我慢できませんわ。
+  event_maidinvalentine_epilogue_41:
+    speaker: privaty_n
+    en: I should have requested for Sugar to come along...
+    ko: 차라리 슈가한테 의뢰하는 게 더 나았….
+    ja: いっそ、シュガーに頼んだ方がよかっ…
+  event_maidinvalentine_epilogue_42:
+    speaker: milk_n
+    en: What'd you say?!
+    ko: 뭐 이 짜샤?!
+    ja: んだと、てめえ！？
+  event_maidinvalentine_epilogue_43:
+    speaker: milk_n
+    en: If Sugar was here, she'd be off hotroddin' on that motorcycle of hers instead
+      of fulfilling the mission.
+    ko: 슈가였으면 여기 근처에도 못 오고 완전 반대 방향에서 바이크나 타고 있었을 거라고!
+    ja: シュガーだったら、ここまでたどり着けずに\n反対方向でバイクを乗り回してただろうな！
+  event_maidinvalentine_epilogue_44:
+    speaker: privaty_n
+    en: "... That's actually so true, it's kinda scary."
+    ko: "…지, 진짜 그럴 것 같아서 무섭네요."
+    ja: "…ほ、本当にそんな気がして怖いですね。"
+  event_maidinvalentine_epilogue_45:
+    speaker: privaty_n
+    en: "... But nevertheless! You've been assigned to this mission, so do your job
+      properly!"
+    ko: 어쨌든! 의뢰를 받았으면 제대로 해주세요!
+    ja: とにかく！依頼を引き受けたなら、\nきちんとしてください！
+  event_maidinvalentine_epilogue_46:
+    speaker: privaty_n
+    en: To make proper chocolate, time is of little concern. If it takes longer than
+      a year, then so be it.
+    ko: 내년까지 제대로 된 초콜릿을 만들려면 1년도 부족합니다.
+    ja: 来年までにちゃんとしたチョコを作るには\n1年あったって足りないんですから。
+  event_maidinvalentine_epilogue_47:
+    speaker: milk_n
+    en: Wait, is that why you requested this mission?
+    ko: 응? 아, 그래서 의뢰한 거였어?
+    ja: ん？ああ、それで依頼したのか？
+  event_maidinvalentine_epilogue_48:
+    speaker: privaty_n
+    en: Is now really the time to be having this conversation?
+    ko: 그걸 이제야….
+    ja: 何を今さら…
+  event_maidinvalentine_epilogue_49:
+    speaker: milk_n
+    en: But why chocolate? And why are you giving it to the Commander?
+    ko: 근데 초콜릿은 왜? 형씨 주려고?
+    ja: でも何でチョコなんだ？\n兄貴にやるのか？
+  event_maidinvalentine_epilogue_50:
+    speaker: privaty_n
+    en: Sssh, the Commander will hear you!
+    ko: 쉿! 지휘관한테 들리겠어요!
+    ja: シーッ！指揮官に聞こえますわ！
+  event_maidinvalentine_epilogue_51:
+    speaker: privaty_n
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_epilogue_52:
+    speaker: privaty_n
+    en: I was going to give it to a friend.
+    ko: "…친구한테 주려고 했습니다."
+    ja: "…友だちに渡そうと思ったのです。"
+  event_maidinvalentine_epilogue_53:
+    speaker: privaty_n
+    en: I tried to make some chocolate myself, but failed miserably, so here I am.
+    ko: 수제 초콜릿을 만들어 주려고 했는데, 계속 실패해서 결국 못 줬거든요.
+    ja: 手作りチョコを作ろうと思ったのですが、\n失敗ばかりで結局渡せず…
+  event_maidinvalentine_epilogue_54:
+    speaker: privaty_n
+    en: D-did you give any chocolate to the Commander?
+    ko: 그, 그런데 혹시 밀크는 지휘관에게 초콜릿 드렸나요?
+    ja: も、もしやミルクは指揮官に\nチョコを渡したのですか？
+  event_maidinvalentine_epilogue_55:
+    speaker: milk_n
+    en: Sure I did.
+    ko: 응.
+    ja: ああ。
+  event_maidinvalentine_epilogue_56:
+    speaker: privaty_n
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_maidinvalentine_epilogue_57:
+    speaker: privaty_n
+    en: Homemade?
+    ko: 수제로요?
+    ja: 手作りで？
+  event_maidinvalentine_epilogue_58:
+    speaker: milk_n
+    en: Nah, just some left-over milk chocolate that I'd been munching on.
+    ko: 아니? 그냥 먹던 밀크 초콜릿 하나 줬는데.
+    ja: いや？食べかけのミルクチョコをやっただけさ。
+  event_maidinvalentine_epilogue_59:
+    speaker: privaty_n
+    en: You call that a gift?!
+    ko: 그런 걸 드렸다구요?!
+    ja: そんなものを渡したんですか！？
+  event_maidinvalentine_epilogue_60:
+    speaker: milk_n
+    en: Why not? The Commander loved it.
+    ko: 뭐 어때. 좋아하던걸.
+    ja: まあ、いいじゃん。喜んでたぜ。
+  event_maidinvalentine_epilogue_61:
+    speaker: privaty_n
+    en: I don't believe you.
+    ko: 그, 그럴 리가….
+    ja: そ、そんなはずが…
+  event_maidinvalentine_epilogue_62:
+    speaker: privaty_n
+    en: Why were you even giving chocolate as a gift in the first place?
+    ko: 아! 혹시 초콜릿을 줄 때 상황은 어땠었죠?
+    ja: あっ！どんなシチュエーションで\nチョコを渡したんですか？
+  event_maidinvalentine_epilogue_63:
+    speaker: privaty_n
+    en: You two weren't alone in some fancy hotel or something like that, were you?
+    ko: 근사한 분위기의 호텔에서 단둘이 있을 때였다던가….
+    ja: 素敵な雰囲気のホテルで二人きりの時とか…
+  event_maidinvalentine_epilogue_64:
+    speaker: milk_n
+    en: We bumped into each other on the street.
+    ko: 그냥 길 가다 마주쳐서 줬는데?
+    ja: ただ通りすがりにやっただけだぞ？
+  event_maidinvalentine_epilogue_65:
+    speaker: privaty_n
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_maidinvalentine_epilogue_66:
+    speaker: privaty_n
+    en: Well, at least there wasn't a lot of pomp and circumstance surrounding it.
+    ko: "…그러면 방법이라도 특별했겠군요."
+    ja: "…じゃあ渡し方が特別だったのですね。"
+  event_maidinvalentine_epilogue_67:
+    speaker: privaty_n
+    en: But wait! Did you feed chocolate to the Commander m-mouth to mouth...?
+    ko: 서, 설마! 입으로 문 상태로…!
+    ja: ま、まさか！口にくわえた状態でとか…！
+  event_maidinvalentine_epilogue_68:
+    speaker: milk_n
+    en: Nah, just tossed a few chunks into the mouth.
+    ko: 그냥 던져줬어.
+    ja: 普通に投げてやったけど。
+  event_maidinvalentine_epilogue_69:
+    speaker: privaty_n
+    en: "!!!"
+    ko: "!!!!!"
+    ja: "！！！！！"
+  event_maidinvalentine_epilogue_70:
+    speaker: sweetjohnny
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_epilogue_71:
+    speaker: signal_v
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_epilogue_72:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_epilogue_73:
+    speaker: signal_v
+    en: S-sorry.
+    ko: 죄, 죄송해요.
+    ja: す、すみません。
+  event_maidinvalentine_epilogue_74:
+    speaker: signal_v
+    en: It's just that Privaty is so adamant about wanting to make some chocolate...
+    ko: 그래도 프리바티는 진심으로 초콜릿을 만들고 싶어 하니까….
+    ja: えっと、プリバティは本気でチョコを\n作りたがってはいるので…
+  event_maidinvalentine_epilogue_75:
+    speaker: "<Self>"
+    en: Milk didn't give me chocolate as a jab against Privaty.
+    ko: 밀크도 나쁜 마음으로 그런 건 아니야.
+    ja: ミルクも悪気があったわけじゃないんだ
+  event_maidinvalentine_epilogue_76:
+    speaker: "<Self>"
+    en: "... I think."
+    ko: "…아마도."
+    ja: "…多分"
+  event_maidinvalentine_epilogue_77:
+    speaker: sweetjohnny
+    en: What a lousy welcome...
+    ko: 금세 다시 찾아왔다 했더니 이런 식으로 나오는 건가.
+    ja: またやってきたと喜んでいたのに、\nこんな扱いを受けるとは…
+  event_maidinvalentine_epilogue_78:
+    speaker: "<Self>"
+    en: Sorry.
+    ko: 미안….
+    ja: すまない…
+  event_maidinvalentine_epilogue_79:
+    speaker: sweetjohnny
+    en: I assume you want me to teach these ladies how to make chocolate as well?
+    ko: 자네가 바라는 건 저 아가씨들에게 가르침을 내려주는 거겠지?
+    ja: あのお嬢さんたちにレッスンをして\nほしくて来たのだろう？
+  event_maidinvalentine_epilogue_80:
+    speaker: "<Choice>"
+    en: Yes.
+    ko: 그런 것 같아.
+    ja: そうだ
+  event_maidinvalentine_epilogue_81:
+    speaker: "<Choice>"
+    en: What do you think?
+    ko: 그런가…?
+    ja: そうかな…？
+  event_maidinvalentine_epilogue_82:
+    speaker: sweetjohnny
+    en: As if I had to ask. Of course that's what you want.
+    ko: 아니. 굳이 자네에게 물을 필요는 없었군.
+    ja: いや。わざわざ君に聞く必要はないな。
+  event_maidinvalentine_epilogue_83:
+    speaker: sweetjohnny
+    en: The look in the eyes of these ladies is identical to that of those children
+      I remember all those years ago.
+    ko: 저 아가씨들도 저번의 아가씨들, 그리고 수십 년 전의 아이들과 같은 눈빛을 하고 있으니.
+    ja: あのお嬢さんたちも、この間のお嬢さんたちも、\n数十年前の子どもたちと同じ目をしている。
+  event_maidinvalentine_epilogue_84:
+    speaker: sweetjohnny
+    en: I must say, getting shot at was a new experience, but regardless, I must do
+      my job.
+    ko: 총을 맞은 건 처음이지만 할 일은 해야겠지!
+    ja: 銃に撃たれたのは初めてだが、\n使命は果たさねば！
+  event_maidinvalentine_epilogue_85:
+    speaker: sweetjohnny
+    en: Welcome to Sweets & Cocoa, where your sweetest dreams can come true!
+    ko: |-
+      …달콤한 꿈이 펼쳐지는 곳.
+      [Sweets & Cocoa]에 어서 오세요!!
+    ja: |-
+      …甘い夢が広がる場所。
+      「Sweets & Cocoa」へようこそ！
+  event_maidinvalentine_epilogue_86:
+    speaker: privaty_n
+    en: Be quiet! We're having a conversation!
+    ko: 조용히 하세요! 지금 이야기하고 있잖아요!
+    ja: お静かに！今話し中です！
+  event_maidinvalentine_epilogue_87:
+    speaker: sweetjohnny
+    en: YOU be quiet and listen to my instructions!
+    ko: 너야말로 조용히 내 강의를 들어라!
+    ja: 君こそ静かに私のレッスンを聞きたまえ！
+  event_maidinvalentine_epilogue_88:
+    speaker: privaty_n
+    en: You listen to me you little... Gah! Commander?
+    ko: 지금 그럴 때가… 지, 지휘관?!
+    ja: 今そんな場合じゃ…し、指揮官！？
+  event_maidinvalentine_epilogue_89:
+    speaker: privaty_n
+    en: I told you not to come here.
+    ko: 이쪽으로 오지 말라고 했잖아요!
+    ja: こっちに来ないでって、言ったじゃないですか！
+  event_maidinvalentine_epilogue_90:
+    speaker: privaty_n
+    en: When did... How much did you hear?
+    ko: 언제부터… 아니, 어디까지 들으신 거죠?!
+    ja: いつから…\nいや、どこまで聞いていたのですか！？
+  event_maidinvalentine_epilogue_91:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_maidinvalentine_epilogue_92:
+    speaker: "<Monologue>"
+    en: It seems like this is going to be one long class, even for someone of my skill.
+    ko: 아무래도 이번 강의는, 자기 일에 진심인 이 관리자에게도 쉽지 않을 것 같다.
+    ja: どうやら今回のレッスンは、\nいくら使命感の強い管理人でも\nそう簡単にはいかなさそうだ

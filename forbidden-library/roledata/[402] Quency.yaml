@@ -1,0 +1,464 @@
+---
+402_name:
+  en: Quency
+  ko: 퀀시
+  ja: クエンシー
+c402_description:
+  en: |-
+    A master escape artist who can break out of any prison where she is being kept captive.
+    A highly amiable individual who excels in wheeling and dealing. She is always the life of the party at the Rehabilitation Center.
+  ko: |-
+    탈옥 왕. 어디에 갇혀있든 무조건 탈출한다.
+    뛰어난 붙임성과 정치력으로 갱생관의 무드 메이커로 유명하다.
+  ja: |-
+    脱獄王。どこに閉じ込められようとも必ず脱出する。
+    人当たりがよく、ずば抜けた政治力で更生館の\nムードメーカーとして有名。
+402_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_402:
+  en: Quency's Spare Body
+  ko: 퀀시 스페어 바디
+  ja: クエンシーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+14022_name:
+  en: Hidden Accomplice
+  ko: 은밀한 공범자
+  ja: 隠れた共犯者
+14022_description:
+  en: "■ Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
+    ATK. \n<color=#00AEFF>ATK ▲ {description_value_02}% for {description_value_03}
+    sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24021_name:
+  en: New Route
+  ko: 새로운 루트
+  ja: 新しいルート
+24021_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF><word_group=10013>Duplicate {description_value_02}% Max HP</word_group> of Nikke with the highest Max HP, lasts for {description_value_03} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 자신에게
+    <color=#00AEFF>[최대 체력이 가장 높은 니케의 <word_group=10013>최대 체력 복제</word_group> {description_value_02}%] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、自分に
+    <color=#00AEFF>「最大HPが最も高いニケの<word_group=10013>最大HPのコピー</word_group> {description_value_02}％」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14023_name:
+  en: The Great Escape
+  ko: 위대한 탈출
+  ja: 偉大なる脱出
+14023_description:
+  en: "■ Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
+    ATK. \n<color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03}
+    sec. \nCritical Damage ▲ {description_value_04}% for {description_value_05} sec.</color>"
+  ko: |-
+    ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
+    <color=#00AEFF>[최대 체력 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [크리티컬 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
+    <color=#00AEFF>「最大HP{description_value_02}％▲」「{description_value_03}秒間維持」
+    「クリティカルダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+400_name:
+  en: Guilty
+  ko: 길티
+  ja: ギルティ
+401_name:
+  en: Sin
+  ko: 신
+  ja: シン
+403_name:
+  en: 'Quency: Escape Queen'
+  ko: '퀀시 : 이스케이프 퀸'
+  ja: クエンシー：エスケープクイーン
+c402_Lobby_Touch_1:
+  en: Hi, Instructor!
+  ko: 교관님! 안녕~
+  ja: 教官様！ヤッホ～！
+c402_Lobby_Touch_2:
+  en: Hee hee. Where are we off to today?
+  ko: 킥킥. 오늘은 어디로 나가볼까나~
+  ja: ふふ。今日はどこに行こうかな～
+c402_Lobby_Touch_3:
+  en: I've got a consultation today?! I, um, I don't remember anything about it...
+  ko: 오늘 상담하는 날이었어?! 깜빡했네~
+  ja: |-
+    今日が面談の日だったっけ！？
+    すっかり忘れてたわ～！
+c402_Lobby_Touch_Love_1:
+  en: You'll come visit me often, right, Instructor?
+  ko: 교관님~ 면회 자주 와 줄 거지~?
+  ja: 教官様～いっぱい面会しに来てくれるわよね～？
+c402_Lobby_Touch_Love_2:
+  en: If you're around, rehabilitation doesn't sound too bad.
+  ko: |-
+    갱생도 나쁘지 않을 것 같아.
+    교관님만 내 옆에 있어 준다면?
+  ja: |-
+    更生も悪くはないかも。
+    教官様が私のそばにいてくれるんだったら。
+c402_Lobby_Touch_Love_3:
+  en: A date in the Ark? Well, I suppose it'd be fun to try it just once.
+  ko: 방주 데이트… 뭐, 한 번쯤은 해보고 싶네~
+  ja: |-
+    アークデートねぇ…
+    まあ、1回くらいはしてみてもいいかも～
+c402_Lobby_Stay_1:
+  en: If you're not coming, Instructor, I'll be heading out.
+  ko: 교관님. 안 오면 나 먼저 간다?
+  ja: 教官様。来ないんだったら、私行くからね。
+c402_Lobby_Stay_Love_1:
+  en: |-
+    Where are you, Instructor? Come quickly!
+    I need you for something!
+  ko: |-
+    교관님! 어딨어~ 빨리 와.
+    나랑 거래하러 가야지!
+  ja: |-
+    教官様！どこにいるの～
+    早く来て。
+    一緒に取り引きしに行かなきゃ！
+c402_Outpost_Touch_1:
+  en: This Courthouse is far too stifling...
+  ko: 법원은 너무 답답해~
+  ja: 裁判所は息苦しいわ～
+c402_Outpost_Touch_2:
+  en: Know anywhere I can find some bottle caps? There aren't any in the Courthouse.
+  ko: 병뚜껑은 어디서 구할 수 있어? 법원엔 없던데~
+  ja: |-
+    ボトルキャップは どこで手に入るの？
+    裁判所にはなかったわ～
+c402_Outpost_Touch_3:
+  en: Catch me if you can!
+  ko: 나 잡아봐라~
+  ja: 捕まえてごら～ん。
+c402_Gacha_Get_1:
+  en: Oh, come on... Do I look like a heinous criminal to you?
+  ko: |-
+    흉악범? 에이~ 너무한다~
+    내가 그럴 사람으로 보여?
+  ja: |-
+    凶悪犯？またまた～酷い言い方～
+    私がそんな人に見える？
+c402_Reinforce_1:
+  en: I'm cooking up a killer escape route today.
+  ko: 오늘따라 탈옥 루트가 더 잘 떠오르는 것 같아!
+  ja: 今日は特にいい脱獄ルートが思い浮かんだわ！
+c402_Reinforce_2:
+  en: I've gotta keep it up if I want to get out of here.
+  ko: 와앗! 힘내서 탈출해 볼게!
+  ja: イエイ！全力で脱出してみるわ！
+c402_Reinforce_3:
+  en: Now nobody in the center will dare to mess with me!
+  ko: 갱생관에서 입지가 더 커지겠는걸?
+  ja: 更生館での立場がもっと強くなりそうだわ！
+c402_Gift_1:
+  en: What? Is this a gift... for me? Thanks, Instructor.
+  ko: 뭐야? 설마… 내 선물이야~? 고마워 교관님~
+  ja: |-
+    え？まさか…
+    私へのプレゼント～？
+    ありがとう、教官様～
+c402_Gift_2:
+  en: Hehe! I really hope it's bottle caps!
+  ko: 히힛! 병뚜껑이면 좋겠다!
+  ja: ヒヒ！ボトルキャップだったらいいな！
+c402_Gift_3:
+  en: Thanks. I'll put it to good use.
+  ko: 고마워~ 잘 쓸게~
+  ja: ありがとう～大切に使うね～
+c402_Attractive_Up_1:
+  en: Here, my bottle caps. I know they're safe in your hands, Instructor.
+  ko: |-
+    내 병뚜껑.
+    교관님이라면 믿고 맡길 수 있어.
+  ja: |-
+    私のボトルキャップ。
+    教官様なら安心して任せられるわ。
+c402_Attractive_Up_2:
+  en: I think I'm starting to warm up to you, Instructor.
+  ko: 이번 교관님은 정말 마음에 든다니까?
+  ja: 今回の教官様には大満足よ！
+c402_Attractive_Up_3:
+  en: Lately I've been looking forward to our consultations. Why do you think that
+    is, Instructor?
+  ko: 요즘따라 상담 시간이 기다려져. 왜 그럴까~?
+  ja: |-
+    最近やけに面談の日が待ち遠しいの。
+    どうしてかしら～？
+c402_Party_Deploy_1:
+  en: Ya sure about that? I may just run off, ya know.
+  ko: 도망갈 수도 있는데 괜찮겠어?
+  ja: 逃げちゃうかもしれないけど、いいの？
+c402_Field_Touch_1:
+  en: Hmm? What's up?
+  ko: 왜~? 무슨 일이야?
+  ja: どうしたの～？何か用？
+c402_Field_Go_1:
+  en: Are ya searching for a new route?
+  ko: 새 루트 찾으러 가는 거야~?
+  ja: 新しいルート探しに行くの～？
+c402_Battle_Enter_1:
+  en: Let's go!
+  ko: 전투 시~작!
+  ja: 戦闘スタート！
+c402_Battle_Ready_1:
+  en: Can I grab the parts after?
+  ko: 끝나고 부품 챙겨도 돼?
+  ja: 終わったら、部品拾ってもいい？
+c402_Battle_Ready_2:
+  en: Are there any bottle caps here?
+  ko: 여긴 병뚜껑 없나~
+  ja: ここにはボトルキャップあるかな～？
+c402_Battle_Ready_3:
+  en: Let's wrap this up, shall we?
+  ko: 빨리 끝내자!
+  ja: 早く終わらせよう！
+c402_Reload_1:
+  en: Reloading...
+  ko: 리로드~
+  ja: リロード～
+c402_Reload_2:
+  en: Can't forget 'bout these handcuffs.
+  ko: 이 수갑, 얕보다간 큰일 난다?
+  ja: この手錠、甘く見ると痛い目に遭うよ？
+c402_Reload_3:
+  en: Reloading!
+  ko: 장전 중이야~
+  ja: 装填中よ～
+c402_Ult_Skill_Ready_1:
+  en: Yehet, I came up with a new route!
+  ko: 새로운 루트를 생성했어!
+  ja: 新しいルートの完成よ！
+c402_Ult_Skill_1:
+  en: At long last, I'm gonna escape!
+  ko: 드디어 탈출이다!
+  ja: ついに脱出よ！
+c402_FullBurst_1:
+  en: All right, let's go!
+  ko: 좋아, 한번 가보자고~
+  ja: よし、行くわよ～
+c402_Kill_Monster_1:
+  en: Did you see that, Instructor?!
+  ko: 교관님, 봤어?!
+  ja: 教官様、今の見た！？
+c402_Kill_Monster_2:
+  en: Got anything good?
+  ko: 어디 쓸만한 거 없나~
+  ja: 何か使えそうなものはないかしら～
+c402_Kill_Monster_3:
+  en: Gotcha!
+  ko: 잡았다!
+  ja: 捕まえた！
+c402_Damage_1:
+  en: Argh!
+  ko: 앗!
+  ja: はっ！
+c402_Damage_2:
+  en: Ah!
+  ko: 헙!
+  ja: ほっ！
+c402_Damage_3:
+  en: Ugh.
+  ko: 으읏.
+  ja: ううっ。
+c402_Die_1:
+  en: I knew it... escaping was the easy part.
+  ko: 역시… 탈출이 제일 쉬웠어….
+  ja: やっぱり…脱出が一番簡単…
+c402_Win_1:
+  en: I should make this one of my escape routes!
+  ko: 여기도 루트 뚫어놔야겠다!
+  ja: ここにもルート作っとかなきゃ！
+402_cv_ja:
+  en: 'CV: Aya Uchida'
+  ko: 'CV : 우치다 아야'
+  ja: CV：内田彩
+402_cv_ko:
+  en: 'CV: Kim Yeong-eun'
+  ko: 'CV : 김영은'
+  ja: CV：キム・ヨンウン
+402_cv_en:
+  en: 'CV: Tatiana Varria'
+  ko: 'CV : 타티아나 바리아'
+  ja: CV：Tatiana Varria

@@ -1,0 +1,533 @@
+---
+14_name:
+  en: 'Neon: Blue Ocean'
+  ko: '네온 : 블루 오션'
+  ja: ネオン：ブルーオーシャン
+c014_description:
+  en: |-
+    To adapt to the new aquatic-based environment, Neon has decided to incorporate another tool in her arsenal, switching over to Waterpower over her original Firepower.
+    This spitfire goes all out on everything, whether it be honing her Waterpower abilities, or having fun on vacation.
+  ko: |-
+    바다라는 새로운 환경에 직면하여, 기존의 화력에 수력을 더해 하이브리드의 길을 걷게 된 네온.
+    수력 훈련이든, 바캉스를 즐기는 일이든 매사에 최선을 다하는 열혈 소녀다.
+  ja: |-
+    海という新しい環境で、火力に水力を足した
+    ハイブリッドの道を行くこととなったネオン。
+    水力訓練にしろバカンスにしろ、
+    何につけてもベストを尽くす熱血少女。
+14_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_014:
+  en: 'Neon: Blue Ocean''s Spare Body'
+  ko: '네온 : 블루오션 스페어 바디'
+  ja: ネオン：ブルーオーシャンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20142_name:
+  en: Water Jet
+  ko: 워터 제트
+  ja: ウォータージェット
+20142_description:
+  en: |-
+    ■ Activates when entering Burst stage 3. Affects self.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_03}% for {description_value_04} sec.
+    Three times: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: "■ 버스트 3단계 돌입 시 자신에게\n<color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위 효과 중복
+    적용</word_group>]\n1회 : [<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}%
+    ▲] [{description_value_02}초 유지] \n2회 : [<word_group=10009>우월 코드 공격 대미지</word_group>
+    {description_value_03}% ▲] [{description_value_04}초 유지] \n3회 : [<word_group=10009>우월
+    코드 공격 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>"
+  ja: |-
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「開始回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」
+    2回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_03}％▲」「{description_value_04}秒間維持」
+    3回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20141_name:
+  en: Upper Wave
+  ko: 어퍼 웨이브
+  ja: アッパーウェーブ
+20141_description:
+  en: |-
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: <word_group=10011>Damage to Parts</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: <word_group=10011>Damage to Parts</word_group> ▲ {description_value_03}% for {description_value_04} sec.
+    Three times: <word_group=10011>Damage to Parts</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
+    1회: [<word_group=10011>파츠 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]
+    2회: [<word_group=10011>파츠 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]
+    3회: [<word_group=10011>파츠 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「開始回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「<word_group=10011>パーツダメージ</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」
+    2回：「<word_group=10011>パーツダメージ</word_group> {description_value_03}％▲」「{description_value_04}秒間維持」
+    3回：「<word_group=10011>パーツダメージ</word_group> {description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10143_name:
+  en: Full Hydro Shot
+  ko: 풀 하이드로 샷
+  ja: フルハイドロショット
+10143_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Change the Weapon in use:
+    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    Last for: {description_value_02} sec</color>
+    ■ Affects the target(s) when they belong to Fire Code.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경]
+    대미지: <word_group=10025>최종</word_group> 공격력 {description_value_01}%
+    유지 시간 : {description_value_02}초</color>
+    ■ 대상이 작열 코드라면 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器変更」
+    ダメージ：<word_group=10025>最終</word_group>攻撃力{description_value_01}％
+    維持時間：{description_value_02}秒</color>
+    ■対象が灼熱コードなら対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+15_name:
+  en: 'Anis: Sparkling Summer'
+  ko: '아니스 : 스파클링 서머'
+  ja: アニス：スパークリングサマー
+16_name:
+  en: 'Rapi: Red Hood'
+  ko: '라피 : 레드 후드'
+  ja: ラピ：レッドフード
+10_name:
+  en: Rapi
+  ko: 라피
+  ja: ラピ
+11_name:
+  en: Neon
+  ko: 네온
+  ja: ネオン
+12_name:
+  en: Anis
+  ko: 아니스
+  ja: アニス
+c014_Lobby_Touch_1:
+  en: Master! Do you want to recharge our water power together?
+  ko: 스승님! 같이 수력 충전하실래요?
+  ja: 師匠！一緒に水力チャージしませんか？
+c014_Lobby_Touch_2:
+  en: Just because I'm on vacation doesn't mean I should stop being a double agent.
+  ko: 휴가를 온 스파이인 척을 하고 있는 이중 스파이입니다.
+  ja: |-
+    休暇に来た、スパイのふりをしている
+    二重スパイです。
+c014_Lobby_Touch_3:
+  en: |-
+    Since we're at the ocean, I've gotta switch up my attributes... *Gulp, gulp, gulp*
+    All done!
+  ko: "바다에 왔으니까… 꿀꺽, 꿀꺽, 꿀꺽, 하~ \n속성 체인지 완료!"
+  ja: |-
+    せっかく海に来たんですから、属性も変えなきゃいけませんよね！
+    …ゴク、ゴク、ゴク、プハ～！
+    チェンジ完了です！
+c014_Lobby_Touch_Love_1:
+  en: |-
+    Are you going back to the beach for round two?
+    I'll join you once my water power is fully charged.
+  ko: "이따가 해변에서 2차전 하실 거죠? \n수력 충전 후 출격하겠습니다."
+  ja: |-
+    2回戦はビーチでやりますか？
+    水力をチャージしたら、私も行きますね。
+c014_Lobby_Touch_Love_2:
+  en: My main go-to is firepower, but I think I can learn to appreciate water power
+    as well.
+  ko: "본진은 화력이지만, \n스승님께 배우는 거라면 수력도 좋아요!"
+  ja: 本命は火力ですが、師匠が教えてくれるなら水力もいいですね！
+c014_Lobby_Touch_Love_3:
+  en: Despite all the temptation splayed out on the beach, I'm still your only disciple.
+  ko: |-
+    아무리 해변에 하렘이 펼쳐져 있어도,
+    스승님의 수제자는 저뿐이니까요. 엣헴.
+  ja: |-
+    いくらビーチにハーレムが広がってても、
+    師匠の一番弟子は私だけですから。えっへん。
+c014_Lobby_Stay_1:
+  en: |-
+    The water flows, like a raging river...
+    I know everything you're doing is to help me in my growth.
+  ko: |-
+    물은 물이요… 수력은 수력이다….
+    이처럼 인내하는 것도, 제 성장을 위한 스승님의 안배겠죠?
+  ja: |-
+    水は水であり…
+    水力は水力である…
+    師匠が私を放っておくのも、私を成長させるためなんですよね？
+c014_Lobby_Stay_Love_1:
+  en: |-
+    You're feeling heat exhaustion?
+    Should I fetch you some water?
+  ko: |-
+    헉! 너무 더워서 움직이실 수 없다고요?
+    음… 제 물기를 좀 옮겨 드릴까요?
+  ja: |-
+    えっ！暑すぎて動けないんですか？
+    う～ん…私の水力を分けてあげましょうか？
+c014_Outpost_Touch_1:
+  en: Your shower's broken? I'll take care of it!
+  ko: 샤워기가 고장 나셨나요? 제가 해결해 드리겠습니다.
+  ja: |-
+    シャワーが壊れた？
+    じゃあ、 私が修理してあげますよ！
+c014_Outpost_Touch_2:
+  en: There's somewhere in the Outpost perfect for honing my water power. It's the
+    swimming pool!
+  ko: 그거 아세요, 스승님? 전초기지에도 수력 훈련장이 있다는걸. 명칭은 수영장이라고 합니다.
+  ja: |-
+    師匠、ご存じですか？
+    前哨基地にも 水力トレーニング場が あるんですよ…
+    「プール」っていう 名前なんですけど…
+c014_Outpost_Touch_3:
+  en: "This inner tube is no ordinary flotation device. \nYou could put an elephant
+    on top of this thing, and it'd still stay afloat."
+  ko: |-
+    이 튜브는 보통의 튜브가 아닙니다.
+    코끼리도 들어 올릴 수 있는 무중력 튜브죠.
+  ja: |-
+    この浮き輪は ただの浮き輪では ありません。
+    ゾウも持ち上げられる、 無重力の浮き輪です。
+c014_Gacha_Get_1:
+  en: On land, my prowess is firepower. Underwater, it is water power, for I am Hybrid
+    Neon.
+  ko: |-
+    육지에서는 화력. 바다에서는 수력.
+    그게 바로 저. 하이브리드 네온입니다.
+  ja: |-
+    陸地では火力。海では水力。
+    それが使える私がまさしく、ハイブリッドネオンです！
+c014_Reinforce_1:
+  en: Now I can shoot out stronger streams of water.
+  ko: 물을 더 강력하게 분사할 수 있겠군요.
+  ja: もっと強く水を噴射できますね。
+c014_Reinforce_2:
+  en: Water power enhanced!
+  ko: 수력 업!
+  ja: 水力アップ！
+c014_Reinforce_3:
+  en: Feel the high pressure of my water gun.
+  ko: 제 물총에서, 심해의 고기압을 느껴 보세요.
+  ja: 私の水鉄砲から、深海の高気圧を感じてください。
+c014_Gift_1:
+  en: Is this is a special gift, since I'm part of the Counters? I'll take it!
+  ko: "전속 스쿼드에 대한 특별 대우인가요? \n오히려 좋아요!"
+  ja: |-
+    カウンターズにだけの、特別なプレゼントですか？
+    嬉しいです！
+c014_Gift_2:
+  en: Wow, is this for me?
+  ko: 와, 와! 정말 저한테 주시는 건가요?
+  ja: わあ！本当に、私にくれるんですか？
+c014_Gift_3:
+  en: Thanks Master, you're like totally the coolest!
+  ko: 하늘 같은 스승의 은혜, 잘 받았습니다!
+  ja: 師匠のご恩、ありがたく頂戴します！
+c014_Attractive_Up_1:
+  en: I'm so happy to be here with you, Master.
+  ko: 스승님이랑 같이 놀러 와서 너무 좋아요.
+  ja: 師匠と一緒に遊びに来られて、とても嬉しいです。
+c014_Attractive_Up_2:
+  en: Let's you and I walk forward, hand in hand, toward that great beyond.
+  ko: "…함께 가시죠. 저 수평선 끝까지."
+  ja: |-
+    …さあ、一緒に行きましょう。
+    あの水平線の彼方まで！
+c014_Attractive_Up_3:
+  en: |-
+    It doesn't matter whether you're dry or soaking wet,
+    I'll admire you all the same.
+  ko: |-
+    존경합니다, 스승님!
+    마르셨을 때나, 쫄~딱 젖으셨을 때나!
+  ja: |-
+    尊敬します、師匠！
+    乾いている時も、ずぶ濡れの時も！
+c014_Party_Deploy_1:
+  en: Need my water gun?
+  ko: 후후. 제 물총이 필요하신 거죠?
+  ja: |-
+    ふふっ。
+    私の水鉄砲が必要なんですね？
+c014_Field_Touch_1:
+  en: Water power!
+  ko: 수력!
+  ja: 水力！
+c014_Field_Go_1:
+  en: Waterpower! Waterpower!
+  ko: 수력 수력!
+  ja: 水力、水力！
+c014_Battle_Enter_1:
+  en: Time to soak these suckers!
+  ko: 드디어 물을 뿜을 때가 왔군요…!
+  ja: ついに、水を放つ時が来たんですね…！
+c014_Battle_Ready_1:
+  en: Water bomb, ready!
+  ko: 물 대포 레디!
+  ja: 放水砲、レディー！
+c014_Battle_Ready_2:
+  en: You'll be soaked within 10 seconds flat!
+  ko: 10초 만에 푹 젖게 해드릴게요!
+  ja: 10秒でずぶ濡れにしてあげますよ！
+c014_Battle_Ready_3:
+  en: Are you ready for what's coming?
+  ko: 보이시나요? 제가 몰고 오는 태풍이.
+  ja: |-
+    見えますか？
+    私がもたらす台風が。
+c014_Reload_1:
+  en: Master, do you trust me?
+  ko: 스승님, 저 믿으시죠?
+  ja: 師匠、私を信じてますよね？
+c014_Reload_2:
+  en: Water power, recharge!
+  ko: 수! 력! 충! 전!
+  ja: 水！力！充！填！
+c014_Reload_3:
+  en: A storm's coming when I'm done here!
+  ko: 폭풍 장전 들어갑니다!
+  ja: 嵐の装填、始めます！
+c014_Ult_Skill_Ready_1:
+  en: Here comes the big one!
+  ko: 큰 게 옵니다!
+  ja: 大物が来ますよ！
+c014_Ult_Skill_1:
+  en: Feast your eyes upon my overflowing water power!
+  ko: 스승님…! 이 넘치는 수력 좀 보세요!
+  ja: 師匠…！このあふれる水力をご覧ください！
+c014_FullBurst_1:
+  en: Let the tide wash them away!
+  ko: 파도처럼 몰아치는 거예요, 여러분!
+  ja: 大波到来！
+c014_Kill_Monster_1:
+  en: Whoosh! Whoosh!
+  ko: 푸슝! 푸슝!
+  ja: プシュー！プシュー！
+c014_Kill_Monster_2:
+  en: Anyone else need a good soak?
+  ko: 또 젖고 싶으신 분?
+  ja: もっと濡れたい方～？
+c014_Kill_Monster_3:
+  en: That's one more down the drain.
+  ko: 한 분 더 빠뜨렸어요! 제가!
+  ja: また私が倒しましたよ！
+c014_Damage_1:
+  en: Gah!
+  ko: 으앗!
+  ja: うあっ！
+c014_Damage_2:
+  en: Water power!
+  ko: 수력!
+  ja: 水力！
+c014_Damage_3:
+  en: My swimsuit!
+  ko: 제 수영복이…!
+  ja: 水着が…！
+c014_Die_1:
+  en: It's my own fault. I didn't use enough water.
+  ko: 물을 너무 절약했던… 제 탓입니다.
+  ja: |-
+    水を節約しすぎた…
+    私の責任です。
+c014_Win_1:
+  en: Just call me Neon, the Aqua Master!
+  ko: 후후… 아쿠아 마스터 네온이라고 불러 주시죠.
+  ja: |-
+    ふふっ…
+    アクアマスター・ネオンとお呼びください。
+14_cv_ja:
+  en: 'CV: Rina Hidaka'
+  ko: 'CV : 히다카 리나'
+  ja: CV：日高里菜
+14_cv_ko:
+  en: 'CV: Jang Mi'
+  ko: 'CV : 장미'
+  ja: CV：ジャンミ
+14_cv_en:
+  en: 'CV: UNKNOWN'
+  ko: 'CV : UNKNOWN'
+  ja: CV：UNKNOWN

@@ -1,0 +1,4748 @@
+---
+d_main_20_01:
+  d_main_20_01_1:
+    speaker: cecil_op_c
+    en: Initiating operation.
+    ko: 현 시간부로 작전을 개시합니다.
+    ja: ただ今より作戦を開始します。
+  d_main_20_01_2:
+    speaker: cecil_op_c
+    en: The goal of this operation is to execute the Heretic known as Nihilister.
+    ko: 작전 목표는 헬레틱 니힐리스타의 퇴치.
+    ja: 作戦目標はヘレティックのニヒリスター討伐。
+  d_main_20_01_3:
+    speaker: cecil_op_c
+    en: Commencing Alva particle purification sequence to aid with scanning.
+    ko: 스캔을 위해, 에블라 입자 정화 시퀀스를 실시합니다.
+    ja: スキャンのため、\nエブラ粒子の浄化シーケンスを実施します。
+  d_main_20_01_4:
+    speaker: cecil_op_c
+    en: |-
+      53.58%... 28.77%...
+      1.49%... purification complete.
+    ko: |-
+      53.58%… 28.77%…
+      1.49%… 정화 완료.
+    ja: |-
+      53.58％…28.77％…
+      1.49％…浄化完了。
+  d_main_20_01_5:
+    speaker: cecil_op_c
+    en: Using scan data and past engagement experience to track the enemy's current
+      position.
+    ko: "스캔 데이터 및 과거 교전 이력을 기반으로 \n타겟의 현 위치를 추적 중."
+    ja: |-
+      スキャンデータおよび過去の交戦内容を基に
+      ターゲットの現在地を追跡中。
+  d_main_20_01_6:
+    speaker: cecil_op_c
+    en: The expected coordinates have been sent to both commanders' terminals.
+    ko: 지금 막 두 지휘관의 단말기로 예상 좌표를 전송했어요.
+    ja: 今、指揮官お二人の端末に\n予想座標を転送しました。
+  d_main_20_01_7:
+    speaker: cecil_op_c
+    en: She'll be taking to the skies and moving fast, so don't dally.
+    ko: "하늘을 통한 지속적인 이동이 예상되므로 \n최대한 빠르게 따라붙어 주세요."
+    ja: |-
+      空を利用しての継続的な移動が予想されるため
+      なるべく早く追いついてください。
+  d_main_20_01_8:
+    speaker: Self
+    en: Wait, this Heretic can fly?
+    ko: 잠깐, 하늘을 날아 다닌다고?
+    ja: 空を飛ぶのか？
+  d_main_20_01_9:
+    speaker: cecil_op_c
+    en: That's right. Nihilister's nomme de guerre is Fire Dragon.
+    ko: 그래요. 니힐리스타의 이명은 화룡이거든요.
+    ja: そうですよ。\nニヒリスターの異名は火竜ですから。
+  d_main_20_01_10:
+    speaker: cecil_op_c
+    en: When in flight, she resembles the creature of legend, and spouts scorching
+      flames from her mouth.
+    ko: 용의 모습으로 하늘을 날며, 초고열의 화염을 방사하죠.
+    ja: 竜の姿で空を飛び、\n超高熱の火炎を放射するのです。
+  d_main_20_01_11:
+    speaker: papillon
+    en: How on earth are we supposed to catch her then?
+    ko: "…말도 안 돼. 그런 걸 어떻게 잡아?"
+    ja: "…あり得ない。\\nそんなの、どうしたらいいの？"
+  d_main_20_01_12:
+    speaker: neon
+    en: With anti-aircraft guns, maybe?
+    ko: 대공 화기로요?
+    ja: 対空火器を使うんじゃないですか？
+  d_main_20_01_13:
+    speaker: papillon
+    en: What good will bullets do against a fire-breathing dragon...
+    ko: "아니, 내 말은. \n불을 뿜는 용이라잖아."
+    ja: |-
+      そういう意味じゃなくて。
+      火を吐く竜でしょ。
+  d_main_20_01_14:
+    speaker: papillon
+    en: I'm just a lieutenant, how can you expect me to catch that thing? I'll only
+      end up being extra crispy.
+    ko: |-
+      고위 간부의 부관이 어떻게 그런 걸 잡냐고.
+      옷 다 타겠다, 얘.
+    ja: |-
+      上層部幹部の副官が、\nそんなのどうやって捕まえるの？
+      服が丸焦げになっちゃうわよ。
+  d_main_20_01_15:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_01_16:
+    speaker: neon
+    en: You could at least try not to look so pathetic.
+    ko: 와, 방금 엄청 한심한 눈으로 쳐다봤어요.
+    ja: わあ、今すっごく\n憐れな目で見られてましたよ。
+  d_main_20_01_17:
+    speaker: anis
+    en: It'll be fine. We've been to hell and back and lived to tell the tale.
+    ko: 괜찮아. 우린 지옥에서 살아돌아온 사람들이니까.
+    ja: 大丈夫。地獄からだって、\n生きて帰って来れたんだもの。
+  d_main_20_01_18:
+    speaker: neon
+    en: Now that I think about it, you could say that my guns have been used in hell
+      itself. Cool!
+    ko: 생각해보니 그러네요. 제 총은 지옥에서 벼려진 총이에요.
+    ja: 考えてみたらそうですね。\n地獄で鍛えられた銃もありますし。
+  d_main_20_01_19:
+    speaker: Self
+    en: I'm afraid it won't be so easy this time around.
+    ko: 그때처럼 쉽게 당해주진 않을 거야.
+    ja: あの時のように、簡単にはやられない
+  d_main_20_01_20:
+    speaker: isabel
+    en: What a sordid bunch...
+    ko: "…지휘관, 괜찮으시겠어요?"
+    ja: "…指揮官、大丈夫ですか？"
+  d_main_20_01_21:
+    speaker: isabel
+    en: Are you going to be fine working with them, Commander?
+    ko: 이런 이들과 함께 호흡을 맞춰도.
+    ja: こんな人たちと一緒に作戦を行うなんて。
+  d_main_20_01_22:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_01_23:
+    speaker: cecil
+    en: What will you do, Johan?
+    ko: "…어떻게 하시겠어요, 요한?"
+    ja: "…どうします？ヨハン。"
+  d_main_20_01_24:
+    speaker: cecil
+    en: As long as this ends with a Heretic on the ground, I don't care.
+    ko: 난 결과만 보장된다면 뭐든 상관없어요.
+    ja: 私は結果さえ保証できるなら、\n何でもいいですよ。
+  d_main_20_01_25:
+    speaker: cecil
+    en: Whether you choose to follow Dorothy's advice is up to you,
+    ko: "…하지만 만약 당신이, \n도로시와 다른 방식으로 목표를 관철해내겠다면."
+    ja: |-
+      …もしあなたがドロシーと違う
+      やり方で目標を貫くというなら。
+  d_main_20_01_26:
+    speaker: cecil
+    en: so long as we achieve our goal.
+    ko: 그것도 하나의 결과로 인정하도록 하죠.
+    ja: それも1つの結果として認めましょう。
+  d_main_20_01_27:
+    speaker: johan
+    en: No.
+    ko: "…아니."
+    ja: "…いや。"
+  d_main_20_01_28:
+    speaker: johan
+    en: We'll proceed like this is an individual operation.
+    ko: 단독 작전이라 생각하고 움직여라.
+    ja: 単独作戦だと思って動け。
+  d_main_20_01_29:
+    speaker: noah
+    en: Perfect, I won't have to do all the heavy lifting for those dimwits.
+    ko: 오. 그럼 이 약골들한태 굳이 안 맞춰줘도 되는 거네?
+    ja: おっ。じゃあこの弱虫たちに\nわざわざ合わせる必要ないんだね？
+  d_main_20_01_30:
+    speaker: noah
+    en: Or I might end up as a shish kebab.
+    ko: 하마터면 얘네 탱킹하다 제자리에서 소방벽 될 뻔했잖아~
+    ja: あやうくこいつらを守るための、\n防火壁になっちゃうところだったよ～
+  d_main_20_01_31:
+    speaker: neon
+    en: What are you going on about?
+    ko: "…무슨 소리예요, 이게?"
+    ja: "…どういうことですか？"
+  d_main_20_01_32:
+    speaker: noah
+    en: None of you have ever gone up against Nihilister.
+    ko: 너희, 니힐리스타랑 붙어본 적 없지?
+    ja: あなたたち、\nニヒリスターと戦ったことないでしょ？
+  d_main_20_01_33:
+    speaker: noah
+    en: Once we piss her off, this entire area will become scorched earth in seconds.
+    ko: 걔가 뚜껑이 열리면, 이 지평선에서 저~ 지평선까지 다 불판을 만들어버리거든.
+    ja: あいつ、怒り出すとこっちの地平線から\nあっちの地平線まで、ぜーんぶ焼け野原に\nしちゃうんだよね。
+  d_main_20_01_34:
+    speaker: noah
+    en: If you just stand there with your fingers up your ass,
+    ko: 거기서 지금 너희들처럼 어리버리하고 있으면,
+    ja: そこで今みたいにぼさーっとしてたら
+  d_main_20_01_35:
+    speaker: noah
+    en: don't count on me coming to save you. Got it?
+    ko: |-
+      도움은커녕 이 노아 님의 방패 내구도만 깎아먹는다 이 말이지.
+      언더스태엔?
+    ja: |-
+      助けになるどころか、このノア様の盾の\n耐久度を減らすことしかできないってワケ。
+      アンダースタン？
+  d_main_20_01_36:
+    speaker: anis
+    en: Hey, don't think you're all that and a bag of chips just 'cause you went head-to-head
+      with her a few times.
+    ko: 거 몇 번 싸워본 걸로 으스대지 좀 마쇼.
+    ja: ちょっと戦ったことがあるからって、\n威張らないでよね。
+  d_main_20_01_37:
+    speaker: neon
+    en: If we'd had five previous encounters, we could fight with our eyes closed.
+    ko: 맞아요. 우리도 다섯 번이나 싸워봤으면 눈 감고도 이기거든요?
+    ja: そうですよ。私たちだって、\n5回でも戦ったことがあれば\n目をつぶってでも勝てますよ？
+  d_main_20_01_38:
+    speaker: Self
+    en: "... Are we going to be okay?"
+    ko: "…괜찮을까."
+    ja: "…大丈夫だろうか"
+  d_main_20_01_39:
+    speaker: dorothy
+    en: We'll be just fine.
+    ko: 예, 괜찮을 거예요.
+    ja: はい。問題ありません。
+  d_main_20_01_40:
+    speaker: dorothy
+    en: They may not be the most cordial bunch, but everyone here is the best of the
+      best.
+    ko: "약간의 마찰이 있다고 해도, \n여기 있는 모두는 낙원의 검증된 인재들이니까요."
+    ja: |-
+      若干のいざこざはあっても、ここにいる
+      みなさんは楽園に認められし人材ですから。
+d_main_20_02:
+  d_main_20_02_1:
+    speaker: johan
+    en: Noah, deploy the shield at the designated point.
+    ko: |-
+      …노아.
+      지정한 지점에서 쉴드 전개.
+    ja: |-
+      …ノア。
+      指定した地点でシールドを展開しろ。
+  d_main_20_02_2:
+    speaker: noah
+    en: Roger.
+    ko: 네이~
+    ja: は～い。
+  d_main_20_02_3:
+    speaker: johan
+    en: Isabel, go airborne. Wait 10 seconds, then fire off a round.
+    ko: |-
+      이사벨, 상공에서 대기하고 있다가
+      10초 후에 전탄을 퍼부어라.
+    ja: |-
+      イサベル、上空で待機して
+      10秒後に全弾発射してくれ。
+  d_main_20_02_4:
+    speaker: isabel
+    en: Yes, Commander.
+    ko: 네, 지휘관.
+    ja: はい、指揮官。
+  d_main_20_02_5:
+    speaker: johan
+    en: Harran, are the biochemical charges good to go?
+    ko: 하란, 바이러스는 모두 심어뒀나?
+    ja: ハラン、ウイルスはまき終わったか？
+  d_main_20_02_6:
+    speaker: harran
+    en: Ready to activate on your command.
+    ko: "물론이란다. \n언제 터뜨릴지만 말해 주렴."
+    ja: |-
+      もちろんよ。
+      爆発の合図だけお願い。
+  d_main_20_02_7:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_02_8:
+    speaker: johan
+    en: Dorothy, now!
+    ko: "…지금이다, 도로시."
+    ja: "…今だ、ドロシー。"
+  d_main_20_02_9:
+    speaker: Narration
+    en: "*Tang*"
+    ko: 탕-!!
+    ja: ドンッ！！
+  d_main_20_02_10:
+    speaker: Monologue
+    en: As the Raptures are distracted by Dorothy's diversion,
+    ko: 도로시의 저격에 이목이 끌린 랩쳐들은,
+    ja: ドロシーの射撃に引き寄せられたラプチャーは
+  d_main_20_02_11:
+    speaker: Monologue
+    en: they are slowly hemmed in by Noah's shield.
+    ko: 노아의 광범위 쉴드에 가로막혀 점점 더 밀집했고.
+    ja: ノアの広範囲シールドに阻まれ、\nどんどん密集していき
+  d_main_20_02_12:
+    speaker: Monologue
+    en: At the same time, Harran unleashes her biochemical weapons.
+    ko: 그 틈으로 하란의 바이러스가 퍼졌다.
+    ja: その隙にハランがウイルスを起爆した
+  d_main_20_02_13:
+    speaker: Narration
+    en: "*Kreaaahhh*"
+    ko: 키이이잉-!!
+    ja: キィィィー！
+  d_main_20_02_14:
+    speaker: Monologue
+    en: Meanwhile, Isabel strikes from above.
+    ko: "그리고 그 위로, \n이사벨의 유도병기가 수직으로 내리꽂혔다."
+    ja: |-
+      そしてその上に、
+      イサベルの誘導兵器が垂直に突き刺さった
+  d_main_20_02_15:
+    speaker: cecil_op_c
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_02_16:
+    speaker: cecil_op_c
+    en: Enemy neutralized.
+    ko: "…랩쳐 전기, 침묵 확인."
+    ja: "…ラプチャー全機、沈黙確認。"
+  d_main_20_02_17:
+    speaker: anis
+    en: Sure, but at what cost?
+    ko: "…아니, 뭐. 버스 타는 것까진 좋은데."
+    ja: "…いや、まあね。\\nキャリーしてもらうのも楽でいいんだけど。"
+  d_main_20_02_18:
+    speaker: anis
+    en: I've never been one for scorched earth tactics.
+    ko: 이대로면 이쪽이 할 일이 너무 없잖아.
+    ja: このままじゃ、\nな～んにもやることないじゃない。
+  d_main_20_02_19:
+    speaker: neon
+    en: Our primary target is Nihilister, not random Raptures. Shouldn't we be trying
+      to conserve our energy?
+    ko: "우리는 니힐리스타와 싸울 본진이니 \n힘 빼지 말라는 것 아닐까요?"
+    ja: |-
+      私たちはニヒリスターと戦う本命だから
+      力を温存しておけってことじゃないですか？
+  d_main_20_02_20:
+    speaker: noah
+    en: That may be necessary for you, but not for us.
+    ko: 풉~ 아닌데요?
+    ja: プッ、違いますけど～？
+  d_main_20_02_21:
+    speaker: noah
+    en: If you couldn't tell by this point, let me spell it out for you.
+    ko: 지금까지 따라다녀봐서 알겠지만.
+    ja: 今まで見てきて分かったと思うけど。
+  d_main_20_02_22:
+    speaker: noah
+    en: There's no place for any of you on this team.
+    ko: 이 팀에는 너희들이 가져갈 분량이 없다는 말씀.
+    ja: このチームでは、\nあなたたちの出番はないってこと。
+  d_main_20_02_23:
+    speaker: noah
+    en: We don't have any room for any pencil pushers,
+    ko: 사무실에서 책상 빠져서 실업자되는 거나.
+    ja: 窓際に追いやられてクビになるのと
+  d_main_20_02_24:
+    speaker: noah
+    en: who are going to get their brains splattered on the wall while they stand
+      there soiling their shorts.
+    ko: 실전에서 손가락 빨다가 퇴출되는 거나.
+    ja: 実戦で指をくわえて見てたら、\n退場させられるのは
+  d_main_20_02_25:
+    speaker: noah
+    en: Have I made myself clear?
+    ko: 세임. 이퀄. 무슨 말인지 알아들어?
+    ja: セイム。イコール。どういう意味か分かる？
+  d_main_20_02_26:
+    speaker: anis
+    en: Crystal.
+    ko: "…그래 그래. 잘 알겠는데."
+    ja: "…はいはい。よく分かったわ。"
+  d_main_20_02_27:
+    speaker: anis
+    en: But if that's how you feel, why'd you bring us on in the first place?
+    ko: 이럴 거면 대체 뭐하러 공들여서 우릴 포섭한 건데?
+    ja: でも、それなら何のために\nわざわざ私たちを仲間にしたのよ？
+  d_main_20_02_28:
+    speaker: dorothy
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_02_29:
+    speaker: dorothy
+    en: Commander, we have to be rational about this.
+    ko: 지휘관, 저분들의 말대로예요.
+    ja: 指揮官、彼女たちの言うとおりです。
+  d_main_20_02_30:
+    speaker: dorothy
+    en: When we face Nihilister, we will need their help.
+    ko: 결국 니힐리스타전에선 저분들의 힘을 필요로 하게 될 텐데.
+    ja: 結局、ニヒリスター戦では\nあの方たちの力が必要となるのに。
+  d_main_20_02_31:
+    speaker: dorothy
+    en: We should try and cooperate with each other.
+    ko: 지금부터라도 합을 맞춰가는 편이 낫지 않을까요?
+    ja: 今からでも協力した方がいいのでは？
+  d_main_20_02_32:
+    speaker: johan
+    en: No. I won't have it.
+    ko: "…아니."
+    ja: "…いや。"
+  d_main_20_02_33:
+    speaker: johan
+    en: I don't know how you or Cecil think these clowns figure into this operation,
+    ko: 너나 세실이 무슨 생각인지는 모르겠지만.
+    ja: お前やセシルが\n何を考えているのかは知らないが。
+  d_main_20_02_34:
+    speaker: johan
+    en: but for me, all they're here for is to fire Vapaus.
+    ko: 이 작전에서 저놈들의 역할은 언체인드를 쏘는 것뿐이다.
+    ja: この作戦におけるあいつらの役割は、\nアンチェインドを撃つことだけだ。
+  d_main_20_02_35:
+    speaker: Self
+    en: I have no intention of using Vapaus.
+    ko: 나는 언체인드를 쏠 생각이 없어.
+    ja: 私はアンチェインドを撃つつもりはない
+  d_main_20_02_36:
+    speaker: johan
+    en: "... Vapaus is the entire reason this operation exists."
+    ko: "…언체인드의 사용은 작전의 가장 중요한 파트다."
+    ja: "…アンチェインドの使用は\\n作戦の最も重要なパートだ。"
+  d_main_20_02_37:
+    speaker: johan
+    en: By refusing to use it,
+    ko: 그런데도 그 총을 쥐고 쏘지 않겠다고 말하는 건.
+    ja: にもかかわらず、その銃を握っておきながら\n撃たないということは。
+  d_main_20_02_38:
+    speaker: johan
+    en: you're intentionally sabotaging our operation.
+    ko: 일부러 아군의 발목을 잡겠다는 건가?
+    ja: わざと味方の足を引っ張る…ということか？
+  d_main_20_02_39:
+    speaker: cecil_op_r
+    en: "... Johan."
+    ko: "…요한."
+    ja: "…ヨハン。"
+  d_main_20_02_40:
+    speaker: cecil_op_r
+    en: Nihilister is moving again.
+    ko: 니힐리스타가 다시 이동을 시작했어요.
+    ja: ニヒリスターが再び移動を開始しました。
+  d_main_20_02_41:
+    speaker: cecil_op_r
+    en: If she gets any further, we won't be able to track her.
+    ko: "더 이상 거리가 벌어지면 \n광역 스캔으로도 추적할 수 없어요."
+    ja: |-
+      これ以上離れると
+      広域スキャンでも追跡できません。
+  d_main_20_02_42:
+    speaker: cecil_op_r
+    en: We can settle this later.
+    ko: 내분하고 있을 때가 아니라는 이야기예요.
+    ja: 仲間割れしている場合ではありません。
+  d_main_20_02_43:
+    speaker: anis
+    en: Your move, pal.
+    ko: "…그렇다는데? 어쩔래?"
+    ja: "…だそうよ？どうする？"
+  d_main_20_02_44:
+    speaker: neon
+    en: We could always go home.
+    ko: "어쩔까요? \n저희 집에 가요?"
+    ja: |-
+      どうしましょうか？
+      お家に帰ります？
+  d_main_20_02_45:
+    speaker: johan
+    en: Bah!
+    ko: "…쯧."
+    ja: "…チッ。"
+  d_main_20_02_46:
+    speaker: Monologue
+    en: Johan storms forward.
+    ko: 요한은 빠른 걸음으로 앞서 가버렸다.
+    ja: ヨハンは早足で先に行ってしまった
+  d_main_20_02_47:
+    speaker: rapi
+    en: I'll take that the operation is still on.
+    ko: "…작전은 속행하는 것으로 알겠습니다."
+    ja: "…作戦は続行ということでよろしいですね？"
+  d_main_20_02_48:
+    speaker: Self
+    en: Okay.
+    ko: 그래.
+    ja: ああ
+d_main_20_03:
+  d_main_20_03_1:
+    speaker: johan
+    en: "... Stop."
+    ko: "…정지."
+    ja: "…止まれ。"
+  d_main_20_03_2:
+    speaker: johan
+    en: Nihilister was here.
+    ko: 니힐리스타의 흔적이다.
+    ja: ニヒリスターの痕跡だ。
+  d_main_20_03_3:
+    speaker: "<Choice>"
+    en: Did she do this?
+    ko: "…드래곤 브레스?"
+    ja: "…ドラゴンブレス？"
+  d_main_20_03_4:
+    speaker: "<Choice>"
+    en: You mean that flaming crater?
+    ko: "…지옥의 불구덩이?"
+    ja: "…地獄の炎？"
+  d_main_20_03_5:
+    speaker: anis
+    en: Such power...
+    ko: 와, 필살기 한번 화려하네.
+    ja: わあ、派手な必殺技ね。
+  d_main_20_03_6:
+    speaker: neon
+    en: What do you think she was aiming for?
+    ko: "…뭘 향해서 쏜 걸까요?"
+    ja: "…何に向かって撃ったのでしょうか？"
+  d_main_20_03_7:
+    speaker: rapi
+    en: It could be a warning. One meant for us.
+    ko: 경고의 의미일 수도 있어. 우릴 향한.
+    ja: 警告の意味が込められているのかも。\n私たちに対する。
+  d_main_20_03_8:
+    speaker: dorothy
+    en: That would make sense.
+    ko: "…일리가 있네요."
+    ja: "…一理ありますね。"
+  d_main_20_03_9:
+    speaker: dorothy
+    en: The way we're tracking her, there's no way she hasn't noticed.
+    ko: |-
+      이 정도로 화려하게 추적하고 있으니,
+      그쪽에서도 우릴 눈치 채지 못했을 리 없으니까요.
+    ja: |-
+      これほど派手に追跡を行っていますからね。
+      あちらも私たちに気がついているでしょう。
+  d_main_20_03_10:
+    speaker: dorothy
+    en: If we're going to work together on this operation, I think now is the time
+      to discuss our next course of action.
+    ko: "연합 작전을 펼칠 거라면, \n슬슬 어떻게 할지 미리 상의해둘 시점이네요."
+    ja: |-
+      さて。連合作戦を行うつもりなら、
+      そろそろ具体的な作戦を立てましょうか。
+  d_main_20_03_11:
+    speaker: johan
+    en: "... Cecil."
+    ko: "…세실."
+    ja: "…セシル。"
+  d_main_20_03_12:
+    speaker: cecil_op_r
+    en: Yes, I'm listening.
+    ko: 네, 듣고 있어요.
+    ja: はい。聞いてますよ。
+  d_main_20_03_13:
+    speaker: johan
+    en: Excuse me for a moment.
+    ko: 잠깐 실례하지.
+    ja: ちょっと失礼。
+  d_main_20_03_14:
+    speaker: Narration
+    en: "*Click*"
+    ko: 뚝.
+    ja: プツッ
+  d_main_20_03_15:
+    speaker: Monologue
+    en: Johan turns the communication device off.
+    ko: 요한이 오퍼레이터 통신을 꺼버렸다.
+    ja: ヨハンがオペレーター通信を切ってしまった
+  d_main_20_03_16:
+    speaker: rapi
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_20_03_17:
+    speaker: anis
+    en: What are you doing?
+    ko: 너 갑자기 이게 뭐하는 짓…!
+    ja: 突然何を…！
+  d_main_20_03_18:
+    speaker: johan
+    en: "... @UserName. You should go back."
+    ko: "…@UserName. 넌 여기서 돌아가라."
+    ja: "…@UserName。お前はここで帰れ。"
+  d_main_20_03_19:
+    speaker: Self
+    en: What's the meaning of this?
+    ko: 갑자기 왜 이러는 거지?
+    ja: 急にどうしたんだ？
+  d_main_20_03_20:
+    speaker: johan
+    en: I shouldn't have to explain this to a fellow commander.
+    ko: 이유라면 네가 가장 잘 알고 있지 않나?
+    ja: 理由なら、お前が一番よく分かっているだろう？
+  d_main_20_03_21:
+    speaker: johan
+    en: You lack the conviction necessary to see this mission to completion.
+    ko: 네놈에겐 작전을 제대로 수행할 의지가 없다.
+    ja: 貴様からは、作戦をまともに遂行する\n意志が感じられない。
+  d_main_20_03_22:
+    speaker: johan
+    en: We can't have someone like you bringing down the team.
+    ko: 그런 폐급을 팀 내에 안고 갈 수는 없지.
+    ja: そんなゴミをチームに抱えて行くわけには\nいかない。
+  d_main_20_03_23:
+    speaker: Self
+    en: I simply said I wouldn't use Vapaus.
+    ko: 언체인드를 사용하지 않겠다고 했을 뿐.
+    ja: アンチェインドを使わないと言っただけだ
+  d_main_20_03_24:
+    speaker: Self
+    en: I never said I wouldn't fight against Nihilister.
+    ko: 니힐리스타와 싸우지 않겠다고 한 적은 없어.
+    ja: ニヒリスターと戦わないと言った覚えはない
+  d_main_20_03_25:
+    speaker: johan
+    en: Don't be ridiculous.
+    ko: "…헛소리."
+    ja: "…たわごとを。"
+  d_main_20_03_26:
+    speaker: johan
+    en: You have the ability to take her down with one shot instantly,
+    ko: 그 말은 즉, 한번만 소모시키면 끝날 적을.
+    ja: つまり一度で仕留められるはずの敵を仕留めず、
+  d_main_20_03_27:
+    speaker: johan
+    en: yet you would allow her to continue attacking?
+    ko: 몇 번이고 수복하게 내버려두겠다는 것 아닌가?
+    ja: 敵が自己修復するのをただ黙って\nみているつもりか？
+  d_main_20_03_28:
+    speaker: johan
+    en: Do you realize how much damage she could inflict upon your allies?
+    ko: 그 사이에 아군이 입을 손실은 생각해봤나?
+    ja: その間に味方が被る損失は考えたか？
+  d_main_20_03_29:
+    speaker: johan
+    en: You're putting the entire operation in jeopardy.
+    ko: 작전이 실패할 수도 있다는 생각은?
+    ja: 作戦が失敗する可能性は？
+  d_main_20_03_30:
+    speaker: johan
+    en: Do you really have what it takes to pull off this mission?
+    ko: 아니면, 네게 이 모든 상황을 상쇄할 힘이 있기라도 한가?
+    ja: それとも、お前には\nこのすべての状況を覆す力でもあるのか？
+  d_main_20_03_31:
+    speaker: Self
+    en: How about you...!
+    ko: 그러는 너야말로…!
+    ja: そういうお前こそ…！
+  d_main_20_03_32:
+    speaker: Narration
+    en: "*Kreeee*"
+    ko: 위이잉…!
+    ja: ウィィン…！
+  d_main_20_03_33:
+    speaker: rapi
+    en: Visual confirmation on a Rapture. Single unit.
+    ko: "…랩쳐 1기, 육안으로 확인!"
+    ja: "…ラプチャー1機、肉眼で確認！"
+  d_main_20_03_34:
+    speaker: anis
+    en: This is why you never turn off your ComLink!
+    ko: 아오, 이래서 오퍼레이터 통신은 끄면 안 되는 거라니까…!
+    ja: もうっ、だからオペレーター通信は\n切っちゃダメなんだってば…！
+  d_main_20_03_35:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 퍽-!!
+    ja: ドガッ！
+  d_main_20_03_36:
+    speaker: Monologue
+    en: As the Rapture charges towards us, its core glistening,
+    ko: 코어를 빛내며 달려든 랩쳐는,
+    ja: コアを輝かせながら\n飛びかかって来たラプチャーは
+  d_main_20_03_37:
+    speaker: Monologue
+    en: Johan lifts his mechanical arm.
+    ko: 마주 휘둘러진 요한의 기계 팔에 강타당했고.
+    ja: ヨハンが振り回した機械の腕に強打され
+  d_main_20_03_38:
+    speaker: Monologue
+    en: There is a cacophonous blast, and the Rapture is sent hurling backwards.
+    ko: 둔탁한 소리를 내며 날아가 폭발했다.
+    ja: 鈍い音を立てて吹き飛び、爆発した
+  d_main_20_03_39:
+    speaker: Self
+    en: Did you... just make that Rapture explode?
+    ko: 랩쳐를… 파괴했어?
+    ja: ラプチャーを…破壊した？
+  d_main_20_03_40:
+    speaker: papillon
+    en: What was that?
+    ko: 뭐야… 저게?
+    ja: 何…あれ…
+  d_main_20_03_41:
+    speaker: papillon
+    en: This guy is a human, right?
+    ko: 저 사람, 인간은 맞는 거지?
+    ja: あの人、本当に人間なのよね？
+  d_main_20_03_42:
+    speaker: papillon
+    en: Are we sure male Nikkes don't exist?
+    ko: "그러니까 내 말은, \n남성 니케라거나 뭐 그런 게 아니라…!"
+    ja: |-
+      その、私が言いたいのは、
+      男性ニケとか、そういうんじゃなくて…！
+  d_main_20_03_43:
+    speaker: rapi
+    en: He's human, I assure you.
+    ko: "…인간이야. 의심의 여지는 없어."
+    ja: "…人間よ。疑う余地はない。"
+  d_main_20_03_44:
+    speaker: johan
+    en: Nothing more than a bothersome fly.
+    ko: "…쓸데없는 방해가 들어왔군."
+    ja: "…つまらん邪魔が入ったな。"
+  d_main_20_03_45:
+    speaker: johan
+    en: Now, where was I?
+    ko: 다시 말하지.
+    ja: もう一度言おう。
+  d_main_20_03_46:
+    speaker: johan
+    en: You don't deserve to be part of this operation.
+    ko: 너는 이 작전에 참가할 자격이 없다.
+    ja: お前には、この作戦に参加する資格はない。
+  d_main_20_03_47:
+    speaker: Self
+    en: You're right.
+    ko: "…나도 인정해."
+    ja: "…自分でも分かっている"
+  d_main_20_03_48:
+    speaker: Self
+    en: It'll be a tougher fight with me around.
+    ko: 나로 인해 이 싸움이 어려워질 거라는 것쯤은.
+    ja: この戦いが、私のせいで\n厳しいものになるということは
+  d_main_20_03_49:
+    speaker: johan
+    en: "..."
+    ko: "…그래서?"
+    ja: "…それで？"
+  d_main_20_03_50:
+    speaker: Self
+    en: But if having one difficult fight means that we can spare even one more life,
+    ko: 하지만 어려운 한 번의 싸움으로.
+    ja: しかし、たった一度の厳しい戦闘を通して
+  d_main_20_03_51:
+    speaker: Self
+    en: then it's worth a shot.
+    ko: 더 많은 이들을 구할 수 있기 때문에 이러는 거야.
+    ja: より多くの人々を救うことができる。\nだから、私はここにいるんだ
+  d_main_20_03_52:
+    speaker: johan
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20_03_53:
+    speaker: Self
+    en: I won't allow you to convince me otherwise.
+    ko: 그걸 무가치하다고 말하게 두진 않아.
+    ja: そのことに、価値がないとは言わせない
+  d_main_20_03_54:
+    speaker: dorothy
+    en: Commander, there's no time for this.
+    ko: "…지휘관. 시간이 없어요."
+    ja: "…指揮官。時間がありません。"
+  d_main_20_03_55:
+    speaker: dorothy
+    en: We could run into Nihilister at any moment.
+    ko: 언제 니힐리스타와 조우하게 될지 모릅니다.
+    ja: いつニヒリスターと遭遇するか分かりません。
+  d_main_20_03_56:
+    speaker: dorothy
+    en: I recommend that we re-establish communication with our operator immediately.
+    ko: 오퍼레이터 통신의 조속한 복구를 권장합니다.
+    ja: オペレーター通信の速やかな復旧を\nお勧めします。
+  d_main_20_03_57:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_03_58:
+    speaker: johan
+    en: "... Fine."
+    ko: "…그래."
+    ja: "…そうか。"
+  d_main_20_03_59:
+    speaker: johan
+    en: You have a resolve that's not so easily bent.
+    ko: 네 아집을 꺾을 수 없다는 건 인정하겠다.
+    ja: お前が我を通したいということは分かった。
+  d_main_20_03_60:
+    speaker: johan
+    en: But how far are you willing to go?
+    ko: 하지만 그걸 위해 넌 뭘 할 수 있지?
+    ja: しかし、そのためにお前は何ができる？
+  d_main_20_03_61:
+    speaker: johan
+    en: What can you possibly contribute that will turn the tide?
+    ko: 전황을 바꿀 만큼 특출난 능력를 갖고 있나?
+    ja: 戦況を変えられるほど\n秀でた能力を持っているのか？
+  d_main_20_03_62:
+    speaker: johan
+    en: I doubt you can even survive on your own without depending on Nikkes.
+    ko: 니케의 도움 없이 살아남을 수나 있을지 의문이군.
+    ja: ニケのサポートなしで\n生き残れるのかさえ疑問だな。
+  d_main_20_03_63:
+    speaker: Self
+    en: I'm a commander.
+    ko: 나는 지휘관이야.
+    ja: 私は指揮官だ
+  d_main_20_03_64:
+    speaker: Self
+    en: My skills lie in commanding.
+    ko: 내 능력은 지휘하는 데 있어.
+    ja: 私の能力は指揮をすることにある
+  d_main_20_03_65:
+    speaker: johan
+    en: "... Commanding."
+    ko: "…지휘라."
+    ja: "…指揮か。"
+  d_main_20_03_66:
+    speaker: johan
+    en: That's a good answer.
+    ko: 대답 한번 잘했군.
+    ja: 上手く答えたものだな。
+  d_main_20_03_67:
+    speaker: johan
+    en: Fine.
+    ko: 좋다.
+    ja: いいだろう。
+  d_main_20_03_68:
+    speaker: johan
+    en: You can talk the talk,
+    ko: "기왕 이렇게 된 것, \n내가 너를 직접 시험해보도록 하지."
+    ja: |-
+      こうなったら、
+      私がお前を直々に試すとしよう。
+  d_main_20_03_69:
+    speaker: johan
+    en: but we'll see soon enough if you can walk the walk.
+    ko: "만일 네가 특별한 실력도 없이 \n아집을 부린 것으로 드러난다면."
+    ja: |-
+      もしお前が特別な実力もなく
+      我を通すというのなら。
+  d_main_20_03_70:
+    speaker: johan
+    en: If you can't, I'll hand you over to Nihilister myself.
+    ko: 그때는 널 직접 니힐리스타의 불꽃 속에 던져넣어주마.
+    ja: その時は、お前をニヒリスターの炎の中に\n投げ入れてやる。
+d_main_20_04:
+  d_main_20_04_1:
+    speaker: neon
+    en: Rapi...
+    ko: "…라피."
+    ja: "…ラピ。"
+  d_main_20_04_2:
+    speaker: neon
+    en: what are Master and Johan doing exactly?
+    ko: "그래서 스승님이랑 요한은 \n아까부터 대체 뭘 하고 있는 거예요?"
+    ja: |-
+      それで、師匠とヨハンは
+      さっきから何をしてるんですか？
+  d_main_20_04_3:
+    speaker: rapi
+    en: Let's just say it's... a battle of wits, designed to put the Commander to
+      the test.
+    ko: 구두로 진행하는 지휘력 시험… 이라고 해.
+    ja: 口頭で行う指揮力試験…らしいわ。
+  d_main_20_04_4:
+    speaker: rapi
+    en: When Johan posits a hypothetical battle scenario,
+    ko: 요한이 지휘관에게 가상의 전투 상황을 제시하면,
+    ja: ヨハンが指揮官に仮想の戦闘状況を提示して、
+  d_main_20_04_5:
+    speaker: rapi
+    en: the Commander must respond by detailing how he would direct us.
+    ko: 지휘관은 우릴 어떻게 지휘해서 대응할 건지 답변하는 거지.
+    ja: 指揮官が、私たちをどう指揮するのか\n答えるのよ。
+  d_main_20_04_6:
+    speaker: papillon
+    en: So they've just gone back-and-forth this entire time?
+    ko: "…음, 그러니까 요는. \n결국 말로만 주고 받는다는 거지?"
+    ja: |-
+      …うーん、だからつまり。
+      結局は言葉でやり取りしてるってことよね？
+  d_main_20_04_7:
+    speaker: papillon
+    en: That's it?
+    ko: 그게 저렇게까지 오래 끌 일이야?
+    ja: あんなに長くかかるようなことなの？
+  d_main_20_04_8:
+    speaker: papillon
+    en: They've been at it for hours already.
+    ko: 봐~ 벌써 반나절 동안이나 저 상태야.
+    ja: ほら、もう半日はあの状態よ？
+  d_main_20_04_9:
+    speaker: johan
+    en: Nihilister is flying low in the sky at 120m after firing a wing missile.
+    ko: "…니힐리스타는 윙 미사일을 쏜 뒤 \n120m 상공에서 저공비행 중이다."
+    ja: |-
+      …ニヒリスターはウィングミサイルを撃った後
+      120m上空から低空飛行中である。
+  d_main_20_04_10:
+    speaker: johan
+    en: What do you do?
+    ko: 어떻게 할 거지?
+    ja: どう対応する？
+  d_main_20_04_11:
+    speaker: Self
+    en: Have Isabel intercept the missile, then revert to FF formation.
+    ko: 이사벨의 페더로 격추 후, 포메이션 FF로 변경.
+    ja: イサベルのフェザーで撃墜し、\nフォーメーションFFに変更する
+  d_main_20_04_12:
+    speaker: johan
+    en: Wrong.
+    ko: 틀렸다.
+    ja: 違う。
+  d_main_20_04_13:
+    speaker: johan
+    en: Isabel could potentially buy time by diverting the missile, but she wouldn't
+      be able to shoot it down.
+    ko: 페더로 빈틈을 만들 순 있지만 격추는 불가능하다.
+    ja: フェザーで隙を作ることはできるが、\n撃墜はできない。
+  d_main_20_04_14:
+    speaker: johan
+    en: After descending 50m, Nihilister fires her flame thrower,
+    ko: 고도를 50m 떨어뜨린 니힐리스타가 화염 방사기를 발포하며
+    ja: 高度を50m下げたニヒリスターが、\n火炎放射器を発射しながら
+  d_main_20_04_15:
+    speaker: johan
+    en: incinerating Rapi and Noah on the vanguard.
+    ko: 선두를 맡고 있던 라피와 노아가 사망.
+    ja: 先頭を守っていたラピとノアを戦闘不能にした。
+  d_main_20_04_16:
+    speaker: johan
+    en: Now only 6 Nikkes remain. What do you do?
+    ko: 이제 남은 니케는 6기다. 이제 어떻게 할 거지?
+    ja: 残りのニケは6機だ。どう対応する？
+  d_main_20_04_17:
+    speaker: Self
+    en: Have Dorothy and Anis assume vanguard and change formation to...
+    ko: 도로시와 아니스를 선두로 보내 포메이션을 재편성….
+    ja: ドロシーとアニスを先頭に送り、\nフォーメーションを再編成…
+  d_main_20_04_18:
+    speaker: johan
+    en: Wrong again.
+    ko: 또 틀렸다.
+    ja: また違う。
+  d_main_20_04_19:
+    speaker: johan
+    en: You're heading towards an area with increased Alva particle density.
+    ko: 네가 향한 방향은 에블라 입자 농도가 급격히 상승하는 지역이다.
+    ja: お前が向かう方向は、\nエブラ粒子の濃度が急激に上昇する地域だ。
+  d_main_20_04_20:
+    speaker: johan
+    en: Why didn't you pay attention to your connection with the operator?
+    ko: 왜 오퍼레이터와의 연결을 신경쓰지 않았지?
+    ja: なぜオペレーターとの接続を気にしなかった？
+  d_main_20_04_21:
+    speaker: johan
+    en: Because of your negligence, you and everyone else have been routed by a group
+      of Raptures that were hiding nearby.
+    ko: "전방에 숨어 있던 랩쳐 군단에 의해 \n너와 네 니케 6기는 전멸했다."
+    ja: |-
+      前方に隠れていたラプチャーの群れにより、
+      お前とニケ6機は全滅した。
+  d_main_20_04_22:
+    speaker: Self
+    en: "... Let's start from the beginning."
+    ko: "…처음부터 다시 하자."
+    ja: "…最初からやり直そう"
+  d_main_20_04_23:
+    speaker: neon
+    en: Brutal.
+    ko: "…살벌하네요."
+    ja: "…殺伐としてますね。"
+  d_main_20_04_24:
+    speaker: neon
+    en: Rapi was the first one to bite the dust.
+    ko: "방금은 우리 중에서 \n라피가 제일 먼저 죽었어요."
+    ja: |-
+      今の仮想戦だと、ラピが私たちの中で
+      一番はじめに戦闘不能になりましたね。
+  d_main_20_04_25:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_04_26:
+    speaker: anis
+    en: It is kinda intriguing though.
+    ko: 그래도, 신기하지 않아?
+    ja: でも、不思議じゃない？
+  d_main_20_04_27:
+    speaker: neon
+    en: What is?
+    ko: 네? 뭐가요?
+    ja: はい？何がですか？
+  d_main_20_04_28:
+    speaker: anis
+    en: I've never seen the Commander so passionate when speaking with someone else.
+    ko: "여태 지휘관님이 같은 지휘관이랑 대화하면서, \n저렇게까지 열정적이었던 적 없었잖아."
+    ja: |-
+      今まで指揮官様が同じ指揮官と話す時、
+      あんなに盛り上がることって\nなかったじゃない。
+  d_main_20_04_29:
+    speaker: anis
+    en: Usually, it's just issuing short orders to subordinates or exchanging a few
+      words here and there.
+    ko: "보통 상대쪽 수준이 떨어지거나, \n말이 안 통하거나 해서 몇 마디 하다 말았지."
+    ja: |-
+      いつも相手のレベルが低かったり、話が
+      通じなかったりして、すぐ終わっちゃうのに。
+  d_main_20_04_30:
+    speaker: anis
+    en: But now, this Johan guy is imparting so much knowledge...
+    ko: 그런데 오히려 저렇게 뭔갈 배워가는 모습을 보니까….
+    ja: でもああやって、何かを学ぶ姿を見てると…
+  d_main_20_04_31:
+    speaker: neon
+    en: Yeah, almost makes it worth being the first one to die, right Rapi?
+    ko: 퍼스트 킬 당한 보람이 있었죠, 라피?
+    ja: ファーストキルされた甲斐がありましたね？\nラピ。
+  d_main_20_04_32:
+    speaker: rapi
+    en: "... Sure, I suppose."
+    ko: "…그래. 그런 것 같네."
+    ja: "…ええ。そうね。"
+d_main_20_05:
+  d_main_20_05_1:
+    speaker: johan
+    en: 91 failures. 6 draws. 3 wins.
+    ko: "…100전 91패 6무 3승."
+    ja: "…100戦91敗6引き分け3勝。"
+  d_main_20_05_2:
+    speaker: johan
+    en: Pathetic.
+    ko: 형편없군.
+    ja: ひどいな。
+  d_main_20_05_3:
+    speaker: Self
+    en: Just one last time...
+    ko: 마지막으로 한번만 더….
+    ja: 最後にもう一回だけ…
+  d_main_20_05_4:
+    speaker: dorothy
+    en: Just a moment, Commander.
+    ko: "…잠깐만요, 지휘관."
+    ja: "…お待ちください、指揮官。"
+  d_main_20_05_5:
+    speaker: dorothy
+    en: Aren't these results actually fairly impressive?
+    ko: 이 정도면 나쁘지 않은 결과가 아닐까요?
+    ja: これなら、悪くない結果なのでは？
+  d_main_20_05_6:
+    speaker: dorothy
+    en: According to your standards, typically no one can ever pass the test at all.
+    ko: |-
+      만약 모든 걸 지휘관 기준에서 판단한다면,
+      그 시험을 통과할 사람은 없을 거예요.
+    ja: |-
+      もしすべてを指揮官基準で判断したら、
+      その試験に合格できる人はいないはずです。
+  d_main_20_05_7:
+    speaker: johan
+    en: "... So I'm supposed to find 3 wins out of 100 impressive?"
+    ko: "…100전 중 고작 3승이다. 그것도 가상전에서."
+    ja: "…100戦中たった3勝だ。\\nそれも仮想戦で。"
+  d_main_20_05_8:
+    speaker: johan
+    en: Besides, these were all hypothetical scenarios anyway.
+    ko: 이게 나쁘지 않은 결과라고?
+    ja: これが悪くない結果だと？
+  d_main_20_05_9:
+    speaker: dorothy
+    en: I know it's a success rate of only 3%,
+    ko: "…예."
+    ja: "…はい。"
+  d_main_20_05_10:
+    speaker: dorothy
+    en: but those three wins all came at the end, and they were consecutive.
+    ko: "비록 3%의 승률이지만, \n마지막 세 번은 연승이었는걸요."
+    ja: |-
+      勝率は3％ですが、
+      最後の3回は連勝でしたよ。
+  d_main_20_05_11:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_05_12:
+    speaker: papillon
+    en: Hey!
+    ko: 저기~
+    ja: あの～
+  d_main_20_05_13:
+    speaker: papillon
+    en: You've got a whole lotta nerve busting Honey's chops like this!
+    ko: 왜 그렇게까지 우리 허니를 배척하는 건진 모르겠는데.
+    ja: どうしてそこまでハニーを\n作戦から外したいのかは分からないけど。
+  d_main_20_05_14:
+    speaker: papillon
+    en: Honey's a big deal in the Ark.
+    ko: 이쪽도 방주에선 내로라하는 지휘관이거든?
+    ja: ハニーもアークではすごい指揮官なのよ？
+  d_main_20_05_15:
+    speaker: papillon
+    en: Even the CEOs of the Big Three and the higher-ups in the Central Government
+      are fans.
+    ko: 3대 회사 CEO도, 중앙 정부의 높~으신 분들도 모두.
+    ja: 三大企業のCEOも、\n中央政府のえら～い人たちもみんな、
+  d_main_20_05_16:
+    speaker: papillon
+    en: They're total fanboys.
+    ko: 우리 허니한테 주목하고 있단 말이야.
+    ja: ハニーに注目してるんだからね。
+  d_main_20_05_17:
+    speaker: papillon
+    en: You've got no right treating someone with a reputation like that so poorly.
+    ko: 그런 사람을 이렇게까지 찬밥 취급하는 법이 어딨어?
+    ja: そんな人をここまで冷遇するなんて、\nひどくない？
+  d_main_20_05_18:
+    speaker: neon
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20_05_19:
+    speaker: neon
+    en: That's right. Master works under the direct supervision of the Deputy Chief.
+    ko: 맞아요. 스승님이 저래봬도 부사령관 직속이거든요?
+    ja: そうですよ。師匠はこう見えて\n副司令官直属なんですからね？
+  d_main_20_05_20:
+    speaker: anis
+    en: Yeah, a real rising star.
+    ko: 그래 그래. 방주의 라이징 스타라니까.
+    ja: そうそう。\nアークのライジングスターなんだから。
+  d_main_20_05_21:
+    speaker: isabel
+    en: Now you've all gone and done it.
+    ko: "…당신들, 방금 말실수했어."
+    ja: "…あなたたち。今のは失言ね。"
+  d_main_20_05_22:
+    speaker: isabel
+    en: The commander despises anything that has to do with the Ark.
+    ko: 지휘관은 방주에서 온 모든 것들을 경멸하거든.
+    ja: 指揮官はアークから来たもの\nすべてを軽蔑してるのよ。
+  d_main_20_05_23:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_05_24:
+    speaker: johan
+    en: Noah. Isabel. Harran.
+    ko: |-
+      노아. 이사벨.
+      하란.
+    ja: |-
+      ノア。イサベル。
+      ハラン。
+  d_main_20_05_25:
+    speaker: johan
+    en: I need a moment alone.
+    ko: 내가 돌아올 때까지, 저놈의 모습이 보이지 않게 해라.
+    ja: 私が戻るまでに、あいつの姿が\n見えないようにしてくれ。
+  d_main_20_05_26:
+    speaker: Monologue
+    en: Johan leaves in a hurry.
+    ko: 요한은 빠른 걸음으로 가 버렸다.
+    ja: ヨハンは早足で行ってしまった
+  d_main_20_05_27:
+    speaker: papillon
+    en: Sorry, I was just trying to explain things to them.
+    ko: 음… 이쪽도 나름 설득해보려고 한 건데.
+    ja: うーん…こっちも説得しようとしてるのに。
+  d_main_20_05_28:
+    speaker: papillon
+    en: I guess I just made it worse...
+    ko: 역효과만 나 버렸네. 미안.
+    ja: 逆効果だったわね。ごめん。
+  d_main_20_05_29:
+    speaker: Self
+    en: It's not your fault.
+    ko: 네 잘못이 아니야.
+    ja: パピヨンのせいじゃない
+  d_main_20_05_30:
+    speaker: dorothy
+    en: That's right.
+    ko: "…맞아요."
+    ja: "…そうですよ。"
+  d_main_20_05_31:
+    speaker: dorothy
+    en: It's no one's fault.
+    ko: 여러분의 잘못이 아니랍니다.
+    ja: みなさんのせいではありません。
+  d_main_20_05_32:
+    speaker: dorothy
+    en: I can still salvage this. I'll talk to him.
+    ko: 아마도 멀리는 안 가셨을 테니, 제가 가서 설득해볼게요.
+    ja: まだ遠くまでは行ってないはずです。\n私が説得してみます。
+  d_main_20_05_33:
+    speaker: Monologue
+    en: Dorothy follows Johan.
+    ko: 도로시는 요한의 뒤를 쫓아갔다.
+    ja: ドロシーはヨハンの後を追いかけた
+d_main_20_06_s:
+  d_main_20_06_s_1:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_06_s_2:
+    speaker: dorothy
+    en: Commander.
+    ko: 지휘관.
+    ja: 指揮官。
+  d_main_20_06_s_3:
+    speaker: dorothy
+    en: Do you really intend to exclude them from the operation?
+    ko: 정말 저분을 작전에서 배제시키려는 건가요?
+    ja: 本当に、あの方を\n作戦から排除するおつもりですか？
+  d_main_20_06_s_4:
+    speaker: johan
+    en: Absolutely.
+    ko: 그래.
+    ja: そうだ。
+  d_main_20_06_s_5:
+    speaker: johan
+    en: They're a bunch of pathetic greenhorns.
+    ko: "…아직 신입 티도 못 벗은 애송이다."
+    ja: "…いまだ新人臭さが抜けない青二才だ。"
+  d_main_20_06_s_6:
+    speaker: johan
+    en: They've got heart, I'll give 'em that, but that doesn't amount to much.
+    ko: 약간의 의지력이 보인다고 해서,
+    ja: 少し強い意志を持っているからといって、
+  d_main_20_06_s_7:
+    speaker: johan
+    en: I was foolish to believe they could be of any help to us.
+    ko: 작전에 도움이 될 거라고 생각한 게 오판이었지.
+    ja: 作戦の役に立つだろうと考えたのが\n間違いだった。
+  d_main_20_06_s_8:
+    speaker: dorothy
+    en: How can you say that?
+    ko: 그분이 왜 작전에 도움이 안 된다는 건가요?
+    ja: あの方がどうして作戦の役に立たないと？
+  d_main_20_06_s_9:
+    speaker: dorothy
+    en: They could be the perfect shield.
+    ko: "…나서서 총알받이 역을 해주겠다는데."
+    ja: "…自ら弾よけ役を買って出てくださったのに。"
+  d_main_20_06_s_10:
+    speaker: johan
+    en: "... What?"
+    ko: "…뭐라고?"
+    ja: "…何だと？"
+  d_main_20_06_s_11:
+    speaker: dorothy
+    en: This is all you have to do.
+    ko: 이렇게 하면 됩니다.
+    ja: こうすればいいのです。
+  d_main_20_06_s_12:
+    speaker: dorothy
+    en: We draw Nihilister to us,
+    ko: 니힐리스타가 인식할 수 있는 신호를 발산해서,
+    ja: ニヒリスターが認識できる信号を発して、
+  d_main_20_06_s_13:
+    speaker: dorothy
+    en: by releasing a signal.
+    ko: 그녀 쪽에서 우리를 마중 나오게 합니다.
+    ja: 彼女の方から私たちを出迎えさせましょう。
+  d_main_20_06_s_14:
+    speaker: dorothy
+    en: Given how aggressive she has been in the past, this shouldn't be too difficult.
+    ko: 호전적인 니힐리스타의 성격상 크게 어려운 일은 아니겠죠.
+    ja: 好戦的なニヒリスターの性格から考えて、\nそれほど難しいことではありません。
+  d_main_20_06_s_15:
+    speaker: dorothy
+    en: Then we send the Counters out under the pretext of conducting surveillance,
+    ko: 그리고 정찰이든 뭐든 핑계를 대서,
+    ja: それから偵察なり何なり、口実を作って
+  d_main_20_06_s_16:
+    speaker: dorothy
+    en: and have them encounter her first.
+    ko: 카운터스를 우리보다 먼저 니힐리스타와 교전시키는 거예요.
+    ja: 私たちより先にカウンターズを\nニヒリスターと交戦させるのです。
+  d_main_20_06_s_17:
+    speaker: dorothy
+    en: No matter how hard they hit her, she'll just keep recovering.
+    ko: 그래봤자 물론, 니힐리스타는 무한한 수복을 계속할 테고….
+    ja: まあそれでもニヒリスターは\n無限に自己修復を続け…
+  d_main_20_06_s_18:
+    speaker: dorothy
+    en: Eventually, they'll realize they have no choice but to use Vapaus if they
+      want to make it out alive.
+    ko: "언체인드를 사용하지 않고서는 모두 개죽음을 \n당하겠다고 여겨지는 지점까지 갈 겁니다."
+    ja: |-
+      あの方も、アンチェインドを使わなければ
+      部隊が全滅する…と思うでしょう。
+  d_main_20_06_s_19:
+    speaker: dorothy
+    en: Once that infernal commander no longer has any compunction about using Vapaus,
+    ko: "그럼 당연히 그분도, \n카운터스를 살리기 위해 언체인드를 사용하지 않겠어요?"
+    ja: |-
+      そうすれば当然
+      カウンターズを助けるために、\nアンチェインドを使わざるを得ないのでは？
+  d_main_20_06_s_20:
+    speaker: dorothy
+    en: that's when we move in.
+    ko: 우리는 그 시점에 난입하면 됩니다.
+    ja: 私たちはそこで乱入すればいいのです。
+  d_main_20_06_s_21:
+    speaker: dorothy
+    en: Not only will we defeat Nihilister,
+    ko: 언체인드를 맞고 발악하는 니힐리스타를 제압한 뒤,
+    ja: アンチェインドに当たって\n暴れるニヒリスターを制圧した後、
+  d_main_20_06_s_22:
+    speaker: dorothy
+    en: but if the Counters manage to survive, they'll consider us their saviors.
+    ko: "운이 좋게 카운터스와 그분이 살아 있다면 \n그들의 구원자가 되어줄 수도 있겠지요."
+    ja: |-
+      運良くカウンターズとあの方が生きていれば
+      彼らの救世主になれるかもしれません。
+  d_main_20_06_s_23:
+    speaker: johan
+    en: So that's it.
+    ko: "…너."
+    ja: "…お前。"
+  d_main_20_06_s_24:
+    speaker: johan
+    en: That's why you brought them along.
+    ko: 처음부터 이럴 생각으로 그들을 데려온 건가?
+    ja: 最初からそのつもりで彼らを連れて来たのか？
+  d_main_20_06_s_25:
+    speaker: dorothy
+    en: Of course.
+    ko: "…물론이죠."
+    ja: "…もちろんです。"
+  d_main_20_06_s_26:
+    speaker: dorothy
+    en: We loan out Vapaus temporarily, and in exchange, force the Counters to do
+      all the dirty work.
+    ko: "언체인드를 잠깐 대여해주는 대가로 \n유용하게 소모할 전력을 구할 수 있다면,"
+    ja: |-
+      アンチェインドを貸し出す対価として
+      便利に使える戦力が手に入るなら、
+  d_main_20_06_s_27:
+    speaker: dorothy
+    en: Not a bad plan, if you ask me.
+    ko: 그것도 나쁘지 않은 거래라고 생각했거든요.
+    ja: それも悪くない取引だと思ったんですよ。
+  d_main_20_06_s_28:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_06_s_29:
+    speaker: johan
+    en: I feel sick.
+    ko: 구역질이 나는군.
+    ja: 吐き気がするな。
+  d_main_20_06_s_30:
+    speaker: dorothy
+    en: Why, something wrong?
+    ko: 왜죠?
+    ja: なぜですか？
+  d_main_20_06_s_31:
+    speaker: dorothy
+    en: Is this all reminding you of your time in the Ark?
+    ko: 제 방식이… 지휘관이 방주에서 당했던 것과 비슷해서요?
+    ja: 私のやり方が…指揮官が\nアークで経験したことと似ているから？
+  d_main_20_06_s_32:
+    speaker: dorothy
+    en: Ah yes, how could I be so thoughtless?
+    ko: 아, 그러고 보니.
+    ja: あ、そういえば。
+  d_main_20_06_s_33:
+    speaker: dorothy
+    en: I've made you relive your past trauma.
+    ko: 본의 아니게 지휘관의 트라우마를 자극하게 되었군요.
+    ja: 不本意ながら\n指揮官のトラウマを刺激してしまいましたね。
+  d_main_20_06_s_34:
+    speaker: dorothy
+    en: I'm so terribly sorry.
+    ko: 이거 정말… 미안해서 어떡하죠?
+    ja: あら…本当にごめんなさいね？
+  d_main_20_06_s_35:
+    speaker: johan
+    en: I wonder, if they could see the monster you really are, would that commander
+      still be so fervent about liberating the Nikkes?
+    ko: 그놈이 너 같은 괴물을 보고도 니케의 해방 운운할까.
+    ja: あいつはお前のような怪物を見ても、\nニケの解放だの何だの言うのだろうか。
+  d_main_20_06_s_36:
+    speaker: dorothy
+    en: Most likely.
+    ko: "…할 거예요, 분명히."
+    ja: "…言いますよ、きっと。"
+  d_main_20_06_s_37:
+    speaker: dorothy
+    en: These righteous types... They're all like that.
+    ko: 그런 사람 같았거든요. 후후.
+    ja: そんな人だと思います。ふふっ。
+d_main_20_06_e:
+  d_main_20_06_e_1:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_06_e_2:
+    speaker: dorothy
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_06_e_3:
+    speaker: anis
+    en: How'd it go?
+    ko: 오, 얘기 잘 끝났어?
+    ja: あ、お話は終わった？
+  d_main_20_06_e_4:
+    speaker: dorothy
+    en: I don't think you have anything to worry about.
+    ko: 예, 이제 걱정하지 않으셔도 돼요.
+    ja: はい。もう心配いりませんよ。
+  d_main_20_06_e_5:
+    speaker: Self
+    en: Let's keep pursuing that Heretic.
+    ko: 헬레틱 추적을 계속하자.
+    ja: ヘレティックの追跡を続けよう
+  d_main_20_06_e_6:
+    speaker: Narration
+    en: "*Beep*"
+    ko: 삑.
+    ja: ピッ
+  d_main_20_06_e_7:
+    speaker: Monologue
+    en: Johan re-establishes communication with the operator.
+    ko: 요한이 오퍼레이터 연결을 복구했다.
+    ja: ヨハンがオペレーターの接続を復旧した
+  d_main_20_06_e_8:
+    speaker: cecil_op_r
+    en: |-
+      ...
+      ...
+    ko: |-
+      ……
+      …….
+    ja: |-
+      ……
+      ……
+  d_main_20_06_e_9:
+    speaker: cecil_op_r
+    en: You call that "a moment"?
+    ko: 잠깐 실례하겠다며 통신을 끊더니.
+    ja: "「ちょっと失礼」と言っていきなり\\n通信を切るなんて。"
+  d_main_20_06_e_10:
+    speaker: cecil_op_r
+    en: Seems you have a rather loose definition of what a moment means...
+    ko: 당신의 [잠깐]의 길이에는 정말이지 감탄하게 되는군요, 요한.
+    ja: あなたの「ちょっと」の長さには\n本当に感心せざるを得ませんね、ヨハン。
+  d_main_20_06_e_11:
+    speaker: johan
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20_06_e_12:
+    speaker: cecil_op_r
+    en: Has being out in the field warped your perception of time?
+    ko: "[잠깐] 동안 시간의 개념이 달라졌던가요?"
+    ja: "「ちょっと」の時間の概念が\\n変わったんでしょうか？"
+  d_main_20_06_e_13:
+    speaker: cecil_op_r
+    en: Are you out there moving at light speed without me knowing?
+    ko: 나도 모르게 이 기지가 광속에 근접하기라도 했던가요?
+    ja: 知らないうちにこの基地が\n光速に近づきでもしました？
+  d_main_20_06_e_14:
+    speaker: cecil_op_r
+    en: If not, then pray tell, what exactly possessed you to go dark for so long?
+    ko: "하긴, 그렇지 않고서야 어떻게 작전 중인 \n오퍼레이터의 통신을 반나절 넘게 두절시키겠나요."
+    ja: |-
+      まあ、そうでもなきゃ、作戦中にオペレーターの
+      通信を半日以上切るなんてあり得ませんよね。
+  d_main_20_06_e_15:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_06_e_16:
+    speaker: cecil_op_r
+    en: Johan, do you read? Come in.
+    ko: "요한이 왜 말이 없죠? \n도로시?"
+    ja: |-
+      どうしてヨハンは黙ってるんですか？
+      ドロシー？
+  d_main_20_06_e_17:
+    speaker: dorothy
+    en: We do apologize...
+    ko: 네, 세실.
+    ja: はい、セシル。
+  d_main_20_06_e_18:
+    speaker: cecil_op_r
+    en: Don't tell me Johan lost his ability to speak in the interim.
+    ko: "[잠깐] 사이에 요한이 \n언어 기능을 상실했는지 확인하세요."
+    ja: |-
+      「ちょっと」の間に、ヨハンが
+      言語機能を喪失したのか確認してください。
+  d_main_20_06_e_19:
+    speaker: dorothy
+    en: The Commander's language function is perfectly normal.
+    ko: 지휘관의 언어 기능은 지극히 정상입니다.
+    ja: 指揮官の言語機能は至って正常です。
+  d_main_20_06_e_20:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_06_e_21:
+    speaker: rapi
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_06_e_22:
+    speaker: neon
+    en: Wow.
+    ko: 전력으로 혼나고 있네요.
+    ja: 全力で怒られてますね。
+  d_main_20_06_e_23:
+    speaker: anis
+    en: Even hard cases like him get chewed out from time to time.
+    ko: 저 인간미 없는 양반도 누군가에겐 혼이 나네.
+    ja: あの人間味のない男も、\n誰かに怒られることがあるのね。
+d_main_20_07:
+  d_main_20_07_1:
+    speaker: neon
+    en: Master, look at this.
+    ko: 와, 스승님. 이것 좀 보세요!
+    ja: わあ、師匠。ちょっとこれ見てください！
+  d_main_20_07_2:
+    speaker: neon
+    en: The geothermal level is rising.
+    ko: 지열이 솟구치고 있어요.
+    ja: 地熱がわき上がってますよ。
+  d_main_20_07_3:
+    speaker: anis
+    en: Oooh, are we close to a hot spring?
+    ko: 이거 조금만 더 가면 온천이라도 나오는 거 아냐?
+    ja: もう少し行けば\n温泉でも出てくるんじゃない？
+  d_main_20_07_4:
+    speaker: harran
+    en: I'm afraid it's something a little hotter than that.
+    ko: "…그 이전에 더 뜨거운 것에 닿게 되겠지."
+    ja: "…その前にもっと熱いものが出てくるはずよ。"
+  d_main_20_07_5:
+    speaker: Self
+    en: What do you mean?
+    ko: 더 뜨거운 것이라니?
+    ja: もっと熱いもの？
+  d_main_20_07_6:
+    speaker: harran
+    en: Nihilister. This is her territory.
+    ko: "화룡 니힐리스타를 말하는 거란다. \n이 일대는 그녀의 영역이니."
+    ja: |-
+      火竜ニヒリスターのことよ。
+      この一帯は彼女の領域だから。
+  d_main_20_07_7:
+    speaker: cecil_op_l
+    en: I'm not picking up any heat signals in the area,
+    ko: "…반경 내에 포착되는 열원은 없어요."
+    ja: "…近くに感知された熱源はありません。"
+  d_main_20_07_8:
+    speaker: cecil_op_l
+    en: but she could be hiding somewhere the scan can't pick up on.
+    ko: "스캔을 피하기 위해 차폐물 틈에 \n숨었을 가능성도 배제할 순 없습니다만."
+    ja: |-
+      スキャンを避けるために遮蔽物の隙間に
+      隠れている可能性も捨てきれませんが。
+  d_main_20_07_9:
+    speaker: isabel
+    en: Should I do an aerial survey?
+    ko: "…제가 하늘에서 살펴보고 올까요?"
+    ja: "…私が空から調べてきましょうか？"
+  d_main_20_07_10:
+    speaker: dorothy
+    en: Yes, and also...
+    ko: 그렇게 해주세요. 참, 그리고….
+    ja: そうしてください。あ、それから…
+  d_main_20_07_11:
+    speaker: Monologue
+    en: Dorothy sent a personal communication to Isabel.
+    ko: 도로시는 이사벨에게 개별 통신을 보냈다.
+    ja: ドロシーはイサベルに個別通信を送った
+  d_main_20_07_12:
+    speaker: isabel
+    en: Roger.
+    ko: 아, 신호를… 알겠어.
+    ja: あ、信号を…分かりました。
+  d_main_20_07_13:
+    speaker: Narration
+    en: "*Swoosh*"
+    ko: 슈우웅-
+    ja: シューン
+  d_main_20_07_14:
+    speaker: Monologue
+    en: Isabel soars into the air.
+    ko: 이사벨은 아득한 고도로 날아올랐다.
+    ja: イサベルはとてつもない高度まで飛び上がった
+  d_main_20_07_15:
+    speaker: Narration
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_07_16:
+    speaker: Narration
+    en: "*Koogoogoogoo*"
+    ko: 쿠구구구….
+    ja: ゴゴゴゴ…
+  d_main_20_07_17:
+    speaker: neon
+    en: Is that Isabel coming back?
+    ko: "…설마 이거, \n이사벨이 돌아오는 소리는 아니겠죠?"
+    ja: |-
+      …まさかこれ、イサベルが
+      帰ってくる音じゃないですよね？
+  d_main_20_07_18:
+    speaker: anis
+    en: Please don't let it be a landslide.
+    ko: 제발 산사태만 아니어라.
+    ja: お願いだから\n土砂崩れじゃありませんように。
+  d_main_20_07_19:
+    speaker: cecil_op_l
+    en: Sorry, but you're both wrong!
+    ko: "…둘 다 아닙니다!"
+    ja: "…どちらも違います！"
+  d_main_20_07_20:
+    speaker: cecil_op_l
+    en: Nihilister, coming in fast! She's airborne!
+    ko: "코드 네임 니힐리스타! \n상공에서 초고속 접근 중!"
+    ja: |-
+      コードネーム・ニヒリスター！
+      上空から超高速で接近中！
+  d_main_20_07_21:
+    speaker: anis
+    en: Where? I don't see anything...
+    ko: "…뭐? \n구름 위에서 온다고?"
+    ja: |-
+      …えっ？
+      雲の上から来るの？
+  d_main_20_07_22:
+    speaker: Narration
+    en: "*Koogoogoogoo*"
+    ko: 쿠구구구…!!
+    ja: ゴゴゴゴ…！！
+  d_main_20_07_23:
+    speaker: neon
+    en: The tremors are getting stronger!
+    ko: 떨림이 더 커지고 있어요!
+    ja: 揺れがどんどん大きくなってます！
+  d_main_20_07_24:
+    speaker: Monologue
+    en: Suddenly, one of the clouds in the sky splits in two.
+    ko: 쾌청한 하늘의 구름이 반으로 갈라지고.
+    ja: 爽やかな空の雲が半分に割れ
+  d_main_20_07_25:
+    speaker: Monologue
+    en: From the fissure, what seems to be a meteor comes hurling down, burning its
+      way through the atmosphere.
+    ko: 그 틈으로 유성우 같은 것이 대기를 불사르며 떨어졌다.
+    ja: その隙間から、流れ星のようなものが\n大気を燃やしながら落ちた
+  d_main_20_07_26:
+    speaker: Narration
+    en: "*Crash*"
+    ko: 쿵-!!
+    ja: ドンッ！
+  d_main_20_07_27:
+    speaker: Monologue
+    en: The mysterious object crash lands on the surface,
+    ko: 이윽고 지면에 착지한 것은,
+    ja: 地面に降り立ったのは
+  d_main_20_07_28:
+    speaker: Monologue
+    en: revealing a crimson dragon bathed in flames.
+    ko: 코어까지 불로 뒤집어쓴 것 같은 검붉은 화룡이었다.
+    ja: コアまで火で覆われたような赤黒い火竜だった
+  d_main_20_07_29:
+    speaker: johan
+    en: Nihilister, one of the Queen's elite soldiers.
+    ko: "…니힐리스타, \n퀸의 선봉장."
+    ja: |-
+      …ニヒリスター。
+      クイーンの先鋒。
+  d_main_20_07_30:
+    speaker: johan
+    en: An ancient relic that should have been disposed of long ago!
+    ko: 진작 썩어 문드러졌어야 할 고대의 유물…!
+    ja: とうの昔に朽ち果てるべきだった\n古代の遺物…！
+  d_main_20_07_31:
+    speaker: Self
+    en: A Heretic...
+    ko: "…헬레틱."
+    ja: "…ヘレティック"
+  d_main_20_07_32:
+    speaker: Monologue
+    en: Suddenly, I'm overcome with a familiar, paralyzing fear.
+    ko: 잊기 힘든 감각이 온몸을 마비시킨다.
+    ja: 忘れがたい感覚が全身をマヒさせる
+  d_main_20_07_33:
+    speaker: Monologue
+    en: A fear almost identical to what I experienced before.
+    ko: 과거에 마주했던 것과 같은.
+    ja: 過去に遭遇したのと同じ…
+  d_main_20_07_34:
+    speaker: Monologue
+    en: An inconceivable hatred of humanity. Violence incarnate.
+    ko: 잔혹하고도 집요한, 인류에 대한 [악의]가.
+    ja: 残酷で、執拗な、人類に対する「悪意」だ
+  d_main_20_07_35:
+    speaker: nihilister
+    en: Putrid piles of filth sent from Eden.
+    ko: "…하아. 이 낙원의 버러지들이."
+    ja: "…ハァ。この楽園の虫けらどもが。"
+  d_main_20_07_36:
+    speaker: nihilister
+    en: You dare attempt to provoke me?
+    ko: "도발? \n…도발을 한다고?"
+    ja: |-
+      挑発しただと？
+      …この俺を？
+  d_main_20_07_37:
+    speaker: nihilister
+    en: You're practically asking to be reduced to ashes! Very well, I shall grant
+      you your wish.
+    ko: "재가 되고 싶어서 환장했다면 그 소원, \n못 들어줄 것도 없지-!!"
+    ja: |-
+      灰になりたくて仕方ねえみたいだな！
+      その願い、叶えてやるぜ！
+  d_main_20_07_38:
+    speaker: cecil
+    en: Nihilister's core is gathering strength fast!
+    ko: 니힐리스타의 코어 출력, 급상승 중!
+    ja: ニヒリスターのコア出力、急上昇中！
+  d_main_20_07_39:
+    speaker: rapi
+    en: Commander! Our sensor is picking up some high temperatures!
+    ko: 지휘관! 센서에 통상을 넘어서는 고열이 감지됩니다!
+    ja: 指揮官！センサーに通常範囲を超える高熱が\n感知されました！
+  d_main_20_07_40:
+    speaker: anis
+    en: In other words, if we get too close, we'll melt into puddles, right?
+    ko: 아 그래, 스치는 순간 녹는다 이거지?
+    ja: あっ、そう。触れた瞬間溶けるってことね？
+  d_main_20_07_41:
+    speaker: Monologue
+    en: The moment I ran to avoid the slash,
+    ko: 사선을 피해 엄폐물로 달리던 순간.
+    ja: 射線を避け、遮蔽物へ走ろうとした瞬間
+  d_main_20_07_42:
+    speaker: Monologue
+    en: Nihilister points her gun directly at me.
+    ko: 니힐리스타의 총구가 정확히 나를 향했다.
+    ja: ニヒリスターの銃口が正確に私を捉えた
+  d_main_20_07_43:
+    speaker: nihilister
+    en: "... Hmmm?"
+    ko: "…음?"
+    ja: "…ん？"
+  d_main_20_07_44:
+    speaker: nihilister
+    en: What is this?
+    ko: 이게 뭐야.
+    ja: 何だよこれ。
+  d_main_20_07_45:
+    speaker: cecil
+    en: What...?
+    ko: "…??"
+    ja: "…？？"
+  d_main_20_07_46:
+    speaker: cecil
+    en: The core is diminishing? But how...
+    ko: |-
+      코어 출력이 다시 하강합니다.
+      니힐리스타가 왜….
+    ja: |-
+      コア出力が再び下降します。
+      ニヒリスターはなぜ…
+  d_main_20_07_47:
+    speaker: nihilister
+    en: What have we here?
+    ko: 아니, 이것들이 답답하게….
+    ja: ったく、じれってえなぁ…
+  d_main_20_07_48:
+    speaker: Monologue
+    en: Suddenly, Nihilister is in front of me.
+    ko: 니힐리스타의 인영이 삽시간에 사라졌다.
+    ja: ニヒリスターの影が一瞬で消えた
+  d_main_20_07_49:
+    speaker: Self
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_20_07_50:
+    speaker: nihilister
+    en: You should have said something if you were going to bring me a gift.
+    ko: "이렇게 특별한 선물을 가져왔으면, \n말을 해야 할 거 아냐-!!"
+    ja: |-
+      こんな良い土産持ってきてんなら、
+      先に言えっての！！！
+  d_main_20_07_51:
+    speaker: Monologue
+    en: As Nihilister drags and lifts me by the collar,
+    ko: 니힐리스타는 내 멱살을 쥔 채,
+    ja: ニヒリスターは私の胸ぐらを掴み
+  d_main_20_07_52:
+    speaker: Monologue
+    en: her razor-sharp tail points threateningly at my stomach.
+    ko: 꼬리의 날카로운 끝으로 복부를 겨누었다.
+    ja: 尻尾の鋭い先端で腹部に狙いをつけた
+  d_main_20_07_53:
+    speaker: nihilister
+    en: Tell me.
+    ko: "…너."
+    ja: "…お前。"
+  d_main_20_07_54:
+    speaker: nihilister
+    en: Do you remember a talking Rapture?
+    ko: 말하는 랩쳐를 기억하지?
+    ja: しゃべるラプチャーを覚えてんだろ？
+  d_main_20_07_55:
+    speaker: nihilister
+    en: Chatterbox, I believe you called him.
+    ko: 그, 수다쟁인가 뭔가 하던 놈 말이야.
+    ja: お前がトーカなんとかって\n呼んでた奴のことだ。
+  d_main_20_07_56:
+    speaker: Self
+    en: Chatterbox? What does this have to do with him?
+    ko: 토커티브는 갑자기 왜…?
+    ja: トーカティブがどうした…？
+  d_main_20_07_57:
+    speaker: nihilister
+    en: He was one of my favorite underlings.
+    ko: |-
+      …왜긴.
+      그놈이 내가 꽤 아끼던 심복이었는데.
+    ja: |-
+      …どうしたって？あいつはなあ、
+      俺がかなり大事にしてた手下なんだよ。
+  d_main_20_07_58:
+    speaker: nihilister
+    en: You and these filthy Pilgrims conspired together to kill him.
+    ko: "너와 그 너덜너덜한 순례자 둘이 짜고서 \n죽여 버렸으니까 그렇지."
+    ja: |-
+      お前とあのボロボロな巡礼者に
+      殺されちまったけどな。
+  d_main_20_07_59:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_07_60:
+    speaker: nihilister
+    en: If you're expecting some hackneyed declaration of revenge, I'm afraid I'll
+      have to disappoint you.
+    ko: "…라는 지루한 복수극을 기대했다면, 미안하지만."
+    ja: "…っつう退屈な復讐劇を期待してたなら、\\n悪りぃけど。"
+  d_main_20_07_61:
+    speaker: nihilister
+    en: Fortunately for you,
+    ko: 내가 그렇게 정이 많은 편은 아니거든?
+    ja: 俺、そんなに情に厚いタイプじゃねーんだよな。
+  d_main_20_07_62:
+    speaker: nihilister
+    en: I'm not one to become overly attached.
+    ko: 네겐 아주 다행스럽게도 말이지.
+    ja: お前にとってはラッキーだろうけどよ。
+  d_main_20_07_63:
+    speaker: nihilister
+    en: I'd much rather discuss how we can both benefit from this.
+    ko: 그러니까 우리, 피차 도움이 될 만한 이야기를 하자고.
+    ja: だからよ、お互いにとって利益のある話を\nしようぜ。
+  d_main_20_07_64:
+    speaker: nihilister
+    en: Chatterbox mentioned something quite intriguing before he died.
+    ko: "실은 토커티브가 죽기 전에, \n내게 아주 흥미로운 얘길 했거든…."
+    ja: |-
+      実はよお。トーカティブが死ぬ前、
+      すっげえ興味深え話をしてくれてな…
+  d_main_20_07_65:
+    speaker: Monologue
+    en: As Nihilister presses her tail against my body,
+    ko: 니힐리스타의 꼬리가 천천히 내 몸을 훑자,
+    ja: ニヒリスターの尻尾が\nゆっくり私の体に触れると、
+  d_main_20_07_66:
+    speaker: Monologue
+    en: I feel an immense pressure, strong enough to crush me.
+    ko: 살갗이 당장이라도 찢어질 것 같은 압박감이 느껴졌다.
+    ja: 今にも皮膚が張り裂けそうな\n圧迫感を覚えた
+  d_main_20_07_67:
+    speaker: nihilister
+    en: He said if I caught you and cut you open,
+    ko: 너를 잡아서, 이 몸을 열어보면.
+    ja: お前を捕まえて体の中をひん剥いたら、
+  d_main_20_07_68:
+    speaker: nihilister
+    en: I'd find something of great interest to me.
+    ko: 그 안에 내가 원하는 것이 있을 거라고 하던데?
+    ja: そこに俺の望むものが\nあるはずだって言っててよお…
+  d_main_20_07_69:
+    speaker: "<Choice>"
+    en: I have no idea what you're talking about.
+    ko: 전혀 모르는 이야기야.
+    ja: なんのことだ？
+  d_main_20_07_70:
+    speaker: "<Choice>"
+    en: I'm just a regular human.
+    ko: 나는 평범한 인간일 뿐이야.
+    ja: 私はただの平凡な人間だ
+  d_main_20_07_71:
+    speaker: nihilister
+    en: A secret is all the more alluring the less you know about it.
+    ko: 원래 비밀이란 건 당사자도 모를 때 더 흥미로운 법이지.
+    ja: 秘密っつーのはよ、抱えてる本人も\n知らねえ時ほどおもしれーんだよな。
+  d_main_20_07_72:
+    speaker: nihilister
+    en: I've been waiting for you.
+    ko: 그래서 그날부터 줄곧 벼르고 있었거든….
+    ja: あいつにその話を聞いたときから、\nお前に会える日を待ってたんだ…
+  d_main_20_07_73:
+    speaker: nihilister
+    en: I wonder, what secrets do you hold inside you?
+    ko: 대체 이 몸 안에 뭐가 들어있을까?
+    ja: なあ、いったいその体に何が入ってんだ？
+  d_main_20_07_74:
+    speaker: nihilister
+    en: How could Chatterbox have known what I wanted?
+    ko: 내가 원하는 게 대체 뭔 줄 알고 토커티브 그놈이,
+    ja: トーカティブの奴、\n俺の望むものが何だと思って
+  d_main_20_07_75:
+    speaker: nihilister
+    en: Why would he take the risk of bringing you to me?
+    ko: 그 리스크까지 져가면서 이걸 내 앞에 가져오려 했을까?
+    ja: あんなリスクまで背負いながら\nこいつを俺に差し出そうとしたんだ？
+  d_main_20_07_76:
+    speaker: nihilister
+    en: So that's what it was...
+    ko: 그래, 그랬었는데….
+    ja: そう、そう思ってたらよお…
+  d_main_20_07_77:
+    speaker: nihilister
+    en: Those fools from Eden brought the blackbox to me on a silver platter!
+    ko: "웬걸, 이 낙원의 애송이들이 \n제 발로 그 블랙 박스를 가져다 바치지 뭐야-!!"
+    ja: |-
+      この楽園の青二才どもが、自ら
+      ブラックボックスを持って来やがった！
+  d_main_20_07_78:
+    speaker: Narration
+    en: "*Crash*"
+    ko: 콰앙-!!
+    ja: バンッ！！
+  d_main_20_07_79:
+    speaker: Monologue
+    en: Nihilister transforms into a dragon and decimates the entire area.
+    ko: 기습적으로 용으로 변한 니힐리스타는 일대를 초토화시켰고,
+    ja: 突然竜に変身したニヒリスターは、\n辺り一面をめちゃくちゃにして
+  d_main_20_07_80:
+    speaker: Monologue
+    en: Amidst the confusion, she grabs me and takes flight.
+    ko: 혼란을 틈타 곧장 나를 붙든 채 날아올랐다.
+    ja: 混乱の隙に、私を掴んだまま飛び上がった
+  d_main_20_07_81:
+    speaker: noah
+    en: What the... where's she going with your commander?
+    ko: |-
+      …엥. 헬레틱이 가짜를 납치해 가는데?
+      저거 괜찮아?
+    ja: |-
+      …えっ？ヘレティックが偽物を
+      拉致しちゃったよ？あれ大丈夫？
+  d_main_20_07_82:
+    speaker: johan
+    en: Isabel, give chase!
+    ko: "!! 이사벨, 즉시 추격을…!"
+    ja: "！！イサベル、すぐに追撃を…！"
+  d_main_20_07_83:
+    speaker: dorothy
+    en: Wait.
+    ko: 잠깐만요.
+    ja: お待ちください。
+  d_main_20_07_84:
+    speaker: dorothy
+    en: Not now.
+    ko: 아직은 아니에요. 좀 더 때를 보죠.
+    ja: 今はダメです。タイミングを計りましょう。
+  d_main_20_07_85:
+    speaker: anis
+    en: No!
+    ko: "…지휘관님-!!"
+    ja: "…指揮官様ー！！"
+  d_main_20_07_86:
+    speaker: anis
+    en: We have to get her to release the Commander!
+    ko: 저 자식 당장 떨어뜨려야 돼.
+    ja: 今すぐあいつを撃ち落とさないと。
+  d_main_20_07_87:
+    speaker: anis
+    en: If she gets any higher, no one would be able to survive a fall like that!
+    ko: 저대로 더 고도를 높이면 답도 없다고!
+    ja: このまま高度を上げられたら、手が出せないよ！
+  d_main_20_07_88:
+    speaker: rapi
+    en: Can you get a good shot from here?
+    ko: "…격추할 수 있겠어?"
+    ja: "…撃ち落とせる？"
+  d_main_20_07_89:
+    speaker: neon
+    en: No, the visibility is no good here.
+    ko: 아뇨, 시야가 너무 안 좋아요!
+    ja: いいえ、視界が悪すぎます！
+  d_main_20_07_90:
+    speaker: neon
+    en: If anything, I might end up hitting Master.
+    ko: 자칫하면 스승님까지 휘말릴지도 몰…!
+    ja: 一歩間違えば、師匠まで巻き込まれ…！
+  d_main_20_07_91:
+    speaker: papillon
+    en: What are you standing around for?! Just grab on!
+    ko: "…너희들, 뭐 해? 그냥 여기 매달려!"
+    ja: "…あなたたち、何してんの？\\nほら、ここに掴まって！"
+  d_main_20_07_92:
+    speaker: Monologue
+    en: Papillon takes a huge leap and grabs on to Nihilister's tail.
+    ko: 크게 도약한 파피용이 니힐리스타의 꼬리에 매달렸다.
+    ja: 高く飛び上がったパピヨンが、\nニヒリスターの尻尾にぶら下がった
+  d_main_20_07_93:
+    speaker: anis
+    en: Are you crazy?! Her tail could be outfitted with some kind of weapon!
+    ko: 야, 너 미쳤어? 그 용 꼬리에 뭔 화기가 달려있을 줄 알고!
+    ja: ちょっと、正気？\n竜の尻尾に火がついてたらどうすんのよ！
+  d_main_20_07_94:
+    speaker: neon
+    en: Just grab on first! No time for questions!
+    ko: "…모르겠지만 일단 매달려 보죠!"
+    ja: "…分かりませんが、\\nひとまずぶら下がってみましょう！"
+  d_main_20_07_95:
+    speaker: Monologue
+    en: Anis and Neon grab on to Nihilister's tail as well.
+    ko: 네온과 아니스가 니힐리스타의 꼬리에 매달렸다.
+    ja: ネオンとアニスが\nニヒリスターの尻尾にぶら下がった
+  d_main_20_07_96:
+    speaker: Monologue
+    en: And as soon as Rapi grabs onto Anis' hand,
+    ko: 그리고 마지막으로 라피가 아니스의 손을 잡은 순간,
+    ja: そして最後にラピがアニスの手を掴んだ瞬間
+  d_main_20_07_97:
+    speaker: Monologue
+    en: Nihilister soars high into the sky.
+    ko: 니힐리스타는 아득히 높은 고도로 솟구쳐 올랐다.
+    ja: ニヒリスターはとてつもない高度まで\n飛び上がった
+d_main_20_08_s:
+  d_main_20_08_s_1:
+    speaker: Monologue
+    en: Sometime later.
+    ko: "…얼마 후."
+    ja: "…しばらくして"
+  d_main_20_08_s_2:
+    speaker: Monologue
+    en: Nihilister arrives at the base, slamming her tail forcefully into the ground
+      as she transforms back into a Nikke.
+    ko: "기지에 도착한 니힐리스타는, \n꼬리를 강하게 지면에 내리치며 니케의 모습으로 변했다."
+    ja: |-
+      基地に到着したニヒリスターは、
+      尻尾を強く地面に叩きつけ、ニケの姿に変身した
+  d_main_20_08_s_3:
+    speaker: Narration
+    en: "*Craaash*"
+    ko: 우당탕탕-!!
+    ja: ドンッ！
+  d_main_20_08_s_4:
+    speaker: papillon
+    en: Ahhhhh!!
+    ko: 꺄악-!!
+    ja: キャアッ！
+  d_main_20_08_s_5:
+    speaker: neon
+    en: Ugh!!
+    ko: 으악-!!
+    ja: うわっ！
+  d_main_20_08_s_6:
+    speaker: rapi
+    en: "... Ugh."
+    ko: "…으윽."
+    ja: "…ううっ。"
+  d_main_20_08_s_7:
+    speaker: anis
+    en: Ah... argh.
+    ko: 아오… 씁.
+    ja: はぁ…うっ。
+  d_main_20_08_s_8:
+    speaker: anis
+    en: Does anyone see the Commander?
+    ko: 그러고 보니, 지휘관님은 어디에-!!
+    ja: はっ、指揮官様はどこっ…！？
+  d_main_20_08_s_9:
+    speaker: Self
+    en: I'm here!
+    ko: 여기에 있어!
+    ja: ここだ！
+  d_main_20_08_s_10:
+    speaker: nihilister
+    en: Wait right there.
+    ko: "…잠깐."
+    ja: "…おい。"
+  d_main_20_08_s_11:
+    speaker: nihilister
+    en: I didn't bring you all here for a family reunion.
+    ko: |-
+      여기까지 와서 뭉치라고
+      그것들을 데려와준 게 아니거든?
+    ja: |-
+      ここで仲良く団らんするために
+      あいつらを連れてきたんじゃねーぞ？
+  d_main_20_08_s_12:
+    speaker: nihilister
+    en: What of it, human? Would you like to hear my offer?
+    ko: 어때, 인간. 내 제안을 들어볼래?
+    ja: どうだ？人間。俺の提案を聞いてみねえか？
+  d_main_20_08_s_13:
+    speaker: Self
+    en: What offer?
+    ko: 제안이라니?
+    ja: 提案だと？
+  d_main_20_08_s_14:
+    speaker: nihilister
+    en: It's quite simple.
+    ko: 어려운 건 아냐.
+    ja: 簡単なことさ。
+  d_main_20_08_s_15:
+    speaker: nihilister
+    en: A simple matter of choice.
+    ko: 저기 쳐박혀 있는 네 니케들의 목숨과, 네 목숨.
+    ja: あそこに閉じ込められてる\nお前のニケたちの命と、お前の命。
+  d_main_20_08_s_16:
+    speaker: nihilister
+    en: Your life, or those of the Nikkes?
+    ko: |-
+      둘을 같이 저울에 올려보자는,
+      아주 간단한 얘기지.
+    ja: |-
+      2つを天秤にかけてみようっていう、
+      めちゃくちゃ簡単な話だ。
+  d_main_20_08_s_17:
+    speaker: Self
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20_08_s_18:
+    speaker: nihilister
+    en: Naturally, I could kill all of you, but where's the fun in that?
+    ko: 다 죽이려면 쉽지만… 불이라는 게 원래 좀 그렇잖아?
+    ja: 全員殺すのは簡単だが…\n火ってそういうもんだろ？
+  d_main_20_08_s_19:
+    speaker: nihilister
+    en: Besides, you know how fires are. Very hard to control.
+    ko: 누구는 죽이고. 누구는 죽이지 않고.
+    ja: 誰を殺るか、誰を殺らねえか。
+  d_main_20_08_s_20:
+    speaker: nihilister
+    en: Picking and choosing who lives or dies. I find it exhausting.
+    ko: 그런 편파적인 게 잘 안 되거든.
+    ja: そういう調節が上手くできねーんだよ。
+  d_main_20_08_s_21:
+    speaker: nihilister
+    en: So I figured you could make that decision.
+    ko: "그러니까 네 결단으로, \n모두 다 살려 보자는 거야."
+    ja: |-
+      だからお前の決断次第で、
+      全員を生かしてみようってワケ。
+  d_main_20_08_s_22:
+    speaker: nihilister
+    en: Of course, you'll die regardless once I slice you open.
+    ko: 아, 물론 몸을 열고 나면 넌 죽을지도 모르지만….
+    ja: あ、もちろん体の中を見ちまったら\nお前は死ぬかもしれねえが…
+  d_main_20_08_s_23:
+    speaker: nihilister
+    en: You'll make a fine sacrifice.
+    ko: 소위 위대한 희생이라는 거지.
+    ja: いわゆる偉大なる犠牲ってやつだな。
+  d_main_20_08_s_24:
+    speaker: rapi
+    en: Commander, she's talked long enough.
+    ko: "…더 들으실 필요 없습니다, 지휘관."
+    ja: "…それ以上聞く必要はありません、指揮官。"
+  d_main_20_08_s_25:
+    speaker: rapi
+    en: Just give the order and we will engage.
+    ko: 명령만 내려 주시면, 즉시 교전에 들어가겠습니다.
+    ja: 命令さえくだされば、直ちに交戦に入ります。
+  d_main_20_08_s_26:
+    speaker: anis
+    en: Even if there is no order, we'll fight.
+    ko: "…명령이 없어도 싸울 거고."
+    ja: "…命令がなくても戦うし。"
+  d_main_20_08_s_27:
+    speaker: nihilister
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_08_s_28:
+    speaker: nihilister
+    en: My my.
+    ko: 이야.
+    ja: いや～
+  d_main_20_08_s_29:
+    speaker: nihilister
+    en: What to do?
+    ko: 이거 어떡하지.
+    ja: どうすっかな。
+  d_main_20_08_s_30:
+    speaker: nihilister
+    en: Such camaraderie. It's enough to bring a tear to my eye. I'd love to play
+      with you,
+    ko: "참 눈물나는 전우애라… \n나도 장단에 맞춰주고는 싶은데."
+    ja: |-
+      戦友愛か、涙が出ちまいそうだ。
+      俺も調子を合わせてあげたいとこだが。
+  d_main_20_08_s_31:
+    speaker: nihilister
+    en: but I might lose my precious blackbox in the process.
+    ko: "너희 잔챙이들 잡으려다가, \n내 소중한 블랙박스까지 태워버릴 순 없잖아. 응?"
+    ja: |-
+      お前たち雑魚どもを相手して、
+      俺の大切なブラックボックスまで\n燃やすわけにはいかねえだろ？
+  d_main_20_08_s_32:
+    speaker: nihilister
+    en: It seems we've reached something of an impasse.
+    ko: "…그렇게 됐으니, 얘들아. 나 좀 도와줘야겠다."
+    ja: "…だから、おいお前ら。\\nちょっと手伝ってくれ。"
+  d_main_20_08_s_33:
+    speaker: nihilister
+    en: Go forth, my beauties, and feast upon their carcasses.
+    ko: 적당히 죽기 전까지만 물어뜯어놔.
+    ja: 殺さねえ程度にいじめてやってくれよ。
+  d_main_20_08_s_34:
+    speaker: Monologue
+    en: "*Grrrrrr*"
+    ko: 키이이잉-!!
+    ja: キィィィー！
+  d_main_20_08_s_35:
+    speaker: rapi
+    en: Visual confirmation on 30... no, 50 Raptures and counting!
+    ko: "랩쳐 30기… 아니, 50기 이상! \n육안으로 확인!"
+    ja: |-
+      ラプチャー30機…いや、50機以上！
+      肉眼で確認！
+  d_main_20_08_s_36:
+    speaker: papillon
+    en: Another battle?
+    ko: 하아… 또 싸움이야?
+    ja: ハァ…また戦闘？
+  d_main_20_08_s_37:
+    speaker: papillon
+    en: I better get a promotion when this is over.
+    ko: "누가 말좀 해줘 봐. \n이것만 잘 넘기면 나 특진할 거라고."
+    ja: |-
+      誰か言ってくれる？
+      これさえ乗り越えれば、昇進できるはずだって。
+  d_main_20_08_s_38:
+    speaker: anis
+    en: You bet. Once we get out of here, the first thing we'll do is tell Burningum.
+    ko: 그래. 우리가 목숨 걸고 버닝엄 그 양반한테 전해줄게.
+    ja: オッケー。私たちが命をかけて\nバーニンガム様に伝えてあげる。
+  d_main_20_08_s_39:
+    speaker: rapi
+    en: "... Encounter!"
+    ko: "…인카운터!"
+    ja: "…エンカウンター！"
+d_main_20_08_e:
+  d_main_20_08_e_1:
+    speaker: papillon
+    en: Clear... Right?
+    ko: 클리어… 맞지?
+    ja: クリア…よね？
+  d_main_20_08_e_2:
+    speaker: papillon
+    en: I think we got 'em all.
+    ko: "…죽어라 하니까 이 많은 게 다 잡아지네."
+    ja: "…あんなにたくさんいたのに、\\n死ぬ気でやったら倒せちゃった。"
+  d_main_20_08_e_3:
+    speaker: rapi
+    en: It's not over yet. We still have to get the Commander.
+    ko: |-
+      …아직 끝난 게 아냐.
+      지휘관을 이쪽으로 데려와야 해!
+    ja: |-
+      …まだ終わってない。
+      指揮官をこっちに連れてこないと！
+  d_main_20_08_e_4:
+    speaker: neon
+    en: I'm going in!
+    ko: 지금 가고 있어요!
+    ja: 今向かってます！
+  d_main_20_08_e_5:
+    speaker: nihilister
+    en: I should have known.
+    ko: "…아."
+    ja: "…あ。"
+  d_main_20_08_e_6:
+    speaker: nihilister
+    en: Sitting on the sidelines just isn't for me.
+    ko: 역시 안 되겠네.
+    ja: やっぱダメだな。
+  d_main_20_08_e_7:
+    speaker: nihilister
+    en: Besides...
+    ko: 앉아서 기다리는 역할은 나한텐 안 맞아.
+    ja: 座って待ってんのは性に合わねえ。
+  d_main_20_08_e_8:
+    speaker: nihilister
+    en: I'm not even positive the blackbox is here.
+    ko: 블랙 박스고 뭐고, 이젠 나도 모르겠고….
+    ja: ブラックボックスがどうなろうと、\nもう知ったこっちゃねえか…
+  d_main_20_08_e_9:
+    speaker: nihilister
+    en: At any rate, I'll burn everything so I can have some peace and quiet.
+    ko: 일단 다 너덜너덜하게 태워놓고 생각하는 게 좋겠어.
+    ja: 全部ボロボロになるまで\n燃やしてから考えた方がいいな。
+  d_main_20_08_e_10:
+    speaker: nihilister
+    en: Yes, that will be fun, won't it?
+    ko: "…응? 너희들도 그 편이 더 즐거울 것 같지 않아?"
+    ja: "…お前たちもその方が\\n楽しそうだと思わねえか？"
+  d_main_20_08_e_11:
+    speaker: nihilister
+    en: Let's turn this entire place to ash.
+    ko: 피차 재가 될 때까지 싸워 보자고-!!
+    ja: お互い、灰になるまで戦おうぜ！！
+  d_main_20_08_e_12:
+    speaker: Narration
+    en: "*Crunch, crunch*"
+    ko: 으득, 으드득-
+    ja: ボキ、ボキッ
+  d_main_20_08_e_13:
+    speaker: Monologue
+    en: With an ominous sound, Nihilister's body begins to expand.
+    ko: 불길한 소리와 함께, 니힐리스타의 몸이 거대해지기 시작했다.
+    ja: 不吉な音を立てながら、\nニヒリスターの体が巨大化し始めた
+  d_main_20_08_e_14:
+    speaker: neon
+    en: Master!
+    ko: 스승님-!!
+    ja: 師匠ー！！
+  d_main_20_08_e_15:
+    speaker: Self
+    en: Run towards the Counters.
+    ko: 카운터스를 향해 달린다.
+    ja: カウンターズに向かって走る
+  d_main_20_08_e_16:
+    speaker: rapi
+    en: She's getting ready to attack!
+    ko: "…니힐리스타, 공격 준비 중!"
+    ja: "…ニヒリスター、攻撃準備中！"
+  d_main_20_08_e_17:
+    speaker: anis
+    en: Dragon breath, incoming!
+    ko: 설마, 그 드래곤 브레스 같은 걸 쏘는 건 아니겠지?
+    ja: まさか、あのドラゴンブレスみたいなのを\n撃つつもりじゃないよね？
+  d_main_20_08_e_18:
+    speaker: neon
+    en: Get behind cover!
+    ko: 엄폐물! 엄폐물 뒤로 숨어요!
+    ja: 遮蔽物！遮蔽物の後ろに隠れましょう！
+  d_main_20_08_e_19:
+    speaker: Monologue
+    en: Just as the dragon opens its mouth, I hurl myself behind a nearby wall.
+    ko: 가까운 벽 뒤로 몸을 날린 순간.
+    ja: 近くの壁の後ろに飛び込んだ瞬間
+  d_main_20_08_e_20:
+    speaker: Monologue
+    en: Almost immediately after,
+    ko: 하늘을 가린 거대한 기계 용의 주둥이가 열렸고,
+    ja: 空を覆った巨大な機械の竜の口が開き
+  d_main_20_08_e_21:
+    speaker: Monologue
+    en: scorching flames hot enough to melt steel swoosh by me.
+    ko: 곧이어 강철마저 녹일 듯한 고열이 쇄도했다.
+    ja: 鋼鉄まで溶かしそうな高熱が吐き出された
+  d_main_20_08_e_22:
+    speaker: Narration
+    en: "*Whoooooo*"
+    ko: 콰아아아-
+    ja: グアアア！
+  d_main_20_08_e_23:
+    speaker: rapi
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20_08_e_24:
+    speaker: anis
+    en: I can't believe this. Our cover is melting!
+    ko: 이런 미친, 엄폐물이 녹고 있잖아!
+    ja: ウソでしょ？遮蔽物が溶けてる！
+  d_main_20_08_e_25:
+    speaker: neon
+    en: We need to figure something out, or we're gonna end up getting one heck of
+      a suntan!
+    ko: 이대로 가면 더 이상 숨을 곳이 없어질 거예요!
+    ja: このままじゃ、身を隠す場所がなくなります！
+  d_main_20_08_e_26:
+    speaker: Self
+    en: Let's get out of here.
+    ko: 일단 밖으로 도망치자!
+    ja: ひとまず外に逃げよう！
+d_main_20_09:
+  d_main_20_09_1:
+    speaker: Narration
+    en: "*Crash*"
+    ko: 콰아앙…!
+    ja: ドオオン…！
+  d_main_20_09_2:
+    speaker: johan
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20_09_3:
+    speaker: isabel
+    en: Commander, the fire...!
+    ko: 지휘관, 니힐리스타의 불길이…!
+    ja: 指揮官、ニヒリスターの炎が…！
+  d_main_20_09_4:
+    speaker: johan
+    en: Listen up, everyone.
+    ko: "…전원은 들어라."
+    ja: "…全員聞いてくれ。"
+  d_main_20_09_5:
+    speaker: johan
+    en: From now on, our main priority is to rendezvous with the Counters.
+    ko: 지금부터 최우선 목표를 카운터스와의 합류로 변경.
+    ja: 只今より最優先目標を\nカウンターズとの合流に変更。
+  d_main_20_09_6:
+    speaker: johan
+    en: Get in FF Formation. We're going in.
+    ko: 포메이션 FF, 최단 거리로 이동한다.
+    ja: フォーメーションFF、最短距離で移動する。
+  d_main_20_09_7:
+    speaker: dorothy
+    en: Commander, wait.
+    ko: "…잠깐만요, 지휘관."
+    ja: "…お待ちください、指揮官。"
+  d_main_20_09_8:
+    speaker: dorothy
+    en: Is rushing in like this really necessary?
+    ko: 이렇게까지 서두를 필요가 있나요?
+    ja: そこまで急ぐ必要がありますか？
+  d_main_20_09_9:
+    speaker: dorothy
+    en: Why don't we simply let this play out?
+    ko: 저대로 조금만 더 내버려두죠.
+    ja: あのままもう少し放っておきましょうよ。
+  d_main_20_09_10:
+    speaker: dorothy
+    en: Even Nihilister has her limits.
+    ko: 니힐리스타라고 무한한 동력을 지닌 게 아니에요.
+    ja: ニヒリスターだって、\n無限の動力を持っているわけではありません。
+  d_main_20_09_11:
+    speaker: dorothy
+    en: She's bound to exhaust herself eventually.
+    ko: "저렇게 앞뒤 안 가리고 날뛰다 보면 \n언젠가 화력이 떨어질 때가 오겠죠."
+    ja: |-
+      ああやって見境なく暴れていれば
+      いつか火力が落ちる時が来るはずです。
+  d_main_20_09_12:
+    speaker: dorothy
+    en: That's when we move in.
+    ko: 그때 우리가 난입하면 돼요.
+    ja: そこに私たちが乱入すればいいのでは？
+  d_main_20_09_13:
+    speaker: johan
+    en: Harran, what do you think?
+    ko: "…하란, 네 생각은 어떻지?"
+    ja: "…ハラン、お前はどう思う？"
+  d_main_20_09_14:
+    speaker: harran
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_09_15:
+    speaker: harran
+    en: Well,
+    ko: "…흠, 글쎄."
+    ja: "…うーん、さあね。"
+  d_main_20_09_16:
+    speaker: harran
+    en: it wasn't easy getting to Eden,
+    ko: 기껏 번거로운 시련까지 내려서 낙원에 들였는데….
+    ja: せっかく面倒な試練を課してまで\n楽園に入れたんだから…
+  d_main_20_09_17:
+    speaker: harran
+    en: so I'm willing to do whatever it takes to protect it, even if it means giving
+      up my life.
+    ko: 죽을 때 죽더라도 제 몫을 하는 모습은 보고 싶구나.
+    ja: 死ぬとしても、活躍している姿は見たいかもね。
+  d_main_20_09_18:
+    speaker: johan
+    en: Noah?
+    ko: "…노아."
+    ja: "…ノア。"
+  d_main_20_09_19:
+    speaker: noah
+    en: You're asking me what I think?
+    ko: 엥. 내 생각 묻는 거?
+    ja: えっ。私の意見も聞くの？
+  d_main_20_09_20:
+    speaker: noah
+    en: Of course I respect how Dorothy feels, but...
+    ko: 나야 뭐, 도로시 생각도 존중은 하는데….
+    ja: 私はまあ、ドロシーの考えも尊重はするけど…
+  d_main_20_09_21:
+    speaker: noah
+    en: We aren't weaklings like those Counters,
+    ko: 우리가 저 카운터스인지 뭔지 하는 애들처럼 약골도 아니고.
+    ja: 私たちはカウンターズだか何だかって子たち\nみたいに弱虫でもないし。
+  d_main_20_09_22:
+    speaker: noah
+    en: and I'm tired of just waiting around.
+    ko: 솔직히 계속 대기만 타는 건 좀 답답하긴 하즤~
+    ja: 正直、ずっと待機してるのは\nもどかしいってのもあるよね～
+  d_main_20_09_23:
+    speaker: johan
+    en: Isabel?
+    ko: 이사벨, 너는….
+    ja: イサベル、お前は…
+  d_main_20_09_24:
+    speaker: isabel
+    en: Do you even have to ask?
+    ko: 굳이 물으실 것 있나요.
+    ja: わざわざ尋ねる必要がありますか？
+  d_main_20_09_25:
+    speaker: isabel
+    en: I'll go along with whatever you decide.
+    ko: 뭐든 지휘관이 원하시는 대로 해온 것을.
+    ja: これまで通り、指揮官の\n仰せのままに。
+  d_main_20_09_26:
+    speaker: johan
+    en: So it's settled.
+    ko: "…들었나? 그렇다는군."
+    ja: "…聞いたか？そういうことだ。"
+  d_main_20_09_27:
+    speaker: dorothy
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_09_28:
+    speaker: dorothy
+    en: Unbelievable.
+    ko: "…하."
+    ja: "…ハァ。"
+  d_main_20_09_29:
+    speaker: dorothy
+    en: What's gotten into all of you?
+    ko: 다들 갑자기 왜 이러시는 거죠?
+    ja: みなさん、\n急にどうしちゃったんですか？
+  d_main_20_09_30:
+    speaker: dorothy
+    en: Did you all sneak into the Ark and get implanted with NIMPH?
+    ko: 그 사이에 방주에 가서 NIMPH라도 심고 오셨나요?
+    ja: いつの間にかアークに行って\nNIMPHでも埋めて来ました？
+  d_main_20_09_31:
+    speaker: dorothy
+    en: I brought the Counters along so they could take the brunt of the attack.
+    ko: 기껏 제가 여러분을 대신할 총알받이를 구해서.
+    ja: せっかく私がみなさんの代わりとなる\n弾よけを手に入れて、
+  d_main_20_09_32:
+    speaker: dorothy
+    en: I did it to protect all of you.
+    ko: 편하고, 쉬운 길로 가게 해 드리겠다는데.
+    ja: 簡単で、楽な道を作ってあげようとしたのに。
+  d_main_20_09_33:
+    speaker: dorothy
+    en: I don't understand what the problem is.
+    ko: 대체 뭐가 그렇게 불만인 건지 모르겠군요.
+    ja: 何がそんなに不満なのか分かりませんね。
+  d_main_20_09_34:
+    speaker: dorothy
+    en: Also, in case everyone forgot,
+    ko: 게다가, 다들 잊고 있는 것 같지만.
+    ja: しかも、みなさんお忘れのようですが。
+  d_main_20_09_35:
+    speaker: dorothy
+    en: even after we defeat Nihilister, this is all far from over.
+    ko: 니힐리스타 하나를 처리한다고 끝이 아니에요.
+    ja: ニヒリスターを処理したからといって、\n終わりではありません。
+  d_main_20_09_36:
+    speaker: dorothy
+    en: The Queen has many more subordinates under her command, ones even stronger
+      than Nihilister.
+    ko: "퀸의 정예는 그 외에도 더 있고. \n심지어 그들은 더 강하기까지 하죠."
+    ja: |-
+      クイーンの精鋭は他にもいます。
+      しかももっと強力な精鋭たちが。
+  d_main_20_09_37:
+    speaker: dorothy
+    en: To them, Eden is nothing but a pesky thorn in their side.
+    ko: 그들 모두가 우리 낙원을 눈엣가시처럼 여기고 있는데.
+    ja: そして、彼ら全員が\nこの楽園を目の敵にしています。
+  d_main_20_09_38:
+    speaker: dorothy
+    en: That's why I've formulated a strategy where we'll be able to minimize any
+      casualties on our end. So why...?!
+    ko: 그래서 아군의 손해를 최소화할 방법을 제시한 건데, 왜…!
+    ja: だから味方の被害を\n最小限に抑える方法を提示したのに…！
+  d_main_20_09_39:
+    speaker: harran
+    en: "... Dorothy."
+    ko: "…도로시."
+    ja: "…ドロシー。"
+  d_main_20_09_40:
+    speaker: harran
+    en: We're usually happy to do whatever you say,
+    ko: 우리가 비록 평소에 널 따르지만.
+    ja: 私たちが普段お前に従うのは、
+  d_main_20_09_41:
+    speaker: harran
+    en: but that was because you never once forced us to cross the line.
+    ko: 그건 어디까지나 네가, 우리의 긍지를 저버리지 않는 선 안에서 움직였기 때문이란다.
+    ja: お前が、私たちの誇りを\n裏切らない範囲内で動いていたからよ。
+  d_main_20_09_42:
+    speaker: noah
+    en: We've always put up with your schemes and subterfuge because we weren't directly
+      involved.
+    ko: 맞음. 중상모략도 좋고, 함정도 다 오케이인데.
+    ja: そうそう。悪口も罠も全部オッケーだけど
+  d_main_20_09_43:
+    speaker: noah
+    en: But this is different.
+    ko: 그것도 우리한테 분량 몰아주는 선에서 해야될 거 아냐?
+    ja: 私たちにだって許せないことがあるんだからね？
+  d_main_20_09_44:
+    speaker: isabel
+    en: Also, their commander,
+    ko: "…게다가 그 사람."
+    ja: "…しかもあの人。"
+  d_main_20_09_45:
+    speaker: isabel
+    en: is fighting to liberate all Nikkes.
+    ko: 니케의 해방을 위해 싸우고 싶다고 했어.
+    ja: ニケを解放するために戦いたいって言ってたわ。
+  d_main_20_09_46:
+    speaker: isabel
+    en: If I'd met someone who thought like that sooner,
+    ko: 난 만일… 좀 더 일찍 그런 사람과 만났다면.
+    ja: もし…もう少し早くそんな人と\n会えていたら。
+  d_main_20_09_47:
+    speaker: isabel
+    en: I would have rather remained in the Ark than come here.
+    ko: 이곳으로 오는 대신, 방주를 택했을지도 몰라.
+    ja: ここに来る代わりに、\nアークを選んでいたかもしれないわ。
+  d_main_20_09_48:
+    speaker: dorothy
+    en: The Ark... The Ark.
+    ko: "방주. \n…방주라."
+    ja: |-
+      アーク。
+      …アークですか。
+  d_main_20_09_49:
+    speaker: dorothy
+    en: I'm glad you brought it up.
+    ko: 말 한번 잘 꺼냈군요, 이사벨.
+    ja: よくもそんなことが言えますね、イサベル。
+  d_main_20_09_50:
+    speaker: dorothy
+    en: Don't you all despise the Ark? Detest everything about it?
+    ko: 당신들 모두 방주에 있는 것들을 경멸했던 게 아니었나요?
+    ja: あなたたちは、\nアークにあるものを軽蔑していたのでは？
+  d_main_20_09_51:
+    speaker: dorothy
+    en: Especially you, Commander. You were the most vehement of anyone.
+    ko: 특히 지휘관, 당신이 가장 심했죠.
+    ja: 特に指揮官、あなたが一番ひどかったですよね。
+  d_main_20_09_52:
+    speaker: dorothy
+    en: After all you've done for that place, what has it ever done to thank you?
+    ko: 방주는… 당신이 그곳을 위해 이뤄낸 모든 걸 부정했으니까!
+    ja: アークは…あなたがアークのために\nしてきたすべてを否定したから！
+  d_main_20_09_53:
+    speaker: dorothy
+    en: Fine then, join up with a commander from the Ark.
+    ko: 그러니까 당신이 방주의 지휘관 하나 이용한다고 해서.
+    ja: だから、あなたがアークの指揮官を\n利用したとしても、
+  d_main_20_09_54:
+    speaker: dorothy
+    en: It won't tarnish Eden's reputation in the slightest.
+    ko: 에덴의 긍지는 터럭만큼도 상할 게 없어요.
+    ja: エデンの誇りは\n少しも傷ついたりしないのに。
+  d_main_20_09_55:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_09_56:
+    speaker: johan
+    en: I used to think like that too.
+    ko: 한때는 나도 그렇게 생각했다.
+    ja: かつては私もそう思っていた。
+  d_main_20_09_57:
+    speaker: johan
+    en: But meeting you made me realize something.
+    ko: 하지만 너라는 존재를 겪어보고 깨달았지.
+    ja: しかし、お前という存在が\n気づかせてくれたんだ。
+  d_main_20_09_58:
+    speaker: johan
+    en: What I hated was not the Ark, nor the people in it.
+    ko: "내가 경멸했던 건 \n방주도, 방주의 인간도 아니라."
+    ja: |-
+      私が軽蔑していたのは
+      アークでもアークの人間でもなく
+  d_main_20_09_59:
+    speaker: johan
+    en: It was the abhorrent rhetoric you were spewing earlier today.
+    ko: 오늘 네가 뱉어낸 것 같은, 역겨운 사상이라는 걸.
+    ja: 今日お前が言い捨てたような、\n虫唾が走る思想だということを。
+  d_main_20_09_60:
+    speaker: dorothy
+    en: You... you've all gone insane...
+    ko: 뭐라… 고요?
+    ja: 何…ですって？
+  d_main_20_09_61:
+    speaker: johan
+    en: Let's go.
+    ko: "…가자."
+    ja: "…行くぞ。"
+  d_main_20_09_62:
+    speaker: isabel
+    en: Yes, Commander.
+    ko: 네, 지휘관.
+    ja: はい、指揮官。
+  d_main_20_09_63:
+    speaker: noah
+    en: Woohoo!
+    ko: 예이~!
+    ja: イェーイ！
+  d_main_20_09_64:
+    speaker: harran
+    en: About time we got a real battle around here!
+    ko: "…후후, 이제야 전투다운 전투를 해보겠구나."
+    ja: "…ふふ、やっと戦闘らしい戦闘ができるのね。"
+d_main_20_10_s:
+  d_main_20_10_s_1:
+    speaker: Narration
+    en: "*Crash*"
+    ko: 콰앙-!!
+    ja: バンッ！！
+  d_main_20_10_s_2:
+    speaker: nihilister
+    en: Hahaha!!
+    ko: 하하하!!
+    ja: アハハ！！
+  d_main_20_10_s_3:
+    speaker: nihilister
+    en: Aren't you tired of running like a dog?
+    ko: 개처럼 뛰어다니는 것도 이제 슬슬 질리지 않아?
+    ja: イヌみてえに走り回んのも、\nそろそろ飽きてきただろ？
+  d_main_20_10_s_4:
+    speaker: nihilister
+    en: Come out and face me!
+    ko: 도망만 다니지 말고, 좀 제대로 나와 싸워 보자고!!
+    ja: 逃げてばっかりいねーで、\n表に出てきて俺と戦おうぜ！
+  d_main_20_10_s_5:
+    speaker: nihilister
+    en: I promise to make it quick.
+    ko: 더 따뜻하고 기분 좋게 지져줄 테니까, 응?
+    ja: もっとあったかく\n気持ちよーく焼いてやるからよお、なぁ？
+  d_main_20_10_s_6:
+    speaker: Narration
+    en: "*Shoosh* *Crash*"
+    ko: 피슝-- 쾅!!
+    ja: シューン、バンッ！！
+  d_main_20_10_s_7:
+    speaker: rapi
+    en: Status report.
+    ko: "…다들 상태는 어때."
+    ja: "…みんな、大丈夫？"
+  d_main_20_10_s_8:
+    speaker: neon
+    en: Damage 44.33%. Concentrated on the exterior.
+    ko: "…파손율 44.33%. 손상은 외피에 집중되어 있어요."
+    ja: "…破損率44.33％。\\n損傷は外皮に集中しています。"
+  d_main_20_10_s_9:
+    speaker: papillon
+    en: Damage 39.92%. Avoided frontal burns, but other areas are heavily affected.
+    ko: 파손율 39.92%. 안면화상은 피했지만, 그뿐인 것 같네.
+    ja: 破損率39.92％。\n顔のやけどだけはなんとか避けたわ。
+  d_main_20_10_s_10:
+    speaker: anis
+    en: Damage 48.43%. Mostly burns here as well.
+    ko: 파손율 48.43%. 이쪽도 대부분 화상이야.
+    ja: 破損率48.43％。こっちもほとんどやけどよ。
+  d_main_20_10_s_11:
+    speaker: anis
+    en: I set the pain sensor as low as possible, but...
+    ko: 통각 센서를 최대한 낮춰보곤 있는데….
+    ja: 痛覚センサーを\nできるだけ下げてはいるけど…
+  d_main_20_10_s_12:
+    speaker: anis
+    en: I still feel like my body is going numb.
+    ko: 그걸 감안하고서라도 기능이 마비되는 게 느껴져.
+    ja: それを差し引いても、\n機能がマヒしてる感じがするわ。
+  d_main_20_10_s_13:
+    speaker: anis
+    en: I'm not sure how much longer I can go.
+    ko: "…솔직히 이제 한계야."
+    ja: "…正直もう限界ね。"
+  d_main_20_10_s_14:
+    speaker: Self
+    en: Should we... use the Vapaus?
+    ko: 언체인드를… 사용해야 할까.
+    ja: アンチェインドを…使うべきだろうか
+  d_main_20_10_s_15:
+    speaker: neon
+    en: What? No.
+    ko: 아뇨? 싫어요.
+    ja: え？嫌です。
+  d_main_20_10_s_16:
+    speaker: neon
+    en: And defeat the entire purpose of us coming here?
+    ko: 지금까지 한 걸 다 헛수고로 만드는 거잖아요!
+    ja: 今までやってきたことが、\n水の泡になるじゃないですか！
+  d_main_20_10_s_17:
+    speaker: anis
+    en: What she said.
+    ko: 그래, 지휘관님.
+    ja: そうよ、指揮官様。
+  d_main_20_10_s_18:
+    speaker: anis
+    en: I don't want you to give up because of us, Commander.
+    ko: 우리 때문에 지휘관님이 포기하는 건 별로 보고 싶지 않아.
+    ja: 私たちのせいで指揮官様が諦めるところは\n見たくないな。
+  d_main_20_10_s_19:
+    speaker: anis
+    en: Besides, you never know.
+    ko: "…게다가 혹시 모르잖아?"
+    ja: "…それに、もしかしたらって\\nこともあるでしょ？"
+  d_main_20_10_s_20:
+    speaker: anis
+    en: If we hold out just a little longer, maybe Johan and his crew will show up.
+    ko: 이 악물고 버티면, 요한이랑 인헤르트 애들이 합류하러 올지….
+    ja: 必死に耐えていれば、\nヨハンとインヘルトが合流しに来るかも…
+  d_main_20_10_s_21:
+    speaker: rapi
+    en: Don't count on it.
+    ko: "…가능성은 높지 않다고 봐."
+    ja: "…その可能性は低いと思う。"
+  d_main_20_10_s_22:
+    speaker: anis
+    en: I know. I'm just hoping against hope.
+    ko: 알아. 그냥 뭐라도 믿어보자는 거야.
+    ja: 分かってる。ただ信じてみようってことよ。
+  d_main_20_10_s_23:
+    speaker: Self
+    en: Thank you. All of you.
+    ko: 고마워, 다들.
+    ja: ありがとう、みんな
+  d_main_20_10_s_24:
+    speaker: anis
+    en: So, what's the plan?
+    ko: "…그래서, 뭔가 계획 없어?"
+    ja: "…それで、何か作戦はあるの？"
+  d_main_20_10_s_25:
+    speaker: anis
+    en: You and Johan talked for eons about how to potentially defeat Nihilister.
+    ko: 왜, 전에 가상의 니힐리스타전이 어쩌고 하면서.
+    ja: 前に仮想のニヒリスター戦の訓練で\nどうこう言ってたでしょ。
+  d_main_20_10_s_26:
+    speaker: anis
+    en: Any chance you remember one of those options?
+    ko: 요한이랑 꽤 치열하게 주고 받으면서 고민했던 것 같은데.
+    ja: ヨハンとかなり白熱した\nやり取りをしてたみたいだけど。
+  d_main_20_10_s_27:
+    speaker: Self
+    en: There are some methods that come to mind.
+    ko: 몇 가지 떠오르는 방법은 있어.
+    ja: いくつか思いつく作戦はある
+  d_main_20_10_s_28:
+    speaker: anis
+    en: Good.
+    ko: 좋아.
+    ja: よし。
+  d_main_20_10_s_29:
+    speaker: anis
+    en: Let's use 'em all, and throw in the kitchen sink for good measure.
+    ko: "…뭐가 됐든, 플랜 A부터 F까지 다 써 보자고."
+    ja: "…どうなろうと、\\nプランAからFまで全部やってみましょ。"
+d_main_20_10_e:
+  d_main_20_10_e_1:
+    speaker: nihilister
+    en: I feel... pain!
+    ko: 아… 아프네.
+    ja: くそ…痛えな。
+  d_main_20_10_e_2:
+    speaker: nihilister
+    en: How long has it been since I felt pain like this?
+    ko: 꽤 오랜만에 느껴보는 통증이잖아, 이거.
+    ja: 痛みを感じるのは久しぶりだ。
+  d_main_20_10_e_3:
+    speaker: nihilister
+    en: How unfortunate that I'll only experience it
+    ko: 그런데 어쩌지?
+    ja: でも、参ったぜ。
+  d_main_20_10_e_4:
+    speaker: nihilister
+    en: for a few precious seconds.
+    ko: 이 유쾌한 걸 고작 몇 초도 못 느껴봐서?
+    ja: この愉快な感覚も、\nたった数秒しか感じられねえなんてな。
+  d_main_20_10_e_5:
+    speaker: Narration
+    en: "*Crack* *Crunch*"
+    ko: "우드득. \n콰드득."
+    ja: |-
+      ボキッ
+      バキッ
+  d_main_20_10_e_6:
+    speaker: anis
+    en: She's healing herself again!
+    ko: 또 자가수복 중이야…! 괴물 같은 자식!
+    ja: また自己修復…！怪物みたいな奴！
+  d_main_20_10_e_7:
+    speaker: neon
+    en: Any other ideas, Master?
+    ko: 스승님! 다음 작전은 없나요?
+    ja: 師匠！次の作戦はありませんか？
+  d_main_20_10_e_8:
+    speaker: Self
+    en: Sorry,
+    ko: "…미안해."
+    ja: "…すまない"
+  d_main_20_10_e_9:
+    speaker: Self
+    en: I've exhausted all the options.
+    ko: 더 이상은 생각해둔 작전이 없어.
+    ja: もう思いつく作戦はない
+  d_main_20_10_e_10:
+    speaker: papillon
+    en: I hate to say it,
+    ko: "…허니! 이렇게 된 거 그냥 써 버려."
+    ja: "…ハニー！こうなったらもう、使っちゃってよ。"
+  d_main_20_10_e_11:
+    speaker: papillon
+    en: but we're caught between a rock and hard place, Honey.
+    ko: 그 언체인든가 뭔가 하는 무기 말이야.
+    ja: あのアンチェインドとかっていう武器。
+  d_main_20_10_e_12:
+    speaker: papillon
+    en: Just use that Vapaus or whatever it's called.
+    ko: 솔직히 버틸 수 있는 만큼은 버텼잖아, 우리도!
+    ja: 正直、私たちも結構がんばったと思うわよ！
+  d_main_20_10_e_13:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_10_e_14:
+    speaker: Narration
+    en: "*Click*"
+    ko: 철컥-
+    ja: カチャッ
+  d_main_20_10_e_15:
+    speaker: Monologue
+    en: Point the gun towards Nihilister.
+    ko: 니힐리스타를 향해 총을 겨누었다.
+    ja: ニヒリスターに向けて銃を構えた
+  d_main_20_10_e_16:
+    speaker: nihilister
+    en: What do we have here?
+    ko: "…오, 뭐야."
+    ja: "…おっ、何？"
+  d_main_20_10_e_17:
+    speaker: nihilister
+    en: I presume that's loaded with Vapaus?
+    ko: 그 안에 언체인드가 들었어?
+    ja: その中にアンチェインドが？
+  d_main_20_10_e_18:
+    speaker: Self
+    en: That's right.
+    ko: "…그래."
+    ja: "…ああ"
+  d_main_20_10_e_19:
+    speaker: nihilister
+    en: Well, what are you waiting for?
+    ko: 그렇다면 당장 쏴 봐!
+    ja: じゃあ、なに迷ってんだ？
+  d_main_20_10_e_20:
+    speaker: nihilister
+    en: Shoot me! I dare you!
+    ko: 내게 유효타를 줘 보라고-!!
+    ja: 今すぐ撃ってみろよ！
+  d_main_20_10_e_21:
+    speaker: nihilister
+    en: I'll rejuvenate in no time and grind you all to dust.
+    ko: 어차피 수복하고 나면, 내가 너희들을 일방적으로 짓밟을 텐데.
+    ja: どうせ自己修復さえしちまえば、\nお前らなんか虫けら同然だからな。
+  d_main_20_10_e_22:
+    speaker: nihilister
+    en: That puny bullet of yours won't stop me.
+    ko: 이거라도 먹혀야 조금이라도 상대가 될 거 아냐? 응?
+    ja: それでも食らっとけば\n少しは楽しませてくれんだろ？
+  d_main_20_10_e_23:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_10_e_24:
+    speaker: Monologue
+    en: I don't want to do this,
+    ko: 이걸 여기서 써버릴 순 없다.
+    ja: これをここで使うわけにはいかない
+  d_main_20_10_e_25:
+    speaker: Monologue
+    en: but I'm out of options.
+    ko: 그렇다고 싸움을 지속하기엔, 카운터스도 한계다.
+    ja: だからといって、\n戦闘を続けるにはカウンターズも限界だ
+  d_main_20_10_e_26:
+    speaker: harran
+    en: The paradise that you're imagining, where Nikkes and humans live in harmony.
+    ko: 네가 상상한 [니케와 인간이 어우러진 낙원]이라는 건.
+    ja: お前が想像した\n「ニケと人間が共に暮らす楽園」っていうのは
+  d_main_20_10_e_27:
+    speaker: harran
+    en: Is it a place where Nikkes serve humans unilaterally?
+    ko: 다 죽어가는 랩쳐 틈에서도 차마 살아남지 못하는,
+    ja: 死にかけのラプチャー相手でも\n生き残れないような、
+  d_main_20_10_e_28:
+    speaker: harran
+    en: You know, because humans can't even defend themselves against Raptures?
+    ko: 나약한 인간을 위해 니케가 일방적으로 봉사하는 곳이니?
+    ja: 弱い人間のために、\nニケが一方的に奉仕する場所なの？
+  d_main_20_10_e_29:
+    speaker: Self
+    en: "... No."
+    ko: "…아니."
+    ja: "…いや"
+  d_main_20_10_e_30:
+    speaker: Monologue
+    en: I lower the gun.
+    ko: 니힐리스타에게 겨누었던 총을 내렸다.
+    ja: ニヒリスターに向けていた銃を下ろした
+  d_main_20_10_e_31:
+    speaker: nihilister
+    en: Hmm?
+    ko: "…호오."
+    ja: "…へえ。"
+  d_main_20_10_e_32:
+    speaker: nihilister
+    en: You'll throw away your only chance of survival?
+    ko: 마지막 살 길을 제 발로 걷어차 버리겠다?
+    ja: 最後の生きる希望さえ\n自分で捨てちまうってわけ？
+  d_main_20_10_e_33:
+    speaker: Self
+    en: Walk towards Nihilister.
+    ko: 니힐리스타를 향해 걸어간다.
+    ja: ニヒリスターに向かって歩いていく
+  d_main_20_10_e_34:
+    speaker: nihilister
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20_10_e_35:
+    speaker: nihilister
+    en: You really have lost it.
+    ko: 아, 그냥 미쳐버린 건가.
+    ja: ああ、もうおかしくなっちまったのか。
+  d_main_20_10_e_36:
+    speaker: nihilister
+    en: Not that it matters. As long as I can open you up...
+    ko: 뭐, 나야 상관없지. 몸만 뜯어볼 수 있다면….
+    ja: まあ、どっちでもいいや。\n体の中さえ見れんなら…
+  d_main_20_10_e_37:
+    speaker: Monologue
+    en: I can see a bomb planted near Nihilister's feet.
+    ko: "…니힐리스타의 발치에 떨어진 불발탄이 보인다."
+    ja: "…ニヒリスターの足元に不発弾が落ちている"
+  d_main_20_10_e_38:
+    speaker: Monologue
+    en: If I can reach it, then I could...
+    ko: 약간의 충격만 가하면, 저것으로도…!
+    ja: 少しの衝撃さえ加えれば、あれでも…！
+  d_main_20_10_e_39:
+    speaker: unknown
+    en: You fool, you'll kill us all!
+    ko: "…자살이라도 할 셈이냐, 멍청한 놈."
+    ja: "…自滅する気か？愚か者め。"
+  d_main_20_10_e_40:
+    speaker: Narration
+    en: "*Baaaaaaang*"
+    ko: 투콰아앙-!!
+    ja: バァーン！！
+  d_main_20_10_e_41:
+    speaker: Monologue
+    en: The walls of the base come crumbling down, and there is a hail of gunfire.
+    ko: 기지의 벽이 터져나가며 총탄 세례가 쏟아졌다.
+    ja: 基地の壁が爆発し、銃弾が降り注いだ
+  d_main_20_10_e_42:
+    speaker: Monologue
+    en: As I'm thrown back by the impact, the gun slips from my grasp.
+    ko: 충격에 몸이 날아가며 내 손에서 총이 미끄러졌고.
+    ja: 銃撃で体が吹き飛び、私の手から銃が滑り落ちる
+  d_main_20_10_e_43:
+    speaker: Monologue
+    en: Amidst the chaos, someone picks up the weapon.
+    ko: 혼란 속에서 누군가가 그것을 주워들었다.
+    ja: 誰かがそれを拾い上げた
+  d_main_20_10_e_44:
+    speaker: johan
+    en: Consider this a valuable lesson.
+    ko: "…지금부터 그 희생적인 머리통에 새겨둬라."
+    ja: "…今からその献身的な頭に刻み込め。"
+  d_main_20_10_e_45:
+    speaker: Narration
+    en: "*snap*"
+    ko: 철컥-
+    ja: カチャッ
+  d_main_20_10_e_46:
+    speaker: johan
+    en: How can you expect to save someone else,
+    ko: 자기 자신도 구원하지 못하는 놈에게.
+    ja: 自分自身も救えない奴に
+  d_main_20_10_e_47:
+    speaker: johan
+    en: when you can't even save yourself?
+    ko: 타인을 구원할 자격은 없다는 걸.
+    ja: 他人を救う資格などないということを。
+  d_main_20_10_e_48:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 탕-!!
+    ja: パンッ！！
+  d_main_20_10_e_49:
+    speaker: Monologue
+    en: Nihilister's body begins to convulse violently.
+    ko: 니힐리스타의 몸이 크게 휘청거렸다.
+    ja: ニヒリスターの体が大きくふらついた
+  d_main_20_10_e_50:
+    speaker: nihilister
+    en: You shot me!
+    ko: 이건… 언체인드?
+    ja: これは…アンチェインド？
+  d_main_20_10_e_51:
+    speaker: nihilister
+    en: You actually did it...?!
+    ko: 정말로 이걸, 내게 쏘다니….
+    ja: マジでこれを、俺に撃つなんて…
+  d_main_20_10_e_52:
+    speaker: nihilister
+    en: Ha...
+    ko: 하….
+    ja: ハァ…
+  d_main_20_10_e_53:
+    speaker: nihilister
+    en: Hahaha...
+    ko: 후후… 이거 정말.
+    ja: フフ…まったく。
+  d_main_20_10_e_54:
+    speaker: nihilister
+    en: You fools!
+    ko: 기가 막히게 한심한 것들이잖아-!!
+    ja: ホント情けねえ奴らだな！
+  d_main_20_10_e_55:
+    speaker: nihilister
+    en: You showed your hand far too soon.
+    ko: "좀 전부터 몇 번이고 그 안에 든 게 \n언체인드라고 지껄여놓고."
+    ja: |-
+      さっきから何回も、その中に入ってるのが
+      アンチェインドだってほざいておきながら
+  d_main_20_10_e_56:
+    speaker: nihilister
+    en: You didn't expect me to fall for that, did you?
+    ko: 설마 내가 얌전히 맞아주길 바란 건 아니겠지?
+    ja: 俺が大人しく当たってやるとでも？
+  d_main_20_10_e_57:
+    speaker: Monologue
+    en: Nihilister severs the arm where the bullet hit and instantly recovers.
+    ko: |-
+      니힐리스타는 탄환이 박힌 자신의 팔을 잘라낸 뒤,
+      삽시간에 수복했다.
+    ja: |-
+      ニヒリスターは弾丸が埋まった自分の腕を
+      切り落とし、あっという間に自己修復した
+  d_main_20_10_e_58:
+    speaker: nihilister
+    en: I'll be taking this with me. It may come in handy.
+    ko: "여기 박힌 건 내가 잘 받아갈게? \n마침 나도 쓸 데가 있어서 말이야."
+    ja: |-
+      埋まったやつは俺が持って帰るぞ？
+      ちょうど俺にも使い道があってな。
+  d_main_20_10_e_59:
+    speaker: johan
+    en: Don't leave just yet.
+    ko: "…그런가?"
+    ja: "…そうか？"
+  d_main_20_10_e_60:
+    speaker: johan
+    en: I've got another present for you.
+    ko: 그거 아쉽군.
+    ja: それは残念だ。
+  d_main_20_10_e_61:
+    speaker: Narration
+    en: "*Bang*"
+    ko: 탕-!!
+    ja: ドーンッ！！
+  d_main_20_10_e_62:
+    speaker: Monologue
+    en: Without any hesitation, Johan fires once again at Nihilister.
+    ko: 요한은 미동도 없이 니힐리스타에게 총을 격발했다.
+    ja: ヨハンは物怖じすることなく、\n再度ニヒリスターを撃った
+  d_main_20_10_e_63:
+    speaker: nihilister
+    en: What the...
+    ko: 뭐야….
+    ja: 何だよ…
+  d_main_20_10_e_64:
+    speaker: Narration
+    en: "*Bang* *Bang*"
+    ko: |-
+      탕-!!
+      탕-!!
+    ja: |-
+      バンッ！
+      バンッ！
+  d_main_20_10_e_65:
+    speaker: nihilister
+    en: What is this?
+    ko: 뭐야 이건.
+    ja: どうしちまったんだ？
+  d_main_20_10_e_66:
+    speaker: nihilister
+    en: Losing something so important to you must've driven you mad.
+    ko: 너무 중요한 걸 빼앗겨서 정신이 나갔어?
+    ja: 大事なものを奪われて、\nおかしくなっちまったのか？
+  d_main_20_10_e_67:
+    speaker: nihilister
+    en: Why else would you tickle with me with that peashooter?
+    ko: 그래서 이따위 평범한 탄환으로 날 간지럽히고 있는 거야?
+    ja: だから、こんな普通の弾丸で\n俺をくすぐってんのか？
+  d_main_20_10_e_68:
+    speaker: nihilister
+    en: Very well.
+    ko: "…뭐, 마음은 이해하겠는데."
+    ja: "…まあ、気持ちは分かるがな。"
+  d_main_20_10_e_69:
+    speaker: nihilister
+    en: If you insist on behaving like a fool, then I shall put an end to your misery.
+    ko: 자꾸 이렇게 툭툭 건들면 나도 봐주기 힘들ㅈ-!!
+    ja: 何度もやられっと、俺にも我慢の限界っても…！
+  d_main_20_10_e_70:
+    speaker: Monologue
+    en: Suddenly, Nihilister freezes.
+    ko: "…일순, 니힐리스타가 정지했다."
+    ja: "…一瞬、ニヒリスターが停止した"
+  d_main_20_10_e_71:
+    speaker: nihilister
+    en: Hmm? Wh... what's happening?
+    ko: |-
+      음?
+      이게… 무슨…!!
+    ja: |-
+      あ？
+      な…なんで…！！
+  d_main_20_10_e_72:
+    speaker: nihilister
+    en: Why am I not healing...
+    ko: 왜 자가수복이….
+    ja: なんで自己修復が…
+  d_main_20_10_e_73:
+    speaker: nihilister
+    en: Argh...! Ahhhhhhh!
+    ko: "크으윽…! \n으아아아악!!"
+    ja: |-
+      クッ…！
+      うああああっ！！
+  d_main_20_10_e_74:
+    speaker: johan
+    en: Now!
+    ko: 지금이다.
+    ja: 今だ。
+  d_main_20_10_e_75:
+    speaker: johan
+    en: Give her all you've got!
+    ko: "…전원, \n전탄을 퍼부어라."
+    ja: |-
+      …全員、
+      一斉射撃。
+  d_main_20_10_e_76:
+    speaker: isabel
+    en: Feather Electric, maximum firepower!
+    ko: |-
+      페더 전기,
+      최대 화력으로 전개!
+    ja: |-
+      フェザー全機、
+      最大火力で展開！
+  d_main_20_10_e_77:
+    speaker: nihilister
+    en: Uhhhhh...! Ahhhh!!
+    ko: 으으윽…! 크아아악!!
+    ja: ううっ…！グアアア！！
+  d_main_20_10_e_78:
+    speaker: noah
+    en: You didn't know my shield came equipped with a laser beam? Well, now you do!
+      Hehe!
+    ko: "방패에도 레이저 빔이 달린 거 몰랐지? \n그럼 지금부터 알아봐~ 풉."
+    ja: |-
+      盾にもレーザービームが\nついてるの知らなかったでしょ？
+      今度から覚えといてね～プッ。
+  d_main_20_10_e_79:
+    speaker: Narration
+    en: "*Jiiing* *Crash*"
+    ko: 지이잉-- 쾅!!
+    ja: ウィィーン、ドンッ！！
+  d_main_20_10_e_80:
+    speaker: Self
+    en: What just happened?
+    ko: 이게 어떻게 된 일이지?
+    ja: どうなってるんだ？
+  d_main_20_10_e_81:
+    speaker: johan
+    en: It's simple.
+    ko: 간단한 이야기다.
+    ja: 簡単な話だ。
+  d_main_20_10_e_82:
+    speaker: johan
+    en: Unchained wasn't the first bullet in the chamber.
+    ko: 네가 가진 첫번째 탄환은 언체인드가 아니었고.
+    ja: お前が持っていた銃の最初の弾丸は\nアンチェインドではない。
+  d_main_20_10_e_83:
+    speaker: johan
+    en: It was a gamble,
+    ko: 그렇게 널 속임으로써 니힐리스타까지 함께 속였다.
+    ja: そうしてお前を騙すことで、\nニヒリスターをも騙したのだ。
+  d_main_20_10_e_84:
+    speaker: johan
+    en: and I'm sorry that I lied to you, but the plan worked.
+    ko: "블러프에 대해서는 사과하지. \n…하지만 필요한 일이었다."
+    ja: |-
+      このことについては謝ろう。
+      …しかし必要なことだったんだ。
+  d_main_20_10_e_85:
+    speaker: johan
+    en: Get up.
+    ko: "…일어나라, @UserName."
+    ja: "…立て、@UserName。"
+  d_main_20_10_e_86:
+    speaker: johan
+    en: Now that she can't regenerate, it's time we sent her packing.
+    ko: "수복이 불가능해졌으니, \n헬레틱을 죽이는 건 이제부터다."
+    ja: |-
+      自己修復機能はもうなくなった。
+      ヘレティックを倒すのはここからだ。
+  d_main_20_10_e_87:
+    speaker: Monologue
+    en: Johan reaches out his hand.
+    ko: 요한이 손을 내밀었다.
+    ja: ヨハンが手を差し出した
+  d_main_20_10_e_88:
+    speaker: Self
+    en: Grab his hand and got up.
+    ko: 손을 잡고 일어난다.
+    ja: 手を掴んで起き上がる
+  d_main_20_10_e_89:
+    speaker: anis
+    en: Something's happening over there.
+    ko: "…저쪽도 뭔가 일단락됐나 보네."
+    ja: "…あっちも一段落したみたいね。"
+  d_main_20_10_e_90:
+    speaker: anis
+    en: Let's check it out. Our bodies may be a wreck, but our trigger fingers are
+      still functional!
+    ko: "우리도 가자. \n몸은 너덜너덜해도 총공격은 가능하니까!"
+    ja: |-
+      私たちも行きましょ。体はボロボロでも、
+      銃で攻撃くらいはできるでしょ！
+  d_main_20_10_e_91:
+    speaker: neon
+    en: Hit her where it hurts!
+    ko: "…예! 제가 맞은 부분만 집중해서 때려줄 거예요!"
+    ja: "…はい！私が撃たれた部分を\\n集中して攻撃しちゃいます！"
+  d_main_20_10_e_92:
+    speaker: Narration
+    en: "*Bang* *Bang* *Bang* *Bang*"
+    ko: 투두두두두두-!!
+    ja: ドドドドドドー！！
+  d_main_20_10_e_93:
+    speaker: nihilister
+    en: Argh, damn you wretched insects!
+    ko: "으으윽, 젠장…!! \n한 입 거리도 안 될 버러지들이-!!"
+    ja: |-
+      ううっ、チクショウ…！
+      俺の足元にも及ばぬ虫けらどもが！！
+  d_main_20_10_e_94:
+    speaker: harran
+    en: It's time to wrap this up.
+    ko: 슬슬 마무리지을 때가 온 것 같구나.
+    ja: そろそろ終わらせる時が来たようね。
+  d_main_20_10_e_95:
+    speaker: Narration
+    en: "*Click*"
+    ko: 철컥-
+    ja: カチャッ
+  d_main_20_10_e_96:
+    speaker: Monologue
+    en: Harran points her scythe towards Nihilister.
+    ko: 하란이 죽음의 낫을 니힐리스타에게 겨누었다.
+    ja: ハランが死の鎌をニヒリスターに向けた
+  d_main_20_10_e_97:
+    speaker: nihilister
+    en: Wait...
+    ko: |-
+      멈춰….
+      멈추라고.
+    ja: |-
+      やめろ…
+      やめろって。
+  d_main_20_10_e_98:
+    speaker: nihilister
+    en: I... I could kill for you.
+    ko: 그럼 내가… 너희들 대신 죽여줄 테니까.
+    ja: そしたら俺が…\nお前たちの代わりに殺してやるから。
+  d_main_20_10_e_99:
+    speaker: nihilister
+    en: I could still be of use to you!
+    ko: 이 손으로 죽여 주겠단 말이야-!
+    ja: この手で殺してやるからさぁ！
+  d_main_20_10_e_100:
+    speaker: nihilister
+    en: The Queen... I... I'll kill her myself!
+    ko: 퀸을-!!
+    ja: クイーンを！！
+  d_main_20_10_e_101:
+    speaker: dorothy
+    en: Hold your fire!
+    ko: "…사격을 멈추세요!"
+    ja: "…射撃を止めてください！"
+  d_main_20_10_e_102:
+    speaker: johan
+    en: What are you doing here?
+    ko: "!!"
+    ja: "！！"
+  d_main_20_10_e_103:
+    speaker: dorothy
+    en: Sorry that I'm late to the party.
+    ko: "…뒤늦게 끼어들게 되어 미안해요."
+    ja: "…今さら割り込んですみません。"
+  d_main_20_10_e_104:
+    speaker: dorothy
+    en: Just hear me out.
+    ko: 하지만 지금은 그런 걸 따질 때가 아닌 것 같군요.
+    ja: でも今はそんなことを\n言っている場合ではなさそうなので。
+  d_main_20_10_e_105:
+    speaker: johan
+    en: Sorry, not interested.
+    ko: "…아니, 이건 들을 필요도 없다."
+    ja: "…いや、耳を傾ける必要もない。"
+  d_main_20_10_e_106:
+    speaker: johan
+    en: We've got her where we want her. It's time to end this.
+    ko: 그저 살아남기 위한 발악일 뿐이야.
+    ja: ただ生き残るための\n悪あがきにすぎないだろう。
+  d_main_20_10_e_107:
+    speaker: dorothy
+    en: Nihilister.
+    ko: "…묻겠습니다, 니힐리스타."
+    ja: "…ニヒリスター。"
+  d_main_20_10_e_108:
+    speaker: dorothy
+    en: You said you would kill the Queen yourself. How?
+    ko: 여기서 다 죽어가는 당신이, 어떻게 퀸을 죽이겠다는 건가요?
+    ja: 死にかけのあなたが、\nどうやってクイーンを殺すというのですか？
+  d_main_20_10_e_109:
+    speaker: nihilister
+    en: I have... a plan.
+    ko: 내게… 계획이 있어.
+    ja: 俺に…計画がある。
+  d_main_20_10_e_110:
+    speaker: nihilister
+    en: One that I've been planning for a long time...
+    ko: 아주 오래 전부터 구상한….
+    ja: ずっと前から考えてたんだ…
+  d_main_20_10_e_111:
+    speaker: nihilister
+    en: Perhaps you have heard of Lilith's Body?
+    ko: 혹시 릴리스의 바디에 대해… 알고 있나?
+    ja: リリスのボディについて…知ってるか？
+  d_main_20_10_e_112:
+    speaker: Self
+    en: Lilith's Body?
+    ko: 릴리스의 바디라니?
+    ja: リリスのボディだと？
+  d_main_20_10_e_113:
+    speaker: nihilister
+    en: The Queen's predecessor and the only thing she neglected to take care of during
+      her time on the surface.
+    ko: "퀸의 전신이자… \n지상에 남은 유일한 미련이지…!"
+    ja: |-
+      クイーンの前身であり…
+      地上に残った唯一の未練さ…！
+  d_main_20_10_e_114:
+    speaker: nihilister
+    en: If Lilith's Body can be found, I will be able to kill the Queen.
+    ko: "그것만 찾고 나면, \n이 손으로 퀸을 죽여줄 테니까…."
+    ja: |-
+      それさえ見つかれば、
+      この手でクイーンを殺してやる…だから…
+  d_main_20_10_e_115:
+    speaker: nihilister
+    en: Please, get the Vapaus out of me!
+    ko: "일단 내 몸에서, \n이 빌어먹을 언체인드부터 꺼내…!!"
+    ja: |-
+      早く俺の体から
+      このクソアンチェインドを取り出せ…！！
+  d_main_20_10_e_116:
+    speaker: Narration
+    en: "*Shoosh*"
+    ko: 피슝-!
+    ja: プシューッ！
+  d_main_20_10_e_117:
+    speaker: liberalio
+    en: Silence.
+    ko: 시끄러워….
+    ja: うるさい…
+  d_main_20_10_e_118:
+    speaker: liberalio
+    en: Your loose tongue will be your undoing.
+    ko: "다들 왜 이리… \n떠들어대지 못해서 안달일까…?"
+    ja: |-
+      どうして…どうしてみんな、
+      そんなにおしゃべりが好きなの…？
+  d_main_20_10_e_119:
+    speaker: Monologue
+    en: A shiver courses through my entire body.
+    ko: "…몸에 스산한 한기가 돌았다."
+    ja: "…背筋が凍るような寒気を感じた"
+  d_main_20_10_e_120:
+    speaker: Monologue
+    en: A mysterious figure materializes, as if emerging from the ocean deep.
+    ko: 마치 심해에서 솟구친듯 고요한 그것은.
+    ja: まるで深海からわき上がってきたかのように\n静かなそれは
+  d_main_20_10_e_121:
+    speaker: Monologue
+    en: Without a sound, yet with a presence so oppressive that everyone could sense
+      it,
+    ko: 소리없이, 그럼에도 막대한 존재감으로 모두를 내리누르며.
+    ja: 音もなく、しかし絶大な存在感でみんなを圧倒し
+  d_main_20_10_e_122:
+    speaker: Monologue
+    en: the figure takes the fallen Nihilister and begins to leave.
+    ko: 축 처진 니힐리스타를 거두어갔다.
+    ja: ボロボロのニヒリスターを支えた
+  d_main_20_10_e_123:
+    speaker: isabel
+    en: Commander, should we attack?
+    ko: "…공격할까요, 지휘관?"
+    ja: "…指揮官、攻撃しましょうか？"
+  d_main_20_10_e_124:
+    speaker: johan
+    en: "... No."
+    ko: "…아니."
+    ja: "…いや。"
+  d_main_20_10_e_125:
+    speaker: johan
+    en: What you're seeing is just the tip of the iceberg.
+    ko: 눈 앞에 보이는 건 빙산의 일각이다.
+    ja: 目の前に見えているのは氷山の一角だ。
+  d_main_20_10_e_126:
+    speaker: johan
+    en: This is one opponent we don't stand a chance against.
+    ko: 지금의 전력으로 어떻게 해볼 수 있는 상대가 아니야.
+    ja: 今の戦力でどうにかできる相手じゃない。
+  d_main_20_10_e_127:
+    speaker: liberalio
+    en: A wise decision.
+    ko: 눈치가 빠르구나, 넌….
+    ja: 察しが良いね…
+  d_main_20_10_e_128:
+    speaker: liberalio
+    en: I suggest you lay low and tread softly.
+    ko: "그 머리로 앞으로는 더 낮게, \n조용히 움직이도록 해…."
+    ja: |-
+      その察しの良い頭を、これからはもっと低く
+      静かに動かすようにして…
+  d_main_20_10_e_129:
+    speaker: liberalio
+    en: The next time you awaken me,
+    ko: 다음에 너희가 날 깨웠을 땐….
+    ja: もし、今度また私を起こしたら…
+  d_main_20_10_e_130:
+    speaker: liberalio
+    en: this Eden of yours will become your tomb.
+    ko: 그 낙원이란 곳째로 심해에 수장시켜 줄 테니까….
+    ja: その時は、その楽園って場所ごと\n深海に葬るから…
+d_main_20af_01:
+  d_main_20af_01_1:
+    speaker: Monologue
+    en: "... I'm back."
+    ko: "…돌아왔다."
+    ja: "…帰ってきた"
+  d_main_20af_01_2:
+    speaker: Monologue
+    en: Not only was I unable to kill Nihilister,
+    ko: 니힐리스타도 죽이지 못하고.
+    ja: ニヒリスターも倒せず
+  d_main_20af_01_3:
+    speaker: Monologue
+    en: but I managed to waste the Vapaus that we'd spent so much time hunting down.
+    ko: 그 간절했던 언체인드조차 보존하지 못했지만.
+    ja: あんなに欲しかったアンチェインドさえ\n手に入れることはできなかったが
+  d_main_20af_01_4:
+    speaker: Monologue
+    en: Nevertheless, I made it back in one piece.
+    ko: 그럼에도, 돌아왔다.
+    ja: それでも、帰ってきた
+  d_main_20af_01_5:
+    speaker: neon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_6:
+    speaker: neon
+    en: Master, don't be too hard on yourself.
+    ko: "스승님, \n너무 자책하지 마세요."
+    ja: |-
+      師匠、
+      あまり自分を責めないでくださいね。
+  d_main_20af_01_7:
+    speaker: neon
+    en: We did everything we could.
+    ko: 그래도 우리가 할 수 있는 건 다 했잖아요….
+    ja: 私たちにやれることは\n全部やったじゃないですか…
+  d_main_20af_01_8:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_9:
+    speaker: rapi
+    en: Neon.
+    ko: 네온.
+    ja: ネオン。
+  d_main_20af_01_10:
+    speaker: rapi
+    en: Let's give the Commander some space.
+    ko: 잠시 혼자 내버려두자.
+    ja: しばらくはそっとしておこう。
+  d_main_20af_01_11:
+    speaker: anis
+    en: What a mission...
+    ko: 하아… 미치겠네, 정말.
+    ja: ハァ…ホントどうにかなりそう。
+  d_main_20af_01_12:
+    speaker: Narration
+    en: "*Jing*"
+    ko: 지잉-
+    ja: ウィーン…
+  d_main_20af_01_13:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_14:
+    speaker: Narration
+    en: "*Jing*"
+    ko: 지잉-
+    ja: ウィーン…
+  d_main_20af_01_15:
+    speaker: cecil
+    en: "... Just as I assumed."
+    ko: "…역시나."
+    ja: "…やっぱり。"
+  d_main_20af_01_16:
+    speaker: cecil
+    en: I figured I'd find you here sulking.
+    ko: 이러고 있을 것 같았어.
+    ja: そんな様子だと思いました。
+  d_main_20af_01_17:
+    speaker: cecil
+    en: I know you're not in a mood to talk, so just listen.
+    ko: "나랑 말 섞을 기분은 아닌 것 같으니까, \n그냥 듣기만 해요."
+    ja: |-
+      私と会話する気分ではなさそうですから、
+      ただ聞いていてくださいね。
+  d_main_20af_01_18:
+    speaker: cecil
+    en: I went over the communication logs,
+    ko: "이번 오퍼레이터 통신으로, \n나도 이것저것 많이 전해 들었어요."
+    ja: |-
+      今回、オペレーター通信を通して
+      私も皆さんの会話を聞いていました。
+  d_main_20af_01_19:
+    speaker: cecil
+    en: and something that Nihilister said struck me.
+    ko: "…특히 니힐리스타가 한 얘기."
+    ja: "…特にニヒリスターが言っていたこと。"
+  d_main_20af_01_20:
+    speaker: cecil
+    en: She feels there's something inside you that she wants.
+    ko: "당신 몸을 열어보면, \n그녀가 원하는 게 있을 거랬죠?"
+    ja: |-
+      あなたの体の中に、
+      彼女の望むものがあるって言ってましたよね？
+  d_main_20af_01_21:
+    speaker: cecil
+    en: I can probably guess at it.
+    ko: 사실 짐작가는 게 있어요.
+    ja: 実は心当たりがあります。
+  d_main_20af_01_22:
+    speaker: cecil
+    en: However, I doubt dissecting you is necessary to ascertain this mystery object.
+    ko: "그걸 얻으려면, \n굳이 당신 몸을 [열어보기]까지 할 필요도 없고요."
+    ja: |-
+      わざわざあなたの体を
+      「開いて」手に入れる必要もありませんし、
+  d_main_20af_01_23:
+    speaker: cecil
+    en: That is our primary concern right now.
+    ko: 지금 고민 중인 문제도 100% 해결되죠.
+    ja: 今悩んでいる問題も\n100％解決できますが。
+  d_main_20af_01_24:
+    speaker: cecil
+    en: Are you following me?
+    ko: "어때요. \n내가 하자는대로 해볼래요?"
+    ja: |-
+      どうです？
+      私の言うとおりやってみます？
+  d_main_20af_01_25:
+    speaker: Self
+    en: "... What do you want me to do?"
+    ko: "…내가 뭘 해야 해?"
+    ja: "…何をすればいい？"
+  d_main_20af_01_26:
+    speaker: cecil
+    en: Nothing, really.
+    ko: 별 거 없어요.
+    ja: 大したことではありません。
+  d_main_20af_01_27:
+    speaker: cecil
+    en: Give me an hour of your time.
+    ko: "지금부터 약 한 시간 동안, \n나한테 그 몸을 대여해 줘요."
+    ja: |-
+      今から約1時間、
+      私にその体を貸してください。
+  d_main_20af_01_28:
+    speaker: cecil
+    en: Consider it a routine health exam.
+    ko: "…일종의 건강검진이라고 생각해도 좋겠죠."
+    ja: "…一種の健康診断だと\\n思ってもらって構いません。"
+  d_main_20af_01_29:
+    speaker: cecil
+    en: A few injections, drawing blood, taking photos, stuff like that.
+    ko: "주사를 꽂고, 채혈하고. \n사진을 찍고. 뭐 그런 것들."
+    ja: |-
+      注射をして、採血して、
+      写真を撮って。それだけです。
+  d_main_20af_01_30:
+    speaker: Self
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_31:
+    speaker: cecil
+    en: Why are you hesitating? It's not like you have anything to lose.
+    ko: |-
+      뭘 망설이죠?
+      어차피 더 잃을 것도 없으면서.
+    ja: |-
+      何をためらっているのですか？
+      どうせこれ以上失うものもないのに。
+  d_main_20af_01_32:
+    speaker: cecil
+    en: Trust me, it'll be worth your while.
+    ko: 내가 장담할게요. 절대 후회하진 않을 거예요.
+    ja: 私が断言します。\n絶対に後悔はしません。
+  d_main_20af_01_33:
+    speaker: Self
+    en: Fine, let's get this over with.
+    ko: 알겠어, 네게 협조할게.
+    ja: 分かった。協力しよう
+  d_main_20af_01_34:
+    speaker: Narration
+    en: "... Sometime later."
+    ko: "…얼마 후."
+    ja: "…しばらくして"
+  d_main_20af_01_35:
+    speaker: Narration
+    en: "*beep beep beep*"
+    ko: 삐- 삐- 삐-
+    ja: ピーピーピー
+  d_main_20af_01_36:
+    speaker: cecil
+    en: "... Hmm. Of course."
+    ko: "…흠, 역시."
+    ja: "…うーん、やっぱり。"
+  d_main_20af_01_37:
+    speaker: cecil
+    en: It's exactly as I thought.
+    ko: 정확히 내가 예상한 대로였네.
+    ja: すべて私の予想どおりですね。
+  d_main_20af_01_38:
+    speaker: cecil
+    en: Do you know your blood type?
+    ko: 당신, 혹시 스스로의 혈액형을 알고 계셨나요?
+    ja: 自分の血液型はご存じでしたか？
+  d_main_20af_01_39:
+    speaker: Self
+    en: No.
+    ko: "…아니."
+    ja: "…いや"
+  d_main_20af_01_40:
+    speaker: cecil
+    en: Was your blood type ever saved in the database?
+    ko: 혈액형이 데이터베이스에 등록된 적은?
+    ja: 血液型がデータベースに\n登録されたことは？
+  d_main_20af_01_41:
+    speaker: Monologue
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_42:
+    speaker: mary
+    en: Pepper! What are you doing?! Hurry!
+    ko: |-
+      페퍼! 뭐 하고 있어요!?
+      빨리!
+    ja: |-
+      ペッパー！何してるんですか！？
+      早く！
+  d_main_20af_01_43:
+    speaker: pepper
+    en: What the... there's no information here on the Commander's blood type.
+    ko: |-
+      서, 선배!
+      지, 지휘관의 혈액형 정보가 없어요!
+    ja: |-
+      せ、先輩！
+      し、指揮官の血液型情報がありません！
+  d_main_20af_01_44:
+    speaker: andersen
+    en: The blood you have is of great value to us.
+    ko: 자네와 내가 가진 피는 귀한 것일세.
+    ja: 君と私が持つ血は、貴重なものだ。
+  d_main_20af_01_45:
+    speaker: andersen
+    en: In this case, we won't record your blood type in the database. You'll be a
+      prime target if word of this gets out.
+    ko: |-
+      그래서 그 피를 원하는 이들의 목표가 되는 걸 피하기 위해
+      어떤 데이터베이스에도 등록하지 않았지.
+    ja: |-
+      だからその血を求める奴らに狙われないように
+      いかなるデータベースにも登録されない。
+  d_main_20af_01_46:
+    speaker: Self
+    en: Not that I know of.
+    ko: "…그런 적도 없어."
+    ja: "…登録されたことはない"
+  d_main_20af_01_47:
+    speaker: cecil
+    en: I see.
+    ko: 그렇군요.
+    ja: そうですか。
+  d_main_20af_01_48:
+    speaker: cecil
+    en: Keeping health examination data a secret is no mean feat.
+    ko: 개인의 신체 검사 정보를 은닉하기도 쉽지 않았을 텐데.
+    ja: 個人の身体検査情報を\n隠ぺいするのは難しいはずですけど。
+  d_main_20af_01_49:
+    speaker: cecil
+    en: Whoever did this cares about you deeply.
+    ko: "당신을 아끼는 누군가가, \n아주 적절한 조치를 취해준 것 같네요."
+    ja: |-
+      あなたを大切に思う誰かが、
+      適切な措置を取ってくれたようですね。
+  d_main_20af_01_50:
+    speaker: cecil
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_51:
+    speaker: cecil
+    en: You must be wondering why I'm asking all these questions.
+    ko: 왜 이런 것들을 묻는지 궁금하겠죠?
+    ja: どうしてこんなことを聞くのか\n気になるでしょう？
+  d_main_20af_01_52:
+    speaker: cecil
+    en: Well, congratulations.
+    ko: 축하해요, @UserName 씨.
+    ja: おめでとうございます、@UserNameさん。
+  d_main_20af_01_53:
+    speaker: cecil
+    en: You have been blessed with the Rh X blood type.
+    ko: 지금 막 축복 받은 Rh X 혈액형의 보유자로 판명나셨어요.
+    ja: 祝福された Rh X 型の\n血液型の持ち主と判明しました。
+  d_main_20af_01_54:
+    speaker: cecil
+    en: Or should I say cursed...
+    ko: 아니… 저주 받았다고 해야 할까요?
+    ja: いえ…呪われたと言うべきでしょうか？
+  d_main_20af_01_55:
+    speaker: "<Choice>"
+    en: Rh X...?
+    ko: Rh X…?
+    ja: Rh X…？
+  d_main_20af_01_56:
+    speaker: "<Choice>"
+    en: You can't be serious?!
+    ko: 설마…!
+    ja: まさか…！
+  d_main_20af_01_57:
+    speaker: cecil
+    en: That's right.
+    ko: 네, 그래요.
+    ja: そうです。
+  d_main_20af_01_58:
+    speaker: cecil
+    en: Your blood type is exceedingly rare, but that's not what makes it valuable.
+    ko: "언체인드를 뽑아낼 수 있는 혈액형을 가진, \n극소수의 인간들 중 하나."
+    ja: |-
+      アンチェインドを作ることができる
+      血液型を持った、極少数の人間の1人。
+  d_main_20af_01_59:
+    speaker: cecil
+    en: From it, we can extract and synthesize Vapaus.
+    ko: 그게 바로 당신이에요.
+    ja: それがあなたです。
+  d_main_20af_01_60:
+    speaker: cecil
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_61:
+    speaker: cecil
+    en: Tell me, what's going through your mind?
+    ko: 그래서, 기분이 어때요?
+    ja: 気分はいかがですか？
+  d_main_20af_01_62:
+    speaker: cecil
+    en: Are you happy? Not happy? What?
+    ko: 기쁜가요? 아니면… 허탈한가요?
+    ja: 嬉しいですか？それとも…気が抜けました？
+  d_main_20af_01_63:
+    speaker: "<Choice>"
+    en: I'm happy. Genuinely.
+    ko: 진심으로 기뻐.
+    ja: 心から嬉しい
+  d_main_20af_01_64:
+    speaker: "<Choice>"
+    en: Honestly, I don't feel much of anything.
+    ko: 조금 허탈한 것 같아.
+    ja: 少し気が抜けた
+  d_main_20af_01_65:
+    speaker: cecil
+    en: Well,
+    ko: "…그런가요."
+    ja: "…そうですか。"
+  d_main_20af_01_66:
+    speaker: cecil
+    en: don't be too swayed by your emotions either way.
+    ko: 뭐, 너무 감정에 치우칠 건 없어요.
+    ja: あまり感情に囚われる\n必要はありませんよ。
+  d_main_20af_01_67:
+    speaker: cecil
+    en: There will be plenty of time for hysterics down the line.
+    ko: |-
+      당신의 이 체질로 인해 울고 웃게 될 일은,
+      앞으로 무수히 더 많을 테니.
+    ja: |-
+      あなたがこの体質のせいで、\n泣いたり笑ったりすることは
+      これから無数にあるはずですから。
+  d_main_20af_01_68:
+    speaker: cecil
+    en: For the time being, try and keep your emotions in check.
+    ko: 격정은 일단 아껴 놓도록 해요.
+    ja: 心配はひとまず置いておきましょう。
+  d_main_20af_01_69:
+    speaker: cecil
+    en: More importantly, I have to tell you...
+    ko: 그보다는… 경고를 해주는 게 먼저겠군요.
+    ja: それよりも…警告しておかなければなりません。
+  d_main_20af_01_70:
+    speaker: Monologue
+    en: The moment I'm done discussing these examination results with me,
+    ko: 세실은 내게 검사 결과가 적힌 파일을 보여준 뒤.
+    ja: セシルは私に\n検査結果が書かれたファイルを見せた後
+  d_main_20af_01_71:
+    speaker: Monologue
+    en: I'll be destroying them.
+    ko: 그대로 그것을 영구 삭제했다.
+    ja: それをそのまま完全に削除した
+  d_main_20af_01_72:
+    speaker: Self
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20af_01_73:
+    speaker: cecil
+    en: No one outside this room can know about this.
+    ko: "이건 나와 당신. \n그 외에 누구도 알아선 안 됩니다."
+    ja: |-
+      これは私とあなた。
+      それ以外には知られてはいけません。
+  d_main_20af_01_74:
+    speaker: cecil
+    en: That includes the Nikkes serving under you.
+    ko: 저 밖에 있는 당신의 니케들도 예외는 아니에요.
+    ja: 外にいるあなたのニケたちも\n例外ではありませんよ。
+  d_main_20af_01_75:
+    speaker: cecil
+    en: Especially Papillon.
+    ko: "…특히 그 파피용이라는 니케."
+    ja: "…特に、あのパピヨンというニケ。"
+  d_main_20af_01_76:
+    speaker: cecil
+    en: She's working for a Deputy Commander from a different faction, is she not?
+    ko: 당신과 다른 파벌의 부사령관을 위해 일하는 모양이더군요?
+    ja: あなたとは違う派閥の副司令官のために\n働いているようですね？
+  d_main_20af_01_77:
+    speaker: cecil
+    en: You can never let her know.
+    ko: 그녀에게만은 절대로 알리지 마세요.
+    ja: 彼女には絶対に教えないでください。
+  d_main_20af_01_78:
+    speaker: cecil
+    en: Not unless you feel like becoming a human lab rat for the "good of the people."
+    ko: "[공공의 이익]을 위해 희생하는 \n실험용 쥐가 되고 싶지 않다면 말이죠."
+    ja: |-
+      「公共の利益」のために犠牲になる
+      実験動物になりたくないのであれば。
+  d_main_20af_01_79:
+    speaker: "<Choice>"
+    en: Okay.
+    ko: 알겠어.
+    ja: 分かった
+  d_main_20af_01_80:
+    speaker: "<Choice>"
+    en: Papillon wouldn't sell me out.
+    ko: 파피용은 아마 보고하지 않을 거야.
+    ja: パピヨンは報告したりしない
+  d_main_20af_01_81:
+    speaker: cecil
+    en: I'm glad we're on the same page.
+    ko: "…고분고분해서 좋네요."
+    ja: "…素直でいいですね。"
+  d_main_20af_01_82:
+    speaker: cecil
+    en: Don't be so naïve.
+    ko: "…순진한 소릴 잘도 하시네요."
+    ja: "…純粋すぎるのも困ったものですね。"
+  d_main_20af_01_83:
+    speaker: cecil
+    en: Now I understand why Johan doesn't trust you.
+    ko: 요한이 왜 그렇게 당신을 못 미더워했는지 알겠어요.
+    ja: ヨハンがどうしてあなたを\n信じられなかったのか分かりました。
+  d_main_20af_01_84:
+    speaker: cecil
+    en: "... I can also see why he stuck up for you in the end."
+    ko: 그러고서 왜 마지막에는 챙기려 했는지도.
+    ja: それから、どうして\n最後には助けようとしたのかも。
+  d_main_20af_01_85:
+    speaker: cecil
+    en: You should get going.
+    ko: 자, 이제 나가봐요.
+    ja: さあ、もう行ってください。
+  d_main_20af_01_86:
+    speaker: cecil
+    en: Johan had something he wanted to discuss with me, and I don't want to keep
+      him waiting.
+    ko: "요한도 내게 할말이 있는 모양이니, \n너무 오래 세워둬선 안 되겠죠."
+    ja: |-
+      ヨハンも私に話があるようですから。
+      あまり待たせるのもいけませんしね。
+  d_main_20af_01_87:
+    speaker: Narration
+    en: "*Jing*"
+    ko: 지잉-
+    ja: ウィーン…
+  d_main_20af_01_88:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_89:
+    speaker: Monologue
+    en: Johan walked past me and is about to enter Cecil's lab.
+    ko: 요한은 내 곁을 지나쳐, 세실의 연구실에 들어가려 했다.
+    ja: ヨハンは私の横を通り過ぎ、\nセシルの研究室に入ろうとした
+  d_main_20af_01_90:
+    speaker: Self
+    en: Wait.
+    ko: 잠깐.
+    ja: ちょっと待て
+  d_main_20af_01_91:
+    speaker: johan
+    en: What is it?
+    ko: 뭐지?
+    ja: 何だ？
+  d_main_20af_01_92:
+    speaker: Self
+    en: Thank you for saving me.
+    ko: 구해줘서 고마워.
+    ja: 助けてくれてありがとう
+  d_main_20af_01_93:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_94:
+    speaker: johan
+    en: Don't get all sentimental on me.
+    ko: "…쓸데없는 소리를."
+    ja: "…つまらぬことを。"
+  d_main_20af_01_95:
+    speaker: johan
+    en: Anyway, what are you going to do now?
+    ko: 그래서, 이제부터 어떻게 할 생각이지?
+    ja: それで、これからどうするつもりだ？
+  d_main_20af_01_96:
+    speaker: johan
+    en: Go back to the Ark?
+    ko: 방주로 돌아갈 텐가?
+    ja: アークに戻るのか？
+  d_main_20af_01_97:
+    speaker: Self
+    en: I haven't decided yet.
+    ko: 아직 정하지 못했어.
+    ja: まだ決めていない
+  d_main_20af_01_98:
+    speaker: johan
+    en: "... Then it might be good to stay here."
+    ko: "…그렇다면 여기 남아 있는 것도 좋겠지."
+    ja: "…それならここに残るのもいいだろう。"
+  d_main_20af_01_99:
+    speaker: johan
+    en: Your hearts are in it,
+    ko: 너는 아직 의욕만 앞선 애송이지만.
+    ja: お前はまだ気持ちばかりが先走っている\n青二才だが
+  d_main_20af_01_100:
+    speaker: johan
+    en: but with a bit of time, I could turn you into a proper commander.
+    ko: 나라면 널 제 몫은 하는 지휘관으로 키워줄 수 있으니까.
+    ja: 私ならお前を\n一人前の指揮官に育てられるからな。
+  d_main_20af_01_101:
+    speaker: Self
+    en: What?
+    ko: 뭐라고?
+    ja: 何だって？
+  d_main_20af_01_102:
+    speaker: johan
+    en: Don't believe me?
+    ko: "…왜, 못 미더운가?"
+    ja: "…なんだ、信じられないか？"
+  d_main_20af_01_103:
+    speaker: johan
+    en: Maybe nobody remembers this anymore,
+    ko: 아직 기억하는 이가 남았을지는 모르겠지만.
+    ja: まだ覚えている者がいるかは分からないが
+  d_main_20af_01_104:
+    speaker: johan
+    en: but I was once considered something of a rising star by the media.
+    ko: 방주의 매스컴에서는 [샛별]이라는 이름으로 불리기도 했다.
+    ja: アークのマスコミには\n「新星」と呼ばれていたんだ。
+  d_main_20af_01_105:
+    speaker: johan
+    en: Technically speaking, I outrank you.
+    ko: 지휘관으로서 네 위에 설 자격은 있다는 의미….
+    ja: 指揮官としてお前の上に立つ\n資格があるという意味だ。
+  d_main_20af_01_106:
+    speaker: Self
+    en: You mean back at the Ark?
+    ko: 샛별이라고…?
+    ja: 新星だと…？
+  d_main_20af_01_107:
+    speaker: johan
+    en: Yeah.
+    ko: 그래.
+    ja: そうだ。
+  d_main_20af_01_108:
+    speaker: johan
+    en: I doubt you'd have any memory of it.
+    ko: 그 시절의 너는 아직 어렸을 테니,
+    ja: 当時のお前はまだ幼かっただろうから、
+  d_main_20af_01_109:
+    speaker: johan
+    en: You'd be too young to remember.
+    ko: 아마 기억에는 없겠지만….
+    ja: おそらく覚えていないだろうが…
+  d_main_20af_01_110:
+    speaker: Self
+    en: So you were there when the Ark first came to fruition?
+    ko: 전설의 지휘관과 더불어 역사상 가장 유명하다는.
+    ja: 伝説の指揮官であり、\n歴史上最も有名だったという
+  d_main_20af_01_111:
+    speaker: Self
+    en: I never knew I was talking to a celebrity.
+    ko: 그 방주의 샛별 말이야?
+    ja: あのアークの新星のことか？
+  d_main_20af_01_112:
+    speaker: johan
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_01_113:
+    speaker: johan
+    en: Why are you looking at me like that?
+    ko: 그건 무슨 눈빛이지?
+    ja: 何だそのキラキラした目は？
+  d_main_20af_01_114:
+    speaker: Self
+    en: "..."
+    ko: "…그게."
+    ja: "…その…"
+  d_main_20af_01_115:
+    speaker: Self
+    en: Should I refer to you as Sir Johan from here on out?
+    ko: 이제부터 선배라고 불러야 됩니까?
+    ja: これからは先輩と呼ぶべきでしょうか？
+  d_main_20af_01_116:
+    speaker: johan
+    en: "...!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20af_01_117:
+    speaker: johan
+    en: Absolutely not.
+    ko: 아니.
+    ja: いや。
+  d_main_20af_01_118:
+    speaker: johan
+    en: I feel old enough as is.
+    ko: 징그러우니 관두지.
+    ja: 気持ち悪いからやめてくれ。
+  d_main_20af_01_119:
+    speaker: johan
+    en: It's probably best if you don't bring this up in front of Cecil.
+    ko: "특히 세실의 앞에서는, \n그런 말은 꺼내지 않는 게 좋겠군."
+    ja: 特にセシルの前ではな。
+  d_main_20af_01_120:
+    speaker: Narration
+    en: "*Jing*"
+    ko: 지잉-
+    ja: ウィーン…
+  d_main_20af_01_121:
+    speaker: Monologue
+    en: Johan walks... or rather, runs into Cecil's office.
+    ko: |-
+      요한은 세실의 연구실로 들어갔…
+      아니, 도망쳤다.
+    ja: |-
+      ヨハンはセシルの研究室に入って…
+      いや、逃げて行った
+  d_main_20af_01_122:
+    speaker: Monologue
+    en: Guess I'll have to take a raincheck for an autograph.
+    ko: "…나중에 꼭 사인을 부탁하자."
+    ja: "…今度必ずサインを頼もう"
+d_main_20af_02:
+  d_main_20af_02_1:
+    speaker: papillon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_2:
+    speaker: papillon
+    en: I can't believe this.
+    ko: 어이가 없어서, 정말.
+    ja: まったく呆れちゃうわ。
+  d_main_20af_02_3:
+    speaker: papillon
+    en: This stupid base is always bragging about its own cutting-edge technology,
+    ko: "이 망할 기지는, \n하이테크 하이테크 노랠 부르면서."
+    ja: |-
+      この基地ってばハイテク、ハイテクって
+      自慢げに言ってたくせに
+  d_main_20af_02_4:
+    speaker: papillon
+    en: and I can't even send a basic SMS to the Ark?
+    ko: 방주랑 간단한 통신 하나 안 된다는 게 말이 돼?
+    ja: アークと簡単な通信さえできないの？
+  d_main_20af_02_5:
+    speaker: Narration
+    en: "[Papillon] [1:31 pm] I found out what the Commander is after ;-)"
+    ko: "[파피용] [오후 1:31] 지휘관의 목적을 알아냈어요 ;-)"
+    ja: "「パピヨン」「午後1:31」\\n指揮官の目的が分かりました(｡･ω<｡)"
+  d_main_20af_02_6:
+    speaker: Narration
+    en: "[Papillon] [4:34 am] Successfully\\nentered Eden :D"
+    ko: "[파피용] [오전 4:34] 낙원에 진입 성공했어요 :D"
+    ja: "「パピヨン」「午前4:34」\\n楽園に潜入成功しましたd(･ω･´)"
+  d_main_20af_02_7:
+    speaker: Narration
+    en: "[Papillon] [7:10 pm] Made contact with the Heretics Nihilister and Librelio"
+    ko: "[파피용] [오후 7:10] 헬레틱 니힐리스타 / 리버렐리오와 접촉"
+    ja: "「パピヨン」「午後7:10」\\nヘレティック・ニヒリスター\\nおよびリバーレリオと接触"
+  d_main_20af_02_8:
+    speaker: papillon
+    en: All I need is for one of these to go through, and it's straight up the corporate
+      ladder for me!
+    ko: 이 중 하나만 전송 완료돼도 특진 확정인데…!
+    ja: どれか1つでも送れたら昇進確定なのに…！
+  d_main_20af_02_9:
+    speaker: unknown
+    en: "... Hahaha."
+    ko: "…하."
+    ja: "…ハァ。"
+  d_main_20af_02_10:
+    speaker: papillon
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_main_20af_02_11:
+    speaker: papillon
+    en: Who goes there?
+    ko: 뭐야… 누구야!
+    ja: なっ…誰よ！
+  d_main_20af_02_12:
+    speaker: dorothy
+    en: It's me, Dorothy.
+    ko: 저랍니다, 도로시.
+    ja: 私です、ドロシーですよ。
+  d_main_20af_02_13:
+    speaker: dorothy
+    en: Why are you so surprised?
+    ko: 왜 이렇게 화들짝 놀라시나요?
+    ja: そんなに驚くことですか？
+  d_main_20af_02_14:
+    speaker: papillon
+    en: Who, me? Er... I'm not surprised! It's just...
+    ko: 아, 그게… 왜긴 왜겠어.
+    ja: あっ、その…ほら、あれよ。
+  d_main_20af_02_15:
+    speaker: papillon
+    en: You snuck up on me, that's all.
+    ko: 네가 인기척을 안 내고 들어오니까 그렇지~
+    ja: あなたが気配を消して入ってくるからでしょ～？
+  d_main_20af_02_16:
+    speaker: papillon
+    en: I get that we're only guests here, but that doesn't mean I'm not entitled
+      to my privacy.
+    ko: 아무리 손님이라도 프라이버시는 존중해주지 않을래?
+    ja: ゲストとはいえ、\nプライバシーは尊重してくれない？
+  d_main_20af_02_17:
+    speaker: dorothy
+    en: My apologies.
+    ko: 아, 그랬군요. 미안해요.
+    ja: ああ、そうでしたか。ごめんなさい。
+  d_main_20af_02_18:
+    speaker: dorothy
+    en: However...
+    ko: 그런데 말이죠.
+    ja: しかしですね。
+  d_main_20af_02_19:
+    speaker: dorothy
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_20:
+    speaker: dorothy
+    en: If we were to allow something as blatant as direct communication with the
+      Ark,
+    ko: 만일 방주로 가는 통신 따윌 허용했다면.
+    ja: もしアークへつながる\n通信なんて許可していたら
+  d_main_20af_02_21:
+    speaker: dorothy
+    en: do you think this base could have existed in peace for as long as it has?
+    ko: 이 기지가 어떻게 여태 존재를 숨길 수 있었을 것 같나요?
+    ja: この基地が今まで存在を\n隠せたはずありませんよね？
+  d_main_20af_02_22:
+    speaker: papillon
+    en: You... heard all that?
+    ko: 너 역시… 다 들었구나?
+    ja: あなた…やっぱり聞いてたのね？
+  d_main_20af_02_23:
+    speaker: papillon
+    en: You're not going to kick me out, are you?
+    ko: |-
+      그래서 어쩌려고?
+      여기서 날 쫓아내기라도 할래?
+    ja: |-
+      それで、どうすんの？
+      ここから私を追い出すつもり？
+  d_main_20af_02_24:
+    speaker: dorothy
+    en: I'm considering it, among other things.
+    ko: 그것도 고려할 수 있는 방법이긴 합니다.
+    ja: それも一つの方法ではありますね。
+  d_main_20af_02_25:
+    speaker: papillon
+    en: Is that right?
+    ko: 하, 그것 참.
+    ja: ハァ、まったく。
+  d_main_20af_02_26:
+    speaker: papillon
+    en: For example?
+    ko: 꼭 다른 방법도 있을 것처럼 말하네?
+    ja: 他に方法があるような言い方じゃない？
+  d_main_20af_02_27:
+    speaker: dorothy
+    en: Some gentler methods. Others with more... bite.
+    ko: 예. 더 온건한 것도, 혹은 과격한 것도 준비되어 있죠.
+    ja: はい。もっと穏やかなものも、\nもしくは過激なものも用意してありますよ。
+  d_main_20af_02_28:
+    speaker: dorothy
+    en: We can do this the easy way, or the hard way. It's up to you.
+    ko: 그걸 결정하는 건 제가 아닌, 당신이랍니다.
+    ja: それを決めるのは私ではなく、あなたです。
+  d_main_20af_02_29:
+    speaker: papillon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_30:
+    speaker: dorothy
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_31:
+    speaker: papillon
+    en: I'm warning you,
+    ko: 혹시 몰라서 말해두는데.
+    ja: 念のため言っておくけど。
+  d_main_20af_02_32:
+    speaker: papillon
+    en: don't do anything rash.
+    ko: 쓸데없는 생각은 관두는 게 좋을걸?
+    ja: つまんないことは考えない方がいいわよ？
+  d_main_20af_02_33:
+    speaker: papillon
+    en: I work for one of the Ark's Deputy Chiefs.
+    ko: 이래봬도 내가 방주의 부사령관 직속 라인이라~
+    ja: こう見えても私、\nアークの副司令官直属ラインだからぁ～
+  d_main_20af_02_34:
+    speaker: papillon
+    en: I have a lot of sways there.
+    ko: 방주에서 할 수 있는 게 아~주 많거든.
+    ja: アークでできることがす～っごく多いのよね。
+  d_main_20af_02_35:
+    speaker: papillon
+    en: Seems to me like you don't get along too well with the humans here.
+    ko: 보아하니 너, 여기 인간들하고도 좀 마찰이 있는 것 같던데….
+    ja: 見たところ、あなたはここの人たちとも\nいざこざがあったみたいだけど…
+  d_main_20af_02_36:
+    speaker: papillon
+    en: Don't you think it'd be wise to have some form of insurance?
+    ko: 아무리 그래도 보험 같은 건 필요하지 않겠어?
+    ja: 保険みたいなものが必要だと思わない？
+  d_main_20af_02_37:
+    speaker: papillon
+    en: Like say... making some connections with the higher-ups in the Ark?
+    ko: 왜, 방주 상층부랑 커넥션을 터 둔다거나~ 여러가지 있잖아.
+    ja: ほら、アーク上層部とコネクションを作るとか、\n色々あるでしょ。
+  d_main_20af_02_38:
+    speaker: papillon
+    en: There are ways I could make that happen, but lay one finger on me, and the
+      offer's off the table.
+    ko: "그런데 만약 네가 지금 나한테 손 대면, \n그 기회들은 그냥 날아가는 거야."
+    ja: |-
+      でももしあなたが私に手を出すなら、
+      そのチャンスは飛んでいくのよ。
+  d_main_20af_02_39:
+    speaker: dorothy
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_40:
+    speaker: dorothy
+    en: All right, then. Sounds like it's in my best interests to let you be.
+    ko: 좋아요. 제게도 손해될 이야기는 아닌 것 같네요.
+    ja: いいでしょう。\n私にとっても損になる話ではなさそうですね。
+  d_main_20af_02_41:
+    speaker: dorothy
+    en: However, I do have some stipulations.
+    ko: 하지만 몇 가지 조건이 있어요.
+    ja: しかし、いくつか条件があります。
+  d_main_20af_02_42:
+    speaker: dorothy
+    en: From now on, you are not allowed to communicate with the Ark without my permission.
+    ko: 하나. 당신은 앞으로도 제 허락 없이 방주와 통신할 수 없습니다.
+    ja: その1。あなたはこれからも私の許可なしで\nアークと通信することはできません。
+  d_main_20af_02_43:
+    speaker: dorothy
+    en: I also get to choose what communications are sent to the Ark.
+    ko: 둘. 방주와의 통신 내용은 당신이 아닌 제가 정합니다.
+    ja: その2。アークとの通信内容は\nあなたではなく私が決めます。
+  d_main_20af_02_44:
+    speaker: dorothy
+    en: How does that sound?
+    ko: "…어떤가요?"
+    ja: "…どうですか？"
+  d_main_20af_02_45:
+    speaker: dorothy
+    en: Considering your life is on the line, I'd say it's rather reasonable.
+    ko: 목숨이 걸린 것치고는 제법 합리적이라고 생각하는데.
+    ja: 命がかかっている割りには、\nずいぶん合理的だと思いますが。
+  d_main_20af_02_46:
+    speaker: papillon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_47:
+    speaker: papillon
+    en: Doesn't sound like I have much of a choice.
+    ko: 뭐 어떡하겠어~
+    ja: まっ、仕方ないか。
+  d_main_20af_02_48:
+    speaker: papillon
+    en: Since I'm a guest and all, I'll have to defer to you.
+    ko: 손님으로 지내는 처지에. 주인이 하라면 해야지.
+    ja: ゲストって立場だし。\nホストがやれっていうならやらないと。
+  d_main_20af_02_49:
+    speaker: dorothy
+    en: Haha. Good thinking.
+    ko: 후후, 좋은 생각이에요.
+    ja: ふふ、いい心構えですね。
+  d_main_20af_02_50:
+    speaker: dorothy
+    en: I hope you enjoy the rest of your time here.
+    ko: 그럼, 앞으로도 평안한 기지 생활 되시길.
+    ja: では、これからも快適にお過ごしください。
+  d_main_20af_02_51:
+    speaker: Narration
+    en: "*Jing*"
+    ko: 지잉-
+    ja: ウィーン…
+  d_main_20af_02_52:
+    speaker: papillon
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_53:
+    speaker: papillon
+    en: Just my luck,
+    ko: 하아… 정말.
+    ja: ハァ…ホント。
+  d_main_20af_02_54:
+    speaker: papillon
+    en: getting caught by that weirdo.
+    ko: 별 이상한 거한테 걸려서.
+    ja: 変な奴に引っかかっちゃったなぁ。
+  d_main_20af_02_55:
+    speaker: Narration
+    en: Meanwhile, somewhere remote up on the surface.
+    ko: "…한편, 지상의 어느 깊은 곳."
+    ja: "…一方、地上のどこか奥深く"
+  d_main_20af_02_56:
+    speaker: nihilister
+    en: Ahhhhhhhh!!
+    ko: 으아아아악-!!
+    ja: うああああっ！！
+  d_main_20af_02_57:
+    speaker: nihilister
+    en: Curse those bloodsuckers!
+    ko: 빌어먹을 낙원의 버러지들 같으니-!!
+    ja: クソッ！楽園の虫けらどもめ…！！
+  d_main_20af_02_58:
+    speaker: nihilister
+    en: That's it.
+    ko: "…안 되겠어."
+    ja: "…ダメだ。"
+  d_main_20af_02_59:
+    speaker: nihilister
+    en: I won't be able to calm down until I wipe out their entire base.
+    ko: "당장 그것들을 기지째 쓸어버리지 않으면 \n도저히 분이 풀리질 않겠다고-!!"
+    ja: |-
+      今すぐあいつらを基地ごと一掃しねえと
+      怒りが収まらねえ！！
+  d_main_20af_02_60:
+    speaker: liberalio
+    en: Be quiet, Nihilister.
+    ko: "…조용히 해, 니힐리스타."
+    ja: "…静かにして、ニヒリスター。"
+  d_main_20af_02_61:
+    speaker: liberalio
+    en: You already forced me to appear once.
+    ko: 그렇잖아도 날 움직이게 만든 주제에….
+    ja: ただでさえ私を動かしたくせに…
+  d_main_20af_02_62:
+    speaker: liberalio
+    en: Are you trying to disrupt my slumber once again?
+    ko: 또 내 잠을 방해하려는 거야…?
+    ja: また私の眠りを邪魔する気…？
+  d_main_20af_02_63:
+    speaker: liberalio
+    en: Compose yourself, before I put you to sleep permanently.
+    ko: 정신 좀 차려. 내가 널 죽여버리기 전에….
+    ja: しっかりして。\n私があなたを殺してしまう前に…
+  d_main_20af_02_64:
+    speaker: nihilister
+    en: Huh...
+    ko: 죽이겠다고…?
+    ja: 殺す…？
+  d_main_20af_02_65:
+    speaker: nihilister
+    en: You'd really kill me?
+    ko: 네가, 날…?
+    ja: お前が、俺を…？
+  d_main_20af_02_66:
+    speaker: liberalio
+    en: "*Yawn* Yes."
+    ko: 하아암… 그래.
+    ja: ふわぁ…そうよ。
+  d_main_20af_02_67:
+    speaker: liberalio
+    en: The Queen does not permit internal strife between her Vanguards.
+    ko: 과거에는 퀸이… 선봉장끼리의 다툼을 용납하지 않았지.
+    ja: 昔はクイーンが…先鋒同士の争いは\n許さなかったわよね。
+  d_main_20af_02_68:
+    speaker: liberalio
+    en: You've bungled this job badly.
+    ko: 하지만 지금은… 글쎄?
+    ja: でも…今はどうかしら？
+  d_main_20af_02_69:
+    speaker: liberalio
+    en: This Queen is very disappointed with you.
+    ko: 이번 일로 퀸은 네게 크게 실망했어….
+    ja: 今回のことで、\nクイーンはあなたにかなり失望してるわ…
+  d_main_20af_02_70:
+    speaker: liberalio
+    en: If you intend to regain the trust which you have lost,
+    ko: 에덴… 그곳을 지도상에서 지워버리지 않는 이상.
+    ja: エデン…\nあの場所を地図から消し去らない限り、
+  d_main_20af_02_71:
+    speaker: liberalio
+    en: you must wipe out that place on the surface they call Eden.
+    ko: 이전의 신뢰는 회복하기 어렵겠지….
+    ja: 信頼を取り戻すのは難しいでしょうね…
+  d_main_20af_02_72:
+    speaker: liberalio
+    en: Should you fail,
+    ko: 그럼 넌, 언젠가… 인간들 이전에….
+    ja: となると、あなたはいつか…\n人間じゃなくて…
+  d_main_20af_02_73:
+    speaker: liberalio
+    en: we'll bury you long before those humans ever have a chance to.
+    ko: 우리에게 물어 뜯겨서 죽게 되는 거야….
+    ja: 私たちに噛みつかれて死ぬのよ…
+  d_main_20af_02_74:
+    speaker: nihilister
+    en: Don't you threaten me! I'll burn you to a crisp before you ever make a move.
+    ko: 헛소리는… 그 전에 네 몸이 내 불에 펄펄 끓게 되겠지!
+    ja: ふざけたことを…\nその前に俺が燃やしてやるさ！
+  d_main_20af_02_75:
+    speaker: liberalio
+    en: That reminds me.
+    ko: 참… 그러고 보니, 너.
+    ja: そうだ…そういえばあなた。
+  d_main_20af_02_76:
+    speaker: liberalio
+    en: Before I arrived, you were running your mouth about something.
+    ko: 내가 오기 전에 쓸데없는 소릴 지껄였던데….
+    ja: 私が行く前に、\n余計なことをしゃべっていたようだけど…
+  d_main_20af_02_77:
+    speaker: liberalio
+    en: Remind me what it was again?
+    ko: 그거… 뭐였어?
+    ja: あれは…何だったの？
+  d_main_20af_02_78:
+    speaker: nihilister
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_main_20af_02_79:
+    speaker: liberalio
+    en: Something about Lilith, wasn't it?
+    ko: 릴리스의 바디가… 뭐였더라….
+    ja: リリスのボディが…何だったかしら…
+  d_main_20af_02_80:
+    speaker: liberalio
+    en: If the Queen were to get wind of this...
+    ko: 퀸이 들으면… 참 기뻐할 소리였는데….
+    ja: クイーンが聞いたら…喜びそうな話だったけど…
+  d_main_20af_02_81:
+    speaker: nihilister
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_82:
+    speaker: nihilister
+    en: Oh, you mean that?
+    ko: 아, 그걸 말하는 거야?
+    ja: ああ、あれか？
+  d_main_20af_02_83:
+    speaker: nihilister
+    en: I was only bluffing!
+    ko: 당연히 블러프지.
+    ja: もちろんハッタリさ。
+  d_main_20af_02_84:
+    speaker: nihilister
+    en: I was merely buying time so you would finally mosey along, slowpoke.
+    ko: 덕분에 느려터진 네가 도착할 시간을 벌었으니.
+    ja: おかげで、ノロマなお前が\n到着するまでの時間を稼げたんだ。
+  d_main_20af_02_85:
+    speaker: nihilister
+    en: If anything, the Queen would praise me for my ingenuity.
+    ko: 오히려 퀸 입장에선 치하할 일이라고 보는데.
+    ja: むしろクイーンからしたら、\n賞賛に値することなんじゃねえか？
+  d_main_20af_02_86:
+    speaker: liberalio
+    en: Whatever happens,
+    ko: 하아암… 글쎄.
+    ja: ふわぁ…どうかしら。
+  d_main_20af_02_87:
+    speaker: liberalio
+    en: your actions going forward will determine
+    ko: 임기응변인지… 배신의 전조일지는.
+    ja: 臨機応変な対応なのか…裏切りの兆候なのか。
+  d_main_20af_02_88:
+    speaker: liberalio
+    en: what you truly meant by those words.
+    ko: 네가 앞으로 어떻게 하느냐에 달렸겠지…?
+    ja: それはこれからのあなた次第よね…？
+  d_main_20af_02_89:
+    speaker: liberalio
+    en: The Queen is always watching. Never forget.
+    ko: 퀸이 언제나 널 지켜보고 있음을 잊지마….
+    ja: クイーンがいつもあなたを見てるってこと、\n忘れないで…
+  d_main_20af_02_90:
+    speaker: liberalio
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_main_20af_02_91:
+    speaker: Monologue
+    en: "... Liberalio falls asleep."
+    ko: "…리버렐리오가 잠들었다."
+    ja: "…リバーレリオが眠った"
+  d_main_20af_02_92:
+    speaker: nihilister
+    en: "*Sigh*"
+    ko: 하….
+    ja: ハァ…
+  d_main_20af_02_93:
+    speaker: nihilister
+    en: All I care about is burning those cockroaches to the ground.
+    ko: |-
+      여기에나 저기에나,
+      다 태워서 재로 만들 것들 뿐이네….
+    ja: |-
+      どこもかしこも、
+      燃やして灰にしたいもんだらけだな…

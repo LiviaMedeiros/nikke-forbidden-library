@@ -1,0 +1,578 @@
+---
+412_name:
+  en: Trina
+  ko: 트리나
+  ja: トリナ
+c412_description:
+  en: |-
+    A Nikke from Botanic Garden.
+    She is in charge of managing the trees in the Ark.
+    Though gentle and mature like the trees that keep her company, she exhibits a peculiar behavior due to her fondness for becoming one with nature.
+  ko: |-
+    보타닉 가든 소속의 니케.
+    방주 내에 존재하는 나무들을 관리하고 있다.
+    그녀가 늘 함께하는 나무처럼 온화하고 어른스러운 성격을 지녔지만, 자연과 하나 되는 것을 좋아해 남다른 행동을 하기도 한다.
+  ja: |-
+    ボタニックガーデン所属のニケ。
+    アークに存在するすべての樹木を管理する。
+    彼女と常に共にいる木のように穏やかで大人っぽい性格だが、
+    自然と一体となることが好きで、独特な行動をとることもある
+412_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_412:
+  en: Trina's Spare Body
+  ko: 트리나 스페어 바디
+  ja: トリナのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+24122_name:
+  en: Peaceful Tree
+  ko: 피스풀 트리
+  ja: ピースフルツリー
+24122_description:
+  en: |-
+    ■ Activates at the start of battle only if self survives. Affects all Electric Code allies with rifles.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% of the caster's Max HP without restoring HP constantly.</color>
+    ■ Activates at the start of battle. Affects {description_value_06} Electric Code ally unit(s) with rifles on the leftmost side of the squad.
+    <color=#00AEFF>Invulnerable for {description_value_07} sec.</color>
+    ■ Activates when using Burst Skill. Affects {description_value_06} Electric Code ally unit(s) with rifles on the leftmost side of the squad.
+    <color=#00AEFF>Attack Damage ▲ {description_value_02}% for {description_value_03} sec.
+    Reloading Speed ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신이 생존 상태일 때 한하여 전격 코드 소총 아군 전체에게
+    <color=#00AEFF>[시전자 기준 최대 체력만 {description_value_01}% ▲] [지속]</color>
+    ■ 전투 시작 시 스쿼드에서 가장 왼쪽에 위치한 전격 코드 소총 아군 {description_value_06}기에게
+    <color=#00AEFF>[무적] [{description_value_07}초 유지]</color>
+    ■ 버스트 스킬 사용 시 스쿼드에서 가장 왼쪽에 위치한 전격 코드 소총 아군 {description_value_06}기에게
+    <color=#00AEFF>[공격 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]
+    [재장전 속도 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分が生存状態の時に限り、
+    電撃コードのアサルトライフルを使用する
+    味方全体に
+    <color=#00AEFF>「スキル発動者基準で最大HPのみ{description_value_01}％▲」「持続」</color>
+    ■戦闘開始時、部隊の一番左側にいる
+    電撃コードのアサルトライフルを使用する
+    味方{description_value_06}機に
+    <color=#00AEFF>「無敵」「{description_value_07}秒間維持」</color>
+    ■バーストスキルを使用した時、部隊の一番左側にいる電撃コードのアサルトライフルを使用する味方{description_value_06}機に
+    <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」
+    「リロード速度{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24121_name:
+  en: Nature's Grace
+  ko: 네이처 그레이스
+  ja: ネイチャーズグレイス
+24121_description:
+  en: |-
+    ■ Activates after Full Burst ends. Affects all allies.
+    <color=#00AEFF>Constantly recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
+    ■ Activates when attacking with Full Charge. Affects the target(s) if the HP of {description_value_04} ally unit(s) with the lowest HP percentage is lower than {description_value_03}%.
+    <color=#00AEFF>Recovers {description_value_05}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+    ■ Activates when attacking with Full Charge. Affects the target(s) if the HP of {description_value_07} ally unit(s) with the lowest HP percentage is lower than {description_value_06}%.
+    <color=#00AEFF>Recovers {description_value_08}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+  ko: |-
+    ■ 풀 버스트 타임 종료 시 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격] [{description_value_02}초 유지]</color>
+    ■ 풀 차지 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_04}기가 체력 {description_value_03}% 이하라면 대상에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_05}% 회복]</color>
+    ■ 풀 차지 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_07}기가 체력 {description_value_06}% 이하라면 대상에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_08}% 회복]</color>
+  ja: |-
+    ■フルバーストタイムが終了した時、
+    味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％
+    持続回復」「1秒間隔」「{description_value_02}秒間維持」</color>
+    ■フルチャージして攻撃した時、残りのHPの割合が最も低い味方{description_value_04}機がHP{description_value_03}％以下なら、対象に<color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_05}％回復」</color>
+    ■フルチャージして攻撃した時、残りのHPの割合が最も低い味方{description_value_07}機がHP{description_value_06}％以下なら、対象に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_08}％回復」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14123_name:
+  en: Mother Forest
+  ko: 머덜리 포레스트
+  ja: マザリーフォレスト
+14123_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% of the caster's Max HP without restoring HP for {description_value_02} sec.
+    Attack Damage ▲ {description_value_08}% for {description_value_09} sec.</color>
+    ■ Activates when enemy count aside from Nikkes is 1. Affects all allies.
+    <color=#00AEFF> Spread Roots: <word_group=10070>Burst Skill damage of skills with "Affects all enemies"</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when enemy count aside from Nikkes is more than 2. Affects all allies.
+    <color=#00AEFF>Changes Spread Roots to Wilted Roots.
+    Wilted Roots: <word_group=10070>Burst Skill damage of skills with "Affects all enemies"</word_group> ▲ {description_value_10}% for {description_value_04} sec.</color>
+    ■ Affects all Electric Code allies with rifles.
+    <color=#00AEFF>Hit Rate ▲ {description_value_05}% for {description_value_06} sec.
+    Max Ammunition Capacity ▲ {description_value_07} round(s) for {description_value_06} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자 기준 최대 체력만 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [공격 대미지 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
+    ■ 니케를 제외한 적이 1기 일 때 아군 전체에게
+    <color=#00AEFF>[뻗은 뿌리 : <word_group=10070>대상 설명이 '적 전체에게' 로 끝나는 버스트 스킬 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 니케를 제외한 적이 2기 이상일 때 아군 전체에게
+    <color=#00AEFF>[뻗은 뿌리를 시든 뿌리로 변경]
+    [시든 뿌리 : <word_group=10070>대상 설명이 '적 전체에게' 로 끝나는 버스트 스킬 대미지</word_group> {description_value_10}% ▲] [{description_value_04}초 유지]</color>
+    ■ 전격 코드 소총 아군 전체에게
+    <color=#00AEFF>[명중률 {description_value_05}% ▲] [{description_value_06}초 유지]
+    [최대 장탄 수 {description_value_07}발 ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者基準で最大HPのみ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「攻撃ダメージ{description_value_08}％▲」「{description_value_09}秒間維持」</color>
+    ■ニケを除いた敵が1機の場合、味方全体に
+    <color=#00AEFF>「根張り：<word_group=10070>スキル対象の説明部分が『敵全体に』で終わる
+    バーストスキルダメージ</word_group> {description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■ニケを除いた敵が2機以上の場合、味方全体に
+    <color=#00AEFF>「根張りが根腐れに変化」
+    「根腐れ：<word_group=10070>スキル対象の説明部分が『敵全体に』で終わるバーストスキルダメージ</word_group> {description_value_10}％▲」「{description_value_04}秒間維持」</color>
+    ■電撃コードのアサルトライフルを使用する味方全体に
+    <color=#00AEFF>「命中率{description_value_05}％▲」「{description_value_06}秒間維持」
+    「最大装弾数{description_value_07}発▲」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+411_name:
+  en: Flora
+  ko: 플로라
+  ja: フローラ
+c412_Lobby_Touch_1:
+  en: |-
+    Who are these little cuties on my head, you ask?
+    Hehe, they're my family.
+  ko: |-
+    제 머리 위의 아이들이요?
+    후후, 제 소중한 가족이랍니다.
+  ja: |-
+    頭の上のこの子たちですか？
+    ふふ、私の大切な家族です。
+c412_Lobby_Touch_2:
+  en: Can you hear the sounds of nature?
+  ko: 자연의 소리가 들리시나요?
+  ja: 自然の音が聞こえますか？
+c412_Lobby_Touch_3:
+  en: Trees may seem rough and unrefined, but they actually require a delicate touch.
+  ko: |-
+    나무는 투박하고 둔감해 보이지만
+    의외로 섬세한 손길이 필요하답니다.
+  ja: |-
+    木は無骨で鈍感そうに見えますが、
+    意外と繊細なお手入れが必要なのですよ。
+c412_Lobby_Touch_Love_1:
+  en: If you're tired, you're more than free to rest in my embrace for a while.
+  ko: 피곤하시다면 제 품에서 쉬고 가셔도 좋아요~
+  ja: お疲れでしたら、私の胸の中でひと休みしませんか？
+c412_Lobby_Touch_Love_2:
+  en: |-
+    Ahhh, the pleasant scent of phytoncides...
+    Oh, is that you, Sun?
+  ko: |-
+    흐음~ 기분 좋은 피톤치드의 향이…
+    어머, 햇님이셨군요?
+  ja: |-
+    す～っ…すがすがしいフィトンチッドの香りが…
+    まあ、おてんとさまでしたか。
+c412_Lobby_Touch_Love_3:
+  en: |-
+    Why don't you remove your clothing and get a little closer to nature?
+    How about joining us, Sun?
+  ko: |-
+    옷을 벗고 좀 더 자연에 가까워져 봐요~
+    햇님도 같이 하시는 게 어때요?
+  ja: |-
+    服を脱いで、もっと自然に近づきましょう。
+    おてんとさまも一緒にいかがですか？
+c412_Lobby_Stay_1:
+  en: |-
+    Where did you go, Sun?
+    Does anyone know where Sun might be?
+  ko: |-
+    어머, 햇님, 어디 가셨나요?
+    흐음~ 혹시 알고 있는 친구 있니?
+  ja: |-
+    あれ、おてんとさまがいない！？
+    う～ん、誰か知らない？
+c412_Lobby_Stay_Love_1:
+  en: |-
+    Take your time; there’s no rush.
+    My arms will always be open for you.
+  ko: |-
+    천천히 오셔도 좋아요~
+    제 품은 항상 열려있으니까요~
+  ja: |-
+    ゆっくりいらしてください。
+    私の胸はいつでも開かれています。
+c412_Outpost_Touch_1:
+  en: Someday, everyone here will feel the beauty of nature, won't they?
+  ko: |-
+    언젠가 여기 있는 모두가
+    자연의 아름다움을 느낄 날이 오겠죠?
+  ja: |-
+    いつかここにいるみんなが
+    自然の美しさを感じられる日が 来ますよね？
+c412_Outpost_Touch_2:
+  en: |-
+    It's amazing to see how well they've grown in an artificial environment.
+    Life always finds a way.
+  ko: |-
+    인공적인 환경에서 이렇게나 잘 자라주다니~
+    역시 생명은 위대해요.
+  ja: |-
+    人工的な環境でも こんなによく育ってくれて…
+    やっぱり生命は偉大です。
+c412_Outpost_Touch_3:
+  en: There are so many little ones here who require my care.
+  ko: 이곳에도 제 손길이 필요한 아이들이 많네요~
+  ja: 私のお世話が 必要な子たちばかりですね。
+c412_Gacha_Get_1:
+  en: |-
+    They call me Trina, the caretaker of trees.
+    You're always welcome to rest in my embrace.
+  ko: |-
+    나무를 관리하는 트리나라고 해요.
+    언제나 제 품에서 쉬어가셔도 좋답니다.
+  ja: |-
+    樹木を管理している、トリナといいます。
+    いつでも私の胸の中でお休みください。
+c412_Reinforce_1:
+  en: |-
+    I've taken one step closer to nature.
+    If we shed our layers here, we can take two steps forward.
+  ko: |-
+    자연에 한 걸음 더 다가갔어요~
+    여기서 옷을 벗으면 두 걸음 갈 수 있겠죠?
+  ja: |-
+    自然に一歩近づきましたね。
+    服を脱げば、二歩近づけますよ？
+c412_Reinforce_2:
+  en: Wow, the vitality is overflowing.
+  ko: 와아~ 생명력이 넘쳐나고 있어요~
+  ja: わあ～生命力があふれ出るようです。
+c412_Reinforce_3:
+  en: We must thank Sun, shouldn't we, little ones?
+  ko: 얘들아~ 햇님께 감사하다고 인사해야지?
+  ja: みんな～おてんとさまにお礼を言わなくちゃ～
+c412_Gift_1:
+  en: "Wow, is this a gift? \nIt has been some time since I've received anything like
+    this. I'm touched."
+  ko: |-
+    와아~ 선물인가요?
+    받는 건 오랜만이라 감동이네요~
+  ja: |-
+    わあ～プレゼントですか？
+    何かをもらうのは久しぶりです。感動しました。
+c412_Gift_2:
+  en: The way you give so generously... you remind me of a tree with abundant fruit.
+  ko: |-
+    그렇게 아낌없이 주시는 모습…
+    마치 사과나무를 보는 것 같달까요?
+  ja: |-
+    こんなふうに惜しみなく与える姿は…
+    まるでリンゴの木のようです。
+c412_Gift_3:
+  en: Thank you. Oh, do you like it as well?
+  ko: |-
+    후후, 고마워요~
+    어머, 너희들도 마음에 드니?
+  ja: |-
+    ふふ、ありがとうございます。
+    あら、あなたたちも気に入ったのね。
+c412_Attractive_Up_1:
+  en: Sun... Is it okay if I hold you close for a moment?
+  ko: 햇님… 잠시 제가 품어드려도 괜찮을까요?
+  ja: |-
+    おてんとさま…
+    少しだけ私が抱きしめてあげましょうか？
+c412_Attractive_Up_2:
+  en: Your body and spirit feel sturdier than any tree I've ever known.
+  ko: |-
+    햇님의 몸과 마음…
+    제가 아는 어떤 나무보다도 단단한 것 같아요.
+  ja: |-
+    おてんとさまの心と体は…
+    私が知っているどんな木よりもたくましいです。
+c412_Attractive_Up_3:
+  en: |-
+    You have this unfailing light that shines on everyone, and I want it all for myself...
+    Could that be considered greed?
+  ko: |-
+    모두를 비춰주는 햇살을 독차지하고 싶어져요…
+    이게 욕심이라는 걸까요?
+  ja: |-
+    みんなを照らす太陽を独り占めしたくなります…
+    これが欲というものなのでしょうか。
+c412_Party_Deploy_1:
+  en: Great. Are we going out for some photosynthesis?
+  ko: 좋아요~ 광합성 하러 가는 건가요?
+  ja: |-
+    分かりました～
+    光合成をしに行くんですか？
+c412_Field_Touch_1:
+  en: Did you call for me?
+  ko: 어머, 부르셨나요?
+  ja: あら、お呼びでしょうか。
+c412_Field_Go_1:
+  en: I wonder what little ones might be nearby?
+  ko: 이 주변엔 어떤 아이들이 있을까요?
+  ja: この辺りには、どんな子たちがいるのでしょうか。
+c412_Battle_Enter_1:
+  en: It's time to return to nature.
+  ko: 자연으로 돌아갈 시간이에요~
+  ja: 自然に戻る時間ですよ～
+c412_Battle_Ready_1:
+  en: You’ve set your roots in the wrong place, haven't you?
+  ko: 잘못된 곳에 뿌리를 내리셨군요?
+  ja: 根を下ろす場所を間違えちゃいましたね。
+c412_Battle_Ready_2:
+  en: We need to prune the unnecessary branches.
+  ko: 불필요한 가지는 솎아내야 하니까요~
+  ja: 必要のない枝は、剪定をしましょうね～
+c412_Battle_Ready_3:
+  en: Careful, so the little ones don’t get hurt.
+  ko: 아이들이 다치지 않게~ 조심해서~
+  ja: 子どもたちがケガをしないように慎重に。
+c412_Reload_1:
+  en: Slow and steady wins the race.
+  ko: 급할수록 천천히~
+  ja: 忙しいときこそ、ゆっくりと～
+c412_Reload_2:
+  en: Gently, so the stems don’t get damaged.
+  ko: 줄기가 상하지 않게 살살….
+  ja: 茎が折れないようにそーっと…
+c412_Reload_3:
+  en: Hehe, I need to be careful.
+  ko: 후후, 조심해야겠어요~
+  ja: ふふ、慎重に、慎重に～
+c412_Ult_Skill_Ready_1:
+  en: Nature is calling to us!
+  ko: 자연이 저희를 부르고 있어요!
+  ja: 自然が私たちを呼んでいます！
+c412_Ult_Skill_1:
+  en: Nature... is a beautiful thing.
+  ko: 자연은… 아름다운 것이랍니다.
+  ja: 自然は…美しいものです。
+c412_FullBurst_1:
+  en: Feel the overflowing vitality!
+  ko: 넘치는 생명력을 느껴보세요!
+  ja: あふれる生命力を感じてください！
+c412_Kill_Monster_1:
+  en: This will make good compost.
+  ko: 좋은 거름이 되겠어요.
+  ja: いい肥料になりますね。
+c412_Kill_Monster_2:
+  en: Your roots seem to be damaged.
+  ko: 뿌리가 상하셨군요?
+  ja: 根がダメになっちゃいましたね。
+c412_Kill_Monster_3:
+  en: Return to the soil.
+  ko: 흙으로 돌아가세요~
+  ja: 土に戻ってくださ～い。
+c412_Damage_1:
+  en: That hurts!
+  ko: 아, 아파….
+  ja: い、痛い…
+c412_Damage_2:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c412_Damage_3:
+  en: Oops...
+  ko: 아이쿠….
+  ja: あぁ…
+c412_Die_1:
+  en: Ugh... This doesn't feel natural...
+  ko: 으으… 이건 자연스럽지 않아요….
+  ja: うぅ…こんなのは不自然です…
+c412_Win_1:
+  en: Hehe, finally, we've borne fruit!
+  ko: 후후, 드디어 결실을 맺었군요~
+  ja: ふふ、ついに実を結びましたね～
+412_cv_ja:
+  en: 'CV: Natsumi Takamori'
+  ko: 'CV : 타카모리 나츠미'
+  ja: CV：高森奈津美
+412_cv_ko:
+  en: 'CV: Kwon Da-ye'
+  ko: 'CV : 권다예'
+  ja: CV：クォン・ダエ
+412_cv_en:
+  en: 'CV: Christina Kelly'
+  ko: 'CV : 크리스티나 켈리'
+  ja: CV：Christina Kelly

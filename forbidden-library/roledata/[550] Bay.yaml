@@ -1,0 +1,513 @@
+---
+550_name:
+  en: Bay
+  ko: 베이
+  ja: ベイ
+c550_description:
+  en: |-
+    Ark's Cheerleading Squad — Captain of Rewind.
+    Suffers from scopophobia, but becomes very enthusiastic when it comes to cheering someone on.
+  ko: |-
+    방주 치어리더 팀, 리와인드 스쿼드의 리더.
+    주목 공포증을 가지고 있지만, 누군가를 응원하고 격려해야 할 때만큼은 열정적으로 변한다.
+  ja: |-
+    アークのチアリーダーチーム、リワインド部隊のリーダー。
+    視線恐怖症だが、誰かを応援し、励ます時だけは
+    情熱的になる。
+550_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_550:
+  en: Bay's Spare Body
+  ko: 베이 스페어 바디
+  ja: ベイのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+15502_name:
+  en: Cheer Up Together
+  ko: 치얼업 투게더
+  ja: チアアップトゥギャザー
+15502_description_1:
+  en: "■ Activates if self survives when using Burst Skill. Affects all allies. \n<color=#00AEFF><word_group=10044>Proportionally
+    shares damage taken</word_group> continuously.</color>\n■ Activates when Full
+    Burst ends. Affects self.\n<color=#00AEFF><word_group=10043>Constantly recovers
+    Cover's HP</word_group> by {description_value_01}% of caster's <word_group=10025>final</word_group>
+    Max HP every 1 sec for {description_value_02} sec.</color>"
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신이 생존해있을 때 한하여 자신의 엄폐물에게
+    <color=#00AEFF>[<word_group=10044>받는 대미지 차등 분배</word_group>] [지속]</color>
+    ■ 풀 버스트 타임 종료 시 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 <word_group=10043>엄폐물 체력 지속 회복</word_group> {description_value_01}%] [1초 간격] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分が生存している限り、自分の遮蔽物に
+    <color=#00AEFF>「<word_group=10044>受けるダメージ偏差分配</word_group>」「持続」</color>
+    ■フルバーストタイムが終了した時、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPに比例して<word_group=10043>遮蔽物HP持続回復</word_group>{description_value_01}％」「1秒間隔」「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+15501_name:
+  en: You Can Do It
+  ko: 유 캔 두잇
+  ja: ユーキャンドゥーイット
+15501_description_1:
+  en: "■ Activates if self survives when using Burst Skill. Affects all allies. \n<color=#00AEFF><word_group=10044>Proportionally
+    shares damage taken</word_group> continuously.\nDEF ▲ {description_value_01}%
+    of caster's DEF continuously.</color>"
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신이 생존해있을 때 한하여 아군 전체에게
+    <color=#00AEFF>[<word_group=10044>받는 대미지 차등 분배</word_group>] [지속]
+    [시전자 기준 방어력 {description_value_01}% ▲] [지속]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分が生存している限り、味方全体に
+    <color=#00AEFF>「<word_group=10044>受けるダメージ偏差分配</word_group>」「持続」
+    「スキル発動者基準で防御力{description_value_01}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15503_name:
+  en: First Winner
+  ko: 퍼스트 위너
+  ja: ファーストウィナー
+15503_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF><word_group=10033>Cover's Max HP</word_group> ▲ {description_value_01}% of the caster's Max HP, lasts for {description_value_02} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Damage Taken ▼ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[시전자의 최대 체력 비례 <word_group=10033>엄폐물 최대 체력</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「スキル発動者の最大HPに比例して<word_group=10033>遮蔽物最大HP</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「受けるダメージ{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+551_name:
+  en: Clay
+  ko: 클레이
+  ja: クレイ
+c550_Lobby_Touch_1:
+  en: "What are you looking at? \nIs this the first time you've seen a cheerleader?"
+  ko: |-
+    뭘 봐?
+    치어리딩 하는 사람 처음 봐?
+  ja: |-
+    何？
+    チアリーディングを見るのは初めて？
+c550_Lobby_Touch_2:
+  en: Quit staring at my face for more than 5 seconds, Coach.
+  ko: 코치님, 내 얼굴 5초 이상 빤히 바라보는 거 금지야.
+  ja: コーチ、私の顔を5秒以上見るのは禁止ね。
+c550_Lobby_Touch_3:
+  en: |-
+    You want me to cheer you on, huh?
+    Then, turn around.
+  ko: |-
+    나한테 응원받고 싶다고?
+    그럼 뒤돌아 있어.
+  ja: |-
+    私に応援してほしいって？
+    じゃあ後ろ向いてて。
+c550_Lobby_Touch_Love_1:
+  en: I'll let you make eye contact with me, but for ten seconds only.
+  ko: |-
+    코치님한텐 특별히 나랑 눈 맞출 수 있는 기회 줄게.
+    대신 10초만이야.
+  ja: |-
+    コーチには特別に私と目を合わせるチャンスをあげる。
+    その代わり、10秒だけね。
+c550_Lobby_Touch_Love_2:
+  en: |-
+    I still can't stand people staring at me.
+    But your gaze... well, it's tolerable, I suppose.
+  ko: |-
+    아직도 사람들의 시선은 불편해.
+    하지만 코치님의 시선은… 뭐, 나쁘지 않아.
+  ja: |-
+    まだみんなからの視線は怖いの。
+    でも、コーチの視線は…悪くないかな。
+c550_Lobby_Touch_Love_3:
+  en: With you by my side, I don't see anything worth being afraid of.
+  ko: 코치님만 내 옆에 있어준다면 무서울 게 없을 것 같아.
+  ja: コーチさえ隣にいてくれたら、何も怖くないかも。
+c550_Lobby_Stay_1:
+  en: |-
+    Coach, if you're not gonna do anything, why even bother calling me out here?
+    I sacrificed practice time for this... If I mess up again, it's on you, got it?
+  ko: |-
+    코치님, 아무것도 안 할 거면 대체 왜 불렀어?
+    연습 시간 쪼개서 왔더니… 내가 또 실수하면 책임 질거야?
+  ja: |-
+    コーチ、何もしないならどうして呼んだの？
+    練習時間を減らして来たのに…失敗したら責任とってくれる？
+c550_Lobby_Stay_Love_1:
+  en: |-
+    Coach, I know I told you not to stare at me, but...
+    Isn't it a bit rude to completely ignore me? Hurry up and help me with practice.
+  ko: |-
+    코치님, 내가 아무리 바라보지 말라고 했다지만…
+    너무 관심 없는 거 아니야? 빨리 와서 연습이나 도와줘.
+  ja: |-
+    コーチ、確かに見ないでとは言ったけど…
+    興味なさすぎじゃない？早く来て、練習でも手伝ってよ。
+c550_Outpost_Touch_1:
+  en: Is there no place that I can practice alone?
+  ko: 여기 혼자서 응원 연습 할 수 있는 곳 없어?
+  ja: ここって、 1人で応援の練習が できる場所はないの？
+c550_Outpost_Touch_2:
+  en: "Victory! Let's hear it for victory! \n... Hold up, how long you been staring
+    at me? Quit with the staring!"
+  ko: |-
+    빅토리! 승리를 외치자!
+    …잠깐, 언제부터 보고 있던 거야? 그렇게 빤히 쳐다보지마!
+  ja: |-
+    ビクトリー！ 勝利を叫ぼう！
+    …待って、 いつからいたの？ そんなに見ないで！
+c550_Outpost_Touch_3:
+  en: Do you happen to know any Nikke who would make a good cheerleader?
+  ko: 있잖아, 혹시 아는 니케 중에 치어리더 할만한 니케 없어?
+  ja: ねえ、 知り合いにチアリーダーが できそうなニケって いない？
+c550_Gacha_Get_1:
+  en: |-
+    Once you've had a taste of my cheerleading,
+    you'll never settle for less.
+    Your victory is guaranteed.
+  ko: |-
+    내 응원을 받고도 진다는 건 있을 수 없는 일이야.
+    반드시 승리해야만 해.
+  ja: |-
+    私に応援されたのに負けるなんてあり得ないわ。
+    必ず勝たなきゃダメよ。
+c550_Reinforce_1:
+  en: I'll repay you with some top-notch cheerleading.
+  ko: 멋진 응원으로 보답할게.
+  ja: 素敵な応援でお返しするわ。
+c550_Reinforce_2:
+  en: This time, I think I can look directly at the crowd without flinching.
+  ko: "…이번엔 관중들 눈을 제대로 쳐다볼 수 있을 것만 같아."
+  ja: "…今度は観客の目をちゃんと見られそう。"
+c550_Reinforce_3:
+  en: Thanks to you, Coach, I can cheer with a louder voice.
+  ko: 코치님 덕분에 조금 더 큰 목소리로 응원할 수 있어.
+  ja: コーチのおかげで、もっと大きな声で応援できるわ。
+c550_Gift_1:
+  en: If it makes you happy, I'll accept it.
+  ko: 코치님 성의를 봐서라도 받아줄게.
+  ja: コーチの気持ちをくんで、受け取ってあげるわ。
+c550_Gift_2:
+  en: What's this? Doesn't seem like it's your first time giving a gift to a girl,
+    huh?
+  ko: "…뭐야, 여자한테 한두 번 선물해본 게 아닌 것 같은데?"
+  ja: "…何よ、よく女の子にプレゼントしてるみたいね？"
+c550_Gift_3:
+  en: |-
+    Seems like I'm always receiving your gifts...
+    Well, thanks anyway.
+  ko: "매번 나만 받는 기분인데… \n아무튼, 고마워."
+  ja: |-
+    いつももらってばかりの気がするわね…
+    とにかく、ありがとう。
+c550_Attractive_Up_1:
+  en: |-
+    The reason my face is red is that I was cheering too hard.
+    It's not because of you, so don't get any funny ideas.
+  ko: |-
+    얼굴 빨개진 건 응원을 너무 열심히 해서 그래.
+    코치님 때문 아니니까 착각하지 마.
+  ja: |-
+    顔が赤くなったのは応援を頑張りすぎたからよ。
+    コーチのせいじゃないから、勘違いしないで。
+c550_Attractive_Up_2:
+  en: |-
+    Something isn't right.
+    This isn't the same jitters I had on stage.
+  ko: |-
+    …뭔가 이상해.
+    무대에서 느꼈던 떨림과는 달라.
+  ja: |-
+    …何だか落ち着かないわ…
+    ステージで感じる緊張とは違うの。
+c550_Attractive_Up_3:
+  en: This won't end up with me cheering about how much I love you, right?
+  ko: "…이러다 코치님과의 사랑을 응원하게 되는 건 아니겠지?"
+  ja: "…このままコーチとの恋を応援しちゃったりして？"
+c550_Party_Deploy_1:
+  en: Want to hear my cheerleading?
+  ko: 내 응원을 원해?
+  ja: 応援してほしい？
+c550_Field_Touch_1:
+  en: Let's get our cheer on!
+  ko: 치어리딩은 문제없어.
+  ja: いつでもパフォーマンスできるわ。
+c550_Field_Go_1:
+  en: |-
+    Let's head over there!
+    Looks like I'm needed.
+  ko: |-
+    저쪽으로 가보자!
+    내가 필요할 것 같아.
+  ja: |-
+    あっちに行きましょ！
+    何か手伝えそうだわ。
+c550_Battle_Enter_1:
+  en: I will give you strength!
+  ko: 힘을 불어 넣어줄게!
+  ja: 元気づけてあげる！
+c550_Battle_Ready_1:
+  en: Go! Go! Victory!
+  ko: Go! Go! Victory!
+  ja: Go！Go！Victory！
+c550_Battle_Ready_2:
+  en: Don't sweat it, the squad's here!
+  ko: 내가 있으니, 응원은 걱정 마!
+  ja: 私がいるから、応援は心配しないで！
+c550_Battle_Ready_3:
+  en: If we can't do it, no one can!
+  ko: 승리를 위해, 파이팅!
+  ja: 勝利のために、ファイト！
+c550_Reload_1:
+  en: I'll keep cheering after this.
+  ko: 내 응원은 멈추지 않아.
+  ja: 私の応援は止まらないのよ。
+c550_Reload_2:
+  en: There's still plenty of time.
+  ko: 아직 시간은 많아.
+  ja: まだ時間はたっぷりあるわ。
+c550_Reload_3:
+  en: Get ready to cheer!
+  ko: 응원 장전.
+  ja: インターバルよ。
+c550_Ult_Skill_Ready_1:
+  en: Now, it's my turn!
+  ko: 내 차례가 왔어!
+  ja: 私の番よ！
+c550_Ult_Skill_1:
+  en: Time to get you all jazzed up!
+  ko: 내가 너희를 빛내줄게!
+  ja: みんなを輝かせてあげる！
+c550_FullBurst_1:
+  en: B-E-S-T! spells BEST!
+  ko: 점프 업! 텐션 업! 치얼 업-!
+  ja: ジャンプアップ！テンションアップ！チアーアップ！
+c550_Kill_Monster_1:
+  en: I'm on a roll now!
+  ko: 다음 응원도 문제없어!
+  ja: 次のダンスも問題ないわ！
+c550_Kill_Monster_2:
+  en: I'm gonna see this through with you!
+  ko: 나와 끝까지 가보는 거야!
+  ja: 最後まで一緒に行こう！
+c550_Kill_Monster_3:
+  en: Can you feel the team spirit?
+  ko: 내 응원이 무사히 닿았어!
+  ja: 私の応援が届いたわね！
+c550_Damage_1:
+  en: Ouch!
+  ko: 아야!
+  ja: ああ！
+c550_Damage_2:
+  en: Kyaa!
+  ko: 꺅!
+  ja: きゃっ！
+c550_Damage_3:
+  en: Ow!
+  ko: 흐윽…!
+  ja: ううっ…！
+c550_Die_1:
+  en: I guess my cheers weren't enough...
+  ko: "…내 응원이 부족했나 보네."
+  ja: "…私の応援が足りなかったみたいね。"
+c550_Win_1:
+  en: This time, my cheerleading was perfect!
+  ko: 이번 나의 치어리딩은 완벽했어!
+  ja: 完璧なチアリーディングだったわ！
+550_cv_ja:
+  en: 'CV: Yū Serizawa'
+  ko: 'CV : 세리자와 유우'
+  ja: CV：芹澤優
+550_cv_ko:
+  en: 'CV: Lee Bo-young'
+  ko: 'CV : 이보용'
+  ja: CV：イ・ボヨン
+550_cv_en:
+  en: 'CV: Tara Sands'
+  ko: 'CV : 타라 샌즈'
+  ja: CV：Tara Sands

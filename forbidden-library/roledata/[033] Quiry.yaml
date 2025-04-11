@@ -1,0 +1,508 @@
+---
+33_name:
+  en: Quiry
+  ko: 키리
+  ja: キリ
+c033_description:
+  en: |-
+    A member of A.C.P.U.
+    She possesses exceptional administrative skills,
+    but frequently runs into trouble due to her surprisingly poor eyesight.
+  ko: |-
+    A.C.P.U. 스쿼드 소속 니케.
+    행정 업무 처리 능력은 뛰어나지만,
+    특이하게 니케임에도 시력이 좋지 않아 의도치 않게 많은 사고를 내고 있다.
+  ja: |-
+    A.C.P.U.部隊所属のニケ。
+    行政業務の対応力は優れているが、
+    ニケなのになぜか目が悪く、
+    意図せず多くのトラブルを起こしている。
+33_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_33:
+  en: Quiry's Spare Body
+  ko: 키리 스페어 바디
+  ja: キリのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20332_name:
+  en: Scrutiny
+  ko: 훑어보기
+  ja: 見渡し
+20332_description:
+  en: |-
+    ■ Activates when entering battle. Affects {description_value_01} Defender ally unit(s).
+    <color=#00AEFF>Max HP ▲ {description_value_02}% continuously.</color>
+  ko: |-
+    ■ 전투 시작 시 방어형 아군 {description_value_01}기에게
+    <color=#00AEFF>[최대 체력 {description_value_02}% ▲] [지속]</color>
+  ja: |-
+    ■戦闘開始時、防御型の味方{description_value_01}機に
+    <color=#00AEFF>「最大HP{description_value_02}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20331_name:
+  en: Glance
+  ko: 곁눈질
+  ja: のぞき見
+20331_description:
+  en: |-
+    ■ Activates when hitting a target with Full Charge. Affects the target.
+    <color=#00AEFF>ATK ▼ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
+    ■ Activates when attacking with Full Charge. Affects {description_value_03} Defender ally unit(s).
+    <color=#00AEFF>ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▼] [{description_value_02}초 유지]</color>
+    ■ 풀 차지 공격 시 방어형 아군 {description_value_03}기에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▼」「{description_value_02}秒間維持」</color>
+    ■フルチャージして攻撃した時、防御型の味方{description_value_03}機に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10333_name:
+  en: Penetrating Stare
+  ko: 꿰뚫어보기
+  ja: お見通し
+10333_description:
+  en: |-
+    ■ Affects all allies.
+     <color=#00AEFF>Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
+    ■ Affects all Defender allies.
+    <color=#00AEFF>Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복] [1초 간격] [{description_value_02}초 유지]</color>
+    ■ 방어형 아군 전체에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」「1秒間隔」「{description_value_02}秒間維持」</color>
+    ■防御型の味方全体に
+    <color=#00AEFF>「クリティカル確率{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+30_name:
+  en: Poli
+  ko: 폴리
+  ja: ポリ
+32_name:
+  en: Miranda
+  ko: 미란다
+  ja: ミランダ
+c033_Lobby_Touch_1:
+  en: |-
+    Hi, I'm Quiry! I'm supposed to be joining the A.C.P.U...
+    Wait, is this not where it is?
+  ko: |-
+    안녕하세요, A.C.P.U.에 합류하게 된 키리입니다!
+    …아, 이쪽이 아닌가…?
+  ja: |-
+    こんにちは！A.C.P.U.に合流することになりました、
+    キリです！…あれ、こっちじゃない…？
+c033_Lobby_Touch_2:
+  en: Hmm... is that you, Commander?
+  ko: 흐으음… 지휘… 관 맞으시죠?
+  ja: う～ん…指揮…官、ですよね？
+c033_Lobby_Touch_3:
+  en: "I'm a Nikke but my eyesight isn't too great. \nPretty weird, huh?"
+  ko: |-
+    전 니케인데도 시력이 좋지 않아요.
+    참 특이하죠?
+  ja: |-
+    私はニケなのに目が悪いんです。
+    変わってますよね？
+c033_Lobby_Touch_Love_1:
+  en: I can see you as clear as day now, Commander!
+  ko: 지휘관, 이제 지휘관이 너무 선명하게 잘 보여요!
+  ja: 指揮官が、すごくハッキリ見えます！
+c033_Lobby_Touch_Love_2:
+  en: |-
+    Now that I can see you better,
+    I feel like my surroundings are all a blur.
+  ko: |-
+    흐으음… 지휘관이 잘 보이니까
+    주변이 더 흐려진 것 같아요.
+  ja: |-
+    う～ん…指揮官はよく見えるんですが、
+    周りがさらにぼやけて見えます。
+c033_Lobby_Touch_Love_3:
+  en: |-
+    Having poor eyesight has its advantages.
+    It means that all I can see is you.
+  ko: |-
+    시력이 나쁜 것도 장점이 있네요!
+    이렇게 보면 진짜 지휘관 밖에 안 보이거든요.
+  ja: |-
+    目が悪くても、いいことがありますね！
+    こうすると、指揮官しか見えないんですよ。
+c033_Lobby_Stay_1:
+  en: |-
+    Commander? Are you there?
+    Where'd you go?
+  ko: |-
+    흐으음…? 지휘관 거기 계시… 나요?
+    아닌가? 어디 가셨나…?
+  ja: |-
+    う～ん…？指揮官、そこにいますか…？
+    違うのかな？どこ行ったんだろう…？
+c033_Lobby_Stay_Love_1:
+  en: |-
+    My world is all a haze when you're not here.
+    This is a recent development, though.
+  ko: |-
+    지휘관이 없으니, 세상이 너무 뿌옇네요.
+    …예전엔 몰랐는데 말이에요.
+  ja: |-
+    指揮官がいないと、世界がぼやけて見えます。
+    …初めて知りました。
+c033_Outpost_Touch_1:
+  en: I've almost memorized the way to the Outpost.
+  ko: 이제 전초기지 길은 거의 다 외웠어요!
+  ja: 前哨基地の道は、 ほぼ覚えました！
+c033_Outpost_Touch_2:
+  en: "There are so many things in the world that look like Poli. \n... Especially
+    towels."
+  ko: |-
+    세상에는 폴리를 닮은 것들이 너무 많아요.
+    …특히 이 수건들이요.
+  ja: |-
+    この世界には、 ポリにそっくりなものが 多すぎます。
+    …特に、このタオル。
+c033_Outpost_Touch_3:
+  en: Hmmm? What is this?
+  ko: 흐으음…? 이건 뭐지…? 흐으으음….
+  ja: う～ん…？ これは何だろう…？ う～～ん…
+c033_Gacha_Get_1:
+  en: Hmm... Is someone there?
+  ko: 흐으음… 거기 누구 계시나요…?
+  ja: う～ん…あの、どなたかいらっしゃいませんか…？
+c033_Reinforce_1:
+  en: "Ohh! \nI feel like I can see a litttttle bit more in front of me!"
+  ko: |-
+    오오!
+    앞이 쪼오오금 더 잘 보이는 것 같아요!
+  ja: |-
+    おお！
+    前がすこぉぉし、ちゃんと見える気がします！
+c033_Reinforce_2:
+  en: This should let me help Poli out more.
+  ko: 이 정도면 폴리에게 도움이 되겠죠?
+  ja: これなら、ポリをサポートできますよね？
+c033_Reinforce_3:
+  en: I've gotta keep doing my best!
+  ko: 앞으로도 열심히 하겠습니다!
+  ja: これからも頑張ります！
+c033_Gift_1:
+  en: |-
+    Wow, thank you...
+    But what exactly is it?
+  ko: |-
+    와! 감사합니다~!
+    …그런데 이게 뭐죠?
+  ja: |-
+    わあ！ありがとうございます～！
+    …ところで、これは何ですか？
+c033_Gift_2:
+  en: "Wh-what is this?! \nIt's got a funny shape..."
+  ko: |-
+    이, 이게 뭔가요?!
+    뭔가 모양이 이상한 것 같은데….
+  ja: |-
+    こ、これは何ですか！？
+    何だか、変な形なんですが…
+c033_Gift_3:
+  en: Thanks, I'll put it to good use!
+  ko: 감사합니다! 잘 쓰겠습니다!
+  ja: ありがとうございます！大切に使わせていただきます！
+c033_Attractive_Up_1:
+  en: You're so dazzling, Commander!
+  ko: 으악 지휘관, 너무 눈부셔요…!
+  ja: うあっ、指揮官。眩しすぎます…！
+c033_Attractive_Up_2:
+  en: |-
+    Hmmm... Did you get more clear,
+    or has the world gotten more blurry?
+  ko: |-
+    흐으음… 지휘관이 더 선명해진 걸까요,
+    세상이 더 흐려진 걸까요?
+  ja: |-
+    う～ん…指揮官がハッキリ見えるようになったのでしょうか？
+    世界のほうがぼやけたのでしょうか？
+c033_Attractive_Up_3:
+  en: I have the utmost respect for you, Commander. I honestly do.
+  ko: 존경해요, 지휘관! 진심입니다!
+  ja: 尊敬しています、指揮官！本当です！
+c033_Party_Deploy_1:
+  en: I'll try my best!
+  ko: 최선을 다할게요!
+  ja: ベストを尽くします！
+c033_Field_Touch_1:
+  en: Did you call?
+  ko: 네! 부르셨나요?
+  ja: はい！お呼びですか？
+c033_Field_Go_1:
+  en: Is this... the right way?
+  ko: 이… 쪽이 맞나요?
+  ja: こっち…で合ってますか？
+c033_Battle_Enter_1:
+  en: I think I discovered a Rapture!
+  ko: 랩쳐를 발견한 것 같아요!
+  ja: ラプチャーを見つけたようです！
+c033_Battle_Ready_1:
+  en: Firing!
+  ko: 일단 쏠게요!
+  ja: とりあえず、撃ちます！
+c033_Battle_Ready_2:
+  en: Everything in front of us are Raptures, right?
+  ko: 이 앞이 다 랩쳐라는 거죠?
+  ja: 前にいるのは、全部ラプチャーですよね？
+c033_Battle_Ready_3:
+  en: Where are the Raptures?
+  ko: 랩쳐는 어디죠?!
+  ja: ラプチャーはどこですか！？
+c033_Reload_1:
+  en: Reloading!
+  ko: 리로드!
+  ja: リロード！
+c033_Reload_2:
+  en: Preparing to reload.
+  ko: 장전할게요!
+  ja: 装填します！
+c033_Reload_3:
+  en: Was it this way?
+  ko: 이쪽이었… 나?!
+  ja: こっち…だった！？
+c033_Ult_Skill_Ready_1:
+  en: I saw something sparkle!
+  ko: 저기 반짝이는 게 보여요!
+  ja: あそこにキラキラが見えます！
+c033_Ult_Skill_1:
+  en: What a bunch of annoying bugs.
+  ko: 이…! 이 못된 벌레 녀석…!
+  ja: この…！虫けらめ…！
+c033_FullBurst_1:
+  en: I can see clearly now!
+  ko: 갑자기 앞이 잘 보여요!
+  ja: 急に前がよく見えるようになりました！
+c033_Kill_Monster_1:
+  en: Which way next?
+  ko: 다음은 어디죠?!
+  ja: 次はどこですか！？
+c033_Kill_Monster_2:
+  en: Did I kill it?
+  ko: 해치운 거 맞죠…?
+  ja: 倒したんですよね…？
+c033_Kill_Monster_3:
+  en: Nice!
+  ko: 좋아요!
+  ja: いいですね！
+c033_Damage_1:
+  en: Agh!
+  ko: 으악!
+  ja: うあっ！
+c033_Damage_2:
+  en: Eeep!
+  ko: 앗!
+  ja: あっ！
+c033_Damage_3:
+  en: Keuk...!
+  ko: 크읏…!
+  ja: くっ…！
+c033_Die_1:
+  en: I didn't see that Rapture on the left...
+  ko: 왼쪽에도… 랩쳐가 있을… 줄은….
+  ja: あっちにも…ラプチャーが…いたとは…
+c033_Win_1:
+  en: I could do this with my eyes closed.
+  ko: 이 정도는 눈 감고도 한다구요!
+  ja: これくらい、目をつぶっててもできますよ！
+33_cv_ja:
+  en: 'CV: Rina Kawaguchi'
+  ko: 'CV : 카와구치 리나'
+  ja: CV：川口莉奈
+33_cv_ko:
+  en: 'CV: Chun Song-e'
+  ko: 'CV : 천송이'
+  ja: CV：チョン・ソンイ
+33_cv_en:
+  en: 'CV: Laci Morgan'
+  ko: 'CV : 라시 모건'
+  ja: CV：Laci Morgan

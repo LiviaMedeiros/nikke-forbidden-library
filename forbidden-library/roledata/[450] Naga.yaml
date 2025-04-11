@@ -1,0 +1,751 @@
+---
+450_name:
+  en: Naga
+  ko: 나가
+  ja: ナガ
+c450_description:
+  en: |-
+    The spiritual glue that holds Dazzling Pearl together.
+    She dotes on the forgetful Tia much like a older sister does to ensure that she remembers things.
+    Appears mature on a regular basis, but if an accessory catches her eye, she often indulges in impulse purchases and overspending.
+  ko: |-
+    졸업반 다즐링 펄 스쿼드의 정신적 지주.
+    늘 뭔가를 깜빡하거나 빼먹고 다니는 티아를 언니처럼 잘 챙겨준다.
+    평소엔 늘 어른스럽지만 마음에 드는 액세서리를 보면 과소비를 해버리고 마는 충동적인 면도 있다.
+  ja: |-
+    最終学年の生徒で、ダージリンパール部隊の精神的リーダー。
+    忘れ物が多いティアの面倒を見る、お姉ちゃん的存在。
+    普段は大人っぽいが、気に入ったアクセサリーを見つけると
+    うっかり衝動買いをしてしまう一面もある。
+450_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_450:
+  en: Naga's Spare Body
+  ko: 나가 스페어 바디
+  ja: ナガのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+24502_name:
+  en: Support of Friendship
+  ko: 우정의 서포트
+  ja: 友情のサポート
+24502_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects {description_value_02} ally unit(s) with the highest ATK.
+    <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates after {description_value_05} normal attack(s). Affects {description_value_06} ally unit(s) with the lowest HP percentage.
+    <color=#00AEFF>Recovers {description_value_07}% of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 공격력 가장 높은 아군 {description_value_02}기에게
+    <color=#00AEFF>[코어 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 일반 공격 {description_value_05}회 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_06}기에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_07}% 회복]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、攻撃力が最も高い味方{description_value_02}機に
+    <color=#00AEFF>「コアダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■通常攻撃で{description_value_05}回攻撃した時、残りのHPの割合が最も低い味方{description_value_06}機に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_07}％回復」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24501_name:
+  en: Guardian of Friendship
+  ko: 우정의 가드
+  ja: 友情のガード
+24501_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects all allies.
+    <color=#00AEFF><word_group=10017>Recovers {description_value_02}% of Cover's HP</word_group>.</color>
+    ■ Activates when <word_group=10032>applying Shield</word_group>. Affects all allies.
+    <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10017>엄폐물 체력 회복</word_group> {description_value_02}%]</color>
+    ■ <word_group=10032>보호막 적용</word_group> 시 아군 전체에게
+    <color=#00AEFF>[코어 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、味方全体に
+    <color=#00AEFF>「<word_group=10017>遮蔽物HP回復</word_group>{description_value_02}％」</color>
+    ■<word_group=10032>バリア適用</word_group>時、味方全体に
+    <color=#00AEFF>「コアダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14503_name:
+  en: As Long As We're With Friends
+  ko: 친구들과 함께라면!
+  ja: 友だちと一緒なら！
+14503_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Gain Pierce for {description_value_01} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK for {description_value_03} sec.</color>
+    ■ Activates when <word_group=10032>applying Shield</word_group>. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[관통 특화] [{description_value_01}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 자신이 <word_group=10032>보호막 적용</word_group> 상태라면 추가로 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「貫通特化」「{description_value_01}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■自分が<word_group=10032>バリア適用</word_group>状態なら、追加で味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+451_name:
+  en: Tia
+  ko: 티아
+  ja: ティア
+c450_Lobby_Touch_1:
+  en: |-
+    You think studying is all there is to being a student?
+    Oh, you have much to learn.
+  ko: |-
+    학생은 공부만 열심히 하면 되지 않냐구?
+    아하, 그렇게 보였구나~
+  ja: |-
+    学生は勉強だけ頑張ればいいって？
+    へー、そんなふうに思ってるんだ？
+c450_Lobby_Touch_2:
+  en: Oh my, it's the day the accessory store is having a sale!
+  ko: 어머, 액세서리 샵 세일하는 날이네?
+  ja: わー、アクセサリー屋さんがセールしてる！
+c450_Lobby_Touch_3:
+  en: I can't believe exams are already here. I hate this.
+  ko: 곧 시험 기간이라니, 싫어라~
+  ja: もうすぐテスト期間？やだぁ～
+c450_Lobby_Touch_Love_1:
+  en: |-
+    You're way different from the other teachers.
+    You treat us like actual students.
+  ko: |-
+    선생님은 다른 선생님들과는 달라.
+    우리를 진짜 학생처럼 대해주잖아? 후훗.
+  ja: |-
+    先生って他の先生たちと違うよね。
+    私たちを、本当の生徒みたいに扱ってくれるでしょ？ふふっ。
+c450_Lobby_Touch_Love_2:
+  en: |-
+    Sorry if Tia is getting on your nerves, Teacher.
+    You're such a good person.
+  ko: |-
+    우리 티아가 늘 귀찮게 굴어서 미안해~
+    선생님은 참 좋은 사람이야.
+  ja: |-
+    ティアがいつも迷惑かけてごめんね～
+    先生って本当にいい人～
+c450_Lobby_Touch_Love_3:
+  en: Whenever I get tired of school, can I come and see you? I can keep it a secret.
+  ko: 학교가 답답해질 때마다, 몰래 선생님을 찾아가도 될까?
+  ja: 学校がつらいなって思う時、こっそり先生に会いに行ってもいい？
+c450_Lobby_Stay_1:
+  en: Hmm... I should do some more studying on my own.
+  ko: 흐음~ 자습하고 있을게.
+  ja: う～ん、自習してるね。
+c450_Lobby_Stay_Love_1:
+  en: |-
+    Are you busy?
+    There's something I'd like you to teach me.
+  ko: "많이 바빠? \n선생님이 좀 더 가르쳐줬으면 하는 부분이 있는데~"
+  ja: |-
+    忙しい？
+    先生に教えて欲しいコトがあるんだけど～
+c450_Outpost_Touch_1:
+  en: |-
+    Tia forgot her bag this morning.
+    I've got to head to the school and pass it to her.
+  ko: |-
+    티아가 가방을 빠트리고 학교에 갔더라?
+    얼른 전해줘야 하는데~
+  ja: |-
+    ティアがカバンを忘れて 学校に行っちゃったの。
+    早く渡さないと～
+c450_Outpost_Touch_2:
+  en: |-
+    Teacher! A bunch of new accessories just came out at the shopping mall.
+    Come with me to check them out.
+  ko: |-
+    쇼핑몰에 액세서리 신상이 잔뜩 나왔어, 선생님!
+    같이 구경하러 가줘~
+  ja: |-
+    ショッピングモールに 新作のアクセサリーが 入荷したって！
+    先生、 一緒に見に行かな～い？
+c450_Outpost_Touch_3:
+  en: I wish the school was this peaceful every day.
+  ko: 이렇게 매일매일 학교가 평화로웠으면 좋겠네~
+  ja: こんな風に、 毎日学校が平和だと いいんだけど～
+c450_Gacha_Get_1:
+  en: I can't wait to be in a graduating class together with you, Teacher. Hehe!
+  ko: 선생님과 함께하는 졸업반 학교생활, 기대할게? 후훗.
+  ja: 先生と一緒の最後の学校生活、期待してるね？ふふっ。
+c450_Reinforce_1:
+  en: Will you be giving us battle lessons in the future, too?
+  ko: 어머, 이제 전투 교육도 같이 해주는 거야?
+  ja: わー、戦闘教育も一緒にしてくれるの？
+c450_Reinforce_2:
+  en: It's much more efficient when you teach us. Way better than school lessons.
+  ko: 학교 수업보다 선생님이 가르쳐주는 게 더 효율적이야~
+  ja: 学校の授業より、先生が教えてくれる方が早いの～
+c450_Reinforce_3:
+  en: I never thought I'd be able to make it this far. It's all thanks to you, Teacher.
+  ko: 여기까지 성장할 수 있을 줄은 몰랐어~ 다 선생님 덕분이야.
+  ja: ここまで成長できるなんて、先生のおかげかな～
+c450_Gift_1:
+  en: Is it okay for teachers to give presents to their students? Haha.
+  ko: 제자한테 이런 선물 줘도 괜찮아? 후훗.
+  ja: 教え子にこんなプレゼントしちゃって大丈夫なの？ふふっ。
+c450_Gift_2:
+  en: |-
+    You picked out the exact gift I wanted!
+    This is perfect, Teacher, thank you!
+  ko: |-
+    어쩜, 역시 선생님은 선생님이야.
+    내가 원하는 것만 딱 골라서 주다니~ 고마워.
+  ja: |-
+    わ～、さすが先生～
+    私が欲しいものばっかりくれるんだから～ありがとう。
+c450_Gift_3:
+  en: I'm so happy that you got this for me! I promise I'll get you something one
+    day.
+  ko: 선생님, 나 너무 기뻐! 언젠가 꼭 보답할게~
+  ja: 先生、すごく嬉しい！いつか必ずお礼するね～
+c450_Attractive_Up_1:
+  en: For some reason, I feel so calm whenever I'm with you.
+  ko: 선생님이랑 같이 있으면 늘 마음이 편안해지더라?
+  ja: 先生と一緒にいると、落ち着くの。
+c450_Attractive_Up_2:
+  en: When you're around, I'm not even scared of exams anymore.
+  ko: 이젠 시험 기간도 두렵지 않아~ 선생님이 있으니까, 후훗.
+  ja: |-
+    もうテスト期間も怖くないね～
+    先生がいるから。ふふっ。
+c450_Attractive_Up_3:
+  en: Is there any chance I could come and see you privately today?
+  ko: 혹시… 오늘 따로 만나러 가도 될까?
+  ja: ねえ…今日1人で会いに行ってもいい？
+c450_Party_Deploy_1:
+  en: Teacher, what are we learning today?
+  ko: 선생님, 오늘은 무슨 수업이야?
+  ja: 先生、今日は何の授業？
+c450_Field_Touch_1:
+  en: Hehe, what's wrong, Teacher?
+  ko: 후훗, 왜 그래~ 선생님?
+  ja: ふふっ、どうしたの～？先生？
+c450_Field_Go_1:
+  en: I'll follow you closely, Teacher.
+  ko: 잘 따라갈게~ 선생님.
+  ja: ついて行くね～先生。
+c450_Battle_Enter_1:
+  en: A good student listens well.
+  ko: 학생은 학생답게 수업을 잘 들어야지~
+  ja: 生徒は生徒らしく、授業に集中しないと～
+c450_Battle_Ready_1:
+  en: I can't believe I'm already about to graduate.
+  ko: 벌써 졸업반이라니~ 안 믿기네.
+  ja: もう最終学年だなんて～信じられないよ。
+c450_Battle_Ready_2:
+  en: Don't get yourself hurt, Teacher.
+  ko: 선생님, 다치면 안 된다?
+  ja: 先生、ケガしちゃダメだよ？
+c450_Battle_Ready_3:
+  en: Time to show what a female student is capable of.
+  ko: 여학생의 힘을 보여줘야겠네~
+  ja: 学生のチカラを見せつけないとね～
+c450_Reload_1:
+  en: This is pretty close to our practice drills.
+  ko: 연습이나 실전이나 비슷하네~
+  ja: 練習も実戦も変わらないね～
+c450_Reload_2:
+  en: Just a moment, gotta reload real quick.
+  ko: 잠깐만, 금방 장전할게.
+  ja: 待って、すぐ装填するから。
+c450_Reload_3:
+  en: This uniform is so comfortable.
+  ko: 교복? 엄청 편해~
+  ja: 制服？すっごく楽だよ～
+c450_Ult_Skill_Ready_1:
+  en: I'm already prepared, Teacher.
+  ko: 선생님, 나 벌써 준비됐다?
+  ja: 先生、もう準備できてるよ？
+c450_Ult_Skill_1:
+  en: I want to preserve beautiful memories of my campus life.
+  ko: 학교생활의 추억… 마지막만큼은 아름답게 남기고 싶어.
+  ja: 学校生活の思い出…最後くらいは、キレイに残したいの。
+c450_FullBurst_1:
+  en: Feast your eyes on what a student can do!
+  ko: 여고생의 진짜 실력을 발휘해 볼까?
+  ja: 学生のホンキを見せてあげる。
+c450_Kill_Monster_1:
+  en: Oh my!
+  ko: 어머!
+  ja: わー！
+c450_Kill_Monster_2:
+  en: Haha.
+  ko: 후훗.
+  ja: ふふっ。
+c450_Kill_Monster_3:
+  en: Well, that was easy.
+  ko: 쉽네?
+  ja: 楽勝～
+c450_Damage_1:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c450_Damage_2:
+  en: Ugh!
+  ko: 앗!
+  ja: あっ！
+c450_Damage_3:
+  en: That hurts!
+  ko: 아프네.
+  ja: 痛い～
+c450_Die_1:
+  en: Sorry, Teacher, I was overconfident. I'm gonna take a break.
+  ko: 미안해, 선생님. 너무 자만했나 봐. 먼저 쉬고 있을게~
+  ja: |-
+    ごめんね、先生。
+    ちょっと調子に乗っちゃった。
+    先に休んでるね～
+c450_Win_1:
+  en: Whew... That concludes today's lesson!
+  ko: 휴우~ 오늘의 야외 수업은 여기까지! 후훗.
+  ja: |-
+    ふぅ～
+    今日の野外授業はここまで！ふふっ。
+c450_02_Lobby_Touch_1:
+  en: I hope this is the last festival I attend as a student.
+  ko: 학생으로서 즐기는 마지막 축제였으면 좋겠네~
+  ja: 学生としての最後のお祭りになればいいな～
+c450_02_Lobby_Touch_2:
+  en: |-
+    Tia picked this outfit out for me.
+    It was the only one left! Does it look good on me?
+  ko: |-
+    이 옷, 티아가 직접 골라준 거야.
+    딱 한 벌밖에 안 남았었는데, 잘 어울려?
+  ja: |-
+    この服、ティアが選んでくれたの。
+    最後の1着だったんだって。似合ってる？
+c450_02_Lobby_Touch_3:
+  en: |-
+    There are so many interesting shops here.
+    I wonder if there's a place that sells accessories?
+  ko: |-
+    재미있는 가게가 많네~
+    액세서리 파는 곳은 없나~?
+  ja: |-
+    面白そうなお店がたくさん～
+    アクセサリー屋さんはないかな～？
+c450_02_Lobby_Touch_Love_1:
+  en: |-
+    Today, I'm going to forget about all my worries and just have fun.
+    Won't you join me, Teacher? Hehe.
+  ko: |-
+    오늘만큼은 걱정 없이 신나게 놀아보려구.
+    함께 해줄 거지, 선생님? 후훗.
+  ja: |-
+    今日は全部忘れて遊ぼ～
+    先生も一緒に遊んでくれるよね？
+c450_02_Lobby_Touch_Love_2:
+  en: |-
+    This festival was fun because we could all walk around together.
+    But next time... can it just be the two of us?
+  ko: |-
+    이번 축제는 다 함께 돌아다닐 수 있어서 즐거웠어.
+    하지만… 다음엔 선생님이랑 단둘이 다녀봐도 될까?
+  ja: |-
+    みんなと一緒に楽しめて本当によかった。
+    …でも今度は先生と二人きりがいいな。
+c450_02_Lobby_Touch_Love_3:
+  en: |-
+    What are you going to do after the festival?
+    If you don't have any plans, would you like to hang out a little longer with me?
+  ko: |-
+    축제 끝나면 뭐 할 거야?
+    계획 없으면, 나랑 좀 더 놀다 들어갈래?
+  ja: |-
+    お祭りの後、予定ある？
+    何もないなら私ともう少し遊ばない？
+c450_02_Lobby_Stay_1:
+  en: Hmm… Teacher is late. He didn't forget about the festival today, did he?
+  ko: |-
+    흠~ 선생님 늦네.
+    오늘 축제인 거 까먹은 건 아니겠지~?
+  ja: |-
+    う～ん、先生遅いなぁ。
+    今日お祭りだって忘れてるとか？
+c450_02_Lobby_Stay_Love_1:
+  en: |-
+    I wonder when Teacher is going to show up?
+    I dressed up really nicely today for him.
+  ko: |-
+    나 오늘 되게 예쁘게 입었는데,
+    선생님은 언제 오려나~
+  ja: 気合い入れてお洒落したのに、先生はいつ来るの～？
+c450_02_Outpost_Touch_1:
+  en: |-
+    Festivals are always so much fun.
+    I was happy to see Tia having a good time as well.
+  ko: |-
+    역시 축제는 즐겁네~
+    티아도 마음에 들어 한 것 같아서 다행이야.
+  ja: |-
+    やっぱりお祭りは楽しいね～
+    ティアも楽しんでるみたいだし。
+c450_02_Outpost_Touch_2:
+  en: Teacher, let's check out this side too.
+  ko: 선생님~ 우리 이쪽으로도 가보자.
+  ja: 先生～こっちにも行ってみない？
+c450_02_Outpost_Touch_3:
+  en: Teacher, do you happen to know when the next festival is going to be?
+  ko: |-
+    다음 축제는 언제 열릴까?
+    선생님, 혹시 아는 거 있어?
+  ja: |-
+    次のお祭りはいつかな？
+    先生、何か知ってる？
+c450_02_Gacha_Get_1:
+  en: You're gonna keep teaching me all sorts of things this year too, aren't you?
+    Hehe.
+  ko: 선생님, 올해도 이것저것 잘 가르쳐줘야 해~? 후훗.
+  ja: 先生、今年も色々教えてね～ふふ。
+c450_02_Reinforce_1:
+  en: Thanks to you, it looks like I'll be able to graduate soon.
+  ko: 선생님 덕분에 곧 졸업할 수 있겠는걸?
+  ja: 先生のおかげですぐに卒業できそう。
+c450_02_Reinforce_2:
+  en: You're amazing! I'd love to keep taking lessons from you forever.
+  ko: 대단해~ 계속 선생님한테만 수업받고 싶을 정도야.
+  ja: すごーい、もっと先生の授業聞きたいな。
+c450_02_Reinforce_3:
+  en: I'm growing steadily, all thanks to you. Hehe.
+  ko: 덕분에 무럭무럭 자라는 중이야~ 후훗.
+  ja: |-
+    おかげさまでぐんぐん成長中だよ～
+    ふふ。
+c450_02_Gift_1:
+  en: Thank you. I'll repay you with something even bigger next time.
+  ko: 고마워~ 나중에 더 큰 걸로 보답할게.
+  ja: |-
+    ありがとう～
+    今度倍にしてお返しするね。
+c450_02_Gift_2:
+  en: |-
+    Oh, would you look at that? I got you a gift too.
+    Looks like we were thinking of each other, huh?
+  ko: |-
+    어머, 나도 선생님한테 줄 선물 사놨는데.
+    우리 통했네~?
+  ja: |-
+    偶然～！私も準備してたんだよね。
+    テレパシーってやつ？
+c450_02_Gift_3:
+  en: |-
+    A gift from Teacher at the festival...
+    I'll treasure it forever.
+  ko: |-
+    축젯날 선생님이 준 선물이라~
+    평생 간직해야겠는걸?
+  ja: |-
+    お祭りに先生からもらったプレゼント～
+    一生大事にしなきゃ～
+c450_02_Attractive_Up_1:
+  en: |-
+    Thanks to you, I've gained some confidence.
+    I guess that's why I like you. Hehe.
+  ko: |-
+    나, 선생님 덕분에 확신이 생겼어.
+    연상이 취향인가 봐~ 후훗.
+  ja: |-
+    先生のおかげではっきり分かった。
+    私は年上がタイプみたい～ふふ。
+c450_02_Attractive_Up_2:
+  en: |-
+    Festivals are fun,
+    but I think I like spending time with you even more.
+  ko: |-
+    축제도 좋긴 한데,
+    역시 선생님이랑 같이 있는 시간이 더 좋은 것 같아~
+  ja: お祭りもいいけど、やっぱり先生との時間が一番イイかも～
+c450_02_Attractive_Up_3:
+  en: |-
+    I think I'm starting to see why you're so well-liked, Teacher.
+    It makes me a bit envious.
+  ko: |-
+    선생님 주변에 여자들이 많은 이유를 알 것 같네.
+    조금 질투 나는 걸~?
+  ja: |-
+    先生が女の人に囲まれる理由が分かっちゃった～
+    ちょっと妬けちゃうな。
+c450_02_Party_Deploy_1:
+  en: Is the festival already over? That's too bad.
+  ko: 축제는 벌써 끝이야? 아쉬워라~
+  ja: お祭りってもう終わりなの？つまんない～
+c450_02_Field_Touch_1:
+  en: Hmm? Did you call me?
+  ko: 응? 불렀어~?
+  ja: ん？呼んだ～？
+c450_02_Field_Go_1:
+  en: I'll follow along!
+  ko: 잘 따라가고 있어~
+  ja: ちゃんとついていってるよ～
+c450_02_Battle_Enter_1:
+  en: I trust you, Teacher, so I hope you can keep teaching me lots.
+  ko: 선생님만 믿을게, 많이 알려줘.
+  ja: 先生のこと信じてるから、いっぱい教えてね。
+c450_02_Battle_Ready_1:
+  en: Watch me closely, Teacher.
+  ko: 잘 보고 있어, 선생님~
+  ja: ちゃんと見ててね、先生～
+c450_02_Battle_Ready_2:
+  en: Don't underestimate me just because I'm a student.
+  ko: 학생이라고 얕보면 안 될걸~?
+  ja: 学生を甘く見ちゃダメだよ～？
+c450_02_Battle_Ready_3:
+  en: I'm actually good in real-life battles. Hehe.
+  ko: 내가 실전에 좀 강한 편이야~ 후훗.
+  ja: 私って本番に強いんだよね～ふふ。
+c450_02_Reload_1:
+  en: I’ll do it right away.
+  ko: 금방 할게~
+  ja: すぐ終わらせるね～
+c450_02_Reload_2:
+  en: Reloading.
+  ko: 장전 중이야.
+  ja: 装填中っと。
+c450_02_Reload_3:
+  en: One step at a time.
+  ko: 차근차근~
+  ja: きちんと丁寧に～
+c450_02_Ult_Skill_Ready_1:
+  en: Teacher, I have something to say.
+  ko: 선생님, 할 말이 있어.
+  ja: 先生、話があるんだけど。
+c450_02_Ult_Skill_1:
+  en: Just you wait!
+  ko: 어른이 될 때까지, 기다려줘.
+  ja: 大人になるまで待っててほしいの。
+c450_02_FullBurst_1:
+  en: Should I push a little harder?
+  ko: 조금만 더 힘내볼까?
+  ja: もう少し頑張ろうかな～
+c450_02_Kill_Monster_1:
+  en: Where to next?
+  ko: 다음은 어디야?
+  ja: 次はどこ？
+c450_02_Kill_Monster_2:
+  en: Easy enough!
+  ko: 간단한걸?
+  ja: 楽勝～
+c450_02_Kill_Monster_3:
+  en: Not bad, right? Hehe.
+  ko: 좋은데~? 후훗.
+  ja: 絶好調～ふふ。
+c450_02_Damage_1:
+  en: Ow!
+  ko: 읏!
+  ja: うっ！
+c450_02_Damage_2:
+  en: Ouch.
+  ko: 아파라~
+  ja: いったぁ～
+c450_02_Damage_3:
+  en: Ah!
+  ko: 아앗!
+  ja: ああっ！
+c450_02_Die_1:
+  en: I won't be able to enjoy the rest of the festival. What a shame.
+  ko: 축제, 마저 못 즐기겠네. 아쉬워라~
+  ja: |-
+    お祭り、最後まで楽しめないかも。
+    残念～…
+c450_02_Win_1:
+  en: Class is over! What do you say we go back and enjoy the festival again? Hehe.
+  ko: 수업 끝~ 다시 축제를 즐기러 가볼까? 후훗.
+  ja: 授業終了～改めてお祭り楽しも～
+450_cv_ja:
+  en: 'CV: Hina Suguta'
+  ko: 'CV : 스구타 히나'
+  ja: CV：直田姫奈
+450_cv_ko:
+  en: 'CV: Yu Yeong'
+  ko: 'CV : 유영'
+  ja: CV：ユ・ヨン
+450_cv_en:
+  en: 'CV: Brianna Knickerbocker'
+  ko: 'CV : 브리애나 크니커보커'
+  ja: CV：Brianna Knickerbocker
