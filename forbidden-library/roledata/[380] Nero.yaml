@@ -128,10 +128,12 @@ skill_name_1002:
     <color=#00AEFF>[큰 고양이: 받는 체력 회복량 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
   ja: |-
     ■残りHPの値が最も高い敵{description_value_01}機に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力{description_value_02}％のバーストスキルダメージ」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力{description_value_02}％の
+    バーストスキルダメージ」</color>
     ■自分に
     <color=#00AEFF>「ヘイト：敵全体を挑発」「{description_value_03}秒間維持」</color>
-    ■自分がネコの恩返しのフルスタック状態なら、自分に
+    ■自分がネコの恩返しの
+    フルスタック状態なら、自分に
     <color=#00AEFF>「大きなネコ：受けるHP回復量{description_value_04}％▲」「{description_value_05}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill

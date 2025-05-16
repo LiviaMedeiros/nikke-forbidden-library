@@ -70,7 +70,8 @@ character_shot_description_localkey_mg_down:
     [<word_group=10015>버스트 게이지 충전</word_group> {description_value_05}%]</color>
   ja: |-
     ■戦闘開始時、自分に
-    <color=#00AEFF>「隠れ身：<word_group=10004>単一攻撃対象から除外</word_group>直接攻撃を受けると解除」「{description_value_01}秒間維持」</color>
+    <color=#00AEFF>「隠れ身：<word_group=10004>単一攻撃対象から除外</word_group>
+    直接攻撃を受けると解除」「{description_value_01}秒間維持」</color>
     ■ニケの誰かが戦闘不能時、自分に
     <color=#00AEFF>「狂気：攻撃力{description_value_02}％▲」「{description_value_03}スタック」「{description_value_04}秒間維持」
     「<word_group=10015>バーストゲージのチャージ</word_group>{description_value_05}％」</color>
@@ -97,7 +98,8 @@ skill_name_1003:
     <color=#00AEFF>[<word_group=10022>이로운 효과 해제</word_group> {description_value_07}개] [전투 중 {description_value_08}회 발동]</color>
   ja: |-
     ■通常攻撃が{description_value_01}回命中した時、自分に
-    <color=#00AEFF>「隠れ身：<word_group=10004>単一攻撃対象から除外</word_group>直接攻撃を受けると解除」「{description_value_02}秒間維持」
+    <color=#00AEFF>「隠れ身：<word_group=10004>単一攻撃対象から除外</word_group>
+    直接攻撃を受けると解除」「{description_value_02}秒間維持」
     「クリティカル確率{description_value_03}％▲」「{description_value_04}秒間維持」</color>
     ■通常攻撃が{description_value_05}回命中した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_06}機に
     <color=#00AEFF>「<word_group=10022>バフ効果解除</word_group>{description_value_07}個」「戦闘中{description_value_08}回発動」</color>

@@ -66,7 +66,8 @@ character_shot_description_localkey_sg_down:
   ja: |-
     ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
-    ■フルバーストタイム持続中に発動した時、同じ敵に
+    ■フルバーストタイム持続中に発動した時、
+    同じ敵に
     <color=#00AEFF>「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
 skill_name_1003:
   en: Skill 2

@@ -74,13 +74,18 @@ character_shot_description_localkey_ar_down:
     2회 : [최대 체력 {description_value_03}% ▲] [{description_value_04}초 유지] [전투 중 1회 발동]
     3회 : [최대 체력 {description_value_05}% ▲] [{description_value_06}초 유지] [전투 중 1회 발동]</color>
   ja: |-
-    ■最後の弾丸で攻撃した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_07}機に
+    ■最後の弾丸で攻撃した時、
+    <word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_07}機に
     <color=#00AEFF>「挑発」「{description_value_08}秒間維持」</color>
     ■自分のHPが{description_value_09}％以下の時、自分に
-    <color=#00AEFF>「使用回数別の効果」「根性：各段階の効果のみ適用」
-    1回：「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」「戦闘中1回発動」
-    2回：「最大HP{description_value_03}％▲」「{description_value_04}秒間維持」「戦闘中1回発動」
-    3回：「最大HP{description_value_05}％▲」「{description_value_06}秒間維持」「戦闘中1回発動」</color>
+    <color=#00AEFF>「使用回数別の効果」
+    「根性：各段階の効果のみ適用」
+    1回：「最大HP{description_value_01}％▲」
+    「{description_value_02}秒間維持」「戦闘中1回発動」
+    2回：「最大HP{description_value_03}％▲」
+    「{description_value_04}秒間維持」「戦闘中1回発動」
+    3回：「最大HP{description_value_05}％▲」
+    「{description_value_06}秒間維持」「戦闘中1回発動」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -102,7 +107,8 @@ skill_name_1003:
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
   ja: |-
     ■戦闘開始時、自分に
-    <color=#00AEFF>「失ったHP1％ごとに防御力{description_value_01}％▲」「持続」</color>
+    <color=#00AEFF>「失ったHP1％ごとに防御力{description_value_01}％▲」
+    「持続」</color>
     ■自分が武器変更状態の場合、通常攻撃が{description_value_03}回命中した時、対象に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
 skill_name_1002:
@@ -139,14 +145,16 @@ skill_name_1002:
     ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
     維持時間：10秒
     追加効果
-    「攻撃ダメージの{description_value_02}％回復」「{description_value_03}秒間維持」
+    「攻撃ダメージの{description_value_02}％回復」
+    「{description_value_03}秒間維持」
     「ヘイト：敵全体を挑発」「{description_value_04}秒間維持」
     注意事項：バーストスキル発動中は
     ハイド不可</color>
     ■味方全体に
     <color=#00AEFF>「受けるダメージ{description_value_05}％▼」
     「{description_value_06}秒間維持」
-    「スキル発動者基準で防御力{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+    「スキル発動者基準で防御力{description_value_07}％▲」
+    「{description_value_08}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

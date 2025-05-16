@@ -334,12 +334,12 @@ event_doutsiders_01_e:
     ko: 같이 다니던 니케들은 어쩌고 혼자 왔어?
     ja: 一緒にいたニケは？どうして1人なの？
   event_doutsiders_01_e_7:
-    speaker: "<Choice>"
+    speaker: Choice
     en: They're waiting for me at the Outpost.
     ko: 전초기지에서 대기 중이야.
     ja: 前哨基地で待機中だ
   event_doutsiders_01_e_8:
-    speaker: "<Choice>"
+    speaker: Choice
     en: This is a top-secret mission, so I came alone.
     ko: 비밀 임무라서 혼자 왔어.
     ja: 秘密任務だから1人で来た
@@ -570,12 +570,12 @@ event_doutsiders_02_s:
     ko: 평소처럼 순찰도는 척하면서 조사하는 걸로 하자.
     ja: いつものパトロールのフリをして\n調査するってことで。
   event_doutsiders_02_s_5:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You patrol the Outer Rim?
     ko: 아우터 림을 순찰한다고?
     ja: アウターリムをパトロール？
   event_doutsiders_02_s_6:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Who put you in charge of patrols? Sounds like you're a vigilante.
     ko: 혹시 너희는 자경단이야?
     ja: 君たちは自警団なのか？
@@ -946,12 +946,12 @@ event_doutsiders_02_e:
     ko: 남자는 도망치듯 황급히 물러났다.
     ja: 男は逃げるように急いで立ち去った
   event_doutsiders_02_e_42:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You've got a knack for this.
     ko: "…엄청나게 능숙하네."
     ja: "…ずいぶん慣れてるな"
   event_doutsiders_02_e_43:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You're really going to let him go?
     ko: 이대로 보내주는 거야?
     ja: このまま逃がすのか？
@@ -1205,12 +1205,12 @@ event_doutsiders_intermission_01:
     ko: 해드릴 건 해 드려야죠.
     ja: できることなら何でもやりますよ。
   event_doutsiders_intermission_01_16:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Are you absolutely sure about this?
     ko: 정말 괜찮은 거야?
     ja: 本当に大丈夫なのか？
   event_doutsiders_intermission_01_17:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You're taking a major risk here.
     ko: 짊어져야 할 리스크가 클 텐데.
     ja: リスクがかなり大きいが…
@@ -1522,12 +1522,12 @@ event_doutsiders_03:
     ko: 핸드폰 이리 줘. 번호 찍어줄 테니까♡
     ja: 携帯貸して。番号登録するから♡
   event_doutsiders_03_12:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Give Viper my phone.
     ko: 핸드폰을 내어준다.
     ja: 携帯電話を渡す
   event_doutsiders_03_13:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Don't give Viper my phone.
     ko: 핸드폰을 내어주지 않는다.
     ja: 携帯電話を渡さない
@@ -1586,12 +1586,12 @@ event_doutsiders_03:
       まさか、赤いライトにセクシーなお姉さんたちが
       いっぱいいるような場所を想像してた？
   event_doutsiders_03_23:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Not at all.
     ko: 그런 적 없어.
     ja: そんなことはない
   event_doutsiders_03_24:
-    speaker: "<Choice>"
+    speaker: Choice
     en: To be honest... yeah.
     ko: 솔직히 그랬어.
     ja: 正直そうだった
@@ -1812,12 +1812,12 @@ event_doutsiders_03:
       信頼を先に裏切ったのはダーリンだから、
       それくらいの誠意は見せてくれないとね～
   event_doutsiders_03_63:
-    speaker: "<Choice>"
+    speaker: Choice
     en: But there's confidential information on that phone...
     ko: 하지만 그 핸드폰엔 기밀 정보가….
     ja: しかし、その携帯には機密情報が…
   event_doutsiders_03_64:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Andersen may get in touch to give me more orders...
     ko: 언제 상관이 명령을 내릴지 모르는데….
     ja: いつ上官から命令があるか分からない…
@@ -2082,12 +2082,12 @@ event_doutsiders_04_s:
     ko: 뭐 그런, 중립적인 제스처는 취하지 않으시고요?
     ja: そういった、中立的な処置は取らないのですか？
   event_doutsiders_04_s_34:
-    speaker: "<Choice>"
+    speaker: Choice
     en: It's not military practice to negotiate with terrorists.
     ko: 테러범과는 협상하지 않는 게 군의 원칙이니까.
     ja: テロリストとは交渉しないのが軍の規則だ
   event_doutsiders_04_s_35:
-    speaker: "<Choice>"
+    speaker: Choice
     en: The most important thing right now is to prevent any further harm to civilians.
     ko: 당장은 민간인의 피해를 막는 게 더 중요하니까.
     ja: 今は民間人の被害を防ぐことが大事だ
@@ -2386,12 +2386,12 @@ event_doutsiders_04_e:
     ko: 그렇게 하면, 조셉이 스스로 정체를 밝힐 거라고 대장이 그랬거든.
     ja: そうすれば、\nジョセフが自ら正体を明かすはずだって\n隊長が言ってたんだ。
   event_doutsiders_04_e_31:
-    speaker: "<Choice>"
+    speaker: Choice
     en: What was Crow thinking, putting me in danger like that?!
     ko: 크로우는 대체 무슨 생각으로 그런 거야?
     ja: クロウはいったい何を考えてるんだ？
   event_doutsiders_04_e_32:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Why didn't you tell me the plan?
     ko: 왜 내게 계획을 말해주지 않았지?
     ja: どうして計画のことを\n教えてくれなかったんだ？
@@ -2536,12 +2536,12 @@ event_doutsiders_04_e:
     ko: 마지막 가는 길에, 당신을 죽이지 못해서 유감입니다.
     ja: 最後に、あなたを殺せなくて残念です。
   event_doutsiders_04_e_57:
-    speaker: "<Choice>"
+    speaker: Choice
     en: "..."
     ko: "……."
     ja: "……"
   event_doutsiders_04_e_58:
-    speaker: "<Choice>"
+    speaker: Choice
     en: What you're doing isn't right either.
     ko: 네 방식도 옳았다고 생각하진 않아.
     ja: 君のやり方も正しかったとは思えない
@@ -2949,12 +2949,12 @@ event_doutsiders_05_e:
     ko: 안에 있던 건 봤어? 사진이라든가~
     ja: 中身見た？写真とか～
   event_doutsiders_05_e_18:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I didn't.
     ko: 안 봤어.
     ja: 見ていない
   event_doutsiders_05_e_19:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I accidentally saw one or two, yes.
     ko: 실수로 최근 것만 봤어.
     ja: 間違って最近のものだけ見た
@@ -3064,12 +3064,12 @@ event_doutsiders_05_e:
     ko: "……."
     ja: "……"
   event_doutsiders_05_e_40:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I will arrest Joseph.
     ko: 조셉을 체포하겠어.
     ja: ジョセフを逮捕する
   event_doutsiders_05_e_41:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I won't arrest Joseph.
     ko: 조셉을 체포하지 않겠어.
     ja: ジョセフを逮捕しない

@@ -55,8 +55,8 @@ character_shot_description_localkey_mg_down:
     self. \n<color=#00AEFF>Strawberry Candy: Max Ammunition Capacity ▲ {description_value_02}%,
     stacks up to {description_value_04} time(s) and lasts for {description_value_03}
     sec.</color> \n■ Affects all allies when the caster reaches max stacks of Strawberry
-    Candy. Activates after clearing stacks effect.\n<color=#00AEFF>Reload {description_value_05}%
-    magazine(s).</color>"
+    Candy. Activates after stacks are removed.\n<color=#00AEFF>Reload {description_value_05}%
+    of the magazine.</color>"
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
     <color=#00AEFF>[딸기 사탕: 최대 장탄 수 {description_value_02}% ▲] [{description_value_04} 중첩] [{description_value_03}초 유지]</color>
@@ -91,7 +91,8 @@ skill_name_1003:
   ja: |-
     ■フルバーストタイムが発動した時、自分に
     <color=#00AEFF>「防御力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
-    ■フルバーストタイム持続中に撃たれたら、自分に
+    ■フルバーストタイム持続中に撃たれたら、
+    自分に
     <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」</color>
 skill_name_1002:
   en: Skill 1

@@ -106,8 +106,10 @@ skill_name_1002:
     [크리티컬 확률 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
   ja: |-
     ■自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
-    <color=#00AEFF>「チャージダメージ{description_value_02}％▲」「{description_value_03}秒間維持」
-    「クリティカル確率{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    <color=#00AEFF>「チャージダメージ{description_value_02}％▲」
+    「{description_value_03}秒間維持」
+    「クリティカル確率{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

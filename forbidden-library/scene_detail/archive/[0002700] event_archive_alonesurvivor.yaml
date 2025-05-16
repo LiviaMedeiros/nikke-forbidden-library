@@ -653,12 +653,12 @@ event_alonesurvivor_01_s:
       あなたの安全を守る上で、
       必ず役に立つと思うわ。
   event_alonesurvivor_01_s_65:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Where is Tove now?
     ko: 지금 토브는 어디 있어?
     ja: トーブはどこにいるんだ？
   event_alonesurvivor_01_s_66:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'd like to say hi before we set out.
     ko: 출발 전에 인사라도 나누고 싶네.
     ja: 出発前に挨拶をしておきたい
@@ -743,12 +743,12 @@ event_alonesurvivor_01_e:
     ko: "……."
     ja: "……"
   event_alonesurvivor_01_e_5:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Who are you?
     ko: 누구시죠?
     ja: どちら様ですか？
   event_alonesurvivor_01_e_6:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Are you Tove?
     ko: 네가 토브야?
     ja: 君がトーブか？
@@ -2466,14 +2466,14 @@ event_alonesurvivor_03_e:
     ko: 그만큼 결과로도 보답 받을 수 있으면 좋겠다만….
     ja: 結果として報われるといいのだけど…
   event_alonesurvivor_03_e_55:
-    speaker: "<Choice>"
+    speaker: Choice
     en: It should be fine. She said she'd give it her all.
     ko: 본인이 잘 해보겠다고 했으니, 괜찮지 않을까?
     ja: |-
       頑張ると言っていたから、
       大丈夫じゃないか？
   event_alonesurvivor_03_e_56:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Whatever the result, it'll be a valuable learning experience for them all.
     ko: 어느 쪽이든 좋은 경험이 될 거야.
     ja: いずれにしろ、いい経験になるはずだ
@@ -2613,13 +2613,13 @@ event_alonesurvivor_03_e:
     ko: 감회가 정말 남다르네요.
     ja: 本当に感慨深いですね。
   event_alonesurvivor_03_e_81:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Considering this is the first sled you've ever made, the quality is not too
       bad.
     ko: 처음 만든 것치곤 만듦새가 괜찮은데?
     ja: 初めて作ったにしては、よく出来てるな
   event_alonesurvivor_03_e_82:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'd rather you not keep emphasizing how this is all brand new to you...
     ko: 그렇게 처음이라는 걸 강조하진 말고….
     ja: そんなに初めてだと強調しないでくれ…
@@ -2811,12 +2811,12 @@ event_alonesurvivor_intermission_01:
     ko: 들썩-!!
     ja: ふわっ！
   event_alonesurvivor_intermission_01_8:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Ow... my butt...
     ko: 엉덩이 아파….
     ja: お尻が痛い…
   event_alonesurvivor_intermission_01_9:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I bit my tongue...
     ko: 혀 씹었어….
     ja: 舌を噛んだ…
@@ -3353,12 +3353,12 @@ event_alonesurvivor_04_s:
       カブトムシやアリなどの、
       上質なタンパク源が見つかるかもしれません。
   event_alonesurvivor_04_s_12:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Beetles wouldn’t be too bad.
     ko: 딱정벌레 정도면 나쁘지 않지.
     ja: カブトムシ程度なら悪くない
   event_alonesurvivor_04_s_13:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I might feel a little bad eating a squirrel or a bird.
     ko: 새나 다람쥐는 좀 불쌍한데.
     ja: トリやリスは少し可哀想だ
@@ -3491,12 +3491,12 @@ event_alonesurvivor_04_s:
     ko: 다리가 너무 많아요! 한 백 개는 되는 것 같아요!
     ja: 足が多すぎます！100本はありそうです！
   event_alonesurvivor_04_s_38:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Hold still. I'll try to smack it and catch it.
     ko: 기다려 봐, 내가 때려잡아 볼게.
     ja: 待ってくれ、私が捕まえるから
   event_alonesurvivor_04_s_39:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Weren't we supposed to eat whatever came out?
     ko: 뭐가 나오든 먹으려던 거 아니었어?
     ja: 何が出てきても食べるんじゃなかったのか？
@@ -3852,12 +3852,12 @@ event_alonesurvivor_04_s:
       やっぱり人間の方がタンパク質のような
       エネルギー源を必要とするものですから～
   event_alonesurvivor_04_s_104:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Just admit it—you don't want to eat it.
     ko: 너 사실 먹기 싫지.
     ja: 食べたくないんだろう？
   event_alonesurvivor_04_s_105:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Okay, give it here.
     ko: 알겠어, 이리 줘 봐.
     ja: 分かった、こちらにくれ
@@ -3894,12 +3894,12 @@ event_alonesurvivor_04_s:
     ko: "……."
     ja: "……"
   event_alonesurvivor_04_s_112:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Chew it.
     ko: 씹어 먹는다.
     ja: 噛んで食べる
   event_alonesurvivor_04_s_113:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Swallow it whole.
     ko: 그대로 삼킨다.
     ja: そのまま飲み込む
@@ -3929,12 +3929,12 @@ event_alonesurvivor_04_s:
     ko: 맛은… 어떠셨어요?
     ja: 味は…どうでした？
   event_alonesurvivor_04_s_125:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Surprisingly tasty. Kinda nutty.
     ko: 의외로 고소하고 맛있었어.
     ja: 意外と香ばしくておいしかった
   event_alonesurvivor_04_s_126:
-    speaker: "<Choice>"
+    speaker: Choice
     en: It... burst when I bit down. Kinda nasty.
     ko: 입 안에서 터져서 끔찍했지.
     ja: 口の中で弾けて、ぞっとした
@@ -4424,12 +4424,12 @@ event_alonesurvivor_05_s:
     ko: 제가 그렇게 딱 붙어서 체온을 나눠 드렸는데…!
     ja: 私がくっついて、体温を分けてあげたのに…！
   event_alonesurvivor_05_s_13:
-    speaker: "<Choice>"
+    speaker: Choice
     en: And thanks to you, I'm at least not sicker than I apparently already am.
     ko: 그래서 그나마 이 정도인 거 아닐까?
     ja: だから、この程度で済んでるんじゃないか？
   event_alonesurvivor_05_s_14:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Apparently that wasn't enough...
     ko: 그걸로는 부족했던 것 같아.
     ja: それだけじゃ足りなかったみたいだ
@@ -4537,12 +4537,12 @@ event_alonesurvivor_05_s:
       真昼でこんなに明るいなら、
       建物の街灯かもしれません！
   event_alonesurvivor_05_s_33:
-    speaker: "<Choice>"
+    speaker: Choice
     en: A working streetlight in this day and age?
     ko: 이 시대에 가로등이 아직 켜져 있다고…?
     ja: この時代に街灯がまだついてるって…？
   event_alonesurvivor_05_s_34:
-    speaker: "<Choice>"
+    speaker: Choice
     en: A building in a remote area like this?
     ko: 이런 곳에 건물이 있다고…?
     ja: こんな場所に建物が…？
@@ -4667,12 +4667,12 @@ event_alonesurvivor_05_s:
     ko: 졸리다는 생각이 들더라도 절대 눈을 감으시면 안 돼요!
     ja: 眠くても、絶対に目を閉じちゃダメですよ！
   event_alonesurvivor_05_s_57:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'm not dead just yet.
     ko: 멀쩡한 사람 죽이지 마….
     ja: 元気な人を勝手に殺さないでくれ…
   event_alonesurvivor_05_s_58:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'm fine. It's just a cold.
     ko: 괜찮아, 그냥 감기 몸살이니까.
     ja: 大丈夫だ、ただの風邪だから
@@ -5168,12 +5168,12 @@ event_alonesurvivor_05_e:
     ko: 침착해, 토브.
     ja: 落ち着くんだ、トーブ
   event_alonesurvivor_05_e_73:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You're the only expert in this situation.
     ko: 너는 이 상황에서 유일한 생존 전문가잖아.
     ja: 君はこの状況で、唯一の専門家だ
   event_alonesurvivor_05_e_74:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You're the only one they can rely on right now.
     ko: 지금 이 사람들이 의지할 수 있는 건 너뿐이잖아.
     ja: 今この人たちが頼れるのは、君だけなんだ

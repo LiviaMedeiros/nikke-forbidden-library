@@ -83,13 +83,17 @@ character_shot_description_localkey_sg_down:
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 대미지]</color>
   ja: |-
     ■バースト3段階突入時、味方全体に
-    <color=#00AEFF>「ゴールデンチップのスタック量別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」</color>
+    <color=#00AEFF>「ゴールデンチップのスタック量別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」</color>
     1段階：ゴールデンチップ{description_value_01}スタック以上なら
     <color=#00AEFF>「時間延長I：フルバーストタイムの持続時間{description_value_02}秒▲」「フルバーストタイムの間持続」</color>
     2段階：ゴールデンチップ{description_value_03}スタック以上なら
     <color=#00AEFF>「時間延長II：フルバーストタイムの持続時間{description_value_04}秒▲」「フルバーストタイムの間持続」</color>
-    ■フルバーストタイムの持続中、通常攻撃をした時、照準線に最も近い敵{description_value_05}機に
-    <color=#00AEFF>「時間延長状態別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」</color>
+    ■フルバーストタイムの持続中、
+    通常攻撃をした時、
+    照準線に最も近い敵{description_value_05}機に
+    <color=#00AEFF>「時間延長状態別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」</color>
     1段階：自分が時間延長I状態なら
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％のダメージ」</color>
     2段階：自分が時間延長II状態なら
@@ -121,9 +125,15 @@ skill_name_1003:
   ja: |-
     ■戦闘開始時、自分に
     <color=#00AEFF>「ゴールデンチップのスタック量{description_value_01}個▲」</color>
-    ■フルバーストタイム持続中に通常攻撃で{description_value_02}回攻撃した時、自分に
-    <color=#00AEFF>「ゴールデンチップ：クリティカルダメージ{description_value_03}％▲」「{description_value_04}スタック」「持続」</color>
-    ■フルバーストタイム中に通常攻撃で{description_value_02}回攻撃した時、自分と自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_07}機に
+    ■フルバーストタイム持続中に
+    通常攻撃で{description_value_02}回攻撃した時、自分に
+    <color=#00AEFF>「ゴールデンチップ：
+    クリティカルダメージ{description_value_03}％▲」「{description_value_04}スタック」
+    「持続」</color>
+    ■フルバーストタイム中に通常攻撃で
+    {description_value_02}回攻撃した時、
+    自分と自分を除く<word_group=10025>最終</word_group>攻撃力が
+    最も高い味方{description_value_07}機に
     <color=#00AEFF>「攻撃ダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
 skill_name_1002:
   en: Skill 1
@@ -154,12 +164,18 @@ skill_name_1002:
     <color=#00AEFF>[공격력 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
   ja: |-
     ■ゴー・アヘッド、ソーダ！を使用した時、
-    <color=#00AEFF>「ゴールデンチップのスタック量別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」「効果適用後、ゴールデンチップのスタック量{description_value_01}個▼」</color>
+    <color=#00AEFF>「ゴールデンチップのスタック量別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」
+    「効果適用後、ゴールデンチップのスタック量
+    {description_value_01}個▼」</color>
     1段階：敵全体に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のバーストスキルダメージ」</color>
-    2段階：ゴールデンチップ{description_value_03}スタック以上なら、自分に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の
+    バーストスキルダメージ」</color>
+    2段階：ゴールデンチップ
+    {description_value_03}スタック以上なら、自分に
     <color=#00AEFF>「命中率{description_value_04}％▲」「{description_value_05}秒間維持」</color>
-    3段階：ゴールデンチップ{description_value_06}スタック以上なら、自分に
+    3段階：ゴールデンチップ
+    {description_value_06}スタック以上なら、自分に
     <color=#00AEFF>「攻撃力{description_value_07}％▲」「{description_value_08}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill

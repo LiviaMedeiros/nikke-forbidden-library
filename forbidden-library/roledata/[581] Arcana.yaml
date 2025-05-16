@@ -1,0 +1,533 @@
+---
+581_name:
+  en: Arcana
+  ko: 아르카나
+  ja: アルカナ
+c581_description:
+  en: |-
+    While her official task is supposedly managing the Ark's library as part of the Best Seller Squad, she actually oversees a top-secret archive which stores sensitive information and records.
+    Despite undergoing harsh memory wipes to maintain confidentiality, she still strives to live her life in a bright, playful, and goofy manner.
+  ko: |-
+    대외적으로는 방주 도서관을 관리하는 베스트셀러 스쿼드 소속이지만,
+    사실은 민감한 정보와 기록을 보관하는 특급 기밀 보관소의 관리를 담당하는 니케.
+    기밀 유지를 위한 가혹한 기억 소거에도 불구하고, 항상 밝고 장난기 있고 허당스러운 모습으로 열심히 살아가는 중이다.
+  ja: |-
+    表向きはアークの図書館を管理する
+    ベストセラー部隊所属のニケだが、
+    実は機密性の高い情報や記録を保管する、
+    機密保管庫の管理を担当しているニケ。
+    機密保持のため過酷な記憶消去を受けているが、
+    明るく茶目っ気があり、どこか抜けた一面を見せながら
+    懸命に生きている。
+581_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_581:
+  en: Arcana's Spare Body
+  ko: 아르카나 스페어 바디
+  ja: アルカナのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+25812_name:
+  en: Cycle of Destiny
+  ko: 순환하는 운명
+  ja: 巡る運命
+25812_description:
+  en: |-
+    ■ Activates when Full Burst ends. Affects all <word_group=10082>Burst {description_value_01} Electric Code allies </word_group> who previously cast their Burst Skill if self is in Wheel of Fortune status.
+    <color=#00AEFF>Strength: ATK ▲ {description_value_02}% of caster's ATK for {description_value_03} sec.</color>
+    ■ Activates when Full Burst ends. Affects all allies if self is in Wheel of Fortune status.
+    <color=#00AEFF>Death: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_04} sec.
+    ATK ▲ {description_value_05}% of caster's ATK for {description_value_06} sec.</color>
+    ■ Activates when Full Burst ends. Affects all allies.
+    <color=#00AEFF>Attack damage ▲ {description_value_07}% for {description_value_08} sec.</color>
+  ko: "■ 풀 버스트 타임 종료 시 자신이 운명의 수레바퀴 카드 상태라면 직전에 버스트 스킬을 사용한 <word_group=10082>기본 버스트
+    단계가 Step {description_value_01}인</word_group> 전격 코드 아군 전체에게\n<color=#00AEFF>[힘
+    카드 : 시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>\n■
+    풀 버스트 타임 종료 시 자신이 운명의 수레바퀴 카드 상태라면 아군 전체에게\n<color=#00AEFF>[죽음 카드 : 버스트 스킬 <word_group=10031>재사용
+    시간</word_group>  {description_value_04}초 ▼] \n[시전자 기준 공격력 {description_value_05}%
+    ▲] [{description_value_06}초 유지]</color>\n■ 풀 버스트 타임 종료 시 아군 전체에게\n<color=#00AEFF>[공격
+    대미지 {description_value_07}% ▲] [{description_value_08}초 유지]</color>"
+  ja: |-
+    ■フルバーストタイムが終了した時、自分が運命の輪のカード状態なら、直前にバーストスキルを使用した<word_group=10082>基本バースト段階が
+    {description_value_01}の</word_group>電撃コードの味方全体に
+    <color=#00AEFF>「力のカード：スキル発動者基準で
+    攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■フルバーストタイムが終了した時、自分が運命の輪のカード状態なら、味方全体に
+    <color=#00AEFF>「死神のカード：
+    バーストスキル<word_group=10031>クールタイム</word_group>{description_value_04}秒▼」
+    「スキル発動者基準で攻撃力{description_value_05}％▲」
+    「{description_value_06}秒間維持」</color>
+    ■フルバーストタイムが終了した時、味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25811_name:
+  en: Awakened Destiny
+  ko: 깨어나는 운명
+  ja: 目覚める運命
+25811_description:
+  en: |-
+    ■ Activates when Full Burst ends. Affects all <word_group=10082>Burst {description_value_01} Electric Code allies</word_group> who previously cast their Burst Skill if self is in Wheel of Fortune status.
+    <color=#00AEFF>The Magician: <word_group=10031>Cooldown</word_group> of Skill 2 ▼ {description_value_02}% for {description_value_03} sec.
+    Attack damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates when Full Burst ends. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_06}% of caster's ATK for {description_value_07} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 종료 시 자신이 운명의 수레바퀴 카드 상태라면 직전에 버스트 스킬을 사용한 <word_group=10082>기본 버스트 단계가 Step {description_value_01}인</word_group> 전격 코드 아군 전체에게
+    <color=#00AEFF>[마법사 카드 : 스킬2 <word_group=10031>재사용 시간</word_group> {description_value_02}%▼] [{description_value_03}초 유지]
+    [공격 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 풀 버스트 타임 종료 시 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが終了した時、自分が運命の輪のカード状態なら、直前にバーストスキルを使用した<word_group=10082>基本バースト段階が
+    {description_value_01}の</word_group>電撃コードの味方全体に
+    <color=#00AEFF>「魔術師のカード：スキル2
+    <word_group=10031>クールタイム</word_group>{description_value_02}％▼」「{description_value_03}秒間維持」
+    「攻撃ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■フルバーストタイムが終了した時、
+    味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_06}％▲」
+    「{description_value_07}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15813_name:
+  en: Shackles of Destiny
+  ko: 운명의 굴레
+  ja: 運命の鎖
+15813_description:
+  en: |-
+    ■ Affects all Electric Code allies.
+    <color=#00AEFF>Wheel of Fortune: Attack damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.
+    Judgement: Damage taken ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 전격 코드 아군 전체에게
+    <color=#00AEFF>[운명의 수레바퀴 카드 : 공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 버스트 스킬 대미지]
+    [심판 카드 : 받는 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■電撃コードの味方全体に
+    <color=#00AEFF>「運命の輪のカード：攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の
+    バーストスキルダメージ」
+    「審判のカード：受けるダメージ{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+580_name:
+  en: Phantom
+  ko: 팬텀
+  ja: ファントム
+c581_Lobby_Touch_1:
+  en: Oh dear... are you okay? I'm good at reading faces, and yours is giving off
+    great misfortune in love.
+  ko: 와. 그쪽 괜찮아요? 제가 좀 볼 줄 아는데, 완전 여난의 상이에요.
+  ja: |-
+    わあ～、大丈夫ですか？
+    思いっきり女難の相が出てますよ？
+c581_Lobby_Touch_2:
+  en: Sharing a secret has brought us closer together. Promise to keep it that way!
+  ko: 비밀을 공유한 사이끼리 친하게 지내기! 약속!
+  ja: 秘密を分かち合った者同士、仲よくしましょう！約束ですよ～？
+c581_Lobby_Touch_3:
+  en: |-
+    Did you know? The amount of information on you in the Forbidden Library just keeps growing and growing.
+    Personally, as a fan, I’m quite proud of that fact!
+  ko: |-
+    그거 알아요? 금서고에 그쪽 관련 기록이 점점 많아지는 거?
+    팬으로서 진짜 자랑스럽다구요~
+  ja: |-
+    知ってましたか？
+    あなたに関する記録が、禁書庫にどんどん増えてるんですよ。
+    ファンとして、とっても誇らしいです～
+c581_Lobby_Touch_Love_1:
+  en: Your fortune today is... to be with me all day long!
+  ko: |-
+    오늘의 그쪽 운세는… 우와!
+    하루 종일 저랑 있어 줄 운명이네요?
+  ja: |-
+    今日のあなたの運勢は…おおっ！
+    一日中私と一緒、ですって～！
+c581_Lobby_Touch_Love_2:
+  en: |-
+    Apparently, people find women who are business-oriented extremely attractive.
+    How about me? Do you find me attractive?
+  ko: |-
+    프로페셔널한 여자는 훨씬 예쁘고 매력적으로 보인다는데.
+    …어때요? 예쁘고 매력적이에요?
+  ja: |-
+    プロフェッショナルな女性は、
+    美しく魅力的に見えるらしいですよ。
+    …どうですか？私、魅力的に見えますか？
+c581_Lobby_Touch_Love_3:
+  en: I'm no mere fan anymore, but being your girlfriend seems a little too basic...
+    How about wife?
+  ko: |-
+    이제 팬은 안 하려구요.
+    그 대신에 여친… 은 좀 그러니까, 아내 하죠 뭐.
+  ja: |-
+    もう、ファンはやめます。その代わり、
+    彼女…はちょっとアレだから、妻ってのはどうでしょう？
+c581_Lobby_Stay_1:
+  en: If you leave me here, I might die of loneliness!
+  ko: 저 이렇게 냅두면 외로워서 죽어버릴지도 몰라요~
+  ja: |-
+    こんなふうに放っておかれたら、
+    寂しくて死んじゃうかもしれませんよ～？
+c581_Lobby_Stay_Love_1:
+  en: |-
+    I must be crazy. Just looking at you fills me with joy.
+    Huh?! Er... I meant for you to hear that!
+  ko: |-
+    미쳤나 봐. 그냥 보고만 있어도 좋아.
+    …어?! 드, 드드들으라고 한 말인 거 알죠?
+  ja: |-
+    …不思議。ただ見てるだけで幸せなんて…
+    …えっ！？い、今のは喜ばせるためにわざと言ったんですよ？
+c581_Outpost_Touch_1:
+  en: This place seems much livelier than the Ark.
+  ko: 여기가 방주보다 훨씬 활기찬 것 같은데….
+  ja: アークよりずっと、 活気づいているように見えるなぁ…
+c581_Outpost_Touch_2:
+  en: Oh, I was just taking in the surroundings... okay, fine, I was staring at you.
+    Running into each other like this must be fate. Do you have a moment?
+  ko: |-
+    아. 그냥 둘러보고 있었… 던 게 아니라!
+    이렇게 만난 것도 운명인데, 시간 있어요?
+  ja: |-
+    あっ、ただぼーっと見ていた… わけじゃなくて！
+    こうして会ったのも運命ですし、 お時間ありますか？
+c581_Outpost_Touch_3:
+  en: Come get your tarot reading. First customer gets half off!
+  ko: 타로 보러 오세요~ 첫 손님은 무려 반값!
+  ja: |-
+    タロット占いはいかがですか～？
+    最初のお客様は、 なんと半額サービスですよ～！
+c581_Gacha_Get_1:
+  en: |-
+    The cold, ruthless, and professional guardian of secrets, Arcana, has arrived!
+    ... Nice to meet you. I missed you.
+  ko: |-
+    냉정냉혹 프로페셔널한 비밀의 수호자, 아르카나 등장!
+    …반가워요. 보고 싶었어.
+  ja: |-
+    クールでスマート！プロフェッショナルな秘密の守護者、
+    アルカナ登場！
+    これからよろしくお願いしま～す！…ずっと、会いたかった。
+c581_Reinforce_1:
+  en: The goddess of fate is smiling upon me!
+  ko: 운명의 여신이 제게 미소를 짓네요!
+  ja: 運命の女神が、私に微笑んでます！
+c581_Reinforce_2:
+  en: |-
+    Any chance other parts of me could improve too?
+    Like my complexion becoming more radiant, or my hair becoming shinier?
+  ko: |-
+    혹시 다른 부분도 좋아질 수 있어요?
+    음. 피부가 더 좋아진다던가, 머리카락이 윤기있어진다던가?
+  ja: |-
+    もしかして、他のところもよくなったりします？
+    たとえば肌がキレイになるとか、髪にツヤが出るとか。
+c581_Reinforce_3:
+  en: If I keep this up, I may end up becoming too strong. What happens then?
+  ko: 이러다 너무 세지면 어떡하죠?
+  ja: う～ん、強くなりすぎちゃったらどうしましょ？
+c581_Gift_1:
+  en: I'll make sure to repay you later.
+  ko: 나중에 꼭 보답할게요.
+  ja: このお礼は、必ずしますね。
+c581_Gift_2:
+  en: "@UserName, do you like me, by any chance?"
+  ko: 그쪽 혹시 저 좋아해요?
+  ja: もしかして、私のことが好きなんですか？
+c581_Gift_3:
+  en: "... Thank you. I'm really happy."
+  ko: "…고마워요. 진짜 기뻐."
+  ja: "…ありがとうございます。すっごく嬉しいです。"
+c581_Attractive_Up_1:
+  en: Wow. What happens if it gets better than this?
+  ko: 와. 여기서 더 좋아지면 어떻게 되는 거죠?
+  ja: わあ～、これ以上好きになったらどうしましょう？
+c581_Attractive_Up_2:
+  en: I guess there really is such a thing as soulmates.
+  ko: 운명의 상대라는 게 진짜 있나 봐요.
+  ja: 運命の相手って、本当にいるんですね。
+c581_Attractive_Up_3:
+  en: I'm really glad that I met you, @UserName.
+  ko: "…그쪽을 만나서 정말 다행이야."
+  ja: "…あなたに会えて、本当によかった。"
+c581_Party_Deploy_1:
+  en: You know I'm not very good at fighting, right?
+  ko: 저 잘 못 싸우는 거 아시죠…?
+  ja: 私、戦うのが苦手だって知ってますよね…？
+c581_Field_Touch_1:
+  en: Wait, I'm mentally preparing.
+  ko: 잠깐만요마음의준비중.
+  ja: 待ってください心の準備が！
+c581_Field_Go_1:
+  en: I should have worked out more.
+  ko: 운동 좀 할걸….
+  ja: うぅ、運動しておけばよかった…
+c581_Battle_Enter_1:
+  en: Since I'm here, I might as well show that I'm serious.
+  ko: 이렇게 된 이상 진심을 보, 보여드리죠!
+  ja: こ、こうなったら、本気を見せます！
+c581_Battle_Ready_1:
+  en: Whatever happens, happens.
+  ko: 어떻게든 되겠지…!
+  ja: なんとかなるでしょ…！
+c581_Battle_Ready_2:
+  en: I'm a woman who gets things done.
+  ko: 할 땐 하는 여자라구요!
+  ja: やる時はやる女なんです！
+c581_Battle_Ready_3:
+  en: I've still not given up on being an assassin.
+  ko: 암살자의 꿈, 아직 버리지 않았어요!
+  ja: 殺し屋の夢、まだ諦めてませんよ～！
+c581_Reload_1:
+  en: All right! Reload!
+  ko: 얍! 재장전!
+  ja: よしっ！リロード！
+c581_Reload_2:
+  en: This is easier than I thought.
+  ko: 생각보다 쉽네요!
+  ja: 思ったより簡単～！
+c581_Reload_3:
+  en: Like this, and like that...
+  ko: 이케, 요케….
+  ja: これを、こうやって…！
+c581_Ult_Skill_Ready_1:
+  en: Fate is calling us!
+  ko: 운명이 저희를 부르고 있어요!
+  ja: 運命が私たちを呼んでいます！
+c581_Ult_Skill_1:
+  en: I shall decide your destiny!
+  ko: 당신의 운명을 결정해 드리죠. …어머나?
+  ja: あなたの運命、決めてあげま…あれっ？
+c581_FullBurst_1:
+  en: I am your doom!
+  ko: 제가 당신들의 죽음이에욧!
+  ja: 私があなたたちの死神ですっ！
+c581_Kill_Monster_1:
+  en: Go-gotcha!
+  ko: 자, 잡았다!
+  ja: や、やったぁ！
+c581_Kill_Monster_2:
+  en: That actually worked?
+  ko: 진짜 되네??
+  ja: できちゃった？
+c581_Kill_Monster_3:
+  en: Did you see that? It went down!
+  ko: 저거 방금 쓰러진 거죠!
+  ja: 今、倒れましたよね！
+c581_Damage_1:
+  en: Aah!
+  ko: 꺄악!
+  ja: きゃあ！
+c581_Damage_2:
+  en: "*Sob*"
+  ko: 힝….
+  ja: ひぃん…
+c581_Damage_3:
+  en: Ugh.
+  ko: 하윽.
+  ja: はうっ。
+c581_Die_1:
+  en: This wasn't the fate I had foretold...
+  ko: 이럴 운명은… 아니었는데….
+  ja: こんな運命のはずじゃ…
+c581_Win_1:
+  en: Did you see that? How was it? It was cool, right? Did you fall for me?
+  ko: 봤어요? 어땠어요? 멋있었죠? 반했죠!
+  ja: |-
+    見ましたか？どうでした？カッコよかったですか？
+    惚れちゃったりして～？
+581_cv_ja:
+  en: 'CV: Natsumi Murakami'
+  ko: 'CV : 무라카미 나츠미'
+  ja: CV：村上奈津実
+581_cv_ko:
+  en: 'CV: Seo Da-hye'
+  ko: 'CV : 서다혜'
+  ja: CV：ソ・ダヘ
+581_cv_en:
+  en: 'CV: Skyler Davenport'
+  ko: 'CV : 스카일러 데이븐포트'
+  ja: CV：Skyler Davenport

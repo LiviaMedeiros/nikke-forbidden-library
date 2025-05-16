@@ -87,7 +87,8 @@ skill_name_1003:
   ja: |-
     ■最後の弾丸が命中した時、味方全体に
     <color=#00AEFF>「攻撃ダメージの{description_value_01}％回復」「{description_value_02}秒間維持」</color>
-    ■最後の弾丸が命中した時、<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_03}機に
+    ■最後の弾丸が命中した時、
+    <word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_03}機に
     <color=#00AEFF>「受けるHP回復量{description_value_04}％▲」「{description_value_05}秒間維持」</color>
 skill_name_1002:
   en: Skill 1

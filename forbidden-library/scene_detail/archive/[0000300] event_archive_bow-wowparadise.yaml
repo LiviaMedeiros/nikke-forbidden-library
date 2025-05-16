@@ -2113,12 +2113,12 @@ event_bowwowparadise_03_e:
     ko: 멍멍멍멍멍멍!!
     ja: ワンワンワンワンワンワン！！
   event_bowwowparadise_03_e_18:
-    speaker: "<Choice>"
+    speaker: Choice
     en: They might act tough, but at the end of the day, they're still dogs.
     ko: 어쩔 수 없는 강아지들이네.
     ja: 現金な奴らだな
   event_bowwowparadise_03_e_19:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Seems like snacks are their weakness.
     ko: 간식에 약하네.
     ja: おやつに弱いな
@@ -2268,12 +2268,12 @@ event_bowwowparadise_03_e:
     ko: 맥스가 방주에 대해서 물어볼 때, 왜 눈치채지 못했을까요….
     ja: マックスがアークについて聞いてきた時、\nどうして気づけなかったのでしょうか…
   event_bowwowparadise_03_e_45:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Just because you're close, doesn't mean you know everything.
     ko: 친하다고 다 아는 건 아니니까.
     ja: 仲がいいからって、\nすべてを理解できるわけじゃない
   event_bowwowparadise_03_e_46:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Sometimes, the more you get to know someone, the less you know.
     ko: 원래 가까울수록 더 모르는 법이지.
     ja: 近しい関係であるほど\n分からないこともある
@@ -2313,12 +2313,12 @@ event_bowwowparadise_03_e:
     ko: 우선순위는 강아지들의 행복이니까요!
     ja: 一番大事なのは、みんなの幸せですから！
   event_bowwowparadise_03_e_54:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Very admirable of you.
     ko: 기특하네.
     ja: 健気だな
   event_bowwowparadise_03_e_55:
-    speaker: "<Choice>"
+    speaker: Choice
     en: That's using the ol' noggin.
     ko: 똑똑하네.
     ja: 賢いな
@@ -2449,12 +2449,12 @@ event_bowwowparadise_intermission_01:
     ko: 제가 뒤에서 조용히 맥스를 잡을게요.
     ja: 私が後ろからこっそりマックスを捕まえます。
   event_bowwowparadise_intermission_01_8:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Won't Max be suspicious of me?
     ko: 맥스가 날 의심하지 않을까?
     ja: マックスに怪しまれるのでは？
   event_bowwowparadise_intermission_01_9:
-    speaker: "<Choice>"
+    speaker: Choice
     en: What should I do if Max runs away again?
     ko: 맥스가 또 도망가면 어떡해?
     ja: また逃げ出したらどうする？
@@ -2499,12 +2499,12 @@ event_bowwowparadise_intermission_01:
     ko: 네놈이 여긴 어쩐 일이더냐?
     ja: どうして青二才がここにいるんじゃ？
   event_bowwowparadise_intermission_01_18:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I came to play fetch.
     ko: "…공놀이를 하러 왔어."
     ja: "…ボール遊びをしに来た"
   event_bowwowparadise_intermission_01_19:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'm looking for a dog.
     ko: "…강아지를 찾으러 왔어."
     ja: "…イヌを捜しに来た"
@@ -2917,12 +2917,12 @@ event_bowwowparadise_intermission_01:
     ko: "…강아지들한테 당장의 자유를 선물할 순 없으니, 노력이라도 해야죠!"
     ja: "…みんなに今すぐ自由を\\n与えることはできませんが、\\nせめて努力はしないと！"
   event_bowwowparadise_intermission_01_92:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I can help with that.
     ko: 같이 하자.
     ja: 一緒にやろう
   event_bowwowparadise_intermission_01_93:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'll help.
     ko: 도와줄게.
     ja: 手伝うよ
@@ -3064,12 +3064,12 @@ event_bowwowparadise_04_s:
       思ったよりすごいっす！
       ここで休暇を過ごしてもよさそうっすね。
   event_bowwowparadise_04_s_13:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Aren't you going a bit overboard?
     ko: 그건 좀….
     ja: それはちょっと…
   event_bowwowparadise_04_s_14:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You're not serious, are you?
     ko: "…진심으로 하는 말이야?"
     ja: "…本気で言ってるのか？"
@@ -3355,12 +3355,12 @@ event_bowwowparadise_04_e:
     ko: 제 눈에만 강아지들이 달려오는 게 보이나요?
     ja: ワンちゃんたちが走ってくるのが見えるんですが\n私だけでしょうか？
   event_bowwowparadise_04_e_35:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I see it too.
     ko: 나도 보여.
     ja: 私にも見える
   event_bowwowparadise_04_e_36:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Seems that only you could see it.
     ko: 비스킷만 보이는 것 같아.
     ja: ビスケットにしか見えないようだ
@@ -5081,7 +5081,7 @@ event_bowwowparadise_06_e:
   event_bowwowparadise_06_e_24:
     speaker: "<Narration>"
     en: "*Lick*"
-    ko: 할짝-!
+    ko: 핥짝-!
     ja: ペロッ！
   event_bowwowparadise_06_e_25:
     speaker: max

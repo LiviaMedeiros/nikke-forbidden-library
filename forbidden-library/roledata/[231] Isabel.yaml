@@ -85,11 +85,16 @@ skill_name_1003:
     3 회 : [타겟 마킹 3 : 공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
   ja: |-
     ■バーストスキルを使用した時、自分に
-    <color=#00AEFF>「使用回数別の追加効果」「<word_group=10028>下位効果のスタック適用</word_group>」
-    1回：「ターゲットマーキング1：クリティカル確率{description_value_01}％▲」「{description_value_02}秒間維持」
-    2回：「ターゲットマーキング2：クリティカルダメージ{description_value_03}％▲」「{description_value_04}秒間維持」
-    3回：「ターゲットマーキング3：攻撃力
-    {description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    <color=#00AEFF>「使用回数別の追加効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」
+    1回：「ターゲットマーキング1：
+    クリティカル確率{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    2回：「ターゲットマーキング2：
+    クリティカルダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」
+    3回：「ターゲットマーキング3：
+    攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1
@@ -116,13 +121,18 @@ skill_name_1002:
     아군 전체에게\n<color=#00AEFF>[풀 버스트 타임 지속 시간 5초 ▼]</color>"
   ja: |-
     ■敵全体に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」
-    「ターゲットマーキング段階別の追加効果」「<word_group=10028>下位効果のスタック適用</word_group>」：
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    バーストスキルダメージ」
+    「ターゲットマーキング段階別の追加効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」：
     ターゲットマーキング1：「受けるダメージ
     {description_value_02}％▲」「{description_value_03}秒間維持」
     ターゲットマーキング2：「<word_group=10025>最終</word_group>攻撃力の
     {description_value_04}％の追加ダメージ」
-    ターゲットマーキング3：「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の追加ダメージ」</color>■味方全体に<color=#00AEFF>「フルバーストタイム5秒▼」</color>
+    ターゲットマーキング3：「<word_group=10025>最終</word_group>攻撃力の
+    {description_value_05}％の追加ダメージ」</color>
+    ■味方全体に<color=#00AEFF>
+    「フルバーストタイム5秒▼」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

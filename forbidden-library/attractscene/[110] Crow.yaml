@@ -119,12 +119,12 @@ d_nikke_crow_01:
     ko: 수수께끼는 좋아하나?
     ja: なぞ解きは好きか？
   d_nikke_crow_01_22:
-    speaker: "<Choice>"
+    speaker: Choice
     en: No.
     ko: 좋아하지 않아.
     ja: 好きじゃない
   d_nikke_crow_01_23:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Yes.
     ko: 좋아하는 편이야.
     ja: 好きな方だ
@@ -382,12 +382,12 @@ d_nikke_crow_01:
     ko: 내 추측은…….
     ja: 私の予想では…
   d_nikke_crow_01_69:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You're indirectly responsible for orchestrating this incident.
     ko: 네가 간접적으로 사건을 주도한 것 같아.
     ja: 君が間接的に事件を主導したと思う
   d_nikke_crow_01_70:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'm not going to jump to conclusions.
     ko: 아직 결론 내리긴 일러 보여.
     ja: まだ結論付けるには早い
@@ -620,12 +620,12 @@ d_nikke_crow_02:
     ko: 어차피 오늘 식사는 공친 듯하니 곧바로 본론으로 들어가지.
     ja: 今日の食事はもう終わった。早速本題に入ろう。
   d_nikke_crow_02_34:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Why didn't you do anything at the scene of the terrorist attack?
     ko: 왜 테러 현장에서 아무것도 하지 않았지?
     ja: どうしてテロ犯行現場で何もしなかった？
   d_nikke_crow_02_35:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Why didn't you stop that criminal from shooting those people?
     ko: 왜 총기 난사범을 막지 않았지?
     ja: どうして銃乱射犯を阻止しなかった？
@@ -650,12 +650,12 @@ d_nikke_crow_02:
     ko: 네가 보기에 총기 난사범은 어떤 놈이었지?
     ja: お前が見た感じ、銃乱射犯はどんな奴だった？
   d_nikke_crow_02_40:
-    speaker: "<Choice>"
+    speaker: Choice
     en: An outlaw.
     ko: 아웃로였어.
     ja: アウトローだった
   d_nikke_crow_02_41:
-    speaker: "<Choice>"
+    speaker: Choice
     en: A middle-aged man.
     ko: 중년의 남자였어.
     ja: 中年の男性だった
@@ -731,12 +731,12 @@ d_nikke_crow_02:
     ko: 그래서? 질문에 대한 대답은?
     ja: で、質問に対する答えは何だ？
   d_nikke_crow_02_56:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Well, food is limited in the Ark.
     ko: 방주의 식량이 제한적이기 때문이겠지.
     ja: アークの食糧には限りがあるから
   d_nikke_crow_02_57:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Well, living space is limited in the Ark.
     ko: 방주의 거주 공간이 제한적이기 때문이겠지.
     ja: アークの居住空間には限りがあるから
@@ -822,12 +822,12 @@ d_nikke_crow_02:
       じゃあそのアウトローの恨みは
       誰が処理するんだ？
   d_nikke_crow_02_73:
-    speaker: "<Choice>"
+    speaker: Choice
     en: The law.
     ko: 법.
     ja: 法
   d_nikke_crow_02_74:
-    speaker: "<Choice>"
+    speaker: Choice
     en: The people, once they learn of the outlaw's plight.
     ko: 연대의식을 지닌 사람들.
     ja: 連帯意識を持った人たち
@@ -1047,21 +1047,21 @@ d_nikke_crow_02:
     ko: 그로부터 추측해 보건대, 아마 그녀는….
     ja: それらを通して推測するに、おそらく彼女は…
   d_nikke_crow_02_114:
-    speaker: "<Choice>"
+    speaker: Choice
     en: covering for the criminal because of her old outlaw mindset.
     ko: 아웃로 시절의 동족 의식 때문에 범인을 감싸는 것 같다.
     ja: |-
       アウトロー時代の仲間意識により
       犯人をかばったようだ
   d_nikke_crow_02_115:
-    speaker: "<Choice>"
+    speaker: Choice
     en: using this incident to convey some kind of message to me.
     ko: 이번 일을 통해 내게 어떤 메시지를 전하고 싶어하는 것 같다.
     ja: |-
       今回の事件を通して
       何らかのメッセージを伝えようとしている
   d_nikke_crow_02_116:
-    speaker: "<Choice>"
+    speaker: Choice
     en: "... forget it. No use jumping to conclusions."
     ko: 아직은 결론 내릴 수 없다.
     ja: まだ結論を出すのは早い
@@ -1773,12 +1773,12 @@ d_nikke_crow_04:
     ko: 그래.
     ja: そうだ。
   d_nikke_crow_04_31:
-    speaker: "<Choice>"
+    speaker: Choice
     en: How can you be sure?
     ko: 어떻게 그렇게 확신하지?
     ja: どうしてそう言い切れるんだ？
   d_nikke_crow_04_32:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I don't believe it.
     ko: 믿을 수 없어.
     ja: 信じられない
@@ -1884,12 +1884,12 @@ d_nikke_crow_04:
     ko: 왜 방주의 밑바닥에 고이게 됐는지 너는 아나?
     ja: どうしてアークのどん底に集まったのか\nお前は分かるか？
   d_nikke_crow_04_51:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I don't know.
     ko: 모르겠어.
     ja: 分からない
   d_nikke_crow_04_52:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Because of the need of the military.
     ko: 군부의 필요에 의해서.
     ja: 軍部の必要に応じて

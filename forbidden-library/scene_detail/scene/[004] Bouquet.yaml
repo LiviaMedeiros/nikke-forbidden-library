@@ -20,14 +20,14 @@ d_main_04_01:
       はい。視野の確保も困難な上、
       指揮官は体力を回復する必要があります。
   d_main_04_01_4:
-    speaker: "<Choice>"
+    speaker: Choice
     en: We're guaranteed to run into Raptures within one hour of being above ground.
     ko: 지상에서 1시간 내로 랩쳐 조우율은 100%야.
     ja: |-
       地上で1時間以内にラプチャーと
       遭遇する確率は100％だ
   d_main_04_01_5:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'm doing just fine.
     ko: 내 체력은 끄떡없어.
     ja: 体力なら問題ない
@@ -3248,12 +3248,12 @@ d_main_04af_02:
     ko: 이…!!
     ja: この…！！
   d_main_04af_02_23:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Stop Anis.
     ko: 아니스를 말린다.
     ja: アニスを止める
   d_main_04af_02_24:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Slap Syuen across the face.
     ko: 슈엔의 뺨을 때린다.
     ja: シュエンをビンタする
@@ -3393,12 +3393,12 @@ d_main_04af_03:
     ko: "…누구와 얘기를 할까."
     ja: "…誰と話をしよう"
   d_main_04af_03_3:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Talk to Rapi.
     ko: 라피와 얘기한다.
     ja: ラピと話をする
   d_main_04af_03_4:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Talk to Mihara.
     ko: 미하라와 얘기한다.
     ja: ミハラと話をする
@@ -3884,12 +3884,12 @@ d_main_04af_04:
       1つ聞こう。
       気分はどうかね。
   d_main_04af_04_6:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Depressed.
     ko: 슬픕니다.
     ja: 悲しいです
   d_main_04af_04_7:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'd rather not talk about it.
     ko: 말하고 싶지 않습니다.
     ja: 話したくありません
@@ -5477,12 +5477,12 @@ d_main_04af_08:
       You.
       YouがCommander@UserName？
   d_main_04af_08_32:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Yes.
     ko: "…그런데."
     ja: "…それで？"
   d_main_04af_08_33:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Oui, c'est moi.
     ko: Yes. I'm.
     ja: Yes. I'm.

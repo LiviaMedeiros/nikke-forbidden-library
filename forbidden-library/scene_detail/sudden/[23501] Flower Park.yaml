@@ -1632,3 +1632,600 @@ d_ex_flowerpark_03:
     ja: |-
       花が眠った後、
       ようやく公園を後にすることができたのだった
+d_ex_flowerpark_04:
+  d_ex_flowerpark_04_1:
+    speaker: "<Monologue>"
+    en: While giving Arcana a tour of the Outpost, we stop by Flower Park.
+    ko: 아르카나에게 전초기지를 구경시켜 주다가 생화 공원에 들렀다.
+    ja: アルカナに前哨基地を案内し、生花公園に寄った
+  d_ex_flowerpark_04_2:
+    speaker: arcana
+    en: Wow, I had no idea this place existed.
+    ko: 우와. 이런 곳도 있네요?
+    ja: わあ。こんな場所もあるんですね。
+  d_ex_flowerpark_04_3:
+    speaker: "<Self>"
+    en: It's fairly new.
+    ko: 생긴 지 얼마 안 됐어.
+    ja: 最近できたんだ
+  d_ex_flowerpark_04_4:
+    speaker: arcana
+    en: It's so pretty!
+    ko: 엄청 예쁘다….
+    ja: すごくきれい…
+  d_ex_flowerpark_04_5:
+    speaker: arcana
+    en: Can I come here on my own?
+    ko: 저 혼자 와도 되는 거예요?
+    ja: 私1人で来てもいいんですか？
+  d_ex_flowerpark_04_6:
+    speaker: "<Self>"
+    en: As long as you follow the rules.
+    ko: 규칙만 지키면 될 거야.
+    ja: ルールさえ守れば大丈夫だ
+  d_ex_flowerpark_04_7:
+    speaker: arcana
+    en: Cool! I'd love to come here often.
+    ko: 그러면 자주 올래요.
+    ja: それなら、ちょくちょく遊びに来ますね～
+  d_ex_flowerpark_04_8:
+    speaker: arcana
+    en: I wonder if it looks this pretty at night.
+    ko: 와아… 밤에 와도 예쁘려나…?
+    ja: 夜はどうですかねぇ…？
+  d_ex_flowerpark_04_9:
+    speaker: "<Self>"
+    en: I'm not sure if we're allowed to come here in the evening.
+    ko: 밤은… 음. 되는지 모르겠네….
+    ja: |-
+      夜は…うーん。入れるのだろうか…
+      分からないな
+  d_ex_flowerpark_04_10:
+    speaker: arcana
+    en: Even if we're not, couldn't you pull a few strings?
+    ko: 안 돼도 그 정도는 그쪽이 막 어떻게 해볼 수 있는 거 아니에요?
+    ja: |-
+      もしダメでも、あなたなら
+      何とかなるんじゃないですか？
+  d_ex_flowerpark_04_11:
+    speaker: arcana
+    en: Aren't you the head honcho who calls the shots around here?
+    ko: 그쪽, 여기 전초기지에서는 무소불위의 권력자잖아요.
+    ja: 前哨基地の全能の権力者でしょう？
+  d_ex_flowerpark_04_12:
+    speaker: "<Self>"
+    en: Uh, not exactly.
+    ko: 그렇지는 않아….
+    ja: そんなことはない…
+  d_ex_flowerpark_04_13:
+    speaker: rupee
+    en: Sweetie!
+    ko: 앗! 오빠다!
+    ja: あっ！お兄ちゃんだ！
+  d_ex_flowerpark_04_14:
+    speaker: helm
+    en: Hello, Subordinate.
+    ko: 안녕. 귀관.
+    ja: こんにちは。
+  d_ex_flowerpark_04_15:
+    speaker: "<Self>"
+    en: Hey. Are you guys just hanging out?
+    ko: 안녕. 놀러 나왔어?
+    ja: やあ。遊びに来たのか？
+  d_ex_flowerpark_04_16:
+    speaker: rupee
+    en: Yeah, we were chatting and thought we’d take in the flowers while we were
+      at it.
+    ko: 응. 만나서 수다 떨다가 꽃구경하러 왔지☆
+    ja: |-
+      うん！ガールズトークして、
+      お花を見に来たの☆
+  d_ex_flowerpark_04_17:
+    speaker: "<Self>"
+    en: It's hard imagining you two chewing the fat.
+    ko: 수다…?
+    ja: ガールズトーク…？
+  d_ex_flowerpark_04_18:
+    speaker: helm
+    en: We're not simply "chewing the fat", Subordinate.
+    ko: "…귀관이 생각하는 그런 수다는 아닐 거야."
+    ja: |-
+      …ヘンな話はしていないわ、
+      おしゃべりしただけよ。
+  d_ex_flowerpark_04_19:
+    speaker: rupee
+    en: Who's this lovely lady you have with you?
+    ko: 근데 거기 예쁘신 분은 누구야??
+    ja: ところで、隣のきれいな人は誰？？
+  d_ex_flowerpark_04_20:
+    speaker: rupee
+    en: I haven't had the pleasure. Introduce me!
+    ko: 루피 완전 처음 보는데? 소개시켜 줘!
+    ja: ルピー、超初めましてだよ？紹介してー！
+  d_ex_flowerpark_04_21:
+    speaker: "<Self>"
+    en: Oh, this is...
+    ko: 아, 여기는….
+    ja: ああ、彼女は…
+  d_ex_flowerpark_04_22:
+    speaker: "<Monologue>"
+    en: I introduce Arcana to Helm and Rupee.
+    ko: 헬름과 루피에게 아르카나를 소개했다.
+    ja: ヘルムとルピーにアルカナを紹介した
+  d_ex_flowerpark_04_23:
+    speaker: rupee
+    en: Wow, so you're a librarian?
+    ko: 사서면 그 도서관에서 책 빌려주는 사람이지?
+    ja: |-
+      司書さんって、
+      図書館で本を貸してくれる人だよね？
+  d_ex_flowerpark_04_24:
+    speaker: rupee
+    en: Lending out books at the library and everything... just hearing it makes you
+      sound so intelligent!
+    ko: 우와… 말만 들어도 엄청 똑똑할 것 같은 느낌….
+    ja: わあ…なんかすっごく頭よさそうな感じ…
+  d_ex_flowerpark_04_25:
+    speaker: arcana
+    en: Haha.
+    ko: 후후. 그 정도는 아니에요.
+    ja: ふふ。そんなことないですよ～
+  d_ex_flowerpark_04_26:
+    speaker: arcana
+    en: I'm not as impressive as you think, Miss Rupee.
+    ko: 루피 님도….
+    ja: ルピー様も…
+  d_ex_flowerpark_04_27:
+    speaker: arcana
+    en: Is that what I should call you? Miss Rupee?
+    ko: "…어라? 루피…?"
+    ja: "…あれ？ルピー…？"
+  d_ex_flowerpark_04_28:
+    speaker: rupee
+    en: Oh, certainly not! It's so formal.
+    ko: 에이. 루피 님은 너무 딱딱하잖아.
+    ja: も～！ルピー様なんて、距離感じちゃうよ～！
+  d_ex_flowerpark_04_29:
+    speaker: rupee
+    en: Just call me Rupee. We're all friends here.
+    ko: 그냥 루피라고 불러. 말두 편하게 하구☆
+    ja: ルピーって呼んで！タメ口でいいよ☆
+  d_ex_flowerpark_04_30:
+    speaker: arcana
+    en: Thank you for saying that, but I may still speak in a way that seems excessively
+      formal to you from time to time.
+    ko: 고마워요. 루피.
+    ja: ありがとうございます。ルピー。
+  d_ex_flowerpark_04_31:
+    speaker: arcana
+    en: It's more natural for me to speak that way.
+    ko: 그래도 말은 이렇게 할게요. 이게 편해서.
+    ja: |-
+      でも、敬語は使わせてください。
+      その方が楽なので。
+  d_ex_flowerpark_04_32:
+    speaker: rupee
+    en: Okay, no problem!
+    ko: 응응.
+    ja: うんうんっ。
+  d_ex_flowerpark_04_33:
+    speaker: rupee
+    en: Wow, is that finger armor on your hand? It’s gorgeous.
+    ko: 우와, 근데 손에 그거 핑거 아머지? 엄청 예쁘다~
+    ja: |-
+      わあ、それってアーマーリングだよね？
+      めっちゃかわいい～！
+  d_ex_flowerpark_04_34:
+    speaker: rupee
+    en: Your shawl is so lovely as well, and your accessories are super stylish.
+    ko: 숄도 되게 느낌 좋구, 액세서리도 센스 있구….
+    ja: |-
+      ショールもいい感じだし、
+      アクセサリーもオシャレだし…
+  d_ex_flowerpark_04_35:
+    speaker: rupee
+    en: Are you into fashion?
+    ko: 혹시 패션에 관심 많아??
+    ja: もしかして、ファッションに興味ある？？
+  d_ex_flowerpark_04_36:
+    speaker: arcana
+    en: I do enjoy this sort of thing, but...
+    ko: 네. 이런 거 좋아해요. 그런데….
+    ja: |-
+      はい。こういうの好きなんです。
+      …あの。
+  d_ex_flowerpark_04_37:
+    speaker: arcana
+    en: May I ask... are you the same Rupee from Rushae?
+    ko: 루피면, 제가 아는 그 루피 맞아요? 루셰??
+    ja: ルピーって、もしかして…ルシェーの？？
+  d_ex_flowerpark_04_38:
+    speaker: rupee
+    en: Hehe.
+    ko: 엣헴.
+    ja: えっへん。
+  d_ex_flowerpark_04_39:
+    speaker: rupee
+    en: Indeed it is I, the one and only Rupee from Rushae, in the flesh!
+    ko: 바로 이 루피가 루셰의 그 루피라는 말씀☆
+    ja: その通り！ルシェーのルピーだよっ☆
+  d_ex_flowerpark_04_40:
+    speaker: arcana
+    en: Wow! It's almost like meeting a celebrity.
+    ko: 우와… 저 완전 연예인 만난 느낌….
+    ja: わあ…芸能人に会ったような気分です…
+  d_ex_flowerpark_04_41:
+    speaker: rupee
+    en: There's no "almost" about it. I am a celebrity!
+    ko: 비슷한 거 아냐? 루피두 셀럽이니까☆
+    ja: |-
+      似たようなものかもっ。
+      ルピーもインフルエンサーだから☆
+  d_ex_flowerpark_04_42:
+    speaker: rupee
+    en: However, if you're into fashion, how come you don't own anything from Rushae?
+    ko: |-
+      근데 아르카나는 패션에 관심 많다면서,
+      왜 루셰 거는 하나도 없어?
+    ja: |-
+      でもアルカナはファッションに興味あるのに、
+      なんでルシェーのものは身に着けてないの？
+  d_ex_flowerpark_04_43:
+    speaker: rupee
+    en: Do you feel it's not your style?
+    ko: 혹시 별루 취향 아니라거나…?
+    ja: もしかして、好みじゃなかった…？
+  d_ex_flowerpark_04_44:
+    speaker: arcana
+    en: Oh, well...
+    ko: 아, 그게요….
+    ja: あ、それは…
+  d_ex_flowerpark_04_45:
+    speaker: arcana
+    en: To be honest, it's a little outside my price range.
+    ko: 솔직히 가격이 좀 부담스러워서….
+    ja: 正直、お値段がちょっと…
+  d_ex_flowerpark_04_46:
+    speaker: rupee
+    en: "!!!"
+    ko: "!!!!"
+    ja: "！！！！"
+  d_ex_flowerpark_04_47:
+    speaker: rupee
+    en: Then allow me to use my privileges as a brand ambassador to give it to you.
+    ko: 내가 대표 권한으루 줄게.
+    ja: 私が社長の特権でプレゼントするよ！
+  d_ex_flowerpark_04_48:
+    speaker: rupee
+    en: Someone like you simply must wear Rushae for everything to be right with the
+      world.
+    ko: 세계 평화를 위해서라두, 이런 좋은 모델은 루셰를 입어줘야지!
+    ja: |-
+      世界平和のためにも、こんないいモデルさんに
+      ルシェーを着てもらわなきゃ！
+  d_ex_flowerpark_04_49:
+    speaker: arcana
+    en: Wow, really?
+    ko: 와아. 진짜요??
+    ja: わあ！本当ですか？？
+  d_ex_flowerpark_04_50:
+    speaker: rupee
+    en: Of course!
+    ko: 당연히 진짜지☆
+    ja: もっちろんマジだよ☆
+  d_ex_flowerpark_04_51:
+    speaker: rupee
+    en: But in return...
+    ko: 그 대신에 말인데, 헤헷….
+    ja: その代わりぃ…えへへっ…
+  d_ex_flowerpark_04_52:
+    speaker: arcana
+    en: I know. I should wear it all the time, and when people ask me about it, I
+      must be sure to tell them it's from Rushae.
+    ko: |-
+      엄청 열심히 입고 다니구,
+      사람들이 물어보면 루셰 거라고 말해줄게요!
+    ja: |-
+      たくさん着て出かけて、
+      みんなにどこの服か聞かれたら
+      ルシェーのお洋服だって宣伝しますね！
+  d_ex_flowerpark_04_53:
+    speaker: rupee
+    en: Hehe, thank you!
+    ko: 진짜?? 고마워~!
+    ja: いいの？？ありがとー！
+  d_ex_flowerpark_04_54:
+    speaker: rupee
+    en: Is there anything you had your eye on in particular?
+    ko: 그러면 혹시, 막 제일 원하는 건 있어?
+    ja: 一番欲しい服ってある？
+  d_ex_flowerpark_04_55:
+    speaker: arcana
+    en: Oh, well... th-that new dress from the latest collection is quite nice!
+    ko: 저, 그그 요번 신상으로 나온 원피스요!
+    ja: あっ、あの、新作のワンピースです！
+  d_ex_flowerpark_04_56:
+    speaker: rupee
+    en: You mean Floral Reverie, right?
+    ko: "[레브리 플로랄] 말이지?"
+    ja: "「レヴェリーフローラル」でしょ？"
+  d_ex_flowerpark_04_57:
+    speaker: rupee
+    en: This is perfect, actually. I wasn't entirely happy with how it looked on me,
+      and was thinking about finding someone else to model it for me.
+    ko: |-
+      안그래두 그거, 루피한테는 별루 안 어울려서
+      어떻게 브랜딩할까 고민중 이었는데 잘 됐다☆
+    ja: |-
+      ルピーにはあんまり似合わないから、
+      どうやって売り出そうか悩んでたんだよね☆
+  d_ex_flowerpark_04_58:
+    speaker: rupee
+    en: I’ll customize one just for you. We can go get your measurements in a bit.
+    ko: 나온 거 말구 커스텀해서 줄게. 좀 이따 치수 재러 가자.
+    ja: |-
+      既製品のままじゃなく、カスタムしてあげる。
+      あとでサイズを測りに行こっ！
+  d_ex_flowerpark_04_59:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_flowerpark_04_60:
+    speaker: "<Monologue>"
+    en: Before I know it, Rupee and Arcana are off in their own world.
+    ko: 어느새 둘은 둘만의 세계에 빠져 버렸고.
+    ja: |-
+      いつの間にか2人は
+      自分たちだけの世界で盛り上がっていた
+  d_ex_flowerpark_04_61:
+    speaker: helm
+    en: "*Sigh*..."
+    ko: "……하아."
+    ja: "…はぁ。"
+  d_ex_flowerpark_04_62:
+    speaker: "<Monologue>"
+    en: The simple act of watching them seems to have drained Helm's energy.
+    ko: 헬름은 그걸 보기만 해도 지친다는 듯, 한숨을 내쉬었다.
+    ja: |-
+      ヘルムはそんな様子を見ているだけでも
+      疲れるのか、ため息をついた
+  d_ex_flowerpark_04_63:
+    speaker: "<Self>"
+    en: You okay?
+    ko: "…괜찮아?"
+    ja: "…大丈夫か？"
+  d_ex_flowerpark_04_64:
+    speaker: helm
+    en: Yeah. Things are going okay with Rupee.
+    ko: "…루피 한 명은 괜찮아."
+    ja: "…ルピー1人なら平気よ。"
+  d_ex_flowerpark_04_65:
+    speaker: helm
+    en: We’ve gotten pretty close by now, and she's proven to be a surprisingly good
+      listener.
+    ko: |-
+      이제는 꽤 친해졌기도 하고,
+      의외로 이야기도 차분히 들어주는 편이니까.
+    ja: |-
+      もうすっかり仲よくなったし、
+      意外と話を冷静に聞いてくれるタイプだから。
+  d_ex_flowerpark_04_66:
+    speaker: helm
+    en: However, even so...
+    ko: 그런데….
+    ja: でも…
+  d_ex_flowerpark_04_67:
+    speaker: "<Monologue>"
+    en: Helm glances over at Rupee and Arcana.
+    ko: 헬름의 시선이 루피와 아르카나에게 향했다.
+    ja: ヘルムの視線がルピーとアルカナに向けられた
+  d_ex_flowerpark_04_68:
+    speaker: "<Monologue>"
+    en: The pair are giggling and playfully nudging each other like lifelong best
+      friends.
+    ko: |-
+      뭐가 그렇게 즐거운지,
+      두 사람은 연신 서로를 톡톡 치면서 꺄르륵거리고 있다….
+    ja: |-
+      何がそんなに楽しいのか、
+      2人はお互いをツンツンしながら
+      キャッキャしている…
+  d_ex_flowerpark_04_69:
+    speaker: helm
+    en: The way these two are going, I can already see myself getting roped into joining
+      them for some crazy adventure.
+    ko: 저렇게 되어 버리면… 나는 도저히….
+    ja: ああなってしまったら…もう私には…
+  d_ex_flowerpark_04_70:
+    speaker: "<Choice>"
+    en: You're probably right.
+    ko: "…응. 이해해."
+    ja: "…ああ、気持ちは分かる"
+  d_ex_flowerpark_04_71:
+    speaker: "<Choice>"
+    en: Can't you sit back and be a fly on the wall?
+    ko: 옆에서 듣기만 해도 되잖아?
+    ja: 隣で話を聞くだけじゃだめなのか？
+  d_ex_flowerpark_04_72:
+    speaker: helm
+    en: Do you really think they'll let me get away with that?
+    ko: 저 둘이 그걸 가만히 놔둘까?
+    ja: あの2人が放っておくと思う？
+  d_ex_flowerpark_04_73:
+    speaker: "<Self>"
+    en: "... Nope."
+    ko: "…아니겠지."
+    ja: "…無理だろうな"
+  d_ex_flowerpark_04_74:
+    speaker: rupee
+    en: Sweetie!
+    ko: 오빠~!
+    ja: お兄ちゃ～ん！
+  d_ex_flowerpark_04_75:
+    speaker: "<Monologue>"
+    en: I turn around to see Rupee and Arcana crouched down by the flowers.
+    ko: 고개를 돌려보니, 루피와 아르카나가 꽃 앞에 쪼그려 앉아 있다.
+    ja: |-
+      名前を呼ばれて振り返ると、ルピーとアルカナが
+      花の前にしゃがみ込んでいる
+  d_ex_flowerpark_04_76:
+    speaker: rupee
+    en: Guess where I am!
+    ko: 루피 어딨게~?
+    ja: ルピーはどーこだっ？
+  d_ex_flowerpark_04_77:
+    speaker: arcana
+    en: Me too! Guess where I am!
+    ko: 저도 어딨게요~
+    ja: 私も探してみてくださ～い。
+  d_ex_flowerpark_04_78:
+    speaker: "<Choice>"
+    en: Uh... I wonder?
+    ko: 그, 글쎄에~?
+    ja: ど、どこだろ～？
+  d_ex_flowerpark_04_79:
+    speaker: "<Choice>"
+    en: Oh my gosh, the flowers are talking!
+    ko: 말하는 꽃이 있네?
+    ja: 花がしゃべるなんて！
+  d_ex_flowerpark_04_80:
+    speaker: rupee
+    en: Haha!
+    ko: 꺄아아아~
+    ja: きゃあああ～！
+  d_ex_flowerpark_04_81:
+    speaker: arcana
+    en: Pfft! I certainly didn't expect you to say something like that, @UserName.
+    ko: 풋. 그쪽 그런 말도 할 줄 알았어요?
+    ja: ふふっ。そんなことも言えたんですね？
+  d_ex_flowerpark_04_82:
+    speaker: "<Monologue>"
+    en: As I turn back to Helm...
+    ko: 둘에게 대답해 주고 다시 헬름을 보자….
+    ja: 2人に返事をしてから、ヘルムの方を見ると…
+  d_ex_flowerpark_04_83:
+    speaker: helm
+    en: No. I'm not doing it.
+    ko: 나, 난 싫어. 안 할 거야.
+    ja: わ、私は嫌。やらないわ。
+  d_ex_flowerpark_04_84:
+    speaker: "<Self>"
+    en: Huh? I didn't say anything.
+    ko: "…아무 말도 안 했는데?"
+    ja: "…何も言っていないが…"
+  d_ex_flowerpark_04_85:
+    speaker: helm
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_flowerpark_04_86:
+    speaker: rupee
+    en: Helm!
+    ko: 헬름!
+    ja: ヘルム！
+  d_ex_flowerpark_04_87:
+    speaker: rupee
+    en: We were gonna go take photos, remember? Let’s go!
+    ko: 우리 사진 찍으러 가기로 했는데, 얼른 가자!
+    ja: 写真撮るって約束したでしょ！早く行こー！
+  d_ex_flowerpark_04_88:
+    speaker: rupee
+    en: Arcana said she knows a super good studio!
+    ko: 아르카나가 엄~청 괜찮은 스튜디오 안대!
+    ja: |-
+      アルカナが、すーっごく素敵な
+      スタジオを知ってるんだって！
+  d_ex_flowerpark_04_89:
+    speaker: helm
+    en: "... Fine."
+    ko: "……알았어."
+    ja: "…分かったわ。"
+  d_ex_flowerpark_04_90:
+    speaker: rupee
+    en: You too, Sweetie.
+    ko: 그리고 오빠도….
+    ja: それから、お兄ちゃんも…
+  d_ex_flowerpark_04_91:
+    speaker: "<Self>"
+    en: "...!"
+    ko: "……!"
+    ja: "……！"
+  d_ex_flowerpark_04_92:
+    speaker: "<Monologue>"
+    en: Just as I'm summoning my courage to face what's coming...
+    ko: 뇌리를 스치는 불길한 예감에 대응하려던 찰나.
+    ja: 脳裏をよぎる不吉な予感に身構えた、その時…
+  d_ex_flowerpark_04_93:
+    speaker: helm
+    en: Come to think of it, Subordinate.
+    ko: "…그러고 보니 귀관."
+    ja: "…そういえば、貴官。"
+  d_ex_flowerpark_04_94:
+    speaker: helm
+    en: Don’t you have a meeting soon?
+    ko: 곧 회의가 있다고 하지 않았어?
+    ja: もうすぐ会議があるんじゃなかった？
+  d_ex_flowerpark_04_95:
+    speaker: arcana
+    en: Hmm...
+    ko: 음….
+    ja: う～ん…
+  d_ex_flowerpark_04_96:
+    speaker: arcana
+    en: Oh my, that does seem to be the case.
+    ko: 그렇네요. 그랬던 것 같기도 하구?
+    ja: そうですね。そういえばそうだったかも？
+  d_ex_flowerpark_04_97:
+    speaker: rupee
+    en: Aw, what a shame!
+    ko: 아 진짜? 아쉽당….
+    ja: あ、ホント？ざんねーん…
+  d_ex_flowerpark_04_98:
+    speaker: rupee
+    en: You'll just have to take a rain check.
+    ko: 그러면 오빠, 나중에 신상 보여줄 때는 꼭 와야 돼??
+    ja: |-
+      じゃあ、お兄ちゃん。
+      今度新作を発表する時、絶対来てね！
+  d_ex_flowerpark_04_99:
+    speaker: arcana
+    en: Yeah, you've gotta be sure to come next time!
+    ko: 꼭 와요~
+    ja: 来てくださいね～
+  d_ex_flowerpark_04_100:
+    speaker: "<Self>"
+    en: Yeah... sure thing.
+    ko: 아, 알았어….
+    ja: わ、分かった…
+  d_ex_flowerpark_04_101:
+    speaker: helm
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_flowerpark_04_102:
+    speaker: helm
+    en: See you next time, Subordinate!
+    ko: 그럼 다음에 봐, 귀관.
+    ja: じゃあ、また今度ね。貴官。
+  d_ex_flowerpark_04_103:
+    speaker: helm
+    en: "... One victim is enough. I’ll take the brunt of this blow."
+    ko: "…희생당하는 건 나 하나로 충분하니까."
+    ja: "…犠牲になるのは私だけで十分よ。"
+  d_ex_flowerpark_04_104:
+    speaker: "<Self>"
+    en: Thanks, Helm.
+    ko: "…응. 고마워…."
+    ja: "…ああ、ありがとう…"
+  d_ex_flowerpark_04_105:
+    speaker: "<Monologue>"
+    en: Turning away from the tragic sight of Helm being dragged off by the girls,
+      I quietly exit Flower Park.
+    ko: |-
+      둘에게 끌려가는 헬름의 처연한 모습에서 애써 눈을 돌리며
+      생화 공원을 빠져나왔다….
+    ja: |-
+      私は2人に引きずられていく
+      ヘルムの姿から必死に目を背け、
+      生花公園を後にしたのだった…

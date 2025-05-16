@@ -70,7 +70,8 @@ character_shot_description_localkey_rl_up:
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 아군 공용 <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]</color>
   ja: |-
     ■自分に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の味方共用<word_group=10023>バリア</word_group>」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の
+    味方共用<word_group=10023>バリア</word_group>」「{description_value_02}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2

@@ -664,12 +664,12 @@ event_dazzlingcupid_01_s:
     ko: 우선 그녀의 시선을….
     ja: まずは、彼女の視線を…
   event_dazzlingcupid_01_s_64:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Turn to the left.
     ko: 왼쪽으로 피하자.
     ja: 左に避けよう
   event_dazzlingcupid_01_s_65:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Turn to the right.
     ko: 오른쪽으로 피하자.
     ja: 右に避けよう
@@ -1527,17 +1527,17 @@ event_dazzlingcupid_02_e:
     ko: 나는 이 화살을….
     ja: 私はこの矢を…
   event_dazzlingcupid_02_e_7:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Tia.
     ko: 티아에게 준다.
     ja: ティアにあげる
   event_dazzlingcupid_02_e_8:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Naga.
     ko: 나가에게 준다.
     ja: ナガにあげる
   event_dazzlingcupid_02_e_9:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Don't give it to anyone.
     ko: 아무에게도 주지 않는다.
     ja: 誰にもあげない
@@ -1996,14 +1996,14 @@ event_dazzlingcupid_03_s:
       私の代わりに、先生がこっそり
       面倒見てあげて？
   event_dazzlingcupid_03_s_23:
-    speaker: "<Choice>"
+    speaker: Choice
     en: If she's competition, why bother finding someone else to look after her?
     ko: 라이벌인데 굳이 이런 걸 왜 챙겨?
     ja: |-
       ライバルの必要な物を、
       わざわざ持ってきたのか？
   event_dazzlingcupid_03_s_24:
-    speaker: "<Choice>"
+    speaker: Choice
     en: That's incredibly thoughtful of you.
     ko: 나가는 사려 깊네.
     ja: ナガは優しいな
@@ -2139,12 +2139,12 @@ event_dazzlingcupid_03_s:
     ko: 이것저것 말이야아~
     ja: 色々あると思うけど～
   event_dazzlingcupid_03_s_47:
-    speaker: "<Choice>"
+    speaker: Choice
     en: It appears that the jig is up, so I might as well be honest.
     ko: 들킨 것 같으니, 사실대로 실토한다.
     ja: 隠し通せなさそうなので素直に言う
   event_dazzlingcupid_03_s_48:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Try to keep the backpack hidden for Naga's sake.
     ko: 나가를 위해 필사적으로 숨긴다.
     ja: ナガのために必死に隠す
@@ -2471,12 +2471,12 @@ event_dazzlingcupid_03_e:
     ko: 누굴 만나야 할까?
     ja: どうしようか？
   event_dazzlingcupid_03_e_32:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Meet Naga.
     ko: 나가를 만나러 간다.
     ja: ナガに会いに行く
   event_dazzlingcupid_03_e_33:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Meet Tia.
     ko: 티아를 만나러 간다.
     ja: ティアに会いに行く
@@ -2939,12 +2939,12 @@ event_dazzlingcupid_intermission_01:
     ko: 지금 나는 이 화살을,
     ja: 私はこの矢を…
   event_dazzlingcupid_intermission_01_11:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Tia.
     ko: 티아에게 주고 싶다.
     ja: ティアにあげたい
   event_dazzlingcupid_intermission_01_12:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Naga.
     ko: 나가에게 주고 싶다.
     ja: ナガにあげたい
@@ -3693,12 +3693,12 @@ event_dazzlingcupid_04_s:
     ko: 티아와 나가는 나를 올려다보고 있다.
     ja: ティアとナガが私を見上げている
   event_dazzlingcupid_04_s_46:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Head where Naga wants to go.
     ko: 나가가 원하는 방향으로 간다.
     ja: ナガの行きたい方へ行く
   event_dazzlingcupid_04_s_47:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Head where Tia wants to go.
     ko: 티아가 원하는 방향으로 간다.
     ja: ティアの行きたい方へ行く
@@ -3993,12 +3993,12 @@ event_dazzlingcupid_04_s:
     ko: 어떻게 할까?
     ja: どうする？
   event_dazzlingcupid_04_s_99:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Take the drink.
     ko: 음료를 받는다.
     ja: 飲み物を受け取る
   event_dazzlingcupid_04_s_100:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Take the ice cream.
     ko: 아이스크림을 받는다.
     ja: アイスクリームを受け取る
@@ -4380,12 +4380,12 @@ event_dazzlingcupid_04_e:
       これも2人のうちどちらかに、
       渡さねばならないということだろう
   event_dazzlingcupid_04_e_37:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Give the box to Tia.
     ko: 티아에게 상자를 준다.
     ja: ティアに箱をあげる
   event_dazzlingcupid_04_e_38:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Give the box to Naga.
     ko: 나가에게 상자를 준다.
     ja: ナガに箱をあげる
@@ -5275,12 +5275,12 @@ event_dazzlingcupid_05_s:
       だが、どこかに詰まったのか
       悩んでいるように見える
   event_dazzlingcupid_05_s_58:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Go to Naga first.
     ko: 나가에게 먼저 가보자.
     ja: 先にナガの様子を見よう
   event_dazzlingcupid_05_s_59:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Go to Tia first.
     ko: 티아에게 먼저 가보자.
     ja: 先にティアの様子を見よう
@@ -5563,12 +5563,12 @@ event_dazzlingcupid_05_e:
     ko: 혹시 알고 있었어?
     ja: 知ってた？
   event_dazzlingcupid_05_e_8:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Oh, believe me, I knew all about it.
     ko: 당연히 알고 있었지.
     ja: もちろん知っていた
   event_dazzlingcupid_05_e_9:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I didn't know.
     ko: 모르고 있었어.
     ja: 知らなかった
@@ -5638,12 +5638,12 @@ event_dazzlingcupid_05_e:
     ko: 이제 다 같이 먹자!
     ja: さっ、一緒に食べよ！
   event_dazzlingcupid_05_e_22:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Can we finally eat?
     ko: 드디어 먹을 수 있는 거야?
     ja: やっと食べられるのか？
   event_dazzlingcupid_05_e_23:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Thank goodness.
     ko: 잘 먹겠습니다.
     ja: いただきます
@@ -5842,14 +5842,14 @@ event_dazzlingcupid_05_e:
     ko: 고마워.
     ja: ありがとぉ。
   event_dazzlingcupid_05_e_59:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You seem to know Tia inside and out, Naga.
     ko: 나가는 정말 티아에 대해 모르는 게 없네.
     ja: |-
       ナガは本当にティアについて
       何でも知っているな
   event_dazzlingcupid_05_e_60:
-    speaker: "<Choice>"
+    speaker: Choice
     en: You certainly are passionate about desserts, Tia.
     ko: 티아는 디저트에 엄청 진심이네.
     ja: ティアはスイーツのことには本気なんだな
@@ -6320,12 +6320,12 @@ event_dazzlingcupid_06_e:
     ko: 내가 이 화살을 건네줄 사람은.
     ja: 私がこの矢を渡すのは…
   event_dazzlingcupid_06_e_3:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Naga.
     ko: 나가.
     ja: ナガ
   event_dazzlingcupid_06_e_4:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Tia.
     ko: 티아.
     ja: ティア

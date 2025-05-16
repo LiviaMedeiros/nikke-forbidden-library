@@ -71,11 +71,14 @@ character_shot_description_localkey_ar_down:
     <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_07}% ▲] [지속]</color>
   ja: |-
     ■通常攻撃が{description_value_01}回命中した時、コアでなければ自分に
-    <color=#00AEFF>「経験値：攻撃力{description_value_02}％▲」「{description_value_03}スタック」「持続」</color>
+    <color=#00AEFF>「経験値：攻撃力{description_value_02}％▲」
+    「{description_value_03}スタック」「持続」</color>
     ■コアに{description_value_04}回命中した時、自分に
-    <color=#00AEFF>「経験値：攻撃力{description_value_05}％▲」「{description_value_06}スタック」「持続」</color>
+    <color=#00AEFF>「経験値：攻撃力{description_value_05}％▲」
+    「{description_value_06}スタック」「持続」</color>
     ■自分の勇者レベルが2以上の時のみ自分に
-    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_07}％▲」「持続」</color>
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_07}％▲」
+    「持続」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -105,10 +108,14 @@ skill_name_1003:
     ■経験値{description_value_01}スタックごとに自分に
     <color=#00AEFF>「勇者レベルアップ：最大11レベルまで成長」
     「勇者レベルアップ効果：弾丸チャージ{description_value_02}％」
-    「勇者レベルアップ効果：スキル発動者の<word_group=10025>最終</word_group>最大HPに比例して{description_value_03}％回復」</color>
-    ■勇者レベルアップ時、水冷コードの味方全体に
-    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_04}％X勇者レベル数分▲」「持続」
-    「スキル発動者基準で攻撃力{description_value_05}％X勇者レベル数分▲」「持続」</color>
+    「勇者レベルアップ効果：スキル発動者の
+    <word_group=10025>最終</word_group>最大HPに比例して{description_value_03}％回復」</color>
+    ■勇者レベルアップ時、
+    水冷コードの味方全体に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_04}％X
+    勇者レベル数分▲」「持続」
+    「スキル発動者基準で攻撃力{description_value_05}％X
+    勇者レベル数分▲」「持続」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1
@@ -133,9 +140,11 @@ skill_name_1002:
   ja: |-
     ■水冷コードの味方全体に
     <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
-    「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
     ■<word_group=10025>最終</word_group>最大HPが最も高い敵{description_value_05}機に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％×勇者レベル数分の持続ダメージ」「1秒間隔」「{description_value_07}秒間維持」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％×勇者レベル数分の
+    持続ダメージ」「1秒間隔」「{description_value_07}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

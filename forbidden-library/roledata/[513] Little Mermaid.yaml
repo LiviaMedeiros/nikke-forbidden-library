@@ -81,7 +81,8 @@ character_shot_description_localkey_smg_down:
     <color=#00AEFF>[거품 난사 : <word_group=10025>최종</word_group> 공격력 {description_value_08}% 대미지] [{description_value_09}회 <word_group=10050>순차 공격</word_group>] </color>
   ja: |-
     ■敵が登場した時に、対象に
-    <color=#00AEFF>「バブル：受けるダメージ{description_value_01}％▲」「持続」</color>
+    <color=#00AEFF>「バブル：受けるダメージ{description_value_01}％▲」
+    「持続」</color>
     ■通常攻撃が{description_value_02}回命中した時、
     対象がバブル状態なら、対象に
     <color=#00AEFF>「バブルバースト：受けるダメージ
@@ -123,11 +124,14 @@ skill_name_1003:
     ■ <word_group=10078>아군이 소비한 탄의 총합</word_group>이 {description_value_04}발이 될 때 마다 아군 전체에게
     <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_05}%] </color>
   ja: |-
-    ■自分が<word_group=10080>フォーカス</word_group>状態の時に限り、味方全体に
+    ■自分が<word_group=10080>フォーカス</word_group>状態の時に限り、
+    味方全体に
     <color=#00AEFF>「<word_group=10079>射撃集中</word_group>」「持続」</color>
-    ■フルバーストタイムが終了した時、味方全体に
+    ■フルバーストタイムが終了した時、
+    味方全体に
     <color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group> {description_value_01}秒▼」</color>
-    ■フルバーストタイムが発動した時、味方全体に
+    ■フルバーストタイムが発動した時、
+    味方全体に
     <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
     ■<word_group=10078>味方が消費した弾の合計</word_group>が{description_value_04}発ごとに、味方全体に
     <color=#00AEFF>「<word_group=10015>バーストゲージのチャージ</word_group> {description_value_05}％」</color>

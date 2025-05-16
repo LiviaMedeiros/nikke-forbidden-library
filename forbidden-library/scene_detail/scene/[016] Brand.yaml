@@ -328,12 +328,12 @@ d_main_16_02:
     ko: 죄다 테러리스트로 싸잡아 부르는 건 강자의 논리지.
     ja: 一括りにテロリストと呼ぶのは強者の論理だな。
   d_main_16_02_23:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I don't care how you spin it, terrorism is wrong.
     ko: 테러리즘은 어떤 이유에서든 옳지 않아.
     ja: テロリズムはどんな理由であれ正当化できない
   d_main_16_02_24:
-    speaker: "<Choice>"
+    speaker: Choice
     en: "..."
     ko: "……."
     ja: "……"
@@ -530,12 +530,12 @@ d_main_16_03:
       中央政府が「ニケ人権運動家」を
       どんな目で見るか、分かってるよね？
   d_main_16_03_22:
-    speaker: "<Choice>"
+    speaker: Choice
     en: They consider them guilty of sedition.
     ko: 반정부주의자.
     ja: 反政府主義者
   d_main_16_03_23:
-    speaker: "<Choice>"
+    speaker: Choice
     en: They consider them terrorists.
     ko: 테러리스트.
     ja: テロリスト
@@ -1100,12 +1100,12 @@ d_main_16_05_e:
       ニケの後ろに隠れて守られること以外、
       一体何ができる？
   d_main_16_05_e_19:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I look after their mental health...
     ko: 니케들의 멘탈 케어를…….
     ja: ニケたちのメンタルケアを…
   d_main_16_05_e_20:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I command and operate the troops...
     ko: 부대의 지휘와 운영을…….
     ja: 部隊の指揮と運営を…
@@ -1414,12 +1414,12 @@ d_main_16_07:
     ko: 나랑 같이 보자~♡
     ja: 一緒に見ようよ～♡
   d_main_16_07_12:
-    speaker: "<Choice>"
+    speaker: Choice
     en: "..."
     ko: "……."
     ja: "……"
   d_main_16_07_13:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I turn off the phone screen.
     ko: 핸드폰 화면을 끈다.
     ja: 携帯の画面を消した
@@ -1524,12 +1524,12 @@ d_main_16_07:
       スノーホワイトは私たちの事、
       気に入ってくれるかな？
   d_main_16_07_31:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I'm not sure.
     ko: 그건 모르지.
     ja: それは分からない
   d_main_16_07_32:
-    speaker: "<Choice>"
+    speaker: Choice
     en: I think so.
     ko: 아마도 그렇지 않을까?
     ja: たぶんな
@@ -1879,12 +1879,12 @@ d_main_16_09_e:
       これは疑う余地もなく、
       スノーホワイトのキャンプね。
   d_main_16_09_e_7:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Look on top of the table.
     ko: 테이블 위를 살핀다.
     ja: テーブルの上を調べる
   d_main_16_09_e_8:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Look on top of the bed.
     ko: 침대 위를 살핀다.
     ja: ベッドの上を調べる
@@ -2048,12 +2048,12 @@ d_main_16_09_e:
     ko: 죽여 봐. 할 수 있으면.
     ja: やってみたら？できるものならね。
   d_main_16_09_e_36:
-    speaker: "<Choice>"
+    speaker: Choice
     en: "..."
     ko: "……."
     ja: "……"
   d_main_16_09_e_37:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Let's trust Exotic.
     ko: 이그조틱을 믿어 보자.
     ja: エキゾチックを信じてみよう
@@ -2318,12 +2318,12 @@ d_main_16_10:
     ko: "…지휘관은 NIMPH에 대해 알고 있었나?"
     ja: "…お前はNIMPHについて知ってたのか？"
   d_main_16_10_13:
-    speaker: "<Choice>"
+    speaker: Choice
     en: It's confidential so I can't talk about it.
     ko: 기밀이라 발설할 수 없어.
     ja: 機密事項だ。言えない
   d_main_16_10_14:
-    speaker: "<Choice>"
+    speaker: Choice
     en: No, I don't.
     ko: "…몰라."
     ja: "…さあ"
@@ -2398,12 +2398,12 @@ d_main_16_10:
     ko: 어때. 꽤 흥미로운 얘기지?
     ja: "…どうだ、結構興味深い話だろう？"
   d_main_16_10_26:
-    speaker: "<Choice>"
+    speaker: Choice
     en: It's a sad story.
     ko: 슬픈 이야기네.
     ja: 悲しい話だ
   d_main_16_10_27:
-    speaker: "<Choice>"
+    speaker: Choice
     en: Makes me embarrassed to be human.
     ko: 부끄러운 이야기야.
     ja: 恥ずかしい話だ
@@ -2624,12 +2624,12 @@ d_main_16_11:
     ko: 앞으로 어떻게 움직일 거라고 보지?
     ja: 今後どう動くと思う？
   d_main_16_11_21:
-    speaker: "<Choice>"
+    speaker: Choice
     en: They won't be much different from how they are now.
     ko: 지금과 크게 다르지 않을 거야.
     ja: 今と大して変わらないだろう
   d_main_16_11_22:
-    speaker: "<Choice>"
+    speaker: Choice
     en: They will resist, and fight for a better life.
     ko: 보다 나은 삶을 위해 저항할지도.
     ja: よりよい人生のために抵抗するかもしれない
@@ -4332,7 +4332,7 @@ d_main_16af_03:
       理想のユートピアを最後まで追い求めて、
   d_main_16af_03_48:
     speaker: crow
-    en: Killing them in their greatest moment of despair... that would be sublime.
+    en: Killing them in their greatest moment of despair...that would be sublime.
     ko: 가장 아쉬운 순간에 죽어 주는 게 가장 잘 어울려.
     ja: |-
       最も近づいた瞬間に

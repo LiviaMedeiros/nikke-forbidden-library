@@ -78,7 +78,8 @@ character_shot_description_localkey_ar_down:
     <color=#00AEFF>[매터 시그마 : <word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_01}% ▲] [지속]</color>
   ja: |-
     ■戦闘開始時、自分に
-    <color=#00AEFF>「マターシグマ：<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_01}％▲」「持続」</color>
+    <color=#00AEFF>「マターシグマ：<word_group=10014>バーストゲージのチャージ速度</word_group>
+    {description_value_01}％▲」「持続」</color>
     ■フルバーストタイムが発動した時、自分がマターシグマ状態なら自分に
     <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」
     「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」
@@ -122,7 +123,10 @@ skill_name_1003:
     自分がマターガンマ状態なら味方全体に
     <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
     {description_value_02}％回復」</color>
-    ■味方が戦闘不能時、自分がマターガンマ状態なら自分を除く戦闘不能状態の<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_03}機に
+    ■味方が戦闘不能時、自分が
+    マターガンマ状態なら
+    自分を除く戦闘不能状態の
+    <word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_03}機に
     <color=#00AEFF>「HP{description_value_04}％で復活」</color>
     ■味方が戦闘不能時、自分に
     <color=#00AEFF>「マターガンマ解除」</color>

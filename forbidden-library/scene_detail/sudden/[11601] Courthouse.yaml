@@ -3933,3 +3933,432 @@ d_ex_court_07:
     ja: |-
       その日、私のオムライスには
       ケチャップがかかっていた
+d_ex_court_08:
+  d_ex_court_08_1:
+    speaker: "<Self>"
+    en: Huh?
+    ko: "…응?"
+    ja: "…ん？"
+  d_ex_court_08_2:
+    speaker: "<Monologue>"
+    en: While passing by the Courthouse, I spot an unlikely pair standing together.
+    ko: 법원 앞을 지나다가, 어울리지 않는 두 사람이 같이 있는 것을 발견했다.
+    ja: |-
+      裁判所の前を通ると、
+      意外な組み合わせの2人を発見した
+  d_ex_court_08_3:
+    speaker: yulha
+    en: "*Sigh*..."
+    ko: 하….
+    ja: はぁ…
+  d_ex_court_08_4:
+    speaker: arcana
+    en: Can I ask you one more thing?
+    ko: 하나만 더 여쭤볼게요.
+    ja: もう一つだけ！
+  d_ex_court_08_5:
+    speaker: arcana
+    en: When you're working, what kind of mindset do you have?
+    ko: 일하실 때, 어떤 마인드로 하세요?
+    ja: |-
+      お仕事の時は、
+      どんなマインドでお仕事されてます？
+  d_ex_court_08_6:
+    speaker: arcana
+    en: Do you do it because you have to?
+    ko: 그러니까 어쩔 수 없이, 해야 하는 일이니까 한다거나.
+    ja: すべきことだから仕方なく、ですか？
+  d_ex_court_08_7:
+    speaker: arcana
+    en: Or is it more like, "This is my duty, and I’m the only one who can do it!"
+    ko: |-
+      아니면 이건 내가 해야만 하는 일이다!
+      이런 사명감을 가지고 한다거나 그런 관점으로요.
+    ja: |-
+      それとも、これは私がすべき仕事だ！
+      っていう使命感を持ってるとか！？
+  d_ex_court_08_8:
+    speaker: "<Self>"
+    en: What are you two up to?
+    ko: "…뭐 해?"
+    ja: "…何をしているんだ？"
+  d_ex_court_08_9:
+    speaker: arcana
+    en: Oh, hey, @UserName.
+    ko: 아, 안녕하세요~
+    ja: あ、こんにちは～
+  d_ex_court_08_10:
+    speaker: arcana
+    en: I wanted to learn a few things from a cutthroat businesswoman,
+    ko: 저 완전 냉정냉혹하고 프로페셔널한 분을 만나서.
+    ja: |-
+      クールでスマートで
+      プロフェッショナルな方にお会いしたので！
+  d_ex_court_08_11:
+    speaker: arcana
+    en: so I was chatting Yulha up.
+    ko: 본받고 싶어서 이것저것 여쭤보고 있었어요.
+    ja: お手本にしたくて、色々質問してました。
+  d_ex_court_08_12:
+    speaker: "<Self>"
+    en: I see.
+    ko: 그, 그렇구나….
+    ja: そ、そうか…
+  d_ex_court_08_13:
+    speaker: yulha
+    en: Newbie. She’s your responsibility.
+    ko: "…신입. 얘 네 담당이지."
+    ja: "…新人。あなたの担当でしょ？"
+  d_ex_court_08_14:
+    speaker: yulha
+    en: Take her with you.
+    ko: 빨리 데려가.
+    ja: 早く連れていって。
+  d_ex_court_08_15:
+    speaker: "<Self>"
+    en: Understood.
+    ko: "…응. 알았어."
+    ja: "…ああ、分かった"
+  d_ex_court_08_16:
+    speaker: "<Self>"
+    en: What are you doing in front of the Courthouse anyway, Yulha?
+    ko: 그런데 율하는 법원 앞에서 뭐 하고 있었어?
+    ja: ところで、裁判所の前で何をしていたんだ？
+  d_ex_court_08_17:
+    speaker: yulha
+    en: I was waiting for Privaty. It’s work-related.
+    ko: 일 때문에 프리바티를 기다리는 중이다.
+    ja: 仕事の関係でプリバティを待ってるの。
+  d_ex_court_08_18:
+    speaker: yulha
+    en: "... Tch. Late again."
+    ko: "…쯧. 또 늦는군."
+    ja: "…チッ。また遅刻。"
+  d_ex_court_08_19:
+    speaker: privaty_m
+    en: Yulha!
+    ko: 율하!
+    ja: ユルハ！
+  d_ex_court_08_20:
+    speaker: privaty_m
+    en: Sorry that I'm late! I was cleaning up at the cafe, and...
+    ko: 늦어서 미안해요. 카페 뒷정리하느라….
+    ja: |-
+      遅くなってごめんなさい。
+      カフェの後片付けがあって…
+  d_ex_court_08_21:
+    speaker: privaty_m
+    en: Mast... I mean, Commander?
+    ko: 주인… 아니, 지휘관?!
+    ja: ご主人…いや、指揮官！？
+  d_ex_court_08_22:
+    speaker: "<Self>"
+    en: Hello.
+    ko: 안녕.
+    ja: やあ
+  d_ex_court_08_23:
+    speaker: privaty_m
+    en: Oh, um, hello.
+    ko: 아, 네. 안녕하세요.
+    ja: こ、こんにちは。
+  d_ex_court_08_24:
+    speaker: privaty_m
+    en: Sorry, but I can't talk. There's something urgent I have to discuss with Yulha.
+    ko: 저… 급한 일이라 율하랑 얘기부터 좀 할게요.
+    ja: あの…先にユルハと仕事の話をしてきますね。
+  d_ex_court_08_25:
+    speaker: "<Choice>"
+    en: No problem. Take your time.
+    ko: 응. 신경 쓰지 마.
+    ja: ああ、気にしないでくれ
+  d_ex_court_08_26:
+    speaker: "<Choice>"
+    en: Be sure to save some of those magic spells for later!
+    ko: 응. 맛있어지는 주문은 나중에 해줘.
+    ja: ああ、おいしくなる呪文はあとで頼む
+  d_ex_court_08_27:
+    speaker: privaty_m
+    en: Thanks for understanding!
+    ko: 네. 고마워요.
+    ja: はい。ありがとうございます。
+  d_ex_court_08_28:
+    speaker: privaty_m
+    en: Huh?
+    ko: 그게 뭐예요!
+    ja: な、何言ってるんですか！
+  d_ex_court_08_29:
+    speaker: "<Monologue>"
+    en: Yulha and Privaty step aside and start having what seems to be a serious conversation.
+    ko: 율하와 프리바티는 몇 걸음 떨어져서 심각하게 이야기를 나누기 시작했다.
+    ja: |-
+      ユルハとプリバティは少し離れたところで
+      真面目に話し始めた
+  d_ex_court_08_30:
+    speaker: arcana
+    en: Hey, hey.
+    ko: 저기요저기요.
+    ja: あのあの。
+  d_ex_court_08_31:
+    speaker: arcana
+    en: Who's that lady who just arrived?
+    ko: 방금 오신 저분은 누구세요?
+    ja: 今いらっしゃったのは、どなたですか？
+  d_ex_court_08_32:
+    speaker: arcana
+    en: I heard Yulha's someone super duper important, but...
+    ko: 율하 님은 그, 엄청 높으신 분이라고 들었는데.
+    ja: |-
+      ユルハ様は、その、偉い方だって
+      聞きましたけど。
+  d_ex_court_08_33:
+    speaker: arcana
+    en: Yulha said it was about work... I wonder what it's about specifically?
+    ko: 그분이랑 저렇게 일 얘기… 일 얘기 맞겠죠 지금?
+    ja: |-
+      その方とあんなふうに仕事のお話を…
+      仕事のお話ですよね？
+  d_ex_court_08_34:
+    speaker: arcana
+    en: They were talking like equals. Does that mean...?
+    ko: 어쨌든 대등하게 이야기를 할 정도면…?
+    ja: とにかく、対等にお話されてるってことは…？
+  d_ex_court_08_35:
+    speaker: "<Self>"
+    en: Well...
+    ko: 음….
+    ja: ええと…
+  d_ex_court_08_36:
+    speaker: "<Choice>"
+    en: She’s a judge, like Yulha.
+    ko: 율하랑 같은 판사야.
+    ja: ユルハと同じ判事だ
+  d_ex_court_08_37:
+    speaker: "<Choice>"
+    en: She's a maid who helps out in the courthouse.
+    ko: "…법원을 전담하는 프로 메이드야."
+    ja: "…裁判所担当のプロメイドだ"
+  d_ex_court_08_38:
+    speaker: arcana
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_court_08_39:
+    speaker: "<Monologue>"
+    en: Arcana blinks slowly, attempting to process what she's just been told.
+    ko: "…아르카나는 눈을 깜빡이며 현실을 받아들이려 하는 것 같다."
+    ja: |-
+      …アルカナは目をぱちくりさせながら、
+      現実を受け入れようとしているようだ
+  d_ex_court_08_40:
+    speaker: arcana
+    en: Uh...
+    ko: 어, 그….
+    ja: あの、えっと…
+  d_ex_court_08_41:
+    speaker: arcana
+    en: Then how come she's wearing a maid outfit?
+    ko: "…메이드복을 입고 계신데요?"
+    ja: "…メイドさんの服ですよね？"
+  d_ex_court_08_42:
+    speaker: "<Self>"
+    en: She’s a maid-judge.
+    ko: "…메이드 판사거든."
+    ja: "…メイド判事なんだ"
+  d_ex_court_08_43:
+    speaker: arcana
+    en: "... A maid-judge?"
+    ko: 메이드 판사요?
+    ja: メイド判事？
+  d_ex_court_08_44:
+    speaker: "<Self>"
+    en: Yeah. She does both jobs.
+    ko: 응. 메이드 일도 같이하고 있어.
+    ja: ああ、メイドの仕事も掛け持ちしている
+  d_ex_court_08_45:
+    speaker: "<Self>"
+    en: To use your parlance, she's a professional in multiple fields.
+    ko: 두 분야 전부… 아르카나식으로 말하면 프로페셔널 해.
+    ja: |-
+      どちらも…アルカナ式に言うと
+      プロフェッショナルだ
+  d_ex_court_08_46:
+    speaker: arcana
+    en: "!!!"
+    ko: 아… 아아…!
+    ja: あ…ああ…！
+  d_ex_court_08_47:
+    speaker: arcana
+    en: Wow! I guess it makes sense,
+    ko: 우와. 역시 방주 최강의 지휘관이 있는 곳이라 그런지.
+    ja: |-
+      やっぱり、アーク最強の指揮官が
+      いる場所だから…
+  d_ex_court_08_48:
+    speaker: arcana
+    en: what with the strongest commander in the Ark being stationed here.
+    ko: 그런 것까지 있나 보네요?
+    ja: そういうこともあるんですね。
+  d_ex_court_08_49:
+    speaker: "<Self>"
+    en: Wait, hang on...!
+    ko: 어, 잠깐…!
+    ja: あっ、ちょっと待っ…！
+  d_ex_court_08_50:
+    speaker: "<Monologue>"
+    en: Before I can stop her, Arcana has run up to Yulha and Privaty.
+    ko: 말리기도 전에 아르카나는 둘에게 달려갔다.
+    ja: |-
+      私の声は届かず、
+      アルカナは2人の元へ駆け寄った
+  d_ex_court_08_51:
+    speaker: arcana
+    en: Excuse me, sorry to interrupt...
+    ko: 저기 말씀 중에 죄송한데요….
+    ja: あの、お話中のところすみません…
+  d_ex_court_08_52:
+    speaker: privaty_m
+    en: Oh, it’s fine.
+    ko: 아, 네.
+    ja: あ、はい。
+  d_ex_court_08_53:
+    speaker: privaty_m
+    en: We just finished.
+    ko: 괜찮아요. 다 끝났어요.
+    ja: 大丈夫です。もう終わりました。
+  d_ex_court_08_54:
+    speaker: arcana
+    en: Then... would it be okay if I asked you a few questions? Think of it as a
+      mini career interview!
+    ko: |-
+      네. 그러면 몇 가지만 여쭤봐도 될까요?
+      일종의 커리어 인터뷰? 그런 거라고 생각해주시면 돼요.
+    ja: |-
+      じゃあいくつか質問してもいいですか？
+      一種のキャリアインタビュー？
+      みたいな感じだと思ってください。
+  d_ex_court_08_55:
+    speaker: privaty_m
+    en: Sure, I don't mind.
+    ko: 아. 그런 거라면 괜찮습니다.
+    ja: ああ、それなら構いません。
+  d_ex_court_08_56:
+    speaker: privaty_m
+    en: Ask me anything.
+    ko: 얼마든지 대답해 드리죠.
+    ja: いくらでもお答えしましょう。
+  d_ex_court_08_57:
+    speaker: yulha
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_08_58:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_08_59:
+    speaker: "<Monologue>"
+    en: Yulha and I lock eyes, both of us feeling an impending storm approaching.
+    ko: "…다가오는 파란을 느끼고 율하와 눈이 마주쳤다."
+    ja: |-
+      …この後に訪れるであろう波乱を予感し、
+      ユルハと目を合わせた
+  d_ex_court_08_60:
+    speaker: arcana
+    en: Being a professional maid is a rather unique occupation—what made you interested
+      in that kind of work?
+    ko: 프로페셔널한 메이드라면 흔치 않은데, 왜 그 일을 시작하게 되신 건가요?
+    ja: |-
+      プロフェッショナルなメイドって
+      珍しいと思うんですが、
+      なぜそのお仕事を始めたんですか？
+  d_ex_court_08_61:
+    speaker: privaty_m
+    en: Excuse me?
+    ko: "……예?"
+    ja: "…はい？"
+  d_ex_court_08_62:
+    speaker: arcana
+    en: You're not embarrassed by any of that cutesy stuff you have to do?
+    ko: 막 그런 것도 하나도 안 부끄러워하고 하시는 거죠? 몽글몽글 그거요.
+    ja: |-
+      ふわふわ…みたいなのも
+      照れずにできるんですよね？
+  d_ex_court_08_63:
+    speaker: privaty_m
+    en: "...!"
+    ko: "……!!!"
+    ja: "……！！！"
+  d_ex_court_08_64:
+    speaker: arcana
+    en: I don't think I could even do that for someone I like. I admire your professionalism!
+    ko: |-
+      와… 저는 좋아하는 사람한테 해주려고 해도 못 할 것 같은데.
+      프로의식이 정말 대단하신 것 같아요.
+    ja: |-
+      わあ…私なら好きな人相手でもムリです～
+      素晴らしいプロ意識ですね。
+  d_ex_court_08_65:
+    speaker: privaty_m
+    en: "?!"
+    ko: "……!?!!"
+    ja: "……！？"
+  d_ex_court_08_66:
+    speaker: yulha
+    en: "*Sigh*..."
+    ko: 하아….
+    ja: はぁ…
+  d_ex_court_08_67:
+    speaker: "<Monologue>"
+    en: Arcana's words, although innocent in intent, nonetheless strike a crippling
+      emotional blow to Privaty.
+    ko: 아르카나의 악의 없는 말에, 프리바티는 끔찍한 대미지를 입고 있다….
+    ja: |-
+      アルカナの悪気のない言葉に、
+      プリバティは大ダメージを受けている…
+  d_ex_court_08_68:
+    speaker: yulha
+    en: Newbie, do you think you can fix this?
+    ko: "…신입. 너 저거 수습할 수 있겠어?"
+    ja: "…新人。あなた、あれをフォローできるの？"
+  d_ex_court_08_69:
+    speaker: yulha
+    en: I think this is above my skill level.
+    ko: 일단 나는 자신 없는데.
+    ja: 私は自信ないけど。
+  d_ex_court_08_70:
+    speaker: "<Self>"
+    en: Me too.
+    ko: 나도 자신 없….
+    ja: 私も自信は…
+  d_ex_court_08_71:
+    speaker: yulha
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_08_72:
+    speaker: "<Self>"
+    en: All right, fine. I'll see what I can do.
+    ko: "…어떻게든 해볼게."
+    ja: "…何とかしよう"
+  d_ex_court_08_73:
+    speaker: "<Monologue>"
+    en: A long while later,
+    ko: 그리고 한동안.
+    ja: それから、しばらくの間…
+  d_ex_court_08_74:
+    speaker: "<Monologue>"
+    en: I finally am able to calm down the enraged Privaty,
+    ko: 분노한 프리바티를 진정시키고,
+    ja: 怒りに震えているプリバティを落ち着かせ
+  d_ex_court_08_75:
+    speaker: "<Monologue>"
+    en: and explain to Arcana that even though she is wearing a maid outfit, Privaty
+      is not a full-time maid.
+    ko: |-
+      프리바티가 메이드복을 입었지만 전문 메이드는 아니라는 사실을
+      아르카나에게 납득시키기 위해 진땀을 빼야 했다….
+    ja: |-
+      プリバティはメイド姿だが、
+      専門のメイドではないという事実を
+      アルカナに納得させるのに一苦労したのだった

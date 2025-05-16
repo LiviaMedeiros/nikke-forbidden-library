@@ -99,7 +99,8 @@ skill_name_1002:
   ja: |-
     ■<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に
     <color=#00AEFF>「最大HP{description_value_02}％▲」「{description_value_03}秒間維持」
-    「クリティカルダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    「クリティカルダメージ{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

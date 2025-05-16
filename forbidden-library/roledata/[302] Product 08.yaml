@@ -67,7 +67,8 @@ skill_name_1003:
     ■ 일반 공격 명중 시 {description_value_04}% 확률로 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
   ja: |-
-    ■通常攻撃が命中した時、{description_value_04}％の確率で残りのHPの数値が最も低い味方{description_value_01}機に
+    ■通常攻撃が命中した時、{description_value_04}％の確率で
+    残りのHPの数値が最も低い味方{description_value_01}機に
     <color=#00AEFF>「防御力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
 skill_name_1002:
   en: Skill 1

@@ -92,7 +92,8 @@ skill_name_1003:
     2회 : [크리티컬 대미지 {description_value_06}% ▲] [{description_value_07}초 유지]
     3회 : [공격력 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
   ja: |-
-    ■フルバーストタイムが発動した時、味方全体に
+    ■フルバーストタイムが発動した時、
+    味方全体に
     <color=#00AEFF>「開始回数別の効果」
     「<word_group=10028>下位効果のスタック適用</word_group>」：
     1回：
@@ -105,7 +106,8 @@ skill_name_1003:
     <color=#00AEFF>「使用回数別の効果」
     「<word_group=10028>下位効果のスタック適用</word_group>」：
     1回：「最大装弾数{description_value_04}％▲」「{description_value_05}秒間維持」
-    2回：「クリティカルダメージ{description_value_06}％▲」「{description_value_07}秒間維持」
+    2回：「クリティカルダメージ{description_value_06}％▲」
+    「{description_value_07}秒間維持」
     3回：「攻撃力{description_value_08}％▲」「{description_value_09}秒間維持」</color>
 skill_name_1002:
   en: Skill 1

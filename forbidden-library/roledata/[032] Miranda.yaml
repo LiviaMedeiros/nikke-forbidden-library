@@ -57,7 +57,8 @@ character_shot_description_localkey_smg_down:
     ■ 풀 버스트 타임 시작 시 아군 전체에게
     <color=#00AEFF>[크리티컬 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
   ja: |-
-    ■フルバーストタイムが発動した時、味方全体に
+    ■フルバーストタイムが発動した時、
+    味方全体に
     <color=#00AEFF>「クリティカルダメージ{description_value_01}％▲」
     「{description_value_02}秒間維持」</color>
 skill_name_1003:
@@ -82,7 +83,8 @@ skill_name_1003:
   ja: |-
     ■通常攻撃が{description_value_01}回命中した時、味方全体に
     <color=#00AEFF>「命中率{description_value_02}％▲」「{description_value_03}秒間維持」</color>
-    ■通常攻撃が{description_value_04}回命中した時、サブマシンガンを所持する味方全体に
+    ■通常攻撃が{description_value_04}回命中した時、
+    サブマシンガンを所持する味方全体に
     <color=#00AEFF>「命中率{description_value_05}％▲」「{description_value_06}秒間維持」</color>
 skill_name_1002:
   en: Skill 1
@@ -104,7 +106,8 @@ skill_name_1002:
   ja: |-
     ■自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_01}機に（対象が足りない場合、自分も対象となる）
     <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」
-    「クリティカルダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    「クリティカルダメージ{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬
