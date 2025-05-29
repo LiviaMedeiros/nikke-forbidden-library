@@ -17,11 +17,11 @@ L = -> { it.each_with_object({}) { |(_, co), coo| co.each { |cooooo, coooo| (coo
 pt = -> { A[it, E[P[R[it], &U].select { _2[':'] }, Z[it]]] }
 
 pr = -> {
- R["character/#{M[1]}/nikke_list"].map { _1['resource_id'] }.uniq.each { |coo|
-  Z[-> { "roledata/#{coo}-#{it}" }].then {
+ R["character/#{M[1]}/nikke_list_v2"].map { _1['resource_id'] }.uniq.each { |coo|
+  Z[-> { "roledata/#{coo}-v2-#{it}" }].then {
    A[
     "roledata/[#{'%03d' % coo}] #{it[M[0]]['name_localkey'].first}",
-    E[P[R["roledata/#{coo}"], &U].select { _2[':'] }, it]
+    E[P[R["roledata/#{coo}-v2"], &U].select { _2[':'] }, it]
    ]
   }
  }
@@ -56,10 +56,10 @@ pd = -> doro, eden {
 }
 
 pa = -> {
- R["character/#{M[1]}/nikke_list"].map { it['resource_id'] }.uniq.each {
+ R["character/#{M[1]}/nikke_list_v2"].map { it['resource_id'] }.uniq.each {
   A[
-   "attractscene/[#{'%03d' % it}] #{R["roledata/#{it}-#{M[0]}"]['name_localkey']}",
-   R["roledata/#{it}"]['attractive_scenario_list'].map { it['attractive_scenario_group_id'] }.to_h { |coo|
+   "attractscene/[#{'%03d' % it}] #{R["roledata/#{it}-v2-#{M[0]}"]['name_localkey']}",
+   R["roledata/#{it}-v2"]['attractive_scenario_list'].map { it['attractive_scenario_group_id'] }.to_h { |coo|
     [coo, L[M.to_h { |cooo|
      [cooo, (R["attractscene/#{coo}-#{cooo}"]['records'] || []).to_h {
       [it['id'], { 'speaker' => it['speaker'] || "<#{it['speech_window']}>", cooo => it['scenario_localkey'] }]
@@ -86,8 +86,19 @@ sg = -> {
  end
 }
 
+pe = -> doro, eden {
+ R["equip/#{eden}"].map { it['id'] }.each_with_object({}) { |coo, cooo|
+  M.each { |coooo|
+   P[R["equip/#{coooo}/#{doro}_#{coo}"], &N].each {
+    (cooo[coo] ||= {}) && (cooo[coo][_1.sub('_localkey', '')] ||= {})[coooo] = _2
+   }
+  }
+ }.then { A["equip/#{doro}", it] }
+}
+
 %w[equip/EquipmentOptionTable equip/ItemEquipTable].each(&pt)
 pr[]
 %W[scene/#{M[1]}/scene_list scene/#{M[1]}/sudden_list archive/#{M[1]}/archive_list].each(&ps)
 %w[scene sudden archive].map { [it, sg[it]] }.each { pd[*it] }
 pa[]
+{ cube: :cube_level_map, favorite: :favoriteitem_level_map }.each { pe[_1, _2] }
