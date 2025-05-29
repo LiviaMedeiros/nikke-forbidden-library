@@ -1,0 +1,495 @@
+---
+41_name:
+  en: K
+  ko: K
+  ja: K
+c041_description:
+  en: |-
+    A member of Perilous Siege.
+    Unlike Captain D, she possesses a gentler sense of justice.
+    She won't kill—even a villain—if they have done enough good to atone for their actions.
+  ko: |-
+    시지 패러리스 스쿼드 소속 니케.
+    리더인 D와 달리, 악인이라도 그에 준하는 선행을 했다면
+    제거하지 않는 유연한 정의관을 가졌다.
+  ja: |-
+    シージペリラス部隊所属のニケ
+    リーダーのDとは異なり、たとえ悪人であっても
+    相応の善行を行った者は排除しないという
+    柔軟な正義感を持っている。
+41_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_41:
+  en: K's Spare Body
+  ko: K 스페어 바디
+  ja: Kのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20412_name:
+  en: Execution of Righteousness
+  ko: 정의 집행
+  ja: 正義の執行
+20412_description:
+  en: |-
+    ■ Activates when gaining Tilted Scale. Affects all allies.
+    <color=#00AEFF>Fulfillment of Righteousness
+    Function: Reduces max ammunition capacity but increases attack damage.
+    Effect 1: Max ammunition capacity ▼ {description_value_01}% for {description_value_02} sec. (<word_group=10081>Similar effects cannot be stacked.</word_group>)
+    Effect 2: Attack damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when Full Burst ends. Affects all allies.
+    <color=#00AEFF>Removes Fulfillment of Righteousness.</color>
+  ko: |-
+    ■ 기울어지는 천칭 적용 시 아군 전체에게
+    <color=#00AEFF>[정의 실현]
+    기능 : 최대 장탄 수가 감소하는 대신 공격 대미지 증가
+    효과 1 : [최대 장탄 수 {description_value_01}% ▼] [{description_value_02}초 유지] (<word_group=10081>동일 효과 중복 불가</word_group>)
+    효과 2 : [공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 풀 버스트 타임 종료 시 아군 전체에게
+    <color=#00AEFF>[정의 실현 제거]</color>
+  ja: |-
+    ■傾く天秤が付与された時、味方全体に
+    <color=#00AEFF>「正義の実現」
+    機能：最大装弾数の減少と引き換えに
+    攻撃ダメージ増加
+    効果1：「最大装弾数{description_value_01}％▼」
+    「{description_value_02}秒間維持」（<word_group=10081>同一効果は重複不可</word_group>）
+    効果2：「攻撃ダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+    ■フルバーストタイムが終了した時、
+    味方全体に
+    <color=#00AEFF>「正義の実現解除」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20411_name:
+  en: Scale of Righteousness
+  ko: 정의의 천칭
+  ja: 正義の天秤
+20411_description:
+  en: |-
+    ■ Activates when firing the last bullet. Affects self.
+    <color=#00AEFF>Tilted Scale: Critical rate ▲ {description_value_01}% continuously, stacks up to {description_value_02} time(s).
+    Stack count of Tilted Scale ▲ {description_value_03}.</color>
+    ■ Activates when <word_group=10083>pellets land critical hit</word_group> {description_value_04} time(s). Affects the target.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+    ■ Activates when Full Burst ends. Affects self.
+    <color=#00AEFF>Removes Tilted Scale.</color>
+  ko: |-
+    ■ 마지막 탄환 공격 시 자신에게
+    <color=#00AEFF>[기울어지는 천칭 : 크리티컬 확률 {description_value_01}% ▲] [{description_value_02} 중첩] [지속]
+    [기울어지는 천칭 중첩량 {description_value_03}개 ▲]</color>
+    ■ <word_group=10083>펠릿이 크리티컬</word_group> {description_value_04}회 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 추가 대미지]</color>
+    ■ 풀 버스트 타임 종료 시 자신에게
+    <color=#00AEFF>[기울어지는 천칭 제거]</color>
+  ja: |-
+    ■最後の弾丸で攻撃した時、自分に
+    <color=#00AEFF>「傾く天秤：クリティカル確率{description_value_01}％▲」
+    「{description_value_02}スタック」「持続」
+    「傾く天秤のスタック量{description_value_03}個▲」</color>
+    ■<word_group=10083>ペレットごとのクリティカル攻撃</word_group>が
+    {description_value_04}回命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の追加ダメージ」</color>
+    ■フルバーストタイムが終了した時、自分に
+    <color=#00AEFF>「傾く天秤解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10413_name:
+  en: Means of Righteousness
+  ko: 정의로운 수단
+  ja: 正義への手段
+10413_description:
+  en: "■ Affects self.\n<color=#00AEFF>Changes the weapon in use:\nDamage: {description_value_01}%
+    of the <word_group=10025>final</word_group> ATK\n<word_group=10038>Pellet</word_group>count:
+    10\nAttack speed: ▼ 90% \nDuration: {description_value_02} sec\nAdditional effects\nATK
+    ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.\nAttack
+    damage ▲ {description_value_05}% for {description_value_06} sec.</color>"
+  ko: "■ 자신에게\n<color=#00AEFF>[사용 무기 변경] : \n대미지 : <word_group=10025>최종</word_group>
+    공격력 {description_value_01}% 대미지\n<word_group=10038>펠릿</word_group> 개수 : 10개\n공격
+    속도 : 90% ▼\n유지시간 : {description_value_02}초\n추가 효과\n[시전자 기준 공격력 {description_value_03}%
+    ▲] [{description_value_04}초 유지]\n[공격 대미지 {description_value_05}% ▲] [{description_value_06}초
+    유지]</color>"
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器変更」：
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+    <word_group=10038>ペレット</word_group>数：10個
+    攻撃速度：90％▼
+    持続時間：{description_value_02}秒
+    追加効果
+    「スキル発動者基準で攻撃力{description_value_03}％▲」
+    「{description_value_04}秒間維持」
+    「攻撃ダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+40_name:
+  en: D
+  ko: D
+  ja: D
+43_name:
+  en: 'D: Killer Wife'
+  ko: 'D : 킬러 와이프'
+  ja: D：キラーワイフ
+c041_Lobby_Touch_1:
+  en: Why do you keep bothering me? Got a death wish or something?!
+  ko: 왜 자꾸 건드는데! 죽고 싶어?!
+  ja: 触んなよ！命が惜しくないのか！？
+c041_Lobby_Touch_2:
+  en: Do I look like a pushover to you?! Huh?!
+  ko: 내가 만만한가 보지? 엉?!
+  ja: 私を甘くみてんだろ？なぁ？
+c041_Lobby_Touch_3:
+  en: Argh, so irritating!
+  ko: 으으으으으…! 짜증 나!
+  ja: うううう…！腹立つ！
+c041_Lobby_Touch_Love_1:
+  en: Tch... I'm only putting up with this because it's you. Got it?
+  ko: 크으… 너니까 참아주는 거야. 알겠어?
+  ja: ちっ…お前だから我慢するんだ。分かったか？
+c041_Lobby_Touch_Love_2:
+  en: If you've got something to say, then spit it out.
+  ko: 할 말 있으면 찌르지만 말고 말로 하지 그래.
+  ja: 話があるなら、突っついてないでさっさと言えよ。
+c041_Lobby_Touch_Love_3:
+  en: |-
+    Everyone else just pisses me off.
+    But with you... it’s like my head clears.
+  ko: "다른 놈들 옆에 있으면 짜증 나는데, \n네 옆은 머리가 맑아지는 것 같아."
+  ja: |-
+    他の奴らと一緒にいるとイライラすっけど、
+    お前の隣は頭がスッキリするんだよな～
+c041_Lobby_Stay_1:
+  en: You call me over here, and now you're doing something else? Hey!
+  ko: 지금 불러놓고 딴짓하러 간 거야? 야!
+  ja: 呼びつけておいて、出かけたのか？おーい！
+c041_Lobby_Stay_Love_1:
+  en: You've got some nerve to call me here and then run off to do something else.
+  ko: 날 불러놓고 딴짓이라… 배짱 좋은데?
+  ja: ヒトを呼んでおいて出かけるとは…いい度胸してんね～？
+c041_Outpost_Touch_1:
+  en: If you wanna rest, just go to the hotel.
+  ko: 쉬고 싶으면 호텔로 가보던가.
+  ja: 休みたいならホテルに行けば？
+c041_Outpost_Touch_2:
+  en: There aren't any humans here. That's why I like this place. Oh, right, I forgot
+    you're a human.
+  ko: 여기는 인간들이 없어서 좋아. 아, 너도 인간이었지.
+  ja: |-
+    ここは人間がいないからいい。
+    あ、お前も人間だっけ。
+c041_Outpost_Touch_3:
+  en: Is there anyone you'd like to bump off?
+  ko: 암살하고 싶은 놈이라도 있어?
+  ja: 暗殺したい奴でもいるのか？
+c041_Gacha_Get_1:
+  en: I'm in a surly mood. If there's anyone you want offed, feel free to tell me.
+  ko: |-
+    죽이고 싶은 녀석이 있으면 뜸 들이지 말고 말해.
+    짜증 나니까.
+  ja: |-
+    気に入らない奴がいるなら、もったいぶらずに言え。
+    イライラするから。
+c041_Reinforce_1:
+  en: Now I feel like I can cut loose.
+  ko: 이 정도면 편하게 날뛰어도 되겠어.
+  ja: これなら楽に暴れられそうだ。
+c041_Reinforce_2:
+  en: Oh, that's good.
+  ko: 오, 좋은데?
+  ja: お、いいね～？
+c041_Reinforce_3:
+  en: Thanks for the support.
+  ko: 지원 땡큐.
+  ja: ご支援、サンキュー。
+c041_Gift_1:
+  en: Huh? This is for me?
+  ko: 뭐야, 나한테 주는 거야?
+  ja: はっ？これを私に？
+c041_Gift_2:
+  en: There's not a bomb inside or anything, is there?
+  ko: 안에 폭탄이라도 든 거 아냐?
+  ja: 中に爆弾でも入ってんのか？
+c041_Gift_3:
+  en: "... Thank you."
+  ko: 고, 고마워….
+  ja: あ、ありがとな…
+c041_Attractive_Up_1:
+  en: Whenever I see you lately, I get so flustered and... Ugh, I don’t even know!
+    I’m not even acting like myself!
+  ko: 요새 너만 보면 답답하고 막… 아 몰라! 나도 내가 이상해!
+  ja: |-
+    最近、お前を見てるともどかしくて…
+    あー、知るか！変なんだよ！
+c041_Attractive_Up_2:
+  en: If there were more humans like you around, life might be more tolerable.
+  ko: 너 같은 인간들만 있다면 조금은 살만할지도 모르겠어.
+  ja: |-
+    お前みたいな人間ばっかりなら、
+    少しは希望が持てるかもしれないな。
+c041_Attractive_Up_3:
+  en: Wh... Why do you always make people worry about you?!
+  ko: 자, 자꾸 신경 쓰이게 할래?!
+  ja: き、気になっちゃうだろ！
+c041_Party_Deploy_1:
+  en: I briefed myself on the mission earlier.
+  ko: 의뢰 내용 확인했어.
+  ja: 依頼を確認した。
+c041_Field_Touch_1:
+  en: Why the hell?
+  ko: 왜.
+  ja: 何だ？
+c041_Field_Go_1:
+  en: I'm going.
+  ko: 간다 가.
+  ja: 行くって。
+c041_Battle_Enter_1:
+  en: Target sighted!
+  ko: 타깃 발견!
+  ja: ターゲット発見！
+c041_Battle_Ready_1:
+  en: I'll kill you all!
+  ko: 다 죽여주마!
+  ja: 一掃してやる！
+c041_Battle_Ready_2:
+  en: Time to take out the trash.
+  ko: 쓰레기 청소나 해볼까?
+  ja: ゴミ掃除でもしてみる～？
+c041_Battle_Ready_3:
+  en: This oughta be fun.
+  ko: 재밌겠는데?
+  ja: 面白そうだね～？
+c041_Reload_1:
+  en: Wait a moment!
+  ko: 잠시만 기다려!
+  ja: ちょっと待ってろ！
+c041_Reload_2:
+  en: Reloading!
+  ko: 리로드!
+  ja: リロード！
+c041_Reload_3:
+  en: Hurry, hurry!
+  ko: 빨리빨리!
+  ja: 早く早く！
+c041_Ult_Skill_Ready_1:
+  en: Charging complete!
+  ko: 충전 끝!
+  ja: チャージ終了！
+c041_Ult_Skill_1:
+  en: I'm gonna roast you all alive!
+  ko: 모조리 지져주마!
+  ja: 全員ぶっ潰してやる！
+c041_FullBurst_1:
+  en: Time to wrap this up.
+  ko: 후딱 끝내자고!
+  ja: さっさと終わらせるぞ！
+c041_Kill_Monster_1:
+  en: Haha!
+  ko: 하하!
+  ja: ハハ！
+c041_Kill_Monster_2:
+  en: That was nothing.
+  ko: 별거 아니네!
+  ja: 大したことないな！
+c041_Kill_Monster_3:
+  en: Next!
+  ko: 다음!
+  ja: はい、次！
+c041_Damage_1:
+  en: Ouch!
+  ko: 악!
+  ja: ぎゃっ！
+c041_Damage_2:
+  en: Argh!
+  ko: 아야!
+  ja: ああ！
+c041_Damage_3:
+  en: Ugh!
+  ko: 아씨!
+  ja: チッ！
+c041_Die_1:
+  en: You couldn't even command properly!
+  ko: 네가 지휘를 제대로 했어야지…!
+  ja: お前がちゃんと指揮をしていれば…！
+c041_Win_1:
+  en: That was a simple mission.
+  ko: 간단한 의뢰였어.
+  ja: 簡単な依頼だった。
+41_cv_ja:
+  en: 'CV: Kana Ueda'
+  ko: 'CV : 우에다 카나'
+  ja: CV：植田佳奈
+41_cv_ko:
+  en: 'CV: Kim Yun-chae'
+  ko: 'CV : 김윤채'
+  ja: CV：キム・ユンチェ
+41_cv_en:
+  en: 'CV: Amber Lee Connors'
+  ko: 'CV : 앰버 리 코너스'
+  ja: CV：Amber Lee Connors

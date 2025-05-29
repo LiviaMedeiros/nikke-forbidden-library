@@ -1,0 +1,496 @@
+---
+100101:
+  name:
+    en: Gaze of Courage
+    ko: 용기를 주는 시선
+    ja: エンカレジメント
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage dealt when
+      attacking core ▲ {description_value_01}%.</color>\n<color=#00AEFF>DEF ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[코어 대미지 {description_value_01}% ▲]</color>
+      <color=#00AEFF>[방어력 {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「コアダメージ{description_value_01}％▲」</color>
+      <color=#00AEFF>「防御力{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100102:
+  name:
+    en: Grounding Pillar
+    ko: 마음의 버팀목
+    ja: メンタルサポート
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
+      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
+      <color=#00AEFF>[<word_group=10033>엄폐물 최대 체력</word_group> {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「受けるダメージ{description_value_01}％▼」</color>
+      <color=#00AEFF>「<word_group=10033>遮蔽物最大HP</word_group>{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100201:
+  name:
+    en: Gaze of Courage
+    ko: 용기를 주는 시선
+    ja: エンカレジメント
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Max Ammunition Capacity
+      ▲ {description_value_01}%.</color>\n<color=#00AEFF>DEF ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[최대 장탄 수 {description_value_01}% ▲]</color>
+      <color=#00AEFF>[방어력 {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「最大装弾数{description_value_01}％▲」</color>
+      <color=#00AEFF>「防御力{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100202:
+  name:
+    en: Grounding Pillar
+    ko: 마음의 버팀목
+    ja: メンタルサポート
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
+      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
+      <color=#00AEFF>[<word_group=10033>엄폐물 최대 체력</word_group> {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「受けるダメージ{description_value_01}％▼」</color>
+      <color=#00AEFF>「<word_group=10033>遮蔽物最大HP</word_group>{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100301:
+  name:
+    en: Gaze of Courage
+    ko: 용기를 주는 시선
+    ja: エンカレジメント
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Charge Damage <word_group=10029>Multiplier</word_group>
+      ▲ {description_value_01}%.</color>\n<color=#00AEFF>DEF ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[차지 대미지 {description_value_01}% <word_group=10029>배율</word_group> ▲]</color>
+      <color=#00AEFF>[방어력 {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「チャージダメージ{description_value_01}％<word_group=10029>倍率</word_group>▲」</color>
+      <color=#00AEFF>「防御力{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100302:
+  name:
+    en: Grounding Pillar
+    ko: 마음의 버팀목
+    ja: メンタルサポート
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
+      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
+      <color=#00AEFF>[<word_group=10033>엄폐물 최대 체력</word_group> {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「受けるダメージ{description_value_01}％▼」</color>
+      <color=#00AEFF>「<word_group=10033>遮蔽物最大HP</word_group>{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100401:
+  name:
+    en: Gaze of Courage
+    ko: 용기를 주는 시선
+    ja: エンカレジメント
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Normal Attack Damage
+      <word_group=10029>Multiplier</word_group> ▲ {description_value_01}%.</color>\n<color=#00AEFF>DEF
+      ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[일반 공격 대미지 {description_value_01}% <word_group=10029>배율</word_group> ▲]</color>
+      <color=#00AEFF>[방어력 {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「通常攻撃ダメージ{description_value_01}％<word_group=10029>倍率</word_group>▲」</color>
+      <color=#00AEFF>「防御力{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100402:
+  name:
+    en: Grounding Pillar
+    ko: 마음의 버팀목
+    ja: メンタルサポート
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
+      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
+      <color=#00AEFF>[<word_group=10033>엄폐물 최대 체력</word_group> {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「受けるダメージ{description_value_01}％▼」</color>
+      <color=#00AEFF>「<word_group=10033>遮蔽物最大HP</word_group>{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100501:
+  name:
+    en: Gaze of Courage
+    ko: 용기를 주는 시선
+    ja: エンカレジメント
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Normal Attack Damage
+      <word_group=10029>Multiplier</word_group> ▲ {description_value_01}%.</color>\n<color=#00AEFF>DEF
+      ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[일반 공격 대미지 {description_value_01}% <word_group=10029>배율</word_group> ▲]</color>
+      <color=#00AEFF>[방어력 {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「通常攻撃ダメージ{description_value_01}％<word_group=10029>倍率</word_group>▲」</color>
+      <color=#00AEFF>「防御力{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100502:
+  name:
+    en: Grounding Pillar
+    ko: 마음의 버팀목
+    ja: メンタルサポート
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
+      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
+      <color=#00AEFF>[<word_group=10033>엄폐물 최대 체력</word_group> {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「受けるダメージ{description_value_01}％▼」</color>
+      <color=#00AEFF>「<word_group=10033>遮蔽物最大HP</word_group>{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100601:
+  name:
+    en: Gaze of Courage
+    ko: 용기를 주는 시선
+    ja: エンカレジメント
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Charge Damage <word_group=10029>Multiplier</word_group>
+      ▲ {description_value_01}%.</color>\n<color=#00AEFF>DEF ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[차지 대미지 {description_value_01}% <word_group=10029>배율</word_group> ▲]</color>
+      <color=#00AEFF>[방어력 {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「チャージダメージ{description_value_01}％<word_group=10029>倍率</word_group>▲」</color>
+      <color=#00AEFF>「防御力{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+100602:
+  name:
+    en: Grounding Pillar
+    ko: 마음의 버팀목
+    ja: メンタルサポート
+  description:
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
+      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
+      <color=#00AEFF>[<word_group=10033>엄폐물 최대 체력</word_group> {description_value_02}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「受けるダメージ{description_value_01}％▼」</color>
+      <color=#00AEFF>「<word_group=10033>遮蔽物最大HP</word_group>{description_value_02}％▲」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+200101:
+  name:
+    en: Strawberry Fields
+    ko: 딸기향 이끌림
+    ja: イチゴの香りの誘惑
+  description:
+    en: |-
+      ■ Activates when entering Full Burst. Affects self.
+      <color=#00AEFF> DEF ▲ {description_value_01}% for {description_value_02} sec.</color>
+      ■ Activates when attacked in Attract status. Affects self.
+      <color=#00AEFF>Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+      ■ Activates after landing {description_value_04} normal attack(s) in Attract status. Affects self.
+      <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_05}.</color>
+    ko: "■ 풀 버스트 타임 시작 시 자신에게 \n<color=#00AEFF>[방어력 {description_value_01}% ▲] [{description_value_02}초
+      유지]</color>\n■ 피격 시 자신이 주목 상태라면 자신에게\n<color=#00AEFF>[시전자의 <word_group=10025>최종</word_group>
+      최대 체력 비례 {description_value_03}% 회복]</color>\n■ 일반 공격 {description_value_04}회
+      명중 시 자신이 주목 상태라면 자신에게\n<color=#00AEFF>[<word_group=10001>중첩 가능 이로운 효과 중첩량</word_group>
+      {description_value_05}개 ▲]</color>"
+    ja: |-
+      ■フルバーストタイムが発動した時、自分に
+      <color=#00AEFF>「防御力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+      ■攻撃を受けた時、自分がヘイト状態なら自分に
+      <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」</color>
+      ■通常攻撃が{description_value_04}回命中した時、自分がヘイト状態なら自分に
+      <color=#00AEFF>「<word_group=10001>スタック可能バフ効果のスタック量</word_group>{description_value_05}個▲」</color>
+  info_description:
+    en: Skill 1
+    ko: 스킬1
+    ja: スキル1
+200201:
+  name:
+    en: Invasion
+    ko: 인베이젼
+    ja: インヴェイジョン
+  description:
+    en: |-
+      ■ Activates when the last bullet hits the target. Affects the target if the caster is in Collect Hacking Code.
+      <color=#00AEFF>ATK ▼ {description_value_01}% for {description_value_02} sec.
+      DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
+      ■ Activates at the start of Full Burst Time. Affects self.
+      <color=#00AEFF>Fixed to increase Reloading Speed by {description_value_05}% for {description_value_06} sec.</color>
+    ko: |-
+      ■ 마지막 탄환 명중 시 자신이 해킹 코드 수집 상태라면 대상에게
+      <color=#00AEFF>[공격력 {description_value_01}% ▼] [{description_value_02}초 유지]
+      [방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+      ■ 풀 버스트 타임 진입 시 자신에게
+      <color=#00AEFF>[재장전 속도 {description_value_05}% 증가 상태로 고정] [{description_value_06}초 유지]</color>
+    ja: |-
+      ■最後の弾丸が命中した時、自分がハッキングコード収集状態なら対象に
+      <color=#00AEFF>「攻撃力{description_value_01}％▼」「{description_value_02}秒間維持」
+      「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+      ■フルバーストタイム発動時、自分に
+      <color=#00AEFF>「リロード速度{description_value_05}％増加状態で固定」「{description_value_06}秒間維持」</color>
+  info_description:
+    en: Skill 1
+    ko: 스킬1
+    ja: スキル1
+200301:
+  name:
+    en: "... Ah"
+    ko: "…아"
+    ja: "…あ"
+  description:
+    en: |-
+      ■ Activates when attacking with Full Charge. Affects all allies.
+      <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.</color>
+      ■ Activates when attacking with Full Charge. Affects all allies when in Wake Up status.
+      <color=#00AEFF>True Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ko: |-
+      ■ 풀 차지 공격 시 아군 전체에게
+      <color=#00AEFF>[최대 체력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+      ■ 풀 차지 공격 시 자신이 일어남 상태라면 아군 전체에게
+      <color=#00AEFF>[방어력 무시 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ja: |-
+      ■フルチャージして攻撃した時、味方全体に
+      <color=#00AEFF>「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+      ■フルチャージして攻撃した時、自分が起きた状態なら味方全体に
+      <color=#00AEFF>「防御力無視ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+  info_description:
+    en: Skill 2
+    ko: 스킬2
+    ja: スキル2
+200401:
+  name:
+    en: Hero Vision
+    ko: 히어로 비전
+    ja: ヒーロービジョン
+  description:
+    en: |-
+      ■ Activates when attacking with Full Charge. Affects self.
+      <color=#00AEFF>Hero Vision: Explosion Radius ▲ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
+    ko: |-
+      ■ 풀차지 공격 시 자신에게
+      <color=#00AEFF>[히어로 비전 : 폭발 범위 {description_value_01}% ▲] [{description_value_02}중첩] [{description_value_03}초 유지]</color>
+    ja: |-
+      ■フルチャージして攻撃した時、自分に
+      <color=#00AEFF>「ヒーロービジョン：爆発範囲{description_value_01}％▲」
+      「{description_value_02}スタック」「{description_value_03}秒間維持」</color>
+  info_description:
+    en: Skill 1
+    ko: 스킬1
+    ja: スキル1
+200501:
+  name:
+    en: Snake Scale
+    ko: 스네이크 스케일
+    ja: スネークスケール
+  description:
+    en: |-
+      ■ Affects self.
+      <color=#00AEFF>Hit Rate ▲ {description_value_01}% continuously.</color>
+      ■ Activates when entering Full Burst. Affects self.
+      <color=#00AEFF>Vamp: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> continuously. Loses effect when the caster takes damage.
+      Invulnerable for {description_value_02} sec.</color>
+      ■ Activates when using Burst Skill. Affects all allies.
+      <color=#00AEFF><word_group=10002>Re-enter Burst Skill </word_group>Stage 2.</color>
+    ko: |-
+      ■ 자신에게
+      <color=#00AEFF>[명중률 {description_value_01}% ▲] [지속]</color>
+      ■ 풀 버스트 타임 시작 시 자신에게
+      <color=#00AEFF>[애교 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [지속]
+      [무적] [{description_value_02}초 유지]</color>
+      ■ 버스트 스킬 사용 시 아군 전체에게
+      <color=#00AEFF>[<word_group=10002>버스트 재진입</word_group> 2단계]</color>
+    ja: |-
+      ■自分に
+      <color=#00AEFF>「命中率{description_value_01}％▲」「持続」</color>
+      ■フルバーストタイムが発動した時、自分に
+      <color=#00AEFF>「愛嬌：<word_group=10004>単一攻撃対象から除外</word_group>直接攻撃を受けると解除」「持続」
+      「無敵」「{description_value_02}秒間維持」</color>
+      ■バーストスキルを使用した時、味方全体に
+      <color=#00AEFF>「<word_group=10002>バースト再突入</word_group>2段階」</color>
+  info_description:
+    en: Skill 2
+    ko: 스킬2
+    ja: スキル2
+200601:
+  name:
+    en: Health Up!
+    ko: 헬스업!
+    ja: ヘルスアップ！
+  description:
+    en: |-
+      ■ Activates after landing {description_value_01} normal attack(s). Affects all allies.
+      <color=#00AEFF>Hit Rate ▲ {description_value_02}% for {description_value_03} sec.</color>
+      ■ Activates after landing {description_value_04} normal attack(s). Affects all allies with a Submachine Gun.
+      <color=#00AEFF>Hit Rate ▲ {description_value_05}% for {description_value_06} sec.</color>
+      ■ Activates after landing {description_value_07} normal attack(s). Affects self.
+      <color=#00AEFF>ATK ▲ {description_value_08}% for {description_value_09} sec.</color>
+    ko: |-
+      ■ 일반 공격 {description_value_01}회 명중 시 아군 전체에게
+      <color=#00AEFF>[명중률 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+      ■ 일반 공격 {description_value_04}회 명중 시 기관단총 아군 전체에게
+      <color=#00AEFF>[명중률 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+      ■ 일반 공격 {description_value_07}회 명중 시 자신에게
+      <color=#00AEFF>[공격력 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
+    ja: |-
+      ■通常攻撃が{description_value_01}回命中した時、味方全体に
+      <color=#00AEFF>「命中率{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+      ■通常攻撃が{description_value_04}回命中した時、サブマシンガンの味方全体に
+      <color=#00AEFF>「命中率{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+      ■通常攻撃が{description_value_07}回命中した時、自分に
+      <color=#00AEFF>「攻撃力{description_value_08}％▲」「{description_value_09}秒間維持」</color>
+  info_description:
+    en: Skill 1
+    ko: 스킬1
+    ja: スキル1
+200701:
+  name:
+    en: Aegis Cannon
+    ko: 이지스 캐논
+    ja: イージスキャノン
+  description:
+    en: |-
+      ■ Affects the enemy with the highest <word_group=10025>final</word_group> ATK.
+      <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+      ■ Affects all allies.
+      <color=#00AEFF>Recovers {description_value_02}% of attack damage as HP for {description_value_03} sec.</color>
+      ■ Affects self.
+      <color=#00AEFF>Charge Damage <word_group=10029>Multiplier</word_group> ▲ {description_value_04}% for {description_value_05} round(s).</color>
+    ko: |-
+      ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 1기에게
+      <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+      ■ 아군 전체에게
+      <color=#00AEFF>[공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]</color>
+      ■ 자신에게
+      <color=#00AEFF>[차지 대미지 {description_value_04}% <word_group=10029>배율</word_group> ▲] [{description_value_05}발 유지]</color>
+    ja: |-
+      ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に
+      <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+      ■味方全体に
+      <color=#00AEFF>「攻撃ダメージの{description_value_02}％回復」「{description_value_03}秒間維持」</color>
+      ■自分に
+      <color=#00AEFF>「チャージダメージ{description_value_04}％<word_group=10029>倍率</word_group>▲」「{description_value_05}発間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+200801:
+  name:
+    en: Drake Special
+    ko: 드레이크 스페셜
+    ja: ドレイクスペシャル
+  description:
+    en: "■ Affects <word_group=10020>enemies within attack range</word_group>.\nDeals
+      <color=#00AEFF>{description_value_01}% of <word_group=10025>final</word_group>
+      ATK as damage.</color> \n■ Affects self.\n<color=#00AEFF>Max Ammunition Capacity
+      ▲ {description_value_02}% for {description_value_03} sec.\nAttack Damage ▲ {description_value_04}%
+      for {description_value_05} sec.</color>"
+    ko: |-
+      ■ <word_group=10020>공격 범위 내 적들</word_group>에게
+      <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지]</color>
+      ■ 자신에게
+      <color=#00AEFF>[최대 장탄 수 {description_value_02}% ▲] [{description_value_03}초 유지]
+      [공격 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ja: |-
+      ■<word_group=10020>攻撃範囲内の敵</word_group>に
+      <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」</color>
+      ■自分に
+      <color=#00AEFF>「最大装弾数{description_value_02}％▲」「{description_value_03}秒間維持」
+      「攻撃ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+200901:
+  name:
+    en: Victory is Mine
+    ko: 투 더 빅토리
+    ja: 勝利に向かって
+  description:
+    en: "■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group>
+      DEF. \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+      ATK as Burst Skill damage.</color>\n■ Affects all allies. \n<color=#00AEFF>Recovers
+      {description_value_03}% of attack damage as HP over {description_value_04} sec.\nPotency
+      of HP restored ▲ {description_value_05}% for {description_value_06} sec.</color>"
+    ko: |-
+      ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
+      <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
+      ■ 아군 전체에게
+      <color=#00AEFF>[공격 대미지 비례 {description_value_03}% 회복] [{description_value_04}초 유지]
+      [받는 체력 회복량 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    ja: |-
+      ■<word_group=10025>最終</word_group>防御力が最も高い敵{description_value_01}機に
+      <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の
+      バーストスキルダメージ」</color>
+      ■味方全体に
+      <color=#00AEFF>「攻撃ダメージの{description_value_03}％の回復」「{description_value_04}秒間維持」
+      「受けるHP回復量{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル

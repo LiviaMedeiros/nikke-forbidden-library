@@ -66,7 +66,7 @@ character_shot_description_localkey_rl_up:
   ja: 巡る運命
 25812_description:
   en: |-
-    ■ Activates when Full Burst ends. Affects all <word_group=10082>Burst {description_value_01} Electric Code allies </word_group> who previously cast their Burst Skill if self is in Wheel of Fortune status.
+    ■ Activates when Full Burst ends. Affects all <word_group=10082>Burst {description_value_01}</word_group> Electric Code allies who previously cast their Burst Skill if self is in Wheel of Fortune status.
     <color=#00AEFF>Strength: ATK ▲ {description_value_02}% of caster's ATK for {description_value_03} sec.</color>
     ■ Activates when Full Burst ends. Affects all allies if self is in Wheel of Fortune status.
     <color=#00AEFF>Death: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_04} sec.
@@ -90,7 +90,8 @@ character_shot_description_localkey_rl_up:
     バーストスキル<word_group=10031>クールタイム</word_group>{description_value_04}秒▼」
     「スキル発動者基準で攻撃力{description_value_05}％▲」
     「{description_value_06}秒間維持」</color>
-    ■フルバーストタイムが終了した時、味方全体に
+    ■フルバーストタイムが終了した時、
+    味方全体に
     <color=#00AEFF>「攻撃ダメージ{description_value_07}％▲」「{description_value_08}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
@@ -102,7 +103,7 @@ skill_name_1003:
   ja: 目覚める運命
 25811_description:
   en: |-
-    ■ Activates when Full Burst ends. Affects all <word_group=10082>Burst {description_value_01} Electric Code allies</word_group> who previously cast their Burst Skill if self is in Wheel of Fortune status.
+    ■ Activates when Full Burst ends. Affects all <word_group=10082>Burst {description_value_01}</word_group> Electric Code allies who previously cast their Burst Skill if self is in Wheel of Fortune status.
     <color=#00AEFF>The Magician: <word_group=10031>Cooldown</word_group> of Skill 2 ▼ {description_value_02}% for {description_value_03} sec.
     Attack damage ▲ {description_value_04}% for {description_value_05} sec.</color>
     ■ Activates when Full Burst ends. Affects all allies.
@@ -118,7 +119,8 @@ skill_name_1003:
     {description_value_01}の</word_group>電撃コードの味方全体に
     <color=#00AEFF>「魔術師のカード：スキル2
     <word_group=10031>クールタイム</word_group>{description_value_02}％▼」「{description_value_03}秒間維持」
-    「攻撃ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    「攻撃ダメージ{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
     ■フルバーストタイムが終了した時、
     味方全体に
     <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_06}％▲」
@@ -146,7 +148,8 @@ skill_name_1002:
     [심판 카드 : 받는 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
   ja: |-
     ■電撃コードの味方全体に
-    <color=#00AEFF>「運命の輪のカード：攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「運命の輪のカード：
+    攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
     ■敵全体に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の
     バーストスキルダメージ」
