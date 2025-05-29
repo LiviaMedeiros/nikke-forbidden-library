@@ -2229,3 +2229,624 @@ d_ex_flowerpark_04:
       私は2人に引きずられていく
       ヘルムの姿から必死に目を背け、
       生花公園を後にしたのだった…
+d_ex_flowerpark_05:
+  d_ex_flowerpark_05_1:
+    speaker: "<Monologue>"
+    en: One day, as I'm passing by the Flower Park, I hear a violin.
+    ko: 생화 공원 근처를 지나던 어느 날.
+    ja: 生花公園の近くを通りかかったある日
+  d_ex_flowerpark_05_2:
+    speaker: "<Monologue>"
+    en: Drawn in by the familiar sound, I make my way towards the heart of the garden.
+    ko: 익숙한 바이올린 소리에 이끌려, 공원 안쪽으로 향했다.
+    ja: |-
+      聞き慣れたバイオリンの音につられ
+      公園の中に向かった
+  d_ex_flowerpark_05_3:
+    speaker: trina
+    en: Sun! Fancy seeing you here.
+    ko: 어머나~ 햇님이 오셧군요~
+    ja: あら、おてんとさまじゃないですか～
+  d_ex_flowerpark_05_4:
+    speaker: julia
+    en: My feelings for you, Conductor, must have been carried by the wind and led
+      you here!
+    ko: |-
+      마에스트로를 향한 제 마음이 바람을 타고 날아가,
+      이곳에 이끌었나 보군요…!
+    ja: |-
+      私の想いが風に乗って飛んでいき、マエストロを
+      ここまで連れてきてくれたのですね…！
+  d_ex_flowerpark_05_5:
+    speaker: "<Self>"
+    en: What are you guys up to?
+    ko: 둘 다 여기서 뭐 해?
+    ja: 2人ともここで何してるんだ？
+  d_ex_flowerpark_05_6:
+    speaker: trina
+    en: We're just here relaxing, but with a twist!
+    ko: 후후. 저희는 특별한 휴식 시간을 보내고 있었답니다.
+    ja: ふふ。特別な休息の時間を過ごしていました。
+  d_ex_flowerpark_05_7:
+    speaker: "<Self>"
+    en: Oh? Go on.
+    ko: 휴식 시간?
+    ja: 特別な休息の時間？
+  d_ex_flowerpark_05_8:
+    speaker: trina
+    en: Well.
+    ko: 네~
+    ja: はい～
+  d_ex_flowerpark_05_9:
+    speaker: trina
+    en: Julia is playing music for the little ones
+    ko: 율리아가 공원의 아이들이 듣고 휴식할 만한 음악을 들려준다고 하셔서,
+    ja: |-
+      ジュリアがここの子たちのために
+      心が休まる音楽を聴かせてくれるというので、
+  d_ex_flowerpark_05_10:
+    speaker: trina
+    en: and me to enjoy.
+    ko: 기쁘게 듣고 있었어요.
+    ja: みんなで鑑賞しているところでした。
+  d_ex_flowerpark_05_11:
+    speaker: "<Self>"
+    en: What kind of music have you been playing?
+    ko: 휴식할 만한 음악?
+    ja: 心が休まる音楽？
+  d_ex_flowerpark_05_12:
+    speaker: trina
+    en: Now that Sun's here, would you mind playing a little more, Julia?
+    ko: "율리아. \n햇님도 오셨으니 한 번만 더 들려주시겠어요?"
+    ja: |-
+      ジュリア。
+      おてんとさまもいらっしゃったことですし、
+      もう一度聴かせてもらえますか？
+  d_ex_flowerpark_05_13:
+    speaker: julia
+    en: Certainly.
+    ko: 좋습니다.
+    ja: 分かりました。
+  d_ex_flowerpark_05_14:
+    speaker: julia
+    en: I'm so glad that you came, Conductor. I'll be sure to transfer that joy into
+      my next performance.
+    ko: "마에스트로를 만나서 기쁜 마음을 조금 더 담아서, \n다시 연주해 보겠습니다."
+    ja: |-
+      マエストロに会えて嬉しい気持ちも乗せて
+      もう一度演奏してみます。
+  d_ex_flowerpark_05_15:
+    speaker: "<Monologue>"
+    en: Julia starts playing the violin.
+    ko: 율리아가 바이올린 연주를 시작했다.
+    ja: ジュリアがバイオリンの演奏を始めた
+  d_ex_flowerpark_05_16:
+    speaker: "<Monologue>"
+    en: A peaceful and beautiful melody flows, seemingly putting my entire body at
+      ease.
+    ko: "몸이 절로 나른해지는 것 같은, \n편안하고 아름다운 음악이 울려 퍼졌다."
+    ja: |-
+      体の緊張がほぐれるような、
+      心が落ち着く美しい音楽が鳴り響いた
+  d_ex_flowerpark_05_17:
+    speaker: trina
+    en: That was so lovely.
+    ko: 후후후. 정말 좋네요.
+    ja: ふふふ。とてもいいですね。
+  d_ex_flowerpark_05_18:
+    speaker: trina
+    en: I can feel that the little ones appreciate it as well.
+    ko: 이곳의 아이들도 좋아하는 게 느껴져요~
+    ja: ここの子たちも喜んでいるみたいです。
+  d_ex_flowerpark_05_19:
+    speaker: trina
+    en: If only Flora and Leaf could have joined us.
+    ko: 플로라와 리프도 함께 왔으면 좋았을 걸 그랬어요.
+    ja: |-
+      フローラとリーフも一緒だったら
+      よかったですね～
+  d_ex_flowerpark_05_20:
+    speaker: "<Self>"
+    en: It really was magnificent.
+    ko: 그러게. 정말 좋네.
+    ja: そうだな。すばらしい音楽だ
+  d_ex_flowerpark_05_21:
+    speaker: julia
+    en: Thank you all for being such a captive audience. I'm truly grateful that...
+    ko: 좋게 들어주셨다니, 정말 감사할 따름입니….
+    ja: そう言っていただき、感謝の気持ちでいっぱ…
+  d_ex_flowerpark_05_22:
+    speaker: "<Narration>"
+    en: "*Rustle*"
+    ko: 부스럭-
+    ja: ガサガサッ
+  d_ex_flowerpark_05_23:
+    speaker: k
+    en: |-
+      What the...?
+      How come there are so many people here?
+    ko: |-
+      뭐야.
+      여기 왜 이렇게 뭐가 많아?
+    ja: |-
+      何だ？
+      なんでこんなに人がいるんだ？
+  d_ex_flowerpark_05_24:
+    speaker: "<Self>"
+    en: K?
+    ko: K…?
+    ja: K…？
+  d_ex_flowerpark_05_25:
+    speaker: trina
+    en: Oh? Looks like another guest has arrived.
+    ko: 어머나~ 새로운 손님이 오셨군요?
+    ja: あら～、新しいお客様ですね。
+  d_ex_flowerpark_05_26:
+    speaker: k
+    en: I thought this place wasn't being used anymore.
+    ko: 아무도 안 쓰는 곳인 줄 알았더니….
+    ja: 誰もいないかと思ったのに…
+  d_ex_flowerpark_05_27:
+    speaker: k
+    en: Bah, fine. I'll have to go somewhere else.
+    ko: |-
+      칫. 귀찮게.
+      다른데 가야겠네.
+    ja: |-
+      ちっ。面倒だな。
+      他の場所に行くか。
+  d_ex_flowerpark_05_28:
+    speaker: "<Monologue>"
+    en: K turns to walk away.
+    ko: K가 몸을 돌렸다.
+    ja: Kは背を向けた
+  d_ex_flowerpark_05_29:
+    speaker: trina
+    en: Huh? Why would you leave?
+    ko: 음? 왜요?
+    ja: え？どうしてですか？
+  d_ex_flowerpark_05_30:
+    speaker: trina
+    en: Didn't you come here to take a break?
+    ko: 여기에 쉬러 오신 것 아닌가요?
+    ja: 休憩をしに来られたんですよね？
+  d_ex_flowerpark_05_31:
+    speaker: k
+    en: Yes...
+    ko: 그건 그런….
+    ja: それはそう…
+  d_ex_flowerpark_05_32:
+    speaker: trina
+    en: Then why don't you stay and rest?
+    ko: 그럼 쉬고 가셔야죠~
+    ja: でしたら、ゆっくりしていってくださ～い。
+  d_ex_flowerpark_05_33:
+    speaker: julia
+    en: Even if it's only for a moment,
+    ko: |-
+      맞습니다.
+      휴식을 갈망하는 발걸음을 멈춰 서는 안됩니다.
+    ja: |-
+      その通りです。
+      休息を望むその気持ちに正直になり…
+  d_ex_flowerpark_05_34:
+    speaker: julia
+    en: surrender your body to the gentle breeze and fragrance of nature before moving
+      on.
+    ko: 잠시라도 살랑이는 바람과 향기로운 자연 속에 몸을 맡겼다 떠나가십시오.
+    ja: |-
+      そよ風と香り立つ自然の中に
+      身を委ねていってください。
+  d_ex_flowerpark_05_35:
+    speaker: k
+    en: What are you blathering about?
+    ko: 뭐라는 거야?
+    ja: 何言ってんの？
+  d_ex_flowerpark_05_36:
+    speaker: "<Monologue>"
+    en: Trina grabs K by the arm and leads her to the grass.
+    ko: 트리나가 K의 팔을 잡고 풀밭으로 이끌었다.
+    ja: |-
+      トリナがKの腕を掴み、
+      草むらへと引っぱっていった
+  d_ex_flowerpark_05_37:
+    speaker: trina
+    en: Come on, stop putting up a fight and get over here.
+    ko: 자아~ 그러지 말고 이쪽으로 오셔요.
+    ja: |-
+      さあさあ、そんなこと言わないで、
+      こちらにどうぞ～
+  d_ex_flowerpark_05_38:
+    speaker: k
+    en: Hey! Let go of me!
+    ko: |-
+      어어?
+      이거 안 놔?
+    ja: おい、放せよ。
+  d_ex_flowerpark_05_39:
+    speaker: trina
+    en: Just give in, and sit here.
+    ko: 후후후. 그러지 말고 이쪽에 앉아보세요~
+    ja: |-
+      ふふふ。
+      分かりましたからここに座ってくださ～い。
+  d_ex_flowerpark_05_40:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 털썩-
+    ja: ドサッ
+  d_ex_flowerpark_05_41:
+    speaker: "<Monologue>"
+    en: Trina seats K on the grass.
+    ko: 트리나가 K를 풀밭에 앉혔다.
+    ja: トリナがKを草むらに座らせた
+  d_ex_flowerpark_05_42:
+    speaker: trina
+    en: How is it?
+    ko: 어때요?
+    ja: どうですか？
+  d_ex_flowerpark_05_43:
+    speaker: trina
+    en: Don't you feel this place has a calming presence?
+    ko: 절로 휴식이 될 것만 같지 않나요?
+    ja: 自然と気持ちが落ち着きませんか？
+  d_ex_flowerpark_05_44:
+    speaker: k
+    en: Not at all!
+    ko: 될 리가!
+    ja: んなワケないだろ。
+  d_ex_flowerpark_05_45:
+    speaker: k
+    en: How am I supposed to relax with this many people around?
+    ko: 사람이 이렇게 많은데 뭔 휴식이야.
+    ja: こんなに人がいるのに、落ち着けるかよ？
+  d_ex_flowerpark_05_46:
+    speaker: trina
+    en: Ah! I see!
+    ko: 아하~
+    ja: なるほど～
+  d_ex_flowerpark_05_47:
+    speaker: trina
+    en: So it's the number of people that's the problem for you.
+    ko: 중요한 건 사람의 수였군요.
+    ja: 人の数が問題だったのですね。
+  d_ex_flowerpark_05_48:
+    speaker: trina
+    en: In that case, think of me as one with nature.
+    ko: 그럼 저를 이 자연 속 한 그루의 나무라고 생각해 주시면 어떨까요?
+    ja: 私のことを一本の木だと思ってみてください。
+  d_ex_flowerpark_05_49:
+    speaker: k
+    en: What a bunch of—
+    ko: 그게 되겠냐?
+    ja: そんなことできるわけないだろ！
+  d_ex_flowerpark_05_50:
+    speaker: julia
+    en: If that doesn't work, then think of me and my music as a mellifluous breeze
+      amongst these bucolic surroundings.
+    ko: 그렇다면 전 이 자연 속 음악을 켜는 바람이라고 생각해 주십시오.
+    ja: |-
+      私のことは、自然の音楽を奏でる風だと
+      思ってください。
+  d_ex_flowerpark_05_51:
+    speaker: k
+    en: That's just as ridiculous!
+    ko: 되겠냐고!
+    ja: ムリに決まってるだろ！？
+  d_ex_flowerpark_05_52:
+    speaker: k
+    en: Ugh...
+    ko: 아… 머리 아파.
+    ja: ああ…頭が痛くなってきた…
+  d_ex_flowerpark_05_53:
+    speaker: k
+    en: You weirdoes are giving me a headache.
+    ko: 얘네 이상해.
+    ja: こいつら、どうかしてるよ。
+  d_ex_flowerpark_05_54:
+    speaker: julia
+    en: Your head is troubling you?
+    ko: 저런, 두통이 찾아와 버렸나 보군요.
+    ja: どうしましょう、頭痛ですか。
+  d_ex_flowerpark_05_55:
+    speaker: julia
+    en: In times like this, why not cast aside your heavy thoughts and enjoy some
+      nice, tranquil music?
+    ko: 그럴 땐 무거워진 마음을 내려놓고 편안하게 음악을 즐겨보시는 건 어떨까요?
+    ja: |-
+      そういうときは音楽を聴いて
+      リラックスしてみるのはいかがでしょうか。
+  d_ex_flowerpark_05_56:
+    speaker: trina
+    en: |-
+      Yeah!
+      Nothing relieves fatigue like listening to music while out in nature.
+    ko: |-
+      후후, 맞아요.
+      정말로 자연과 함께 음악을 들으면 피로가 풀리는 것 같답니다~
+    ja: |-
+      ふふ、そうですよ。
+      自然の中で音楽を聴いていると、
+      疲れが吹っ飛びますものね～
+  d_ex_flowerpark_05_57:
+    speaker: k
+    en: Again with the hippy-dippy nonsense...
+    ko: 무슨 그런 돌팔이 같은….
+    ja: また意味の分からないことを…
+  d_ex_flowerpark_05_58:
+    speaker: julia
+    en: Now then, allow me to begin.
+    ko: 그럼, 연주하겠습니다.
+    ja: では、演奏を始めます。
+  d_ex_flowerpark_05_59:
+    speaker: k
+    en: I don't nee...
+    ko: 필요 없…!
+    ja: 誰も頼んでない…！
+  d_ex_flowerpark_05_60:
+    speaker: "<Monologue>"
+    en: Julia starts playing the violin again.
+    ko: 율리아가 다시 바이올린 연주를 시작했다.
+    ja: ジュリアがまたバイオリンを弾き始めた
+  d_ex_flowerpark_05_61:
+    speaker: "<Monologue>"
+    en: This time, a calm and peaceful melody fills the air, one slightly different
+      from the one before.
+    ko: 아까와는 또 다른, 잔잔하고 평화로운 느낌의 음악이 울려 퍼졌다.
+    ja: |-
+      さっきとは違う、
+      静かで穏やかな曲調の音楽が鳴り響いた
+  d_ex_flowerpark_05_62:
+    speaker: k
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_flowerpark_05_63:
+    speaker: k
+    en: That's... not bad.
+    ko: "…나쁘진 않네."
+    ja: "…悪くないな。"
+  d_ex_flowerpark_05_64:
+    speaker: "<Narration>"
+    en: "*Plop*"
+    ko: 풀썩-
+    ja: ドサッ
+  d_ex_flowerpark_05_65:
+    speaker: "<Monologue>"
+    en: K relaxes her body and lies down on the grass.
+    ko: K가 몸에 힘을 푼 채, 풀밭에 드러누웠다.
+    ja: Kは肩の力を抜いて、草むらに横になった
+  d_ex_flowerpark_05_66:
+    speaker: julia
+    en: I appreciate you saying that.
+    ko: 나쁘지 않은 연주라니, 감사합니다.
+    ja: そう言って頂けて嬉しいです。
+  d_ex_flowerpark_05_67:
+    speaker: "<Monologue>"
+    en: Julia continues to play with a happy smile.
+    ko: 율리아가 기분 좋게 웃으며 연주를 이어갔다.
+    ja: ジュリアが嬉しそうに笑いながら演奏を続けた
+  d_ex_flowerpark_05_68:
+    speaker: "<Narration>"
+    en: "*Clap clap*"
+    ko: 짝짝짝-
+    ja: パチパチパチ
+  d_ex_flowerpark_05_69:
+    speaker: trina
+    en: Bravo! Another masterful performance.
+    ko: 와, 이번에도 멋진 연주였어요.
+    ja: わあ、今回も素晴らしい演奏でした。
+  d_ex_flowerpark_05_70:
+    speaker: k
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_flowerpark_05_71:
+    speaker: k
+    en: Do you take requests?
+    ko: 이거 신청곡도 받아?
+    ja: リクエストとかしてもいいのか？
+  d_ex_flowerpark_05_72:
+    speaker: julia
+    en: Of course. Responding to the audience's call is the privilege of a performer.
+    ko: |-
+      물론입니다.
+      관객의 부름에 답하는 것은 연주자의 특권이죠.
+    ja: |-
+      もちろんです。
+      観客のご要望にお応えすることは、
+      演奏者としての喜びです。
+  d_ex_flowerpark_05_73:
+    speaker: julia
+    en: What song would you like?
+    ko: 어떤 곡을 원하시나요?
+    ja: どんな曲をお望みですか？
+  d_ex_flowerpark_05_74:
+    speaker: k
+    en: A dirge.
+    ko: 장송곡.
+    ja: 葬送曲。
+  d_ex_flowerpark_05_75:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_flowerpark_05_76:
+    speaker: trina
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_flowerpark_05_77:
+    speaker: julia
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_flowerpark_05_78:
+    speaker: k
+    en: Is that okay?
+    ko: 되겠어?
+    ja: 弾けるか？
+  d_ex_flowerpark_05_79:
+    speaker: julia
+    en: |-
+      Of course.
+      Meeting and parting are inevitable parts of life.
+    ko: |-
+      그럼요.
+      만남과 떠남은 인생의 필연과도 같은 것.
+    ja: |-
+      もちろんです。
+      出会いと別れは人生の必然とも言えます。
+  d_ex_flowerpark_05_80:
+    speaker: julia
+    en: I cannot say for certain whether my interpretation will resonate with you,
+    ko: 감히 관객분의 마음에 닿을 해석일지는 모르겠으나.
+    ja: |-
+      あなたを感動させられるような解釈が
+      できるかどうかは分かりませんが、
+  d_ex_flowerpark_05_81:
+    speaker: julia
+    en: but I will play my idea of what a dirge should make one feel.
+    ko: "제가 느끼고 생각해 온, \n떠남에 대한 이야기를 이곳에 연주해 보겠습니다."
+    ja: |-
+      私が感じ、理解してきた
+      別れについての物語をここで演奏してみます。
+  d_ex_flowerpark_05_82:
+    speaker: k
+    en: Whatever. Just play.
+    ko: "…그러던가."
+    ja: "…好きにしてくれ。"
+  d_ex_flowerpark_05_83:
+    speaker: "<Monologue>"
+    en: Julia lifts her violin again,
+    ko: 율리아가 다시 바이올린을 치켜올렸다.
+    ja: ジュリアが再びバイオリンを肩に乗せた
+  d_ex_flowerpark_05_84:
+    speaker: "<Monologue>"
+    en: and a quiet and sad melody fills the air.
+    ko: 그리고 낮고 슬픈 음색의 연주를 시작했다.
+    ja: そして悲壮感漂う低音の楽曲を演奏し始めた
+  d_ex_flowerpark_05_85:
+    speaker: "<Monologue>"
+    en: A forlorn tune which induces despair.
+    ko: 때로는 절망스럽다는 감정이 들 정도로 깊고 무겁게,
+    ja: |-
+      時には絶望を感じるような
+      重たく深みのある音色で
+  d_ex_flowerpark_05_86:
+    speaker: "<Monologue>"
+    en: Intense intonations which evoke surging anger.
+    ko: 때로는 분노가 몰아치듯 매섭게,
+    ja: |-
+      時には怒りがふつふつと湧き上がるような
+      激しい音色で
+  d_ex_flowerpark_05_87:
+    speaker: "<Monologue>"
+    en: Desperation and sorrow.
+    ko: 때로는 절절할 정도로 슬프게,
+    ja: 時には切ないほどに悲しい音色で
+  d_ex_flowerpark_05_88:
+    speaker: "<Monologue>"
+    en: Beautiful and tender notes that feel like a comforting caress.
+    ko: 때로는 아픔을 위로하듯 아련하고 아름답게.
+    ja: 時には苦痛を慰めるような淡く美しい音色で
+  d_ex_flowerpark_05_89:
+    speaker: "<Monologue>"
+    en: The piece that Julia plays is enough to make the heart burst with emotion.
+    ko: 마음을 울리는 연주가 울려 퍼졌다.
+    ja: 心を揺さぶる演奏が鳴り響いた
+  d_ex_flowerpark_05_90:
+    speaker: k
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_flowerpark_05_91:
+    speaker: "<Monologue>"
+    en: As soon as the performance comes to an end...
+    ko: 그렇게 연주가 끝이 나자….
+    ja: 演奏が終わり…
+  d_ex_flowerpark_05_92:
+    speaker: k
+    en: "... Well done."
+    ko: "…잘하네."
+    ja: "…すごいな。"
+  d_ex_flowerpark_05_93:
+    speaker: julia
+    en: Huh?
+    ko: 네…?
+    ja: え…？
+  d_ex_flowerpark_05_94:
+    speaker: "<Monologue>"
+    en: K stands up.
+    ko: K가 자리에서 일어났다.
+    ja: Kが立ち上がった
+  d_ex_flowerpark_05_95:
+    speaker: k
+    en: I'm leaving.
+    ko: 간다.
+    ja: もう行く。
+  d_ex_flowerpark_05_96:
+    speaker: "<Monologue>"
+    en: K quietly walks away.
+    ko: 그리고 유유히 떠나갔다.
+    ja: そしてゆっくりとその場から去って行った
+  d_ex_flowerpark_05_97:
+    speaker: trina
+    en: My goodness, she certainly left quickly.
+    ko: 어머나… 빠르게 가버리셨네요.
+    ja: まあ…もう行ってしまったんですね。
+  d_ex_flowerpark_05_98:
+    speaker: trina
+    en: It would have been nice if she'd stayed and rested a bit more.
+    ko: 좀 더 쉬고 가셨다면 좋았을 텐데….
+    ja: もう少し休んでいかれてもよかったのに…
+  d_ex_flowerpark_05_99:
+    speaker: julia
+    en: Do you think she didn't like the performance?
+    ko: 연주가 마음에 들지 않으셨던 걸까요?
+    ja: 演奏が気に入らなかったのでしょうか？
+  d_ex_flowerpark_05_100:
+    speaker: "<Self>"
+    en: That's not it.
+    ko: 그건 아닐 거야.
+    ja: それは違うと思う
+  d_ex_flowerpark_05_101:
+    speaker: "<Self>"
+    en: Her leaving so abruptly could be her way of showing she enjoyed it.
+    ko: 저게 K 나름대로의 마음에 들었다는 표시일 테니까.
+    ja: |-
+      多分あれはKなりの
+      気に入ったという表現なのだろう
+  d_ex_flowerpark_05_102:
+    speaker: julia
+    en: Hehe, well, that's a relief.
+    ko: 후후, 그렇다면 다행이네요.
+    ja: ふふ、それならよかったです。
+  d_ex_flowerpark_05_103:
+    speaker: trina
+    en: Do you want to keep playing for the little ones?
+    ko: 그럼 저희는 휴식을 이어가 볼까요?
+    ja: では私たちはもう少し休憩を楽しみましょうか。
+  d_ex_flowerpark_05_104:
+    speaker: julia
+    en: Of course.
+    ko: 알겠습니다.
+    ja: そうですね。
+  d_ex_flowerpark_05_105:
+    speaker: julia
+    en: I will continue to play for them, and wish for peace for them and everyone
+      else as I do.
+    ko: 모두의 안녕을 기원하며, 다시 연주하겠습니다.
+    ja: |-
+      ここにいるみなさんの心の平穏を祈り、
+      演奏を続けます。
+  d_ex_flowerpark_05_106:
+    speaker: "<Monologue>"
+    en: Julia resumes playing the violin,
+    ko: 율리아가 다시 연주를 이어나갔다.
+    ja: ジュリアが再び演奏を始めた
+  d_ex_flowerpark_05_107:
+    speaker: "<Monologue>"
+    en: and we spend some more time enjoying a pleasant, restful musical interlude.
+    ko: 그렇게 편안한 휴식 시간을 보냈다.
+    ja: そうして私たちは穏やかな休息の時間を過ごした

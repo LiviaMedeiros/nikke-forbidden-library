@@ -4393,3 +4393,515 @@ d_ex_church_07:
     ja: |-
       今日は自分の運勢が
       悪い日であるということを…
+d_ex_church_08:
+  d_ex_church_08_1:
+    speaker: "<Monologue>"
+    en: As I'm passing by the church...
+    ko: 교회 근처를 지나다가.
+    ja: 教会の近くを歩いていたところ…
+  d_ex_church_08_2:
+    speaker: "<Self>"
+    en: "?!"
+    ko: 어?
+    ja: あれ？
+  d_ex_church_08_3:
+    speaker: "<Monologue>"
+    en: When I come to my senses, I'm inside the church.
+    ko: "…정신을 차려보니 교회 안에 들어와 있다."
+    ja: "…気が付くと教会の中にいた"
+  d_ex_church_08_4:
+    speaker: d
+    en: This place wasn't too far away, so I decided to bring you here.
+    ko: 마침 근처에 있길래 데려왔다.
+    ja: ちょうど近くにいたから連れてきた。
+  d_ex_church_08_5:
+    speaker: k
+    en: Everyone's here now.
+    ko: 뭐. 관계자는 다 모인 거네, 이러면.
+    ja: 関係者は全員揃ったってことか。
+  d_ex_church_08_6:
+    speaker: arcana
+    en: Hello, @UserName.
+    ko: 안녕하세요~
+    ja: こんにちは～
+  d_ex_church_08_7:
+    speaker: "<Self>"
+    en: What the... what's going on?
+    ko: 뭔데? 무슨 일인데??
+    ja: どうしたんだ？？
+  d_ex_church_08_8:
+    speaker: arcana
+    en: Well...
+    ko: 아, 그게요.
+    ja: あ、それがですね。
+  d_ex_church_08_9:
+    speaker: arcana
+    en: It's about our library. The one at the Ark, not the Outpost.
+    ko: 저희 도서관… 그러니까, 전초기지 말고 방주요.
+    ja: 図書館…あっ、前哨基地じゃなくてアークの。
+  d_ex_church_08_10:
+    speaker: arcana
+    en: We've been having a small issue with our security.
+    ko: 아무튼 도서관 보안에 조금 문제가 생겨서요.
+    ja: そっちでセキュリティに問題が起きたんです。
+  d_ex_church_08_11:
+    speaker: "<Self>"
+    en: Really?
+    ko: 그래?
+    ja: 本当か？
+  d_ex_church_08_12:
+    speaker: arcana
+    en: Yeah. There have been several attempts at unlawful entry over the past few
+      days.
+    ko: 네. 요 며칠 사이에 침입 시도가 있었거든요.
+    ja: はい。ここ数日、誰かが侵入したみたいで。
+  d_ex_church_08_13:
+    speaker: arcana
+    en: Fortunately, no one's managed to get inside the Forbidden Library yet,
+    ko: 다행히 아직까지 금서고는 문제없었는데,
+    ja: 幸い、今のところ禁書庫には問題ありませんが…
+  d_ex_church_08_14:
+    speaker: arcana
+    en: but we’ve been consulting with Perilous Siege just in case.
+    ko: |-
+      그래도 혹시 몰라서 시지 패러리스 분들이랑
+      상의를 좀 해보고 있었어요.
+    ja: |-
+      念のためにシージペリラスの方たちと
+      対策会議をしてたんです。
+  d_ex_church_08_15:
+    speaker: k
+    en: Arcana and her colleagues haven't been able to find a single lead on the intruder,
+      so we were discussing whether we need to step in.
+    ko: |-
+      정확히는 아직도 침입자의 단서조차 잡을 수 없대서,
+      우리가 나서야 하나 얘기 중이었지.
+    ja: |-
+      正確に言うと、まだ侵入者の手がかりさえ
+      つかめてないっていうから
+      私たちの出番かな～って話してたところ。
+  d_ex_church_08_16:
+    speaker: "<Self>"
+    en: Is it really necessary to call you guys in for something like this?
+    ko: 그런 것까지 너희가 나서야 돼?
+    ja: そんなことまで君たちの仕事なのか？
+  d_ex_church_08_17:
+    speaker: d
+    en: Not necessarily.
+    ko: 그건 아니지만.
+    ja: そういうわけではない。
+  d_ex_church_08_18:
+    speaker: d
+    en: However, if the Forbidden Library... I mean, the Top-secret Archive,
+    ko: 만에 하나 그 때문에 금서고… 아니.
+    ja: しかし万が一、禁書庫…いや…
+  d_ex_church_08_19:
+    speaker: d
+    en: was breached, we'd have a serious problem on our hands.
+    ko: "…특급 기밀 보관소의 보안이 뚫리면 문제가 생긴다."
+    ja: |-
+      …機密保管庫のセキュリティまで
+      突破されてしまったら問題だ。
+  d_ex_church_08_20:
+    speaker: d
+    en: Best to nip this problem in the bud.
+    ko: 문제의 싹은 미리 제거하는 것이 좋겠지.
+    ja: |-
+      問題の芽はあらかじめ摘み取った方が
+      いいだろう。
+  d_ex_church_08_21:
+    speaker: "<Self>"
+    en: All right. Let me know how I can help.
+    ko: "…알았어. 도와줄 게 있으면 말해줘."
+    ja: "…分かった。手伝えることがあったら言ってくれ"
+  d_ex_church_08_22:
+    speaker: d
+    en: We'll keep you updated.
+    ko: 계속해서 상황을 공유하겠다.
+    ja: ああ。引き続き状況を共有する。
+  d_ex_church_08_23:
+    speaker: "<Self>"
+    en: "..."
+    ko: 응. 그런데….
+    ja: ところで…
+  d_ex_church_08_24:
+    speaker: "<Monologue>"
+    en: As I look around, our voices echo through the otherwise solemnly quiet church.
+    ko: |-
+      주위를 둘러보자, 엄숙하게 느껴질 정도로 고요한 교회에는
+      우리의 목소리만 울리고 있다.
+    ja: |-
+      あたりを見回すと、
+      厳かに感じられるほど静かな教会に、
+      私たちの声だけが響いている
+  d_ex_church_08_25:
+    speaker: "<Self>"
+    en: Why did you choose this of all places to meet up and discuss this?
+    ko: 왜 굳이 여기에서 이야기하는 거야?
+    ja: なぜわざわざここで会議を？
+  d_ex_church_08_26:
+    speaker: arcana
+    en: The Forbidden Library houses many records pertaining to those who’ve passed
+      on.
+    ko: 아, 그건요.
+    ja: あ、それはですね。
+  d_ex_church_08_27:
+    speaker: arcana
+    en: If we're touching on the subject of ghosts or spirits,
+    ko: 금서고에는 이미 돌아가신 분들의 기록이 많으니까.
+    ja: |-
+      禁書庫には亡くなった方の
+      記録が多いので。
+  d_ex_church_08_28:
+    speaker: arcana
+    en: we ought to show them some respect in order to appease them, shouldn't we?
+    ko: 혹시나 귀신이나 혼령 같은 거라면, 위로해 드려야 하잖아요.
+    ja: おばけや死者の魂は、弔わないと。
+  d_ex_church_08_29:
+    speaker: arcana
+    en: "... Kinda spooky when you think about it."
+    ko: 으으. 무서워라~
+    ja: うう、コワ～い。
+  d_ex_church_08_30:
+    speaker: d
+    en: Don't lie.
+    ko: "…거짓말을 하고 있군."
+    ja: "…嘘だな。"
+  d_ex_church_08_31:
+    speaker: d
+    en: There’s no fear in your eyes.
+    ko: 눈에서 전혀 두려움이 느껴지지 않아.
+    ja: その目はまったく恐怖を感じていない者の目だ。
+  d_ex_church_08_32:
+    speaker: arcana
+    en: Wha... you can tell that just by looking?
+    ko: 헉! 그런 것까지 아시는 거예요?
+    ja: えっ！そんなことまで分かるんですか？
+  d_ex_church_08_33:
+    speaker: k
+    en: We’ve seen what real fear looks like.
+    ko: 진짜 두려워하는 눈을 항상 보니까.
+    ja: 本気で怖がってるヒトはいつも見てるからね～
+  d_ex_church_08_34:
+    speaker: arcana
+    en: Oh... hehe... I guess you're right...
+    ko: 아… 아하하… 그, 그렇네요. 네….
+    ja: あ…あはは…そ、そうですよね。ハイ…
+  d_ex_church_08_35:
+    speaker: arcana
+    en: Okay, I'll admit it. I don't find ghosts particularly scary.
+    ko: 뭐, 맞기는 해요. 사실 귀신은 별로 안 무섭거든요.
+    ja: |-
+      まあ、正解です。
+      おばけはあんまり怖くないので。
+  d_ex_church_08_36:
+    speaker: "<Self>"
+    en: You don't?
+    ko: 그래?
+    ja: そうなのか？
+  d_ex_church_08_37:
+    speaker: arcana
+    en: Isn't the harsh reality of the world way scarier than ghosts?
+    ko: 네. 그런 것보단 팍팍한 현실이 더 무섭지 않아요?
+    ja: |-
+      はい。おばけより、厳しい現実の方が
+      怖くありませんか？
+  d_ex_church_08_38:
+    speaker: "<Self>"
+    en: I suppose.
+    ko: 으, 응….
+    ja: あ、ああ…
+  d_ex_church_08_39:
+    speaker: k
+    en: We're getting off track.
+    ko: 귀신은 그냥 하는 소리고.
+    ja: おばけってのはジョーダンで。
+  d_ex_church_08_40:
+    speaker: k
+    en: This all probably boils down to a bumbling thief who's in over their head.
+    ko: 결국 지 주제도 모르는 도둑이나 그런 거겠지.
+    ja: |-
+      身の程をわきまえない
+      泥棒とかそういうのだろ。
+  d_ex_church_08_41:
+    speaker: k
+    en: The Forbidden Library has never been breached...
+    ko: 어차피 지금까지 금서고 보안이 완전히 뚫린 적은….
+    ja: |-
+      どうせ今まで禁書庫のセキュリティが
+      完全に突破されたことは…
+  d_ex_church_08_42:
+    speaker: k
+    en: Ugh. You're the reason that ridiculous name has gotten stuck in my head. I
+      wish you'd stop calling it that.
+    ko: 아이씨. 자꾸 금서고라고 하잖아, 너 때문에!
+    ja: |-
+      チッ。禁書庫って呼んじゃっただろ、
+      お前のせいで！
+  d_ex_church_08_43:
+    speaker: arcana
+    en: That's because it's so much easier to remember.
+    ko: 그게 더 입에 잘 붙으니까 그런 거 아닐까요?
+    ja: そっちの方が呼びやすくないですか？
+  d_ex_church_08_44:
+    speaker: arcana
+    en: It's certainly way better than Top-secret Archive. That's so clunky.
+    ko: 솔직히 막 특급 기밀 보관소! 이러면 너무 딱딱하기도 하고.
+    ja: |-
+      正直、機密保管庫！って
+      堅苦しいじゃないですか。
+  d_ex_church_08_45:
+    speaker: "<Self>"
+    en: You three seem to be getting along better.
+    ko: 요새 셋이 얘기 많이 하나 보네?
+    ja: よく3人で集まるのか？
+  d_ex_church_08_46:
+    speaker: arcana
+    en: Yeah, we’ve gotten more comfortable with each other. We even shoot the breeze
+      from time to time.
+    ko: 네. 전보다는 좀 편해져서 잡담도 많이 해요.
+    ja: |-
+      はい。前よりは打ち解けたし、
+      雑談もよくするんですよ。
+  d_ex_church_08_47:
+    speaker: d
+    en: There were a lot of things that needed adjusting because of you being granted
+      additional clearance.
+    ko: |-
+      네가 추가로 출입 허가를 받으면서
+      조율해야 할 부분이 많더군.
+    ja: |-
+      お前が出入りを許可されてから、
+      調整が必要なことが多いんだ。
+  d_ex_church_08_48:
+    speaker: k
+    en: There was? I didn't notice.
+    ko: 그런가? 신경 안 써서 잘 모르겠는데.
+    ja: |-
+      そうだっけ？
+      気にしてないからよく覚えてない～
+  d_ex_church_08_49:
+    speaker: "<Self>"
+    en: Wow, you're all practically buddies at this point.
+    ko: 와. 정말 사이좋아 보인다.
+    ja: 本当に仲がよさそうだな
+  d_ex_church_08_50:
+    speaker: "<Narration>"
+    en: "*Rustle*"
+    ko: 바스락-
+    ja: ガサッ
+  d_ex_church_08_51:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_church_08_52:
+    speaker: "<Monologue>"
+    en: We turn our heads at the sound coming from the corner.
+    ko: 그때, 구석에서 바스락 소리가 들려서 고개를 돌려 보니.
+    ja: |-
+      その時、奥からガサガサという音が聞こえ
+      振り返ると…
+  d_ex_church_08_53:
+    speaker: "<Narration>"
+    en: "*Squeak*"
+    ko: 찍찍.
+    ja: チューチュー
+  d_ex_church_08_54:
+    speaker: "<Monologue>"
+    en: A small mouse appears from who-knows-where.
+    ko: 어디서 들어왔는지, 작은 생쥐 한 마리가 보이….
+    ja: どこから入ってきたのか、小さなネズミが現れた
+  d_ex_church_08_55:
+    speaker: arcana
+    en: Gyaaaaaaaaaaah!
+    ko: 꺄아아아아아아아아아아악!!!!
+    ja: きゃあああっ！！！
+  d_ex_church_08_56:
+    speaker: "<Monologue>"
+    en: Arcana screams and clings to me.
+    ko: 아르카나는 비명을 지르며 내게 매달렸다.
+    ja: アルカナは悲鳴を上げながら私に抱きついた
+  d_ex_church_08_57:
+    speaker: arcana
+    en: Is that a mouse?!
+    ko: 쥐?! 저거 쥐죠!
+    ja: ネズミ！？あれってネズミですよね！？
+  d_ex_church_08_58:
+    speaker: arcana
+    en: D-do something!
+    ko: 어, 어떻게 좀 해봐요!
+    ja: ど、どうにかしてください！
+  d_ex_church_08_59:
+    speaker: "<Self>"
+    en: What do you want me to do?
+    ko: 어, 어?
+    ja: えっ？
+  d_ex_church_08_60:
+    speaker: "<Self>"
+    en: I'm sure D and K can handle it.
+    ko: 어차피 D랑 K가 알아서 해줄….
+    ja: DやKが対処して…
+  d_ex_church_08_61:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_08_62:
+    speaker: k
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_08_63:
+    speaker: "<Self>"
+    en: "... Or not."
+    ko: "…아니네?!"
+    ja: "…！？"
+  d_ex_church_08_64:
+    speaker: k
+    en: Hey, give us a break!
+    ko: 아니 뭐… 그런 게 있어.
+    ja: いや、まあ…そりゃね。
+  d_ex_church_08_65:
+    speaker: k
+    en: We’re girls too, you know.
+    ko: 우리도 일단 여자잖아?
+    ja: 私たちだって、一応女だし？
+  d_ex_church_08_66:
+    speaker: k
+    en: There's something about mice that disgusts females on a genetic level.
+    ko: 저 생물한테는, 여성의 혐오감을 유전자 단위에서부터 자극하는 무언가가 있다고.
+    ja: |-
+      あの生物には、女性の嫌悪感を
+      遺伝子レベルで刺激する何かがあるんだよ。
+  d_ex_church_08_67:
+    speaker: "<Self>"
+    en: Are you being serious?
+    ko: 그, 그런 거야??
+    ja: そ、そういうものなのか？
+  d_ex_church_08_68:
+    speaker: k
+    en: I'm not scared, mind you,
+    ko: 당연히 무서워하진 않지만.
+    ja: もちろん、怖くはないけどさ。
+  d_ex_church_08_69:
+    speaker: k
+    en: but I'm not trying to go anywhere near that thing either.
+    ko: 그렇다고 굳이 또 근처에 가고 싶지는 않달까….
+    ja: |-
+      だからといって、
+      わざわざ近づきたくはないっていうか…
+  d_ex_church_08_70:
+    speaker: d
+    en: Agreed.
+    ko: "…동의한다."
+    ja: "…同意する。"
+  d_ex_church_08_71:
+    speaker: "<Narration>"
+    en: "*Squeak*"
+    ko: 찍.
+    ja: チューチュー
+  d_ex_church_08_72:
+    speaker: arcana
+    en: Gah! It's coming this way!
+    ko: 꺄아아악!! 가, 가까이 오잖아요!
+    ja: きゃあああっ！！こ、こっちに来てます！
+  d_ex_church_08_73:
+    speaker: arcana
+    en: Hurry and do something!
+    ko: 빠, 빨리요!
+    ja: は、はやく！
+  d_ex_church_08_74:
+    speaker: "<Monologue>"
+    en: Arcana is still clinging tightly to me.
+    ko: "…아르카나는 여전히 내게 매달려 있고."
+    ja: "…アルカナは相変わらず私に抱きついたまま…"
+  d_ex_church_08_75:
+    speaker: k
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_08_76:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_08_77:
+    speaker: "<Monologue>"
+    en: Meanwhile, D and K slowly back away.
+    ko: D와 K는 슬금슬금 멀어지고 있다….
+    ja: DとKは徐々に私たちから遠ざかっている…
+  d_ex_church_08_78:
+    speaker: "<Choice>"
+    en: What do you expect me to do?
+    ko: 저, 저걸 어떻게 잡아야 되는데?!
+    ja: ど、どうやって捕まえればいいんだ！？
+  d_ex_church_08_79:
+    speaker: "<Choice>"
+    en: I'm scared too!
+    ko: 나, 나도 무섭다고!
+    ja: わ、私だって怖いんだ！
+  d_ex_church_08_80:
+    speaker: arcana
+    en: Why don't you two lend @UserName your weapons?
+    ko: 그, 두분 무기를 빌리면 되지 않을까요?!
+    ja: あの、お二人の武器を借りればいいのでは！？
+  d_ex_church_08_81:
+    speaker: "<Narration>"
+    en: "*Schnick*"
+    ko: 싸악.
+    ja: サーッ…
+  d_ex_church_08_82:
+    speaker: d
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_08_83:
+    speaker: k
+    en: What did you just say?!
+    ko: 너. 지금 뭐라고 했….
+    ja: お前。今、何て言っ…
+  d_ex_church_08_84:
+    speaker: "<Monologue>"
+    en: Arcana's suggestion causes D and K's tempers to flare.
+    ko: 아르카나의 말에 분위기가 날카로워졌던 D와 K는.
+    ja: |-
+      アルカナの発言により、
+      DとKの空気が一気に張り詰めたが
+  d_ex_church_08_85:
+    speaker: "<Narration>"
+    en: "*Squeak squeak squeak*"
+    ko: 찍찍찍.
+    ja: チューチュー、チューチュー
+  d_ex_church_08_86:
+    speaker: "<Narration>"
+    en: "*Step step*"
+    ko: 저벅. 저벅.
+    ja: サッ…
+  d_ex_church_08_87:
+    speaker: "<Monologue>"
+    en: As the mouse approaches, they calmly take two steps back.
+    ko: 생쥐가 다가오자 침착하게 두 걸음 물러났다.
+    ja: ネズミが近づくと、冷静に後ろに下がった
+  d_ex_church_08_88:
+    speaker: arcana
+    en: Gyah!
+    ko: 꺄아아악!!!
+    ja: きゃああっ！！
+  d_ex_church_08_89:
+    speaker: "<Self>"
+    en: Retreat!
+    ko: 후퇴! 이럴 땐 작전상 후퇴야!
+    ja: 撤退！こういう時は戦略的撤退だ！
+  d_ex_church_08_90:
+    speaker: "<Monologue>"
+    en: In the end, we carried out a "tactical retreat"
+    ko: 결국 우리는 전장에서 물러나,
+    ja: 結局、私たちは戦場から退き
+  d_ex_church_08_91:
+    speaker: "<Monologue>"
+    en: and decided to call for backup in the form of Happy Zoo.
+    ko: 해피 주 스쿼드에게 도움을 청하기로 했다….
+    ja: |-
+      ハッピーズー部隊に
+      協力を要請したのだった…
