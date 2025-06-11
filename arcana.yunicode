@@ -5,7 +5,7 @@ require 'yaml'
 M = %w[en ko ja].freeze
 S = { 'scene' => 3, 'sudden' => 5, 'archive' => 7 }.freeze
 
-R = -> { JSON.parse(File.read "#{it}.json") }
+R = -> { JSON.parse File.read "#{it}.json" rescue {} }
 A = -> { File.write "#{$*[0] || 'forbidden-library'}/#{_1}.yaml", _2.to_yaml }
 P = -> doro, &eden { (doro.is_a?(Hash) ? doro.to_a : doro.is_a?(Array) ? doro : []).flat_map { _2.nil? ? P[_1, &eden] : (_1['_localkey'] && (coo = eden[_1, _2]) ? [[_1, coo]] : []) + P[_2, &eden] } }
 U = -> { _2.is_a?(Hash) ? _2                       ['value']        : (_2.is_a?(String) && _2) }
