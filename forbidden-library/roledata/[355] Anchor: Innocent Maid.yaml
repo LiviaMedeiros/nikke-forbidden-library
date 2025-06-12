@@ -127,7 +127,7 @@ skill_name_1002:
 13553_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Storage: If the target obtained a healing effect that exceeds the character's Max HP, excess portion will be stored, up to {description_value_01}% of the caster's Max HP, lasts for {description_value_02} sec.
+    <color=#00AEFF>Storage: Stores excess healing received by the caster, up to {description_value_01}% of their max HP. Lasts for {description_value_02} sec.
     Recovers {description_value_03}% of caster's Max HP as HP.
     ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
   ko: |-

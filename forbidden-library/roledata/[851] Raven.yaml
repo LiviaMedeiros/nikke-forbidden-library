@@ -1,0 +1,730 @@
+---
+851_name:
+  en: Raven
+  ko: 레이븐
+  ja: レイヴン
+c851_description:
+  en: |-
+    A member of the 2nd Airborne Squad.
+    She left behind messages for later squads through a series of records called Legacies.
+  ko: |-
+    2차 강하 부대의 강하 부대원.
+    레거시를 통해 후속 부대에게 정보를 남겼다.
+  ja: |-
+    第2空挺部隊の隊員。
+    レガシーを通じて、後続の部隊に情報を残した。
+851_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_851:
+  en: Raven's Spare Body
+  ko: 레이븐 스페어 바디
+  ja: レイヴンのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+28512_name:
+  en: Blue Blade
+  ko: 푸른 칼날
+  ja: 青き刃
+28512_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF>Vital Attack: <word_group=10011>Damage to Parts</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>Vital Attack: <word_group=10011>Damage to Parts</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self if self is not in A.N. Mode status.
+    <color=#00AEFF>Single Point Attack: Sustained damage ▲ {description_value_03}% for {description_value_04} sec.
+    Removes Vital Attack.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[급소 공략 : <word_group=10011>파츠 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[급소 공략 : <word_group=10011>파츠 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 자신이 A.N. 모드가 아니라면 자신에게
+    <color=#00AEFF>[일점 공격 : 지속 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [급소 공략 삭제]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「急所攻略：<word_group=10011>パーツダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「急所攻略：<word_group=10011>パーツダメージ</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>自分がA.N.モードでなければ自分に
+    <color=#00AEFF>「一点集中：持続ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」
+    「急所攻略解除」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28511_name:
+  en: Shock Wave
+  ko: 쇼크웨이브
+  ja: ショックウェーブ
+28511_description:
+  en: |-
+    ■ Activates when performing Full Charge attacks. Affects 1 enemy unit nearest to the crosshair.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec, stacks up to {description_value_05} time(s) and lasts for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 조준선에 가장 가까운 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 지속 대미지] [1초 간격] [{description_value_05} 중첩] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 진입 시 자신에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、照準線に最も近い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の持続ダメージ」「1秒間隔」「{description_value_05}スタック」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイム発動時、自分に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18513_name:
+  en: Tempest
+  ko: 템페스트
+  ja: テンペスト
+18513_description:
+  en: |-
+    ■ Affects all enemies (including parts).
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Affects self.
+    <color=#00AEFF>A.N. Mode:
+    Effect 1: Removes Single Point Attack.
+    Effect 2: Sustained damage ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 적 전체에게(파츠 포함)
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[A.N. 모드] :
+    효과1 : [일점 공격 삭제]
+    효과2 : [지속 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■敵全体（パーツ含む）に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+    ■自分に
+    <color=#00AEFF>「A.N.モード」：
+    効果1：「一点集中解除」
+    効果2：「持続ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c851_Lobby_Touch_1:
+  en: |-
+    This world is so similar to mine.
+    No wonder it makes me sick.
+  ko: |-
+    너무 닮은 세계야.
+    그래서 구역질이 나.
+  ja: |-
+    私の世界とあまりにも似すぎている。
+    ヘドが出るな。
+c851_Lobby_Touch_2:
+  en: Heh, rust buckets like these have humans on the ropes. How painfully pathetic.
+  ko: |-
+    고철에게 패배한 인류인가….
+    크큭. 수준을 알만하군.
+  ja: |-
+    鉄くずに敗れた人類か…
+    ククッ。程度が知れるな。
+c851_Lobby_Touch_3:
+  en: I've stumbled into quite an irksome place.
+  ko: 칫… 성가신 곳에 떨어져서는….
+  ja: チッ…面倒な場所に来たものだ…
+c851_Lobby_Touch_Love_1:
+  en: |-
+    Revenge does not discriminate.
+    It is the greatest equalizer.
+  ko: |-
+    복수에 귀천은 없어.
+    모든 복수는 평등해.
+  ja: |-
+    復讐に貴賤はない。
+    すべての復讐は平等だ。
+c851_Lobby_Touch_Love_2:
+  en: |-
+    I will kill EVE and prove myself to him again.
+    This is what I must do.
+  ko: |-
+    이브를 죽이고 그분께 나를 다시 증명한다.
+    이게 내가 할 일이야.
+  ja: |-
+    イヴを始末し、もう一度あの方に認めてもらう。
+    これが私のすべきこと。
+c851_Lobby_Touch_Love_3:
+  en: |-
+    I need to go back.
+    There is something I must do there.
+  ko: |-
+    나는 돌아간다.
+    돌아가서 해야 할 일이 있어.
+  ja: |-
+    私は帰る。
+    すべきことがまだ残っているんだ。
+c851_Lobby_Stay_1:
+  en: |-
+    The air, the scenery...
+    Everything about this place gets on my nerves.
+  ko: "…공기며, 풍경이며, 짜증 나는 곳이군."
+  ja: "…空気も、景色も…腹立たしい場所だ。"
+c851_Lobby_Stay_Love_1:
+  en: |-
+    What a desolate place, with no traces of life.
+    I like it.
+  ko: |-
+    살아있는 거라곤 코빼기도 보이지 않아.
+    …고요해. 이건 맘에 들어.
+  ja: |-
+    生きているものは何一つ見当たらない。
+    …静かだ。それは気に入った。
+c851_Outpost_Touch_1:
+  en: |-
+    What is this place?
+    It's so noisy and bright. I hate it.
+  ko: |-
+    여긴 뭐냐.
+    밝고, 시끄럽군. 질색이다.
+  ja: |-
+    ここは何だ？明るくて、騒がしい。
+    うんざりする。
+c851_Outpost_Touch_2:
+  en: Hmmph. Just look at all these people prancing about.
+  ko: "…흥. 시시덕거리며 돌아다니는 꼴 하고는."
+  ja: |-
+    …ふんっ。
+    どいつもこいつも浮かれているな。
+c851_Outpost_Touch_3:
+  en: I'm going back. I don't belong here.
+  ko: 돌아간다. 여긴 내가 있을 곳이 아니야.
+  ja: |-
+    帰る。
+    ここは私がいるべき場所じゃない。
+c851_Gacha_Get_1:
+  en: Everything I do is for him.
+  ko: 모든 것은 그분을 위해.
+  ja: すべては、あの方のために。
+c851_Reinforce_1:
+  en: Is this growth... How long has it been since I've felt something like this?
+  ko: 성장인가… 얼마 만에 느끼는 감정인지.
+  ja: 成長か…久しぶりに感じる感覚だ。
+c851_Reinforce_2:
+  en: Hehe, yes, that's it. Give me more. More!
+  ko: 크큭. 그래. 더 내놔라. 더.
+  ja: ククッ。いいぞ。もっと寄越せ。もっとだ。
+c851_Reinforce_3:
+  en: Oh... Can I become stronger?
+  ko: 아아… 더 강해질 수 있는 건가.
+  ja: ああ…さらに強くなれるのか。
+c851_Gift_1:
+  en: I don't need this.
+  ko: 필요 없다.
+  ja: 必要ない。
+c851_Gift_2:
+  en: Get rid of this.
+  ko: 치워라.
+  ja: どけろ。
+c851_Gift_3:
+  en: What is this?
+  ko: 뭐야 이건.
+  ja: 何だ、これは。
+c851_Attractive_Up_1:
+  en: Hmm...
+  ko: "…흠."
+  ja: "…ふむ。"
+c851_Attractive_Up_2:
+  en: Bah. How useless.
+  ko: 칫. 쓸데없는 짓을.
+  ja: チッ。余計なマネを。
+c851_Attractive_Up_3:
+  en: Ha. You can try and flatter me all you want. It's no use.
+  ko: 크큭. 잘 보여봤자 콩고물 같은 건 없어.
+  ja: ククッ。ゴマをすったところで無駄だ。
+c851_Party_Deploy_1:
+  en: I draw my sword only in service to him.
+  ko: 나의 칼자루는 오직 그분뿐이다.
+  ja: 私を意のままにできるのは、あの方だけだ。
+c851_Field_Touch_1:
+  en: Don't touch me.
+  ko: 건드리지 마라.
+  ja: 触るな。
+c851_Field_Go_1:
+  en: Don't order me around, or I'll kill you.
+  ko: 명령하지 마라. 죽인다.
+  ja: 命令するな。命が惜しくないのか？
+c851_Battle_Enter_1:
+  en: Time to take out the garbage.
+  ko: 고철 사냥 시간이군.
+  ja: 鉄くず狩りの時間だ。
+c851_Battle_Ready_1:
+  en: I will crush them in an instant.
+  ko: 단숨에 박살 내주지.
+  ja: 一気に壊してやる。
+c851_Battle_Ready_2:
+  en: How annoying. Begone.
+  ko: 거슬린다. 꺼져라.
+  ja: 目障りだ。消えろ。
+c851_Battle_Ready_3:
+  en: Let's see just how strong these things are.
+  ko: 놈들의 힘을 확인해 볼까.
+  ja: 奴らの力を確認してみるか。
+c851_Reload_1:
+  en: Talk about spoiling the mood.
+  ko: 흥이 깨졌군.
+  ja: 興ざめだな。
+c851_Reload_2:
+  en: Bah, just when things were getting good.
+  ko: 칫, 한창 좋을 때에….
+  ja: チッ、一番いいところで…
+c851_Reload_3:
+  en: Patience. I'll slash you soon enough.
+  ko: 곧 베어 줄 테니 기다려라.
+  ja: すぐ斬ってやるから待て。
+c851_Ult_Skill_Ready_1:
+  en: Meet your doom!
+  ko: 마무리다…!
+  ja: トドメだ…！
+c851_Ult_Skill_1:
+  en: This is all for him!
+  ko: 모든 것은…! 그분을 위해…!
+  ja: すべては…！あの方のため…！
+c851_FullBurst_1:
+  en: Die!
+  ko: 죽어라!
+  ja: くらえ！
+c851_Kill_Monster_1:
+  en: Weak.
+  ko: 약해.
+  ja: 弱い。
+c851_Kill_Monster_2:
+  en: Pathetic.
+  ko: 하찮군.
+  ja: つまらん。
+c851_Kill_Monster_3:
+  en: Heh.
+  ko: 크큭.
+  ja: ククッ。
+c851_Damage_1:
+  en: Damn!
+  ko: 제길…!
+  ja: クソッ…！
+c851_Damage_2:
+  en: Urgh!
+  ko: 치잇…!
+  ja: ちっ…！
+c851_Damage_3:
+  en: Well done...!
+  ko: 잘도…!
+  ja: よくも…！
+c851_Die_1:
+  en: Has my blade been dulled?
+  ko: 검날이… 무뎌졌나…!
+  ja: 刃が…鈍ったか…！
+c851_Win_1:
+  en: How terribly unexciting.
+  ko: 시시한 일이었다.
+  ja: つまらん戦いだった。
+c851_02_Lobby_Touch_1:
+  en: |-
+    I'm experiencing all sorts of new things.
+    I can't believe another world exists... heh.
+  ko: |-
+    별 경험을 다 해보는군.
+    다른 세계라니. 크큭.
+  ja: |-
+    何が起きるか分からぬものだ。
+    まさか他の世界に来ようとは。ククッ。
+c851_02_Lobby_Touch_2:
+  en: |-
+    These Raptures are everywhere you turn.
+    They're such a nuisance.
+  ko: |-
+    랩쳐라는 것들은 성가시다.
+    너무 많아.
+  ja: |-
+    ラプチャーというものは厄介だ。
+    数が多すぎる。
+c851_02_Lobby_Touch_3:
+  en: |-
+    The Ark... humanity's last bastion.
+    It’s somewhat amusing to watch everyone struggle so hard to survive.
+  ko: |-
+    인류 최후의 보루… 방주.
+    아득바득 발버둥 치는 모습이 유쾌하군.
+  ja: |-
+    人類最後のとりで…アーク。
+    必死にもがく姿が、実にこっけいだ。
+c851_02_Lobby_Touch_Love_1:
+  en: Am I the only one who came?
+  ko: 온 것은 나뿐인가.
+  ja: ここに来たのは私だけか？
+c851_02_Lobby_Touch_Love_2:
+  en: |-
+    I'm glad those irksome individuals didn't tag along.
+    It gives me one less thing to worry about.
+  ko: |-
+    성가신 놈들이 같이 오지 않은 게 다행이야.
+    신경 쓸 일이 줄어들었으니.
+  ja: |-
+    面倒な奴らは来ていないようだ。
+    おかげで心配ごとが減った。
+c851_02_Lobby_Touch_Love_3:
+  en: I must return to his side.
+  ko: |-
+    돌아가야 해.
+    그분의 곁으로.
+  ja: |-
+    戻らなければ。
+    あのお方のおそばへ。
+c851_02_Lobby_Stay_1:
+  en: |-
+    This landscape is familiar, that's for sure.
+    Hehe, perhaps this world is worth exploring after all.
+  ko: |-
+    …익숙한 풍경이야.
+    크큭. 이 세계도 알만하군.
+  ja: |-
+    …見慣れた光景だ。
+    ククッ。この世界も大したことはないな。
+c851_02_Lobby_Stay_Love_1:
+  en: |-
+    The scent of wood and earth.
+    It's been so long.
+  ko: |-
+    이건… 나무와 흙냄새인가.
+    오랜만이군.
+  ja: |-
+    これは…木と土の匂いか。
+    久しぶりだな。
+c851_02_Outpost_Touch_1:
+  en: This place makes me uncomfortable.
+  ko: "…여긴 불편해."
+  ja: "…ここは居心地が悪い。"
+c851_02_Outpost_Touch_2:
+  en: |-
+    A man-made underground paradise...
+    I don't like it.
+  ko: |-
+    땅 아래 만들어진 인공 낙원….
+    마음에 안 들어.
+  ja: |-
+    地下に作られた人工の楽園…
+    気に入らない。
+c851_02_Outpost_Touch_3:
+  en: If I stay here any longer, I'm going to end up breaking everything.
+  ko: 더 있다간 모두 부숴버릴 것 같군.
+  ja: これ以上ここにいたら、 すべて壊してしまいそうだ。
+c851_02_Gacha_Get_1:
+  en: |-
+    I must kill EVE.
+    I cannot allow such a pathetic being to stand beside him.
+  ko: |-
+    이브를 죽인다.
+    그 딴 인형에게 그분의 곁을 내어줄 순 없어.
+  ja: |-
+    イヴを始末する。
+    あんな人形をあの方のそばには置けない。
+c851_02_Reinforce_1:
+  en: The greater the strength, the better.
+  ko: 힘은 강할수록 좋지.
+  ja: 力は強いほどいいだろう。
+c851_02_Reinforce_2:
+  en: |-
+    Did I surpass another limit?
+    Heh. How fun!
+  ko: |-
+    또 한계를 넘었나.
+    크큭. 즐겁군.
+  ja: |-
+    また限界を超えたか。
+    ククッ。愉快だ。
+c851_02_Reinforce_3:
+  en: With this strength, EVE is mine!
+  ko: 이 힘으로… 이브를…!
+  ja: この力で…イヴを…！
+c851_02_Gift_1:
+  en: I have no use for this.
+  ko: 나한텐 필요 없는 물건이다.
+  ja: 私には必要ないものだ。
+c851_02_Gift_2:
+  en: Quit giving me such pointless things.
+  ko: 쓸데없는 짓 하지 마라.
+  ja: 余計なマネをするな。
+c851_02_Gift_3:
+  en: Take it back.
+  ko: 다시 가져가.
+  ja: 持って帰れ。
+c851_02_Attractive_Up_1:
+  en: Hmm...
+  ko: "…흐음."
+  ja: "…ふむ。"
+c851_02_Attractive_Up_2:
+  en: Stop lingering around me.
+  ko: 얼쩡대지 마라.
+  ja: うろつくな。
+c851_02_Attractive_Up_3:
+  en: "... Don't come near me."
+  ko: "…나한테 다가오지 마."
+  ja: "…私に近寄るな。"
+c851_02_Party_Deploy_1:
+  en: Time to hunt.
+  ko: 사냥 시간인가.
+  ja: 狩りの時間か。
+c851_02_Field_Touch_1:
+  en: What is this?
+  ko: 뭐지.
+  ja: 何だ？
+c851_02_Field_Go_1:
+  en: I'll move when I want to. Leave me be.
+  ko: 알아서 움직일 테니 신경 꺼라.
+  ja: 私の行動に口を出すな。
+c851_02_Battle_Enter_1:
+  en: Let's start.
+  ko: 시작하지.
+  ja: 始めよう。
+c851_02_Battle_Ready_1:
+  en: The perfect time to kick back and relax.
+  ko: 심심풀이 정도로는 딱이겠군.
+  ja: 退屈しのぎにはもってこいだ。
+c851_02_Battle_Ready_2:
+  en: You're all nothing but heaps of scrap metal.
+  ko: 고철 덩어리들 주제에.
+  ja: 鉄くずの塊ごときが。
+c851_02_Battle_Ready_3:
+  en: Let me introduce you to death.
+  ko: 죽여주마.
+  ja: 覚悟しろ。
+c851_02_Reload_1:
+  en: Wait right there.
+  ko: 기다려라.
+  ja: 待て。
+c851_02_Reload_2:
+  en: Your life's extended for a few more seconds.
+  ko: 명줄이 길어졌군.
+  ja: 寿命が延びたな。
+c851_02_Reload_3:
+  en: Reloading.
+  ko: 재정비한다.
+  ja: 再整備する。
+c851_02_Ult_Skill_Ready_1:
+  en: Time to die.
+  ko: 자, 죽을 시간이다.
+  ja: さあ、終わりの時間だ。
+c851_02_Ult_Skill_1:
+  en: I will slice through all of you!
+  ko: 베어주마…! 모두 다!
+  ja: 斬ってやる…！何もかも！
+c851_02_FullBurst_1:
+  en: Heh! Struggle all you want!
+  ko: 크큭…! 발버둥 쳐라!
+  ja: ククッ…！あがいてみろ！
+c851_02_Kill_Monster_1:
+  en: Hindrance.
+  ko: 방해다.
+  ja: 邪魔だ。
+c851_02_Kill_Monster_2:
+  en: Get lost.
+  ko: 꺼져.
+  ja: 失せろ。
+c851_02_Kill_Monster_3:
+  en: Hmph.
+  ko: 흥.
+  ja: ふん。
+c851_02_Damage_1:
+  en: Ugh...!
+  ko: 으윽…!
+  ja: ううっ…！
+c851_02_Damage_2:
+  en: What the...?!
+  ko: 이게…!
+  ja: このっ…！
+c851_02_Damage_3:
+  en: Agh...!
+  ko: 크윽…!
+  ja: くっ…！
+c851_02_Die_1:
+  en: To face my downfall here... of all places!
+  ko: 이딴 곳에서…! 발목을 잡히다니…!
+  ja: こんな場所で…！足をすくわれるとは…！
+c851_02_Win_1:
+  en: I wasted my time. Moving on.
+  ko: 시간 낭비를 했군. 다음으로 간다.
+  ja: 時間を無駄にした。次に移る。
+851_cv_ja:
+  en: 'CV: Toa Yukinari'
+  ko: 'CV : 유키나리 토아'
+  ja: CV：行成とあ
+851_cv_ko:
+  en: 'CV: Kang Si-hyeon'
+  ko: 'CV : 강시현'
+  ja: CV：カン・シヒョン
+851_cv_en:
+  en: 'CV: Díana Bermudez'
+  ko: 'CV : 다이애나 베르무데스'
+  ja: CV：Díana Bermudez

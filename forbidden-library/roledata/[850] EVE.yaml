@@ -1,0 +1,1055 @@
+---
+850_name:
+  en: EVE
+  ko: 이브
+  ja: イヴ
+c850_description:
+  en: |-
+    A member of the 7th Airborne Squad.
+    Like other airborne squad members, she possesses outstanding physical abilities.
+    For some reason, she appears rather naive about the world.
+  ko: |-
+    7차 강하 부대의 강하 부대원.
+    강하 부대원답게 신체 능력이 매우 뛰어나다.
+    어째서인지 세상 물정에 어두운 모습을 보인다.
+  ja: |-
+    第7空挺部隊の隊員。
+    空挺部隊の兵士らしく、身体能力は非常に高いが
+    なぜか世間知らずな一面がある。
+850_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_850:
+  en: EVE's Spare Body
+  ko: 이브 스페어 바디
+  ja: イヴのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28502_name:
+  en: Eagle Eye-Type Exospine
+  ko: 이글아이 타입 엑소스파인
+  ja: イーグルアイエグゾスパイン
+28502_description:
+  en: "■ Activates when entering battle. Affects self.\n<color=#00AEFF>Eagle Eye-Type
+    Exospine.\nPrevious effects trigger repeatedly.\nATK ▲ {description_value_01}%
+    of caster's ATK continuously.\nMax Ammunition Capacity ▲ {description_value_02}%
+    continuously.</color>\n■ Activates when landing {description_value_03} normal
+    attack(s). Affects self if the target belongs to Electric Code. \n<color=#00AEFF>Reloads
+    {description_value_04} round(s).</color>"
+  ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[이글아이 타입 엑소스파인] [하위 효과 중복 적용]\n[시전자 기준 공격력 {description_value_01}%
+    ▲] [지속]\n[최대 장탄 수 {description_value_02}% ▲] [지속]</color>\n■ 일반 공격 {description_value_03}회
+    명중 시 대상이 전격 코드라면 자신에게 \n<color=#00AEFF>[탄환 충전 {description_value_04}발]</color>"
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「イーグルアイエグゾスパイン」「下位効果のスタック適用」
+    「スキル発動者基準で攻撃力{description_value_01}％▲」「持続」
+    「最大装弾数{description_value_02}％▲」「持続」</color>
+    ■通常攻撃が{description_value_03}回命中した時、対象が電撃コードなら自分に
+    <color=#00AEFF>「弾丸チャージ{description_value_04}発」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28501_name:
+  en: Impact-Type Exospine
+  ko: 임팩트 타입 엑소스파인
+  ja: インパクトエグゾスパイン
+28501_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF>Impact-Type Exospine: Critical rate ▲ {description_value_01}% continuously.</color>
+    ■ Activates when landing {description_value_06} critical hit(s). Affects random enemy unit(s).
+    <color=#00AEFF>Unstable Energy: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_03} time(s).</color>
+    ■ Activates when Unstable Energy hits the target. Affects the target if they belong to Electric Code.
+    <color=#00AEFF>Damage taken ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[임팩트 타입 엑소스파인 : 크리티컬 확률 {description_value_01}% ▲] [지속]</color>
+    ■ 크리티컬 {description_value_06}회 명중 시 무작위 적들에게
+    <color=#00AEFF>[불안정 에너지 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지] [{description_value_03}회 <word_group=10050>순차 공격</word_group>] </color>
+    ■ 불안정 에너지 명중 시 대상이 전격 코드라면 대상에게
+    <color=#00AEFF>[받는 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「インパクトエグゾスパイン：クリティカル確率{description_value_01}％▲」「持続」</color>
+    ■クリティカル攻撃が{description_value_06}回命中した時、ランダムな敵に
+    <color=#00AEFF>「不安定エネルギー：<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」「{description_value_03}回<word_group=10050>順番に攻撃</word_group>」</color>
+    ■不安定エネルギーが命中した時、対象が電撃コードなら対象に
+    <color=#00AEFF>「受けるダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18503_name:
+  en: Counter Chain
+  ko: 카운터 체인
+  ja: カウンターチェーン
+18503_description:
+  en: |-
+    ■ Affects random enemy.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s). </color>
+    ■ Affects self.
+    <color=#00AEFF>Exospine Mk2.
+    Function: Enhance Exospine
+    Lasts for: {description_value_03} sec
+    Triggers Impact-Type Exospine Mk2.
+    Effect: Damage multiplier of Unstable Energy sequential attacks is <word_group=10084>scaled</word_group> by 100%.
+    Triggers Eagle Eye-Type Exospine Mk2.
+    Effect: Damage multiplier of Eagle Eye-Type Exospine is <word_group=10084>scaled</word_group> by 100%.</color>
+  ko: |-
+    ■ 무작위 적들에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지] [{description_value_02}회 <word_group=10050>순차 공격</word_group>] </color>
+    ■ 자신에게
+    <color=#00AEFF>[엑소스파인 Mk2]
+    기능 : 엑소스파인 기능 향상
+    유지 시간 : {description_value_03}초
+    [임팩트 타입 엑소스파인 Mk2 적용]
+    효과 : 불안정 에너지 순차 공격 대미지 배율이 100% <word_group=10084>증가 상태로 변경</word_group>
+    [이글아이 타입 엑소스파인 Mk2 적용]
+    효과 : 이글 아이 타입 엑소스파인 공격력 증가 배율이 100% <word_group=10084>증가 상태로 변경</word_group> </color>
+  ja: |-
+    ■ランダムな敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」「{description_value_02}回<word_group=10050>順番に攻撃</word_group>」</color>
+    ■自分に
+    <color=#00AEFF>「エグゾスパインMk2」
+    機能：エグゾスパインの機能向上
+    維持時間：{description_value_03}秒
+    「インパクトエグゾスパインMk2適用」
+    効果：不安定エネルギーの順番に攻撃する効果のダメージ倍率を100％<word_group=10084>効果量に対し増加</word_group>
+    「イーグルアイエグゾスパインMk2適用」
+    効果：イーグルアイエグゾスパインの攻撃力増加倍率を100％<word_group=10084>効果量に対し増加</word_group> </color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c850_Lobby_Touch_1:
+  en: |-
+    So, the Ark is humanity's final stronghold.
+    Sounds similar to the Colony where we're from.
+  ko: |-
+    방주… 인류 최후의 터전.
+    우리 콜로니 같은 느낌일까?
+  ja: |-
+    アーク…人類最後の拠り所。
+    コロニーマトリックスと同じ感じかもしれない。
+c850_Lobby_Touch_2:
+  en: Fortunately, our weapons can take down Raptures, so we'll be able to help.
+  ko: |-
+    다행히 우리의 무기로도 랩쳐를 쓰러뜨릴 수 있어.
+    도움이 되겠네.
+  ja: |-
+    私たちの武器でもラプチャーを倒せる。
+    役に立てそうでよかった。
+c850_Lobby_Touch_3:
+  en: |-
+    There doesn't seem to be any obvious physical disparity between Nikkes and humans.
+    How do you tell them apart?
+  ko: |-
+    니케는 인간과 외형적으로 차이가 없는 것 같아.
+    너희는 어떻게 구분하고 있어?
+  ja: |-
+    見た目はニケも人間も同じみたい。
+    どうやって区別しているの？
+c850_Lobby_Touch_Love_1:
+  en: |-
+    Looks like we're both in very similar situations.
+    Let's stay strong and hang in there together.
+  ko: |-
+    너희와 우리는 비슷한 처지네.
+    서로 힘내자.
+  ja: |-
+    私たちは境遇が似てる。
+    お互い頑張ろう。
+c850_Lobby_Touch_Love_2:
+  en: Why do I work as hard as I do? Perhaps because I believe it's the right thing
+    to do.
+  ko: |-
+    왜 그렇게 열심히 하냐고?
+    글쎄. 그게 옳은 일이라고 믿으니까?
+  ja: |-
+    どうしてそこまで必死になるのかって？
+    さあ。それが正しいと信じているから？
+c850_Lobby_Touch_Love_3:
+  en: You don't always need a reason to help people.
+  ko: 사람을 돕는데 꼭 이유가 필요한 건 아니야.
+  ja: 人助けに理由はいらないと思う。
+c850_Lobby_Stay_1:
+  en: Wouldn't it be better to move, even a little, rather than just standing around
+    like this?
+  ko: 이렇게 있는 것보단 조금이라도 움직이는 게 좋지 않을까?
+  ja: じっとしているより、少しでも動いた方がいいと思う。
+c850_Lobby_Stay_Love_1:
+  en: "The music here isn't too bad either. \nTake your time—I'll just be here enjoying
+    it."
+  ko: |-
+    이곳의 음악도 괜찮네.
+    듣고 있을 테니 천천히 와.
+  ja: |-
+    ここの音楽も悪くない。
+    ここで聞いてるから、ゆっくり来て。
+c850_Outpost_Touch_1:
+  en: |-
+    So this is the Outpost.
+    May I take a look around?
+  ko: |-
+    이곳이 전초기지구나.
+    천천히 둘러봐도 될까?
+  ja: |-
+    ここが前哨基地…
+    ゆっくり見て回っても構わない？
+c850_Outpost_Touch_2:
+  en: |-
+    This place is quite impressive.
+    I can't believe it's entirely underground.
+  ko: |-
+    좋은 곳이야.
+    지하라는 게 믿어지지 않네.
+  ja: |-
+    いいところ。
+    地下だなんて信じられない。
+c850_Outpost_Touch_3:
+  en: "There's a waterfall underground? \nIncredible."
+  ko: |-
+    지하인데 폭포가 있어?
+    굉장하네.
+  ja: |-
+    地下に滝があるの？
+    すごい。
+c850_Gacha_Get_1:
+  en: |-
+    EVE from the Airborne Squad.
+    I will be joining you for a brief moment.
+  ko: |-
+    강하 부대원 이브.
+    잠시동안이겠지만 합류할게.
+  ja: |-
+    空挺部隊兵イヴ。
+    短い間だろうけど、合流する。
+c850_Reinforce_1:
+  en: |-
+    I can feel my strength surging through me.
+    What a familiar sensation.
+  ko: |-
+    힘이 솟아오르는 듯 한 이 느낌.
+    익숙한 감각이야.
+  ja: |-
+    力があふれ出すようなこの感じ。
+    覚えがある。
+c850_Reinforce_2:
+  en: It's fascinating. Who knew I could be this strong.
+  ko: 신기하네. 이렇게도 강해질 수 있구나.
+  ja: 不思議。こんな形でも強くなれる。
+c850_Reinforce_3:
+  en: |-
+    I feel good.
+    It’s making me want to move around.
+  ko: |-
+    기분 좋아.
+    몸을 좀 움직이고 싶어 졌어.
+  ja: |-
+    いい気分。
+    体を動かしたくなる。
+c850_Gift_1:
+  en: |-
+    Looks like a classified package, hidden under some kind of... camouflage?
+    But for camouflage... isn’t this a bit too flashy?
+  ko: |-
+    ...기밀 물품이구나. 위장막으로 내용물을 가려놨네.
+    그런데 위장막이 너무 화려하지 않을까?
+  ja: |-
+    …機密物品なのね。カモフラージュして中身を隠してある。
+    でもそのカモフラージュが、派手すぎない？
+c850_Gift_2:
+  en: |-
+    Thanks.
+    I will make sure to repay this kindness.
+  ko: |-
+    고마워.
+    이 호의에 꼭 보답할게.
+  ja: |-
+    ありがとう。
+    このお礼は必ず。
+c850_Gift_3:
+  en: |-
+    I don't have anything to give you in return,
+    so I will do my utmost to be of assistance.
+  ko: |-
+    나는 줄게 없는데….
+    최선을 다해 도울게.
+  ja: |-
+    私は何も渡せるものが…
+    全力でサポートするから。
+c850_Attractive_Up_1:
+  en: "You seem pretty used to strangers like us. \nThank you for being so welcoming."
+  ko: |-
+    우리 같은 이방인이 익숙한가 보네.
+    편하게 대해줘서 고마워.
+  ja: |-
+    私たちのような訪問者に慣れているみたい。
+    気軽に接してくれてありがとう。
+c850_Attractive_Up_2:
+  en: |-
+    Being a Commander must be tough,
+    having to spin so many plates at once.
+  ko: |-
+    고생이 많아.
+    지휘관은 아무래도 신경 쓸게 더 많을 테니까.
+  ja: |-
+    お疲れ様。
+    指揮官はやっぱり大変そう。
+c850_Attractive_Up_3:
+  en: |-
+    You all seem like good people.
+    I don't regret helping you one bit.
+  ko: |-
+    너희를 돕기로 결정한 걸 후회하지 않아.
+    너희는 좋은 사람들인 것 같거든.
+  ja: |-
+    あなたたちを助けると決めたこと、後悔していない。
+    良い人たちみたいだから。
+c850_Party_Deploy_1:
+  en: I'm ready to fight anytime.
+  ko: 싸울 준비는 언제든지 되어있어.
+  ja: いつでも戦う準備はできている。
+c850_Field_Touch_1:
+  en: I'm here.
+  ko: 응. 여기 있어.
+  ja: うん。ここにいる。
+c850_Field_Go_1:
+  en: I'll go over there.
+  ko: 저쪽으로 가볼게.
+  ja: あっちに行ってみる。
+c850_Battle_Enter_1:
+  en: Engaging the enemy.
+  ko: 전투 돌입.
+  ja: 戦闘開始。
+c850_Battle_Ready_1:
+  en: Let's begin.
+  ko: 시작할게.
+  ja: 始めよう。
+c850_Battle_Ready_2:
+  en: I'll do my best.
+  ko: 최선을 다해볼게.
+  ja: 全力で戦う。
+c850_Battle_Ready_3:
+  en: So these are the enemies of this world...
+  ko: 저것이 이 세계의 적….
+  ja: あれがこの世界の敵…
+c850_Reload_1:
+  en: Reloading.
+  ko: 재장전할게.
+  ja: リロードする。
+c850_Reload_2:
+  en: I'm out of ammo.
+  ko: 탄환이 떨어졌어.
+  ja: 弾が足りない。
+c850_Reload_3:
+  en: I'll join you soon, hang on.
+  ko: 금방 합류할 테니, 잠시만 부탁해.
+  ja: すぐ合流する、少しお願い。
+c850_Ult_Skill_Ready_1:
+  en: Going in for close combat!
+  ko: 접근전으로 갈게!
+  ja: 接近戦で行く！
+c850_Ult_Skill_1:
+  en: Let's finish this in one fell swoop!
+  ko: 이대로 단숨에…!
+  ja: このまま一気に…！
+c850_FullBurst_1:
+  en: This is it! Press the attack!
+  ko: 지금! 몰아붙이자!
+  ja: 今だ！追い込もう！
+c850_Kill_Monster_1:
+  en: Got them.
+  ko: 잡았어.
+  ja: 倒した。
+c850_Kill_Monster_2:
+  en: I'll keep moving.
+  ko: 계속 갈게.
+  ja: この調子で行こう。
+c850_Kill_Monster_3:
+  en: Good.
+  ko: 좋아.
+  ja: よし。
+c850_Damage_1:
+  en: Ugh...!
+  ko: 윽…!
+  ja: うっ…！
+c850_Damage_2:
+  en: Ah...!
+  ko: 큿…!
+  ja: くっ…！
+c850_Damage_3:
+  en: Urgh...!
+  ko: 아윽…!
+  ja: ぐはっ…！
+c850_Die_1:
+  en: I'm sorry, but I have to fall back!
+  ko: 미안…! 먼저 퇴각할게…!
+  ja: ごめんなさい…！先に退却する…！
+c850_Win_1:
+  en: All clear. Where do we go next?
+  ko: 전부 처리했어. 이제 어디로 가야 하지?
+  ja: 処理完了。次はどこに行けばいい？
+c850_02_Lobby_Touch_1:
+  en: |-
+    Living here isn't so bad.
+    The learning curve isn't too steep, and I think I'm adapting quite well.
+  ko: |-
+    지내기에는 나쁘지 않아.
+    새로 배울 것도 적고, 적응은 잘 되는 편이라 생각해.
+  ja: |-
+    居心地は悪くない。
+    新しく覚えることもあまりないし、うまく適応できていると思う。
+c850_02_Lobby_Touch_2:
+  en: |-
+    If I ever get the chance, I'd like to visit this place you call the Ark.
+    I'm curious what it's like over there.
+  ko: |-
+    시간이 된다면 방주라는 곳에도 가보고 싶어.
+    어떤 곳일지 궁금해.
+  ja: |-
+    時間があればアークという場所にも行ってみたい。
+    どんなところか気になる。
+c850_02_Lobby_Touch_3:
+  en: |-
+    You say these Raptures are infinite in number?
+    ... I see you suffer from that problem in this world as well.
+  ko: |-
+    랩쳐의 수는 무한하다고 했지?
+    …큰일이네. 여기도.
+  ja: |-
+    ラプチャーの数は無限なんでしょ？
+    …ここも大変。
+c850_02_Lobby_Touch_Love_1:
+  en: "I'm starting to get used to this place. \nMaybe that's because it's not so
+    different from our world?"
+  ko: |-
+    이곳도 조금 익숙해지는 것 같아.
+    우리 세계와 크게 다르지 않아서 그런가?
+  ja: |-
+    ここにも少し慣れてきたみたい。
+    私たちの世界とそんなに変わらないからかな。
+c850_02_Lobby_Touch_Love_2:
+  en: |-
+    There are ten million people left in the Ark?
+    That is a large enough number to dream of hope.
+  ko: |-
+    방주에 남은 인간의 수는 천만명….
+    그래도, 희망을 꿈꾸기엔 충분한 숫자야.
+  ja: |-
+    アークに残っている人間の数は1千万人…
+    それでも、希望のある数字ね。
+c850_02_Lobby_Touch_Love_3:
+  en: If the Raptures are infinite in number, then drastic measures must be taken
+    to turn the tide.
+  ko: |-
+    랩쳐는 무한….
+    그렇다면 뒤집을 수 있는 큰 한방이 필요하겠네.
+  ja: |-
+    ラプチャーは無限…
+    それなら、状況を覆すような切り札がいる。
+c850_02_Lobby_Stay_1:
+  en: Are you going to be away for long?
+  ko: 볼일이 길어지는 거야?
+  ja: 用事が長引いてるの？
+c850_02_Lobby_Stay_Love_1:
+  en: Is it all right if I take a look around while I'm waiting?
+  ko: 시간이 난 김에 주위를 둘러보고 싶은데, 괜찮을까?
+  ja: 時間があるならこの辺りを散策したい。いい？
+c850_02_Outpost_Touch_1:
+  en: |-
+    This place is very much its own self-contained miniature world.
+    While it may be diminutive, it has everything you need.
+  ko: |-
+    이곳은 작은 세계 같아.
+    규모의 차이는 있겠지만 필요한 건 모두 있어.
+  ja: |-
+    ここは小さな世界みたい。
+    規模の差はあれ、 必要なものは何でも揃ってる。
+c850_02_Outpost_Touch_2:
+  en: "Why are there no humans living here? \n... Ah, so Raptures attack this place
+    on occasion."
+  ko: |-
+    인간들은 왜 이곳에서 살지 않아?
+    …아. 랩쳐가 한 번씩 쳐들어오는구나.
+  ja: |-
+    どうして人間は ここで暮らさないの？
+    …ああ。ラプチャーが 時々襲ってくるからか。
+c850_02_Outpost_Touch_3:
+  en: |-
+    I don't mean to be a busybody, but you might want to consider fixing the elevator.
+    It rattles too much.
+  ko: 오지랖일지도 모르지만 엘리베이터는 고치는 게 좋을 것 같아. 너무 덜컹거려.
+  ja: |-
+    余計なお世話かもしれないけど、
+    エレベーターは 直した方がよさそう。 揺れが大きすぎる。
+c850_02_Gacha_Get_1:
+  en: |-
+    If you need me, call me anytime.
+    I want to repay you for all your help.
+  ko: |-
+    필요하면 얼마든지 불러줘.
+    너희들의 도움에 보답하고 싶어.
+  ja: |-
+    困っているならいつでも呼んで。
+    あなたたちに恩返しがしたい。
+c850_02_Reinforce_1:
+  en: |-
+    I'm overflowing with firepower.
+    I feel like I can do anything.
+  ko: |-
+    활력이 넘치고 있어.
+    뭐든 할 수 있을 것 같아.
+  ja: |-
+    エネルギーがあふれてる。
+    何でもできそう。
+c850_02_Reinforce_2:
+  en: I think it'll be possible to fight more efficiently.
+  ko: 좀 더 효율적인 전투가 가능하겠어.
+  ja: 効率的に戦えそう。
+c850_02_Reinforce_3:
+  en: |-
+    I will be right back.
+    There is a move I want to try.
+  ko: |-
+    잠깐 나갔다 올게.
+    해보고 싶은 동작이 있어.
+  ja: |-
+    ちょっと出かけてくる。
+    試してみたい動きがあって。
+c850_02_Gift_1:
+  en: |-
+    What clever camouflage... oh, wait, it's gift wrapping?
+    Hehe, well then, I'll be gentle when I open it. Thanks.
+  ko: |-
+    화려한 위장막... 이 아니라 포장이었지.
+    후후. 조심히 열어볼게. 고마워.
+  ja: |-
+    派手なカモフラージュ…じゃなくてラッピングか。
+    慎重に開けてみる。ありがとう。
+c850_02_Gift_2:
+  en: |-
+    Do you need anything?
+    Is there anything I can help with?
+  ko: |-
+    혹시 뭐 필요한 건 없어?
+    내가 도와줄 만한 일이라던가.
+  ja: |-
+    何か欲しいものはない？
+    手伝えそうなことでもいい。
+c850_02_Gift_3:
+  en: |-
+    Is this how you use it...?
+    No... At any rate, I'll figure it out.
+  ko: |-
+    이건… 어떻게 사용하는….
+    아냐. 내가 알아내볼게.
+  ja: |-
+    これは…どうやって使えば…
+    いや、自分で調べる。
+c850_02_Attractive_Up_1:
+  en: Your squadmates are so full of energy. It's nice to see.
+  ko: |-
+    동료들이 활기차네.
+    보기 좋아.
+  ja: |-
+    みんな元気。
+    微笑ましい。
+c850_02_Attractive_Up_2:
+  en: |-
+    You're a good person, Commander.
+    Keep doing what you're doing.
+  ko: |-
+    …지휘관은 좋은 사람이네.
+    부디 그 마음을 이어가줘.
+  ja: |-
+    …指揮官はいい人。
+    その心をずっと忘れないで。
+c850_02_Attractive_Up_3:
+  en: If I had more time, I think your squad and ours would have made a great team.
+  ko: |-
+    시간이 좀 더 있었다면,
+    우리랑 너희는 좋은 동료가 될 수 있었을 거야.
+  ja: もう少し時間があったら、私たちはいい仲間になれたはず。
+c850_02_Party_Deploy_1:
+  en: Roger. Heading in.
+  ko: 응. 내가 갈게.
+  ja: うん。私が行く。
+c850_02_Field_Touch_1:
+  en: Where should I go?
+  ko: 어디로 가면 될까?
+  ja: どこに行けばいい？
+c850_02_Field_Go_1:
+  en: I'll take lead.
+  ko: 앞장설게.
+  ja: 先頭に立つ。
+c850_02_Battle_Enter_1:
+  en: Let's go, everyone.
+  ko: 다들, 가자.
+  ja: みんな、行こう。
+c850_02_Battle_Ready_1:
+  en: We've got the drop on them.
+  ko: 선공을 잡았어.
+  ja: 先手を打つ。
+c850_02_Battle_Ready_2:
+  en: Position check. Let's go.
+  ko: 포지션 체크. 가보자.
+  ja: ポジションチェック。行ってみよう。
+c850_02_Battle_Ready_3:
+  en: This won't be a challenge.
+  ko: 고전할 만한 상대는 아니야.
+  ja: 苦戦するほどの相手じゃない。
+c850_02_Reload_1:
+  en: Cover me.
+  ko: 커버 부탁해.
+  ja: フォローをお願い。
+c850_02_Reload_2:
+  en: Reloading.
+  ko: 리로드.
+  ja: リロード。
+c850_02_Reload_3:
+  en: Pulling back for a moment.
+  ko: 잠시만 빠질게.
+  ja: 少し待ってて。
+c850_02_Ult_Skill_Ready_1:
+  en: This is our chance!
+  ko: 지금이 기회야…!
+  ja: 今がチャンス…！
+c850_02_Ult_Skill_1:
+  en: This is my territory!
+  ko: 여긴…! 내 거리야!
+  ja: ここは…！私が守る！
+c850_02_FullBurst_1:
+  en: Let's keep the momentum going!
+  ko: 기세가 넘어왔어! 가자!
+  ja: 流れが来た！行こう！
+c850_02_Kill_Monster_1:
+  en: I've got them.
+  ko: 내가 잡았어.
+  ja: 倒した。
+c850_02_Kill_Monster_2:
+  en: Target down. Next.
+  ko: 격추 확인. 다음.
+  ja: 撃墜を確認。次！
+c850_02_Kill_Monster_3:
+  en: Let's continue.
+  ko: 계속 가자.
+  ja: この調子でいこう。
+c850_02_Damage_1:
+  en: Tsk!
+  ko: 칫…!
+  ja: ちっ…！
+c850_02_Damage_2:
+  en: Ugh...!
+  ko: 크윽…!
+  ja: くっ…！
+c850_02_Damage_3:
+  en: No way...!
+  ko: 이런…!
+  ja: そんな…！
+c850_02_Die_1:
+  en: The rest is up to you...
+  ko: 뒤를 부탁할게…!
+  ja: 後はお願い…！
+c850_02_Win_1:
+  en: Good teamwork, everyone. Let's keep it up.
+  ko: 다들 좋은 연계였어. 다음에도 잘 부탁해.
+  ja: みんなうまく連携が取れてた。次もよろしく。
+c850_03_Lobby_Touch_1:
+  en: This is the first time I've been able to relax like this.
+  ko: 이렇게 여유 있게 쉬는 건 처음인 거 같아.
+  ja: こんなにゆっくり休むのは初めて。
+c850_03_Lobby_Touch_2:
+  en: |-
+    A bit of R&R is nice, but one must never forget their duty.
+    If there's anything you need, be sure to call me.
+  ko: |-
+    쉬는 것도 좋지만, 할 일을 잊어선 안 돼.
+    그러니 할 일이 있다면 꼭 불러줘.
+  ja: |-
+    休むのもいいけど、やるべきことを忘れちゃいけない。
+    だからもし任務があったら必ず呼んで。
+c850_03_Lobby_Touch_3:
+  en: Hmm... Is it all right for me to be sitting around like this?
+  ko: 음… 이러고 있어도 되나 싶을 정도네.
+  ja: うーん…本当に休んでていいの？
+c850_03_Lobby_Touch_Love_1:
+  en: "Would you like to sit beside me? \nIt's nice and cool over here."
+  ko: |-
+    아, 옆에 와서 앉을래?
+    시원하고 좋아.
+  ja: |-
+    あ、隣に座る？
+    涼しくて気持ちいい。
+c850_03_Lobby_Touch_Love_2:
+  en: So this is what it feels like to have time off. It's nice.
+  ko: 좋네. 쉰다는 건 이런 기분이구나.
+  ja: いい気分。休むってこういう感じなんだ。
+c850_03_Lobby_Touch_Love_3:
+  en: I might as well rest while I have the chance and worry about the rest later.
+  ko: |-
+    알겠어.
+    나중을 위해 눈치 보지 않고 푹 쉴게.
+  ja: |-
+    分かった。
+    今後のためにも、気にせずゆっくり休む。
+c850_03_Lobby_Stay_1:
+  en: Where did you go? It's a bit awkward relaxing on my own.
+  ko: "…어디 간 거야? 혼자 쉬려니 좀 민망한데."
+  ja: "…どこに行ったの？1人で休むのはちょっと恥ずかしい。"
+c850_03_Lobby_Stay_Love_1:
+  en: All right. Since I'm already here, I'll be patient and wait.
+  ko: 좋아. 이왕 이렇게 된 거 마음 편히 기다릴게.
+  ja: よし。せっかくだからのんびり待ってる。
+c850_03_Outpost_Touch_1:
+  en: This place is quite well-made. It's a great place for walks.
+  ko: |-
+    그냥 걷기만 해도 좋은 곳이야.
+    잘 만들어진 곳이네.
+  ja: |-
+    ただ散歩するだけでも 気持ちのいい場所。
+    よくできてる。
+c850_03_Outpost_Touch_2:
+  en: I've never been to a place with such hustle and bustle. How fun!
+  ko: |-
+    북적거리네.
+    이런 곳은 처음이야. 신기하고, 재밌어.
+  ja: |-
+    賑わってる。
+    こんな場所は初めて。 不思議で、面白い。
+c850_03_Outpost_Touch_3:
+  en: I wonder if there are any fish in the pool here... Probably not, right?
+  ko: 혹시 이곳의 수영장에 물고기는… 없겠지?
+  ja: もしかして、 ここのプールに魚は…いない？
+c850_03_Gacha_Get_1:
+  en: |-
+    I'm resting because I was told to...
+    But I wonder if I'm resting properly.
+  ko: |-
+    쉬라고 해서 쉬고는 있는데….
+    잘 쉬고 있는 거겠지?
+  ja: |-
+    休めって言われたから休んでるけど…
+    これでいいの？
+c850_03_Reinforce_1:
+  en: Even when I'm supposed to be resting, I must keep up my training.
+  ko: 휴식 중이라도 단련을 멈추면 안 돼.
+  ja: 休みだって、訓練を怠っちゃいけない。
+c850_03_Reinforce_2:
+  en: |-
+    I need to prepare for the big battle ahead.
+    Resting is part of that preparation.
+  ko: |-
+    다가올 큰 싸움을 위해 준비해야 해.
+    그걸 위한 휴식이고.
+  ja: |-
+    大きな戦いに備えて準備しないと。
+    これはそのための休憩なんだから。
+c850_03_Reinforce_3:
+  en: |-
+    All right, that should be enough.
+    I'm ready to set out anytime.
+  ko: |-
+    이 정도면 충분해.
+    언제든 갈 수 있어.
+  ja: これなら十分、いつでも行ける。
+c850_03_Gift_1:
+  en: |-
+    Thank you.
+    I'm sorry for always taking and never giving anything back.
+  ko: |-
+    고마워.
+    항상 받기만 해서 미안하네.
+  ja: |-
+    ありがとう。
+    いつももらってばかりでごめんなさい。
+c850_03_Gift_2:
+  en: I will treasure this.
+  ko: 이건 잘 간직할게.
+  ja: 大切にする。
+c850_03_Gift_3:
+  en: |-
+    Let me know if there is something you want.
+    I will do my utmost to obtain it.
+  ko: |-
+    가지고 싶은 게 있다면 말해줘.
+    인근에서 최대한 구해볼게.
+  ja: |-
+    欲しいものがあったら言って。
+    近くで探してみる。
+c850_03_Attractive_Up_1:
+  en: Come and sit for a while before you go.
+  ko: 와서 좀 앉아있다 가.
+  ja: あなたも少し休んでいって。
+c850_03_Attractive_Up_2:
+  en: |-
+    I never thought I would get to experience a world like this.
+    There is much to think about even after I return.
+  ko: |-
+    이 세계에서 이런 경험을 해볼 줄은 몰랐어.
+    돌아가서도 생각해 봐야겠네.
+  ja: |-
+    この世界でこんな体験をするなんて。
+    帰ってから考えてみなきゃ。
+c850_03_Attractive_Up_3:
+  en: Would you like something to drink?
+  ko: 마실 거라도 줄까?
+  ja: 飲み物でもいる？
+c850_03_Party_Deploy_1:
+  en: A battle? I'll get ready.
+  ko: 전투? 아, 준비할게.
+  ja: 戦闘？あ、準備する。
+c850_03_Field_Touch_1:
+  en: This is it.
+  ko: 여기야.
+  ja: ここだ。
+c850_03_Field_Go_1:
+  en: I think it's this way.
+  ko: 이쪽인 것 같네.
+  ja: こっちみたい。
+c850_03_Battle_Enter_1:
+  en: Engaging the enemy.
+  ko: 전투 개시.
+  ja: 戦闘開始。
+c850_03_Battle_Ready_1:
+  en: I need to loosen up. I'm a bit stiff.
+  ko: 굳은 몸을 풀어야겠어.
+  ja: 固まった体をほぐさないと。
+c850_03_Battle_Ready_2:
+  en: Work hard, play hard.
+  ko: 쉰 만큼, 열심히 할게.
+  ja: 休んだ分、頑張る。
+c850_03_Battle_Ready_3:
+  en: Time to resume my regular duties.
+  ko: 원래 일로 돌아갈 시간이야.
+  ja: 本来の任務に戻る時間だ。
+c850_03_Reload_1:
+  en: I'll join you shortly.
+  ko: 금방 합류할게, 잠시만.
+  ja: 待って、すぐに合流する。
+c850_03_Reload_2:
+  en: Oh no, the bullets...
+  ko: 이런, 탄환이….
+  ja: あっ、弾が…
+c850_03_Reload_3:
+  en: I've gotten a bit rusty.
+  ko: 그 사이 손이 굳은 건가….
+  ja: こんなもたつくなんて…
+c850_03_Ult_Skill_Ready_1:
+  en: Whew... I'm tired.
+  ko: 후우… 피곤하네.
+  ja: ふぅ…疲れた。
+c850_03_Ult_Skill_1:
+  en: Resting isn't so bad.
+  ko: 휴식이라는 거, 나쁘지 않네.
+  ja: 休みも、悪くない。
+c850_03_FullBurst_1:
+  en: Break time's over! Let's go!
+  ko: 쉬는 시간은 끝이야! 가자!
+  ja: 休み時間は終わり！行こう！
+c850_03_Kill_Monster_1:
+  en: Good.
+  ko: 좋아.
+  ja: よし。
+c850_03_Kill_Monster_2:
+  en: Not bad.
+  ko: 나쁘지 않아.
+  ja: 悪くない。
+c850_03_Kill_Monster_3:
+  en: Target eliminated.
+  ko: 격추 확인.
+  ja: 撃墜を確認。
+c850_03_Damage_1:
+  en: Ah...!
+  ko: 앗…!
+  ja: あっ…！
+c850_03_Damage_2:
+  en: Ugh...!
+  ko: 크읏…!
+  ja: くっ…！
+c850_03_Damage_3:
+  en: I let my guard down...!
+  ko: 방심을…!
+  ja: 油断した…！
+c850_03_Die_1:
+  en: "... Looks like I relaxed too much. Sorry."
+  ko: "…너무 풀어놓고 쉰 모양이야. 미안해."
+  ja: "…気を抜きすぎたみたい。ごめんなさい。"
+c850_03_Win_1:
+  en: When can we rest again?
+  ko: 그럼, 언제 또 쉴 수 있을까?
+  ja: さあ、次はいつ休める？
+850_cv_ja:
+  en: 'CV: Asami Seto'
+  ko: 'CV : 세토 아사미'
+  ja: CV：瀬戸麻沙美
+850_cv_ko:
+  en: 'CV: Yoon Eun-seo'
+  ko: 'CV : 윤은서'
+  ja: CV：ユン・ウンソ
+850_cv_en:
+  en: 'CV: Rebecca Hanssen'
+  ko: 'CV : 리베카 핸슨'
+  ja: CV：Rebecca Hanssen

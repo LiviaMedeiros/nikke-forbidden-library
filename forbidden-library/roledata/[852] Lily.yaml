@@ -1,0 +1,528 @@
+---
+852_name:
+  en: Lily
+  ko: 릴리
+  ja: リリー
+c852_description:
+  en: |-
+    An Engineering Support from the 5th Airborne Squad.
+    True to her role, she is skilled at maintaining the bodies and equipment of Airborne Squad members.
+  ko: |-
+    5차 강하 부대의 엔지니어링 서포터.
+    역할에 걸맞게, 강하 부대의 바디와 장비의 메인터넌스에 능통하다.
+  ja: |-
+    第5空挺部隊のエンジニア。
+    その役割に相応しく、空挺部隊のボディや装備の
+    メンテナンスに長けている。
+852_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_852:
+  en: Lily's Spare Body
+  ko: 릴리 스페어 바디
+  ja: リリーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+18522_name:
+  en: Emergency Repair
+  ko: 긴급 보수
+  ja: 緊急補修
+18522_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10017>Cover's HP recovers</word_group> by {description_value_01}%.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10017>엄폐물 체력 회복</word_group> {description_value_01}%]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10017>遮蔽物HP回復</word_group> {description_value_01}％」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+18521_name:
+  en: Precise Adjustment
+  ko: 정밀 조정
+  ja: 精密調整
+18521_description:
+  en: |-
+    ■ Affects 1 random ally unit.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
+  ko: |-
+    ■ 무작위 아군 1기에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■ランダムな味方1機に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18523_name:
+  en: The Best Engineer!
+  ko: 최고의 엔지니어!
+  ja: 最高のエンジニア！
+18523_description:
+  en: |-
+    ■ Affects 1 random ally unit whose cover has been destroyed.
+    <color=#00AEFF><word_group=10016>Rebuild Cover</word_group> with {description_value_01}% HP.
+    ATK ▲ {description_value_02}% of caster's ATK for {description_value_03} sec.</color>
+    ■ Affects 1 random ally unit if there is no ally unit whose cover has been destroyed.
+    <color=#00AEFF>ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
+  ko: |-
+    ■ 엄폐물이 파괴된 아군 무작위 1기에게
+    <color=#00AEFF>[엄폐물 체력 {description_value_01}%로 <word_group=10016>엄폐물 부활</word_group>]
+    [시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 엄폐물이 파괴된 아군이 없다면 무작위 아군 1기에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_04}% ▲][{description_value_05}초 유지]</color>
+  ja: |-
+    ■遮蔽物が破壊されたランダムな味方1機に
+    <color=#00AEFF>「遮蔽物HP{description_value_01}％で<word_group=10016>遮蔽物復活</word_group>」
+    「スキル発動者基準で攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■遮蔽物が破壊された味方がいない場合、ランダムな味方1機に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c852_Lobby_Touch_1:
+  en: |-
+    I can't believe I'm in another world!
+    I can experience all sorts of new things.
+  ko: |-
+    다른 세계에 오다니…
+    별 경험을 다 해보네요.
+  ja: |-
+    他の世界に来るなんて…
+    こんなことってあるんだね。
+c852_Lobby_Touch_2:
+  en: |-
+    Since this is a totally different world,
+    there must be all sorts of new technology as well.
+  ko: 새로운 세계니 새로운 기술도 잔뜩 있겠죠?
+  ja: 新しい世界なんだから、新しい技術もたくさんあるよね？
+c852_Lobby_Touch_3:
+  en: 'Leave all the mechanical stuff to me: maintenance, repairs, enhancements, you
+    name it. I’ve got it all covered.'
+  ko: |-
+    정비, 수리, 강화 등등 다 맡겨주세요.
+    그쪽 방면으로는 진짜 자신 있거든요.
+  ja: |-
+    整備・修理・強化！何でもお任せください。
+    そういうのなら自信あるんですよ。
+c852_Lobby_Touch_Love_1:
+  en: |-
+    The technology in this world isn't all that different from ours.
+    I knew it; technology progresses the same way, no matter what world you're in.
+  ko: |-
+    이 세계의 기술, 우리 쪽과 크게 다르지 않네요.
+    역시… 발전의 방향은 세계 상관없이 다 비슷한가 봐요.
+  ja: |-
+    この世界の技術って、あたしたちの世界とそんなに変わりませんね。
+    やっぱり…発展の方向性は世界共通みたいです。
+c852_Lobby_Touch_Love_2:
+  en: |-
+    Mother, I know you're up there protecting us.
+    Keep us safe, and allow us to return safely.
+  ko: |-
+    하늘에 계신 어머니.
+    우리가 무사히 돌아갈 수 있게 해 주세요.
+  ja: |-
+    天にまします我らの母よ。
+    あたしたちが無事に帰れるようお守りください。
+c852_Lobby_Touch_Love_3:
+  en: |-
+    There are Raptures, the Ark and Nikkes.
+    Seems like this world is in big trouble as well. Hang in there, everyone.
+  ko: |-
+    랩쳐에 방주에 니케에….
+    이 세계도 큰일이네요. 힘내요 우리.
+  ja: |-
+    ラプチャーに、アークに、ニケに…
+    この世界も大変ですね。一緒に頑張りましょう。
+c852_Lobby_Stay_1:
+  en: I'm boooooored.
+  ko: 으, 지루해….
+  ja: うぅ、退屈だよ…
+c852_Lobby_Stay_Love_1:
+  en: |-
+    Take your time with your errands.
+    I'm gonna go look around and see if anything needs fixing.
+  ko: |-
+    뭐, 근처에 손볼 게 없나 살펴보고 있을 테니까,
+    천천히 볼일 보세요.
+  ja: |-
+    近くで直せそうなものがないかチェックしてるので、
+    ゆっくりしててください。
+c852_Outpost_Touch_1:
+  en: |-
+    Whoa!
+    This whole place is underground?
+  ko: |-
+    오. 오오-!
+    지하에 이런 곳이 있었군요?
+  ja: |-
+    わあ～！
+    地下にこんな場所があったの？
+c852_Outpost_Touch_2:
+  en: |-
+    There's actual ground, an artificial sky, and even an artificial waterfall!
+    I'd love to know how it was all made.
+  ko: |-
+    지면에, 인공 하늘에, 인공 폭포까지….
+    어떻게 만든 건지 너무 궁금한데요.
+  ja: |-
+    地面に、人工の空に、 人工の滝まで…
+    どうやって作ったのか すごく気になります。
+c852_Outpost_Touch_3:
+  en: |-
+    And you said the Ark is way bigger than this place?
+    Wow! Now I'm really curious.
+  ko: |-
+    방주는 여기보다 훨씬 더 대규모라고 하셨죠?
+    아~ 궁금해라.
+  ja: |-
+    アークはここより ずっと大きいんですよね？
+    うぅ～気になる！
+c852_Gacha_Get_1:
+  en: |-
+    I am Lily Artemis II,
+    but just call me Lily.
+  ko: |-
+    릴리 아르테미스 2세예요.
+    릴리라고 불러주세요.
+  ja: |-
+    リリー・アルテミスII世です。
+    リリーって呼んでください。
+c852_Reinforce_1:
+  en: Wow... how does this work?
+  ko: 이건… 무슨 원리로 이렇게 되는 거죠?
+  ja: これ…どういう原理なんですか？
+c852_Reinforce_2:
+  en: |-
+    Could I learn more about this technology?
+    It's so tempting!
+  ko: |-
+    저 혹시, 이 기술 좀 알아볼 수 있을까요?
+    너무 탐나는데요.
+  ja: |-
+    あの、どういう仕組みなのか教えてくれませんか？
+    すっごく気になります。
+c852_Reinforce_3:
+  en: |-
+    I can't believe this.
+    I've gotten stronger without having to lift a finger.
+  ko: |-
+    손하나 까닥 안 하고 강해질 수 있다니.
+    이건 너무….
+  ja: |-
+    指一本動かさずに強くなれるなんて。
+    すごすぎる…
+c852_Gift_1:
+  en: "Wow! What is this? \nHow do you use it?"
+  ko: |-
+    와! 이건 뭔가요?
+    어떻게 사용하는 거죠?
+  ja: |-
+    わあ！これは何です？
+    どうやって使うんですか？
+c852_Gift_2:
+  en: |-
+    Hehe. Thank you.
+    I'll make good use of it.
+  ko: |-
+    헤헤. 고맙습니다.
+    잘 쓸게요.
+  ja: |-
+    えへへ。ありがとうございます。
+    大切に使いますね。
+c852_Gift_3:
+  en: Um... if it's not too rude, could I disassemble this?
+  ko: 저 혹시… 실례가 안 된다면 이거 분해 좀 해봐도 될까요?
+  ja: あの…もしよければ、分解してみてもいいですか？
+c852_Attractive_Up_1:
+  en: |-
+    I'm glad you're the ones I met here.
+    If I'd run into a bunch of villains, it would've been curtains for me.
+  ko: |-
+    이 세계에서 만난 사람이 여러분이라서 다행이에요.
+    악당을 만났으면 큰일 났겠죠?
+  ja: |-
+    この世界で会ったのが、みなさんでよかったです。
+    悪い人たちだったら、きっと大変でしたよね。
+c852_Attractive_Up_2:
+  en: I, Lily Artemis II, hereby offer my services to you all free of charge!
+  ko: 여러분에게는 이 릴리 아르테미스 2세의 노동력을 무상으로 제공하겠습니다!
+  ja: |-
+    みなさんには、このリリー・アルテミスII世の労働力を
+    無償でご提供します！
+c852_Attractive_Up_3:
+  en: I... I think that if we grow closer, it'll be more painful when we part ways.
+  ko: 으음… 더 친해지면 헤어질 때 괴로울 것 같은데요.
+  ja: |-
+    うーん…これ以上仲よくなったら、
+    お別れする時つらくなっちゃいそう。
+c852_Party_Deploy_1:
+  en: Huh? Me? But I'm not a member of the combat team...
+  ko: 어? 저요? 저는 전투 인원이 아닌데….
+  ja: え？あたし？あたしは戦闘員じゃないけど…
+c852_Field_Touch_1:
+  en: Y-yes!
+  ko: 예, 예!
+  ja: は、はい！
+c852_Field_Go_1:
+  en: Oh boy... I-I'll go...
+  ko: 아으, 가, 가볼게요!
+  ja: あう、い、行きます！
+c852_Battle_Enter_1:
+  en: Wh-whatever happens, happens!
+  ko: 어, 어떻게든 되겠지…!
+  ja: な、何とかなる、よね…！
+c852_Battle_Ready_1:
+  en: Whew... Heading in!
+  ko: 후우…! 갑니다!
+  ja: ふぅ…！行きます！
+c852_Battle_Ready_2:
+  en: P-prepare yourself!
+  ko: 가, 각오해라아…!
+  ja: か、覚悟しろぉ…！
+c852_Battle_Ready_3:
+  en: You've all got my back, right?
+  ko: 다들 도와주실 거죠?
+  ja: みなさん、サポートしてくださいね。
+c852_Reload_1:
+  en: To reload, you do... this!
+  ko: 리로드는… 이렇게!
+  ja: リロードは…こうやって！
+c852_Reload_2:
+  en: Stay calm...
+  ko: 침착하게…!
+  ja: 落ち着いて…！
+c852_Reload_3:
+  en: Reloading!
+  ko: 재장전할게요!
+  ja: リロードします！
+c852_Ult_Skill_Ready_1:
+  en: I'll go!
+  ko: 제가 갈게요!
+  ja: 行きます！
+c852_Ult_Skill_1:
+  en: This is my ultimate masterpiece!
+  ko: 이건 분명 제 최고의 걸작이에요!
+  ja: 間違いなくあたしの最高傑作です！
+c852_FullBurst_1:
+  en: Now! Do it now!
+  ko: 지금! 지금이에요!
+  ja: 今！今です！
+c852_Kill_Monster_1:
+  en: Oh?
+  ko: 오?
+  ja: あれ？
+c852_Kill_Monster_2:
+  en: I got it!
+  ko: 제가 잡았어요!
+  ja: あたしが倒しました！
+c852_Kill_Monster_3:
+  en: I-I did it!
+  ko: 돼, 됐다…!
+  ja: で、できた…！
+c852_Damage_1:
+  en: Ugh...!
+  ko: 으악…!
+  ja: うあっ…！
+c852_Damage_2:
+  en: Ahhh...!
+  ko: 꺄악…!
+  ja: きゃあ…！
+c852_Damage_3:
+  en: Ouch...!
+  ko: 아야…!
+  ja: いたっ…！
+c852_Die_1:
+  en: I-I told you! I'm not a member of the combat team!
+  ko: 그, 그러니까 저는 전투 인원이 아니라고…!
+  ja: だ、だからあたしは戦闘員じゃないってば…！
+c852_Win_1:
+  en: |-
+    Maybe... just maybe...
+    I have a talent for combat.
+  ko: |-
+    혹시요. 어쩌면 말이죠.
+    저는 전투에 재능이 있는 걸지도 몰라요.
+  ja: |-
+    もしかしたら…
+    あたしには戦闘の才能があるのかもしれません。
+852_cv_ja:
+  en: 'CV: Misato Matsuoka'
+  ko: 'CV : 마츠오카 미사토'
+  ja: CV：松岡美里
+852_cv_ko:
+  en: 'CV: Park Ri-na'
+  ko: 'CV : 박리나'
+  ja: CV：パク・リナ
+852_cv_en:
+  en: 'CV: Rosie Jones'
+  ko: 'CV : 로지 존스'
+  ja: CV：Rosie Jones

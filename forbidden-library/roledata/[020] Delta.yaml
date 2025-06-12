@@ -77,13 +77,13 @@ skill_name_1003:
   ja: リコレクション
 20201_description:
   en: |-
-    ■ Activates when hitting a target with Full Charge. Affects self.
+    ■ Activates when performing Full Charge attacks. Affects self.
     <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.</color>
   ko: |-
-    ■ 풀 차지 공격 명중 시 자신에게
+    ■ 풀 차지 공격 시 자신에게
     <color=#00AEFF>[최대 체력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
   ja: |-
-    ■フルチャージ攻撃が命中した時、自分に
+    ■フルチャージして攻撃した時、自分に
     <color=#00AEFF>「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」</color>
 skill_name_1002:
   en: Skill 1

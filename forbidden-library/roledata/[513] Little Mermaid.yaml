@@ -80,7 +80,7 @@ character_shot_description_localkey_smg_down:
     ■ <word_group=10078>아군이 소비한 탄의 총합</word_group>이 {description_value_07}발이 될 때 마다 무작위 적들에게
     <color=#00AEFF>[거품 난사 : <word_group=10025>최종</word_group> 공격력 {description_value_08}% 대미지] [{description_value_09}회 <word_group=10050>순차 공격</word_group>] </color>
   ja: |-
-    ■敵が登場した時に、対象に
+    ■敵が出現した時、対象に
     <color=#00AEFF>「バブル：受けるダメージ{description_value_01}％▲」
     「持続」</color>
     ■通常攻撃が{description_value_02}回命中した時、
