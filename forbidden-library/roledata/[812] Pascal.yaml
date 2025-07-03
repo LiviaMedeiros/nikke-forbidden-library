@@ -63,8 +63,10 @@ character_shot_description_localkey_rl_down:
     ■ 버스트 1단계 돌입 시 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[받는 체력 회복량 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
   ja: |-
-    ■バーストⅠに突入時、残りHPの値が最も低い味方{description_value_01}機に
-    <color=#00AEFF>「受けるHP回復量{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■バーストⅠに突入時、残りHPの値が
+    最も低い味方{description_value_01}機に
+    <color=#00AEFF>「受けるHP回復量{description_value_02}％▲」
+    「{description_value_03}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -101,7 +103,8 @@ skill_name_1002:
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
   ja: |-
     ■残りHPの値が最も低い味方{description_value_01}機に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_02}％回復」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

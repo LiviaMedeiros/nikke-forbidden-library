@@ -1,0 +1,545 @@
+---
+532_name:
+  en: Sora
+  ko: 소라
+  ja: ソラ
+c532_description:
+  en: |-
+    A Nikke from Over the Horizon.
+    She is responsible for ensuring the safety of all passengers on board.
+    She carries more items than necessary, perhaps in case of emergencies.
+  ko: |-
+    오버 더 호라이즌 소속 니케.
+    기내의 승객들의 안전을 지키는 승무원의 일을 담당하고 있다.
+    응급상황에 대비하기 위해서인지는 모르지만, 필요 이상의 많은 물품을 몸에 지니고 다닌다.
+  ja: |-
+    オーバー・ザ・ホライズン所属のニケ。
+    機内の乗客の安全を守る客室乗務員。
+    緊急事態に備えてなのか、必要以上の物資を携帯している。
+532_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_532:
+  en: Sora's Spare Body
+  ko: 소라 스페어 바디
+  ja: ソラのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+25322_name:
+  en: Secret Carry-On
+  ko: 비밀 수화물
+  ja: 秘密の手荷物
+25322_description:
+  en: |-
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies.
+    <color=#00AEFF>Storage: Stores excess healing received by the caster, up to {description_value_01}% of their max HP. Stacks up to {description_value_05} time(s) for {description_value_02} sec.
+    ATK ▲ {description_value_03}% of the caster's ATK for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 아군 전체에게
+    <color=#00AEFF>[저장 : 시전자 기준 최대 체력 {description_value_01}% 까지 초과 받는 체력 회복량 저장] [{description_value_05} 중첩] [{description_value_02}초 유지]
+    [시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分を含む味方の誰かが
+    <word_group=10052>パーツを破壊した時</word_group>味方全体に
+    <color=#00AEFF>「保存：スキル発動者基準で
+    最大HP{description_value_01}％まで超過するHP回復量保存」
+    「{description_value_05}スタック」「{description_value_02}秒間維持」
+    「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25321_name:
+  en: Boarding Procedure
+  ko: 탑승 수속
+  ja: 搭乗手続き
+25321_description:
+  en: |-
+    ■ Activates when entering battle. Affects self.
+    <color=#00AEFF>Potency of HP granted ▲ {description_value_01}% continuously.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[주는 체력 회복량 {description_value_01}% ▲] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「与えるHP回復量{description_value_01}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15323_name:
+  en: Closely Carried Secret
+  ko: 품 안의 비밀
+  ja: 胸の中の隠しごと
+15323_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> max HP as HP.
+    <word_group=10005>Dispels {description_value_02} debuff(s)</word_group>.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]
+    [<word_group=10005>해로운 효과 해제</word_group> {description_value_02}개]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_01}％回復」
+    「<word_group=10005>デバフ効果解除</word_group>{description_value_02}個」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c532_Lobby_Touch_1:
+  en: |-
+    Let me know if there's anything you need! ♥
+    I'll be as accommodating as I can.
+  ko: |-
+    원하는 게 있으면 다 말해보세요~♥
+    들어는 드릴게요.
+  ja: |-
+    してほしいことがあれば、何でも言ってくださいね～♥
+    聞いてあげるくらいはしますよ。
+c532_Lobby_Touch_2:
+  en: |-
+    Nothing can beat the joy of flying! ♥
+    It's the moment you're closest to the light.
+  ko: |-
+    비행하는 건 정말 즐겁죠♥
+    빛에 가장 가까워지는 순간이니까.
+  ja: |-
+    フライトって本当に楽しいですよね♥
+    光にいっちばん近づける瞬間なんですから。
+c532_Lobby_Touch_3:
+  en: |-
+    Trust is a precious thing! ★
+    Once it's lost, it can never be regained.
+  ko: |-
+    신뢰는 아주 소중한 거랍니다★
+    잃어버리는 순간, 복구가 불가능하니까?
+  ja: |-
+    信頼って、とっても大事なんですよ★
+    一度失ったら、取り戻せないんです。
+c532_Lobby_Touch_Love_1:
+  en: |-
+    Hehe, what should I bring from the surface today? ♥
+    Is there anything you'd like, Captain?
+  ko: |-
+    음흠흠~♥ 오늘은 지상에서 뭘 가져와 볼까나~
+    캡틴은 뭐 갖고 싶은 거 없으세요~?
+  ja: |-
+    フンフフン～♥今日は地上から何を持って帰ろうかな～？
+    キャプテンは何か欲しい物とかあります～？
+c532_Lobby_Touch_Love_2:
+  en: "Don't go telling anyone our secret, okay? \nIf you do, my jealousy might come
+    back and bite you! ★"
+  ko: |-
+    우리 사이의 비밀 꼭 지켜주기예요?
+    안 지키면~ 욕심 많은 제가 콱 물어버릴지도 몰라요★
+  ja: |-
+    私たちの秘密、絶対守ってくださいね？
+    じゃないと…欲張りな私が、ガブって噛んじゃうかも★
+c532_Lobby_Touch_Love_3:
+  en: |-
+    Oh no! Whatever shall I do?
+    You're just so magnificent, Captain! I wanna smuggle you straight to my room.
+  ko: |-
+    으아~ 어떻게 해요!
+    우리 캡틴이 너~무 빛나서, 확 제 방으로 밀반입해버리고 싶네?
+  ja: |-
+    あわわ、どうしましょう！
+    キャプテンが眩しすぎて、私の部屋に
+    こっそり隠しておきたくなっちゃった。
+c532_Lobby_Stay_1:
+  en: |-
+    Captain. Captain? Captain! Where did you go?
+    If you leave me alone any longer, I might go do something naughty.
+  ko: |-
+    캡틴~ 캡틴~? 캡틴! 어디 갔어요~
+    자꾸 방치하면 저 나쁜 짓 하러 가버릴지 몰라요~?
+  ja: |-
+    キャプテ～ン、キャプテ～ン？キャプテン！どこですか～？
+    私をほったらかしにすると、悪いコトしに行っちゃいますよ～？
+c532_Lobby_Stay_Love_1:
+  en: |-
+    Hmm, what should I do while I'm waiting? ★
+    Maybe I'll smuggle in some of my goodies!
+  ko: |-
+    자~ 그럼 기다리면서 뭘 해볼까나~★
+    여기에 몰래 내 소중한 물건을 밀반입 시켜볼까?
+  ja: |-
+    さーてと、待ってる間に何しようかな～★
+    私の大事なモノ、ここにこっそり持ち込んじゃう？
+c532_Outpost_Touch_1:
+  en: |-
+    Wow, this place gets such great sunlight!
+    I want this place to myself! ★
+  ko: |-
+    와~ 여긴 정말 빛이 잘 드는 좋은 곳이네요?
+    갖고 싶어라~★
+  ja: |-
+    わあ、ここは日当たりが良くていいですね。
+    欲しくなっちゃうな～★
+c532_Outpost_Touch_2:
+  en: |-
+    This place is closer to the surface than the Ark, isn't it?
+    Hmm... does that mean I can do as I please here?
+  ko: |-
+    생각해 보니까 방주보다 여기가 지상에서 더 가깝네요?
+    흐음~ 제가 좀 멋대로 사용해 봐도 될까요?
+  ja: |-
+    そういえば、アークよりこっちの方が地上に近いんですよね。
+    うーん…ちょっと好きに使わせてもらってもいいですか？
+c532_Outpost_Touch_3:
+  en: |-
+    Let's see, where should I hide my stuff? ♥
+    Oh! ★ Were you listening?
+  ko: |-
+    음흠흠~ 어디에 물건을 숨겨볼까나~♥
+    음★ 듣고 있으셨어요?
+  ja: |-
+    フンフフン～どこに隠そうかな～♥
+    あっ★聞こえちゃいました？
+c532_Gacha_Get_1:
+  en: |-
+    If I'm by your side, I'll get to see lots of cool stuff, won't I, Captain?
+    That sounds really fun! ★
+  ko: |-
+    캡틴 옆에 있으면, 좋은 물건들을 많~이 만나겠죠?
+    정말 즐겁겠네요~★
+  ja: |-
+    キャプテンと一緒にいれば、いい物にい～っぱい出会えますよね？
+    すっごく楽しそう～★
+c532_Reinforce_1:
+  en: Wow! ♥ I feel like I could fly!
+  ko: 와~♥ 하늘을 날 것만 같아요.
+  ja: すご～い♥空も飛べちゃいそう！
+c532_Reinforce_2:
+  en: I'll try to serve you even better! ★
+  ko: 좀 더 열심히 서비스해 드릴게요~★
+  ja: もっと心をこめてサービスしますね～★
+c532_Reinforce_3:
+  en: You're the best, Captain! ♥
+  ko: 우리 캡틴 최고~♥
+  ja: キャプテン、最高～♥
+c532_Gift_1:
+  en: |-
+    You're being so nice because you want something, right?
+    If you keep making my heart flutter like this, there's no telling what might happen next.
+  ko: |-
+    뭘 갖고 싶어서 이렇게 잘해주시지?
+    자꾸 이렇게 설레게 하면 나중에 큰일 날 텐데?
+  ja: |-
+    こんなに良くしてくれるなんて、何が目的なんだろう？
+    私をドキドキさせて、後で大変なことになっても知らないんだから。
+c532_Gift_2:
+  en: |-
+    Oh wow, you did something for me? ★
+    I suppose I'll have to return the favor later.
+  ko: |-
+    어머나, 제가 서비스를 받아버렸네요★
+    나중에 제대로 서비스해 드려야겠다.
+  ja: |-
+    あらら、私の方がサービスしてもらっちゃいました★
+    後でしっかりお返ししますね。
+c532_Gift_3:
+  en: |-
+    Wow, I've been wanting this for a while!
+    Thank you! ♥
+  ko: |-
+    와, 이거 엄청 갖고 싶었던 건데!
+    감사해요~♥
+  ja: |-
+    わあ、これすっごく欲しかったんです！
+    ありがとうございます～♥
+c532_Attractive_Up_1:
+  en: |-
+    What should I do? ♥ You keep being so nice to me!
+    It makes me want to give in to my greed and smuggle you away, Captain.
+  ko: |-
+    어떡해요♥ 이렇게 자꾸 잘해주니까~
+    욕심 많은 제가 캡틴을 밀수해 가고 싶어지잖아요.
+  ja: |-
+    どうしよう♥いつも良くしてもらってるから…
+    欲張りな私は、キャプテンのことを
+    こっそり連れ去りたくなっちゃいました。
+c532_Attractive_Up_2:
+  en: |-
+    I lost something precious, and I think you've made off with it.
+    Mind if I frisk you? Teehee! ♥
+  ko: |-
+    제가 잃어버린 소중한걸… 밀반입해가신 것 같은데,
+    그 몸 좀 잠시 검문해 봐도 될까요♥
+  ja: |-
+    私が失くした大事な物…キャプテンがこっそり持ってたんですか？
+    ちょっとボディチェックさせてもらいまーす♥
+c532_Attractive_Up_3:
+  en: |-
+    Now that we're this close,
+    how about we take things to the next level? ♥
+  ko: "이렇게 가까워졌으니… \n같이 위험하고 재미있는 거 해보지 않을래요♥"
+  ja: |-
+    こんなに仲良くなったんだし…
+    一緒にアブなくて楽しいこと、しませんか♥
+c532_Party_Deploy_1:
+  en: Were you looking for me? ♥
+  ko: 절 찾으셨나요~♥
+  ja: お呼びでしょうか～♥
+c532_Field_Touch_1:
+  en: Yes, Captain! ♥
+  ko: 네~ 캡틴♥
+  ja: はーい、キャプテン♥
+c532_Field_Go_1:
+  en: Let's fly to the target area! ★
+  ko: 목표 지역까지 날아가 볼까요~★
+  ja: 目的地まで飛んでいきましょう～★
+c532_Battle_Enter_1:
+  en: Obstacle, incoming! ♥
+  ko: 장해물, 옵니다~♥
+  ja: 障害物、来ま～す♥
+c532_Battle_Ready_1:
+  en: All passengers, we're experiencing some turbulence! ★
+  ko: 승객분들은 흔들림에 주의하세요~★
+  ja: 機体が揺れますので、ご注意ください～★
+c532_Battle_Ready_2:
+  en: Better keep my eyes peeled for anything enticing! ♥
+  ko: 탐나는 물건이 있는지 스캔해 볼게요~♥
+  ja: めぼしい物はないか、スキャンしますね～♥
+c532_Battle_Ready_3:
+  en: I wonder if there's anything valuable I can pick up?
+  ko: 돈 될만한 걸 주워갈 수 있을까나~?
+  ja: 金目のモノ、どこかに落ちてないかな～？
+c532_Reload_1:
+  en: Where did I put those mags... Oh, here they are!
+  ko: 탄창을 어디에 뒀더라… 아, 여깄다!
+  ja: 弾倉、弾倉っと…あった！
+c532_Reload_2:
+  en: It's taking longer than I thought. I'll try a bit harder! ♥
+  ko: 생각보다 오래 걸리네? 좀 더 힘내볼게요♥
+  ja: 思ったより時間がかかるなぁ…もっと頑張りますね♥
+c532_Reload_3:
+  en: Darn, do I have to keep fighting? This stinks.
+  ko: 아… 좀 더 싸워야 하네? 귀찮게.
+  ja: あーあ、まだ戦わなきゃダメ？めんどくさ。
+c532_Ult_Skill_Ready_1:
+  en: Captain! ♥
+  ko: 캡틴~♥
+  ja: キャプテ～ン♥
+c532_Ult_Skill_1:
+  en: The stronger the light, the darker the shadow! Don't you think? ♥
+  ko: 빛이 강할수록 어둠도 짙어지는 법… 아니겠어요♥
+  ja: 光が眩しければ眩しいほど、闇もまた濃くなるもの…だよね♥
+c532_FullBurst_1:
+  en: Everyone, we're clear for takeoff! ★
+  ko: 다들~ 신나게 날아볼까~★
+  ja: みんな～楽しく飛んでみよ～う★
+c532_Kill_Monster_1:
+  en: Awesome! Got some great loot! ★
+  ko: 좋은 부품 Get~★
+  ja: いい部品、ゲット～★
+c532_Kill_Monster_2:
+  en: Nice shot! ★
+  ko: 나이스 샷~★
+  ja: ナイスショット～★
+c532_Kill_Monster_3:
+  en: Annoying little creatures...
+  ko: 귀찮게 굴고 있어.
+  ja: 手こずらせてくれたじゃない。
+c532_Damage_1:
+  en: Ouch! ♥
+  ko: 아얏♥
+  ja: いたっ♥
+c532_Damage_2:
+  en: That hurt.
+  ko: "…아프네?"
+  ja: "…痛い。"
+c532_Damage_3:
+  en: Ngh! ♥
+  ko: 읏♥
+  ja: うっ♥
+c532_Die_1:
+  en: Darn... Looks like I can't get that loot I wanted. Bummer! ♥
+  ko: 칫… 저 부품은 못 가져가겠네… 미안해요♥
+  ja: ちぇっ…あの部品、持って帰りたかったのに…ごめんなさい♥
+c532_Win_1:
+  en: Woohoo! Since we won, can I take a few souvenirs as a reward? ♥
+  ko: 와~♥ 이겼으니까~ 수고비로 이것저것 챙겨가도 되죠♥
+  ja: わーい♥勝ったご褒美に、色々持って帰ってもいいですよね♥
+532_cv_ja:
+  en: 'CV: Kaoru Sakura'
+  ko: 'CV : 사쿠라 카오루'
+  ja: CV：佐倉薫
+532_cv_ko:
+  en: 'CV: Kim Chae-rin'
+  ko: 'CV : 김채린'
+  ja: CV：キム・チェリン
+532_cv_en:
+  en: 'CV: Cassandra Lee Morris'
+  ko: 'CV : 커샌드라 모리스'
+  ja: CV：Cassandra Lee Morris

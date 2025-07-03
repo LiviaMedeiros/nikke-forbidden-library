@@ -102,7 +102,7 @@ skill_name_1003:
 24121_description:
   en: |-
     ■ Activates after Full Burst ends. Affects all allies.
-    <color=#00AEFF>Constantly recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
+    <color=#00AEFF>Continuously recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
     ■ Activates when attacking with Full Charge. Affects the target(s) if the HP of {description_value_04} ally unit(s) with the lowest HP percentage is lower than {description_value_03}%.
     <color=#00AEFF>Recovers {description_value_05}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
     ■ Activates when attacking with Full Charge. Affects the target(s) if the HP of {description_value_07} ally unit(s) with the lowest HP percentage is lower than {description_value_06}%.
@@ -115,10 +115,9 @@ skill_name_1003:
     ■ 풀 차지 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_07}기가 체력 {description_value_06}% 이하라면 대상에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_08}% 회복]</color>
   ja: |-
-    ■フルバーストタイムが終了した時、
-    味方全体に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％
-    持続回復」「1秒間隔」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが終了した時、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％持続回復」「1秒間隔」
+    「{description_value_02}秒間維持」</color>
     ■フルチャージして攻撃した時、残りのHPの割合が最も低い味方{description_value_04}機がHP{description_value_03}％以下なら、対象に<color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
     {description_value_05}％回復」</color>
     ■フルチャージして攻撃した時、残りのHPの割合が最も低い味方{description_value_07}機がHP{description_value_06}％以下なら、対象に
