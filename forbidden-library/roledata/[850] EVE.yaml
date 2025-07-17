@@ -80,26 +80,27 @@ skill_name_1003:
   en: Impact-Type Exospine
   ko: 임팩트 타입 엑소스파인
   ja: インパクトエグゾスパイン
-28501_description:
+28501_description_1:
   en: |-
     ■ Activates when entering battle. Affects self.
-    <color=#00AEFF>Impact-Type Exospine: Critical rate ▲ {description_value_01}% continuously.</color>
-    ■ Activates when landing {description_value_06} critical hit(s). Affects random enemy unit(s).
+    <color=#00AEFF>Impact-Type Exospine: Critical Rate ▲ {description_value_01}% continuously.</color>
+    ■ Activates after landing {description_value_06} critical hit(s) with normal attacks. Affects random enemy unit(s).
     <color=#00AEFF>Unstable Energy: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_03} time(s).</color>
-    ■ Activates when Unstable Energy hits the target. Affects the target if they belong to Electric Code.
-    <color=#00AEFF>Damage taken ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates when Unstable Energy hits the target(s). Affects the target(s) if they belong to Electric Code.
+    <color=#00AEFF>Damage Taken ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[임팩트 타입 엑소스파인 : 크리티컬 확률 {description_value_01}% ▲] [지속]</color>
-    ■ 크리티컬 {description_value_06}회 명중 시 무작위 적들에게
+    ■ 일반 공격 크리티컬 {description_value_06}회 명중 시 무작위 적들에게
     <color=#00AEFF>[불안정 에너지 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지] [{description_value_03}회 <word_group=10050>순차 공격</word_group>] </color>
     ■ 불안정 에너지 명중 시 대상이 전격 코드라면 대상에게
     <color=#00AEFF>[받는 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
   ja: |-
     ■戦闘開始時、自分に
     <color=#00AEFF>「インパクトエグゾスパイン：クリティカル確率{description_value_01}％▲」「持続」</color>
-    ■クリティカル攻撃が{description_value_06}回命中した時、ランダムな敵に
-    <color=#00AEFF>「不安定エネルギー：<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」「{description_value_03}回<word_group=10050>順番に攻撃</word_group>」</color>
+    ■通常攻撃が{description_value_06}回クリティカル命中した時、ランダムな敵に
+    <color=#00AEFF>「不安定エネルギー：<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」
+    「{description_value_03}回<word_group=10050>順番に攻撃</word_group>」</color>
     ■不安定エネルギーが命中した時、対象が電撃コードなら対象に
     <color=#00AEFF>「受けるダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
 skill_name_1002:

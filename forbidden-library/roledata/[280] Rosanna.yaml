@@ -100,7 +100,8 @@ skill_name_1003:
     ■通常攻撃が{description_value_01}回命中した時、自分に
     <color=#00AEFF>「隠れ身：<word_group=10004>単一攻撃対象から除外</word_group>
     直接攻撃を受けると解除」「{description_value_02}秒間維持」
-    「クリティカル確率{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    「クリティカル確率{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
     ■通常攻撃が{description_value_05}回命中した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_06}機に
     <color=#00AEFF>「<word_group=10022>バフ効果解除</word_group>{description_value_07}個」「戦闘中{description_value_08}回発動」</color>
 skill_name_1002:

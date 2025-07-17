@@ -77,19 +77,19 @@ skill_name_1003:
   en: Pirate's Grit
   ko: 해적의 근성
   ja: 海賊の根性
-23501_description:
+23501_description_1:
   en: |-
-    ■ Activates when crit attack hits {description_value_01} time(s). Affects the target(s).
+    ■ Activates after landing {description_value_01} critical hit(s) with normal attacks. Affects the target(s).
     <color=#00AEFF>Sea Breeze: DEF ▼ {description_value_02}% of the caster's DEF, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
-    ■ Activates when HP falls below {description_value_05}%. Affects self and {description_value_06} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except caster).
+    ■ Activates when HP falls below {description_value_05}%. Affects self and {description_value_06} other ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except caster).
     <color=#00AEFF>Critical Damage ▲ {description_value_07}% continuously.</color>
   ko: |-
-    ■ 크리티컬 {description_value_01}회 명중 시 대상에게
+    ■ 일반 공격 크리티컬 {description_value_01}회 명중 시 대상에게
     <color=#00AEFF>[해풍 : 시전자 기준 방어력 {description_value_02}% ▼] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>
     ■ 자신의 체력이 {description_value_05}% 이하일 때 한하여 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_06}기에게
     <color=#00AEFF>[크리티컬 대미지 {description_value_07}% ▲] [지속]</color>
   ja: |-
-    ■クリティカル攻撃が{description_value_01}回命中した時、対象に
+    ■通常クリティカル攻撃が{description_value_01}回命中した時、対象に
     <color=#00AEFF>「海風：スキル発動者基準で防御力{description_value_02}％▼」
     「{description_value_03}スタック」「{description_value_04}秒間維持」</color>
     ■自分のHPが{description_value_05}％以下の時に限り、

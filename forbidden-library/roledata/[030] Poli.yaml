@@ -63,9 +63,11 @@ character_shot_description_localkey_sg_down:
     <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]
     [<word_group=10044>받는 대미지 균등 분배</word_group>] [{description_value_04}초 유지]</color>
   ja: |-
-    ■自分と自分を除く残りHPの値が最も低い味方{description_value_01}機に
+    ■自分と自分を除く残りHPの値が
+    最も低い味方{description_value_01}機に
     <color=#00AEFF>「防御力{description_value_02}％▲」「{description_value_03}秒間維持」
-    「<word_group=10044>受けるダメージ均等分配</word_group>」「{description_value_04}秒間維持」</color>
+    「<word_group=10044>受けるダメージ均等分配</word_group>」
+    「{description_value_04}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2

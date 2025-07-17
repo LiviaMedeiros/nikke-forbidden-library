@@ -494,3 +494,120 @@
     en: Burst Skill
     ko: 버스트 스킬
     ja: バーストスキル
+201001:
+  name:
+    en: That's a Good Boy
+    ko: 도그 테라피
+    ja: ドッグセラピー
+  description:
+    en: |-
+      ■ Affects self and {description_value_01} other ally unit(s) with the lowest HP every {description_value_05} sec.
+      <color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03} sec.
+      <word_group=10044>Equally shares damage taken</word_group> for {description_value_04} sec.</color>
+      ■ Activates when Police Badge ends. Affects self.
+      <color=#00AEFF>Continuously recovers {description_value_06}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_07} sec.</color>
+    ko: |-
+      ■ {description_value_05}초 마다 자신과 자신을 제외한 체력이 가장 낮은 아군 {description_value_01}기에게
+      <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]
+      [<word_group=10044>받는 대미지 균등 분배</word_group>] [{description_value_04}초 유지]</color>
+      ■ 폴리스 뱃지 상태 종료 시 자신에게
+      <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_06}% 지속 회복] [1초 간격] [{description_value_07}초 유지]</color>
+    ja: |-
+      ■{description_value_05}秒ごとに自分と自分を除く
+      HPが最も低い味方{description_value_01}機に
+      <color=#00AEFF>「防御力{description_value_02}％▲」「{description_value_03}秒間維持」
+      「<word_group=10044>受けるダメージ均等分配</word_group>」「{description_value_04}秒間維持」</color>
+      ■ポリスバッジ状態が終了した時、自分に
+      <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+      {description_value_06}％持続回復」「1秒間隔」「{description_value_07}秒間維持」</color>
+  info_description:
+    en: Skill 2
+    ko: 스킬2
+    ja: スキル2
+201101:
+  name:
+    en: Modification Successful
+    ko: 개조 성공
+    ja: 改造成功
+  description:
+    en: |-
+      ■ Only activates when Temporary Modification is fully stacked. Affects all allies.
+      <color=#00AEFF>Critical Rate ▲ {description_value_01}% continuously.</color>
+      ■ Only activates when Temporary Modification is fully stacked. Affects all shotgun-wielding allies.
+      <color=#00AEFF>Attack Speed ▲ {description_value_02}% continuously.</color>
+    ko: |-
+      ■ 자신이 임시 개조가 최대 중첩 상태일 때 한하여 아군 전체에게
+      <color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [지속]</color>
+      ■ 자신이 임시 개조가 최대 중첩 상태일 때 한하여 샷건 소지 아군 전체에게
+      <color=#00AEFF>[공격 속도 {description_value_02}% ▲] [지속]</color>
+    ja: |-
+      ■自分が応急改造のフルスタック時のみ、
+      味方全体に
+      <color=#00AEFF>「クリティカル確率{description_value_01}％▲」「持続」</color>
+      ■自分が応急改造のフルスタック時のみ、
+      ショットガンを所持する味方全体に
+      <color=#00AEFF>「攻撃速度{description_value_02}％▲」「持続」</color>
+  info_description:
+    en: Skill 2
+    ko: 스킬2
+    ja: スキル2
+201201:
+  name:
+    en: Climax
+    ko: 클라이맥스
+    ja: クライマックス
+  description:
+    en: |-
+      ■ Affects random enemies.
+      <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s).</color>
+      ■ Activates when Crescendo is fully stacked. Affects the same target.
+      <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+    ko: |-
+      ■ 무작위 적들에게
+      <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지] [{description_value_02}회 <word_group=10050>순차 공격</word_group>]</color>
+      ■ 자신이 크레센도 최대 중첩 상태라면 동일 적 대상에게
+      <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지]</color>
+    ja: |-
+      ■ランダムな敵に
+      <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」
+      「{description_value_02}回<word_group=10050>順番に攻撃</word_group>」</color>
+      ■自分がクレッシェンドの
+      フルスタック状態なら、同じ敵に
+      <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の追加ダメージ」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+201301:
+  name:
+    en: First Winner
+    ko: 퍼스트 위너
+    ja: ファーストウィナー
+  description:
+    en: |-
+      ■ Affects self if self's cover has been destroyed.
+      <color=#00AEFF><word_group=10016>Rebuild Cover</word_group> with {description_value_05}% HP. Activates once per battle.</color>
+      ■ Affects self.
+      <color=#00AEFF><word_group=10033>Max HP of Cover</word_group> ▲ {description_value_01}% of caster's Max HP for {description_value_02} sec.</color>
+      ■ Affects all allies.
+      <color=#00AEFF>Damage Taken ▼ {description_value_03}% for {description_value_04} sec.</color>
+    ko: |-
+      ■ 자신의 엄폐물이 파괴된 상태라면 자신에게
+      <color=#00AEFF>[엄폐물 체력 {description_value_05}%로 <word_group=10016>엄폐물 부활</word_group>] [전투 중 1회 발동]</color>
+      ■ 자신에게
+      <color=#00AEFF>[시전자의 최대 체력 비례 <word_group=10033>엄폐물 최대 체력</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+      ■ 아군 전체에게
+      <color=#00AEFF>[받는 대미지 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+    ja: |-
+      ■自分の遮蔽物が破壊された状態なら、自分に
+      <color=#00AEFF>「遮蔽物HP{description_value_05}％で<word_group=10016>遮蔽物復活</word_group>」
+      「戦闘中1回発動」</color>
+      ■自分に
+      <color=#00AEFF>「スキル発動者の最大HPに比例して
+      <word_group=10033>遮蔽物最大HP</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」</color>
+      ■味方全体に
+      <color=#00AEFF>「受けるダメージ{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル

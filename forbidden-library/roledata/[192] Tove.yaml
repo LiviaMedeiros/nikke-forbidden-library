@@ -124,10 +124,13 @@ skill_name_1002:
     <color=#00AEFF>[급조품의 기적 : 시전자 기준 공격력 {description_value_03}% ▲] [임시 개조 <word_group=10026>중첩 복사</word_group>] [{description_value_04}초 유지]</color>
   ja: |-
     ■味方全体に
-    <color=#00AEFF>「その場しのぎの奇跡：スキル発動者基準で攻撃力{description_value_01}％▲」
+    <color=#00AEFF>「その場しのぎの奇跡：
+    スキル発動者基準で攻撃力{description_value_01}％▲」
     「応急改造<word_group=10026>スタックコピー</word_group>」「{description_value_02}秒間維持」</color>
     ■ショットガンを所持する味方全体に
-    <color=#00AEFF>「その場しのぎの奇跡：スキル発動者基準で攻撃力{description_value_03}％▲」「応急改造<word_group=10026>スタックコピー</word_group>」「{description_value_04}秒間維持」</color>
+    <color=#00AEFF>「その場しのぎの奇跡：スキル発動者基準で
+    攻撃力{description_value_03}％▲」
+    「応急改造<word_group=10026>スタックコピー</word_group>」「{description_value_04}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬
@@ -527,6 +530,174 @@ c192_Win_1:
   en: We did it! We survived!
   ko: 훌륭히 생존했습니다!
   ja: 立派に生き残りました！
+c192_02_Lobby_Touch_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Lobby_Touch_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Lobby_Touch_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Lobby_Touch_Love_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Lobby_Touch_Love_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Lobby_Touch_Love_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Lobby_Stay_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Lobby_Stay_Love_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Outpost_Touch_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Outpost_Touch_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Outpost_Touch_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Gacha_Get_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Reinforce_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Reinforce_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Reinforce_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Gift_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Gift_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Gift_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Attractive_Up_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Attractive_Up_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Attractive_Up_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Party_Deploy_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Field_Touch_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Field_Go_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Battle_Enter_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Battle_Ready_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Battle_Ready_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Battle_Ready_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Reload_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Reload_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Reload_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Ult_Skill_Ready_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Ult_Skill_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_FullBurst_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Kill_Monster_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Kill_Monster_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Kill_Monster_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Damage_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Damage_2:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Damage_3:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Die_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
+c192_02_Win_1:
+  en: "-"
+  ko: "-"
+  ja: "-"
 192_cv_ja:
   en: 'CV: Shion Wakayama'
   ko: 'CV : 와카야마 시온'
