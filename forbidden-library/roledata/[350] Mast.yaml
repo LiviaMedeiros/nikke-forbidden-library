@@ -92,9 +92,8 @@ skill_name_1003:
     ■通常クリティカル攻撃が{description_value_01}回命中した時、対象に
     <color=#00AEFF>「海風：スキル発動者基準で防御力{description_value_02}％▼」
     「{description_value_03}スタック」「{description_value_04}秒間維持」</color>
-    ■自分のHPが{description_value_05}％以下の時に限り、
-    自分と自分を除く
-    <word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_06}機に
+    ■自分のHPが{description_value_05}％以下である限り、
+    自分と自分を除く<word_group=10025>最終</word_group>攻撃力が最も高い味方{description_value_06}機に
     <color=#00AEFF>「クリティカルダメージ{description_value_07}％▲」「持続」</color>
 skill_name_1002:
   en: Skill 1

@@ -1,0 +1,592 @@
+---
+93_name:
+  en: 'Emma: Tactical Upgrade'
+  ko: '엠마 : 택티컬 업'
+  ja: エマ：タクティカル・アップ
+c093_description:
+  en: |-
+    Emma has been strengthened through the Tactical Upgrade plan.
+    Compared to before, her heart is broader and her abilities are further enhanced. However, her cooking skills have not improved one iota.
+  ko: "택티컬 업 플랜을 통해 더욱 강력해진 엠마. \n이전보다 더 넓은 마음과 업그레이드된 능력을 갖게 되었지만, 요리 실력만은 그대로 유지하고
+    있다."
+  ja: |-
+    タクティカル・アップ計画でさらに強くなったエマ。
+    以前より広い心とアップグレードした能力を手に入れたが、
+    料理の腕だけは変わらない。
+93_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_93:
+  en: 'Emma: Tactical Upgrade''s Spare Body'
+  ko: '엠마 : 택티컬 업 스페어 바디'
+  ja: エマ：タクティカル・アップのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20932_name:
+  en: LT Formation
+  ko: 포메이션 LT
+  ja: フォーメーションLT
+20932_description:
+  en: |-
+    ■ Activates only if self is alive.
+    <color=#00AEFF>LT Formation:
+    Function: Issues a battle-advantageous tactic to target(s).
+    Effect 1: Affects all allies from the same squad. Critical Damage ▲ {description_value_01}% continuously.
+    Effect 2: Affects all allies. <word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_02}% continuously.
+
+    Bonus effects when applying AS Formation to self.
+    Effect 1: Affects all allies. True Damage ▲ {description_value_03}% continuously.
+    Effect 2: Affects all allies. <word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_04}% continuously.
+    Effect 3: Affects self. Exposure <word_group=10086>activation disabled</word_group> continuously.
+    Effect 4: Affects self. <word_group=10085>Recurring interval</word_group> of Environment Setup ▼ {description_value_05} sec continuously.</color>
+  ko: "■ 자신이 생존해있을 때 한하여\n<color=#00AEFF>[포메이션 LT] :\n기능 : 대상에게 전투에 유리한 전술 작전을 하달합니다.
+    \n효과 1 : 동일 스쿼드 아군 전체에게 [크리티컬 대미지 {description_value_01}% ▲] [지속]\n효과 2 : 아군 전체에게
+    [<word_group=10066>발사체 폭발 대미지</word_group> {description_value_02}% ▲] [지속]\n\n[자신에게
+    포메이션 AS 적용 중 추가 효과]\n효과 1 : 아군 전체에게 [방어력 무시 대미지 {description_value_03}% ▲] [지속]\n효과
+    2 : 아군 전체에게 [<word_group=10066>발사체 폭발 대미지</word_group> {description_value_04}%
+    ▲] [지속]\n효과 3 : 자신에게 [노출 <word_group=10086>발동 불가</word_group>] [지속]\n효과 4 : 자신에게
+    [환경 조성 <word_group=10085>반복 주기</word_group> {description_value_05}초 ▼] [지속]</color>"
+  ja: |-
+    ■自分が生存している限り
+    <color=#00AEFF>「フォーメーションLT」：
+    機能：戦闘を有利に進める作戦指示を行う
+    効果1：同じ部隊の味方全体に「クリティカルダメージ{description_value_01}％▲」「持続」
+    効果2：味方全体に「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_02}％▲」「持続」
+
+    「自分にフォーメーションAS適用中、効果を追加」
+    効果1：味方全体に「防御力無視ダメージ{description_value_03}％▲」「持続」
+    効果2：味方全体に「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_04}％▲」「持続」
+    効果3：自分に「陽動<word_group=10086>発動不可</word_group>」「持続」
+    効果4：自分に「環境コントロール<word_group=10085>再発動周期</word_group>{description_value_05}秒▼」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20931_name:
+  en: Environment Setup
+  ko: 환경 조성
+  ja: 環境コントロール
+20931_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Environment Setup
+    Function: Sprays a solution into the surroundings to create an advantageous battlefield.
+    Effect 1: Damage Taken ▲ {description_value_01}% for {description_value_02} sec.
+    Effect 1 Target(s): All enemies (including those that appear during Environment Setup)
+
+    Effect 2: Environment Setup: Continuously recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_04} sec.
+    Effect 2 Target(s): All allies
+
+    <word_group=10085>Recurring interval</word_group>: {description_value_05} sec</color>
+
+    ■ Activates when the enemy appears. Affects self.
+    <color=#00AEFF>Exposure (Undispellable)
+    Effect: Attract: Taunt all enemies continuously.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[환경 조성] :
+    기능 : 주변에 용액을 분사해 전투에 유리한 환경을 만듭니다.
+    효과 1 : [받는 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    효과 1 대상 : 적 전체(환경 조성 중 등장하는 적 포함)
+
+    효과 2 : [환경 조성 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 지속 회복] [1초 간격] [{description_value_04}초 유지]
+    효과 2 대상 : 아군 전체
+
+    <word_group=10085>반복 주기</word_group> : {description_value_05}초</color>
+
+    ■ 적 등장 시 자신에게
+    <color=#00AEFF>[노출] [해제 불가]
+    효과 : [주목 : 적 전체 도발] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「環境コントロール」：
+    機能：周囲に溶液を散布し
+    戦闘に有利な環境を作る
+    効果1：「受けるダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    効果1の対象：敵全体
+    （環境コントロール効果中に出現した敵を含む）
+
+    効果2：「環境コントロール：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％持続回復」
+    「1秒間隔」「{description_value_04}秒間維持」
+    効果2の対象：味方全体
+
+    <word_group=10085>再発動周期</word_group>：{description_value_05}秒</color>
+
+    ■敵出現時、自分に
+    <color=#00AEFF>「陽動」「解除不可」
+    効果：「ヘイト：敵全体を挑発」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10933_name:
+  en: Battlefield Formation
+  ko: 전장 조성
+  ja: 戦場コントロール
+10933_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Battlefield Formation: ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
+    ■ Affects self, if self is in Environment Setup status.
+    <color=#00AEFF>Enhances Environment Setup
+    Function: Enhances Environment Setup
+    Duration: 10 sec
+    Effect 1: Damage taken multiplier of Environment Setup is <word_group=10084>scaled</word_group> by 100%.
+    Effect 1 Target(s): All enemies
+
+    Effect 2: Potency of HP restored ▲ {description_value_03}%.
+    Effect 2 Target(s): All allies</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[전장 조성 : 시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 자신이 환경 조성 상태라면 자신에게
+    <color=#00AEFF>[환경 조성 강화] :
+    기능 : 환경 조성 기능 향상
+    유지시간 : 10초
+    효과 1 : 환경 조성 받는 대미지 증가 배율이 100% <word_group=10084>증가 상태로 변경</word_group>
+    효과 1 대상 : 적 전체
+
+    효과 2 : [받는 체력 회복량 {description_value_03}% ▲]
+    효과 2 대상 : 아군 전체</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「戦場コントロール：スキル発動者基準で
+    攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■自分が環境コントロール状態なら、自分に
+    <color=#00AEFF>「環境コントロール強化」：
+    機能：環境コントロール性能向上
+    維持時間：10秒
+    効果1：環境コントロール効果による
+    ダメージの増加倍率が100％
+    <word_group=10084>効果量に対し増加</word_group>
+    効果1の対象：敵全体
+
+    効果2：「受けるHP回復量{description_value_03}％▲」
+    効果2の対象：味方全体</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+90_name:
+  en: Emma
+  ko: 엠마
+  ja: エマ
+91_name:
+  en: Vesti
+  ko: 베스티
+  ja: ベスティー
+92_name:
+  en: Eunhwa
+  ko: 은화
+  ja: ウンファ
+94_name:
+  en: 'Vesti: Tactical Upgrade'
+  ko: '베스티 : 택티컬 업'
+  ja: ベスティー：タクティカル・アップ
+95_name:
+  en: 'Eunhwa: Tactical Upgrade'
+  ko: '은화 : 택티컬 업'
+  ja: ウンファ：タクティカル・アップ
+c093_Lobby_Touch_1:
+  en: If you're tired, drink this. It's a special remedy I whipped up to help with
+    fatigue.
+  ko: 혹시 피곤하면 이거 마셔. 내가 만든 피로 회복제야.
+  ja: |-
+    もし疲れてるなら、これを飲んでみて～
+    私が作った栄養ドリンクよ。
+c093_Lobby_Touch_2:
+  en: I made a new blend of perfume. What do you think, Commander?
+  ko: 지휘관~ 이 향수, 이번에 새롭게 조합해 본 건데, 어때?
+  ja: |-
+    指揮官～
+    この香水、新しく作ってみたんだけど、どうかしら～？
+c093_Lobby_Touch_3:
+  en: If you need anything, just let me know, okay?
+  ko: 필요한 거라도 있어? 그렇다면 나한테 말해 줘~
+  ja: |-
+    何か必要なものはある？
+    何でも私に言ってちょうだいね～
+c093_Lobby_Touch_Love_1:
+  en: I was thinking of you when I crafted this fragrance, Commander. If you like
+    it, I can make more for you.
+  ko: |-
+    지휘관을 위한 향수를 만들어 봤는데, 마음에 들어?
+    마음에 들면 더 만들어 줄게.
+  ja: |-
+    指揮官のために香水を作ってみたんだけど、
+    気に入ってくれたかしら？
+    気に入ってくれたなら、もっと作ってあげてもいいのよ～？
+c093_Lobby_Touch_Love_2:
+  en: This outfit contains a special solution. The texture is really something. Want
+    to give it a feel?
+  ko: 특수 용액을 담고 있는 이 옷 말이야. 감촉이 엄청 좋은데, 한번 만져 볼래?
+  ja: |-
+    この服には特殊な溶液が入っていて、触り心地がいいのよ。
+    ちょっと触ってみる～？
+c093_Lobby_Touch_Love_3:
+  en: |-
+    You seem a bit worn out, Commander.
+    Here, lay your head on my lap. I've been studying a new kind of therapy.
+  ko: "지휘관. 피로가 쌓인 거 같은데~ \n여기 내 무릎 위에 누워 봐. 내가 새로운 테라피를 공부해 왔거든."
+  ja: |-
+    指揮官。疲れが溜まってるみたいね～
+    私が膝枕してあげるわ。新しいセラピーを試してみてもいい？
+c093_Lobby_Stay_1:
+  en: |-
+    Commander? Oh my, I guess you fell asleep...
+    Hehe. You must have been running yourself ragged lately.
+  ko: |-
+    지휘관~? 어머, 잠 들었구나….
+    후후. 요즘 많이 피곤했나 보네.
+  ja: |-
+    指揮官～？あら、寝ちゃったのね…
+    ふふっ。最近だいぶ疲れてるように見えたもの。
+c093_Lobby_Stay_Love_1:
+  en: |-
+    You seem so busy lately...
+    I'll leave a scent diffuser in your room to help you sleep better.
+  ko: |-
+    요즘 너무 바쁜 모양이네….
+    잠이라도 푹 잘 수 있게, 침실에 수면용 방향제를 놔둬야겠어.
+  ja: |-
+    最近、本当に忙しいみたいね…よく眠れるように、
+    寝室に安眠効果のあるアロマを焚いておかなくちゃ。
+c093_Outpost_Touch_1:
+  en: |-
+    Have you noticed how Eunhwa's expression softens a little whenever you visit the Armory?
+    Hehe. Don't tell her I said that.
+  ko: |-
+    그거 알아? 은화는 무기고에 지휘관이 찾아오면 조금 표정이 풀어져.
+    후후. 내가 이런 말 했다는 거, 비밀이야.
+  ja: |-
+    知ってた？ 武器庫に指揮官が来ると、
+    ウンファの表情が 少し柔らかくなるの。
+    ふふ。 この話はウンファには内緒よ。
+c093_Outpost_Touch_2:
+  en: Looks like everyone has their hands full. Should I prepare some finger food
+    that's easy to munch on?
+  ko: 모두 아주 바쁜 모양이네~ 간단하게 먹을 수 있는 핑거 푸드라도 만들어 놓을까?
+  ja: |-
+    みんな本当に忙しそうね～
+    簡単につまめるものでも 作っておこうかしら？
+c093_Outpost_Touch_3:
+  en: |-
+    If you're bored, want to go shopping with me?
+    I just ran out of the ingredients I need to make perfume.
+  ko: 심심하면 나랑 같이 쇼핑이라도 갈래? 마침 향수 제작에 필요한 재료가 다 떨어졌거든.
+  ja: |-
+    退屈なら私と一緒に 買い物にでも行く？
+    ちょうど香水の材料が 切れちゃったのよ～
+c093_Gacha_Get_1:
+  en: |-
+    I'll be right by your side again, looking after you so you don't get worn out, Commander.
+    Hehehe. Take good care of me too, okay?
+  ko: 이번에도 지휘관이 피곤하지 않도록 옆에서 보살펴 줄게. 우후후, 잘 부탁해~
+  ja: |-
+    指揮官が疲れないようにそばで見守ってあげるわ～
+    うふふ、よろしくね～
+c093_Reinforce_1:
+  en: Now I can help you feel even more comfortable.
+  ko: 이걸로 더 편안하게 해줄 수 있게 됐네.
+  ja: これでもっと負担を減らしてあげられるわ。
+c093_Reinforce_2:
+  en: Hehe. I bet I can get even stronger than this.
+  ko: 후후. 아직 조금 더 강해질 수 있겠지?
+  ja: ふふ。まだもう少し強くなれるわよね？
+c093_Reinforce_3:
+  en: I've got a better grasp of controlling the liquid solution now.
+  ko: 용액을 조절하는 게 더 쉬워졌어.
+  ja: 溶液の調節がもっと楽になったわ。
+c093_Gift_1:
+  en: Hehe, thank you! I'll treasure it dearly.
+  ko: 우후후. 고마워~ 소중하게 간직할게.
+  ja: うふふ。ありがとう～大切にするわね。
+c093_Gift_2:
+  en: You really are such a kind-hearted person, Commander.
+  ko: 지휘관은 마음이 정말 넓은 사람이네.
+  ja: 指揮官は本当に心が広いのね。
+c093_Gift_3:
+  en: I'd love to give you a therapy session in return—do you have a minute?
+  ko: 보답으로 테라피를 해주고 싶은데, 시간 있어?
+  ja: お礼にセラピーをしてあげたいんだけど、時間あるかしら？
+c093_Attractive_Up_1:
+  en: Anytime you want to relax, you can always come to me.
+  ko: 쉬고 싶을 땐, 언제든 나한테 와도 돼.
+  ja: 疲れたときは、いつでも私のところで休んでいって～
+c093_Attractive_Up_2:
+  en: |-
+    Have you ever felt that fluttery feeling in your chest, Commander?
+    Whenever I'm with you, I get that exact feeling.
+  ko: 혹시 지휘관도 가슴이 간질간질하고 그런 적 있어? 난 지휘관하고 있으면 그렇거든.
+  ja: |-
+    もしかして指揮官も胸のあたりがむずむずしたりするのかしら？
+    指揮官と一緒にいると、私もそうなるの～
+c093_Attractive_Up_3:
+  en: Vesti, Eunhwa, and you are all precious to me, Commander. But with you, it feels
+    a little more special somehow.
+  ko: 베스티도 은화도 지휘관도 모두 소중하지만, 지휘관은 둘 하고는 다른 소중함이라는 느낌이야.
+  ja: |-
+    ベスティーもウンファも指揮官も、みんな大切だけど、
+    指揮官はみんなとは違う意味で大切なの。
+c093_Party_Deploy_1:
+  en: If you need cover fire during battle, leave it to me.
+  ko: 전투 중 엄호라면, 나한테 맡겨 줘~
+  ja: 戦闘中の援護なら、私に任せて～
+c093_Field_Touch_1:
+  en: Mmhm. I'm listening.
+  ko: 응~ 듣고 있어.
+  ja: ええ、聞いてるわ～
+c093_Field_Go_1:
+  en: Got it. Heading that way.
+  ko: 알겠어. 그쪽으로 갈게~
+  ja: 分かったわ。そっちに行くわね～
+c093_Battle_Enter_1:
+  en: Enemy spotted. Should we engage?
+  ko: 적을 마주쳤어. 전투를 시작할까?
+  ja: 敵に遭遇したわ。戦闘を始めるわよ。
+c093_Battle_Ready_1:
+  en: Well then, shall we face it together?
+  ko: 그럼, 우리 함께 가 볼까?
+  ja: さあ、行くわよ。
+c093_Battle_Ready_2:
+  en: I'll make sure they don't move an inch.
+  ko: 꼼짝 못 하게 해줄게.
+  ja: 動けなくしてあげる。
+c093_Battle_Ready_3:
+  en: Alright everyone, let's relax and get started.
+  ko: 다들~ 긴장 풀고 시작하자.
+  ja: みんな～肩の力を抜いて始めるわよ～
+c093_Reload_1:
+  en: Hang on just a sec.
+  ko: 잠깐만 기다려 줘~
+  ja: ちょっと待ってね～
+c093_Reload_2:
+  en: Sorry, this is taking a while, isn't it?
+  ko: 미안~ 시간이 좀 걸리지?
+  ja: ごめんなさいね～ちょっと時間がかかるかも～
+c093_Reload_3:
+  en: I just need a short break to reload.
+  ko: 장전을 위해서 잠시 쉬어갈게.
+  ja: リロードするからちょっと待ってて～
+c093_Ult_Skill_Ready_1:
+  en: Liquid solution at the ready.
+  ko: 용액 준비됐어.
+  ja: 溶液の準備ができたわ。
+c093_Ult_Skill_1:
+  en: Here you go! A little therapy for everyone.
+  ko: 후후. 자, 받아~ 너희를 위한 테라피야.
+  ja: |-
+    ふふ。さあ、受け取って～
+    あなたたちのためのセラピーよ。
+c093_FullBurst_1:
+  en: C'mon, everyone, let's all attack together!
+  ko: 얘들아, 우리 다 같이 공격하는 거야~
+  ja: みんな～、一緒に攻撃するわよ～
+c093_Kill_Monster_1:
+  en: That was great. Hehe.
+  ko: 좋았어~ 후후.
+  ja: やったわ～、ふふ。
+c093_Kill_Monster_2:
+  en: It's done.
+  ko: 처리했어.
+  ja: 片付けたわ。
+c093_Kill_Monster_3:
+  en: Nothing to worry about.
+  ko: 걱정하지 마~
+  ja: 心配しないで～
+c093_Damage_1:
+  en: Ahh!
+  ko: 앗!
+  ja: はっ！
+c093_Damage_2:
+  en: Oh my!
+  ko: 어머나!
+  ja: あらっ？
+c093_Damage_3:
+  en: Eek!
+  ko: 꺅!
+  ja: きゃっ！
+c093_Die_1:
+  en: I'm sorry, Commander, I might have overdone it...
+  ko: 미안해, 지휘관~ 너무 무리했나 봐….
+  ja: ごめんなさい、指揮官～。無理しすぎちゃったみたい…
+c093_Win_1:
+  en: You did great, Commander. Did you like the new scent?
+  ko: 지휘관, 수고했어~ 이번 향기는 괜찮았어?
+  ja: 指揮官、お疲れ様～。今回の香りはどうだった？
+93_cv_ja:
+  en: 'CV: Mamiko Noto'
+  ko: 'CV : 노토 마미코'
+  ja: CV：能登麻美子
+93_cv_ko:
+  en: 'CV: Lee Myung-ho'
+  ko: 'CV : 이명호'
+  ja: CV：イ・ミョンホ
+93_cv_en:
+  en: 'CV: Dominique North'
+  ko: 'CV : 도미니크 노스'
+  ja: CV：Dominique North

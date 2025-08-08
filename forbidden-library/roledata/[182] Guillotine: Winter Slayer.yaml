@@ -61,7 +61,7 @@ character_shot_description_localkey_ar_down:
     ■ Activates when hitting the Core for {description_value_04} time(s). Affects self.
     <color=#00AEFF>EXP: ATK ▲ {description_value_05}%, stacks up to {description_value_06} time(s) continuously.</color>
     ■ Activates when Hero Level is 2 or above. Affects self.
-    <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_07}% continuously.</color>
+    <color=#00AEFF><word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_07}% continuously.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 코어가 아니라면 자신에게
     <color=#00AEFF>[경험치 : 공격력 {description_value_02}% ▲] [{description_value_03} 중첩][지속]</color>
@@ -94,7 +94,7 @@ skill_name_1003:
     Hero Level Up Reward: Reloads {description_value_02}%.
     Hero Level Up Reward: Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP.</color>
     ■ Activates when Hero levels up. Affects all Water Code allies.
-    <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_04}% * Hero Level continuously.
+    <color=#00AEFF><word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_04}% * Hero Level continuously.
     ATK ▲ {description_value_05}% of caster's ATK * Hero Level continuously.</color>
   ko: |-
     ■ 경험치 {description_value_01} 중첩 마다 자신에게
@@ -128,7 +128,7 @@ skill_name_1002:
   en: |-
     ■ Affects all Water Code allies.
     <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.
-    <word_group=10009>Damage as strong element</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
+    <word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
     ■ Affects {description_value_05} enemy unit(s) with the highest <word_group=10025>final</word_group> Max HP.
     <color=#00AEFF>Deals continuous damage equal to {description_value_06}% of the <word_group=10025>final</word_group> ATK * Hero Level every sec for {description_value_07} sec.</color>
   ko: |-

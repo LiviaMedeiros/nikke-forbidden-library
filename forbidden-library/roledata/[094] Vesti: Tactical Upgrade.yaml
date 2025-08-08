@@ -1,0 +1,545 @@
+---
+94_name:
+  en: 'Vesti: Tactical Upgrade'
+  ko: '베스티 : 택티컬 업'
+  ja: ベスティー：タクティカル・アップ
+c094_description:
+  en: |-
+    Vesti has been strengthened through the Tactical Upgrade plan.
+    While she is still quick to cry and gets scared easily, she has gained the strength and resolve to keep moving forward.
+  ko: |-
+    택티컬 업 플랜을 통해 더욱 강력해진 베스티.
+    여전히 눈물도 겁도 많지만, 앞을 향해 나아갈 수 있는 단단한 마음과 힘을 갖게 되었다.
+  ja: |-
+    タクティカル・アップ計画でさらに強くなったベスティー。
+    相変わらず泣き虫で怖がりだが、
+    前を向いて進むことができる強い心と力を手に入れた。
+94_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_94:
+  en: 'Vesti: Tactical Upgrade''s Spare Body'
+  ko: '베스티 : 택티컬 업 스페어 바디'
+  ja: ベスティー：タクティカル・アップのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20942_name:
+  en: Monster Stage
+  ko: 몬스터 스테이지
+  ja: モンスターステージ
+20942_description:
+  en: "■ Activates when landing Full Charge attacks. Affects target(s).\n<color=#00AEFF>Deals
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as true damage.</color>
+    \n■ Activates when landing Full Charge attacks if self is in Battle Formation
+    status. Affects self.\n<color=#00AEFF>ATK ▲ {description_value_02}% for {description_value_03}
+    sec.</color> \n■ Activates when landing Full Charge attacks if target(s) is in
+    Explosive Round status. Affects self.\n<color=#00AEFF><word_group=10066>Projectile
+    explosion damage</word_group> ▲ {description_value_04}% for {description_value_05}
+    sec.</color>"
+  ko: |-
+    ■ 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 방어력 무시 대미지]</color>
+    ■ 풀 차지 공격 명중 시 자신이 전장 조성 상태라면 자신에게
+    <color=#00AEFF>[공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 풀 차지 공격 명중 시 대상이 내부 폭발탄 상태라면 자신에게
+    <color=#00AEFF>[<word_group=10066>발사체 폭발 대미지</word_group> {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    防御力無視ダメージ」</color>
+    ■フルチャージ攻撃が命中した時、自分が戦場コントロール状態なら、自分に
+    <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■フルチャージ攻撃が命中した時、
+    対象が徹甲炸裂弾状態なら、自分に
+    <color=#00AEFF>「<word_group=10066>発射体爆発ダメージ</word_group> {description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20941_name:
+  en: Missile Guide
+  ko: 미사일 가이드
+  ja: ミサイルガイド
+20941_description:
+  en: |-
+    ■ Activates when performing Full Charge attacks, if self is not in Missile Guide status. Affects self.
+    <color=#00AEFF>Missile Guide: Charge Speed ▲ {description_value_01}% for {description_value_02} round(s).</color>
+    <color=#00AEFF>Charge Damage ▲ {description_value_03}% for {description_value_04} round(s).</color>
+    ■ Activates when reloading to max ammunition. Affects self.
+    <color=#00AEFF>Removes Missile Guide.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 미사일 가이드 상태가 아니라면 자신에게
+    <color=#00AEFF>[미사일 가이드 : 차지 속도 {description_value_01}% ▲] [{description_value_02}발 유지]</color>
+    <color=#00AEFF>[차지 대미지 {description_value_03}% ▲] [{description_value_04}발 유지]</color>
+    ■ 최대 장탄 재장전 완료 시 자신에게
+    <color=#00AEFF>[미사일 가이드 삭제]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、
+    ミサイルガイド状態でなければ自分に
+    <color=#00AEFF>「ミサイルガイド：チャージ速度{description_value_01}％▲」
+    「{description_value_02}発間維持」</color>
+    <color=#00AEFF>「チャージダメージ{description_value_03}％▲」「{description_value_04}発間維持」</color>
+    ■最大弾数のリロードが完了した時、自分に
+    <color=#00AEFF>「ミサイルガイド解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10943_name:
+  en: Missile Container Online
+  ko: 미사일 컨테이너 온라인
+  ja: ミサイルコンテナオンライン
+10943_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Explosion Radius ▲ {description_value_01}% for {description_value_02} sec.</color>
+    <color=#00AEFF>True Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all enemies (including parts).
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as Burst Skill true damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[폭발 범위 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    <color=#00AEFF>[방어력 무시 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 적 전체에게(파츠 포함)
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 방어력 무시 버스트 스킬 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「爆発範囲{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「防御力無視ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■敵全体に（パーツ含む）
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の防御力無視バーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+90_name:
+  en: Emma
+  ko: 엠마
+  ja: エマ
+91_name:
+  en: Vesti
+  ko: 베스티
+  ja: ベスティー
+92_name:
+  en: Eunhwa
+  ko: 은화
+  ja: ウンファ
+93_name:
+  en: 'Emma: Tactical Upgrade'
+  ko: '엠마 : 택티컬 업'
+  ja: エマ：タクティカル・アップ
+95_name:
+  en: 'Eunhwa: Tactical Upgrade'
+  ko: '은화 : 택티컬 업'
+  ja: ウンファ：タクティカル・アップ
+c094_Lobby_Touch_1:
+  en: Is something wrong, Commander? I can listen, i-if you'd like!
+  ko: 지휘관님. 무슨 일이야? 내, 내가 들어줄게!
+  ja: |-
+    指揮官様、どうしたの？
+    わ、私が話を聞いてあげるね！
+c094_Lobby_Touch_2:
+  en: |-
+    Um, Commander... I-I get flustered when you look at me like that.
+    Could you look that way, instead?
+  ko: |-
+    저, 저기… 지휘관님. 그, 그렇게 쳐다보면 부끄러운데….
+    저쪽 보고 있으면, 안 돼?
+  ja: |-
+    し、指揮官様。
+    そ、そんなにじろじろ見られると恥ずかしいんだけど…
+    少しだけ、あっちを見てもらっていい？
+c094_Lobby_Touch_3:
+  en: Commander, you think I'm strong... right?
+  ko: 있잖아. 지휘관님은 내가 강하다고 생각하는 거, 맞지?
+  ja: |-
+    ねぇ、指揮官様。
+    指揮官様は私のこと、強いって思ってくれてるんだよね？
+c094_Lobby_Touch_Love_1:
+  en: |-
+    You can tell me anything. After all, you and I... are friends, aren't we?
+    Hehe. I said it. F-friends...
+  ko: "뭐든 말해 줘. 지휘관님하고 난 친구잖아. \n헤헤…. 친구래, 친구…."
+  ja: |-
+    な、何でも言ってね。だって指揮官様と私は、友だちなんだから。
+    えへ、えへへ…友だちだって…
+c094_Lobby_Touch_Love_2:
+  en: |-
+    Commander, my face feels really warm...
+    Do you know why that is...?
+  ko: |-
+    지휘관님. 나, 얼굴이 너무 뜨거워….
+    왜 그런 건지 지휘관님은 알아…?
+  ja: |-
+    ねぇ、指揮官様。なんだか、すごく顔が熱いの…
+    どうしてなのか、分かる…？
+c094_Lobby_Touch_Love_3:
+  en: |-
+    What's inside my shawl?
+    Here, I'll show you... b-but only you, Commander.
+  ko: "숄 안쪽에 있는 것들 말이야? \n지, 지휘관님한테만 특별히 보여줄게."
+  ja: |-
+    ケープの中にあるもの？
+    し、指揮官様にだけ、特別に見せてあげるね。
+c094_Lobby_Stay_1:
+  en: "... Y-you're not gonna leave me alone like this forever, are you?"
+  ko: 지휘관님…. 나 계속 이대로 혼자 두는 건 아니… 지?
+  ja: |-
+    指揮官様…
+    ずっとこのまま私を一人にしておくつもりじゃ…ないよね？
+c094_Lobby_Stay_Love_1:
+  en: Kitty, when do you think the Commander will be back? I bet it won't be too long...
+    But I really can't wait... Hehe.
+  ko: "키티. 지휘관님은 언제 오실까? 조금만 기다리면 오시겠지? \n기대된다. 헤헤."
+  ja: |-
+    ねぇ、ミニー。指揮官様はいつ来るかなぁ？
+    もう少し待てば来るよね？楽しみだなぁ…えへへ。
+c094_Outpost_Touch_1:
+  en: Let's leave the Armory to Eu-Eunhwa and... hang out! Just the two of u-us...
+    as friends!
+  ko: |-
+    무기고는 으, 은화한테 맡겨두고,
+    우, 우리… 친구끼리 놀러 안 갈래?
+  ja: |-
+    ぶ、武器庫のことは ウンファに任せて、
+    と、友だち同士、 遊びに行くのはどうかな…？
+c094_Outpost_Touch_2:
+  en: Emma said rest is important, so... why don't y-you and I rest together?
+  ko: "엠마가 휴식은 중요하댔어. 그러니까 지휘관님. \n나, 나랑 같이 쉬자."
+  ja: |-
+    エマがね、 休憩も大事よって言ってたんだ。
+    だ、だからその… 一緒に、休憩しよ？
+c094_Outpost_Touch_3:
+  en: |-
+    Where would you like to go, Commander?
+    I-I'm fine with anywhere, as long as it's with you.
+  ko: "지휘관님은 어디로 가고 싶어? \n나, 난 지휘관님이 가는 곳이라면 어디든 좋아."
+  ja: |-
+    指揮官様はどこに行きたい？
+    わ、私は、指揮官様と一緒なら どこでもいいよ。
+c094_Gacha_Get_1:
+  en: If anyone tries to hurt you or our squad, I'll wipe them out with my missiles!
+    So, please continue looking out for us...
+  ko: |-
+    지휘관님하고 우릴 괴롭히는 녀석들은 내 미사일로 전부 쓸어버릴게.
+    그러니까, 이번에도 잘 부탁해….
+  ja: |-
+    指揮官様と私たちをいじめる奴らは、
+    私のミサイルで全部吹っ飛ばしちゃうね。
+    だからこれからも、よろしくね…
+c094_Reinforce_1:
+  en: I'll keep getting stronger...!
+  ko: 계속해서 더 강해질 거야!
+  ja: これからももっと強くなるよ！
+c094_Reinforce_2:
+  en: With this, I can kill even more.
+  ko: 이걸로 더 많이 죽일 수 있겠다.
+  ja: これでもっとたくさん倒せるね。
+c094_Reinforce_3:
+  en: Those bullies can't do anything to me anymore!
+  ko: 날 괴롭히던 녀석들도 이젠 아무것도 못 하겠지?
+  ja: 私をいじめてた奴らも、これでもう何もしてこないよね？
+c094_Gift_1:
+  en: I-is this for me? R-really?
+  ko: 내, 내가 이거 받아도 돼…? 저, 정말로?
+  ja: わ、私なんかがもらっていいの…？ほ、本当に？
+c094_Gift_2:
+  en: |-
+    Th-thank you, Commander.
+    Hehe... I love it.
+  ko: "고, 고마워. 지휘관님. \n헤, 헤헤. 좋다."
+  ja: |-
+    あ、ありがとう、指揮官様。
+    へへ、えへへ…嬉しいな。
+c094_Gift_3:
+  en: I had something for you too... I'll be sure to br-bring it next time.
+  ko: 나도 줄 게 있었는데… 나, 나중에 꼭 들고 올게.
+  ja: |-
+    あ、あのね、私もプレゼントがあるんだ…
+    ま、また今度持ってくるね。
+c094_Attractive_Up_1:
+  en: I'll try even harder to make you proud of me, Commander... because we're b-besties!
+  ko: 지휘관님을 위해서 더 열심히 할게. 우린 아주 친한 치, 친구니까.
+  ja: |-
+    指揮官様のために、もっと頑張るね。
+    だって私たちは、すごく仲のいい…と、友だちだから。
+c094_Attractive_Up_2:
+  en: I... I don't think "friends" is enough anymore. Wh-what comes after friends...?
+  ko: "친구… 그런 말로는 부족한 거 같아. \n치, 친구 다음은 뭐, 뭐라고 부르면 되지?"
+  ja: |-
+    友だち…って言葉じゃ、なんだか物足りないかも。
+    と、友だちの次は、何て呼べばいいのかな？
+c094_Attractive_Up_3:
+  en: I-I want to stay with you f-forever, Commander. Always.
+  ko: 나, 나 있잖아. 지휘관님이랑 계속 가, 같이 있고 싶어.
+  ja: あ、あのね…指揮官様と、ず、ずっと一緒にいたいな。
+c094_Party_Deploy_1:
+  en: O-okay! I'll do my best!
+  ko: 응! 열심히 할게!
+  ja: うん！一生懸命がんばるね！
+c094_Field_Touch_1:
+  en: Um... Wh-what should I do...?
+  ko: 어… 어떻게 할까?
+  ja: ど…どうすればいいかな？
+c094_Field_Go_1:
+  en: Is this the r-right path?
+  ko: 이 길로 가는 거 마, 맞지?
+  ja: こ、このルートで合ってる？
+c094_Battle_Enter_1:
+  en: I'm ready to fight.
+  ko: 싸울 준비 됐어.
+  ja: 戦闘の準備、できたよ。
+c094_Battle_Ready_1:
+  en: Engaging the enemy now! Let's kill them all!
+  ko: 전투 개시. 다 죽여버리자.
+  ja: 戦闘開始。全部倒してくるね。
+c094_Battle_Ready_2:
+  en: Target sighted. Do I just crush them?
+  ko: 적을 발견했어. 부숴버리면 되지?
+  ja: 目標発見。倒しちゃっていいよね？
+c094_Battle_Ready_3:
+  en: I-I'll be right back!
+  ko: 금, 금방 끝내고 올게.
+  ja: す、すぐに終わらせてくるね。
+c094_Reload_1:
+  en: H-hold on! Reloading is taking longer than I thought...
+  ko: 자, 잠깐만. 무기 장전에 시간이 걸려서….
+  ja: ま、待って！まだ装填が…
+c094_Reload_2:
+  en: G-get any closer, and you're all dead!
+  ko: 가, 가까이 오면… 죽여버린다!
+  ja: ち、近寄ったら…殺しちゃうよ！
+c094_Reload_3:
+  en: C-can you cover me, please?
+  ko: 엄호 좀… 부탁해도, 될까?
+  ja: え、援護を…お願いしてもいい？
+c094_Ult_Skill_Ready_1:
+  en: Target locked.
+  ko: 조준 완료했어.
+  ja: 照準完了。
+c094_Ult_Skill_1:
+  en: Missile container online. Full barrage, fire!
+  ko: 미사일 컨테이너 온라인. 전탄 발사!
+  ja: ミサイルコンテナ、オンライン。全弾発射！
+c094_FullBurst_1:
+  en: G-good! Blow them all to pieces!
+  ko: 조, 좋아! 전부 다 쓸어버리는 거야!
+  ja: う、うん！全部片づけちゃうね！
+c094_Kill_Monster_1:
+  en: D-did you see that, Commander?
+  ko: 지, 지휘관님. 보고 있어?
+  ja: し、指揮官様。ちゃんと見てた？
+c094_Kill_Monster_2:
+  en: I-I did it!
+  ko: 해, 해냈어!
+  ja: や、やったよ！
+c094_Kill_Monster_3:
+  en: Hehe... They're all dead?
+  ko: 헤헤. 죽었네?
+  ja: えへへ、死んじゃったね。
+c094_Damage_1:
+  en: Ah!
+  ko: 꺅!
+  ja: きゃっ！
+c094_Damage_2:
+  en: Ugh!
+  ko: 하윽!
+  ja: はうっ！
+c094_Damage_3:
+  en: Ah!
+  ko: 앗.
+  ja: あっ！
+c094_Die_1:
+  en: I-I'm sorry, C-Commander... I... I couldn't win...
+  ko: |-
+    지휘… 관님… 미안….
+    못… 이겼어….
+  ja: |-
+    指揮官…様…
+    ごめん…勝て…なかった…
+c094_Win_1:
+  en: As long as I'm with you, Commander... I-I think I can do even better!
+  ko: 지휘관님과 함께라면, 나… 더 잘할 수 있을 거 같아!
+  ja: し、指揮官様と一緒なら…もっと上手に戦える気がする…！
+94_cv_ja:
+  en: 'CV: Rie Kugimiya'
+  ko: 'CV : 쿠기미야 리에'
+  ja: CV：釘宮理恵
+94_cv_ko:
+  en: 'CV: Yoo Bo-ra'
+  ko: 'CV : 유보라'
+  ja: CV：ユ・ボラ
+94_cv_en:
+  en: 'CV: Ratana'
+  ko: 'CV : 라타나'
+  ja: CV：Ratana

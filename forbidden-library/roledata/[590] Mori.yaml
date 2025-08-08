@@ -120,7 +120,7 @@ skill_name_1002:
 15903_description:
   en: |-
     ■ Activates when self is in Struggle status. Affects self.
-    <color=#00AEFF><word_group=10048>Recovers Shield HP</word_group> equal to {description_value_01}% of caster’s <word_group=10025>final</word_group> Max HP.</color>
+    <color=#00AEFF><word_group=10048>Recovers Shield HP</word_group> equal to {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP.</color>
     ■ Activates when self is not in Struggle status. Affects self.
     <color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>
     ■ Affects all allies.

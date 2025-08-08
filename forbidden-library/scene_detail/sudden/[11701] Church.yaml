@@ -4905,3 +4905,688 @@ d_ex_church_08:
     ja: |-
       ハッピーズー部隊に
       協力を要請したのだった…
+d_ex_church_09:
+  d_ex_church_09_1:
+    speaker: phantom
+    en: Hah!
+    ko: 흡!
+    ja: はぁっ！
+  d_ex_church_09_2:
+    speaker: "<Narration>"
+    en: "*Hop*"
+    ko: 펄쩍-
+    ja: バッ――
+  d_ex_church_09_3:
+    speaker: "<Narration>"
+    en: "*Tap*"
+    ko: 타앗-
+    ja: タンッ
+  d_ex_church_09_4:
+    speaker: phantom
+    en: Hehe, this should be enough for now.
+    ko: 후후, 이 정도면 되겠어.
+    ja: ふふ、これぐらいにしておこうか。
+  d_ex_church_09_5:
+    speaker: phantom
+    en: There's no better place than a quiet church to loosen up a body stiffened
+      from working at the library.
+    ko: |-
+      사서 일을 하며 굳어버린 몸을 푸는 데에는
+      한적한 교회보다 좋은 곳은 없지.
+    ja: |-
+      司書の仕事で凝り固まった体をほぐすには、
+      静かな教会ほどいい場所はないな。
+  d_ex_church_09_6:
+    speaker: phantom
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_09_7:
+    speaker: phantom
+    en: I suppose I should be heading back.
+    ko: 슬슬 돌아가야겠군.
+    ja: そろそろ戻ろう。
+  d_ex_church_09_8:
+    speaker: phantom
+    en: If anyone sees me like this, things could get rather troublesome.
+    ko: |-
+      누군가 지금의 내 모습을 본다면
+      아주 곤란해질 테니.
+    ja: |-
+      誰かに今の私の姿を見られたら、
+      大変なことになる。
+  d_ex_church_09_9:
+    speaker: "<Narration>"
+    en: "*Clatter clatter*"
+    ko: 덜컥- 덜컥-
+    ja: ガタガタ
+  d_ex_church_09_10:
+    speaker: phantom
+    en: Hm? Is someone here?
+    ko: 음? 누군가 온 건가?
+    ja: うん？誰か来たのか？
+  d_ex_church_09_11:
+    speaker: "<Narration>"
+    en: "*Clatter*"
+    ko: 철커덕-
+    ja: ガタッ
+  d_ex_church_09_12:
+    speaker: phantom
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_09_13:
+    speaker: phantom
+    en: I-I suppose I'll hide in this box for now...
+    ko: 이, 일단 급한 데로 이 상자에…!
+    ja: と、とりあえずこの箱の中に…！
+  d_ex_church_09_14:
+    speaker: "<Narration>"
+    en: "*Clunk*"
+    ko: 덜커덕-
+    ja: ガタッ
+  d_ex_church_09_15:
+    speaker: vesti_t
+    en: Hehe, thanks for coming with me, Commander.
+    ko: 헤헤, 지휘관님 같이 와줘서 고마워.
+    ja: |-
+      えへへ、指揮官様、
+      一緒に来てくれてありがとう。
+  d_ex_church_09_16:
+    speaker: "<Self>"
+    en: Sure, but what are you planning to do at church?
+    ko: 그런데 교회엔 뭘 하려고?
+    ja: それはそうと、どうして教会に？
+  d_ex_church_09_17:
+    speaker: vesti_t
+    en: Well, you see... I used to pray often
+    ko: 응, 나 있지. 예전부터 종종 신님께 기도했었거든.
+    ja: |-
+      うん、実はね…
+      私、神様に祈るために教会に通ってるの。
+  d_ex_church_09_18:
+    speaker: vesti_t
+    en: for more friends
+    ko: 친구가 더 생기게 해달라고.
+    ja: 友だちがもっと増えますようにって。
+  d_ex_church_09_19:
+    speaker: vesti_t
+    en: and for our squad to grow closer.
+    ko: 그리고 우리 스쿼드가 더 끈끈하게 해달라고.
+    ja: |-
+      それと私たちが、
+      もっと仲良くなれますようにって。
+  d_ex_church_09_20:
+    speaker: "<Self>"
+    en: That's kind of you.
+    ko: 베스티는 착하네.
+    ja: ベスティーは真面目だな
+  d_ex_church_09_21:
+    speaker: "<Self>"
+    en: Did it come true?
+    ko: 그래서 이루어졌어?
+    ja: 祈りは通じたのか？
+  d_ex_church_09_22:
+    speaker: vesti_t
+    en: You bet!
+    ko: 응!
+    ja: うん！
+  d_ex_church_09_23:
+    speaker: vesti_t
+    en: In the end, our squad grew a lot closer,
+    ko: 결과적으로 우리 스쿼드도 더 가까워졌고.
+    ja: 二人と前よりもっと仲良くなれたし。
+  d_ex_church_09_24:
+    speaker: vesti_t
+    en: a-and I made lots of friends, like you, Commander...
+    ko: 나, 나한텐 지휘관님이랑 여러 친구들도 생겼으니까….
+    ja: し、指揮官様や他の友だちもできたよ。
+  d_ex_church_09_25:
+    speaker: vesti_t
+    en: So I just wanted to stop by and give my thanks.
+    ko: 감사하다고 말하려고 왔어.
+    ja: だから今日はお礼を言いに来たの。
+  d_ex_church_09_26:
+    speaker: vesti_t
+    en: And to pray for everything to go well going forward.
+    ko: 그리고 앞으로도 잘 부탁한다고.
+    ja: あと、これからもお願いしますって言いに。
+  d_ex_church_09_27:
+    speaker: "<Self>"
+    en: That's a good idea.
+    ko: 좋은 생각이야.
+    ja: いい考えだ
+  d_ex_church_09_28:
+    speaker: "<Narration>"
+    en: "*Rustle*"
+    ko: 부스럭-
+    ja: ガサガサッ
+  d_ex_church_09_29:
+    speaker: phantom
+    en: "*Cough cough*"
+    ko: 코, 콜록.
+    ja: ゴホ、ゴホッ。
+  d_ex_church_09_30:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_church_09_31:
+    speaker: vesti_t
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  d_ex_church_09_32:
+    speaker: vesti_t
+    en: D-did you hear that, Commander?
+    ko: 바, 방금 지휘관님도 들었지?
+    ja: い、今の音、指揮官様にも聞こえた？
+  d_ex_church_09_33:
+    speaker: "<Self>"
+    en: Yeah, is someone there?
+    ko: 응, 누가 있나?
+    ja: ああ、誰かいるのか？
+  d_ex_church_09_34:
+    speaker: vesti_t
+    en: It might be someone dangerous.
+    ko: 위험한 사람일지도 몰라.
+    ja: あ、危ない人かも。
+  d_ex_church_09_35:
+    speaker: vesti_t
+    en: If there's anyone intending to harm you, Commander...
+    ko: 만약 지휘관님을 노리고 온 사람이라면….
+    ja: 指揮官様を狙ってるとしたら…
+  d_ex_church_09_36:
+    speaker: vesti_t
+    en: I'll kill them!
+    ko: 죽일 거야.
+    ja: 私が殺すから。
+  d_ex_church_09_37:
+    speaker: phantom
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_church_09_38:
+    speaker: "<Narration>"
+    en: "*Step step*"
+    ko: 저벅- 저벅-
+    ja: てくてく…
+  d_ex_church_09_39:
+    speaker: vesti_t
+    en: The sound came from over there.
+    ko: 소리는 저쪽에서 났어.
+    ja: あっちの方から音がしたよ。
+  d_ex_church_09_40:
+    speaker: "<Narration>"
+    en: "*Flap*"
+    ko: 펄럭-
+    ja: バサッ
+  d_ex_church_09_41:
+    speaker: "<Monologue>"
+    en: Vesti flips her shawl aside,
+    ko: 베스티는 자신의 숄을 걷었고
+    ja: ベスティーはケープをめくり上げた
+  d_ex_church_09_42:
+    speaker: "<Monologue>"
+    en: and dozens of guiding lasers focus on a single spot.
+    ko: 수많은 가이드 레이저가 한곳을 향해 집중되기 시작했다.
+    ja: |-
+      無数のガイドレーザーが
+      1ヶ所に狙いを定めている
+  d_ex_church_09_43:
+    speaker: phantom
+    en: "... Eeep!"
+    ko: "…허, 허억!"
+    ja: "…ひっ、ひぃっ！"
+  d_ex_church_09_44:
+    speaker: phantom
+    en: W-wait!
+    ko: 자, 잠까안!!!
+    ja: まっ、待った！！！
+  d_ex_church_09_45:
+    speaker: vesti_t
+    en: Huh?
+    ko: 으응?
+    ja: え？
+  d_ex_church_09_46:
+    speaker: phantom
+    en: H-hey, you.
+    ko: 자, 자네.
+    ja: き、君。
+  d_ex_church_09_47:
+    speaker: phantom
+    en: Aren't you Vesti?
+    ko: 분명 베스티라고 하지 않았소?
+    ja: 確かベスティーといったね？
+  d_ex_church_09_48:
+    speaker: vesti_t
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_church_09_49:
+    speaker: vesti_t
+    en: H-how did you know my name?
+    ko: 어, 어떻게 내 이름을…?
+    ja: ど、どうして私の名前を…？
+  d_ex_church_09_50:
+    speaker: vesti_t
+    en: Hold on, are you...?
+    ko: 혹시, 너….
+    ja: もしかして、あなたは…
+  d_ex_church_09_51:
+    speaker: phantom
+    en: Y-yes, that's right.
+    ko: 마… 맞소.
+    ja: そ…そうだ。
+  d_ex_church_09_52:
+    speaker: phantom
+    en: I am the thie... no, the God
+    ko: 나는 그대의 기도를 들어준 괴도…? 가 아니라.
+    ja: 君の祈りに応える怪盗…ではなく
+  d_ex_church_09_53:
+    speaker: phantom
+    en: who answers your prayers.
+    ko: 신이라고 하오.
+    ja: 神だ。
+  d_ex_church_09_54:
+    speaker: vesti_t
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_church_09_55:
+    speaker: "<Self>"
+    en: This voice...
+    ko: 이 목소리는….
+    ja: この声は…
+  d_ex_church_09_56:
+    speaker: "<Monologue>"
+    en: "... It's Phantom."
+    ko: "…팬텀이잖아."
+    ja: "…ファントムだ"
+  d_ex_church_09_57:
+    speaker: vesti_t
+    en: S-so you really do exist?
+    ko: 저, 정말로 있었던 거구나?
+    ja: か、神様って本当にいたんだ…
+  d_ex_church_09_58:
+    speaker: phantom
+    en: Of course.
+    ko: 그럼 그럼.
+    ja: もちろんだ。
+  d_ex_church_09_59:
+    speaker: phantom
+    en: Vesti, I came down to this world
+    ko: 베스티 그대가 잘하고 있는지 보기 위해.
+    ja: |-
+      ベスティー、
+      君が正しく生きているかを確認するため、
+  d_ex_church_09_60:
+    speaker: phantom
+    en: specially to see how you're doing.
+    ko: 특별히 현세에 내려오게 된 것이지.
+    ja: 特別に現世に降りてきたのだ。
+  d_ex_church_09_61:
+    speaker: phantom
+    en: From what I just heard, it seems you're holding up well.
+    ko: 그래서? 방금 들은 걸로는 잘 지내고 있는 것 같소만.
+    ja: |-
+      そして、さっきの話を聞いた。
+      問題なく過ごしているかな？
+  d_ex_church_09_62:
+    speaker: vesti_t
+    en: Y-yeah, that's right!
+    ko: 으, 응! 맞아!
+    ja: う、うん！おかげさまで！
+  d_ex_church_09_63:
+    speaker: vesti_t
+    en: I came here today to thank you, so...
+    ko: 오늘은 고맙다는 인사를 하러 왔어…!
+    ja: 今日はお礼を言いに来たの…！
+  d_ex_church_09_64:
+    speaker: vesti_t
+    en: Th-thank you so much!
+    ko: 너, 너무 고마워!
+    ja: ほ、本当にありがとう！
+  d_ex_church_09_65:
+    speaker: vesti_t
+    en: For protecting me, and Eunhwa... and Emma.
+    ko: 나랑 은화… 엠마를.
+    ja: 私とウンファ…エマ。
+  d_ex_church_09_66:
+    speaker: vesti_t
+    en: And the Commander too...
+    ko: 그리고 지휘관님을 지켜줘서…
+    ja: それから指揮官様を守ってくれて…
+  d_ex_church_09_67:
+    speaker: phantom
+    en: Hehe, how interesting.
+    ko: 후후, 자네.
+    ja: ふふ。
+  d_ex_church_09_68:
+    speaker: phantom
+    en: You, of all people, offering thanks? You're the one who's cared and tried
+      the hardest.
+    ko: |-
+      가장 마음을 많이 쓰고 노력한 자가
+      남에게 감사하다 하면 되겠소?
+    ja: |-
+      一番心を尽くして努力した者が
+      誰かに感謝してどうする。
+  d_ex_church_09_69:
+    speaker: vesti_t
+    en: O-oh no, I didn't really do anything.
+    ko: 아, 아니야. 난 별일 안 했는걸.
+    ja: そ、そんなことない。私、何もしてないよ。
+  d_ex_church_09_70:
+    speaker: "<Self>"
+    en: What God said is true. You really did your best.
+    ko: |-
+      신님의 말이 맞아.
+      베스티는 노력했잖아.
+    ja: |-
+      神様の言う通りだ。
+      ベスティーは努力しただろう？
+  d_ex_church_09_71:
+    speaker: vesti_t
+    en: R-really?
+    ko: "…! 저, 정말…?"
+    ja: "…！そ、そうかな…？"
+  d_ex_church_09_72:
+    speaker: vesti_t
+    en: Wh-what do I do... I think I'm gonna cry.
+    ko: 어, 어떡해. 나… 눈물이 나올 것 같아.
+    ja: ど、どうしよう。私…涙が出そう。
+  d_ex_church_09_73:
+    speaker: phantom
+    en: Hehe, don't cry, my child. There will be many better days ahead.
+    ko: |-
+      후후, 울지 마시게.
+      앞으로도 더 좋은 날이 많을 테니.
+    ja: |-
+      ふふ、泣くことはない。
+      これからもっといいことがたくさんあるだろう。
+  d_ex_church_09_74:
+    speaker: vesti_t
+    en: Th-then...
+    ko: 그, 그럼 신님 있잖아.
+    ja: じゃ、じゃあ、神様…
+  d_ex_church_09_75:
+    speaker: vesti_t
+    en: Can I ask for one more thing?
+    ko: 한 가지만 더 부탁해도 될까…?
+    ja: もう1つだけ、お願いしてもいい？
+  d_ex_church_09_76:
+    speaker: phantom
+    en: Hmm? What is it?
+    ko: 으응? 무엇이오?
+    ja: ん？何だ？
+  d_ex_church_09_77:
+    speaker: vesti_t
+    en: Um, well...
+    ko: 음, 있지….
+    ja: うん、その…
+  d_ex_church_09_78:
+    speaker: "<Narration>"
+    en: "*Glance*"
+    ko: 흘깃-
+    ja: ちらっ
+  d_ex_church_09_79:
+    speaker: vesti_t
+    en: C-Commander,
+    ko: 지, 지휘관님.
+    ja: し、指揮官様。
+  d_ex_church_09_80:
+    speaker: vesti_t
+    en: can you cover your ears for a bit...?
+    ko: 잠깐 귀 좀 막고 있어줄 수 있어…?
+    ja: ちょっと耳を塞いでてくれる…？
+  d_ex_church_09_81:
+    speaker: "<Self>"
+    en: Sure.
+    ko: 그러지 뭐.
+    ja: 分かった
+  d_ex_church_09_82:
+    speaker: "<Monologue>"
+    en: I cover my ears with my palms.
+    ko: 나는 손바닥으로 귀를 막았다.
+    ja: 私は手のひらで耳を塞いだ
+  d_ex_church_09_83:
+    speaker: vesti_t
+    en: "... Like... Person..."
+    ko: "…좋아하… 사람…."
+    ja: "…好きな…人…"
+  d_ex_church_09_84:
+    speaker: "<Monologue>"
+    en: Vesti's hushed whisper seeps through and reaches my ears in fits and starts.
+    ko: 소리가 조금씩 손바닥을 뚫고 귓속으로 흘러들어온다.
+    ja: 手のひらを突き抜け、微かに声が聞こえる
+  d_ex_church_09_85:
+    speaker: vesti_t
+    en: O-okay, you can take your hands off now...
+    ko: 이, 이제 손 떼도 돼…!
+    ja: "…も、もう離していいよ…！"
+  d_ex_church_09_86:
+    speaker: phantom
+    en: Hmm, I see... If that's the case...
+    ko: 흠, 그렇단 말이지… 그런 것이라면….
+    ja: ふむ、そうか…そういうことなら…
+  d_ex_church_09_87:
+    speaker: vesti_t
+    en: Yes?
+    ko: 그런 것이라면…?
+    ja: そういうことなら…？
+  d_ex_church_09_88:
+    speaker: phantom
+    en: Hmm...
+    ko: 으음….
+    ja: うーむ…
+  d_ex_church_09_89:
+    speaker: phantom
+    en: Hmmmmm...
+    ko: 으으으음….
+    ja: うーーむ…
+  d_ex_church_09_90:
+    speaker: phantom
+    en: Ah, yes! That Goddess of Victory out there...
+    ko: 그… 그래! 저, 저 밖에 있는 승리의 여신.
+    ja: そ…そうだ！そ、外にいる勝利の女神。
+  d_ex_church_09_91:
+    speaker: phantom
+    en: I believe I saw her feeling a bit neglected.
+    ko: 그 녀석이 섭섭해하던 걸 본 것 같소.
+    ja: 彼女が誰も来なくて寂しそうにしていた。
+  d_ex_church_09_92:
+    speaker: phantom
+    en: Why don't you offer a prayer to her every now and then?
+    ko: 그자에게도 종종 기도를 올리는 게 어떻겠소?
+    ja: 彼女にもたまには祈りを捧げてみてはどうだ？
+  d_ex_church_09_93:
+    speaker: vesti_t
+    en: Th-the Goddess of Victory? I didn't know she also listened to prayers.
+    ko: |-
+      스, 승리의 여신님…?
+      그분도 기도를 듣는구나, 처음 알았어.
+    ja: |-
+      しょ、勝利の女神…？
+      あの方も願いを聞いてくれるの？知らなかった…
+  d_ex_church_09_94:
+    speaker: phantom
+    en: Oh! Now that I think about it, she said she's going to descend to this world
+      today as well.
+    ko: |-
+      아! 생각해 보니,
+      그 자도 오늘 현세에 내려온다고 했었던가.
+    ja: |-
+      あ！そういえば、
+      彼女も今日現世に降りてくると聞いた。
+  d_ex_church_09_95:
+    speaker: vesti_t
+    en: R-really?
+    ko: 저, 정말?
+    ja: ほ、本当？
+  d_ex_church_09_96:
+    speaker: phantom
+    en: Exactly so! It would be best to go swiftly before it's too late. We won't
+      know when she shall return again.
+    ko: |-
+      그렇소! 더 늦기 전에 빨리 다녀오는 게 어떻겠소?
+      언제 다시 돌아갈지 모르니.
+    ja: |-
+      そうだ！早く行った方がいいだろう。
+      いつ帰ってしまうか分からないからな。
+  d_ex_church_09_97:
+    speaker: vesti_t
+    en: Oh... C-Commander, what should I do?
+    ko: 아… 지, 지휘관님. 어쩌지?
+    ja: あ…し、指揮官様。どうしよう…
+  d_ex_church_09_98:
+    speaker: vesti_t
+    en: It seems I suddenly have somewhere urgent to go.
+    ko: 나 급하게 갈 데가 생긴 것 같아.
+    ja: 急用ができちゃった。
+  d_ex_church_09_99:
+    speaker: vesti_t
+    en: I was the one who asked you to come here... I'm sorry.
+    ko: 내가 여기 오자고 했었는데… 미안해.
+    ja: 私が誘っておいて…ごめんなさい。
+  d_ex_church_09_100:
+    speaker: "<Self>"
+    en: It's okay. I'll be here saying a few prayers of my own.
+    ko: 괜찮아. 여기서 신님이랑 놀고 있지 뭐.
+    ja: 大丈夫だ。私ならここで神様と遊んで待っている
+  d_ex_church_09_101:
+    speaker: vesti_t
+    en: Yo-you will?
+    ko: 저, 정말?
+    ja: い、いいの？
+  d_ex_church_09_102:
+    speaker: vesti_t
+    en: O-okay then. I-I'll be back real soon!
+    ko: 그, 그럼. 나 빨리 다녀올게!
+    ja: じゃ、じゃあ行ってくるね！
+  d_ex_church_09_103:
+    speaker: vesti_t
+    en: J-just wait here!
+    ko: 조, 조금만 기다려줘!
+    ja: す、すぐ帰ってくるからね！
+  d_ex_church_09_104:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_church_09_105:
+    speaker: "<Self>"
+    en: You can come out now.
+    ko: 이제 나와도 돼.
+    ja: もう出てきても大丈夫だ
+  d_ex_church_09_106:
+    speaker: "<Narration>"
+    en: "*Clunk*"
+    ko: 덜커덕-
+    ja: ガタッ
+  d_ex_church_09_107:
+    speaker: phantom
+    en: "*Cough cough!* *Cough!*"
+    ko: 쿠, 쿨럭! 쿨럭….
+    ja: ゲホ、ケホ！ゴホ…
+  d_ex_church_09_108:
+    speaker: phantom
+    en: Man, I thought I was toast back there...
+    ko: 사, 살았다아….
+    ja: た、助かった…
+  d_ex_church_09_109:
+    speaker: "<Self>"
+    en: You did well.
+    ko: 고생했어.
+    ja: お疲れ様
+  d_ex_church_09_110:
+    speaker: phantom
+    en: Hehehe.
+    ko: 후, 후후.
+    ja: ふ、ふふ。
+  d_ex_church_09_111:
+    speaker: phantom
+    en: This is nothing.
+    ko: 이, 이 정돈 식은 죽 먹기지.
+    ja: こ、これくらい朝飯前だ。
+  d_ex_church_09_112:
+    speaker: phantom
+    en: Any thief worth their salt must be a master of disguise and deception.
+    ko: 위장과 연기는 괴도의 필수 덕목이잖소.
+    ja: 偽装と演技は怪盗の必須能力だからな。
+  d_ex_church_09_113:
+    speaker: "<Self>"
+    en: But you're breaking out in cold sweat...
+    ko: 그렇다기에는 식은땀이….
+    ja: そのわりにはすごい汗だな…
+  d_ex_church_09_114:
+    speaker: phantom
+    en: A-ahem!
+    ko: 크, 크흠!
+    ja: オ、オホンッ！
+  d_ex_church_09_115:
+    speaker: phantom
+    en: Anyway!
+    ko: 어찌 되었든 간에!
+    ja: ともかく！
+  d_ex_church_09_116:
+    speaker: "<Narration>"
+    en: "*Flap*"
+    ko: 펄럭-
+    ja: バサッ
+  d_ex_church_09_117:
+    speaker: phantom
+    en: If Vesti returns, it could spell trouble for me.
+    ko: 베스티가 돌아온다면 큰일이 날 수도 있으니.
+    ja: ベスティーに見つかったら大変だ。
+  d_ex_church_09_118:
+    speaker: phantom
+    en: I shall take my leave now.
+    ko: 나는 이만 자리를 떠나도록 하겠소.
+    ja: 私はこのへんで失礼しよう。
+  d_ex_church_09_119:
+    speaker: phantom
+    en: Well then... farewell.
+    ko: 그럼… 이만.
+    ja: では…また。
+  d_ex_church_09_120:
+    speaker: "<Narration>"
+    en: "*Clunk*"
+    ko: 덜컥-
+    ja: ガタッ
+  d_ex_church_09_121:
+    speaker: phantom
+    en: "... Huh?"
+    ko: "…응?"
+    ja: "…ん？"
+  d_ex_church_09_122:
+    speaker: "<Narration>"
+    en: "*Clunk clunk*"
+    ko: 덜컥- 덜컥-
+    ja: ガタガタ
+  d_ex_church_09_123:
+    speaker: phantom
+    en: Is this door... broken?
+    ko: 문이… 고장 난 것이오?
+    ja: ドアが…壊れている…？
+  d_ex_church_09_124:
+    speaker: "<Self>"
+    en: Guess it broke when Vesti opened it earlier.
+    ko: "…아까 베스티가 열 때 고장 났나 봐."
+    ja: "…さっきベスティーが開けた時だな"
+  d_ex_church_09_125:
+    speaker: phantom
+    en: Yo-you've got to be kidding me...
+    ko: 이, 이럴 수가….
+    ja: そ、そんな…
+  d_ex_church_09_126:
+    speaker: "<Monologue>"
+    en: In the end, all we can do is wait for Vesti's return, and Phantom is forced
+      to hide away inside the box once more.
+    ko: |-
+      우리는 베스티가 돌아올 때까지 기다려야 했고
+      팬텀은 다시 상자에 숨을 수밖에 없었다.
+    ja: |-
+      私たちはベスティが戻ってくるまで
+      待たねばならず、ファントムは再び
+      箱の中に隠れるほかなかった

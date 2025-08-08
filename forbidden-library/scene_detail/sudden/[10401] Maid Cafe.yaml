@@ -6383,3 +6383,640 @@ d_ex_maidcafe_10:
     en: Flora leaves the Maid Cafe with a satisfied look on her face.
     ko: 만족스러운 얼굴로 메이드 카페를 나섰다.
     ja: 満足そうな顔でメイドカフェを後にした
+d_ex_maidcafe_11:
+  d_ex_maidcafe_11_1:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_maidcafe_11_2:
+    speaker: soda
+    en: Welcome, Miss Vesti!
+    ko: 어서 오세요, 베스티 아가씨!
+    ja: お帰りなさいませ、ベスティーお嬢様！
+  d_ex_maidcafe_11_3:
+    speaker: vesti_t
+    en: Hehe... Soda, it's been a while...
+    ko: 헤헤… 소다, 오랜만이야.
+    ja: えへへ…ソーダ、久しぶり。元気にしてた？
+  d_ex_maidcafe_11_4:
+    speaker: "<Self>"
+    en: Welcome!
+    ko: 어서 와.
+    ja: やあ
+  d_ex_maidcafe_11_5:
+    speaker: vesti_t
+    en: Oh? Yo-you're here too, Commander?
+    ko: 어? 지, 지휘관님도 있었구나.
+    ja: え？し、指揮官様も来てたんだ。
+  d_ex_maidcafe_11_6:
+    speaker: vesti_t
+    en: "... Hehe. Now I'm really glad I came."
+    ko: "…헤헤. 오늘 오길 잘한 거 같아."
+    ja: "…えへへ。今日来てよかった。"
+  d_ex_maidcafe_11_7:
+    speaker: soda
+    en: So, what brings you here today?
+    ko: 오늘은 어떤 일로 오신 건가요오?
+    ja: 今日はどうされたんですか？
+  d_ex_maidcafe_11_8:
+    speaker: vesti_t
+    en: Uh... W-well, you see...
+    ko: 어… 그, 그게 말이지.
+    ja: えっと…そ、その…
+  d_ex_maidcafe_11_9:
+    speaker: "<Narration>"
+    en: Vesti hesitates, then looks toward the open door.
+    ko: 베스티는 머뭇거리다 열려있는 문 쪽을 바라보았다.
+    ja: |-
+      ベスティーはためらいながら、
+      半開きになっているドアに目をやった
+  d_ex_maidcafe_11_10:
+    speaker: vesti_t
+    en: A-are you really not coming in...?
+    ko: 저, 정말 안 들어 올거야…?
+    ja: ね、ねぇ、入らないの…？
+  d_ex_maidcafe_11_11:
+    speaker: unknown
+    en: "*Sigh*... Fine."
+    ko: 하아… 그래.
+    ja: はぁ…分かった。
+  d_ex_maidcafe_11_12:
+    speaker: unknown
+    en: I'll come in.
+    ko: 들어가면 될 거 아냐.
+    ja: 入ればいいんだろう、入れば。
+  d_ex_maidcafe_11_13:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_maidcafe_11_14:
+    speaker: "<Self>"
+    en: Eunhwa?
+    ko: 은화?
+    ja: ウンファ？
+  d_ex_maidcafe_11_15:
+    speaker: eunhwa_t
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_maidcafe_11_16:
+    speaker: eunhwa_t
+    en: Weakling?
+    ko: 삼류?
+    ja: 三流？
+  d_ex_maidcafe_11_17:
+    speaker: eunhwa_t
+    en: What are you doing here?
+    ko: 네가 왜 여기 있는 거지?
+    ja: どうしてお前がここに？
+  d_ex_maidcafe_11_18:
+    speaker: "<Self>"
+    en: You could say I'm the temporary manager for today.
+    ko: 오늘 일일 매니저를 하고 있달까.
+    ja: 一日マネージャーのようなものだ
+  d_ex_maidcafe_11_19:
+    speaker: eunhwa_t
+    en: I'm going back.
+    ko: 돌아간다.
+    ja: 帰る。
+  d_ex_maidcafe_11_20:
+    speaker: eunhwa_t
+    en: This isn't what I signed up for.
+    ko: 이건 예상 범위 밖이야.
+    ja: 想定の範囲外だ。
+  d_ex_maidcafe_11_21:
+    speaker: vesti_t
+    en: W-wait, Eunhwa!
+    ko: 으, 은화 잠깐만!
+    ja: ウ、ウンファ、ちょっと待って！
+  d_ex_maidcafe_11_22:
+    speaker: vesti_t
+    en: Yo-you're not really gonna leave, are you?
+    ko: 이, 이렇게 바로 가는 거야…?
+    ja: ほ、本当に帰っちゃうの…？
+  d_ex_maidcafe_11_23:
+    speaker: vesti_t
+    en: I-I really wanted to eat some parfait with you...
+    ko: 나, 나는 은화랑 맛있는 파르페가 먹고 싶어서 온 건데….
+    ja: |-
+      わ、私はただウンファとおいしいパフェを
+      食べたいだけなのに…
+  d_ex_maidcafe_11_24:
+    speaker: vesti_t
+    en: Yo-you said you would do anything...
+    ko: 으, 은화가 뭐든 해준다고 해서….
+    ja: ウ、ウンファが何でもしてくれるって言うから…
+  d_ex_maidcafe_11_25:
+    speaker: eunhwa_t
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_11_26:
+    speaker: eunhwa_t
+    en: Bah. Fine. Hurry up and order then.
+    ko: 칫, 그럼 빨리 주문하던가.
+    ja: チッ、早く注文しろ。
+  d_ex_maidcafe_11_27:
+    speaker: vesti_t
+    en: "... Hehe, thanks."
+    ko: "…헤헤, 고마워."
+    ja: "…えへへ、ありがとう。"
+  d_ex_maidcafe_11_28:
+    speaker: soda
+    en: M-Master...
+    ko: 주, 주인님.
+    ja: ご、ご主人様。
+  d_ex_maidcafe_11_29:
+    speaker: soda
+    en: Miss Eunhwa seems to have a soft spot for Miss Vesti!
+    ko: 은화 아가씨는 베스티 아가씨한테 약하신가 봐요…!
+    ja: |-
+      ウンファお嬢様はベスティーお嬢様には
+      敵わないみたいですね！
+  d_ex_maidcafe_11_30:
+    speaker: "<Self>"
+    en: Sh-she does?
+    ko: 그, 그랬었나?
+    ja: そ、そうだったのか？
+  d_ex_maidcafe_11_31:
+    speaker: eunhwa_t
+    en: What are you two whispering about?
+    ko: 뭘 그렇게 속닥거리고 있는 거야.
+    ja: 何こそこそ話してる。
+  d_ex_maidcafe_11_32:
+    speaker: eunhwa_t
+    en: Hurry up and show us to our seats.
+    ko: 빨리 자리로 안내해.
+    ja: 早く席に案内しろ。
+  d_ex_maidcafe_11_33:
+    speaker: soda
+    en: O-oh, of course! R-right this way!
+    ko: 흐에…! 이, 이쪽으로 와주시겠어요?!
+    ja: ふぇ…！こ、こちらのお席へどうぞ…！
+  d_ex_maidcafe_11_34:
+    speaker: "<Self>"
+    en: Vesti.
+    ko: 베스티.
+    ja: ベスティー
+  d_ex_maidcafe_11_35:
+    speaker: vesti_t
+    en: Yeah? You called?
+    ko: 으응, 불렀어?
+    ja: うん？呼んだ？
+  d_ex_maidcafe_11_36:
+    speaker: "<Self>"
+    en: May I ask what this is about?
+    ko: 이게 무슨 일인지 물어봐도 될까?
+    ja: 何かあったのか？
+  d_ex_maidcafe_11_37:
+    speaker: vesti_t
+    en: Hehe, well, you see...
+    ko: 헤헤, 그게 말이지….
+    ja: えへへ、実はね…
+  d_ex_maidcafe_11_38:
+    speaker: vesti_t
+    en: Wh-what? Are you serious?
+    ko: 뭐, 뭐어? 그게 정말이야?
+    ja: え、ええ？本当に？
+  d_ex_maidcafe_11_39:
+    speaker: vesti_t
+    en: Yo-you're not lying to me, are you?
+    ko: 거, 거짓말하는 거 아니지?
+    ja: う、嘘じゃないよね？
+  d_ex_maidcafe_11_40:
+    speaker: eunhwa_t
+    en: Yeah, I owe you that much.
+    ko: 그래. 너에게 빚을 진 건 맞으니까.
+    ja: ああ。お前に借りを作ってしまったからな。
+  d_ex_maidcafe_11_41:
+    speaker: vesti_t
+    en: Are you really going to do whatever I want?
+    ko: 정말로 뭐든지 해주는 거야?
+    ja: 本当に何でもしてくれるの？
+  d_ex_maidcafe_11_42:
+    speaker: eunhwa_t
+    en: Sure.
+    ko: 그래, 뭐든지.
+    ja: ああ、そうだ。
+  d_ex_maidcafe_11_43:
+    speaker: vesti_t
+    en: Wherever?
+    ko: 어디든지?
+    ja: 場所も、どこでもいいの？
+  d_ex_maidcafe_11_44:
+    speaker: eunhwa_t
+    en: Yeah, doesn't matter to me.
+    ko: 그래, 상관없어.
+    ja: 構わない。
+  d_ex_maidcafe_11_45:
+    speaker: vesti_t
+    en: Hehe... hehehe...
+    ko: 헤헤, 헤헤헤.
+    ja: えへ、えへへ…
+  d_ex_maidcafe_11_46:
+    speaker: vesti_t
+    en: "... That's a promise, right?"
+    ko: "…약속한 거다?"
+    ja: "…約束したからね？"
+  d_ex_maidcafe_11_47:
+    speaker: eunhwa_t
+    en: "*Sigh*"
+    ko: 하아.
+    ja: はあ。
+  d_ex_maidcafe_11_48:
+    speaker: eunhwa_t
+    en: I shouldn't have said that.
+    ko: 역시 함부로 입을 놀리는 게 아니었어.
+    ja: あんなことを言うんじゃなかった。
+  d_ex_maidcafe_11_49:
+    speaker: soda
+    en: Sorry to keep you waiting.
+    ko: 오래 기다리셨어요~
+    ja: お待たせしました～
+  d_ex_maidcafe_11_50:
+    speaker: soda
+    en: Here's the parfait you ordered!
+    ko: 주문하신 파르페 나왔습니다아~
+    ja: ご注文のパフェをお持ちいたしました～
+  d_ex_maidcafe_11_51:
+    speaker: "<Narration>"
+    en: "*Clink*"
+    ko: 달칵-
+    ja: コトン…
+  d_ex_maidcafe_11_52:
+    speaker: vesti_t
+    en: Hehe, i-it looks yummy… Right, Eunhwa?
+    ko: 헤헤, 마, 맛있겠다. 은화, 그렇지?
+    ja: |-
+      えへへ、お、おいしそう。
+      ウンファもそう思わない？
+  d_ex_maidcafe_11_53:
+    speaker: eunhwa_t
+    en: Not bad at all.
+    ko: 뭐, 나쁘진 않네.
+    ja: そうだな、悪くはない。
+  d_ex_maidcafe_11_54:
+    speaker: eunhwa_t
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_11_55:
+    speaker: eunhwa_t
+    en: We've got our food, so you can leave now.
+    ko: 음식은 잘 받았으니, 이제 가도 돼.
+    ja: もう注文はない。下がっていいぞ。
+  d_ex_maidcafe_11_56:
+    speaker: soda
+    en: Huh? But...
+    ko: 후엥? 그렇지만 은화 아가씨.
+    ja: ふぇん？でもぉ…
+  d_ex_maidcafe_11_57:
+    speaker: soda
+    en: we haven't done the most important part?
+    ko: 아직 가장 중요한 게 남아있는걸요?
+    ja: 一番大事なことがまだ残ってますよ？
+  d_ex_maidcafe_11_58:
+    speaker: "<Self>"
+    en: Exactly.
+    ko: 그럼 그럼.
+    ja: そうだ、そうだ
+  d_ex_maidcafe_11_59:
+    speaker: eunhwa_t
+    en: And what's that?
+    ko: 그게 뭔데.
+    ja: 何のことだ？
+  d_ex_maidcafe_11_60:
+    speaker: vesti_t
+    en: O-ooey gooey goodness, make this delicious!
+    ko: 마, 맛있어져라~ 맛있어져라~
+    ja: お、おいしくな～れ、おいしくな～れ…
+  d_ex_maidcafe_11_61:
+    speaker: vesti_t
+    en: Coochie woochie, boing! ♡
+    ko: 몽글몽글~ 큥!
+    ja: ふわふわキュン！
+  d_ex_maidcafe_11_62:
+    speaker: soda
+    en: Wow, Miss Vesti! That was just amazing!
+    ko: 와아, 베스티 아가씨! 정말 훌륭해요오!
+    ja: |-
+      わあ、ベスティーお嬢様！
+      すっごくお上手でしたよぉ！
+  d_ex_maidcafe_11_63:
+    speaker: soda
+    en: You're so much more confident than usual!
+    ko: 평소보다 훨씬 자신 있어 보이셔요!
+    ja: いつもより自信に溢れてました！
+  d_ex_maidcafe_11_64:
+    speaker: vesti_t
+    en: Heh, hehe.
+    ko: 헤, 헤헤.
+    ja: え、えへへ。
+  d_ex_maidcafe_11_65:
+    speaker: vesti_t
+    en: I've been practicing a lot because I wanted to show Eunhwa how well I can
+      do.
+    ko: |-
+      사, 사실 연습 많이 해왔거든,
+      은화한테 잘하는 모습 보여주고 싶어서.
+    ja: |-
+      じ、実は一生懸命練習してきたんだ。
+      ウンファに見せてあげたくて。
+  d_ex_maidcafe_11_66:
+    speaker: "<Self>"
+    en: Now then, Eunhwa.
+    ko: 자… 그럼.
+    ja: |-
+      そうだったのか。
+      では…
+  d_ex_maidcafe_11_67:
+    speaker: "<Self>"
+    en: It's your turn.
+    ko: 이제 은화 차례네.
+    ja: 今度はウンファの番だ
+  d_ex_maidcafe_11_68:
+    speaker: vesti_t
+    en: Y-yeah...! I wanna see Eunhwa do it too, hehe.
+    ko: 으, 응…! 은화도 잘했으면 좋겠다. 헤헤.
+    ja: |-
+      う、うん…！ウンファも上手にできるといいね。
+      えへへ。
+  d_ex_maidcafe_11_69:
+    speaker: eunhwa_t
+    en: Don't be ridiculous.
+    ko: 웃기는 소리 하지 마.
+    ja: ふざけるな。
+  d_ex_maidcafe_11_70:
+    speaker: vesti_t
+    en: "... Huh?"
+    ko: "…어?"
+    ja: "…えっ？"
+  d_ex_maidcafe_11_71:
+    speaker: eunhwa_t
+    en: You're asking me to do something that foolish?
+    ko: 저런 바보 같은 짓을 하라고?
+    ja: そんなバカげたことを私にしろと？
+  d_ex_maidcafe_11_72:
+    speaker: eunhwa_t
+    en: Even if I promised, this crosses the line.
+    ko: 아무리 약속이라지만 이건 선을 넘었어.
+    ja: 約束は約束でも、これは度が過ぎている。
+  d_ex_maidcafe_11_73:
+    speaker: vesti_t
+    en: W-wait, Eunhwa...
+    ko: 으, 은화. 자, 잠시만….
+    ja: ウ、ウンファ。ちょ、ちょっと待っ…
+  d_ex_maidcafe_11_74:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 쾅-
+    ja: バン！
+  d_ex_maidcafe_11_75:
+    speaker: eunhwa_t
+    en: I'm out. The rest is up to you.
+    ko: 난 돌아간다. 나머지는 알아서 해.
+    ja: もう帰る。後は勝手にしろ。
+  d_ex_maidcafe_11_76:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_11_77:
+    speaker: vesti_t
+    en: "*Sniffle*"
+    ko: 훌쩍.
+    ja: ぐすん。
+  d_ex_maidcafe_11_78:
+    speaker: vesti_t
+    en: I-I'm sorry... Eunhwa.
+    ko: 미, 미안해… 은화.
+    ja: ご、ごめんね…ウンファ。
+  d_ex_maidcafe_11_79:
+    speaker: vesti_t
+    en: I-I didn't know you'd hate it so much.
+    ko: 이, 이렇게까지 싫어할 줄은 몰랐어.
+    ja: そ、そんなに嫌がるとは思わなくて…
+  d_ex_maidcafe_11_80:
+    speaker: eunhwa_t
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_11_81:
+    speaker: vesti_t
+    en: Th-this is a spell that's supposed to make it taste even better...
+    ko: 이, 이게 맛있어지는 주문이거든….
+    ja: りょ、料理がおいしくなる呪文なんだけど…
+  d_ex_maidcafe_11_82:
+    speaker: vesti_t
+    en: I just wanted you to enjoy the parfait more, Eunhwa...
+    ko: 은화도 파르페를 더 맛있게 먹어줬으면 좋겠어서….
+    ja: パフェをおいしく食べてもらいたくて…
+  d_ex_maidcafe_11_83:
+    speaker: eunhwa_t
+    en: "*Sigh*..."
+    ko: 하아….
+    ja: はぁ…
+  d_ex_maidcafe_11_84:
+    speaker: eunhwa_t
+    en: Fine. Just this once.
+    ko: 이번만이야.
+    ja: "…今回だけだぞ。"
+  d_ex_maidcafe_11_85:
+    speaker: vesti_t
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_maidcafe_11_86:
+    speaker: vesti_t
+    en: R-really? Y-you're actually gonna do it?
+    ko: 저, 정말? 진짜로 해주는 거야?
+    ja: ほ、本当？本当にやってくれるの？
+  d_ex_maidcafe_11_87:
+    speaker: eunhwa_t
+    en: Yes, I'll do it, so be quiet.
+    ko: 그래, 할 테니까 조용히 좀 있어.
+    ja: ああ、やるから静かにしてろ。
+  d_ex_maidcafe_11_88:
+    speaker: eunhwa_t
+    en: Whew...
+    ko: 후우….
+    ja: すぅ…
+  d_ex_maidcafe_11_89:
+    speaker: eunhwa_t
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_11_90:
+    speaker: eunhwa_t
+    en: "... cious."
+    ko: "…져라."
+    ja: "…れ。"
+  d_ex_maidcafe_11_91:
+    speaker: "<Self>"
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_maidcafe_11_92:
+    speaker: eunhwa_t
+    en: "... chie... chie."
+    ko: "…글 …글."
+    ja: "…わ…わ。"
+  d_ex_maidcafe_11_93:
+    speaker: eunhwa_t
+    en: Boing.
+    ko: 큥.
+    ja: キュン。
+  d_ex_maidcafe_11_94:
+    speaker: soda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_11_95:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_11_96:
+    speaker: soda
+    en: M-Miss Eunhwa, your face is sooo red...!
+    ko: 으, 은화. 얼굴이 터질 것 같아요오…!
+    ja: ウ、ウンファお嬢様。顔が真っ赤ですぅ…！
+  d_ex_maidcafe_11_97:
+    speaker: eunhwa_t
+    en: "*Sigh* I'm already bending over backwards for you. Don't push your luck."
+    ko: 하아. 이만했으면 많이 봐준 거야.
+    ja: はぁ。百歩、いや千歩譲ったぞ。
+  d_ex_maidcafe_11_98:
+    speaker: eunhwa_t
+    en: Get lost. All of you.
+    ko: 전부 다 꺼져.
+    ja: いいから早くあっちへ行け。
+  d_ex_maidcafe_11_99:
+    speaker: "<Narration>"
+    en: "*Click*"
+    ko: 찰칵-
+    ja: カシャッ
+  d_ex_maidcafe_11_100:
+    speaker: "<Self>"
+    en: Did someone just take a photo?
+    ko: 사진?
+    ja: 写真？
+  d_ex_maidcafe_11_101:
+    speaker: vesti_t
+    en: "... Hehe, that came out great!"
+    ko: "…헤헤, 잘 나왔다."
+    ja: "…えへへ、きれいに撮れた。"
+  d_ex_maidcafe_11_102:
+    speaker: vesti_t
+    en: L-look at this, Eunhwa. Yo-you look really cute.
+    ko: 이, 이거 봐 은화. 어, 엄청 귀엽게 나왔어.
+    ja: |-
+      み、見て、ウンファ。
+      す、すごくかわいく撮れたよ。
+  d_ex_maidcafe_11_103:
+    speaker: "<Narration>"
+    en: On Vesti's phone screen, there's a picture of Eunhwa sitting in front of a
+      parfait, her face bright red.
+    ko: |-
+      베스티가 보여준 화면에는 파르페를 앞에 두고
+      얼굴이 새빨개진 은화의 모습이 담겨있었다.
+    ja: |-
+      ベスティーが見せた画面には、パフェを前に
+      顔を真っ赤にしたウンファの姿が映っていた
+  d_ex_maidcafe_11_104:
+    speaker: eunhwa_t
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_11_105:
+    speaker: eunhwa_t
+    en: "... Delete it."
+    ko: "…지워."
+    ja: "…削除しろ。"
+  d_ex_maidcafe_11_106:
+    speaker: vesti_t
+    en: H-huh? What do you mean?
+    ko: 으, 응? 방금 뭐라고 했어?
+    ja: え、え？今何て言ったの？
+  d_ex_maidcafe_11_107:
+    speaker: eunhwa_t
+    en: I said delete it!
+    ko: 사진 지우라고!!
+    ja: その写真を今すぐ消せ！
+  d_ex_maidcafe_11_108:
+    speaker: "<Narration>"
+    en: "*Crash!*"
+    ko: 와장창-
+    ja: ガッシャーン！
+  d_ex_maidcafe_11_109:
+    speaker: "<Narration>"
+    en: Eunhwa bolts up and lunges for the phone.
+    ko: |-
+      은화가 자리를 박차고 일어나
+      핸드폰을 향해 달려들었다.
+    ja: |-
+      ウンファが席を蹴って立ち上がり、
+      携帯電話に飛びかかった
+  d_ex_maidcafe_11_110:
+    speaker: vesti_t
+    en: Gaaah! Sh-shaking Eunhwa's on a rampage!
+    ko: 으아…! 초, 초진동 은화가 달려온다…!
+    ja: うわっ…！ちょ、超ぶるぶるウンファだ…！
+  d_ex_maidcafe_11_111:
+    speaker: "<Narration>"
+    en: Vesti narrowly dodges Eunhwa, staying just out of reach.
+    ko: |-
+      베스티는 잡힐 듯 말 듯 아슬아슬하게
+      은화에게서 멀어진다.
+    ja: |-
+      ベスティーは捕まりそうで捕まらない
+      ギリギリのところで、ウンファから離れた
+  d_ex_maidcafe_11_112:
+    speaker: vesti_t
+    en: Gaaaaaah!
+    ko: 으, 으아아…!
+    ja: う、うわあ！！
+  d_ex_maidcafe_11_113:
+    speaker: "<Narration>"
+    en: "*Ring*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_maidcafe_11_114:
+    speaker: eunhwa_t
+    en: Stop right there!
+    ko: 거기 서라고!
+    ja: おい、待て！
+  d_ex_maidcafe_11_115:
+    speaker: "<Narration>"
+    en: "*Bang*"
+    ko: 콰앙-
+    ja: バタン――
+  d_ex_maidcafe_11_116:
+    speaker: soda
+    en: Um...
+    ko: 후엥….
+    ja: ふぇん…
+  d_ex_maidcafe_11_117:
+    speaker: soda
+    en: Wh-what in the world just happened?
+    ko: 뭐, 뭔가 순식간에 일어났네요오.
+    ja: |-
+      な、何が起こったのかよく分かりませんが、
+      一瞬で嵐が去っていきましたね…
+  d_ex_maidcafe_11_118:
+    speaker: "<Self>"
+    en: I-I'm not sure...
+    ko: 그, 그러게….
+    ja: そ、そうだな…
+  d_ex_maidcafe_11_119:
+    speaker: "<Narration>"
+    en: Only after cleaning up the messy table are Soda and I able to move onto our
+      next task.
+    ko: |-
+      이후 나와 소다는 어질러진 테이블을 치우고 나서야
+      다음 일을 시작할 수 있었다.
+    ja: |-
+      私とソーダはしばらくテーブルの片付けに追われ
+      その後やっと別の作業に取りかかることができた

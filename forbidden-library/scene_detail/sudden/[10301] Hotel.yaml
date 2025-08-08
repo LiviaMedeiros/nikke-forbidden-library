@@ -6079,3 +6079,639 @@ d_ex_hotel_11:
     en: Bready and I safely leave the hotel and head back to our respective residences.
     ko: 호텔에서 방으로 무사히 돌아올 수 있었다.
     ja: ホテルから無事に脱出することができた
+d_ex_hotel_12:
+  d_ex_hotel_12_1:
+    speaker: "<Monologue>"
+    en: I receive a message from an unknown sender.
+    ko: 발신자 불명의 메시지가 왔다.
+    ja: 発信者不明のメッセージを受け取った
+  d_ex_hotel_12_2:
+    speaker: "<Narration>"
+    en: Meet me at the hotel by 1 PM today. ^.^♥
+    ko: "[오늘 오후 1시까지 호텔에서 ^^♥]"
+    ja: "「今日の午後1時までにホテルに来て^^♥」"
+  d_ex_hotel_12_3:
+    speaker: "<Monologue>"
+    en: It's been on my mind, so I decide to stop by for a moment.
+    ko: "…신경이 쓰이니 잠시 들려보자."
+    ja: "…気にかかる。少し立ち寄ってみるとしよう"
+  d_ex_hotel_12_4:
+    speaker: "<Narration>"
+    en: "*Whirr*"
+    ko: 지잉-
+    ja: ガチャ
+  d_ex_hotel_12_5:
+    speaker: eunhwa_t
+    en: What the... Weakling?
+    ko: 뭐야, 삼류인가.
+    ja: なんだ、三流か。
+  d_ex_hotel_12_6:
+    speaker: vesti_t
+    en: C-Commander, you're here too?
+    ko: 지, 지휘관님도 왔네.
+    ja: し、指揮官様だ。
+  d_ex_hotel_12_7:
+    speaker: "<Self>"
+    en: Did you guys get the message too?
+    ko: 너희도 문자를 받고 온 거야?
+    ja: 君たちにもメールが来たのか？
+  d_ex_hotel_12_8:
+    speaker: eunhwa_t
+    en: Yeah, and from an unknown sender.
+    ko: 그래, 발신자 불명의 메시지였지.
+    ja: そうだ、発信者不明だった。
+  d_ex_hotel_12_9:
+    speaker: vesti_t
+    en: I-I got the same one too.
+    ko: 나, 나도 같은 걸 받았어.
+    ja: わ、私にも同じメールが来たよ。
+  d_ex_hotel_12_10:
+    speaker: "<Self>"
+    en: "... I wonder who sent it?"
+    ko: "…누가 보낸 거지?"
+    ja: "…一体誰が…？"
+  d_ex_hotel_12_11:
+    speaker: eunhwa_t
+    en: With the three of us here,
+    ko: 나, 베스티, 삼류.
+    ja: 私、ベスティー、三流。
+  d_ex_hotel_12_12:
+    speaker: eunhwa_t
+    en: I can more or less figure out what's going on.
+    ko: 인원 구성을 보니, 대충 짐작은 가는군.
+    ja: メンツからして、大体見当はつく。
+  d_ex_hotel_12_13:
+    speaker: "<Narration>"
+    en: "*Click clack*"
+    ko: 또각- 또각-
+    ja: コツ、コツ
+  d_ex_hotel_12_14:
+    speaker: "<Narration>"
+    en: Amid our confusion, we hear footsteps approaching the door.
+    ko: |-
+      모두가 혼란스러워하던 그때,
+      문 앞에서 누군가의 발소리가 들려온다.
+    ja: |-
+      誰もが困惑していたそのとき、
+      ドアの向こうから誰かの足音が聞こえてきた
+  d_ex_hotel_12_15:
+    speaker: unknown
+    en: Hehe, judging by how lively it sounds in there, looks like everyone's here!
+    ko: 후후, 문안이 시끌시끌한 걸 보니 모두 모였나 보네~
+    ja: |-
+      ふふ、部屋の中がにぎやかだわ。
+      みんな集まったみたいね～
+  d_ex_hotel_12_16:
+    speaker: eunhwa_t
+    en: Looks like we've walked right into a trap.
+    ko: 아무래도 당한 것 같군.
+    ja: "…引っかかってしまったようだな。"
+  d_ex_hotel_12_17:
+    speaker: vesti_t
+    en: This is bad...
+    ko: 큰일 났어….
+    ja: どうしよう…
+  d_ex_hotel_12_18:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_hotel_12_19:
+    speaker: "<Narration>"
+    en: "*Whirr*"
+    ko: 지잉-
+    ja: ガチャ
+  d_ex_hotel_12_20:
+    speaker: emma_t
+    en: Hehe, everyone's here.
+    ko: 후후, 다들 모였구나.
+    ja: ふふ、みんな来てくれたのね。
+  d_ex_hotel_12_21:
+    speaker: emma_t
+    en: So, are you all ready to enjoy the staycation?
+    ko: 호캉스를 즐길 준비는 된 거지?
+    ja: ホカンスを楽しむ準備はできてるかしら？
+  d_ex_hotel_12_22:
+    speaker: "<Monologue>"
+    en: Emma steps into the room, her arms loaded with luggage.
+    ko: 엠마는 짐을 한가득 들고 방안으로 들어왔다.
+    ja: エマは大きな荷物を抱えて部屋の中に入ってきた
+  d_ex_hotel_12_23:
+    speaker: vesti_t
+    en: Wh-why did you send us those texts anonymously, Emma?
+    ko: 에, 엠마… 왜 우리를 익명으로 부른 거야?
+    ja: エ、エマ…どうしてわざわざあんなメールを？
+  d_ex_hotel_12_24:
+    speaker: vesti_t
+    en: You could've just asked us to meet up anytime...
+    ko: 그냥 모이자고 했으면 언제라도….
+    ja: 普通に言ってくれればよかったのに…
+  d_ex_hotel_12_25:
+    speaker: emma_t
+    en: Hehe, I just wanted to surprise all of you today!
+    ko: 후후, 그야~ 오늘은 너희들을 깜짝 놀라게 해 주고 싶었으니까?
+    ja: ふふ、今日はみんなをびっくりさせたかったの。
+  d_ex_hotel_12_26:
+    speaker: vesti_t
+    en: Oh... so wh-what are we doing today?
+    ko: 그, 그럼. 오늘은 뭘 하는 건데?
+    ja: い、一体何をするつもりなの？
+  d_ex_hotel_12_27:
+    speaker: emma_t
+    en: Heehee, think of this as a little morale boost for the team.
+    ko: 후후, 팀의 사기 진작을 위한 모임이랄까.
+    ja: |-
+      ふふ、チームの士気を高める、
+      とでも言っておくわ。
+  d_ex_hotel_12_28:
+    speaker: emma_t
+    en: I've brought some delicious food for us to enjoy!
+    ko: 내가 준비해 온 맛있는 음식도 먹고~
+    ja: 私が準備したおいしい料理を食べて～
+  d_ex_hotel_12_29:
+    speaker: emma_t
+    en: While you relax comfortably on the bed, you can get the massage I've been
+      wanting to give you.
+    ko: |-
+      침대에 누워 푹~ 쉬다가
+      내가 해주는 마사지를 받으면 되는 거야~
+    ja: |-
+      ベッドでゴロゴロして～
+      私のマッサージを受けてもらうの～
+  d_ex_hotel_12_30:
+    speaker: emma_t
+    en: I've been wanting to do this for a while, but somehow our schedules never
+      matched up.
+    ko: |-
+      평소에도 해주고 싶었는데
+      왜인지 항상 시간이 잘 맞지 않았잖아?
+    ja: |-
+      前からいつかこうしたいな～って思ってたの。
+      でも不思議といつも時間が合わなかったでしょ？
+  d_ex_hotel_12_31:
+    speaker: eunhwa_t
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_hotel_12_32:
+    speaker: "<Self>"
+    en: Why am I...?
+    ko: 나는 왜….
+    ja: どうして私まで…
+  d_ex_hotel_12_33:
+    speaker: emma_t
+    en: That's because you're part of the team too, Commander.
+    ko: 후후, 지휘관도 같은 동료니까~
+    ja: ふふ、指揮官も仲間だもの～
+  d_ex_hotel_12_34:
+    speaker: emma_t
+    en: Now then...
+    ko: 그럼 먼저~
+    ja: じゃあまず最初に～
+  d_ex_hotel_12_35:
+    speaker: "<Narration>"
+    en: "*Click*"
+    ko: 달칵-
+    ja: カタッ
+  d_ex_hotel_12_36:
+    speaker: "<Monologue>"
+    en: Emma pulls out a bento box.
+    ko: 엠마는 품에서 작은 도시락을 꺼냈다.
+    ja: エマは胸元から小さな弁当を取り出した
+  d_ex_hotel_12_37:
+    speaker: "<Monologue>"
+    en: Even from a distance, I can sense something sinister coming off it.
+    ko: 거리가 있음에도 도시락에서 불길한 일렁임이 느껴진다.
+    ja: |-
+      離れていても、弁当から
+      ただならぬ雰囲気を感じる
+  d_ex_hotel_12_38:
+    speaker: emma_t
+    en: All righty, who wants the first bite?
+    ko: 자~ 누가 먼저 먹을래?
+    ja: さ～て、誰が最初に食べる？
+  d_ex_hotel_12_39:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_hotel_12_40:
+    speaker: "<Self>"
+    en: I've gotta get out of here.
+    ko: 난 여기서 나가야겠어.
+    ja: 私は逃げるぞ
+  d_ex_hotel_12_41:
+    speaker: eunhwa_t
+    en: "... Give it up, Weakling."
+    ko: "…포기해라 삼류."
+    ja: "…諦めろ、三流。"
+  d_ex_hotel_12_42:
+    speaker: eunhwa_t
+    en: You're already here. It's impossible to escape from Emma's clutches.
+    ko: 여기까지 왔다면 엠마에게 벗어나는 건 불가능해.
+    ja: ここまで来てエマから逃れられると思うな。
+  d_ex_hotel_12_43:
+    speaker: emma_t
+    en: Would you like to start, Eunhwa? Or maybe you, Vesti?
+    ko: 은화랑 베스티는?
+    ja: ウンファとベスティーはどう？
+  d_ex_hotel_12_44:
+    speaker: eunhwa_t
+    en: Oh, I ate a lot just before coming.
+    ko: 아, 난 오기 전에 잔뜩 먹고 왔다.
+    ja: "…ここに来る前に食べてきた。腹はいっぱいだ。"
+  d_ex_hotel_12_45:
+    speaker: eunhwa_t
+    en: Too bad.
+    ko: 아쉽게 됐군.
+    ja: 残念だ。
+  d_ex_hotel_12_46:
+    speaker: vesti_t
+    en: M-me too! I went with Eunhwa!
+    ko: 나, 나도…! 은화랑 같이 다녀왔어…!
+    ja: わ、私も…！ウンファと一緒に食べてきたよ…！
+  d_ex_hotel_12_47:
+    speaker: "<Self>"
+    en: Didn't someone just say it was impossible to get out of it...?
+    ko: 방금 벗어나는 건 불가능하다고 하지 않았어…?
+    ja: さっき逃れられないと言っていなかったか…？
+  d_ex_hotel_12_48:
+    speaker: emma_t
+    en: Oh my, really? You two are even going out to eat together now?
+    ko: 어머… 그래? 둘이서 식당도 다니고 그러는구나?
+    ja: |-
+      あら…そう？
+      2人で一緒にごはんに行ったりもするのね～
+  d_ex_hotel_12_49:
+    speaker: emma_t
+    en: Hehe, I'm really glad you've become so close!
+    ko: 후후, 그래도 친해진 거 같아서 다행이야~
+    ja: ふふ、仲良くしてるみたいで嬉しいわ～
+  d_ex_hotel_12_50:
+    speaker: "<Monologue>"
+    en: Before I even notice, Emma is right in front of me, holding out a spoon.
+    ko: 엠마는 어느새 나의 코앞에 다가와 숟가락을 내밀고 있다.
+    ja: |-
+      気づくと、エマがすぐ目の前で
+      スプーンを差し出していた
+  d_ex_hotel_12_51:
+    speaker: emma_t
+    en: Now then, Commander. Be a good boy...
+    ko: 자, 지휘관. 착하지~
+    ja: ほら、指揮官。いい子ね～
+  d_ex_hotel_12_52:
+    speaker: emma_t
+    en: Open up for me.
+    ko: 아~ 해보자.
+    ja: あ～んして～
+  d_ex_hotel_12_53:
+    speaker: "<Choice>"
+    en: Eat.
+    ko: 먹는다.
+    ja: 食べる
+  d_ex_hotel_12_54:
+    speaker: "<Choice>"
+    en: Eat.
+    ko: 먹는다.
+    ja: 食べる
+  d_ex_hotel_12_55:
+    speaker: emma_t
+    en: C'mon, say "Ahhhh."
+    ko: 아~
+    ja: あ～ん…
+  d_ex_hotel_12_56:
+    speaker: "<Self>"
+    en: Ahhhh...
+    ko: 아….
+    ja: あ…
+  d_ex_hotel_12_57:
+    speaker: "<Narration>"
+    en: "*Gulp*"
+    ko: 꿀꺽-
+    ja: ゴクリ――
+  d_ex_hotel_12_58:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_hotel_12_59:
+    speaker: "<Self>"
+    en: Am I dead?
+    ko: 난 죽은 건가?
+    ja: 私は…死んだのか？
+  d_ex_hotel_12_60:
+    speaker: eunhwa_t
+    en: Hngh...
+    ko: "…큿."
+    ja: "…くっ。"
+  d_ex_hotel_12_61:
+    speaker: eunhwa_t
+    en: Ughhh...
+    ko: 크으….
+    ja: くぅ…
+  d_ex_hotel_12_62:
+    speaker: vesti_t
+    en: U-ughh.
+    ko: 으, 으앗.
+    ja: う、うわあっ。
+  d_ex_hotel_12_63:
+    speaker: "<Monologue>"
+    en: Everyone around me is writhing in discomfort.
+    ko: "…다들 고통 속에 헤매고 있구나."
+    ja: "…苦しみもがく声が聞こえる"
+  d_ex_hotel_12_64:
+    speaker: vesti_t
+    en: Hehe, Emma, that tickles.
+    ko: 헤헤, 엠마. 간지러워.
+    ja: えへへ、エマ。くすぐったいよ。
+  d_ex_hotel_12_65:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_hotel_12_66:
+    speaker: vesti_t
+    en: Hehehehe.
+    ko: 헤헤헤헤.
+    ja: へへへへ。
+  d_ex_hotel_12_67:
+    speaker: "<Monologue>"
+    en: When I open my eyes, I see myself lying on the bed,
+    ko: 눈을 뜨자 보이는 광경은.
+    ja: 目を開けるとそこには
+  d_ex_hotel_12_68:
+    speaker: "<Monologue>"
+    en: and next to me, Vesti and Eunhwa are lying side by side.
+    ko: |-
+      침대에 누워 있는 나 자신과
+      옆에 나란히 엎드려 있는 베스티, 은화의 모습이었다.
+    ja: |-
+      ベッドに寝そべっている自分と
+      同じくうつ伏せになっている
+      ベスティーとウンファがいた
+  d_ex_hotel_12_69:
+    speaker: emma_t
+    en: Oh, are you awake?
+    ko: 어머, 일어났구나?
+    ja: あら、目が覚めた？
+  d_ex_hotel_12_70:
+    speaker: vesti_t
+    en: Hehehe, that tickles!
+    ko: 헤헤헤, 간지러.
+    ja: えへへ、くすぐったいってば。
+  d_ex_hotel_12_71:
+    speaker: emma_t
+    en: Really, Vesti!
+    ko: 정말이지~ 베스티!
+    ja: もう～ベスティー！
+  d_ex_hotel_12_72:
+    speaker: emma_t
+    en: You have to stay still during a massage, you know.
+    ko: 마사지를 할 때는 가만히 있어야 한다니까~
+    ja: マッサージの時はじっとしてなくちゃ～
+  d_ex_hotel_12_73:
+    speaker: vesti_t
+    en: B-but...
+    ko: 그, 그치만….
+    ja: で、でも…
+  d_ex_hotel_12_74:
+    speaker: vesti_t
+    en: I can't help it... It's way too ticklish!
+    ko: 너, 너무 간지러운 걸 어떻게 해.
+    ja: くすぐったくて我慢できないんだもん。
+  d_ex_hotel_12_75:
+    speaker: eunhwa_t
+    en: Urgh...
+    ko: "…크읏."
+    ja: "…くうっ。"
+  d_ex_hotel_12_76:
+    speaker: eunhwa_t
+    en: Emma... ease up just a bit, will you?
+    ko: 엠마… 조금만 강도를 낮춰줘.
+    ja: エマ…少し弱めに頼む。
+  d_ex_hotel_12_77:
+    speaker: emma_t
+    en: Oh my, I'm sorry. I didn't realize you were hurting since you kept holding
+      back your voice.
+    ko: |-
+      어머, 미안해.
+      은화는 자꾸 소리를 참으니까 아파하는 줄 몰랐어.
+    ja: |-
+      あら、ごめんなさい。
+      ウンファは何も言わないから痛くないのかと。
+  d_ex_hotel_12_78:
+    speaker: eunhwa_t
+    en: Phew... Still, that really hit the spot. Good work.
+    ko: 후… 그래도 개운하군. 수고했어.
+    ja: ふぅ…でも体が軽くなった。ありがとう。
+  d_ex_hotel_12_79:
+    speaker: emma_t
+    en: Oh my, you're too kind!
+    ko: 어머, 별말씀을~
+    ja: いえいえ、どういたしまして～
+  d_ex_hotel_12_80:
+    speaker: emma_t
+    en: Hehe. Now then, looks like you're the only one left, Commander.
+    ko: 후후, 그럼 이제 남은 건 지휘관뿐이네?
+    ja: ふふ、最後は指揮官ね？
+  d_ex_hotel_12_81:
+    speaker: vesti_t
+    en: Em-Emma. I have a good idea.
+    ko: 에, 엠마. 나… 좋은 생각이 났어.
+    ja: エ、エマ。いい考えが浮かんだの。
+  d_ex_hotel_12_82:
+    speaker: emma_t
+    en: Hmm? What is it?
+    ko: 응? 뭔데?
+    ja: ん？何かしら～？
+  d_ex_hotel_12_83:
+    speaker: vesti_t
+    en: "*Whisper whisper*"
+    ko: 속닥속닥-
+    ja: コソコソ
+  d_ex_hotel_12_84:
+    speaker: emma_t
+    en: Oh my! That's a wonderful idea!
+    ko: 어머, 너무 좋은 생각인걸?
+    ja: まあ、本当にいい考えね。
+  d_ex_hotel_12_85:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_hotel_12_86:
+    speaker: "<Narration>"
+    en: "*Squeeze squeeze*"
+    ko: 조물조물-
+    ja: もみもみ…
+  d_ex_hotel_12_87:
+    speaker: "<Narration>"
+    en: "*Press press*"
+    ko: 꾹- 꾹-
+    ja: ぐっ…ぐっ…
+  d_ex_hotel_12_88:
+    speaker: "<Self>"
+    en: This feels pretty good...
+    ko: 나쁘지 않네….
+    ja: 悪くないな…
+  d_ex_hotel_12_89:
+    speaker: emma_t
+    en: Don't just stand there, Eunhwa. Come give me a hand, will you?
+    ko: 은화~ 거기 그렇게 있지 말고 와서 좀 도와줘~
+    ja: ウンファ～こっちに来て手伝って～
+  d_ex_hotel_12_90:
+    speaker: eunhwa_t
+    en: No.
+    ko: 싫어.
+    ja: 断る。
+  d_ex_hotel_12_91:
+    speaker: eunhwa_t
+    en: Why should I give him a massage?
+    ko: 내가 왜 삼류의 마사지나 하고 있어야 하는 건데.
+    ja: どうして私が三流のマッサージなんか。
+  d_ex_hotel_12_92:
+    speaker: emma_t
+    en: Hehe, that's because this is a present for our Commander who's been working
+      so hard!
+    ko: 후후, 그동안 고생한 지휘관을 위한 선물이니까~
+    ja: |-
+      ふふ、今まで大変だった指揮官への
+      プレゼントだと思って～
+  d_ex_hotel_12_93:
+    speaker: vesti_t
+    en: Hehe, I think I understand why you like massaging so much, Emma.
+    ko: 헤헤, 엠마가 마사지를 왜 하는지 알 것 같아.
+    ja: |-
+      へへ、エマがマッサージをする理由が
+      分かる気がするかも。
+  d_ex_hotel_12_94:
+    speaker: vesti_t
+    en: It makes me happy to see the person enjoying the massage so much.
+    ko: |-
+      받는 사람이 좋아하니까.
+      나도 기분이 좋아.
+    ja: |-
+      マッサージされる人が喜んでくれると、
+      こっちまで嬉しくなるね。
+  d_ex_hotel_12_95:
+    speaker: emma_t
+    en: I know, right?
+    ko: 그렇지~?
+    ja: でしょ～？
+  d_ex_hotel_12_96:
+    speaker: "<Self>"
+    en: Can you press a little harder, please?
+    ko: 조금만 더 세게 부탁해도 될까?
+    ja: もう少し強めに頼む
+  d_ex_hotel_12_97:
+    speaker: emma_t
+    en: Oh, was that not hard enough?
+    ko: 어머, 약간 부족했구나?
+    ja: あら、力が足りなかったみたいね。
+  d_ex_hotel_12_98:
+    speaker: emma_t
+    en: Okay. Just tell me if it hurts, all right?
+    ko: 알겠어. 혹시라도 아프면 말해줘야 해?
+    ja: 分かったわ。もし痛かったらすぐに言ってね。
+  d_ex_hotel_12_99:
+    speaker: vesti_t
+    en: Hmm... a bit harder?
+    ko: 으음… 더 세게?
+    ja: うーん…もっと強く…
+  d_ex_hotel_12_100:
+    speaker: vesti_t
+    en: Like this?
+    ko: 이… 이렇게 하면 되는 거야?
+    ja: こ…こんな感じかな？
+  d_ex_hotel_12_101:
+    speaker: "<Narration>"
+    en: "*Press press*"
+    ko: 꾸욱- 꾸욱-
+    ja: ググッ――ググッ――
+  d_ex_hotel_12_102:
+    speaker: "<Narration>"
+    en: "*Press*"
+    ko: 꾸우욱-
+    ja: ギュウッ
+  d_ex_hotel_12_103:
+    speaker: "<Narration>"
+    en: "*Crack*"
+    ko: 콰직-
+    ja: バキッ――
+  d_ex_hotel_12_104:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_hotel_12_105:
+    speaker: "<Self>"
+    en: "... I-I don't think my body was supposed to make that sound."
+    ko: "…바, 방금 나면 안 되는 소리가 나지 않았어?"
+    ja: |-
+      …い、今、聞こえてはいけない
+      音がしなかったか？
+  d_ex_hotel_12_106:
+    speaker: vesti_t
+    en: Oh no... wh-what do we do?
+    ko: 어, 어떡해…!
+    ja: ど、どうしよう…！
+  d_ex_hotel_12_107:
+    speaker: vesti_t
+    en: Commander, are you okay...?
+    ko: 지휘관님 괜찮아…?
+    ja: 指揮官様、大丈夫なの…？
+  d_ex_hotel_12_108:
+    speaker: emma_t
+    en: Here, let me take a look.
+    ko: 어머, 내가 한번 볼게.
+    ja: まあ、見せてみて～
+  d_ex_hotel_12_109:
+    speaker: emma_t
+    en: Looks like this part is sunken...
+    ko: 여기가 움푹 들어간 거 같기도 하고…?
+    ja: この辺が少しへこんでるような…
+  d_ex_hotel_12_110:
+    speaker: "<Narration>"
+    en: "*Poke*"
+    ko: 콕-
+    ja: ツンッ
+  d_ex_hotel_12_111:
+    speaker: "<Self>"
+    en: Ow! That hurts!
+    ko: 으아아. 너무 아파.
+    ja: うわあっ、痛い！
+  d_ex_hotel_12_112:
+    speaker: vesti_t
+    en: C-Commander, l-let me help you...
+    ko: 지, 지휘관님. 내, 내가 도와줄 테니까….
+    ja: し、指揮官様。わ、私が何とかしてあげる…
+  d_ex_hotel_12_113:
+    speaker: emma_t
+    en: No, Vesti! Don't touch him there anymore!
+    ko: 베, 베스티! 거긴 더 만지면 안 돼…!
+    ja: ベ、ベスティー！そこはそれ以上触ったらダ…！
+  d_ex_hotel_12_114:
+    speaker: eunhwa_t
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_hotel_12_115:
+    speaker: eunhwa_t
+    en: "... On second thought, this does seem kind of fun."
+    ko: "…나름 재밌어 보이는군."
+    ja: "…なんだか面白そうだな。"
+  d_ex_hotel_12_116:
+    speaker: "<Self>"
+    en: W-wait...!
+    ko: 자, 잠깐만…!
+    ja: ちょ、ちょっと待っ…！
+  d_ex_hotel_12_117:
+    speaker: "<Monologue>"
+    en: In an instant, I'm surrounded by all three of them.
+    ko: "…나는 그렇게 세 사람에게 둘러싸였고"
+    ja: "…そうして私は三人に囲まれ"
+  d_ex_hotel_12_118:
+    speaker: "<Monologue>"
+    en: It seems that I can't get away until the massage is over.
+    ko: 마사지가 끝나지 전까지 풀려날 수 없었다.
+    ja: マッサージが終わってから、やっと解放された

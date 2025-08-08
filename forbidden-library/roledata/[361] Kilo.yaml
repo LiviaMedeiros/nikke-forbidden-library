@@ -57,7 +57,7 @@ character_shot_description_localkey_mg_down:
 23612_description:
   en: |-
     ■ Activates when performing Normal Attack for {description_value_01} time(s) in Nano Coating status. Affects self.
-    <color=#00AEFF><word_group=10048>Recovers Shield HP</word_group> equal to {description_value_02}% caster’s <word_group=10025>final</word_group> Max HP.</color>
+    <color=#00AEFF><word_group=10048>Recovers Shield HP</word_group> equal to {description_value_02}% caster's <word_group=10025>final</word_group> Max HP.</color>
     ■ Activates when using Burst Skill. Affects self if not in Nano Coating status.
     <color=#00AEFF>Effect changes according to the caster's status. Previous effects trigger repeatedly.</color>
     <color=#00AEFF>Once: <word_group=10047>Next Shield's HP</word_group> ▲ {description_value_03}% continuously.</color>

@@ -63,9 +63,9 @@ character_shot_description_localkey_sr_up:
   en: |-
     ■ Activates when using Burst Skill. Affects all Water Code allies.
     <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
-    Once: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_01}% for {description_value_02} sec.
-    Twice: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_03}% for {description_value_04} sec.
-    Three times: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+    Once: <word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: <word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.
+    Three times: <word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
   ko: "■ 버스트 스킬 사용 시 수냉 코드 아군 전체에게\n<color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위
     효과 중복 적용</word_group>]\n1회 : [<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}%
     ▲] [{description_value_02}초 유지] \n2회 : [<word_group=10009>우월 코드 공격 대미지</word_group>

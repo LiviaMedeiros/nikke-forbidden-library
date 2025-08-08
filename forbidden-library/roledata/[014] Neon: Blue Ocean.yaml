@@ -58,9 +58,9 @@ character_shot_description_localkey_mg_down:
   en: |-
     ■ Activates when entering Burst stage 3. Affects self.
     <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
-    Once: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_01}% for {description_value_02} sec.
-    Twice: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_03}% for {description_value_04} sec.
-    Three times: <word_group=10009>Damage as strong element</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+    Once: <word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    Twice: <word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.
+    Three times: <word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
   ko: "■ 버스트 3단계 돌입 시 자신에게\n<color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위 효과 중복
     적용</word_group>]\n1회 : [<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}%
     ▲] [{description_value_02}초 유지] \n2회 : [<word_group=10009>우월 코드 공격 대미지</word_group>
@@ -528,6 +528,6 @@ c014_Win_1:
   ko: 'CV : 장미'
   ja: CV：ジャンミ
 14_cv_en:
-  en: 'CV: UNKNOWN'
-  ko: 'CV : UNKNOWN'
-  ja: CV：UNKNOWN
+  en: 'CV: Xanthe Huynh'
+  ko: 'CV : 잰시 후인'
+  ja: CV：Xanthe Huynh

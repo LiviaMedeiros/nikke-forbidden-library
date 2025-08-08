@@ -67,7 +67,7 @@ character_shot_description_localkey_sr_up:
     <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP.</color>
     ■ Activates only when Full Charge status is maintained for more than {description_value_02} sec and <word_group=10032>a Shield</word_group> is present. Affects self.
     <color=#00AEFF>Current HP ▼ {description_value_03}% every 1 sec continuously.
-    <word_group=10048>Recovers Shield HP</word_group> equal to {description_value_04}% of caster’s <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
+    <word_group=10048>Recovers Shield HP</word_group> equal to {description_value_04}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
   ko: |-
     ■ 풀 차지 공격 시 자신에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>

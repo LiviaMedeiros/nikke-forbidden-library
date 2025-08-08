@@ -95,7 +95,7 @@ skill_name_1003:
     Only activates when there is at least 1 ghost.
     <color=#00AEFF>ATK ▲ {description_value_05}% of the caster's ATK continuously.</color>
     Only activates when there are more than {description_value_06} ghost(s).
-    <color=#00AEFF>Damage as strong element ▲ {description_value_07}% continuously.</color>
+    <color=#00AEFF><word_group=10009>Superior Elemental Code Attack Damage</word_group> ▲ {description_value_07}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 무작위 적 1기에게
     <color=#00AEFF>[빙의] [{description_value_03}초 유지]
@@ -108,22 +108,25 @@ skill_name_1003:
     유령 개수가 1개 이상일 때 한하여
     <color=#00AEFF>[시전자 기준 공격력 {description_value_05}% ▲] [지속]</color>
     유령 개수가 {description_value_06}개 이상일 때 한하여
-    <color=#00AEFF>[우월 코드 공격 시 대미지 {description_value_07}% ▲] [지속]</color>
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_07}% ▲] [지속]</color>
   ja: |-
     ■戦闘開始時、ランダムな敵1機に
     <color=#00AEFF>「憑依」「{description_value_03}秒間維持」
-    機能：敵にキャプチャー可能な幽霊が憑依する
+    機能：敵にキャプチャー可能な幽霊が
+    憑依する
     必要命中回数：{description_value_02}回（味方全体で累計）
-    効果：「命中回数100％到達時に幽霊キャプチャー数1増加」
+    効果：「命中回数100％到達時に
+    幽霊キャプチャー数1増加」
     「最大{description_value_04}」
     <word_group=10085>再発動周期</word_group>：{description_value_01}秒</color>
     ■水冷コードの味方全体に
     <color=#00AEFF>「幽霊キャプチャー数別効果」
     「<word_group=10028>下位効果のスタック適用</word_group>」</color>
     幽霊キャプチャー数が1以上の時のみ
-    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_05}％▲」「持続」</color>
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_05}％▲」
+    「持続」</color>
     幽霊キャプチャー数が{description_value_06}以上の時のみ
-    <color=#00AEFF>「有利コードで攻撃した時、ダメージ{description_value_07}％▲」「持続」</color>
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_07}％▲」「持続」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1
@@ -326,7 +329,7 @@ c502_Lobby_Touch_Love_1:
     私の水着はいかがですかな？
     BOOMですかな？
 c502_Lobby_Touch_Love_2:
-  en: "Mr. Commander, wanna have a BOOMing good time? \nGuess what’s on display? My
+  en: "Mr. Commander, wanna have a BOOMing good time? \nGuess what's on display? My
     swimsuit! Hehe."
   ko: |-
     지휘관 씨, BOOM 하실래여?
@@ -453,7 +456,7 @@ c502_Field_Touch_1:
   ko: 녜이, 말씀하세여.
   ja: はい～、何でもおっしゃってくだされ。
 c502_Field_Go_1:
-  en: Let’s go this instant!
+  en: Let's go this instant!
   ko: 당장 가져!
   ja: 今すぐ行きますぞ！
 c502_Battle_Enter_1:
@@ -461,7 +464,7 @@ c502_Battle_Enter_1:
   ko: BFG, 준비됐습니댜!
   ja: BFG、準備完了ですぞ！
 c502_Battle_Ready_1:
-  en: Let’s make this electrifying!
+  en: Let's make this electrifying!
   ko: 짜릿하게 가보져!
   ja: スリリングに参りますぞ！
 c502_Battle_Ready_2:
@@ -525,7 +528,7 @@ c502_Die_1:
   ko: 히잉…. 배터리가 다 됐어여….
   ja: ひぃん…バッテリーが切れてしまいましたな…
 c502_Win_1:
-  en: BFG! It’s huge, it’s cool, and it’s a gun!
+  en: BFG! It's huge, it's cool, and it's a gun!
   ko: BFG! 크고, 멋진, 총이져!
   ja: BFG！すなわち、デカくてイカす銃ですぞ！
 502_cv_ja:

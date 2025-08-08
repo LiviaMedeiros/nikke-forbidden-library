@@ -1,0 +1,541 @@
+---
+95_name:
+  en: 'Eunhwa: Tactical Upgrade'
+  ko: '은화 : 택티컬 업'
+  ja: ウンファ：タクティカル・アップ
+c095_description:
+  en: |-
+    Eunhwa, the leader of Absolute has been strengthened through the Tactical Upgrade plan.
+    Having let go of the burdens of her past, she is free of all hesitation, and exhibits remarkable growth both physically and mentally.
+  ko: "택티컬 업 플랜을 통해 더욱 강력해진 앱솔루트의 리더, 은화. \n얽매어 있던 과거의 응어리를 모두 풀어내고 망설임이 사라져, 육체적으로도
+    정신적으로 한층 성장했다."
+  ja: |-
+    タクティカル・アップ計画でさらに強くなった
+    アブソルートのリーダー、ウンファ。
+    過去のわだかまりから解放されたことで迷いが消え、
+    肉体的にも精神的にもさらに成長した。
+95_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_95:
+  en: 'Eunhwa: Tactical Upgrade''s Spare Body'
+  ko: '은화 : 택티컬 업 스페어 바디'
+  ja: ウンファ：タクティカル・アップのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20952_name:
+  en: AS Formation
+  ko: 포메이션 AS
+  ja: フォーメーションAS
+20952_description:
+  en: |-
+    ■ Activates only when self survives.
+    <color=#00AEFF>AS Formation:
+    Function: Issues a battle-advantageous tactic to target(s).
+    Effect 1: Affects all allies from the same squad. Critical Rate ▲ {description_value_01}% continuously.
+    Effect 2: Affects all allies. Charge Damage ▲ {description_value_02}% continuously.
+    Effect 3: Affects self. ATK ▲ {description_value_05}% continuously.
+
+    Bonus effects when applying LT Formation to self.
+    Effect 1: Affects all allies. <word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_03}% continuously.
+    Effect 2: Affects all allies. True Damage ▲ {description_value_04}% continuously.</color>
+  ko: |-
+    ■ 자신이 생존해있을 때 한하여
+    <color=#00AEFF>[포메이션 AS] :
+    기능 : 대상에게 전투에 유리한 전술 작전을 하달합니다.
+    효과 1 : 동일 스쿼드 아군 전체에게 [크리티컬 확률 {description_value_01}% ▲] [지속]
+    효과 2 : 아군 전체에게 [차지 대미지 {description_value_02}% ▲] [지속]
+    효과 3 : 자신에게 [공격력 {description_value_05}% ▲] [지속]
+
+    [자신에게 포메이션 LT 적용 중 추가 효과]
+    효과 1 : 아군 전체에게 [<word_group=10066>발사체 폭발 대미지</word_group> {description_value_03}% ▲] [지속]
+    효과 2 : 아군 전체에게 [방어력 무시 대미지 {description_value_04}% ▲] [지속]</color>
+  ja: |-
+    ■自分が生存している限り
+    <color=#00AEFF>「フォーメーションAS」：
+    機能：戦闘を有利に進める作戦指示を行う
+    効果1：同じ部隊の味方全体に「クリティカル確率{description_value_01}％▲」「持続」
+    効果2：味方全体に
+    「チャージダメージ{description_value_02}％▲」「持続」
+    効果3：自分に「攻撃力{description_value_05}％▲」「持続」
+
+    「自分にフォーメーションLT適用中、効果を追加」
+    効果1：味方全体に「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_03}％▲」「持続」
+    効果2：味方全体に「防御力無視ダメージ{description_value_04}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20951_name:
+  en: Camouflage Scarf
+  ko: 카모플라쥬 스카프
+  ja: カモフラージュスカーフ
+20951_description:
+  en: |-
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_01} sec. Loses effect when the caster takes damage.</color>
+    ■ Activates when performing Full Charge attacks. Affects self when entering Full Burst.
+    <color=#00AEFF>Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_01} sec. Loses effect when the caster takes damage.</color>
+    ■ Activates only when in Camouflage status. Affects self.
+    <color=#00AEFF>Normal attacks deal true damage continuously.
+    True damage ▲ {description_value_02}% continuously.</color>
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[카모플라쥬 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_01}초 유지]</color>
+    ■ 풀 차지 공격 시 풀 버스트 타임이라면 자신에게
+    <color=#00AEFF>[카모플라쥬 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_01}초 유지]</color>
+    ■ 카모플라쥬 상태일 때 한하여 자신에게
+    <color=#00AEFF>[일반 공격을 방어력 무시 대미지로 적용] [지속]
+    [방어력 무시 대미지 {description_value_02}% ▲] [지속]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「カモフラージュ：<word_group=10004>単一攻撃対象から除外</word_group>
+    直接攻撃を受けると解除」
+    「{description_value_01}秒間維持」</color>
+    ■フルチャージして攻撃した時、
+    フルバーストタイムなら自分に
+    <color=#00AEFF>「カモフラージュ：<word_group=10004>単一攻撃対象から除外</word_group>
+    直接攻撃を受けると解除」
+    「{description_value_01}秒間維持」</color>
+    ■カモフラージュ状態である限り、自分に
+    <color=#00AEFF>「通常攻撃が防御力無視ダメージに変化」「持続」
+    「防御力無視ダメージ{description_value_02}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10953_name:
+  en: Explosive Round
+  ko: 내부 폭발탄
+  ja: 徹甲炸裂弾
+10953_description:
+  en: "■ Affects self.\n<color=#00AEFF>Swap Weapon:\nCharge time: 0.3 sec\nDamage:
+    {description_value_01}% of <word_group=10025>final</word_group> ATK as true damage\nFull
+    Charge damage: 300% of damage\nMax ammunition capacity: {description_value_02}
+    round(s)\nSpecial note: Fires an Exploding Bullet dealing area-of-effect damage.
+    \nAdditional effect:\nTarget: Target(s) hit\nEffect: Explosive Round - Damage
+    taken ▲ {description_value_03}% for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경] :
+    차지 시간 : 0.3초
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 방어력 무시 대미지
+    풀 차지 대미지 : 300% 대미지
+    최대 장탄 수 : {description_value_02}발
+    특이사항 : 폭발탄을 발사해 넓은 범위를 공격합니다.
+    추가 효과
+    대상 : 명중 대상에게
+    효과 : [내부 폭발탄 : 받는 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器変更」：
+    チャージ時間：0.3秒
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    防御力無視ダメージ
+    フルチャージダメージ：300％
+    最大装弾数：{description_value_02}発
+    特記事項：炸裂弾を発射して
+    広範囲を攻撃する
+    追加効果
+    対象：命中した敵に
+    効果：「徹甲炸裂弾：
+    受けるダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+90_name:
+  en: Emma
+  ko: 엠마
+  ja: エマ
+91_name:
+  en: Vesti
+  ko: 베스티
+  ja: ベスティー
+92_name:
+  en: Eunhwa
+  ko: 은화
+  ja: ウンファ
+93_name:
+  en: 'Emma: Tactical Upgrade'
+  ko: '엠마 : 택티컬 업'
+  ja: エマ：タクティカル・アップ
+94_name:
+  en: 'Vesti: Tactical Upgrade'
+  ko: '베스티 : 택티컬 업'
+  ja: ベスティー：タクティカル・アップ
+c095_Lobby_Touch_1:
+  en: Hey, Junior Blockhead. If you've got some free time, review the mission briefing.
+  ko: 야, 꼴통 후배. 한가하면 작전 자료라도 살펴봐.
+  ja: |-
+    おい、情けない後輩。
+    暇なら作戦の資料でも読んでおけ。
+c095_Lobby_Touch_2:
+  en: If you've got something to say, go ahead. I'll at least hear you out.
+  ko: 하고 싶은 말이 있다면 해봐. 들어는 주지.
+  ja: 言いたいことがあるなら言え。一応聞いてやる。
+c095_Lobby_Touch_3:
+  en: Don't start a conversation if you're not gonna finish it. Don't leave people
+    hanging.
+  ko: 말을 걸었으면, 말을 해라. 사람 귀찮게 하지 말고.
+  ja: 話しかけたなら最後まで話せ。こっちは暇じゃないんだ。
+c095_Lobby_Touch_Love_1:
+  en: Hey, Junior Blockhead. What's the next mission?
+  ko: 이봐, 꼴통 후배. 다음 작전은 뭐냐?
+  ja: おい、後輩。次の作戦は何だ？
+c095_Lobby_Touch_Love_2:
+  en: If you're curious about something, ask. I can at least offer some advice as
+    your senior.
+  ko: 궁금한 게 있으면 말해 봐. 선배로서 조언 정돈 해줄 테니까.
+  ja: |-
+    気になることがあるなら話してみろ。
+    先輩として、アドバイスくらいはしてやる。
+c095_Lobby_Touch_Love_3:
+  en: We're Absolute. No matter how tough the mission is, just tell us what you need.
+  ko: 우린 앱솔루트다. 작전의 난이도 따윈 상관없으니 뭐든 말해.
+  ja: |-
+    私たちはアブソルートだ。作戦の難易度など関係ない。
+    何でも言ってくれ。
+c095_Lobby_Stay_1:
+  en: What are you doing? Now's not the time to be slacking off.
+  ko: 뭐 하고 있는 거냐? 지금 이렇게 노닥거리고 있을 때가 아니야.
+  ja: 何をしている？今はくだらん話をしている場合ではない。
+c095_Lobby_Stay_Love_1:
+  en: |-
+    Running through the mission in your head? Take your time.
+    But it'd better be flawless.
+  ko: "작전을 생각 중이냐? 천천히 생각하도록 해. \n다만, 완벽한 작전이어야 할 거다."
+  ja: |-
+    作戦を考えているのか？ならゆっくり考えるといい。
+    ただし、完璧な作戦にしろ。
+c095_Outpost_Touch_1:
+  en: Not bad at all. Still, I think you could do even better.
+  ko: "그럭저럭 잘해놨군. \n하지만 조금 더 잘할 수 있을 것 같은데."
+  ja: |-
+    なかなかの出来だな。
+    だがお前なら、 もう少し上手くできるはずだ。
+c095_Outpost_Touch_2:
+  en: Make sure to regularly maintain the weapons and ammo in the Armory so they're
+    kept in perfect condition at all times.
+  ko: 무기고의 무기와 탄약 관리는 항상 완벽한 상태를 유지할 수 있게 틈틈이 해둬라.
+  ja: |-
+    武器庫の武器と弾薬は、 常に完璧な状態を 保たなければならない。
+    こまめに管理しろ。
+c095_Outpost_Touch_3:
+  en: Always be thorough in mission prep. That's your job, after all.
+  ko: 작전 대비는 항상 철저히 하도록 해라. 그게 네가 할 일이잖아.
+  ja: 作戦の準備は 常に徹底して行え。 それがお前の役目だ。
+c095_Gacha_Get_1:
+  en: Absolute is the ultimate force of perfection. Count yourself lucky to be on
+    this journey with us, Junior Blockhead.
+  ko: |-
+    완벽한 최강. 우리 앱솔루트가 가는 길에 너도 함께하게 해주지.
+    영광인 줄 알아라, 꼴통 후배.
+  ja: |-
+    完璧にして最強。私たちアブソルートが目指す道を、
+    お前にも歩ませてやる。ありがたく思え、後輩。
+c095_Reinforce_1:
+  en: I've gotten a bit more tactical.
+  ko: 좀 더 택티컬해졌군.
+  ja: さらにタクティカルになったな。
+c095_Reinforce_2:
+  en: One step closer to ultimate strength.
+  ko: 최강을 향해 한 걸음 더 나아갔어.
+  ja: 最強に向かって、また一歩前進したな。
+c095_Reinforce_3:
+  en: This is just the beginning. I'm far from satisfied.
+  ko: 이 정도로 만족하기엔 일러.
+  ja: 満足するにはまだ早い。
+c095_Gift_1:
+  en: Looks like you've finally developed some good judgment.
+  ko: 안목이 어느 정도는 생겼나 보군.
+  ja: 少しは見る目が鍛えられたようだな。
+c095_Gift_2:
+  en: I hope it's something useful.
+  ko: 쓸모 있는 물건이길 바라지.
+  ja: 役に立つものだと思っておこう。
+c095_Gift_3:
+  en: You're giving this to me...? Thanks.
+  ko: 이걸, 받으라고? …고맙다.
+  ja: これを、受け取れと？…礼は言っておく。
+c095_Attractive_Up_1:
+  en: I guess it's not completely foolish of me to entrust my dream to you.
+  ko: 너라면 내 꿈을 맡겨도 괜찮겠지.
+  ja: お前になら、私の夢を託してもいい。
+c095_Attractive_Up_2:
+  en: You're certainly not one of those run-of-the-mill weaklings.
+  ko: 확실히 넌 여느 삼류 나부랭이들과는 달라.
+  ja: やはりお前は、他の三流どもとは違うようだな。
+c095_Attractive_Up_3:
+  en: If you're determined to walk that path, then I'll walk it with you. I'm counting
+    on you, Junior Blockhead.
+  ko: "네가 걸어가려고 하는 그 길, 나도 함께하겠다. \n잘 부탁하지. 꼴통 후배."
+  ja: |-
+    お前が進む道に私も同行しよう。
+    よろしく頼んだぞ、情けない後輩。
+c095_Party_Deploy_1:
+  en: That's some tactical thinking.
+  ko: 택티컬한 판단이군.
+  ja: タクティカルな判断だ。
+c095_Field_Touch_1:
+  en: Call out the coordinates.
+  ko: 좌표를 말해.
+  ja: 座標を言え。
+c095_Field_Go_1:
+  en: Always stay alert and watch your surroundings while on the move.
+  ko: 이동할 땐 주위를 항상 경계하도록.
+  ja: 移動するときは常に周囲を警戒するように。
+c095_Battle_Enter_1:
+  en: Encounter.
+  ko: 인카운터.
+  ja: エンカウンター。
+c095_Battle_Ready_1:
+  en: I'll show you what perfection looks like.
+  ko: 완벽이란 게 뭔지 보여주지.
+  ja: 完璧とは何か見せてやろう。
+c095_Battle_Ready_2:
+  en: Target identified. Eliminating.
+  ko: 목표 식별 완료. 섬멸한다.
+  ja: 目標確認。ただちに殲滅する。
+c095_Battle_Ready_3:
+  en: I'll deal with this tactically.
+  ko: 택티컬하게 처치하겠다.
+  ja: タクティカルに処理する。
+c095_Reload_1:
+  en: Never take your eyes off the battlefield, even while reloading.
+  ko: 장전 중에도 전장에서 눈을 떼지 마.
+  ja: 装填中も戦場から目を離すな。
+c095_Reload_2:
+  en: Hang in there until I'm finished reloading.
+  ko: 정비가 끝날 때까지 버텨.
+  ja: 整備が終わるまで持ちこたえろ。
+c095_Reload_3:
+  en: One second. I'll be back soon.
+  ko: 조금만 기다려. 금방 복귀하지.
+  ja: 少し待ってろ。すぐに戻る。
+c095_Ult_Skill_Ready_1:
+  en: Target locked.
+  ko: 목표 포착 완료.
+  ja: 目標確認。
+c095_Ult_Skill_1:
+  en: Once I've got something in my sights, I never miss.
+  ko: 내 스코프에 담긴 이상, 그 어떤 것도 놓치지 않아!
+  ja: 捉えた獲物を逃すと思うな！
+c095_FullBurst_1:
+  en: Go! Wipe them all out!
+  ko: 가라, 전부 쓸어 버려!
+  ja: 行け、すべて片づけろ！
+c095_Kill_Monster_1:
+  en: Target neutralized.
+  ko: 표적 침묵.
+  ja: 目標の沈黙を確認。
+c095_Kill_Monster_2:
+  en: Next.
+  ko: 다음.
+  ja: 次。
+c095_Kill_Monster_3:
+  en: Target eliminated.
+  ko: 격파 완료.
+  ja: クリア。
+c095_Damage_1:
+  en: Ngh...
+  ko: 크윽.
+  ja: くっ…
+c095_Damage_2:
+  en: Dammit!
+  ko: 젠장!
+  ja: クソッ！
+c095_Damage_3:
+  en: Damn.
+  ko: 망할.
+  ja: チッ…！
+c095_Die_1:
+  en: I'm still a long way from being the perfect ultimate force it seems...
+  ko: 아직도 완벽한 최강이 되기엔 멀었나…….
+  ja: まだ完璧には…届かないのか…？
+c095_Win_1:
+  en: Good work, Junior Blockhead. Not a bad operation.
+  ko: 수고했다. 꼴통 후배. 나쁘지 않은 작전이었어.
+  ja: ご苦労だったな、後輩。悪くない作戦だった。
+95_cv_ja:
+  en: 'CV: Sayaka Senbongi'
+  ko: 'CV : 센본기 사야카'
+  ja: CV：千本木彩花
+95_cv_ko:
+  en: 'CV: Won Esther'
+  ko: 'CV : 원에스더'
+  ja: CV：ウォン・エスター
+95_cv_en:
+  en: 'CV: Anne Yatco'
+  ko: 'CV : 앤 야트코'
+  ja: CV：Anne Yatco
