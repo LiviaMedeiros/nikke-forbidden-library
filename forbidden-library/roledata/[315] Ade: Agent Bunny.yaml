@@ -1,0 +1,539 @@
+---
+315_name:
+  en: 'Ade: Agent Bunny'
+  ko: '에이드 : 에이전트 바니'
+  ja: エード：エージェントバニー
+c315_description:
+  en: After receiving a special mission from Mustang, Ade dons a bunny girl outfit.
+    Though she remains the perfect maid, she’s still quite inexperienced as an agent.
+  ko: |-
+    머스탱에게 특수 임무를 받고 바니걸 의상을 입은 에이드.
+    여전히 완벽한 메이드이지만, 요원으로서는 아직 서투르다.
+  ja: |-
+    マスタングから特殊任務を受け、
+    バニーガールの衣装を着たエード。
+    メイドとしては相変わらず完璧だが、
+    エージェントとしてはまだ不慣れだ。
+315_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_315:
+  en: 'Ade: Agent Bunny''s Spare Body'
+  ko: '에이드 : 에이전트 바니 스페어 바디'
+  ja: エード：エージェントバニーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+23152_name:
+  en: Agent's Movement
+  ko: 요원의 움직임
+  ja: エージェントの所作
+23152_description:
+  en: |-
+    ■ Activates when landing Full Charge attacks on targets within the effective range. Affects all allies.
+    <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates only if Spy Lens is fully stacked. Affects self.
+    <color=#00AEFF>Gain Pierce continuously.
+    ATK ▲ {description_value_03}% continuously.</color>
+  ko: |-
+    ■ 풀 차지 공격으로 적정 사거리의 대상 명중 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10042>관통 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 자신이 스파이 렌즈 최대 중첩 상태일 때 한하여 자신에게
+    <color=#00AEFF>[관통 특화] [지속]
+    [공격력 {description_value_03}% ▲] [지속]</color>
+  ja: |-
+    ■フルチャージ攻撃が適正射程距離内の対象に
+    命中した時、味方全体に
+    <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■自分が隠しレンズの
+    フルスタック状態時のみ、自分に
+    <color=#00AEFF>「貫通特化」「持続」
+    「攻撃力{description_value_03}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23151_name:
+  en: Agent's Gaze
+  ko: 요원의 시선
+  ja: エージェントの目配り
+23151_description:
+  en: |-
+    ■ Activates when landing Full Charge attacks on targets within the effective range. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Spy Lens: <word_group=10037>Minimum Effective Range</word_group> ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격으로 적정 사거리의 대상 명중 시 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[스파이 렌즈 : <word_group=10037>적정 최소 사거리</word_group> {description_value_03}% ▲] [{description_value_04}중첩] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■フルチャージ攻撃が適正射程距離内の対象に
+    命中した時、味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「隠しレンズ：<word_group=10037>適正最小射程距離</word_group>{description_value_03}％▲」
+    「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13153_name:
+  en: Cutting-Edge Agent Equipment
+  ko: 최첨단 요원 장비
+  ja: エージェントの隠し道具
+13153_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF><word_group=10037>Minimum Effective Range</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_03}% for {description_value_04} sec.
+    <word_group=10042>Pierce Damage</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[<word_group=10037>적정 최소 사거리</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [<word_group=10042>관통 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「<word_group=10037>適正最小射程距離</word_group>{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」
+    「<word_group=10042>貫通ダメージ</word_group>{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+310_name:
+  en: Ade
+  ko: 에이드
+  ja: エード
+311_name:
+  en: Cocoa
+  ko: 코코아
+  ja: ココア
+312_name:
+  en: Soda
+  ko: 소다
+  ja: ソーダ
+313_name:
+  en: 'Privaty: Unkind Maid'
+  ko: '프리바티 : 언카인드 메이드'
+  ja: プリバティ：アンカインド・メイド
+314_name:
+  en: 'Soda: Twinkling Bunny'
+  ko: '소다 : 트윙클링 바니'
+  ja: ソーダ：トゥインクルバニー
+c315_Lobby_Touch_1:
+  en: |-
+    Welcome, Master.
+    I'll be serving you today as a bunny girl.
+  ko: |-
+    어서 오세요, 주인님.
+    오늘은 바니걸로서 주인님을 모실게요.
+  ja: |-
+    お帰りなさいませ、ご主人様。
+    本日はバニーガールとなり、ご主人様にお仕えいたします。
+c315_Lobby_Touch_2:
+  en: |-
+    ... I-is there anything you need?
+    I-It's just... if you stare at me like that...
+  ko: |-
+    …호, 호호혹시 필요하신 거라도 있으신가요?
+    그렇게 뚜, 뚫어져라 보시면….
+  ja: |-
+    …な、なな何かご入用でしょうか？
+    そのようにまじまじと見られますと…
+c315_Lobby_Touch_3:
+  en: |-
+    Hehe, I even received special agent training this time.
+    I hope I get a chance to show it off to you.
+  ko: |-
+    후후. 이번엔 특수 요원으로서 훈련도 받았어요.
+    보여드릴 기회가 있으면 좋겠네요.
+  ja: |-
+    ふふ。今回はエージェントとしての訓練も受けたのですよ。
+    お見せできる機会があればいいのですが。
+c315_Lobby_Touch_Love_1:
+  en: P-perhaps... you prefer bunny girls over maids?
+  ko: 호, 혹시… 메이드보다 바니걸이 더 좋으신 건가요…?
+  ja: も、もしかして…メイドよりバニーガールのほうがお好きですか…？
+c315_Lobby_Touch_Love_2:
+  en: |-
+    I-it's not so much that I'm embarrassed...
+    It's just that showing this side of me to you is kind of...
+  ko: |-
+    부, 부끄럽기보단…
+    주인님께 이런 모습을 보이는 게 너무….
+  ja: |-
+    は、恥ずかしいというより…
+    こんな姿をお見せするのがとても…
+c315_Lobby_Touch_Love_3:
+  en: |-
+    P-please stop staring at me...!
+    Ahhh...
+  ko: |-
+    너, 너무 보지 말아주세요…!
+    하으으….
+  ja: |-
+    そ、そんなに見ないでください…！
+    はぅぅ…
+c315_Lobby_Stay_1:
+  en: So embarrassing, so embarrassing, so embarrassing...
+  ko: 너무 부끄러워 너무 부끄러워 너무 부끄러워….
+  ja: 恥ずかしすぎる、恥ずかしすぎる、恥ずかしすぎる…
+c315_Lobby_Stay_Love_1:
+  en: "Master still says I'm beautiful even when I look like this... \n... Hehe. I
+    really like you, Master."
+  ko: |-
+    주인님께선 이런 제 모습도 예쁘다고 해주시는군요….
+    …후후. 정말로 좋아해요, 주인님.
+  ja: |-
+    こんな姿でもかわいいと言ってくださるなんて…
+    …ふふ。大好きです、ご主人様。
+c315_Outpost_Touch_1:
+  en: M-master?! What are you doing here?!
+  ko: 주, 주인님?! 어째서 여기에?!
+  ja: ご、ご主人様！？ どうしてこちらに！？
+c315_Outpost_Touch_2:
+  en: |-
+    I won't run into Master... right?
+    It'd be too embarrassing if he saw me dressed like this...
+  ko: |-
+    주인님과 마주치는 건 아니겠지…?
+    이런 모습을 보이는 건 너무 부끄러우니까….
+  ja: |-
+    ご主人様とお会いしたり しないわよね…？
+    こんな姿をお見せするのは 恥ずかしすぎて…
+c315_Outpost_Touch_3:
+  en: Hehe. Hosting a bunny girl event at the Maid Cafe would be fun.
+  ko: 후후. 메이드 카페에서 바니걸 행사를 열어보는 것도 재미있겠어요.
+  ja: |-
+    ふふ。メイドカフェで バニーガールのイベントを開くのも
+    面白そうですね。
+c315_Gacha_Get_1:
+  en: |-
+    Are you well, Master?
+    Hehe. I may be dressed differently than usual, but I'll still do my best to serve you.
+  ko: |-
+    평안하신가요, 주인님.
+    후후. 평소랑 차림새는 다르지만, 최선을 다해 모실게요.
+  ja: |-
+    ごきげんよう、ご主人様。ふふ。普段とは違う装いですが、
+    最善を尽くしてお仕えいたします。
+c315_Reinforce_1:
+  en: I-I did get stronger, but...
+  ko: 가, 강해지긴 했는데요오….
+  ja: た、確かに強くはなったのですが…
+c315_Reinforce_2:
+  en: I will r-repay you with b-better... s-service...
+  ko: 더, 더 좋은 서비.. 서비스로… 보, 보답을… 하으으….
+  ja: よ、より、すばらしい、さ、サービスで…お、お仕え…はぅぅ…
+c315_Reinforce_3:
+  en: M-master... Stop...
+  ko: 주, 주인님… 그만….
+  ja: ご、ご主人様…それ以上は…
+c315_Gift_1:
+  en: I n-need to... I need to give something in return...!
+  ko: 다, 답례… 답례를 드려야 하는데…!
+  ja: お、お返し…お返しを差し上げないと…！
+c315_Gift_2:
+  en: Th-th-thank you!
+  ko: 가, 가가감사합니다…!
+  ja: あ、ああ、ありがとうございます…！
+c315_Gift_3:
+  en: I-I'm really sorry, but could I maybe accept it later...?
+  ko: 저, 정말 죄송하지만 다음에 받아도 될까요…?!
+  ja: |-
+    ま、誠に申し訳ございませんが、
+    また今度ちょうだいしてもよろしいですか…！？
+c315_Attractive_Up_1:
+  en: You don't hate how I'm dressed... do you...?
+  ko: 제 이런 모습도… 싫지 않으신 건가요…?
+  ja: 私のこんな姿は…お嫌いではございませんか…？
+c315_Attractive_Up_2:
+  en: Y-you're such a tease, Master. But even so... I'm really happy.
+  ko: |-
+    지, 짓궂으세요, 주인님. 그래도…
+    정말 기뻐요.
+  ja: |-
+    い、いじわるですね、ご主人様。でも…
+    本当に嬉しいです。
+c315_Attractive_Up_3:
+  en: As long as you like it, it doesn't matter how I'm dressed.
+  ko: 주인님만 좋아해 주신다면, 어떤 모습이라도 괜찮아요.
+  ja: |-
+    ご主人様に喜んでいただけるのでしたら、
+    どのような姿でも構いません。
+c315_Party_Deploy_1:
+  en: |-
+    Whew... Yeah, I'm okay now.
+    I'll get it done perfectly.
+  ko: |-
+    후우… 네. 이제 괜찮아요.
+    완벽하게 해낼게요.
+  ja: |-
+    ふぅ…はい。もう大丈夫です。
+    完璧にやり遂げます。
+c315_Field_Touch_1:
+  en: Yes, Master. I'm listening.
+  ko: 네. 주인님. 말씀하세요.
+  ja: はい、ご主人様。お申しつけください。
+c315_Field_Go_1:
+  en: I'll proceed swiftly and silently.
+  ko: 신속하고 은밀하게 움직일게요.
+  ja: 迅速に、目立たないよう動きます。
+c315_Battle_Enter_1:
+  en: Commencing mission.
+  ko: 작전, 시작하겠습니다.
+  ja: 作戦を始めます。
+c315_Battle_Ready_1:
+  en: I feel a bit self-conscious with Master watching, but...!
+  ko: 주인님께서 보고 계신 건 조금 부끄럽지만…!
+  ja: ご主人様がご覧になっているかと思うと、恥ずかしいのですが…
+c315_Battle_Ready_2:
+  en: I will fight not as a maid, but as an agent!
+  ko: 메이드가 아니라, 요원으로서 싸울게요!
+  ja: メイドではなく、エージェントとして戦います！
+c315_Battle_Ready_3:
+  en: Watch me, Master... Er... I mean, just for a bit.
+  ko: 지켜봐 주세요, 주인님. 그… 조, 조금만요!
+  ja: 見守ってください、ご主人様。…ほ、ほんの少しだけ。
+c315_Reload_1:
+  en: I almost made e-eye contact with Master...!
+  ko: 주, 주인님이랑 눈이 마주칠 뻔…!
+  ja: ご、ご主人様と目が…！
+c315_Reload_2:
+  en: Oh, jeez... I'm getting embarrassed again.
+  ko: 으… 또 부끄러워지려고 해요.
+  ja: ううっ…また恥ずかしくなりそうです。
+c315_Reload_3:
+  en: Gotta stay calm, like a true agent...!
+  ko: 요원처럼, 침착하게…!
+  ja: エージェントらしく、落ち着いて…！
+c315_Ult_Skill_Ready_1:
+  en: I'm ready, Master.
+  ko: 준비됐어요, 주인님.
+  ja: 準備できました、ご主人様。
+c315_Ult_Skill_1:
+  en: Let me show you the results of my training...!
+  ko: 훈련의 성과, 보여드리죠…!
+  ja: 訓練の成果をお見せします…！
+c315_FullBurst_1:
+  en: Everyone, now!
+  ko: 다들, 지금이에요!
+  ja: みなさん、今です！
+c315_Kill_Monster_1:
+  en: Done and dusted!
+  ko: 처리 완료!
+  ja: 処理完了！
+c315_Kill_Monster_2:
+  en: It needs to be even more perfect...!
+  ko: 더 완벽하게…!
+  ja: もっと完璧に…！
+c315_Kill_Monster_3:
+  en: It needs to be more flawless...!
+  ko: 더 깔끔하게…!
+  ja: もっとスマートに…！
+c315_Damage_1:
+  en: Ah!
+  ko: 꺅.
+  ja: きゃっ。
+c315_Damage_2:
+  en: Ungh...
+  ko: 윽….
+  ja: うっ…
+c315_Damage_3:
+  en: Ugh.
+  ko: 읏.
+  ja: あっ。
+c315_Die_1:
+  en: It seems... I still lack training...
+  ko: 아직 훈련이… 부족했군요….
+  ja: まだ訓練が…足りないようですね…
+c315_Win_1:
+  en: Mission complete, Master.
+  ko: 임무 완료했어요, 주인님.
+  ja: 任務を完了しました。ご主人様。
+315_cv_ja:
+  en: 'CV: Kiyono Yasuno'
+  ko: 'CV : 야스노 키요노'
+  ja: CV：安野希世乃
+315_cv_ko:
+  en: 'CV: Hong Soo-jung'
+  ko: 'CV : 홍수정'
+  ja: CV：ホン・スジョン
+315_cv_en:
+  en: 'CV: Crystal Lee'
+  ko: 'CV : 크리스털 리'
+  ja: CV：Crystal Lee

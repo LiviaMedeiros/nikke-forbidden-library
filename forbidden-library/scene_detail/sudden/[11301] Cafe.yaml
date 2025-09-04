@@ -5559,3 +5559,608 @@ d_ex_cafe_09:
       その後、ドリンクゾーンでは
       素晴らしい紅茶とプリムコーヒーを
       味わうことができるようになった
+d_ex_cafe_10:
+  d_ex_cafe_10_1:
+    speaker: "<Monologue>"
+    en: After completing the mission with Milk, we stop by a cafe before heading back.
+    ko: 밀크와 함께 의뢰를 끝마치고, 복귀하기 위해 잠시 카페에 들렀다.
+    ja: |-
+      ミルクとともに依頼を終え、
+      カフェに少し立ち寄った
+  d_ex_cafe_10_2:
+    speaker: "<Monologue>"
+    en: And then, I encounter...
+    ko: 그리고 그곳에서 마주친 건….
+    ja: そこにいたのは…
+  d_ex_cafe_10_3:
+    speaker: frima
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_cafe_10_4:
+    speaker: sugar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_cafe_10_5:
+    speaker: milk_b
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_cafe_10_6:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_cafe_10_7:
+    speaker: milk_b
+    en: "... Say something!"
+    ko: "…말해."
+    ja: "…言えよ。"
+  d_ex_cafe_10_8:
+    speaker: milk_b
+    en: Anything at all, you punks!
+    ko: 무슨 말이라도 하라고. 이 짜식들아!!
+    ja: なんとか言えよ、お前ら！！
+  d_ex_cafe_10_9:
+    speaker: sugar
+    en: They say that when you've got too much to say, you end up saying nothing.
+      Guess that's true.
+    ko: "…하고 싶은 말이 많으면 오히려 말이 안 나온다고 하던데, 정말인가 보네."
+    ja: |-
+      …言いたいことがたくさんあると、
+      却って言葉が出てこないって話は本当みたいね。
+  d_ex_cafe_10_10:
+    speaker: sugar
+    en: Hell if I know where to start.
+    ko: 대체 어떤 말부터 꺼내야 할지를 모르겠어.
+    ja: いったい何を言えばいいのか分からないわ。
+  d_ex_cafe_10_11:
+    speaker: frima
+    en: Agreed.
+    ko: 동감.
+    ja: 同感。
+  d_ex_cafe_10_12:
+    speaker: milk_b
+    en: Ugh...
+    ko: 크윽….
+    ja: くうっ…
+  d_ex_cafe_10_13:
+    speaker: sugar
+    en: "... Let me start by asking this."
+    ko: "…일단 물어볼게."
+    ja: "…とりあえず聞かせて。"
+  d_ex_cafe_10_14:
+    speaker: sugar
+    en: When did you put that outfit on?
+    ko: 그 옷은 언제 입은 거지?
+    ja: その服は、いつから？
+  d_ex_cafe_10_15:
+    speaker: sugar
+    en: Or rather, why are you wearing it?
+    ko: 아니, 그 옷은 대체 왜 입은 거지?
+    ja: いいえ、なぜ着ているの？
+  d_ex_cafe_10_16:
+    speaker: sugar
+    en: And most importantly... who are you?
+    ko: 그보다… 넌 누구지?
+    ja: それより…あなたは誰？
+  d_ex_cafe_10_17:
+    speaker: milk_b
+    en: You idiots! It's me, Milk!
+    ko: 밀크잖아, 짜샤!
+    ja: ミルクだよっ！
+  d_ex_cafe_10_18:
+    speaker: frima
+    en: Lies.
+    ko: 거짓말.
+    ja: ウソつき。
+  d_ex_cafe_10_19:
+    speaker: milk_b
+    en: "... What did you say?!"
+    ko: "…뭐라고?!"
+    ja: "…何だって！？"
+  d_ex_cafe_10_20:
+    speaker: frima
+    en: Hair. Makeup. Clothes. All not Milk.
+    ko: 머리. 화장. 옷. 전부 밀크 아님.
+    ja: 髪。化粧。服。全部ミルクじゃない。
+  d_ex_cafe_10_21:
+    speaker: frima
+    en: Disguise. Obvious.
+    ko: 변장. 분명.
+    ja: 変装。間違いない。
+  d_ex_cafe_10_22:
+    speaker: sugar
+    en: Exactly. Milk wouldn't be caught dead in that getup.
+    ko: "그 말대로야. \n정말로 밀크라면 저러고 다닐 리가 없지."
+    ja: |-
+      その通りよ。本当にミルクなら、
+      そんな格好で歩き回るはずないわ。
+  d_ex_cafe_10_23:
+    speaker: sugar
+    en: So I'll ask again.
+    ko: 그러니까 다시 한번 묻겠어.
+    ja: だからもう一度聞くわね。
+  d_ex_cafe_10_24:
+    speaker: sugar
+    en: Who are you?
+    ko: 누구냐, 너?
+    ja: あなたは誰なの？
+  d_ex_cafe_10_25:
+    speaker: milk_b
+    en: "... Pal, help me out here."
+    ko: "…형씨. 저 자식들한테 설명 좀 해줄래?"
+    ja: "…兄貴。こいつらに説明してやってくれないか？"
+  d_ex_cafe_10_26:
+    speaker: milk_b
+    en: Can you explain to those guys why I'm in this ridiculous situation?
+    ko: 내가 왜 이러고 있는지.
+    ja: 私がどうしてこんな格好をしてるのか。
+  d_ex_cafe_10_27:
+    speaker: "<Self>"
+    en: "... At a glance, she might look like someone in disguise,"
+    ko: "…분명히 얼핏 보면 누군가가 변장한 것처럼 보이기는 하지만,"
+    ja: |-
+      …確かに、誰かが変装しているように
+      見えるかもしれないが
+  d_ex_cafe_10_28:
+    speaker: "<Self>"
+    en: but this is definitely Milk right in front of you.
+    ko: 너희들 눈앞에 있는 건 틀림없이 밀크야.
+    ja: 目の前にいるのは間違いなくミルクだ
+  d_ex_cafe_10_29:
+    speaker: milk_b
+    en: Why are you adding fuel to the fire?!
+    ko: 불난 집에 부채질하냐!
+    ja: 火に油を注ぐ気か！？
+  d_ex_cafe_10_30:
+    speaker: sugar
+    en: Hmm... it's hard to believe, but if Partner says so, I'll hold off on making
+      a judgment for now.
+    ko: 흠… 믿긴 힘들지만, 파트너가 하는 말이니까 판단은 보류해 둘게.
+    ja: |-
+      うーん…信じられないけど、
+      パートナーがそう言うなら
+      そうなのかもしれないわね。
+  d_ex_cafe_10_31:
+    speaker: sugar
+    en: Still, gotta make sure you're really Milk.
+    ko: 그래도 정말로 밀크가 맞는지 확인은 해야겠어.
+    ja: でも、本当にミルクなのか確認はしなきゃ。
+  d_ex_cafe_10_32:
+    speaker: frima
+    en: Answer. Verify.
+    ko: 질문에 대답. 검증.
+    ja: 質問に答える。検証。
+  d_ex_cafe_10_33:
+    speaker: milk_b
+    en: "*Sigh*... Fine, fine. Ask away!"
+    ko: "하아… 그래, 알았어. \n얼마든지 질문해."
+    ja: |-
+      はぁ…分かったよ。
+      なんでも聞けよ。
+  d_ex_cafe_10_34:
+    speaker: sugar
+    en: All right, then. Answer me this.
+    ko: 그러면 묻지.
+    ja: じゃあ聞かせてもらうわね。
+  d_ex_cafe_10_35:
+    speaker: sugar
+    en: What's the coffee-to-milk ratio in a milk coffee?
+    ko: 밀크커피에서 커피와 우유의 비율은?
+    ja: |-
+      ミルクコーヒーにおける、
+      コーヒーと牛乳の比率は？
+  d_ex_cafe_10_36:
+    speaker: milk_b
+    en: '1:10.'
+    ko: 1대10.
+    ja: 1対10。
+  d_ex_cafe_10_37:
+    speaker: frima
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_cafe_10_38:
+    speaker: frima
+    en: Milk. For sure!
+    ko: 밀크. 맞음!
+    ja: ミルク。合ってる！
+  d_ex_cafe_10_39:
+    speaker: sugar
+    en: No doubt about it. That's Milk, all right.
+    ko: 틀림없이 밀크네.
+    ja: 間違いなくミルクね。
+  d_ex_cafe_10_40:
+    speaker: "<Self>"
+    en: So that's enough to verify her...?
+    ko: 그걸로 검증이 되는 거구나….
+    ja: そんなことで…？
+  d_ex_cafe_10_41:
+    speaker: sugar
+    en: All right, next question.
+    ko: 좋아. 다음 질문.
+    ja: じゃあ、次の質問よ。
+  d_ex_cafe_10_42:
+    speaker: sugar
+    en: Why are you in that bunny girl outfit?
+    ko: 그 바니걸 옷은 왜 입고 있는 거지?
+    ja: そのバニーガールの服はどうして着ているの？
+  d_ex_cafe_10_43:
+    speaker: milk_b
+    en: You think I like wearing this thing?
+    ko: 내가 좋아서 이런 옷을 입고 있는 줄 아냐!
+    ja: 好きでこんな服着てるワケないだろ！？
+  d_ex_cafe_10_44:
+    speaker: milk_b
+    en: It's part of the mission, all right? I didn't have a choice...
+    ko: 이건 어디까지나 의뢰를 수행하기 위해서 어쩔 수 없이….
+    ja: |-
+      これはあくまで依頼を遂行するために、
+      仕方なく…
+  d_ex_cafe_10_45:
+    speaker: frima
+    en: Lies.
+    ko: 거짓말.
+    ja: ウソつき。
+  d_ex_cafe_10_46:
+    speaker: frima
+    en: No missions.
+    ko: 의뢰. 없었음.
+    ja: 依頼。なかった。
+  d_ex_cafe_10_47:
+    speaker: milk_b
+    en: It's a secret mission. Secret, you hear?
+    ko: 비밀 의뢰야, 비밀 의뢰!
+    ja: 極秘の依頼だよ、極秘の依頼！
+  d_ex_cafe_10_48:
+    speaker: milk_b
+    en: Pal, say something! We were on this mission together, weren't we?
+    ko: "형씨도 뭐라고 말 좀 해. \n같이 의뢰를 수행하고 온 거 맞잖아."
+    ja: |-
+      兄貴も何とかか言ってくれよ。
+      一緒に依頼をこなしたんだから。
+  d_ex_cafe_10_49:
+    speaker: "<Self>"
+    en: She did work on a mission with me.
+    ko: 의뢰를 수행하고 온 건 맞아.
+    ja: 依頼を遂行したのは確かだ
+  d_ex_cafe_10_50:
+    speaker: frima
+    en: Hmm...
+    ko: "…흠."
+    ja: "…うーん。"
+  d_ex_cafe_10_51:
+    speaker: frima
+    en: Super suspicious.
+    ko: 매우 수상.
+    ja: すごく。怪しい。
+  d_ex_cafe_10_52:
+    speaker: sugar
+    en: 'That narrows it down to two possibilities:'
+    ko: 그렇다면 답은 둘 중 하나겠네.
+    ja: それなら、答えはどちらかね。
+  d_ex_cafe_10_53:
+    speaker: sugar
+    en: Either you were really out on some classified mission,
+    ko: 둘이서 정말로 비밀 의뢰라도 수행하고 왔든가.
+    ja: 2人で本当に極秘の依頼を行ったのか…
+  d_ex_cafe_10_54:
+    speaker: sugar
+    en: or you're just making excuses after sneaking off to do something else.
+    ko: 둘이서 다른 짓을 하고 와서는 변명하고 있든가.
+    ja: 2人で別のコトをして、言い訳しているのか。
+  d_ex_cafe_10_55:
+    speaker: milk_b
+    en: We're not making excuses!
+    ko: 변명 아니거든!
+    ja: 言い訳なんかじゃねぇ！
+  d_ex_cafe_10_56:
+    speaker: sugar
+    en: Can you prove it?
+    ko: 증명할 수 있어?
+    ja: 証明できる？
+  d_ex_cafe_10_57:
+    speaker: milk_b
+    en: If you're gonna accuse me of doing something shady with him, then you'd better
+      prove it, smartass!
+    ko: "내가 형씨와 다른 짓을 했다고 말하고 싶다면, \n증명은 너희가 해야지, 짜샤!"
+    ja: |-
+      言いがかりつけんなら、
+      証明すんのはお前らの方だろ！
+  d_ex_cafe_10_58:
+    speaker: frima
+    en: "... Proof? Ugh. Too lazy."
+    ko: "…증명. 귀찮."
+    ja: "…証明。面倒。"
+  d_ex_cafe_10_59:
+    speaker: frima
+    en: Believe you for now.
+    ko: 일단 믿음.
+    ja: とりあえず信じる。
+  d_ex_cafe_10_60:
+    speaker: sugar
+    en: "... Fine, I'll move onto the next question."
+    ko: "…별수 없네. 이 건은 일단 넘어가지."
+    ja: |-
+      …仕方ないわね。
+      この質問はとりあえず見送ってあげるわ。
+  d_ex_cafe_10_61:
+    speaker: milk_b
+    en: I swear, I'm gonna tear this place apart...
+    ko: 진짜 다 엎어버릴까보다….
+    ja: マジで大暴れしてやろうか…
+  d_ex_cafe_10_62:
+    speaker: sugar
+    en: All right, last question.
+    ko: 그러면 이제 마지막 질문이다.
+    ja: じゃあ、最後の質問よ。
+  d_ex_cafe_10_63:
+    speaker: sugar
+    en: You... really gonna be our daughter?
+    ko: 너… 정말 우리 딸이 될 거냐?
+    ja: あなた…本当に私たちの娘になるつもり？
+  d_ex_cafe_10_64:
+    speaker: milk_b
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_cafe_10_65:
+    speaker: milk_b
+    en: Wh-wh-what are you... talking about...?
+    ko: 너너, 너… 그게 무슨….
+    ja: お、お前…それはどういう…
+  d_ex_cafe_10_66:
+    speaker: sugar
+    en: Don't tell me you don't know your words are all over the Outpost?
+    ko: 네가 한 말이 전초기지에 파다하게 소문난 걸 모른다는 소린 하지 않겠지?
+    ja: |-
+      あなたが言ったことが、
+      前哨基地で噂になってるのは知ってるでしょ？
+  d_ex_cafe_10_67:
+    speaker: sugar
+    en: What was it again...? Something about how wearing embarrassing clothes would
+      make you look like Sugar and Frima's kid?
+    ko: |-
+      뭐였더라….
+      [부끄러운 옷 입으면 슈가랑 프림 딸 한다]였나.
+    ja: |-
+      ええと….
+      「恥ずかしい服を着た日にはシュガーと
+      プリムの娘にでもなる」だったかしら。
+  d_ex_cafe_10_68:
+    speaker: frima
+    en: Rumor. Heard it too.
+    ko: 소문. 나도 들어 봄.
+    ja: 噂。私も聞いた。
+  d_ex_cafe_10_69:
+    speaker: frima
+    en: This. Real?
+    ko: 여. 진짜임?
+    ja: よお。本当？
+  d_ex_cafe_10_70:
+    speaker: "<Self>"
+    en: "... I did hear something along those lines too."
+    ko: "…비슷한 말을 하는 걸 듣긴 했지."
+    ja: "…似たようなことを言っているのは聞いたな"
+  d_ex_cafe_10_71:
+    speaker: milk_b
+    en: Uh...
+    ko: 으….
+    ja: うぐっ…
+  d_ex_cafe_10_72:
+    speaker: sugar
+    en: This time, we even have a witness.
+    ko: 이번에는 증언도 확보됐네.
+    ja: 今回は証言も得られたわ。
+  d_ex_cafe_10_73:
+    speaker: sugar
+    en: So if that's the case...
+    ko: 자, 그렇게 됐으니….
+    ja: そういうわけだから…
+  d_ex_cafe_10_74:
+    speaker: sugar
+    en: go on, call me Mom.
+    ko: 엄마라고 불러봐.
+    ja: お母さんって呼んでみて。
+  d_ex_cafe_10_75:
+    speaker: milk_b
+    en: Not a chance!
+    ko: 부르겠냐!!
+    ja: 呼ぶわけねぇだろ！！
+  d_ex_cafe_10_76:
+    speaker: frima
+    en: "... Disappointed."
+    ko: "…실망."
+    ja: "…がっかり。"
+  d_ex_cafe_10_77:
+    speaker: sugar
+    en: Trust is a Scavenger's lifeline, yet you can't even honor your word?
+    ko: 신뢰가 생명인 해결사면서, 지키지도 못할 말을 했다는 건가.
+    ja: |-
+      万屋は信頼が命なのに、
+      守れもしないことを言ったの？
+  d_ex_cafe_10_78:
+    speaker: sugar
+    en: Cafe Sweety's reputation will hit the dirt.
+    ko: 카페 스위티의 명성도 땅에 떨어지겠군.
+    ja: |-
+      カフェ・スウィーティーの名声が
+      地に落ちそうね。
+  d_ex_cafe_10_79:
+    speaker: milk_b
+    en: Ugh, what nonsense is this?!
+    ko: 아, 뭔 소리야 진짜!
+    ja: なに言ってんだよ、マジで！
+  d_ex_cafe_10_80:
+    speaker: sugar
+    en: Then what? Gonna make some excuse?
+    ko: "그게 아니라면 뭐야? \n무슨 변명이라도 할 셈이야?"
+    ja: |-
+      じゃあ、何なの？
+      言い訳でもあるの？
+  d_ex_cafe_10_81:
+    speaker: frima
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_cafe_10_82:
+    speaker: frima
+    en: Realized.
+    ko: 깨달음.
+    ja: 気づいた。
+  d_ex_cafe_10_83:
+    speaker: frima
+    en: Milk. Outfit. Not embarrassed.
+    ko: 밀크. 지금 옷. 부끄럽지 않음.
+    ja: ミルク。今の服。恥ずかしくない。
+  d_ex_cafe_10_84:
+    speaker: milk_b
+    en: Y-yeah! That's right!
+    ko: 마, 맞아! 그렇지!
+    ja: そ、そうだ！そうなんだよ！
+  d_ex_cafe_10_85:
+    speaker: milk_b
+    en: I'm only wearing this for the mission, so there's no way I'd be embarrassed!
+    ko: 어디까지나 의뢰를 수행하기 위해 입은 옷인데 부끄러울 리가 있겠냐?
+    ja: |-
+      依頼のための服なんだから、
+      恥ずかしいわけないだろ？
+  d_ex_cafe_10_86:
+    speaker: milk_b
+    en: Since I'm not embarrassed, I don't have to go acting like your kid either!
+    ko: 부끄럽지 않으니까, 너희들 딸이 될 필요도 없다고!
+    ja: |-
+      恥ずかしくないんだから、
+      お前たちの娘になる必要もねぇな！
+  d_ex_cafe_10_87:
+    speaker: sugar
+    en: "... Got it."
+    ko: "…그렇군."
+    ja: "…そう。"
+  d_ex_cafe_10_88:
+    speaker: sugar
+    en: Milk, I know where you stand.
+    ko: 밀크, 네 의지는 잘 알겠어.
+    ja: ミルク、あなたの気持ちはよく分かったわ。
+  d_ex_cafe_10_89:
+    speaker: sugar
+    en: Since you've put it that way...
+    ko: 그렇게까지 말한다면….
+    ja: そこまで言うんだったら…
+  d_ex_cafe_10_90:
+    speaker: sugar
+    en: you'll be taking on missions in that outfit from now on.
+    ko: 이제 의뢰를 수행할 땐, 그 복장으로 활동하는 거겠지?
+    ja: これから依頼の時は、その格好で働くのよね？
+  d_ex_cafe_10_91:
+    speaker: milk_b
+    en: Wha...?!
+    ko: 뭣…?!
+    ja: なっ…！？
+  d_ex_cafe_10_92:
+    speaker: frima
+    en: Oh...
+    ko: 오….
+    ja: おお…
+  d_ex_cafe_10_93:
+    speaker: milk_b
+    en: Hold on, why did things turn out like this?
+    ko: 잠깐만. 이야기가 왜 그렇게 되는 건데!
+    ja: 待てよ。どうしてそんな話になるんだ！？
+  d_ex_cafe_10_94:
+    speaker: sugar
+    en: You said you weren't embarrassed, so that much should be fine.
+    ko: 부끄럽지 않다고 했으니까, 그 정도는 가능하잖아.
+    ja: |-
+      恥ずかしくないんだったら、
+      それくらいできるでしょ？
+  d_ex_cafe_10_95:
+    speaker: sugar
+    en: Or... were you just lying to get out of trouble, and you're actually embarrassed?
+    ko: 아니면, 그냥 위기를 모면하기 위해서 거짓말한 거고, 사실은 부끄러운 거냐?
+    ja: |-
+      それとも、ただピンチを逃れるための嘘？
+      本当は恥ずかしいの？
+  d_ex_cafe_10_96:
+    speaker: frima
+    en: Daughter. Here.
+    ko: 딸. 생김.
+    ja: 娘。できた。
+  d_ex_cafe_10_97:
+    speaker: milk_b
+    en: "... All right, fine. If it means that much to you, I'll do it."
+    ko: "…그래. 그렇게까지 말한다면 해주지."
+    ja: "…分かった。そこまで言うならやってやる。"
+  d_ex_cafe_10_98:
+    speaker: milk_b
+    en: From now on, I'll take on missions in this outfit.
+    ko: 다음 의뢰부터는 이 옷차림으로 움직인다.
+    ja: 次の依頼からは、この服装で行くぜ。
+  d_ex_cafe_10_99:
+    speaker: milk_b
+    en: Happy now, you punks?
+    ko: 그러면 되겠지, 짜식들아!
+    ja: それでいいんだろ！？
+  d_ex_cafe_10_100:
+    speaker: "<Self>"
+    en: No, I don't think you have to go that far...
+    ko: 아니, 그렇게까지 할 필요는….
+    ja: いや、そこまでする必要は…
+  d_ex_cafe_10_101:
+    speaker: milk_b
+    en: Not another word, Pal.
+    ko: 형씨, 아무 말도 하지 마.
+    ja: 兄貴、何も言うな。
+  d_ex_cafe_10_102:
+    speaker: milk_b
+    en: This is about my honor as a Scavenger.
+    ko: 이건 내 해결사로서의 신뢰가 걸린 일이니까.
+    ja: |-
+      これは私の万屋としての
+      信頼がかかった問題なんだ。
+  d_ex_cafe_10_103:
+    speaker: milk_b
+    en: I need to prove that I'm not embarrassed in the slightest.
+    ko: 내가 전혀 부끄러워하지 않는다는 걸 증명하기 위해서,
+    ja: |-
+      私がちっとも恥ずかしくないってことを
+      証明するために
+  d_ex_cafe_10_104:
+    speaker: milk_b
+    en: So I'm gonna work in this outfit for the next seven days, starting now.
+    ko: 앞으로 일주일 동안은 이 옷을 입고 활동하겠어!
+    ja: |-
+      これから1週間は、
+      この服を着て仕事してやるぜ！
+  d_ex_cafe_10_105:
+    speaker: sugar
+    en: That's too bad... I thought I'd get to hear you call me Mom.
+    ko: 아쉽네… 엄마라는 말을 들을 수 있을 줄 알았는데.
+    ja: |-
+      残念ね…
+      お母さんって言ってもらえると思ったのに。
+  d_ex_cafe_10_106:
+    speaker: frima
+    en: Same.
+    ko: 동의.
+    ja: 同感。
+  d_ex_cafe_10_107:
+    speaker: milk_b
+    en: In your dreams!
+    ko: 하겠냐고!
+    ja: 言うわけねぇだろ！
+  d_ex_cafe_10_108:
+    speaker: "<Monologue>"
+    en: For an entire week,
+    ko: 그로부터 일주일간.
+    ja: それから1週間…
+  d_ex_cafe_10_109:
+    speaker: "<Monologue>"
+    en: 'a strange rumor circulates through the Outpost: a Scavenger in a bunny girl
+      outfit is carrying out missions.'
+    ko: 전초기지에는 바니걸 복장을 한 해결사가 활동한다는, 수상한 소문이 돌았다.
+    ja: |-
+      前哨基地にはバニーガールの格好をした万屋が
+      活動しているという、怪しげな噂が流れた

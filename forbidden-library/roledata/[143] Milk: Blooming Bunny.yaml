@@ -1,0 +1,561 @@
+---
+143_name:
+  en: 'Milk: Blooming Bunny'
+  ko: '밀크 : 블루밍 바니'
+  ja: ミルク：ブルーミングバニー
+c143_description:
+  en: Milk undergoes a drastic transformation to infiltrate the Coin Rush. In addition
+    to her bold outfit, even her hair and makeup are perfectly battle-ready.
+  ko: |-
+    코인 러시에 잠입하기 위해 파격적인 변신을 한 밀크.
+    과감한 의상은 물론, 머리와 메이크업까지 완벽한 전투태세를 갖췄다.
+  ja: |-
+    コインラッシュに潜入するため大胆に変身したミルク。
+    大胆な衣装はもちろん、ヘアスタイルやメイクまで、
+    完璧な戦闘態勢が整った。
+143_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_143:
+  en: 'Milk: Blooming Bunny''s Spare Body'
+  ko: '밀크 : 블루밍 바니 스페어 바디'
+  ja: ミルク：ブルーミングバニーのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21432_name:
+  en: Outburst
+  ko: 성질 내기
+  ja: 怒り爆発
+21432_description:
+  en: "■ Activates only when in Embarrassment status. Affects self.\n<color=#00AEFF><word_group=10042>Pierce
+    Damage</word_group> ▲ {description_value_01}% continuously.</color>\n■ Activates
+    only when in Overconfident, Huh?! status. Affects all enemies every 2 sec. \n<color=#00AEFF>Deals
+    {description_value_02}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed
+    Damage</word_group>.</color>"
+  ko: |-
+    ■ 부끄러움 상태일 때 한하여 자신에게
+    <color=#00AEFF>[<word_group=10042>관통 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 자신이 구경났냐 짜식들아!! 상태일 때 한하여 2초 마다 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% <word_group=10019>분배 대미지</word_group>]</color>
+  ja: |-
+    ■羞恥心状態の時のみ、自分に
+    <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group> {description_value_01}％▲」「持続」</color>
+    ■自分が何見てんだよお前ら！！
+    状態の時のみ、2秒ごとに敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21431_name:
+  en: Embarrassment Suppression
+  ko: 부끄러움 참기
+  ja: やせ我慢
+21431_description:
+  en: |-
+    ■ Activates when performing Full Charge attacks. Affects self.
+    <color=#00AEFF>Gains Pierce for {description_value_01} sec.</color>
+    ■ Activates when Full Charge lasts for {description_value_07} sec or more, and self is not in the Embarrassment state. Affects self.
+    <color=#00AEFF>Embarrassment:
+    Function: Performs <word_group=10087>Forced Reload</word_group> at reduced reloading speed, increasing attack capabilities and dealing <word_group=10019>Distributed Damage</word_group> instead.
+    Effect 1: Affects all enemies. Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.
+    Effect 2: Affects self. Removes {description_value_08}% of bullets.
+    Effect 3: Affects self. Fixes reloading speed at {description_value_03}% reduction. <word_group=10088>Applies to {description_value_04} reload(s)</word_group>.
+    Effect 4: Affects self. <word_group=10087>Forcefully reloads</word_group>.
+    Effect 5: Affects self. ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[관통 특화] [{description_value_01}초 유지]</color>
+    ■ 풀 차지 상태를 {description_value_07}초 이상 유지 시 자신이 부끄러움 상태가 아니라면
+    <color=#00AEFF>[부끄러움] :
+    기능 : 재장전 속도가 감소된 상태로 <word_group=10087>강제 재장전</word_group>을 하는 대신 공격 능력 증가 및 <word_group=10019>분배 대미지</word_group> 부여
+    효과 1 : 적 전체에게 [<word_group=10025>최종</word_group> 공격력 {description_value_02}% <word_group=10019>분배 대미지</word_group>]
+    효과 2 : 자신에게 [탄환 {description_value_08}% 제거]
+    효과 3 : 자신에게 [재장전 속도 {description_value_03}% 감소 상태로 고정] [<word_group=10088>재장전 {description_value_04}회 적용</word_group>]
+    효과 4 : 자신에게 [<word_group=10087>강제 재장전</word_group>]
+    효과 5 : 자신에게 [공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「貫通特化」「{description_value_01}秒間維持」</color>
+    ■フルチャージを{description_value_07}秒以上維持した時、
+    自分が羞恥心状態でなければ
+    <color=#00AEFF>「羞恥心」：
+    機能：リロード速度低下状態での
+    <word_group=10087>強制リロード</word_group>と引き換えに、
+    攻撃能力増加と<word_group=10019>分配ダメージ</word_group>付与
+    効果1：敵全体に「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の<word_group=10019>分配ダメージ</word_group>」
+    効果2：自分に「残弾数{description_value_08}％減少」
+    効果3：自分に「リロード速度{description_value_03}％低下で固定」「<word_group=10088>リロード{description_value_04}回に適用</word_group>」
+    効果4：自分に「<word_group=10087>強制リロード</word_group>」
+    効果5：自分に「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11433_name:
+  en: Embarrassment Explosion
+  ko: 부끄러움 폭발
+  ja: 恥ずかしさ大爆発
+11433_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Overconfident, Huh?!:
+    Gains Immunity to Embarrassment for 10 sec.
+    <word_group=10042>Pierce Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[구경났냐 짜식들아!!] :
+    [부끄러움 면역] [10초 유지]
+    [<word_group=10042>관통 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]
+    [공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「何見てんだよお前ら！！」：
+    「羞恥心免疫」「10秒間維持」
+    「<word_group=10042>貫通ダメージ</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」
+    「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+140_name:
+  en: Sugar
+  ko: 슈가
+  ja: シュガー
+142_name:
+  en: Frima
+  ko: 프림
+  ja: プリム
+141_name:
+  en: Milk
+  ko: 밀크
+  ja: ミルク
+c143_Lobby_Touch_1:
+  en: |-
+    I only wore this because of the mission.
+    Don't get any weird ideas.
+  ko: |-
+    의뢰 때문에 입은 거야.
+    이, 이상한 생각하지 마.
+  ja: |-
+    こ、これは依頼で着てるだけだ！
+    ヘ、ヘンなこと考えるなよな。
+c143_Lobby_Touch_2:
+  en: This is so awkward. I already said this doesn't suit me.
+  ko: 어색해 죽겠네 진짜. 나는 이런 거 안 어울린다고.
+  ja: |-
+    恥ずかしくて死にそうだ…
+    私には似合わねぇって…
+c143_Lobby_Touch_3:
+  en: Ugh! I said stop calling me cute or I swear I'll smack you!
+  ko: 아 자꾸 귀엽다귀엽다 하지 말라니까?! 패버린다!
+  ja: |-
+    カワイイカワイイって何度もうるせぇな！
+    殴られたいのか！？
+c143_Lobby_Touch_Love_1:
+  en: |-
+    ... S-so, what do you think? Do you like it?
+    I didn't wear it because of you, but... I just w-wanted to know what you think.
+  ko: |-
+    …그, 그래서 어떤데. 맘에 들어?
+    별로 형씨 때문에 입은 건 아니긴 한데, 그, 그냥 좀 신경 쓰여서.
+  ja: |-
+    …で、どうなんだ？気に入ったか？
+    べ、別に兄貴のために着たとかじゃなくて…
+    な、なんとなく気になっただけだ。
+c143_Lobby_Touch_Love_2:
+  en: |-
+    Well... I guess it's not so bad to dress up like this once in a while.
+    Especially since there's someone who seems to like it.
+  ko: |-
+    뭐… 가끔씩은 이렇게 꾸며보는 것도 나쁘지 않은 것 같네.
+    이렇게 좋아해 주는 사람이 있으니까 말야.
+  ja: |-
+    …まっ、たまにはこんな格好も悪くねぇか。
+    どっかの誰かさんも喜んでくれてるみてぇだしな。
+c143_Lobby_Touch_Love_3:
+  en: |-
+    You know what? You're...
+    Um... you're... r-really handsome, Pal.
+  ko: |-
+    그거 알아? 형씨도 꽤….
+    꽤… 그러니까… 머, 멋있어.
+  ja: |-
+    なあ、知ってるか？
+    兄貴もけっこう…その…カ、カッコいいぞ。
+c143_Lobby_Stay_1:
+  en: |-
+    ... Yeah, let me catch my breath for a sec.
+    Being around you looking like this... it's not good for my heart.
+  ko: |-
+    …그래. 이 틈에 숨 좀 돌리자.
+    이 꼴로 형씨랑 있는 거, 심장에 안 좋아….
+  ja: |-
+    ふぅ…今のうちに休憩すっか。
+    この格好で兄貴といるのは、心臓にわりぃしな…
+c143_Lobby_Stay_Love_1:
+  en: |-
+    Pal, Pal! What're you up to? Are you busy?
+    ... I-I'm not asking for your attention or anything. I'm just a little bored.
+  ko: |-
+    형씨. 형씨~ 뭐 하는데. 바빠?
+    …따, 딱히 관심가져달라는 건 아닌데, 좀 심심하네.
+  ja: |-
+    あ～に～き～？何してるんだ？忙しいのか？
+    …か、構ってほしいとかじゃねえぞ。ただヒマなだけだ。
+c143_Outpost_Touch_1:
+  en: Uh... hold on. If Sugar and Frima see me like this...!
+  ko: 어… 잠깐. 이 꼴을 슈가랑 프림 짜식이 보면…!
+  ja: |-
+    あっ…待てよ。
+    この格好をシュガーとプリムに 見られでもしたら…！
+c143_Outpost_Touch_2:
+  en: |-
+    Do you want to try on a bunny girl outfit too, Pal?
+    Haha, sorry, just the thought of it cracks me up.
+  ko: |-
+    형씨도 바니걸 의상 입어볼래?
+    푸하하, 미안미안. 상상만 했는데 웃기네.
+  ja: |-
+    兄貴もバニーガールに なってみねぇか？
+    あははっ、悪い悪い。 想像したらつい笑っちまった。
+c143_Outpost_Touch_3:
+  en: "... Is it just me, or are there a lot of bunny girls everywhere?"
+  ko: "…뭔가 이상하게 바니걸이 많이 보이는 것 같은데?"
+  ja: "…なんか、 妙にバニーガールが多くねぇか？"
+c143_Gacha_Get_1:
+  en: |-
+    Well? What do you think of bunny girl Milk?
+    H-hey! Eyes up here, jerk!
+  ko: |-
+    어때? 이 밀크 님의 바니걸….
+    거, 거길 보라는 게 아니라 이 짜샤!
+  ja: |-
+    どうだ？このミルク様のバニーガールは…
+    ん、んなとこ見ろなんて言ってねぇだろ！？
+c143_Reinforce_1:
+  en: How do I look? Do I seem stronger?
+  ko: 어때 보여? 좀 세진 것 같아?
+  ja: どうだ？強くなったと思うか？
+c143_Reinforce_2:
+  en: "I don't think it's the bunny girl outfit that made me stronger. \nWhat do you
+    think it was, Pal?"
+  ko: |-
+    설마하니 바니걸 때문에 세진 건 아닐 테고.
+    형씨는 왜인 것 같아?
+  ja: |-
+    この格好のおかげで強くなったわけじゃねえよな…
+    兄貴はなんでだと思う？
+c143_Reinforce_3:
+  en: As long as you're with me, Pal, I can keep getting stronger.
+  ko: 형씨만 있으면, 나는 얼마든지 더 강해질 수 있어.
+  ja: 兄貴がいてくれたら、私はいくらでも強くなれるんだ。
+c143_Gift_1:
+  en: I feel like I'm always the one receiving from you. Thanks, Pal.
+  ko: 형씨한테는 맨날 받기만 하는 것 같네. 고마워, 형씨.
+  ja: 兄貴からはもらってばっかだな。ありがとよ、兄貴。
+c143_Gift_2:
+  en: What do you want in return? Just say the word.
+  ko: 보답으로는 뭘 받고 싶어? 말만 해.
+  ja: お礼に何が欲しい？何でも言ってくれ。
+c143_Gift_3:
+  en: Hahaha. Don't tell me you like bunny girls that much you gave me a gift?
+  ko: 푸하하. 선물을 줄 정도로 바니걸이 좋았어?
+  ja: |-
+    あははっ。プレゼントを渡したくなるくらい
+    この格好が気に入ったのか？
+c143_Attractive_Up_1:
+  en: "Do you like bunny girls, or do you like me? \nAlthough, I'm pretty sure I know
+    the answer."
+  ko: |-
+    바니걸이 좋은 거야, 내가 좋은 거야?
+    뭐, 답은 알고 있지만.
+  ja: |-
+    なあ、兄貴が好きなのはバニーガールか？それとも私か？
+    …まっ、答えは分かってるけどさ。
+c143_Attractive_Up_2:
+  en: The more I get to know you, Pal, the more I like you.
+  ko: 형씨에 대해 알아갈수록, 점점 더 좋아지네.
+  ja: 兄貴のことを知れば知るほど、どんどん好きになるな。
+c143_Attractive_Up_3:
+  en: I think I'm really fond of you, Pal.
+  ko: "…나, 형씨를 꽤나 좋아하는 것 같아."
+  ja: "…私さ、兄貴のことけっこう好きみたいだ。"
+c143_Party_Deploy_1:
+  en: Do you seriously want me to go out like this? Er, Pal...?
+  ko: |-
+    나 진짜 이러고 가?
+    …형씨?
+  ja: あ、兄貴、本当にこの格好で行くのか？
+c143_Field_Touch_1:
+  en: |-
+    You've got some weird taste, Pal...
+    Whatever, it's no big deal. Let's go.
+  ko: |-
+    형씨도 취향 참…
+    뭐, 문제없어. 가자고.
+  ja: |-
+    ったく、兄貴のシュミって…
+    まっ、問題ないぜ。さっさと行くぞ。
+c143_Field_Go_1:
+  en: |-
+    Are you seriously asking if I'm okay in these high heels?
+    What do you take me fo—eek?!
+  ko: |-
+    하이힐 괜찮냐고?
+    지금 이 밀크님을 뭘로 보고- 흐꺅?!
+  ja: |-
+    ハイヒールで平気なのかって？
+    このミルク様を何だと思って――うわっ！？
+c143_Battle_Enter_1:
+  en: Just wipe that memory you have of me tripping.
+  ko: "…나 넘어진 거 기억에서 지워."
+  ja: "…さっき転んだこと、記憶から消しとけよ。"
+c143_Battle_Ready_1:
+  en: Ever been punched by a bunny girl?!
+  ko: 바니걸한테 맞아봤냐!
+  ja: バニーガールをナメんなよ！
+c143_Battle_Ready_2:
+  en: Bunnies are actually carnivores!
+  ko: 토끼는 사실 육식동물이라고!
+  ja: どっちが捕食者か教えてやるぜ！
+c143_Battle_Ready_3:
+  en: This restrictive outfit isn't a problem at all!
+  ko: 움직이기 불편한 건 문제도 아냐!
+  ja: 動きにくくたってへっちゃらだ！
+c143_Reload_1:
+  en: Ow, my feet hurt...
+  ko: 으으, 발 아파….
+  ja: うう、足がいてぇ…
+c143_Reload_2:
+  en: This thing is tighter than I thought...
+  ko: 생각보다 좀 끼는데….
+  ja: 思ったよりキツいな…
+c143_Reload_3:
+  en: The outfit isn't ruined, is it?
+  ko: 옷 상하진 않았겠지?
+  ja: 服、破けてないよな？
+c143_Ult_Skill_Ready_1:
+  en: Pal! I'm ready!
+  ko: 형씨! 나 준비 됐어!
+  ja: 兄貴！準備はできてるぜ！
+c143_Ult_Skill_1:
+  en: Hey. Q-quit looking at me like that!
+  ko: 아씨. 그, 그렇게 보지 말라고!!
+  ja: チッ。そ、そんなに見るんじゃねぇ！
+c143_FullBurst_1:
+  en: Die! Die! Die!
+  ko: 죽어! 죽어! 죽어!
+  ja: いっけぇぇー！！
+c143_Kill_Monster_1:
+  en: Hahaha! Next!
+  ko: 하하하! 다음!
+  ja: あはは！次！
+c143_Kill_Monster_2:
+  en: I'm the killer bunny, punk!
+  ko: 킬러 바니다 짜샤!
+  ja: キラーバニーだぜ！
+c143_Kill_Monster_3:
+  en: One down!
+  ko: 하나 컷!
+  ja: 一丁上がりっと！
+c143_Damage_1:
+  en: Eek!
+  ko: 꺅?!
+  ja: うわっ！？
+c143_Damage_2:
+  en: Ow!
+  ko: 윽!
+  ja: うっ！
+c143_Damage_3:
+  en: Geez!
+  ko: 아, 씨…!
+  ja: チッ…！
+c143_Die_1:
+  en: I-it's your fault for staring at me like that...
+  ko: 혀, 형씨가 자꾸 그렇게 보니까….
+  ja: あ、兄貴がジロジロ見るから…
+c143_Win_1:
+  en: Hahaha! Fighting in this outfit is actually kind of fun!
+  ko: 하하하! 이런 옷 입고 싸우는 것도 재밌는데?
+  ja: あはは！この格好で戦うのも案外おもしれぇな！
+143_cv_ja:
+  en: 'CV: Mutsumi Tamura'
+  ko: 'CV : 타무라 미츠미'
+  ja: CV：田村睦心
+143_cv_ko:
+  en: 'CV: Kim Na-yul'
+  ko: 'CV : 김나율'
+  ja: CV：キム・ナユル
+143_cv_en:
+  en: 'CV: Laura Stahl'
+  ko: 'CV : 로라 스탈'
+  ja: CV：Laura Stahl

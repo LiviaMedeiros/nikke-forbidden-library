@@ -5893,3 +5893,644 @@ d_ex_gym_10:
     ja: |-
       私とマナはルマニの目を盗み、
       大急ぎでジムから抜け出した
+d_ex_gym_11:
+  d_ex_gym_11_1:
+    speaker: ade_b
+    en: Hyah!
+    ko: 흡!
+    ja: はぁっ！
+  d_ex_gym_11_2:
+    speaker: "<Narration>"
+    en: "*Thwack*"
+    ko: 퍽-
+    ja: ドンッ
+  d_ex_gym_11_3:
+    speaker: ade_b
+    en: Hup!
+    ko: 흣!
+    ja: ふっ！
+  d_ex_gym_11_4:
+    speaker: "<Narration>"
+    en: "*Thwack!* *Thud!*"
+    ko: 퍽-! 퍼억-!
+    ja: バコッ！ドゴッ！
+  d_ex_gym_11_5:
+    speaker: ade_b
+    en: Haaah...!
+    ko: 하앗…!
+    ja: はあっ…！
+  d_ex_gym_11_6:
+    speaker: "<Narration>"
+    en: "*Bang!*"
+    ko: 콰앙-!
+    ja: ドン！
+  d_ex_gym_11_7:
+    speaker: novel
+    en: Whoa...
+    ko: 오….
+    ja: おお…
+  d_ex_gym_11_8:
+    speaker: novel
+    en: Whoaaaa...!
+    ko: 오오오…!
+    ja: おおお…！
+  d_ex_gym_11_9:
+    speaker: "<Self>"
+    en: So, what do you think after seeing it yourself?
+    ko: 직접 와서 보니까 어때?
+    ja: どうだ？
+  d_ex_gym_11_10:
+    speaker: novel
+    en: M-magnificent...!
+    ko: 후, 훌륭한 것입니다…!
+    ja: す、素晴らしいのであります…！
+  d_ex_gym_11_11:
+    speaker: novel
+    en: I, Novel, would gladly become Ade's apprentice this very instant!
+    ko: |-
+      이 노벨, 지금이라도 당장
+      에이드의 제자가 되고 싶은 것입니다!
+    ja: |-
+      このノベル、今すぐにでも
+      エードの弟子になりたいのであります！
+  d_ex_gym_11_12:
+    speaker: "<Self>"
+    en: But why the sudden interest in martial arts?
+    ko: 그런데 무술에 흥미가 왜 생긴 거야?
+    ja: ところで、なぜ急に武術に興味が？
+  d_ex_gym_11_13:
+    speaker: "<Self>"
+    en: Your specialty is intelligence-based warfare, after all.
+    ko: 노벨은 정보전이 주력이잖아.
+    ja: ノベルは情報戦を担当しているだろう？
+  d_ex_gym_11_14:
+    speaker: novel
+    en: Ahem, Watson.
+    ko: 흠흠, 왓슨.
+    ja: オホンッ、ワトソン。
+  d_ex_gym_11_15:
+    speaker: novel
+    en: That's a case of knowing only half the story.
+    ko: 그것은 하나만 알고 둘은 모르는 소리인 것입니다.
+    ja: |-
+      それは「一を知って二を知らず」
+      というものであります。
+  d_ex_gym_11_16:
+    speaker: novel
+    en: To take on a strong criminal, one must also be skilled in hand-to-hand combat.
+    ko: 강한 범인을 상대하려면 육탄전에도 능해야 하는 법.
+    ja: |-
+      強い犯人を相手にするには、肉弾戦にも
+      長けていなければならないのであります。
+  d_ex_gym_11_17:
+    speaker: novel
+    en: Even Sherlock Holmes learned a martial art called Bartitsu!
+    ko: 셜록 홈즈도 [바리츠] 라는 무술을 익혔다는 것입니다.
+    ja: |-
+      かのシャーロックホームズも
+      「バリツ」という武術を
+      習得していたのであります。
+  d_ex_gym_11_18:
+    speaker: ade_b
+    en: Phew...
+    ko: 휴우….
+    ja: ふぅ…
+  d_ex_gym_11_19:
+    speaker: ade_b
+    en: Will this do, Miss Novel?
+    ko: 노벨 아가씨, 이쯤이면 될까요?
+    ja: |-
+      ノベルお嬢様、
+      これくらいでよろしいでしょうか？
+  d_ex_gym_11_20:
+    speaker: novel
+    en: Yes, that's more than enough.
+    ko: 네에, 충분한 것입니다.
+    ja: はい、十分であります。
+  d_ex_gym_11_21:
+    speaker: novel
+    en: "... Ade, I have a favor to ask!"
+    ko: "…에이드, 부탁할 게 있는 것입니다."
+    ja: "…エード、頼みがあるのであります。"
+  d_ex_gym_11_22:
+    speaker: ade_b
+    en: Yes?
+    ko: 예?
+    ja: はい？
+  d_ex_gym_11_23:
+    speaker: novel
+    en: Take me on as your apprentice, I beg of you!
+    ko: 저를 제자로 받아달라는 것입니다!
+    ja: 私を弟子にしてほしいのであります！
+  d_ex_gym_11_24:
+    speaker: ade_b
+    en: "... I would be glad to teach you, though I must admit I am still at a rather
+      basic level."
+    ko: |-
+      …알려드리는 건 가능하지만
+      저도 아직 기초적인 수준인걸요.
+    ja: |-
+      …お教えすることはできますが、
+      私もまだまだ基礎的なレベルなのです。
+  d_ex_gym_11_25:
+    speaker: ade_b
+    en: Would that be acceptable to you?
+    ko: 그걸로 괜찮으시겠어요?
+    ja: それでもかまいませんか？
+  d_ex_gym_11_26:
+    speaker: novel
+    en: As long as it makes me stronger, I don't care what it takes!
+    ko: 지금보다 강해질 수만 있다면 상관없는 것입니다!
+    ja: 今より強くなれるなら、問題ないのであります！
+  d_ex_gym_11_27:
+    speaker: novel
+    en: What I want is for you to teach me the very foundations
+    ko: 에이드가 가지고 있는 요원 능력의 정수.
+    ja: エードが持っているエージェント能力の真髄…
+  d_ex_gym_11_28:
+    speaker: novel
+    en: of your secret agent skills!
+    ko: 그것을 알려줬으면 하는 것입니다!
+    ja: それを教えてほしいのであります！
+  d_ex_gym_11_29:
+    speaker: ade_b
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_gym_11_30:
+    speaker: ade_b
+    en: Then, if I may pose just one question.
+    ko: 그렇다면 한 가지만 여쭤볼게요.
+    ja: 一つだけうかがってもよろしいでしょうか？
+  d_ex_gym_11_31:
+    speaker: novel
+    en: Yeah! What is it?
+    ko: 네! 무엇입니까?
+    ja: はい！何でありますか？
+  d_ex_gym_11_32:
+    speaker: ade_b
+    en: Even the most basic training may prove to be a rather grueling ordeal.
+    ko: |-
+      아무리 기초적인 훈련이라도
+      혹독한 시간이 될지도 몰라요.
+    ja: |-
+      基礎的なレベルとはいえ、
+      厳しい訓練になると思われます。
+  d_ex_gym_11_33:
+    speaker: ade_b
+    en: And I may not quite be myself during training.
+    ko: 그리고 훈련 중의 저는 평소와 다를지도 모르고요.
+    ja: |-
+      そして、訓練中の私は
+      いつもとは違うかもしれません。
+  d_ex_gym_11_34:
+    speaker: ade_b
+    en: "... Do you truly believe you can endure it?"
+    ko: "…그래도 정말 견뎌내실 수 있나요?"
+    ja: "…それでも、本当に耐えられますか？"
+  d_ex_gym_11_35:
+    speaker: novel
+    en: Of course!
+    ko: 물론인 것입니다!
+    ja: もちろんであります！
+  d_ex_gym_11_36:
+    speaker: ade_b
+    en: No matter what hardship may come?
+    ko: 그 어떤 고난이 있어도?
+    ja: どのような苦しみがあろうとも？
+  d_ex_gym_11_37:
+    speaker: novel
+    en: No matter what hardships I face!
+    ko: 어떤 고난이 있어도!
+    ja: どのような苦しみがあろうとも！
+  d_ex_gym_11_38:
+    speaker: novel
+    en: As long as I can become stronger, I don't care!
+    ko: 강해질 수만 있다면 상관없는 것입니다!
+    ja: 強くなれるなら、問題ないのであります！
+  d_ex_gym_11_39:
+    speaker: novel
+    en: A-as long... as I can... become... stronger...
+    ko: 가… 강해… 질 수만… 있다… 면….
+    ja: つ…強く…なれる…なら…
+  d_ex_gym_11_40:
+    speaker: novel
+    en: "*Huff...* *Huff...*"
+    ko: 헥… 헤엑….
+    ja: ハァ…ハァッ…
+  d_ex_gym_11_41:
+    speaker: "<Self>"
+    en: "... Are you all right?"
+    ko: "…괜찮아?"
+    ja: "…大丈夫か？"
+  d_ex_gym_11_42:
+    speaker: novel
+    en: W-Watson!
+    ko: 와… 왓슨!
+    ja: ワ…ワトソン！
+  d_ex_gym_11_43:
+    speaker: novel
+    en: P-please save me...
+    ko: 사, 살려달라는 것입니다….
+    ja: た、助けてほしいのであります…
+  d_ex_gym_11_44:
+    speaker: novel
+    en: Th-this woman... is a monster...!
+    ko: 저… 저 여자 완전 괴물인 것입니다…!
+    ja: あ…あの人は、怪物であります…！
+  d_ex_gym_11_45:
+    speaker: novel
+    en: D-do you realize how many hours it's been?!
+    ko: 버, 벌써 몇 시간이 지났는지 아는 겁니까?
+    ja: |-
+      す、すでに何時間経っているか
+      ご存じでありますか？
+  d_ex_gym_11_46:
+    speaker: ade_b
+    en: Miss Novel?
+    ko: 노벨 아가씨~?
+    ja: ノベルお嬢様～？
+  d_ex_gym_11_47:
+    speaker: novel
+    en: E-eeek!
+    ko: 히, 히엑!
+    ja: ひ、ひぇっ！
+  d_ex_gym_11_48:
+    speaker: ade_b
+    en: Hehe, your 30-second break is almost over.
+    ko: 후후, 쉬는 시간 30초 다 끝나가는걸요.
+    ja: ふふ、休憩時間の30秒は終わりましたよ。
+  d_ex_gym_11_49:
+    speaker: ade_b
+    en: Now, please come this way.
+    ko: 자, 빨리 이쪽으로 오세요~
+    ja: さあ、早くこちらへお越しくださいませ～
+  d_ex_gym_11_50:
+    speaker: novel
+    en: "... I-I'm coming."
+    ko: "…가, 가는 것입니다."
+    ja: "…い、いま行くのであります。"
+  d_ex_gym_11_51:
+    speaker: "<Narration>"
+    en: We met up at noon, and already dusk is falling outside.
+    ko: |-
+      우리의 만남은 정오에 시작되었지만,
+      어느덧 밖에서는 땅거미가 지고 있었다.
+    ja: |-
+      私たちが集合したのは正午だったが、
+      いつの間にか日が暮れていた
+  d_ex_gym_11_52:
+    speaker: ade_b
+    en: Now then, Miss Novel,
+    ko: 자, 노벨 아가씨.
+    ja: さあ、ノベルお嬢様。
+  d_ex_gym_11_53:
+    speaker: ade_b
+    en: shall we attempt it once more?
+    ko: 한 번만 더해볼까요?
+    ja: もう一度やりましょう。
+  d_ex_gym_11_54:
+    speaker: novel
+    en: Haaah...
+    ko: 후우….
+    ja: ふぅ…
+  d_ex_gym_11_55:
+    speaker: novel
+    en: Hrrrrgh...!
+    ko: 흐으으읍…!
+    ja: はぁぁぁっ…！
+  d_ex_gym_11_56:
+    speaker: "<Monologue>"
+    en: Novel swings her leg lightly...
+    ko: 노벨이 가볍게 다리를 휘두르자.
+    ja: ノベルが軽く脚を蹴り上げると…
+  d_ex_gym_11_57:
+    speaker: "<Narration>"
+    en: "*Bang bang baanng!*"
+    ko: 쾅- 쾅- 콰앙-!
+    ja: ドン！ドン！ガンッ！
+  d_ex_gym_11_58:
+    speaker: "<Monologue>"
+    en: A heavy strike lands hard on the punching bag.
+    ko: 육중한 타격이 샌드백에 강하게 꽂혔다.
+    ja: 重みのある攻撃がサンドバッグを激しく揺らした
+  d_ex_gym_11_59:
+    speaker: ade_b
+    en: Oh my...!
+    ko: 와아…!
+    ja: まあ…！
+  d_ex_gym_11_60:
+    speaker: "<Self>"
+    en: Impressive.
+    ko: 대단해.
+    ja: すごいな
+  d_ex_gym_11_61:
+    speaker: novel
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_gym_11_62:
+    speaker: novel
+    en: I-I did it!
+    ko: 돼, 됐따아-!
+    ja: で、できた！
+  d_ex_gym_11_63:
+    speaker: novel
+    en: I-I finally succeeded!
+    ko: 드… 드디어 성공한 것입니다!
+    ja: つ…ついに成功したのであります！
+  d_ex_gym_11_64:
+    speaker: novel
+    en: Ade! Did you see that? Look at how far I've come!
+    ko: 에이드, 보셨습니까? 저의 눈부신 성장을?!
+    ja: |-
+      エード、見たでありますか！？
+      私の輝かしい成長を！
+  d_ex_gym_11_65:
+    speaker: ade_b
+    en: Hehe, indeed.
+    ko: 후후, 그럼요.
+    ja: ふふ、もちろんでございます。
+  d_ex_gym_11_66:
+    speaker: ade_b
+    en: To have achieved such progress in just a single day...
+    ko: 하루 만에 이 정도로 성장하실 줄이야….
+    ja: たった1日でここまで成長なさるとは…
+  d_ex_gym_11_67:
+    speaker: ade_b
+    en: it fills me with such pride.
+    ko: 제가 다 뿌듯할 정도네요.
+    ja: 私も誇らしいです。
+  d_ex_gym_11_68:
+    speaker: novel
+    en: At this level, I could take down anyone with ease!
+    ko: 이 정도라면 누구라도 무리 없이 제압할 수 있을 것입니다!
+    ja: |-
+      これなら、誰が相手でも
+      簡単に制圧できるのであります！
+  d_ex_gym_11_69:
+    speaker: novel
+    en: I can't thank you enough, Ade!
+    ko: 감사하는 것입니다! 에이드!
+    ja: ありがとうであります！エード！
+  d_ex_gym_11_70:
+    speaker: ade_b
+    en: Think nothing of it, Miss Novel. It was only possible because you followed
+      so well.
+    ko: |-
+      별말씀을요, 노벨 아가씨께서
+      잘 따라와 주셨으니 가능했던 일이죠.
+    ja: |-
+      どういたしまして。ノベルお嬢様が
+      ついてきてくださったからこそ、
+      成し遂げられたことでございます。
+  d_ex_gym_11_71:
+    speaker: novel
+    en: Haha! Now that both my mind and body are strengthened,
+    ko: 하하! 그렇다면 두뇌도 육체도 강해진 이 노벨.
+    ja: |-
+      あはは！では、頭脳も身体も
+      強くなったこのノベル。
+  d_ex_gym_11_72:
+    speaker: novel
+    en: I, Novel, shall go ahead and make my exit!
+    ko: 먼저 퇴장해 보는 것입니다!
+    ja: お先に失礼するのであります！
+  d_ex_gym_11_73:
+    speaker: "<Narration>"
+    en: "*Swoosh swoosh swoosh*"
+    ko: 슉- 슉- 슉-
+    ja: シュッ、シュッ、シュッ！
+  d_ex_gym_11_74:
+    speaker: "<Monologue>"
+    en: Bubbling with excitement, Novel shadowboxes her way to the front door.
+    ko: |-
+      신이 난 듯한 노벨은 허공에 주먹과
+      다리를 내지르며 현관으로 향했다.
+    ja: |-
+      ノベルは楽しそうに元気よくパンチやキックを
+      繰り出しながら入口へと向かった
+  d_ex_gym_11_75:
+    speaker: "<Narration>"
+    en: "*Crack!*"
+    ko: 뿌드득-
+    ja: グキッ――
+  d_ex_gym_11_76:
+    speaker: novel
+    en: Huh? What the...?
+    ko: 어? 어라?
+    ja: あ、あれ…？
+  d_ex_gym_11_77:
+    speaker: ade_b
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_gym_11_78:
+    speaker: "<Self>"
+    en: What's that sound?
+    ko: 이게 무슨 소리야?
+    ja: 何の音だ？
+  d_ex_gym_11_79:
+    speaker: novel
+    en: Ugh... oww...
+    ko: 끄, 끄으….
+    ja: う、うう…
+  d_ex_gym_11_80:
+    speaker: novel
+    en: W-Watson? Ade?
+    ko: 와, 왓슨? 에이드?
+    ja: ワ、ワトソン？エード？
+  d_ex_gym_11_81:
+    speaker: novel
+    en: C-could you... help me for a moment?
+    ko: 자… 잠깐 도와줄 수 있는 것입니까?
+    ja: ちょ…ちょっと手伝ってほしいであります。
+  d_ex_gym_11_82:
+    speaker: novel
+    en: My b-body... won't move...!
+    ko: 모, 몸이… 몸이 안 움직이는 것입니다…!
+    ja: か、体が…体が動かないのであります…！
+  d_ex_gym_11_83:
+    speaker: ade_b
+    en: Miss Novel...!
+    ko: 노벨 아가씨…!
+    ja: ノベルお嬢様…！
+  d_ex_gym_11_84:
+    speaker: "<Narration>"
+    en: We lay down Novel, who has frozen in place while standing, and begin administering
+      first aid.
+    ko: |-
+      우리는 선 채로 굳어 있는
+      노벨을 눕혀 응급처치를 진행했다.
+    ja: |-
+      私たちは立ったまま固まっている
+      ノベルを寝かせ、応急処置を行った
+  d_ex_gym_11_85:
+    speaker: ade_b
+    en: "... I believe this should suffice."
+    ko: "…이쯤이면 됐으려나요?"
+    ja: "…これでいかがでしょうか？"
+  d_ex_gym_11_86:
+    speaker: "<Narration>"
+    en: "*Twitch twitch*"
+    ko: 꿈틀- 꿈틀-
+    ja: もぞもぞ…
+  d_ex_gym_11_87:
+    speaker: novel
+    en: Ugh... uggghh...
+    ko: 으… 으윽.
+    ja: う…ううっ。
+  d_ex_gym_11_88:
+    speaker: "<Self>"
+    en: Don't move, Novel.
+    ko: 움직이지 마, 노벨.
+    ja: ノベル、動かない方がいい
+  d_ex_gym_11_89:
+    speaker: novel
+    en: I-I think... I'll survive.
+    ko: 사… 살 것 같다는 것입니다.
+    ja: い…生き返ったのであります。
+  d_ex_gym_11_90:
+    speaker: novel
+    en: I just want to say thank you, Watson. Thank you, Ade.
+    ko: 고맙다는 것입니다. 왓슨, 에이드.
+    ja: 感謝するであります。ワトソン、エード。
+  d_ex_gym_11_91:
+    speaker: ade_b
+    en: Miss Novel... are you quite all right?
+    ko: 노벨 아가씨… 정말 괜찮으신가요?
+    ja: ノベルお嬢様…本当に大丈夫ですか？
+  d_ex_gym_11_92:
+    speaker: novel
+    en: Of course!
+    ko: 물론인 것입니다!
+    ja: もちろんであります！
+  d_ex_gym_11_93:
+    speaker: novel
+    en: If it makes me stronger, this little sacrifice is nothing...!
+    ko: 강해지기 위해서라면 이 정도 희생쯤이야…!
+    ja: 強くなるため、これくらいの犠牲は…！
+  d_ex_gym_11_94:
+    speaker: ade_b
+    en: "... As I thought."
+    ko: "…역시 그렇군요."
+    ja: "…やはりそうですよね。"
+  d_ex_gym_11_95:
+    speaker: ade_b
+    en: Indeed, you have set your mind firmly,
+    ko: 맞아요, 노벨 아가씨께서 굳게 마음을 먹으셨는데
+    ja: |-
+      おっしゃる通りです。
+      ノベルお嬢様が固く決心されているのに…
+  d_ex_gym_11_96:
+    speaker: ade_b
+    en: so I must not let my own resolve weaken here.
+    ko: 제 마음이 여기서 약해지면 안 되겠죠.
+    ja: 私がここで弱気になってはいけませんよね。
+  d_ex_gym_11_97:
+    speaker: novel
+    en: "... Eh?"
+    ko: "…엥?"
+    ja: "…えっ？"
+  d_ex_gym_11_98:
+    speaker: "<Self>"
+    en: You mean there's more?
+    ko: 아직 뭐가 남았어?
+    ja: まだ何かあるのか？
+  d_ex_gym_11_99:
+    speaker: ade_b
+    en: Hehe, indeed.
+    ko: 후후, 그럼요.
+    ja: ふふ、もちろんでございます。
+  d_ex_gym_11_100:
+    speaker: ade_b
+    en: I shall ensure that you are fully recovered
+    ko: 그러니 [다음 수업] 을 진행하기 전까지는
+    ja: ですから、「次のレッスン」に進む前に、
+  d_ex_gym_11_101:
+    speaker: ade_b
+    en: before we proceed to your next session.
+    ko: 몸을 충분히 회복하시는 걸 도와드릴게요.
+    ja: |-
+      お体が十分に回復するよう、
+      お手伝いいたしますね。
+  d_ex_gym_11_102:
+    speaker: novel
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  d_ex_gym_11_103:
+    speaker: novel
+    en: A-Ade, what do you mean by
+    ko: 에, 에이드. 그게 무슨 소리입니까?
+    ja: エ、エード。どういう意味でありますか？
+  d_ex_gym_11_104:
+    speaker: novel
+    en: '"next session"? Didn''t we finish all the training?'
+    ko: |-
+      다, 다음 수업이라니?
+      훈련은 오늘 모두 끝난 게 아니었습니까?
+    ja: |-
+      つ、次のレッスンとは？
+      訓練は今日ですべて終わったのでは？
+  d_ex_gym_11_105:
+    speaker: ade_b
+    en: Perish the thought!
+    ko: 그럴 리가요.
+    ja: いいえ。
+  d_ex_gym_11_106:
+    speaker: ade_b
+    en: Basic training lasts no less than a month, and may extend to three at most.
+    ko: |-
+      기초 훈련은 최소 한 달에서
+      길게는 세 달까지 진행하는걸요.
+    ja: |-
+      基礎訓練は短くて1ヶ月、
+      長くて3ヶ月ほど必要なのです。
+  d_ex_gym_11_107:
+    speaker: novel
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_gym_11_108:
+    speaker: ade_b
+    en: Hehe, do take the opportunity to rest thoroughly while you still may.
+    ko: 후후, 그러니 지금이라도 푹 쉬어두세요.
+    ja: ふふ、ですから今はゆっくりお休みください。
+  d_ex_gym_11_109:
+    speaker: ade_b
+    en: Our evening session is scheduled to commence shortly.
+    ko: 잠시 후에 야간 훈련이 예정되어 있으니까요.
+    ja: 夜間訓練も予定されておりますので。
+  d_ex_gym_11_110:
+    speaker: novel
+    en: "... Can-cancel it."
+    ko: "…취, 취소."
+    ja: "…キャ、キャンセル。"
+  d_ex_gym_11_111:
+    speaker: ade_b
+    en: Excuse me?
+    ko: 예?
+    ja: はい？
+  d_ex_gym_11_112:
+    speaker: novel
+    en: Cancel it! I want to cancel it!
+    ko: 취소! 취소하겠다는 것입니다!
+    ja: キャンセル！キャンセルであります！
+  d_ex_gym_11_113:
+    speaker: novel
+    en: I don't care if I never get stronger!
+    ko: 강해지지 않아도 상관없다는 것입니다!!!
+    ja: 強くならなくても大丈夫なのであります！！
+  d_ex_gym_11_114:
+    speaker: novel
+    en: Please, just spare me!
+    ko: 살려달라는 것입니다-!!!
+    ja: 命が大事なのでありまーーす！！
+  d_ex_gym_11_115:
+    speaker: "<Narration>"
+    en: That day, Novel's screams echo throughout the fitness club.
+    ko: 그날 종합 운동장에서는 노벨의 비명이 울려 퍼졌다.
+    ja: |-
+      その日、総合体育館には
+      ノベルの悲鳴が響き渡った

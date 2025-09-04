@@ -7020,3 +7020,647 @@ d_ex_maidcafe_11:
     ja: |-
       私とソーダはしばらくテーブルの片付けに追われ
       その後やっと別の作業に取りかかることができた
+d_ex_maidcafe_12:
+  d_ex_maidcafe_12_1:
+    speaker: "<Monologue>"
+    en: On a quiet day off, I get a text from Privaty.
+    ko: 한가로운 휴일, 프리바티에게 문자 한 통이 왔다.
+    ja: |-
+      休日にのんびりとしていたところ、
+      プリバティからメッセージが届いた
+  d_ex_maidcafe_12_2:
+    speaker: "<Monologue>"
+    en: She says she's heard the Maid Cafe's sales are skyrocketing and wants to visit
+      to check things out.
+    ko: |-
+      메이드 카페의 매출이 급상승하고 있다는 소식을 들었으니
+      확인차 방문해 보자는 내용이었다.
+    ja: |-
+      メイドカフェの売上が急増中という話を聞いたので、
+      確認のために訪れてみようという内容だった
+  d_ex_maidcafe_12_3:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_maidcafe_12_4:
+    speaker: privaty
+    en: Hmm...
+    ko: 흐음….
+    ja: うーん…
+  d_ex_maidcafe_12_5:
+    speaker: "<Narration>"
+    en: "*Looks around* *Looks around*"
+    ko: 두리번- 두리번-
+    ja: キョロキョロ
+  d_ex_maidcafe_12_6:
+    speaker: privaty
+    en: Hmm...
+    ko: 음….
+    ja: うーーん…
+  d_ex_maidcafe_12_7:
+    speaker: privaty
+    en: Doesn't look like there's anything unusual?
+    ko: 별다른 건 없는 것 같은데요?
+    ja: これといって変わりはないですね。
+  d_ex_maidcafe_12_8:
+    speaker: "<Self>"
+    en: Yeah.
+    ko: 그러게.
+    ja: そうだな
+  d_ex_maidcafe_12_9:
+    speaker: privaty
+    en: "... But how is it that sales are higher than when I was here?"
+    ko: "…그런데 왜 제가 있을 때보다 매출이 늘어난 걸까요?"
+    ja: |-
+      …それなのに、なぜ私がいる時よりも
+      売上が伸びているのでしょうか？
+  d_ex_maidcafe_12_10:
+    speaker: privaty
+    en: It seems no different from usual...
+    ko: 평소랑 다를 바가 없어 보이는데….
+    ja: いつもと同じように見えますが…
+  d_ex_maidcafe_12_11:
+    speaker: "<Self>"
+    en: Are you jealous?
+    ko: 질투하는 거야?
+    ja: 嫉妬してるのか？
+  d_ex_maidcafe_12_12:
+    speaker: privaty
+    en: N-no way!
+    ko: 그… 그럴 리가요!
+    ja: ま…まさか！
+  d_ex_maidcafe_12_13:
+    speaker: privaty
+    en: I work for the Central Government, so why the heck would I be jealous?!
+    ko: 중앙정부 소속인 제가 왜 질투를 하나요!
+    ja: 中央政府所属の私が、なぜ嫉妬を？
+  d_ex_maidcafe_12_14:
+    speaker: privaty
+    en: I-I only help out occasionally, it's not like I actually work as a maid...
+    ko: |-
+      가, 가끔 일을 도와드리긴 하지만
+      진심으로 메이드를 하는 것도 아니고….
+    ja: |-
+      た、たまにお仕事を手伝うことはありますが、
+      本気でメイドをやっているわけでも
+      ありませんし…
+  d_ex_maidcafe_12_15:
+    speaker: "<Self>"
+    en: "... I see."
+    ko: "…그렇구나."
+    ja: "…そうか"
+  d_ex_maidcafe_12_16:
+    speaker: unknown
+    en: Welcome back, Master, Miss.
+    ko: 다녀오셨나요. 주인님, 아가씨.
+    ja: お帰りなさいませ。ご主人様、お嬢様。
+  d_ex_maidcafe_12_17:
+    speaker: privaty
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_12_18:
+    speaker: privaty
+    en: You are...?
+    ko: 누구…?
+    ja: 誰…？
+  d_ex_maidcafe_12_19:
+    speaker: ade_b
+    en: Miss... Privaty?
+    ko: 프리바티… 아가씨?
+    ja: プリバティ…お嬢様？
+  d_ex_maidcafe_12_20:
+    speaker: ade_b
+    en: And the person beside you is...?
+    ko: 그리고 옆에 계신 건….
+    ja: それから、お隣にいらっしゃるのは…
+  d_ex_maidcafe_12_21:
+    speaker: "<Self>"
+    en: Hello.
+    ko: 안녕.
+    ja: やあ
+  d_ex_maidcafe_12_22:
+    speaker: ade_b
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_maidcafe_12_23:
+    speaker: ade_b
+    en: M-M-Master?!
+    ko: 주, 주주주인님…?!
+    ja: ご、ごごごご主人様…！？
+  d_ex_maidcafe_12_24:
+    speaker: ade_b
+    en: Th-this is most unexpected! What brings you here...?
+    ko: 이, 이곳은 갑자기 왜…?
+    ja: な、なぜ急にこちらに…？
+  d_ex_maidcafe_12_25:
+    speaker: "<Self>"
+    en: I heard sales went up, so I thought I'd come check it out.
+    ko: |-
+      매출이 올랐다길래,
+      궁금해서 찾아와봤어.
+    ja: |-
+      売上が上がったと聞いて、
+      気になったから来てみたんだ
+  d_ex_maidcafe_12_26:
+    speaker: ade_b
+    en: I-I... see.
+    ko: 그, 그러… 시군요?
+    ja: さ、さようで…ございますか。
+  d_ex_maidcafe_12_27:
+    speaker: ade_b
+    en: "... Very well, then. Allow me to show you to your seat."
+    ko: |-
+      …알겠습니다.
+      그럼, 안내해 드리도록 하죠.
+    ja: |-
+      …かしこまりました。
+      では、ご案内いたします。
+  d_ex_maidcafe_12_28:
+    speaker: ade_b
+    en: This way, please...
+    ko: 잠시, 이쪽으로….
+    ja: どうぞ、こちらへ…
+  d_ex_maidcafe_12_29:
+    speaker: privaty
+    en: Hold on a sec.
+    ko: 잠깐만요.
+    ja: 待ってください。
+  d_ex_maidcafe_12_30:
+    speaker: privaty
+    en: Ade, what the heck are you wearing?
+    ko: 에이드, 그 복장은 뭔가요?
+    ja: エード、その格好は何ですか？
+  d_ex_maidcafe_12_31:
+    speaker: ade_b
+    en: Oh, this outfit, you ask?
+    ko: 아, 이 복장 말씀인가요?
+    ja: あ、こちらでございますか？
+  d_ex_maidcafe_12_32:
+    speaker: ade_b
+    en: We will soon be holding a bunny girl event at the Maid Cafe.
+    ko: 조만간 메이드 카페에서 바니걸 이벤트를 진행할 예정이거든요.
+    ja: |-
+      メイドカフェでバニーガールのイベントを
+      開催する予定なのですが…
+  d_ex_maidcafe_12_33:
+    speaker: ade_b
+    en: Consider this a sort of rehearsal...
+    ko: 그것의 예행연습… 이라고 해야겠네요.
+    ja: その予行練習…とでもいいましょうか。
+  d_ex_maidcafe_12_34:
+    speaker: ade_b
+    en: I am most pleased to see that our esteemed guests are enjoying themselves
+      so thoroughly...
+    ko: 주인님들과 아가씨들도 꽤 즐겨주시는 것 같아서 다행….
+    ja: |-
+      ご主人様がたとお嬢様がたにも、
+      好評のようでよかっ――
+  d_ex_maidcafe_12_35:
+    speaker: privaty
+    en: "... How disappointing."
+    ko: "…실망이에요."
+    ja: "…がっかりです。"
+  d_ex_maidcafe_12_36:
+    speaker: ade_b
+    en: I beg your pardon?
+    ko: 네?
+    ja: はい？
+  d_ex_maidcafe_12_37:
+    speaker: privaty
+    en: I-I'm so disappointed!
+    ko: 시, 실망이라고요!
+    ja: が、がっかりしました！
+  d_ex_maidcafe_12_38:
+    speaker: privaty
+    en: T-to think you'd try to lure in customers with such indecent clothing...!
+    ko: |-
+      그, 그렇게 외설스러운 복장으로
+      손님들을 끌어모을 생각을 하시다니…!
+    ja: |-
+      そ、そんなハレンチな格好で
+      お客様を集めようとするなんて…！
+  d_ex_maidcafe_12_39:
+    speaker: privaty
+    en: Whatever happened to your pride as a maid?!
+    ko: 메이드의 긍지는 어디로 갔나요?!
+    ja: メイドの誇りはどこへ行ったんですか！？
+  d_ex_maidcafe_12_40:
+    speaker: ade_b
+    en: M-Miss Privaty...?
+    ko: 프, 프리바티 아가씨…?
+    ja: プ、プリバティお嬢様…？
+  d_ex_maidcafe_12_41:
+    speaker: ade_b
+    en: It's a misunderstanding. Th-this is not as it appears...
+    ko: 오해예요. 이, 이건 그런 게 아니라….
+    ja: 誤解です。そ、そういうわけではなく…
+  d_ex_maidcafe_12_42:
+    speaker: "<Self>"
+    en: Privaty, calm down.
+    ko: 프리바티, 조금 진정해.
+    ja: プリバティ、少し落ち着くんだ
+  d_ex_maidcafe_12_43:
+    speaker: privaty
+    en: Calm down?! How am I supposed to stay calm when even Ade has changed?
+    ko: |-
+      진정하긴요!
+      다른 사람도 아닌 에이드가 변했는데 어떻게 진정하나요!
+    ja: |-
+      落ち着けるわけないでしょう！
+      よりによって、エードがこんなふうに
+      なってしまうなんて！
+  d_ex_maidcafe_12_44:
+    speaker: privaty
+    en: Ade used to be the very embodiment of what it meant to be a proper maid!
+    ko: 에이드는 완벽한 메이드 그 자체였는걸요!
+    ja: エードは、まさに完璧なメイドだったのに！
+  d_ex_maidcafe_12_45:
+    speaker: ade_b
+    en: "... If I have caused you any displeasure, I humbly apologize."
+    ko: "…불쾌하셨다면 사과드리겠습니다."
+    ja: |-
+      …ご不快な思いをさせてしまい、
+      心からお詫びいたします。
+  d_ex_maidcafe_12_46:
+    speaker: ade_b
+    en: Might I beg you to grant me but a single chance—
+    ko: 그렇다면, 저에게 한 번만 기회를 주실 수 있으신가요?
+    ja: |-
+      しかし、私に一度だけチャンスを
+      いただけないでしょうか？
+  d_ex_maidcafe_12_47:
+    speaker: ade_b
+    en: a chance to prove that I remain unchanged?
+    ko: 제가 변하지 않았다는 것을 증명할 기회를요.
+    ja: 私が変わっていないと証明するチャンスを。
+  d_ex_maidcafe_12_48:
+    speaker: privaty
+    en: "... Hmph."
+    ko: "…흥"
+    ja: "…ふん。"
+  d_ex_maidcafe_12_49:
+    speaker: privaty
+    en: Fine.
+    ko: 뭐, 좋아요.
+    ja: まあ、いいでしょう。
+  d_ex_maidcafe_12_50:
+    speaker: privaty
+    en: Then show me that you're still serious about this.
+    ko: 그렇다면, 에이드가 아직 진심이라는 걸 보여주세요.
+    ja: |-
+      では、エードがまだメイドに本気だということを
+      見せてください。
+  d_ex_maidcafe_12_51:
+    speaker: ade_b
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_12_52:
+    speaker: ade_b
+    en: Understood, Miss Privaty.
+    ko: 알겠습니다, 프리바티 아가씨.
+    ja: かしこまりました。プリバティお嬢様。
+  d_ex_maidcafe_12_53:
+    speaker: ade_b
+    en: From this moment, I shall devote myself entirely to serving you.
+    ko: 지금부터 전심전력을 다해 모시도록 하겠습니다.
+    ja: |-
+      ただ今より、全身全霊で
+      お仕えさせていただきます。
+  d_ex_maidcafe_12_54:
+    speaker: ade_b
+    en: This way, if you please.
+    ko: 자, 이쪽으로 오시죠.
+    ja: こちらへどうぞ。
+  d_ex_maidcafe_12_55:
+    speaker: ade_b
+    en: Master, Miss Privaty, your meal is ready.
+    ko: 주인님, 아가씨. 음식 준비됐습니다.
+    ja: |-
+      ご主人様、お嬢様。
+      お料理をお持ちいたしました。
+  d_ex_maidcafe_12_56:
+    speaker: privaty
+    en: "... I'll leave it to you."
+    ko: "…부탁드릴게요."
+    ja: "…お願いします。"
+  d_ex_maidcafe_12_57:
+    speaker: "<Narration>"
+    en: "*Clack clack*"
+    ko: 달칵- 달칵-
+    ja: スッ――
+  d_ex_maidcafe_12_58:
+    speaker: "<Monologue>"
+    en: Not long after we place our order, the table is lavishly filled with a variety
+      of sumptuous dishes.
+    ko: |-
+      주문한 지 얼마 되지 않아,
+      식탁은 수많은 음식으로 호화롭게 채워졌다.
+    ja: |-
+      注文してすぐに、
+      テーブルには豪華な料理が並べられた
+  d_ex_maidcafe_12_59:
+    speaker: "<Monologue>"
+    en: Bunny omurice, bunny parfait, bunny cake—new menu items that seem to be made
+      with care.
+    ko: |-
+      바니 오므라이스, 바니 파르페, 바니 케이크 등등
+      정성이 가득하게 느껴지는 새로운 메뉴들이다.
+    ja: |-
+      バニーオムライス、バニーパフェ、
+      バニーケーキなど、心をこめて
+      作られたことが伝わる新メニューだ
+  d_ex_maidcafe_12_60:
+    speaker: "<Self>"
+    en: Whoa...
+    ko: 오오….
+    ja: おお…
+  d_ex_maidcafe_12_61:
+    speaker: privaty
+    en: "...!!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_maidcafe_12_62:
+    speaker: ade_b
+    en: These dishes are the fruit of several sleepless nights of research—undertaken
+      together with Cocoa and Soda, of course.
+    ko: |-
+      후후, 코코아와 소다랑 몇 날 며칠 동안
+      밤을 새워가며 연구한 음식이에요.
+    ja: |-
+      ふふ、ココアとソーダと一緒に
+      何日も徹夜しながら研究したお料理です。
+  d_ex_maidcafe_12_63:
+    speaker: ade_b
+    en: I do hope they are to your liking.
+    ko: 부디 마음에 드셨으면 좋겠군요.
+    ja: お気に召しましたら幸いです。
+  d_ex_maidcafe_12_64:
+    speaker: privaty
+    en: "... Well, it's not entirely unpleasant."
+    ko: "…뭐, 나쁘진 않네요."
+    ja: "…まあ、悪くありませんね。"
+  d_ex_maidcafe_12_65:
+    speaker: ade_b
+    en: A-ahem...!
+    ko: 크, 크흠…!
+    ja: こ、こほんっ…！
+  d_ex_maidcafe_12_66:
+    speaker: ade_b
+    en: W-well then... allow me to recite the spell to make it delicious.
+    ko: 그, 그럼… 맛있어지는 주문을 외워드릴게요.
+    ja: で、では…おいしくなる呪文を唱えます。
+  d_ex_maidcafe_12_67:
+    speaker: ade_b
+    en: Ah...?
+    ko: 아…?
+    ja: えっ…？
+  d_ex_maidcafe_12_68:
+    speaker: ade_b
+    en: Uh... C-could you both maybe not stare at me like that...?
+    ko: 읏… 두, 두 분 다 그렇게 쳐다보시면…!
+    ja: |-
+      うっ…お、お二人に
+      そのように見つめられると…！
+  d_ex_maidcafe_12_69:
+    speaker: "<Narration>"
+    en: Ade's face turns bright red as she tightly shuts her eyes and starts chanting
+      a spell.
+    ko: |-
+      얼굴이 새빨개진 에이드는
+      눈을 질끈 감고 주문을 외우기 시작했다.
+    ja: |-
+      顔を真っ赤にさせたエードは、
+      ぎゅっと目を閉じて呪文を唱え始めた
+  d_ex_maidcafe_12_70:
+    speaker: ade_b
+    en: Become delicious...
+    ko: 맛있어져라….
+    ja: おいしくな～れ…
+  d_ex_maidcafe_12_71:
+    speaker: ade_b
+    en: B-become delicious...!
+    ko: 마, 맛있어져라아….
+    ja: お、おいしくな～れ…
+  d_ex_maidcafe_12_72:
+    speaker: "<Monologue>"
+    en: I don't know if it's intentional or merely a coincidence,
+    ko: 고의인지 우연인지는 모르겠지만
+    ja: わざとなのか、たまたまなのかは分からないが…
+  d_ex_maidcafe_12_73:
+    speaker: "<Monologue>"
+    en: but Ade's clumsy execution of the spell—so unlike her usual perfectionism—somehow
+      makes my heart flutter even more.
+    ko: |-
+      완벽했던 에이드의 서투른 주문에
+      오히려 가슴이 더 울리기 시작했다.
+    ja: |-
+      完璧なメイドであるエードの
+      ぎこちない呪文を見ると
+      むしろ胸が高鳴った
+  d_ex_maidcafe_12_74:
+    speaker: "<Monologue>"
+    en: The regulars must feel the same way.
+    ko: 이것은 단골손님들도 비슷하게 느꼈겠지.
+    ja: 常連客たちも同じ思いだったに違いない
+  d_ex_maidcafe_12_75:
+    speaker: privaty
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_12_76:
+    speaker: "<Self>"
+    en: "... I'd say she passes."
+    ko: "…나는 합격."
+    ja: "…合格だ"
+  d_ex_maidcafe_12_77:
+    speaker: "<Self>"
+    en: Now I get why sales have gone up.
+    ko: 왜 매출이 증가했는지 알 거 같아.
+    ja: なぜ売上が上がったのか分かる気がする
+  d_ex_maidcafe_12_78:
+    speaker: ade_b
+    en: Ah...!
+    ko: 아…!
+    ja: あっ…！
+  d_ex_maidcafe_12_79:
+    speaker: ade_b
+    en: Th-thank you very much... Master!
+    ko: 가, 감사합니다… 주인님!
+    ja: あ、ありがとうございます…ご主人様！
+  d_ex_maidcafe_12_80:
+    speaker: "<Self>"
+    en: What about you, Privaty?
+    ko: 프리바티는 어때?
+    ja: プリバティはどうだ？
+  d_ex_maidcafe_12_81:
+    speaker: privaty
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_12_82:
+    speaker: privaty
+    en: "... Fine."
+    ko: "…좋아요."
+    ja: "…分かりました。"
+  d_ex_maidcafe_12_83:
+    speaker: privaty
+    en: I'll admit it.
+    ko: 인정할게요.
+    ja: 認めましょう。
+  d_ex_maidcafe_12_84:
+    speaker: privaty
+    en: You really haven't changed, Ade.
+    ko: 에이드는 변하지 않으셨군요.
+    ja: エードは変わっていません。
+  d_ex_maidcafe_12_85:
+    speaker: privaty
+    en: In fact, seeing you in that outfit makes your sincerity stand out even more.
+    ko: |-
+      오히려 그 옷을 입으니
+      진정성이 더 느껴져요.
+    ja: |-
+      むしろ、その服のせいか
+      真剣さがより伝わってきました。
+  d_ex_maidcafe_12_86:
+    speaker: ade_b
+    en: Oh...!
+    ko: 와아…!
+    ja: まあ…！
+  d_ex_maidcafe_12_87:
+    speaker: ade_b
+    en: M-my deepest thanks, Miss Privaty.
+    ko: 가, 감사합니다. 프리바티 아가씨.
+    ja: あ、ありがとうございます。プリバティお嬢様。
+  d_ex_maidcafe_12_88:
+    speaker: privaty
+    en: And thanks.
+    ko: 그리고 고마워요.
+    ja: こちらこそ、ありがとうございます。
+  d_ex_maidcafe_12_89:
+    speaker: privaty
+    en: For putting up with our unreasonable demands when we just barged in like that.
+    ko: |-
+      다짜고짜 들이닥쳤던
+      저희들의 억지에 어울려주셔서.
+    ja: |-
+      いきなり押しかけてきた
+      私たちの無茶な要求に付き合ってくれて。
+  d_ex_maidcafe_12_90:
+    speaker: ade_b
+    en: Please do not speak so, Miss Privaty.
+    ko: 그런 말씀 마세요. 프리바티 아가씨.
+    ja: |-
+      そんなことをおっしゃらないでください。
+      プリバティお嬢様。
+  d_ex_maidcafe_12_91:
+    speaker: ade_b
+    en: If your misunderstanding has been resolved, then I am most relieved.
+    ko: 아가씨의 오해가 해소되었다면 오히려 다행이랍니다.
+    ja: |-
+      お嬢様の誤解が解けて、
+      心からほっとしております。
+  d_ex_maidcafe_12_92:
+    speaker: "<Self>"
+    en: What a heartwarming ending.
+    ko: 훈훈한 결말이네.
+    ja: 微笑ましいな
+  d_ex_maidcafe_12_93:
+    speaker: privaty
+    en: Um... Ade,
+    ko: 저… 그런데 에이드.
+    ja: その…ところで、エード。
+  d_ex_maidcafe_12_94:
+    speaker: privaty
+    en: there's something I'd like to ask you...
+    ko: 한 가지 여쭤보고 싶은 게 있는데요….
+    ja: 一つ聞きたいことがあるんですが…
+  d_ex_maidcafe_12_95:
+    speaker: ade_b
+    en: Yes, what might it be?
+    ko: 네, 어떤 건가요?
+    ja: はい。何でございましょう？
+  d_ex_maidcafe_12_96:
+    speaker: privaty
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_12_97:
+    speaker: privaty
+    en: So... you'll be needing more hands to get the event ready, right?
+    ko: 그… 이벤트를 준비하려면 일손이 더 필요하지 않으세요?
+    ja: |-
+      その…イベントを準備するなら、
+      もっと人手が必要ではありませんか？
+  d_ex_maidcafe_12_98:
+    speaker: privaty
+    en: I-it just so happens I've got some free time lately.
+    ko: 마, 마침 최근 한가하기도 해서.
+    ja: ちょ、ちょうど最近、時間もあるので…
+  d_ex_maidcafe_12_99:
+    speaker: privaty
+    en: If you really needed someone, I suppose I could help.
+    ko: 필요하시다면 제가 도움이 될 수 있을지도요?
+    ja: |-
+      必要でしたら、
+      私がお手伝いできるかもしれません。
+  d_ex_maidcafe_12_100:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_12_101:
+    speaker: privaty
+    en: Wh-what's with that look?
+    ko: 뭐, 뭐예요. 그 눈빛?
+    ja: な、何ですか。その目は？
+  d_ex_maidcafe_12_102:
+    speaker: privaty
+    en: I-I'm telling you this with the best of intentions, okay?
+    ko: 저, 저는 정말 선의로 말씀드린 거라고요!
+    ja: わ、私は親切で言っているんです！
+  d_ex_maidcafe_12_103:
+    speaker: ade_b
+    en: Hehe, but naturally.
+    ko: 후후, 물론이죠.
+    ja: ふふ、もちろんでございます。
+  d_ex_maidcafe_12_104:
+    speaker: ade_b
+    en: With Miss Privaty's assistance, I would feel most reassured.
+    ko: 프리바티 아가씨가 도와주신다면 분명 든든할 거랍니다.
+    ja: |-
+      プリバティお嬢様にお手伝いいただけたら、
+      きっと頼もしいでしょうね。
+  d_ex_maidcafe_12_105:
+    speaker: privaty
+    en: I knew it.
+    ko: 역시 그렇죠?
+    ja: やっぱりそうですよね？
+  d_ex_maidcafe_12_106:
+    speaker: privaty
+    en: If you ever need help, give me a shout.
+    ko: 필요하시다면 언제든 불러주세요.
+    ja: 必要だったらいつでも呼んでください。
+  d_ex_maidcafe_12_107:
+    speaker: privaty
+    en: I could totally pull off a bunny girl, no problem!
+    ko: 바니걸쯤은 간단하게 소화해 줄 테니까요!
+    ja: |-
+      バニーガールの衣装くらい、
+      簡単に着こなしてみせます！
+  d_ex_maidcafe_12_108:
+    speaker: ade_b
+    en: Hehe. Yes, I shall be in touch with you soon.
+    ko: 후후. 네, 조만간 연락드릴게요.
+    ja: ふふ。ええ、ご連絡いたしますね。
+  d_ex_maidcafe_12_109:
+    speaker: "<Narration>"
+    en: "... In the near future, we just might witness the birth of a brand-new bunny
+      girl maid."
+    ko: "…머지않은 미래에 새로운 바니걸 메이드가 탄생할지도 모르겠다."
+    ja: |-
+      …遠くない将来、新しいバニーガールメイドが
+      誕生するかもしれない

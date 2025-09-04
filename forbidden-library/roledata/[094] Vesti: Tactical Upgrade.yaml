@@ -66,7 +66,7 @@ character_shot_description_localkey_rl_up:
     status. Affects self.\n<color=#00AEFF>ATK ▲ {description_value_02}% for {description_value_03}
     sec.</color> \n■ Activates when landing Full Charge attacks if target(s) is in
     Explosive Round status. Affects self.\n<color=#00AEFF><word_group=10066>Projectile
-    explosion damage</word_group> ▲ {description_value_04}% for {description_value_05}
+    Explosion Damage</word_group> ▲ {description_value_04}% for {description_value_05}
     sec.</color>"
   ko: |-
     ■ 풀 차지 공격 명중 시 대상에게
@@ -79,7 +79,8 @@ character_shot_description_localkey_rl_up:
     ■フルチャージ攻撃が命中した時、対象に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
     防御力無視ダメージ」</color>
-    ■フルチャージ攻撃が命中した時、自分が戦場コントロール状態なら、自分に
+    ■フルチャージ攻撃が命中した時、
+    自分が戦場コントロール状態なら、自分に
     <color=#00AEFF>「攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
     ■フルチャージ攻撃が命中した時、
     対象が徹甲炸裂弾状態なら、自分に
@@ -111,7 +112,8 @@ skill_name_1003:
     ミサイルガイド状態でなければ自分に
     <color=#00AEFF>「ミサイルガイド：チャージ速度{description_value_01}％▲」
     「{description_value_02}発間維持」</color>
-    <color=#00AEFF>「チャージダメージ{description_value_03}％▲」「{description_value_04}発間維持」</color>
+    <color=#00AEFF>「チャージダメージ{description_value_03}％▲」
+    「{description_value_04}発間維持」</color>
     ■最大弾数のリロードが完了した時、自分に
     <color=#00AEFF>「ミサイルガイド解除」</color>
 skill_name_1002:
@@ -138,7 +140,8 @@ skill_name_1002:
   ja: |-
     ■自分に
     <color=#00AEFF>「爆発範囲{description_value_01}％▲」「{description_value_02}秒間維持」</color>
-    <color=#00AEFF>「防御力無視ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    <color=#00AEFF>「防御力無視ダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
     ■敵全体に（パーツ含む）
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の防御力無視バーストスキルダメージ」</color>
 skill_name_1001:

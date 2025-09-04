@@ -76,14 +76,20 @@ character_shot_description_localkey_mg_down:
     ■自分が生存している限り
     <color=#00AEFF>「フォーメーションLT」：
     機能：戦闘を有利に進める作戦指示を行う
-    効果1：同じ部隊の味方全体に「クリティカルダメージ{description_value_01}％▲」「持続」
-    効果2：味方全体に「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_02}％▲」「持続」
+    効果1：同じ部隊の味方全体に
+    「クリティカルダメージ{description_value_01}％▲」「持続」
+    効果2：味方全体に
+    「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_02}％▲」「持続」
 
     「自分にフォーメーションAS適用中、効果を追加」
-    効果1：味方全体に「防御力無視ダメージ{description_value_03}％▲」「持続」
-    効果2：味方全体に「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_04}％▲」「持続」
-    効果3：自分に「陽動<word_group=10086>発動不可</word_group>」「持続」
-    効果4：自分に「環境コントロール<word_group=10085>再発動周期</word_group>{description_value_05}秒▼」「持続」</color>
+    効果1：味方全体に
+    「防御力無視ダメージ{description_value_03}％▲」「持続」
+    効果2：味方全体に
+    「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_04}％▲」「持続」
+    効果3：自分に
+    「陽動<word_group=10086>発動不可</word_group>」「持続」
+    効果4：自分に
+    「環境コントロール<word_group=10085>再発動周期</word_group>{description_value_05}秒▼」「持続」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -95,7 +101,7 @@ skill_name_1003:
 20931_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Environment Setup
+    <color=#00AEFF>Environment Setup:
     Function: Sprays a solution into the surroundings to create an advantageous battlefield.
     Effect 1: Damage Taken ▲ {description_value_01}% for {description_value_02} sec.
     Effect 1 Target(s): All enemies (including those that appear during Environment Setup)
@@ -131,7 +137,8 @@ skill_name_1003:
     効果1：「受けるダメージ{description_value_01}％▲」
     「{description_value_02}秒間維持」
     効果1の対象：敵全体
-    （環境コントロール効果中に出現した敵を含む）
+    （環境コントロール効果中に
+    出現した敵を含む）
 
     効果2：「環境コントロール：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％持続回復」
     「1秒間隔」「{description_value_04}秒間維持」
@@ -155,7 +162,7 @@ skill_name_1002:
     ■ Affects all allies.
     <color=#00AEFF>Battlefield Formation: ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
     ■ Affects self, if self is in Environment Setup status.
-    <color=#00AEFF>Enhances Environment Setup
+    <color=#00AEFF>Enhances Environment Setup:
     Function: Enhances Environment Setup
     Duration: 10 sec
     Effect 1: Damage taken multiplier of Environment Setup is <word_group=10084>scaled</word_group> by 100%.
@@ -517,7 +524,7 @@ c093_Battle_Ready_2:
   ko: 꼼짝 못 하게 해줄게.
   ja: 動けなくしてあげる。
 c093_Battle_Ready_3:
-  en: Alright everyone, let's relax and get started.
+  en: All right everyone, let's relax and get started.
   ko: 다들~ 긴장 풀고 시작하자.
   ja: みんな～肩の力を抜いて始めるわよ～
 c093_Reload_1:

@@ -4425,3 +4425,558 @@ d_ex_police_09:
     ja: |-
       …ポリが帰ってきたら、
       きちんと説明しなくては…
+d_ex_police_10:
+  d_ex_police_10_1:
+    speaker: "<Monologue>"
+    en: One day, I stop by the police station to pick up some important documents.
+    ko: 어느 날, 필요한 서류를 받아 가기 위해 들린 경찰서.
+    ja: |-
+      ある日、必要な書類を受け取りに
+      警察署に立ち寄った
+  d_ex_police_10_2:
+    speaker: "<Monologue>"
+    en: But there, instead of the A.C.P.U., I find only two completely unexpected
+      faces.
+    ko: 거기에는 A.C.P.U.가 아니라, 전혀 예상하지 못한 둘만이 있었다.
+    ja: |-
+      そこにはA.C.P.U.ではなく、
+      予想もしなかった2人がいた
+  d_ex_police_10_3:
+    speaker: privaty_m
+    en: Does that even make sense?
+    ko: 그게 말이 되냐고요.
+    ja: そんなことがあり得ますか？
+  d_ex_police_10_4:
+    speaker: privaty_m
+    en: Showing up at a police station in that outfit and claiming it's for an investigation?
+    ko: 그런 옷을 입고는, 조사할 게 있어서 경찰서를 찾아온 거라니.
+    ja: |-
+      そんな服を着て、調べたいことがあるから
+      警察署に来たなんて。
+  d_ex_police_10_5:
+    speaker: privaty_m
+    en: Who'd ever believe that?
+    ko: 누가 그런 말을 믿겠어요?
+    ja: そんな話、信じられると思います？
+  d_ex_police_10_6:
+    speaker: milk_b
+    en: Oh, that's rich coming from you.
+    ko: 사돈 남 말 하고 계시네.
+    ja: 人のこと言える立場か？
+  d_ex_police_10_7:
+    speaker: milk_b
+    en: Look who's talking, you little punk!
+    ko: 너야말로 말이 되는 소리를 해, 짜샤.
+    ja: そっちこそ自分の格好よく見てみろよ。
+  d_ex_police_10_8:
+    speaker: milk_b
+    en: Parading around in that shameless getup and claiming you're on duty.
+    ko: 너처럼 파렴치한 옷을 입고 공무 수행 중이라니.
+    ja: そんなハレンチな服を着て仕事中だなんてさ。
+  d_ex_police_10_9:
+    speaker: milk_b
+    en: As if anyone would buy that!
+    ko: 누가 믿겠냐고!
+    ja: 誰が信じるってんだ！
+  d_ex_police_10_10:
+    speaker: privaty_m
+    en: Sh-shameless?!
+    ko: 파, 파렴치하다뇨!
+    ja: は、ハレンチだなんて！
+  d_ex_police_10_11:
+    speaker: privaty_m
+    en: This outfit is worn solely to serve Master! There's absolutely nothing shameful
+      about it!
+    ko: 이 옷은 어디까지나 주인님을 모시기 위해 입는 옷으로 전혀 부끄럽지 않은….
+    ja: |-
+      この服は、あくまでご主人様を
+      おもてなしするために着ているもので、
+      まったく恥じる必要のない――
+  d_ex_police_10_12:
+    speaker: "<Self>"
+    en: "... What are you two doing?"
+    ko: "…둘이서 뭐 하는 거야?"
+    ja: "…何をしているんだ？"
+  d_ex_police_10_13:
+    speaker: privaty_m
+    en: M-Master...!
+    ko: 주, 주인님…!
+    ja: ご、ご主人様…！
+  d_ex_police_10_14:
+    speaker: milk_b
+    en: Hey, Pal. You came just in time.
+    ko: "오, 형씨. \n마침 잘 왔어."
+    ja: |-
+      おっ、兄貴。
+      いいところに来たな。
+  d_ex_police_10_15:
+    speaker: milk_b
+    en: Talk some sense into this blockhead, will you? She's completely uptight, unlike
+      what she's wearing.
+    ko: 입고 있는 옷과는 다르게 앞뒤가 꽉꽉 막힌 이 녀석한테 말 좀 해줘.
+    ja: |-
+      こんな服着てるくせに頭の固いこいつに
+      ちょっと言ってやってくれよ。
+  d_ex_police_10_16:
+    speaker: milk_b
+    en: And tell her I'm not doing anything shady!
+    ko: 내가 절대 수상한 짓은 안 한다는 걸!
+    ja: 私は怪しいモンじゃないってさ！
+  d_ex_police_10_17:
+    speaker: privaty_m
+    en: Who exactly are you calling "uptight"?!
+    ko: 누가 앞뒤가 막혔다는 건가요!
+    ja: 頭が固いですって！？
+  d_ex_police_10_18:
+    speaker: privaty_m
+    en: You show up at a police station in a bunny girl outfit...
+    ko: 경찰서에 바니걸 차림으로 찾아오다니….
+    ja: 警察署にバニーガールの格好で来るなんて…
+  d_ex_police_10_19:
+    speaker: privaty_m
+    en: Do you not realize how ridiculously suspicious you look right now?!
+    ko: 지금 당신의 모습이 누가 봐도 수상하다는 생각은 안 하시나요?
+    ja: |-
+      今のあなたの姿は
+      誰が見ても怪しいと思うのですが。
+  d_ex_police_10_20:
+    speaker: privaty_m
+    en: Don't tell me you actually walk around the Outpost dressed like that?
+    ko: 설마 전초기지 안에서 그렇게 입고 돌아다니는 건 아니겠죠?
+    ja: |-
+      まさか、前哨基地の中をそんな格好で
+      歩き回っているわけではないでしょうね？
+  d_ex_police_10_21:
+    speaker: milk_b
+    en: I already told you! I'm only wearing this for a mission, got it? That's it!
+    ko: 그러니까 이건 어디까지나 의뢰 때문에 입은 거라고 말했잖아!
+    ja: |-
+      だから、これはあくまで
+      依頼のために着てるんだって言ってるだろ！
+  d_ex_police_10_22:
+    speaker: "<Self>"
+    en: Both of you, calm down.
+    ko: 둘 다 진정해.
+    ja: 二人とも落ち着け
+  d_ex_police_10_23:
+    speaker: "<Self>"
+    en: First, why don't you share why you came to the police station?
+    ko: 일단 경찰서에는 무슨 일로 온 건지부터 서로의 입장을 이야기해 보자.
+    ja: |-
+      まず、警察署に何の用事で来たのか、
+      お互いの事情を説明し合おう
+  d_ex_police_10_24:
+    speaker: milk_b
+    en: Fine, let's start with that one first.
+    ko: 그래, 그것부터 이야기해 보자고.
+    ja: そうだな。そこから話そうぜ。
+  d_ex_police_10_25:
+    speaker: privaty_m
+    en: All right, then. Let's get this over with.
+    ko: 좋아요. 어디 해보도록 하죠.
+    ja: 分かりました。望むところです。
+  d_ex_police_10_26:
+    speaker: "<Self>"
+    en: Then, let's start with you, Milk.
+    ko: 그럼, 먼저 밀크부터 이야기해.
+    ja: では、まずミルクから頼む
+  d_ex_police_10_27:
+    speaker: milk_b
+    en: I came here to dig up some info on a target.
+    ko: 내가 여기 찾아온 건, 타깃의 정보를 알아보기 위해서야.
+    ja: |-
+      私がここに来たのは、
+      ターゲットの情報を調べるためだ。
+  d_ex_police_10_28:
+    speaker: milk_b
+    en: While I was working on the mission, I found out one of the target's lackeys
+      is a wanted criminal.
+    ko: 의뢰를 맡아서 진행하다가 타깃의 끄나풀 중에 수배범이 있다는 정보를 얻었거든.
+    ja: |-
+      依頼を受けて進めてたら、
+      ターゲットの手下の中に指名手配犯がいるって
+      情報が手に入ったんだよ。
+  d_ex_police_10_29:
+    speaker: milk_b
+    en: And if someone's on the wanted list, where else would you check but the police
+      station, right?
+    ko: 수배까지 된 녀석이라면, 경찰서에서 정보를 조사하는 게 가장 확실하잖아.
+    ja: |-
+      指名手配されてるなら、
+      警察で調べるのが一番確実だろ？
+  d_ex_police_10_30:
+    speaker: milk_b
+    en: So here I am, in the middle of digging through files,
+    ko: 그래서 한창 조사하던 중이었는데,
+    ja: だから調査してたのに、
+  d_ex_police_10_31:
+    speaker: milk_b
+    en: when suddenly Privaty shows up out of nowhere and slaps cuffs on me.
+    ko: 프리바티 녀석이 갑자기 나타나서는 날 붙잡는 거야.
+    ja: |-
+      こいつが急に現れて、
+      私を捕まえるっていうんだよ。
+  d_ex_police_10_32:
+    speaker: milk_b
+    en: Then, starts going off about how I look "suspicious" and she's taking me in.
+    ko: 공무 수행 중에 수상한 사람을 발견했으니 연행하겠다면서.
+    ja: |-
+      仕事中に怪しい人物を発見したから、
+      連行するとか言ってさ。
+  d_ex_police_10_33:
+    speaker: milk_b
+    en: Like, seriously? If anyone's suspicious, it's her—strutting into the police
+      station in that shameless outfit.
+    ko: 수상한 사람은 누가 봐도 저런 부끄러운 옷을 입고 경찰서를 찾아온 저쪽 아니야?
+    ja: |-
+      怪しいのはどう見たって
+      こんな恥ずかしい恰好で警察署にいる
+      そっちの方だろ？
+  d_ex_police_10_34:
+    speaker: privaty_m
+    en: Wh-who do you think you're calling—
+    ko: 누, 누가 누구더러…!
+    ja: だ、誰に向かってそのような発言を…！
+  d_ex_police_10_35:
+    speaker: "<Self>"
+    en: Calm down, guys. It's Privaty's turn to speak.
+    ko: 진정하고, 이제 프리바티의 입장을 이야기할 차례야.
+    ja: 落ち着け。次はプリバティの話を聞こう
+  d_ex_police_10_36:
+    speaker: privaty_m
+    en: Ugh... fine.
+    ko: 으으… 알겠어요.
+    ja: うぅ…分かりました。
+  d_ex_police_10_37:
+    speaker: privaty_m
+    en: I stopped by on my way to the Maid Cafe
+    ko: 저는 메이드 카페로 출근하는 길에 잠시 이곳에 들른 거예요.
+    ja: |-
+      私はメイドカフェに出勤する途中で、
+      ちょっとここに立ち寄ったんです。
+  d_ex_police_10_38:
+    speaker: privaty_m
+    en: because Admi asked me to request A.C.P.U.'s cooperation.
+    ko: 애드미의 부탁을 받고, A.C.P.U.에 협조 요청을 하러왔죠.
+    ja: |-
+      アドミに頼まれて、
+      A.C.P.U.に協力を要請しに来ました。
+  d_ex_police_10_39:
+    speaker: privaty_m
+    en: But the moment I stepped into the station, I saw Milk doing something blatantly
+      suspicious.
+    ko: 그런데 경찰서에 들어서는 순간, 누가 봐도 수상한 짓을 하고 있던 밀크가 보였어요.
+    ja: |-
+      しかし、警察署に入った瞬間、
+      どう見ても怪しい行動をしていた
+      ミルクが見えたんです。
+  d_ex_police_10_40:
+    speaker: privaty_m
+    en: So I told her to stop and said I'd take her in for questioning.
+    ko: 그래서 하는 짓을 멈추게 하고, 자세한 조사를 위해 연행하겠다고 한 거예요.
+    ja: |-
+      だからその行動をやめさせて、
+      調査のために連行すると言ったのです。
+  d_ex_police_10_41:
+    speaker: "<Self>"
+    en: Doing something suspicious...?
+    ko: 수상한 짓이라면…?
+    ja: 怪しい行動…？
+  d_ex_police_10_42:
+    speaker: privaty_m
+    en: A Nikke in a bunny girl outfit tampering with the devices inside the police
+      station without authorization.
+    ko: 경찰서에 있는 디바이스를 멋대로 조작하고 있는, 바니걸 차림의 니케라니.
+    ja: |-
+      バニーガール姿のニケが、
+      警察署のデバイスを勝手に操作している、
+      だなんて。
+  d_ex_police_10_43:
+    speaker: privaty_m
+    en: Doesn't that seem suspicious to you?
+    ko: 아무리 생각해도 수상하지 않나요?
+    ja: どう考えても怪しいでしょう？
+  d_ex_police_10_44:
+    speaker: "<Self>"
+    en: True that.
+    ko: 그렇긴 하네.
+    ja: 確かにそうだな
+  d_ex_police_10_45:
+    speaker: privaty_m
+    en: Right?
+    ko: 그렇죠?
+    ja: そうですよね？
+  d_ex_police_10_46:
+    speaker: privaty_m
+    en: Police stations and bunny girls… that's just a suspicious combo, no matter
+      how you look at it.
+    ko: 경찰서와 바니걸, 어떻게 봐도 수상한 조합이잖아요.
+    ja: |-
+      警察署とバニーガール、
+      どう見ても怪しい組み合わせですから。
+  d_ex_police_10_47:
+    speaker: milk_b
+    en: I've told you a dozen times! I'm only wearing this for the mission!
+    ko: 몇 번이나 말했지만, 의뢰 때문에 입은 거라니까!
+    ja: |-
+      何回も言ってんだろ。
+      この格好は、依頼のためなんだ！
+  d_ex_police_10_48:
+    speaker: privaty_m
+    en: You could've changed before coming here, right?
+    ko: 옷이라면, 갈아입으면 되는 것 아닌가요?
+    ja: 服なら着替えれば済む話では？
+  d_ex_police_10_49:
+    speaker: privaty_m
+    en: There's absolutely no reason to be showing up here dressed like that.
+    ko: 굳이 그러고 올 필요는 없는 거잖아요.
+    ja: わざわざその格好で来る必要はありませんよね。
+  d_ex_police_10_50:
+    speaker: milk_b
+    en: Hey, I'm in a hurry, all right? There's no way I have time to change!
+    ko: 아, 급해 죽겠는데 옷 갈아입을 시간이 어딨어?
+    ja: |-
+      急いでるんだから、
+      着替えてるヒマなんかないだろ！
+  d_ex_police_10_51:
+    speaker: milk_b
+    en: And what about you!? Don't you think *your* outfit is weird!?
+    ko: 그러는 너야말로 네 옷이 이상하다는 생각은 안 하냐?
+    ja: |-
+      そういうお前こそ、
+      自分の服が変だと思わないのか？
+  d_ex_police_10_52:
+    speaker: milk_b
+    en: You're just strutting around in that ridiculous, frilly thing like it's nothing!
+    ko: 그런 부끄러운 옷을 입고 잘도 돌아다니는구만.
+    ja: そんな恥ずかしい服でよく歩き回れるよな。
+  d_ex_police_10_53:
+    speaker: privaty_m
+    en: I-I'm not ashamed in the slightest!
+    ko: 저, 전혀 부끄럽지 않거든요!
+    ja: ま、まったく恥ずかしくなどありません！
+  d_ex_police_10_54:
+    speaker: privaty_m
+    en: Compared to what you're wearing, mine's practically tame.
+    ko: 이 정도는 당신이 입은 그 옷에 비하면 정숙한 편이죠.
+    ja: |-
+      あなたが着ている服に比べれば
+      控えめな方ですよね。
+  d_ex_police_10_55:
+    speaker: milk_b
+    en: Oh, really now.
+    ko: 퍽이나 그러시네.
+    ja: ハイハイ、そーですか。
+  d_ex_police_10_56:
+    speaker: milk_b
+    en: That thing's covered in ribbons and frills,
+    ko: 옷에 리본이며, 프릴이며 잔뜩 달린 데다가,
+    ja: ふりっふりのリボンやフリル。
+  d_ex_police_10_57:
+    speaker: milk_b
+    en: and the skirt's so short you'd give everyone a free show with one wrong move.
+    ko: 조금만 움직이면 다 보일 것 같은 치마.
+    ja: 少し動くだけで丸見えになりそうなスカート。
+  d_ex_police_10_58:
+    speaker: milk_b
+    en: And if you're supposed to be a maid, what's with the cat ears and tail?
+    ko: 거기다가 메이드라면서 그 고양이 귀랑 꼬리는 뭐냐?
+    ja: |-
+      それにメイドなのに、
+      そのネコ耳としっぽは何だよ？
+  d_ex_police_10_59:
+    speaker: milk_b
+    en: I'd never be caught dead in something that humiliating.
+    ko: 난 그런 옷, 수치스러워서 절대 못 입어.
+    ja: 私ならそんな服、恥ずかしくて着れないね。
+  d_ex_police_10_60:
+    speaker: privaty_m
+    en: H-how dare you...!
+    ko: 누, 누가 할 소리를…!
+    ja: よ、よくもそんなことを…！
+  d_ex_police_10_61:
+    speaker: privaty_m
+    en: You should take a good look at yourself!
+    ko: 당신이야말로 당신이 입은 옷을 잘 살펴보시죠!
+    ja: |-
+      あなたこそ、自分が着ている服を
+      よく見てください！
+  d_ex_police_10_62:
+    speaker: privaty_m
+    en: You've got rabbit ears and a tail too!
+    ko: 당신도 토끼 귀랑 꼬리를 하고 있잖아요!
+    ja: |-
+      あなたもウサギの耳としっぽを
+      つけているじゃないですか！
+  d_ex_police_10_63:
+    speaker: privaty_m
+    en: And that outfit... it's practically skin-tight.
+    ko: 게다가 몸의 굴곡이 그대로 드러나는 재질의 복장.
+    ja: |-
+      しかも、体のラインがそのまま現れる
+      素材ですよね。
+  d_ex_police_10_64:
+    speaker: privaty_m
+    en: At least I'm wearing a skirt, so I'm clearly better off than you!
+    ko: 그리고 치마라도 입고 있다는 점에서 제가 더 나은 것 같은데요?
+    ja: |-
+      スカートを履いているという点で、
+      私の方がいいと思いますが？
+  d_ex_police_10_65:
+    speaker: milk_b
+    en: It's not like this is unusual or anything.
+    ko: 이건 원래 이런 옷이니까 상관없어.
+    ja: これは元々こういう服だからいいんだよ。
+  d_ex_police_10_66:
+    speaker: milk_b
+    en: Everyone else in Coin Rush is wearing the same thing too.
+    ko: 코인 러시에서는 다른 자식들도 다 이렇게 입고 있다고.
+    ja: |-
+      コインラッシュじゃ他の奴らもみんな
+      この格好なんだからさ。
+  d_ex_police_10_67:
+    speaker: milk_b
+    en: Would you also feel embarrassed to be wearing a swimsuit at the pool?
+    ko: 넌 수영장에서 수영복을 입고 돌아다니는 게 부끄럽냐?
+    ja: |-
+      お前はプールで水着を着て歩くのが
+      恥ずかしいのか？
+  d_ex_police_10_68:
+    speaker: privaty_m
+    en: I can't say I completely disagree, but—
+    ko: 그렇지는 않지만….
+    ja: そ、そんなことはありませんが…
+  d_ex_police_10_69:
+    speaker: privaty_m
+    en: "... Wait a sec!"
+    ko: "…잠깐만요."
+    ja: "…お待ちください。"
+  d_ex_police_10_70:
+    speaker: privaty_m
+    en: We're at the police station, not Coin Rush!
+    ko: 여긴 코인 러시가 아니라 경찰서거든요!
+    ja: |-
+      ここはコインラッシュではなく、
+      警察署ですよ！
+  d_ex_police_10_71:
+    speaker: milk_b
+    en: This isn't the Maid Cafe either, you know!
+    ko: 메이드 카페도 아니거든!
+    ja: メイドカフェでもないぞ！
+  d_ex_police_10_72:
+    speaker: privaty_m
+    en: Still, my clothes are way better than whatever ridiculous thing you're wearing!
+    ko: 그래도 당신이 입고 다니는 그 옷보다는 훨씬 낫죠!
+    ja: |-
+      それでもあなたが着ているその服よりは
+      ずっとマシです！
+  d_ex_police_10_73:
+    speaker: milk_b
+    en: Ha! What a joke! Compared to what you're wearing, my outfit's a hundred times
+      better!
+    ko: 웃기시네! 네가 입고 있는 거에 비하면 내 옷은 아무것도 아니지!
+    ja: |-
+      笑わせんなって！
+      お前の服に比べたら、私のなんて屁でもないぜ！
+  d_ex_police_10_74:
+    speaker: "<Self>"
+    en: We're starting to get off track again...
+    ko: 이야기가 점점 논점을 이탈하고 있는데….
+    ja: だんだん本題からずれているようだが…
+  d_ex_police_10_75:
+    speaker: milk_b
+    en: Grr...
+    ko: 크으….
+    ja: うぐぐ…
+  d_ex_police_10_76:
+    speaker: privaty_m
+    en: Ugh...
+    ko: 으으….
+    ja: うう…
+  d_ex_police_10_77:
+    speaker: milk_b
+    en: "... All right, fine! Let's just ask Pal"
+    ko: "…좋아. 그러면 물어보자고."
+    ja: "…よし。それなら兄貴に聞いてみようぜ。"
+  d_ex_police_10_78:
+    speaker: milk_b
+    en: whose outfit looks better?
+    ko: 형씨한테 누구 복장이 더 괜찮은지.
+    ja: どっちの服の方がいいと思うか。
+  d_ex_police_10_79:
+    speaker: milk_b
+    en: That way, no one'll complain, right?
+    ko: 그러면 불만 없겠지?
+    ja: それなら不満はないだろ？
+  d_ex_police_10_80:
+    speaker: "<Self>"
+    en: Huh...? Me?
+    ko: 어…? 나한테?
+    ja: え…？私に？
+  d_ex_police_10_81:
+    speaker: privaty_m
+    en: I trust Master will make a wise and fair judgment.
+    ko: 좋아요. 주인님이라면, 현명한 판단을 해주시겠죠.
+    ja: |-
+      分かりました。ご主人様なら
+      賢明な判断をしてくださるはずです。
+  d_ex_police_10_82:
+    speaker: privaty_m
+    en: So let's settle this debate once and for all.
+    ko: 이 논쟁은 그걸로 끝내도록 해요.
+    ja: この議論はそれで終わりにしましょう。
+  d_ex_police_10_83:
+    speaker: "<Self>"
+    en: Wait, hold on...
+    ko: 아니, 잠깐만….
+    ja: いや、ちょっと待ってくれ…
+  d_ex_police_10_84:
+    speaker: milk_b
+    en: You think my bunny outfit is better, right, Pal?
+    ko: 형씨는 내가 입고 있는 바니걸 복장이 더 낫다고 생각하지?
+    ja: |-
+      兄貴は私のバニーガールの方が
+      いいと思うだろ？
+  d_ex_police_10_85:
+    speaker: privaty_m
+    en: Naturally, you prefer my maid outfit, don't you, Master?
+    ko: 주인님은 당연히 제 메이드복이 더 좋다고 생각하시죠?
+    ja: |-
+      ご主人様は当然私のメイド服の方が
+      いいと思いますよね？
+  d_ex_police_10_86:
+    speaker: "<Self>"
+    en: Um, well...
+    ko: 그러니까, 그게….
+    ja: えーと、その…
+  d_ex_police_10_87:
+    speaker: milk_b
+    en: Pal!
+    ko: 형씨!
+    ja: 兄貴！
+  d_ex_police_10_88:
+    speaker: privaty_m
+    en: Master!
+    ko: 주인님!
+    ja: ご主人様！
+  d_ex_police_10_89:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_10_90:
+    speaker: "<Monologue>"
+    en: Even after that, I have to keep trying to calm Privaty and Milk, who keep
+      demanding answers from me.
+    ko: 그 후에도 나에게 답을 요구하는 둘을 진정시키기 위해 노력해야 했고.
+    ja: |-
+      その後も、私に答えを求める2人を
+      なだめようとあたふたし…
+  d_ex_police_10_91:
+    speaker: "<Monologue>"
+    en: Their bickering only dies down once Poli returns and sorts things out.
+    ko: 둘 사이의 논쟁은 폴리가 돌아와 현장을 정리한 후에 겨우 사그라들었다.
+    ja: |-
+      2人の言い争いは、ポリが戻って
+      その場を収めてくれたことで、
+      ようやく落ち着いた

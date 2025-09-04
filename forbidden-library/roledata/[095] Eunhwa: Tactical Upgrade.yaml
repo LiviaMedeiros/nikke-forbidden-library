@@ -92,8 +92,10 @@ character_shot_description_localkey_sr_up:
     効果3：自分に「攻撃力{description_value_05}％▲」「持続」
 
     「自分にフォーメーションLT適用中、効果を追加」
-    効果1：味方全体に「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_03}％▲」「持続」
-    効果2：味方全体に「防御力無視ダメージ{description_value_04}％▲」「持続」</color>
+    効果1：味方全体に
+    「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_03}％▲」「持続」
+    効果2：味方全体に
+    「防御力無視ダメージ{description_value_04}％▲」「持続」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -110,7 +112,7 @@ skill_name_1003:
     <color=#00AEFF>Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_01} sec. Loses effect when the caster takes damage.</color>
     ■ Activates only when in Camouflage status. Affects self.
     <color=#00AEFF>Normal attacks deal true damage continuously.
-    True damage ▲ {description_value_02}% continuously.</color>
+    True Damage ▲ {description_value_02}% continuously.</color>
   ko: |-
     ■ 버스트 스킬 사용 시 자신에게
     <color=#00AEFF>[카모플라쥬 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_01}초 유지]</color>
@@ -130,7 +132,8 @@ skill_name_1003:
     直接攻撃を受けると解除」
     「{description_value_01}秒間維持」</color>
     ■カモフラージュ状態である限り、自分に
-    <color=#00AEFF>「通常攻撃が防御力無視ダメージに変化」「持続」
+    <color=#00AEFF>「通常攻撃が防御力無視ダメージに変化」
+    「持続」
     「防御力無視ダメージ{description_value_02}％▲」「持続」</color>
 skill_name_1002:
   en: Skill 1
@@ -145,8 +148,8 @@ skill_name_1002:
     {description_value_01}% of <word_group=10025>final</word_group> ATK as true damage\nFull
     Charge damage: 300% of damage\nMax ammunition capacity: {description_value_02}
     round(s)\nSpecial note: Fires an Exploding Bullet dealing area-of-effect damage.
-    \nAdditional effect:\nTarget: Target(s) hit\nEffect: Explosive Round - Damage
-    taken ▲ {description_value_03}% for {description_value_04} sec.</color>"
+    \nAdditional effect:\nTarget: Target(s) hit\nEffect: Explosive Round: Damage taken
+    ▲ {description_value_03}% for {description_value_04} sec.</color>"
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[사용 무기 변경] :
@@ -345,7 +348,7 @@ c095_Lobby_Touch_2:
   ko: 하고 싶은 말이 있다면 해봐. 들어는 주지.
   ja: 言いたいことがあるなら言え。一応聞いてやる。
 c095_Lobby_Touch_3:
-  en: Don't start a conversation if you're not gonna finish it. Don't leave people
+  en: Don't start a conversation if you're not going to finish it. Don't leave people
     hanging.
   ko: 말을 걸었으면, 말을 해라. 사람 귀찮게 하지 말고.
   ja: 話しかけたなら最後まで話せ。こっちは暇じゃないんだ。
