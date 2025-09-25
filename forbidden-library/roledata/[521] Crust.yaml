@@ -63,21 +63,21 @@ character_shot_description_localkey_rl_up:
   en: Reliable Cooking
   ko: 든든한 요리
   ja: たっぷりクッキング
-25212_description:
+25212_description_1:
   en: |-
     ■ Activates after landing {description_value_02} normal attack(s) without Full Charge. Affects all allies not in Reliable Cooking status.
     <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_03}% of the caster's DEF for {description_value_04} sec.
     <word_group=10005>Dispels 1 debuff</word_group>.</color>
-    ■ Activates after landing {description_value_06} Full Charge attack(s) for more than {description_value_05} sec. Affects all allies not in Reliable Cooking status.
+    ■ Activates after maintaining {description_value_06} Full Charge status for more than {description_value_05} sec. Affects all allies not in Reliable Cooking status.
     <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_07}% of the caster's DEF for {description_value_08} sec.
     <word_group=10005>Dispels 1 debuff</word_group>.</color>
-    ■ Activates when entering Full Burst. Affects all targets in Maillard or Blanching status.
+    ■ Activates when entering Full Burst. Affects all allies in Maillard or Blanching status.
     <color=#00AEFF>ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.</color>
   ko: |-
     ■ 풀 차지 공격이 아닌 일반 공격 {description_value_02}회 공격 시 든든한 요리 상태가 아닌 아군 전체에게
     <color=#00AEFF>[든든한 요리: 시전자 기준 방어력 {description_value_03}% ▲] [{description_value_04}초 유지]
     [<word_group=10005>해로운 효과 해제</word_group> 1개]</color>
-    ■ 풀 차지 공격 {description_value_05}초 이상 유지를 {description_value_06}회 실행 시 든든한 요리 상태가 아닌 아군 전체에게
+    ■ 풀 차지 상태 {description_value_05}초 이상 유지를 {description_value_06}회 실행 시 든든한 요리 상태가 아닌 아군 전체에게
     <color=#00AEFF>[든든한 요리: 시전자 기준 방어력 {description_value_07}% ▲][{description_value_08}초 유지]
     [<word_group=10005>해로운 효과 해제</word_group> 1개]</color>
     ■ 풀 버스트 타임 진입 시 마이야르나 블렌칭 상태인 대상에게
@@ -85,18 +85,16 @@ character_shot_description_localkey_rl_up:
   ja: |-
     ■フルチャージではない通常攻撃を
     {description_value_02}回行った時、
-    たっぷりクッキング状態ではない
-    味方全体に
-    <color=#00AEFF>「たっぷりクッキング：スキル発動者基準で防御力{description_value_03}％▲」「{description_value_04}秒間維持」
-    「<word_group=10005>デバフ効果解除</word_group>1個」</color>
+    たっぷりクッキング状態ではない味方全体に
+    <color=#00AEFF>「たっぷりクッキング：スキル発動者基準で防御力{description_value_03}％▲」
+    「{description_value_04}秒間維持」「<word_group=10005>デバフ効果解除</word_group>1個」</color>
     ■フルチャージ状態を{description_value_05}秒以上維持して
     {description_value_06}回攻撃した時、
-    たっぷりクッキング状態ではない
-    味方全体に
-    <color=#00AEFF>「たっぷりクッキング：スキル発動者基準で防御力{description_value_07}％▲」「{description_value_08}秒間維持」
-    「<word_group=10005>デバフ効果解除</word_group>1個」</color>
-    ■フルバーストタイム発動時、メイラード
-    またはブランチング状態の対象に
+    たっぷりクッキング状態ではない味方全体に
+    <color=#00AEFF>「たっぷりクッキング：スキル発動者基準で防御力{description_value_07}％▲」
+    「{description_value_08}秒間維持」「<word_group=10005>デバフ効果解除</word_group>1個」</color>
+    ■フルバーストタイム発動時、
+    メイラードまたはブランチング状態の対象に
     <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_09}％▲」
     「{description_value_10}秒間維持」</color>
 skill_name_1003:
@@ -107,7 +105,7 @@ skill_name_1003:
   en: Grill and Boil
   ko: 굽고, 데치고
   ja: グリル・アンド・ボイル
-25211_description:
+25211_description_1:
   en: |-
     ■ Activates when attacking with Full Charge and self is in Maillard status. Affects all allies.
     <color=#00AEFF>Maillard <word_group=10051>Duration ▲ {description_value_02} sec</word_group>.</color>
@@ -116,7 +114,7 @@ skill_name_1003:
     ■ Activates after landing {description_value_04} normal attack(s) without Full Charge. Affects all allies.
     <color=#00AEFF>Maillard: ATK ▲ {description_value_05}% of caster's ATK for {description_value_06} sec.
     Removes Blanching.</color>
-    ■ Activates after landing {description_value_08} Full Charge attack(s) for more than {description_value_07} sec. Affects all allies.
+    ■ Activates after maintaining {description_value_08} Full Charge status for more than {description_value_07} sec. Affects all allies.
     <color=#00AEFF>Blanching: ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.
     Removes Maillard.</color>
   ko: |-
@@ -127,7 +125,7 @@ skill_name_1003:
     ■ 풀 차지 공격이 아닌 일반 공격 {description_value_04}회 공격 시 아군 전체에게
     <color=#00AEFF>[마이야르 : 시전자 기준 공격력 {description_value_05}% ▲] [{description_value_06}초 유지]
     [블렌칭 제거]</color>
-    ■ 풀 차지 공격 {description_value_07}초 이상 유지를 {description_value_08}회 실행 시 아군 전체에게
+    ■ 풀 차지 상태 {description_value_07}초 이상 유지를 {description_value_08}회 실행 시 아군 전체에게
     <color=#00AEFF>[블렌칭 : 시전자 기준 공격력 {description_value_09}% ▲] [{description_value_10}초 유지]
     [마이야르 제거]</color>
   ja: |-
@@ -140,8 +138,9 @@ skill_name_1003:
     {description_value_04}回行った時、味方全体に
     <color=#00AEFF>「メイラード：スキル発動者基準で攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」
     「ブランチング解除」</color>
-    ■フルチャージ状態を{description_value_07}秒以上維持して
-    {description_value_08}回攻撃した時、味方全体に
+    ■フルチャージ状態を{description_value_07}秒以上
+    {description_value_08}回維持した時、
+    味方全体に
     <color=#00AEFF>「ブランチング：スキル発動者基準で
     攻撃力{description_value_09}％▲」「{description_value_10}秒間維持」
     「メイラード解除」</color>

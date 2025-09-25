@@ -1,0 +1,538 @@
+---
+840_name:
+  en: Ada
+  ko: 에이다
+  ja: エイダ
+c840_description:
+  en: |-
+    A mysterious and resourceful operative who never reveals vulnerability, no matter the circumstances.
+    Ada works alone, staying laser-focused on her mission and keeping emotional ties at bay.
+    Her true motives, identity, and loyalties remain shrouded in secrecy—even the name "Ada Wong" is just an alias.
+  ko: |-
+    가혹한 상황 속에서도, 나약한 면을 보이지 않는 신출귀몰한 에이전트.
+    단독 행동을 선호해 임무를 우선시하며, 사사로운 정을 섞지 않는다.
+    목적·신원·소속 등은 베일에 싸여 있고 에이다 웡이란 이름조차 가명이다.
+  ja: |-
+    どんな過酷な状況にあっても、弱さを見せることはない
+    神出鬼没のエージェント。
+    基本的に単独行動。任務を優先し、私情を交えない。
+    目的、身元、所属などは謎に包まれており、
+    エイダ・ウォンという名前すらも偽名である。
+840_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_840:
+  en: Ada's Spare Body
+  ko: 에이다 스페어 바디
+  ja: エイダのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+28402_name:
+  en: Flash Grenade
+  ko: 섬광 수류탄
+  ja: 閃光手榴弾
+28402_description:
+  en: |-
+    ■ Activates during Full Burst. Affects <word_group=10020>enemies within attack range</word_group> nearest to the crosshair every {description_value_01} sec.
+    <color=#00AEFF>Flash Grenade Toss: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as True Damage.</color>
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Flash Grenade Toss activation time condition ▼ {description_value_03} sec for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 지속 중 {description_value_01}초마다 조준선에 가장 가까운 <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[섬광 수류탄 투척 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 방어력 무시 대미지]</color>
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[섬광 수류탄 투척 발동 시간 조건 {description_value_03}초 ▼] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルバーストタイム発動中、
+    {description_value_01}秒ごとに照準線に最も近い<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「閃光手榴弾投擲：<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の
+    防御力無視ダメージ」</color>
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「閃光手榴弾投擲の発動間隔{description_value_03}秒▼」
+    「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28401_name:
+  en: Covert Support
+  ko: 은밀한 지원
+  ja: 隠密支援
+28401_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all <word_group=10082>Burst Stage {description_value_07}</word_group> allies who previously cast their Burst Skill.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.
+    True damage ▲ {description_value_03}% for {description_value_04} sec.
+    Recovers {description_value_05}% of damage as HP for {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 직전에 버스트 스킬을 사용한 <word_group=10082>기본 버스트 단계가 Step {description_value_07}인</word_group> 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [방어력 무시 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [공격 대미지 비례 {description_value_05}% 회복] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、直前に
+    バーストスキルを使用した
+    <word_group=10082>基本バースト段階が{description_value_07}の</word_group>味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    「防御力無視ダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」
+    「攻撃ダメージの{description_value_05}％回復」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18403_name:
+  en: Secret Agent
+  ko: 시크릿 에이전트
+  ja: シークレットエージェント
+18403_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.
+    True Damage ▲ {description_value_03}% for {description_value_04} sec.
+    Special Modification
+    Function: Decreases Charge Speed but increases Charge Damage for {description_value_05} round(s).
+    Effect 1: Charge Speed ▼ {description_value_06}%.
+    Effect 2: Charge Damage ▲ {description_value_07}%.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [방어력 무시 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [특수 개조]
+    기능 : 차지 속도가 감소하는 대신 차지 대미지 증가 {description_value_05}발 유지
+    효과1 : [차지 속도 {description_value_06}% ▼]
+    효과2 : [차지 대미지 {description_value_07}% ▲]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」
+    「防御力無視ダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」
+    「特殊改造」
+    機能：チャージ速度が減少する代わりに、
+    チャージダメージ増加{description_value_05}発間維持
+    効果1：「チャージ速度{description_value_06}％▼」
+    効果2：「チャージダメージ{description_value_07}％▲」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+841_name:
+  en: Jill
+  ko: 질
+  ja: ジル
+842_name:
+  en: Claire
+  ko: 클레어
+  ja: クレア
+c840_Lobby_Touch_1:
+  en: |-
+    My identity? Sorry, that's a secret.
+    I am willing to hear your story, though.
+  ko: |-
+    내 정체? 미안하지만, 비밀이야.
+    대신 당신에 대한 이야기를 들어줄게.
+  ja: |-
+    私の正体？悪いけど、秘密なの。
+    その代わり、あなたの話を聞いてあげるわ。
+c840_Lobby_Touch_2:
+  en: |-
+    Don't forget our deal.
+    I give you the intel, and you deliver the NEO-Virus to me.
+  ko: |-
+    거래는 잊지 않길 바래.
+    내가 정보를 주면, 당신은 NEO 바이러스를 넘기는 거야.
+  ja: |-
+    取引のことを忘れないでね。
+    私が情報を渡す、あなたはNEO-ウィルスをくれる。
+    そういう約束よ。
+c840_Lobby_Touch_3:
+  en: My mission... let's just say it's probably not that different from yours.
+  ko: 지금 임무라… 글쎄? 당신이랑 크게 다르진 않을걸?
+  ja: 私の任務…？そうね…あなたと大して変わらないと思うわ。
+c840_Lobby_Touch_Love_1:
+  en: Do you trust me?
+  ko: 당신은… 날 믿어?
+  ja: ねえ、私を信じる？
+c840_Lobby_Touch_Love_2:
+  en: Who am I working for? Come on—you know I don't work for anyone. And even if
+    I did, I'd never say who.
+  ko: |-
+    누굴 위해서 일하냐고?
+    알잖아, 말하지 않을 거란 거.
+  ja: |-
+    誰のために働いてるのかって？
+    知ってるでしょ、答えないって。
+c840_Lobby_Touch_Love_3:
+  en: I don't like being toyed with by others... but I'll play along. So, what is
+    it you want to talk about?
+  ko: |-
+    다른 사람에게 놀아나는 건 질색이지만….
+    너라면 어울려줄 수도 있어. 그래서 무슨 이야기를 하고 싶은데?
+  ja: |-
+    他人に踊らされるのは嫌だけど……
+    あなたのペースには乗ってあげてもいいわ。
+    それで、何の話をしたいの？
+c840_Lobby_Stay_1:
+  en: |-
+    I'll be waiting right here.
+    Don't worry. I'm not going anywhere.
+  ko: |-
+    여기서 기다리고 있을게.
+    걱정 마. 어디 안 가고 가만히 있을 테니까.
+  ja: |-
+    ここで待ってるわ。
+    心配しないで。どこにも行かないでおとなしくしてるから。
+c840_Lobby_Stay_Love_1:
+  en: Is that the drawer where you hide your secrets? You sure you're okay with leaving
+    me here unsupervised?
+  ko: |-
+    저쪽 서랍이었나? 뭔가 비밀스러운 걸 넣어둔 데가.
+    정말 괜찮겠어? 날 혼자 내버려둬도.
+  ja: |-
+    あっちの引き出しだったかしら、例の物を入れておいたのは。
+    ホントに大丈夫？私をひとりにして。
+c840_Outpost_Touch_1:
+  en: |-
+    Is that the hotel that D manages?
+    Must be tough, keeping your identity hidden while working in this line of business.
+  ko: |-
+    D가 관리한다던 호텔이 저기야?
+    힘들겠네, 정체를 숨기고 활동하고 있으니.
+  ja: |-
+    Dが運営しているホテルが あれなの？
+    大変そうね、 正体を隠しながら 活動しなきゃいけないんだもの。
+c840_Outpost_Touch_2:
+  en: It's still peaceful here... And everyone is completely oblivious as to what's
+    going on behind the scenes.
+  ko: 여긴 아직 평화롭네. 뒤에서 무슨 일이 벌어지는지도 모르고….
+  ja: ここはまだ平和ね。 裏でどんなことが 起こってるのかも知らず…
+c840_Outpost_Touch_3:
+  en: A church? Where's the dial?
+  ko: 교회? 다이얼은 어디에 있지?
+  ja: 教会？ダイヤルはどこ？
+c840_Gacha_Get_1:
+  en: The name's Ada. We're after the same thing, so we might as well work together.
+  ko: "…에이다야. 목적이 일치하는 동안은, 잘 부탁할게."
+  ja: "…エイダよ。目的が同じうちは、よろしく頼むわ。"
+c840_Reinforce_1:
+  en: I want to see if I'm stronger than before. Care to take a little walk with me?
+  ko: |-
+    전보다 위력이 올랐는지 확인하고 싶은데,
+    산책 좀 같이 따라와 줄래?
+  ja: |-
+    前より強くなったか確認したいんだけど、
+    一緒に散歩にでも行かない？
+c840_Reinforce_2:
+  en: Thanks to you, the upgrades are complete.
+  ko: 덕분에 개조는 마쳤어.
+  ja: おかげで改造は終わったわ。
+c840_Reinforce_3:
+  en: Looks like I can return to the mission now.
+  ko: 임무에 다시 복귀할 수 있겠네.
+  ja: 任務に戻れそう。
+c840_Gift_1:
+  en: Oh? What's this supposed to mean?
+  ko: 흐음? 이건 무슨 의미지?
+  ja: ふ～ん？これはどういう意味かしら？
+c840_Gift_2:
+  en: |-
+    Well, you're awfully confident. Overly so, I'd say.
+    Fine, I'll let it slide... for now.
+  ko: |-
+    당신은 절조가 상당히 부족한 거 같네.
+    그래도 일단은 받아둘게.
+  ja: |-
+    節操がないにも程があるんじゃない？
+    とりあえず受け取っておくけど。
+c840_Gift_3:
+  en: |-
+    Giving me this doesn't change our deal.
+    As for how I see you, however... that might be a different matter.
+  ko: |-
+    이런 걸 준다고, 거래 내용은 바뀌지 않아.
+    다만, 당신을 어떻게 보게 될지는 다른 문제지만.
+  ja: |-
+    こんなものを渡されたからって、取引は変わらないわ。
+    ただ、あなたをどう見るかは別の話だけどね。
+c840_Attractive_Up_1:
+  en: This world isn't so bad after all.
+  ko: 이쪽 세계도 나쁘지만은 않은 것 같네.
+  ja: こっちの世界も悪くはないわね。
+c840_Attractive_Up_2:
+  en: |-
+    I can tell you're a good person. I like that about you.
+    You... really remind me of him, actually.
+  ko: |-
+    알아. 넌 좋은 사람이란 걸. 그런 점 맘에 들어.
+    …닮았네.
+  ja: |-
+    分かってる。あなたはいい人。そういうとこ、好きよ。
+    …似てるわね。
+c840_Attractive_Up_3:
+  en: You and I really seem compatible, don't you think?
+  ko: 우린 의외로 호흡이 잘 맞는 것 같은데, 당신은 어떻게 생각해?
+  ja: 私たちって、思ったより息が合いそうね。あなたはどう思う？
+c840_Party_Deploy_1:
+  en: Looks like you could use some help. How about it?
+  ko: 내 도움이 필요한 모양이네.
+  ja: 私のサポートが必要みたいね。
+c840_Field_Touch_1:
+  en: Lead the way.
+  ko: 안내해.
+  ja: 案内して。
+c840_Field_Go_1:
+  en: Let's move out.
+  ko: 이동할게.
+  ja: 移動するわ。
+c840_Battle_Enter_1:
+  en: Heh, I'm only sticking to what I came here to do.
+  ko: 알지? 난 내 할 일만 할 거란 거.
+  ja: 分かってるでしょ？私は自分のやるべきことしかしないって。
+c840_Battle_Ready_1:
+  en: Let's stick to our own lanes.
+  ko: 각자 역할을 다하자고.
+  ja: 自分の役割を果たしましょう。
+c840_Battle_Ready_2:
+  en: Better stay sharp.
+  ko: 조심하는 게 좋겠어.
+  ja: 気をつけた方がよさそうよ。
+c840_Battle_Ready_3:
+  en: I'll cooperate.
+  ko: 협력할게.
+  ja: 協力するわ。
+c840_Reload_1:
+  en: Reloading.
+  ko: 재장전.
+  ja: リロード。
+c840_Reload_2:
+  en: You'll have to take it from here.
+  ko: 시간을 벌어줘.
+  ja: ちょっと任せるわ。
+c840_Reload_3:
+  en: These guys are quite persistent.
+  ko: 여기 녀석들도 끈질기네.
+  ja: ここの敵もしつこいわね。
+c840_Ult_Skill_Ready_1:
+  en: Target in sight. Should I take the shot?
+  ko: 타겟은 발견했어. 처리할까?
+  ja: ターゲットを見つけたわ。片付ける？
+c840_Ult_Skill_1:
+  en: Ha! This is gonna make quite the impression.
+  ko: 꽤 화려한 한 방이 될 거야.
+  ja: かなり派手な一撃になるわよ。
+c840_FullBurst_1:
+  en: Let's finish the mission.
+  ko: 임무를 마무리 짓자.
+  ja: やり遂げるわよ。
+c840_Kill_Monster_1:
+  en: Ughh... This is starting to get old.
+  ko: 슬슬 좀 지겹네.
+  ja: いい加減にしてほしいわ。
+c840_Kill_Monster_2:
+  en: Bravo.
+  ko: 브라보.
+  ja: やるじゃない。
+c840_Kill_Monster_3:
+  en: I've cleared my side. What about you?
+  ko: 이쪽은 처리했는데. 그쪽은?
+  ja: こっちは片付いたわ。そっちは？
+c840_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c840_Damage_2:
+  en: Ugh.
+  ko: 큿.
+  ja: くっ。
+c840_Damage_3:
+  en: Ngh...
+  ko: 으윽.
+  ja: ううっ。
+c840_Die_1:
+  en: This isn't the ending I was hoping for...
+  ko: 이런 건… 내가 원했던 결말이 아닌데….
+  ja: こんなの…私が望んだ結末じゃない…
+c840_Win_1:
+  en: Not bad. Looking forward to our next mission together.
+  ko: 나쁘지 않았어. 그럼 다음 임무도 잘 부탁할게.
+  ja: 悪くなかったわ。次の任務でもよろしくね。
+840_cv_ja:
+  en: 'CV: Junko Minagawa'
+  ko: 'CV : 미나가와 준코'
+  ja: CV：皆川純子
+840_cv_ko:
+  en: 'CV: Lily Gao'
+  ko: 'CV : 릴리 가오'
+  ja: CV：Lily Gao
+840_cv_en:
+  en: 'CV: Lily Gao'
+  ko: 'CV : 릴리 가오'
+  ja: CV：Lily Gao

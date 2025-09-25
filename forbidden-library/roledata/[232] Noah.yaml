@@ -59,17 +59,17 @@ character_shot_description_localkey_rl_up:
   en: Cruisin' for a Bruisin'
   ko: 때려볼래?
   ja: 殴ってみれば？
-22322_description:
+22322_description_1:
   en: |-
-    ■ Activates when attacking with Full Charge. Affects the target(s).
+    ■ Activates when hitting a target with a Full Charge attack. Affects the target.
     <color=#00AEFF>Taunt for {description_value_01} sec.
     ATK ▼ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
-    ■ 풀 차지 공격 시 대상에게
+    ■ 풀 차지 공격 명중 시 대상에게
     <color=#00AEFF>[도발] [{description_value_01}초 유지]
     [공격력 {description_value_02}% ▼] [{description_value_03}초 유지]</color>
   ja: |-
-    ■フルチャージして攻撃した時、対象に
+    ■フルチャージ攻撃が命中した時、対象に
     <color=#00AEFF>「挑発」「{description_value_01}秒間維持」
     「攻撃力{description_value_02}％▼」「{description_value_03}秒間維持」</color>
 skill_name_1003:

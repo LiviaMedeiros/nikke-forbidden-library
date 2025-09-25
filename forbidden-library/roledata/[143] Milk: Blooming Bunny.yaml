@@ -87,13 +87,13 @@ skill_name_1003:
   en: |-
     ■ Activates when performing Full Charge attacks. Affects self.
     <color=#00AEFF>Gains Pierce for {description_value_01} sec.</color>
-    ■ Activates when Full Charge lasts for {description_value_07} sec or more, and self is not in the Embarrassment state. Affects self.
+    ■ Activates when not in the Embarrassment state and when Full Charge lasts for {description_value_07} sec or more. Affects self.
     <color=#00AEFF>Embarrassment:
-    Function: Performs <word_group=10087>Forced Reload</word_group> at reduced reloading speed, increasing attack capabilities and dealing <word_group=10019>Distributed Damage</word_group> instead.
+    Function: <word_group=10087>Forcefully reloads</word_group> at reduced reloading speed, but increases attack capabilities and deals <word_group=10019>Distributed Damage</word_group>.
     Effect 1: Affects all enemies. Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.
-    Effect 2: Affects self. Removes {description_value_08}% of bullets.
-    Effect 3: Affects self. Fixes reloading speed at {description_value_03}% reduction. <word_group=10088>Applies to {description_value_04} reload(s)</word_group>.
-    Effect 4: Affects self. <word_group=10087>Forcefully reloads</word_group>.
+    Effect 2: Affects self. Removes {description_value_08}% of ammo.
+    Effect 3: Affects self. {description_value_03}% reduced reloading speed for <word_group=10088>{description_value_04} reload(s)</word_group>.
+    Effect 4: Affects self. <word_group=10087>Forced Reload</word_group>.
     Effect 5: Affects self. ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
   ko: |-
     ■ 풀 차지 공격 시 자신에게

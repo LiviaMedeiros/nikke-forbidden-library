@@ -56,19 +56,21 @@ character_shot_description_localkey_rl_up:
   en: Sing Together
   ko: 싱잉 투게더
   ja: シンギングトゥギャザー
-24302_description:
-  en: "■ Affects the target(s) when attacking with full charge.\n<color=#00AEFF>Taunt
-    for {description_value_01} sec.</color> \n■ Affects self.\n<color=#00AEFF>Max
-    HP ▲ {description_value_02}% for {description_value_03} sec.</color>"
+24302_description_1:
+  en: |-
+    ■ Activates when hitting a target with a Full Charge attack. Affects the target.
+    <color=#00AEFF>Taunts for {description_value_01} sec.</color>
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
-    ■ 풀 차지 공격 시 대상에게
+    ■ 풀 차지 공격 명중 시 대상에게
     <color=#00AEFF>[도발] [{description_value_01}초 유지]</color>
-    ■ 자신에게
+    ■ 풀 차지 공격 시 자신에게
     <color=#00AEFF>[최대 체력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
   ja: |-
-    ■フルチャージして攻撃した時、対象に
+    ■フルチャージ攻撃が命中した時、対象に
     <color=#00AEFF>「挑発」「{description_value_01}秒間維持」</color>
-    ■自分に
+    ■フルチャージして攻撃した時、自分に
     <color=#00AEFF>「最大HP{description_value_02}％▲」「{description_value_03}秒間維持」</color>
 skill_name_1003:
   en: Skill 2

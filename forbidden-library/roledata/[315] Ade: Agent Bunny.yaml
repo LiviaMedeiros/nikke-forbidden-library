@@ -73,8 +73,8 @@ character_shot_description_localkey_sr_up:
     <color=#00AEFF>[관통 특화] [지속]
     [공격력 {description_value_03}% ▲] [지속]</color>
   ja: |-
-    ■フルチャージ攻撃が適正射程距離内の対象に
-    命中した時、味方全体に
+    ■フルチャージ攻撃が適正射程距離内の
+    対象に命中した時、味方全体に
     <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
     ■自分が隠しレンズの
     フルスタック状態時のみ、自分に
@@ -100,8 +100,8 @@ skill_name_1003:
     ■ 풀 차지 공격 시 자신에게
     <color=#00AEFF>[스파이 렌즈 : <word_group=10037>적정 최소 사거리</word_group> {description_value_03}% ▲] [{description_value_04}중첩] [{description_value_05}초 유지]</color>
   ja: |-
-    ■フルチャージ攻撃が適正射程距離内の対象に
-    命中した時、味方全体に
+    ■フルチャージ攻撃が適正射程距離内の
+    対象に命中した時、味方全体に
     <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」
     「{description_value_02}秒間維持」</color>
     ■フルチャージして攻撃した時、自分に

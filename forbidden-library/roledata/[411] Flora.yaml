@@ -93,10 +93,10 @@ skill_name_1003:
     ■ 일반 공격 {description_value_03}회 공격 시 전격 코드 아군 전체에게
     <color=#00AEFF>[<word_group=10001>중첩 가능 이로운 효과 중첩량</word_group> {description_value_04}개 ▲]</color>
   ja: |-
-    ■戦闘開始時に自分が生存状態の時に限り、自分と自分の<word_group=10055>両隣</word_group>にいる味方2機に
+    ■戦闘開始時、自分が生存状態の時に限り、自分と自分の<word_group=10055>両隣</word_group>にいる味方2機に
     <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」「1秒間隔」「持続」
     「受けるHP回復量{description_value_05}％▲」「{description_value_06}スタック」「持続」</color>
-    通常攻撃{description_value_03}回攻撃した時、電撃コードの味方全体に
+    ■通常攻撃で{description_value_03}回攻撃した時、電撃コードの味方全体に
     <color=#00AEFF>「<word_group=10001>スタック可能バフ効果のスタック量</word_group>{description_value_04}個▲」</color>
 skill_name_1002:
   en: Skill 1

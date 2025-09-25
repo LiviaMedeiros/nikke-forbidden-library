@@ -1,0 +1,534 @@
+---
+841_name:
+  en: Jill
+  ko: 질
+  ja: ジル
+c841_description:
+  en: |-
+    They call her Jill Valentine, a key member of the Raccoon City Police Department's elite S.T.A.R.S. unit.
+    Diligent and driven by a strong sense of justice, she never hesitates to act on her convictions.
+    Highly trained in the use of firearms and knives, she is also an expert in explosives disposal.
+  ko: |-
+    풀네임은 질 발렌타인.
+    라쿤 시티 경찰 특수부대 S.T.A.R.S.의 대원. 성실하며 정의감이 강하고, 자신의 생각을 스스럼없이 행동으로 옮기는 면도 있다.
+    칼이나 총화기 다루는 데 능하며 폭발물 처리의 전문가이기도 하다.
+  ja: |-
+    フルネームはジル・バレンタイン。
+    ラクーン市警特殊部隊S.T.A.R.S.の隊員。真面目で正義感が強く、直情径行な面もある。ナイフや銃火器の扱いに加えて、爆発物処理のエキスパートでもある。
+841_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_841:
+  en: Jill's Spare Body
+  ko: 질 스페어 바디
+  ja: ジルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28412_name:
+  en: Acid Ammo
+  ko: 산성탄
+  ja: 硫酸弾
+28412_description:
+  en: |-
+    ■ Activates at the start of battle and upon reloading to Max Ammunition. Affects self.
+    <color=#00AEFF>Acid Ammo
+    Function: Upon reloading to Max Ammunition, only the first round deals sustained damage to the target.
+    Effect: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 전투 시작 시와 최대 장탄 재장전 완료 시 자신에게
+    <color=#00AEFF>[산성탄]
+    기능 : 최대 장탄 재장전 완료 이후 첫발에 한하여 대상에게 지속 대미지를 적용
+    효과 : [<word_group=10025>최종</word_group> 공격력 {description_value_01}% 지속 대미지] [1초 간격] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■戦闘開始時および最大弾数のリロードが
+    完了した時、自分に
+    <color=#00AEFF>「硫酸弾」
+    機能：最大弾数のリロード完了後、
+    初弾のみ対象に持続ダメージを付与
+    効果：「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    持続ダメージ」「1秒間隔」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28411_name:
+  en: Magnum Ammo
+  ko: 매그넘탄
+  ja: マグナム弾
+28411_description:
+  en: "■ Activates at the start of battle and upon reloading to Max Ammunition. Affects
+    self.\n<color=#00AEFF>Magnum Ammo: Normal Attack Damage <word_group=10029>Multiplier</word_group>
+    ▲ {description_value_01}% for {description_value_02} round(s).</color> \n■ Activates
+    when using Burst Skill. Affects self.\n<color=#00AEFF>True Damage ▲ {description_value_03}%
+    for {description_value_04} sec.</color>"
+  ko: |-
+    ■ 전투 시작 시와 최대 장탄 재장전 완료 시 자신에게
+    <color=#00AEFF>[매그넘탄 : 일반 공격 대미지 {description_value_01}% <word_group=10029>배율</word_group> ▲] [{description_value_02}발 유지]</color>
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[방어력 무시 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■戦闘開始時および最大弾数のリロードが
+    完了した時、自分に
+    <color=#00AEFF>「マグナム弾：通常攻撃ダメージ
+    {description_value_01}％<word_group=10029>倍率</word_group>▲」「{description_value_02}発間維持」</color>
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「防御力無視ダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18413_name:
+  en: Supercop
+  ko: 슈퍼 캅
+  ja: スーパーコップ
+18413_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Fixes reloading speed at {description_value_01}% increase for {description_value_02} sec.
+    Removes {description_value_05}% of bullets.
+    <word_group=10087>Forced Reload</word_group>
+    Hit Rate ▲ {description_value_06}% for {description_value_07} sec.
+    Attack Damage ▲ {description_value_08}% for {description_value_09} sec.
+    Normal attacks deal True Damage for {description_value_10} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[재장전 속도 {description_value_01}% 증가 상태로 고정] [{description_value_02}초 유지]
+    [탄환 {description_value_05}% 제거]
+    [<word_group=10087>강제 재장전</word_group>]
+    [명중률 {description_value_06}% ▲] [{description_value_07}초 유지]
+    [공격 대미지 {description_value_08}% ▲] [{description_value_09}초 유지]
+    [일반 공격을 방어력 무시 대미지로 적용] [{description_value_10}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「リロード速度{description_value_01}％増加状態で固定」
+    「{description_value_02}秒間維持」
+    「残弾数{description_value_05}％減少」
+    「<word_group=10087>強制リロード</word_group>」
+    「命中率{description_value_06}％▲」「{description_value_07}秒間維持」
+    「攻撃ダメージ{description_value_08}％▲」「{description_value_09}秒間維持」
+    「通常攻撃を防御力無視ダメージとして
+    適用」「{description_value_10}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+840_name:
+  en: Ada
+  ko: 에이다
+  ja: エイダ
+842_name:
+  en: Claire
+  ko: 클레어
+  ja: クレア
+c841_Lobby_Touch_1:
+  en: Raccoon City used to be so full of life. Now it's just an undead nightmare...
+  ko: 라쿤 시티… 활기찬 도시였지…. 지금은 지옥이지만….
+  ja: ラクーンシティ…生き生きとした街だった…今は地獄だけど…
+c841_Lobby_Touch_2:
+  en: |-
+    Tell me. Who are you fighting for?
+    Yourselves? Or the survivors?
+  ko: |-
+    확실히 해두죠. 당신들은 누구를 위해 싸우고 있나요?
+    당신들을 위해서? 아니면 생존자를 위해서?
+  ja: |-
+    はっきり聞くけど、あなたたちは誰のために戦ってるの？
+    自分のため？まだ生きてる人たちのため？
+c841_Lobby_Touch_3:
+  en: |-
+    It's not just the virus that's dangerous.
+    Human greed is just as deadly.
+  ko: |-
+    위험한 건 바이러스만이 아니에요.
+    인간의 탐욕도 그만큼이나 위험하죠.
+  ja: |-
+    危ないのはウイルスだけじゃないわ。
+    人間の欲も同じくらい危険よ。
+c841_Lobby_Touch_Love_1:
+  en: |-
+    The key to a successful mission?
+    You just have to outlast the bastard.
+  ko: |-
+    임무를 끝까지 완수하는 비법이요…?
+    그 녀석보다도 더 끈질기게 몰아붙이는 집요함?
+  ja: |-
+    任務完遂の秘訣…？
+    アイツよりしつこくなることかしら？
+c841_Lobby_Touch_Love_2:
+  en: You and I will take down the Torch of Salvation here in the Ark. Together. I
+    promise.
+  ko: |-
+    약속할게요. 방주에서 [구원의 성화]를 아예 끝장내 버리기로.
+    당신이랑 같이 말이죠.
+  ja: |-
+    約束するわ。アークから「救いの聖火」を撲滅するって。
+    あなたと一緒にね。
+c841_Lobby_Touch_Love_3:
+  en: I used to have partners I could count on... but most of them are gone now. I
+    hope you don't end up the same way.
+  ko: |-
+    예전엔 신뢰할 수 있는 동료들이 있었지만, 이제 거의 남아있지 않아요.
+    …당신은 그렇게 되지 말아요.
+  ja: |-
+    昔は信頼できる仲間がいたわ。ほとんどいなくなったけど。
+    …あなたはそうならないで。
+c841_Lobby_Stay_1:
+  en: Damn the Torch of Salvation... do they even know the kind of hell they've unleashed?
+  ko: 망할 [구원의 성화] 놈들, 자기들이 무슨 짓을 하고 있는진 아는 거야?
+  ja: |-
+    「救いの聖火」の奴らって、
+    自分たちのしていることが分かってるのかしら？
+c841_Lobby_Stay_Love_1:
+  en: |-
+    Before we go back, let's finish what we've started here.
+    We can't let this place become another Raccoon City.
+  ko: |-
+    돌아가기 전에, 이쪽 일부터 확실히 마무리하자.
+    여긴 아직 라쿤 시티처럼 되지 않았으니까….
+  ja: |-
+    戻る前に、確実にケリをつけておかないと。
+    ここはまだ、ラクーンシティみたいにはなってない…
+c841_Outpost_Touch_1:
+  en: |-
+    That's where the A.C.P.U. operatives work, right?
+    Think we can get in to take a look?
+  ko: |-
+    저기가 A.C.P.U. 분들이 일하는 곳이죠?
+    한 번 들어가 볼 수 있나요?
+  ja: |-
+    あそこがA.C.P.U. の人たちの職場？
+    ちょっと入ってみてもいい？
+c841_Outpost_Touch_2:
+  en: You want to go to a café and have... sandwiches? Thanks, but I'll pass.
+  ko: |-
+    같이 샌드위치 먹자고요?
+    마음은 고맙지만, 샌드위치는… 사양할게요.
+  ja: |-
+    サンドイッチ食べようかって？
+    …厚意はありがたいけど 遠慮しとくわ。
+c841_Outpost_Touch_3:
+  en: Is there an elevator under the hospital? Any attaché cases down there?
+  ko: 혹시 병원 지하에 엘리베이터가 있나요? 서류 가방은요?
+  ja: |-
+    病院の地下にエレベーターはある？
+    アタッシェケースは？
+c841_Gacha_Get_1:
+  en: |-
+    I'm Jill, a member of S.T.A.R.S.
+    Don't even think of calling me "honey" or "princess." Not unless you're looking to get hurt.
+  ko: S.T.A.R.S. 소속 질이에요. 다치고 싶지 않으면 '아가씨'라곤 부르지 마세요.
+  ja: |-
+    S.T.A.R.S.所属のジルよ。
+    お嬢ちゃんよばわりはやめて、怪我したいの？
+c841_Reinforce_1:
+  en: Ammo restocked.
+  ko: 장비 보충 끝났어요.
+  ja: 装備の補充が終わったわ。
+c841_Reinforce_2:
+  en: Upgrades complete. Headshots are guaranteed now.
+  ko: 개조 완료. 정수리를 정확히 노려주지.
+  ja: 改造完了。威力はお墨付きね。
+c841_Reinforce_3:
+  en: Even if that parasite comes after me again, I'll be ready for him.
+  ko: 그놈이 또 쫓아와도 이제 문제없어.
+  ja: またアイツに追いかけられたって問題ないわ。
+c841_Gift_1:
+  en: A gift...? It's been a while since I got one of those.
+  ko: 선물…? 이런 건 또 오랜만이네요.
+  ja: プレゼント…？そういうの、久しぶりかも。
+c841_Gift_2:
+  en: "... There's not a bomb in this, is there?"
+  ko: 뭐, 안에 폭탄이라도 든 건 아니죠?
+  ja: まさか、中に爆弾とか入ってないわよね？
+c841_Gift_3:
+  en: Thanks. I'll remember this.
+  ko: 고마워요. 잘 간직할게요.
+  ja: ありがとう。一生の思い出にするわ。
+c841_Attractive_Up_1:
+  en: |-
+    You're someone I can count on.
+    Coming from a supercop like me, you ought to be flattered.
+  ko: |-
+    당신은 믿을 만한 사람이에요.
+    슈퍼 캅인 제가 보장하니, 자랑스러워하세요.
+  ja: |-
+    あなたのことは信じてよさそう。
+    スーパーコップである私のお墨付きよ。自慢していいわ。
+c841_Attractive_Up_2:
+  en: |-
+    The world would be a better place if everyone were like you.
+    But that’s not possible, so the world ended up like this.
+  ko: |-
+    모두가 당신 같으면 좋았을 텐데,
+    그러질 않으니 세상이 이 꼴이 된 거겠죠.
+  ja: |-
+    あなたのような人ばかりなら、
+    世界はこんなに酷くなってなかったはずよ。
+c841_Attractive_Up_3:
+  en: Even after this mission ends, I won't forget you.
+  ko: 이번 임무가 끝나도, 당신을 잊진 않을게요.
+  ja: この任務が終わっても、あなたのことは忘れないわ。
+c841_Party_Deploy_1:
+  en: Need my help?
+  ko: 제 도움이 필요해요?
+  ja: 私の助けが必要そうね？
+c841_Field_Touch_1:
+  en: If you're ready, let's move.
+  ko: 준비됐으면 가죠.
+  ja: 準備ができたら行くわよ。
+c841_Field_Go_1:
+  en: What's our destination?
+  ko: 목적지는 어디죠?
+  ja: 目的地はどこ？
+c841_Battle_Enter_1:
+  en: Leave it to me.
+  ko: 맡겨만 줘요.
+  ja: 私に任せて。
+c841_Battle_Ready_1:
+  en: I'll handle that one myself!
+  ko: 저놈은 제가 처리할게요!
+  ja: あれは私がやるわ！
+c841_Battle_Ready_2:
+  en: Come on, bring it!
+  ko: 와서 덤벼.
+  ja: かかってきなさい。
+c841_Battle_Ready_3:
+  en: Stay sharp, everyone.
+  ko: 다들 조심해요.
+  ja: みんな、気をつけて。
+c841_Reload_1:
+  en: Reload.
+  ko: 재장전 중.
+  ja: リロード。
+c841_Reload_2:
+  en: Hang in there a little longer.
+  ko: 조금만 더 버텨요.
+  ja: もう少しのガマンよ。
+c841_Reload_3:
+  en: Can you buy me some time?
+  ko: 시간 좀 벌어줘요.
+  ja: 時間を稼いでくれる？
+c841_Ult_Skill_Ready_1:
+  en: You want S.T.A.R.S.?
+  ko: 야, 그렇게 별을 원해?!
+  ja: そこ！S.T.A.R.S.をお探しかしら？
+c841_Ult_Skill_1:
+  en: I'll give you S.T.A.R.S.!
+  ko: 그럼, 내가 별을 줄게!!
+  ja: S.T.A.R.S.ならここよ、クソ野郎！
+c841_FullBurst_1:
+  en: Blow 'em away!
+  ko: 전부 날려버려!
+  ja: 全部吹っ飛ばす！
+c841_Kill_Monster_1:
+  en: Relentless bastards...
+  ko: 끈질긴 놈들.
+  ja: しつこい奴らね。
+c841_Kill_Monster_2:
+  en: One down. Who's next?
+  ko: 하난 처리했고, 다음은….
+  ja: 1体やった、次は…
+c841_Kill_Monster_3:
+  en: Clear!
+  ko: 클리어!
+  ja: クリア！
+c841_Damage_1:
+  en: Damn it...
+  ko: 제길….
+  ja: しまった…
+c841_Damage_2:
+  en: Gah!
+  ko: 컥!
+  ja: ぐっ！
+c841_Damage_3:
+  en: Urgh!
+  ko: 크윽!
+  ja: くうっ！
+c841_Die_1:
+  en: No... there are still things that need to be done...
+  ko: 아직 해야 할 일이….
+  ja: まだやることがあるのよ…
+c841_Win_1:
+  en: So, how does it feel to be saved by a supercop?
+  ko: 어때요? 슈퍼 캅의 도움을 받은 소감이.
+  ja: どうかしら？スーパーコップに助けられた感想は？
+841_cv_ja:
+  en: 'CV: Atsuko Yuya'
+  ko: 'CV : 유야 아츠코'
+  ja: CV：湯屋敦子
+841_cv_ko:
+  en: 'CV: Nicole Tompkins'
+  ko: 'CV : 니콜 톰킨스'
+  ja: CV：Nicole Tompkins
+841_cv_en:
+  en: 'CV: Nicole Tompkins'
+  ko: 'CV : 니콜 톰킨스'
+  ja: CV：Nicole Tompkins
