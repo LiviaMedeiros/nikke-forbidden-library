@@ -1,0 +1,573 @@
+---
+23_name:
+  en: 'Delta: Ninja Thief'
+  ko: '델타 : 닌자 시프'
+  ja: デルタ：ニンジャシーフ
+c023_description:
+  en: |-
+    In order to officially become a Phantom Thief, Delta joins the Thieves of Justice as a trainee.
+    To embody the stealthy and silent nature of a Phantom Thief, she decides to become a Ninja Thief.
+  ko: |-
+    정식으로 괴도가 되기 위해, 정의 괴도단에 수습으로 들어가게 된 델타.
+    은밀하고 조용히 움직이는 괴도의 특성에 맞춰, 괴도 닌자가 되기로 한다.
+  ja: |-
+    正式に怪盗になるため、見習いとして正義の怪盗団に
+    入ることになったデルタ。
+    人知れずそっと活動する怪盗に合わせ、怪盗忍者を目指す。
+23_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_23:
+  en: 'Delta: Ninja Thief''s Spare Body'
+  ko: '델타 : 닌자 시프 스페어 바디'
+  ja: デルタ：ニンジャシーフのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20232_name:
+  en: Ninjutsu Camouflage
+  ko: 인법 카모플라쥬
+  ja: 忍法カモフラージュ
+20232_description:
+  en: |-
+    ■ Activates at the start of battle.
+    <color=#00AEFF>Effects differ according to squad formation. Activates only the corresponding effect.</color>
+    Affects self if there are no other Defender allies in the squad.
+    <color=#00AEFF>Effect 1: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.
+    Effect 2: Attract: Taunt all enemies continuously.</color>
+    Affects self if there is another Defender ally in the squad.
+    <color=#00AEFF>Effect 1: Ninjutsu Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_06} sec. Loses effect when the caster takes damage.
+    Effect 2: Ninjutsu Injection: Recovers {description_value_07}% of attack damage as HP continuously.</color>
+    ■ Activates when performing {description_value_03} normal attack(s). Affects self while in Attract status.
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_04}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_05} sec.</color>
+    ■ Affects self while in Ninjutsu Injection status every {description_value_08} sec.
+    <color=#00AEFF>Ninjutsu IFAK lasts for {description_value_10} sec.
+    Function: Accumulates HP recovery during the activation duration, after which all allies are healed for the accumulated amount.
+    Effect 1: The maximum accumulated amount is equal to {description_value_09}% of the caster's <word_group=10025>final</word_group> ATK.
+    Effect 2: Once the duration ends, all allies are healed for the <word_group=10089>accumulated recovery amount</word_group>.</color>
+  ko: "■ 전투 시작 시\n<color=#00AEFF>[스쿼드 구성 별 효과] [해당되는 효과만 적용]</color>\n아군 중 자신을 제외한
+    방어형 아군이 없다면 자신에게\n<color=#00AEFF>효과 1 : [시전자의 <word_group=10025>최종</word_group>
+    최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [{description_value_02}초
+    유지]\n효과 2 : [주목 : 적 전체 도발] [지속]</color>\n아군 중 자신을 제외한 방어형 아군이 있다면 자신에게\n<color=#00AEFF>효과
+    1 : [인법 카모플라쥬 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_06}초
+    유지]\n효과 2 : [인법 인젝션 : 공격 대미지 비례 {description_value_07}% 회복] [지속]</color>\n■ 일반
+    공격 {description_value_03}회 공격 시 자신이 주목 상태라면  자신에게\n<color=#00AEFF>[시전자의 <word_group=10025>최종</word_group>
+    최대 체력 비례 {description_value_04}% <word_group=10023>보호막</word_group>] [{description_value_05}초
+    유지]</color>\n■ {description_value_08}초마다 자신이 인법 인젝션 상태라면 자신에게\n<color=#00AEFF>[인법
+    IFAK] [{description_value_10}초 유지] : \n기능 : 유지 시간 동안 받은 회복량을 충전하고 유지 시간 만료 시 아군
+    전체에게 충전량 만큼 회복\n효과 1 : [최대 충전량은 시전자 <word_group=10025>최종</word_group> 공격력의 {description_value_09}%]
+    \n효과 2 : [유지 시간 만료 후 아군 전체에게 <word_group=10089>충전량 회복</word_group>]</color>"
+  ja: |-
+    ■戦闘開始時、
+    <color=#00AEFF>「部隊構成別の効果」「該当効果のみ適用」</color>
+    味方に自分を除く防御型がいない場合、自分に
+    <color=#00AEFF>効果1：「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の<word_group=10023>バリア</word_group>」「{description_value_02}秒間維持」
+    効果2：「ヘイト：敵全体を挑発」「持続」</color>
+    味方に自分を除く防御型がいる場合、自分に
+    <color=#00AEFF>効果1：「忍法カモフラージュ：<word_group=10004>単一攻撃対象から除外</word_group>直接攻撃を受けると解除」「{description_value_06}秒間維持」
+    効果2：「忍法注射器：攻撃ダメージの{description_value_07}％回復」「持続」</color>
+    ■通常攻撃で{description_value_03}回攻撃した時、自分がヘイト状態なら、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_04}％の<word_group=10023>バリア</word_group>」「{description_value_05}秒間維持」</color>
+    ■{description_value_08}秒ごとに自分が忍法注射器状態なら、自分に
+    <color=#00AEFF>「忍法救急キット」「{description_value_10}秒間維持」：
+    機能1：持続時間中に受ける回復を蓄積して持続時間終了後、味方全体に蓄積量に応じた回復
+    効果1：「最大蓄積量はスキル発動者の<word_group=10025>最終</word_group>攻撃力の{description_value_09}％」
+    効果2：「持続時間終了後、味方全体に<word_group=10089>蓄積量に応じた回復</word_group>」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20231_name:
+  en: Ninjutsu Acid Bomb
+  ko: 인법 애시드 봄
+  ja: 忍法アシッドボム
+20231_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all enemies.
+    <color=#00AEFF>Ninjutsu Acid Bomb: Damage Taken ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when using Burst Skill. Affects <word_group=10020>enemies within attack range</word_group> nearest to the crosshair.
+    <color=#00AEFF>Ninjutsu Hyper Acid Bomb: Damage Taken ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 적 전체에게
+    <color=#00AEFF>[인법 애시드 봄 :  받는 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 버스트 스킬 사용 시 조준선에 가장 가까운 <word_group=10020>공격 범위 내 적들</word_group>에게
+    <color=#00AEFF>[인법 하이퍼 애시드 봄 :  받는 대미지 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、敵全体に
+    <color=#00AEFF>「忍法アシッドボム：受けるダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■バーストスキルを使用した時、照準線に最も近い<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「忍法ハイパーアシッドボム：受けるダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10233_name:
+  en: 'Secret Technique: Ninja Overdrive'
+  ko: '비기 : 닌자 오버드라이브'
+  ja: 秘技：忍者オーバードライブ
+10233_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as distributed damage.</color>
+    ■ Affects self while in Attract status.
+    <color=#00AEFF><word_group=10047>Next shield's HP</word_group> ▲ {description_value_06}% for {description_value_07} sec.</color>
+    ■ Affects self while in Ninjutsu Injection status.
+    <color=#00AEFF>Maximum Accumulation of Ninjutsu IFAK ▲ {description_value_08}% for {description_value_09} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]
+    [시전자 기준 공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% <word_group=10019>분배 대미지</word_group>]</color>
+    ■ 자신이 주목 상태라면 자신에게
+    <color=#00AEFF>[<word_group=10047>다음 보호막 체력</word_group> {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+    ■ 자신이 인법 인젝션 상태라면 자신에게
+    <color=#00AEFF>[인법 IFAK 최대 누적량 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」
+    「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の分配ダメージ」</color>
+    ■自分がヘイト状態なら、自分に
+    <color=#00AEFF>「<word_group=10047>次のバリアのHP</word_group>{description_value_06}％▲」
+    「{description_value_07}秒間維持」</color>
+    ■自分が忍法注射器状態なら、自分に
+    <color=#00AEFF>「忍法救急キットの最大蓄積量{description_value_08}％▲」「{description_value_09}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+22_name:
+  en: Signal
+  ko: 시그널
+  ja: シグナル
+20_name:
+  en: Delta
+  ko: 델타
+  ja: デルタ
+c023_Lobby_Touch_1:
+  en: The most important things to a ninja are stealth, technique, and situational
+    awareness—and of course, teamwork.
+  ko: |-
+    닌자에게 중요한 건, 은밀함, 술법, 상황 판단력.
+    그리고 협동이지 말입니다.
+  ja: |-
+    忍者に必要なのは隠密行動、忍術、状況判断力。
+    そして協調性です。
+c023_Lobby_Touch_2:
+  en: |-
+    Although I'm still a trainee as a Phantom Thief,
+    as a ninja, I'm confident I've risen to a high level.
+  ko: |-
+    괴도로서는 수습이지만,
+    닌자로서는 꽤 높은 곳까지 올랐다고 자신합니다.
+  ja: |-
+    怪盗としてはまだまだですが、
+    忍者としてはかなりのレベルだと自負しています。
+c023_Lobby_Touch_3:
+  en: |-
+    The path of a Phantom Thief and the path of a ninja...
+    Only those who can walk both can truly be called a Ninja Thief.
+  ko: |-
+    괴도의 길과 닌자의 길. 이 두 가지를 모두 걸을 수 있는 자만이,
+    괴도 닌자라고 할 수 있습니다.
+  ja: |-
+    怪盗の道と忍者の道。2つの道を同時に歩める者だけが、
+    怪盗忍者と言えるでしょう。
+c023_Lobby_Touch_Love_1:
+  en: |-
+    I can teach you all the secret techniques I've learned, Commander—just for you.
+    So, how about becoming a Ninja Thief with me?
+  ko: |-
+    특별히 지휘관에게는 제가 배운 모든 술법을 알려드리겠습니다.
+    그러니, 함께 괴도 닌자가 되지 않겠습니까?
+  ja: |-
+    指揮官には特別に私が学んだ忍術を教えてさしあげます。
+    私と一緒に怪盗忍者になりませんか？
+c023_Lobby_Touch_Love_2:
+  en: My shuriken will never be aimed at you, Commander.
+  ko: 제 수리검이 지휘관을 향할 일은 없을 겁니다.
+  ja: 私の手裏剣が指揮官に向けられることはありません。
+c023_Lobby_Touch_Love_3:
+  en: It's an honor to walk the path of a Ninja Thief alongside you, Commander. Nin-nin!
+  ko: |-
+    괴도 닌자의 길을 괴도 지휘관과 함께 할 수 있어서 영광입니다.
+    닌닌!
+  ja: |-
+    怪盗忍者の道を怪盗指揮官と一緒に歩むことができ、光栄です。
+    ニンニン！
+c023_Lobby_Stay_1:
+  en: |-
+    If I have to wait for you, may I do so up in the ceiling?
+    Standing around here like this is unbecoming of a ninja.
+  ko: |-
+    지휘관을 기다려야 한다면, 천장 안으로 들어가도 되겠습니까?
+    계속 여기에 서 있는 건, 닌자답지 못합니다.
+  ja: |-
+    指揮官を待つ間、天井裏にいてもいいでしょうか？
+    ここに立っているのは忍者らしくありません。
+c023_Lobby_Stay_Love_1:
+  en: |-
+    I can't see your face clearly from inside the ceiling.
+    I'll just wait here instead.
+  ko: |-
+    천장 속에서는 지휘관의 얼굴이 잘 안 보이지 말입니다.
+    그냥 여기서 기다리겠습니다.
+  ja: |-
+    天井裏では指揮官がよく見えませんでした。
+    ここで待つことにします。
+c023_Outpost_Touch_1:
+  en: |-
+    Wha...! How did you find me?
+    I was certain I was moving like a shadow.
+  ko: |-
+    …! 저를 어떻게 찾아내신 겁니까?
+    분명 그림자처럼 움직였다 생각했지 말입니다.
+  ja: |-
+    …！どうして私の居場所が 分かったのですか？
+    影のように行動したはずなのに。
+c023_Outpost_Touch_2:
+  en: |-
+    A summons, for the Thieves of Justice?
+    I shall depart at once.
+  ko: |-
+    정의 괴도단, 소집입니까?
+    바로 가겠습니다.
+  ja: |-
+    正義の怪盗団、招集ですか？
+    すぐに向かいます。
+c023_Outpost_Touch_3:
+  en: |-
+    I've sent the calling card.
+    I'll see you at midnight.
+  ko: |-
+    예고장을 보내고 왔습니다.
+    오늘 밤 자정에 뵙겠습니다.
+  ja: |-
+    予告状を送りました。
+    今宵お会いしましょう。
+c023_Gacha_Get_1:
+  en: Delta, trainee Ninja Thief. Nin-nin!
+  ko: 수습 괴도 닌자, 델타입니다. 닌닌!
+  ja: 見習い怪盗忍者、デルタです。ニンニン！
+c023_Reinforce_1:
+  en: I can move more stealthily and quietly now.
+  ko: 좀 더 은밀하고 조용하게 움직일 수 있지 말입니다.
+  ja: より迅速に、目立たないよう動いてみせます。
+c023_Reinforce_2:
+  en: I can learn new techniques now. I shall train and return soon.
+  ko: 배울 수 있는 술법이 늘었습니다, 수련하고 오겠습니다.
+  ja: 習得可能な忍術が増えました。修行してまいります。
+c023_Reinforce_3:
+  en: Thank you for your support. I'll work on developing new ninja weapons.
+  ko: 지원 감사드립니다, 새로운 닌자 무기를 개발해 보겠습니다.
+  ja: |-
+    ご支援、ありがとうございます。
+    新しい忍者の武器を開発したいと思います。
+c023_Gift_1:
+  en: |-
+    This is real, and not an illusion created by ninjutsu?
+    ... I'm sincerely grateful.
+  ko: |-
+    술법으로 만든 환영이 아니라, 진짜입니까?
+    …진심으로 감사드립니다.
+  ja: |-
+    忍術で作り出した幻ではなく、本物ですか？
+    …心より感謝いたします。
+c023_Gift_2:
+  en: You're the only one who prepares such things for me, Commander.
+  ko: 제게 이런 것들을 챙겨주시는 건, 지휘관뿐일 겁니다.
+  ja: 私にこのような物をくださるのは指揮官だけです。
+c023_Gift_3:
+  en: I'll repay you by spreading the name of the Thieves of Justice.
+  ko: 정의 괴도단의 이름을 알리는 것으로, 보답하겠습니다.
+  ja: 正義の怪盗団の名を世に知らしめることで、恩返しいたします。
+c023_Attractive_Up_1:
+  en: |-
+    My heartbeat is too loud.
+    It makes it hard to move quietly.
+  ko: |-
+    …제 심장 소리가 너무 크게 들립니다.
+    조용하게 움직이기가 어렵지 말입니다.
+  ja: |-
+    …私の心臓の音があまりにも大きく聞こえます。
+    静かに動くことができません。
+c023_Attractive_Up_2:
+  en: I'll give my best to officially join the Thieves of Justice, so I can stand
+    proudly alongside you, Commander.
+  ko: |-
+    정의 괴도단에 정식으로 입단해서,
+    지휘관과 나란히 설 수 있도록 최선을 다하겠습니다.
+  ja: |-
+    正義の怪盗団に入り、
+    指揮官と肩を並べられるよう頑張ります。
+c023_Attractive_Up_3:
+  en: So... is romance within the company—I mean, the organization—off limits?
+  ko: 사내… 아니, 단내 연애는 금지입니까?
+  ja: 社内…いえ、団内恋愛は禁止でしょうか？
+c023_Party_Deploy_1:
+  en: Trainee Ninja Thief, ready for duty.
+  ko: 수습 괴도 닌자, 준비 완료.
+  ja: 見習い怪盗忍者、準備完了。
+c023_Field_Touch_1:
+  en: Nin-nin!
+  ko: 닌닌!
+  ja: ニンニン！
+c023_Field_Go_1:
+  en: Footsteps must not be heard.
+  ko: 발소리를 내어선 안 됩니다.
+  ja: 足音を立ててはいけません。
+c023_Battle_Enter_1:
+  en: Enemy sighted. Approaching quietly.
+  ko: 적 발견, 조용히 접근하겠습니다.
+  ja: 敵を発見。静かに接近します。
+c023_Battle_Ready_1:
+  en: Ninjutsu! Commence battle!
+  ko: 인법, 전투 개시!
+  ja: 忍術、戦闘開始！
+c023_Battle_Ready_2:
+  en: I'll show you the results of my training.
+  ko: 수련의 성과를 보여드리겠습니다.
+  ja: 修行の成果をお見せします。
+c023_Battle_Ready_3:
+  en: I will leave no trace behind.
+  ko: 흔적도 남기지 않겠습니다.
+  ja: 痕跡すら残しません。
+c023_Reload_1:
+  en: Shuriken retrieved.
+  ko: 수리검, 회수 완료.
+  ja: 手裏剣、回収完了。
+c023_Reload_2:
+  en: Ninjutsu! Reload!
+  ko: 인법, 리로드!
+  ja: 忍術、リロード！
+c023_Reload_3:
+  en: I must hide in the shadows for a bit.
+  ko: 잠시, 그림자 속에 숨겠습니다.
+  ja: しばし影に身を潜めています。
+c023_Ult_Skill_Ready_1:
+  en: Ninjitsu, ready.
+  ko: 기술, 준비됐습니다.
+  ja: 技の準備が整いました。
+c023_Ult_Skill_1:
+  en: Secret technique! Ninja Overdrive!
+  ko: 비기! 닌자 오버드라이브!
+  ja: 秘技！忍者オーバードライブ！
+c023_FullBurst_1:
+  en: I'll show you the power of justice!
+  ko: 정의의 힘을 보여드리겠습니다!
+  ja: 正義の力をお見せしましょう！
+c023_Kill_Monster_1:
+  en: Justice has been served.
+  ko: 정의 집행 완료.
+  ja: 正義、執行完了。
+c023_Kill_Monster_2:
+  en: Nin-nin!
+  ko: 닌닌!
+  ja: ニンニン！
+c023_Kill_Monster_3:
+  en: A perfect hit.
+  ko: 정확히 맞췄습니다.
+  ja: 命中しました。
+c023_Damage_1:
+  en: Ugh...!
+  ko: 읏…!
+  ja: うっ…！
+c023_Damage_2:
+  en: Gah...!
+  ko: 크흑!
+  ja: くっ！
+c023_Damage_3:
+  en: Nin...!
+  ko: 닌…!
+  ja: ニン…！
+c023_Die_1:
+  en: As expected... I still have much to learn as a trainee.
+  ko: 역시… 아직은 수습 괴도 닌자로서 부족한 게 많지 말입니다….
+  ja: やはり…修行が足りなかったようです…
+c023_Win_1:
+  en: Even a trainee Ninja Thief can pull this off.
+  ko: 수습 괴도 닌자도 이 정도는 하지 말입니다.
+  ja: 見習い怪盗忍者でもこれくらいはできて当然です。
+23_cv_ja:
+  en: 'CV: Yumiri Hanamori'
+  ko: 'CV : 하나모리 유미리'
+  ja: CV：花守ゆみり
+23_cv_ko:
+  en: 'CV: Lee Seul'
+  ko: 'CV : 이슬'
+  ja: CV：イスル
+23_cv_en:
+  en: 'CV: Antonia Flynn'
+  ko: 'CV : 안토니아 플린'
+  ja: CV：Antonia Flynn

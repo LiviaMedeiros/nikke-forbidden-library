@@ -93,7 +93,7 @@ event_nocallerid_prologue:
     speaker: Narration
     en: "*Beep*"
     ko: 지잉-
-    ja: ブルルル―
+    ja: ブルルル――
   event_nocallerid_prologue_17:
     speaker: fancywoman
     en: Huh?
@@ -169,7 +169,7 @@ event_nocallerid_01_s:
     ko: |-
       에이 이게 뭐야.
       이런 장난은 나도 칠 수 있겠다.
-    ja: もう、こんなイタズラ、私でもできるよ。
+    ja: もう、こんなイタズラ、私でもできるわよ。
   event_nocallerid_01_s_5:
     speaker: anis
     en: People actually believe this could be from the surface? How gullible can you
@@ -484,12 +484,12 @@ event_nocallerid_02_s:
     ko: 지휘관. 전방에 건물이 보입니다.
     ja: 指揮官、前方に建物が見えます。
   event_nocallerid_02_s_6:
-    speaker: Choice
+    speaker: "<Choice>"
     en: Let's listen to Neon.
     ko: 네온 얘기를 좀 들어줘.
     ja: ネオンの話を聞いてあげよう
   event_nocallerid_02_s_7:
-    speaker: Choice
+    speaker: "<Choice>"
     en: "...Let's have a conversation about one thing."
     ko: "…대화 주제를 좀 통일하자."
     ja: "…話題を統一しよう"
@@ -695,7 +695,7 @@ event_nocallerid_02_e:
     speaker: Narration
     en: "*Beep*"
     ko: 지잉-
-    ja: ブルルル―
+    ja: ブルルル――
   event_nocallerid_02_e_2:
     speaker: rapi
     en: Commander, I've just received another voice message.
@@ -1136,12 +1136,12 @@ event_nocallerid_intermission_01:
     ko: 저도 그렇습니다.
     ja: 私もです。
   event_nocallerid_intermission_01_58:
-    speaker: Choice
+    speaker: "<Choice>"
     en: That was absolutely thrilling.
     ko: 색다른 경험이었어.
     ja: 貴重な体験だった
   event_nocallerid_intermission_01_59:
-    speaker: Choice
+    speaker: "<Choice>"
     en: That was terrifying.
     ko: 조금 무서웠어.
     ja: 少し緊張した
@@ -1319,7 +1319,7 @@ event_nocallerid_03_s:
     speaker: anis
     en: Hey, you're right.
     ko: 듣고 보니 그렇네.
-    ja: 言われてみればそうだね。
+    ja: 言われてみればそうね。
   event_nocallerid_03_s_10:
     speaker: anis
     en: Raptures walk on all fours, and considering their weight, there's no way they
@@ -2140,7 +2140,7 @@ event_nocallerid_04_e:
     speaker: Narration
     en: "*Beep*"
     ko: 지잉-
-    ja: ブルルル―
+    ja: ブルルル――
   event_nocallerid_04_e_26:
     speaker: rapi
     en: Another voice message.
@@ -2375,7 +2375,7 @@ event_nocallerid_05_e:
     speaker: Narration
     en: "*Beep*"
     ko: 지잉-
-    ja: ブルルル―
+    ja: ブルルル――
   event_nocallerid_05_e_7:
     speaker: Monologue
     en: Just then, I received a voice message on my phone.

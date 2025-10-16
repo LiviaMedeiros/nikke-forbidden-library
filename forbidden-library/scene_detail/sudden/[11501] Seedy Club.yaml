@@ -4077,3 +4077,625 @@ d_ex_mysteryclub_08:
     ja: |-
       ソラは約束通り、一日で
       モノの隠し場所をきれいに片付けた
+d_ex_mysteryclub_09:
+  d_ex_mysteryclub_09_1:
+    speaker: "<Narration>"
+    en: "*Ding*"
+    ko: 짤랑-
+    ja: チリン――
+  d_ex_mysteryclub_09_2:
+    speaker: delta_n
+    en: Who goes there?
+    ko: 누구 계십니까?
+    ja: 誰かいらっしゃいますか？
+  d_ex_mysteryclub_09_3:
+    speaker: delta_n
+    en: "... It seems no one is here."
+    ko: "…아무도 없는 것 같지 말입니다."
+    ja: "…誰もいないようですね。"
+  d_ex_mysteryclub_09_4:
+    speaker: "<Self>"
+    en: Are you sure we're at the right place?
+    ko: 주소가 여기 맞아?
+    ja: ここで合っているのか？
+  d_ex_mysteryclub_09_5:
+    speaker: delta_n
+    en: Yes.
+    ko: 예, 확실합니다.
+    ja: はい。間違いありません。
+  d_ex_mysteryclub_09_6:
+    speaker: delta_n
+    en: If the map on the invitation is correct, this is certainly the location.
+    ko: |-
+      초대장에 그려진 약도 대로라면,
+      분명 이곳이 맞습니다.
+    ja: 招待状の略図によれば、ここで合っています。
+  d_ex_mysteryclub_09_7:
+    speaker: "<Self>"
+    en: Can I take a look?
+    ko: 한번 봐도 될까?
+    ja: ちょっと見てもいいか？
+  d_ex_mysteryclub_09_8:
+    speaker: delta_n
+    en: Of course.
+    ko: 물론입니다.
+    ja: もちろんです。
+  d_ex_mysteryclub_09_9:
+    speaker: "<Narration>"
+    en: "*Rustle*"
+    ko: 촤락-
+    ja: バッ
+  d_ex_mysteryclub_09_10:
+    speaker: "<Monologue>"
+    en: Delta unfolds a note in the shape of a paper airplane.
+    ko: 델타가 종이비행기의 모습을 한 쪽지를 펼쳤다.
+    ja: デルタが紙飛行機の形に折られた手紙を広げた
+  d_ex_mysteryclub_09_11:
+    speaker: "<Monologue>"
+    en: Thiss is spacal traning.
+    ko: "[이거슨 트쿤이요.]"
+    ja: "「これよりとっくんをおこなう」"
+  d_ex_mysteryclub_09_12:
+    speaker: "<Monologue>"
+    en: Do not bee too carless, for the Fantum Thifs of Justiss must stay ever-aviigilant.
+    ko: |-
+      [정이 게도단이 느스내지지 안토록 하기 위하미니
+      너무 서우내하지 마시요.]
+    ja: |-
+      「せいぎのかいとうだんをきたえるためだ。
+      りかいしてくれたまえ」
+  d_ex_mysteryclub_09_13:
+    speaker: "<Monologue>"
+    en: Can yu reely oovercum thiss trile?
+    ko: "[과연 그데가 잘 이교넬 쑤 이쓸지.]"
+    ja: |-
+      「きみははたしてこのしれんを
+      のりこえられるだろうか」
+  d_ex_mysteryclub_09_14:
+    speaker: "<Monologue>"
+    en: I shell be wotchin.
+    ko: "[지캬보구 잇도록 하개쏘.]"
+    ja: "「みまもっているぞ」"
+  d_ex_mysteryclub_09_15:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_mysteryclub_09_16:
+    speaker: delta_n
+    en: Judging by the handwriting, this appears to have been sent by Phantom.
+    ko: 필체를 봐선 팬텀이 보낸 것 같습니다만,
+    ja: 筆跡を見るにファントムからの手紙のようですが
+  d_ex_mysteryclub_09_17:
+    speaker: delta_n
+    en: As for the content... it is impossible to decipher.
+    ko: |-
+      내용은 무슨 암호인지…
+      도무지 이해할 수가 없습니다.
+    ja: |-
+      どのような種類の暗号なのか…
+      さっぱり分かりません。
+  d_ex_mysteryclub_09_18:
+    speaker: "<Self>"
+    en: It says you're supposed to have some kind of special training here.
+    ko: 여기에서 뭔가 특훈을 한다는 것 같은데.
+    ja: ここで何かの特訓をするようだ
+  d_ex_mysteryclub_09_19:
+    speaker: delta_n
+    en: Special... training?
+    ko: 특훈… 말입니까?
+    ja: 特訓…ですか？
+  d_ex_mysteryclub_09_20:
+    speaker: "<Self>"
+    en: It's really dark in here. Let's turn on the light first.
+    ko: 어두우니까 일단 불부터 켜자.
+    ja: 暗いな。とりあえず明かりをつけよう
+  d_ex_mysteryclub_09_21:
+    speaker: "<Narration>"
+    en: "*Click*"
+    ko: 달칵-
+    ja: カチッ
+  d_ex_mysteryclub_09_22:
+    speaker: "<Monologue>"
+    en: I press the switch, but nothing happens.
+    ko: 스위치를 눌렀지만, 아무 반응이 없다.
+    ja: スイッチを押したが、明かりがつかない
+  d_ex_mysteryclub_09_23:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_mysteryclub_09_24:
+    speaker: "<Narration>"
+    en: "*Creeeak*"
+    ko: 끼이이이-
+    ja: ギィィィ…
+  d_ex_mysteryclub_09_25:
+    speaker: delta_n
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_mysteryclub_09_26:
+    speaker: delta_n
+    en: Commander, take cover!
+    ko: 지휘관 피하십쇼!
+    ja: 指揮官、避けてください！
+  d_ex_mysteryclub_09_27:
+    speaker: "<Narration>"
+    en: "*Guuuush*"
+    ko: 쏴아아아아-
+    ja: ザァァァァー
+  d_ex_mysteryclub_09_28:
+    speaker: "<Monologue>"
+    en: Water suddenly pours down from above, triggered by a device connected to the
+      switch.
+    ko: 스위치에 연결된 장치에 의해 물이 머리 위로 쏟아졌다.
+    ja: |-
+      スイッチとつながっていた装置が作動し、
+      頭の上に水が降り注いだ
+  d_ex_mysteryclub_09_29:
+    speaker: "<Self>"
+    en: Dang... it's cold.
+    ko: 으아… 차가워.
+    ja: うわっ…冷たい…
+  d_ex_mysteryclub_09_30:
+    speaker: delta_n
+    en: "... Training appears to have commenced."
+    ko: "…시작된 것 같지 말입니다."
+    ja: "…始まったようですね。"
+  d_ex_mysteryclub_09_31:
+    speaker: "<Monologue>"
+    en: As we press deeper into the club,
+    ko: 이후에도 클럽의 깊숙한 곳으로 향하는 과정에서
+    ja: その後もクラブの奥に進む通路で
+  d_ex_mysteryclub_09_32:
+    speaker: "<Monologue>"
+    en: all manner of traps fashioned from the basement's tools spring upon us.
+    ko: |-
+      지하실의 도구들을 활용한 함정들은
+      다양한 형태로 우리를 덮쳐왔다.
+    ja: |-
+      地下室にある道具を使った罠が、
+      あらゆる形で私たちを襲った
+  d_ex_mysteryclub_09_33:
+    speaker: "<Narration>"
+    en: "*Whizz!*"
+    ko: 슈육-!
+    ja: シュッ！
+  d_ex_mysteryclub_09_34:
+    speaker: "<Narration>"
+    en: "*Boom!*"
+    ko: 쿠웅-!
+    ja: ドスン…！
+  d_ex_mysteryclub_09_35:
+    speaker: "<Narration>"
+    en: "*Crash!*"
+    ko: 우당탕-!
+    ja: ドタンバタンッ！
+  d_ex_mysteryclub_09_36:
+    speaker: "<Self>"
+    en: Huff... huff...
+    ko: 허억… 허억….
+    ja: はぁ、はぁ…
+  d_ex_mysteryclub_09_37:
+    speaker: "<Narration>"
+    en: "*Swish*"
+    ko: 휘리릭-
+    ja: ヒュンッ！
+  d_ex_mysteryclub_09_38:
+    speaker: delta_n
+    en: Commander, another one's coming!
+    ko: 지휘관, 또 옵니다!
+    ja: 指揮官、また来ます！
+  d_ex_mysteryclub_09_39:
+    speaker: "<Self>"
+    en: G-got it!
+    ko: 그… 그래!
+    ja: わ、分かった！
+  d_ex_mysteryclub_09_40:
+    speaker: "<Narration>"
+    en: "*Dash!*"
+    ko: 타앗-!
+    ja: タッ！
+  d_ex_mysteryclub_09_41:
+    speaker: "<Monologue>"
+    en: When faced with each trap,
+    ko: 함정을 마주할 때,
+    ja: 罠に出くわすたびに
+  d_ex_mysteryclub_09_42:
+    speaker: "<Monologue>"
+    en: Delta moves with ninja-like swiftness...
+    ko: 델타는 닌자를 연상시키는 빠른 몸놀림을 보여줬지만….
+    ja: |-
+      デルタは忍者さながらの
+      素早い身のこなしを見せるが…
+  d_ex_mysteryclub_09_43:
+    speaker: "<Narration>"
+    en: "*Slap!*"
+    ko: 찰싹!
+    ja: ペシッ！
+  d_ex_mysteryclub_09_44:
+    speaker: "<Self>"
+    en: Ow! That hurts...!
+    ko: 으아아, 따가워…!
+    ja: うわっ…痛っ…！
+  d_ex_mysteryclub_09_45:
+    speaker: "<Monologue>"
+    en: I, however, can't keep up.
+    ko: 나는 그러지 못했다.
+    ja: 私にはそんなことはできなかった
+  d_ex_mysteryclub_09_46:
+    speaker: delta_n
+    en: "... A whip?"
+    ko: "…채찍입니까."
+    ja: "…ムチですか。"
+  d_ex_mysteryclub_09_47:
+    speaker: delta_n
+    en: That is a far more dangerous weapon than expected.
+    ko: 생각보다 위험한 물건을 사용했지 말입니다.
+    ja: 思ったよりも危険な物を使いますね。
+  d_ex_mysteryclub_09_48:
+    speaker: "<Self>"
+    en: Yeah, tell me about it...
+    ko: 그러게….
+    ja: そうだな…
+  d_ex_mysteryclub_09_49:
+    speaker: delta_n
+    en: At this rate, Commander, your body won't hold out.
+    ko: 이대로 가다간 지휘관의 몸이 남아나지 않을 겁니다.
+    ja: このままでは指揮官の体が持ちません。
+  d_ex_mysteryclub_09_50:
+    speaker: delta_n
+    en: Stay close behind me.
+    ko: 제 뒤에 바짝 붙어 주십쇼.
+    ja: 私の後ろにぴったりとくっついていてください。
+  d_ex_mysteryclub_09_51:
+    speaker: "<Self>"
+    en: Thanks—
+    ko: 고마워, 부탁 좀 할ㄱ….
+    ja: ありがとう、頼ん…
+  d_ex_mysteryclub_09_52:
+    speaker: "<Narration>"
+    en: "*Slip*"
+    ko: 미끄덩-
+    ja: ツルッ
+  d_ex_mysteryclub_09_53:
+    speaker: "<Monologue>"
+    en: Before I can even finish my sentence,
+    ko: 말을 끝마치기도 전,
+    ja: 私はそう言い終える前に
+  d_ex_mysteryclub_09_54:
+    speaker: "<Monologue>"
+    en: I step on something that scattered beneath my feet and is sent flying into
+      the air.
+    ko: 발밑에 뿌려진 무언가를 밟은 나는 곧장 공중으로 떠올랐다.
+    ja: 足元に撒かれた何かを踏み、空中に浮いた
+  d_ex_mysteryclub_09_55:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_mysteryclub_09_56:
+    speaker: delta_n
+    en: Commander!
+    ko: 지휘관!
+    ja: 指揮官！
+  d_ex_mysteryclub_09_57:
+    speaker: "<Narration>"
+    en: "*Dash!*"
+    ko: 타앗-!
+    ja: タッ！
+  d_ex_mysteryclub_09_58:
+    speaker: "<Monologue>"
+    en: Delta catches me in mid-air and places me safely on the ground.
+    ko: 델타는 공중에 떠 있는 내 몸을 낚아채 안정적으로 착지했다.
+    ja: |-
+      デルタは空中に浮いている私の体を掴み、
+      そっと着地させた
+  d_ex_mysteryclub_09_59:
+    speaker: delta_n
+    en: Are you all right?
+    ko: 괜찮으십니까?
+    ja: 大丈夫ですか？
+  d_ex_mysteryclub_09_60:
+    speaker: "<Self>"
+    en: Yeah, thanks...
+    ko: 고마워….
+    ja: ありがとう…
+  d_ex_mysteryclub_09_61:
+    speaker: delta_n
+    en: Phew...
+    ko: 후우….
+    ja: ふぅ…
+  d_ex_mysteryclub_09_62:
+    speaker: delta_n
+    en: It is fortunate that you are unharmed.
+    ko: 다친 곳이 없다면 다행이지 말입니다.
+    ja: ケガはないようですね、よかったです。
+  d_ex_mysteryclub_09_63:
+    speaker: "<Narration>"
+    en: "*Clap, clap*"
+    ko: 짝짝-
+    ja: パチパチ…
+  d_ex_mysteryclub_09_64:
+    speaker: delta_n
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_mysteryclub_09_65:
+    speaker: "<Self>"
+    en: Is that clapping?
+    ko: 박수 소리?
+    ja: 拍手？
+  d_ex_mysteryclub_09_66:
+    speaker: "<Narration>"
+    en: "*Clap, clap, clap, clap*"
+    ko: 짝짝짝짝-
+    ja: パチパチパチパチ…
+  d_ex_mysteryclub_09_67:
+    speaker: phantom
+    en: Excellent.
+    ko: 훌륭하군.
+    ja: 素晴らしい。
+  d_ex_mysteryclub_09_68:
+    speaker: phantom
+    en: Most excellent indeed!
+    ko: 아주 훌륭하오!
+    ja: 実に素晴らしい！
+  d_ex_mysteryclub_09_69:
+    speaker: phantom
+    en: This is precisely the sight I have longed to behold!
+    ko: 이것이 바로 내가 보고 싶었던 모습이오!
+    ja: これこそまさに、私が期待していた姿！
+  d_ex_mysteryclub_09_70:
+    speaker: "<Monologue>"
+    en: Phantom emerges from the darkness.
+    ko: 어둠 속에서 팬텀이 모습을 드러냈다.
+    ja: 闇の中からファントムが姿を現した
+  d_ex_mysteryclub_09_71:
+    speaker: "<Self>"
+    en: "... Don't make your entrance like a villain."
+    ko: "…악역처럼 등장하지 마."
+    ja: "…悪役のような登場の仕方だな"
+  d_ex_mysteryclub_09_72:
+    speaker: phantom
+    en: For a Phantom Thief, not even the slightest mistake is permissible.
+    ko: 괴도에게는 일말의 실수도 허용되지 않는 법.
+    ja: わずかな失敗も許されないのが怪盗というもの。
+  d_ex_mysteryclub_09_73:
+    speaker: phantom
+    en: Not only did you succeed in infiltrating past countless traps, but you even
+      protected your comrades.
+    ko: |-
+      수많은 함정을 뚫고 잠입에 성공한 것도 모자라,
+      동료까지 지켜내는 모습이라니.
+    ja: |-
+      数々の罠を突破し、潜入に成功しただけでなく
+      仲間を助けるとは。
+  d_ex_mysteryclub_09_74:
+    speaker: phantom
+    en: My, my, I simply cannot hold back my praise.
+    ko: 이거 이거, 칭찬을 아낄 수가 없지 않소.
+    ja: 称賛せずにはいられないな。
+  d_ex_mysteryclub_09_75:
+    speaker: phantom
+    en: The result of this special training...
+    ko: 이번 특훈의 결과는….
+    ja: 今回の特訓は…
+  d_ex_mysteryclub_09_76:
+    speaker: phantom
+    en: may well be considered a success.
+    ko: "[합격]이라고 할 수 있겠소."
+    ja: 文句なしの、「合格」だ。
+  d_ex_mysteryclub_09_77:
+    speaker: delta_n
+    en: Is that true?
+    ko: "!! 정말입니까?"
+    ja: "！！本当ですか？"
+  d_ex_mysteryclub_09_78:
+    speaker: delta_n
+    en: Hearing you say that fills me with pride.
+    ko: 그렇게 말씀해 주시니 뿌듯하지 말입니다.
+    ja: 褒めていただけて、とても嬉しいです。
+  d_ex_mysteryclub_09_79:
+    speaker: phantom
+    en: Hehe. Thanks to you, I was treated to quite the spectacle.
+    ko: 후후, 덕분에 좋은 구경을 하게 되었군.
+    ja: ふふっ。いいものを見せてもらったよ。
+  d_ex_mysteryclub_09_80:
+    speaker: phantom
+    en: May you continue to hone yourself ever further.
+    ko: 앞으로도 더욱더 정진하도록 하시오.
+    ja: これからも、大いに期待している。
+  d_ex_mysteryclub_09_81:
+    speaker: phantom
+    en: Should you do so, perhaps one day you shall join our ranks as a full-fledged
+      member.
+    ko: 그렇다면 언젠가 델타 그대도 정식 멤버가 될 수 있겠지.
+    ja: |-
+      デルタが正式なメンバーになる日も
+      そう遠くはないはずだ。
+  d_ex_mysteryclub_09_82:
+    speaker: "<Narration>"
+    en: "*Flutter*"
+    ko: 펄럭-
+    ja: バサッ
+  d_ex_mysteryclub_09_83:
+    speaker: phantom
+    en: For now, I shall take my leave.
+    ko: 나는 이만 돌아가도록 하겠소.
+    ja: では、私はこのへんで失礼する。
+  d_ex_mysteryclub_09_84:
+    speaker: phantom
+    en: Should fate allow, we shall meet again.
+    ko: 언젠가 인연이 닿는다면 다시 보도록 하지.
+    ja: 縁があればまた会おう。
+  d_ex_mysteryclub_09_85:
+    speaker: "<Narration>"
+    en: "*Step, step*"
+    ko: 뚜벅- 뚜벅-
+    ja: コツ、コツ…
+  d_ex_mysteryclub_09_86:
+    speaker: "<Narration>"
+    en: "*Click*"
+    ko: 달칵-
+    ja: カチッ
+  d_ex_mysteryclub_09_87:
+    speaker: phantom
+    en: Hmm...?
+    ko: 어라…?
+    ja: あれ…？
+  d_ex_mysteryclub_09_88:
+    speaker: "<Narration>"
+    en: "*Swish!*"
+    ko: 휘리릭-!
+    ja: ヒュンッ！
+  d_ex_mysteryclub_09_89:
+    speaker: phantom
+    en: Ah... aaahhh!
+    ko: 으… 으아아아악-!
+    ja: う、うわあぁっ！
+  d_ex_mysteryclub_09_90:
+    speaker: "<Narration>"
+    en: "*Dangle, dangle*"
+    ko: 대롱대롱-
+    ja: ぶら～ん…
+  d_ex_mysteryclub_09_91:
+    speaker: phantom
+    en: Th-this cannot be...!
+    ko: 이, 이럴수가…!
+    ja: そ…そんな…！
+  d_ex_mysteryclub_09_92:
+    speaker: phantom
+    en: The trap I set at the door—why now of all times...?
+    ko: 문 앞에 설치해둔 함정이 어찌하여 지금…?
+    ja: |-
+      ドアの前に仕掛けておいた罠が
+      なぜ今になって…？
+  d_ex_mysteryclub_09_93:
+    speaker: delta_n
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_mysteryclub_09_94:
+    speaker: delta_n
+    en: Phantom, this will not do.
+    ko: 팬텀, 이래서는 안 됩니다.
+    ja: ファントム、いけません。
+  d_ex_mysteryclub_09_95:
+    speaker: phantom
+    en: Pardon...? What are you trying to say?
+    ko: 으잉…? 그게 무슨 말이오?
+    ja: ん…？何がだ？
+  d_ex_mysteryclub_09_96:
+    speaker: delta_n
+    en: '"For a Phantom Thief, not even the slightest mistake is permissible."'
+    ko: 분명 [괴도에게는 일말의 실수도 허용되지 않는 법.]
+    ja: |-
+      「わずかな失敗も許されないのが
+      怪盗というもの」
+  d_ex_mysteryclub_09_97:
+    speaker: delta_n
+    en: Did you not say that yourself?
+    ko: 이라고 하지 않으셨습니까.
+    ja: そう言いましたよね。
+  d_ex_mysteryclub_09_98:
+    speaker: phantom
+    en: Y-yes, I suppose so.
+    ko: 그… 그렇지?
+    ja: そ…そうだな？
+  d_ex_mysteryclub_09_99:
+    speaker: delta_n
+    en: And yet, you have just made a mistake.
+    ko: 그리고 팬텀은 지금 실수를 하셨습니다.
+    ja: ファントムは今、失敗をしました。
+  d_ex_mysteryclub_09_100:
+    speaker: phantom
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_mysteryclub_09_101:
+    speaker: "<Self>"
+    en: That's true.
+    ko: 그렇네.
+    ja: そうだな
+  d_ex_mysteryclub_09_102:
+    speaker: phantom
+    en: Wh-what exactly do you mean by that...?
+    ko: 지, 지금 그 말을 하는 의미는…?
+    ja: な、何が言いたいんだ…？
+  d_ex_mysteryclub_09_103:
+    speaker: delta_n
+    en: As I see it, even you are in need of special training.
+    ko: 제가 보기엔 팬텀에게도 특훈이 필요한 것 같지 말입니다.
+    ja: ファントムにも特訓が必要だと思います。
+  d_ex_mysteryclub_09_104:
+    speaker: delta_n
+    en: At this rate, you will surely be captured.
+    ko: 그 상태로는 분명 체포당하게 될 겁니다.
+    ja: その様子では、逮捕されるのも時間の問題です。
+  d_ex_mysteryclub_09_105:
+    speaker: phantom
+    en: Wh-what is this absurdity?!
+    ko: 그, 그게 무슨 소리요!
+    ja: な、何を言っているんだ！
+  d_ex_mysteryclub_09_106:
+    speaker: phantom
+    en: It was merely a minor mishap...!
+    ko: 이건 단순한 사고였을 뿐인데…!
+    ja: これはただの手違いで…！
+  d_ex_mysteryclub_09_107:
+    speaker: delta_n
+    en: Even a moment of carelessness can spell disaster.
+    ko: 순간의 방심으로 큰일이 날 수도 있는 법입니다.
+    ja: 一瞬の油断が命取りとなるのです。
+  d_ex_mysteryclub_09_108:
+    speaker: delta_n
+    en: I request your cooperation, Commander.
+    ko: 협조를 부탁드립니다, 지휘관.
+    ja: ご協力よろしくお願いします、指揮官。
+  d_ex_mysteryclub_09_109:
+    speaker: "<Self>"
+    en: Sure thing.
+    ko: 좋아.
+    ja: ああ
+  d_ex_mysteryclub_09_110:
+    speaker: delta_n
+    en: I will now brief you on the special ninja training.
+    ko: 닌자의 특훈을 알려드리도록 하겠습니다.
+    ja: 忍者の特訓をお教えしましょう。
+  d_ex_mysteryclub_09_111:
+    speaker: phantom
+    en: D-don't come any closer...!
+    ko: 다, 다가오지 마시오…!
+    ja: く、来るな…！
+  d_ex_mysteryclub_09_112:
+    speaker: phantom
+    en: I am the leader, you know!
+    ko: 나는 리더잖소!
+    ja: 私はリーダーだ！
+  d_ex_mysteryclub_09_113:
+    speaker: phantom
+    en: I told you not to come closer!
+    ko: 다가오지 말라니까!
+    ja: 来るなと言っている！
+  d_ex_mysteryclub_09_114:
+    speaker: phantom
+    en: Ugh... Aaaah!
+    ko: 으… 으아아아악-!
+    ja: う、うわあぁっ！
+  d_ex_mysteryclub_09_115:
+    speaker: "<Monologue>"
+    en: Later, a special training session for Phantom kicks off in the basement.
+    ko: 이후 지하실에서는 팬텀을 위한 특별훈련이 시작되었고
+    ja: |-
+      そうして地下室で
+      ファントムのための特訓が始まり…
+  d_ex_mysteryclub_09_116:
+    speaker: "<Monologue>"
+    en: Only after the three of us are completely battered and bruised do we finally
+      leave the club.
+    ko: 우리 셋 다 만신창이가 돼서야 클럽을 빠져나갈 수 있었다.
+    ja: |-
+      私たち3人はボロボロになって
+      ようやくクラブを出たのだった

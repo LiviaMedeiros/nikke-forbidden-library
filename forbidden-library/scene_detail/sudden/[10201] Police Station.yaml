@@ -4980,3 +4980,687 @@ d_ex_police_10:
       2人の言い争いは、ポリが戻って
       その場を収めてくれたことで、
       ようやく落ち着いた
+d_ex_police_11:
+  d_ex_police_11_1:
+    speaker: "<Narration>"
+    en: It's a quiet day off,
+    ko: 한가한 휴일.
+    ja: のどかな休日
+  d_ex_police_11_2:
+    speaker: "<Narration>"
+    en: and I end up dropping by the police station to help Poli with some paperwork.
+    ko: 나는 폴리의 서류 업무를 도와주기 위해 경찰서에 들리게 되었다.
+    ja: |-
+      私はポリの書類業務を手伝うため、
+      警察署を訪れた
+  d_ex_police_11_3:
+    speaker: "<Self>"
+    en: She sure is late.
+    ko: 폴리가 많이 늦네.
+    ja: ポリ、遅いな
+  d_ex_police_11_4:
+    speaker: "<Monologue>"
+    en: Something seems off... I should send her a message.
+    ko: |-
+      무슨 일이 있는 것 같으니
+      메시지를 보내보자.
+    ja: |-
+      何かあったのかもしれない。
+      メッセージを送ってみよう
+  d_ex_police_11_5:
+    speaker: unknown
+    en: Commander?
+    ko: 지휘관 아니십니까?
+    ja: 指揮官ではありませんか。
+  d_ex_police_11_6:
+    speaker: unknown
+    en: What brings you here?
+    ko: 여긴 어쩐 일이십니까?
+    ja: どうしてここに？
+  d_ex_police_11_7:
+    speaker: "<Monologue>"
+    en: That voice...
+    ko: 이 목소리는….
+    ja: この声は…
+  d_ex_police_11_8:
+    speaker: "<Self>"
+    en: Delta?
+    ko: 델타?
+    ja: デルタ？
+  d_ex_police_11_9:
+    speaker: "<Self>"
+    en: Where are you?
+    ko: 어디 있는 거야?
+    ja: どこにいるんだ？
+  d_ex_police_11_10:
+    speaker: delta_n
+    en: Above you.
+    ko: 위입니다.
+    ja: 上です。
+  d_ex_police_11_11:
+    speaker: delta_n
+    en: Raise your head.
+    ko: 고개를 들어보시지 말입니다.
+    ja: こちらです。
+  d_ex_police_11_12:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_police_11_13:
+    speaker: "<Monologue>"
+    en: I lift my head, and there's Delta on the ceiling of the police station.
+    ko: 고개를 들자 경찰서 천장에 붙어 있는 델타가 보인다.
+    ja: |-
+      顔を上げると、警察署の天井に
+      張り付いているデルタがいた
+  d_ex_police_11_14:
+    speaker: "<Self>"
+    en: "... What are you doing up there?"
+    ko: "…거기서 뭐해?"
+    ja: "…そこで何をしているんだ？"
+  d_ex_police_11_15:
+    speaker: delta_n
+    en: Hup!
+    ko: 흣!
+    ja: はっ！
+  d_ex_police_11_16:
+    speaker: "<Narration>"
+    en: "*Tap*"
+    ko: 타앗-
+    ja: タンッ
+  d_ex_police_11_17:
+    speaker: "<Monologue>"
+    en: Delta lands on the ground with the grace of a cat.
+    ko: 델타는 날렵한 몸놀림으로 바닥에 착지했다.
+    ja: デルタは颯爽と着地した
+  d_ex_police_11_18:
+    speaker: delta_n
+    en: I am in the midst of my training.
+    ko: 지금 수련 중이지 말입니다.
+    ja: 訓練をしていたところです。
+  d_ex_police_11_19:
+    speaker: "<Self>"
+    en: Do you really have to do that here...?
+    ko: 굳이 왜 여기서…?
+    ja: なぜこんなところで…？
+  d_ex_police_11_20:
+    speaker: delta_n
+    en: Phantom stated
+    ko: 팬텀이 말해주었습니다.
+    ja: ファントムが教えてくれました。
+  d_ex_police_11_21:
+    speaker: delta_n
+    en: 'the fourth creed of the Thief Code:'
+    ko: "[괴도의 마음가짐 네 번째]"
+    ja: "「怪盗の心得その4」"
+  d_ex_police_11_22:
+    speaker: delta_n
+    en: one must be able to enter and exit the enemy's stronghold
+    ko: "[적의 본거지를 제집처럼 드나들 수 있어야 한다.]"
+    ja: |-
+      「自分の家のように敵の本拠地に
+      出入りできなければならない」
+  d_ex_police_11_23:
+    speaker: delta_n
+    en: as if it were one's own home.
+    ko: 라고 말입니다.
+    ja: と。
+  d_ex_police_11_24:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_11_25:
+    speaker: delta_n
+    en: Commander.
+    ko: 그나저나 지휘관.
+    ja: それはそうと、指揮官。
+  d_ex_police_11_26:
+    speaker: delta_n
+    en: If you are not busy, please assist me with an equipment check.
+    ko: |-
+      바쁘시지 않다면,
+      잠시 장비 체크를 도와주실 수 있으십니까?
+    ja: |-
+      お手すきでしたら、
+      装備のチェックを手伝って頂けませんか？
+  d_ex_police_11_27:
+    speaker: "<Self>"
+    en: Why?
+    ko: 왜?
+    ja: どうしたんだ？
+  d_ex_police_11_28:
+    speaker: delta_n
+    en: Before coming here, I underwent underwater stealth training.
+    ko: 이곳에 오기 전 [수중 잠복] 수련을 진행했었는데,
+    ja: |-
+      ここに来る前、「水遁の術」の訓練を
+      していたのですが…
+  d_ex_police_11_29:
+    speaker: delta_n
+    en: It seems some water may have entered my equipment.
+    ko: 장비에 물이 들어간 것 같지 말입니다.
+    ja: 装備に水が入ってしまったようです。
+  d_ex_police_11_30:
+    speaker: delta_n
+    en: Hanging from the ceiling for extended periods is proving difficult.
+    ko: 뭔가 오랫동안 매달려 있기 쉽지 않습니다.
+    ja: |-
+      ですので、長時間ぶら下がっているのが
+      なかなか大変なのです。
+  d_ex_police_11_31:
+    speaker: "<Narration>"
+    en: "*Thud, thud*"
+    ko: 저벅저벅-
+    ja: スタスタ…
+  d_ex_police_11_32:
+    speaker: "<Monologue>"
+    en: I hear footsteps approaching from the other side of the door.
+    ko: 문 앞에서 누군가의 발소리가 들려온다.
+    ja: ドアの向こうから誰かの足音が聞こえる
+  d_ex_police_11_33:
+    speaker: delta_n
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_police_11_34:
+    speaker: "<Self>"
+    en: Someone's coming. Hide.
+    ko: |-
+      누가 오나 봐,
+      일단 숨어.
+    ja: |-
+      誰か来るようだ。
+      ひとまず隠れろ
+  d_ex_police_11_35:
+    speaker: delta_n
+    en: Understood.
+    ko: 넵, 알겠습니다.
+    ja: はい、分かりました。
+  d_ex_police_11_36:
+    speaker: delta_n
+    en: Nin-nin!
+    ko: 닌닌!
+    ja: ニンニン！
+  d_ex_police_11_37:
+    speaker: "<Narration>"
+    en: "*Tap*"
+    ko: 타닷-
+    ja: タンッ
+  d_ex_police_11_38:
+    speaker: "<Monologue>"
+    en: Delta pushes off the desk in the center and springs into the air.
+    ko: 델타는 중앙에 있는 책상을 발판 삼아 도약했고,
+    ja: デルタは中央の机を踏み台にして飛び上がり
+  d_ex_police_11_39:
+    speaker: "<Narration>"
+    en: "*Clack*"
+    ko: 착-
+    ja: パッ
+  d_ex_police_11_40:
+    speaker: "<Monologue>"
+    en: She catches the ceiling and hangs upside-down.
+    ko: 곧바로 천장에 거꾸로 매달렸다.
+    ja: すぐさま天井に逆さまにぶら下がった
+  d_ex_police_11_41:
+    speaker: "<Narration>"
+    en: "*Whirr*"
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_police_11_42:
+    speaker: novel
+    en: "*Sniff sniff*"
+    ko: 흠흠- 흐음-
+    ja: くんくん…くん…
+  d_ex_police_11_43:
+    speaker: novel
+    en: A case... I can smell a case!
+    ko: 사건… 사건의 냄새가 나는 것입니다!
+    ja: 事件…事件のにおいがするのであります！
+  d_ex_police_11_44:
+    speaker: "<Self>"
+    en: Novel? What are you doing here?
+    ko: 노벨? 여긴 무슨 일이야?
+    ja: ノベル？ここに何の用だ？
+  d_ex_police_11_45:
+    speaker: novel
+    en: Wa-Watson?!
+    ko: 와, 왓슨?!
+    ja: ワ…ワトソン！？
+  d_ex_police_11_46:
+    speaker: novel
+    en: So you were that mysterious figure all along?!
+    ko: 그 수수께끼의 인물의 정체는 왓슨이었단 말입니까?!
+    ja: |-
+      謎の人物の正体は、
+      ワトソンだったのでありますか！？
+  d_ex_police_11_47:
+    speaker: "<Self>"
+    en: What mysterious figure?
+    ko: 수수께끼의 인물이라니?
+    ja: 謎の人物？
+  d_ex_police_11_48:
+    speaker: "<Narration>"
+    en: It was exactly noon
+    ko: 때는 오늘 정오.
+    ja: 時は今日の正午…
+  d_ex_police_11_49:
+    speaker: "<Narration>"
+    en: when I plopped down on a park bench to meditate and recharge my recently drained
+      detective powers.
+    ko: |-
+      저는 최근 들어 떨어진 [탐정력]을 회복하기 위해
+      잠시 벤치에서 명상을 하고 있었던 것입니다.
+    ja: |-
+      私は最近衰えてしまった「探偵力」を
+      取り戻すべく、ベンチでしばし
+      瞑想をしていたのであります。
+  d_ex_police_11_50:
+    speaker: novel
+    en: "*Snore*"
+    ko: 쿠울….
+    ja: ぐぅ…
+  d_ex_police_11_51:
+    speaker: novel
+    en: Mmmm...
+    ko: 으으음….
+    ja: うーーん…
+  d_ex_police_11_52:
+    speaker: novel
+    en: Grrrrgh!
+    ko: 크어어억.
+    ja: くかぁ～～
+  d_ex_police_11_53:
+    speaker: "<Narration>"
+    en: And then—
+    ko: 그 순간.
+    ja: その時…
+  d_ex_police_11_54:
+    speaker: "<Narration>"
+    en: "*Splash!*"
+    ko: 촤악-!
+    ja: バシャッ！
+  d_ex_police_11_55:
+    speaker: unknown
+    en: Hngggh!
+    ko: 흐으읍-!
+    ja: スゥゥ…！
+  d_ex_police_11_56:
+    speaker: novel
+    en: E-eek!
+    ko: 흐… 흐익!
+    ja: ひ、ひぃっ！
+  d_ex_police_11_57:
+    speaker: "<Narration>"
+    en: With my very own eyes,
+    ko: 저는 보았던 것입니다.
+    ja: 私は見てしまったのであります。
+  d_ex_police_11_58:
+    speaker: "<Narration>"
+    en: I saw a shadow leaping out from the fountain in the park!
+    ko: 공원의 분수대에서 튀어 오르는 수수께끼의 그림자를!
+    ja: 公園の噴水から真っ直ぐに伸びる、謎の影を！
+  d_ex_police_11_59:
+    speaker: "<Narration>"
+    en: Being as they were dripping wet, the figure left a clear trail of footprints,
+    ko: 그자는 물에 흠뻑 젖어 선명한 발자국을 남겼고,
+    ja: |-
+      その人物はびしょ濡れだったので、
+      はっきりと足跡を残していったのであります。
+  d_ex_police_11_60:
+    speaker: "<Narration>"
+    en: and so I began to pursue them at once!
+    ko: 저는 그 흔적을 추적하기 시작했던 것입니다.
+    ja: 私はその足跡を追い始めたのであります。
+  d_ex_police_11_61:
+    speaker: "<Self>"
+    en: And you ended up here?
+    ko: 그래서 흔적을 따라와 보니 이곳이었다?
+    ja: |-
+      それでその足跡をたどっていたら、
+      ここに行きついたってことか？
+  d_ex_police_11_62:
+    speaker: novel
+    en: Exactly, Watson.
+    ko: 정확히 이해한 것입니다, 왓슨.
+    ja: まさにその通りであります、ワトソン。
+  d_ex_police_11_63:
+    speaker: novel
+    en: It shot out of the water and made a beeline straight for the police station...
+    ko: 물속에서 튀어나와 경찰서까지 순식간에 이동한 행보.
+    ja: |-
+      水の中から飛び出し、
+      一瞬で警察署まで移動するなんて…
+  d_ex_police_11_64:
+    speaker: novel
+    en: There's no doubt about it. This is definitely not the work of some ordinary
+      folk!
+    ko: 분명 평범한 인물이 아닐 것이라 추측되는 것입니다.
+    ja: |-
+      普通の人物でないことは
+      間違いないのであります。
+  d_ex_police_11_65:
+    speaker: "<Self>"
+    en: "... I guess that's true."
+    ko: "…확실히 그렇긴 하지."
+    ja: "…確かにそうだな"
+  d_ex_police_11_66:
+    speaker: novel
+    en: Based on what I've investigated so far,
+    ko: 그리고 지금까지의 조사에 의하면,
+    ja: そして今までの調査によると
+  d_ex_police_11_67:
+    speaker: novel
+    en: there's a very high chance that person is right here!
+    ko: 그자는 이곳에 있을 확률이 높다는 것입니다.
+    ja: その人物はここにいる確率が高いのであります。
+  d_ex_police_11_68:
+    speaker: delta_n
+    en: Urgh...
+    ko: 으읏….
+    ja: ううっ…
+  d_ex_police_11_69:
+    speaker: "<Monologue>"
+    en: I hear a faint groan coming from the ceiling.
+    ko: 천장에서 미세한 신음 소리가 들린다.
+    ja: 天井からかすかなうめき声が聞こえた
+  d_ex_police_11_70:
+    speaker: "<Self>"
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_police_11_71:
+    speaker: "<Monologue>"
+    en: I lift my head and look up at the ceiling.
+    ko: 고개를 들어 천장을 바라본다.
+    ja: 天井を見上げた
+  d_ex_police_11_72:
+    speaker: "<Narration>"
+    en: "*Tremble, tremble*"
+    ko: 덜덜덜-
+    ja: ガタガタガタ…
+  d_ex_police_11_73:
+    speaker: "<Monologue>"
+    en: Delta dangles precariously, as if she might fall at any moment.
+    ko: 델타는 금방이라도 떨어질 듯 위태롭게 매달려 있다.
+    ja: |-
+      デルタは今にも落ちそうな
+      ギリギリの状態でぶら下がっていた
+  d_ex_police_11_74:
+    speaker: novel
+    en: Let's see... Ah!
+    ko: 어디 보자… 아!
+    ja: どれどれ…あっ！
+  d_ex_police_11_75:
+    speaker: novel
+    en: Hoho! Look at this!
+    ko: 후후, 여기 보이는 것입니까?
+    ja: ふふっ。これが見えるでありますか？
+  d_ex_police_11_76:
+    speaker: novel
+    en: Another footprint!
+    ko: 그자의 발자국을 또 찾은 것입니다.
+    ja: 例の人物の足跡をまた見つけたのであります。
+  d_ex_police_11_77:
+    speaker: novel
+    en: Let's take a closer look...
+    ko: 보자 보자….
+    ja: どれどれ…
+  d_ex_police_11_78:
+    speaker: novel
+    en: Oh-ho? The trail leads right onto the table!
+    ko: 호오? 여기 테이블 위까지 연결되어 있는 것입니다!
+    ja: |-
+      ほう？足跡がテーブルの上まで
+      続いているのであります！
+  d_ex_police_11_79:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_11_80:
+    speaker: novel
+    en: Hmm? The prints just disappear there...?
+    ko: 음? 발자국이 테이블 위에서 사라졌다?
+    ja: おや？足跡がテーブルの上で消えた…？
+  d_ex_police_11_81:
+    speaker: novel
+    en: Then the only place they can be is...
+    ko: 그렇다면 있을만한 곳은 분명….
+    ja: ということは、その人物は今…
+  d_ex_police_11_82:
+    speaker: "<Monologue>"
+    en: Novel is about to raise her head.
+    ko: 노벨이 고개를 들려고 한다.
+    ja: ノベルが天井を見上げようとする
+  d_ex_police_11_83:
+    speaker: "<Self>"
+    en: W-wait a sec!
+    ko: 자, 잠까안!!!
+    ja: まっ、待った！！！
+  d_ex_police_11_84:
+    speaker: novel
+    en: What's wrong, Watson?
+    ko: "? 무슨 일인 것입니까?"
+    ja: どうしたのでありますか？
+  d_ex_police_11_85:
+    speaker: "<Self>"
+    en: I've been here the whole time, but it looks like no one's around.
+    ko: |-
+      여긴 아까부터 내가 쭉 있었는데,
+      아무도 없는 것 같아.
+    ja: |-
+      さっきからずっとここにいたが、
+      誰もいないと思う
+  d_ex_police_11_86:
+    speaker: novel
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_11_87:
+    speaker: "<Self>"
+    en: S-so how about we go grab some lunch together?
+    ko: 그, 그러니까 우리 나가서 같이 밥이라도 먹을까?
+    ja: だ、だから外で一緒に食事でもしないか？
+  d_ex_police_11_88:
+    speaker: novel
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_11_89:
+    speaker: novel
+    en: Watson.
+    ko: 왓슨.
+    ja: ワトソン。
+  d_ex_police_11_90:
+    speaker: novel
+    en: Do you know?
+    ko: 그거 알고 있는 겁니까?
+    ja: 気づいているのでありますか？
+  d_ex_police_11_91:
+    speaker: novel
+    en: I can smell you lying right now.
+    ko: 지금 왓슨에게서 거짓말을 하는 냄새가 나고 있다는 거.
+    ja: |-
+      今、ワトソンから嘘のにおいが
+      ぷんぷんするのであります。
+  d_ex_police_11_92:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_police_11_93:
+    speaker: novel
+    en: Just kidding! Hehe.
+    ko: "…라고 하는 대사를 어제 만화에서 본 것입니다."
+    ja: |-
+      …というセリフを昨日マンガで
+      読んだのであります。
+  d_ex_police_11_94:
+    speaker: novel
+    en: That's a line I saw in a manga yesterday.
+    ko: 농담이었던 것입니다!
+    ja: 冗談なのであります！
+  d_ex_police_11_95:
+    speaker: "<Self>"
+    en: Phew...
+    ko: 휴우….
+    ja: ふぅ…
+  d_ex_police_11_96:
+    speaker: novel
+    en: Hehe, an invitation to eat, you say... Are you asking me out on a date?
+    ko: |-
+      후후, 그나저나 식사 신청이라니.
+      데이트 신청으로 봐도 되는 것입니까?
+    ja: |-
+      それにしても、一緒に食事をしようとは。
+      デートのお誘いと思っていいのでありますか？
+  d_ex_police_11_97:
+    speaker: novel
+    en: Of course, it's only natural for a famous detective like me to get this kind
+      of attention...
+    ko: 역시 명탐정의 인기란….
+    ja: さすが、名探偵はモテるのであります！
+  d_ex_police_11_98:
+    speaker: novel
+    en: Ahem! Well then! Let's finish up this investigation quickly so we can go grab
+      our meal!
+    ko: |-
+      크흠, 그럼 조사를 빠르게 마무리하고
+      식사를 하러 가는 것입니다!
+    ja: |-
+      コホン。では早く調査を終えて
+      食事に行くのであります！
+  d_ex_police_11_99:
+    speaker: delta_n
+    en: Hrrngh... Can't... keep this up... much longer!
+    ko: 으… 더, 더 이상은 무리이지 말입니다!
+    ja: うう…も、もう限界です！
+  d_ex_police_11_100:
+    speaker: novel
+    en: Wha?!
+    ko: 으잉?
+    ja: んん？
+  d_ex_police_11_101:
+    speaker: delta_n
+    en: I am falling! Exercise caution!
+    ko: 낙하합니다, 조심하십쇼!
+    ja: 落下します！お気をつけください！
+  d_ex_police_11_102:
+    speaker: "<Monologue>"
+    en: Unable to hold on any longer, Delta plummets to the floor...
+    ko: 더 이상 버티지 못한 델타는 바닥으로 곤두박질쳤고.
+    ja: 限界に達したデルタが、手を放し…
+  d_ex_police_11_103:
+    speaker: "<Narration>"
+    en: "*Crash!*"
+    ko: 쿠당탕-!
+    ja: ドスーン！
+  d_ex_police_11_104:
+    speaker: novel
+    en: Argh!
+    ko: 크엑.
+    ja: ぐえっ！
+  d_ex_police_11_105:
+    speaker: "<Monologue>"
+    en: and falls squarely on top of Novel's head.
+    ko: 정확히 노벨의 머리 위에 낙하해 버렸다.
+    ja: そして見事にノベルの頭上へ着地した
+  d_ex_police_11_106:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_11_107:
+    speaker: delta_n
+    en: No-Novel... are you unharmed?
+    ko: 노, 노벨… 괜찮으신 겁니까?
+    ja: ノ、ノベル…大丈夫ですか？
+  d_ex_police_11_108:
+    speaker: novel
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_11_109:
+    speaker: delta_n
+    en: We've got a problem, Commander.
+    ko: 큰일 났습니다, 지휘관.
+    ja: 指揮官、大変です。
+  d_ex_police_11_110:
+    speaker: delta_n
+    en: She appears to have lost consciousness.
+    ko: 기절한 것 같지 말입니다.
+    ja: 気絶しているようです。
+  d_ex_police_11_111:
+    speaker: "<Self>"
+    en: Go on ahead.
+    ko: 먼저 가.
+    ja: 先に行ってくれ
+  d_ex_police_11_112:
+    speaker: delta_n
+    en: Will she be all right?
+    ko: 그래도 괜찮은 겁니까?
+    ja: でも…いいのですか？
+  d_ex_police_11_113:
+    speaker: delta_n
+    en: I should stay until she wakes and apologize...
+    ko: 깨어나면 사과라도 해야….
+    ja: 目を覚ましたら謝罪を…
+  d_ex_police_11_114:
+    speaker: "<Self>"
+    en: What would Novel think if she saw you now?
+    ko: 탐정인 노벨이 지금의 너를 보면 뭐라 생각할까?
+    ja: |-
+      探偵のノベルが今の君を見たら
+      どう思うか考えてみろ
+  d_ex_police_11_115:
+    speaker: delta_n
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_police_11_116:
+    speaker: "<Self>"
+    en: I'll tell her you're sorry, so don't worry.
+    ko: 사과는 내가 대신 전해줄 테니, 걱정하지 마.
+    ja: 私が代わりに謝っておくから心配ない
+  d_ex_police_11_117:
+    speaker: delta_n
+    en: "... Understood."
+    ko: "…알겠습니다."
+    ja: "…分かりました。"
+  d_ex_police_11_118:
+    speaker: delta_n
+    en: Then I entrust the rest to you.
+    ko: 그럼 뒷일은 잘 부탁드리도록 하겠습니다.
+    ja: では、後のことはよろしくお願いします。
+  d_ex_police_11_119:
+    speaker: delta_n
+    en: "... My apologies, Novel."
+    ko: "…미안합니다, 노벨."
+    ja: "…ノベル、申し訳ありません。"
+  d_ex_police_11_120:
+    speaker: "<Narration>"
+    en: "*Whirr*"
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_police_11_121:
+    speaker: "<Monologue>"
+    en: Back at the police station, I spend ages trying to explain to Poli why Novel's
+      passed out.
+    ko: |-
+      이후 경찰서에 돌아온 폴리에게
+      기절해 있는 노벨에 대한 해명을,
+    ja: |-
+      その後、警察署に戻ってきたポリに
+      気絶しているノベルについて
+      説明を求められ
+  d_ex_police_11_122:
+    speaker: "<Monologue>"
+    en: And when Novel wakes up, I have a hard time giving her the watered-down version.
+    ko: |-
+      깨어난 노벨에게 상황을 적당히
+      설명하느라 한참을 애먹게 되었다.
+    ja: |-
+      目を覚ましたノベルにも状況を説明したりと、
+      大変な時間を過ごすことになった
