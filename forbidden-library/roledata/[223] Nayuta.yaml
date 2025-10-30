@@ -1,0 +1,875 @@
+---
+223_name:
+  en: Nayuta
+  ko: 나유타
+  ja: ナユタ
+c223_description:
+  en: |-
+    A transcendent monk who wanders the world leisurely.
+    Her tone and demeanor always carry a sense of calmness and composure.
+    Once a member of D.E.E.P., she was cast out and later joined the Pioneer squad.
+  ko: |-
+    유유히 세상을 떠도는 초연한 승려.
+    말투와 행동에서 늘 여유로움과 느긋함이 느껴진다.
+    한때 D.E.E.P.의 일원 중 한 명이었으나, 추방되어 파이오니아 스쿼드에 합류했다.
+  ja: |-
+    悠々と世界を放浪する仙人然とした人物。
+    口調と行動から常に余裕が感じられる。
+    かつてD.E.E.P.の一員だったが、
+    追放されパイオニア部隊に合流した。
+223_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_223:
+  en: Nayuta's Spare Body
+  ko: 나유타 스페어 바디
+  ja: ナユタのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+22232_name:
+  en: Impermanence
+  ko: 무상
+  ja: 有為転変
+22232_description:
+  en: |-
+    ■ Activates every {description_value_01} sec. Affects self.
+    <color=#00AEFF>Memory Absorption: Hit Rate ▲ {description_value_09}%, stacks up to {description_value_02} time(s) and <word_group=10090>immune to stack count increase or decrease effects</word_group> continuously. This effect cannot be dispelled.</color>
+    ■ Activates when Memory Absorption takes effect. Affects self.
+    <color=#00AEFF>Additional effects triggered according to the stack count of Memory Absorption. <word_group=10028>Previous effects trigger repeatedly.</word_group></color>
+    Stage 1: If Memory Absorption exceeds {description_value_05} stack(s).
+    <color=#00AEFF>ATK ▲ {description_value_06}% continuously.</color>
+    Stage 2: If Memory Absorption exceeds {description_value_07} stack(s).
+    <color=#00AEFF>Attack Damage ▲ {description_value_08}% continuously.</color>
+    Stage 3: If Memory Absorption exceeds {description_value_03} stack(s).
+    <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_04}% continuously.</color>
+  ko: |-
+    ■ {description_value_01}초마다 자신에게
+    <color=#00AEFF>[기억 흡수 : 명중률 {description_value_09}%▲] [{description_value_02}중첩] [<word_group=10090>중첩량 증감 효과 면역</word_group>] [지속] [해제 불가] </color>
+    ■ 기억 흡수가 적용될 때 자신에게
+    <color=#00AEFF>[기억 흡수 중첩량 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]</color>
+    1단계 : 기억 흡수 {description_value_05} 중첩 이상이라면
+    <color=#00AEFF>[공격력 {description_value_06}% ▲] [지속]</color>
+    2단계 : 기억 흡수 {description_value_07} 중첩 이상이라면
+    <color=#00AEFF>[공격 대미지 {description_value_08}% ▲] [지속]</color>
+    3단계 : 기억 흡수 {description_value_03} 중첩 이상이라면
+    <color=#00AEFF>[코어 대미지 {description_value_04}% ▲] [지속]</color>
+  ja: |-
+    ■{description_value_01}秒ごとに自分に
+    <color=#00AEFF>「記憶吸収：命中率{description_value_09}％▲」
+    「{description_value_02}スタック」
+    「<word_group=10090>スタック量増減効果無効</word_group>」「持続」
+    「解除不可」</color>
+    ■記憶吸収が適用される時、自分に
+    <color=#00AEFF>「記憶吸収スタック量別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」</color>
+    1段階：記憶吸収{description_value_05}スタック以上なら
+    <color=#00AEFF>「攻撃力{description_value_06}％▲」「持続」</color>
+    2段階：記憶吸収{description_value_07}スタック以上なら
+    <color=#00AEFF>「攻撃ダメージ{description_value_08}％▲」「持続」</color>
+    3段階：記憶吸収{description_value_03}スタック以上なら
+    <color=#00AEFF>「コアダメージ{description_value_04}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22231_name:
+  en: Hypocrisy
+  ko: 위선
+  ja: 雑毒之善
+22231_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Unchanging Heart: Gain <word_group=10006>Indomitability</word_group> for {description_value_01} sec. Activates {description_value_02} time(s) during battle.</color>
+    ■ Activates when Memory Absorption takes effect. Affects all allies.
+    <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_03}% for {description_value_04} sec.
+    ATK ▲ {description_value_05}% of caster's ATK for {description_value_06} sec.
+    <word_group=10046>Equally shares HP recovery</word_group> for {description_value_04} sec.</color>
+    ■ Activates when Memory Absorption takes effect. Affects self.
+    <color=#00AEFF>Recovers {description_value_08}% of <word_group=10025>final</word_group> max HP as HP.</color>
+    ■ Activates when attacking with Full Charge. Affects all enemies if self is in Memory Incineration status.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    ■ Activates when the enemy is the stage target. Affects the same enemy.
+    <color=#00AEFF>Deals {description_value_10}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[부동심 : <word_group=10006>불굴</word_group>] [{description_value_01}초 유지] [전투 중 {description_value_02}회 발동]</color>
+    ■ 기억 흡수가 적용될 때 아군 전체에게
+    <color=#00AEFF>[코어 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [시전자 기준 공격력 {description_value_05}% ▲] [{description_value_06}초 유지]
+    [<word_group=10046>체력 회복 균등 분배</word_group>] [{description_value_04}초 유지]</color>
+    ■ 기억 흡수가 적용될 때 자신에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 최대 체력 비례 {description_value_08}% 회복]</color>
+    ■ 풀 차지 공격 시 자신이 기억 연소 상태라면 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 대미지]</color>
+    ■ 대상이 타겟이라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_10}% 추가 대미지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「不動心：<word_group=10006>不屈</word_group>」「{description_value_01}秒間維持」
+    「戦闘中{description_value_02}回発動」</color>
+    ■記憶吸収が適用される時、味方全体に
+    <color=#00AEFF>「コアダメージ{description_value_03}％▲」「{description_value_04}秒間維持」
+    「スキル発動者基準で攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」
+    「<word_group=10046>HP回復均等分配</word_group>」「{description_value_04}秒間維持」</color>
+    ■記憶吸収が適用される時、自分に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>最大HPに比例して{description_value_08}％回復」</color>
+    ■フルチャージして攻撃した時、自分が記憶燃焼状態なら、敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％のダメージ」</color>
+    ■対象がターゲットなら、同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_10}％の追加ダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12233_name:
+  en: Asceticism
+  ko: 고행
+  ja: 苦行難行
+12233_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Affects self.
+    <color=#00AEFF>Memory Incineration: Changes the weapon in use.
+    Charge time: Fixed at 1.8 sec
+    Damage: {description_value_03}% of <word_group=10025>final</word_group> ATK
+    Full Charge Damage: 250% of Damage
+    Duration: {description_value_04} sec
+    Bonus Effect
+    Unlimited ammunition for {description_value_06} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 버스트 스킬 대미지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[기억 연소 : 사용 무기 변경] :
+    차지 시간 : 1.8초로 고정
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_03}%
+    풀 차지 대미지 : 250% 대미지
+    유지 시간 : {description_value_04}초
+    추가 효과
+    [장탄 수 무한] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の
+    バーストスキルダメージ」</color>
+    ■自分に
+    <color=#00AEFF>「記憶燃焼：使用武器変更」：
+    チャージ時間：1.8秒固定
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％
+    フルチャージダメージ：250％
+    維持時間：{description_value_04}秒
+    追加効果
+    「装弾数無限」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+220_name:
+  en: Snow White
+  ko: 스노우 화이트
+  ja: スノーホワイト
+221_name:
+  en: Rapunzel
+  ko: 라푼젤
+  ja: ラプンツェル
+222_name:
+  en: Scarlet
+  ko: 홍련
+  ja: 紅蓮
+c223_Lobby_Touch_1:
+  en: I am Nayuta, the fourth member of the Forerunners. I eagerly anticipate the
+    privilege of working alongside thee.
+  ko: |-
+    선구자의 네 번째 식객, 나유타라고 하외다.
+    잘 부탁드리겠소.
+  ja: |-
+    先駆者の4番目の居候、ナユタと申します。
+    よろしくお願いいたします。
+c223_Lobby_Touch_2:
+  en: Great Hero, thou standest within the very eye of the tempest. Take heed that
+    thou lose not thy center, lest thou be swept away.
+  ko: |-
+    대협은 폭풍의 중심에 있는 자요.
+    그러니 중심을 잃고 휩쓸려 가버리지 않게 조심하시구려.
+  ja: |-
+    旦那は嵐の中心にいる者。
+    均衡を崩して流されぬよう、どうかお気を付けを。
+c223_Lobby_Touch_3:
+  en: To think that fate hath brought us together. Truly, the threads of destiny are
+    most enigmatic, are they not?
+  ko: |-
+    대협과 이렇게 함께하게 되다니,
+    인연이란 참 모르는 것이오. 그렇지 않소?
+  ja: |-
+    この場この時を共に過ごすということ、
+    縁とは計りがたいものですねぇ。そうは思いませんか？
+c223_Lobby_Touch_Love_1:
+  en: Haha. To think I should be so gladdened to stand by thy side. Truly, thou dost
+    possess a talent both precious and perilous.
+  ko: |-
+    하하. 소인이 대협의 곁에 있는 걸 이렇게나 반기게 될 줄이야.
+    …참으로 소중하고 위험한 재능을 가졌구려.
+  ja: |-
+    ふふ…旦那のそばにいることがこれほど嬉しいこととは。
+    …実に稀有で危険な才能だ。
+c223_Lobby_Touch_Love_2:
+  en: Perchance I must set forth upon a far voyage once again. Yet for the present,
+    I shall steadfastly remain by thy side.
+  ko: |-
+    언젠가 또 먼 길을 떠나야 할지 모르나,
+    지금은 옆을 지키겠소.
+  ja: |-
+    いつかはまた旅立つことになるやもしれませんが、
+    今はおそばでお守りしましょう。
+c223_Lobby_Touch_Love_3:
+  en: Thou, Great Hero, art now and forevermore the key of utmost import to all that
+    must be done. Verily, 'tis prudent to care for thine own well-being.
+  ko: |-
+    대협은 지금도 앞으로도, 모든 일의 중요한 열쇠가 될 것이오.
+    그러니 늘 몸을 소중히 하는 게 좋겠소.
+  ja: |-
+    旦那は今もこれからも、あらゆる局面の鍵となることでしょう。
+    どうぞ、お身体を大切に。
+c223_Lobby_Stay_1:
+  en: I came to seek the Great Hero... Yet, it seems no soul is present. Pray, have
+    I strayed upon a way most errant?
+  ko: |-
+    대협을 만나러 왔는데… 아무도 없나 보군.
+    …흠. 길을 잘못 들었나?
+  ja: |-
+    旦那に会いに来ましたが…誰もいないようですねぇ。
+    …ふむ。道を間違えた…？
+c223_Lobby_Stay_Love_1:
+  en: Haha. Thou art as busy as ever. I shall remain in quiet meditation. Return at
+    thy leisure, when thy affairs be done.
+  ko: |-
+    하하. 여전히 참으로 바쁘오.
+    명상을 하고 있을 터이니 일을 다 보거든 천천히 돌아오시오.
+  ja: |-
+    はは…相変わらずお忙しいようですねえ。
+    瞑想をしていますので、ゆっくりご用事をお済ませください。
+c223_Outpost_Touch_1:
+  en: Is this perchance the Great Hero's private paradise? Verily, a realm steeped
+    in romance most profound.
+  ko: |-
+    이곳이 대협만의 낙원이오?
+    참으로 낭만이 넘치는 곳이외다.
+  ja: |-
+    ここが旦那の楽園ですか？
+    実に浪漫があふれていますねえ。
+c223_Outpost_Touch_2:
+  en: This place is most wondrous, verily. Though vast it be, no matter the distance
+    I traverse, my steps return me to where I began.
+  ko: |-
+    여긴 참으로 신기한 곳이외다.
+    이렇게나 넓은데 걸어도 걸어도 다시 제자리로 돌아오고 있소.
+  ja: |-
+    ここは不思議な場所ですねぇ。
+    この広さで、いくら歩いても また元の場所に戻ってしまうとは…
+c223_Outpost_Touch_3:
+  en: In every corner, affection for thee overfloweth, Great Hero. Thou art rich in
+    virtue, and bear'st many a burden besides.
+  ko: |-
+    곳곳에 대협을 향한 애정들이 넘치고 있소.
+    대협은 참으로 덕 많고 죄 많은 자구려.
+  ja: |-
+    いたるところに 旦那への愛があふれています。
+    罪なお方ですねぇ。
+c223_Gacha_Get_1:
+  en: |-
+    To be summoned to partake in the Great Hero's journey, 'tis an honor most profound.
+    I shall tread this path with an earnest heart,
+    that the journey be not in vain.
+  ko: |-
+    대협의 여정에, 소인을 불러주시니 참으로 영광이외다.
+    여정이 헛되지 않도록 소인도 열심히 걸어보도록 하겠소.
+  ja: |-
+    旅の道連れに選んでいただけるとは、光栄の至りですねえ。
+    無益な旅路にならぬよう、私も手を尽くしましょう。
+c223_Reinforce_1:
+  en: I thank thee most sincerely for bestowing such care upon me.
+  ko: 이리 정성을 쏟아주다니, 감사하오.
+  ja: いやはや、気に掛けてくださるとは…感無量ですねえ。
+c223_Reinforce_2:
+  en: Haha. Ne'er have I known such hospitality as this.
+  ko: 하하. 이런 대접을 다 받아보는군.
+  ja: はは…これほど厚いおもてなしは初めてですねぇ。
+c223_Reinforce_3:
+  en: Is this... the craft wrought by mankind's toil? Verily, I am filled with awe
+    profound.
+  ko: 이것이… 인류가 이뤄낸 기술인가. 감탄스럽도다.
+  ja: これが…人類の技術が至った所…驚きました。
+c223_Gift_1:
+  en: Oh, that even one such as I should be thus gifted...! Truly, thou art a soul
+    of vast magnanimity.
+  ko: |-
+    호오, 소인에게도 선물을 다 챙겨주시다니…!
+    대협은 참으로 그릇이 큰 사람이외다.
+  ja: |-
+    ほほう、私に贈り物とは…！
+    旦那は本当に器の大きなお方ですねぇ。
+c223_Gift_2:
+  en: To be thus honored by one so esteemed, I offer thee my deepest thanks.
+  ko: |-
+    귀한 자에게 귀한 대접을 받았구려.
+    감사하오.
+  ja: |-
+    大事な方からの大事なお気持ちです。
+    ありがたくいただきましょう。
+c223_Gift_3:
+  en: Haha. So this is how the Great Hero doth win the favor of fair maidens. Verily,
+    it doth stir the heart with delight.
+  ko: |-
+    하하. 이것이 대협이 소저들과 화합해 나가는 방식인가 보군.
+    참으로 마음을 들뜨게 하는구려.
+  ja: |-
+    ははっ…これが旦那の社交術ですか。
+    思わず浮ついてしまいますねぇ。
+c223_Attractive_Up_1:
+  en: Art thou acquainted with the power of bonds divine? Methinks I do now experience
+    their very essence.
+  ko: |-
+    인연의 힘이라는 걸 아시오?
+    소인은 지금 그것의 정수를 겪고 있는 느낌이외다.
+  ja: |-
+    縁というものをご存じですか？
+    私は今、その力の神髄を体験しているような気がします。
+c223_Attractive_Up_2:
+  en: To think my bond with Great Hero hath grown so deep... I grow afeared of the
+    parting that may come one day.
+  ko: "대협과의 인연이 이토록 깊어지다니… \n언젠가 있을지 모를 이별이 무서워지는 구려."
+  ja: |-
+    旦那との縁がここまで深いものになるとは…
+    いつかあり得る別れの時が怖くなってしまいますねぇ。
+c223_Attractive_Up_3:
+  en: My trust in Great Hero hath surely grown profound. Pray tell, doth thy trust
+    in me likewise deepen?
+  ko: |-
+    확실히 대협에 대한 신의가 깊어진 느낌이외다.
+    대협은 어떻소. 소인에 대한 신의가 깊어진 듯하오?
+  ja: |-
+    旦那との確かな絆を感じられる気がしますねぇ。
+    旦那はどうでしょう、私との絆を感じておられますか？
+c223_Party_Deploy_1:
+  en: Since thou hast called upon me, I shall gladly accompany thee.
+  ko: 소인을 찾으시니, 기쁜 마음으로 함께하겠소.
+  ja: お呼びとあれば、喜んで参りましょう。
+c223_Field_Touch_1:
+  en: Didst thou summon me?
+  ko: 부르셨소?
+  ja: 私のことでしたか？
+c223_Field_Go_1:
+  en: Hmm... is this not the path?
+  ko: "…흠. 이길이 아닌가?"
+  ja: "…ふむ。この道ではない？"
+c223_Battle_Enter_1:
+  en: Ah, 'tis a meeting with the foe.
+  ko: 오, 적과의 마주침이오.
+  ja: おお、出てきたようですねえ。
+c223_Battle_Ready_1:
+  en: I know not if I shall prove of any aid.
+  ko: 소인이 도움이 될지 모르겠군.
+  ja: 私がお役に立てるかどうか…
+c223_Battle_Ready_2:
+  en: Haha. Thy faith doth make me blush.
+  ko: 하하. 기대를 받으니 부끄럽구려.
+  ja: ははっ。期待されると照れてしまいますねえ。
+c223_Battle_Ready_3:
+  en: We face this foe with steadfast hearts.
+  ko: 차근차근 적의에 맞서 보는 것이외다.
+  ja: 敵意には着実に立ち向かいましょう。
+c223_Reload_1:
+  en: After such fierce strife there must be rest.
+  ko: 치열함 뒤에는 휴식이 있어야 하오.
+  ja: 動いたらひと休みしませんと。
+c223_Reload_2:
+  en: Art thou holding fast, Great Hero?
+  ko: 대협은 좀 버틸만하시오?
+  ja: もう少し待てますか？
+c223_Reload_3:
+  en: Haste maketh folly of the task.
+  ko: 급하게 가면 일을 그르치는 법이외다.
+  ja: 急いては事を仕損じる、ですよ。
+c223_Ult_Skill_Ready_1:
+  en: I stand prepared.
+  ko: 준비되었소.
+  ja: 準備できました。
+c223_Ult_Skill_1:
+  en: From torment freed I shall attain enlightenment.
+  ko: 번뇌에서 벗어나, 반야에 이르리.
+  ja: 煩悩を断ち、智慧の境地へ至らん。
+c223_FullBurst_1:
+  en: A fair current seemeth to grace us.
+  ko: 좋은 흐름이 온 것 같소.
+  ja: いい流れが来たようですねぇ。
+c223_Kill_Monster_1:
+  en: Fare thee well.
+  ko: 잘 가시오.
+  ja: さようなら。
+c223_Kill_Monster_2:
+  en: Such sorrow it is.
+  ko: 안타깝소.
+  ja: 残念です。
+c223_Kill_Monster_3:
+  en: I shall carry on.
+  ko: 이어가겠소.
+  ja: 続けましょう。
+c223_Damage_1:
+  en: Hm...
+  ko: 흠….
+  ja: ふむ…
+c223_Damage_2:
+  en: "'Tis sore."
+  ko: 아프오.
+  ja: 痛いですねぇ。
+c223_Damage_3:
+  en: Alas...
+  ko: 이런….
+  ja: おやおや…
+c223_Die_1:
+  en: |-
+    Alas, it seemeth I can go no further.
+    I pray thee forgive me that I could be of no aid.
+  ko: |-
+    흠… 이 이상은 무리인 듯하오.
+    도움이 못 돼 미안하외다.
+  ja: |-
+    ふむ…これ以上は難しいようです。
+    お役に立てず申し訳ありません。
+c223_Win_1:
+  en: This place too hath been cleared. Now let us continue forth upon our journey.
+  ko: 이곳도 정리되었으니, 여정을 이어나가도록 하겠소.
+  ja: 片づきましたね。さあ、旅を続けましょう。
+c223_01_Lobby_Touch_1:
+  en: |-
+    To triumph, I shall do whatsoever must be done.
+    The burden of sin is one which I shall bear alone.
+  ko: |-
+    이기기 위해선 뭐든 할 것이오.
+    그로 인한 죄는 모두 소인이 짊어지겠소.
+  ja: |-
+    勝つためなら手段は選ばぬ覚悟です。
+    罪は、すべて私が背負いましょう。
+c223_01_Lobby_Touch_2:
+  en: |-
+    Dost mine present visage strike thee as peculiar?
+    Ha... even I find it so.
+  ko: |-
+    이 모습이 낯서오?
+    하하. 소인도 그렇소이다.
+  ja: |-
+    見慣れない？
+    ははっ。私もですよ。
+c223_01_Lobby_Touch_3:
+  en: |-
+    Within this vessel of mine, the voices of the multitude of mine own likeness do proclaim.
+    Their aspirations and aims must needs be fulfilled.
+  ko: |-
+    이 몸에 흐르는 수천의 소인이 외치고 있소.
+    소인들의 꿈을… 목표를 반드시 이뤄내라고.
+  ja: |-
+    この身に流れる幾千もの私が叫んでおります。
+    私たちの夢を…目標を必ず成し遂げてほしいと。
+c223_01_Lobby_Touch_Love_1:
+  en: One day, Great Hero, may thou behold a realm replete with lofty edifices and
+    innumerable chariots, a world vibrant with the melodies of human narratives.
+  ko: |-
+    언젠가 대협도 지상에 큰 건물과 자동차가 가득하며,
+    사람들의 이야기 소리가 가득한 세계를 경험해 봤으면 좋겠소.
+  ja: |-
+    大きな建物や車であふれ、人々の話し声で賑わう…
+    そんな地上を、いつか旦那に見ていただきたいものですねぇ。
+c223_01_Lobby_Touch_Love_2:
+  en: Though sin be laid upon me by all, I shall yet endeavor to restore the world
+    unto the tranquility it once knew.
+  ko: |-
+    모두에게 죄를 진다 하더라도,
+    소인은 꼭… 세계를 평화롭던 그때로 돌려놓고 싶소.
+  ja: |-
+    どんな罪を犯すことになっても、
+    私は必ず…平和だったあの頃の世界を取り戻したいのです。
+c223_01_Lobby_Touch_Love_3:
+  en: The hopes, tears, ire, and remorse of the multitude of mine own souls flow through
+    this vessel. Thus, failure is naught but forbidden.
+  ko: "수천의 소인의 소망이, 눈물이, 분노가, 회한이 이 몸에 흐르고 있소. \n그러니 소인은 절대 실패해서는 안 되오."
+  ja: |-
+    幾千の私の希望が、涙が、怒りが、後悔が、この身に流れています。
+    ですから、失敗は許されないのです。
+c223_01_Lobby_Stay_1:
+  en: |-
+    Ah... It seemeth thou art much occupied once more this day.
+    'Tis no matter. I too must needs attend to mine own affairs.
+  ko: |-
+    흠… 오늘도 참으로 바쁜가 보오.
+    어쩔 수 없지. 소인도 소인의 볼 일을 보러 가야겠소.
+  ja: |-
+    ふむ…今日もお忙しいようで。
+    仕方ない。私も用事を済ませに行かなくては。
+c223_01_Lobby_Stay_Love_1:
+  en: |-
+    Verily the Great Hero hath cause for his busyness.
+    I shall remain here, presiding over the multitude likenesses of mine own self.
+  ko: |-
+    대협이 바쁜 것에는 다 이유가 있을 테니,
+    소인은 이곳에서 수천의 소인들을 다스리고 있겠소.
+  ja: |-
+    旦那がこのように多忙なのは、すべて理由があるはずですねぇ。
+    私はここで、幾千の私たちを統べております。
+c223_01_Outpost_Touch_1:
+  en: |-
+    This place doth bring to mind a time of yore, when peace did reign.
+    Indeed, 'tis a most wondrous place.
+  ko: |-
+    이곳을 보면… 아주 오래전, 평화로웠던 그때가 떠오르는 것 같소.
+    참으로 좋은 곳이외다.
+  ja: |-
+    ここを見ていると…はるか昔、 平和だった頃を思い出しますねぇ。
+    とても素敵な場所です。
+c223_01_Outpost_Touch_2:
+  en: I pray that, one day, Great Hero, thy paradise may stretch forth unto this very
+    surface.
+  ko: 대협의 낙원이 언젠가 지상에도 다다를 수 있길 바라고 있소.
+  ja: 旦那の楽園が、いつか地上にも たどり着けるよう願っております。
+c223_01_Outpost_Touch_3:
+  en: |-
+    Hark! Though I inhabit this body, this place remaineth most perplexing.
+    Though I walk and walk, still doth the way elude me.
+  ko: |-
+    흠… 이 몸이 되었는데도 이곳은 참으로 복잡한 곳이외다.
+    걸어도 걸어도 길을 찾기가 힘드오.
+  ja: |-
+    ふむ…この姿になったとて、 やはり複雑な場所ですねぇ。
+    歩けど歩けど、 たどり着くことができません。
+c223_01_Gacha_Get_1:
+  en: Upon the Great Hero's arduous path, we shall accompany thee, that thou mayest
+    attain all that thou dost desire.
+  ko: |-
+    대협의 긴 여정에 소인들도 함께하겠소.
+    반드시 원하는 것을 이룰 수 있도록.
+  ja: |-
+    旦那の長き旅路に、私もお供いたしましょう。
+    必ずや願いを成し遂げられるように。
+c223_01_Reinforce_1:
+  en: I am ever grateful for your sincerity, Great Hero.
+  ko: 대협의 정성에 늘 감사하오.
+  ja: 旦那の真心には、いつも感謝しております。
+c223_01_Reinforce_2:
+  en: I feel greatly honored to be thus bestowed with the highest regard.
+  ko: 귀한 대접을 받은 느낌이외다.
+  ja: 丁重にもてなして頂いたような気分です。
+c223_01_Reinforce_3:
+  en: Thou hast toiled greatly to amass so many treasures.
+  ko: 이 많은 걸 구해오느라 고생 많으셨소.
+  ja: これだけのものを集めたとは…大変だったでしょう。
+c223_01_Gift_1:
+  en: |-
+    How could I refuse such a gift so thoughtfully prepared?
+    With much thanks, I shall accept it.
+  ko: |-
+    준비해 준 정성을 어찌 거절하리.
+    감사히 받겠소.
+  ja: |-
+    そのお心を、無下にできるはずもありませんねぇ。
+    ありがたくいただきましょう。
+c223_01_Gift_2:
+  en: Thy regard doth humble me.
+  ko: 귀하게 여겨주어 감사하오.
+  ja: 大切にしてくださり、ありがとうございます。
+c223_01_Gift_3:
+  en: Once more this day, I stand in awe of the depth of thy kindness.
+  ko: 오늘도 한 번 더 대협의 큰 그릇에 감탄하게 되는구려.
+  ja: 今日もまた、旦那の器の大きさに感服するばかりです。
+c223_01_Attractive_Up_1:
+  en: |-
+    Strange indeed are the threads of fate...
+    That which I once deemed but a fleeting breeze hath burgeoned into a raging tempest.
+  ko: |-
+    인연이란 참 모르는 것이외다.
+    스쳐 지나가는 바람인 줄 알았더니… 폭풍이 되어버릴 줄이야.
+  ja: |-
+    縁というのは分からぬものです。
+    過ぎ去る風かと思っていたら…嵐になってしまうとは。
+c223_01_Attractive_Up_2:
+  en: |-
+    Great Hero, I long to behold thee for many a day.
+    To gaze upon thy visage would bestow unbounded joy.
+  ko: |-
+    대협. 오래 보고 싶소.
+    오랫동안 얼굴을 볼 수 있었으면 더없이 좋을 것 같소.
+  ja: |-
+    旦那。
+    これからも共に長い時を過ごせるのであれば、この上ない喜びです。
+c223_01_Attractive_Up_3:
+  en: That this sacred bond betwixt thee and me endure, the multitude of mine own
+    likeness shall endeavor.
+  ko: |-
+    대협과의 신의가 오랫동안 유지될 수 있도록,
+    소인들도 노력하겠소이다.
+  ja: 旦那との信頼関係が末永く続くよう、私も努力しましょう。
+c223_01_Party_Deploy_1:
+  en: The multitude stand ready.
+  ko: 소인들은 준비됐소.
+  ja: 私は準備できていますよ。
+c223_01_Field_Touch_1:
+  en: Speak thy will.
+  ko: 말씀하시오.
+  ja: 何でしょう。
+c223_01_Field_Go_1:
+  en: Art thou sure 'tis to that place I must go?
+  ko: 정말 저리로 가라는 것이 맞소?
+  ja: 本当に、あちらへ行けと？
+c223_01_Battle_Enter_1:
+  en: A new encounter draweth nigh.
+  ko: 새로운 만남이 오는군.
+  ja: 新たな出会いがありますね。
+c223_01_Battle_Ready_1:
+  en: "'Tis now the turn of the multitude."
+  ko: 소인들의 차례로군.
+  ja: 私の出番ですねぇ。
+c223_01_Battle_Ready_2:
+  en: I know not if I can restrain my strength.
+  ko: 힘 조절이 될지 모르겠소.
+  ja: 加減できないかもしれませんねぇ。
+c223_01_Battle_Ready_3:
+  en: I will prevail, without fail.
+  ko: 반드시 이겨내 보이겠소.
+  ja: 必ず持ちこたえてみせましょう。
+c223_01_Reload_1:
+  en: A short reprieve before I journey forth.
+  ko: 잠깐 숨을 돌리고 가는 것이외다.
+  ja: 少しここで息を整えましょう。
+c223_01_Reload_2:
+  en: How art thou? Canst thou endure?
+  ko: 어떻소? 버틸만하시오?
+  ja: どうでしょう。耐えられますか？
+c223_01_Reload_3:
+  en: Excess oft begets naught but harm.
+  ko: 무리는 독인 법이외다.
+  ja: 無理は禁物ですよ。
+c223_01_Ult_Skill_Ready_1:
+  en: Great Hero.
+  ko: 대협.
+  ja: 旦那。
+c223_01_Ult_Skill_1:
+  en: With all sins laid upon me, forward shall I press.
+  ko: 모든 죄는 소인이 짊어진 채, 나아갈 것이오.
+  ja: すべての罪をこの身に背負い、私は前へ進む。
+c223_01_FullBurst_1:
+  en: Now. With all my might, onward.
+  ko: 지금이오. 전력으로 가보는 것이외다.
+  ja: 今です。全力で参りましょう。
+c223_01_Kill_Monster_1:
+  en: To the next we shall advance.
+  ko: 다음으로 가겠소.
+  ja: 次に行きます。
+c223_01_Kill_Monster_2:
+  en: This tide doth run most agreeable.
+  ko: 좋은 흐름이외다.
+  ja: いい流れです。
+c223_01_Kill_Monster_3:
+  en: I shall persist forthwith.
+  ko: 더 해보겠소.
+  ja: まだまだ。
+c223_01_Damage_1:
+  en: Ow!
+  ko: 읏.
+  ja: うっ。
+c223_01_Damage_2:
+  en: "'Tis painful."
+  ko: 아프구려.
+  ja: 痛い…
+c223_01_Damage_3:
+  en: "'Tis ill."
+  ko: "…좋지 않소."
+  ja: "…これはまずい。"
+c223_01_Die_1:
+  en: |-
+    Alas, I triumphed not...
+    Forgive me, Great Hero.
+  ko: "결국 이겨내지 못하였는가… \n정말 미안하오. 대협."
+  ja: |-
+    結局打ち勝つことはできなかったか…
+    旦那、本当に申し訳ない。
+c223_01_Win_1:
+  en: Hath this sufficed to aid thee in thy journey, Great Hero?
+  ko: 이 정도면 대협의 여정에 도움이 되었소?
+  ja: これで、旦那の役に立てたでしょうか？
+223_cv_ja:
+  en: 'CV: Ayako Kawasumi'
+  ko: 'CV : 카와스미 아야코'
+  ja: CV：川澄綾子
+223_cv_ko:
+  en: 'CV: Yang Jeong-hwa'
+  ko: 'CV : 양정화'
+  ja: CV：ヤン・ジョンファ
+223_cv_en:
+  en: 'CV: Lindsay Sutton'
+  ko: 'CV : 린지 서튼'
+  ja: CV：Lindsay Sutton

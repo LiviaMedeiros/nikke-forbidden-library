@@ -1,0 +1,549 @@
+---
+262_name:
+  en: Liberalio
+  ko: 리버렐리오
+  ja: リバーレリオ
+c262_description:
+  en: "A Heretic reminiscent of the silence that covers the ocean depths. \nHer acute
+    sensitivity to sound makes her excellent at search and detection, but also overly
+    susceptible to loud noises, which she detests."
+  ko: |-
+    고요한 심해를 연상하게 하는 헬레틱.
+    수색과 탐지에 뛰어난 능력을 지녔다.
+    그래서인지 소리에 예민하게 반응하며, 시끄러운 소음을 매우 싫어한다.
+  ja: |-
+    静かな深海を連想させるヘレティック。
+    捜索と探知に優れた能力を持つ。
+    そのためか音に敏感で、騒音を毛嫌いする。
+262_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_262:
+  en: Liberalio's Spare Body
+  ko: 리버렐리오 스페어 바디
+  ja: リバーレリオのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+22622_name:
+  en: Strange Currents
+  ko: 기묘한 해류
+  ja: 奇妙な海流
+22622_description:
+  en: |-
+    ■ Activates when landing Full Charge attacks. Affects self if the enemy hit is the stage target.
+    <color=#00AEFF>Raging Current: Attack Damage ▲ {description_value_01}% continuously.
+    Removes Gentle Current.</color>
+    ■ Activates when landing Full Charge attacks. Affects self if the enemy hit is a Rapture that is not the stage target.
+    <color=#00AEFF>Gentle Current: Fixes charge time at {description_value_02} sec continuously.
+    Dispels Raging Current.</color>
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Gains <word_group=10092>immunity to Increase Charge Speed effects</word_group> continuously. This effect cannot be dispelled.
+    Gains <word_group=10093>immunity to Decrease Charge Speed effects</word_group> continuously. This effect cannot be dispelled.</color>
+  ko: |-
+    ■ 풀 차지 공격 명중 시 대상이 타겟이라면 자신에게
+    <color=#00AEFF>[격류 : 공격 대미지 {description_value_01}% ▲] [지속]
+    [완만류 해제]</color>
+    ■ 풀 차지 공격 명중 시 대상이 타겟이 아닌 랩쳐라면 자신에게
+    <color=#00AEFF>[완만류 : 차지 시간 {description_value_02}초로 고정] [지속]
+    [격류 해제]</color>
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10092>차지 속도 증가 효과 면역</word_group>] [지속] [해제 불가]
+    [<word_group=10093>차지 속도 감소 효과 면역</word_group>] [지속] [해제 불가]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、
+    対象がターゲットなら、自分に
+    <color=#00AEFF>「激流：攻撃ダメージ{description_value_01}％▲」「持続」
+    「緩流解除」</color>
+    ■フルチャージ攻撃が命中した時、
+    対象がターゲットではないラプチャーなら、
+    自分に
+    <color=#00AEFF>「緩流：チャージ時間{description_value_02}秒で固定」「持続」
+    「激流解除」</color>
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10092>チャージ速度増加効果無効</word_group>」「持続」「解除不可」
+    「<word_group=10093>チャージ速度減少効果無効</word_group>」「持続」「解除不可」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+22621_name:
+  en: Calm Depths
+  ko: 차분한 수심
+  ja: 静かな深淵
+22621_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when landing Full Charge attacks on a target's core. Affects self.
+    <color=#00AEFF>Attack damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when landing Full Charge attacks. Affects the target(s).
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage. Activates 5 times.</color>
+    ■ Activates when entering Full Burst. Affects {description_value_08} <word_group=10082>Burst Stage 3</word_group> ally unit(s) with the lowest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Charge Speed ▲ {description_value_06}% of caster's Charge Speed for {description_value_07} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 차지 공격 코어 명중 시 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_05}% 추가 대미지] [5회 발동]</color>
+    ■ 풀 버스트 타임 시작 시 <word_group=10025>최종</word_group> 공격력이 가장 낮은 <word_group=10082>기본 버스트 단계가 Step 3인</word_group> 아군 {description_value_08}기에게
+    <color=#00AEFF>[시전자 기준 차지 속도 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルチャージ攻撃がコアに命中した時、
+    自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■フルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の追加ダメージ」
+    「5回発動」</color>
+    ■フルバーストタイムが発動した時、
+    <word_group=10025>最終</word_group>攻撃力が一番低い<word_group=10082>基本バースト段階がⅢの</word_group>味方{description_value_08}機に
+    <color=#00AEFF>「スキル発動者基準で
+    チャージ速度{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+12623_name:
+  en: Submerged World
+  ko: 잠기는 세계
+  ja: 水底の世界
+12623_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 추가 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の
+    {description_value_03}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+260_name:
+  en: Modernia
+  ko: 모더니아
+  ja: モダニア
+261_name:
+  en: Nihilister
+  ko: 니힐리스타
+  ja: ニヒリスター
+c262_Lobby_Touch_1:
+  en: |-
+    I'm only with you right now for Mother's sake.
+    Don't delude yourself into thinking I'm actually on your side.
+  ko: |-
+    지금은 어머니를 위해 함께 있는 것뿐이야.
+    진짜 네 편이 되었다고 착각하지 마.
+  ja: |-
+    今はお母さまのために一緒にいるだけよ。
+    仲間じゃないわ、勘違いしないで。
+c262_Lobby_Touch_2:
+  en: There's a lot of noise around you, Human. But I like how quiet you are.
+  ko: |-
+    인간. 네 옆엔 시끄러운 게 많지만,
+    그래도 넌 고요해서 좋네.
+  ja: |-
+    人間。あなたの周りはうるさいのが多いけど…
+    あなたは静かでいいわね。
+c262_Lobby_Touch_3:
+  en: "*Yawn* It's strange. Being next to you makes me sleepy."
+  ko: |-
+    하암... 네 옆에 있으면 잠이 잘 와.
+    …이상할 정도로.
+  ja: |-
+    ふわぁ…あなたが隣にいるとよく眠れるの。
+    …不思議なくらい。
+c262_Lobby_Touch_Love_1:
+  en: |-
+    You're quiet, Human. Like the deep sea.
+    That's why being with you... isn't all that unpleasant.
+  ko: |-
+    인간. 넌 고요해. 깊은 심해 같아.
+    그래서 함께 있는 게… 그렇게 불편하진 않네.
+  ja: |-
+    人間。あなたは静かね。深い海のよう。
+    一緒にいても…そんなにイヤな気がしないわ。
+c262_Lobby_Touch_Love_2:
+  en: |-
+    It's comfortable being next to you... which is dangerous.
+    But I'll stay with you, for now.
+  ko: |-
+    네 옆에 있으면 편안해. 그래서… 위험해.
+    …그래도 지금은 곁에 있어 줄게.
+  ja: |-
+    あなたの隣は落ち着くわ。だから…危ないの。
+    …でも、今はここにいてあげる。
+c262_Lobby_Touch_Love_3:
+  en: So long as you don't pose a threat to Mother, I'll let you live.
+  ko: |-
+    어머니께 위협이 되는 존재가 되지 마.
+    그렇지만 않다면… 넌 살려줄 테니까.
+  ja: |-
+    お母さまを脅かす存在にはならないで。
+    それさえ守るなら…あなたは生かしてあげる。
+c262_Lobby_Stay_1:
+  en: If we're not gonna do anything, I'd rather go somewhere else. It's too noisy
+    here!
+  ko: |-
+    아무것도 안 할 거면, 다른 곳으로 갈래.
+    여긴 시끄러워.
+  ja: |-
+    用がないならどこか別の場所へ行くわ。
+    ここはうるさすぎるの。
+c262_Lobby_Stay_Love_1:
+  en: |-
+    Don't talk to me, Human. I'm enjoying this silence.
+    *Yawn* I think I might finally sleep soundly for once.
+  ko: |-
+    …인간. 말 걸지 마. 지금의 이 고요함이 좋으니까.
+    흐암… 오랜만에 푹 잠들 거 같아.
+  ja: |-
+    …人間。話しかけないで。この静けさが好きなの。
+    ふわぁ…久しぶりにぐっすり眠れそう。
+c262_Outpost_Touch_1:
+  en: It's a little noisy here but... it's not unbearable.
+  ko: 여긴 좀 시끄러운데… 있을만하네.
+  ja: |-
+    ここは少しうるさいけど…
+    耐えられないほどでもないわ。
+c262_Outpost_Touch_2:
+  en: It's so peaceful here. This calm reminds me of you, Human.
+  ko: 여긴 평화롭네. 긴장감이 없는 게 인간, 꼭 너 같아.
+  ja: |-
+    平和な場所ね。
+    緊張感がないところが、 あなたそっくりよ。
+c262_Outpost_Touch_3:
+  en: Hmm... not a bad place to just float around. I'm gonna take a catnap now.
+  ko: |-
+    음, 떠다니기에 나쁘지 않아.
+    좀 자고 있을게.
+  ja: |-
+    ああ、浮かんでいるには ちょうどいいわ。
+    少し眠るわね。
+c262_Gacha_Get_1:
+  en: I'll look after you, Human... until your calm begins to falter.
+  ko: 인간. 네 고요함이 흐트러지는 순간까지, 지켜봐 줄게.
+  ja: |-
+    人間。
+    あなたの静寂が乱れるその瞬間まで、見ていてあげる。
+c262_Reinforce_1:
+  en: I've gotten stronger... yet everything feels even more annoying now.
+  ko: 강해졌네… 더 귀찮아진 느낌이야….
+  ja: 強くなったわ…面倒ごとが増えそう…
+c262_Reinforce_2:
+  en: So this is... the humans' enhancement technology...
+  ko: 이게… 인간의 강화 기술….
+  ja: これが…人類の生み出した強化技術ね…
+c262_Reinforce_3:
+  en: You want to see how strong I am? How troublesome...
+  ko: 내 힘을 더 보고 싶다고? 귀찮은데….
+  ja: 私の力がもっと見たいの？面倒ね…
+c262_Gift_1:
+  en: These... must've been a hassle to get.
+  ko: 이것들… 다 구해 오느라 귀찮았겠네.
+  ja: これは…準備も大変だったでしょうね。
+c262_Gift_2:
+  en: You want to see me happy? Why...?
+  ko: 내가 기뻐하는 모습을 보고 싶어? 왜…?
+  ja: 私が喜ぶ姿を見たいの？なぜ…？
+c262_Gift_3:
+  en: I can see right through your intentions, but nevertheless... I'm happy.
+  ko: 속이 빤히 보이는 선물인데, 의외로… 기쁘네.
+  ja: |-
+    魂胆は見え透いているけど、思ったより…
+    嬉しいわ。
+c262_Attractive_Up_1:
+  en: Since you're not the annoying type, I'll stick by your side a little longer.
+  ko: 넌 귀찮게 안 하는 인간이니까, 조금 더 지켜봐 줄게.
+  ja: |-
+    あなたはうるさくないから、
+    もう少しだけ様子を見てあげる。
+c262_Attractive_Up_2:
+  en: I sleep like a baby whenever you're near. So stay by my side, Human.
+  ko: |-
+    네 옆에 있으면 잠이 잘 와.
+    그러니까 옆에 있어, 인간.
+  ja: |-
+    隣にあなたがいるとよく眠れるの。
+    だからここにいなさい、人間。
+c262_Attractive_Up_3:
+  en: It's so strange, Human. I'm starting to like your tranquility more and more.
+  ko: "인간. 이상해. \n네 고요함이 점점 더 마음에 들어."
+  ja: |-
+    人間。不思議なものね。
+    あなたの静けさが気に入ってきてるわ。
+c262_Party_Deploy_1:
+  en: I'm feeling a little lazy... but I'll tag along.
+  ko: 귀찮은데… 같이 가줄게.
+  ja: 面倒だけど…行ってあげるわ。
+c262_Field_Touch_1:
+  en: "*Yawn*"
+  ko: 흐암.
+  ja: ふわぁ～
+c262_Field_Go_1:
+  en: Let's go.
+  ko: 가자.
+  ja: 来なさい。
+c262_Battle_Enter_1:
+  en: Ugh, what a hassle...
+  ko: 아… 귀찮게 됐네.
+  ja: ああ…面倒だわ。
+c262_Battle_Ready_1:
+  en: Don't expect me to give it my all.
+  ko: 진심을 다 할 거라고는 생각하지 마.
+  ja: 本気でやるとは思わないで。
+c262_Battle_Ready_2:
+  en: I'm taking a nap... you take charge.
+  ko: 난 자고 있을 테니까… 알아서 지휘해.
+  ja: 私は寝るから…勝手にやって。
+c262_Battle_Ready_3:
+  en: Ugh, I'm gonna get rid of anything that makes noise.
+  ko: 아… 시끄러운 건 전부 없애버릴래.
+  ja: ああ…うるさいものは全部…消すわ。
+c262_Reload_1:
+  en: Ugh... I'm going back to sleep... Figure it out yourself.
+  ko: 아… 더 잘래… 알아서 해결해.
+  ja: ふわぁ…もっと寝るわ…好きにやって。
+c262_Reload_2:
+  en: Ugh... All right... Need a recharge.
+  ko: 아… 그래… 충전해야지….
+  ja: あ…そうだった…リロードしないと…
+c262_Reload_3:
+  en: Ugh... So annoying... Don't wake me up...
+  ko: 으… 귀찮아… 깨우지 마….
+  ja: うぅ…面倒ね…起こさないで…
+c262_Ult_Skill_Ready_1:
+  en: Get ready, Human.
+  ko: 인간, 준비해.
+  ja: 人間、準備しなさい。
+c262_Ult_Skill_1:
+  en: Hell has no fury like a woman awoken!
+  ko: 고요한 잠을 깨우는 자에게, 대가를.
+  ja: 静かな眠りを妨げる者には、代償を。
+c262_FullBurst_1:
+  en: You're all getting on my nerves.
+  ko: 귀찮게 하는 건 전부, 사라져.
+  ja: うるさいのは全部、消えて。
+c262_Kill_Monster_1:
+  en: "*Yawn*"
+  ko: 흐암.
+  ja: ふわぁ～
+c262_Kill_Monster_2:
+  en: Yeah, yeah... Good job.
+  ko: 응… 잘했어….
+  ja: まあ…上出来ね…
+c262_Kill_Monster_3:
+  en: It's not over yet...
+  ko: 아직 안 끝났네….
+  ja: まだ終わらないのね…
+c262_Damage_1:
+  en: Ahh...
+  ko: 아.
+  ja: あっ。
+c262_Damage_2:
+  en: Leave me alone...
+  ko: 깨우지 마....
+  ja: 起こさないで…
+c262_Damage_3:
+  en: Ugh...
+  ko: 으으….
+  ja: うう…
+c262_Die_1:
+  en: That's enough for now. I'm tapped out.
+  ko: 그만할래. 더 힘쓰기 귀찮아….
+  ja: やめたわ。これ以上力を使いたくないもの…
+c262_Win_1:
+  en: We've won. Happy now?
+  ko: 이겼네. 기뻐?
+  ja: 勝ったわ。嬉しい？
+262_cv_ja:
+  en: 'CV: Eri Kitamura'
+  ko: 'CV : 키타무라 에리'
+  ja: CV：喜多村英梨
+262_cv_ko:
+  en: 'CV: Yeo Yoon-mi'
+  ko: 'CV : 여윤미'
+  ja: CV：ヨ・ユンミ
+262_cv_en:
+  en: 'CV: Marissa Lenti'
+  ko: 'CV : 마리사 렌티'
+  ja: CV：Marissa Lenti

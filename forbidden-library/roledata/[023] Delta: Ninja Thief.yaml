@@ -91,9 +91,12 @@ character_shot_description_localkey_mg_down:
     味方に自分を除く防御型がいる場合、自分に
     <color=#00AEFF>効果1：「忍法カモフラージュ：<word_group=10004>単一攻撃対象から除外</word_group>直接攻撃を受けると解除」「{description_value_06}秒間維持」
     効果2：「忍法注射器：攻撃ダメージの{description_value_07}％回復」「持続」</color>
-    ■通常攻撃で{description_value_03}回攻撃した時、自分がヘイト状態なら、自分に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_04}％の<word_group=10023>バリア</word_group>」「{description_value_05}秒間維持」</color>
-    ■{description_value_08}秒ごとに自分が忍法注射器状態なら、自分に
+    ■通常攻撃で{description_value_03}回攻撃した時、
+    自分がヘイト状態なら、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_04}％の
+    <word_group=10023>バリア</word_group>」「{description_value_05}秒間維持」</color>
+    ■{description_value_08}秒ごとに自分が忍法注射器状態なら、
+    自分に
     <color=#00AEFF>「忍法救急キット」「{description_value_10}秒間維持」：
     機能1：持続時間中に受ける回復を蓄積して持続時間終了後、味方全体に蓄積量に応じた回復
     効果1：「最大蓄積量はスキル発動者の<word_group=10025>最終</word_group>攻撃力の{description_value_09}％」
@@ -123,11 +126,14 @@ skill_name_1003:
     <color=#00AEFF>[인법 하이퍼 애시드 봄 :  받는 대미지 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
   ja: |-
     ■フルバーストタイムが発動した時、敵全体に
-    <color=#00AEFF>「忍法アシッドボム：受けるダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「忍法アシッドボム：受けるダメージ
+    {description_value_01}％▲」「{description_value_02}秒間維持」</color>
     ■バーストスキルを使用した時、自分に
     <color=#00AEFF>「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
-    ■バーストスキルを使用した時、照準線に最も近い<word_group=10020>攻撃範囲内の敵</word_group>に
-    <color=#00AEFF>「忍法ハイパーアシッドボム：受けるダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    ■バーストスキルを使用した時、
+    照準線に最も近い<word_group=10020>攻撃範囲内の敵</word_group>に
+    <color=#00AEFF>「忍法ハイパーアシッドボム：
+    受けるダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1
@@ -142,7 +148,7 @@ skill_name_1002:
     <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.
     ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>
     ■ Affects all enemies.
-    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as distributed damage.</color>
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
     ■ Affects self while in Attract status.
     <color=#00AEFF><word_group=10047>Next shield's HP</word_group> ▲ {description_value_06}% for {description_value_07} sec.</color>
     ■ Affects self while in Ninjutsu Injection status.
@@ -162,7 +168,7 @@ skill_name_1002:
     <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」
     「スキル発動者基準で攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
     ■敵全体に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の分配ダメージ」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の<word_group=10019>分配ダメージ</word_group>」</color>
     ■自分がヘイト状態なら、自分に
     <color=#00AEFF>「<word_group=10047>次のバリアのHP</word_group>{description_value_06}％▲」
     「{description_value_07}秒間維持」</color>
@@ -455,7 +461,7 @@ c023_Gift_3:
 c023_Attractive_Up_1:
   en: |-
     My heartbeat is too loud.
-    It makes it hard to move quietly.
+    It makes it hard for me to move quietly.
   ko: |-
     …제 심장 소리가 너무 크게 들립니다.
     조용하게 움직이기가 어렵지 말입니다.
@@ -516,7 +522,7 @@ c023_Reload_3:
   ko: 잠시, 그림자 속에 숨겠습니다.
   ja: しばし影に身を潜めています。
 c023_Ult_Skill_Ready_1:
-  en: Ninjitsu, ready.
+  en: Ninjutsu, ready.
   ko: 기술, 준비됐습니다.
   ja: 技の準備が整いました。
 c023_Ult_Skill_1:

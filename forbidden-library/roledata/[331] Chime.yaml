@@ -1,0 +1,534 @@
+---
+331_name:
+  en: Chime
+  ko: 차임
+  ja: チャイム
+c331_description:
+  en: |-
+    A Pilgrim from the White Knight squad.
+    She serves Crown, a fellow Nikke from her squad, as her royal aide.
+    Quick-witted, cunning, and fiercely loyal, she is a loyal retainer of the Crown Kingdom.
+  ko: |-
+    바이스리터 스쿼드 소속 필그림.
+    같은 스쿼드의 니케인 크라운을 왕으로 모시고 있다.
+    재빠르고 영리하며, 충성심 깊은 크라운 왕국의 비서.
+  ja: |-
+    ヴァイスリッター部隊に所属するピルグリム。
+    同じ部隊のニケであるクラウンを王とみなし、仕えている。
+    機敏で賢く、忠誠心が強いクラウン王国の秘書。
+331_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_331:
+  en: Chime's Spare Body
+  ko: 차임 스페어 바디
+  ja: チャイムのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23312_name:
+  en: The King's Secretary
+  ko: 왕의 비서
+  ja: 王の秘書
+23312_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects <word_group=10091>the king</word_group>.
+    <color=#00AEFF>Daily Report: Normal Attack Damage <word_group=10029>Multiplier</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 <word_group=10091>나의 왕</word_group>에게
+    <color=#00AEFF>[일과 보고 : 일반 공격 대미지 {description_value_01}% <word_group=10029>배율</word_group> ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、
+    <word_group=10091>自分の王</word_group>に
+    <color=#00AEFF>「日課報告：通常攻撃ダメージ{description_value_01}％<word_group=10029>倍率</word_group>▲」
+    「{description_value_02}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23311_name:
+  en: Chief Aide
+  ko: 일등 신하
+  ja: 王国一の臣下
+23311_description:
+  en: |-
+    ■ Activates at the start of battle. Affects <word_group=10091>the king</word_group>.
+    <color=#00AEFF>Wish: ATK ▲ {description_value_01}% of caster's ATK continuously.</color>
+  ko: |-
+    ■ 전투 시작 시 <word_group=10091>나의 왕</word_group>에게
+    <color=#00AEFF>[소원 : 시전자 기준 공격력 {description_value_01}% ▲] [지속]</color>
+  ja: |-
+    ■戦闘開始時<word_group=10091>自分の王</word_group>に
+    <color=#00AEFF>「請願：スキル発動者基準で攻撃力{description_value_01}％▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13313_name:
+  en: For the King
+  ko: 왕을 위해
+  ja: 王のために
+13313_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10002>Re-enters Burst Skill</word_group> Stage 2.
+    Max Ammunition Capacity ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects <word_group=10091>the king</word_group>.
+    <color=#00AEFF>Loyalty: Attack Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10002>버스트 재진입</word_group> 2단계]
+    [최대 장탄 수 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ <word_group=10091>나의 왕</word_group>에게
+    <color=#00AEFF>[충심 : 공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10002>バースト再突入</word_group>2段階」
+    「最大装弾数{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■<word_group=10091>自分の王</word_group>に
+    <color=#00AEFF>「忠心：攻撃ダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+330_name:
+  en: Crown
+  ko: 크라운
+  ja: クラウン
+c331_Lobby_Touch_1:
+  en: |-
+    The number of citizens in the Crown Kingdom grows with each passing day.
+    Is this not truly cause for great joy?
+  ko: |-
+    크라운 왕국의 백성 수가 나날이 늘어나고 있느니라.
+    참으로 기뻐할 일이지 않느냐.
+  ja: |-
+    クラウン王国の民の数が日に日に増えているのだ。
+    実に喜ばしいことなのだ。
+c331_Lobby_Touch_2:
+  en: |-
+    Rapscallion!
+    Do not argue with Her Highness!
+  ko: |-
+    네 이놈!
+    아가씨 말에 토 달 생각 말거라!
+  ja: |-
+    貴様ぁ！
+    お嬢さまのお言葉に文句をつけるとは！
+c331_Lobby_Touch_3:
+  en: |-
+    There's no need to worry.
+    Our kingdom is forever safeguarded by Her Highness, verily.
+  ko: |-
+    걱정할 필요 없다.
+    우리 왕국은 늘 아가씨가 지켜주고 계시니 말이다.
+  ja: |-
+    心配いらないのだ。
+    我が王国は、常にお嬢さまが守ってくださっているのだ。
+c331_Lobby_Touch_Love_1:
+  en: "What's this? \nHave you resolved to become the advisor to our kingdom at last?"
+  ko: |-
+    뭐냐.
+    드디어 우리 왕국의 책사가 되기로 마음먹은 게냐?
+  ja: |-
+    ん？
+    ついに王国の軍師になる決心がついたのだ？
+c331_Lobby_Touch_Love_2:
+  en: If you come into our kingdom's fold, it would be most conveni... I mean, most
+    pleasing indeed.
+  ko: |-
+    네놈이 우리 왕국으로 오면 참 편할… 아니,
+    좋을 것 같구나.
+  ja: お前が王国に来たら楽そう…いや、うれしいのだ。
+c331_Lobby_Touch_Love_3:
+  en: Perhaps the day will come when we may impart unto you our sacred mission, Rapscallion.
+  ko: |-
+    언젠가는 우리의 사명을
+    네놈에게 이야기할 수 있는 날이 올지도 모르겠구나.
+  ja: |-
+    いつか私たちの使命を
+    お前に伝える日が来るかもしれないのだ。
+c331_Lobby_Stay_1:
+  en: |-
+    Rapscallion...?!
+    You vanished and left all manner of menial tasks in your wake!
+  ko: |-
+    이노옴~!
+    잡일은 다 떠맡겨 놓고 어디로 사라진 게냐!
+  ja: |-
+    貴様ぁ～！
+    雑用を押しつけて、どこに行ったのだ！？
+c331_Lobby_Stay_Love_1:
+  en: |-
+    Such matters are but a trifle for me.
+    If you have business to attend to, see to it with haste.
+  ko: |-
+    내게 이 정도 일은 식은 죽 먹기니라.
+    볼일이 있으면 얼른 다녀오거라.
+  ja: |-
+    留守番なんて朝飯前なのだ。
+    用事があるなら、さっさと行ってくるのだ。
+c331_Outpost_Touch_1:
+  en: "Oh, 'tis in better shape than I had expected. \nThis place is rather nice."
+  ko: |-
+    호오, 생각보다 더 멀쩡하구나.
+    썩 괜찮은 곳이야.
+  ja: |-
+    ふーむ、思ったより 充実しているのだ。
+    悪くないのだ。
+c331_Outpost_Touch_2:
+  en: |-
+    I'll pass on the... Splendamin.
+    I have brought my own sustenance.
+  ko: |-
+    퍼펙트는… 되었다.
+    나는 따로 먹을 걸 챙겨왔느니라.
+  ja: |-
+    パーフェクトは… いらないのだ。
+    自分の分は持って来たのだ。
+c331_Outpost_Touch_3:
+  en: "There are many curiosities to be found here. \nI shall purchase a gift to present
+    to Her Highness."
+  ko: |-
+    여긴 신기한 물건이 많구나.
+    아가씨께 드릴 선물을 사 가야겠다.
+  ja: |-
+    不思議なものがたくさんあるのだ。
+    お嬢さまに差し上げる プレゼントを買っていくのだ。
+c331_Gacha_Get_1:
+  en: "I am Chime, the sole and most capable royal aide of the Crown Kingdom! \nDo
+    well to remember this!"
+  ko: |-
+    나는 크라운 왕국의 단 하나뿐인 유능한 비서 차임이니라!
+    잘 기억해 두도록 해라!
+  ja: |-
+    クラウン王国のたったひとりの優秀な秘書、チャイムなのだ！
+    よく覚えておくのだ！
+c331_Reinforce_1:
+  en: "What is this strength? \nMost wondrous it is."
+  ko: |-
+    이 힘은 무엇이냐?
+    신기하구나.
+  ja: |-
+    この力は…？
+    不思議なのだ。
+c331_Reinforce_2:
+  en: Haha! Verily, I am most capable indeed!
+  ko: 하하! 나는 역시 유능하다!
+  ja: はっはっは！やはり私は優秀なのだ！
+c331_Reinforce_3:
+  en: I shall be able to lend even greater strength unto Her Highness and the Crown
+    Kingdom.
+  ko: 아가씨와 크라운 왕국에 더 큰 힘을 보탤 수 있겠구나.
+  ja: お嬢さまとクラウン王国のお力になれそうなのだ。
+c331_Gift_1:
+  en: "I shall receive it with gratitude, \nbut why bestow such a thing upon me so
+    suddenly?"
+  ko: |-
+    받긴 잘 받겠다만,
+    왜 갑자기 이런 걸 주는 거냐?
+  ja: ありがたく頂くが、なぜ急にこんなものをくれるのだ？
+c331_Gift_2:
+  en: This shall provide great aid to the kingdom's advancement. I will use it wisely.
+  ko: |-
+    왕국의 발전에 큰 도움이 되겠구나.
+    잘 쓰마.
+  ja: |-
+    王国の発展に役に立ちそうなのだ。
+    大切に使うのだ。
+c331_Gift_3:
+  en: |-
+    Such a brilliant subject you are!
+    I will be sure to recount your deeds to Her Highness.
+  ko: |-
+    아주 훌륭한 백성이로구나!
+    아가씨께도 네 공적을 꼭 전해드리도록 하겠다.
+  ja: |-
+    実に素晴らしい民なのだ！
+    お嬢さまにもお前の功績を伝えるのだ。
+c331_Attractive_Up_1:
+  en: "What is this? \nAre you flattering me in hopes of mere crumbs?"
+  ko: |-
+    뭐냐.
+    콩고물 좀 얻어보겠다고 아부 떠는 것이냐?
+  ja: |-
+    むむ？
+    おこぼれを狙ってゴマすりをしているのだ？
+c331_Attractive_Up_2:
+  en: Hmm... the more I gaze upon you, the more I see what desirable talents you possess,
+    Rapscallion.
+  ko: 흐음, 네놈은 보면 볼 수록 참 탐나는 인재로구나.
+  ja: ふむ、お前は会うたびに欲しくなる人材なのだ。
+c331_Attractive_Up_3:
+  en: |-
+    N-no matter what, Her Highness remains the most dear to me!
+    You, Rapscallion... can occupy second place.
+  ko: |-
+    아, 아무리 그래도 내게 제일 소중한 분은 아가씨니라!
+    네 놈은… 두번째 정도로 해주마.
+  ja: |-
+    わ、私にとって一番大切なお方はお嬢さまなのだ！
+    お前は…2番目ぐらいにしてやるのだ。
+c331_Party_Deploy_1:
+  en: At last, 'tis my turn to step up!
+  ko: 드디어 내가 나설 차례인가 보구나!
+  ja: ついに私の出番なのだ！
+c331_Field_Touch_1:
+  en: What is the matter?
+  ko: 왜 그러느냐.
+  ja: 何か用なのだ？
+c331_Field_Go_1:
+  en: Very well, I shall go forth as commanded.
+  ko: 알겠다, 그리 가도록 하마.
+  ja: うむ、そちらに向かうのだ。
+c331_Battle_Enter_1:
+  en: Now, we proceed!
+  ko: 자, 가자!
+  ja: さあ、行くのだ！
+c331_Battle_Ready_1:
+  en: I shall lend my support, fear not!
+  ko: 내가 지원해 줄 테니 걱정 말거라!
+  ja: 私が援護する、安心するのだ！
+c331_Battle_Ready_2:
+  en: I shall move swiftly!
+  ko: 재빠르게 움직여 보마!
+  ja: 素早く動くのだ！
+c331_Battle_Ready_3:
+  en: I feel reassured with you here, Rapscallion.
+  ko: 네놈이 있어 든든하구나!
+  ja: お前がいるから心強いのだ！
+c331_Reload_1:
+  en: "'Tis strange, doing this after so long."
+  ko: 간만에 하니 어색하구나.
+  ja: 久しぶりだから妙な感じなのだ。
+c331_Reload_2:
+  en: Curse it... my magazine.
+  ko: 이런… 탄창이.
+  ja: あっ…弾倉が…
+c331_Reload_3:
+  en: M-my hand did slip, is all.
+  ko: 소, 손이 살짝 미끄러졌을 뿐이니라.
+  ja: て、手が滑っただけなのだ。
+c331_Ult_Skill_Ready_1:
+  en: I stand ready!
+  ko: 준비되었느니라!
+  ja: 準備できたのだ！
+c331_Ult_Skill_1:
+  en: Long live the Crown Kingdom! Hahaha!
+  ko: 크라운 왕국에 부흥 있으라! 하하하!
+  ja: クラウン王国に栄光あれ！ハハハ！
+c331_FullBurst_1:
+  en: I shall sweep away all in my path!
+  ko: 이대로 싹 쓸어버리는 게다!
+  ja: このまま一掃するのだ！
+c331_Kill_Monster_1:
+  en: Perish, scoundrels!
+  ko: 죽어라, 이놈!
+  ja: くらえっ！
+c331_Kill_Monster_2:
+  en: Ugh! What a bother!
+  ko: 에에잇! 성가시다!
+  ja: ふんっ！わずらわしい！
+c331_Kill_Monster_3:
+  en: Begone!
+  ko: 썩 꺼지거라!
+  ja: 消え失せるのだ！
+c331_Damage_1:
+  en: Eek!
+  ko: 히익!
+  ja: ひぃっ！
+c331_Damage_2:
+  en: Ah!
+  ko: 앗!
+  ja: あっ！
+c331_Damage_3:
+  en: Unghh!
+  ko: 크흑!
+  ja: くっ！
+c331_Die_1:
+  en: I'm sorry I could not offer more aid in battle...
+  ko: 전투에 도움이 되지 못해 미안하구나….
+  ja: 役に立てず、申し訳ないのだ…
+c331_Win_1:
+  en: |-
+    Behold! What did I say?
+    Did I not declare victory ours?
+  ko: |-
+    거 봐라! 내 뭐라 했느냐?
+    반드시 이긴다고 하지 않았느냐!
+  ja: |-
+    見たのだ！？
+    必ず勝つと言ったのだ！
+331_cv_ja:
+  en: 'CV: Tomoko Kaneda'
+  ko: 'CV : 카네다 토모코'
+  ja: CV：金田朋子
+331_cv_ko:
+  en: 'CV: Lee Dal-lae'
+  ko: 'CV : 이달래'
+  ja: CV：イ・ダルレ
+331_cv_en:
+  en: 'CV: Ratana'
+  ko: 'CV : 라타나'
+  ja: CV：Ratana
