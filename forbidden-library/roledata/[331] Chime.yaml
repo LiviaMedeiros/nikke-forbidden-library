@@ -65,7 +65,8 @@ character_shot_description_localkey_smg_down:
   ja: |-
     ■フルバーストタイムが発動した時、
     <word_group=10091>自分の王</word_group>に
-    <color=#00AEFF>「日課報告：通常攻撃ダメージ{description_value_01}％<word_group=10029>倍率</word_group>▲」
+    <color=#00AEFF>「日課報告：通常攻撃ダメージ
+    {description_value_01}％<word_group=10029>倍率</word_group>▲」
     「{description_value_02}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
@@ -84,7 +85,8 @@ skill_name_1003:
     <color=#00AEFF>[소원 : 시전자 기준 공격력 {description_value_01}% ▲] [지속]</color>
   ja: |-
     ■戦闘開始時<word_group=10091>自分の王</word_group>に
-    <color=#00AEFF>「請願：スキル発動者基準で攻撃力{description_value_01}％▲」「持続」</color>
+    <color=#00AEFF>「請願：スキル発動者基準で
+    攻撃力{description_value_01}％▲」「持続」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1

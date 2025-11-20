@@ -5390,3 +5390,631 @@ d_ex_wingofvictory_09:
     ja: |-
       ライオンがヒトデの乗り物となって
       幕を下ろしたのだった…
+d_ex_wingofvictory_10:
+  d_ex_wingofvictory_10_1:
+    speaker: "<Monologue>"
+    en: I have plans with Soline today, so after my meeting, I head to the park.
+    ko: |-
+      오늘은 솔린과의 약속이 있는 날이라
+      회의를 마치고 공원으로 향했다.
+    ja: |-
+      今日はソリンと会う約束がある。
+      会議を終わらせ、すぐに公園に向かった
+  d_ex_wingofvictory_10_2:
+    speaker: soline_w
+    en: There you are!
+    ko: 어, 지휘관이다!
+    ja: あ、指揮官！
+  d_ex_wingofvictory_10_3:
+    speaker: "<Self>"
+    en: Hello, Soline.
+    ko: 안녕, 솔린.
+    ja: 遅くなった、すまない
+  d_ex_wingofvictory_10_4:
+    speaker: soline_w
+    en: A-ahem.
+    ko: 크, 크흠.
+    ja: オ、オホンッ…
+  d_ex_wingofvictory_10_5:
+    speaker: soline_w
+    en: So, Commander,
+    ko: 저기 지휘관.
+    ja: ねえ、指揮官。
+  d_ex_wingofvictory_10_6:
+    speaker: soline_w
+    en: notice anything different about me?
+    ko: 나 뭐 바뀐 거 없어?
+    ja: 何か気付かない？
+  d_ex_wingofvictory_10_7:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_wingofvictory_10_8:
+    speaker: soline_w
+    en: Well?
+    ko: 엣헴.
+    ja: えっへん。
+  d_ex_wingofvictory_10_9:
+    speaker: "<Monologue>"
+    en: Soline looks at me with expectant eyes.
+    ko: 솔린은 뭔가 기대하는 눈빛으로 나를 바라보고 있다.
+    ja: ソリンが期待の眼差しで私を見ている
+  d_ex_wingofvictory_10_10:
+    speaker: "<Choice>"
+    en: I'm not sure.
+    ko: 모르겠는데.
+    ja: よく分からない
+  d_ex_wingofvictory_10_11:
+    speaker: "<Choice>"
+    en: Ah, you're wearing that.
+    ko: 그 옷 입고 왔구나.
+    ja: その服を着てきてくれたんだな
+  d_ex_wingofvictory_10_12:
+    speaker: soline_w
+    en: Ugh... You're totally doing this on purpose, aren't you?
+    ko: 으으… 알면서 그러는 거지?
+    ja: うう…ウソでしょ？
+  d_ex_wingofvictory_10_13:
+    speaker: soline_w
+    en: I even changed my outfit for this!
+    ko: 옷 갈아입고 왔잖아!
+    ja: 服、着替えてきたのに！
+  d_ex_wingofvictory_10_14:
+    speaker: "<Self>"
+    en: Sorry.
+    ko: 미안.
+    ja: "…すまない"
+  d_ex_wingofvictory_10_15:
+    speaker: soline_w
+    en: Hehe, I knew you'd notice!
+    ko: 흐흥~ 역시 알아봐 주는구나?
+    ja: ふふ～ん、分かってくれてうれしい！
+  d_ex_wingofvictory_10_16:
+    speaker: soline_w
+    en: This is one of my most cherished outfits, but I wore it today just for you,
+      Commander!
+    ko: 아끼는 옷이지만, 지휘관과의 약속이라 특별히 입고 온 거니까!
+    ja: |-
+      大切な服だけど、指揮官と会う日だから
+      特別に着てきたの！
+  d_ex_wingofvictory_10_17:
+    speaker: "<Self>"
+    en: Oh, thanks.
+    ko: 그렇구나, 고마워.
+    ja: そうか、ありがとう
+  d_ex_wingofvictory_10_18:
+    speaker: "<Self>"
+    en: So... you said there's something you want to do today?
+    ko: 그래서, 오늘 하고 싶은 게 있다며?
+    ja: 今日は何かしたいことがあるそうだな？
+  d_ex_wingofvictory_10_19:
+    speaker: soline_w
+    en: Hehe, that's right! I've got a few ideas.
+    ko: 흐흥~ 맞아, 내가 이것저것 생각해왔거든.
+    ja: ふふ～ん、そうだよ。色々考えてあるんだ。
+  d_ex_wingofvictory_10_20:
+    speaker: soline_w
+    en: Uh... hmm...
+    ko: 어… 음.
+    ja: えっと…その…
+  d_ex_wingofvictory_10_21:
+    speaker: soline_w
+    en: Hang on a sec!
+    ko: 잠깐만 기다려봐!
+    ja: ちょっと待ってね！
+  d_ex_wingofvictory_10_22:
+    speaker: "<Narration>"
+    en: "*Rustle*"
+    ko: 샤라락-
+    ja: スッ
+  d_ex_wingofvictory_10_23:
+    speaker: "<Monologue>"
+    en: Soline hurriedly pulls out a memo.
+    ko: 솔린은 급하게 품에서 메모를 꺼냈다.
+    ja: ソリンは慌てて胸元からメモを取り出した
+  d_ex_wingofvictory_10_24:
+    speaker: soline_w
+    en: Um... Hmm...
+    ko: 음… 으음…!
+    ja: えっと…う～ん…！
+  d_ex_wingofvictory_10_25:
+    speaker: soline_w
+    en: Oh yeah, that's right! I remember now!
+    ko: 흐흥, 그래 맞아. 기억났어.
+    ja: ふふん、そうそう。思い出した。
+  d_ex_wingofvictory_10_26:
+    speaker: soline_w
+    en: First, let's grab a quick drink at the bar!
+    ko: 먼저 [바에 가서 간단하게 한잔해 보기].
+    ja: まずは「バーに行って軽く一杯」。
+  d_ex_wingofvictory_10_27:
+    speaker: "<Self>"
+    en: No can do.
+    ko: 그건 안돼.
+    ja: それはダメだ
+  d_ex_wingofvictory_10_28:
+    speaker: soline_w
+    en: Wow, a hard no, huh?
+    ko: 그, 그렇게나 단호하게?
+    ja: そ、そんなソッコーで断る？
+  d_ex_wingofvictory_10_29:
+    speaker: soline_w
+    en: Heh, I figured as much...
+    ko: 으음, 안 된다고 할 것 같긴 했지만….
+    ja: うーん、予想はしてたけどやっぱりダメか…
+  d_ex_wingofvictory_10_30:
+    speaker: soline_w
+    en: Then the second one is...
+    ko: 그럼 두 번째는….
+    ja: じゃあ次…
+  d_ex_wingofvictory_10_31:
+    speaker: soline_w
+    en: to down the same black coffee the Commander drinks at the cafe in one go.
+    ko: "[카페에 가서 지휘관이 마시던 블랙커피 원샷하기]."
+    ja: |-
+      「カフェでこの前指揮官が飲んでた
+      ブラックコーヒーを一気飲みする」
+  d_ex_wingofvictory_10_32:
+    speaker: "<Self>"
+    en: "... You sure that's what you really want?"
+    ko: "…진짜 하고 싶은 거 맞아?"
+    ja: "…本当にしたいと思っていることなのか？"
+  d_ex_wingofvictory_10_33:
+    speaker: soline_w
+    en: O-of course!
+    ko: 무, 물론이지!
+    ja: も、もちろん！
+  d_ex_wingofvictory_10_34:
+    speaker: soline_w
+    en: You'd better stop thinking of me as a little kid already.
+    ko: 이제 나, 솔린이 어린애 같다는 편견은 버리는 게 좋을 거야.
+    ja: |-
+      これからは私、ソリンは子どもっぽいなんて
+      偏見は捨てた方がいいと思うよ。
+  d_ex_wingofvictory_10_35:
+    speaker: soline_w
+    en: Starting today, I'm showing off my brand new image! Hehe!
+    ko: 오늘부터 그런 모습은 보여주지 않을 거거든. 흐흥.
+    ja: |-
+      今日からはそんな姿は見せないんだから。
+      ふふん。
+  d_ex_wingofvictory_10_36:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_wingofvictory_10_37:
+    speaker: soline_w
+    en: Wh-what, Commander? You don't trust me?
+    ko: |-
+      뭐, 뭐야, 지휘관.
+      뭔가 못 미더워 보이는데?
+    ja: な、なんでそんな目で見るの？
+  d_ex_wingofvictory_10_38:
+    speaker: soline_w
+    en: "... Fine, how about a bet then?"
+    ko: "…정 못 믿겠으면 내기라도 할까?"
+    ja: "…そんなに信じられないなら賭けでもする？"
+  d_ex_wingofvictory_10_39:
+    speaker: "<Self>"
+    en: A bet?
+    ko: 내기?
+    ja: 賭け？
+  d_ex_wingofvictory_10_40:
+    speaker: soline_w
+    en: Yeah!
+    ko: 응!
+    ja: うん！
+  d_ex_wingofvictory_10_41:
+    speaker: soline_w
+    en: Whoever does something childish today has to grant the other a wish.
+    ko: |-
+      오늘 어린애 같은 행동을 하면
+      소원을 하나씩 들어주는 거야.
+    ja: |-
+      今日私が子どもっぽい行動をしたら
+      指揮官の言うことを
+      1つ聞いてあげるってのはどう？
+  d_ex_wingofvictory_10_42:
+    speaker: soline_w
+    en: Simple enough, right?
+    ko: 생각보다 간단하지?
+    ja: べつに難しくないでしょ？
+  d_ex_wingofvictory_10_43:
+    speaker: "<Self>"
+    en: Sure, let's do it.
+    ko: 그래, 해보자.
+    ja: 分かった、やってみよう
+  d_ex_wingofvictory_10_44:
+    speaker: soline_w
+    en: Okay!
+    ko: 좋아!
+    ja: オッケー！
+  d_ex_wingofvictory_10_45:
+    speaker: soline_w
+    en: Hehe, let's head downtown then!
+    ko: 흐흥~ 그럼 시내로 가볼까?
+    ja: じゃあ、とりあえず市街地にでも行く？
+  d_ex_wingofvictory_10_46:
+    speaker: soline_w
+    en: I'll show you just how much I've grown!
+    ko: 내가 얼마나 성장했는지 직접 보여줄 테니까!
+    ja: 私がどれだけ成長したか証明してあげる！
+  d_ex_wingofvictory_10_47:
+    speaker: unknown
+    en: Hey there, you two!
+    ko: 헤헤~ 거기 두 분~
+    ja: すみません～
+  d_ex_wingofvictory_10_48:
+    speaker: unknown
+    en: Got a sec?
+    ko: 잠시 시간 괜찮으신가요?
+    ja: もしお時間よろしければ…
+  d_ex_wingofvictory_10_49:
+    speaker: crust
+    en: Wanna try some super tasty candy?
+    ko: 맛있는 사탕 드셔보고 가세요~
+    ja: おいしいキャンディはいかがですか～？
+  d_ex_wingofvictory_10_50:
+    speaker: "<Self>"
+    en: Crust?
+    ko: 크러스트?
+    ja: クラスト？
+  d_ex_wingofvictory_10_51:
+    speaker: crust
+    en: Oh?
+    ko: 오잉?
+    ja: ふぇぇ？
+  d_ex_wingofvictory_10_52:
+    speaker: crust
+    en: Mr. Gourmand!
+    ko: 미식가 님이셨군요?!
+    ja: グルメ様！？
+  d_ex_wingofvictory_10_53:
+    speaker: crust
+    en: Fancy seeing you here!
+    ko: 여기서 뭐하고 계신가요?
+    ja: どうしてここへ？
+  d_ex_wingofvictory_10_54:
+    speaker: "<Self>"
+    en: I've got plans with Soline today.
+    ko: 오늘 솔린이랑 약속이 있어서.
+    ja: 今日はソリンと約束があってな
+  d_ex_wingofvictory_10_55:
+    speaker: crust
+    en: Ah, I see!
+    ko: 아하~ 그렇군요?
+    ja: そうでしたか～
+  d_ex_wingofvictory_10_56:
+    speaker: crust
+    en: I've been handing out samples of a new dessert I made!
+    ko: 저는 이번에 개발한 디저트를 나눠드리고 있었어요!
+    ja: |-
+      今新しく開発したスイーツの試食を
+      お配りしているところなんです！
+  d_ex_wingofvictory_10_57:
+    speaker: crust
+    en: How about trying one before you go?
+    ko: 가시기 전에 하나씩 맛보는 거 어떠세요?
+    ja: ちょっとだけお味見していかれませんか？
+  d_ex_wingofvictory_10_58:
+    speaker: crust
+    en: Lucky you, there are only two left!
+    ko: 마침 딱 두 알 남았거든요!
+    ja: ちょうどあと2個なんです！
+  d_ex_wingofvictory_10_59:
+    speaker: "<Self>"
+    en: Oh, thanks.
+    ko: 오, 잘 먹을게.
+    ja: ありがとう、いただきます
+  d_ex_wingofvictory_10_60:
+    speaker: "<Monologue>"
+    en: Without a second thought, I pop the candy into my mouth.
+    ko: 나는 망설임 없이 사탕을 입에 넣었다.
+    ja: 私は遠慮なくキャンディを口に入れた
+  d_ex_wingofvictory_10_61:
+    speaker: "<Monologue>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_wingofvictory_10_62:
+    speaker: "<Monologue>"
+    en: "!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_wingofvictory_10_63:
+    speaker: "<Self>"
+    en: Mm... it's good!
+    ko: 맛있어…!
+    ja: おいしい…！
+  d_ex_wingofvictory_10_64:
+    speaker: crust
+    en: Hehe, right?
+    ko: 헤헤, 그렇죠~?
+    ja: えへへ、そうでしょう？
+  d_ex_wingofvictory_10_65:
+    speaker: crust
+    en: Bready and I put our hearts into this dessert.
+    ko: 브래디랑 심혈을 기울여 만든 디저트거든요.
+    ja: ブレッディと研究に研究を重ねて作ったんです。
+  d_ex_wingofvictory_10_66:
+    speaker: crust
+    en: I hope you enjoy it!
+    ko: 부디 맛있게 즐겨주세요!
+    ja: お口に合ったのならよかったです！
+  d_ex_wingofvictory_10_67:
+    speaker: "<Self>"
+    en: "*Munch, munch*"
+    ko: 우물우물….
+    ja: もぐもぐ…
+  d_ex_wingofvictory_10_68:
+    speaker: soline_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_wingofvictory_10_69:
+    speaker: soline_w
+    en: H-hey, Commander...
+    ko: 지, 지휘관….
+    ja: し、指揮官…
+  d_ex_wingofvictory_10_70:
+    speaker: soline_w
+    en: do you even realize you look like a kid
+    ko: 있지, 지금 되게 어린애 같은 거 알아?
+    ja: ねえ…今、すっごく子どもっぽいよ。
+  d_ex_wingofvictory_10_71:
+    speaker: soline_w
+    en: when you're chewing on candy like that...?
+    ko: 사탕을 입에 넣고 우물거리고….
+    ja: 口の中でアメをコロコロ転がしてるところとか…
+  d_ex_wingofvictory_10_72:
+    speaker: crust
+    en: Hehe, so what if he looks like a kid?
+    ko: 헤헤, 좀 애 같으면 어때요!
+    ja: へへ、子どもみたいでもいいじゃないですか！
+  d_ex_wingofvictory_10_73:
+    speaker: crust
+    en: You don't get the chance to eat candy this delicious very often!
+    ko: 이런 맛있는 사탕을 먹을 기회는 좀처럼 오지 않는걸요!
+    ja: |-
+      こんなにおいしいキャンディは
+      滅多に食べられませんよ！
+  d_ex_wingofvictory_10_74:
+    speaker: crust
+    en: So, Soline, why don't you try some too?
+    ko: 그러니 솔린도 드셔보시는 게 어떠신가요?
+    ja: ソリンもいかがですか？
+  d_ex_wingofvictory_10_75:
+    speaker: "<Monologue>"
+    en: Crust holds out a candy to Soline.
+    ko: 크러스트가 솔린의 눈앞에 사탕을 내민다.
+    ja: クラストがソリンの前にキャンディを差し出した
+  d_ex_wingofvictory_10_76:
+    speaker: soline_w
+    en: M-me too?!
+    ko: "!! 나… 나도?"
+    ja: "！！わ…私も？"
+  d_ex_wingofvictory_10_77:
+    speaker: soline_w
+    en: Um...
+    ko: 꿀꺽.
+    ja: ゴクン。
+  d_ex_wingofvictory_10_78:
+    speaker: soline_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_wingofvictory_10_79:
+    speaker: soline_w
+    en: N-no, I'll pass this time.
+    ko: 아… 아냐, 이번엔 참을래.
+    ja: い…いや、大丈夫。遠慮しとく。
+  d_ex_wingofvictory_10_80:
+    speaker: soline_w
+    en: I'm not the old me anymore!
+    ko: 나는 이제 예전의 나랑 다르니까.
+    ja: もう昔の私とは違うんだから。
+  d_ex_wingofvictory_10_81:
+    speaker: crust
+    en: Uh... I-I see?
+    ko: 으에… 그, 그렇군요?
+    ja: うぅ…そ、そうですか。
+  d_ex_wingofvictory_10_82:
+    speaker: crust
+    en: Hehe, all right! Well, I guess it can't be helped.
+    ko: 헤헤, 알겠습니다! 그렇다면 어쩔 수 없네요.
+    ja: |-
+      へへ、分かりました！
+      そういうことなら仕方ありませんね。
+  d_ex_wingofvictory_10_83:
+    speaker: "<Self>"
+    en: So, what about the last one?
+    ko: 그럼 남은 건 어떻게 하지?
+    ja: 残ったキャンディはどうするんだ？
+  d_ex_wingofvictory_10_84:
+    speaker: crust
+    en: Hm... yeah.
+    ko: 으응… 그러게요.
+    ja: うーん…困りましたね。
+  d_ex_wingofvictory_10_85:
+    speaker: crust
+    en: Since the wrapper's already off, storing it again is kind of tricky...
+    ko: 이미 포장도 제거해서 다시 보관하긴 애매한데….
+    ja: |-
+      包装紙も剝がしてしまいましたし、
+      このまま取っておくのも…
+  d_ex_wingofvictory_10_86:
+    speaker: "<Self>"
+    en: No worries, I'll have it.
+    ko: 그럼 내가 처리할게.
+    ja: じゃあもらってもいいか？
+  d_ex_wingofvictory_10_87:
+    speaker: soline_w
+    en: "!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_wingofvictory_10_88:
+    speaker: crust
+    en: Hehe, yay! I didn't know what to do with it, so this is perfect!
+    ko: 헤헤, 좋아요! 마침 곤란했었는데 다행이네요!
+    ja: へへ、どうぞ！ちょうどよかったです！
+  d_ex_wingofvictory_10_89:
+    speaker: crust
+    en: Okay... say "Ahhh" for me!
+    ko: 그럼 아~ 해보시겠어요?
+    ja: では、お口を開けてもらえますか？
+  d_ex_wingofvictory_10_90:
+    speaker: "<Self>"
+    en: Ahhh...
+    ko: 아~
+    ja: あ～ん
+  d_ex_wingofvictory_10_91:
+    speaker: soline_w
+    en: W-wait!
+    ko: 자, 잠까안!
+    ja: ちょ、ちょっと待って！
+  d_ex_wingofvictory_10_92:
+    speaker: soline_w
+    en: A-are you sure this is a good idea, Commander?
+    ko: 지휘관… 그거 진짜 괜찮은 거야?
+    ja: 指揮官…本当にいいの？
+  d_ex_wingofvictory_10_93:
+    speaker: "<Self>"
+    en: What do you mean?
+    ko: 그게 무슨 소리야?
+    ja: どういう意味だ？
+  d_ex_wingofvictory_10_94:
+    speaker: soline_w
+    en: W-well, you are human, aren't you?
+    ko: 그, 그야 지휘관은 사람이잖아!
+    ja: ほ、ほら、指揮官は人間でしょ？
+  d_ex_wingofvictory_10_95:
+    speaker: soline_w
+    en: I know eating too much sugar will rot your teeth.
+    ko: 단 걸 많이 먹으면 이가 썩는다는 것쯤은 나도 알거든?
+    ja: 甘いものを食べ過ぎると虫歯になっちゃうわよ？
+  d_ex_wingofvictory_10_96:
+    speaker: soline_w
+    en: So...
+    ko: 그러니까… 자.
+    ja: だから…ほら。
+  d_ex_wingofvictory_10_97:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_wingofvictory_10_98:
+    speaker: soline_w
+    en: H-here...
+    ko: 여… 여기.
+    ja: そ…その…
+  d_ex_wingofvictory_10_99:
+    speaker: soline_w
+    en: put it in my mouth.
+    ko: 내 입에 넣어줘.
+    ja: 私がもらうわ。
+  d_ex_wingofvictory_10_100:
+    speaker: soline_w
+    en: I, the ever-mature adult, will handle it just for you!
+    ko: 어른스러운 내가 특별히 처리해 줄게.
+    ja: 大人な私が特別に片付けてあげる。
+  d_ex_wingofvictory_10_101:
+    speaker: crust
+    en: Hehe, Soline, you're really so thoughtful!
+    ko: 헤헤, 역시 솔린은 생각이 깊으시군요.
+    ja: わぁ～、そこまで考えてくださるなんて。
+  d_ex_wingofvictory_10_102:
+    speaker: crust
+    en: Is that okay with you, Mr. Gourmand?
+    ko: 미식가님은 괜찮으신가요?
+    ja: グルメ様、よろしいですか？
+  d_ex_wingofvictory_10_103:
+    speaker: "<Self>"
+    en: Yeah, it's fine with me.
+    ko: 응, 상관없어.
+    ja: ああ、構わない
+  d_ex_wingofvictory_10_104:
+    speaker: crust
+    en: Okay then! Say "Ahhh," Soline!
+    ko: 그럼 솔린 아~ 해보세요.
+    ja: ではソリン、あ～んしてください。
+  d_ex_wingofvictory_10_105:
+    speaker: soline_w
+    en: Ahhh...
+    ko: 와앙….
+    ja: あ～ん
+  d_ex_wingofvictory_10_106:
+    speaker: "<Narration>"
+    en: The candy slips into her mouth.
+    ko: 쏘옥-
+    ja: コロン…
+  d_ex_wingofvictory_10_107:
+    speaker: soline_w
+    en: "!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_wingofvictory_10_108:
+    speaker: crust
+    en: How is it?
+    ko: 좀 어떠신가요?
+    ja: どうですか？
+  d_ex_wingofvictory_10_109:
+    speaker: soline_w
+    en: Mmm...
+    ko: 우움….
+    ja: うーん…
+  d_ex_wingofvictory_10_110:
+    speaker: soline_w
+    en: Th-this is the best!
+    ko: 채… 채고야.
+    ja: お…おいち…
+  d_ex_wingofvictory_10_111:
+    speaker: soline_w
+    en: It's so yummy!
+    ko: 너무 마이떠.
+    ja: なんへこんなにおいちいの？
+  d_ex_wingofvictory_10_112:
+    speaker: soline_w
+    en: I almost would've regretted not trying it...
+    ko: 안 머것스면 후회할 뻔….
+    ja: たへなかったらこうかいへたとおもう…
+  d_ex_wingofvictory_10_113:
+    speaker: crust
+    en: Hehe, I'm glad you like it!
+    ko: 헤헤~ 입에 맞으시다니 정말 다행이네요!
+    ja: へへ～それはよかったです！
+  d_ex_wingofvictory_10_114:
+    speaker: soline_w
+    en: Mmm... mmm...
+    ko: 흐흥~ 흐흐흥~
+    ja: ふふふん～ふんふん～♪
+  d_ex_wingofvictory_10_115:
+    speaker: "<Monologue>"
+    en: Just like me, Soline totally forgets about our bet and gleefully rolls the
+      candy around in her mouth.
+    ko: |-
+      내가 그랬듯 솔린도 내기를 까맣게 잊고
+      신나게 사탕을 입에서 굴리고 있다.
+    ja: |-
+      私もソリンも賭けのことはすっかり忘れ、
+      上機嫌でキャンディを口の中で転がしている
+  d_ex_wingofvictory_10_116:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_wingofvictory_10_117:
+    speaker: soline_w
+    en: Hehe, I'm in a great mood! All right, Commander, let's get going!
+    ko: |-
+      흐흥~ 기분 좋아졌어!
+      이제 슬슬 가볼까 지휘관?
+    ja: |-
+      ふふ～ん、おいしかった！
+      そろそろ移動しよっか？
+  d_ex_wingofvictory_10_118:
+    speaker: "<Monologue>"
+    en: Well, I guess it's fine as long as Soline's happy.
+    ko: 뭐, 솔린이 행복하다면 된 거겠지.
+    ja: まあ、ソリンが幸せならそれでいいだろう

@@ -1,0 +1,566 @@
+---
+74_name:
+  en: 'Soline: Frost Ticket'
+  ko: '솔린 : 프로스트 티켓'
+  ja: ソリン：フロストチケット
+c074_description:
+  en: |-
+    As an outstanding attendant on the AZX, Soline skillfully serves her passengers.
+    Of course, her flashy confidence is just the same as ever.
+  ko: |-
+    솔린은 AZX의 어엿한 승무원으로서, 능숙하게 승객을 모신다.
+    물론, 허세 넘치는 자신감은 여전하다.
+  ja: |-
+    AZXの乗務員として慣れた様子で乗客を案内するソリン。
+    もちろん、自信満々で見栄っ張りなところは相変わらずだ。
+74_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_74:
+  en: 'Soline: Frost Ticket''s Spare Body'
+  ko: '솔린 : 프로스트 티켓 스페어 바디'
+  ja: ソリン：フロストチケットのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20742_name:
+  en: I'll Help You Board the Train!
+  ko: 열차 탑승 도와줄게!
+  ja: 乗車を補助します！
+20742_description:
+  en: |-
+    ■ Activates when the HP of anyone in the squad is lower than {description_value_01}%. Affects the target if the target has any tickets.
+    <color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group> max HP as HP.
+    Ticket count ▼ {description_value_03}.</color>
+    ■ Activates at the start of battle. Affects all allies.
+    <color=#00AEFF>First Train Discount for {description_value_04} sec.
+    Function: Tickets granted by I'll Help You Board the Train! will not be consumed.</color>
+  ko: |-
+    ■ 자신을 포함한 아군 누군가의 체력이 {description_value_01}% 이하 도달 시 대상이 티켓 보유 상태라면 대상에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]
+    [티켓 {description_value_03}장 ▼]</color>
+    ■ 전투 시작 시 아군 전체에게
+    <color=#00AEFF>[첫차 할인] [{description_value_04}초 유지]
+    기능 : 열차 탑승 도와줄게!의 효과로 인한 티켓을 소모하지 않습니다.</color>
+  ja: |-
+    ■自分を含む味方の誰かのHPが
+    {description_value_01}％以下になった時、
+    対象が乗車券を所持している状態なら対象に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_02}％回復」
+    「乗車券{description_value_03}枚▼」</color>
+    ■戦闘開始時、味方全体に
+    <color=#00AEFF>「早期割引」「{description_value_04}秒間維持」
+    機能：このスキルの効果による乗車券減少が発生しない</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20741_name:
+  en: I'll Check Your Ticket!
+  ko: 티켓 확인할게!
+  ja: チケットを拝見します！
+20741_description:
+  en: |-
+    ■ Activates at the start of battle or when using Burst Skill. Affects all allies.
+    <color=#00AEFF>Issues 1 ticket, up to a maximum of 2. Continuous.
+    Ticket effect: Max HP ▲ number of tickets * {description_value_01}% of the caster's Max HP without restoring HP.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Removes First Train Discount.</color>
+  ko: |-
+    ■ 전투 시작 시와 버스트 스킬 사용 시 아군 전체에게
+    <color=#00AEFF>[티켓 1장 발권 : 최대 2장까지 발권 가능] [지속]
+    티켓 효과 : [시전자 기준 최대 체력만 {description_value_01}% X 티켓 수▲]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_03}초 ▼]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[첫차 할인 해제]</color>
+  ja: |-
+    ■戦闘開始時またはバーストスキル使用時、
+    味方全体に
+    <color=#00AEFF>「乗車券1枚発券：最大2枚まで」「持続」
+    乗車券の効果：「スキル発動者基準で最大HPのみ{description_value_01}％×乗車券の枚数▲」</color>
+    ■フルバーストタイムが発動した時、
+    味方全体に<color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group> {description_value_03}秒▼」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「早期割引解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10743_name:
+  en: I'll Get You There Safely!
+  ko: 안전하게 모실게!
+  ja: 安全に案内してあげる！
+10743_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> max HP as HP.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_01}％回復」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+70_name:
+  en: Brid
+  ko: 브리드
+  ja: ブリッド
+71_name:
+  en: Soline
+  ko: 솔린
+  ja: ソリン
+72_name:
+  en: Diesel
+  ko: 디젤
+  ja: ディーゼル
+c074_Lobby_Touch_1:
+  en: |-
+    Well? Isn't this outfit pretty?
+    Doesn't it make me look more mature?
+  ko: |-
+    어때? 이 옷 엄청 예쁘지!
+    나 이번엔 좀 성숙해진 것 같지 않아?
+  ja: |-
+    どう？この服、とても素敵でしょ！
+    いつもより大人っぽいと思わない？
+c074_Lobby_Touch_2:
+  en: |-
+    I hope I get to go to the surface.
+    I want everyone to see me wearing this while doing grown-up things.
+  ko: |-
+    지상에 올라갔으면 좋겠다~
+    이거 입고 얼른 활약하는 모습 보여주고 싶어.
+  ja: |-
+    早く地上に行けないかな～
+    この服で活躍するところ、すぐにでも見せたいのに…
+c074_Lobby_Touch_3:
+  en: |-
+    Commander, want to ride the AZX?
+    I'm getting reeeaaally good at being a crew member!
+  ko: |-
+    지휘관. AZX 타러 갈래?
+    나 이제 승무원 일 엄~청 잘해!
+  ja: |-
+    指揮官、AZXに乗りに行かない？
+    私、もう立派な乗務員になったんだよ！
+c074_Lobby_Touch_Love_1:
+  en: |-
+    Hehe! I've got a pretty outfit, and I've grown more mature!
+    I bet I could even drink strong coffee now.
+  ko: |-
+    흐흥~ 예쁜 옷도 입었고, 좀 더 성숙해졌으니까!
+    이젠 쓴 커피도 마실 수 있을 거 같아.
+  ja: |-
+    ふふんっ。素敵な服に着替えて大人っぽくなったんだから、
+    苦いコーヒーも飲めるはず！
+c074_Lobby_Touch_Love_2:
+  en: |-
+    If there's somewhere you want to go, just say the word.
+    I'll take you anywhere!
+  ko: |-
+    어디로든 가고 싶은 곳이 있으면 말만 해.
+    내가 어디든 데려다줄 테니까!
+  ja: |-
+    行きたい場所があったら遠慮なく言って。
+    私がどこへでも連れていってあげる！
+c074_Lobby_Touch_Love_3:
+  en: |-
+    Someday... if the AZX is able to go anywhere on the surface,
+    will you take a trip with me, Commander?
+  ko: |-
+    언젠가… AZX가 지상의 어느 곳이든 갈 수 있게 된다면,
+    지휘관도 나랑 같이 여행하지 않을래?
+  ja: |-
+    いつか、AZXが地上とアークを自由に行き来できるようになったら…
+    私と一緒に、旅に出るなんてどうかな？
+c074_Lobby_Stay_1:
+  en: Hmph... I came all this way, but you're gone? I'm so upset.
+  ko: 치… 나 왔는데 없는 거야? 엄청 서운해.
+  ja: |-
+    むう…せっかく来たのに、どうしていないの？
+    なんかガッカリ…
+c074_Lobby_Stay_Love_1:
+  en: |-
+    Heh. Since I'm an adult now, I can handle being alone.
+    Time flies when I think about where I want to go with you, Commander.
+  ko: |-
+    흥. 나 이제 어른이니까, 혼자 잘 있어.
+    지휘관이랑 여행 갈 곳 생각하고 있으면 시간 잘 가.
+  ja: |-
+    ふんっ。もう大人なんだから、一人でも全然ヘーキよ。
+    指揮官とどこへ旅に出ようかなって考えてたら、
+    時間なんてあっという間なんだから。
+c074_Outpost_Touch_1:
+  en: Hehe... I have to show off my pretty new outfit to everyone at the Outpost.
+  ko: "흐흥~ 예쁜 옷 입은 거, \n전초기지에 있는 애들한테 다 자랑해야지~"
+  ja: |-
+    ふんふふ～ん。 かわいい服を着てきたから、
+    前哨基地にいるみんなに 自慢しちゃお～っと。
+c074_Outpost_Touch_2:
+  en: "I'm planning to dress the AZX up in pretty clothes too. \nWant to come, Commander?"
+  ko: |-
+    우리 AZX한테도 예쁜 옷을 입히러 가려고 하는데,
+    지휘관도 갈래?
+  ja: |-
+    AZXにもかわいい服を 着せに行こうと思ってるの。
+    指揮官も一緒に行く？
+c074_Outpost_Touch_3:
+  en: Hehe. Since I'm at the Outpost, I'm gonna buy all the delicious food at the
+    train station.
+  ko: 헤헤. 전초기지에 온 김에 기차역에 맛있는 거 잔뜩 사가서 놀아야지~
+  ja: |-
+    えへへ。せっかく 前哨基地に来たんだし、
+    鉄道駅に置く おいしいものをいっぱい買ったり
+    ブラブラしたりしよ～っと！
+c074_Gacha_Get_1:
+  en: |-
+    Commander! What do you think? Isn't it pretty?
+    With my new outfit, I'll show you how much I've grown!
+  ko: |-
+    지휘관~ 어때? 예쁘지!
+    새 옷도 입었으니까 이번에는 어른스러운 모습 제대로 보여줄게!
+  ja: |-
+    あっ、指揮官！どう？かわいいでしょ！
+    新しい服を着た大人っぽい私を、思う存分見せてあげる！
+c074_Reinforce_1:
+  en: Hehe... I've grown even more!
+  ko: 흐흥~ 나 또 성장했다~
+  ja: ふんふふ～ん、また成長しちゃった！
+c074_Reinforce_2:
+  en: Don't you think I've grown taller?
+  ko: 어때? 나 키도 좀 큰 거 같아?
+  ja: どう？背も大きくなったと思わない？
+c074_Reinforce_3:
+  en: I feel even more like a grown-up!
+  ko: 더 어른스러워진 것 같아!
+  ja: 前より大人っぽくなった気がするわ！
+c074_Gift_1:
+  en: |-
+    Eek...! I'm gonna get you a gift too!
+    Next time, you're gonna be the one receiving!
+  ko: |-
+    이이…! 나도 선물 줄 거야!
+    다음엔 지휘관이 받아!
+  ja: |-
+    むううっ…！私だってプレゼントしたいんだから！
+    次は指揮官がもらう番だからね！
+c074_Gift_2:
+  en: |-
+    Wow... I really wanted one of these!
+    Thanks, Commander!
+  ko: |-
+    와아... 이거 엄청 갖고 싶었던 건데…!
+    지휘관 고마워!
+  ja: |-
+    わあっ…これ、すごく欲しかったの…！
+    指揮官、ありがとう！
+c074_Gift_3:
+  en: |-
+    I-I'm not a kid anymore... I don't really like this sort of thing...
+    But since it's from you, I-I guess I'll try to like it!
+  ko: |-
+    애, 애도 아니고… 이걸로 좋아하기에 좀 그렇긴 한데...
+    지휘관이 준비해 준 거니까 조, 좋아해 줄게!
+  ja: |-
+    こ、子どもじゃないんだし、こんなので喜んだりしないけど…
+    せっかく指揮官がくれたんだから、よ、喜んであげる！
+c074_Attractive_Up_1:
+  en: |-
+    I wish I could be with you every day.
+    Then we could ride the AZX around together every single day.
+  ko: |-
+    지휘관이랑 맨날 같이 있었으면 좋겠다.
+    그럼 매일매일 AZX를 같이 타고 다닐 수 있을 텐데.
+  ja: |-
+    指揮官と、毎日一緒にいられたらいいのにな。
+    そしたら毎日一緒に、AZXに乗って出かけられるもん。
+c074_Attractive_Up_2:
+  en: |-
+    Hehe... This is amazing.
+    I'm gonna treat you like a VIP passenger!
+  ko: |-
+    흐흥~ 기분이다.
+    특별히 지휘관은 VIP 승객으로 대해줄게!
+  ja: |-
+    ふふんっ、いいわ。
+    特別に指揮官はAZXのVIPにしてあげる！
+c074_Attractive_Up_3:
+  en: |-
+    It's strange.
+    Whenever I put on a nice outfit, you're the first person I want to show it to.
+  ko: |-
+    나 이상해.
+    예쁜 옷을 입으면 지휘관한테 제일 먼저 보여주고 싶어져.
+  ja: |-
+    なんか私、ヘンなの。
+    かわいい服を着ると、真っ先に指揮官に見せたくなっちゃって…
+c074_Party_Deploy_1:
+  en: I knew it. You need me, don't you. I'll come along.
+  ko: 역시 내가 필요하지? 같이 가줄게.
+  ja: やっぱり私が必要なんでしょ？一緒に行ってあげる。
+c074_Field_Touch_1:
+  en: W-where should we go?
+  ko: 어, 어디로 갈까?
+  ja: ど、どこに行くの？
+c074_Field_Go_1:
+  en: Let's go, AZX!
+  ko: 가자, AZX!
+  ja: 行くよ、AZX！
+c074_Battle_Enter_1:
+  en: Aaah! Collision incoming!
+  ko: 으아아!! 충돌한다!
+  ja: えっ、ちょっ…しゅ、出動！！
+c074_Battle_Ready_1:
+  en: Watch closely! I've really grown a lot!
+  ko: 나 정말 성장했으니까, 잘 보고 있어!
+  ja: すごく成長したんだから、ちゃんと見ててね！
+c074_Battle_Ready_2:
+  en: I-I don't get nervous about this anymore!
+  ko: 이, 이제 이런 거… 하나도 안 긴장해!
+  ja: こ、これくらいで緊張するわけないでしょ！
+c074_Battle_Ready_3:
+  en: I'll handle everything like a grown-up!
+  ko: 전부 어른스럽게 해결해버릴게!
+  ja: ぜーんぶクールにやっつけちゃうね！
+c074_Reload_1:
+  en: Tch... This didn't go the way I thought.
+  ko: 씨이… 생각보다 잘 안되네.
+  ja: もうっ…全然うまくいかない…！
+c074_Reload_2:
+  en: Just a quick break, then I'm off again!
+  ko: 조금만 쉬었다 바로 갈 거야!
+  ja: 少しだけ休んだら、すぐ戻るから！
+c074_Reload_3:
+  en: Ahh... Just wait! I'll head out again!
+  ko: 으으… 기다려…! 다시 갈 테니까!
+  ja: うう…待ってて…！すぐ戻るから…！
+c074_Ult_Skill_Ready_1:
+  en: My turn!
+  ko: 내 차례야!
+  ja: 私の番！
+c074_Ult_Skill_1:
+  en: The happiness train AZX will bring you anywhere!
+  ko: 행복을 실은 AZX와 함께, 어디든 데려다줄게!
+  ja: 幸せを乗せたAZXで、どこまでも連れていってあげる！
+c074_FullBurst_1:
+  en: Now! Full steam ahead!
+  ko: 지금이야! 다들 달리는 거야!
+  ja: 今よ！みんな、全力で行っちゃって！
+c074_Kill_Monster_1:
+  en: I did it!
+  ko: 해냈다!
+  ja: やったわ！
+c074_Kill_Monster_2:
+  en: Hehe... Did you see that?
+  ko: 흐흥~ 봤지?
+  ja: ふふん、すごいでしょ？
+c074_Kill_Monster_3:
+  en: Get out of here!
+  ko: 저리 가!
+  ja: あっち行って！
+c074_Damage_1:
+  en: My clothes!
+  ko: 내 옷!
+  ja: 私の服が…！
+c074_Damage_2:
+  en: Ow!
+  ko: 아파!
+  ja: 痛っ！
+c074_Damage_3:
+  en: Urgh!
+  ko: 으윽…!
+  ja: ううっ…！
+c074_Die_1:
+  en: |-
+    Ugh... My clothes are ruined... and I wasn't any help...
+    I'm sorry, Commander.
+  ko: "으… 옷도 다 망가지고… 도움도 안 되고… \n미안해. 지휘관."
+  ja: |-
+    うう…服もボロボロだし、役にも立てなかったし…
+    ごめんなさい、指揮官…
+c074_Win_1:
+  en: Hehe. See, I told you I'd grown! I really helped out, didn't I?
+  ko: 흐흥~ 봐. 나 성장했다고 했지! 이 정도면 도움 된 거 맞지?
+  ja: |-
+    ふふんっ。ほらね、成長したって言ったでしょ？
+    これなら十分戦力になるわよね？
+74_cv_ja:
+  en: 'CV: Inori Minase'
+  ko: 'CV : 미나세 이노리'
+  ja: CV：水瀬いのり
+74_cv_ko:
+  en: 'CV: Lee Myung-hee'
+  ko: 'CV : 이명희'
+  ja: CV：イ・ミョンヒ
+74_cv_en:
+  en: 'CV: Lisa Reimold'
+  ko: 'CV : 리사 레이몰드'
+  ja: CV：Lisa Reimold

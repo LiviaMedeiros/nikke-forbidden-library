@@ -6698,3 +6698,496 @@ d_ex_cafe_12:
     ja: |-
       デルタが働いている間、
       過去最高の売上を記録したらしい
+d_ex_cafe_11:
+  d_ex_cafe_11_1:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_cafe_11_2:
+    speaker: frima
+    en: Hey.
+    ko: 여.
+    ja: よお。
+  d_ex_cafe_11_3:
+    speaker: "<Self>"
+    en: Hey, can I get a cup of coffee?
+    ko: 안녕, 커피 한 잔 돼?
+    ja: やあ、コーヒーをもらえるか？
+  d_ex_cafe_11_4:
+    speaker: frima
+    en: Hang on.
+    ko: 조금. 기달.
+    ja: 少し。待て。
+  d_ex_cafe_11_5:
+    speaker: frima
+    en: Customer.
+    ko: 손님.
+    ja: 客。
+  d_ex_cafe_11_6:
+    speaker: "<Monologue>"
+    en: Frima reaches out and points at someone.
+    ko: 프림은 손을 뻗어 누군가를 가리켰다.
+    ja: プリムは手を伸ばし、誰かを指さした
+  d_ex_cafe_11_7:
+    speaker: "<Self>"
+    en: Another customer?
+    ko: 손님?
+    ja: お客か？
+  d_ex_cafe_11_8:
+    speaker: soline_w
+    en: Oh, hey, Commander!
+    ko: 어라, 지휘관이잖아?
+    ja: あれ、指揮官？
+  d_ex_cafe_11_9:
+    speaker: "<Self>"
+    en: Hey, what are you doing here?
+    ko: 여기서 뭐 해?
+    ja: ここで何をしているんだ？
+  d_ex_cafe_11_10:
+    speaker: soline_w
+    en: Heh, it's nothing, really.
+    ko: 흐흥, 다른 건 아니고.
+    ja: ふふん、大したことじゃないんだけど～
+  d_ex_cafe_11_11:
+    speaker: soline_w
+    en: This is my regular coffee spot.
+    ko: 여기가 내 단골 커피집이거든.
+    ja: ここ、私の行きつけのコーヒー屋なの。
+  d_ex_cafe_11_12:
+    speaker: "<Self>"
+    en: You drink coffee now?
+    ko: 솔린이 커피를?
+    ja: ソリンがコーヒーだって？
+  d_ex_cafe_11_13:
+    speaker: soline_w
+    en: Heh,
+    ko: 흐흥.
+    ja: ふふっ。
+  d_ex_cafe_11_14:
+    speaker: soline_w
+    en: I'm not the Soline you used to know.
+    ko: 난 이제 지휘관이 알던 솔린이 아니야.
+    ja: 私はもう指揮官が知ってる私じゃないんだから。
+  d_ex_cafe_11_15:
+    speaker: soline_w
+    en: Both my mind and body have grown.
+    ko: 몸도 마음도 성장했단 말이지.
+    ja: 心も体も成長したの！
+  d_ex_cafe_11_16:
+    speaker: "<Self>"
+    en: "... Oh, I see."
+    ko: "…그렇구나."
+    ja: "…そうか"
+  d_ex_cafe_11_17:
+    speaker: soline_w
+    en: Of course! Enjoying a coffee like an adult is—
+    ko: 그럼! 그러니 어른의 취미인 커피를 즐기는 것쯤은….
+    ja: |-
+      そうよ！
+      だから大人の趣味のコーヒーを…
+  d_ex_cafe_11_18:
+    speaker: frima
+    en: Order?
+    ko: 주문. 무엇?
+    ja: 注文。何？
+  d_ex_cafe_11_19:
+    speaker: soline_w
+    en: Oh, right! I totally forgot to order.
+    ko: 아, 맞아. 주문을 잊고 있었네.
+    ja: あ、そうそう。注文するの忘れてた。
+  d_ex_cafe_11_20:
+    speaker: soline_w
+    en: The usual adult coffee, please.
+    ko: 늘 먹던 [어른 커피].
+    ja: いつもの「大人のコーヒー」で。
+  d_ex_cafe_11_21:
+    speaker: soline_w
+    en: Two cups,
+    ko: 두 잔 부탁할게.
+    ja: 今日は2杯ちょうだい。
+  d_ex_cafe_11_22:
+    speaker: soline_w
+    en: and make 'em strong this time.
+    ko: 이번엔 진하게.
+    ja: いつもより濃い目でね。
+  d_ex_cafe_11_23:
+    speaker: frima
+    en: Oh.
+    ko: 오.
+    ja: ほう。
+  d_ex_cafe_11_24:
+    speaker: frima
+    en: No regrets?
+    ko: 후회. 안 함?
+    ja: 後悔。しない？
+  d_ex_cafe_11_25:
+    speaker: soline_w
+    en: Yeah, I can handle it!
+    ko: 응, 각오는 됐어.
+    ja: うん。覚悟ならできてる。
+  d_ex_cafe_11_26:
+    speaker: frima
+    en: Okay.
+    ko: 확인.
+    ja: OK。
+  d_ex_cafe_11_27:
+    speaker: "<Monologue>"
+    en: Frima gets up to make some coffee.
+    ko: 프림은 커피를 제조하기 위해 자리에서 일어났다.
+    ja: プリムはコーヒーを淹れに席を立った
+  d_ex_cafe_11_28:
+    speaker: soline_w
+    en: This one's on me, Commander, so drink up!
+    ko: 한 잔은 내가 쏘는 거니까 지휘관도 마셔.
+    ja: 1杯は指揮官の分だよ。おごってあげる。
+  d_ex_cafe_11_29:
+    speaker: "<Self>"
+    en: Oh, really? Thanks.
+    ko: 오, 진짜? 잘 먹을게.
+    ja: おお、ありがとう
+  d_ex_cafe_11_30:
+    speaker: soline_w
+    en: Hehe, it's nothing.
+    ko: 흐, 흐흥~ 이쯤이야 뭐.
+    ja: "…ふ、ふふん～お礼なんて。"
+  d_ex_cafe_11_31:
+    speaker: soline_w
+    en: Adults give each other coffee all the time, right?
+    ko: 어른들은 이렇게 커피도 주고받고 하는 거잖아?
+    ja: |-
+      大人っていうのは
+      こうやっておごりあったりするもんでしょ？
+  d_ex_cafe_11_32:
+    speaker: soline_w
+    en: So don't go making a big deal out of it!
+    ko: 너무 부담 갖진 마~
+    ja: 気にしないでいいから～
+  d_ex_cafe_11_33:
+    speaker: frima
+    en: Done.
+    ko: 완성.
+    ja: 完成。
+  d_ex_cafe_11_34:
+    speaker: frima
+    en: Here. Two cups.
+    ko: 여기. 두 잔.
+    ja: どうぞ。2杯。
+  d_ex_cafe_11_35:
+    speaker: "<Narration>"
+    en: "*Clatter*"
+    ko: 달칵-
+    ja: カタッ
+  d_ex_cafe_11_36:
+    speaker: "<Monologue>"
+    en: Frima sets down two cups, each filled with a pale liquid that hardly looks
+      like coffee.
+    ko: |-
+      프림이 내온 잔에는 커피라고 보기 힘든
+      허여멀건한 액체가 담겨 있다.
+    ja: |-
+      プリムが持ってきたカップには
+      コーヒーとは言い難い、白色の液体が入っている
+  d_ex_cafe_11_37:
+    speaker: "<Self>"
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  d_ex_cafe_11_38:
+    speaker: soline_w
+    en: Whew... Here we go.
+    ko: 후… 좋아.
+    ja: ふぅ…よし。
+  d_ex_cafe_11_39:
+    speaker: soline_w
+    en: Don't blink, Commander!
+    ko: 지휘관, 잘 봐두라고?
+    ja: 指揮官、よく見ててよ？
+  d_ex_cafe_11_40:
+    speaker: "<Narration>"
+    en: "*Gulp, gulp*"
+    ko: 꿀꺽- 꿀꺽-
+    ja: ゴク、ゴクッ
+  d_ex_cafe_11_41:
+    speaker: "<Monologue>"
+    en: Soline shuts her eyes tight and chugs the coffee.
+    ko: 솔린은 눈을 질끈 감고 커피를 들이켰다.
+    ja: |-
+      ソリンはぎゅっと目をつぶり
+      コーヒーを飲み干した
+  d_ex_cafe_11_42:
+    speaker: soline_w
+    en: "!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_cafe_11_43:
+    speaker: "<Self>"
+    en: How is it?
+    ko: 어때?
+    ja: どうだ？
+  d_ex_cafe_11_44:
+    speaker: soline_w
+    en: I-it's...
+    ko: 마, 마….
+    ja: お、お…
+  d_ex_cafe_11_45:
+    speaker: frima
+    en: It's...?
+    ko: 마?
+    ja: お？
+  d_ex_cafe_11_46:
+    speaker: soline_w
+    en: Delicious...!
+    ko: 맛있어…!
+    ja: おいしい…！
+  d_ex_cafe_11_47:
+    speaker: soline_w
+    en: The coffee I had last time was so bitter... no, it just wasn't really my taste.
+    ko: 저번에 마셨던 커피는 너무 써… 아니, 좀 취향이 아니었는데.
+    ja: |-
+      この前のコーヒーは苦す…ううん！
+      私の好みとは合わなかったのに。
+  d_ex_cafe_11_48:
+    speaker: soline_w
+    en: But this one is just perfect.
+    ko: 이건 딱 입맛에 맞아서 맛있어.
+    ja: これは私が大好きな味。
+  d_ex_cafe_11_49:
+    speaker: soline_w
+    en: I finally get why Brid can't live without coffee!
+    ko: 브리드가 왜 커피를 끼고 사는지 드디어 알 것 같아!
+    ja: |-
+      ブリッドがコーヒーに目がない理由が
+      分かった気がする！
+  d_ex_cafe_11_50:
+    speaker: frima
+    en: Oh. Congrats.
+    ko: 오. 축하.
+    ja: おお。おめでとう。
+  d_ex_cafe_11_51:
+    speaker: soline_w
+    en: Hehe! How's that, Commander?
+    ko: 흐흥~ 어때 지휘관.
+    ja: ふふん～どう？指揮官。
+  d_ex_cafe_11_52:
+    speaker: soline_w
+    en: Look at this! Not. One. Drop. Left!
+    ko: 이거 봐, 한 방울도 안 남았지?
+    ja: ほら見て、一滴も残ってないでしょ？
+  d_ex_cafe_11_53:
+    speaker: "<Monologue>"
+    en: Soline holds out her completely empty cup.
+    ko: 솔린은 깨끗하게 비운 잔을 내밀었다.
+    ja: ソリンはきれいに空になったカップを見せた
+  d_ex_cafe_11_54:
+    speaker: soline_w
+    en: I've matured a lot since then.
+    ko: 그 사이에 난 더 성장했다고.
+    ja: 指揮官が知らない間に成長したんだから。
+  d_ex_cafe_11_55:
+    speaker: soline_w
+    en: How about you give it a try?
+    ko: 지휘관도 마셔 보는 게 어때?
+    ja: 指揮官も飲んでみて。
+  d_ex_cafe_11_56:
+    speaker: "<Self>"
+    en: "... Okay."
+    ko: "…알겠어."
+    ja: "…分かった"
+  d_ex_cafe_11_57:
+    speaker: "<Narration>"
+    en: "*Gulp*"
+    ko: 꿀꺽-
+    ja: ゴクッ
+  d_ex_cafe_11_58:
+    speaker: "<Self>"
+    en: "!"
+    ko: "!!!!"
+    ja: "！！！！"
+  d_ex_cafe_11_59:
+    speaker: "<Monologue>"
+    en: The tooth-achingly sweet flavor makes my head throb.
+    ko: 이가 시릴 정도의 단맛이 머리를 울린다.
+    ja: 歯にしみるほどの甘さが頭を突き抜ける
+  d_ex_cafe_11_60:
+    speaker: soline_w
+    en: What's this, Commander?
+    ko: 뭐야 지휘관~
+    ja: 指揮官ったら～
+  d_ex_cafe_11_61:
+    speaker: soline_w
+    en: Acting all grown-up, and now this is too much for you?
+    ko: 어른스러운 척하더니, 마시기 힘들어 보이는걸?
+    ja: 大人のくせに、こんなのも飲めないの？
+  d_ex_cafe_11_62:
+    speaker: "<Self>"
+    en: I-it's not that...
+    ko: 그, 그게 아니라….
+    ja: そ、そういうわけじゃ…
+  d_ex_cafe_11_63:
+    speaker: soline_w
+    en: It's okay, I used to be like that too.
+    ko: 괜찮아~ 나도 한때는 그랬으니까.
+    ja: 大丈夫。私も昔はそうだったから。
+  d_ex_cafe_11_64:
+    speaker: soline_w
+    en: No need to be embarrassed.
+    ko: 너무 부끄러워하지 않아도 돼.
+    ja: 恥ずかしがることないよ。
+  d_ex_cafe_11_65:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_cafe_11_66:
+    speaker: frima
+    en: Soline. Drank well.
+    ko: 솔린. 잘 마심.
+    ja: ソリン。いい。飲みっぷり。
+  d_ex_cafe_11_67:
+    speaker: frima
+    en: Very adult.
+    ko: 어른스러움.
+    ja: 大人。
+  d_ex_cafe_11_68:
+    speaker: frima
+    en: One more?
+    ko: 한 잔. 더?
+    ja: 1杯。追加？
+  d_ex_cafe_11_69:
+    speaker: soline_w
+    en: Huh, really? Should I?
+    ko: 엇, 그럴까?
+    ja: あ、そうしようかな？
+  d_ex_cafe_11_70:
+    speaker: frima
+    en: Got it.
+    ko: 접수.
+    ja: 了解。
+  d_ex_cafe_11_71:
+    speaker: soline_w
+    en: Heh! Watch closely, Commander.
+    ko: 흐흥~ 잘 봐두라고 지휘관.
+    ja: ふふん～よ～く見てて。
+  d_ex_cafe_11_72:
+    speaker: soline_w
+    en: I'll show you what it really means to be an adult.
+    ko: 내가 진짜 어른이 뭔지 보여줄 테니까.
+    ja: 真の大人ってやつを見せてあげるから。
+  d_ex_cafe_11_73:
+    speaker: "<Monologue>"
+    en: Excited, Soline gulps down a few more cups of coffee in a flash.
+    ko: 신이 난 솔린은 순식간에 커피 몇 잔을 비웠고
+    ja: |-
+      ソリンは得意げにおかわりをし、
+      次から次へとコーヒーを飲み干した
+  d_ex_cafe_11_74:
+    speaker: "<Monologue>"
+    en: And the result?
+    ko: 그 결과.
+    ja: その結果…
+  d_ex_cafe_11_75:
+    speaker: soline_w
+    en: "... Urgh."
+    ko: "…으."
+    ja: "…う…"
+  d_ex_cafe_11_76:
+    speaker: "<Self>"
+    en: Are you okay?
+    ko: 괜찮아?
+    ja: 大丈夫か？
+  d_ex_cafe_11_77:
+    speaker: soline_w
+    en: Ugghhh...
+    ko: 으엑….
+    ja: うえっ…
+  d_ex_cafe_11_78:
+    speaker: soline_w
+    en: My stomach feels weird,
+    ko: 뭔가 속이 이상해.
+    ja: ちょっと…気持ち悪い。
+  d_ex_cafe_11_79:
+    speaker: soline_w
+    en: and my head hurts too...
+    ko: 머리도 아픈 거 같고….
+    ja: 頭もガンガンしてきたし…
+  d_ex_cafe_11_80:
+    speaker: "<Self>"
+    en: Maybe you should ease up on the coffee.
+    ko: 이제 그만 마시는 게 좋을 것 같아.
+    ja: これ以上はやめておいたほうがいいと思う
+  d_ex_cafe_11_81:
+    speaker: soline_w
+    en: "*Gasp!*"
+    ko: 이익…!
+    ja: むっ…！
+  d_ex_cafe_11_82:
+    speaker: soline_w
+    en: I-I'm still totally okay!
+    ko: 나, 난 아직 멀쩡하거든?
+    ja: ぜ、全然平気だし。
+  d_ex_cafe_11_83:
+    speaker: "<Narration>"
+    en: "*Gurgle*"
+    ko: 꾸루룩-
+    ja: キュルル…
+  d_ex_cafe_11_84:
+    speaker: soline_w
+    en: Ugh...
+    ko: 윽….
+    ja: うっ…
+  d_ex_cafe_11_85:
+    speaker: "<Self>"
+    en: Don't be so stubborn.
+    ko: 고집부리지 말고.
+    ja: 意地を張るな
+  d_ex_cafe_11_86:
+    speaker: soline_w
+    en: "... Okay, I'll just go home?"
+    ko: "…알겠어, 집에 가면 되잖아."
+    ja: "…分かったってば。もう帰る。"
+  d_ex_cafe_11_87:
+    speaker: soline_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_cafe_11_88:
+    speaker: soline_w
+    en: "... C-Commander?"
+    ko: "…지, 지휘관."
+    ja: "…し、指揮官。"
+  d_ex_cafe_11_89:
+    speaker: "<Self>"
+    en: Yes?
+    ko: 왜?
+    ja: どうした？
+  d_ex_cafe_11_90:
+    speaker: soline_w
+    en: Um... can you hold my hand?
+    ko: 소… 손 좀 잡아주면 안 돼?
+    ja: て…手を貸してくれない？
+  d_ex_cafe_11_91:
+    speaker: soline_w
+    en: I don't think I can go on my own right now...
+    ko: 지금 나 혼자는 못 갈 것 같아서….
+    ja: ちょっと、一人では歩けなさそう…
+  d_ex_cafe_11_92:
+    speaker: "<Self>"
+    en: "... Sure."
+    ko: "…그래."
+    ja: "…分かった"
+  d_ex_cafe_11_93:
+    speaker: "<Monologue>"
+    en: Soline holds my hand as we head back to the dorm, promising not to overdo
+      it with coffee again.
+    ko: |-
+      솔린은 내 손을 잡고 숙소로 돌아가며,
+      다시는 커피를 과하게 먹지 않겠다고 다짐했다.
+    ja: |-
+      ソリンは私に引っ張られるように宿所に戻り、
+      二度とコーヒーを飲み過ぎないと誓った
+  d_ex_cafe_11_94:
+    speaker: "<Monologue>"
+    en: I suppose this is how she's slowly becoming an adult.
+    ko: 이렇게 솔린도 어른이 되어가는 거겠지.
+    ja: こうやってソリンも大人になるのだろう

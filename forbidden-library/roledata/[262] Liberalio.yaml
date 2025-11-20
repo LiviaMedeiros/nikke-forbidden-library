@@ -67,7 +67,7 @@ character_shot_description_localkey_sr_up:
     Removes Gentle Current.</color>
     ■ Activates when landing Full Charge attacks. Affects self if the enemy hit is a Rapture that is not the stage target.
     <color=#00AEFF>Gentle Current: Fixes charge time at {description_value_02} sec continuously.
-    Dispels Raging Current.</color>
+    Removes Raging Current.</color>
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Gains <word_group=10092>immunity to Increase Charge Speed effects</word_group> continuously. This effect cannot be dispelled.
     Gains <word_group=10093>immunity to Decrease Charge Speed effects</word_group> continuously. This effect cannot be dispelled.</color>
@@ -92,8 +92,10 @@ character_shot_description_localkey_sr_up:
     <color=#00AEFF>「緩流：チャージ時間{description_value_02}秒で固定」「持続」
     「激流解除」</color>
     ■戦闘開始時、自分に
-    <color=#00AEFF>「<word_group=10092>チャージ速度増加効果無効</word_group>」「持続」「解除不可」
-    「<word_group=10093>チャージ速度減少効果無効</word_group>」「持続」「解除不可」</color>
+    <color=#00AEFF>「<word_group=10092>チャージ速度増加効果無効</word_group>」「持続」
+    「解除不可」
+    「<word_group=10093>チャージ速度減少効果無効</word_group>」「持続」
+    「解除不可」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -131,7 +133,8 @@ skill_name_1003:
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の追加ダメージ」
     「5回発動」</color>
     ■フルバーストタイムが発動した時、
-    <word_group=10025>最終</word_group>攻撃力が一番低い<word_group=10082>基本バースト段階がⅢの</word_group>味方{description_value_08}機に
+    <word_group=10025>最終</word_group>攻撃力が一番低い
+    <word_group=10082>基本バースト段階がⅢの</word_group>味方{description_value_08}機に
     <color=#00AEFF>「スキル発動者基準で
     チャージ速度{description_value_06}％▲」「{description_value_07}秒間維持」</color>
 skill_name_1002:
