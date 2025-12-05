@@ -74,9 +74,12 @@ character_shot_description_localkey_ar_down:
     <color=#00AEFF>[과열 III : 공격 대미지 {description_value_06}% ▲] [지속]</color>
   ja: |-
     ■通常攻撃が{description_value_01}回命中した時、自分に
-    <color=#00AEFF>「過熱I：攻撃力{description_value_02}％▲」「最大装弾リロード完了時に解除」</color>
-    ■完全計算状態なら、通常攻撃が命中した時、自分に
-    <color=#00AEFF>「攻撃命中回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」</color>
+    <color=#00AEFF>「過熱I：攻撃力{description_value_02}％▲」
+    「最大装弾リロード完了時に解除」</color>
+    ■完全計算状態なら、
+    通常攻撃が命中した時、自分に
+    <color=#00AEFF>「攻撃命中回数別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」</color>
     {description_value_03}回：完全計算かつ過熱I状態の時に限り
     <color=#00AEFF>「過熱II：攻撃力{description_value_04}％▲」「持続」</color>
     {description_value_05}回：完全計算かつ過熱II状態の時に限り
@@ -89,13 +92,13 @@ skill_name_1003:
   en: Heat Emission
   ko: 방열
   ja: ヒートラジエーション
-25141_description:
+25141_description_1:
   en: |-
     ■ Activates when Prediction status ends. Affects self.
     <color=#00AEFF>Removes {description_value_01}% of bullets.
     Heat Emission: Reload Ratio ▼ {description_value_02}%. <word_group=10059>Removes Heat Emission under certain conditions.</word_group></color>
     ■ Activates only when in Heat Emission status. Affects self.
-    <color=#00AEFF>Recovers {description_value_03}% of <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
+    <color=#00AEFF>Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
     ■ Activates only when in Heat Emission status. Affects all allies.
     <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_04}% continuously.
     <word_group=10042>Pierce Damage</word_group> ▲ {description_value_05}% continuously.</color>
@@ -104,16 +107,18 @@ skill_name_1003:
     <color=#00AEFF>[탄환 {description_value_01}% 제거]
     [방열 : 재장전 비율 {description_value_02}% ▼] [<word_group=10059>방열 제거 조건</word_group>]</color>
     ■ 자신이 방열 상태일 때 한하여 자신에게
-    <color=#00AEFF>[<word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복] [1초 간격] [지속]</color>
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복] [1초 간격] [지속]</color>
     ■ 자신이 방열 상태일 때 한하여 아군 전체에게
     <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_04}% ▲] [지속]
     [<word_group=10042>관통 대미지</word_group> {description_value_05}% ▲] [지속]</color>
   ja: |-
     ■完全計算状態が終了した時、自分に
     <color=#00AEFF>「残弾数{description_value_01}％減少」
-    「放熱：リロード比率{description_value_02}％▼」「<word_group=10059>一定条件で解除</word_group>」</color>
+    「放熱：リロード比率{description_value_02}％▼」
+    「<word_group=10059>一定条件で解除</word_group>」</color>
     ■自分が放熱状態の時に限り、自分に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」「1秒間隔」「持続」</color>
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」
+    「1秒間隔」「持続」</color>
     ■自分が放熱状態の時に限り、味方全体に
     <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_04}％▲」「持続」
     「<word_group=10042>貫通ダメージ</word_group>{description_value_05}％▲」「持続」</color>
@@ -153,7 +158,8 @@ skill_name_1002:
   ja: |-
     ■自分に
     <color=#00AEFF>「完全計算」
-    「現在のHP{description_value_01}％▼」「1秒間隔」「10秒間維持」
+    「現在のHP{description_value_01}％▼」
+    「1秒間隔」「10秒間維持」
     「装弾数無限」「10秒間維持」
     「貫通特化」「10秒間維持」
     「<word_group=10042>貫通ダメージ</word_group>{description_value_02}％▲」「10秒間維持」

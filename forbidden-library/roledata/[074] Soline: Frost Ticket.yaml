@@ -59,7 +59,7 @@ character_shot_description_localkey_sg_down:
     Ticket count ▼ {description_value_03}.</color>
     ■ Activates at the start of battle. Affects all allies.
     <color=#00AEFF>First Train Discount for {description_value_04} sec.
-    Function: Tickets granted by I'll Help You Board the Train! will not be consumed.</color>
+    Function: The effects of I'll Help You Board the Train! will not consume tickets.</color>
   ko: |-
     ■ 자신을 포함한 아군 누군가의 체력이 {description_value_01}% 이하 도달 시 대상이 티켓 보유 상태라면 대상에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]
@@ -87,9 +87,9 @@ skill_name_1003:
   ja: チケットを拝見します！
 20741_description:
   en: |-
-    ■ Activates at the start of battle or when using Burst Skill. Affects all allies.
-    <color=#00AEFF>Issues 1 ticket, up to a maximum of 2. Continuous.
-    Ticket effect: Max HP ▲ number of tickets * {description_value_01}% of the caster's Max HP without restoring HP.</color>
+    ■ Activates at the start of battle and when using Burst Skill. Affects all allies.
+    <color=#00AEFF>Issues 1 ticket, up to a maximum of 2, continuously.
+    Ticket effect: Max HP ▲ number of tickets * {description_value_01}% of the caster's max HP.</color>
     ■ Activates when entering Full Burst. Affects all allies.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>
     ■ Activates when entering Full Burst. Affects all allies.
@@ -106,10 +106,12 @@ skill_name_1003:
     ■戦闘開始時またはバーストスキル使用時、
     味方全体に
     <color=#00AEFF>「乗車券1枚発券：最大2枚まで」「持続」
-    乗車券の効果：「スキル発動者基準で最大HPのみ{description_value_01}％×乗車券の枚数▲」</color>
+    乗車券の効果：「スキル発動者基準で
+    最大HPのみ{description_value_01}％×乗車券の枚数▲」</color>
     ■フルバーストタイムが発動した時、
     味方全体に<color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group> {description_value_03}秒▼」</color>
-    ■フルバーストタイムが発動した時、味方全体に
+    ■フルバーストタイムが発動した時、
+    味方全体に
     <color=#00AEFF>「早期割引解除」</color>
 skill_name_1002:
   en: Skill 1
@@ -281,6 +283,14 @@ material_characterskill_a_ssr_desc:
   en: Diesel
   ko: 디젤
   ja: ディーゼル
+75_name:
+  en: 'Diesel: Winter Sweets'
+  ko: '디젤 : 윈터 스위츠'
+  ja: ディーゼル：ウィンタースイーツ
+73_name:
+  en: 'Brid: Silent Track'
+  ko: '브리드 : 사일런트 트랙'
+  ja: ブリッド：サイレントトラック
 c074_Lobby_Touch_1:
   en: |-
     Well? Isn't this outfit pretty?

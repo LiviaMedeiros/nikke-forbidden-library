@@ -7664,3 +7664,660 @@ d_ex_maidcafe_12:
     ja: |-
       …遠くない将来、新しいバニーガールメイドが
       誕生するかもしれない
+d_ex_maidcafe_13:
+  d_ex_maidcafe_13_1:
+    speaker: "<Monologue>"
+    en: It's a quiet afternoon.
+    ko: 평화로운 오후.
+    ja: のどかな昼下がり
+  d_ex_maidcafe_13_2:
+    speaker: "<Monologue>"
+    en: I get a message from Diesel and Soline, and now I'm waiting at the Maid Cafe...
+    ko: 디젤과 솔린의 연락을 받고 메이드 카페에서 기다리던 중-
+    ja: |-
+      ディーゼルとソリンから連絡をもらい、
+      メイドカフェで待っていると…
+  d_ex_maidcafe_13_3:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_maidcafe_13_4:
+    speaker: brid_w
+    en: "... Diesel, do we really have to drink coffee here?"
+    ko: "…디젤, 꼭 여기서 커피를 마셔봐야 합니까?"
+    ja: |-
+      …ディーゼル、どうしてもここでコーヒーを
+      飲まなければならないのですか？
+  d_ex_maidcafe_13_5:
+    speaker: diesel_w
+    en: Of course! This is the cafe Soline recommended just for you!
+    ko: |-
+      물론이죠~
+      솔린이 브리드를 생각해서 추천해 준 카페잖아요~
+    ja: |-
+      はい～！ソリンがブリッドに
+      オススメしてくれたカフェですから～
+  d_ex_maidcafe_13_6:
+    speaker: diesel_w
+    en: She was actually the one who wanted to come the most, but something came up
+      and she couldn't.
+    ko: 정작 제일 오고 싶어 했던 솔린은 일이 생겨서 못 왔지만.
+    ja: |-
+      誰よりも来たがっていたソリンは
+      急用で来られませんでしたが
+  d_ex_maidcafe_13_7:
+    speaker: diesel_w
+    en: Still, she was super insistent that
+    ko: 둘이서라도 먼저 꼭! 가봐야 해!! 하고.
+    ja: 2人だけでも絶対に行って！！って
+  d_ex_maidcafe_13_8:
+    speaker: diesel_w
+    en: at least the two of us had to come and try it first!
+    ko: 엄청 강조했잖아요~
+    ja: 言ってましたよ～
+  d_ex_maidcafe_13_9:
+    speaker: brid_w
+    en: "*Sigh*"
+    ko: "…하아."
+    ja: "…はぁ。"
+  d_ex_maidcafe_13_10:
+    speaker: ade
+    en: Welcome back, Miss Diesel and Miss Brid.
+    ko: 다녀오셨어요, 디젤 아가씨, 브리드 아가씨.
+    ja: |-
+      お帰りなさいませ、
+      ディーゼルお嬢さま、ブリッドお嬢さま。
+  d_ex_maidcafe_13_11:
+    speaker: ade
+    en: Allow me to guide you to where Master is seated.
+    ko: 주인님이 앉아계신 이쪽으로 안내해 드리겠습니다.
+    ja: |-
+      ご主人様がお待ちです。
+      あちらのお席へご案内いたします。
+  d_ex_maidcafe_13_12:
+    speaker: "<Self>"
+    en: Hey, you two.
+    ko: 어서 와.
+    ja: やあ
+  d_ex_maidcafe_13_13:
+    speaker: diesel_w
+    en: Hehe, hi there!
+    ko: 후후, 안녕하세요~
+    ja: ふふ、こんにちは～
+  d_ex_maidcafe_13_14:
+    speaker: brid_w
+    en: I see the Commander is here as well.
+    ko: 지휘관도 와 계셨군요.
+    ja: 指揮官もいらっしゃったのですね。
+  d_ex_maidcafe_13_15:
+    speaker: "<Self>"
+    en: Yeah, Soline asked me to come in her place.
+    ko: 응, 솔린이 자기 대신에 가달라던데.
+    ja: |-
+      ああ、ソリンに自分の代わりに
+      行ってほしいと頼まれたんだ
+  d_ex_maidcafe_13_16:
+    speaker: brid_w
+    en: I see. So that's why you came.
+    ko: 그래서 오신 겁니까.
+    ja: それでいらしたんですね。
+  d_ex_maidcafe_13_17:
+    speaker: "<Self>"
+    en: Yeah, that's part of the reason, but mostly I just wanted to come.
+    ko: 응, 그것도 있는데 그냥 오고 싶어서 왔어.
+    ja: |-
+      ああ、それもあるが
+      単純にここに来たくて来たんだ
+  d_ex_maidcafe_13_18:
+    speaker: "<Self>"
+    en: I've been so busy that I haven't dropped by in a while.
+    ko: 바빠서 한동안 들리지 못했었거든.
+    ja: 忙しくて、しばらく寄れなかったからな
+  d_ex_maidcafe_13_19:
+    speaker: brid_w
+    en: "... It seems that everyone really likes this cafe."
+    ko: "…다들 이 카페를 굉장히 좋아하는 것 같군요."
+    ja: "…皆さん、このカフェがお好きなのですね。"
+  d_ex_maidcafe_13_20:
+    speaker: ade
+    en: Here is the menu.
+    ko: 메뉴판은 여기있습니다.
+    ja: メニューをお持ちいたしました。
+  d_ex_maidcafe_13_21:
+    speaker: ade
+    en: Please take your time perusing it, and let me know when you have made your
+      selection.
+    ko: 보시고 마음에 드는 메뉴로 말씀해주세요.
+    ja: お決まりになりましたら、お申しつけください。
+  d_ex_maidcafe_13_22:
+    speaker: diesel_w
+    en: I'll have a strawberry latte, please!
+    ko: 저는 딸기 라떼로 부탁드려요~
+    ja: 私はイチゴラテにします～
+  d_ex_maidcafe_13_23:
+    speaker: diesel_w
+    en: Make it super sweet!
+    ko: 아주 달콤하게요~
+    ja: 甘ーく甘ーくしてください～
+  d_ex_maidcafe_13_24:
+    speaker: "<Self>"
+    en: I'll have my usual.
+    ko: 나는 늘 먹던 커피로.
+    ja: 私はいつものコーヒーで
+  d_ex_maidcafe_13_25:
+    speaker: ade
+    en: Certainly.
+    ko: 네, 알겠습니다.
+    ja: はい、かしこまりました。
+  d_ex_maidcafe_13_26:
+    speaker: brid_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_13_27:
+    speaker: ade
+    en: Have you made your decision, Miss Brid?
+    ko: 브리드 아가씨, 결정하셨을까요?
+    ja: ブリッドお嬢さま、ご注文はお決まりですか？
+  d_ex_maidcafe_13_28:
+    speaker: brid_w
+    en: I heard that
+    ko: 누군가에게 들었습니다만.
+    ja: "…ある人から聞きました。"
+  d_ex_maidcafe_13_29:
+    speaker: brid_w
+    en: here, you can prepare what a customer wants, even without them saying a word.
+    ko: |-
+      여긴 원하는 메뉴를 말하지 않아도,
+      알아서 만들어준다고 하더군요.
+    ja: |-
+      この店では、客が求めているものを
+      作ってくれると。
+  d_ex_maidcafe_13_30:
+    speaker: brid_w
+    en: Is that correct?
+    ko: 맞습니까?
+    ja: 本当ですか？
+  d_ex_maidcafe_13_31:
+    speaker: ade
+    en: Certainly.
+    ko: 네, 물론입니다.
+    ja: ええ、もちろんです。
+  d_ex_maidcafe_13_32:
+    speaker: ade
+    en: Shall I prepare your drink according to your preference, Miss Brid?
+    ko: 브리드 아가씨가 원하시는 메뉴로 만들어드리면 될까요?
+    ja: |-
+      ではそのようにさせていただいても
+      よろしいでしょうか？
+  d_ex_maidcafe_13_33:
+    speaker: brid_w
+    en: Yes, please.
+    ko: 예, 부탁드립니다.
+    ja: はい、お願いします。
+  d_ex_maidcafe_13_34:
+    speaker: ade
+    en: Very well, if you would kindly wait for just a moment.
+    ko: 그럼, 세 분 다 잠시만 기다려주세요.
+    ja: それでは、少々お待ちくださいませ。
+  d_ex_maidcafe_13_35:
+    speaker: "<Monologue>"
+    en: After bowing, Ade collects the menus and disappears into the kitchen.
+    ko: 에이드는 인사 후, 메뉴판을 회수하여 주방으로 사라졌다.
+    ja: |-
+      エードは挨拶をすると、
+      メニューを回収しキッチンの奥へと消えた
+  d_ex_maidcafe_13_36:
+    speaker: diesel_w
+    en: Oh boy, I can't wait!
+    ko: 후후, 기대되네요~
+    ja: ふふっ、楽しみですね～
+  d_ex_maidcafe_13_37:
+    speaker: "<Self>"
+    en: Me neither.
+    ko: 나도 기대되네.
+    ja: ああ、楽しみだ
+  d_ex_maidcafe_13_38:
+    speaker: brid_w
+    en: Just how good must the items here be for you two to be acting like this?
+    ko: 대체 여기 메뉴가 얼마나 맛있길래 그러시는 겁니까.
+    ja: |-
+      そんなにおいしいのですか？
+      皆さんがそこまで仰るなんて。
+  d_ex_maidcafe_13_39:
+    speaker: diesel_w
+    en: I've tagged along with Soline a few times,
+    ko: 솔린을 따라서 몇 번 와봤었는데~
+    ja: |-
+      ソリンに付き合って
+      何度か来たことがありますが～
+  d_ex_maidcafe_13_40:
+    speaker: diesel_w
+    en: and it's always been really satisfying, hehe.
+    ko: 아주 만족스러웠어요, 후후.
+    ja: 毎回大満足でした、ふふっ。
+  d_ex_maidcafe_13_41:
+    speaker: "<Self>"
+    en: I like that they always make it just the way I want.
+    ko: 늘 내가 원하는 메뉴로 만들어주니까, 좋아.
+    ja: いつも私好みのものを作ってくれるんだ
+  d_ex_maidcafe_13_42:
+    speaker: brid_w
+    en: Is that so?
+    ko: 그렇습니까.
+    ja: そうですか。
+  d_ex_maidcafe_13_43:
+    speaker: brid_w
+    en: Hm...
+    ko: 흠.
+    ja: ふむ…
+  d_ex_maidcafe_13_44:
+    speaker: "<Self>"
+    en: By the way, why didn't you just order from the menu, Brid?
+    ko: 그나저나 브리드는 왜 메뉴를 직접 말하지 않았어?
+    ja: |-
+      ところでブリッドはどうして
+      メニューから注文しなかったんだ？
+  d_ex_maidcafe_13_45:
+    speaker: brid_w
+    en: "... At first,"
+    ko: "…그건."
+    ja: それは…
+  d_ex_maidcafe_13_46:
+    speaker: brid_w
+    en: it was out of a bit of stubbornness.
+    ko: 처음엔 조금 오기를 부려 그렇게 이야기했습니다.
+    ja: 少し、試したくなってしまったのです。
+  d_ex_maidcafe_13_47:
+    speaker: brid_w
+    en: I was curious—still am, in fact—to see whether they could truly make what
+      I had in mind.
+    ko: 정말 제가 원하는 메뉴를 만들어 올 수 있을까, 궁금했죠.
+    ja: |-
+      本当に私の求めるものを
+      作ることができるのか、気になって。
+  d_ex_maidcafe_13_48:
+    speaker: brid_w
+    en: But after hearing Ade's confident reply,
+    ko: 그런데 망설임 없는 에이드의 답변을 듣고.
+    ja: ですが、エードの迷いのない答えを聞いて
+  d_ex_maidcafe_13_49:
+    speaker: brid_w
+    en: I find myself starting to look forward to it.
+    ko: 조금은 기대가 되기 시작했습니다.
+    ja: だんだん楽しみになってきました。
+  d_ex_maidcafe_13_50:
+    speaker: diesel_w
+    en: Oh, I think it's already done.
+    ko: 앗, 벌써 다 됐나 봐요~
+    ja: あら、もう出来上がったみたいですよ～
+  d_ex_maidcafe_13_51:
+    speaker: diesel_w
+    en: Here she comes!
+    ko: 저기 나오네요.
+    ja: ほら、あそこ。
+  d_ex_maidcafe_13_52:
+    speaker: "<Monologue>"
+    en: Ade returns with three drinks in hand.
+    ko: 에이드가 음료를 세잔 들고, 우리 쪽으로 다시 다가왔다.
+    ja: |-
+      エードがドリンクを3杯持って
+      こちらに向かってくる
+  d_ex_maidcafe_13_53:
+    speaker: ade
+    en: Thank you for waiting.
+    ko: 기다려주셔서 감사합니다.
+    ja: 大変お待たせいたしました。
+  d_ex_maidcafe_13_54:
+    speaker: ade
+    en: Miss Diesel, your strawberry latte as ordered.
+    ko: 디젤 아가씨, 주문하신 딸기 라떼입니다.
+    ja: |-
+      ディーゼルお嬢さま、
+      ご注文のイチゴラテをお持ちいたしました。
+  d_ex_maidcafe_13_55:
+    speaker: diesel_w
+    en: Oh my, thank you!
+    ko: 어머, 감사합니다~
+    ja: まあ、ありがとうございます～
+  d_ex_maidcafe_13_56:
+    speaker: ade
+    en: Master, I have prepared your usual coffee.
+    ko: 주인님, 주문하신 늘 드시던 커피입니다.
+    ja: ご主人様、いつものコーヒーでございます。
+  d_ex_maidcafe_13_57:
+    speaker: "<Self>"
+    en: Thank you very much.
+    ko: 고마워, 잘 마실게.
+    ja: ありがとう、いただきます
+  d_ex_maidcafe_13_58:
+    speaker: ade
+    en: And Miss Brid,
+    ko: 그리고 브리드 아가씨.
+    ja: それから、ブリッドお嬢さま。
+  d_ex_maidcafe_13_59:
+    speaker: ade
+    en: here is the drink you requested.
+    ko: 주문하신 음료 나왔습니다.
+    ja: お待たせいたしました。ご注文のドリンクです。
+  d_ex_maidcafe_13_60:
+    speaker: brid_w
+    en: This is...
+    ko: 이 메뉴는….
+    ja: これは…
+  d_ex_maidcafe_13_61:
+    speaker: brid_w
+    en: Hm...
+    ko: 흠.
+    ja: ふむ。
+  d_ex_maidcafe_13_62:
+    speaker: brid_w
+    en: Pour-over coffee, I presume?
+    ko: 핸드 드립 커피, 맞습니까?
+    ja: ハンドドリップコーヒー…ですよね？
+  d_ex_maidcafe_13_63:
+    speaker: ade
+    en: Indeed. It is rather hot, so do allow it to cool a little before partaking.
+    ko: 맞습니다, 뜨거우니 살짝 식혀 드세요.
+    ja: |-
+      さようでございます。熱いので
+      お気をつけてお召し上がりくださいませ。
+  d_ex_maidcafe_13_64:
+    speaker: brid_w
+    en: Thank you.
+    ko: 잘 마시겠습니다.
+    ja: いただきます。
+  d_ex_maidcafe_13_65:
+    speaker: "<Narration>"
+    en: "*Sip*"
+    ko: 후릅-
+    ja: ゴクッ…
+  d_ex_maidcafe_13_66:
+    speaker: brid_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_13_67:
+    speaker: brid_w
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_maidcafe_13_68:
+    speaker: brid_w
+    en: Remarkable.
+    ko: 대단하군요.
+    ja: 素晴らしいです。
+  d_ex_maidcafe_13_69:
+    speaker: brid_w
+    en: I've never had such a perfect pour-over coffee before.
+    ko: 이런 완벽한 핸드 드립 커피는 처음 마셔봅니다.
+    ja: |-
+      これほど完璧なハンドドリップコーヒーを
+      飲んだのは初めてです。
+  d_ex_maidcafe_13_70:
+    speaker: brid_w
+    en: I didn't realize coffee could leave such a lingering impression.
+    ko: 커피에서 이런 여운이 남을 수도 있군요.
+    ja: |-
+      コーヒーからこのような
+      余韻を感じることがあるのですね。
+  d_ex_maidcafe_13_71:
+    speaker: brid_w
+    en: More than that...
+    ko: 심지어.
+    ja: しかも…
+  d_ex_maidcafe_13_72:
+    speaker: "<Narration>"
+    en: "*Sip*"
+    ko: 후릅-
+    ja: ゴクッ…
+  d_ex_maidcafe_13_73:
+    speaker: brid_w
+    en: It's as if you've read my mind.
+    ko: 정말 제 마음을 읽으신 것 같아요.
+    ja: まるで私の心を読んだかのようですね。
+  d_ex_maidcafe_13_74:
+    speaker: brid_w
+    en: Today, I was actually in the mood for a nutty, roasted coffee rather than
+      something bright,
+    ko: |-
+      오늘은 마침, 신 커피가 아니라
+      고소한 맛의 커피가 마시고 싶었는데.
+    ja: |-
+      今日は酸味の強いコーヒーではなく
+      香ばしいコーヒーの気分だったのですが
+  d_ex_maidcafe_13_75:
+    speaker: brid_w
+    en: and even that is flawless.
+    ko: 그것마저 완벽합니다.
+    ja: それさえも完璧です。
+  d_ex_maidcafe_13_76:
+    speaker: ade
+    en: I am truly glad it pleases you, Miss Brid.
+    ko: 아가씨의 마음에 든 것 같아, 정말 다행이에요.
+    ja: |-
+      お気に召していただけたようで
+      よかったです。
+  d_ex_maidcafe_13_77:
+    speaker: ade
+    en: I do hope you enjoy your tea time.
+    ko: 그럼 즐거운 티타임 되시길 바랍니다.
+    ja: |-
+      それでは、楽しいティータイムを
+      お過ごしくださいませ。
+  d_ex_maidcafe_13_78:
+    speaker: ade
+    en: I shall take—
+    ko: 저는 이만….
+    ja: では、失礼いたしま…
+  d_ex_maidcafe_13_79:
+    speaker: brid_w
+    en: Just a moment.
+    ko: 잠깐만요.
+    ja: 待ってください。
+  d_ex_maidcafe_13_80:
+    speaker: ade
+    en: Yes, Miss Brid?
+    ko: 네, 아가씨?
+    ja: はい、お嬢さま。
+  d_ex_maidcafe_13_81:
+    speaker: ade
+    en: Might there be anything else you require?
+    ko: 더 필요한 거라도 있으실까요?
+    ja: 他に何かご入用でしょうか。
+  d_ex_maidcafe_13_82:
+    speaker: brid_w
+    en: No, that's not it. I have a question.
+    ko: 아뇨, 그게 아니라 궁금한 게 있습니다.
+    ja: |-
+      いえ。そうではなく…
+      聞きたいことがあります。
+  d_ex_maidcafe_13_83:
+    speaker: brid_w
+    en: How did you know what I wanted?
+    ko: 제가 원하는 메뉴를 어떻게 아셨습니까?
+    ja: |-
+      私の求めていたものが、
+      どうして分かったのですか？
+  d_ex_maidcafe_13_84:
+    speaker: "<Self>"
+    en: I'm curious about that, too.
+    ko: 그건 나도 궁금해.
+    ja: 私も気になるな
+  d_ex_maidcafe_13_85:
+    speaker: ade
+    en: First, I observed your gaze as you perused the menu.
+    ko: 우선, 메뉴판을 살피는 아가씨의 시선을 관찰했습니다.
+    ja: |-
+      まず、メニューをご覧になっている
+      お嬢さまの視線に着目いたしました。
+  d_ex_maidcafe_13_86:
+    speaker: ade
+    en: It immediately went to the coffee section.
+    ko: 커피가 있는 쪽으로 제일 먼저 시선이 가셨죠.
+    ja: |-
+      真っ先にコーヒーのページを
+      ご覧になっていたのです。
+  d_ex_maidcafe_13_87:
+    speaker: ade
+    en: Then, when Miss Diesel mentioned her preference for a sweet strawberry latte,
+    ko: |-
+      그리고 디젤 아가씨가
+      딸기 라떼 메뉴를 시키며 달콤한 맛을 언급했을 때,
+    ja: |-
+      また、ディーゼルお嬢さまが
+      イチゴラテをご注文され、
+      甘くしてほしいと仰ったとき
+  d_ex_maidcafe_13_88:
+    speaker: ade
+    en: I noticed that you very subtly furrowed your brow.
+    ko: |-
+      브리드 아가씨가
+      아주 미세하게 미간을 살짝 찌푸리셨습니다.
+    ja: |-
+      ブリッドお嬢さまは
+      わずかに眉をひそめていらっしゃいました。
+  d_ex_maidcafe_13_89:
+    speaker: ade
+    en: From this delicate gesture, I inferred that you are not fond of sweet flavors,
+      and thus I presented you with unsweetened coffee.
+    ko: |-
+      거기서 달콤한 맛을 선호하시지 않는다는 힌트를 얻어,
+      달지 않은 커피로 내어드렸죠.
+    ja: |-
+      そこから、甘いものはお好みではないと判断し、
+      甘くないコーヒーをご用意させて
+      いただいたのです。
+  d_ex_maidcafe_13_90:
+    speaker: brid_w
+    en: But how did you know I prefer a nutty flavor?
+    ko: 그럼 고소한 맛은 어떻게 아셨습니까?
+    ja: |-
+      では、香ばしいコーヒーの気分だということは
+      どうして分かったのですか？
+  d_ex_maidcafe_13_91:
+    speaker: ade
+    en: Ah, that...
+    ko: 아, 그건….
+    ja: ああ、それは…
+  d_ex_maidcafe_13_92:
+    speaker: ade
+    en: I suppose you could call it intuition.
+    ko: 그냥 감이라고 말씀드릴 수 있겠네요.
+    ja: ただの勘とでも申しましょうか。
+  d_ex_maidcafe_13_93:
+    speaker: ade
+    en: Perhaps you and I are perfectly attuned, hehe.
+    ko: 저와 브리드 아가씨의 마음이 통한 거겠지요, 후후.
+    ja: |-
+      私とブリッドお嬢さまの
+      心が通じたのでしょう、ふふっ。
+  d_ex_maidcafe_13_94:
+    speaker: brid_w
+    en: "... I see."
+    ko: "…그렇군요."
+    ja: "…なるほど。"
+  d_ex_maidcafe_13_95:
+    speaker: brid_w
+    en: That's truly remarkable.
+    ko: 정말 대단하십니다.
+    ja: 本当にすごいです。
+  d_ex_maidcafe_13_96:
+    speaker: "<Monologue>"
+    en: Beside me, Diesel leans in and speaks softly.
+    ko: 옆에 있던 디젤이 내게 작은 목소리로 말을 걸었다.
+    ja: 隣にいるディーゼルが私に小声で話しかけた
+  d_ex_maidcafe_13_97:
+    speaker: diesel_w
+    en: Commander, it's been a while since I've seen Brid this excited!
+    ko: 지휘관, 브리드가 저렇게 들뜬 건 오랜만에 봐요~
+    ja: |-
+      指揮官、こんなにテンションが上がっている
+      ブリッドは久しぶりに見ました～
+  d_ex_maidcafe_13_98:
+    speaker: diesel_w
+    en: She must really like her coffee!
+    ko: 커피가 정말 마음에 들었나 봐요~
+    ja: コーヒー、とっても気に入ったみたいです～
+  d_ex_maidcafe_13_99:
+    speaker: diesel_w
+    en: Hehe, I guess it was worth dragging her here, huh?
+    ko: 후후, 억지로라도 끌고 온 보람이 있네요. 그렇죠?
+    ja: |-
+      ふふっ、無理やり
+      連れてきたかいがありましたね？
+  d_ex_maidcafe_13_100:
+    speaker: "<Self>"
+    en: Totally.
+    ko: 그러게.
+    ja: そうだな
+  d_ex_maidcafe_13_101:
+    speaker: brid_w
+    en: Excuse me, I've already finished this cup.
+    ko: 저, 벌써 한잔을 다 비워서 그런데.
+    ja: あっという間に飲み干してしまいました。
+  d_ex_maidcafe_13_102:
+    speaker: brid_w
+    en: Could I get a refill?
+    ko: 한 잔 더 추가해 주실 수 있을까요?
+    ja: おかわりをいただけますか？
+  d_ex_maidcafe_13_103:
+    speaker: ade
+    en: Of course, Miss Brid.
+    ko: 당연하죠, 아가씨.
+    ja: もちろんです、お嬢さま。
+  d_ex_maidcafe_13_104:
+    speaker: ade
+    en: Kindly wait just a moment.
+    ko: 잠시만 기다려주세요.
+    ja: 少々お待ちくださいませ。
+  d_ex_maidcafe_13_105:
+    speaker: "<Monologue>"
+    en: The moment Ade walks away, I ask Brid.
+    ko: 나는 에이드가 멀어지자마자, 브리드에게 물었다.
+    ja: |-
+      エードが離れていくと、
+      私はすぐさまブリッドに話しかけた
+  d_ex_maidcafe_13_106:
+    speaker: "<Self>"
+    en: How is it?
+    ko: 어땠어?
+    ja: どうだった？
+  d_ex_maidcafe_13_107:
+    speaker: brid_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_maidcafe_13_108:
+    speaker: brid_w
+    en: "... I might end up becoming a regular here."
+    ko: "…저도 단골이 될지도 모르겠군요."
+    ja: "…私も常連になってしまうかもしれません。"
+  d_ex_maidcafe_13_109:
+    speaker: brid_w
+    en: I ought to thank Soline for the recommendation.
+    ko: 솔린에게 감사 인사를 전해야겠습니다.
+    ja: ソリンにお礼を伝えようと思います。
+  d_ex_maidcafe_13_110:
+    speaker: diesel_w
+    en: Hehe, Soline's going to be so thrilled to hear that!
+    ko: 후후, 솔린이 무척 좋아하겠네요~
+    ja: ふふ、きっとソリンが大喜びしますよ～
+  d_ex_maidcafe_13_111:
+    speaker: diesel_w
+    en: Then, Commander, shall we have a taste too?
+    ko: 그럼, 지휘관. 우리도 마셔볼까요?
+    ja: では、指揮官。私たちもいただきましょう！
+  d_ex_maidcafe_13_112:
+    speaker: "<Monologue>"
+    en: And so our delightful tea time continues.
+    ko: 그렇게 우리는 즐거운 티타임을 이어갔고.
+    ja: こうして、私たちは楽しいティータイムを過ごし
+  d_ex_maidcafe_13_113:
+    speaker: "<Monologue>"
+    en: On the way back, Brid carries coffee in both hands as we head off.
+    ko: 브리드는 돌아가는 길에 커피를 양손 가득 포장해 갔다.
+    ja: |-
+      ブリッドは帰り際、コーヒーを
+      両手いっぱいテイクアウトしたのだった

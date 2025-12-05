@@ -1,0 +1,591 @@
+---
+75_name:
+  en: 'Diesel: Winter Sweets'
+  ko: '디젤 : 윈터 스위츠'
+  ja: ディーゼル：ウィンタースイーツ
+c075_description:
+  en: |-
+    To create lasting memories for AZX's passengers, she personally took up the mic.
+    For a peaceful sleep on board, we recommend using earplugs.
+  ko: |-
+    AZX 승객들에게 즐거운 추억을 만들어 주기 위해, 직접 마이크를 들었다.
+    열차 내에서는 숙면을 위해 귀마개 사용을 추천한다.
+  ja: |-
+    AZXの乗客に楽しい思い出を作ろうと、マイクを握った。
+    列車の中で熟睡したければ耳栓の使用をお勧めする。
+75_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_75:
+  en: 'Diesel: Winter Sweets'' Spare Body'
+  ko: '디젤 : 윈터 스위츠 스페어 바디'
+  ja: ディーゼル：ウィンタースイーツのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20752_name:
+  en: I'm Gonna Sing Now!
+  ko: 노래할게요!
+  ja: 歌います！
+20752_description:
+  en: |-
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies (except self).
+    <color=#00AEFF>Mute: Gains immunity to Noise Pollution continuously, stacks up to {description_value_01} time(s).</color>
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self.
+    <color=#00AEFF>Sustained damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates when attacking with Full Charge. Affects self.
+    <color=#00AEFF>Sustained damage ▲ {description_value_02}% for {description_value_03} sec, stacks up to {description_value_06} time(s).</color>
+    ■ Activates when entering Full Burst. Affects the stage target.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_08} sec.</color>
+  ko: |-
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 자신을 제외한 아군 전체에게
+    <color=#00AEFF>[음소거 : 소음 공해 면역] [{description_value_01} 중첩] [지속]</color>
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_02}% ▲] [{description_value_06} 중첩] [{description_value_03}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 타겟에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 지속 대미지] [1초 간격] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■自分を含む味方の誰かが
+    <word_group=10052>パーツを破壊した時</word_group>自分を除く味方全体に
+    <color=#00AEFF>「消音：騒音公害免疫」「{description_value_01}スタック」「持続」</color>
+    ■自分を含む味方の誰かが
+    <word_group=10052>パーツを破壊した時</word_group>自分に
+    <color=#00AEFF>「持続ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「持続ダメージ{description_value_02}％▲」「{description_value_06}スタック」「{description_value_03}秒間維持」</color>
+    ■フルバーストタイムが発動した時、
+    ターゲットに
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％の持続ダメージ」
+    「1秒間隔」「{description_value_08}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20751_name:
+  en: Ah Ah, Mic Test
+  ko: 아아, 마이크 테스트
+  ja: あーあー、マイクテスト
+20751_description:
+  en: |-
+    ■ Activates when entering Full Burst for the first time after using own Burst Skill. Affects self.
+    <color=#00AEFF>Intro: Critical damage ▲ {description_value_01}% continuously. This effect cannot be dispelled. Effect persists after revival.</color>
+    ■ Activates when entering Full Burst for the first time without using own Burst Skill. Affects self.
+    <color=#00AEFF>Highlight: Critical damage ▲ {description_value_02}% continuously. This effect cannot be dispelled. Effect persists after revival.</color>
+    ■ Activates when entering Full Burst. Affects self if in Intro status.
+    <color=#00AEFF>Sustained damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when entering Full Burst. Affects self if in Highlight status.
+    <color=#00AEFF>Sustained damage ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 첫 풀 버스트 타임 시작 시 자신이 직전에 버스트 스킬을 사용했다면 자신에게
+    <color=#00AEFF>[인트로 : 크리티컬 대미지 {description_value_01}% ▲] [지속] [해제 불가] [부활 시 유지]</color>
+    ■ 첫 풀 버스트 타임 시작 시 자신이 직전에 버스트 스킬을 사용하지 않았다면 자신에게
+    <color=#00AEFF>[클라이막스 : 크리티컬 대미지 {description_value_02}% ▲] [지속] [해제 불가] [부활 시 유지]</color>
+    ■ 풀 버스트 타임 시작 시 인트로 상태라면 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 클라이막스 상태라면 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■初めてフルバーストタイムが発動した時、
+    直前に自分がバーストスキルを
+    使用していれば自分に
+    <color=#00AEFF>「イントロ：クリティカルダメージ
+    {description_value_01}％▲」「持続」「解除不可」
+    「復活後も維持」</color>
+    ■初めてフルバーストタイムが発動した時、
+    直前に自分がバーストスキルを
+    使用していなければ自分に
+    <color=#00AEFF>「クライマックス：
+    クリティカルダメージ{description_value_02}％▲」「持続」「解除不可」
+    「復活後も維持」</color>
+    ■フルバーストタイムが発動した時、
+    イントロ状態なら自分に
+    <color=#00AEFF>「持続ダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+    ■フルバーストタイムが発動した時、
+    クライマックス状態なら自分に
+    <color=#00AEFF>「持続ダメージ{description_value_05}％▲」
+    「{description_value_06}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10753_name:
+  en: La La La ♬
+  ko: 라라라♬
+  ja: ラララ♬
+10753_description:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Damage taken ▲ {description_value_08}% for {description_value_09} sec.
+    Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_02} sec.</color>
+    ■ Affects the enemy if the enemy is the stage target.
+    <color=#00AEFF>Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_07} sec.</color>
+    ■ Affects all allies (except self) if self is in Highlight status.
+    <color=#00AEFF>Noise Pollution: Hit rate ▼ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all allies if self is in Highlight status.
+    <color=#00AEFF>Stack count of Mute ▼ {description_value_05}.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_08}% ▲] [{description_value_09}초 유지]
+    [<word_group=10025>최종</word_group> 공격력 {description_value_01}% 지속 대미지] [1초 간격] [{description_value_02}초 유지]</color>
+    ■ 대상이 타겟이라면 동일 적 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_06}% 지속 대미지] [1초 간격] [{description_value_07}초 유지]</color>
+    ■ 자신이 클라이막스 상태라면 자신을 제외한 아군 전체에게
+    <color=#00AEFF>[소음 공해 : 명중률 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
+    ■ 자신이 클라이막스 상태라면 아군 전체에게
+    <color=#00AEFF>[음소거 중첩량 {description_value_05}개 ▼]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「受けるダメージ{description_value_08}％▲」「{description_value_09}秒間維持」
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の持続ダメージ」
+    「1秒間隔」「{description_value_02}秒間維持」</color>
+    ■対象がターゲットなら、同じ敵に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％の持続ダメージ」
+    「1秒間隔」「{description_value_07}秒間維持」</color>
+    ■自分がクライマックス状態なら、自分を除く味方全体に
+    <color=#00AEFF>「騒音公害：命中率{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+    ■自分がクライマックス状態なら、味方全体に
+    <color=#00AEFF>「消音スタック量{description_value_05}個▼」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+70_name:
+  en: Brid
+  ko: 브리드
+  ja: ブリッド
+71_name:
+  en: Soline
+  ko: 솔린
+  ja: ソリン
+72_name:
+  en: Diesel
+  ko: 디젤
+  ja: ディーゼル
+74_name:
+  en: 'Soline: Frost Ticket'
+  ko: '솔린 : 프로스트 티켓'
+  ja: ソリン：フロストチケット
+73_name:
+  en: 'Brid: Silent Track'
+  ko: '브리드 : 사일런트 트랙'
+  ja: ブリッド：サイレントトラック
+c075_Lobby_Touch_1:
+  en: This strawberry candy was specially made by the Cooking Oil Squad. Let me know
+    if you need some!
+  ko: |-
+    이번 딸기 사탕은 쿠킹 오일 스쿼드에서 특별히 만들어주셨답니다.
+    필요하면 언제든 말씀해 주세요~
+  ja: |-
+    今回のイチゴキャンディは、クッキングオイル部隊が
+    特別に作ってくださったんです。
+    必要ならいつでも言ってくださいね～
+c075_Lobby_Touch_2:
+  en: I can't believe the AZX is finally taking civilians to the surface. Isn't it
+    wonderful?
+  ko: |-
+    AZX에 민간인 승객분을 모시고 지상에 올라가는 날이 오다니.
+    정말 멋진 일이 일어났네요~
+  ja: |-
+    AZXに民間人を乗せて地上に行ける日が来るなんて…
+    本当にすばらしいです～
+c075_Lobby_Touch_3:
+  en: Hehe, I'll do my best to make sure you have a comfortable journey.
+  ko: 후후, 여행하시는 동안 불편함이 없도록 최선을 다할게요.
+  ja: ふふっ。旅の道中でご不便がないよう、最善を尽くしますね。
+c075_Lobby_Touch_Love_1:
+  en: I hope all AZX passengers arrive at their desired destinations with only happy
+    memories.
+  ko: "AZX에 타신 모든 분들이 행복한 기억만 안고, \n원하는 종착지에 내리셨으면 좋겠어요."
+  ja: |-
+    AZXの乗客のみなさんが、
+    幸せな思い出だけを胸に目的地まで乗車できますように。
+c075_Lobby_Touch_Love_2:
+  en: The Cooking Oil Squad poured their hearts into making this candy! Would you
+    like to try some, Commander?
+  ko: 모처럼 쿠킹 오일 스쿼드 분들이 정성을 담아 만들어주신 사탕이니까, 지휘관도 한 번 드셔보시겠어요?
+  ja: |-
+    クッキングオイルのみなさんが真心を込めて
+    作ってくださったキャンディです。
+    指揮官も、おひとついかがですか～？
+c075_Lobby_Touch_Love_3:
+  en: Don't forget, Commander, you're our most important passenger!
+  ko: 지휘관은 언제나 저희의 최고의 승객이라는걸, 잊으시면 안 돼요~
+  ja: |-
+    指揮官はいつだって、私たちの最高の乗客なんです。
+    忘れないでくださいね～
+c075_Lobby_Stay_1:
+  en: Do re mi... Fa... So la ti... do... Ahem... my voice is all warmed up, but I
+    wonder where the Commander is...
+  ko: |-
+    도레미- 파- 솔라시- 도-
+    음~ 목도 다 풀렸는데, 지휘관은 어디 계시려나~
+  ja: |-
+    ド～レ～ミ～ファ～ソ～ラ～シ～ド～
+    う～ん…喉の調子が整ってきたのに、指揮官の姿が見えませんね～
+c075_Lobby_Stay_Love_1:
+  en: Do... Do... Do... Ti la so... Fa... Mi re... Do... Hehe, I'll be here practicing
+    my singing. Go do what you need to do.
+  ko: |-
+    도- 도- 도- 시라솔- 파- 미레- 도-
+    후후, 노래연습하고 있을게요. 편하게 일하고 오세요.
+  ja: |-
+    ド～ド～ド～シラソ～ファ～ミレ～ド～
+    ふふ、私は歌の練習をしていますね。
+    ゆっくりお仕事してきてください。
+c075_Outpost_Touch_1:
+  en: I hope one day the Outpost can serve as a departure and arrival station connected
+    to the surface!
+  ko: "언젠가 전초기지가 지상과 연결된 출발역이자, \n종착역이 될 수 있으면 좋겠네요."
+  ja: |-
+    いつか前哨基地が、 地上につながる始発駅であり
+    終着駅になったらいいですね。
+c075_Outpost_Touch_2:
+  en: I hope someday I can open a small candy store at the train station, and share
+    my strawberry candy with everyone!
+  ko: |-
+    기차역에 작은 사탕가게를 차려서,
+    모두와 딸기 사탕을 나눠먹는 날이 왔으면 좋겠네요~
+  ja: |-
+    鉄道駅に小さな キャンディ屋さんを開いて、
+    みんなと一緒に イチゴキャンディを食べるのが 夢なんです～
+c075_Outpost_Touch_3:
+  en: |-
+    Older fooolks! Younger fooolks! Everyoneee!
+    Let's gooo! To the Outpost train statiooon!
+  ko: "어른들도~ 아이들도~ 모두 모두~ \n전초기지 기차역으로~ 떠나보아요~"
+  ja: |-
+    大人も～子どもも～みん～な～
+    鉄道駅へ～出発進行～
+c075_Gacha_Get_1:
+  en: Welcome aboard the AZX that spreads happiness wherever it goes! I'm truly happy
+    to be on this journey with you, Commander!
+  ko: "행복을 싣고 달리는 AZX에 어서 오세요~ \n이번 여행도 지휘관과 함께할 수 있어서 정말 기뻐요."
+  ja: |-
+    幸せを乗せて走るAZXにようこそ～
+    今回の旅も、指揮官とご一緒できてとっても嬉しいです。
+c075_Reinforce_1:
+  en: Thanks for all the effort you put into preparing this!
+  ko: 준비하느라 고생 많으셨어요.
+  ja: 準備が大変だったでしょう？
+c075_Reinforce_2:
+  en: Hehe, this backup is awesome!
+  ko: 후후, 좋은 지원이네요~
+  ja: ふふ、素敵なご支援をありがとうございます～
+c075_Reinforce_3:
+  en: Now I can push onward even further.
+  ko: 더 멀리 나아갈 수 있겠어요.
+  ja: もっと遠くまで行けそうです。
+c075_Gift_1:
+  en: Oh my, when did you prepare all this? Thank you...
+  ko: |-
+    어머나, 이런 건 언제 준비하셨어요~
+    감사해요.
+  ja: |-
+    まあ…指揮官、いつ準備したんですか？
+    ふふっ、ありがとうございます。
+c075_Gift_2:
+  en: I'll return the favor with a ton of strawberry candy!
+  ko: 답례로 딸기 사탕을 한가득 챙겨드릴게요~!
+  ja: お返しに、イチゴキャンディを両手いっぱい差し上げますね～！
+c075_Gift_3:
+  en: This makes me feel just as happy as when I'm eating strawberry candy!
+  ko: 딸기 사탕을 먹고 있는 것만큼이나 행복한 기분이 드네요.
+  ja: イチゴキャンディを食べている時と同じくらい幸せです。
+c075_Attractive_Up_1:
+  en: |-
+    When I'm with you, I feel as excited and happy,
+    as if I was riding the AZX. I love it!
+  ko: "지휘관과 함께 있으면 AZX를 타는 것처럼, \n설레고 행복해져요. 그게 너무 좋아요."
+  ja: |-
+    指揮官と一緒にいると、AZXに乗っているみたいに
+    ワクワクするんです。
+    とても幸せで…とても心地がよくなります。
+c075_Attractive_Up_2:
+  en: I'd like to journey further and stay with you a little longer. Is... that okay?
+  ko: |-
+    좀 더 멀리, 오랫동안 함께 여행하고 싶어요.
+    그래도 될까요?
+  ja: |-
+    指揮官と一緒に、もっと遠くまで旅がしてみたいです。
+    …いいですか？
+c075_Attractive_Up_3:
+  en: I'm so glad I get to be with you on this long journey they call life...
+  ko: "인생이라는 긴 여행길에, \n지휘관과 함께할 수 있어서 정말 다행이에요."
+  ja: |-
+    人生という長い旅路の中で、
+    指揮官と一緒にいられる私は幸せ者です。
+c075_Party_Deploy_1:
+  en: Hehe, ready to depart together on the AZX?
+  ko: 후후, 저희 AZX와 함께 떠나보실까요?
+  ja: ふふ、私たちAZXと一緒に出発しますか？
+c075_Field_Touch_1:
+  en: Yep! I'm here!
+  ko: 네~ 여기 있답니다.
+  ja: は～い、ここにいま～す。
+c075_Field_Go_1:
+  en: Chugga chugga choo choo! All aboard!
+  ko: 칙칙폭폭~ 가볼까요?
+  ja: シュッシュッポッポー。さあ、行きましょうか？
+c075_Battle_Enter_1:
+  en: Watch out for collisions!
+  ko: 충돌에 조심하세요~!
+  ja: 衝突にご注意くださ～い！
+c075_Battle_Ready_1:
+  en: Don't worry. It'll all turn out okay!
+  ko: 걱정 마세요. 다 잘될 거예요.
+  ja: 心配いりません。きっと全部うまくいきます。
+c075_Battle_Ready_2:
+  en: I'll protect my passengers no matter what!
+  ko: 승객분들은 반드시 지킬 거예요.
+  ja: 乗客のみなさんは、必ずお守りいたします。
+c075_Battle_Ready_3:
+  en: I'll clear the way!
+  ko: 길을 정리하고 갈게요~
+  ja: 道を片付けてから行きますね～
+c075_Reload_1:
+  en: Time to regroup!
+  ko: 재정비 시간이네요~
+  ja: 再整備の時間です～
+c075_Reload_2:
+  en: I'm okay. I'm not tired yet!
+  ko: 괜찮아요. 아직 지치지 않았어요.
+  ja: 大丈夫です。まだまだ頑張れます。
+c075_Reload_3:
+  en: Now that I've seen you, I'm ready to go again!
+  ko: 얼굴도 봤으니, 다시 가볼게요~
+  ja: お顔が見れたので、戻りますね～
+c075_Ult_Skill_Ready_1:
+  en: It's time!
+  ko: 시간이 됐네요.
+  ja: 時間になりました。
+c075_Ult_Skill_1:
+  en: "*Deep breath* Let's siiinggg a sooonggg ♬"
+  ko: 스읍- 함께~ 노래해애애~♬
+  ja: |-
+    スーッ――
+    一緒に～歌いましょう～♬
+c075_FullBurst_1:
+  en: Let's push through just a bit longer!
+  ko: 다들 조금만 더 힘내서 달려볼까요~?
+  ja: みなさん、もう少しだけ頑張りましょう～！
+c075_Kill_Monster_1:
+  en: Wow, I did it!
+  ko: 어머나, 해냈어요.
+  ja: まあ、倒せちゃいました。
+c075_Kill_Monster_2:
+  en: Who's next!
+  ko: 다음으로 갈게요~
+  ja: 次に進みましょう～
+c075_Kill_Monster_3:
+  en: Wow!
+  ko: 와아~
+  ja: あら～
+c075_Damage_1:
+  en: Ugh!
+  ko: 읏.
+  ja: うっ。
+c075_Damage_2:
+  en: My clothes!
+  ko: 아… 옷이….
+  ja: あっ…服が…！
+c075_Damage_3:
+  en: Argh!
+  ko: 윽.
+  ja: あっ。
+c075_Die_1:
+  en: |-
+    Our journey wasn't supposed to end here...
+    I'm sorry, Commander. I need to rest for a bit...
+  ko: |-
+    여행을 끝내선 안되는데….
+    죄송해요, 지휘관. 조금만 쉴게요.
+  ja: |-
+    ここで旅を終わらせてはいけないのに…
+    ごめんなさい、指揮官…少しだけ、休ませてください…
+c075_Win_1:
+  en: What a great journey... On to the next station!
+  ko: 멋진 여행이었어요. 다음 역으로 떠나볼까요~?
+  ja: 素敵な旅でしたね。では、次の駅に出発しましょうか～
+75_cv_ja:
+  en: 'CV: Rie Takahashi'
+  ko: 'CV : 타카하시 리에'
+  ja: CV：高橋李依
+75_cv_ko:
+  en: 'CV: Kim You-rim'
+  ko: 'CV : 김유림'
+  ja: CV：キム・ユリム
+75_cv_en:
+  en: 'CV: Jenny Yokobori'
+  ko: 'CV : 제니 요코보리'
+  ja: CV：Jenny Yokobori

@@ -1,0 +1,519 @@
+---
+73_name:
+  en: 'Brid: Silent Track'
+  ko: '브리드 : 사일런트 트랙'
+  ja: ブリッド：サイレントトラック
+c073_description:
+  en: Brid, engineer of the AZX, who takes pride in her flawless operation, finally
+    has a moment to relax with a cup of coffee.
+  ko: AZX의 기관사로서 완벽한 운행을 자랑하는 브리드는, 이제 커피 한 잔 마실 여유가 생겼다.
+  ja: |-
+    AZXの機関士として完璧な運行を誇るブリッドは、
+    ようやくコーヒーを飲む余裕ができた。
+73_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_73:
+  en: 'Brid: Silent Track''s Spare Body'
+  ko: '브리드 : 사일런트 트랙 스페어 바디'
+  ja: ブリッド：サイレントトラックのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20732_name:
+  en: Journey Ahead
+  ko: 전도
+  ja: 前途良好
+20732_description:
+  en: |-
+    ■ Activates after {description_value_01} normal attack(s). Affects {description_value_02} Wind Code enemy unit(s) with the lowest remaining HP.
+    <color=#00AEFF>Damage Taken ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates after {description_value_05} normal attack(s). Affects {description_value_06} enemy unit(s) with the lowest remaining HP.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as damage.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 공격 시 남은 체력 수치가 가장 낮은 풍압 코드 적 {description_value_02}기에게
+    <color=#00AEFF>[받는 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 일반 공격 {description_value_05}회 공격 시 남은 체력 수치가 가장 낮은 적 {description_value_06}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 대미지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_01}回攻撃した時、
+    残りのHPの数値が最も低い
+    風圧コードの敵{description_value_02}機に
+    <color=#00AEFF>「受けるダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■通常攻撃で{description_value_05}回攻撃した時、
+    残りのHPの数値が最も低い敵{description_value_06}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％のダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20731_name:
+  en: Ignition Sequence
+  ko: 기동
+  ja: 出発進行
+20731_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects all Wind Code enemies.
+    <color=#00AEFF>Damage Taken ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects all enemies.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as damage.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 풍압 코드 적 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_01}% ▲]  [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 대미지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、
+    風圧コードの敵全体に
+    <color=#00AEFF>「受けるダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが発動した時、
+    敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％のダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10733_name:
+  en: Full Throttle
+  ko: 풀 마스콘
+  ja: 最大力行
+10733_description:
+  en: |-
+    ■ Affects all allies (except self).
+    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
+  ko: |-
+    ■ 자신을 제외한 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■自分を除く味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+70_name:
+  en: Brid
+  ko: 브리드
+  ja: ブリッド
+71_name:
+  en: Soline
+  ko: 솔린
+  ja: ソリン
+72_name:
+  en: Diesel
+  ko: 디젤
+  ja: ディーゼル
+74_name:
+  en: 'Soline: Frost Ticket'
+  ko: '솔린 : 프로스트 티켓'
+  ja: ソリン：フロストチケット
+75_name:
+  en: 'Diesel: Winter Sweets'
+  ko: '디젤 : 윈터 스위츠'
+  ja: ディーゼル：ウィンタースイーツ
+c073_Lobby_Touch_1:
+  en: What a meaningful day. The AZX will finally be able to take passengers to the
+    surface.
+  ko: |-
+    뜻깊은 날입니다.
+    AZX에 승객분을 모시고 지상을 여행할 수 있으니까요.
+  ja: |-
+    今日は記念すべき日です。
+    AZXに乗客の皆様を乗せて、地上へ行けるのですから。
+c073_Lobby_Touch_2:
+  en: I'm surprised. This outfit... is really comfortable.
+  ko: |-
+    놀랐습니다.
+    이 옷… 정말 편하군요.
+  ja: |-
+    驚きました。
+    この服…とても動きやすいです。
+c073_Lobby_Touch_3:
+  en: The safety of our passengers is my top priority.
+  ko: 승객의 안전을 최우선으로 생각하겠습니다.
+  ja: 乗客の安全を最優先に考えています。
+c073_Lobby_Touch_Love_1:
+  en: I feel reassured having you on this mission, Commander. I look forward to working
+    with you.
+  ko: |-
+    이번 임무, 지휘관이 함께라 든든합니다.
+    잘 부탁드리겠습니다.
+  ja: |-
+    今回の任務は、指揮官も同行されるのですね。
+    大変心強いです。よろしくお願いいたします。
+c073_Lobby_Touch_Love_2:
+  en: Would you like to have coffee with me? I'll get it ready.
+  ko: |-
+    같이 커피 한잔하시겠습니까?
+    제가 준비해 드리겠습니다.
+  ja: |-
+    一緒にコーヒーでもいかがですか？
+    私のほうでお淹れいたします。
+c073_Lobby_Touch_Love_3:
+  en: The scenery outside feels even more beautiful. I believe it's because you're
+    with me, Commander.
+  ko: |-
+    바깥 풍경이 한층 더 아름답게 느껴지는군요.
+    지휘관이 곁에 있어 주셔서 그런 것 같습니다.
+  ja: |-
+    外の景色がよりいっそう美しく感じられますね。
+    指揮官が一緒にいてくださるから、そう感じるのかもしれません。
+c073_Lobby_Stay_1:
+  en: Don't worry about me. Go attend to any business you might have.
+  ko: |-
+    저는 신경 쓰지 않으셔도 됩니다.
+    볼일이 있으면 다녀오십시오.
+  ja: |-
+    私のことはお気になさらず。
+    用事があるのでしたら遠慮なく行ってきてください。
+c073_Lobby_Stay_Love_1:
+  en: It feels like a shame to enjoy this view alone. Would you come and enjoy it
+    with me?
+  ko: |-
+    혼자 보기엔 너무 아까운 경치군요.
+    이리 와서 잠깐 같이 감상하시겠습니까?
+  ja: |-
+    一人で見るにはもったいなさすぎる景色ですので…
+    よろしければ、こちらで一緒に見ませんか？
+c073_Outpost_Touch_1:
+  en: Someday, the trains here will be able to run freely on the surface too.
+  ko: |-
+    언젠가 이곳의 열차도
+    지상을 자유롭게 달리는 날이 오겠지요.
+  ja: |-
+    いつかはここにある列車も、
+    地上を自由に走れる日が 来るのでしょう。
+c073_Outpost_Touch_2:
+  en: I wonder what the coffee at the Outpost's cafe tastes like.
+  ko: 전초기지 카페의 커피 맛은 어떨지, 궁금하네요.
+  ja: 前哨基地にあるカフェの、 コーヒーの味が気になりますね。
+c073_Outpost_Touch_3:
+  en: No wonder the station looks so spotless. Soline did an excellent job cleaning
+    it.
+  ko: |-
+    어쩐지 기차역이 깨끗하다 했더니,
+    솔린이 청소를 성실히 해둔 것 같군요.
+  ja: |-
+    鉄道駅がきれいになっていました。
+    ソリンが頑張って掃除を してくれたおかげのようです。
+c073_Gacha_Get_1:
+  en: I will take you safely to your desired destination.
+  ko: 원하시는 목적지까지, 안전하게 모시겠습니다.
+  ja: ご希望の目的地まで、安全運転で運行してまいります。
+c073_Reinforce_1:
+  en: This is a great start. Thank you.
+  ko: 시작이 좋군요, 감사합니다.
+  ja: 幸先がいいですね。ありがとうございます。
+c073_Reinforce_2:
+  en: This will significantly improve my long-term efficiency.
+  ko: 장기적 효율에 큰 도움이 되겠습니다.
+  ja: 長期的な効率の向上という点で役に立ちそうですね。
+c073_Reinforce_3:
+  en: It feels as though I've entered the safest stretch of the tracks.
+  ko: 운행 중 가장 안정적인 구간에 진입한 기분입니다.
+  ja: まるで、運行中に最も安全な区間に入ったような気分です。
+c073_Gift_1:
+  en: Thank you for thinking of me personally.
+  ko: 사적인 배려에 감사드립니다.
+  ja: 私にまでお気遣いいただき、ありがとうございます。
+c073_Gift_2:
+  en: This will help me in my work. I will treasure it.
+  ko: 업무에 도움이 되겠군요, 소중히 하겠습니다.
+  ja: 仕事の役に立ちそうですね。大切にいたします。
+c073_Gift_3:
+  en: I love this. I will never forget this day thanks to you, Commander.
+  ko: |-
+    굉장히 마음에 듭니다.
+    지휘관 덕분에 잊을 수 없는 하루가 될 것 같군요.
+  ja: |-
+    とても気に入りました。
+    指揮官のおかげで、忘れられない1日になりそうです。
+c073_Attractive_Up_1:
+  en: You did all this for me? That's... very kind of you. Thank you.
+  ko: |-
+    저를 위해 일부러 준비해 주신 겁니까?
+    …상냥하시군요, 감사합니다.
+  ja: |-
+    私のために用意してくださったのですか？
+    …お優しいですね、ありがとうございます。
+c073_Attractive_Up_2:
+  en: Every time I see you, Commander, I notice my emotions... are not what they usually
+    are.
+  ko: |-
+    지휘관과 마주칠 때마다,
+    제 감정이… 평소와는 다르게 일정하지 않음을 느낍니다.
+  ja: |-
+    …指揮官と顔を合わせるたびに、感情が…
+    いつもとは違って、不安定になります。
+c073_Attractive_Up_3:
+  en: This is serious. When I see your face... I get nervous.
+  ko: |-
+    …큰일이군요.
+    지휘관 얼굴을 보면… 떨립니다.
+  ja: |-
+    …困りました。
+    指揮官の顔を見ただけで、胸がドキドキしてしまいます…
+c073_Party_Deploy_1:
+  en: The AZX is ready to depart at any time.
+  ko: AZX, 언제든 출발할 수 있습니다.
+  ja: AZX、いつでも出発できます。
+c073_Field_Touch_1:
+  en: Please let me know where you'd like to go.
+  ko: 원하시는 목적지를 말씀해 주세요.
+  ja: ご希望の目的地をおっしゃってください。
+c073_Field_Go_1:
+  en: Departing now for our destination.
+  ko: 말씀하신 목적지로 출발하겠습니다.
+  ja: ご指定の目的地に出発いたします。
+c073_Battle_Enter_1:
+  en: The train ride will be bumpy. Please be careful.
+  ko: 열차가 많이 흔들릴 겁니다, 주의해 주세요.
+  ja: 列車が激しく揺れます。ご注意ください。
+c073_Battle_Ready_1:
+  en: I'll show you what the upgraded AZX can do.
+  ko: 업그레이드된 AZX의 위력을 보여드리겠습니다.
+  ja: AZXの最新の威力をお見せいたします。
+c073_Battle_Ready_2:
+  en: Preparing to remove all obstacles.
+  ko: 지금부터, 방해물을 제거하겠습니다.
+  ja: これより障害物を排除いたします。
+c073_Battle_Ready_3:
+  en: Enemies ahead. Activating response protocol.
+  ko: 전방에 적 발견, 대응 프로토콜 가동합니다.
+  ja: 前方に敵発見、対応プロトコルを起動します。
+c073_Reload_1:
+  en: One moment, please.
+  ko: 잠시만 기다려 주십시오.
+  ja: しばらくお待ちください。
+c073_Reload_2:
+  en: Train services will not be interrupted.
+  ko: 운행은 중단되지 않을 겁니다.
+  ja: 運行を中止することはありません。
+c073_Reload_3:
+  en: I will protect my passengers.
+  ko: 승객분들을 보호하겠습니다.
+  ja: 乗客の皆様をお守りいたします。
+c073_Ult_Skill_Ready_1:
+  en: Have faith in me.
+  ko: 절 믿으십시오.
+  ja: 私を信じてください。
+c073_Ult_Skill_1:
+  en: I'll get you to your destination!
+  ko: 꼭 원하시는 곳까지 모셔드리겠습니다!
+  ja: ご希望の場所まで必ずお連れします！
+c073_FullBurst_1:
+  en: Hold on tight and don't get hit!
+  ko: 부딪히지 않게 꽉 잡으세요!
+  ja: しっかりつかまってください！
+c073_Kill_Monster_1:
+  en: Enemy down.
+  ko: 제거 완료.
+  ja: 排除完了。
+c073_Kill_Monster_2:
+  en: Got them.
+  ko: 잡았습니다.
+  ja: 捕らえました。
+c073_Kill_Monster_3:
+  en: Obstacle removed.
+  ko: 이제 방해물은 없습니다.
+  ja: もう障害物はありません。
+c073_Damage_1:
+  en: Ugh.
+  ko: 윽.
+  ja: うっ。
+c073_Damage_2:
+  en: Argh!
+  ko: 큿!
+  ja: くっ！
+c073_Damage_3:
+  en: Damn...
+  ko: 이런….
+  ja: そんな…！
+c073_Die_1:
+  en: I never wanted to stop the train... I'm sorry.
+  ko: 이렇게 운행을 중단하고 싶진 않았는데… 죄송합니다.
+  ja: |-
+    こんな形で、運行を中止したくはなかったのですが…
+    申し訳ございません…
+c073_Win_1:
+  en: We have arrived at your destination. It's been a pleasure escorting you here
+    safely.
+  ko: 목적지에 도착했습니다, 안전하게 모실 수 있어 기쁘군요.
+  ja: |-
+    目的地に到着いたしました。
+    安全にお連れすることができ、嬉しく思います。
+73_cv_ja:
+  en: 'CV: Hitomi Ueda'
+  ko: 'CV : 우에다 히토미'
+  ja: CV：上田瞳
+73_cv_ko:
+  en: 'CV: Kim Eun-ah'
+  ko: 'CV : 김은아'
+  ja: CV：キム・ウナ
+73_cv_en:
+  en: 'CV: Xanthe Huynh'
+  ko: 'CV : 잰시 후인'
+  ja: CV：Xanthe Huynh

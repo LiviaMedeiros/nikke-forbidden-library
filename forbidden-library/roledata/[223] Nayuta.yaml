@@ -102,7 +102,7 @@ skill_name_1003:
   en: Hypocrisy
   ko: 위선
   ja: 雑毒之善
-22231_description:
+22231_description_1:
   en: |-
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Unchanging Heart: Gain <word_group=10006>Indomitability</word_group> for {description_value_01} sec. Activates {description_value_02} time(s) during battle.</color>
@@ -111,10 +111,10 @@ skill_name_1003:
     ATK ▲ {description_value_05}% of caster's ATK for {description_value_06} sec.
     <word_group=10046>Equally shares HP recovery</word_group> for {description_value_04} sec.</color>
     ■ Activates when Memory Absorption takes effect. Affects self.
-    <color=#00AEFF>Recovers {description_value_08}% of <word_group=10025>final</word_group> max HP as HP.</color>
+    <color=#00AEFF>Recovers {description_value_08}% of caster's <word_group=10025>final</word_group> max HP as HP.</color>
     ■ Activates when attacking with Full Charge. Affects all enemies if self is in Memory Incineration status.
     <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    ■ Activates when the enemy is the stage target. Affects the same enemy.
+    ■ Affects the enemy if the enemy is the stage target.
     <color=#00AEFF>Deals {description_value_10}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
@@ -124,7 +124,7 @@ skill_name_1003:
     [시전자 기준 공격력 {description_value_05}% ▲] [{description_value_06}초 유지]
     [<word_group=10046>체력 회복 균등 분배</word_group>] [{description_value_04}초 유지]</color>
     ■ 기억 흡수가 적용될 때 자신에게
-    <color=#00AEFF>[<word_group=10025>최종</word_group> 최대 체력 비례 {description_value_08}% 회복]</color>
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_08}% 회복]</color>
     ■ 풀 차지 공격 시 자신이 기억 연소 상태라면 적 전체에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 대미지]</color>
     ■ 대상이 타겟이라면 동일 적 대상에게
@@ -139,8 +139,10 @@ skill_name_1003:
     「{description_value_06}秒間維持」
     「<word_group=10046>HP回復均等分配</word_group>」「{description_value_04}秒間維持」</color>
     ■記憶吸収が適用される時、自分に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>最大HPに比例して{description_value_08}％回復」</color>
-    ■フルチャージして攻撃した時、自分が記憶燃焼状態なら、敵全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPに比例して
+    {description_value_08}％回復」</color>
+    ■フルチャージして攻撃した時、
+    自分が記憶燃焼状態なら、敵全体に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％のダメージ」</color>
     ■対象がターゲットなら、同じ敵に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_10}％の追加ダメージ」</color>

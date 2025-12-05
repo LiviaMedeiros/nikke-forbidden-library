@@ -4683,3 +4683,794 @@ d_ex_trainstation_09:
     en: just like passengers on an actual train journey.
     ko: 함께 음식을 나눠 먹으며, 한참을 떠들었다.
     ja: 食べ物を分け合い、話に花を咲かせた
+d_ex_trainstation_10:
+  d_ex_trainstation_10_1:
+    speaker: diesel_w
+    en: Hello, Commander!
+    ko: 지휘관, 안녕하세요~
+    ja: 指揮官、こんにちは～
+  d_ex_trainstation_10_2:
+    speaker: soline_w
+    en: Welcome!
+    ko: 어서 와!
+    ja: 待ってたわ！
+  d_ex_trainstation_10_3:
+    speaker: brid_w
+    en: Hello.
+    ko: 안녕하십니까.
+    ja: こんにちは。
+  d_ex_trainstation_10_4:
+    speaker: "<Self>"
+    en: Hey.
+    ko: 안녕.
+    ja: やあ
+  d_ex_trainstation_10_5:
+    speaker: "<Self>"
+    en: So... why'd you call me to the train station?
+    ko: 그런데 기차역으로 왜 불러낸 거야?
+    ja: 今日はどうしたんだ？
+  d_ex_trainstation_10_6:
+    speaker: diesel_w
+    en: Oh, were you wondering because I didn't tell you?
+    ko: 아, 제가 알려드리지 않아서 궁금하셨죠?
+    ja: ああ、お伝えしていませんでしたね。
+  d_ex_trainstation_10_7:
+    speaker: diesel_w
+    en: It's nothing big!
+    ko: 큰일은 아니구요~
+    ja: 大したことではないのですが～
+  d_ex_trainstation_10_8:
+    speaker: diesel_w
+    en: You know how busy we've been lately,
+    ko: 저희 최근 들어 너무 바빴잖아요~
+    ja: 私たち、最近すごく忙しかったでしょう？
+  d_ex_trainstation_10_9:
+    speaker: diesel_w
+    en: and you've helped us out in so many ways!
+    ko: 그 와중에 지휘관이 이래저래 여러 가지로 도움을 주셨구요.
+    ja: そんな時に色々と助けてくださった指揮官に
+  d_ex_trainstation_10_10:
+    speaker: diesel_w
+    en: I just wanted to thank you properly, so I asked you to come!
+    ko: 그게 감사해서 인사드릴 겸 초대 드린 거예요~
+    ja: お礼を伝えようと、お招きしたんです～
+  d_ex_trainstation_10_11:
+    speaker: brid_w
+    en: Come to think of it, it's been quite some time since the three of us have
+      gathered like this.
+    ko: 그러고 보니, 이렇게 셋이서 모인 것도 오랜만입니다.
+    ja: |-
+      そういえば、こうして3人で集まるのも
+      久しぶりですね。
+  d_ex_trainstation_10_12:
+    speaker: soline_w
+    en: Yeah, you're right!
+    ko: 맞아!
+    ja: うんうん！
+  d_ex_trainstation_10_13:
+    speaker: soline_w
+    en: You two have been so busy, you've barely had any time to rest.
+    ko: 디젤도 브리드도 바빠서, 쉴 여유가 거의 없었잖아.
+    ja: |-
+      ディーゼルもブリッドも
+      忙しくて休む余裕もなかったもんね。
+  d_ex_trainstation_10_14:
+    speaker: soline_w
+    en: Even today, you both just barely made it on time.
+    ko: 오늘도 둘 다 엄청 아슬아슬하게 시간 맞춰서 왔고.
+    ja: |-
+      今日だって2人ともなんとか
+      時間を合わせて来てくれたくらいだし。
+  d_ex_trainstation_10_15:
+    speaker: brid_w
+    en: From the way you put it, it seems you haven't exactly been busy.
+    ko: 솔린은 바쁘지 않았다는 말로 들리는군요.
+    ja: |-
+      ソリンは忙しくなかったかのように
+      聞こえますね。
+  d_ex_trainstation_10_16:
+    speaker: soline_w
+    en: O-of course not! I've been suuuuper busy too!
+    ko: 무, 물론 나도 엄~청 바빴지!
+    ja: |-
+      も、もちろん私だって
+      す～っごく忙しかったんだから！
+  d_ex_trainstation_10_17:
+    speaker: soline_w
+    en: But it's really nice to see everyone all together like this!
+    ko: 아무튼, 이렇게 다 같이 모이니 좋네!
+    ja: とにかく、こうしてみんなで集まれてよかった！
+  d_ex_trainstation_10_18:
+    speaker: diesel_w
+    en: Hehe, right?
+    ko: 후후, 그렇죠?
+    ja: ふふ、そうでしょう？
+  d_ex_trainstation_10_19:
+    speaker: diesel_w
+    en: I've prepared a little gift for you, though it's nothing much.
+    ko: 그래서 약소하지만 이렇게 작은 선물도 준비했답니다.
+    ja: |-
+      なので、ささやかながら
+      プレゼントを用意したんです。
+  d_ex_trainstation_10_20:
+    speaker: soline_w
+    en: Oh, you too?
+    ko: 앗, 디젤도?
+    ja: あっ、ディーゼルも？
+  d_ex_trainstation_10_21:
+    speaker: soline_w
+    en: I prepared something too!
+    ko: 나도 준비했는데!
+    ja: 私も用意してきたの！
+  d_ex_trainstation_10_22:
+    speaker: brid_w
+    en: I've prepared mine as well.
+    ko: 저도 준비했습니다.
+    ja: 私もです。
+  d_ex_trainstation_10_23:
+    speaker: "<Monologue>"
+    en: Diesel, Soline, and Brid each have a shopping bag in hand.
+    ko: 디젤, 솔린, 브리드의 손에는 각각 쇼핑백이 들려있었다.
+    ja: |-
+      ディーゼル、ソリン、ブリッドの手には
+      それぞれ紙袋が下げられていた
+  d_ex_trainstation_10_24:
+    speaker: soline_w
+    en: When it comes to saying thanks, a gift's the best, hands down!
+    ko: 감사의 표현, 하면 뭐니 뭐니 해도 선물이지!
+    ja: |-
+      感謝を伝えるといったら
+      プレゼントしかないもんね！
+  d_ex_trainstation_10_25:
+    speaker: diesel_w
+    en: Oh my, looks like we're thinking of the same thing!
+    ko: 어머, 마음이 통했나 보네요~
+    ja: まあ、気持ちが通じ合いましたね～
+  d_ex_trainstation_10_26:
+    speaker: diesel_w
+    en: I guess it's time for a gift-giving ceremony!
+    ko: 선물 증정식을 하면 되겠네요.
+    ja: ではプレゼント交換をしましょうか～
+  d_ex_trainstation_10_27:
+    speaker: brid_w
+    en: I wouldn't exactly call this a gift.
+    ko: 전 거창하게 선물이라고 할 것까지는 아닙니다.
+    ja: |-
+      私が用意したのはプレゼントと言えるほど
+      大層なものではありません。
+  d_ex_trainstation_10_28:
+    speaker: brid_w
+    en: I just brought some drinks for everyone—please help yourselves.
+    ko: 그냥 여러분이 마실 걸 준비해 왔으니, 드시면서 하시죠.
+    ja: |-
+      飲み物を持ってきただけです。
+      飲みながら話しましょう。
+  d_ex_trainstation_10_29:
+    speaker: diesel_w
+    en: Ooh, drinks! Sounds great!
+    ko: 와~ 마실 거 좋네요!
+    ja: わぁ～！飲み物、いいですね～！
+  d_ex_trainstation_10_30:
+    speaker: soline_w
+    en: Perfect, I was just getting thirsty too!
+    ko: 나도 마침 목말랐는데, 좋아!
+    ja: 私もちょうど喉が渇いてたの！
+  d_ex_trainstation_10_31:
+    speaker: brid_w
+    en: I picked the drinks based on everyone's preferences, so just help—
+    ko: |-
+      각자 취향에 맞춘 걸로 가져왔으니
+      그대로 드시면 될 것 같….
+    ja: |-
+      皆さんの好みに合わせて用意したので
+      そのままお飲みいただけれ…
+  d_ex_trainstation_10_32:
+    speaker: "<Monologue>"
+    en: Brid peers into her shopping bag and freezes.
+    ko: 브리드가 자신의 쇼핑백을 살펴보더니, 그대로 굳어버렸다.
+    ja: ブリッドは自分の紙袋の中身を見て固まった
+  d_ex_trainstation_10_33:
+    speaker: "<Self>"
+    en: Hm? What's wrong?
+    ko: 음? 왜 그래?
+    ja: ん？どうした？
+  d_ex_trainstation_10_34:
+    speaker: brid_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_35:
+    speaker: brid_w
+    en: I'm sorry.
+    ko: 죄송합니다.
+    ja: 申し訳ありません。
+  d_ex_trainstation_10_36:
+    speaker: brid_w
+    en: "... Instead of drinks, I brought my work tablet."
+    ko: "…마실 것 대신… 업무용 태블릿이 들어있군요."
+    ja: |-
+      …飲み物ではなく、
+      業務用タブレットが入っていました。
+  d_ex_trainstation_10_37:
+    speaker: brid_w
+    en: I must have grabbed the wrong bag in my rush.
+    ko: 급하게 나오느라 쇼핑백을 착각한 것 같습니다.
+    ja: 急いでいたせいで、紙袋を取り違えたようです。
+  d_ex_trainstation_10_38:
+    speaker: brid_w
+    en: I really can't believe I made a mistake like this...
+    ko: 이런 실수를 하다니, 정말….
+    ja: こんなミスをするなんて…
+  d_ex_trainstation_10_39:
+    speaker: diesel_w
+    en: Oh, don't sweat it! It happens to the best of us.
+    ko: 에이~ 그럴 수도 있죠.
+    ja: そういうこともありますよ～
+  d_ex_trainstation_10_40:
+    speaker: diesel_w
+    en: Really, it's all good!
+    ko: 너무 마음 쓰지 마세요~
+    ja: 気にしないでください～
+  d_ex_trainstation_10_41:
+    speaker: soline_w
+    en: Yep, yep!
+    ko: 맞아, 맞아!
+    ja: そうそう！
+  d_ex_trainstation_10_42:
+    speaker: soline_w
+    en: On second thought, I'm not that thirsty, so it's all good!
+    ko: 나도 생각해 보니까 그렇게 막 목이 마르진 않아, 괜찮아!
+    ja: |-
+      私、やっぱり喉渇いてなかった！
+      だから大丈夫！
+  d_ex_trainstation_10_43:
+    speaker: brid_w
+    en: Regardless, I apologize...
+    ko: 그래도 죄송합니다….
+    ja: しかし…申し訳ありません…
+  d_ex_trainstation_10_44:
+    speaker: brid_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_45:
+    speaker: soline_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_46:
+    speaker: diesel_w
+    en: All right, I'll be next!
+    ko: 그럼 다음엔 제가 드릴게요~
+    ja: では、次は私の番ですね～
+  d_ex_trainstation_10_47:
+    speaker: diesel_w
+    en: Here you go, everyone!
+    ko: 자, 여기 있어요~ 여러분~
+    ja: さあ、どうぞ～
+  d_ex_trainstation_10_48:
+    speaker: "<Monologue>"
+    en: Diesel pulls small envelopes out of her shopping bag and hands one to each
+      of us.
+    ko: |-
+      디젤은 쇼핑백 안에서 작은 봉투를 꺼내어,
+      우리에게 하나씩 나누어주었다.
+    ja: |-
+      ディーゼルは紙袋から小さな袋を取り出し、
+      私たちに1つずつ手渡した
+  d_ex_trainstation_10_49:
+    speaker: soline_w
+    en: "*Sniff sniff* Mmm, it smells sweet!"
+    ko: 킁킁, 달콤한 향이 나는데?
+    ja: くんくん。甘い香りがするよ？
+  d_ex_trainstation_10_50:
+    speaker: soline_w
+    en: I think I know what it is.
+    ko: 나, 이 선물 뭔지 알 것 같아.
+    ja: 私、分かった気がする。
+  d_ex_trainstation_10_51:
+    speaker: soline_w
+    en: It's that thing Diesel and I like, isn't it?
+    ko: 나도 디젤도 좋아하는 그거지?
+    ja: 私もディーゼルも好きなアレでしょ？
+  d_ex_trainstation_10_52:
+    speaker: "<Self>"
+    en: Ah, so that's it.
+    ko: 아, 그거구나.
+    ja: ああ、アレか
+  d_ex_trainstation_10_53:
+    speaker: brid_w
+    en: It must be.
+    ko: 그거로군요.
+    ja: アレですね。
+  d_ex_trainstation_10_54:
+    speaker: diesel_w
+    en: Teehee.
+    ko: 후후~
+    ja: ふふふ～
+  d_ex_trainstation_10_55:
+    speaker: "<Monologue>"
+    en: I peek inside the envelope. Just as I thought, there's candy in there.
+    ko: 봉투 안을 보자, 예상대로 거기엔 사탕이 있었다.
+    ja: 袋の中身は予想通り、キャンディだった
+  d_ex_trainstation_10_56:
+    speaker: "<Monologue>"
+    en: But...
+    ko: 하지만….
+    ja: だが…
+  d_ex_trainstation_10_57:
+    speaker: "<Self>"
+    en: Oh, it's not strawberry candy?
+    ko: 딸기맛 사탕이 아니네?
+    ja: イチゴキャンディじゃないんだな
+  d_ex_trainstation_10_58:
+    speaker: soline_w
+    en: Oh! I thought it'd be the candy Diesel always buys!
+    ko: 앗, 디젤이 늘 사 오는 그 사탕인 줄 알았는데!
+    ja: |-
+      あれ？ディーゼルがいつも買ってくる
+      あのキャンディだと思ったのに！
+  d_ex_trainstation_10_59:
+    speaker: brid_w
+    en: It seems to be grape-flavored.
+    ko: 포도맛 사탕이군요.
+    ja: ブドウキャンディですね。
+  d_ex_trainstation_10_60:
+    speaker: diesel_w
+    en: "... What?"
+    ko: "…네?"
+    ja: "…はい？"
+  d_ex_trainstation_10_61:
+    speaker: diesel_w
+    en: No way... I clearly asked for strawberry candies...!
+    ko: 그럴 리가… 분명 딸기맛 사탕으로 달라고 했는데…!
+    ja: |-
+      そんなはずは…
+      イチゴキャンディをくださいって
+      言ったのに…！
+  d_ex_trainstation_10_62:
+    speaker: brid_w
+    en: Maybe the clerk made a mistake?
+    ko: 점원이 실수한 거 아닐까요?
+    ja: 店員の方が渡し間違えたのでは？
+  d_ex_trainstation_10_63:
+    speaker: brid_w
+    en: Now that I think about it, I recall something like this happening before.
+    ko: 생각해 보니, 지난번에도 이런 일이 있었던 기억입니다.
+    ja: |-
+      確か、前にもこういうことがあった
+      覚えがあります。
+  d_ex_trainstation_10_64:
+    speaker: diesel_w
+    en: Ah... that might be it.
+    ko: 아… 그랬을 수도 있겠네요.
+    ja: あ…そうかもしれませんね。
+  d_ex_trainstation_10_65:
+    speaker: diesel_w
+    en: I should have checked the envelopes again after I got them.
+    ko: 제가 봉투를 받고 나서 한 번 더 확인해야 했는데.
+    ja: 買った時に確認すべきでした…
+  d_ex_trainstation_10_66:
+    speaker: diesel_w
+    en: I was in such a rush picking them up before coming here... I totally forgot.
+    ko: 여기 오기 전에 급하게 사 오느라… 확인한다는 걸 깜빡했어요.
+    ja: |-
+      ここに来る前に急いで買ったので…
+      確かめるのを忘れていました。
+  d_ex_trainstation_10_67:
+    speaker: diesel_w
+    en: I'm sorry.
+    ko: 죄송해요.
+    ja: ごめんなさい。
+  d_ex_trainstation_10_68:
+    speaker: brid_w
+    en: It happens.
+    ko: 그러실 수도 있죠.
+    ja: そういうこともあります。
+  d_ex_trainstation_10_69:
+    speaker: brid_w
+    en: Don't worry about it too much.
+    ko: 너무 마음 쓰지 마십시오.
+    ja: あまりお気になさらず。
+  d_ex_trainstation_10_70:
+    speaker: soline_w
+    en: Yep, yep!
+    ko: 맞아, 맞아!
+    ja: そうそう！
+  d_ex_trainstation_10_71:
+    speaker: soline_w
+    en: I like grape candy too, so it's all good!
+    ko: 난 포도맛 사탕도 좋아해, 괜찮아!
+    ja: 私、ブドウ味も好きだよ！だから大丈夫！
+  d_ex_trainstation_10_72:
+    speaker: diesel_w
+    en: I really wanted you to try the strawberry candy... It's such a shame...
+    ko: 그래도 딸기맛 사탕을 맛보여드리고 싶었는데, 아쉽네요….
+    ja: |-
+      イチゴキャンディを皆さんに
+      食べていただきたかったのに…残念です…
+  d_ex_trainstation_10_73:
+    speaker: diesel_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_74:
+    speaker: brid_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_75:
+    speaker: soline_w
+    en: I-it's okay, really!
+    ko: 괘, 괜찮다니까!
+    ja: だ、大丈夫だってば！
+  d_ex_trainstation_10_76:
+    speaker: soline_w
+    en: I definitely prepared these properly, so cheer up!
+    ko: 난 확실히 잘 준비해 왔으니까 내 선물 받고 기분들 풀어!
+    ja: |-
+      私はちゃんと持ってきたから！
+      私のプレゼントで元気出して！
+  d_ex_trainstation_10_77:
+    speaker: soline_w
+    en: Here, take this, Commander!
+    ko: 자, 받아. 지휘관!
+    ja: はい、どうぞ。これは指揮官ね！
+  d_ex_trainstation_10_78:
+    speaker: soline_w
+    en: And this one's for Diesel and Brid too.
+    ko: 여기 디젤이랑, 브리드도.
+    ja: これはディーゼル、これはブリッドの！
+  d_ex_trainstation_10_79:
+    speaker: diesel_w
+    en: Oh, thank you!
+    ko: 앗, 감사드려요!
+    ja: わぁ、ありがとうございます！
+  d_ex_trainstation_10_80:
+    speaker: brid_w
+    en: Thank you.
+    ko: 감사합니다.
+    ja: ありがとうございます。
+  d_ex_trainstation_10_81:
+    speaker: "<Self>"
+    en: Thanks. Can I open it?
+    ko: 고마워, 뜯어봐도 돼?
+    ja: ありがとう、開けてもいいか？
+  d_ex_trainstation_10_82:
+    speaker: soline_w
+    en: Of course!
+    ko: 물론이지!
+    ja: もちろん！
+  d_ex_trainstation_10_83:
+    speaker: "<Monologue>"
+    en: I unwrap the gift
+    ko: 포장지를 뜯자,
+    ja: ラッピングを開けると
+  d_ex_trainstation_10_84:
+    speaker: "<Monologue>"
+    en: and find a microphone-shaped keychain.
+    ko: 마이크 모양… 의 키링이 나타났다.
+    ja: マイクの形…のキーホルダーが入っていた
+  d_ex_trainstation_10_85:
+    speaker: "<Self>"
+    en: Hmm? A microphone?
+    ko: 음? 마이크네?
+    ja: ん？マイク？
+  d_ex_trainstation_10_86:
+    speaker: soline_w
+    en: Huh?! What?!
+    ko: 엇?! 아앗?!
+    ja: えっ！？あれっ！？
+  d_ex_trainstation_10_87:
+    speaker: soline_w
+    en: W-wait a sec! Diesel, Brid, what'd you guys get?
+    ko: 자, 잠깐! 디젤이랑 브리드는?
+    ja: |-
+      まっ、待って！
+      ディーゼルとブリッドの中身は？
+  d_ex_trainstation_10_88:
+    speaker: "<Monologue>"
+    en: Diesel gets a coffee-bean-shaped keychain, and Brid's is heart-shaped.
+    ko: |-
+      디젤에게는 커피콩 모양의 키링,
+      브리드에게는 하트 모양의 키링이 나왔다.
+    ja: |-
+      中身を確かめると
+      ディーゼルはコーヒー豆のキーホルダー、
+      ブリッドはハートのキーホルダーだった
+  d_ex_trainstation_10_89:
+    speaker: soline_w
+    en: Gah!
+    ko: 으, 으으…!
+    ja: う、うう…！
+  d_ex_trainstation_10_90:
+    speaker: soline_w
+    en: Th-that's not right!
+    ko: 이, 이게 아닌데…!
+    ja: こ、こんなはずじゃ…！
+  d_ex_trainstation_10_91:
+    speaker: soline_w
+    en: Wait, can you all hand those to me for a sec...?
+    ko: 잠깐 그거 다 나한테 좀 줄래…?
+    ja: 一旦、3つとも私にくれる…？
+  d_ex_trainstation_10_92:
+    speaker: "<Monologue>"
+    en: We return the keychains to Soline. Then she hands the heart-shaped one to
+      me,
+    ko: |-
+      키링을 솔린에게 돌려주자,
+      하트 모양의 키링은 나에게.
+    ja: |-
+      キーホルダーをソリンに返すと
+      ソリンは私にハートのキーホルダーを、
+  d_ex_trainstation_10_93:
+    speaker: "<Monologue>"
+    en: the coffee bean one to Brid, and the microphone-shaped one to Diesel.
+    ko: |-
+      커피콩 모양의 키링은 브리드에게,
+      마이크 모양의 키링은 디젤에게 다시 나누어주었다.
+    ja: |-
+      ブリッドにコーヒー豆のキーホルダーを、
+      ディーゼルにマイクのキーホルダーを渡した
+  d_ex_trainstation_10_94:
+    speaker: soline_w
+    en: I was gonna give them in this order.
+    ko: 원래는 이렇게 주려고 했어.
+    ja: 本当はこう渡すつもりだったの。
+  d_ex_trainstation_10_95:
+    speaker: soline_w
+    en: I swear I memorized it, but I rushed over here and must've mixed them up.
+    ko: |-
+      분명… 순서를 다 기억해 뒀는데,
+      혹시 늦을까해서 달려오다가 섞였나 봐.
+    ja: |-
+      ちゃんと渡す順番を覚えてたのに…
+      走ってるうちに混ざっちゃったみたい。
+  d_ex_trainstation_10_96:
+    speaker: soline_w
+    en: "... Sorry."
+    ko: "…미안."
+    ja: "…ごめんね。"
+  d_ex_trainstation_10_97:
+    speaker: diesel_w
+    en: No, it's okay. This keychain is so cute!
+    ko: 아녜요, 이 키링 너무 귀여운데요~
+    ja: |-
+      いいえ！このキーホルダー、
+      とってもかわいいです～
+  d_ex_trainstation_10_98:
+    speaker: diesel_w
+    en: Really, it's fine!
+    ko: 괜찮아요~
+    ja: 大丈夫ですよ～
+  d_ex_trainstation_10_99:
+    speaker: brid_w
+    en: I like mine too.
+    ko: 저도 마음에 듭니다.
+    ja: 私も気に入りました。
+  d_ex_trainstation_10_100:
+    speaker: soline_w
+    en: I was gonna shout "Surprise!" right when you opened it...
+    ko: 뜯자마자 서프라이즈! 하게 해주고 싶었는데.
+    ja: 開けてビックリしてもらいたかったのに…
+  d_ex_trainstation_10_101:
+    speaker: soline_w
+    en: but now it's totally ruined, ugh...
+    ko: 망했어, 으으….
+    ja: 大失敗だよ、うう…
+  d_ex_trainstation_10_102:
+    speaker: soline_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_103:
+    speaker: diesel_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_104:
+    speaker: brid_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_105:
+    speaker: "<Monologue>"
+    en: The atmosphere grows heavy.
+    ko: 분위기가 무겁게 가라앉았다.
+    ja: すっかり重い空気になってしまった
+  d_ex_trainstation_10_106:
+    speaker: "<Monologue>"
+    en: I suppose it's my turn now.
+    ko: 이제 내가 나설 차례인가.
+    ja: いよいよ私の番だ
+  d_ex_trainstation_10_107:
+    speaker: "<Self>"
+    en: Thanks for the gifts, everyone.
+    ko: 다들 선물 고마워.
+    ja: みんな、プレゼントありがとう
+  d_ex_trainstation_10_108:
+    speaker: "<Self>"
+    en: I actually have something for you too.
+    ko: 실은 나도 준비한 게 있어.
+    ja: 実は私も用意したものがあるんだ
+  d_ex_trainstation_10_109:
+    speaker: "<Self>"
+    en: Here you go.
+    ko: 자, 여기.
+    ja: はい、これ
+  d_ex_trainstation_10_110:
+    speaker: "<Monologue>"
+    en: I hand a gift to each of the three, who are standing there with surprised
+      expressions.
+    ko: 놀란 표정으로 서 있는 셋에게 각각 선물을 건넸다.
+    ja: |-
+      驚いた顔をしている3人に、
+      それぞれプレゼントを渡した
+  d_ex_trainstation_10_111:
+    speaker: diesel_w
+    en: Oh my, a pin!
+    ko: 어머나, 이건 배지네요!
+    ja: まあ！バッジですね！
+  d_ex_trainstation_10_112:
+    speaker: brid_w
+    en: Oh, it has AZX on it.
+    ko: AZX가 그러져있군요.
+    ja: AZXが描かれています。
+  d_ex_trainstation_10_113:
+    speaker: soline_w
+    en: Wow, so shiny!
+    ko: 우와~! 반짝반짝해!
+    ja: うわぁ～！キラキラ！
+  d_ex_trainstation_10_114:
+    speaker: "<Self>"
+    en: I spotted these at a souvenir shop the other day and decided to get them.
+    ko: 얼마 전에, 기념품 가게에서 눈에 띄어서 샀어.
+    ja: この間、お土産屋で見かけて買ったんだ
+  d_ex_trainstation_10_115:
+    speaker: "<Self>"
+    en: Since we're all meeting today, I brought them along.
+    ko: 오늘 다 같이 만나는 날이라고 해서 들고 왔고.
+    ja: 今日みんなで会うというから持ってきた
+  d_ex_trainstation_10_116:
+    speaker: "<Self>"
+    en: Thanks for all your hard work, everyone. Let's keep AZX running smoothly from
+      here on out.
+    ko: |-
+      다들 고생많아.
+      앞으로도 AZX 운영, 잘 부탁할게.
+    ja: |-
+      みんな、いつもお疲れ様。
+      これからもAZXの運営をよろしく頼む
+  d_ex_trainstation_10_117:
+    speaker: diesel_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_118:
+    speaker: brid_w
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_10_119:
+    speaker: soline_w
+    en: "... Ughh."
+    ko: "…으으."
+    ja: "…うぅ。"
+  d_ex_trainstation_10_120:
+    speaker: "<Self>"
+    en: "... You don't like it?"
+    ko: 호, 혹시… 마음에 안 들어?
+    ja: |-
+      も、もしかして…
+      気に入らなかったか？
+  d_ex_trainstation_10_121:
+    speaker: brid_w
+    en: No, I like it.
+    ko: 아뇨, 마음에 듭니다.
+    ja: いいえ、気に入りました。
+  d_ex_trainstation_10_122:
+    speaker: brid_w
+    en: The AZX lettering is excellent.
+    ko: AZX가 아주 멋지네요.
+    ja: とても素敵です。
+  d_ex_trainstation_10_123:
+    speaker: soline_w
+    en: It's so shiny and pretty! I love it!
+    ko: 반짝반짝하고 예뻐서, 너무 좋아!
+    ja: キラキラしててきれい！すごく嬉しい！
+  d_ex_trainstation_10_124:
+    speaker: soline_w
+    en: I'll wear it every day!
+    ko: 매일 들고 다닐래!
+    ja: これから毎日身に着けるわ！
+  d_ex_trainstation_10_125:
+    speaker: diesel_w
+    en: Don't be silly!
+    ko: 마음에 안 들긴요~
+    ja: 気に入らないはずがありません～
+  d_ex_trainstation_10_126:
+    speaker: diesel_w
+    en: This is the best gift ever, Commander!
+    ko: 정말 최고의 선물이에요, 지휘관.
+    ja: 最高のプレゼントです、指揮官。
+  d_ex_trainstation_10_127:
+    speaker: diesel_w
+    en: I'll keep doing my best!
+    ko: 앞으로도 열심히 할게요~!
+    ja: これからも頑張りますね～！
+  d_ex_trainstation_10_128:
+    speaker: diesel_w
+    en: Thank you too, Brid, Soline.
+    ko: 브리드랑 솔린도 고마워요.
+    ja: ブリッドとソリンもありがとうございます。
+  d_ex_trainstation_10_129:
+    speaker: diesel_w
+    en: Let's keep working hard together!
+    ko: 앞으로도 잘 부탁드려요~
+    ja: これからもよろしくお願いします～
+  d_ex_trainstation_10_130:
+    speaker: soline_w
+    en: Wh-what!? You don't have to say it like that!
+    ko: 뭐, 뭐야! 새삼스럽게!
+    ja: なっ、何よ、今さら改まって！
+  d_ex_trainstation_10_131:
+    speaker: soline_w
+    en: I've... grown a bit too, you know!
+    ko: 나도 뭐… 이제 한층 더 성장했으니까!
+    ja: 私だって…前より、うんと成長したし！
+  d_ex_trainstation_10_132:
+    speaker: soline_w
+    en: I'll try even harder!
+    ko: 더 열심히 해볼게!
+    ja: もっともっと頑張っちゃうんだから！
+  d_ex_trainstation_10_133:
+    speaker: brid_w
+    en: Diesel, Soline, Commander.
+    ko: 디젤, 솔린, 그리고 지휘관.
+    ja: ディーゼル、ソリン、それから指揮官。
+  d_ex_trainstation_10_134:
+    speaker: brid_w
+    en: Thank you, as always.
+    ko: 늘 감사드립니다.
+    ja: いつもありがとうございます。
+  d_ex_trainstation_10_135:
+    speaker: brid_w
+    en: I look forward to continuing to work with you.
+    ko: 이후에도 잘 부탁드리겠습니다.
+    ja: これからもよろしくお願いいたします。
+  d_ex_trainstation_10_136:
+    speaker: brid_w
+    en: Although I didn't bring any drinks with me, I thought I could prepare something
+      simple for you here. Would that be all right with everyone?
+    ko: "비록 마실 걸 들고 오진 못했지만, \n간단하게나마 여기서 준비해 드릴까 하는데, 다들 괜찮으실까요?"
+    ja: |-
+      飲み物を持ってこられなかったので
+      ここで簡単に準備しようと思いますが
+      よろしいですか？
+  d_ex_trainstation_10_137:
+    speaker: diesel_w
+    en: Hehe, sounds good!
+    ko: 후후, 좋죠~
+    ja: ふふっ、もちろんです～
+  d_ex_trainstation_10_138:
+    speaker: soline_w
+    en: I'm down with that!
+    ko: 나도 좋아!
+    ja: 私も賛成！
+  d_ex_trainstation_10_139:
+    speaker: diesel_w
+    en: Is that okay with you, Commander?
+    ko: 지휘관도 괜찮으신가요?
+    ja: 指揮官もよろしいですか？
+  d_ex_trainstation_10_140:
+    speaker: "<Self>"
+    en: Yeah, of course.
+    ko: 응, 당연하지.
+    ja: ああ、もちろんだ
+  d_ex_trainstation_10_141:
+    speaker: "<Monologue>"
+    en: We spend quite a while chatting animatedly at the train station.
+    ko: 우리는 한참동안 기차역에서 이야기 꽃을 피웠다.
+    ja: |-
+      私たちはしばらくの間
+      鉄道駅で話に花を咲かせた

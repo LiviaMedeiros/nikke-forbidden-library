@@ -62,7 +62,7 @@ character_shot_description_localkey_ar_down:
     <color=#00AEFF>Taunts for {description_value_02} sec.</color>
     ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies.
     <color=#00AEFF>Sustained damage ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
-    ■ Activates when <word_group=10052>the parts of any ally (including caster) are destroyed</word_group>. Affects {description_value_06} enemy unit(s) with the highest ATK.
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects {description_value_06} enemy unit(s) with the highest ATK.
     <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_08} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 명중 시 자신이 발버둥 상태라면 대상에게

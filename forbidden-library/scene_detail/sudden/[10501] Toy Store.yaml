@@ -5966,3 +5966,483 @@ d_ex_toyshop_11:
     en: Sora leaves with a bright smile.
     ko: 소라는 씩 웃으며 떠났다.
     ja: ソラはニカっと笑って去っていった
+d_ex_toyshop_12:
+  d_ex_toyshop_12_1:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_toyshop_12_2:
+    speaker: belorta
+    en: Welcome, Old-Timer! ♡
+    ko: 아저씨, 어서 와♡
+    ja: おじさん、いらっしゃい♡
+  d_ex_toyshop_12_3:
+    speaker: mica
+    en: Hi there!
+    ko: 안녕하세요!
+    ja: こんにちは！
+  d_ex_toyshop_12_4:
+    speaker: brid_w
+    en: Hello.
+    ko: 안녕하십니까.
+    ja: こんにちは。
+  d_ex_toyshop_12_5:
+    speaker: "<Self>"
+    en: Hmm?
+    ko: 응?
+    ja: ん？
+  d_ex_toyshop_12_6:
+    speaker: "<Self>"
+    en: What are you doing here, Brid?
+    ko: 브리드가 여긴 웬일이야?
+    ja: どうしてブリッドがここに？
+  d_ex_toyshop_12_7:
+    speaker: brid_w
+    en: I came to buy a gift for Soline.
+    ko: 솔린에게 줄 선물을 사러 왔습니다.
+    ja: ソリンに渡すプレゼントを買いに来たのです。
+  d_ex_toyshop_12_8:
+    speaker: "<Self>"
+    en: Why a gift all of a sudden?
+    ko: 갑자기 선물은 왜?
+    ja: 急にどうしたんだ？
+  d_ex_toyshop_12_9:
+    speaker: brid_w
+    en: It's nothing special.
+    ko: 거창한 이유가 있는 건 아닙니다.
+    ja: 大した理由ではありません。
+  d_ex_toyshop_12_10:
+    speaker: brid_w
+    en: I've been impressed with how well she's handled her recent tasks
+    ko: 최근에 맡은 업무를 잘 해내고 있어 기특한 마음과
+    ja: |-
+      最近ソリンが頑張っているようなので、
+      ねぎらいの意味で渡そうと
+      思っているだけです。
+  d_ex_toyshop_12_11:
+    speaker: brid_w
+    en: and have received various gifts from her, so I wanted to return the favor.
+    ko: 이런저런 선물을 받아서 보답하고 싶은 마음에 왔습니다.
+    ja: |-
+      それと、プレゼントを色々ともらったので、
+      そのお礼もかねています。
+  d_ex_toyshop_12_12:
+    speaker: belorta
+    en: Ohh! So you're here to get a gift for that little cutie! ♡
+    ko: 아항~ 그 꼬마 선물을 사러 온 거구나♡
+    ja: へ～！あの子のプレゼントなんだ♡
+  d_ex_toyshop_12_13:
+    speaker: brid_w
+    en: It seems you know Soline quite well.
+    ko: 솔린을 잘 알고 계시나 봅니다.
+    ja: ソリンのことをよくご存じのようですね。
+  d_ex_toyshop_12_14:
+    speaker: mica
+    en: Yeah, she's my friend.
+    ko: 네, 친구예요.
+    ja: はい、友だちです。
+  d_ex_toyshop_12_15:
+    speaker: mica
+    en: Hehe, she drops by sometimes
+    ko: 오늘도 손님 없는 거 아냐?! 하면서
+    ja: "「今日もヒマでしょ！？」って言いながら、"
+  d_ex_toyshop_12_16:
+    speaker: mica
+    en: and goes, "What, no customers again today?!"
+    ko: 한 번씩 놀러와요, 헤헤.
+    ja: よく遊びに来てくれるんです。えへへ。
+  d_ex_toyshop_12_17:
+    speaker: brid_w
+    en: That works out nicely, then.
+    ko: 마침 잘 됐군요.
+    ja: ちょうどよかったです。
+  d_ex_toyshop_12_18:
+    speaker: brid_w
+    en: I was just having trouble deciding what to get.
+    ko: 그렇지 않아도 어떤 걸 사면 좋을지 곤란하던 참이었습니다.
+    ja: |-
+      何を買えばいいのか、
+      迷っていたところなのです。
+  d_ex_toyshop_12_19:
+    speaker: brid_w
+    en: You two must know what Soline likes, right?
+    ko: 두 분은 솔린이 뭘 좋아하는지 잘 아시죠?
+    ja: お二人は、ソリンの好みをよくご存じでしょう？
+  d_ex_toyshop_12_20:
+    speaker: belorta
+    en: You betcha!
+    ko: 두말하면 잔소리지~
+    ja: あったりまえじゃ～ん。
+  d_ex_toyshop_12_21:
+    speaker: belorta
+    en: We know her like the back of our hand!
+    ko: 아주 잘 알고 있어!
+    ja: よーく知ってるよ！
+  d_ex_toyshop_12_22:
+    speaker: mica
+    en: Ah, then how about I give you a few suggestions?
+    ko: 아, 그럼 몇가지 추천해 드릴까요?
+    ja: あ、じゃあいくつかおすすめしましょうか？
+  d_ex_toyshop_12_23:
+    speaker: brid_w
+    en: Yes, I'd appreciate it if you c—
+    ko: 예, 그래 주시면 감사하겠습니….
+    ja: はい、そうしていただけると助かりま…
+  d_ex_toyshop_12_24:
+    speaker: belorta
+    en: Nah-uh, no way!
+    ko: 에이, 안 돼 안 돼!
+    ja: え～、ダメダメ！
+  d_ex_toyshop_12_25:
+    speaker: mica
+    en: Eh...? Why not?
+    ko: 어…? 왜?
+    ja: えっ…？どうして？
+  d_ex_toyshop_12_26:
+    speaker: belorta
+    en: Heh, it wouldn't be any fun if it were that easy, right? ♡
+    ko: 쉽게 알려 주면 재미없잖아♡
+    ja: 簡単に教えちゃったらつまんないでしょ♡
+  d_ex_toyshop_12_27:
+    speaker: belorta
+    en: Besides, gifts should be chosen by the one giving them,
+    ko: 그리고 원래 선물은 남이 골라주는 거 아니거든?
+    ja: |-
+      それにプレゼントって、
+      他人が選ぶものじゃないよ。
+  d_ex_toyshop_12_28:
+    speaker: belorta
+    en: and not someone else.
+    ko: 주는 사람이 직접 골라야지~
+    ja: 渡す人が選ばなきゃ～！
+  d_ex_toyshop_12_29:
+    speaker: belorta
+    en: Right, Old-Timer? ♡
+    ko: 내 말 맞지, 아저씨♡
+    ja: だよね？おじさん♡
+  d_ex_toyshop_12_30:
+    speaker: "<Self>"
+    en: Yeah, that's right.
+    ko: 응, 그건 그렇지.
+    ja: ああ、それはそうだな
+  d_ex_toyshop_12_31:
+    speaker: brid_w
+    en: I understand.
+    ko: 듣고 보니 맞는 말씀이군요.
+    ja: 言われてみれば、おっしゃる通りですね。
+  d_ex_toyshop_12_32:
+    speaker: brid_w
+    en: Very well,
+    ko: 알겠습니다.
+    ja: 分かりました。
+  d_ex_toyshop_12_33:
+    speaker: brid_w
+    en: I'll select the gift myself.
+    ko: 그럼 혼자서 골라보겠습니다.
+    ja: では、自分で選んでみます。
+  d_ex_toyshop_12_34:
+    speaker: "<Monologue>"
+    en: And so, Brid starts choosing a gift for Soline.
+    ko: 그렇게, 브리드는 솔린의 선물을 고르기 시작했다.
+    ja: |-
+      こうして、ブリッドは
+      ソリンのプレゼントを選び始めた
+  d_ex_toyshop_12_35:
+    speaker: brid_w
+    en: I've heard that the essence of a gift is understanding what the recipient
+      likes.
+    ko: 선물의 기본은, 상대방이 좋아하는 걸 파악하는 것이라 들었습니다.
+    ja: |-
+      プレゼントの基本は、相手の好きなものを
+      把握することだそうです。
+  d_ex_toyshop_12_36:
+    speaker: brid_w
+    en: Since Soline enjoys cute things, I should choose something that is generally
+      cute.
+    ko: |-
+      솔린은 귀여운 걸 좋아하니,
+      전체적으로 귀여운 걸 고르면 되겠군요.
+    ja: |-
+      ソリンはかわいいものが好きなので、
+      かわいいものを選びましょう。
+  d_ex_toyshop_12_37:
+    speaker: mica
+    en: Ah...!
+    ko: 아…!
+    ja: あっ…！
+  d_ex_toyshop_12_38:
+    speaker: "<Monologue>"
+    en: Mica nods her head cheerfully.
+    ko: 미카는 밝은 표정으로 고개를 끄덕였다.
+    ja: ミカは明るい表情で頷いた
+  d_ex_toyshop_12_39:
+    speaker: brid_w
+    en: I'll first choose a doll.
+    ko: 우선은 인형부터 고르겠습니다.
+    ja: まずは、ぬいぐるみを見てみましょう。
+  d_ex_toyshop_12_40:
+    speaker: "<Monologue>"
+    en: Brid carefully looks over the dolls.
+    ko: 브리드는 신중하게 인형을 둘러보았다.
+    ja: ブリッドは注意深くぬいぐるみを見て回った
+  d_ex_toyshop_12_41:
+    speaker: brid_w
+    en: Oh,
+    ko: 아.
+    ja: あっ。
+  d_ex_toyshop_12_42:
+    speaker: brid_w
+    en: this is rather cute.
+    ko: 이게 귀엽네요.
+    ja: これがいいですね。かわいいです。
+  d_ex_toyshop_12_43:
+    speaker: brid_w
+    en: I'll go with this one for now.
+    ko: 우선 이 인형으로 하나 하겠습니다.
+    ja: このぬいぐるみにします。
+  d_ex_toyshop_12_44:
+    speaker: belorta
+    en: Hmm... You're really gonna pick this one?
+    ko: 흐흥~ 진짜 이걸로 할 거야?
+    ja: フフン～、本当にこれにするの？
+  d_ex_toyshop_12_45:
+    speaker: mica
+    en: You said you'd pick something cute...
+    ko: 분명 귀여운 걸 고르신다고….
+    ja: かわいいものにするはずじゃ…
+  d_ex_toyshop_12_46:
+    speaker: brid_w
+    en: Yes?
+    ko: "? 예."
+    ja: "…？はい。"
+  d_ex_toyshop_12_47:
+    speaker: "<Monologue>"
+    en: The doll Brid picks up is a monster, all twisted and crooked in appearance.
+    ko: 브리드가 집어 든 인형은 생김새가 삐뚤빼뚤한 괴수 인형이었다.
+    ja: |-
+      ブリッドが選んだのは、
+      いびつな形をした怪獣のぬいぐるみだった
+  d_ex_toyshop_12_48:
+    speaker: brid_w
+    en: Don't you think it's cute?
+    ko: 귀엽지 않습니까.
+    ja: かわいいでしょう？
+  d_ex_toyshop_12_49:
+    speaker: brid_w
+    en: Especially these bulging eyes.
+    ko: 특히 이 볼록한 눈 쪽이요.
+    ja: 特にこのふくれあがっている目元のあたりが。
+  d_ex_toyshop_12_50:
+    speaker: mica
+    en: To me...
+    ko: 제 눈에는….
+    ja: そ、そうですか…？
+  d_ex_toyshop_12_51:
+    speaker: belorta
+    en: Ehh, no butting in! Brid's the one giving the gift!
+    ko: |-
+      에이, 방해하면 안 돼~
+      선물하는 사람은 브리드인걸!
+    ja: |-
+      も～、ジャマしちゃダメ～！
+      プレゼントするのはブリッドなんだよ！
+  d_ex_toyshop_12_52:
+    speaker: mica
+    en: Ugh... okay...
+    ko: 우으… 알았어.
+    ja: うう…分かったよ。
+  d_ex_toyshop_12_53:
+    speaker: brid_w
+    en: Soline also likes stickers.
+    ko: 솔린은 스티커도 좋아합니다.
+    ja: ソリンはシールも好きです。
+  d_ex_toyshop_12_54:
+    speaker: brid_w
+    en: She seems to enjoy sticking them everywhere.
+    ko: 이곳저곳에 붙이는 걸 좋아하는 모양이더군요.
+    ja: |-
+      あちこちにシールを貼っているのを
+      見たことがあります。
+  d_ex_toyshop_12_55:
+    speaker: "<Monologue>"
+    en: Brid chooses the stickers carefully.
+    ko: 브리드는 신중하게 스티커를 골랐다.
+    ja: ブリッドは注意深くシールを選んだ
+  d_ex_toyshop_12_56:
+    speaker: brid_w
+    en: Hmm.
+    ko: 음.
+    ja: ふむ。
+  d_ex_toyshop_12_57:
+    speaker: brid_w
+    en: This is cute.
+    ko: 이게 귀엽네요.
+    ja: これがいいですね。かわいいです。
+  d_ex_toyshop_12_58:
+    speaker: brid_w
+    en: I'll go with this sticker.
+    ko: 이 스티커로 하겠습니다.
+    ja: このシールにします。
+  d_ex_toyshop_12_59:
+    speaker: "<Monologue>"
+    en: Brid picks a cool sticker pack featuring skeletons and hearts scattered all
+      over it.
+    ko: 브리드는 해골과 하트가 여기저기 섞여 있는 힙한 스티커를 골랐다.
+    ja: |-
+      ブリッドはガイコツとハートが
+      散りばめられている
+      クールな雰囲気のシールを選んだ
+  d_ex_toyshop_12_60:
+    speaker: mica
+    en: A-are you... really going to go with that?
+    ko: 저, 정말… 그걸로 하실 건가요?
+    ja: ほ、本当に…それにするんですか？
+  d_ex_toyshop_12_61:
+    speaker: brid_w
+    en: Yes.
+    ko: 예.
+    ja: はい。
+  d_ex_toyshop_12_62:
+    speaker: brid_w
+    en: Here, the skeletons are smiling so widely, aren't they?
+    ko: 여기, 해골이 활짝 웃고 있지 않습니까.
+    ja: ガイコツがにっこり笑っているでしょう？
+  d_ex_toyshop_12_63:
+    speaker: brid_w
+    en: With the hearts added, it looks even cuter.
+    ko: 하트까지 더해져서 귀엽습니다.
+    ja: ハートもあります。かわいいですね。
+  d_ex_toyshop_12_64:
+    speaker: mica
+    en: Oh...
+    ko: 아하….
+    ja: なるほど…
+  d_ex_toyshop_12_65:
+    speaker: belorta
+    en: Kyahaha! Isn't it just the cutest?!
+    ko: 꺄하하, 그러네~ 귀엽네!
+    ja: |-
+      きゃははっ。ホントだ～
+      かわいいね！
+  d_ex_toyshop_12_66:
+    speaker: brid_w
+    en: Then, next one...
+    ko: 그럼, 다음은….
+    ja: では、次は…
+  d_ex_toyshop_12_67:
+    speaker: "<Narration>"
+    en: "*Poke, poke*"
+    ko: 콕, 콕.
+    ja: ツン、ツン
+  d_ex_toyshop_12_68:
+    speaker: "<Self>"
+    en: "?"
+    ko: "?"
+    ja: "？"
+  d_ex_toyshop_12_69:
+    speaker: mica
+    en: O-Old-Timer...
+    ko: 아, 아저씨….
+    ja: お、おじさん…
+  d_ex_toyshop_12_70:
+    speaker: "<Monologue>"
+    en: Mica whispers in my ear.
+    ko: 미카가 작은 목소리로 내게 속삭였다.
+    ja: ミカが小さな声で私に耳打ちした
+  d_ex_toyshop_12_71:
+    speaker: mica
+    en: Is it really okay to not stop her?
+    ko: 저대로 놔둬도 될까요?
+    ja: このまま放っておいていいんでしょうか？
+  d_ex_toyshop_12_72:
+    speaker: brid_w
+    en: "... This looks good too."
+    ko: "…이것도 좋겠군요."
+    ja: "…これもいいですね。"
+  d_ex_toyshop_12_73:
+    speaker: brid_w
+    en: It's cute.
+    ko: 귀엽습니다.
+    ja: かわいいです。
+  d_ex_toyshop_12_74:
+    speaker: "<Monologue>"
+    en: Brid places a small, shaking robot into the basket.
+    ko: 브리드는 덜덜거리는 작은 로봇을 바구니에 담았다.
+    ja: |-
+      ブリッドはガタガタと振動している
+      小さなロボットをカゴに入れた
+  d_ex_toyshop_12_75:
+    speaker: belorta
+    en: Kyahahaha!
+    ko: 꺄하하하~
+    ja: あはははっ！
+  d_ex_toyshop_12_76:
+    speaker: "<Self>"
+    en: Hmm... It should be fine, I guess? Brid seems to be enjoying herself.
+    ko: |-
+      음… 괜찮지 않을까?
+      브리드가 즐거워 보이기도 하고.
+    ja: |-
+      うーん…大丈夫じゃないか？
+      ブリッドも楽しそうだし
+  d_ex_toyshop_12_77:
+    speaker: "<Monologue>"
+    en: Brid places a zombie badge into the basket.
+    ko: 브리드는 좀비가 그려진 배지를 바구니에 담았다.
+    ja: ブリッドはゾンビのバッジをカゴに入れた
+  d_ex_toyshop_12_78:
+    speaker: "<Self>"
+    en: And she really is picking out gifts with Soline in mind...
+    ko: |-
+      진짜 솔린을 생각해서
+      선물을 고르고 있는 것도 맞으니까.
+    ja: |-
+      ソリンのことを想いながら
+      プレゼントを選んでいるのだから…
+  d_ex_toyshop_12_79:
+    speaker: "<Monologue>"
+    en: Brid puts a jack-in-the-box, from which a grotesque clown pops out, into the
+      basket.
+    ko: 브리드는 기괴한 피에로가 튀어나오는 깜짝 상자를 바구니에 담았다.
+    ja: |-
+      ブリッドは奇妙なピエロが飛び出す
+      びっくり箱をカゴに入れた
+  d_ex_toyshop_12_80:
+    speaker: "<Self>"
+    en: So it should be okay...
+    ko: 괜찮을 것 같….
+    ja: だい…じょうぶ…
+  d_ex_toyshop_12_81:
+    speaker: "<Monologue>"
+    en: Brid reaches out toward a mannequin dressed as a ghost...
+    ko: 브리드가 유령 분장을 한 마네킹에 손을….
+    ja: ブリッドがおばけに扮したマネキンに手を…
+  d_ex_toyshop_12_82:
+    speaker: belorta
+    en: Kyahahahaha!
+    ko: 꺄하하하하~
+    ja: あははははっ！
+  d_ex_toyshop_12_83:
+    speaker: "<Self>"
+    en: Nope, we've gotta stop her.
+    ko: 안 되겠다, 말리자.
+    ja: ダメだ、止めよう
+  d_ex_toyshop_12_84:
+    speaker: mica
+    en: Y-yeah...!
+    ko: 네, 네…!
+    ja: は、はい…！
+  d_ex_toyshop_12_85:
+    speaker: "<Monologue>"
+    en: We barely manage to calm Brid down.
+    ko: 우리는 브리드를 겨우 진정시켰고.
+    ja: 私たちはなんとかブリッドを落ち着かせ…
+  d_ex_toyshop_12_86:
+    speaker: "<Monologue>"
+    en: She ends up picking out a few of the gifts Mica recommended and has them wrapped
+      before taking them.
+    ko: 브리드는 미카가 추천해 준 선물 중에 몇 가지를 골라 포장해 갔다.
+    ja: |-
+      ブリッドはミカが勧めてくれた物の中から
+      プレゼントを選んだ
