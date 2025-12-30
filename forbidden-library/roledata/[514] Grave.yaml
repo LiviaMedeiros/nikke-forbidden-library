@@ -120,7 +120,8 @@ skill_name_1003:
     <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」
     「1秒間隔」「持続」</color>
     ■自分が放熱状態の時に限り、味方全体に
-    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_04}％▲」「持続」
+    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>
+    {description_value_04}％▲」「持続」
     「<word_group=10042>貫通ダメージ</word_group>{description_value_05}％▲」「持続」</color>
 skill_name_1002:
   en: Skill 1
@@ -136,7 +137,7 @@ skill_name_1002:
     <color=#00AEFF>Prediction:
     Current HP ▼ {description_value_01}% every 1 sec, lasts for 10 sec.
     Grants unlimited ammunition for 10 sec.
-    Gains Pierce for 10 sec.
+    Gain Pierce for 10 sec.
     <word_group=10042>Pierce Damage</word_group> ▲ {description_value_02}% for 10 sec.
     Critical Rate ▲ {description_value_06}% for 10 sec.</color>
     ■ Affects all allies.
@@ -163,7 +164,8 @@ skill_name_1002:
     「装弾数無限」「10秒間維持」
     「貫通特化」「10秒間維持」
     「<word_group=10042>貫通ダメージ</word_group>{description_value_02}％▲」「10秒間維持」
-    「クリティカル確率{description_value_06}％▲」「10秒間維持」</color>
+    「クリティカル確率{description_value_06}％▲」
+    「10秒間維持」</color>
     ■味方全体に
     <color=#00AEFF>「攻撃ダメージ{description_value_03}％▲」「10秒間維持」
     「<word_group=10042>貫通ダメージ</word_group>{description_value_04}％▲」「10秒間維持」

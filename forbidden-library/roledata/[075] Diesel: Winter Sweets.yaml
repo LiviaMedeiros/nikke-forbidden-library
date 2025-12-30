@@ -80,7 +80,8 @@ character_shot_description_localkey_rl_up:
   ja: |-
     ■自分を含む味方の誰かが
     <word_group=10052>パーツを破壊した時</word_group>自分を除く味方全体に
-    <color=#00AEFF>「消音：騒音公害免疫」「{description_value_01}スタック」「持続」</color>
+    <color=#00AEFF>「消音：騒音公害免疫」「{description_value_01}スタック」
+    「持続」</color>
     ■自分を含む味方の誰かが
     <word_group=10052>パーツを破壊した時</word_group>自分に
     <color=#00AEFF>「持続ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
@@ -169,15 +170,18 @@ skill_name_1002:
     <color=#00AEFF>[음소거 중첩량 {description_value_05}개 ▼]</color>
   ja: |-
     ■敵全体に
-    <color=#00AEFF>「受けるダメージ{description_value_08}％▲」「{description_value_09}秒間維持」
+    <color=#00AEFF>「受けるダメージ{description_value_08}％▲」
+    「{description_value_09}秒間維持」
     「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の持続ダメージ」
     「1秒間隔」「{description_value_02}秒間維持」</color>
     ■対象がターゲットなら、同じ敵に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％の持続ダメージ」
     「1秒間隔」「{description_value_07}秒間維持」</color>
-    ■自分がクライマックス状態なら、自分を除く味方全体に
+    ■自分がクライマックス状態なら、
+    自分を除く味方全体に
     <color=#00AEFF>「騒音公害：命中率{description_value_03}％▼」「{description_value_04}秒間維持」</color>
-    ■自分がクライマックス状態なら、味方全体に
+    ■自分がクライマックス状態なら、
+    味方全体に
     <color=#00AEFF>「消音スタック量{description_value_05}個▼」</color>
 skill_name_1001:
   en: Burst Skill

@@ -3211,6 +3211,118 @@ event_icedragonsaga2_epilogue_title:
   en: The End of a Great Adventure
   ko: 위대한 모험의 끝
   ja: 大冒険の終わり
+event_footstepwalkrun1_prologue_title:
+  en: Rapi's Story
+  ko: 라피의 이야기
+  ja: ラピの物語
+event_footstepwalkrun1_01_s_title:
+  en: 'Small World: A'
+  ko: '작은 세계 : A'
+  ja: 小さな世界：A
+event_footstepwalkrun1_01_e_title:
+  en: 'Small World: B'
+  ko: '작은 세계 : B'
+  ja: 小さな世界：B
+event_footstepwalkrun1_02_s_title:
+  en: 'Thrown Away: A'
+  ko: '던져지다 : A'
+  ja: 見放される：A
+event_footstepwalkrun1_02_e_title:
+  en: 'Thrown Away: B'
+  ko: '던져지다 : B'
+  ja: 見放される：B
+event_footstepwalkrun1_03_s_title:
+  en: 'First Friend: A'
+  ko: '첫 친구 : A'
+  ja: 初めての友だち：A
+event_footstepwalkrun1_03_e_title:
+  en: 'First Friend: B'
+  ko: '첫 친구 : B'
+  ja: 初めての友だち：B
+event_footstepwalkrun1_intermission_01_title:
+  en: A Curious Story
+  ko: 궁금했던 이야기
+  ja: 気になっていた話
+event_footstepwalkrun1_04_s_title:
+  en: 'Three Behind Bars: A'
+  ko: '철창 안의 셋 : A'
+  ja: 牢の中の3人：A
+event_footstepwalkrun1_04_e_title:
+  en: 'Three Behind Bars: B'
+  ko: '철창 안의 셋 : B'
+  ja: 牢の中の3人：B
+event_footstepwalkrun1_05_s_title:
+  en: 'Skull Head: A'
+  ko: '스컬 헤드 : A'
+  ja: スカルヘッド：A
+event_footstepwalkrun1_05_e_title:
+  en: 'Skull Head: B'
+  ko: '스컬 헤드 : B'
+  ja: スカルヘッド：B
+event_footstepwalkrun1_06_s_title:
+  en: 'Empty: A'
+  ko: '그저 허무했다 : A'
+  ja: ただ虚しかった：A
+event_footstepwalkrun1_06_e_title:
+  en: 'Empty: B'
+  ko: '그저 허무했다 : B'
+  ja: ただ虚しかった：B
+event_footstepwalkrun2_01_s_title:
+  en: 'Tell Me Your Wish: A'
+  ko: '소원을 말해라 : A'
+  ja: 願いごとは：A
+event_footstepwalkrun2_01_e_title:
+  en: 'Tell Me Your Wish: B'
+  ko: '소원을 말해라 : B'
+  ja: 願いごとは：B
+event_footstepwalkrun2_02_s_title:
+  en: 'Fake Wish: A'
+  ko: '거짓 소원 : A'
+  ja: でまかせの願い：A
+event_footstepwalkrun2_02_e_title:
+  en: 'Fake Wish: B'
+  ko: '거짓 소원 : B'
+  ja: でまかせの願い：B
+event_footstepwalkrun2_03_s_title:
+  en: 'First Wish: A'
+  ko: '첫 번째 소원 : A'
+  ja: 1つめの願いごと：A
+event_footstepwalkrun2_03_e_title:
+  en: 'First Wish: B'
+  ko: '첫 번째 소원 : B'
+  ja: 1つめの願いごと：B
+event_footstepwalkrun2_intermission_01_title:
+  en: Guardian of the Ark
+  ko: 방주의 수호자
+  ja: アークの守護者
+event_footstepwalkrun2_04_s_title:
+  en: 'Like a Miracle: A'
+  ko: '기적과도 같은 : A'
+  ja: 奇跡のような：A
+event_footstepwalkrun2_04_e_title:
+  en: 'Like a Miracle: B'
+  ko: '기적과도 같은 : B'
+  ja: 奇跡のような：B
+event_footstepwalkrun2_05_s_title:
+  en: 'Live: A'
+  ko: '살아라 : A'
+  ja: 生きろ：A
+event_footstepwalkrun2_05_e_title:
+  en: 'Live: B'
+  ko: '살아라 : B'
+  ja: 生きろ：B
+event_footstepwalkrun2_06_s_title:
+  en: 'Stop, Walk, Run: A'
+  ko: '멈추고, 걷고, 달리다 : A'
+  ja: 止まって、歩いて、走れ：A
+event_footstepwalkrun2_06_e_title:
+  en: 'Stop, Walk, Run: B'
+  ko: '멈추고, 걷고, 달리다 : B'
+  ja: 止まって、歩いて、走れ：B
+event_footstepwalkrun2_epilogue_title:
+  en: Things I Want to Find
+  ko: 찾고 싶은 것
+  ja: 探したいもの
 EVENT_QUEST_FIRSTAFFECTION:
   en: Locale_Event:EVENT_QUEST_FIRSTAFFECTION
   ko: Locale_Event:EVENT_QUEST_FIRSTAFFECTION
@@ -3223,3 +3335,11 @@ EVENT_QUEST_LIAR'SEND:
   en: Locale_Event:EVENT_QUEST_LIAR'SEND
   ko: Locale_Event:EVENT_QUEST_LIAR'SEND
   ja: Locale_Event:EVENT_QUEST_LIAR'SEND
+EVENT_QUEST_NONESENSERED:
+  en: Locale_Event:EVENT_QUEST_NONESENSERED
+  ko: Locale_Event:EVENT_QUEST_NONESENSERED
+  ja: Locale_Event:EVENT_QUEST_NONESENSERED
+EVENT_QUEST_OUTOFUNIFORM:
+  en: Locale_Event:EVENT_QUEST_OUTOFUNIFORM
+  ko: Locale_Event:EVENT_QUEST_OUTOFUNIFORM
+  ja: Locale_Event:EVENT_QUEST_OUTOFUNIFORM

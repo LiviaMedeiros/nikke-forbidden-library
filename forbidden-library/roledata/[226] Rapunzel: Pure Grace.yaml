@@ -65,7 +65,7 @@ character_shot_description_localkey_sr_up:
   en: |-
     ■ Activates when attacking with Full Charge. Affects self.
     <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP.</color>
-    ■ Activates only when Full Charge status is maintained for more than {description_value_02} sec and <word_group=10032>a Shield</word_group> is present. Affects self.
+    ■ Activates only when Full Charge status is maintained for more than {description_value_02} sec and a <word_group=10032>Shield</word_group> is present. Affects self.
     <color=#00AEFF>Current HP ▼ {description_value_03}% every 1 sec continuously.
     <word_group=10048>Recovers Shield HP</word_group> equal to {description_value_04}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
   ko: |-
@@ -95,7 +95,7 @@ skill_name_1003:
     <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP continuously, which protects all allies from damage.</color>
     ■ Activates when using Burst Skill. Affects self.
     <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP continuously, which protects all allies from damage.</color>
-    ■ Activates only when Full Charge status is maintained for more than {description_value_03} sec and <word_group=10032>a Shield</word_group> is present. Affects all allies.
+    ■ Activates only when Full Charge status is maintained for more than {description_value_03} sec and a <word_group=10032>Shield</word_group> is present. Affects all allies.
     <color=#00AEFF>Attack Damage ▲ {description_value_04}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
@@ -286,6 +286,10 @@ material_characterskill_a_ssr_desc:
   en: 'Scarlet: Black Shadow'
   ko: '홍련 : 흑영'
   ja: 紅蓮：ブラックシャドウ
+471_name:
+  en: 'Snow White: Heavy Arms'
+  ko: '스노우 화이트 : 헤비암즈'
+  ja: スノーホワイト：ヘビーアームズ
 c226_Lobby_Touch_1:
   en: Would you like me to pray for you?
   ko: 기도가 필요하신가요?

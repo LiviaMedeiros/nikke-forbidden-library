@@ -129,9 +129,9 @@ skill_name_1002:
   ko: 정의로운 수단
   ja: 正義への手段
 10413_description:
-  en: "■ Affects self.\n<color=#00AEFF>Changes the weapon in use:\nDamage: {description_value_01}%
+  en: "■ Affects self.\n<color=#00AEFF>Change the weapon in use:\nDamage: {description_value_01}%
     of the <word_group=10025>final</word_group> ATK\n<word_group=10038>Pellet</word_group>count:
-    10\nAttack speed: ▼ 90% \nDuration: {description_value_02} sec\nAdditional effects\nATK
+    10\nAttack speed: ▼ 90% \nDuration: {description_value_02} sec\nAdditional Effects:\nATK
     ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.\nAttack
     damage ▲ {description_value_05}% for {description_value_06} sec.</color>"
   ko: "■ 자신에게\n<color=#00AEFF>[사용 무기 변경] : \n대미지 : <word_group=10025>최종</word_group>

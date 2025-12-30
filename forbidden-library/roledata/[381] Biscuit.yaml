@@ -62,7 +62,7 @@ character_shot_description_localkey_rl_up:
   ja: 引っ張り合い
 23812_description:
   en: |-
-    ■ Activates when a Defender ally's Hp falls below {description_value_01}%. Affects the target Defender ally.
+    ■ Activates when a Defender ally's HP falls below {description_value_01}%. Affects the target Defender ally.
     <color=#00AEFF>Invincible for {description_value_04} sec. Activates {description_value_05} time(s) per battle.
     Recovers {description_value_02}% of caster's <word_group=10025>final</word_group> Max HP. Activates {description_value_03} time(s) per battle.</color>
   ko: |-

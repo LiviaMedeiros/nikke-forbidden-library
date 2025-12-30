@@ -1,0 +1,632 @@
+---
+471_name:
+  en: 'Snow White: Heavy Arms'
+  ko: '스노우 화이트 : 헤비암즈'
+  ja: スノーホワイト：ヘビーアームズ
+c471_description:
+  en: |-
+    Snow White is now armed with new equipment powered by Eden's technology. Her previous armaments, Seven Dwarves, have been consolidated into a single system.
+    Having recovered all her memories, she is preparing to kill the Queen who desecrated Liliweiss.
+  ko: |-
+    에덴의 기술로 인해 새로운 장비로 무장한 스노우 화이트.
+    기존에 사용하던 무장들인 세븐스 드워프를 통폐합했다.
+    모든 기억을 되찾아, 릴리바이스를 모독한 퀸을 죽이기 위해 준비 중.
+  ja: |-
+    エデンの技術による新装備で武装したスノーホワイト。
+    今まで使っていた武装「セブンスドワーフ」を
+    統合、再編した。全ての記憶を取り戻し、
+    リリーバイスを冒涜したクイーンを倒すために
+    準備を進めている。
+471_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_471:
+  en: 'Snow White: Heavy Arms'' Spare Body'
+  ko: '스노우 화이트 : 헤비암즈 스페어 바디'
+  ja: スノーホワイト：ヘビーアームズのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+24712_name:
+  en: Shades of White
+  ko: 어나더 화이트
+  ja: アナザーホワイト
+24712_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Fixes charge time at {description_value_01} sec continuously.</color>
+    ■ Activates during Full Charge. Affects self.
+    <color=#00AEFF>Gains Pierce for {description_value_02} sec.
+    ATK ▲ {description_value_03}% for {description_value_04} sec.
+    <word_group=10011>Damage to Parts</word_group> ▲ {description_value_11}% for {description_value_04} sec.</color>
+    ■ Activates when entering Burst Stage 3. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
+    ■ Activates when at Full Charge only while in Seven Dwarves Fully Active status. Affects self.
+    <color=#00AEFF>Charge damage ▲ {description_value_07}% for {description_value_08} round(s).
+    <word_group=10050>Sequential attack</word_group> damage ▲ {description_value_09}% for {description_value_10} round(s).</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[차지 시간 {description_value_01}초로 고정] [지속]</color>
+    ■ 풀 차지 시 자신에게
+    <color=#00AEFF>[관통 특화] [{description_value_02}초 유지]
+    [공격력 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [<word_group=10011>파츠 대미지</word_group> {description_value_11}% ▲] [{description_value_04}초 유지]</color>
+    ■ 버스트 3단계 진입 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    ■ 세븐스 드워프 풀 액티브 상태일 때 한하여 풀 차지 시 자신에게
+    <color=#00AEFF>[차지 대미지 {description_value_07}% ▲] [{description_value_08}발 유지]
+    [<word_group=10050>순차 공격</word_group> 대미지 {description_value_09}% ▲] [{description_value_10}발 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「チャージ時間{description_value_01}秒に固定」「持続」</color>
+    ■フルチャージした時、自分に
+    <color=#00AEFF>「貫通特化」「{description_value_02}秒間維持」
+    「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」
+    「<word_group=10011>パーツダメージ</word_group>{description_value_11}％▲」「{description_value_04}秒間維持」</color>
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    ■セブンスドワーフ・フルアクティブ状態の
+    場合のみ、
+    フルチャージした時、自分に
+    <color=#00AEFF>「チャージダメージ{description_value_07}％▲」「{description_value_08}発間維持」
+    「<word_group=10050>順番攻撃</word_group>ダメージ{description_value_09}％▲」
+    「{description_value_10}発間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24711_name:
+  en: Seven Dwarves V+VI
+  ko: 세븐스 드워프 V+VI
+  ja: セブンスドワーフV+VI
+24711_description:
+  en: |-
+    ■ Activates every {description_value_01} sec while charging. Affects the enemy unit nearest to the crosshair that is not in Lock-On status.
+    <color=#00AEFF>Lock-On
+    Function: Designates the enemy as a target of Seven Dwarves.
+    Max Lock-On targets: {description_value_03}
+    <word_group=10097>Removal condition</word_group>: Performing a normal attack or <word_group=10095>taking cover</word_group>.</color>
+    ■ Activates every {description_value_01} sec while charging. Affects self.
+    <color=#00AEFF>Auto Fire Ready
+    Function: Loads Seven Dwarves with ammo.
+    Effect: DEF ▲ {description_value_04}% continuously.
+    Max ammo loaded by Auto Fire Ready: {description_value_05}
+    <word_group=10097>Removal condition</word_group>: Performing a normal attack.</color>
+    ■ Activates every {description_value_01} sec while charging. Affects all enemies in Lock-On status.
+    <color=#00AEFF>Damage Taken ▲ {description_value_02}% for {description_value_08} sec.</color>
+    ■ Activates when attacking with Full Charge.
+    <color=#00AEFF>Auto Fire
+    Function: Attacks Lock-On targets with Seven Dwarves.
+    Effect 1: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage. Affects all enemies.
+    Effect 2: Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as damage. Affects Lock-On targets. <word_group=10050>Attacks sequentially</word_group> based on the amount of ammo loaded by Auto Fire Ready.</color>
+    ■ Activates when attacking with Full Charge while in Seven Dwarves Fully Active status. Affects self.
+    <color=#00AEFF>Number of uses of Seven Dwarves Fully Active ▼ 1.</color>
+    ■ Activates when performing a normal attack while not in Full Burst. Affects self.
+    <color=#00AEFF>Removes Seven Dwarves Fully Active.</color>
+  ko: |-
+    ■ 차지 중이라면 {description_value_01}초 마다 록 온 상태가 아닌 적 중 조준선에 가장 가까운 대상에게
+    <color=#00AEFF>[록 온]
+    기능 : 세븐스 드워프로 공격할 대상을 지정합니다.
+    최대 [록 온] 대상 수 : {description_value_03}개
+    <word_group=10097>제거 시점</word_group> : 일반 공격 시 또는 <word_group=10095>엄폐 시</word_group></color>
+    ■ 차지 중이라면 {description_value_01}초 마다 자신에게
+    <color=#00AEFF>[오토 파이어 레디]
+    기능 : 세븐스 드워프의 탄환을 장전합니다.
+    효과 : [방어력 {description_value_04}% ▲][지속]
+    최대 [오토 파이어 레디] 장전 수 : {description_value_05}개
+    <word_group=10097>제거 시점</word_group> : 일반 공격 시</color>
+    ■ 차지 중이라면 {description_value_01}초 마다 록 온 상태인 적 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_02}% ▲] [{description_value_08}초 유지]</color>
+    ■ 풀 차지 공격 시
+    <color=#00AEFF>[오토 파이어]
+    기능 : 록 온 대상을 세븐스 드워프로 공격합니다.
+    효과 1 : 적 전체에게 [<word_group=10025>최종</word_group> 공격력 {description_value_06}% 대미지]
+    효과 2 : 록 온 대상에게 [<word_group=10025>최종</word_group> 공격력 {description_value_07}% 대미지] [오토 파이어 레디 장전 수 만큼 <word_group=10050>순차 공격</word_group>]</color>
+    ■ 풀 차지 공격 시 세븐스 드워프 풀 액티브 상태라면 자신에게
+    <color=#00AEFF>[세븐스 드워프 풀 액티브 사용 횟수 1회 ▼]</color>
+    ■ 일반 공격 시 풀 버스트 상태가 아니라면 자신에게
+    <color=#00AEFF>[세븐스 드워프 풀 액티브 제거]</color>
+  ja: |-
+    ■チャージ中の時、{description_value_01}秒ごとに
+    ロックオン状態ではない敵の中で
+    照準線に最も近い対象に
+    <color=#00AEFF>「ロックオン」
+    機能：セブンスドワーフの
+    攻撃対象を指定する
+    最大「ロックオン」対象数：{description_value_03}機
+    <word_group=10097>解除条件</word_group>：通常攻撃時と<word_group=10095>ハイド時</word_group></color>
+    ■チャージ中の時、{description_value_01}秒ごとに自分に
+    <color=#00AEFF>「オートファイア準備」
+    機能：セブンスドワーフに弾丸を装填する
+    効果：「防御力{description_value_04}％▲」「持続」
+    最大「オートファイア準備」装填数：{description_value_05}発
+    <word_group=10097>解除条件</word_group>：通常攻撃時</color>
+    ■チャージ中の時、{description_value_01}秒ごとに
+    ロックオン状態の敵全体に
+    <color=#00AEFF>「受けるダメージ{description_value_02}％▲」「{description_value_08}秒間維持」</color>
+    ■フルチャージして攻撃した時、
+    <color=#00AEFF>「オートファイア」
+    機能：ロックオン対象を
+    セブンスドワーフで攻撃する
+    効果1：敵全体に
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％のダメージ」
+    効果2：ロックオン対象に
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％のダメージ」
+    「オートファイア準備の装填数分だけ
+    <word_group=10050>順番に攻撃</word_group>」</color>
+    ■フルチャージして攻撃した時、
+    セブンスドワーフ・フルアクティブ状態なら、自分に
+    <color=#00AEFF>「セブンスドワーフ・フルアクティブ
+    使用回数1回▼」</color>
+    ■通常攻撃をした時、
+    フルバースト状態でなければ自分に
+    <color=#00AEFF>「セブンスドワーフ・フルアクティブ解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14713_name:
+  en: Seven Dwarves Fully Active
+  ko: 세븐스 드워프 풀 액티브
+  ja: セブンスドワーフ・フルアクティブ
+14713_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attack damage ▲ {description_value_03}% for {description_value_04} sec.
+    Seven Dwarves Fully Active
+    Function: Increases max number of Lock-On targets and max ammo loaded by Auto Fire Ready, but also increases Charge Time.
+    Number of uses: {description_value_05}
+    Effect 1: Fixes charge time at {description_value_01} sec continuously.
+    Effect 2: Max Lock-On targets ▲ {description_value_02} continuously.
+    Effect 3: Max ammo loaded by Auto Fire Ready ▲ {description_value_02} continuously.
+    <word_group=10097>Removal condition</word_group>: When the number of uses reaches 0.</color>
+    ■ Affects all <word_group=10096>destructible projectiles</word_group>.
+    <color=#00AEFF>Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [세븐스 드워프 풀 액티브]
+    기능 : 차지 시간이 증가하는 대신 록 온 최대 대상 수와 오토 파이어 레디 최대 장전 수가 증가
+    사용 횟수 : [{description_value_05}회]
+    효과 1 : [차지 시간 {description_value_01}초로 고정] [지속]
+    효과 2 : [최대 [록 온] 대상 수 {description_value_02} ▲] [지속]
+    효과 3 : [오토 파이어 레디 최대 장전 수 {description_value_02} ▲] [지속]
+    <word_group=10097>제거 시점</word_group> : 사용 횟수 소모 시</color>
+    ■ <word_group=10096>파괴 가능한 발사체</word_group> 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_06}% 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」
+    「セブンスドワーフ・フルアクティブ」
+    機能：チャージ時間が増加する代わりに
+    ロックオン最大対象数と
+    オートファイア準備の最大装填数増加
+    使用回数：「{description_value_05}回」
+    効果1：「チャージ時間{description_value_01}秒に固定」
+    「持続」
+    効果2：「最大「ロックオン」対象数{description_value_02}▲」「持続」
+    効果3：「オートファイア準備
+    最大装填数{description_value_02}▲」「持続」
+    <word_group=10097>解除条件</word_group>：使用回数を使い切った時</color>
+    ■<word_group=10096>破壊可能な発射体</word_group>全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％のダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+470_name:
+  en: Red Hood
+  ko: 레드 후드
+  ja: レッドフード
+224_name:
+  en: 'Snow White: Innocent Days'
+  ko: '스노우 화이트 : 이노센트 데이즈'
+  ja: スノーホワイト：イノセントデイズ
+225_name:
+  en: 'Scarlet: Black Shadow'
+  ko: '홍련 : 흑영'
+  ja: 紅蓮：ブラックシャドウ
+226_name:
+  en: 'Rapunzel: Pure Grace'
+  ko: '라푼젤 : 퓨어 그레이스'
+  ja: ラプンツェル：ピュアグレイス
+c471_Lobby_Touch_1:
+  en: I will kill the Queen. No matter the cost.
+  ko: 퀸을 죽인다. 반드시.
+  ja: クイーンを倒す。絶対に。
+c471_Lobby_Touch_2:
+  en: These weapons feel so light they seem weak.
+  ko: 이 무장들, 가벼워서 약한 것 같다.
+  ja: この武装は軽い。落ち着かない。
+c471_Lobby_Touch_3:
+  en: You want me to install a storage case for rations? Carrying extra rounds or
+    missiles would be far more useful.
+  ko: |-
+    음식 보관용 케이스를 장착하라고?
+    탄환이나 미사일을 싣는 게 훨씬 이득이다.
+  ja: |-
+    食糧保管用のケースを装着しろだと？
+    弾薬やミサイルを積んだ方がはるかに有益だ。
+c471_Lobby_Touch_Love_1:
+  en: All of my memories have returned. But... there is no going back.
+  ko: |-
+    모든 기억이 돌아왔다.
+    하지만 돌아갈 수 없지.
+  ja: |-
+    記憶がすべて戻った。
+    しかし、過去に戻ることはできない。
+c471_Lobby_Touch_Love_2:
+  en: This time... I will finally grant Lilith the true rest she deserves.
+  ko: |-
+    이번에야말로….
+    언니에게 진정한 안식을.
+  ja: |-
+    今度こそ…
+    お姉ちゃんに真の安らぎを。
+c471_Lobby_Touch_Love_3:
+  en: This may sound reckless, but as long as you're here, @UserName, I feel like
+    everything will work out somehow.
+  ko: |-
+    무책임한 소리일지도 모르겠지만,
+    너만 있다면 어떻게든 될 것 같은 기분이다.
+  ja: |-
+    無責任に聞こえるかもしれないが、
+    お前がいれば、何とかなる気がする。
+c471_Lobby_Stay_1:
+  en: I'll do some maintenance in the mean time, but don't make me wait too long.
+  ko: |-
+    정비라도 하고 있겠다.
+    오래 기다리게 하진 마라.
+  ja: |-
+    整備でもしている。
+    あまり長く待たせるな。
+c471_Lobby_Stay_Love_1:
+  en: Next time you disappear on me, at least leave some jerky behind. If that's too
+    much to ask, a potato will do.
+  ko: |-
+    다음부턴 자리를 비울 땐 육포라도 내놓고 가라.
+    …육포가 힘들다면 감자라도 내놔라.
+  ja: |-
+    次から席を外す時はビーフジャーキーでも置いていけ。
+    …難しければ、ジャガイモでもいい。
+c471_Outpost_Touch_1:
+  en: Someday, I'll make my way down to the Ark.
+  ko: 언젠가, 이 아래의 방주로 갈 날이 있겠지.
+  ja: いつか、この下のアークに行く日が 来るだろう。
+c471_Outpost_Touch_2:
+  en: This is a nice place. Plenty to eat, and the ground is actually covered in grass.
+  ko: |-
+    좋은 곳이다. 먹을 것도 많고.
+    봐라. 바닥에 온통 풀이다.
+  ja: |-
+    いい場所だ。 食べ物もたくさんある。
+    見ろ。地面は草だらけだ。
+c471_Outpost_Touch_3:
+  en: Where's the food storage area? Just making sure I know where it is in case of
+    an emergency.
+  ko: |-
+    식량 창고는 어디지?
+    물론, 유사시를 대비해 지리를 파악하기 위함일 뿐이다.
+  ja: |-
+    食糧庫はどこだ？
+    もちろん、有事に備えて 場所を把握しておくだけだ。
+c471_Gacha_Get_1:
+  en: The Queen defiled Lilith, and for that, she must die.
+  ko: 언니를 모독한 퀸을, 반드시 죽인다.
+  ja: お姉ちゃんを冒涜したクイーンを、必ず倒す。
+c471_Reinforce_1:
+  en: Feels like the weapons got heavier... Or maybe I'm imagining things.
+  ko: |-
+    무장이 좀 더 무거워진 느낌이군…!
+    아, 착각이었다.
+  ja: |-
+    武装が少し重くなった気がする…！
+    あ、気のせいか。
+c471_Reinforce_2:
+  en: I'm one step closer to killing the Queen.
+  ko: 퀸을 죽이기 위한 길에 좀 더 가까워졌다.
+  ja: クイーンを倒すための道に、また一歩近づいた。
+c471_Reinforce_3:
+  en: I've grown stronger. You should aim to do the same.
+  ko: |-
+    강해졌다.
+    너도 강해져라.
+  ja: |-
+    強くなった。
+    お前も強くなれ。
+c471_Gift_1:
+  en: Thanks for the food. This isn't edible, you say? Don't be so sure.
+  ko: |-
+    잘 먹겠다.
+    먹는 게 아니라고? 단언하지 마라.
+  ja: |-
+    おいしくいただこう。
+    食べ物じゃないだと？なぜ分かる。
+c471_Gift_2:
+  en: All right, I'll repay you with the rice ball I've been saving.
+  ko: 좋다. 답례로 아껴놨던 경단을 주지.
+  ja: よし。お礼に大切に取っておいた団子をやろう。
+c471_Gift_3:
+  en: A gift, huh... Come to think of it, I've never given you a proper gift myself.
+  ko: 선물이라… 그러고 보니 제대로 된 선물 하나 해준 적이 없었군.
+  ja: |-
+    プレゼントか…
+    そういえば、こちらからは何も渡したことがなかったな。
+c471_Attractive_Up_1:
+  en: I wonder if we can ever go back to the past...
+  ko: 우린… 다시 돌아갈 수 있을까.
+  ja: 私たちは…また戻れるだろうか。
+c471_Attractive_Up_2:
+  en: I trust you. So trust in me too.
+  ko: 너를 믿는다. 그러니 너도 나를 믿어라.
+  ja: お前を信じている。だから、お前も私を信じろ。
+c471_Attractive_Up_3:
+  en: I'm glad you haven't changed.
+  ko: 너는 변하지 않아 다행이다.
+  ja: お前は変わっていない。本当によかった。
+c471_Party_Deploy_1:
+  en: Come. Together, we'll kill the Queen.
+  ko: 함께 가자. 퀸을 죽이러.
+  ja: 一緒に行こう。クイーンを倒しに。
+c471_Field_Touch_1:
+  en: My name's Snow White.
+  ko: 스노우 화이트다.
+  ja: スノーホワイトだ。
+c471_Field_Go_1:
+  en: Very well. Let's go.
+  ko: 좋아. 가자.
+  ja: よし、行こう。
+c471_Battle_Enter_1:
+  en: Encounter.
+  ko: 인카운터.
+  ja: エンカウンター。
+c471_Battle_Ready_1:
+  en: Don’t bother praying. I'll be the one to kill your god.
+  ko: 기도하지 마라. 너희의 신은 내가 죽일 테니.
+  ja: 祈るな。お前の神は私が倒す。
+c471_Battle_Ready_2:
+  en: For Lilith... may she rest in peace.
+  ko: 언니에게 안식을.
+  ja: お姉ちゃんに安らぎを。
+c471_Battle_Ready_3:
+  en: The Queen...!
+  ko: 퀸…!
+  ja: クイーン…！
+c471_Reload_1:
+  en: Conducting maintenance.
+  ko: 정비한다.
+  ja: 整備する。
+c471_Reload_2:
+  en: We're not done. Keep going.
+  ko: 아직 멀었다. 계속 간다.
+  ja: まだまだだ。行くぞ。
+c471_Reload_3:
+  en: Ammo check. All good.
+  ko: 잔탄 확인. 문제없다.
+  ja: 残弾確認。問題ない。
+c471_Ult_Skill_Ready_1:
+  en: Seven Dwarves, ready.
+  ko: 세븐스 드워프, 레디.
+  ja: セブンスドワーフ、レディー。
+c471_Ult_Skill_1:
+  en: Fully active! Pierce through...!
+  ko: |-
+    풀 액티브!
+    꿰… 뚫어라-!!
+  ja: |-
+    フルアクティブ！
+    貫け…！！
+c471_FullBurst_1:
+  en: I'll kill them all, leaving nothing behind!
+  ko: 모두 죽인다. 남김없이…!
+  ja: すべて倒す。一つ残らず…！
+c471_Kill_Monster_1:
+  en: Got one. Next.
+  ko: 잡았다. 다음.
+  ja: クリア。次。
+c471_Kill_Monster_2:
+  en: Hmm. These weapons are great.
+  ko: 음. 좋은 무장이다.
+  ja: うむ。いい武装だ。
+c471_Kill_Monster_3:
+  en: I'm feeling peckish.
+  ko: 배가 조금 고픈 것 같다.
+  ja: 少し腹が減った。
+c471_Damage_1:
+  en: Hmm.
+  ko: 흠.
+  ja: ふん。
+c471_Damage_2:
+  en: Is that it?
+  ko: 이 정도인가.
+  ja: この程度か。
+c471_Damage_3:
+  en: I'm hit.
+  ko: 피격됐다.
+  ja: 負傷した。
+c471_Die_1:
+  en: There's still... work to be done!
+  ko: 아직… 해야 할 일이…!
+  ja: まだ…すべきことが…！
+c471_Win_1:
+  en: Clear. But we've still got a long way to go.
+  ko: 상황 종료. 아직 멀었다.
+  ja: 状況終了。まだ先は長い。
+471_cv_ja:
+  en: 'CV: M・A・O'
+  ko: 'CV : M・A・O'
+  ja: CV：M・A・O
+471_cv_ko:
+  en: 'CV: So Yeon'
+  ko: 'CV : 소연'
+  ja: CV：ソヨン
+471_cv_en:
+  en: 'CV: Laura Stahl'
+  ko: 'CV : 로라 스탈'
+  ja: CV：Laura Stahl

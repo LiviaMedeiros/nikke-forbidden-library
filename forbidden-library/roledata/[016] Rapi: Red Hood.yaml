@@ -104,10 +104,10 @@ skill_name_1003:
     <color=#00AEFF>Combat Assist: <word_group=10062>Changes to Burst Stage {description_value_01}</word_group> continuously.</color>
     Affects self if there are <word_group=10067>Burst 1 allies.</word_group>
     <color=#00AEFF>Removes Combat Assist.</color>
-    ■ Affects all allies if in Combat Assist status when entering Full Burst.
+    ■ Activates when entering Full Burst if self is in Combat Assist status. Affects all allies.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_02} sec.
     Attack Damage ▲ {description_value_07}% for {description_value_08} sec.</color>
-    ■ Affects self if not in Combat Assist status when entering Full Burst.
+    ■ Activates when entering Full Burst if self is not in Combat Assist status. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.
     <word_group=10000>Damage to Interruption Parts</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
   ko: |-

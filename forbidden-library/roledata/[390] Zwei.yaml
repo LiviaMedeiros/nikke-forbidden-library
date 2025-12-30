@@ -59,8 +59,8 @@ character_shot_description_localkey_sg_down:
   ja: 構造分析
 23902_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects all allies.
-    <color=#00AEFF><word_group=10017>Recovers {description_value_02}% of Cover's HP</word_group>.</color>
+    ■ Activates after {description_value_01} normal attack(s). Affects all allies.
+    <color=#00AEFF><word_group=10017>Recovers Cover's HP</word_group> by {description_value_02}%.</color>
     ■ Activates when entering Full Burst. Affects all allies.
     <color=#00AEFF>Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
@@ -86,7 +86,7 @@ skill_name_1003:
 23901_description:
   en: |-
     ■ Activates when entering Full Burst. Affects all allies.
-    <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_01}% for {description_value_02} shot(s). </color>
+    <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_01}% for {description_value_02} round(s). </color>
     <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 풀 버스트 타임 시작 시 아군 전체에게
@@ -107,7 +107,7 @@ skill_name_1002:
 13903_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Change the Weapon in use:
+    <color=#00AEFF>Change the weapon in use:
     Charge Time: 1.5 sec
     Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
     Full Charge Damage: 300% of damage

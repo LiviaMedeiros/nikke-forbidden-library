@@ -63,7 +63,7 @@ character_shot_description_localkey_rl_up:
 28422_description:
   en: |-
     ■ Activates when using Burst Skill. Affects all allies.
-    <color=#00AEFF>Blue Herb: Generates a <word_group=10023>shield</word_group> with {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.</color>
+    <color=#00AEFF>Blue Herb: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.</color>
   ko: |-
     ■ 버스트 스킬 사용 시 아군 전체에게
     <color=#00AEFF>[푸른 허브 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]</color>
@@ -83,7 +83,7 @@ skill_name_1003:
 28421_description:
   en: |-
     ■ Activates when landing {description_value_01} Full Charge attack(s). Affects {description_value_02} ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
-    <color=#00AEFF>Green Herb: Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> max HP as HP.</color>
+    <color=#00AEFF>Green Herb: Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
   ko: |-
     ■ 풀 차지 공격 {description_value_01}회 명중 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_02}기에게
     <color=#00AEFF>[녹색 허브 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복]</color>
@@ -103,7 +103,7 @@ skill_name_1002:
 18423_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> max HP as HP.
+    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP as HP.
     <word_group=10005>Dispels {description_value_02} debuff(s)</word_group>.</color>
   ko: |-
     ■ 아군 전체에게

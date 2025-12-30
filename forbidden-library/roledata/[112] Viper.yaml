@@ -102,7 +102,7 @@ skill_name_1002:
   en: |-
     ■ Affects {description_value_01} designated enemy unit(s).
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    ■ Activates when the designated enemy unit(s) include the stage target. Affects the same enemy unit(s).
+    ■ Affects the enemy if the enemy is the stage target.
     <color=#00AEFF>DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 지정한 적 대상 {description_value_01}기에게

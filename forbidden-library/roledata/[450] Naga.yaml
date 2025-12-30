@@ -82,8 +82,8 @@ skill_name_1003:
   ja: 友情のガード
 24501_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects all allies.
-    <color=#00AEFF><word_group=10017>Recovers {description_value_02}% of Cover's HP</word_group>.</color>
+    ■ Activates after {description_value_01} normal attack(s). Affects all allies.
+    <color=#00AEFF><word_group=10017>Recovers Cover's HP</word_group> by {description_value_02}%.</color>
     ■ Activates when <word_group=10032>applying Shield</word_group>. Affects all allies.
     <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-

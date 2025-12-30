@@ -101,9 +101,9 @@ skill_name_1003:
     γ: ATK ▲ {description_value_01}% continuously. Activates once per battle.</color>\n■
     Activates when in Metal γ status after landing 10 normal attacks. Affects all
     allies.\n<color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group>
-    Max HP.</color>\n■ Activates if the caster is in Metal γ status when an ally is
-    out of action. Affects {description_value_03} incapacitated ally unit(s) with
-    the highest <word_group=10025>final</word_group> ATK (except caster).\n<color=#00AEFF>Resurrect
+    Max HP as HP.</color>\n■ Activates if the caster is in Metal γ status when an
+    ally is out of action. Affects {description_value_03} incapacitated ally unit(s)
+    with the highest <word_group=10025>final</word_group> ATK (except caster).\n<color=#00AEFF>Resurrect
     with {description_value_04}% HP.</color>\n■ Activates when an ally is out of action.
     Affects self.\n<color=#00AEFF>Removes Metal γ.</color>"
   ko: |-

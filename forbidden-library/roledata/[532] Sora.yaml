@@ -64,7 +64,7 @@ character_shot_description_localkey_rl_up:
 25322_description:
   en: |-
     ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies.
-    <color=#00AEFF>Storage: Stores excess healing received by the caster, up to {description_value_01}% of their max HP. Stacks up to {description_value_05} time(s) for {description_value_02} sec.
+    <color=#00AEFF>Storage: Stores excess healing received by the caster, up to {description_value_01}% of their Max HP. Stacks up to {description_value_05} time(s) and lasts for {description_value_02} sec.
     ATK ▲ {description_value_03}% of the caster's ATK for {description_value_04} sec.</color>
   ko: |-
     ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 아군 전체에게
@@ -106,7 +106,7 @@ skill_name_1002:
 15323_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> max HP as HP.
+    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP as HP.
     <word_group=10005>Dispels {description_value_02} debuff(s)</word_group>.</color>
   ko: |-
     ■ 아군 전체에게

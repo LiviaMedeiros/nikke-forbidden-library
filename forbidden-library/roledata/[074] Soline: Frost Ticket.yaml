@@ -55,7 +55,7 @@ character_shot_description_localkey_sg_down:
 20742_description:
   en: |-
     ■ Activates when the HP of anyone in the squad is lower than {description_value_01}%. Affects the target if the target has any tickets.
-    <color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group> max HP as HP.
+    <color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group> Max HP as HP.
     Ticket count ▼ {description_value_03}.</color>
     ■ Activates at the start of battle. Affects all allies.
     <color=#00AEFF>First Train Discount for {description_value_04} sec.
@@ -88,8 +88,8 @@ skill_name_1003:
 20741_description:
   en: |-
     ■ Activates at the start of battle and when using Burst Skill. Affects all allies.
-    <color=#00AEFF>Issues 1 ticket, up to a maximum of 2, continuously.
-    Ticket effect: Max HP ▲ number of tickets * {description_value_01}% of the caster's max HP.</color>
+    <color=#00AEFF>Issues 1 ticket, up to a maximum of 2. This effect is continuous.
+    Ticket effect: Max HP ▲ number of tickets * {description_value_01}% of the caster's Max HP.</color>
     ■ Activates when entering Full Burst. Affects all allies.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>
     ■ Activates when entering Full Burst. Affects all allies.
@@ -124,7 +124,7 @@ skill_name_1002:
 10743_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> max HP as HP.</color>
+    <color=#00AEFF>Recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
