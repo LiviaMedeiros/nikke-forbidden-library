@@ -107,9 +107,9 @@ skill_name_1003:
 20951_description:
   en: |-
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF>Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_01} sec. Loses effect when the caster takes damage.</color>
+    <color=#00AEFF>Camouflage: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_01} sec. This effect is removed upon taking a direct hit.</color>
     ■ Activates when performing Full Charge attacks. Affects self when entering Full Burst.
-    <color=#00AEFF>Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_01} sec. Loses effect when the caster takes damage.</color>
+    <color=#00AEFF>Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_01} sec. This effect is removed upon taking a direct hit.</color>
     ■ Activates only when in Camouflage status. Affects self.
     <color=#00AEFF>Normal attacks deal true damage continuously.
     True Damage ▲ {description_value_02}% continuously.</color>
@@ -144,11 +144,11 @@ skill_name_1002:
   ko: 내부 폭발탄
   ja: 徹甲炸裂弾
 10953_description:
-  en: "■ Affects self.\n<color=#00AEFF>Change the weapon in use:\nCharge time: 0.3
+  en: "■ Affects self.\n<color=#00AEFF>Changes the weapon in use:\nCharge time: 0.3
     sec\nDamage: {description_value_01}% of <word_group=10025>final</word_group> ATK
-    as true damage\nFull Charge damage: 300% of damage\nMax ammunition capacity: {description_value_02}
+    as true damage\nFull Charge damage: 300% of damage\nMax Ammunition Capacity: {description_value_02}
     round(s)\nSpecial note: Fires an Exploding Bullet dealing area-of-effect damage.
-    \nAdditional effect:\nTarget: Target(s) hit\nEffect: Explosive Round: Damage taken
+    \nAdditional effect:\nTarget: Target(s) hit\nEffect: Explosive Round: Damage Taken
     ▲ {description_value_03}% for {description_value_04} sec.</color>"
   ko: |-
     ■ 자신에게

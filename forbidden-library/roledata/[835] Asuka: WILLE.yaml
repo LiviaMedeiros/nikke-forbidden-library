@@ -60,15 +60,15 @@ character_shot_description_localkey_mg_down:
   ja: 緊急修復
 28352_description:
   en: |-
-    ■ Activates when entering Full Burst. Affects self when in Annihilation State status.
+    ■ Activates when entering Full Burst while in Annihilation State status. Affects self.
     <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
     ■ Activates when using Annihilation. Affects self.
     <color=#00AEFF>Emergency Repair:
-    Function: Reduces MG heating up speed and clears ammo. Fixes recharge speed and restores HP based on the Max HP proportion continuously.
+    Function: Reduces MG heating up speed and clears ammo. Fixes reloading speed and continuously restores HP based on Max HP.
     Effect 1: <word_group=10073>MG heating up speed</word_group> ▼ {description_value_03}% for {description_value_04} sec.
     Effect 2: Clears {description_value_05}% of ammo.
     Effect 3: Constantly recovers {description_value_06}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec over {description_value_07} sec.
-    Effect 4: Fixes the recharge speed with a {description_value_08}% increase for {description_value_09} shot(s).</color>
+    Effect 4: Reloading Speed is fixed at a {description_value_08}% increase for {description_value_09} round(s).</color>
   ko: |-
     ■ 풀 버스트 타임 시작 시 자신이 섬멸 태세 상태라면 자신에게
     <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>

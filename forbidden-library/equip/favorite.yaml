@@ -353,7 +353,7 @@
       ■ Affects self.
       <color=#00AEFF>Hit Rate ▲ {description_value_01}% continuously.</color>
       ■ Activates when entering Full Burst. Affects self.
-      <color=#00AEFF>Vamp: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> continuously. Loses effect when the caster takes damage.
+      <color=#00AEFF>Vamp: <word_group=10004>Prevents being targeted by single-target attacks</word_group> continuously. This effect is removed upon taking a direct hit.
       Invulnerable for {description_value_02} sec.</color>
       ■ Activates when using Burst Skill. Affects all allies.
       <color=#00AEFF><word_group=10002>Re-enter Burst Skill </word_group>Stage 2.</color>

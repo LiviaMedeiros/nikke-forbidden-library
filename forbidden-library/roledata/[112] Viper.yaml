@@ -55,7 +55,7 @@ character_shot_description_localkey_sg_down:
     ■ Affects self.
     <color=#00AEFF>Hit Rate ▲ {description_value_01}% continuously.</color>
     ■ Activates when entering Full Burst. Affects self.
-    <color=#00AEFF>Vamp: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_02} sec. Loses effect when the caster takes damage.
+    <color=#00AEFF>Vamp: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_02} sec. This effect is removed upon taking a direct hit.
     Invulnerable for {description_value_03} sec.</color>
   ko: |-
     ■ 자신에게

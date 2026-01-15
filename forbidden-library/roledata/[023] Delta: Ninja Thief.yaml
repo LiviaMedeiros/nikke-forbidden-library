@@ -61,7 +61,7 @@ character_shot_description_localkey_mg_down:
     <color=#00AEFF>Effect 1: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.
     Effect 2: Attract: Taunt all enemies continuously.</color>
     Affects self if there is another Defender ally in the squad.
-    <color=#00AEFF>Effect 1: Ninjutsu Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_06} sec. Loses effect when the caster takes damage.
+    <color=#00AEFF>Effect 1: Ninjutsu Camouflage: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_06} sec. This effect is removed upon taking a direct hit.
     Effect 2: Ninjutsu Injection: Recovers {description_value_07}% of attack damage as HP continuously.</color>
     ■ Activates when performing {description_value_03} normal attack(s). Affects self while in Attract status.
     <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_04}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_05} sec.</color>

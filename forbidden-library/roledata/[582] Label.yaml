@@ -1,0 +1,563 @@
+---
+582_name:
+  en: Label
+  ko: 레이블
+  ja: レーベル
+c582_description:
+  en: |-
+    A librarian at the Ark's library who works alongside Phantom.
+    She keeps her distance from others due to her chronic delusions and gloomy personality, but deep down she craves friendship and love, and dreams of the day she'll finally find them.
+  ko: |-
+    팬텀과 함께 방주의 도서관에서 사서로 일하고 있다.
+    고질적인 망상증과 음침한 성격으로 인해 사람들과 거리를 두게 되지만,
+    사실 마음속으로는 우정과 사랑을 갈구하며 그날이 오기를 꿈꾸고 있다.
+  ja: |-
+    ファントムと共にアークの図書館で司書として働いている。
+    慢性的な妄想癖と陰気な性格のために
+    皆から距離を置かれているが、
+    誰よりも友情と愛情に飢えており、
+    心が満たされる日を夢見ている。
+582_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_582:
+  en: Label's Spare Body
+  ko: 레이블 스페어 바디
+  ja: レーベルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25822_name:
+  en: Sweetness of Love (Imagined)
+  ko: 연애의 달콤함(상상)
+  ja: 甘い恋愛（想像）
+25822_description:
+  en: |-
+    ■ Activates at the start of battle. Affects all allies (except self).
+    <color=#00AEFF><word_group=10094>Damage taken from Electric Code enemies</word_group> ▼ {description_value_05}% for {description_value_07} sec. Activates {description_value_06} time(s) per battle.</color>
+    ■ Activates only while in Delusion status. Affects self.
+    <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_01}% continuously.
+    ATK ▲ {description_value_02}% continuously.
+    <word_group=10094>Damage taken from Electric Code enemies</word_group> ▼ {description_value_03}% continuously.</color>
+    ■ Activates only while in Shared Delusion status. Affects all allies (except self).
+    <color=#00AEFF>ATK ▲ {description_value_04}% of the caster's ATK continuously.</color>
+  ko: |-
+    ■ 전투 시작 시 자신을 제외한 아군 전체에게
+    <color=#00AEFF>[<word_group=10094>전격 코드 적으로부터 받는 대미지</word_group> {description_value_05}% ▼] [{description_value_07}초 유지] [전투 중 {description_value_06}회 발동]</color>
+    ■ 자신이 망상 상태일 때 한하여 자신에게
+    <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_01}% ▲] [지속]
+    [공격력 {description_value_02}% ▲] [지속]
+    [<word_group=10094>전격 코드 적으로부터 받는 대미지</word_group> {description_value_03}% ▼] [지속]</color>
+    ■ 자신이 망상 공유 상태일 때 한하여 자신을 제외한 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_04}% ▲] [지속]</color>
+  ja: |-
+    ■戦闘開始時自分を除く味方全体に
+    <color=#00AEFF>「<word_group=10094>電撃コードの敵から受けるダメージ</word_group>
+    {description_value_05}％▼」「{description_value_07}秒間維持」「戦闘中{description_value_06}回発動」</color>
+    ■自分が妄想状態の時に限り、自分に
+    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_01}％▲」「持続」
+    「攻撃力{description_value_02}％▲」「持続」
+    「<word_group=10094>電撃コードの敵から受けるダメージ</word_group>
+    {description_value_03}％▼」「持続」</color>
+    ■自分が妄想共有状態の時に限り、
+    自分を除く味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_04}％▲」
+    「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25821_name:
+  en: Meeting and Parting (Imagined)
+  ko: 만남과 이별(상상)
+  ja: 出会いと別れ（想像）
+25821_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+    ■ Activates when Delusion status ends. Affects self.
+    <color=#00AEFF>Delusion Shattered: Activates up to {description_value_02} time(s). This effect is continuous.
+    Effect 1: Imagined Heartbreak: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_03} sec x Delusion Shattered count. This effect is removed upon taking a direct hit.
+    Effect 2: Stuns for {description_value_03} sec per Delusion Shattered stack.</color>
+    ■ Activates when performing a normal attack while not in Delusion status. Affects self.
+    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+    ■ Activates when using Burst Skill while not in Delusion status. Affects self.
+    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[망상 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>
+    ■ 망상 상태 종료 시 자신에게
+    <color=#00AEFF>[망상 파괴] [최대 {description_value_02}회] [지속]
+    효과 1 : [상상 실연 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_03}초 X 망상 파괴 횟수 만큼 유지]
+    효과 2 : [기절] [{description_value_03}초 X 망상 파괴 횟수 만큼 유지]</color>
+    ■ 일반 공격 시 자신이 망상 상태가 아니라면 자신에게
+    <color=#00AEFF>[망상 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>
+    ■ 버스트 스킬 사용 시 자신이 망상 상태가 아니라면 자신에게
+    <color=#00AEFF>[망상 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「妄想：スキル発動者の
+    <word_group=10025>最終</word_group>最大HPの{description_value_01}％の<word_group=10023>バリア</word_group>」「持続」</color>
+    ■妄想状態が終了した時、自分に
+    <color=#00AEFF>「妄想崩壊」「最大{description_value_02}回」「持続」
+    効果1：「想像失恋：<word_group=10004>単一攻撃対象から除外
+    </word_group>直接攻撃を受けると解除」
+    「{description_value_03}秒×妄想崩壊回数分だけ維持」
+    効果2：「気絶」
+    「{description_value_03}秒×妄想崩壊回数分だけ維持」</color>
+    ■通常攻撃をした時、
+    自分が妄想状態でなければ自分に
+    <color=#00AEFF>「妄想：スキル発動者の
+    <word_group=10025>最終</word_group>最大HPの{description_value_01}％の<word_group=10023>バリア</word_group>」「持続」</color>
+    ■バーストスキルを使用した時、
+    自分が妄想状態でなければ自分に
+    <color=#00AEFF>「妄想：スキル発動者の
+    <word_group=10025>最終</word_group>最大HPの{description_value_01}％の<word_group=10023>バリア</word_group>」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15823_name:
+  en: Bursting Heart
+  ko: 폭발하는 마음
+  ja: 爆発する心
+15823_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.
+    Shared Delusion: The <word_group=10023>Shield</word_group> created by Label becomes invulnerable for {description_value_03} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[최대 체력 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [망상 공유 : 자신이 설치한 <word_group=10023>보호막</word_group> 무적] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」
+    「妄想共有：自分が展開した<word_group=10023>バリア</word_group>に
+    無敵付与」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+580_name:
+  en: Phantom
+  ko: 팬텀
+  ja: ファントム
+581_name:
+  en: Arcana
+  ko: 아르카나
+  ja: アルカナ
+c582_Lobby_Touch_1:
+  en: A-am I even worthy... of being in your presence?
+  ko: 이, 이렇게 귀한 분 앞에 누추한 제가 와도 되는 걸까요….
+  ja: |-
+    こ、こんな尊いお方の前に、
+    みすぼらしい私が立っていいんでしょうか…
+c582_Lobby_Touch_2:
+  en: |-
+    Y-you... don't really want me here, do you?
+    I'm sorry, I'm sorry, I'm sorry, I'm sorry for overstepping...
+  ko: |-
+    여, 역시 제가 여기 있는 게 싫으셨던 건가요…?
+    죄송합니다죄송합니다죄송합니다주제넘어서죄송합니다….
+  ja: |-
+    や、やっぱり私がここに来るのは嫌だったんですか…？
+    すみませんすみませんすみませんでしゃばってすみません…
+c582_Lobby_Touch_3:
+  en: I-if that's what you want, I'll go sit in the trash can over there...
+  ko: 워, 원하시면 저기 쓰레기통에 들어가 있을게요….
+  ja: お、お望みなら、あのゴミ箱に入ってますね…
+c582_Lobby_Touch_Love_1:
+  en: Just trust me from now on... I'll be watching your every move... Every morning,
+    noon, evening, even in the dead of night... Hehehe...
+  ko: |-
+    앞으로 저만 믿어주세요… 매일 아침 점심 저녁 새벽…
+    당신의 일거수일투족을 지켜보고 있을 테니까… 흐흐흐….
+  ja: |-
+    これから私だけを信じてください…
+    毎日…朝、昼、晩、そして夜中まで…
+    あなたの一挙手一投足を見守りますから…ふふふ…
+c582_Lobby_Touch_Love_2:
+  en: Ahh... I knew it. Fate must have led me here...
+  ko: 아아… 역시 운명이 나를 이곳으로 이끈 거야….
+  ja: ああ…やっぱり運命に導かれたのね…
+c582_Lobby_Touch_Love_3:
+  en: |-
+    Hehehe... If a man and a woman find themselves alone in a place like this...
+    There's really only one thing they should do. Don't you think?
+  ko: |-
+    으흐흐… 이런 곳에 남녀 단둘이 남는다면…
+    해야 할 것은 하나밖에 없지 않나요?
+  ja: |-
+    うふふ…こんな場所に男女二人っきり…
+    すべきことは、一つしかないでしょう？
+c582_Lobby_Stay_1:
+  en: |-
+    H-huh...? Where did you go...?
+    Y-you're not... meeting another woman, are you...?
+  ko: |-
+    어, 어라…? 어디 가신 거지…?
+    서, 설마… 다른 여자를 만나고 있다거나… 그런 건 아니겠지…?
+  ja: |-
+    あ、あれ…？いったいどこへ…？
+    …ほ、他の女と会ってるとか…？まさかそんなね…
+c582_Lobby_Stay_Love_1:
+  en: |-
+    Hehehe... N-not here... I-I'm not ready yet...
+    Ah...! H-hey... wh-when did you come back...?
+  ko: |-
+    으흐흐… 여기선 안 돼요… 아직 저는 마음의 준비가…
+    아…! 다, 다, 당신…? 언제 돌아오셨던 건가요…?
+  ja: |-
+    ぐふふ…ここではダメですよ…まだ心の準備が…
+    あっ…！あ、あ、あなた…？いつ戻ってきたんですか…？
+c582_Outpost_Touch_1:
+  en: I-I... just want to hurry back to my room...
+  ko: 아아… 빠, 빨리 방에 돌아가고 싶어….
+  ja: ああ…は、早く部屋に戻りたい…
+c582_Outpost_Touch_2:
+  en: Th-there are too many people here...
+  ko: 여, 여긴 사람이 너무 많아….
+  ja: こ、ここは人が多すぎる…
+c582_Outpost_Touch_3:
+  en: Eek...! Y-you scared me...
+  ko: 흐익…! 까, 깜짝이야….
+  ja: ひぃっ…！び、びっくりした…
+c582_Gacha_Get_1:
+  en: |-
+    Oh! You finally came for me...!
+    I knew we were destined to meet... Hehehe.
+  ko: |-
+    아아… 드디어 저를 찾아주셨군요…!
+    역시 저희는 만나게 될 운명이었던 거예요… 으흐흐흐.
+  ja: |-
+    ああ…ついに私を見つけてくれたんですね…！
+    やっぱり、私たちは出会う運命だったんです…うふふふ。
+c582_Reinforce_1:
+  en: Hehe, good... Now we can stay together a little longer...
+  ko: 흐흐, 좋아… 이걸로 좀 더 오래 함께할 수 있어….
+  ja: ふふ…これでずっと一緒にいられる…
+c582_Reinforce_2:
+  en: Hehehe... Does this mean I don't have to worry about being abandoned anymore?
+  ko: 으흐흐… 이제 버림받을 걱정은 하지 않아도 되는 걸까요?
+  ja: うふふ…これで捨てられる心配はしなくていいですよね？
+c582_Reinforce_3:
+  en: |-
+    You're treating me so well...
+    Does that mean you want to be with me forever...? Hehehe...
+  ko: |-
+    이렇게 챙겨주신다는 건…
+    레이블과 평생을 함께하고 싶다는 의미…? 으흐흐….
+  ja: |-
+    こんなに気遣ってくれるということは…
+    レーベルと一生を共にしたいということ…？ぐふふ…
+c582_Gift_1:
+  en: I-if you keep this up... I might start getting the wrong idea...
+  ko: 계, 계속 이러시면… 저 오해해 버려요…?
+  ja: こ、このままだと…勘違いしちゃいますよ…？
+c582_Gift_2:
+  en: Hehehe... I'll cherish the gift you gave me... Forever...
+  ko: 흐흐흐… 당신이 준 선물… 소중히 간직할게요. 영원히….
+  ja: ふふふ…あなたからのプレゼント…大切にしますね。永遠に…
+c582_Gift_3:
+  en: |-
+    *Sniff sniff* Ohh, this smells just like you...
+    If I sleep with it by my side... it'll feel like I'm sleeping next to you! Hehe...
+  ko: |-
+    킁킁… 아아… 이건 당신의 냄새…
+    옆에 두고 자면… 당신과 자는 느낌이 나지 않을까요...? 으흐흐.
+  ja: |-
+    クンクン…ああ…これはあなたの匂い…隣に置いて寝たら…
+    あなたに添い寝してもらってる気分になるのでは…？ぐふふ。
+c582_Attractive_Up_1:
+  en: Ahh... I could die happy today...
+  ko: |-
+    아아… 이 레이블,
+    오늘부로 숨이 멎어버려도 좋아요….
+  ja: |-
+    ああ…このレーベル…
+    今日、死んでもかまいません…
+c582_Attractive_Up_2:
+  en: I'll say it as many times as you want. I like you. I like you, I like you, I
+    like you, I like you, I like you...
+  ko: |-
+    몇 번이라도 말해 드릴게요… 좋아해요.
+    좋아해요좋아해요좋아해요좋아해요좋아해요….
+  ja: |-
+    何度でもお伝えします…好きです。
+    好きです好きです好きです好きです好きです…
+c582_Attractive_Up_3:
+  en: For you, I'd give everything... My time, my money, even my entire life...
+  ko: |-
+    당신이라면 모든 걸 드릴 수 있어요…
+    시간이든 돈이든 제 인생까지도 전부….
+  ja: |-
+    あなたになら、何でも差し上げます…
+    時間、お金、私の人生…すべて…
+c582_Party_Deploy_1:
+  en: |-
+    H-have you guys ever kissed? Well, I have...
+    I-in my imagination, of course... Hehehe...
+  ko: |-
+    호, 혹시 다들 키스는 해보셨는지… 저는 해봤거든요…
+    물론 상상이지만… 으흐흐.
+  ja: |-
+    み、みなさんキスの経験は…？私はありますよ…
+    もちろん想像ですけど…ぐふふ。
+c582_Field_Touch_1:
+  en: Wh-what's the matter...? Did I do something wrong...?
+  ko: 왜, 왜 그러시나요…? 제가 무슨 실수를…?
+  ja: ど、どうかしました…？私、何かやっちゃいました…？
+c582_Field_Go_1:
+  en: I-I don't want to... But if that's what you want...
+  ko: 시, 싫지만… 당신이 원한다면….
+  ja: い、嫌ですけど…あなたが望むなら…
+c582_Battle_Enter_1:
+  en: Can someone like me really be of help...?
+  ko: 과연 저 같은 게 도움이 될 수 있을지….
+  ja: 私なんかが役に立てるんでしょうか…
+c582_Battle_Ready_1:
+  en: I have to show my best side...
+  ko: 멋진 모습을 보여줘야만 해….
+  ja: いいところを見せないと…
+c582_Battle_Ready_2:
+  en: If I win this battle... then I’m yours... Hehehe...
+  ko: 이번 전투를 무사히 끝내면 당신에게… 으흐흐….
+  ja: 戦闘が無事に終わったら…ぐふふ…
+c582_Battle_Ready_3:
+  en: Hehehe... Keep your eyes on me, all right?
+  ko: 으흐흐… 잘 지켜봐 주셔야 해요…?
+  ja: ちゃんと見ていてくださいね…？
+c582_Reload_1:
+  en: Reload, reload, reload...
+  ko: 장전장전장전….
+  ja: 装填装填装填…
+c582_Reload_2:
+  en: C-come on, reload...
+  ko: 자, 장전 좀….
+  ja: そ、装填を…
+c582_Reload_3:
+  en: I-I'll be quick. Just don't call me useless...
+  ko: 빠, 빨리할 테니까 쓸모없다는 말만은….
+  ja: す、すぐやるから「役立たず」って言わないで…
+c582_Ult_Skill_Ready_1:
+  en: I'll do anything you command...!
+  ko: 당신의 명령이라면 무엇이든…!
+  ja: あなたのご命令とあらば、何だって…！
+c582_Ult_Skill_1:
+  en: Ahh, yes... We were meant to be together...!
+  ko: 아아… 그래. 우린 맺어질 운명이었던 거야…!
+  ja: 私たち、結ばれる運命だったんだ…！
+c582_FullBurst_1:
+  en: I'll handle everything that bothers you...!
+  ko: 당신을 귀찮게 하는 것들은 전부…!
+  ja: あなたを煩わせるものは、すべて…！
+c582_Kill_Monster_1:
+  en: "... Die."
+  ko: "…죽어줘."
+  ja: "…消えて。"
+c582_Kill_Monster_2:
+  en: Hehehe... G-gotcha.
+  ko: 흐흐흐… 자, 잡았다.
+  ja: ふふふ…た、倒した。
+c582_Kill_Monster_3:
+  en: Get out of my way...
+  ko: 방해하지 마….
+  ja: 邪魔しないで…
+c582_Damage_1:
+  en: This is the worst...
+  ko: 아아, 최악….
+  ja: 最悪…
+c582_Damage_2:
+  en: I don't like this...
+  ko: 기분 나빠….
+  ja: 気に入らない…
+c582_Damage_3:
+  en: Why...?
+  ko: 어째서…?
+  ja: どうして…？
+c582_Die_1:
+  en: I'm sorry, I'm sorry, I'm sorry, I'm sorry for being useless...
+  ko: 죄송합니다죄송합니다죄송합니다쓸모없어서 죄송합니다….
+  ja: すみませんすみませんすみません役立たずですみません…
+c582_Win_1:
+  en: Now that every enemy standing between us is gone... does this mean we can finally
+    hold our wedding...? Hehehe.
+  ko: |-
+    당신과 저를 방해하는 적은 다 사라졌으니…
+    이제 결혼식을 올리면 되려나요…? 으흐흐.
+  ja: |-
+    私たちを邪魔する敵は消えたので…
+    あとは結婚式を挙げるだけですね…？うふふ。
+582_cv_ja:
+  en: 'CV: Nichika Ōmori'
+  ko: 'CV : 오오모리 니치카'
+  ja: CV：大森日雅
+582_cv_ko:
+  en: 'CV: Ji-ah Ryu'
+  ko: 'CV : 류지아'
+  ja: CV：リュウ・ジア
+582_cv_en:
+  en: 'CV: Amanda Hufford'
+  ko: 'CV : 아만다 허포드'
+  ja: CV：Amanda Hufford
