@@ -5474,3 +5474,711 @@ d_ex_trainstation_10:
     ja: |-
       私たちはしばらくの間
       鉄道駅で話に花を咲かせた
+d_ex_trainstation_11:
+  d_ex_trainstation_11_01:
+    speaker: velvet_m
+    en: Haha! Being around you, Master, certainly lets me experience new things like
+      this.
+    ko: 꺄하하하. 주인님이랑 같이 있으니까, 이런 경험도 다 해보네.
+    ja: |-
+      ご主人様と一緒だと、
+      こんな経験もできるのね～！
+  d_ex_trainstation_11_02:
+    speaker: velvet_m
+    en: This is the first time I've ever been at a train station that's completely
+      empty.
+    ko: 아~무도 없는 기차역은 처음이야.
+    ja: だ～れもいない鉄道駅なんて初めてよ。
+  d_ex_trainstation_11_03:
+    speaker: velvet_m
+    en: And at such a late hour too.
+    ko: 그것도 이런 한밤중에.
+    ja: それも、こんな真夜中に。
+  d_ex_trainstation_11_04:
+    speaker: velvet_m
+    en: This is perfect for the two of us to get up to a little mischief, wouldn't
+      you say?
+    ko: 둘이서 비밀~스런 장난치기 딱 좋다, 그치?
+    ja: 2人でナイショのイタズラ…？いいかも～
+  d_ex_trainstation_11_05:
+    speaker: "<Self>"
+    en: We shouldn't play mischief.
+    ko: 장난은 치면 안 돼.
+    ja: イタズラはダメだ
+  d_ex_trainstation_11_06:
+    speaker: "<Self>"
+    en: This is still someone else's workplace.
+    ko: 여기도 누군가의 직장이니까.
+    ja: ここで働いている人もいるのだから
+  d_ex_trainstation_11_07:
+    speaker: velvet_m
+    en: I'm just putting it out there.
+    ko: 말이 그렇다는 거지, 말이~
+    ja: ジョーダンよ、ジョーダン。
+  d_ex_trainstation_11_08:
+    speaker: "<Self>"
+    en: But why did you want to come here at this time?
+    ko: 근데 이 시간에 기차역엔 왜 오고 싶었던 거야?
+    ja: |-
+      ところで、どうしてこんな時間に
+      鉄道駅に来ようと思ったんだ？
+  d_ex_trainstation_11_09:
+    speaker: velvet_m
+    en: Since it's a date spot, I just want to try somewhere not everyone can go.
+    ko: 이왕 데이트 장소로 할 거면, 아무나 못 가는 곳으로 해보고 싶었을 뿐이야.
+    ja: |-
+      せっかくデートするなら、
+      誰も行かないようなところに
+      行きたかっただけよ。
+  d_ex_trainstation_11_10:
+    speaker: velvet_m
+    en: Ah!
+    ko: 아.
+    ja: あっ。
+  d_ex_trainstation_11_11:
+    speaker: velvet_m
+    en: Perhaps you wanted to go to the Commander's Room?
+    ko: 혹시 지휘관실로 가고 싶었던….
+    ja: もしかして指揮官室のほうがよかっ…
+  d_ex_trainstation_11_12:
+    speaker: unknown
+    en: Is someone there?
+    ko: 거기 누구 계신가요?
+    ja: 誰ですか、そこにいるのは？
+  d_ex_trainstation_11_13:
+    speaker: "<Monologue>"
+    en: A flashlight shines toward Velvet and me.
+    ko: 손전등이 나와 벨벳을 향해 비춰졌다.
+    ja: 懐中電灯の光が、ベルベットに向けられた
+  d_ex_trainstation_11_14:
+    speaker: brid
+    en: Commander? What are you doing here at this hour?
+    ko: 지휘관… 하고 일행분이시네요.
+    ja: 指揮官…と、お連れの方でしたか。
+  d_ex_trainstation_11_15:
+    speaker: brid
+    en: And who's this with you?
+    ko: 이 시간에 역에는 무슨 일이세요?
+    ja: こんな時間にどうされましたか？
+  d_ex_trainstation_11_16:
+    speaker: velvet_m
+    en: Aah... what a letdown.
+    ko: 아아- 김빠지네~
+    ja: あ～あ、なんか冷めちゃった～
+  d_ex_trainstation_11_17:
+    speaker: velvet_m
+    en: It's not empty after all.
+    ko: 아무도 없는 게 아니었잖아.
+    ja: 誰もいないなんてウソじゃない。
+  d_ex_trainstation_11_18:
+    speaker: brid
+    en: What do you mean, not empty?
+    ko: 아무도 없다니요?
+    ja: 誰もいない？
+  d_ex_trainstation_11_19:
+    speaker: "<Self>"
+    en: Never mind her. It's nothing.
+    ko: 아니, 별일 아니야….
+    ja: いや、気にしないでくれ…
+  d_ex_trainstation_11_20:
+    speaker: "<Self>"
+    en: How have you not knocked off work yet, Brid?
+    ko: 그런데 브리드는 퇴근 안 해?
+    ja: ところで、ブリッドはまだ勤務中なのか？
+  d_ex_trainstation_11_21:
+    speaker: brid
+    en: An engineer's work does not end the moment the train arrives at the terminus.
+    ko: 기관사는 종점까지 열차 운행했다고 일이 끝나는 게 아니니까요.
+    ja: |-
+      終点まで列車を運行したからといって、
+      機関士の仕事は終わりではありません。
+  d_ex_trainstation_11_22:
+    speaker: brid
+    en: We still have to park the train at the depot and submit the logs.
+    ko: 차량기지에 열차도 놔야 하고, 일지도 가져다 놔야 하거든요.
+    ja: |-
+      車両基地に列車を格納したり、
+      日誌を提出したり。
+  d_ex_trainstation_11_23:
+    speaker: brid
+    en: And there's plenty more to do besides that.
+    ko: 그것 말고도 아직 할 일은 남아 있고요.
+    ja: |-
+      それ以外にも、やるべきことは
+      まだまだあります。
+  d_ex_trainstation_11_24:
+    speaker: "<Self>"
+    en: Sounds like you've got a lot on your plate.
+    ko: 야근까지 해야 할 정도로 바쁘구나.
+    ja: |-
+      こんなに遅くまで仕事をしなくては
+      ならないくらい忙しいんだな
+  d_ex_trainstation_11_25:
+    speaker: brid
+    en: It's all part of the job.
+    ko: 이것도 다 제 일이니까요.
+    ja: それが私の仕事ですから。
+  d_ex_trainstation_11_26:
+    speaker: brid
+    en: And I do love my job!
+    ko: 싫어서 하는 것도 아닌걸요.
+    ja: それに、苦痛というわけでもありません。
+  d_ex_trainstation_11_27:
+    speaker: brid
+    en: Anyway...
+    ko: 그런데….
+    ja: ところで…
+  d_ex_trainstation_11_28:
+    speaker: brid
+    en: I have heard rumors,
+    ko: 소문은 들었습니다만,
+    ja: 噂には聞いていましたが、
+  d_ex_trainstation_11_29:
+    speaker: brid
+    en: is this lady beside you the new hire at the Maid Cafe?
+    ko: 옆에 계신 분이 메이드 카페에 새로 오신 분인가요?
+    ja: |-
+      隣にいる方は、メイドカフェに
+      新しく入ったという方ですか？
+  d_ex_trainstation_11_30:
+    speaker: velvet_m
+    en: I'm Velvet, who is the top earner at the Maid Cafe right now.
+    ko: 지금 메이드 카페에서 최고로 잘 나가고 있는 메이드, 벨벳이야.
+    ja: |-
+      そう！今メイドカフェで一番売れっ子のメイド、
+      ベルベットよ。
+  d_ex_trainstation_11_31:
+    speaker: velvet_m
+    en: Hehe, it feels a bit embarrassing saying that about myself ♥
+    ko: 꺄하하, 내 입으로 이렇게 말하는 건 조금 부끄럽네♥
+    ja: |-
+      きゃはっ、自分の口からこんなこと、
+      ちょっと照れちゃうわね♥
+  d_ex_trainstation_11_32:
+    speaker: brid
+    en: I see. May I ask what you're doing here at the station?
+    ko: 그러시군요. 벨벳 님은 역에 어쩐 일이신가요?
+    ja: |-
+      そうでしたか。ベルベットさんは
+      何をしに駅へいらしたのですか？
+  d_ex_trainstation_11_33:
+    speaker: velvet_m
+    en: Me?
+    ko: 나?
+    ja: 私？
+  d_ex_trainstation_11_34:
+    speaker: velvet_m
+    en: Master and I are here to get up to some adult mischi...
+    ko: 난 주인님하고 기차역에서 어른의 불장난ㅇ….
+    ja: 私はご主人様と鉄道駅で大人の火遊び…
+  d_ex_trainstation_11_35:
+    speaker: "<Self>"
+    en: V-Velvet also came here to work!
+    ko: 베, 벨벳도 일하러 왔어!
+    ja: ベ、ベルベットも仕事をしに来たんだ！
+  d_ex_trainstation_11_36:
+    speaker: brid
+    en: You came here to work?
+    ko: 일하러 오셨다고요?
+    ja: 仕事を？
+  d_ex_trainstation_11_37:
+    speaker: brid
+    en: "... I am sorry. I cannot imagine anything a maid would need to do at a station."
+    ko: |-
+      …죄송합니다.
+      메이드 분이 역에서 할 일이 제 머리속에선 떠오르질 않네요.
+    ja: |-
+      …すみません。メイドの方が駅でするような
+      仕事が思い浮かばないのですが…
+  d_ex_trainstation_11_38:
+    speaker: brid
+    en: What kind of work brings you here?
+    ko: 어떤 일로 오신 거죠?
+    ja: どのような仕事でしょうか？
+  d_ex_trainstation_11_39:
+    speaker: "<Self>"
+    en: Uh... what was it again, I can't remember exactly...
+    ko: 어… 뭐였더라, 정확히 기억이 안 나네….
+    ja: ええと…何だったか…思い出せないな…
+  d_ex_trainstation_11_40:
+    speaker: "<Monologue>"
+    en: I signal to Velvet with my eyes.
+    ko: 나는 벨벳에게 눈빛으로 신호를 보냈다.
+    ja: 私はベルベットに目くばせをした
+  d_ex_trainstation_11_41:
+    speaker: velvet_m
+    en: What was it again...?
+    ko: 무슨 일이었더라~?
+    ja: 何だったかしら～？
+  d_ex_trainstation_11_42:
+    speaker: velvet_m
+    en: Ah, right!
+    ko: 아, 맞다~
+    ja: あっ、そうそう～
+  d_ex_trainstation_11_43:
+    speaker: velvet_m
+    en: Someone requested to craft a menu for office workers who work late, so I came
+      to ask a few questions.
+    ko: 늦게까지 일하는 직장인들을 위한 메뉴를 고안한다고 해서 좀 물어보러 왔었지~?
+    ja: |-
+      夜遅くまで働く会社員のための
+      メニューを考えることになったから、
+      参考がてら聞きにきたのよ～
+  d_ex_trainstation_11_44:
+    speaker: brid
+    en: Did you say office workers?
+    ko: 직장인들을 위한 메뉴요?
+    ja: 会社員のためのメニューですか？
+  d_ex_trainstation_11_45:
+    speaker: velvet_m
+    en: I'm wondering what new items I could come up with.
+    ko: 새 메뉴로 출시할까 하거든.
+    ja: 新しいメニューにしようと思ってるの。
+  d_ex_trainstation_11_46:
+    speaker: velvet_m
+    en: As someone who works late into the night, what kind of dishes would you like
+      to see on such a menu?
+    ko: 늦게까지 야근하는 직장인으로서, 어떤 메뉴가 새로 나왔으면 좋겠어?
+    ja: |-
+      遅くまで働かなきゃいけない時に食べるなら、
+      どんなメニューが嬉しい？
+  d_ex_trainstation_11_47:
+    speaker: brid
+    en: Hmm...
+    ko: 으음….
+    ja: そうですね…
+  d_ex_trainstation_11_48:
+    speaker: brid
+    en: "... I'm sorry this isn't the most helpful answer,"
+    ko: 전 맛있는 커피만 마실 수 있다면 어떤 메뉴라도 괜찮습니다.
+    ja: |-
+      私は美味しいコーヒーさえあれば、
+      何でも構いません。
+  d_ex_trainstation_11_49:
+    speaker: brid
+    en: but I'm fine with anything really, so long as there's good coffee.
+    ko: "…제대로 된 답변을 드리지 못해서 죄송하네요."
+    ja: |-
+      …参考になるようなことが言えず、
+      申し訳ありません。
+  d_ex_trainstation_11_50:
+    speaker: velvet_m
+    en: No no, that's very helpful!
+    ko: 아니, 이 정도면 충분해~
+    ja: ううん、十分参考になったわ～
+  d_ex_trainstation_11_51:
+    speaker: velvet_m
+    en: Are you Brid, right?
+    ko: 브리드라고 했지?
+    ja: ブリッド、だっけ？
+  d_ex_trainstation_11_52:
+    speaker: velvet_m
+    en: As a thank you for your answer, if you come to the Maid Cafe, I'll make sure
+      to take good care of you.
+    ko: 대답해 줘서 고맙다는 의미로, 메이드 카페에 오면 잔~뜩 서비스해 줄게.
+    ja: |-
+      協力してくれたお礼に、メイドカフェへ来たら
+      い～っぱいサービスしてあげる。
+  d_ex_trainstation_11_53:
+    speaker: velvet_m
+    en: Just make sure to pick me ♥
+    ko: 그러니까 꼭 벨벳을 지명해 줘♥
+    ja: だから、その時はベルベットを指名してね♥
+  d_ex_trainstation_11_54:
+    speaker: brid
+    en: I was already impressed that you came here so late for work purposes,
+    ko: 업무를 위해서 늦은 시간에 여길 오신 것도 대단한데,
+    ja: |-
+      仕事のため、夜遅くにわざわざ
+      ここまでいらっしゃっただけでもすごいのに、
+  d_ex_trainstation_11_55:
+    speaker: brid
+    en: but to promote your job outside the workplace...
+    ko: 업무 공간 밖에서 일을 위해 홍보까지 하신다니….
+    ja: 職場以外の場所で宣伝までされるとは…
+  d_ex_trainstation_11_56:
+    speaker: brid
+    en: You really are passionate about what you do.
+    ko: 일에 대한 열정이 대단하신 분이시군요.
+    ja: とても仕事熱心な方なのですね。
+  d_ex_trainstation_11_57:
+    speaker: velvet_m
+    en: Hahaha. People as passionate about work as I am are rare.
+    ko: 꺄하하하. 나만큼 일에 열정 넘치는 사람도 드물걸~
+    ja: |-
+      あはははっ。私以上に仕事熱心な人は
+      そうそういないわよ～？
+  d_ex_trainstation_11_58:
+    speaker: brid
+    en: If you have that much passion, I imagine you must also take your work quite
+      seriously, right?
+    ko: 열정이 넘치시니까, 그만큼 업무에 대한 책임감도 있으시겠네요?
+    ja: |-
+      それだけの情熱をお持ちであれば、
+      きっと仕事への責任感も強いのでしょうね。
+  d_ex_trainstation_11_59:
+    speaker: velvet_m
+    en: Of course.
+    ko: 당연하지.
+    ja: トーゼンよ。
+  d_ex_trainstation_11_60:
+    speaker: velvet_m
+    en: I have always handled every assigned mission thoroughly.
+    ko: 예전부터 배정된 임무 하나만큼은 확실히 처리했으니까.
+    ja: |-
+      昔から、任務は最後まできちんと
+      やり遂げるのがポリシーよ。
+  d_ex_trainstation_11_61:
+    speaker: velvet_m
+    en: I never let go of a target until it is completely finished.
+    ko: 책임져야 할 타겟은 끝장 볼 때까지 절~대 놓치지 않거든.
+    ja: ターゲットは、ぜ～ったいに逃さないわ。
+  d_ex_trainstation_11_62:
+    speaker: "<Monologue>"
+    en: Velvet clings to my arm.
+    ko: 벨벳이 내 팔에 안겨 왔다.
+    ja: ベルベットが私の腕に抱きついた
+  d_ex_trainstation_11_63:
+    speaker: velvet_m
+    en: See, I don't let go of Master either ♥
+    ko: 봐, 주인님도 안 놓치잖아♥
+    ja: 見て？ご主人様のことも逃さないの♥
+  d_ex_trainstation_11_64:
+    speaker: brid
+    en: Never letting go of a target...
+    ko: 타겟은 절대 놓치지 않는다라….
+    ja: ターゲットは絶対に逃さない…
+  d_ex_trainstation_11_65:
+    speaker: brid
+    en: Perhaps I could learn from this mindset as well.
+    ko: 그런 마인드는 저도 배워야겠어요.
+    ja: そのマインド、私も見習います。
+  d_ex_trainstation_11_66:
+    speaker: "<Self>"
+    en: Do you not think the conversation is going off track...?
+    ko: 뭔가 대화의 핀트가 어긋났다는 생각은 안 해…?
+    ja: |-
+      話のピントがズレているとは
+      思わないのか…？
+  d_ex_trainstation_11_67:
+    speaker: brid
+    en: Off track?
+    ko: 핀트가 어긋났다고요?
+    ja: 話のピントがズレている…？
+  d_ex_trainstation_11_68:
+    speaker: brid
+    en: Velvet and I are talking about work right now, aren't we?
+    ko: 지금 저랑 벨벳 님은 업무에 관한 대화를 나누고 있지 않았나요?
+    ja: |-
+      私とベルベットさんは、
+      仕事についての話をしていますよね？
+  d_ex_trainstation_11_69:
+    speaker: velvet_m
+    en: That's right.
+    ko: 맞아~
+    ja: そうよ～
+  d_ex_trainstation_11_70:
+    speaker: velvet_m
+    en: This conversation is strictly about work.
+    ko: 우리는 둘 다 [업무]에 관해서 얘기하고 있는 거야~
+    ja: 私たちは「仕事」について話してるわ～
+  d_ex_trainstation_11_71:
+    speaker: brid
+    en: So, tell me, Velvet.
+    ko: 그럼 벨벳 님.
+    ja: それなら、ベルベットさん。
+  d_ex_trainstation_11_72:
+    speaker: brid
+    en: Are you meticulous in your work?
+    ko: 업무 처리는 꼼꼼하게 하시는 편인가요?
+    ja: 仕事をする際は、几帳面な方ですか？
+  d_ex_trainstation_11_73:
+    speaker: brid
+    en: People sometimes tell me that I go overboard.
+    ko: 전 가끔 지나치다는 얘기를 들을 때가 있거든요.
+    ja: |-
+      私は時々、やりすぎと言われることが
+      あります。
+  d_ex_trainstation_11_74:
+    speaker: velvet_m
+    en: Isn't it better to be overly exacting than lacking?
+    ko: 모자란 것보단 지나친 게 낫지 않아?
+    ja: |-
+      足りないより、やりすぎくらいの方が
+      いいんじゃない？
+  d_ex_trainstation_11_75:
+    speaker: velvet_m
+    en: There is nothing wrong with being thorough.
+    ko: 뭐든 확실하게 해서 나쁠 건 없지.
+    ja: |-
+      何でも、キッチリやって損することは
+      ないと思うわ。
+  d_ex_trainstation_11_76:
+    speaker: velvet_m
+    en: Being meticulous with the fine details is a must.
+    ko: 확인이라는 건 철저히 해야 하는 거니까.
+    ja: 確認は徹底して行う、これは鉄則よ。
+  d_ex_trainstation_11_77:
+    speaker: velvet_m
+    en: If you go about things half-heartedly, it'll come back to bite you.
+    ko: 어중간하면 꼬리를 밟혀.
+    ja: 中途半端だと尻尾をつかまれるわ。
+  d_ex_trainstation_11_78:
+    speaker: velvet_m
+    en: That's why cleanup afterward is especially important.
+    ko: 그래서 특히 뒤처리가 중요하고.
+    ja: だから、後始末は何よりも大事なの。
+  d_ex_trainstation_11_79:
+    speaker: brid
+    en: Exactly. It is important to finish even the follow-up work cleanly.
+    ko: 그렇죠. 뒤처리까지 깔끔하게 끝내는 게 중요하죠.
+    ja: |-
+      そうですよね。後始末をしっかり行うことは
+      大事だと思います。
+  d_ex_trainstation_11_80:
+    speaker: brid
+    en: Only by cleaning up properly can the next task proceed smoothly as well.
+    ko: 그래야 다음 업무를 진행할 때도 부드럽게 진행할 수 있을 테니까요.
+    ja: そうすれば次の任務もスムーズに行えますから。
+  d_ex_trainstation_11_81:
+    speaker: brid
+    en: No one has said that to me besides Commander until now...
+    ko: 지금까지 그렇게 말씀해 주시는 분은 지휘관 말고 없었는데….
+    ja: |-
+      今までそういうことを仰ってくださる方は
+      指揮官だけだったのに…
+  d_ex_trainstation_11_82:
+    speaker: brid
+    en: Finally, to meet another person who thinks the same as I do!
+    ko: 생각이 통하는 분을 또 만나게 됐군요.
+    ja: 考え方が似ている方に、ようやく出会えました。
+  d_ex_trainstation_11_83:
+    speaker: brid
+    en: Then...
+    ko: 그러면….
+    ja: では…
+  d_ex_trainstation_11_84:
+    speaker: brid
+    en: When you are deeply focused on work and someone talks to you, what do you
+      do?
+    ko: 일에 집중하고 있을 때, 다른 사람이 말을 걸면 어떻게 하시죠?
+    ja: |-
+      仕事に集中している時、
+      誰かに話しかけられたらどうしますか？
+  d_ex_trainstation_11_85:
+    speaker: brid
+    en: It is not intentional,
+    ko: 고의로 무시하는 건 아닌데,
+    ja: わざと無視しているわけではないのですが、
+  d_ex_trainstation_11_86:
+    speaker: brid
+    en: But when I'm fixated on work, sometimes I'm unable to respond even if someone
+      speaks directly to me.
+    ko: 전 일에 너무 집중하고 있다 보면, 말을 걸어도 대답 못 할 때가 있거든요.
+    ja: |-
+      仕事に集中するあまり、話しかけられても
+      答えられない時があるのです。
+  d_ex_trainstation_11_87:
+    speaker: velvet_m
+    en: That is something you should deliberately ignore.
+    ko: 그런 건 일부러라도 무시해야지~
+    ja: それは、むしろ無視するべきよ～
+  d_ex_trainstation_11_88:
+    speaker: velvet_m
+    en: When you're doing something important, you can't afford to be distracted by
+      anything else.
+    ko: 중요한 일을 하고 있는데, 다른 곳에 신경 쓸 여유가 어디 있어?
+    ja: |-
+      大事なことをしてる時は、
+      他のことに気を取られちゃダメ。
+  d_ex_trainstation_11_89:
+    speaker: velvet_m
+    en: If you end up missing a target because of it,
+    ko: 그러다가 타겟을 놓치기라도 하면,
+    ja: 答えてる隙にターゲットを逃がしても、
+  d_ex_trainstation_11_90:
+    speaker: velvet_m
+    en: would the person who spoke to you take responsibility for that?
+    ko: 말 건 사람이 책임 져 줄 거야?
+    ja: 話しかけた人は責任取ってくれないわよ？
+  d_ex_trainstation_11_91:
+    speaker: brid
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_trainstation_11_92:
+    speaker: brid
+    en: The world really is vast.
+    ko: 역시 세상은 넓네요.
+    ja: やはり、世間は広いですね。
+  d_ex_trainstation_11_93:
+    speaker: brid
+    en: I thought there was no one who took work more seriously than I did.
+    ko: 전 제가 가장 일에 진심인 사람이라고 생각했는데….
+    ja: |-
+      自分のことを世界で一番
+      仕事熱心だと思っていましたが…
+  d_ex_trainstation_11_94:
+    speaker: brid
+    en: I never imagined other people would prioritize their work to this extent.
+    ko: 이렇게까지 업무를 우선해서 생각하시는 분이 계실 줄이야.
+    ja: |-
+      ここまで仕事を優先して考える方が
+      いらっしゃったなんて。
+  d_ex_trainstation_11_95:
+    speaker: velvet_m
+    en: No matter what I do, I don't mess around.
+    ko: 난 뭘 하든 항상 진심이거든~
+    ja: 私は何に対してもいつも本気なの～
+  d_ex_trainstation_11_96:
+    speaker: velvet_m
+    en: I may look like I'm joking and kidding around, but in reality I'm always doing
+      my absolute best.
+    ko: 옆에서 보기엔 장난치는 것처럼 보여도, 사실 항상 최선을 다하고 있으니까~
+    ja: |-
+      はたから見たら遊んでるように見えても、
+      実はいつもベストを尽くして頑張ってるのよ～？
+  d_ex_trainstation_11_97:
+    speaker: "<Monologue>"
+    en: I look at Velvet.
+    ko: 나는 벨벳을 바라보았다.
+    ja: 私はベルベットを見た
+  d_ex_trainstation_11_98:
+    speaker: "<Self>"
+    en: "... You knew from the start that the two of you were talking about different
+      things, right?"
+    ko: "…둘이 다른 얘기하는 거, 처음부터 알고 있었지?"
+    ja: |-
+      …二人で違う話をしていることに、
+      最初から気づいているだろう？
+  d_ex_trainstation_11_99:
+    speaker: velvet_m
+    en: What are you talking about, Master?
+    ko: 그게 무슨 소리야, 주인님~
+    ja: あら、どういうこと～？
+  d_ex_trainstation_11_100:
+    speaker: velvet_m
+    en: We're discussing work.
+    ko: 우린 [업무]에 대해서.
+    ja: 私たちは「仕事」について…
+  d_ex_trainstation_11_101:
+    speaker: velvet_m
+    en: Or more precisely, our attitude toward work.
+    ko: 아니, 정확히는 [업무를 대하는 자세]에 대해 말하고 있는 거잖아?
+    ja: |-
+      いいえ、正確には「仕事に対する姿勢」について
+      話してるのよ？
+  d_ex_trainstation_11_102:
+    speaker: velvet_m
+    en: We're absolutely talking about the same thing ♥
+    ko: 그럼 전~혀 다른 얘기가 아닌걸♥
+    ja: だから、ぜ～んぜん違う話じゃないわ♥
+  d_ex_trainstation_11_103:
+    speaker: "<Self>"
+    en: Do you not feel any sense of discomfort, Brid?
+    ko: 브리드는 위화감 안 느껴?
+    ja: ブリッドは違和感を覚えないのか？
+  d_ex_trainstation_11_104:
+    speaker: brid
+    en: Discomfort?
+    ko: 위화감이요?
+    ja: 違和感？
+  d_ex_trainstation_11_105:
+    speaker: brid
+    en: Not at all.
+    ko: 전혀 느껴지지 않습니다.
+    ja: いえ、まったく感じません。
+  d_ex_trainstation_11_106:
+    speaker: brid
+    en: Actually, I want to keep talking even more.
+    ko: 오히려 더 얘기를 나누고 싶을 정도예요.
+    ja: むしろ、もっと色々お話したいくらいです。
+  d_ex_trainstation_11_107:
+    speaker: brid
+    en: So, Velvet.
+    ko: 그래서 말인데요, 벨벳 님.
+    ja: そこでなのですが、ベルベットさん。
+  d_ex_trainstation_11_108:
+    speaker: brid
+    en: It is a bit late, but... would you be free for a moment?
+    ko: 시간이 좀 늦긴 했는데… 잠깐 괜찮으실까요?
+    ja: |-
+      遅い時間ではありますが…
+      もう少しよろしいでしょうか？
+  d_ex_trainstation_11_109:
+    speaker: brid
+    en: If it is okay, I would like to talk more in the station office.
+    ko: 괜찮으시다면 역무실에서 좀 더 얘기를 나눠보고 싶어요.
+    ja: |-
+      もしよければ、駅務室でもう少し
+      お話しませんか？
+  d_ex_trainstation_11_110:
+    speaker: brid
+    en: It's my first time meeting someone else I can speak with so freely...
+    ko: 이렇게 대화가 잘 통하는 분은 처음이라….
+    ja: こんなにも話が合う方は初めてで…
+  d_ex_trainstation_11_111:
+    speaker: velvet_m
+    en: Hmm... what should I do?
+    ko: 음… 어쩔까?
+    ja: う～ん、どうしようかしら？
+  d_ex_trainstation_11_112:
+    speaker: velvet_m
+    en: If you promise to come to the Maid Cafe later, I might consider it.
+    ko: 나중에 메이드 카페에 와준다고 하면, 생각해 봐도 괜찮은데~
+    ja: |-
+      今度メイドカフェに来るって
+      約束してくれるなら、考えてもいいけど～？
+  d_ex_trainstation_11_113:
+    speaker: brid
+    en: I'd love to.
+    ko: 네, 좋습니다.
+    ja: はい、喜んで。
+  d_ex_trainstation_11_114:
+    speaker: brid
+    en: I go to the Maid Cafe often for a coffee anyway.
+    ko: 저도 메이드 카페에 커피를 마시러 종종 가거든요.
+    ja: |-
+      たまにメイドカフェへ
+      コーヒーを飲みに行きますので。
+  d_ex_trainstation_11_115:
+    speaker: velvet_m
+    en: If you even eat the omurice, I will answer even more sincerely ♥
+    ko: 오므라이스까지 먹어준다고 하면 더 성실하게 대답해 주고♥
+    ja: |-
+      オムライスも注文してくれるなら、
+      もっと真面目に答えてあげる♥
+  d_ex_trainstation_11_116:
+    speaker: brid
+    en: Such a professional spirit to add promotion on top of everything...
+    ko: 이렇게 홍보까지 덧붙이는 프로 정신….
+    ja: |-
+      会話の中に宣伝を盛り込むほどの
+      プロ意識…さすがです。
+  d_ex_trainstation_11_117:
+    speaker: brid
+    en: Understood. I will order omurice and dessert as well.
+    ko: 알겠습니다. 오므라이스에 디저트까지 주문하도록 하죠.
+    ja: |-
+      分かりました。
+      オムライスにデザートも注文します。
+  d_ex_trainstation_11_118:
+    speaker: velvet_m
+    en: Haha, thank you! ♥
+    ko: 꺄하, 고마워♥
+    ja: きゃはっ、ありがと♥
+  d_ex_trainstation_11_119:
+    speaker: "<Monologue>"
+    en: And so, Velvet and Brid talk all through the night, up until it's time for
+      the first morning train to depart.
+    ko: 그렇게 첫 차가 출발해야 할 때까지, 벨벳과 브리드는 기차역에서 긴 이야기를 나누었고.
+    ja: |-
+      こうしてベルベットとブリッドは、
+      始発の時間まで鉄道駅で話し込んだ
+  d_ex_trainstation_11_120:
+    speaker: "<Monologue>"
+    en: I also stay with them, in case Velvet tries to get up to any strange pranks.
+    ko: 혹시라도 벨벳이 이상한 장난을 칠까 봐, 나도 함께 남아있었다.
+    ja: |-
+      ベルベットが変なイタズラをしないように、
+      私も最後まで見守った…

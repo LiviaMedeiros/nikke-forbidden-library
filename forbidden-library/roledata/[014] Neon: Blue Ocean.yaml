@@ -110,10 +110,10 @@ skill_name_1002:
 10143_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Change the weapon in use:
+    <color=#00AEFF>Changes the weapon in use:
     Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
-    Last for: {description_value_02} sec</color>
-    ■ Affects the target(s) when they belong to Fire Code.
+    Duration: {description_value_02} sec</color>
+    ■ Activates when attacking a Fire Code target. Affects the target.
     <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ 자신에게

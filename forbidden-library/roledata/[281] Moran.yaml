@@ -120,12 +120,12 @@ skill_name_1002:
   ko: 정정당당 승부다!
   ja: 正々堂々と勝負だ！
 12813_description:
-  en: "■ Affects self.\n<color=#00AEFF>Change the weapon in use:\nDamage: {description_value_01}%
-    of <word_group=10025>final</word_group> ATK \nLasts for: 10 sec\nAdditional Effect(s):\nRecovers
+  en: "■ Affects self.\n<color=#00AEFF>Changes the weapon in use:\nDamage: {description_value_01}%
+    of <word_group=10025>final</word_group> ATK \nDuration: 10 sec\nAdditional Effect(s):\nRecovers
     {description_value_02}% of attack damage as HP over {description_value_03} sec.\nAttract:
-    Taunt all enemies for {description_value_04} sec.\nNote: Cannot take cover while
-    casting Burst skill.</color>\n■ Affects all allies.\n<color=#00AEFF>Damage Taken
-    ▼ {description_value_05}% for {description_value_06} sec.\nDEF ▲ {description_value_07}%
+    Taunt all enemies for {description_value_04} sec.\nNote: Unable to take cover
+    while using Burst Skill.</color>\n■ Affects all allies.\n<color=#00AEFF>Damage
+    Taken ▼ {description_value_05}% for {description_value_06} sec.\nDEF ▲ {description_value_07}%
     of caster's DEF for {description_value_08} sec.</color>"
   ko: |-
     ■ 자신에게

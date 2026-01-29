@@ -59,7 +59,7 @@ character_shot_description_localkey_ar_down:
   en: |-
     ■ Affects {description_value_01} enemy unit(s) randomly.
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    ■ Affects the same target(s) when they belong to Electric Code.
+    ■ Activates when attacking an Electric Code target. Affects the target.
     <color=#00AEFF>Damage Taken ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
   ko: |-
     ■ 무작위 적 {description_value_01}기에게
@@ -119,8 +119,8 @@ skill_name_1002:
   ja: イージスキャノンオーバーロード
 13533_description_1:
   en: "■ Affects all enemies.\n<color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group>
-    ATK as Burst Skill damage.</color> \n■ Affects the same target(s) when they belong
-    to Electric Code.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as Burst Skill damage.</color> \n■ Activates when attacking an Electric Code
+    target. Affects the target.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
     ATK as additional damage.</color>"
   ko: |-
     ■ 적 전체에게

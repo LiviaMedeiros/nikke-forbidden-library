@@ -56,12 +56,14 @@ character_shot_description_localkey_ar_down:
   ko: 이글아이 타입 엑소스파인
   ja: イーグルアイエグゾスパイン
 28502_description:
-  en: "■ Activates when entering battle. Affects self.\n<color=#00AEFF>Eagle Eye-Type
-    Exospine.\nPrevious effects trigger repeatedly.\nATK ▲ {description_value_01}%
-    of caster's ATK continuously.\nMax Ammunition Capacity ▲ {description_value_02}%
-    continuously.</color>\n■ Activates when landing {description_value_03} normal
-    attack(s). Affects self if the target belongs to Electric Code. \n<color=#00AEFF>Reloads
-    {description_value_04} round(s).</color>"
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Eagle Eye-Type Exospine.
+    Previous effects trigger repeatedly.
+    ATK ▲ {description_value_01}% of caster's ATK continuously.
+    Max Ammunition Capacity ▲ {description_value_02}% continuously.</color>
+    ■ Activates when landing {description_value_03} normal attack(s) on an Electric Code target. Affects self.
+    <color=#00AEFF>Reloads {description_value_04} round(s).</color>
   ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[이글아이 타입 엑소스파인] [하위 효과 중복 적용]\n[시전자 기준 공격력 {description_value_01}%
     ▲] [지속]\n[최대 장탄 수 {description_value_02}% ▲] [지속]</color>\n■ 일반 공격 {description_value_03}회
     명중 시 대상이 전격 코드라면 자신에게 \n<color=#00AEFF>[탄환 충전 {description_value_04}발]</color>"
@@ -82,11 +84,11 @@ skill_name_1003:
   ja: インパクトエグゾスパイン
 28501_description_1:
   en: |-
-    ■ Activates when entering battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Impact-Type Exospine: Critical Rate ▲ {description_value_01}% continuously.</color>
-    ■ Activates after landing {description_value_06} critical hit(s) with normal attacks. Affects random enemy unit(s).
-    <color=#00AEFF>Unstable Energy: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_03} time(s).</color>
-    ■ Activates when Unstable Energy hits the target(s). Affects the target(s) if they belong to Electric Code.
+    ■ Activates after landing {description_value_06} critical hit(s) with normal attacks. Affects random enemy units.
+    <color=#00AEFF>Unstable Energy: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_03} time(s).</color>
+    ■ Activates when Unstable Energy hits an Electric Code target. Affects the target.
     <color=#00AEFF>Damage Taken ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
@@ -113,12 +115,12 @@ skill_name_1002:
   ja: カウンターチェーン
 18503_description:
   en: |-
-    ■ Affects random enemy.
+    ■ Affects random enemy units.
     <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s). </color>
     ■ Affects self.
     <color=#00AEFF>Exospine Mk2.
-    Function: Enhance Exospine
-    Lasts for: {description_value_03} sec
+    Function: Enhances Exospine.
+    Duration: {description_value_03} sec
     Triggers Impact-Type Exospine Mk2.
     Effect: Damage multiplier of Unstable Energy sequential attacks is <word_group=10084>scaled</word_group> by 100%.
     Triggers Eagle Eye-Type Exospine Mk2.

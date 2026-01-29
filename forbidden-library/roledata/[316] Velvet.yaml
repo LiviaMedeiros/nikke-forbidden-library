@@ -1,0 +1,563 @@
+---
+316_name:
+  en: Velvet
+  ko: 벨벳
+  ja: ベルベット
+c316_description:
+  en: |-
+    A new maid that just joined Maid For You.
+    Once the leader of Tetra's covert squad known as Shade, she is now an unreliable yet alluring and deadly maid.
+  ko: |-
+    메이드 포 유 스쿼드의 신입 메이드.
+    과거 [쉐이드]라고 불리던 테트라의 비밀 부대 리더였지만,
+    지금은 불성실하고, 매력적이며, 치명적인 메이드가 되었다.
+  ja: |-
+    メイド・フォー・ユー部隊の新人メイド。
+    かつては「シェイド」と呼ばれた
+    テトラの秘密部隊のリーダーだったが、
+    今は不真面目で、魅力的で、危ないメイドになった。
+316_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_316:
+  en: Velvet's Spare Body
+  ko: 벨벳 스페어 바디
+  ja: ベルベットのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+23162_name:
+  en: Bullets of Love
+  ko: 사랑의 탄환
+  ja: 愛の弾丸
+23162_description:
+  en: |-
+    ■ Activates when attacking with Full Charge during Full Burst.
+    <color=#00AEFF>Feature: Consumes bullets in the <word_group=10098>ammo pouch</word_group> to strengthen ally units.
+    Effect 1: Affects self. <word_group=10099>Consumes</word_group> {description_value_01} round(s) of bullets in the <word_group=10098>ammo pouch</word_group>.
+    Effect 2: Affects all allies. ATK ▲ {description_value_02}% of the caster's ATK for {description_value_03} sec continuously.
+    Effect 3: Affects all allies. Charge damage ▲ {description_value_04}% for {description_value_05} sec continuously.</color>
+    ■ Activates when landing {description_value_06} normal attack(s) during Full Burst.
+    <color=#00AEFF>Feature: Consumes bullets in the <word_group=10098>ammo pouch</word_group> to deal additional damage to the enemy.
+    Effect 1: Affects self. <word_group=10099>Consumes</word_group> {description_value_07} round(s) of bullets in the <word_group=10098>ammo pouch</word_group>.
+    Effect 2: Affects self. Attack damage ▲ {description_value_08}% for {description_value_09} sec continuously.
+    Effect 3: Affects the target. Deals {description_value_10}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 풀 버스트 타임일 때 한하여
+    <color=#00AEFF>기능 : <word_group=10098>탄환 주머니</word_group>의 탄환을 소모하여 아군을 강화합니다.
+    효과 1 : 자신에게 [<word_group=10098>탄환 주머니</word_group>의 <word_group=10099>탄환 소모</word_group> {description_value_01}발]
+    효과 2 : 아군 전체에게 [시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]
+    효과 3 : 아군 전체에게 [차지 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 일반 공격 {description_value_06}회 명중 시 풀 버스트 타임일 때 한하여
+    <color=#00AEFF>기능 : <word_group=10098>탄환 주머니</word_group>의 탄환을 소모하여 적에게 추가 대미지를 가합니다.
+    효과 1 : 자신에게 [<word_group=10098>탄환 주머니</word_group>의 <word_group=10099>탄환 소모</word_group> {description_value_07}발]
+    효과 2 : 자신에게[공격 대미지 {description_value_08}% ▲] [{description_value_09}초 유지]
+    효과 3 : 대상에게[<word_group=10025>최종</word_group> 공격력 {description_value_10}% 추가 대미지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、フルバーストタイム中のみ
+    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して味方を強化
+    効果1：自分に「<word_group=10098>弾丸ポーチ</word_group>の<word_group=10099>弾薬消費</word_group>{description_value_01}発」
+    効果2：味方全体に「スキル発動者基準で攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」
+    効果3：味方全体に「チャージダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■通常攻撃を{description_value_06}回命中した時、フルバーストタイム中のみ
+    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して敵に追加ダメージを与える
+    効果1：自分に「<word_group=10098>弾丸ポーチ</word_group>の<word_group=10099>弾薬消費</word_group>{description_value_07}発」
+    効果2：自分に「攻撃ダメージ{description_value_08}％▲」「{description_value_09}秒間維持」
+    効果3：対象に「<word_group=10025>最終</word_group>攻撃力の{description_value_10}％の追加ダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23161_name:
+  en: Sticky Fingers
+  ko: 나쁜 손버릇
+  ja: イタズラな手
+23161_description:
+  en: "■ Activates when entering battle and when entering Burst Stage 2.\n<color=#00AEFF>Bullet
+    Snatch:\nFeature: Steals the enemy's bullets and loads self's <word_group=10098>ammo
+    pouch</word_group>.\nEffect 1: Affects all enemies. Removes {description_value_01}%
+    of bullets.\nEffect 2: Affects self. Loads {description_value_02} round(s) in
+    the <word_group=10098>ammo pouch</word_group> and stores up to {description_value_03}
+    round(s) continuously. This effect cannot be dispelled.</color>\n■ Activates when
+    attacking with Full Charge. Affects self if not in Full Burst status.\n<color=#00AEFF>Feature:
+    Consumes bullets in the <word_group=10098>ammo pouch</word_group> to strengthen
+    self.\nEffect 1: <word_group=10099>Consumes</word_group> {description_value_04}
+    round(s) of bullets in the <word_group=10098>ammo pouch</word_group>. \nEffect
+    2: ATK ▲ {description_value_05}% for {description_value_06} sec continuously.\nEffect
+    3: Attack damage ▲ {description_value_07}% for {description_value_08} sec continuously.</color>"
+  ko: |-
+    ■ 전투 시작 시와 버스트 2단계 진입 시
+    <color=#00AEFF>[탄환 가져오기] :
+    기능 : 적의 탄환을 훔쳐 자신의 <word_group=10098>탄환 주머니</word_group>를 채웁니다.
+    효과 1 : 적 전체에게 [탄환 {description_value_01}% 제거]
+    효과 2 : 자신에게 [<word_group=10098>탄환 주머니</word_group> {description_value_02}발 충전] [최대 {description_value_03}발 저장] [지속] [해제 불가]</color>
+    ■ 풀 차지 공격 시 풀 버스트 상태가 아니라면 자신에게
+    <color=#00AEFF>기능 : <word_group=10098>탄환 주머니</word_group>의 탄환을 소모하여 자신을 강화합니다.
+    효과 1 : [<word_group=10098>탄환 주머니</word_group>의 <word_group=10099>탄환 소모</word_group> {description_value_04}발]
+    효과 2 : [공격력 {description_value_05}% ▲] [{description_value_06}초 유지]
+    효과 3 : [공격 대미지 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■戦闘開始時およびバースト2段階突入時、
+    <color=#00AEFF>「弾丸泥棒」：
+    機能：敵の弾薬を盗み自分の<word_group=10098>弾丸ポーチ</word_group>を増加
+    効果1：敵全体に「残弾数{description_value_01}％減少」
+    効果2：自分に「<word_group=10098>弾丸ポーチ</word_group>{description_value_02}発チャージ」「最大{description_value_03}発保存」「持続」「解除不可」</color>
+    ■フルチャージして攻撃した時、フルバースト状態でなければ自分に
+    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して味方を強化
+    効果1：「<word_group=10098>弾丸ポーチ</word_group>の<word_group=10099>弾薬消費</word_group>{description_value_04}発」
+    効果2：「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」
+    効果3：「攻撃ダメージ{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13163_name:
+  en: Perfect Execution
+  ko: 깔끔한 마무리
+  ja: 鮮やかな終幕
+13163_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Changes the weapon in use:
+    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    Duration: {description_value_02} sec</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경] :
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}%
+    유지 시간 : {description_value_02}초
+    추가 효과
+    [공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器変更」
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％
+    維持時間：{description_value_02}秒</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+310_name:
+  en: Ade
+  ko: 에이드
+  ja: エード
+311_name:
+  en: Cocoa
+  ko: 코코아
+  ja: ココア
+312_name:
+  en: Soda
+  ko: 소다
+  ja: ソーダ
+313_name:
+  en: 'Privaty: Unkind Maid'
+  ko: '프리바티 : 언카인드 메이드'
+  ja: プリバティ：アンカインド・メイド
+314_name:
+  en: 'Soda: Twinkling Bunny'
+  ko: '소다 : 트윙클링 바니'
+  ja: ソーダ：トゥインクルバニー
+315_name:
+  en: 'Ade: Agent Bunny'
+  ko: '에이드 : 에이전트 바니'
+  ja: エード：エージェントバニー
+c316_Lobby_Touch_1:
+  en: Welcome back, Master. I'll leave the meal preparations and cleaning to you,
+    okay?
+  ko: |-
+    어서와, 주인님.
+    식사랑 청소는 알아서 잘 부탁해~
+  ja: |-
+    いらっしゃい、ご主人様。
+    食事の用意と片付けは自分でやってね～
+c316_Lobby_Touch_2:
+  en: Agent work? Sure, I'll do it if you ask me to. I haven't gone rusty anyway ♥
+  ko: |-
+    요원 일은… 뭐, 시키면 할게.
+    딱히 녹슬지는 않았으니까♥
+  ja: |-
+    エージェントの仕事は…まっ、断りはしないわ。
+    腕は落ちてないはずだから♥
+c316_Lobby_Touch_3:
+  en: Being a maid is more boring than I thought. I guess I'm glad you're here, Master.
+  ko: |-
+    메이드 일은 생각보다 따분하네.
+    주인님이라도 있어서 다행인가?
+  ja: |-
+    メイドの仕事って思ったよりタイクツなのね。
+    ご主人様がいてくれてよかったかも？
+c316_Lobby_Touch_Love_1:
+  en: I'm working hard here, you know... Like checking up on you, or warming up your
+    bed ♥
+  ko: |-
+    이래봬도 열심히 하고 있다구~
+    주인님의 몸 상태 파악이라던가, 침대 데워놓기라던가♥
+  ja: |-
+    こう見えても一生懸命やってるのよ～
+    ご主人様の健康チェックとか、ベッドを温めたりとか♥
+c316_Lobby_Touch_Love_2:
+  en: |-
+    I'm ready to do anything you ask, Master. You hear that?
+    A-ny-thing ♥
+  ko: |-
+    벨벳은 주인님이 시키시는 건 뭐든지 할 준비가 되어 있답니다~
+    …제대로 들었어? 뭐.든.지♥
+  ja: |-
+    ベルベットはご主人様の命令なら何でも聞く準備ができてま～す。
+    …もう一回言うわよ？な・ん・で・も♥
+c316_Lobby_Touch_Love_3:
+  en: Master! ... It's nothing. I just felt like calling you ♥
+  ko: |-
+    주인님~
+    …그냥 불러봤어♥
+  ja: |-
+    ご主人様～
+    …呼んでみただけ♥
+c316_Lobby_Stay_1:
+  en: Looks like Master's busy. Time for me to slack off then.
+  ko: |-
+    주인님은 바쁘신가보네?
+    그럼 나는 땡땡이나 쳐야겠다.
+  ja: |-
+    ご主人様は忙しいみたいね？
+    じゃあ、ちょっと休憩～
+c316_Lobby_Stay_Love_1:
+  en: Master, are you busy? In that case... just relax. I'll take care of everything
+    ♥
+  ko: |-
+    주인님, 바쁘세요~? 그러면… 가만히 있으시면 돼요.
+    벨벳이 다… 알아서 할테니까♥
+  ja: |-
+    ご主人様、お忙しいですか～？だったら…何もしなくていいですよ。
+    ベルベットにぜ～んぶ…お任せあ～れ♥
+c316_Outpost_Touch_1:
+  en: If you pick me at the Maid Cafe, I'll treat you to a special service just for
+    you, Master.
+  ko: |-
+    메이드 카페에서 날 지명해주면,
+    주인님만을 위한 특별 서비스, 해줄게.
+  ja: |-
+    メイドカフェで 私を指名してくれたら、
+    ご主人様専用の特別サービス、 してあげる。
+c316_Outpost_Touch_2:
+  en: I was just looking around, checking out the routes. You know, just in case.
+  ko: |-
+    주변을 좀 둘러보고, 동선도 체크하고 있었어~
+    혹시 모르니까.
+  ja: |-
+    周辺を見回って、 動線チェックもしてたところよ～
+    念のためにね。
+c316_Outpost_Touch_3:
+  en: "*Yawn* Mind if I sleep in your room for a bit, Master?"
+  ko: 하암… 잠깐 주인님 방에 자러 가도 돼?
+  ja: はぁ… ちょっとだけご主人様の部屋に 休みに行ってもいい？
+c316_Gacha_Get_1:
+  en: Hi, Master ♥ I'm Velvet, your maid. Go easy on me, okay?
+  ko: |-
+    안뇽♥ 주인님을 모시게 된 메이드, 벨벳이야.
+    적당히 잘 부탁해~
+  ja: |-
+    ハロ～♥ご主人様のお世話を担当するメイドのベルベットよ。
+    ほどほどによろしくね～
+c316_Reinforce_1:
+  en: You're even taking care of a maid like me? That makes me so happy!
+  ko: 나 같은 메이드도 챙겨주는 거야? 기뻐라~
+  ja: 私みたいなメイドにまで？嬉しいわ～
+c316_Reinforce_2:
+  en: At this rate, I'm gonna be stronger than ever!
+  ko: 이러다 예전보다 더 강해지겠는데?
+  ja: このままだと、昔より強くなっちゃうかも？
+c316_Reinforce_3:
+  en: Do you think you can handle me?
+  ko: 감당할 수 있겠어?
+  ja: 最後まで耐えられそう？
+c316_Gift_1:
+  en: This means a lot, Master! ... Would you be happy if I said that?
+  ko: |-
+    감동이에요 주인님~
+    …이라고 하면 기뻐?
+  ja: |-
+    感動です～、ご主人様～！
+    …ってカンジで言えば、嬉しい？
+c316_Gift_2:
+  en: I really appreciate this, Master ♥
+  ko: 주인님의 마음, 잘 받았어♥
+  ja: ご主人様の気持ち、しっかり受け取ったわ♥
+c316_Gift_3:
+  en: In return... you get me ♥
+  ko: 보답은… 바로 나야♥
+  ja: お礼は…私♥
+c316_Attractive_Up_1:
+  en: You're really making me want you, you know?
+  ko: 진짜 갖고 싶게 만드네?
+  ja: 本気で欲しくなっちゃうんだけど？
+c316_Attractive_Up_2:
+  en: If you keep this up, I won't be able to hold back ♥
+  ko: 자꾸 그러면 나 못참는데♥
+  ja: 何度もこんなことされたら、我慢できなくなっちゃう♥
+c316_Attractive_Up_3:
+  en: Master, do you wanna be mine?
+  ko: 주인님 너, 내 거 할래?
+  ja: ご主人様、私のものにならない？
+c316_Party_Deploy_1:
+  en: How can you expect a maid to do something like this!
+  ko: 메이드한테 이런 걸 시키면 어떡해~
+  ja: メイドにこんなことさせるの～？
+c316_Field_Touch_1:
+  en: Yes, Master ♥
+  ko: 네, 주인님♥
+  ja: はい、ご主人様♥
+c316_Field_Go_1:
+  en: How troublesome... but I'll do it for you, Master!
+  ko: 귀찮지만… 주인님을 위해서라면~
+  ja: メンドくさいけど…ご主人様のためなら～
+c316_Battle_Enter_1:
+  en: Target acquired. Shall we get started?
+  ko: 목표 확인했어. 바로 시작할까?
+  ja: ターゲット確認オッケー。今すぐ始めちゃう？
+c316_Battle_Ready_1:
+  en: I'll end this quickly ♥
+  ko: 얼른 끝낼게♥
+  ja: すぐに終わらせるわ♥
+c316_Battle_Ready_2:
+  en: Shall I get warmed up?
+  ko: 몸 좀 풀어볼까?
+  ja: ウォーミングアップでもしようかしら？
+c316_Battle_Ready_3:
+  en: Hmph! I don't want to.
+  ko: 아아~ 하기 싫어.
+  ja: はぁ～メンドくさい。
+c316_Reload_1:
+  en: Just a sec!
+  ko: 조금만 기다려~
+  ja: ちょっとだけ待ってね～
+c316_Reload_2:
+  en: Reloading!
+  ko: 재장전 할게~
+  ja: リロードするわね～
+c316_Reload_3:
+  en: "*Sigh* When will this end?"
+  ko: 하아. 언제 끝나려나.
+  ja: はぁ。いつ終わるのかしら。
+c316_Ult_Skill_Ready_1:
+  en: Shall we wrap this up?
+  ko: 슬슬 마무리 할까?
+  ja: そろそろ終わらせちゃう？
+c316_Ult_Skill_1:
+  en: Ugh, let's just play ♥
+  ko: 아~ 귀찮아~ 그냥 나랑 놀자, 주인님♥
+  ja: あ～、メンドくさい。私と遊びましょ、ご主人様♥
+c316_FullBurst_1:
+  en: Hahaha! Here comes the finale!
+  ko: 꺄하하하하. 이제 클라이맥스야!
+  ja: キャハハハハ。クライマックスよ！
+c316_Kill_Monster_1:
+  en: Got one!
+  ko: 하나 잡았고~
+  ja: 1体、片付けた～っと。
+c316_Kill_Monster_2:
+  en: Feels like old times.
+  ko: 옛날 생각 나는데?
+  ja: 昔を思い出すわ。
+c316_Kill_Monster_3:
+  en: How lame...
+  ko: 시시하네~
+  ja: つまんないの～
+c316_Damage_1:
+  en: Eeek ♥
+  ko: 꺄앙♥
+  ja: きゃ～♥
+c316_Damage_2:
+  en: That hurts!
+  ko: 아프잖아~
+  ja: イタイじゃないっ！
+c316_Damage_3:
+  en: Ow!
+  ko: 아야~
+  ja: イタタッ。
+c316_Die_1:
+  en: Ugh, this is no fun at all...
+  ko: 윽. 이러면… 재미 없는데….
+  ja: ううっ。これじゃ…面白くないわ…
+c316_Win_1:
+  en: I did my best. Are you going to give me a reward?
+  ko: 나 열심히 했는데, 상이라도 줄 거야?
+  ja: 一生懸命がんばった私に、ご褒美くれる？
+316_cv_ja:
+  en: 'CV: Asami Sanada'
+  ko: 'CV : 사나다 아사미'
+  ja: CV：真田アサミ
+316_cv_ko:
+  en: 'CV: Kim Do-hee'
+  ko: 'CV : 김도희'
+  ja: CV：キム・ドヒ
+316_cv_en:
+  en: 'CV: Rachel Rial'
+  ko: 'CV : 레이첼 리알'
+  ja: CV：Rachael Rial

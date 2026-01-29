@@ -113,8 +113,8 @@ skill_name_1003:
     <color=#00AEFF>[망상 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>
     ■ 망상 상태 종료 시 자신에게
     <color=#00AEFF>[망상 파괴] [최대 {description_value_02}회] [지속]
-    효과 1 : [상상 실연 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_03}초 X 망상 파괴 횟수 만큼 유지]
-    효과 2 : [기절] [{description_value_03}초 X 망상 파괴 횟수 만큼 유지]</color>
+    효과 1 : [상상 실연 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_03}초 X 망상 파괴 횟수만큼 유지]
+    효과 2 : [기절] [{description_value_03}초 X 망상 파괴 횟수만큼 유지]</color>
     ■ 일반 공격 시 자신이 망상 상태가 아니라면 자신에게
     <color=#00AEFF>[망상 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>
     ■ 버스트 스킬 사용 시 자신이 망상 상태가 아니라면 자신에게
@@ -125,8 +125,8 @@ skill_name_1003:
     <word_group=10025>最終</word_group>最大HPの{description_value_01}％の<word_group=10023>バリア</word_group>」「持続」</color>
     ■妄想状態が終了した時、自分に
     <color=#00AEFF>「妄想崩壊」「最大{description_value_02}回」「持続」
-    効果1：「想像失恋：<word_group=10004>単一攻撃対象から除外
-    </word_group>直接攻撃を受けると解除」
+    効果1：「想像失恋：<word_group=10004>単一攻撃対象から除外</word_group>、
+    直接攻撃を受けると解除」
     「{description_value_03}秒×妄想崩壊回数分だけ維持」
     効果2：「気絶」
     「{description_value_03}秒×妄想崩壊回数分だけ維持」</color>
