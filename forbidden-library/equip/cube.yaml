@@ -321,3 +321,26 @@
     en: Burst Skill
     ko: 버스트 스킬
     ja: バーストスキル
+1000315:
+  name:
+    en: Anti Code HC
+    ko: 안티 코드 HC
+    ja: アンチコードHC
+  description:
+    en: |-
+      ■ Activates when entering battle.
+      <color=#00AEFF><word_group=10009>Damage as strong element</word_group> ▲ {description_value_01}%.</color>
+    ko: |-
+      ■ 전투 시작 시
+      <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}% ▲]</color>
+    ja: |-
+      ■戦闘開始時
+      <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_01}％▲」</color>
+  location:
+    en: Obtained from Lost Sector 1.
+    ko: 로스트 섹터 1에서 획득 가능
+    ja: ロストセクター1で獲得できる
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル

@@ -93,7 +93,8 @@ skill_name_1003:
     <color=#00AEFF>[<word_group=10042>관통 대미지</word_group> {description_value_01}% ▲] [{description_value_02}발 유지]</color>
     <color=#00AEFF>[<word_group=10042>관통 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]</color>
   ja: |-
-    ■フルバーストタイムが発動した時、味方全体に
+    ■フルバーストタイムが発動した時、
+    味方全体に
     <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group>{description_value_01}％▲」「{description_value_02}発間維持」</color>
     <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」</color>
 skill_name_1002:
@@ -107,13 +108,12 @@ skill_name_1002:
 13903_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Change the weapon in use:
+    <color=#00AEFF>Changes the weapon in use:
     Charge Time: 1.5 sec
     Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
     Full Charge Damage: 300% of damage
-    Max Ammunition Capacity: {description_value_02} round(s)
+    Max Ammunition Capacity: {description_value_02}
     Additional Effect: Pierce</color>
-
     ■ Affects all allies.
     <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
@@ -134,7 +134,6 @@ skill_name_1002:
     フルチャージダメージ：300％のダメージ
     最大装弾数：{description_value_02}発
     追加効果：貫通特化</color>
-
     ■味方全体に
     <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」</color>
 skill_name_1001:

@@ -1,0 +1,478 @@
+---
+862_name:
+  en: Kurumi
+  ko: 쿠루미
+  ja: クルミ
+c862_description:
+  en: |-
+    Her full name is Kurumi.
+    She's Walnut, the genius hacker. She has the appearance of a child but acts like an adult, even speaking with Mika like an equal, so it is hard to know how old she actually is.
+    She has been hiding in Café LycoReco to evade those who are pursuing her.
+  ko: |-
+    풀네임은 쿠루미.
+    최강의 해커 [월넛].
+    외모는 어린아이 같지만, 미카와 대등하게 성인 같은 대화를 나누는 등, 나이를 가늠하기 어렵다.
+    추격자로부터 도망치기 위해 한동안 찻집 리코리코에 몸을 숨기게 된다.
+  ja: |-
+    フルネームはクルミ。
+    最強のハッカー「ウォールナット」。
+    見た目は幼いが、ミカと対等に大人な会話ができるなど年齢不詳。
+    追っ手から逃れる為、しばらく喫茶リコリコに身を隠すこととなる。
+862_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_862:
+  en: Kurumi's Spare Body
+  ko: 쿠루미 스페어 바디
+  ja: クルミのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28622_name:
+  en: Payload Diffusion
+  ko: 페이로드 확산
+  ja: ペイロード分割
+28622_description:
+  en: |-
+    ■ Activates during Full Burst after landing {description_value_01} normal attack(s) while the target is in Hacked status. Affects the target.
+    <color=#00AEFF>Deals {description_value_02}% of final ATK as additional damage.</color>
+  ko: |-
+    ■ 풀 버스트 타임 지속 시간 중 일반 공격 {description_value_01}회 명중 시 대상이 해킹 상태라면 대상에게
+    <color=#00AEFF>[최종 공격력 {description_value_02}% 추가 대미지]</color>
+  ja: |-
+    ■フルバーストタイムの持続中に通常攻撃が{description_value_01}回命中した時、
+    対象がハッキング状態なら対象に
+    <color=#00AEFF>「最終攻撃力の{description_value_02}％の追加ダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28621_name:
+  en: Malicious Code Injection
+  ko: 악성 코드 주입
+  ja: マルウェア注入
+28621_description:
+  en: |-
+    ■ Activates after landing {description_value_01} normal attack(s). Affects the target.
+    <color=#00AEFF>Hacked: Deals {description_value_02}% of final ATK as sustained damage every 1 sec for {description_value_03} sec.</color>
+    ■ Activates when using Burst Skill. Affects all enemies.
+    <color=#00AEFF>Hacked: Deals {description_value_02}% of final ATK as sustained damage every 1 sec for {description_value_03} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_01}회 명중 시 대상에게
+    <color=#00AEFF>[해킹 : 최종 공격력 {description_value_02}% 지속 대미지] [1초 간격] [{description_value_03}초 유지]</color>
+    ■ 버스트 스킬 사용 시 적 전체에게
+    <color=#00AEFF>[해킹 : 최종 공격력 {description_value_02}% 지속 대미지] [1초 간격] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回命中した時、対象に
+    <color=#00AEFF>「ハッキング：最終攻撃力の{description_value_02}％の
+    持続ダメージ」「1秒間隔」「{description_value_03}秒間維持」</color>
+    ■バーストスキルを使用した時、敵全体に
+    <color=#00AEFF>「ハッキング：最終攻撃力の{description_value_02}％の
+    持続ダメージ」「1秒間隔」「{description_value_03}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18623_name:
+  en: Defense Protocol Breakdown
+  ko: 방어 프로토콜 붕괴
+  ja: 防御プロトコル破壊
+18623_description:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Damage Taken ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「受けるダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+860_name:
+  en: Chisato
+  ko: 치사토
+  ja: 千束
+861_name:
+  en: Takina
+  ko: 타키나
+  ja: たきな
+c862_Lobby_Touch_1:
+  en: Hm? You called?
+  ko: 응? 불렀어?
+  ja: ん？呼んだか？
+c862_Lobby_Touch_2:
+  en: Anyone who only trusts data will only get dumber.
+  ko: 데이터만 믿는 놈은 점점 더 바보가 되어가.
+  ja: データしか信じない奴は、どんどんバカになっていくぞ。
+c862_Lobby_Touch_3:
+  en: Do I really have to help wait tables...?
+  ko: 나까지 꼭 서빙을 해야 해…?
+  ja: ボクもホールで働くのか…？
+c862_Lobby_Touch_Love_1:
+  en: This tech in this place is really something. Lots of interesting stuff.
+  ko: |-
+    이곳의 기술은 훌륭하구나.
+    흥미로운 것들이 많아.
+  ja: |-
+    ここの技術はすごいな。
+    面白そうなものがいっぱいだ。
+c862_Lobby_Touch_Love_2:
+  en: This is amazing! I wanna transport this modified room back to my world.
+  ko: |-
+    이건 걸작이야!
+    개조한 방을 원래 세계에 그대로 들고 가고 싶어.
+  ja: |-
+    これは傑作だ！
+    改造した部屋をそのまま元の世界に持っていきたいな。
+c862_Lobby_Touch_Love_3:
+  en: Chisato and Takina seem to really like this place. Me? I think it's all right.
+  ko: |-
+    치사토랑 타키나가 여길 상당히 마음에들어 한 모양이야.
+    나? 나쁘진 않다고 생각해.
+  ja: |-
+    千束もたきなもここをかなり気に入ってるみたいだな。
+    ボクか？悪くはないと思っている。
+c862_Lobby_Stay_1:
+  en: If you don't really have anything to say, I'd like to go home.
+  ko: 굳이 할 말이 없다면, 돌아가고 싶다만.
+  ja: 特に用がないなら帰るぞ。
+c862_Lobby_Stay_Love_1:
+  en: Let me know when you're done.
+  ko: 끝나면 불러줘.
+  ja: 終わったら呼んでくれー。
+c862_Outpost_Touch_1:
+  en: How long am I gonna have to wait? I'm busy.
+  ko: 아직이야? 난 바쁘다고.
+  ja: まだか？ボクは忙しいんだ。
+c862_Outpost_Touch_2:
+  en: So that entire sky is fake, right? I wonder what kind of displays they're using...
+  ko: |-
+    저 하늘이 전부 가짜라는 거지?
+    무슨 디스플레이를 쓰는 걸까….
+  ja: |-
+    あの空は全部偽物なのか？
+    どんなディスプレイを 使ってるんだ…？
+c862_Outpost_Touch_3:
+  en: W-welcome... Don't you wanna check out the cafe?
+  ko: |-
+    어… 어서 오세요….
+    카페에 와볼 생각 없어?
+  ja: |-
+    い…いらっしゃいませー…
+    カフェにこないか？
+c862_Gacha_Get_1:
+  en: I'm Kurumi. Nice to meet you.
+  ko: 쿠루미야, 잘 부탁해.
+  ja: クルミだ。よろしく。
+c862_Reinforce_1:
+  en: Ooh. I just got a great new idea.
+  ko: 번뜩. 새로운 아이디어가 떠올랐어.
+  ja: あっ！新しいアイデアが浮かんだぞ。
+c862_Reinforce_2:
+  en: Nice. It feels like my brain's working even faster than normal.
+  ko: 오, 머리가 평소보다 좀 더 잘 굴러가는 느낌이야.
+  ja: おお、頭の回転が速くなった気がする。
+c862_Reinforce_3:
+  en: So this is what it feels like to level up, huh? There's still a lot I don't
+    know about this world.
+  ko: |-
+    이런 게 레벨 업…!
+    아직도 이 세계에 대해 모르는 게 많네.
+  ja: |-
+    これがレベルアップ！
+    この世界にはまだまだ知らないことがあるんだな…
+c862_Gift_1:
+  en: Ooh, thanks. I'll put it to good use.
+  ko: |-
+    오오, 고맙구나.
+    잘 쓰도록 하마.
+  ja: |-
+    おお、サンキュー。
+    使わせてもらうぞ。
+c862_Gift_2:
+  en: Are you sure I can have this?
+  ko: 정말 받아도 되는 거야?
+  ja: 本当にもらってもいいのか？
+c862_Gift_3:
+  en: I wonder if I'll be able to take this back to Café LycoReco...
+  ko: 찻집 리코리코에 들고 돌아갈 수 있으려나?
+  ja: 喫茶リコリコへ持って帰れるのか？
+c862_Attractive_Up_1:
+  en: Never a dull moment when I'm with all of you. I kinda like it.
+  ko: |-
+    너희랑 있으면 심심할 틈이 없어.
+    …나쁘지 않네.
+  ja: お前たちといると退屈しないで済む。悪くないな。
+c862_Attractive_Up_2:
+  en: I've been living pretty comfortably here thanks to you, so... thanks.
+  ko: 덕분에 편하게 지내는구나, 고마워.
+  ja: おかげで快適に過ごせてるぞ。ありがとな。
+c862_Attractive_Up_3:
+  en: Do I want to go back to my world? I'm in no hurry. There's still plenty for
+    me to research here.
+  ko: |-
+    빨리 돌아가고 싶냐고?
+    아직 조사할 게 있어서, 조금 더 있어도 돼.
+  ja: |-
+    早く帰りたいかって？
+    まだ調べたいことがあるからもう少しいてやってもいい。
+c862_Party_Deploy_1:
+  en: Do... I really have to?
+  ko: 내가… 가야 하는 거야?
+  ja: ボクが…行かなきゃダメなのか？
+c862_Field_Touch_1:
+  en: Hmm?
+  ko: 으응?
+  ja: ん…？
+c862_Field_Go_1:
+  en: F-fine, I'm going...
+  ko: 가, 가고 있어….
+  ja: い、今行く…
+c862_Battle_Enter_1:
+  en: Here goes nothing!
+  ko: 이판사판이다…!
+  ja: なるようになれっ…！
+c862_Battle_Ready_1:
+  en: I do cyber warfare, not... this...
+  ko: 난 서포터 전문이다만….
+  ja: ボクはサポート専門なんだが…
+c862_Battle_Ready_2:
+  en: I'll try my best...
+  ko: 최대한 힘내볼게….
+  ja: 努力はしてみる…
+c862_Battle_Ready_3:
+  en: Whew... Keep calm... Keep calm...
+  ko: 후우, 진정… 진정….
+  ja: ふぅ、落ち着け…落ち着け…
+c862_Reload_1:
+  en: Like this, right...?
+  ko: 이렇게… 맞아?
+  ja: これで…合ってるのか？
+c862_Reload_2:
+  en: Hold on a sec!
+  ko: 잠시만 기다려!
+  ja: ちょっと待っててくれ！
+c862_Reload_3:
+  en: This goes in here...
+  ko: 이걸, 이렇게 해서….
+  ja: これを、こうして…
+c862_Ult_Skill_Ready_1:
+  en: I'm ready!
+  ko: 다 되었다!
+  ja: できた！
+c862_Ult_Skill_1:
+  en: Time for a watermelon break!
+  ko: 같이 수박이나 먹으면서 쉬자고~
+  ja: 一緒にスイカでも食べながら休むぞ～
+c862_FullBurst_1:
+  en: Let 'em have it!
+  ko: 몰아붙여!
+  ja: 追い詰めろ！
+c862_Kill_Monster_1:
+  en: Oooh!
+  ko: 오오!
+  ja: おお！
+c862_Kill_Monster_2:
+  en: I'm pretty good at this!
+  ko: 나도 제법 하잖아!
+  ja: ボクも結構やるだろ！
+c862_Kill_Monster_3:
+  en: See that?
+  ko: 봤어?
+  ja: 見たか？
+c862_Damage_1:
+  en: Ugh...!
+  ko: 읏…!
+  ja: うっ！
+c862_Damage_2:
+  en: Agh!
+  ko: 으악!
+  ja: うおっ！
+c862_Damage_3:
+  en: Oof!
+  ko: 아이고!
+  ja: おっと！
+c862_Die_1:
+  en: Is this really the end...?
+  ko: 여기까지인가….
+  ja: ここまでか…
+c862_Win_1:
+  en: It all went according to my calculations!
+  ko: 좋아, 계산대로의 결과야!
+  ja: よし！計算通りの結果だ！
+862_cv_ja:
+  en: 'CV: Misaki Kuno'
+  ko: 'CV : 쿠노 미사키'
+  ja: CV：久野美咲
+862_cv_ko:
+  en: 'CV: Misaki Kuno'
+  ko: 'CV : 쿠노 미사키'
+  ja: CV：久野美咲
+862_cv_en:
+  en: 'CV: Misaki Kuno'
+  ko: 'CV : 쿠노 미사키'
+  ja: CV：久野美咲

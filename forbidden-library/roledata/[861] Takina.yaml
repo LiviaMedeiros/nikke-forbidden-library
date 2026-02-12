@@ -1,0 +1,499 @@
+---
+861_name:
+  en: Takina
+  ko: 타키나
+  ja: たきな
+c861_description:
+  en: |-
+    Her full name is Takina Inoue.
+    She excelled as a Lycoris, but ended up working at Café LycoReco due to certain circumstances. She's realistic and hates inefficiency, so she harbors some dissatisfaction toward Chisato, who doesn't behave like a Lycoris.
+    She wants to achieve meaningful results through her work at LycoReco.
+  ko: |-
+    풀네임은 이노우에 타키나.
+    우수한 리코리스였지만, 어떤 사정으로 인해 찻집 리코리코에서 일하게 된다.
+    합리적이고 낭비를 싫어하는 성격이라, 리코리스답지 않은 치사토에게 불만을 느끼기도 한다.
+    리코리코에서의 일로 성과를 내고 싶다고 생각하고 있다.
+  ja: |-
+    フルネームは井ノ上たきな。
+    優秀なリコリスだったが、ワケあって
+    喫茶リコリコで働くことになる。
+    合理的で無駄を嫌う性格で、
+    リコリスらしくない千束に不満を感じることも。
+    リコリコでの仕事で成果を出したいと思っている。
+861_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_861:
+  en: Takina's Spare Body
+  ko: 타키나 스페어 바디
+  ja: たきなのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+18612_name:
+  en: Battlefield Control
+  ko: 전장 통제
+  ja: 戦場支配
+18612_description:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Damage Taken ▲ {description_value_01}% for {description_value_02} sec.
+    Stuns for {description_value_03} sec.</color>
+    ■ Affects all allies.
+    <color=#00AEFF>True Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[받는 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [기절] [{description_value_03}초 유지]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[방어력 무시 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「受けるダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「気絶」「{description_value_03}秒間維持」</color>
+    ■味方全体に
+    <color=#00AEFF>「防御力無視ダメージ{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28611_name:
+  en: Combat Support
+  ko: 전투 보정
+  ja: 戦闘補正
+28611_description:
+  en: |-
+    ■ Activates at the start of battle and when Full Burst ends. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>True Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 전투 시작 시와 풀 버스트 타임 종료 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[방어력 무시 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■戦闘開始時およびフルバーストタイムが
+    終了した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「防御力無視ダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18613_name:
+  en: Suppression Initiated
+  ko: 제압 개시
+  ja: 制圧開始
+18613_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Changes the weapon in use.
+    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    Duration: {description_value_02} sec
+    Additional Effects
+    Affects self: Normal attacks deal true damage for {description_value_03} sec.
+    Affects targets hit: Damage Taken ▲ {description_value_04}% for {description_value_05} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경]
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
+    유지 시간 : {description_value_02}초
+    추가 효과
+    자신에게 : [일반 공격을 방어력 무시 대미지로 변경] [{description_value_03}초 유지]
+    명중 대상에게 : [받는 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器変更」
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+    維持時間：{description_value_02}秒
+    追加効果
+    自分に：
+    「通常攻撃を防御力無視ダメージに変更」
+    「{description_value_03}秒間維持」
+    命中した敵に：「受けるダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+860_name:
+  en: Chisato
+  ko: 치사토
+  ja: 千束
+862_name:
+  en: Kurumi
+  ko: 쿠루미
+  ja: クルミ
+c861_Lobby_Touch_1:
+  en: Is there anything you need?
+  ko: 필요한 거라도 있으세요?
+  ja: 何か必要ですか？
+c861_Lobby_Touch_2:
+  en: Let me know if there's anything I can help with.
+  ko: 제가 도울 수 있는 일이 있다면, 말해주세요.
+  ja: 手伝えることがあったら、言ってください。
+c861_Lobby_Touch_3:
+  en: Our profits are up from yesterday.
+  ko: 어제보다 수익이 더 늘었네요.
+  ja: 昨日より売上が伸びています。
+c861_Lobby_Touch_Love_1:
+  en: This place shares a lot of similarities with our world. Maybe that's why I feel
+    so comfortable here.
+  ko: |-
+    여기는, 저희 세계와 닮은 곳이 많아요.
+    그래서 더 편하게 느껴지나 봐요.
+  ja: |-
+    ここは、私たちの世界と似ていますね。
+    だから居心地がいいのかもしれません。
+c861_Lobby_Touch_Love_2:
+  en: Board games after work...? All right, I can join you for a game.
+  ko: |-
+    카페 영업이 끝나면 보드게임인가요…?
+    좋아요, 한 판 정도는 같이 해드릴게요.
+  ja: |-
+    カフェの営業が終わったらボードゲームですか…？
+    いいですよ。1ゲームだけつきあいます。
+c861_Lobby_Touch_Love_3:
+  en: I'm glad my ideas for new menu items are popular here as well.
+  ko: 제가 만든 신메뉴, 여기에서도 인기가 많아서 다행이에요.
+  ja: 私が作った新メニュー、ここでも人気でよかったです。
+c861_Lobby_Stay_1:
+  en: If you don't have anything for me, can I go back to the cafe?
+  ko: 용건이 없다면, 카페로 돌아가 봐도 될까요?
+  ja: 用がないなら、カフェに戻ってもいいですか？
+c861_Lobby_Stay_Love_1:
+  en: Hmm... Taking little breaks like this isn't so bad after all.
+  ko: 음… 이렇게 잠시 쉬는 것도 나쁘지 않네요.
+  ja: こうして少し休むのも悪くありませんね。
+c861_Outpost_Touch_1:
+  en: Have you seen Chisato? She got excited and ran off just now...
+  ko: |-
+    혹시 치사토 못 보셨나요?
+    방금 신나서 뛰쳐나갔는데….
+  ja: |-
+    千束を見てませんか？
+    さっき楽しそうに 出かけていったんですが…
+c861_Outpost_Touch_2:
+  en: So the battlefield is right above us...? I almost can't believe it, given how
+    peaceful it is here.
+  ko: |-
+    …바로 위가, 전장이라는 거죠?
+    여긴 이렇게나 평화로운데, 믿기지 않네요.
+  ja: |-
+    …すぐ上が、戦場なんですか？
+    ここはこんなに平和なのに… 信じられません。
+c861_Outpost_Touch_3:
+  en: We've added a new item to our menu at the cafe. Why not give it a try?
+  ko: 카페에 신메뉴가 들어왔으니, 많은 관심 부탁드려요.
+  ja: |-
+    カフェに新メニューが 登場しました。
+    ぜひお召し上がりください。
+c861_Gacha_Get_1:
+  en: Hello. My name's Takina Inoue.
+  ko: 안녕하세요, 이노우에 타키나입니다.
+  ja: こんにちは。井ノ上たきなです。
+c861_Reinforce_1:
+  en: I never knew you could get stronger like this. I've learned something new.
+  ko: 이런 식으로도 강해질 수 있군요, 공부가 되었어요.
+  ja: こんな形でも強くなれるんですね。勉強になりました。
+c861_Reinforce_2:
+  en: I feel much stronger now. Thank you.
+  ko: 컨디션이 좋아졌어요, 감사합니다.
+  ja: 体調がよくなりました。ありがとうございます。
+c861_Reinforce_3:
+  en: I'm going to work even harder today.
+  ko: 오늘은 더 열심히 일해야겠네요.
+  ja: 今日はいつも以上に頑張りますね。
+c861_Gift_1:
+  en: But you've already done so much for me... Thank you.
+  ko: 챙겨주신 것만으로도 감사한데, 이런 것까지….
+  ja: 気にかけてくださるだけでもありがたいのに、こんなものまで…
+c861_Gift_2:
+  en: Hmm, do you think I'll be able to take this back to my world?
+  ko: 음, 원래 세계로 들고 갈 수 있는 걸까요?
+  ja: これって、元の世界にも持って帰れますか？
+c861_Gift_3:
+  en: I'll make good use of this. Thank you.
+  ko: 잘 쓸게요, 감사합니다.
+  ja: 大切に使いますね。ありがとうございます。
+c861_Attractive_Up_1:
+  en: I think I'm going to be sad when I have to go back.
+  ko: 돌아가게 되면, 많이 아쉬울 거예요.
+  ja: いざ帰るとなると、寂しくなりそうです。
+c861_Attractive_Up_2:
+  en: I'm feeling much more of a bond with you than I may have realized.
+  ko: 생각했던 것보다, 정이 많이 들었을지도요.
+  ja: 思っていたより、情が移ってしまったのかもしれません。
+c861_Attractive_Up_3:
+  en: You've done a lot for me since I arrived here. I appreciate your kindness.
+  ko: |-
+    여러모로 의지하고 있어요.
+    챙겨주셔서 감사해요.
+  ja: |-
+    色々と頼りにしています。
+    お気遣いありがとうございます。
+c861_Party_Deploy_1:
+  en: I'll get ready.
+  ko: 준비할게요.
+  ja: 準備します。
+c861_Field_Touch_1:
+  en: Yes.
+  ko: 네.
+  ja: はい。
+c861_Field_Go_1:
+  en: Moving out.
+  ko: 이동합니다.
+  ja: 移動します。
+c861_Battle_Enter_1:
+  en: Enemy spotted.
+  ko: 적 위치 발견했어요.
+  ja: 敵を発見しました。
+c861_Battle_Ready_1:
+  en: Ready for combat.
+  ko: 전투 준비 완료.
+  ja: 戦闘準備完了。
+c861_Battle_Ready_2:
+  en: Cover secured.
+  ko: 엄폐물 확보했어요.
+  ja: 遮蔽物を確保しました。
+c861_Battle_Ready_3:
+  en: Here we go.
+  ko: 갑니다.
+  ja: 行きます。
+c861_Reload_1:
+  en: I'm reloading.
+  ko: 장전 중.
+  ja: 装填中。
+c861_Reload_2:
+  en: I need to reload.
+  ko: 리로드.
+  ja: リロード。
+c861_Reload_3:
+  en: Give me a moment to regroup.
+  ko: 잠시, 정비할게요.
+  ja: 整備しますね。
+c861_Ult_Skill_Ready_1:
+  en: I'm ready!
+  ko: 준비됐어요!
+  ja: 準備できました！
+c861_Ult_Skill_1:
+  en: I'll clear the way!
+  ko: 길을 뚫겠습니다!
+  ja: 道を切り開きます！
+c861_FullBurst_1:
+  en: Initiating focused fire!
+  ko: 집중사격, 지금!
+  ja: 集中射撃、開始！
+c861_Kill_Monster_1:
+  en: Clear.
+  ko: 클리어.
+  ja: クリア。
+c861_Kill_Monster_2:
+  en: Target eliminated.
+  ko: 처치 완료.
+  ja: 処理完了。
+c861_Kill_Monster_3:
+  en: Engaging next target.
+  ko: 다음, 갈게요.
+  ja: 次、行きます。
+c861_Damage_1:
+  en: Erk!
+  ko: 윽…!
+  ja: うっ…！
+c861_Damage_2:
+  en: Argh!
+  ko: 크읏!
+  ja: くうっ！
+c861_Damage_3:
+  en: Ngh...
+  ko: 흡….
+  ja: ふっ…
+c861_Die_1:
+  en: Retreating for now.
+  ko: 일단, 후퇴하겠습니다.
+  ja: ひとまず、後退します。
+c861_Win_1:
+  en: Mission complete. Where's our next target?
+  ko: 임무 완료. 다음 타겟은 어디인가요?
+  ja: 任務完了。次のターゲットはどこですか？
+861_cv_ja:
+  en: 'CV: Shion Wakayama'
+  ko: 'CV : 와카야마 시온'
+  ja: CV：若山詩音
+861_cv_ko:
+  en: 'CV: Shion Wakayama'
+  ko: 'CV : 와카야마 시온'
+  ja: CV：若山詩音
+861_cv_en:
+  en: 'CV: Shion Wakayama'
+  ko: 'CV : 와카야마 시온'
+  ja: CV：若山詩音

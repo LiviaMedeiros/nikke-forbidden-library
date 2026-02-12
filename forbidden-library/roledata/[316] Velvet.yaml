@@ -64,14 +64,14 @@ character_shot_description_localkey_sr_up:
 23162_description:
   en: |-
     ■ Activates when attacking with Full Charge during Full Burst.
-    <color=#00AEFF>Feature: Consumes bullets in the <word_group=10098>ammo pouch</word_group> to strengthen ally units.
-    Effect 1: Affects self. <word_group=10099>Consumes</word_group> {description_value_01} round(s) of bullets in the <word_group=10098>ammo pouch</word_group>.
+    <color=#00AEFF>Function: Strengthens allies by expending ammo from the <word_group=10098>ammo pouch</word_group>.
+    Effect 1: Affects self. <word_group=10099>Expends ammo</word_group> from the <word_group=10098>ammo pouch</word_group>. Amount: {description_value_01} round(s).
     Effect 2: Affects all allies. ATK ▲ {description_value_02}% of the caster's ATK for {description_value_03} sec continuously.
-    Effect 3: Affects all allies. Charge damage ▲ {description_value_04}% for {description_value_05} sec continuously.</color>
-    ■ Activates when landing {description_value_06} normal attack(s) during Full Burst.
-    <color=#00AEFF>Feature: Consumes bullets in the <word_group=10098>ammo pouch</word_group> to deal additional damage to the enemy.
-    Effect 1: Affects self. <word_group=10099>Consumes</word_group> {description_value_07} round(s) of bullets in the <word_group=10098>ammo pouch</word_group>.
-    Effect 2: Affects self. Attack damage ▲ {description_value_08}% for {description_value_09} sec continuously.
+    Effect 3: Affects all allies. Charge Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates after landing {description_value_06} normal attack(s) during Full Burst.
+    <color=#00AEFF>Function: Expends ammo from the <word_group=10098>ammo pouch</word_group> to deal additional damage to the enemy.
+    Effect 1: Affects self. <word_group=10099>Expends ammo</word_group> from the <word_group=10098>ammo pouch</word_group>. Amount: {description_value_07} round(s).
+    Effect 2: Affects self. Attack Damage ▲ {description_value_08}% for {description_value_09} sec.
     Effect 3: Affects the target. Deals {description_value_10}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ 풀 차지 공격 시 풀 버스트 타임일 때 한하여
@@ -85,16 +85,30 @@ character_shot_description_localkey_sr_up:
     효과 2 : 자신에게[공격 대미지 {description_value_08}% ▲] [{description_value_09}초 유지]
     효과 3 : 대상에게[<word_group=10025>최종</word_group> 공격력 {description_value_10}% 추가 대미지]</color>
   ja: |-
-    ■フルチャージして攻撃した時、フルバーストタイム中のみ
-    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して味方を強化
-    効果1：自分に「<word_group=10098>弾丸ポーチ</word_group>の<word_group=10099>弾薬消費</word_group>{description_value_01}発」
-    効果2：味方全体に「スキル発動者基準で攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」
-    効果3：味方全体に「チャージダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
-    ■通常攻撃を{description_value_06}回命中した時、フルバーストタイム中のみ
-    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して敵に追加ダメージを与える
-    効果1：自分に「<word_group=10098>弾丸ポーチ</word_group>の<word_group=10099>弾薬消費</word_group>{description_value_07}発」
-    効果2：自分に「攻撃ダメージ{description_value_08}％▲」「{description_value_09}秒間維持」
-    効果3：対象に「<word_group=10025>最終</word_group>攻撃力の{description_value_10}％の追加ダメージ」</color>
+    ■フルチャージして攻撃した時、
+    フルバーストタイム中のみ
+    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して
+    味方を強化
+    効果1：自分に
+    「<word_group=10098>弾丸ポーチ</word_group>の<word_group=10099>弾薬消費</word_group>
+    {description_value_01}発」
+    効果2：味方全体に
+    「スキル発動者基準で攻撃力{description_value_02}％▲」
+    「{description_value_03}秒間維持」
+    効果3：味方全体に
+    「チャージダメージ{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
+    ■通常攻撃を{description_value_06}回命中した時、
+    フルバーストタイム中のみ
+    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して
+    敵に追加ダメージを与える
+    効果1：自分に
+    「<word_group=10098>弾丸ポーチ</word_group>の<word_group=10099>弾薬消費</word_group>{description_value_07}発」
+    効果2：自分に
+    「攻撃ダメージ{description_value_08}％▲」
+    「{description_value_09}秒間維持」
+    効果3：対象に
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_10}％の追加ダメージ」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -104,18 +118,17 @@ skill_name_1003:
   ko: 나쁜 손버릇
   ja: イタズラな手
 23161_description:
-  en: "■ Activates when entering battle and when entering Burst Stage 2.\n<color=#00AEFF>Bullet
-    Snatch:\nFeature: Steals the enemy's bullets and loads self's <word_group=10098>ammo
-    pouch</word_group>.\nEffect 1: Affects all enemies. Removes {description_value_01}%
-    of bullets.\nEffect 2: Affects self. Loads {description_value_02} round(s) in
-    the <word_group=10098>ammo pouch</word_group> and stores up to {description_value_03}
-    round(s) continuously. This effect cannot be dispelled.</color>\n■ Activates when
-    attacking with Full Charge. Affects self if not in Full Burst status.\n<color=#00AEFF>Feature:
-    Consumes bullets in the <word_group=10098>ammo pouch</word_group> to strengthen
-    self.\nEffect 1: <word_group=10099>Consumes</word_group> {description_value_04}
-    round(s) of bullets in the <word_group=10098>ammo pouch</word_group>. \nEffect
-    2: ATK ▲ {description_value_05}% for {description_value_06} sec continuously.\nEffect
-    3: Attack damage ▲ {description_value_07}% for {description_value_08} sec continuously.</color>"
+  en: |-
+    ■ Activates at the start of battle and when entering Burst Stage 2.
+    <color=#00AEFF>Bullet Snatch:
+    Function: Steals the enemy's bullets and keeps them in her <word_group=10098>ammo pouch</word_group>.
+    Effect 1: Affects all enemies. Removes {description_value_01}% of bullets.
+    Effect 2: Affects self. Fills the <word_group=10098>ammo pouch</word_group> with {description_value_02} round(s), up to a maximum of {description_value_03}. This effect is continuous and cannot be dispelled.</color>
+    ■ Activates when attacking with Full Charge while not in Full Burst. Affects self.
+    <color=#00AEFF>Function: Strengthens self by expending ammo from the <word_group=10098>ammo pouch</word_group>.
+    Effect 1: <word_group=10099>Expends ammo</word_group> from the <word_group=10098>ammo pouch</word_group>. Amount: {description_value_04} round(s).
+    Effect 2: ATK ▲ {description_value_05}% for {description_value_06} sec.
+    Effect 3: Attack Damage ▲ {description_value_07}% for {description_value_08} sec.</color>
   ko: |-
     ■ 전투 시작 시와 버스트 2단계 진입 시
     <color=#00AEFF>[탄환 가져오기] :
@@ -130,14 +143,20 @@ skill_name_1003:
   ja: |-
     ■戦闘開始時およびバースト2段階突入時、
     <color=#00AEFF>「弾丸泥棒」：
-    機能：敵の弾薬を盗み自分の<word_group=10098>弾丸ポーチ</word_group>を増加
+    機能：敵の弾薬を盗み
+    自分の<word_group=10098>弾丸ポーチ</word_group>を増加
     効果1：敵全体に「残弾数{description_value_01}％減少」
-    効果2：自分に「<word_group=10098>弾丸ポーチ</word_group>{description_value_02}発チャージ」「最大{description_value_03}発保存」「持続」「解除不可」</color>
-    ■フルチャージして攻撃した時、フルバースト状態でなければ自分に
-    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して味方を強化
+    効果2：自分に
+    「<word_group=10098>弾丸ポーチ</word_group>{description_value_02}発チャージ」
+    「最大{description_value_03}発保存」「持続」「解除不可」</color>
+    ■フルチャージして攻撃した時、
+    フルバースト状態でなければ自分に
+    <color=#00AEFF>機能：<word_group=10098>弾丸ポーチ</word_group>の弾薬を消費して
+    自分を強化
     効果1：「<word_group=10098>弾丸ポーチ</word_group>の<word_group=10099>弾薬消費</word_group>{description_value_04}発」
     効果2：「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」
-    効果3：「攻撃ダメージ{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+    効果3：「攻撃ダメージ{description_value_07}％▲」
+    「{description_value_08}秒間維持」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1
@@ -150,8 +169,10 @@ skill_name_1002:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Changes the weapon in use:
-    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
-    Duration: {description_value_02} sec</color>
+    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK.
+    Duration: {description_value_02} sec.
+    Additional Effect
+    Attack Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[사용 무기 변경] :
@@ -163,7 +184,9 @@ skill_name_1002:
     ■自分に
     <color=#00AEFF>「使用武器変更」
     ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％
-    維持時間：{description_value_02}秒</color>
+    維持時間：{description_value_02}秒
+    追加効果
+    「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬
@@ -337,7 +360,9 @@ c316_Lobby_Touch_1:
     いらっしゃい、ご主人様。
     食事の用意と片付けは自分でやってね～
 c316_Lobby_Touch_2:
-  en: Agent work? Sure, I'll do it if you ask me to. I haven't gone rusty anyway ♥
+  en: |-
+    Agent work? Sure, I'll do it if you ask me to. I haven't gone rusty
+    anyway ♥
   ko: |-
     요원 일은… 뭐, 시키면 할게.
     딱히 녹슬지는 않았으니까♥

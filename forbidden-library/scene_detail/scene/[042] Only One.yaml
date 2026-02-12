@@ -7320,7 +7320,7 @@ d_main_42_af_01:
     ja: アウターリムの防壁、すぐに開けて！
 d_main_42_af_02:
   d_main_42_af_02_1:
-    speaker: eh
+    speaker: eh_n
     en: Don't stop. Keep running.
     ko: 쉬지 마. 계속 달려.
     ja: 足を止めずに、走って。
@@ -7330,12 +7330,12 @@ d_main_42_af_02:
     ko: 어, 어디로 가는데요…!
     ja: ど、どこに行く気ですか…！？
   d_main_42_af_02_3:
-    speaker: eh
+    speaker: eh_n
     en: The Ark.
     ko: 방주로 간다.
     ja: アーク。
   d_main_42_af_02_4:
-    speaker: eh
+    speaker: eh_n
     en: We need to fix this somehow.
     ko: 가서 어떻게든 이걸 수습해야 해.
     ja: なんとしてでも事態を収拾しないと。
@@ -7354,7 +7354,7 @@ d_main_42_af_02:
       それにE.H.様はアークへ入れないように
       爆弾を付けられてるんですよね！？
   d_main_42_af_02_7:
-    speaker: eh
+    speaker: eh_n
     en: I'm going anyway. If I can save even just one more person, it'll be worth
       it.
     ko: 그래도 간다. 한 명이라도 더 살려야 해.
@@ -7373,21 +7373,21 @@ d_main_42_af_02:
       これ以上関わったら私…！
       こ、更生館から脱走してるし…！
   d_main_42_af_02_10:
-    speaker: eh
+    speaker: eh_n
     en: Don't run away, Liveryn.
     ko: 도망가지 마 리버린.
     ja: 逃げないで。
   d_main_42_af_02_11:
-    speaker: eh
+    speaker: eh_n
     en: What's done is done. If you run now, it'll only make things worse.
     ko: 이미 일은 벌어졌어. 여기서 도망가면 더 악화될 뿐이야.
     ja: |-
       お前はもう戻れないところにいる。
       ここで逃げても余計悪くなるだけ。
   d_main_42_af_02_12:
-    speaker: eh
-    en: Avoiding a problem away won't solve anything. You need to face it, and then
-      think about what to do next.
+    speaker: eh_n
+    en: Avoiding a problem won't solve anything. You need to face it, and then think
+      about what to do next.
     ko: |-
       피한다고 해결될 문제가 아니야.
       받아들이고, 다음을 생각해.
@@ -7402,7 +7402,7 @@ d_main_42_af_02:
       受け入れるなんて、どうやって…
       こ、今度は更生館送りじゃ済まないはず…
   d_main_42_af_02_14:
-    speaker: eh
+    speaker: eh_n
     en: Then take your punishment.
     ko: 벌을 받아.
     ja: 罰を受ければいい。
@@ -7412,7 +7412,7 @@ d_main_42_af_02:
     ko: "…!!"
     ja: "…！！"
   d_main_42_af_02_16:
-    speaker: eh
+    speaker: eh_n
     en: If you've committed a crime, you must accept the punishment, reflect, and
       improve.
     ko: 죄를 지었으면 벌을 받고, 반성해. 뉘우치라고.
@@ -7427,14 +7427,14 @@ d_main_42_af_02:
       わ、私は何も悪いことなんて…
       全部シックスオーに脅迫されて――
   d_main_42_af_02_18:
-    speaker: eh
+    speaker: eh_n
     en: Think of how many people have been harmed because of your selfishness,
     ko: 지금 네 그 이기심 때문에 몇 명이나 시궁창으로 떨어졌는지 잘 생각해.
     ja: |-
       その軽率な自己保身のために
       どれだけの人をどん底に突き落とした？
   d_main_42_af_02_19:
-    speaker: eh
+    speaker: eh_n
     en: how many have suffered because you were only looking out for yourself.
     ko: 너 하나 보신하자고, 얼마나 많은 사람이 고통받았는지 생각하라고.
     ja: |-
@@ -7465,12 +7465,12 @@ d_main_42_af_02:
       私、やっぱり、し、死刑ですよね？
       それとも地上に追放されて…
   d_main_42_af_02_24:
-    speaker: eh
+    speaker: eh_n
     en: Don't think about it.
     ko: 생각하지 마.
     ja: 考えなくていい。
   d_main_42_af_02_25:
-    speaker: eh
+    speaker: eh_n
     en: Thoughts like that have led you to make the wrong choice, over and over.
     ko: 그런 생각 때문에, 자꾸 틀린 선택을 하는 거라고.
     ja: そんなことを考えても、選択を誤るだけ。
@@ -7485,7 +7485,7 @@ d_main_42_af_02:
     ko: 리더.
     ja: リーダー？
   d_main_42_af_02_28:
-    speaker: eh
+    speaker: eh_n
     en: Viper. Perfect timing. We—
     ko: 바이퍼. 마침 잘 됐어. 지금 당장....
     ja: バイパー。ちょうどよかった。今すぐ…
@@ -7495,13 +7495,13 @@ d_main_42_af_02:
     ko: 아니스한테 연락이 왔는데.
     ja: アニスから連絡があったんだけど。
   d_main_42_af_02_30:
-    speaker: eh
+    speaker: eh_n
     en: Anis? From the Counters?
     ko: 카운터스의 아니스?
     ja: カウンターズの？
   d_main_42_af_02_31:
     speaker: viper_op_l
-    en: Yeah. You know the partition that connects to Punk Street?
+    en: Yeah. You know the Partition that connects to Punk Street?
     ko: |-
       응. 아니스가 그러는데,
       펑크 스트리트랑 이어진 격벽 있지?
@@ -7514,29 +7514,29 @@ d_main_42_af_02:
     ko: 거길 빨리 열라는데?
     ja: あそこを今すぐ開けろって。
   d_main_42_af_02_33:
-    speaker: eh
+    speaker: eh_n
     en: The partition...?
     ko: "…격벽을…?"
     ja: "…防壁を…？"
   d_main_42_af_02_34:
-    speaker: eh
+    speaker: eh_n
     en: "!"
     ko: "!!"
     ja: "！！"
   d_main_42_af_02_35:
-    speaker: eh
+    speaker: eh_n
     en: Right... I didn't think of that.
     ko: 그래. 그런 방법이 있었군.
     ja: そうか、その手がある。
   d_main_42_af_02_36:
-    speaker: eh
+    speaker: eh_n
     en: Viper. Wait by the front of the partition with Jackal.
     ko: 바이퍼. 자칼과 함께 격벽 앞에서 대기해 줘.
     ja: |-
       バイパー。ジャッカルも連れて、
       防壁に向かって。
   d_main_42_af_02_37:
-    speaker: eh
+    speaker: eh_n
     en: We're going to open it.
     ko: 격벽을 연다.
     ja: そこをこじ開ける。
@@ -7546,7 +7546,7 @@ d_main_42_af_02:
     ko: 아니, 왜? 무슨 일인데 갑자기?
     ja: え？なんで急に？何かあったの？
   d_main_42_af_02_39:
-    speaker: eh
+    speaker: eh_n
     en: I'll explain once we're there. Hurry up.
     ko: 가서 설명할게. 서둘러줘.
     ja: 着いてから説明する。急いで。
@@ -7565,7 +7565,7 @@ d_main_42_af_02:
       無許可で近づいたら
       警備ロボットにハチの巣にされちゃうでしょ？
   d_main_42_af_02_42:
-    speaker: eh
+    speaker: eh_n
     en: Still, we're going to open it.
     ko: 그래도 연다.
     ja: それでもだ。
@@ -7577,7 +7577,7 @@ d_main_42_af_02:
       …まあいいけど。ちゃんと説明してくれないと
       協力できないからね？
   d_main_42_af_02_44:
-    speaker: eh
+    speaker: eh_n
     en: It is.
     ko: 물론이지.
     ja: 分かってる。
@@ -7594,12 +7594,12 @@ d_main_42_af_02:
       あそこって単純な機械式だから、
       ハッキングも何もできないよ。
   d_main_42_af_02_47:
-    speaker: eh
+    speaker: eh_n
     en: Are you hearing yourself right now?
     ko: 뭘 물어보는 거야.
     ja: 聞くまでもないだろう。
   d_main_42_af_02_48:
-    speaker: eh
+    speaker: eh_n
     en: What's the thing we're best at?
     ko: 우리가 가장 잘하는 게 그런 건데.
     ja: 私たちのいちばん得意な分野だ。
@@ -8273,7 +8273,7 @@ d_main_42_af_03:
       アニスの視線の先に、
       無表情のエタニティが立ちはだかった
   d_main_42_af_03_112:
-    speaker: eh
+    speaker: eh_n
     en: Liveryn. Grab that side.
     ko: 리버린. 그쪽을 잡아.
     ja: リヴァリン、そっちをつかんで。
@@ -8283,7 +8283,7 @@ d_main_42_af_03:
     ko: 여, 여기요?
     ja: こ、こうですか？
   d_main_42_af_03_114:
-    speaker: eh
+    speaker: eh_n
     en: Yeah. We're going to open the gate manually. You'll have to pull it with everything
       you've got.
     ko: 그래. 수동으로 문을 열 거야. 힘껏 당겨야 해.
@@ -8296,7 +8296,7 @@ d_main_42_af_03:
     ko: 알겠, 알겠어요.
     ja: わっ…分かりました。
   d_main_42_af_03_116:
-    speaker: eh
+    speaker: eh_n
     en: Here we go!
     ko: 간다…!
     ja: 行くぞ…！
@@ -8318,7 +8318,7 @@ d_main_42_af_03:
       音の主は怯えた表情の
       ジャッカルとバイパーだった
   d_main_42_af_03_120:
-    speaker: eh
+    speaker: eh_n
     en: What's going on?
     ko: "…무슨 일이야."
     ja: "…何があった？"
@@ -8463,7 +8463,7 @@ d_main_42_af_03:
     ko: 안녕하십니까.
     ja: ごきげんよう。
   d_main_42_af_03_143:
-    speaker: eh
+    speaker: eh_n
     en: Enikk...?
     ko: 에닉… 이야…?
     ja: エニックか…？
@@ -8477,7 +8477,7 @@ d_main_42_af_03:
       はい。会話することは久しぶりです。
       エリシオン・ハーパー。
   d_main_42_af_03_145:
-    speaker: eh
+    speaker: eh_n
     en: We need to open the partition.
     ko: 격벽을 열어야 해.
     ja: ここの防壁を開けないといけないの。
@@ -8495,7 +8495,7 @@ d_main_42_af_03:
     ko: 순순히 투항 후 인도에 따르십시오.
     ja: 速やかに投降し、指示に従ってください。
   d_main_42_af_03_148:
-    speaker: eh
+    speaker: eh_n
     en: If I told you I didn't do it, would you believe me?
     ko: 안 했다고 하면 믿어줄 거야?
     ja: やってないと言って、信じてもらえるの？
@@ -8552,7 +8552,7 @@ d_main_42_af_03:
     ko: 그렇지? 나도 그래.
     ja: だよね？私もそう。
   d_main_42_af_03_158:
-    speaker: eh
+    speaker: eh_n
     en: I'm going to open the partition. Tell Endless and Eternity to move aside,
       Enikk.
     ko: 격벽을 열거야. 엔드리스와 이터니티를 물러줘. 에닉.
@@ -8565,7 +8565,7 @@ d_main_42_af_03:
     ko: 불가능합니다.
     ja: それはできません。
   d_main_42_af_03_160:
-    speaker: eh
+    speaker: eh_n
     en: You know as well as I do that the Outer Rim is relatively safe from the E2
       Crystals.
     ko: "…아우터 림이 E2 크리스탈에게서 상대적으로 안전하다는 건 너도 알 거야."
@@ -8574,7 +8574,7 @@ d_main_42_af_03:
       E2クリスタルに対しては
       比較的安全だと分かっているはず。
   d_main_42_af_03_161:
-    speaker: eh
+    speaker: eh_n
     en: Why aren't you considering that as an option?
     ko: 왜 그 방법을 염두에 두지 않는 거지?
     ja: なぜそれを考えていない？
@@ -8586,7 +8586,7 @@ d_main_42_af_03:
       アウターリムはアークではありません。
       検討の対象外です。
   d_main_42_af_03_163:
-    speaker: eh
+    speaker: eh_n
     en: "..."
     ko: "……."
     ja: "……"
@@ -8601,12 +8601,12 @@ d_main_42_af_03:
     ko: "……."
     ja: "……"
   d_main_42_af_03_166:
-    speaker: eh
+    speaker: eh_n
     en: So, what, the Outer Rim is just the Ark's dumpster?
     ko: 그럼 아우터 림은 단순한 방주의 쓰레기통이야?
     ja: 結局、アウターリムはゴミ捨て場ということか。
   d_main_42_af_03_167:
-    speaker: eh
+    speaker: eh_n
     en: Then what do you think of the people living here?
     ko: 이곳에서 살고 있는 사람들은 그럼 뭐지?
     ja: なら、ここに住む者たちはいったい何？
@@ -8625,12 +8625,12 @@ d_main_42_af_03:
       アーク市民としての権利を
       自ら放棄したものとみなされます。
   d_main_42_af_03_170:
-    speaker: eh
+    speaker: eh_n
     en: They never had a choice!
     ko: 그들에게 선택지 같은 건 없었어.
     ja: 誰も選択肢なんてなかった。
   d_main_42_af_03_171:
-    speaker: eh
+    speaker: eh_n
     en: No one lives in this forsaken place because they want to.
     ko: 원해서, 빛 한 줌 닿지 않는 곳에 살게 된 게 아니야.
     ja: 好きで闇の中に住んでいるわけじゃない。
@@ -8655,12 +8655,12 @@ d_main_42_af_03:
       よく分かんないけど、ここを
       早く開けなきゃいけないんでしょ！？
   d_main_42_af_03_175:
-    speaker: eh
+    speaker: eh_n
     en: "... Yeah, you're right."
     ko: "…그래. 맞아."
     ja: "…ええ。その通り。"
   d_main_42_af_03_176:
-    speaker: eh
+    speaker: eh_n
     en: "Everyone, get ready. \nWe're going to fight Endless."
     ko: |-
       다들, 준비해.
@@ -8674,12 +8674,12 @@ d_main_42_af_03:
     ko: 저, 저도 하나요?
     ja: あの、私もですか…？
   d_main_42_af_03_178:
-    speaker: eh
+    speaker: eh_n
     en: Find a good hiding spot.
     ko: 적당한데 숨어있어.
     ja: 適当なところに隠れてなさい。
   d_main_42_af_03_179:
-    speaker: eh
+    speaker: eh_n
     en: Oh, and don't even think of running away. Not again.
     ko: |-
       도망가지 말고.
@@ -8693,7 +8693,7 @@ d_main_42_af_03:
     ko: "……."
     ja: "……"
   d_main_42_af_03_181:
-    speaker: eh
+    speaker: eh_n
     en: Let's go.
     ko: 간다.
     ja: 行くぞ。
@@ -9101,7 +9101,7 @@ d_main_42_af_03:
     ja: アイドルっていうのはね…
   d_main_42_af_03_251:
     speaker: anis
-    en: popstars have to live up to the public's expectations.
+    en: pop stars have to live up to the public's expectations.
     ko: 기대에 부응해야 하거든.
     ja: 期待に応えなきゃいけないの。
   d_main_42_af_03_252:
@@ -9884,7 +9884,7 @@ d_main_42_af_04:
     ko: 리버린이 있던 것 같던데, 어디로 갔어?
     ja: リヴァリンは、どこ？
   d_main_42_af_04_66:
-    speaker: eh
+    speaker: eh_n
     en: I don't know. I'm guessing she ran away.
     ko: 모르겠어. 도주한 모양이야.
     ja: 分からない。逃げたようだけど。
@@ -9905,7 +9905,7 @@ d_main_42_af_04:
       何考えてるんだろ？
       どんどん落ちてくね。
   d_main_42_af_04_69:
-    speaker: eh
+    speaker: eh_n
     en: She's probably thinking there's some way to put everything back to how it
       was.
     ko: 한 번에 모든 걸 원래대로 만들 수 있을거라 생각하겠지.
@@ -9913,7 +9913,7 @@ d_main_42_af_04:
       一度に何もかも取り戻す方法があると
       勘違いしているんだろう。
   d_main_42_af_04_70:
-    speaker: eh
+    speaker: eh_n
     en: And she's trying to figure out what that way is.
     ko: 그 방법에 대해 고민하는 걸 테고.
     ja: 逆転の方法ばかり探してる。
@@ -9923,7 +9923,7 @@ d_main_42_af_04:
     ko: 그런 게 가능할 리가 없는데.
     ja: そんなもの有るわけないのにね。
   d_main_42_af_04_72:
-    speaker: eh
+    speaker: eh_n
     en: I know. It's frustrating.
     ko: 그러게. 답답하네.
     ja: そうね。もどかしい。
@@ -9933,7 +9933,7 @@ d_main_42_af_04:
     ko: 리더. 누명 썼어?
     ja: リーダー、ハメられたんだって？
   d_main_42_af_04_74:
-    speaker: eh
+    speaker: eh_n
     en: Right now, they're just suspicious, so I'm free to move around.
     ko: 지금은 혐의 정도야. 움직이는 것 정도는 가능해.
     ja: 今は疑われてるだけ。行動は許されてる。
@@ -9943,7 +9943,7 @@ d_main_42_af_04:
     ko: 그럼 걔 잡을 거지?
     ja: じゃあ、あいつのこと、捕まえる？
   d_main_42_af_04_76:
-    speaker: eh
+    speaker: eh_n
     en: Naturally.
     ko: 물론이야.
     ja: 当然ね。
@@ -9966,7 +9966,7 @@ d_main_42_af_04:
     ko: 그럼 내가 할 수 있는 게 없는데.
     ja: そしたら私、できること何もないよ…
   d_main_42_af_04_80:
-    speaker: eh
+    speaker: eh_n
     en: Then we'll make it so there is something you can do.
     ko: "…그렇게 할 수 있게 만들어야지."
     ja: "…できるようにすればいい。"
@@ -9976,7 +9976,7 @@ d_main_42_af_04:
     ko: 응? 어떻게?
     ja: え？どうやって？
   d_main_42_af_04_82:
-    speaker: eh
+    speaker: eh_n
     en: I'm not sure, but we'll figure something out.
     ko: 글쎄. 고민해 보자.
     ja: さあ。これから考えよう。
@@ -10000,19 +10000,19 @@ d_main_42_af_04:
       こんな大きな事件なのに、
       偉い人たちは動かないの？
   d_main_42_af_04_86:
-    speaker: eh
+    speaker: eh_n
     en: They probably will.
     ko: 움직이겠지.
     ja: 動きはするだろう。
   d_main_42_af_04_87:
-    speaker: eh
+    speaker: eh_n
     en: Which would mean major trouble for us if what Sixo said is true,
     ko: "…식스오의 말에 따르면, 그게 우리한텐 큰 방해가 될 거야."
     ja: |-
       …シックスオーの言っていたことが事実なら、
       私たちにとってはむしろ障害になる。
   d_main_42_af_04_88:
-    speaker: eh
+    speaker: eh_n
     en: since it seems some of them have already been compromised.
     ko: 몇몇은 이미 넘어간 모양이니까.
     ja: 何人かすでに取り込まれてる。
@@ -10022,12 +10022,12 @@ d_main_42_af_04:
     ko: 좀 골치 아프네.
     ja: なんか頭が痛くなっちゃう。
   d_main_42_af_04_90:
-    speaker: eh
+    speaker: eh_n
     en: Let's find Liveryn.
     ko: "…리버린을 잡자."
     ja: "…まずはリヴァリンだ。"
   d_main_42_af_04_91:
-    speaker: eh
+    speaker: eh_n
     en: I'm positive she holds the key to defeating Sixo.
     ko: 분명, 식스오 공략에 결정적인 키를 가지고 있을 거야.
     ja: |-
@@ -10049,12 +10049,12 @@ d_main_42_af_04:
     ko: 그래그래. 다행이네.
     ja: そうだね。よかったね～
   d_main_42_af_04_95:
-    speaker: eh
+    speaker: eh_n
     en: I need to meet with Fragile.
     ko: "…프레자일을 만나봐야겠어."
     ja: "…フラジャイルに会う。"
   d_main_42_af_04_96:
-    speaker: eh
+    speaker: eh_n
     en: Reach out to Underworld Queen like we planned.
     ko: 예정대로 언더월드 퀸에는 연락을 넣어줘.
     ja: |-
@@ -10073,7 +10073,7 @@ d_main_42_af_04:
       バイパーは持っていたブレインシェルターを
       軽く持ち上げて見せた
   d_main_42_af_04_99:
-    speaker: eh
+    speaker: eh_n
     en: Right. Thanks.
     ko: 그래. 부탁할게.
     ja: ええ、お願い。
@@ -10175,7 +10175,7 @@ d_main_42_af_05:
     ko: 야! 너희들!
     ja: おい！てめえら！
   d_main_42_af_05_14:
-    speaker: eh
+    speaker: eh_n
     en: "...?"
     ko: "…?"
     ja: "…？"
@@ -10204,7 +10204,7 @@ d_main_42_af_05:
     ko: 내가 가서 조용하게 만들까?
     ja: 黙らせとく？
   d_main_42_af_05_19:
-    speaker: eh
+    speaker: eh_n
     en: Forget it. Just ignore him.
     ko: 관둬. 무시해.
     ja: |-

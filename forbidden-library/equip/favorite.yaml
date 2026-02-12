@@ -611,3 +611,135 @@
     en: Burst Skill
     ko: 버스트 스킬
     ja: バーストスキル
+201401:
+  name:
+    en: EX Magazine
+    ko: EX 매거진
+    ja: EXマガジン
+  description:
+    en: |-
+      ■ Activates when entering Full Burst. Affects all allies.
+      <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.
+      Reloading Speed ▲ {description_value_03}% for {description_value_04} sec.
+      Max Ammunition Capacity ▼ {description_value_05}% for {description_value_06} sec.
+      Attack Damage ▲ {description_value_07}% for {description_value_08} sec.</color>
+    ko: |-
+      ■ 풀 버스트 타임 시작 시 아군 전체에게
+      <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
+      [재장전 속도 {description_value_03}% ▲] [{description_value_04}초 유지]
+      [최대 장탄 수 {description_value_05}% ▼] [{description_value_06}초 유지]
+      [공격 대미지 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+    ja: |-
+      ■フルバーストタイムが発動した時、味方全体に
+      <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」
+      「リロード速度{description_value_03}％▲」「{description_value_04}秒間維持」
+      「最大装弾数{description_value_05}％▼」「{description_value_06}秒間維持」
+      「攻撃ダメージ{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+  info_description:
+    en: Skill 1
+    ko: 스킬1
+    ja: スキル1
+201501:
+  name:
+    en: Pierce Equation
+    ko: 관통 계산식
+    ja: 貫通力計算式
+  description:
+    en: |-
+      ■ Activates when entering Full Burst. Affects all allies.
+      <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_01}% for {description_value_02} round(s).
+      <word_group=10042>Pierce Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
+      ■ Activates when performing a normal attack during Full Burst. Affects all allies.
+      <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_05}%, stacks up to {description_value_06} time(s), for {description_value_07} round(s).</color>
+    ko: |-
+      ■ 풀 버스트 타임 시작 시 아군 전체에게
+      <color=#00AEFF>[<word_group=10042>관통 대미지</word_group> {description_value_01}% ▲] [{description_value_02}발 유지]
+      [<word_group=10042>관통 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+      ■ 풀 버스트 타임 지속 시간 중 일반 공격 시 아군 전체에게
+      <color=#00AEFF>[<word_group=10042>관통 대미지</word_group> {description_value_05}% ▲] [{description_value_06} 중첩] [{description_value_07}발 유지]</color>
+    ja: |-
+      ■フルバーストタイムが発動した時、
+      味方全体に
+      <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group>{description_value_01}％▲」「{description_value_02}発間維持」
+      「<word_group=10042>貫通ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+      ■フルバーストタイム中に通常攻撃した時、
+      味方全体に
+      <color=#00AEFF>「<word_group=10042>貫通ダメージ</word_group>{description_value_05}％▲」「{description_value_06}スタック」「{description_value_07}発間維持」</color>
+  info_description:
+    en: Skill 1
+    ko: 스킬1
+    ja: スキル1
+201601:
+  name:
+    en: Start Construction
+    ko: 착공시작
+    ja: 着工開始
+  description:
+    en: |-
+      ■ Affects {description_value_01} enemy unit(s) with the lowest remaining HP.
+      <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.
+      DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
+      ■ Affects self.
+      <color=#00AEFF>Max HP ▲ {description_value_05}% for {description_value_06} sec.</color>
+    ko: "■ 남은 체력 수치가 가장 낮은 적 {description_value_01}기에게\n<color=#00AEFF>[<word_group=10025>최종</word_group>
+      공격력 {description_value_02}% 대미지]\n[방어력 {description_value_03}% ▼] [{description_value_04}초
+      유지]</color>\n■ 자신에게 \n<color=#00AEFF>[최대 체력 {description_value_05}% ▲] [{description_value_06}초
+      유지]</color>"
+    ja: |-
+      ■残りのHPの数値が最も低い敵{description_value_01}機に
+      <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」
+      「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
+      ■自分に
+      <color=#00AEFF>「最大HP{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+201701:
+  name:
+    en: Fair and Square!
+    ko: 정정당당 승부다!
+    ja: 正々堂々と勝負だ！
+  description:
+    en: "■ Affects self.\n<color=#00AEFF>Changes the weapon in use:\nDamage: {description_value_01}%
+      of <word_group=10025>final</word_group> ATK \nDuration: 10 sec\nAdditional Effect:\nRecovers
+      {description_value_02}% of attack damage as HP for {description_value_03} sec.\nAttract:
+      Taunts all enemies for {description_value_04} sec.\nUnlimited ammunition for
+      {description_value_04} sec.</color>\n■ Affects all allies.\n<color=#00AEFF>Damage
+      Taken ▼ {description_value_05}% for {description_value_06} sec.\nDEF ▲ {description_value_07}%
+      of caster's DEF for {description_value_08} sec.\nATK ▲ {description_value_09}%
+      of caster's ATK for {description_value_10} sec.</color>"
+    ko: |-
+      ■ 자신에게
+      <color=#00AEFF>[사용 무기 변경]:
+      대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
+      유지 시간 : 10초
+      추가 효과
+      [공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]
+      [주목 : 적 전체 도발] [{description_value_04}초 유지]
+      [장탄 수 무한] [{description_value_04}초 유지]</color>
+      ■아군 전체에게
+      <color=#00AEFF>[받는 대미지 {description_value_05}% ▼] [{description_value_06}초 유지]
+      [시전자 기준 방어력 {description_value_07}% ▲] [{description_value_08}초 유지]
+      [시전자 기준 공격력 {description_value_09}% ▲] [{description_value_10}초 유지]</color>
+    ja: |-
+      ■自分に
+      <color=#00AEFF>「使用武器を変更」：
+      ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+      維持時間：10秒
+      追加効果
+      「攻撃ダメージの{description_value_02}％回復」
+      「{description_value_03}秒間維持」
+      「ヘイト：敵全体を挑発」「{description_value_04}秒間維持」
+      「装弾数無限」「{description_value_04}秒間維持」</color>
+      ■味方全体に
+      <color=#00AEFF>「受けるダメージ{description_value_05}％▼」
+      「{description_value_06}秒間維持」
+      「スキル発動者基準で防御力{description_value_07}％▲」
+      「{description_value_08}秒間維持」
+      「スキル発動者基準で攻撃力{description_value_09}％▲」
+      「{description_value_10}秒間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
