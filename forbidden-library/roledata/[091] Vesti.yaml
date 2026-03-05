@@ -59,7 +59,7 @@ character_shot_description_localkey_rl_up:
 20912_description:
   en: |-
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF>Additional effects triggered according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    <color=#00AEFF>Effect changes according to the number of activation times. <word_group=10028>Previous effects trigger repeatedly</word_group>:
     Once: Survival Instinct 1 - ATK ▲ {description_value_01}% for {description_value_02} sec.
     Twice: Survival Instinct 2 - Critical Damage ▲ {description_value_03}% for {description_value_04} sec.
     Three times: Survival Instinct 3 - Critical Rate ▲ {description_value_05}% for {description_value_06} sec.</color>

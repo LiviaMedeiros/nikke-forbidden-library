@@ -1,0 +1,6061 @@
+---
+event_wisdomspring_prologue:
+  event_wisdomspring_prologue_1:
+    speaker: unknown
+    en: Commander!
+    ko: 지휘관!
+    ja: 指揮官！
+  event_wisdomspring_prologue_2:
+    speaker: "<Self>"
+    en: Ugh...
+    ko: 으윽….
+    ja: ううっ…
+  event_wisdomspring_prologue_3:
+    speaker: "<Self>"
+    en: "... Mana?"
+    ko: 마… 나?
+    ja: マ…ナ？
+  event_wisdomspring_prologue_4:
+    speaker: mana
+    en: Are you feeling okay?
+    ko: 몸은 괜찮으십니까?
+    ja: 大丈夫ですか？
+  event_wisdomspring_prologue_5:
+    speaker: "<Self>"
+    en: Of course, I'm fin...?!
+    ko: 당연히 괜찮…?!
+    ja: このとおりだ…っ！？
+  event_wisdomspring_prologue_6:
+    speaker: "<Monologue>"
+    en: The moment I try to sit up...
+    ko: 몸을 일으키려는 순간,
+    ja: 身体を起こそうとした瞬間…
+  event_wisdomspring_prologue_7:
+    speaker: "<Self>"
+    en: Urgh!
+    ko: 윽…!
+    ja: うぐっ…！
+  event_wisdomspring_prologue_8:
+    speaker: "<Monologue>"
+    en: A searing migraine begins to set in.
+    ko: 갑작스럽게 두통이 일기 시작했다.
+    ja: 頭に痛みが走った
+  event_wisdomspring_prologue_9:
+    speaker: mana
+    en: Are you okay, Commander?
+    ko: 지휘관?
+    ja: 指揮官？
+  event_wisdomspring_prologue_10:
+    speaker: "<Self>"
+    en: My head...
+    ko: 머리가…!
+    ja: 頭が…！
+  event_wisdomspring_prologue_11:
+    speaker: mana
+    en: Take a deep breath.
+    ko: 숨을 깊게 들이 마셔보세요.
+    ja: 息を深く吸ってください。
+  event_wisdomspring_prologue_12:
+    speaker: "<Monologue>"
+    en: I follow Mana's advice.
+    ko: 마나의 말에 따라, 숨을 깊게 들이마셨다.
+    ja: マナに言われるがまま、息を深く吸った
+  event_wisdomspring_prologue_13:
+    speaker: mana
+    en: Now, slowly exhale.
+    ko: 천천히 내쉬어 보세요.
+    ja: ゆっくりと吐き出してください。
+  event_wisdomspring_prologue_14:
+    speaker: "<Monologue>"
+    en: I exhale slowly.
+    ko: 숨을 천천히 내쉬었다.
+    ja: 息をゆっくりと吐き出した
+  event_wisdomspring_prologue_15:
+    speaker: "<Monologue>"
+    en: After repeating this several times, my head feels slightly less painful.
+    ko: 몇 번을 반복하자, 조금 진정되는 느낌이다.
+    ja: 何度か深呼吸を繰り返し、少し落ち着いた
+  event_wisdomspring_prologue_16:
+    speaker: mana
+    en: Are you feeling better now?
+    ko: 이제 좀 괜찮아지셨습니까?
+    ja: 楽になりましたか？
+  event_wisdomspring_prologue_17:
+    speaker: "<Self>"
+    en: Yeah, thanks.
+    ko: "…응. 고마워."
+    ja: "…ああ、ありがとう"
+  event_wisdomspring_prologue_18:
+    speaker: "<Monologue>"
+    en: After coming more or less to my senses, I look around.
+    ko: 숨을 고른 후, 주변을 둘러보았다.
+    ja: 息を整え、周囲を見た
+  event_wisdomspring_prologue_19:
+    speaker: "<Self>"
+    en: Where am I?
+    ko: 여긴….
+    ja: ここは…
+  event_wisdomspring_prologue_20:
+    speaker: mana
+    en: The M.M.R. research lab.
+    ko: M.M.R. 연구소입니다.
+    ja: M.M.R.研究所です。
+  event_wisdomspring_prologue_21:
+    speaker: mana
+    en: Don't you remember?
+    ko: 기억나지 않으십니까?
+    ja: 覚えていらっしゃらないのですか？
+  event_wisdomspring_prologue_22:
+    speaker: "<Self>"
+    en: What am I doing here?
+    ko: 내가 여기에 왜….
+    ja: なぜ私がここに…
+  event_wisdomspring_prologue_23:
+    speaker: "<Monologue>"
+    en: I can't remember a thing. Perhaps my headache has something to do with it.
+    ko: 두통 때문인지 생각이 나지 않아서,
+    ja: 頭痛が記憶をさまたげる
+  event_wisdomspring_prologue_24:
+    speaker: "<Monologue>"
+    en: I close my eyes and sift through my thoughts,
+    ko: 생각을 정리하기 위해 눈을 감았다.
+    ja: 私は思考を整理するため、目を閉じ…
+  event_wisdomspring_prologue_25:
+    speaker: "<Monologue>"
+    en: attempting to recall the past.
+    ko: 그리고 지난 기억을 떠올려보았다.
+    ja: そして、記憶を引きずりだそうと試みた
+event_wisdomspring_01_s:
+  event_wisdomspring_01_s_1:
+    speaker: "<Narration>"
+    en: 12 hours earlier.
+    ko: 12시간 전.
+    ja: 12時間前
+  event_wisdomspring_01_s_2:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 지잉-
+    ja: ウィーン――
+  event_wisdomspring_01_s_3:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_wisdomspring_01_s_4:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_01_s_5:
+    speaker: anis
+    en: What's wrong, Commander?
+    ko: 왜 그래 지휘관님?
+    ja: 指揮官様、どうしたの？
+  event_wisdomspring_01_s_6:
+    speaker: anis
+    en: You look rather bemused.
+    ko: 얼떨떨하다는 표정을 하고 있는데.
+    ja: 何か考えごと？
+  event_wisdomspring_01_s_7:
+    speaker: "<Self>"
+    en: Oh, it's just that something came up rather suddenly.
+    ko: 아니, 조금 갑작스러워서?
+    ja: 少し、話が急だと思ってな…
+  event_wisdomspring_01_s_8:
+    speaker: rapi
+    en: What is it?
+    ko: 무슨 일이라도 있으신 겁니까?
+    ja: 何か問題が？
+  event_wisdomspring_01_s_9:
+    speaker: "<Self>"
+    en: M.M.R. is providing me with a new weapon.
+    ko: M.M.R.에서 신식 무기를 지급해 준대.
+    ja: M.M.R.から新しい装備が支給されるらしい
+  event_wisdomspring_01_s_10:
+    speaker: rapi
+    en: M.M.R.?
+    ko: "…M.M.R.에서요?"
+    ja: "…M.M.R.から？"
+  event_wisdomspring_01_s_11:
+    speaker: anis
+    en: Why would they do that out of the blue?
+    ko: 걔들이 갑자기 왜?
+    ja: 気まぐれでも起こしたの？
+  event_wisdomspring_01_s_12:
+    speaker: "<Self>"
+    en: They say it's in recognition of my contributions towards reclaiming the surface.
+    ko: 지상 탈환의 공로를 인정받아서, 지원을 해준대.
+    ja: |-
+      地上奪還作戦の功績が
+      認められたということらしいが…
+  event_wisdomspring_01_s_13:
+    speaker: neon
+    en: Isn't this a good thing?
+    ko: 그럼 좋은 거 아닌가요?
+    ja: それなら、いいことじゃないですか？
+  event_wisdomspring_01_s_14:
+    speaker: neon
+    en: It's a chance for us to enhance our firepower!
+    ko: 저희의 새로운 화력을 충전할 수 있는 기회인 거잖아요!
+    ja: 私たちの火力をあげるチャンスです！
+  event_wisdomspring_01_s_15:
+    speaker: neon
+    en: And an opportunity to use a cutting-edge weapon developed by M.M.R.!
+    ko: 무려 M.M.R.에서 개발한 신식 무기를 쓸 수 있는 기회라니…!
+    ja: M.M.R.が開発した新兵器となれば…！
+  event_wisdomspring_01_s_16:
+    speaker: neon
+    en: Let's go right away!
+    ko: 당장 가죠!
+    ja: 今すぐ受け取りにいきましょう！
+  event_wisdomspring_01_s_17:
+    speaker: "<Self>"
+    en: Er... apparently, they're only making one. For me.
+    ko: "…지휘관 용만 준다는데?"
+    ja: "…それが、指揮官専用だそうだ"
+  event_wisdomspring_01_s_18:
+    speaker: neon
+    en: What the...?! How come?
+    ko: 어, 어째서…!
+    ja: な、なんと…！？
+  event_wisdomspring_01_s_19:
+    speaker: neon
+    en: You're practically superhuman at this point!
+    ko: 스승님은 이미 인간이 아닌 영역으로 올라가셨는데!
+    ja: |-
+      すでに人間を超えた領域まで
+      到達していらっしゃる師匠に武器なんて！
+  event_wisdomspring_01_s_20:
+    speaker: anis
+    en: What are you blathering about now?
+    ko: 야, 너 지휘관님한테 무슨 막말이야!
+    ja: ちょっと！さすがに失礼でしょ！
+  event_wisdomspring_01_s_21:
+    speaker: neon
+    en: I'm simply saying that Master has ascended to the realm of a Divine Master,
+      beyond human.
+    ko: |-
+      막말이라뇨?
+      인간을 뛰어넘은 절대 고수의 경지에 올랐다고 말하는 거죠!
+    ja: |-
+      失礼？
+      人間を超越したはるかに高い境地に
+      到達しているということです！
+  event_wisdomspring_01_s_22:
+    speaker: neon
+    en: Don't you ever feel that
+    ko: 스승님은 가끔 정말 인간이 아닌 것처럼 느껴질 때가 있다니까요?
+    ja: |-
+      実際、師匠は本当に人間じゃ
+      ないのではないかと感じる時があります。
+  event_wisdomspring_01_s_23:
+    speaker: neon
+    en: there are times when Master doesn't feel human?
+    ko: 아니스는 그렇게 생각하신 적 없어요?
+    ja: アニスも、そう思ったことがあるのでは？
+  event_wisdomspring_01_s_24:
+    speaker: anis
+    en: I wish I could say otherwise, but...
+    ko: 뭐 그런 말을 하냐고 하고 싶은데….
+    ja: はぁ？って言いたいところだけど…
+  event_wisdomspring_01_s_25:
+    speaker: anis
+    en: there have been times when I thought the Commander recovered unusually fast
+      from injuries.
+    ko: 나도 가끔… 이상할 정도로 회복력이 빠르다고 생각은 했어.
+    ja: |-
+      たまにね…ケガの回復がヘンに早いなって
+      思うことはあるわ。
+  event_wisdomspring_01_s_26:
+    speaker: rapi
+    en: You're right... but surely it's better than taking ages to recover from injuries?
+    ko: 상처가 오래 남는 것보단 좋다고 생각… 합니다.
+    ja: 負傷が長引かないのは…良いことかと思います。
+  event_wisdomspring_01_s_27:
+    speaker: "<Self>"
+    en: I appreciate the compliment... I think.
+    ko: "…칭찬 고마워."
+    ja: "…ほめられたと思っておこう"
+  event_wisdomspring_01_s_28:
+    speaker: neon
+    en: No problem.
+    ko: 별말씀을요.
+    ja: ご謙そんなさらず。
+  event_wisdomspring_01_s_29:
+    speaker: "<Self>"
+    en: Still, I don't think there will be any new weapons for you all.
+    ko: 그래도 이번에 니케용은 못 받을 거 같아.
+    ja: とにかく、ニケ用の装備ではない
+  event_wisdomspring_01_s_30:
+    speaker: neon
+    en: Darn... that's a bummer.
+    ko: 흑흑. 아쉽네요.
+    ja: うぅ、残念です。
+  event_wisdomspring_01_s_31:
+    speaker: anis
+    en: Still,
+    ko: 그래도 뭐, 확실히 받으면 좋기야 하겠네~
+    ja: でもまあ、よかったじゃない？
+  event_wisdomspring_01_s_32:
+    speaker: anis
+    en: you getting one is better than nothing.
+    ko: 다른 것도 아니고 지휘관님이 쓸 무기니까.
+    ja: |-
+      他の誰でもなく
+      指揮官様が使うものなんだし。
+  event_wisdomspring_01_s_33:
+    speaker: rapi
+    en: While I agree that this sounds like a wonderful development,
+    ko: 확실히 좋은 기회라는 점은 동의합니다만,
+    ja: 良いことだという考えには同意しますが…
+  event_wisdomspring_01_s_34:
+    speaker: rapi
+    en: it does all feel rather sudden.
+    ko: 너무 갑작스럽긴 하군요.
+    ja: あまりにも突然すぎます。
+  event_wisdomspring_01_s_35:
+    speaker: anis
+    en: That's true.
+    ko: 그것도 그래.
+    ja: あと、ほら…
+  event_wisdomspring_01_s_36:
+    speaker: anis
+    en: Plus, we are talking about the M.M.R. research lab. There are all sorts of
+      unsavory rumors about that place.
+    ko: 다른 곳도 아니고 M.M.R. 연구소라니, 오죽 소문이 흉흉한 곳이어야지.
+    ja: |-
+      M.M.R.研究所でしょ？
+      いろいろウワサもあるじゃない。
+  event_wisdomspring_01_s_37:
+    speaker: anis
+    en: Hmm... should I check in with some other squads
+    ko: 음~ 아니면 다른 스쿼드 애들한테 전화해서 좀 물어볼까?
+    ja: んー…他の部隊の誰かにでも聞いてみる？
+  event_wisdomspring_01_s_38:
+    speaker: anis
+    en: and see if they've heard anything?
+    ko: 이런 얘기 들어본 적 있냐고?
+    ja: こんな話、今まであったかって。
+  event_wisdomspring_01_s_39:
+    speaker: "<Self>"
+    en: No. Mana was the one who got in touch with me, so everything should be fine.
+    ko: 아니야. 마나가 보낸 거니까 괜찮겠지.
+    ja: 心配ないと思う、マナから直接の連絡だ
+  event_wisdomspring_01_s_40:
+    speaker: anis
+    en: Fair point.
+    ko: 그 말도 맞긴 하네~
+    ja: まあ、そう言われるとね～
+  event_wisdomspring_01_s_41:
+    speaker: anis
+    en: It's not like Mana to lie about something.
+    ko: 마나 성격에 없는 얘기할 것 같진 않으니까.
+    ja: あの性格的に、ウソなんか言わないだろうし。
+  event_wisdomspring_01_s_42:
+    speaker: "<Self>"
+    en: We owe Mana a lot for all her help so far, so I'll go.
+    ko: 마나에겐 그간 도움도 많이 받았으니까, 다녀올게.
+    ja: |-
+      マナには今まで助けられているし、
+      話を聞いてくる
+  event_wisdomspring_01_s_43:
+    speaker: rapi
+    en: Understood.
+    ko: 알겠습니다.
+    ja: 了解しました。
+  event_wisdomspring_01_s_44:
+    speaker: neon
+    en: Master!
+    ko: 스승님!
+    ja: 師匠！
+  event_wisdomspring_01_s_45:
+    speaker: neon
+    en: If you encounter a solid weapon meant for us Nikkes while you're at it, could
+      you...
+    ko: 그럼 가신 김에 니케용 좋은 무기 있으면 하나만 가져와 주시면….
+    ja: |-
+      ついでにニケ用のいい武器があったら
+      もらって来ていただけると…
+  event_wisdomspring_01_s_46:
+    speaker: anis
+    en: You idiot, what is the chance of that happening?
+    ko: 야, 그런 게 있겠냐?
+    ja: そう都合よくあるわけないでしょ。
+  event_wisdomspring_01_s_47:
+    speaker: anis
+    en: Ignore her, Commander.
+    ko: 으휴, 지휘관님 신경 쓰지 말고 다녀와.
+    ja: |-
+      まったく…ネオンのことは
+      気にしないでいいから。
+  event_wisdomspring_01_s_48:
+    speaker: anis
+    en: Be careful, and if anything happens, call us.
+    ko: |-
+      몸조심하고.
+      무슨 일 있으면 언제든 연락하고!
+    ja: |-
+      でも、気を付けて。
+      何かあったらいつでも連絡してよね！
+  event_wisdomspring_01_s_49:
+    speaker: rapi
+    en: We'll be standing by, so you can contact us anytime.
+    ko: "맞습니다. \n대기하고 있을 테니 언제든 연락해 주십시오."
+    ja: |-
+      私も待機しております。
+      いつでもご連絡を。
+  event_wisdomspring_01_s_50:
+    speaker: "<Self>"
+    en: You all get some rest.
+    ko: 그러지 말고 좀 쉬고 있어.
+    ja: 安心して休んでいてくれ
+  event_wisdomspring_01_s_51:
+    speaker: "<Self>"
+    en: I'll reach out if something happens.
+    ko: 무슨 일 있으면 연락할게.
+    ja: 何かあれば連絡する
+  event_wisdomspring_01_s_52:
+    speaker: anis
+    en: All right. You'll be inside the Ark, after all, so what could go wrong?
+    ko: "그래. \n뭐, 방주 안인데 별일 있겠어~"
+    ja: |-
+      は～い。
+      ま、アークの中だし
+      危ないことは起こらないでしょ～
+  event_wisdomspring_01_s_53:
+    speaker: anis
+    en: Make sure to bring back a lot of good stuff, Commander!
+    ko: 좋은 거 많이 받아와, 지휘관님!
+    ja: いいものだといいわね、指揮官様！
+  event_wisdomspring_01_s_54:
+    speaker: rapi
+    en: Safe travels.
+    ko: 예. 조심히 다녀오십시오.
+    ja: お気をつけて。
+  event_wisdomspring_01_s_55:
+    speaker: neon
+    en: Take care, Master!
+    ko: 다녀오세요, 스승님!
+    ja: 行ってらっしゃい、師匠！
+event_wisdomspring_01_e:
+  event_wisdomspring_01_e_1:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン――
+  event_wisdomspring_01_e_2:
+    speaker: "<Monologue>"
+    en: I enter the M.M.R. research lab.
+    ko: M.M.R. 연구소 안에 들어섰다.
+    ja: M.M.R.研究所の施設に入った
+  event_wisdomspring_01_e_3:
+    speaker: "<Self>"
+    en: Hmm...
+    ko: 음….
+    ja: さて…
+  event_wisdomspring_01_e_4:
+    speaker: "<Monologue>"
+    en: I look around in search of Mana,
+    ko: 마나를 찾기 위해 주변을 두리번거렸다.
+    ja: マナを探して周囲を見渡した
+  event_wisdomspring_01_e_5:
+    speaker: "<Monologue>"
+    en: but she is nowhere to be seen.
+    ko: "…마나는 보이지 않았다."
+    ja: "…姿は見当たらない"
+  event_wisdomspring_01_e_6:
+    speaker: "<Self>"
+    en: Hmm...
+    ko: 흠….
+    ja: ふむ…
+  event_wisdomspring_01_e_7:
+    speaker: "<Self>"
+    en: Should I wait around for her?
+    ko: 이대로 기다리고 있어야 하나?
+    ja: このまま待つしかないだろうか？
+  event_wisdomspring_01_e_8:
+    speaker: unknown
+    en: No. 7?
+    ko: 7호?
+    ja: 7号？
+  event_wisdomspring_01_e_9:
+    speaker: "<Self>"
+    en: Ether?
+    ko: 에테르?
+    ja: エーテル？
+  event_wisdomspring_01_e_10:
+    speaker: ether
+    en: Fancy meeting you here.
+    ko: 와, M.M.R.에서 7호를 다보네?
+    ja: わ～、M.M.R.で7号に会えるなんてね？
+  event_wisdomspring_01_e_11:
+    speaker: ether
+    en: What are you doing around these parts?
+    ko: 여긴 무슨 일이야?
+    ja: ここに何の用？
+  event_wisdomspring_01_e_12:
+    speaker: ether
+    en: Are you finally ready to hop on my experimentation table?
+    ko: 드디어 내 실험대 위에 올라올 준비가 된 거야?
+    ja: やっと私の実験台に上がる気になった？
+  event_wisdomspring_01_e_13:
+    speaker: "<Self>"
+    en: I'm here to see Mana.
+    ko: 마나를 만나러 왔어.
+    ja: マナに呼ばれた
+  event_wisdomspring_01_e_14:
+    speaker: ether
+    en: Mana?
+    ko: 마나?
+    ja: マナ？
+  event_wisdomspring_01_e_15:
+    speaker: ether
+    en: Why?
+    ko: 왜?
+    ja: どうして？
+  event_wisdomspring_01_e_16:
+    speaker: "<Self>"
+    en: I was told that M.M.R. is giving me a new weapon.
+    ko: M.M.R.에서 나한테 신식 무기를 준다던데?
+    ja: |-
+      M.M.R.から私に
+      新しい装備の支給があると聞いたが？
+  event_wisdomspring_01_e_17:
+    speaker: ether
+    en: Really?
+    ko: 그래?
+    ja: へ～？
+  event_wisdomspring_01_e_18:
+    speaker: ether
+    en: This is the first I've heard of it.
+    ko: 그런 일이 있었구나?
+    ja: そんなこともあるのね～？
+  event_wisdomspring_01_e_19:
+    speaker: "<Self>"
+    en: You didn't know about it?
+    ko: 에테르는 몰라?
+    ja: 知らなかったのか？
+  event_wisdomspring_01_e_20:
+    speaker: ether
+    en: Of course not.
+    ko: 당연히 모르지.
+    ja: トーゼンでしょ。
+  event_wisdomspring_01_e_21:
+    speaker: ether
+    en: That's how it is being an employee at M.M.R.
+    ko: 직장인들은 원래 다 그래.
+    ja: 雇われの身なんてそんなものよ。
+  event_wisdomspring_01_e_22:
+    speaker: ether
+    en: I'm already overworked as is with my own workload,
+    ko: 옆 팀에서 뭐 하는지 어떻게 알겠어.
+    ja: |-
+      隣のチームが何をしてるかなんて
+      教えちゃくれないし。
+  event_wisdomspring_01_e_23:
+    speaker: ether
+    en: so I'm in the dark as to what the other teams are up to.
+    ko: 내 일하느라 바빠 죽겠는데.
+    ja: 自分の仕事だけで手がいっぱいだもの。
+  event_wisdomspring_01_e_24:
+    speaker: ether
+    en: It's not like you know what the other Commanders are up to either, right?
+    ko: 7호도 다른 지휘관들이 뭐 하는지 모르지 않아?
+    ja: |-
+      7号だって、他の指揮官が何してるかなんて
+      分からないでしょ？
+  event_wisdomspring_01_e_25:
+    speaker: "<Self>"
+    en: Er... right.
+    ko: 그렇… 지?
+    ja: そう…だな？
+  event_wisdomspring_01_e_26:
+    speaker: ether
+    en: You see? This is how the world works.
+    ko: "그래. \n세상 일이 다 그런 거야."
+    ja: |-
+      ほら。
+      そういうもんなの。
+  event_wisdomspring_01_e_27:
+    speaker: ether
+    en: If it's not your personal job, you resign yourself to not knowing anything
+      about it.
+    ko: 내 일이 아니면 다 모르면서 살고 그러는 거라고.
+    ja: |-
+      自分と関係ないことには
+      興味ないのが普通ってこと。
+  event_wisdomspring_01_e_28:
+    speaker: "<Self>"
+    en: I suppose that means you don't know where Mana is either.
+    ko: 그럼 에테르는 마나가 어디 있는지도 모르겠네.
+    ja: |-
+      つまり、マナがどこにいるかも
+      知らないということか
+  event_wisdomspring_01_e_29:
+    speaker: ether
+    en: Actually,
+    ko: 음….
+    ja: うーん…
+  event_wisdomspring_01_e_30:
+    speaker: ether
+    en: I think I do.
+    ko: 그건 알 거 같은데?
+    ja: それは知ってるかも？
+  event_wisdomspring_01_e_31:
+    speaker: "<Self>"
+    en: You do?
+    ko: 알아?
+    ja: 本当か？
+  event_wisdomspring_01_e_32:
+    speaker: ether
+    en: I believe I heard her said something about going to the Deep Sector earlier.
+    ko: 아까 [심층부]로 간다고 들었던 것 같아.
+    ja: さっき「深層」に行くって聞いた気がする。
+  event_wisdomspring_01_e_33:
+    speaker: ether
+    en: She also mentioned that she'd be out of contact for a while, so if anything
+      crops up, they'd have to handle it themselves.
+    ko: |-
+      그래서 잠시 동안 연락 안 될 거라고,
+      귀찮은 일도 스스로 해야 한다고 했어.
+    ja: |-
+      面倒ごともあるし、
+      しばらく連絡が取れないだろうって。
+  event_wisdomspring_01_e_34:
+    speaker: ether
+    en: Again though, I'm not 100% sure if that's the case.
+    ko: 정확하진 않지만.
+    ja: 確かな話じゃないけどね。
+  event_wisdomspring_01_e_35:
+    speaker: "<Self>"
+    en: So she can't be reached right now.
+    ko: 연락이 안 될 거라고?
+    ja: 連絡がとれない？
+  event_wisdomspring_01_e_36:
+    speaker: ether
+    en: If she went to the Deep Sector,
+    ko: 응. 안 돼.
+    ja: そ、無理。
+  event_wisdomspring_01_e_37:
+    speaker: ether
+    en: then no.
+    ko: 거긴 그런 곳이니까.
+    ja: あそこはそういう場所だから。
+  event_wisdomspring_01_e_38:
+    speaker: ether
+    en: Once you head inside, you're forbidden from communicating with anyone outside.
+    ko: 안에 들어가면 바깥에 있는 그 누구와도 연락할 수 없어.
+    ja: 外とは一切連絡ができなくなるの。
+  event_wisdomspring_01_e_39:
+    speaker: ether
+    en: That goes even for researchers like myself.
+    ko: 같은 연구원인 나도 마찬가지고.
+    ja: 同じ研究員の私でもね。
+  event_wisdomspring_01_e_40:
+    speaker: "<Self>"
+    en: What a pain.
+    ko: 난감하네….
+    ja: 困ったな…
+  event_wisdomspring_01_e_41:
+    speaker: ether
+    en: What sort of plans did you and Mana have, anyway?
+    ko: 마나랑 어떻게 약속을 했길래 그래?
+    ja: マナとどういう約束をしてたの？
+  event_wisdomspring_01_e_42:
+    speaker: ether
+    en: Did you arrange to meet at a specific time?
+    ko: 약속 시간은 안정했어?
+    ja: 待ち合わせの時間は決まってる？
+  event_wisdomspring_01_e_43:
+    speaker: "<Self>"
+    en: No.
+    ko: 따로 정하진 않았어.
+    ja: 特に決めていなかった
+  event_wisdomspring_01_e_44:
+    speaker: ether
+    en: That's not like Mana.
+    ko: 마나치고는 의외네.
+    ja: マナらしくないわね～
+  event_wisdomspring_01_e_45:
+    speaker: ether
+    en: Maybe she thought she'd be back soon.
+    ko: 금방 나올 거라고 생각했나?
+    ja: すぐに出てくるつもりだったのかしら？
+  event_wisdomspring_01_e_46:
+    speaker: "<Self>"
+    en: Should I wait for her?
+    ko: "…계속 기다려 봐야 하나."
+    ja: "…ただ待つしかないのか"
+  event_wisdomspring_01_e_47:
+    speaker: ether
+    en: Hmm...
+    ko: 흠.
+    ja: んー…
+  event_wisdomspring_01_e_48:
+    speaker: ether
+    en: Would you like to go and meet her?
+    ko: 그럼 직접 만나러 가볼래?
+    ja: 直接会いに行ってみれば？
+  event_wisdomspring_01_e_49:
+    speaker: "<Self>"
+    en: In person?
+    ko: 직접?
+    ja: 直接？
+  event_wisdomspring_01_e_50:
+    speaker: ether
+    en: Yes.
+    ko: 응. 직접.
+    ja: そう、7号が直接。
+  event_wisdomspring_01_e_51:
+    speaker: ether
+    en: You're a busy man, so I presume you can't afford to stand around waiting too
+      long.
+    ko: 7호도 바쁜 사람인데, 무작정 기다리고만 있을 수는 없잖아?
+    ja: |-
+      7号だって忙しいだろうし、
+      いつまでも待ってられないでしょ？
+  event_wisdomspring_01_e_52:
+    speaker: "<Self>"
+    en: Can I go inside?
+    ko: 내가 들어가도 되는 거야?
+    ja: 私が入ってもいいのか？
+  event_wisdomspring_01_e_53:
+    speaker: ether
+    en: What's the worst that could happen?
+    ko: 뭐, 별일 있겠어?
+    ja: まあ、大丈夫じゃない？
+  event_wisdomspring_01_e_54:
+    speaker: ether
+    en: Let's go.
+    ko: 가자.
+    ja: ついてきて。
+  event_wisdomspring_01_e_55:
+    speaker: ether
+    en: I'll take you there.
+    ko: 데려다줄게.
+    ja: そこまで案内してあげる。
+  event_wisdomspring_01_e_56:
+    speaker: "<Choice>"
+    en: "... You'll escort me personally?"
+    ko: "…에테르가 직접?"
+    ja: "…エーテルがわざわざ？"
+  event_wisdomspring_01_e_57:
+    speaker: "<Choice>"
+    en: Thanks.
+    ko: 고마워.
+    ja: 助かる
+  event_wisdomspring_01_e_58:
+    speaker: ether
+    en: Why do you look so skeptical?
+    ko: 뭐야 그 의심의 눈초리는?
+    ja: 何？疑ってるの？
+  event_wisdomspring_01_e_59:
+    speaker: ether
+    en: Do you think I'm only pretending to take you to Mana,
+    ko: 왜.
+    ja: なんで？
+  event_wisdomspring_01_e_60:
+    speaker: ether
+    en: but instead, I'll drag you to my lab for some experiments?
+    ko: 내가 마나에게 안내하는 척하면서 내 실험대 위로 데려갈까 봐?
+    ja: |-
+      案内するふりして実験台に乗せられるとか
+      思ってる？
+  event_wisdomspring_01_e_61:
+    speaker: "<Self>"
+    en: "... Is that your plan?"
+    ko: 그럴 생각이야?
+    ja: そうなのか？
+  event_wisdomspring_01_e_62:
+    speaker: ether
+    en: Of course not!
+    ko: 에이, 안 그래.
+    ja: しないって、そんなこと。
+  event_wisdomspring_01_e_63:
+    speaker: ether
+    en: I'm a busy woman.
+    ko: 나 바쁜 사람이야.
+    ja: 私もヒマじゃないの。
+  event_wisdomspring_01_e_64:
+    speaker: ether
+    en: If I wanted to conduct experiments on you, I wouldn't go through all that
+      rigamarole.
+    ko: 실험대 위로 데려가는 정도의 일 따위에 이렇게 귀찮게 안 굴어.
+    ja: |-
+      実験台の上に乗せるためだけに
+      いちいち労力を使ってられないわ。
+  event_wisdomspring_01_e_65:
+    speaker: ether
+    en: You trust me?
+    ko: 내가 직접 안내해 준다는 데, 바로 믿네?
+    ja: ずいぶんアッサリ信じるわね？
+  event_wisdomspring_01_e_66:
+    speaker: ether
+    en: I thought you'd be a little suspicious that I was willing to show you the
+      way personally.
+    ko: 의심 좀 할 줄 알았더니.
+    ja: ちょっとは疑われるかと思ったけど。
+  event_wisdomspring_01_e_67:
+    speaker: "<Self>"
+    en: Should I be?
+    ko: 의심해야 해?
+    ja: 疑った方がいいのか？
+  event_wisdomspring_01_e_68:
+    speaker: ether
+    en: Oh no, of course not.
+    ko: 아니, 하지 마.
+    ja: ううん、別に。
+  event_wisdomspring_01_e_69:
+    speaker: ether
+    en: Despite being as busy as I am,
+    ko: 나처럼 바쁜 직장인이 무려,
+    ja: 私ほどの忙しい働き者が…
+  event_wisdomspring_01_e_70:
+    speaker: ether
+    en: I'm generous enough to devote my precious time to helping you out.
+    ko: 시간이라는 귀한 재화를 사용하면서까지 호의를 베푸는 거니까.
+    ja: |-
+      時間という名の貴重なリソースを使ってまで、
+      好意で案内してあげるって言ってるんだもの。
+  event_wisdomspring_01_e_71:
+    speaker: ether
+    en: You ought to be grateful.
+    ko: 그냥 감사히만 여겨.
+    ja: ひたすら感謝してちょうだい。
+  event_wisdomspring_01_e_72:
+    speaker: "<Self>"
+    en: "... All right, then. Lead the way."
+    ko: 그럼 부탁할게.
+    ja: では、頼む
+  event_wisdomspring_01_e_73:
+    speaker: ether
+    en: Let's go.
+    ko: 가자.
+    ja: こっちよ。
+event_wisdomspring_02_s:
+  event_wisdomspring_02_s_1:
+    speaker: "<Monologue>"
+    en: I follow Ether down the halls of the M.M.R. research lab.
+    ko: 에테르를 쫓아 M.M.R. 복도를 걸었다.
+    ja: エーテルを追い、M.M.R.の廊下を進んだ
+  event_wisdomspring_02_s_2:
+    speaker: ether
+    en: "*Sigh*... The elevator is so far away."
+    ko: 아… 엘리베이터 너무 멀어.
+    ja: ああ…エレベーターまで遠すぎ。
+  event_wisdomspring_02_s_3:
+    speaker: ether
+    en: Can't they do something about this?
+    ko: 이거 어떻게 좀 안 되나?
+    ja: どうにかなんないのかしら？
+  event_wisdomspring_02_s_4:
+    speaker: ether
+    en: It's so annoying having to walk this far every time.
+    ko: 매번 멀리 걸어가는 거 귀찮아 죽겠네.
+    ja: 毎度毎度、長いこと歩かされてもうウンザリよ。
+  event_wisdomspring_02_s_5:
+    speaker: "<Self>"
+    en: What was it called again, this place we're going to?
+    ko: 우리가 가는 곳이 M.M.R. 심층부라고 했었지?
+    ja: 行く場所はM.M.R.の深層だったな？
+  event_wisdomspring_02_s_6:
+    speaker: ether
+    en: The Deep Sector.
+    ko: 맞아.
+    ja: そう。
+  event_wisdomspring_02_s_7:
+    speaker: ether
+    en: It's also referred to as the Level E Zone,
+    ko: "[LEVEL E] 구역이라고도 불리는데,"
+    ja: "「LEVEL E」とも言うけど。"
+  event_wisdomspring_02_s_8:
+    speaker: ether
+    en: but to keep things simple, we typically call it the Deep Sector.
+    ko: 그냥 쉽게, 심층부라고도 부르고 있어.
+    ja: まあ、みんな深層って呼んでるわね。
+  event_wisdomspring_02_s_9:
+    speaker: ether
+    en: Somewhat frustratingly, it's divided into two separate sections. That's how
+      big it is.
+    ko: |-
+      크기도 커서, 두 개 구역으로 구성되어 있기까지 해.
+      귀찮게.
+    ja: |-
+      広いし、エリアも2つに分かれてるし。
+      ほんと面倒くさいのよ。
+  event_wisdomspring_02_s_10:
+    speaker: "<Self>"
+    en: And it's underground as well?
+    ko: 그것도 지하에 있는 거야?
+    ja: 下の方にあるのか？
+  event_wisdomspring_02_s_11:
+    speaker: ether
+    en: Yes. Deep underground.
+    ko: 응. 지하 깊은 곳에 있어.
+    ja: そう、地下深く。
+  event_wisdomspring_02_s_12:
+    speaker: ether
+    en: All the labs at M.M.R. are subterranean,
+    ko: M.M.R.의 연구실들은 전부 지하에 있는데,
+    ja: |-
+      って言っても、M.M.R.の研究室なんて
+      全部地下にあるんだけど。
+  event_wisdomspring_02_s_13:
+    speaker: ether
+    en: but the Deep Sector is particularly far down.
+    ko: 심층부는 그것보다 더 지하에 있다고 보면 돼.
+    ja: 深層はそれよりもっと下。
+  event_wisdomspring_02_s_14:
+    speaker: ether
+    en: You can only get there using a special elevator,
+    ko: 전용 엘리베이터를 타야 갈 수 있는 곳이라,
+    ja: |-
+      専用エレベーターに乗らないと
+      行けない場所にあって…
+  event_wisdomspring_02_s_15:
+    speaker: ether
+    en: which means we have to schlep all the way over here every single time. It's
+      such a pain.
+    ko: "그쪽으로 가는 엘리베이터를 타려면 \n이렇게 매번 귀찮게 걸어가야 한다는 아주 큰 단점이 있지."
+    ja: |-
+      そのエレベーターに乗るためには
+      この長い廊下を歩かなきゃいけないの。
+  event_wisdomspring_02_s_16:
+    speaker: "<Self>"
+    en: You said all the labs at M.M.R. are underground?
+    ko: M.M.R.의 연구실들은 전부 지하에 있어?
+    ja: M.M.R.の研究室は全部地下にあるのか？
+  event_wisdomspring_02_s_17:
+    speaker: ether
+    en: Don't you remember?
+    ko: 기억 안 나?
+    ja: 覚えてない？
+  event_wisdomspring_02_s_18:
+    speaker: ether
+    en: You came to my lab last time because you caught something while on the surface.
+    ko: "7호 너 저번에 지상에서 병에 걸려와서, \n내 연구실에 온 적 있었잖아."
+    ja: |-
+      7号が地上で病気にかかって、
+      私の研究室に来たことがあったでしょ？
+  event_wisdomspring_02_s_19:
+    speaker: "<Choice>"
+    en: Refresh my memory.
+    ko: 기억 안 나.
+    ja: 覚えていない
+  event_wisdomspring_02_s_20:
+    speaker: "<Choice>"
+    en: I remember.
+    ko: 기억나.
+    ja: 覚えている
+  event_wisdomspring_02_s_21:
+    speaker: ether
+    en: You don't remember?
+    ko: 기억 안 나는 구나?
+    ja: 忘れちゃったの？
+  event_wisdomspring_02_s_22:
+    speaker: ether
+    en: Well, I guess that's not entirely unreasonable.
+    ko: 뭐, 그럴 수 있지.
+    ja: まあ、思いだしたくもないか。
+  event_wisdomspring_02_s_23:
+    speaker: ether
+    en: When people catch a disease from the surface, they need to come to the M.M.R.
+      labs for treatment.
+    ko: "지상에서 병에 걸려오면, \nM.M.R. 연구소에 와서 치료받아야 하거든."
+    ja: |-
+      地上で病気をひろって来たら
+      M.M.R.研究所で治療する必要があるの。
+  event_wisdomspring_02_s_24:
+    speaker: ether
+    en: Last time, you caught something like a cold on the surface, and I treated
+      you.
+    ko: "너도 지난번에 지상에서 감기 비슷한 거 걸려서 \n내 연구실에서 치료받고 갔던 적 있어."
+    ja: |-
+      7号も地上で風邪みたいなのにかかって、
+      私の研究室で治療を受けたことがあるでしょ。
+  event_wisdomspring_02_s_25:
+    speaker: ether
+    en: That was all done in one of our underground labs.
+    ko: 그때 네가 있었던 곳도, 지하였어.
+    ja: あの時7号がいた場所もそう。
+  event_wisdomspring_02_s_26:
+    speaker: ether
+    en: You have a good memory.
+    ko: 기억력이 좋네.
+    ja: よく覚えてるね。
+  event_wisdomspring_02_s_27:
+    speaker: ether
+    en: Thank goodness. I was feeling too lazy to explain everything in detail.
+    ko: "다행이다. \n말하기 귀찮았는데."
+    ja: |-
+      よかった。
+      説明するのも面倒だし。
+  event_wisdomspring_02_s_28:
+    speaker: ether
+    en: Anyway, you caught something like a cold, and I treated you at my lab, which
+      is in fact underground.
+    ko: 네가 저번에 지상에서 감기 걸려서 왔을 때에 있던 곳도 지하였어.
+    ja: あのとき7号がいた場所も地下。
+  event_wisdomspring_02_s_29:
+    speaker: ether
+    en: I realize how strange this all sounds. The Ark is already underground, and
+      now we're talking about more things under that.
+    ko: |-
+      방주는 이미 지하에 있는데,
+      지하 밑에 또 지하가 있다니 좀 웃기지?
+    ja: |-
+      そもそもアーク全体が地下にあるし、
+      地下の下を地下って言うのもヘンかもね？
+  event_wisdomspring_02_s_30:
+    speaker: "<Self>"
+    en: Why didn't Missilis build the labs above ground?
+    ko: 왜 연구실이 있는 층을 위로 올리지 않은 거야?
+    ja: どうしてそんな構造なんだ？
+  event_wisdomspring_02_s_31:
+    speaker: ether
+    en: Because this way,
+    ko: 그래야….
+    ja: なんでって…
+  event_wisdomspring_02_s_32:
+    speaker: ether
+    en: the test subjects won't be able to escape.
+    ko: 실험체가 도망가지 못할 테니까?
+    ja: 実験体を逃がさないようにじゃない？
+  event_wisdomspring_02_s_33:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_wisdomspring_02_s_34:
+    speaker: ether
+    en: Relax. That was a joke.
+    ko: "…라는 건 농담이고."
+    ja: "…ま、それは冗談。"
+  event_wisdomspring_02_s_35:
+    speaker: ether
+    en: The answer should be obvious. It's because what we do is highly secretive.
+    ko: 비밀이 많아서 그렇지 뭐.
+    ja: 隠さないといけないことが多いから。
+  event_wisdomspring_02_s_36:
+    speaker: ether
+    en: There's a reason people always talk about secrets being buried underground.
+    ko: 보통 비밀은 땅에 묻어 숨긴다고 하잖아?
+    ja: 見られたくないものは埋めとくものでしょ？
+  event_wisdomspring_02_s_37:
+    speaker: ether
+    en: The M.M.R. research lab is a prime example of that.
+    ko: 이 M.M.R. 연구소도 그런 거야.
+    ja: M.M.R.研究所もおんなじ。
+  event_wisdomspring_02_s_38:
+    speaker: ether
+    en: All of the Ark's secrets are sealed away, buried deep under the surface.
+    ko: 방주의 비밀스러운 부분들을 땅에 묻어 봉인하고 있는 거지.
+    ja: |-
+      アークのヒミツを
+      地面の下に隠してあるってこと。
+  event_wisdomspring_02_s_39:
+    speaker: "<Self>"
+    en: Is that why you're forbidden from communicating with the outside while you're
+      in there?
+    ko: 그래서 그 안에서는 밖에 연락이 안 되는 거야?
+    ja: それで外部と連絡もできないのか？
+  event_wisdomspring_02_s_40:
+    speaker: ether
+    en: Correct.
+    ko: 맞아.
+    ja: そういうこと。
+  event_wisdomspring_02_s_41:
+    speaker: ether
+    en: That place is full of top-secret stuff.
+    ko: 거긴 정말 기밀인 것들 투성이거든.
+    ja: 見られたくないものばっかりだし…
+  event_wisdomspring_02_s_42:
+    speaker: ether
+    en: You never know when or how a secret might leak,
+    ko: 누가 비밀을 언제 어떻게 퍼뜨릴지 모르니,
+    ja: |-
+      誰にいつどうやって秘密をバラされるか
+      分かったもんじゃないから。
+  event_wisdomspring_02_s_43:
+    speaker: ether
+    en: so any and all communications are restricted while inside the Deep Sector.
+    ko: 심층부 안에서만 소통할 수 있도록 통신 자체를 제한해 버린 거야.
+    ja: |-
+      そもそも外とは連絡できないように
+      通信自体ができなくなってるわけ。
+  event_wisdomspring_02_s_44:
+    speaker: ether
+    en: That's why Mana is currently incommunicado.
+    ko: 그래서, 마나도 연락이 안 되는 거고.
+    ja: マナと連絡がとれないのはそういうこと。
+  event_wisdomspring_02_s_45:
+    speaker: "<Self>"
+    en: This place sounds awfully important. Is it all right for me to be going there?
+    ko: 그런 중요한 곳에 내가 가도 괜찮아?
+    ja: そんな場所に私が入って問題にならないのか？
+  event_wisdomspring_02_s_46:
+    speaker: ether
+    en: Sure, why not?
+    ko: 그럼, 안될 게 뭐가 있겠어.
+    ja: もちろん。だって今さらじゃない。
+  event_wisdomspring_02_s_47:
+    speaker: ether
+    en: Your reputation precedes you. You've encountered everything from Pilgrims
+      to Heretics.
+    ko: 필그림부터 헬레틱까지 온갖 기밀들을 다 만나본 슈퍼스타인데.
+    ja: |-
+      ピルグリムやら、ヘレティックやら、
+      ありとあらゆる機密事項の実物を見てる
+      スーパースターだもの。
+  event_wisdomspring_02_s_48:
+    speaker: ether
+    en: Besides, it's not like you're going to be running around opening all the lab
+      doors. It'll be fine.
+    ko: 연구실 문을 다 열고 다닐 것도 아니니까, 괜찮을 거야.
+    ja: |-
+      研究室のドアが開きっぱなしって
+      わけでもないし、心配いらないわ。
+  event_wisdomspring_02_s_49:
+    speaker: "<Self>"
+    en: I still feel a bit uneasy.
+    ko: "…좀 찝찝한데."
+    ja: "…気が進まないな"
+  event_wisdomspring_02_s_50:
+    speaker: ether
+    en: So you don't want to meet Mana?
+    ko: 그래서 마나 안 만나러 갈 거야?
+    ja: マナに会いに来たんじゃないの？
+  event_wisdomspring_02_s_51:
+    speaker: ether
+    en: We don't have to if you don't want to.
+    ko: 그럼 가지 말던가.
+    ja: じゃ、やめとく？
+  event_wisdomspring_02_s_52:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_02_s_53:
+    speaker: ether
+    en: Don't worry, and just stay close to me.
+    ko: 걱정은 나중에 하고 얼른 따라와.
+    ja: |-
+      心配は後でいいでしょ。
+      さっさとついて来て。
+  event_wisdomspring_02_s_54:
+    speaker: ether
+    en: You'll get lost if you space out while we're in there.
+    ko: 넋 놓고 있다 길 잃어버린다?
+    ja: ぼーっとしてたら迷子になるよ？
+  event_wisdomspring_02_s_55:
+    speaker: "<Self>"
+    en: "... Okay."
+    ko: "…그래."
+    ja: "…分かった"
+event_wisdomspring_02_e:
+  event_wisdomspring_02_e_1:
+    speaker: ether
+    en: Here we are.
+    ko: 다 왔어.
+    ja: ついたわ。
+  event_wisdomspring_02_e_2:
+    speaker: ether
+    en: This elevator will take us straight to the Deep Sector.
+    ko: 이걸 타면 심층부까지 바로 내려갈 수 있을 거야.
+    ja: これに乗れば深層まで直通だから。
+  event_wisdomspring_02_e_3:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삑-
+    ja: ピッ
+  event_wisdomspring_02_e_4:
+    speaker: "<Monologue>"
+    en: Ether taps her access card on the elevator panel and presses a button.
+    ko: "에테르가 엘리베이터의 버튼에 자신의 출입증을 태그 한 후, \n버튼을 눌렀다."
+    ja: |-
+      エーテルがエレベーターの装置に
+      自分の入構許可証をかざし、ボタンを押した
+  event_wisdomspring_02_e_5:
+    speaker: "<Narration>"
+    en: "*Click* *Whirrrr*"
+    ko: 덜컹. 우웅-
+    ja: ガタン、ウィーン――
+  event_wisdomspring_02_e_6:
+    speaker: "<Monologue>"
+    en: The elevator doors loudly creak open.
+    ko: 큰 소리와 함께 엘리베이터의 문이 열렸다.
+    ja: 大きな音を立て、エレベーターの扉が開いた
+  event_wisdomspring_02_e_7:
+    speaker: ether
+    en: You get in first.
+    ko: 먼저 타.
+    ja: はい。
+  event_wisdomspring_02_e_8:
+    speaker: "<Monologue>"
+    en: I step into the elevator.
+    ko: 에테르의 말에 엘리베이터 안으로 들어섰다.
+    ja: エーテルにうながされ、エレベーターに乗った
+  event_wisdomspring_02_e_9:
+    speaker: "<Monologue>"
+    en: Next to the elevator door, there is a card slot,
+    ko: 엘리베이터 문 옆에 카드를 꽂아 넣을 곳과,
+    ja: |-
+      エレベーターのドアの脇には
+      カードの挿入口と…
+  event_wisdomspring_02_e_10:
+    speaker: "<Monologue>"
+    en: along with buttons labeled "LEVEL D", "LEVEL E", and "LEVEL P".
+    ko: "[LEVEL D], [LEVEL E], [LEVEL P]라고 적혀 있는 버튼들이 보였다."
+    ja: |-
+      「LEVEL D」「LEVEL E」「LEVEL P」
+      と書かれたボタンがある
+  event_wisdomspring_02_e_11:
+    speaker: ether
+    en: You see that slot by the door?
+    ko: 문 옆에 카드 꽂아 넣을 수 있는데, 보이지?
+    ja: カードを入れる場所があるでしょ？
+  event_wisdomspring_02_e_12:
+    speaker: ether
+    en: Could you insert this access card?
+    ko: 거기에 이 출입증 좀 꽂아 넣어볼래?
+    ja: そこにコレをさし込んでみてくれる？
+  event_wisdomspring_02_e_13:
+    speaker: "<Monologue>"
+    en: Ether hands me an access card, and I insert it into the slot.
+    ko: 에테르에게서 출입증 카드를 건네받아, 꽂아 넣었다.
+    ja: |-
+      エーテルから入構許可証を受け取り、
+      挿入口にさし込んだ
+  event_wisdomspring_02_e_14:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삐릭-
+    ja: ピーッ――
+  event_wisdomspring_02_e_15:
+    speaker: "<Monologue>"
+    en: The buttons for Level D and Level E light up with a mechanical ding.
+    ko: 기계음과 함께 [LEVEL D], [LEVEL E]의 버튼에 불이 들어왔다.
+    ja: |-
+      機械音ともに、「LEVEL D」と
+      「LEVEL E」のボタンが点灯した
+  event_wisdomspring_02_e_16:
+    speaker: "<Self>"
+    en: The buttons lit up.
+    ko: 버튼에 불이 들어왔어.
+    ja: ボタンが光った
+  event_wisdomspring_02_e_17:
+    speaker: ether
+    en: Good. Looks like the approval hasn't expired yet.
+    ko: |-
+      좋아.
+      아직 승인된 게 만료되지 않았나 보네.
+    ja: |-
+      よかった。
+      まだ期限が切れてなかったみたいね。
+  event_wisdomspring_02_e_18:
+    speaker: "<Self>"
+    en: Come again?
+    ko: 승인이 만료되다니?
+    ja: 期限？
+  event_wisdomspring_02_e_19:
+    speaker: ether
+    en: That's a guest pass I got approval for a while back,
+    ko: 그거 내가 예전에 연구원 출입증 대신 사용하려고,
+    ja: |-
+      ちょっと前に研究員用の許可証代わりに
+      使おうと思って
+  event_wisdomspring_02_e_20:
+    speaker: ether
+    en: which can be used in lieu of a researcher's card.
+    ko: 미리 승인받아 놓은, 손님용 출입증이거든.
+    ja: 申請してあった来客用カードなの。
+  event_wisdomspring_02_e_21:
+    speaker: "<Self>"
+    en: What made you do that ahead of time?
+    ko: 미리 왜 받아놔?
+    ja: なぜそんなことを？
+  event_wisdomspring_02_e_22:
+    speaker: ether
+    en: It's a royal pain getting approval every individual time.
+    ko: 하나하나 승인받으러 다니면 귀찮잖아.
+    ja: いちいち申請するのって面倒じゃない。
+  event_wisdomspring_02_e_23:
+    speaker: ether
+    en: I find it easier to just get things approved whenever I can.
+    ko: 그래서 미리 승인받을 수 있을 때, 싹 다 받아두는 게 편하더라고.
+    ja: |-
+      だから承認を受けられるときに
+      まとめて作っておいたの。
+  event_wisdomspring_02_e_24:
+    speaker: "<Self>"
+    en: "... I see."
+    ko: "…그렇구나."
+    ja: "…そういうものか"
+  event_wisdomspring_02_e_25:
+    speaker: ether
+    en: All right, all you have to do is press "Level E", and you'll go down.
+    ko: 그럼 이제 7호는 [LEVEL E]라는 버튼을 누르고 내려가면 돼, 알겠지?
+    ja: |-
+      じゃ、あとは「LEVEL E」を押せば
+      着くから。分かるでしょ？
+  event_wisdomspring_02_e_26:
+    speaker: ether
+    en: Whatever you do, don't press "Level P", okay?
+    ko: "[LEVEL P] 버튼은 누르면 안 된다?"
+    ja: "「LEVEL P」は押しちゃダメだからね？"
+  event_wisdomspring_02_e_27:
+    speaker: ether
+    en: That leads to the furthest recesses of the Deep Sector.
+    ko: 그건 심층부보다 더 심연인 곳이니까.
+    ja: 深層よりもっと下に行っちゃうから。
+  event_wisdomspring_02_e_28:
+    speaker: ether
+    en: That's off-limits even to someone of your caliber.
+    ko: 소중 하디 소중한 우리 7호라도 거긴 못 가.
+    ja: 7号でも入れるわけには行かないわ。
+  event_wisdomspring_02_e_29:
+    speaker: ether
+    en: Not to mention that that card wouldn't give you access to that area anyway.
+    ko: 뭐, 애초에 네게 준 출입증으로는 버튼이 눌리지도 않겠지만.
+    ja: |-
+      ま、そのカードじゃ
+      そもそもボタンが利かないと思うけど。
+  event_wisdomspring_02_e_30:
+    speaker: "<Self>"
+    en: You're not getting on?
+    ko: 에테르는 안 타?
+    ja: エーテルは来ないのか？
+  event_wisdomspring_02_e_31:
+    speaker: ether
+    en: I can't.
+    ko: 나? 나야 못 가지.
+    ja: ん？私は行けないし。
+  event_wisdomspring_02_e_32:
+    speaker: ether
+    en: One card per person is the rule.
+    ko: 한 사람당 한 개의 출입증이 규칙이니까.
+    ja: 許可証は1人につき1枚が原則だから。
+  event_wisdomspring_02_e_33:
+    speaker: "<Self>"
+    en: You don't have another access card?
+    ko: 다른 출입증은 없어?
+    ja: 他のカードはないのか？
+  event_wisdomspring_02_e_34:
+    speaker: ether
+    en: I have a researcher's access card,
+    ko: 내건 연구원용 출입증인데,
+    ja: 私の研究員用カードも許可証になってるけど…
+  event_wisdomspring_02_e_35:
+    speaker: ether
+    en: and I haven't been approved at the moment, so I can't use it.
+    ko: 지금은 출입 승인을 받지 못해서 못써.
+    ja: 承認を受けてないから今は使えないわね。
+  event_wisdomspring_02_e_36:
+    speaker: ether
+    en: It's like I told you earlier; the security there is incredibly stringent.
+    ko: 아까도 말했지만, 워낙 보안이 삼엄한 곳이라서.
+    ja: |-
+      さっきも言ったけど、厳重なセキュリティが
+      かかってる場所なの。
+  event_wisdomspring_02_e_37:
+    speaker: ether
+    en: Even researchers like me need to submit a formal request beforehand.
+    ko: 연구원이라도 들어가려면 사유서를 제출해야 하거든?
+    ja: |-
+      研究員でもいちいち理由を添えて
+      申請書を書かないといけないぐらいのね？
+  event_wisdomspring_02_e_38:
+    speaker: ether
+    en: It would take forever and a day for me to submit the paperwork and go through
+      the process, so you go ahead on your own.
+    ko: "사유서를 올리고 어쩌고 하려면 시간이 한참 걸리니까, \n지금은 7호 혼자 밖에 못 가."
+    ja: |-
+      今から申請しても手続きの色々で
+      時間かかるし、7号ひとりで行って。
+  event_wisdomspring_02_e_39:
+    speaker: "<Self>"
+    en: Then why don't I stay, and you go?
+    ko: 그럼 내가 밖에서….
+    ja: それなら、私が外で…
+  event_wisdomspring_02_e_40:
+    speaker: ether
+    en: You want me to go find Mana myself?
+    ko: 설마 내가 대신 들어가서 마나를 찾아오라는 건 아니지?
+    ja: まさか、私にマナを探せって言う気？
+  event_wisdomspring_02_e_41:
+    speaker: ether
+    en: That's hardly convenient for me, you know.
+    ko: 귀찮게.
+    ja: そろそろ面倒になってきたわ…
+  event_wisdomspring_02_e_42:
+    speaker: "<Self>"
+    en: "... Fine. I'll go."
+    ko: "…내가 다녀올게."
+    ja: "…いや、自分で行く"
+  event_wisdomspring_02_e_43:
+    speaker: ether
+    en: Atta boy.
+    ko: 현명하네.
+    ja: 物分かりがいいね。
+  event_wisdomspring_02_e_44:
+    speaker: ether
+    en: That's more like it.
+    ko: 잘 생각했어.
+    ja: その方がいいよ。
+  event_wisdomspring_02_e_45:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_02_e_46:
+    speaker: ether
+    en: What is it? Feeling sad that we have to part ways?
+    ko: 왜, 나랑 헤어지니까 좀 아쉬워?
+    ja: どうしたの？私と一緒にいられなくて残念？
+  event_wisdomspring_02_e_47:
+    speaker: ether
+    en: Or are you nervous?
+    ko: 아니면, 불안해?
+    ja: それとも、怖い？
+  event_wisdomspring_02_e_48:
+    speaker: "<Self>"
+    en: Neither.
+    ko: "…둘 다 아니야."
+    ja: "…どちらでもない"
+  event_wisdomspring_02_e_49:
+    speaker: ether
+    en: Harsh.
+    ko: 단호해라.
+    ja: はっきり言うね～
+  event_wisdomspring_02_e_50:
+    speaker: ether
+    en: Still, you seem a bit more relaxed now,
+    ko: 그래도 긴장은 좀 풀린 거 같으니까,
+    ja: ま、少しは落ち着いたみたいだし。
+  event_wisdomspring_02_e_51:
+    speaker: ether
+    en: so buck up
+    ko: 위축되지 말고 잘 다녀와.
+    ja: 胸を張って、行ってらっしゃ～い。
+  event_wisdomspring_02_e_52:
+    speaker: ether
+    en: and head down to meet Mana.
+    ko: 마나랑 잘 만나고,
+    ja: マナにもよろしく。
+  event_wisdomspring_02_e_53:
+    speaker: "<Narration>"
+    en: "*Thunk*"
+    ko: 쿵-
+    ja: ガタン――
+  event_wisdomspring_02_e_54:
+    speaker: "<Monologue>"
+    en: The doors close.
+    ko: 문이 닫혔다.
+    ja: 扉が閉じた
+  event_wisdomspring_02_e_55:
+    speaker: ether
+    en: Have fun down there.
+    ko: 재미있는 것도 많이 보고.
+    ja: "――面白いものがたくさん見られるといいわね。"
+event_wisdomspring_03_s:
+  event_wisdomspring_03_s_1:
+    speaker: "<Self>"
+    en: So this is the Deep Sector...
+    ko: 여기가… 심층부.
+    ja: ここが…深層か
+  event_wisdomspring_03_s_2:
+    speaker: "<Monologue>"
+    en: Glancing around,
+    ko: 주변을 둘러보았다.
+    ja: 周囲を見回した
+  event_wisdomspring_03_s_3:
+    speaker: "<Monologue>"
+    en: I see a windowless corridor.
+    ko: 창문 하나 없는 복도의 모습이 보였다.
+    ja: 窓の一つもない廊下が伸びている
+  event_wisdomspring_03_s_4:
+    speaker: "<Monologue>"
+    en: The entire place is eerily empty.
+    ko: 이상하리만큼, 복도에는 아무런 인기척도 느껴지지 않았다.
+    ja: 不気味なほど人の気配が感じられない
+  event_wisdomspring_03_s_5:
+    speaker: "<Self>"
+    en: I need to find Mana...
+    ko: "…마나를 찾아야 하는데."
+    ja: "…マナを探そう"
+  event_wisdomspring_03_s_6:
+    speaker: "<Self>"
+    en: But how?
+    ko: 어떻게 찾지?
+    ja: しかし…どうすれば？
+  event_wisdomspring_03_s_7:
+    speaker: "<Monologue>"
+    en: I continue to look around.
+    ko: 주변을 다시 둘러보았다.
+    ja: あたりをもう一度見回した
+  event_wisdomspring_03_s_8:
+    speaker: "<Monologue>"
+    en: It's difficult to ascertain where the door is inside the corridor.
+    ko: 어디가 문인지조차 구분하기 어려운 복도가 보였다.
+    ja: ドアの場所さえ区別しがたい
+  event_wisdomspring_03_s_9:
+    speaker: "<Monologue>"
+    en: The long and gray space isn't well-lit.
+    ko: 은은한 전등만이 비추고 있는 회색의 긴 공간.
+    ja: |-
+      かすかな電灯の光に照らされた、
+      奥に伸びる灰色の細長い空間だ
+  event_wisdomspring_03_s_10:
+    speaker: "<Monologue>"
+    en: I scan the dim corridor intently, searching for Mana.
+    ko: 마나를 찾아보기 위해 복도를 뚫어지게 바라보니….
+    ja: マナを探そうと目を使いすぎたせいか…
+  event_wisdomspring_03_s_11:
+    speaker: "<Self>"
+    en: Urgh...
+    ko: 욱….
+    ja: うっ…
+  event_wisdomspring_03_s_12:
+    speaker: "<Monologue>"
+    en: A sudden burst of dizziness hits me out of the blue,
+    ko: 알 수 없는 어지러움이 느껴졌다.
+    ja: 得体の知れないめまいに襲われた
+  event_wisdomspring_03_s_13:
+    speaker: "<Monologue>"
+    en: along with a wave of nausea.
+    ko: 속이 메스꺼워지는 것 같기도 했다.
+    ja: 胃にも不快感が込みあげてきている
+  event_wisdomspring_03_s_14:
+    speaker: "<Self>"
+    en: First things first. I need to get moving.
+    ko: "…일단 좀 움직이자."
+    ja: "…とにかく、歩いて探そう"
+  event_wisdomspring_03_s_15:
+    speaker: "<Narration>"
+    en: "*Step step*"
+    ko: 터벅- 터벅-
+    ja: カツン、カツン――
+  event_wisdomspring_03_s_16:
+    speaker: "<Monologue>"
+    en: I start walking forward.
+    ko: 앞으로 걸어보았다.
+    ja: 私は廊下の奥に歩みを進めた
+  event_wisdomspring_03_s_17:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_wisdomspring_03_s_18:
+    speaker: "<Monologue>"
+    en: After walking for a long time, there is still no sight of Mana.
+    ko: 한참을 걸어보았지만 여전히 마나의 모습은 보이지 않았다.
+    ja: "…ずいぶん歩いたはずだが、マナは見当たらない"
+  event_wisdomspring_03_s_19:
+    speaker: "<Monologue>"
+    en: For that matter, I haven't seen a single researcher around at all.
+    ko: 마나뿐만 아니라, 다른 연구원들의 모습조차 보이지 않았다.
+    ja: いや、マナどころか他の研究員の姿さえない
+  event_wisdomspring_03_s_20:
+    speaker: "<Self>"
+    en: Whew...
+    ko: 후우….
+    ja: うぐっ…
+  event_wisdomspring_03_s_21:
+    speaker: "<Monologue>"
+    en: The dizziness and nausea are growing worse by the second.
+    ko: 알 수 없는 어지러움과 메스꺼움은 점점 더 심해지는 느낌이다.
+    ja: |-
+      原因不明のめまいと胃の不快感は
+      ますます悪化してきた
+  event_wisdomspring_03_s_22:
+    speaker: "<Self>"
+    en: Maybe... Maybe I should sit down for a bit.
+    ko: 좀… 앉을까.
+    ja: 少し…座るか…
+  event_wisdomspring_03_s_23:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 털썩-
+    ja: ドサッ――
+  event_wisdomspring_03_s_24:
+    speaker: "<Monologue>"
+    en: I sink down to the floor and curl up.
+    ko: 자리에 주저앉았다.
+    ja: 私はその場に座り込んだ
+  event_wisdomspring_03_s_25:
+    speaker: "<Self>"
+    en: Do communications not work here either?
+    ko: 여기서도 연락이 안 되나…?
+    ja: ここなら連絡がつかないか…？
+  event_wisdomspring_03_s_26:
+    speaker: "<Self>"
+    en: Guess not.
+    ko: "…여기도 통신이 안 되나 보네."
+    ja: "…ここでも通信はできないようだ"
+  event_wisdomspring_03_s_27:
+    speaker: "<Monologue>"
+    en: I lean my head against the wall and stare at the ceiling.
+    ko: 머리를 벽에 기댄 채, 천장을 올려다보았다.
+    ja: 壁に頭をもたれさせ、天井を見上げた
+  event_wisdomspring_03_s_28:
+    speaker: "<Monologue>"
+    en: I can't keep going on like this.
+    ko: 이대로 계속 찾는 건 무리가 있을 것 같다.
+    ja: これ以上は無理だ
+  event_wisdomspring_03_s_29:
+    speaker: "<Narration>"
+    en: "*Rustle*"
+    ko: 부스럭-
+    ja: ゴソゴソ…
+  event_wisdomspring_03_s_30:
+    speaker: "<Monologue>"
+    en: I pull out the access card Ether gave me and stare at it.
+    ko: 에테르가 준 출입증을 꺼내서 바라보았다.
+    ja: エーテルに渡された入構許可証を眺めた
+  event_wisdomspring_03_s_31:
+    speaker: "<Self>"
+    en: I need to figure out some way to contact Mana.
+    ko: 일단 밖에 나가서 연락할 방법을 찾던가 하자….
+    ja: |-
+      とにかく外に出て
+      連絡する方法を考えなくては…
+  event_wisdomspring_03_s_32:
+    speaker: "<Monologue>"
+    en: I stand back up,
+    ko: 자리에서 일어났다.
+    ja: どうにか立ち上がり…
+  event_wisdomspring_03_s_33:
+    speaker: "<Monologue>"
+    en: and just as I'm about to head back to the elevator...
+    ko: 다시 엘리베이터로 돌아가려는 그때….
+    ja: エレベーターに戻ろうとしたその時…
+  event_wisdomspring_03_s_34:
+    speaker: mana
+    en: Commander?
+    ko: 지휘관?
+    ja: 指揮官？
+  event_wisdomspring_03_s_35:
+    speaker: "<Self>"
+    en: Mana?
+    ko: 마나…?
+    ja: マナ…？
+  event_wisdomspring_03_s_36:
+    speaker: mana
+    en: What are you doing h...
+    ko: 지휘관이 왜 여기에….
+    ja: なぜこんな場所に…
+  event_wisdomspring_03_s_37:
+    speaker: "<Self>"
+    en: I finally found you!
+    ko: 찾았다!
+    ja: 見つけた…！
+  event_wisdomspring_03_s_38:
+    speaker: mana
+    en: Hmm?
+    ko: 예?
+    ja: はい？
+event_wisdomspring_03_e:
+  event_wisdomspring_03_e_1:
+    speaker: mana
+    en: You were looking for me?
+    ko: 저를 찾고 계셨다고요?
+    ja: 私を捜していた？
+  event_wisdomspring_03_e_2:
+    speaker: mana
+    en: Why would you do that?
+    ko: 저를 왜….
+    ja: なぜ…？
+  event_wisdomspring_03_e_3:
+    speaker: "<Self>"
+    en: "??"
+    ko: 응?
+    ja: ん？
+  event_wisdomspring_03_e_4:
+    speaker: mana
+    en: More importantly, how did you get in here?
+    ko: 그보다, 여긴 심층부인데 어떻게 들어오신 건가요?
+    ja: |-
+      それより、どうしてここに
+      入って来られたのですか？
+  event_wisdomspring_03_e_5:
+    speaker: "<Self>"
+    en: Ether gave me an access card.
+    ko: 에테르가 출입증을 줘서 들어왔어.
+    ja: エーテルが許可証を貸してくれた
+  event_wisdomspring_03_e_6:
+    speaker: mana
+    en: She did?
+    ko: 에테르가… 출입증을요?
+    ja: エーテルが…入構許可証を？
+  event_wisdomspring_03_e_7:
+    speaker: "<Monologue>"
+    en: I pull out the access card and show it to Mana.
+    ko: 에테르가 준 출입증을 꺼내 마나에게 보여주었다.
+    ja: |-
+      エーテルに借りた許可証を取り出し
+      マナに見せた
+  event_wisdomspring_03_e_8:
+    speaker: mana
+    en: That's just a guest pass.
+    ko: 이건 손님용 출입증인데….
+    ja: 外来者用の許可証…
+  event_wisdomspring_03_e_9:
+    speaker: mana
+    en: Why isn't Ether with you?
+    ko: 에테르는 왜 같이 있지 않은 건가요?
+    ja: エーテルは？一緒にいないのですか？
+  event_wisdomspring_03_e_10:
+    speaker: "<Self>"
+    en: She said she couldn't come because she had to get separate authorization.
+    ko: 에테르는 따로 허가를 받아야 해서 못 들어 온대.
+    ja: |-
+      私とは別に申請が必要になるから
+      行かないと言っていた
+  event_wisdomspring_03_e_11:
+    speaker: mana
+    en: Huh?
+    ko: 따로 허가를요?
+    ja: 別に申請…？
+  event_wisdomspring_03_e_12:
+    speaker: mana
+    en: If she couldn't come with you, why did you come here on your own?
+    ko: 에테르와 함께할 것이 아니었다면, 왜 지휘관이 여기 계신 거죠?
+    ja: |-
+      エーテルが一緒でもないなら、
+      なおさら何故ここにいらっしゃるのです？
+  event_wisdomspring_03_e_13:
+    speaker: "<Self>"
+    en: You asked me to.
+    ko: 마나가 날 불렀으니까?
+    ja: 君が呼んだのだろう？
+  event_wisdomspring_03_e_14:
+    speaker: mana
+    en: I did?
+    ko: 제가요?
+    ja: 私ですか？
+  event_wisdomspring_03_e_15:
+    speaker: "<Self>"
+    en: You contacted me and said that M.M.R. had prepared a new weapon for me.
+    ko: 나한테 M.M.R.에서 신식 무기를 만들어준다고 연락했잖아.
+    ja: |-
+      M.M.R.から新しい装備の支給があると
+      連絡してきただろう
+  event_wisdomspring_03_e_16:
+    speaker: mana
+    en: "... I did?"
+    ko: 제가… 요?
+    ja: 私が…ですか？
+  event_wisdomspring_03_e_17:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_03_e_18:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_03_e_19:
+    speaker: "<Self>"
+    en: Mana.
+    ko: "…마나."
+    ja: "…マナ…"
+  event_wisdomspring_03_e_20:
+    speaker: "<Self>"
+    en: Did you not send me a Bla message earlier today?
+    ko: 혹시 오늘 나한테 블라블라 보낸 적 있어?
+    ja: |-
+      今日、私にBlaBlaで
+      メッセージを送ったか？
+  event_wisdomspring_03_e_21:
+    speaker: mana
+    en: No.
+    ko: 없습니다.
+    ja: いいえ。
+  event_wisdomspring_03_e_22:
+    speaker: mana
+    en: I've been here in the Deep Sector since yesterday,
+    ko: 전 어제부터 계속 심층부에 있었으니까요.
+    ja: 私は昨日から深層にいました。
+  event_wisdomspring_03_e_23:
+    speaker: mana
+    en: and I'm scheduled to be here until tomorrow morning.
+    ko: 예정대로라면 내일 아침까지 계속 심층부에 있었을 겁니다.
+    ja: 明日の朝まで滞在する予定です。
+  event_wisdomspring_03_e_24:
+    speaker: "<Self>"
+    en: But I received a message from you this morning.
+    ko: 난 오늘 오전에 마나에게 블라블라를 받았는데?
+    ja: |-
+      私は今日の午前中に
+      君からのメッセージを受信している
+  event_wisdomspring_03_e_25:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_03_e_26:
+    speaker: mana
+    en: Could you show me that message?
+    ko: "…지휘관. \n혹시 제가 보냈다는 메시지를 보여주실 수 있습니까?"
+    ja: |-
+      …指揮官。
+      そのメッセージ、見せていただけますか？
+  event_wisdomspring_03_e_27:
+    speaker: "<Self>"
+    en: Hold on.
+    ko: 잠시만.
+    ja: 構わない
+  event_wisdomspring_03_e_28:
+    speaker: "<Monologue>"
+    en: I show Mana the message I received earlier.
+    ko: 마나에게 오전에 왔던 메시지를 보여주었다.
+    ja: 午前中に受け取ったメッセージをマナに見せた
+  event_wisdomspring_03_e_29:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_03_e_30:
+    speaker: mana
+    en: It's definitely been sent from my profile,
+    ko: 확실히 제 아이디로 보낸 메시지가 맞군요.
+    ja: 確かに私のIDで送信されています。
+  event_wisdomspring_03_e_31:
+    speaker: mana
+    en: but I never sent this.
+    ko: 하지만 전 정말 보내지 않았습니다.
+    ja: ですが、私は何も送っていません。
+  event_wisdomspring_03_e_32:
+    speaker: mana
+    en: Not only that, M.M.R. doesn't produce new weapons for Commanders in the first
+      place.
+    ko: "애초에 M.M.R.에서 만드는, \n지휘관용 신식 무기 같은 건 존재하지 않습니다."
+    ja: |-
+      指揮官用の新しい装備など、
+      まったく覚えがありません。
+  event_wisdomspring_03_e_33:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_03_e_34:
+    speaker: mana
+    en: I've never heard of such a project.
+    ko: 그런 걸 준비한다는 이야기조차 들어본 적이 없습니다.
+    ja: |-
+      そんなものがあるということ自体
+      初めて聞きます。
+  event_wisdomspring_03_e_35:
+    speaker: "<Self>"
+    en: Then how could I have gotten this message?
+    ko: 그럼 도대체 나한테 왜 이런 메시지가 온 거지?
+    ja: すると、このメッセージは何だ？
+  event_wisdomspring_03_e_36:
+    speaker: mana
+    en: Well...
+    ko: "…글쎄요."
+    ja: "…さあ…"
+  event_wisdomspring_03_e_37:
+    speaker: mana
+    en: I can't say for sure,
+    ko: 정확한 건 알 수 없습니다만,
+    ja: 正確なことは分かりませんが…
+  event_wisdomspring_03_e_38:
+    speaker: mana
+    en: but it seems that someone wanted to lure you to M.M.R.
+    ko: 누군가가 지휘관을 M.M.R.로 불러들이려 한 것 같습니다.
+    ja: |-
+      誰かが指揮官をM.M.R.に
+      誘い込んだようですね。
+  event_wisdomspring_03_e_39:
+    speaker: mana
+    en: Given that they used my name to mislead you,
+    ko: 제 이름으로 속이고 몰래 부르려 했다는 점에서,
+    ja: 送信者を私に偽装して呼び出したというなら…
+  event_wisdomspring_03_e_40:
+    speaker: mana
+    en: I highly doubt that their intentions were noble.
+    ko: 긍정적인 의도를 갖고 불렀으리라고는 생각되지는 않습니다.
+    ja: 善意でないことは間違いないでしょう。
+  event_wisdomspring_03_e_41:
+    speaker: "<Self>"
+    en: I'm not following.
+    ko: 그게 무슨 뜻이야?
+    ja: 何か思い当たることがあるのか？
+  event_wisdomspring_03_e_42:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_03_e_43:
+    speaker: mana
+    en: Commander, what kind of place do you think M.M.R. is?
+    ko: 지휘관은 M.M.R.이 어떤 곳이라고 생각하십니까?
+    ja: |-
+      M.M.R.とは、
+      どういう場所だと思いますか？
+  event_wisdomspring_03_e_44:
+    speaker: "<Choice>"
+    en: A place for researching Ark-based technology?
+    ko: 방주의 기술을 연구하는 곳?
+    ja: アークの技術を研究する場所？
+  event_wisdomspring_03_e_45:
+    speaker: "<Choice>"
+    en: A place where the Ark's secrets are hidden?
+    ko: 방주의 기밀들을 숨겨 놓은 곳?
+    ja: アークの秘密を隠しておく場所？
+  event_wisdomspring_03_e_46:
+    speaker: mana
+    en: That's right.
+    ko: 맞습니다.
+    ja: その通りです。
+  event_wisdomspring_03_e_47:
+    speaker: mana
+    en: Everything from Nikke bodies to the Ark's basic infrastructure.
+    ko: 니케의 바디부터, 방주 기초 구조물까지.
+    ja: ニケのボディ、アークの基礎構造物…
+  event_wisdomspring_03_e_48:
+    speaker: mana
+    en: M.M.R. handles every aspect of the technology present in the Ark.
+    ko: 방주의 온갖 기술 연구가 M.M.R.로부터 이루어집니다.
+    ja: |-
+      アークのあらゆる技術研究は
+      M.M.R.に由来するものです。
+  event_wisdomspring_03_e_49:
+    speaker: mana
+    en: That's a rather unexpected answer... but you're not incorrect.
+    ko: "…맞습니다만, 의외의 대답이군요."
+    ja: "…そうとも言えますが、意外な回答ですね。"
+  event_wisdomspring_03_e_50:
+    speaker: mana
+    en: Did anyone tell you that, by any chance?
+    ko: 혹시 다른 분께 이와 비슷한 설명을 들은 적이 있으신가요?
+    ja: |-
+      誰かからそのような話を
+      聞いたことがあるのですか？
+  event_wisdomspring_03_e_51:
+    speaker: "<Self>"
+    en: I heard it from Ether.
+    ko: 에테르에게 들었어.
+    ja: エーテルの受け売りだ
+  event_wisdomspring_03_e_52:
+    speaker: mana
+    en: I see. Makes sense.
+    ko: 역시… 그렇군요.
+    ja: やはり…そうでしたか。
+  event_wisdomspring_03_e_53:
+    speaker: mana
+    en: Well, she's right.
+    ko: 맞습니다.
+    ja: その通りです。
+  event_wisdomspring_03_e_54:
+    speaker: mana
+    en: M.M.R. safeguards all of the Ark's technological secrets.
+    ko: "방주의 기술력을 기반으로 한, \n온갖 기밀들이 이 M.M.R.에 숨겨져 있습니다."
+    ja: |-
+      アークの技術力の基盤、あらゆる機密情報が
+      このM.M.R.には隠されています。
+  event_wisdomspring_03_e_55:
+    speaker: mana
+    en: That's why everyone who comes here first has to
+    ko: 그렇기에 이곳에 오는 모든 이들은,
+    ja: だからこそ、この研究所に立ち入る者は…
+  event_wisdomspring_03_e_56:
+    speaker: mana
+    en: be granted authorization in the form of an access card.
+    ko: 출입증의 형태로 [허가]를 받아야만 들어올 수 있습니다.
+    ja: 例外なく「許可証」が必要になるのです。
+  event_wisdomspring_03_e_57:
+    speaker: mana
+    en: Here in the Deep Sector, where we are now, the security is particularly tight.
+    ko: 특히나 지휘관께서 계신 이 심층부는 더더욱 그렇죠.
+    ja: |-
+      特にいま私たちがいる、
+      深層となれば、なおさら。
+  event_wisdomspring_03_e_58:
+    speaker: "<Self>"
+    en: In other words, I entered without proper authorization.
+    ko: 그런 곳에 난 허가 없이 들어온 셈이네.
+    ja: そこに私は無許可で侵入したことになるわけか
+  event_wisdomspring_03_e_59:
+    speaker: mana
+    en: Not necessarily. You do have an access card, after all.
+    ko: "출입증을 소지하고 계시니, \n허가를 안 받고 들어오신 건 아닙니다만."
+    ja: |-
+      入構許可証をお持ちなら、
+      無許可ということにはならないでしょうが…
+  event_wisdomspring_03_e_60:
+    speaker: mana
+    en: However, if you were to encounter any other researchers
+    ko: 혹시라도 다른 연구원들과 마주하여,
+    ja: 万が一他の研究員に見とがめられれば…
+  event_wisdomspring_03_e_61:
+    speaker: mana
+    en: and they wanted to know your reason for being here, you might be in a bit
+      of a bind.
+    ko: "그들이 지휘관께 방문 목적을 물어본다면 \n난감한 상황에 처하실 수 있습니다."
+    ja: |-
+      訪問の目的を取り調べられたりと、
+      厄介な状況になる可能性があります。
+  event_wisdomspring_03_e_62:
+    speaker: "<Self>"
+    en: Do you think that's what they wanted, whoever it was that brought me here?
+    ko: 그걸 노리고 부른 걸까?
+    ja: それを狙って呼び出したということか？
+  event_wisdomspring_03_e_63:
+    speaker: mana
+    en: There's no way we can know for certain.
+    ko: "글쎄요. \n확실한 건 알 수 없습니다만."
+    ja: |-
+      どうでしょう。
+      確かなことは分かりません。
+  event_wisdomspring_03_e_64:
+    speaker: mana
+    en: One thing that is certain, however, is that staying here for too long will
+      be dangerous for you.
+    ko: 이렇게 계속 심층부에 계시는 건 위험할 거라고 판단됩니다.
+    ja: ただこのまま深層にいては、危険かと思います。
+  event_wisdomspring_03_e_65:
+    speaker: "<Self>"
+    en: Okay, let's head out then.
+    ko: 알겠어. 일단 밖으로 나가자.
+    ja: 分かった。ひとまず外に出よう
+  event_wisdomspring_03_e_66:
+    speaker: mana
+    en: All right, I'll lead the way.
+    ko: |-
+      예.
+      제가 안내하겠습니다.
+    ja: |-
+      ええ。
+      ご案内します。
+  event_wisdomspring_03_e_67:
+    speaker: "<Monologue>"
+    en: Mana hurriedly leads me towards the access elevator.
+    ko: 마나의 안내에 따라 서둘러 출입용 엘리베이터를 향해 갔다.
+    ja: マナに先導され、エレベーターへ戻った
+  event_wisdomspring_03_e_68:
+    speaker: "<Monologue>"
+    en: However...
+    ko: "…하지만."
+    ja: しかし…
+  event_wisdomspring_03_e_69:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삑-
+    ja: ピッ――
+  event_wisdomspring_03_e_70:
+    speaker: "<Monologue>"
+    en: I tap the access card against the outside elevator panel.
+    ko: 출입증 카드를 엘리베이터 스위치에 태그 해 보았다.
+    ja: 許可証をエレベーターの装置にかざすと…
+  event_wisdomspring_03_e_71:
+    speaker: "<Narration>"
+    en: "*Beep beep beep beep*"
+    ko: 삐- 삐- 삐- 삐-
+    ja: ピーピーピーピー！
+  event_wisdomspring_03_e_72:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_wisdomspring_03_e_73:
+    speaker: "<Monologue>"
+    en: I try again.
+    ko: 출입증 카드를 엘리베이터 스위치에 다시 태그 해 보았다.
+    ja: もう一度カードをエレベーターの装置にかざした
+  event_wisdomspring_03_e_74:
+    speaker: "<Narration>"
+    en: "*Beep beep beep beep*"
+    ko: 삐- 삐- 삐- 삐-
+    ja: ピーピーピーピー！
+  event_wisdomspring_03_e_75:
+    speaker: "<Narration>"
+    en: 'ERROR CODE: 4012.'
+    ko: "[ERROR CODE : 4012]"
+    ja: "「ERROR CODE : 4012」"
+  event_wisdomspring_03_e_76:
+    speaker: "<Self>"
+    en: It's not working...
+    ko: 에러 코드?
+    ja: エラーコード？
+  event_wisdomspring_03_e_77:
+    speaker: mana
+    en: I think...
+    ko: 이건…!
+    ja: そんな…！
+  event_wisdomspring_03_e_78:
+    speaker: mana
+    en: the card's expired.
+    ko: 출입증이… 만료되었다는 것 같습니다.
+    ja: 入構許可証の…期限切れです。
+  event_wisdomspring_03_e_79:
+    speaker: "<Self>"
+    en: That means...
+    ko: 그렇다는 건….
+    ja: それはつまり…
+  event_wisdomspring_03_e_80:
+    speaker: mana
+    en: "... You can't leave."
+    ko: "…여기서 나갈 수 없다는 뜻이죠."
+    ja: "…ここから出られないということです。"
+event_wisdomspring_intermission_01:
+  event_wisdomspring_intermission_01_1:
+    speaker: "<Self>"
+    en: So I'm trapped?
+    ko: 갇혔다고?
+    ja: 閉じ込められた？
+  event_wisdomspring_intermission_01_2:
+    speaker: mana
+    en: "... Yes."
+    ko: "…예."
+    ja: "…はい。"
+  event_wisdomspring_intermission_01_3:
+    speaker: mana
+    en: The code you just saw appears when an expired access card is used.
+    ko: 조금 전에 보신 숫자는 기간이 만료된 출입증을 사용할 때 나오는 에러 코드입니다.
+    ja: |-
+      先ほどのエラーコードは、入構許可証の
+      期限が有効ではない時に表示されるものです。
+  event_wisdomspring_intermission_01_4:
+    speaker: "<Self>"
+    en: Can't you open it with your card?
+    ko: 마나의 출입증으로는 못 여는 거야?
+    ja: マナの許可証で出られないか？
+  event_wisdomspring_intermission_01_5:
+    speaker: mana
+    en: I'm scheduled to be here until tomorrow morning.
+    ko: 전 내일 아침까지 이곳에 있는 것으로 승인받은 상황입니다.
+    ja: |-
+      私は明日の朝までここにいるという
+      申請を行っています。
+  event_wisdomspring_intermission_01_6:
+    speaker: mana
+    en: It's nearly impossible to alter the time period which you've been approved,
+    ko: 정말 특수한 상황이 아니고서야,
+    ja: そして、本当に特殊な状況でなければ…
+  event_wisdomspring_intermission_01_7:
+    speaker: mana
+    en: unless there are truly exceptional circumstances.
+    ko: 승인받은 시간을 수정하기엔 어렵습니다.
+    ja: 承認された日程の前に出ることはできません。
+  event_wisdomspring_intermission_01_8:
+    speaker: "<Self>"
+    en: Missilis even keeps researchers on a short leash, huh?
+    ko: 연구원들도 정말 자유롭지 못하네.
+    ja: 研究員でもそこまで厳しいのか
+  event_wisdomspring_intermission_01_9:
+    speaker: mana
+    en: "... Yes, they do."
+    ko: "…그런 셈이죠."
+    ja: "…その通りです。"
+  event_wisdomspring_intermission_01_10:
+    speaker: mana
+    en: Researchers must obtain approval to enter the Deep Sector
+    ko: 연구원들도 승인을 받아야 심층부로 들어올 수 있고,
+    ja: |-
+      研究員であっても承認がなければ
+      深層には立ち入れません。
+  event_wisdomspring_intermission_01_11:
+    speaker: mana
+    en: and must adhere precisely to the authorized time frame.
+    ko: 승인받은 시간대로만 움직여야 합니다.
+    ja: |-
+      そして、承認された通りの日程以外では
+      出ることもできません。
+  event_wisdomspring_intermission_01_12:
+    speaker: mana
+    en: Those are the rules.
+    ko: 그것이 [규칙]이니까요.
+    ja: それが「規則」です。
+  event_wisdomspring_intermission_01_13:
+    speaker: "<Self>"
+    en: Why is it so inflexible?
+    ko: 왜 그렇게까지….
+    ja: なぜそこまで…
+  event_wisdomspring_intermission_01_14:
+    speaker: mana
+    en: For a very simple reason.
+    ko: 이유는 간단합니다.
+    ja: 簡単なことです。
+  event_wisdomspring_intermission_01_15:
+    speaker: mana
+    en: This place contains many secrets.
+    ko: 비밀이 많은 곳이기 때문입니다.
+    ja: ここは秘密の多い場所ですから。
+  event_wisdomspring_intermission_01_16:
+    speaker: mana
+    en: Missilis doesn't give free rein to anyone who works down here.
+    ko: 그렇기에 이곳에서 연구하는 연구원들조차 믿지 않는 것이죠.
+    ja: |-
+      ここで研究に携わっている研究員でさえ
+      信用されていないということです。
+  event_wisdomspring_intermission_01_17:
+    speaker: "<Self>"
+    en: Not even the researchers?
+    ko: 믿지 않는다고?
+    ja: 信用されていない？
+  event_wisdomspring_intermission_01_18:
+    speaker: mana
+    en: No.
+    ko: 예.
+    ja: ええ。
+  event_wisdomspring_intermission_01_19:
+    speaker: mana
+    en: The company trusts no one.
+    ko: 아무도 믿지 않을 겁니다.
+    ja: この研究所は、誰も信じていません。
+  event_wisdomspring_intermission_01_20:
+    speaker: mana
+    en: That's probably the reason why they prefer Nikke researchers whenever possible.
+    ko: 그렇기에 웬만하면 연구원들을 니케들로 구성하고 싶어 하는 것일 테고요.
+    ja: |-
+      できることなら研究員を全て、
+      ニケだけにしたいと考えていることでしょう。
+  event_wisdomspring_intermission_01_21:
+    speaker: "<Self>"
+    en: Hold on.
+    ko: 그게… 무슨 말이야?
+    ja: "…どういう意味だ？"
+  event_wisdomspring_intermission_01_22:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_intermission_01_23:
+    speaker: "<Self>"
+    en: Are you telling me that the researchers here are intentionally composed entirely
+      of Nikkes?
+    ko: 일부러 연구원들을 니케로만 구성하고 있다는 거야?
+    ja: そこまでニケにこだわる理由があるのか？
+  event_wisdomspring_intermission_01_24:
+    speaker: mana
+    en: Not all of them, but most.
+    ko: 연구원들 전부는 아니지만, 다수가 니케로 구성되어 있습니다.
+    ja: |-
+      全員ではありませんが、
+      研究員の大多数はニケです。
+  event_wisdomspring_intermission_01_25:
+    speaker: mana
+    en: Did you know that Ether and I are both Nikkes?
+    ko: 지휘관은 저와 에테르가 니케라는 걸 알고 계십니까?
+    ja: |-
+      私とエーテルもそうであることは
+      ご存じでしょう？
+  event_wisdomspring_intermission_01_26:
+    speaker: "<Choice>"
+    en: No, I didn't know.
+    ko: 모르고 있었어.
+    ja: 知らなかった
+  event_wisdomspring_intermission_01_27:
+    speaker: "<Choice>"
+    en: Yes, I knew.
+    ko: 알고 있었어.
+    ja: 知ってた
+  event_wisdomspring_intermission_01_28:
+    speaker: mana
+    en: It's understandable that you didn't.
+    ko: 모를 수 있다고 생각합니다.
+    ja: 無理もありません。
+  event_wisdomspring_intermission_01_29:
+    speaker: mana
+    en: You have a good memory.
+    ko: 기억력이 좋으시군요.
+    ja: 覚えていらっしゃったようですね。
+  event_wisdomspring_intermission_01_30:
+    speaker: mana
+    en: That's right.
+    ko: 맞습니다.
+    ja: 話が早いです。
+  event_wisdomspring_intermission_01_31:
+    speaker: mana
+    en: Ether and I are Nikkes.
+    ko: 저와 에테르는 니케입니다.
+    ja: 私とエーテルはニケです。
+  event_wisdomspring_intermission_01_32:
+    speaker: mana
+    en: In addition to being researchers at M.M.R., we're also members of the M.M.R.
+      squad.
+    ko: "M.M.R. 소속 연구원이자, \nM.M.R. 스쿼드 소속의 니케죠."
+    ja: |-
+      M.M.R.で研究を行う、
+      M.M.R.所属のニケです。
+  event_wisdomspring_intermission_01_33:
+    speaker: mana
+    en: When humanity migrated to the Ark, do you know what non-combat Nikkes were
+      initially created for?
+    ko: 인류가 방주로 이전한 후, 전투용이 아닌 니케를 만들어낼 때 가장 먼저 한 것이 무엇인지 아십니까?
+    ja: |-
+      人類がアークへ逃れた後、
+      戦闘用でもないニケが生まれているのは
+      なぜだと思いますか？
+  event_wisdomspring_intermission_01_34:
+    speaker: mana
+    en: Preserving technology and art.
+    ko: 기술과 예술의 보존입니다.
+    ja: 技術と文化を保存するためです。
+  event_wisdomspring_intermission_01_35:
+    speaker: mana
+    en: To ensure that humanity's knowledge and creativity wouldn't vanish underground,
+    ko: 인류의 기술, 예술들이 땅속에서 잊혀 사라지지 않도록,
+    ja: |-
+      人類の技術や文化が地の底に埋もれ
+      消え去ってしまわないよう…
+  event_wisdomspring_intermission_01_36:
+    speaker: mana
+    en: it was embedded into the Nikkes themselves.
+    ko: 그 자체를 니케로 만들어 보존한 것입니다.
+    ja: それ自体がニケとして保存されているのです。
+  event_wisdomspring_intermission_01_37:
+    speaker: "<Self>"
+    en: I'm not sure I follow. How exactly did they transpose technology and art into
+      Nikkes?
+    ko: 그 자체를 니케로 만든다고?
+    ja: ニケとして保存する？
+  event_wisdomspring_intermission_01_38:
+    speaker: mana
+    en: By transforming exceptionally gifted artists and engineers into Nikkes.
+    ko: 뛰어난 실력을 가진 예술가, 기술자들을 니케로 만들었다는 뜻입니다.
+    ja: 優秀な芸術家や技術者がニケになれば…
+  event_wisdomspring_intermission_01_39:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_intermission_01_40:
+    speaker: mana
+    en: This way, their skills and knowledge could survive
+    ko: 그럼 시간에 구애받지 않고,
+    ja: 個人の寿命は制約ではなくなります。
+  event_wisdomspring_intermission_01_41:
+    speaker: mana
+    en: without the human limitation of time.
+    ko: 오랜 시간 기술과 예술들이 살아있을 수 있을 테니까요.
+    ja: |-
+      その人物が持つ技術や技能を
+      永久に保存できると言うことです。
+  event_wisdomspring_intermission_01_42:
+    speaker: "<Self>"
+    en: What?!
+    ko: 무슨 그런…!
+    ja: そんなことを…！
+  event_wisdomspring_intermission_01_43:
+    speaker: mana
+    en: Scientists were no different.
+    ko: 과학자들도 마찬가지입니다.
+    ja: 科学者にしても同じことです。
+  event_wisdomspring_intermission_01_44:
+    speaker: mana
+    en: Nikkes were considered a premium storage device of sorts for scientific knowledge,
+    ko: "니케라는 성능 좋은 지식 저장 장치에 \n인류의 과학 지식을 저장하기 위해,"
+    ja: |-
+      ニケという高性能の情報保存装置に
+      人類の科学的知識を保存するため…
+  event_wisdomspring_intermission_01_45:
+    speaker: mana
+    en: and so many scientists were turned into Nikkes as well.
+    ko: 많은 과학자들이 니케가 되었습니다.
+    ja: 多くの科学者たちがニケとなっています。
+  event_wisdomspring_intermission_01_46:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_intermission_01_47:
+    speaker: mana
+    en: That's not the only advantage that Nikkes have.
+    ko: 니케의 장점은 그뿐만이 아닙니다.
+    ja: ニケを使う利点は他にもあります。
+  event_wisdomspring_intermission_01_48:
+    speaker: mana
+    en: It's difficult to hide secrets inside a Nikke's brain.
+    ko: 니케의 뇌는 비밀을 숨기기 어렵습니다.
+    ja: ニケの脳は秘密を隠すことに向きません。
+  event_wisdomspring_intermission_01_49:
+    speaker: mana
+    en: Since humanity moved to the Ark,
+    ko: 인류가 방주에 들어온 이후,
+    ja: 人類がアークへ移り住んで以来…
+  event_wisdomspring_intermission_01_50:
+    speaker: mana
+    en: brain-scanning technology has improved by leaps and bounds.
+    ko: 니케의 뇌를 스캔하는 기술은 점점 발전되어 왔습니다.
+    ja: |-
+      ニケの脳スキャン技術も
+      着実に進歩を続けています。
+  event_wisdomspring_intermission_01_51:
+    speaker: mana
+    en: Unless extreme measures like neural shielding or black boxing are employed,
+    ko: 사고 전환이나 블랙박스화 등, 특수한 상황이 아니고서야.
+    ja: |-
+      思考転換、あるいは
+      ブラックボックス化といった、
+      一部の特殊な状況を除けば…
+  event_wisdomspring_intermission_01_52:
+    speaker: mana
+    en: most Nikkes are incapable of concealing any information from humans.
+    ko: 일반적인 니케들은 자신이 가진 비밀들을 인류에게 숨길 수 없게 되어버린 거죠.
+    ja: |-
+      一般的なニケは自身が持つ秘密を
+      人類に隠すことができなくなっています。
+  event_wisdomspring_intermission_01_53:
+    speaker: "<Self>"
+    en: That explains it...
+    ko: 그래서…!
+    ja: そういうことか…！
+  event_wisdomspring_intermission_01_54:
+    speaker: mana
+    en: That's not the only reason.
+    ko: 뭐, 그 이유가 전부는 아니지만.
+    ja: それがすべてではありませんが…
+  event_wisdomspring_intermission_01_55:
+    speaker: mana
+    en: It's easy to store information in Nikkes and it's difficult for them to hide
+      anything.
+    ko: "원하는 것들을 저장하기에도 쉽고, \n비밀을 숨길 수 없는 존재이기에,"
+    ja: |-
+      必要な情報を容易に保存できる一方、
+      秘密を隠すことができない存在であること。
+  event_wisdomspring_intermission_01_56:
+    speaker: mana
+    en: That's why the majority of M.M.R. researchers are Nikkes.
+    ko: M.M.R. 연구원들 중 다수는 니케로 구성되어 있습니다.
+    ja: |-
+      M.M.R.の研究員の多数が
+      ニケである主な理由はそれです。
+  event_wisdomspring_intermission_01_57:
+    speaker: mana
+    en: Of course, not everyone was forced into it.
+    ko: 물론 전부 강제는 아니었습니다.
+    ja: 無論、誰もが強制されたわけではありません。
+  event_wisdomspring_intermission_01_58:
+    speaker: mana
+    en: Some volunteered to become Nikkes, hoping to complete their research without
+      being limited by a human lifespan.
+    ko: "수명에 구애받지 않고 자신의 연구를 끝마치고 싶어서, \n니케가 되는 것을 자청한 사람도 많았습니다."
+    ja: |-
+      寿命などの制約から解放されて
+      自分の研究を行うため、
+      自発的に志願した者も多くいます。
+  event_wisdomspring_intermission_01_59:
+    speaker: "<Self>"
+    en: "... I see."
+    ko: "…그랬구나."
+    ja: "…そうだったのか"
+  event_wisdomspring_intermission_01_60:
+    speaker: mana
+    en: I've gotten sidetracked.
+    ko: 다른 이야기를 많이 했는데,
+    ja: 話が大分それてしまいましたが…
+  event_wisdomspring_intermission_01_61:
+    speaker: mana
+    en: To summarize, Missilis doesn't even trust its own researchers.
+    ko: 요약하자면 M.M.R.은 소속된 연구원들조차 신뢰하지 않습니다.
+    ja: |-
+      要するに、M.M.R.では所属する研究員も
+      信頼されていないということです。
+  event_wisdomspring_intermission_01_62:
+    speaker: mana
+    en: Therefore, curtailing the time period for which I was authorized would be
+      difficult.
+    ko: 그러니 제가 승인받은 시간을 조정하는 건 어려울 듯합니다.
+    ja: |-
+      私の退出時間を変更しようとすれば
+      確実に事情を調べられるでしょう。
+  event_wisdomspring_intermission_01_63:
+    speaker: "<Self>"
+    en: Got it.
+    ko: 응. 알겠어.
+    ja: ああ。理解できた
+  event_wisdomspring_intermission_01_64:
+    speaker: mana
+    en: Thank you for understanding.
+    ko: 이해해 주셔서 감사합니다.
+    ja: ご理解いただきありがとうございます。
+  event_wisdomspring_intermission_01_65:
+    speaker: mana
+    en: We've spent too much time talking.
+    ko: 이야기를 하느라 시간이 너무 지체되었군요.
+    ja: 長話をしてしまいました。
+  event_wisdomspring_intermission_01_66:
+    speaker: mana
+    en: It's not prudent to stay here long.
+    ko: 이곳에 계속 있는 것은 좋지 않을 듯하니,
+    ja: ここに居続けても事態は好転しません。
+  event_wisdomspring_intermission_01_67:
+    speaker: mana
+    en: Let's look for another lab where we might get a signal.
+    ko: 다른 연구실에 위 구역과 통신할 수 있는 수단이 있는지 찾아보죠.
+    ja: |-
+      他の研究室で外と通信する手段を探しつつ、
+      解決方法がないか調べてみましょう。
+  event_wisdomspring_intermission_01_68:
+    speaker: "<Self>"
+    en: Okay. Let's move.
+    ko: 그래. 움직이자.
+    ja: そうだな。とにかく動かないと
+event_wisdomspring_04_s:
+  event_wisdomspring_04_s_1:
+    speaker: "<Monologue>"
+    en: Mana and I begin searching for any type of communication within the Deep Sector.
+    ko: 마나와 함께 통신 기기를 찾기 위해 심층부를 돌아다니기 시작했다.
+    ja: |-
+      状況の打開策を探すため
+      マナと深層を歩き回った
+  event_wisdomspring_04_s_2:
+    speaker: mana
+    en: Commander, would you come here?
+    ko: 지휘관 이쪽으로 와보시겠습니까.
+    ja: 指揮官、こちらへ。
+  event_wisdomspring_04_s_3:
+    speaker: "<Self>"
+    en: There's an elevator here too?
+    ko: 이쪽에도 엘리베이터가 있네?
+    ja: これもエレベーターか？
+  event_wisdomspring_04_s_4:
+    speaker: mana
+    en: Of course. The Deep Sector is a vast place.
+    ko: 예. 심층부는 넓으니까요.
+    ja: ええ。広い場所ですから。
+  event_wisdomspring_04_s_5:
+    speaker: mana
+    en: It would be difficult working with only one operating elevator.
+    ko: 한 대의 엘리베이터만으로는 운용하기 힘들죠.
+    ja: エレベーターが1台だけでは足りません。
+  event_wisdomspring_04_s_6:
+    speaker: mana
+    en: I believe there should be an emergency contact device inside this elevator.
+    ko: 이쪽 엘리베이터에 비상 연락 장치가 있다고 들었던 것 같은데….
+    ja: |-
+      こちら側のエレベーターには
+      非常連絡装置があると聞いたことが…
+  event_wisdomspring_04_s_7:
+    speaker: "<Narration>"
+    en: "*Beep* *Beep beep*"
+    ko: 삑- 삐빅-
+    ja: ピッ、ピピッ――
+  event_wisdomspring_04_s_8:
+    speaker: "<Monologue>"
+    en: Mana fiddles with the control panel of the elevator.
+    ko: 마나가 엘리베이터의 조작 패널을 이것저것 건드려보았다.
+    ja: |-
+      マナがエレベーターのパネルに
+      何かの操作をした
+  event_wisdomspring_04_s_9:
+    speaker: mana
+    en: Nothing.
+    ko: 없군요.
+    ja: ありませんね…
+  event_wisdomspring_04_s_10:
+    speaker: mana
+    en: It seems the rumors were unfounded.
+    ko: 헛소문이었나 봅니다.
+    ja: 単なるウワサだったようです。
+  event_wisdomspring_04_s_11:
+    speaker: mana
+    en: Let's go somewhere else.
+    ko: 다른 곳으로 가시죠.
+    ja: 他をあたりましょう。
+  event_wisdomspring_04_s_12:
+    speaker: "<Monologue>"
+    en: We search for another elevator.
+    ko: 다른 엘리베이터를 찾아가 보기도 했고.
+    ja: |-
+      別のエレベーターを調べたりもしたが、
+      やはりいい方法は見つからない
+  event_wisdomspring_04_s_13:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン――
+  event_wisdomspring_04_s_14:
+    speaker: "<Monologue>"
+    en: As we enter the dust-filled room,
+    ko: 방 안을 둘러보았다.
+    ja: やがて、ある部屋にたどり着いた
+  event_wisdomspring_04_s_15:
+    speaker: "<Monologue>"
+    en: we see a sacred altar of some kind.
+    ko: 먼지가 소복이 내려앉은 방 안에 성스러운 느낌의 제단이 보였다.
+    ja: |-
+      ホコリが積もった室内に、
+      おごそかな気配のただよう祭壇がある
+  event_wisdomspring_04_s_16:
+    speaker: "<Self>"
+    en: What's this?
+    ko: 여긴….
+    ja: ここは…？
+  event_wisdomspring_04_s_17:
+    speaker: mana
+    en: A prayer room.
+    ko: 기도실입니다.
+    ja: 祈祷室ですね。
+  event_wisdomspring_04_s_18:
+    speaker: "<Self>"
+    en: A prayer room?
+    ko: 기도실…?
+    ja: 祈祷室…？
+  event_wisdomspring_04_s_19:
+    speaker: mana
+    en: Yes. A space for religious worship.
+    ko: 예. 종교적인 의미의 기도하는 공간이 맞습니다.
+    ja: |-
+      ええ。いわゆる宗教的な、
+      信仰上の祈りを捧げる場所です。
+  event_wisdomspring_04_s_20:
+    speaker: "<Self>"
+    en: What's a place like this doing here?
+    ko: 왜 이런 공간이 여기에….
+    ja: なぜそんなものがここに…？
+  event_wisdomspring_04_s_21:
+    speaker: mana
+    en: The organization which preceded M.M.R has religious ties, so they created
+      this space.
+    ko: |-
+      M.M.R.의 전신이 되는 단체가 종교적 색채를 띠고 있어서
+      만들어 놓은 공간이라고 하더군요.
+    ja: |-
+      M.M.R.の前身は宗教的な要素を持つ
+      組織だったと聞いています。
+      そのためでしょう。
+  event_wisdomspring_04_s_22:
+    speaker: mana
+    en: It's rarely used now, though.
+    ko: 지금은 많이들 이용하고 있지 않다고 들었습니다.
+    ja: 今はほとんど使われていないようですね。
+  event_wisdomspring_04_s_23:
+    speaker: mana
+    en: That might explain the dust.
+    ko: 그래서인지… 먼지가 좀 많군요.
+    ja: 何と言っても…これだけのホコリの被り方です。
+  event_wisdomspring_04_s_24:
+    speaker: "<Self>"
+    en: Mmm.
+    ko: "…그렇네."
+    ja: "…そうだな"
+  event_wisdomspring_04_s_25:
+    speaker: "<Monologue>"
+    en: Mana begins to inspect the prayer room.
+    ko: 마나가 기도실 이곳저곳을 돌아다니기 시작했다.
+    ja: マナが祈祷室の中を調べ始めた
+  event_wisdomspring_04_s_26:
+    speaker: mana
+    en: Hmm...
+    ko: 음….
+    ja: ふーむ…
+  event_wisdomspring_04_s_27:
+    speaker: mana
+    en: Nothing here either.
+    ko: 여기도 없군요.
+    ja: めぼしいものはありませんね。
+  event_wisdomspring_04_s_28:
+    speaker: mana
+    en: Let's keep moving.
+    ko: 다른 곳으로 가시죠.
+    ja: 他の場所を探しましょう。
+  event_wisdomspring_04_s_29:
+    speaker: "<Self>"
+    en: All right.
+    ko: 그래.
+    ja: ああ
+  event_wisdomspring_04_s_30:
+    speaker: "<Monologue>"
+    en: We leave the prayer room.
+    ko: 기도실이라는 곳에 가보기도 했고.
+    ja: 私たちは祈祷室を出た
+  event_wisdomspring_04_s_31:
+    speaker: "<Narration>"
+    en: "*Creak* *Creaaak*"
+    ko: 끼긱- 끼기긱-
+    ja: ギシ…ギシッ…
+  event_wisdomspring_04_s_32:
+    speaker: mana
+    en: There should be an emergency communication device hidden here somewhere.
+    ko: 이곳에 비상용 통신기가 숨겨져 있다고 들었는데….
+    ja: |-
+      非常用通信機の隠し場所のウワサと言えば、
+      後は…
+  event_wisdomspring_04_s_33:
+    speaker: mana
+    en: Just a moment.
+    ko: 잠시만요.
+    ja: 少々お待ちください。
+  event_wisdomspring_04_s_34:
+    speaker: "<Monologue>"
+    en: Mana starts to press on various points of the wall.
+    ko: 마나가 벽 이곳저곳을 눌러보기 시작했다.
+    ja: マナがあたりの壁を押して回った
+  event_wisdomspring_04_s_35:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_04_s_36:
+    speaker: mana
+    en: Nothing.
+    ko: "…없습니다."
+    ja: "…ありませんね。"
+  event_wisdomspring_04_s_37:
+    speaker: mana
+    en: It's either already been discovered, or it's more unfounded rumors.
+    ko: 이미 발견되어 없어졌거나, 뜬 소문이었던 것 같군요.
+    ja: |-
+      露見してしまったのか、
+      最初からただのほら話だったのか…
+  event_wisdomspring_04_s_38:
+    speaker: "<Monologue>"
+    en: We also try to look for the purported hidden communication device in the corridor.
+    ko: 복도에 숨겨 있다는 통신 기기를 찾아보기도 했다.
+    ja: |-
+      廊下に隠されていると言う
+      通信機器のウワサまで調べもしたが…
+  event_wisdomspring_04_s_39:
+    speaker: "<Narration>"
+    en: Soon after.
+    ko: 잠시 후.
+    ja: しばらくして
+  event_wisdomspring_04_s_40:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_04_s_41:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_04_s_42:
+    speaker: mana
+    en: Not a thing.
+    ko: "…없군요."
+    ja: "…ありません。"
+  event_wisdomspring_04_s_43:
+    speaker: "<Self>"
+    en: Nope.
+    ko: "…그러게."
+    ja: "…そうか"
+  event_wisdomspring_04_s_44:
+    speaker: "<Self>"
+    en: Every possible way of contacting the outside is blocked.
+    ko: 정말 다른 곳과 연락할 수단을 모두 막아놨네.
+    ja: 外と連絡できる手段は全く見つからなかった
+  event_wisdomspring_04_s_45:
+    speaker: mana
+    en: It seems so. This is the first time I've gotten definitive confirmation of
+      that.
+    ko: |-
+      그러게요.
+      저도 이렇게 직접 없다는 것을 확인한 건 처음입니다.
+    ja: |-
+      私も驚いています。
+      ここまで徹底しているとは思いませんでした。
+  event_wisdomspring_04_s_46:
+    speaker: "<Self>"
+    en: "*Sigh*..."
+    ko: "…후우. 그렇구나."
+    ja: "…ふう…そうか…"
+  event_wisdomspring_04_s_47:
+    speaker: "<Monologue>"
+    en: Feeling slightly dizzy, I lean against the wall.
+    ko: 살짝 어지러움을 느끼며, 벽에 기댔다.
+    ja: めまいに耐えきれず、壁にもたれかかった
+  event_wisdomspring_04_s_48:
+    speaker: mana
+    en: Are you all right, Commander?
+    ko: 지휘관.
+    ja: 指揮官…
+  event_wisdomspring_04_s_49:
+    speaker: mana
+    en: Come to think of it, you've looked a bit pale for a while now.
+    ko: 그러고 보니… 아까부터 안색이 많이 좋지 않습니다.
+    ja: 先ほどから…顔色がよくありませんね。
+  event_wisdomspring_04_s_50:
+    speaker: mana
+    en: Is something wrong?
+    ko: 어디 편찮으신 겁니까?
+    ja: 具合が悪いのですか？
+  event_wisdomspring_04_s_51:
+    speaker: "<Self>"
+    en: I'm just a little tired is all.
+    ko: 아니야. 조금 지쳐서 그런가 봐.
+    ja: 大丈夫だ。少し疲れただけだろう
+  event_wisdomspring_04_s_52:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_04_s_53:
+    speaker: "<Self>"
+    en: Don't worry about it.
+    ko: 너무 신경 쓰지 마.
+    ja: 心配するな
+  event_wisdomspring_04_s_54:
+    speaker: "<Self>"
+    en: Right now, we need to look for a way out.
+    ko: 지금은 나갈 방법을 찾아야지.
+    ja: それより、脱出する方法だ
+  event_wisdomspring_04_s_55:
+    speaker: mana
+    en: That's true, but...
+    ko: "…그건 그렇습니다만."
+    ja: "…それはそうですが…"
+  event_wisdomspring_04_s_56:
+    speaker: mana
+    en: Should I ask another lab...?
+    ko: 하아… 다른 연구실에 가서라도 물어봐야 하….
+    ja: こうなれば…研究室の誰かに聞くしか…
+  event_wisdomspring_04_s_57:
+    speaker: mana
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_04_s_58:
+    speaker: "<Self>"
+    en: What is it?
+    ko: 왜 그래?
+    ja: どうした？
+  event_wisdomspring_04_s_59:
+    speaker: mana
+    en: There is one place we haven't checked yet.
+    ko: 아직… 안 가본 곳이 있습니다.
+    ja: まだ…行っていない場所がありました。
+  event_wisdomspring_04_s_60:
+    speaker: mana
+    en: If they haven't removed all the equipment,
+    ko: 그곳에 남은 장비들을 전부 치우지 않았다면….
+    ja: あれがまだ全部片づけられていなければ…
+  event_wisdomspring_04_s_61:
+    speaker: mana
+    en: there might still be a communication device there.
+    ko: 통신 기기가 남아있을지도 모릅니다.
+    ja: 通信機器が残っているかもしれません。
+  event_wisdomspring_04_s_62:
+    speaker: "<Self>"
+    en: Let's go.
+    ko: 가보자.
+    ja: 行ってみよう
+  event_wisdomspring_04_s_63:
+    speaker: mana
+    en: Follow me.
+    ko: 예. 안내하겠습니다.
+    ja: はい。ご案内します。
+  event_wisdomspring_04_s_64:
+    speaker: "<Narration>"
+    en: "*Zing*"
+    ko: 지잉-
+    ja: ウィーン――
+  event_wisdomspring_04_s_65:
+    speaker: mana
+    en: Come in.
+    ko: 들어오십시오.
+    ja: こちらです。
+  event_wisdomspring_04_s_66:
+    speaker: "<Self>"
+    en: Okay.
+    ko: 실례합니다…?
+    ja: この部屋は…？
+  event_wisdomspring_04_s_67:
+    speaker: "<Monologue>"
+    en: I follow Mana
+    ko: 마나를 따라 안으로 들어갔다.
+    ja: マナについて中に入った
+  event_wisdomspring_04_s_68:
+    speaker: "<Monologue>"
+    en: inside an empty lab.
+    ko: 아무도 없는 빈 연구실이 보였다.
+    ja: 誰もいない、空の研究室だ
+  event_wisdomspring_04_s_69:
+    speaker: "<Narration>"
+    en: "*Throb*"
+    ko: 지끈-
+    ja: ズキン――
+  event_wisdomspring_04_s_70:
+    speaker: "<Self>"
+    en: "?!"
+    ko: "?!!"
+    ja: "！！？"
+  event_wisdomspring_04_s_71:
+    speaker: "<Monologue>"
+    en: A sharp pain shoots through my head.
+    ko: 머릿속이 쿡쿡 쑤셔온다.
+    ja: 頭が激しく痛み始めた
+  event_wisdomspring_04_s_72:
+    speaker: "<Self>"
+    en: Urgh!
+    ko: 윽…!
+    ja: くっ…！
+  event_wisdomspring_04_s_73:
+    speaker: "<Monologue>"
+    en: The nausea is even more intense than before.
+    ko: 이전보다 속이 울렁거리는 느낌이다.
+    ja: 強烈な不快感が胃からこみあげてくる
+  event_wisdomspring_04_s_74:
+    speaker: "<Monologue>"
+    en: While trying to ignore my splitting migraine, I once again look ahead.
+    ko: 지끈거리는 두통을 참으며, 다시 앞을 바라보았다.
+    ja: 刺すような頭痛に耐え、もう一度正面を見た
+  event_wisdomspring_04_s_75:
+    speaker: "<Monologue>"
+    en: A small tank stands before us in the otherwise empty lab, as if an experiment
+      had been halted midway.
+    ko: 실험을 멈춘 듯, 아무도 없는 연구실에 빈 수조만 덩그러니 자리하고 있었다.
+    ja: |-
+      無人の研究室に空の実験用ポッドだけがある。
+      実験は途中で投げ出されたような気配だ
+  event_wisdomspring_04_s_76:
+    speaker: "<Monologue>"
+    en: For some reason, I'm getting a sense of déjà vu.
+    ko: 왠지 모르게… 기시감이 든다.
+    ja: そして、どういうわけか…既視感を覚えた
+  event_wisdomspring_04_s_77:
+    speaker: "<Monologue>"
+    en: The tank, filled with a liquid of some kind, seems like it once held something
+      else inside it.
+    ko: 빈 수조 안에 액체가 가득하고, 그 안에 무언가가 있었던 것 같은….
+    ja: |-
+      実験槽は液体で満たされている。
+      その中には何かが入っていたような気がする…
+  event_wisdomspring_04_s_78:
+    speaker: "<Self>"
+    en: Whew...
+    ko: 후우….
+    ja: ぜぇ…はぁ…
+  event_wisdomspring_04_s_79:
+    speaker: "<Monologue>"
+    en: Controlling my breathing, I turn my gaze to the space behind the tank.
+    ko: 호흡을 가다듬은 후 고개를 돌려, 수조 뒤편에 있는 공간을 바라보았다.
+    ja: |-
+      呼吸を整え、首を回し、
+      実験槽の裏側の空間に目をやった
+  event_wisdomspring_04_s_80:
+    speaker: "<Monologue>"
+    en: There is an empty desk.
+    ko: 아무것도 없는 텅 빈 책상이 보였다.
+    ja: 何もない机がある
+  event_wisdomspring_04_s_81:
+    speaker: "<Monologue>"
+    en: Similar to the tank, it feels like there was once a plethora of materials
+      on it, which are now gone.
+    ko: 저 책상 위를 가득 메우고 있던 무언가가 있었던 것 같은 기분이 든다.
+    ja: |-
+      あの机の上には山積みだった何かが
+      あったような気がする
+  event_wisdomspring_04_s_82:
+    speaker: "<Self>"
+    en: Mana.
+    ko: 마나.
+    ja: マナ…
+  event_wisdomspring_04_s_83:
+    speaker: mana
+    en: Yes?
+    ko: 예?
+    ja: はい？
+  event_wisdomspring_04_s_84:
+    speaker: "<Self>"
+    en: What is this place?
+    ko: 여긴… 뭐 하는 곳이야?
+    ja: ここは…何の研究室だ？
+  event_wisdomspring_04_s_85:
+    speaker: mana
+    en: A lab that's fallen into disuse.
+    ko: 지금은 아무도 사용하지 않은 빈 연구실입니다.
+    ja: 今は誰も使っていません。
+  event_wisdomspring_04_s_86:
+    speaker: mana
+    en: Someone I knew used to work here.
+    ko: 아는 사람이 연구실로 사용했던 곳인데,
+    ja: 私の知人が研究室として使っていましたが…
+  event_wisdomspring_04_s_87:
+    speaker: mana
+    en: Knowing her, she may have left behind a communication device to contact the
+      upper levels.
+    ko: |-
+      그 사람이라면 여기에 위로 연락할
+      통신 장치를 만들어 놨을 수도 있어서요.
+    ja: |-
+      あの人なら上と連絡できる
+      通信手段を持っていた可能性があります。
+  event_wisdomspring_04_s_88:
+    speaker: "<Self>"
+    en: "... Yeah?"
+    ko: "…그래?"
+    ja: "…そうなのか？"
+  event_wisdomspring_04_s_89:
+    speaker: mana
+    en: You know her...
+    ko: 지휘관도 아는….
+    ja: 指揮官もご存じの…
+  event_wisdomspring_04_s_90:
+    speaker: "<Monologue>"
+    en: The two of us lock eyes.
+    ko: 마나와 눈이 마주쳤다.
+    ja: マナと目が合った
+  event_wisdomspring_04_s_91:
+    speaker: mana
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_04_s_92:
+    speaker: mana
+    en: Commander, are you okay?
+    ko: "…지휘관. 괜찮으십니까?"
+    ja: "…指揮官、大丈夫ですか？"
+  event_wisdomspring_04_s_93:
+    speaker: mana
+    en: You look worse than before.
+    ko: 아까보다 안색이 더 안 좋아지셨습니다.
+    ja: さっきよりも顔色が悪くなっています。
+  event_wisdomspring_04_s_94:
+    speaker: mana
+    en: Are you sure it's just exhaustion?
+    ko: 정말 지친 것 때문이 맞습니까?
+    ja: 本当にただの疲れですか？
+  event_wisdomspring_04_s_95:
+    speaker: "<Choice>"
+    en: "... I'm fine."
+    ko: "…괜찮아."
+    ja: "…大丈夫だ"
+  event_wisdomspring_04_s_96:
+    speaker: "<Choice>"
+    en: Actually, I don't feel so good.
+    ko: 미안… 몸 상태가 좀 이상한 것 같아.
+    ja: すまない…体の調子がおかしい
+  event_wisdomspring_04_s_97:
+    speaker: mana
+    en: Don't lie to me.
+    ko: 괜찮을 리 없습니다.
+    ja: 私にはそう見えません。
+  event_wisdomspring_04_s_98:
+    speaker: mana
+    en: You're sweating bullets. Be honest with me.
+    ko: 식은땀이 이렇게나 나는데… 솔직히 말씀해 주십시오.
+    ja: ひどい汗です…正直におっしゃってください。
+  event_wisdomspring_04_s_99:
+    speaker: "<Self>"
+    en: Okay, fine. Actually, I don't feel so good.
+    ko: 미안. 몸 상태가 좀 이상한 것 같아.
+    ja: すまない。体の調子がおかしい
+  event_wisdomspring_04_s_100:
+    speaker: mana
+    en: When did it start?
+    ko: 언제부터 이러셨던 건가요?
+    ja: いつからですか？
+  event_wisdomspring_04_s_101:
+    speaker: "<Self>"
+    en: Since I entered the Deep Sector.
+    ko: 심층부에 들어왔을 때부터 그랬어.
+    ja: 深層に来た時からだ
+  event_wisdomspring_04_s_102:
+    speaker: mana
+    en: That was a long time ago!
+    ko: 그럼 오래된 거 아닌가요?
+    ja: もう数時間は経っていますよ？
+  event_wisdomspring_04_s_103:
+    speaker: mana
+    en: Why didn't you tell me earlier?
+    ko: 왜 진작 말씀하지 않으시고…!
+    ja: 早く教えてくださっていれば…！
+  event_wisdomspring_04_s_104:
+    speaker: "<Self>"
+    en: I'm sorry... I was able to manage it for a while,
+    ko: 미안. 정말로 아까까지는 버틸만했는데,
+    ja: |-
+      それはすまないが、
+      さっきまでは耐えられる程度だった
+  event_wisdomspring_04_s_105:
+    speaker: "<Self>"
+    en: but the headache's gotten unbearable since we got into this room.
+    ko: 이상하게 이곳에 들어오니까 두통이 좀 심해졌어.
+    ja: |-
+      なぜかこの部屋に入ってから
+      急激に体調が悪くなった
+  event_wisdomspring_04_s_106:
+    speaker: mana
+    en: This particular lab, you mean?
+    ko: 이 연구실에 들어오고 나서부터요?
+    ja: この研究室に入ってから？
+  event_wisdomspring_04_s_107:
+    speaker: "<Self>"
+    en: Yeah.
+    ko: 응.
+    ja: ああ
+  event_wisdomspring_04_s_108:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_04_s_109:
+    speaker: "<Self>"
+    en: I'm also getting a feeling of déjà vu for some reason.
+    ko: 왠지는 모르겠는데 이상하게 기시감이 들어서….
+    ja: しかも、なぜか見覚えがある…
+  event_wisdomspring_04_s_110:
+    speaker: mana
+    en: Déjà vu?
+    ko: 기시감이… 든다고요?
+    ja: 見覚え…ですか？
+  event_wisdomspring_04_s_111:
+    speaker: mana
+    en: Here?
+    ko: "…여기서?"
+    ja: "…ここに？"
+  event_wisdomspring_04_s_112:
+    speaker: "<Narration>"
+    en: "*Throb*"
+    ko: 지끈-
+    ja: ズキン――
+  event_wisdomspring_04_s_113:
+    speaker: "<Self>"
+    en: Honestly, maybe I do, maybe I don't.
+    ko: 사실 잘 모르겠어.
+    ja: 何が何だか分からない
+  event_wisdomspring_04_s_114:
+    speaker: "<Self>"
+    en: My head is killing me. I can barely think straight.
+    ko: 지금은 머리가 너무… 아파서.
+    ja: 今はとにかく、頭が痛すぎる…
+  event_wisdomspring_04_s_115:
+    speaker: mana
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_04_s_116:
+    speaker: mana
+    en: Rest here for a moment.
+    ko: 죄송합니다. 잠시만 여기서 쉬고 계시겠습니까?
+    ja: |-
+      申し訳ありませんが、
+      少しだけここで休んでいてください。
+  event_wisdomspring_04_s_117:
+    speaker: mana
+    en: I'll look for the communication device myself.
+    ko: 통신 기기는 저 혼자 찾아보고 오겠습니다.
+    ja: あとは私が探します。
+  event_wisdomspring_04_s_118:
+    speaker: "<Self>"
+    en: All right...
+    ko: "…부탁할게."
+    ja: "…頼む"
+  event_wisdomspring_04_s_119:
+    speaker: "<Monologue>"
+    en: Mana quickly runs inside the lab.
+    ko: 마나가 서둘러 연구실 안쪽으로 뛰어갔다.
+    ja: マナが急ぎ気味に研究室の奥へ消えた
+  event_wisdomspring_04_s_120:
+    speaker: "<Self>"
+    en: "*Sigh*..."
+    ko: 하아….
+    ja: うぐっ…
+  event_wisdomspring_04_s_121:
+    speaker: "<Monologue>"
+    en: I sit on the edge of a nearby desk in an attempt to mitigate the headache.
+    ko: 두통을 진정시키기 위해, 근처에 있는 책상 위에 걸터 앉았다.
+    ja: |-
+      頭痛を紛らわせようと
+      近くにあった机の上に腰かけた
+  event_wisdomspring_04_s_122:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 툭-
+    ja: カタン…
+  event_wisdomspring_04_s_123:
+    speaker: "<Self>"
+    en: "??"
+    ko: "??"
+    ja: "？？"
+  event_wisdomspring_04_s_124:
+    speaker: "<Monologue>"
+    en: As I sit down, my fingers brush against a tablet.
+    ko: 손끝에 태블릿이 닿았다.
+    ja: 指先にタブレットが触れた
+  event_wisdomspring_04_s_125:
+    speaker: "<Self>"
+    en: What's this?
+    ko: 이건…?
+    ja: これは…？
+  event_wisdomspring_04_s_126:
+    speaker: "<Monologue>"
+    en: I press the power button.
+    ko: 태블릿의 전원을 눌러보았다.
+    ja: タブレットの電源ボタンに指を当てた
+  event_wisdomspring_04_s_127:
+    speaker: "<Self>"
+    en: "...!"
+    ko: "…!!"
+    ja: "…！！"
+  event_wisdomspring_04_s_128:
+    speaker: "<Monologue>"
+    en: The screen actually turns on.
+    ko: 화면이 켜졌다?
+    ja: まだ動くのか？
+  event_wisdomspring_04_s_129:
+    speaker: "<Narration>"
+    en: PROJECT. A.D.
+    ko: "[PROJECT. A.D.]"
+    ja: "「PROJECT. A.D.」"
+  event_wisdomspring_04_s_130:
+    speaker: "<Narration>"
+    en: "*Pop*"
+    ko: 팟-
+    ja: パッ…
+  event_wisdomspring_04_s_131:
+    speaker: "<Monologue>"
+    en: Just as quickly as it turned on, the screen abruptly turns off.
+    ko: 방전된 듯 갑자기 화면이 꺼졌다.
+    ja: 充電が切れていたのか、画面はすぐに消えた
+  event_wisdomspring_04_s_132:
+    speaker: "<Self>"
+    en: Project A.D.?
+    ko: "[PROJECT. A.D.]…?"
+    ja: "「プロジェクトA.D.」…？"
+  event_wisdomspring_04_s_133:
+    speaker: "<Narration>"
+    en: "*Throb*"
+    ko: 지끈-
+    ja: ズキン――
+  event_wisdomspring_04_s_134:
+    speaker: "<Self>"
+    en: Urgh!
+    ko: 윽…!
+    ja: うぐっ…！
+  event_wisdomspring_04_s_135:
+    speaker: "<Monologue>"
+    en: The headache intensifies.
+    ko: 두통이 심해졌다.
+    ja: 頭痛が激しさを増した
+  event_wisdomspring_04_s_136:
+    speaker: "<Narration>"
+    en: "*Beeep*"
+    ko: 삐이이-
+    ja: キーン…
+  event_wisdomspring_04_s_137:
+    speaker: unknown
+    en: Enhancing the human body through technological advancement...
+    ko: "[인간의 신체 강화를 목표로….]"
+    ja: "「人体の強化のため…」"
+  event_wisdomspring_04_s_138:
+    speaker: unknown
+    en: A new... purpose...!
+    ko: "[새로운… 를…!]"
+    ja: "「新たな……を…！」"
+  event_wisdomspring_04_s_139:
+    speaker: "<Narration>"
+    en: "*Beeeeeep*"
+    ko: 삐이이이이-
+    ja: キーン――
+  event_wisdomspring_04_s_140:
+    speaker: "<Self>"
+    en: Aaargh!
+    ko: 끄윽…!
+    ja: ううっ…！
+  event_wisdomspring_04_s_141:
+    speaker: "<Narration>"
+    en: "*Thud*"
+    ko: 털썩-
+    ja: ドサッ――
+  event_wisdomspring_04_s_142:
+    speaker: "<Monologue>"
+    en: The pain becomes unbearable, and everything goes black.
+    ko: 심한 두통을 느끼며 눈앞이 검게 물들었다.
+    ja: |-
+      すさまじい頭痛とともに
+      私の視界は暗転した
+event_wisdomspring_04_e:
+  event_wisdomspring_04_e_1:
+    speaker: "<Narration>"
+    en: "*Blurb blurb*"
+    ko: 보글보글-
+    ja: ゴポ…
+  event_wisdomspring_04_e_2:
+    speaker: "<Monologue>"
+    en: My body feels like it weighs a ton.
+    ko: 몸이 무겁다.
+    ja: 身体が重い
+  event_wisdomspring_04_e_3:
+    speaker: "<Monologue>"
+    en: My arms and legs refuse to move.
+    ko: 팔 다리가 마음대로 움직여지지 않는다.
+    ja: 腕も足も動かない
+  event_wisdomspring_04_e_4:
+    speaker: "<Monologue>"
+    en: I feel stifled. I attempt to move the tip of my fingers.
+    ko: 답답한 느낌에, 손끝만이라도 움직여 보았다.
+    ja: せま苦しさを感じ、指先を動かそうとした
+  event_wisdomspring_04_e_5:
+    speaker: familiarvoice
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_04_e_6:
+    speaker: familiarvoice
+    en: Subject is moving.
+    ko: 방금… 움직….
+    ja: 今…動い…
+  event_wisdomspring_04_e_7:
+    speaker: "<Monologue>"
+    en: I can hear a familiar voice.
+    ko: 익숙한 목소리가 들려왔다.
+    ja: 聞き覚えのある声がした
+  event_wisdomspring_04_e_8:
+    speaker: anothervoice
+    en: Hmm?
+    ko: "…음? 그렇…."
+    ja: "…れは？つまり…"
+  event_wisdomspring_04_e_9:
+    speaker: "<Monologue>"
+    en: Another familiar voice can be heard.
+    ko: 또 다른 익숙한 목소리도 들려왔다.
+    ja: 別の誰かの声が聞こえた
+  event_wisdomspring_04_e_10:
+    speaker: familiarvoice
+    en: Is he one of the subjects for the project?
+    ko: 이분도 그 [프로젝트] 대상자인 거지?
+    ja: この人も対象者ということ？
+  event_wisdomspring_04_e_11:
+    speaker: anothervoice
+    en: Yes.
+    ko: 응. 그 [프로젝트]야.
+    ja: うん。そう。
+  event_wisdomspring_04_e_12:
+    speaker: "<Monologue>"
+    en: I open my eyelids with a crack.
+    ko: 눈을 살짝 떠 보았다.
+    ja: 目をわずかに開いた
+  event_wisdomspring_04_e_13:
+    speaker: mana
+    en: Ether.
+    ko: "…에테르."
+    ja: "…エーテル…"
+  event_wisdomspring_04_e_14:
+    speaker: mana
+    en: Will you have the results for this subject soon?
+    ko: 이분도 이제 곧 결과가 나오는 거야?
+    ja: 結果が出るのは？
+  event_wisdomspring_04_e_15:
+    speaker: ether
+    en: Most likely.
+    ko: 그렇겠지?
+    ja: もうすぐじゃない？
+  event_wisdomspring_04_e_16:
+    speaker: ether
+    en: The deadline is approaching.
+    ko: 기한이 다 되어가니까.
+    ja: 期限が迫ってるしね。
+  event_wisdomspring_04_e_17:
+    speaker: "<Monologue>"
+    en: Mana looks in my direction.
+    ko: 마나가 이쪽을 바라보았다.
+    ja: マナの目がこちらを向いた
+  event_wisdomspring_04_e_18:
+    speaker: mana
+    en: Do you think it will succeed this time?
+    ko: "…네가 보기에, 이번엔 성공할 것 같아?"
+    ja: "…今度はうまくいきそう？"
+  event_wisdomspring_04_e_19:
+    speaker: ether
+    en: Hmm...
+    ko: 음. 글쎄~
+    ja: う～ん。どうかな～
+  event_wisdomspring_04_e_20:
+    speaker: "<Monologue>"
+    en: Ether then glances towards me.
+    ko: 에테르가 이쪽을 바라보았다.
+    ja: エーテルの目がこちらを見た
+  event_wisdomspring_04_e_21:
+    speaker: ether
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_04_e_22:
+    speaker: ether
+    en: Not sure.
+    ko: 모르지.
+    ja: 分かんないね。
+  event_wisdomspring_04_e_23:
+    speaker: ether
+    en: None of the past cases have been successful.
+    ko: 아직까지 성공한 사례는 없으니까.
+    ja: まだ成功例がないもの。
+  event_wisdomspring_04_e_24:
+    speaker: "<Narration>"
+    en: "*Blurb blurb*"
+    ko: 보글보글-
+    ja: ゴポ…
+  event_wisdomspring_04_e_25:
+    speaker: mana
+    en: If this one fails too, the project might be terminated, won't it?
+    ko: 이번에도 실패하면 프로젝트는 폐기… 될지도 모른다고 했었지.
+    ja: |-
+      今度も失敗したら、プロジェクト自体が…
+      中止になりそうって聞いたけど？
+  event_wisdomspring_04_e_26:
+    speaker: ether
+    en: For someone who isn't part of the project, you remember an awful lot.
+    ko: 와. 남의 팀 프로젝트인데 잘 기억하고 있네?
+    ja: |-
+      わ～、よそのチームのプロジェクトなのに、
+      よく知ってるわね？
+  event_wisdomspring_04_e_27:
+    speaker: mana
+    en: Thanks to this new and improved body, I remember everything.
+    ko: 이런 육체를 가지게 되었으니까.
+    ja: こんな身体になったおかげね。
+  event_wisdomspring_04_e_28:
+    speaker: ether
+    en: Haha, fair point.
+    ko: 하하. 그렇네.
+    ja: あはは。まったくね。
+  event_wisdomspring_04_e_29:
+    speaker: ether
+    en: Since becoming Nikkes, neither of us has forgotten anything important.
+    ko: "우리 둘 다 니케가 되었으니, \n확실히 중요한 걸 안 까먹을 수 있게 돼서 좋네."
+    ja: |-
+      あなたも私もニケになってから
+      大事なことを忘れなくなってラクだわ。
+  event_wisdomspring_04_e_30:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_04_e_31:
+    speaker: ether
+    en: Don't look so grim.
+    ko: 너무 그렇게 얼굴 굳히지 마.
+    ja: そんな深刻そうな顔しないでよ。
+  event_wisdomspring_04_e_32:
+    speaker: ether
+    en: This is just a hunch,
+    ko: 이건 그냥 내 감인데.
+    ja: 単なる私の直感だけど…
+  event_wisdomspring_04_e_33:
+    speaker: ether
+    en: but I feel like this attempt will be a success.
+    ko: 이번에는 성공할 거 같아.
+    ja: 今回は成功する気がしてるの。
+  event_wisdomspring_04_e_34:
+    speaker: mana
+    en: A hunch?
+    ko: 감이라….
+    ja: 直感…
+  event_wisdomspring_04_e_35:
+    speaker: mana
+    en: That's rather unscientific of you to say.
+    ko: 너치고는 꽤 비과학적인 이야기를 하네.
+    ja: 非科学的ね、あなたらしくもない。
+  event_wisdomspring_04_e_36:
+    speaker: ether
+    en: Achieving success in your research doesn't always depend on science alone.
+    ko: 연구의 성공 여부는 과학만으로 좌지우지할 수 없을 때도 있잖아?
+    ja: |-
+      研究が成功するかどうかは
+      科学だけじゃ分からないこともあるでしょ？
+  event_wisdomspring_04_e_37:
+    speaker: ether
+    en: It's just hope on my end.
+    ko: 뭐, 그냥 그러길 바라는 거지.
+    ja: ま、そうなって欲しいって願望。
+  event_wisdomspring_04_e_38:
+    speaker: ether
+    en: I've grown far more invested in this than I thought I would.
+    ko: 나도 보다 보니까 꽤 정이 든 것 같아서.
+    ja: 私も知らないうちに情が移っちゃったみたい。
+  event_wisdomspring_04_e_39:
+    speaker: mana
+    en: My only hope is...
+    ko: "…폐기."
+    ja: "…廃棄処分…"
+  event_wisdomspring_04_e_40:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_04_e_41:
+    speaker: "<Monologue>"
+    en: Mana reaches her hand out towards me.
+    ko: 마나가 이쪽을 향해 손을 뻗어왔다.
+    ja: マナの手がこちらに伸びた
+  event_wisdomspring_04_e_42:
+    speaker: mana
+    en: that we don't have to terminate.
+    ko: "…그렇게 되지 않았으면 좋겠네."
+    ja: "…ならないといいわね。"
+  event_wisdomspring_04_e_43:
+    speaker: mana
+    en: Commander?
+    ko: 지휘관?
+    ja: 指揮官？
+  event_wisdomspring_04_e_44:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  event_wisdomspring_04_e_45:
+    speaker: "<Self>"
+    en: What... what is this place...
+    ko: 여긴… 대체….
+    ja: 私は…何を…
+event_wisdomspring_05_s:
+  event_wisdomspring_05_s_1:
+    speaker: mana
+    en: Commander!
+    ko: 지휘관!
+    ja: "――指揮官！"
+  event_wisdomspring_05_s_2:
+    speaker: "<Self>"
+    en: Ugh...
+    ko: 으윽….
+    ja: ううっ…
+  event_wisdomspring_05_s_3:
+    speaker: "<Self>"
+    en: "... Mana?"
+    ko: 마… 나?
+    ja: マ…ナ？
+  event_wisdomspring_05_s_4:
+    speaker: mana
+    en: Are you feeling okay?
+    ko: 몸은 괜찮으십니까?
+    ja: 大丈夫ですか？
+  event_wisdomspring_05_s_5:
+    speaker: "<Self>"
+    en: Of course, I'm fin...?!
+    ko: 당연히 괜찮…?!
+    ja: このとおりだ…っ！？
+  event_wisdomspring_05_s_6:
+    speaker: "<Monologue>"
+    en: The moment I try to sit up...
+    ko: 몸을 일으키려는 순간,
+    ja: 体を起こそうとした瞬間…
+  event_wisdomspring_05_s_7:
+    speaker: "<Self>"
+    en: Urgh!
+    ko: 윽…!
+    ja: うぐっ…！
+  event_wisdomspring_05_s_8:
+    speaker: "<Monologue>"
+    en: A searing migraine begins to set in.
+    ko: 갑작스럽게 두통이 일기 시작했다.
+    ja: 頭に痛みが走った
+  event_wisdomspring_05_s_9:
+    speaker: mana
+    en: Are you okay, Commander?
+    ko: 지휘관?
+    ja: 指揮官？
+  event_wisdomspring_05_s_10:
+    speaker: "<Self>"
+    en: My head...
+    ko: 머리가…!
+    ja: 頭が…！
+  event_wisdomspring_05_s_11:
+    speaker: mana
+    en: Take a deep breath.
+    ko: 숨을 깊게 들이 마셔보세요.
+    ja: 息を深く吸ってください。
+  event_wisdomspring_05_s_12:
+    speaker: "<Monologue>"
+    en: I follow Mana's advice.
+    ko: 마나의 말에 따라, 숨을 깊게 들이마셨다.
+    ja: マナに言われるがまま、息を深く吸った
+  event_wisdomspring_05_s_13:
+    speaker: mana
+    en: Now slowly exhale.
+    ko: 천천히 내쉬어 보세요.
+    ja: ゆっくりと吐き出してください。
+  event_wisdomspring_05_s_14:
+    speaker: "<Monologue>"
+    en: I exhale slowly.
+    ko: 숨을 천천히 내쉬었다.
+    ja: 息をゆっくりと吐き出した
+  event_wisdomspring_05_s_15:
+    speaker: "<Monologue>"
+    en: After repeating this several times, my head feels slightly less painful.
+    ko: 몇 번을 반복하자, 조금 진정되는 느낌이다.
+    ja: 何度か深呼吸を繰り返し、少し落ち着いた
+  event_wisdomspring_05_s_16:
+    speaker: mana
+    en: Are you feeling better now?
+    ko: 이제 좀 괜찮아지셨습니까?
+    ja: 楽になりましたか？
+  event_wisdomspring_05_s_17:
+    speaker: "<Self>"
+    en: Yeah, thanks.
+    ko: "…응. 고마워."
+    ja: "…ああ、ありがとう"
+  event_wisdomspring_05_s_18:
+    speaker: "<Monologue>"
+    en: After coming more or less to my senses, I look around.
+    ko: 숨을 고른 후, 주변을 둘러보았다.
+    ja: 息を整え、周囲を見た
+  event_wisdomspring_05_s_19:
+    speaker: "<Self>"
+    en: Where am I?
+    ko: 여긴….
+    ja: ここは…
+  event_wisdomspring_05_s_20:
+    speaker: mana
+    en: The M.M.R. research lab.
+    ko: M.M.R. 연구소입니다.
+    ja: M.M.R.研究所です。
+  event_wisdomspring_05_s_21:
+    speaker: mana
+    en: Don't you remember?
+    ko: 기억나지 않으십니까?
+    ja: 覚えていらっしゃらないのですか？
+  event_wisdomspring_05_s_22:
+    speaker: "<Self>"
+    en: What am I doing here?
+    ko: 내가 여기에 왜….
+    ja: なぜ私がここに…
+  event_wisdomspring_05_s_23:
+    speaker: "<Monologue>"
+    en: I can't remember a thing. Perhaps my headache has something to do with it.
+    ko: 두통 때문인지 생각이 나지 않아서,
+    ja: 頭痛が記憶をさまたげる
+  event_wisdomspring_05_s_24:
+    speaker: "<Monologue>"
+    en: I close my eyes and sift through my thoughts.
+    ko: 생각을 정리하기 위해 눈을 감았다.
+    ja: 私は思考を整理するため、目を閉じ…
+  event_wisdomspring_05_s_25:
+    speaker: mana
+    en: Are you feeling calmer now?
+    ko: 이제… 좀 진정되십니까?
+    ja: ご気分はいかがですか？
+  event_wisdomspring_05_s_26:
+    speaker: "<Monologue>"
+    en: As I listen to Mana's voice, I recall everything that's happened so far.
+    ko: 마나의 목소리를 들으며 지금까지의 기억을 떠올렸다.
+    ja: |-
+      マナの声を聞きながら
+      今までの記憶をたどりはじめた
+  event_wisdomspring_05_s_27:
+    speaker: "<Self>"
+    en: I had... some sort of dream.
+    ko: 꿈을… 꿨어.
+    ja: 夢を…見ていた
+  event_wisdomspring_05_s_28:
+    speaker: mana
+    en: Sorry?
+    ko: 예?
+    ja: はい？
+  event_wisdomspring_05_s_29:
+    speaker: "<Choice>"
+    en: There were bubbles...
+    ko: 보글보글 거리는… 꿈.
+    ja: 水の中にいるような夢を見た
+  event_wisdomspring_05_s_30:
+    speaker: "<Choice>"
+    en: You and Ether were in it.
+    ko: 마나와 에테르가 나오는 꿈.
+    ja: マナとエーテルを夢で見た
+  event_wisdomspring_05_s_31:
+    speaker: mana
+    en: Bubbles?
+    ko: 보글보글?
+    ja: 水の中？
+  event_wisdomspring_05_s_32:
+    speaker: mana
+    en: Did you dream about drowning?
+    ko: 물에 빠지는 꿈이라도 꾸신 건가요?
+    ja: おぼれる夢でも見たのですか？
+  event_wisdomspring_05_s_33:
+    speaker: "<Self>"
+    en: I was underwater, and you and Ether were above me, staring down.
+    ko: 마나와 에테르가 물속에 있는 날 보고 있었어.
+    ja: マナとエーテルが液体の中に浮かぶ私を見ていた
+  event_wisdomspring_05_s_34:
+    speaker: mana
+    en: Me and Ether?
+    ko: 저와 에테르가요?
+    ja: 私とエーテルですか？
+  event_wisdomspring_05_s_35:
+    speaker: mana
+    en: Maybe you dreamt that because you want to leave this place.
+    ko: 여기서 나가고 싶다는 마음에 그런 꿈을 꾸신 게….
+    ja: |-
+      ここから出ようとあせっているから、
+      そんな夢を見たのでしょうか…
+  event_wisdomspring_05_s_36:
+    speaker: "<Self>"
+    en: You two were staring at me, talking about how you hoped I'd be a success.
+    ko: 날 보고 성공… 했으면 좋겠다고 했어.
+    ja: 私を見ながら…成功がどうのと言っていた
+  event_wisdomspring_05_s_37:
+    speaker: mana
+    en: "... Sorry?"
+    ko: "…예?"
+    ja: "…はい？"
+  event_wisdomspring_05_s_38:
+    speaker: "<Self>"
+    en: You also mentioned some kind of project...
+    ko: 무슨 프로젝트에 대한 이야기를 하고 있었는데….
+    ja: プロジェクトがどうとか…
+  event_wisdomspring_05_s_39:
+    speaker: mana
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_05_s_40:
+    speaker: "<Self>"
+    en: Urgh!
+    ko: 윽!
+    ja: うっ！
+  event_wisdomspring_05_s_41:
+    speaker: "<Monologue>"
+    en: The headache is debilitating.
+    ko: 머리가 너무 아프다.
+    ja: 頭痛に耐えられなくなった
+  event_wisdomspring_05_s_42:
+    speaker: mana
+    en: Commander.
+    ko: 지휘관.
+    ja: 指揮官。
+  event_wisdomspring_05_s_43:
+    speaker: mana
+    en: I think it'd be good for you to stop thinking so much. Get some rest, then
+      try and move around.
+    ko: "그만 생각하고, \n일단 좀 쉬고 움직이는 게 좋을 거 같습니다."
+    ja: |-
+      今は何も考えずに、
+      少しお休みになった方がいいと思います。
+  event_wisdomspring_05_s_44:
+    speaker: mana
+    en: You're sweating like crazy.
+    ko: 식은땀이 너무 심해요.
+    ja: ひどい汗です。
+  event_wisdomspring_05_s_45:
+    speaker: "<Self>"
+    en: Whew...
+    ko: "…후우."
+    ja: "…ぜぇ…はぁ…"
+  event_wisdomspring_05_s_46:
+    speaker: mana
+    en: Why don't you try getting up first?
+    ko: 일단 일어나시죠.
+    ja: とにかく、場所を変えましょう。
+  event_wisdomspring_05_s_47:
+    speaker: mana
+    en: The floor is too cold. It'd be best to move somewhere warmer.
+    ko: 바닥이 너무 차니까, 따뜻한 곳으로라도 가는 게 좋을 거 같습니다.
+    ja: |-
+      床で寝ていると体が冷えてしまいます。
+      あたたかい場所へ行かなくては。
+  event_wisdomspring_05_s_48:
+    speaker: mana
+    en: Let me help y...
+    ko: 잠시만 몸을….
+    ja: ゆっくりでいいので、起き…
+  event_wisdomspring_05_s_49:
+    speaker: "<Narration>"
+    en: "*Clench*"
+    ko: 덥석.
+    ja: ガシッ
+  event_wisdomspring_05_s_50:
+    speaker: "<Monologue>"
+    en: I grab ahold of Mana's arm.
+    ko: 마나의 팔을 붙잡았다.
+    ja: マナの腕をつかんだ
+  event_wisdomspring_05_s_51:
+    speaker: "<Self>"
+    en: I have something to ask.
+    ko: 묻고 싶은 것이 있어.
+    ja: 聞きたいことがある
+  event_wisdomspring_05_s_52:
+    speaker: mana
+    en: Yes?
+    ko: 지휘관?
+    ja: なんでしょうか、指揮官？
+  event_wisdomspring_05_s_53:
+    speaker: "<Self>"
+    en: Have we met before?
+    ko: 예전에 나와 만난 적이 있어?
+    ja: 前に、私と会ったことがあるか？
+event_wisdomspring_05_e:
+  event_wisdomspring_05_e_1:
+    speaker: mana
+    en: What do you mean? I don't understand.
+    ko: 예전이라니, 무슨 말씀이신지 모르겠습니다.
+    ja: 前に？どういうことか分かりません。
+  event_wisdomspring_05_e_2:
+    speaker: "<Self>"
+    en: I don't think I was dreaming.
+    ko: 내가 꾼 꿈이 단순한 꿈이 아닌 것 같아서.
+    ja: あれはただの夢ではなかった気がする
+  event_wisdomspring_05_e_3:
+    speaker: mana
+    en: That can't be.
+    ko: 그럴 리가요.
+    ja: そんなはずがありませんよ。
+  event_wisdomspring_05_e_4:
+    speaker: mana
+    en: How can a dream be real?
+    ko: 꿈은 꿈일 뿐입니다.
+    ja: 夢は夢にすぎません。
+  event_wisdomspring_05_e_5:
+    speaker: "<Self>"
+    en: The things I heard... they were too vivid.
+    ko: 그렇다기엔 들었던 말들이 너무… 생생한데.
+    ja: ただの夢にしてはあまりにも…現実的だった
+  event_wisdomspring_05_e_6:
+    speaker: mana
+    en: You probably feel that way since you're unwell.
+    ko: 지금 몸이 좋지 않아서 더 그렇게 느끼시는 걸 겁니다.
+    ja: |-
+      お体の具合が悪いので、
+      余計にそう思ってしまっているだけでしょう。
+  event_wisdomspring_05_e_7:
+    speaker: "<Monologue>"
+    en: Mana appears overly eager to wrap up the conversation.
+    ko: "…마나가 서둘러 이야기를 마무리하려 하고 있다."
+    ja: |-
+      …マナは一刻も早く
+      会話を終わらせようとしている
+  event_wisdomspring_05_e_8:
+    speaker: "<Monologue>"
+    en: She seems to be hiding something,
+    ko: 무언가를 숨기고 있는 것 같은데….
+    ja: 何かを隠しているのか…
+  event_wisdomspring_05_e_9:
+    speaker: "<Monologue>"
+    en: but what could it be?
+    ko: 그게 뭐지?
+    ja: 一体どういうことだ？
+  event_wisdomspring_05_e_10:
+    speaker: mana
+    en: First off, let's get out of here.
+    ko: 일단 여길 나가시죠.
+    ja: とにかく、ここを出ましょう。
+  event_wisdomspring_05_e_11:
+    speaker: "<Monologue>"
+    en: The headache and dizziness I experienced immediately after arriving in the
+      Deep Sector.
+    ko: 심층부에 내려오고 나서부터 느꼈던 두통과 어지러움.
+    ja: ここに下りてきてから続いている頭痛とめまい
+  event_wisdomspring_05_e_12:
+    speaker: "<Monologue>"
+    en: The strange familiarity of these surroundings.
+    ko: 이상하리만큼 익숙한 풍경이라는 감각.
+    ja: 異常なほど強い既視感のある光景
+  event_wisdomspring_05_e_13:
+    speaker: "<Monologue>"
+    en: The dream with Mana and Ether.
+    ko: 마나와 에테르가 나오던 꿈.
+    ja: 夢に出てきたマナとエーテルの会話
+  event_wisdomspring_05_e_14:
+    speaker: "<Monologue>"
+    en: The feeling of being underwater, unable to move.
+    ko: 손가락 하나 쉽게 움직일 수 없었던 물속.
+    ja: 指もほとんど動かせない状態で浮かんでいた液体
+  event_wisdomspring_05_e_15:
+    speaker: "<Monologue>"
+    en: The "project" they mentioned
+    ko: 성공하지 못하면 폐기될 거라고 말하던 [프로젝트].
+    ja: 失敗すれば廃棄処分される「プロジェクト」
+  event_wisdomspring_05_e_16:
+    speaker: "<Monologue>"
+    en: that would be terminated if I "failed".
+    ko: "…[프로젝트]?"
+    ja: "…「プロジェクト」？"
+  event_wisdomspring_05_e_17:
+    speaker: mana
+    en: It would be best to head outside before trying to process all of this.
+    ko: 나가서 생각하는 게 좋을 것 같습니다.
+    ja: 考えるのは外に出てからの方がいいかと。
+  event_wisdomspring_05_e_18:
+    speaker: "<Self>"
+    en: "... Okay."
+    ko: "…그래."
+    ja: "…そうだな"
+  event_wisdomspring_05_e_19:
+    speaker: "<Monologue>"
+    en: As I stand up to follow Mana,
+    ko: 마나를 따라 자리에 일어나려다,
+    ja: マナにうながされ、体を起こした
+  event_wisdomspring_05_e_20:
+    speaker: "<Narration>"
+    en: "*Clatter*"
+    ko: 달그락-
+    ja: カタン…
+  event_wisdomspring_05_e_21:
+    speaker: "<Monologue>"
+    en: my fingertips bump into a tablet.
+    ko: 손끝에 태블릿이 걸렸다.
+    ja: 指先がタブレットに触れた
+  event_wisdomspring_05_e_22:
+    speaker: "<Monologue>"
+    en: I saw something on this tablet before I collapsed. What was it?
+    ko: 쓰러지기 전, 이 태블릿에서 뭘 봤었지?
+    ja: 気を失う前、私はこのタブレットで何を見た？
+  event_wisdomspring_05_e_23:
+    speaker: mana
+    en: Why don't you rest in the prayer room? I'll search on my own for some way
+      to reach the outside.
+    ko: |-
+      우선, 기도실에라도 가 계시죠.
+      통신 쪽은 제가 혼자 찾아보겠….
+    ja: |-
+      ひとまず祈祷室に身を隠してください。
+      脱出方法の件は私が一人で探し――
+  event_wisdomspring_05_e_24:
+    speaker: "<Monologue>"
+    en: I look around again.
+    ko: 다시 주변을 둘러보았다.
+    ja: もう一度あたりを見回した
+  event_wisdomspring_05_e_25:
+    speaker: "<Monologue>"
+    en: Before me is a tank filled with liquid,
+    ko: 지금은 아무것도 연구하지 않고 있는 듯 비어있는,
+    ja: 今は中身のない、空の…
+  event_wisdomspring_05_e_26:
+    speaker: "<Monologue>"
+    en: big enough to fit a person.
+    ko: "[사람이 들어가 있어도 될 정도]의 크기인 수조가 보였다."
+    ja: |-
+      「人が入っていてもおかしくない大きさ」の
+      実験用ポッド…
+  event_wisdomspring_05_e_27:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_05_e_28:
+    speaker: "<Monologue>"
+    en: The familiarity of the lab.
+    ko: 익숙한 연구실.
+    ja: 見覚えのある研究室
+  event_wisdomspring_05_e_29:
+    speaker: "<Monologue>"
+    en: The dream of being submerged in the tank.
+    ko: 물, 아니 수조에 잠겨 있던 꿈.
+    ja: 水中…いや、液体に浮かんでいた夢
+  event_wisdomspring_05_e_30:
+    speaker: "<Monologue>"
+    en: The words written on the tablet...
+    ko: 그리고 태블릿에 적혀 있던….
+    ja: そしてタブレットに表示された…
+  event_wisdomspring_05_e_31:
+    speaker: "<Monologue>"
+    en: PROJECT. A.D.
+    ko: "[PROJECT. A.D.]"
+    ja: "「PROJECT. A.D.」"
+  event_wisdomspring_05_e_32:
+    speaker: neon
+    en: Don't you ever feel that
+    ko: 스승님은 가끔 정말 인간이 아닌 것처럼 느껴질 때가 있다니까요?
+    ja: |-
+      実際、師匠は本当に人間じゃ
+      ないのではないかと感じる時があります。
+  event_wisdomspring_05_e_33:
+    speaker: neon
+    en: there are times when Master doesn't feel human?
+    ko: 아니스는 그렇게 생각하신 적 없어요?
+    ja: アニスも、そう思ったことがあるのでは？
+  event_wisdomspring_05_e_34:
+    speaker: anis
+    en: I wish I could say otherwise, but...
+    ko: 뭐 그런 말을 하냐고 하고 싶은데….
+    ja: はぁ？って言いたいところだけど…
+  event_wisdomspring_05_e_35:
+    speaker: anis
+    en: there have been times when I thought the Commander recovered unusually fast
+      from injuries.
+    ko: 나도 가끔… 이상할 정도로 회복력이 빠르다고 생각은 했어.
+    ja: |-
+      たまにね…ケガの回復がヘンに早いなって
+      思うことはあるわ。
+  event_wisdomspring_05_e_36:
+    speaker: rapi
+    en: You're right... but surely it's better than taking ages to recover from injuries?
+    ko: 상처가 오래 남는 것보단 좋다고 생각… 합니다.
+    ja: 負傷が長引かないのは…良いことかと思います。
+  event_wisdomspring_05_e_37:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_38:
+    speaker: mana
+    en: Commander? Is something wrong?
+    ko: 지휘관, 왜 그러시는….
+    ja: 指揮官、どうされました…？
+  event_wisdomspring_05_e_39:
+    speaker: "<Self>"
+    en: There was a project conducted in this lab, wasn't there?
+    ko: 마나. 예전에 이 연구실에서 연구하던 프로젝트가 있었지?
+    ja: |-
+      マナ…昔はこの研究室でも
+      何かの研究をしていたのだろう？
+  event_wisdomspring_05_e_40:
+    speaker: mana
+    en: There was.
+    ko: 그랬었죠.
+    ja: それはそうでしょう。
+  event_wisdomspring_05_e_41:
+    speaker: mana
+    en: But why...
+    ko: 그건 왜….
+    ja: ですが、なぜそんなことを…
+  event_wisdomspring_05_e_42:
+    speaker: "<Self>"
+    en: Did the project succeed?
+    ko: 그 프로젝트, 성공했어?
+    ja: そのプロジェクトは、成功したのか？
+  event_wisdomspring_05_e_43:
+    speaker: mana
+    en: Sorry?
+    ko: 예?
+    ja: はい？
+  event_wisdomspring_05_e_44:
+    speaker: "<Self>"
+    en: What was the name of the project?
+    ko: 그 프로젝트 명이 뭐야?
+    ja: プロジェクトの名前は知っているか？
+  event_wisdomspring_05_e_45:
+    speaker: mana
+    en: "..."
+    ko: "…지휘관."
+    ja: "…指揮官？"
+  event_wisdomspring_05_e_46:
+    speaker: "<Self>"
+    en: Was it Project A.D.?
+    ko: "[PROJECT. A.D.]… 맞아?"
+    ja: "「PROJECT. A.D.」…違うか？"
+  event_wisdomspring_05_e_47:
+    speaker: mana
+    en: "!!"
+    ko: "!!"
+    ja: "！？"
+  event_wisdomspring_05_e_48:
+    speaker: mana
+    en: How do you know that name?
+    ko: 그 이름을 지휘관이 어떻게….
+    ja: なぜ指揮官がその名前を…？
+  event_wisdomspring_05_e_49:
+    speaker: "<Self>"
+    en: It was a project to enhance the human body, right?
+    ko: 인간의 신체 강화를 목표로 하는 것… 맞아?
+    ja: |-
+      人体の強化を目標とする計画だった…
+      合っているか？
+  event_wisdomspring_05_e_50:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_51:
+    speaker: "<Self>"
+    en: If that's the case, then there are some things that come to mind.
+    ko: 인간의 신체를 강화하는 프로젝트가 맞으면, 생각나는 게 있어서.
+    ja: もしそうなら、思い当たることがある
+  event_wisdomspring_05_e_52:
+    speaker: "<Self>"
+    en: When I think about it, there are many things about me that seem odd.
+    ko: 나 말이야, 생각해 보니 이상한 점이 많아.
+    ja: |-
+      私自身のことだ、よく考えてみれば
+      おかしなことばかりだ
+  event_wisdomspring_05_e_53:
+    speaker: "<Self>"
+    en: I've carried a fully armed Nikke on my own before,
+    ko: 무장한 니케를 업고 걸어본 적도 있고,
+    ja: 武装したニケを背負って歩いたことがある
+  event_wisdomspring_05_e_54:
+    speaker: "<Self>"
+    en: and fired anti-ship rifles meant for Nikkes, despite having an injured leg.
+    ko: 다리 한 쪽을 다치긴 했어도 니케 용 대함 라이플을 쏴본 적도 있어.
+    ja: |-
+      片脚を負傷したが、
+      ニケ用の対艦ライフルを撃ったこともある
+  event_wisdomspring_05_e_55:
+    speaker: "<Self>"
+    en: No ordinary human could lift that much weight.
+    ko: 보통 그 정도 무게를 평범한 인간이 감당할 수 없대.
+    ja: 普通の人間が耐えられる重さではなかったはずだ
+  event_wisdomspring_05_e_56:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_57:
+    speaker: mana
+    en: Well... you might simply be stronger than most people.
+    ko: 남들보다 더 튼튼한 신체를 가진 걸 수도 있죠.
+    ja: |-
+      普通の人より丈夫な身体を
+      お持ちだったのかもしれません。
+  event_wisdomspring_05_e_58:
+    speaker: "<Self>"
+    en: There's more to it than that. Whenever I'm injured, I heal abnormally fast.
+    ko: "튼튼한 정도가 아니야. \n난 다친 게 너무 빨리 회복돼."
+    ja: |-
+      丈夫なだけじゃない。
+      傷の治りも異常に早かった
+  event_wisdomspring_05_e_59:
+    speaker: mana
+    en: Maybe you just have a faster recovery rate than normal.
+    ko: 남들보다 회복이 빠른 것일 수도 있습니다.
+    ja: そういう体質の人もいるでしょう。
+  event_wisdomspring_05_e_60:
+    speaker: "<Self>"
+    en: No, it's nearly superhuman.
+    ko: 일반 상식을 벗어난 수준이야.
+    ja: だが、常識で説明できる話ではない
+  event_wisdomspring_05_e_61:
+    speaker: mana
+    en: "..."
+    ko: 상식을 벗어났다고요?
+    ja: 常識では説明できない？
+  event_wisdomspring_05_e_62:
+    speaker: "<Self>"
+    en: During operations, I've sustained all manner of injuries,
+    ko: 임무를 하면서 난 수도 없이 많이 다쳤어.
+    ja: 任務遂行中に幾度となく負傷した
+  event_wisdomspring_05_e_63:
+    speaker: "<Self>"
+    en: from minor scuffs to being impaled through the stomach.
+    ko: 작은 상처부터, 배를 뚫리는 치명상도 입었었지.
+    ja: |-
+      かすり傷はもちろん、
+      腹を貫通する致命傷を負ったこともある
+  event_wisdomspring_05_e_64:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_65:
+    speaker: "<Self>"
+    en: Despite sustaining what should be fatal injuries, I've always survived.
+    ko: 그 수많은 치명상들을 입고도 난 늘 살아남았어.
+    ja: |-
+      そんな負傷を数えきれないほど
+      繰り返しているのに、私はまだ生きている
+  event_wisdomspring_05_e_66:
+    speaker: "<Self>"
+    en: In fact, the amount of time I require to heal has steadily decreased over
+      time.
+    ko: 심지어 그런 치명상들이 치유되는 속도도 점점 빨라지고 있지.
+    ja: しかもその傷の回復がだんだん早くなっている
+  event_wisdomspring_05_e_67:
+    speaker: mana
+    en: "... I see."
+    ko: "…그랬군요."
+    ja: "…そうでしたか。"
+  event_wisdomspring_05_e_68:
+    speaker: "<Self>"
+    en: No one with any sense could call that normal.
+    ko: 이건 누가 봐도 [일반적]이 아니잖아?
+    ja: 誰が見ても「普通」ではないだろう？
+  event_wisdomspring_05_e_69:
+    speaker: mana
+    en: You're right. It's certainly unusual.
+    ko: |-
+      그렇네요.
+      이건 확실히 일반적이진 않겠군요.
+    ja: |-
+      そうですね。
+      確かに一般的なことではありません。
+  event_wisdomspring_05_e_70:
+    speaker: mana
+    en: But it's not out of the realm of possibility for
+    ko: 하지만, 세상에 그런 사람이 하나쯤은 있을 수 있습니다.
+    ja: |-
+      ですが、世界にそういう人物が
+      1人ぐらいは存在してもおかしくはないのでは？
+  event_wisdomspring_05_e_71:
+    speaker: mana
+    en: there to be someone in this world
+    ko: 타고나길 튼튼하게 태어나셨을 수 있죠.
+    ja: 生まれつき丈夫な人もいますし…
+  event_wisdomspring_05_e_72:
+    speaker: mana
+    en: naturally born with exceptional strength or healing abilities.
+    ko: 타고나길 회복력이 좋게 태어나셨을 수도 있습니다.
+    ja: 生まれつきケガの回復が早い人もいます。
+  event_wisdomspring_05_e_73:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_74:
+    speaker: mana
+    en: Things are only strange if you think they are.
+    ko: 이상하다고 생각한다면 전부 이상하지만,
+    ja: |-
+      いちど疑い始めると、何もかもおかしく
+      思えてくるものです。
+  event_wisdomspring_05_e_75:
+    speaker: mana
+    en: If you view things as normal, then they're not so strange anymore.
+    ko: 이상하지 않다고 생각하면 전부 이상하지 않을 일입니다.
+    ja: |-
+      しかし疑わずに考えれば、
+      何もおかしくないということもあります。
+  event_wisdomspring_05_e_76:
+    speaker: mana
+    en: So, don't think of it as anything unusual.
+    ko: 그러니 너무 이상한 쪽으로만 생각하지….
+    ja: ですので、深く考えすぎない方が…
+  event_wisdomspring_05_e_77:
+    speaker: "<Self>"
+    en: I recognize this place.
+    ko: 나 여기가 익숙해.
+    ja: この場所も初めてではない気がする
+  event_wisdomspring_05_e_78:
+    speaker: mana
+    en: Sorry?
+    ko: 예?
+    ja: はい？
+  event_wisdomspring_05_e_79:
+    speaker: "<Self>"
+    en: Don't you find that odd?
+    ko: 이상하지 않아?
+    ja: おかしいだろう？
+  event_wisdomspring_05_e_80:
+    speaker: "<Self>"
+    en: That I'm somehow familiar with the inner recesses of M.M.R., despite purportedly
+      having never been here?
+    ko: 여기 처음 와본 내가 M.M.R. 심층부에서 익숙함을 느낀다는 게.
+    ja: |-
+      初めて来たはずのM.M.R.の深層に
+      見覚えがあるなんて
+  event_wisdomspring_05_e_81:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_82:
+    speaker: "<Self>"
+    en: Or am I just overthinking that as well?
+    ko: "이 [감각] 조차, \n내가 이상하게 생각해서 생겨나는 거라고 생각해?"
+    ja: |-
+      この「既視感」も、
+      私が疑っているせいだということか？
+  event_wisdomspring_05_e_83:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_84:
+    speaker: mana
+    en: I'm sorry.
+    ko: 죄송합니다.
+    ja: 申し訳ありませんが…
+  event_wisdomspring_05_e_85:
+    speaker: mana
+    en: You can ask me all the questions you want, but I can't answer any of them.
+    ko: "지휘관께서 아무리 물으셔도, \n전 어떤 것도 대답해 드릴 수 없습니다."
+    ja: |-
+      指揮官が何をお聞きになっても、
+      私には答えて差しあげることができません。
+  event_wisdomspring_05_e_86:
+    speaker: "<Self>"
+    en: Not even one?
+    ko: 어떤 것도?
+    ja: 何にもか？
+  event_wisdomspring_05_e_87:
+    speaker: mana
+    en: No.
+    ko: 예. 어떤 것도요.
+    ja: ええ。どのような質問であってもです。
+  event_wisdomspring_05_e_88:
+    speaker: mana
+    en: I can't tell you anything.
+    ko: 아무것도 말씀드릴 수 없습니다.
+    ja: 私には答えることができません。
+  event_wisdomspring_05_e_89:
+    speaker: mana
+    en: So...
+    ko: 그러니….
+    ja: ですので…
+  event_wisdomspring_05_e_90:
+    speaker: mana
+    en: Please, stop.
+    ko: 지금은 포기하세요.
+    ja: 今は諦めてください。
+  event_wisdomspring_05_e_91:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_92:
+    speaker: "<Self>"
+    en: Then answer me just this one thing, and I'll stop.
+    ko: 그럼 마지막으로 딱… 한 가지만 대답해 줘.
+    ja: |-
+      それなら、これだけでも…
+      最後に1つだけ答えが欲しい
+  event_wisdomspring_05_e_93:
+    speaker: mana
+    en: Yes?
+    ko: 예?
+    ja: はい？
+  event_wisdomspring_05_e_94:
+    speaker: "<Self>"
+    en: Am I human?
+    ko: 나는 인간이야?
+    ja: 私は、人間なのか？
+  event_wisdomspring_05_e_95:
+    speaker: mana
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_05_e_96:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_05_e_97:
+    speaker: mana
+    en: That...
+    ko: 그건….
+    ja: それは…
+  event_wisdomspring_05_e_98:
+    speaker: "<Narration>"
+    en: "*Thump*"
+    ko: 텁-
+    ja: グッ――
+  event_wisdomspring_05_e_99:
+    speaker: "<Monologue>"
+    en: A hand shoots out from behind Mana and covers her mouth.
+    ko: 누군가의 손이 마나의 입을 가로막았다.
+    ja: 誰かの手が伸び、マナの口を塞いだ
+  event_wisdomspring_05_e_100:
+    speaker: jien_unknown
+    en: Sssh.
+    ko: 쉿.
+    ja: シーッ…
+  event_wisdomspring_05_e_101:
+    speaker: jien_unknown
+    en: That's enough questions.
+    ko: 대답은 여까지 하시죠.
+    ja: そこまでにしとき。
+event_wisdomspring_06_s:
+  event_wisdomspring_06_s_1:
+    speaker: jien_unknown
+    en: That was too close for comfort, Mana.
+    ko: 마나 씨. 위험할 뻔했네요~
+    ja: マナさん、危なかったですね～
+  event_wisdomspring_06_s_2:
+    speaker: jien_unknown
+    en: You nearly let the cat out of the bag.
+    ko: 가장 위험한 부분을 말할 뻔하셨어요.
+    ja: もうちょっとで口が滑りすぎるところでした。
+  event_wisdomspring_06_s_3:
+    speaker: jien_unknown
+    en: You should know better than that.
+    ko: 그라면 안 돼요~ 안 돼.
+    ja: 油断は禁物ですよ～？ねぇ？
+  event_wisdomspring_06_s_4:
+    speaker: mana
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_06_s_5:
+    speaker: jien_unknown
+    en: You know as well as I do that there are dark forces deep in the Ark.
+    ko: 마나 씨도 알잖아요?
+    ja: あなたも知っているはずでしょう？
+  event_wisdomspring_06_s_6:
+    speaker: jien_unknown
+    en: They're watching us, always and everywhere.
+    ko: 방주 깊은 곳에 있는 [어둠]은 언제, 어디서든 우리를 지켜보고 있다는걸.
+    ja: |-
+      アークの深～い「闇」が、
+      いつでもどこでも見ていること。
+  event_wisdomspring_06_s_7:
+    speaker: jien_unknown
+    en: If you catch their attention, you're in for a world of hurt.
+    ko: 그거 눈에 들면 얼마나 사는 게 귀찮아지는 데요~
+    ja: |-
+      目をつけられてしまったら、
+      生きていくだけでどれだけ面倒になるか…
+  event_wisdomspring_06_s_8:
+    speaker: jien_unknown
+    en: Those of us residing in the abyss should be especially careful, isn't that
+      right?
+    ko: |-
+      심연 속에 사는 우리는 더더욱 그러면 안 돼요~
+      아시죠~?
+    ja: |-
+      アークの深淵の中で生きている
+      私たちですから、
+      なおさら気をつけませんと。ねぇ？
+  event_wisdomspring_06_s_9:
+    speaker: mana
+    en: "... Yes. I know that."
+    ko: "…압니다."
+    ja: "…分かっています。"
+  event_wisdomspring_06_s_10:
+    speaker: "<Self>"
+    en: Dark forces?
+    ko: 방주 깊은 곳에 있는 [어둠]…?
+    ja: アークの深い「闇」…？
+  event_wisdomspring_06_s_11:
+    speaker: mana
+    en: Thank you for stopping me.
+    ko: 막아주셔서 감사합니다.
+    ja: 危ないところを助けていただきました。
+  event_wisdomspring_06_s_12:
+    speaker: jien_unknown
+    en: No need to thank me.
+    ko: 에이~ 뭐 또 감사하다고 할 것까지야~
+    ja: いいえ～礼には及びません～
+  event_wisdomspring_06_s_13:
+    speaker: jien_unknown
+    en: If you want to repay me,
+    ko: 이런 건 그냥~
+    ja: こういう借りは～
+  event_wisdomspring_06_s_14:
+    speaker: jien_unknown
+    en: you can help me the next time I do something good.
+    ko: 나중에 내가 좋~은 일할 때 한 번 도와주면 되는 거예요.
+    ja: |-
+      今度私が困った時に、
+      返してもらえればいいんです。
+  event_wisdomspring_06_s_15:
+    speaker: jien_unknown
+    en: Got it?
+    ko: 아시겠죠?
+    ja: ね？
+  event_wisdomspring_06_s_16:
+    speaker: mana
+    en: "... Yes."
+    ko: "…예."
+    ja: "…はい。"
+  event_wisdomspring_06_s_17:
+    speaker: jien_unknown
+    en: Such a sweet girl.
+    ko: 대답도 참 예쁘게 하네~
+    ja: いいお返事です。
+  event_wisdomspring_06_s_18:
+    speaker: jien_unknown
+    en: Now then,
+    ko: 자~ 카면.
+    ja: さて、さて～
+  event_wisdomspring_06_s_19:
+    speaker: jien_unknown
+    en: I presume this young man is the celebrated "No. 7" I've heard so much about?
+    ko: 이쪽의 잘생긴 총각이, 그 유명한 [7호]?
+    ja: こっちの男前さんが、あの有名な「7号」？
+  event_wisdomspring_06_s_20:
+    speaker: "<Self>"
+    en: "..."
+    ko: 7호?
+    ja: 7号？
+  event_wisdomspring_06_s_21:
+    speaker: jien_unknown
+    en: My goodness, he looks even more handsome in person.
+    ko: 와, 실제로 보니까 더 잘생겼네~
+    ja: 実物はもっとええ感じやね～
+  event_wisdomspring_06_s_22:
+    speaker: jien_unknown
+    en: You've grown up splendidly.
+    ko: 잘 컸네~ 잘 컸어.
+    ja: 立派になったもんやわぁ～
+  event_wisdomspring_06_s_23:
+    speaker: "<Self>"
+    en: Who are you?
+    ko: 넌 누구지?
+    ja: "…誰だ？"
+  event_wisdomspring_06_s_24:
+    speaker: jien_unknown
+    en: Me?
+    ko: 나요?
+    ja: え？
+  event_wisdomspring_06_s_25:
+    speaker: jien_unknown
+    en: Goodness gracious, would you look at me? I didn't even introduce myself.
+    ko: "와, 내 정신 좀 봐라. \n자기소개도 안 하고 있었네."
+    ja: |-
+      あら、イヤやわぁ～私ったら。
+      自己紹介もしていませんでした。
+  event_wisdomspring_06_s_26:
+    speaker: jien_unknown
+    en: Ah, the perils of old age.
+    ko: 이래서 나이 들면 안 된다니까~
+    ja: 歳は取りたくないですね～
+  event_wisdomspring_06_s_27:
+    speaker: jien
+    en: I'm Jien. The pleasure's all mine.
+    ko: 반가워요~ 지엔이라고 해요.
+    ja: ジエンと申します～ごひいきに～
+  event_wisdomspring_06_s_28:
+    speaker: jien
+    en: I believe this is our first time meeting, yes?
+    ko: 우리 처음 보는 거 맞죠?
+    ja: 私たち、初めましてでしたね？
+  event_wisdomspring_06_s_29:
+    speaker: "<Choice>"
+    en: I think so.
+    ko: 그런 것 같아.
+    ja: そうだと思う
+  event_wisdomspring_06_s_30:
+    speaker: "<Choice>"
+    en: I think I've heard that name before.
+    ko: 이름은 들어본 것 같은데.
+    ja: 名前は聞いたことがある
+  event_wisdomspring_06_s_31:
+    speaker: jien
+    en: Hm.
+    ko: 그렇죠?
+    ja: ですよねぇ？
+  event_wisdomspring_06_s_32:
+    speaker: jien
+    en: I heard you've been helping my sister out quite a lot.
+    ko: 전부터 우리 귀여운 동생이 신세 많~이 졌다고 들었는데.
+    ja: |-
+      私のかわいい妹が
+      日ごろからお世話になっとります～
+  event_wisdomspring_06_s_33:
+    speaker: jien
+    en: That must have been tough for you.
+    ko: 고생 많으셨겠네요~
+    ja: 相当手を焼かれとるんではありませんか？
+  event_wisdomspring_06_s_34:
+    speaker: jien
+    en: Really?
+    ko: 그래요?
+    ja: そうでしたか～？
+  event_wisdomspring_06_s_35:
+    speaker: jien
+    en: How can that be possible?
+    ko: 그럴 리가 없을 텐데.
+    ja: そんなはずないと思いますけどねぇ。
+  event_wisdomspring_06_s_36:
+    speaker: jien
+    en: "... Most interesting."
+    ko: 이거 참… 흥미롭네?
+    ja: これはこれは…興味深いですねぇ？
+  event_wisdomspring_06_s_37:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_06_s_38:
+    speaker: jien
+    en: Hehe, well I suppose it's not entirely outside the realm of possibility.
+    ko: 후후, 뭐 그럴 수도 있죠~
+    ja: ふふ。ま、そういうこともあるかも知れません。
+  event_wisdomspring_06_s_39:
+    speaker: jien
+    en: You are quite deeply connected with my sister, so you must have heard of me
+      at some point.
+    ko: "우리 귀여운 동생이랑 깊은 인연이라고 하시니까, \n다른 데서 들어보셨나 보다~"
+    ja: |-
+      私のかわいい妹と
+      仲良くしてくださってるそうですし、
+      どこかで聞いたのかも。
+  event_wisdomspring_06_s_40:
+    speaker: "<Self>"
+    en: Sister?
+    ko: "…귀여운 동생?"
+    ja: "…かわいい妹？"
+  event_wisdomspring_06_s_41:
+    speaker: "<Self>"
+    en: Are you related to Syuen?
+    ko: 슈엔과는 무슨 사이지?
+    ja: まさか…シュエンとどういう関係だ？
+  event_wisdomspring_06_s_42:
+    speaker: jien
+    en: Half sister would be more correct.
+    ko: 이복 언니랑~ 이복동생의 관계~ 라고 하는 게 맞겠네요.
+    ja: 腹違いの姉妹～とでも言っておきましょうか。
+  event_wisdomspring_06_s_43:
+    speaker: jien
+    en: But what am I saying? We're working here.
+    ko: 아이다, 여긴 직장이니까~
+    ja: あっと、ここは職場やった…
+  event_wisdomspring_06_s_44:
+    speaker: jien
+    en: As such, I should instead say that I'm an employee working under the esteemed
+      president of Missilis.
+    ko: 미실리스 사장님과 나이 많은 부하 직원~ 이라 케야하나~?
+    ja: |-
+      ミシリスの社長と、それより年上の部下～
+      ということでどうでしょう？
+  event_wisdomspring_06_s_45:
+    speaker: jien
+    en: I'll make it simple for you.
+    ko: 에이, 아이다~
+    ja: いや、これもちゃいますな…
+  event_wisdomspring_06_s_46:
+    speaker: jien
+    en: Just think of me as one of the researchers at M.M.R.
+    ko: 그냥 M.M.R. 연구원 중 하나다~ 정도로만 생각해 줘도 돼요~
+    ja: |-
+      単なるM.M.R.の研究員の1人だと
+      思ってください～
+  event_wisdomspring_06_s_47:
+    speaker: "<Self>"
+    en: Half sister, you say?
+    ko: 이복 언니… 라고.
+    ja: 腹違いの姉…だと？
+  event_wisdomspring_06_s_48:
+    speaker: jien
+    en: Oh? It seems you're partial to that appellation.
+    ko: 아~ 역시 그쪽이 제일 마음에 들었나 보네요~
+    ja: あ～…やっぱりそこが気になります～？
+  event_wisdomspring_06_s_49:
+    speaker: jien
+    en: I suppose it makes sense. After all, many of the most riveting stories concern
+      themselves with love triangles.
+    ko: "하기사. \n세상에서 제일 재미있는 이야기 중 하나가 치정 얘기니까~"
+    ja: |-
+      無理もないですねぇ。複雑な家庭の事情なんて、
+      この世で一番面白い話の1つですから～
+  event_wisdomspring_06_s_50:
+    speaker: jien
+    en: Incorporating Missilis into a tale of romantic entanglements is surely the
+      most entertaining option, no?
+    ko: 역시 미실리스 치정사랑 엮어서 받아들이는 게 가장 재미있겠죠?
+    ja: |-
+      それがミシリスのスキャンダルなら、
+      ますます気になりますよねぇ？
+  event_wisdomspring_06_s_51:
+    speaker: "<Self>"
+    en: What are these "dark forces" in the Ark that you keep mentioning?
+    ko: 방주 깊은 곳에 있다는 [어둠]이라는 건 뭐지?
+    ja: アークの深い「闇」というのは？
+  event_wisdomspring_06_s_52:
+    speaker: jien
+    en: Wow, cutting straight to the chase.
+    ko: 와, 자기소개 끝나니까 바로 본론부터 묻는 거예요?
+    ja: |-
+      まぁ～、自己紹介もほどほどになんて、
+      せっかちさんですねぇ？
+  event_wisdomspring_06_s_53:
+    speaker: jien
+    en: I see you're not one for formalities.
+    ko: 차가버래이~
+    ja: つれないわぁ～
+  event_wisdomspring_06_s_54:
+    speaker: "<Self>"
+    en: Are you talking about Enikk?
+    ko: 에닉을 말하는 거야?
+    ja: エニックのことか？
+  event_wisdomspring_06_s_55:
+    speaker: jien
+    en: So harsh!
+    ko: 와, 너무하시네~
+    ja: あら、かわいそう～
+  event_wisdomspring_06_s_56:
+    speaker: jien
+    en: How could I ever impugn
+    ko: 우리의 좋은 친구 에닉이 왜 방주의 [어둠]이겠어요?
+    ja: エニックがアークの「闇」なんて。
+  event_wisdomspring_06_s_57:
+    speaker: jien
+    en: our good friend Enikk in such a way,
+    ko: 그쪽은 아주 좋은 친구라고요.
+    ja: 私はいいお友だちだと思ってますけどねぇ。
+  event_wisdomspring_06_s_58:
+    speaker: jien
+    en: when she works tirelessly on humanity's behalf?
+    ko: 인류를 위해 하루도 쉬지 않고 과로 중인~ 편리한 친구.
+    ja: |-
+      人類のために年中無休でこき使われる…
+      都合のいい、お友だち。
+  event_wisdomspring_06_s_59:
+    speaker: jien
+    en: The dark forces that I speak of is the Ark itself.
+    ko: 방주의 [어둠]은~ 방주예요.
+    ja: |-
+      アークの「闇」というのは…
+      アークそのものです。
+  event_wisdomspring_06_s_60:
+    speaker: jien
+    en: The very thing that feeds, shelters,
+    ko: 우리를 든든하게 먹여주고, 재워주고, 보살펴 주는.
+    ja: |-
+      私たちに食べ物も、寝床も与えて、
+      面倒を見てくれる…
+  event_wisdomspring_06_s_61:
+    speaker: jien
+    en: and protects us.
+    ko: 방주.
+    ja: そういう、アーク。
+  event_wisdomspring_06_s_62:
+    speaker: "<Self>"
+    en: What?
+    ko: 방주?
+    ja: アーク？
+  event_wisdomspring_06_s_63:
+    speaker: jien
+    en: That's all you need to know for now.
+    ko: 지금의 7호는 여기까지만 알면 돼요~
+    ja: 7号さんはそこまで知っておいてください。
+  event_wisdomspring_06_s_64:
+    speaker: jien
+    en: It'd be dangerous for you to know any more than that.
+    ko: 더 알면 안 돼~
+    ja: それ以上は知りすぎになりますから～
+  event_wisdomspring_06_s_65:
+    speaker: jien
+    en: You hardly want to spend your existence trapped underground, do you?
+    ko: 7호도 지하 깊은 곳에 갇혀서 살고 싶은 건 아니잖아요?
+    ja: 地下深くに閉じ込められたくはないでしょう？
+  event_wisdomspring_06_s_66:
+    speaker: jien
+    en: You're still young, and you must have a lot you still want to do.
+    ko: 하고 싶은 것도 많을 나이인데,
+    ja: やりたいこともたくさんあるお年頃でしょうし。
+  event_wisdomspring_06_s_67:
+    speaker: jien
+    en: You should be running freely above ground.
+    ko: 지상 위를 자유롭게 뛰어노셔야지~
+    ja: 地上を自由に飛びまわれませんとね～
+  event_wisdomspring_06_s_68:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_06_s_69:
+    speaker: "<Self>"
+    en: Jien, was it?
+    ko: 지엔이라고 했었지.
+    ja: ジエンと言ったな
+  event_wisdomspring_06_s_70:
+    speaker: jien
+    en: That's right.
+    ko: 그랬죠.
+    ja: ええ。
+  event_wisdomspring_06_s_71:
+    speaker: "<Self>"
+    en: Why are you calling me No. 7?
+    ko: 왜 날 7호라고 부르는 거야?
+    ja: なぜ私のことを7号と呼ぶ？
+  event_wisdomspring_06_s_72:
+    speaker: jien
+    en: That's because you are...
+    ko: 그거야~ 당신이….
+    ja: それは～…
+  event_wisdomspring_06_s_73:
+    speaker: jien
+    en: Oh boy, I nearly spilled the beans!
+    ko: 와, 말할 뻔했네?
+    ja: おっと、あかんあかん…
+  event_wisdomspring_06_s_74:
+    speaker: jien
+    en: You're quite mesmerizing, you know? The more we talk, the more I want to tell
+      you everything.
+    ko: 얘기하다 보면 다 말하고 싶어지는 게, 정말 마성의 남자네~
+    ja: |-
+      つい教えてあげたくなるんが、
+      魔性の男って感じやねぇ～
+  event_wisdomspring_06_s_75:
+    speaker: jien
+    en: Is this why all the Nikkes are so obsessed with you?
+    ko: 이래서 니케들이 그렇게 정신을 못 차리고 매달리나?
+    ja: ニケたちも夢中になっとるそうやし？
+  event_wisdomspring_06_s_76:
+    speaker: jien
+    en: Perhaps it's because you're so handsome.
+    ko: |-
+      잘생겨서 그런가~
+      아니면….
+    ja: |-
+      やっぱり顔がええからか、
+      それとも…
+  event_wisdomspring_06_s_77:
+    speaker: jien
+    en: Or perhaps it's because you're No. 7.
+    ko: "[7호]라서 그런가."
+    ja: "「7号」だから？"
+  event_wisdomspring_06_s_78:
+    speaker: "<Self>"
+    en: What are you talking about?
+    ko: 뭐?
+    ja: 何のことだ？
+  event_wisdomspring_06_s_79:
+    speaker: mana
+    en: Jien. That's enough.
+    ko: "지엔. \n그만하시죠."
+    ja: |-
+      ジエン。
+      もうやめてください。
+  event_wisdomspring_06_s_80:
+    speaker: jien
+    en: All right, I'll stop teasing him.
+    ko: 네~ 놀리는 건 여까지 할게요.
+    ja: は～い。からかうのはここまでにしておきます。
+  event_wisdomspring_06_s_81:
+    speaker: jien
+    en: Anyway, I simply stopped by to give a short introduction.
+    ko: 저도 오늘은 그냥 간단하게 자기소개하고 싶어서 온 거거든요.
+    ja: |-
+      私も、今日は簡単に自己紹介を
+      したかっただけですし。
+  event_wisdomspring_06_s_82:
+    speaker: jien
+    en: Here you are.
+    ko: 카니까, 자.
+    ja: では、これ。
+  event_wisdomspring_06_s_83:
+    speaker: "<Monologue>"
+    en: Jien hands over an access card.
+    ko: 지엔이 출입증을 건넸다.
+    ja: ジエンが差し出してきたのは入構許可証だった
+  event_wisdomspring_06_s_84:
+    speaker: "<Self>"
+    en: Is that...?!
+    ko: "…출입증?!"
+    ja: "…これは？"
+  event_wisdomspring_06_s_85:
+    speaker: jien
+    en: That's right. It's an access card.
+    ko: 맞아요~ 출입증이에요.
+    ja: もちろん…帰りのキップです。
+  event_wisdomspring_06_s_86:
+    speaker: jien
+    en: Since you're finished with your business here, it's time for you to leave.
+    ko: 이제 볼일 다 봤으니까, 퇴실하셔야죠~
+    ja: 用が済んだら、帰ってもらいませんと～
+  event_wisdomspring_06_s_87:
+    speaker: mana
+    en: Why do you have this?
+    ko: 이걸 왜 당신이 갖고 있죠?
+    ja: なぜそんなものを都合よく持っているのですか？
+  event_wisdomspring_06_s_88:
+    speaker: jien
+    en: I'm not entirely bereft of a conscience, you know. Since I'm the one who brought
+      you here, I should be the one to get you out.
+    ko: |-
+      에이~ 저도 양심이 있지.
+      데려온 사람이 내보내는 것까진 책임져야죠~
+    ja: |-
+      またまた～…
+      私にも良心というものがありますので。
+      呼び出したら無事に送り返すまでがお客様です。
+  event_wisdomspring_06_s_89:
+    speaker: mana
+    en: You mean you...
+    ko: 그게 무슨….
+    ja: それはどういう…
+  event_wisdomspring_06_s_90:
+    speaker: jien
+    en: Yes, I'm the one who made the oh-so-handsome No. 7 come here.
+    ko: 잘생긴 7호를 여기까지 데려오게 만든 게, 저라서요.
+    ja: |-
+      7号さんの色男ぶりを見てみたいと思って
+      呼んだのは、私ですから。
+  event_wisdomspring_06_s_91:
+    speaker: mana
+    en: What?
+    ko: 예?
+    ja: え？
+  event_wisdomspring_06_s_92:
+    speaker: "<Self>"
+    en: So it was you?
+    ko: 나를 불러들였다고?
+    ja: 私を呼び出した？
+  event_wisdomspring_06_s_93:
+    speaker: "<Self>"
+    en: Why?
+    ko: 왜?
+    ja: なぜ？
+  event_wisdomspring_06_s_94:
+    speaker: jien
+    en: I wanted to see you.
+    ko: 그야~ 보고 싶었으니까?
+    ja: なぜって…顔を拝んでみたかったから？
+  event_wisdomspring_06_s_95:
+    speaker: jien
+    en: I have a lot of interest in you for many reasons.
+    ko: 7호한테는 여러 가지 의미로 관심이 많거든요.
+    ja: |-
+      7号さんはいろんな意味で
+      面白そうな人ですし…
+  event_wisdomspring_06_s_96:
+    speaker: jien
+    en: Syuen and all the other Nikkes have gotten to see you,
+    ko: 슈엔부터 니케 애들까지 다들 봤다고 카는데,
+    ja: シュエンもニケたちもみんな会うとるのに…
+  event_wisdomspring_06_s_97:
+    speaker: jien
+    en: and I was upset that I hadn't had the privilege of seeing you in person.
+    ko: 나만 못 보는 것도 섭섭해서 직접 보고는 싶고.
+    ja: |-
+      私だけ見ず知らず～と言うのは
+      寂しいと思ったので。
+  event_wisdomspring_06_s_98:
+    speaker: jien
+    en: With my current situation,
+    ko: 제가 지금은 좀… 밖에 나가면 시선이 끌리는 상황이거든요.
+    ja: |-
+      ただ、今の私はちょっと…外に出てしまうと、
+      人の目を引きすぎますから。
+  event_wisdomspring_06_s_99:
+    speaker: jien
+    en: I'm in no position to be going outside and attracting unwanted attention.
+    ko: 그래서, 잘생긴 7호가 제가 있는 곳으로 와줬으면 좋겠다~
+    ja: |-
+      それなら、色男の7号さんの方から
+      会いに来てもらいましょか～と。
+  event_wisdomspring_06_s_100:
+    speaker: jien
+    en: So I thought it would be good if you came to me instead.
+    ko: 싶어가, 이런 방식으로 초대 드렸어요.
+    ja: |-
+      そういう訳で、
+      ご招待させていただいた次第です。
+  event_wisdomspring_06_s_101:
+    speaker: "<Self>"
+    en: Why didn't you just speak to me plainly and invite me?
+    ko: 그러면 네가 직접 초대하면 됐던 거 아니야?
+    ja: |-
+      それなら直接呼び出せば
+      よかったのでは？
+  event_wisdomspring_06_s_102:
+    speaker: jien
+    en: Oh, come now. You could have never come here alone.
+    ko: 에이, 카면 혼자서는 안 왔을 거 아니에요.
+    ja: 1人でこんな場所に来てもらえます？
+  event_wisdomspring_06_s_103:
+    speaker: jien
+    en: You would have arrived surrounded by your precious Nikkes,
+    ko: 잔뜩 경계했을 거면서~
+    ja: 思いきり警戒されるでしょうし…
+  event_wisdomspring_06_s_104:
+    speaker: jien
+    en: weapons in hand.
+    ko: |-
+      당신 좋아하는 니케들 잔뜩 주위에 두르고,
+      총 들고 찾아왔을 거 알아요.
+    ja: |-
+      来たとしても、頼れるニケもいっぱい連れて、
+      銃も持たせて来るでしょう？
+  event_wisdomspring_06_s_105:
+    speaker: jien
+    en: It would have been liable to cause a scene,
+    ko: 카면 잔뜩 주목받을 텐데.
+    ja: そうなったら、注目されてしまいます。
+  event_wisdomspring_06_s_106:
+    speaker: jien
+    en: and I certainly don't want that.
+    ko: 그건 좀 싫었거든요.
+    ja: それは避けないといけませんので。
+  event_wisdomspring_06_s_107:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_06_s_108:
+    speaker: jien
+    en: Don't be upset.
+    ko: 너무 열내지 마세요.
+    ja: そう怒らないでください。
+  event_wisdomspring_06_s_109:
+    speaker: jien
+    en: That access card will ensure you leave this place unharmed.
+    ko: 그래서 가시는 길 안전하게 가시라고 출입증도 가져왔잖아요.
+    ja: |-
+      安全に帰れるように、
+      許可証もきちんと用意したんですから。
+  event_wisdomspring_06_s_110:
+    speaker: jien
+    en: And besides,
+    ko: 게다가….
+    ja: それに…
+  event_wisdomspring_06_s_111:
+    speaker: jien
+    en: even though you felt a little dizzy and had a nasty headache,
+    ko: 조금 어지럽고 두통이 있긴 했어도,
+    ja: ちょっとぐらい具合が悪くなっても…
+  event_wisdomspring_06_s_112:
+    speaker: jien
+    en: it's not like you're leaving empty-handed.
+    ko: 아주 소득이 없는 건 아니잖아요?
+    ja: それだけの価値は有ったでしょう？
+  event_wisdomspring_06_s_113:
+    speaker: "<Monologue>"
+    en: Jien leans in close and whispers to me.
+    ko: 지엔이 가까이 다가와, 속삭였다.
+    ja: ジエンが近寄り、耳元に口を近づけた
+  event_wisdomspring_06_s_114:
+    speaker: jien
+    en: You learned a few more things about the Ark, and yourself.
+    ko: 방주와 자신에 대해 한 가지 더 알게 됐으니까.
+    ja: |-
+      アークと自分のこと、
+      ひとつ新しく知れましたやろ？
+  event_wisdomspring_06_s_115:
+    speaker: "<Self>"
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_06_s_116:
+    speaker: "<Monologue>"
+    en: Jien steps back.
+    ko: 지엔이 멀어졌다.
+    ja: ジエンはそうささやいて、また距離を取った
+  event_wisdomspring_06_s_117:
+    speaker: jien
+    en: Now then, Mana.
+    ko: 자, 카면 마나 씨.
+    ja: さあ、マナさん。
+  event_wisdomspring_06_s_118:
+    speaker: "<Monologue>"
+    en: Jien hands over another access card to Mana.
+    ko: 지엔이 마나에게 출입증을 하나 더 내밀었다.
+    ja: |-
+      ジエンがマナにもう1枚の
+      入構許可証を差し出した
+  event_wisdomspring_06_s_119:
+    speaker: jien
+    en: Could you please use this card to escort the ever-so-dashing No. 7 out safely?
+    ko: 이 출입증으로 저 대신 잘생긴 7호 좀 배웅해 주고 와주시겠어요?
+    ja: |-
+      私の代わりに7号さんを
+      見送ってきてもらえますか？
+  event_wisdomspring_06_s_120:
+    speaker: jien
+    en: He seems rather shaken up by today's events, so be sure to calm him down before
+      he leaves.
+    ko: "오늘 많이 놀란 거 같으니까, \n가기 전에 진정 좀 시켜드리고."
+    ja: |-
+      今日はたくさん驚いたでしょうから、
+      その前に十分落ち着いてもらってください。
+  event_wisdomspring_06_s_121:
+    speaker: mana
+    en: "... Yes. Understood."
+    ko: "…예. 알겠습니다."
+    ja: "…はい。分かりました。"
+  event_wisdomspring_06_s_122:
+    speaker: jien
+    en: I had fun today, No. 7.
+    ko: |-
+      잘생긴 7호.
+      오늘 즐거웠어요~
+    ja: |-
+      7号さんの素敵なお顔が見られて、
+      今日は楽しかったです。
+  event_wisdomspring_06_s_123:
+    speaker: jien
+    en: See you around.
+    ko: 또 만나요~
+    ja: またお会いしましょう～
+  event_wisdomspring_06_s_124:
+    speaker: "<Monologue>"
+    en: Jien walks off.
+    ko: 지엔이 유유히 떠나갔다.
+    ja: ジエンは悠々とその場から去って行った
+  event_wisdomspring_06_s_125:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_06_s_126:
+    speaker: mana
+    en: Let's get out of here, Commander.
+    ko: "…일단, 여기서 나가시죠. 지휘관."
+    ja: "…まずは、ここから出ましょう。"
+  event_wisdomspring_06_s_127:
+    speaker: "<Self>"
+    en: "... Okay."
+    ko: "…그래."
+    ja: "…そうだな"
+event_wisdomspring_06_e:
+  event_wisdomspring_06_e_1:
+    speaker: "<Narration>"
+    en: "*Tap tap tap*"
+    ko: 탁- 타닥- 타탁-
+    ja: カタ、カタカタ、カタ…
+  event_wisdomspring_06_e_2:
+    speaker: "<Monologue>"
+    en: The sound of typing can be heard,
+    ko: 타자 치는 소리가 들리고,
+    ja: キーボードを叩く音が聞こえる
+  event_wisdomspring_06_e_3:
+    speaker: "<Monologue>"
+    en: and the bitter aroma of coffee lingers in the air.
+    ko: 씁쓸한 커피 향기가 난다.
+    ja: ほろ苦いコーヒーの香りが漂ってきた
+  event_wisdomspring_06_e_4:
+    speaker: "<Monologue>"
+    en: I can detect the pattering of water droplets as well.
+    ko: 물방울 떨어지는 소리가 들린다.
+    ja: それから、水滴のしたたる音
+  event_wisdomspring_06_e_5:
+    speaker: "<Narration>"
+    en: "*Drip drip drip drip*"
+    ko: 똑. 똑. 똑. 똑.
+    ja: ポタリ…ポタ…ポタ…ポタ…
+  event_wisdomspring_06_e_6:
+    speaker: "<Monologue>"
+    en: Hold on.
+    ko: 물방울 소리?
+    ja: 水滴？
+  event_wisdomspring_06_e_7:
+    speaker: "<Self>"
+    en: What is this?
+    ko: "…여긴."
+    ja: "…ここは…"
+  event_wisdomspring_06_e_8:
+    speaker: "<Monologue>"
+    en: I look around to see a neatly organized lab,
+    ko: 주변을 둘러보았다.
+    ja: あたりを見回した
+  event_wisdomspring_06_e_9:
+    speaker: "<Monologue>"
+    en: and an IV drip connected to one of my arms.
+    ko: 깔끔하게 정리된 연구실과 한쪽 팔에 연결되어 있는 링거가 보였다.
+    ja: |-
+      きれいに整頓された研究室と
+      片腕につながれた点滴の管が目に入った
+  event_wisdomspring_06_e_10:
+    speaker: "<Self>"
+    en: An IV drip?
+    ko: 링거?
+    ja: 点滴？
+  event_wisdomspring_06_e_11:
+    speaker: mana
+    en: You're awake.
+    ko: 일어나셨군요.
+    ja: 気がつかれましたか。
+  event_wisdomspring_06_e_12:
+    speaker: mana
+    en: How are you feeling?
+    ko: 몸은 좀 괜찮으십니까?
+    ja: お身体の具合はどうですか？
+  event_wisdomspring_06_e_13:
+    speaker: "<Self>"
+    en: Why am I...
+    ko: 내가 왜….
+    ja: 何があったんだ…？
+  event_wisdomspring_06_e_14:
+    speaker: mana
+    en: Shortly after taking the elevator up to Level D, you collapsed.
+    ko: 엘리베이터를 타고 [LEVEL D]로 올라오신 직후, 쓰러지셨습니다.
+    ja: |-
+      エレベーターに乗って
+      「LEVEL D」に戻った途端、
+      気を失われたのです。
+  event_wisdomspring_06_e_15:
+    speaker: mana
+    en: A quick examination was conducted.
+    ko: 간단하게 검사를 해봤는데,
+    ja: 簡単な検査をしましたが…
+  event_wisdomspring_06_e_16:
+    speaker: mana
+    en: The results showed excessive stress and fatigue leading to severe exhaustion.
+    ko: 검사 결과 과도한 스트레스, 피로 누적으로 인한 기력 소진.
+    ja: |-
+      過度のストレスと疲労の蓄積による
+      体力の激しい消耗が原因でしょう。
+  event_wisdomspring_06_e_17:
+    speaker: mana
+    en: In short... you were tired.
+    ko: 요약하자면, 지쳐서… 정도가 되겠군요.
+    ja: |-
+      簡単に言うと、疲れすぎて限界が来た…
+      ということです。
+  event_wisdomspring_06_e_18:
+    speaker: "<Self>"
+    en: I see.
+    ko: 그랬구나.
+    ja: そうだったのか
+  event_wisdomspring_06_e_19:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_06_e_20:
+    speaker: "<Self>"
+    en: Thank you.
+    ko: "…고마워."
+    ja: "…ありがとう"
+  event_wisdomspring_06_e_21:
+    speaker: mana
+    en: For what?
+    ko: 뭐가 말입니까?
+    ja: 何のことですか？
+  event_wisdomspring_06_e_22:
+    speaker: "<Self>"
+    en: For bringing me here, and treating me.
+    ko: 여기까지 데리고 와서, 치료까지 해줬잖아.
+    ja: ここまで連れ帰って、看病もしてくれた
+  event_wisdomspring_06_e_23:
+    speaker: "<Monologue>"
+    en: I gently lift up my arm with the IV needle.
+    ko: 링거 바늘이 꼽힌 팔을 살짝 들어 올렸다.
+    ja: 点滴の針が刺さった腕を軽く上げて見せた
+  event_wisdomspring_06_e_24:
+    speaker: mana
+    en: You collapsed right in front of me. It's only natural that I'd tend to you.
+    ko: 눈앞에서 쓰러지셨는데, 당연한 거죠.
+    ja: |-
+      目の前で倒れられたら、
+      放ってはおけないでしょう。
+  event_wisdomspring_06_e_25:
+    speaker: mana
+    en: Besides...
+    ko: 게다가….
+    ja: それに…
+  event_wisdomspring_06_e_26:
+    speaker: mana
+    en: I'm a big part of why you're in this state.
+    ko: 지휘관께서 받으신 스트레스의 원인이 제게도 있다고 할 수 있으니까요.
+    ja: |-
+      私もそのストレスの原因に
+      含まれていると思いますので。
+  event_wisdomspring_06_e_27:
+    speaker: "<Self>"
+    en: I'm sorry.
+    ko: 미안해.
+    ja: すまない
+  event_wisdomspring_06_e_28:
+    speaker: mana
+    en: Pardon?
+    ko: 예?
+    ja: はい？
+  event_wisdomspring_06_e_29:
+    speaker: "<Self>"
+    en: I kept pressing you with questions that you couldn't answer and put you in
+      a difficult spot.
+    ko: 대답해 줄 수 없는걸 계속 캐물으면서 마나를 난감하게 했잖아.
+    ja: |-
+      答えられないことを何度も聞いて、
+      困らせてしまった
+  event_wisdomspring_06_e_30:
+    speaker: mana
+    en: "..."
+    ko: 그건….
+    ja: それは…
+  event_wisdomspring_06_e_31:
+    speaker: "<Self>"
+    en: And for that, I'm sorry.
+    ko: 미안했어.
+    ja: 悪かった
+  event_wisdomspring_06_e_32:
+    speaker: mana
+    en: Your questions were entirely reasonable.
+    ko: "…지휘관의 질문은 당연했던 겁니다."
+    ja: "…そうなって当然のことです。"
+  event_wisdomspring_06_e_33:
+    speaker: mana
+    en: Anyone would react that way
+    ko: 누구나….
+    ja: どのような人でも…
+  event_wisdomspring_06_e_34:
+    speaker: mana
+    en: when doubt is being cast on their very identity.
+    ko: "자신의 정체성에 혼란이 오면, \n그렇게 반응할 것이라고 생각합니다."
+    ja: |-
+      自分が何者か確信が持てなくなれば、
+      そういう反応になって不思議ではありません。
+  event_wisdomspring_06_e_35:
+    speaker: "<Self>"
+    en: Thanks for understanding.
+    ko: 이해해 줘서 고마워.
+    ja: 理解があって助かる
+  event_wisdomspring_06_e_36:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_06_e_37:
+    speaker: mana
+    en: Commander.
+    ko: 지휘관.
+    ja: 指揮官。
+  event_wisdomspring_06_e_38:
+    speaker: mana
+    en: I can't answer any of the questions you asked.
+    ko: 저는 지휘관이 하셨던 질문에 어떤 것도 대답해 드릴 수 없습니다.
+    ja: |-
+      私は指揮官の質問に、
+      答えて差し上げることができません。
+  event_wisdomspring_06_e_39:
+    speaker: mana
+    en: M.M.R. is a fountain of knowledge, yet it also holds many secrets.
+    ko: "M.M.R.이라는, \n지식의 샘물에 살고 있는 모든 것은 저마다의 비밀이 있고,"
+    ja: |-
+      M.M.R.という知識の源泉に関わる者は、
+      誰しも秘密を持っています。
+  event_wisdomspring_06_e_40:
+    speaker: mana
+    en: One of the cardinal rules is to never share those secrets.
+    ko: 그 비밀을 어디에도 말하지 않는 것이 저희의 [규칙]이기 때문입니다.
+    ja: |-
+      その秘密を誰にも話さないことが
+      私たちの「おきて」なのです。
+  event_wisdomspring_06_e_41:
+    speaker: "<Self>"
+    en: I understand.
+    ko: 그래. 이해해.
+    ja: ああ、分かった
+  event_wisdomspring_06_e_42:
+    speaker: mana
+    en: 'But what I can say is this:'
+    ko: 다만, 한 가지 말씀드릴 수 있는 건….
+    ja: ただ、1つだけ言えることがあるとするなら…
+  event_wisdomspring_06_e_43:
+    speaker: mana
+    en: Regardless of your identity, or what secrets you carry...
+    ko: 지휘관의 정체가 어떻든, 어떤 비밀을 갖고 있든.
+    ja: |-
+      たとえあなたが何者で、
+      どんな秘密があろうとも…
+  event_wisdomspring_06_e_44:
+    speaker: mana
+    en: The reason you've earned the trust and love
+    ko: 수많은 사람들의 기대를 받고,
+    ja: 多くの人々から期待され…
+  event_wisdomspring_06_e_45:
+    speaker: mana
+    en: of so many Nikkes,
+    ko: 니케들의 애정을 받고,
+    ja: ニケたちから愛され…
+  event_wisdomspring_06_e_46:
+    speaker: mana
+    en: including me,
+    ko: 제… 신뢰를 받고 있는 건.
+    ja: 私からも…信頼されているというのは、
+  event_wisdomspring_06_e_47:
+    speaker: mana
+    en: has nothing to do with how you were created.
+    ko: 그럴만한 사람으로 [태어났기] 때문이 아니라,
+    ja: |-
+      そのような価値がある人物として
+      「生まれた」からではなく、
+  event_wisdomspring_06_e_48:
+    speaker: mana
+    en: Instead, it has everything to do with how you've lived.
+    ko: 지휘관이 그럴만한 사람으로 [살아왔기] 때문이라고 생각합니다.
+    ja: |-
+      指揮官がそのような人として
+      「生きてきた」からだと思います。
+  event_wisdomspring_06_e_49:
+    speaker: "<Self>"
+    en: Mana...
+    ko: 마나….
+    ja: マナ…
+  event_wisdomspring_06_e_50:
+    speaker: mana
+    en: That, above all, is your true identity, Commander.
+    ko: "다른 무엇보다, \n그것이 지휘관의 정체성이라고 생각합니다."
+    ja: |-
+      他の何でもなく、それこそが指揮官の
+      よって立つべき存在理由だと私は思います。
+  event_wisdomspring_06_e_51:
+    speaker: mana
+    en: So don't fret anymore, and rest up.
+    ko: 그러니 지금은 더 불안해하지 마시고, 푹 쉬십시오.
+    ja: |-
+      ですから、今は何も心配せず、
+      ゆっくりお休みください。
+  event_wisdomspring_06_e_52:
+    speaker: mana
+    en: In the meantime, I'll protect you.
+    ko: M.M.R.에 소속된 연구원으로서가 아니라 한 명의 니케로서,
+    ja: |-
+      M.M.R.所属の研究員としてではなく、
+      1人のニケとして…
+  event_wisdomspring_06_e_53:
+    speaker: mana
+    en: Not as a researcher with any ulterior motives, but simply as a Nikke.
+    ko: "아무런 사심 없이, \n쉴 수 있게 지켜드리겠습니다."
+    ja: |-
+      私心なく、ゆっくりお休みいただけるよう
+      お守りいたします。
+  event_wisdomspring_06_e_54:
+    speaker: "<Self>"
+    en: "... Thanks."
+    ko: "…고마워."
+    ja: "…ありがとう"
+  event_wisdomspring_06_e_55:
+    speaker: "<Self>"
+    en: I'll try and get some sleep, then.
+    ko: 푹 자고 갈게.
+    ja: そうさせてもらう
+  event_wisdomspring_06_e_56:
+    speaker: mana
+    en: Good night, Commander.
+    ko: 안녕히 주무세요, 지휘관.
+    ja: おやすみなさい、指揮官。
+  event_wisdomspring_06_e_57:
+    speaker: "<Monologue>"
+    en: I close my eyes.
+    ko: 눈을 감았다.
+    ja: 私はまぶたを閉じた
+  event_wisdomspring_06_e_58:
+    speaker: "<Monologue>"
+    en: Everything is still enshrouded with questions,
+    ko: 모든 것이 의문에 싸여있었지만,
+    ja: 何もかも分からないままで終わったが…
+  event_wisdomspring_06_e_59:
+    speaker: "<Monologue>"
+    en: but at least for now, in this moment, I feel like I can sleep peacefully.
+    ko: 적어도 지금, 이 순간만큼은 편히 잠들 수 있을 것 같았다.
+    ja: |-
+      少なくとも今、この瞬間だけは
+      おだやかに眠れるような気がした
+event_wisdomspring_epilogue:
+  event_wisdomspring_epilogue_1:
+    speaker: ether
+    en: Mana!
+    ko: 마나~
+    ja: マナ～
+  event_wisdomspring_epilogue_2:
+    speaker: mana
+    en: Yes?
+    ko: 왔구나.
+    ja: 待ってたわ。
+  event_wisdomspring_epilogue_3:
+    speaker: ether
+    en: I wanted to speak to you about No. 7's examination.
+    ko: 이번에 7호 검진한 것 있지?
+    ja: 7号の検査、やったんでしょ？
+  event_wisdomspring_epilogue_4:
+    speaker: mana
+    en: I don't know what you're talking about.
+    ko: 무슨 소리인지 모르겠는데.
+    ja: 何のこと？
+  event_wisdomspring_epilogue_5:
+    speaker: ether
+    en: Yes, you do.
+    ko: 했잖아.
+    ja: とぼけないで。
+  event_wisdomspring_epilogue_6:
+    speaker: ether
+    en: The examination you conducted when he collapsed shortly before returning to
+      Level D.
+    ko: "[LEVEL D] 구역에 돌아왔을 때, 7호가 쓰러져서 검진해 봤잖아."
+    ja: |-
+      「LEVEL D」に戻ってすぐ
+      7号が気絶した時、検査したのは知ってる。
+  event_wisdomspring_epilogue_7:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_epilogue_8:
+    speaker: ether
+    en: Now do you know what I'm talking about?
+    ko: 아니야?
+    ja: 違った？
+  event_wisdomspring_epilogue_9:
+    speaker: mana
+    en: "... Yes."
+    ko: 맞아.
+    ja: いいえ。
+  event_wisdomspring_epilogue_10:
+    speaker: ether
+    en: Show me the results.
+    ko: 그것 좀 보여줘.
+    ja: その結果、見せてほしいんだけど。
+  event_wisdomspring_epilogue_11:
+    speaker: mana
+    en: I can't.
+    ko: 안 돼.
+    ja: ダメ。
+  event_wisdomspring_epilogue_12:
+    speaker: ether
+    en: Why not?
+    ko: 왜?
+    ja: なんで？
+  event_wisdomspring_epilogue_13:
+    speaker: mana
+    en: I promised.
+    ko: 지휘관께 약속했으니까.
+    ja: そう約束したの。
+  event_wisdomspring_epilogue_14:
+    speaker: mana
+    en: I promised the Commander that he could rest, and I would tend to him without
+      any ulterior motives.
+    ko: 아무런 사심 없이 쉴 수 있게 해드리겠다고.
+    ja: |-
+      誰の利害関係にも関わらず、
+      ゆっくり休めるように。
+  event_wisdomspring_epilogue_15:
+    speaker: mana
+    en: I can't hand over the results.
+    ko: 그러니 줄 수 없어.
+    ja: 渡すわけにはいかないわ。
+  event_wisdomspring_epilogue_16:
+    speaker: mana
+    en: If I do that, all the tender care I gave him will be tainted and end up becoming
+      cold, hard research data.
+    ko: |-
+      그걸 네게 주는 순간,
+      그날의 치료 행위는 연구 자료를 위한 게 되어버릴 테니까.
+    ja: |-
+      あなたに情報を渡した瞬間、私のしたことは
+      研究の一環になってしまうもの。
+  event_wisdomspring_epilogue_17:
+    speaker: ether
+    en: Come now, don't be so hard on me.
+    ko: 에이, 또 너무 야박하게 말한다.
+    ja: そう冷たいこと言わないでよ。
+  event_wisdomspring_epilogue_18:
+    speaker: ether
+    en: I have no intention of using your findings as research material.
+    ko: 나도 연구 자료로 안 쓸 건데?
+    ja: 私も研究資料にする気はないしさ？
+  event_wisdomspring_epilogue_19:
+    speaker: mana
+    en: I don't believe you.
+    ko: 믿을 수 없어.
+    ja: 信じられないわ。
+  event_wisdomspring_epilogue_20:
+    speaker: ether
+    en: Honestly, I won't.
+    ko: 정말이야.
+    ja: 本当だって。
+  event_wisdomspring_epilogue_21:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_epilogue_22:
+    speaker: ether
+    en: You really are going to refuse, aren't you?
+    ko: 와, 우리 마나가 7호랑 많이 친해졌나 보네?
+    ja: |-
+      あら～…マナと7号っていつの間に
+      そんな仲良くなったの？
+  event_wisdomspring_epilogue_23:
+    speaker: ether
+    en: My goodness, it seems you've gotten quite close to No. 7.
+    ko: 나한테까지 이렇게 야박하게 굴고.
+    ja: 私にまでこんなに冷たくなるなんて。
+  event_wisdomspring_epilogue_24:
+    speaker: mana
+    en: A promise is a promise.
+    ko: 약속은 약속이니까.
+    ja: 約束は約束だから。
+  event_wisdomspring_epilogue_25:
+    speaker: ether
+    en: Fine. Okay.
+    ko: 좋아. 알겠어.
+    ja: そ、分かった。
+  event_wisdomspring_epilogue_26:
+    speaker: ether
+    en: Then at least tell me one thing about No. 7's condition.
+    ko: 그럼 7호 몸 상태에 대해서 딱 한 가지만 알려줘.
+    ja: じゃ、7号の体の状態、1つだけ教えて。
+  event_wisdomspring_epilogue_27:
+    speaker: mana
+    en: I already told you I ca...
+    ko: 안된다고 말했….
+    ja: ダメだって言って…
+  event_wisdomspring_epilogue_28:
+    speaker: ether
+    en: If you grant me this request, I'll let you ask me one thing in return, no
+      strings attached.
+    ko: 대신 나도 마나가 궁금한 거 하나 아무거나, 조건 없이 말해줄게.
+    ja: |-
+      代わりに、私もマナが知りたいことを
+      何でも1つ、無条件で教えてあげるから。
+  event_wisdomspring_epilogue_29:
+    speaker: mana
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  event_wisdomspring_epilogue_30:
+    speaker: ether
+    en: Anything you want.
+    ko: 무려 아무거나, 조건 없이야.
+    ja: 何でも、掛け値なし。
+  event_wisdomspring_epilogue_31:
+    speaker: ether
+    en: Don't you think that's a fine compromise on my part?
+    ko: 이 정도면 나도 많이 양보한 거 알지?
+    ja: こんな譲歩、滅多にしないって知ってるでしょ？
+  event_wisdomspring_epilogue_32:
+    speaker: mana
+    en: "... Let me hear your question first."
+    ko: "…일단 질문부터 들어볼게."
+    ja: "…先に質問を聞かせて。"
+  event_wisdomspring_epilogue_33:
+    speaker: ether
+    en: Very well.
+    ko: |-
+      좋아.
+      그럼 내가 먼저 질문할게.
+    ja: |-
+      オッケー。
+      じゃ、私から。
+  event_wisdomspring_epilogue_34:
+    speaker: ether
+    en: Then...
+    ko: 7호 말이야.
+    ja: 7号だけど…
+  event_wisdomspring_epilogue_35:
+    speaker: ether
+    en: Is No. 7 healthy?
+    ko: 건강해?
+    ja: 元気？
+  event_wisdomspring_epilogue_36:
+    speaker: mana
+    en: Sorry?
+    ko: 뭐?
+    ja: え？
+  event_wisdomspring_epilogue_37:
+    speaker: ether
+    en: Is he in good health?
+    ko: 건강하냐고.
+    ja: だから、元気？
+  event_wisdomspring_epilogue_38:
+    speaker: ether
+    en: Is he suffering from any illnesses, injuries, or is in any other way unwell?
+    ko: "병에 걸렸다거나, 다쳤다거나, \n따로 아픈 데는 없어 보였어?"
+    ja: |-
+      病気があるとか、大ケガしてるとか、
+      どこか調子が悪いとか、あった？
+  event_wisdomspring_epilogue_39:
+    speaker: mana
+    en: All his metrics were normal.
+    ko: "…수치는 모두 정상이었어."
+    ja: "…数値はすべて正常だったわ。"
+  event_wisdomspring_epilogue_40:
+    speaker: mana
+    en: His collapse was stress-induced. All the tension from that day was more than
+      he could bear.
+    ko: "그날 쓰러진 것도 스트레스, 긴장으로 인해 \n체력에 한계가 온 것뿐이었으니까."
+    ja: |-
+      あの日気絶したのはストレスと緊張のせい。
+      心労が限界に来ただけ。
+  event_wisdomspring_epilogue_41:
+    speaker: ether
+    en: Oh?
+    ko: 그렇구나?
+    ja: そうだったの？
+  event_wisdomspring_epilogue_42:
+    speaker: ether
+    en: That's good.
+    ko: 그럼 됐어.
+    ja: じゃ、いいわ。
+  event_wisdomspring_epilogue_43:
+    speaker: mana
+    en: Is that all you wanted to ask?
+    ko: "…묻고 싶은 게 그게 전부야?"
+    ja: "…聞きたいことはそれだけ？"
+  event_wisdomspring_epilogue_44:
+    speaker: ether
+    en: Yes. So long as No. 7 is healthy, that's all that matters.
+    ko: "응. \n7호가 건강하면 됐어."
+    ja: |-
+      うん。
+      7号が元気ならいいの。
+  event_wisdomspring_epilogue_45:
+    speaker: mana
+    en: "... Ether."
+    ko: "…에테르."
+    ja: "…エーテル。"
+  event_wisdomspring_epilogue_46:
+    speaker: mana
+    en: Why did you make the Commander come to M.M.R.'s Deep Sector?
+    ko: 왜 지휘관을 M.M.R. 심층부로 불러들인 거야?
+    ja: |-
+      なぜ指揮官をM.M.R.の深層に
+      呼び出したの？
+  event_wisdomspring_epilogue_47:
+    speaker: ether
+    en: Me? That was Jien's doing.
+    ko: |-
+      내가? 7호를?
+      그건 지엔이 한 거잖아.
+    ja: |-
+      私が？7号を？
+      呼んだのはジエンでしょ。
+  event_wisdomspring_epilogue_48:
+    speaker: mana
+    en: Jien must have been the one who suggested it to you,
+    ko: 네게 그 제안을 꺼낸 건 지엔이었을 테지만,
+    ja: そう言い出したのがジエンでも…
+  event_wisdomspring_epilogue_49:
+    speaker: mana
+    en: but you were the one who set up a false account and sent that message to the
+      Commander, posing as me.
+    ko: 내 계정을 복제하여 지휘관께 메시지를 보낸 건 너였을 테니까.
+    ja: |-
+      私のアカウントに偽装して
+      メッセージを送ったのはあなたでしょう。
+  event_wisdomspring_epilogue_50:
+    speaker: ether
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_epilogue_51:
+    speaker: ether
+    en: How did you know?
+    ko: 어떻게 알았어?
+    ja: なんで分かったの？
+  event_wisdomspring_epilogue_52:
+    speaker: mana
+    en: You left a few breadcrumbs here and there.
+    ko: 나한테 대놓고 알아달라는 것 마냥,
+    ja: まるで私に早く気付かせたいみたいに…
+  event_wisdomspring_epilogue_53:
+    speaker: mana
+    en: Almost as if you wanted me to notice.
+    ko: 이곳저곳에 잔뜩 흔적을 남겨뒀잖아.
+    ja: あちこちに痕跡が残っていたから。
+  event_wisdomspring_epilogue_54:
+    speaker: ether
+    en: You're quite smart.
+    ko: 역시 우리 마나는 똑똑하다니까.
+    ja: さすがはマナ、賢いね～
+  event_wisdomspring_epilogue_55:
+    speaker: mana
+    en: Why did you do that?
+    ko: 왜 그런 거야?
+    ja: 何が目的？
+  event_wisdomspring_epilogue_56:
+    speaker: ether
+    en: Is that the question you wish to ask me?
+    ko: 그게 내게 대가 없이 듣고 싶은 질문이야?
+    ja: それ、交換条件で私に聞きたいこと？
+  event_wisdomspring_epilogue_57:
+    speaker: mana
+    en: Yes.
+    ko: 응.
+    ja: ええ。
+  event_wisdomspring_epilogue_58:
+    speaker: ether
+    en: Well well, No. 7 really has gotten a hold over you.
+    ko: 와, 7호가 우리 마나를 제대로 홀려놓긴 했네.
+    ja: あらあら、7号にどうにかされちゃった？
+  event_wisdomspring_epilogue_59:
+    speaker: ether
+    en: An M.M.R. researcher suppressing their thirst for knowledge and instead asking
+      a question for someone else's sake.
+    ko: M.M.R. 연구원이 지식욕을 억누르고, 타인을 위한 질문을 하다니.
+    ja: |-
+      M.M.R.の研究員ともあろう者が
+      自分の知識欲を差し置いて、
+      他人のために質問するなんて。
+  event_wisdomspring_epilogue_60:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_epilogue_61:
+    speaker: ether
+    en: At any rate, No. 7 has been coming back with rather grievous injuries, particularly
+      concerning his stomach.
+    ko: 그냥, 요즘 7호가 지상에서 하도 배가 뚫려서 온다고 하니까,
+    ja: |-
+      別に。最近は7号が地上で身体に
+      大穴開けたって話ばっかり聞くから。
+  event_wisdomspring_epilogue_62:
+    speaker: ether
+    en: I wanted to get him on the examination table for a proper health check,
+    ko: 제대로 실험대에 올려서 건강 체크를 해보고 싶은데….
+    ja: きちんと研究所で健康チェックをしたくても…
+  event_wisdomspring_epilogue_63:
+    speaker: ether
+    en: but he is rather wary of me.
+    ko: 7호는 날 엄청 경계하잖아?
+    ja: 7号って、私のことをすごく警戒してるでしょ？
+  event_wisdomspring_epilogue_64:
+    speaker: ether
+    en: He would never agree to such a proposal.
+    ko: |-
+      내가 내 실험대 위에 잠시만 올라왔다 가지 않을래~ 라고 하면,
+      죽어도 안 올라올 거 같아서.
+    ja: |-
+      ちょっと実験台に乗ってかない？
+      なんて聞いても、絶対に来ないだろうし。
+  event_wisdomspring_epilogue_65:
+    speaker: ether
+    en: So I was thinking of a way to get him here,
+    ko: 어떻게 하면 부를 수 있을까 고민했는데,
+    ja: どうしたらいいか考えてたら…
+  event_wisdomspring_epilogue_66:
+    speaker: ether
+    en: and that's when Jien happened to contact me.
+    ko: 마침, 지엔에게 연락이 온 거야.
+    ja: ジエンからいきなり連絡が来たの。
+  event_wisdomspring_epilogue_67:
+    speaker: ether
+    en: She said she wanted to see No. 7 for herself,
+    ko: 자기도 7호를 직접 보고 싶다고.
+    ja: 自分も7号に会ってみたい、ってさ。
+  event_wisdomspring_epilogue_68:
+    speaker: ether
+    en: and asked me to bring him here.
+    ko: 자기 앞에 데려다 놓으라고.
+    ja: 目の前に連れてこいとか言いだして。
+  event_wisdomspring_epilogue_69:
+    speaker: mana
+    en: Jien...
+    ko: 지엔이….
+    ja: ジエンが…
+  event_wisdomspring_epilogue_70:
+    speaker: ether
+    en: If someone higher up gives me an order, what's an employee like me do?
+    ko: 높으신 분이 이야기하는데, 직장인인 내가 뭘 어쩌겠어?
+    ja: |-
+      上司に言われたら、部下の私としては
+      逆らえないでしょ？
+  event_wisdomspring_epilogue_71:
+    speaker: ether
+    en: If she wants me to summon him, then summon him I must.
+    ko: 부르라면 불러드려야지.
+    ja: 言われた通りにしなくちゃ。
+  event_wisdomspring_epilogue_72:
+    speaker: ether
+    en: I happened to want to see him too, so I thought it would work out nicely.
+    ko: "나도 보고 싶었던 참이니까, \n겸사 겸사 잘 됐다고 생각하면서 부르게 된 거야."
+    ja: |-
+      ま、私にとっても渡りに船だったから、
+      いい機会かと思って。
+  event_wisdomspring_epilogue_73:
+    speaker: ether
+    en: I didn't expect him to have such a hard time.
+    ko: 7호가 그렇게까지 힘들어할 줄은 몰랐지만.
+    ja: 7号があそこまで苦しむのは予想外だったけど。
+  event_wisdomspring_epilogue_74:
+    speaker: mana
+    en: "... When the Commander collapsed while still in the Deep Sector, he said
+      he had a dream."
+    ko: "…지휘관이 심층부에서 쓰러졌을 때, 꿈을 꿨다고 했어."
+    ja: "…気を失っていた時、夢を見たそうよ。"
+  event_wisdomspring_epilogue_75:
+    speaker: mana
+    en: He said that you and I were observing him while he was suspended in a tank,
+    ko: 너와 내가 수조 속에 있는 지휘관을 보고 있었고,
+    ja: あなたと私がポッドの中の指揮官を見ながら…
+  event_wisdomspring_epilogue_76:
+    speaker: mana
+    en: and he heard discussions about the project and its success or failure.
+    ko: 프로젝트, 성공 여부에 관련된 이야기를 들었다고 해.
+    ja: |-
+      プロジェクトがどうとか、
+      成功しないとどうなるとか、
+      話していたらしいわ。
+  event_wisdomspring_epilogue_77:
+    speaker: ether
+    en: Really?
+    ko: 흐응~ 그래?
+    ja: へぇ～？そうだったの？
+  event_wisdomspring_epilogue_78:
+    speaker: ether
+    en: He dreamt about the past?
+    ko: 과거의 일을 꿈으로 꿨단 말이야?
+    ja: 昔のことを夢で見たとか？
+  event_wisdomspring_epilogue_79:
+    speaker: ether
+    en: Interesting.
+    ko: 신기하네.
+    ja: 不思議な話もあるものね～
+  event_wisdomspring_epilogue_80:
+    speaker: mana
+    en: Ether...
+    ko: "…에테르."
+    ja: "…エーテル。"
+  event_wisdomspring_epilogue_81:
+    speaker: mana
+    en: Are you trying to reveal the truth to the Commander?
+    ko: 설마 지휘관에게 진실을 알게 하고 싶은 거야?
+    ja: 指揮官に本当のことを教えるつもり？
+  event_wisdomspring_epilogue_82:
+    speaker: ether
+    en: I don't have any plans to, no.
+    ko: 아니. 그럴 생각 없는데?
+    ja: ううん？全然。
+  event_wisdomspring_epilogue_83:
+    speaker: mana
+    en: Then why do you call him No. 7?
+    ko: 그럼 왜 그를 [7호]라고 부르는 거지?
+    ja: それなら、「7号」と呼ぶのはなぜ？
+  event_wisdomspring_epilogue_84:
+    speaker: ether
+    en: What about it?
+    ko: 7호가 왜?
+    ja: 7号で問題ある？
+  event_wisdomspring_epilogue_85:
+    speaker: mana
+    en: You could attract "their" attention.
+    ko: "[그들]의 눈에 띌 수 있어."
+    ja: 気づかれるかもしれないわ。
+  event_wisdomspring_epilogue_86:
+    speaker: mana
+    en: You know as well as I do that
+    ko: 알잖아.
+    ja: 分かっているでしょう？
+  event_wisdomspring_epilogue_87:
+    speaker: mana
+    en: they don't want the world to know that this project ever existed.
+    ko: "[그들]은 아직 그 [프로젝트]가 있었다는 걸 \n세상에 알리고 싶지 않다는걸."
+    ja: |-
+      「あの人たち」は「プロジェクト」の存在を
+      世界に知られたくないと思ってる。
+  event_wisdomspring_epilogue_88:
+    speaker: ether
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_epilogue_89:
+    speaker: mana
+    en: That's why they've kept it a secret, even from the deputy commanders and the
+      three CEOs.
+    ko: 그래서 부사령관들과 3대 CEO들에게도 비밀로 한 채,
+    ja: |-
+      だから副司令官や三大CEOにさえ
+      秘密にしたまま…
+  event_wisdomspring_epilogue_90:
+    speaker: mana
+    en: They've carried everything out in complete secrecy within the darkest recesses
+      of M.M.R., with approval coming only from them and the commander-in-chief.
+    ko: |-
+      오로지 [그들]과 총사령관의 승인만으로
+      M.M.R. 심층부에서 비밀리에 진행되었던 것 아니야?
+    ja: |-
+      総司令官の承認だけを受けて、
+      M.M.R.深層で極秘に進められた
+      プロジェクトだった、違う？
+  event_wisdomspring_epilogue_91:
+    speaker: ether
+    en: I know all of this.
+    ko: 맞아. 그랬지.
+    ja: ま～、そうだったわね。
+  event_wisdomspring_epilogue_92:
+    speaker: mana
+    en: Then why...
+    ko: 그런데 왜….
+    ja: それなら、どうして…
+  event_wisdomspring_epilogue_93:
+    speaker: ether
+    en: Because that's who he is. He's No. 7.
+    ko: 7호는 7호잖아.
+    ja: 7号は7号だもの。
+  event_wisdomspring_epilogue_94:
+    speaker: ether
+    en: Not 1, 2, 3, 4, 5 or 6.
+    ko: 1호도 2호도 3호도 4호도 5호도 6호도 아닌,
+    ja: |-
+      1号でも、2号でも、3号でも、
+      4号でも、5号でも、6号でも…
+  event_wisdomspring_epilogue_95:
+    speaker: ether
+    en: He is not a failure, nor an escapee, but the sole successful creation.
+    ko: 실패하지도 도망치지도 않은, 유일한 성공작임을 나타내는 단어.
+    ja: |-
+      失敗作でも逃亡体でもない、
+      たった一つの成功を指す言葉。
+  event_wisdomspring_epilogue_96:
+    speaker: ether
+    en: With such a precious title, how could I call him by any other name?
+    ko: "그런 귀한 단어를 두고, \n어떻게 7호를 다른 이름으로 부를 수 있겠어?"
+    ja: |-
+      そんな大事な意味があるのに、
+      他の呼び方じゃ替えが利かないでしょ？
+  event_wisdomspring_epilogue_97:
+    speaker: mana
+    en: Still, that's too dangerous...
+    ko: 그래도 너무 위험….
+    ja: リスクが高すぎるわ…
+  event_wisdomspring_epilogue_98:
+    speaker: ether
+    en: They likely understand the affection I have for the term, which is why they're
+      letting me get away with it.
+    ko: "[그들]도 이 정도의 애정은 이해해 주니까, 날 놔두고 있는 거지 않을까?"
+    ja: |-
+      これくらいの愛情表現は
+      容認してくれてるんじゃない？
+  event_wisdomspring_epilogue_99:
+    speaker: ether
+    en: They've got eyes and ears everywhere in the Ark,
+    ko: 방주 안에서 [그들]의 눈과 귀가 없는 곳이 없는데,
+    ja: |-
+      アークの中に「あいつら」の
+      目と耳が届かない場所なんかないもの。
+  event_wisdomspring_epilogue_100:
+    speaker: ether
+    en: so there's no way they aren't aware of me calling him that.
+    ko: 내가 이렇게 부르고 있는 걸 모를 리가 없잖아.
+    ja: |-
+      私がそう呼んでることだって、
+      知らないはずないし。
+  event_wisdomspring_epilogue_101:
+    speaker: ether
+    en: If there was going to be trouble, it would have happened already.
+    ko: 이미 탈이 날 거였으면, 한참 전에 났겠지.
+    ja: 何か問題があれば、とっくに動いてるでしょ。
+  event_wisdomspring_epilogue_102:
+    speaker: mana
+    en: "..."
+    ko: "……."
+    ja: "……"
+  event_wisdomspring_epilogue_103:
+    speaker: ether
+    en: Don't worry too much. I'm a professional. I know how to walk the line.
+    ko: |-
+      너무 걱정하지 마.
+      프로 직장인답게 적당히 눈치 봐가면서, 까불고 있으니까.
+    ja: |-
+      心配しないで。まっとうな社会人らしく、
+      他人様の顔色うかがいながら、
+      ほどほどにやってるから。
+  event_wisdomspring_epilogue_104:
+    speaker: mana
+    en: "*Sigh*... Okay, fine. Do as you wish."
+    ko: |-
+      …하아. 알겠어.
+      뜻대로 해.
+    ja: |-
+      …はぁ。分かったわ。
+      好きにして。
+  event_wisdomspring_epilogue_105:
+    speaker: ether
+    en: I will.
+    ko: 응.
+    ja: 言われなくても。
+  event_wisdomspring_epilogue_106:
+    speaker: mana
+    en: But if you aren't trying to reveal the truth, then it couldn't have been you
+      who left the tablet.
+    ko: "…진실을 알려주려던 게 아니라면, \n태블릿은 에테르가 놔둔 게 아닌 거겠네."
+    ja: |-
+      …教える気がなかったなら、あのタブレットは
+      エーテルのしわざでもなかった…？
+  event_wisdomspring_epilogue_107:
+    speaker: ether
+    en: Tablet?
+    ko: 태블릿?
+    ja: タブレット？
+  event_wisdomspring_epilogue_108:
+    speaker: mana
+    en: Never mind.
+    ko: 아무것도 아니야.
+    ja: 何でもないわ。
+  event_wisdomspring_epilogue_109:
+    speaker: ether
+    en: All this talk makes me want to see No. 7 again.
+    ko: 아, 얘기하다 보니까 또 7호 보고 싶다.
+    ja: |-
+      あ、話をしてたらまた7号に
+      会いたくなってきちゃった。
+  event_wisdomspring_epilogue_110:
+    speaker: mana
+    en: I understand that you miss him,
+    ko: 보고 싶은 건 알겠는데,
+    ja: 気持ちは分からなくもないけど…
+  event_wisdomspring_epilogue_111:
+    speaker: mana
+    en: but please refrain from summoning the Commander to the Deep Sector again.
+    ko: 다음부터 지휘관을 심층부로 불러들이는 건 자제해.
+    ja: 深層に招待するのは自制して。
+  event_wisdomspring_epilogue_112:
+    speaker: mana
+    en: Doing that may put him in serious danger.
+    ko: 다음번엔 지휘관이 정말 위험해질 수도 있어.
+    ja: 次も無事で済むとは限らないわ。
+  event_wisdomspring_epilogue_113:
+    speaker: ether
+    en: Hmm... we'll see.
+    ko: 음… 봐서?
+    ja: う～ん…考えとく。
+  event_wisdomspring_epilogue_114:
+    speaker: mana
+    en: "*Sigh*..."
+    ko: 하아….
+    ja: はぁ…
+  event_wisdomspring_epilogue_115:
+    speaker: "<Narration>"
+    en: 'WISDOM SPRING: END'
+    ko: 'WISDOM SPRING : END'
+    ja: WISDOM SPRING：END

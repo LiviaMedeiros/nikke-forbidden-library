@@ -71,12 +71,12 @@ skill_name_1003:
 20821_description:
   en: |-
     ■ Activates when entering Full Burst. Affects all allies.
-    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    <color=#00AEFF>Effect changes according to the number of activation times. <word_group=10028>Previous effects trigger repeatedly</word_group>:
     Once: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_01} sec.
     Twice: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_02} sec.
     Three times: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>
     ■ Activates when using Burst Skill. Affects all allies.
-    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    <color=#00AEFF>Effect changes according to the number of activation times.  <word_group=10028>Previous effects trigger repeatedly</word_group>:
     Once: Max Ammunition Capacity ▲ {description_value_04}% for {description_value_05} sec.
     Twice: Critical Damage ▲ {description_value_06}% for {description_value_07} sec.
     Three times: ATK ▲ {description_value_08}% for {description_value_09} sec.</color>

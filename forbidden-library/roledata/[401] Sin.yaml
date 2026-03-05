@@ -57,8 +57,8 @@ character_shot_description_localkey_ar_down:
     ■ Activates after Full Burst ends. Affects self.
     <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
-    Once: Recover {description_value_03}% of attack damage as HP, lasts for {description_value_04} sec.
+    <color=#00AEFF>Effect changes according to the number of activation times. <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Once: Recover {description_value_03}% of attack damage as HP for {description_value_04} sec.
     Twice: Potency of HP restored ▲ {description_value_05}% for {description_value_06} sec.
     Three times: DEF ▲ {description_value_07}% for {description_value_08} sec.</color>
   ko: |-

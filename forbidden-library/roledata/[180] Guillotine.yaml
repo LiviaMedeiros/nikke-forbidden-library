@@ -55,8 +55,8 @@ character_shot_description_localkey_mg_down:
   en: "■ Activates after landing {description_value_01} normal attack(s). Affects
     self.\n<color=#00AEFF>Critical Damage ▲ {description_value_02}% for {description_value_03}
     sec.</color> \n■ Activates when HP falls below {description_value_04}%. Affects
-    self.\n<color=#00AEFF>ATK ▲ {description_value_05}% with every 1% of HP loss.
-    This effect is active continuously.</color>"
+    self.\n<color=#00AEFF>ATK ▲ {description_value_05}% continuously for every 1%
+    of HP lost.</color>"
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
     <color=#00AEFF>[크리티컬 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>

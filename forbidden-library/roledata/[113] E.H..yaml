@@ -1,0 +1,567 @@
+---
+113_name:
+  en: E.H.
+  ko: E.H.
+  ja: E.H.
+c113_description:
+  en: |-
+    The new leader of the Exotic Squad.
+    She is the former leader of the terrorist group, Heavenly Ascension. After the terrorist attack in the Ark, she became a Nikke to atone for her past.
+  ko: |-
+    이그조틱 스쿼드의 새로운 리더.
+    과거 테러리스트 조직, [엔터 헤븐]의 리더였으나 방주 테러 사건 이후 과거를 속죄하기 위해 니케가 되었다.
+  ja: |-
+    エキゾチック部隊の新しいリーダー。
+    かつてテロリスト組織「エンターヘブン」のリーダーだったが
+    アークテロ事件以降、過去の罪を償うためにニケになった。
+113_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_113:
+  en: E.H.'s Spare Body
+  ko: E.H. 스페어 바디
+  ja: E.H.のスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+21132_name:
+  en: Scrap Hunt
+  ko: 정크 헌팅
+  ja: ジャンクハンティング
+21132_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Function: Gains a buff when obtaining Scraps.
+    Effect 1: Activates at the start of battle. Scraps ▲ {description_value_07} continuously, up to a maximum of {description_value_02}.
+    Effect 2: Activates when an ally or self destroys a <word_group=10096>destructible projectile</word_group>. Scraps ▲ {description_value_01} continuously, up to a maximum of {description_value_02}.
+    Effect 3: Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Scraps ▲ {description_value_03} continuously, up to a maximum of {description_value_02}.
+    Effect 4: Activates when <word_group=10077>an enemy is neutralized</word_group>. Scraps ▲ {description_value_04} continuously, up to a maximum of {description_value_02}.
+    Effect 5: Activates when obtaining Scraps. <word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>기능 : 폐품 획득 시 이로운 효과를 얻습니다.
+    효과 1 : 전투 시작 시 [폐품 {description_value_07}개 ▲] [최대 {description_value_02}개] [지속]
+    효과 2 : 자신을 포함한 아군 누군가 <word_group=10096>파괴 가능한 발사체</word_group> 파괴 시 [폐품 {description_value_01}개 ▲] [최대 {description_value_02}개] [지속]
+    효과 3 : 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> [폐품 {description_value_03}개 ▲] [최대 {description_value_02}개] [지속]
+    효과 4 : <word_group=10077>적 사망 시</word_group> [폐품 {description_value_04}개 ▲] [최대 {description_value_02}개] [지속]
+    효과 5 : 폐품 획득 시 [<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>機能：廃品を回収し、強化効果を得る
+    効果1：戦闘開始時「廃品{description_value_07}個▲」
+    「最大{description_value_02}個」「持続」
+    効果2：自分を含む味方の誰かが
+    <word_group=10096>破壊可能な発射体</word_group>を破壊した時、
+    「廃品{description_value_01}個▲」「最大{description_value_02}個」「持続」
+    効果3：自分を含む味方の誰かが
+    <word_group=10052>パーツを破壊した時</word_group>
+    「廃品{description_value_03}個▲」「最大{description_value_02}個」「持続」
+    効果4：<word_group=10077>敵が破壊された時</word_group>
+    「廃品{description_value_04}個▲」「最大{description_value_02}個」「持続」
+    効果5：廃品を回収した時、
+    「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_05}％▲」
+    「{description_value_06}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21131_name:
+  en: Homemade Magazine
+  ko: 홈메이드 매거진
+  ja: ホームメイドマガジン
+21131_description:
+  en: |-
+    ■ Activates when obtaining {description_value_01} Scrap(s) while having fewer than {description_value_02} homemade magazines crafted. Affects self.
+    <color=#00AEFF>Function: Crafts magazines out of Scraps and gains a buff.
+    Effect 1: Removes Scrap(s).
+    Effect 2: Crafts 1 homemade magazine, up to a maximum of {description_value_02}. This effect is continuous.
+    Effect 3: ATK ▲ {description_value_03}% continuously x the number of homemade magazines.</color>
+  ko: |-
+    ■ 폐품 {description_value_01}개 획득 시 사제 탄창 제작 수가 {description_value_02}개 미만이라면 자신에게
+    <color=#00AEFF>기능 : 폐품을 탄창으로 제작 후 이로운 효과를 부여합니다.
+    효과 1 : [폐품 제거]
+    효과 2 : [사제 탄창 제작 1개] [최대 {description_value_02}개 보유] [지속]
+    효과 3 : [공격력 {description_value_03}% X 사제 탄창 개수 ▲] [지속]</color>
+  ja: |-
+    ■廃品を{description_value_01}個回収した時、
+    自家製弾倉が{description_value_02}本未満なら自分に
+    <color=#00AEFF>機能：廃品で自家製弾倉を製造し、
+    強化効果を得る
+    効果1：「廃品数リセット」
+    効果2：「自家製弾倉1本増加」「最大{description_value_02}本」「持続」
+    効果3：「攻撃力{description_value_03}％×自家製弾倉数▲」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11133_name:
+  en: Heavenbound
+  ko: 인 투 더 헤븐
+  ja: イン・トゥ・ザ・ヘブン
+11133_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Changes the weapon in use.
+    Charge Time: 0.4 sec
+    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    Full Charge Damage: 250% of damage
+    Max Ammunition Capacity: 1 x the number of homemade magazines
+    Duration: {description_value_02} sec
+    <word_group=10097>Removal condition</word_group>: When the duration ends or when all rounds have been fired.
+    Additional Effect:
+    ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[사용 무기 변경]
+    차지 시간 : 0.4초
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}%
+    풀 차지 대미지 : 250% 대미지
+    최대 장탄 수 : 1발 X 사제 탄창 개수
+    유지 시간 : {description_value_02}초 유지
+    <word_group=10097>제거 시점</word_group> : 유지 시간 종료 또는 모든 탄환 발사 시
+    추가 효과
+    [공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「使用武器変更」
+    チャージ時間：0.4秒
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％
+    フルチャージダメージ：250％
+    最大装弾数：1発×自家製弾倉の数
+    持続時間：{description_value_02}秒
+    <word_group=10097>解除条件</word_group>：
+    持続時間終了または全弾消費した時
+    追加効果
+    「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+110_name:
+  en: Crow
+  ko: 크로우
+  ja: クロウ
+111_name:
+  en: Jackal
+  ko: 자칼
+  ja: ジャッカル
+112_name:
+  en: Viper
+  ko: 바이퍼
+  ja: バイパー
+c113_Lobby_Touch_1:
+  en: I owe you a great debt for everything you've done for me. I promise to pay you
+    back in any way I can.
+  ko: |-
+    이전엔 신세 많이 졌어.
+    어떤 식으로든 네게 진 빚은 꼭 갚도록 할게.
+  ja: |-
+    色々ありがとう。
+    どんな形でも、借りは必ず返す。
+c113_Lobby_Touch_2:
+  en: I want to atone for what I've done. I may not be forgiven, but... I still want
+    to do it.
+  ko: |-
+    저지른 일에 대한 속죄를 하고 싶어.
+    아무도 받아주지 않는다고 해도… 그래도 하고 싶어.
+  ja: |-
+    罪をつぐないたい。
+    誰も許してくれなかったとしても…
+c113_Lobby_Touch_3:
+  en: I used to think that as long as you were in the right, any means were justified,
+    no matter how terrible. I realized far too late just how wrong I was...
+  ko: |-
+    목적만 옳다면 방법이 그릇되어도 상관없다고 생각했었어.
+    그게 얼마나 잘못된 생각이었는지 너무 나중에 알았지….
+  ja: |-
+    目的さえ正しければ、手段が間違っていても構わないと思ってた。
+    その考えが間違っていると気づいたときには、もう遅かった…
+c113_Lobby_Touch_Love_1:
+  en: There are no shortcuts when you're trying to walk the right path. I understand
+    that now, which is why I'm just doing my best.
+  ko: |-
+    이젠 알아. 옳은 길을 꿈꾸기 위해선 빠른 길은 없다는 걸.
+    그러니 최선을 다할 뿐이야.
+  ja: |-
+    今ならよく分かる。
+    正しい道を歩もうとするなら、近道なんてないって。
+    だから、今は最善を尽くすだけ。
+c113_Lobby_Touch_Love_2:
+  en: I thought I could change the world and save people. I was so blinded by this
+    sense of duty that I couldn't even see the terrible things I was doing...
+  ko: |-
+    세상을 바꾸고 누군가를 구원할 수 있을 거라고 생각했어.
+    사명에 눈이 멀어 죄를 짓고 있는지조차 몰랐으면서….
+  ja: |-
+    世界を変えて、誰かを救えるはずだって信じてたの。
+    使命に目がくらみ、罪の意識さえ感じていなかった…
+c113_Lobby_Touch_Love_3:
+  en: Thank you for trusting me, even after everything that's happened. As I move
+    forward, I won't forget the weight of my sins.
+  ko: |-
+    그런 일이 있었는데도 신뢰해 줘서 고마워.
+    늘 마음속에 죄의 무게를 잊지 않고 살아갈게.
+  ja: |-
+    あんなことがあったのに、信じてくれてありがとう。
+    この罪の重さを胸に刻んで、生きていくつもり。
+c113_Lobby_Stay_1:
+  en: Looks like you're pretty busy. I'll go ahead and do my own thing.
+  ko: |-
+    많이 바쁜가 보네.
+    그럼 나도 따로 움직이고 있을게.
+  ja: |-
+    忙しそう。
+    私も別行動しよう。
+c113_Lobby_Stay_Love_1:
+  en: This place is peaceful and warm, even when you're away... Is it really okay
+    for me to be here?
+  ko: |-
+    여긴 네가 없어도 평화롭고 따뜻하군.
+    …내가 이런 곳에 있어도 될지 모르겠네.
+  ja: |-
+    ここはお前がいなくても穏やかであたたかい。
+    …私は、ここにいてもいいのだろうか。
+c113_Outpost_Touch_1:
+  en: This place is... really peaceful. It's exactly the kind of place I wanted the
+    Outer Rim to become...
+  ko: |-
+    여긴… 정말 평화롭네.
+    아우터 림도 이런 곳이 되길 바랬는데….
+  ja: |-
+    ここは…本当に平和。
+    アウターリムもこんなふうに なれたらよかったのに…
+c113_Outpost_Touch_2:
+  en: If you have something to tell me while I'm gone, leave a message at the Trendy
+    Bar. ... Oh, you'll just text me? Yeah, that works too.
+  ko: |-
+    내가 부재 중일 때 할 말이 있다면, 모던 바에 메시지를 남겨줘.
+    아… 블라를 보내겠다고. 그것도 좋겠네.
+  ja: |-
+    私がいない間に何かあったら、 バーにメッセージを残して。
+    あぁ… BlaBla？ それでもいい。
+c113_Outpost_Touch_3:
+  en: All the Nikkes here look so happy... I suppose that's all thanks to your efforts.
+  ko: |-
+    여기에 있는 니케들 모두 행복해하는 모습이네.
+    …이런 곳을 만들어낸 건 전부 너의 노력 덕분이겠지.
+  ja: |-
+    ここにいるニケたちは、 みんな幸せそう。
+    …こんな場所になったのも、 すべてお前の努力のおかげね。
+c113_Gacha_Get_1:
+  en: It's me, E.H. I'll do everything in my power to help, just as you helped me.
+  ko: "E.H.야. \n신세 졌던만큼 최선을 다해 도울게."
+  ja: |-
+    E.H.よ。
+    世話になった分、全力でサポートさせてもらう。
+c113_Reinforce_1:
+  en: I'm once again in your debt.
+  ko: 또 신세를 졌네.
+  ja: また助けられた。
+c113_Reinforce_2:
+  en: Where did you even manage to find all these materials?
+  ko: 이런 재료를 어디서 다 구해온 거지?
+  ja: どこでこんな素材を？
+c113_Reinforce_3:
+  en: I'll do everything I can to prove that your trust in me is not misplaced.
+  ko: 보내준 신뢰만큼, 최선의 결과를 낼게.
+  ja: 信頼に応えられるよう、最善を尽くす。
+c113_Gift_1:
+  en: Is it really okay for me to accept something this nice?
+  ko: 이렇게 귀한걸 내가 받아도 되는 거야?
+  ja: こんな貴重なものを、私がもらっていいの？
+c113_Gift_2:
+  en: I really needed this... Thank you for getting it for me. I swear to repay you
+    someday.
+  ko: |-
+    필요했던 건데… 구해줘서 고마워.
+    언젠가 꼭 보답할게.
+  ja: |-
+    これ、必要だったの…探してくれてありがとう。
+    いつかこの恩は必ず返す。
+c113_Gift_3:
+  en: You really don't have to be this nice to me... Still, I do appreciate it.
+  ko: |-
+    나한테 이렇게 잘 해줄 필요는 없는데….
+    …그래도 챙겨줘서 고마워.
+  ja: |-
+    ここまでしてくれなくても…
+    …でも、気を遣ってくれてありがとう。
+c113_Attractive_Up_1:
+  en: It feels like all I ever do is get help from you... I don't know how to express
+    my gratitude.
+  ko: "매번 네겐 도움만 받아서, \n뭐라고 감사 인사를 해야 할지 모르겠네."
+  ja: いつも助けてもらってばかりで感謝の言葉すら見つからない。
+c113_Attractive_Up_2:
+  en: I think I understand why so many Nikkes rely on you. Your words and actions
+    naturally inspire trust.
+  ko: |-
+    왜 많은 니케들이 네게 의지하는지 알 것 같아.
+    네 말과 행동이 널 신뢰하게 하는 거겠지.
+  ja: |-
+    ニケたちがみんなお前を頼る理由が分かった。
+    その言動が、信頼につながってる。
+c113_Attractive_Up_3:
+  en: You really are an incredible person. You actually might just be able to change
+    the world...
+  ko: |-
+    넌 참 대단한 사람이구나.
+    어쩌면… 너라면 정말로 세상을 바꿀 수 있을 것 같아.
+  ja: |-
+    本当にすごい。
+    お前なら…本当に世界を変えられるかもしれない。
+c113_Party_Deploy_1:
+  en: Good. I'll go with you.
+  ko: 좋아. 함께할게.
+  ja: 分かった。協力する。
+c113_Field_Touch_1:
+  en: Okay. What do you need me to do?
+  ko: 응. 뭘 하면 돼?
+  ja: ええ。何をすればいい？
+c113_Field_Go_1:
+  en: Sure, I'll get moving.
+  ko: 그래. 이동할게.
+  ja: よし。移動する。
+c113_Battle_Enter_1:
+  en: "... Here they come."
+  ko: "…온다."
+  ja: "…来る。"
+c113_Battle_Ready_1:
+  en: Stay back. I'll take care of this.
+  ko: 물러나 있어. 내가 해결할게.
+  ja: 下がってて。私が片付ける。
+c113_Battle_Ready_2:
+  en: I'll put a stop to all of them.
+  ko: 전부 막아 내겠어.
+  ja: すべて食い止めてみせる。
+c113_Battle_Ready_3:
+  en: Locked and loaded. Engaging now.
+  ko: 무장 점검 완료. 응전할게.
+  ja: 武装点検完了。応戦しよう。
+c113_Reload_1:
+  en: Reloading.
+  ko: 정비하고 갈게.
+  ja: 整備してから行く。
+c113_Reload_2:
+  en: "... This is taking a while. Stay hidden."
+  ko: "…전투가 길어지겠네. 몸을 잘 숨기고 있도록 해."
+  ja: "…戦闘が長引きそう。しっかり身を隠していて。"
+c113_Reload_3:
+  en: This body's sturdier than I thought. I like it.
+  ko: 니케의 몸은 생각보다 더 튼튼하네. 나쁘지 않아.
+  ja: 思ってたよりニケの体は頑丈ね。悪くない。
+c113_Ult_Skill_Ready_1:
+  en: I've got this.
+  ko: 내가 갈게.
+  ja: 私が行く。
+c113_Ult_Skill_1:
+  en: Just gotta do my best. No shortcuts.
+  ko: 빠른 길은 없어, 최선을 다할 뿐이야.
+  ja: 近道などない、全力を尽くすのみ。
+c113_FullBurst_1:
+  en: Now...!
+  ko: 지금이야…!
+  ja: 今だ…！
+c113_Kill_Monster_1:
+  en: Clear.
+  ko: 클리어.
+  ja: クリア。
+c113_Kill_Monster_2:
+  en: Good.
+  ko: 좋아.
+  ja: よし。
+c113_Kill_Monster_3:
+  en: Next.
+  ko: 다음.
+  ja: 次。
+c113_Damage_1:
+  en: Agh.
+  ko: 읏.
+  ja: うっ。
+c113_Damage_2:
+  en: Ugh.
+  ko: "…칫."
+  ja: "…チッ。"
+c113_Damage_3:
+  en: Not good.
+  ko: 좋지 않네.
+  ja: まずい。
+c113_Die_1:
+  en: Sorry... I just need a little maintenance.
+  ko: 미안… 잠시만 정비하고 올게.
+  ja: ごめん…少し整備してくる。
+c113_Win_1:
+  en: The way's clear now. Let's go.
+  ko: 이제 방해물은 없어. 가자.
+  ja: もう障害はない。行こう。
+113_cv_ja:
+  en: 'CV: Junko Minagawa'
+  ko: 'CV : 미나가와 준코'
+  ja: CV：皆川純子
+113_cv_ko:
+  en: 'CV: Lee Da-eun'
+  ko: 'CV : 이다은'
+  ja: CV：イ・ダウン
+113_cv_en:
+  en: 'CV: Erin Yvette'
+  ko: 'CV : 에린 이베트'
+  ja: CV：Erin Yvette
