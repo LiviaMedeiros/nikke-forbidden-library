@@ -62,19 +62,19 @@ character_shot_description_localkey_smg_down:
     ■ Activates when using Burst Skill. Affects self.
     <color=#00AEFF>Normal attacks deal true damage for {description_value_01} sec.</color>
     ■ Activates after landing {description_value_02} normal attack(s). Affects the target.
-    <color=#00AEFF>Deals {description_value_03}% of final ATK as true damage.</color>
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as true damage.</color>
   ko: |-
     ■ 버스트 스킬 사용 시 자신에게
     <color=#00AEFF>[일반 공격을 방어력 무시 대미지로 변경] [{description_value_01}초 유지]</color>
     ■ 일반 공격 {description_value_02}회 명중 시 대상에게
-    <color=#00AEFF>[최종 공격력 {description_value_03}% 방어력 무시 대미지]</color>
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 방어력 무시 대미지]</color>
   ja: |-
     ■バーストスキルを使用した時、自分に
     <color=#00AEFF>「通常攻撃を防御力無視ダメージに変更」
     「{description_value_01}秒間維持」</color>
     ■通常攻撃が{description_value_02}回命中した時、対象に
-    <color=#00AEFF>「最終攻撃力の{description_value_03}％の
-    防御力無視ダメージ」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の
+    {description_value_03}％の防御力無視ダメージ」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -88,7 +88,7 @@ skill_name_1003:
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Charges Extrasensory to {description_value_01}% continuously, up to {description_value_02}%. This effect cannot be dispelled.</color>
     ■ Activates while in Extrasensory status. Affects self.
-    <color=#00AEFF>Effect changes according to the charge level of Extrasensory. Previous effects trigger repeatedly.
+    <color=#00AEFF>Effect changes according to the charge level of Extrasensory. <word_group=10028>Previous effects trigger repeatedly</word_group>.
     Only when at {description_value_02}%: Dodging Bullets: Invulnerable for {description_value_03} sec.
     Only when above {description_value_04}%: ATK ▲ {description_value_05}% continuously. This effect cannot be dispelled.
     Only when above {description_value_06}%: True Damage ▲ {description_value_07}% continuously. This effect cannot be dispelled.
@@ -99,7 +99,7 @@ skill_name_1003:
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[초감각 {description_value_01}% 충전] [최대 {description_value_02}%] [지속] [해제 불가]</color>
     ■ 자신이 초감각 상태라면 자신에게
-    <color=#00AEFF>[초감각 상태 별 효과] [하위 효과 중복 적용]
+    <color=#00AEFF>[초감각 상태 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
     {description_value_02}% 상태일 때 : [사격 간파 : 무적] [{description_value_03}초 유지]
     {description_value_04}% 이상일 때 한하여 : [공격력 {description_value_05}% ▲] [지속] [해제 불가]
     {description_value_06}% 이상일 때 한하여 : [방어력 무시 대미지 {description_value_07}% ▲] [지속] [해제 불가]
@@ -111,16 +111,11 @@ skill_name_1003:
     <color=#00AEFF>「超感覚{description_value_01}％チャージ」「最大{description_value_02}％」「持続」「解除不可」</color>
     ■自分が超感覚状態なら、自分に
     <color=#00AEFF>「超感覚チャージ状態別の効果」
-    「下位効果のスタック適用」
-    {description_value_02}％の時：「射撃予測：無敵」
-    「{description_value_03}秒間維持」
+    「<word_group=10028>下位効果のスタック適用</word_group>」
+    {description_value_02}％の時：「射撃予測：無敵」「{description_value_03}秒間維持」
     {description_value_04}％以上の時：「攻撃力{description_value_05}％▲」「持続」「解除不可」
-    {description_value_06}％以上の時：
-    「防御力無視ダメージ{description_value_07}％▲」
-    「持続」「解除不可」
-    {description_value_08}％以上の時：
-    「命中率{description_value_09}％▲」
-    「持続」「解除不可」</color>
+    {description_value_06}％以上の時：「防御力無視ダメージ{description_value_07}％▲」「持続」「解除不可」
+    {description_value_08}％以上の時：「命中率{description_value_09}％▲」「持続」「解除不可」</color>
     ■{description_value_10}秒ごとに自分に
     <color=#00AEFF>「超感覚{description_value_11}％▼」</color>
 skill_name_1002:

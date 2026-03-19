@@ -4621,3 +4621,504 @@ d_ex_command_09:
     en: all the way until I'm finished with my dessert.
     ko: 내가 디저트를 다 먹을 때까지도 이어졌다….
     ja: 私がスイーツを食べ終わるまで続くのだった…
+d_ex_command_10:
+  d_ex_command_10_01:
+    speaker: "<Monologue>"
+    en: After receiving a message from Arcana saying she'll come by the Commander's
+      Room, I do some paperwork while I wait.
+    ko: 지휘관실에 오겠다는 아르카나의 연락을 받고, 서류 정리를 하며 기다리고 있었다.
+    ja: |-
+      アルカナから指揮官室に
+      向かっているという連絡をもらい、
+      書類を整理しながら待っていた
+  d_ex_command_10_02:
+    speaker: "<Narration>"
+    en: "*Whirr*"
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_command_10_03:
+    speaker: arcana_s
+    en: Hello?
+    ko: 계세요~?
+    ja: お待たせしました～！
+  d_ex_command_10_04:
+    speaker: crust
+    en: Don't mind me, Mr. Gourmand!
+    ko: 실례하겠습니다, 미식가님!
+    ja: 失礼します、グルメ様！
+  d_ex_command_10_05:
+    speaker: "<Self>"
+    en: Oh, Crust, you're here too?
+    ko: 왔구나. 크러스트도 같이 왔네?
+    ja: クラストも一緒だったのか
+  d_ex_command_10_06:
+    speaker: crust
+    en: Yes! Ms. Arcana asked me to help prepare the lunchboxes.
+    ko: 네! 아르카나님이 도시락 만드는 걸 좀 도와달라고 하셨거든요.
+    ja: |-
+      はい！アルカナさんにお弁当作りを
+      手伝ってほしいと頼まれたんです。
+  d_ex_command_10_07:
+    speaker: "<Self>"
+    en: Lunchboxes?
+    ko: 도시락?
+    ja: お弁当？
+  d_ex_command_10_08:
+    speaker: arcana_s
+    en: I had such a wonderful time with everyone at the M.M.R. Vocational School,
+      so I wanted to pack them some lunches.
+    ko: 즐거운 추억을 선물해 준 소중한 친구들이니까, M.M.R 부속 고등학교 친구들을 위해 도시락을 싸주고 싶었어요.
+    ja: |-
+      楽しい思い出をプレゼントしてくれた
+      M.M.R.附属高校のみんなのために、
+      お弁当を作りたいんです。
+  d_ex_command_10_09:
+    speaker: arcana_s
+    en: That's why I came to see you, @UserName. I was hoping you could do a taste
+      test.
+    ko: 그래서 그쪽한테 맛보기 좀 부탁하려고, 오늘 찾아온 거예요.
+    ja: それであなたに味見を頼みたくて。
+  d_ex_command_10_10:
+    speaker: arcana_s
+    en: Do you mind?
+    ko: 부탁 좀 해도 괜찮죠?
+    ja: お願いできますよね？
+  d_ex_command_10_11:
+    speaker: arcana_s
+    en: I figured you might be getting hungry around now anyway.
+    ko: 이제 슬슬 배고플 시간이잖아.
+    ja: そろそろお腹が空く時間でしょ？
+  d_ex_command_10_12:
+    speaker: "<Self>"
+    en: I certainly don't mind.
+    ko: 그럼 나야 좋지.
+    ja: ああ、喜んで
+  d_ex_command_10_13:
+    speaker: crust
+    en: Thank you, Mr. Gourmand!
+    ko: 잘 부탁드려요, 미식가님!
+    ja: よろしくお願いします、グルメ様！
+  d_ex_command_10_14:
+    speaker: arcana_s
+    en: You can keep doing your work for now.
+    ko: 일단 하던 일, 마저 하고 계셔도 돼요.
+    ja: とりあえず、お仕事しててください。
+  d_ex_command_10_15:
+    speaker: arcana_s
+    en: Once we're done making them, we'd love for you to give them a try!
+    ko: 다 끝나면 시식 부탁드릴게요~
+    ja: 完成したら試食をお願いしますから～
+  d_ex_command_10_16:
+    speaker: "<Self>"
+    en: All right. Give me a shout when you're done.
+    ko: 알았어. 그럼 끝나면 불러줘.
+    ja: 分かった。できたら呼んでくれ
+  d_ex_command_10_17:
+    speaker: "<Narration>"
+    en: A short while later...
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_command_10_18:
+    speaker: "<Monologue>"
+    en: As I focus on my work, Arcana and Crust wrap up their cooking.
+    ko: 업무에 집중하고 있는 동안, 어느새 아르카나와 크러스트는 요리를 끝낸 듯했다.
+    ja: |-
+      仕事に集中していると、
+      アルカナとクラストはいつの間にか
+      料理を作り終えたようだった
+  d_ex_command_10_19:
+    speaker: crust
+    en: Even to my eyes, these lunchboxes look very well made!
+    ko: 제 눈으로 봐도, 정말 잘 만들어진 도시락이네요!
+    ja: 私から見ても、とっても素敵なお弁当です！
+  d_ex_command_10_20:
+    speaker: crust
+    en: And they all pass the taste test too.
+    ko: 일단 맛도 제 입엔 합격이긴 한데.
+    ja: 味も私としては合格ですし、
+  d_ex_command_10_21:
+    speaker: crust
+    en: But the most impressive thing is how much heart and soul have been put into
+      them.
+    ko: 무엇보다 애정이 듬뿍 담겨 있는 게 가장 큰 것 같아요~
+    ja: |-
+      何より愛情がたっぷりこもっているのが
+      一番のポイントですね～
+  d_ex_command_10_22:
+    speaker: arcana_s
+    en: Wow, really?
+    ko: 와아. 정말이죠??
+    ja: わあ、本当ですか？
+  d_ex_command_10_23:
+    speaker: arcana_s
+    en: Hearing that from a professional really means something! Go me, hehe!
+    ko: 전문가한테 인정받았다고 생각하니까, 뭔가 으쓱해지는데요?
+    ja: |-
+      プロに褒められると、
+      自慢したくなっちゃいますね。
+  d_ex_command_10_24:
+    speaker: crust
+    en: These are absolutely worth bragging about.
+    ko: 자랑하셔도 좋을 정도예요.
+    ja: ぜひぜひ自慢してください！
+  d_ex_command_10_25:
+    speaker: crust
+    en: They're so perfectly made
+    ko: 아마 이 정도 완성도라면….
+    ja: きっとこれなら…
+  d_ex_command_10_26:
+    speaker: crust
+    en: that I think anyone who eats them will enjoy them.
+    ko: 누가 드시더라도 맛있게 드시지 않을까요?
+    ja: |-
+      どなたが召し上がっても、
+      おいしいと思うはずです。
+  d_ex_command_10_27:
+    speaker: "<Self>"
+    en: All right, I'm done with my work.
+    ko: 얘들아, 나 업무 다 끝났어.
+    ja: こっちも仕事が片づいた
+  d_ex_command_10_28:
+    speaker: arcana_s
+    en: Thanks for all your help, Crust.
+    ko: 이게 다 크러스트님이 도와주신 덕분이에요.
+    ja: これもクラスト様が手伝ってくれたおかげです。
+  d_ex_command_10_29:
+    speaker: arcana_s
+    en: You taught me so much today.
+    ko: 오늘 정말 많이 배웠어요.
+    ja: 今日はとっても勉強になりました。
+  d_ex_command_10_30:
+    speaker: arcana_s
+    en: Not just about cooking, but also about how to plate the food beautifully.
+    ko: 특히 요리도 요리지만, 예쁘게 담는 거!
+    ja: 特に、盛り付け方！
+  d_ex_command_10_31:
+    speaker: arcana_s
+    en: It really made me realize how impressive you professionals are.
+    ko: 확실히 전문가는 전문가구나, 싶더라구요.
+    ja: |-
+      すごくきれいで、
+      やっぱりプロは違うなって思いました。
+  d_ex_command_10_32:
+    speaker: arcana_s
+    en: I'm super interested in cooking, so I really admire people who are skilled
+      at it.
+    ko: 요리에 흥미가 있다 보니까, 잘하시는 분 보면 되게 존경스럽기도 하구.
+    ja: |-
+      料理に興味があるので、
+      上手な方に憧れちゃいます。
+  d_ex_command_10_33:
+    speaker: crust
+    en: Think nothing of it! This is what I do, after all.
+    ko: 그런 것들이 다 제가 해야 하는 일이니까요~
+    ja: それが私のお仕事ですから～
+  d_ex_command_10_34:
+    speaker: crust
+    en: It's only natural for me to know what I'm doing, and even I have a lot left
+      to learn.
+    ko: 당연히 할 줄 알아야 하는 거고, 아직 저도 배울 게 많답니다!
+    ja: できて当然ですし、まだまだ私も勉強中です！
+  d_ex_command_10_35:
+    speaker: "<Self>"
+    en: Are we going to start the taste test any—
+    ko: 이제 시식….
+    ja: そろそろ試食を…
+  d_ex_command_10_36:
+    speaker: crust
+    en: I must say, your cooking skills are quite impressive, Ms. Arcana.
+    ko: 아르카나님이야 말로, 요리 솜씨가 상당하시던데요?
+    ja: アルカナさんこそ、かなりの腕前でしたよ？
+  d_ex_command_10_37:
+    speaker: crust
+    en: I was really surprised by how you handled the ingredients.
+    ko: 재료 다루시는 솜씨에 놀랐어요.
+    ja: 食材の扱い方に驚きました。
+  d_ex_command_10_38:
+    speaker: crust
+    en: When you rolled the omelet, you didn't tear it even once.
+    ko: 계란말이를 말 때, 한 번도 안 망가트리고 마시는 것도 그렇고.
+    ja: 卵焼きを作る時も、一度も崩れなかったですし！
+  d_ex_command_10_39:
+    speaker: crust
+    en: And octopus-shaped sausages require extremely precise scoring,
+    ko: 정확하게 칼집을 내야, 이런 예쁜 문어 모양이 나오는데….
+    ja: |-
+      それにこのタコさんも、
+      正確に切り込みを入れないと
+      ちゃんとタコの形にならないんです。
+  d_ex_command_10_40:
+    speaker: crust
+    en: but the ones you made are incredibly neat!
+    ko: 엄청 깔끔한 문어 다리를 만드셨네요.
+    ja: とってもきれいなタコさんができましたね。
+  d_ex_command_10_41:
+    speaker: arcana_s
+    en: I wanted to take photos of my cooking and show them to people,
+    ko: 요리한 사진을 찍어서 주변 사람들한테 보여주기도 했거든요.
+    ja: |-
+      料理の写真を撮って、
+      みんなに見せたりしてたんです。
+  d_ex_command_10_42:
+    speaker: arcana_s
+    en: so I tried really hard to keep everything neat and tidy throughout.
+    ko: 그래서 손질할 때부터 좀 깔끔하게 하려고 많이 노력했어요.
+    ja: だから下ごしらえの段階から頑張ってみました。
+  d_ex_command_10_43:
+    speaker: crust
+    en: You truly do understand the importance of proper knife technique!
+    ko: 재료 손질의 중요성을 아신다니…!
+    ja: 下ごしらえの大切さをご存じだなんて…！
+  d_ex_command_10_44:
+    speaker: crust
+    en: At this point, I'm starting to think you have a real talent for cooking!
+    ko: 이 정도라면 요리에 재능이 있으신 걸지도 몰라요!
+    ja: 料理の才能があるかもしれませんね！
+  d_ex_command_10_45:
+    speaker: arcana_s
+    en: Hehe, I wouldn't go that far.
+    ko: 헤헷. 그 정도는 아닌데~
+    ja: えへへ。そこまでじゃないですよ～
+  d_ex_command_10_46:
+    speaker: "<Self>"
+    en: Uh... I'm done with my paperwork, so I'm ready to try the food...
+    ko: 그… 서류 정리가 끝나서 시식하러 왔는데….
+    ja: |-
+      その…書類の整理が終わったから
+      試食をしに来たのだが…
+  d_ex_command_10_47:
+    speaker: crust
+    en: Oh, that reminds me!
+    ko: 그래, 맞다!
+    ja: あっ、そうだ！
+  d_ex_command_10_48:
+    speaker: crust
+    en: Would you potentially be interested in a cooking study group?
+    ko: 혹시 요리 스터디에 관심 있으신가요?
+    ja: お料理勉強会に興味はありませんか？
+  d_ex_command_10_49:
+    speaker: arcana_s
+    en: A cooking study group?
+    ko: 요리 스터디요?
+    ja: お料理勉強会？
+  d_ex_command_10_50:
+    speaker: arcana_s
+    en: Is that something you organized yourself?
+    ko: 크러스트님이 직접 만드신 모임인가요?
+    ja: クラスト様が主催してるんですか？
+  d_ex_command_10_51:
+    speaker: crust
+    en: Yes. We don't have that many members yet,
+    ko: 네. 아직 많은 인원이 모인 건 아니긴 한데.
+    ja: はい。まだあまり人数は集まっていませんが、
+  d_ex_command_10_52:
+    speaker: crust
+    en: but I thought it might be nice to have a little get-together where we share
+      cooking tips.
+    ko: 각자 본인이 알고 있는 요리 팁 같은 것들을 공유하는 모임 같은 게 있으면 좋지 않을까~ 해서요.
+    ja: |-
+      お料理のコツなんかを共有する集まりがあれば
+      いいな～って思ったんです。
+  d_ex_command_10_53:
+    speaker: crust
+    en: It's a study group meant only for people who truly love cooking.
+    ko: 요리를 정말 좋아하시는 분들만 모실 그런 스터디인데.
+    ja: お料理が大好きな人たちだけが集まる勉強会で、
+  d_ex_command_10_54:
+    speaker: crust
+    en: So I was wondering if you might like to join us.
+    ko: 혹시 같이 해보실 생각 있으신가….
+    ja: もしよかったらアルカナさんも…
+  d_ex_command_10_55:
+    speaker: "<Self>"
+    en: Sorry, but I'm actually quite hungry...
+    ko: 미안한데, 나 너무 배가 고파서….
+    ja: すまないが、本当に腹が減っていて…
+  d_ex_command_10_56:
+    speaker: arcana_s
+    en: Of course I'll join! I'd love nothing more!
+    ko: 할래요할래요할래요!
+    ja: やりますやりますやります！
+  d_ex_command_10_57:
+    speaker: arcana_s
+    en: I absolutely adore things like that!
+    ko: 저 그런 거 완전 좋아해요!
+    ja: 私、そういうの大好きなんです！
+  d_ex_command_10_58:
+    speaker: arcana_s
+    en: I actually feel like I've learned all I can from teaching myself.
+    ko: 안 그래도 혼자 요리하는데 한계를 느끼고 있었거든요.
+    ja: |-
+      一人で料理をすることに、
+      ちょうど限界を感じていましたし。
+  d_ex_command_10_59:
+    speaker: arcana_s
+    en: I was even considering enrolling in a cooking class somewhere.
+    ko: 요리 학원 같은 곳이라도 다녀볼까, 생각하던 참인데.
+    ja: |-
+      料理教室にでも通おうかなって
+      思ってたところでした。
+  d_ex_command_10_60:
+    speaker: crust
+    en: Hehe, it warms my heart to see how happy you are.
+    ko: 헤헤, 기뻐해 주시니 다행이네요.
+    ja: えへへ。喜んでくれて嬉しいです。
+  d_ex_command_10_61:
+    speaker: crust
+    en: If you joined, I'm sure it would be a great help to everyone else too.
+    ko: 아마 아르카나님이 합류해 주시면, 분명 다른 분들에게도 큰 도움이 될 거예요.
+    ja: |-
+      きっとアルカナさんが参加してくれたら、
+      他のメンバーも喜ぶと思います。
+  d_ex_command_10_62:
+    speaker: arcana_s
+    en: And I'm sure it'll help me a lot too.
+    ko: 그리고 저한테도 큰 도움이 되겠죠?
+    ja: きっとお互いにサポートし合えますよね！
+  d_ex_command_10_63:
+    speaker: crust
+    en: Of course!
+    ko: 물론이죠!
+    ja: もちろんです！
+  d_ex_command_10_64:
+    speaker: arcana_s
+    en: I'm really looking forward to it!
+    ko: 진짜 기대된다!
+    ja: すっごく楽しみ！
+  d_ex_command_10_65:
+    speaker: arcana_s
+    en: When's the next meeting?
+    ko: 혹시 가장 빠른 다음 모임은 언제예요?
+    ja: 次の勉強会はいつなんですか？
+  d_ex_command_10_66:
+    speaker: arcana_s
+    en: I'd love to join as soon as I can.
+    ko: 될 수 있으면 빨리 참가하고 싶은데.
+    ja: 待ち遠しいな。
+  d_ex_command_10_67:
+    speaker: crust
+    en: Just a moment.
+    ko: 잠시만요~
+    ja: えっと…
+  d_ex_command_10_68:
+    speaker: crust
+    en: Let me check my schedule.
+    ko: 일정 좀 확인해 볼게요.
+    ja: スケジュールを確認してみますね。
+  d_ex_command_10_69:
+    speaker: crust
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_command_10_70:
+    speaker: "<Monologue>"
+    en: The two of them are completely absorbed in the schedule that Crust has pulled
+      out.
+    ko: 둘은 크러스트가 펼친 일정표에 몰두했다.
+    ja: 2人は夢中でスケジュール表を見ている
+  d_ex_command_10_71:
+    speaker: "<Self>"
+    en: Uh...
+    ko: 저기….
+    ja: あの…
+  d_ex_command_10_72:
+    speaker: "<Self>"
+    en: Maybe we could start the taste test soon...?
+    ko: 슬슬 시식해 보면 안 될까…?
+    ja: そろそろ試食させてくれないか…？
+  d_ex_command_10_73:
+    speaker: arcana_s
+    en: Monday would be perfect.
+    ko: 월요일이면 딱 좋네요.
+    ja: 月曜日なら都合がいいです。
+  d_ex_command_10_74:
+    speaker: arcana_s
+    en: That happens to be my day off.
+    ko: 마침 제 비번일이고 하구.
+    ja: ちょうどお仕事がお休みの日なんで。
+  d_ex_command_10_75:
+    speaker: crust
+    en: Okay then, Monday it is.
+    ko: 그럼 월요일로 확정할게요~
+    ja: じゃあ、月曜日にしましょう！
+  d_ex_command_10_76:
+    speaker: arcana_s
+    en: Is there a fee for joining?
+    ko: 혹시 준비물 같은 건 뭐가 필요할까요?
+    ja: 何か用意するものはありますか？
+  d_ex_command_10_77:
+    speaker: arcana_s
+    en: Or anything I should bring?
+    ko: 아니면 회비라든가.
+    ja: 会費とか！
+  d_ex_command_10_78:
+    speaker: crust
+    en: I'll prepare everything, so all you have to bring is yourself.
+    ko: 다 준비해드릴 거니까, 따로 준비 안 하셔도 돼요.
+    ja: |-
+      すべてこちらで用意するので、
+      手ぶらで来てください。
+  d_ex_command_10_79:
+    speaker: crust
+    en: I started this group out of passion, so there's no membership fee either.
+    ko: 제가 하고 싶어서 만든 스터디라, 회비도 필요 없답니다.
+    ja: |-
+      私の趣味で始めた勉強会なので、
+      会費もいりませんよ。
+  d_ex_command_10_80:
+    speaker: arcana_s
+    en: But this is such an amazing thing you're doing! I'd feel bad if I didn't do
+      something in return.
+    ko: 그치만 받기만 하면 너무 죄송한걸요. 뭔가 답례라도….
+    ja: |-
+      でも、それじゃあ申し訳ないです。
+      何かお礼でも…
+  d_ex_command_10_81:
+    speaker: crust
+    en: What better way is there to repay someone
+    ko: 같이 즐겁게 음식을 만드는 것.
+    ja: 一緒に楽しくお料理を作ること。
+  d_ex_command_10_82:
+    speaker: crust
+    en: than by making some delicious food and enjoying it together?
+    ko: 그것보다 더 한 답례가 있을까요?
+    ja: それが最高のお礼です。
+  d_ex_command_10_83:
+    speaker: arcana_s
+    en: Hey, you're right! Well said!
+    ko: "…그렇네요. 말씀하신 대로예요!"
+    ja: "…そうですか。ではお言葉に甘えて！"
+  d_ex_command_10_84:
+    speaker: "<Monologue>"
+    en: Watching Arcana and Crust chatting with each other is a heartwarming sight.
+    ko: 보고만 있어도 흐뭇해지는 아르카나와 크러스트의 대화.
+    ja: |-
+      見ているだけでも微笑ましい
+      アルカナとクラストの会話
+  d_ex_command_10_85:
+    speaker: "<Monologue>"
+    en: "... Or at least it should be."
+    ko: "…였어야 할 테지만."
+    ja: "…なのだが…"
+  d_ex_command_10_86:
+    speaker: "<Narration>"
+    en: "*Rumble*"
+    ko: 꼬르륵-
+    ja: グゥゥ…
+  d_ex_command_10_87:
+    speaker: "<Self>"
+    en: I'm starving... I'm starting to feel faint...
+    ko: 너무 배고파서 뱃가죽이 등에 붙을 것 같아….
+    ja: 腹が減りすぎて、お腹と背中がくっつきそうだ…
+  d_ex_command_10_88:
+    speaker: "<Monologue>"
+    en: It takes quite a while before Arcana and Crust finally notice my presence.
+    ko: 아르카나와 크러스트가 내 존재를 눈치챈 것은 한참 뒤였고.
+    ja: |-
+      アルカナとクラストが私の存在に気づいたのは
+      それからしばらく経った後で…
+  d_ex_command_10_89:
+    speaker: "<Monologue>"
+    en: Only then am I finally able to fill my empty stomach.
+    ko: 그제야 나는 주린 배를 채울 수 있었다.
+    ja: やっと私は空腹を満たすことができた

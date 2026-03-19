@@ -60,14 +60,14 @@ character_shot_description_localkey_ar_down:
 28622_description:
   en: |-
     ■ Activates during Full Burst after landing {description_value_01} normal attack(s) while the target is in Hacked status. Affects the target.
-    <color=#00AEFF>Deals {description_value_02}% of final ATK as additional damage.</color>
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ 풀 버스트 타임 지속 시간 중 일반 공격 {description_value_01}회 명중 시 대상이 해킹 상태라면 대상에게
-    <color=#00AEFF>[최종 공격력 {description_value_02}% 추가 대미지]</color>
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
   ja: |-
     ■フルバーストタイムの持続中に通常攻撃が{description_value_01}回命中した時、
-    対象がハッキング状態なら対象に
-    <color=#00AEFF>「最終攻撃力の{description_value_02}％の追加ダメージ」</color>
+    対象がハッキング状態なら、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -79,21 +79,21 @@ skill_name_1003:
 28621_description:
   en: |-
     ■ Activates after landing {description_value_01} normal attack(s). Affects the target.
-    <color=#00AEFF>Hacked: Deals {description_value_02}% of final ATK as sustained damage every 1 sec for {description_value_03} sec.</color>
+    <color=#00AEFF>Hacked: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_03} sec.</color>
     ■ Activates when using Burst Skill. Affects all enemies.
-    <color=#00AEFF>Hacked: Deals {description_value_02}% of final ATK as sustained damage every 1 sec for {description_value_03} sec.</color>
+    <color=#00AEFF>Hacked: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_03} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 대상에게
-    <color=#00AEFF>[해킹 : 최종 공격력 {description_value_02}% 지속 대미지] [1초 간격] [{description_value_03}초 유지]</color>
+    <color=#00AEFF>[해킹 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 지속 대미지] [1초 간격] [{description_value_03}초 유지]</color>
     ■ 버스트 스킬 사용 시 적 전체에게
-    <color=#00AEFF>[해킹 : 최종 공격력 {description_value_02}% 지속 대미지] [1초 간격] [{description_value_03}초 유지]</color>
+    <color=#00AEFF>[해킹 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 지속 대미지] [1초 간격] [{description_value_03}초 유지]</color>
   ja: |-
     ■通常攻撃が{description_value_01}回命中した時、対象に
-    <color=#00AEFF>「ハッキング：最終攻撃力の{description_value_02}％の
-    持続ダメージ」「1秒間隔」「{description_value_03}秒間維持」</color>
+    <color=#00AEFF>「ハッキング：<word_group=10025>最終</word_group>攻撃力の
+    {description_value_02}％の持続ダメージ」「1秒間隔」「{description_value_03}秒間維持」</color>
     ■バーストスキルを使用した時、敵全体に
-    <color=#00AEFF>「ハッキング：最終攻撃力の{description_value_02}％の
-    持続ダメージ」「1秒間隔」「{description_value_03}秒間維持」</color>
+    <color=#00AEFF>「ハッキング：<word_group=10025>最終</word_group>攻撃力の
+    {description_value_02}％の持続ダメージ」「1秒間隔」「{description_value_03}秒間維持」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1

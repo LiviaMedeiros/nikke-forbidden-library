@@ -1,0 +1,561 @@
+---
+583_name:
+  en: 'Arcana: Fortune Mate'
+  ko: '아르카나 : 포츈 메이트'
+  ja: アルカナ：フォーチュンメイト
+c583_description:
+  en: A mysterious and pretty transfer student who started attending the M.M.R. Vocational
+    School. Although her stated purpose is to organize the old files in the library,
+    all she really thinks about is making the most out of the only youth she'll ever
+    have in life.
+  ko: |-
+    미미르 부속 고등학교에 등장한 수수께끼의 미소녀 전학생.
+    일단은 학교 도서실의 오래된 자료를 정리하기 위해 왔지만,
+    머릿속엔 인생에 단 한 번뿐인 청춘을 즐길 생각만이 가득하다.
+  ja: |-
+    M.M.R.附属高校に登場した謎の美少女転校生。
+    学校の図書室の古い資料を整理するという目的で来たが、
+    人生でたった一度の青春を謳歌することで頭がいっぱいだ。
+583_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_583:
+  en: 'Arcana: Fortune Mate''s Spare Body'
+  ko: '아르카나 : 포츈 메이트 스페어 바디'
+  ja: アルカナ：フォーチュンメイトのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25832_name:
+  en: Memories and Moments
+  ko: 기억과 추억
+  ja: 記憶と思い出
+25832_description:
+  en: |-
+    ■ Activates when performing normal attacks while in Making Memories status. Affects self.
+    <color=#00AEFF>Effect changes according to the number of attacks. The effect of each phase does not stack. <word_group=10100>Resets</word_group> when Making Memories is removed.
+    Two times: Reloads {description_value_01} round(s).
+    Four times: Happy Memories: Number of <word_group=10038>pellets</word_group> ▲ {description_value_02} continuously, stacks up to {description_value_03} time(s).
+    Six times: Precious Moments: ATK ▲ {description_value_04}% continuously, stacks up to {description_value_05} time(s).</color>
+    ■ Activates when using Burst Skill. Affects all shotgun-wielding allies (except self).
+    <color=#00AEFF>Attack Damage ▲ {description_value_06}% for {description_value_07} sec.</color>
+  ko: |-
+    ■ 일반 공격 시 자신이 추억 남기기 상태라면 자신에게
+    <color=#00AEFF>[공격 횟수 별 효과] [단계별 효과만 적용] [추억 남기기 해제 시 <word_group=10100>초기화</word_group>]
+    2회 : [탄환 충전 {description_value_01}발]
+    4회 : [행복한 기억 : <word_group=10038>펠릿</word_group> 개수 {description_value_02}개 ▲] [{description_value_03} 중첩] [지속]
+    6회 : [소중한 추억 : 공격력 {description_value_04}% ▲] [{description_value_05} 중첩] [지속]</color>
+    ■ 버스트 스킬 사용 시 자신을 제외한 샷건 소지 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■通常攻撃時、自分が思い出作り状態なら、
+    自分に
+    <color=#00AEFF>「攻撃回数別の効果」
+    「各段階の効果のみ適用」
+    「思い出作り解除時<word_group=10100>初期化</word_group>」
+    2回：「弾丸チャージ{description_value_01}発」
+    4回：「幸せな思い出：<word_group=10038>ペレット</word_group>数{description_value_02}個▲」
+    「{description_value_03}スタック」「持続」
+    6回：「大切な思い出：攻撃力{description_value_04}％▲」
+    「{description_value_05}スタック」「持続」</color>
+    ■バーストスキルを使用した時、自分を除く
+    ショットガンを所持する味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25831_name:
+  en: Keepsake Album
+  ko: 쌓여가는 사진첩
+  ja: 重ねるアルバム
+25831_description:
+  en: "■ Activates when Full Burst ends. Affects all shotgun-wielding allies. \n<color=#00AEFF>ATK
+    ▲ {description_value_01}% of the caster's ATK x stack count of Precious Moments
+    for {description_value_02} sec.</color>\n■ Activates when Happy Memories takes
+    effect. Affects self.\n<color=#00AEFF>Snapshots of Youth: Normal Attack Damage
+    <word_group=10029>Multiplier</word_group> ▲ {description_value_03}% continuously,
+    stacks up to {description_value_04} time(s).</color>\n■ Activates when Full Burst
+    ends. Affects self.\n<color=#00AEFF>Removes Making Memories.\nRemoves Snapshots
+    of Youth.</color>"
+  ko: |-
+    ■ 풀 버스트 타임 종료 시 샷건 소지 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% X 소중한 추억 중첩 수 ▲] [{description_value_02}초 유지]</color>
+    ■ 행복한 기억 적용 시 자신에게
+    <color=#00AEFF>[청춘의 기록 : 일반 공격 대미지 {description_value_03}% <word_group=10029>배율</word_group> ▲] [{description_value_04} 중첩] [지속]</color>
+    ■ 풀 버스트 타임 종료 시 자신에게
+    <color=#00AEFF>[추억 남기기 해제]
+    [청춘의 기록 해제]</color>
+  ja: |-
+    ■フルバーストタイムが終了した時、
+    ショットガンを所持する味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％×
+    大切な思い出のスタック数▲」
+    「{description_value_02}秒間維持」</color>
+    ■幸せな思い出を適用時、自分に
+    <color=#00AEFF>「青春の記録：
+    通常攻撃ダメージ{description_value_03}％<word_group=10029>倍率</word_group>▲」
+    「{description_value_04}スタック」「持続」</color>
+    ■フルバーストタイムが終了した時、自分に
+    <color=#00AEFF>「思い出作り解除」
+    「青春の記録解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15833_name:
+  en: Radiant Youth
+  ko: 빛나는 청춘
+  ja: 輝く青春
+15833_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Making Memories:
+    Function: Enhances attack capabilities.
+    Effect 1: Critical Rate ▲ {description_value_01}% continuously.
+    Effect 2: Reloads {description_value_02} round(s).
+    Effect 3: Attack Damage ▲ {description_value_03}% continuously.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[추억 남기기] :
+    기능 : 자신의 공격 능력 강화.
+    효과1 : [크리티컬 확률 {description_value_01}% ▲] [지속]
+    효과2 : [탄환 충전 {description_value_02}발]
+    효과3 : [공격 대미지 {description_value_03}% ▲] [지속]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% 버스트 스킬 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「思い出作り」：
+    機能：自分の攻撃能力強化
+    効果1：「クリティカル確率{description_value_01}％▲」
+    「持続」
+    効果2：「弾丸チャージ{description_value_02}発」
+    効果3：「攻撃ダメージ{description_value_03}％▲」
+    「持続」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の
+    バーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+580_name:
+  en: Phantom
+  ko: 팬텀
+  ja: ファントム
+581_name:
+  en: Arcana
+  ko: 아르카나
+  ja: アルカナ
+582_name:
+  en: Label
+  ko: 레이블
+  ja: レーベル
+c583_Lobby_Touch_1:
+  en: Should we run away together? Our youth is short, we can't stay trapped in this
+    tiny classroom forever.
+  ko: |-
+    저희, 같이 도망칠래요?
+    청춘은 짧은데, 이런 좁은 교실에 계속 갇혀있을 순 없잖아요.
+  ja: |-
+    私たち、一緒に抜け出しませんか？
+    青春は短いのに、こんな狭い教室で閉じこもってられませんっ！
+c583_Lobby_Touch_2:
+  en: Ooh, this angle's great! Let me take a quick photo.
+  ko: |-
+    오~ 지금 구도 좋은데요?
+    사진 한 장 찍어줄게요.
+  ja: |-
+    ああ～！その構図、素敵ですね？
+    一枚撮らせてください。
+c583_Lobby_Touch_3:
+  en: Hey, did you do your homework...? I didn't do mine. Will you take the blame
+    with me?
+  ko: |-
+    있잖아요, 숙제했어요…?
+    저 안 했는데, 같이 혼나주면 안 돼요…?
+  ja: |-
+    宿題って、やりました…？
+    やってないので、一緒に怒られてくれませんか…？
+c583_Lobby_Touch_Love_1:
+  en: I've always wanted to go on a date in our uniforms. What do you say? Will you
+    be my boyfriend?
+  ko: |-
+    저, 교복 데이트 로망 있는데.
+    어때요? 제 남친 하실래요?
+  ja: |-
+    私、制服デートが憧れなんです。
+    なので、よければ付き合ってもらえませんか？
+c583_Lobby_Touch_Love_2:
+  en: If you were my teacher, at least I'd get to see you every day.
+  ko: |-
+    그쪽이 선생님이면,
+    얼굴 보는 재미라도 있을 텐데.
+  ja: あなたが先生だったら、顔を眺めてるだけで楽しそうなのに。
+c583_Lobby_Touch_Love_3:
+  en: Quick question! Are you dating anyone? This is more important to me than the
+    test!
+  ko: |-
+    질문 있어요! 지금 사귀는 사람 있어요?
+    저한테는 시험 보다 더 중요한 문제거든요?
+  ja: |-
+    質問で～す！今付き合ってる人はいますか？
+    私にとっては、試験より大事な問題なんです。
+c583_Lobby_Stay_1:
+  en: Excuse me! I'm right here! You didn't forget me, did you?
+  ko: 저기요~ 저 여기 있어요~ 잊으신 거 아니죠?
+  ja: あの～ここに私がいること…忘れてないですよね？
+c583_Lobby_Stay_Love_1:
+  en: I skipped class to come here, but you aren't going to look at me? Even when
+    I look this cute? Seriously?
+  ko: |-
+    수업도 땡땡이치고 왔는데, 안 봐줄 거예요?
+    이렇게 예쁜데? 진짜로?
+  ja: |-
+    授業もサボってきたのに、見てくれないんですか？
+    こんなにかわいくしてきたのに？ホントに？
+c583_Outpost_Touch_1:
+  en: I'm late, I'm late! Wait, I'm out of bread?
+  ko: |-
+    지각이야, 지각~
+    아, 식빵이 없네.
+  ja: |-
+    遅刻、遅刻～！
+    あっ、食パン忘れちゃった。
+c583_Outpost_Touch_2:
+  en: Let's take a picture together. I like the buildings here. They're so pretty.
+  ko: |-
+    우리, 같이 사진 찍어요.
+    여기 건물이 예뻐서, 마음에 들어.
+  ja: |-
+    ここで記念写真を撮りましょう。
+    建物がきれいで、好きなんです。
+c583_Outpost_Touch_3:
+  en: You know, I think going on a secret date here would be pretty fun.
+  ko: |-
+    솔직히, 여기서 몰래 데이트하는 거
+    좀 재미있어요.
+  ja: |-
+    正直、秘密のデートみたいで
+    ちょっと楽しいです。
+c583_Gacha_Get_1:
+  en: Let's have the best days of our lives.
+  ko: 그쪽, 저랑 같이 눈부신 청춘을 한 번 만들어 보실래요?
+  ja: 私と一緒に、キラキラの青春を過ごしてみませんか？
+c583_Reinforce_1:
+  en: I think I prefer being the one protected.
+  ko: 저는 보호받는 쪽이 더 좋은데 말이에요.
+  ja: 私は守られたい方なんですけどね。
+c583_Reinforce_2:
+  en: Have you ever heard of the Invincible High School Girl?
+  ko: 무적의 여고생! 이라고 들어보셨나요?
+  ja: 無敵の女子高生！ってよく聞きません？
+c583_Reinforce_3:
+  en: I can't get too smart! I think being a little airheaded is kinda attractive.
+  ko: |-
+    너무 똑똑해지면 안 되는데~
+    저는 살짝 바보 같은 게 또 매력이거든요.
+  ja: |-
+    賢くなりすぎたらどうしましょう～
+    チャームポイントが無くなっちゃうかも？
+c583_Gift_1:
+  en: This must be how people ask each other out these days. I love it.
+  ko: |-
+    요새는 이런 식으로 데이트 신청을 하나 봐.
+    …되게 좋네.
+  ja: |-
+    こういうデートの申し込み方が流行りなんですね。
+    …とっても素敵です。
+c583_Gift_2:
+  en: Do you maybe like me? You always give me such perfect gifts, so I was just wondering...
+  ko: |-
+    혹시 저 좋아해요?
+    다른 뜻은 없고, 너무 내 취향으로만 선물을 주니까….
+  ja: |-
+    私のこと、好きなんですか？
+    好みに合ったプレゼントばっかりなんて…
+c583_Gift_3:
+  en: I got you a gift too. Go on, open it. I'm waiting.
+  ko: |-
+    저도 그쪽을 위해 선물 하나 준비했어요.
+    …뭐해요, 안 풀어보고. 그쪽 바로 앞에 서있잖아요.
+  ja: |-
+    私もプレゼントを用意したんです。
+    …早く受け取ってください。目の前に立ってますよ？
+c583_Attractive_Up_1:
+  en: I like you. I could say it a hundred, even a thousand times.
+  ko: 좋아해요. 백 번이고 천 번이고 말할 수 있어.
+  ja: 好きです。何百回でも、何千回でも言えます。
+c583_Attractive_Up_2:
+  en: Ugh! I can't take it anymore. I just want to shower you with kisses!
+  ko: 으윽…! 이제 한계예요, 마구마구 뽀뽀하고 싶다구요!
+  ja: ううっ…！もう限界です。キスさせてください！
+c583_Attractive_Up_3:
+  en: Are you even human? Seriously, how can you be this cool?
+  ko: |-
+    사람이 어떻게 그래요, 네?
+    적당히 멋있어야지 진짜.
+  ja: |-
+    責任取ってくださいよ、もう。
+    カッコよすぎるのがいけないんです。
+c583_Party_Deploy_1:
+  en: But I'm a high schooler. Do I really have to go...?
+  ko: 저 학생인데? 진짜 가요…?
+  ja: 私、学生なんですけど？本当に…？
+c583_Field_Touch_1:
+  en: Yes...?
+  ko: 네에…?
+  ja: 呼びました…？
+c583_Field_Go_1:
+  en: Aww, I don't wanna go...
+  ko: 이잉, 가기 싫어~
+  ja: え～ん、行きたくな～い！
+c583_Battle_Enter_1:
+  en: All right, fine. Come at me!
+  ko: 어쩔 수 없죠, 다 덤벼요!
+  ja: 仕方ないですね、やっちゃいますよ！
+c583_Battle_Ready_1:
+  en: I'm putting my trust in you...!
+  ko: 그쪽만 믿을게요…!
+  ja: あなたを信じます…！
+c583_Battle_Ready_2:
+  en: Witness the Invincible High School Girl!
+  ko: 무적의 여고생을 보여드리죠!
+  ja: 無敵の女子高生をお見せします！
+c583_Battle_Ready_3:
+  en: "*Huff... huff...!* I've got this!"
+  ko: 후우…! 후우…! 힘내라, 나 자신!
+  ja: はぁ…！はぁ…！頑張れ、私！
+c583_Reload_1:
+  en: One, two...!
+  ko: 하나, 두울…!
+  ja: ひとつ、ふたつ…！
+c583_Reload_2:
+  en: Am I doing this right? Really?
+  ko: 이거 맞아요? 진짜?
+  ja: これで合ってますか？ホントに？
+c583_Reload_3:
+  en: Wait... I need a breather.
+  ko: 잠시만… 나 숨 좀 쉴게요.
+  ja: 待って…深呼吸しますね。
+c583_Ult_Skill_Ready_1:
+  en: I'm ready.
+  ko: 준비됐어요.
+  ja: 準備できました。
+c583_Ult_Skill_1:
+  en: I'll treasure this moment forever.
+  ko: 이 순간, 평생 간직할게요.
+  ja: この瞬間、一生大切にします。
+c583_FullBurst_1:
+  en: Here it comes! My finishing move!
+  ko: 가라! 마지막 필살기!
+  ja: 行きます！必殺技でフィニッシュです！
+c583_Kill_Monster_1:
+  en: Did you see that? Did you see it?
+  ko: 봤죠? 봤죠!
+  ja: わっ！見てました！？
+c583_Kill_Monster_2:
+  en: All right!
+  ko: 오예!
+  ja: やったぁ！
+c583_Kill_Monster_3:
+  en: Are there any more?
+  ko: 더 있어요?
+  ja: まだいるんですか？
+c583_Damage_1:
+  en: Eek!
+  ko: 꺅!
+  ja: きゃっ！
+c583_Damage_2:
+  en: Oww...
+  ko: 우엥….
+  ja: うえ～ん…
+c583_Damage_3:
+  en: Hmph!
+  ko: 힝!
+  ja: あーん！
+c583_Die_1:
+  en: I didn't... want you to see me like this...
+  ko: 이런 모습… 보이고 싶지 않았는데….
+  ja: こんな姿…見せたくなかったのに…
+c583_Win_1:
+  en: Class is over! Can we go have fun now? Please?
+  ko: 수업, 끝! 이제 진짜 놀러 가는 거죠? 응?
+  ja: 授業はおしまい！早く遊びに行きましょう～！いいですよねっ？
+583_cv_ja:
+  en: 'CV: Natsumi Murakami'
+  ko: 'CV : 무라카미 나츠미'
+  ja: CV：村上奈津実
+583_cv_ko:
+  en: 'CV: Seo Da-hye'
+  ko: 'CV : 서다혜'
+  ja: CV：ソ・ダヘ
+583_cv_en:
+  en: 'CV: Skyler Davenport'
+  ko: 'CV : 스카일러 데이븐포트'
+  ja: CV：Skyler Davenport
