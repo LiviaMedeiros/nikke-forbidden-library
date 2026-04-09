@@ -4665,3 +4665,606 @@ d_ex_tower_09:
     ja: |-
       その後、配達された弁当を食べ終えると
       ようやく解放されたのだった
+d_ex_tower_10:
+  d_ex_tower_10_1:
+    speaker: exia
+    en: All right.
+    ko: 자-
+    ja: はーい…
+  d_ex_tower_10_2:
+    speaker: exia
+    en: I will now
+    ko: 지금부터-
+    ja: 今からー…
+  d_ex_tower_10_3:
+    speaker: exia
+    en: explain how to use this very simple game console.
+    ko: |-
+      초간단 게임기 사용 설명을-
+      시작하겠습니다-
+    ja: |-
+      ゲーム機の使い方をー…
+      超簡単に説明しまーす…
+  d_ex_tower_10_4:
+    speaker: snowcrane
+    en: Woohoo! Yay! Clap, clap, clap!
+    ko: 와아아~ 박수~ 짝짝짝~
+    ja: わああ～、拍手～、パチパチ～
+  d_ex_tower_10_5:
+    speaker: novel
+    en: What do you think of this incident, Watson?
+    ko: 왓슨, 이 사건에 대해 어떻게 생각하십니까.
+    ja: |-
+      ワトソン、この事件について
+      どう思うでありますか？
+  d_ex_tower_10_6:
+    speaker: "<Self>"
+    en: What incident?
+    ko: 무슨 사건?
+    ja: 事件？
+  d_ex_tower_10_7:
+    speaker: novel
+    en: Exia is explaining how to use a device to a total stranger.
+    ko: |-
+      엑시아가 처음 보는 누군가에게
+      기계 다루는 법을 설명하는 사건을 말하는 것입니다.
+    ja: |-
+      エクシアが初対面の何者かに
+      機械の使い方を説明するという
+      事件のことであります。
+  d_ex_tower_10_8:
+    speaker: "<Self>"
+    en: Good point. You'd think she couldn't be bothered.
+    ko: 그렇네, 이런 거 귀찮아하는 성격 아니었나….
+    ja: |-
+      確かにな。
+      めんどくさがりそうなのに…
+  d_ex_tower_10_9:
+    speaker: exia
+    en: First, press the power button.
+    ko: 일단- 게임의 전원 버튼을- 누릅니다-
+    ja: まずー…ゲームの電源ボタンをー…押しまーす…
+  d_ex_tower_10_10:
+    speaker: snowcrane
+    en: Power button!
+    ko: 전원 버튼~!
+    ja: 電源ボタン～！
+  d_ex_tower_10_11:
+    speaker: snowcrane
+    en: This thing?
+    ko: 이거일까요?
+    ja: これでしょうか？
+  d_ex_tower_10_12:
+    speaker: "<Narration>"
+    en: "*Beep beep*"
+    ko: 삐삣-
+    ja: ピピッ
+  d_ex_tower_10_13:
+    speaker: exia
+    en: That's the volume button.
+    ko: 그건- 음량 설정 버튼입니다-
+    ja: それはー…ボリューム設定ボタンでーす…
+  d_ex_tower_10_14:
+    speaker: snowcrane
+    en: Then this one?
+    ko: 그럼, 이 버튼일까요?
+    ja: なら、このボタンかしら？
+  d_ex_tower_10_15:
+    speaker: "<Narration>"
+    en: "*Beep beep*"
+    ko: 삐삣-
+    ja: ピピッ
+  d_ex_tower_10_16:
+    speaker: exia
+    en: That's the menu button.
+    ko: 그건- 컨트롤 버튼입니다-
+    ja: そっちはー…操作ボタンでーす…
+  d_ex_tower_10_17:
+    speaker: snowcrane
+    en: This is hard. There are so many buttons!
+    ko: 버튼이 너무 많아서 어렵네요~
+    ja: ボタンが多くて難しいですね～
+  d_ex_tower_10_18:
+    speaker: snowcrane
+    en: Then how about this one?
+    ko: 그럼, 이거-
+    ja: じゃあ、これは…
+  d_ex_tower_10_19:
+    speaker: exia
+    en: Ah... Ahh...
+    ko: 아- 아아아-
+    ja: あー…あああー…
+  d_ex_tower_10_20:
+    speaker: exia
+    en: That's the reset button. Never push that one.
+    ko: 그건- 리셋 버튼이라- 절대 눌러선 안 됩니다아아-
+    ja: |-
+      それはー…リセットボタンなのでー…
+      絶対に押さないでくださーい…
+  d_ex_tower_10_21:
+    speaker: snowcrane
+    en: Oh my. I'm sorry.
+    ko: 어머나, 죄송해요.
+    ja: あら、ごめんなさい。
+  d_ex_tower_10_22:
+    speaker: exia
+    en: Push the small circle next to the volume buttons.
+    ko: 음량 설정 버튼 옆에 있는- 작은 동그라미를 눌러주세요-
+    ja: |-
+      ボリューム設定ボタンの隣にあるー…
+      小さい丸を押してくださーい…
+  d_ex_tower_10_23:
+    speaker: snowcrane
+    en: Oh, this one?
+    ko: 아, 이건가 보네요.
+    ja: あっ、これのことですね。
+  d_ex_tower_10_24:
+    speaker: snowcrane
+    en: Push!
+    ko: 꾸욱~
+    ja: ポチッ
+  d_ex_tower_10_25:
+    speaker: "<Narration>"
+    en: "*Beep beep*"
+    ko: 삐리링-
+    ja: ピピッ
+  d_ex_tower_10_26:
+    speaker: exia
+    en: Next, put the game cartridge into the console.
+    ko: 그다음, 게임팩을 게임기 안에 넣습니다-
+    ja: 次に、ソフトをゲーム機に入れてくださーい…
+  d_ex_tower_10_27:
+    speaker: snowcrane
+    en: Is that this little plastic thing you gave me?
+    ko: 게임팩이 아까 주셨던 이 작은 플라스틱이죠?
+    ja: |-
+      ソフトって、さっきもらった
+      この小さいプラスチックのことですか？
+  d_ex_tower_10_28:
+    speaker: snowcrane
+    en: Hmm... Let's see...
+    ko: 이걸~ 으음~
+    ja: これを～、う～ん…
+  d_ex_tower_10_29:
+    speaker: snowcrane
+    en: Hmm...
+    ko: 으으음….
+    ja: うう～ん…
+  d_ex_tower_10_30:
+    speaker: "<Narration>"
+    en: "*Snap*"
+    ko: 빠각.
+    ja: バキッ
+  d_ex_tower_10_31:
+    speaker: exia
+    en: "?!?!"
+    ko: "?!?!"
+    ja: "！？！？"
+  d_ex_tower_10_32:
+    speaker: "<Self>"
+    en: "!!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_tower_10_33:
+    speaker: novel
+    en: An incident has occurred!
+    ko: 사건, 사건이 발생한 것입니다!
+    ja: 事件、事件が発生したのであります！
+  d_ex_tower_10_34:
+    speaker: novel
+    en: The game console snapped precisely in half!
+    ko: 게임기가, 아주 깔끔하게 반으로 갈라졌습니다!
+    ja: ゲーム機が、真っ二つに割れたのであります！
+  d_ex_tower_10_35:
+    speaker: novel
+    en: It's a murder!
+    ko: 사망 사건인 것입니다!!
+    ja: 死者発生なのであります！！
+  d_ex_tower_10_36:
+    speaker: snowcrane
+    en: A-a murder?!
+    ko: 사, 사망 사건이요?!
+    ja: そ、そんな～！？
+  d_ex_tower_10_37:
+    speaker: snowcrane
+    en: But she said to put the cartridge inside...
+    ko: 게임팩을 게임기 안에 넣으라고 하셔서….
+    ja: |-
+      ソフトをゲーム機に
+      入れるという指示だったので…
+  d_ex_tower_10_38:
+    speaker: snowcrane
+    en: I tried to open it, and then...
+    ko: 게임기를 어떻게든 열어보려고 하다가 그만….
+    ja: |-
+      なんとかして
+      ゲーム機を開けようとしたら、つい…
+  d_ex_tower_10_39:
+    speaker: snowcrane
+    en: I'll fix it right away!
+    ko: 제가 바로 고쳐둘게요~!
+    ja: すぐに直します～！
+  d_ex_tower_10_40:
+    speaker: "<Monologue>"
+    en: Snow Crane pulls a roll of tape out of her pocket and wraps it around the
+      broken console.
+    ko: |-
+      백학은 주머니에서 테이프를 꺼내,
+      반으로 갈라진 게임기를 둘둘 감쌌다.
+    ja: |-
+      シラツルはポケットから
+      テープを取り出し、2つに割れた
+      ゲーム機をぐるぐる巻きにした
+  d_ex_tower_10_41:
+    speaker: snowcrane
+    en: Feel better soon!
+    ko: 아픈 거, 다 날아가라~
+    ja: 痛いの痛いの、飛んでけ～
+  d_ex_tower_10_42:
+    speaker: snowcrane
+    en: Ta-da! The dead console has come back to life!
+    ko: 짠! 죽었던 우리 게임기가, 다시 살아났어요~
+    ja: |-
+      ジャ～ン！死んじゃったゲーム機が
+      よみがえりました～
+  d_ex_tower_10_43:
+    speaker: exia
+    en: Oh...
+    ko: 아-
+    ja: あー…
+  d_ex_tower_10_44:
+    speaker: exia
+    en: This is why coding is so hard.
+    ko: 이래서- 코딩은- 힘든 겁니다-
+    ja: だからー…コーディングはー…大変なんですー…
+  d_ex_tower_10_45:
+    speaker: exia
+    en: It's my fault for failing to provide precise instructions.
+    ko: 정확하게 지시하지 않은- 저의 잘못인 거겠죠-
+    ja: ちゃんと説明しなかったー…私のせいですねー…
+  d_ex_tower_10_46:
+    speaker: "<Self>"
+    en: Is it really okay?
+    ko: 저거 괜찮은 거 맞아…?
+    ja: あんなことをして大丈夫なのか…？
+  d_ex_tower_10_47:
+    speaker: exia
+    en: It's fine. It's a common model, and I can extract the save data.
+    ko: |-
+      괜찮습니다- 흔한 기종이고-
+      안에 있는 세이브 데이터는- 뺄 수 있으니까요-
+    ja: |-
+      大丈夫でーす…どこにでもある機種なのでー…
+      セーブデータはー…取り出せますからー…
+  d_ex_tower_10_48:
+    speaker: exia
+    en: Let's try this again.
+    ko: 다시 한번- 해보는 겁니다-
+    ja: もう一度ー…やってみてくださーい…
+  d_ex_tower_10_49:
+    speaker: snowcrane
+    en: All right!
+    ko: 네, 좋아요~!
+    ja: はい、分かりました～！
+  d_ex_tower_10_50:
+    speaker: "<Monologue>"
+    en: Exia gives Snow Crane a new device.
+    ko: 엑시아는 새로운 게임기를 백학에게 건네주었다.
+    ja: |-
+      エクシアは新しいゲーム機を
+      シラツルに渡した
+  d_ex_tower_10_51:
+    speaker: exia
+    en: Press the small, round button on the top left to turn on the power.
+    ko: |-
+      상단 좌측 끝에 있는 작은 동그라미 버튼을 눌러서-
+      전원을- 켭니다-
+    ja: |-
+      左上の端にある小さい丸のボタンを押すとー…
+      電源がー…入りまーす…
+  d_ex_tower_10_52:
+    speaker: snowcrane
+    en: Small, round button... on the top left...
+    ko: 상단~ 좌측 끝에 있는~ 동그라미 버튼.
+    ja: 左上の端にある～、小さい丸のボタンっと。
+  d_ex_tower_10_53:
+    speaker: "<Narration>"
+    en: "*Beep beep*"
+    ko: 삐리링-
+    ja: ピピッ
+  d_ex_tower_10_54:
+    speaker: exia
+    en: Press the button sticking out of the lower right to open the cartridge port.
+    ko: |-
+      하단 우측에 있는 볼록 튀어나온 버튼을 눌러서-
+      게임팩 삽입구를 열어줍니다-
+    ja: |-
+      右下にある出っ張ったボタンを押すとー…
+      ソフトの挿入口が開きまーす…
+  d_ex_tower_10_55:
+    speaker: snowcrane
+    en: Sticking out of... the lower right...
+    ko: 하단~ 우측에~ 볼록한 버튼.
+    ja: 右下にある～、出っ張ったボタンっと。
+  d_ex_tower_10_56:
+    speaker: "<Narration>"
+    en: "*Press*"
+    ko: 꾹-
+    ja: ポチッ
+  d_ex_tower_10_57:
+    speaker: exia
+    en: Now insert the cartridge I gave you.
+    ko: 그리고 제가 드린 게임칩을 삽입구에 넣어줍니다-
+    ja: |-
+      そして、私が渡したソフトを
+      挿入口に入れまーす…
+  d_ex_tower_10_58:
+    speaker: snowcrane
+    en: Insert... the cartridge.
+    ko: 게임칩을~ 삽입구에.
+    ja: ソフトを～、挿入口に。
+  d_ex_tower_10_59:
+    speaker: "<Narration>"
+    en: "*Clack*"
+    ko: 툭-
+    ja: グッ
+  d_ex_tower_10_60:
+    speaker: snowcrane
+    en: Huh? Why won't it go in?
+    ko: 어머나? 이게 왜 안 들어가지~?
+    ja: あら？どうして入らないのかしら～？
+  d_ex_tower_10_61:
+    speaker: snowcrane
+    en: Mmph!
+    ko: 에잇.
+    ja: えいっ。
+  d_ex_tower_10_62:
+    speaker: "<Narration>"
+    en: "*Crack!*"
+    ko: 우드드득-
+    ja: バキィッ
+  d_ex_tower_10_63:
+    speaker: exia
+    en: "?!?!?!?!"
+    ko: "?!?!?!?!"
+    ja: "！？！？！？"
+  d_ex_tower_10_64:
+    speaker: "<Self>"
+    en: "!!!!!!"
+    ko: "!!!!!!"
+    ja: "！！！！！！"
+  d_ex_tower_10_65:
+    speaker: novel
+    en: Another incident has occurred!
+    ko: 사건, 사건이 또 발생한 것입니다!
+    ja: 事件、事件が再び発生したのであります！
+  d_ex_tower_10_66:
+    speaker: novel
+    en: The game cartridge has been totally ruined!
+    ko: 게임칩이 완전히 망가졌습니다!
+    ja: ソフトが完全に壊れたのであります！
+  d_ex_tower_10_67:
+    speaker: novel
+    en: It's a murder!
+    ko: 사망 사건인 것입니다!!
+    ja: 死者発生なのであります！！
+  d_ex_tower_10_68:
+    speaker: snowcrane
+    en: Again...?
+    ko: 또, 또요…?
+    ja: ま、またですか…？
+  d_ex_tower_10_69:
+    speaker: snowcrane
+    en: This is really hard. I thought I did just what you told me to.
+    ko: 정말 어렵네요~ 분명 말씀대로 잘한 것 같은데 말이에요.
+    ja: |-
+      本当に難しいですね～
+      言われた通りにやったつもりなんですが…
+  d_ex_tower_10_70:
+    speaker: exia
+    en: Ahh...
+    ko: 아아-
+    ja: ああー…
+  d_ex_tower_10_71:
+    speaker: exia
+    en: I didn't enter a command saying precisely which direction you had to put the
+      cartridge in.
+    ko: |-
+      게임팩을 정확히- 어느 방향으로 넣어야 하는지를-
+      입력하지 않았습니다-
+    ja: |-
+      ソフトをー…どの方向から入れるのかもー…
+      入力が必要ー…
+  d_ex_tower_10_72:
+    speaker: exia
+    en: We'll have to start over.
+    ko: 다시- 처음부터 해보는 겁니다-
+    ja: またー…初めからやってみてくださーい…
+  d_ex_tower_10_73:
+    speaker: "<Self>"
+    en: H-hang on.
+    ko: 자, 잠깐만.
+    ja: ま、待ってくれ
+  d_ex_tower_10_74:
+    speaker: "<Self>"
+    en: Exia, are you...?
+    ko: 엑시아, 너 설마….
+    ja: エクシア、まさか…
+  d_ex_tower_10_75:
+    speaker: exia
+    en: That's correct.
+    ko: 예- 맞습니다-
+    ja: はーい…その通りでーす…
+  d_ex_tower_10_76:
+    speaker: exia
+    en: I'm coding a human.
+    ko: 마치- 인간을 코딩하면서-
+    ja: まるでー…人間をコーディングしながらー…
+  d_ex_tower_10_77:
+    speaker: exia
+    en: It's like playing a hardcore game, don't you think?
+    ko: 하드코어 게임을 플레이하는 것 같지 않습니까-
+    ja: |-
+      ハードコアなゲームを
+      プレイしてるみたいじゃないですかー…
+  d_ex_tower_10_78:
+    speaker: exia
+    en: It's the best game I've played recently.
+    ko: 최근 한 게임 중- 가장 재미있습니다-
+    ja: 最近やったゲームの中でー…一番面白いでーす…
+  d_ex_tower_10_79:
+    speaker: "<Monologue>"
+    en: With innocent eyes, Snow Crane wraps the cartridge in tape.
+    ko: 백학은 순진한 눈으로 게임팩에 테이프를 둘둘 감고 있다.
+    ja: |-
+      シラツルは何も知らず
+      ソフトにテープを巻き付けている
+  d_ex_tower_10_80:
+    speaker: "<Self>"
+    en: Good god.
+    ko: 맙소사.
+    ja: まったく…
+  d_ex_tower_10_81:
+    speaker: snowcrane
+    en: Feel better soon!
+    ko: 아픈 거, 다 날아가라~
+    ja: 痛いの痛いの、飛んでけ～
+  d_ex_tower_10_82:
+    speaker: snowcrane
+    en: But Exia,
+    ko: 그런데, 엑시아.
+    ja: ところで、エクシア。
+  d_ex_tower_10_83:
+    speaker: snowcrane
+    en: these must be your valuable friends.
+    ko: 이것들, 엑시아의 소중한 친구들 아닌가요?
+    ja: |-
+      この子たちは、エクシアの
+      大切なおともだちじゃないんですか？
+  d_ex_tower_10_84:
+    speaker: snowcrane
+    en: Is it really okay for me to break them over and over?
+    ko: 제가 계속 이렇게 망가뜨려도 괜찮은 건지 모르겠네요….
+    ja: |-
+      こんなに傷だらけにしてしまって
+      大丈夫でしょうか…
+  d_ex_tower_10_85:
+    speaker: exia
+    en: It's very okay.
+    ko: 매우- 괜찮습니다-
+    ja: まったくー…問題ないでーす…
+  d_ex_tower_10_86:
+    speaker: exia
+    en: My goal is to make you complete Dragon Dungeon Stage 1.
+    ko: 제 목표는- 백학이 드래곤 던전 1 스테이지를- 깨게 하는 겁니다-
+    ja: |-
+      私の目標はー…シラツルに
+      ドラゴンダンジョンを1ステージ
+      クリアさせることでーす…
+  d_ex_tower_10_87:
+    speaker: "<Self>"
+    en: That'll never happen!
+    ko: 그게 될 리가 없잖아…!
+    ja: それは無理だろう…
+  d_ex_tower_10_88:
+    speaker: exia
+    en: Hehe...
+    ko: 후- 후-
+    ja: ふっふっふー…
+  d_ex_tower_10_89:
+    speaker: exia
+    en: The word "impossible" isn't even in my dictionary.
+    ko: 제 사전에- 불가능은 없습니다-
+    ja: 私の辞書にー…不可能なんてありませーん…
+  d_ex_tower_10_90:
+    speaker: "<Self>"
+    en: Are you okay, Snow Crane...? Are you good to keep doing this?
+    ko: 백학은 괜찮아…? 계속 이런 걸 해도?
+    ja: シラツル、続けられそうか…？
+  d_ex_tower_10_91:
+    speaker: snowcrane
+    en: Of course!
+    ko: 물론이죠~
+    ja: もちろんですよ～
+  d_ex_tower_10_92:
+    speaker: snowcrane
+    en: My friend Exia is having so much fun,
+    ko: 엑시아 친구가 이렇게 즐거워하는걸요~
+    ja: エクシアが、あんなに楽しそうなんですから～
+  d_ex_tower_10_93:
+    speaker: snowcrane
+    en: and I get to learn something new.
+    ko: 덕분에 저도 새로운 것들을 배우고요.
+    ja: おかげで私も新しい経験ができますしね。
+  d_ex_tower_10_94:
+    speaker: snowcrane
+    en: Our time together is very productive.
+    ko: 아주 유익한 시간이에요~
+    ja: と～っても有意義な時間です～
+  d_ex_tower_10_95:
+    speaker: "<Self>"
+    en: That's good...
+    ko: 그렇다면 다행인데….
+    ja: それならいいが…
+  d_ex_tower_10_96:
+    speaker: exia
+    en: Now. We will start from the beginning.
+    ko: 자- 그럼- 다시 처음부터 시작합니다-
+    ja: じゃー…また最初からー…
+  d_ex_tower_10_97:
+    speaker: snowcrane
+    en: Okay!
+    ko: 네~
+    ja: はい～
+  d_ex_tower_10_98:
+    speaker: "<Monologue>"
+    en: After that, the two of them stayed up in the radio tower for a veeery long
+      time.
+    ko: |-
+      둘은 그 이후로 아주, 아주아주 긴 시간 동안
+      함께 전파탑에 있었다고 한다.
+    ja: |-
+      2人はその後、
+      気が遠くなるほど長い時間を
+      電波塔で過ごしたそうだ
+  d_ex_tower_10_99:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_tower_10_100:
+    speaker: "<Self>"
+    en: But Novel, why are you here?
+    ko: "…노벨, 그런데 너는 왜 여기 있는 거야?"
+    ja: |-
+      …ところで、ノベルは
+      どうしてここに？
+  d_ex_tower_10_101:
+    speaker: novel
+    en: Because I'm always on the scene of a crime!
+    ko: 사건이 있는 곳에는, 언제나 이 노벨이 있기 때문입니다!
+    ja: |-
+      事件が起こる場所には、いつも
+      このノベルが駆けつけるのであります！
+  d_ex_tower_10_102:
+    speaker: novel
+    en: There's an incident occurring every 10 minutes here, so this is a true bed
+      of crime!
+    ko: |-
+      10분에 한 번꼴로 사건이 생기는 이곳은,
+      그야말로 사건 현장인 것입니다!
+    ja: |-
+      10分おきに事件が起こるこの場所こそ、
+      まさに事件現場なのであります！
+  d_ex_tower_10_103:
+    speaker: "<Self>"
+    en: Oh, okay...
+    ko: 아, 그래….
+    ja: そ、そうか…
+  d_ex_tower_10_104:
+    speaker: "<Monologue>"
+    en: I decide not to come back to the radio tower for a while.
+    ko: 나는 당분간 전파탑에 오지 않기로 다짐했다.
+    ja: |-
+      私は当分の間、
+      電波塔に立ち寄らないことに決めた

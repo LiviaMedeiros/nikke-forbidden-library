@@ -1,0 +1,546 @@
+---
+620_name:
+  en: Snow Crane
+  ko: 백학
+  ja: シラツル
+c620_description:
+  en: |-
+    A Nikke in the Central Government who is tasked with managing the Ark's clandestine agreements.
+    Very few people know of her existence, and even her squad is shrouded in secrecy. Firmly believing that the world will one day grow to be truly kind, she thinks of everyone around her as children, and always cares for them with a gentle smile.
+  ko: |-
+    방주의 비밀 서약들을 관리하는 중앙 정부 소속의 니케.
+    베일에 싸여 있는 스쿼드에 소속된 만큼 그녀의 존재를 알고 있는 자는 많지 않다.
+    착한 세계가 언젠가 찾아오리라 믿고 있으며, 항상 상냥하게 웃는 얼굴로 주변의 모두를 어린아이처럼 여기며 아끼고 있다.
+  ja: |-
+    アークにおける秘密の誓約を管理する中央政府所属のニケ。
+    秘密のベールに包まれた部隊に所属しているため、
+    彼女の存在を知る者は数少ない。
+    いつか優しい世界が訪れると信じている。
+    いつも優しい笑顔で過ごしながら、
+    周囲の人々を子どものように思い、大切にしている。
+620_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_620:
+  en: Snow Crane's Spare Body
+  ko: 백학 스페어 바디
+  ja: シラツルのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+26202_name:
+  en: Legal Effect
+  ko: 서약 효력
+  ja: 誓約発効
+26202_description:
+  en: "■ Activates after {description_value_01} Full Charge attack(s). Affects all
+    allies in Exclusive Recovery Agreement status.\n<color=#00AEFF>Recovers {description_value_02}%
+    of the caster's <word_group=10025>final</word_group> max HP as HP.</color>\n■
+    Activates when entering Full Burst. Affects all allies. \n<color=#00AEFF>Generates
+    a <word_group=10023>shield</word_group> with {description_value_03}% of the caster's
+    <word_group=10025>final</word_group> max HP for {description_value_04} sec.</color>\n■
+    Activates when Proof of Violation reaches max stacks. Affects self. \n<color=#00AEFF>Terminated
+    Contract: Gains immunity to Proof of Violation continuously.\nRecovers {description_value_05}%
+    of the caster's <word_group=10025>final</word_group> max HP as HP every 1 sec
+    continuously.</color>"
+  ko: "■ 풀 차지 공격 {description_value_01}회 공격 시 회복 독점 서약 상태인 아군 전체에게 \n<color=#00AEFF>[시전자의
+    <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>\n■
+    풀 버스트 타임 시작 시 아군 전체에게 \n<color=#00AEFF>[시전자의 <word_group=10025>최종</word_group>
+    최대 체력 비례 {description_value_03}% <word_group=10023>보호막</word_group>] [{description_value_04}초
+    유지]</color>\n■ 자신의 서약 위반 증거가 최대 수량이라면 자신에게\n<color=#00AEFF>[서약 해지 : 서약 위반 증거 면역]
+    [지속]\n[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_05}%
+    회복] [1초 간격] [지속]</color>"
+  ja: |-
+    ■フルチャージ状態で{description_value_01}回攻撃した時、回復独占誓約状態の味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％の<word_group=10023>バリア</word_group>」「{description_value_04}秒間維持」</color>
+    ■自分の誓約違反立証が最大数なら、自分に
+    <color=#00AEFF>「誓約解除：誓約違反立証免疫」「持続」
+    「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_05}％回復」「1秒間隔」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+26201_name:
+  en: Exclusive Agreement
+  ko: 독점 서약
+  ja: 独占誓約
+26201_description:
+  en: |-
+    ■ Activates only while not in Terminated Contract status. Affects all allies.
+    <color=#00AEFF>Exclusive Recovery Agreement: Max HP ▲ {description_value_01}% of the caster's max HP continuously.</color>
+    ■ Activates when <word_group=10027>recovery takes effect</word_group> if the recovery is not coming from this unit. Affects self.
+    <color=#00AEFF>Proof of Violation: Potency of HP restored ▼ {description_value_02}% continuously, up to {description_value_03} time(s).</color>
+  ko: "■ 자신이 서약 해지 상태가 아닐 때 한하여 아군 전체에게\n<color=#00AEFF>[회복 독점 서약 : 시전자 기준 최대 체력 {description_value_01}%
+    ▲] [지속]</color>\n■ <word_group=10027>회복 효과 적용 시</word_group> 자신이 사용한 회복 효과가 아니라면
+    자신에게 \n<color=#00AEFF>[서약 위반 증거 : 주는 체력 회복량 {description_value_02}% ▼] [최대 {description_value_03}개]
+    [지속]</color>"
+  ja: |-
+    ■自分が誓約解除状態ではない時のみ、味方全体に
+    <color=#00AEFF>「回復独占誓約：スキル発動者基準で最大HP{description_value_01}％▲」「持続」</color>
+    ■<word_group=10027>回復効果が適用された時</word_group>自分が発動した効果でなければ自分に
+    <color=#00AEFF>「誓約違反立証：与えるHP回復量{description_value_02}％▼」「最大{description_value_03}個」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+16203_name:
+  en: Special Provisions
+  ko: 특약 효력
+  ja: 特約発効
+16203_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> max HP.</color>
+    ■ Affects self.
+    <color=#00AEFF>Gains Pierce for {description_value_02} sec.</color>
+  ko: "■ 아군 전체에게 \n<color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례
+    {description_value_01}% 회복]</color>\n■ 자신에게 \n<color=#00AEFF>[관통 특화] [{description_value_02}초
+    유지]</color>"
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」</color>
+    ■自分に
+    <color=#00AEFF>「貫通特化」「{description_value_02}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c620_Lobby_Touch_1:
+  en: My name is Snow Crane. I'm from the Veiled Order Squad. If you've never heard
+    of us, that is only natural. We're meant to remain hidden behind a veil of secrecy.
+  ko: |-
+    베일드 오더 스쿼드 소속의 백학이라고 해요.
+    처음 들어보신 게 당연해요. 저희는 베일 속에 있어야 하거든요.
+  ja: |-
+    ヴェイルド・オーダー部隊所属のシラツルといいます。
+    聞いたことがない？それも当然です。
+    私たちの存在は、秘密のベールに包まれていないといけませんから。
+c620_Lobby_Touch_2:
+  en: I'm here because I wanted to meet you, Friend. Now that I have, I must say that
+    you are wonderful, kind, and adorable.
+  ko: |-
+    베일 속에서 친구를 만나고 싶어서 왔어요.
+    실제로 보니까~ 더 착하고 멋지고, 귀여운 아이였네요.
+  ja: |-
+    おともだちに会いたくて来ちゃいました。
+    実際に会ってみると…思っていたよりも優しくてカッコよくて、
+    かわいい子だったんですね。
+c620_Lobby_Touch_3:
+  en: If anything is weighing on you, no matter what it is, you can talk to me about
+    it. I'm always happy to lend an ear.
+  ko: |-
+    속상한 일이 있다면, 어떤 일이든 좋으니까 털어놔 보세요.
+    뭐든 들어드릴게요.
+  ja: |-
+    つらいことがあったら、どんなことでも遠慮せずに話してくださいね。
+    なんでも聞きますから。
+c620_Lobby_Touch_Love_1:
+  en: Promises are important. You mustn't become like the naughty children who don't
+    keep them. Got it?
+  ko: |-
+    약속은 중요한 거예요.
+    그러니까 지키지 못하는 나쁜 아이가 돼선 안돼요. 알겠죠~?
+  ja: "約束は…大事なものなんです。\nだから、約束を守れない悪い子になっちゃダメですよ。 \n分かりましたか～？"
+c620_Lobby_Touch_Love_2:
+  en: Now that I've gotten to know you, you're far more thoughtful and splendid than
+    I had heard. I'm very proud of you, Friend.
+  ko: |-
+    친구를 직접 만나 보니까 이야기만 들었을 때보다,
+    훨씬 더 속 깊고 멋진 아이였네요~ 너무 자랑스러워요.
+  ja: |-
+    実際のおともだちは、話で聞いていたよりも
+    思慮深くて素敵な子だったんですね～
+    とても誇りに思います。
+c620_Lobby_Touch_Love_3:
+  en: I hope that one day we can live in a world of peace, where no one fights. If
+    there's anyone who can make that a reality, it's you, Friend.
+  ko: |-
+    모두가 싸우지 않는 착한 세계가 왔으면 좋겠어요.
+    우리 친구가 그런 세계를 만들어 주리라 믿어요.
+  ja: |-
+    争いのない、優しい世界が訪れますように。
+    …おともだちが、そんな世界を作ってくれると信じています。
+c620_Lobby_Stay_1:
+  en: Promising to meet me and then disappearing...? Hmm... It sounds like I might
+    have to make someone read the Ten Virtues of Good Children.
+  ko: |-
+    만나자고 약속해 놓고 사라지다니….
+    흠… 약속을 지키지 않는 친구에겐 착한 아이 10계명을 읽게 할 거예요?
+  ja: |-
+    会おうと約束しておきながら、いなくなるなんて…
+    うーん… 約束を守らないおともだちには、
+    いい子の10ヶ条を読んでもらいますよ？
+c620_Lobby_Stay_Love_1:
+  en: It seems it's another busy day for you. You're always working so hard. It's
+    very commendable. I think I'm going to give you a treat when you get back.
+  ko: |-
+    우리 친구는 오늘도 바쁜가 보네요.
+    늘 열심히 사는 모습 너무 좋네요. 돌아오면 쓰담쓰담 해줄게요~
+  ja: |-
+    おともだちは今日も忙しそうですね。
+    毎日を懸命に生きる姿、とってもえらいです。
+    戻ってきたら、ナデナデしてあげますね～
+c620_Outpost_Touch_1:
+  en: So this is the Outpost now... It used to be so barren, but it's become so lovely.
+    It's quite amazing!
+  ko: "여기가 전초기지… 그렇게나 척박했던 곳이 이렇게나 멋지게 변했군요. \n정말 대단해요!"
+  ja: |-
+    ここが前哨基地…
+    あの不毛の地が、 こんなに素敵な場所に 変わったんですね。
+    本当にすごいです！
+c620_Outpost_Touch_2:
+  en: This place is peaceful only because you've worked so hard for it, right? You
+    truly are remarkable, Friend.
+  ko: |-
+    이곳이 평화로운 건 전부 우리 친구가 많이 노력해서인 거겠죠?
+    정말 훌륭해요~
+  ja: |-
+    ここの平和を守るために、 おともだちが たくさん頑張ったんでしょう？
+    とっても素晴らしいです～
+c620_Outpost_Touch_3:
+  en: Hmm... I just need to stay at the courthouse, yes? Hehe, I wonder what kind
+    of friends I'll meet there...
+  ko: |-
+    저는~ 음, 법원에 있으면 되는군요?
+    후후, 그곳에선 어떤 친구들을 만나려나~
+  ja: |-
+    私は～えっと、 裁判所にいればいいですか？
+    ふふ、そこでは どんなおともだちに 会えるでしょうか～
+c620_Gacha_Get_1:
+  en: Hello, Friend. Are you willing to enter an agreement to only use my power for
+    good? I promise to never betray you.
+  ko: |-
+    친구, 제 힘을 선한 곳에만 사용하겠다고 착한 서약을 맺어 주시겠어요?
+    절대 친구를 배신하지 않을 거예요.
+  ja: |-
+    私の力を正しいことだけに使うと、誓約を結んでくれますか？
+    絶対に、おともだちを裏切りませんので。
+c620_Reinforce_1:
+  en: Wow, what's this? You're really something, Friend.
+  ko: 와아~ 이게 다 뭐예요? 우리 친구 대단하네.
+  ja: |-
+    わあ～、これは何ですか？
+    おともだちって、すごいんですね。
+c620_Reinforce_2:
+  en: Now that I'm even stronger, I can help you even more.
+  ko: 더 강해져서 친구를 도와줄게요~
+  ja: もっと強くなって、おともだちをサポートしますね～
+c620_Reinforce_3:
+  en: Oh, that is so nice of you. You must've worked so hard for that.
+  ko: 아이 착해라~ 구하느라 고생 많았어요.
+  ja: あら、いい子ですね～。探してくるの、大変だったでしょう？
+c620_Gift_1:
+  en: All of this... for me? Thank you.
+  ko: 절 위해 이렇게나 많은걸… 고마워요.
+  ja: 私のために、こんなにたくさん…ありがとうございます。
+c620_Gift_2:
+  en: You brought all of this just for me? You're too kind. You deserve a treat.
+  ko: |-
+    전부 절 위해 고민하고 가져오신 거군요?
+    정말 착하네요. 쓰담쓰담 해줄게요~
+  ja: |-
+    ぜんぶ私のために悩んで、持ってきてくれたんでしょう？
+    なんて優しいんでしょう。ナデナデしてあげますね～
+c620_Gift_3:
+  en: Next time, I want you to tell me something you want. I'll be sure to get it
+    for you.
+  ko: |-
+    다음엔 친구가 갖고 싶은 걸 말해봐요.
+    제가 꼭 선물해 줄게요.
+  ja: |-
+    今度は、おともだちが欲しいものを教えてください。
+    必ずプレゼントしますから。
+c620_Attractive_Up_1:
+  en: I feel like you'll keep any promise you make. It's something I really appreciate
+    about you.
+  ko: |-
+    친구라면 어떤 약속을 해도 전부 지켜낼 것 같아요.
+    그런 점이 정말 멋져요.
+  ja: |-
+    おともだちなら、どんな約束でも守ってくれそうですね。
+    そういうところが本当に素敵です。
+c620_Attractive_Up_2:
+  en: I want you to continue to be kind, wonderful, and endearing. Got it?
+  ko: |-
+    앞으로도 이렇게 착하고 멋지고 사랑스러운 아이가 되어야 해요.
+    알겠죠~?
+  ja: |-
+    これからも、優しくて立派な愛らしい子でいてください。
+    分かりましたか～？
+c620_Attractive_Up_3:
+  en: Thank you for working so hard for a kinder world. As a reward, you get a perfect
+    score! 100 out of 100!
+  ko: |-
+    착한 세계를 위해 노력해줘서 고마워요.
+    상으로 백점 만점 도장을 찍어줄게요~
+  ja: |-
+    優しい世界にするために力を尽くしてくれて、ありがとうございます。
+    ごほうびに、よくできましたのスタンプを押してあげますね～
+c620_Party_Deploy_1:
+  en: Thank you for calling for me.
+  ko: 불러줘서 고마워요.
+  ja: 呼んでくださり、ありがとうございます。
+c620_Field_Touch_1:
+  en: Yes, Friend?
+  ko: 네~ 친구.
+  ja: は～い。
+c620_Field_Go_1:
+  en: All right, I'll head right over.
+  ko: 좋아요, 저쪽으로 갈게요~
+  ja: 分かりました。あっちに行きますね～
+c620_Battle_Enter_1:
+  en: Would you like me to scold these children?
+  ko: 나쁜 아이들을 혼내볼까요?
+  ja: 悪い子たちを叱ってきましょうか？
+c620_Battle_Ready_1:
+  en: Don't worry, Friend. I won't let you get hurt.
+  ko: 걱정 마요, 친구는 절대 다치지 않아요.
+  ja: 心配はいりません。おともだちのことは絶対に守ります。
+c620_Battle_Ready_2:
+  en: These children are in need of a lesson.
+  ko: 나쁜 아이들이 있네요. 혼내줄게요~
+  ja: 悪い子たちがいますね。叱ってきます～
+c620_Battle_Ready_3:
+  en: Let's help make the world a kinder place.
+  ko: 착한 세상을 만들기 위해 힘내볼까요?
+  ja: 優しい世界のために頑張りましょうか？
+c620_Reload_1:
+  en: I need just a short break.
+  ko: 잠시 휴식시간~
+  ja: 少し休憩で～す。
+c620_Reload_2:
+  en: Are you doing okay? Not too tired?
+  ko: 어때요? 친구는 힘들지 않아요?
+  ja: ふふ。おともだちは疲れてませんか？
+c620_Reload_3:
+  en: One moment, please.
+  ko: 준비가 끝나면 다시 가볼게요~
+  ja: 準備ができたら、戻りますね～
+c620_Ult_Skill_Ready_1:
+  en: Are you ready?
+  ko: 준비됐나요~
+  ja: も～い～か～い？
+c620_Ult_Skill_1:
+  en: A gold star for you, Friend!
+  ko: 친구가 왔군요~ 최고의 도장을 찍어 드릴게요.
+  ja: 来てくれたんですね～。ごほうびのスタンプです。
+c620_FullBurst_1:
+  en: Let's all give it just a little more oomph!
+  ko: 다들 조금만 더 힘내볼까요~?
+  ja: さあ、もう少しだけ頑張りましょう～
+c620_Kill_Monster_1:
+  en: Onto the next one!
+  ko: 다음으로 갈게요~
+  ja: 次に進みましょう～
+c620_Kill_Monster_2:
+  en: There's still more left.
+  ko: 아직 남았네요.
+  ja: まだいましたね。
+c620_Kill_Monster_3:
+  en: For a kinder world...
+  ko: 착한 세상을 위해서라면….
+  ja: 優しい世界のために…
+c620_Damage_1:
+  en: Agh.
+  ko: 윽.
+  ja: うっ
+c620_Damage_2:
+  en: Ngh.
+  ko: 읏.
+  ja: ああっ。
+c620_Damage_3:
+  en: Ouch...
+  ko: 아프네요….
+  ja: 痛いです…
+c620_Die_1:
+  en: I'm sorry, Friend. I think... I need to rest...
+  ko: |-
+    미안해요, 친구.
+    지금은… 휴식이 필요할 것 같아요….
+  ja: |-
+    ごめんなさい…
+    今は…休息が必要かもしれません…
+c620_Win_1:
+  en: Hehe, this was all thanks to your splendid leadership, Friend.
+  ko: 후후, 전부 친구의 멋진 지휘 덕분이에요.
+  ja: ふふ。これも全部、おともだちの立派な指揮のおかげですね。
+620_cv_ja:
+  en: "-"
+  ko: 'CV : 사사키 미코이'
+  ja: "-"
+620_cv_ko:
+  en: 'CV: Kim Sara'
+  ko: 'CV : 김사라'
+  ja: CV：キム・サラ
+620_cv_en:
+  en: 'CV: Cat Protano'
+  ko: 'CV : 캣 프로타노'
+  ja: CV：Cat Protano
