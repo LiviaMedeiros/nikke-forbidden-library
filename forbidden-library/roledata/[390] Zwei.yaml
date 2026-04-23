@@ -60,7 +60,7 @@ character_shot_description_localkey_sg_down:
 23902_description:
   en: |-
     ■ Activates after {description_value_01} normal attack(s). Affects all allies.
-    <color=#00AEFF><word_group=10017>Recovers Cover's HP</word_group> by {description_value_02}%.</color>
+    <color=#00AEFF><word_group=10017>Restores {description_value_02}% of Cover HP</word_group>.</color>
     ■ Activates when entering Full Burst. Affects all allies.
     <color=#00AEFF>Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-

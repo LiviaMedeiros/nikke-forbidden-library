@@ -123,7 +123,7 @@ skill_name_1003:
     <color=#00AEFF>Bullet Snatch:
     Function: Steals the enemy's bullets and keeps them in her <word_group=10098>ammo pouch</word_group>.
     Effect 1: Affects all enemies. Removes {description_value_01}% of bullets.
-    Effect 2: Affects self. Fills the <word_group=10098>ammo pouch</word_group> with {description_value_02} round(s), up to a maximum of {description_value_03}. This effect is continuous and cannot be dispelled.</color>
+    Effect 2: Affects self. Fills the <word_group=10098>ammo pouch</word_group> with {description_value_02} round(s), up to a maximum of {description_value_03}. This effect is continuous and cannot be removed.</color>
     ■ Activates when attacking with Full Charge while not in Full Burst. Affects self.
     <color=#00AEFF>Function: Strengthens self by expending ammo from the <word_group=10098>ammo pouch</word_group>.
     Effect 1: <word_group=10099>Expends ammo</word_group> from the <word_group=10098>ammo pouch</word_group>. Amount: {description_value_04} round(s).

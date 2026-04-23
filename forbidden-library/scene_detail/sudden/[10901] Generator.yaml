@@ -4085,3 +4085,789 @@ d_ex_powerplant_09:
     ja: |-
       私は呼吸が落ち着いて帰れるようになるまで
       もうしばらくの時間がかかった
+d_ex_powerplant_10:
+  d_ex_powerplant_10_1:
+    speaker: "<Monologue>"
+    en: The power suddenly goes out in the Commander's Room, so I head to the generator
+      room to check what's going on.
+    ko: 갑작스레 지휘관실에 정전이 발생하여 발전소를 찾아왔더니….
+    ja: |-
+      突然指揮官室で停電が発生し、
+      発電所を訪れたのだが…
+  d_ex_powerplant_10_2:
+    speaker: neon_v
+    en: Firepower! Firepower!
+    ko: 화력! 화력!
+    ja: 火力！火力！
+  d_ex_powerplant_10_3:
+    speaker: "<Narration>"
+    en: "*Bzzzt*"
+    ko: 지잉-!
+    ja: ウィーン！
+  d_ex_powerplant_10_4:
+    speaker: "<Narration>"
+    en: "*Vrrrrrm*"
+    ko: 부우웅-!
+    ja: ブゥゥン！
+  d_ex_powerplant_10_5:
+    speaker: miranda
+    en: Oooh! Neon, the gauge is responding!
+    ko: |-
+      오오! 네온!
+      계기판이 반응하고 있습니다!
+    ja: |-
+      おお！ネオン！
+      ダッシュボードに反応ありです！
+  d_ex_powerplant_10_6:
+    speaker: miranda
+    en: Just give it a little more power!
+    ko: 조금만 더 힘을 내는 겁니다!
+    ja: あと少し頑張ってください！
+  d_ex_powerplant_10_7:
+    speaker: "<Monologue>"
+    en: Neon and Miranda are standing before the roaring generator.
+    ko: 굉음을 내는 발전기 앞에 네온과 미란다가 서 있었다.
+    ja: |-
+      ごう音を上げる発電機の前に
+      ネオンとミランダが立っていた
+  d_ex_powerplant_10_8:
+    speaker: "<Self>"
+    en: "... Neon? Miranda?"
+    ko: "…네온? 미란다?"
+    ja: "…ネオン？ミランダ？"
+  d_ex_powerplant_10_9:
+    speaker: neon_v
+    en: Master? When did you get here?
+    ko: |-
+      스승님?
+      언제 오셨어요?
+    ja: |-
+      師匠？
+      いつの間にいらっしゃったんですか？
+  d_ex_powerplant_10_10:
+    speaker: miranda
+    en: Commander! What brings you here?
+    ko: 지휘관! 이곳엔 어쩐 일이십니까?
+    ja: 指揮官！ここへは何のご用でしょうか？
+  d_ex_powerplant_10_11:
+    speaker: "<Self>"
+    en: The power went out in my room, so I came down here to take a look...
+    ko: 지휘관실 전기가 나가서 와봤는데….
+    ja: 指揮官室が停電したから来てみたのだが…
+  d_ex_powerplant_10_12:
+    speaker: neon_v
+    en: The power's out in the Commander's Room too?
+    ko: 지휘관실도 전기가 나갔나요?
+    ja: 指揮官室もですか？
+  d_ex_powerplant_10_13:
+    speaker: neon_v
+    en: Looks like the power's out in more than a few places.
+    ko: 전기가 나간 곳이 한두 군데가 아닌가 보네요.
+    ja: あちこちで停電しているようですね。
+  d_ex_powerplant_10_14:
+    speaker: "<Self>"
+    en: Hold on, more than a few places?
+    ko: 한두 군데가 아니라니?
+    ja: どういうことだ？
+  d_ex_powerplant_10_15:
+    speaker: miranda
+    en: Looks like there are power outages occurring all throughout the Outpost.
+    ko: 전초기지 곳곳에서 정전이 발생한 것 같습니다!
+    ja: |-
+      前哨基地のいたるところで
+      停電が発生したようです！
+  d_ex_powerplant_10_16:
+    speaker: miranda
+    en: There's been some complaints about them, which is why I'm here.
+    ko: |-
+      제가 지금 이곳에 있는 이유도
+      정전 관련 민원이 접수됐기 때문입니다!
+    ja: |-
+      私がここにいる理由も、
+      停電に関する苦情が届いたからです！
+  d_ex_powerplant_10_17:
+    speaker: "<Self>"
+    en: I see.
+    ko: 그렇구나.
+    ja: そうだったのか
+  d_ex_powerplant_10_18:
+    speaker: "<Self>"
+    en: Then what are you two doing here? And where are Maxwell and Elegg?
+    ko: |-
+      그런데 둘이서 뭐 해?
+      맥스웰이랑 일레그는 어디 가고.
+    ja: |-
+      2人で何をしているんだ？
+      マクスウェルとエレグは？
+  d_ex_powerplant_10_19:
+    speaker: miranda
+    en: Neither of them was around, so Neon and I are working on repairing the generator
+      ourselves.
+    ko: |-
+      두 분 다 부재중이셔서
+      저희가 발전기 수리를 하고 있었습니다!
+    ja: |-
+      お二人ともいらっしゃらないので
+      私たちが発電機の修理をしていました！
+  d_ex_powerplant_10_20:
+    speaker: "<Self>"
+    en: "... Huh?"
+    ko: "…응?"
+    ja: "…えっ？"
+  d_ex_powerplant_10_21:
+    speaker: "<Self>"
+    en: Wouldn't it make more sense to wait for the professionals to handle this?
+    ko: 그럴 때는 전문가가 올 때까지 기다리는 게 맞지 않아?
+    ja: |-
+      そういう時は、専門家が戻ってくるまで
+      待っていた方がいいんじゃないか？
+  d_ex_powerplant_10_22:
+    speaker: miranda
+    en: Too many Nikkes are being affected by this! We can't just sit around and wait!
+    ko: 마냥 기다리기엔 많은 니케들이 불편해하고 있습니다!
+    ja: みんなとても困っているのです！
+  d_ex_powerplant_10_23:
+    speaker: miranda
+    en: That's exactly why we've got to restore the power as quickly as possible!
+    ko: 그렇기 때문에 전기를 빨리 되살려야 합니다!
+    ja: ですから、早く復旧させなければなりません！
+  d_ex_powerplant_10_24:
+    speaker: neon_v
+    en: Besides, pre-orders for the limited-edition shell casings are about to drop.
+    ko: 그리고 곧 한정판 탄피 티켓팅이 있어서요.
+    ja: |-
+      それに、もうすぐ限定版薬きょうの
+      予約が始まるんです。
+  d_ex_powerplant_10_25:
+    speaker: neon_v
+    en: This one's the rarest of the rare! I can't afford to miss it!
+    ko: |-
+      이번 건은 한정판 중에서도 한정판이라
+      절대 놓치면 안 되거든요!
+    ja: |-
+      今回は限定の中の限定なので
+      絶対にゲットしないと！
+  d_ex_powerplant_10_26:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_powerplant_10_27:
+    speaker: "<Self>"
+    en: Well... how are things going? What exactly is the problem?
+    ko: |-
+      …그래서 잘 되고 있어?
+      문제가 뭐야?
+    ja: |-
+      …それで、上手くいっているのか？
+      問題は何だ？
+  d_ex_powerplant_10_28:
+    speaker: neon_v
+    en: Turns out the generator's output is below threshold.
+    ko: 발전기 출력이 기준치보다 낮더라고요.
+    ja: 発電機の出力が基準値より低いんです。
+  d_ex_powerplant_10_29:
+    speaker: neon_v
+    en: So I've been supplementing it with some firepower.
+    ko: 그래서 제가 화력을 보충하고 있었어요!
+    ja: だから私が火力をチャージしていました！
+  d_ex_powerplant_10_30:
+    speaker: neon_v
+    en: Firepower! Firepower!
+    ko: 화력! 화력!
+    ja: 火力！火力！
+  d_ex_powerplant_10_31:
+    speaker: "<Narration>"
+    en: "*Click, click*"
+    ko: 달칵. 달칵.
+    ja: ガチャ、ガチャ
+  d_ex_powerplant_10_32:
+    speaker: "<Monologue>"
+    en: Neon repeatedly presses the output amplification button.
+    ko: 네온은 출력 증폭 버튼을 연속으로 누르고 있었다.
+    ja: ネオンは出力増幅ボタンを連打している
+  d_ex_powerplant_10_33:
+    speaker: "<Self>"
+    en: All you're doing is pressing a button...
+    ko: "…그냥 버튼 누르는 거잖아."
+    ja: "…ただボタンを押しているだけだろう？"
+  d_ex_powerplant_10_34:
+    speaker: neon_v
+    en: Hmm... there's still not enough firepower.
+    ko: 음… 아직 화력이 부족한 것 같네요.
+    ja: うーむ…まだ火力が足りないみたいですね。
+  d_ex_powerplant_10_35:
+    speaker: miranda
+    en: Here, let me help you press the button too.
+    ko: 그럼 제가 버튼 누르는 걸 도와드리겠습니다!
+    ja: では、私もお手伝いします！
+  d_ex_powerplant_10_36:
+    speaker: "<Narration>"
+    en: "*Click, click, click, click, click*"
+    ko: 달칵. 달칵. 달칵. 달칵. 달칵.
+    ja: ガチャ、ガチャ、ガチャ、ガチャ、ガチャ
+  d_ex_powerplant_10_37:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_powerplant_10_38:
+    speaker: "<Narration>"
+    en: A few moments later...
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_powerplant_10_39:
+    speaker: neon_v
+    en: Whew! Repairs complete!
+    ko: "…후우! 수리 완료했어요!"
+    ja: "…ふぅ！修理完了です！"
+  d_ex_powerplant_10_40:
+    speaker: neon_v
+    en: The generator output is back within normal range.
+    ko: 발전기 출력을 정상 범위로 만들어 놓았으니.
+    ja: 発電機の出力が正常範囲になったので、
+  d_ex_powerplant_10_41:
+    speaker: neon_v
+    en: The power should be back on now.
+    ko: 이제 전기가 들어올 거예요.
+    ja: これで電気が戻るはずです。
+  d_ex_powerplant_10_42:
+    speaker: "<Self>"
+    en: Wait, that actually fixed it?
+    ko: "…진짜로 이걸 고쳤다고?"
+    ja: "…本当に直ったのか？"
+  d_ex_powerplant_10_43:
+    speaker: neon_v
+    en: Hehe.
+    ko: 후훗.
+    ja: ふふっ。
+  d_ex_powerplant_10_44:
+    speaker: neon_v
+    en: Master.
+    ko: 스승님.
+    ja: 師匠。
+  d_ex_powerplant_10_45:
+    speaker: neon_v
+    en: Behold the skill of Neo-Neon, firepower is the only path I walk!
+    ko: |-
+      이게 바로 화력의 길만 걸어온
+      네오-네온의 실력이랍니다.
+    ja: |-
+      これこそが火力の一本道を歩んできた
+      私、ネオ・ネオンの実力です。
+  d_ex_powerplant_10_46:
+    speaker: miranda
+    en: Uh... Neon?
+    ko: 엇. 네온.
+    ja: あっ、ネオン。
+  d_ex_powerplant_10_47:
+    speaker: miranda
+    en: I just received a message from Quiry. She says the power is still down!
+    ko: |-
+      방금 키리에게 연락 왔는데,
+      아직도 전기가 들어오지 않는다고 합니다!
+    ja: |-
+      たった今、キリから連絡が入りましたが
+      まだ戻っていないようです！
+  d_ex_powerplant_10_48:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_powerplant_10_49:
+    speaker: neon_v
+    en: How's that possible?!
+    ko: 이럴 수가!
+    ja: そんな！？
+  d_ex_powerplant_10_50:
+    speaker: neon_v
+    en: I unleashed maximum firepower into that thing...
+    ko: 분명 최대 출력으로 화력을 퍼부었는데….
+    ja: 最大出力で火力を注いだのに…
+  d_ex_powerplant_10_51:
+    speaker: neon_v
+    en: What could the problem be?
+    ko: 뭐가 문제인 걸까요?
+    ja: 何が問題なんでしょうか？
+  d_ex_powerplant_10_52:
+    speaker: miranda
+    en: You know in crime movies, when something like this happens...
+    ko: 범죄 영화에서 이런 상황일 때.
+    ja: こういう状況の時、サスペンス映画で…
+  d_ex_powerplant_10_53:
+    speaker: miranda
+    en: Someone just replaces a fuse and things magically get fixed!
+    ko: 퓨즈를 갈면 갑자기 해결되는 장면을 본 적 있습니다!
+    ja: |-
+      ヒューズを交換したらすぐに解決したという
+      シーンを見たことがあります！
+  d_ex_powerplant_10_54:
+    speaker: miranda
+    en: Shall we give that a try?
+    ko: 한번 시도해 보는 건 어떻습니까?
+    ja: 一度試してみませんか？
+  d_ex_powerplant_10_55:
+    speaker: neon_v
+    en: Oooh! Let's try it!
+    ko: |-
+      오호.
+      한 번 해보죠!
+    ja: |-
+      なるほど。
+      やってみましょう！
+  d_ex_powerplant_10_56:
+    speaker: miranda
+    en: Okay, I'll remove the fuse!
+    ko: 그럼 제가 퓨즈를 빼겠습니다!
+    ja: では、私がヒューズを抜きます！
+  d_ex_powerplant_10_57:
+    speaker: neon_v
+    en: Sounds good! I'll go get a new one!
+    ko: 좋아요! 저는 새 퓨즈를 구해올게요!
+    ja: |-
+      分かりました！
+      私は新しいヒューズを探してきますね！
+  d_ex_powerplant_10_58:
+    speaker: "<Self>"
+    en: Er, I don't think this is right.
+    ko: 아냐, 이거 아닌 것 같아….
+    ja: いや、それは違うと思う…
+  d_ex_powerplant_10_59:
+    speaker: "<Self>"
+    en: Let's just wait until Maxwell and Elegg get here.
+    ko: 그냥 맥스웰이랑 일레그가 올 때까지 기다리자.
+    ja: マクスウェルとエレグが来るまで待とう
+  d_ex_powerplant_10_60:
+    speaker: "<Narration>"
+    en: "*Whoosh* *Clunk, clunk*"
+    ko: |-
+      휙-!
+      끼릭-! 끼릭-!
+    ja: |-
+      パカッ！
+      カチャ！カチャ！
+  d_ex_powerplant_10_61:
+    speaker: "<Monologue>"
+    en: Miranda pulls the fuse out of the generator.
+    ko: 미란다는 발전기에 있던 퓨즈를 꺼내 들었고.
+    ja: ミランダは発電機のヒューズを取り出し、
+  d_ex_powerplant_10_62:
+    speaker: "<Narration>"
+    en: "*Clatter, clatter*"
+    ko: 달그락. 달그락.
+    ja: ガチャガチャ…
+  d_ex_powerplant_10_63:
+    speaker: "<Monologue>"
+    en: Neon digs through a box, looking for a new fuse.
+    ko: 네온은 상자 안을 뒤지며 새 퓨즈를 찾고 있었다.
+    ja: ネオンは箱の中から新しいヒューズを探している
+  d_ex_powerplant_10_64:
+    speaker: "<Monologue>"
+    en: My words seem to fall on deaf ears.
+    ko: "…내 말은 전혀 들리지 않는 것 같다."
+    ja: "…私の声はまったく届いていないようだ"
+  d_ex_powerplant_10_65:
+    speaker: "<Monologue>"
+    en: Neon and Miranda proceed to fiddle with the broken generator.
+    ko: |-
+      …그 이후로 네온과 미란다는
+      고장 난 발전기 이곳저곳을 만지기 시작했다.
+    ja: |-
+      …それからネオンとミランダは
+      壊れた発電機をあちこちいじり始めた
+  d_ex_powerplant_10_66:
+    speaker: miranda
+    en: It looks like the power isn't coming back on because of all the dust built
+      up inside the generator!
+    ko: |-
+      아무래도 발전기 내부에 쌓인 먼지들 때문에
+      전기가 들어오지 않는 것 같습니다!
+    ja: |-
+      どうやら、発電機に溜まったホコリが
+      原因のようです！
+  d_ex_powerplant_10_67:
+    speaker: neon_v
+    en: Then let's blow all the dust away with firepower!
+    ko: 그럼 화력으로 먼지를 다 날려버리죠!
+    ja: では、火力でホコリを吹き飛ばしましょう！
+  d_ex_powerplant_10_68:
+    speaker: miranda
+    en: I'll help out too!
+    ko: 저도 도와드리겠습니다!
+    ja: 私もお手伝いします！
+  d_ex_powerplant_10_69:
+    speaker: neon_v
+    en: "*Huff! Huff!*"
+    ko: 후욱-! 후욱-!
+    ja: ふぅっ！ふぅっ！
+  d_ex_powerplant_10_70:
+    speaker: miranda
+    en: "*Huff!*"
+    ko: 후우우욱-!
+    ja: ふぅぅっ！
+  d_ex_powerplant_10_71:
+    speaker: "<Monologue>"
+    en: Neon and Miranda blow air into the generator to clear out the dust.
+    ko: |-
+      네온과 미란다는 발전기 안을 향해
+      바람을 불어넣어 먼지를 털어냈다.
+    ja: |-
+      ネオンとミランダは発電機に向かって
+      思いきり息を吹きかけ、ホコリを取り除いた
+  d_ex_powerplant_10_72:
+    speaker: neon_v
+    en: "*Cough, cough* There's... too... *Cough* much dust..."
+    ko: |-
+      콜록. 콜록!
+      먼지가… 너무 많습니… 콜록! 다!
+    ja: |-
+      ゲホゲホッ！
+      ホコリが…多すぎま…ゴホ！す！
+  d_ex_powerplant_10_73:
+    speaker: miranda
+    en: Come on... *Cough, cough* Just a little more! *Cough*
+    ko: 조금만 더 힘내… 콜록콜록! 봐요! 콜록!
+    ja: もう少し頑張り…ゴホゴホ！ましょう！ゴホッ！
+  d_ex_powerplant_10_74:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_powerplant_10_75:
+    speaker: neon_v
+    en: "... The wires around the generator are all jumbled up."
+    ko: "…발전기 주변에 전선이 엉켜 있군요."
+    ja: "…発電機周辺の電線が絡まってますね。"
+  d_ex_powerplant_10_76:
+    speaker: neon_v
+    en: That has to be it.
+    ko: 아무래도 이게 원인 같네요.
+    ja: おそらくこれが原因でしょう。
+  d_ex_powerplant_10_77:
+    speaker: neon_v
+    en: If the wires are tangled, there's no way my firepower can flow properly!
+    ko: 선이 엉켜 있으면 화력이 잘 통할리 없으니까요!
+    ja: |-
+      線が絡まっていたら、
+      火力が通るはずありません！
+  d_ex_powerplant_10_78:
+    speaker: neon_v
+    en: Let's tackle it with firepower and all our might!
+    ko: 화력과 함께 전력으로 풀어보죠!
+    ja: 火力と電力で解決しましょう！
+  d_ex_powerplant_10_79:
+    speaker: miranda
+    en: I'll pitch in as well!
+    ko: 저도 함께 하겠습니다!
+    ja: 私もご協力します！
+  d_ex_powerplant_10_80:
+    speaker: "<Monologue>"
+    en: Neon and Miranda carefully untangle the wires around the generator one by
+      one with their hands.
+    ko: |-
+      네온과 미란다는 발전기 주변에 있는 전선들을
+      손으로 한 땀 한 땀 풀어냈다.
+    ja: |-
+      ネオンとミランダは発電機の周辺にある電線を
+      一つ一つ手でほどいていった
+  d_ex_powerplant_10_81:
+    speaker: "<Narration>"
+    en: "*Bzzzt*"
+    ko: 찌릿-!
+    ja: ビリッ！
+  d_ex_powerplant_10_82:
+    speaker: miranda
+    en: Argh! Static! Argh! It's zapping me!
+    ko: 으갹! 정전기가 으갹! 납니다!
+    ja: うぎゃっ！静電気が、うぎゃ！起きました！
+  d_ex_powerplant_10_83:
+    speaker: "<Narration>"
+    en: "*Bzzzt, bzzzt*"
+    ko: 찌릿-! 찌릿-!
+    ja: ビリッ！ビリッ！
+  d_ex_powerplant_10_84:
+    speaker: neon_v
+    en: Owww! If we want to fix the generator... owww! We've got to grit our teeth
+      and push through! Owww!!
+    ko: "으갸갹! 발전기를 고치려면 으갹! \n이 정도는 참아야 해요! 으갸갹!"
+    ja: |-
+      うぎゃぎゃっ！発電機を直すには、うぎゃ！
+      これぐらい我慢ですよ！うぎゃぎゃっ！
+  d_ex_powerplant_10_85:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_powerplant_10_86:
+    speaker: "<Narration>"
+    en: "*Bzzzzzt*"
+    ko: 파지지직-!
+    ja: パチ！パチッ！
+  d_ex_powerplant_10_87:
+    speaker: miranda
+    en: The generator is responding!
+    ko: 발전기가 반응하고 있습니다!
+    ja: 発電機が反応しています！
+  d_ex_powerplant_10_88:
+    speaker: neon_v
+    en: Ohhh... finally!
+    ko: 오오오… 드디어…!
+    ja: おおお…ついに…！
+  d_ex_powerplant_10_89:
+    speaker: "<Narration>"
+    en: "*Bzzzt, bzzzt* *Bzzzzzt*"
+    ko: 파직. 파직. 파지직---!
+    ja: パチ、パチチッ！
+  d_ex_powerplant_10_90:
+    speaker: "<Narration>"
+    en: "*Boom!*"
+    ko: 펑-!
+    ja: ボンッ！
+  d_ex_powerplant_10_91:
+    speaker: "<Monologue>"
+    en: A loud explosion erupts from inside the generator. The motor section is scorched
+      black.
+    ko: |-
+      …발전기 내부에서 큰 폭음이 울렸고.
+      모터 부분이 검게 그을렸다.
+    ja: |-
+      …発電機の内部で大きな爆音が響き、
+      モーターが黒く焦げてしまった
+  d_ex_powerplant_10_92:
+    speaker: neon_v
+    en: "... Huh?"
+    ko: "…어라."
+    ja: "…あれ？"
+  d_ex_powerplant_10_93:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_powerplant_10_94:
+    speaker: neon_v
+    en: I think something went wrong, Miranda.
+    ko: "…미란다 뭔가 잘못된 것 같죠?"
+    ja: "…ミランダ。何かがおかしいですよね？"
+  d_ex_powerplant_10_95:
+    speaker: miranda
+    en: Yeah, I think so too.
+    ko: 예, 그런 것 같습니다!
+    ja: はい、そのようです！
+  d_ex_powerplant_10_96:
+    speaker: neon_v
+    en: What do we do now, Master?
+    ko: "…스승님, 이제 어떡하죠?"
+    ja: "…師匠、どうしましょうか？"
+  d_ex_powerplant_10_97:
+    speaker: "<Self>"
+    en: Oh, so now you decide to listen to me?
+    ko: 이제야 날 찾는 거야?
+    ja: やっと私の話を聞く気になったのか？
+  d_ex_powerplant_10_98:
+    speaker: poli
+    en: Nobody move!
+    ko: 다들 동작 그만이에영!
+    ja: みなさん、ストップですよん！
+  d_ex_powerplant_10_99:
+    speaker: neon_v
+    en: Eeek!
+    ko: "…끼약!"
+    ja: "…わわっ！"
+  d_ex_powerplant_10_100:
+    speaker: miranda
+    en: Ahhh!
+    ko: "…흐억!"
+    ja: "…ひゃっ！"
+  d_ex_powerplant_10_101:
+    speaker: poli
+    en: Well, this certainly explains why the power wasn't coming back on!
+    ko: |-
+      왜 전기가 복구 안되나 했더닝.
+      원인이 여기 있었네영!
+    ja: |-
+      復旧が遅いと思ったら…
+      原因はここだったんですねぇ！
+  d_ex_powerplant_10_102:
+    speaker: "<Narration>"
+    en: "*Bzzzt, bzzzt* *Bzzzzzt*"
+    ko: 파직. 파직. 파지직---!
+    ja: パチ、パチチッ！
+  d_ex_powerplant_10_103:
+    speaker: poli
+    en: Did you three do this?
+    ko: 이거… 세 분이서 이러신 건가영?!
+    ja: これは…3人でやったんですかぁ！？
+  d_ex_powerplant_10_104:
+    speaker: neon_v
+    en: "... Yeah."
+    ko: "…넵."
+    ja: "…はい。"
+  d_ex_powerplant_10_105:
+    speaker: miranda
+    en: Yup! It was us!
+    ko: 네! 그렇습니다!
+    ja: はい！そのとおりです！
+  d_ex_powerplant_10_106:
+    speaker: "<Self>"
+    en: No, I had nothing to do with this...
+    ko: 아니, 나는 안 했는….
+    ja: いや、私は何もしていな…
+  d_ex_powerplant_10_107:
+    speaker: "<Narration>"
+    en: "*Bzzzt* *Bzzzzzt* *Bzzzzzzzzzt*"
+    ko: |-
+      파직-! 파지직-!
+      파지지지지직---!!!
+    ja: |-
+      パチ、パチッ！
+      パチチチッ！！
+  d_ex_powerplant_10_108:
+    speaker: "<Monologue>"
+    en: The generator sputters loudly and starts spewing even thicker smoke than before.
+    ko: |-
+      발전기는 요란한 소리를 내며
+      아까보다 더 큰 연기를 뿜어냈다.
+    ja: |-
+      発電機は騒々しい音を立てながら
+      先ほどより多くの煙を吐き出していた
+  d_ex_powerplant_10_109:
+    speaker: poli
+    en: Oh dear...
+    ko: 에흉….
+    ja: はぁぁ…
+  d_ex_powerplant_10_110:
+    speaker: poli
+    en: By the look of this generator... it doesn't seem like a simple malfunction.
+    ko: |-
+      발전기 상태를 보닝.
+      단순 고장이 아닌 것 같네영.
+    ja: |-
+      この様子だと、
+      単なる故障ではなさそうですねぇ。
+  d_ex_powerplant_10_111:
+    speaker: poli
+    en: It's probably going to take quite a while to fix.
+    ko: 고치려면 시간도 꽤 걸리겠구영.
+    ja: 修理には時間がかかりそうですぅ。
+  d_ex_powerplant_10_112:
+    speaker: poli
+    en: I'm putting the three of you under arrest!
+    ko: |-
+      이곳에 계신 세분.
+      체포하겠습니당!
+    ja: そこのお三方、逮捕しますねぇ！
+  d_ex_powerplant_10_113:
+    speaker: poli
+    en: Come on, we're heading to the station!
+    ko: 다들 경찰서로 가시졍!
+    ja: 署まで来てくださいよん！
+  d_ex_powerplant_10_114:
+    speaker: neon_v
+    en: The police station?!
+    ko: "…경찰서라뇨?!"
+    ja: "…け、警察署ですか！？"
+  d_ex_powerplant_10_115:
+    speaker: neon_v
+    en: But we were just trying to fix the generator!
+    ko: 저희는 발전기를 고치고 있었던 것뿐인데요!
+    ja: 私たちは発電機を直していただけです！
+  d_ex_powerplant_10_116:
+    speaker: miranda
+    en: That's right! Neon and I have really been working hard to resolve this inconvenience
+      for all the Nikkes and...
+    ko: |-
+      맞습니다!
+      니케들의 불편함을 해소하기 위해 네온과 열심히….
+    ja: |-
+      そのとおりです！
+      ニケたちの困りごとを解決するために
+      ネオンと必死に…
+  d_ex_powerplant_10_117:
+    speaker: poli
+    en: Grrr... What are you babbling about?!
+    ko: 크르릉… 무슨 소리에영!
+    ja: グルル…何を言ってるんですかぁ！
+  d_ex_powerplant_10_118:
+    speaker: poli
+    en: Thanks to you guys, the Outpost is losing even more power!
+    ko: 여러분 때문에 전초기지에 더 많은 전기가 나가고 있다고영!
+    ja: |-
+      みなさんのせいで、前哨基地の停電エリアが
+      どんどん増えているんですぅ！
+  d_ex_powerplant_10_119:
+    speaker: poli
+    en: To the police station, on the double!
+    ko: 얼른 경찰서로가영!
+    ja: 早く署まで行きますよん！
+  d_ex_powerplant_10_120:
+    speaker: neon_v
+    en: Poli, as you can clearly see, I'm powered up right now.
+    ko: 폴리, 제가 지금 보시다시피 파워업 상태거든요.
+    ja: |-
+      ポリ、私はご覧の通り、
+      パワーアップ状態なんです。
+  d_ex_powerplant_10_121:
+    speaker: neon_v
+    en: If I push just a little more, my Neo-Neon power will Neo-Neon this thing back
+      into shape.
+    ko: |-
+      조금만 더 하면 네오-네온의 힘으로
+      네오-네온하게 고쳐놓을 수….
+    ja: |-
+      あと少し頑張れば、ネオ・ネオンの力で
+      ネオ・ネオンらしく直せ…
+  d_ex_powerplant_10_122:
+    speaker: poli
+    en: Not happening! All of you, come along quietly, or else I'll have to use force.
+    ko: |-
+      안돼영!
+      강제로 연행하기 전에, 다들 조용히 따라오세영!
+    ja: |-
+      ダメですぅ！
+      強制連行される前に、
+      おとなしくついてきてくださいねぇ！
+  d_ex_powerplant_10_123:
+    speaker: "<Self>"
+    en: I'm telling you, I didn't do anything...
+    ko: "…아니, 나는 안 했는데."
+    ja: "…いや、私はやっていない"
+  d_ex_powerplant_10_124:
+    speaker: poli
+    en: Don't try to wash your hands of this, Commander. You stood by this entire
+      time without stopping them.
+    ko: |-
+      지휘관도 현장에서 말리지 않고 지켜만 봤으닝.
+      책임이 없다고 할 수는 없어영!
+    ja: |-
+      指揮官も現場で見ていたわけですから
+      責任がないとは言えませんよん！
+  d_ex_powerplant_10_125:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_powerplant_10_126:
+    speaker: "<Monologue>"
+    en: Following that, Poli hauls us off to the police station.
+    ko: 그 이후, 우리는 경찰서로 연행 됐고.
+    ja: その後、私たちは警察署に連行され…
+  d_ex_powerplant_10_127:
+    speaker: "<Monologue>"
+    en: I'm excoriated for failing to stop Neon and Miranda.
+    ko: |-
+      나는 네온과 미란다의 행동을 말리지 않았다는 이유로
+      크게 혼이 났다.
+    ja: |-
+      私はネオンとミランダの行動を
+      止めなかったことを、こっぴどく叱られた
+  d_ex_powerplant_10_128:
+    speaker: "<Monologue>"
+    en: As for Miranda and Neon, they are thrown into a holding cell and only released
+      after writing letters of apology.
+    ko: |-
+      그리고 미란다와 네온은 유치장에 들어가
+      반성문을 쓴 뒤에야 겨우 풀려날 수 있었다.
+    ja: |-
+      そしてミランダとネオンは、
+      反省文を書き終わるまで
+      留置場から出られなかった

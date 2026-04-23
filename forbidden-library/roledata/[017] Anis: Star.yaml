@@ -1,0 +1,1076 @@
+---
+17_name:
+  en: 'Anis: Star'
+  ko: '아니스 : 스타'
+  ja: アニス：スター
+c017_description:
+  en: Equipped with the expansive armament Star made from Pretty's body and core,
+    Anis has risen above the pains of her past and now strives to become the true
+    star of the Ark.
+  ko: |-
+    프리티의 바디와 코어로 만든 확장 무장 STAR를 장착한 아니스.
+    과거의 아픔을 딛고,
+    그녀는 이제 진정한 의미로 방주의 별이 되려 한다.
+  ja: |-
+    プリティーのボディとコアで作られた
+    拡張武装STARを装備したアニス。
+    過去の痛みを乗り越え、彼女は今、
+    本当の意味でアークの星になろうとしている。
+17_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_17:
+  en: 'Anis: Star''s Spare Body'
+  ko: '아니스 : 스타 스페어 바디'
+  ja: アニス：スターのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20172_name:
+  en: Stardust
+  ko: 스타더스트
+  ja: スターダスト
+20172_description:
+  en: |-
+    ■ Activates when entering Full Burst while in My Own Star status. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
+    ■ Activates when performing a Full Charge attack while in Everyone's Star status. Affects all allies.
+    <color=#00AEFF>Restores {description_value_03}% of the caster's <word_group=10025>final</word_group> max HP as HP.</color>
+    ■ Activates when entering Full Burst. Affects self and all allies with lower <word_group=10025>final</word_group> DEF than self.
+    <color=#00AEFF><word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_06}% for {description_value_07} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신이 나만의 별 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 차지 공격 시 자신이 모두의 별 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복]</color>
+    ■ 풀 버스트 타임 시작 시 자신과 자신보다 <word_group=10025>최종</word_group> 방어력이 낮은 아군 전체에게
+    <color=#00AEFF>[<word_group=10066>발사체 폭발 대미지</word_group> {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、
+    自分が私だけの星状態なら、味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルチャージして攻撃した時、
+    自分がみんなの星状態なら、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」</color>
+    ■フルバーストタイムが発動した時、
+    自分と自分より<word_group=10025>最終</word_group>防御力が低い味方全体に
+    <color=#00AEFF>「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■フルバーストタイムが発動した時、味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20171_name:
+  en: Starfall
+  ko: 스타 폴
+  ja: スターフォール
+20171_description:
+  en: |-
+    ■ Activates at the start of battle only if self is alive. Affects all allies.
+    <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> {description_value_05}% ▲ continuously.</color>
+    ■ Activates at the start of battle and when Full Burst ends.
+    <color=#00AEFF>Effect differs according to squad formation. Only the corresponding effect is applied.
+    If there are no other <word_group=10067>Burst {description_value_01} allies</word_group>:
+    Effect 1: Affects self. <word_group=10101>Cancels</word_group> Everyone's Star.
+    Effect 2: Affects self. My Own Star: ATK ▲ {description_value_02}%. This effect is continuous and cannot be removed.
+    Effect 3: Affects all allies. <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.
+    If there are any other <word_group=10067>Burst {description_value_01} allies</word_group>:
+    Effect 1: Affects self. <word_group=10101>Cancels</word_group> My Own Star.
+    Effect 2: Affects self. Everyone's Star: <word_group=10062>Re-enters Burst and changes to Stage {description_value_01}</word_group>. This effect is continuous and cannot be removed.</color>
+    ■ Activates when hitting a target with Full Charge. Affects the target.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 전투 시작 시 자신이 생존 상태일 때 한하여 아군 전체에게
+    <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_05}% ▲] [지속]</color>
+    ■ 전투 시작 시와 풀 버스트 타임 종료 시
+    <color=#00AEFF>[스쿼드 구성 별 효과] [해당되는 효과만 적용]
+    자신을 제외한 <word_group=10067>기본 버스트 단계가 Step {description_value_01}인 아군</word_group>이 없다면
+    효과 1 : 자신에게 [모두의 별 <word_group=10101>삭제</word_group>]
+    효과 2 : 자신에게 [나만의 별 : 공격력 {description_value_02}% ▲] [지속] [해제 불가]
+    효과 3 : 아군 전체에게 [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_03}초 ▼]
+    자신을 제외한 <word_group=10067>기본 버스트 단계가 Step {description_value_01}인 아군</word_group>이 있다면
+    효과 1 : 자신에게 [나만의 별 <word_group=10101>삭제</word_group>]
+    효과 2 : 자신에게 [모두의 별 : <word_group=10062>버스트 재진입 {description_value_01}단계로 변경</word_group>] [지속] [해제 불가]</color>
+    ■ 풀 차지 공격 명중 시 대상에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% 추가 대미지]</color>
+  ja: |-
+    ■戦闘開始時、自分が生存している限り、味方全体に
+    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_05}％▲」「持続」</color>
+    ■戦闘開始時およびフルバーストタイムが終了した時、
+    <color=#00AEFF>「部隊構成による効果」「該当効果のみ適用」
+    自分を除く<word_group=10067>基本バースト段階が{description_value_01}の味方</word_group>がいない場合、
+    効果1：自分に「みんなの星<word_group=10101>消去</word_group>」
+    効果2：自分に「私だけの星：攻撃力{description_value_02}％▲」「持続」「解除不可」
+    効果3：味方全体に「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_03}秒▼」
+    自分を除く<word_group=10067>基本バースト段階が{description_value_01}の味方</word_group>がいる場合、
+    効果1：自分に「私だけの星<word_group=10101>消去</word_group>」
+    効果2：自分に「みんなの星：<word_group=10062>バースト再突入{description_value_01}段階に変更</word_group>」「持続」「解除不可」</color>
+    ■フルチャージ攻撃が命中した時、対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の追加ダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10173_name:
+  en: Star Anis
+  ko: 스타 아니스
+  ja: スターアニス
+10173_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Shooting Stars
+    Function: Generates stars around Anis that attack random targets automatically.
+    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    Attack Interval: 0.25 sec
+    Duration: {description_value_02} sec
+    Additional Effects
+    Charge time is fixed at {description_value_10} sec for {description_value_02} sec.
+    Explosion Radius ▲ {description_value_03}% for {description_value_02} sec.
+    DEF ▲ {description_value_05}% for {description_value_02} sec.</color>
+    ■ Activates while in My Own Star status. Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_06}% for {description_value_07} sec.</color>
+    ■ Activates while in Everyone's Star status. Affects all allies.
+    <color=#00AEFF>Max HP ▲ {description_value_08}% of the caster's max HP for {description_value_09} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[슈팅 스타]
+    기능 : 아니스 주변에 작은 별을 생성하여 무작위 대상에게 자동 공격합니다.
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}%
+    공격 간격 : 0.25초
+    유지 시간 : {description_value_02}초
+    추가 효과
+    [차지 시간 {description_value_10}초로 고정] [{description_value_02}초 유지]
+    [폭발 범위 {description_value_03}% ▲] [{description_value_02}초 유지]
+    [방어력 {description_value_05}% ▲] [{description_value_02}초 유지]</color>
+    ■ 자신이 나만의 별 상태라면 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+    ■ 자신이 모두의 별 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자 기준 최대 체력 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「シューティングスター」
+    機能：アニスの周囲に小さな星が生成され、ランダムな対象に自動攻撃する
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％
+    攻撃間隔：0.25秒
+    維持時間：{description_value_02}秒
+    追加効果
+    「チャージ時間{description_value_10}秒に固定」「{description_value_02}秒間維持」
+    「爆発範囲{description_value_03}％▲」「{description_value_02}秒間維持」
+    「防御力{description_value_05}％▲」「{description_value_02}秒間維持」</color>
+    ■自分が私だけの星状態なら、自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+    ■自分がみんなの星状態なら、味方全体に
+    <color=#00AEFF>「スキル発動者基準で最大HP{description_value_08}％▲」「{description_value_09}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+14_name:
+  en: 'Neon: Blue Ocean'
+  ko: '네온 : 블루 오션'
+  ja: ネオン：ブルーオーシャン
+15_name:
+  en: 'Anis: Sparkling Summer'
+  ko: '아니스 : 스파클링 서머'
+  ja: アニス：スパークリングサマー
+16_name:
+  en: 'Rapi: Red Hood'
+  ko: '라피 : 레드 후드'
+  ja: ラピ：レッドフード
+18_name:
+  en: 'Neon: Vision Eye'
+  ko: '네온 : 비전 아이'
+  ja: ネオン：ビジョン・アイ
+10_name:
+  en: Rapi
+  ko: 라피
+  ja: ラピ
+11_name:
+  en: Neon
+  ko: 네온
+  ja: ネオン
+12_name:
+  en: Anis
+  ko: 아니스
+  ja: アニス
+c017_Lobby_Touch_1:
+  en: Having a bunch of people I can count on makes me feel more confident than I
+    expected.
+  ko: |-
+    믿을만한 사람이 많다는 건,
+    생각보다 더 든든한 일인 것 같아.
+  ja: |-
+    信頼できる人がたくさんいるのって、
+    思ったより心強いことなのね。
+c017_Lobby_Touch_2:
+  en: Still not used to me like this, huh? I'm right there with you.
+  ko: 아직 좀 어색하지? 나도 그래.
+  ja: まだちょっと慣れないでしょ？私もなの。
+c017_Lobby_Touch_3:
+  en: Agh! I'm so bright, it makes my eyes hurt! ... Okay, maybe that's a bit much.
+  ko: |-
+    윽…! 나 자신, 너무 눈부셔…!
+    이건 좀 오버인가?
+  ja: |-
+    うっ…！私ってば、まぶしすぎ…！
+    ちょっとやりすぎかな？
+c017_Lobby_Touch_Love_1:
+  en: It finally feels like I can stand shoulder to shoulder with you, Commander.
+    That's how brightly you shine.
+  ko: |-
+    이제야 지휘관님이랑 나란히 설 수 있게 된 것 같아.
+    그만큼 지휘관님이 눈부신 존재라는 말이야.
+  ja: |-
+    やっと指揮官様と肩を並べられそうね。
+    それくらい指揮官様が輝かしい存在ってことよ。
+c017_Lobby_Touch_Love_2:
+  en: Now I can confidently state that I'm the star of the Ark. And it's all thanks
+    to you, Commander.
+  ko: |-
+    내가 방주의 별이라고, 이제 자신 있게 말할 수 있어.
+    지휘관님 덕분이야.
+  ja: |-
+    私はアークの星だって自信を持って言えるわ。
+    指揮官様のおかげよ。
+c017_Lobby_Touch_Love_3:
+  en: I know there are a lot of stars in the sky, but I hope you see me as the brightest
+    one of them all.
+  ko: |-
+    하늘에는 별들이 엄청 많잖아.
+    그중에 가장 빛나는 별을 나라고 생각해 줘.
+  ja: |-
+    空にはたくさんの星があるでしょ？
+    その中で一番輝いてる星が私だと思ってね。
+c017_Lobby_Stay_1:
+  en: Commander! Where'd you go?! Are you hiding because I was too bright?
+  ko: |-
+    지휘관님~! 아, 어디 갔는데!
+    내가 너무 눈부셔서 그래? 응?!
+  ja: |-
+    指揮官様～！どこ行っちゃったのよ？
+    私がまぶしすぎるから！？
+c017_Lobby_Stay_Love_1:
+  en: Twinkle twinkle, Anis star ♬ Shining brightly for the Ark ♬
+  ko: |-
+    반짝반짝~ 아니스 별~♬
+    아름답게 비치네~♬
+  ja: |-
+    きらきら光る～♪
+    アニスの星よ～♪
+c017_Outpost_Touch_1:
+  en: Just like the Ark needs a star, the Outpost needs hot water. Hear me? I want
+    a proper hot shower already!
+  ko: |-
+    방주에 별이 필요했다면, 전초기지에는 온수가 필요해.
+    듣고 있어? 따뜻한 물로 샤워 좀 하자고~!
+  ja: |-
+    アークには星が必要だったけど、 前哨基地には温水が必要ね。
+    ねえ、聞いてる？ 温かいお湯で シャワーしたいのよ～！
+c017_Outpost_Touch_2:
+  en: Was this place always this nice and bright? ... Maybe I'm the one who's changed.
+  ko: |-
+    여기가 이렇게나 밝고 좋았나?
+    …아닌가, 내가 바뀐 건가?
+  ja: |-
+    ここってこんなに明るくて いいところだっけ？
+    …それとも、私が変わったのかな？
+c017_Outpost_Touch_3:
+  en: Honestly, I really hated it here at first, but now I have so many wonderful
+    memories of this place.
+  ko: |-
+    솔직히, 처음에는 여기 진짜 싫었는데.
+    이제는 추억이 너무 많아져 버렸네.
+  ja: |-
+    正直、最初はここが 大嫌いだったわ。
+    でも、今は思い出が ありすぎるわね。
+c017_Gacha_Get_1:
+  en: Say hello to the Ark's star! You don't need to fear the dark, because I'll light
+    the way!
+  ko: |-
+    방주의 별, 아니스 등장!
+    어두워도 걱정하지 마, 내가 길을 밝혀줄게!
+  ja: |-
+    アークのスター、アニス登場！
+    暗くても心配しないで。私が道を照らしてあげる！
+c017_Reinforce_1:
+  en: I should be able to protect more people now, right?
+  ko: 이 정도면, 더 많이 지켜낼 수 있겠지?
+  ja: これなら、もっとたくさんの人を守れるわよね？
+c017_Reinforce_2:
+  en: Now that I've got a reason to become stronger, I'm feeling pretty motivated.
+  ko: 강해질 이유가 생겨서 그런가, 의욕이 좀 나는데?
+  ja: 強くなる理由ができたからかしら？やる気が出てきたわ。
+c017_Reinforce_3:
+  en: So, what do you think? Better than Rapi and Neon, right? Admit it.
+  ko: 어때? 역시 라피랑 네온보다는, 내가 낫지?
+  ja: どう？やっぱりラピとネオンより、私の方がいいでしょ？
+c017_Gift_1:
+  en: Aww, Commander! You're the best!
+  ko: 지휘관니임~ 역시 지휘관님 뿐이라니까~
+  ja: 指揮官さまぁ～やっぱり私には指揮官様しかいないわ～
+c017_Gift_2:
+  en: Thanks! I'll put this to good use.
+  ko: 고마워, 잘 쓸게!
+  ja: ありがと！大切に使うわね！
+c017_Gift_3:
+  en: Ooh! I think you're getting better at picking out gifts, Commander.
+  ko: 오~ 지휘관님, 센스가 더 좋아진 것 같다?
+  ja: おお、指揮官様！センスがよくなったんじゃない？
+c017_Attractive_Up_1:
+  en: Th-this is kinda embarrassing to say but, uh... I'm really glad I met you, Commander.
+  ko: |-
+    이, 이런 말 하기 좀 부끄럽긴 한데.
+    …지휘관님을 만나서 정말 다행이야.
+  ja: |-
+    こ、こんなこと言うのはちょっと照れるんだけど…
+    …指揮官様に会えて、本当によかった。
+c017_Attractive_Up_2:
+  en: How is it that I still get all giddy like this, even after all this time?!
+  ko: 시간이 지나도 왜 이쪽엔 면역이 안 생기는 거냐고오~!
+  ja: どうしてこういうのって、時間が経っても慣れないの！？
+c017_Attractive_Up_3:
+  en: Are you using some kind of new lotion today, Commander? You're glowing!
+  ko: |-
+    지휘관님, 뭐 뿌렸어?
+    오늘따라 왜 이렇게 반짝거리지…?
+  ja: |-
+    指揮官様、何か使った？
+    今日、やけに輝いてない…？
+c017_Party_Deploy_1:
+  en: Okay, leave it to me!
+  ko: OK, 나만 믿어!
+  ja: OK、私を信じて！
+c017_Field_Touch_1:
+  en: Hm? You called?
+  ko: 응? 불렀어?
+  ja: ん？呼んだ？
+c017_Field_Go_1:
+  en: I just love those clouds!
+  ko: 구름 예쁘네~
+  ja: きれいな雲ね～
+c017_Battle_Enter_1:
+  en: All right, everyone, get in line!
+  ko: 자자~ 차례대로 줄 서봐.
+  ja: ほらほら、順番に並んで～
+c017_Battle_Ready_1:
+  en: Who wants to be first?
+  ko: 누구부터 손봐줄까~?
+  ja: 誰から相手しようかしら～？
+c017_Battle_Ready_2:
+  en: Watch closely, Commander!
+  ko: 잘 보고 있어, 지휘관님!
+  ja: 見ててね、指揮官様！
+c017_Battle_Ready_3:
+  en: Don't these things get tired of this?
+  ko: 얘네들은 지겹지도 않나 보네.
+  ja: よく飽きないわね。
+c017_Reload_1:
+  en: This is going great!
+  ko: 분위기 좋은데~?
+  ja: いい感じじゃない？
+c017_Reload_2:
+  en: Phew... Let me catch my breath.
+  ko: 후우~ 숨 좀 돌릴게.
+  ja: ふぅ。ちょっと休憩。
+c017_Reload_3:
+  en: I'm doing pretty good, huh?
+  ko: 나, 제법 하잖아?
+  ja: 結構やるでしょ？
+c017_Ult_Skill_Ready_1:
+  en: Watch me shine!
+  ko: 빛나는 나를 봐!
+  ja: 見て！輝く私を！
+c017_Ult_Skill_1:
+  en: I will be the star of the Ark!
+  ko: 나는! 방주의 별이 된다!
+  ja: 私は！アークの星になる！
+c017_FullBurst_1:
+  en: Enterrr...tainment!
+  ko: 렛츠 엔터테인먼트!
+  ja: レッツ、エンターテイメント！
+c017_Kill_Monster_1:
+  en: Woohoo!
+  ko: 야호~!
+  ja: やった～！
+c017_Kill_Monster_2:
+  en: That was nothing.
+  ko: 별 거 아니구먼.
+  ja: 大したことないわね。
+c017_Kill_Monster_3:
+  en: Any more?
+  ko: 더 남았어?
+  ja: まだいるの？
+c017_Damage_1:
+  en: Ow!
+  ko: 아으씨…!
+  ja: もうっ…！
+c017_Damage_2:
+  en: Argh!
+  ko: 아야!
+  ja: ああ！
+c017_Damage_3:
+  en: Gah...
+  ko: 크윽….
+  ja: くっ…
+c017_Die_1:
+  en: I'm not giving up, so just hang in there a little longer...!
+  ko: 포기한 거 아니니까, 조금만 더 버텨줘…!
+  ja: 諦めたわけじゃないから、もう少しだけ耐えて…！
+c017_Win_1:
+  en: Did you see me shine out there?
+  ko: 봤어? 내 눈부신 활약?
+  ja: 見た？私の輝かしい活躍を！
+c017_01_Lobby_Touch_1:
+  en: This outfit isn't even even real clothing, y'know. Wanna touch it?
+  ko: 이거, 진짜 옷 아니다? 한 번 만져볼래~?
+  ja: これ、本物の服じゃないの。ちょっと触ってみる？
+c017_01_Lobby_Touch_2:
+  en: They say stars shine all on their own. Well? Do I look like I'm glowing?
+  ko: |-
+    별은 스스로 빛을 낸다고 하더라.
+    어때? 나 지금 빛나는 것 같아?
+  ja: |-
+    星は自ら光を放つんだって。
+    どう？私も輝いてる？
+c017_01_Lobby_Touch_3:
+  en: I have so much I want to protect now, but I'm not scared at all. I feel like
+    I can take on anything!
+  ko: |-
+    지키고 싶은 게 많아졌는데, 하나도 안 무서워.
+    지금은 뭐든 할 수 있을 것 같아!
+  ja: |-
+    守りたいものが増えたのに、全然怖くないの。
+    今ならなんだってできちゃいそう！
+c017_01_Lobby_Touch_Love_1:
+  en: If I run low on light, I'm coming to you for a recharge. Commander... how does
+    it work? Hmm... I'll just squeeze you real tight.
+  ko: |-
+    빛이 부족해지면, 지휘관님한테 충전하러 갈게.
+    충전 방법? 음... 역시 꼬오옥- 안아주는 거려나?
+  ja: |-
+    光が足りなくなったら、指揮官様のところでチャージするね。
+    チャージの仕方？うーん…ぎゅ～って抱きしめてもらおうかな？
+c017_01_Lobby_Touch_Love_2:
+  en: I wanna go beyond the Ark and shine like a star up on the surface, so even if
+    we're far apart, you'll always be able to find me.
+  ko: |-
+    방주를 넘어서, 지상의 별이 되어 보고 싶어.
+    아무리 멀리 떨어져도, 지휘관님이 날 찾을 수 있게.
+  ja: |-
+    アークを超えて、地上の星になりたい。
+    いくら遠く離れていても、指揮官様が見つけられるように。
+c017_01_Lobby_Touch_Love_3:
+  en: Commander, you're like the clouds up on the surface. Just seeing you lifts my
+    mood!
+  ko: |-
+    지휘관님은, 지상의 구름 같아.
+    그냥 보기만 해도 기분이 좋아지거든!
+  ja: |-
+    指揮官様って、地上を流れる雲みたい。
+    ただ見てるだけでも楽しくなるの！
+c017_01_Lobby_Stay_1:
+  en: Don't look away, Commander! I know I'm bright, but tough it out and keep your
+    eyes on me!
+  ko: |-
+    지휘관님, 나한테 눈 돌리지 마!
+    눈부셔도 견뎌! 똑바로 보라고!
+  ja: |-
+    指揮官様、私から目をそらさないで！
+    まぶしくても我慢するの！まっすぐ見てよ！
+c017_01_Lobby_Stay_Love_1:
+  en: Stars always shine from the same place, so you can always find your way back.
+    Got it?
+  ko: |-
+    별은 언제나 그 자리에서 빛을 내고 있으니까,
+    언제든 다시 돌아와. 알았지?
+  ja: |-
+    星はいつでも同じ場所で輝いてるから、
+    いつでも戻ってきて。分かった？
+c017_01_Outpost_Touch_1:
+  en: Why do we need streetlights? I’m right here... Okay, that sounded better in
+    my head.
+  ko: |-
+    가로등이 왜 필요해? 내가 있는데.
+    …아니, 말이 그렇다고.
+  ja: |-
+    街灯なんていらないでしょ？私がいるんだから。
+    …いや、ただ言ってみただけよ。
+c017_01_Outpost_Touch_2:
+  en: They say people used to use the stars to find their way. So if you're lost,
+    just follow me.
+  ko: |-
+    별은, 길잡이가 되어주기도 한다더라.
+    그러니까, 길을 잃은 거라면 날 따라와.
+  ja: |-
+    星は、道しるべにもなるんだって。
+    だから、道に迷った時は私についてきて。
+c017_01_Outpost_Touch_3:
+  en: The Outpost feels too small to hold someone like me. Let's move somewhere bigger!
+  ko: |-
+    전초기지는 날 품고 있기에, 너무 작은 것 같아.
+    더 큰 곳으로 이사 가자!
+  ja: |-
+    前哨基地は、私には小さすぎるのよね。
+    もっと広いところに引っ越しましょ！
+c017_01_Gacha_Get_1:
+  en: Now that I'm a star, I'm gonna shine my brightest!
+  ko: 이왕 별이 된 거, 가장 밝게 빛나볼게!
+  ja: せっかく星になったんだから、一番明るく輝くわ！
+c017_01_Reinforce_1:
+  en: Anis Starlight, all powered up!
+  ko: 아니스-- 스타 라이트-- 파워-- 업!
+  ja: アニスーースターライトーーパワーアーップ！
+c017_01_Reinforce_2:
+  en: It's still not enough. I want to get even stronger!
+  ko: 아직 부족해. 더, 더 강해지고 싶어!
+  ja: まだ足りないわ。もっと…もっと強くなりたいの！
+c017_01_Reinforce_3:
+  en: Wow, I'm getting way too dazzling for my own good...
+  ko: 나의 성장이 너무 눈부셔….
+  ja: 自分の成長がまぶしすぎるわ…
+c017_01_Gift_1:
+  en: As a thank you, I'm gonna flash you a bright Anis smile! Hehe!
+  ko: 대가로, 눈부신 아니스의 미소를 보여드리겠습니다! 히~
+  ja: お礼に、まばゆいアニスの笑顔をお届けしま～す！えへっ。
+c017_01_Gift_2:
+  en: I've gotten a lot more used to getting gifts. Thanks, I'll put this to good
+    use.
+  ko: |-
+    이제, 선물 받는 것도 익숙해져 버렸네.
+    고마워, 잘 쓸게.
+  ja: |-
+    もうプレゼントもらうのも慣れちゃった。
+    ありがと、大切に使うわね。
+c017_01_Gift_3:
+  en: Hehe, that's my Commander. You've really got my tastes figured out now.
+  ko: |-
+    응, 역시 지휘관님.
+    이제 내 취향을 완벽하게 꿰뚫고 있어.
+  ja: |-
+    うん、さすが指揮官様だわ。
+    私の好みを完璧に把握してるのよね。
+c017_01_Attractive_Up_1:
+  en: Commander, don't you think it's about time you stopped hitting on me?
+  ko: 지휘관님, 이제 그만 꼬실 때도 되지 않았어?
+  ja: 指揮官様。そろそろ誘惑するのはやめたら？
+c017_01_Attractive_Up_2:
+  en: Ugh, can Nikkes even get irregular heartbeats...? Why's my heart pounding like
+    this?!
+  ko: |-
+    아오, 니케도 부정맥 같은 게 생길 수 있나…?
+    심장이 뭐 이렇게 빨리 뛰는데!
+  ja: |-
+    はぁ、ニケにも不整脈とかあるのかな…？
+    なんでこんなに胸がドキドキするの！？
+c017_01_Attractive_Up_3:
+  en: Why do I feel like you're brighter than I am...? Did you turn into the sun or
+    something?
+  ko: 왜 이쪽이 더 눈부신 건데…? 지휘관님은 뭐, 태양이라도 돼?
+  ja: どうしてこっちの方がまぶしいの…？まさか、指揮官様って太陽…？
+c017_01_Party_Deploy_1:
+  en: Ready when you are.
+  ko: 언제든, 준비돼있어.
+  ja: いつでも準備できてるわ。
+c017_01_Field_Touch_1:
+  en: Yeah, I'm right here.
+  ko: 응, 나 여기 있어.
+  ja: うん、ここよ。
+c017_01_Field_Go_1:
+  en: Just follow me.
+  ko: 나만 따라와.
+  ja: 私についてきて。
+c017_01_Battle_Enter_1:
+  en: Ugh, everything's so drab.
+  ko: 칙칙하다, 칙칙해.
+  ja: ホントしつこいわね。
+c017_01_Battle_Ready_1:
+  en: Keep staring, and you'll go blind!
+  ko: 너희들, 전부 눈이 멀어버릴걸?!
+  ja: 私の光でクラクラさせるわ！
+c017_01_Battle_Ready_2:
+  en: Ugh, this again?
+  ko: 지겹다, 지겨워~
+  ja: もうウンザリよ～
+c017_01_Battle_Ready_3:
+  en: I'll protect you, Commander.
+  ko: 지켜줄게, 지휘관님.
+  ja: 守ってあげるね、指揮官様。
+c017_01_Reload_1:
+  en: You watching closely?
+  ko: 잘 보고 있지?
+  ja: よく見ててよ？
+c017_01_Reload_2:
+  en: Still going strong.
+  ko: 아직, 번쩍번쩍하다고.
+  ja: まだまだ行けるわ！
+c017_01_Reload_3:
+  en: Hang on, I'm going back in!
+  ko: 기다려, 다시 간다!
+  ja: 待ってて、今行く！
+c017_01_Ult_Skill_Ready_1:
+  en: I've got this!
+  ko: 내가 갈게!
+  ja: 行くわよ！
+c017_01_Ult_Skill_1:
+  en: Outshine the stars, outrun the light!
+  ko: 별보다 눈부시게, 빛보다 빠르게!
+  ja: 星よりまぶしく、光より速く！
+c017_01_FullBurst_1:
+  en: Light it up!
+  ko: 쏟아져라!
+  ja: いっけー！
+c017_01_Kill_Monster_1:
+  en: Way too easy!
+  ko: 쉽다, 쉬워~
+  ja: 楽勝、楽勝！
+c017_01_Kill_Monster_2:
+  en: Next!
+  ko: 예~ 다음~
+  ja: はい、次～
+c017_01_Kill_Monster_3:
+  en: Oh! Did you see that?
+  ko: 오! 봤어?
+  ja: おっ！見た？
+c017_01_Damage_1:
+  en: Ouch!
+  ko: 아야!
+  ja: ああ！
+c017_01_Damage_2:
+  en: Ugh...!
+  ko: 으윽…!
+  ja: ううっ…！
+c017_01_Damage_3:
+  en: Ngh...!
+  ko: 큭…!
+  ja: くっ…！
+c017_01_Die_1:
+  en: I can still... shine...!
+  ko: 나는 아직… 빛날 수 있어…!
+  ja: 私はまだ…輝けるわ…！
+c017_01_Win_1:
+  en: See? The stars always point you where you're meant to go.
+  ko: 거 봐, 별은 언제나 가야 할 길을 알려준다니까?
+  ja: ほら。星はいつだって進むべき道を教えてくれるの。
+c017_02_Lobby_Touch_1:
+  en: I'm going to become a star for everyone. I'll put on the brightest performance
+    you've ever seen!
+  ko: |-
+    모두를 위한 별이 될게요.
+    빛나는 무대를 만들어 드릴게요!
+  ja: |-
+    みんなのための星になります。
+    輝くステージをお届けします！
+c017_02_Lobby_Touch_2:
+  en: When things get tough, look up at the sky. You'll see me there shining for you!
+  ko: |-
+    여러분, 힘들 땐 하늘을 올려다보세요.
+    제가 빛나고 있을 테니까요~!
+  ja: |-
+    みなさん、つらい時は空を見上げてください。
+    私が輝いていますから！
+c017_02_Lobby_Touch_3:
+  en: Keep that love for T.T. STAR coming!
+  ko: 앞으로도 T.T. STAR 많이 사랑해 주세요~!
+  ja: これからもT.T. STARの応援、よろしくお願いします！
+c017_02_Lobby_Touch_Love_1:
+  en: I'll always keep the center seat in the front row open just for you. That way,
+    you can be as close as possible while you watch me shine!
+  ko: |-
+    1열 정중앙 자리는 평생 비워둘 테니까.
+    빛나는 나를, 제일 가까이서 지켜봐줘!
+  ja: |-
+    最前列の真ん中の席は一生空けておくから。
+    輝く私を、一番近くで見守ってね！
+c017_02_Lobby_Touch_Love_2:
+  en: I bet you'd be insanely popular if you were a pop star, Commander... I'm glad
+    you didn't go that route.
+  ko: |-
+    지휘관님, 아이돌 했으면 인기 진짜 많았을 것 같아.
+    …다행이다 진짜~
+  ja: |-
+    指揮官様がアイドルだったら、とんでもなく人気になったはずよ。
+    …ホントよかったわ～
+c017_02_Lobby_Touch_Love_3:
+  en: Look, I don't mind if you cheer for the other girls too, but just... make sure
+    to keep your light stick on yellow, got it?
+  ko: |-
+    다른 애들 응원하는 것도 좋은데…!
+    응원봉은 꼭 노란색으로 맞춰야 해, 알았지?
+  ja: |-
+    他の子を応援するのもいいけど…！
+    ペンライトは絶対黄色にしてね？分かった？
+c017_02_Lobby_Stay_1:
+  en: Commander, I don't have time to be sitting around here! I need to go practice!
+  ko: |-
+    지휘관님, 나 이럴 시간 없어…!
+    연습 한 번이라도 더 해야 한다고!
+  ja: |-
+    指揮官様、私、こんなことしてる時間ないの…！
+    1回でも多く練習しなきゃ！
+c017_02_Lobby_Stay_Love_1:
+  en: Are you hoping for a private performance, Commander? Sorry, it's still in the
+    planning phase...
+  ko: |-
+    지휘관님을 위한 단독 무대, 뭐 그런 거 기다리는 거야?
+    아직 기획 단계인데….
+  ja: |-
+    指揮官様のためのソロステージ！とか期待してるの？
+    まだ企画段階なんだけど…
+c017_02_Outpost_Touch_1:
+  en: Heh... This sure brings back memories. We used to perform on streets like this
+    all the time.
+  ko: |-
+    하~ 옛날 생각난다.
+    막 이런 길에서도 무대하고 그랬거든.
+  ja: |-
+    はぁ～昔のことを思い出すわ。
+    こういう道ばたでもライブをしてたのよ。
+c017_02_Outpost_Touch_2:
+  en: I've got an idea! Every morning, I'll sing for you and be your wake-up call.
+    What do you think? Sounds amazing, right?!
+  ko: |-
+    모닝콜로 내가 아침마다 지휘관실에 가서 노래 불러줄게.
+    어때? 생각만 해도 설레지?!
+  ja: |-
+    私が毎朝、指揮官室でモーニングコールとして歌ってあげる。
+    どう？考えただけでもワクワクするでしょ！？
+c017_02_Outpost_Touch_3:
+  en: We should really look into renovating the shower room. A pop star can't go around
+    looking all dirty, right?
+  ko: |-
+    아이돌이 더럽게 하고 다닐 수는 없잖아.
+    그러니까, 이참에 진짜 샤워실 한 번 싹 새로 하자. 응?
+  ja: |-
+    アイドルは清潔感が大事でしょ？
+    だから、この機会にシャワー室をリフォームしましょ？ねっ？
+c017_02_Gacha_Get_1:
+  en: Hi! I'm Anis, and we're the three shining stars, T.T. STAR!
+  ko: 안녕하세요! 빛나는 세 별! T.T. STAR의 아니스입니다~!
+  ja: こんにちは～！輝く三ツ星！T.T. STARのアニスで～す！
+c017_02_Reinforce_1:
+  en: Nice! My body definitely feels lighter... Actually, that might be because I'm
+    on a diet.
+  ko: |-
+    응! 몸이 확실히 가벼워졌어.
+    …아닌가, 다이어트를 해서 그런 건가?
+  ja: |-
+    うん！明らかに体が軽くなったわ。
+    …あれ？ダイエットしたからかな？
+c017_02_Reinforce_2:
+  en: Now you're gonna have to come to my next show. It's gonna be perfect!
+  ko: 완벽한 무대를 보여줄 수밖에 없겠는걸.
+  ja: 完璧なステージを見せるしかないわね。
+c017_02_Reinforce_3:
+  en: I've got so many fans, I don't know if I can handle any more!
+  ko: 여기서 팬이 더 늘어나면 곤란한데~
+  ja: これ以上ファンが増えたら困っちゃうな～
+c017_02_Gift_1:
+  en: Ooh, thanks so much! I absolutely love it! That was my best pop star reaction.
+    What do you think?
+  ko: |-
+    뭐야~ 고마워요 진짜아~
+    …아이돌 스타일로 해봤는데, 어때?
+  ja: |-
+    ええ～ホントありがとぉ～
+    …アイドルっぽく言ってみたんだけど、どう？
+c017_02_Gift_2:
+  en: Thanks! In return, I'm gonna give you an amazing performance!
+  ko: 눈부신 퍼포먼스로 보답할게!
+  ja: 素敵なパフォーマンスでお返しするね！
+c017_02_Gift_3:
+  en: The gifts you give me definitely feel different from the ones the fans give.
+  ko: |-
+    지휘관님이 주는 선물은, 팬들이 주는 선물이랑은
+    확실히 다른 느낌이네.
+  ja: |-
+    指揮官様からのプレゼントは、ファンからのプレゼントとは
+    確かに違う感じがするわ。
+c017_02_Attractive_Up_1:
+  en: As a pop star, I don't think I'm really supposed to feel this way...
+  ko: 아이돌은 원래… 이런 감정 품으면 안 되는 건데….
+  ja: アイドルは…こんな気持ちになったらダメなのに…
+c017_02_Attractive_Up_2:
+  en: If everything I've gone through was all so I could meet you, Commander, then...
+    well, maybe it wasn't so bad after all.
+  ko: |-
+    지휘관님을 만나기 위해서, 그 힘든 과정을 거친 거라면…
+    뭐, 버틸만했던 것도 같아.
+  ja: |-
+    指揮官様に会うために、あのつらい道のりがあったんだとすると…
+    頑張ったかいがあったわね。
+c017_02_Attractive_Up_3:
+  en: Agh, what's gotten into me...?! Don't look at me right now, Commander! My face
+    is all red!
+  ko: |-
+    어우, 갑자기 왜 이러지…?
+    지휘관님, 지금 나 쳐다보지 마…! 완전 빨개졌으니까….
+  ja: |-
+    もうっ、どうしちゃったの…？
+    指揮官様、こっち見ないで…！今、顔が真っ赤だから…
+c017_02_Party_Deploy_1:
+  en: Combat star Anis, ready to perform!
+  ko: 배틀 아이돌 아니스, 출전!
+  ja: バトルアイドル・アニス、出撃！
+c017_02_Field_Touch_1:
+  en: You called, Commander?
+  ko: 불렀어, 지휘관님?
+  ja: 指揮官様、呼んだ？
+c017_02_Field_Go_1:
+  en: Yeah, okay.
+  ko: 그래, 그래.
+  ja: はいはい。
+c017_02_Battle_Enter_1:
+  en: Did you all come just to see me? You shouldn't have... seriously.
+  ko: 전부 나 보러 온 거야~? 어우, 싫어라.
+  ja: みんな私に会いに来たの～？ホント、うんざりだわ。
+c017_02_Battle_Ready_1:
+  en: There are haters wherever you go.
+  ko: 안티들은 어딜 가든 있다니까.
+  ja: アンチってどこに行ってもいるのよね。
+c017_02_Battle_Ready_2:
+  en: You don't deserve to see me perform.
+  ko: 너희는 내 무대를 볼 자격이 없다고.
+  ja: あなたたちは私のステージを見る資格なんてないわ。
+c017_02_Battle_Ready_3:
+  en: A pop star should always be smiling!
+  ko: 그래도 웃어야지, 아이돌이니까!
+  ja: でも笑わなきゃ、アイドルだから！
+c017_02_Reload_1:
+  en: You can see clearly, right?
+  ko: 시야 잘 보이지?
+  ja: ちゃんと見える？
+c017_02_Reload_2:
+  en: Time to charge up...!
+  ko: 빛, 충전 중!
+  ja: 光、チャージ中！
+c017_02_Reload_3:
+  en: I'm pretty when I fight, right?
+  ko: 전투하는 모습도, 예쁘지?
+  ja: 戦う姿も、きれいでしょ？
+c017_02_Ult_Skill_Ready_1:
+  en: All warmed up!
+  ko: 몸풀기, 끝!
+  ja: ストレッチ終わり！
+c017_02_Ult_Skill_1:
+  en: Time to shine!
+  ko: 빛날 시간이야!
+  ja: 今が輝く時よ！
+c017_02_FullBurst_1:
+  en: Go bright or go home!
+  ko: 눈부시게, 가자!
+  ja: まぶしく、行きましょ！
+c017_02_Kill_Monster_1:
+  en: Next!
+  ko: 좋아, 다음!
+  ja: よし、次！
+c017_02_Kill_Monster_2:
+  en: Easy!
+  ko: 간단하네.
+  ja: 楽勝だったわね。
+c017_02_Kill_Monster_3:
+  en: Piece of cake!
+  ko: 쉽다, 쉬워~
+  ja: 楽勝、楽勝！
+c017_02_Damage_1:
+  en: Ugh...!
+  ko: 으윽…!
+  ja: ううっ…！
+c017_02_Damage_2:
+  en: Ow!
+  ko: 아오!
+  ja: もうっ！
+c017_02_Damage_3:
+  en: That hurts!
+  ko: 아프잖아…!
+  ja: 痛いってば…！
+c017_02_Die_1:
+  en: A pop star... is meant to shine on the battlefield...
+  ko: 아이돌은… 전장에서 빛나야 하는데….
+  ja: アイドルは…戦場で輝かなきゃ…
+c017_02_Win_1:
+  en: I'm Anis from T.T. STAR! Have a good one!
+  ko: 지금까지~ T.T. STAR의 아니스였습니다~!
+  ja: T.T. STARのアニスでした！ありがとうございました～！
+17_cv_ja:
+  en: 'CV: Miho Okasaki'
+  ko: 'CV : 오카사키 미호'
+  ja: CV：岡咲美保
+17_cv_ko:
+  en: 'CV: Kim Seong-hui'
+  ko: 'CV : 김성희'
+  ja: CV：キム・ソンヒ
+17_cv_en:
+  en: 'CV: Michelle Marie'
+  ko: 'CV : 미셸 마리'
+  ja: CV：Michelle Marie

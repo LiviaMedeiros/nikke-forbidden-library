@@ -58,9 +58,9 @@ character_shot_description_localkey_smg_down:
   ja: WAKE UP！
 25512_description:
   en: |-
-    ■ Activates when entering Burst stage 1. Affects all allies.
-    <color=#00AEFF><word_group=10039>Immune to {description_value_01} debuff(s)</word_group> for {description_value_03} sec.</color>
-    ■ Only activates when in Victorious Battle Cry status. Affects all allies.
+    ■ Activates when entering Burst Stage 1. Affects all allies.
+    <color=#00AEFF>Gains <word_group=10039>debuff immunity</word_group> to {description_value_01} debuff(s) for {description_value_03} sec.</color>
+    ■ Activates only while in Victorious Battle Cry status. Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK continuously.</color>
   ko: |-
     ■ 버스트 1단계 진입 시 아군 전체에게

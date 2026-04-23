@@ -62,15 +62,15 @@ character_shot_description_localkey_sr_up:
   ja: 奇妙な海流
 22622_description:
   en: |-
-    ■ Activates when landing Full Charge attacks. Affects self if the enemy hit is the stage target.
+    ■ Activates when landing a Full Charge attack against the stage target. Affects self.
     <color=#00AEFF>Raging Current: Attack Damage ▲ {description_value_01}% continuously.
     Removes Gentle Current.</color>
-    ■ Activates when landing Full Charge attacks. Affects self if the enemy hit is a Rapture that is not the stage target.
+    ■ Activates when landing a Full Charge attack against a Rapture that is not the stage target. Affects self.
     <color=#00AEFF>Gentle Current: Fixes charge time at {description_value_02} sec continuously.
     Removes Raging Current.</color>
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Gains <word_group=10092>immunity to Increase Charge Speed effects</word_group> continuously. This effect cannot be dispelled.
-    Gains <word_group=10093>immunity to Decrease Charge Speed effects</word_group> continuously. This effect cannot be dispelled.</color>
+    <color=#00AEFF>Gains <word_group=10092>immunity to Increase Charge Speed effects</word_group>. This effect is continuous and cannot be removed.
+    Gains <word_group=10093>immunity to Decrease Charge Speed effects</word_group>. This effect is continuous and cannot be removed.</color>
   ko: |-
     ■ 풀 차지 공격 명중 시 대상이 타겟이라면 자신에게
     <color=#00AEFF>[격류 : 공격 대미지 {description_value_01}% ▲] [지속]
@@ -110,9 +110,9 @@ skill_name_1003:
     <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
     ■ Activates when landing Full Charge attacks on a target's core. Affects self.
     <color=#00AEFF>Attack damage ▲ {description_value_03}% for {description_value_04} sec.</color>
-    ■ Activates when landing Full Charge attacks. Affects the target(s).
+    ■ Activates when landing a Full Charge attack. Affects the target.
     <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage. Activates 5 times.</color>
-    ■ Activates when entering Full Burst. Affects {description_value_08} <word_group=10082>Burst Stage 3</word_group> ally unit(s) with the lowest <word_group=10025>final</word_group> ATK.
+    ■ Activates when entering Full Burst. Affects the {description_value_08} <word_group=10082>Burst 3</word_group> ally unit(s) with the lowest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF>Charge Speed ▲ {description_value_06}% of caster's Charge Speed for {description_value_07} sec.</color>
   ko: |-
     ■ 풀 버스트 타임 시작 시 자신에게
@@ -538,6 +538,220 @@ c262_Win_1:
   en: We've won. Happy now?
   ko: 이겼네. 기뻐?
   ja: 勝ったわ。嬉しい？
+c262_01_Lobby_Touch_1:
+  en: A life where everyone can live together in peace... That would be nice, if it
+    were possible.
+  ko: |-
+    모두가 함께, 평화롭게 사는 삶….
+    정말 가능하다면 좋겠네.
+  ja: |-
+    みんなで平和に生きていくこと…
+    本当に実現できたらいいわね。
+c262_01_Lobby_Touch_2:
+  en: Do you think we'll ever be able to understand each other...?
+  ko: 우리가 정말 서로를 이해할 수 있을까…?
+  ja: 私たちは本当に互いを理解できるのかしら…？
+c262_01_Lobby_Touch_3:
+  en: The world I long for is always in my dreams, so I want to sleep a little deeper,
+    a little longer.
+  ko: |-
+    꿈속에는 언제나 원하는 세계가 펼쳐져.
+    그래서 더 깊이, 오래 잠들고 싶어.
+  ja: |-
+    夢の中では常に望む世界が広がっているの。
+    だからもっと深く、長く眠りたいわ。
+c262_01_Lobby_Touch_Love_1:
+  en: Lately, I've been having nice dreams. You're at the center of them, and everyone's
+    happy, just enjoying their time together.
+  ko: |-
+    요새 기분 좋은 꿈을 꿔.
+    너를 중심으로, 모두가 웃으며 뛰어다니는 그런 꿈.
+  ja: |-
+    最近は楽しい夢を見るの。
+    あなたを中心に、みんなが笑顔で遊んでいる…そんな夢。
+c262_01_Lobby_Touch_Love_2:
+  en: I feel like having a normal conversation. What do you like, Human?
+  ko: |-
+    평범한 대화를 나눠보고 싶어.
+    인간, 너는 어떤 걸 좋아해?
+  ja: |-
+    普通の対話をしてみたいわ。
+    人間、あなたは何が好きなの？
+c262_01_Lobby_Touch_Love_3:
+  en: I'm counting on you to open up new possibilities. I hope you'll come through
+    for me.
+  ko: |-
+    나는 너에게 새로운 가능성을 걸었어.
+    그러니, 기대에 응해주길 바래.
+  ja: |-
+    あなたの新しい可能性に賭けたの。
+    だから、期待に応えてちょうだい。
+c262_01_Lobby_Stay_1:
+  en: Where did you go, Human? We're not done talking.
+  ko: 인간, 어디로 간 거야? 대화를 해야지.
+  ja: 人間、どこへ行ったの？対話をしなくちゃ。
+c262_01_Lobby_Stay_Love_1:
+  en: I guess waiting can be a kind of conversation too. All right, I'll wait.
+  ko: |-
+    기다림도 대화의 한 방법일 수 있겠네.
+    좋아, 기다릴게.
+  ja: |-
+    待つことも対話の一つかもしれないわね。
+    いいわ、待ってあげる。
+c262_01_Outpost_Touch_1:
+  en: If I fall asleep here, I might have sweeter dreams.
+  ko: 여기서 잠에 들면… 더 좋은 꿈을 꿀 것 같아.
+  ja: ここで眠ったら…もっといい夢が見られそう。
+c262_01_Outpost_Touch_2:
+  en: Everyone looks so happy. It would seem you've already achieved peace here.
+  ko: 모두 행복해 보이네, 너는 이미 평화를 이루어 냈구나.
+  ja: みんな幸せそう。あなたはすでに平和を成し遂げたのね。
+c262_01_Outpost_Touch_3:
+  en: "*Yawn...* I'm going to sleep. Don't feel the need to wake me..."
+  ko: 하암~ 자고 있을 테니까, 천천히 깨워줘….
+  ja: ふわぁ～…私は寝るわ。起こさないでね…
+c262_01_Gacha_Get_1:
+  en: This feels warm and calm, like I'm drifting through a dream.
+  ko: 따뜻하고, 화목해. 꿈속을 유영하는 기분이야.
+  ja: 温かくて、落ち着くわ。夢の中を漂っているみたい。
+c262_01_Reinforce_1:
+  en: If getting stronger helps our conversation, then I am happy with it...
+  ko: |-
+    나의 힘이 커지는 게,
+    대화에 도움이 된다면야….
+  ja: 私の成長が、対話の役に立つのなら…
+c262_01_Reinforce_2:
+  en: Mmm... I'm starting to feel sleepier.
+  ko: 음… 더 졸리기 시작했어.
+  ja: うーん…余計眠くなってきたわ。
+c262_01_Reinforce_3:
+  en: Yeah, I'll help you. That way... we can understand each other.
+  ko: |-
+    그래, 내가 도와줄게.
+    우리는… 서로를 이해할 수 있으니까.
+  ja: |-
+    ええ、手伝うわ。
+    私たちは…互いを理解できるのだから。
+c262_01_Gift_1:
+  en: I feel better now. Maybe sharing things like this is its own kind of conversation.
+  ko: |-
+    기분이 좋아졌어.
+    이렇게 무언가를 나누는 것도 대화의 연장선인 걸까?
+  ja: |-
+    気分が晴れたわ。
+    こんなふうに何かを分け合うのも、対話の延長線なのかしら？
+c262_01_Gift_2:
+  en: I don't know what to use this for, but... I'll hang onto it.
+  ko: 어디에 쓸지는 모르겠지만… 일단 받아둘게.
+  ja: 使い方は分からないけれど…ひとまず受け取っておくわ。
+c262_01_Gift_3:
+  en: Will I have better dreams if I sleep with this...?
+  ko: 이걸 안고 자면, 더 좋은 꿈을 꿀 수 있을까…?
+  ja: これを抱いて寝たら、もっといい夢が見られるかしら…？
+c262_01_Attractive_Up_1:
+  en: You have to be part of the world I dream of, Human.
+  ko: |-
+    내가 꿈꾸는 세상에, 인간.
+    너는 반드시 있어줘야겠어.
+  ja: |-
+    人間。
+    私が夢見る世界には、必ずあなたがいてほしいの。
+c262_01_Attractive_Up_2:
+  en: When I'm with you, I feel like I could dream sweet dreams every day...
+  ko: 네 옆에 있으면, 매일 좋은 꿈을 꿀 수 있을 것 같아….
+  ja: あなたの隣にいれば、毎日いい夢が見られそうだわ…
+c262_01_Attractive_Up_3:
+  en: It looks like I made the right choice... I'm glad I met you.
+  ko: |-
+    내 선택은 틀리지 않은 것 같아.
+    너와 만나길 잘 했어.
+  ja: |-
+    私の選択は間違っていないみたい。
+    あなたと会えて本当によかった。
+c262_01_Party_Deploy_1:
+  en: Mmm... okay.
+  ko: 음… 그래.
+  ja: うーん…分かったわ。
+c262_01_Field_Touch_1:
+  en: Zzzzz…
+  ko: 쿠울….
+  ja: ぐぅ…
+c262_01_Field_Go_1:
+  en: Mmm, mmm...
+  ko: 음냐, 음냐….
+  ja: むにゃ、むにゃ…
+c262_01_Battle_Enter_1:
+  en: I was having such a good dream...
+  ko: 좋은 꿈 꾸고 있었는데….
+  ja: いい夢を見ていたのに…
+c262_01_Battle_Ready_1:
+  en: If we can't talk this out, then so be it.
+  ko: 대화가 통하지 않는다면, 어쩔 수 없네.
+  ja: 話が通じないなら、仕方ないわね。
+c262_01_Battle_Ready_2:
+  en: All of you... come into my dream.
+  ko: 모두, 꿈속에 초대할게.
+  ja: みんな、夢の中に招待するわ。
+c262_01_Battle_Ready_3:
+  en: I'll end this quickly.
+  ko: 이렇게 된 거, 빠르게 정리할게.
+  ja: こうなったら、すぐに片づけるわ。
+c262_01_Reload_1:
+  en: Give me a second to wake up...
+  ko: 음… 잠 좀 깰게.
+  ja: ふぅ…眠気を覚ますわ。
+c262_01_Reload_2:
+  en: "*Yawn...* I need a nap..."
+  ko: 하암… 슬슬 잘 시간인데….
+  ja: そろそろ寝る時間なのに…
+c262_01_Reload_3:
+  en: "... All that matters is you're safe."
+  ko: "…네가 안전하면 됐어."
+  ja: "…あなたが安全なら、それでいいわ。"
+c262_01_Ult_Skill_Ready_1:
+  en: "*Yawn* I'm sleepy."
+  ko: 흐암~ 졸려.
+  ja: ふわぁ～…眠いわ。
+c262_01_Ult_Skill_1:
+  en: Good night. Sweet dreams.
+  ko: 잘 자, 좋은 꿈 꿔.
+  ja: おやすみ、いい夢を。
+c262_01_FullBurst_1:
+  en: It's time to wake up.
+  ko: 꿈에서 깰 시간이야.
+  ja: 夢から目覚める時間よ。
+c262_01_Kill_Monster_1:
+  en: Quiet down...
+  ko: 조용히 해….
+  ja: 静かにして…
+c262_01_Kill_Monster_2:
+  en: Are we done yet...?
+  ko: 아직이야…?
+  ja: まだなの…？
+c262_01_Kill_Monster_3:
+  en: I'm bored...
+  ko: 지루해….
+  ja: 退屈だわ…
+c262_01_Damage_1:
+  en: Argh...
+  ko: 으아….
+  ja: うぅ…
+c262_01_Damage_2:
+  en: Ugh...
+  ko: 아윽….
+  ja: あうっ…
+c262_01_Damage_3:
+  en: Hm...
+  ko: 음.
+  ja: ふん…
+c262_01_Die_1:
+  en: This isn't what my dream looked like...
+  ko: 이건… 내가 꿈꾸던 장면이 아냐.
+  ja: これは…夢に見た光景じゃないわ。
+c262_01_Win_1:
+  en: That was a satisfying dream.
+  ko: 제법, 만족스러운 꿈이었어.
+  ja: それなりに満ち足りた夢だったわ。
 262_cv_ja:
   en: 'CV: Eri Kitamura'
   ko: 'CV : 키타무라 에리'

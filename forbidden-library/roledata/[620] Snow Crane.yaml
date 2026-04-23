@@ -82,10 +82,14 @@ character_shot_description_localkey_sr_up:
     [지속]\n[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_05}%
     회복] [1초 간격] [지속]</color>"
   ja: |-
-    ■フルチャージ状態で{description_value_01}回攻撃した時、回復独占誓約状態の味方全体に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
-    ■フルバーストタイムが発動した時、味方全体に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％の<word_group=10023>バリア</word_group>」「{description_value_04}秒間維持」</color>
+    ■フルチャージ状態で{description_value_01}回攻撃した時、
+    回復独占誓約状態の味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_02}％回復」</color>
+    ■フルバーストタイムが発動した時、
+    味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_03}％の<word_group=10023>バリア</word_group>」「{description_value_04}秒間維持」</color>
     ■自分の誓約違反立証が最大数なら、自分に
     <color=#00AEFF>「誓約解除：誓約違反立証免疫」「持続」
     「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_05}％回復」「1秒間隔」「持続」</color>
@@ -108,10 +112,14 @@ skill_name_1003:
     자신에게 \n<color=#00AEFF>[서약 위반 증거 : 주는 체력 회복량 {description_value_02}% ▼] [최대 {description_value_03}개]
     [지속]</color>"
   ja: |-
-    ■自分が誓約解除状態ではない時のみ、味方全体に
-    <color=#00AEFF>「回復独占誓約：スキル発動者基準で最大HP{description_value_01}％▲」「持続」</color>
-    ■<word_group=10027>回復効果が適用された時</word_group>自分が発動した効果でなければ自分に
-    <color=#00AEFF>「誓約違反立証：与えるHP回復量{description_value_02}％▼」「最大{description_value_03}個」「持続」</color>
+    ■自分が誓約解除状態ではない時のみ、
+    味方全体に
+    <color=#00AEFF>「回復独占誓約：スキル発動者基準で
+    最大HP{description_value_01}％▲」「持続」</color>
+    ■<word_group=10027>回復効果が適用された時
+    </word_group>自分が発動した効果でなければ自分に
+    <color=#00AEFF>「誓約違反立証：与えるHP回復量
+    {description_value_02}％▼」「最大{description_value_03}個」「持続」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1
@@ -300,7 +308,8 @@ c620_Lobby_Touch_3:
     속상한 일이 있다면, 어떤 일이든 좋으니까 털어놔 보세요.
     뭐든 들어드릴게요.
   ja: |-
-    つらいことがあったら、どんなことでも遠慮せずに話してくださいね。
+    つらいことがあったら、
+    どんなことでも遠慮せずに話してくださいね。
     なんでも聞きますから。
 c620_Lobby_Touch_Love_1:
   en: Promises are important. You mustn't become like the naughty children who don't
@@ -442,7 +451,8 @@ c620_Attractive_Up_3:
     착한 세계를 위해 노력해줘서 고마워요.
     상으로 백점 만점 도장을 찍어줄게요~
   ja: |-
-    優しい世界にするために力を尽くしてくれて、ありがとうございます。
+    優しい世界にするために力を尽くしてくれて、
+    ありがとうございます。
     ごほうびに、よくできましたのスタンプを押してあげますね～
 c620_Party_Deploy_1:
   en: Thank you for calling for me.
@@ -533,9 +543,9 @@ c620_Win_1:
   ko: 후후, 전부 친구의 멋진 지휘 덕분이에요.
   ja: ふふ。これも全部、おともだちの立派な指揮のおかげですね。
 620_cv_ja:
-  en: "-"
+  en: 'CV: Mikoi Sasaki'
   ko: 'CV : 사사키 미코이'
-  ja: "-"
+  ja: CV：佐々木未来
 620_cv_ko:
   en: 'CV: Kim Sara'
   ko: 'CV : 김사라'

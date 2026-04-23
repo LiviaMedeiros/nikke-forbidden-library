@@ -1,0 +1,486 @@
+---
+441_name:
+  en: Avistar
+  ko: 아비스타
+  ja: アビスタ
+c441_description:
+  en: A Nikke in the Overseer Squad, an inspection unit. She is calm and always meticulously
+    performs her duties at work. She is also an avid fan of Anis.
+  ko: |-
+    감찰부대 오버시어 스쿼드 소속의 니케.
+    침착한 성격으로, 늘 꼼꼼하게 업무를 처리한다.
+    아니스의 열렬한 팬이다.
+  ja: |-
+    監察部隊オーバーシアー所属のニケ。
+    落ち着いた性格で、いつも丁寧に業務をこなす。
+    アニスの熱狂的なファン。
+441_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_441:
+  en: Avistar's Spare Body
+  ko: 아비스타 스페어 바디
+  ja: アビスタのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+24412_name:
+  en: Afterglow
+  ko: 애프터 글러우
+  ja: アフターグロウ
+24412_description:
+  en: |-
+    ■ Activates when entering Full Burst while in Stargazer status with over {description_value_01}% HP. Affects self.
+    <color=#00AEFF>Current HP ▼ {description_value_02}%</color>
+    ■ Activates when entering Full Burst while in Stargazer status. Affects <word_group=10103>her favorite pop star</word_group>.
+    <color=#00AEFF><word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_03}% continuously.
+    Attack Damage ▲ {description_value_04}% continuously.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신의 체력이 {description_value_01}% 이상이고 스타게이저 상태라면 자신에게
+    <color=#00AEFF>[현재 체력 {description_value_02}% ▼]</color>
+    ■ 풀 버스트 타임 시작 시 자신이 스타게이저 상태일 때 한하여 <word_group=10103>나의 우상</word_group>에게
+    <color=#00AEFF>[<word_group=10066>발사체 폭발 대미지</word_group> {description_value_03}% ▲] [지속]
+    [공격 대미지 {description_value_04}% ▲] [지속]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分のHPが{description_value_01}％以上で、
+    スターゲイザー状態なら、自分に
+    <color=#00AEFF>「現在のHP{description_value_02}％▼」</color>
+    ■フルバーストタイムが発動した時、自分がスターゲイザー状態の時に限り、<word_group=10103>自分のアイドル</word_group>に
+    <color=#00AEFF>「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_03}％▲」「持続」
+    「攻撃ダメージ{description_value_04}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24411_name:
+  en: Aftershow
+  ko: 애프터쇼
+  ja: アフターショー
+24411_description:
+  en: |-
+    ■ Activates when Full Burst ends. Affects <word_group=10103>her favorite pop star</word_group>.
+    <color=#00AEFF>Aftershow: ATK ▲ {description_value_02}% of the caster's ATK. This effect is removed when entering Full Burst.</color>
+    ■ Activates when Full Burst ends. Affects self.
+    <color=#00AEFF>Recovers {description_value_03}% of the caster's <word_group=10025>final</word_group> max HP as HP every 1 sec for {description_value_04} sec.
+    Removes Stargazer.</color>
+  ko: |-
+    ■ 풀 버스트 타임 종료 시 <word_group=10103>나의 우상</word_group>에게
+    <color=#00AEFF>[애프터 쇼 : 시전자 기준 공격력 {description_value_02}% ▲] [풀버스트 진입 시 제거]</color>
+    ■ 풀 버스트 타임 종료 시 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복] [1초 간격] [{description_value_04}초 유지]
+    [스타 게이저 제거]</color>
+  ja: |-
+    ■フルバーストタイムが終了した時、<word_group=10103>自分のアイドル</word_group>に
+    <color=#00AEFF>「アフターショー：スキル発動者基準で攻撃力{description_value_02}％▲」「フルバーストタイム発動時解除」</color>
+    ■フルバーストタイムが終了した時、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」「1秒間隔」「{description_value_04}秒間維持」
+    「スターゲイザー解除」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14413_name:
+  en: Stargazer
+  ko: 스타게이저
+  ja: スターゲイザー
+14413_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF><word_group=10002>Re-enters Burst</word_group> Stage 1.</color>
+    ■ Affects self.
+    <color=#00AEFF>Stargazer: Max HP ▲ {description_value_01}% of the caster's max HP continuously.</color>
+  ko: |-
+    ■ 아군 전체에게
+    <color=#00AEFF>[<word_group=10002>버스트 재진입</word_group> 1단계]</color>
+    ■ 자신에게
+    <color=#00AEFF>[스타게이저 : 시전자 기준 최대 체력 {description_value_01}% ▲] [지속]</color>
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「<word_group=10002>バースト再突入</word_group>1段階」</color>
+    ■自分に
+    <color=#00AEFF>「スターゲイザー：スキル発動者基準で最大HP{description_value_01}％▲」「持続」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c441_Lobby_Touch_1:
+  en: Please let me know if you need any intel.
+  ko: 필요한 자료가 있으면 말씀해 주세요.
+  ja: 必要な資料があったら、言ってください。
+c441_Lobby_Touch_2:
+  en: I'm a bit busy right now. Could you come back a little later?
+  ko: 지금은 바빠서요, 이따가 다시 와주시겠어요?
+  ja: 今は忙しいので、またあとで来てくれますか？
+c441_Lobby_Touch_3:
+  en: Many people are wary of us, likely because of the work we do. It's all part
+    of the job, I suppose.
+  ko: |-
+    저희가 하는 일 때문인지, 경계하는 분들이 많으시더라고요.
+    어쩔 수 없죠.
+  ja: |-
+    仕事柄、警戒されることが多いのです。
+    仕方ありません。
+c441_Lobby_Touch_Love_1:
+  en: If you want to know anything related to Anis, feel free to call me. I have a
+    bevy of information.
+  ko: |-
+    아니스에 관해서 필요한 게 있으시면, 언제든 저를 불러주세요.
+    웬만한 자료는 다 갖고 있으니까요.
+  ja: |-
+    アニスに関して必要なものがあれば、いつでも呼んでください。
+    だいたいの資料はそろっています。
+c441_Lobby_Touch_Love_2:
+  en: I edited some of the footage I took of you during the last mission, and it turned
+    out quite well. Would you like to see it?
+  ko: |-
+    지난 임무 때, 특별 관리 대상님을 찍어서 편집해봤어요.
+    제법 잘 나왔는데, 한 번 보실래요?
+  ja: |-
+    先日の任務の際に、特別管理対象様を撮影して編集してみました。
+    よく撮れていると思いますが、ご覧になりますか？
+c441_Lobby_Touch_Love_3:
+  en: Gaining an inspection unit's trust is a truly remarkable feat. Which is to say,
+    I trust you, Person of Interest.
+  ko: |-
+    감찰 부대의 신뢰를 받는 건, 정말 대단한 거예요.
+    그런 의미에서, 신뢰하고 있어요. 특별 관리 대상님.
+  ja: |-
+    監察部隊の信頼を得るというのは、本当にすごいことです。
+    信頼しています。特別管理対象様。
+c441_Lobby_Stay_1:
+  en: May I leave now? I have several places I need to investigate.
+  ko: |-
+    저, 조사해야 하는 곳들이 있어서…
+    이만 가봐도 될까요?
+  ja: |-
+    調べたいところがあるので…
+    失礼してもよろしいですか？
+c441_Lobby_Stay_Love_1:
+  en: Take your time. I'll be here editing Anis's concert footage.
+  ko: 천천히 오세요, 아니스 무대 영상 편집하고 있으면 되니까요.
+  ja: |-
+    ゆっくりで構いません。
+    アニスのステージ動画を編集していますので。
+c441_Outpost_Touch_1:
+  en: The Outpost is remarkably clean, no doubt thanks to your leadership.
+  ko: 전초기지는 특별 관리 대상님이 관리하셔서 그런가, 깨끗하네요.
+  ja: 前哨基地は特別管理対象様が 管理されているからか、 清潔ですね。
+c441_Outpost_Touch_2:
+  en: I thought I just saw Anis...!
+  ko: 방금 아니스를 본 것 같았는데…!
+  ja: 今アニスを見かけたような…！
+c441_Outpost_Touch_3:
+  en: I like reading books in the library, as well as editing videos at home.
+  ko: 저는 도서관에서 책을 읽거나, 숙소에서 편집하는 걸 좋아해요.
+  ja: |-
+    私は図書館で本を読んだり、
+    宿所で動画を編集したりすることが 好きです。
+c441_Gacha_Get_1:
+  en: Hello. I'm Avistar from the inspection unit Overseer.
+  ko: 안녕하세요, 감찰 부대 오버시어 소속 아비스타라고 해요.
+  ja: こんにちは。監察部隊オーバーシアー所属のアビスタと申します。
+c441_Reinforce_1:
+  en: Now I can conduct inspections more thoroughly.
+  ko: 더 꼼꼼하게 감찰할게요.
+  ja: もっと細かく監査しますね。
+c441_Reinforce_2:
+  en: I feel like I can really chip in now.
+  ko: 서류만 보던 저도, 이 정도라면 제법 활약할 수 있겠어요.
+  ja: 書類整理ばかりだった私でも、これなら活躍できそうです。
+c441_Reinforce_3:
+  en: So this is what it feels like... I learned something new.
+  ko: 이런 느낌이군요… 하나 배웠어요.
+  ja: こんな感じなんですね…勉強になりました。
+c441_Gift_1:
+  en: Is this for me? ... You didn't get it through any illicit channels, did you?
+  ko: |-
+    저에게 주시는 건가요?
+    …수상한 경로를 통해 받은 물건은 아니겠죠?
+  ja: |-
+    これを私に…？
+    …違法ルートを使って入手したものではありませんよね？
+c441_Gift_2:
+  en: If possible, I would prefer some Anis-related merchandise.
+  ko: 이왕이면, 아니스 관련 굿즈로 부탁드려요.
+  ja: せっかくなら、アニスのグッズでお願いします。
+c441_Gift_3:
+  en: Thank you. I'll make good use of it.
+  ko: 감사해요, 유용하게 쓸게요.
+  ja: ありがとうございます。大切に使わせていただきます。
+c441_Attractive_Up_1:
+  en: You're a really good person. I'm always grateful for all you do.
+  ko: |-
+    특별 관리 대상님은 정말 좋은 분이시네요.
+    늘 감사하고 있어요.
+  ja: |-
+    特別管理対象様は本当に素敵な方ですね。
+    いつも感謝しています。
+c441_Attractive_Up_2:
+  en: My heart is beating fast, just like when I see Anis.
+  ko: 아니스를 볼 때처럼, 뭔가 두근두근하네요.
+  ja: アニスを見ている時のように、なんだかドキドキしますね。
+c441_Attractive_Up_3:
+  en: I've never met someone as upright and unsullied as you. Being near you puts
+    my mind at ease.
+  ko: |-
+    특별 관리 대상님처럼 깨끗하고 청렴한 분은 처음이에요.
+    옆에 있으면, 마음이 편해져요.
+  ja: |-
+    特別管理対象様のように清らかで誠実な方は初めてです。
+    隣にいると、心が落ち着きます。
+c441_Party_Deploy_1:
+  en: Combat isn't exactly my forte...
+  ko: 전투에는 크게 소질이 없는데요….
+  ja: 戦闘の素質はあまりないのですが…
+c441_Field_Touch_1:
+  en: Yes?
+  ko: 예.
+  ja: はい。
+c441_Field_Go_1:
+  en: Moving.
+  ko: 이동할게요.
+  ja: 移動します。
+c441_Battle_Enter_1:
+  en: I'll do my best.
+  ko: 그래도, 최선을 다해볼게요.
+  ja: とにかく、一生懸命頑張ります。
+c441_Battle_Ready_1:
+  en: Anis, I need your strength!
+  ko: 아니스, 저에게 힘을…!
+  ja: アニス、私に力を…！
+c441_Battle_Ready_2:
+  en: I should be able to handle this...
+  ko: 이 정도는 별거 아닐 거예요….
+  ja: これくらい、大したことありません…
+c441_Battle_Ready_3:
+  en: I have the perfect plan.
+  ko: 이론은 완벽해요.
+  ja: 理論は完璧です。
+c441_Reload_1:
+  en: I just need a little break.
+  ko: 좀 더 차분하게 갈게요.
+  ja: 落ち着いていきますね。
+c441_Reload_2:
+  en: Reloading.
+  ko: 리로드.
+  ja: リロード。
+c441_Reload_3:
+  en: J-just a moment.
+  ko: 자, 잠시만요.
+  ja: ちょ、ちょっと待ってください。
+c441_Ult_Skill_Ready_1:
+  en: I'll handle this.
+  ko: 제가 나설게요.
+  ja: 私が行きます。
+c441_Ult_Skill_1:
+  en: N-no peeking! You'll distract me!
+  ko: 모, 몰래 보는 건 업무 방해예요!
+  ja: こ、こっそり見るなんて、業務妨害ですよ！
+c441_FullBurst_1:
+  en: Concentrate your fire!
+  ko: 이쪽으로, 쏘세요!
+  ja: こちらを撃ってください！
+c441_Kill_Monster_1:
+  en: Got one.
+  ko: 정리했어요.
+  ja: 片づきました。
+c441_Kill_Monster_2:
+  en: Who's next?
+  ko: 다음은요?
+  ja: 次はどこですか？
+c441_Kill_Monster_3:
+  en: Nice!
+  ko: 좋았어…!
+  ja: よし…！
+c441_Damage_1:
+  en: Agh!
+  ko: 윽…!
+  ja: うっ…！
+c441_Damage_2:
+  en: Ouch!
+  ko: 아야!
+  ja: ああ！
+c441_Damage_3:
+  en: Urgh...
+  ko: 크읏….
+  ja: くっ…
+c441_Die_1:
+  en: Looks like I still have a long way to go...
+  ko: 아직은… 많이 부족한가 봐요….
+  ja: まだまだ…力不足のようです…
+c441_Win_1:
+  en: I think I managed to pull my weight.
+  ko: 이 정도면, 발목을 잡지는 않겠네요.
+  ja: これなら、足を引っ張ることはなさそうですね。
+441_cv_ja:
+  en: 'CV: Mio Hoshitani'
+  ko: 'CV : 호시타니 미오'
+  ja: CV：星谷美緒
+441_cv_ko:
+  en: 'CV: Miso'
+  ko: 'CV : 미소'
+  ja: CV：ミソ
+441_cv_en:
+  en: 'CV: Sam Slade'
+  ko: 'CV : 샘 슬레이드'
+  ja: CV：Sam Slade

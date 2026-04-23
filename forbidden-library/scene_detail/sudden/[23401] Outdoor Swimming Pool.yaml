@@ -5171,3 +5171,681 @@ d_ex_outdoorpool_08:
     ja: |-
       …私たちはしばらくプールに
       近寄らないことにした
+d_ex_outdoorpool_09:
+  d_ex_outdoorpool_09_1:
+    speaker: "<Narration>"
+    en: "*Fsshhh*"
+    ko: 쏴아아~
+    ja: ザァァァ …
+  d_ex_outdoorpool_09_2:
+    speaker: "<Narration>"
+    en: "*Splash! Splash!*"
+    ko: 철썩! 철썩!
+    ja: バシャッ！バシャッ！
+  d_ex_outdoorpool_09_3:
+    speaker: mast_s
+    en: Haha! Knock it off, Captain!
+    ko: 하하! 선장 양반, 그만 하쇼!
+    ja: あはは！船長さん、やめろって！
+  d_ex_outdoorpool_09_4:
+    speaker: mast_s
+    en: I'm soaking wet!
+    ko: 덕분에 홀딱 젖었수다!
+    ja: すっかりびしょ濡れだぜ！
+  d_ex_outdoorpool_09_5:
+    speaker: "<Narration>"
+    en: "*Fsshhh*"
+    ko: 쏴아아~
+    ja: ザァァァ …
+  d_ex_outdoorpool_09_6:
+    speaker: anchor
+    en: Oh no... I'm completely soaked.
+    ko: 으아… 축축해졌어.
+    ja: うわぁ…濡れてきちゃった。
+  d_ex_outdoorpool_09_7:
+    speaker: anchor
+    en: I won't forgive you for this, Captain.
+    ko: 용서 못 해, 함장.
+    ja: 艦長、許せない。
+  d_ex_outdoorpool_09_8:
+    speaker: "<Narration>"
+    en: "*Splash! Splash!*"
+    ko: 철썩! 철썩!
+    ja: バシャッ！バシャッ！
+  d_ex_outdoorpool_09_9:
+    speaker: avistar
+    en: Ack!
+    ko: 아악!
+    ja: ああっ！
+  d_ex_outdoorpool_09_10:
+    speaker: "<Self>"
+    en: Avistar...?
+    ko: 아비스타…?
+    ja: アビスタ…？
+  d_ex_outdoorpool_09_11:
+    speaker: "<Monologue>"
+    en: While excitedly splashing water at Mast and Anchor,
+    ko: 신나게 수영장에서 마스트와 앵커에게 물을 뿌리던 나는.
+    ja: |-
+      マストとアンカーと一緒に
+      楽しく水遊びをしていた私は
+  d_ex_outdoorpool_09_12:
+    speaker: "<Monologue>"
+    en: I accidentally splash water on Avistar without even realizing she was there.
+    ko: 왔는지도 몰랐던 아비스타에게 물을 잔뜩 튀기고 말았다.
+    ja: |-
+      アビスタが来ていたことに気づかず、
+      思いきり水をかけてしまった
+  d_ex_outdoorpool_09_13:
+    speaker: "<Self>"
+    en: How long have you been standing there?
+    ko: 뭐야, 언제부터 거기 있었어?
+    ja: いつからそこにいたんだ？
+  d_ex_outdoorpool_09_14:
+    speaker: avistar
+    en: I just got here.
+    ko: 방금… 도착했어요.
+    ja: つい先ほどです…
+  d_ex_outdoorpool_09_15:
+    speaker: avistar
+    en: My glasses are all wet.
+    ko: 안경이 다 젖었네요.
+    ja: 眼鏡がすっかり濡れてしまいました。
+  d_ex_outdoorpool_09_16:
+    speaker: "<Self>"
+    en: Gah, sorry...
+    ko: 아, 미안해….
+    ja: ああ、すまない…
+  d_ex_outdoorpool_09_17:
+    speaker: avistar
+    en: It's okay. It happens.
+    ko: 괜찮아요, 그럴 수 있죠.
+    ja: 大丈夫です。気にしないでください。
+  d_ex_outdoorpool_09_18:
+    speaker: avistar
+    en: Umm... would you mind turning around for a moment?
+    ko: 그… 죄송한데, 잠시 뒤돌아 주실 수 있나요…?
+    ja: |-
+      あの…申し訳ありませんが、少しの間
+      後ろを向いていてくれませんか？
+  d_ex_outdoorpool_09_19:
+    speaker: avistar
+    en: I need to wipe my glasses.
+    ko: 안경을 좀 닦아야 할 것 같아서….
+    ja: |-
+      眼鏡についた水滴を
+      拭きたくて…
+  d_ex_outdoorpool_09_20:
+    speaker: "<Self>"
+    en: Huh? Then just wipe them.
+    ko: 응? 그냥 닦으면 되잖아.
+    ja: ん？そのまま拭けばいいだろう
+  d_ex_outdoorpool_09_21:
+    speaker: avistar
+    en: Well... Um...
+    ko: 그… 으….
+    ja: ええと…その…
+  d_ex_outdoorpool_09_22:
+    speaker: avistar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_outdoorpool_09_23:
+    speaker: avistar
+    en: It's okay. Never mind.
+    ko: 후, 됐어요.
+    ja: ふぅ、では大丈夫です。
+  d_ex_outdoorpool_09_24:
+    speaker: "<Self>"
+    en: "...?"
+    ko: "…?"
+    ja: "…？"
+  d_ex_outdoorpool_09_25:
+    speaker: "<Monologue>"
+    en: There's still a lot of water on Avistar's glasses...
+    ko: 아직 안경에 물이 흥건한데….
+    ja: まだ眼鏡は水滴で濡れているが…
+  d_ex_outdoorpool_09_26:
+    speaker: mast_s
+    en: Hi there! I don't believe we've met before.
+    ko: 안녕하쇼, 처음 인사드리는구만!
+    ja: どーもっす、初めましてだな！
+  d_ex_outdoorpool_09_27:
+    speaker: mast_s
+    en: What brings you here?
+    ko: 그쪽은 여기에 무슨 일로 온 거요?
+    ja: そちらさんは、なんでここに来たんだ？
+  d_ex_outdoorpool_09_28:
+    speaker: avistar
+    en: Hello, I'm Avistar from the Overseer inspection unit.
+    ko: 안녕하세요, 감찰 부대 오버시어 소속 아비스타라고 해요.
+    ja: |-
+      こんにちは。監察部隊オーバーシアー所属の
+      アビスタと申します。
+  d_ex_outdoorpool_09_29:
+    speaker: avistar
+    en: I received a report that water usage at the Outpost had suddenly spiked, and...
+    ko: 저는, 전초기지에서 갑작스럽게 수도 사용량이 늘어났다는 보고를 받고-
+    ja: |-
+      前哨基地で水の使用量が
+      急激に増えたという報告を受け…
+  d_ex_outdoorpool_09_30:
+    speaker: "<Narration>"
+    en: "*Splash*"
+    ko: 촥-
+    ja: ピュッ！
+  d_ex_outdoorpool_09_31:
+    speaker: anchor
+    en: Oops.
+    ko: 아.
+    ja: あっ…
+  d_ex_outdoorpool_09_32:
+    speaker: anchor
+    en: Sorry.
+    ko: 미안해.
+    ja: ごめん。
+  d_ex_outdoorpool_09_33:
+    speaker: anchor
+    en: I was wringing the water out of my clothes since they were so heavy, and it
+      kind of shot over there.
+    ko: 젖은 옷이 너무 무거워서, 물기를 짜다가 그만.
+    ja: 濡れた服が重たくて、水を絞ってたら…
+  d_ex_outdoorpool_09_34:
+    speaker: avistar
+    en: That's okay.
+    ko: 예, 뭐….
+    ja: いえ、大丈夫です。
+  d_ex_outdoorpool_09_35:
+    speaker: avistar
+    en: At any rate, I came to investigate why the water usage has surg—
+    ko: 아무튼, 수도 사용량이 급증해서 확인차 방문을-
+    ja: |-
+      とにかく水の使用量が急激に増えたので、
+      確認を…
+  d_ex_outdoorpool_09_36:
+    speaker: "<Narration>"
+    en: "*Splash*"
+    ko: 촥-
+    ja: ピュッ！
+  d_ex_outdoorpool_09_37:
+    speaker: mast_s
+    en: Oh come on, Morgan!
+    ko: 아이고오, 모거언!
+    ja: おいおい、モーガン！
+  d_ex_outdoorpool_09_38:
+    speaker: mast_s
+    en: You can't do that to someone you've just met!
+    ko: 처음 보는 사람에게 그런 장난을 치면 안 되는 거요!
+    ja: |-
+      初めて会う人に
+      そんなイタズラしちゃダメじゃねえか！
+  d_ex_outdoorpool_09_39:
+    speaker: mast_s
+    en: Sorry about that...
+    ko: 미, 미안하구만….
+    ja: わ、悪かったな…
+  d_ex_outdoorpool_09_40:
+    speaker: avistar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_outdoorpool_09_41:
+    speaker: mast_s
+    en: Oh no! Your glasses are all wet!
+    ko: 아이고…! 안경이 다 젖었구만!
+    ja: うわぁ…！眼鏡がびしょ濡れだ！
+  d_ex_outdoorpool_09_42:
+    speaker: mast_s
+    en: I'll clean them for you!
+    ko: 내가 깨끗하게 닦아주겠수다!
+    ja: 私がきれいに拭いてあげるぜ！
+  d_ex_outdoorpool_09_43:
+    speaker: avistar
+    en: Oh, uh...!
+    ko: 아…!
+    ja: あっ…！
+  d_ex_outdoorpool_09_44:
+    speaker: avistar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_outdoorpool_09_45:
+    speaker: "<Self>"
+    en: Sorry, Avistar. Please continue.
+    ko: |-
+      아비스타, 미안해.
+      계속 이어서 말해줘.
+    ja: |-
+      アビスタ、すまない。
+      話を続けてくれ
+  d_ex_outdoorpool_09_46:
+    speaker: avistar
+    en: Well... Um...
+    ko: 그… 으….
+    ja: ええと…あの…
+  d_ex_outdoorpool_09_47:
+    speaker: avistar
+    en: Th-th-this building was recently recorded as not being in use, and yet!
+    ko: 최, 최, 최근 해당 건물은 거의 사용하지 않았던 것으로 기록 되어있는데…!
+    ja: |-
+      こ、こ、こちらの建物は、
+      ほとんど使用されていないと
+      記録されていましたが…！
+  d_ex_outdoorpool_09_48:
+    speaker: avistar
+    en: Th-the Outpost's water usage has surged due to a large amount of water being
+      drawn from this building!
+    ko: |-
+      갑자기 이 건물에서 물을 많이 끌어 써서,
+      전초기지 수도 사용량이 그, 그, 급증했어요!
+    ja: |-
+      この建物で水が大量に使われており、
+      前哨基地の水の使用量が、
+      きゅ、きゅ、急激に増えたのです！
+  d_ex_outdoorpool_09_49:
+    speaker: avistar
+    en: W-were you all just playing in the water?
+    ko: 여, 여러분은 즐거운 물놀이를 하고 계셨던 건가요?
+    ja: |-
+      み、皆さんはここで水遊びを
+      されていたんですか？
+  d_ex_outdoorpool_09_50:
+    speaker: "<Monologue>"
+    en: Avistar speaks rapidly and nervously.
+    ko: 아비스타가 쏟아내듯 말을 빠르게 뱉어낸다.
+    ja: |-
+      アビスタは、まくし立てるように
+      早口で言葉を吐き出した
+  d_ex_outdoorpool_09_51:
+    speaker: mast_s
+    en: I don't think you can really reduce it to something as simple as "playing."
+    ko: 물놀이라고 단순하게 말하기에는 좀 곤란하지.
+    ja: |-
+      水遊びって言葉で片付けられるのは、
+      ちょっと困るな。
+  d_ex_outdoorpool_09_52:
+    speaker: mast_s
+    en: We are Mast and Anchor of the Aegis Squad!
+    ko: 우리는 이지스 스쿼드의 마스트와 앵커!
+    ja: 私たちはイージス部隊のマストとアンカー！
+  d_ex_outdoorpool_09_53:
+    speaker: mast_s
+    en: We have to be prepared at any moment for naval warfare.
+    ko: 언제든 해상전에 대비를 해야 하는 것이요.
+    ja: |-
+      いつでも海上戦に
+      備えておかなきゃならねえ。
+  d_ex_outdoorpool_09_54:
+    speaker: mast_s
+    en: Which is why we were testing the special suit we developed.
+    ko: 그래서~! 이번에 개발한 특제 슈트를 테스트하고 있었수다.
+    ja: |-
+      そこで～！新開発の特殊スーツを
+      テストしてたってワケだ。
+  d_ex_outdoorpool_09_55:
+    speaker: avistar
+    en: Y-you developed a special suit?
+    ko: 트, 특, 특제 슈트요?
+    ja: と、とく、特殊スーツですか？
+  d_ex_outdoorpool_09_56:
+    speaker: anchor
+    en: Yeah.
+    ko: 응.
+    ja: うん。
+  d_ex_outdoorpool_09_57:
+    speaker: anchor
+    en: Have a look.
+    ko: 이거 봐 봐.
+    ja: ちょっと見てて。
+  d_ex_outdoorpool_09_58:
+    speaker: "<Monologue>"
+    en: Anchor lightly sprinkles some water onto her clothes.
+    ko: 앵커가 본인의 옷에 물을 살짝 뿌렸다.
+    ja: アンカーは自分の服に水を少しかけた
+  d_ex_outdoorpool_09_59:
+    speaker: "<Narration>"
+    en: "*Drip*"
+    ko: 주르륵.
+    ja: ポタポタポタ――
+  d_ex_outdoorpool_09_60:
+    speaker: anchor
+    en: See? I didn't get wet.
+    ko: 짠, 하나도 안 젖었지.
+    ja: じゃーん、全然濡れてないでしょ。
+  d_ex_outdoorpool_09_61:
+    speaker: avistar
+    en: Oh...
+    ko: 아아….
+    ja: ああ…
+  d_ex_outdoorpool_09_62:
+    speaker: anchor
+    en: Mast, your turn.
+    ko: 마스트, 부탁해.
+    ja: マスト、お願い。
+  d_ex_outdoorpool_09_63:
+    speaker: mast_s
+    en: Hyaaah!
+    ko: 이야아압!
+    ja: おりゃあっ！
+  d_ex_outdoorpool_09_64:
+    speaker: mast_s
+    en: Super Pirate Splash!
+    ko: 해적! 비장의 물 뿌리기!
+    ja: 海賊！必殺水かけ攻撃！
+  d_ex_outdoorpool_09_65:
+    speaker: "<Narration>"
+    en: "*Splash!*"
+    ko: 촤아아~
+    ja: バシャ～ッ
+  d_ex_outdoorpool_09_66:
+    speaker: anchor
+    en: Ta-da. Not all that wet.
+    ko: 짠, 생각보다 안 축축하지.
+    ja: じゃーん、意外と濡れてないでしょ。
+  d_ex_outdoorpool_09_67:
+    speaker: avistar
+    en: Wow...
+    ko: 으오오….
+    ja: あああ…
+  d_ex_outdoorpool_09_68:
+    speaker: anchor
+    en: Captain, your turn.
+    ko: 함장, 부탁해.
+    ja: 艦長、よろしく。
+  d_ex_outdoorpool_09_69:
+    speaker: "<Choice>"
+    en: Hyyyaaahhhh!
+    ko: 으랴아아아압!!!
+    ja: おりゃあああっ！！！
+  d_ex_outdoorpool_09_70:
+    speaker: "<Choice>"
+    en: Hyah! Hyah!
+    ko: 에잇! 에잇!
+    ja: えいっ！とりゃっ！
+  d_ex_outdoorpool_09_71:
+    speaker: "<Narration>"
+    en: "*Splash! Splash!*"
+    ko: 철썩! 철썩!
+    ja: バシャッ！バシャッ！
+  d_ex_outdoorpool_09_72:
+    speaker: anchor
+    en: Hmm...
+    ko: 흐앙….
+    ja: わぁ…
+  d_ex_outdoorpool_09_73:
+    speaker: anchor
+    en: At this point, it gets wet.
+    ko: 이렇게 되면 축축해져.
+    ja: ここまでやったら濡れるね。
+  d_ex_outdoorpool_09_74:
+    speaker: mast_s
+    en: You can adjust the level of waterproofing, though, as well as tweak it to
+      dry quickly!
+    ko: |-
+      방수 정도를 조절할 수 있고,
+      빠르게 기화시킬 수도 있수다!
+    ja: |-
+      防水の度合いは調整できて、
+      すぐに乾かすことだってできるんだぜ！
+  d_ex_outdoorpool_09_75:
+    speaker: mast_s
+    en: For those of us who fight in the water, this is a very important test!
+    ko: 물에서 싸워야 하는 우리에게는 아주 중요한 테스트요!
+    ja: |-
+      水上で戦う私たちにとっては
+      すっげえ大事なテストなんだ！
+  d_ex_outdoorpool_09_76:
+    speaker: anchor
+    en: Pretty cool, right?
+    ko: 신기하지?
+    ja: 不思議でしょ？
+  d_ex_outdoorpool_09_77:
+    speaker: avistar
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_outdoorpool_09_78:
+    speaker: mast_s
+    en: Hm?
+    ko: 응?
+    ja: ん？
+  d_ex_outdoorpool_09_79:
+    speaker: mast_s
+    en: Why aren't you saying anything, Avist...
+    ko: 아비스타 양반, 왜 아무 말도….
+    ja: アビスタさん、なんで黙って…
+  d_ex_outdoorpool_09_80:
+    speaker: mast_s
+    en: Oh no!
+    ko: 흐이이익!
+    ja: ひいいいっ！
+  d_ex_outdoorpool_09_81:
+    speaker: anchor
+    en: You're soaking wet.
+    ko: 쫄딱 젖었어.
+    ja: びしょ濡れになってる。
+  d_ex_outdoorpool_09_82:
+    speaker: "<Self>"
+    en: "... Oops."
+    ko: "…이런."
+    ja: "…あっ"
+  d_ex_outdoorpool_09_83:
+    speaker: "<Monologue>"
+    en: Avistar was standing behind Anchor,
+    ko: 앵커의 뒤에 서 있던 아비스타는.
+    ja: アンカーの後ろに立っていたアビスタは
+  d_ex_outdoorpool_09_84:
+    speaker: "<Monologue>"
+    en: meaning she got hit by just about all the water Mast and I splashed in that
+      direction.
+    ko: 나와 마스트가 뿌린 물벼락을 그대로 맞은 채였다.
+    ja: |-
+      私とマストが飛ばした水しぶきを
+      思いきりかぶっていた
+  d_ex_outdoorpool_09_85:
+    speaker: mast_s
+    en: Er... Avistar?
+    ko: 아, 아비스타 양반…?
+    ja: ア、アビスタさん…？
+  d_ex_outdoorpool_09_86:
+    speaker: avistar
+    en: Th-th-that's all fine and good, but...
+    ko: 자, 잘 알겠으니까….
+    ja: よ、よく分かりましたから…
+  d_ex_outdoorpool_09_87:
+    speaker: avistar
+    en: m-m-my glasses...
+    ko: 제, 제, 제 안경 좀….
+    ja: わ、わ、私の眼鏡を…
+  d_ex_outdoorpool_09_88:
+    speaker: mast_s
+    en: Oh! Here you go.
+    ko: 아! 여기 있수다.
+    ja: おおっ！ここにあるぜ！
+  d_ex_outdoorpool_09_89:
+    speaker: "<Monologue>"
+    en: Avistar snatches back her glasses, which Mast had wiped clean.
+    ko: 아비스타는 깨끗하게 닦인 안경을 낚아채듯 가져갔다.
+    ja: |-
+      アビスタは、きれいに拭かれた
+      眼鏡をひったくるように取った
+  d_ex_outdoorpool_09_90:
+    speaker: avistar
+    en: Phewww...
+    ko: 후우우우….
+    ja: ふぅぅぅ…
+  d_ex_outdoorpool_09_91:
+    speaker: avistar
+    en: Hmm.
+    ko: 흠.
+    ja: ふむ。
+  d_ex_outdoorpool_09_92:
+    speaker: avistar
+    en: I see what's been going on now.
+    ko: 그렇군요, 확인했어요.
+    ja: そうですか、確認しました。
+  d_ex_outdoorpool_09_93:
+    speaker: avistar
+    en: To be honest, it wouldn't have mattered if all you were doing was playing
+      in the water.
+    ko: 사실, 단순한 물놀이였어도 상관없었을 거예요.
+    ja: |-
+      実を言うと、ただの水遊びであっても
+      構いませんでした。
+  d_ex_outdoorpool_09_94:
+    speaker: avistar
+    en: The sudden surge in water usage was the issue,
+    ko: 어쨌든, 갑작스럽게 사용량이 늘었다는 게 문제였고.
+    ja: |-
+      とにかく、水の使用量が急激に
+      増加したことが気がかりだったのです。
+  d_ex_outdoorpool_09_95:
+    speaker: avistar
+    en: but now we know the reason behind it, so it's not a problem.
+    ko: 원인을 알았으니, 문제없어요.
+    ja: 原因が分かれば、問題はありません。
+  d_ex_outdoorpool_09_96:
+    speaker: "<Self>"
+    en: Is it okay that you, uh... got all soaked?
+    ko: 그… 젖은 건 괜찮은 거야?
+    ja: その…濡れてしまったが、大丈夫なのか？
+  d_ex_outdoorpool_09_97:
+    speaker: avistar
+    en: Hm? Oh, yes.
+    ko: 아, 예.
+    ja: あ、はい。
+  d_ex_outdoorpool_09_98:
+    speaker: avistar
+    en: It'll take more than that to ruin my equipment.
+    ko: 갖고 있는 기계들은 이 정도에 망가지지 않으니까요.
+    ja: 私の機械は、この程度では壊れませんから。
+  d_ex_outdoorpool_09_99:
+    speaker: "<Self>"
+    en: I wasn't talking about your equipment. Are you okay?
+    ko: 기계들도 기계들인데, 아비스타는 괜찮은 거지?
+    ja: |-
+      機械もそうだが、
+      アビスタは大丈夫なのか？
+  d_ex_outdoorpool_09_100:
+    speaker: avistar
+    en: Yes, of course.
+    ko: 예, 당연하죠.
+    ja: ええ、もちろんです。
+  d_ex_outdoorpool_09_101:
+    speaker: avistar
+    en: I'm happy I've completed my assignment.
+    ko: 일은 잘 처리했으니까요.
+    ja: 問題が解決しましたので。
+  d_ex_outdoorpool_09_102:
+    speaker: mast_s
+    en: What a professional.
+    ko: 프로구만….
+    ja: プロだなぁ…
+  d_ex_outdoorpool_09_103:
+    speaker: anchor
+    en: No kidding.
+    ko: 응.
+    ja: うん。
+  d_ex_outdoorpool_09_104:
+    speaker: avistar
+    en: Thank you for your cooperation.
+    ko: 협조 감사했습니다.
+    ja: ご協力ありがとうございました。
+  d_ex_outdoorpool_09_105:
+    speaker: avistar
+    en: And for wiping off my glasses.
+    ko: 안경도 닦아주셔서 감사해요.
+    ja: 眼鏡も拭いてくださって、感謝します。
+  d_ex_outdoorpool_09_106:
+    speaker: anchor
+    en: Why do you wear glasses, anyway?
+    ko: 그런데, 안경은 왜 끼고 있는 거야?
+    ja: ところで、なんで眼鏡をかけてるの？
+  d_ex_outdoorpool_09_107:
+    speaker: avistar
+    en: It's simple.
+    ko: 그야 당연히.
+    ja: それは、もちろん…
+  d_ex_outdoorpool_09_108:
+    speaker: avistar
+    en: As a member of an inspection unit, I need to look as dignified and uncompromising
+      as possible.
+    ko: 감찰 부대로서, 더 위엄있고 깐깐하게 보이기 위해서죠.
+    ja: |-
+      監察部隊として、
+      より威厳があるように、
+      そして厳格そうに見せるためです。
+  d_ex_outdoorpool_09_109:
+    speaker: "<Narration>"
+    en: "*Glimmer*"
+    ko: 반짝-
+    ja: キラッ
+  d_ex_outdoorpool_09_110:
+    speaker: "<Monologue>"
+    en: Avistar's glasses, having been freshly cleaned, are more sparkly than ever.
+    ko: 물에 씻긴 아비스타의 안경이, 유독 반짝인다.
+    ja: |-
+      水で洗われたアビスタの眼鏡は
+      ひときわ輝きを放っていた
+  d_ex_outdoorpool_09_111:
+    speaker: avistar
+    en: Well, good luck with the rest of your testing.
+    ko: 그럼, 테스트 마저 열심히 하세요.
+    ja: それでは、続きのテストも頑張ってください。
+  d_ex_outdoorpool_09_112:
+    speaker: avistar
+    en: I must be going.
+    ko: 저는 이만.
+    ja: これで失礼いたします。
+  d_ex_outdoorpool_09_113:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_outdoorpool_09_114:
+    speaker: mast_s
+    en: She has a point. Without her glasses on, she was just kinda...
+    ko: 확실히, 안경을 벗었을 때는 뭐랄까….
+    ja: 眼鏡を外したところは、なんつうか…
+  d_ex_outdoorpool_09_115:
+    speaker: mast_s
+    en: "... adorable."
+    ko: 귀여웠수다.
+    ja: かわいかったぜ。
+  d_ex_outdoorpool_09_116:
+    speaker: anchor
+    en: She was so bashful.
+    ko: 엄청 부끄러워했어.
+    ja: すごく恥ずかしそうだったね。
+  d_ex_outdoorpool_09_117:
+    speaker: "<Self>"
+    en: Yeah, she wasn't exactly giving off "inspection unit" vibes.
+    ko: 감찰 부대라는 느낌이 안 들긴 했지.
+    ja: 監察部隊という感じじゃなかっただろう？
+  d_ex_outdoorpool_09_118:
+    speaker: mast_s
+    en: I'm happy I got to see that side of her, and during our first meeting, no
+      less!
+    ko: 초면이었지만, 숨겨진 모습을 발견한 것 같아 기분이 좋구만.
+    ja: |-
+      初対面だったけど、隠れた一面を
+      見れた気がして嬉しいぜ。
+  d_ex_outdoorpool_09_119:
+    speaker: mast_s
+    en: Anyway, the testing is done, so why don't we head back in?
+    ko: |-
+      테스트도 얼추 끝난 것 같으니
+      슬슬 들어가는 게 어떻겠수?
+    ja: |-
+      テストもあと少しだし、
+      そろそろ続きをやらねえか？
+  d_ex_outdoorpool_09_120:
+    speaker: "<Self>"
+    en: Sounds good.
+    ko: 응, 그러자.
+    ja: ああ、そうしよう
+  d_ex_outdoorpool_09_121:
+    speaker: anchor
+    en: Yay.
+    ko: 야호.
+    ja: おっけー。

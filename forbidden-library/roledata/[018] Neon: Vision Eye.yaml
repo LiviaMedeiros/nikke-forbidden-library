@@ -1,0 +1,581 @@
+---
+18_name:
+  en: 'Neon: Vision Eye'
+  ko: '네온 : 비전 아이'
+  ja: ネオン：ビジョン・アイ
+c018_description:
+  en: Neon now boasts a healthy body that completely shields her from outside interference.
+    She has dubbed her newly upgraded self "Neo-Neon," and continues on her journey
+    along the path of firepower—now with even greater firepower!
+  ko: |-
+    외부에서의 간섭을 완전히 차단하는 건강한 바디를 이식받은 네온.
+    새로 업그레이드된 자신을 네오-네온이라 칭하고 있다.
+    더 강력한 화력으로, 변함없이 화력의 길을 걷는다.
+  ja: |-
+    外部からの干渉を完全に遮断することができる
+    健康なボディを移植されたネオン。
+    新しくアップグレードした自身をネオ・ネオンと呼んでいる。
+    より強力な火力で、火力の道をひたすら歩み続ける。
+18_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_18:
+  en: 'Neon: Vision Eye''s Spare Body'
+  ko: '네온 : 비전 아이 스페어 바디'
+  ja: ネオン：ビジョン・アイのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20182_name:
+  en: Firepower Charge
+  ko: 화력 충전
+  ja: 超火力チャージ
+20182_description:
+  en: "■ Activates at the start of battle. Affects self.\n<color=#00AEFF>Increases
+    the Firepower Gauge's charge by {description_value_08}.</color>\n■ Activates when
+    performing a normal attack while in Firepower Charge status. Affects self.\n<color=#00AEFF>Increases
+    the Firepower Gauge's charge by 2.</color>\n■ Activates when Firepower Charge
+    ends. Affects self.\n<color=#00AEFF>Increases the Firepower Gauge's charge by
+    {description_value_09}.</color>\n■ Activates when Full Burst ends while Firepower
+    Gauge is active. Affects self.\n<color=#00AEFF><word_group=10014>Burst Gauge filling
+    speed</word_group> ▲ {description_value_02}% x Firepower Gauge charge amount for
+    {description_value_03} sec.</color>\n■ Activates when entering Full Burst. Affects
+    self.\n<color=#00AEFF>Maximum Firepower: \nEffect: ATK ▲ {description_value_04}%
+    for {description_value_05} sec.\nAdditional effect for Super Firepower: ATK ▲
+    {description_value_06}% for {description_value_07} sec.</color>"
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[화력 게이지 {description_value_08} 충전] </color>
+    ■ 일반 공격 시 자신이 화력 충전 상태라면 자신에게
+    <color=#00AEFF>[화력 게이지 2 충전]</color>
+    ■ 화력 충전 상태 종료 시 자신에게
+    <color=#00AEFF>[화력 게이지 {description_value_09} 충전]</color>
+    ■ 풀 버스트 타임 종료 시 자신이 화력 게이지 보유 상태라면 자신에게
+    <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_02}% X 화력 게이지 충전량 ▲] [{description_value_03}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[화력 전개] :
+    효과 : [공격력 {description_value_04}% ▲] [{description_value_05}초 유지]
+    초화력 추가 효과 : [공격력 {description_value_06}% ▲] [{description_value_07}초 유지] </color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「火力ゲージ{description_value_08}チャージ」</color>
+    ■通常攻撃をした時、自分が火力チャージ状態なら、自分に
+    <color=#00AEFF>「火力ゲージ2チャージ」</color>
+    ■火力チャージ状態が終了した時、自分に
+    <color=#00AEFF>「火力ゲージ{description_value_09}チャージ」</color>
+    ■フルバーストタイムが終了した時、自分に火力ゲージがある状態なら自分に
+    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_02}％×火力ゲージのチャージ量▲」
+    「{description_value_03}秒間維持」</color>
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「火力全開」：
+    効果：「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」
+    超火力追加効果：「攻撃力{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20181_name:
+  en: Healthy Body
+  ko: 건강한 몸
+  ja: 超健康体
+20181_description:
+  en: |-
+    ■ Activates when attacked while not in Healthy Body status. Affects self.
+    <color=#00AEFF>Invulnerable for {description_value_03} sec. Activates {description_value_04} time(s) per battle.
+    Gains <word_group=10039>debuff immunity</word_group> to ∞ debuffs for {description_value_05} sec. Activates {description_value_06} time(s) per battle.
+    Healthy Body: Potency of HP restored ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when landing a Full Charge attack. Affects the enemy if the enemy is the stage target.
+    <color=#00AEFF>Firepower Explosion:
+    Effect: Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as additional damage.
+    Additional effect of Super Firepower status: Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: "■ 피격 시 자신이 건강한 몸 상태가 아니라면 자신에게\n<color=#00AEFF>[무적] [{description_value_03}초
+    유지] [전투 중 {description_value_04}회 발동]\n[<word_group=10039>해로운 효과 면역</word_group>
+    ∞개] [{description_value_05}초 유지] [전투 중 {description_value_06}회 발동]\n[건강한 몸 : 받는
+    체력 회복량 {description_value_01}% ▲] [{description_value_02}초 유지]</color>\n■ 풀 차지
+    공격 명중 시 대상이 타겟이라면 대상에게\n<color=#00AEFF>[화력 폭발] : \n효과 : [<word_group=10025>최종</word_group>
+    공격력 {description_value_07}% 추가 대미지]\n초화력 상태 추가 효과 : [<word_group=10025>최종</word_group>
+    공격력 {description_value_08}% 추가 대미지]</color>"
+  ja: |-
+    ■攻撃を受けた時、自分が健康体状態でなければ、自分に
+    <color=#00AEFF>「無敵」「{description_value_03}秒間維持」「戦闘中{description_value_04}回発動」
+    「<word_group=10039>デバフ効果免疫</word_group>∞個」「{description_value_05}秒間維持」「戦闘中{description_value_06}回発動」
+    「健康体：受けるHP回復量{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルチャージ攻撃が命中した時、対象がターゲットなら、対象に
+    <color=#00AEFF>「火力爆発」：
+    効果：「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％の追加ダメージ」
+    超火力状態追加効果：「<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の追加ダメージ」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10183_name:
+  en: Super Firepower
+  ko: 초화력
+  ja: 超火力解放
+10183_description:
+  en: |-
+    ■ Activates when the Firepower Gauge's charge is lower than 100. Affects self.
+    <color=#00AEFF>Firepower Charge: Charges the Firepower Gauge for {description_value_02} sec. This effect cannot be removed.
+    Increases the Firepower Gauge's charge by 1.</color>
+    ■ Activates when the Firepower Gauge's charge is at 100. Affects self.
+    <color=#00AEFF>Super Firepower: Attack Damage ▲ {description_value_04}% for {description_value_05} sec.
+    Decreases the Firepower Gauge's charge by 100.</color>
+    ■ Affects self.
+    <color=#00AEFF>Explosion Radius ▲ {description_value_06}% for {description_value_07} sec.
+    Attack Damage ▲ {description_value_10}% for {description_value_11} sec.</color>
+  ko: |-
+    ■ 자신이 화력 게이지가 100미만이면 자신에게
+    <color=#00AEFF>[화력 충전 : 화력 게이지 충전 가능] [{description_value_02}초 유지] [해제 불가]
+    [화력 게이지 1 충전] </color>
+    ■ 자신이 화력 게이지가 100이라면 자신에게
+    <color=#00AEFF>[초화력 : 공격 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]
+    [화력 게이지 100 소모]</color>
+    ■ 자신에게
+    <color=#00AEFF>[폭발 범위 {description_value_06}% ▲] [{description_value_07}초 유지]
+    [공격 대미지 {description_value_10}% ▲] [{description_value_11}초 유지]</color>
+  ja: |-
+    ■自分の火力ゲージが100未満の場合、自分に
+    <color=#00AEFF>「火力チャージ：火力ゲージチャージ可能」「{description_value_02}秒間維持」「解除不可」
+    「火力ゲージ1チャージ」</color>
+    ■自分の火力ゲージが100の場合、自分に
+    <color=#00AEFF>「超火力：攻撃ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」
+    「火力ゲージ100消費」</color>
+    ■自分に
+    <color=#00AEFF>「爆発範囲{description_value_06}％▲」「{description_value_07}秒間維持」
+    「攻撃ダメージ{description_value_10}％▲」「{description_value_11}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_electronic:
+  en: Z.E.U.S. Code Manual
+  ko: Z.E.U.S. 코드 매뉴얼
+  ja: Z.E.U.S.コードマニュアル
+material_characterskill_electronic_desc:
+  en: |-
+    A manual only for Nikkes with Z.E.U.S. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "Z.E.U.S. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    Z.E.U.S.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+14_name:
+  en: 'Neon: Blue Ocean'
+  ko: '네온 : 블루 오션'
+  ja: ネオン：ブルーオーシャン
+15_name:
+  en: 'Anis: Sparkling Summer'
+  ko: '아니스 : 스파클링 서머'
+  ja: アニス：スパークリングサマー
+16_name:
+  en: 'Rapi: Red Hood'
+  ko: '라피 : 레드 후드'
+  ja: ラピ：レッドフード
+17_name:
+  en: 'Anis: Star'
+  ko: '아니스 : 스타'
+  ja: アニス：スター
+10_name:
+  en: Rapi
+  ko: 라피
+  ja: ラピ
+11_name:
+  en: Neon
+  ko: 네온
+  ja: ネオン
+12_name:
+  en: Anis
+  ko: 아니스
+  ja: アニス
+c018_Lobby_Touch_1:
+  en: At this point, shouldn't you be calling me "Master"? Which would make me...
+    Master-Master!
+  ko: |-
+    이 정도면, 스승님이 저를 스승님이라고 불러야 하지 않을까요?
+    그럼 전… 스승스승님인가요?!
+  ja: |-
+    こうなった今、師匠が私を師匠と呼ぶべきではありませんか？
+    つまり私は…スペシャル師匠ですか！？
+c018_Lobby_Touch_2:
+  en: I need someplace to test my firepower. Right now, I feel like I have no limits.
+  ko: |-
+    제 화력을 시험할 만한 곳이 필요해요.
+    지금의 전, 한계가 없는 느낌이거든요.
+  ja: |-
+    私の火力を試す場所が必要ですね。
+    今の私には、限界なんてない気がするんです。
+c018_Lobby_Touch_3:
+  en: You don't think I need my glasses anymore? Of course I do! These glasses are
+    the very source of my firepower.
+  ko: |-
+    이 안경, 이제 안 껴도 되지 않냐고요?
+    안돼요! 제 화력은, 이 안경에서 나오는 거거든요.
+  ja: |-
+    この眼鏡、もう必要ないんじゃないかって？
+    ダメです！私の火力は、この眼鏡から始まっているのです。
+c018_Lobby_Touch_Love_1:
+  en: The way of firepower really has no end. You'll keep guiding me, won't you, Master?
+  ko: |-
+    화력의 길은 끝이 없네요.
+    계속 이끌어 주실 거죠, 스승님?
+  ja: |-
+    火力の道に終わりはありません。
+    これからも私を導いてくれますよね？師匠！
+c018_Lobby_Touch_Love_2:
+  en: A healthy body is a good thing. I'm glad you're so strong and well, Master.
+  ko: |-
+    건강한 몸은 좋은 거예요.
+    스승님이 튼튼해서 다행이에요!
+  ja: |-
+    健康が一番ですよ。
+    師匠が丈夫でよかったです！
+c018_Lobby_Touch_Love_3:
+  en: I can't talk about my past without crying, but I think I'm ready to share with
+    you.
+  ko: |-
+    눈물 없이 들을 수 없는 저의 과거,
+    스승님께라면 말해드릴 수 있을 것 같아요.
+  ja: |-
+    涙なしには語れない私の過去。
+    師匠になら、お話しできそうです。
+c018_Lobby_Stay_1:
+  en: Master! What're you doing? Leaving me here like this is a massive blow to our
+    combat capabilities!
+  ko: |-
+    스승님! 뭐 하시는 거죠?
+    저를 이렇게 방치하시다니, 전력에 큰 손실이라구요!
+  ja: |-
+    師匠！何をしているんですか？
+    私を放置するなんて、戦力に大きな損失が生じますよ！
+c018_Lobby_Stay_Love_1:
+  en: The stronger the weapon, the more time it needs to cool down. Take your time
+    coming back, Master!
+  ko: |-
+    화력이 강한 총일수록, 식힐 시간이 필요한 법이죠.
+    천천히 다녀오세요, 스승님!
+  ja: |-
+    火力が高い銃であるほど、冷却時間が必要なものです。
+    ゆっくり戻ってきてくださいね、師匠！
+c018_Outpost_Touch_1:
+  en: Doesn't the Outpost seem a bit small for Neo-Neon?
+  ko: |-
+    이 전초기지, 이제 저 네오-네온을 품기에는
+    조금 좁아 보이지 않나요?
+  ja: |-
+    この前哨基地は、 ネオ・ネオンの居場所にしては
+    少し狭いと思いませんか？
+c018_Outpost_Touch_2:
+  en: I don't know if I said this before, but I like it here because it's bright.
+  ko: 새삼스럽지만, 여기는 밝아서 좋네요.
+  ja: 改めて感じましたが、 ここは明るくていいですね。
+c018_Outpost_Touch_3:
+  en: Nothing beats having a home to return to.
+  ko: 돌아올 집이 있다는 건, 정말 기분 좋은 일이네요!
+  ja: 帰る家があるって、 本当に嬉しいことですね！
+c018_Gacha_Get_1:
+  en: Neo-Neon here, responding to the call for firepower.
+  ko: 네오-네온. 화력의 부름을 받고, 이곳에 강림했습니다.
+  ja: ネオ・ネオン。火力に導かれ、ここに降臨しました。
+c018_Reinforce_1:
+  en: Firrrepowerrr!
+  ko: 화려어어어어억-!!
+  ja: かぁりょぉぉぉくぅぅぅー！！
+c018_Reinforce_2:
+  en: Aren't you afraid of how much greater my firepower might get?
+  ko: |-
+    스승님은 두렵지 않으신가요…?
+    저의 화력이 어디까지 성장할지 말이에요.
+  ja: |-
+    師匠は恐ろしくないのですか…？
+    私の火力が、どこまで成長してしまうのか！
+c018_Reinforce_3:
+  en: Wow! I was already healthy, but I feel even better now!
+  ko: 와우! 원래도 건강했지만, 더 좋아진 기분이네요!
+  ja: わあ！もともと元気でしたけど、さらに健康になった気がします！
+c018_Gift_1:
+  en: You're encouraging me to work even harder, right? Well, consider today the first
+    day of my special firepower training!
+  ko: |-
+    더 열심히 하라는 의미인 거죠?
+    좋아요, 오늘부터 화력 특훈이에요!
+  ja: |-
+    もっと頑張れってことですよね。
+    分かりました。今日から火力の特訓です！
+c018_Gift_2:
+  en: I kinda feel bad always being the one to receive gifts. I do appreciate it,
+    though, Master!
+  ko: |-
+    매번 받기만 해서 좀 그렇긴 하네요.
+    감사합니다, 스승님!
+  ja: |-
+    いつももらってばかりで申し訳ないです。
+    ありがとうございます、師匠！
+c018_Gift_3:
+  en: Oooh! I know exactly what to do with this!
+  ko: 오오…! 잘 쓰겠습니다!
+  ja: おおっ…！大切に使います！
+c018_Attractive_Up_1:
+  en: You really are the only one I'd ever want to call "Master."
+  ko: 역시, 제가 모실만한 분은 스승님 한 분 밖에 없는 것 같네요.
+  ja: やっぱり私の師匠にふさわしい方は、師匠しかいませんね。
+c018_Attractive_Up_2:
+  en: Me and my firepower are with you until the end, Master!
+  ko: 충! 성! 화력의 네온은 평생 스승님만을 따르겠습니다!
+  ja: 火力のネオンは、一生師匠についていきます！
+c018_Attractive_Up_3:
+  en: Glasses, firepower, and you... Put those three together, and you basically get
+    me, huh? They're like my building blocks.
+  ko: |-
+    안경, 화력, 스승님… 이렇게 셋이 만나
+    저, 네온을 구성하고 있는 것 아닐까요?
+  ja: 眼鏡、火力、師匠…この3つで、私が構成されているのでは？
+c018_Party_Deploy_1:
+  en: Neo-Neon, moving out!
+  ko: 네오-네온. 출동합니다!
+  ja: ネオ・ネオン。出動します！
+c018_Field_Touch_1:
+  en: Did you call?
+  ko: 부르셨나요!
+  ja: お呼びでしょうか！
+c018_Field_Go_1:
+  en: On to greater firepower!
+  ko: 화력의 길로!
+  ja: 火力の道へ！
+c018_Battle_Enter_1:
+  en: Finally, a place to test my firepower.
+  ko: 드디어, 제 화력을 시험할 수 있겠네요.
+  ja: ついに、私の火力を試す時が来ましたね。
+c018_Battle_Ready_1:
+  en: I'm counting on you, Master!
+  ko: 스승님, 가르침을 주세요!
+  ja: 師匠、ご指導お願いいたします！
+c018_Battle_Ready_2:
+  en: Keep your distance, okay?
+  ko: 멀리 떨어져 계세요!
+  ja: 離れていてください！
+c018_Battle_Ready_3:
+  en: Firepower, ready! Neon, ready!
+  ko: 화력, OK! 네온, OK!
+  ja: 火力、OK！ネオン、OK！
+c018_Reload_1:
+  en: Firepower! Firepower!
+  ko: 화력! 화력!
+  ja: 火力！火力！
+c018_Reload_2:
+  en: Let me adjust my glasses!
+  ko: 안경 좀 고쳐쓸게요!
+  ja: 眼鏡をかけ直しますね！
+c018_Reload_3:
+  en: There's no time to rest!
+  ko: 쉴 틈이 없다구요!
+  ja: 休んでいる暇はありませんよ！
+c018_Ult_Skill_Ready_1:
+  en: Firepower!
+  ko: 화력!
+  ja: 火力！
+c018_Ult_Skill_1:
+  en: Get ready for max firepower!
+  ko: 화력, 최대로 갑니다!
+  ja: 火力、フルスロットルで行きます！
+c018_FullBurst_1:
+  en: Fiiiiirepoweerrr!
+  ko: 화려어억-!!
+  ja: かりょくぅぅ！！
+c018_Kill_Monster_1:
+  en: That was nothing.
+  ko: 별 거 아니네요.
+  ja: 大したことないですね。
+c018_Kill_Monster_2:
+  en: Nothing beats firepower!
+  ko: 역시, 화력!
+  ja: やっぱり、火力！
+c018_Kill_Monster_3:
+  en: Next!
+  ko: 다음, 갑니다!
+  ja: 次、行きます！
+c018_Damage_1:
+  en: Agh!
+  ko: 으악!
+  ja: うおっ！
+c018_Damage_2:
+  en: Ugh...!
+  ko: 윽…!
+  ja: うっ…！
+c018_Damage_3:
+  en: Firepower...!
+  ko: 화력…!
+  ja: 火力…！
+c018_Die_1:
+  en: I'm sure I had enough firepower...
+  ko: 화력이 부족하지는 않았을 텐데요…!
+  ja: 火力は十分だったはずですが…！
+c018_Win_1:
+  en: Hehe, another victory for firepower!
+  ko: 후후, 화력의 가호가 함께 한 덕분이죠!
+  ja: ふふ。火力のご加護のおかげです！
+18_cv_ja:
+  en: 'CV: Rina Hidaka'
+  ko: 'CV : 히다카 리나'
+  ja: CV：日高里菜
+18_cv_ko:
+  en: 'CV: Jang Mi'
+  ko: 'CV : 장미'
+  ja: CV：ジャンミ
+18_cv_en:
+  en: 'CV: Xanthe Huynh'
+  ko: 'CV : 잰시 후인'
+  ja: CV：Xanthe Huynh

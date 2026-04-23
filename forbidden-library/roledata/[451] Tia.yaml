@@ -64,10 +64,10 @@ character_shot_description_localkey_rl_up:
 24512_description:
   en: |-
     ■ Activates after landing {description_value_01} normal attack(s). Affects self.
-    <color=#00AEFF><word_group=10033>Cover's Max HP</word_group> ▲ {description_value_02}% of the caster's Max HP, lasts for {description_value_03} sec.
-    Attract: Taunt all enemies for {description_value_04} sec.</color>
+    <color=#00AEFF><word_group=10033>Max HP of Cover</word_group> ▲ {description_value_02}% of the caster's Max HP for {description_value_03} sec.
+    Attract: Taunts all enemies for {description_value_04} sec.</color>
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF><word_group=10017>Recovers Cover's HP</word_group> by {description_value_05}% of caster's <word_group=10025>final</word_group> Max HP.
+    <color=#00AEFF><word_group=10017>Restores Cover HP</word_group> by {description_value_05}% of caster's <word_group=10025>final</word_group> Max HP.
     Recovers {description_value_06}% of attack damage as HP over {description_value_07} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
@@ -124,8 +124,8 @@ skill_name_1002:
     Max HP for {description_value_02} sec.</color> \n■ Affects all allies (except
     self).\n<color=#00AEFF>Generates a <word_group=10023>Shield</word_group> with
     {description_value_03}% of the caster's <word_group=10025>final</word_group> Max
-    HP for {description_value_04} sec.</color>\n■ Affects all allies.\n<color=#00AEFF><word_group=10002>Re-enter
-    Burst Skill</word_group> Stage 1.</color>"
+    HP for {description_value_04} sec.</color>\n■ Affects all allies.\n<color=#00AEFF><word_group=10002>Re-enters
+    Burst</word_group> Stage 1.</color>"
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]</color>

@@ -59,7 +59,7 @@ character_shot_description_localkey_mg_down:
   en: |-
     ■ Activates when entering battle. Affects self.
     <color=#00AEFF>Concealment: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_01} sec. This effect is removed upon taking a direct hit.</color>
-    ■ Activates when a Nikke is out of action. Affects self.
+    ■ Activates when a Nikke is incapacitated. Affects self.
     <color=#00AEFF>Frenzy: ATK ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.
     <word_group=10015>Fills Burst Gauge</word_group> by {description_value_05}%.</color>
   ko: |-
@@ -89,7 +89,7 @@ skill_name_1003:
     <color=#00AEFF>Concealment: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_02} sec. This effect is removed upon taking a direct hit.
     Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
     ■ Activates after landing {description_value_05} normal attack(s). Affects {description_value_06} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
-    <color=#00AEFF><word_group=10022>Dispels {description_value_07} buff(s)</word_group>. Activates {description_value_08} time(s) per battle.</color>
+    <color=#00AEFF><word_group=10022>Removes {description_value_07} buff(s)</word_group>. Activates {description_value_08} time(s) per battle.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
     <color=#00AEFF>[은신 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_02}초 유지]

@@ -56,7 +56,7 @@ character_shot_description_localkey_mg_down:
 20232_description:
   en: |-
     ■ Activates at the start of battle.
-    <color=#00AEFF>Effects differ according to squad formation. Activates only the corresponding effect.</color>
+    <color=#00AEFF>Effect differs according to squad formation. Only the corresponding effect is applied.</color>
     Affects self if there are no other Defender allies in the squad.
     <color=#00AEFF>Effect 1: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.
     Effect 2: Attract: Taunt all enemies continuously.</color>
@@ -65,11 +65,11 @@ character_shot_description_localkey_mg_down:
     Effect 2: Ninjutsu Injection: Recovers {description_value_07}% of attack damage as HP continuously.</color>
     ■ Activates when performing {description_value_03} normal attack(s). Affects self while in Attract status.
     <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_04}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_05} sec.</color>
-    ■ Affects self while in Ninjutsu Injection status every {description_value_08} sec.
+    ■ Affects self every {description_value_08} sec while in Ninjutsu Injection status.
     <color=#00AEFF>Ninjutsu IFAK lasts for {description_value_10} sec.
-    Function: Accumulates HP recovery during the activation duration, after which all allies are healed for the accumulated amount.
-    Effect 1: The maximum accumulated amount is equal to {description_value_09}% of the caster's <word_group=10025>final</word_group> ATK.
-    Effect 2: Once the duration ends, all allies are healed for the <word_group=10089>accumulated recovery amount</word_group>.</color>
+    Function: Stores up HP recovery for a time, after which all allies are healed for the stored amount.
+    Effect 1: The maximum amount stored is equal to {description_value_09}% of the caster's <word_group=10025>final</word_group> ATK.
+    Effect 2: Once the duration ends, all allies are healed for the <word_group=10089>stored recovery amount</word_group>.</color>
   ko: "■ 전투 시작 시\n<color=#00AEFF>[스쿼드 구성 별 효과] [해당되는 효과만 적용]</color>\n아군 중 자신을 제외한
     방어형 아군이 없다면 자신에게\n<color=#00AEFF>효과 1 : [시전자의 <word_group=10025>최종</word_group>
     최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [{description_value_02}초

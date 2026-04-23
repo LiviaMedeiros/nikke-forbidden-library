@@ -86,13 +86,13 @@ skill_name_1003:
 28601_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Charges Extrasensory to {description_value_01}% continuously, up to {description_value_02}%. This effect cannot be dispelled.</color>
+    <color=#00AEFF>Charges Extrasensory to {description_value_01}%, up to {description_value_02}%. This effect is continuous and cannot be removed.</color>
     ■ Activates while in Extrasensory status. Affects self.
     <color=#00AEFF>Effect changes according to the charge level of Extrasensory. <word_group=10028>Previous effects trigger repeatedly</word_group>.
     Only when at {description_value_02}%: Dodging Bullets: Invulnerable for {description_value_03} sec.
-    Only when above {description_value_04}%: ATK ▲ {description_value_05}% continuously. This effect cannot be dispelled.
-    Only when above {description_value_06}%: True Damage ▲ {description_value_07}% continuously. This effect cannot be dispelled.
-    Only when above {description_value_08}%: Hit Rate ▲ {description_value_09}% continuously. This effect cannot be dispelled.</color>
+    Only when above {description_value_04}%: ATK ▲ {description_value_05}%. This effect is continuous and cannot be removed.
+    Only when above {description_value_06}%: True Damage ▲ {description_value_07}%. This effect is continuous and cannot be removed.
+    Only when above {description_value_08}%: Hit Rate ▲ {description_value_09}%. This effect is continuous and cannot be removed.</color>
     ■ Affects self every {description_value_10} sec.
     <color=#00AEFF>Extrasensory ▼ {description_value_11}%.</color>
   ko: |-

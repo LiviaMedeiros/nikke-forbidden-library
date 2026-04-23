@@ -25,8 +25,8 @@
     ko: 마음의 버팀목
     ja: メンタルサポート
   description:
-    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
-      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
+      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -65,8 +65,8 @@
     ko: 마음의 버팀목
     ja: メンタルサポート
   description:
-    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
-      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
+      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -105,8 +105,8 @@
     ko: 마음의 버팀목
     ja: メンタルサポート
   description:
-    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
-      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
+      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -146,8 +146,8 @@
     ko: 마음의 버팀목
     ja: メンタルサポート
   description:
-    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
-      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
+      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -187,8 +187,8 @@
     ko: 마음의 버팀목
     ja: メンタルサポート
   description:
-    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
-      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
+      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -227,8 +227,8 @@
     ko: 마음의 버팀목
     ja: メンタルサポート
   description:
-    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Cover's
-      Max HP</word_group> ▲ {description_value_02}%.</color>"
+    en: "■ Activates at the start of the battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
+      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -356,7 +356,7 @@
       <color=#00AEFF>Vamp: <word_group=10004>Prevents being targeted by single-target attacks</word_group> continuously. This effect is removed upon taking a direct hit.
       Invulnerable for {description_value_02} sec.</color>
       ■ Activates when using Burst Skill. Affects all allies.
-      <color=#00AEFF><word_group=10002>Re-enter Burst Skill </word_group>Stage 2.</color>
+      <color=#00AEFF><word_group=10002>Re-enters Burst</word_group> Stage 2.</color>
     ko: |-
       ■ 자신에게
       <color=#00AEFF>[명중률 {description_value_01}% ▲] [지속]</color>

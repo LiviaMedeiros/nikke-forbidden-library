@@ -67,10 +67,10 @@ character_shot_description_localkey_rl_up:
   en: |-
     ■ Activates after landing {description_value_02} normal attack(s) without Full Charge. Affects all allies not in Reliable Cooking status.
     <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_03}% of the caster's DEF for {description_value_04} sec.
-    <word_group=10005>Dispels 1 debuff</word_group>.</color>
+    <word_group=10005>Removes 1 debuff</word_group>.</color>
     ■ Activates after maintaining {description_value_06} Full Charge status for more than {description_value_05} sec. Affects all allies not in Reliable Cooking status.
     <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_07}% of the caster's DEF for {description_value_08} sec.
-    <word_group=10005>Dispels 1 debuff</word_group>.</color>
+    <word_group=10005>Removes 1 debuff</word_group>.</color>
     ■ Activates when entering Full Burst. Affects all allies in Maillard or Blanching status.
     <color=#00AEFF>ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.</color>
   ko: |-

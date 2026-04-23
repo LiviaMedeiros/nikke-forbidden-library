@@ -108,8 +108,8 @@ skill_name_1003:
   en: |-
     ■ Activates when using Burst Skill. Affects self.
     <color=#00AEFF>Camouflage: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_01} sec. This effect is removed upon taking a direct hit.</color>
-    ■ Activates when performing Full Charge attacks. Affects self when entering Full Burst.
-    <color=#00AEFF>Camouflage: <word_group=10004>Prevents self from being the target of single-target attacks</word_group> for {description_value_01} sec. This effect is removed upon taking a direct hit.</color>
+    ■ Activates when attacking with Full Charge during Full Burst. Affects self.
+    <color=#00AEFF>Camouflage: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_01} sec. This effect is removed upon taking a direct hit.</color>
     ■ Activates only when in Camouflage status. Affects self.
     <color=#00AEFF>Normal attacks deal true damage continuously.
     True Damage ▲ {description_value_02}% continuously.</color>
