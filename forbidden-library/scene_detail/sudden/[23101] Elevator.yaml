@@ -4310,3 +4310,602 @@ d_ex_elevator_08:
     en: I receive heartbroken messages from Label.
     ko: 밤새도록 한탄하는 레이블의 연락을 받았다.
     ja: 愚痴をこぼす彼女から、夜通し連絡が来た
+d_ex_elevator_09:
+  d_ex_elevator_09_01:
+    speaker: "<Monologue>"
+    en: My session with Mint is over,
+    ko: 때는 민트와의 상담이 끝난 후.
+    ja: ミントとの面談を終え、
+  d_ex_elevator_09_02:
+    speaker: "<Monologue>"
+    en: and now we're waiting for the elevator to head to the Ark.
+    ko: 같이 방주로 가는 엘리베이터를 기다리는 중.
+    ja: |-
+      アークに向かうエレベーターを
+      一緒に待っている
+  d_ex_elevator_09_03:
+    speaker: mint
+    en: "... No one's around, right?"
+    ko: "…아무도 없죠?"
+    ja: "…誰もいませんよね？"
+  d_ex_elevator_09_04:
+    speaker: mint
+    en: Hurry, get in.
+    ko: 빨리 타요.
+    ja: 早く乗りましょう。
+  d_ex_elevator_09_05:
+    speaker: "<Self>"
+    en: Mint, you know...
+    ko: 민트, 있잖아.
+    ja: ミント
+  d_ex_elevator_09_06:
+    speaker: mint
+    en: Yes?
+    ko: 네?
+    ja: はい？
+  d_ex_elevator_09_07:
+    speaker: "<Self>"
+    en: You can take your mask off. We're in the Outpost, after all.
+    ko: |-
+      마스크 정돈 벗고 있어도 되는 거 아냐?
+      여기 전초기지잖아.
+    ja: |-
+      ここは前哨基地だ。
+      マスクは外しても大丈夫じゃないか？
+  d_ex_elevator_09_08:
+    speaker: mint
+    en: I overslept today, so I had to do my makeup in a rush.
+    ko: 오늘 늦잠 자서 메이크업을 대충 하고 왔단 말이에요.
+    ja: |-
+      今日、寝坊してしまって。
+      メイクが適当なんです。
+  d_ex_elevator_09_09:
+    speaker: mint
+    en: You never know who you might run into in the elevator, so I have to be careful.
+    ko: 엘리베이터에서 누구를 마주치게 될지도 모르는데, 조심해야죠.
+    ja: |-
+      誰に会うか分からないし、
+      気をつけないと。
+  d_ex_elevator_09_10:
+    speaker: mint
+    en: I always want my fans to see me at my very best, so please understand.
+    ko: |-
+      팬들에게 가장 빛나는 모습만 보여주고 싶은 게
+      제 마음이니까, 이해 좀 해주세요.
+    ja: |-
+      ファンのみんなには
+      一番輝いてる姿だけを見てほしいっていう
+      私の気持ち、分かってください。
+  d_ex_elevator_09_11:
+    speaker: "<Self>"
+    en: "... If you say so."
+    ko: "…알겠어."
+    ja: "…分かった"
+  d_ex_elevator_09_12:
+    speaker: "<Monologue>"
+    en: We step into the elevator.
+    ko: 그렇게 우리는 엘리베이터에 탔다.
+    ja: |-
+      こうして、私たちは
+      エレベーターに乗り込んだ
+  d_ex_elevator_09_13:
+    speaker: "<Monologue>"
+    en: Just as the doors are about to close...
+    ko: 문이 닫히려는 찰나-
+    ja: ドアが閉まりかけた、その瞬間…
+  d_ex_elevator_09_14:
+    speaker: unknown
+    en: W-wait up...!
+    ko: 자, 잠시만요…!
+    ja: ま、待って～！！
+  d_ex_elevator_09_15:
+    speaker: "<Narration>"
+    en: With a soft whirr, the elevator doors slide shut.
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_elevator_09_16:
+    speaker: ein
+    en: Whew... Made it in time...
+    ko: 휴~ 세이프 세이프~
+    ja: ふぅ～、間に合った。セ～フ。
+  d_ex_elevator_09_17:
+    speaker: mint
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_elevator_09_18:
+    speaker: "<Monologue>"
+    en: Mint quickly ducks behind me.
+    ko: 민트는 급하게 내 뒤로 몸을 숨겼다.
+    ja: ミントはあわてて私の背後に隠れた
+  d_ex_elevator_09_19:
+    speaker: "<Self>"
+    en: Ein?
+    ko: 아인?
+    ja: アイン？
+  d_ex_elevator_09_20:
+    speaker: ein
+    en: Oh, Teacher, you heading to the Ark too?
+    ko: 어, 쌤도 방주 가는 길이에요?
+    ja: あれっ、先生もアークに行くところなんですか？
+  d_ex_elevator_09_21:
+    speaker: ein
+    en: Heh, sweet. C'mon, let's go together!
+    ko: 헤헤, 잘됐네요. 그럼 같이 가요!
+    ja: |-
+      へへっ、ちょうどよかった。
+      じゃ、一緒に行きましょ！
+  d_ex_elevator_09_22:
+    speaker: "<Narration>"
+    en: The elevator jolts lightly.
+    ko: 덜컹-
+    ja: ガタン…
+  d_ex_elevator_09_23:
+    speaker: "<Monologue>"
+    en: Ein has her headphones in, watching something on her device.
+    ko: 아인은 이어폰을 꽂은 채, 어떤 영상을 보고 있다.
+    ja: |-
+      アインは、イヤホンをつけたまま
+      何かの動画を観ている
+  d_ex_elevator_09_24:
+    speaker: "<Monologue>"
+    en: On the screen, a familiar face is signing autographs for a crowd.
+    ko: 익숙한 누군가가 사람들에게 사인을 해주고 있는 모습.
+    ja: |-
+      見慣れた誰かが
+      ファンにサインをしている動画だ
+  d_ex_elevator_09_25:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_09_26:
+    speaker: ein
+    en: What's up, Teacher?
+    ko: 뭐예요, 쌤.
+    ja: 何ですか、先生。
+  d_ex_elevator_09_27:
+    speaker: ein
+    en: You a fan too?
+    ko: 쌤도 혹시 좋아해요?
+    ja: もしかして、先生も好きだったりします？
+  d_ex_elevator_09_28:
+    speaker: "<Self>"
+    en: Whose fan?
+    ko: 뭐를?
+    ja: 何をだ？
+  d_ex_elevator_09_29:
+    speaker: ein
+    en: T.T. STAR, obviously.
+    ko: 뭐긴 뭐예요.
+    ja: 何って、決まってるじゃないですか。
+  d_ex_elevator_09_30:
+    speaker: ein
+    en: They're the hottest group in the Ark right now.
+    ko: 지금 방주에서 가장 핫한 아이돌인 T.T. STAR죠!
+    ja: |-
+      今、アークで一番バズってるアイドルの
+      T.T. STARですよ！
+  d_ex_elevator_09_31:
+    speaker: ein
+    en: Oh right, you work with Anis, so you probably already know them.
+    ko: 앗, 그러고 보니 쌤도 아시겠네요? 아니스랑 같이 일하시잖아요.
+    ja: |-
+      あっ、当然先生も知ってますよね？
+      アニスさんと同じグループだった
+      じゃないですか。
+  d_ex_elevator_09_32:
+    speaker: "<Self>"
+    en: Yeah, that's right.
+    ko: 응, 그렇지.
+    ja: ああ
+  d_ex_elevator_09_33:
+    speaker: ein
+    en: Knew it! Then have you seen this clip? I've been watching it nonstop lately.
+    ko: |-
+      오오, 역시! 그럼 혹시 이것도 보셨어요?
+      제가 요새 맨날 보는 영상이거든요.
+    ja: |-
+      おおっ、さっすが～！
+      じゃあ、これも観ましたか？
+      私が最近ハマってる動画なんですけど。
+  d_ex_elevator_09_34:
+    speaker: ein
+    en: Seriously, this totally blew my mind.
+    ko: 저, 이거 보고 깜짝 놀랐잖아요.
+    ja: これ観て、マジでビックリしましたよ。
+  d_ex_elevator_09_35:
+    speaker: "<Self>"
+    en: Isn't that Mint giving autographs?
+    ko: 민트잖아? 사인해 주고 있네.
+    ja: |-
+      ミントじゃないか？
+      サインをしているな
+  d_ex_elevator_09_36:
+    speaker: ein
+    en: Yep!
+    ko: 네, 맞아요!
+    ja: そうなんですよ！
+  d_ex_elevator_09_37:
+    speaker: ein
+    en: They say she signed for every single fan who was waiting.
+    ko: 기다리던 팬들에게 한 명도 빠짐없이 전부 해줬대요.
+    ja: |-
+      待っていたファン全員に
+      一人残らずサインしてあげたんですって。
+  d_ex_elevator_09_38:
+    speaker: ein
+    en: I mean, signing for one or two people up front is one thing, but doing it
+      for everyone? That's seriously insane.
+    ko: 앞에 있는 한두 명이면 몰라도, 다 해주는 건 대박이긴 한듯요.
+    ja: |-
+      目の前の数人ならともかく、
+      全員に書いてあげるなんて、最高すぎますよね。
+  d_ex_elevator_09_39:
+    speaker: ein
+    en: I was nearby that day too, so kinda wish I'd joined the line.
+    ko: 저도 이때 근처에 있었는데, 슬쩍 껴볼 걸 그랬어요.
+    ja: |-
+      この時、私も近くにいたんですけど、
+      こっそり紛れ込めばよかったな～
+  d_ex_elevator_09_40:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_09_41:
+    speaker: ein
+    en: Anyway, I heard there's gonna be a T.T. STAR merch shop on Royal Road today,
+    ko: 그래서, 아쉬움도 달랠 겸.
+    ja: で、その時の心残りを晴らすためにも、
+  d_ex_elevator_09_42:
+    speaker: ein
+    en: so I figured I'd swing by to make up for missing out.
+    ko: 오늘 로열 로드에서 T.T. STAR 굿즈 샵을 연다길래 들러보려고요.
+    ja: |-
+      今日、ロイヤルロードでT.T. STARの
+      グッズショップがオープンするって聞いたから、
+      行ってみようと思って。
+  d_ex_elevator_09_43:
+    speaker: ein
+    en: And just in case I run into Mint, I brought something for her to sign, too.
+    ko: |-
+      혹시 또 우연히 민트를 근처에서 볼 수도 있으니까,
+      사인지도 챙겼어요!
+    ja: |-
+      ひょっとしたら、また近くで
+      偶然ミントに会えるかもしれないから
+      サイン色紙も持ってきたんですよ！
+  d_ex_elevator_09_44:
+    speaker: "<Monologue>"
+    en: Ein pulls out the paper she brought to get signed, her face glowing with excitement.
+    ko: 아인은 기대 가득한 얼굴로 챙겨온 사인지를 꺼내 들었다.
+    ja: |-
+      アインは、期待に満ちた表情で
+      サイン色紙を取り出した
+  d_ex_elevator_09_45:
+    speaker: mint
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_09_46:
+    speaker: mint
+    en: Excuse me.
+    ko: 저기요.
+    ja: すみません。
+  d_ex_elevator_09_47:
+    speaker: ein
+    en: Gah! Y-you scared the hell outta me!
+    ko: 우왓! 까, 깜짝이야!
+    ja: うわあっ！ビ、ビックリした！
+  d_ex_elevator_09_48:
+    speaker: ein
+    en: Wh-who are you?
+    ko: 누, 누구세요?
+    ja: ど、どちら様ですか？
+  d_ex_elevator_09_49:
+    speaker: ein
+    en: Are you Teacher's newly assigned Nikke or something...?
+    ko: 쌤의 새로운 담당 니케…?
+    ja: 先生に配属された新しいニケ…？
+  d_ex_elevator_09_50:
+    speaker: mint
+    en: Well, that's not entirely wrong, so let's go with that.
+    ko: 뭐, 틀린 말은 아니니까 그런 거로 치죠.
+    ja: |-
+      まあ、間違ってはいないので、
+      そういうことにしておきましょう。
+  d_ex_elevator_09_51:
+    speaker: ein
+    en: Hang on, your voice sounds really familiar...
+    ko: 어, 잠시만요. 뭔가 목소리가 익숙한데….
+    ja: |-
+      えっ、ちょっと待って。
+      どっかで聞いたことある声なんですけど…
+  d_ex_elevator_09_52:
+    speaker: ein
+    en: Where've I heard it before...?
+    ko: 어디서 들어봤지…?
+    ja: どこで聞いたんだろ…？
+  d_ex_elevator_09_53:
+    speaker: "<Self>"
+    en: "... Probably just your imagination."
+    ko: "…아마 기분 탓 아닐까."
+    ja: "…気のせいだろう"
+  d_ex_elevator_09_54:
+    speaker: ein
+    en: Y-yeah, I guess...?
+    ko: 그, 그렇겠죠…?
+    ja: そ、そうですよね…？
+  d_ex_elevator_09_55:
+    speaker: mint
+    en: So you're a fan of Mint from T.T. STAR, right?
+    ko: T.T. STAR의 민트를 좋아하신다 하셨죠.
+    ja: T.T. STARのミントがお好きなんですよね。
+  d_ex_elevator_09_56:
+    speaker: mint
+    en: What is it about her that you like?
+    ko: 구체적으로 어떤 부분이 좋나요?
+    ja: 具体的に、どういうところが好きなんですか？
+  d_ex_elevator_09_57:
+    speaker: mint
+    en: Her looks? Her stage presence...? There are all kinds of reasons people are
+      drawn to her.
+    ko: 비주얼이라던가 무대 실력이라던가… 여러 부분이 있잖아요.
+    ja: |-
+      ビジュアルとかステージパフォーマンスとか…
+      いろんな魅力があるじゃないですか。
+  d_ex_elevator_09_58:
+    speaker: ein
+    en: Hmm... I dunno, it's more than that...
+    ko: 글쎄요. 아무래도 그런 것보다는… 으으음….
+    ja: |-
+      そうですね。そういうところよりも
+      やっぱり…ええっと…
+  d_ex_elevator_09_59:
+    speaker: ein
+    en: Maybe it's the way she really loves her fans?
+    ko: 팬들을 사랑해 주는 모습?
+    ja: ファンを愛してくれるところかな？
+  d_ex_elevator_09_60:
+    speaker: ein
+    en: Don't you think so too, Teacher?
+    ko: 쌤도 그렇게 생각하지 않으세요?
+    ja: 先生もそう思いません？
+  d_ex_elevator_09_61:
+    speaker: "<Self>"
+    en: Yeah, that's true.
+    ko: 으응, 맞는 말이지.
+    ja: ああ、その通りだ
+  d_ex_elevator_09_62:
+    speaker: mint
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_09_63:
+    speaker: mint
+    en: Could you hand me that paper?
+    ko: 그 종이, 이리 줘 보시겠어요?
+    ja: その色紙、ちょっといいですか？
+  d_ex_elevator_09_64:
+    speaker: "<Self>"
+    en: "!"
+    ko: "!"
+    ja: "！"
+  d_ex_elevator_09_65:
+    speaker: ein
+    en: Huh? How come?
+    ko: 에엥? 갑자기요?
+    ja: ええっ？きゅ、急にどうして…？
+  d_ex_elevator_09_66:
+    speaker: mint
+    en: Trust me, you won't regret it.
+    ko: 분명 후회하지 않을 거예요.
+    ja: 絶対に後悔させませんから。
+  d_ex_elevator_09_67:
+    speaker: ein
+    en: Uh...
+    ko: 어….
+    ja: えっ…
+  d_ex_elevator_09_68:
+    speaker: ein
+    en: Well, I've got another one, so it's okay... Here.
+    ko: 뭐, 한 장 더 있으니까 상관없긴 한데… 자, 여기요.
+    ja: |-
+      まあ、もう1枚あるので別にいいですけど…
+      はい、どうぞ。
+  d_ex_elevator_09_69:
+    speaker: "<Monologue>"
+    en: Mint takes the sheet of paper and signs her name with practiced ease.
+    ko: 아인의 사인지를 받아 든 민트는 능숙하게 사인을 시작했다.
+    ja: |-
+      ミントはサイン色紙を受け取り、
+      慣れた手つきでサインをし始めた
+  d_ex_elevator_09_70:
+    speaker: "<Narration>"
+    en: The pen scratches softly against the paper.
+    ko: 슥- 스윽- 슥-
+    ja: サラ…サラ…サラ…
+  d_ex_elevator_09_71:
+    speaker: ein
+    en: "??"
+    ko: "???"
+    ja: "？？？"
+  d_ex_elevator_09_72:
+    speaker: ein
+    en: I can't really see from here, Teacher.
+    ko: 쌤, 저 잘 안 보이는데.
+    ja: 先生、よく見えないんですけど、
+  d_ex_elevator_09_73:
+    speaker: ein
+    en: What's... she doing right now?
+    ko: 저분… 지금 뭐 하고 계신 거예요?
+    ja: そこの人…いま何してるんですか？
+  d_ex_elevator_09_74:
+    speaker: "<Self>"
+    en: Well...
+    ko: 그게 말이지….
+    ja: ええと…
+  d_ex_elevator_09_75:
+    speaker: "<Narration>"
+    en: The elevator jolts lightly.
+    ko: 덜컹-
+    ja: ガタン…
+  d_ex_elevator_09_76:
+    speaker: mint
+    en: Looks like we made it just in time.
+    ko: 아, 딱 타이밍 좋게 도착했네요.
+    ja: あ、ちょうどいいタイミングで着きましたね。
+  d_ex_elevator_09_77:
+    speaker: mint
+    en: Here you go.
+    ko: 자, 여기요.
+    ja: はい、どうぞ。
+  d_ex_elevator_09_78:
+    speaker: "<Monologue>"
+    en: Mint hands the signed paper back.
+    ko: 민트가 사인이 끝난 종이를 다시 돌려준다.
+    ja: |-
+      ミントはサインを書き終え、
+      色紙をアインに返した
+  d_ex_elevator_09_79:
+    speaker: "<Monologue>"
+    en: Beneath the signature, Ein's name is written along with a small heart.
+    ko: 사인 밑에는 아인의 이름과 하트가 그려져 있다.
+    ja: |-
+      サインの下にはアインの名前と
+      ハートが描かれていた
+  d_ex_elevator_09_80:
+    speaker: ein
+    en: H-huh? Wait, isn't this Mint's signature...?
+    ko: 어, 어라? 이건 민트의 사인인데…?
+    ja: えっ、あれ？これって、ミントのサインじゃ…？
+  d_ex_elevator_09_81:
+    speaker: mint
+    en: Hehe, I was planning to stop by the event for a bit.
+    ko: 헤헤, 이따 시간이 맞으면 만날 수도 있겠네요.
+    ja: |-
+      ふふっ。あとでタイミングが合えば、
+      会えるかもしれませんね。
+  d_ex_elevator_09_82:
+    speaker: mint
+    en: So maybe we'll run into each other again later.
+    ko: 저도 이벤트 차원에서 잠시 들리려고 했으니까요.
+    ja: 私もちょっと立ち寄ってみるつもりだったので。
+  d_ex_elevator_09_83:
+    speaker: ein
+    en: Wait... what?
+    ko: 으잉…?
+    ja: ふええっ…！？
+  d_ex_elevator_09_84:
+    speaker: ein
+    en: D-does that mean... you're...?
+    ko: 그, 그 말은 즉… 제 앞에 서 있는 분이….
+    ja: |-
+      そ、それって、つまり…
+      いま私の隣に立ってる人って…
+  d_ex_elevator_09_85:
+    speaker: "<Monologue>"
+    en: Mint lowers her mask.
+    ko: 민트가 마스크를 내렸다.
+    ja: ミントがマスクをそっと下ろした
+  d_ex_elevator_09_86:
+    speaker: mint
+    en: Yes, that's right. I'm Mint.
+    ko: 네~ 맞아요. 제가 민트랍니다~
+    ja: は～い、その通りです。ミントで～す。
+  d_ex_elevator_09_87:
+    speaker: mint
+    en: Hehe, thanks for all the love, Ein.
+    ko: 헤헤, 사랑해 줘서 고마워요, 아인.
+    ja: |-
+      ふふっ、応援してくれて
+      ありがとうございます、アイン。
+  d_ex_elevator_09_88:
+    speaker: ein
+    en: "!!"
+    ko: "!!!"
+    ja: "！！！"
+  d_ex_elevator_09_89:
+    speaker: mint
+    en: Well, this busy pop star has to get going now. I'll see you later, okay?
+    ko: |-
+      그럼, 프로 아이돌은 바쁘기 때문에 먼저 가볼게요.
+      이따 만나요, 알겠죠?
+    ja: |-
+      それじゃ、アイドルは忙しいので
+      お先に失礼します。
+      あとで会いましょう、ね？
+  d_ex_elevator_09_90:
+    speaker: ein
+    en: T-Teacher... th-this isn't a dream, right?
+    ko: 쌔, 쌤… 이, 이거… 꿈은 아니겠죠?
+    ja: せ、先生…こ、これって…夢じゃないですよね？
+  d_ex_elevator_09_91:
+    speaker: ein
+    en: Was I really with Mint just now?
+    ko: 방금까지 저 민트랑 같이 있었던 거예요?
+    ja: |-
+      さっきまで私、
+      ミントと一緒にいたってことですか？
+  d_ex_elevator_09_92:
+    speaker: ein
+    en: I got her autograph, we actually talked... and she even remembered my name?
+    ko: 사인도 받고 대화도 하고… 이름도 기억해 주고?
+    ja: |-
+      サインももらって、話もして…
+      名前も覚えてくれた…？
+  d_ex_elevator_09_93:
+    speaker: "<Self>"
+    en: "... Yep."
+    ko: "…그렇지?"
+    ja: "…そういうことだな"
+  d_ex_elevator_09_94:
+    speaker: ein
+    en: Can you pinch my cheek real quick?
+    ko: 저 뺨 좀 꼬집어주실 수 있나요.
+    ja: 私の頬、つねってくれません？
+  d_ex_elevator_09_95:
+    speaker: "<Self>"
+    en: "... You sure about that?"
+    ko: "…괜찮겠어?"
+    ja: "…いいのか？"
+  d_ex_elevator_09_96:
+    speaker: ein
+    en: Y-yeah, hurry up!
+    ko: 네, 네! 빠, 빨리요!
+    ja: お、お願いします！は、早く！
+  d_ex_elevator_09_97:
+    speaker: "<Narration>"
+    en: I pinch Ein's cheek.
+    ko: 주우욱-
+    ja: ギュウッ…
+  d_ex_elevator_09_98:
+    speaker: ein
+    en: Ow! Okay, yeah, that hurt!
+    ko: 으아아아- 아, 아파앗-!
+    ja: ううっ。い、いったあー！
+  d_ex_elevator_09_99:
+    speaker: ein
+    en: Hehe, so I'm not dreaming after all!
+    ko: 크흐~ 진짜 꿈이 아니구나!
+    ja: キャァ～！ホントに、夢じゃないんだ！
+  d_ex_elevator_09_100:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_09_101:
+    speaker: "<Monologue>"
+    en: After that, Ein gets the chance to meet Mint one more time,
+    ko: 그렇게 아인은 이후 민트를 한 번 더 만날 수 있었고.
+    ja: |-
+      この後、アインは
+      もう一度ミントに会うことができ
+  d_ex_elevator_09_102:
+    speaker: "<Monologue>"
+    en: giving her an unforgettable memory to brag about to her friends back at school.
+    ko: 학교 친구들에게 잊을 수 없는 추억을 자랑할 수 있었다고 한다.
+    ja: |-
+      学校の友だちに忘れられない
+      思い出を自慢できたそうだ

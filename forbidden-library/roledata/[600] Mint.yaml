@@ -1,0 +1,813 @@
+---
+600_name:
+  en: Mint
+  ko: 민트
+  ja: ミント
+c600_description:
+  en: |-
+    The leader of T.T. STAR (Twinkle Twin Star). As one of the Ark's top pop stars, she is currently enjoying a surge in popularity.
+    Having realized early on that singing and dancing alone are not enough to succeed as a pop star, she has made it a point to frequently appear on different variety shows. While she may seem fragile, she actually possesses a solid sense of self-love and great mental fortitude.
+  ko: |-
+    T.T. STAR(Twinkle Twin Star)의 리더로, 한창 많은 인기를 얻고 있는 방주의 대표 아이돌.
+    춤과 노래만으로 아이돌로서 성공하기 부족하다는 것을 일찍이 깨달아, 다양한 예능 프로에 꾸준히 얼굴을 비치고 있다.
+    유약해 보이는 외형과 달리 강한 자기애를 바탕으로 단단한 멘탈을 소유하고 있다.
+  ja: |-
+    T.T. STAR（Twinkle Twin Star）のリーダーで、
+    絶大な人気を誇るアークを代表するアイドル。
+    ダンスと歌だけでアイドルとして成功するには限界があると
+    早い段階で気づき、さまざまなバラエティ番組へ
+    地道に出演している。
+    温和そうな見た目とは裏腹に、高い自己肯定感に裏付けられた
+    ブレないメンタルの持ち主。
+600_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_600:
+  en: Mint's Spare Body
+  ko: 민트 스페어 바디
+  ja: ミントのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+26002_name:
+  en: Fantastic Performance!
+  ko: 멋진 무대였어요!
+  ja: 素敵なステージでした！
+26002_description:
+  en: |-
+    ■ Activates when entering Burst Stage 3 while not in Sing Along status. Affects self.
+    <color=#00AEFF><word_group=10101>Cancels</word_group> <word_group=10102>Assigned Part</word_group>: Singing.</color>
+    <color=#00AEFF><word_group=10101>Cancels</word_group> <word_group=10102>Assigned Part</word_group>: Dancing.</color>
+    ■ Activates when entering Burst Stage 3 while in <word_group=10102>Assigned Part</word_group>: Singing status. Affects all allies.
+    <color=#00AEFF>Critical Rate ▲ {description_value_01}% for {description_value_02} sec.
+    <word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.
+    <word_group=10042>Pierce Damage</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 버스트 3단계 진입 시 자신이 떼창 상태가 아니라면 자신에게
+    <color=#00AEFF>[<word_group=10102>무대 파트</word_group> : 보컬 <word_group=10101>삭제</word_group>]</color>
+    <color=#00AEFF>[<word_group=10102>무대 파트</word_group> : 댄스 <word_group=10101>삭제</word_group>]</color>
+    ■ 버스트 3단계 진입 시 자신이 <word_group=10102>무대 파트</word_group> : 보컬 상태라면 아군 전체에게
+    <color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [<word_group=10066>발사체 폭발 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]
+    [<word_group=10042>관통 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■バースト3段階突入時、自分が
+    シンガロング状態でなければ自分に
+    <color=#00AEFF>「<word_group=10102>ステージパート</word_group>：ボーカル<word_group=10101>消去</word_group>」</color>
+    <color=#00AEFF>「<word_group=10102>ステージパート</word_group>：ダンス<word_group=10101>消去</word_group>」</color>
+    ■バースト3段階突入時、自分が
+    <word_group=10102>ステージパート</word_group>：ボーカル状態なら、
+    味方全体に
+    <color=#00AEFF>「クリティカル確率{description_value_01}％▲」「{description_value_02}秒間維持」
+    「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」
+    「<word_group=10042>貫通ダメージ</word_group>{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+26001_name:
+  en: Here I Go!
+  ko: 노래, 시작할게요!
+  ja: ミュージック、スタート！
+26001_description:
+  en: |-
+    ■ Activates when attacking with Full Charge while in <word_group=10102>Assigned Part</word_group>: Singing status. Affects all allies.
+    <color=#00AEFF>Singing Effect: ATK ▲ {description_value_01}% of the caster's ATK for {description_value_02} sec.</color>
+
+    ■ Activates when attacking with Full Charge while in <word_group=10102>Assigned Part</word_group>: Dancing status. Affects all allies.
+    <color=#00AEFF>Dancing Effect: Constantly recovers {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 자신이 <word_group=10102>무대 파트</word_group> : 보컬 상태라면 아군 전체에게
+    <color=#00AEFF>[보컬 효과 : 시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 차지 공격 시 자신이 <word_group=10102>무대 파트</word_group> : 댄스 상태라면 아군 전체에게
+    <color=#00AEFF>[댄스 효과 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 지속 회복] [1초 간격] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、自分が<word_group=10102>ステージパート</word_group>：ボーカル状態なら、
+    味方全体に
+    <color=#00AEFF>「ボーカルエフェクト：スキル発動者基準で攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルチャージして攻撃した時、自分が<word_group=10102>ステージパート</word_group>：ダンス状態なら、
+    味方全体に
+    <color=#00AEFF>「ダンスエフェクト：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％持続回復」
+    「1秒間隔」「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+16003_name:
+  en: Let's Sing Together!
+  ko: 다 함께 불러주세요!
+  ja: みんな一緒に～！
+16003_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Only one <word_group=10102>Assigned Part</word_group> is applied according to Mint's current status.</color>
+    Status 1: If in the <word_group=10102>Assigned Part</word_group>: Dancing status, Mint gains <word_group=10102>Assigned Part</word_group>: Singing. This effect is continuous and cannot be removed.
+    Status 2: If not in the <word_group=10102>Assigned Part</word_group>: Dancing status, Mint gains <word_group=10102>Assigned Part</word_group>: Dancing. This effect is continuous and cannot be removed.
+    ■ Affects all allies.
+    <color=#00AEFF>Sing Along: Attack Damage ▲ {description_value_01}% for {description_value_02} sec.
+    Max Ammunition Capacity ▲ {description_value_03}% for {description_value_04} sec.
+    Critical Damage ▲ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[상태에 맞는 <word_group=10102>무대 파트</word_group>만 적용]
+    상태 1 : 자신이 <word_group=10102>무대 파트</word_group> : 댄스 상태라면 [<word_group=10102>무대 파트</word_group> : 보컬] [지속] [해제 불가]
+    상태 2 : 자신이 <word_group=10102>무대 파트</word_group> : 댄스 상태가 아니라면 [<word_group=10102>무대 파트</word_group> : 댄스] [지속] [해제 불가]</color>
+    ■ 아군 전체에게
+    <color=#00AEFF>[떼창 : 공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [최대 장탄 수 {description_value_03}% ▲] [{description_value_04}초 유지]
+    [크리티컬 대미지 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「条件に合う<word_group=10102>ステージパート</word_group>のみ適用」
+    条件1：自分が<word_group=10102>ステージパート</word_group>：ダンス状態なら、
+    「<word_group=10102>ステージパート</word_group>：ボーカル」「持続」「解除不可」
+    条件2：自分が<word_group=10102>ステージパート</word_group>：ダンス状態でなければ
+    「<word_group=10102>ステージパート</word_group>：ダンス」「持続」「解除不可」</color>
+    ■味方全体に
+    <color=#00AEFF>「シンガロング：攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「最大装弾数{description_value_03}％▲」「{description_value_04}秒間維持」
+    「クリティカルダメージ{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c600_Lobby_Touch_1:
+  en: What pose would you like me to do? Something cutesy? Maybe a heart? It's the
+    least I can do after you waited for so long.
+  ko: |-
+    어떤 포즈 해드릴까요? 볼콕? 하트?
+    기다려줬는데, 이 정도는 해드려야죠~
+  ja: |-
+    どんなポーズがいいですか？
+    ほっぺをツン？それともハート？
+    待っててもらった分、サービスしちゃいますよ～
+c600_Lobby_Touch_2:
+  en: I appreciate you coming again today! Make sure to cheer extra loud during our
+    performance later, okay?
+  ko: |-
+    오늘도 와줘서 고마워요~
+    이따 무대에서도 함성 많이 부탁해요!
+  ja: |-
+    今日は来てくれてありがとうございます！
+    このあとのステージも、たくさん盛り上がっていきましょう！
+c600_Lobby_Touch_3:
+  en: Be sure to share that video you took on all your socials!
+  ko: 방금 찍은 직캠, SNS에 많이 올려주세요~
+  ja: いま撮った動画、ぜひSNSにアップしてくださいね～！
+c600_Lobby_Touch_Love_1:
+  en: How'd I look on stage? Pretty? Yeah, I know. Hehe!
+  ko: |-
+    저 오늘 무대 어땠어요? 예뻤죠?
+    흐흐~ 저도 알아요.
+  ja: |-
+    今日のステージの私、どうでしたか？
+    …え？かわいかった？ふふっ、知ってます。
+c600_Lobby_Touch_Love_2:
+  en: Did you get the invitation I sent? You've got the best seat in the house, so
+    you have to come.
+  ko: |-
+    초대권 보냈는데, 받으셨죠?
+    진짜, 제일 좋은 자리로 드렸으니까, 꼭 오셔야 해요.
+  ja: |-
+    ステージへの招待状、見てくださいましたか？
+    一番いい席を用意してるので、ぜ～ったいに、来てくださいね？
+c600_Lobby_Touch_Love_3:
+  en: I went with a kitty pose for today's finisher. Did it remind you of anything,
+    Kitten?
+  ko: |-
+    오늘 엔딩 포즈는, 고양이 포즈였어요.
+    뭔가 익숙하지 않나요? 아기 고양이 씨?
+  ja: |-
+    今日の最後の決めポーズは、
+    ネコちゃんをイメージしてみました。
+    …見覚えありませんか？子ネコさん？
+c600_Lobby_Stay_1:
+  en: Where are you hiding, Kitten? I have to head out soon for my next gig.
+  ko: |-
+    아기 고양이 씨~ 어디 숨으셨어요?
+    저 슬슬 다음 스케줄 가야 해요.
+  ja: |-
+    子ネコさ～ん、どこに隠れてるんですか？
+    私、そろそろ次のスケジュールがあるのに…
+c600_Lobby_Stay_Love_1:
+  en: You set up a one-on-one meeting and then leave me hanging? What kind of a fan
+    does that, Kitten? Honestly.
+  ko: |-
+    1 대 1 팬미팅에서, 아이돌을 기다리게 하다니.
+    이런 팬이 어디 있어요, 진짜.
+  ja: |-
+    1対1のファンミーティングでアイドルを待たせるなんて…
+    こんなファンは初めてですよ、もう。
+c600_Outpost_Touch_1:
+  en: It's so refreshing that I don't have to go all incognito when I'm out here.
+    Want to take a little walk together?
+  ko: |-
+    여기서는 모자랑 마스크 안 쓰고 다녀도 돼서 좋네요.
+    같이 좀 걸으실래요?
+  ja: |-
+    ここは帽子とマスクなしで 歩けるのが嬉しいです。
+    ねぇ、一緒に少し歩きませんか？
+c600_Outpost_Touch_2:
+  en: It might be nice to hold a mini concert here sometime.
+  ko: 여기서 미니 콘서트 같은 걸 열어도 좋을 것 같아요.
+  ja: ここでミニコンサートをするのも いいかもしれませんね。
+c600_Outpost_Touch_3:
+  en: That girl who just walked by... is she from Prima Donna?!
+  ko: 방금 지나간 거, 설마 프리마돈나의…?!
+  ja: 今すれ違ったのって、 まさかプリマドンナの…！？
+c600_Gacha_Get_1:
+  en: Hello! We're the two shining stars, Twinkle Twin Star! I'm Mint!
+  ko: |-
+    안녕하세요~
+    빛나는 두 별! Twinkle Twin Star의 민트예요!
+  ja: |-
+    こんにちは～！
+    輝く二ツ星！Twinkle Twin Starのミントです！
+c600_Reinforce_1:
+  en: Thanks! Now I'm feeling pumped for our next performance.
+  ko: 덕분에, 이번 무대도 잘 끝낼 것 같네요.
+  ja: おかげさまで、今回のステージも無事に終わりそうです。
+c600_Reinforce_2:
+  en: Wow, I feel kind of lighter now. Maybe I'll stop by the practice room later.
+  ko: |-
+    오, 몸이 좀 가벼워졌는데요?
+    이따가 연습실에나 들릴까 봐요.
+  ja: |-
+    わっ、体が少し軽くなった気がします。
+    あとでトレーニングルームに寄らなくちゃ。
+c600_Reinforce_3:
+  en: You're not secretly trying to push me in a direction other than being a pop
+    star, are you?
+  ko: 저 아이돌 말고, 뭐 다른 걸로 키우려고 하시는 건 아니죠?
+  ja: 私をアイドル以外の何かにするつもりじゃないですよね？
+c600_Gift_1:
+  en: Thank you! This gives me even more motivation to improve.
+  ko: 고마워요, 더 멋진 무대로 보답할게요.
+  ja: |-
+    ありがとうございます。
+    最高のパフォーマンスでお返ししますね！
+c600_Gift_2:
+  en: Thanks, Kitten. You know, you're the only one who's allowed to give me personal
+    gifts like this.
+  ko: |-
+    저한테 이렇게 따로 선물을 줄 수 있는 것도,
+    아기 고양이 씨만의 특권인 거 알죠?
+  ja: |-
+    私に個人的なプレゼントができるのは、
+    子ネコさんだけの特権ですよ？
+c600_Gift_3:
+  en: I always like to give back to my fans, so you can expect a nice little treat
+    from me next time.
+  ko: |-
+    혹시 역조공이라는 말 들어봤어요?
+    기대해도 좋을 거예요.
+  ja: |-
+    アイドルからファンへの「逆プレゼント」って、
+    聞いたことはありますか？
+    ふふ、期待しててくださいね。
+c600_Attractive_Up_1:
+  en: Wow, Kitten. Turns out you're more than just a cute face, huh?
+  ko: |-
+    아기 고양이 씨, 그냥 귀엽기만 한 줄 알았는데.
+    아니었네요?
+  ja: |-
+    子ネコさんって、かわいいだけかと思ってたのに。
+    そうじゃなかったんですね？
+c600_Attractive_Up_2:
+  en: Hehehe... Ahem. Come on, Mint. You're a pop star. Get it together!
+  ko: |-
+    하, 자존심이 있지.
+    너 아이돌이야, 정신 차려 민트…!
+  ja: |-
+    はぁ…プライドってものがあるでしょ？
+    あなたはアイドルなのよ？
+    ミント、しっかりして…！
+c600_Attractive_Up_3:
+  en: Pop stars who are new to the game aren't supposed to date, but... I'm not exactly
+    new to this anymore.
+  ko: |-
+    신인 아이돌은 원래 연애 금지예요.
+    …근데, 저는 중고 신인이네요.
+  ja: |-
+    新人アイドルに恋愛はご法度です。
+    …ところで、私って遅咲きの新人…ですよね？
+c600_Party_Deploy_1:
+  en: Why not take someone else instead of me?
+  ko: 저 말고 다른 분을 데려가는 게 어때요?
+  ja: 私じゃなくて、別の子じゃダメですか？
+c600_Field_Touch_1:
+  en: Yes? I'm right here.
+  ko: 네, 저 여기 있어요.
+  ja: はい、私はここです。
+c600_Field_Go_1:
+  en: Ah, I should have at least made a vlog.
+  ko: 아, 브이로그라도 찍을걸.
+  ja: あっ、Vlogでも撮っておけばよかったわ。
+c600_Battle_Enter_1:
+  en: Is this the stage for today's performance?
+  ko: 여기가, 오늘의 무대인가요?
+  ja: ここが今日のステージですか？
+c600_Battle_Ready_1:
+  en: All right, let's do what we gotta do.
+  ko: 좋아요, 할 건 해야죠.
+  ja: よし。やることはやらなくちゃ。
+c600_Battle_Ready_2:
+  en: Let's hope I don't get injured...
+  ko: 상처 나면 안 되는데….
+  ja: 傷はアイドルの敵なのに…
+c600_Battle_Ready_3:
+  en: Cheer for me, okay?
+  ko: 열심히 응원하셔야 해요.
+  ja: 全力で応援してくださいね。
+c600_Reload_1:
+  en: Did you just see what I did?!
+  ko: 방금 좀 멋있었는데, 봤어요?
+  ja: カッコよかったですよね、今の？
+c600_Reload_2:
+  en: Just a sec...
+  ko: 잠시만요, 잠시만요….
+  ja: ちょっと待っててくださいね…
+c600_Reload_3:
+  en: Stand by!
+  ko: 스탠바이!
+  ja: スタンバイ！
+c600_Ult_Skill_Ready_1:
+  en: The stage is set!
+  ko: 주목해 주세요!
+  ja: 注目してください！
+c600_Ult_Skill_1:
+  en: Get ready for T.T. STAR!
+  ko: T.T. STAR! 무대 시작합니다!
+  ja: T.T. STAR！オンステージ！
+c600_FullBurst_1:
+  en: Everyone, sing along!
+  ko: 다 같이 불러주세요~!
+  ja: みんな、一緒に歌って！
+c600_Kill_Monster_1:
+  en: Did you catch that?
+  ko: 봤어요?
+  ja: 今の、見ましたか？
+c600_Kill_Monster_2:
+  en: Woohoo!
+  ko: 대박!
+  ja: すごーい！
+c600_Kill_Monster_3:
+  en: There's still a lot left...
+  ko: 아직 많이 남았네….
+  ja: まだあんなにいるの…？
+c600_Damage_1:
+  en: Ow!
+  ko: 아파…!
+  ja: 痛っ…！
+c600_Damage_2:
+  en: Ack...!
+  ko: 꺄악…!
+  ja: きゃあっ…！？
+c600_Damage_3:
+  en: Aw...
+  ko: 이잉….
+  ja: え～ん…
+c600_Die_1:
+  en: That's it for me! Time for a little self-care.
+  ko: 아이돌은 관리를 위해, 여기서 이만 빠질게요~
+  ja: |-
+    アイドルは自己管理が大事ですから、
+    そろそろ失礼しま～す。
+c600_Win_1:
+  en: I guess I really was born to perform!
+  ko: 전, 역시 무대 체질인가 봐요~
+  ja: |-
+    やっぱり私は、ステージのほうが
+    性に合ってるみたいです～
+c600_01_Lobby_Touch_1:
+  en: Even in casual clothes, my beauty still shows. I suppose that's just how it
+    is for pop stars.
+  ko: |-
+    일상복을 입어도, 예쁜 건 가려지질 않네요.
+    어쩔 수 없는 아이돌이라는 거겠죠.
+  ja: |-
+    私服姿でも私の魅力は隠し切れませんね。
+    どんな姿でもアイドル、ってことでしょうか？
+c600_01_Lobby_Touch_2:
+  en: When I blend into a crowd like this, people don't recognize me as much as you
+    might think.
+  ko: |-
+    이렇게 하고 인파 속에 숨어있으면,
+    생각보다 잘 못 알아보시더라고요.
+  ja: |-
+    こうして人混みに紛れていたら、
+    意外と気づかれないものなんですよ。
+c600_01_Lobby_Touch_3:
+  en: Flashy styles are lovely too, but I think something simple like this suits me
+    best.
+  ko: |-
+    저는 화려한 것도 예쁘긴 하지만,
+    역시 이렇게 수수한 쪽이 더 잘 어울리나 봐요.
+  ja: |-
+    私は華やかな服も着こなせますが、
+    やっぱり、こういう控えめな服のほうが似合うみたいです。
+c600_01_Lobby_Touch_Love_1:
+  en: If we're out together like this, people might think we're a couple... What if
+    someone asks to take our picture?
+  ko: |-
+    저희, 같이 다니면 커플처럼 보일 수도 있겠네요.
+    …길거리 스냅 같은 거 제안받으면 어쩌죠?
+  ja: |-
+    こうして一緒に歩いていたら、カップルに見えるかもしれませんね。
+    …ストリートスナップをお願いされちゃったらどうしましょう？
+c600_01_Lobby_Touch_Love_2:
+  en: What I'm like offstage is something only you get to see, Kitten.
+  ko: |-
+    무대 밖에서의 모습은,
+    아기 고양이 씨에게만 보여주는 거예요.
+  ja: |-
+    プライベートを見せるのは、
+    子ネコさんにだけですよ。
+c600_01_Lobby_Touch_Love_3:
+  en: If I ever retire as a pop star, I guess simple dates like this would just be
+    part of my everyday life.
+  ko: |-
+    제가 아이돌을 은퇴하게 된다면,
+    이런 평범한 데이트가 일상이 되겠네요.
+  ja: |-
+    もし、アイドルを引退したら…
+    こういう何気ないデートが当たり前になるんでしょうね。
+c600_01_Lobby_Stay_1:
+  en: Are we really just going to stand around like this on our day off?
+  ko: 모처럼의 휴일인데, 계속 이렇게 서 있어야 하는 거예요?
+  ja: |-
+    せっかくのオフなのに、
+    どうしてぼーっと立ってなきゃいけないんですか？
+c600_01_Lobby_Stay_Love_1:
+  en: You're excited about your secret date with a beautiful pop star, aren't you?
+    I'll be waiting, so take your time getting ready.
+  ko: |-
+    예쁜 아이돌과의 비밀 데이트에 설레서 그러시는 거죠?
+    기다려 드릴 테니까, 천천히 준비해서 오세요.
+  ja: |-
+    さては、かわいいアイドルとの秘密のデートに
+    ワクワクしすぎて遅れてるんですね？
+    待ってるので、ゆっくり支度をしてから来てくださいね。
+c600_01_Outpost_Touch_1:
+  en: It's been a while since I've had the chance to enjoy a cup of coffee. Would
+    you like to join me?
+  ko: |-
+    카페에서 여유 있게 마시는 커피는 오랜만이네요.
+    같이 마실래요?
+  ja: |-
+    カフェでゆっくりコーヒーを 飲むなんて久しぶりです。
+    よければ、一緒に飲みませんか？
+c600_01_Outpost_Touch_2:
+  en: I like the off-season. It's nice not having to worry about being watched all
+    the time. Of course, I still make sure to keep myself in shape.
+  ko: |-
+    비활동기에는 아무 눈치 안 봐도 돼서 좋아요.
+    물론, 관리는 꾸준히 해야겠지만요.
+  ja: |-
+    オフ期間中は、 誰の目も気にしないでいられて いいですね。
+    もちろん、 自己管理はしなきゃですけど。
+c600_01_Outpost_Touch_3:
+  en: What do I do in my free time? Nothing all that special. Pop stars are just people
+    too, you know. I just take it easy when I can.
+  ko: |-
+    평소에 뭘 하고 지내냐고요?
+    아이돌도 다 똑같은 사람이에요~ 그냥 놀고먹는 거죠.
+  ja: |-
+    普段は何をして過ごしているのか、 ですか？
+    アイドルもみんなと同じですよ、 のんびり過ごしてます。
+c600_01_Gacha_Get_1:
+  en: Shh! Today, I'm just Mint!
+  ko: 쉿! 오늘은 비활동기 민트랍니다~
+  ja: シーッ！今日は、アイドルのミントじゃありませんよ～
+c600_01_Reinforce_1:
+  en: It's our day off, so let's take it easy.
+  ko: 쉬는 날인데, 좀 쉬엄쉬엄해요.
+  ja: オフなんですから、のんびり行きましょう。
+c600_01_Reinforce_2:
+  en: Well? Do I look a little prettier today? For pop stars, appearance really matters,
+    after all.
+  ko: |-
+    어때요? 좀 더 예뻐졌나요?
+    아이돌은 외모가 성능이거든요~
+  ja: |-
+    どうですか？もっとかわいくなりました？
+    アイドルは、ビジュアルが命ですので。
+c600_01_Reinforce_3:
+  en: If I get too strong, it won't really fit my image.
+  ko: 너무 튼튼해지면 컨셉이랑 안 맞을 텐데 말이에요.
+  ja: |-
+    あんまり丈夫になりすぎると、
+    コンセプトからズレてしまいそうですね…
+c600_01_Gift_1:
+  en: Pop stars aren't swayed by gifts like this... I think.
+  ko: |-
+    아이돌은, 이런 선물에 흔들리지 않아요!
+    …아마도요.
+  ja: |-
+    アイドルたるもの、こんなプレゼントに惑わされません！
+    …たぶん、ですけど。
+c600_01_Gift_2:
+  en: I'd love to return the favor, so let's go shopping later.
+  ko: 저도 보답하고 싶은데, 이따 같이 쇼핑하러 가요.
+  ja: |-
+    私も何かお返ししたいので、
+    今度一緒にショッピングに行きませんか？
+c600_01_Gift_3:
+  en: This is for me, and not Mint the pop star, right? ... Thank you, I really appreciate
+    it.
+  ko: |-
+    아이돌 민트가 아니라, 그냥 민트에게 주는 선물인 거죠?
+    …감동이에요.
+  ja: |-
+    アイドルのミントに、じゃなくて…
+    ただのミントへのプレゼント、ですよね？
+    …嬉しいです、とっても。
+c600_01_Attractive_Up_1:
+  en: Why does it feel like I'm the one who likes you more...? Shouldn't it be the
+    other way around?
+  ko: |-
+    …왜 제가 더 좋아하는 것 같죠?
+    반대여야 하는 거 아닌가요?
+  ja: |-
+    …どうして私のほうがこんなに好きなんでしょう？
+    普通、逆じゃないですか？
+c600_01_Attractive_Up_2:
+  en: Is this how my fans feel when they see me? That fluttery feeling... like your
+    heart's about to burst?
+  ko: |-
+    팬들이 저를 볼 때 이런 감정일까요?
+    설레고, 심장 막 터질 것 같고…?
+  ja: |-
+    ファンの人たちが私を見ている時の気持ちって、
+    こんな感じなんでしょうか？
+    ドキドキして、今にも心臓が張り裂けそうな感じ…？
+c600_01_Attractive_Up_3:
+  en: I've never liked someone this much before, so you should feel honored, Kitten.
+  ko: |-
+    누군가를 이렇게 좋아해 보는 건 처음이에요.
+    영광으로 생각하셔도 좋아요, 아기 고양이 씨~
+  ja: |-
+    誰かをこんなに好きになったのは初めてです。
+    光栄に思ってくださいね、子ネコさん～
+c600_01_Party_Deploy_1:
+  en: Wasn't today supposed to be my day off?
+  ko: 오늘 쉬는 날 아니었어요…?
+  ja: 今日は、オフじゃなかったんですか…？
+c600_01_Field_Touch_1:
+  en: You called?
+  ko: 부르셨어요?
+  ja: 呼びました？
+c600_01_Field_Go_1:
+  en: I should've put on more sunscreen.
+  ko: 선크림 더 바를 걸 그랬어요.
+  ja: もっと日焼け止めを塗ってくればよかったかも…
+c600_01_Battle_Enter_1:
+  en: I'll do my best not to get hurt!
+  ko: 최대한 안 다치게 해볼게요…!
+  ja: なるべくケガをしないように気をつけますね…！
+c600_01_Battle_Ready_1:
+  en: I shouldn't get hurt. It'll be okay, right?
+  ko: 상처 나면 안 되는데, 괜찮겠죠?
+  ja: 傷を作るわけにはいかないんですが…大丈夫ですよね？
+c600_01_Battle_Ready_2:
+  en: I'll do my best.
+  ko: 힘내볼게요.
+  ja: 頑張ります。
+c600_01_Battle_Ready_3:
+  en: I'll show you what it means to be a pop star on the battlefield.
+  ko: 전장에서도 아이돌이라는 게 뭔지 보여드릴게요.
+  ja: 戦場でも、アイドルとは何なのかをお見せしますね。
+c600_01_Reload_1:
+  en: I'm not hurt or anything, right?
+  ko: 저, 상처 난 곳 없죠?
+  ja: 私、どこもケガしてませんよね？
+c600_01_Reload_2:
+  en: This is going more smoothly than I expected.
+  ko: 생각보다 순조롭네요.
+  ja: 思ったより順調です。
+c600_01_Reload_3:
+  en: Even the way I reload looks pretty, right?
+  ko: 장전하는 모습도, 예쁘죠?
+  ja: リロード中もかわいいでしょう？
+c600_01_Ult_Skill_Ready_1:
+  en: Now!
+  ko: 지금이에요!
+  ja: 今です！
+c600_01_Ult_Skill_1:
+  en: Make some noise for me!
+  ko: 더 힘차게 응원해 주세요!
+  ja: 力いっぱい応援してね！
+c600_01_FullBurst_1:
+  en: Sing it with me!
+  ko: 떼창 시~작!
+  ja: みんなも一緒に！
+c600_01_Kill_Monster_1:
+  en: Oh yeah!
+  ko: 오예!
+  ja: やったぁ！
+c600_01_Kill_Monster_2:
+  en: All done!
+  ko: 해치웠어요!
+  ja: 倒しました！
+c600_01_Kill_Monster_3:
+  en: When is this going to end?
+  ko: 언제 끝나죠…?
+  ja: いつ終わるんですか…？
+c600_01_Damage_1:
+  en: Oww!
+  ko: 아야…!
+  ja: いたっ…！
+c600_01_Damage_2:
+  en: Ugh!
+  ko: 흐윽…!
+  ja: ううっ…！
+c600_01_Damage_3:
+  en: Not my face!
+  ko: 얼굴은 안돼…!
+  ja: 顔はダメ…！
+c600_01_Die_1:
+  en: I'm sorry, I got a cut on my face...!
+  ko: 죄송해요, 얼굴에 상처가 나버렸어요…!
+  ja: すみません、顔にケガをしちゃいました…！
+c600_01_Win_1:
+  en: All right, no more fighting. Let's go have some fun together.
+  ko: 싸움은 됐으니까, 이제 같이 놀러 가요.
+  ja: 戦闘はもういいので、一緒に遊びに行きましょう？
+600_cv_ja:
+  en: 'CV: Kanon Takao'
+  ko: 'CV : 타카오 카논'
+  ja: CV：高尾奏音
+600_cv_ko:
+  en: 'CV: Kim Jin-ah'
+  ko: 'CV : 김진아'
+  ja: CV：キム・ジンア
+600_cv_en:
+  en: 'CV: Rebecca Wang'
+  ko: 'CV : 레베카 왕'
+  ja: CV：Rebecca Wang

@@ -86,7 +86,8 @@ character_shot_description_localkey_rl_up:
     <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
     ■フルチャージして攻撃した時、
     自分がみんなの星状態なら、味方全体に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」</color>
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_03}％回復」</color>
     ■フルバーストタイムが発動した時、
     自分と自分より<word_group=10025>最終</word_group>防御力が低い味方全体に
     <color=#00AEFF>「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_04}％▲」「{description_value_05}秒間維持」</color>
@@ -103,7 +104,7 @@ skill_name_1003:
 20171_description:
   en: |-
     ■ Activates at the start of battle only if self is alive. Affects all allies.
-    <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> {description_value_05}% ▲ continuously.</color>
+    <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_05}% continuously.</color>
     ■ Activates at the start of battle and when Full Burst ends.
     <color=#00AEFF>Effect differs according to squad formation. Only the corresponding effect is applied.
     If there are no other <word_group=10067>Burst {description_value_01} allies</word_group>:
@@ -133,10 +134,12 @@ skill_name_1003:
     ■戦闘開始時、自分が生存している限り、味方全体に
     <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>{description_value_05}％▲」「持続」</color>
     ■戦闘開始時およびフルバーストタイムが終了した時、
-    <color=#00AEFF>「部隊構成による効果」「該当効果のみ適用」
+    <color=#00AEFF>「部隊構成による効果」
+    「該当効果のみ適用」
     自分を除く<word_group=10067>基本バースト段階が{description_value_01}の味方</word_group>がいない場合、
     効果1：自分に「みんなの星<word_group=10101>消去</word_group>」
-    効果2：自分に「私だけの星：攻撃力{description_value_02}％▲」「持続」「解除不可」
+    効果2：自分に「私だけの星：
+    攻撃力{description_value_02}％▲」「持続」「解除不可」
     効果3：味方全体に「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_03}秒▼」
     自分を除く<word_group=10067>基本バースト段階が{description_value_01}の味方</word_group>がいる場合、
     効果1：自分に「私だけの星<word_group=10101>消去</word_group>」
@@ -190,7 +193,8 @@ skill_name_1002:
     攻撃間隔：0.25秒
     維持時間：{description_value_02}秒
     追加効果
-    「チャージ時間{description_value_10}秒に固定」「{description_value_02}秒間維持」
+    「チャージ時間{description_value_10}秒に固定」
+    「{description_value_02}秒間維持」
     「爆発範囲{description_value_03}％▲」「{description_value_02}秒間維持」
     「防御力{description_value_05}％▲」「{description_value_02}秒間維持」</color>
     ■自分が私だけの星状態なら、自分に
@@ -664,7 +668,7 @@ c017_01_Outpost_Touch_1:
     가로등이 왜 필요해? 내가 있는데.
     …아니, 말이 그렇다고.
   ja: |-
-    街灯なんていらないでしょ？私がいるんだから。
+    街灯なんていらないでしょ？ 私がいるんだから。
     …いや、ただ言ってみただけよ。
 c017_01_Outpost_Touch_2:
   en: They say people used to use the stars to find their way. So if you're lost,
@@ -674,7 +678,7 @@ c017_01_Outpost_Touch_2:
     그러니까, 길을 잃은 거라면 날 따라와.
   ja: |-
     星は、道しるべにもなるんだって。
-    だから、道に迷った時は私についてきて。
+    だから、道に迷った時は 私についてきて。
 c017_01_Outpost_Touch_3:
   en: The Outpost feels too small to hold someone like me. Let's move somewhere bigger!
   ko: |-
@@ -682,7 +686,7 @@ c017_01_Outpost_Touch_3:
     더 큰 곳으로 이사 가자!
   ja: |-
     前哨基地は、私には小さすぎるのよね。
-    もっと広いところに引っ越しましょ！
+    もっと広いところに 引っ越しましょ！
 c017_01_Gacha_Get_1:
   en: Now that I'm a star, I'm gonna shine my brightest!
   ko: 이왕 별이 된 거, 가장 밝게 빛나볼게!
@@ -895,7 +899,7 @@ c017_02_Outpost_Touch_1:
     막 이런 길에서도 무대하고 그랬거든.
   ja: |-
     はぁ～昔のことを思い出すわ。
-    こういう道ばたでもライブをしてたのよ。
+    こういう道ばたでも ライブをしてたのよ。
 c017_02_Outpost_Touch_2:
   en: I've got an idea! Every morning, I'll sing for you and be your wake-up call.
     What do you think? Sounds amazing, right?!
@@ -903,8 +907,8 @@ c017_02_Outpost_Touch_2:
     모닝콜로 내가 아침마다 지휘관실에 가서 노래 불러줄게.
     어때? 생각만 해도 설레지?!
   ja: |-
-    私が毎朝、指揮官室でモーニングコールとして歌ってあげる。
-    どう？考えただけでもワクワクするでしょ！？
+    私が毎朝、指揮官室で モーニングコールとして 歌ってあげる。
+    どう？ 考えただけでも ワクワクするでしょ！？
 c017_02_Outpost_Touch_3:
   en: We should really look into renovating the shower room. A pop star can't go around
     looking all dirty, right?
@@ -913,7 +917,7 @@ c017_02_Outpost_Touch_3:
     그러니까, 이참에 진짜 샤워실 한 번 싹 새로 하자. 응?
   ja: |-
     アイドルは清潔感が大事でしょ？
-    だから、この機会にシャワー室をリフォームしましょ？ねっ？
+    だから、この機会に シャワー室を リフォームしましょ？ねっ？
 c017_02_Gacha_Get_1:
   en: Hi! I'm Anis, and we're the three shining stars, T.T. STAR!
   ko: 안녕하세요! 빛나는 세 별! T.T. STAR의 아니스입니다~!
