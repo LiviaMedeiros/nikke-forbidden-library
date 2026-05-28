@@ -84,7 +84,7 @@ skill_name_1003:
   en: |-
     ■ Activates after {description_value_01} normal attack(s). Affects all allies.
     <color=#00AEFF><word_group=10017>Restores {description_value_02}% of Cover HP</word_group>.</color>
-    ■ Activates when <word_group=10032>applying Shield</word_group>. Affects all allies.
+    ■ Activates when a <word_group=10032>Shield is set</word_group> in front of this unit. Affects all allies.
     <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
@@ -107,10 +107,10 @@ skill_name_1002:
 14503_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Gain Pierce for {description_value_01} sec.</color>
+    <color=#00AEFF>Gains Pierce for {description_value_01} sec.</color>
     ■ Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK for {description_value_03} sec.</color>
-    ■ Activates when <word_group=10032>applying Shield</word_group>. Affects all allies.
+    ■ Activates if a <word_group=10032>Shield is set</word_group> in front of this unit. Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
   ko: |-
     ■ 자신에게

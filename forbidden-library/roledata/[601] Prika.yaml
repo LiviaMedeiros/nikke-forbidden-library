@@ -1,0 +1,815 @@
+---
+601_name:
+  en: Prika
+  ko: 프리카
+  ja: プリカ
+c601_description:
+  en: |-
+    A member of T.T. STAR (Twinkle Twin Star). As one of the Ark's top pop stars, she is currently enjoying a surge in popularity.
+    She sticks to a rigorous training regimen which, combined with her talents in songwriting and composition, makes her the most technically capable member of the group. Although she exhibits confidence no matter who she's interacting with and never second-guesses her own thoughts, she is surprisingly mentally fragile.
+  ko: |-
+    T.T. STAR(Twinkle Twin Star)의 멤버로, 한창 많은 인기를 얻고 있는 방주의 대표 아이돌.
+    항상 고강도의 트레이닝을 하고 있으며, 작사, 작곡 등에도 재능이 있어 팀 내에서 최고의 기량을 가진다.
+    상대가 누구든 당당하게 대하며 자신의 생각에 한 치의 망설임도 없지만, 의외로 유리 멘탈이다.
+  ja: |-
+    T.T. STAR（Twinkle Twin Star）のメンバーで、
+    絶大な人気を誇るアークを代表するアイドル。
+    常にハードなトレーニングをこなし、作詞作曲などにも才能があり、
+    チーム内で最高のスキルを持つ。
+    相手が誰であろうと堂々と接し、自分の考えに少しの迷いもないが、
+    意外とガラスの心の持ち主。
+601_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_601:
+  en: Prika's Spare Body
+  ko: 프리카 스페어 바디
+  ja: プリカのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+26012_name:
+  en: One More Song!
+  ko: 한 곡 더!
+  ja: もう1曲！
+26012_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when Sing Along takes effect while Prika is in Performance status.
+    <color=#00AEFF>Encore:
+    Function: Extends the duration of Performance for Prika and strengthens allies.
+    Effect 1: Affects the member who initiated Sing Along. <word_group=10102>Assigned Part</word_group>: Singing. This effect is continuous and cannot be removed.
+    Effect 2: Affects all allies. Performance <word_group=10051>duration ▲ {description_value_03} sec.</word_group>
+    Effect 3: Affects all allies. Attack Damage ▲ {description_value_04}% for {description_value_05} sec.
+    Effect 4: Affects self. <word_group=10031>Cooldown</word_group> of Burst Skill ▲ {description_value_06} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[최대 체력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 떼창 적용 시 자신이 퍼포먼스 상태라면
+    <color=#00AEFF>[앵콜] :
+    기능 : 자신의 퍼포먼스 시간을 연장하고 아군을 강화.
+    효과1 : 떼창 시전자에게 [<word_group=10102>무대 파트</word_group> : 보컬] [지속] [해제 불가]
+    효과2 : 아군 전체에게 [퍼포먼스 <word_group=10051>유지시간 {description_value_03}초 ▲</word_group>]
+    효과3 : 아군 전체에게 [공격 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]
+    효과4 : 자신에게 [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_06}초 ▲]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■シンガロングが適用された時、
+    自分がパフォーマンス状態なら
+    <color=#00AEFF>「アンコール」：
+    機能：自分のパフォーマンス時間を延長して
+    味方を強化
+    効果1：シンガロングのスキル発動者に
+    「<word_group=10102>ステージパート</word_group>：ボーカル」「持続」
+    「解除不可」
+    効果2：味方全体に「パフォーマンス<word_group=10051>維持時間{description_value_03}秒▲</word_group>」
+    効果3：味方全体に「攻撃ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」
+    効果4：自分に「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_06}秒▲」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+26011_name:
+  en: Let's Get the Show Started
+  ko: 무대, 시작할게.
+  ja: ステージを始めよう
+26011_description:
+  en: |-
+    ■ Activates when attacking with Full Charge. Affects all allies.
+    <color=#00AEFF><word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    <word_group=10042>Pierce Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.
+    ATK ▲ {description_value_05}% of the caster's ATK for {description_value_06} sec.</color>
+    ■ Activates only while in Performance status. Affects self.
+    <color=#00AEFF>Potency of HP restored ▲ {description_value_07}% continuously.
+    Gains Pierce continuously.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 아군 전체에게
+    <color=#00AEFF>[<word_group=10066>발사체 폭발 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]
+    [<word_group=10042>관통 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]
+    [시전자 기준 공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    ■ 자신이 퍼포먼스 상태일 때 한하여 자신에게
+    <color=#00AEFF>[주는 체력 회복량 {description_value_07}% ▲] [지속]
+    [관통 특화] [지속]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、味方全体に
+    <color=#00AEFF>「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    「<word_group=10042>貫通ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」
+    「スキル発動者基準で攻撃力{description_value_05}％▲」
+    「{description_value_06}秒間維持」</color>
+    ■自分がパフォーマンス状態の時に限り、
+    自分に
+    <color=#00AEFF>「与えるHP回復量{description_value_07}％▲」「持続」
+    「貫通特化」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+16013_name:
+  en: Get Ready for an Amazing Show!
+  ko: 최고의 무대를 보여줄게!
+  ja: 最高のステージを見せてやる！
+16013_description:
+  en: |-
+    ■ Affects all allies.
+    <color=#00AEFF>Performance:
+    Function: Strengthens allies and restores HP.
+    Effect 1: Restores {description_value_01}% of the caster's <word_group=10025> final</word_group> max HP as HP every 1 sec for {description_value_02} sec. This effect cannot be removed.
+    Effect 2: Charge Damage ▲ {description_value_05}% for {description_value_06} sec. This effect cannot be removed.</color>
+  ko: "■ 아군 전체에게\n<color=#00AEFF>[퍼포먼스] : \n기능 : 아군 회복 및 강화.\n효과1 : [시전자의 <word_group=10025>최종</word_group>
+    최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격] [{description_value_02}초 유지] [해제
+    불가]\n효과2 : [차지 대미지 {description_value_05}% ▲] [{description_value_06}초 유지] [해제
+    불가]</color>"
+  ja: |-
+    ■味方全体に
+    <color=#00AEFF>「パフォーマンス」：
+    機能：味方回復＆強化
+    効果1：「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％持続回復」「1秒間隔」
+    「{description_value_02}秒間維持」「解除不可」
+    効果2：「チャージダメージ{description_value_05}％▲」「{description_value_06}秒間維持」「解除不可」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+600_name:
+  en: Mint
+  ko: 민트
+  ja: ミント
+c601_Lobby_Touch_1:
+  en: Thank you so much for being here. Hope you're ready for another flawless performance.
+  ko: |-
+    다들, 고마워요.
+    오늘 무대도 완벽하게 해낼게요.
+  ja: |-
+    みんな、ありがとう。
+    このステージも、完璧にやり遂げてみせる。
+c601_Lobby_Touch_2:
+  en: You're not skipping meals or anything, right? As much as we appreciate your
+    support, make sure you're taking care of yourself first.
+  ko: |-
+    밥은 먹었어요?
+    괜히 우리한테 돈 쓰지 말고, 맛있는 거 사 먹어요.
+  ja: |-
+    ご飯はしっかり食べてるか？
+    私たちにばかりお金を使うより、おいしいものを食べてくれ。
+c601_Lobby_Touch_3:
+  en: Fan service? Tell me what you'd like and I'll see if we can accommodate.
+  ko: |-
+    팬 서비스요? 뭐든 말만 해요.
+    최선을 다할 테니까.
+  ja: |-
+    ファンサービス？なんでも言ってくれ。
+    全力で応えるよ。
+c601_Lobby_Touch_Love_1:
+  en: I think I get now why Anis was able to change. It's because you were by her
+    side, Muse.
+  ko: |-
+    아니스가 왜 바뀔 수 있었는지, 이제 알 것 같아.
+    뮤즈가 옆에 있어줬기 때문이구나.
+  ja: |-
+    アニスが変われた理由、今なら分かる気がする。
+    ミューズがそばにいたから、なんだろうな。
+c601_Lobby_Touch_Love_2:
+  en: If you were satisfied with today's performance, then I must've done really well.
+    That's enough for me.
+  ko: |-
+    오늘 무대, 뮤즈가 만족했다면 됐어.
+    분명 잘 해냈을 거니까.
+  ja: |-
+    今日のステージ、ミューズが満足してくれたならそれでいい。
+    全力を出せたからな。
+c601_Lobby_Touch_Love_3:
+  en: I want you to come to our next recording. I always do a lot better when you're
+    there. The difference is noticeable.
+  ko: |-
+    다음 노래 녹음할 때는, 꼭 뮤즈도 와줬으면 좋겠어.
+    옆에 있을 때랑 없을 때, 퀄리티 차이가 제법 크거든.
+  ja: |-
+    次の収録には、ミューズも来てくれないか？
+    いるといないとじゃ、クオリティにけっこう差が出るんだ。
+c601_Lobby_Stay_1:
+  en: I have to go to practice soon. How long do I need to stay here?
+  ko: |-
+    나, 연습하러 가봐야 할 것 같은데.
+    언제까지 여기 있어야 해?
+  ja: |-
+    そろそろ練習に戻りたいんだけどな。
+    いつまでここにいればいいんだ？
+c601_Lobby_Stay_Love_1:
+  en: You seem busy, so feel free to take your time. I just got a great idea for some
+    lyrics anyway.
+  ko: |-
+    뮤즈, 바쁘면 천천히 와도 돼.
+    마침 좋은 가사가 떠올랐거든.
+  ja: |-
+    ミューズ、忙しいならゆっくり来ていい。
+    いい歌詞が頭に浮かんできてるんだ。
+c601_Outpost_Touch_1:
+  en: Since there's no practice room here, I've just been using the gym. I can't let
+    myself get rusty.
+  ko: |-
+    여기는 연습실이 따로 없어서, 체육관에서 연습하고 있어.
+    아무리 그래도, 쉴 수는 없으니까.
+  ja: |-
+    ここには トレーニングルームがないから ジムで練習してるんだ。
+    休むわけにはいかないからな。
+c601_Outpost_Touch_2:
+  en: I'm surprised that there are people here who recognize me. I'm really glad I
+    never gave up.
+  ko: |-
+    여기서도 날 알아보는 사람들이 있더라.
+    포기하지 않기를 잘했어.
+  ja: |-
+    ここにも私のことを 知ってくれてる人がいたんだな。
+    諦めなくてよかった。
+c601_Outpost_Touch_3:
+  en: Things feel a little quiet around here, don't they? Maybe we should play one
+    of our songs and liven things up.
+  ko: |-
+    거리가 좀 심심한 것 같지 않아?
+    우리 노래라도 틀어두면 좀 신날 것 같은데.
+  ja: |-
+    ここ、静かすぎないか？
+    私たちの曲でも流せば ちょっとは 盛り上がるかもしれないな。
+c601_Gacha_Get_1:
+  en: Hello! We're the two shining stars, Twinkle Twin Star! I'm Prika.
+  ko: |-
+    안녕하세요.
+    빛나는 두 별! Twinkle Twin Star의 프리카에요.
+  ja: |-
+    こんにちは。
+    輝く二ツ星！Twinkle Twin Starのプリカだ。
+c601_Reinforce_1:
+  en: Thank you. I'm feeling pretty good, like I could practice all night.
+  ko: 밤새 연습해도 무리 없을 컨디션이야. 고마워.
+  ja: |-
+    これなら、夜通し練習しても平気そうだ。
+    ありがとう。
+c601_Reinforce_2:
+  en: I just got a great idea for a song.
+  ko: 좋은 곡이 나올 것 같아.
+  ja: いい曲が作れそうだ。
+c601_Reinforce_3:
+  en: Being a pop star is more like a marathon than a sprint, and you've been a huge
+    help in keeping me going.
+  ko: |-
+    아이돌은 체력 싸움이야.
+    그런 의미에서, 아주 많은 도움이 되고 있어.
+  ja: |-
+    アイドルは体力勝負なんだ。
+    そういう意味では、すごく役に立ってるよ。
+c601_Gift_1:
+  en: Is this for me? Thank you... I feel like I'm always on the receiving end when
+    it comes to you.
+  ko: |-
+    나한테 주는 거야…?
+    매번 받기만 하네, 고마워.
+  ja: |-
+    私にくれるのか…？
+    ありがとう。いつももらってばかりだな。
+c601_Gift_2:
+  en: I'll use this as motivation to work harder.
+  ko: 더 열심히 하라는 걸로 생각할게.
+  ja: もっと頑張れってことだな。
+c601_Gift_3:
+  en: As a token of my thanks, I'm going to deliver the absolute best performance
+    I can.
+  ko: 최고의 무대로 보답할게.
+  ja: 最高のステージでお返しするよ。
+c601_Attractive_Up_1:
+  en: Now I want to write a song just for you, Muse. You'll help out, right?
+  ko: |-
+    뮤즈만을 위한 노래를 만들어보고 싶어졌어.
+    도와줄 거지?
+  ja: |-
+    ミューズのための曲が作りたくなったんだ。
+    手伝ってくれるよな？
+c601_Attractive_Up_2:
+  en: I feel like the closer we get, the more inspiration I receive.
+  ko: 뮤즈와 더 가까워지면, 더 많은 영감을 얻을 수 있는 걸까?
+  ja: |-
+    ミューズにもっと近づけば、
+    もっとインスピレーションが湧いてくるかもな？
+c601_Attractive_Up_3:
+  en: I rely on you a lot, you know. Both on stage and off.
+  ko: |-
+    진심으로 의지하고 있어.
+    무대 위에서도, 밖에서도.
+  ja: |-
+    心から頼りにしてる。
+    ステージの上でも、それ以外でも。
+c601_Party_Deploy_1:
+  en: Okay... I'll do my best.
+  ko: 글쎄… 일단 최선을 다해볼게.
+  ja: まあ…やれるだけのことはやってみるよ。
+c601_Field_Touch_1:
+  en: Yes, I'm listening.
+  ko: 응, 듣고 있어.
+  ja: ああ、ちゃんと聞いてる。
+c601_Field_Go_1:
+  en: Heading over there now.
+  ko: 움직일게.
+  ja: 動こう。
+c601_Battle_Enter_1:
+  en: Leave it to me. I've been training for this.
+  ko: 열심히 연습했으니까, 맡겨 줘.
+  ja: 頑張って練習したんだ、任せてくれ。
+c601_Battle_Ready_1:
+  en: I'm gonna treat this like a performance.
+  ko: 무대라고 생각하자.
+  ja: ここはステージだと考えるんだ…
+c601_Battle_Ready_2:
+  en: With you here, Muse, I'll be fine.
+  ko: 뮤즈가 함께니까, 괜찮을 거야.
+  ja: ミューズが一緒だ。きっと大丈夫さ。
+c601_Battle_Ready_3:
+  en: Just gotta stick to what I practiced.
+  ko: 연습한 대로만 하자.
+  ja: 練習通りにやろう。
+c601_Reload_1:
+  en: Doing great so far.
+  ko: 응, 잘 하고있어.
+  ja: よし。いい感じだ。
+c601_Reload_2:
+  en: Phew... I need a sec.
+  ko: 후우… 잠시만.
+  ja: ふう…少し待ってくれ。
+c601_Reload_3:
+  en: One more time. Let's do this.
+  ko: 다시, 제대로 가자.
+  ja: もう1回。ちゃんとやろう。
+c601_Ult_Skill_Ready_1:
+  en: Everyone, all eyes on me!
+  ko: 모두, 나를 봐줘!
+  ja: みんな、私を見てくれ！
+c601_Ult_Skill_1:
+  en: Get ready to see T.T. STAR shine!
+  ko: T.T. STAR! 완벽한 무대를 보여줄게!
+  ja: |-
+    T.T. STAR！
+    完璧なステージを見せてやろう！
+c601_FullBurst_1:
+  en: Let's keep this momentum going!
+  ko: 계속 텐션을 끌고 가!
+  ja: このままテンションを上げていこう！
+c601_Kill_Monster_1:
+  en: Nice!
+  ko: 좋아…!
+  ja: よし…！
+c601_Kill_Monster_2:
+  en: I'm pretty good at this.
+  ko: 할 만 한데?
+  ja: けっこういけるな？
+c601_Kill_Monster_3:
+  en: That was on point.
+  ko: 제법이야.
+  ja: なかなかだったな。
+c601_Damage_1:
+  en: Ugh...!
+  ko: 읏…!
+  ja: うっ…！
+c601_Damage_2:
+  en: No...!
+  ko: 안돼…!
+  ja: ダメだ…！
+c601_Damage_3:
+  en: Urgh!
+  ko: 크윽!
+  ja: くうっ！
+c601_Die_1:
+  en: Sorry, I must not have practiced enough...
+  ko: 미안해, 연습이 부족했나 봐….
+  ja: ごめん。練習が足りなかったみたいだ…
+c601_Win_1:
+  en: I'd say our surface debut went pretty well.
+  ko: 지상 데뷔 무대, 제법 나쁘지 않았어.
+  ja: 地上デビューも、悪くないかもな。
+c601_01_Lobby_Touch_1:
+  en: This week's schedule? First the practice room, then the recording studio. I'm
+    actually busiest between comebacks.
+  ko: |-
+    이번 주 일정? 연습실 갔다가, 작업실 들리기.
+    나는 비활동기에 더 바쁘게 움직이거든.
+  ja: |-
+    今週？トレーニングルームとスタジオの往復だ。
+    私の場合は、プロモ期間じゃない時のほうが忙しい。
+c601_01_Lobby_Touch_2:
+  en: I'm going to work out. Want to tag along? If I don't keep moving, my body gets
+    all stiff.
+  ko: |-
+    운동하러 갈 건데, 같이 갈래?
+    너무 오래 쉬면, 몸이 굳어버리거든.
+  ja: |-
+    運動しに行くけど、一緒に来るか？
+    のんびりしすぎると、体がなまるからな。
+c601_01_Lobby_Touch_3:
+  en: Surprisingly, not many fans recognize me when I'm dressed this way. They never
+    expect to run into me in something like this.
+  ko: |-
+    이러고 다녀도, 생각보다 알아보는 팬들은 잘 없어.
+    보통 이렇게 가까이 있을 거라고 생각을 잘 못하니까.
+  ja: |-
+    外を歩いていても、意外と気づかれないな。
+    まさか、こんな近くにいるとは思わないんだろうな。
+c601_01_Lobby_Touch_Love_1:
+  en: Being around you puts me at ease, Muse. It's like all my worries just melt away.
+    Strange, isn't it?
+  ko: |-
+    뮤즈랑 있으면 마음이 편해.
+    걱정이 다 사라지는 기분이랄까? 참 이상하지.
+  ja: |-
+    ミューズと一緒にいると落ち着くよ。
+    心配事が消えるというか…本当に不思議だ。
+c601_01_Lobby_Touch_Love_2:
+  en: I can't remember the last time I could walk around outside this freely. Thanks
+    for coming out with me.
+  ko: |-
+    이렇게 편하게 밖을 돌아다닌 게 얼마 만인지 모르겠어.
+    같이 나와줘서, 고마워.
+  ja: |-
+    こんなふうに気楽に出歩けたのはいつぶりだろうな。
+    付き合ってくれて、ありがとう。
+c601_01_Lobby_Touch_Love_3:
+  en: There's somewhere I'd like to go today, other than the practice room... Will
+    you come with me?
+  ko: |-
+    오늘은 연습실 말고, 같이 가고 싶은 곳이 있는데.
+    …함께 해줄래?
+  ja: |-
+    今日はトレーニングルームじゃなくて、
+    一緒に行きたい場所があるんだ。…付き合ってくれないか？
+c601_01_Lobby_Stay_1:
+  en: This is starting to feel like too much downtime... Mind if I head in first?
+  ko: |-
+    휴식이 너무 길어지는 것 같은데…
+    먼저 들어가 봐도 될까?
+  ja: |-
+    少しのんびりしすぎな気がするな…
+    先に帰ってもいいか？
+c601_01_Lobby_Stay_Love_1:
+  en: Spending my break just looking at you... isn't so bad at all.
+  ko: 뮤즈를 보면서 쉬는 것도, 나쁘지 않네.
+  ja: ミューズの顔を見ながらのんびりするのも、悪くないな。
+c601_01_Outpost_Touch_1:
+  en: I have to say, wandering around like this without a care is pretty nice. It
+    clears my head too.
+  ko: |-
+    뭐, 이렇게 생각 없이 걸어 다니는 것도 좋네.
+    머리도 비워지고.
+  ja: |-
+    こうして何も考えずに 歩くのもいいな。
+    頭もスッキリするし。
+c601_01_Outpost_Touch_2:
+  en: There always seems to be something interesting going on around here. I like
+    that you can experience so many different things.
+  ko: |-
+    이곳은 특이한 일들이 많이 벌어지는 것 같아.
+    다양한 경험을 할 수 있어서 좋아.
+  ja: |-
+    ここじゃ変わったことが よく起きるみたいだな。
+    いろんな経験ができていい。
+c601_01_Outpost_Touch_3:
+  en: Do you play any instruments, Muse? If you're interested, I could teach you while
+    I have the time off.
+  ko: |-
+    뮤즈는 악기 다룰 수 있는 거 있어?
+    원하면, 쉬는 김에 내가 좀 알려줄게.
+  ja: |-
+    ミューズ、何か楽器は弾けるのか？
+    よかったら、 休んでいる間に覚えてみないか？
+c601_01_Gacha_Get_1:
+  en: I have to keep practicing consistently, even if I'm not actively promoting.
+  ko: 비활동기긴 하지만, 연습은 꾸준히 해야 해.
+  ja: オフ期間でも、コツコツ練習は続けないとな。
+c601_01_Reinforce_1:
+  en: I feel light on my feet. Time to push even harder for my next comeback.
+  ko: |-
+    몸이 가벼워졌어.
+    다음 활동기에 대비해서, 더 열심히 해야겠는걸.
+  ja: |-
+    体が軽くなった。
+    次のプロモ期間に向けて、もっと頑張らないとな。
+c601_01_Reinforce_2:
+  en: I'm in great shape to stage a comeback right now.
+  ko: 당장 컴백해도 좋을 컨디션이야.
+  ja: 今すぐステージに立てそうなくらい、いい調子だ。
+c601_01_Reinforce_3:
+  en: I could probably squeeze in a bit more practice. Don't worry, I won't overdo
+    it.
+  ko: |-
+    더 연습해도 되겠는데?
+    걱정 마, 무리하지 않을게.
+  ja: |-
+    もう少し練習を続けないか？
+    心配するな、無理はしないから。
+c601_01_Gift_1:
+  en: It feels like you always pick out exactly what I want. I really appreciate it.
+  ko: |-
+    늘 내가 원하는 것만 골라서 주는 기분이네.
+    정말 고마워.
+  ja: |-
+    いつも私が欲しいものを選んでくれるな。
+    本当にありがとう。
+c601_01_Gift_2:
+  en: What are you into, Muse? I'd love to get you a gift too.
+  ko: |-
+    뮤즈는 어떤 걸 좋아해?
+    나도 선물을 주고 싶어서.
+  ja: |-
+    ミューズの好きなものは何だ？
+    私も何か、お返しがしたいんだ。
+c601_01_Gift_3:
+  en: Getting gifts as a pop star is nice... but this isn't so bad either.
+  ko: |-
+    아이돌로서 받는 선물도 좋지만…
+    이런 것도 나쁘지 않네.
+  ja: |-
+    アイドルとしてもらうプレゼントも嬉しいけど…
+    こういうプレゼントも悪くないな。
+c601_01_Attractive_Up_1:
+  en: You're starting to take up a large part of my daily life. This is a problem...
+  ko: |-
+    내 일상에 너무 많은 부분을 뮤즈가 차지해 버렸어.
+    곤란한데….
+  ja: |-
+    気づいたら、いつもミューズのことで頭がいっぱいだ。
+    まいったな…
+c601_01_Attractive_Up_2:
+  en: If I could, I'd want to stay by your side forever. I feel so much more at ease
+    now, because of you.
+  ko: |-
+    가능하다면, 쭉 함께하고 싶어.
+    덕분에 마음의 여유가 많이 생겼거든.
+  ja: |-
+    できればこうして、ずっと一緒にいたい。
+    ミューズのおかげで、だいぶ心に余裕ができたんだ。
+c601_01_Attractive_Up_3:
+  en: I want to be a special source of inspiration for you too, Muse.
+  ko: 나도 뮤즈에게 특별한 영감을 주는 사람이 되고 싶어.
+  ja: |-
+    私も、ミューズに特別なインスピレーションを
+    与えられる存在になりたい。
+c601_01_Party_Deploy_1:
+  en: I hope I can find some new inspiration.
+  ko: 새로운 영감을 찾을 수 있으면 좋겠네.
+  ja: 新しいインスピレーションを得られるといいな。
+c601_01_Field_Touch_1:
+  en: You called, Muse?
+  ko: 불렀어, 뮤즈?
+  ja: 呼んだか、ミューズ？
+c601_01_Field_Go_1:
+  en: Yup, understood.
+  ko: 응, 알았어.
+  ja: ああ、分かった。
+c601_01_Battle_Enter_1:
+  en: "... I'm a little nervous."
+  ko: "…조금 긴장되는데."
+  ja: "…少し緊張するな。"
+c601_01_Battle_Ready_1:
+  en: I trust you with all my heart, Muse.
+  ko: 뮤즈만 믿을게.
+  ja: 信じてるからな、ミューズ。
+c601_01_Battle_Ready_2:
+  en: I'll put on a good show for you.
+  ko: 멋진 모습, 보여줄게.
+  ja: カッコいい姿を見せてやる。
+c601_01_Battle_Ready_3:
+  en: I've had enough practice.
+  ko: 연습은 충분했어.
+  ja: 練習ならしっかりしてきた。
+c601_01_Reload_1:
+  en: Phew...! Let me catch my breath.
+  ko: 후우…! 숨 좀 돌릴게.
+  ja: ふぅ…！少し休憩だ。
+c601_01_Reload_2:
+  en: Not bad, right?
+  ko: 제법 괜찮은 것 같지?
+  ja: なかなか悪くないだろ？
+c601_01_Reload_3:
+  en: One sec, reloading.
+  ko: 잠시, 장전할게.
+  ja: 待ってくれ、リロードする。
+c601_01_Ult_Skill_Ready_1:
+  en: All set!
+  ko: 준비됐어!
+  ja: 準備できたぞ！
+c601_01_Ult_Skill_1:
+  en: Don't take your eyes off me, Muse!
+  ko: 뮤즈, 지켜봐 줘!
+  ja: ミューズ、見守ってくれ！
+c601_01_FullBurst_1:
+  en: Don't stop! Keep going!
+  ko: 멈추지 말고, 가자!
+  ja: 止まらずに行こう！
+c601_01_Kill_Monster_1:
+  en: I'm doing pretty good...!
+  ko: 괜찮네…!
+  ja: 悪くない…！
+c601_01_Kill_Monster_2:
+  en: You saw that? Got 'em!
+  ko: 봤어? 해치웠어!
+  ja: 見たか？やったぞ！
+c601_01_Kill_Monster_3:
+  en: That's what I'm talking about.
+  ko: 좋았어.
+  ja: いい感じだな。
+c601_01_Damage_1:
+  en: Ugh...!
+  ko: 윽…!
+  ja: うぁっ…！
+c601_01_Damage_2:
+  en: Damn...!
+  ko: 이런…!
+  ja: まずい…！
+c601_01_Damage_3:
+  en: Ouch!
+  ko: 아야!
+  ja: いたっ！
+c601_01_Die_1:
+  en: I'm sorry, I need more practice...
+  ko: 연습이 부족했어… 미안해.
+  ja: 練習が足りなかった…ごめん。
+c601_01_Win_1:
+  en: That was a great experience. This could be inspiration for my next song.
+  ko: 좋은 경험이었어, 다음 곡 쓸 때 참고가 될 것 같아.
+  ja: いい経験になった。次の曲作りに活かせそうだ。
+601_cv_ja:
+  en: 'CV: Miyuri Shimabukuro'
+  ko: 'CV : 시마부쿠로 미유리'
+  ja: CV：島袋美由利
+601_cv_ko:
+  en: 'CV: Kim Soo-young'
+  ko: 'CV : 김수영'
+  ja: CV：キム・スヨン
+601_cv_en:
+  en: 'CV: Elizabeth Maxwell'
+  ko: 'CV : 엘리자베스 맥스웰'
+  ja: CV：Elizabeth Maxwell

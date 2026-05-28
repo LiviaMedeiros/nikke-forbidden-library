@@ -66,7 +66,7 @@ character_shot_description_localkey_rl_up:
     ■ Activates when entering Full Burst while in My Own Star status. Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
     ■ Activates when performing a Full Charge attack while in Everyone's Star status. Affects all allies.
-    <color=#00AEFF>Restores {description_value_03}% of the caster's <word_group=10025>final</word_group> max HP as HP.</color>
+    <color=#00AEFF>Restores {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>
     ■ Activates when entering Full Burst. Affects self and all allies with lower <word_group=10025>final</word_group> DEF than self.
     <color=#00AEFF><word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_04}% for {description_value_05} sec.</color>
     ■ Activates when entering Full Burst. Affects all allies.
@@ -114,7 +114,7 @@ skill_name_1003:
     If there are any other <word_group=10067>Burst {description_value_01} allies</word_group>:
     Effect 1: Affects self. <word_group=10101>Cancels</word_group> My Own Star.
     Effect 2: Affects self. Everyone's Star: <word_group=10062>Re-enters Burst and changes to Stage {description_value_01}</word_group>. This effect is continuous and cannot be removed.</color>
-    ■ Activates when hitting a target with Full Charge. Affects the target.
+    ■ Activates when landing a Full Charge attack. Affects the target.
     <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ 전투 시작 시 자신이 생존 상태일 때 한하여 아군 전체에게
@@ -685,7 +685,7 @@ c017_01_Outpost_Touch_3:
     전초기지는 날 품고 있기에, 너무 작은 것 같아.
     더 큰 곳으로 이사 가자!
   ja: |-
-    前哨基地は、私には小さすぎるのよね。
+    前哨基地は、 私には小さすぎるのよね。
     もっと広いところに 引っ越しましょ！
 c017_01_Gacha_Get_1:
   en: Now that I'm a star, I'm gonna shine my brightest!

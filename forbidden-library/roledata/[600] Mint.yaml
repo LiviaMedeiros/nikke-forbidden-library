@@ -89,8 +89,10 @@ character_shot_description_localkey_rl_up:
     ■バースト3段階突入時、自分が
     <word_group=10102>ステージパート</word_group>：ボーカル状態なら、
     味方全体に
-    <color=#00AEFF>「クリティカル確率{description_value_01}％▲」「{description_value_02}秒間維持」
-    「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」
+    <color=#00AEFF>「クリティカル確率{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_03}％▲」
+    「{description_value_04}秒間維持」
     「<word_group=10042>貫通ダメージ</word_group>{description_value_05}％▲」「{description_value_06}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
@@ -113,10 +115,12 @@ skill_name_1003:
     ■ 풀 차지 공격 시 자신이 <word_group=10102>무대 파트</word_group> : 댄스 상태라면 아군 전체에게
     <color=#00AEFF>[댄스 효과 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 지속 회복] [1초 간격] [{description_value_04}초 유지]</color>
   ja: |-
-    ■フルチャージして攻撃した時、自分が<word_group=10102>ステージパート</word_group>：ボーカル状態なら、
+    ■フルチャージして攻撃した時、自分が
+    <word_group=10102>ステージパート</word_group>：ボーカル状態なら、
     味方全体に
     <color=#00AEFF>「ボーカルエフェクト：スキル発動者基準で攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
-    ■フルチャージして攻撃した時、自分が<word_group=10102>ステージパート</word_group>：ダンス状態なら、
+    ■フルチャージして攻撃した時、自分が
+    <word_group=10102>ステージパート</word_group>：ダンス状態なら、
     味方全体に
     <color=#00AEFF>「ダンスエフェクト：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％持続回復」
     「1秒間隔」「{description_value_04}秒間維持」</color>
@@ -150,10 +154,14 @@ skill_name_1002:
   ja: |-
     ■自分に
     <color=#00AEFF>「条件に合う<word_group=10102>ステージパート</word_group>のみ適用」
-    条件1：自分が<word_group=10102>ステージパート</word_group>：ダンス状態なら、
-    「<word_group=10102>ステージパート</word_group>：ボーカル」「持続」「解除不可」
-    条件2：自分が<word_group=10102>ステージパート</word_group>：ダンス状態でなければ
-    「<word_group=10102>ステージパート</word_group>：ダンス」「持続」「解除不可」</color>
+    条件1：自分が<word_group=10102>ステージパート</word_group>：
+    ダンス状態なら、
+    「<word_group=10102>ステージパート</word_group>：ボーカル」「持続」
+    「解除不可」
+    条件2：自分が<word_group=10102>ステージパート</word_group>：
+    ダンス状態でなければ
+    「<word_group=10102>ステージパート</word_group>：ダンス」「持続」
+    「解除不可」</color>
     ■味方全体に
     <color=#00AEFF>「シンガロング：攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
     「最大装弾数{description_value_03}％▲」「{description_value_04}秒間維持」
@@ -297,6 +305,10 @@ material_characterskill_a_ssr_desc:
     スキル1、2のレベルアップに使用する
 
     「獲得先」：シミュレーションルーム
+601_name:
+  en: Prika
+  ko: 프리카
+  ja: プリカ
 c600_Lobby_Touch_1:
   en: What pose would you like me to do? Something cutesy? Maybe a heart? It's the
     least I can do after you waited for so long.

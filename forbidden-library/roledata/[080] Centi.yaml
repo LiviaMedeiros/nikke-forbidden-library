@@ -64,7 +64,7 @@ character_shot_description_localkey_rl_up:
 10802_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group>, equivalent to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP, which protects all allies from damage. Lasts for {description_value_02} sec. </color>
+    <color=#00AEFF>Creates a shared <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP that protects all allies from damage. Lasts for {description_value_02} sec. </color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 아군 공용 <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]</color>

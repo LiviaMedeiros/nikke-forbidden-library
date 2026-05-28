@@ -86,7 +86,7 @@ skill_name_1003:
     ■ Activates when Full Burst ends. Affects <word_group=10103>her favorite pop star</word_group>.
     <color=#00AEFF>Aftershow: ATK ▲ {description_value_02}% of the caster's ATK. This effect is removed when entering Full Burst.</color>
     ■ Activates when Full Burst ends. Affects self.
-    <color=#00AEFF>Recovers {description_value_03}% of the caster's <word_group=10025>final</word_group> max HP as HP every 1 sec for {description_value_04} sec.
+    <color=#00AEFF>Recovers {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP as HP every 1 sec for {description_value_04} sec.
     Removes Stargazer.</color>
   ko: |-
     ■ 풀 버스트 타임 종료 시 <word_group=10103>나의 우상</word_group>에게
@@ -113,7 +113,7 @@ skill_name_1002:
     ■ Affects all allies.
     <color=#00AEFF><word_group=10002>Re-enters Burst</word_group> Stage 1.</color>
     ■ Affects self.
-    <color=#00AEFF>Stargazer: Max HP ▲ {description_value_01}% of the caster's max HP continuously.</color>
+    <color=#00AEFF>Stargazer: Max HP ▲ {description_value_01}% of the caster's Max HP continuously.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[<word_group=10002>버스트 재진입</word_group> 1단계]</color>
