@@ -8410,3 +8410,647 @@ d_ex_gym_13:
     ja: |-
       ようやく鬼気迫るトレーニングを
       止めたのだった
+d_ex_gym_15:
+  d_ex_gym_15_1:
+    speaker: "<Narration>"
+    en: It's a rare day off, and I'm relaxing in my room
+    ko: 간만의 휴일, 지휘관실에서 쉬려던 찰나.
+    ja: |-
+      久々の休日、指揮官室で
+      のんびりしようと思っていた矢先
+  d_ex_gym_15_2:
+    speaker: "<Narration>"
+    en: when I get a call from Black. So I make my way to the gym.
+    ko: 블랙의 연락을 받고 체육관으로 향했다.
+    ja: |-
+      ブラックから連絡があり、
+      ジムへ向かうことにした
+  d_ex_gym_15_3:
+    speaker: arkrangerblack
+    en: Glad you made it.
+    ko: 어서와라.
+    ja: よく来てくれた。
+  d_ex_gym_15_4:
+    speaker: rumani
+    en: Good to see you, Gym Rat!
+    ko: 어서오세요, 회원님.
+    ja: こんにちは、会員さん。
+  d_ex_gym_15_5:
+    speaker: "<Self>"
+    en: You're here too, Rumani.
+    ko: 루마니도 있었네.
+    ja: ルマニもいたのか
+  d_ex_gym_15_6:
+    speaker: rumani
+    en: Yep, Black called me over.
+    ko: 네, 블랙이 불러서 나왔어요.
+    ja: はい、ブラックに呼ばれて。
+  d_ex_gym_15_7:
+    speaker: rumani
+    en: She said she wanted to try working out properly with a personal trainer at
+      least once.
+    ko: 제대로 PT를 한번 받아보고 싶다더라고요.
+    ja: |-
+      一度、ちゃんとパーソナルトレーニングを
+      受けてみたかったそうです。
+  d_ex_gym_15_8:
+    speaker: "<Self>"
+    en: I see.
+    ko: 그렇구나.
+    ja: なるほど
+  d_ex_gym_15_9:
+    speaker: "<Self>"
+    en: Then why'd you call me here, Black?
+    ko: 어? 블랙, 그럼 난 왜 부른 거야?
+    ja: ん？では、なぜ私を呼んだんだ？
+  d_ex_gym_15_10:
+    speaker: arkrangerblack
+    en: So we could train together, of course.
+    ko: 당연히, 같이 받기 위해서다.
+    ja: 当然、共に受けるためだ。
+  d_ex_gym_15_11:
+    speaker: arkrangerblack
+    en: I heard training with other people brings out your competitive side and keeps
+      you motivated.
+    ko: 그룹으로 받으면 경쟁심도 자극되고 좋다고 하더군.
+    ja: |-
+      誰かと一緒に受けると、
+      お互いが刺激となって、効果が高まるらしい。
+  d_ex_gym_15_12:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_gym_15_13:
+    speaker: "<Self>"
+    en: Uh... I suddenly got a headache, so I think I should head back...
+    ko: 저, 저기… 나는 갑자기 머리가 아파서 돌아가봐야할 것 같….
+    ja: |-
+      あ…急に頭痛が…
+      帰ってもいいか…？
+  d_ex_gym_15_14:
+    speaker: rumani
+    en: Aw, come on. Since you're already here, why not get a quick workout in before
+      you go?
+    ko: 에이~ 그러지 마시고 온김에 받고 가요, 회원님.
+    ja: |-
+      もう～、そう言わずに。
+      せっかく来たんですから、
+      トレーニングを受けていってください。
+  d_ex_gym_15_15:
+    speaker: rumani
+    en: I'll show you some exercises that are great for headaches.
+    ko: 제가 두통에 좋은 운동 알려드릴게요.
+    ja: |-
+      頭痛に効くトレーニングを
+      教えてあげますから。
+  d_ex_gym_15_16:
+    speaker: "<Self>"
+    en: There's no way exercises like that exist. You're making that up.
+    ko: 그런 운동이 있다고? 거짓말일 거야.
+    ja: |-
+      そんなトレーニングがあるのか？
+      ウソだろう？
+  d_ex_gym_15_17:
+    speaker: arkrangerblack
+    en: Let's begin.
+    ko: 시작해줘.
+    ja: 始めてくれ。
+  d_ex_gym_15_18:
+    speaker: arkrangerblack
+    en: We're ready.
+    ko: 우리는 준비됐다.
+    ja: 私たちは準備万端だ。
+  d_ex_gym_15_19:
+    speaker: rumani
+    en: All right then, let's get started.
+    ko: 좋아요, 그럼 시작할게요.
+    ja: 分かりました。では、始めましょう。
+  d_ex_gym_15_20:
+    speaker: "<Self>"
+    en: "... Don't I get a say...?"
+    ko: "…아니, 내 의사는…."
+    ja: "…待ってくれ、私は…"
+  d_ex_gym_15_21:
+    speaker: "<Monologue>"
+    en: "... Eventually, I end up joining in too."
+    ko: "…결국, 나도 참여하게 되었다."
+    ja: "…結局、私も一緒に受けることになってしまった"
+  d_ex_gym_15_22:
+    speaker: "<Monologue>"
+    en: After a quick stretch, we get started the workout.
+    ko: 본격적인 운동에 앞서 간단한 스트레칭 후.
+    ja: |-
+      トレーニングの前に
+      簡単なストレッチをした後…
+  d_ex_gym_15_23:
+    speaker: rumani
+    en: Let's start with the bench press.
+    ko: 우선은 벤치프레스부터 가볼까요.
+    ja: まずは、ベンチプレスから。
+  d_ex_gym_15_24:
+    speaker: arkrangerblack
+    en: Great, I do this all the time, so this should be easy enough.
+    ko: 좋아, 이건 자주 하는 거라 수월할 것 같군.
+    ja: |-
+      ああ、これはよくやっているから
+      問題はなさそうだ。
+  d_ex_gym_15_25:
+    speaker: "<Monologue>"
+    en: Black starts loading weight plates onto the bar without hesitation.
+    ko: 블랙은 바벨 원판을 거침없이 끼우기 시작한다.
+    ja: |-
+      ブラックは、バーベルプレートを
+      慣れた手つきで付け始めた
+  d_ex_gym_15_26:
+    speaker: "<Narration>"
+    en: "*Clink, clink*"
+    ko: 스윽- 스윽-
+    ja: カチャッ、カチャッ――
+  d_ex_gym_15_27:
+    speaker: "<Self>"
+    en: Huh? You're starting with that much weight?
+    ko: 응? 처음부터 그 무게로 한다고?
+    ja: えっ？最初からその重さで？
+  d_ex_gym_15_28:
+    speaker: arkrangerblack
+    en: Need me to add more?
+    ko: 부족한가?
+    ja: 足りないか？
+  d_ex_gym_15_29:
+    speaker: "<Self>"
+    en: No, that's not it. I'm worried it'll be too heavy...
+    ko: 아니, 그게 아니라 너무 무거울까봐….
+    ja: いや、重すぎないかと…
+  d_ex_gym_15_30:
+    speaker: arkrangerblack
+    en: This is nothing.
+    ko: 이 정도는 문제없다.
+    ja: この程度なら問題ない。
+  d_ex_gym_15_31:
+    speaker: arkrangerblack
+    en: "... If anything, yours looks a little lacking."
+    ko: "…오히려 네 건 너무 부족해 보이는군."
+    ja: "…むしろ、君のは軽すぎるように見えるな。"
+  d_ex_gym_15_32:
+    speaker: "<Narration>"
+    en: Black slides more weight plates onto my barbell.
+    ko: 스윽- 스윽-
+    ja: カチャッ、カチャッ――
+  d_ex_gym_15_33:
+    speaker: arkrangerblack
+    en: You should be adding at least this much weight.
+    ko: 이 정도는 끼워줘야 하지 않나.
+    ja: このくらいは付けるべきだろう。
+  d_ex_gym_15_34:
+    speaker: "<Self>"
+    en: "... How am I supposed to lift this?"
+    ko: "…이걸 어떻게 들란 거야."
+    ja: "…こんなの、どうやって持ち上げるんだ"
+  d_ex_gym_15_35:
+    speaker: rumani
+    en: All right, let's get started. Black, you're first.
+    ko: 자, 그럼 시작할게요. 블랙부터.
+    ja: それでは、始めましょう。ブラックから。
+  d_ex_gym_15_36:
+    speaker: arkrangerblack
+    en: Hrrrrgh!
+    ko: 흐으으읍---!!
+    ja: はぁぁぁっ…！！
+  d_ex_gym_15_37:
+    speaker: "<Monologue>"
+    en: Black effortlessly lifts a barbell loaded with plates on both ends.
+    ko: 블랙은 양쪽에 바벨 원판을 가득 채운 바벨을 가뿐히 들어보였다.
+    ja: |-
+      ブラックは両側にプレートを
+      限界まで付けたバーベルを
+      軽々と持ち上げた
+  d_ex_gym_15_38:
+    speaker: "<Self>"
+    en: No way...
+    ko: 말도 안 돼….
+    ja: ウソだろう…
+  d_ex_gym_15_39:
+    speaker: rumani
+    en: Not bad, but...
+    ko: 좋네요, 그런데.
+    ja: いいですね。ですが…
+  d_ex_gym_15_40:
+    speaker: rumani
+    en: you're lifting too much with your arms.
+    ko: 너무 팔 힘으로만 들고 있어요.
+    ja: 腕の力だけで上げていますね。
+  d_ex_gym_15_41:
+    speaker: arkrangerblack
+    en: What...?
+    ko: "…뭐라고?"
+    ja: "…そうか？"
+  d_ex_gym_15_42:
+    speaker: rumani
+    en: Right here. Keep your shoulder blades engaged, then press through your chest.
+    ko: |-
+      여기, 견갑 쪽에 똑바로 힘주셔야 해요.
+      그리고 가슴 힘으로 밀어주세요.
+    ja: |-
+      ここの、肩甲骨の辺りを意識して
+      力を入れてください。
+      そして、胸の力で押し上げるんです。
+  d_ex_gym_15_43:
+    speaker: arkrangerblack
+    en: Got it, I'll try again.
+    ko: 알았다, 다시 들어보지.
+    ja: 分かった、もう一度やってみよう。
+  d_ex_gym_15_44:
+    speaker: arkrangerblack
+    en: Hrrrrgh!
+    ko: 흐으으읍---!!
+    ja: はぁぁぁっ…！！
+  d_ex_gym_15_45:
+    speaker: arkrangerblack
+    en: "...?!"
+    ko: "…?!"
+    ja: "…！？"
+  d_ex_gym_15_46:
+    speaker: "<Narration>"
+    en: "*Thud!*"
+    ko: 쿠웅-!
+    ja: ドスンッ…！
+  d_ex_gym_15_47:
+    speaker: "<Narration>"
+    en: The barbell Black had been lifting so effortlessly just moments ago suddenly
+      falls from her hands.
+    ko: 방금 전까지 가뿐하게 들었던 바벨을 힘없이 놓쳐버린 블랙.
+    ja: |-
+      ブラックは、先ほどまで軽々と持ち上げていた
+      バーベルを支えきれずに落としてしまった
+  d_ex_gym_15_48:
+    speaker: arkrangerblack
+    en: Impossible...
+    ko: "…이럴 수가."
+    ja: そんな…
+  d_ex_gym_15_49:
+    speaker: arkrangerblack
+    en: Why does it feel so heavy all of a sudden?
+    ko: 갑자기 훨씬 무겁게 느껴진다.
+    ja: 急にとても重く感じた。
+  d_ex_gym_15_50:
+    speaker: arkrangerblack
+    en: I can't lift it.
+    ko: 들질 못하겠어.
+    ja: 持ち上げることすらできない。
+  d_ex_gym_15_51:
+    speaker: rumani
+    en: That's what usually happens when you lift with proper form.
+    ko: 제대로 된 자세로 들면 보통은 그래요.
+    ja: |-
+      ちゃんとしたフォームで持つと、
+      普通はそうなるんです。
+  d_ex_gym_15_52:
+    speaker: rumani
+    en: Want to try it again with the right posture?
+    ko: 다시 한번 올바른 자세로 들어볼까요?
+    ja: |-
+      もう一度、正しいフォームで
+      持ち上げてみましょうか？
+  d_ex_gym_15_53:
+    speaker: rumani
+    en: Come on, Gym Rat, no more whining. Let's see you lift it.
+    ko: 아, 회원님도 엄살 부리지 말고 빨리 들어보세요.
+    ja: |-
+      あ、会員さんも弱音を吐かずに
+      早くやってみてくださいね。
+  d_ex_gym_15_54:
+    speaker: "<Self>"
+    en: No, seriously... This thing's too heavy. I can't lift it!
+    ko: 아니… 나는 진짜 무거워서 못들겠다고.
+    ja: いや…本当に重くて、持てそうにない
+  d_ex_gym_15_55:
+    speaker: "<Narration>"
+    en: A little while later...
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_gym_15_56:
+    speaker: rumani
+    en: All right, next we're doing deadlifts.
+    ko: 다음은 데드리프트예요.
+    ja: 次は、デッドリフトです。
+  d_ex_gym_15_57:
+    speaker: arkrangerblack
+    en: Fine by me. I do this kind of training all the time.
+    ko: 좋아, 이것도 자주 하는 거라 문제없다.
+    ja: |-
+      いいだろう、これもよくやっているから
+      問題ない。
+  d_ex_gym_15_58:
+    speaker: "<Narration>"
+    en: Rumani slides weight plates onto the barbell.
+    ko: 스윽- 스윽-
+    ja: カチャッ、カチャッ――
+  d_ex_gym_15_59:
+    speaker: rumani
+    en: Black, let's try this amount of weight first, okay?
+    ko: 아, 블랙. 무게는 우선 이정도만 끼워서 해봐요.
+    ja: |-
+      あっ、ブラック。
+      まずこのくらいから始めてみてください。
+  d_ex_gym_15_60:
+    speaker: arkrangerblack
+    en: Isn't this too light?
+    ko: 이건 너무 가볍지 않나.
+    ja: これでは、軽すぎないか。
+  d_ex_gym_15_61:
+    speaker: rumani
+    en: Give it a shot first. If it feels too easy, I'll add more weight for you.
+    ko: 해보고 모자란 것 같으면 제가 더 끼울게요.
+    ja: |-
+      やってみて、足りなそうなら
+      私が増やしますから。
+  d_ex_gym_15_62:
+    speaker: rumani
+    en: As for you, Gym Rat...
+    ko: 아, 회원님은.
+    ja: えっと、会員さんは…
+  d_ex_gym_15_63:
+    speaker: "<Narration>"
+    en: Rumani slides more weight plates onto my barbell.
+    ko: 스윽- 스윽-
+    ja: カチャッ、カチャッ――
+  d_ex_gym_15_64:
+    speaker: rumani
+    en: I'll add a bit more.
+    ko: 이 정도만 더 추가해서 하도록 해요.
+    ja: あとこれくらい増やしてやってみましょう。
+  d_ex_gym_15_65:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_gym_15_66:
+    speaker: rumani
+    en: All right, let's begin.
+    ko: 자, 그럼 시작.
+    ja: では、スタート。
+  d_ex_gym_15_67:
+    speaker: arkrangerblack
+    en: Hrrrrgh!
+    ko: 흐으으읍---!!
+    ja: はぁぁぁっ…！！
+  d_ex_gym_15_68:
+    speaker: "<Monologue>"
+    en: Black effortlessly lifts the barbell.
+    ko: 바벨을 가뿐히 들어보이는 블랙.
+    ja: |-
+      ブラックはバーベルを軽々と
+      持ち上げてみせた
+  d_ex_gym_15_69:
+    speaker: arkrangerblack
+    en: I knew it would be too light...
+    ko: 역시 이건 너무 가볍…..
+    ja: やはり、これでは軽すぎ…
+  d_ex_gym_15_70:
+    speaker: rumani
+    en: Your back is arching too much. Straighten it.
+    ko: 지금 허리 너무 말렸어요, 똑바로 펴시고.
+    ja: |-
+      腰が丸まっていましたよ。
+      きちんと伸ばして。
+  d_ex_gym_15_71:
+    speaker: arkrangerblack
+    en: Ngh.
+    ko: 흡.
+    ja: ふんっ。
+  d_ex_gym_15_72:
+    speaker: rumani
+    en: Tighten your core, and keep the bar closer to your body.
+    ko: 코어 잡고, 바벨은 몸에 더 가까이 붙여주세요.
+    ja: |-
+      お腹に力を入れて、
+      バーベルはもっと体に近づけてください。
+  d_ex_gym_15_73:
+    speaker: arkrangerblack
+    en: Got it. Ngh!
+    ko: 알겠다, 흡-!
+    ja: 分かった、フンーッ！
+  d_ex_gym_15_74:
+    speaker: rumani
+    en: No, no! You're gonna throw your back out lifting like that!
+    ko: 아니아니, 그렇게 잡으면 허리파츠 나가요!
+    ja: |-
+      ダメダメ、そんなふうに力を入れたら
+      腰のパーツが吹っ飛んじゃいますよ！
+  d_ex_gym_15_75:
+    speaker: arkrangerblack
+    en: "?!"
+    ko: "?!"
+    ja: "！？"
+  d_ex_gym_15_76:
+    speaker: "<Narration>"
+    en: "*Thud!*"
+    ko: 쿠웅-!
+    ja: ドスンッ…！
+  d_ex_gym_15_77:
+    speaker: arkrangerblack
+    en: Was my form off again?
+    ko: 방금도 내 자세가 잘못됐던 건가?
+    ja: またフォームが間違っていたということか？
+  d_ex_gym_15_78:
+    speaker: rumani
+    en: Yes, it was.
+    ko: 네, 잘못됐어요.
+    ja: ええ、そうですね。
+  d_ex_gym_15_79:
+    speaker: arkrangerblack
+    en: But I had no trouble lifting it.
+    ko: 하지만 들어올리는 데엔 문제가 없었다.
+    ja: だが、ちゃんと持ち上げられたぞ。
+  d_ex_gym_15_80:
+    speaker: rumani
+    en: Black, proper form is everything if you want to work out correctly.
+    ko: 블랙, 제대로 된 운동을 하려면 올바른 자세가 중요해요.
+    ja: |-
+      ブラック。ちゃんと鍛えるなら、
+      フォームを意識しないと。
+  d_ex_gym_15_81:
+    speaker: rumani
+    en: Just throwing heavy weights around doesn't mean you're actually exercising.
+    ko: 그저 무거운 걸 번쩍번쩍 든다고 해서 운동이 되는 건 아니거든요.
+    ja: |-
+      ただ重いものをひょいと持ち上げることが
+      トレーニングではないんです。
+  d_ex_gym_15_82:
+    speaker: rumani
+    en: Right now, your body's gotten used to lifting in whatever way feels easiest.
+    ko: 당신은 지금 전반적으로 편하게 드는 요령이 몸에 밴 느낌이에요.
+    ja: |-
+      今のあなたは、楽に持ち上げるクセが
+      体に染みついてますね。
+  d_ex_gym_15_83:
+    speaker: rumani
+    en: The muscles that are supposed to be working
+    ko: 힘이 들어가야할 곳, 즉.
+    ja: 力を入れるべき部分、つまり、
+  d_ex_gym_15_84:
+    speaker: rumani
+    en: aren't being engaged at all.
+    ko: 운동이 되어야하는 부위가 전혀 운동이 되고있지 않다고요.
+    ja: |-
+      鍛えなければならない部分が
+      まったく鍛えられていません。
+  d_ex_gym_15_85:
+    speaker: arkrangerblack
+    en: Impossible...
+    ko: "…이럴 수가."
+    ja: "…そんな。"
+  d_ex_gym_15_86:
+    speaker: arkrangerblack
+    en: I never even considered that.
+    ko: 그건 전혀 생각하지 못했다.
+    ja: まったく気付かなかった…
+  d_ex_gym_15_87:
+    speaker: arkrangerblack
+    en: So this is why everyone kept telling me to get a personal trainer.
+    ko: 이래서 다들 PT를 받아보라고 했던 거로군.
+    ja: |-
+      だから皆、パーソナルトレーニングを
+      勧めていたのか。
+  d_ex_gym_15_88:
+    speaker: arkrangerblack
+    en: Rumani, would you help me correct my form one more time?
+    ko: 루마니, 다시 한번 자세를 잡아줄 수 있겠나?
+    ja: ルマニ、もう一度フォームを見てくれないか？
+  d_ex_gym_15_89:
+    speaker: rumani
+    en: Of course.
+    ko: 물론이죠.
+    ja: もちろんです。
+  d_ex_gym_15_90:
+    speaker: rumani
+    en: All right, let's try that again with proper form this time.
+    ko: 그럼 다시 한번 올바른 자세로 들어보도록 해요.
+    ja: |-
+      では、もう一度正しいフォームで
+      持ち上げてみましょう。
+  d_ex_gym_15_91:
+    speaker: rumani
+    en: You too, Gym Rat. Let's go!
+    ko: 회원님도 시작~
+    ja: 会員さんも、せ～の。
+  d_ex_gym_15_92:
+    speaker: arkrangerblack
+    en: Hrrrrgh!
+    ko: 흐으으읍---!!
+    ja: はぁぁぁっ…！！
+  d_ex_gym_15_93:
+    speaker: "<Self>"
+    en: Arghhh!
+    ko: 으아아아---!!
+    ja: ぐぁぁぁっ…！！
+  d_ex_gym_15_94:
+    speaker: rumani
+    en: Good, hold it there for ten seconds.
+    ko: 좋아요, 그 자세로 10초만 버틸게요.
+    ja: |-
+      その調子です、
+      そのまま10秒間キープしましょう。
+  d_ex_gym_15_95:
+    speaker: arkrangerblack
+    en: Hrrrrrgh!
+    ko: 흐으으으으으읍---!!
+    ja: ぐぬぬぬぬぬぬっ…！！
+  d_ex_gym_15_96:
+    speaker: "<Self>"
+    en: Ahhhhhh!
+    ko: 으아아아아아아---!!
+    ja: ぬああああああっ…！！
+  d_ex_gym_15_97:
+    speaker: "<Monologue>"
+    en: After that, Black and I keep grinding through one exercise after another.
+    ko: 그리고 그 이후에도, 블랙과 나는 이런저런 운동으로 열심히 굴려졌다.
+    ja: |-
+      そして、その後もブラックと私は
+      さまざまなトレーニングで
+      みっちりしごかれた
+  d_ex_gym_15_98:
+    speaker: "<Monologue>"
+    en: Several hours later...
+    ko: 몇시간 후.
+    ja: 数時間後
+  d_ex_gym_15_99:
+    speaker: arkrangerblack
+    en: "*Huff, huff...*"
+    ko: "…후우, 후우."
+    ja: "…フウッ、フウッ。"
+  d_ex_gym_15_100:
+    speaker: arkrangerblack
+    en: Rumani, today's training session with you was incredibly meaningful.
+    ko: 루마니, 오늘 너와 함께 한 PT는 아주 의미있고 소중한 시간이었다.
+    ja: |-
+      ルマニ、今日の君とのパーソナルトレーニングは
+      実に有意義で貴重な時間だった。
+  d_ex_gym_15_101:
+    speaker: arkrangerblack
+    en: It's unfortunate that I've been training with improper form all this time,
+    ko: 그동안 잘못된 자세로 운동을 해왔다는 건 안타깝지만.
+    ja: |-
+      これまで間違ったフォームで
+      トレーニングをしていたのは残念だが、
+  d_ex_gym_15_102:
+    speaker: arkrangerblack
+    en: but I'm glad I learned that proper form makes exercising far more effective.
+    ko: 제대로 된 자세로 운동하면 그 효과도 배가 된다는 사실을 알게되어 매우 기쁘다.
+    ja: |-
+      正しいフォームで鍛えれば
+      効果も倍になると分かって、とても嬉しい。
+  d_ex_gym_15_103:
+    speaker: arkrangerblack
+    en: From now on, I'll make sure to maintain proper form whenever I train.
+    ko: 앞으로는 꼭 올바른 자세로 운동할 수 있도록 하겠다.
+    ja: |-
+      これからは必ず正しいフォームで
+      トレーニングするようにしよう。
+  d_ex_gym_15_104:
+    speaker: rumani
+    en: If there are any exercises you're unsure about or having trouble with, feel
+      free to reach out anytime.
+    ko: 혹시라도 헷갈리거나 어려운 자세가 있으면 언제든 편하게 연락주세요.
+    ja: |-
+      困ったことがあれば、
+      いつでも遠慮せずにご連絡ください。
+  d_ex_gym_15_105:
+    speaker: rumani
+    en: It's been a while since I've met someone this motivated, so I'm really happy.
+    ko: 저도 간만에 열정있는 회원분을 만나 기분이 좋네요.
+    ja: |-
+      私も久しぶりに情熱のある方に出会えて、
+      うれしいです。
+  d_ex_gym_15_106:
+    speaker: rumani
+    en: You should stop by together sometime.
+    ko: 종종 회원님이랑 같이 들러주세요.
+    ja: 時々、会員さんと一緒にお越しください。
+  d_ex_gym_15_107:
+    speaker: arkrangerblack
+    en: Absolutely, I'll come whenever I get the chance.
+    ko: 좋아, 시간날 때 들르도록 하지.
+    ja: ああ、時間が空いたら寄らせてもらおう。
+  d_ex_gym_15_108:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_gym_15_109:
+    speaker: "<Monologue>"
+    en: Satisfied with Rumani's training session, Black leaves with a smile, already
+      looking forward to the next one.
+    ko: 루마니의 PT체험에 만족한 블랙은 흐뭇한 얼굴로 다음을 기약했고.
+    ja: |-
+      ルマニとのトレーニングに満足した
+      ブラックは、嬉しそうに
+      次の予約をし…
+  d_ex_gym_15_110:
+    speaker: "<Monologue>"
+    en: Meanwhile, I end up bedridden the next day after pushing myself way too hard.
+    ko: 무리하게 운동한 나는 다음 날, 그대로 몸져 눕고 말았다.
+    ja: |-
+      無理をした私は次の日、
+      体調を崩して寝込むことになった

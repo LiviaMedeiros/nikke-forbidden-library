@@ -88,7 +88,7 @@ skill_name_1003:
     ■ Activates when performing Full Charge attacks. Affects self.
     <color=#00AEFF>Gain Pierce for {description_value_01} sec.</color>
     ■ Activates when not in the Embarrassment state and when Full Charge lasts for {description_value_07} sec or more. Affects self.
-    <color=#00AEFF>Embarrassment:
+    <color=#00AEFF>Embarrassment
     Function: <word_group=10087>Forcefully reloads</word_group> at reduced reloading speed, but increases attack capabilities and deals <word_group=10019>Distributed Damage</word_group>.
     Effect 1: Affects all enemies. Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.
     Effect 2: Affects self. Removes {description_value_08}% of ammo.

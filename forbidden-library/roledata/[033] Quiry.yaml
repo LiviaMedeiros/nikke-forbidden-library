@@ -64,7 +64,7 @@ character_shot_description_localkey_rl_up:
   ja: 見渡し
 20332_description:
   en: |-
-    ■ Activates when entering battle. Affects {description_value_01} Defender ally unit(s).
+    ■ Activates at the start of battle. Affects {description_value_01} Defender ally unit(s).
     <color=#00AEFF>Max HP ▲ {description_value_02}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 방어형 아군 {description_value_01}기에게

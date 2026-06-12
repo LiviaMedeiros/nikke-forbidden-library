@@ -4,10 +4,9 @@
   ko: '아니스 : 스파클링 서머'
   ja: アニス：スパークリングサマー
 c015_description:
-  en: |-
-    Anis has finally brought out her much-anticipated swimsuit and put it on.
-    This time, she is sure to get what she wants,
-    be it free time on the beach, or more time with those close to her.
+  en: Anis has finally brought out her much-anticipated swimsuit and put it on. This
+    time, she is sure to get what she wants, be it free time on the beach, or more
+    time with those close to her.
   ko: |-
     드디어 비장의 수영복을 꺼내 입은 아니스.
     이번에야말로 모든 것을 손에 넣을 것이다.
@@ -56,8 +55,8 @@ character_shot_description_localkey_sg_down:
   ko: 스파클링 미사일
   ja: スパークリングミサイル
 20152_description:
-  en: "■ Activates when firing the last bullet. Affects {description_value_04} enemy
-    unit(s) with the highest <word_group=10025>final</word_group> ATK.\n<color=#00AEFF>Deals
+  en: "■ Activates when firing the last bullet. Affects the {description_value_04}
+    enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.\n<color=#00AEFF>Deals
     {description_value_01}% of <word_group=10025>final</word_group> ATK as damage.</color>
     \n■ Activates when firing the last bullet. Affects self.\n<color=#00AEFF><word_group=10000>Damage
     to Interruption Parts</word_group> ▲ {description_value_02}% for {description_value_03}
@@ -68,7 +67,8 @@ character_shot_description_localkey_sg_down:
     ■ 마지막 탄환 공격 시 자신에게
     <color=#00AEFF>[<word_group=10000>저지 부위 공격 대미지</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]</color>
   ja: |-
-    ■最後の弾丸で攻撃した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_04}機に
+    ■最後の弾丸で攻撃した時、
+    <word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_04}機に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」</color>
     ■最後の弾丸で攻撃した時、自分に
     <color=#00AEFF>「<word_group=10000>阻止部位の攻撃ダメージ</word_group>{description_value_02}％▲」
@@ -331,7 +331,7 @@ c015_Lobby_Stay_1:
 c015_Lobby_Stay_Love_1:
   en: If you don't get your butt over here, I'm gonna start drinking without you.
   ko: 지휘관님~ 빨리 안 오면 나 혼자 취해버린다~?
-  ja: 指揮官様～、早く来ないと、私1人で全部飲んじゃうんだから！
+  ja: 指揮官様～早く来ないと、私1人で全部飲んじゃうんだから！
 c015_Outpost_Touch_1:
   en: Wanna go check out the sea again, just the two of us?
   ko: 또 같이 바다에 가고 싶다, 그치?
@@ -355,7 +355,7 @@ c015_Reinforce_1:
     サマーアニス～
     レベル～ア～ップ！
 c015_Reinforce_2:
-  en: The more skimpy my clothing, the more powerful I am... swimsuits are rock!
+  en: The more skimpy my clothing, the more powerful I am... Swimsuits rock!
   ko: 역시 옷이 얇아질수록 강해지는 건가…! 수영복 최고!
   ja: |-
     やっぱり、布面積が少なければ少ないほど力が増すのかも…！

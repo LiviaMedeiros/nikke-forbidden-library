@@ -54,9 +54,9 @@ character_shot_description_localkey_mg_down:
   ja: レムが治療します！
 28202_description:
   en: |-
-    ■ Activates when entering battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Recovers {description_value_01}% of attack damage as HP continuously.</color>
-    ■ Activates when entering battle. Affects self and {description_value_02} Rocket Launcher-wielding ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    ■ Activates at the start of battle. Affects self and {description_value_02} Rocket Launcher-wielding ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF><word_group=10046>Equally shares HP recovery</word_group> continuously.</color>
   ko: |-
     ■ 전투 시작 시 자신에게

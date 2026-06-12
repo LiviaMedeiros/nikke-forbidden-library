@@ -56,7 +56,7 @@ character_shot_description_localkey_smg_down:
   en: |-
     ■ Activates when landing {description_value_01} normal attack(s). Affects all allies.
     <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_02}.</color>
-    ■ Activates when entering battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_03}% continuously.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 아군 전체에게

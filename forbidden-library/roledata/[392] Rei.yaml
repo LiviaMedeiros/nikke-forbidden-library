@@ -58,8 +58,8 @@ character_shot_description_localkey_smg_down:
   ja: 先輩の気合
 23922_description:
   en: |-
-    ■ Activates when entering battle. Affects self.
-    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an Avatar with {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP for {description_value_04} sec.</color>
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_04} sec.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[<word_group=10024>디코이</word_group> : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 분신] [{description_value_04}초 유지]</color>

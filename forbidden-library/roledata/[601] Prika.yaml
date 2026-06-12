@@ -68,7 +68,7 @@ character_shot_description_localkey_sr_up:
     ■ Activates when entering Full Burst. Affects self.
     <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.</color>
     ■ Activates when Sing Along takes effect while Prika is in Performance status.
-    <color=#00AEFF>Encore:
+    <color=#00AEFF>Encore
     Function: Extends the duration of Performance for Prika and strengthens allies.
     Effect 1: Affects the member who initiated Sing Along. <word_group=10102>Assigned Part</word_group>: Singing. This effect is continuous and cannot be removed.
     Effect 2: Affects all allies. Performance <word_group=10051>duration ▲ {description_value_03} sec.</word_group>
@@ -145,9 +145,9 @@ skill_name_1002:
 16013_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Performance:
+    <color=#00AEFF>Performance
     Function: Strengthens allies and restores HP.
-    Effect 1: Restores {description_value_01}% of the caster's <word_group=10025> final</word_group> max HP as HP every 1 sec for {description_value_02} sec. This effect cannot be removed.
+    Effect 1: Restores {description_value_01}% of the caster's <word_group=10025>final</word_group> max HP as HP every 1 sec for {description_value_02} sec. This effect cannot be removed.
     Effect 2: Charge Damage ▲ {description_value_05}% for {description_value_06} sec. This effect cannot be removed.</color>
   ko: "■ 아군 전체에게\n<color=#00AEFF>[퍼포먼스] : \n기능 : 아군 회복 및 강화.\n효과1 : [시전자의 <word_group=10025>최종</word_group>
     최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격] [{description_value_02}초 유지] [해제

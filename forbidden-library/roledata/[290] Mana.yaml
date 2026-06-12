@@ -55,7 +55,7 @@ character_shot_description_localkey_ar_down:
   ja: マターシグマ
 22902_description:
   en: |-
-    ■ Activates at the start of the battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Metal σ: <word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_01}% continuously.</color>
     ■ Activates when entering Full Burst in Metal σ status. Affects self.
     <color=#00AEFF>Attack Damage ▲ {description_value_02}% for {description_value_03} sec.
@@ -97,8 +97,8 @@ skill_name_1003:
   ko: 매터 감마
   ja: マターガンマ
 22901_description:
-  en: "■ Activates at the start of the battle. Affects self. \n<color=#00AEFF>Metal
-    γ: ATK ▲ {description_value_01}% continuously. Activates once per battle.</color>\n■
+  en: "■ Activates at the start of battle. Affects self. \n<color=#00AEFF>Metal γ:
+    ATK ▲ {description_value_01}% continuously. Activates once per battle.</color>\n■
     Activates when in Metal γ status after landing 10 normal attacks. Affects all
     allies.\n<color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group>
     Max HP as HP.</color>\n■ Activates if the caster is in Metal γ status when an

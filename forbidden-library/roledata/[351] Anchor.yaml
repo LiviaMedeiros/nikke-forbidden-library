@@ -61,7 +61,7 @@ character_shot_description_localkey_rl_up:
   ja: MDS
 23512_description:
   en: |-
-    ■ Activates when entering battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF><word_group=10007>When attacking an enemy projectile, damage dealt to that projectile</word_group> ▲ {description_value_01}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 자신에게

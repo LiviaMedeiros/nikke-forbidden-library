@@ -68,9 +68,11 @@ character_shot_description_localkey_ar_down:
     <color=#00AEFF>[벚꽃잎 : <word_group=10025>최종</word_group> 공격력 {description_value_03}% 지속 대미지] [1초 간격] [{description_value_04}초 유지]</color>
   ja: |-
     ■自分に
-    <color=#00AEFF>「花の舞：攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    <color=#00AEFF>「花の舞：攻撃ダメージ{description_value_01}％▲」
+    「{description_value_02}秒間維持」</color>
     ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に
-    <color=#00AEFF>「桜かんむり：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の持続ダメージ」「1秒間隔」「{description_value_04}秒間維持」</color>
+    <color=#00AEFF>「桜かんむり：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の
+    持続ダメージ」「1秒間隔」「{description_value_04}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -81,7 +83,7 @@ skill_name_1003:
   ja: 花のほころび
 22841_description:
   en: |-
-    ■ Activates at the start of the battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Forcefully uses Skill 2.</color>
     ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self.
     <color=#00AEFF>Sustained Damage ▲ {description_value_02}% for {description_value_03} sec.</color>
@@ -101,11 +103,16 @@ skill_name_1003:
   ja: |-
     ■戦闘開始時、自分に
     <color=#00AEFF>「スキル2強制使用」</color>
-    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>、自分に
+    ■自分を含む味方の誰かが
+    <word_group=10052>パーツを破壊した時</word_group>、自分に
     <color=#00AEFF>「持続ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
-    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>、自分が花の舞状態なら、自分に
+    ■自分を含む味方の誰かが
+    <word_group=10052>パーツを破壊した時</word_group>、
+    自分が花の舞状態なら、自分に
     <color=#00AEFF>「花の舞<word_group=10051>維持時間{description_value_01}秒▲</word_group>」</color>
-    ■自分を含む味方の誰かが<word_group=10052>パーツを破壊した時</word_group>桜かんむり状態の敵全体に
+    ■自分を含む味方の誰かが
+    <word_group=10052>パーツを破壊した時</word_group>
+    桜かんむり状態の敵全体に
     <color=#00AEFF>「桜かんむり<word_group=10051>維持時間{description_value_04}秒▲</word_group>」</color>
 skill_name_1002:
   en: Skill 1
@@ -128,9 +135,12 @@ skill_name_1002:
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 지속 대미지] [1초 간격] [{description_value_04}중첩][{description_value_05}초 유지]</color>
   ja: |-
     ■ランダムの敵に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」「{description_value_02}回<word_group=10050>順番に攻撃</word_group>」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」
+    「{description_value_02}回<word_group=10050>順番に攻撃</word_group>」</color>
     ■同じ敵に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の持続ダメージ」「1秒間隔」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の持続ダメージ」
+    「1秒間隔」「{description_value_04}スタック」
+    「{description_value_05}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬
@@ -313,9 +323,9 @@ c284_Lobby_Touch_Love_1:
   ko: 햇살이 뜨거우니, 이 안에 들어오는 건 어떠신지요.
   ja: 日差しが熱いので、この中にどうぞ。
 c284_Lobby_Touch_Love_2:
-  en: |-
-    I believe I have informed you before, but I do not have the habit of sharing what is mine.
-    Since you have entered my heart, everything of yours now belongs to me.
+  en: I believe I have informed you before, but I do not have the habit of sharing
+    what is mine. Since you have entered my heart, everything of yours now belongs
+    to me.
   ko: |-
     말씀드렸을 겁니다. 제 것을 남들과 나누는 취미는 없다고.
     이 마음속에 들어온 이상, 군의 모든 것은 전부 저의 것입니다.
@@ -323,9 +333,8 @@ c284_Lobby_Touch_Love_2:
     お伝えしたはずです。私のものを分け合う趣味はないと。
     この心に入り込んだ以上、君はすべて私のものです。
 c284_Lobby_Touch_Love_3:
-  en: |-
-    When I close my eyes, memories of us together come flooding back...
-    What was your favorite part of this summer?
+  en: When I close my eyes, memories of us together come flooding back... What was
+    your favorite part of this summer?
   ko: |-
     눈을 감으면, 군과 함께 쌓아 올린 추억이 하나 둘 떠오르는군요.
     …이번 여름, 군께선 무엇이 가장 즐거우셨는지요?
@@ -342,8 +351,7 @@ c284_Lobby_Stay_1:
     このような服まで用意したのに、目もくれないとは。
     …寂しいですね。
 c284_Lobby_Stay_Love_1:
-  en: |-
-    I wonder where all those connections we made at the beach will lead to next?
+  en: I wonder where all those connections we made at the beach will lead to next?
     Hehe, it's quite exciting.
   ko: |-
     바다에서의 인연이, 다음엔 어디로 이어질지.
@@ -352,9 +360,8 @@ c284_Lobby_Stay_Love_1:
     海での縁が、次はどこまで続くのか…
     ふふ、楽しみですね。
 c284_Outpost_Touch_1:
-  en: |-
-    Have you seen Moran?
-    After she looked at the photos we took at the beach, she started sulking, and I haven't seen her since.
+  en: Have you seen Moran? After she looked at the photos we took at the beach, she
+    started sulking, and I haven't seen her since.
   ko: |-
     혹시 목단을 보셨습니까?
     바다에서 찍어온 사진을 보고 토라진 뒤로 보이질 않는군요.
@@ -367,9 +374,8 @@ c284_Outpost_Touch_2:
   ko: 다음엔 언제 군과 단둘이 시간을 보낼지….
   ja: 次はいつ 君と二人きりの時間を 過ごすことができるやら…
 c284_Outpost_Touch_3:
-  en: |-
-    You mentioned there was a pool here, did you not?
-    Hmm... Perhaps having it to ourselves for a day wouldn't be too egregious, would it?
+  en: You mentioned there was a pool here, did you not? Hmm... Perhaps having it to
+    ourselves for a day wouldn't be too egregious, would it?
   ko: |-
     이곳에 수영장이 있다고 했죠.
     흠, 하루 정도는 독점하여도 괜찮지 않을까 싶군요.
@@ -377,9 +383,8 @@ c284_Outpost_Touch_3:
     ここにはプールが あるそうですね。
     1日くらいは 貸し切っても よろしいでしょうか。
 c284_Gacha_Get_1:
-  en: |-
-    I've prepared an outfit perfect for welcoming the summer.
-    I hope it pleases you.
+  en: I've prepared an outfit perfect for welcoming the summer. I hope it pleases
+    you.
   ko: |-
     여름을 맞이하여 그에 어울리는 복장을 준비해 보았는데.
     군의 마음에 들었으면 좋겠군요.
@@ -424,9 +429,7 @@ c284_Attractive_Up_2:
   ko: 군의 존재는 언제나 절 편안하게 만들어주는군요.
   ja: 君の存在が、いつも私を落ち着かせてくれるのです。
 c284_Attractive_Up_3:
-  en: |-
-    Please don't ever change.
-    Let me come to you.
+  en: Please don't ever change. Let me come to you.
   ko: |-
     언제까지고 변하지 말고 그 자리에 계셔주시길.
     …이 사쿠라가 먼저 다가갈 테니.

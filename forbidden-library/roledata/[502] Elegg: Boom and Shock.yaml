@@ -84,7 +84,7 @@ skill_name_1003:
   ja: ハローゴースト
 25021_description:
   en: |-
-    ■ Activates when entering battle. Affects 1 random enemy.
+    ■ Activates at the start of battle. Affects 1 random enemy.
     <color=#00AEFF>Possession lasts for {description_value_03} sec.
     Ability: Find and capture ghosts possessing the enemy.
     Required hit count: {description_value_02} time(s) in total, cumulative across all allies.

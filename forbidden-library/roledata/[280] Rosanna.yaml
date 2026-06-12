@@ -57,7 +57,7 @@ character_shot_description_localkey_mg_down:
   ja: カポ・ディ・カピ
 22802_description:
   en: |-
-    ■ Activates when entering battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Concealment: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_01} sec. This effect is removed upon taking a direct hit.</color>
     ■ Activates when a Nikke is incapacitated. Affects self.
     <color=#00AEFF>Frenzy: ATK ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.

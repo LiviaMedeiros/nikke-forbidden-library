@@ -129,10 +129,9 @@ skill_name_1002:
   ko: 다이아몬드 더스트
   ja: ダイヤモンドダスト
 11833_description:
-  en: "■ Affects {description_value_01} enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Deals
-    damage equal to {description_value_03}% of the sum of {description_value_02}%
-    of the caster's <word_group=10025>final</word_group> Max HP and the caster's ATK.
-    <word_group=10060>Attacks continuously</word_group> based on the current MP.</color>"
+  en: |-
+    ■ Affects the {description_value_01} enemy unit(s) nearest to the crosshair.
+    <color=#00AEFF>Deals damage equal to {description_value_03}% of the sum of {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP and the caster's ATK. <word_group=10060>Attacks repeatedly</word_group> based on current MP.</color>
   ko: |-
     ■ 조준선에 가장 가까운 적 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_02}%를 공격력으로 합산한 {description_value_03}% 대미지] [보유 MP 만큼 <word_group=10060>연속 공격</word_group>]</color>

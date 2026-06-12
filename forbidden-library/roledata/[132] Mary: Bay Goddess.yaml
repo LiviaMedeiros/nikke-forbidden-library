@@ -4,9 +4,8 @@
   ko: '메어리 : 베이 갓데스'
   ja: メアリー：ベイゴッデス
 c132_description:
-  en: |-
-    An Angel in White who spends her whole vacation healing people.
-    Behind her kind and gentle smile, there are secrets that no one knows.
+  en: The Angel in White never takes a break from healing people, even while on vacation.
+    Behind her kind and gentle smile lie secrets that no one knows.
   ko: |-
     휴가를 나와서도 치료를 멈추지 않는 [백의의 천사].
     그 선하고 배려심 넘치는 미소의 이면에는, 누구도 짐작 못할 비밀을 간직하고 있다.
@@ -72,8 +71,10 @@ character_shot_description_localkey_sr_up:
     {description_value_03}% ▲] [{description_value_04}초 유지] \n3회 : [<word_group=10009>우월
     코드 공격 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>"
   ja: |-
-    ■バーストスキルを使用した時、水冷コードの味方全体に
-    <color=#00AEFF>「開始回数別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    ■バーストスキルを使用した時、
+    水冷コードの味方全体に
+    <color=#00AEFF>「開始回数別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」
     1回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_01}％▲」「{description_value_02}秒間維持」
     2回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_03}％▲」「{description_value_04}秒間維持」
     3回：「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_05}％▲」「{description_value_06}秒間維持」</color>
@@ -100,7 +101,8 @@ skill_name_1003:
     3회: [시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_05}% 회복] [1초 간격] [{description_value_06}초 유지]</color>
   ja: |-
     ■フルバーストタイムが発動した時、味方全体に
-    <color=#00AEFF>「開始回数別効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    <color=#00AEFF>「開始回数別効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」
     1回：「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％
     回復」「1秒間隔」「{description_value_02}秒間維持」
     2回：「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％
@@ -279,9 +281,8 @@ material_characterskill_a_ssr_desc:
   ko: 페퍼
   ja: ペッパー
 c132_Lobby_Touch_1:
-  en: |-
-    If it's too hot, be sure to tell me.
-    Summertime is when you're most at risk for heat stroke.
+  en: If it's too hot, be sure to tell me. Summertime is when you're most at risk
+    for heat stroke.
   ko: |-
     너무 더우면 말씀해 주세요~
     이런 한여름에는 일사병에 걸릴 수도 있으니까요.
@@ -305,9 +306,8 @@ c132_Lobby_Touch_Love_1:
     簡単に診察できそうですね～
     ふふふっ。
 c132_Lobby_Touch_Love_2:
-  en: |-
-    I'll rub some sunscreen on you later.
-    Otherwise, you'll get burned if you stay out in the sun.
+  en: I'll rub some sunscreen on you later. Otherwise, you'll get burned if you stay
+    out in the sun.
   ko: |-
     이따 자외선 크림을 발라 드릴게요.
     햇볕에 계속 노출되어 있으면 피부가 아플 테니까요.
@@ -318,12 +318,11 @@ c132_Lobby_Touch_Love_3:
   en: The sun's shining awfully bright today. Actually, it reminds me of you, Commander.
   ko: 정말 눈부시네요~ 햇빛도, 지휘관도.
   ja: |-
-    本当に眩しいですね～。
+    本当に眩しいですね～
     お日さまも、指揮官も。
 c132_Lobby_Stay_1:
-  en: |-
-    You haven't swam in the ocean yet, have you?
-    I can't swim, so I won't be able to save you if you fall in.
+  en: You haven't swam in the ocean yet, have you? I can't swim, so I won't be able
+    to save you if you fall in.
   ko: |-
     지휘관~? 바다에 들어가신 건 아니죠?
     저는 수영을 할 수 없어서 물에 빠지면 구해드릴 수가 없답니다.
@@ -332,9 +331,9 @@ c132_Lobby_Stay_1:
     海に入ってませんよね？
     私は泳げないので、溺れても助けられませんよ。
 c132_Lobby_Stay_Love_1:
-  en: |-
-    There's nothing wrong with playing in the water, but just be careful so you don't end up drowning.
-    If anything happened to you, I'd never be able to forgive myself.
+  en: There's nothing wrong with playing in the water, but just be careful so you
+    don't end up drowning. If anything happened to you, I'd never be able to forgive
+    myself.
   ko: |-
     지휘관~? 물놀이도 좋지만 조심하셔야 해요~
     정말 물에 빠지거나, 다치거나 하시면…
@@ -348,9 +347,8 @@ c132_Outpost_Touch_1:
   ko: 그날은 너무 즐거웠어요, 지휘관~
   ja: あの日はとても 楽しかったですよ。 指揮官～
 c132_Outpost_Touch_2:
-  en: |-
-    Maybe the next time, we can go, just the two of us.
-    I can be your personal attending physician, hehe.
+  en: Maybe the next time, we can go, just the two of us. I can be your personal attending
+    physician, hehe.
   ko: |-
     다음엔 단둘이 바다로 갈까요?
     물론 지휘관의 주치의로서 말이에요.
@@ -374,9 +372,7 @@ c132_Reinforce_2:
   ko: 몸도 튼튼, 마음도 튼튼! 해졌어요~ 후후.
   ja: 体も元気、心も元気！になりました～ふふっ。
 c132_Reinforce_3:
-  en: |-
-    You've got to catch up, Commander.
-    I'm the only one getting stronger.
+  en: You've got to catch up, Commander. I'm the only one getting stronger.
   ko: |-
     지휘관이 튼튼해져야 하는데~
     저만 튼튼해지고 있는 것 같네요.
@@ -396,7 +392,7 @@ c132_Gift_3:
   ko: 소중히 사용할게요~
   ja: 大切に使いますね～
 c132_Attractive_Up_1:
-  en: It seems kind of hot in here... maybe that's just because it's summer?
+  en: It seems kind of hot in here... Maybe that's just because it's summer?
   ko: 지휘관, 여름이라 그런가 더 뜨겁네요~ 후후.
   ja: 指揮官、夏のせいか熱いですね～ふふっ。
 c132_Attractive_Up_2:
@@ -409,7 +405,7 @@ c132_Attractive_Up_2:
     患者さんには、みんな平等に接するべきなのですが…
     指揮官は特別扱いしちゃいますね。
 c132_Attractive_Up_3:
-  en: I'm a bit concerned, because I can't stop thinking about you.
+  en: I'm a bit concerned, hehe, because I can't stop thinking about you.
   ko: 자꾸 욕심이 생겨버려서 곤란하네요~
   ja: ついつい欲張りになってしまって、困りますね～
 c132_Party_Deploy_1:
@@ -421,7 +417,7 @@ c132_Field_Touch_1:
   ko: 네, 말씀하세요~
   ja: はい、どうぞ～
 c132_Field_Go_1:
-  en: Coming!
+  en: Coming! Hehe.
   ko: 가고 있어요~
   ja: 今行きま～す。
 c132_Battle_Enter_1:
@@ -437,7 +433,7 @@ c132_Battle_Ready_2:
   ko: 커다란 주사를 준비했답니다~
   ja: 大きなお注射を用意しましたよ～
 c132_Battle_Ready_3:
-  en: This'll only hurt a bit.
+  en: This'll only hurt a bit, hehe.
   ko: 따~끔할 거예요~
   ja: チクッとしますよ～
 c132_Reload_1:
@@ -469,7 +465,7 @@ c132_Kill_Monster_1:
   ko: 자, 다음 분~
   ja: はい、次の方～
 c132_Kill_Monster_2:
-  en: Haha!
+  en: Heheheh...
   ko: 후후, 후후후….
   ja: ふふ、ふふふ…
 c132_Kill_Monster_3:

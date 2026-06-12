@@ -95,11 +95,11 @@ skill_name_1003:
   ko: 다 덤벼!
   ja: かかって来い！
 22811_description:
-  en: "■ Activates at the start of the battle. Affects self. \n<color=#00AEFF>DEF
-    ▲ {description_value_01}% continuously for every 1% of HP lost.</color>\n■ Activates
-    when landing {description_value_03} normal attack(s) while weapon is changed.
-    Affects the target.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
-    ATK as additional damage.</color>"
+  en: "■ Activates at the start of battle. Affects self. \n<color=#00AEFF>DEF ▲ {description_value_01}%
+    continuously for every 1% of HP lost.</color>\n■ Activates when landing {description_value_03}
+    normal attack(s) while weapon is changed. Affects the target.\n<color=#00AEFF>Deals
+    {description_value_02}% of <word_group=10025>final</word_group> ATK as additional
+    damage.</color>"
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[잃은 체력 1% 당 방어력 {description_value_01}% ▲] [지속]</color>
@@ -572,6 +572,279 @@ c281_Win_1:
   en: Did you see me out there? I did great!
   ko: 봤어 동생? 이게 나야!
   ja: 見たか？これが俺だ！
+c281_02_Lobby_Touch_1:
+  en: Wh-what's this...? This outfit's way too revealing! I can barely move in it.
+  ko: |-
+    뭐, 뭐야… 이 옷 너무 천이 작은데?
+    움직이질 못하겠어.
+  ja: |-
+    な、何だぁ…この服、布地が小さすぎるぞ。
+    こんなんじゃ、身動き取れねえだろうが。
+c281_02_Lobby_Touch_2:
+  en: I'm only wearing this because they asked me to play the villain... but I didn't
+    realize it'd be this revealing.
+  ko: |-
+    악역… 연기를 맡아달라고 해서 입은 건데,
+    이렇게 민망한 건진 몰랐어.
+  ja: |-
+    悪役の衣装だって言われたんだがよ…
+    こんな小っ恥ずかしいのだとは思わなかったぜ。
+c281_02_Lobby_Touch_3:
+  en: '"Mwahaha, you foolish Ark Rangers!" Th-that''s how I''m supposed to do it,
+    right...?'
+  ko: "[후후후, 어리석은 아크레인저 놈들.] \n이, 이렇게 연기하면 되는 건가…."
+  ja: |-
+    「ホホホ…愚かなアークレンジャーどもめ」
+    こ、こんな感じでいいのか…？
+c281_02_Lobby_Touch_Love_1:
+  en: Ugh... Can you not stare at me like that? I feel like I'm gonna die of embarrassment.
+  ko: |-
+    으… 동생. 빤히 쳐다보지 말아 줄래?
+    부끄러워서 죽을 것 같아.
+  ja: |-
+    うっ…弟。あんまり見ないでくんねえか？
+    恥ずかしくて死にそうだ。
+c281_02_Lobby_Touch_Love_2:
+  en: What do you think, Cadet? Do I at least look like a... s-sexy villain?
+  ko: |-
+    동생이 보기엔 어때?
+    세, 섹시한… 악당처럼 보여?
+  ja: |-
+    お前から見て、どうだ？
+    い、色気のある悪役に…見えるか？
+c281_02_Lobby_Touch_Love_3:
+  en: '"Mwahaha! The Ark belongs to me, Darkflower the Shadow Empress!" Aaaagh...
+    Acting this out is so embarrassing.'
+  ko: |-
+    [오호호, 방주는 이 칠흑여제 다크니스 플라워의 것이다.]
+    으아아… 연기하는 거 너무 민망해.
+  ja: |-
+    「オーホッホッ、
+    アークはこの漆黒の女帝、ダークネス・フラワー様のものよ」
+    はあ…こんな演技、恥さらしだぜ…
+c281_02_Lobby_Stay_1:
+  en: Cadet... If you left me here looking like this, I'm seriously gonna die from
+    embarrassment. Can I go get changed?
+  ko: |-
+    동생… 어디 간 거면 나 민망해 죽을 것 같은데,
+    옷 좀 갈아입고 와도 될까?
+  ja: |-
+    弟…こんな格好で出歩くわけにいかないだろ、
+    着替えてきていいか…？
+c281_02_Lobby_Stay_Love_1:
+  en: You're not here, right, Cadet...? Might as well practice my lines while I wait...
+    "You wretched Ark Rangers!" Oh... that was actually pretty good.
+  ko: "동생… 없지? 이왕 기다리는 거 연기 연습이나 할까….\n[가증스러운 아크레인저 놈들!] \n오, 나름 괜찮았던 거 같은데…?"
+  ja: |-
+    弟…いねえよな？待ってる間に練習でもしとくか…
+    「いまいましいアークレンジャーどもめ！」
+    おっ、結構いい感じじゃねえか…？
+c281_02_Outpost_Touch_1:
+  en: I can't believe I wore this to the Outpost. I need to get inside before Rosanna
+    and Sakura see me!
+  ko: |-
+    이 옷을 입고 전초기지에 오다니...!
+    로산나랑 사쿠라가 보기 전에 어디든 들어가야 해!
+  ja: |-
+    こんな格好で前哨基地なんて…！
+    ロザンナとサクラに見られる前に、 どっかへ入らねぇと！
+c281_02_Outpost_Touch_2:
+  en: Cadet, I'll be hiding out at the Trendy Bar, so make sure you come alone, got
+    it? It'd be way too embarrassing for anyone else to see me.
+  ko: |-
+    동생 나는 모던 바에 숨어 있을 테니까, 꼭 혼자서 찾아와. 알겠지?
+    다른 애들이 보면 민망하단 말이야.
+  ja: |-
+    弟、俺はモダンバーに 隠れてっから、 絶対に一人で来い。いいな？
+    他の奴らに見られたら、 気まずいだろ。
+c281_02_Outpost_Touch_3:
+  en: Still, it's a bit better having you walk with me. *Sigh* But every time I take
+    a step, the wind keeps sneaking up under there... I'm so embarrassed I could die.
+  ko: |-
+    그래도 동생이 같이 걸어주니까 좀 낫네.
+    하… 걸을 때마다 밑에 바람이 숭숭 들어와서 민망해 죽을 거 같아.
+  ja: |-
+    弟がついてるから、 ちょっとはマシになったな。
+    にしたって… 歩くたびにスースーして、
+    落ち着かねえったらありゃしねぇ。
+c281_02_Gacha_Get_1:
+  en: Cadet, I'm gonna be in the Ark Rangers movie as a... s-sexy villain. Do you
+    think I can, uh... pull it off?
+  ko: |-
+    동생. 나 아크레인저 극장판에 나가기로 했어.
+    무려… 세, 섹시한… 악역으로. 잘… 할 수 있겠지?
+  ja: |-
+    弟、俺…アークレンジャーの劇場版に出ることになったんだけどな。
+    それが…色っぽい…悪役なんだよ。うまく…やれると思うか？
+c281_02_Reinforce_1:
+  en: Mwahaha, excellent... Oops, sorry! I've been practicing so much, it just kinda
+    slips out sometimes.
+  ko: "후후후. 수고했… 으악, 미안! \n연기 연습하다 보니 습관이 됐나 봐."
+  ja: |-
+    オホホ、ご苦労…オホンッ、すまねえ！
+    演技の練習がクセになっちまったみたいだ。
+c281_02_Reinforce_2:
+  en: Thanks for looking out for me, Cadet.
+  ko: 챙겨줘서 고마워, 동생.
+  ja: 気にかけてくれて、ありがとな。弟。
+c281_02_Reinforce_3:
+  en: With you cheering me on, I'll give it everything I've got on set!
+  ko: 동생의 기운을 받아 힘내서 연기할게!
+  ja: 弟の元気を分けてもらったから、気合い入れて演技するぜ！
+c281_02_Gift_1:
+  en: Wow, when did you put all this together? *Sniff* You're the best cadet I could
+    ask for.
+  ko: |-
+    와, 이런 건 언제 다 준비한 거야?
+    크흡… 역시 동생밖에 없어.
+  ja: |-
+    おお…こんなもん、いつ用意したんだ？
+    オホン…やっぱ弟は最高だぜ。
+c281_02_Gift_2:
+  en: A gift to help with my acting? Thanks, Cadet. I'll put it to good use!
+  ko: |-
+    연기 잘하라고 주는 선물이라고…?
+    고마워, 동생. 나 최선을 다해서 해볼게!
+  ja: |-
+    撮影の応援で、くれるってことか…？
+    ありがとよ、弟。俺、全力で頑張るぜ！
+c281_02_Gift_3:
+  en: This is for Darkflower...? Uh... Then I guess I'm supposed to say, "Heh, I accept
+    your offering!"
+  ko: |-
+    이건 다, 다크니스 플라워한테 주는 선물이라고…?
+    어… 그럼 [후후, 고맙구나.]라고 해야 하나…?
+  ja: |-
+    これ全部、ダークネス・フラワーへのプレゼントだって…？
+    ええと…じゃあ「オッホッホ、ありがたくいただいてあげるわ」って
+    答えればいいのか…？
+c281_02_Attractive_Up_1:
+  en: I-it's strange... Ever since I put this outfit on, I can't stop worrying about
+    how you see me.
+  ko: "이, 이상해… 이 옷을 입고 있으니까, \n동생한테 어떻게 보일지만 계속 자꾸 신경 쓰여."
+  ja: |-
+    へ、変だな…こんな格好してるからか知らねぇが、
+    弟にどう見られてるか、ずっと気になっちまう…
+c281_02_Attractive_Up_2:
+  en: Your encouragement has helped improve my acting so much, Cadet. I can't thank
+    you enough.
+  ko: |-
+    동생이 힘을 불어넣어 줘서, 연기도 잘 해낼 수 있을 거 같아.
+    정말, 매번 너무너무 고마워!
+  ja: |-
+    弟が力をくれるなら、演技だってうまくできそうだ。
+    いつも本当に、恩に着るぜ！
+c281_02_Attractive_Up_3:
+  en: How do I look? Am I p-p-prett... I-I mean, I look cool, right? I think I'll
+    be fine if you say I look cool...
+  ko: "나 어때? 예, 예, 예, 예… 쁜 게 아니라 멋지지? \n동생이 멋지다고만 하면 다 괜찮을 거 같아. 그런… 기분이야."
+  ja: |-
+    どうだ？き、き、きれい…ってより、カッコいいだろ？
+    弟がそう言ってくれりゃ、全部うまくいきそうだ…そんな気がする。
+c281_02_Party_Deploy_1:
+  en: We're not gonna have time to change before we go, are we?
+  ko: 가기 전에 옷 갈아입을 시간은… 없겠지?
+  ja: 出る前に着替える時間は…なさそうだな。
+c281_02_Field_Touch_1:
+  en: D-did you just call me the Shadow Empress?
+  ko: 바, 방금 칠흑여제라고 부른 거야?
+  ja: なあ、今、漆黒の女帝って呼んだか…？
+c281_02_Field_Go_1:
+  en: '"Very well. It would appear this is a matter for Darkflower, the Shadow Empress."
+    This is what you wanted, right?'
+  ko: |-
+    [좋다. 칠흑여제 다크니스 플라워가 직접 움직여 주지.]
+    …이렇게 해달라는 거지?
+  ja: |-
+    「いいわ。この漆黒の女帝ダークネス・フラワー様が
+    直々に動いてあげる」…これでいいか？
+c281_02_Battle_Enter_1:
+  en: Perfect! Something to distract me from my embarrassment. Let's fight!
+  ko: 잘 됐다, 민망해 죽겠는데 싸우러 가자!
+  ja: 行くぜ、小っ恥ずかしさをぶつけてやる！
+c281_02_Battle_Ready_1:
+  en: I'm dying of embarrassment. Can we get this over with?
+  ko: 민망해 죽겠으니까, 얼른얼른 해치우자.
+  ja: 恥ずかしくなってくる前に、さっさと片付けようぜ。
+c281_02_Battle_Ready_2:
+  en: Come at me! The Shadow Empress, Darkflower, has arrived!
+  ko: 다 덤벼! 칠흑여제 다크니스 플라워가 나가신다!
+  ja: |-
+    全員かかって来やがれ！
+    漆黒の女帝ダークネス・フラワー様のお出ましだ！
+c281_02_Battle_Ready_3:
+  en: Good. Just thinking of fighting makes me feel better!
+  ko: 좋아. 싸운다고 생각하니까 오히려 마음이 편하네!
+  ja: やっぱ、戦ってた方が気にならねぇな！
+c281_02_Reload_1:
+  en: I'm all warmed up. Let's go again!
+  ko: 이제야 좀 몸이 풀리는 것 같네, 다시 갈게!
+  ja: やっと温まってきた、すぐ行くぜ！
+c281_02_Reload_2:
+  en: I keep worrying about my back in this outfit...
+  ko: 으, 천이 너무 작으니까 등 뒤가 신경 쓰여서 죽겠네.
+  ja: うっ、肌が出すぎだ…背中が気になって仕方ねえ。
+c281_02_Reload_3:
+  en: You're watching the battle and not my back... right?
+  ko: 저기… 동생? 내 등이 아니라 전장을 보고 있는 것 맞지?
+  ja: なぁ…弟？俺の背中じゃなくて、戦場を見てるよな？
+c281_02_Ult_Skill_Ready_1:
+  en: Time to steal the show!
+  ko: 연기할 준비됐어!
+  ja: 演技の準備はできてるぜ！
+c281_02_Ult_Skill_1:
+  en: Kneel before Darkflower, the Shadow Empress!
+  ko: "흐흠! \n[칠흑여제 다크니스 플라워 앞에 무릎을 꿇어라.]"
+  ja: |-
+    オホンッ…！
+    「漆黒の女帝ダークネス・フラワー様の前に
+    ひざまずくがよい」
+c281_02_FullBurst_1:
+  en: '"Kill them all!" Mwahahahck *Cough, cough!*'
+  ko: |-
+    [모두 죽여라.]
+    후후후후, 오호호호케헥… 콜록콜록!
+  ja: |-
+    「生かして返さないわよ」
+    フフフ…ゴホ、ゴホ！
+c281_02_Kill_Monster_1:
+  en: One down!
+  ko: 한 놈 끝!
+  ja: いっちょうあがり！
+c281_02_Kill_Monster_2:
+  en: Next!
+  ko: 다음!
+  ja: 次！
+c281_02_Kill_Monster_3:
+  en: Mwahaha! Oops, that just slipped out...
+  ko: 오호호호! 엇, 연기가 나와버렸….
+  ja: オーッホッホッホ！あっ、つい演技が…
+c281_02_Damage_1:
+  en: Oof.
+  ko: 큿.
+  ja: くっ。
+c281_02_Damage_2:
+  en: Urgh...
+  ko: 윽.
+  ja: うっ。
+c281_02_Damage_3:
+  en: How dare you!
+  ko: 크윽… 분하다.
+  ja: おのれ…こしゃくな！
+c281_02_Die_1:
+  en: Gah! My outfit...! Sorry, I gotta go get it fixed!
+  ko: 으아아… 이거 협찬받은 옷 이랬는데…! 미안, 나 먼저 수선하러 갈게!
+  ja: |-
+    げっ…スポンサーからのもらいもんなのによ…！
+    悪い、先に直しに行ってくるぜ！
+c281_02_Win_1:
+  en: See that, Cadet? That's the strength of loyalty. It doesn't matter what I'm
+    wearing!
+  ko: "봤어, 동생? \n어떤 옷을 입고 있어도 의리의 힘만 있으면 다 이겨낼 수 있어!"
+  ja: |-
+    見てたか、弟？
+    どんな格好してようと、仁義をつらぬきゃ
+    乗り越えられないものはねぇ！
 281_cv_ja:
   en: 'CV: Natsu Yorita'
   ko: 'CV : 요리타 나츠'

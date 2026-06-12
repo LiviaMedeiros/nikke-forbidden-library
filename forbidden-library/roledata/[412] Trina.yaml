@@ -64,11 +64,11 @@ character_shot_description_localkey_rl_up:
   ja: ピースフルツリー
 24122_description:
   en: |-
-    ■ Activates at the start of battle, only if self is alive. Affects all Electric Code allies with rifles.
+    ■ Activates at the start of battle, only if self is alive. Affects all Electric Code allies with assault rifles.
     <color=#00AEFF>Max HP ▲ {description_value_01}% of the caster's Max HP without restoring HP constantly.</color>
-    ■ Activates at the start of battle. Affects {description_value_06} Electric Code ally unit(s) with rifles on the leftmost side of the squad.
+    ■ Activates at the start of battle. Affects the {description_value_06} leftmost Electric Code ally unit(s) with assault rifles.
     <color=#00AEFF>Invulnerable for {description_value_07} sec.</color>
-    ■ Activates when using Burst Skill. Affects {description_value_06} Electric Code ally unit(s) with rifles on the leftmost side of the squad.
+    ■ Activates when using Burst Skill. Affects the {description_value_06} leftmost Electric Code ally unit(s) with assault rifles.
     <color=#00AEFF>Attack Damage ▲ {description_value_02}% for {description_value_03} sec.
     Reloading Speed ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
@@ -142,7 +142,7 @@ skill_name_1002:
     ■ Activates when enemy count aside from Nikkes is more than 2. Affects all allies.
     <color=#00AEFF>Changes Spread Roots to Wilted Roots.
     Wilted Roots: <word_group=10070>Burst Skill damage of skills with "Affects all enemies"</word_group> ▲ {description_value_10}% for {description_value_04} sec.</color>
-    ■ Affects all Electric Code allies with rifles.
+    ■ Affects all Electric Code allies with assault rifles.
     <color=#00AEFF>Hit Rate ▲ {description_value_05}% for {description_value_06} sec.
     Max Ammunition Capacity ▲ {description_value_07} round(s) for {description_value_06} sec.</color>
   ko: |-

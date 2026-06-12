@@ -4909,3 +4909,515 @@ d_ex_elevator_09:
     ja: |-
       学校の友だちに忘れられない
       思い出を自慢できたそうだ
+d_ex_elevator_10:
+  d_ex_elevator_10_1:
+    speaker: "<Monologue>"
+    en: After my session with Black ends...
+    ko: 블랙과의 상담이 끝난 후.
+    ja: ブラックとの面談後…
+  d_ex_elevator_10_2:
+    speaker: arkrangerblack
+    en: Hmm? You're heading back to the Ark too?
+    ko: 음? 너도 방주로 내려가나?
+    ja: おや？君もアークへ向かうのか？
+  d_ex_elevator_10_3:
+    speaker: "<Self>"
+    en: Actually, I wanted to ask you a favor, Black.
+    ko: 실은 부탁이 있어, 블랙.
+    ja: |-
+      実は、ブラックに
+      頼みたいことがあるんだ
+  d_ex_elevator_10_4:
+    speaker: arkrangerblack
+    en: If it's within my power, I'll help however I can.
+    ko: 내가 들어줄 수 있는 부탁이라면 뭐든 들어주지.
+    ja: 私ができることなら、何でも聞こう。
+  d_ex_elevator_10_5:
+    speaker: arkrangerblack
+    en: Tell me.
+    ko: 이야기해 봐.
+    ja: 言ってくれ。
+  d_ex_elevator_10_6:
+    speaker: "<Self>"
+    en: It's nothing major. I was hoping you could meet one of your fans real quick.
+    ko: 거창한 건 아니고, 네 팬을 잠깐 만나줬으면 해서.
+    ja: |-
+      大したことではないのだが、君のファンがいて…
+      ちょっと会ってもらえないか？
+  d_ex_elevator_10_7:
+    speaker: "<Self>"
+    en: She said it'll only take a minute.
+    ko: 진짜 잠깐이면 된대.
+    ja: 本当に一瞬でも構わないそうだ
+  d_ex_elevator_10_8:
+    speaker: arkrangerblack
+    en: Meeting fans is always a pleasure.
+    ko: 팬들을 만나는 건 언제나 즐거운 일이지.
+    ja: いつだって大歓迎だ。
+  d_ex_elevator_10_9:
+    speaker: arkrangerblack
+    en: So, where's this fan you mentioned?
+    ko: 그런데 그 팬은 어디에 있지?
+    ja: それで、そのファンというのはどこに？
+  d_ex_elevator_10_10:
+    speaker: "<Self>"
+    en: Well...
+    ko: "…그게."
+    ja: "…それが…"
+  d_ex_elevator_10_11:
+    speaker: "<Narration>"
+    en: The elevator door slides open.
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_elevator_10_12:
+    speaker: trony
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_elevator_10_13:
+    speaker: arkrangerblack
+    en: Trony.
+    ko: 트로니로군.
+    ja: トロニーじゃないか。
+  d_ex_elevator_10_14:
+    speaker: arkrangerblack
+    en: Good to see you again. How've you been?
+    ko: 반갑다, 그동안 잘 지냈나.
+    ja: 会えて嬉しい、元気だったか？
+  d_ex_elevator_10_15:
+    speaker: trony
+    en: U-uh...!
+    ko: 흐, 흐아아…!
+    ja: う、うひぁぁ…！
+  d_ex_elevator_10_16:
+    speaker: "<Narration>"
+    en: Trony collapses to the floor, utterly starstruck.
+    ko: 주르륵-
+    ja: へなへな…
+  d_ex_elevator_10_17:
+    speaker: "<Self>"
+    en: Come on, don't fall apart over a single word.
+    ko: 아니, 말 한마디에 흘러내리면 어떡해.
+    ja: |-
+      たった一言で
+      へたり込んでどうする
+  d_ex_elevator_10_18:
+    speaker: trony
+    en: "... Eep!"
+    ko: "…헉!"
+    ja: "…ハッ！"
+  d_ex_elevator_10_19:
+    speaker: trony
+    en: Sorry...
+    ko: 미안….
+    ja: ごめん…
+  d_ex_elevator_10_20:
+    speaker: arkrangerblack
+    en: Oh, are you the fan @UserName was talking about?
+    ko: 아, 설마 @UserName이 이야기한 팬이란 게 너인가?
+    ja: |-
+      ああ、もしかして@UserNameが言った
+      ファンというのは君のことだったのか？
+  d_ex_elevator_10_21:
+    speaker: arkrangerblack
+    en: Come to think of it, you were at my meet-and-greet during the Ark Gaming Expo,
+      weren't you?
+    ko: 그러고 보니 [아크 게임쇼]에서 진행한 내 팬미팅에도 와줬었지.
+    ja: |-
+      そういえば、「アークゲームショー」での
+      ファンミーティングにも来てくれていたな。
+  d_ex_elevator_10_22:
+    speaker: trony
+    en: Y-you actually still remember that?!
+    ko: 아직도 기억하는구나…!
+    ja: 覚えててくれてたんだ…！
+  d_ex_elevator_10_23:
+    speaker: trony
+    en: I can seriously die happy right now...
+    ko: 나, 정말 이대로 죽어도 여한이 없을지도.
+    ja: 私、このまま死んでも悔いはないかも…
+  d_ex_elevator_10_24:
+    speaker: arkrangerblack
+    en: Heh, your time hasn't come yet, Trony.
+    ko: 훗, 아직 죽기엔 이르다. 트로니.
+    ja: フッ、死ぬのはまだ早いぞ、トロニー。
+  d_ex_elevator_10_25:
+    speaker: trony
+    en: Then I'll live forever and never die!
+    ko: 그럼, 죽지 않고 평생 살게! 응!
+    ja: じゃあ、死なないでずっと生きるよ！うん！
+  d_ex_elevator_10_26:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_10_27:
+    speaker: "<Self>"
+    en: You said there's something you wanted her to sign, right? Go ask her already.
+    ko: 사인받고 싶은 데가 생겼다며, 얼른 받아.
+    ja: |-
+      サインしてほしいものがあるんだろう？
+      早くお願いしろ
+  d_ex_elevator_10_28:
+    speaker: trony
+    en: Y-yeah...!
+    ko: 마, 맞아…!
+    ja: そ、そうなの…！
+  d_ex_elevator_10_29:
+    speaker: trony
+    en: The new Ark Rangers movie just came out, so...
+    ko: 이번에 아크레인저 극장판을 새로 개봉했잖아.
+    ja: |-
+      今回、アークレンジャーの
+      劇場版が公開されたよね。
+  d_ex_elevator_10_30:
+    speaker: trony
+    en: I was hoping you could sign the ticket...?
+    ko: 그래서 그 영화표에 사인을 받고 싶어서….
+    ja: |-
+      だから、そのチケットに
+      サインをもらいたくて…
+  d_ex_elevator_10_31:
+    speaker: arkrangerblack
+    en: Thanks for coming to see our movie.
+    ko: 이번에도 우리 영화를 봐줘서 고맙다.
+    ja: 今回も我々の映画を観てくれて、ありがとう。
+  d_ex_elevator_10_32:
+    speaker: arkrangerblack
+    en: Where's your ticket?
+    ko: 영화표는 어디에 있지?
+    ja: その映画のチケットは、どこにある？
+  d_ex_elevator_10_33:
+    speaker: arkrangerblack
+    en: Just one autograph, right? Hand it over.
+    ko: 하나면 금방 하겠군, 이리줘.
+    ja: 1枚程度ならすぐに書こう。見せてくれ。
+  d_ex_elevator_10_34:
+    speaker: trony
+    en: Here...!
+    ko: 여기…!
+    ja: こ、ここに…！
+  d_ex_elevator_10_35:
+    speaker: "<Narration>"
+    en: "*Fwoosh!*"
+    ko: 촤라라락-!
+    ja: パラパラパラッ！
+  d_ex_elevator_10_36:
+    speaker: "<Monologue>"
+    en: Trony pulls out dozens of tickets from behind her back.
+    ko: 트로니는 수십 장의 티켓을 등 뒤에서 꺼내 들었다.
+    ja: |-
+      トロニーは、背後から
+      何十枚ものチケットを取り出した
+  d_ex_elevator_10_37:
+    speaker: arkrangerblack
+    en: Wait...
+    ko: 이건…..
+    ja: これは…
+  d_ex_elevator_10_38:
+    speaker: arkrangerblack
+    en: Are these all movie tickets?
+    ko: 이게 다 영화표인가?
+    ja: すべて映画のチケットなのか？
+  d_ex_elevator_10_39:
+    speaker: trony
+    en: Yeah. When you go see the movie, they hand out random ticket designs.
+    ko: 맞아, 영화를 보러 가면 랜덤으로 티켓을 배분해 주거든.
+    ja: |-
+      うん。映画を観に行くと
+      ランダムでチケットが配られるんだ。
+  d_ex_elevator_10_40:
+    speaker: trony
+    en: Look.
+    ko: 여기 봐봐.
+    ja: これを見て。
+  d_ex_elevator_10_41:
+    speaker: trony
+    en: Some have individual members on them,
+    ko: 멤버들이 각각 그려져 있는 것도 있고.
+    ja: メンバーそれぞれが描かれてるのもあるし、
+  d_ex_elevator_10_42:
+    speaker: trony
+    en: some are paired up, and others have all three of you together.
+    ko: |-
+      두 사람씩 나눠진 거,
+      그리고 셋이서 함께 찍힌 티켓도 있어.
+    ja: |-
+      2人ずつのバージョンと
+      3人一緒になってるバージョンも
+      あるんだから。
+  d_ex_elevator_10_43:
+    speaker: trony
+    en: Completing the whole set was seriously... no joke.
+    ko: 이거 컴플리트하느라 정말… 정말 장난 아니었거든.
+    ja: |-
+      これをコンプリートするの…
+      ホントに大変だったんだ。
+  d_ex_elevator_10_44:
+    speaker: trony
+    en: I could've traded for them, sure, but... I dunno. It just wouldn't have felt
+      like I completed it myself.
+    ko: |-
+      교환을 통해서 할 수도 있었겠지만… 그건 뭐랄까.
+      내가 온전히 했다는 느낌이 들지 않잖아.
+    ja: |-
+      交換すれば、すぐ集まったかもしれないけど…
+      なんて言うのかな。
+      自分の力だけで集めた感じがしないから。
+  d_ex_elevator_10_45:
+    speaker: trony
+    en: So I cut back on eating, sleeping, and gaming...
+    ko: 먹는 시간, 자는 시간, 게임하는 시간을 줄여서.
+    ja: |-
+      食事も睡眠もゲームの時間も
+      全部減らして、
+  d_ex_elevator_10_46:
+    speaker: trony
+    en: and kept going to the theater every single day until I finally completed the
+      collection.
+    ko: 매일 영화관에 들락날락하면서 완성한 거야.
+    ja: |-
+      毎日、映画館に入り浸って
+      コンプリートしたんだ。
+  d_ex_elevator_10_47:
+    speaker: arkrangerblack
+    en: "... I had no idea there were this many designs."
+    ko: "…이렇게 많은 종류가 있었을 줄은 몰랐군."
+    ja: |-
+      …こんなに種類がたくさんあったとは、
+      知らなかった。
+  d_ex_elevator_10_48:
+    speaker: arkrangerblack
+    en: Very impressive, Trony.
+    ko: 대단하다, 트로니.
+    ja: すごいじゃないか、トロニー。
+  d_ex_elevator_10_49:
+    speaker: trony
+    en: O-oh, it's nothing really...
+    ko: 에, 에이… 뭘 또 대단할 것까지야.
+    ja: そ、そんな…大したことじゃないよ。
+  d_ex_elevator_10_50:
+    speaker: "<Monologue>"
+    en: Clearly impressed, Black carefully signs each ticket one by one.
+    ko: 블랙은 감탄하며 티켓 하나하나에 정성스레 사인해 주었다.
+    ja: |-
+      ブラックは、感心しながら
+      チケット1枚1枚に
+      心をこめてサインをした
+  d_ex_elevator_10_51:
+    speaker: trony
+    en: Thank you... Seriously, thank you!
+    ko: 고마워… 정말 고마워.
+    ja: ありがとう…本当にありがとう。
+  d_ex_elevator_10_52:
+    speaker: trony
+    en: I can seriously die happy right now...
+    ko: 나 진짜 이젠 죽어도 여한이 없을지도.
+    ja: 私、本当にこのまま死んでも悔いはないかも。
+  d_ex_elevator_10_53:
+    speaker: arkrangerblack
+    en: Heh, your time hasn't come yet, Trony.
+    ko: 훗, 아직 죽기엔 이르다. 트로니.
+    ja: フッ、死ぬのはまだ早いぞ、トロニー。
+  d_ex_elevator_10_54:
+    speaker: trony
+    en: Then I'll live forever and never die!
+    ko: 응, 죽지 않고 평생 살게! 응!
+    ja: うん、死なないでずっと生きる！うん！
+  d_ex_elevator_10_55:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_10_56:
+    speaker: trony
+    en: Oh, and there's one more thing I wanted to tell you myself.
+    ko: 아, 그리고 한 가지 더 직접 이야기하고 싶은 게 있었어.
+    ja: |-
+      あっ、あともう一つ
+      伝えたいことがあるんだけど…
+  d_ex_elevator_10_57:
+    speaker: trony
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_10_58:
+    speaker: trony
+    en: Black, you...
+    ko: 블랙, 너는….
+    ja: ブラック、あなたは…
+  d_ex_elevator_10_59:
+    speaker: trony
+    en: You'll always...
+    ko: 누가 뭐라해도 너는 내 영원한….
+    ja: 誰が何と言おうと、あなたは私の永遠の…
+  d_ex_elevator_10_60:
+    speaker: trony
+    en: Be my hero!
+    ko: 히어로야.
+    ja: ヒーローだよ。
+  d_ex_elevator_10_61:
+    speaker: trony
+    en: U-ugh... Ahhh...!
+    ko: 으, 으으… 으으으!
+    ja: うっ、うう…ううう！
+  d_ex_elevator_10_62:
+    speaker: trony
+    en: I-I said it! I actually said it out loud!
+    ko: 마, 말했다… 말해버렸다!
+    ja: い、言った…言っちゃった！
+  d_ex_elevator_10_63:
+    speaker: "<Narration>"
+    en: Trony starts to crumple from nerves,
+    ko: 주르륵-
+    ja: へなへな…
+  d_ex_elevator_10_64:
+    speaker: "<Narration>"
+    en: but Black catches her
+    ko: 탁-
+    ja: グッ
+  d_ex_elevator_10_65:
+    speaker: "<Monologue>"
+    en: before she hits the ground.
+    ko: 흘러내리려던 트로니를 블랙이 붙잡아주었다.
+    ja: |-
+      へたり込みそうになったトロニーを
+      ブラックが支えた
+  d_ex_elevator_10_66:
+    speaker: trony
+    en: "...!"
+    ko: "…!"
+    ja: "…！"
+  d_ex_elevator_10_67:
+    speaker: arkrangerblack
+    en: Thank you, Trony.
+    ko: 고맙다, 트로니.
+    ja: ありがとう、トロニー。
+  d_ex_elevator_10_68:
+    speaker: arkrangerblack
+    en: I'd like to tell you the same thing.
+    ko: 나도 네게 똑같은 말을 돌려주고 싶다.
+    ja: その言葉、そのまま君にお返しするよ。
+  d_ex_elevator_10_69:
+    speaker: arkrangerblack
+    en: You saved the Ark from danger too, didn't you?
+    ko: 너 또한 방주를 위기에서 구해내지 않았나.
+    ja: 君だって、アークを危機から救ったじゃないか。
+  d_ex_elevator_10_70:
+    speaker: arkrangerblack
+    en: So,
+    ko: 그러니.
+    ja: だから、
+  d_ex_elevator_10_71:
+    speaker: arkrangerblack
+    en: that makes you a hero as well.
+    ko: 너도 히어로다.
+    ja: 君もヒーローだ。
+  d_ex_elevator_10_72:
+    speaker: trony
+    en: "...!"
+    ko: "…!!"
+    ja: "…！！"
+  d_ex_elevator_10_73:
+    speaker: "<Narration>"
+    en: "*Whirr*"
+    ko: 지잉-
+    ja: ウィーン――
+  d_ex_elevator_10_74:
+    speaker: "<Monologue>"
+    en: Just then, the elevator doors slide open.
+    ko: 때마침 엘리베이터 문이 열렸고.
+    ja: |-
+      タイミングよく
+      エレベーターの扉が開いた
+  d_ex_elevator_10_75:
+    speaker: trony
+    en: I-I should get going!
+    ko: 나, 나는 이만 가볼게…!
+    ja: も、もう行くね…！
+  d_ex_elevator_10_76:
+    speaker: trony
+    en: Commander, Black, thank you so much for today.
+    ko: 지휘관도, 블랙도 오늘 정말 고마웠어.
+    ja: 指揮官もブラックも、今日は本当にありがとう。
+  d_ex_elevator_10_77:
+    speaker: trony
+    en: S-see you later...!
+    ko: 또 봐…!
+    ja: またね…！
+  d_ex_elevator_10_78:
+    speaker: "<Monologue>"
+    en: Trony quickly runs off.
+    ko: 트로니는 빠르게 도망가 버렸다.
+    ja: トロニーはそそくさと逃げていった
+  d_ex_elevator_10_79:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_10_80:
+    speaker: arkrangerblack
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_elevator_10_81:
+    speaker: arkrangerblack
+    en: I have a question.
+    ko: 궁금한 게 있다.
+    ja: 気になることがある。
+  d_ex_elevator_10_82:
+    speaker: "<Self>"
+    en: What is it?
+    ko: 뭔데?
+    ja: 何だ？
+  d_ex_elevator_10_83:
+    speaker: arkrangerblack
+    en: I counted those tickets earlier. There were over fifty.
+    ko: 아까 그 티켓, 세어보니 50장이 넘어갔다.
+    ja: |-
+      さっきの映画のチケット、
+      50枚以上はあっただろう？
+  d_ex_elevator_10_84:
+    speaker: arkrangerblack
+    en: Does that mean she really watched it that many times?
+    ko: 그럼… 그만큼 본 거란 이야기가 맞나?
+    ja: |-
+      ということは…
+      その枚数分、映画を観たということか？
+  d_ex_elevator_10_85:
+    speaker: "<Self>"
+    en: Yeah, I think so.
+    ko: 응, 아마도. 맞을걸.
+    ja: ああ、おそらくそうだと思う
+  d_ex_elevator_10_86:
+    speaker: arkrangerblack
+    en: Such passion... I'm touched.
+    ko: "…그 열정에 감동했다."
+    ja: "…あの情熱には感動した。"
+  d_ex_elevator_10_87:
+    speaker: arkrangerblack
+    en: I'll have to work even harder from now on.
+    ko: 앞으로도 열심히 해야겠군.
+    ja: これからも精一杯頑張らなければ。
+  d_ex_elevator_10_88:
+    speaker: "<Self>"
+    en: Yeah... I think that's a good idea.
+    ko: "…그래, 좋은 생각이야."
+    ja: "…ああ、そうだな"
+  d_ex_elevator_10_89:
+    speaker: "<Monologue>"
+    en: Black nods, looking touched.
+    ko: 감동한 얼굴로 고개를 끄덕이는 블랙에게.
+    ja: |-
+      感動した様子で
+      うなずいているブラックに
+  d_ex_elevator_10_90:
+    speaker: "<Monologue>"
+    en: Seeing her like that, I can't bring myself to tell her that fans like Trony
+      are actually the really hardcore ones.
+    ko: |-
+      차마 트로니같은 팬은 정말 극성인 팬이다,
+      라는 이야기는 할 수 없었다.
+    ja: |-
+      トロニーのようなファンは熱量がすごすぎる、
+      とは口が裂けても言えなかった

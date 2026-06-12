@@ -59,7 +59,7 @@ character_shot_description_localkey_sg_down:
   ja: 光翼
 22342_description:
   en: |-
-    ■ Activates when entering battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF><word_group=10042>Pierce damage</word_group> ▲ {description_value_01}% continuously.</color>
     ■ Activates only during Full Burst. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_02}% continuously.

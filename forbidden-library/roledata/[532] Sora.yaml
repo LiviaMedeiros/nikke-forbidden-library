@@ -87,8 +87,8 @@ skill_name_1003:
   ja: 搭乗手続き
 25321_description:
   en: |-
-    ■ Activates when entering battle. Affects self.
-    <color=#00AEFF>Potency of HP granted ▲ {description_value_01}% continuously.</color>
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Potency of HP restored ▲ {description_value_01}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[주는 체력 회복량 {description_value_01}% ▲] [지속]</color>

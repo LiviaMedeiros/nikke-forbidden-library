@@ -1,0 +1,538 @@
+---
+570_name:
+  en: Ark Ranger Black
+  ko: 아크레인저 블랙
+  ja: アークレンジャー・ブラック
+c570_description:
+  en: |-
+    The Nikke who plays Black in the hit show Ark Rangers.
+    While she already plays a hero on TV, her dream is to become a real hero off-screen. She is always pushing herself to the limit through an intense training regimen.
+  ko: |-
+    인기 프로그램 여신전대 아크레인저에서 블랙 역할을 맡고 있다.
+    언제나 혹독한 트레이닝으로 자신을 한계까지 몰아붙여 훈련한다.
+    TV 속 역할만이 아니라, TV 밖에서도 진정한 히어로가 되길 꿈꾸고 있다.
+  ja: |-
+    人気番組「女神戦隊アークレンジャー」のブラック。
+    過酷なトレーニングで自分を限界まで追い込み、
+    鍛錬を重ねる。テレビの中の役としてだけでなく、
+    現実の世界でも本物のヒーローになることを夢見ている。
+570_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_570:
+  en: Ark Ranger Black's Spare Body
+  ko: 아크레인저 블랙 스페어 바디
+  ja: アークレンジャー・ブラックのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25702_name:
+  en: Tremble! Ark Black Collider!
+  ko: 전율! 아크 블랙 코레더!
+  ja: 激震！アークブラックコレダー！
+25702_description:
+  en: |-
+    ■ Activates when Transformation takes effect and when the enemy appears while Transformation is in effect. Affects all enemies.
+    <color=#00AEFF>Ark Black Collider: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec until Transformation is <word_group=10101>canceled</word_group>.</color>
+    ■ Activates when entering Full Burst. Affects all Wind Code allies with assault rifles.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 변신 상태 적용 시와 변신 상태 적용 중 적 등장 시 적 전체에게
+    <color=#00AEFF>[아크 블랙 코레더 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 지속 대미지] [1초 간격] [변신 <word_group=10101>삭제</word_group> 시 해제]</color>
+    ■ 풀 버스트 타임 시작 시 풍압 코드 소총 아군 전체에게
+    <color=#00AEFF>[지속 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■変身状態が適用された時および
+    変身状態適用中に敵が出現した時、敵全体に
+    <color=#00AEFF>「アークブラックコレダー：<word_group=10025>最終</word_group>攻撃力
+    {description_value_01}％の持続ダメージ」「1秒間隔」
+    「変身<word_group=10101>解除</word_group>まで」</color>
+    ■フルバーストタイムが発動した時、
+    風圧コードのアサルトライフルの味方全体に
+    <color=#00AEFF>「持続ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25701_name:
+  en: Transform! Ark Ranger Black!
+  ko: 변신! 아크레인저 블랙!
+  ja: 変身！アークレンジャー・ブラック！
+25701_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_01}% continuously.</color>
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self.
+    <color=#00AEFF>Charges battery by {description_value_02}% continuously, up to 100%. This effect cannot be removed.</color>
+    ■ Activates when battery reaches 100%. Affects self.
+    <color=#00AEFF>Transformation
+    Function: Transforms into an Ark Ranger and strengthens herself while depleting her battery.
+    Effect 1: Battery ▼ {description_value_04}% every 0.2 sec continuously. This effect cannot be removed.
+    Effect 2: ATK ▲ {description_value_05}% continuously. This effect cannot be removed.
+    <word_group=10097>Deactivation condition</word_group>: When the battery drops to 0%</color>
+    ■ Activates after performing {description_value_07} normal attack(s). Affects self.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_08}% for {description_value_09} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10011>파츠 대미지</word_group> {description_value_01}% ▲] [지속]</color>
+    ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 자신에게
+    <color=#00AEFF>[배터리 {description_value_02}% 충전] [최대 100%] [지속] [해제 불가]</color>
+    ■ 배터리가 100% 도달 시 자신에게
+    <color=#00AEFF>[변신]
+    기능 : 아크레인저로 변신하여 배터리를 소모하는 대신 자신을 강화합니다.
+    효과1 : [배터리 {description_value_04}% ▼] [0.2초 간격] [지속] [해제 불가]
+    효과2 : [공격력 {description_value_05}% ▲] [지속] [해제 불가]
+    <word_group=10097>제거 시점</word_group> : 배터리가 0% 도달 시</color>
+    ■ 일반 공격 {description_value_07}회 공격 시 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10011>パーツダメージ</word_group>{description_value_01}％▲」「持続」</color>
+    ■自分を含む味方の誰かが
+    <word_group=10052>パーツを破壊した時</word_group>、自分に
+    <color=#00AEFF>「バッテリー{description_value_02}％チャージ」「最大100％」「持続」「解除不可」</color>
+    ■バッテリーが100％になった時、自分に
+    <color=#00AEFF>「変身」
+    機能：アークレンジャーに変身し、 バッテリーを消費する代わりに 自分を強化する
+    効果1：「バッテリー{description_value_04}％▼」「0.2秒間隔」「持続」「解除不可」
+    効果2：「攻撃力{description_value_05}％▲」「持続」「解除不可」
+    <word_group=10097>解除条件</word_group>：バッテリーが0％になった時</color>
+    ■通常攻撃で{description_value_07}回攻撃した時、自分に
+    <color=#00AEFF>「持続ダメージ{description_value_08}％▲」「{description_value_09}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15703_name:
+  en: Ultimate Attack! Ark Black Meteor!
+  ko: 궁극! 아크 블랙 메테오!
+  ja: 必殺！アークブラックメテオ！
+15703_description:
+  en: |-
+    ■ Activates while in Transformation status. Affects self.
+    <color=#00AEFF>Battery ▲ {description_value_03}%</color>
+    ■ Activates while not in Transformation status. Affects self.
+    <color=#00AEFF>Emergency Charge Protocol
+    Function: Quickly charges the battery and transforms into an Ark Ranger.
+    Effect 1: Battery ▲ 100%
+    Effect 2: Battery ▼ {description_value_06}% after transforming.</color>
+    ■ Affects the {description_value_07} enemy unit(s) with the highest <word_group=10025>final</word_group> max HP.
+    <color=#00AEFF>Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_09} sec.</color>
+    ■ Affects self.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_10}% for {description_value_11} sec.</color>
+  ko: |-
+    ■ 자신이 변신 상태라면 자신에게
+    <color=#00AEFF>[배터리 {description_value_03}% ▲]</color>
+    ■ 자신이 변신 상태가 아니라면 자신에게
+    <color=#00AEFF>[배터리 긴급 충전] :
+    기능 : 긴급하게 배터리를 충전하여 아크레인저로 변신합니다.
+    효과1 : [배터리 100% ▲]
+    효과2 : 변신 이후 [배터리 {description_value_06}% ▼]</color>
+    ■ <word_group=10025>최종</word_group> 최대 체력이 가장 높은 적 {description_value_07}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_08}% 지속 대미지] [1초 간격] [{description_value_09}초 유지]</color>
+    ■ 자신에게
+    <color=#00AEFF>[지속 대미지 {description_value_10}% ▲] [{description_value_11}초 유지]</color>
+  ja: |-
+    ■自分が変身状態なら、自分に
+    <color=#00AEFF>「バッテリー{description_value_03}％▲」</color>
+    ■自分が変身状態でなければ、自分に
+    <color=#00AEFF>「バッテリー緊急チャージ」：
+    機能：緊急でバッテリーをチャージし、
+    アークレンジャーに変身する
+    効果1：「バッテリー100％▲」
+    効果2：変身後、「バッテリー{description_value_06}％▼」</color>
+    ■<word_group=10025>最終</word_group>最大HPが最も高い敵{description_value_07}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の持続ダメージ」
+    「1秒間隔」
+    「{description_value_09}秒間維持」</color>
+    ■自分に
+    <color=#00AEFF>「持続ダメージ{description_value_10}％▲」「{description_value_11}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c570_Lobby_Touch_1:
+  en: Ark Ranger Black! Transform!
+  ko: 아크레인저 블랙! 변신!
+  ja: アークレンジャー・ブラック！変身！
+c570_Lobby_Touch_2:
+  en: Once again, I've protected peace on the Ark.
+  ko: 오늘도 방주의 평화를 무사히 지켜냈다.
+  ja: 今日も無事、アークの平和を守り抜いた。
+c570_Lobby_Touch_3:
+  en: If trouble comes your way, call for the Ark Rangers. No matter where we are,
+    we'll hear your call and come to your aid.
+  ko: |-
+    무슨 일이 생긴다면, 아크레인저를 불러라.
+    어디에 있든, 그 목소리를 듣고 찾아가겠다.
+  ja: |-
+    何かあったら、アークレンジャーを呼べ。
+    どこにいようと、必ず駆けつける。
+c570_Lobby_Touch_Love_1:
+  en: A hero doesn't entrust their back to just anyone... but with you, I think I
+    can.
+  ko: |-
+    히어로는 함부로 등을 맡기지 않지만,
+    너라면 믿고 맡겨도 될 듯하군.
+  ja: |-
+    ヒーローは、誰にでも背中を預けるわけではない。
+    だが、君なら信じて任せられそうだ。
+c570_Lobby_Touch_Love_2:
+  en: I respect you a great deal. You've become the Ark's hero, despite being an ordinary
+    human.
+  ko: |-
+    평범한 사람의 몸으로 방주의 히어로가 되다니,
+    너를 존경하고 있다.
+  ja: |-
+    生身の人間の身体でアークのヒーローになるとは…
+    尊敬に値する。
+c570_Lobby_Touch_Love_3:
+  en: Keep your eyes on us from here on out.
+  ko: 앞으로도 우리의 활약을 지켜봐 주면 좋겠군.
+  ja: これからも我々の活躍をしっかり見守ってくれ。
+c570_Lobby_Stay_1:
+  en: There are citizens out there right now living in fear. Let me go help them.
+  ko: |-
+    지금도 불안에 떨고 있는 시민이 어딘가에 있을 거다.
+    나를 이만 보내다오.
+  ja: |-
+    今も私を待っている者が、どこかにいるはずだ。
+    止めないでくれ。
+c570_Lobby_Stay_Love_1:
+  en: Preparations are complete. Call on the Ark Rangers whenever you need us.
+  ko: |-
+    모든 준비를 마쳤다.
+    언제든 아크레인저를 불러 다오.
+  ja: |-
+    準備はすべて整った。
+    いつでもアークレンジャーを呼んでくれ。
+c570_Outpost_Touch_1:
+  en: I see there is now one more place the Ark Rangers must protect.
+  ko: 아크레인저가 지켜야 할 곳이 한 군데 더 늘었군.
+  ja: アークレンジャーが 守るべき場所が、また一つ増えた。
+c570_Outpost_Touch_2:
+  en: Everyone here deserves to be called a hero.
+  ko: 이곳에 있는 모두가 히어로라고 해도 과언이 아니겠군.
+  ja: ここにいる全員が ヒーローだと言っても 過言ではないだろう。
+c570_Outpost_Touch_3:
+  en: I'm going to stop by the gym. I can't neglect my training.
+  ko: |-
+    체육관에 들를 예정이다.
+    훈련을 게을리해서는 안 되니까.
+  ja: |-
+    ジムに寄る予定だ。
+    トレーニングを怠るわけには いかないからな。
+c570_Gacha_Get_1:
+  en: The Ark Rangers will always protect peace on the Ark!
+  ko: 방주의 평화는, 우리 아크레인저가 지킨다!
+  ja: アークの平和は、私たちアークレンジャーが守る！
+c570_Reinforce_1:
+  en: An Ark Ranger never stops improving.
+  ko: 아크레인저는 끝도 없이 성장한다.
+  ja: アークレンジャーは、どこまでも成長し続ける。
+c570_Reinforce_2:
+  en: Now I can protect even more people.
+  ko: 더 많은 시민을 지킬 수 있겠군.
+  ja: より多くの人々を守ることができそうだ。
+c570_Reinforce_3:
+  en: Thank you. I've grown stronger because of you.
+  ko: 고맙다. 덕분에 더 성장했다.
+  ja: ありがとう。おかげで、さらに成長できた。
+c570_Gift_1:
+  en: I... really didn't see this coming. Thank you.
+  ko: |-
+    이건… 정말 생각지도 못했다.
+    진심으로 고맙다.
+  ja: |-
+    これは…まったく想像していなかった。
+    心から感謝する。
+c570_Gift_2:
+  en: Thank you. I'll fight to bring the gift of peace to more people.
+  ko: 나도 더 많은 시민들에게 평화를 선물할 수 있도록 하겠다.
+  ja: 私もより多くの人々に平和を届けられるよう、最善を尽くす。
+c570_Gift_3:
+  en: This was exactly what I needed. I don't know how you knew, but I'll put it to
+    good use.
+  ko: |-
+    마침 내게 필요했던 거다.
+    어떻게 알았는지는 모르겠지만, 잘 쓰겠다.
+  ja: |-
+    まさに私が必要としていたものだ。
+    なぜ分かったのかは見当もつかないが、大切に使わせてもらう。
+c570_Attractive_Up_1:
+  en: "... It seems I've found a new hero of my own."
+  ko: "…내게도 새로운 영웅이 생긴 것 같군."
+  ja: "…私にも新たなヒーローができたようだ。"
+c570_Attractive_Up_2:
+  en: I can't make sense of this feeling. Respect? Admiration? Or perhaps... something
+    else.
+  ko: |-
+    이 감정이 무엇인지 모르겠다.
+    존경? 경의? 그것도 아니라면….
+  ja: |-
+    この感情はいったい…
+    尊敬？敬意？それとも…
+c570_Attractive_Up_3:
+  en: You always inspire me. I want to become someone who can do the same.
+  ko: |-
+    너는 늘 나에게 감동을 주는군.
+    나도 그런 존재가 되고 싶다.
+  ja: |-
+    君はいつも私に感動を与えてくれる。
+    私もそのような存在になりたい。
+c570_Party_Deploy_1:
+  en: Are you in need of a hero?
+  ko: 히어로가 필요한 순간인가.
+  ja: 今こそ、ヒーローが必要な時か。
+c570_Field_Touch_1:
+  en: You called?
+  ko: 불렀나.
+  ja: 呼んだか？
+c570_Field_Go_1:
+  en: Moving out.
+  ko: 이동하지.
+  ja: 移動しよう。
+c570_Battle_Enter_1:
+  en: Ark Ranger Black, ready for battle!
+  ko: 아크레인저 블랙! 준비 완료!
+  ja: アークレンジャー・ブラック！準備はできている！
+c570_Battle_Ready_1:
+  en: Bring it on, you Rapture fiends!
+  ko: 덤벼라! 랩쳐 괴인들!
+  ja: かかってこい！ラプチャー怪人どもめ！
+c570_Battle_Ready_2:
+  en: Get behind me, everyone!
+  ko: 다들, 내 뒤로 숨어라!
+  ja: みんな、私の後ろに隠れろ！
+c570_Battle_Ready_3:
+  en: Don't worry, we'll protect you.
+  ko: 우리가 지켜줄 테니, 걱정하지 마라.
+  ja: 私たちが守る。心配するな。
+c570_Reload_1:
+  en: The enemy is strong.
+  ko: 쉽지 않은 상대다.
+  ja: 手強い相手だ。
+c570_Reload_2:
+  en: Don't worry. Just trust us.
+  ko: 걱정 말고, 우리를 믿어라.
+  ja: 心配無用だ、私たちを信じろ。
+c570_Reload_3:
+  en: Anyone hurt?
+  ko: 모두, 다친 곳은 없나?
+  ja: みんな、ケガはないか？
+c570_Ult_Skill_Ready_1:
+  en: Here I go!
+  ko: 간다!
+  ja: 行くぞ！
+c570_Ult_Skill_1:
+  en: Ultimate attack! Ark Black Meteor!
+  ko: 궁극! 아크 블랙 메테오-!!
+  ja: 必殺！アークブラックメテオー！！
+c570_FullBurst_1:
+  en: Our time is now!
+  ko: 우리의 시간이다!
+  ja: 私たちの時間だ！
+c570_Kill_Monster_1:
+  en: Hardly a challenge.
+  ko: 별거 아니군.
+  ja: たいしたことはないな。
+c570_Kill_Monster_2:
+  en: That one's down.
+  ko: 해치웠다.
+  ja: 片付けたぞ。
+c570_Kill_Monster_3:
+  en: Who's next?
+  ko: 다음은 누구냐!
+  ja: 次は、誰だ！
+c570_Damage_1:
+  en: Argh...!
+  ko: 큭…!
+  ja: くっ…！
+c570_Damage_2:
+  en: I'm fine!
+  ko: 난 괜찮다!
+  ja: 私は平気だ！
+c570_Damage_3:
+  en: Ugh...!
+  ko: 으윽…!
+  ja: ううっ…！
+c570_Die_1:
+  en: A hero... never falls...!
+  ko: 히어로는… 절대 쓰러지지 않는다…!
+  ja: ヒーローは…絶対に倒れない…！
+c570_Win_1:
+  en: Have no fear, for we will never lose!
+  ko: 두려워하지 마라. 우리는 절대 지지 않는다!
+  ja: 恐れるな。我々は、絶対に負けない！
+570_cv_ja:
+  en: 'CV: Yuko Sanpei'
+  ko: 'CV : 산페이 유우코'
+  ja: CV：三瓶由布子
+570_cv_ko:
+  en: 'CV: Lee Serena'
+  ko: 'CV : 이세레나'
+  ja: CV：イ・セレナ
+570_cv_en:
+  en: 'CV: Anna Brisbin'
+  ko: 'CV : 안나 브리스빈'
+  ja: CV：Anna Brisbin

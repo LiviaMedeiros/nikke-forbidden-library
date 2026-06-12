@@ -63,7 +63,7 @@ character_shot_description_localkey_sr_up:
   ja: ワイルドトゥース
 24702_description:
   en: |-
-    ■ Activates when entering battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Gain Pierce continuously.</color>
     ■ Activates during Beast Cage. Affects all allies.
     <color=#00AEFF>DEF ▲ {description_value_01}% of caster's DEF for {description_value_02} sec.</color>
@@ -97,9 +97,9 @@ skill_name_1003:
   ja: グレアリングアイズ
 24701_description:
   en: |-
-    ■ Activates when casting a normal attack. Affects self.
+    ■ Activates when performing a normal attack. Affects self.
     <color=#00AEFF>Charge Speed ▲ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
-    ■ Activates when entering battle. Affects self.
+    ■ Activates at the start of battle. Affects self.
     <color=#00AEFF><word_group=10035>Convert excess value over 100% of Charge Speed to Charge Damage</word_group>. Charge Damage ▲ {description_value_04}% of the excess value continuously.</color>
   ko: |-
     ■ 일반 공격 시 자신에게

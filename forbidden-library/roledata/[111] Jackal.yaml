@@ -63,7 +63,7 @@ character_shot_description_localkey_rl_up:
   ja: チアーアップジャッカル
 21112_description_1:
   en: |-
-    ■ Activates when entering battle. Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    ■ Activates at the start of battle. Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF><word_group=10044>Equally shares damage taken</word_group>  for {description_value_02} sec.
     DEF ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-

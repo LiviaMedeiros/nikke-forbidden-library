@@ -79,7 +79,7 @@ skill_name_1003:
   ja: お掃除を始めます、ご主人様
 23101_description:
   en: |-
-    ■ Activates when entering battle. Affects all allies.
+    ■ Activates at the start of battle. Affects all allies.
     <color=#00AEFF>Perfect Maid: Gain <word_group=10039>debuff immunity</word_group> to {description_value_01} debuff(s), stacking up to {description_value_05} time(s) continuously.</color>
     ■ Activates when own HP falls below {description_value_02}%. Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>

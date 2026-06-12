@@ -53,7 +53,7 @@ character_shot_description_localkey_ar_down:
 18102_description:
   en: "■ Activates after firing {description_value_01} time(s). Affects all enemies.\n<color=#00AEFF>Deals
     {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    \n■ Activates when entering battle. Affects self.\n<color=#00AEFF>ATK ▲ {description_value_03}%
+    \n■ Activates at the start of battle. Affects self.\n<color=#00AEFF>ATK ▲ {description_value_03}%
     of the caster's <word_group=10025>final</word_group> Max HP continuously.</color>"
   ko: |-
     ■ {description_value_01}회 사격 시 적 전체에게

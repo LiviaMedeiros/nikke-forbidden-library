@@ -79,7 +79,7 @@ skill_name_1003:
   ja: フェリータ
 22831_description:
   en: |-
-    ■ Activates when entering battle. Affects all allies.
+    ■ Activates at the start of battle. Affects all allies.
     <color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
     ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
@@ -273,9 +273,7 @@ material_characterskill_a_ssr_desc:
   ko: '사쿠라 : 블룸 인 서머'
   ja: サクラ：ブルーム・イン・サマー
 c283_Lobby_Touch_1:
-  en: |-
-    What's wrong?
-    Do you wanna help put some sunscreen on my back?
+  en: What's wrong? Do you wanna help put some sunscreen on my back?
   ko: |-
     왜 그래 미스터,
     선크림 발라주려고?
@@ -305,9 +303,8 @@ c283_Lobby_Touch_Love_2:
   ko: 미스터가 원한다면 매일 입어줄 수도 있어~
   ja: ミスターが望むなら、毎日着てあげよっか。
 c283_Lobby_Touch_Love_3:
-  en: |-
-    Here, come sit beside me. I can't go running over to you, after all.
-    I have my dignity to maintain!
+  en: Here, come sit beside me. I can't go running over to you. After all, I have
+    my dignity to maintain!
   ko: |-
     내 옆으로 와 미스터,
     나도 품위가 살아야 하지 않겠어?
@@ -356,9 +353,8 @@ c283_Outpost_Touch_3:
     確かに、地上の空気は…
     裏社会の濁った空気とは 違うね。
 c283_Gacha_Get_1:
-  en: |-
-    Hedonia's boss in a swimsuit...
-    I can safely say this is a privilege given only to you, Mister.
+  en: Hedonia's boss in a swimsuit...? I can safely say this is a privilege given
+    only to you, Mister.
   ko: |-
     수영복을 입은 헤도니아의 보스…
     미스터만이 가진 특권이랄까?
@@ -394,9 +390,8 @@ c283_Gift_1:
     アツい夏の海とイケメンからのプレゼント。
     悪くない組み合わせね。
 c283_Gift_2:
-  en: |-
-    I give back as much as I get.
-    That's a personal rule of mine, so expect a gift sometime soon.
+  en: I give back as much as I get. That's a personal rule of mine, so expect a gift
+    sometime soon.
   ko: |-
     받은 만큼 돌려준다…
     이게 나의 규칙이니 기대해.
@@ -404,9 +399,8 @@ c283_Gift_2:
     もらった分だけちゃーんと返す…
     これがあたしのルールだから、期待してて。
 c283_Gift_3:
-  en: |-
-    This is lovely.
-    I'll pay you back in my own way later, so you can look forward to that.
+  en: This is lovely. I'll pay you back in my own way later, so you can look forward
+    to that.
   ko: |-
     오? 좋아.
     내 방식대로 돌려줄 테니 나중에 놀라지 말라고.

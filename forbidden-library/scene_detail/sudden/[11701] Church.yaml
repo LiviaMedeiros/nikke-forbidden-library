@@ -5590,3 +5590,536 @@ d_ex_church_09:
       私たちはベスティが戻ってくるまで
       待たねばならず、ファントムは再び
       箱の中に隠れるほかなかった
+d_ex_church_10:
+  d_ex_church_10_1:
+    speaker: arkrangerblack
+    en: You said it was urgent, so I came as quickly as I could.
+    ko: 급한 일이라고 해서 달려왔다.
+    ja: 緊急の用件だと聞いて、駆けつけた。
+  d_ex_church_10_2:
+    speaker: arkrangerblack
+    en: What happened?
+    ko: 무슨 일이지?
+    ja: 何かあったのか？
+  d_ex_church_10_3:
+    speaker: "<Self>"
+    en: Well...
+    ko: 무슨 일이냐 하면.
+    ja: その…
+  d_ex_church_10_4:
+    speaker: "<Self>"
+    en: Vesti, Mica! She's here!
+    ko: 베스티, 미카! 선생님 오셨다!
+    ja: |-
+      ベスティー、ミカ！
+      先生がいらっしゃったぞ！
+  d_ex_church_10_5:
+    speaker: arkrangerblack
+    en: Wha?
+    ko: 음?
+    ja: ん？
+  d_ex_church_10_6:
+    speaker: vesti_t
+    en: Miss Black!
+    ko: 선생님!
+    ja: 先生！
+  d_ex_church_10_7:
+    speaker: mica
+    en: Wow! It really is her!
+    ko: 우와! 선생님이다~!
+    ja: わあ！先生だ～！
+  d_ex_church_10_8:
+    speaker: arkrangerblack
+    en: Wait,
+    ko: 선생님?
+    ja: 先生？
+  d_ex_church_10_9:
+    speaker: arkrangerblack
+    en: you're talking about me?
+    ko: 날 이야기하는 건가?
+    ja: 私のことか？
+  d_ex_church_10_10:
+    speaker: mica
+    en: Miss Black! Miss Black!
+    ko: 선생님, 선생님!
+    ja: 先生、先生！
+  d_ex_church_10_11:
+    speaker: mica
+    en: How can I stop being so timid?
+    ko: 어떻게 하면 소심한 성격을 바꿀 수 있나요?
+    ja: どうしたら内気な性格を変えられますか？
+  d_ex_church_10_12:
+    speaker: vesti_t
+    en: Yeah, how do you stay so confident?
+    ko: 맞아, 어떻게 하면 그렇게 당당해질 수 있어?
+    ja: |-
+      そうそう…どうしたら
+      先生みたいに堂々としていられるの？
+  d_ex_church_10_13:
+    speaker: vesti_t
+    en: I watched the new movie that just came out.
+    ko: 실은 이번에 출시된 영화를 봤어.
+    ja: 実は、最近公開された映画を観たの。
+  d_ex_church_10_14:
+    speaker: vesti_t
+    en: No matter what happened... you never backed down, and you always looked so
+      confident.
+    ko: 너는… 어떤 상황에서도 주눅들지 않고 당당하더라구.
+    ja: |-
+      先生って…どんな状況でも
+      ひるまずに堂々としてて…
+  d_ex_church_10_15:
+    speaker: vesti_t
+    en: I just... thought that was really amazing.
+    ko: 그게… 너무 대단해 보여서.
+    ja: それが…すごくカッコよくて。
+  d_ex_church_10_16:
+    speaker: arkrangerblack
+    en: You saw the movie?
+    ko: 영화를 본 건가.
+    ja: 映画を観たのか。
+  d_ex_church_10_17:
+    speaker: arkrangerblack
+    en: Thank you for watching it.
+    ko: 봐줘서 고맙다.
+    ja: 観てくれてありがとう。
+  d_ex_church_10_18:
+    speaker: mica
+    en: I-I watched it too!
+    ko: 저, 저도 봤어요…!
+    ja: わ、私も観ました…！
+  d_ex_church_10_19:
+    speaker: mica
+    en: You know that scene at the beginning where everyone misunderstood you?
+    ko: 초반에 사람들이 오해하는 장면도 있었잖아요.
+    ja: |-
+      初めのほうに、みんなから
+      誤解されるシーンがあったじゃないですか。
+  d_ex_church_10_20:
+    speaker: mica
+    en: Even then, you didn't lose confidence and explained everything so calmly.
+    ko: 그런 상황에서도 블랙은 기죽지 않고 해명했죠.
+    ja: |-
+      そんな状況でもブラックは、
+      ひるまず言い返していましたよね。
+  d_ex_church_10_21:
+    speaker: mica
+    en: H-how were you able to do that?
+    ko: 어, 어떻게 그럴 수가 있어요?
+    ja: |-
+      ど、どうしたら
+      あんなふうに言い返せるんですか？
+  d_ex_church_10_22:
+    speaker: mica
+    en: If it were me... my mind would've gone completely blank.
+    ko: 저라면… 바로 머리가 새하얘질 것 같은데.
+    ja: 私なら…頭が真っ白になっちゃいそうです。
+  d_ex_church_10_23:
+    speaker: arkrangerblack
+    en: Hmm...
+    ko: "…음."
+    ja: "…ふむ。"
+  d_ex_church_10_24:
+    speaker: arkrangerblack
+    en: From what I can tell, both of you have trouble standing in front of people,
+      and you seem a little withdrawn.
+    ko: 내 추측으로는 두 사람 다 사람 앞에 서는 걸 어려워하고 조금 위축되어 보이는데.
+    ja: |-
+      君たちは人前に出るのが苦手で、
+      いつも萎縮してしまい、
+  d_ex_church_10_25:
+    speaker: arkrangerblack
+    en: Is that what's been giving you trouble?
+    ko: 그것 때문에 어려움을 겪는 게 맞나?
+    ja: そのため困っている、ということかな？
+  d_ex_church_10_26:
+    speaker: vesti_t
+    en: Y-yes...!
+    ko: 마, 맞아…!
+    ja: そ、そうなの…！
+  d_ex_church_10_27:
+    speaker: mica
+    en: Y-yeah...!
+    ko: 마, 맞아요….!
+    ja: そ、その通りです…！
+  d_ex_church_10_28:
+    speaker: arkrangerblack
+    en: And you want to overcome it?
+    ko: 그걸 극복하고 싶고?
+    ja: それを克服したいと？
+  d_ex_church_10_29:
+    speaker: vesti_t
+    en: Y-yes...!
+    ko: 마, 맞아…!
+    ja: そ、そうなの…！
+  d_ex_church_10_30:
+    speaker: mica
+    en: Y-yeah...!
+    ko: 마, 맞아요….!
+    ja: そ、その通りです…！
+  d_ex_church_10_31:
+    speaker: arkrangerblack
+    en: Then you've come to the right place.
+    ko: 그렇다면 잘 찾아왔군.
+    ja: ならば、私を呼んだのは正解だったな。
+  d_ex_church_10_32:
+    speaker: arkrangerblack
+    en: What you're struggling with can absolutely be overcome through practice.
+    ko: 너희가 고민하는 건 충분히 연습으로 극복될 수 있다.
+    ja: |-
+      君たちの悩みは、
+      訓練さえすれば乗り越えられる。
+  d_ex_church_10_33:
+    speaker: arkrangerblack
+    en: There's a reason speech and public speaking classes exist.
+    ko: 괜히 스피치 학원이나 웅변 학원 같은 게 있는 게 아니지.
+    ja: |-
+      スピーチのレッスンや話し方教室が
+      この世に存在しているのは、そのためだ。
+  d_ex_church_10_34:
+    speaker: arkrangerblack
+    en: Keep at it, and you'll definitely improve.
+    ko: 계속 연습하다 보면 분명 나아질 거다.
+    ja: 何度も練習すれば、きっと克服できるはずだ。
+  d_ex_church_10_35:
+    speaker: vesti_t
+    en: Wow...!
+    ko: 와…!
+    ja: わあ…！
+  d_ex_church_10_36:
+    speaker: mica
+    en: Whoa...!
+    ko: 우와아아…!
+    ja: やったぁ…！
+  d_ex_church_10_37:
+    speaker: arkrangerblack
+    en: All right, let's start with posture.
+    ko: 자, 그럼 우선은 자세부터 연습해 보자.
+    ja: では、まずは姿勢だ。
+  d_ex_church_10_38:
+    speaker: arkrangerblack
+    en: First, stop looking down.
+    ko: 두 사람 다, 우선 고개를 숙이지 마라.
+    ja: 二人とも、頭を下げるな。
+  d_ex_church_10_39:
+    speaker: arkrangerblack
+    en: Both of you are doing it right now.
+    ko: 지금은 둘 다 고개를 숙이고 있다.
+    ja: 今の君たちは、頭が下がっている。
+  d_ex_church_10_40:
+    speaker: "<Narration>"
+    en: Both Mica and Vesti look up at once.
+    ko: 척-
+    ja: スッ…
+  d_ex_church_10_41:
+    speaker: vesti_t
+    en: "... Like this?"
+    ko: "…이렇게?"
+    ja: "…こう？"
+  d_ex_church_10_42:
+    speaker: mica
+    en: Th-this is kinda embarrassing...
+    ko: 어, 어쩐지 좀 쑥스럽네요….
+    ja: な、なんだかちょっと恥ずかしいですね…
+  d_ex_church_10_43:
+    speaker: arkrangerblack
+    en: Good, that's it.
+    ko: 그래, 좋아. 그거다.
+    ja: よし、いいぞ。その姿勢だ。
+  d_ex_church_10_44:
+    speaker: arkrangerblack
+    en: Now straighten your shoulders
+    ko: 그리고 어깨를 펴라.
+    ja: そして、胸を張れ。
+  d_ex_church_10_45:
+    speaker: arkrangerblack
+    en: and walk forward with confidence. Like this.
+    ko: 그대로 앞으로 당당히 걸어 나가는 거다.
+    ja: そのまま堂々と前方へ進むんだ。
+  d_ex_church_10_46:
+    speaker: "<Self>"
+    en: You make it sound like they're practicing for the runway...
+    ko: 말만 들으면 모델 워킹 시키는 것 같네….
+    ja: |-
+      言葉だけを聞くと、モデルの
+      ウォーキング指導みたいだな…
+  d_ex_church_10_47:
+    speaker: "<Monologue>"
+    en: Vesti and Mica make their way forward awkwardly.
+    ko: 베스티와 미카는 쭈뼛쭈뼛 걸어 나간다.
+    ja: |-
+      ベスティーとミカは
+      モジモジしながら前の方へ歩いた
+  d_ex_church_10_48:
+    speaker: vesti_t
+    en: Uh... this feels kinda awkward.
+    ko: 으… 어색해.
+    ja: ううっ…変な感じ。
+  d_ex_church_10_49:
+    speaker: mica
+    en: I... I don't even know how to be confident...
+    ko: 다, 당당하게가 어떤 건지 모르겠어요….
+    ja: |-
+      ど、堂々とするって、
+      どうすればいいんでしょうか…
+  d_ex_church_10_50:
+    speaker: arkrangerblack
+    en: Pretend no one's watching.
+    ko: 보는 사람이 아무도 없다고 생각하면 된다.
+    ja: 誰も見ていないと思えばいい。
+  d_ex_church_10_51:
+    speaker: arkrangerblack
+    en: Imagine you're the only ones here.
+    ko: 이곳엔 나만 혼자 존재한다고 생각해라.
+    ja: ここには自分しかいないと思うんだ。
+  d_ex_church_10_52:
+    speaker: arkrangerblack
+    en: In fact, aside from @UserName and me, there really isn't anyone else around.
+    ko: 실제로, 나와 @UserName을 제외하면 아무도 없다.
+    ja: |-
+      実際に、私と@UserName以外には
+      誰もいないのだからな。
+  d_ex_church_10_53:
+    speaker: mica
+    en: Oh...!
+    ko: 아…!
+    ja: あっ…！
+  d_ex_church_10_54:
+    speaker: arkrangerblack
+    en: Even if you mess up, nobody's going to see it.
+    ko: 여기서는 실패해도 아무도 보지 않는다.
+    ja: 失敗したって、誰も見ていない。
+  d_ex_church_10_55:
+    speaker: arkrangerblack
+    en: Nobody's going to judge you for it.
+    ko: 아무도 뭐라고 하지 않는다.
+    ja: 誰にも何も言われることはないんだ。
+  d_ex_church_10_56:
+    speaker: arkrangerblack
+    en: So start practicing.
+    ko: 그러니 지금 연습해라.
+    ja: だから、いま練習しておこう。
+  d_ex_church_10_57:
+    speaker: vesti_t
+    en: "... Okay, I'll try again."
+    ko: "…좋아, 다시 해볼게."
+    ja: "…分かった、もう一度やってみる。"
+  d_ex_church_10_58:
+    speaker: "<Monologue>"
+    en: Vesti and Mica start walking again, this time with far more confidence in
+      their step.
+    ko: 두 사람은 아까보다는 훨씬 자신 있는 걸음걸이로 걷기 시작했다.
+    ja: |-
+      二人は先ほどよりも
+      はるかに自信に満ちた足取りで
+      歩き始めた
+  d_ex_church_10_59:
+    speaker: "<Monologue>"
+    en: A little while later...
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_church_10_60:
+    speaker: arkrangerblack
+    en: Next is eye contact.
+    ko: 다음은 시선이다.
+    ja: 次は、視線だ。
+  d_ex_church_10_61:
+    speaker: arkrangerblack
+    en: When you talk to someone, look them in the eyes.
+    ko: 이야기할 땐 상대방의 눈을 보고 말해라.
+    ja: 話をする時は、相手の目を見て話すんだ。
+  d_ex_church_10_62:
+    speaker: arkrangerblack
+    en: Like this.
+    ko: 이렇게.
+    ja: このように。
+  d_ex_church_10_63:
+    speaker: "<Narration>"
+    en: Ark Ranger Black stares at Mica and Vesti.
+    ko: 빤히-
+    ja: じーっ…
+  d_ex_church_10_64:
+    speaker: vesti_t
+    en: I-it's not as easy as it looks...
+    ko: 쉬, 쉽지 않은데….
+    ja: む、難しい…
+  d_ex_church_10_65:
+    speaker: mica
+    en: Your gaze is a little... intense.
+    ko: 눈빛이 너무… 강렬해요.
+    ja: とても強烈な眼差しですね…
+  d_ex_church_10_66:
+    speaker: arkrangerblack
+    en: If you're having trouble,
+    ko: 처음엔 쉽지 않을 수 있다.
+    ja: 初めは難しいかもしれない。
+  d_ex_church_10_67:
+    speaker: arkrangerblack
+    en: look at the space between their eyes instead.
+    ko: 그렇다면 눈이 아니라 미간을 바라봐라.
+    ja: そういう時は、目ではなく眉間を見るんだ。
+  d_ex_church_10_68:
+    speaker: arkrangerblack
+    en: They'll still think you're making eye contact.
+    ko: 그럼 상대방은 너희가 눈을 보고 있다고 생각할 거다.
+    ja: |-
+      そうすれば、相手は
+      自分の目を見ていると感じるはずだ。
+  d_ex_church_10_69:
+    speaker: vesti_t
+    en: Between the eyes...
+    ko: 아… 미간.
+    ja: "…眉間…"
+  d_ex_church_10_70:
+    speaker: "<Narration>"
+    en: Ark Ranger Black continues to stare at Mica and Vesti.
+    ko: 빤히-
+    ja: じーっ…
+  d_ex_church_10_71:
+    speaker: vesti_t
+    en: Th-this is okay...
+    ko: 이건… 괜찮아.
+    ja: これなら…できそう。
+  d_ex_church_10_72:
+    speaker: mica
+    en: Yeah... It feels easier.
+    ko: 저도요… 훨씬 쉬워요.
+    ja: 私もです…さっきよりも楽にできますね。
+  d_ex_church_10_73:
+    speaker: "<Monologue>"
+    en: For a while, the three practice maintaining eye contact with each other.
+    ko: 세 사람은 한참 동안 서로를 바라보며 눈을 바라보는 연습을 했다.
+    ja: |-
+      3人は、しばらくの間
+      お互いに見つめ合いながら
+      目を見る練習をした
+  d_ex_church_10_74:
+    speaker: arkrangerblack
+    en: One last thing, and it's the most important thing of all.
+    ko: 마지막으로 가장 중요한 걸 알려주겠다.
+    ja: 最後に、最も大事なことを教えよう。
+  d_ex_church_10_75:
+    speaker: arkrangerblack
+    en: Never run away.
+    ko: 그건 바로 도망치지 않는 거다.
+    ja: それは、逃げないことだ。
+  d_ex_church_10_76:
+    speaker: mica
+    en: "... Huh?"
+    ko: "…네?"
+    ja: "…はい？"
+  d_ex_church_10_77:
+    speaker: arkrangerblack
+    en: It's okay to speak softly.
+    ko: 작은 목소리로 이야기해도 좋다.
+    ja: 小さな声で話したって構わない。
+  d_ex_church_10_78:
+    speaker: arkrangerblack
+    en: It's okay if you avoid eye contact or get nervous.
+    ko: 눈을 피해도 좋고, 긴장해도 좋다.
+    ja: 目をそらしたって、緊張したっていい。
+  d_ex_church_10_79:
+    speaker: arkrangerblack
+    en: Just don't hide or run away.
+    ko: 하지만 숨거나 도망치지는 마라.
+    ja: だが、隠れたり逃げたりしてはいけない。
+  d_ex_church_10_80:
+    speaker: arkrangerblack
+    en: That alone is enough.
+    ko: 그걸로도 충분하다.
+    ja: それだけで十分だ。
+  d_ex_church_10_81:
+    speaker: vesti_t
+    en: Even if we can't do everything you taught us...
+    ko: 앞에 가르쳐준 걸 다 못해도….
+    ja: 今まで教えてもらったことができなくても…
+  d_ex_church_10_82:
+    speaker: vesti_t
+    en: is it enough if we just don't run away?
+    ko: 그냥 도망치지 않는 것만으로도 충분하다는 이야기야?
+    ja: 逃げなければ、それでいいってこと？
+  d_ex_church_10_83:
+    speaker: arkrangerblack
+    en: That's right.
+    ko: 그렇다.
+    ja: そうだ。
+  d_ex_church_10_84:
+    speaker: arkrangerblack
+    en: It takes real courage to stand your ground instead of running away.
+    ko: 도망치지 않고 맞서는 것엔 큰 용기가 필요하지.
+    ja: |-
+      逃げずに立ち向かうには、
+      とてつもない勇気が必要だ。
+  d_ex_church_10_85:
+    speaker: arkrangerblack
+    en: 'So no matter what happens, remember this:'
+    ko: 그러니 어떤 상황에서도 늘 기억해라.
+    ja: |-
+      だから、どんな状況になっても
+      これだけは忘れるな。
+  d_ex_church_10_86:
+    speaker: arkrangerblack
+    en: Choosing not to run away is something truly admirable.
+    ko: 도망치지 않는 것이야말로, 훌륭한 일이라는 걸.
+    ja: |-
+      逃げずに向き合うことこそが、
+      立派なことなんだと。
+  d_ex_church_10_87:
+    speaker: arkrangerblack
+    en: And despite how hard it is for you to stand before others, you still came
+      here and tried to overcome it.
+    ko: 그리고, 타인 앞에 서는 걸 힘들어하면서도 이 자리에 나와서 그것을 극복하려 노력한 너희는.
+    ja: |-
+      そして、人前に出るのが苦手なのに、
+      私に依頼して克服しようと努力した君たちは…
+  d_ex_church_10_88:
+    speaker: arkrangerblack
+    en: That makes you both truly brave.
+    ko: 아주 용기 있는, 멋진 사람들이다.
+    ja: とても勇気があってかっこいい。
+  d_ex_church_10_89:
+    speaker: vesti_t
+    en: "... Oh."
+    ko: "…아."
+    ja: "…あっ。"
+  d_ex_church_10_90:
+    speaker: mica
+    en: U-um...
+    ko: "…우, 우으…."
+    ja: "…う、うう…"
+  d_ex_church_10_91:
+    speaker: vesti_t
+    en: I-I want to watch the movie again.
+    ko: 나, 극장판 다시 보러 갈래.
+    ja: 私、もう一回映画を観てくる。
+  d_ex_church_10_92:
+    speaker: vesti_t
+    en: I want to be more like Black.
+    ko: 블랙을 더 본받고 싶어.
+    ja: ブラックからもっと色々教わりたいの。
+  d_ex_church_10_93:
+    speaker: mica
+    en: M-me too!
+    ko: 저, 저도요…!
+    ja: わ、私も…！
+  d_ex_church_10_94:
+    speaker: mica
+    en: Could you maybe sign this for me?
+    ko: 혹시 여기에 사인 해주실 수 있나요?
+    ja: |-
+      よかったら、
+      ここにサインをお願いできますか？
+  d_ex_church_10_95:
+    speaker: "<Monologue>"
+    en: What started as a support group to overcome social anxiety
+    ko: 약점 극복하기! 로 시작했던 모임은.
+    ja: |-
+      弱点を克服する！という名目で
+      始まった集まりは
+  d_ex_church_10_96:
+    speaker: "<Monologue>"
+    en: ends with Black gaining two new fans.
+    ko: 결과적으로 블랙의 팬만 두 명 늘어난 채 막을 내렸다.
+    ja: |-
+      結局、ブラックのファンが
+      2人増えただけで終わったのだった

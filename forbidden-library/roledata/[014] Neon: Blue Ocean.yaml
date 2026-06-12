@@ -5,8 +5,8 @@
   ja: ネオン：ブルーオーシャン
 c014_description:
   en: |-
-    To adapt to the new aquatic-based environment, Neon has decided to incorporate another tool in her arsenal, switching over to Waterpower over her original Firepower.
-    This spitfire goes all out on everything, whether it be honing her Waterpower abilities, or having fun on vacation.
+    Confronted with a new aquatic-based environment, Neon has decided to walk a hybrid path of both firepower and waterpower.
+    This spitfire goes all out on everything, whether it be honing her waterpower abilities, or having fun on vacation.
   ko: |-
     바다라는 새로운 환경에 직면하여, 기존의 화력에 수력을 더해 하이브리드의 길을 걷게 된 네온.
     수력 훈련이든, 바캉스를 즐기는 일이든 매사에 최선을 다하는 열혈 소녀다.
@@ -56,8 +56,8 @@ character_shot_description_localkey_mg_down:
   ja: ウォータージェット
 20142_description:
   en: |-
-    ■ Activates when entering Burst stage 3. Affects self.
-    <color=#00AEFF>Effect changes according to the number of activation time(s). <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    ■ Activates when entering Burst Stage 3. Affects self.
+    <color=#00AEFF>Effect changes according to the number of activation times. <word_group=10028>Previous effects trigger repeatedly</word_group>:
     Once: <word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.
     Twice: <word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.
     Three times: <word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
@@ -297,7 +297,7 @@ material_characterskill_a_ssr_desc:
   ko: 아니스
   ja: アニス
 c014_Lobby_Touch_1:
-  en: Master! Do you want to recharge our water power together?
+  en: Master! Do you want to recharge our waterpower together?
   ko: 스승님! 같이 수력 충전하실래요?
   ja: 師匠！一緒に水力チャージしませんか？
 c014_Lobby_Touch_2:
@@ -318,13 +318,13 @@ c014_Lobby_Touch_3:
 c014_Lobby_Touch_Love_1:
   en: |-
     Are you going back to the beach for round two?
-    I'll join you once my water power is fully charged.
+    I'll join you once my waterpower is fully charged.
   ko: "이따가 해변에서 2차전 하실 거죠? \n수력 충전 후 출격하겠습니다."
   ja: |-
     2回戦はビーチでやりますか？
     水力をチャージしたら、私も行きますね。
 c014_Lobby_Touch_Love_2:
-  en: My main go-to is firepower, but I think I can learn to appreciate water power
+  en: My main go-to is firepower, but I think I can learn to appreciate waterpower
     as well.
   ko: "본진은 화력이지만, \n스승님께 배우는 거라면 수력도 좋아요!"
   ja: 本命は火力ですが、師匠が教えてくれるなら水力もいいですね！
@@ -348,9 +348,7 @@ c014_Lobby_Stay_1:
     水力は水力である…
     師匠が私を放っておくのも、私を成長させるためなんですよね？
 c014_Lobby_Stay_Love_1:
-  en: |-
-    You're feeling heat exhaustion?
-    Should I fetch you some water?
+  en: You're feeling heat exhaustion? Should I fetch you some water?
   ko: |-
     헉! 너무 더워서 움직이실 수 없다고요?
     음… 제 물기를 좀 옮겨 드릴까요?
@@ -364,7 +362,7 @@ c014_Outpost_Touch_1:
     シャワーが壊れた？
     じゃあ、 私が修理してあげますよ！
 c014_Outpost_Touch_2:
-  en: There's somewhere in the Outpost perfect for honing my water power. It's the
+  en: There's somewhere in the Outpost perfect for honing my waterpower. It's the
     swimming pool!
   ko: 그거 아세요, 스승님? 전초기지에도 수력 훈련장이 있다는걸. 명칭은 수영장이라고 합니다.
   ja: |-
@@ -372,8 +370,8 @@ c014_Outpost_Touch_2:
     前哨基地にも 水力トレーニング場が あるんですよ…
     「プール」っていう 名前なんですけど…
 c014_Outpost_Touch_3:
-  en: "This inner tube is no ordinary flotation device. \nYou could put an elephant
-    on top of this thing, and it'd still stay afloat."
+  en: This inner tube is no ordinary flotation device. You could put an elephant on
+    top of this thing, and it'd still stay afloat.
   ko: |-
     이 튜브는 보통의 튜브가 아닙니다.
     코끼리도 들어 올릴 수 있는 무중력 튜브죠.
@@ -381,7 +379,7 @@ c014_Outpost_Touch_3:
     この浮き輪は ただの浮き輪では ありません。
     ゾウも持ち上げられる、 無重力の浮き輪です。
 c014_Gacha_Get_1:
-  en: On land, my prowess is firepower. Underwater, it is water power, for I am Hybrid
+  en: On land, my prowess is firepower. Underwater, it is waterpower, for I am Hybrid
     Neon.
   ko: |-
     육지에서는 화력. 바다에서는 수력.
@@ -394,7 +392,7 @@ c014_Reinforce_1:
   ko: 물을 더 강력하게 분사할 수 있겠군요.
   ja: もっと強く水を噴射できますね。
 c014_Reinforce_2:
-  en: Water power enhanced!
+  en: Waterpower enhanced!
   ko: 수력 업!
   ja: 水力アップ！
 c014_Reinforce_3:
@@ -426,9 +424,8 @@ c014_Attractive_Up_2:
     …さあ、一緒に行きましょう。
     あの水平線の彼方まで！
 c014_Attractive_Up_3:
-  en: |-
-    It doesn't matter whether you're dry or soaking wet,
-    I'll admire you all the same.
+  en: It doesn't matter whether you're dry or soaking wet, I'll admire you all the
+    same.
   ko: |-
     존경합니다, 스승님!
     마르셨을 때나, 쫄~딱 젖으셨을 때나!
@@ -442,7 +439,7 @@ c014_Party_Deploy_1:
     ふふっ。
     私の水鉄砲が必要なんですね？
 c014_Field_Touch_1:
-  en: Water power!
+  en: Waterpower!
   ko: 수력!
   ja: 水力！
 c014_Field_Go_1:
@@ -472,7 +469,7 @@ c014_Reload_1:
   ko: 스승님, 저 믿으시죠?
   ja: 師匠、私を信じてますよね？
 c014_Reload_2:
-  en: Water power, recharge!
+  en: Waterpower, recharge!
   ko: 수! 력! 충! 전!
   ja: 水！力！充！填！
 c014_Reload_3:
@@ -484,7 +481,7 @@ c014_Ult_Skill_Ready_1:
   ko: 큰 게 옵니다!
   ja: 大物が来ますよ！
 c014_Ult_Skill_1:
-  en: Feast your eyes upon my overflowing water power!
+  en: Feast your eyes upon my overflowing waterpower!
   ko: 스승님…! 이 넘치는 수력 좀 보세요!
   ja: 師匠…！このあふれる水力をご覧ください！
 c014_FullBurst_1:
@@ -508,7 +505,7 @@ c014_Damage_1:
   ko: 으앗!
   ja: うあっ！
 c014_Damage_2:
-  en: Water power!
+  en: Waterpower!
   ko: 수력!
   ja: 水力！
 c014_Damage_3:

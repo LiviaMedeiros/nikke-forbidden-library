@@ -6,8 +6,7 @@
 c353_description:
   en: |-
     Helm sets off on an adventure in Blue Water Island.
-    Although she looks strange wearing a uniform over the swimsuit which was given to her,
-    people can't help but be attracted to her getup.
+    Although she looks strange wearing a uniform over the swimsuit that was given to her, people can't help but be attracted to her getup.
   ko: |-
     블루워터 아일랜드 탐색을 위해 나선 헬름.
     기부받은 수영복 위에 정복을 걸쳐 입은 수상한 모습이지만,
@@ -100,7 +99,8 @@ skill_name_1003:
   ja: |-
     ■通常攻撃が{description_value_01}回命中した時、対象に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
-    ■フルバーストタイムが発動した時、味方全体に
+    ■フルバーストタイムが発動した時、
+    味方全体に
     <color=#00AEFF>「開始回数別の効果」
     「<word_group=10028>下位効果のスタック適用</word_group>」：
     1回：
@@ -129,7 +129,8 @@ skill_name_1002:
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
   ja: |-
     ■敵全体に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    バーストスキルダメージ」</color>
     ■対象が電撃コードなら、同じ敵に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」</color>
 skill_name_1001:
@@ -323,9 +324,7 @@ c353_Lobby_Stay_1:
     바다에 나가서 수영을 해봐도 될까?
   ja: あの…特にすることがないなら、海に行って泳いでもいいかしら？
 c353_Lobby_Stay_Love_1:
-  en: |-
-    You can head back if you want.
-    I'm going to stay and look at the ocean.
+  en: You can head back if you want. I'm going to stay and look at the ocean.
   ko: |-
     천천히 돌아와도 돼.
     난 여기서 바다를 보고 있을 테니까.
@@ -342,9 +341,8 @@ c353_Outpost_Touch_2:
   ko: 언제 또 바다에 나갈지 모르니, 훈련을 해야겠어.
   ja: いつ海に行くか分からないから、 トレーニングを しておかないと。
 c353_Outpost_Touch_3:
-  en: |-
-    Have you seen Anchor or Mast?
-    I feel they've been lax in their duties ever since we got back from the beach.
+  en: Have you seen Anchor or Mast? I feel they've been lax in their duties ever since
+    we got back from the beach.
   ko: |-
     혹시 앵커랑 마스트 봤어?
     바다에 다녀온 이후로 기강이 풀린 것 같아.
@@ -368,9 +366,8 @@ c353_Reinforce_3:
   ko: 당장 실전에 투입돼도 문제없을 것 같아.
   ja: 今すぐ実戦に投入しても問題ないはずよ。
 c353_Gift_1:
-  en: |-
-    I feel bad. You always give me gifts, but I never reciprocate.
-    Is there anything you want?
+  en: I feel bad. You always give me gifts, but I never reciprocate. Is there anything
+    you want?
   ko: |-
     귀관은 갖고 싶은 거 없어?
     매번 받기만 해서 미안해.
@@ -388,9 +385,7 @@ c353_Gift_2:
     もう貴官からは沢山のプレゼントをもらってるのに
     こんなものまで用意してくれるなんて…
 c353_Gift_3:
-  en: |-
-    I can use this to help maintain the Admire...
-    Oh, never mind.
+  en: I can use this to help maintain the Admire... Oh, never mind.
   ko: |-
     …이건 나중에 어드마이어 호의 유지비로….
     아, 아무것도 아냐.
@@ -398,9 +393,8 @@ c353_Gift_3:
     …これはアドマイアー号の維持費として…
     な、何でもないわ。
 c353_Attractive_Up_1:
-  en: |-
-    To me, you're just like the ocean.
-    Every time I see you, I feel rejuvenated... and I always want to see you.
+  en: To me, you're just like the ocean. Every time I see you, I feel rejuvenated...
+    and I always want to see you.
   ko: |-
     귀관은 마치 바다 같아. 넓고, 청량해.
     …그리고 늘 보고 싶지.
@@ -413,9 +407,7 @@ c353_Attractive_Up_2:
   ko: 바닷물은 차가운데 내 볼은 왜 이렇게 뜨거운 건지….
   ja: 海水は冷たいのに、どうして私の頬はこんなに熱いのかしら…
 c353_Attractive_Up_3:
-  en: |-
-    Today has been a dream come true.
-    I will never forget it as long as I live.
+  en: Today has been a dream come true. I will never forget it as long as I live.
   ko: |-
     오늘을 평생 잊지 못할 거야.
     내가 사랑하는 모든 것들을 눈에 담은 날이거든
@@ -489,7 +481,7 @@ c353_Kill_Monster_3:
   ko: 아직 멀었어!
   ja: まだまだよ！
 c353_Damage_1:
-  en: Errr...
+  en: Ack!
   ko: 윽…!
   ja: うっ…！
 c353_Damage_2:
@@ -497,7 +489,7 @@ c353_Damage_2:
   ko: 괜찮아….
   ja: 大丈夫…
 c353_Damage_3:
-  en: Keuk...!
+  en: Gah...!
   ko: 크읏…!
   ja: くっ…！
 c353_Die_1:
