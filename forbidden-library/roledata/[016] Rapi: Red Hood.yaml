@@ -99,7 +99,7 @@ skill_name_1003:
 20161_description_1:
   en: |-
     ■ Activates at the start of battle and when Full Burst ends.
-    <color=#00AEFF>Effect differs according to squad formation. Only the corresponding effect is applied.</color>
+    <color=#00AEFF>Effect varies according to squad formation. Only one effect is applied.</color>
     Affects self if there are no <word_group=10067>Burst 1 allies.</word_group>.
     <color=#00AEFF>Combat Assist: <word_group=10062>Changes to Burst Stage {description_value_01}</word_group>. This effect is continuous.</color>
     Affects self if there are <word_group=10067>Burst 1 allies.</word_group>
@@ -152,7 +152,7 @@ skill_name_1002:
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ 20 sec.
     Explosion Radius ▲ {description_value_01}% for {description_value_02} sec.</color>
     ■ Affects all allies.
-    <color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>
+    <color=#00AEFF>ATK ▲ {description_value_03}% of the skill user's ATK for {description_value_04} sec.</color>
     When used in Stage 3: High-Mobility Close-Range Combat Weapon
     ■ Affects the enemy nearest to the crosshair.
     <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>

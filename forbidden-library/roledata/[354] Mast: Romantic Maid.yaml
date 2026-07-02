@@ -57,11 +57,11 @@ character_shot_description_localkey_mg_down:
   ja: パイレーツスピリット
 23542_description:
   en: |-
-    ■ Activates when entering Burst stage 3 in Drunken status. Affects all allies.
-    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% * Number of Drunken stacks for {description_value_02} sec.
-    Reloading Speed ▲ {description_value_03}% * Number of Drunken stacks for {description_value_04} sec.</color>
-    ■ Activates when the caster reaches max stacks of Drunken at the end of Full Burst. Affects self after the stacks are removed.
-    <color=#00AEFF>Hangover: Stun for {description_value_05} sec.</color>
+    ■ Activates when entering Burst Stage 3 while in Drunken status. Affects all allies.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% x number of Drunken stacks for {description_value_02} sec.
+    Reload Speed ▲ {description_value_03}% x number of Drunken stacks for {description_value_04} sec.</color>
+    ■ Activates when Drunken is at max stacks at the end of Full Burst. Removes all stacks and affects self.
+    <color=#00AEFF>Hangover: Stunned for {description_value_05} sec.</color>
   ko: |-
     ■ 버스트 3단계 진입 시 자신이 취기 상태라면 아군 전체에게
     <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_01}% X 취기 중첩 수 ▲] [{description_value_02}초 유지]
@@ -92,7 +92,7 @@ skill_name_1003:
     <color=#00AEFF>Drunken: Hit Rate ▼ {description_value_01}%, stacks up to {description_value_02} times continuously.</color>
     ■ Activates only when in Drunken status. Affects all allies.
     <color=#00AEFF>Critical Rate ▲ {description_value_03}% continuously.
-    ATK ▲ {description_value_04}% of caster's ATK continuously.</color>
+    ATK ▲ {description_value_04}% of the skill user's ATK continuously.</color>
   ko: |-
     ■ 버스트 1단계 진입 시 자신에게
     <color=#00AEFF>[취기 : 명중률 {description_value_01}% ▼] [{description_value_02} 중첩] [지속]</color>
@@ -121,7 +121,7 @@ skill_name_1002:
     <color=#00AEFF>Critical Damage ▲ {description_value_01}% for {description_value_02} sec.
     Attack Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
     ■ Affects all allies if in Drunken status.
-    <color=#00AEFF>ATK ▲ ({description_value_05}% * Number of Drunken stacks) of caster's ATK for {description_value_06} sec.</color>
+    <color=#00AEFF>ATK ▲ ({description_value_05}% * Number of Drunken stacks) of the skill user's ATK for {description_value_06} sec.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[크리티컬 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]

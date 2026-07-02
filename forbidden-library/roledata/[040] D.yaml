@@ -57,22 +57,22 @@ character_shot_description_localkey_smg_down:
   ja: 奇襲
 20402_description:
   en: |-
-    ■ Activates when the target appears. Affects all allies.
+    ■ Activates when the <word_group=10105>stage target</word_group> appears. Affects all allies.
     <color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by {description_value_01}%. Activates {description_value_02} time(s) per battle.
-    <word_group=10010>Become immune to Stun</word_group> for {description_value_03} sec.</color>
-    ■ Activates when the target appears. Affects self.
+    Gains <word_group=10010>immunity to Stun</word_group> for {description_value_03} sec.</color>
+    ■ Activates when the <word_group=10105>stage target</word_group> appears. Affects self.
     <color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
-    ■ 타겟이 출현했다면 아군 전체에게
+    ■ <word_group=10105>타겟</word_group>이 출현했다면 아군 전체에게
     <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_01}%] [전투 중 {description_value_02}회 발동]
     [<word_group=10010>기절 면역</word_group>] [{description_value_03}초 유지]</color>
-    ■ 타겟이 출현했다면 자신에게
+    ■ <word_group=10105>타겟</word_group>이 출현했다면 자신에게
     <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_04}% ▲] [{description_value_05}초 유지]</color>
   ja: |-
-    ■ターゲットが出現している場合、味方全体に
+    ■<word_group=10105>ターゲット</word_group>が出現している場合、味方全体に
     <color=#00AEFF>「<word_group=10015>バーストゲージのチャージ</word_group> {description_value_01}％」「戦闘中{description_value_02}回発動」
     「<word_group=10010>気絶免疫</word_group>」「{description_value_03}秒間維持」</color>
-    ■ターゲットが出現している場合、自分に
+    ■<word_group=10105>ターゲット</word_group>が出現している場合、自分に
     <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_04}％▲」「{description_value_05}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
@@ -117,8 +117,8 @@ skill_name_1002:
     <color=#00AEFF> Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
     ■ Affects all Attacker allies.
     <color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
-    ■ Affects all allies if the caster has <word_group=10010>immunity to Stun</word_group>.
-    <color=#00AEFF>Full Burst Time ▲ {description_value_04} sec.</color>
+    ■ Affects all allies if the skill user has <word_group=10010>immunity to Stun</word_group>.
+    <color=#00AEFF>Full Burst Duration ▲ {description_value_04} sec.</color>
   ko: |-
     ■ 적 전체에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>

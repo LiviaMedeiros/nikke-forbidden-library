@@ -54,19 +54,19 @@ character_shot_description_localkey_sg_down:
   ko: 비기너즈 베네핏
   ja: ビギナーズベネフィット
 23142_description:
-  en: "■ Activates when entering Burst stage 3. Affects all allies.\n<color=#00AEFF>Additional
-    effects triggered according to the number of Golden Chip stacks. <word_group=10028>Previous
-    effects trigger repeatedly</word_group>:</color>\nStage 1: Golden Chip {description_value_01}
-    stack(s) and above.\n<color=#00AEFF>Time Extension I: Full Burst Time Duration▲
-    {description_value_02} sec. Active during Full Burst Time.</color>\nStage 2: Golden
-    Chip {description_value_03} stack(s) and above.\n<color=#00AEFF>Time Extension
-    II: Full Burst Time Duration▲ {description_value_04} sec. Active during Full Burst
-    Time.</color>\n■ Activates when casting a normal attack during Full Burst Time.
-    Affects {description_value_05} enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Additional
-    effects triggered according to Time Extension state. <word_group=10028>Previous
-    effects trigger repeatedly</word_group>:</color>\nStage 1: When in Time Extension
-    I state.\n<color=#00AEFF>Deals {description_value_06}% of <word_group=10025>final</word_group>
-    ATK as damage.</color>\nStage 2: When in Time Extension II state.\n<color=#00AEFF>Deals
+  en: "■ Activates when entering Burst Stage 3. Affects all allies.\n<color=#00AEFF>Effects
+    vary according to the number of Golden Chip stacks. <word_group=10028>Each subsequent
+    effect triggers all effects before it</word_group>:</color>\nStage 1: With {description_value_01}
+    or more stacks of Golden Chip,\n<color=#00AEFF>Time Extension I: Full Burst Duration▲
+    {description_value_02} sec. Lasts until Full Burst ends.</color>\nStage 2: With
+    {description_value_03} or more stacks of Golden Chip,\n<color=#00AEFF>Time Extension
+    II: Full Burst Duration▲ {description_value_04} sec. Lasts until Full Burst ends.</color>\n■
+    Activates when performing a normal attack during Full Burst. Affects the {description_value_05}
+    enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Effects vary according
+    to the state of Time Extension. <word_group=10028>Each subsequent effect triggers
+    all effects before it</word_group>:</color>\nStage 1: When in Time Extension I
+    state,\n<color=#00AEFF>deals {description_value_06}% of <word_group=10025>final</word_group>
+    ATK as damage.</color>\nStage 2: When in Time Extension II state,\n<color=#00AEFF>deals
     {description_value_07}% of <word_group=10025>final</word_group> ATK as damage.</color>"
   ko: |-
     ■ 버스트 3단계 진입 시 아군 전체에게
@@ -107,14 +107,15 @@ skill_name_1003:
   ko: 럭키 골든 칩
   ja: ラッキーゴールデンチップ
 23141_description:
-  en: "■ Activates at the start of battle. Affects self. \n<color=#00AEFF>Number of
-    Golden Chip stacks ▲ {description_value_01}.</color>\n■ Activates after casting
-    {description_value_02} normal attack(s) during Full Burst Time. Affects self.\n<color=#00AEFF>Golden
-    Chip: Critical damage ▲ {description_value_03}% continuously, stacks up to {description_value_04}
-    time(s).</color>\n■ Activates after casting {description_value_02} normal attack(s)
-    during Full Burst Time. Affects self and {description_value_07} ally unit(s) with
-    the highest <word_group=10025>final</word_group> ATK (except caster). \n<color=#00AEFF>Attack
-    damage ▲ {description_value_05}% for {description_value_06} sec.</color>"
+  en: "■ Activates at the start of battle. Affects self. \n<color=#00AEFF>Golden Chip
+    stacks ▲ {description_value_01}.</color>\n■ Activates after performing {description_value_02}
+    normal attack(s) during Full Burst. Affects self.\n<color=#00AEFF>Golden Chip:
+    Critical Damage ▲ {description_value_03}% continuously, stacks up to {description_value_04}
+    time(s).</color>\n■ Activates after performing {description_value_02} normal attack(s)
+    during Full Burst. Affects self and the {description_value_07} ally unit(s) with
+    the highest <word_group=10025>final</word_group> ATK (except the skill user).
+    \n<color=#00AEFF>Attack Damage ▲ {description_value_05}% for {description_value_06}
+    sec.</color>"
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[골든 칩 중첩량 {description_value_01}개 ▲]</color>
@@ -146,12 +147,12 @@ skill_name_1002:
 13143_description_1:
   en: |-
     ■ Activates when using Onward, Soda!
-    <color=#00AEFF>Additional effects triggered according to the number of Golden Chip stacks. <word_group=10028>Previous effects trigger repeatedly</word_group>. Number of Golden Chip stacks ▼ {description_value_01} after the effect applied.</color>
+    <color=#00AEFF>Effects vary according to the number of Golden Chip stacks. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>. Golden Chip stacks ▼ {description_value_01} after the effect is applied.</color>
     Stage 1: Affects all enemies.
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
-    Stage 2: Activates when number of Golden Chip stacks is {description_value_03} and above. Affects self.
+    Stage 2: Activates when Golden Chip is at {description_value_03} or more stacks. Affects self.
     <color=#00AEFF>Hit Rate ▲ {description_value_04}% for {description_value_05} sec.</color>
-    Stage 3: Activates when number of Golden Chip stacks is {description_value_06} and above. Affects self.
+    Stage 3: Activates when Golden Chip is at {description_value_06} or more stacks. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_07}% for {description_value_08} sec.</color>
   ko: |-
     ■ 고 어헤드, 소다! 사용 시

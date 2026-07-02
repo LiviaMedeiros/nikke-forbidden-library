@@ -251,7 +251,7 @@
       ■ Activates when entering Full Burst. Affects self.
       <color=#00AEFF> DEF ▲ {description_value_01}% for {description_value_02} sec.</color>
       ■ Activates when attacked in Attract status. Affects self.
-      <color=#00AEFF>Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+      <color=#00AEFF>Recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
       ■ Activates after landing {description_value_04} normal attack(s) in Attract status. Affects self.
       <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_05}.</color>
     ko: "■ 풀 버스트 타임 시작 시 자신에게 \n<color=#00AEFF>[방어력 {description_value_01}% ▲] [{description_value_02}초
@@ -277,11 +277,11 @@
     ja: インヴェイジョン
   description:
     en: |-
-      ■ Activates when the last bullet hits the target. Affects the target if the caster is in Collect Hacking Code.
+      ■ Activates when the last bullet hits the target. Affects the target if the skill user is in Collect Hacking Code.
       <color=#00AEFF>ATK ▼ {description_value_01}% for {description_value_02} sec.
       DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
-      ■ Activates at the start of Full Burst Time. Affects self.
-      <color=#00AEFF>Fixed to increase Reloading Speed by {description_value_05}% for {description_value_06} sec.</color>
+      ■ Activates when entering Full Burst. Affects self.
+      <color=#00AEFF>Reload speed is fixed at a {description_value_05}% increase for {description_value_06} sec.</color>
     ko: |-
       ■ 마지막 탄환 명중 시 자신이 해킹 코드 수집 상태라면 대상에게
       <color=#00AEFF>[공격력 {description_value_01}% ▼] [{description_value_02}초 유지]
@@ -475,8 +475,8 @@
     en: "■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group>
       DEF. \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
       ATK as Burst Skill damage.</color>\n■ Affects all allies. \n<color=#00AEFF>Recovers
-      {description_value_03}% of attack damage as HP over {description_value_04} sec.\nPotency
-      of HP restored ▲ {description_value_05}% for {description_value_06} sec.</color>"
+      {description_value_03}% of attack damage as HP over {description_value_04} sec.\nIncoming
+      healing ▲ {description_value_05}% for {description_value_06} sec.</color>"
     ko: |-
       ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
       <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
@@ -505,7 +505,7 @@
       <color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03} sec.
       <word_group=10044>Equally shares damage taken</word_group> for {description_value_04} sec.</color>
       ■ Activates when Police Badge ends. Affects self.
-      <color=#00AEFF>Continuously recovers {description_value_06}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_07} sec.</color>
+      <color=#00AEFF>Continuously recovers {description_value_06}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_07} sec.</color>
     ko: |-
       ■ {description_value_05}초 마다 자신과 자신을 제외한 체력이 가장 낮은 아군 {description_value_01}기에게
       <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]
@@ -531,9 +531,9 @@
     ja: 改造成功
   description:
     en: |-
-      ■ Only activates when Temporary Modification is fully stacked. Affects all allies.
+      ■ Only activates when Temporary Modification is at max stacks. Affects all allies.
       <color=#00AEFF>Critical Rate ▲ {description_value_01}% continuously.</color>
-      ■ Only activates when Temporary Modification is fully stacked. Affects all shotgun-wielding allies.
+      ■ Only activates when Temporary Modification is at max stacks. Affects all shotgun-wielding allies.
       <color=#00AEFF>Attack Speed ▲ {description_value_02}% continuously.</color>
     ko: |-
       ■ 자신이 임시 개조가 최대 중첩 상태일 때 한하여 아군 전체에게
@@ -559,8 +559,8 @@
   description:
     en: |-
       ■ Affects random enemies.
-      <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s).</color>
-      ■ Activates when Crescendo is fully stacked. Affects the same target.
+      <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_02} times.</color>
+      ■ Activates when Crescendo is at max stacks. Affects the same target.
       <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
     ko: |-
       ■ 무작위 적들에게
@@ -588,7 +588,7 @@
       ■ Affects self if self's cover has been destroyed.
       <color=#00AEFF><word_group=10016>Rebuild Cover</word_group> with {description_value_05}% HP. Activates once per battle.</color>
       ■ Affects self.
-      <color=#00AEFF><word_group=10033>Max HP of Cover</word_group> ▲ {description_value_01}% of caster's Max HP for {description_value_02} sec.</color>
+      <color=#00AEFF><word_group=10033>Max HP of Cover</word_group> ▲ {description_value_01}% of the skill user's Max HP for {description_value_02} sec.</color>
       ■ Affects all allies.
       <color=#00AEFF>Damage Taken ▼ {description_value_03}% for {description_value_04} sec.</color>
     ko: |-
@@ -620,7 +620,7 @@
     en: |-
       ■ Activates when entering Full Burst. Affects all allies.
       <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.
-      Reloading Speed ▲ {description_value_03}% for {description_value_04} sec.
+      Reload Speed ▲ {description_value_03}% for {description_value_04} sec.
       Max Ammunition Capacity ▼ {description_value_05}% for {description_value_06} sec.
       Attack Damage ▲ {description_value_07}% for {description_value_08} sec.</color>
     ko: |-
@@ -707,8 +707,8 @@
       Taunts all enemies for {description_value_04} sec.\nUnlimited ammunition for
       {description_value_04} sec.</color>\n■ Affects all allies.\n<color=#00AEFF>Damage
       Taken ▼ {description_value_05}% for {description_value_06} sec.\nDEF ▲ {description_value_07}%
-      of caster's DEF for {description_value_08} sec.\nATK ▲ {description_value_09}%
-      of caster's ATK for {description_value_10} sec.</color>"
+      of the skill user's DEF for {description_value_08} sec.\nATK ▲ {description_value_09}%
+      of the skill user's ATK for {description_value_10} sec.</color>"
     ko: |-
       ■ 자신에게
       <color=#00AEFF>[사용 무기 변경]:

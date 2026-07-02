@@ -66,7 +66,7 @@ character_shot_description_localkey_sr_up:
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Gain Pierce continuously.</color>
     ■ Activates during Beast Cage. Affects all allies.
-    <color=#00AEFF>DEF ▲ {description_value_01}% of caster's DEF for {description_value_02} sec.</color>
+    <color=#00AEFF>DEF ▲ {description_value_01}% of the skill user's DEF for {description_value_02} sec.</color>
     ■ Activates during The Last Howl. Affects self.
     <color=#00AEFF>Recovers {description_value_03}% of attack damage as HP over {description_value_04} sec.</color>
     ■ Activates when casting Red Wolf. Affects self.
@@ -122,17 +122,17 @@ skill_name_1002:
   ja: レッドウルフ
 14703_description:
   en: "When used in Step 1: Beast Cage\n■ Affects all allies.\n<color=#00AEFF>ATK
-    ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>\n■
+    ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>\n■
     Affects self.\n<color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst
     Skill ▼ 40 sec. Activates once per battle.</color>\nWhen used in Step 2: The Last
     Howl\n■ Affects self.\n<color=#00AEFF>Attract: Taunts all enemies for {description_value_04}
-    sec.\nPotency of HP restored ▲ {description_value_05}% for {description_value_06}
-    sec.\n<word_group=10031>Cooldown</word_group> of Burst Skill ▼ 40 sec. Activates
-    once per battle.</color>\nWhen used in Step 3: Red Wolf\n■ Affects self.\n<color=#00AEFF>Changes
-    the weapon in use:\nDamage: {description_value_07}% of final ATK \nFull Charge
-    Damage: 250% of damage\nDuration: 10 sec\nAdditional Effects:\nExpand Pierce range
-    by {description_value_08}% for {description_value_09} sec.\nCharge Speed ▲ {description_value_10}%
-    for {description_value_11} sec.</color>"
+    sec.\nIncoming healing ▲ {description_value_05}% for {description_value_06} sec.\n<word_group=10031>Cooldown</word_group>
+    of Burst Skill ▼ 40 sec. Activates once per battle.</color>\nWhen used in Step
+    3: Red Wolf\n■ Affects self.\n<color=#00AEFF>Changes the weapon in use:\nDamage:
+    {description_value_07}% of final ATK \nFull Charge Damage: 250% of damage\nDuration:
+    10 sec\nAdditional Effects:\nExpand Pierce range by {description_value_08}% for
+    {description_value_09} sec.\nCharge Speed ▲ {description_value_10}% for {description_value_11}
+    sec.</color>"
   ko: |-
     <Step 1에서 사용 시 : 비스트 케이지>
     ■ 아군 전체에게

@@ -60,9 +60,9 @@ character_shot_description_localkey_rl_up:
   ja: 血の爆発
 28012_description:
   en: |-
-    ■ Activates when at Max Stacks of Blood Fiend after landing {description_value_01} normal attack(s). Affects self.
+    ■ Activates after {description_value_01} normal attacks if Blood Fiend is at max stacks. Affects self.
     <color=#00AEFF>Explosion Radius ▲ {description_value_02}% for {description_value_03} sec.
-    Reload {description_value_04}%. Activates {description_value_05} time(s) per battle.</color>
+    Reloads {description_value_04}% of the magazine. Activates {description_value_05} time(s) per battle.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 자신이 피의 마인 최대 중첩 상태라면 자신에게
     <color=#00AEFF>[폭발 범위 {description_value_02}% ▲] [{description_value_03}초 유지]
@@ -101,9 +101,9 @@ skill_name_1002:
   ja: 血のハンマー
 18013_description_1:
   en: |-
-    ■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    ■ Affects the {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
-    ■ Affects the same target(s) when at Max Stacks of Blood Fiend.
+    ■ Activates when Blood Fiend is at max stacks. Affects the same target(s).
     <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_01}기에게

@@ -77,9 +77,9 @@ skill_name_1003:
   ko: 블랙 타이푼
   ja: ブラックタイフーン
 21401_description:
-  en: "■ Affects self. {description_value_01}% chance of casting when Cover is under
-    attack. \n<color=#00AEFF>Critical Damage ▲ {description_value_02}% for {description_value_03}
-    sec. \nReloading Speed ▲ {description_value_04}% for {description_value_05} sec.</color>"
+  en: "■ {description_value_01}% chance of activating when cover is attacked. Affects
+    self. \n<color=#00AEFF>Critical Damage ▲ {description_value_02}% for {description_value_03}
+    sec. \nReload Speed ▲ {description_value_04}% for {description_value_05} sec.</color>"
   ko: |-
     ■ 엄폐물 피격 시 {description_value_01}% 확률로 자신에게
     <color=#00AEFF>[크리티컬 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]

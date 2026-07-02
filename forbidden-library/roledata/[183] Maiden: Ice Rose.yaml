@@ -64,14 +64,14 @@ character_shot_description_localkey_rl_up:
   en: "■ Activates when MP is replenished. Affects all Electric Code allies except
     for self.\n<color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group>
     ▲ {description_value_01}% for {description_value_02} sec.</color>\n<color=#00AEFF>ATK
-    ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.</color>\n■
+    ▲ {description_value_03}% of the skill user's ATK for {description_value_04} sec.</color>\n■
     Activates when MP is used. Affects self.\n<color=#00AEFF><word_group=10009>Elemental
     Advantage Attack Damage</word_group> ▲ {description_value_05}% for {description_value_06}
-    sec.</color>\n<color=#00AEFF>ATK ▲ {description_value_07}% of caster's <word_group=10025>final</word_group>
-    Max HP for {description_value_08} sec.</color>\n■ Activates when attacking with
-    Full Charge for {description_value_11} time(s). Affects {description_value_09}
-    enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Deals {description_value_10}%
-    of <word_group=10025>final</word_group> ATK as damage.</color>"
+    sec.</color>\n<color=#00AEFF>ATK ▲ {description_value_07}% of the skill user's
+    <word_group=10025>final</word_group> Max HP for {description_value_08} sec.</color>\n■
+    Activates when attacking with Full Charge for {description_value_11} time(s).
+    Affects {description_value_09} enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Deals
+    {description_value_10}% of <word_group=10025>final</word_group> ATK as damage.</color>"
   ko: |-
     ■ MP 충전 시 자신을 제외한 전격 코드 아군 전체에게
     <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}% ▲][{description_value_02}초 유지]</color>
@@ -131,7 +131,7 @@ skill_name_1002:
 11833_description:
   en: |-
     ■ Affects the {description_value_01} enemy unit(s) nearest to the crosshair.
-    <color=#00AEFF>Deals damage equal to {description_value_03}% of the sum of {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP and the caster's ATK. <word_group=10060>Attacks repeatedly</word_group> based on current MP.</color>
+    <color=#00AEFF>Deals damage equal to {description_value_03}% of the sum of {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP and the skill user's ATK. <word_group=10060>Attacks repeatedly</word_group> based on current MP.</color>
   ko: |-
     ■ 조준선에 가장 가까운 적 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_02}%를 공격력으로 합산한 {description_value_03}% 대미지] [보유 MP 만큼 <word_group=10060>연속 공격</word_group>]</color>

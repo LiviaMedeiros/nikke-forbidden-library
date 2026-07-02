@@ -65,14 +65,14 @@ character_shot_description_localkey_rl_up:
   ja: たっぷりクッキング
 25212_description_1:
   en: |-
-    ■ Activates after landing {description_value_02} normal attack(s) without Full Charge. Affects all allies not in Reliable Cooking status.
-    <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_03}% of the caster's DEF for {description_value_04} sec.
+    ■ Activates after performing {description_value_02} normal, non-Full-Charge attacks. Affects all allies not in Reliable Cooking status.
+    <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_03}% of the skill user's DEF for {description_value_04} sec.
     <word_group=10005>Removes 1 debuff</word_group>.</color>
-    ■ Activates after maintaining {description_value_06} Full Charge status for more than {description_value_05} sec. Affects all allies not in Reliable Cooking status.
-    <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_07}% of the caster's DEF for {description_value_08} sec.
+    ■ Activates after maintaining {description_value_06} Full Charge for {description_value_05} or more sec. Affects all allies not in Reliable Cooking status.
+    <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_07}% of the skill user's DEF for {description_value_08} sec.
     <word_group=10005>Removes 1 debuff</word_group>.</color>
-    ■ Activates when entering Full Burst. Affects all allies in Maillard or Blanching status.
-    <color=#00AEFF>ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.</color>
+    ■ Activates when entering Full Burst. Affects all targets in Maillard or Blanching status.
+    <color=#00AEFF>ATK ▲ {description_value_09}% of the skill user's ATK for {description_value_10} sec.</color>
   ko: |-
     ■ 풀 차지 공격이 아닌 일반 공격 {description_value_02}회 공격 시 든든한 요리 상태가 아닌 아군 전체에게
     <color=#00AEFF>[든든한 요리: 시전자 기준 방어력 {description_value_03}% ▲] [{description_value_04}초 유지]
@@ -112,10 +112,10 @@ skill_name_1003:
     ■ Activates when attacking with Full Charge and self is in Blanching status. Affects all allies.
     <color=#00AEFF>Blanching <word_group=10051>Duration ▲ {description_value_02} sec</word_group>.</color>
     ■ Activates after landing {description_value_04} normal attack(s) without Full Charge. Affects all allies.
-    <color=#00AEFF>Maillard: ATK ▲ {description_value_05}% of caster's ATK for {description_value_06} sec.
+    <color=#00AEFF>Maillard: ATK ▲ {description_value_05}% of the skill user's ATK for {description_value_06} sec.
     Removes Blanching.</color>
     ■ Activates after maintaining {description_value_08} Full Charge status for more than {description_value_07} sec. Affects all allies.
-    <color=#00AEFF>Blanching: ATK ▲ {description_value_09}% of caster's ATK for {description_value_10} sec.
+    <color=#00AEFF>Blanching: ATK ▲ {description_value_09}% of the skill user's ATK for {description_value_10} sec.
     Removes Maillard.</color>
   ko: |-
     ■ 풀 차지 공격 시 마이야르 상태라면 아군 전체에게

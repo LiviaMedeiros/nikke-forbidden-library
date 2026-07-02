@@ -76,10 +76,10 @@ skill_name_1003:
   ko: 노트 위의 기억
   ja: ノートの中の記憶
 21201_description:
-  en: "■ Activates when attacking during Full Charge. Affects {description_value_01}
+  en: "■ Activates when performing a Full Charge attack. Affects the {description_value_01}
     ally unit(s) with the highest <word_group=10025>final</word_group> ATK. \n<color=#00AEFF>Max
-    Ammunition Capacity ▲ {description_value_02} shot(s) for {description_value_03}
-    sec. \nCritical Damage ▲ {description_value_04}% for {description_value_05} sec.</color>"
+    Ammunition Capacity ▲ {description_value_02} for {description_value_03} sec. \nCritical
+    Damage ▲ {description_value_04}% for {description_value_05} sec.</color>"
   ko: |-
     ■ 풀 차지 공격 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
     <color=#00AEFF>[최대 장탄 수 {description_value_02}발 ▲] [{description_value_03}초 유지]

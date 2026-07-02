@@ -91,10 +91,10 @@ skill_name_1003:
     Effect: Captures 1 ghost when the required hit count reaches 100%. A maximum of {description_value_04} ghost(s) can be captured.
     <word_group=10085>Recurring interval</word_group>: {description_value_01} sec</color>
     ■ Affects all Water Code allies.
-    <color=#00AEFF>Effects differ based on the number of ghosts. <word_group=10028>Previous effects trigger repeatedly</word_group>.</color>
-    Only activates when there is at least 1 ghost.
-    <color=#00AEFF>ATK ▲ {description_value_05}% of the caster's ATK continuously.</color>
-    Only activates when there are more than {description_value_06} ghost(s).
+    <color=#00AEFF>Effects vary according to the number of ghosts. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:</color>
+    1 or more ghosts:
+    <color=#00AEFF>ATK ▲ {description_value_05}% of the skill user's ATK continuously.</color>
+    {description_value_06} or more ghosts:
     <color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_07}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 무작위 적 1기에게

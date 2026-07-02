@@ -65,12 +65,12 @@ character_shot_description_localkey_rl_up:
 24122_description:
   en: |-
     ■ Activates at the start of battle, only if self is alive. Affects all Electric Code allies with assault rifles.
-    <color=#00AEFF>Max HP ▲ {description_value_01}% of the caster's Max HP without restoring HP constantly.</color>
+    <color=#00AEFF>Max HP ▲ {description_value_01}% of the skill user's Max HP without restoring HP constantly.</color>
     ■ Activates at the start of battle. Affects the {description_value_06} leftmost Electric Code ally unit(s) with assault rifles.
     <color=#00AEFF>Invulnerable for {description_value_07} sec.</color>
     ■ Activates when using Burst Skill. Affects the {description_value_06} leftmost Electric Code ally unit(s) with assault rifles.
     <color=#00AEFF>Attack Damage ▲ {description_value_02}% for {description_value_03} sec.
-    Reloading Speed ▲ {description_value_04}% for {description_value_05} sec.</color>
+    Reload Speed ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
     ■ 전투 시작 시 자신이 생존 상태일 때 한하여 전격 코드 소총 아군 전체에게
     <color=#00AEFF>[시전자 기준 최대 체력만 {description_value_01}% ▲] [지속]</color>
@@ -102,11 +102,11 @@ skill_name_1003:
 24121_description:
   en: |-
     ■ Activates after Full Burst ends. Affects all allies.
-    <color=#00AEFF>Continuously recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
+    <color=#00AEFF>Continuously recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
     ■ Activates when attacking with Full Charge. Affects the target(s) if the HP of {description_value_04} ally unit(s) with the lowest HP percentage is lower than {description_value_03}%.
-    <color=#00AEFF>Recovers {description_value_05}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+    <color=#00AEFF>Recovers {description_value_05}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
     ■ Activates when attacking with Full Charge. Affects the target(s) if the HP of {description_value_07} ally unit(s) with the lowest HP percentage is lower than {description_value_06}%.
-    <color=#00AEFF>Recovers {description_value_08}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+    <color=#00AEFF>Recovers {description_value_08}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
   ko: |-
     ■ 풀 버스트 타임 종료 시 아군 전체에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격]
@@ -135,7 +135,7 @@ skill_name_1002:
 14123_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Max HP ▲ {description_value_01}% of the caster's Max HP without restoring HP for {description_value_02} sec.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% of the skill user's Max HP without restoring HP for {description_value_02} sec.
     Attack Damage ▲ {description_value_08}% for {description_value_09} sec.</color>
     ■ Activates when enemy count aside from Nikkes is 1. Affects all allies.
     <color=#00AEFF> Spread Roots: <word_group=10070>Burst Skill damage of skills with "Affects all enemies"</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>

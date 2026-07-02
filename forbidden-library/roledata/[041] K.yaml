@@ -96,9 +96,9 @@ skill_name_1003:
 20411_description:
   en: |-
     ■ Activates when firing the last bullet. Affects self.
-    <color=#00AEFF>Tilted Scale: Critical rate ▲ {description_value_01}% continuously, stacks up to {description_value_02} time(s).
-    Stack count of Tilted Scale ▲ {description_value_03}.</color>
-    ■ Activates when <word_group=10083>pellets land critical hit</word_group> {description_value_04} time(s). Affects the target.
+    <color=#00AEFF>Tilted Scale: Critical Rate ▲ {description_value_01}% continuously, stacks up to {description_value_02} times.
+    Tilted Scale stacks ▲ {description_value_03}.</color>
+    ■ Activates when <word_group=10083>pellets land a critical hit</word_group> {description_value_04} time(s). Affects the target.
     <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
     ■ Activates when Full Burst ends. Affects self.
     <color=#00AEFF>Removes Tilted Scale.</color>
@@ -132,7 +132,7 @@ skill_name_1002:
   en: "■ Affects self.\n<color=#00AEFF>Change the weapon in use:\nDamage: {description_value_01}%
     of the <word_group=10025>final</word_group> ATK\n<word_group=10038>Pellet</word_group>count:
     10\nAttack speed: ▼ 90% \nDuration: {description_value_02} sec\nAdditional Effects:\nATK
-    ▲ {description_value_03}% of caster's ATK for {description_value_04} sec.\nAttack
+    ▲ {description_value_03}% of the skill user's ATK for {description_value_04} sec.\nAttack
     damage ▲ {description_value_05}% for {description_value_06} sec.</color>"
   ko: "■ 자신에게\n<color=#00AEFF>[사용 무기 변경] : \n대미지 : <word_group=10025>최종</word_group>
     공격력 {description_value_01}% 대미지\n<word_group=10038>펠릿</word_group> 개수 : 10개\n공격

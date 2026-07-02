@@ -73,7 +73,7 @@ skill_name_1003:
 22311_description:
   en: |-
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF>Effect changes according to the number of activation times. <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    <color=#00AEFF>Effects vary according to the number of times used. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:
     Once: Marked Target 1 - Critical Rate ▲ {description_value_01}% for {description_value_02} sec.
     Twice: Marked Target 2 - Critical Damage ▲ {description_value_03}% for {description_value_04} sec.
     Three times: Marked Target 3 - ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
@@ -107,12 +107,12 @@ skill_name_1002:
   en: |-
     ■ Affects all enemies.
     <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.
-    Additional effect(s) triggered according to the Marked Target's phase. <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    Effects vary for each stage of Marked Target. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:
     Marked Target 1: Damage Taken ▲ {description_value_02}% for {description_value_03} sec.
     Marked Target 2: Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.
     Marked Target 3: Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
     ■ Affects all allies.
-    <color=#00AEFF>Full Burst Time ▼ 5 sec.</color>
+    <color=#00AEFF>Full Burst Duration ▼ 5 sec.</color>
   ko: "■ 적 전체에게\n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}%
     버스트 스킬 대미지]\n[타겟 마킹 단계 별 추가 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]  :
     \n타겟 마킹 1 : [받는 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]\n타겟

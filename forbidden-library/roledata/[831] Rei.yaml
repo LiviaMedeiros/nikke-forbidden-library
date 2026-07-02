@@ -59,8 +59,8 @@ character_shot_description_localkey_mg_down:
   en: "■ Activates at the start of battle. Affects self. \n<color=#00AEFF><word_group=10054>Damage
     dealt to Shield</word_group> ▲ {description_value_01}% continuously.</color>\n■
     Activates when entering Burst stage {description_value_02}. Affects all Fire Code
-    allies.\n<color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK for {description_value_04}
-    sec.</color>"
+    allies.\n<color=#00AEFF>ATK ▲ {description_value_03}% of the skill user's ATK
+    for {description_value_04} sec.</color>"
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[<word_group=10054>보호막에 가하는 대미지</word_group> {description_value_01}% ▲] [지속]</color>
@@ -106,7 +106,7 @@ skill_name_1002:
 18313_description:
   en: |-
     ■ Affects all Fire Code allies.
-    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.
     Attack damage ▲ {description_value_03}% for {description_value_04} sec.</color>
     ■ Affects all enemies.
     <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as damage.</color>

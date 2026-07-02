@@ -1,0 +1,521 @@
+---
+322_name:
+  en: 'Marciana: Marine Study'
+  ko: '마르차나 : 마린 스터디'
+  ja: マルチャーナ：マリンスタディ
+c322_description:
+  en: |-
+    Marciana on a graduation trip with her students. Embarrassed by the daring design of her swimsuit, she decided to wear a penguin costume to cover herself.
+    The Penguin Squad protecting her is a surprise gift from Rei.
+  ko: |-
+    학생들과의 졸업 여행에 나선 마르차나.
+    파격적인 디자인의 수영복이 부끄러워, 펭귄 옷을 덧입었다.
+    그녀를 지키는 펭군 부대는 라이의 깜짝선물이다.
+  ja: |-
+    生徒たちと卒業旅行に出かけたマルチャーナ。
+    大胆な水着は恥ずかしいので、ペンギンの服を重ね着した。
+    彼女を守っているペンくんの部隊は
+    ライからのサプライズプレゼントだ。
+322_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_322:
+  en: 'Marciana: Marine Study''s Spare Body'
+  ko: '마르차나 : 마린 스터디 스페어 바디'
+  ja: マルチャーナ：マリンスタディのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+23222_name:
+  en: Penguin Emergency Dispatch
+  ko: 펭군 긴급 출동
+  ja: ペンくん緊急出動
+23222_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Whistle: ATK ▲ {description_value_01}% continuously. Stacks up to {description_value_02} times.
+    Whistle stacks ▲ {description_value_03}.</color>
+    ■ Activates every time there are {description_value_04} or fewer Raptures present for a period of {description_value_05} sec. Affects self.
+    <color=#00AEFF>Whistle: ATK ▲ {description_value_01}% continuously. Stacks up to {description_value_02} times.</color>
+    ■ Activates every time there are {description_value_06} or more Raptures present for a period of {description_value_07} sec.
+    <color=#00AEFF>Penguin Emergency Dispatch
+    Function: Expends Whistle stacks to attack Raptures when there are {description_value_06} or more present.
+    Effect 1: Affects all enemies. Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as additional damage.
+    Effect 2: Affects self. Whistle stacks ▼ {description_value_09}.</color>
+    ■ Only activates when a Rapture appears or is neutralized while there are {description_value_10} or fewer Raptures. Affects self.
+    <color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_11}% continuously.</color>
+  ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[휘슬 : 공격력 {description_value_01}% ▲] [{description_value_02}
+    중첩] [지속]\n[휘슬 중첩량 {description_value_03}개 ▲]</color>\n■ 랩쳐가 {description_value_04}기
+    이하인 상태가 {description_value_05}초간 유지될 때마다 자신에게\n<color=#00AEFF>[휘슬 : 공격력 {description_value_01}%
+    ▲] [{description_value_02} 중첩] [지속]</color>\n■ 랩쳐가 {description_value_06}기 이상인
+    상태가 {description_value_07}초간 유지될 때마다\n<color=#00AEFF>[펭군 긴급 출동] : \n기능 : 랩쳐가 {description_value_06}기
+    이상일 때 휘슬을 소모하여 긴급하게 랩쳐를 공격합니다.\n효과 1 : 적 전체에게 [<word_group=10025>최종</word_group>
+    공격력 {description_value_08}% 추가 대미지]\n효과 2 : 자신에게 [휘슬 중첩량 {description_value_09}개
+    ▼]</color>\n■ 랩쳐 등장 시와 사망 시 랩쳐가 {description_value_10}기 이하인 상태에 한하여 자신에게\n<color=#00AEFF>[<word_group=10009>우월
+    코드 공격 대미지</word_group> {description_value_11}% ▲] [지속]</color>"
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「ホイッスル：攻撃力{description_value_01}％▲」「{description_value_02}スタック」「持続」
+    「ホイッスルスタック量{description_value_03}個▲」</color>
+    ■ラプチャーが{description_value_04}機以下の状態を{description_value_05}秒間維持するたび、自分に
+    <color=#00AEFF>「ホイッスル：攻撃力{description_value_01}％▲」「{description_value_02}スタック」「持続」</color>
+    ■ラプチャーが{description_value_06}機以上の状態を{description_value_07}秒間維持するたび
+    <color=#00AEFF>「ペンくん緊急出動」：
+    機能：ラプチャーが{description_value_06}機以上の時、ホイッスルを消費し、緊急でラプチャーを攻撃する
+    効果1：敵全体に「<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の
+    追加ダメージ」
+    効果2：自分に「ホイッスルスタック量{description_value_09}個▼」</color>
+    ■ラプチャーが出現または破壊された時、ラプチャーが{description_value_10}機以下の場合、自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_11}％▲」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+23221_name:
+  en: Emergency Whistle
+  ko: 이머전시 휘슬
+  ja: エマージェンシー・ホイッスル
+23221_description:
+  en: |-
+    ■ Activates when entering Full Burst after this unit uses her Burst Skill. Affects the {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> Max HP.
+    <color=#00AEFF>Flagged Target Designation
+    Effect 1: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.
+    Effect 2: Activates when the target is alive.
+    Flagged Target: ATK ▼ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates <word_group=10077>when an enemy is neutralized</word_group> if the target is in the Flagged Target state. Affects {description_value_01} random enemy unit(s).
+    <color=#00AEFF>Flagged Target Designation
+    Effect 1: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.
+    Effect 2: Activates when the target is alive.
+    Flagged Target: ATK ▼ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when landing {description_value_08} normal attacks against a target in the High-Risk Target state. Affects the target.
+    <color=#00AEFF>Deals {description_value_09}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: "■ 풀 버스트 타임 시작 시 직전에 자신이 버스트 스킬을 사용했다면 <word_group=10025>최종</word_group> 최대
+    체력이 가장 높은 적 {description_value_01}기에게\n<color=#00AEFF>[경계 대상 지정] : \n효과 1 : [<word_group=10025>최종</word_group>
+    공격력 {description_value_02}% 추가 대미지]\n효과 2 : 대상 생존 시 [경계 대상 : 공격력 {description_value_03}%
+    ▼] [{description_value_04}초 유지]</color>\n■ <word_group=10077>적 사망 시</word_group>
+    대상이 경계 대상 상태라면 무작위 적 {description_value_01}기에게\n<color=#00AEFF>[경계 대상 지정] : \n효과
+    1 : [<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]\n효과
+    2 : 대상 생존 시 [경계 대상 : 공격력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>\n■
+    일반 공격 {description_value_08}회 명중 시 대상이 고위험 대상 상태라면 대상에게\n<color=#00AEFF>[<word_group=10025>최종</word_group>
+    공격력 {description_value_09}% 추가 대미지]</color>"
+  ja: "■フルバーストタイムが発動した時、直前に自分がバーストスキルを使用していれば<word_group=10025>最終</word_group>最大HPが最も高い敵{description_value_01}機に\n<color=#00AEFF>「警戒対象指定」：
+    \n効果1：「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」\n効果2：対象が生存している時、「警戒対象：攻撃力{description_value_03}％▼」「{description_value_04}秒間維持」</color>\n■<word_group=10077>敵が破壊された時</word_group>、\n対象が警戒対象状態なら、ランダムな敵{description_value_01}機に\n<color=#00AEFF>「警戒対象指定」：
+    \n効果1：「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の追加ダメージ」\n効果2：対象が生存している時、「警戒対象：攻撃力{description_value_03}％▼」「{description_value_04}秒間維持」</color>\n■通常攻撃が{description_value_08}回命中した時、対象が高リスク対象状態なら、対象に\n<color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_09}％の追加ダメージ」</color>"
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+13223_name:
+  en: Penguin Spiral
+  ko: 펭군 스파이럴
+  ja: ペンくんスパイラル
+13223_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_01}% for {description_value_02} sec.
+    Attack Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all Electric Code enemies.
+    <color=#00AEFF>High-Risk Target: DEF ▼ {description_value_05}% for {description_value_06} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]
+    [공격 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 전격 코드 적 전체에게
+    <color=#00AEFF>[고위험 대상 : 방어력 {description_value_05}% ▼] [{description_value_06}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」
+    「攻撃ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■電撃コードの敵全体に
+    <color=#00AEFF>「高リスク対象：防御力{description_value_05}％▼」「{description_value_06}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+321_name:
+  en: Marciana
+  ko: 마르차나
+  ja: マルチャーナ
+c322_Lobby_Touch_1:
+  en: It's reassuring having the Penguin Squad with us.
+  ko: 펭군 부대가 함께 있어 든든합니다.
+  ja: ペンギン隊が一緒なので、心強いです。
+c322_Lobby_Touch_2:
+  en: Um... Could you please not call me a penguin?
+  ko: 그… 펭귄이라고 부르지 말아 주세요.
+  ja: その…ペンギンと呼ぶのはやめてください。
+c322_Lobby_Touch_3:
+  en: I am always prepared to help my students.
+  ko: 언제든지 학생들을 도와줄 준비가 되어있습니다.
+  ja: いつでも彼女たちをサポートする準備はできています。
+c322_Lobby_Touch_Love_1:
+  en: It makes me self-conscious when you stare at me like that. Are you curious about
+    my penguin outfit?
+  ko: |-
+    그렇게 빤히 쳐다보시면… 곤란합니다.
+    펭귄 옷이 신기하신가요?
+  ja: |-
+    そんなに見つめられると…困ります。
+    ペンギンの服が珍しいのですか？
+c322_Lobby_Touch_Love_2:
+  en: Oh dear, this outfit keeps slipping down... Um, i-it's nothing.
+  ko: |-
+    이런… 옷이 자꾸 흘러내려서….
+    아, 아무것도 아닙니다.
+  ja: |-
+    ああっ…服がズレて…
+    な、何でもありません。
+c322_Lobby_Touch_Love_3:
+  en: Do you like penguins too, Commander? I adore them.
+  ko: |-
+    지휘관님도 펭귄을 좋아하십니까?
+    저는… 아주 많이 좋아합니다.
+  ja: |-
+    指揮官様もペンギンがお好きなのですか？
+    私は…とても好きです。
+c322_Lobby_Stay_1:
+  en: You go ahead. I'll stay here and keep watch.
+  ko: 여긴 제가 지키고 있겠습니다, 다녀오세요.
+  ja: ここは私が守ります。どうぞ行ってください。
+c322_Lobby_Stay_Love_1:
+  en: Will you be much longer, Commander? It's just... the Penguin Squad was wondering
+    when you'd be back.
+  ko: |-
+    지휘관님, 오래 걸리시나요?
+    아뇨, 그… 펭군 부대가 궁금해해서 말입니다.
+  ja: |-
+    指揮官様、長くかかりますか？
+    いえ、その…ペンギン隊が気にしておりまして。
+c322_Outpost_Touch_1:
+  en: Let's avoid going near the school. I'd rather not run into my students dressed
+    like this.
+  ko: |-
+    …학교는 피해 가시죠.
+    이 차림으로 학생들과 마주치고 싶지 않습니다.
+  ja: |-
+    …学校は避けましょう。
+    この格好でみんなに 会いたくありません。
+c322_Outpost_Touch_2:
+  en: Rei gave me this Penguin Squad as a gift. Aren't they adorable?
+  ko: |-
+    라이가 선물해 준 펭군 부대입니다.
+    귀엽지 않나요.
+  ja: |-
+    ライがプレゼントしてくれた ペンギン隊です。
+    可愛らしいでしょう？
+c322_Outpost_Touch_3:
+  en: Wearing this makes it rather difficult to use my hands.
+  ko: 이렇게 입고 입으니, 손을 쓰기가 영 불편하네요.
+  ja: この格好だと、 手を使いにくいですね。
+c322_Gacha_Get_1:
+  en: S-sorry, but I can't take off the penguin outfit.
+  ko: 죄, 죄송합니다만… 펭귄 옷은 벗을 수 없습니다.
+  ja: す、すみませんが…ペンギンスーツは脱げません。
+c322_Reinforce_1:
+  en: This should come in very handy for my classes.
+  ko: 수업할 때 많은 도움이 되겠군요.
+  ja: 授業の役に立ちそうですね。
+c322_Reinforce_2:
+  en: The Penguin Squad is growing right alongside me too.
+  ko: 펭군 부대도 함께 성장하고 있습니다.
+  ja: ペンギン隊も一緒に成長しています。
+c322_Reinforce_3:
+  en: I can be of even greater help to my students going forward. Thank you.
+  ko: |-
+    앞으로 더욱 많은 학생들에게 도움이 될 수 있을 것 같습니다.
+    감사합니다.
+  ja: |-
+    さらに多くの学生の助けになることができると思います。
+    ありがとうございます。
+c322_Gift_1:
+  en: The Penguin Squad is going to love this.
+  ko: 펭군 부대가 좋아하겠네요.
+  ja: ペンくんたちが喜びそうですね。
+c322_Gift_2:
+  en: I wasn't expecting this. When did you have time to prepare this?
+  ko: |-
+    예상 못 했습니다.
+    언제 또 이런 걸 준비하셨습니까.
+  ja: |-
+    予想もしていませんでした。
+    いつこのようなものを用意されたのですか？
+c322_Gift_3:
+  en: You know precisely what I like... I'm truly grateful.
+  ko: |-
+    제가 좋아하는 게 뭔지 너무 잘 알고 계시네요.
+    …진심으로 감사합니다.
+  ja: |-
+    私が喜ぶものをよくご存じですね。
+    …本当にありがとうございます。
+c322_Attractive_Up_1:
+  en: I am always grateful to you.
+  ko: 언제나 감사하게 생각하고 있습니다.
+  ja: いつも感謝しています。
+c322_Attractive_Up_2:
+  en: I want to continue being someone you can depend on, Commander.
+  ko: 앞으로도 지휘관님의 힘이 되고 싶습니다.
+  ja: これからも指揮官様のお力になりたいです。
+c322_Attractive_Up_3:
+  en: Would it be all right if I stayed by your side a little longer? I'd like that.
+  ko: |-
+    조금 더 이렇게… 곁에 있어도 괜찮을까요?
+    그러고 싶습니다.
+  ja: |-
+    もう少しだけこのまま…そばにいてもいいですか？
+    一緒にいたいのです。
+c322_Party_Deploy_1:
+  en: Penguin Squad, are you ready?
+  ko: 펭군 부대, 준비됐습니까?
+  ja: ペンギン隊、準備はいいですか？
+c322_Field_Touch_1:
+  en: Well then, shall we get going?
+  ko: 그럼, 출발해 볼까요.
+  ja: では、出発しましょう。
+c322_Field_Go_1:
+  en: Please come this way.
+  ko: 이쪽으로 오시면 됩니다.
+  ja: どうぞ、こちらへ。
+c322_Battle_Enter_1:
+  en: Let's begin class.
+  ko: 수업, 시작하시죠.
+  ja: 授業を始めましょう。
+c322_Battle_Ready_1:
+  en: Let's go, Penguin Squad!
+  ko: 가시죠, 펭군 부대!
+  ja: ペンギン隊、行きますよ！
+c322_Battle_Ready_2:
+  en: I'll show you the power of penguins!
+  ko: 펭귄의 힘을 보여드리겠습니다!
+  ja: ペンギンの力をお見せしましょう！
+c322_Battle_Ready_3:
+  en: I will protect my students!
+  ko: 학생들을 지켜내겠습니다!
+  ja: 生徒たちを守り抜きます！
+c322_Reload_1:
+  en: Penguin No. 2, back me up.
+  ko: 펭군 2호, 서포트를.
+  ja: ペンくん2号、サポートを。
+c322_Reload_2:
+  en: Oh dear, my hands are slipping.
+  ko: 이런, 손이 미끄럽습니다.
+  ja: あっ、手が滑りました。
+c322_Reload_3:
+  en: I'll make this quick.
+  ko: 빠르게 하겠습니다.
+  ja: すぐに終わらせます。
+c322_Ult_Skill_Ready_1:
+  en: Penguin Squad, ready for action.
+  ko: 펭군 부대, 준비 완료입니다.
+  ja: ペンギン隊、準備完了です。
+c322_Ult_Skill_1:
+  en: Why isn't this working...? D-don't look!
+  ko: 이게 왜 이렇게 안 되는… 보, 보지 마세요!
+  ja: うまく着替えられな…み、見ないでください！
+c322_FullBurst_1:
+  en: K-keep pushing forward!
+  ko: 이, 이대로 밀어붙이는 겁니다!
+  ja: こ、このまま押し切りましょう！
+c322_Kill_Monster_1:
+  en: Well done, Penguin Squad.
+  ko: 잘했습니다, 펭군 부대.
+  ja: ペンギン隊、よくできました。
+c322_Kill_Monster_2:
+  en: That's taken care of.
+  ko: 처리했습니다.
+  ja: 処理しました。
+c322_Kill_Monster_3:
+  en: There's no need to worry.
+  ko: 걱정 마세요.
+  ja: 心配いりません。
+c322_Damage_1:
+  en: Ugh!
+  ko: 윽!
+  ja: うっ！
+c322_Damage_2:
+  en: Th-this is nothing.
+  ko: 이, 이 정도쯤은.
+  ja: こ、これくらいは…
+c322_Damage_3:
+  en: Ngh!
+  ko: 크읏!
+  ja: くうっ！
+c322_Die_1:
+  en: I... only wanted to protect my students...
+  ko: 학생들을… 꼭 지켜내고 싶었는데….
+  ja: 生徒たちを…守りたかったのに…
+c322_Win_1:
+  en: Victory to the penguins.
+  ko: 펭귄의 승리입니다.
+  ja: ペンギンの勝ちです。
+322_cv_ja:
+  en: 'CV: Konomi Inagaki'
+  ko: 'CV : 이나가키 코노미'
+  ja: CV：稲垣好
+322_cv_ko:
+  en: 'CV: Lee Noon-sol'
+  ko: 'CV : 이눈솔'
+  ja: CV：イ・ヌンソル
+322_cv_en:
+  en: 'CV: Madeline Dorroh'
+  ko: 'CV : 매들린 도로'
+  ja: CV：Madeline Dorroh

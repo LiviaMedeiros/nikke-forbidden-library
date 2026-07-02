@@ -61,9 +61,9 @@ character_shot_description_localkey_rl_up:
 21212_description:
   en: |-
     ■ Affects all allies. Activates when above {description_value_01}% HP.
-    <color=#00AEFF>Potency of HP restored ▲ {description_value_02}%.</color>
-    ■ Activates when the last bullet hits the target while caster has over {description_value_03}% HP. Affects all enemies.
-    <color=#00AEFF>Potency of HP restored ▼ {description_value_04}% for {description_value_05} sec.</color>
+    <color=#00AEFF>Incoming healing ▲ {description_value_02}%.</color>
+    ■ Activates when the last bullet hits the target while the skill user has over {description_value_03}% HP. Affects all enemies.
+    <color=#00AEFF>Incoming healing ▼ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
     ■ 자신의 체력이 {description_value_01}% 이상일 때 한하여 아군 전체에게
     <color=#00AEFF>[받는 체력 회복량 {description_value_02}% ▲] [지속]</color>
@@ -84,8 +84,8 @@ skill_name_1003:
   ja: 踊る妖精
 21211_description:
   en: |-
-    ■ Affects all Supporter allies. Activates after {description_value_01} normal attack(s).
-    <color=#00AEFF>Recover {description_value_02}% of attack damage as HP over {description_value_03} sec.</color>
+    ■ Activates after {description_value_01} normal attacks. Affects all Supporter allies.
+    <color=#00AEFF>Recover {description_value_02}% of attack damage as HP. Lasts for {description_value_03} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 지원형 아군 전체에게
     <color=#00AEFF>[공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]</color>
@@ -104,7 +104,7 @@ skill_name_1002:
 11213_description_1:
   en: |-
     ■ Affects all Attacker allies.
-    <color=#00AEFF>Recovers {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP as HP.
+    <color=#00AEFF>Recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.
     ATK ▲ {description_value_04}% for {description_value_05} sec.</color>
     ■ Affects {description_value_01} incapacitated Attacker ally unit(s) randomly.
     <color=#00AEFF>Resurrect with {description_value_02}% HP. Activates once per battle.</color>

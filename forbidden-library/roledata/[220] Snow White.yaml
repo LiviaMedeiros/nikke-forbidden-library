@@ -51,9 +51,9 @@ character_shot_description_localkey_ar_down:
   ko: '세븐스 드워프 : V&VI'
   ja: セブンスドワーフ：V&VI
 12202_description:
-  en: "■ Affects <word_group=10020>enemies within the attack range</word_group>.\n<color=#00AEFF>Deals
+  en: "■ Affects <word_group=10020>enemies within range</word_group>.\n<color=#00AEFF>Deals
     {description_value_01}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    \n■ Activates when attacking during Full Burst Time. Affects self.\n<color=#00AEFF>Critical
+    \n■ Activates when using this skill during Full Burst. Affects self.\n<color=#00AEFF>Critical
     Rate ▲ {description_value_02}% for {description_value_03} sec.</color>"
   ko: "■ <word_group=10020>공격 범위 내 적들</word_group>에게\n<color=#00AEFF>[<word_group=10025>최종</word_group>
     공격력 {description_value_01}% 대미지]</color>\n■ 풀 버스트 타임 지속 시간 중 발동 시 자신에게 \n<color=#00AEFF>[크리티컬

@@ -59,7 +59,7 @@ character_shot_description_localkey_smg_down:
 23922_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_04} sec.</color>
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP that lasts for {description_value_04} sec.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[<word_group=10024>디코이</word_group> : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 분신] [{description_value_04}초 유지]</color>
@@ -76,11 +76,11 @@ skill_name_1003:
   ko: 선배의 응원
   ja: 先輩の応援
 23921_description:
-  en: "■ Activates after {description_value_01} normal attack(s). Affects all allies.\n<color=#00AEFF><word_group=10015>Fills
-    Burst Gauge</word_group> by {description_value_02}%.</color> \n■ Affects decoy
-    <word_group=10056>when decoy exists</word_group>.\n<color=#00AEFF><word_group=10057>Recovers
-    decoy's HP</word_group> equal to {description_value_03}% of caster's <word_group=10025>final</word_group>
-    Max HP.</color>"
+  en: "■ Activates after {description_value_01} normal attacks. Affects all allies.\n<color=#00AEFF><word_group=10015>Fills
+    Burst Gauge</word_group> by {description_value_02}%.</color> \n■ Activates <word_group=10056>when
+    a decoy is present</word_group>. Affects self.\n<color=#00AEFF><word_group=10057>Restores
+    the decoy's HP</word_group> an amount equal to {description_value_03}% of the
+    skill user's <word_group=10025>final</word_group> Max HP.</color>"
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
     <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_02}%]</color>
@@ -102,10 +102,10 @@ skill_name_1002:
 13923_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Attract: Taunt all enemies for {description_value_01} sec.
+    <color=#00AEFF>Attract: Taunts all enemies for {description_value_01} sec.
     Damage Taken ▼ {description_value_02}% for {description_value_03} sec.</color>
-    ■ Affects decoy <word_group=10056>when decoy exists</word_group>.
-    <color=#00AEFF><word_group=10058>Constantly recovers decoy's HP</word_group> equal to {description_value_04}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_05} sec.</color>
+    ■ Activates <word_group=10056>when a decoy is present</word_group>. Affects self.
+    <color=#00AEFF><word_group=10058>Continuously restores the decoy's HP</word_group> an amount equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_05} sec.</color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[주목 : 적 전체 도발] [{description_value_01}초 유지]

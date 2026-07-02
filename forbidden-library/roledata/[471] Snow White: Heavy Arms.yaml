@@ -116,13 +116,13 @@ skill_name_1003:
     <color=#00AEFF>Lock-On
     Function: Designates the enemy as a target of Seven Dwarves.
     Max Lock-On targets: {description_value_03}
-    <word_group=10097>Removal condition</word_group>: Performing a normal attack or <word_group=10095>taking cover</word_group>.</color>
+    <word_group=10097>Deactivation condition</word_group>: Performing a normal attack or <word_group=10095>taking cover</word_group>.</color>
     ■ Activates every {description_value_01} sec while charging. Affects self.
     <color=#00AEFF>Auto Fire Ready
     Function: Loads Seven Dwarves with ammo.
     Effect: DEF ▲ {description_value_04}% continuously.
     Max ammo loaded by Auto Fire Ready: {description_value_05}
-    <word_group=10097>Removal condition</word_group>: Performing a normal attack.</color>
+    <word_group=10097>Deactivation condition</word_group>: Performing a normal attack.</color>
     ■ Activates every {description_value_01} sec while charging. Affects all enemies in Lock-On status.
     <color=#00AEFF>Damage Taken ▲ {description_value_02}% for {description_value_08} sec.</color>
     ■ Activates when attacking with Full Charge.
@@ -210,7 +210,7 @@ skill_name_1002:
     Effect 1: Fixes charge time at {description_value_01} sec continuously.
     Effect 2: Max Lock-On targets ▲ {description_value_02} continuously.
     Effect 3: Max ammo loaded by Auto Fire Ready ▲ {description_value_02} continuously.
-    <word_group=10097>Removal condition</word_group>: When the number of uses reaches 0.</color>
+    <word_group=10097>Deactivation condition</word_group>: When the number of uses reaches 0.</color>
     ■ Affects all <word_group=10096>destructible projectiles</word_group>.
     <color=#00AEFF>Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage.</color>
   ko: |-

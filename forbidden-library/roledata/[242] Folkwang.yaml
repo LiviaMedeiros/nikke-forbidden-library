@@ -73,11 +73,10 @@ skill_name_1003:
   ko: 스타팅 휘슬
   ja: スターティングホイッスル
 12421_description:
-  en: "■ Affects 2 allies with the highest <word_group=10025>final</word_group> ATK.\n<color=#00AEFF>Gain
+  en: "■ Affects 2 allies with the highest <word_group=10025>final</word_group> ATK.\n<color=#00AEFF>Creates
     a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the
-    caster's <word_group=10025>final</word_group> Max HP for {description_value_02}
-    sec. \nPotency of HP restored ▲ {description_value_03}% for {description_value_04}
-    sec.</color>"
+    skill user's <word_group=10025>final</word_group> Max HP for {description_value_02}
+    sec. \nIncoming healing ▲ {description_value_03}% for {description_value_04} sec.</color>"
   ko: |-
     ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 2기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]
@@ -95,9 +94,9 @@ skill_name_1002:
   ko: 스플린트
   ja: スプリント
 12423_description:
-  en: "■ Affects 2 allies with the highest <word_group=10025>final</word_group> ATK.\n<color=#00AEFF>Gain
+  en: "■ Affects 2 allies with the highest <word_group=10025>final</word_group> ATK.\n<color=#00AEFF>Creates
     a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the
-    caster's <word_group=10025>final</word_group> Max HP for {description_value_02}
+    skill user's <word_group=10025>final</word_group> Max HP for {description_value_02}
     sec. \nRecovers {description_value_03}% of attack damage as HP over {description_value_04}
     sec.</color>"
   ko: |-

@@ -93,7 +93,7 @@ skill_name_1003:
 28401_description:
   en: |-
     ■ Activates when entering Full Burst. Affects all <word_group=10082>Burst {description_value_07}</word_group> allies who previously used their Burst Skill.
-    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.
     True Damage ▲ {description_value_03}% for {description_value_04} sec.
     Recovers {description_value_05}% of damage as HP for {description_value_06} sec.</color>
   ko: |-

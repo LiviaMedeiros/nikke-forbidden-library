@@ -55,8 +55,8 @@ character_shot_description_localkey_sg_down:
   ja: 一緒に遊ぼうよぉ…
 24002_description_2:
   en: |-
-    ■ Activates after {description_value_01} normal attack(s). Affects all Wind Code allies.
-    <color=#00AEFF>Increases <word_group=10001>stack count of buffs</word_group> by {description_value_02}.
+    ■ Activates after {description_value_01} normal attacks. Affects all Wind Code allies.
+    <color=#00AEFF>Increases <word_group=10001>stack count of stackable buffs</word_group> by {description_value_02}.
     ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 풍압 코드 아군 전체에게
@@ -76,8 +76,8 @@ skill_name_1003:
   ja: 借りていくよぉ…
 24001_description_2:
   en: |-
-    ■ Activates after {description_value_01} normal attack(s). Affects self.
-    <color=#00AEFF>Mind If I Borrow This?: <word_group=10012>Duplicate {description_value_02}% ATK</word_group> of ally with the highest ATK, stacks up to {description_value_04} time(s) and lasts for {description_value_03} sec.</color>
+    ■ Activates after {description_value_01} normal attacks. Affects self.
+    <color=#00AEFF>Mind If I Borrow This?: <word_group=10012>Duplicates {description_value_02}% of the ATK</word_group> of the ally with the highest ATK. Stacks up to {description_value_04} times and lasts for {description_value_03} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 자신에게
     <color=#00AEFF>[빌려 갈게에…. : 공격력이 가장 높은 아군 1기의 <word_group=10012>공격력 복제</word_group> {description_value_02}%] [{description_value_04}중첩] [{description_value_03}초 유지]</color>
@@ -95,9 +95,9 @@ skill_name_1002:
   ja: つかまえたぁ…
 14003_description_1:
   en: |-
-    ■ Affects {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> DEF.
+    ■ Affects the {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> DEF.
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
-    ■ Affects the same target(s) when Mind If I Borrow This? is fully stacked.
+    ■ Activates when Mind If I Borrow This? is at max stacks. Affects the same target(s).
     <color=#00AEFF>DEF ▼ {description_value_03}% for {description_value_04} sec.
     Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-

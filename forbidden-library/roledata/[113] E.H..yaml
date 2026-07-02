@@ -60,7 +60,7 @@ character_shot_description_localkey_smg_down:
     Effect 1: Activates at the start of battle. Scraps ▲ {description_value_07} continuously, up to a maximum of {description_value_02}.
     Effect 2: Activates when an ally or self destroys a <word_group=10096>destructible projectile</word_group>. Scraps ▲ {description_value_01} continuously, up to a maximum of {description_value_02}.
     Effect 3: Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Scraps ▲ {description_value_03} continuously, up to a maximum of {description_value_02}.
-    Effect 4: Activates when <word_group=10077>an enemy is neutralized</word_group>. Scraps ▲ {description_value_04} continuously, up to a maximum of {description_value_02}.
+    Effect 4: Activates <word_group=10077>when an enemy is neutralized</word_group>. Scraps ▲ {description_value_04} continuously, up to a maximum of {description_value_02}.
     Effect 5: Activates when obtaining Scraps. <word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
   ko: |-
     ■ 자신에게
@@ -132,7 +132,7 @@ skill_name_1002:
     Full Charge Damage: 250% of damage
     Max Ammunition Capacity: 1 x the number of homemade magazines
     Duration: {description_value_02} sec
-    <word_group=10097>Removal condition</word_group>: When the duration ends or when all rounds have been fired.
+    <word_group=10097>Deactivation condition</word_group>: When the duration ends or when all rounds have been fired.
     Additional Effect:
     ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-

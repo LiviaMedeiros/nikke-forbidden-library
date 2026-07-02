@@ -51,7 +51,7 @@ character_shot_description_localkey_sg_down:
   ko: 썬더볼트
   ja: サンダーボルト
 21012_description_2:
-  en: "■ Activates after {description_value_01} attack(s). Affects {description_value_02}
+  en: "■ Activates after {description_value_01} attacks. Affects the {description_value_02}
     enemy unit(s) with the lowest remaining HP. \nDeals <color=#00AEFF>{description_value_03}%
     of <word_group=10025>final</word_group> ATK as damage.</color>"
   ko: "■ {description_value_01}회 공격 시 남은 체력 수치가 가장 낮은 적 {description_value_02}기에게

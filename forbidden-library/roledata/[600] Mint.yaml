@@ -105,10 +105,10 @@ skill_name_1003:
 26001_description:
   en: |-
     ■ Activates when attacking with Full Charge while in <word_group=10102>Assigned Part</word_group>: Singing status. Affects all allies.
-    <color=#00AEFF>Singing Effect: ATK ▲ {description_value_01}% of the caster's ATK for {description_value_02} sec.</color>
+    <color=#00AEFF>Singing Effect: ATK ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>
 
     ■ Activates when attacking with Full Charge while in <word_group=10102>Assigned Part</word_group>: Dancing status. Affects all allies.
-    <color=#00AEFF>Dancing Effect: Constantly recovers {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_04} sec.</color>
+    <color=#00AEFF>Dancing Effect: Constantly recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_04} sec.</color>
   ko: |-
     ■ 풀 차지 공격 시 자신이 <word_group=10102>무대 파트</word_group> : 보컬 상태라면 아군 전체에게
     <color=#00AEFF>[보컬 효과 : 시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>

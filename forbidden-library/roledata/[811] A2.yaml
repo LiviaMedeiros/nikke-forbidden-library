@@ -106,7 +106,7 @@ skill_name_1002:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Mode B:
-    Own HP decreases every second while ATK and Charge Speed increase. If own HP dips below {description_value_01}%, Mode B is deactivated.
+    Own HP decreases every second while ATK and Charge Speed increase. If own HP dips below {description_value_01}%, Mode B is removed.
     Effect 1: Current HP ▼ {description_value_02}% every 1 sec.
     Effect 2: ATK ▲ {description_value_03}%
     Effect 3: Charge Speed ▲ {description_value_04}%.</color>

@@ -79,15 +79,15 @@ skill_name_1003:
   ja: スネークセンス
 21121_description:
   en: |-
-    ■ Activates when the target appears. Affects all allies.
+    ■ Activates when the <word_group=10105>stage target</word_group> appears. Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.
     Hit Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
-    ■ 타겟이 출현했다면 아군 전체에게
+    ■ <word_group=10105>타겟</word_group>이 출현했다면 아군 전체에게
     <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
     [명중률 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
   ja: |-
-    ■ターゲットが出現している場合、味方全体に
+    ■<word_group=10105>ターゲット</word_group>が出現している場合、味方全体に
     <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」
     「命中率{description_value_03}％▲」「{description_value_04}秒間維持」</color>
 skill_name_1002:
@@ -102,17 +102,17 @@ skill_name_1002:
   en: |-
     ■ Affects {description_value_01} designated enemy unit(s).
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    ■ Affects the enemy if the enemy is the stage target.
+    ■ Affects the enemy if the enemy is the <word_group=10105>stage target</word_group>.
     <color=#00AEFF>DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 지정한 적 대상 {description_value_01}기에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 대미지]</color>
-    ■ 대상이 타겟이라면 동일 적 대상에게
+    ■ 대상이 <word_group=10105>타겟</word_group>이라면 동일 적 대상에게
     <color=#00AEFF>[방어력 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
   ja: |-
     ■指定した敵対象{description_value_01}機に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％のダメージ」</color>
-    ■対象がターゲットなら、同じ敵に
+    ■対象が<word_group=10105>ターゲット</word_group>なら、同じ敵に
     <color=#00AEFF>「防御力{description_value_03}％▼」「{description_value_04}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill

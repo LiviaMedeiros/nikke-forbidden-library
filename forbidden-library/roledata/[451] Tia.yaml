@@ -64,10 +64,10 @@ character_shot_description_localkey_rl_up:
 24512_description:
   en: |-
     ■ Activates after landing {description_value_01} normal attack(s). Affects self.
-    <color=#00AEFF><word_group=10033>Max HP of Cover</word_group> ▲ {description_value_02}% of the caster's Max HP for {description_value_03} sec.
+    <color=#00AEFF><word_group=10033>Max HP of Cover</word_group> ▲ {description_value_02}% of the skill user's Max HP for {description_value_03} sec.
     Attract: Taunts all enemies for {description_value_04} sec.</color>
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF><word_group=10017>Restores Cover HP</word_group> by {description_value_05}% of caster's <word_group=10025>final</word_group> Max HP.
+    <color=#00AEFF><word_group=10017>Restores Cover HP</word_group> by {description_value_05}% of the skill user's <word_group=10025>final</word_group> Max HP.
     Recovers {description_value_06}% of attack damage as HP over {description_value_07} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
@@ -120,11 +120,11 @@ skill_name_1002:
   ja: トカゲの保護
 14513_description:
   en: "■ Affects self.\n<color=#00AEFF>Generates a <word_group=10023>Shield</word_group>
-    with {description_value_01}% of the caster's <word_group=10025>final</word_group>
+    with {description_value_01}% of the skill user's <word_group=10025>final</word_group>
     Max HP for {description_value_02} sec.</color> \n■ Affects all allies (except
     self).\n<color=#00AEFF>Generates a <word_group=10023>Shield</word_group> with
-    {description_value_03}% of the caster's <word_group=10025>final</word_group> Max
-    HP for {description_value_04} sec.</color>\n■ Affects all allies.\n<color=#00AEFF><word_group=10002>Re-enters
+    {description_value_03}% of the skill user's <word_group=10025>final</word_group>
+    Max HP for {description_value_04} sec.</color>\n■ Affects all allies.\n<color=#00AEFF><word_group=10002>Re-enters
     Burst</word_group> Stage 1.</color>"
   ko: |-
     ■ 자신에게
@@ -493,6 +493,204 @@ c451_Win_1:
   ja: |-
     せんせぇ～、スイーツ食べに行こうよぉ♥
     えへへ。
+c451_03_Lobby_Touch_1:
+  en: Hey, I think a chameleon just walked by?!
+  ko: 저기, 방금 전에 카멜레온이 지나간 것 같은데?!
+  ja: ねえ、今カメレオンが通り過ぎたよねぇ！？
+c451_03_Lobby_Touch_2:
+  en: Nothing beats dessert in this heat. Care for a bite, Teacher?
+  ko: |-
+    더위에는 뭐니 뭐니 해도 디저트지.
+    선생님도 한 입 할래?
+  ja: |-
+    暑い時は、やっぱりスイーツだよぉ。
+    先生も一口食べる？
+c451_03_Lobby_Touch_3:
+  en: I'm so happy we got to come to the beach together!
+  ko: 다 함께 이렇게 바다에 오게 돼서 너무너무 기뻐어~
+  ja: みんなで海に来られて、すっごく嬉しい～
+c451_03_Lobby_Touch_Love_1:
+  en: What are you staring so intently at, Teacher? Oh my, your face is all red! ♥
+  ko: |-
+    선생니임~ 어딜 그렇게 빤-히 쳐다보는 거야?
+    앗, 얼굴 빨개졌다아♥
+  ja: |-
+    せんせぇ～、どこをそんなに見てるのぉ？
+    あっ、顔が赤くなったぁ♥
+c451_03_Lobby_Touch_Love_2:
+  en: Naga picked out this swimsuit for me. Isn't it gorgeous?
+  ko: |-
+    이거, 나가가 골라준 수영복이다?
+    예쁘지이~
+  ja: |-
+    これ、ナガが選んでくれた水着なんだぁ。
+    カワイイでしょ～
+c451_03_Lobby_Touch_Love_3:
+  en: Getting to see the ocean with you feels like a dream.
+  ko: |-
+    선생님이랑 이렇게 같이 바다를 볼 수 있다니.
+    꿈만 같아.
+  ja: |-
+    先生と一緒に海に来られるなんて、
+    夢みたいだよぉ。
+c451_03_Lobby_Stay_1:
+  en: Teacher? Where did you wander off to without me? I'm so bored.
+  ko: 선생님~ 나만 두고 어디 간 거야? 심심해.
+  ja: 先生～私を置いてどこ行っちゃったの？退屈だよぉ。
+c451_03_Lobby_Stay_Love_1:
+  en: You go ahead, Teacher! I'll just be here looking for that pygmy chameleon.
+  ko: |-
+    피그미 카멜레온이 어디 있나 찾아보고 있을게.
+    다녀 와, 선생니임~
+  ja: |-
+    ピグミーカメレオンを探しながら待ってるねぇ。
+    行ってらっしゃい、せんせぇ～
+c451_03_Outpost_Touch_1:
+  en: Since I'm already dressed like this, I might as well check out the pool with
+    Naga.
+  ko: 이왕 이렇게 입은 거, 나가랑 수영장에 가봐야겠다아~
+  ja: せっかく着替えたんだし、 ナガとプールに行かなきゃ～
+c451_03_Outpost_Touch_2:
+  en: It's too bad there aren't any live lizards around here.
+  ko: 여기엔 살아있는 도마뱀이 없어서 너무 아쉬워.
+  ja: ここには生きてるトカゲが いないから、残念～…
+c451_03_Outpost_Touch_3:
+  en: This swimsuit is actually really comfy. Maybe I should wear it every day!
+  ko: |-
+    수영복, 은근히 편하고 좋아.
+    매일 이렇게 입고 다녀버릴까~
+  ja: |-
+    水着って、 意外と動きやすくていいねぇ。
+    毎日着ちゃおうかな～
+c451_03_Gacha_Get_1:
+  en: The ocean! And chameleons! I'm so excited!
+  ko: 바다다-! 카멜레온이다-! 너무 신나아~
+  ja: 海だ！カメレオンだ！わぁ～い！
+c451_03_Reinforce_1:
+  en: Whoa... Is this what they call evolution?
+  ko: 우와아~ 이게 바로… 진화?
+  ja: わあ～これが…進化？
+c451_03_Reinforce_2:
+  en: I feel much lighter now, Teacher.
+  ko: 몸이 좀 더 가벼워졌어, 선생님~
+  ja: 体が軽くなったよ、先生～
+c451_03_Reinforce_3:
+  en: At this rate, I might actually be able to graduate!
+  ko: 이 기세라면 정말 졸업 가능할 것 같아~
+  ja: このカンジなら、本当に卒業できそう～
+c451_03_Gift_1:
+  en: I always love the gifts you give me!
+  ko: 선생님이 주는 선물은 늘 좋아아~
+  ja: 先生がくれるプレゼントはいつも素敵だねぇ～
+c451_03_Gift_2:
+  en: How'd you know I like this? Thanks!
+  ko: 내가 이거 좋아하는 건 어떻게 알았어? 고마워~
+  ja: これが好きってどうして分かったの？ありがと～
+c451_03_Gift_3:
+  en: Teacher! If you keep showering me with gifts, I might start getting the wrong
+    idea! ♥
+  ko: |-
+    선생니임~ 자꾸 이렇게 선물해 주면.
+    나 오해해 버릴지도 몰라♥
+  ja: |-
+    せんせぇ～こんなにプレゼントしてくれるなんて、
+    勘違いしちゃうかもぉ♥
+c451_03_Attractive_Up_1:
+  en: Just looking at you makes me happy.
+  ko: 선생님을 보고 있으면 기분이 좋아져.
+  ja: 先生を見ていると、嬉しくなるんだぁ。
+c451_03_Attractive_Up_2:
+  en: I wanna stay by your side forever!
+  ko: 앞으로도 선생님이랑 쭉 함께 있고 싶어어~
+  ja: これからも先生とずーっと一緒にいたいな～
+c451_03_Attractive_Up_3:
+  en: Teacher! I really, really like you. Even more than chameleons! ♥
+  ko: 선생니임~ 정말 정말 좋아해. 카멜레온보다 더♥
+  ja: せんせぇ～、だーい好き。カメレオンよりも好きだよぉ♥
+c451_03_Party_Deploy_1:
+  en: We're going chameleon hunting, right?
+  ko: 우리, 카멜레온 찾으러 가는 거 맞지이~
+  ja: カメレオンを探しに行くんだよねぇ～？
+c451_03_Field_Touch_1:
+  en: Did you call me, Teacher?
+  ko: 선생님, 나 불렀어?
+  ja: 先生、呼んだ～？
+c451_03_Field_Go_1:
+  en: Let's go, let's go!
+  ko: 응, 가자 가자~
+  ja: うん、行こ～
+c451_03_Battle_Enter_1:
+  en: Let's take a proper look.
+  ko: 제대로 찾아볼까?
+  ja: 真剣に探してみよう～！
+c451_03_Battle_Ready_1:
+  en: Let's finish this quickly and go find some chameleons!
+  ko: 얼른 끝내고 카멜레온 찾으러 가자!
+  ja: 早く終わらせて、カメレオンを探しに行こっ！
+c451_03_Battle_Ready_2:
+  en: I think I might actually get to meet a real dragon this time!
+  ko: 이번엔 진짜 용이랑 만날 수 있을 것 같아!
+  ja: 今度は本物のドラゴンと会えそう！
+c451_03_Battle_Ready_3:
+  en: This place is an absolute heaven!
+  ko: 여긴 정말 천국이야아~
+  ja: ここはホントに天国だよぉ～
+c451_03_Reload_1:
+  en: Aww, it's so cute!
+  ko: 얘 너무 귀여워어~
+  ja: この子、すっごくカワイイ～
+c451_03_Reload_2:
+  en: One, two!
+  ko: 하나, 둘!
+  ja: いち、に！
+c451_03_Reload_3:
+  en: I'll be done in a sec!
+  ko: 금방 할게에?
+  ja: すぐ終わらせるねぇ～
+c451_03_Ult_Skill_Ready_1:
+  en: Teacher! I'm ready.
+  ko: 선생니임~ 나 준비 됐어.
+  ja: せんせぇ～、準備できたよぉ。
+c451_03_Ult_Skill_1:
+  en: I wanna live here forever!
+  ko: 평생 여기서 살고 싶어어~
+  ja: 一生ここで暮らした～い。
+c451_03_FullBurst_1:
+  en: Time to wrap this up!
+  ko: 마무리할게에~
+  ja: 終わらせるねぇ～
+c451_03_Kill_Monster_1:
+  en: Gotcha!
+  ko: 잡았다아~
+  ja: つかまえたぁ～
+c451_03_Kill_Monster_2:
+  en: Whoa! You scared me!
+  ko: 우와, 깜짝이야!
+  ja: わあっ、びっくりしたぁ！
+c451_03_Kill_Monster_3:
+  en: Hehe, easy-peasy.
+  ko: 헤헤, 이 정도는 쉽지이~
+  ja: えへへ、これくらい簡単だよぉ～
+c451_03_Damage_1:
+  en: Hngh...
+  ko: 흐웅~
+  ja: う～ん。
+c451_03_Damage_2:
+  en: Ah!
+  ko: 아얏.
+  ja: ああっ。
+c451_03_Damage_3:
+  en: Ow!
+  ko: 아파아~
+  ja: いた～い。
+c451_03_Die_1:
+  en: Aww... I wanted to play a little longer.
+  ko: 흐웅~ 좀 더 놀고 싶었는데에.
+  ja: う～ん、もっと遊びたかったのにぃ…
+c451_03_Win_1:
+  en: Yay! Now we can go look for chameleons, right?
+  ko: 와아~ 이제 같이 카멜레온 찾으러 가는 거지이?
+  ja: わあ～！一緒にカメレオンを探しに行くんだよね～？
 451_cv_ja:
   en: 'CV: Rumi Okubo'
   ko: 'CV : 오오쿠보 루미'

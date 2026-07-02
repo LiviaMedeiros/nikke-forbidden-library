@@ -59,11 +59,11 @@ character_shot_description_localkey_sg_down_accuracy:
   ja: 愛情たっぷりメイド
 23132_description:
   en: |-
-    ■ Activates when more than {description_value_01} <word_group=10038>pellet(s)</word_group> hit with a single normal attack. Affects self.
-    <color=#00AEFF>Reloading Speed ▲ {description_value_02}% for {description_value_03} sec.</color>
-    ■ Activates when hitting {description_value_04} time(s) using <word_group=10038>pellets</word_group> during Full Burst Time. Affects self.
+    ■ Activates when {description_value_01} or more <word_group=10038>pellets</word_group> hit with a single normal attack. Affects self.
+    <color=#00AEFF>Reload Speed ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates when hitting {description_value_04} times with <word_group=10038>pellets</word_group> during Full Burst. Affects self.
     <color=#00AEFF>Reload {description_value_05} round(s).</color>
-    <color=#00AEFF>ATK ▲ {description_value_06}%, stacks up to {description_value_07} time(s) and lasts for {description_value_08} sec.</color>
+    <color=#00AEFF>ATK ▲ {description_value_06}%, stacks up to {description_value_07} times and lasts for {description_value_08} sec.</color>
   ko: |-
     ■ 일반 공격 1회로 <word_group=10038>펠릿</word_group> {description_value_01}개 이상 명중 시 자신에게
     <color=#00AEFF>[재장전 속도 {description_value_02}% ▲] [{description_value_03}초 유지]</color>

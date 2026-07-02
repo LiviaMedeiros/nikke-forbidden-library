@@ -55,13 +55,13 @@ character_shot_description_localkey_ar_down:
   ja: オーバーヒート
 25142_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    ■ Activates after landing {description_value_01} normal attacks. Affects self.
     <color=#00AEFF>Overheat I: ATK ▲ {description_value_02}%. Removed upon reloading to max ammunition.</color>
-    ■ Activates when normal attack hits after Prediction status takes effect. Affects self.
-    <color=#00AEFF>Changes according to the number of hits.<word_group=10028> Previous effects trigger repeatedly</word_group>.</color>
-    {description_value_03} time(s): when in Prediction and Overheat I status.
+    ■ Activates when landing a normal attack after Prediction takes effect. Affects self.
+    <color=#00AEFF>Effects vary according to the number of attacks landed. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:</color>
+    {description_value_03} attacks landed: While in Prediction and Overheat I status,
     <color=#00AEFF>Overheat II: ATK ▲ {description_value_04}% continuously.</color>
-    {description_value_05} time(s): when in Prediction and Overheat II status.
+    {description_value_05} attacks landed: While in Prediction and Overheat II status,
     <color=#00AEFF>Overheat III: Attack Damage ▲ {description_value_06}% continuously.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
@@ -95,10 +95,10 @@ skill_name_1003:
 25141_description_1:
   en: |-
     ■ Activates when Prediction status ends. Affects self.
-    <color=#00AEFF>Removes {description_value_01}% of bullets.
-    Heat Emission: Reload Ratio ▼ {description_value_02}%. <word_group=10059>Removes Heat Emission under certain conditions.</word_group></color>
+    <color=#00AEFF>Removes {description_value_01}% of ammo.
+    Heat Emission: Reload Ratio ▼ {description_value_02}%. <word_group=10059>Removes Heat Emission under certain conditions</word_group>.</color>
     ■ Activates only when in Heat Emission status. Affects self.
-    <color=#00AEFF>Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
+    <color=#00AEFF>Recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
     ■ Activates only when in Heat Emission status. Affects all allies.
     <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_04}% continuously.
     <word_group=10042>Pierce Damage</word_group> ▲ {description_value_05}% continuously.</color>
@@ -319,6 +319,10 @@ material_characterskill_a_ssr_desc:
   en: Little Mermaid
   ko: 리틀 머메이드
   ja: リトルマーメイド
+515_name:
+  en: 'Cinderella: Crystal Wave'
+  ko: '신데렐라 : 크리스탈 웨이브'
+  ja: シンデレラ：クリスタルウェーブ
 c514_Lobby_Touch_1:
   en: |-
     Why do you keep sneaking glances at me?

@@ -69,11 +69,11 @@ character_shot_description_localkey_rl_up_c511:
 25112_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP continuously.</color>
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
     ■ Activates when entering Burst Skill Stage 3. Affects self.
-    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP continuously.</color>
-    ■ Activates <word_group=10056>when decoy exists</word_group>. Affects self every {description_value_04} sec.
-    <color=#00AEFF>Beautiful: Max HP ▲ {description_value_02}% continuously, stacks up to {description_value_03} time(s).</color>
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+    ■ Activates every {description_value_04} sec <word_group=10056>when a decoy is present</word_group>. Affects self.
+    <color=#00AEFF>Beautiful: Max HP ▲ {description_value_02}% continuously, stacks up to {description_value_03} times.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[<word_group=10024>디코이</word_group> : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 분신] [지속]</color>
@@ -100,7 +100,7 @@ skill_name_1003:
 25111_description:
   en: |-
     ■ Activates when entering Burst Stage 3. Affects self.
-    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.</color>
+    <color=#00AEFF>ATK ▲ {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.</color>
     ■ Activates when attacking with Full Charge. Affects self.
     <color=#00AEFF>Charge Speed ▲ {description_value_03}%. Removed upon reloading to max ammunition.</color>
     ■ Activates when hitting a target with Full Charge. Affects the target.
@@ -290,6 +290,10 @@ material_characterskill_a_ssr_desc:
   en: Little Mermaid
   ko: 리틀 머메이드
   ja: リトルマーメイド
+515_name:
+  en: 'Cinderella: Crystal Wave'
+  ko: '신데렐라 : 크리스탈 웨이브'
+  ja: シンデレラ：クリスタルウェーブ
 c511_Lobby_Touch_1:
   en: |-
     Oh? Did you need something?

@@ -52,8 +52,8 @@ character_shot_description_localkey_ar_down:
   ja: マイレージ
 22002_description:
   en: |-
-    ■ Activates after {description_value_01} attack(s). Affects self.
-    <color=#00AEFF>Mileage: ATK ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+    ■ Activates after {description_value_01} attacks. Affects self.
+    <color=#00AEFF>Mileage: ATK ▲ {description_value_02}%. Stacks up to {description_value_03} times and lasts for {description_value_04} sec.</color>
   ko: |-
     ■ {description_value_01}회 공격 시 자신에게
     <color=#00AEFF>[마일리지 : 공격력 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>
@@ -94,9 +94,9 @@ skill_name_1002:
   ja: シングルペイメント
 12003_description_1:
   en: |-
-    ■ Affects <word_group=10020>enemies within attack range</word_group>.
+    ■ Affects <word_group=10020>enemies within range</word_group>.
     Deals <color=#00AEFF>{description_value_01}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    ■ Activates when Mileage is fully stacked. Affects all allies.
+    ■ Activates when Mileage is at max stacks. Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ <word_group=10020>공격 범위 내 적들</word_group>에게

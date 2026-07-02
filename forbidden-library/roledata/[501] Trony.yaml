@@ -89,9 +89,9 @@ skill_name_1003:
   en: |-
     ■ Activates when hitting a target with Full Charge. Affects 1 enemy unit nearest to the crosshair if there are no enemies in T.Rony Bomber status.
     <color=#00AEFF><word_group=10049>Cumulative Damage Skill</word_group> active for {description_value_01} sec.
-    Function: Accumulates a fraction of the caster's inflicted damage. Upon reaching the maximum accumulated damage, deals damage to enemies before ending.
-    Effect 1: Maximum Accumulated Damage is {description_value_03}% of the caster's <word_group=10025>final</word_group> ATK.
-    Effect 2: Accumulates {description_value_02}% of the caster's ATK damage.
+    Function: Accumulates a fraction of the skill user's inflicted damage. Upon reaching the maximum accumulated damage, deals damage to enemies before ending.
+    Effect 1: Maximum Accumulated Damage is {description_value_03}% of the skill user's <word_group=10025>final</word_group> ATK.
+    Effect 2: Accumulates {description_value_02}% of the skill user's ATK damage.
     Effect 3: Deals <word_group=10019>Distributed Damage</word_group> to <word_group=10020>enemies within the attack range</word_group> when <word_group=10049>Cumulative Damage Skill</word_group> explodes.</color>
   ko: |-
     ■ 풀 차지 공격 명중 시 T.Rony 봄버 상태의 적이 없다면 조준선에 가장 가까운 적 1기에게

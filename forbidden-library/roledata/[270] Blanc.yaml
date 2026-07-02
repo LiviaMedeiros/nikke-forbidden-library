@@ -62,7 +62,7 @@ character_shot_description_localkey_ar_down:
 22702_description:
   en: |-
     ■ Activates after Full Burst ends. Affects all allies.
-    <color=#00AEFF>Constantly recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
+    <color=#00AEFF>Constantly recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
     ■ Activates when Full Burst ends with an ally from the same squad still on the battlefield. Affects self.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>
   ko: |-
@@ -86,7 +86,7 @@ skill_name_1003:
 22701_description:
   en: |-
     ■ Activates after {description_value_01} normal attack(s).
-    <color=#00AEFF>Creates a shared <word_group=10023>Shield</word_group> equal to {description_value_02}% of the caster's <word_group=10025>final</word_group> Max HP that protects all allies from damage. Lasts for {description_value_03} sec.</color>
+    <color=#00AEFF>Creates a shared <word_group=10023>Shield</word_group> equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP that protects all allies from damage. Lasts for {description_value_03} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 아군 공용 <word_group=10023>보호막</word_group>] [{description_value_03}초 유지]</color>
@@ -104,8 +104,8 @@ skill_name_1002:
 12703_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Constantly recovers {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
-    ■ Affects {description_value_03} ally unit(s) with the lowest remaining HP (except caster).
+    <color=#00AEFF>Constantly recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
+    ■ Affects {description_value_03} ally unit(s) with the lowest remaining HP (except the skill user).
     <color=#00AEFF>Gain <word_group=10006>Indomitability</word_group> for {description_value_04} sec.
     Max HP ▲ {description_value_05}% for {description_value_06} sec.</color>
     ■ Affects all enemies.

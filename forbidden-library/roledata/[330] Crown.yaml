@@ -60,13 +60,13 @@ character_shot_description_localkey_mg_down_detect:
   ja: ロイヤルアタイア
 23302_description:
   en: |-
-    ■ Activates after {description_value_01} normal attack(s). Affects self.
-    <color=#00AEFF>Relax: Potency of HP restored ▲ {description_value_02}% continuously, stacks up to {description_value_03} time(s).</color>
-    ■ Activates when Relax is fully stacked. Affects self after the stacks are removed.
+    ■ Activates after {description_value_01} normal attacks. Affects self.
+    <color=#00AEFF>Relax: Incoming healing ▲ {description_value_02}% continuously. Stacks up to {description_value_03} times.</color>
+    ■ Activates when Relax is at max stacks. Removes stacks and affects self.
     <color=#00AEFF>Invulnerable for {description_value_04} sec.</color>
-    <color=#00AEFF>Attract: Taunt all enemies for {description_value_05} sec.</color>
-    <color=#00AEFF>Recovers {description_value_06}% of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>
-    ■ Activates when<word_group=10027> recovery takes effect</word_group>. Affects all allies.
+    <color=#00AEFF>Attract: Taunts all enemies for {description_value_05} sec.</color>
+    <color=#00AEFF>Restores HP equal to {description_value_06}% of the skill user's <word_group=10025>final</word_group> Max HP.</color>
+    ■ Activates when <word_group=10027>recovery takes effect</word_group>. Affects all allies.
     <color=#00AEFF>Attack Damage ▲ {description_value_07}% for {description_value_08} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 자신에게
@@ -97,12 +97,12 @@ skill_name_1003:
   ja: ワンフォーオール
 23301_description:
   en: |-
-    ■ Activates at the start of Full Burst. Affects all allies who previously cast their Burst Skills.
-    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
-    <color=#00AEFF>Reloading Speed ▲ {description_value_03}% for {description_value_04} sec.</color>
-    ■ Affects all allies who did not previously cast their Burst Skills.
-    <color=#00AEFF>DEF ▲ {description_value_05}% of caster's DEF for {description_value_06} sec.</color>
-    <color=#00AEFF>Reloading Speed ▲ {description_value_07}% for {description_value_08} sec.</color>
+    ■ Activates at the start of Full Burst. Affects all allies who previously used their Burst Skills.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>
+    <color=#00AEFF>Reload Speed ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all allies who did not previously use their Burst Skills.
+    <color=#00AEFF>DEF ▲ {description_value_05}% of the skill user's DEF for {description_value_06} sec.</color>
+    <color=#00AEFF>Reload Speed ▲ {description_value_07}% for {description_value_08} sec.</color>
   ko: |-
     ■ 풀 버스트 타임 시작 시 직전에 버스트 스킬을 사용한 아군 전체에게
     <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
@@ -129,7 +129,7 @@ skill_name_1002:
   en: |-
     ■ Affects all allies.
     <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
-    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP for {description_value_04} sec.</color>
+    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_04} sec.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>

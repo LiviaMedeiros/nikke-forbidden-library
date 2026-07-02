@@ -65,7 +65,7 @@ character_shot_description_localkey_ar_down:
     ATK ▲ {description_value_02}% continuously.
     <word_group=10094>Damage taken from Electric Code enemies</word_group> ▼ {description_value_03}% continuously.</color>
     ■ Activates only while in Shared Delusion status. Affects all allies (except self).
-    <color=#00AEFF>ATK ▲ {description_value_04}% of the caster's ATK continuously.</color>
+    <color=#00AEFF>ATK ▲ {description_value_04}% of the skill user's ATK continuously.</color>
   ko: |-
     ■ 전투 시작 시 자신을 제외한 아군 전체에게
     <color=#00AEFF>[<word_group=10094>전격 코드 적으로부터 받는 대미지</word_group> {description_value_05}% ▼] [{description_value_07}초 유지] [전투 중 {description_value_06}회 발동]</color>
@@ -99,15 +99,15 @@ skill_name_1003:
 25821_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
     ■ Activates when Delusion status ends. Affects self.
     <color=#00AEFF>Delusion Shattered: Activates up to {description_value_02} time(s). This effect is continuous.
     Effect 1: Imagined Heartbreak: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_03} sec x Delusion Shattered count. This effect is removed upon taking a direct hit.
     Effect 2: Stuns for {description_value_03} sec per Delusion Shattered stack.</color>
     ■ Activates when performing a normal attack while not in Delusion status. Affects self.
-    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
     ■ Activates when using Burst Skill while not in Delusion status. Affects self.
-    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+    <color=#00AEFF>Delusion: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[망상 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>

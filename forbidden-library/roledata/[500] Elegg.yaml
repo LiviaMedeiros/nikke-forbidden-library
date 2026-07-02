@@ -58,19 +58,19 @@ character_shot_description_localkey_mg_down:
   ja: ファストチャージ
 25002_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects all allies if the target is in BOOM Install.
-    <color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK for {description_value_03} sec.</color>
-    ■ Activates when the target appears. Affects all allies.
+    ■ Activates after landing {description_value_01} normal attacks on a target in BOOM Install status. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_02}% of the skill user's ATK for {description_value_03} sec.</color>
+    ■ Activates when the <word_group=10105>stage target</word_group> appears. Affects all allies.
     <color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by {description_value_04}%. Activates once per battle.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 대상이 붐 인스톨 상태라면 아군 전체에게
     <color=#00AEFF>[시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
-    ■ 타겟 출현 시 아군 전체에게
+    ■ <word_group=10105>타겟</word_group> 출현 시 아군 전체에게
     <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_04}%] [전투 중 1회 발동]</color>
   ja: |-
     ■通常攻撃が{description_value_01}回命中した時、対象がブームインストール状態なら味方全体に
     <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
-    ■ターゲットが出現した時、味方全体に
+    ■<word_group=10105>ターゲット</word_group>が出現した時、味方全体に
     <color=#00AEFF>「<word_group=10015>バーストゲージのチャージ</word_group>{description_value_04}％」「戦闘中1回発動」</color>
 skill_name_1003:
   en: Skill 2

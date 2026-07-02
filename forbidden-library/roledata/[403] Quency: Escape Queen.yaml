@@ -54,17 +54,17 @@ character_shot_description_localkey_smg_down:
   ja: ルート探索
 24032_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
-    <color=#00AEFF>Effects in each phase vary.<word_group=10028>Previous effects trigger repeatedly.</word_group></color>
+    ■ Activates after {description_value_01} normal attacks. Affects self.
+    <color=#00AEFF>Effects vary for each stage. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:</color>
     Stage 1: Affects self.
-    <color=#00AEFF>Hit Rate ▲ {description_value_02}%, stacks up to 10 time(s) and lasts for 2 sec.
-    ATK ▲ {description_value_03}%, stacks up to 10 time(s) and lasts for 2 sec.</color>
-    Stage 2: Activates when Explore Route Stage 1 is fully stacked. Affects self.
-    <color=#00AEFF>Hit Rate ▲ {description_value_04}%, stacks up to 10 time(s) and lasts for 1 sec.
+    <color=#00AEFF>Hit Rate ▲ {description_value_02}%. Stacks up to 10 times and lasts for 2 sec.
+    ATK ▲ {description_value_03}%. Stacks up to 10 times and lasts for 2 sec.</color>
+    Stage 2: Activates when Explore Route Stage 1 is at max stacks. Affects self.
+    <color=#00AEFF>Hit Rate ▲ {description_value_04}%. Stacks up to 10 times and lasts for 1 sec.
     ATK ▲ {description_value_05}%, stacks up to 10 time(s) and lasts for 1 sec.</color>
-    Stage 3: Activates when Explore Route Stage 2 is fully stacked. Affects self.
-    <color=#00AEFF>Hit Rate ▲ {description_value_06}%, stacks up to 5 time(s) and lasts for 0.5 sec.
-    ATK ▲ {description_value_07}%, stacks up to 5 time(s) and lasts for 0.5 sec.</color>
+    Stage 3: Activates when Explore Route Stage 2 is at max stacks. Affects self.
+    <color=#00AEFF>Hit Rate ▲ {description_value_06}%. Stacks up to 5 times and lasts for 0.5 sec.
+    ATK ▲ {description_value_07}%. Stacks up to 5 times and lasts for 0.5 sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 자신에게
     <color=#00AEFF>[단계 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]</color>
@@ -100,11 +100,11 @@ skill_name_1003:
   ja: ルート確定
 24031_description:
   en: |-
-    ■ Activates only when Explore Route Stage 1 is fully stacked. Affects self.
+    ■ Activates only when Explore Route Stage 1 is at max stacks. Affects self.
     <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% continuously.</color>
-    ■ Activates only when Explore Route Stage 2 is fully stacked. Affects self.
+    ■ Activates only when Explore Route Stage 2 is at max stacks. Affects self.
     <color=#00AEFF>Damage dealt when attacking core ▲ {description_value_02}% continuously.</color>
-    ■ Activates only when Explore Route Stage 3 is fully stacked. Affects self.
+    ■ Activates only when Explore Route Stage 3 is at max stacks. Affects self.
     <color=#00AEFF>Critical Rate ▲ {description_value_03}% continuously.</color>
   ko: |-
     ■ 자신이 루트 탐색 1단계 최대 중첩 상태일 때 한하여 자신에게
@@ -132,7 +132,7 @@ skill_name_1002:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.
-    Reloading Speed ▲ {description_value_03}% for {description_value_04} sec.</color>
+    Reload Speed ▲ {description_value_03}% for {description_value_04} sec.</color>
     ■ Affects all enemies.
     <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.</color>
   ko: |-

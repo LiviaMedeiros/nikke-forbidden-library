@@ -102,7 +102,7 @@ skill_name_1002:
   en: |-
     ■ Affects the enemy with the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
-    ■ Affects the same target when the caster's HP falls below {description_value_02}%.
+    ■ Affects the same target when the skill user's HP falls below {description_value_02}%.
     <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 1기에게

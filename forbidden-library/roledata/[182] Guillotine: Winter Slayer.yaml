@@ -92,10 +92,10 @@ skill_name_1003:
     ■ Activates every time EXP stacks {description_value_01}. Affects self.
     <color=#00AEFF>Hero Level Up: Reaches a maximum of Level 11.
     Hero Level Up Reward: Reloads {description_value_02}%.
-    Hero Level Up Reward: Recovers {description_value_03}% of caster's <word_group=10025>final</word_group> Max HP.</color>
+    Hero Level Up Reward: Recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP.</color>
     ■ Activates when Hero levels up. Affects all Water Code allies.
     <color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_04}% * Hero Level continuously.
-    ATK ▲ {description_value_05}% of caster's ATK * Hero Level continuously.</color>
+    ATK ▲ {description_value_05}% of the skill user's ATK * Hero Level continuously.</color>
   ko: |-
     ■ 경험치 {description_value_01} 중첩 마다 자신에게
     <color=#00AEFF>[용사 레벨 업 : 최대 11레벨까지 성장]

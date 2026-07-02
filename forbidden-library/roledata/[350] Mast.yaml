@@ -60,7 +60,7 @@ character_shot_description_localkey_smg_down:
   ja: 海賊の眼差し
 23502_description:
   en: |-
-    ■ Activates at the start of battle. Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except caster).
+    ■ Activates at the start of battle. Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except the skill user).
     <color=#00AEFF>Critical Rate ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ 전투 시작 시 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
@@ -80,8 +80,8 @@ skill_name_1003:
 23501_description_1:
   en: |-
     ■ Activates after landing {description_value_01} critical hit(s) with normal attacks. Affects the target(s).
-    <color=#00AEFF>Sea Breeze: DEF ▼ {description_value_02}% of the caster's DEF, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
-    ■ Activates when HP falls below {description_value_05}%. Affects self and {description_value_06} other ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except caster).
+    <color=#00AEFF>Sea Breeze: DEF ▼ {description_value_02}% of the skill user's DEF, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+    ■ Activates when HP falls below {description_value_05}%. Affects self and {description_value_06} other ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except the skill user).
     <color=#00AEFF>Critical Damage ▲ {description_value_07}% continuously.</color>
   ko: |-
     ■ 일반 공격 크리티컬 {description_value_01}회 명중 시 대상에게
@@ -105,8 +105,8 @@ skill_name_1002:
   ja: 嵐を突っ切って！
 13503_description:
   en: |-
-    ■ Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except caster).
-    <color=#00AEFF>Max HP ▲ {description_value_02}% of the caster's Max HP without restoring HP, lasts for {description_value_03} sec.
+    ■ Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except the skill user).
+    <color=#00AEFF>Max HP ▲ {description_value_02}% of the skill user's Max HP without restoring HP, lasts for {description_value_03} sec.
     Critical Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
     ■ Affects the target(s) afflicted with Sea Breeze.
     <color=#00AEFF>Storm: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10026>Mirrors the stack count</word_group> of Sea Breeze every 1 sec for {description_value_07} sec.</color>

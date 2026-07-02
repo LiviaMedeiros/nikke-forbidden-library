@@ -66,7 +66,7 @@ character_shot_description_localkey_sr_up:
     ■ Activates when attacking with Full Charge during Full Burst.
     <color=#00AEFF>Function: Strengthens allies by expending ammo from the <word_group=10098>ammo pouch</word_group>.
     Effect 1: Affects self. <word_group=10099>Expends ammo</word_group> from the <word_group=10098>ammo pouch</word_group>. Amount: {description_value_01} round(s).
-    Effect 2: Affects all allies. ATK ▲ {description_value_02}% of the caster's ATK for {description_value_03} sec continuously.
+    Effect 2: Affects all allies. ATK ▲ {description_value_02}% of the skill user's ATK for {description_value_03} sec continuously.
     Effect 3: Affects all allies. Charge Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
     ■ Activates after landing {description_value_06} normal attack(s) during Full Burst.
     <color=#00AEFF>Function: Expends ammo from the <word_group=10098>ammo pouch</word_group> to deal additional damage to the enemy.
@@ -121,8 +121,8 @@ skill_name_1003:
   en: |-
     ■ Activates at the start of battle and when entering Burst Stage 2.
     <color=#00AEFF>Bullet Snatch
-    Function: Steals the enemy's bullets and keeps them in her <word_group=10098>ammo pouch</word_group>.
-    Effect 1: Affects all enemies. Removes {description_value_01}% of bullets.
+    Function: Steals the enemy's ammo and keeps it in her <word_group=10098>ammo pouch</word_group>.
+    Effect 1: Affects all enemies. Removes {description_value_01}% of ammo.
     Effect 2: Affects self. Fills the <word_group=10098>ammo pouch</word_group> with {description_value_02} round(s), up to a maximum of {description_value_03}. This effect is continuous and cannot be removed.</color>
     ■ Activates when attacking with Full Charge while not in Full Burst. Affects self.
     <color=#00AEFF>Function: Strengthens self by expending ammo from the <word_group=10098>ammo pouch</word_group>.

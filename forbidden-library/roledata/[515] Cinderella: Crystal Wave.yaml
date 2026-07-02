@@ -1,0 +1,565 @@
+---
+515_name:
+  en: 'Cinderella: Crystal Wave'
+  ko: '신데렐라 : 크리스탈 웨이브'
+  ja: シンデレラ：クリスタルウェーブ
+c515_description:
+  en: Cinderella in a swimsuit Grave prepared for her. With a new swimsuit that showcases
+    her beauty and her very own private changing room, she seems immensely satisfied.
+  ko: |-
+    그레이브가 준비해 준 수영복을 입은 신데렐라.
+    자신의 아름다움이 돋보일 수 있는 수영복에, 전용 탈의실까지.
+    덕분에 매우 만족스러운 모양이다.
+  ja: |-
+    グレイブが用意した水着を着たシンデレラ。
+    自分の美しさが際立つ水着に、専用の更衣室まで
+    用意してもらい、とても満足している。
+515_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_515:
+  en: 'Cinderella: Crystal Wave''s Spare Body'
+  ko: '신데렐라 : 크리스탈 웨이브 스페어 바디'
+  ja: シンデレラ：クリスタルウェーブのスペアボディ
+piece:
+  en: |-
+    Can be used for Nikkes' Limit Breaks.
+    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+25152_name:
+  en: Mode Swap
+  ko: 모드 스왑
+  ja: モードスワップ
+25152_description:
+  en: |-
+    ■ Activates at the start of battle and when using Burst Skill. Affects self.
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_02}% continuously.</color>
+    ■ Activates when Snipe Mode takes effect. Affects self.
+    <color=#00AEFF>Destroy: <word_group=10011>Damage to Parts</word_group> ▲ {description_value_03}% continuously.
+    Removes Pinpoint.</color>
+    ■ Activates at the start of battle and when Snipe Mode is removed. Affects self.
+    <color=#00AEFF>Pinpoint: Damage dealt when attacking core ▲ {description_value_04}% continuously.
+    Removes Destroy.</color>
+    ■ Activates when entering Full Burst after this unit uses her Burst Skill.
+    <color=#00AEFF>Effect varies according to this unit's current mode. Only one effect is applied.</color>
+    Activates while in Snipe Mode. Affects all enemies (including parts).
+    <color=#00AEFF>Effect 1: Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    Activates while not in Snipe Mode. Affects all enemies with activated cores.
+    <color=#00AEFF>Effect 1: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as <word_group=10104>core strike damage</word_group>.</color>
+  ko: |-
+    ■ 전투 시작 시와 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[<word_group=10024>디코이</word_group> : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 분신] [지속]</color>
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[공격력 {description_value_02}% ▲] [지속]</color>
+    ■ 저격모드 적용 시 자신에게
+    <color=#00AEFF>[디스트로이 : <word_group=10011>파츠 대미지</word_group> {description_value_03}% ▲] [지속]
+    [핀 포인트 해제]</color>
+    ■ 전투 시작 시와 저격모드 해제 시 자신에게
+    <color=#00AEFF>[핀 포인트 : 코어 대미지 {description_value_04}% ▲] [지속]
+    [디스트로이 해제]</color>
+    ■ 풀 버스트 타임 시작 시 직전에 자신이 버스트 스킬을 사용했다면
+    <color=#00AEFF>[모드 적용 별 효과] [해당되는 효과만 적용]</color>
+    자신이 저격 모드라면 적 전체에게 (파츠 포함)
+    <color=#00AEFF>효과 1 : [<word_group=10025>최종</word_group> 공격력 {description_value_05}% 대미지]</color>
+    자신이 저격 모드가 아니라면 코어가 활성화된 적 전체에게
+    <color=#00AEFF>효과 1 : [<word_group=10025>최종</word_group> 공격력 {description_value_06}% <word_group=10104>코어 명중 대미지</word_group>]</color>
+  ja: |-
+    ■戦闘開始時およびバーストスキル使用時、自分に
+    <color=#00AEFF>「<word_group=10024>デコイ</word_group>：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の分身」「持続」</color>
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「攻撃力{description_value_02}％▲」「持続」</color>
+    ■狙撃モード適用時、自分に
+    <color=#00AEFF>「デストロイ：<word_group=10011>パーツダメージ</word_group>{description_value_03}％▲」「持続」
+    「ピンポイント解除」</color>
+    ■戦闘開始時および狙撃モード解除時、自分に
+    <color=#00AEFF>「ピンポイント：コアダメージ{description_value_04}％▲」「持続」
+    「デストロイ解除」</color>
+    ■フルバーストタイムが発動した時、直前に自分がバーストスキルを使用していれば
+    <color=#00AEFF>「モード適用別効果」「該当効果のみ適用」</color>
+    自分が狙撃モードなら敵全体に（パーツ含む）
+    <color=#00AEFF>効果1：「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のダメージ」</color>
+    自分が狙撃モードでなければコアが活性化している敵全体に
+    <color=#00AEFF>効果1：「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％の<word_group=10104>コア命中ダメージ</word_group>」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+25151_name:
+  en: Beauty-Full
+  ko: 뷰티-풀
+  ja: ビューティー・フル
+25151_description:
+  en: |-
+    ■ Activates upon reloading to max ammunition while in the Preparation for Change state. Affects self.
+    <color=#00AEFF>Changes the weapon in use: Snipe Mode
+    Charge Time: 1 sec
+    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    Full Charge Damage: 250% of damage
+    Max Ammunition Capacity: 15 rounds (max ammunition effect refreshes after reloading)
+    Additional Effect 1: Gains Pierce.
+    Additional Effect 2: Activates when performing a Full Charge attack. <word_group=10099>Expends ammo</word_group>. Amount: {description_value_02} round(s).
+    Additional Effect 3: Charge time is fixed at 1 sec.
+    Removal Condition: Reloading to max ammunition while in the Preparation for Change state.</color>
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Beauty-Full: Attack Damage ▲ {description_value_03}% continuously.</color>
+    ■ Activates upon reloading to max ammunition. Affects self.
+    <color=#00AEFF>Preparation for Change: Reload time is fixed at 3 sec for {description_value_04} sec. Removed upon firing the last bullet.</color>
+    ■ Activates every {description_value_10} sec. Affects the enemy unit nearest to the crosshair.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as damage.</color>
+    ■ Activates each time <word_group=10078>total ammo consumed by allies</word_group> reaches {description_value_08}. Affects all allies.
+    <color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by {description_value_09}%.</color>
+  ko: |-
+    ■ 최대 장탄 재장전 완료 시 자신이 변경 준비 상태라면 자신에게
+    <color=#00AEFF>[사용 무기 변경 : 저격 모드] :
+    차지 시간 : 1초
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
+    풀 차지 대미지 : 250% 대미지
+    최대 장탄 수 : 15발 (재장전 완료 시 최대 장탄 수 효과 갱신)
+    추가 효과1 : 관통 특화
+    추가 효과2 : 풀 차지 공격 시 <word_group=10099>탄환 소모</word_group> {description_value_02}발
+    추가 효과3 : 차지 시간 1초로 고정
+    해제 조건 : 변경 준비 상태에서 최대 장탄 재장전 완료</color>
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[뷰티-풀: 공격 대미지 {description_value_03}% ▲] [지속]</color>
+    ■ 최대 장탄 재장전 완료 시 자신에게
+    <color=#00AEFF>[변경 준비 : 재장전 시간 3초로 고정] [{description_value_04}초 유지] [마지막 탄환 공격 시 제거]</color>
+    ■ {description_value_10}초 마다 조준선에 가장 가까운 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 대미지]</color>
+    ■ <word_group=10078>아군이 소비한 탄의 총합</word_group>이 {description_value_08}발이 될 때마다 아군 전체에게
+    <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_09}%] </color>
+  ja: |-
+    ■最大弾数のリロードが完了した時、
+    自分が変更準備状態なら、自分に
+    <color=#00AEFF>「使用武器変更：狙撃モード」：
+    チャージ時間：1秒
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+    フルチャージダメージ：250％
+    最大装弾数：15発（リロード完了時、最大装弾数の効果更新）
+    追加効果1：貫通特化
+    追加効果2：フルチャージして攻撃した時、<word_group=10099>弾薬消費</word_group>{description_value_02}発
+    追加効果3：チャージ時間1秒に固定
+    解除条件：変更準備状態で最大弾数のリロードを完了した時</color>
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「ビューティー・フル：攻撃ダメージ{description_value_03}％▲」「持続」</color>
+    ■最大弾数のリロードが完了した時、自分に
+    <color=#00AEFF>「変更準備：リロード時間を3秒に固定」「{description_value_04}秒間維持」「最後の弾丸で攻撃時解除」</color>
+    ■{description_value_10}秒ごとに照準線に最も近い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％のダメージ」</color>
+    ■<word_group=10078>味方が消費した弾の合計</word_group>が{description_value_08}発ごとに、味方全体に
+    <color=#00AEFF>「<word_group=10015>バーストゲージのチャージ</word_group>{description_value_09}％」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+15153_name:
+  en: Glass Slippers Full Contact W
+  ko: 유리 구두 풀 컨텍트 W
+  ja: ガラスの靴・フルコンタクトW
+15153_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.
+    ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
+    ■ Affects the enemy with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+  ko: "■ 자신에게 \n<color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초
+    유지]\n[공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>\n■ <word_group=10025>최종</word_group>
+    공격력이 가장 높은 적 1기에게\n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}%
+    버스트 스킬 대미지]</color>"
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
+    「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に
+    <color=#00AEFF>
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％のバーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+511_name:
+  en: Cinderella
+  ko: 신데렐라
+  ja: シンデレラ
+514_name:
+  en: Grave
+  ko: 그레이브
+  ja: グレイブ
+513_name:
+  en: Little Mermaid
+  ko: 리틀 머메이드
+  ja: リトルマーメイド
+c515_Lobby_Touch_1:
+  en: Grave prepared this swimsuit especially for me. What do you think? Isn't it
+    beautiful?
+  ko: |-
+    그레이브가 날 위해 준비해 준 수영복이야.
+    어때, 아름답지 않아?
+  ja: |-
+    グレイブが私に用意してくれた水着よ。
+    どう？美しいでしょう？
+c515_Lobby_Touch_2:
+  en: I knew it. I just look good in everything. You agree, don't you, Prince?
+  ko: |-
+    역시 난 뭘 입어도 잘 어울린다니까.
+    왕자님도 그렇게 생각하지?
+  ja: |-
+    やっぱり、私は何を着ても似合うわ。
+    王子様もそう思うでしょう？
+c515_Lobby_Touch_3:
+  en: It's so sparkly. Absolutely perfect.
+  ko: 반짝반짝하네, 완벽해.
+  ja: 輝いているわ。完璧ね。
+c515_Lobby_Touch_Love_1:
+  en: Prince, could you hold this for me while I change into my swimsuit?
+  ko: 왕자님, 내가 수영복을 갈아입는 동안 이쪽을 좀 잡아주겠어?
+  ja: 王子様。着替える間、ここを押さえていてくれる？
+c515_Lobby_Touch_Love_2:
+  en: Which do you like better? The white or the black?
+  ko: |-
+    왕자님은 어느 쪽이 더 마음에 들어?
+    흰 쪽? 검은 쪽?
+  ja: |-
+    王子様はどちらが好み？
+    白かしら？黒かしら？
+c515_Lobby_Touch_Love_3:
+  en: I'm so glad I got to come to the beach with you, Prince.
+  ko: 왕자님이랑 이렇게 함께 바다에 올 수 있어서 기쁜걸?
+  ja: 王子様と海に来られて嬉しいわ。
+c515_Lobby_Stay_1:
+  en: Don't you think you've kept me waiting a little too long in this heat?
+  ko: 이렇게 더운 날에 너무 오래 기다리게 하는 거 아냐?
+  ja: 暑いのに、待たせすぎではないかしら？
+c515_Lobby_Stay_Love_1:
+  en: Don't worry about me and go on ahead. I'll try on some other swimsuits while
+    you're gone.
+  ko: |-
+    신경 쓰지 말고 다녀와.
+    그동안 다른 수영복으로도 갈아입어 봐야겠네.
+  ja: |-
+    気にせず行ってきて。
+    その間に、他の水着も試しておくわ。
+c515_Outpost_Touch_1:
+  en: I heard there's a place called a swimming pool. Take me to see it, Prince.
+  ko: |-
+    수영장이라는 곳이 있다고 들었어.
+    거긴 어떤 곳인지 구경시켜줘, 왕자님.
+  ja: |-
+    プールがあると聞いたわ。
+    案内してくれる？王子様。
+c515_Outpost_Touch_2:
+  en: Look, Prince. Isn't my reflection in the mirror absolutely beautiful?
+  ko: |-
+    저기 봐, 왕자님.
+    거울에 비친 내 모습, 너무 아름답지 않아?
+  ja: |-
+    見て、王子様。
+    鏡に映った私、 とても美しいでしょう？
+c515_Outpost_Touch_3:
+  en: I really hope Grave wears a swimsuit next time too.
+  ko: 다음엔 그레이브도 꼭 수영복을 입었으면 좋겠어.
+  ja: 次はグレイブも水着を着るべきね。
+c515_Gacha_Get_1:
+  en: I'm glowing beneath the radiant sunlight. I truly am beautiful.
+  ko: |-
+    빛나는 햇살 아래에서 빛나는 나.
+    정말 아름다워.
+  ja: |-
+    まぶしい日差しの下で、輝く私。
+    本当に美しいわ。
+c515_Reinforce_1:
+  en: I feel lighter somehow.
+  ko: 몸이 가벼워진 기분이야.
+  ja: 体が軽くなった気がするわ。
+c515_Reinforce_2:
+  en: Glass Slippers are gleaming.
+  ko: 유리구두가 빛나고 있어.
+  ja: ガラスの靴も輝いているわ。
+c515_Reinforce_3:
+  en: If I get any more beautiful here, it could be a problem.
+  ko: 여기서 더 아름다워지면 곤란한데.
+  ja: これ以上美しくなったら困ってしまうわ。
+c515_Gift_1:
+  en: When did you have time to prepare this gift?
+  ko: 이런 선물은 언제 다 준비한 거야?
+  ja: こんな贈り物、いつの間に用意していたの？
+c515_Gift_2:
+  en: Did you prepare this for me? How thoughtful of you.
+  ko: 날 위해 준비한 거구나. 상냥해라.
+  ja: 私のために手に入れてくれたのね。優しい人。
+c515_Gift_3:
+  en: You always give me such beautiful gifts, Prince. Thank you.
+  ko: 왕자님이 주는 선물은 늘 아름답네, 고마워.
+  ja: 王子様のプレゼントはいつも美しいわ、ありがとう。
+c515_Attractive_Up_1:
+  en: You're beautiful yourself, Prince.
+  ko: 왕자님, 아름다워.
+  ja: 王子様、美しいわ。
+c515_Attractive_Up_2:
+  en: You know, I really enjoy being with you, Prince.
+  ko: 그거 알아? 왕자님이랑 있으면 즐거워.
+  ja: 知っていたかしら？王子様と一緒にいると、楽しいの。
+c515_Attractive_Up_3:
+  en: I could get used to spending time with you, Prince. That could be a problem.
+  ko: |-
+    왕자님이랑 함께 있는 시간에 익숙해져 버릴 것 같아.
+    큰일이네.
+  ja: |-
+    一緒にいることが当たり前になってしまいそう。
+    困ったわね。
+c515_Party_Deploy_1:
+  en: Promise we'll be together even by the beach, Prince.
+  ko: 바다에서도 함께 하자, 왕자님.
+  ja: 海でも一緒にいましょう、王子様。
+c515_Field_Touch_1:
+  en: Yes? What's wrong?
+  ko: 응, 왜 그래?
+  ja: あら、呼ばれた？
+c515_Field_Go_1:
+  en: Time to move with grace.
+  ko: 아름답게 움직여볼까?
+  ja: 美しく動きましょう？
+c515_Battle_Enter_1:
+  en: Let's finish this quickly.
+  ko: 빠르게 끝내자.
+  ja: 早く終わらせましょう。
+c515_Battle_Ready_1:
+  en: I won't let anyone ruin our long-awaited vacation.
+  ko: 모처럼의 휴가를 방해받을 순 없지.
+  ja: せっかくのバカンスを邪魔されたくないわ。
+c515_Battle_Ready_2:
+  en: Don't worry, Prince. I'll protect you.
+  ko: 걱정 마, 왕자님은 내가 지켜줄게.
+  ja: 心配しないで。王子様は私が守るから。
+c515_Battle_Ready_3:
+  en: Let's wrap this up quickly and relax together.
+  ko: 얼른 마무리하고 같이 쉬자.
+  ja: 早く終わらせて休みましょう。
+c515_Reload_1:
+  en: Glass Slippers is sparkling today too.
+  ko: 오늘도 유리구두는 반짝이네.
+  ja: ガラスの靴は今日も輝いているわ。
+c515_Reload_2:
+  en: I got all dirty. I'll have to change later.
+  ko: 지저분해졌네, 이따가 갈아입어야겠어.
+  ja: 汚れてしまったわ…あとで着替えないと。
+c515_Reload_3:
+  en: Just a moment. Let me brush off this sand.
+  ko: 잠시, 모래 좀 털게.
+  ja: 待って、砂を払うわ。
+c515_Ult_Skill_Ready_1:
+  en: Shall we go, Prince?
+  ko: 가볼까, 왕자님?
+  ja: 行きましょう、王子様。
+c515_Ult_Skill_1:
+  en: Beautiful... Me, you, and the sea foam.
+  ko: 너무… 아름다워. 물거품도, 나도, 왕자님도.
+  ja: ああ…美しいわ。水泡も、私も、王子様も。
+c515_FullBurst_1:
+  en: I'm going all out.
+  ko: 이대로 다 쏟아내는 거야.
+  ja: このまま全力で行くわ。
+c515_Kill_Monster_1:
+  en: Don't get in my way.
+  ko: 방해하지 마.
+  ja: 邪魔をしないで。
+c515_Kill_Monster_2:
+  en: Be gone.
+  ko: 사라져.
+  ja: 消えて。
+c515_Kill_Monster_3:
+  en: How annoying.
+  ko: 성가셔.
+  ja: 目障りね。
+c515_Damage_1:
+  en: Ugh.
+  ko: 윽.
+  ja: うっ…
+c515_Damage_2:
+  en: Ngh.
+  ko: 읏.
+  ja: ああっ。
+c515_Damage_3:
+  en: What the...!
+  ko: 뭐야…!
+  ja: なに…！？
+c515_Die_1:
+  en: I didn't want anyone ruining our fun...
+  ko: 즐거운 시간을 방해받고 싶지 않았는데….
+  ja: 楽しい時間を邪魔されたくなかったわ…
+c515_Win_1:
+  en: Come on, let's go enjoy the rest of our vacation, Prince.
+  ko: 자, 남은 휴가를 즐기러 가자. 왕자님.
+  ja: さあ、残りのバカンスを楽しみましょう、王子様。
+515_cv_ja:
+  en: 'CV: Aoi Yūki'
+  ko: 'CV : 유우키 아오이'
+  ja: CV：悠木碧
+515_cv_ko:
+  en: 'CV: Jeon Hae-ri'
+  ko: 'CV : 전해리'
+  ja: CV：ジョン・ヘリ
+515_cv_en:
+  en: 'CV: Kaitlyn Robrock'
+  ko: 'CV : 케이틀린 로브록'
+  ja: CV：Kaitlyn Robrock

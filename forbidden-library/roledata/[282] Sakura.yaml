@@ -105,8 +105,8 @@ skill_name_1002:
   en: |-
     ■ Affects all allies.
     <color=#00AEFF><word_group=10008>Damage dealt by Wind Code enemies</word_group> ▼ {description_value_01}% for {description_value_02} sec. Activates {description_value_03} time(s) per battle.
-    ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
-    ■ Affects all allies when Cherry Blossom Tea is fully stacked.
+    ATK ▲ {description_value_04}% of the skill user's ATK for {description_value_05} sec.</color>
+    ■ Activates when Cherry Blossom Tea is at max stacks. Affects all allies.
     <color=#00AEFF><word_group=10000>Damage to Interruption Parts</word_group> ▲ {description_value_06}% for {description_value_07} sec.</color>
   ko: |-
     ■ 아군 전체에게

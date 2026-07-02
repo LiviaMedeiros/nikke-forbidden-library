@@ -59,7 +59,7 @@ character_shot_description_localkey_rl_up:
 20912_description:
   en: |-
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF>Effect changes according to the number of activation times. <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    <color=#00AEFF>Effects vary according to the number of times used. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:
     Once: Survival Instinct 1 - ATK ▲ {description_value_01}% for {description_value_02} sec.
     Twice: Survival Instinct 2 - Critical Damage ▲ {description_value_03}% for {description_value_04} sec.
     Three times: Survival Instinct 3 - Critical Rate ▲ {description_value_05}% for {description_value_06} sec.</color>
@@ -89,7 +89,7 @@ skill_name_1003:
   ja: 想像の実現
 20911_description_1:
   en: |-
-    ■ Activates when attacking with Full Charge. Affects self.
+    ■ Activates when performing a Full Charge attack. Affects self.
     <color=#00AEFF>Explosion Radius ▲ {description_value_01}% for {description_value_02} sec.</color>
   ko: |-
     ■ 풀 차지 공격 시 자신에게
@@ -108,14 +108,14 @@ skill_name_1002:
 10913_description_1:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Takes out two Missile Containers, dealing {description_value_01}% of <word_group=10025>final</word_group> ATK as damage to the enemy with the lowest remaining HP every 1 sec for 18 sec.</color>
+    <color=#00AEFF>Deploys two Missile Containers that deal {description_value_01}% of <word_group=10025>final</word_group> ATK as damage to the enemy with the lowest remaining HP every 1 sec for 18 sec.</color>
     ■ Affects all enemies.
-    <color=#00AEFF>Additional effects triggered according to the Survival Instinct's phase. <word_group=10028>Previous effects trigger repeatedly</word_group>:
+    <color=#00AEFF>Effects vary for each stage of Survival Instinct. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:
     Survival Instinct 1: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.
     Survival Instinct 2: Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.
     Survival Instinct 3: Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
     ■ Affects all allies.
-    <color=#00AEFF>Full Burst Time ▼ 5 sec.</color>
+    <color=#00AEFF>Full Burst Duration ▼ 5 sec.</color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[미사일 컨테이너 2기 호출] :

@@ -60,14 +60,14 @@ character_shot_description_localkey_smg_down:
   en: |-
     ■ Activates when the enemy appears. Affects the target.
     <color=#00AEFF>Bubble: Damage Taken ▲ {description_value_01}% continuously.</color>
-    ■ Activates after landing {description_value_02} normal attack(s). Affects the target if the target is in Bubble status.
+    ■ Activates after landing {description_value_02} normal attacks. Affects the target if the target is in Bubble status.
     <color=#00AEFF>Explosive Bubble: Damage Taken ▲ {description_value_01}% continuously.
     Stuns for {description_value_03} sec.
     Removes Bubble.</color>
-    ■ Activates every {description_value_04} sec only during Full Burst. Affects random enemy unit(s).
-    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_06} time(s).</color>
-    ■ Activates each time the <word_group=10078>total ammo expended by allies</word_group> reaches {description_value_07}. Affects random enemy unit(s).
-    <color=#00AEFF>Bubble Barrage: Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_09} time(s).</color>
+    ■ Activates every {description_value_04} sec only during Full Burst. Affects random enemy units.
+    <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_06} times.</color>
+    ■ Activates each time the <word_group=10078>total ammo expended by allies</word_group> reaches {description_value_07}. Affects random enemy units.
+    <color=#00AEFF>Bubble Barrage: Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_09} times.</color>
   ko: |-
     ■ 적 등장 시 대상에게
     <color=#00AEFF>[거품 : 받는 대미지 {description_value_01}% ▲] [지속]</color>
@@ -149,7 +149,7 @@ skill_name_1002:
     <color=#00AEFF>Attack damage ▲ {description_value_01}% for {description_value_02} sec.
     Reloads {description_value_03}% magazine(s).</color>
     ■ Affects self.
-    <color=#00AEFF>ATK ▲ {description_value_04}% of caster's ATK for {description_value_05} sec.</color>
+    <color=#00AEFF>ATK ▲ {description_value_04}% of the skill user's ATK for {description_value_05} sec.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]
@@ -309,6 +309,10 @@ material_characterskill_a_ssr_desc:
   en: Grave
   ko: 그레이브
   ja: グレイブ
+515_name:
+  en: 'Cinderella: Crystal Wave'
+  ko: '신데렐라 : 크리스탈 웨이브'
+  ja: シンデレラ：クリスタルウェーブ
 c513_Lobby_Touch_1:
   en: What should I create with my bubbles today...
   ko: "[오늘은 물거품으로 뭘 만들어 볼까….]"
@@ -708,6 +712,188 @@ c513_01_Win_1:
   ja: |-
     「波が穏やかになったね。
     次の物語に向かって、泳いでいこう」
+c513_03_Lobby_Touch_1:
+  en: Look at the ocean. It's breathtaking.
+  ko: "[바다 좀 봐. 너무 예뻐.]"
+  ja: "「見て。海がすごくきれい」"
+c513_03_Lobby_Touch_2:
+  en: Mori picked out this swimsuit for me. What do you think?
+  ko: "[모리가 골라준 수영복이야. 어때?]"
+  ja: "「モリーが選んでくれた水着なの。どうかな？」"
+c513_03_Lobby_Touch_3:
+  en: The sound of the waves... it's so invigorating...
+  ko: "[파도 소리… 시원해….]"
+  ja: "「波の音…涼しい感じ…」"
+c513_03_Lobby_Touch_Love_1:
+  en: Could we talk just a little longer, Prince?
+  ko: "[왕자님, 우리 조금만 더 이야기 나눌까…?]"
+  ja: "「ねえ、王子様。もう少しだけ、おしゃべりしない…？」"
+c513_03_Lobby_Touch_Love_2:
+  en: P-Prince, what are you staring at? Ahh, I'm so embarrassed...
+  ko: "[와, 왕자님. 어디 보는거야… 으아… 부끄러워.]"
+  ja: "「お、王子様。どこを見てるの…？うう…恥ずかしい…」"
+c513_03_Lobby_Touch_Love_3:
+  en: I'm glad we came to the beach. I hope we can stay here together like this, hehe.
+  ko: "[왕자님이랑 바다 오니까 좋다. 계속 같이 있으면 좋겠어… 헤헤.]"
+  ja: "「王子様と海に来られて嬉しい。ずっと一緒にいたいな…えへへ」"
+c513_03_Lobby_Stay_1:
+  en: It's okay... I'm used to being alone.
+  ko: "[…혼자 있는 건 익숙하니까 괜찮아.]"
+  ja: "「…一人には慣れてるから、大丈夫」"
+c513_03_Lobby_Stay_Love_1:
+  en: Take your time, Prince. I'll just spend some time playing with Tia and Naga.
+  ko: |-
+    [왕자님, 천천히 와도 돼.
+    나는 티아와 나가랑 놀고 있으면 되니까.]
+  ja: |-
+    「王子様、ゆっくりで大丈夫。
+    私はティアとナガと遊んでるね」
+c513_03_Outpost_Touch_1:
+  en: I heard there's something called a swimming pool around here. Can I go take
+    a look too?
+  ko: "[여기엔 수영장이라는 곳이 있다던데, 나도 가볼 수 있을까?]"
+  ja: "「ここにはプールがあるって 聞いたの。私も行っていい？」"
+c513_03_Outpost_Touch_2:
+  en: It's a shame Tia and Naga's school doesn't have a campus here.
+  ko: "[티아랑 나가가 다니는 학교는 없구나. 아쉬워라.]"
+  ja: "「ティアとナガの学校、 ここにはないんだね、残念」"
+c513_03_Outpost_Touch_3:
+  en: There are so many interesting things here. I wish Hansel and Gretel could have
+    come too.
+  ko: "[신기한 것도 많고 너무 재밌다. 헨젤과 그레텔도 왔으면 좋아했을텐데….]"
+  ja: "「不思議なものがたくさんあって …楽しい。 ヘンゼルとグレーテルも 喜びそう…」"
+c513_03_Gacha_Get_1:
+  en: It's my first time wearing a swimsuit, so I'm a little self-conscious... But
+    I'm happy, as long as you like it, Prince. Hehe.
+  ko: |-
+    [수영복은 처음이라 조금 부끄럽지만
+    왕자님이 좋아해준다면 기쁠 것 같아. 헤헤.]
+  ja: |-
+    「水着は初めてだからちょっと恥ずかしいけど…
+    王子様が喜んでくれたら嬉しいな。えへへ」
+c513_03_Reinforce_1:
+  en: My bubbles have become stronger!
+  ko: "[물거품이 더 강해졌어.]"
+  ja: "「水泡がもっと強くなったよ」"
+c513_03_Reinforce_2:
+  en: I feel I can control any whirlpool that comes my way.
+  ko: "[어떤 소용돌이가 몰아쳐도, 다 제어할 수 있을 것 같아.]"
+  ja: "「どんな大きな渦でも、コントロールできそう」"
+c513_03_Reinforce_3:
+  en: I can feel the power welling up inside me.
+  ko: "[힘이 잔뜩 들어오는 게 느껴져.]"
+  ja: "「力が…あふれそう！」"
+c513_03_Gift_1:
+  en: It's a lovely gift, but I'm even more touched by the thought you put into it.
+  ko: "[선물도 좋지만… 나를 위해 준비한 왕자님의 마음이 더 감동이야.]"
+  ja: |-
+    「プレゼントも嬉しいけど…
+    それ以上に、王子様の気持ちが嬉しいの」
+c513_03_Gift_2:
+  en: Wow... I'm not sure I deserve something this nice... but since it's from you,
+    I'll treasure it.
+  ko: "[와아…! 이렇게 좋은 걸 받아도 될 지 모르겠지만… 왕자님이 준거니까 잘 쓸게.]"
+  ja: "「わあ…！こんなに素敵なもの、いいのかな…王子様がくれたものだから、大切に使うね」"
+c513_03_Gift_3:
+  en: Is this for me? It's so pretty! I'll keep it safe in my bubbles forever.
+  ko: "[나 주는거야? 예쁘다~ 물거품에 오래오래 간직할게.]"
+  ja: "「私に？きれい…大切に水泡の中へしまっておくね」"
+c513_03_Attractive_Up_1:
+  en: M-my face is not red from embarrassment. It's just really hot out. Ah woo.
+  ko: "[부, 부끄러워서 빨개진 거 아니야. 여름이라서 그래. 아, 아우.]"
+  ja: "「は、恥ずかしいんじゃなくて、夏だから…あ、あう」"
+c513_03_Attractive_Up_2:
+  en: So soft and sweet... I feel like I've been wrapped up in one of my bubbles.
+  ko: "[부드럽고 달콤해… 물거품 속에 들어간 것만 같은 기분이야.]"
+  ja: "「やわらかくて甘い…水泡の中みたい」"
+c513_03_Attractive_Up_3:
+  en: I don't feel lonely anymore with you by my side, Prince.
+  ko: "[왕자님이 옆에 있으니, 더 이상 외롭지 않아.]"
+  ja: "「王子様が隣にいるから…もう寂しくない」"
+c513_03_Party_Deploy_1:
+  en: I'm ready.
+  ko: "[난 준비됐어.]"
+  ja: "「準備できたよ」"
+c513_03_Field_Touch_1:
+  en: I'm listening.
+  ko: "[응, 듣고 있어.]"
+  ja: "「うん、聞こえてる」"
+c513_03_Field_Go_1:
+  en: Ah woo... It's so hot out.
+  ko: "[우… 덥다.]"
+  ja: "「うぅ…暑い」"
+c513_03_Battle_Enter_1:
+  en: Let's quickly wrap this up and go play in the water.
+  ko: "[얼른 끝내고 물놀이 하러 가자.]"
+  ja: "「早く終わらせて、水遊びしたいな」"
+c513_03_Battle_Ready_1:
+  en: Hehe. Shall we?
+  ko: "[헤헤. 가볼까?]"
+  ja: "「えへへ。行くよ？」"
+c513_03_Battle_Ready_2:
+  en: I'm ready. Let's go.
+  ko: "[준비 됐어, 가보자.]"
+  ja: "「準備できたよ。行こう」"
+c513_03_Battle_Ready_3:
+  en: We can do this, because we're together.
+  ko: "[함께니까 해낼 수 있을거야.]"
+  ja: "「一緒だから、大丈夫」"
+c513_03_Reload_1:
+  en: It's so round.
+  ko: "[동글동글~]"
+  ja: "「ま～るく、ま～るく」"
+c513_03_Reload_2:
+  en: Let's keep going.
+  ko: "[계속 해보자.]"
+  ja: "「この調子」"
+c513_03_Reload_3:
+  en: I'll show you waves churning up bubbles.
+  ko: "[파도치는 물거품을 보여줄게.]"
+  ja: "「波打つ水泡を見せてあげる」"
+c513_03_Ult_Skill_Ready_1:
+  en: Bubbles, at the ready.
+  ko: "[물거품, 준비됐어.]"
+  ja: "「水泡、準備できてるよ」"
+c513_03_Ult_Skill_1:
+  en: Let's go play in the water, Prince. Ah woo...
+  ko: "[왕자님도 물놀이 하러 가자. 아, 아우으….]"
+  ja: "「王子様も水遊びしよう？あ、あうう…」"
+c513_03_FullBurst_1:
+  en: Push through!
+  ko: "[밀어붙여!]"
+  ja: "「行って！」"
+c513_03_Kill_Monster_1:
+  en: Good.
+  ko: "[좋아.]"
+  ja: "「よし」"
+c513_03_Kill_Monster_2:
+  en: It's not over yet.
+  ko: "[아직 끝나지 않았어.]"
+  ja: "「まだ終わってない」"
+c513_03_Kill_Monster_3:
+  en: That did it.
+  ko: "[됐어.]"
+  ja: "「いい感じだね」"
+c513_03_Damage_1:
+  en: Ow...!
+  ko: "[아읏…!]"
+  ja: "「あうっ…！」"
+c513_03_Damage_2:
+  en: Ouch!
+  ko: "[아얏!]"
+  ja: "「いたっ！」"
+c513_03_Damage_3:
+  en: That hurts...
+  ko: "[아파…!]"
+  ja: "「痛い…！」"
+c513_03_Die_1:
+  en: Don't give up... Come on... Let's try again.
+  ko: "[포기하지 마… 다시… 다시 해보자.]"
+  ja: "「諦めないで…もう一度…やりなおすの」"
+c513_03_Win_1:
+  en: Since we won, why don't we go play a little longer? Hehe.
+  ko: "[이겼으니까 조금만 더 놀다 갈까? 헤헤.]"
+  ja: "「勝ったね。王子様、もう少しだけ一緒に遊ぼう？えへへ」"
 513_cv_ja:
   en: 'CV: Yū Shimamura'
   ko: 'CV : 시마무라 유'

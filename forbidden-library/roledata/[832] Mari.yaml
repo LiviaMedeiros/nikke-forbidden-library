@@ -61,8 +61,8 @@ character_shot_description_localkey_sr_up:
 18322_description:
   en: "■ Affects self. \n<color=#00AEFF>Gain Pierce for {description_value_01} sec.</color>\n<color=#00AEFF>ATK
     ▲ {description_value_04}% for {description_value_05} sec.</color>\n■ Affects all
-    allies.\n<color=#00AEFF>ATK ▲ {description_value_02}% of caster's ATK for {description_value_03}
-    sec.</color>"
+    allies.\n<color=#00AEFF>ATK ▲ {description_value_02}% of the skill user's ATK
+    for {description_value_03} sec.</color>"
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[관통 특화] [{description_value_01}초 유지]</color>
@@ -85,9 +85,9 @@ skill_name_1003:
   ja: 一点狙撃
 28321_description:
   en: |-
-    ■ Activates when landing an attack with Full Charge. Affects all allies.
+    ■ Activates when landing a Full Charge attack. Affects all allies.
     <color=#00AEFF><word_group=10054>Damage dealt to Shield</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
-    ■ Activates when hitting the target's core. Affects all allies.
+    ■ Activates when landing an attack on a target's core. Affects all allies.
     <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 풀 차지 공격 시 아군 전체에게

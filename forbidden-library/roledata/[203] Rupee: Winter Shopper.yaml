@@ -53,12 +53,11 @@ character_shot_description_localkey_ar_down:
   ko: VIP 기프트
   ja: VIPギフト
 22032_description:
-  en: "■ Affects all allies. Activates when any ally unit uses Burst Skills. \n<color=#00AEFF>Shopping:
-    DEF ▲ {description_value_01}%, stacks up to {description_value_02} time(s), lasts
-    for {description_value_03} sec.</color>\n■ Affects all allies. Activates when
-    the caster reaches max stacks of Shopping at the end of Full Burst.\n<color=#00AEFF><word_group=10014>Burst
-    Gauge filling speed</word_group> ▲ {description_value_04}% for {description_value_05}
-    sec.</color>"
+  en: |-
+    ■ Activates when an ally uses a Burst Skill. Affects all allies.
+    <color=#00AEFF>Shopping: DEF ▲ {description_value_01}%. Stacks up to {description_value_02} times and lasts for {description_value_03} sec.</color>
+    ■ Activates if Shopping is at max stacks when Full Burst ends. Affects all allies.
+    <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
     ■ 아군이 버스트 스킬 사용 시 아군 전체에게
     <color=#00AEFF>[쇼핑 : 방어력 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>

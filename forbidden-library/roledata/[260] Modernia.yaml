@@ -108,11 +108,11 @@ skill_name_1002:
 12603_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Full Burst Time ▲ 5 sec.</color>
+    <color=#00AEFF>Full Burst Duration ▲ 5 sec.</color>
     ■ Affects self.
     <color=#00AEFF>Unlimited ammunition for {description_value_02} sec.
     Destroy Mode:
-    Extending the line of sight and auto-aim at all enemies within fire range. Stage target will be recognized as a single enemy regardless of its interruption parts.
+    Extends her line of sight and auto-aims at all enemies within range. The stage target is treated as a single enemy regardless of whether it has parts (including interruption parts).
     Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage for {description_value_02} sec.</color>
   ko: |-
     ■ 아군 전체에게

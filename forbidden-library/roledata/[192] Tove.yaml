@@ -58,9 +58,9 @@ character_shot_description_localkey_ar_down:
   ja: 改造成功
 21922_description:
   en: |-
-    ■ Only activates when Temporary Modification is fully stacked. Affects all allies.
+    ■ Only activates when Temporary Modification is at max stacks. Affects all allies.
     <color=#00AEFF>Critical Rate ▲ {description_value_01}% continuously.</color>
-    ■ Only activates when Temporary Modification is fully stacked. Affects all allies with a Shotgun.
+    ■ Only activates when Temporary Modification is at max stacks. Affects all allies with shotguns.
     <color=#00AEFF>Attack Speed ▲ {description_value_02}% continuously.</color>
   ko: |-
     ■ 자신이 임시 개조가 최대 중첩 상태일 때 한하여 아군 전체에게
@@ -114,9 +114,9 @@ skill_name_1002:
 11923_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Miracle of Makeshifts: ATK ▲ {description_value_01}% of caster's ATK. <word_group=10026>Mirrors the stack count</word_group> of Temporary Modification. This effect lasts for {description_value_02} sec.</color>
+    <color=#00AEFF>Miracle of Makeshifts: ATK ▲ {description_value_01}% of the skill user's ATK. <word_group=10026>Mirrors the stack count</word_group> of Temporary Modification. This effect lasts for {description_value_02} sec.</color>
     ■ Affects all allies with a Shotgun.
-    <color=#00AEFF>Miracle of Makeshifts: ATK ▲ {description_value_03}% of caster's ATK. <word_group=10026>Mirrors the stack count</word_group> of Temporary Modification. This effect lasts for {description_value_04} sec.</color>
+    <color=#00AEFF>Miracle of Makeshifts: ATK ▲ {description_value_03}% of the skill user's ATK. <word_group=10026>Mirrors the stack count</word_group> of Temporary Modification. This effect lasts for {description_value_04} sec.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[급조품의 기적 : 시전자 기준 공격력 {description_value_01}% ▲] [임시 개조 <word_group=10026>중첩 복사</word_group>] [{description_value_02}초 유지]</color>

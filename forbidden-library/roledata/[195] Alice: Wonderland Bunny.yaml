@@ -81,7 +81,7 @@ skill_name_1003:
 21951_description:
   en: |-
     ■ Activates after landing {description_value_01} normal attack(s). Affects all allies.
-    <color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group> Max HP as HP.
+    <color=#00AEFF>Recovers {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.
     Carrot Party: <word_group=10000>Damage to Interruption Parts</word_group> ▲{description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
     ■ Activates after {description_value_06} normal attack(s). Affects all Water Code allies.
     <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_07}.</color>
@@ -109,9 +109,9 @@ skill_name_1002:
   en: |-
     ■ Affects all allies.
     <color=#00AEFF><word_group=10002>Re-enters Burst</word_group> Stage 1.
-    Restores {description_value_01}% of caster's <word_group=10025>final</word_group> Max HP as HP.</color>
-    ■ Activates when Carrot Party is fully stacked. Affects all allies.
-    <color=#00AEFF>Potency of HP restored ▲ {description_value_02}% for {description_value_03} sec.</color>
+    Restores {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
+    ■ Activates when Carrot Party is at max stacks. Affects all allies.
+    <color=#00AEFF>Incoming healing ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[<word_group=10002>버스트 재진입</word_group> 1단계]

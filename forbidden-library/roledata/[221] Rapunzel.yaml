@@ -59,8 +59,7 @@ character_shot_description_localkey_rl_up:
 12212_description:
   en: "■ Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
     ATK.\n<color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03}
-    sec. \nPotency of HP restored ▲ {description_value_04}% for {description_value_05}
-    sec.</color>"
+    sec. \nIncoming healing ▲ {description_value_04}% for {description_value_05} sec.</color>"
   ko: |-
     ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
     <color=#00AEFF>[최대 체력 {description_value_02}% ▲] [{description_value_03}초 유지]
@@ -78,9 +77,9 @@ skill_name_1003:
   ko: 세크리파이스
   ja: サクリファイス
 22211_description:
-  en: "■ Activates when attacking with Full Charge. Affects {description_value_01}
+  en: "■ Activates when performing a Full Charge attack. Affects the {description_value_01}
     ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Recovers {description_value_02}%
-    of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>"
+    of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>"
   ko: |-
     ■ 풀 차지 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
@@ -98,7 +97,7 @@ skill_name_1002:
 12213_description_1:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Recovers {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+    <color=#00AEFF>Recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
     ■ Affects {description_value_02} incapacitated ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF>Resurrect with {description_value_03}% HP.</color>
     ■ Activates when HP falls below {description_value_04}%. Affects all enemies.

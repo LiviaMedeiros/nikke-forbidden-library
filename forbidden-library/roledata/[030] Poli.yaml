@@ -55,9 +55,9 @@ character_shot_description_localkey_sg_down:
   ja: ドッグセラピー
 10302_description_1:
   en: "■ Affects self and {description_value_01} ally unit(s) with the lowest remaining
-    HP (except caster). \n<color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03}
-    sec. \n<word_group=10044>Equally shares damage taken</word_group> for {description_value_04}
-    sec.</color>"
+    HP (except the skill user). \n<color=#00AEFF>DEF ▲ {description_value_02}% for
+    {description_value_03} sec. \n<word_group=10044>Equally shares damage taken</word_group>
+    for {description_value_04} sec.</color>"
   ko: |-
     ■ 자신과 자신을 제외한 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]
@@ -96,7 +96,7 @@ skill_name_1002:
 10303_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Creates a shared <word_group=10023>Shield</word_group> equal to {description_value_01}% of the caster's <word_group=10025>final</word_group> Max HP that protects all allies from damage. Lasts for {description_value_02} sec. </color>
+    <color=#00AEFF>Creates a shared <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP that protects all allies from damage. Lasts for {description_value_02} sec. </color>
     ■ Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-

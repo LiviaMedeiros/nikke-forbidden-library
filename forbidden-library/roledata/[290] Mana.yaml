@@ -63,7 +63,7 @@ character_shot_description_localkey_ar_down:
     Removes Metal σ.</color>
     ■ Activates when entering Full Burst. Affects {description_value_06} ally unit(s) with the longest basic Charge Time.
     <color=#00AEFF>Charge Time ▼ {description_value_07} sec for {description_value_08} sec.</color>
-    ■ Activates if the caster has cast Burst Skill before Full Burst ends. Affects self.
+    ■ Activates if the skill user has cast Burst Skill before Full Burst ends. Affects self.
     <color=#00AEFF>Metal σ: <word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_01}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
@@ -100,10 +100,10 @@ skill_name_1003:
   en: "■ Activates at the start of battle. Affects self. \n<color=#00AEFF>Metal γ:
     ATK ▲ {description_value_01}% continuously. Activates once per battle.</color>\n■
     Activates when in Metal γ status after landing 10 normal attacks. Affects all
-    allies.\n<color=#00AEFF>Recovers {description_value_02}% of caster's <word_group=10025>final</word_group>
-    Max HP as HP.</color>\n■ Activates if the caster is in Metal γ status when an
-    ally is out of action. Affects {description_value_03} incapacitated ally unit(s)
-    with the highest <word_group=10025>final</word_group> ATK (except caster).\n<color=#00AEFF>Resurrect
+    allies.\n<color=#00AEFF>Recovers {description_value_02}% of the skill user's <word_group=10025>final</word_group>
+    Max HP as HP.</color>\n■ Activates if the skill user is in Metal γ status when
+    an ally is out of action. Affects {description_value_03} incapacitated ally unit(s)
+    with the highest <word_group=10025>final</word_group> ATK (except the skill user).\n<color=#00AEFF>Resurrect
     with {description_value_04}% HP.</color>\n■ Activates when an ally is out of action.
     Affects self.\n<color=#00AEFF>Removes Metal γ.</color>"
   ko: |-

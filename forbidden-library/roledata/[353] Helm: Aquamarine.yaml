@@ -79,15 +79,14 @@ skill_name_1003:
   ko: 위드 어드마이어
   ja: ウィズアドマイアー
 23531_description:
-  en: "■ Activates after landing {description_value_01} normal attack(s). Affects
-    the target(s). \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
-    ATK as additional damage.</color>\n■ Activates when entering Full Burst. Affects
-    all allies.\n<color=#00AEFF>Effect changes according to the number of activation
-    times. <word_group=10028>Previous effects trigger repeatedly</word_group>:\nOnce:
-    <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03}
-    sec.\nTwice: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_04}
-    sec.\nThree times: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_05}
-    sec.</color>"
+  en: |-
+    ■ Activates after landing {description_value_01} normal attacks. Affects the target.
+    <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+    ■ Activates when entering Full Burst. Affects all allies.
+    <color=#00AEFF>Effects vary according to the number of times entered. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:
+    Once: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.
+    Twice: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_04} sec.
+    Three times: <word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_05} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 대상에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>

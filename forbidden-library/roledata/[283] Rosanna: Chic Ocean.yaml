@@ -82,7 +82,7 @@ skill_name_1003:
     ■ Activates at the start of battle. Affects all allies.
     <color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_01}% for {description_value_02} sec.</color>
     ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies.
-    <color=#00AEFF>ATK ▲ {description_value_03}% of caster's ATK, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+    <color=#00AEFF>ATK ▲ {description_value_03}% of the skill user's ATK, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
   ko: |-
     ■ 전투 시작 시 아군 전체에게
     <color=#00AEFF>[<word_group=10011>파츠 대미지</word_group> {description_value_01}% ▲] [{description_value_02}초 유지]</color>
@@ -289,9 +289,8 @@ c283_Lobby_Touch_3:
   ko: 이왕 바다에 왔으니 즐겨보는 것도 괜찮겠지.
   ja: せっかく海に来たんだから、楽しむのもアリよね。
 c283_Lobby_Touch_Love_1:
-  en: |-
-    The way you're touching me... I don't know how much more I can take.
-    Come here and loosen this strap.
+  en: The way you're touching me... I don't know how much more I can take. Come here
+    and loosen this strap.
   ko: |-
     그렇게 건드려대니 참기 힘드네,
     와서 이 끈 좀 풀어봐.

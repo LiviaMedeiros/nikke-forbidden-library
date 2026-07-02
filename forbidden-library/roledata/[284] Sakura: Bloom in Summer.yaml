@@ -125,9 +125,9 @@ skill_name_1002:
 12843_description:
   en: |-
     ■ Affects random enemies.
-    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s).</color>
-    ■ Affects the same target(s).
-    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_02} times.</color>
+    ■ Affects the same targets.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec, stacks up to {description_value_04} times and lasts for {description_value_05} sec.</color>
   ko: |-
     ■ 무작위 적들에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지] [{description_value_02}회 <word_group=10050>순차 공격</word_group>] </color>

@@ -64,9 +64,9 @@ character_shot_description_localkey_rl_up:
 20172_description:
   en: |-
     ■ Activates when entering Full Burst while in My Own Star status. Affects all allies.
-    <color=#00AEFF>ATK ▲ {description_value_01}% of caster's ATK for {description_value_02} sec.</color>
+    <color=#00AEFF>ATK ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>
     ■ Activates when performing a Full Charge attack while in Everyone's Star status. Affects all allies.
-    <color=#00AEFF>Restores {description_value_03}% of the caster's <word_group=10025>final</word_group> Max HP as HP.</color>
+    <color=#00AEFF>Restores {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
     ■ Activates when entering Full Burst. Affects self and all allies with lower <word_group=10025>final</word_group> DEF than self.
     <color=#00AEFF><word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_04}% for {description_value_05} sec.</color>
     ■ Activates when entering Full Burst. Affects all allies.
@@ -106,7 +106,7 @@ skill_name_1003:
     ■ Activates at the start of battle only if self is alive. Affects all allies.
     <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_05}% continuously.</color>
     ■ Activates at the start of battle and when Full Burst ends.
-    <color=#00AEFF>Effect differs according to squad formation. Only the corresponding effect is applied.
+    <color=#00AEFF>Effects vary according to squad formation. Only one set of effects is applied.
     If there are no other <word_group=10067>Burst {description_value_01} allies</word_group>:
     Effect 1: Affects self. <word_group=10101>Cancels</word_group> Everyone's Star.
     Effect 2: Affects self. My Own Star: ATK ▲ {description_value_02}%. This effect is continuous and cannot be removed.
@@ -169,7 +169,7 @@ skill_name_1002:
     ■ Activates while in My Own Star status. Affects self.
     <color=#00AEFF>Attack Damage ▲ {description_value_06}% for {description_value_07} sec.</color>
     ■ Activates while in Everyone's Star status. Affects all allies.
-    <color=#00AEFF>Max HP ▲ {description_value_08}% of the caster's max HP for {description_value_09} sec.</color>
+    <color=#00AEFF>Max HP ▲ {description_value_08}% of the skill user's max HP for {description_value_09} sec.</color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[슈팅 스타]

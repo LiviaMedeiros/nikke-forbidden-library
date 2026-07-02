@@ -61,12 +61,12 @@ character_shot_description_localkey_rl_up:
 20752_description:
   en: |-
     ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies (except self).
-    <color=#00AEFF>Mute: Gains immunity to Noise Pollution continuously, stacks up to {description_value_01} time(s).</color>
+    <color=#00AEFF>Mute: Gains immunity to Noise Pollution continuously. Stacks up to {description_value_01} times.</color>
     ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self.
-    <color=#00AEFF>Sustained damage ▲ {description_value_04}% for {description_value_05} sec.</color>
-    ■ Activates when attacking with Full Charge. Affects self.
-    <color=#00AEFF>Sustained damage ▲ {description_value_02}% for {description_value_03} sec, stacks up to {description_value_06} time(s).</color>
-    ■ Activates when entering Full Burst. Affects the stage target.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates when performing a Full Charge attack. Affects self.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_02}% for {description_value_03} sec. Stacks up to {description_value_06} times.</color>
+    ■ Activates when entering Full Burst. Affects the <word_group=10105>stage target</word_group>.
     <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_08} sec.</color>
   ko: |-
     ■ 자신을 포함한 아군 누군가 <word_group=10052>파츠 파괴 시</word_group> 자신을 제외한 아군 전체에게
@@ -75,7 +75,7 @@ character_shot_description_localkey_rl_up:
     <color=#00AEFF>[지속 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
     ■ 풀 차지 공격 시 자신에게
     <color=#00AEFF>[지속 대미지 {description_value_02}% ▲] [{description_value_06} 중첩] [{description_value_03}초 유지]</color>
-    ■ 풀 버스트 타임 시작 시 타겟에게
+    ■ 풀 버스트 타임 시작 시 <word_group=10105>타겟</word_group>에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 지속 대미지] [1초 간격] [{description_value_08}초 유지]</color>
   ja: |-
     ■自分を含む味方の誰かが
@@ -88,7 +88,7 @@ character_shot_description_localkey_rl_up:
     ■フルチャージして攻撃した時、自分に
     <color=#00AEFF>「持続ダメージ{description_value_02}％▲」「{description_value_06}スタック」「{description_value_03}秒間維持」</color>
     ■フルバーストタイムが発動した時、
-    ターゲットに
+    <word_group=10105>ターゲット</word_group>に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％の持続ダメージ」
     「1秒間隔」「{description_value_08}秒間維持」</color>
 skill_name_1003:
@@ -101,10 +101,10 @@ skill_name_1003:
   ja: あーあー、マイクテスト
 20751_description:
   en: |-
-    ■ Activates when entering Full Burst for the first time after using own Burst Skill. Affects self.
-    <color=#00AEFF>Intro: Critical damage ▲ {description_value_01}% continuously. This effect cannot be dispelled. Effect persists after revival.</color>
+    ■ Activates when entering Full Burst for the first time after using Burst Skill. Affects self.
+    <color=#00AEFF>Intro: Critical damage ▲ {description_value_01}% continuously. This effect cannot be removed. Effect persists after revival.</color>
     ■ Activates when entering Full Burst for the first time without using own Burst Skill. Affects self.
-    <color=#00AEFF>Highlight: Critical damage ▲ {description_value_02}% continuously. This effect cannot be dispelled. Effect persists after revival.</color>
+    <color=#00AEFF>Highlight: Critical damage ▲ {description_value_02}% continuously. This effect cannot be removed. Effect persists after revival.</color>
     ■ Activates when entering Full Burst. Affects self if in Intro status.
     <color=#00AEFF>Sustained damage ▲ {description_value_03}% for {description_value_04} sec.</color>
     ■ Activates when entering Full Burst. Affects self if in Highlight status.
@@ -150,19 +150,19 @@ skill_name_1002:
 10753_description:
   en: |-
     ■ Affects all enemies.
-    <color=#00AEFF>Damage taken ▲ {description_value_08}% for {description_value_09} sec.
+    <color=#00AEFF>Damage Taken ▲ {description_value_08}% for {description_value_09} sec.
     Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_02} sec.</color>
-    ■ Affects the enemy if the enemy is the stage target.
+    ■ Affects the enemy if the enemy is the <word_group=10105>stage target</word_group>.
     <color=#00AEFF>Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_07} sec.</color>
-    ■ Affects all allies (except self) if self is in Highlight status.
-    <color=#00AEFF>Noise Pollution: Hit rate ▼ {description_value_03}% for {description_value_04} sec.</color>
-    ■ Affects all allies if self is in Highlight status.
-    <color=#00AEFF>Stack count of Mute ▼ {description_value_05}.</color>
+    ■ Activates while the skill user is in Highlight status. Affects all allies (except self).
+    <color=#00AEFF>Noise Pollution: Hit Rate ▼ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Affects all allies if the skill user is in Highlight status.
+    <color=#00AEFF>Mute stacks ▼ {description_value_05}.</color>
   ko: |-
     ■ 적 전체에게
     <color=#00AEFF>[받는 대미지 {description_value_08}% ▲] [{description_value_09}초 유지]
     [<word_group=10025>최종</word_group> 공격력 {description_value_01}% 지속 대미지] [1초 간격] [{description_value_02}초 유지]</color>
-    ■ 대상이 타겟이라면 동일 적 대상에게
+    ■ 대상이 <word_group=10105>타겟</word_group>이라면 동일 적 대상에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_06}% 지속 대미지] [1초 간격] [{description_value_07}초 유지]</color>
     ■ 자신이 클라이막스 상태라면 자신을 제외한 아군 전체에게
     <color=#00AEFF>[소음 공해 : 명중률 {description_value_03}% ▼] [{description_value_04}초 유지]</color>
@@ -174,7 +174,7 @@ skill_name_1002:
     「{description_value_09}秒間維持」
     「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の持続ダメージ」
     「1秒間隔」「{description_value_02}秒間維持」</color>
-    ■対象がターゲットなら、同じ敵に
+    ■対象が<word_group=10105>ターゲット</word_group>なら、同じ敵に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％の持続ダメージ」
     「1秒間隔」「{description_value_07}秒間維持」</color>
     ■自分がクライマックス状態なら、
