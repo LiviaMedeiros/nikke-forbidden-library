@@ -23,8 +23,8 @@ piece_821:
   ja: エミリアのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -103,7 +103,7 @@ skill_name_1002:
   en: Freezing Witch
   ko: 빙결의 마녀
   ja: 氷結の魔女
-18213_description:
+18213_description_1:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Explosion Range ▲ {description_value_05}% for {description_value_06} sec.
@@ -116,8 +116,8 @@ skill_name_1002:
     <color=#00AEFF>[폭발 범위 {description_value_05}% ▲] [{description_value_06}초 유지]
     [빙결의 마녀]
     기능 : 차지 속도가 감소하는 대신 차지 대미지 증가 {description_value_02}발 유지
-    효과1 : [차지 속도 {description_value_01}% ▼]
-    효과2 : [차지 대미지 {description_value_03}% ▲]</color>
+    효과 1 : [차지 속도 {description_value_01}% ▼]
+    효과 2 : [차지 대미지 {description_value_03}% ▲]</color>
   ja: |-
     ■自分に
     <color=#00AEFF>「爆発範囲{description_value_05}％▲」「{description_value_06}秒間維持」

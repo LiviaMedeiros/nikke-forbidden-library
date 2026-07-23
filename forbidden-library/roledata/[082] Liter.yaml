@@ -21,8 +21,8 @@ piece_50082:
   ja: リターのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -52,8 +52,8 @@ character_shot_description_localkey_smg_down:
   ja: ボルトブースト
 10822_description:
   en: |-
-    ■ Affects {description_value_01} ally unit(s) with the lowest remaining cover HP.
-    <color=#00AEFF><word_group=10017>Restores {description_value_02}% of Cover HP</word_group>.</color>
+    ■ Affects the {description_value_01} ally unit(s) with the lowest remaining cover HP.
+    <color=#00AEFF><word_group=10017>Restores {description_value_02}% of cover HP</word_group>.</color>
   ko: |-
     ■ 남은 엄폐물 체력 수치가 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[<word_group=10017>엄폐물 체력 회복</word_group> {description_value_02}%]</color>

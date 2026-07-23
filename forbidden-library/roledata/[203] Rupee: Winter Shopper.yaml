@@ -23,8 +23,8 @@ piece_203:
   ja: ルピー：ウィンターショッパーのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -97,7 +97,7 @@ skill_name_1002:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Attract: Taunts all enemies for {description_value_01} sec.
-    Recovers {description_value_02}% of attack damage as HP over {description_value_03} sec.</color>
+    Restores HP equal to {description_value_02}% of attack damage. Lasts for {description_value_03} sec.</color>
     ■ Affects all allies.
     <color=#00AEFF>Reload Speed ▲ {description_value_04}% for {description_value_05} sec.
     <word_group=10002>Re-enters Burst</word_group> Stage 1</color>.

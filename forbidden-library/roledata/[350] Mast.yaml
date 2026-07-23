@@ -29,8 +29,8 @@ piece_350:
   ja: マストのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -105,11 +105,11 @@ skill_name_1002:
   ja: 嵐を突っ切って！
 13503_description:
   en: |-
-    ■ Affects self and {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except the skill user).
-    <color=#00AEFF>Max HP ▲ {description_value_02}% of the skill user's Max HP without restoring HP, lasts for {description_value_03} sec.
+    ■ Affects self and the {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except the skill user).
+    <color=#00AEFF>Max HP ▲ {description_value_02}% of the skill user's max HP (without restoring HP). Lasts for {description_value_03} sec.
     Critical Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
-    ■ Affects the target(s) afflicted with Sea Breeze.
-    <color=#00AEFF>Storm: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10026>Mirrors the stack count</word_group> of Sea Breeze every 1 sec for {description_value_07} sec.</color>
+    ■ Affects targets in the Sea Breeze state.
+    <color=#00AEFF>Storm: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10026>Mirrors the stack count</word_group> of Sea Breeze every second for {description_value_07} sec.</color>
   ko: "■ 자신과 자신을 제외한 <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게\n<color=#00AEFF>[시전자
     기준 최대 체력만 {description_value_02}% ▲] [{description_value_03}초 유지] \n[크리티컬 대미지
     {description_value_04}% ▲] [{description_value_05}초 유지]</color>\n■ 해풍 상태인 대상에게\n<color=#00AEFF>[폭풍

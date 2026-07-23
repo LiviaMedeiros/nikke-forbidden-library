@@ -23,8 +23,8 @@ piece_132:
   ja: メアリー：ベイゴッデスのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -90,9 +90,9 @@ skill_name_1003:
   en: |-
     ■ Activates when entering Full Burst. Affects all allies.
     <color=#00AEFF>Effects vary according to the number of times entered. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:
-    Once: Recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.
-    Twice: Recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_04} sec.
-    Three times: Recovers {description_value_05}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_06} sec.</color>
+    Once: Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_02} sec.
+    Twice: Restores HP equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP every second for {description_value_04} sec.
+    Three times: Restores HP equal to {description_value_05}% of the skill user's <word_group=10025>final</word_group> Max HP every second for {description_value_06} sec.</color>
   ko: |-
     ■ 풀 버스트 타임 시작 시 아군 전체에게
     <color=#00AEFF>[시작 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]

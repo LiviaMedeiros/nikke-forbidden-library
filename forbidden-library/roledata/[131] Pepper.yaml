@@ -23,8 +23,8 @@ piece_50131:
   ja: ペッパーのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -74,10 +74,10 @@ skill_name_1003:
   ja: リフレッシュハート
 21311_description:
   en: |-
-    ■ Activates when the last bullet hits the target. Affects {description_value_01} ally unit(s) with the lowest HP percentage.
-    <color=#00AEFF>Restores HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP.</color>
+    ■ Activates when the last bullet hits the target. Affects the {description_value_01} ally unit(s) with the lowest HP percentage.
+    <color=#00AEFF>Restores HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
     ■ Activates when the last bullet hits the target. Affects all allies.
-    <color=#00AEFF>Refresh Heart: Incoming healing ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
+    <color=#00AEFF>Refresh Heart: Incoming Healing ▲ {description_value_03}%. Stacks up to {description_value_04} times and lasts for {description_value_05} sec.</color>
   ko: |-
     ■ 마지막 탄환 명중 시 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
@@ -101,9 +101,9 @@ skill_name_1002:
     ■ Affects the {description_value_01} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
     ■ Affects all allies.
-    <color=#00AEFF>Increases <word_group=10001>stack count of stackable buffs</word_group> by {description_value_03}</color>.
+    <color=#00AEFF>Increases the <word_group=10001>stack count of stackable buffs</word_group> by {description_value_03}</color>.
     ■ Activates when Refresh Heart is at max stacks. Affects all allies.
-    <color=#00AEFF>Restores HP equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> Max HP.</color>
+    <color=#00AEFF>Restores HP equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
   ko: |-
     ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_01}기에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>

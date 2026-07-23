@@ -27,8 +27,8 @@ piece_833:
   ja: ミサトのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -58,10 +58,10 @@ character_shot_description_localkey_smg_down:
   ja: 回復補助
 28332_description:
   en: |-
-    ■ Only activates when in Shooting Manual status. Affects all allies.
+    ■ Only activates if in the Shooting Manual state. Affects all allies.
     <color=#00AEFF><word_group=10054>Damage dealt to Shield</word_group> ▲ {description_value_01}% continuously.</color>
     ■ Only activates when Shooting Manual is at max stacks. Affects self.
-    <color=#00AEFF>Outgoing healing ▲ {description_value_02}% continuously.</color>
+    <color=#00AEFF>Outgoing Healing ▲ {description_value_02}% continuously.</color>
   ko: |-
     ■  자신이 사격 매뉴얼 상태일 때 한하여 아군 전체에게
     <color=#00AEFF>[<word_group=10054>보호막에 가하는 대미지</word_group> {description_value_01}% ▲] [지속]</color>
@@ -107,7 +107,7 @@ skill_name_1002:
 18333_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec continuously.</color>
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_02} sec.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[시전자 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복] [1초 간격] [{description_value_02}초 유지]</color>

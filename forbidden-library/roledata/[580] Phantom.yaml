@@ -27,8 +27,8 @@ piece_580:
   ja: ファントムのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -56,29 +56,33 @@ character_shot_description_localkey_ar_down:
   en: Thief's Vision
   ko: 괴도의 시선
   ja: 怪盗の鑑定眼
-25802_description:
+25802_description_1:
   en: |-
-    ■ Activates when Thief's Dagger is at max stacks. Removes stacks and affects targets in Calling Card status.
+    ■ Activates when Thief's Dagger is at max stacks. Affects targets in the Calling Card state.
     <color=#00AEFF>Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as additional damage. Removes Calling Card.</color>
     ■ Activates when Thief's Dagger is at max stacks. Removes stacks and affects self.
-    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% continuously. Stacks up to {description_value_02} times. Stacks are removed after Burst Skill is used.</color>
-    ■ Activates after landing {description_value_03} normal attacks. Affects self.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_01}% continuously. Stacks up to {description_value_02} times. Stacks are removed when using Burst Skill.</color>
+    ■ Activates after performing {description_value_03} normal attacks. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_04}% for {description_value_05} sec.
     <word_group=10019>Distributed Damage</word_group> ▲ {description_value_06}% for {description_value_07} sec.</color>
   ko: |-
-    ■ 자신이 괴도의 단검 최대 중첩 상태라면 중첩 해제 후 예고장 상태의 대상에게
+    ■ 자신이 괴도의 단검 최대 중첩 상태라면 예고장 상태의 대상에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_08}% 추가 대미지] [효과 적용 후 예고장 제거]</color>
     ■ 자신이 괴도의 단검 최대 중첩 상태라면 중첩 해제 후 자신에게
-    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_01}% ▲] [{description_value_02} 중첩] [버스트 스킬 사용 후 중첩 제거] [지속]</color>
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_01}% ▲] [{description_value_02} 중첩] [버스트 스킬 사용 시 중첩 제거] [지속]</color>
     ■ 일반 공격 {description_value_03}회 공격 시 자신에게
     <color=#00AEFF>[공격력 {description_value_04}% ▲] [{description_value_05}초 유지]
     [<word_group=10019>분배 대미지</word_group> {description_value_06}% ▲] [{description_value_07}초 유지]</color>
   ja: |-
-    ■自分が怪盗の短剣フルスタック状態なら、スタック解除後予告状状態の対象に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の追加ダメージ」「効果発動後予告状解除」</color>
-    ■自分が怪盗の短剣フルスタック状態なら、スタック解除後自分に
-    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％▲」「{description_value_02}スタック」「バーストスキル使用後スタック解除」
-    「持続」</color>
+    ■自分が怪盗の短剣フルスタック状態なら、
+    予告状状態の対象に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の追加ダメージ」
+    「効果発動後予告状解除」</color>
+    ■自分が怪盗の短剣フルスタック状態なら、
+    スタック解除後自分に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％▲」
+    「{description_value_02}スタック」
+    「バーストスキル使用時スタック解除」「持続」</color>
     ■通常攻撃で{description_value_03}回攻撃した時、自分に
     <color=#00AEFF>「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」
     「<word_group=10019>分配ダメージ</word_group>{description_value_06}％▲」「{description_value_07}秒間維持」</color>
@@ -90,7 +94,7 @@ skill_name_1003:
   en: Thief's Calling Card
   ko: 괴도의 예고장
   ja: 怪盗の予告状
-25801_description:
+25801_description_1:
   en: |-
     ■ Activates when landing a normal attack on a Rapture that is not in the Calling Card state. Affects the target.
     <color=#00AEFF>Calling Card: DEF ▼ {description_value_01}% for {description_value_02} sec.</color>
@@ -99,19 +103,24 @@ skill_name_1003:
     ■ Activates when landing a normal attack on a target that is in the Calling Card state. Affects self.
     <color=#00AEFF>Attack Damage ▲ {description_value_06}% for {description_value_07} round(s).</color>
   ko: |-
-    ■ 일반 공격 명중 시 예고장 상태가 아닌 랩쳐라면 대상에게
+    ■ 일반 공격 명중 시 대상이 예고장 상태가 아닌 랩쳐라면 대상에게
     <color=#00AEFF>[예고장 : 방어력 {description_value_01}% ▼] [{description_value_02}초 유지]</color>
     ■ 일반 공격 명중 시 대상이 예고장 상태가 아닌 랩쳐라면 자신에게
     <color=#00AEFF>[괴도의 단검 : 명중률 {description_value_03}% ▲] [{description_value_04} 중첩] [{description_value_05}초 유지]</color>
-    ■ 일반 공격 명중 시 대상이 예고장 상태일 때 자신에게
+    ■ 일반 공격 명중 시 대상이 예고장 상태라면 자신에게
     <color=#00AEFF>[공격 대미지 {description_value_06}% ▲] [{description_value_07}발 유지]</color>
   ja: |-
-    ■通常攻撃が命中した時、予告状状態ではないラプチャーなら対象に
+    ■通常攻撃が命中した時、対象が
+    予告状状態ではないラプチャーなら
+    対象に
     <color=#00AEFF>「予告状：防御力{description_value_01}％▼」「{description_value_02}秒」</color>
-    ■通常攻撃が命中した時、予告状状態ではないラプチャーなら自分に
-    <color=#00AEFF>「怪盗の短剣：命中率{description_value_03}％▲」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
-    ■通常攻撃が命中した時、対象が予告状状態なら自分に
-    <color=#00AEFF>｢攻撃ダメージ{description_value_06}％▲」「{description_value_07}発間維持」</color>
+    ■通常攻撃が命中した時、予告状状態ではない
+    ラプチャーなら自分に
+    <color=#00AEFF>「怪盗の短剣：命中率{description_value_03}％▲」
+    「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
+    ■通常攻撃が命中した時、
+    対象が予告状状態なら自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_06}％▲」「{description_value_07}発間維持」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1

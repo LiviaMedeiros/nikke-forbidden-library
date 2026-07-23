@@ -26,8 +26,8 @@ piece_226:
   ja: ラプンツェル：ピュアグレイスのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -63,11 +63,11 @@ character_shot_description_localkey_sr_up:
   ja: プレイア
 22262_description:
   en: |-
-    ■ Activates when attacking with Full Charge. Affects self.
-    <color=#00AEFF>Recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP.</color>
-    ■ Activates only when Full Charge is maintained for more than {description_value_02} sec while a <word_group=10032>Shield is set</word_group> in front of this unit. Affects self.
-    <color=#00AEFF>Current HP ▼ {description_value_03}% every 1 sec continuously.
-    <word_group=10048>Restores Shield HP</word_group> equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
+    ■ Activates when performing a Full Charge attack. Affects self.
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
+    ■ Activates when Full Charge is maintained for more than {description_value_02} sec while <word_group=10032>a shield is placed</word_group> in front of this unit. Affects self.
+    <color=#00AEFF>Current HP ▼ {description_value_03}% every second continuously.
+    <word_group=10048>Restores shield HP</word_group> equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> max HP every second. This effect is continuous.</color>
   ko: |-
     ■ 풀 차지 공격 시 자신에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
@@ -92,10 +92,10 @@ skill_name_1003:
 22261_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Creates a shared <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP that protects all allies from damage. This effect is continuous.</color>
+    <color=#00AEFF>Creates a shared <word_group=10023>shield</word_group> with HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP. This effect is continuous.</color>
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF>Creates a shared <word_group=10023>Shield</word_group> equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP that protects all allies from damage. This effect is continuous.</color>
-    ■ Activates only when Full Charge is maintained for more than {description_value_03} sec while a <word_group=10032>Shield is set</word_group> in front of this unit. Affects all allies.
+    <color=#00AEFF>Creates a shared <word_group=10023>shield</word_group> with HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP. This effect is continuous.</color>
+    ■ Activates when Full Charge is maintained for more than {description_value_03} sec if <word_group=10032>a shield is placed</word_group> in front of this unit. Affects all allies.
     <color=#00AEFF>Attack Damage ▲ {description_value_04}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 자신에게

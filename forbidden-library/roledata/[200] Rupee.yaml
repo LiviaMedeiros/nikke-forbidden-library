@@ -21,8 +21,8 @@ piece_50200:
   ja: ルピーのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -72,8 +72,8 @@ skill_name_1003:
   ja: プライズ
 22001_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects all Iron Code allies.
-    <color=#00AEFF>Increases <word_group=10001>stack count of buffs</word_group> by {description_value_02}.
+    ■ Activates after landing {description_value_01} normal attacks. Affects all Iron Code allies.
+    <color=#00AEFF>Increases the <word_group=10001>stack count of stackable buffs</word_group> by {description_value_02}.
     Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 철갑 코드 아군 전체에게

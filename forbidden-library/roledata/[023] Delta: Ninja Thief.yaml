@@ -24,8 +24,8 @@ piece_23:
   ja: デルタ：ニンジャシーフのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -57,16 +57,16 @@ character_shot_description_localkey_mg_down:
   en: |-
     ■ Activates at the start of battle.
     <color=#00AEFF>Effects vary according to squad formation. Only one set of effects is applied.</color>
-    Affects self if there are no other Defender allies in the squad.
-    <color=#00AEFF>Effect 1: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.
-    Effect 2: Attract: Taunt all enemies continuously.</color>
-    Affects self if there is another Defender ally in the squad.
+    Activates if there are no other Defender allies in the squad. Affects self.
+    <color=#00AEFF>Effect 1: Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP that lasts for {description_value_02} sec.
+    Effect 2: Attract: Taunts all enemies continuously.</color>
+    Activates if there is another Defender ally in the squad. Affects self.
     <color=#00AEFF>Effect 1: Ninjutsu Camouflage: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_06} sec. This effect is removed upon taking a direct hit.
-    Effect 2: Ninjutsu Injection: Recovers {description_value_07}% of attack damage as HP continuously.</color>
-    ■ Activates when performing {description_value_03} normal attack(s). Affects self while in Attract status.
-    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_05} sec.</color>
-    ■ Affects self every {description_value_08} sec while in Ninjutsu Injection status.
-    <color=#00AEFF>Ninjutsu IFAK lasts for {description_value_10} sec.
+    Effect 2: Ninjutsu Injection: Restores HP equal to {description_value_07}% of attack damage. This effect is continuous.</color>
+    ■ Activates after {description_value_03} normal attacks in the Attract state. Affects self.
+    <color=#00AEFF>Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> max HP that lasts for {description_value_05} sec.</color>
+    ■ Activates every {description_value_08} sec while in the Ninjutsu Injection state. Affects self.
+    <color=#00AEFF>Ninjutsu IFAK: Lasts for {description_value_10} sec.
     Function: Stores up HP recovery for a time, after which all allies are healed for the stored amount.
     Effect 1: The maximum amount stored is equal to {description_value_09}% of the skill user's <word_group=10025>final</word_group> ATK.
     Effect 2: Once the duration ends, all allies are healed for the <word_group=10089>stored recovery amount</word_group>.</color>

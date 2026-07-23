@@ -26,8 +26,8 @@ piece_831:
   ja: レイのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -106,8 +106,8 @@ skill_name_1002:
 18313_description:
   en: |-
     ■ Affects all Fire Code allies.
-    <color=#00AEFF>Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.
-    Attack damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+    <color=#00AEFF>Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP that lasts for {description_value_02} sec.
+    Attack Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
     ■ Affects all enemies.
     <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as damage.</color>
   ko: |-

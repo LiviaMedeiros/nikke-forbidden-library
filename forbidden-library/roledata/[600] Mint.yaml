@@ -29,8 +29,8 @@ piece_600:
   ja: ミントのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -104,11 +104,11 @@ skill_name_1003:
   ja: ミュージック、スタート！
 26001_description:
   en: |-
-    ■ Activates when attacking with Full Charge while in <word_group=10102>Assigned Part</word_group>: Singing status. Affects all allies.
+    ■ Activates when performing a Full Charge attack while in the <word_group=10102>Assigned Part</word_group>: Singing state. Affects all allies.
     <color=#00AEFF>Singing Effect: ATK ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>
 
-    ■ Activates when attacking with Full Charge while in <word_group=10102>Assigned Part</word_group>: Dancing status. Affects all allies.
-    <color=#00AEFF>Dancing Effect: Constantly recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_04} sec.</color>
+    ■ Activates when performing a Full Charge attack while in the <word_group=10102>Assigned Part</word_group>: Dancing state. Affects all allies.
+    <color=#00AEFF>Dancing Effect: Restores HP equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP every second for {description_value_04} sec.</color>
   ko: |-
     ■ 풀 차지 공격 시 자신이 <word_group=10102>무대 파트</word_group> : 보컬 상태라면 아군 전체에게
     <color=#00AEFF>[보컬 효과 : 시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>

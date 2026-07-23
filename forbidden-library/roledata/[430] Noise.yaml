@@ -21,8 +21,8 @@ piece_430:
   ja: ノイズのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -58,9 +58,9 @@ character_shot_description_localkey_rl_up:
   ja: シンギングトゥギャザー
 24302_description_1:
   en: |-
-    ■ Activates when hitting a target with a Full Charge attack. Affects the target.
+    ■ Activates when landing a Full Charge attack. Affects the target.
     <color=#00AEFF>Taunts for {description_value_01} sec.</color>
-    ■ Activates when attacking with Full Charge. Affects self.
+    ■ Activates when performing a Full Charge attack. Affects self.
     <color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ 풀 차지 공격 명중 시 대상에게
@@ -101,7 +101,7 @@ skill_name_1002:
 14303_description:
   en: |-
     ■ Affects all allies.
-     <color=#00AEFF>Constantly recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.
+     <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_02} sec.
     Max HP ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-
     ■ 아군 전체에게

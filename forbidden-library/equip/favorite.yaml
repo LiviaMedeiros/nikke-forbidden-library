@@ -26,7 +26,7 @@
     ja: メンタルサポート
   description:
     en: "■ Activates at the start of battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
-      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
+      HP of cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -66,7 +66,7 @@
     ja: メンタルサポート
   description:
     en: "■ Activates at the start of battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
-      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
+      HP of cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -106,7 +106,7 @@
     ja: メンタルサポート
   description:
     en: "■ Activates at the start of battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
-      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
+      HP of cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -147,7 +147,7 @@
     ja: メンタルサポート
   description:
     en: "■ Activates at the start of battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
-      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
+      HP of cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -188,7 +188,7 @@
     ja: メンタルサポート
   description:
     en: "■ Activates at the start of battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
-      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
+      HP of cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -228,7 +228,7 @@
     ja: メンタルサポート
   description:
     en: "■ Activates at the start of battle. \n<color=#00AEFF>Damage Taken ▼ {description_value_01}%.</color>\n<color=#00AEFF><word_group=10033>Max
-      HP of Cover</word_group> ▲ {description_value_02}%.</color>"
+      HP of cover</word_group> ▲ {description_value_02}%.</color>"
     ko: |-
       ■ 전투 시작 시
       <color=#00AEFF>[받는 대미지 {description_value_01}% ▼]</color>
@@ -250,10 +250,10 @@
     en: |-
       ■ Activates when entering Full Burst. Affects self.
       <color=#00AEFF> DEF ▲ {description_value_01}% for {description_value_02} sec.</color>
-      ■ Activates when attacked in Attract status. Affects self.
-      <color=#00AEFF>Recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
-      ■ Activates after landing {description_value_04} normal attack(s) in Attract status. Affects self.
-      <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_05}.</color>
+      ■ Activates when attacked while in the Attract state. Affects self.
+      <color=#00AEFF>Restores {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP.</color>
+      ■ Activates after landing {description_value_04} normal attacks while in the Attract state. Affects self.
+      <color=#00AEFF>Increases the <word_group=10001>stack count of stackable buffs</word_group> by {description_value_05}.</color>
     ko: "■ 풀 버스트 타임 시작 시 자신에게 \n<color=#00AEFF>[방어력 {description_value_01}% ▲] [{description_value_02}초
       유지]</color>\n■ 피격 시 자신이 주목 상태라면 자신에게\n<color=#00AEFF>[시전자의 <word_group=10025>최종</word_group>
       최대 체력 비례 {description_value_03}% 회복]</color>\n■ 일반 공격 {description_value_04}회
@@ -476,7 +476,7 @@
       DEF. \n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
       ATK as Burst Skill damage.</color>\n■ Affects all allies. \n<color=#00AEFF>Recovers
       {description_value_03}% of attack damage as HP over {description_value_04} sec.\nIncoming
-      healing ▲ {description_value_05}% for {description_value_06} sec.</color>"
+      Healing ▲ {description_value_05}% for {description_value_06} sec.</color>"
     ko: |-
       ■ <word_group=10025>최종</word_group> 방어력이 가장 높은 적 {description_value_01}기에게
       <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 버스트 스킬 대미지]</color>
@@ -501,11 +501,11 @@
     ja: ドッグセラピー
   description:
     en: |-
-      ■ Affects self and {description_value_01} other ally unit(s) with the lowest HP every {description_value_05} sec.
+      ■ Activates every {description_value_05} sec. Affects self and the {description_value_01} ally unit(s) with the lowest HP.
       <color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03} sec.
-      <word_group=10044>Equally shares damage taken</word_group> for {description_value_04} sec.</color>
+      <word_group=10044>Equally distributes damage taken</word_group> for {description_value_04} sec.</color>
       ■ Activates when Police Badge ends. Affects self.
-      <color=#00AEFF>Continuously recovers {description_value_06}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_07} sec.</color>
+      <color=#00AEFF>Restores HP equal to {description_value_06}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_07} sec.</color>
     ko: |-
       ■ {description_value_05}초 마다 자신과 자신을 제외한 체력이 가장 낮은 아군 {description_value_01}기에게
       <color=#00AEFF>[방어력 {description_value_02}% ▲] [{description_value_03}초 유지]
@@ -533,7 +533,7 @@
     en: |-
       ■ Only activates when Temporary Modification is at max stacks. Affects all allies.
       <color=#00AEFF>Critical Rate ▲ {description_value_01}% continuously.</color>
-      ■ Only activates when Temporary Modification is at max stacks. Affects all shotgun-wielding allies.
+      ■ Only activates when Temporary Modification is at max stacks. Affects all allies with shotguns.
       <color=#00AEFF>Attack Speed ▲ {description_value_02}% continuously.</color>
     ko: |-
       ■ 자신이 임시 개조가 최대 중첩 상태일 때 한하여 아군 전체에게
@@ -585,10 +585,10 @@
     ja: ファーストウィナー
   description:
     en: |-
-      ■ Affects self if self's cover has been destroyed.
-      <color=#00AEFF><word_group=10016>Rebuild Cover</word_group> with {description_value_05}% HP. Activates once per battle.</color>
+      ■ Affects this unit if her cover has been destroyed.
+      <color=#00AEFF><word_group=10016>Rebuilds cover</word_group> with {description_value_05}% HP. Activates once per battle.</color>
       ■ Affects self.
-      <color=#00AEFF><word_group=10033>Max HP of Cover</word_group> ▲ {description_value_01}% of the skill user's Max HP for {description_value_02} sec.</color>
+      <color=#00AEFF><word_group=10033>Max HP of cover</word_group> ▲ {description_value_01}% of the skill user's max HP for {description_value_02} sec.</color>
       ■ Affects all allies.
       <color=#00AEFF>Damage Taken ▼ {description_value_03}% for {description_value_04} sec.</color>
     ko: |-
@@ -676,7 +676,7 @@
     ja: 着工開始
   description:
     en: |-
-      ■ Affects {description_value_01} enemy unit(s) with the lowest remaining HP.
+      ■ Affects the {description_value_01} enemy unit(s) with the lowest remaining HP.
       <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.
       DEF ▼ {description_value_03}% for {description_value_04} sec.</color>
       ■ Affects self.
@@ -739,6 +739,128 @@
       「{description_value_08}秒間維持」
       「スキル発動者基準で攻撃力{description_value_09}％▲」
       「{description_value_10}秒間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+201801:
+  name:
+    en: 'Secret Trick: Rampage of Thieves'
+    ko: 비기 괴도 난무
+    ja: 秘技・怪盗乱舞
+  description:
+    en: "■ Affects all enemies.\n<color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group>
+      ATK as <word_group=10019>distributed damage</word_group>.</color> \n■ Affects
+      the enemy if the enemy is a Fire Code <word_group=10105>stage target</word_group>.\n<color=#00AEFF>Damage
+      Taken ▲ {description_value_04}% for {description_value_05} sec.</color>\n■ Affects
+      self.\n<color=#00AEFF>Max Ammunition Capacity ▲ {description_value_02}% for
+      {description_value_03} sec.</color>"
+    ko: |-
+      ■ 적 전체에게
+      <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% <word_group=10019>분배 대미지</word_group>]</color>
+      ■ 대상이 작열 코드 <word_group=10105>타겟</word_group>이라면 동일 적 대상에게
+      <color=#00AEFF>[받는 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+      ■ 자신에게
+      <color=#00AEFF>[최대 장탄 수 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ja: |-
+      ■敵全体に
+      <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の<word_group=10019>分配ダメージ</word_group>」</color>
+      ■対象が灼熱コードの<word_group=10105>ターゲット</word_group>なら、同じ敵に
+      <color=#00AEFF>「受けるダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+      ■自分に
+      <color=#00AEFF>「最大装弾数{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+201901:
+  name:
+    en: Secret Garden
+    ko: 시크릿 가든
+    ja: 秘密の花園
+  description:
+    en: |-
+      ■ Affects all allies.
+      <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP.
+      True Damage ▲ {description_value_02}% for {description_value_03} sec.
+      ATK ▲ {description_value_04}% of the skill user's ATK for {description_value_05} sec.</color>
+    ko: |-
+      ■ 아군 전체에게
+      <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]
+      [방어력 무시 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]
+      [시전자 기준 공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+    ja: |-
+      ■味方全体に
+      <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」
+      「防御力無視ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」
+      「スキル発動者基準で攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+  info_description:
+    en: Burst Skill
+    ko: 버스트 스킬
+    ja: バーストスキル
+202001:
+  name:
+    en: On the Lam
+    ko: 온 더 렘
+    ja: オン・ザ・ラム
+  description:
+    en: |-
+      ■ Activates after landing {description_value_01} normal attacks. Affects self.
+      <color=#00AEFF>Concealment: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_02} sec. This effect is removed upon taking a direct hit.
+      Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
+      ■ Activates after performing {description_value_05} normal attacks. Affects the {description_value_06} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
+      <color=#00AEFF><word_group=10022>Removes {description_value_07} buff(s)</word_group>. Activates once per battle.</color>
+      ■ Activates when the <word_group=10105>stage target</word_group> appears. Affects self.
+      <color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_08}% continuously.</color>
+    ko: |-
+      ■ 일반 공격 {description_value_01}회 명중 시 자신에게
+      <color=#00AEFF>[은신 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_02}초 유지]
+      [크리티컬 확률 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+      ■ 일반 공격 {description_value_05}회 공격 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_06}기에게
+      <color=#00AEFF>[<word_group=10022>이로운 효과 해제</word_group> {description_value_07}개] [전투 중 1회 발동]</color>
+      ■ <word_group=10105>타겟</word_group> 등장 시 자신에게
+      <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_08}% ▲] [지속]</color>
+    ja: |-
+      ■通常攻撃が{description_value_01}回命中した時、自分に
+      <color=#00AEFF>「隠れ身：<word_group=10004>単一攻撃対象から除外</word_group>
+      直接攻撃を受けると解除」「{description_value_02}秒間維持」
+      「クリティカル確率{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+      ■通常攻撃で{description_value_05}回攻撃した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_06}機に
+      <color=#00AEFF>「<word_group=10022>バフ効果解除</word_group>{description_value_07}個」「戦闘中1回発動」</color>
+      ■<word_group=10105>ターゲット</word_group>が出現した時、自分に
+      <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_08}％▲」「持続」</color>
+  info_description:
+    en: Skill 1
+    ko: 스킬1
+    ja: スキル1
+202101:
+  name:
+    en: Trouble Shooter
+    ko: 트러블 슈터
+    ja: トラブルシューター
+  description:
+    en: |-
+      ■ Affects self.
+      <color=#00AEFF>Attack Speed ▲ {description_value_01}% for {description_value_02} sec.
+      Hit Rate ▲ {description_value_03}% for {description_value_04} sec.
+      ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
+      ■ Affects all Water Code and Iron Code allies with shotguns.
+      <color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_07}% for {description_value_08} sec.</color>
+    ko: |-
+      ■ 자신에게
+      <color=#00AEFF>[공격 속도 {description_value_01}% ▲] [{description_value_02}초 유지]
+      [명중률 {description_value_03}% ▲] [{description_value_04}초 유지]
+      [공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+      ■ 수냉 코드 또는 철갑 코드 샷건 소지 아군 전체에게
+      <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+    ja: |-
+      ■自分に
+      <color=#00AEFF>「攻撃速度{description_value_01}％▲」「{description_value_02}秒間維持」
+      「命中率{description_value_03}％▲」「{description_value_04}秒間維持」
+      「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+      ■水冷コードまたは鉄甲コードの
+      ショットガンを所持する味方全体に
+      <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_07}％▲」「{description_value_08}秒間維持」</color>
   info_description:
     en: Burst Skill
     ko: 버스트 스킬

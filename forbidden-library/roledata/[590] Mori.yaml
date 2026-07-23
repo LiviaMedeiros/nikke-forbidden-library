@@ -27,8 +27,8 @@ piece_590:
   ja: モリーのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -58,12 +58,12 @@ character_shot_description_localkey_ar_down:
   ja: 必死のサポート
 25902_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s) when self is in Struggle status. Affects the target.
+    ■ Activates after landing {description_value_01} normal attacks while in the Struggle state. Affects the target.
     <color=#00AEFF>Taunts for {description_value_02} sec.</color>
     ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all allies.
-    <color=#00AEFF>Sustained damage ▲ {description_value_03}%, stacks up to {description_value_04} time(s) and lasts for {description_value_05} sec.</color>
-    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects {description_value_06} enemy unit(s) with the highest ATK.
-    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_08} sec.</color>
+    <color=#00AEFF>Sustained Damage ▲ {description_value_03}%. Stacks up to {description_value_04} times and lasts for {description_value_05} sec.</color>
+    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects the {description_value_06} enemy unit(s) with the highest ATK.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as sustained damage every second for {description_value_08} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 명중 시 자신이 발버둥 상태라면 대상에게
     <color=#00AEFF>[도발] [{description_value_02}초 유지]</color>
@@ -89,11 +89,11 @@ skill_name_1003:
 25901_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Struggle: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the <word_group=10025>final</word_group> Max HP continuously.</color>
-    ■ Activates when using Burst Skill. Affects self if not in Struggle status.
-    <color=#00AEFF>Struggle: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the <word_group=10025>final</word_group> Max HP continuously.</color>
-    ■ Activates when Struggle status ends. Affects self.
-    <color=#00AEFF>Max HP ▲ {description_value_02}% continuously, stacks up to {description_value_03} time(s).</color>
+    <color=#00AEFF>Struggle: Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_01}% of <word_group=10025>final</word_group> max HP. This effect is continuous.</color>
+    ■ Activates when using Burst Skill while not in the Struggle state. Affects self.
+    <color=#00AEFF>Struggle: Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_01}% of <word_group=10025>final</word_group> max HP. This effect is continuous.</color>
+    ■ Activates when Struggle ends. Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_02}% continuously. Stacks up to {description_value_03} times.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[발버둥 : <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [지속]</color>

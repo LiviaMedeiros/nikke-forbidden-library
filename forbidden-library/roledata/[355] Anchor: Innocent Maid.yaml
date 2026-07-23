@@ -24,8 +24,8 @@ piece_355:
   ja: アンカー：イノセントメイドの スペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -92,11 +92,11 @@ skill_name_1003:
   en: |-
     ■ Activates when entering Full Burst. Affects all allies.
     <color=#00AEFF>Effects vary according to the number of times used. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:
-    Once: Potency of HP ▲ {description_value_01}% for {description_value_02} sec.
+    Once: Healing ▲ {description_value_01}% for {description_value_02} sec.
     Twice: <word_group=10019>Distributed Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.
-    Three times: <word_group=10068>Stack count of debuffs</word_group> ▼ {description_value_05}.</color>
-    ■ Activates when entering Full Burst while an ally from the same squad is on the battlefield. Affects all allies.
-    <color=#00AEFF>Recovers {description_value_06}% of the skill user's Max HP every 1 sec for {description_value_07} sec.</color>
+    Three times: Decreases the <word_group=10068>stack count of stackable debuffs</word_group> by {description_value_05}.</color>
+    ■ Activates when entering Full Burst if an ally from the same squad is present. Affects all allies.
+    <color=#00AEFF>Restores HP equal to {description_value_06}% of the skill user's max HP every second for {description_value_07} sec.</color>
   ko: |-
     ■ 풀 버스트 타임 시작 시 아군 전체에게
     <color=#00AEFF>[사용 횟수 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
@@ -127,8 +127,8 @@ skill_name_1002:
 13553_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Storage: Stores excess healing received by the skill user, up to {description_value_01}% of their Max HP. Lasts for {description_value_02} sec.
-    Recovers {description_value_03}% of the skill user's Max HP as HP.
+    <color=#00AEFF>Storage: Stores excess incoming healing, up to {description_value_01}% of the skill user's Max HP. Lasts for {description_value_02} sec.
+    Restores HP equal to {description_value_03}% of the skill user's Max HP.
     ATK ▲ {description_value_04}% of the skill user's ATK for {description_value_05} sec.</color>
   ko: |-
     ■ 아군 전체에게

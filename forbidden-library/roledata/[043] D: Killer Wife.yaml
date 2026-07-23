@@ -23,8 +23,8 @@ piece_43:
   ja: D：キラーワイフのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -84,10 +84,10 @@ skill_name_1003:
   ja: カーム・スナイピング
 20431_description:
   en: |-
-    ■ Activates when attacking with Full Charge for {description_value_01} time(s). Affects self.
-    <color=#00AEFF>Gain Pierce for 1 shot.</color>
-    ■ Activates when entering Full Burst. Affects all allies with a Sniper Rifle.
-    <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲{description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates when performing {description_value_01} Full Charge attack(s). Affects self.
+    <color=#00AEFF>Gains Pierce for 1 shot.</color>
+    ■ Activates when entering Full Burst. Affects all allies with sniper rifles.
+    <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ 풀 차지 {description_value_01}회 공격 시 자신에게
     <color=#00AEFF>[관통 특화] [1발 유지]</color>

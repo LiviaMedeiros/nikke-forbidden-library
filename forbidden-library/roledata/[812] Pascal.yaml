@@ -23,8 +23,8 @@ piece_812:
   ja: パスカルのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -37,10 +37,10 @@ character_shot_name_localkey_rl_up:
   ja: ロケットランチャー
 character_shot_description_localkey_rl_down:
   en: |-
-    ■ Affects target(s).
+    ■ Affects the target.
     <color=#00AEFF>Deals {damage}% of ATK as damage.
-    Deals {core_damage_rate}% damage when attacking core.
-    A weapon that cannot cast charged attacks.</color>
+    Deals {core_damage_rate}% damage when attacking a core.
+    This weapon cannot perform charged attacks.</color>
   ko: |-
     ■ 대상에게
     <color=#00AEFF>[공격력 {damage}% 대미지]
@@ -57,8 +57,8 @@ character_shot_description_localkey_rl_down:
   ja: 最善を尽くします
 28122_description:
   en: |-
-    ■ Activates when entering Burst Stage 1. Affects {description_value_01} ally unit(s) with the lowest remaining HP.
-    <color=#00AEFF>Incoming healing ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates when entering Burst Stage 1. Affects the {description_value_01} ally unit(s) with the lowest remaining HP.
+    <color=#00AEFF>Incoming Healing ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ 버스트 1단계 돌입 시 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[받는 체력 회복량 {description_value_02}% ▲] [{description_value_03}초 유지]</color>

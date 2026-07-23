@@ -25,8 +25,8 @@ piece_822:
   ja: ラムのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -86,9 +86,9 @@ skill_name_1003:
   ja: フーラ
 28221_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects the target(s).
+    ■ Activates after landing {description_value_01} normal attacks. Affects the target.
     <color=#00AEFF>ATK ▼ {description_value_02}% for {description_value_03} sec.</color>
-    ■ Activates when Full Burst ends with an ally from the same squad still on the battlefield. Affects self.
+    ■ Activates when Full Burst ends if an ally from the same squad is present. Affects self.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_04} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 대상에게
@@ -111,7 +111,7 @@ skill_name_1002:
 18223_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Generates a <word_group=10023>Shield</word_group> with {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.</color>
+    <color=#00AEFF>Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP that lasts for {description_value_02} sec.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[시전자 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]</color>

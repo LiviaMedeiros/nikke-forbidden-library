@@ -28,8 +28,8 @@ piece_840:
   ja: エイダのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -119,7 +119,7 @@ skill_name_1002:
   en: Secret Agent
   ko: 시크릿 에이전트
   ja: シークレットエージェント
-18403_description:
+18403_description_1:
   en: |-
     ■ Affects self.
     <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.
@@ -134,8 +134,8 @@ skill_name_1002:
     [방어력 무시 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]
     [특수 개조]
     기능 : 차지 속도가 감소하는 대신 차지 대미지 증가 {description_value_05}발 유지
-    효과1 : [차지 속도 {description_value_06}% ▼]
-    효과2 : [차지 대미지 {description_value_07}% ▲]</color>
+    효과 1 : [차지 속도 {description_value_06}% ▼]
+    효과 2 : [차지 대미지 {description_value_07}% ▲]</color>
   ja: |-
     ■自分に
     <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」

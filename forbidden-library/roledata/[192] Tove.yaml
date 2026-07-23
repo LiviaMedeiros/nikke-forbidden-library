@@ -27,8 +27,8 @@ piece_192:
   ja: トーブのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -114,9 +114,9 @@ skill_name_1002:
 11923_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Miracle of Makeshifts: ATK ▲ {description_value_01}% of the skill user's ATK. <word_group=10026>Mirrors the stack count</word_group> of Temporary Modification. This effect lasts for {description_value_02} sec.</color>
-    ■ Affects all allies with a Shotgun.
-    <color=#00AEFF>Miracle of Makeshifts: ATK ▲ {description_value_03}% of the skill user's ATK. <word_group=10026>Mirrors the stack count</word_group> of Temporary Modification. This effect lasts for {description_value_04} sec.</color>
+    <color=#00AEFF>Miracle of Makeshifts: ATK ▲ {description_value_01}% of the skill user's ATK. <word_group=10026>Mirrors the stack count</word_group> of Temporary Modification for {description_value_02} sec.</color>
+    ■ Affects all allies with shotguns.
+    <color=#00AEFF>Miracle of Makeshifts: ATK ▲ {description_value_03}% of the skill user's ATK. <word_group=10026>Mirrors the stack count</word_group> of Temporary Modification for {description_value_04} sec.</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[급조품의 기적 : 시전자 기준 공격력 {description_value_01}% ▲] [임시 개조 <word_group=10026>중첩 복사</word_group>] [{description_value_02}초 유지]</color>

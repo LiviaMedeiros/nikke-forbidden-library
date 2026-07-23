@@ -61,7 +61,7 @@ skill_name_1003:
   ja: 戦術：装甲補強
 23021_description:
   en: |-
-    ■ When a normal attack hits, there is a {description_value_04}% chance of affecting {description_value_01} ally unit(s) with the lowest remaining HP.
+    ■ There is a {description_value_04}% chance of activating after landing a normal attack. Affects the {description_value_01} ally unit(s) with the lowest remaining HP.
     <color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ 일반 공격 명중 시 {description_value_04}% 확률로 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게

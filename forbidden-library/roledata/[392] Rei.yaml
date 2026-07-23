@@ -27,8 +27,8 @@ piece_392:
   ja: ライのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -79,8 +79,8 @@ skill_name_1003:
   en: "■ Activates after {description_value_01} normal attacks. Affects all allies.\n<color=#00AEFF><word_group=10015>Fills
     Burst Gauge</word_group> by {description_value_02}%.</color> \n■ Activates <word_group=10056>when
     a decoy is present</word_group>. Affects self.\n<color=#00AEFF><word_group=10057>Restores
-    the decoy's HP</word_group> an amount equal to {description_value_03}% of the
-    skill user's <word_group=10025>final</word_group> Max HP.</color>"
+    decoy HP</word_group> equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group>
+    max HP.</color>"
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
     <color=#00AEFF>[<word_group=10015>버스트 게이지 충전</word_group> {description_value_02}%]</color>
@@ -105,7 +105,7 @@ skill_name_1002:
     <color=#00AEFF>Attract: Taunts all enemies for {description_value_01} sec.
     Damage Taken ▼ {description_value_02}% for {description_value_03} sec.</color>
     ■ Activates <word_group=10056>when a decoy is present</word_group>. Affects self.
-    <color=#00AEFF><word_group=10058>Continuously restores the decoy's HP</word_group> an amount equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_05} sec.</color>
+    <color=#00AEFF><word_group=10058>Continuously restores decoy HP</word_group> equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_05} sec.</color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[주목 : 적 전체 도발] [{description_value_01}초 유지]

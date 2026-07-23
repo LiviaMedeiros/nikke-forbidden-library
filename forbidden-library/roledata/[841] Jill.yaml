@@ -25,8 +25,8 @@ piece_841:
   ja: ジルのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -58,8 +58,8 @@ character_shot_description_localkey_ar_down:
   en: |-
     ■ Activates at the start of battle and upon reloading to max ammunition. Affects self.
     <color=#00AEFF>Acid Ammo
-    Function: Upon reloading to max ammunition, only the first round deals sustained damage to the target.
-    Effect: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_02} sec.</color>
+    Function: Upon reloading to max ammunition, the first round deals sustained damage to the target.
+    Effect: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every second for {description_value_02} sec.</color>
     ■ Activates when entering Full Burst. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.</color>
   ko: |-

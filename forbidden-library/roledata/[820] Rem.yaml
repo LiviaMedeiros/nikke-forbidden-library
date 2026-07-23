@@ -23,8 +23,8 @@ piece_820:
   ja: レムのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -55,9 +55,9 @@ character_shot_description_localkey_mg_down:
 28202_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Recovers {description_value_01}% of attack damage as HP continuously.</color>
-    ■ Activates at the start of battle. Affects self and {description_value_02} Rocket Launcher-wielding ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
-    <color=#00AEFF><word_group=10046>Equally shares HP recovery</word_group> continuously.</color>
+    <color=#00AEFF>Recovers {description_value_01}% of attack damage as HP. This effect is continuous.</color>
+    ■ Activates at the start of battle. Affects self and the {description_value_02} ally unit(s) with rocket launchers who have the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF><word_group=10046>Equally shares HP recovery</word_group>. This effect is continuous.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[공격 대미지 비례 {description_value_01}% 회복] [지속]</color>
@@ -78,8 +78,8 @@ skill_name_1003:
   ja: レムにお任せください！
 28201_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s) in Demon's Breath status. Affects self.
-    <color=#00AEFF>ATK ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+    ■ Activates after landing {description_value_01} normal attacks while in the Demon's Breath state. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_02}%. Stacks up to {description_value_03} times and lasts for {description_value_04} sec.</color>
     ■ Activates when using Burst Skill. Affects all allies.
     <color=#00AEFF><word_group=10046>Equally shares HP recovery</word_group> for {description_value_05} sec.</color>
   ko: |-
@@ -104,7 +104,7 @@ skill_name_1002:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Demon's Breath: Critical Rate ▲ {description_value_01}% for {description_value_02} sec.</color>
-    ■ Affects all allies with a Rocket Launcher.
+    ■ Affects all allies with rocket launchers.
     <color=#00AEFF>ATK ▲ {description_value_03}% of the skill user's ATK for {description_value_04} sec.
     Max Ammunition Capacity ▲ {description_value_05} round(s) for {description_value_06} sec.</color>
   ko: |-

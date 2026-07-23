@@ -20,8 +20,8 @@ piece_50191:
   ja: アリスのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -56,10 +56,10 @@ character_shot_description_localkey_sr_up:
   ko: 건강한 당근
   ja: 健康なニンジン
 21912_description:
-  en: "■ Affects self. Activates when above {description_value_01}% HP.\n<color=#00AEFF>Gain
-    continuous Pierce.</color> \n■ Affects self. Activates when HP falls below {description_value_02}%.
-    \n<color=#00AEFF>Continuously recover HP by {description_value_03}% of attack
-    damage.</color>"
+  en: "■ Activates when this unit's HP is at {description_value_01}% or above. Affects
+    self.\n<color=#00AEFF>Gains Pierce.</color> \n■ Activates when this unit's HP
+    is below {description_value_02}%. Affects self.\n<color=#00AEFF>Restores HP equal
+    to {description_value_03}% of attack damage. This effect is continuous.</color>"
   ko: |-
     ■ 자신의 체력이 {description_value_01}% 이상이라면 자신에게
     <color=#00AEFF>[관통 특화] [지속]</color>

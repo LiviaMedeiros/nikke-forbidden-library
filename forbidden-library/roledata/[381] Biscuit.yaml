@@ -25,8 +25,8 @@ piece_381:
   ja: ビスケットのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -64,7 +64,7 @@ character_shot_description_localkey_rl_up:
   en: |-
     ■ Activates when a Defender ally's HP falls below {description_value_01}%. Affects the target Defender ally.
     <color=#00AEFF>Invincible for {description_value_04} sec. Activates {description_value_05} time(s) per battle.
-    Recovers {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP. Activates {description_value_03} time(s) per battle.</color>
+    Restores HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP. Activates {description_value_03} time(s) per battle.</color>
   ko: |-
     ■ 방어형 아군 누군가의 체력이 {description_value_01}% 이하라면 대상에게
     <color=#00AEFF>[무적] [{description_value_04}초 유지] [전투 중 {description_value_05}회 발동]
@@ -85,9 +85,9 @@ skill_name_1003:
   ja: ハッピーパピー
 23811_description:
   en: "■ Activates at the end of Full Burst. Affects all Attacker allies. \n<color=#00AEFF>Critical
-    Rate of normal attack ▲ {description_value_01}% for {description_value_02} sec.
-    \nConstantly recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group>
-    Max HP every 1 sec for {description_value_04} sec.</color>"
+    Rate of normal attacks ▲ {description_value_01}% for {description_value_02} sec.
+    \nRestores HP equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group>
+    max HP every second for {description_value_04} sec.</color>"
   ko: |-
     ■ 풀 버스트 타임 종료 시 화력형 아군 전체에게
     <color=#00AEFF>[일반 공격 크리티컬 확률 {description_value_01}% ▲] [{description_value_02}초 유지]
@@ -109,10 +109,10 @@ skill_name_1002:
 13813_description:
   en: |-
     ■ Affects {description_value_01} random ally unit(s) whose cover has been destroyed.
-    <color=#00AEFF><word_group=10016>Rebuild Cover</word_group> with {description_value_02}% HP.</color>
+    <color=#00AEFF><word_group=10016>Rebuilds cover</word_group> with {description_value_02}% HP.</color>
     ■ Affects all Supporter allies.
     <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.
-    Recovers {description_value_05}% of attack damage as HP over {description_value_06} sec.</color>
+    Restores HP equal to {description_value_05}% of attack damage. Lasts for {description_value_06} sec.</color>
   ko: |-
     ■ 엄폐물이 파괴된 아군 무작위 {description_value_01}기에게
     <color=#00AEFF>[엄폐물 체력 {description_value_02}%로 <word_group=10016>엄폐물 부활</word_group>]</color>

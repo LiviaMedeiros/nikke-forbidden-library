@@ -25,8 +25,8 @@ piece_842:
   ja: クレアのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -63,7 +63,7 @@ character_shot_description_localkey_rl_up:
 28422_description:
   en: |-
     ■ Activates when using Burst Skill. Affects all allies.
-    <color=#00AEFF>Blue Herb: Creates a <word_group=10023>Shield</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_02} sec.</color>
+    <color=#00AEFF>Blue Herb: Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP that lasts for {description_value_02} sec.</color>
   ko: |-
     ■ 버스트 스킬 사용 시 아군 전체에게
     <color=#00AEFF>[푸른 허브 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% <word_group=10023>보호막</word_group>] [{description_value_02}초 유지]</color>

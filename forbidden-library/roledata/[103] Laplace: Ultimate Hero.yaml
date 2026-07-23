@@ -1,0 +1,798 @@
+---
+103_name:
+  en: 'Laplace: Ultimate Hero'
+  ko: '라플라스 : 얼티밋 히어로'
+  ja: ラプラス：アルティメットヒーロー
+c103_description:
+  en: A true hero who's been reborn using the full might of Missilis's technology.
+    Should you ever find yourself in a crisis, you needn't worry; wherever help is
+    needed, that's where she'll be.
+  ko: |-
+    미실리스의 기술력을 총동원해 다시 태어난 진정한 히어로.
+    만일 위기에 빠지더라도 걱정할 필요는 없다.
+    도움이 필요한 곳이라면, 그녀는 반드시 나타날 테니까.
+  ja: |-
+    ミシリスの技術力を総動員して生まれ変わった真のヒーロー。
+    ピンチに陥ったとしても何も案ずることはない。
+    助けを必要としている場所には、彼女が必ず現れるのだから。
+103_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_103:
+  en: 'Laplace: Ultimate Hero''s Spare Body'
+  ko: '라플라스 : 얼티밋 히어로 스페어 바디'
+  ja: ラプラス：アルティメットヒーローのスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+21032_name:
+  en: Over Energy
+  ko: 오버 에너지
+  ja: オーバーエネルギー
+21032_description:
+  en: |-
+    ■ Activates after performing {description_value_08} normal attacks while in the Electric Power, Fully Full Charge state. Affects self.
+    <color=#00AEFF>Over Energy ▲ {description_value_09}% continuously, up to {description_value_01}%.</color>
+    ■ Activates when Over Energy reaches {description_value_01}%. <word_group=10100>Resets</word_group> Over Energy and affects self.
+    <color=#00AEFF>Advances to the next Over Energy stage. Effects vary for each stage of Over Energy. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:
+    Stage 1: Max HP ▲ {description_value_02}% continuously.
+    Stage 2: Max HP ▲ {description_value_03}% continuously.
+    Stage 3: Max HP ▲ {description_value_04}% continuously.
+    Stage 4: Max HP ▲ {description_value_05}% continuously.</color>
+    ■ Activates when entering Burst Stage 3. Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_06}% for {description_value_07} sec.</color>
+  ko: |-
+    ■ 일반 공격 {description_value_08}회 공격 시 자신이 일렉트릭 파워 풀 풀 차지 상태라면 자신에게
+    <color=#00AEFF>[오버 에너지 {description_value_09}% ▲] [최대 {description_value_01}%] [지속]</color>
+    ■ 자신이 오버 에너지 {description_value_01}% 도달 시 <word_group=10100>초기화</word_group> 후 자신에게
+    <color=#00AEFF>[오버 에너지 단계 증가] [오버 에너지 단계 별 효과] [<word_group=10028>하위 효과 중복 적용</word_group>]
+    1단계 : [최대 체력만 {description_value_02}% ▲] [지속]
+    2단계 : [최대 체력만 {description_value_03}% ▲] [지속]
+    3단계 : [최대 체력만 {description_value_04}% ▲] [지속]
+    4단계 : [최대 체력만 {description_value_05}% ▲] [지속]</color>
+    ■ 버스트 3단계 진입 시 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■通常攻撃で{description_value_08}回攻撃した時、自分がエレクトリックパワー・フル・フルチャージ状態なら自分に
+    <color=#00AEFF>「オーバーエネルギー{description_value_09}％▲」「最大{description_value_01}％」「持続」</color>
+    ■自分がオーバーエネルギー{description_value_01}％状態になった時、
+    <word_group=10100>初期化</word_group>した後、自分に
+    <color=#00AEFF>「オーバーエネルギーの段階増加」「オーバーエネルギーの段階別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    1段階：「最大HPのみ{description_value_02}％▲」「持続」
+    2段階：「最大HPのみ{description_value_03}％▲」「持続」
+    3段階：「最大HPのみ{description_value_04}％▲」「持続」
+    4段階：「最大HPのみ{description_value_05}％▲」「持続」</color>
+    ■バースト3段階突入時、自分に<color=#00AEFF>「攻撃ダメージ{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+21031_name:
+  en: Electric Power, Fully Full Charge!
+  ko: 일렉트릭 파워 풀 풀 차지
+  ja: エレクトリックパワー、フル・フルチャージ！！
+21031_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP continuously.</color>
+    ■ Activates when performing a Full Charge attack. Affects self.
+    <color=#00AEFF>Warm Up: Charge Speed ▲ {description_value_02}% continuously. Stacks up to {description_value_03} times.</color>
+    ■ Activates when Warm Up is at max stacks. Removes stacks and affects self.
+    <color=#00AEFF>Changes the weapon in use: Electric Power, Fully Full Charge
+    Damage: {description_value_05}% of <word_group=10025>final</word_group> ATK
+    Max Ammunition Capacity: {description_value_06} (<word_group=10107>max ammunition effects refresh when the weapon in use changes</word_group>)
+    <word_group=10097>Deactivation condition</word_group>: When all rounds are fired
+    Additional Effect: Gains Pierce</color>
+    ■ Activates when Electric Power, Fully Full Charge ends. Affects self.
+    <color=#00AEFF>Removes {description_value_07}% of ammo.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_01}% 만큼 공격력 ▲] [지속]</color>
+    ■ 풀 차지 공격 시 자신에게
+    <color=#00AEFF>[예열 : 차지 속도 {description_value_02}% ▲] [{description_value_03} 중첩] [지속]</color>
+    ■ 자신이 예열 최대 중첩 상태라면 중첩 해제 후 자신에게
+    <color=#00AEFF>[사용 무기 변경 : 일렉트릭 파워 풀 풀 차지] :
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_05}% 대미지
+    최대 장탄 수 : {description_value_06}발 (<word_group=10107>사용 무기 변경 시 최대 장탄 수 효과 갱신</word_group>)
+    <word_group=10097>제거 시점</word_group> : 모든 탄환 발사 시
+    추가 효과 : 관통 특화</color>
+    ■ 일렉트릭 파워 풀 풀 차지 상태 종료 시 자신에게
+    <color=#00AEFF>[탄환 {description_value_07}% 제거]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％分の
+    攻撃力▲」「持続」</color>
+    ■フルチャージして攻撃した時、自分に
+    <color=#00AEFF>「ウォームアップ：チャージ速度{description_value_02}％▲」
+    「{description_value_03}スタック」「持続」</color>
+    ■自分がウォームアップのフルスタック状態なら
+    スタック解除後、自分に
+    <color=#00AEFF>「使用武器変更：
+    エレクトリックパワー・フル・フルチャージ」
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のダメージ
+    最大装弾数：{description_value_06}発（<word_group=10107>使用武器変更時、最大装弾数に対する効果更新</word_group>）
+    <word_group=10097>解除条件</word_group>：全弾消費した時
+    追加効果：貫通特化</color>
+    ■エレクトリックパワー・フル・フルチャージ状態が終了した時、自分に
+    <color=#00AEFF>「残弾数{description_value_07}％減少」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+11033_name:
+  en: 'Regenerative Energy Armament: Mjolnir'
+  ko: '회생전력활용무장 : 묠니르'
+  ja: 回生エネルギー式武装：ミョルニル
+11033_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+    ■ Activates when the skill user is at stage 1 or higher of Over Energy. Affects the enemy nearest to the crosshair.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK x Over Energy stage as additional damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}% 버스트 스킬 대미지]</color>
+    ■ 자신이 오버 에너지 상태 1단계 이상이라면 조준선에 가장 가까운 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% X 오버 에너지 단계 추가 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の
+    バーストスキルダメージ」</color>
+    ■自分がオーバーエネルギー状態1段階以上なら、
+    照準線に最も近い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％×オーバーエネルギー
+    段階の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_wind:
+  en: A.N.M.I. Code Manual
+  ko: A.N.M.I. 코드 매뉴얼
+  ja: A.N.M.I.コードマニュアル
+material_characterskill_wind_desc:
+  en: |-
+    A manual only for Nikkes with A.N.M.I. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "A.N.M.I. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    A.N.M.I.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+102_name:
+  en: Maxwell
+  ko: 맥스웰
+  ja: マクスウェル
+101_name:
+  en: Drake
+  ko: 드레이크
+  ja: ドレイク
+100_name:
+  en: Laplace
+  ko: 라플라스
+  ja: ラプラス
+105_name:
+  en: 'Maxwell: Ordinary Mechanic'
+  ko: '맥스웰 : 오디너리 미케닉'
+  ja: マクスウェル：オーディナリーメカニック
+c103_Lobby_Touch_1:
+  en: This pounding in my chest... This is the new hero power of Matis!
+  ko: 가슴의 두근거림… 이것이 새로운 메티스의 히어로 파워다!
+  ja: この胸の高鳴り…これが新しいメティスのヒーローパワーだ！
+c103_Lobby_Touch_2:
+  en: I think I can take down even more villains now! I'd like to hear what you think
+    too, Birdie!
+  ko: |-
+    이제 더 많은 악당을 쓰러트릴 수 있을 것 같은데,
+    버드 보이의 생각도 듣고 싶다!
+  ja: |-
+    悪党をもっとたくさん倒せるようになった気がする。
+    バードボーイの考えも聞かせてくれ！
+c103_Lobby_Touch_3:
+  en: As long as you're by my side, there's nothing to fear.
+  ko: 버드 보이, 너와 함께라면 두려울 것이 없다.
+  ja: バードボーイ、君と一緒なら何も怖くない。
+c103_Lobby_Touch_Love_1:
+  en: Watch closely, Birdie! You're about to see what a real hero looks like!
+  ko: 버드 보이! 진정한 히어로의 모습, 잘 봐 둬라!
+  ja: |-
+    バードボーイ！
+    真のヒーローの姿をよく見てくれ！
+c103_Lobby_Touch_Love_2:
+  en: Thanks to your faith in me, I've become even stronger.
+  ko: 네가 믿어 준 덕분에, 나는 더 강해졌다.
+  ja: |-
+    君が信じてくれたおかげで、
+    私はさらに強くなった。
+c103_Lobby_Touch_Love_3:
+  en: Head up! Point your finger at the sky! Yes, that's it! That's the pose of a
+    true hero! Hahaha!
+  ko: |-
+    고개를 들어 하늘을 향해 손가락을 뻗어보는 거다!
+    그래, 그게 히어로 자세다! 하하하!
+  ja: |-
+    顔を上げ、空に向かって手を伸ばせ！
+    そう！それがヒーローのポーズだ！ははは！
+c103_Lobby_Stay_1:
+  en: I'm bursting with energy! I'm itching to do something!
+  ko: 힘이 넘치는데, 아무것도 안 하니까 몸이 근질거린다!
+  ja: |-
+    力はあり余っているのに、何もすることがない。
+    体がムズムズする！
+c103_Lobby_Stay_Love_1:
+  en: There's no point in me going out there alone... I'll be waiting for you to come
+    back, Birdie!
+  ko: |-
+    나 혼자 출동하는 건 의미가 없지만….
+    버드 보이, 네가 돌아오길 기다리고 있겠다!
+  ja: |-
+    私一人で出動しても意味がない…
+    バードボーイ、君が戻ってくるのを待っている！
+c103_Outpost_Touch_1:
+  en: This peaceful sight means more to me now than ever before!
+  ko: 이 평화로운 풍경이, 예전보다 가슴에 더 새겨지는 느낌이다!
+  ja: この平和な光景が、 前より心に響くな！
+c103_Outpost_Touch_2:
+  en: I can feel the vibrations from the armory all the way to my fingertips! My senses
+    are much sharper now!
+  ko: |-
+    무기고에서 나는 진동이 손끝까지 뚜렷하게 느껴진다!
+    지금의 나는 감각이 더 예민해진 것 같다!
+  ja: |-
+    武器庫の振動が、 指先まではっきりと伝わってくる！
+    感覚がもっと鋭くなったようだ！
+c103_Outpost_Touch_3:
+  en: Maxwell's hammer sounds mightier than ever! I won't be outdone!
+  ko: 맥스웰의 망치 소리가 더 우렁차졌군! 좋다, 나도 질 수 없지!
+  ja: |-
+    マクスウェルのハンマーの音が さらに力強くなったな！
+    私も負けてはいられない！
+c103_Gacha_Get_1:
+  en: Laplace, the ultimate hero! I've come to light the way!
+  ko: 얼티밋 히어로, 라플라스! 한 줄기 빛이 되기 위해 이곳에 왔다!
+  ja: |-
+    アルティメットヒーロー、ラプラス！
+    みんなを照らすため、ここに参上！
+c103_Reinforce_1:
+  en: Magnificent. This is the true power of a hero.
+  ko: 음, 훌륭하다. 이것이 진정한 히어로의 힘이지.
+  ja: おお、すごい。これが真のヒーローの力だ。
+c103_Reinforce_2:
+  en: Haha! I've surpassed yesterday's me once again!
+  ko: 오오! 어제의 나를 또 한 번 뛰어넘었군!
+  ja: おお！昨日の私をまたひとつ超えたな！
+c103_Reinforce_3:
+  en: Well done, Birdie! I swear I'll never use this power in vain!
+  ko: 잘했다, 버드 보이! 이 힘, 결코 헛되이 쓰지 않겠다!
+  ja: |-
+    よくやった、バードボーイ！
+    この力、決して無駄にはしない！
+c103_Gift_1:
+  en: You got this for me?! Even a true hero can't help but be touched!
+  ko: 이런 걸 나에게…! 진정한 히어로도 감동할 수밖에 없군.
+  ja: これを私に…？真のヒーローでも感動だ。
+c103_Gift_2:
+  en: Getting a gift from you makes me just as happy as powering up!
+  ko: |-
+    버드 보이에게 선물을 받는 건,
+    내 힘이 더욱 강해졌을 때만큼이나 기쁘다!
+  ja: |-
+    バードボーイからプレゼントをもらうのは、
+    力がもっと強くなった時と同じくらいうれしい！
+c103_Gift_3:
+  en: Birdie, thanks for sticking with me, even after I've changed!
+  ko: 버드 보이! 새로워진 나에게도 변함없는 마음, 정말 고맙다!
+  ja: バードボーイ！新しくなった私も変わらず気にかけてくれて、本当に感謝する！
+c103_Attractive_Up_1:
+  en: Your trust is what made me a true hero.
+  ko: 버드 보이의 신뢰가, 나를 진정한 히어로로 만들었다.
+  ja: バードボーイの信頼が、私を真のヒーローにしたんだ。
+c103_Attractive_Up_2:
+  en: You're so reliable, Birdie! I'm counting on you from here on out!
+  ko: |-
+    정말 의지가 된다, 버드 보이!
+    앞으로도 잘 부탁한다!
+  ja: |-
+    本当に頼りになるな、バードボーイ！
+    これからもよろしく頼む！
+c103_Attractive_Up_3:
+  en: It's always fun being with you, Birdie! It always has been, and it always will
+    be!
+  ko: |-
+    버드 보이와 함께 있으면 늘 즐겁다.
+    지금까지도, 그리고 앞으로도 계속 말이다!
+  ja: |-
+    バードボーイと一緒にいるといつも楽しい！
+    今までも、これからもずっとだ！
+c103_Party_Deploy_1:
+  en: Ultimate Hero Laplace, engage!
+  ko: 얼티밋 히어로 라플라스, 출격한다!
+  ja: アルティメットヒーローラプラス、出撃だ！
+c103_Field_Touch_1:
+  en: You called, Birdie?
+  ko: 불렀나, 버드 보이!
+  ja: 呼んだか、バードボーイ！
+c103_Field_Go_1:
+  en: I'll show you the way of a true hero!
+  ko: 진정한 히어로의 걸음을 보여주겠다!
+  ja: 真のヒーローの歩みを見せてやる！
+c103_Battle_Enter_1:
+  en: Let the battle begin!
+  ko: 전투 개시다!
+  ja: 戦闘開始だ！
+c103_Battle_Ready_1:
+  en: Fear not, for the true hero is here!
+  ko: 두려워 마라, 여기 진정한 히어로가 있다.
+  ja: 恐れるな。ここに真のヒーローがいる。
+c103_Battle_Ready_2:
+  en: No villain can stop me!
+  ko: 그 어떤 악당도 나를 막을 수는 없다!
+  ja: どんな悪党だろうと、私を止めることはできない！
+c103_Battle_Ready_3:
+  en: Time to put my new heroic powers to the test!
+  ko: 히어로의 새로운 힘을 시험할 수 있겠군!
+  ja: ヒーローの新たな力を試す時だ！
+c103_Reload_1:
+  en: Just you wait! I'll be back after I recharge!
+  ko: 기다려라, 악당 놈들! 충전 후 다시 간다!
+  ja: |-
+    待っていろ、悪党ども！
+    チャージしたらすぐに行く！
+c103_Reload_2:
+  en: Ultimate Hero Power, recharging!
+  ko: 얼티밋 히어로 파워, 재충전!
+  ja: アルティメットヒーローパワー、再チャージ！
+c103_Reload_3:
+  en: You're tough, I'll give you that. But I'm not losing!
+  ko: 끈질긴 녀석들이군. 하지만 지지 않는다!
+  ja: しつこい奴らだ。しかし、負けはしない！
+c103_Ult_Skill_Ready_1:
+  en: Birdie, now!
+  ko: 버드 보이, 지금이다!
+  ja: バードボーイ、今だ！
+c103_Ult_Skill_1:
+  en: Mjolnir, smite!
+  ko: 묠니르, 스마이트--!!
+  ja: ミョルニル、スマイト！！
+c103_FullBurst_1:
+  en: It's time to take down the villains!
+  ko: 바로 지금이 악당들을 쓰러트릴 때다!
+  ja: 今だ！悪党どもをやっつけろ！
+c103_Kill_Monster_1:
+  en: Evil has been vanquished!
+  ko: 악당을 무찔렀다!
+  ja: 悪党を倒したぞ！
+c103_Kill_Monster_2:
+  en: The fight isn't over!
+  ko: 아직 적이 남았군.
+  ja: まだ敵が残っているな。
+c103_Kill_Monster_3:
+  en: I won't stop now!
+  ko: 여기서 멈추지 않는다!
+  ja: こんなところで止まらない！
+c103_Damage_1:
+  en: Ugh.
+  ko: 윽.
+  ja: うっ…
+c103_Damage_2:
+  en: Nngh.
+  ko: 으읏.
+  ja: ううっ。
+c103_Damage_3:
+  en: Oof.
+  ko: 큿.
+  ja: くっ。
+c103_Die_1:
+  en: Sorry, Birdie. Looks like my hero power just wasn't enough...
+  ko: 미안하다, 버드 보이. 히어로 파워가 부족했던 것 같다….
+  ja: |-
+    すまない、バードボーイ。
+    ヒーローパワーが足りなかったようだ…
+c103_Win_1:
+  en: Where there's a hero, victory is sure to follow! Hahaha!
+  ko: 히어로가 있는 곳에 승리가 있는 법이다! 하하하!
+  ja: ヒーローのいるところに勝利あり！ハッハッハ！
+c103_01_Lobby_Touch_1:
+  en: Nice to meet you! I'm Laplace, the hero of tomorrow!
+  ko: 반갑다! 나는 미래에 히어로가 될, 라플라스라고 한다!
+  ja: |-
+    会えて嬉しい！
+    私は未来のヒーロー、ラプラスだ！
+c103_01_Lobby_Touch_2:
+  en: My body used to be weak, but not anymore!
+  ko: |-
+    예전에 내 몸은 약했다.
+    그러나, 이제 더는 약하지 않다!
+  ja: |-
+    私の体は弱かった。
+    しかし、もう弱くはない！
+c103_01_Lobby_Touch_3:
+  en: I'll face every hardship head-on! I'll scale every wall in my way! And if I
+    get knocked down, I'll just get right back up!
+  ko: |-
+    고난이 오면 맞선다! 벽이 있으면 넘는다!
+    쓰러지면 다시 일어나면 된다!
+  ja: |-
+    困難には立ち向かう！壁があれば乗り越える！
+    倒れても、また立ち上がればいい！
+c103_01_Lobby_Touch_Love_1:
+  en: I will become a hero. This isn't just a dream. It's the future I've chosen for
+    myself!
+  ko: |-
+    나는 반드시 히어로가 될 것이다.
+    이건 꿈이 아니다. 내가 정한 미래다!
+  ja: |-
+    私は必ずヒーローになってみせる。
+    これは夢ではない。私が決めた未来だ！
+c103_01_Lobby_Touch_Love_2:
+  en: I believe in myself! And I believe in Syuen because she believes in me!
+  ko: |-
+    나는 나를 믿는다.
+    그리고 나를 믿는 슈엔을 믿는다!
+  ja: |-
+    私は私を信じている。
+    そして私を信じてくれるシュエンを信じている！
+c103_01_Lobby_Touch_Love_3:
+  en: Give up? Not a chance! "Giving up" isn't in my dictionary!
+  ko: |-
+    포기? 걱정 마라!
+    내 사전에 포기란 없다!
+  ja: |-
+    諦める？心配するな！
+    私の辞書に諦めるという文字はない！
+c103_01_Lobby_Stay_1:
+  en: I'm terrible at sitting around waiting! How much longer do I have to wait?
+  ko: 가만히 기다리는 건 자신 없다! 언제까지 기다리면 되지?
+  ja: |-
+    じっと待っているのは苦手だ！
+    いつまで待てばいい？
+c103_01_Lobby_Stay_Love_1:
+  en: If I want to be a hero, I've gotta pass a grueling test first! I'll keep training
+    until then, so hurry back!
+  ko: |-
+    히어로가 되려면 난이도 높은 테스트를 거쳐야 한다!
+    단련하고 있을 테니 다녀와라!
+  ja: |-
+    ヒーローになるために、難しいテストをクリアしなければならない！
+    私はここで鍛えているから、行ってこい！
+c103_01_Outpost_Touch_1:
+  en: Now, where's Syuen? Oh, I think she went that way!
+  ko: |-
+    슈엔이 있는 곳은 어디지?
+    아, 저쪽이었던 것 같다!
+  ja: |-
+    シュエンはどこだ？
+    あっ、あっちだ！
+c103_01_Outpost_Touch_2:
+  en: Just wait a little longer! I'll become a hero and keep this place safe!
+  ko: |-
+    조금만 기다려라!
+    히어로가 되어 이곳의 평화를 지켜주겠다!
+  ja: |-
+    少し待っていてくれ！
+    ヒーローになって、私がここの平和を守る！
+c103_01_Outpost_Touch_3:
+  en: Need help? Just call on me!
+  ko: |-
+    도움이 필요한가?
+    언제든 나를 불러라!
+  ja: |-
+    助けが必要か？
+    いつでも呼んでくれ！
+c103_01_Gacha_Get_1:
+  en: I'm Laplace! I may have been weak once, but I will become the strongest hero
+    ever!
+  ko: |-
+    내 이름은 라플라스!
+    약했던 과거를 딛고, 최강의 히어로가 될 자다!
+  ja: |-
+    私の名前はラプラス！
+    弱かった過去の自分を乗り越え、最強のヒーローになる者だ！
+c103_01_Reinforce_1:
+  en: Whoa! My body feels so much lighter!
+  ko: 오오, 몸이 가벼워지고 있다!
+  ja: おお！体が軽くなってきた！
+c103_01_Reinforce_2:
+  en: So this is what it feels like to get stronger!
+  ko: 이것이 강해지는 느낌인가!
+  ja: これが強くなるという感覚か！
+c103_01_Reinforce_3:
+  en: I feel like I'm one step closer to becoming a hero. Thanks!
+  ko: 히어로에 한 걸음 더 가까워진 것 같다. 고맙다!
+  ja: ヒーローにまた一歩近づいた気がする。感謝する！
+c103_01_Gift_1:
+  en: Support for a hero-in-training? I'll gladly take it!
+  ko: 예비 히어로를 위한 지원인가? 고맙게 받겠다!
+  ja: 未来のヒーローへのサポートか？ありがたくいただこう！
+c103_01_Gift_2:
+  en: I've never received anything like this before. I'm so happy!
+  ko: 이런 건 처음 받아보는군. 기쁘다!
+  ja: こういうものは初めてもらった。嬉しいぞ！
+c103_01_Gift_3:
+  en: You really put this together yourself? I'm so touched! I promise I'll become
+    a hero and repay you!
+  ko: |-
+    정말 이걸 직접 준비한 건가? 감동이다!
+    꼭 히어로가 되어 보답하겠다!
+  ja: |-
+    本当に君がこれを用意してくれたのか？感動したぞ！
+    必ずヒーローになって恩を返そう！
+c103_01_Attractive_Up_1:
+  en: I'm counting on you from here on out!
+  ko: 앞으로도 잘 부탁한다!
+  ja: これからもよろしく頼む！
+c103_01_Attractive_Up_2:
+  en: Thanks for believing in me! I feel like I can take on anything!
+  ko: |-
+    믿어줘서 고맙다.
+    뭐든 다 해낼 수 있을 것만 같다!
+  ja: |-
+    信じてくれてありがとう。
+    何でもやり遂げられそうだ！
+c103_01_Attractive_Up_3:
+  en: So this is what happiness feels like! I already feel like a true hero!
+  ko: |-
+    이게 바로 행복이라는 건가!
+    벌써 히어로가 된 기분이다!
+  ja: |-
+    これが幸せということか！
+    もうヒーローになった気分だ！
+c103_01_Party_Deploy_1:
+  en: Never fear! Your hero's here!
+  ko: 걱정 마라! 내가 왔다!
+  ja: もう心配いらない！私が来たからな！
+c103_01_Field_Touch_1:
+  en: I'll protect you no matter what!
+  ko: 내가 꼭 지켜주겠다!
+  ja: 私が守ってみせる！
+c103_01_Field_Go_1:
+  en: Someone call for a hero?
+  ko: 날 불렀나?
+  ja: 私を呼んだか？
+c103_01_Battle_Enter_1:
+  en: Hero... No, it's time for this hero-in-training to step up!
+  ko: |-
+    히어로, 아니.
+    예비 히어로가 나설 차례군!
+  ja: |-
+    ヒーロー、いや、
+    未来のヒーローの出番だな！
+c103_01_Battle_Ready_1:
+  en: A hero overcomes hardship and never stops moving forward!
+  ko: 고난을 이겨내고 앞으로 나아가는 것이 히어로다!
+  ja: 困難に打ち勝ち、前へ進む。それがヒーローだ！
+c103_01_Battle_Ready_2:
+  en: I'll prove I've got what it takes to be a hero!
+  ko: 히어로가 될 자격이 있다는 걸 보여주겠다!
+  ja: ヒーローの資格を見せてやる！
+c103_01_Battle_Ready_3:
+  en: Leave everything to me!
+  ko: 나만 믿어라!
+  ja: 私を信じろ！
+c103_01_Reload_1:
+  en: Piece of cake!
+  ko: 이 정도는 식은 죽 먹기다!
+  ja: こんなの朝飯前だ！
+c103_01_Reload_2:
+  en: Have no fear! Your hero is here!
+  ko: 불안해하지 마라, 내가 있다!
+  ja: 不安に思うな、私がいる！
+c103_01_Reload_3:
+  en: Just a quick breather!
+  ko: 잠깐 숨 돌리겠다!
+  ja: 少し息を整える！
+c103_01_Ult_Skill_Ready_1:
+  en: I'm ready!
+  ko: 준비됐다!
+  ja: 準備できたぞ！
+c103_01_Ult_Skill_1:
+  en: I'll surpass my limits and become a hero!
+  ko: 나는 한계를 넘어 히어로가 된다--!!
+  ja: 限界を超え、ヒーローになる！！
+c103_01_FullBurst_1:
+  en: Give it everything you've got!
+  ko: 전력으로 퍼부어라!
+  ja: 全力でかかれ！
+c103_01_Kill_Monster_1:
+  en: Justice delivers the final blow!
+  ko: 정의의 일격이다!
+  ja: 正義の一撃だ！
+c103_01_Kill_Monster_2:
+  en: I've gotten stronger!
+  ko: 나는 강해졌다!
+  ja: 私は強くなった！
+c103_01_Kill_Monster_3:
+  en: Bring it on!
+  ko: 누구든 덤벼라!
+  ja: 誰であろうとかかってこい！
+c103_01_Damage_1:
+  en: Ugh.
+  ko: 큭.
+  ja: くっ…
+c103_01_Damage_2:
+  en: Darn.
+  ko: 이런.
+  ja: おっと…
+c103_01_Damage_3:
+  en: Argh.
+  ko: 윽.
+  ja: うっ…
+c103_01_Die_1:
+  en: I lost... But it's not over yet.
+  ko: 졌다… 하지만 끝난 것은 아니다.
+  ja: 負けた…だが、終わったわけではない。
+c103_01_Win_1:
+  en: See that? Justice always prevails!
+  ko: 봤나! 정의는 언제나 승리한다!
+  ja: 見たか！正義は常に勝つ！
+103_cv_ja:
+  en: 'CV: Ai Kakuma'
+  ko: 'CV : 카쿠마 아이'
+  ja: CV：加隈亜衣
+103_cv_ko:
+  en: 'CV: Kim Ye-rim'
+  ko: 'CV : 김예림'
+  ja: CV：キム・エリム
+103_cv_en:
+  en: 'CV: Lauren Landa'
+  ko: 'CV : 로런 랜다'
+  ja: CV：Lauren Landa

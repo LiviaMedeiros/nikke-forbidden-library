@@ -26,8 +26,8 @@ piece_50280:
   ja: ロザンナのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -83,18 +83,18 @@ skill_name_1003:
   en: On the Lam
   ko: 온 더 렘
   ja: オン・ザ・ラム
-22801_description:
+22801_description_1:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    ■ Activates after landing {description_value_01} normal attacks. Affects self.
     <color=#00AEFF>Concealment: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_02} sec. This effect is removed upon taking a direct hit.
     Critical Rate ▲ {description_value_03}% for {description_value_04} sec.</color>
-    ■ Activates after landing {description_value_05} normal attack(s). Affects {description_value_06} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    ■ Activates after performing {description_value_05} normal attacks. Affects the {description_value_06} enemy unit(s) with the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF><word_group=10022>Removes {description_value_07} buff(s)</word_group>. Activates {description_value_08} time(s) per battle.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
     <color=#00AEFF>[은신 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_02}초 유지]
     [크리티컬 확률 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
-    ■ 일반 공격 {description_value_05}회 명중 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_06}기에게
+    ■ 일반 공격 {description_value_05}회 공격 시 <word_group=10025>최종</word_group> 공격력이 가장 높은 적 {description_value_06}기에게
     <color=#00AEFF>[<word_group=10022>이로운 효과 해제</word_group> {description_value_07}개] [전투 중 {description_value_08}회 발동]</color>
   ja: |-
     ■通常攻撃が{description_value_01}回命中した時、自分に
@@ -102,8 +102,10 @@ skill_name_1003:
     直接攻撃を受けると解除」「{description_value_02}秒間維持」
     「クリティカル確率{description_value_03}％▲」
     「{description_value_04}秒間維持」</color>
-    ■通常攻撃が{description_value_05}回命中した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵{description_value_06}機に
-    <color=#00AEFF>「<word_group=10022>バフ効果解除</word_group>{description_value_07}個」「戦闘中{description_value_08}回発動」</color>
+    ■通常攻撃で{description_value_05}回攻撃した時、<word_group=10025>最終</word_group>攻撃力が最も高い敵
+    {description_value_06}機に
+    <color=#00AEFF>「<word_group=10022>バフ効果解除</word_group>{description_value_07}個」「戦闘中
+    {description_value_08}回発動」</color>
 skill_name_1002:
   en: Skill 1
   ko: 스킬1
@@ -114,9 +116,9 @@ skill_name_1002:
   ja: ヴェンデッタ
 12803_description:
   en: |-
-    ■ <word_group=10021>Prioritizes {description_value_01} Attacker enemy unit(s)</word_group>.
+    ■ <word_group=10021>Prioritizes Attacker-type enemies</word_group>. Affects {description_value_01} unit(s).
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    ■ Affects the same target(s) when in Concealment status.
+    ■ Activates if the skill user is in the Concealment state. Affects the same target(s).
     <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ <word_group=10021>우선적으로 화력형 적</word_group> {description_value_01}기에게

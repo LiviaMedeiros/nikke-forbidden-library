@@ -26,8 +26,8 @@ piece_411:
   ja: フローラのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -55,19 +55,19 @@ character_shot_description_localkey_mg_down:
   en: Iris
   ko: 아이리스
   ja: アイリス
-24112_description:
+241121_description_1:
   en: |-
-    ■ Activates when the HP of one of the allies on <word_group=10055>both sides</word_group> is lower than {description_value_01}%. Affects all allies.
-    <color=#00AEFF>Generates a <word_group=10023>Shield</word_group> with {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP for {description_value_03} sec.</color>
-    ■ Activates when the HP of one of the allies on <word_group=10055>both sides</word_group> reaches Max HP. Affects all allies.
+    ■ Activates when the HP of an <word_group=10055>adjacent</word_group> ally drops to {description_value_01}% or below while the ally is still alive. Affects all allies.
+    <color=#00AEFF>Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP that lasts for {description_value_03} sec.</color>
+    ■ Activates when either <word_group=10055>adjacent</word_group> ally reaches max HP. Affects all allies.
     <color=#00AEFF>True Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
-    ■ 자신의 <word_group=10055>양 옆</word_group> 아군 중 1기가 체력 {description_value_01}% 이하 도달 시 아군 전체에게
+    ■ 자신의 <word_group=10055>양 옆</word_group> 아군 중 1기가 생존 상태에서 체력 {description_value_01}% 이하 도달 시 아군 전체에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% <word_group=10023>보호막</word_group>] [{description_value_03}초 유지]</color>
     ■ 자신의 <word_group=10055>양 옆</word_group> 아군 중 1기가 최대 체력 도달 시 아군 전체에게
     <color=#00AEFF>[방어력 무시 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
   ja: |-
-    ■自分の<word_group=10055>両隣</word_group>の味方のうち1機がHP{description_value_01}％以下になった時、味方全体に
+    ■自分の<word_group=10055>両隣</word_group>の味方のうち1機が生存状態かつHP{description_value_01}％以下になった時、味方全体に
     <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％の<word_group=10023>バリア</word_group>」「{description_value_03}秒間維持」</color>
     ■自分の<word_group=10055>両隣</word_group>の味方のうち1機のHPが最大になった時、味方全体に
     <color=#00AEFF>「防御力無視ダメージ{description_value_04}％▲」「{description_value_05}秒間維持」</color>
@@ -81,11 +81,11 @@ skill_name_1003:
   ja: ペチュニア
 24111_description:
   en: |-
-    ■ Activates at the start of battle, only if self is alive. Affects self and 2 allies on <word_group=10055>both sides</word_group>.
-    <color=#00AEFF>Recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec continuously.
-    Incoming healing ▲ {description_value_05}% continuously, stacks up to {description_value_06} time(s).</color>
-    ■ Activates after landing {description_value_03} normal attack(s). Affects all Electric Code allies.
-    <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_04}.</color>
+    ■ Activates at the start of battle as long as this unit is alive. Affects self and both <word_group=10055>adjacent</word_group> allies.
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second.
+    Incoming Healing ▲ {description_value_05}% continuously. Stacks up to {description_value_06} times.</color>
+    ■ Activates after landing {description_value_03} normal attacks. Affects all Electric Code allies.
+    <color=#00AEFF>Increases the <word_group=10001>stack count of stackable buffs</word_group> by {description_value_04}.</color>
   ko: |-
     ■ 전투 시작 시 자신이 생존 상태일 때 한하여 자신과 자신의 <word_group=10055>양 옆</word_group>에 있는 아군 2기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복] [1초 간격] [지속]

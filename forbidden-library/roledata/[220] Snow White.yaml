@@ -21,8 +21,8 @@ piece_50220:
   ja: スノーホワイトのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -53,7 +53,7 @@ character_shot_description_localkey_ar_down:
 12202_description:
   en: "■ Affects <word_group=10020>enemies within range</word_group>.\n<color=#00AEFF>Deals
     {description_value_01}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    \n■ Activates when using this skill during Full Burst. Affects self.\n<color=#00AEFF>Critical
+    \n■ Activates when this skill is used during Full Burst. Affects self.\n<color=#00AEFF>Critical
     Rate ▲ {description_value_02}% for {description_value_03} sec.</color>"
   ko: "■ <word_group=10020>공격 범위 내 적들</word_group>에게\n<color=#00AEFF>[<word_group=10025>최종</word_group>
     공격력 {description_value_01}% 대미지]</color>\n■ 풀 버스트 타임 지속 시간 중 발동 시 자신에게 \n<color=#00AEFF>[크리티컬

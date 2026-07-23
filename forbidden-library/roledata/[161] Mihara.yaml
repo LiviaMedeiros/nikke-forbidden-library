@@ -21,8 +21,8 @@ piece_50161:
   ja: ミハラのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -100,7 +100,7 @@ skill_name_1002:
     <color=#00AEFF>Full Burst Duration ▼ 5 sec.</color>
     ■ Affects all enemies.
     <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
-    ■ Activates while in Highway to Hell 2 status. Affects all enemies.
+    ■ Activates if the skill user is in the Highway to Hell 2 state. Affects all enemies.
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: "■ 아군 전체에게 \n<color=#00AEFF>[풀 버스트 타임 지속 시간 5초 ▼]</color>\n■ 적 전체에게 \n<color=#00AEFF>[<word_group=10025>최종</word_group>
     공격력 {description_value_01}% 버스트 스킬 대미지]</color>\n■ 자신이 페인 로드 2 상태라면 적 전체에게\n<color=#00AEFF>[<word_group=10025>최종</word_group>

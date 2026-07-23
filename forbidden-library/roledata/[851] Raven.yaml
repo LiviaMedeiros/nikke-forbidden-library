@@ -23,8 +23,8 @@ piece_851:
   ja: レイヴンのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -94,7 +94,7 @@ skill_name_1003:
 28511_description:
   en: |-
     ■ Activates when performing a Full Charge attack. Affects the enemy unit nearest to the crosshair.
-    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec, stacks up to {description_value_05} times and lasts for {description_value_02} sec.</color>
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every second. Stacks up to {description_value_05} times and lasts for {description_value_02} sec.</color>
     ■ Activates when entering Full Burst. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_03}% of the skill user's ATK for {description_value_04} sec.</color>
   ko: |-
@@ -115,12 +115,12 @@ skill_name_1002:
   en: Tempest
   ko: 템페스트
   ja: テンペスト
-18513_description:
+18513_description_1:
   en: |-
     ■ Affects all enemies (including parts).
     <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
     ■ Affects self.
-    <color=#00AEFF>A.N. Mode:
+    <color=#00AEFF>A.N. Mode
     Effect 1: Removes Single Point Attack.
     Effect 2: Sustained damage ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
@@ -128,8 +128,8 @@ skill_name_1002:
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 버스트 스킬 대미지]</color>
     ■ 자신에게
     <color=#00AEFF>[A.N. 모드] :
-    효과1 : [일점 공격 삭제]
-    효과2 : [지속 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    효과 1 : [일점 공격 삭제]
+    효과 2 : [지속 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
   ja: |-
     ■敵全体（パーツ含む）に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のバーストスキルダメージ」</color>

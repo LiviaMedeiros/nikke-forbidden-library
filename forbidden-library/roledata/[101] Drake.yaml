@@ -21,8 +21,8 @@ piece_50101:
   ja: ドレイクのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -252,6 +252,14 @@ material_characterskill_a_ssr_desc:
   en: Laplace
   ko: 라플라스
   ja: ラプラス
+103_name:
+  en: 'Laplace: Ultimate Hero'
+  ko: '라플라스 : 얼티밋 히어로'
+  ja: ラプラス：アルティメットヒーロー
+105_name:
+  en: 'Maxwell: Ordinary Mechanic'
+  ko: '맥스웰 : 오디너리 미케닉'
+  ja: マクスウェル：オーディナリーメカニック
 c101_Lobby_Touch_1:
   en: Heehee, transform.
   ko: 후후후. 변신.

@@ -24,8 +24,8 @@ piece_50130:
   ja: メアリーのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -56,7 +56,7 @@ character_shot_description_localkey_sg_down:
 21302_description:
   en: |-
     ■ Activates when entering Full Burst. Affects all allies.
-    <color=#00AEFF>Incoming healing ▲ {description_value_01}% for {description_value_02} sec.</color>
+    <color=#00AEFF>Incoming Healing ▲ {description_value_01}% for {description_value_02} sec.</color>
   ko: |-
     ■ 풀 버스트 타임 시작 시 아군 전체에게
     <color=#00AEFF>[받는 체력 회복량 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
@@ -72,9 +72,10 @@ skill_name_1003:
   ko: CPR
   ja: CPR
 21301_description:
-  en: "■ Activates when the last bullet hits the target. Affects {description_value_01}
-    ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Recovers {description_value_02}%
-    of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>"
+  en: "■ Activates when the last bullet hits the target. Affects the {description_value_01}
+    ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Restores HP equal
+    to {description_value_02}% of the skill user's <word_group=10025>final</word_group>
+    max HP.</color>"
   ko: |-
     ■ 마지막 탄환 명중 시 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
@@ -92,8 +93,8 @@ skill_name_1002:
 11303_description:
   en: |-
     ■ Affects all allies.
-     <color=#00AEFF>Recovers {description_value_04}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
-    ■ Activates when above {description_value_01}% HP. Affects all allies.
+     <color=#00AEFF>Restores HP equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
+    ■ Activates when this unit's HP is at {description_value_01}% or above. Affects all allies.
     <color=#00AEFF>DEF ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ 아군 전체에게

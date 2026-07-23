@@ -24,8 +24,8 @@ piece_514:
   ja: グレイブのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -94,11 +94,11 @@ skill_name_1003:
   ja: ヒートラジエーション
 25141_description_1:
   en: |-
-    ■ Activates when Prediction status ends. Affects self.
+    ■ Activates when Prediction ends. Affects self.
     <color=#00AEFF>Removes {description_value_01}% of ammo.
     Heat Emission: Reload Ratio ▼ {description_value_02}%. <word_group=10059>Removes Heat Emission under certain conditions</word_group>.</color>
     ■ Activates only when in Heat Emission status. Affects self.
-    <color=#00AEFF>Recovers {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec continuously.</color>
+    <color=#00AEFF>Restores HP equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group> max HP every second. This effect is continuous.</color>
     ■ Activates only when in Heat Emission status. Affects all allies.
     <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_04}% continuously.
     <word_group=10042>Pierce Damage</word_group> ▲ {description_value_05}% continuously.</color>
@@ -135,9 +135,9 @@ skill_name_1002:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Prediction:
-    Current HP ▼ {description_value_01}% every 1 sec, lasts for 10 sec.
+    Current HP ▼ {description_value_01}% every second for 10 sec.
     Grants unlimited ammunition for 10 sec.
-    Gain Pierce for 10 sec.
+    Grants Pierce for 10 sec.
     <word_group=10042>Pierce Damage</word_group> ▲ {description_value_02}% for 10 sec.
     Critical Rate ▲ {description_value_06}% for 10 sec.</color>
     ■ Affects all allies.

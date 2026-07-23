@@ -21,8 +21,8 @@ piece_50221:
   ja: ラプンツェルのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -57,9 +57,9 @@ character_shot_description_localkey_rl_up:
   ko: 디바인 블레스
   ja: ディヴァインブレス
 12212_description:
-  en: "■ Affects {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
+  en: "■ Affects the {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group>
     ATK.\n<color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03}
-    sec. \nIncoming healing ▲ {description_value_04}% for {description_value_05} sec.</color>"
+    sec. \nIncoming Healing ▲ {description_value_04}% for {description_value_05} sec.</color>"
   ko: |-
     ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 {description_value_01}기에게
     <color=#00AEFF>[최대 체력 {description_value_02}% ▲] [{description_value_03}초 유지]
@@ -78,8 +78,9 @@ skill_name_1003:
   ja: サクリファイス
 22211_description:
   en: "■ Activates when performing a Full Charge attack. Affects the {description_value_01}
-    ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Recovers {description_value_02}%
-    of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>"
+    ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Restores HP equal
+    to {description_value_02}% of the skill user's <word_group=10025>final</word_group>
+    max HP.</color>"
   ko: |-
     ■ 풀 차지 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
@@ -97,10 +98,10 @@ skill_name_1002:
 12213_description_1:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
-    ■ Affects {description_value_02} incapacitated ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
-    <color=#00AEFF>Resurrect with {description_value_03}% HP.</color>
-    ■ Activates when HP falls below {description_value_04}%. Affects all enemies.
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
+    ■ Affects the {description_value_02} incapacitated ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
+    <color=#00AEFF>Revives with {description_value_03}% HP.</color>
+    ■ Activates when this unit's HP is at {description_value_04}% or below. Affects all enemies.
     <color=#00AEFF>Stun for {description_value_05} sec.</color>
   ko: |-
     ■ 아군 전체에게

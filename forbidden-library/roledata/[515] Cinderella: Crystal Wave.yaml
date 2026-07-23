@@ -24,8 +24,8 @@ piece_515:
   ja: シンデレラ：クリスタルウェーブのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -96,14 +96,18 @@ character_shot_description_localkey_mg_down:
     ■狙撃モード適用時、自分に
     <color=#00AEFF>「デストロイ：<word_group=10011>パーツダメージ</word_group>{description_value_03}％▲」「持続」
     「ピンポイント解除」</color>
-    ■戦闘開始時および狙撃モード解除時、自分に
-    <color=#00AEFF>「ピンポイント：コアダメージ{description_value_04}％▲」「持続」
-    「デストロイ解除」</color>
+    ■戦闘開始時および狙撃モード解除時、
+    自分に
+    <color=#00AEFF>「ピンポイント：コアダメージ{description_value_04}％▲」
+    「持続」「デストロイ解除」</color>
     ■フルバーストタイムが発動した時、直前に自分がバーストスキルを使用していれば
     <color=#00AEFF>「モード適用別効果」「該当効果のみ適用」</color>
-    自分が狙撃モードなら敵全体に（パーツ含む）
-    <color=#00AEFF>効果1：「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のダメージ」</color>
-    自分が狙撃モードでなければコアが活性化している敵全体に
+    自分が狙撃モードなら
+    敵全体に（パーツ含む）
+    <color=#00AEFF>効果1：「<word_group=10025>最終</word_group>攻撃力の
+    {description_value_05}％のダメージ」</color>
+    自分が狙撃モードでなければ
+    コアが活性化している敵全体に
     <color=#00AEFF>効果1：「<word_group=10025>最終</word_group>攻撃力の{description_value_06}％の<word_group=10104>コア命中ダメージ</word_group>」</color>
 skill_name_1003:
   en: Skill 2
@@ -113,14 +117,14 @@ skill_name_1003:
   en: Beauty-Full
   ko: 뷰티-풀
   ja: ビューティー・フル
-25151_description:
+25151_description_1:
   en: |-
     ■ Activates upon reloading to max ammunition while in the Preparation for Change state. Affects self.
     <color=#00AEFF>Changes the weapon in use: Snipe Mode
     Charge Time: 1 sec
     Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
     Full Charge Damage: 250% of damage
-    Max Ammunition Capacity: 15 rounds (max ammunition effect refreshes after reloading)
+    Max Ammunition Capacity: 15 (<word_group=10106>max ammunition effects refresh after reloading</word_group>)
     Additional Effect 1: Gains Pierce.
     Additional Effect 2: Activates when performing a Full Charge attack. <word_group=10099>Expends ammo</word_group>. Amount: {description_value_02} round(s).
     Additional Effect 3: Charge time is fixed at 1 sec.
@@ -139,10 +143,10 @@ skill_name_1003:
     차지 시간 : 1초
     대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
     풀 차지 대미지 : 250% 대미지
-    최대 장탄 수 : 15발 (재장전 완료 시 최대 장탄 수 효과 갱신)
-    추가 효과1 : 관통 특화
-    추가 효과2 : 풀 차지 공격 시 <word_group=10099>탄환 소모</word_group> {description_value_02}발
-    추가 효과3 : 차지 시간 1초로 고정
+    최대 장탄 수 : 15발 (<word_group=10106>재장전 완료 시 최대 장탄 수 효과 갱신</word_group>)
+    추가 효과 1 : 관통 특화
+    추가 효과 2 : 풀 차지 공격 시 <word_group=10099>탄환 소모</word_group> {description_value_02}발
+    추가 효과 3 : 차지 시간 1초로 고정
     해제 조건 : 변경 준비 상태에서 최대 장탄 재장전 완료</color>
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[뷰티-풀: 공격 대미지 {description_value_03}% ▲] [지속]</color>
@@ -159,7 +163,7 @@ skill_name_1003:
     チャージ時間：1秒
     ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
     フルチャージダメージ：250％
-    最大装弾数：15発（リロード完了時、最大装弾数の効果更新）
+    最大装弾数：15発（<word_group=10106>リロード完了時、最大装弾数に対する効果更新</word_group>）
     追加効果1：貫通特化
     追加効果2：フルチャージして攻撃した時、<word_group=10099>弾薬消費</word_group>{description_value_02}発
     追加効果3：チャージ時間1秒に固定
@@ -195,8 +199,7 @@ skill_name_1002:
     ■自分に
     <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
     「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
-    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に
-    <color=#00AEFF>
+    ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に<color=#00AEFF>
     「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％のバーストスキルダメージ」</color>
 skill_name_1001:
   en: Burst Skill

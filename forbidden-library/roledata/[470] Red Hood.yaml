@@ -26,8 +26,8 @@ piece_470:
   ja: レッドフードのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -64,12 +64,12 @@ character_shot_description_localkey_sr_up:
 24702_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Gain Pierce continuously.</color>
-    ■ Activates during Beast Cage. Affects all allies.
+    <color=#00AEFF>Gains Pierce. This effect is continuous.</color>
+    ■ Activates when Beast Cage takes effect. Affects all allies.
     <color=#00AEFF>DEF ▲ {description_value_01}% of the skill user's DEF for {description_value_02} sec.</color>
-    ■ Activates during The Last Howl. Affects self.
-    <color=#00AEFF>Recovers {description_value_03}% of attack damage as HP over {description_value_04} sec.</color>
-    ■ Activates when casting Red Wolf. Affects self.
+    ■ Activates when The Last Howl takes effect. Affects self.
+    <color=#00AEFF>Restores HP equal to {description_value_03}% of attack damage. Lasts for {description_value_04} sec.</color>
+    ■ Activates when Red Wolf activates. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
   ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[관통 특화] [지속]</color>\n■ 자신이 비스트 케이지 적용 시 아군
     전체에게 \n<color=#00AEFF>[시전자 기준 방어력 {description_value_01}% ▲] [{description_value_02}초
@@ -98,9 +98,9 @@ skill_name_1003:
 24701_description:
   en: |-
     ■ Activates when performing a normal attack. Affects self.
-    <color=#00AEFF>Charge Speed ▲ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
+    <color=#00AEFF>Charge Speed ▲ {description_value_01}%. Stacks up to {description_value_02} times and lasts for {description_value_03} sec.</color>
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF><word_group=10035>Convert excess value over 100% of Charge Speed to Charge Damage</word_group>. Charge Damage ▲ {description_value_04}% of the excess value continuously.</color>
+    <color=#00AEFF><word_group=10035>Converts Charge Speed over 100% into Charge Damage</word_group>. Charge Damage ▲ {description_value_04}% of the excess speed. This effect is continuous.</color>
   ko: |-
     ■ 일반 공격 시 자신에게
     <color=#00AEFF>[차지 속도 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>
@@ -121,18 +121,18 @@ skill_name_1002:
   ko: 레드 울프
   ja: レッドウルフ
 14703_description:
-  en: "When used in Step 1: Beast Cage\n■ Affects all allies.\n<color=#00AEFF>ATK
+  en: "When used in Burst Stage 1: Beast Cage\n■ Affects all allies.\n<color=#00AEFF>ATK
     ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>\n■
     Affects self.\n<color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst
-    Skill ▼ 40 sec. Activates once per battle.</color>\nWhen used in Step 2: The Last
-    Howl\n■ Affects self.\n<color=#00AEFF>Attract: Taunts all enemies for {description_value_04}
-    sec.\nIncoming healing ▲ {description_value_05}% for {description_value_06} sec.\n<word_group=10031>Cooldown</word_group>
-    of Burst Skill ▼ 40 sec. Activates once per battle.</color>\nWhen used in Step
-    3: Red Wolf\n■ Affects self.\n<color=#00AEFF>Changes the weapon in use:\nDamage:
-    {description_value_07}% of final ATK \nFull Charge Damage: 250% of damage\nDuration:
-    10 sec\nAdditional Effects:\nExpand Pierce range by {description_value_08}% for
-    {description_value_09} sec.\nCharge Speed ▲ {description_value_10}% for {description_value_11}
-    sec.</color>"
+    Skill ▼ 40 sec. Activates once per battle.</color>\nWhen used in Burst Stage 2:
+    The Last Howl\n■ Affects self.\n<color=#00AEFF>Attract: Taunts all enemies for
+    {description_value_04} sec.\nIncoming Healing ▲ {description_value_05}% for {description_value_06}
+    sec.\n<word_group=10031>Cooldown</word_group> of Burst Skill ▼ 40 sec. Activates
+    once per battle.</color>\nWhen used in Burst Stage 3: Red Wolf\n■ Affects self.\n<color=#00AEFF>Changes
+    the weapon in use:\nDamage: {description_value_07}% of final ATK \nFull Charge
+    Damage: 250% of damage\nDuration: 10 sec\nAdditional Effects:\nExpands Pierce
+    range by {description_value_08}% for {description_value_09} sec.\nCharge Speed
+    ▲ {description_value_10}% for {description_value_11} sec.</color>"
   ko: |-
     <Step 1에서 사용 시 : 비스트 케이지>
     ■ 아군 전체에게

@@ -23,8 +23,8 @@ piece_801:
   ja: パワーのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -83,8 +83,8 @@ skill_name_1003:
   ja: 血の魔人
 28011_description:
   en: |-
-    ■ Activates when attacking with Full Charge. Affects self.
-    <color=#00AEFF>Blood Fiend: ATK ▲ {description_value_01}%, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
+    ■ Activates when performing a Full Charge attack. Affects self.
+    <color=#00AEFF>Blood Fiend: ATK ▲ {description_value_01}%. Stacks up to {description_value_02} times and lasts for {description_value_03} sec.</color>
   ko: |-
     ■ 풀 차지 공격 시 자신에게
     <color=#00AEFF>[피의 마인 : 공격력 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>

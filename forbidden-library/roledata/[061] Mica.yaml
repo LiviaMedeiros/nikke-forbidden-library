@@ -25,8 +25,8 @@ piece_50061:
   ja: ミカのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -61,9 +61,10 @@ character_shot_description_localkey_rl_up:
   ko: 용감한 별님
   ja: 勇敢なお星さま
 10612_description:
-  en: "■ Affects 2 allies with the highest <word_group=10025>final</word_group> ATK.\n<color=#00AEFF>Max
-    Ammunition Capacity ▲ {description_value_01} round(s) for {description_value_02}
-    sec. \nDEF ▲ {description_value_03}% for {description_value_04} sec.</color>"
+  en: "■ Affects the 2 allies with the highest <word_group=10025>final</word_group>
+    ATK.\n<color=#00AEFF>Max Ammunition Capacity ▲ {description_value_01} round(s)
+    for {description_value_02} sec. \nDEF ▲ {description_value_03}% for {description_value_04}
+    sec.</color>"
   ko: |-
     ■ <word_group=10025>최종</word_group> 공격력이 가장 높은 아군 2기에게
     <color=#00AEFF>[최대 장탄 수 {description_value_01}발 ▲] [{description_value_02}초 유지]

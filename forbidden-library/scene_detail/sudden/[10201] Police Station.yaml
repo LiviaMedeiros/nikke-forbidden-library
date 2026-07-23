@@ -5664,3 +5664,557 @@ d_ex_police_11:
     ja: |-
       目を覚ましたノベルにも状況を説明したりと、
       大変な時間を過ごすことになった
+d_ex_police_12:
+  d_ex_police_12_1:
+    speaker: "<Monologue>"
+    en: After getting a call from Poli, I head to the police station.
+    ko: 폴리의 연락을 받고, 경찰서로 향했다.
+    ja: ポリから連絡を受け、警察署へ向かった
+  d_ex_police_12_2:
+    speaker: poli
+    en: Recently, we've been getting a string of similar reports.
+    ko: 요즘 비슷한 신고가 잇따라 들어왔습니당.
+    ja: |-
+      最近、似たような通報が
+      相次いで寄せられてましてぇ。
+  d_ex_police_12_3:
+    speaker: poli
+    en: People say they've been hearing strange noises all around the Outpost.
+    ko: 전초기지 곳곳에서 이상한 소리가 들려온다고 합니당.
+    ja: |-
+      前哨基地のあちこちで、
+      おかしな声が聞こえてくるそうなんですぅ。
+  d_ex_police_12_4:
+    speaker: miranda
+    en: I-I heard it too!
+    ko: 저, 저도 들었습니다!
+    ja: わ、私も聞きました！
+  d_ex_police_12_5:
+    speaker: miranda
+    en: Someone was making that noise,
+    ko: 누군가가 내는 소리였습니다.
+    ja: 誰かの声がして…
+  d_ex_police_12_6:
+    speaker: miranda
+    en: but when I turned around to catch them, they'd already run off.
+    ko: 잡으려고 돌아봤을 땐 이미 달아나버렸습니다.
+    ja: |-
+      捕まえようと振り返った時には、
+      もう逃げられていました。
+  d_ex_police_12_7:
+    speaker: poli
+    en: Right, which is why we've been getting so many complaints.
+    ko: 맞아영, 그래서 요즘 민원이 많이 들어오더라고영.
+    ja: |-
+      なので最近、苦情が多く
+      寄せられているんですよねぇ。
+  d_ex_police_12_8:
+    speaker: "<Monologue>"
+    en: What kind of Nikke would go around making weird noises...?
+    ko: 이상한 소리를 낼 만한 니케가 누가 있지….
+    ja: |-
+      変な声を出す謎の人物？
+      いったい誰なんだ…？
+  d_ex_police_12_9:
+    speaker: "<Self>"
+    en: So you want me to help you catch the culprit?
+    ko: 범인을 찾는 걸 도와주면 돼?
+    ja: つまり、犯人捜しを手伝えばいいのか？
+  d_ex_police_12_10:
+    speaker: poli
+    en: Yep, that's right! Help us figure out who it is.
+    ko: 네! 맞아영. 누군지 함께 찾아주시면 됩니당.
+    ja: |-
+      はい！
+      ぜひお願いできますかぁ？
+  d_ex_police_12_11:
+    speaker: poli
+    en: First, we'll read through the complaints. If anyone comes to mind, let us
+      know.
+    ko: 자, 우선 주요 민원 내용을 읽어드릴 테니, 예상가는 용의자가 있다면 알려주세영.
+    ja: |-
+      今から主な苦情の内容を読み上げますので、
+      心当たりがあれば教えてくださいねぇ。
+  d_ex_police_12_12:
+    speaker: poli
+    en: Miranda, go ahead and read them.
+    ko: 미란다, 읽어주세영.
+    ja: ミランダ、お願いしますよん。
+  d_ex_police_12_13:
+    speaker: miranda
+    en: '"While I was out shopping, I suddenly felt a chill."'
+    ko: "[한창 쇼핑을 하던 중에 오한이 느껴졌어.]"
+    ja: |-
+      ええと…
+      「ショッピングの最中に、突然悪寒がしました」
+  d_ex_police_12_14:
+    speaker: miranda
+    en: '"A shiver ran through my whole body. I turned around to see what it was,
+      and that''s when I heard a strange sound."'
+    ko: "[갑자기 온몸이 오싹해지는거야. 뭐지?하고 뒤를 도는 순간, 이상한 소리가 들렸어.]"
+    ja: |-
+      「急に全身がゾクッとしたんです。
+      なんだろう？と思って振り返った瞬間、
+      変な声が聞こえました」
+  d_ex_police_12_15:
+    speaker: miranda
+    en: '"I can''t remember clearly, but there were so many people, and everything
+      was echoing, so I can''t be sure,"'
+    ko: "[확실하게 기억은 안나고, 워낙 사람도 많고 울려서 정확하진 않지만,]"
+    ja: |-
+      「はっきりとは覚えていませんし、
+      なにぶん人が多くて声も反響していたので、
+      正確ではありませんが…」
+  d_ex_police_12_16:
+    speaker: miranda
+    en: '"but I think I heard someone mention help. Maybe someone was calling for
+      help?"'
+    ko: "[도움 어쩌고 했던 것 같은데, 도와달라고 했던 거 아닐까?]"
+    ja: |-
+      「『助けて』…とかなんとか
+      言っていたようなので、
+      助けを求めていたのかもしれません」
+  d_ex_police_12_17:
+    speaker: miranda
+    en: '"Can you check if something dangerous is going on?"'
+    ko: "[뭔가 위험한 상황이 있는 거 아닌지 확인해줘.]"
+    ja: |-
+      「誰かが危険な状況に陥っていないか、
+      確認してください」
+  d_ex_police_12_18:
+    speaker: "<Monologue>"
+    en: Help...? What could be going on at the Outpost that they'd need help...?
+    ko: 도움…? 전초기지에서 도움을 요청할만한 일이….
+    ja: |-
+      助け…？前哨基地で助けを
+      求めるような事態が起きたのか…？
+  d_ex_police_12_19:
+    speaker: miranda
+    en: There's more!
+    ko: 또 있습니다!
+    ja: 次、読み上げます！
+  d_ex_police_12_20:
+    speaker: miranda
+    en: '"It happened while I was taking a water break after a training session at
+      the gym."'
+    ko: "[PT가 끝나고 잠깐 물을 마시면서 숨을 고르고 있던 때였어요.]"
+    ja: |-
+      「あれはパーソナルトレーニングを終え、
+      水を飲みながら息を整えていた時のことです」
+  d_ex_police_12_21:
+    speaker: miranda
+    en: '"Suddenly, a gust of wind blew outside, and I heard someone laughing from
+      somewhere."'
+    ko: "[밖에서 갑자기 바람이 불더니, 어디선가 웃음소리가 들려왔어요.]"
+    ja: |-
+      「外から風が吹いてきたかと思うと、
+      どこからか笑い声が聞こえてきたんです」
+  d_ex_police_12_22:
+    speaker: miranda
+    en: '"It sounded like, ''Hahaha...!''"'
+    ko: "[하하하…! 하고 웃는 소리였는데….]"
+    ja: "「『ははは…！』という笑い声でした…」"
+  d_ex_police_12_23:
+    speaker: miranda
+    en: '"It''s scaring our members away, so please catch whoever''s responsible as
+      soon as possible."'
+    ko: "[무서워서 회원님들의 방문이 뜸해지고 있으니 어서 범인을 잡아주세요.]"
+    ja: |-
+      「このままでは会員の方々が怖がって、
+      ジムへの足が遠のいてしまいます。
+      早く犯人を捕まえてください」
+  d_ex_police_12_24:
+    speaker: "<Monologue>"
+    en: A Nikke who's asking for help... and laughing...?
+    ko: 도움을 외치면서… 웃는 니케…?
+    ja: 助けてと叫びながら…笑う人物…？
+  d_ex_police_12_25:
+    speaker: miranda
+    en: And finally, here's the latest complaint we've received!
+    ko: 마지막은, 가장 최근에 들어온 민원입니다!
+    ja: 最後は、つい先日届いた苦情になります！
+  d_ex_police_12_26:
+    speaker: miranda
+    en: '"I finished running the train for the day and was quietly singing to myself
+      on my way home."'
+    ko: "[기차 운행이 끝나고 집에 돌아가던 길에, 혼자 조용히 노래를 부르고 있었어요.]"
+    ja: |-
+      「あれは列車の運行を終え、
+      帰路につきながら一人静かに
+      歌を歌っていた時のことでした」
+  d_ex_police_12_27:
+    speaker: miranda
+    en: '"Singing is a hobby of mine, hehe."'
+    ko: "[제 취미가 노래라서요. 헤헤.]"
+    ja: "「あ、歌が趣味なんです。えへへ」"
+  d_ex_police_12_28:
+    speaker: miranda
+    en: '"Then out of nowhere, I heard a gust of wind... followed by what sounded
+      like a battle cry?"'
+    ko: "[근데 갑자기 어디선가 바람과 함께 기합 소리? 같은 게 들려왔어요.]"
+    ja: |-
+      「すると突然、風に乗って気合の入った声？
+      のようなものが聞こえてきたんです」
+  d_ex_police_12_29:
+    speaker: miranda
+    en: '"I think they shouted something about ''Power''?"'
+    ko: "[파워… 라고 했었나?]"
+    ja: "「『パワー…』と叫んでいた気がします」"
+  d_ex_police_12_30:
+    speaker: "<Monologue>"
+    en: A Nikke crying for help... laughing... and shouting, "Power!"?
+    ko: 도움을 외치면서… 웃으면서… 파워를 외치는 니케…?
+    ja: |-
+      助けを求めながら…笑って…
+      「パワー」と叫ぶ人物…？
+  d_ex_police_12_31:
+    speaker: miranda
+    en: Those are the complaints we've received about the strange noises.
+    ko: 이상, 기이한 소리에 대한 민원이었습니다.
+    ja: 以上が、奇怪な声に関する苦情になります！
+  d_ex_police_12_32:
+    speaker: poli
+    en: Do you have any guesses as to who it might be?
+    ko: 지휘관은 누군지 예측이 가시나영?
+    ja: 指揮官、誰だか見当はつきますかぁ？
+  d_ex_police_12_33:
+    speaker: "<Self>"
+    en: Yeah...
+    ko: "…응."
+    ja: "…ああ"
+  d_ex_police_12_34:
+    speaker: miranda
+    en: Whoa! I knew we could count on you, Commander!
+    ko: 헙! 역시 지휘관입니다!
+    ja: おお…！さすがです！
+  d_ex_police_12_35:
+    speaker: poli
+    en: Then tell us! We've gotta go catch 'em right away!
+    ko: 그럼 알려주세영! 바로 잡아와야겠습니당!
+    ja: |-
+      でしたら、さっそく教えてください！
+      今すぐ捕まえに行きますよん！
+  d_ex_police_12_36:
+    speaker: "<Self>"
+    en: I'll have her come over.
+    ko: 여기로 부를게.
+    ja: いや、ここに呼ぼう
+  d_ex_police_12_37:
+    speaker: "<Narration>"
+    en: A little while later...
+    ko: 잠시 후.
+    ja: しばらくして
+  d_ex_police_12_38:
+    speaker: "<Narration>"
+    en: "*Crash*"
+    ko: 와장창-
+    ja: ガッシャーン！
+  d_ex_police_12_39:
+    speaker: laplace_p
+    en: Birdie! You called?
+    ko: 버드 보이! 날 불렀나!
+    ja: バードボーイ！私を呼んだか！？
+  d_ex_police_12_40:
+    speaker: laplace_p
+    en: What's going on at the police station?
+    ko: 경찰서에는 무슨 일이지?
+    ja: 警察署に呼び出すなんて、何の用だ？
+  d_ex_police_12_41:
+    speaker: "<Self>"
+    en: What have you been up to lately, Laplace?
+    ko: 라플라스, 혹시 요즘 뭐하고 다녀?
+    ja: ラプラス。最近、何をしている？
+  d_ex_police_12_42:
+    speaker: laplace_p
+    en: Hahaha! Now that I've powered up, I've been searching even harder for people
+      who need help!
+    ko: 하하하! 파워 업을 했으니 도움이 필요한 사람을 더 열심히 찾아다니고 있지!
+    ja: |-
+      それはもちろん！パワーアップしたからな！
+      助けを必要としている人々がいないか、
+      より一層熱心にパトロールをしている！
+  d_ex_police_12_43:
+    speaker: laplace_p
+    en: What do you need help with, Birdie?
+    ko: 버드 보이는 어떤 도움이 필요하지?
+    ja: さては、バードボーイも助けが必要なのか？
+  d_ex_police_12_44:
+    speaker: laplace_p
+    en: Leave it to me, the strongest hero there is!
+    ko: 이 최강 히어로, 라플라스가 해결해주겠다!
+    ja: |-
+      もしそうなら、最強のヒーロー、
+      ラプラスが解決してみせよう！
+  d_ex_police_12_45:
+    speaker: "<Self>"
+    en: Did you happen to go to the train station recently?
+    ko: 혹시 얼마전에 기차역 다녀왔어?
+    ja: その…最近、鉄道駅に行ったか？
+  d_ex_police_12_46:
+    speaker: laplace_p
+    en: I've been all over the Outpost!
+    ko: 나는 전초기지 곳곳을 누비지!
+    ja: |-
+      ああ！私は前哨基地の至るところを
+      駆け回っているからな！
+  d_ex_police_12_47:
+    speaker: laplace_p
+    en: Of course I've been to the train station!
+    ko: 당연히 기차역도 다녀왔다!
+    ja: 当然、鉄道駅も巡回済みだ！
+  d_ex_police_12_48:
+    speaker: "<Self>"
+    en: Then have you been to the mall or the gym lately?
+    ko: 그럼 최근에 쇼핑몰이나 체육관에도 다녀왔어?
+    ja: |-
+      なら最近、ショッピングモールや
+      体育館に行ったことは？
+  d_ex_police_12_49:
+    speaker: laplace_p
+    en: Of course! Why do you ask?
+    ko: 그렇다! 근데 그건 왜 묻는거지?
+    ja: |-
+      もちろんあるぞ！
+      だが、なぜそんなことを聞くんだ？
+  d_ex_police_12_50:
+    speaker: poli
+    en: You weren't going around the Outpost yelling, were you?
+    ko: 전초기지를 다니면서 소리를 지르진 않으셨나영…?
+    ja: |-
+      ええと…前哨基地の巡回中に、
+      叫んだりはしませんでしたかぁ…？
+  d_ex_police_12_51:
+    speaker: laplace_p
+    en: Heroes don't yell!
+    ko: 히어로는 소리치지 않는다!
+    ja: ヒーローは叫んだりしない！
+  d_ex_police_12_52:
+    speaker: miranda
+    en: Huh? Then I guess it wasn't Laplace after all.
+    ko: 어? 그럼 라플라스는 아닌 거 같습니다.
+    ja: |-
+      あれ？つまり、犯人は
+      ラプラスではないということですか！？
+  d_ex_police_12_53:
+    speaker: miranda
+    en: But everyone said they heard some strange noises.
+    ko: 분명 다들 이상한 소리가 났다고 했습니다.
+    ja: |-
+      苦情によれば、
+      確かに変な声が聞こえたそうなのですが…
+  d_ex_police_12_54:
+    speaker: "<Self>"
+    en: Laplace, have you been running around yelling, "Hero power"?
+    ko: 라플라스, 다니면서 히어로 파워를 외쳤어?
+    ja: |-
+      ラプラス、移動しながら
+      「ヒーローパワー！」といったことを叫んだか？
+  d_ex_police_12_55:
+    speaker: laplace_p
+    en: Hahaha! It's only natural for a hero to shout, "Hero power!"
+    ko: 하하하! 히어로가 히어로 파워를 외치는 건 당연하다!
+    ja: |-
+      ははは！
+      ヒーローがヒーローパワーと叫ぶのは当然だ！
+  d_ex_police_12_56:
+    speaker: poli
+    en: So, did you call out and ask if anyone needed help?
+    ko: 그럼, 도움이 필요한 사람이 있는지 큰 소리로 물었나영?
+    ja: |-
+      では、助けを必要としている人がいないか、
+      大声で聞いたりしましたかぁ？
+  d_ex_police_12_57:
+    speaker: laplace_p
+    en: That's right! That's the fastest way to find out where help is needed!
+    ko: 그렇다! 그걸 물어야 어디서 도움이 필요한 지 빠르게 파악할 수 있지!
+    ja: |-
+      ああ！そうしなければ、
+      どこに助けを必要としている人がいるか
+      すばやく把握できないからな！
+  d_ex_police_12_58:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_12_59:
+    speaker: poli
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_12_60:
+    speaker: miranda
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_police_12_61:
+    speaker: poli
+    en: I think we have our culprit.
+    ko: 잡은 거 같네영.
+    ja: これで、犯人は決まりみたいですねぇ。
+  d_ex_police_12_62:
+    speaker: laplace_p
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_police_12_63:
+    speaker: laplace_p
+    en: You caught a villain? Where are they?!
+    ko: 악당을 잡은건가? 어디 있지!
+    ja: 悪党がいるのか？どこだ！？
+  d_ex_police_12_64:
+    speaker: poli
+    en: There's no villain this time, but the culprit is you, Laplace.
+    ko: 악당은 없지만, 범인은 라플라스입니당.
+    ja: 悪党はいませんが、犯人はあなたですよん！
+  d_ex_police_12_65:
+    speaker: laplace_p
+    en: I'm not the culprit! I'm a hero!
+    ko: 나는 범인이 아니다! 나는 히어로다!
+    ja: 私は犯人じゃない！ヒーローだ！
+  d_ex_police_12_66:
+    speaker: poli
+    en: We've been getting a lot of complaints about you, Laplace the hero.
+    ko: 히어로 라플라스에게 민원이 많이 들어왔습니당.
+    ja: |-
+      そのヒーローに苦情が
+      たくさん寄せられたんですよぉ！
+  d_ex_police_12_67:
+    speaker: poli
+    en: Looks like everyone mistook you for a ghost, zipping around and yelling like
+      that.
+    ko: 라플라스가 빠르게 돌아다니면서 소리친 걸 다들 귀신으로 착각한 거 같아영.
+    ja: |-
+      あなたが走り回りながら叫んだことで、
+      他の方々がお化けか何かと勘違いしたんですぅ。
+  d_ex_police_12_68:
+    speaker: laplace_p
+    en: Th-then what was I supposed to do?
+    ko: 그, 그럼 어떻게 해야되지?
+    ja: な、なら、どうすればいいんだ？
+  d_ex_police_12_69:
+    speaker: laplace_p
+    en: I was just out on patrol! I didn't think people would mistake me for a ghost!
+    ko: 순찰을 하던 거였는데, 귀신이라고 생각할 줄 몰랐다!
+    ja: |-
+      パトロールをしていただけなのに、
+      お化けだと思われるなんて！
+  d_ex_police_12_70:
+    speaker: poli
+    en: Hmm... So you were just out on patrol, making sure there wasn't any danger?
+    ko: 으음~ 어쨌든 위험한 상황은 없는지 순찰의 과정이었다는거죵?
+    ja: |-
+      うーん…困っている人がいないか
+      パトロールしていただけ、でしたっけぇ？
+  d_ex_police_12_71:
+    speaker: laplace_p
+    en: Y-yeah! I was just trying to help because I'm a hero!
+    ko: 마, 맞다! 히어로니까 도움을 주려고 했던 거다!
+    ja: |-
+      そ、そうだ！
+      私はヒーローだからな！
+  d_ex_police_12_72:
+    speaker: poli
+    en: I think it's because you were running so fast while shouting.
+    ko: 아마 너무 빨리 달리면서 소리를 치니까 그랬던 것 같아영.
+    ja: |-
+      おそらく、すばやく移動しながら
+      叫んだことで、そう聞こえたんでしょうねぇ。
+  d_ex_police_12_73:
+    speaker: poli
+    en: Let's try not to shout so loudly from now on, okay?
+    ko: 앞으로는 너무 큰 소리는 치지 않기로 해영.
+    ja: |-
+      これからは、あまり大きな声は
+      出さないでくださいよん！
+  d_ex_police_12_74:
+    speaker: poli
+    en: What do you think, Commander?
+    ko: 지휘관 생각은 어떠신가영?
+    ja: 指揮官はどう思いますかぁ？
+  d_ex_police_12_75:
+    speaker: "<Self>"
+    en: Yeah, that sounds about right to me.
+    ko: 응. 나도 그정도면 될 것 같아.
+    ja: ああ、それくらいでいいと思う
+  d_ex_police_12_76:
+    speaker: laplace_p
+    en: That's all?!
+    ko: 그거면 되는건가!
+    ja: それだけでいいのか！？
+  d_ex_police_12_77:
+    speaker: poli
+    en: You could slow down a bit too.
+    ko: 속도도 좀 줄이면 좋고영.
+    ja: |-
+      それと、速度も少し落としていただけると
+      いいですねぇ。
+  d_ex_police_12_78:
+    speaker: laplace_p
+    en: Got it! From now on, I'll tone down the Hero Power while I'm on patrol!
+    ko: 알았다! 앞으로 순찰할 땐 히어로 파워를 줄이도록 하겠다!
+    ja: |-
+      分かった！今後のパトロールでは、
+      ヒーローパワーを抑えるように努力しよう！
+  d_ex_police_12_79:
+    speaker: poli
+    en: Thanks for helping out today, Commander.
+    ko: 지휘관, 오늘 도움을 주셔서 감사합니당.
+    ja: |-
+      指揮官、本日は捜査にご協力いただき
+      ありがとうございましたぁ。
+  d_ex_police_12_80:
+    speaker: "<Self>"
+    en: I'm just glad we got it resolved.
+    ko: 아니야, 해결했으니 다행이야.
+    ja: いや、解決してよかった
+  d_ex_police_12_81:
+    speaker: poli
+    en: You're free to go, Commander.
+    ko: 지휘관은 이만 돌아가셔도 됩니당.
+    ja: |-
+      指揮官はもうお帰りになっても
+      大丈夫ですよん。
+  d_ex_police_12_82:
+    speaker: poli
+    en: Laplace, please write a statement before you leave.
+    ko: 라플라스는 진술서를 쓰고 가도록 하세영.
+    ja: |-
+      ラプラスはここに残って、
+      始末書を書いてくださいねぇ。
+  d_ex_police_12_83:
+    speaker: "<Self>"
+    en: Only me? What about Laplace?
+    ko: 나만? 라플라스는 왜?
+    ja: え？なぜだ？
+  d_ex_police_12_84:
+    speaker: poli
+    en: What do you mean? She broke a window getting in here.
+    ko: 왜긴영, 창문을 깨면서 들어오셨잖아영.
+    ja: なぜって、窓を割って入ってきましたよねぇ？
+  d_ex_police_12_85:
+    speaker: poli
+    en: I'll need her to fill out a statement about the property damage.
+    ko: 기물 파손에 대한 진술서입니당.
+    ja: 立派な器物損壊ですよん。
+  d_ex_police_12_86:
+    speaker: poli
+    en: Miranda, please show her the way.
+    ko: 미란다, 안내해주도록 하세영.
+    ja: ミランダ、案内してあげてくださいねぇ。
+  d_ex_police_12_87:
+    speaker: miranda
+    en: Roger that! Laplace, please follow me.
+    ko: 예! 라플라스, 저를 따라오시면 됩니다.
+    ja: はい！ラプラス、私についてきてください。
+  d_ex_police_12_88:
+    speaker: laplace_p
+    en: B-Birdie...
+    ko: "…버, 버드 보이…."
+    ja: "…バ、バードボーイ…"
+  d_ex_police_12_89:
+    speaker: "<Monologue>"
+    en: I leave the police station, leaving a crestfallen Laplace behind.
+    ko: 울상을 짓는 라플라스를 뒤로 한 채, 경찰서를 빠져나왔다.
+    ja: |-
+      今にも泣きだしそうなラプラスを背に、
+      私は警察署を後にした

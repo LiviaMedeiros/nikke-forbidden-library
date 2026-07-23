@@ -25,8 +25,8 @@ piece_16:
   ja: ラピ：レッドフードのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -54,12 +54,13 @@ character_shot_description_localkey_mg_down:
   en: Attachable Projectiles
   ko: 부착형 유탄
   ja: 粘着榴弾
-20162_description:
-  en: "■ Activates at the start of battle. Affects self.\n<color=#00AEFF><word_group=10063>Applies
-    Elemental Advantage damage</word_group> to Electric Code enemies continuously.\n<word_group=10065>Projectile
+20162_description_1:
+  en: "■ Activates at the start of battle. Affects self.\n<color=#00AEFF><word_group=10063>Converts
+    damage to Elemental Advantage damage</word_group> against Electric Code enemies.
+    This effect is continuous and cannot be removed.\n<word_group=10065>Projectile
     Attachment Damage</word_group> ▲ {description_value_05}% continuously.\n<word_group=10066>Projectile
     Explosion Damage</word_group> ▲ {description_value_06}% continuously.</color>\n■
-    Activates after {description_value_01} normal attack(s). Affects self. \n<color=#00AEFF>Attachable
+    Activates after {description_value_01} normal attacks. Affects self. \n<color=#00AEFF>Attachable
     Projectiles\nEffect: Launches <word_group=10064>attachable projectiles</word_group>
     that attach to hit locations. When entering Full Burst, the projectiles explode.\n<word_group=10065>Projectile
     Attachment Damage</word_group>: Deals {description_value_02}% of <word_group=10025>final</word_group>
@@ -68,7 +69,7 @@ character_shot_description_localkey_mg_down:
     Ammunition Capacity: {description_value_04} round(s).</color>"
   ko: |-
     ■ 전투 시작 시 자신에게
-    <color=#00AEFF>[전격 코드 적에게 <word_group=10063>우월 코드 대미지 적용</word_group>] [지속]
+    <color=#00AEFF>[전격 코드 적에게 <word_group=10063>우월 코드 대미지 적용</word_group>] [지속] [해제 불가]
     [<word_group=10065>발사체 부착 대미지</word_group> {description_value_05}% ▲] [지속]
     [<word_group=10066>발사체 폭발 대미지</word_group> {description_value_06}% ▲] [지속]</color>
     ■ 일반 공격 {description_value_01}회 공격 시 자신에게
@@ -79,7 +80,7 @@ character_shot_description_localkey_mg_down:
     최대 장탄 수 : {description_value_04}발</color>
   ja: |-
     ■戦闘開始時、自分に
-    <color=#00AEFF>「電撃コードの敵に<word_group=10063>有利コードのダメージ適用</word_group>」「持続」
+    <color=#00AEFF>「電撃コードの敵に<word_group=10063>有利コードのダメージ適用</word_group>」「持続」「解除不可」
     「<word_group=10065>発射体付着ダメージ</word_group>{description_value_05}％▲」「持続」
     「<word_group=10066>発射体爆発ダメージ</word_group>{description_value_06}％▲」「持続」</color>
     ■通常攻撃で{description_value_01}回攻撃した時、自分に
@@ -96,25 +97,25 @@ skill_name_1003:
   en: Battlefield Assessment
   ko: 전황 파악
   ja: 戦況把握
-20161_description_1:
+20161_description_2:
   en: |-
     ■ Activates at the start of battle and when Full Burst ends.
     <color=#00AEFF>Effect varies according to squad formation. Only one effect is applied.</color>
-    Affects self if there are no <word_group=10067>Burst 1 allies.</word_group>.
-    <color=#00AEFF>Combat Assist: <word_group=10062>Changes to Burst Stage {description_value_01}</word_group>. This effect is continuous.</color>
-    Affects self if there are <word_group=10067>Burst 1 allies.</word_group>
+    Activates if there are no <word_group=10067>standard Burst 1 allies</word_group>. Affects self.
+    <color=#00AEFF>Combat Assist: <word_group=10062>Changes to Burst Stage {description_value_01}</word_group>. This effect is continuous and cannot be removed.</color>
+    Activates if there are <word_group=10067>standard Burst 1 allies</word_group>. Affects self.
     <color=#00AEFF><word_group=10101>Cancels</word_group> Combat Assist.</color>
-    ■ Activates when entering Full Burst while in Combat Assist status. Affects all allies.
+    ■ Activates when entering Full Burst while in the Combat Assist state. Affects all allies.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_02} sec.
     Attack Damage ▲ {description_value_07}% for {description_value_08} sec.</color>
-    ■ Activates when entering Full Burst while not in Combat Assist status. Affects self.
+    ■ Activates when entering Full Burst while not in the Combat Assist state. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04} sec.
     <word_group=10000>Damage to Interruption Parts</word_group> ▲ {description_value_05}% for {description_value_06} sec.</color>
   ko: |-
     ■ 전투 시작 시와 풀 버스트 타임 종료 시
     <color=#00AEFF>[스쿼드 구성 별 효과] [해당되는 효과만 적용]</color>
     <word_group=10067>기본 버스트 단계가 Step 1인 아군</word_group>이 없다면 자신에게
-    <color=#00AEFF>[전투 보조 : <word_group=10062>버스트 {description_value_01}단계로 변경</word_group>] [지속]</color>
+    <color=#00AEFF>[전투 보조 : <word_group=10062>버스트 {description_value_01}단계로 변경</word_group>] [지속] [해제 불가]</color>
     <word_group=10067>기본 버스트 단계가 Step 1인 아군</word_group>이 있다면 자신에게
     <color=#00AEFF>[전투 보조 <word_group=10101>삭제</word_group>]</color>
     ■ 풀 버스트 타임 시작 시 자신이 전투 보조 상태라면 아군 전체에게
@@ -125,10 +126,9 @@ skill_name_1003:
     [<word_group=10000>저지 부위 공격 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>
   ja: |-
     ■戦闘開始時およびフルバーストタイムが終了した時、
-    <color=#00AEFF>「部隊構成による効果」
-    「該当効果のみ適用」</color>
+    <color=#00AEFF>「部隊構成による効果」「該当効果のみ適用」</color>
     <word_group=10067>基本バースト段階がⅠの味方</word_group>がいない場合、自分に
-    <color=#00AEFF>「戦闘補助：<word_group=10062>バースト{description_value_01}に変更</word_group>」「持続」</color>
+    <color=#00AEFF>「戦闘補助：<word_group=10062>バースト{description_value_01}に変更</word_group>」「持続」「解除不可」</color>
     <word_group=10067>基本バースト段階がⅠの味方</word_group>がいる場合、自分に
     <color=#00AEFF>「戦闘補助<word_group=10101>消去</word_group>」</color>
     ■フルバーストタイムが発動した時、自分が戦闘補助状態なら、味方全体に
@@ -147,13 +147,13 @@ skill_name_1002:
   ja: 継承される力
 10163_description:
   en: |-
-    When used in Stage 1: Squad Support Action Style
+    When used in Burst Stage 1: Squad Support Action Style
     ■ Affects self.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ 20 sec.
     Explosion Radius ▲ {description_value_01}% for {description_value_02} sec.</color>
     ■ Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_03}% of the skill user's ATK for {description_value_04} sec.</color>
-    When used in Stage 3: High-Mobility Close-Range Combat Weapon
+    When used in Burst Stage 3: High-Mobility Close-Range Combat Weapon
     ■ Affects the enemy nearest to the crosshair.
     <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
     ■ Affects self.

@@ -26,8 +26,8 @@ piece_583:
   ja: アルカナ：フォーチュンメイトのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -57,12 +57,12 @@ character_shot_description_localkey_sg_down:
   ja: 記憶と思い出
 25832_description:
   en: |-
-    ■ Activates when performing normal attacks while in Making Memories status. Affects self.
+    ■ Activates when performing a normal attack while in the Making Memories state. Affects self.
     <color=#00AEFF>Effect varies according to the number of attacks. Only one effect is triggered at a time. <word_group=10100>Resets</word_group> when Making Memories is removed.
     Two times: Reloads {description_value_01} rounds.
     Four times: Happy Memories: Number of <word_group=10038>pellets</word_group> ▲ {description_value_02} continuously. Stacks up to {description_value_03} times.
     Six times: Precious Moments: ATK ▲ {description_value_04}% continuously. Stacks up to {description_value_05} times.</color>
-    ■ Activates when using Burst Skill. Affects all shotgun-wielding allies (except self).
+    ■ Activates when using Burst Skill. Affects all allies with shotguns (except self).
     <color=#00AEFF>Attack Damage ▲ {description_value_06}% for {description_value_07} sec.</color>
   ko: |-
     ■ 일반 공격 시 자신이 추억 남기기 상태라면 자신에게
@@ -95,12 +95,12 @@ skill_name_1003:
   ko: 쌓여가는 사진첩
   ja: 重ねるアルバム
 25831_description:
-  en: "■ Activates when Full Burst ends. Affects all shotgun-wielding allies. \n<color=#00AEFF>ATK
+  en: "■ Activates when Full Burst ends. Affects all allies with shotguns. \n<color=#00AEFF>ATK
     ▲ {description_value_01}% of the skill user's ATK x stack count of Precious Moments
     for {description_value_02} sec.</color>\n■ Activates when Happy Memories takes
     effect. Affects self.\n<color=#00AEFF>Snapshots of Youth: Normal Attack Damage
-    <word_group=10029>Multiplier</word_group> ▲ {description_value_03}% continuously,
-    stacks up to {description_value_04} time(s).</color>\n■ Activates when Full Burst
+    <word_group=10029>Multiplier</word_group> ▲ {description_value_03}% continuously.
+    Stacks up to {description_value_04} times.</color>\n■ Activates when Full Burst
     ends. Affects self.\n<color=#00AEFF>Removes Making Memories.\nRemoves Snapshots
     of Youth.</color>"
   ko: |-
@@ -132,7 +132,7 @@ skill_name_1002:
   en: Radiant Youth
   ko: 빛나는 청춘
   ja: 輝く青春
-15833_description:
+15833_description_1:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Making Memories
@@ -146,9 +146,9 @@ skill_name_1002:
     ■ 자신에게
     <color=#00AEFF>[추억 남기기] :
     기능 : 자신의 공격 능력 강화.
-    효과1 : [크리티컬 확률 {description_value_01}% ▲] [지속]
-    효과2 : [탄환 충전 {description_value_02}발]
-    효과3 : [공격 대미지 {description_value_03}% ▲] [지속]</color>
+    효과 1 : [크리티컬 확률 {description_value_01}% ▲] [지속]
+    효과 2 : [탄환 충전 {description_value_02}발]
+    효과 3 : [공격 대미지 {description_value_03}% ▲] [지속]</color>
     ■ 적 전체에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}% 버스트 스킬 대미지]</color>
   ja: |-

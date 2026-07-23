@@ -38,7 +38,7 @@ character_shot_description_localkey_sg_down:
 13072_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Recover {description_value_01}% of attack damage as HP over {description_value_02} sec.</color>
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of attack damage. Lasts for {description_value_02} sec.</color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[공격 대미지 비례 {description_value_01}% 회복] [{description_value_02}초 유지]</color>

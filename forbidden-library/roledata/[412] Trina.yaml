@@ -27,8 +27,8 @@ piece_412:
   ja: トリナのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -64,8 +64,8 @@ character_shot_description_localkey_rl_up:
   ja: ピースフルツリー
 24122_description:
   en: |-
-    ■ Activates at the start of battle, only if self is alive. Affects all Electric Code allies with assault rifles.
-    <color=#00AEFF>Max HP ▲ {description_value_01}% of the skill user's Max HP without restoring HP constantly.</color>
+    ■ Activates at the start of battle as long as the skill user is alive. Affects all Electric Code allies with assault rifles.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% of the skill user's Max HP (without restoring HP) continuously.</color>
     ■ Activates at the start of battle. Affects the {description_value_06} leftmost Electric Code ally unit(s) with assault rifles.
     <color=#00AEFF>Invulnerable for {description_value_07} sec.</color>
     ■ Activates when using Burst Skill. Affects the {description_value_06} leftmost Electric Code ally unit(s) with assault rifles.
@@ -102,11 +102,11 @@ skill_name_1003:
 24121_description:
   en: |-
     ■ Activates after Full Burst ends. Affects all allies.
-    <color=#00AEFF>Continuously recovers {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP every 1 sec for {description_value_02} sec.</color>
-    ■ Activates when attacking with Full Charge. Affects the target(s) if the HP of {description_value_04} ally unit(s) with the lowest HP percentage is lower than {description_value_03}%.
-    <color=#00AEFF>Recovers {description_value_05}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
-    ■ Activates when attacking with Full Charge. Affects the target(s) if the HP of {description_value_07} ally unit(s) with the lowest HP percentage is lower than {description_value_06}%.
-    <color=#00AEFF>Recovers {description_value_08}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_02} sec.</color>
+    ■ Activates when performing a Full Charge attack if the HP of the {description_value_04} ally unit(s) with the lowest HP percentage is at {description_value_03}% or less. Affects the target(s).
+    <color=#00AEFF>Restores HP equal to {description_value_05}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
+    ■ Activates when performing a Full Charge attack if the HP of the {description_value_07} ally unit(s) with the lowest HP percentage is at {description_value_06}% or less. Affects the target(s).
+    <color=#00AEFF>Restores HP equal to {description_value_08}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
   ko: |-
     ■ 풀 버스트 타임 종료 시 아군 전체에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격]

@@ -27,8 +27,8 @@ piece_500:
   ja: エレグのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -58,7 +58,7 @@ character_shot_description_localkey_mg_down:
   ja: ファストチャージ
 25002_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attacks on a target in BOOM Install status. Affects all allies.
+    ■ Activates after landing {description_value_01} normal attacks on a target in the BOOM Install state. Affects all allies.
     <color=#00AEFF>ATK ▲ {description_value_02}% of the skill user's ATK for {description_value_03} sec.</color>
     ■ Activates when the <word_group=10105>stage target</word_group> appears. Affects all allies.
     <color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by {description_value_04}%. Activates once per battle.</color>
@@ -94,7 +94,9 @@ skill_name_1003:
   ja: |-
     ■戦闘開始時、味方全体に
     <color=#00AEFF>「<word_group=10007>敵の発射体を攻撃する時、該当の発射体に与えるダメージ</word_group>{description_value_01}％▲」「持続」</color>
-    ■通常攻撃が{description_value_02}回命中した時、対象がブームインストール状態なら、対象と周囲の敵{description_value_03}機に
+    ■通常攻撃が{description_value_02}回命中した時、
+    対象がブームインストール状態なら、
+    対象と周囲の敵{description_value_03}機に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の<word_group=10019>分配ダメージ</word_group>」</color>
 skill_name_1002:
   en: Skill 1
@@ -121,8 +123,10 @@ skill_name_1002:
     ■味方全体に
     <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_01}％▲」「{description_value_02}秒間維持」</color>
     ■照準線に最も近い敵1機に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％のバーストスキルダメージ」</color>
-    <color=#00AEFF>「ブームインストール：防御力{description_value_04}％▼」「{description_value_05}秒間維持」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の
+    バーストスキルダメージ」</color>
+    <color=#00AEFF>「ブームインストール：防御力{description_value_04}％▼」
+    「{description_value_05}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

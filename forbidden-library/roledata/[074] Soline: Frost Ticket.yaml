@@ -23,8 +23,8 @@ piece_74:
   ja: ソリン：フロストチケットのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -54,12 +54,12 @@ character_shot_description_localkey_sg_down:
   ja: 乗車を補助します！
 20742_description:
   en: |-
-    ■ Activates when the HP of anyone in the squad is lower than {description_value_01}%. Affects the target if the target has any tickets.
-    <color=#00AEFF>Recovers {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.
+    ■ Activates when any ally's HP (including this unit's) drops to {description_value_01}% or below while the target has any tickets. Affects the target.
+    <color=#00AEFF>Restores HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP.
     Ticket count ▼ {description_value_03}.</color>
     ■ Activates at the start of battle. Affects all allies.
     <color=#00AEFF>First Train Discount for {description_value_04} sec.
-    Function: The effects of I'll Help You Board the Train! will not consume tickets.</color>
+    Function: The effect of I'll Help You Board the Train! will not use any tickets.</color>
   ko: |-
     ■ 자신을 포함한 아군 누군가의 체력이 {description_value_01}% 이하 도달 시 대상이 티켓 보유 상태라면 대상에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]

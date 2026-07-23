@@ -26,8 +26,8 @@ piece_570:
   ja: アークレンジャー・ブラックのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -58,7 +58,7 @@ character_shot_description_localkey_ar_down:
 25702_description:
   en: |-
     ■ Activates when Transformation takes effect and when the enemy appears while Transformation is in effect. Affects all enemies.
-    <color=#00AEFF>Ark Black Collider: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec until Transformation is <word_group=10101>canceled</word_group>.</color>
+    <color=#00AEFF>Ark Black Collider: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as sustained damage every second. Removed when Transformation is <word_group=10101>canceled</word_group>.</color>
     ■ Activates when entering Full Burst. Affects all Wind Code allies with assault rifles.
     <color=#00AEFF>Sustained Damage ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
@@ -83,7 +83,7 @@ skill_name_1003:
   en: Transform! Ark Ranger Black!
   ko: 변신! 아크레인저 블랙!
   ja: 変身！アークレンジャー・ブラック！
-25701_description:
+25701_description_1:
   en: |-
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_01}% continuously.</color>
@@ -95,7 +95,7 @@ skill_name_1003:
     Effect 1: Battery ▼ {description_value_04}% every 0.2 sec continuously. This effect cannot be removed.
     Effect 2: ATK ▲ {description_value_05}% continuously. This effect cannot be removed.
     <word_group=10097>Deactivation condition</word_group>: When the battery drops to 0%</color>
-    ■ Activates after performing {description_value_07} normal attack(s). Affects self.
+    ■ Activates after performing {description_value_07} normal attacks. Affects self.
     <color=#00AEFF>Sustained Damage ▲ {description_value_08}% for {description_value_09} sec.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
@@ -105,8 +105,8 @@ skill_name_1003:
     ■ 배터리가 100% 도달 시 자신에게
     <color=#00AEFF>[변신]
     기능 : 아크레인저로 변신하여 배터리를 소모하는 대신 자신을 강화합니다.
-    효과1 : [배터리 {description_value_04}% ▼] [0.2초 간격] [지속] [해제 불가]
-    효과2 : [공격력 {description_value_05}% ▲] [지속] [해제 불가]
+    효과 1 : [배터리 {description_value_04}% ▼] [0.2초 간격] [지속] [해제 불가]
+    효과 2 : [공격력 {description_value_05}% ▲] [지속] [해제 불가]
     <word_group=10097>제거 시점</word_group> : 배터리가 0% 도달 시</color>
     ■ 일반 공격 {description_value_07}회 공격 시 자신에게
     <color=#00AEFF>[지속 대미지 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
@@ -132,17 +132,17 @@ skill_name_1002:
   en: Ultimate Attack! Ark Black Meteor!
   ko: 궁극! 아크 블랙 메테오!
   ja: 必殺！アークブラックメテオ！
-15703_description:
+15703_description_1:
   en: |-
-    ■ Activates while in Transformation status. Affects self.
+    ■ Activates while in the Transformation state. Affects self.
     <color=#00AEFF>Battery ▲ {description_value_03}%</color>
-    ■ Activates while not in Transformation status. Affects self.
+    ■ Activates while not in the Transformation state. Affects self.
     <color=#00AEFF>Emergency Charge Protocol
     Function: Quickly charges the battery and transforms into an Ark Ranger.
     Effect 1: Battery ▲ 100%
     Effect 2: Battery ▼ {description_value_06}% after transforming.</color>
     ■ Affects the {description_value_07} enemy unit(s) with the highest <word_group=10025>final</word_group> max HP.
-    <color=#00AEFF>Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_09} sec.</color>
+    <color=#00AEFF>Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as sustained damage every second for {description_value_09} sec.</color>
     ■ Affects self.
     <color=#00AEFF>Sustained Damage ▲ {description_value_10}% for {description_value_11} sec.</color>
   ko: |-
@@ -151,8 +151,8 @@ skill_name_1002:
     ■ 자신이 변신 상태가 아니라면 자신에게
     <color=#00AEFF>[배터리 긴급 충전] :
     기능 : 긴급하게 배터리를 충전하여 아크레인저로 변신합니다.
-    효과1 : [배터리 100% ▲]
-    효과2 : 변신 이후 [배터리 {description_value_06}% ▼]</color>
+    효과 1 : [배터리 100% ▲]
+    효과 2 : 변신 이후 [배터리 {description_value_06}% ▼]</color>
     ■ <word_group=10025>최종</word_group> 최대 체력이 가장 높은 적 {description_value_07}기에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_08}% 지속 대미지] [1초 간격] [{description_value_09}초 유지]</color>
     ■ 자신에게

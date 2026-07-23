@@ -23,8 +23,8 @@ piece_50150:
   ja: ジュリアのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -55,7 +55,7 @@ character_shot_description_localkey_ar_down:
 21502_description:
   en: |-
     ■ Activates when the last bullet hits the target. Affects self.
-    <color=#00AEFF>Crescendo: Critical Damage ▲ {description_value_01}%, stacks up to {description_value_02} times and lasts for {description_value_03} sec.</color>
+    <color=#00AEFF>Crescendo: Critical Damage ▲ {description_value_01}%. Stacks up to {description_value_02} times and lasts for {description_value_03} sec.</color>
   ko: |-
     ■ 마지막 탄환 명중 시 자신에게
     <color=#00AEFF>[크레센도 : 크리티컬 대미지 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>

@@ -37,9 +37,9 @@ character_shot_description_localkey_smg_down:
   ko: 오션 클렌징
   ja: オーシャンクレンジング
 13052_description:
-  en: "■ Affects {description_value_01} ally unit(s) with the lowest HP percentage.
-    \n<color=#00AEFF>Recovers {description_value_02}% of the skill user's <word_group=10025>final</word_group>
-    Max HP as HP.</color>"
+  en: "■ Affects the {description_value_01} ally unit(s) with the lowest HP percentage.
+    \n<color=#00AEFF>Restores HP equal to {description_value_02}% of the skill user's
+    <word_group=10025>final</word_group> max HP.</color>"
   ko: |-
     ■ 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>
@@ -55,9 +55,10 @@ skill_name_1003:
   ko: 오션 샤워
   ja: オーシャンシャワー
 23051_description:
-  en: "■ Activates when the last bullet hits the target. Affects {description_value_01}
-    ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Recovers {description_value_02}%
-    of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>"
+  en: "■ Activates when the last bullet hits the target. Affects the {description_value_01}
+    ally unit(s) with the lowest HP percentage. \n<color=#00AEFF>Restores HP equal
+    to {description_value_02}% of the skill user's <word_group=10025>final</word_group>
+    max HP.</color>"
   ko: "■ 마지막 탄환 명중 시 남은 체력 비율이 가장 낮은 아군 {description_value_01}기에게 \n<color=#00AEFF>[시전자의
     <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>"
   ja: |-
@@ -72,8 +73,8 @@ skill_name_1002:
   ko: 오션 다이브
   ja: オーシャンダイブ
 13053_description:
-  en: "■ Affects all allies. \n<color=#00AEFF>Recovers {description_value_02}% of
-    the skill user's <word_group=10025>final</word_group> Max HP as HP. </color>"
+  en: "■ Affects all allies. \n<color=#00AEFF>Restores HP equal to {description_value_02}%
+    of the skill user's <word_group=10025>final</word_group> max HP. </color>"
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>

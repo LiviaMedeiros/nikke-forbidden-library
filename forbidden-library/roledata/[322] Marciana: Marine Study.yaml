@@ -26,8 +26,8 @@ piece_322:
   ja: マルチャーナ：マリンスタディのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -89,7 +89,8 @@ character_shot_description_localkey_ar_down:
     機能：ラプチャーが{description_value_06}機以上の時、ホイッスルを消費し、緊急でラプチャーを攻撃する
     効果1：敵全体に「<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の
     追加ダメージ」
-    効果2：自分に「ホイッスルスタック量{description_value_09}個▼」</color>
+    効果2：自分に
+    「ホイッスルスタック量{description_value_09}個▼」</color>
     ■ラプチャーが出現または破壊された時、ラプチャーが{description_value_10}機以下の場合、自分に
     <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_11}％▲」「持続」</color>
 skill_name_1003:

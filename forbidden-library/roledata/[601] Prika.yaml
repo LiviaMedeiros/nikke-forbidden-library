@@ -28,8 +28,8 @@ piece_601:
   ja: プリカのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -63,11 +63,11 @@ character_shot_description_localkey_sr_up:
   en: One More Song!
   ko: 한 곡 더!
   ja: もう1曲！
-26012_description:
+26012_description_1:
   en: |-
     ■ Activates when entering Full Burst. Affects self.
     <color=#00AEFF>Max HP ▲ {description_value_01}% for {description_value_02} sec.</color>
-    ■ Activates when Sing Along takes effect while Prika is in Performance status.
+    ■ Activates when Sing Along takes effect while Prika is in the Performance state.
     <color=#00AEFF>Encore
     Function: Extends the duration of Performance for Prika and strengthens allies.
     Effect 1: Affects the member who initiated Sing Along. <word_group=10102>Assigned Part</word_group>: Singing. This effect is continuous and cannot be removed.
@@ -80,10 +80,10 @@ character_shot_description_localkey_sr_up:
     ■ 떼창 적용 시 자신이 퍼포먼스 상태라면
     <color=#00AEFF>[앵콜] :
     기능 : 자신의 퍼포먼스 시간을 연장하고 아군을 강화.
-    효과1 : 떼창 시전자에게 [<word_group=10102>무대 파트</word_group> : 보컬] [지속] [해제 불가]
-    효과2 : 아군 전체에게 [퍼포먼스 <word_group=10051>유지시간 {description_value_03}초 ▲</word_group>]
-    효과3 : 아군 전체에게 [공격 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]
-    효과4 : 자신에게 [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_06}초 ▲]</color>
+    효과 1 : 떼창 시전자에게 [<word_group=10102>무대 파트</word_group> : 보컬] [지속] [해제 불가]
+    효과 2 : 아군 전체에게 [퍼포먼스 <word_group=10051>유지시간 {description_value_03}초 ▲</word_group>]
+    효과 3 : 아군 전체에게 [공격 대미지 {description_value_04}% ▲] [{description_value_05}초 유지]
+    효과 4 : 자신에게 [버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_06}초 ▲]</color>
   ja: |-
     ■フルバーストタイムが発動した時、自分に
     <color=#00AEFF>「最大HP{description_value_01}％▲」「{description_value_02}秒間維持」</color>
@@ -113,7 +113,7 @@ skill_name_1003:
     <word_group=10042>Pierce Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.
     ATK ▲ {description_value_05}% of the skill user's ATK for {description_value_06} sec.</color>
     ■ Activates only while in Performance status. Affects self.
-    <color=#00AEFF>Outgoing healing ▲ {description_value_07}% continuously.
+    <color=#00AEFF>Outgoing Healing ▲ {description_value_07}% continuously.
     Gains Pierce. This effect is continuous.</color>
   ko: |-
     ■ 풀 차지 공격 시 아군 전체에게
@@ -142,16 +142,16 @@ skill_name_1002:
   en: Get Ready for an Amazing Show!
   ko: 최고의 무대를 보여줄게!
   ja: 最高のステージを見せてやる！
-16013_description:
+16013_description_1:
   en: |-
     ■ Affects all allies.
     <color=#00AEFF>Performance
     Function: Strengthens allies and restores HP.
-    Effect 1: Restores {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP as HP every 1 sec for {description_value_02} sec. This effect cannot be removed.
+    Effect 1: Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_02} sec. This effect cannot be removed.
     Effect 2: Charge Damage ▲ {description_value_05}% for {description_value_06} sec. This effect cannot be removed.</color>
-  ko: "■ 아군 전체에게\n<color=#00AEFF>[퍼포먼스] : \n기능 : 아군 회복 및 강화.\n효과1 : [시전자의 <word_group=10025>최종</word_group>
+  ko: "■ 아군 전체에게\n<color=#00AEFF>[퍼포먼스] : \n기능 : 아군 회복 및 강화.\n효과 1 : [시전자의 <word_group=10025>최종</word_group>
     최대 체력 비례 {description_value_01}% 지속 회복] [1초 간격] [{description_value_02}초 유지] [해제
-    불가]\n효과2 : [차지 대미지 {description_value_05}% ▲] [{description_value_06}초 유지] [해제
+    불가]\n효과 2 : [차지 대미지 {description_value_05}% ▲] [{description_value_06}초 유지] [해제
     불가]</color>"
   ja: |-
     ■味方全体に

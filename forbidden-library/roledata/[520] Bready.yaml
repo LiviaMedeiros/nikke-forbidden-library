@@ -31,8 +31,8 @@ piece_520:
   ja: ブレッディのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -68,12 +68,12 @@ character_shot_description_localkey_sr_up:
   ja: フェイバリット・キャンディー
 25202_description:
   en: |-
-    ■ Activates after landing {description_value_08} Full Charge attack(s) while in Lingering Taste status. Affects the target.
+    ■ Activates after landing {description_value_08} Full Charge attacks while in the Lingering Taste state. Affects the target.
     <color=#00AEFF>Damage Taken ▲ {description_value_01}% for {description_value_02} sec.
-    Aftertaste: Deals  {description_value_03}% of <word_group=10025>final</word_group> ATK as sustained damage every 1 sec for {description_value_04} sec.</color>
-    ■ Activates when hitting a target with Full Charge while in Recommended Taste status. Affects self.
+    Aftertaste: Deals  {description_value_03}% of <word_group=10025>final</word_group> ATK as sustained damage every second for {description_value_04} sec.</color>
+    ■ Activates when landing a Full Charge attack while in the Recommended Taste state. Affects self.
     <color=#00AEFF>Attack Damage ▲ {description_value_05}% for {description_value_06} sec.</color>
-    ■ Activates when hitting a target with Full Charge while in Recommended Taste status. Affects all enemies.
+    ■ Activates when landing a Full Charge attack while in the Recommended Taste state. Affects all enemies.
     <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
   ko: |-
     ■ 풀 차지 공격 {description_value_08}회 명중 시 자신이 머물고 싶은 맛 상태라면 대상에게

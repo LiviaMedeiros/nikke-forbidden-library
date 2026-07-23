@@ -26,8 +26,8 @@ piece_451:
   ja: ティアのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -63,12 +63,12 @@ character_shot_description_localkey_rl_up:
   ja: カメレオンの隠れ身の術
 24512_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
-    <color=#00AEFF><word_group=10033>Max HP of Cover</word_group> ▲ {description_value_02}% of the skill user's Max HP for {description_value_03} sec.
+    ■ Activates after landing {description_value_01} normal attacks. Affects self.
+    <color=#00AEFF><word_group=10033>Max HP of cover</word_group> ▲ {description_value_02}% of the skill user's max HP for {description_value_03} sec.
     Attract: Taunts all enemies for {description_value_04} sec.</color>
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF><word_group=10017>Restores Cover HP</word_group> by {description_value_05}% of the skill user's <word_group=10025>final</word_group> Max HP.
-    Recovers {description_value_06}% of attack damage as HP over {description_value_07} sec.</color>
+    <color=#00AEFF><word_group=10017>Restores cover HP</word_group> equal to {description_value_05}% of the skill user's <word_group=10025>final</word_group> max HP.
+    Restores HP equal to {description_value_06}% of attack damage. Lasts for {description_value_07} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
     <color=#00AEFF>[시전자의 최대 체력 비례 <word_group=10033>엄폐물 최대 체력</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]
@@ -119,12 +119,12 @@ skill_name_1002:
   ko: 도마뱀의 보호
   ja: トカゲの保護
 14513_description:
-  en: "■ Affects self.\n<color=#00AEFF>Generates a <word_group=10023>Shield</word_group>
-    with {description_value_01}% of the skill user's <word_group=10025>final</word_group>
-    Max HP for {description_value_02} sec.</color> \n■ Affects all allies (except
-    self).\n<color=#00AEFF>Generates a <word_group=10023>Shield</word_group> with
-    {description_value_03}% of the skill user's <word_group=10025>final</word_group>
-    Max HP for {description_value_04} sec.</color>\n■ Affects all allies.\n<color=#00AEFF><word_group=10002>Re-enters
+  en: "■ Affects self.\n<color=#00AEFF>Creates a <word_group=10023>shield</word_group>
+    with HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group>
+    max HP that lasts for {description_value_02} sec.</color> \n■ Affects all allies
+    (except self).\n<color=#00AEFF>Creates a <word_group=10023>shield</word_group>
+    with HP equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group>
+    max HP that lasts for {description_value_04} sec.</color>\n■ Affects all allies.\n<color=#00AEFF><word_group=10002>Re-enters
     Burst</word_group> Stage 1.</color>"
   ko: |-
     ■ 자신에게

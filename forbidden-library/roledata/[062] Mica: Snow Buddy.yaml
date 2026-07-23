@@ -23,8 +23,8 @@ piece_62:
   ja: ミカ：スノーバディのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -54,8 +54,8 @@ character_shot_description_localkey_smg_down:
   ja: 応援の祝砲
 20622_description:
   en: |-
-    ■ Activates when landing {description_value_01} normal attack(s). Affects all allies.
-    <color=#00AEFF><word_group=10001>Stack count of buffs</word_group> ▲ {description_value_02}.</color>
+    ■ Activates after landing {description_value_01} normal attacks. Affects all allies.
+    <color=#00AEFF>Increases the <word_group=10001>stack count of stackable buffs</word_group> by {description_value_02}.</color>
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF><word_group=10014>Burst Gauge filling speed</word_group> ▲ {description_value_03}% continuously.</color>
   ko: |-

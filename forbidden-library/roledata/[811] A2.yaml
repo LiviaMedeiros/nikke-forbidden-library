@@ -23,8 +23,8 @@ piece_811:
   ja: A2のスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -102,25 +102,25 @@ skill_name_1002:
   en: Mode B
   ko: B 모드
   ja: Bモード
-18113_description:
+18113_description_1:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Mode B:
-    Own HP decreases every second while ATK and Charge Speed increase. If own HP dips below {description_value_01}%, Mode B is removed.
-    Effect 1: Current HP ▼ {description_value_02}% every 1 sec.
-    Effect 2: ATK ▲ {description_value_03}%
+    <color=#00AEFF>Mode B
+    Function: Reduces HP every second in exchange for increased ATK and Charge Speed. Mode B is removed when this unit's HP drops to {description_value_01}% or below.
+    Effect 1: Current HP ▼ {description_value_02}% every second.
+    Effect 2: ATK ▲ {description_value_03}%.
     Effect 3: Charge Speed ▲ {description_value_04}%.</color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[B 모드] :
     기능 : 1초 마다 자신의 체력이 감소하는 대신 공격력과 차지 속도 증가. 자신의 체력이 {description_value_01}% 이하라면 B 모드 해제.
-    효과1 : [현재 체력 {description_value_02}% ▼] [1초 간격]
-    효과2 : [공격력 {description_value_03}% ▲]
-    효과3 : [차지 속도 {description_value_04}% ▲]</color>
+    효과 1 : [현재 체력 {description_value_02}% ▼] [1초 간격]
+    효과 2 : [공격력 {description_value_03}% ▲]
+    효과 3 : [차지 속도 {description_value_04}% ▲]</color>
   ja: |-
     ■自分に
     <color=#00AEFF>「Bモード」：
-    機能：1秒ごとに自分のHPが減少する代わりに、攻撃力とチャージ速度増加。自分のHPが{description_value_01}％以下ならBモード解除
+    機能：1秒ごとに自分のHPが減少する代わりに、攻撃力とチャージ速度増加。自分のHPが{description_value_01}％以下の時、Bモード解除
     効果1：「現在のHP{description_value_02}％▼」「1秒間隔」
     効果2：「攻撃力{description_value_03}％▲」
     効果3：「チャージ速度{description_value_04}％▲」</color>

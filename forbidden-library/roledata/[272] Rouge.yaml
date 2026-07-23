@@ -26,8 +26,8 @@ piece_272:
   ja: ルージュのスペアボディ
 piece:
   en: |-
-    Can be used for Nikkes' Limit Breaks.
-    If a Nikke's Limit Break has reached the max level, any additional Spare Bodies for that Nikke will be converted to Body Labels.
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
   ko: |-
     니케의 한계돌파 재료로 사용됩니다.
     최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
@@ -63,11 +63,11 @@ character_shot_description_localkey_sr_up:
   ja: コインフリップ
 22722_description:
   en: |-
-    ■ Activates when assigned to the <word_group=10055>back row in battle. Affects self and 2 allies on both sides</word_group>.
+    ■ Activates when assigned to the back row in battle. Affects self and both <word_group=10055>adjacent</word_group> allies.
     <color=#00AEFF>Sword Coin: Attack Damage ▲ {description_value_01}% continuously.</color>
-    ■ Activates when attacking with Full Charge for {description_value_02} time(s). Affects self and 2 allies on both sides when in Sword Coin status.
+    ■ Activates if the skill user is in the Sword Coin state after performing {description_value_02} Full Chark attacks. Affects self and both adjacent allies.
     <color=#00AEFF>Shield Coin: Damage Taken ▼{description_value_03}% continuously.</color>
-    ■ Activates when using Burst Skill for {description_value_04} time(s). Affects all allies when in Shield Coin status.
+    ■ Activates if the skill user is in the Shield Coin state after using Burst Skill {description_value_04} times. Affects all allies.
     <color=#00AEFF>Double Sword Coin: Max HP ▲ {description_value_05}% of the skill user's Max HP continuously.</color>
   ko: |-
     ■ 전투 시작 시 <word_group=10055>후열에 배치됐을 때 자신과 양 옆</word_group>에 있는 아군 2기에게
