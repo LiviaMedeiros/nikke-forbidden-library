@@ -3,7 +3,7 @@ name: Arcana
 on:
   workflow_dispatch:
   schedule:
-    - cron: '16 */6 * * *'
+    - cron: '26 */6 * * *'
 
 permissions:
   contents: write
@@ -14,14 +14,14 @@ jobs:
 
     steps:
       - name: Shiftypad
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: LiviaMedeiros/megashit
           token: ${{ secrets.MEGASHIT_PAT }}
           path: megashit
 
       - name: Arcana
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: arcana
 
