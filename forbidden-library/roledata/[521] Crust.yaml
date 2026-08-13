@@ -107,14 +107,14 @@ skill_name_1003:
   ja: グリル・アンド・ボイル
 25211_description_1:
   en: |-
-    ■ Activates when attacking with Full Charge and self is in Maillard status. Affects all allies.
+    ■ Activates when performing a Full Charge attack while in the Maillard state. Affects all allies.
     <color=#00AEFF>Maillard <word_group=10051>Duration ▲ {description_value_02} sec</word_group>.</color>
-    ■ Activates when attacking with Full Charge and self is in Blanching status. Affects all allies.
+    ■ Activates when performing a Full Charge attack while in the Blanching state. Affects all allies.
     <color=#00AEFF>Blanching <word_group=10051>Duration ▲ {description_value_02} sec</word_group>.</color>
-    ■ Activates after landing {description_value_04} normal attack(s) without Full Charge. Affects all allies.
+    ■ Activates after perfoming {description_value_04} normal attacks not at Full Charge. Affects all allies.
     <color=#00AEFF>Maillard: ATK ▲ {description_value_05}% of the skill user's ATK for {description_value_06} sec.
     Removes Blanching.</color>
-    ■ Activates after maintaining {description_value_08} Full Charge status for more than {description_value_07} sec. Affects all allies.
+    ■ Activates after maintaining {description_value_08} Full Charge for more than {description_value_07} sec. Affects all allies.
     <color=#00AEFF>Blanching: ATK ▲ {description_value_09}% of the skill user's ATK for {description_value_10} sec.
     Removes Maillard.</color>
   ko: |-

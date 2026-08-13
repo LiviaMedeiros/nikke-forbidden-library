@@ -1,0 +1,549 @@
+---
+870_name:
+  en: Queen (Makoto)
+  ko: 퀸(마코토)
+  ja: クイーン（真）
+c870_description:
+  en: |-
+    Her full name is Makoto Niijima.
+    She's the student council president at Shujin Academy and strategist for the Phantom Thieves of Hearts.
+    She is calm, responsible, and proactive, but sometimes too earnest to compromise.
+    A certain incident led to her Persona awakening, after which she became a member of the Phantom Thieves of Hearts.
+  ko: |-
+    풀네임은 니지마 마코토.
+    슈진 고등학교의 학생회장이자 [마음의 괴도단]의 브레인.
+    냉정하고 책임감이 강하며 행동력도 있지만, 지나치게 성실해 타협하지 못하는 면도 있다.
+    어느 사건을 계기로 페르소나 능력을 각성하고, [마음의 괴도단]의 일원이 된다.
+  ja: |-
+    本名は新島真。
+    秀尽学園の生徒会長であり、「心の怪盗団」のブレーン。
+    冷静で責任感が強く、行動力もあるが、生真面目で妥協ができない一面も。
+    ある事件をきっかけにペルソナ能力を覚醒し、「心の怪盗団」の一員となる。
+870_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_870:
+  en: Queen (Makoto)'s Spare Body
+  ko: 퀸(마코토) 스페어 바디
+  ja: クイーン（真）のスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sg_down:
+  en: Shotgun
+  ko: 샷건
+  ja: ショットガン
+character_shot_description_localkey_sg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28702_name:
+  en: Fist of Justice!
+  ko: 철・권・제・재!
+  ja: 鉄・拳・制・裁！
+28702_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Attack Damage ▲ {description_value_09}% continuously.</color>
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF>Fist of Justice!: This effect is continuous and cannot be removed.
+    Function: Queen (Makoto) strengthens herself.
+    Effect 1: Nuke Amp: <word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_01}% continuously. This effect cannot be removed.
+    Effect 2: Rakukaja: DEF ▲ {description_value_02}% continuously. This effect cannot be removed.
+    <word_group=10097>Deactivation condition</word_group>: When Full Burst ends.</color>
+    ■ Activates when entering Burst Stage 3. Affects self.
+    <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
+    ■ Activates when 1 More takes effect. Affects all <word_group=10082>standard Burst {description_value_05} allies</word_group> (except the skill user) in the Persona state.
+    <color=#00AEFF>Baton Pass: ATK ▲ {description_value_06}% of the skill user's ATK continuously. Stacks up to {description_value_07} times.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_09}% ▲] [지속]</color>
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[철・권・제・재!] [지속] [해제 불가] :
+    기능 : 자신을 강화합니다.
+    효과 1 : [핵열 하이부스터 : <word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}% ▲] [지속] [해제 불가]
+    효과 2 : [라쿠카쟈 : 방어력 {description_value_02}% ▲] [지속] [해제 불가]
+    <word_group=10097>제거 시점</word_group> : 풀 버스트 타임 종료 시</color>
+    ■ 버스트 3단계 진입 시 자신에게
+    <color=#00AEFF>[<word_group=10019>분배 대미지</word_group> {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 1more 적용 시 자신을 제외한 <word_group=10082>기본 버스트 단계가 Step{description_value_05}인</word_group> 페르소나 상태 아군 전체에게
+    <color=#00AEFF>[배턴 터치 : 시전자 기준 공격력 {description_value_06}% ▲] [{description_value_07}중첩] [지속]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_09}％▲」「持続」</color>
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「鉄・拳・制・裁！」「持続」「解除不可」：
+    機能：自分を強化する
+    効果1：「核熱ハイブースタ：<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」「持続」「解除不可」
+    効果2：「ラクカジャ：防御力{description_value_02}％▲」「持続」「解除不可」
+    <word_group=10097>解除条件</word_group>：フルバーストタイムが終了した時</color>
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    ■1moreが適用された時、自分を除く<word_group=10082>基本バースト段階が{description_value_05}の</word_group>ペルソナ状態の味方全体に
+    <color=#00AEFF>「バトンタッチ：スキル発動者基準で攻撃力{description_value_06}％▲」「{description_value_07}スタック」「持続」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28701_name:
+  en: 'Persona: Johanna'
+  ko: '페르소나 : 요한나'
+  ja: ペルソナ：ヨハンナ
+28701_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Persona - Johanna: This effect is continuous and cannot be removed.
+    Function: Queen (Makoto) strengthens herself using her Persona.
+    Effect 1: Nuke Boost: <word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_01}% continuously. This effect cannot be removed.
+    Effect 2: Defense Master: DEF ▲ {description_value_02}% continuously. This effect cannot be removed.</color>
+    ■ Activates at the start of battle and when Full Burst ends. Affects self.
+    <color=#00AEFF>ATK ▲ {description_value_05}% for {description_value_06} sec.</color>
+    ■ Activates when 1 More takes effect. Affects all enemies.
+    <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
+    ■ Activates when Follow Up takes effect. Affects all enemies.
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
+  ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[페르소나 - 요한나] [지속] [해제 불가] : \n기능 : 페르소나를 통해
+    자신을 강화합니다.\n효과 1 : [핵열 부스터 : <word_group=10009>우월 코드 공격 대미지</word_group> {description_value_01}%
+    ▲] [지속] [해제 불가]\n효과 2 : [방어의 마음가짐 : 방어력 {description_value_02}% ▲] [지속] [해제 불가]</color>\n■
+    전투 시작 시와 풀 버스트 타임 종료 시 자신에게\n<color=#00AEFF>[공격력 {description_value_05}% ▲] [{description_value_06}초
+    유지]</color>\n■ 1more 적용 시 적 전체에게\n<color=#00AEFF>[<word_group=10025>최종</word_group>
+    공격력 {description_value_03}% <word_group=10019>분배 대미지</word_group>]</color>\n■
+    추격 적용 시 적 전체에게\n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_04}%
+    <word_group=10019>분배 대미지</word_group>]</color>"
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「ペルソナ - ヨハンナ」「持続」「解除不可」：
+    機能：ペルソナを使って自分を強化する
+    効果1：「核熱ブースタ：<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」「持続」「解除不可」
+    効果2：「防御の心得：防御力{description_value_02}％▲」「持続」「解除不可」</color>
+    ■戦闘開始時およびフルバーストタイムが終了した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    ■1moreが適用された時、敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の<word_group=10019>分配ダメージ</word_group>」</color>
+    ■追撃が適用された時、敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18703_name:
+  en: Mafreidyne
+  ko: 마하프레이다인
+  ja: マハフレイダイン
+18703_description:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
+    ■ Activates if a Wind Code enemy is present. Affects self.
+    <color=#00AEFF>1 More: ATK ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% <word_group=10019>분배 대미지</word_group>]</color>
+    ■ 풍압 코드 적이 있다면 자신에게
+    <color=#00AEFF>[1more : 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の<word_group=10019>分配ダメージ</word_group>」</color>
+    ■対象が風圧コードなら自分に
+    <color=#00AEFF>「1more：攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c870_Lobby_Touch_1:
+  en: This world's culture and technology are nothing like ours... I feel like there's
+    a lot I can learn.
+  ko: |-
+    우리 세계와는 문화도 기술도 다른 세계네….
+    배울 수 있는 게 많을 것 같아.
+  ja: |-
+    私たちの世界とは文化も技術も違う世界…
+    学べることがたくさんありそうね。
+c870_Lobby_Touch_2:
+  en: I wonder if Mona's gotten used to this world yet... I'm a bit worried about
+    him.
+  ko: |-
+    모나는 벌써 이 세계에 익숙해졌을까…?
+    조금 걱정되네.
+  ja: |-
+    モナはもうこの世界に慣れたかしら…？
+    ちょっと心配だわ。
+c870_Lobby_Touch_3:
+  en: Not only did I end up in another world, but I got caught up in something big,
+    too... Still, I can't let it get me down. I need to do what I can.
+  ko: |-
+    다른 세계에 오게 된 데다 큰일에도 휘말렸네….
+    그래도 기죽고 있을 수는 없어. 할 수 있는 일을 해야지.
+  ja: |-
+    他の世界に来てしまった上に、大変なことに巻き込まれたわね…
+    でも、めげてはいられないわ。できることをやらないと。
+c870_Lobby_Touch_Love_1:
+  en: I saw someone wearing what looked like a straitjacket earlier... It's amazing
+    she can fight in something like that. Maybe I'll talk to her next time I see her.
+  ko: |-
+    아까 구속복 같은 걸 입은 사람을 봤는데….
+    저런 차림으로 싸울 수 있다니 멋지네. 다음에 한번 말을 걸어볼까?
+  ja: |-
+    さっき、拘束衣のようなものを着た人を見かけたのだけど…
+    あの格好で戦えるなんて、格好いいわね。今度話しかけてみようかしら…？
+c870_Lobby_Touch_Love_2:
+  en: I'm gradually getting used to this world with your help. Thank you.
+  ko: |-
+    덕분에 이 세계에도 조금씩 익숙해지고 있어.
+    고마워.
+  ja: |-
+    貴方のおかげで、この世界にも慣れてきたわ。
+    ありがとう。
+c870_Lobby_Touch_Love_3:
+  en: There must be a reason we ended up here, such as to help you... or something
+    like that.
+  ko: |-
+    우리가 여기에 오게 된 데에도 분명 이유가 있을 거야.
+    예를 들면, 지휘관에게 힘이 되기 위해서… 라든가.
+  ja: |-
+    私たちがここに来たことには理由があるはず。
+    例えば、指揮官の力になるため…とか、ね。
+c870_Lobby_Stay_1:
+  en: Taking a break? Mind if I go look around the area?
+  ko: |-
+    휴식 중이야?
+    그러면 주변을 좀 둘러보고 와도 될까?
+  ja: |-
+    休憩中？
+    それなら、辺りを見て回ってきてもいいかしら。
+c870_Lobby_Stay_Love_1:
+  en: Could you show me around the Ark if you have time? There's a lot I want to know.
+  ko: |-
+    시간이 괜찮다면 방주를 안내해 줄 수 있을까?
+    알고 싶은 게 많거든.
+  ja: |-
+    もし時間があるなら、アークを案内してもらえないかしら。
+    知りたいことがたくさんあるの。
+c870_Outpost_Touch_1:
+  en: I, uh... heard from Helm that there are... g-ghosts in the Outpost... Er, never
+    mind! Forget I said anything...!
+  ko: |-
+    그게… 헬름에게 들었는데….
+    전초기지에는 유, 유령이….
+    아, 아니! 미안해, 아무것도 아니야…!
+  ja: |-
+    その…ヘルムに教えてもらったのだけど…
+    前哨基地には、ゆ、幽霊が…
+    い、いえ！　ごめんなさい、何でもないわ…！
+c870_Outpost_Touch_2:
+  en: Hmm... How exactly do I get to the Ark from here...?
+  ko: |-
+    음… 방주에 가려면
+    어떻게 하면 되는 걸까…?
+  ja: |-
+    えっと…アークに行くには、
+    どうすればいいのかしら…？
+c870_Outpost_Touch_3:
+  en: My time here has been good so far thanks to everyone helping me out. Thanks
+    for being so kind.
+  ko: |-
+    다들 도와줘서, 편하게 지내고 있어.
+    친절하게 대해줘서 고마워.
+  ja: |-
+    みんなのおかげで、快適に過ごせているわ。
+    親切にしてくれてありがとう。
+c870_Gacha_Get_1:
+  en: I am Queen, strategist for the Phantom Thieves. I look forward to working with
+    you while I'm here.
+  ko: |-
+    [괴도단의 참모], 퀸이야.
+    이곳에 있는 동안 잘 부탁해.
+  ja: |-
+    『怪盗団の参謀』こと、クイーンよ。
+    ここにいる間、よろしくね。
+c870_Reinforce_1:
+  en: This power... is interesting.
+  ko: 이 힘은… 신기하네.
+  ja: この力は…不思議ね。
+c870_Reinforce_2:
+  en: I feel like I've gotten even stronger.
+  ko: 한층 강해진 것 같은 기분이 들어.
+  ja: さらに強くなった気がするわ。
+c870_Reinforce_3:
+  en: I'll do all I can to repay you using this strength I've received.
+  ko: 받은 이 힘으로 보답할 수 있도록 노력할게.
+  ja: 貰ったこの力で恩返しできるよう、頑張るわね。
+c870_Gift_1:
+  en: Thanks. I'll put this to good use.
+  ko: 고마워. 잘 쓸게.
+  ja: ありがとう。使わせてもらうわ。
+c870_Gift_2:
+  en: I really appreciate this.
+  ko: 소중히 할게.
+  ja: 大事にするわね。
+c870_Gift_3:
+  en: I'm gonna have to get you something in return.
+  ko: 보답을 준비해야겠네.
+  ja: お返しを準備しなきゃ。
+c870_Attractive_Up_1:
+  en: After getting to this world, I never expected to build this kind of trust with
+    someone.
+  ko: 다른 세계에 와서 이런 신뢰를 쌓게 될 줄은 몰랐어.
+  ja: 他の世界に来て、こんなふうに信頼を築くことができるなんて。
+c870_Attractive_Up_2:
+  en: I promise to live up to your faith in me.
+  ko: 응. 믿음에 보답할게.
+  ja: うん。信頼に応えるわ。
+c870_Attractive_Up_3:
+  en: Thank you. You've helped me to enjoy myself even in this unfamiliar world.
+  ko: |-
+    고마워.
+    덕분에 이 세계에 와서도 즐겁게 지내고 있어.
+  ja: |-
+    ありがとう。
+    貴方のおかげで、この世界に来ても楽しいわ。
+c870_Party_Deploy_1:
+  en: All right, I'm ready.
+  ko: 좋아. 준비됐어.
+  ja: よし。準備できたわ。
+c870_Field_Touch_1:
+  en: I'm listening.
+  ko: 듣고 있어.
+  ja: 聞いているわ。
+c870_Field_Go_1:
+  en: Let's move out!
+  ko: 움직이자.
+  ja: 行こう。
+c870_Battle_Enter_1:
+  en: I can start anytime.
+  ko: 언제든 시작할 수 있어.
+  ja: いつでも始められるわ。
+c870_Battle_Ready_1:
+  en: Let's finish this quickly!
+  ko: 단숨에 끝내자!
+  ja: 一気にカタをつける！
+c870_Battle_Ready_2:
+  en: My fists have been itching for a fight.
+  ko: 주먹이 근질거리네.
+  ja: 拳が唸るわね。
+c870_Battle_Ready_3:
+  en: No holds barred!
+  ko: 힘으로 밀어붙일게.
+  ja: 力づくでやるわ。
+c870_Reload_1:
+  en: Reloading!
+  ko: 재장전 중이야!
+  ja: リロード中よ！
+c870_Reload_2:
+  en: Cover me!
+  ko: 엄호해 줘!
+  ja: 援護して！
+c870_Reload_3:
+  en: Reloading... done!
+  ko: 재장전… 완료!
+  ja: リロード…完了！
+c870_Ult_Skill_Ready_1:
+  en: Let's wipe 'em out!
+  ko: 먼지 하나도 남기지 않겠어!
+  ja: チリ一つ残さない！
+c870_Ult_Skill_1:
+  en: Charge, Johanna!
+  ko: 달려라, 요한나!
+  ja: 駆けろ、ヨハンナ！
+c870_FullBurst_1:
+  en: Fist of Justice!
+  ko: 철.권.제.재!
+  ja: 鉄・拳・制・裁！
+c870_Kill_Monster_1:
+  en: How's this?!
+  ko: 이건 어때!
+  ja: これはどう！？
+c870_Kill_Monster_2:
+  en: Got that one!
+  ko: 처리했어!
+  ja: 片づけたわ！
+c870_Kill_Monster_3:
+  en: Next!
+  ko: 다음!
+  ja: 次！
+c870_Damage_1:
+  en: Ouch...!
+  ko: 아파…!
+  ja: 痛い…！
+c870_Damage_2:
+  en: Ugh.
+  ko: 윽….
+  ja: うっ…
+c870_Damage_3:
+  en: Tch...
+  ko: 칫….
+  ja: チッ…
+c870_Die_1:
+  en: I'm sorry, everyone...
+  ko: 모두, 미안해….
+  ja: 皆、ごめんなさい…
+c870_Win_1:
+  en: Don't forget this feeling!
+  ko: 지금 이 느낌을 잊지 말자.
+  ja: 今の感覚を忘れないようにね！
+870_cv_ja:
+  en: 'CV: Rina Sato'
+  ko: 'CV : 사토 리나'
+  ja: CV：佐藤利奈
+870_cv_ko:
+  en: 'CV: Rina Sato'
+  ko: 'CV : 사토 리나'
+  ja: CV：佐藤利奈
+870_cv_en:
+  en: 'CV: Rina Sato'
+  ko: 'CV : 사토 리나'
+  ja: CV：佐藤利奈

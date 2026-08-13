@@ -55,8 +55,8 @@ character_shot_description_localkey_smg_down:
   ja: 探偵グッズであります！
 22122_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
-    <color=#00AEFF> Cornucopia: DEF▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+    ■ Activates after landing {description_value_01} normal attacks. Affects self.
+    <color=#00AEFF> Cornucopia: DEF▲ {description_value_02}%. Stacks up to {description_value_03} times and lasts for {description_value_04} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
     <color=#00AEFF>[증거품 수집 : 방어력 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>

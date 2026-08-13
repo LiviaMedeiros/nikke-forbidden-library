@@ -62,7 +62,7 @@ character_shot_description_localkey_ar_down:
     Previous effects trigger repeatedly.
     ATK ▲ {description_value_01}% of the skill user's ATK continuously.
     Max Ammunition Capacity ▲ {description_value_02}% continuously.</color>
-    ■ Activates when landing {description_value_03} normal attack(s) on an Electric Code target. Affects self.
+    ■ Activates after landing {description_value_03} normal attacks on an Electric Code target. Affects self.
     <color=#00AEFF>Reloads {description_value_04} round(s).</color>
   ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[이글아이 타입 엑소스파인] [하위 효과 중복 적용]\n[시전자 기준 공격력 {description_value_01}%
     ▲] [지속]\n[최대 장탄 수 {description_value_02}% ▲] [지속]</color>\n■ 일반 공격 {description_value_03}회
@@ -86,8 +86,8 @@ skill_name_1003:
   en: |-
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Impact-Type Exospine: Critical Rate ▲ {description_value_01}% continuously.</color>
-    ■ Activates after landing {description_value_06} critical hit(s) with normal attacks. Affects random enemy units.
-    <color=#00AEFF>Unstable Energy: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_03} time(s).</color>
+    ■ Activates after landing {description_value_06} critical hits with normal attacks. Affects random enemy units.
+    <color=#00AEFF>Unstable Energy: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_03} times.</color>
     ■ Activates when Unstable Energy hits an Electric Code target. Affects the target.
     <color=#00AEFF>Damage Taken ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
@@ -116,15 +116,15 @@ skill_name_1002:
 18503_description:
   en: |-
     ■ Affects random enemy units.
-    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s). </color>
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_02} times. </color>
     ■ Affects self.
     <color=#00AEFF>Exospine Mk2
     Function: Enhances Exospine.
-    Duration: {description_value_03} sec
+    Duration: {description_value_03} sec.
     Triggers Impact-Type Exospine Mk2.
-    Effect: Damage multiplier of Unstable Energy sequential attacks is <word_group=10084>scaled</word_group> by 100%.
+    Effect: The damage multiplier of Unstable Energy sequential attacks is <word_group=10084>scaled</word_group> by 100%.
     Triggers Eagle Eye-Type Exospine Mk2.
-    Effect: Damage multiplier of Eagle Eye-Type Exospine is <word_group=10084>scaled</word_group> by 100%.</color>
+    Effect: The damage multiplier of Eagle Eye-Type Exospine is <word_group=10084>scaled</word_group> by 100%.</color>
   ko: |-
     ■ 무작위 적들에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지] [{description_value_02}회 <word_group=10050>순차 공격</word_group>] </color>

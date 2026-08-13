@@ -120,7 +120,8 @@ skill_name_1003:
     <color=#00AEFF>「変身」
     機能：アークレンジャーに変身し、 バッテリーを消費する代わりに 自分を強化する
     効果1：「バッテリー{description_value_04}％▼」「0.2秒間隔」「持続」「解除不可」
-    効果2：「攻撃力{description_value_05}％▲」「持続」「解除不可」
+    効果2：「攻撃力{description_value_05}％▲」「持続」
+    「解除不可」
     <word_group=10097>解除条件</word_group>：バッテリーが0％になった時</color>
     ■通常攻撃で{description_value_07}回攻撃した時、自分に
     <color=#00AEFF>「持続ダメージ{description_value_08}％▲」「{description_value_09}秒間維持」</color>

@@ -57,7 +57,7 @@ character_shot_description_localkey_ar_down:
   ko: 세븐스 드워프 IV
   ja: セブンスドワーフIV
 22242_description:
-  en: "■ Activates when landing {description_value_01} normal attack(s). Affects all
+  en: "■ Activates after landing {description_value_01} normal attacks. Affects all
     enemies.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
     ATK as damage.</color> \n■ Activates when using Burst Skill. Affects self.\n<color=#00AEFF>Attack
     damage ▲ {description_value_03}% for {description_value_04} sec.</color>"
@@ -78,12 +78,12 @@ skill_name_1003:
   ko: 세븐스 드워프 V&VI
   ja: セブンスドワーフV&VI
 22241_description:
-  en: "■ Activates after landing {description_value_01} normal attack(s). Affects
-    self.\n<color=#00AEFF>Max Ammunition Capacity ▲ {description_value_02}%, stacks
-    up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>\n■
-    Activates after landing {description_value_05} normal attack(s). Affects <word_group=10020>enemies
-    within attack range</word_group>. \n<color=#00AEFF>Deals {description_value_06}%
-    of <word_group=10025>final</word_group> ATK as damage.</color>"
+  en: "■ Activates after landing {description_value_01} normal attacks. Affects self.\n<color=#00AEFF>Max
+    Ammunition Capacity ▲ {description_value_02}%. Stacks up to {description_value_03}
+    times and lasts for {description_value_04} sec.</color>\n■ Activates after landing
+    {description_value_05} normal attacks. Affects <word_group=10020>enemies within
+    attack range</word_group>. \n<color=#00AEFF>Deals {description_value_06}% of <word_group=10025>final</word_group>
+    ATK as damage.</color>"
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게
     <color=#00AEFF>[최대 장탄 수 {description_value_02}% ▲] [{description_value_03}중첩] [{description_value_04}초 유지]</color>

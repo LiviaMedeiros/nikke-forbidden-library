@@ -84,8 +84,8 @@ skill_name_1003:
   ja: 桜茶
 22821_description:
   en: |-
-    ■ Activates after {description_value_01} normal attack(s). Affects all allies.
-    <color=#00AEFF>Cherry Blossom Tea: {description_value_02}% of DEF, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
+    ■ Activates after performing {description_value_01} normal attacks. Affects all allies.
+    <color=#00AEFF>Cherry Blossom Tea: {description_value_02}% of DEF. Stacks up to {description_value_03} times and lasts for {description_value_04} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
     <color=#00AEFF>[벚꽃차 : 방어력 {description_value_02}%] [{description_value_03}중첩] [{description_value_04}초 유지]</color>

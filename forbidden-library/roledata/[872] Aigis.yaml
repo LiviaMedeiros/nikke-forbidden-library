@@ -1,0 +1,481 @@
+---
+872_name:
+  en: Aigis
+  ko: 아이기스
+  ja: アイギス
+c872_description:
+  en: |-
+    The seventh-generation Anti-Shadow Suppression Weapon developed by the Kirijo Group.
+    As part of the Specialized Extracurricular Execution Squad (SEES), she is an android capable of of summoning a Persona.
+    While she initially behaves like a machine, acting in an obedient and overly straightforward manner, she gradually comes to develop human emotions.
+  ko: |-
+    키리조 그룹이 개발한 대 섀도 특수 제압 병장 제7식.
+    페르소나 소환도 가능한 마음을 지닌 인간형 병기로서 [특별과외활동부]에 가입한다.
+    처음에는 기계답게 성실하고 직선적인 언행을 보이지만, 점차 인간다운 감정에 눈떠 간다.
+  ja: |-
+    桐条グループが開発した対シャドウ特別制圧兵装七式。
+    ペルソナの召喚も可能な心を持った人型兵器として、「特別課外活動部」に加入する。
+    当初は機械らしく、実直な言動をしていくが次第に人間らしい感情に目覚めていく。
+872_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_872:
+  en: Aigis's Spare Body
+  ko: 아이기스 스페어 바디
+  ja: アイギスのスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_smg_down:
+  en: Submachine Gun
+  ko: 기관단총
+  ja: サブマシンガン
+character_shot_description_localkey_smg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28722_name:
+  en: Papillon Heart
+  ko: 파피용 하트
+  ja: パピヨンハート
+28722_description:
+  en: |-
+    ■ Activates when using Burst Skill as long as this unit is still alive.
+    <color=#00AEFF>Papillon Heart: This effect is continuous and cannot be removed.
+    Function: Aigis strengthens her allies.
+    Effect 1: Affects all allies. Matarukaja: ATK ▲ {description_value_01}% of the skill user's ATK continuously. This effect cannot be removed.
+    Effect 2: Affects all allies. Marakukaja: DEF ▲ {description_value_02}% of the skill user's DEF continuously. This effect cannot be removed.
+    <word_group=10097>Deactivation condition</word_group>: When Full Burst ends.</color>
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신이 생존해 있을 때 한하여
+    <color=#00AEFF>[파피용 하트] [지속] [해제 불가] :
+    기능 : 아군을 강화합니다.
+    효과 1 : 아군 전체에게 [마하타루카쟈 : 시전자 기준 공격력 {description_value_01}% ▲] [지속] [해제 불가]
+    효과 2 : 아군 전체에게 [마하라쿠카쟈 : 시전자 기준 방어력 {description_value_02}%▲] [지속] [해제 불가]
+    <word_group=10097>제거 시점</word_group> : 풀 버스트 타임 종료 시</color>
+  ja: |-
+    ■バーストスキル使用時、自分が生存している限り
+    <color=#00AEFF>「パピヨンハート」「持続」「解除不可」：
+    機能：味方を強化する
+    効果1：味方全体に「マハタルカジャ：スキル発動者基準で攻撃力{description_value_01}％▲」「持続」「解除不可」
+    効果2：味方全体に「マハラクカジャ：スキル発動者基準で防御力{description_value_02}％▲」「持続」「解除不可」
+    <word_group=10097>解除条件</word_group>：フルバーストタイムが終了した時</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28721_name:
+  en: 'Persona: Palladion'
+  ko: '페르소나 : 팔라디온'
+  ja: ペルソナ：パラディオン
+28721_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF>Persona - Palladion: This effect is continuous and cannot be removed.
+    Function: Aigis strengthens herself using her Persona.
+    Effect 1: Tarukaja: ATK ▲ {description_value_01}% continuously. This effect cannot be removed.
+    Effect 2: Rakukaja: DEF ▲ {description_value_02}% continuously. This effect cannot be removed.</color>
+  ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[페르소나 - 팔라디온] [지속] [해제 불가] : \n기능 : 페르소나를 통해
+    자신을 강화합니다.\n효과 1 : [타루카쟈 : 공격력 {description_value_01}% ▲] [지속] [해제 불가]\n효과 2 :
+    [라쿠카쟈 : 방어력 {description_value_02}% ▲] [지속] [해제 불가]</color>"
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「ペルソナ - パラディオン」「持続」「解除不可」：
+    機能：ペルソナを使って自分を強化する
+    効果1：「タルカジャ：攻撃力{description_value_01}％▲」「持続」「解除不可」
+    効果2：「ラクカジャ：防御力{description_value_02}％▲」「持続」「解除不可」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18723_name:
+  en: Heat Wave
+  ko: 히트 웨이브
+  ja: ヒートウェイブ
+18723_description:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% <word_group=10019>분배 대미지</word_group>]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_iron:
+  en: D.M.T.R. Code Manual
+  ko: D.M.T.R. 코드 매뉴얼
+  ja: D.M.T.R.コードマニュアル
+material_characterskill_iron_desc:
+  en: |-
+    A manual only for Nikkes with D.M.T.R. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "D.M.T.R. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    D.M.T.R.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c872_Lobby_Touch_1:
+  en: Like the Nikkes, I too was born for combat. I can fight however much you need
+    me to.
+  ko: |-
+    저 역시 니케와 마찬가지로, 싸우기 위해 태어난 존재입니다.
+    전투라면 얼마든지 맡겨주십시오.
+  ja: |-
+    わたしもニケと同じように、戦うために生まれた存在であります。
+    戦闘なら、いくらでもお任せください。
+c872_Lobby_Touch_2:
+  en: I require nothing aside from mission supplies.
+  ko: 임무를 위한 보급 외에는 불필요합니다.
+  ja: 任務用の補給以外は、必要ありません。
+c872_Lobby_Touch_3:
+  en: I must return safely, for the sake of my mission.
+  ko: 사명을 위해, 저는 반드시 무사히 귀환해야 합니다.
+  ja: 使命のために、わたしは無事に帰還せねばなりません。
+c872_Lobby_Touch_Love_1:
+  en: Today's mission is to stand by? I see...
+  ko: |-
+    오늘 임무는 대기입니까?
+    …그렇구나ㅡ
+  ja: |-
+    今日の任務は待機でありますか？
+    …なるほどなー。
+c872_Lobby_Touch_Love_2:
+  en: Not long ago, I had a conversation with Volt-san while Liter-san was performing
+    maintenance on me. He told me she's been doing maintenance for decades now, and
+    how her skills were... Commander? Why do you look so surprised?
+  ko: |-
+    얼마 전, 리타 씨에게 정비를 받으면서 볼트 씨와도 이야기를 나눴습니다.
+    벌써 수십 년이나 정비를 해 오셨다더니 과연 대단한 실력이셨….
+    …지휘관? 왜 그렇게 놀라고 계신 건가요?
+  ja: |-
+    先日、リターさんに整備してもらいながらボルトさんともお話もしました。
+    もう何十年も整備をされているだけあって流石の腕前で…
+    指揮官？　なぜそんなに驚いていらっしゃるのでしょうか？
+c872_Lobby_Touch_Love_3:
+  en: My combat capabilities have been significantly enhanced. Thank you for your
+    support.
+  ko: |-
+    전투 능력이 크게 향상되었습니다.
+    지원에 감사드립니다.
+  ja: |-
+    戦闘能力が大幅に向上しました。
+    サポート、感謝いたします。
+c872_Lobby_Stay_1:
+  en: Standby order acknowledged.
+  ko: 대기 명령, 접수했습니다.
+  ja: 待機命令、承りました。
+c872_Lobby_Stay_Love_1:
+  en: It's break time. May I go to the Ark? I have an appointment with Beatrice.
+  ko: |-
+    휴식 시간이군요. 그럼 방주에 다녀와도 괜찮겠습니까?
+    베아트리체 씨와 약속이 있어서요.
+  ja: |-
+    休憩時間ですね。では、アークに行ってきてもよろしいですか？
+    ベアトリーチェさんとの約束がありますので。
+c872_Outpost_Touch_1:
+  en: No abnormalities detected.
+  ko: 이상 없습니다.
+  ja: 異常なしであります。
+c872_Outpost_Touch_2:
+  en: Greetings. I am currently conversing with Max-san and Timi-san. Would you care
+    to join us, Commander?
+  ko: |-
+    안녕하세요. 지금 맥스 씨, 티미 씨와 이야기를 나누고 있습니다.
+    지휘관도 괜찮으시다면 함께하시겠습니까?
+  ja: |-
+    こんにちは。今、マックスさんとティミさんとお話をしています。
+    指揮官もよろしければご一緒にどうでしょうか？
+c872_Outpost_Touch_3:
+  en: I was told this place is a military outpost... Why are there individuals dressed
+    in maid outfits, swimsuits, and as bunny girls?
+  ko: |-
+    여기는 [전초기지]라고 들었는데….
+    어째서 메이드복이나 수영복, 바니걸 차림의 분들이 있는 걸까요?
+  ja: |-
+    ここは『前哨基地』と伺っていたのですが…
+    なぜメイド服や水着、バニーガール姿の方がいるのでしょう？
+c872_Gacha_Get_1:
+  en: I am Aigis, the seventh-generation Anti-Shadow Suppression Weapon. I will be
+    joining you for now.
+  ko: |-
+    대 섀도 특수 제압 병장 제7식·아이기스,
+    임시 합류했습니다.
+  ja: |-
+    対シャドウ特別制圧兵装七式・アイギス、
+    臨時合流であります。
+c872_Reinforce_1:
+  en: Power output has increased.
+  ko: 출력, 상승되었습니다.
+  ja: 出力、アップであります。
+c872_Reinforce_2:
+  en: Combat performance has increased.
+  ko: 전투 능력이 상승했습니다.
+  ja: 戦闘能力が上昇しました。
+c872_Reinforce_3:
+  en: I can be of greater assistance now.
+  ko: 이걸로 좀 더 도움이 될 수 있습니다.
+  ja: これでもっとお役に立てます！
+c872_Gift_1:
+  en: I will put this to good use.
+  ko: 유용하게 사용하겠습니다.
+  ja: ありがたく使わせていただきます。
+c872_Gift_2:
+  en: Thank you for replenishing my supplies.
+  ko: 물자 보급에 감사드립니다.
+  ja: 物資の補給、感謝であります。
+c872_Gift_3:
+  en: I will prepare something suitable in return.
+  ko: 신속히 답례를 준비하겠습니다.
+  ja: 迅速にお返しを準備いたします。
+c872_Attractive_Up_1:
+  en: I will repay the trust you have put in me.
+  ko: 당신의 신뢰에 보답하겠습니다.
+  ja: あなたの信頼にお応えいたします。
+c872_Attractive_Up_2:
+  en: Motivation has increased. Currently at 200%.
+  ko: 의욕이 상승했습니다. 200%입니다.
+  ja: やる気が上昇しました。200％であります。
+c872_Attractive_Up_3:
+  en: Thank you. I look forward to your continued support.
+  ko: 감사합니다. 앞으로도 잘 부탁드립니다.
+  ja: ありがとうございます。これからもよろしくお願いします。
+c872_Party_Deploy_1:
+  en: Ready to deploy.
+  ko: 출격 준비 완료입니다.
+  ja: 出撃準備完了であります。
+c872_Field_Touch_1:
+  en: Awaiting instructions.
+  ko: 지시를 부탁드립니다.
+  ja: 指示をお願いします。
+c872_Field_Go_1:
+  en: Please leave it to me.
+  ko: 맡겨 주십시오.
+  ja: お任せください。
+c872_Battle_Enter_1:
+  en: Orders confirmed. Ready for battle.
+  ko: 지시 확인. 전투 준비.
+  ja: 指示を確認。戦闘準備。
+c872_Battle_Ready_1:
+  en: Here we go!
+  ko: 갑니다!
+  ja: 行きます！
+c872_Battle_Ready_2:
+  en: Commencing combat!
+  ko: 전투 개시입니다!
+  ja: 戦闘開始であります！
+c872_Battle_Ready_3:
+  en: Target locked!
+  ko: 목표 포착!
+  ja: 目標を捕捉！
+c872_Reload_1:
+  en: Reloading!
+  ko: 재장전합니다!
+  ja: リロードであります！
+c872_Reload_2:
+  en: Requesting cover!
+  ko: 엄호 요청!
+  ja: 援護要請！
+c872_Reload_3:
+  en: Reloading.
+  ko: 재장전 중입니다.
+  ja: リロード中です。
+c872_Ult_Skill_Ready_1:
+  en: Maximum output!
+  ko: 최고 출력입니다!
+  ja: 最高出力であります。
+c872_Ult_Skill_1:
+  en: Palladion! Proceeding!
+  ko: 팔라디온, 갑니다!
+  ja: パラディオン、行くであります！
+c872_FullBurst_1:
+  en: Let us commence with an all-out attack!
+  ko: 단숨에 몰아붙입시다!
+  ja: 一気に畳み掛けましょう！
+c872_Kill_Monster_1:
+  en: Direct hit!
+  ko: 명중!
+  ja: 命中！
+c872_Kill_Monster_2:
+  en: Enemy down!
+  ko: 적 격파!
+  ja: 敵を撃破！
+c872_Kill_Monster_3:
+  en: Target neutralized!
+  ko: 목표 무력화!
+  ja: 目標を無力化！
+c872_Damage_1:
+  en: Damage sustained!
+  ko: 데미지…!
+  ja: ダメージ…！
+c872_Damage_2:
+  en: Systems damaged...
+  ko: 피탄….
+  ja: 被弾っ…
+c872_Damage_3:
+  en: Argh...!
+  ko: 큭…!
+  ja: くっ…！
+c872_Die_1:
+  en: I'm sorry...
+  ko: 죄송합니다….
+  ja: ごめんなさい…
+c872_Win_1:
+  en: Enemy annihilated.
+  ko: 적, 섬멸했습니다.
+  ja: 敵、殲滅しました。
+872_cv_ja:
+  en: 'CV: Maaya Sakamoto'
+  ko: 'CV : 사카모토 마아야'
+  ja: CV：坂本真綾
+872_cv_ko:
+  en: 'CV: Maaya Sakamoto'
+  ko: 'CV : 사카모토 마아야'
+  ja: CV：坂本真綾
+872_cv_en:
+  en: 'CV: Maaya Sakamoto'
+  ko: 'CV : 사카모토 마아야'
+  ja: CV：坂本真綾

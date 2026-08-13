@@ -54,7 +54,7 @@ character_shot_description_localkey_mg_down:
   ko: 눈보라
   ja: 雪嵐
 21942_description:
-  en: "■ Activates when hitting the Core for {description_value_01} time(s). Affects
+  en: "■ Activates after landing {description_value_01} attacks on a core. Affects
     the target.\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
     ATK as additional damage.</color> \n■ Activates at the beginning of Full Burst.
     Affects self.\n<color=#00AEFF>Critical Rate ▲ {description_value_03}% for {description_value_04}
@@ -80,10 +80,10 @@ skill_name_1003:
   ja: 女王の眼光
 21941_description:
   en: |-
-    ■ Activates when landing {description_value_01} normal attack(s). Affects the target.
+    ■ Activates after landing {description_value_01} normal attacks. Affects the target.
     <color=#00AEFF>Damage Taken ▲ {description_value_02}% for {description_value_03} sec.</color>
     <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
-    ■ Activates when landing {description_value_05} normal attack(s). Affects self.
+    ■ Activates after landing {description_value_05} normal attacks. Affects self.
     <color=#00AEFF>Reloads {description_value_06} round(s) of ammunition.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 대상에게

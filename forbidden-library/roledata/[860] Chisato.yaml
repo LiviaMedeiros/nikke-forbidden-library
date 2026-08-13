@@ -61,7 +61,7 @@ character_shot_description_localkey_smg_down:
   en: |-
     ■ Activates when using Burst Skill. Affects self.
     <color=#00AEFF>Normal attacks deal true damage for {description_value_01} sec.</color>
-    ■ Activates after landing {description_value_02} normal attack(s). Affects the target.
+    ■ Activates after landing {description_value_02} normal attacks. Affects the target.
     <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as true damage.</color>
   ko: |-
     ■ 버스트 스킬 사용 시 자신에게

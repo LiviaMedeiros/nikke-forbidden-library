@@ -1,0 +1,545 @@
+---
+871_name:
+  en: Yukiko
+  ko: 유키코
+  ja: 雪子
+c871_description:
+  en: |-
+    Her full name is Yukiko Amagi.
+    She's a member of the Investigation Team formed by a group of students from Yasogami High School, as well as a Persona user.
+    As daughter to the manager of the renowned Amagi Inn, she is undergoing training as its next heir.
+    Though quick-witted, she struggles a bit at reading the room and can come across as airheaded.
+  ko: |-
+    풀네임은 아마기 유키코.
+    야소가미 고등학교에 다니는 학생들로 결성된 [자칭 특별수사대]의 일원이자 페르소나 구사자 소녀.
+    오래된 고급 여관 [아마기 여관]의 여주인의 딸이며, 현재는 여주인 수업이 한창이다.
+    머리 회전이 빠르지만, 분위기를 읽는 데에는 다소 서툰 면이 있으며 약간 천연스러운 성격이다.
+  ja: |-
+    フルネームは天城雪子。
+    八十神高校に通う学生たちで結成された「自称特別捜査隊」の一員でペルソナ使いの少女。
+    老舗高級旅館「天城屋旅館」の女将の娘であり、現在は女将修行の真っ最中。
+    頭の回転が速いが、空気を読むことにいま一つ疎いところがあり、やや天然気味。
+871_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_871:
+  en: Yukiko's Spare Body
+  ko: 유키코 스페어 바디
+  ja: 雪子のスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+28712_name:
+  en: Scarlet Flower
+  ko: 진홍의 꽃
+  ja: 真紅の華
+28712_description:
+  en: "■ Activates at the start of battle. Affects self.\n<color=#00AEFF>Attack Damage
+    ▲ {description_value_10}% continuously.</color>\n■ Activates when using Burst
+    Skill. \n<color=#00AEFF>Scarlet Flower: This effect is continuous and cannot be
+    removed.\nFunction: Yukiko strengthens herself.\nEffect 1: Activates every {description_value_01}
+    sec. Affects all allies. Mediarama: Restores HP equal to {description_value_02}%
+    of the skill user's <word_group=10025>final</word_group> max HP.\nEffect 2: Affects
+    self. Fire Amp: <word_group=10019>Distributed Damage</word_group> ▲ {description_value_03}%
+    continuously. This effect cannot be removed.\nEffect 3: Affects self. Scarlet
+    Protection: <word_group=10108>Damage taken from Water Code enemies</word_group>
+    ▼ {description_value_04}% continuously. This effect cannot be removed.\n<word_group=10097>Deactivation
+    condition</word_group>: When Full Burst ends.</color>\n■ Activates when entering
+    Burst Stage 3. Affects self.\n<color=#00AEFF><word_group=10009>Elemental Advantage
+    Attack Damage</word_group> ▲ {description_value_05}% for {description_value_06}
+    sec.</color>\n■ Activates when 1 More takes effect. Affects all <word_group=10082>standard
+    Burst {description_value_07} allies</word_group> (except the skill user) in the
+    Persona state.\n<color=#00AEFF>Follow Up: ATK ▲ {description_value_08}% of the
+    skill user's ATK for {description_value_09} sec.</color>"
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[공격 대미지 {description_value_10}% ▲] [지속]</color>
+    ■ 버스트 스킬 사용 시
+    <color=#00AEFF>[진홍의 꽃] [지속] [해제 불가] :
+    기능 : 자신을 강화합니다.
+    효과 1 : {description_value_01}초 마다 아군 전체에게 [메디라마 : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]
+    효과 2 : 자신에게 [화염 부스터 : <word_group=10019>분배 대미지</word_group> {description_value_03}%▲] [지속] [해제 불가]
+    효과 3 : 자신에게 [진홍의 수호 : <word_group=10108>수냉 코드 적으로부터 받는 대미지</word_group> {description_value_04}% ▼] [지속] [해제 불가]
+    <word_group=10097>제거 시점</word_group> : 풀 버스트 타임 종료 시</color>
+    ■ 버스트 3단계 진입 시 자신에게
+    <color=#00AEFF>[<word_group=10009>우월 코드 공격 대미지</word_group> {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    ■ 1more 적용 시 자신을 제외한 <word_group=10082>기본 버스트 단계가 Step{description_value_07}인</word_group> 페르소나 상태 아군 전체에게
+    <color=#00AEFF>[추격 : 시전자 기준 공격력 {description_value_08}% ▲] [{description_value_09}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_10}％▲」「持続」</color>
+    ■バーストスキルを使用した時、
+    <color=#00AEFF>「真紅の華」「持続」「解除不可」：
+    機能：自分を強化する
+    効果1：{description_value_01}秒ごとに味方全体に「メディラマ：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」
+    効果2：自分に「火炎ブースタ：<word_group=10019>分配ダメージ</word_group>{description_value_03}％▲」「持続」「解除不可」
+    効果3：自分に「真紅の守護：<word_group=10108>水冷コードの敵から受けるダメージ</word_group>{description_value_04}％▼」「持続」「解除不可」
+    <word_group=10097>解除条件</word_group>：フルバーストタイムが終了した時</color>
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    ■1moreが適用された時、自分を除く<word_group=10082>基本バースト段階が{description_value_07}の</word_group>ペルソナ状態の味方全体に
+    <color=#00AEFF>「追撃：スキル発動者基準で攻撃力{description_value_08}％▲」「{description_value_09}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+28711_name:
+  en: 'Persona: Konohana Sakuya'
+  ko: '페르소나 : 코노하나사쿠야'
+  ja: ペルソナ：コノハナサクヤ
+28711_description:
+  en: "■ Activates at the start of battle. Affects self.\n<color=#00AEFF>Persona -
+    Konohana Sakuya: This effect is continuous and cannot be removed. \nFunction:
+    Yukiko heals her allies using her Persona.\nEffect 1: Activates every {description_value_01}
+    sec. Affects all allies. Media: Restores HP equal to {description_value_02}% of
+    the skill user's <word_group=10025>final</word_group> max HP.</color>\n■ Activates
+    at the start of battle and when Full Burst ends. Affects self.\n<color=#00AEFF>ATK
+    ▲ {description_value_04}% for {description_value_05} sec.</color>\n■ Activates
+    when 1 More takes effect. Affects all enemies.\n<color=#00AEFF>Deals {description_value_03}%
+    of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>"
+  ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[페르소나 - 코노하나사쿠야] [지속] [해제 불가] : \n기능 : 페르소나를
+    통해 아군을 회복합니다.\n효과 1 : {description_value_01}초 마다 아군 전체에게 [메디아 : 시전자의 <word_group=10025>최종</word_group>
+    최대 체력 비례 {description_value_02}% 회복]</color>\n■ 전투 시작 시와 풀 버스트 타임 종료 시 자신에게\n<color=#00AEFF>[공격력
+    {description_value_04}% ▲] [{description_value_05}초 유지]</color>\n■ 1 more 적용 시
+    적 전체에게\n<color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_03}%
+    <word_group=10019>분배 대미지</word_group>]</color>"
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「ペルソナ - コノハナサクヤ」「持続」「解除不可」：
+    機能：ペルソナを使って味方を回復する
+    効果1：{description_value_01}秒ごとに味方全体に「メディア：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
+    ■戦闘開始時およびフルバーストタイムが終了した時、自分に
+    <color=#00AEFF>「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
+    ■1moreが適用された時、敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の<word_group=10019>分配ダメージ</word_group>」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+18713_name:
+  en: Maragidyne
+  ko: 마하라기다인
+  ja: マハラギダイン
+18713_description:
+  en: |-
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
+    ■ Activates if a Wind Code enemy is present. Affects self.
+    <color=#00AEFF>1 More: ATK ▲ {description_value_02}% for {description_value_03} sec.</color>
+  ko: |-
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% <word_group=10019>분배 대미지</word_group>]</color>
+    ■ 풍압 코드 적이 있다면 자신에게
+    <color=#00AEFF>[1more : 공격력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+  ja: |-
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の<word_group=10019>分配ダメージ</word_group>」</color>
+    ■対象が風圧コードなら自分に
+    <color=#00AEFF>「1more：攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+c871_Lobby_Touch_1:
+  en: I still can't believe it... This isn't inside the TV, it's... another world,
+    isn't it?
+  ko: |-
+    아직도 믿기지 않지만…
+    여긴 TV 속이 아니라, 다른 세계… 인 거지?
+  ja: |-
+    まだ信じられないけど…
+    ここはテレビの中とは違う、他の世界…なんだよね？
+c871_Lobby_Touch_2:
+  en: I'm doing pretty well thanks to everyone being so kind. Thank you for looking
+    out for me.
+  ko: |-
+    다들 친절하게 대해줘서 편하게 지내고 있어.
+    신경 써줘서 고마워.
+  ja: |-
+    みんな優しいから、気楽に過ごせてるよ。
+    気にかけてくれてありがとう。
+c871_Lobby_Touch_3:
+  en: Oh...! Er, uh... Don't worry about me. I'm just a little nervous being in an
+    unfamiliar place.
+  ko: |-
+    아…! 그, 그게, 신경 쓰지 마.
+    낯선 곳에 와서 조금 긴장했을 뿐이니까.
+  ja: |-
+    あっ…！　えっと、気にしないで。
+    知らない場所に来て、
+    ちょっと緊張してるだけだから。
+c871_Lobby_Touch_Love_1:
+  en: I'm totally used to this place now. It's all thanks to you.
+  ko: |-
+    이곳에도 이제 완전히 익숙해졌어.
+    고마워. 네 덕분이야.
+  ja: |-
+    この場所にもすっかり慣れちゃった。
+    ありがとう。あなたのおかげよ。
+c871_Lobby_Touch_Love_2:
+  en: I'm going to be practicing cooking with Emma. Would you like to come along?
+  ko: |-
+    이번에 엠마 씨랑 같이 요리 연습을 하게 됐어.
+    괜찮으면 같이 갈래?
+  ja: |-
+    今度、エマさんと一緒に料理の練習をすることになったの。
+    よかったら一緒にどう？
+c871_Lobby_Touch_Love_3:
+  en: Pfft... Oh, sorry. I was thinking of something Neon said earlier. It was just
+    something silly... Hahaha.
+  ko: |-
+    …푸흡. 아, 미안. 아까 네온 씨한테 들은 말이 생각나서.
+    그냥 별거 아닌 이야기였는데… 아하하하.
+  ja: |-
+    …ぷっ。あ、ごめんね。さっきネオンさんから聞いた話を思い出しちゃって。
+    たいしたことじゃなかったんだけど…あはははっ。
+c871_Lobby_Stay_1:
+  en: Hm, I wonder what Teddie's up to... Maybe I should go check on him.
+  ko: |-
+    그러고 보니 곰은 뭐 하고 있으려나…?
+    상태 좀 보러 가볼까.
+  ja: |-
+    そういえば、クマさんは何してるのかな…？
+    様子を見に行ってみようっと。
+c871_Lobby_Stay_Love_1:
+  en: If you have time, would you like to get some fresh air? I've wanted to explore
+    the Outpost for a while now. Could you show me around...?
+  ko: |-
+    시간 괜찮으면 잠깐 바람 쐬지 않을래?
+    전부터 이 기지를 한번 탐험해 보고 싶었거든. 안내해 줄 수 있을까…?
+  ja: |-
+    時間があるなら、少し息抜きしない？
+    前からこの基地を探検してみたかったの。案内してもらえるかな…？
+c871_Outpost_Touch_1:
+  en: The Outpost... So it's like a military base, right? And yet it's so lively...
+  ko: |-
+    전초기지… 라면, 군대 같은 거지?
+    그런데도 이렇게 활기가 넘치다니….
+  ja: |-
+    前哨基地…ってことは、軍隊みたいなものだよね？
+    それなのに、こんなに活気づいてるなんて…
+c871_Outpost_Touch_2:
+  en: Hey, are there any inns in the Ark? If there are... I'd be curious to see one.
+  ko: |-
+    저기, 방주에도 료칸 같은 게 있을까?
+    혹시 있다면… 좀 궁금하네.
+  ja: |-
+    ねえ、アークには旅館ってあるのかな？
+    もしあるんだったら、ちょっと気になるなーって。
+c871_Outpost_Touch_3:
+  en: Wait, there's a haunted place nearby...?! I might be curious to see that...
+    Could you take me there?
+  ko: |-
+    엥, 근처에 심령 스팟이…!?
+    그건 좀 궁금할지도… 데려가 줄 수 있어?
+  ja: |-
+    えっ、近くに心霊スポットが…！？
+    それはちょっと気になるかも…連れて行ってもらってもいい？
+c871_Gacha_Get_1:
+  en: My name is Yukiko Amagi. It is a pleasure to make your... Er, you want me to
+    relax? Hehe. Okay. Thanks.
+  ko: |-
+    아마기 유키코, 라고 합니다. 모쪼록 잘 부탁드리….
+    앗. 편하게 하라고? 후후. 고마워, 잘 부탁해.
+  ja: |-
+    天城雪子、っていいます。何卒よろしく…
+    えっ、もっと気楽に？ふふ、ありがとう。よろしくね。
+c871_Reinforce_1:
+  en: Have I gotten a little stronger?
+  ko: 좀 더 강해진 걸까?
+  ja: ちょっとは強くなれたかな？
+c871_Reinforce_2:
+  en: My body feels lighter.
+  ko: 몸이 가벼워진 것 같아.
+  ja: 体が軽くなった気がする。
+c871_Reinforce_3:
+  en: Hehe. That's great.
+  ko: 후후. 좋았어.
+  ja: ふふ、いい感じ。
+c871_Gift_1:
+  en: I'll put this to good use.
+  ko: 소중히 쓸게.
+  ja: 大切に使うね。
+c871_Gift_2:
+  en: I appreciate you taking care of me.
+  ko: 챙겨줘서 고마워.
+  ja: 気にかけてくれてありがとう。
+c871_Gift_3:
+  en: This is for me? Hehe, thanks. That makes me happy.
+  ko: 나한테 주는 거야? 후후. 기뻐.
+  ja: 私にくれるの？ふふ、嬉しい。
+c871_Attractive_Up_1:
+  en: I'll work hard to repay your kindness.
+  ko: 네 친절에 보답할 수 있도록 노력할게.
+  ja: あなたの優しさに応えられるよう、頑張るね。
+c871_Attractive_Up_2:
+  en: Oh right, I've been meaning to get you something... Would a boxed lunch be okay?
+    What do you think?
+  ko: |-
+    아 맞다, 다음에 뭐라도 답례를….
+    도시락 같은 거면 괜찮을까? 어때?
+  ja: そうだ、今度何かお礼を…お弁当とかあったら助かるかな？　どう？
+c871_Attractive_Up_3:
+  en: Thank you. I count on you for a lot.
+  ko: 고마워. 많이 의지하고 있어.
+  ja: ありがとう。頼りにしてるよ。
+c871_Party_Deploy_1:
+  en: Okay. I'll do what I can.
+  ko: 응. 열심히 해볼게.
+  ja: うん。頑張るね。
+c871_Field_Touch_1:
+  en: What is it?
+  ko: 무슨 일이야?
+  ja: 何かあった？
+c871_Field_Go_1:
+  en: We just need to go that way, right?
+  ko: 저쪽으로 가면 되는 거지?
+  ja: あっちに行けばいいんだよね？
+c871_Battle_Enter_1:
+  en: I just need to do what I practiced...!
+  ko: 연습한 대로 하면 될 거야…!
+  ja: 練習通りにやれば大丈夫…！
+c871_Battle_Ready_1:
+  en: I won't lose!
+  ko: 지지 않을 거야!
+  ja: 負けないよ！
+c871_Battle_Ready_2:
+  en: Leave it to me!
+  ko: 맡겨줘!
+  ja: 任せて！
+c871_Battle_Ready_3:
+  en: I'm ready!
+  ko: 준비 완료야!
+  ja: 準備完了！
+c871_Reload_1:
+  en: This is how you do it, right?
+  ko: 이렇게 하는 거 맞겠지…!
+  ja: これで合ってるよね…！
+c871_Reload_2:
+  en: Reloading!
+  ko: 재정비할게!
+  ja: リロードするね！
+c871_Reload_3:
+  en: Slow and easy, just like I learned...!
+  ko: 배운 대로 천천히…!
+  ja: 教わった通りに、ゆっくり…！
+c871_Ult_Skill_Ready_1:
+  en: This is it! Everyone ready?
+  ko: 지금이 기회야! 준비됐어?
+  ja: |-
+    今がチャンスよ！
+    準備はいい？
+c871_Ult_Skill_1:
+  en: Dance, Sakuya!
+  ko: 간다, 사쿠야!
+  ja: いくよ、サクヤ！
+c871_FullBurst_1:
+  en: This will end it!
+  ko: 이걸로 끝이야!
+  ja: おしまいよ！
+c871_Kill_Monster_1:
+  en: Gotcha!
+  ko: 잡았다!
+  ja: 当たった！
+c871_Kill_Monster_2:
+  en: That one's down!
+  ko: 쓰러졌어!
+  ja: 倒したよ！
+c871_Kill_Monster_3:
+  en: Nice! Got one!
+  ko: 좋아, 적 격파했어!
+  ja: やった、敵撃破だね！
+c871_Damage_1:
+  en: Ah!
+  ko: 꺅…!
+  ja: きゃっ…！
+c871_Damage_2:
+  en: Ugh!
+  ko: 윽…!
+  ja: うっ！
+c871_Damage_3:
+  en: Ouch!
+  ko: 아팟…!
+  ja: 痛っ…！
+c871_Die_1:
+  en: I can't... move...
+  ko: 이제, 움직일 수 없어….
+  ja: もう、動けない…
+c871_Win_1:
+  en: I'll be counting on you next time too. Hehe.
+  ko: 다음에도 잘 부탁해. 후후.
+  ja: 次も、ごひいきに。ふふ！
+871_cv_ja:
+  en: 'CV: Ami Koshimizu'
+  ko: 'CV : 코시미즈 아미'
+  ja: CV：小清水亜美
+871_cv_ko:
+  en: 'CV: Ami Koshimizu'
+  ko: 'CV : 코시미즈 아미'
+  ja: CV：小清水亜美
+871_cv_en:
+  en: 'CV: Ami Koshimizu'
+  ko: 'CV : 코시미즈 아미'
+  ja: CV：小清水亜美

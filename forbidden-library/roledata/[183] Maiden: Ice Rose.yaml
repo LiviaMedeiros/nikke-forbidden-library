@@ -68,9 +68,9 @@ character_shot_description_localkey_rl_up:
     Activates when MP is used. Affects self.\n<color=#00AEFF><word_group=10009>Elemental
     Advantage Attack Damage</word_group> ▲ {description_value_05}% for {description_value_06}
     sec.</color>\n<color=#00AEFF>ATK ▲ {description_value_07}% of the skill user's
-    <word_group=10025>final</word_group> Max HP for {description_value_08} sec.</color>\n■
-    Activates when attacking with Full Charge for {description_value_11} time(s).
-    Affects {description_value_09} enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Deals
+    <word_group=10025>final</word_group> max HP for {description_value_08} sec.</color>\n■
+    Activates after performing {description_value_11} Full Charge attacks. Affects
+    the {description_value_09} enemy unit(s) nearest to the crosshair. \n<color=#00AEFF>Deals
     {description_value_10}% of <word_group=10025>final</word_group> ATK as damage.</color>"
   ko: |-
     ■ MP 충전 시 자신을 제외한 전격 코드 아군 전체에게
@@ -100,12 +100,12 @@ skill_name_1003:
   ja: メディテーション
 21831_description:
   en: |-
-    ■ Activates when entering Burst Stage 1. Affects self when MP is 0.
-    <color=#00AEFF>MP recovers by {description_value_01}. MP can be accumulated up to a maximum of 12. All accumulated MP is consumed when using Burst Skill.</color>
-    ■ Activates when entering Full Burst. Affects self when MP is above 1.
-    <color=#00AEFF>MP replenishes by {description_value_02}. MP can be accumulated up to a maximum of 12. All accumulated MP is consumed when using Burst Skill.</color>
-    ■ Activates when attacking with Full Charge for {description_value_06} time(s). Affects self.
-    <color=#00AEFF>Max HP ▲ {description_value_03}% without restoring HP for {description_value_05} sec, stacks up to {description_value_04} time(s).</color>
+    ■ Activates when entering Burst Stage 1 if this unit has no MP. Affects self.
+    <color=#00AEFF>Restores {description_value_01} MP, up to a maximum of 12. All MP is removed when using Burst Skill.</color>
+    ■ Activates when entering Full Burst when this unit has 1 or more MP. Affects self.
+    <color=#00AEFF>Replenishes {description_value_02} MP, up to a maximum of 12. All MP is removed when using Burst Skill.</color>
+    ■ Activates after performing {description_value_06} Full Charge attacks. Affects self.
+    <color=#00AEFF>Max HP ▲ {description_value_03}% (without restoring HP) for {description_value_05} sec. Stacks up to {description_value_04} times.</color>
   ko: |-
     ■ 버스트 1단계 진입 시 자신의 MP가 0 이라면 자신에게
     <color=#00AEFF>[MP {description_value_01} 회복] [최대 MP 12 축적] [버스트 스킬 사용 시 축적된 모든 MP 삭제]</color>
@@ -131,7 +131,7 @@ skill_name_1002:
 11833_description:
   en: |-
     ■ Affects the {description_value_01} enemy unit(s) nearest to the crosshair.
-    <color=#00AEFF>Deals damage equal to {description_value_03}% of the sum of {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP and the skill user's ATK. <word_group=10060>Attacks repeatedly</word_group> based on current MP.</color>
+    <color=#00AEFF>Deals damage equal to {description_value_03}% of the sum of {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP and the skill user's ATK. <word_group=10060>Attacks repeatedly</word_group> based on current MP.</color>
   ko: |-
     ■ 조준선에 가장 가까운 적 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_02}%를 공격력으로 합산한 {description_value_03}% 대미지] [보유 MP 만큼 <word_group=10060>연속 공격</word_group>]</color>

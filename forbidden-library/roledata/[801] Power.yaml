@@ -60,7 +60,7 @@ character_shot_description_localkey_rl_up:
   ja: 血の爆発
 28012_description:
   en: |-
-    ■ Activates after {description_value_01} normal attacks if Blood Fiend is at max stacks. Affects self.
+    ■ Activates after performing {description_value_01} normal attacks if Blood Fiend is at max stacks. Affects self.
     <color=#00AEFF>Explosion Radius ▲ {description_value_02}% for {description_value_03} sec.
     Reloads {description_value_04}% of the magazine. Activates {description_value_05} time(s) per battle.</color>
   ko: |-

@@ -120,11 +120,11 @@ skill_name_1002:
 15903_description:
   en: |-
     ■ Activates when self is in Struggle status. Affects self.
-    <color=#00AEFF><word_group=10048>Recovers Shield HP</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP.</color>
-    ■ Activates when self is not in Struggle status. Affects self.
+    <color=#00AEFF><word_group=10048>Restores shield HP</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
+    ■ Activates when this unit is not in the Struggle state. Affects self.
     <color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>
     ■ Affects all allies.
-    <color=#00AEFF>Sustained damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    <color=#00AEFF>Sustained Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
     ■ 자신이 발버둥 상태라면 자신에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 <word_group=10048>보호막 체력</word_group> {description_value_01}% 회복]</color>

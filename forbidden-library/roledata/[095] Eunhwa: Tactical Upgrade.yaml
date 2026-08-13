@@ -59,11 +59,11 @@ character_shot_description_localkey_sr_up:
   en: AS Formation
   ko: 포메이션 AS
   ja: フォーメーションAS
-20952_description:
+20952_description_1:
   en: |-
     ■ Activates as long as this unit is alive.
     <color=#00AEFF>AS Formation
-    Function: Issues a battle-advantageous tactic to the targets.
+    Function: Issues advantageous combat tactics to the targets.
     Effect 1: Affects all allies from the same squad. Critical Rate ▲ {description_value_01}% continuously.
     Effect 2: Affects all allies. Charge Damage ▲ {description_value_02}% continuously.
     Effect 3: Affects self. ATK ▲ {description_value_05}% continuously.
@@ -72,7 +72,7 @@ character_shot_description_localkey_sr_up:
     Effect 1: Affects all allies. <word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_03}% continuously.
     Effect 2: Affects all allies. True Damage ▲ {description_value_04}% continuously.</color>
   ko: |-
-    ■ 자신이 생존해있을 때 한하여
+    ■ 자신이 생존해 있을 때 한하여
     <color=#00AEFF>[포메이션 AS] :
     기능 : 대상에게 전투에 유리한 전술 작전을 하달합니다.
     효과 1 : 동일 스쿼드 아군 전체에게 [크리티컬 확률 {description_value_01}% ▲] [지속]

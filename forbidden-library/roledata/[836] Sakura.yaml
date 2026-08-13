@@ -58,9 +58,9 @@ character_shot_description_localkey_smg_down:
   ja: 状態集中管理
 28362_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attacks. Affects the {description_value_02} ally unit(s) with the lowest HP percentage.
+    ■ Activates after performing {description_value_01} normal attacks. Affects the {description_value_02} ally unit(s) with the lowest HP percentage.
     <color=#00AEFF>Incoming Healing ▲ {description_value_03}% for {description_value_04} sec.</color>
-    ■ Activates after landing {description_value_05} normal attacks. Affects the {description_value_06} ally unit(s) with the lowest HP percentage.
+    ■ Activates after performing {description_value_05} normal attacks. Affects the {description_value_06} ally unit(s) with the lowest HP percentage.
     <color=#00AEFF>Damage Taken ▼ {description_value_07}% for {description_value_08} sec.</color>
   ko: "■ 일반 공격 {description_value_01}회 공격 시 남은 체력 비율이 가장 낮은 아군 {description_value_02}기에게
     \n<color=#00AEFF>[받는 체력 회복량 {description_value_03}% ▲] [{description_value_04}초

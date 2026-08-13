@@ -79,9 +79,9 @@ skill_name_1003:
   ja: 海賊の根性
 23501_description_1:
   en: |-
-    ■ Activates after landing {description_value_01} critical hit(s) with normal attacks. Affects the target(s).
-    <color=#00AEFF>Sea Breeze: DEF ▼ {description_value_02}% of the skill user's DEF, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
-    ■ Activates when HP falls below {description_value_05}%. Affects self and {description_value_06} other ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except the skill user).
+    ■ Activates after landing {description_value_01} critical hits with normal attacks. Affects the target.
+    <color=#00AEFF>Sea Breeze: DEF ▼ {description_value_02}% of the skill user's DEF. Stacks up to {description_value_03} times and lasts for {description_value_04} sec.</color>
+    ■ Activates when HP falls below {description_value_05}%. Affects self and the {description_value_06} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except the skill user).
     <color=#00AEFF>Critical Damage ▲ {description_value_07}% continuously.</color>
   ko: |-
     ■ 일반 공격 크리티컬 {description_value_01}회 명중 시 대상에게

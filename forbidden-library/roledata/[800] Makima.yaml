@@ -54,7 +54,7 @@ character_shot_description_localkey_smg_down:
   ja: 気づかれたようだね
 28002_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
+    ■ Activates after performing {description_value_01} normal attack(s). Affects self.
     <color=#00AEFF> Attract: Taunt all enemies for {description_value_02} sec.</color>
     ■ Activates when taking lethal damage. Affects self.
     <color=#00AEFF>Gain <word_group=10006>indomitability</word_group> for {description_value_03} sec. Activates {description_value_04} time(s) per battle.

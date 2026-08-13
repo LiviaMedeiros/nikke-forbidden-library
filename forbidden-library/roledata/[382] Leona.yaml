@@ -81,9 +81,9 @@ skill_name_1003:
   ja: 力強い咆哮
 23821_description:
   en: |-
-    ■ Activates after {description_value_01} normal attacks. Affects all allies.
-    <color=#00AEFF>Roar: Critical Rate ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
-    ■ Activates after {description_value_05} normal attacks. Affects all allies with shotguns.
+    ■ Activates after performing {description_value_01} normal attacks. Affects all allies.
+    <color=#00AEFF>Roar: Critical Rate ▲ {description_value_02}%. Stacks up to {description_value_03} times and lasts for {description_value_04} sec.</color>
+    ■ Activates after performing {description_value_05} normal attacks. Affects all allies with shotguns.
     <color=#00AEFF><word_group=10036>Maximum Effective Range</word_group> ▲ {description_value_06}% for {description_value_07} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게

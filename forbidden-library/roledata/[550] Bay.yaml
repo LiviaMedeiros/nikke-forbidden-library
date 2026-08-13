@@ -59,15 +59,14 @@ character_shot_description_localkey_rl_up:
   en: Cheer Up Together
   ko: 치얼업 투게더
   ja: チアアップトゥギャザー
-15502_description_1:
-  en: "■ Activates when using Burst Skill as long as this unit is still alive. Affects
-    all allies. \n<color=#00AEFF><word_group=10044>Equally distributes damage taken</word_group>.
-    This effect is continuous.</color>\n■ Activates when Full Burst ends. Affects
-    self.\n<color=#00AEFF><word_group=10043>Continuously restores cover HP</word_group>
-    equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group>
-    max HP every second for {description_value_02} sec.</color>"
+15502_description_2:
+  en: |-
+    ■ Activates when using Burst Skill as long as this unit is still alive. Affects this unit's cover.
+    <color=#00AEFF><word_group=10044>Proportionally shares damage taken</word_group>. This effect is continuous.</color>
+    ■ Activates when Full Burst ends. Affects self.
+    <color=#00AEFF><word_group=10043>Continuously restores cover HP</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_02} sec.</color>
   ko: |-
-    ■ 버스트 스킬 사용 시 자신이 생존해있을 때 한하여 자신의 엄폐물에게
+    ■ 버스트 스킬 사용 시 자신이 생존해 있을 때 한하여 자신의 엄폐물에게
     <color=#00AEFF>[<word_group=10044>받는 대미지 차등 분배</word_group>] [지속]</color>
     ■ 풀 버스트 타임 종료 시 자신에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 <word_group=10043>엄폐물 체력 지속 회복</word_group> {description_value_01}%] [1초 간격] [{description_value_02}초 유지]</color>
@@ -87,12 +86,13 @@ skill_name_1003:
   en: You Can Do It
   ko: 유 캔 두잇
   ja: ユーキャンドゥーイット
-15501_description_1:
-  en: "■ Activates when using Burst Skill, only if self is alive. Affects all allies.
-    \n<color=#00AEFF><word_group=10044>Proportionally shares damage taken</word_group>
-    continuously.\nDEF ▲ {description_value_01}% of the skill user's DEF continuously.</color>"
+15501_description_2:
+  en: "■ Activates when using Burst Skill as long as this unit is still alive. Affects
+    all allies. \n<color=#00AEFF><word_group=10044>Proportionally shares damage taken</word_group>.
+    This effect is continuous.\nDEF ▲ {description_value_01}% of the skill user's
+    DEF continuously.</color>"
   ko: |-
-    ■ 버스트 스킬 사용 시 자신이 생존해있을 때 한하여 아군 전체에게
+    ■ 버스트 스킬 사용 시 자신이 생존해 있을 때 한하여 아군 전체에게
     <color=#00AEFF>[<word_group=10044>받는 대미지 차등 분배</word_group>] [지속]
     [시전자 기준 방어력 {description_value_01}% ▲] [지속]</color>
   ja: |-

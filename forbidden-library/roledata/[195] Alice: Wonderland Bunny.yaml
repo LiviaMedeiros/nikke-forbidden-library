@@ -80,10 +80,10 @@ skill_name_1003:
   ja: ニンジンとウサギパーティー
 21951_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attacks. Affects all allies.
-    <color=#00AEFF>Restores HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> Max HP.
+    ■ Activates after performing {description_value_01} normal attacks. Affects all allies.
+    <color=#00AEFF>Restores HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP.
     Carrot Party: <word_group=10000>Damage to Interruption Parts</word_group> ▲ {description_value_03}%. Stacks up to {description_value_04} times and lasts for {description_value_05} sec.</color>
-    ■ Activates after {description_value_06} normal attacks. Affects all Water Code allies.
+    ■ Activates after performing {description_value_06} normal attacks. Affects all Water Code allies.
     <color=#00AEFF>Increases the <word_group=10001>stack count of stackable buffs</word_group> by {description_value_07}.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 아군 전체에게
@@ -109,7 +109,7 @@ skill_name_1002:
   en: |-
     ■ Affects all allies.
     <color=#00AEFF><word_group=10002>Re-enters Burst</word_group> Stage 1.
-    Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP.</color>
+    Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
     ■ Activates when Carrot Party is at max stacks. Affects all allies.
     <color=#00AEFF>Incoming Healing ▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-

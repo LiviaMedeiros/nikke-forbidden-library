@@ -51,9 +51,9 @@ character_shot_description_localkey_sg_down:
   ja: 前途良好
 20732_description:
   en: |-
-    ■ Activates after {description_value_01} normal attack(s). Affects {description_value_02} Wind Code enemy unit(s) with the lowest remaining HP.
+    ■ Activates after performing {description_value_01} normal attacks. Affects the {description_value_02} Wind Code enemy unit(s) with the lowest remaining HP.
     <color=#00AEFF>Damage Taken ▲ {description_value_03}% for {description_value_04} sec.</color>
-    ■ Activates after {description_value_05} normal attack(s). Affects {description_value_06} enemy unit(s) with the lowest remaining HP.
+    ■ Activates after performing {description_value_05} normal attacks. Affects the {description_value_06} enemy unit(s) with the lowest remaining HP.
     <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as damage.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 남은 체력 수치가 가장 낮은 풍압 코드 적 {description_value_02}기에게

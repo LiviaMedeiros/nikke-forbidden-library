@@ -51,7 +51,7 @@ character_shot_description_localkey_ar_down:
   ko: '세븐스 드워프 : V&VI'
   ja: セブンスドワーフ：V&VI
 12202_description:
-  en: "■ Affects <word_group=10020>enemies within range</word_group>.\n<color=#00AEFF>Deals
+  en: "■ Affects <word_group=10020>enemies within attack range</word_group>.\n<color=#00AEFF>Deals
     {description_value_01}% of <word_group=10025>final</word_group> ATK as damage.</color>
     \n■ Activates when this skill is used during Full Burst. Affects self.\n<color=#00AEFF>Critical
     Rate ▲ {description_value_02}% for {description_value_03} sec.</color>"
@@ -74,11 +74,11 @@ skill_name_1003:
   ko: 순백의 의지
   ja: 純白の意志
 22201_description:
-  en: "■ Activates when normal attack hits {description_value_01} time(s). Affects
-    the target(s).\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
-    ATK as additional damage.</color> \n■ Activates when normal attack hits {description_value_01}
-    time(s). Affects self.\n<color=#00AEFF>ATK ▲ {description_value_03}% for {description_value_04}
-    sec.</color>"
+  en: "■ Activates after landing {description_value_01} normal attacks. Affects the
+    target(s).\n<color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group>
+    ATK as additional damage.</color> \n■ Activates after landing {description_value_01}
+    normal attacks. Affects self.\n<color=#00AEFF>ATK ▲ {description_value_03}% for
+    {description_value_04} sec.</color>"
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 대상에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>

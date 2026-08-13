@@ -59,7 +59,7 @@ character_shot_description_localkey_smg_down:
 23922_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_03}% of the skill user's <word_group=10025>final</word_group> Max HP that lasts for {description_value_04} sec.</color>
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_03}% of the skill user's <word_group=10025>final</word_group> max HP that lasts for {description_value_04} sec.</color>
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[<word_group=10024>디코이</word_group> : 시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 분신] [{description_value_04}초 유지]</color>
@@ -76,9 +76,10 @@ skill_name_1003:
   ko: 선배의 응원
   ja: 先輩の応援
 23921_description:
-  en: "■ Activates after {description_value_01} normal attacks. Affects all allies.\n<color=#00AEFF><word_group=10015>Fills
-    Burst Gauge</word_group> by {description_value_02}%.</color> \n■ Activates <word_group=10056>when
-    a decoy is present</word_group>. Affects self.\n<color=#00AEFF><word_group=10057>Restores
+  en: "■ Activates after performing {description_value_01} normal attacks. Affects
+    all allies.\n<color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by
+    {description_value_02}%.</color> \n■ Activates <word_group=10056>when a decoy
+    is present</word_group>. Affects self.\n<color=#00AEFF><word_group=10057>Restores
     decoy HP</word_group> equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group>
     max HP.</color>"
   ko: |-

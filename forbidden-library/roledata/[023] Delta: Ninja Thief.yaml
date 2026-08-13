@@ -5,8 +5,8 @@
   ja: デルタ：ニンジャシーフ
 c023_description:
   en: |-
-    In order to officially become a Phantom Thief, Delta joins the Thieves of Justice as a trainee.
-    To embody the stealthy and silent nature of a Phantom Thief, she decides to become a Ninja Thief.
+    In order to officially become a phantom thief, Delta joins the Thieves of Justice as a trainee.
+    To embody the stealthy and silent nature of a phantom thief, she decides to become a ninja thief.
   ko: |-
     정식으로 괴도가 되기 위해, 정의 괴도단에 수습으로 들어가게 된 델타.
     은밀하고 조용히 움직이는 괴도의 특성에 맞춰, 괴도 닌자가 되기로 한다.
@@ -63,7 +63,7 @@ character_shot_description_localkey_mg_down:
     Activates if there is another Defender ally in the squad. Affects self.
     <color=#00AEFF>Effect 1: Ninjutsu Camouflage: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_06} sec. This effect is removed upon taking a direct hit.
     Effect 2: Ninjutsu Injection: Restores HP equal to {description_value_07}% of attack damage. This effect is continuous.</color>
-    ■ Activates after {description_value_03} normal attacks in the Attract state. Affects self.
+    ■ Activates after performing {description_value_03} normal attacks while in the Attract state. Affects self.
     <color=#00AEFF>Creates a <word_group=10023>shield</word_group> with HP equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> max HP that lasts for {description_value_05} sec.</color>
     ■ Activates every {description_value_08} sec while in the Ninjutsu Injection state. Affects self.
     <color=#00AEFF>Ninjutsu IFAK: Lasts for {description_value_10} sec.
@@ -332,7 +332,7 @@ c023_Lobby_Touch_1:
     そして協調性です。
 c023_Lobby_Touch_2:
   en: |-
-    Although I'm still a trainee as a Phantom Thief,
+    Although I'm still a trainee as a phantom thief,
     as a ninja, I'm confident I've risen to a high level.
   ko: |-
     괴도로서는 수습이지만,
@@ -342,8 +342,8 @@ c023_Lobby_Touch_2:
     忍者としてはかなりのレベルだと自負しています。
 c023_Lobby_Touch_3:
   en: |-
-    The path of a Phantom Thief and the path of a ninja...
-    Only those who can walk both can truly be called a Ninja Thief.
+    The path of a phantom thief and the path of a ninja...
+    Only those who can walk both can truly be called a ninja thief.
   ko: |-
     괴도의 길과 닌자의 길. 이 두 가지를 모두 걸을 수 있는 자만이,
     괴도 닌자라고 할 수 있습니다.

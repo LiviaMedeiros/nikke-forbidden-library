@@ -55,7 +55,7 @@ character_shot_description_localkey_mg_down:
 28202_description:
   en: |-
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Recovers {description_value_01}% of attack damage as HP. This effect is continuous.</color>
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of attack damage. This effect is continuous.</color>
     ■ Activates at the start of battle. Affects self and the {description_value_02} ally unit(s) with rocket launchers who have the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF><word_group=10046>Equally shares HP recovery</word_group>. This effect is continuous.</color>
   ko: |-

@@ -59,9 +59,9 @@ character_shot_description_localkey_ar_down:
     <color=#00AEFF>Overheat I: ATK ▲ {description_value_02}%. Removed upon reloading to max ammunition.</color>
     ■ Activates when landing a normal attack after Prediction takes effect. Affects self.
     <color=#00AEFF>Effects vary according to the number of attacks landed. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:</color>
-    {description_value_03} attacks landed: While in Prediction and Overheat I status,
+    {description_value_03} attacks landed: While in the Prediction and Overheat I states,
     <color=#00AEFF>Overheat II: ATK ▲ {description_value_04}% continuously.</color>
-    {description_value_05} attacks landed: While in Prediction and Overheat II status,
+    {description_value_05} attacks landed: While in the Prediction and Overheat II states,
     <color=#00AEFF>Overheat III: Attack Damage ▲ {description_value_06}% continuously.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 명중 시 자신에게

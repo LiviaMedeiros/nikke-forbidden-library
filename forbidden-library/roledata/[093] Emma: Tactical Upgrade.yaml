@@ -52,11 +52,11 @@ character_shot_description_localkey_mg_down:
   en: LT Formation
   ko: 포메이션 LT
   ja: フォーメーションLT
-20932_description:
+20932_description_1:
   en: |-
-    ■ Activates as long as this unit is alive.
+    ■ Activates as long as this unit is still alive.
     <color=#00AEFF>LT Formation
-    Function: Issues a battle-advantageous tactic to the targets.
+    Function: Issues advantageous combat tactics to the targets.
     Effect 1: Affects all allies from the same squad. Critical Damage ▲ {description_value_01}% continuously.
     Effect 2: Affects all allies. <word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_02}% continuously.
 
@@ -65,7 +65,7 @@ character_shot_description_localkey_mg_down:
     Effect 2: Affects all allies. <word_group=10066>Projectile Explosion Damage</word_group> ▲ {description_value_04}% continuously.
     Effect 3: Affects self. Exposure <word_group=10086>activation disabled</word_group> continuously.
     Effect 4: Affects self. <word_group=10085>Recurring interval</word_group> of Environment Setup ▼ {description_value_05} sec continuously.</color>
-  ko: "■ 자신이 생존해있을 때 한하여\n<color=#00AEFF>[포메이션 LT] :\n기능 : 대상에게 전투에 유리한 전술 작전을 하달합니다.
+  ko: "■ 자신이 생존해 있을 때 한하여\n<color=#00AEFF>[포메이션 LT] :\n기능 : 대상에게 전투에 유리한 전술 작전을 하달합니다.
     \n효과 1 : 동일 스쿼드 아군 전체에게 [크리티컬 대미지 {description_value_01}% ▲] [지속]\n효과 2 : 아군 전체에게
     [<word_group=10066>발사체 폭발 대미지</word_group> {description_value_02}% ▲] [지속]\n\n[자신에게
     포메이션 AS 적용 중 추가 효과]\n효과 1 : 아군 전체에게 [방어력 무시 대미지 {description_value_03}% ▲] [지속]\n효과
@@ -161,15 +161,15 @@ skill_name_1002:
   en: |-
     ■ Affects all allies.
     <color=#00AEFF>Battlefield Formation: ATK ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>
-    ■ Affects self while in Environment Setup status.
+    ■ Activates if this unit is in the Environment Setup state. Affects self.
     <color=#00AEFF>Enhanced Environment Setup
     Function: Enhances Environment Setup.
-    Duration: 10 sec
-    Effect 1: Damage taken multiplier of Environment Setup is <word_group=10084>scaled</word_group> by 100%.
-    Effect 1 Target(s): All enemies
+    Duration: 10 sec.
+    Effect 1: The "Damage Taken" multiplier of Environment Setup is <word_group=10084>scaled</word_group> by 100%.
+    Effect 1 Targets: All enemies
 
     Effect 2: Incoming Healing ▲ {description_value_03}%.
-    Effect 2 Target(s): All allies</color>
+    Effect 2 Targets: All allies</color>
   ko: |-
     ■ 아군 전체에게
     <color=#00AEFF>[전장 조성 : 시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]</color>

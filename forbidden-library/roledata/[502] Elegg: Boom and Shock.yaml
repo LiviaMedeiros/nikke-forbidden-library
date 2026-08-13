@@ -138,10 +138,10 @@ skill_name_1002:
 15023_description:
   en: |-
     ■ Affects random enemy units if the number of ghosts is not 13.
-    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_02} time(s).
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_02} times.
     Number of ghosts ▼ {description_value_03}. Maintains at least 1 ghost.</color>
     ■ Affects random enemy units if the number of ghosts is 13.
-    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> for {description_value_05} time(s).
+    <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_05} times.
     Number of ghosts ▼ {description_value_06}.</color>
   ko: |-
     ■ 자신의 유령 개수가 13이 아니라면 무작위 적들에게

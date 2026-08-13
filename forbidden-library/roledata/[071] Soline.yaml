@@ -55,9 +55,9 @@ character_shot_description_localkey_smg_down:
   ja: シックに！
 20712_description:
   en: |-
-    ■ Only affects self at Max HP.
-    <color=#00AEFF>Critical Rate ▲ {description_value_01}% permanently.
-    Critical Damage ▲ {description_value_02}% permanently.</color>
+    ■ Activates only when this unit is at max HP. Affects self.
+    <color=#00AEFF>Critical Rate ▲ {description_value_01}% continuously.
+    Critical Damage ▲ {description_value_02}% continuously.</color>
   ko: |-
     ■ 자신의 체력이 최대일 때 한하여 자신에게
     <color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [지속]
@@ -78,7 +78,7 @@ skill_name_1003:
   ja: 落ち度なく！
 20711_description:
   en: |-
-    ■ Activates after {description_value_01} normal attacks. Affects self.
+    ■ Activates after performing {description_value_01} normal attacks. Affects self.
     <color=#00AEFF>Attack Speed▲ {description_value_02}% for {description_value_03} sec.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 자신에게
@@ -98,7 +98,7 @@ skill_name_1002:
   en: |-
     ■ Affects <word_group=10020>enemies within attack range</word_group>.
     Deals <color=#00AEFF>{description_value_01}% of <word_group=10025>final</word_group> ATK as damage.</color>
-    ■ Affects the same target(s) when at Max HP.
+    ■ Affects the same target(s) when at max HP.
     Deals <color=#00AEFF>{description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ <word_group=10020>공격 범위 내 적들</word_group>에게

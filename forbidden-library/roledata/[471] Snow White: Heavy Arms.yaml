@@ -112,10 +112,10 @@ skill_name_1003:
   ja: セブンスドワーフV+VI
 24711_description:
   en: |-
-    ■ Activates every {description_value_01} sec while charging. Affects the enemy unit nearest to the crosshair that is not in Lock-On status.
+    ■ Activates every {description_value_01} sec while charging. Affects the enemy unit nearest to the crosshair that is not the in Lock-On state.
     <color=#00AEFF>Lock-On
     Function: Designates the enemy as a target of Seven Dwarves.
-    Max Lock-On targets: {description_value_03}
+    Max Lock-On Targets: {description_value_03}
     <word_group=10097>Deactivation condition</word_group>: Performing a normal attack or <word_group=10095>taking cover</word_group>.</color>
     ■ Activates every {description_value_01} sec while charging. Affects self.
     <color=#00AEFF>Auto Fire Ready
@@ -123,14 +123,14 @@ skill_name_1003:
     Effect: DEF ▲ {description_value_04}% continuously.
     Max ammo loaded by Auto Fire Ready: {description_value_05}
     <word_group=10097>Deactivation condition</word_group>: Performing a normal attack.</color>
-    ■ Activates every {description_value_01} sec while charging. Affects all enemies in Lock-On status.
+    ■ Activates every {description_value_01} sec while charging. Affects all enemies in the Lock-On state.
     <color=#00AEFF>Damage Taken ▲ {description_value_02}% for {description_value_08} sec.</color>
-    ■ Activates when attacking with Full Charge.
+    ■ Activates when performing a Full Charge attack.
     <color=#00AEFF>Auto Fire
     Function: Attacks Lock-On targets with Seven Dwarves.
     Effect 1: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage. Affects all enemies.
     Effect 2: Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as damage. Affects Lock-On targets. <word_group=10050>Attacks sequentially</word_group> based on the amount of ammo loaded by Auto Fire Ready.</color>
-    ■ Activates when attacking with Full Charge while in Seven Dwarves Fully Active status. Affects self.
+    ■ Activates when performing a Full Charge attack while in the Seven Dwarves Fully Active state. Affects self.
     <color=#00AEFF>Number of uses of Seven Dwarves Fully Active ▼ 1.</color>
     ■ Activates when performing a normal attack while not in Full Burst. Affects self.
     <color=#00AEFF>Removes Seven Dwarves Fully Active.</color>

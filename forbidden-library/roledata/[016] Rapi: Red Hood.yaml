@@ -60,13 +60,13 @@ character_shot_description_localkey_mg_down:
     This effect is continuous and cannot be removed.\n<word_group=10065>Projectile
     Attachment Damage</word_group> ▲ {description_value_05}% continuously.\n<word_group=10066>Projectile
     Explosion Damage</word_group> ▲ {description_value_06}% continuously.</color>\n■
-    Activates after {description_value_01} normal attacks. Affects self. \n<color=#00AEFF>Attachable
-    Projectiles\nEffect: Launches <word_group=10064>attachable projectiles</word_group>
-    that attach to hit locations. When entering Full Burst, the projectiles explode.\n<word_group=10065>Projectile
-    Attachment Damage</word_group>: Deals {description_value_02}% of <word_group=10025>final</word_group>
-    ATK as damage.\n<word_group=10066>Projectile Explosion Damage</word_group>: Deals
-    {description_value_03}% of <word_group=10025>final</word_group> ATK as damage.\nMax
-    Ammunition Capacity: {description_value_04} round(s).</color>"
+    Activates after performing {description_value_01} normal attacks. Affects self.
+    \n<color=#00AEFF>Attachable Projectiles\nEffect: Launches <word_group=10064>attachable
+    projectiles</word_group> that attach to hit locations. When entering Full Burst,
+    the projectiles explode.\n<word_group=10065>Projectile Attachment Damage</word_group>:
+    Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as damage.\n<word_group=10066>Projectile
+    Explosion Damage</word_group>: Deals {description_value_03}% of <word_group=10025>final</word_group>
+    ATK as damage.\nMax Ammunition Capacity: {description_value_04} round(s).</color>"
   ko: |-
     ■ 전투 시작 시 자신에게
     <color=#00AEFF>[전격 코드 적에게 <word_group=10063>우월 코드 대미지 적용</word_group>] [지속] [해제 불가]

@@ -60,7 +60,7 @@ character_shot_description_localkey_smg_down:
   en: |-
     ■ Activates when the enemy appears. Affects the target.
     <color=#00AEFF>Bubble: Damage Taken ▲ {description_value_01}% continuously.</color>
-    ■ Activates after landing {description_value_02} normal attacks. Affects the target if the target is in Bubble status.
+    ■ Activates after landing {description_value_02} normal attacks. Affects the target if the target is in the Bubble state.
     <color=#00AEFF>Explosive Bubble: Damage Taken ▲ {description_value_01}% continuously.
     Stuns for {description_value_03} sec.
     Removes Bubble.</color>

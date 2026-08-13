@@ -127,8 +127,8 @@ skill_name_1002:
 13553_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Storage: Stores excess incoming healing, up to {description_value_01}% of the skill user's Max HP. Lasts for {description_value_02} sec.
-    Restores HP equal to {description_value_03}% of the skill user's Max HP.
+    <color=#00AEFF>Storage: Stores excess incoming healing, up to {description_value_01}% of the skill user's max HP. Lasts for {description_value_02} sec.
+    Restores HP equal to {description_value_03}% of the skill user's max HP.
     ATK ▲ {description_value_04}% of the skill user's ATK for {description_value_05} sec.</color>
   ko: |-
     ■ 아군 전체에게
@@ -436,7 +436,7 @@ c355_Battle_Ready_3:
   ko: 어. 레시피 까먹었다.
   ja: あ、レシピ忘れちゃった。
 c355_Reload_1:
-  en: Doo dee doo... Maid for You♪
+  en: Doo dee doo... Maid For You♪
   ko: 흐흐흥 메이드 포 유~♪
   ja: ふんふん、メイド・フォー・ユー♪
 c355_Reload_2:

@@ -68,7 +68,7 @@ character_shot_description_localkey_sr_up:
     Effect 1: Affects self. <word_group=10099>Expends ammo</word_group> from the <word_group=10098>ammo pouch</word_group>. Amount: {description_value_01} round(s).
     Effect 2: Affects all allies. ATK ▲ {description_value_02}% of the skill user's ATK for {description_value_03} sec continuously.
     Effect 3: Affects all allies. Charge Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
-    ■ Activates after landing {description_value_06} normal attack(s) during Full Burst.
+    ■ Activates after landing {description_value_06} normal attacks during Full Burst.
     <color=#00AEFF>Function: Expends ammo from the <word_group=10098>ammo pouch</word_group> to deal additional damage to the enemy.
     Effect 1: Affects self. <word_group=10099>Expends ammo</word_group> from the <word_group=10098>ammo pouch</word_group>. Amount: {description_value_07} round(s).
     Effect 2: Affects self. Attack Damage ▲ {description_value_08}% for {description_value_09} sec.

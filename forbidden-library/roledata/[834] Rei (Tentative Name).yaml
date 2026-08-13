@@ -81,12 +81,12 @@ skill_name_1003:
   ja: 殲滅支援
 28341_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s) against a target in Anti A.T. Field status. Affects the target.
+    ■ Activates after landing {description_value_01} normal attacks against a target in the Anti A.T. Field state. Affects the target.
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.
     Anti A.T. Field stacks ▲ {description_value_03}.</color>
-    ■ Activates after landing {description_value_04} normal attack(s) while in Attack State status. Affects the target.
+    ■ Activates after landing {description_value_04} normal attacks while in Attack State. Affects the target.
     <color=#00AEFF>Deals {description_value_05}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
-    ■ Activates when entering Full Burst. Affects all allies in Annihilation State status.
+    ■ Activates when entering Full Burst. Affects all allies in Annihilation State.
     <color=#00AEFF><word_group=10071>Units affected</word_group> by Annihilation State's additional effect ▲ {description_value_06} for {description_value_07} sec.
     <word_group=10072>Attack range</word_group> of Annihilation State's additional effect ▲ {description_value_08}% for {description_value_09} sec.
     ATK ▲ {description_value_10}% of the skill user's ATK for {description_value_11} sec.</color>

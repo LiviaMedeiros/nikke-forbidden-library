@@ -56,9 +56,9 @@ character_shot_description_localkey_sg_down:
   ko: 양호 선생님
   ja: 保健室の先生
 23212_description:
-  en: "■ Activates when using Burst Skill. Affects all allies. \n<color=#00AEFF>Recovers
-    {description_value_01}% of the skill user's <word_group=10025>final</word_group>
-    Max HP as HP. </color>"
+  en: "■ Activates when using Burst Skill. Affects all allies. \n<color=#00AEFF>Restores
+    HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group>
+    max HP. </color>"
   ko: |-
     ■ 버스트 스킬 사용 시 아군 전체에게
     <color=#00AEFF>[시전자 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
@@ -77,7 +77,7 @@ skill_name_1003:
 23211_description:
   en: |-
     ■ Activates when the last bullet hits the target. Affects all allies.
-    <color=#00AEFF>Recovers {description_value_01}% of attack damage as HP over {description_value_02} sec.</color>
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of attack damage. Lasts for {description_value_02} sec.</color>
     ■ Activates when the last bullet hits the target. Affects {description_value_03} ally unit(s) with the highest <word_group=10025>final</word_group> ATK.
     <color=#00AEFF>Incoming Healing ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: "■ 마지막 탄환 명중 시 아군 전체에게 \n<color=#00AEFF>[공격 대미지 비례 {description_value_01}% 회복]
@@ -101,7 +101,7 @@ skill_name_1002:
 13213_description:
   en: |-
     ■ Affects all allies.
-    <color=#00AEFF>Storage: Stores excess incoming healing, up to {description_value_01}% of the skill user's Max HP. Lasts for {description_value_02} sec.
+    <color=#00AEFF>Storage: Stores excess incoming healing, up to {description_value_01}% of the skill user's max HP. Lasts for {description_value_02} sec.
     DEF ▲ {description_value_03}% of the skill user's DEF for {description_value_04} sec.</color>
   ko: |-
     ■ 아군 전체에게

@@ -76,13 +76,13 @@ skill_name_1003:
   ko: 고속진화
   ja: 高速進化
 22601_description:
-  en: "■ Activates when normal attack hits. Affects the target(s).\n<color=#00AEFF>Deals
+  en: "■ Activates when landing a normal attack. Affects the target.\n<color=#00AEFF>Deals
     {description_value_01}% of <word_group=10025>final</word_group> ATK as additional
-    damage.</color> \n■ Activates when normal attack hits {description_value_02} time(s).
-    Affects self.\n<color=#00AEFF>Critical Damage ▲ {description_value_03}%, stacks
-    up to {description_value_04} time(s) and lasts for {description_value_05} sec.\nMax
-    Ammunition Capacity ▼ {description_value_06}%, stacks up to {description_value_07}
-    time(s) and lasts for {description_value_08} sec.</color>"
+    damage.</color> \n■ Activates after landing {description_value_02} normal attacks.
+    Affects self.\n<color=#00AEFF>Critical Damage ▲ {description_value_03}%. Stacks
+    up to {description_value_04} times and lasts for {description_value_05} sec.\nMax
+    Ammunition Capacity ▼ {description_value_06}%. Stacks up to {description_value_07}
+    times and lasts for {description_value_08} sec.</color>"
   ko: |-
     ■ 일반 공격 명중 시 대상에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% 추가 대미지]</color>

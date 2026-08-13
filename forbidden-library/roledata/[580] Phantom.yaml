@@ -114,8 +114,8 @@ skill_name_1003:
     予告状状態ではないラプチャーなら
     対象に
     <color=#00AEFF>「予告状：防御力{description_value_01}％▼」「{description_value_02}秒」</color>
-    ■通常攻撃が命中した時、予告状状態ではない
-    ラプチャーなら自分に
+    ■通常攻撃が命中した時、
+    予告状状態ではないラプチャーなら自分に
     <color=#00AEFF>「怪盗の短剣：命中率{description_value_03}％▲」
     「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
     ■通常攻撃が命中した時、
@@ -132,7 +132,7 @@ skill_name_1002:
 15803_description:
   en: |-
     ■ Affects all enemies.
-    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as <word_group=10019>Distributed Damage</word_group>.</color>
+    <color=#00AEFF>Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as <word_group=10019>distributed damage</word_group>.</color>
   ko: |-
     ■ 적 전체에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_01}% <word_group=10019>분배 대미지</word_group> ]</color>
@@ -504,6 +504,227 @@ c580_Win_1:
   en: As usual, the thief comes out victorious.
   ko: 괴도 팬텀, 예고했던 대로 승리를 가져왔소.
   ja: 怪盗ファントム、予告通り勝利をもたらした。
+c580_01_Lobby_Touch_1:
+  en: I've no intention of neglecting my regular duties just because I'm now a Thief
+    of Judgment.
+  ko: 심판의 괴도가 되었다고 해서 원래 활동을 소홀히 할 생각은 없소.
+  ja: |-
+    審判の怪盗になったからといって、
+    本来の活動をおろそかにするつもりはない。
+c580_01_Lobby_Touch_2:
+  en: I'm thinking of writing an autobiography that could double as a guide to being
+    a phantom thief. Will you help me?
+  ko: |-
+    자서전 겸 괴도 활동 가이드를 집필해 볼 생각이오.
+    그대도 도와주겠소?
+  ja: |-
+    自伝を兼ねた怪盗活動のガイドを執筆しようと思っている。
+    君も手伝ってくれないか？
+c580_01_Lobby_Touch_3:
+  en: About this outfit... It's meant to represent the awakening of a phantom thief
+    who, after fighting for justice her whole life, joins forces with her allies at
+    the last minute and... Hey, are you listening?
+  ko: |-
+    이건 말이오. 일종의 각성 버전이라는 컨셉의 의상인 것이오. 정의를 위해 한평생 애쓰다가, 마지막 순간에 동료들과 힘을 합쳐….
+    …듣고 있소?
+  ja: |-
+    これなんだが、一種の覚醒バージョンというコンセプトの衣装なんだ。正義のために生涯を捧げ、最後には仲間たちと力を合わせ…
+    …聞いているかい？
+c580_01_Lobby_Touch_Love_1:
+  en: The road to justice has no end. I would be glad if you walked it with me.
+  ko: |-
+    정의의 길에는 끝이 없소.
+    그 길에 그대가 함께해 준다면 기쁘겠소.
+  ja: |-
+    正義の道に終わりはない。
+    その道を君がともに歩んでくれるなら、喜ばしいことだ。
+c580_01_Lobby_Touch_Love_2:
+  en: It makes me proud to see that you have also grown as a phantom thief.
+  ko: 나뿐만 아니라 그대도 괴도로서 성장한 모습을 보니 뿌듯하오.
+  ja: 私だけでなく、君の怪盗として成長した姿も見られて、誇らしく思うよ。
+c580_01_Lobby_Touch_Love_3:
+  en: You don't have to worry about my feelings for you changing. I may be a Thief
+    of Judgment now, but my true self hasn't changed.
+  ko: |-
+    그대를 향한 내 마음이 변할 걱정은 하지 않아도 되오.
+    심판의 괴도가 되었으나, 내 본질은 변하지 않았으니까.
+  ja: |-
+    君への気持ちが変わる…そんな心配はしなくていい。
+    審判の怪盗になったとはいえ、私の本質は変わらないのだから。
+c580_01_Lobby_Stay_1:
+  en: The Thieves of Judgment... Heheh... I really nailed the name if I do say so
+    myself...
+  ko: |-
+    심판 괴도단… 후후….
+    내가 생각해도 참 이름을 잘 지었군….
+  ja: |-
+    審判の怪盗団…ふふ…
+    我ながら実にいい名前だ…
+c580_01_Lobby_Stay_Love_1:
+  en: Hmm. I suppose both justice and phantom thieves need time to rest. I'll stay
+    by your side, so enjoy your break.
+  ko: |-
+    흠. 뭐, 정의에게도 괴도에게도 쉬는 시간은 중요하지.
+    내가 곁에 있을 테니, 마음 놓고 쉬시오.
+  ja: |-
+    ふむ。まあ、正義にも怪盗にも休息は大切だ。
+    私がそばにいる、安心して休みたまえ。
+c580_01_Outpost_Touch_1:
+  en: Hehe... People can't take their eyes off me. It's not ideal for a phantom thief,
+    but it's perfect for a paragon of justice.
+  ko: |-
+    후후… 다들 내게서 시선을 떼지 못하고 있군.
+    괴도로서는 아쉽지만, 정의로서는 바람직하오.
+  ja: |-
+    ふふ…みんな、私から目を離せないようだね。
+    怪盗としては残念だが、正義を行う者としては望ましいことさ。
+c580_01_Outpost_Touch_2:
+  en: The Outpost is a peaceful place. I'm sure it's all thanks to you, Monsieur.
+  ko: |-
+    전초기지는 평화로운 곳이오.
+    분명 그대의 덕일테지.
+  ja: |-
+    前哨基地は平和な場所だ。
+    きっと君のおかげなのだろう。
+c580_01_Outpost_Touch_3:
+  en: I'm thinking about recruiting some new phantom thieves. What do you think?
+  ko: |-
+    괴도단의 새로운 멤버를 구해볼까 하오.
+    그대는 어떻게 생각하시오?
+  ja: |-
+    怪盗団の新しいメンバーを探そうかと思うんだ。
+    君はどう思う？
+c580_01_Gacha_Get_1:
+  en: Phantom the Saint Thief has arrived to judge the wicked! ... And I don't mean
+    their choice of fashion.
+  ko: |-
+    성스러운 괴도 팬텀. 악을 심판하기 위해 이곳에 등장했소!
+    …참고로 경기 심판이 아니오.
+  ja: |-
+    聖なる怪盗ファントム。悪を審判すべく、ここに参上！
+    …ちなみに、試合の審判ではないのだよ。
+c580_01_Reinforce_1:
+  en: I've become even more just!
+  ko: 한층 더 정의로워졌소.
+  ja: より一層、正義に磨きがかかったな。
+c580_01_Reinforce_2:
+  en: This sacred power will aid me in judging the wicked.
+  ko: 악을 심판할 성스러운 힘이오.
+  ja: これが悪を裁く、聖なる力だ！
+c580_01_Reinforce_3:
+  en: I promise to use this power for the greater good.
+  ko: 이 힘, 반드시 대의를 위해 쓰겠소.
+  ja: この力、必ず大義のために使おう。
+c580_01_Gift_1:
+  en: I shall repay you handsomely.
+  ko: 보답을 기대해 주시오.
+  ja: この恩は必ず返そう。期待してくれたまえ。
+c580_01_Gift_2:
+  en: Even a phantom thief would have trouble acquiring this. I'll treasure it.
+  ko: 괴도라도 구하기 어려운 것이군. 소중히 하겠소.
+  ja: |-
+    これは…怪盗ですら手に入れるのが難しいものだな。
+    大切にしよう。
+c580_01_Gift_3:
+  en: Thank you. This brings me joy.
+  ko: 고맙소. 정말 기쁘오.
+  ja: ありがとう。この上ない喜びを感じているよ。
+c580_01_Attractive_Up_1:
+  en: Our bond grows deeper.
+  ko: 우리의 유대가 깊어지는군.
+  ja: 君との絆が着実に深まっているな。
+c580_01_Attractive_Up_2:
+  en: Our hearts have become one.
+  ko: 그대와 나의 마음이 하나가 되었소.
+  ja: 君と私の心が、一つになっていくのを感じるよ。
+c580_01_Attractive_Up_3:
+  en: I want to continue walking this path with you.
+  ko: 계속 그대와 함께 나아가고 싶소.
+  ja: これからも君と共に歩んでいきたいものだ。
+c580_01_Party_Deploy_1:
+  en: I'm ready.
+  ko: 준비되었소.
+  ja: 準備は万全だ。
+c580_01_Field_Touch_1:
+  en: I'm listening.
+  ko: 듣고 있다오.
+  ja: 聞いているとも。
+c580_01_Field_Go_1:
+  en: Will do.
+  ko: 알겠소.
+  ja: 分かった。
+c580_01_Battle_Enter_1:
+  en: In the name of justice, you will not go unpunished!
+  ko: 정의의 이름으로, 저들을 용서하지 않겠소!
+  ja: 正義の名のもとに、奴らを裁く！
+c580_01_Battle_Ready_1:
+  en: I've already left them my calling card.
+  ko: 예고장은 이미 보내두었소.
+  ja: 予告状なら、もう送っておいたとも。
+c580_01_Battle_Ready_2:
+  en: Time to judge this rampant evil!
+  ko: 만연한 악에 심판을!
+  ja: はびこる悪に審判を！
+c580_01_Battle_Ready_3:
+  en: Prepare to be impressed!
+  ko: 멋진 모습을 기대해 주시오.
+  ja: カッコいい姿を期待していてくれたまえ。
+c580_01_Reload_1:
+  en: Reloading!
+  ko: 재장전하겠소!
+  ja: リロードしよう。
+c580_01_Reload_2:
+  en: This is not over yet.
+  ko: 아직 끝나지 않았소.
+  ja: まだ終わってはいない。
+c580_01_Reload_3:
+  en: Evil knows no end.
+  ko: 악은 끝이 없군.
+  ja: 悪というのは、キリがないな。
+c580_01_Ult_Skill_Ready_1:
+  en: It's time.
+  ko: 때가 되었소.
+  ja: 時が来た。
+c580_01_Ult_Skill_1:
+  en: Forgive me, for I use no gimmick or trick.
+  ko: 오늘도 정의로운 괴도가 되게 해주시오.
+  ja: 今宵も、正義の怪盗であることをお許しください。
+c580_01_FullBurst_1:
+  en: The hour of judgment is upon you!
+  ko: 심판의 시간이오!
+  ja: 審判の時間だ！
+c580_01_Kill_Monster_1:
+  en: In the name of justice!
+  ko: 정의의 이름으로!
+  ja: 正義の名のもとに！
+c580_01_Kill_Monster_2:
+  en: Accept your judgment!
+  ko: 심판을 받으시오!
+  ja: 裁きを受けたまえ！
+c580_01_Kill_Monster_3:
+  en: Pretty impressive, right? Hehe.
+  ko: 후후. 방금 꽤 멋졌군.
+  ja: ふふ、今のはかなりカッコよかっただろう？
+c580_01_Damage_1:
+  en: Ugh...
+  ko: 큭.
+  ja: くっ。
+c580_01_Damage_2:
+  en: Ridiculous!
+  ko: 어림없소…!
+  ja: あり得ない…！
+c580_01_Damage_3:
+  en: Urgh!
+  ko: 윽…!
+  ja: うっ…！
+c580_01_Die_1:
+  en: Ugh... Justice... cannot be defeated...!
+  ko: 큭… 정의는 쓰러지지 않소…!
+  ja: くっ…正義は倒れない…！
+c580_01_Win_1:
+  en: Hehe. Justice always prevails.
+  ko: 후후. 정의는 항상 승리하는 법이오.
+  ja: ふふ。正義は常に勝利するものさ。
 580_cv_ja:
   en: 'CV: Hiromi Hirata'
   ko: 'CV : 히라타 히로미'

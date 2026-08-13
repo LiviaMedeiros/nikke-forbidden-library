@@ -82,10 +82,10 @@ skill_name_1003:
   ja: 射撃マニュアル
 28331_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects self.
-    <color=#00AEFF>Shooting Manual: Hit Rate ▲ {description_value_02}%, stacks up to {description_value_03} time(s) and lasts for {description_value_04} sec.</color>
-    ■ Activates after landing {description_value_05} normal attack(s). Affects {description_value_06} ally unit(s) with the lowest HP percentage.
-    <color=#00AEFF>Recovers {description_value_07}% of the skill user's <word_group=10025>final</word_group> Max HP as HP.</color>
+    ■ Activates after performing {description_value_01} normal attack(s). Affects self.
+    <color=#00AEFF>Shooting Manual: Hit Rate ▲ {description_value_02}%. Stacks up to {description_value_03} times and lasts for {description_value_04} sec.</color>
+    ■ Activates after performing {description_value_05} normal attacks. Affects the {description_value_06} ally unit(s) with the lowest HP percentage.
+    <color=#00AEFF>Restores HP equal to {description_value_07}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 자신에게
     <color=#00AEFF>[사격 매뉴얼 : 명중률 {description_value_02}% ▲] [{description_value_03} 중첩] [{description_value_04}초 유지]</color>

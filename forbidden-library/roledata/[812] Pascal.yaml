@@ -77,9 +77,9 @@ skill_name_1003:
   ja: お気をつけて！
 28121_description:
   en: "■ Activates after firing {description_value_01} time(s). Affects {description_value_02}
-    ally unit(s) with the highest <word_group=10025>final</word_group> DEF. \n<color=#00AEFF>Recovers
-    {description_value_03}% of the skill user's <word_group=10025>final</word_group>
-    Max HP as HP.</color>"
+    ally unit(s) with the highest <word_group=10025>final</word_group> DEF. \n<color=#00AEFF>Restores
+    HP equal to {description_value_03}% of the skill user's <word_group=10025>final</word_group>
+    max HP.</color>"
   ko: |-
     ■ {description_value_01}회 사격 시 <word_group=10025>최종</word_group> 방어력이 가장 높은 아군 {description_value_02}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_03}% 회복]</color>
@@ -96,8 +96,8 @@ skill_name_1002:
   ja: 安全第一ですよ！
 18123_description:
   en: "■ Affects {description_value_01} ally unit(s) with the lowest remaining HP.
-    \n<color=#00AEFF>Recovers {description_value_02}% of the skill user's <word_group=10025>final</word_group>
-    Max HP as HP.</color>"
+    \n<color=#00AEFF>Restores HP equal to {description_value_02}% of the skill user's
+    <word_group=10025>final</word_group> max HP.</color>"
   ko: |-
     ■ 남은 체력 수치가 가장 낮은 아군 {description_value_01}기에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>

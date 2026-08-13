@@ -56,7 +56,7 @@ character_shot_description_localkey_mg_down:
 25152_description:
   en: |-
     ■ Activates at the start of battle and when using Burst Skill. Affects self.
-    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of the skill user's <word_group=10025>final</word_group> Max HP. This effect is continuous.</color>
+    <color=#00AEFF><word_group=10024>Decoy</word_group>: Creates an avatar with {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP. This effect is continuous.</color>
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>ATK ▲ {description_value_02}% continuously.</color>
     ■ Activates when Snipe Mode takes effect. Affects self.
@@ -89,8 +89,10 @@ character_shot_description_localkey_mg_down:
     자신이 저격 모드가 아니라면 코어가 활성화된 적 전체에게
     <color=#00AEFF>효과 1 : [<word_group=10025>최종</word_group> 공격력 {description_value_06}% <word_group=10104>코어 명중 대미지</word_group>]</color>
   ja: |-
-    ■戦闘開始時およびバーストスキル使用時、自分に
-    <color=#00AEFF>「<word_group=10024>デコイ</word_group>：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％の分身」「持続」</color>
+    ■戦闘開始時およびバーストスキル使用時、
+    自分に
+    <color=#00AEFF>「<word_group=10024>デコイ</word_group>：スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_01}％の分身」「持続」</color>
     ■戦闘開始時、自分に
     <color=#00AEFF>「攻撃力{description_value_02}％▲」「持続」</color>
     ■狙撃モード適用時、自分に
@@ -163,15 +165,20 @@ skill_name_1003:
     チャージ時間：1秒
     ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
     フルチャージダメージ：250％
-    最大装弾数：15発（<word_group=10106>リロード完了時、最大装弾数に対する効果更新</word_group>）
+    最大装弾数：15発（<word_group=10106>リロード完了時、
+    最大装弾数に対する効果更新</word_group>）
     追加効果1：貫通特化
     追加効果2：フルチャージして攻撃した時、<word_group=10099>弾薬消費</word_group>{description_value_02}発
     追加効果3：チャージ時間1秒に固定
-    解除条件：変更準備状態で最大弾数のリロードを完了した時</color>
+    解除条件：変更準備状態で最大弾数の
+    リロードを完了した時</color>
     ■戦闘開始時、自分に
-    <color=#00AEFF>「ビューティー・フル：攻撃ダメージ{description_value_03}％▲」「持続」</color>
+    <color=#00AEFF>「ビューティー・フル：
+    攻撃ダメージ{description_value_03}％▲」「持続」</color>
     ■最大弾数のリロードが完了した時、自分に
-    <color=#00AEFF>「変更準備：リロード時間を3秒に固定」「{description_value_04}秒間維持」「最後の弾丸で攻撃時解除」</color>
+    <color=#00AEFF>「変更準備：リロード時間を3秒に固定」
+    「{description_value_04}秒間維持」
+    「最後の弾丸で攻撃時解除」</color>
     ■{description_value_10}秒ごとに照準線に最も近い敵1機に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％のダメージ」</color>
     ■<word_group=10078>味方が消費した弾の合計</word_group>が{description_value_08}発ごとに、味方全体に
@@ -200,7 +207,8 @@ skill_name_1002:
     <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」
     「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
     ■<word_group=10025>最終</word_group>攻撃力が最も高い敵1機に<color=#00AEFF>
-    「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％のバーストスキルダメージ」</color>
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の
+    バーストスキルダメージ」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬
@@ -435,7 +443,7 @@ c515_Reinforce_1:
   ko: 몸이 가벼워진 기분이야.
   ja: 体が軽くなった気がするわ。
 c515_Reinforce_2:
-  en: Glass Slippers are gleaming.
+  en: Glass Slippers is gleaming.
   ko: 유리구두가 빛나고 있어.
   ja: ガラスの靴も輝いているわ。
 c515_Reinforce_3:

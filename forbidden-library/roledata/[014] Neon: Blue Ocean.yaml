@@ -113,7 +113,7 @@ skill_name_1002:
     <color=#00AEFF>Changes the weapon in use:
     Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
     Duration: {description_value_02} sec</color>
-    ■ Activates when attacking a Fire Code target. Affects the target.
+    ■ Affects the enemy if the enemy is a Fire Code target.
     <color=#00AEFF>Deals {description_value_03}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ 자신에게
@@ -301,7 +301,7 @@ c014_Lobby_Touch_1:
   ko: 스승님! 같이 수력 충전하실래요?
   ja: 師匠！一緒に水力チャージしませんか？
 c014_Lobby_Touch_2:
-  en: Just because I'm on vacation doesn't mean I should stop being a double agent.
+  en: I'm a double agent pretending to be a spy on vacation.
   ko: 휴가를 온 스파이인 척을 하고 있는 이중 스파이입니다.
   ja: |-
     休暇に来た、スパイのふりをしている
