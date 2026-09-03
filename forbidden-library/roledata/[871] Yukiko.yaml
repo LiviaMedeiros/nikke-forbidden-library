@@ -16,9 +16,12 @@ c871_description:
     머리 회전이 빠르지만, 분위기를 읽는 데에는 다소 서툰 면이 있으며 약간 천연스러운 성격이다.
   ja: |-
     フルネームは天城雪子。
-    八十神高校に通う学生たちで結成された「自称特別捜査隊」の一員でペルソナ使いの少女。
-    老舗高級旅館「天城屋旅館」の女将の娘であり、現在は女将修行の真っ最中。
-    頭の回転が速いが、空気を読むことにいま一つ疎いところがあり、やや天然気味。
+    八十神高校に通う学生たちで結成された
+    「自称特別捜査隊」の一員でペルソナ使いの少女。
+    老舗高級旅館「天城屋旅館」の女将の娘であり、
+    現在は女将修行の真っ最中。
+    頭の回転が速いが、空気を読むことに
+    いま一つ疎いところがあり、やや天然気味。
 871_cv:
   en: "-"
   ko: "-"
@@ -98,12 +101,18 @@ character_shot_description_localkey_mg_down:
     機能：自分を強化する
     効果1：{description_value_01}秒ごとに味方全体に「メディラマ：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」
     効果2：自分に「火炎ブースタ：<word_group=10019>分配ダメージ</word_group>{description_value_03}％▲」「持続」「解除不可」
-    効果3：自分に「真紅の守護：<word_group=10108>水冷コードの敵から受けるダメージ</word_group>{description_value_04}％▼」「持続」「解除不可」
+    効果3：自分に「真紅の守護：
+    <word_group=10108>水冷コードの敵から受けるダメージ</word_group>{description_value_04}％▼」
+    「持続」「解除不可」
     <word_group=10097>解除条件</word_group>：フルバーストタイムが終了した時</color>
     ■バースト3段階突入時、自分に
-    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_05}％▲」「{description_value_06}秒間維持」</color>
-    ■1moreが適用された時、自分を除く<word_group=10082>基本バースト段階が{description_value_07}の</word_group>ペルソナ状態の味方全体に
-    <color=#00AEFF>「追撃：スキル発動者基準で攻撃力{description_value_08}％▲」「{description_value_09}秒間維持」</color>
+    <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_05}％▲」
+    「{description_value_06}秒間維持」</color>
+    ■1moreが適用された時、自分を除く
+    <word_group=10082>基本バースト段階が{description_value_07}の</word_group>ペルソナ状態の
+    味方全体に
+    <color=#00AEFF>「追撃：スキル発動者基準で
+    攻撃力{description_value_08}％▲」「{description_value_09}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -133,7 +142,8 @@ skill_name_1003:
     <color=#00AEFF>「ペルソナ - コノハナサクヤ」「持続」「解除不可」：
     機能：ペルソナを使って味方を回復する
     効果1：{description_value_01}秒ごとに味方全体に「メディア：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」</color>
-    ■戦闘開始時およびフルバーストタイムが終了した時、自分に
+    ■戦闘開始時およびフルバーストタイムが
+    終了した時、自分に
     <color=#00AEFF>「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
     ■1moreが適用された時、敵全体に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の<word_group=10019>分配ダメージ</word_group>」</color>
@@ -160,7 +170,8 @@ skill_name_1002:
     ■敵全体に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の<word_group=10019>分配ダメージ</word_group>」</color>
     ■対象が風圧コードなら自分に
-    <color=#00AEFF>「1more：攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    <color=#00AEFF>「1more：攻撃力{description_value_02}％▲」
+    「{description_value_03}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬
@@ -353,7 +364,8 @@ c871_Lobby_Touch_Love_3:
     …푸흡. 아, 미안. 아까 네온 씨한테 들은 말이 생각나서.
     그냥 별거 아닌 이야기였는데… 아하하하.
   ja: |-
-    …ぷっ。あ、ごめんね。さっきネオンさんから聞いた話を思い出しちゃって。
+    …ぷっ。あ、ごめんね。
+    さっきネオンさんから聞いた話を思い出しちゃって。
     たいしたことじゃなかったんだけど…あはははっ。
 c871_Lobby_Stay_1:
   en: Hm, I wonder what Teddie's up to... Maybe I should go check on him.
@@ -378,16 +390,16 @@ c871_Outpost_Touch_1:
     전초기지… 라면, 군대 같은 거지?
     그런데도 이렇게 활기가 넘치다니….
   ja: |-
-    前哨基地…ってことは、軍隊みたいなものだよね？
-    それなのに、こんなに活気づいてるなんて…
+    前哨基地…ってことは、 軍隊みたいなものだよね？
+    それなのに、 こんなに活気づいてるなんて…
 c871_Outpost_Touch_2:
   en: Hey, are there any inns in the Ark? If there are... I'd be curious to see one.
   ko: |-
     저기, 방주에도 료칸 같은 게 있을까?
     혹시 있다면… 좀 궁금하네.
   ja: |-
-    ねえ、アークには旅館ってあるのかな？
-    もしあるんだったら、ちょっと気になるなーって。
+    ねえ、アークには 旅館ってあるのかな？
+    もしあるんだったら、 ちょっと気になるなーって。
 c871_Outpost_Touch_3:
   en: Wait, there's a haunted place nearby...?! I might be curious to see that...
     Could you take me there?
@@ -452,7 +464,7 @@ c871_Party_Deploy_1:
 c871_Field_Touch_1:
   en: What is it?
   ko: 무슨 일이야?
-  ja: 何かあった？
+  ja: どうしたの？
 c871_Field_Go_1:
   en: We just need to go that way, right?
   ko: 저쪽으로 가면 되는 거지?
@@ -518,7 +530,7 @@ c871_Damage_1:
 c871_Damage_2:
   en: Ugh!
   ko: 윽…!
-  ja: うっ！
+  ja: くっ…！
 c871_Damage_3:
   en: Ouch!
   ko: 아팟…!

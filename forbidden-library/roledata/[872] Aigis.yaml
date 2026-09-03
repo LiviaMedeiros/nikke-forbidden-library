@@ -6,7 +6,7 @@
 c872_description:
   en: |-
     The seventh-generation Anti-Shadow Suppression Weapon developed by the Kirijo Group.
-    As part of the Specialized Extracurricular Execution Squad (SEES), she is an android capable of of summoning a Persona.
+    As part of the Specialized Extracurricular Execution Squad (SEES), she is an android capable of summoning a Persona.
     While she initially behaves like a machine, acting in an obedient and overly straightforward manner, she gradually comes to develop human emotions.
   ko: |-
     키리조 그룹이 개발한 대 섀도 특수 제압 병장 제7식.
@@ -14,8 +14,10 @@ c872_description:
     처음에는 기계답게 성실하고 직선적인 언행을 보이지만, 점차 인간다운 감정에 눈떠 간다.
   ja: |-
     桐条グループが開発した対シャドウ特別制圧兵装七式。
-    ペルソナの召喚も可能な心を持った人型兵器として、「特別課外活動部」に加入する。
-    当初は機械らしく、実直な言動をしていくが次第に人間らしい感情に目覚めていく。
+    ペルソナの召喚も可能な心を持った人型兵器として、
+    「特別課外活動部」に加入する。
+    当初は機械らしく、実直な言動をしていくが
+    次第に人間らしい感情に目覚めていく。
 872_cv:
   en: "-"
   ko: "-"
@@ -71,11 +73,16 @@ character_shot_description_localkey_smg_down:
     효과 2 : 아군 전체에게 [마하라쿠카쟈 : 시전자 기준 방어력 {description_value_02}%▲] [지속] [해제 불가]
     <word_group=10097>제거 시점</word_group> : 풀 버스트 타임 종료 시</color>
   ja: |-
-    ■バーストスキル使用時、自分が生存している限り
+    ■バーストスキル使用時、
+    自分が生存している限り
     <color=#00AEFF>「パピヨンハート」「持続」「解除不可」：
     機能：味方を強化する
-    効果1：味方全体に「マハタルカジャ：スキル発動者基準で攻撃力{description_value_01}％▲」「持続」「解除不可」
-    効果2：味方全体に「マハラクカジャ：スキル発動者基準で防御力{description_value_02}％▲」「持続」「解除不可」
+    効果1：味方全体に「マハタルカジャ：
+    スキル発動者基準で攻撃力{description_value_01}％▲」
+    「持続」「解除不可」
+    効果2：味方全体に「マハラクカジャ：
+    スキル発動者基準で防御力{description_value_02}％▲」
+    「持続」「解除不可」
     <word_group=10097>解除条件</word_group>：フルバーストタイムが終了した時</color>
 skill_name_1003:
   en: Skill 2
@@ -292,9 +299,10 @@ c872_Lobby_Touch_Love_2:
     벌써 수십 년이나 정비를 해 오셨다더니 과연 대단한 실력이셨….
     …지휘관? 왜 그렇게 놀라고 계신 건가요?
   ja: |-
-    先日、リターさんに整備してもらいながらボルトさんともお話もしました。
+    先日、リターさんに整備してもらいながら
+    ボルトさんともお話をしました。
     もう何十年も整備をされているだけあって流石の腕前で…
-    指揮官？　なぜそんなに驚いていらっしゃるのでしょうか？
+    指揮官？なぜそんなに驚いていらっしゃるのでしょうか？
 c872_Lobby_Touch_Love_3:
   en: My combat capabilities have been significantly enhanced. Thank you for your
     support.
@@ -327,8 +335,8 @@ c872_Outpost_Touch_2:
     안녕하세요. 지금 맥스 씨, 티미 씨와 이야기를 나누고 있습니다.
     지휘관도 괜찮으시다면 함께하시겠습니까?
   ja: |-
-    こんにちは。今、マックスさんとティミさんとお話をしています。
-    指揮官もよろしければご一緒にどうでしょうか？
+    こんにちは。今、マックスさんと ティミさんとお話をしています。
+    指揮官もよろしければ ご一緒にどうでしょうか？
 c872_Outpost_Touch_3:
   en: I was told this place is a military outpost... Why are there individuals dressed
     in maid outfits, swimsuits, and as bunny girls?

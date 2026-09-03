@@ -144,12 +144,12 @@ skill_name_1002:
   ko: 내부 폭발탄
   ja: 徹甲炸裂弾
 10953_description:
-  en: "■ Affects self.\n<color=#00AEFF>Changes the weapon in use:\nCharge time: 0.3
+  en: "■ Affects self.\n<color=#00AEFF>Changes the weapon in use.\nCharge Time: 0.3
     sec\nDamage: {description_value_01}% of <word_group=10025>final</word_group> ATK
-    as true damage\nFull Charge damage: 300% of damage\nMax Ammunition Capacity: {description_value_02}
-    round(s)\nSpecial note: Fires an Exploding Bullet dealing area-of-effect damage.
-    \nAdditional effect:\nTarget: Target(s) hit\nEffect: Explosive Round: Damage Taken
-    ▲ {description_value_03}% for {description_value_04} sec.</color>"
+    as true damage\nFull Charge Damage: 300%\nMax Ammunition Capacity: {description_value_02}\nNote:
+    Fires an Exploding Bullet dealing area-of-effect damage. \nAdditional Effect:\nAffects
+    the targets hit.\nExplosive Round: Damage Taken ▲ {description_value_03}% for
+    {description_value_04} sec.</color>"
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[사용 무기 변경] :

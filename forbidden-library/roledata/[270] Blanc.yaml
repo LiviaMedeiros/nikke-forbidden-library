@@ -61,7 +61,7 @@ character_shot_description_localkey_ar_down:
   ja: ラビットツインズW
 22702_description:
   en: |-
-    ■ Activates after Full Burst ends. Affects all allies.
+    ■ Activates when Full Burst ends. Affects all allies.
     <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_02} sec.</color>
     ■ Activates when Full Burst ends if an ally from the same squad is present. Affects self.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_03} sec.</color>

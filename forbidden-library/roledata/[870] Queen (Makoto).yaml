@@ -17,8 +17,10 @@ c870_description:
   ja: |-
     本名は新島真。
     秀尽学園の生徒会長であり、「心の怪盗団」のブレーン。
-    冷静で責任感が強く、行動力もあるが、生真面目で妥協ができない一面も。
-    ある事件をきっかけにペルソナ能力を覚醒し、「心の怪盗団」の一員となる。
+    冷静で責任感が強く、行動力もあるが、
+    生真面目で妥協ができない一面も。
+    ある事件をきっかけにペルソナ能力を覚醒し、
+    「心の怪盗団」の一員となる。
 870_cv:
   en: "-"
   ko: "-"
@@ -91,13 +93,18 @@ character_shot_description_localkey_sg_down:
     ■バーストスキルを使用した時、自分に
     <color=#00AEFF>「鉄・拳・制・裁！」「持続」「解除不可」：
     機能：自分を強化する
-    効果1：「核熱ハイブースタ：<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」「持続」「解除不可」
+    効果1：「核熱ハイブースタ：
+    <word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」
+    「持続」「解除不可」
     効果2：「ラクカジャ：防御力{description_value_02}％▲」「持続」「解除不可」
     <word_group=10097>解除条件</word_group>：フルバーストタイムが終了した時</color>
     ■バースト3段階突入時、自分に
     <color=#00AEFF>「<word_group=10019>分配ダメージ</word_group>{description_value_03}％▲」「{description_value_04}秒間維持」</color>
-    ■1moreが適用された時、自分を除く<word_group=10082>基本バースト段階が{description_value_05}の</word_group>ペルソナ状態の味方全体に
-    <color=#00AEFF>「バトンタッチ：スキル発動者基準で攻撃力{description_value_06}％▲」「{description_value_07}スタック」「持続」</color>
+    ■1moreが適用された時、自分を除く
+    <word_group=10082>基本バースト段階が{description_value_05}の</word_group>ペルソナ状態の
+    味方全体に
+    <color=#00AEFF>「バトンタッチ：スキル発動者基準で
+    攻撃力{description_value_06}％▲」「{description_value_07}スタック」「持続」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -131,9 +138,12 @@ skill_name_1003:
     ■戦闘開始時、自分に
     <color=#00AEFF>「ペルソナ - ヨハンナ」「持続」「解除不可」：
     機能：ペルソナを使って自分を強化する
-    効果1：「核熱ブースタ：<word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」「持続」「解除不可」
+    効果1：「核熱ブースタ：
+    <word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」
+    「持続」「解除不可」
     効果2：「防御の心得：防御力{description_value_02}％▲」「持続」「解除不可」</color>
-    ■戦闘開始時およびフルバーストタイムが終了した時、自分に
+    ■戦闘開始時およびフルバーストタイムが
+    終了した時、自分に
     <color=#00AEFF>「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
     ■1moreが適用された時、敵全体に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の<word_group=10019>分配ダメージ</word_group>」</color>
@@ -162,7 +172,8 @@ skill_name_1002:
     ■敵全体に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の<word_group=10019>分配ダメージ</word_group>」</color>
     ■対象が風圧コードなら自分に
-    <color=#00AEFF>「1more：攻撃力{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    <color=#00AEFF>「1more：攻撃力{description_value_02}％▲」
+    「{description_value_03}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬
@@ -339,7 +350,8 @@ c870_Lobby_Touch_Love_1:
     저런 차림으로 싸울 수 있다니 멋지네. 다음에 한번 말을 걸어볼까?
   ja: |-
     さっき、拘束衣のようなものを着た人を見かけたのだけど…
-    あの格好で戦えるなんて、格好いいわね。今度話しかけてみようかしら…？
+    あの格好で戦えるなんて、格好いいわね。
+    今度話しかけてみようかしら…？
 c870_Lobby_Touch_Love_2:
   en: I'm gradually getting used to this world with your help. Thank you.
   ko: |-
@@ -381,9 +393,9 @@ c870_Outpost_Touch_1:
     전초기지에는 유, 유령이….
     아, 아니! 미안해, 아무것도 아니야…!
   ja: |-
-    その…ヘルムに教えてもらったのだけど…
+    その… ヘルムに教えてもらったのだけど…
     前哨基地には、ゆ、幽霊が…
-    い、いえ！　ごめんなさい、何でもないわ…！
+    い、いえ！ ごめんなさい、何でもないわ…！
 c870_Outpost_Touch_2:
   en: Hmm... How exactly do I get to the Ark from here...?
   ko: |-

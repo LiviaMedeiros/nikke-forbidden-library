@@ -4362,3 +4362,639 @@ d_ex_court_08:
       プリバティはメイド姿だが、
       専門のメイドではないという事実を
       アルカナに納得させるのに一苦労したのだった
+d_ex_court_09:
+  d_ex_court_09_1:
+    speaker: "<Self>"
+    en: Why'd you ask me to come to the courthouse?
+    ko: 법원엔 왜 오자 한 거야?
+    ja: なぜ急に、裁判所に行きたくなったんだ？
+  d_ex_court_09_2:
+    speaker: drake_p
+    en: A true ultimate villain must stand trial at least once!
+    ko: 자고로 최고의 빌런이라면 법원에서 심판을 받는 위기를 겪어야한다!
+    ja: |-
+      裁判所で審判を受ける危機に瀕してこそ、
+      最高のヴィランと言えるからだ！
+  d_ex_court_09_3:
+    speaker: drake_p
+    en: After all, overcoming a crisis is what makes a villain's story truly dramatic.
+    ko: 위기를 딛고 이겨내는 순간, 더 극적인 법이지.
+    ja: |-
+      危険であればあるほど、打ち勝つ瞬間が
+      より劇的なものになるからな。
+  d_ex_court_09_4:
+    speaker: drake_p
+    en: As a member of the Villain Union, witness the exploits of the ultimate villain!
+    ko: 네놈은 빌런 연합원으로서 최강 빌런의 행보를 지켜봐라!
+    ja: |-
+      貴様はヴィラン連合の一員として、
+      最強のヴィランの行く末を見届けるがいい！
+  d_ex_court_09_5:
+    speaker: "<Narration>"
+    en: "*Slam*"
+    ko: 쾅-
+    ja: バンッ！
+  d_ex_court_09_6:
+    speaker: drake_p
+    en: Judge me, Your Honor!
+    ko: 날 심판해라, 재판장!
+    ja: 私を審判しろ、裁判長！
+  d_ex_court_09_7:
+    speaker: yulha
+    en: "*Sigh...* I'm busy. What do you want?"
+    ko: 하… 바빠 죽겠는데 또 뭐야.
+    ja: はぁ…ただでさえ忙しいのに、今度は何よ。
+  d_ex_court_09_8:
+    speaker: drake_p
+    en: I'm Drake, the ultimate villain of this age!
+    ko: 나는 이 시대 최강의 빌런, 드레이크다!
+    ja: 私は現代において最強のヴィラン、ドレイクだ！
+  d_ex_court_09_9:
+    speaker: yulha
+    en: Wait, you're from Matis, aren't you?
+    ko: 뭐야, 너 메티스잖아?
+    ja: "…は？あなた、メティスの一員でしょ。"
+  d_ex_court_09_10:
+    speaker: yulha
+    en: Heroes, sure. Villains? Not a chance.
+    ko: 메티스가 무슨 빌런이야, 히어로면 모를까.
+    ja: |-
+      メティスがヴィランなわけないじゃない。
+      ヒーローならまだしも…
+  d_ex_court_09_11:
+    speaker: drake_p
+    en: Wrong! I'm a villain!
+    ko: 그렇지 않다! 난 빌런이다.
+    ja: 違う！私はヴィランだ！
+  d_ex_court_09_12:
+    speaker: drake_p
+    en: I've committed countless evil deeds under the name of Matis.
+    ko: 메티스라는 이름 뒤에서 그동안 많고 많은 악행을 저질러왔다.
+    ja: |-
+      メティスという名を語りながら、
+      その裏で数々の悪事を働いてきた。
+  d_ex_court_09_13:
+    speaker: drake_p
+    en: Now, bring the ultimate villain to justice in the name of righteousness!
+    ko: 어서 최강 빌런을 정의의 이름으로 심판해라!
+    ja: |-
+      さあ、最強のヴィランを
+      正義の名のもとに審判するがいい！
+  d_ex_court_09_14:
+    speaker: yulha
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_09_15:
+    speaker: yulha
+    en: Not guilty. Now get out.
+    ko: 무죄. 나가.
+    ja: 無罪。さっさと出ていって。
+  d_ex_court_09_16:
+    speaker: drake_p
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_court_09_17:
+    speaker: drake_p
+    en: Heh... I figured you'd say that! That's why I came prepared!
+    ko: 후후… 그럴 줄 알고 준비했지!
+    ja: |-
+      フフ…こうなることを見越して、
+      ちゃんと準備してきたぞ！
+  d_ex_court_09_18:
+    speaker: drake_p
+    en: You'll change your tune once you see this.
+    ko: 이걸 보면 생각이 달라질거다.
+    ja: これを読めば、考えが変わるはずだ。
+  d_ex_court_09_19:
+    speaker: "<Narration>"
+    en: "*Rustle*"
+    ko: 촤라락-
+    ja: パラパラッ
+  d_ex_court_09_20:
+    speaker: "<Monologue>"
+    en: When did she prepare all that?
+    ko: 저런 건 또 언제 준비한거야….
+    ja: あの量の紙束、いつの間に用意したんだ…？
+  d_ex_court_09_21:
+    speaker: yulha
+    en: "*Sigh...* Bring it here."
+    ko: 하아… 가지고 와봐.
+    ja: はぁ…持ってきて。
+  d_ex_court_09_22:
+    speaker: "<Narration>"
+    en: As if it's the most natural thing in the world, Drake hands me a stack of
+      papers.
+    ko: 당연하다는 듯, 드레이크는 내게 종이 뭉치를 건넸다.
+    ja: |-
+      ドレイクは当然と言わんばかりに、
+      私に紙の束を渡した
+  d_ex_court_09_23:
+    speaker: "<Self>"
+    en: Why are you giving this to me...?
+    ko: 이걸 왜 나한테….
+    ja: なぜ私に…
+  d_ex_court_09_24:
+    speaker: drake_p
+    en: You give it to her, Moron.
+    ko: 네놈이 가져다줘라.
+    ja: 貴様が渡しに行け。
+  d_ex_court_09_25:
+    speaker: drake_p
+    en: "... I'm too scared to do it myself."
+    ko: "…직접 가져다주기 무섭다."
+    ja: "…自分で渡す勇気がない。"
+  d_ex_court_09_26:
+    speaker: "<Monologue>"
+    en: I hand Yulha the stack of papers,
+    ko: 나는 종이 뭉치를 율하에게 가져다줬다.
+    ja: 私は紙の束をユルハに渡した
+  d_ex_court_09_27:
+    speaker: "<Monologue>"
+    en: along with a note I always keep on hand for situations like this.
+    ko: "…이런 일이 있을 때를 대비하여 늘 가지고 다니는 쪽지 하나와 함께."
+    ja: |-
+      …このような事態に備えて、
+      いつも持ち歩いているメモと一緒に
+  d_ex_court_09_28:
+    speaker: "<Self>"
+    en: Here...
+    ko: "…여기."
+    ja: "…はい"
+  d_ex_court_09_29:
+    speaker: yulha
+    en: What's this? Why'd you throw this piece of trash in too?
+    ko: 뭐야, 웬 쓰레기도 같이 주는 거지.
+    ja: 何よ、ゴミまで一緒によこすなんて。
+  d_ex_court_09_30:
+    speaker: "<Narration>"
+    en: With a flick, she tosses the note aside.
+    ko: 휙.
+    ja: パッ
+  d_ex_court_09_31:
+    speaker: "<Monologue>"
+    en: No...! That was the only way to stop all this!
+    ko: 안돼…! 이 모든 사태를 막을 수 있는 유일한 수단이!
+    ja: |-
+      しまった…！
+      この事態を食い止められる唯一の手段が！
+  d_ex_court_09_32:
+    speaker: "<Narration>"
+    en: Yulha quickly reads through the stack of papers.
+    ko: 종이 뭉치를 받아 든 율하가 빠르게 읽었다.
+    ja: |-
+      紙の束を受け取ったユルハは、
+      すばやく読み上げた
+  d_ex_court_09_33:
+    speaker: yulha
+    en: Giving candy to children and rotting their teeth, 52 counts. Picking up every
+      piece of trash and putting street cleaners out of a job, 36 counts.
+    ko: |-
+      어린 아이한테 사탕 줘서 이빨 썩게 하기 52회,
+      쓰레기를 모두 주워 환경 미화원 일자리 뺏기 36회
+    ja: |-
+      子どもにキャンディをあげて
+      虫歯にさせたこと52回、
+      ゴミ拾いをして清掃員の仕事を奪ったこと36回
+  d_ex_court_09_34:
+    speaker: yulha
+    en: Obstructing traffic with impromptu fan meet-and-greets, 17 counts. Shouting
+      in residential neighborhoods and causing noise pollution, 24 counts.
+    ko: |-
+      돌발 팬사인회로 통행 방해하기 17회,
+      주택가에서 소리 질러서 소음 공해 유발하기 24회.
+    ja: |-
+      ゲリラサイン会を開いて
+      通行の邪魔をしたこと17回、
+      住宅街で大声を出して迷惑をかけたこと24回…
+  d_ex_court_09_35:
+    speaker: drake_p
+    en: Yeah, they're absolutely heinous crimes.
+    ko: 그래, 아주 무시무시한 악행이었지….
+    ja: ああ、どれも恐ろしい悪事だったな…
+  d_ex_court_09_36:
+    speaker: yulha
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_09_37:
+    speaker: yulha
+    en: "*Sigh...* Are you kidding me? I'm already swamped as it is."
+    ko: 하아… 장난해? 안 그래도 바빠죽겠는데.
+    ja: |-
+      はぁ…ふざけるのもいい加減にして。
+      こっちは忙しいの。
+  d_ex_court_09_38:
+    speaker: drake_p
+    en: Villains don't fool around!
+    ko: 빌런은 장난치지 않는다!
+    ja: ヴィランは悪ふざけなどしない！
+  d_ex_court_09_39:
+    speaker: yulha
+    en: Wasn't this all over the news?
+    ko: 이거 뉴스에도 나왔지 않나?
+    ja: これ、確かニュースにもなってたわよね。
+  d_ex_court_09_40:
+    speaker: yulha
+    en: You're popular because you're good with kids. You picked up all the trash,
+      so the Ark got cleaner.
+    ko: 어린 아이들한테 잘해준다고 인기 많고, 쓰레기를 다 주웠대서 방주가 깨끗해지고,
+    ja: |-
+      子どもたちに優しいって人気者だし、
+      ゴミを拾ったことでアークはきれいになったし。
+  d_ex_court_09_41:
+    speaker: yulha
+    en: You held fan meet-and-greets in quiet neighborhoods and brought business back
+      to the area.
+    ko: 한적한 동네에서 팬사인회해서 상권 살리고,
+    ja: |-
+      閑静なエリアでサイン会を開いて
+      商店街の活性化に役立っただけでなく、
+  d_ex_court_09_42:
+    speaker: yulha
+    en: You let everyone know you were in the area, so the crime rates dropped.
+    ko: 주택가에서 너 왔다고 동네방네 자랑해서 범죄율 줄었잖아.
+    ja: |-
+      住宅街にあなたが来たって触れ回ったおかげで、
+      犯罪率の低下にも繋がったらしいわね。
+  d_ex_court_09_43:
+    speaker: yulha
+    en: How's any of that villainous? Anyone can see those are good deeds.
+    ko: 이게 무슨 악행이야, 누가 봐도 선행이지.
+    ja: |-
+      これのどこが悪事よ。
+      どう見てもれっきとした善行じゃない。
+  d_ex_court_09_44:
+    speaker: yulha
+    en: Newbie, get her out of here.
+    ko: 신입. 쟤 데리고 나가.
+    ja: 新人。こいつを連れて出て行って。
+  d_ex_court_09_45:
+    speaker: "<Monologue>"
+    en: This is bad.
+    ko: 안된다.
+    ja: まずい
+  d_ex_court_09_46:
+    speaker: "<Monologue>"
+    en: If Drake and I leave now, she'll throw a fit over being looked down on as
+      a villain,
+    ko: 여기서 드레이크와 함께 나갔다간, 빌런을 무시한다며 온갖 투정과 짜증,
+    ja: |-
+      今ここでドレイクとともに出て行けば、
+      「ヴィランを無視するのか」と
+      あらゆる不平不満をぶつけられ…
+  d_ex_court_09_47:
+    speaker: "<Monologue>"
+    en: and I might end up spending hours listening to her ramble about all her great
+      villainous exploits.
+    ko: 본인의 위대한 빌런 업적에 대한 이야기를 정말 하루종일 들어야 할 수도 있다.
+    ja: |-
+      偉大なヴィランとしての功績トークを
+      延々と聞かされるはめになるだろう
+  d_ex_court_09_48:
+    speaker: "<Narration>"
+    en: "*Slam!*"
+    ko: 쾅!!
+    ja: バンッ！！
+  d_ex_court_09_49:
+    speaker: "<Self>"
+    en: Your Honor, please reconsider!
+    ko: 재판장님! 다시 한 번 생각해봐주십시오!
+    ja: 裁判長！もう一度考え直してください！
+  d_ex_court_09_50:
+    speaker: yulha
+    en: Gah! That scared me.
+    ko: 아잇…! 깜짝이야.
+    ja: うわっ…！びっくりしたじゃない。
+  d_ex_court_09_51:
+    speaker: "<Self>"
+    en: Drake is a notorious villain who commits evil deeds every single day.
+    ko: 드레이크는 악행을 끊임없이, 그것도 매일매일 일삼는 지독한 빌런입니다.
+    ja: |-
+      ドレイクは悪事を次から次へと、
+      それこそ毎日のように働く
+      とんでもないヴィランです。
+  d_ex_court_09_52:
+    speaker: "<Self>"
+    en: I hereby press charges against her and ask that she stand trial!
+    ko: 정식으로 공소를 제기하니, 재판해주시길 바랍니다!
+    ja: |-
+      今ここで正式に訴えますので、
+      裁判をお願いします！
+  d_ex_court_09_53:
+    speaker: yulha
+    en: "*Sigh...*"
+    ko: 하….
+    ja: はぁ…
+  d_ex_court_09_54:
+    speaker: yulha
+    en: Fine, let's hear just how "great" of a villain she is.
+    ko: 그래, 얼마나 대단한 빌런인지 들어나 보자.
+    ja: |-
+      分かったわ。
+      どれほどすごいヴィランなのか、
+      聞いてみようじゃないの。
+  d_ex_court_09_55:
+    speaker: yulha
+    en: Go on and tell me everything.
+    ko: 자세히 말해봐라.
+    ja: 詳しく説明してちょうだい。
+  d_ex_court_09_56:
+    speaker: "<Self>"
+    en: W-well...!
+    ko: 그… 그것은!
+    ja: そ、それは…
+  d_ex_court_09_57:
+    speaker: "<Self>"
+    en: It's on the paper you dropped, Your Honor!
+    ko: 마침 존경하는 재판장님께서 떨어트린 종이에 있는데요!
+    ja: |-
+      偉大なる裁判長が先ほど落とされた紙に
+      書いてあると言いますか…
+  d_ex_court_09_58:
+    speaker: "<Self>"
+    en: If you read it, you'll see just how terrible a villain Drake really is!
+    ko: 그걸 보시면 드레이크가 얼마나 죄질이 나쁜 빌런인지 알 수 있을 겁니다!
+    ja: |-
+      それをご覧になれば、
+      ドレイクがいかに凶悪なヴィランであるか
+      お分かりいただけるはずです！
+  d_ex_court_09_59:
+    speaker: drake_p
+    en: Moron! When did you put all this together behind my back?
+    ko: 네놈! 나 몰래 어느새 그런 것까지 준비한 거지?
+    ja: |-
+      貴様！私に隠れていつの間に
+      そんなものを準備していたんだ！？
+  d_ex_court_09_60:
+    speaker: drake_p
+    en: You've been secretly writing it all down while listening to my exploits every
+      single day!
+    ko: 매일같이 내 이야기를 들으면서 몰래 적어뒀군!
+    ja: |-
+      …！まさか、毎日私の話を聞きながら
+      こっそりメモしていたのか！？
+  d_ex_court_09_61:
+    speaker: drake_p
+    en: Were you trying to catch up to the ultimate villain?
+    ko: 최강의 빌런을 따라잡고 싶었나?
+    ja: |-
+      最強のヴィランたる私に追いつきたかった…
+      そういうことだな？
+  d_ex_court_09_62:
+    speaker: drake_p
+    en: Hehehe, I knew you had the makings of a true villain!
+    ko: 후후후, 역시 빌런계의 우수한 인재다.
+    ja: フフフ、やはりヴィラン界の優秀な人材だ。
+  d_ex_court_09_63:
+    speaker: yulha
+    en: Ugh, what a pain.
+    ko: 에휴, 귀찮아.
+    ja: はぁ、めんどくさい。
+  d_ex_court_09_64:
+    speaker: "<Narration>"
+    en: Yulha bends down and picks up the note.
+    ko: 율하가 몸을 숙여 쪽지를 집어들었다.
+    ja: ユルハは身をかがめてメモを拾った
+  d_ex_court_09_65:
+    speaker: "<Self>"
+    en: Please read it carefully.
+    ko: 쪽지를 찬찬히 읽어봐주시길 바랍니다.
+    ja: メモをよくお読みください。
+  d_ex_court_09_66:
+    speaker: yulha
+    en: Hmph, fine.
+    ko: 흐음, 알았다.
+    ja: はいはい、分かったわ。
+  d_ex_court_09_67:
+    speaker: yulha
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_09_68:
+    speaker: yulha
+    en: If you don't play along with Drake, this is never going to end...?
+    ko: |-
+      드레이크에게 장단을 맞추지 않으면,
+      이 상황은 영영 끝나지 않을 것이다…?
+    ja: |-
+      「ドレイクに合わせないと、
+      この状況は永遠に終わらない」…？
+  d_ex_court_09_69:
+    speaker: "<Self>"
+    en: D-don't read it out loud!
+    ko: 그, 그걸 소리내서 읽으면…!
+    ja: こ、声に出して読んだら…！
+  d_ex_court_09_70:
+    speaker: yulha
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_09_71:
+    speaker: drake_p
+    en: Hang on, what do you mean by that?
+    ko: 잠깐, 그게 무슨 말이지?
+    ja: 待て。どういう意味だ？
+  d_ex_court_09_72:
+    speaker: drake_p
+    en: That has nothing to do with my evil deeds!
+    ko: 내가 한 악행과 저건 관련 없지 않나!
+    ja: 私がした悪事と、それは関係ないだろう！？
+  d_ex_court_09_73:
+    speaker: yulha
+    en: Hold on...
+    ko: 잠깐….
+    ja: ちょっと…
+  d_ex_court_09_74:
+    speaker: drake_p
+    en: Wait a second...
+    ko: 설마…
+    ja: まさか…
+  d_ex_court_09_75:
+    speaker: drake_p
+    en: Moron! Do you seriously think all I do is whine, complain, and play up my
+      villain act all day?!
+    ko: 네놈, 내가 매일 징징대고 투덜대고 컨셉에 심취해있다고 생각했던거냐!
+    ja: |-
+      貴様！私のことを毎日ブツブツ
+      文句ばかり言って、コンセプトに
+      酔いしれているだけの奴だと思っていたのか！？
+  d_ex_court_09_76:
+    speaker: drake_p
+    en: We were supposed to make a name for ourselves as members of the Villain Union,
+      but...
+    ko: 최강 빌런 연합원으로 함께 이름을 날리기로 했건만,
+    ja: |-
+      最強のヴィラン連合の一員として
+      名を馳せるはずだと思っていたのに…
+  d_ex_court_09_77:
+    speaker: "<Self>"
+    en: Hang on... I never...
+    ko: 아니… 내가 언제….
+    ja: いや…私はそんなこと一言も…
+  d_ex_court_09_78:
+    speaker: yulha
+    en: Be quiet, would you?
+    ko: 잠깐 조용히 좀….
+    ja: ちょっと、静かにして…
+  d_ex_court_09_79:
+    speaker: drake_p
+    en: You fool! Have you still not realized the power of the ultimate villain?!
+    ko: 최강 빌런의 힘을 깨닫지 못한 이 우둔한 놈 같으니라고!
+    ja: |-
+      クッ…最強のヴィランの力を
+      理解できない愚か者め！
+  d_ex_court_09_80:
+    speaker: drake_p
+    en: Is this the end of the Villain Union?!
+    ko: 이렇게 빌런 연합이 무너지는건가!
+    ja: |-
+      このまま、ヴィラン連合は
+      崩れてしまうのか…！？
+  d_ex_court_09_81:
+    speaker: "<Self>"
+    en: N-no, that's not what I meant, Drake...
+    ko: 아, 아니 그게 아니라 드레이크….
+    ja: 待て、いったん落ち着いてくれ…
+  d_ex_court_09_82:
+    speaker: yulha
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_09_83:
+    speaker: drake_p
+    en: What did you take me for all this time?!
+    ko: 그동안 네놈은 날 뭐라고 생각했던 것이냐!
+    ja: |-
+      貴様は、今まで私のことを
+      何だと思っていたのだ！？
+  d_ex_court_09_84:
+    speaker: yulha
+    en: Ugggh...!
+    ko: 으으으…!
+    ja: ああもう…！
+  d_ex_court_09_85:
+    speaker: "<Narration>"
+    en: Yulha slams the gavel down three times.
+    ko: 땅땅땅!
+    ja: ユルハは木槌をガンガンガンと叩きつけた
+  d_ex_court_09_86:
+    speaker: yulha
+    en: Both of you, shut it!
+    ko: 둘 다 시끄러워!
+    ja: 2人ともうるさい！
+  d_ex_court_09_87:
+    speaker: yulha
+    en: You caused a disturbance in court, so you're cleaning the courthouse before
+      you leave!
+    ko: 법정에서 소란을 일으켰으니, 법원 청소하고 가!
+    ja: |-
+      法廷で騒ぎを起こした罰として、
+      裁判所を掃除してから帰るように！
+  d_ex_court_09_88:
+    speaker: yulha
+    en: Court adjourned!
+    ko: 이만, 폐정!
+    ja: これにて、閉廷！
+  d_ex_court_09_89:
+    speaker: drake_p
+    en: "!!"
+    ko: "!!"
+    ja: "！！"
+  d_ex_court_09_90:
+    speaker: drake_p
+    en: So the ultimate villain's plans have been foiled yet again!
+    ko: 이렇게 또 최강 빌런의 앞길이 막히는건가!!!
+    ja: |-
+      こうしてまた、最強のヴィランとなる道が
+      はばまれるのか…！！
+  d_ex_court_09_91:
+    speaker: drake_p
+    en: The world really is unforgiving to villains.
+    ko: 역시 세상은 빌런에게 엄격한 법이군.
+    ja: やはり世間は、ヴィランに厳しいものだな…
+  d_ex_court_09_92:
+    speaker: drake_p
+    en: But a true villain accepts defeat with dignity.
+    ko: 하지만 깔끔히 결과에 승복하는 게 빌런의 미덕.
+    ja: |-
+      だが、潔く結果に従うのが
+      ヴィランの美徳というものだ。
+  d_ex_court_09_93:
+    speaker: drake_p
+    en: Hahaha! Now, where are the cleaning supplies?
+    ko: 하하하, 청소 도구는 어디 있지?
+    ja: ハハハ、掃除道具はどこだ！？
+  d_ex_court_09_94:
+    speaker: "<Monologue>"
+    en: Drake excitedly runs off to find the cleaning supplies, leaving me relieved
+      as I walk over to Yulha.
+    ko: 드레이크는 신나게 청소 도구를 찾으러 갔고, 안심한 나는 율하에게 다가갔다.
+    ja: |-
+      楽しそうに掃除道具を探しに行ったドレイクを
+      見送って安堵した私は、ユルハに近づいた
+  d_ex_court_09_95:
+    speaker: "<Self>"
+    en: Thanks, Yulha. I just didn't think it would end unless we played along.
+    ko: 고마워, 율하. 받아줘야 끝날 것 같아서.
+    ja: |-
+      ユルハ、助かった。
+      合わせてやらないと終わらないと思ったんだ
+  d_ex_court_09_96:
+    speaker: yulha
+    en: Forget it. You've got it rough too, Newbie.
+    ko: 됐어, 신입도 고생이 많군.
+    ja: |-
+      別にいいわ。
+      新人、あなたも大変だったわね。
+  d_ex_court_09_97:
+    speaker: "<Self>"
+    en: Nah, I should get going. See you around.
+    ko: 아냐. 먼저 가볼게.
+    ja: |-
+      そうでもないさ。
+      では、お先に失礼する
+  d_ex_court_09_98:
+    speaker: yulha
+    en: Where do you think you're going?
+    ko: 어딜 가려는 거지?
+    ja: どこへ行くつもり？
+  d_ex_court_09_99:
+    speaker: yulha
+    en: You can't leave until you finish cleaning.
+    ko: 청소는 마저 하고 가라.
+    ja: 掃除をちゃんと終わらせてからにして。
+  d_ex_court_09_100:
+    speaker: "<Self>"
+    en: Me too? I thought you were just going along with it.
+    ko: 나도? 그냥 분위기 맞춰주던 거 아니었어?
+    ja: |-
+      私も？その場の雰囲気で
+      言ったんじゃなかったのか？
+  d_ex_court_09_101:
+    speaker: yulha
+    en: "?"
+    ko: "?"
+    ja: "…？"
+  d_ex_court_09_102:
+    speaker: yulha
+    en: You caused just as much of a disturbance in the courtroom, so you're cleaning
+      too.
+    ko: 법정에서 소란을 일으킨 건 신입도 마찬가지니, 청소해야지.
+    ja: |-
+      法廷で騒ぎを起こしたのはあなたも同じでしょ。
+      だから、掃除はしてもらうわ。
+  d_ex_court_09_103:
+    speaker: "<Self>"
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_court_09_104:
+    speaker: "<Narration>"
+    en: Drake and I clean the courthouse together, and once we're done, we're finally
+      allowed to go home.
+    ko: 나와 드레이크는 사이좋게 법원을 깨끗하게 청소한 뒤 집에 갈 수 있었다.
+    ja: |-
+      私とドレイクは仲良く裁判所を掃除したあと、
+      ようやく家に帰ることができたのだった

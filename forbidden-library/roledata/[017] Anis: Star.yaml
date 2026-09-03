@@ -162,7 +162,7 @@ skill_name_1002:
     Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
     Attack Interval: 0.25 sec
     Duration: {description_value_02} sec
-    Additional Effects
+    Additional Effects:
     Charge time is fixed at {description_value_10} sec for {description_value_02} sec.
     Explosion Radius ▲ {description_value_03}% for {description_value_02} sec.
     DEF ▲ {description_value_05}% for {description_value_02} sec.</color>
@@ -662,7 +662,7 @@ c017_01_Lobby_Stay_Love_1:
     星はいつでも同じ場所で輝いてるから、
     いつでも戻ってきて。分かった？
 c017_01_Outpost_Touch_1:
-  en: Why do we need streetlights? I’m right here... Okay, that sounded better in
+  en: Why do we need streetlights? I'm right here... Okay, that sounded better in
     my head.
   ko: |-
     가로등이 왜 필요해? 내가 있는데.

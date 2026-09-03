@@ -101,7 +101,7 @@ skill_name_1003:
   ja: ネイチャーズグレイス
 24121_description:
   en: |-
-    ■ Activates after Full Burst ends. Affects all allies.
+    ■ Activates when Full Burst ends. Affects all allies.
     <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP every second for {description_value_02} sec.</color>
     ■ Activates when performing a Full Charge attack if the HP of the {description_value_04} ally unit(s) with the lowest HP percentage is at {description_value_03}% or less. Affects the target(s).
     <color=#00AEFF>Restores HP equal to {description_value_05}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
