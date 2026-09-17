@@ -63,9 +63,9 @@ character_shot_description_localkey_sr_up:
   ja: 効率アップ
 25012_description:
   en: |-
-    ■ Activates when attacking with Full Charge for {description_value_01} time(s). Affects self.
+    ■ Activates after performing {description_value_01} Full Charge attacks. Affects self.
     <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
-    ■ Activates when hitting the target with Full Charge for {description_value_04} time(s). Affects the target.
+    ■ Activates after landing {description_value_04} Full Charge attacks. Affects the target.
     <color=#00AEFF>DEF ▼ {description_value_05}% for {description_value_06} sec.</color>
   ko: |-
     ■ 풀 차지 공격 {description_value_01}회 공격 시 자신에게
@@ -87,11 +87,11 @@ skill_name_1003:
   ja: T.Ronyボンバー
 25011_description_1:
   en: |-
-    ■ Activates when hitting a target with Full Charge. Affects 1 enemy unit nearest to the crosshair if there are no enemies in T.Rony Bomber status.
-    <color=#00AEFF><word_group=10049>Cumulative Damage Skill</word_group> active for {description_value_01} sec.
-    Function: Accumulates a fraction of the skill user's inflicted damage. Upon reaching the maximum accumulated damage, deals damage to enemies before ending.
-    Effect 1: Maximum Accumulated Damage is {description_value_03}% of the skill user's <word_group=10025>final</word_group> ATK.
-    Effect 2: Accumulates {description_value_02}% of the skill user's ATK damage.
+    ■ Activates when landing a Full Charge attack while there are no enemies in the T.Rony Bomber state. Affects the enemy nearest to the crosshair.
+    <color=#00AEFF>Activates <word_group=10049>Cumulative Damage Skill</word_group> for {description_value_01} sec.
+    Function: Accumulates a portion of the skill user's inflicted damage. Once the maximum amount is accumulated, damage will be dealt to enemies and the effect will be removed.
+    Effect 1: Sets the max amount of accumulated damage to {description_value_03}% of the skill user's <word_group=10025>final</word_group> ATK.
+    Effect 2: Accumulates {description_value_02}% of the skill user's attack damage.
     Effect 3: Deals <word_group=10019>distributed damage</word_group> to <word_group=10020>enemies within the attack range</word_group> when <word_group=10049>Cumulative Damage Skill</word_group> explodes.</color>
   ko: |-
     ■ 풀 차지 공격 명중 시 T.Rony 봄버 상태의 적이 없다면 조준선에 가장 가까운 적 1기에게
@@ -117,8 +117,8 @@ skill_name_1002:
   ja: メガT.Rony
 15013_description:
   en: "■ Affects self. \n<color=#00AEFF>ATK ▲ {description_value_01}% for {description_value_02}
-    sec.</color>\n<color=#00AEFF>Accumulated damage ratio of the <word_group=10049>Cumulative
-    Damage Skill</word_group> ▲ {description_value_03}% for {description_value_04}
+    sec.</color>\n<color=#00AEFF><word_group=10049>Cumulative Damage Skill</word_group>
+    damage accumulation ratio ▲ {description_value_03}% for {description_value_04}
     sec.</color>"
   ko: |-
     ■ 자신에게
@@ -530,7 +530,7 @@ c501_Damage_1:
   ko: 흐익!
   ja: ひゃあっ！
 c501_Damage_2:
-  en: Ugh…
+  en: Ugh...
   ko: 으으….
   ja: うう…
 c501_Damage_3:

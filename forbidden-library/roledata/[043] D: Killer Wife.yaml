@@ -60,10 +60,10 @@ character_shot_description_localkey_sr_up:
   ja: アサルト・フォーメーション
 20432_description:
   en: |-
-    ■ Activates when attacking with Full Charge for {description_value_01} time(s). Affects all allies.
+    ■ Activates after performing {description_value_01} Full Charge attacks. Affects all allies.
     <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_02} sec.</color>
-    ■ Activates when attacking with Full Charge for {description_value_03} time(s). Affects all allies.
-    <color=#00AEFF>Attack damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates after performing {description_value_03} Full Charge attacks. Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
     ■ 풀 차지 {description_value_01}회 공격 시 아군 전체에게
     <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_02}초 ▼]</color>
@@ -84,7 +84,7 @@ skill_name_1003:
   ja: カーム・スナイピング
 20431_description:
   en: |-
-    ■ Activates when performing {description_value_01} Full Charge attack(s). Affects self.
+    ■ Activates after performing {description_value_01} Full Charge attacks. Affects self.
     <color=#00AEFF>Gains Pierce for 1 shot.</color>
     ■ Activates when entering Full Burst. Affects all allies with sniper rifles.
     <color=#00AEFF><word_group=10042>Pierce Damage</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>

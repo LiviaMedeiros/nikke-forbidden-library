@@ -77,10 +77,10 @@ skill_name_1003:
   ja: バーニングショット
 22611_description:
   en: |-
-    ■ Activates when attacking with Full Charge. Affects self.
+    ■ Activates when performing a Full Charge attack. Affects self.
     <color=#00AEFF>Gain Pierce for {description_value_01} round(s).
     Piercing Radius ▲ 50% for {description_value_02} round(s).</color>
-    ■ Activates when hits {description_value_03} or more enemies concurrently. Affects all enemies hit.
+    ■ Activates if {description_value_03} or more enemies were hit at once. Affects all enemies hit.
     <color=#00AEFF>Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
   ko: |-
     ■ 풀 차지 공격 시 자신에게

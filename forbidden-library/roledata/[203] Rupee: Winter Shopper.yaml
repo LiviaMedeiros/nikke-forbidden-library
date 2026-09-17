@@ -63,11 +63,8 @@ character_shot_description_localkey_ar_down:
     <color=#00AEFF>[쇼핑 : 방어력 {description_value_01}% ▲] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>
     ■ 풀 버스트 타임 종료 시 자신이 쇼핑 최대 중첩 상태라면 아군 전체에게
     <color=#00AEFF>[<word_group=10014>버스트 게이지 충전 속도</word_group> {description_value_04}% ▲] [{description_value_05}초 유지]</color>
-  ja: |-
-    ■味方がバーストスキルを使用した時、味方全体に
-    <color=#00AEFF>「ショッピング：防御力{description_value_01}％▲」「{description_value_02}スタック」「{description_value_03}秒間維持」</color>
-    ■フルバーストタイムが終了した時、自分がショッピングのフルスタック状態なら、味方全体に
-    <color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group> {description_value_04}％▲」「{description_value_05}秒間維持」</color>
+  ja: "■味方がバーストスキルを使用した時、\n味方全体に\n<color=#00AEFF>「ショッピング：防御力{description_value_01}％▲」\n「{description_value_02}スタック」「{description_value_03}秒間維持」</color>\n■フルバーストタイムが終了した時、自分が\nショッピングのフルスタック状態なら、\n味方全体に\n<color=#00AEFF>「<word_group=10014>バーストゲージのチャージ速度</word_group>
+    \n{description_value_04}％▲」「{description_value_05}秒間維持」</color>"
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -111,7 +108,8 @@ skill_name_1002:
   ja: |-
     ■自分に
     <color=#00AEFF>「ヘイト：敵全体を挑発」「{description_value_01}秒間維持」
-    「攻撃ダメージの{description_value_02}％回復」「{description_value_03}秒間維持」</color>
+    「攻撃ダメージの{description_value_02}％回復」
+    「{description_value_03}秒間維持」</color>
     ■味方全体に
     <color=#00AEFF>「リロード速度{description_value_04}％▲」「{description_value_05}秒間維持」
     「<word_group=10002>バースト再突入</word_group>1段階」</color>

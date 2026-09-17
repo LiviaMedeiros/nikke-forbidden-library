@@ -68,7 +68,7 @@ character_shot_description_localkey_rl_up:
     ■ Activates after performing {description_value_02} normal, non-Full-Charge attacks. Affects all allies not in Reliable Cooking status.
     <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_03}% of the skill user's DEF for {description_value_04} sec.
     <word_group=10005>Removes 1 debuff</word_group>.</color>
-    ■ Activates after maintaining {description_value_06} Full Charge for {description_value_05} or more sec. Affects all allies not in Reliable Cooking status.
+    ■ Activates after Full Charge is maintained for {description_value_05} or more seconds {description_value_06} time(s). Affects all allies not in Reliable Cooking status.
     <color=#00AEFF>Reliable Cooking: DEF ▲ {description_value_07}% of the skill user's DEF for {description_value_08} sec.
     <word_group=10005>Removes 1 debuff</word_group>.</color>
     ■ Activates when entering Full Burst. Affects all targets in Maillard or Blanching status.
@@ -114,7 +114,7 @@ skill_name_1003:
     ■ Activates after perfoming {description_value_04} normal attacks not at Full Charge. Affects all allies.
     <color=#00AEFF>Maillard: ATK ▲ {description_value_05}% of the skill user's ATK for {description_value_06} sec.
     Removes Blanching.</color>
-    ■ Activates after maintaining {description_value_08} Full Charge for more than {description_value_07} sec. Affects all allies.
+    ■ Activates after Full Charge is maintained for {description_value_07} or more seconds {description_value_08} time(s). Affects all allies.
     <color=#00AEFF>Blanching: ATK ▲ {description_value_09}% of the skill user's ATK for {description_value_10} sec.
     Removes Maillard.</color>
   ko: |-
@@ -156,9 +156,9 @@ skill_name_1002:
   en: |-
     ■ Affects all allies.
     <color=#00AEFF>Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
-    ■ Affects all allies when in Maillard status.
+    ■ Affects all allies when in the Maillard state.
     <color=#00AEFF><word_group=10019>Distributed Damage</word_group> ▲ {description_value_03}% for {description_value_04} sec.</color>
-    ■ Affects all allies when in Blanching status.
+    ■ Affects all allies when in the Blanching state.
     <color=#00AEFF>Sustained Damage ▲ {description_value_05}% for {description_value_06} sec.</color>
   ko: |-
     ■ 아군 전체에게

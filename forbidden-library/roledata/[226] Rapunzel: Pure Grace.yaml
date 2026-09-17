@@ -65,7 +65,7 @@ character_shot_description_localkey_sr_up:
   en: |-
     ■ Activates when performing a Full Charge attack. Affects self.
     <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
-    ■ Activates when Full Charge is maintained for more than {description_value_02} sec while <word_group=10032>a shield is placed</word_group> in front of this unit. Affects self.
+    ■ Activates when Full Charge is maintained for {description_value_02} or more seconds while <word_group=10032>a shield is placed</word_group> in front of this unit. Affects self.
     <color=#00AEFF>Current HP ▼ {description_value_03}% every second continuously.
     <word_group=10048>Restores shield HP</word_group> equal to {description_value_04}% of the skill user's <word_group=10025>final</word_group> max HP every second. This effect is continuous.</color>
   ko: |-
@@ -95,7 +95,7 @@ skill_name_1003:
     <color=#00AEFF>Creates a shared <word_group=10023>shield</word_group> with HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP. This effect is continuous.</color>
     ■ Activates when using Burst Skill. Affects self.
     <color=#00AEFF>Creates a shared <word_group=10023>shield</word_group> with HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP. This effect is continuous.</color>
-    ■ Activates when Full Charge is maintained for more than {description_value_03} sec if <word_group=10032>a shield is placed</word_group> in front of this unit. Affects all allies.
+    ■ Activates when Full Charge is maintained for {description_value_03} or more seconds while <word_group=10032>a shield is placed</word_group> in front of this unit. Affects all allies.
     <color=#00AEFF>Attack Damage ▲ {description_value_04}% continuously.</color>
   ko: |-
     ■ 전투 시작 시 자신에게

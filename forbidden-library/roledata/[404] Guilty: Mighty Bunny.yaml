@@ -1,0 +1,577 @@
+---
+404_name:
+  en: 'Guilty: Mighty Bunny'
+  ko: '길티 : 마이티 바니'
+  ja: ギルティ：マイティバニー
+c404_description:
+  en: Guilty in a high-tech exoskeleton bunny girl suit. She has become even stronger
+    thanks to the suit's boost to her already overwhelming physical strength. However,
+    she still gets entirely docile in front of the one person who helped her get rehabilitated.
+  ko: "하이테크 외골격 바니걸 슈트를 입고 등장한 길티.\n슈트의 보조로 원래도 압도적이던 근력이 더욱 강해졌지만, \n자신을 갱생시켜 준 단
+    한 명의 앞에서만은 한없이 얌전해진다."
+  ja: |-
+    ハイテク外骨格バニーガールスーツを着たギルティ。
+    もともと圧倒的だった筋力がスーツの効果で
+    さらに強化された。しかし、自分を更生させてくれた
+    ただ一人の前でだけはすっかり大人しくなる。
+404_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_404:
+  en: 'Guilty: Mighty Bunny''s Spare Body'
+  ko: '길티 : 마이티 바니 스페어 바디'
+  ja: ギルティ：マイティバニーのスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_sr_up:
+  en: Sniper Rifle
+  ko: 저격소총
+  ja: スナイパーライフル
+character_shot_description_localkey_sr_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+24042_name:
+  en: Can I Take These Off...?
+  ko: 이거… 풀어도 돼?
+  ja: これ…ほどいてもいい？
+24042_description:
+  en: |-
+    ■ Activates only if this unit is in the <word_group=10110>Bunny Mode</word_group>: Engage state.
+    <color=#00AEFF>Chain Release
+    Function: Changes some attacks' damage into true damage.
+    Effect 1: Affects self. Normal attacks deal true damage. This effect is continuous and cannot be removed.
+    Effect 2: Affects self. Mighty Stomp deals true damage. This effect is continuous and cannot be removed.
+    Effect 3: Activates when landing a Full Charge attack. Affects the target. Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as true damage.</color>
+    ■ Activates only when this unit is in the <word_group=10110>Bunny Mode</word_group>: Stance state.
+    <color=#00AEFF>Chain Enhance
+    Function: Enhances this unit's offensive capabilities.
+    Effect 1: Affects self. Attack Damage ▲ {description_value_02}%. This effect is continuous and cannot be removed.
+    Effect 2: Affects self. Charge Damage ▲ {description_value_03}%. This effect is continuous and cannot be removed.
+    Effect 3: Activates when landing a Full Charge attack. Affects the target. Deals {description_value_04}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 자신이 <word_group=10110>바니 모드</word_group> : 인게이지 상태일 때 한하여
+    <color=#00AEFF>[체인 릴리즈]
+    기능 : 공격을 방어력 무시 대미지로 변경합니다.
+    효과 1 : 자신에게 [일반 공격을 방어력 무시 대미지로 적용] [지속] [해제 불가]
+    효과 2 : 자신에게 [마이티 스톰프를 방어력 무시 대미지로 적용] [지속] [해제 불가]
+    효과 3 : 풀 차지 공격 명중 시 대상에게 [<word_group=10025>최종</word_group> 공격력 {description_value_01}% 방어력 무시 대미지]</color>
+    ■ 자신이 <word_group=10110>바니 모드</word_group> : 스탠스 상태일 때 한하여
+    <color=#00AEFF>[체인 인헨스]
+    기능 : 공격 능력을 강화합니다.
+    효과 1 : 자신에게 [공격 대미지 {description_value_02}% ▲] [지속] [해제 불가]
+    효과 2 : 자신에게 [차지 대미지 {description_value_03}% ▲] [지속] [해제 불가]
+    효과 3 : 풀 차지 공격 명중 시 대상에게 [<word_group=10025>최종</word_group> 공격력 {description_value_04}% 추가 대미지]</color>
+  ja: |-
+    ■自分が
+    <word_group=10110>バニーモード</word_group>：エンゲージ状態の時に限り
+    <color=#00AEFF>「チェーンリリース」
+    機能：攻撃を防御力無視ダメージに変更
+    効果1：自分に
+    「通常攻撃に防御力無視ダメージを適用」
+    「持続」「解除不可」
+    効果2：自分に
+    「マイティストンプに防御力無視ダメージを適用」
+    「持続」「解除不可」
+    効果3：フルチャージ攻撃が命中した時、対象に
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の防御力無視ダメージ」</color>
+    ■自分が<word_group=10110>バニーモード</word_group>：スタンス状態の時に限り
+    <color=#00AEFF>「チェーンエンハンス」
+    機能：攻撃能力を強化する
+    効果1：
+    自分に「攻撃ダメージ{description_value_02}％▲」
+    「持続」「解除不可」
+    効果2：自分に
+    「チャージダメージ{description_value_03}％▲」
+    「持続」「解除不可」
+    効果3：フルチャージ攻撃が命中した時、対象に
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の追加ダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24041_name:
+  en: What Should I Do...?
+  ko: 어떻게 하는 게 좋아…?
+  ja: どうしたらいい…？
+24041_description:
+  en: "■ Activates at the start of battle. Affects self.\n<color=#00AEFF>ATK ▲ {description_value_01}%.
+    This effect is continuous.</color>\n■ Activates at the start of battle and when
+    Full Charge is maintained for {description_value_02} or more seconds while this
+    unit is not in the Mighty Stomp state. Affects self.\n<color=#00AEFF>Initiates
+    a new <word_group=10110>Bunny Mode</word_group> based on the current mode.</color>\nActivates
+    if this unit is in the <word_group=10110>Bunny Mode</word_group>: Stance state.\n<color=#00AEFF>Initiates
+    <word_group=10110>Bunny Mode</word_group>: Engage. This effect is continuous and
+    cannot be removed.</color>\nActivates if this unit is not in the <word_group=10110>Bunny
+    Mode</word_group>: Stance state.\n<color=#00AEFF>Initiates <word_group=10110>Bunny
+    Mode</word_group>: Stance. This effect is continuous and cannot be removed.</color>\n■
+    Activates when this unit enters the <word_group=10110>Bunny Mode</word_group>:
+    Engage state. Affects all allies in the <word_group=10110>Bunny Mode</word_group>:
+    Stance state. \n<color=#00AEFF>Initiates <word_group=10110>Bunny Mode</word_group>:
+    Engage. This effect is continuous and cannot be removed.</color>\n■ Activates
+    when this unit enters the <word_group=10110>Bunny Mode</word_group>: Stance state.
+    Affects all allies in the <word_group=10110>Bunny Mode</word_group>: Engage state.\n<color=#00AEFF>Initiates
+    <word_group=10110>Bunny Mode</word_group>: Stance. This effect is continuous and
+    cannot be removed.</color>"
+  ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[공격력 {description_value_01}% ▲] [지속]</color>\n■
+    전투 시작 시와 풀 차지 상태를 {description_value_02}초 이상 유지 시 마이티 스톰프 상태가 아니라면 자신에게\n<color=#00AEFF>[상태에
+    맞는 <word_group=10110>바니 모드</word_group>만 적용]</color>\n자신이 <word_group=10110>바니
+    모드</word_group> : 스탠스 상태라면\n<color=#00AEFF>[<word_group=10110>바니 모드</word_group>
+    : 인게이지] [지속] [해제 불가]</color>\n자신이 <word_group=10110>바니 모드</word_group> : 스탠스 상태가
+    아니라면\n<color=#00AEFF>[<word_group=10110>바니 모드</word_group> : 스탠스] [지속] [해제 불가]</color>\n■
+    자신에게 <word_group=10110>바니 모드</word_group> : 인게이지 적용 시 <word_group=10110>바니 모드</word_group>
+    : 스탠스 상태인 아군 전체에게 \n<color=#00AEFF>[<word_group=10110>바니 모드</word_group> : 인게이지]
+    [지속] [해제 불가]</color>\n■ 자신에게 <word_group=10110>바니 모드</word_group> : 스탠스 적용 시 <word_group=10110>바니
+    모드</word_group> : 인게이지 모드인 아군 전체에게\n<color=#00AEFF>[<word_group=10110>바니 모드</word_group>
+    : 스탠스] [지속] [해제 불가]</color>"
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「攻撃力{description_value_01}％▲」「持続」</color>
+    ■戦闘開始時およびフルチャージ状態を
+    {description_value_02}秒以上維持した場合、
+    マイティストンプ状態でなければ自分に
+    <color=#00AEFF>「条件に合う<word_group=10110>バニーモード</word_group>のみ適用」</color>
+    自分が<word_group=10110>バニーモード</word_group>：スタンス状態なら、
+    <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：エンゲージ」
+    「持続」「解除不可」</color>
+    自分が<word_group=10110>バニーモード</word_group>：スタンス状態でなければ、
+    <color=#00AEFF>「<word_group=10110>バニーモード</word_group>スタンス」
+    「持続」「解除不可」</color>
+    ■自分に<word_group=10110>バニーモード</word_group>：エンゲージが適用時、<word_group=10110>バニーモード</word_group>：スタンス状態の味方全体に
+    <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：エンゲージ」
+    「持続」「解除不可」</color>
+    ■自分に<word_group=10110>バニーモード</word_group>：スタンスが適用時<word_group=10110>バニーモード</word_group>：エンゲージの味方全体に
+    <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：スタンス」
+    「持続」「解除不可」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14043_name:
+  en: I'm Finally Free...!
+  ko: 드디어 풀려났어…!
+  ja: やっとほどけたぁ…！
+14043_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Mighty Stomp: Changes the weapon in use
+    Charge Time: Fixed at 1.5 sec
+    Damage: {description_value_03}% of <word_group=10025>final</word_group> ATK
+    Full Charge Damage: 250%
+    Duration: {description_value_04} rounds
+    Additional Effect 1: Charge Damage ▲ {description_value_05}% for {description_value_06} rounds.
+    Additional Effect 2: Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[마이티 스톰프 : 사용 무기 변경] :
+    차지 시간 : 1.5초로 고정
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_03}%
+    풀 차지 대미지 : 250% 대미지
+    유지 시간 : {description_value_04}발
+    추가 효과 1 : [차지 대미지 {description_value_05}% ▲] [{description_value_06}발 유지]
+    추가 효과 2 : [공격 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「マイティストンプ：使用武器変更」：
+    チャージ時間：1.5秒に固定
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％
+    フルチャージダメージ：250％
+    維持時間：{description_value_04}発
+    追加効果1：
+    「チャージダメージ{description_value_05}％▲」
+    「{description_value_06}発間維持」
+    追加効果2：
+    [攻撃ダメージ {description_value_01}% ▲] [{description_value_02}秒間持続]</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+400_name:
+  en: Guilty
+  ko: 길티
+  ja: ギルティ
+401_name:
+  en: Sin
+  ko: 신
+  ja: シン
+402_name:
+  en: Quency
+  ko: 퀀시
+  ja: クエンシー
+403_name:
+  en: 'Quency: Escape Queen'
+  ko: '퀀시 : 이스케이프 퀸'
+  ja: クエンシー：エスケープクイーン
+405_name:
+  en: 'Sin: Swift Bunny'
+  ko: '신 : 스위프트 바니'
+  ja: シン：スウィフトバニー
+c404_Lobby_Touch_1:
+  en: I even get to be a bunny girl now that I'm rehabilitated... How fascinating...
+  ko: 갱생하니까 바니걸도 돼보네에… 신기하다아….
+  ja: |-
+    バニーガールになるなんて、更生する前は考えもしなかったわ…
+    不思議…
+c404_Lobby_Touch_2:
+  en: Will I be able to properly handle this outfit...?
+  ko: 내가 이 옷은 잘 제어할 수 있을까아…?
+  ja: 私、この服をちゃんと制御できるかしら…
+c404_Lobby_Touch_3:
+  en: Once this is over... will you remove my restraints?
+  ko: 이번 일만 잘 끝나면 그때는 풀어주는거야아…?
+  ja: |-
+    今回の仕事が無事に終わったら…
+    私を解放してくれる…？
+c404_Lobby_Touch_Love_1:
+  en: I guess you like this kind of position, Counselor...
+  ko: 교관은… 이런 자세를 좋아하나봐아….
+  ja: 教官って…こういう体勢が好きなのね…
+c404_Lobby_Touch_Love_2:
+  en: Think you'll be able to handle me even in this outfit...?
+  ko: 내가 이 옷까지 입었는데도 날 감당할 수 있겠어어…?
+  ja: こんな服を着てるけど…我慢できるのかしらぁ…？
+c404_Lobby_Touch_Love_3:
+  en: Aren't you being a little too handsy just because I'm tied up...?
+  ko: 묶여있다고 너무 만지는 거 아니야아…?
+  ja: 拘束されてるからって…好き勝手触りすぎじゃない…？
+c404_Lobby_Stay_1:
+  en: I'm bored... You know, I could easily break free from these...
+  ko: 심심한데에... 나 이거 끊을 수 있는데에….
+  ja: 退屈だわ…これ、外しちゃおうかしら…
+c404_Lobby_Stay_Love_1:
+  en: If I stay put, you'll hold my hand, right...? Then I'll be good and wait...
+  ko: 여기 가만히 있으면 교관이 손 잡아주는 거지이…? 그럼 나 잘 기다려볼게에….
+  ja: |-
+    ここでじっとしてれば教官が手を握ってくれるのよね…？
+    それなら大人しく待ってるわ…
+c404_Outpost_Touch_1:
+  en: I think I'm starting to get used to this place...
+  ko: 이제 여기도 조금 익숙한 거 같아아….
+  ja: ここにもだんだん慣れてきたかも…
+c404_Outpost_Touch_2:
+  en: There are others wearing outfits like mine... How curious...
+  ko: 나랑 비슷한 옷을 입은 애들도 있네에… 신기하다아….
+  ja: |-
+    私と同じような服を 着てる子たちもいるのね…
+    不思議だわ…
+c404_Outpost_Touch_3:
+  en: I wonder what everyone else does for fun around here...
+  ko: 다른 애들은 여기서 뭐하고 놀려나아….
+  ja: 他のみんなは ここで何して遊んでるのかしら…
+c404_Gacha_Get_1:
+  en: What do you think, Counselor? It's my first time dressing up as a bunny girl,
+    so I'm feeling a little awkward...
+  ko: 교과안… 어때? 바니걸은 처음이라 조금 어색하네에….
+  ja: |-
+    教官…どう？
+    バニーガールなんて初めてだから慣れないわ…
+c404_Reinforce_1:
+  en: Who knows what I might be capable of...? You'd better stay right by my side,
+    Counselor...
+  ko: 내가 무슨 짓을 할 줄 알고오… 교관, 내 옆에 잘 붙어있어야돼애…
+  ja: |-
+    私って何をするか分からないわよねぇ…
+    教官、私の隣から離れないでね…
+c404_Reinforce_2:
+  en: I don't think I should try to get any stronger than this... Are you sure this
+    is okay?
+  ko: 여기서 더 강해지면 안될 것 같은데에… 괜찮겠어?
+  ja: これ以上強くなったらダメなのに…本当に大丈夫？
+c404_Reinforce_3:
+  en: What if I become too strong... and make people afraid of bunny girls...?
+  ko: 너무 세져서어… 사람들이 바니걸을 무서워하면 어떡하지이…?
+  ja: |-
+    強くなりすぎちゃって…
+    みんながバニーガールを怖がるようになったらどうしよう…？
+c404_Gift_1:
+  en: Whoa... Thanks, Counselor. What would you like me to do now?
+  ko: 우와아… 고마워, 교과안… 이제 내가 뭐하면 돼?
+  ja: |-
+    わぁ…ありがとう、教官…
+    私は何をすればいいの？
+c404_Gift_2:
+  en: You must really like my outfit... That's why you're giving me this gift, right?
+  ko: 교관도 이 옷이 마음에 들었구나아… 그래서 선물 주는 거 맞지이…?
+  ja: |-
+    教官もこの服が気に入ったのね…
+    だからプレゼントをくれたんでしょ…？
+c404_Gift_3:
+  en: I feel like luck has been on my side ever since I became a bunny girl...
+  ko: 바니걸이 되고 더 행운이 따라오는 것 같아아….
+  ja: バニーガールになってからもっと運が良くなった気がするわ…
+c404_Attractive_Up_1:
+  en: I'll do anything for you... Just call for me, Counselor...
+  ko: 교관이 부르며언… 내가 뭐든 해줄게에….
+  ja: 教官が呼ぶなら…何でもしてあげる…
+c404_Attractive_Up_2:
+  en: I can't help wanting more of you, Counselor... You'll keep holding my hand,
+    right?
+  ko: 자꾸만 교관한테 욕심이 나아… 그래도 계속 손 잡아줄거지이…?
+  ja: |-
+    ますます教官が欲しくなってきちゃった…
+    それでも手を握っててくれる…？
+c404_Attractive_Up_3:
+  en: I heard bunny girls bring good luck... I'll share mine with you, Counselor.
+  ko: 바니걸이 행운을 가져다 준댔어어… 교관한테 행운을 줄게에….
+  ja: |-
+    バニーガールは幸運を運んでくれるんですって…
+    教官に幸運をあげるわ…
+c404_Party_Deploy_1:
+  en: What do you need me to do this time...?
+  ko: 이번엔 뭘 하면 돼애...?
+  ja: 今度は何をすればいいのぉ…？
+c404_Field_Touch_1:
+  en: You called...?
+  ko: 불렀어어…?
+  ja: 呼んだ…？
+c404_Field_Go_1:
+  en: I don't have to hop around like a bunny, right...?
+  ko: 깡총깡총 뛰어야 되는 건 아니지이…?
+  ja: ぴょんぴょん飛ばなきゃダメ…？
+c404_Battle_Enter_1:
+  en: I brought you good luck... Now untie me, Counselor...
+  ko: 내가 행운을 가져왔어어… 이제 풀어줘, 교과안….
+  ja: |-
+    幸運を運んできたわ…
+    だから教官、これ外して…
+c404_Battle_Ready_1:
+  en: This shouldn't take long...
+  ko: 금방 끝날 거 같아아….
+  ja: すぐに終わりそう…
+c404_Battle_Ready_2:
+  en: If we win, you'll hold my hand again, right...?
+  ko: 이거 이기면 또 손 잡아줄거지이…?
+  ja: これに勝ったら、また手を握ってくれるのよね…？
+c404_Battle_Ready_3:
+  en: Will I be able to make proper use of this outfit...?
+  ko: 이 옷 제대로 쓸 수 있을까아…?
+  ja: この服、ちゃんと使えるかしら…？
+c404_Reload_1:
+  en: This outfit is uncomfortable...
+  ko: 이 옷 불편해애….
+  ja: この服、動きづらいわ…
+c404_Reload_2:
+  en: Aren't you afraid of me...?
+  ko: 나 무섭지 않아…?
+  ja: 私のこと、怖くない…？
+c404_Reload_3:
+  en: I think I could manage even without a gun...
+  ko: 총 없어도 될 거 같은데에….
+  ja: 銃がなくても大丈夫そうだけど…
+c404_Ult_Skill_Ready_1:
+  en: I'm ready, Counselor. Just say the word...
+  ko: 난 준비됐어, 교관. 말만 해….
+  ja: |-
+    私は準備できてるわ、教官。
+    なんでも言って…
+c404_Ult_Skill_1:
+  en: I'm gonna have as much fun as I want...
+  ko: 내 마음대로 실컷 놀아볼게에….
+  ja: 好きなように思いきり遊んでくるわ…
+c404_FullBurst_1:
+  en: Isn't it fun playing with a bunny girl...?
+  ko: 바니걸이랑 노는 거 재밌지이…?
+  ja: バニーガールと遊ぶの、楽しいでしょ…？
+c404_Kill_Monster_1:
+  en: Too easy...
+  ko: 너무 쉽네에….
+  ja: 楽勝ね…
+c404_Kill_Monster_2:
+  en: That was fun...
+  ko: 재밌다아….
+  ja: 楽しいわ…
+c404_Kill_Monster_3:
+  en: It broke...
+  ko: 부서져버렸네에….
+  ja: 壊れちゃった…
+c404_Damage_1:
+  en: Ow...!
+  ko: 엇…!
+  ja: あっ…！
+c404_Damage_2:
+  en: Ugh!
+  ko: 읏!
+  ja: うっ！
+c404_Damage_3:
+  en: Argh...
+  ko: 악….
+  ja: くっ…
+c404_Die_1:
+  en: I don't wanna do this anymore. This is no fun...
+  ko: 이제 그만할래, 재미없어어….
+  ja: もうやめる…つまらないわ…
+c404_Win_1:
+  en: I did well, right, Counselor...?
+  ko: 교과안… 나 잘했지이…?
+  ja: 教官…私、よくやったでしょ…？
+404_cv_ja:
+  en: 'CV: Rina Sato'
+  ko: 'CV : 사토 리나'
+  ja: CV：佐藤利奈
+404_cv_ko:
+  en: 'CV: Lee Bo-hee'
+  ko: 'CV : 이보희'
+  ja: CV：イ・ボヒ
+404_cv_en:
+  en: 'CV: Brittany Lauda'
+  ko: 'CV : 브리타니 라우다'
+  ja: CV：Brittany Lauda

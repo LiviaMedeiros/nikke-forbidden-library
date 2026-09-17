@@ -5,7 +5,7 @@
   ja: モリー
 c590_description:
   en: |-
-    A Nikke from Missilis' Incubator Squad.
+    A Nikke from Missilis's Incubator Squad.
     With no outstanding abilities, she was part of a mass-produced Nikke squad but was later expelled to the Incubator Squad as a disciplinary action.
     She does not trust those around her and keeps all kinds of survival items in her bag.
   ko: |-
@@ -119,7 +119,7 @@ skill_name_1002:
   ja: 弱者の生存術
 15903_description:
   en: |-
-    ■ Activates when self is in Struggle status. Affects self.
+    ■ Activates when this unit is in the  Struggle state. Affects self.
     <color=#00AEFF><word_group=10048>Restores shield HP</word_group> equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
     ■ Activates when this unit is not in the Struggle state. Affects self.
     <color=#00AEFF>Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>

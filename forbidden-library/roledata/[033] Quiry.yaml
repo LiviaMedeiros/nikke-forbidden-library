@@ -82,9 +82,9 @@ skill_name_1003:
   ja: のぞき見
 20331_description:
   en: |-
-    ■ Activates when hitting a target with Full Charge. Affects the target.
+    ■ Activates when landing a Full Charge attack. Affects the target.
     <color=#00AEFF>ATK ▼ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>
-    ■ Activates when attacking with Full Charge. Affects {description_value_03} Defender ally unit(s).
+    ■ Activates performing a Full Charge attack. Affects {description_value_03} Defender ally unit(s).
     <color=#00AEFF>ATK ▲ {description_value_04}% of the skill user's ATK for {description_value_05} sec.</color>
   ko: |-
     ■ 풀 차지 공격 명중 시 대상에게

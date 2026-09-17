@@ -97,10 +97,10 @@ skill_name_1003:
   ja: ワンフォーオール
 23301_description:
   en: |-
-    ■ Activates at the start of Full Burst. Affects all allies who previously used their Burst Skills.
+    ■ Activates at the start of Full Burst. Affects all allies who just used their Burst Skills.
     <color=#00AEFF>ATK ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.</color>
     <color=#00AEFF>Reload Speed ▲ {description_value_03}% for {description_value_04} sec.</color>
-    ■ Affects all allies who did not previously use their Burst Skills.
+    ■ Affects all allies who did not just use their Burst Skills.
     <color=#00AEFF>DEF ▲ {description_value_05}% of the skill user's DEF for {description_value_06} sec.</color>
     <color=#00AEFF>Reload Speed ▲ {description_value_07}% for {description_value_08} sec.</color>
   ko: |-

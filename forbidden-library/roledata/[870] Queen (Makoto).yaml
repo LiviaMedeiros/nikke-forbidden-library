@@ -136,12 +136,14 @@ skill_name_1003:
     <word_group=10019>분배 대미지</word_group>]</color>"
   ja: |-
     ■戦闘開始時、自分に
-    <color=#00AEFF>「ペルソナ - ヨハンナ」「持続」「解除不可」：
+    <color=#00AEFF>「ペルソナ - ヨハンナ」
+    「持続」「解除不可」：
     機能：ペルソナを使って自分を強化する
     効果1：「核熱ブースタ：
     <word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」
     「持続」「解除不可」
-    効果2：「防御の心得：防御力{description_value_02}％▲」「持続」「解除不可」</color>
+    効果2：「防御の心得：防御力{description_value_02}％▲」
+    「持続」「解除不可」</color>
     ■戦闘開始時およびフルバーストタイムが
     終了した時、自分に
     <color=#00AEFF>「攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>

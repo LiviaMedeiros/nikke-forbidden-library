@@ -112,7 +112,7 @@ skill_name_1003:
     <word_group=10046>Equally shares HP recovery</word_group> for {description_value_04} sec.</color>
     ■ Activates when Memory Absorption takes effect. Affects self.
     <color=#00AEFF>Restores HP equal to {description_value_08}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
-    ■ Activates when attacking with Full Charge while in Memory Incineration status. Affects all enemies.
+    ■ Activates when performing a Full Charge attack while in Memory Incineration status. Affects all enemies.
     <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as damage.</color>
     ■ Affects the enemy if the enemy is the stage target.
     <color=#00AEFF>Deals {description_value_10}% of <word_group=10025>final</word_group> ATK as additional damage.</color>

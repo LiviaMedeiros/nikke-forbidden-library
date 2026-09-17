@@ -60,7 +60,7 @@ character_shot_description_localkey_rl_up:
   ja: 大精霊の鉄槌
 28212_description:
   en: |-
-    ■ Activates when hitting a target with Full Charge. Affects target(s).
+    ■ Activates when landing a Full Charge attack. Affects target(s).
     <color=#00AEFF><word_group=10040>Deals Fixed Damage to the main body equal to {description_value_01}% of the damage dealt by self</word_group>.</color>
     ■ Activates when entering Full Burst. Affects self.
     <color=#00AEFF>Max Ammunition Capacity ▲ {description_value_02} round(s) for {description_value_03} sec.</color>
@@ -84,7 +84,7 @@ skill_name_1003:
   ja: 微精霊の祝福
 28211_description:
   en: |-
-    ■ Activates when attacking with Full Charge. Affects self.
+    ■ Activates when performing a Full Charge attack. Affects self.
     <color=#00AEFF>Charge Speed ▲ {description_value_01}% for {description_value_02} round(s).
     <word_group=10041>Charge Damage ▲{description_value_03}% for every unit in the final Max Ammunition Capacity</word_group>, lasts for {description_value_04} round(s).</color>
   ko: |-

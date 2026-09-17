@@ -99,13 +99,13 @@ skill_name_1003:
 22901_description:
   en: "■ Activates at the start of battle. Affects self. \n<color=#00AEFF>Metal γ:
     ATK ▲ {description_value_01}% continuously. Activates once per battle.</color>\n■
-    Activates when in Metal γ status after performing 10 normal attacks. Affects all
-    allies.\n<color=#00AEFF>Restores HP equal to {description_value_02}% of the skill
-    user's <word_group=10025>final</word_group> max HP.</color>\n■ Activates if the
-    skill user is in Metal γ status when an ally is out of action. Affects {description_value_03}
-    incapacitated ally unit(s) with the highest <word_group=10025>final</word_group>
-    ATK (except the skill user).\n<color=#00AEFF>Resurrect with {description_value_04}%
-    HP.</color>\n■ Activates when an ally is out of action. Affects self.\n<color=#00AEFF>Removes
+    Activates when in the Metal γ state after performing 10 normal attacks. Affects
+    all allies.\n<color=#00AEFF>Restores HP equal to {description_value_02}% of the
+    skill user's <word_group=10025>final</word_group> max HP.</color>\n■ Activates
+    when an ally is incapacitated while the skill user is in the Metal γ state. Affects
+    the {description_value_03} incapacitated ally unit(s) with the highest <word_group=10025>final</word_group>
+    ATK (except the skill user).\n<color=#00AEFF>Revives with {description_value_04}%
+    HP.</color>\n■ Activates when an ally is incapacitated. Affects self.\n<color=#00AEFF>Removes
     Metal γ.</color>"
   ko: |-
     ■ 전투 시작 시 자신에게
@@ -471,6 +471,204 @@ c290_Win_1:
   en: A rather simple task.
   ko: 간단한 일이죠.
   ja: お安いご用です。
+c290_01_Lobby_Touch_1:
+  en: Maybe we should grab a stiff drink together later... I have a feeling I'd need
+    to be twice as drunk to wear an outfit like this.
+  ko: 이따가 같이 독한 술이라도 한잔하시죠. 이 옷을 입으니 배로 취해야 할 것만 같습니다.
+  ja: |-
+    あとで強いお酒でも飲みましょう。
+    いつもの倍は酔わないと、この服装に耐えられません…
+c290_01_Lobby_Touch_2:
+  en: "*Sigh* I don't have time for this... When can I finally take off this cumbersome
+    headband?"
+  ko: 하… 여기서 이러고 있을 시간이 없는데… 이 거추장스러운 머리띠는 언제 벗을 수 있을까요?
+  ja: |-
+    はぁ…ここでこんなことをしている暇はないのですが…
+    この煩わしいカチューシャは、いつになったら外せるのですか？
+c290_01_Lobby_Touch_3:
+  en: "...?! Did I make a fool of myself in front of you again, Commander?"
+  ko: "…?! 제가 또 지휘관에게 실례를 범했나요?"
+  ja: "…！？私、また指揮官に失礼を…？"
+c290_01_Lobby_Touch_Love_1:
+  en: Ahh... Doesn't this drink go down so smoothly?
+  ko: 캬아… 이 술 진짜 목넘김이 좋지 않나요오.
+  ja: ぷはーっ…このお酒、のど越しがイマイチですねぇ。
+c290_01_Lobby_Touch_Love_2:
+  en: Are you fascinated by my bunny ears? Here, why don't you try them on...
+  ko: 제 토끼 귀가 신기하십니까? 그럼 지휘관도 한 번 써보시죠오….
+  ja: |-
+    この耳が気になりますか？
+    それなら指揮官も、つけてみてくださぁい…
+c290_01_Lobby_Touch_Love_3:
+  en: "*Hic!* I'm not drunk yet."
+  ko: 딸꾹! 저 아직 안 취했습니다아.
+  ja: ヒック！まだ全然酔ってませぇぇん。
+c290_01_Lobby_Stay_1:
+  en: How much longer will I have to wait? I'm a little embarrassed to be dressed
+    like this.
+  ko: 차림이 좀 민망해서 그러는데, 혹시 언제까지 기다려야하죠?
+  ja: |-
+    いつまで待てばいいのですか？
+    この格好でいるのは、少々恥ずかしいのですが…
+c290_01_Lobby_Stay_Love_1:
+  en: Commander... I haven't had enough drinks...
+  ko: 지휘과안... 수울이 아직 부족해요오….
+  ja: しきかぁぁん…もっとお酒をくださぁぁい…
+c290_01_Outpost_Touch_1:
+  en: Were you on your way to Trendy Bar too? Allow me to keep you company.
+  ko: 지휘관도 모던 바 가는 길인가요? 같이 가시죠.
+  ja: |-
+    指揮官もモダンバーに 行かれるのですか？
+    では、一緒に行きましょう。
+c290_01_Outpost_Touch_2:
+  en: No one's giving me weird looks, right? *Sigh* Honestly, I almost wish I were
+    too drunk to care.
+  ko: 누가 보고 이상하게 생각하는 건 아니겠죠? 하아... 차라리 제정신이 아니고 싶은 심정이네요.
+  ja: |-
+    この服…周りから 変に思われたりしませんか？
+    …いっそ、正気を 失ってしまいたいです。
+c290_01_Outpost_Touch_3:
+  en: I never thought I'd end up wearing something like this... *Sigh*
+  ko: 제가 이런 옷까지 입게 되다니… 하아….
+  ja: どうして私が、こんな格好を… はぁ…
+c290_01_Gacha_Get_1:
+  en: Ooh! Care for a drink, Commander?
+  ko: 어엇! 지휘관도 한 잔 하겠습니까아?
+  ja: ふふっ！指揮官も一杯どうですかぁ～？
+c290_01_Reinforce_1:
+  en: I've still got room for another drink.
+  ko: 술을 더 마실 수 있겠어요.
+  ja: これでもっと、お酒が飲めそうですね。
+c290_01_Reinforce_2:
+  en: How about a celebratory drink now that I've gotten stronger?
+  ko: 강해진 기념으로 한 잔 하실까요?
+  ja: 強くなった記念に、一緒に飲みませんか？
+c290_01_Reinforce_3:
+  en: I suppose I'll have even more on my plate from now on.
+  ko: 앞으로 할 일이 더 늘어나겠군요.
+  ja: 今後は、さらに忙しくなりそうですね…
+c290_01_Gift_1:
+  en: They say bunny girls bring good luck... A-allow me to share some of mine with
+    you, Commander.
+  ko: 바니걸은 행운을 가져온다고 하죠… 지휘관에게 해, 행운을 드리겠습니다.
+  ja: |-
+    バニーガールは幸運を運ぶと言いますよね…
+    ですので指揮官に、こ、幸運を差し上げます。
+c290_01_Gift_2:
+  en: Now why would you give me a gift like this...? What are you planning to have
+    me wear next...?
+  ko: 다음엔 또 어떤 옷을 입히시려고 이런 선물을….
+  ja: |-
+    プレゼントまでくださるなんて…
+    …今度はいったい、何を着せるおつもりなのですか？
+c290_01_Gift_3:
+  en: Thank you, Commander. This gives me the motivation to get back to work.
+  ko: 감사합니다, 지휘관. 덕분에 다시 힘내서 일 할 수 있겠습니다.
+  ja: |-
+    ありがとうございます、指揮官。
+    おかげで、また仕事を頑張れそうです。
+c290_01_Attractive_Up_1:
+  en: Drinks just go down so easily when I'm with you, Commander...
+  ko: 지휘관이랑 술 마시니 술이 술술 들어가네요오….
+  ja: 指揮官と飲むと、お酒が進みますねぇ…
+c290_01_Attractive_Up_2:
+  en: Commander...... You'll have a drink with me again tomorrow, right...? Drinks
+    always taste best when I'm with you...
+  ko: 지휘과안… 내일도 같이 술 마셔줄거죠오… 지휘관이랑 마시는 술이 가장 맛있어요오….
+  ja: |-
+    しきかぁぁん…明日も一緒に飲んでくれますよねぇ…
+    指揮官と飲むお酒が、一番おいしいんですぅ…
+c290_01_Attractive_Up_3:
+  en: I feel safe when you're with me, even when I'm drinking, Commander. So please
+    stay by my side...
+  ko: 지휘관이 옆에 있으면 술을 마셔도 안심이 돼요오. 그렇게 계속 옆에 있어주세요오….
+  ja: |-
+    指揮官が隣にいると、お酒を飲んでも安心ですぅ…
+    こうやってずっと、隣にいてくださぁい…
+c290_01_Party_Deploy_1:
+  en: Just leave it to me...!
+  ko: 맡겨만 주십시요오…!
+  ja: お任せくださぁぁい…！
+c290_01_Field_Touch_1:
+  en: You called...? *Hic!*
+  ko: 부르셨나요오… 딸꾹!
+  ja: お呼びですかぁぁ…ヒック！
+c290_01_Field_Go_1:
+  en: Huhhh...? The world is spinning...
+  ko: 어라라… 몸이 막 흔들리네에….
+  ja: あれぇ…？体がフラフラするぅ…
+c290_01_Battle_Enter_1:
+  en: This much alcohol is nothing.
+  ko: 이정도 마신 걸로 문제 없습니다아.
+  ja: ちょっとしか飲んでないので、問題ありませぇぇん。
+c290_01_Battle_Ready_1:
+  en: Anything's better than a mountain of paperwork.
+  ko: 뭐든 산더미처럼 쌓인 보고서보단 낫겠죠오.
+  ja: 山積みの報告書よりはマシですぅ。
+c290_01_Battle_Ready_2:
+  en: Let's win this quickly and get back to drinking.
+  ko: 얼른 이기고 다시 마시러 가야겠어요.
+  ja: 早く勝って、飲みに行かなくちゃぁ。
+c290_01_Battle_Ready_3:
+  en: I'm not drunk.
+  ko: 저 안 취했습니다아.
+  ja: 全然酔ってませんからぁ～
+c290_01_Reload_1:
+  en: Umm... It feels like my outfit keeps slipping down...
+  ko: 이거어… 옷이 자꾸 내려가는 거 같은데에….
+  ja: あのぉ…服がすぐに下がってしまうのですが…
+c290_01_Reload_2:
+  en: Commander... Just one more drink...
+  ko: 지휘과안... 한 잔 더….
+  ja: しきかぁぁん…もう一杯…
+c290_01_Reload_3:
+  en: Phew...
+  ko: 후우우우….
+  ja: ふぅぅぅ…
+c290_01_Ult_Skill_Ready_1:
+  en: I don't need any bar snacks...!
+  ko: 안주는... 필요 없습니다!
+  ja: おつまみはぁ…いりません！
+c290_01_Ult_Skill_1:
+  en: Liquor tastes the sweetest when life is bitter...
+  ko: 인생이 쓰니까 술이 다네요오.
+  ja: 人生が苦いほど、お酒が甘く感じますねぇ。
+c290_01_FullBurst_1:
+  en: Let's get this over with.
+  ko: 끝내볼까요오.
+  ja: そろそろ終わらせましょうかぁ。
+c290_01_Kill_Monster_1:
+  en: That was perfect.
+  ko: 진짜아 완벽했어요오.
+  ja: 今の、完璧でしたねぇ。
+c290_01_Kill_Monster_2:
+  en: Piece of cake!
+  ko: 이정도는 저한테도 쉽죠오!
+  ja: これくらい、私にとっては朝飯前ですぅ！
+c290_01_Kill_Monster_3:
+  en: Huh? When did I finish them off?
+  ko: 어라? 언제 죽였지이?
+  ja: あれ？いつの間に倒したのかしらぁ？
+c290_01_Damage_1:
+  en: Ow!
+  ko: 앗!
+  ja: あっ！
+c290_01_Damage_2:
+  en: "*Hic!*"
+  ko: 딸꾹!
+  ja: ヒック！
+c290_01_Damage_3:
+  en: Ouch...
+  ko: 아야….
+  ja: いたっ…
+c290_01_Die_1:
+  en: Huh... Maybe I've had too much to drink...
+  ko: 어라… 너무 많이 마셨나….
+  ja: あれぇ…飲みすぎたかしら…
+c290_01_Win_1:
+  en: Shall we celebrate our victory with a drink?
+  ko: 이겼으니 한 잔 하러 가실까요?
+  ja: 無事に勝ったことですし、飲みに行きましょうか？
 290_cv_ja:
   en: 'CV: Mai Nakahara'
   ko: 'CV : 나카하라 마이'

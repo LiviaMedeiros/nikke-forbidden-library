@@ -99,13 +99,13 @@ skill_name_1003:
   ja: アンチA.T.フィールド
 28351_description:
   en: |-
-    ■ Activates after landing {description_value_01} normal attack(s). Affects the target(s).
+    ■ Activates after landing {description_value_01} normal attacks. Affects the target.
     <color=#00AEFF>Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
-    ■ Activates only when in Annihilation State status. Affects self.
-    <color=#00AEFF>Annihilation State's additional effect:
+    ■ Activates only when Annihilation State is active. Affects self.
+    <color=#00AEFF>Additional Effect of Annihilation State:
     Target: Affects {description_value_05} enemy unit(s) within the attack range nearest to the crosshair every {description_value_04} shot(s).
     Damage: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage.
-    Additional Effect: Anti A.T. Field: Damage Taken ▲ {description_value_07}% for {description_value_09} sec, stacks up to {description_value_08} time(s).</color>
+    Additional Effect: Anti A.T. Field: Damage Taken ▲ {description_value_07}% for {description_value_09} sec. Stacks up to {description_value_08} times.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 명중 시 대상에게
     <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
@@ -134,15 +134,15 @@ skill_name_1002:
   en: |-
     ■ Affects self.
     <color=#00AEFF>Annihilation State
-    Function: Reduces the normal attack damage while increasing attack capabilities.
+    Function: Reduces normal attack damage while increasing attack capabilities.
     Effect 1: Normal Attack Damage <word_group=10029>Multiplier</word_group> ▼ {description_value_07}% for {description_value_08} sec.
-    Effect 2: Reloads {description_value_01}% magazine(s).
+    Effect 2: Reloads {description_value_01}% of ammo.
     Effect 3: ATK ▲ {description_value_02}% of the skill user's ATK for {description_value_03} sec.
     Effect 4: Attack Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
-    ■ Affects the target(s) afflicted with Anti A.T. Field.
+    ■ Affects targets in the Anti A.T. Field state.
     <color=#00AEFF>Annihilation
-    Function: After Annihilation State ends, fires powerful attacks at targets affected by Anti A.T. Field.
-    Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as additional damage. <word_group=10026>Mirrors the stack count</word_group> of Anti A.T. Field for certain targets. Anti A.T. Field status is removed after the effect is triggered.</color>
+    Function: Performs a powerful attack against targets in the Anti A.T. Field state when Annihilation State ends.
+    Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as additional damage. <word_group=10026>Mirrors the stack count</word_group> of Anti A.T. Field for each individual target. Anti A.T. Field is removed after this effect is triggered.</color>
   ko: |-
     ■ 자신에게
     <color=#00AEFF>[섬멸 태세] :

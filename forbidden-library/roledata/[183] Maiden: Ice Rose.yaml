@@ -88,7 +88,8 @@ character_shot_description_localkey_rl_up:
     ■MP使用後、自分に
     <color=#00AEFF>「<word_group=10009>有利コードの攻撃ダメージ</word_group> {description_value_05}％▲」「{description_value_06}秒間維持」</color>
     <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_07}％分の攻撃力▲」「{description_value_08}秒間維持」</color>
-    ■フルチャージ攻撃で{description_value_11}回攻撃した時、照準線に最も近い敵{description_value_09}機に
+    ■フルチャージ攻撃で{description_value_11}回攻撃した時、
+    照準線に最も近い敵{description_value_09}機に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_10}％のダメージ」</color>
 skill_name_1003:
   en: Skill 2
@@ -114,10 +115,16 @@ skill_name_1003:
     ■ 풀 차지 공격 {description_value_06}회 공격 시 자신에게
     <color=#00AEFF>[최대 체력만 {description_value_03}% ▲] [{description_value_04} 중첩] [{description_value_05} 초 유지]</color>
   ja: |-
-    ■バースト1段階突入時、自分のMPが0なら自分に
-    <color=#00AEFF>「MP{description_value_01}回復」「最大12まで蓄積可能」「バーストスキルを使用した時、蓄積したすべてのMPが消滅」</color>
-    ■フルバーストタイムが発動した時、自分のMPが1以上なら自分に
-    <color=#00AEFF>「MP{description_value_02}チャージ」「最大12まで蓄積可能」「バーストスキルを使用した時、蓄積したすべてのMPが消滅」</color>
+    ■バースト1段階突入時、自分のMPが0なら
+    自分に
+    <color=#00AEFF>「MP{description_value_01}回復」「最大12まで蓄積可能」
+    「バーストスキルを使用した時、
+    蓄積したすべてのMPが消滅」</color>
+    ■フルバーストタイムが発動した時、自分の
+    MPが1以上なら自分に
+    <color=#00AEFF>「MP{description_value_02}チャージ」「最大12まで蓄積可能」
+    「バーストスキルを使用した時、
+    蓄積したすべてのMPが消滅」</color>
     ■フルチャージ攻撃で{description_value_06}回攻撃した時、自分に
     <color=#00AEFF>「最大HPのみ{description_value_03}％▲」「{description_value_04}スタック」「{description_value_05}秒間維持」</color>
 skill_name_1002:
@@ -137,7 +144,9 @@ skill_name_1002:
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력의 {description_value_02}%를 공격력으로 합산한 {description_value_03}% 대미지] [보유 MP 만큼 <word_group=10060>연속 공격</word_group>]</color>
   ja: |-
     ■照準線に最も近い敵{description_value_01}機に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％を攻撃力に合算して{description_value_03}％ダメージ」「所持MP分の<word_group=10060>連続攻撃</word_group>」</color>
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％を
+    攻撃力に合算して{description_value_03}％ダメージ」
+    「所持MP分の<word_group=10060>連続攻撃</word_group>」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

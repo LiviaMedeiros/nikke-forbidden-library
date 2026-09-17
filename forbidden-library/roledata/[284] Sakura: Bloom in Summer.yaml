@@ -85,11 +85,11 @@ skill_name_1003:
   en: |-
     ■ Activates at the start of battle. Affects self.
     <color=#00AEFF>Forcefully uses Skill 2.</color>
-    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self.
+    ■ Activates when an ally or this unit <word_group=10052>destroys an enemy's part</word_group>. Affects self.
     <color=#00AEFF>Sustained Damage ▲ {description_value_02}% for {description_value_03} sec.</color>
-    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects self if in Dancing Flower status.
+    ■ Activates when an ally or this unit <word_group=10052>destroys an enemy's part</word_group> while this unit is in the Dancing Flower state. Affects self.
     <color=#00AEFF>Dancing Flower <word_group=10051>Duration ▲ {description_value_01} sec</word_group>.</color>
-    ■ Activates when an ally or self <word_group=10052>destroys an enemy's part</word_group>. Affects all enemies who are in Sakura Petals status.
+    ■ Activates when an ally or this unit <word_group=10052>destroys an enemy's part</word_group>. Affects all enemies who are in the Sakura Petals state.
     <color=#00AEFF>Sakura Petals <word_group=10051>Duration ▲ {description_value_04} sec</word_group>.</color>
   ko: |-
     ■ 전투 시작 시 자신에게

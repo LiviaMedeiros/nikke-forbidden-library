@@ -102,7 +102,8 @@ character_shot_description_localkey_mg_down:
     効果1：{description_value_01}秒ごとに味方全体に「メディラマ：スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％回復」
     効果2：自分に「火炎ブースタ：<word_group=10019>分配ダメージ</word_group>{description_value_03}％▲」「持続」「解除不可」
     効果3：自分に「真紅の守護：
-    <word_group=10108>水冷コードの敵から受けるダメージ</word_group>{description_value_04}％▼」
+    <word_group=10108>水冷コードの敵から受けるダメージ</word_group>
+    {description_value_04}％▼」
     「持続」「解除不可」
     <word_group=10097>解除条件</word_group>：フルバーストタイムが終了した時</color>
     ■バースト3段階突入時、自分に

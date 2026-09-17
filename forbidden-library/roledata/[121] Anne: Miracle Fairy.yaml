@@ -72,8 +72,10 @@ character_shot_description_localkey_rl_up:
   ja: |-
     ■自分のHPが{description_value_01}％以上の時のみ味方全体に
     <color=#00AEFF>「受けるHP回復量{description_value_02}％▲」「持続」</color>
-    ■最後の弾丸が命中した時、自分のHPが{description_value_03}％以上なら敵全体に
-    <color=#00AEFF>「受けるHP回復量{description_value_04}％▼」「{description_value_05}秒間維持」</color>
+    ■最後の弾丸が命中した時、自分のHPが
+    {description_value_03}％以上なら敵全体に
+    <color=#00AEFF>「受けるHP回復量{description_value_04}％▼」
+    「{description_value_05}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -90,7 +92,8 @@ skill_name_1003:
     ■ 일반 공격 {description_value_01}회 공격 시 지원형 아군 전체에게
     <color=#00AEFF>[공격 대미지 비례 {description_value_02}% 회복] [{description_value_03}초 유지]</color>
   ja: |-
-    ■通常攻撃で{description_value_01}回攻撃した時、支援型の味方全体に
+    ■通常攻撃で{description_value_01}回攻撃した時、
+    支援型の味方全体に
     <color=#00AEFF>「攻撃ダメージの{description_value_02}％回復」
     「{description_value_03}秒間維持」</color>
 skill_name_1002:
@@ -116,7 +119,8 @@ skill_name_1002:
     <color=#00AEFF>[체력 {description_value_02}%로 부활] [전투 중 1회 발동]</color>
   ja: |-
     ■火力型の味方全体に
-    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_03}％回復」
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
+    {description_value_03}％回復」
     「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
     ■戦闘不能状態の火力型の味方をランダムで{description_value_01}機に
     <color=#00AEFF>「HP{description_value_02}％で復活」「戦闘中1回発動」</color>
