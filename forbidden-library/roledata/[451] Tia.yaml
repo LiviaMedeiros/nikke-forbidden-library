@@ -96,10 +96,10 @@ skill_name_1003:
   ja: 爬虫類愛好家
 24511_description:
   en: |-
-    ■ Activates when <word_group=10034>recovering Cover's HP</word_group>. Affects self.
-    <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_01} sec, stacks up to {description_value_02} time(s) and lasts for {description_value_03} sec.</color>
-    ■ Activates when <word_group=10034>recovering Cover's HP</word_group>. Affects all allies.
-    <color=#00AEFF>Attack damage ▲ {description_value_04}% for {description_value_05} sec.</color>
+    ■ Activates when <word_group=10034>restoring cover HP</word_group>. Affects self.
+    <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▼ {description_value_01} sec. Stacks up to {description_value_02} times and lasts for {description_value_03} sec.</color>
+    ■ Activates when <word_group=10034>restoring cover HP</word_group>. Affects all allies.
+    <color=#00AEFF>Attack Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
     ■ <word_group=10034>엄폐물 체력 회복 시</word_group> 자신에게
     <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_01}초 ▼] [{description_value_02} 중첩] [{description_value_03}초 유지]</color>

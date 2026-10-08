@@ -97,8 +97,10 @@ character_shot_description_localkey_sr_up:
     効果2：自分に
     「マイティストンプに防御力無視ダメージを適用」
     「持続」「解除不可」
-    効果3：フルチャージ攻撃が命中した時、対象に
-    「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の防御力無視ダメージ」</color>
+    効果3：フルチャージ攻撃が命中した時、
+    対象に
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_01}％の
+    防御力無視ダメージ」</color>
     ■自分が<word_group=10110>バニーモード</word_group>：スタンス状態の時に限り
     <color=#00AEFF>「チェーンエンハンス」
     機能：攻撃能力を強化する
@@ -146,7 +148,7 @@ skill_name_1003:
     자신에게 <word_group=10110>바니 모드</word_group> : 인게이지 적용 시 <word_group=10110>바니 모드</word_group>
     : 스탠스 상태인 아군 전체에게 \n<color=#00AEFF>[<word_group=10110>바니 모드</word_group> : 인게이지]
     [지속] [해제 불가]</color>\n■ 자신에게 <word_group=10110>바니 모드</word_group> : 스탠스 적용 시 <word_group=10110>바니
-    모드</word_group> : 인게이지 모드인 아군 전체에게\n<color=#00AEFF>[<word_group=10110>바니 모드</word_group>
+    모드</word_group> : 인게이지 상태인 아군 전체에게\n<color=#00AEFF>[<word_group=10110>바니 모드</word_group>
     : 스탠스] [지속] [해제 불가]</color>"
   ja: |-
     ■戦闘開始時、自分に
@@ -158,13 +160,17 @@ skill_name_1003:
     自分が<word_group=10110>バニーモード</word_group>：スタンス状態なら、
     <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：エンゲージ」
     「持続」「解除不可」</color>
-    自分が<word_group=10110>バニーモード</word_group>：スタンス状態でなければ、
+    自分が<word_group=10110>バニーモード</word_group>：スタンス状態で
+    なければ、
     <color=#00AEFF>「<word_group=10110>バニーモード</word_group>スタンス」
     「持続」「解除不可」</color>
-    ■自分に<word_group=10110>バニーモード</word_group>：エンゲージが適用時、<word_group=10110>バニーモード</word_group>：スタンス状態の味方全体に
+    ■自分に<word_group=10110>バニーモード</word_group>：エンゲージが
+    適用時、<word_group=10110>バニーモード</word_group>：スタンス状態の
+    味方全体に
     <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：エンゲージ」
     「持続」「解除不可」</color>
-    ■自分に<word_group=10110>バニーモード</word_group>：スタンスが適用時<word_group=10110>バニーモード</word_group>：エンゲージの味方全体に
+    ■自分に<word_group=10110>バニーモード</word_group>：スタンスが
+    適用時<word_group=10110>バニーモード</word_group>：エンゲージ状態の味方全体に
     <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：スタンス」
     「持続」「解除不可」</color>
 skill_name_1002:
@@ -182,8 +188,8 @@ skill_name_1002:
     Charge Time: Fixed at 1.5 sec
     Damage: {description_value_03}% of <word_group=10025>final</word_group> ATK
     Full Charge Damage: 250%
-    Duration: {description_value_04} rounds
-    Additional Effect 1: Charge Damage ▲ {description_value_05}% for {description_value_06} rounds.
+    Duration: {description_value_04} round(s)
+    Additional Effect 1: Charge Damage ▲ {description_value_05}% for {description_value_06} round(s).
     Additional Effect 2: Attack Damage ▲ {description_value_01}% for {description_value_02} sec.</color>
   ko: |-
     ■ 자신에게

@@ -11,8 +11,10 @@ c121_description:
     루피의 선물을 받아 겨울 요정으로 다시 태어난 앤.
     루피의 밝은 에너지의 영향을 받아 이전보다 밝고 긍정적인 모습을 보인다.
   ja: |-
-    ルピーからプレゼントを受け取り、冬の妖精に生まれ変わったエヌ。
-    ルピーの明るさの影響を受け、前よりもポジティブな姿を見せる。
+    ルピーからプレゼントを受け取り、
+    冬の妖精に生まれ変わったエヌ。
+    ルピーの明るさの影響を受け、
+    前よりもポジティブな姿を見せる。
 121_cv:
   en: "-"
   ko: "-"
@@ -122,7 +124,8 @@ skill_name_1002:
     <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの
     {description_value_03}％回復」
     「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」</color>
-    ■戦闘不能状態の火力型の味方をランダムで{description_value_01}機に
+    ■戦闘不能状態の火力型の味方を
+    ランダムで{description_value_01}機に
     <color=#00AEFF>「HP{description_value_02}％で復活」「戦闘中1回発動」</color>
 skill_name_1001:
   en: Burst Skill

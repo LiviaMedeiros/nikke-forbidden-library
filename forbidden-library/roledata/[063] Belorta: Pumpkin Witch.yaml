@@ -1,0 +1,510 @@
+---
+63_name:
+  en: 'Belorta: Pumpkin Witch'
+  ko: '벨로타 : 펌킨 위치'
+  ja: ベロータ：パンプキンウィッチ
+c063_description:
+  en: Belorta has dressed up as a witch to have fun at the Halloween festival. Of
+    course, she's still as mischievious as ever.
+  ko: |-
+    할로윈 축제를 즐기기 위해 마녀 복장으로 꾸민 벨로타.
+    축제에서도 장난기 넘치는 모습은 여전하다.
+  ja: |-
+    ハロウィンのお祭りを楽しむため魔女に変身したベロータ。
+    お祭りでもイタズラ好きな姿は相変わらずだ。
+63_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_63:
+  en: 'Belorta: Pumpkin Witch''s Spare Body'
+  ko: '벨로타 : 펌킨 위치 스페어 바디'
+  ja: ベロータ：パンプキンウィッチのスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+20632_name:
+  en: Trick or Treat!
+  ko: 트릭 오어 트릿!
+  ja: トリック・オア・トリート！
+20632_description:
+  en: |-
+    ■ Activates when landing a Full Charge attack while in the Ghost Costume state. Affects the target.
+    <color=#00AEFF>Ghostly Prank: Damage Taken ▲ {description_value_01}% for {description_value_02} sec.</color>
+    ■ Activates when performing a Full Charge attack. Affects the ally <word_group=10109>to the right </word_group> of this unit.
+    <color=#00AEFF>Sustained Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 풀 차지 공격 명중 시 자신이 유령 분장 상태라면 대상에게
+    <color=#00AEFF>[유령의 장난 : 받는 대미지 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
+    ■ 풀 차지 공격 시 자신의 <word_group=10109>우측 자리</word_group> 아군 1기에게
+    <color=#00AEFF>[지속 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■フルチャージ攻撃が命中した時、
+    自分がおばけの仮装状態なら、対象に
+    <color=#00AEFF>「おばけのイタズラ：受けるダメージ
+    {description_value_01}％▲」「{description_value_02}秒間維持」</color>
+    ■フルチャージして攻撃した時、
+    自分の<word_group=10109>右隣の</word_group>味方1機に
+    <color=#00AEFF>「持続ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20631_name:
+  en: Playful Little Witch
+  ko: 플레이풀 리틀 위치
+  ja: プレイフル・リトル・ウィッチ
+20631_description:
+  en: |-
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>Ghost Costume: <word_group=10004>Prevents being targeted by single-target attacks</word_group> for {description_value_01} sec. This effect is removed upon taking a direct hit.
+    Prank Preparation: Max HP ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates when entering Full Burst. Affects the ally <word_group=10109>to the right</word_group> of this unit.
+    <color=#00AEFF>ATK ▲ {description_value_04}% of the skill user's ATK for {description_value_05} sec.</color>
+  ko: |-
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[유령 분장 : <word_group=10004>1인 공격 대상에서 제외</word_group> 직접 피격 시 해제] [{description_value_01}초 유지]
+    [장난 준비 : 최대 체력 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 자신의 <word_group=10109>우측 자리</word_group> 아군 1기에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_04}% ▲] [{description_value_05}초 유지]</color>
+  ja: |-
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「おばけの仮装：<word_group=10004>単一攻撃の対象から除外</word_group>
+    直接攻撃を受けると解除」「{description_value_01}秒間維持」
+    「イタズラ準備：最大HP{description_value_02}％▲」
+    「{description_value_03}秒間維持」</color>
+    ■フルバーストタイムが発動した時、
+    自分の<word_group=10109>右隣の</word_group>味方1機に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_04}％▲」
+    「{description_value_05}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10633_name:
+  en: Happy Halloween!
+  ko: 해피 할로윈!
+  ja: ハッピーハロウィン！
+10633_description:
+  en: |-
+    ■ Affects the ally <word_group=10109>to the right</word_group> of this unit.
+    <color=#00AEFF> ATK ▲ {description_value_01}% of the skill user's ATK for {description_value_02} sec.
+    Sustained Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 자신의 <word_group=10109>우측 자리</word_group> 아군 1기에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_01}% ▲] [{description_value_02}초 유지]
+    [지속 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■自分の<word_group=10109>右隣の</word_group>味方1機に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_01}％▲」
+    「{description_value_02}秒間維持」
+    「持続ダメージ{description_value_03}％▲」「{description_value_04}秒間維持」
+    </color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_water:
+  en: P.S.I.D. Code Manual
+  ko: P.S.I.D. 코드 매뉴얼
+  ja: P.S.I.D.コードマニュアル
+material_characterskill_water_desc:
+  en: |-
+    A manual only for Nikkes with P.S.I.D. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: "P.S.I.D. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다. \n다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.\n스킬
+    레벨 업에 사용됩니다."
+  ja: |-
+    P.S.I.D.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+62_name:
+  en: 'Mica: Snow Buddy'
+  ko: '미카 : 스노우 버디'
+  ja: ミカ：スノーバディ
+60_name:
+  en: Belorta
+  ko: 벨로타
+  ja: ベロータ
+61_name:
+  en: Mica
+  ko: 미카
+  ja: ミカ
+c063_Lobby_Touch_1:
+  en: What do you think, Old-Timer? Do I look like a real witch?
+  ko: 아저씨, 나 어때? 진짜 마녀 같아?
+  ja: |-
+    おじさん、どう？
+    私、本物の魔女に見える？
+c063_Lobby_Touch_2:
+  en: Trick or treat! Gimme some candy, or get ready for a prank!
+  ko: |-
+    트릭 오어 트릿!
+    사탕 안 주면 장난칠 거야!
+  ja: |-
+    トリック・オア・トリート！
+    お菓子をくれなきゃいたずらしちゃうよ！
+c063_Lobby_Touch_3:
+  en: Want some of this candy? It's really good!
+  ko: |-
+    이거 먹어볼래~?
+    엄-청 맛있는 사탕이야!
+  ja: |-
+    これ、食べてみる～？
+    ものすっごくおいしいキャンディだよ！
+c063_Lobby_Touch_Love_1:
+  en: Hey, Old-Timer, let's go look at some Halloween toys ♡
+  ko: 아저씨~ 나랑 할로윈 장난감 구경하러 가자♡
+  ja: |-
+    おじさん～、私と一緒に
+    ハロウィンのおもちゃを見に行こうよ♡
+c063_Lobby_Touch_Love_2:
+  en: From now on, you're gonna spend every Halloween with me, okay? ♡
+  ko: 앞으로 할로윈은 매번 나랑 보내는 거야♡
+  ja: |-
+    これから毎年、
+    ハロウィンは私と過ごしてね♡
+c063_Lobby_Touch_Love_3:
+  en: I'll only give you the tastiest candy ♡
+  ko: 아저씨한테는 맛있는 사탕만 줄게♡
+  ja: おじさんには、おいしいキャンディだけをあげる♡
+c063_Lobby_Stay_1:
+  en: Old-Timer! If you don't get out here quickly, I'm gonna cast a terrible curse
+    on you!
+  ko: |-
+    아저씨~!
+    빨리 안 오면, 무시무시한 저주를 걸어버릴 거야!
+  ja: |-
+    おじさん～！
+    早く来てくれないと、こわ～い呪いを
+    かけちゃうからね！
+c063_Lobby_Stay_Love_1:
+  en: Hmm...! I gotta think of some pranks I can pull with Old-Timer this Halloween
+    ♡
+  ko: 흐흥~ 아저씨랑 할로윈에 무슨 장난 칠지 생각해야지♡
+  ja: |-
+    フフン～、ハロウィンに
+    おじさんとどんないたずらをするか
+    考えなくちゃ♡
+c063_Outpost_Touch_1:
+  en: Come check out the toy store! This little witch will be waiting for you ♡
+  ko: 장난감 가게에 놀러 와! 마녀가 기다리고 있으니까♡
+  ja: |-
+    おもちゃ屋さんに遊びに来て！
+    魔女が待ってるから♡
+c063_Outpost_Touch_2:
+  en: Old-Timer, have you seen Mica? We said we'd make Halloween decorations together,
+    but she ran off!
+  ko: |-
+    아저씨, 혹시 미카 못 봤어?
+    같이 할로윈 장식 만들기로 했는데 어디 간 거야~!
+  ja: |-
+    おじさん、ミカを見なかった？
+    一緒にハロウィンの飾りを作るって約束したのに～！
+c063_Outpost_Touch_3:
+  en: I hid some pumpkin candy around here. Try to find it!
+  ko: 여기에 호박 사탕 숨겨놨어, 한번 찾아봐!
+  ja: |-
+    ここにカボチャのキャンディを隠しておいたよ。
+    探してみて！
+c063_Gacha_Get_1:
+  en: Belorta the witch, reporting for candy! Let's have some fun, Old-Timer!
+  ko: |-
+    마녀 벨로타 등장이요~!
+    아저씨, 오늘도 재밌게 놀자!
+  ja: |-
+    魔女っ子ベロータ参上～！
+    おじさん、今日も楽しく遊ぼう！
+c063_Reinforce_1:
+  en: Now I'll have an even better Halloween ♡
+  ko: 할로윈에 더 신나게 놀 수 있겠어♡
+  ja: |-
+    ハロウィンだからいつもより
+    もっと楽しく遊べそう♡
+c063_Reinforce_2:
+  en: I feel like I'm becoming a real witch!
+  ko: 진짜 마녀가 되어가는 기분이야~!
+  ja: 本物の魔女になった気分～！
+c063_Reinforce_3:
+  en: I just thought of a fun prank!
+  ko: 재밌는 장난이 생각났어!
+  ja: おもしろいいたずらを思いついちゃった！
+c063_Gift_1:
+  en: A Halloween present? Thanks ♡
+  ko: 할로윈 선물이야? 고마워♡
+  ja: ハロウィンのプレゼント？ありがとう♡
+c063_Gift_2:
+  en: Can I display this at the toy store? I want to look at it every day ♡
+  ko: |-
+    이거 장난감 가게에 진열해도 돼?
+    매일매일 보고 싶거든♡
+  ja: |-
+    これ、おもちゃ屋さんに飾ってもいい？
+    毎日見てたいんだもん♡
+c063_Gift_3:
+  en: I always love your gifts!
+  ko: 아저씨가 주는 건 뭐든지 좋아!
+  ja: おじさんがくれるものなら何でも嬉しい！
+c063_Attractive_Up_1:
+  en: I like you even more than candy ♡
+  ko: 사탕보다 아저씨가 더 좋아♡
+  ja: キャンディよりおじさんの方が好き♡
+c063_Attractive_Up_2:
+  en: If anyone's bothering you, just let me know. I'll get them back with a prank!
+  ko: 아저씨 누가 괴롭히면 말해, 내가 장난으로 혼내 줄게!
+  ja: |-
+    おじさん、もし誰かにいじめられたら言ってね。
+    私がいたずらでこらしめてあげるから！
+c063_Attractive_Up_3:
+  en: Spending Halloween with you is the best ♡
+  ko: 역시 할로윈은 아저씨랑 보내는 게 제일 재밌어♡
+  ja: |-
+    やっぱりハロウィンは
+    おじさんと過ごすのが一番楽しいな♡
+c063_Party_Deploy_1:
+  en: Can I bring my candy bucket?
+  ko: 사탕 바구니 들고 가도 돼?
+  ja: キャンディのカゴを持っていってもいい？
+c063_Field_Touch_1:
+  en: I'm here, Old-Timer!
+  ko: 나 여기 있어, 아저씨!
+  ja: 私はここだよ、おじさん！
+c063_Field_Go_1:
+  en: I can't believe I don't get a broom!
+  ko: 마녀인데 빗자루가 없다니~
+  ja: 魔女なのにほうきがないなんて～
+c063_Battle_Enter_1:
+  en: Eek! Spooky monsters!
+  ko: 꺄아~ 무서운 게 잔뜩 나타났다~!
+  ja: きゃあ～怖いのがいっぱい出てきた～！
+c063_Battle_Ready_1:
+  en: Let's get this Halloween party started!
+  ko: 할로윈 파티를 시작해 볼까~?
+  ja: ハロウィンパーティーを始めよっか～？
+c063_Battle_Ready_2:
+  en: I'm gonna put a curse on you!
+  ko: 저주를 걸어주지!♡
+  ja: 呪いをかけてあげる♡
+c063_Battle_Ready_3:
+  en: Let me show you what a witch can do!
+  ko: 마녀의 힘을 보여줄게!
+  ja: 魔女の力を見せてあげる！
+c063_Reload_1:
+  en: Getting my next prank ready.
+  ko: 장난 준비 중~
+  ja: いたずらの準備中～
+c063_Reload_2:
+  en: Witches need time to prepare too!
+  ko: 마녀도 준비가 필요해!
+  ja: 魔女だって準備が必要なの！
+c063_Reload_3:
+  en: Maybe I'll sneak just one piece of candy...
+  ko: 몰래 사탕 하나만 먹을까~?
+  ja: こっそりひとつだけキャンディ食べちゃおっかな～？
+c063_Ult_Skill_Ready_1:
+  en: Get ready for a surprise gift ♡
+  ko: 깜짝 선물 준비 끝♡
+  ja: サプライズプレゼント、準備完了♡
+c063_Ult_Skill_1:
+  en: Little witch triiick!
+  ko: Little Witch Trick--!!
+  ja: Little Witch Trick--!!
+c063_FullBurst_1:
+  en: Here we go! Curse 'em with all you got!
+  ko: 지금이야! 저주를 퍼붓자!
+  ja: 今だ！呪いをかけまくっちゃえ！
+c063_Kill_Monster_1:
+  en: Get pranked ♡
+  ko: 장난 성공♡
+  ja: いたずら成功♡
+c063_Kill_Monster_2:
+  en: Too easy ♡
+  ko: 너무 쉽잖아♡
+  ja: 楽勝すぎ♡
+c063_Kill_Monster_3:
+  en: See that, Old-Timer?!
+  ko: 아저씨, 봤어?!
+  ja: おじさん、見た！？
+c063_Damage_1:
+  en: Eek!
+  ko: 꺅!
+  ja: きゃっ！
+c063_Damage_2:
+  en: Ah!
+  ko: 앗!
+  ja: あっ！
+c063_Damage_3:
+  en: Ouch!
+  ko: 아야!
+  ja: いたっ！
+c063_Die_1:
+  en: I was hoping to have a better Halloween...
+  ko: 할로윈… 더 즐기고 싶었는데….
+  ja: ハロウィン…もっと楽しみたかったのに…
+c063_Win_1:
+  en: Mwahaha! A witch always wins ♡
+  ko: 꺄하하! 마녀의 승리야♡
+  ja: キャハハ！魔女の勝ち♡
+63_cv_ja:
+  en: 'CV: Fairouz Ai'
+  ko: 'CV : 파이루즈 아이'
+  ja: CV：ファイルーズあい
+63_cv_ko:
+  en: 'CV: Son Seon-yeong'
+  ko: 'CV : 손선영'
+  ja: CV：ソン・ソニョン
+63_cv_en:
+  en: 'CV: Skyler Davenport'
+  ko: 'CV : 스카일러 데이븐포트'
+  ja: CV：Skyler Davenport

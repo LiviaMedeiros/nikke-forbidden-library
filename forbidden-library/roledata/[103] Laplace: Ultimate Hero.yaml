@@ -84,16 +84,21 @@ character_shot_description_localkey_rl_up:
     ■ 버스트 3단계 진입 시 자신에게
     <color=#00AEFF>[공격 대미지 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
   ja: |-
-    ■通常攻撃で{description_value_08}回攻撃した時、自分がエレクトリックパワー・フル・フルチャージ状態なら自分に
+    ■通常攻撃で{description_value_08}回攻撃した時、
+    自分がエレクトリックパワー・フル・
+    フルチャージ状態なら自分に
     <color=#00AEFF>「オーバーエネルギー{description_value_09}％▲」「最大{description_value_01}％」「持続」</color>
-    ■自分がオーバーエネルギー{description_value_01}％状態になった時、
-    <word_group=10100>初期化</word_group>した後、自分に
-    <color=#00AEFF>「オーバーエネルギーの段階増加」「オーバーエネルギーの段階別の効果」「<word_group=10028>下位効果のスタック適用</word_group>」
+    ■自分がオーバーエネルギー{description_value_01}％状態に
+    なった時、<word_group=10100>初期化</word_group>した後、自分に
+    <color=#00AEFF>「オーバーエネルギーの段階増加」
+    「オーバーエネルギーの段階別の効果」
+    「<word_group=10028>下位効果のスタック適用</word_group>」
     1段階：「最大HPのみ{description_value_02}％▲」「持続」
     2段階：「最大HPのみ{description_value_03}％▲」「持続」
     3段階：「最大HPのみ{description_value_04}％▲」「持続」
     4段階：「最大HPのみ{description_value_05}％▲」「持続」</color>
-    ■バースト3段階突入時、自分に<color=#00AEFF>「攻撃ダメージ{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+    ■バースト3段階突入時、自分に
+    <color=#00AEFF>「攻撃ダメージ{description_value_06}％▲」「{description_value_07}秒間維持」</color>
 skill_name_1003:
   en: Skill 2
   ko: 스킬2
@@ -136,15 +141,18 @@ skill_name_1003:
     ■フルチャージして攻撃した時、自分に
     <color=#00AEFF>「ウォームアップ：チャージ速度{description_value_02}％▲」
     「{description_value_03}スタック」「持続」</color>
-    ■自分がウォームアップのフルスタック状態なら
-    スタック解除後、自分に
+    ■自分がウォームアップの
+    フルスタック状態ならスタック解除後、
+    自分に
     <color=#00AEFF>「使用武器変更：
     エレクトリックパワー・フル・フルチャージ」
     ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_05}％のダメージ
-    最大装弾数：{description_value_06}発（<word_group=10107>使用武器変更時、最大装弾数に対する効果更新</word_group>）
+    最大装弾数：{description_value_06}発（<word_group=10107>使用武器変更時、
+    最大装弾数に対する効果更新</word_group>）
     <word_group=10097>解除条件</word_group>：全弾消費した時
     追加効果：貫通特化</color>
-    ■エレクトリックパワー・フル・フルチャージ状態が終了した時、自分に
+    ■エレクトリックパワー・フル・
+    フルチャージ状態が終了した時、自分に
     <color=#00AEFF>「残弾数{description_value_07}％減少」</color>
 skill_name_1002:
   en: Skill 1
@@ -175,10 +183,10 @@ skill_name_1002:
     ■敵全体に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の
     バーストスキルダメージ」</color>
-    ■自分がオーバーエネルギー状態1段階以上なら、
-    照準線に最も近い敵1機に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％×オーバーエネルギー
-    段階の追加ダメージ」</color>
+    ■自分がオーバーエネルギー状態
+    1段階以上なら、照準線に最も近い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％×
+    オーバーエネルギー段階の追加ダメージ」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

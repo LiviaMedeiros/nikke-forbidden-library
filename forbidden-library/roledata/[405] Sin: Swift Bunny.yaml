@@ -67,14 +67,14 @@ character_shot_description_localkey_sr_up:
     <color=#00AEFF>Noise Bullets
     Function: Changes some attacks' damage into true damage.
     Effect 1: Normal attacks deal true damage. This effect is continuous and cannot be removed.
-    Effect 2: Swift Piercing deals true damage. This effect is continuous and cannot be removed.</color>
+    Effect 2: Swift Carrot deals true damage. This effect is continuous and cannot be removed.</color>
     ■ Activates only if this unit is in the <word_group=10110>Bunny Mode</word_group>: Stance state.
     <color=#00AEFF>Enhanced Bullets
     Function: Enhances this unit's offensive capabilities.
     Effect 1: Critical Rate ▲ {description_value_01}%. This effect is continuous and cannot be removed.
     Effect 2: Critical Damage ▲ {description_value_02}%. This effect is continuous and cannot be removed.</color>
     ■ Activates when using Burst Skill. Affects self.
-    <color=#00AEFF>Swift Piercing: Changes the weapon in use
+    <color=#00AEFF>Swift Carrot: Changes the weapon in use
     Charge Time: Fixed at 0.5 sec
     Damage: {description_value_03}% of <word_group=10025>final</word_group> ATK
     Full Charge Damage: 300%
@@ -84,26 +84,28 @@ character_shot_description_localkey_sr_up:
     <color=#00AEFF>[노이즈 불렛]
     기능 : 공격을 방어력 무시 대미지로 변경합니다.
     효과 1 : [일반 공격을 방어력 무시 대미지로 적용] [지속] [해제 불가]
-    효과 2 : [스위프트 피어싱을 방어력 무시 대미지로 적용] [지속] [해제 불가]</color>
+    효과 2 : [스위프트 캐럿을 방어력 무시 대미지로 적용] [지속] [해제 불가]</color>
     ■ 자신이 <word_group=10110>바니 모드</word_group> : 스탠스 상태일 때 한하여 자신에게
     <color=#00AEFF>[인헨스 불렛]
     기능 : 공격 능력을 강화합니다.
     효과 1 : [크리티컬 확률 {description_value_01}% ▲] [지속] [해제 불가]
     효과 2 : [크리티컬 대미지 {description_value_02}% ▲] [지속] [해제 불가]</color>
     ■ 버스트 스킬 사용 시 자신에게
-    <color=#00AEFF>[스위프트 피어싱 : 사용 무기 변경] :
+    <color=#00AEFF>[스위프트 캐럿 : 사용 무기 변경] :
     차지 시간 : 0.5초로 고정
     대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_03}%
     풀 차지 대미지 : 300% 대미지
     유지 시간 : {description_value_04}초</color>
   ja: |-
     ■自分が
-    <word_group=10110>バニーモード</word_group>：エンゲージ状態の時のみ、自分に
+    <word_group=10110>バニーモード</word_group>：エンゲージ状態の時のみ、
+    自分に
     <color=#00AEFF>「ノイズバレット」
     機能：攻撃を防御力無視ダメージに変更
-    効果1：「通常攻撃に防御力無視ダメージを適用」
+    効果1：
+    「通常攻撃に防御力無視ダメージを適用」
     「持続」「解除不可」
-    効果2：「スウィフトピアシングを防御力無視ダメージとして適用」
+    効果2：「スウィフトキャロットを防御力無視ダメージとして適用」
     「持続」「解除不可」</color>
     ■自分が
     <word_group=10110>バニーモード</word_group>：スタンス状態の時のみ、自分に
@@ -114,7 +116,7 @@ character_shot_description_localkey_sr_up:
     効果2：「クリティカルダメージ{description_value_02}％▲」
     「持続」「解除不可」</color>
     ■バーストスキル使用時、自分に
-    <color=#00AEFF>「スウィフトピアシング：使用武器変更」：
+    <color=#00AEFF>「スウィフトキャロット：使用武器変更」：
     チャージ時間：0.5秒に固定
     ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_03}％
     フルチャージダメージ：300％
@@ -130,7 +132,7 @@ skill_name_1003:
 24051_description:
   en: "■ Activates at the start of battle. Affects self.\n<color=#00AEFF>ATK ▲ {description_value_01}%.
     This effect is continuous.</color>\n■ Activates during Full Charge if this unit
-    is not in the Swift Piercing state. Affects self.\n<color=#00AEFF>Normal Attack
+    is not in the Swift Carrot state. Affects self.\n<color=#00AEFF>Normal Attack
     Damage <word_group=10029>Multiplier</word_group> ▲ {description_value_02}% for
     {description_value_03} round(s).\nCharge Damage ▲ {description_value_04}% for
     {description_value_05} round(s).</color>\n■ Activates at the start of battle and
@@ -150,7 +152,7 @@ skill_name_1003:
     Engage state.\n<color=#00AEFF>Initiates <word_group=10110>Bunny Mode</word_group>:
     Stance. This effect is continuous and cannot be removed.</color>"
   ko: "■ 전투 시작 시 자신에게\n<color=#00AEFF>[공격력 {description_value_01}% ▲] [지속] </color>\n■
-    풀 차지 시 자신이 스위프트 피어싱 상태가 아니라면 자신에게\n<color=#00AEFF>[일반 공격 대미지 <word_group=10029>배율</word_group>
+    풀 차지 시 자신이 스위프트 캐럿 상태가 아니라면 자신에게\n<color=#00AEFF>[일반 공격 대미지 <word_group=10029>배율</word_group>
     {description_value_02}% ▲] [{description_value_03}발 유지]\n[차지 대미지 {description_value_04}%
     ▲] [{description_value_05}발 유지]</color>\n■ 전투 시작 시와 풀 차지 상태를 {description_value_06}초
     이상 유지 시 자신에게\n<color=#00AEFF>[상태에 맞는 <word_group=10110>바니 모드</word_group>만 적용]</color>\n자신이
@@ -160,12 +162,14 @@ skill_name_1003:
     [해제 불가]</color>\n■ 자신에게 <word_group=10110>바니 모드</word_group> : 인게이지 적용 시 <word_group=10110>바니
     모드</word_group> : 스탠스 상태인 아군 전체에게 \n<color=#00AEFF>[<word_group=10110>바니 모드</word_group>
     : 인게이지] [지속] [해제 불가]</color>\n■ 자신에게 <word_group=10110>바니 모드</word_group> : 스탠스
-    적용 시 <word_group=10110>바니 모드</word_group> : 인게이지 모드인 아군 전체에게\n<color=#00AEFF>[<word_group=10110>바니
+    적용 시 <word_group=10110>바니 모드</word_group> : 인게이지 상태인 아군 전체에게\n<color=#00AEFF>[<word_group=10110>바니
     모드</word_group> : 스탠스] [지속] [해제 불가]</color>"
   ja: |-
     ■戦闘開始時、自分に
     <color=#00AEFF>「攻撃力{description_value_01}％▲」「持続」</color>
-    ■フルチャージした時、自分がスウィフトピアシング状態ではない場合は自分に
+    ■フルチャージした時、
+    自分がスウィフトキャロット状態ではない場合は
+    自分に
     <color=#00AEFF>「通常攻撃ダメージ<word_group=10029>倍率</word_group>{description_value_02}％▲」
     「{description_value_03}発間維持」
     「チャージダメージ{description_value_04}％▲」
@@ -176,14 +180,17 @@ skill_name_1003:
     自分が<word_group=10110>バニーモード</word_group>：スタンス状態なら、
     <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：エンゲージ」
     「持続」「解除不可」</color>
-    自分が<word_group=10110>バニーモード</word_group>：スタンス状態でなければ
+    自分が<word_group=10110>バニーモード</word_group>：スタンス状態で
+    なければ
     <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：スタンス」
     「持続」「解除不可」</color>
-    ■自分に<word_group=10110>バニーモード</word_group>：エンゲージが適用時、<word_group=10110>バニーモード</word_group>：スタンス状態の味方全体に
+    ■自分に<word_group=10110>バニーモード</word_group>：エンゲージが
+    適用時、<word_group=10110>バニーモード</word_group>：スタンス状態の
+    味方全体に
     <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：エンゲージ」
     「持続」「解除不可」</color>
     ■自分に<word_group=10110>バニーモード</word_group>：スタンスが適用時、
-    <word_group=10110>バニーモード</word_group>：エンゲージモードの味方全体に
+    <word_group=10110>バニーモード</word_group>：エンゲージ状態の味方全体に
     <color=#00AEFF>「<word_group=10110>バニーモード</word_group>：スタンス」
     「持続」「解除不可」</color>
 skill_name_1002:
@@ -217,13 +224,16 @@ skill_name_1002:
     ■自分に
     <color=#00AEFF>「攻撃ダメージ{description_value_01}％▲」「{description_value_02}秒間維持」</color>
     ■敵全体に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％のバーストスキルダメージ」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_03}％の
+    バーストスキルダメージ」</color>
     ■自分が<word_group=10110>バニーモード</word_group>：スタンス状態なら、
     同じ敵に
     <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_04}％の追加ダメージ」</color>
-    ■自分が<word_group=10110>バニーモード</word_group>：エンゲージ状態なら、
+    ■自分が
+    <word_group=10110>バニーモード</word_group>：エンゲージ状態なら、
     同じ敵に
-    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の防御力無視ダメージ」</color>
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_05}％の
+    防御力無視ダメージ」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

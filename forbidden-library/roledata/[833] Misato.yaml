@@ -59,7 +59,7 @@ character_shot_description_localkey_smg_down:
 28332_description:
   en: |-
     ■ Only activates if in the Shooting Manual state. Affects all allies.
-    <color=#00AEFF><word_group=10054>Damage dealt to Shield</word_group> ▲ {description_value_01}% continuously.</color>
+    <color=#00AEFF><word_group=10054>Damage dealt to shields</word_group> ▲ {description_value_01}% continuously.</color>
     ■ Only activates when Shooting Manual is at max stacks. Affects self.
     <color=#00AEFF>Outgoing Healing ▲ {description_value_02}% continuously.</color>
   ko: |-

@@ -57,12 +57,12 @@ character_shot_description_localkey_mg_down:
 23612_description:
   en: |-
     ■ Activates after performing {description_value_01} normal attacks while in the Nano Coating state. Affects self.
-    <color=#00AEFF><word_group=10048>Restores Shield HP</word_group> equal to {description_value_02}% the skill user's <word_group=10025>final</word_group> max HP.</color>
+    <color=#00AEFF><word_group=10048>Restores shield HP</word_group> an amount equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
     ■ Activates when using Burst Skill while not in the Nano Coating state. Affects self.
     <color=#00AEFF>Effects vary according to the number of uses. Each subsequent effect triggers all effects before it:</color>
-    <color=#00AEFF>Once: <word_group=10047>Next Shield's HP</word_group> ▲ {description_value_03}% continuously.</color>
-    <color=#00AEFF>Twice: <word_group=10047>Next Shield's HP</word_group> ▲ {description_value_04}% continuously.</color>
-    <color=#00AEFF>Three times: <word_group=10047>Next Shield's HP</word_group> ▲ {description_value_05}% continuously.</color>
+    <color=#00AEFF>Once: <word_group=10047>Next shield's HP</word_group> ▲ {description_value_03}% continuously.</color>
+    <color=#00AEFF>Twice: <word_group=10047>Next shield's HP</word_group> ▲ {description_value_04}% continuously.</color>
+    <color=#00AEFF>Three times: <word_group=10047>Next shield's HP</word_group> ▲ {description_value_05}% continuously.</color>
   ko: |-
     ■ 일반 공격 {description_value_01}회 공격 시 자신이 나노 코팅 상태라면 자신에게
     <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 <word_group=10048>보호막 체력 회복</word_group> {description_value_02}%]</color>
