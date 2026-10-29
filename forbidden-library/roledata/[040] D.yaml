@@ -59,7 +59,7 @@ character_shot_description_localkey_smg_down:
   en: |-
     ■ Activates when the <word_group=10105>stage target</word_group> appears. Affects all allies.
     <color=#00AEFF><word_group=10015>Fills Burst Gauge</word_group> by {description_value_01}%. Activates {description_value_02} time(s) per battle.
-    Gains <word_group=10010>immunity to Stun</word_group> for {description_value_03} sec.</color>
+    Grants <word_group=10010>immunity to stun</word_group> for {description_value_03} sec.</color>
     ■ Activates when the <word_group=10105>stage target</word_group> appears. Affects self.
     <color=#00AEFF><word_group=10009>Elemental Advantage Attack Damage</word_group> ▲ {description_value_04}% for {description_value_05} sec.</color>
   ko: |-
@@ -117,7 +117,7 @@ skill_name_1002:
     <color=#00AEFF> Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
     ■ Affects all Attacker allies.
     <color=#00AEFF><word_group=10011>Damage to Parts</word_group> ▲ {description_value_02}% for {description_value_03} sec.</color>
-    ■ Affects all allies if the skill user has <word_group=10010>immunity to Stun</word_group>.
+    ■ Affects all allies if the skill user has <word_group=10010>immunity to stun</word_group>.
     <color=#00AEFF>Full Burst Duration ▲ {description_value_04} sec.</color>
   ko: |-
     ■ 적 전체에게

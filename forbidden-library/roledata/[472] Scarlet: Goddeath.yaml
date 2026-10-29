@@ -1,0 +1,585 @@
+---
+472_name:
+  en: 'Scarlet: Goddeath'
+  ko: '홍련 : 신살'
+  ja: 紅蓮：神殺
+c472_description:
+  en: Scarlet has become whole after inheriting Rose's resolve. Carrying her sister's
+    wish in her heart, she raises her sword towards a future she can share with her
+    loved ones.
+  ko: |-
+    장화의 의지를 이어받아 완전해진 홍련.
+    언니가 남긴 바람을 가슴에 품고,
+    소중한 이들과 함께할 미래를 향해 검을 든다.
+  ja: |-
+    薔花の意志を継ぎ、完全体となった紅蓮。
+    姉が残した願いを胸に抱き、
+    大切な人たちと共にある未来に向かって剣を構える
+472_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_472:
+  en: 'Scarlet: Goddeath''s Spare Body'
+  ko: '홍련 : 신살 스페어 바디'
+  ja: 紅蓮：神殺のスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_ar_down:
+  en: Assault Rifle
+  ko: 소총
+  ja: アサルトライフル
+character_shot_description_localkey_ar_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+24722_name:
+  en: 'Beyond the Fade: Sword Dance'
+  ko: 화무십일일홍 · 난무
+  ja: 花無十一日紅・乱舞
+24722_description:
+  en: |-
+    ■ Activates after landing {description_value_01} critical hits with normal attacks while not in the Beyond the Fade: Full Bloom state. Affects self.
+    <color=#00AEFF>Reloads {description_value_02} round(s).</color>
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF><word_group=10111>Into the Fray</word_group>: At One With the Sword
+    Function: Enhances Iai damage and the offensive capabilities of normal attacks.
+    Effect 1: Normal Attack Critical Rate ▲ {description_value_03}% for {description_value_04} sec. This effect cannot be removed.
+    Effect 2: Attack Damage ▲ {description_value_05}% for {description_value_06} sec. This effect cannot be removed.
+    Effect 3: Iai's additional damage is <word_group=10084>scaled</word_group> by 100% for {description_value_07} sec. This effect cannot be removed.</color>
+  ko: |-
+    ■ 일반 공격 크리티컬 {description_value_01}회 명중 시 자신이 화무십일일홍 · 만개 상태가 아니라면 자신에게
+    <color=#00AEFF>[탄환 충전 {description_value_02}발]</color>
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[<word_group=10111>임전</word_group> : 신검합일]
+    기능 : 일반 공격의 공격 능력과 거합 효과가 강화됩니다.
+    효과 1 : [일반 공격 크리티컬 확률 {description_value_03}% ▲] [{description_value_04}초 유지] [해제 불가]
+    효과 2 : [공격 대미지 {description_value_05}% ▲] [{description_value_06}초 유지] [해제 불가]
+    효과 3 : [거합 추가 대미지 배율이 100% <word_group=10084>증가 상태로 변경</word_group>] [{description_value_07}초 유지] [해제 불가]</color>
+  ja: |-
+    ■通常攻撃が{description_value_01}回クリティカル命中した時、
+    自分が花無十一日紅・満開状態でなければ、自分に
+    <color=#00AEFF>「弾丸チャージ{description_value_02}発」</color>
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「<word_group=10111>臨戦</word_group>：身剣合一」
+    機能：通常攻撃の攻撃能力と居合効果を
+    強化する
+    効果1：
+    「通常攻撃のクリティカル確率{description_value_03}％▲」
+    「{description_value_04}秒間維持」「解除不可」
+    効果2：「攻撃ダメージ{description_value_05}％▲」
+    「{description_value_06}秒間維持」「解除不可」
+    効果3：「居合の追加ダメージ倍率が100％
+    <word_group=10084>効果量に対し増加</word_group>」「{description_value_07}秒間維持」
+    「解除不可」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24721_name:
+  en: 'Beyond the Fade: Bloom'
+  ko: 화무십일일홍 · 개화
+  ja: 花無十一日紅・開花
+24721_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF><word_group=10111>Into the Fray</word_group>: Serene Mind
+    Function: Normal attacks become wide-range piercing attacks and deal additional damage to the enemy.
+    Effect 1: Affects self. Gains Pierce. This effect is continuous and cannot be removed.
+    Effect 2: Affects self. Normal Attack Critical Rate ▲ {description_value_01}%. This effect is continuous and cannot be removed.
+    Effect 3: Activates when performing a normal attack. Affects the enemy unit nearest to the crosshair. Iai: Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+    ■ Activates when entering Full Burst. Affects self.
+    <color=#00AEFF>Critical Damage ▲ {description_value_03}% for {description_value_04} sec.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10111>임전</word_group> : 명경지수]
+    기능 : 일반 공격이 넓은 폭의 관통 공격으로 발사되고 적에게 추가 대미지를 가합니다.
+    효과 1 : 자신에게 [관통 특화] [지속] [해제 불가]
+    효과 2 : 자신에게 [일반 공격 크리티컬 확률 {description_value_01}% ▲] [지속] [해제 불가]
+    효과 3 : 일반 공격 시 조준선에 가장 가까운 적 1기에게 [거합 : <word_group=10025>최종</word_group> 공격력 {description_value_02}% 추가 대미지]</color>
+    ■ 풀 버스트 타임 시작 시 자신에게
+    <color=#00AEFF>[크리티컬 대미지 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10111>臨戦</word_group>：明鏡止水」
+    機能：通常攻撃が広範囲の貫通攻撃となり、
+    敵に追加ダメージを与える
+    効果1：自分に「貫通特化」「持続」
+    「解除不可」
+    効果2：自分に
+    「通常攻撃のクリティカル確率
+    {description_value_01}％▲」
+    「持続」「解除不可」
+    効果3：通常攻撃をした時、
+    照準線に最も近い敵1機に
+    「居合：<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の
+    追加ダメージ」</color>
+    ■フルバーストタイムが発動した時、自分に
+    <color=#00AEFF>「クリティカルダメージ{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14723_name:
+  en: 'Beyond the Fade: Goddeath'
+  ko: 화무십일일홍 · 신살
+  ja: 花無十一日紅・神殺
+14723_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Beyond the Fade: Full Bloom: Changes the weapon in use.
+    Function: Enhances Scarlet: Goddeath and increases the range of normal attacks.
+    Damage: {description_value_01}% of <word_group=10025>final</word_group> ATK
+    Duration: {description_value_02} sec
+    Additional Effects
+    Effect 1: Normal Attack Range ▲ 100% for {description_value_03} sec. This effect cannot be removed.
+    Effect 2: ATK ▲ {description_value_04}% for {description_value_05} sec. This effect cannot be removed.</color>
+    ■ Affects the {description_value_06} enemy unit(s) nearest to the crosshair.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[화무십일일홍 · 만개 : 사용 무기 변경]
+    기능 : 자신을 강화하고 일반 공격을 더 넓은 폭으로 공격합니다.
+    대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지
+    유지 시간 : {description_value_02}초
+    추가 효과
+    효과 1 : [일반 공격 폭 100% ▲] [{description_value_03}초 유지] [해제 불가]
+    효과 2 : [공격력 {description_value_04}% ▲] [{description_value_05}초 유지] [해제 불가]</color>
+    ■ 조준선에 가장 가까운 적 {description_value_06}기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 추가 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「花無十一日紅・満開：使用武器変更」
+    機能：自分を強化し通常攻撃の範囲が
+    さらに拡大
+    ダメージ：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ
+    持続時間：{description_value_02}秒
+    追加効果
+    効果1：「通常攻撃の範囲100％▲」
+    「{description_value_03}秒間維持」「解除不可」
+    効果2：「攻撃力{description_value_04}％▲」
+    「{description_value_05}秒間維持」「解除不可」</color>
+    ■照準線に最も近い敵{description_value_06}機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_07}％の追加ダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+470_name:
+  en: Red Hood
+  ko: 레드 후드
+  ja: レッドフード
+224_name:
+  en: 'Snow White: Innocent Days'
+  ko: '스노우 화이트 : 이노센트 데이즈'
+  ja: スノーホワイト：イノセントデイズ
+225_name:
+  en: 'Scarlet: Black Shadow'
+  ko: '홍련 : 흑영'
+  ja: 紅蓮：ブラックシャドウ
+226_name:
+  en: 'Rapunzel: Pure Grace'
+  ko: '라푼젤 : 퓨어 그레이스'
+  ja: ラプンツェル：ピュアグレイス
+471_name:
+  en: 'Snow White: Heavy Arms'
+  ko: '스노우 화이트 : 헤비암즈'
+  ja: スノーホワイト：ヘビーアームズ
+473_name:
+  en: 'Rapunzel: Sanctuary'
+  ko: '라푼젤 : 생츄어리'
+  ja: ラプンツェル：サンクチュアリ
+c472_Lobby_Touch_1:
+  en: "'Twas a great blessing to behold my sister one final time."
+  ko: 마지막으로, 언니를 볼 수 있어 좋았네.
+  ja: 最後に、姉さんの顔が見られてよかった。
+c472_Lobby_Touch_2:
+  en: Let not haste overcome thee. One drink, and thy trouble shall seem no great
+    matter.
+  ko: |-
+    급하게 굴 것 없네.
+    술 한잔 기울이고 나면 별것 아니게 될 테니.
+  ja: |-
+    急ぐ必要はない。
+    一杯飲めば、大したことではなくなるさ。
+c472_Lobby_Touch_3:
+  en: I dream'd a dream much too sumptuous for one of my estate. I shall never forget
+    it.
+  ko: |-
+    분에 넘치는 호화로운 꿈을 꾸었지 뭔가.
+    평생 잊지 못할 것 같군그래.
+  ja: |-
+    身に合わぬぜいたくな夢を見てしまったようだ。
+    一生涯忘れ得ぬであろうな。
+c472_Lobby_Touch_Love_1:
+  en: Thy face appears to shine. Doth our reunion after this long while bring thee
+    joy?
+  ko: |-
+    표정이 밝군.
+    간만에 보니 반가워서 그런 건가?
+  ja: |-
+    明るい顔だねぇ。
+    久方ぶりに会えて嬉しいかい？
+c472_Lobby_Touch_Love_2:
+  en: Many things have I cleaved in my days, but never would I wish to sever the bond
+    betwixt us.
+  ko: |-
+    내 많은 것을 베어왔네만,
+    도령과의 인연만큼은 베고 싶지 않아.
+  ja: |-
+    多くのものを斬ってきたが…
+    ぼっちゃんとの縁だけは斬りたくないものだ。
+c472_Lobby_Touch_Love_3:
+  en: To behold my comrades thus restored doth awaken within me new feeling.
+  ko: |-
+    이것 참.
+    새로워진 동료들의 모습을 보니 감회가 새롭군그래.
+  ja: |-
+    さてはて…
+    一皮むけた仲間たちの姿は、感無量だねぇ。
+c472_Lobby_Stay_1:
+  en: Hath thy business taken thee elsewhere? Thou art aloof as a passing shadow.
+  ko: |-
+    도령은 늘 바쁘군.
+    얼굴 보기가 참 힘들단 말이지.
+  ja: |-
+    相変わらず忙しいようだねぇ。
+    顔を拝むのも一苦労だ。
+c472_Lobby_Stay_Love_1:
+  en: Folly followeth haste. I shall prepare us some fine liquor; return in thine
+    own good time.
+  ko: |-
+    서두르면 일을 그르치는 법.
+    좋은 술을 준비해 놓고 기다릴 테니 천천히 오시게.
+  ja: |-
+    急いては事を仕損じるというであろう。
+    いい酒を用意して待っている、のんびり来ておくれ。
+c472_Outpost_Touch_1:
+  en: Knowest thou where to find good, strong drink? Lead me thither.
+  ko: |-
+    괜찮은 술을 맛볼 수 있는 곳은 어디인가?
+    안내해 주게.
+  ja: |-
+    うまい酒が味わえる場所はどこだい？
+    案内しておくれ。
+c472_Outpost_Touch_2:
+  en: Pray, what manner of splendidly adorned edifice stands yonder?
+  ko: 호오, 저기 저 화려하게 생긴 건물은 뭘 하는 곳인가?
+  ja: おや…あの目を引く建物は、 いったい何をするところだい？
+c472_Outpost_Touch_3:
+  en: Much bettered is this place since my previous visitation. The fruit, no doubt,
+    of thine endeavors.
+  ko: |-
+    이전에 왔을 때보다 훨씬 좋아졌군.
+    다 도령이 노력한 덕이겠지.
+  ja: |-
+    前に来た時より、 ずいぶんよくなっておる。
+    これもぼっちゃんの 努力のたまものだねぇ。
+c472_Gacha_Get_1:
+  en: I shall honor my sister's wish and live in happiness. Pray, accompany me, my
+    Lord.
+  ko: |-
+    나는 언니의 바람에 따라 행복해질걸세.
+    도령도 함께 해주게나.
+  ja: |-
+    私は姉さんの願い通り、幸せになるぞ。
+    ぼっちゃんもそばにいておくれ。
+c472_Reinforce_1:
+  en: This gift of thine doth truly amaze. My body is grown lighter.
+  ko: |-
+    참 신기한 재주일세.
+    몸이 한결 가벼워졌군.
+  ja: |-
+    実に不思議だね。
+    体がずいぶん軽くなった。
+c472_Reinforce_2:
+  en: Methinks I could cleave aught asunder.
+  ko: 뭐든 베어낼 수 있을 것만 같네.
+  ja: 今なら何でも斬れそうだ。
+c472_Reinforce_3:
+  en: It now seems to me our triumph on the surface is nigh.
+  ko: 지상 탈환이 머지않았다는 기분이 드는군.
+  ja: 地上奪還の時は遠くなさそうだ。
+c472_Gift_1:
+  en: Bestowest thou on me such a precious gift?
+  ko: 이런 귀한 걸 주어도 괜찮겠나?
+  ja: こんな貴重なものをもらってもいいのかい？
+c472_Gift_2:
+  en: I fear this may inspire jealousy in the others.
+  ko: 이거 원, 다른 낭자들의 시샘을 받을지도 모르겠군.
+  ja: おやおや、他のお嬢ちゃんたちに何と言われるか…
+c472_Gift_3:
+  en: When all is done, I shall repay this grace with a most exquisite bottle of liquor.
+  ko: |-
+    이 은혜는 모든 게 끝난 뒤에 갚겠네.
+    아주 좋은 술로 말일세.
+  ja: |-
+    この恩は、すべてが片付いた時に返すとしよう。
+    極上の酒という形でな。
+c472_Attractive_Up_1:
+  en: I see thou desirest to drink with me. Thy countenance tells all.
+  ko: 표정을 보아하니, 나와 한잔하고 싶은 모양이로군.
+  ja: その顔、私と一杯やりたいと言っているねぇ。
+c472_Attractive_Up_2:
+  en: I marvel how thou utterest such indiscretions with facility, my Lord.
+  ko: 도령은 어찌그리 낯간지러운 말을 잘하는 건지.
+  ja: ぼっちゃんは、よくあんな照れくさい言葉を口にできるものだ。
+c472_Attractive_Up_3:
+  en: Thy presence makes me drunk without liquor, as it were.
+  ko: 도령과 함께 있으면, 술이 없어도 취하는 기분일세.
+  ja: ぼっちゃんといると、酒がなくとも酔い心地だ。
+c472_Party_Deploy_1:
+  en: Shall I go forth?
+  ko: 벌써 내가 나설 차례인가.
+  ja: そろそろ私の出番か？
+c472_Field_Touch_1:
+  en: Didst thou call?
+  ko: 불렀는가.
+  ja: 呼んだかい？
+c472_Field_Go_1:
+  en: I shall lead.
+  ko: 앞장서겠네.
+  ja: 私が前に出よう。
+c472_Battle_Enter_1:
+  en: Let us give them battle.
+  ko: 자, 그럼 베러 가봄세.
+  ja: では、参ろう。
+c472_Battle_Ready_1:
+  en: Hold thy distance and observe, my Lord.
+  ko: 도령은 뒤에서 구경이나 하게나.
+  ja: ぼっちゃんは後ろで見ていておくれ。
+c472_Battle_Ready_2:
+  en: Good fortune. My body and blade are restless.
+  ko: 몸이 근질근질하던 차에 잘 됐군.
+  ja: ちょうど体がうずいていたところだ。
+c472_Battle_Ready_3:
+  en: Be not troubled. I shall end this swiftly.
+  ko: 걱정 말게, 금방 끝낼 테니.
+  ja: 心配には及ばぬ、すぐに片をつけよう。
+c472_Reload_1:
+  en: There is no need to rush.
+  ko: 서두르지 말게나.
+  ja: 慌てるでない。
+c472_Reload_2:
+  en: I am sheathing my blade.
+  ko: 납도 중일세.
+  ja: 刀を休ませよう。
+c472_Reload_3:
+  en: There is virtue in rest.
+  ko: 휴식 또한 중요한 법이지.
+  ja: 息継ぎもまた大切だ。
+c472_Ult_Skill_Ready_1:
+  en: The time has come.
+  ko: 때가 왔네.
+  ja: 時が来た。
+c472_Ult_Skill_1:
+  en: Bloom. Beyond the fade.
+  ko: 피어라. 화무십일일홍.
+  ja: 咲き誇れ…花無十一日紅。
+c472_FullBurst_1:
+  en: Grant them no respite.
+  ko: 쉴 틈 없이 밀어붙이겠네.
+  ja: 休む間は与えてやらぬぞ。
+c472_Kill_Monster_1:
+  en: An easy foe.
+  ko: 문제없네.
+  ja: 事もなし。
+c472_Kill_Monster_2:
+  en: Cleaved in twain.
+  ko: 잘 베어지는군.
+  ja: 実によく斬れる。
+c472_Kill_Monster_3:
+  en: Farewell.
+  ko: 잘 가게나.
+  ja: 往生せい。
+c472_Damage_1:
+  en: Ngh!
+  ko: 큿…!
+  ja: くっ…！
+c472_Damage_2:
+  en: Ugh!
+  ko: 읏…!
+  ja: うっ…！
+c472_Damage_3:
+  en: How vexing.
+  ko: 성가시군.
+  ja: 面倒な…
+c472_Die_1:
+  en: Is my blade... grown dull...?
+  ko: 이것 참… 베어내지 못했단 말인가.
+  ja: やれやれ…斬り損ねたか。
+c472_Win_1:
+  en: Are thou watching, Rose? Behold thy sister, whom thou lovest so.
+  ko: |-
+    언니, 보고 있는가.
+    언니의 자랑스러운 동생을.
+  ja: |-
+    姉さん、見ているかい。
+    姉さんの自慢の妹を。
+472_cv_ja:
+  en: 'CV: Reina Ueda'
+  ko: 'CV : 우에다 레이나'
+  ja: CV：上田麗奈
+472_cv_ko:
+  en: 'CV: Jang Ye-na'
+  ko: 'CV : 장예나'
+  ja: CV：チャン・イェナ
+472_cv_en:
+  en: 'CV: Ratana'
+  ko: 'CV : 라타나'
+  ja: CV：Ratana

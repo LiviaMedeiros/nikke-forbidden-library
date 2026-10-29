@@ -71,8 +71,8 @@ character_shot_description_localkey_sr_up:
     a <word_group=10023>shield</word_group> with HP equal to {description_value_03}%
     of the skill user's <word_group=10025>final</word_group> max HP that lasts for
     {description_value_04} sec.</color>\n■ Activates when Proof of Violation reaches
-    max stacks. Affects self. \n<color=#00AEFF>Terminated Contract: Gains immunity
-    to Proof of Violation continuously.\nRestores HP equal to {description_value_05}%
+    max stacks. Affects self. \n<color=#00AEFF>Terminated Contract: Grants immunity
+    to Proof of Violation. This effect is continuous.\nRestores HP equal to {description_value_05}%
     of the skill user's <word_group=10025>final</word_group> max HP every second continuously.</color>"
   ko: "■ 풀 차지 공격 {description_value_01}회 공격 시 회복 독점 서약 상태인 아군 전체에게 \n<color=#00AEFF>[시전자의
     <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 회복]</color>\n■

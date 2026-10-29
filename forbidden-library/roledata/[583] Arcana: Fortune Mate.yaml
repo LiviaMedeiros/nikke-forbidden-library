@@ -59,7 +59,7 @@ character_shot_description_localkey_sg_down:
   en: |-
     ■ Activates when performing a normal attack while in the Making Memories state. Affects self.
     <color=#00AEFF>Effect varies according to the number of attacks. Only one effect is triggered at a time. <word_group=10100>Resets</word_group> when Making Memories is removed.
-    Two times: Reloads {description_value_01} rounds.
+    Two times: Reloads {description_value_01} round(s).
     Four times: Happy Memories: Number of <word_group=10038>pellets</word_group> ▲ {description_value_02} continuously. Stacks up to {description_value_03} times.
     Six times: Precious Moments: ATK ▲ {description_value_04}% continuously. Stacks up to {description_value_05} times.</color>
     ■ Activates when using Burst Skill. Affects all allies with shotguns (except self).

@@ -142,7 +142,7 @@ skill_name_1002:
     대미지 : <word_group=10025>최종</word_group> 공격력 {description_value_01}%
     풀 차지 대미지 : 250% 대미지
     최대 장탄 수 : 1발 X 사제 탄창 개수
-    유지 시간 : {description_value_02}초 유지
+    유지 시간 : {description_value_02}초
     <word_group=10097>제거 시점</word_group> : 유지 시간 종료 또는 모든 탄환 발사 시
     추가 효과
     [공격력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
@@ -156,8 +156,7 @@ skill_name_1002:
     持続時間：{description_value_02}秒
     <word_group=10097>解除条件</word_group>：
     持続時間終了または全弾消費した時
-    追加効果
-    「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
+    追加効果「攻撃力{description_value_03}％▲」「{description_value_04}秒間維持」</color>
 skill_name_1001:
   en: Burst Skill
   ko: 버스트 스킬

@@ -59,7 +59,7 @@ character_shot_description_localkey_smg_down:
 22232_description:
   en: |-
     ■ Activates every {description_value_01} sec. Affects self.
-    <color=#00AEFF>Memory Absorption: Hit Rate ▲ {description_value_09}%, stacks up to {description_value_02} time(s) and <word_group=10090>immune to stack count increase or decrease effects</word_group> continuously. This effect cannot be removed.</color>
+    <color=#00AEFF>Memory Absorption: Hit Rate ▲ {description_value_09}% continuously. Stacks up to {description_value_02} times. <word_group=10090>Immune to stack count increase or decrease effects</word_group>. This effect cannot be removed.</color>
     ■ Activates when Memory Absorption takes effect. Affects self.
     <color=#00AEFF>Effects vary according to the stack count of Memory Absorption. <word_group=10028>Each subsequent effect triggers all effects before it</word_group>:</color>
     Stage 1: If Memory Absorption is at {description_value_05} or more stacks,
@@ -864,6 +864,244 @@ c223_01_Win_1:
   en: Hath this sufficed to aid thee in thy journey, Great Hero?
   ko: 이 정도면 대협의 여정에 도움이 되었소?
   ja: これで、旦那の役に立てたでしょうか？
+c223_02_Lobby_Touch_1:
+  en: Thou art exceeding fortunate to have acquaintance with me, Great Hero.
+  ko: |-
+    대협은 참 운이 좋소.
+    소인과 이렇게 만났으니 말이외다.
+  ja: |-
+    旦那は実に運がいいですねぇ。
+    こうして私と巡り会えたのですから。
+c223_02_Lobby_Touch_2:
+  en: They say the world is broad and the strong many, yet none have won my wonder.
+  ko: |-
+    세상은 넓고 강자는 많다 하였으나,
+    소인의 눈엔 그리 대단한 자는 없었소.
+  ja: |-
+    この世は広く、強者も多いとは言いますが、
+    私の目にかなうほどの者はおりませんでした。
+c223_02_Lobby_Touch_3:
+  en: Chargest thou me with arrogance? Is it arrogant to speak the truth such as it
+    is?
+  ko: |-
+    오만하다 하였소?
+    사실을 사실대로 말하는 것이 어찌 오만이겠소.
+  ja: |-
+    傲慢とおっしゃいましたか？
+    事実をありのままに述べているだけのこと。
+c223_02_Lobby_Touch_Love_1:
+  en: If thou wilt, Great Hero, I shall hew down any foe thou desirest. By fair or
+    foul means, I care not.
+  ko: |-
+    대협이 원한다면 그게 누구든 꺾어드리겠소.
+    무슨 수를 써서라도 말이오.
+  ja: |-
+    旦那のお望みとあらば、誰であろうと始末して差し上げましょう。
+    いかなる手を使ってでも。
+c223_02_Lobby_Touch_Love_2:
+  en: Thou art of a different sort from any I have beheld, Great Hero. I sense a special
+    power from thee.
+  ko: |-
+    대협은 여태껏 본 자들과는 다르오.
+    특별한 힘이 느껴지외다.
+  ja: |-
+    旦那は、これまで出会った者たちとはひと味違う。
+    特別な力を感じます。
+c223_02_Lobby_Touch_Love_3:
+  en: No ill shall befall thee while I stand by thy side. I swear it.
+  ko: |-
+    소인의 곁에 있으면 위험에 처할 일은 없을 것이오.
+    내 장담하지.
+  ja: |-
+    私のそばにいれば、危険な目に遭うことはないでしょう。
+    私が保証いたします。
+c223_02_Lobby_Stay_1:
+  en: I do detest to spend the time here idly. Hie thee hither.
+  ko: 시간을 허투루 낭비하는 건 질색이니, 얼른 돌아오시오.
+  ja: |-
+    いたずらに時を費やすのは性に合いませんねぇ。
+    早く戻ってきてください。
+c223_02_Lobby_Stay_Love_1:
+  en: "'Tis boldness, Great Hero, to keep me waiting. Were it not thee, I would have
+    fain departed ere now."
+  ko: |-
+    소인을 기다리게 하다니, 참으로 대담한 분이외다.
+    대협이 아니었다면 진즉 자리를 떴을 것이오.
+  ja: |-
+    私を待たせるとは、実に大した御仁ですねぇ。
+    旦那でなければ、とっくに立ち去っていましたよ。
+c223_02_Outpost_Touch_1:
+  en: Dwell there folk in such a place? How grievously uncomfortable it must be.
+  ko: |-
+    이런 곳에 사는 것이오?
+    굉장히 불편했겠구려.
+  ja: |-
+    このような場所に お住まいなのですか？
+    さぞかしご不便だった ことでしょう。
+c223_02_Outpost_Touch_2:
+  en: Verily, I shall have to mend this place with mine own technological prowess.
+    Thou mayest rejoice at thy leisure.
+  ko: |-
+    소인의 기술력으로 손을 좀 봐줘야겠군.
+    기뻐해도 좋소.
+  ja: |-
+    私の技術で 少し手を加えるとしましょう。
+    喜んでもらって構いませんよ。
+c223_02_Outpost_Touch_3:
+  en: "'Tis a vasty place, yea much more than it doth seem. Though I walk and walk,
+    I merely return to my place of origin."
+  ko: |-
+    보기와는 다르게 아주 넓은 곳이었구려.
+    걸어도 걸어도 다시 제자리로 돌아오고 있으니 말이오.
+  ja: |-
+    思った以上に、ずいぶんと 広い場所だったのですねぇ。
+    いくら歩いても、 また元の場所に戻ってしまいます。
+c223_02_Gacha_Get_1:
+  en: Thy choice is well made. By thy good wit, thou hast recognized me, the wisest
+    of all.
+  ko: |-
+    옳은 선택을 하셨소.
+    대협은 가장 현명한 이를 알아보는 눈이 있으시구려.
+  ja: |-
+    賢明なご選択です。
+    旦那は最も賢き者を見抜く目をお持ちですねぇ。
+c223_02_Reinforce_1:
+  en: Oh, I knew not such technology existed.
+  ko: 호오, 이런 기술도 있었단 말인가.
+  ja: ほう、このような技術もあったとは。
+c223_02_Reinforce_2:
+  en: Thou mayest spare thine hand, for already am I complete.
+  ko: 그렇게 하지 않아도 소인은 이미 완성되어 있소.
+  ja: そのようなことをせずとも、私は完成されております。
+c223_02_Reinforce_3:
+  en: Didst thou behold my greatness?
+  ko: 보셨소? 소인이 이 정도요.
+  ja: ご覧になりましたか？私の腕前を。
+c223_02_Gift_1:
+  en: I might easily procure such a one as this, were I so disposed, yet I shall take
+    it to honor thy sincerity.
+  ko: |-
+    이런 건 마음만 먹으면 구할 수 있겠으나,
+    정성을 봐서 받아두겠소.
+  ja: |-
+    その気になれば手に入るようなものですが、
+    せっかくのお心遣いです。頂戴しておきましょう。
+c223_02_Gift_2:
+  en: Haha, seekest thou to impress me? Thou art wise indeed, Great Hero.
+  ko: |-
+    하하, 미리 잘 보이려 하는 것이오?
+    대협은 현명한 사람이외다.
+  ja: |-
+    はは、今のうちに私に気に入られようということですか？
+    旦那は賢明なお方ですねぇ。
+c223_02_Gift_3:
+  en: This pleases me. Dost thou have more?
+  ko: |-
+    이건 꽤 마음에 드는구려.
+    더 없소?
+  ja: |-
+    実に気に入りました。
+    他にはないのですか？
+c223_02_Attractive_Up_1:
+  en: Prepare thyself for wonder, for I shall not disappoint.
+  ko: 기대해도 좋소, 소인은 그럴만한 재목이니.
+  ja: 期待いただいて結構。私には、それだけの器があります。
+c223_02_Attractive_Up_2:
+  en: It seems thou hast discerned my singularity.
+  ko: 대협은 소인의 특별함을 알아봐 주는구려.
+  ja: 旦那は私の真価を分かってくださっているようですねぇ。
+c223_02_Attractive_Up_3:
+  en: Verily, thy labor will bring thee no regret. I shall see to it well.
+  ko: 소인에게 공을 들인 것을 후회하지 않게 해드릴 것이외다.
+  ja: 私に目をかけていただいたこと、後悔はさせません。
+c223_02_Party_Deploy_1:
+  en: I knew thou wouldst call me.
+  ko: 뭐, 찾으실 줄 알았소.
+  ja: まあ、お呼びがかかると思っていました。
+c223_02_Field_Touch_1:
+  en: It seems thou hast need of me.
+  ko: 소인이 필요해 보이는구려.
+  ja: 私が必要なようですねぇ。
+c223_02_Field_Go_1:
+  en: What? Not this way?
+  ko: 뭣이, 이쪽이 아니란 말이오?
+  ja: なんと、こちらではないと？
+c223_02_Battle_Enter_1:
+  en: "'Tis time to teach the foolish."
+  ko: 아둔한 자들에게 가르침을 줄 시간이오.
+  ja: 愚か者どもに訓えを授ける時です。
+c223_02_Battle_Ready_1:
+  en: The wait for battle nigh sapped my life.
+  ko: 기다리느라 지루해 죽는 줄 알았소.
+  ja: 待ちあぐんでしまうところでした。
+c223_02_Battle_Ready_2:
+  en: At last I may run riot.
+  ko: 이제야 한바탕 날뛰어볼 수 있겠구려.
+  ja: ようやくひと暴れできそうですねぇ。
+c223_02_Battle_Ready_3:
+  en: Keep thy distance and look on, Great Hero.
+  ko: 대협은 뒤에서 구경이나 하고 계시면 되겠소.
+  ja: 旦那は後ろで見物でもしていてください。
+c223_02_Reload_1:
+  en: Thou seemest comfortable.
+  ko: 너무 여유롭소만.
+  ja: ずいぶん余裕がおありのようで。
+c223_02_Reload_2:
+  en: Thou art well-posted to look on.
+  ko: 명당에서 구경하고 계시는구려.
+  ja: 高みの見物とはこのことですねぇ。
+c223_02_Reload_3:
+  en: "'Tis done with but a turn of the wrist."
+  ko: 손만 까딱해도 되는군.
+  ja: 指先ひとつで十分ですねぇ。
+c223_02_Ult_Skill_Ready_1:
+  en: Art thou ready to be astonished?
+  ko: 감상할 준비는 되었소?
+  ja: 目にする覚悟はおありですか？
+c223_02_Ult_Skill_1:
+  en: Only the strongest may live.
+  ko: 가장 강한 자만이, 살아남는 법이오.
+  ja: 最も強き者だけが生き残るのです。
+c223_02_FullBurst_1:
+  en: Behold my might!
+  ko: 소인의 실력을 보여주겠소!
+  ja: 私の実力をお見せいたしましょう！
+c223_02_Kill_Monster_1:
+  en: That was nothing.
+  ko: 별거 없군.
+  ja: 大したことはありませんねぇ。
+c223_02_Kill_Monster_2:
+  en: How trivial.
+  ko: 쉽기 그지없소.
+  ja: 造作もありません。
+c223_02_Kill_Monster_3:
+  en: Is that all?
+  ko: 이게 끝이오?
+  ja: これで終わりですか？
+c223_02_Damage_1:
+  en: Argh!
+  ko: 큭!
+  ja: くっ！
+c223_02_Damage_2:
+  en: Ugh!
+  ko: 읏!
+  ja: うっ！
+c223_02_Damage_3:
+  en: Insolence!
+  ko: 감히!
+  ja: よくも！
+c223_02_Die_1:
+  en: Mark my words, this is not the end...!
+  ko: 끝이라 생각 마시오…!
+  ja: これで終わりではありませんよ…！
+c223_02_Win_1:
+  en: "'Twas a trivial battle unfit for my might. The end was written from the beginning."
+  ko: |-
+    소인이 나설 필요도 없을 만큼 시시했구려.
+    처음부터 정해진 결과였소.
+  ja: |-
+    私が出るほどの相手ではありませんでしたねぇ。
+    初めから勝負は決まっていました。
 223_cv_ja:
   en: 'CV: Ayako Kawasumi'
   ko: 'CV : 카와스미 아야코'

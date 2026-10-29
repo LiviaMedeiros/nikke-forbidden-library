@@ -1,0 +1,792 @@
+---
+19_name:
+  en: 'Marian: Queen'
+  ko: '마리안 : 퀸'
+  ja: マリアン：クイーン
+c019_description:
+  en: Marian has become a true Queen in order to protect those she holds dear, and
+    to create a world where no one must die—a kind world where everyone loves and
+    is loved.
+  ko: |-
+    소중한 사람들을 지키고, 그 누구도 죽지 않는 세계를 만들기 위해.
+    모두가 사랑하고 사랑받는 상냥한 세계를 이루기 위해.
+    마리안은 진정한 여왕이 되었다.
+  ja: |-
+    大切な人たちを守るため、
+    誰も死ぬことのない世界を作るため、
+    誰もが愛し愛される優しい世界を作るため…
+    真の女王となったマリアン。
+19_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_19:
+  en: 'Marian: Queen''s Spare Body'
+  ko: '마리안 : 퀸 스페어 바디'
+  ja: マリアン：クイーンのスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_mg_down:
+  en: Machine Gun
+  ko: 머신건
+  ja: マシンガン
+character_shot_description_localkey_mg_down:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    「コアダメージ{core_damage_rate}％」</color>
+20192_name:
+  en: Synthetic World
+  ko: 유사 세계
+  ja: 世界の模倣
+20192_description:
+  en: |-
+    ■ Activates when using Burst Skill. Affects self.
+    <color=#00AEFF><word_group=10111>Into the Fray</word_group>: Penetrant Wish
+    Function: Deals core damage to all enemies in the Open Wounds state.
+    Effect 1: Activates after performing {description_value_01} normal attacks. Affects all enemies in the Open Wounds state. Deals {description_value_02}% of <word_group=10025>final</word_group> ATK as <word_group=10104>core strike damage</word_group>.
+    Effect 2: Affects self. <word_group=10085>Recurring interval</word_group> of <word_group=10111>Into the Fray</word_group>: Sharpened Resolve ▼ {description_value_03} sec.
+    Duration: {description_value_04} sec</color>
+    ■ Activates when entering Full Burst while not in the <word_group=10111>Into the Fray</word_group>: Penetrant Wish state. Affects self.
+    <color=#00AEFF><word_group=10050>Sequential Attack</word_group> Damage ▲ {description_value_05}% for {description_value_06} sec.</color>
+    ■ Activates when entering Full Burst while in the <word_group=10111>Into the Fray</word_group>: Penetrant Wish state. Affects self.
+    <color=#00AEFF>Core Damage ▲ {description_value_07}% for {description_value_08} sec.</color>
+  ko: |-
+    ■ 버스트 스킬 사용 시 자신에게
+    <color=#00AEFF>[<word_group=10111>임전</word_group> : 파고드는 소망]
+    기능 : 약점 개방 상태의 모든 적에게 코어 대미지로 공격합니다.
+    효과 1 : 일반 공격 {description_value_01}회 공격 시 약점 개방 상태 적 전체에게 [<word_group=10025>최종</word_group> 공격력 {description_value_02}% <word_group=10104>코어 명중 대미지</word_group>]
+    효과 2 : 자신에게 [<word_group=10111>임전</word_group> : 의지를 벼린 창끝 <word_group=10085>반복 주기</word_group> {description_value_03}초 ▼]
+    유지 시간 : {description_value_04}초</color>
+    ■ 풀 버스트 타임 시작 시 자신이 <word_group=10111>임전</word_group> : 파고드는 소망 상태가 아니라면 자신에게
+    <color=#00AEFF>[<word_group=10050>순차 공격</word_group> 대미지 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 자신이 <word_group=10111>임전</word_group> : 파고드는 소망 상태라면 자신에게
+    <color=#00AEFF>[코어 대미지 {description_value_07}% ▲] [{description_value_08}초 유지]</color>
+  ja: |-
+    ■バーストスキルを使用した時、自分に
+    <color=#00AEFF>「<word_group=10111>臨戦</word_group>：胸を刺す願い」
+    機能：弱点露出状態のすべての敵に
+    コアダメージ値での攻撃を行う
+    効果1：通常攻撃で{description_value_01}回攻撃した時、
+    弱点露出状態の敵全体に
+    「<word_group=10025>最終</word_group>攻撃力の{description_value_02}％の<word_group=10104>コア命中ダメージ</word_group>」
+    効果2：自分に
+    「<word_group=10111>臨戦</word_group>：意思の鋭槍<word_group=10085>再発動周期</word_group>{description_value_03}秒▼」
+    維持時間：{description_value_04}秒</color>
+    ■フルバーストタイムが発動した時、自分が
+    <word_group=10111>臨戦</word_group>：胸を刺す願い状態でなければ、自分に
+    <color=#00AEFF>「<word_group=10050>順番攻撃</word_group>ダメージ{description_value_05}％▲」
+    「{description_value_06}秒間維持」</color>
+    ■フルバーストタイムが発動した時、自分が
+    <word_group=10111>臨戦</word_group>：胸を刺す願い状態なら、自分に
+    <color=#00AEFF>「コアダメージ{description_value_07}％▲」「{description_value_08}秒間維持」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+20191_name:
+  en: Sharpened Resolve
+  ko: 의지를 벼린 창끝
+  ja: 意思の鋭槍
+20191_description:
+  en: |-
+    ■ Activates at the start of battle. Affects self.
+    <color=#00AEFF><word_group=10111>Into the Fray</word_group>: Sharpened Resolve
+    Function: Launches Dark Matter spears at random enemies.
+    Effect 1: Affects random enemies. Dark Matter Spear: Deals {description_value_01}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10050>Attacks sequentially</word_group> {description_value_02} times.
+    Effect 2: Activates when landing a hit with a Dark Matter spear. Affects the target. Open Wounds: Damage Taken ▲ {description_value_03}%. This effect is continuous and cannot be removed.
+    <word_group=10085>Recurring interval</word_group>: {description_value_04} sec</color>
+    ■ Activates when using Burst Skill. Affects all enemies.
+    <color=#00AEFF>Open Wounds: Damage Taken ▲ {description_value_03}%. This effect is continuous and cannot be removed.</color>
+  ko: |-
+    ■ 전투 시작 시 자신에게
+    <color=#00AEFF>[<word_group=10111>임전</word_group> : 의지를 벼린 창끝]
+    기능 : 무작위 적들에게 다크 매터 창을 발사합니다.
+    효과 1 : 무작위 적들에게 [다크 매터 창 : <word_group=10025>최종</word_group> 공격력 {description_value_01}% 대미지] [{description_value_02}회 <word_group=10050>순차 공격</word_group>]
+    효과 2 : 다크 매터 창 명중 시 대상에게 [약점 개방 : 받는 대미지 {description_value_03}% ▲] [지속] [해제 불가]
+    <word_group=10085>반복 주기</word_group> : {description_value_04}초</color>
+    ■ 버스트 스킬 사용 시 적 전체에게
+    <color=#00AEFF>[약점 개방 : 받는 대미지 {description_value_03}% ▲] [지속] [해제 불가]</color>
+  ja: |-
+    ■戦闘開始時、自分に
+    <color=#00AEFF>「<word_group=10111>臨戦</word_group>：意思の鋭槍」
+    機能：ランダムな敵にダークマターの槍を
+    発射する
+    効果1：ランダムな敵に
+    「ダークマターの槍：<word_group=10025>最終</word_group>攻撃力の{description_value_01}％のダメージ」「{description_value_02}回<word_group=10050>順番に攻撃</word_group>」
+    効果2：ダークマターの槍が命中した時、
+    対象に
+    「弱点露出：受けるダメージ{description_value_03}％▲」
+    「持続」「解除不可」
+    <word_group=10085>再発動周期</word_group>：{description_value_04}秒</color>
+    ■バーストスキルを使用した時、敵全体に
+    <color=#00AEFF>「弱点露出：受けるダメージ{description_value_03}％▲」
+    「持続」「解除不可」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+10193_name:
+  en: Distant New World
+  ko: 머나먼 신세계
+  ja: 遥かなる新世界
+10193_description:
+  en: |-
+    ■ Affects self.
+    <color=#00AEFF>Reloads {description_value_01}% of ammo.
+    <word_group=10073>Machine Gun Ramp-Up Speed</word_group> ▲ {description_value_02}% for {description_value_03} sec.
+    ATK ▲ {description_value_04}% for {description_value_05} sec.
+    Attack Damage ▲ {description_value_06}% for {description_value_07} sec.</color>
+    ■ Affects all enemies.
+    <color=#00AEFF>Deals {description_value_08}% of <word_group=10025>final</word_group> ATK as Burst Skill damage.</color>
+  ko: |-
+    ■ 자신에게
+    <color=#00AEFF>[탄환 충전 {description_value_01}%]
+    [<word_group=10073>머신건 예열 속도</word_group> {description_value_02}% ▲] [{description_value_03}초 유지]
+    [공격력 {description_value_04}% ▲] [{description_value_05}초 유지]
+    [공격 대미지 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+    ■ 적 전체에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_08}% 버스트 스킬 대미지]</color>
+  ja: |-
+    ■自分に
+    <color=#00AEFF>「弾丸チャージ{description_value_01}％」
+    「<word_group=10073>マシンガン立ち上げ速度</word_group>{description_value_02}％▲」
+    「{description_value_03}秒間維持」
+    「攻撃力{description_value_04}％▲」「{description_value_05}秒間維持」
+    「攻撃ダメージ{description_value_06}％▲」「{description_value_07}秒間維持」</color>
+    ■敵全体に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力の{description_value_08}％の
+    バーストスキルダメージ」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+14_name:
+  en: 'Neon: Blue Ocean'
+  ko: '네온 : 블루 오션'
+  ja: ネオン：ブルーオーシャン
+15_name:
+  en: 'Anis: Sparkling Summer'
+  ko: '아니스 : 스파클링 서머'
+  ja: アニス：スパークリングサマー
+16_name:
+  en: 'Rapi: Red Hood'
+  ko: '라피 : 레드 후드'
+  ja: ラピ：レッドフード
+17_name:
+  en: 'Anis: Star'
+  ko: '아니스 : 스타'
+  ja: アニス：スター
+18_name:
+  en: 'Neon: Vision Eye'
+  ko: '네온 : 비전 아이'
+  ja: ネオン：ビジョン・アイ
+10_name:
+  en: Rapi
+  ko: 라피
+  ja: ラピ
+11_name:
+  en: Neon
+  ko: 네온
+  ja: ネオン
+12_name:
+  en: Anis
+  ko: 아니스
+  ja: アニス
+c019_Lobby_Touch_1:
+  en: This time, I will protect everyone.
+  ko: 이번에야말로 꼭, 모두를 지켜드릴게요.
+  ja: 今度こそ、必ずみなさんを守ります。
+c019_Lobby_Touch_2:
+  en: Were you worried about me? I'm okay now.
+  ko: |-
+    많이 걱정하셨죠?
+    이젠 괜찮아요.
+  ja: |-
+    ご心配をおかけしましたか？
+    もう大丈夫です。
+c019_Lobby_Touch_3:
+  en: I finally know what it is I want to do, and that is why I can win.
+  ko: |-
+    이제야 제가 하고 싶은 일이 무엇인지 알게 됐어요.
+    그러니, 저는 이길 수 있어요.
+  ja: |-
+    私が何をしたいのか、やっと分かったんです。
+    だから、私は勝てます。
+c019_Lobby_Touch_Love_1:
+  en: I'm so happy to see you again, Commander.
+  ko: 지휘관과 다시 만날 수 있어서, 진심으로 기뻐요.
+  ja: 指揮官とまた会えて、本当に嬉しいです。
+c019_Lobby_Touch_Love_2:
+  en: I'm going to make sure everyone can live in a world filled with love. I promise.
+  ko: |-
+    사랑으로 가득한 세계에서 살아갈 수 있도록 해줄게요.
+    제가 꼭, 그렇게 만들어 줄게요.
+  ja: |-
+    誰もが愛にあふれる世界で生きていけるように。
+    私が、必ず…
+c019_Lobby_Touch_Love_3:
+  en: I love seeing you smile. Please... always keep smiling.
+  ko: |-
+    지휘관의 웃는 모습이 좋아요.
+    그러니까… 앞으로도 그렇게 웃어주세요.
+  ja: |-
+    指揮官の笑っている顔が好きです。
+    だから…これからも笑っていてください。
+c019_Lobby_Stay_1:
+  en: You'll come back, right, Commander? I know you will.
+  ko: |-
+    돌아와 주실 거죠?
+    알고 있어요, 지휘관.
+  ja: |-
+    戻ってきてくれますよね？
+    分かっていますから。
+c019_Lobby_Stay_Love_1:
+  en: Take your time. I'll be here protecting this place for when everyone comes back.
+  ko: |-
+    천천히 오셔도 괜찮아요.
+    저는 여기서, 모두가 돌아올 자리를 지키고 있을게요.
+  ja: |-
+    ゆっくりでいいですよ。
+    私はここで、みなさんが帰る場所を守っていますから。
+c019_Outpost_Touch_1:
+  en: Every time I come here, it always feels like I've come home. It's so warm.
+  ko: |-
+    올 때마다, 늘 집에 온 것 같은 기분이 들어요.
+    따뜻해요.
+  ja: |-
+    ここへ来ると、 いつも家に帰ってきたような 気持ちになります。
+    温かいです。
+c019_Outpost_Touch_2:
+  en: Having a place to return to is such a wonderful feeling.
+  ko: |-
+    돌아올 곳이 있다는 건,
+    참 좋은 일인 것 같아요.
+  ja: 帰る場所があるって、 とっても素敵なことだと思います。
+c019_Outpost_Touch_3:
+  en: I hope everyone is doing well.
+  ko: 다들 잘 지내고 있겠죠?
+  ja: みなさん、お元気ですよね？
+c019_Gacha_Get_1:
+  en: Sorry to keep you waiting. I'll be the one to stand in front of you now, Commander.
+  ko: |-
+    오래 기다리셨죠.
+    이제는 제가 지휘관의 앞에 설게요.
+  ja: |-
+    お待たせしました。
+    今度は、私が指揮官の前に立ちます。
+c019_Reinforce_1:
+  en: My influence has grown even stronger.
+  ko: 제 영향력이 더욱 짙어졌어요.
+  ja: 私の影響力がさらに強くなりました。
+c019_Reinforce_2:
+  en: Now I'll be able to protect even more things.
+  ko: 더 많은 것을 지킬 수 있겠어요.
+  ja: もっとたくさんのものを守れそうです。
+c019_Reinforce_3:
+  en: Thank you. I will think of this power as another wish I've been entrusted with.
+  ko: |-
+    고마워요.
+    이 힘도, 제게 맡겨진 마음이라 생각할게요.
+  ja: |-
+    ありがとうございます。
+    この力も、私に託された想いとして受け止めます。
+c019_Gift_1:
+  en: I wonder how much longer I'll be able to receive gifts like this.
+  ko: 언제까지 이런 선물을 받을 수 있을까요.
+  ja: こんなプレゼントをいただける日は、いつまで続くでしょうね。
+c019_Gift_2:
+  en: I love all of your gifts, Commander.
+  ko: 지휘관이 주시는 거면, 뭐든 좋아요.
+  ja: 指揮官がくださるものなら、なんでも嬉しいです。
+c019_Gift_3:
+  en: A gift from the heart always feels so warm. I'll never forget this feeling,
+    no matter where I may be.
+  ko: |-
+    마음을 담은 선물은 늘 따뜻하네요.
+    …언제 어디서든 이 마음, 잊지 않을게요.
+  ja: |-
+    心のこもったプレゼントは、いつも温かいですね。
+    …いつどこにいても、この気持ちは忘れません。
+c019_Attractive_Up_1:
+  en: Seeing you always makes me happy, Commander.
+  ko: 언제봐도 좋네요. 지휘관은.
+  ja: いつ見ても素敵ですね、指揮官は。
+c019_Attractive_Up_2:
+  en: I love you, Commander. I really do.
+  ko: |-
+    좋아해요, 지휘관.
+    진심으로 좋아해요.
+  ja: |-
+    好きです、指揮官。
+    本当に大好きです。
+c019_Attractive_Up_3:
+  en: The very first place I wanted to come back to was here, next to you. It's the
+    same place I want to protect until the end.
+  ko: |-
+    가장 먼저 돌아오고 싶었던 곳도,
+    마지막까지 지키고 싶은 곳도… 지휘관 곁이에요.
+  ja: |-
+    最初に戻りたかった場所も、
+    最後まで守りたい場所も…指揮官のそばです。
+c019_Party_Deploy_1:
+  en: I'll take the lead.
+  ko: 제가 모두를 이끌게요.
+  ja: 私がみなさんを導きます。
+c019_Field_Touch_1:
+  en: I'm listening.
+  ko: 듣고 있어요.
+  ja: 聞いています。
+c019_Field_Go_1:
+  en: Come over this way.
+  ko: 이쪽으로 오시면 돼요.
+  ja: こちらに来てください。
+c019_Battle_Enter_1:
+  en: So it begins.
+  ko: 시작이로군요.
+  ja: 始まるのですね。
+c019_Battle_Ready_1:
+  en: I'm not going to lose.
+  ko: 절대 지지 않아요.
+  ja: 絶対に負けません。
+c019_Battle_Ready_2:
+  en: There's no turning back now.
+  ko: 이젠 물러설 수 없어요.
+  ja: もう後戻りはできません。
+c019_Battle_Ready_3:
+  en: "... Please understand."
+  ko: "…이해해 주세요."
+  ja: "…分かってください。"
+c019_Reload_1:
+  en: Preparing for the next attack.
+  ko: 다음 공격, 준비할게요.
+  ja: 次の攻撃を準備します。
+c019_Reload_2:
+  en: It'll be okay. Don't worry.
+  ko: 괜찮아요, 걱정 말아요.
+  ja: 大丈夫です、心配いりません。
+c019_Reload_3:
+  en: Stay behind me.
+  ko: 제 뒤에 있으세요.
+  ja: 私の後ろにいてください。
+c019_Ult_Skill_Ready_1:
+  en: Just say the word.
+  ko: 언제든 말씀만 하세요.
+  ja: いつでもおっしゃってください。
+c019_Ult_Skill_1:
+  en: For a world where no one is hurt, filled with love.
+  ko: 그 누구도 상처받지 않는, 사랑이 가득한 세계를 위해.
+  ja: 誰も傷つかない、愛に満ちた世界のために。
+c019_FullBurst_1:
+  en: I'll clear the way!
+  ko: 길을 열게요!
+  ja: 道を切り開きます！
+c019_Kill_Monster_1:
+  en: I'll protect you.
+  ko: 지킬게요.
+  ja: 守ります。
+c019_Kill_Monster_2:
+  en: Who's next?
+  ko: 다음은요?
+  ja: 次はどこですか？
+c019_Kill_Monster_3:
+  en: "... I'll make this as painless as I can."
+  ko: "…최대한 아프지 않게."
+  ja: "…なるべく痛くないようにします。"
+c019_Damage_1:
+  en: Ugh!
+  ko: 윽!
+  ja: うっ！
+c019_Damage_2:
+  en: Ah!
+  ko: 앗!
+  ja: あっ！
+c019_Damage_3:
+  en: Agh!
+  ko: 아흑…!
+  ja: あうっ…！
+c019_Die_1:
+  en: Agh... I failed to protect you again... I'm sorry, Commander.
+  ko: |-
+    으윽… 이번에도 지키지 못 하다니….
+    미안해요, 지휘관.
+  ja: |-
+    うう…また守れませんでした…
+    申しわけありません、指揮官…
+c019_Win_1:
+  en: I will make the world that everyone's dreamed of into a reality.
+  ko: |-
+    모두가 꿈꾸던, 그 세계를.
+    꼭 제가 만들어 보일게요.
+  ja: |-
+    誰もが夢見る、その世界を…
+    必ず私が作ってみせます。
+c019_01_Lobby_Touch_1:
+  en: Isn't this dress beautiful? I've always dreamed of wearing a wedding dress.
+  ko: |-
+    이 웨딩드레스, 너무 예쁘지 않나요?
+    저, 웨딩드레스를 입어보는 게 꿈이었거든요.
+  ja: |-
+    これ、とっても素敵でしょう？
+    私、ウェディングドレスを着るのが
+    夢だったんです。
+c019_01_Lobby_Touch_2:
+  en: When should we go on our picnic, Commander?
+  ko: 지휘관, 우리 소풍은 언제 갈까요?
+  ja: 指揮官、ピクニックにはいつ行きましょうか？
+c019_01_Lobby_Touch_3:
+  en: How are you always so kind?
+  ko: 지휘관은 어쩜 그리 늘 다정하나요?
+  ja: |-
+    指揮官はどうしていつも
+    そんなにお優しいんですか？
+c019_01_Lobby_Touch_Love_1:
+  en: I will always keep you safe. I love you, Commander.
+  ko: |-
+    지휘관을 영원히 지킬게요.
+    사랑해요, 지휘관.
+  ja: |-
+    指揮官を永遠にお守りします。
+    愛しています、指揮官。
+c019_01_Lobby_Touch_Love_2:
+  en: I love you with all my heart, Commander.
+  ko: 온 마음을 다해, 사랑해요. 지휘관.
+  ja: 心から、愛しています。指揮官。
+c019_01_Lobby_Touch_Love_3:
+  en: You are my first love, and my last.
+  ko: 지휘관은 제 첫사랑이자, 마지막 사랑이에요.
+  ja: 指揮官は私の初恋で、最後の愛する人です。
+c019_01_Lobby_Stay_1:
+  en: Are you really going to make your bride wait? Let's see how that goes.
+  ko: 설마, 지금 신부더러 기다리라는 건가요? 너무해.
+  ja: |-
+    まさか、花嫁を待たせるつもりですか？
+    許してあげません。
+c019_01_Lobby_Stay_Love_1:
+  en: So long as my amazing groom is here, I won't be going anywhere, so don't worry.
+    Go do whatever you need to do.
+  ko: |-
+    이렇게 멋진 신랑이 여기 있는데, 제가 어딜 가겠어요.
+    그러니 걱정말고 다녀오세요.
+  ja: |-
+    素敵な花婿がここにいる限り、
+    私はどこにも行きません。
+    安心して行ってきてください。
+c019_01_Outpost_Touch_1:
+  en: There's nothing left but happiness for us ahead.
+  ko: 이제 우리, 행복할 일만 남았네요.
+  ja: これから、私たちを待っているのは 幸せなことだけですよね。
+c019_01_Outpost_Touch_2:
+  en: Come stand beside me. Let's walk together.
+  ko: |-
+    이리 와서 제 옆에 서요.
+    같이 걸어요.
+  ja: |-
+    もっと近く、 私の隣に立ってください。
+    並んで歩きましょう。
+c019_01_Outpost_Touch_3:
+  en: Dum dum da-dum ♪ Dum dum da-dum ♪
+  ko: 딴 딴따단~♪ 딴 딴따단~♪
+  ja: パパパパーン♪ パパパパーン♪
+c019_01_Gacha_Get_1:
+  en: They say marriage is a promise to stay together until the very end. Will you
+    make that promise with me?
+  ko: |-
+    결혼은 끝까지 함께하겠다는 약속이래요.
+    그러니 저랑 약속해 주실래요?
+  ja: |-
+    結婚は、最後まで一緒にいるっていう約束なんです。
+    約束、してくれますか？
+c019_01_Reinforce_1:
+  en: That's another memory with you.
+  ko: 경험이 또 쌓였어요.
+  ja: またひとつ思い出が増えました。
+c019_01_Reinforce_2:
+  en: Now I'll be able to keep you a little safer.
+  ko: 지휘관을 좀 더 안전하게 지켜줄 수 있겠어요.
+  ja: 指揮官をもっと確実に守ることができそうです。
+c019_01_Reinforce_3:
+  en: "... No matter what happens, I will always protect you."
+  ko: "…무슨 일이 있더라도 꼭, 제가 지켜줄게요."
+  ja: "…何があっても、私が必ず守ります。"
+c019_01_Gift_1:
+  en: Aw, you didn't have to get me this! Thank you.
+  ko: 에이, 뭘 또 이런 걸 준비했어요. 고마워요.
+  ja: |-
+    …もう、いつの間に用意したんですか？
+    ありがとうございます。
+c019_01_Gift_2:
+  en: Are you proposing to me right now?
+  ko: 이걸로 지금 청혼하는 건가요?
+  ja: もしかして…これって、プロポーズですか？
+c019_01_Gift_3:
+  en: Every moment I spend with you feels like a gift.
+  ko: 지휘관과 함께 있는 모든 시간이 제겐 선물 같아요.
+  ja: 指揮官と一緒に過ごす時間が、私にとって何よりの贈り物です。
+c019_01_Attractive_Up_1:
+  en: You'll always be amazing to me, Commander.
+  ko: 지휘관은 언제봐도 멋져요.
+  ja: 指揮官はいつ見ても素敵なお顔です。
+c019_01_Attractive_Up_2:
+  en: I just fell for you again. Now you're stuck with me.
+  ko: 다시 한번 반했어요, 책임져요.
+  ja: ほれ直してしまいました。責任は取ってくださいね。
+c019_01_Attractive_Up_3:
+  en: My feelings for you will never change.
+  ko: 지휘관을 향한 제 마음은 변치 않아요.
+  ja: 指揮官への思いは変わりません。
+c019_01_Party_Deploy_1:
+  en: Is it time for the bride to make her entrance?
+  ko: 신부 입장하면 되나요?
+  ja: そろそろ新婦の入場ですか？
+c019_01_Field_Touch_1:
+  en: Yes, Commander. I'm right here.
+  ko: 예, 지휘관. 저 여기 있어요.
+  ja: はい、指揮官。私はここです。
+c019_01_Field_Go_1:
+  en: Let's walk side by side.
+  ko: 나란히 걸어가요, 지휘관.
+  ja: 並んで歩きましょう、指揮官。
+c019_01_Battle_Enter_1:
+  en: Shall we make our entrance together?
+  ko: 같이 입장하실까요?
+  ja: 一緒に入場しましょうか？
+c019_01_Battle_Ready_1:
+  en: When I'm with you, I'm not afraid of anything.
+  ko: 지휘관과 함께라면 두려울 게 없어요.
+  ja: 指揮官と一緒なら、何も怖くありません。
+c019_01_Battle_Ready_2:
+  en: Stay by my side.
+  ko: 제 곁에 꼭 붙어 계셔야 해요.
+  ja: 私のそばを離れないでくださいね。
+c019_01_Battle_Ready_3:
+  en: Watch me out there.
+  ko: 제 활약을 지켜봐 주세요.
+  ja: 私の活躍を見守っていてください。
+c019_01_Reload_1:
+  en: How do I look? Pretty?
+  ko: 저 어때요, 예뻐요?
+  ja: どうでしょう？きれいですか？
+c019_01_Reload_2:
+  en: You're staring, Commander.
+  ko: 눈을 못 떼시네요, 지휘관.
+  ja: 私に釘付けですね、指揮官。
+c019_01_Reload_3:
+  en: This will be over quickly.
+  ko: 금방 끝나요.
+  ja: すぐに終わらせます。
+c019_01_Ult_Skill_Ready_1:
+  en: Now it's my turn.
+  ko: 이제 제 차례네요.
+  ja: 今度は私の番ですね。
+c019_01_Ult_Skill_1:
+  en: Here comes the happiest bride in the world.
+  ko: 세상에서 제일 행복한 신부, 입장합니다.
+  ja: 世界で一番幸せな花嫁の、入場です。
+c019_01_FullBurst_1:
+  en: Let's give it all we've got!
+  ko: 같이 쏟아부어 주세요!
+  ja: 皆さん全力でいきましょう！
+c019_01_Kill_Monster_1:
+  en: I'll protect you.
+  ko: 제가 지킬게요.
+  ja: 私がお守りします。
+c019_01_Kill_Monster_2:
+  en: Clear!
+  ko: 클리어!
+  ja: クリア！
+c019_01_Kill_Monster_3:
+  en: Got one!
+  ko: 쓰러트렸어요!
+  ja: 倒しました！
+c019_01_Damage_1:
+  en: Ah!
+  ko: 앗!
+  ja: きゃあ！
+c019_01_Damage_2:
+  en: Ugh...!
+  ko: 으윽!
+  ja: ううっ！
+c019_01_Damage_3:
+  en: Oof!
+  ko: 흣!
+  ja: はうっ！
+c019_01_Die_1:
+  en: Wait just a little longer... We'll meet again soon. I promise.
+  ko: 조금만 기다려줘요… 다시, 금방 만날 수 있어요. 꼭이요.
+  ja: |-
+    少しだけ、待っていてください…
+    すぐにまた会えますから。必ず…
+c019_01_Win_1:
+  en: Take my hand, Commander. Let's keep walking forward together.
+  ko: |-
+    손잡아주세요, 지휘관.
+    앞으로도 함께 걸어 나가요, 우리.
+  ja: |-
+    手を握ってください、指揮官。
+    ずっと、ともに歩んでいきましょうね。
+19_cv_ja:
+  en: 'CV: Kana Hanazawa'
+  ko: 'CV : 하나자와 카나'
+  ja: CV：花澤香菜
+19_cv_ko:
+  en: 'CV: Kim Ha-ru'
+  ko: 'CV : 김하루'
+  ja: CV：キム・ハル
+19_cv_en:
+  en: 'CV: Ryan Bartley'
+  ko: 'CV : 라이언 바틀리'
+  ja: CV：Ryan Bartley

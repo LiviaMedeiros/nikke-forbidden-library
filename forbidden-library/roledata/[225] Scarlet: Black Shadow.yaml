@@ -64,8 +64,8 @@ character_shot_description_localkey_rl_up_50:
   ja: 花無十日紅・修羅
 22252_description:
   en: "■ Activates when entering Full Burst. Affects self. \n<color=#00AEFF>Max Ammunition
-    Capacity ▲ {description_value_01}% for {description_value_02} sec.</color>\n<color=#00AEFF>Reload
-    {description_value_03}% of the magazine(s).</color>"
+    Capacity ▲ {description_value_01}% for {description_value_02} sec.</color>\n<color=#00AEFF>Reloads
+    {description_value_03}% of ammo.</color>"
   ko: |-
     ■ 풀 버스트 타임 시작 시 자신에게
     <color=#00AEFF>[최대 장탄 수 {description_value_01}% ▲] [{description_value_02}초 유지]</color>
@@ -288,6 +288,14 @@ material_characterskill_a_ssr_desc:
   en: 'Snow White: Heavy Arms'
   ko: '스노우 화이트 : 헤비암즈'
   ja: スノーホワイト：ヘビーアームズ
+472_name:
+  en: 'Scarlet: Goddeath'
+  ko: '홍련 : 신살'
+  ja: 紅蓮：神殺
+473_name:
+  en: 'Rapunzel: Sanctuary'
+  ko: '라푼젤 : 생츄어리'
+  ja: ラプンツェル：サンクチュアリ
 c225_Lobby_Touch_1:
   en: |-
     Nothing is eternal.

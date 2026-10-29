@@ -106,7 +106,7 @@ skill_name_1002:
 13503_description:
   en: |-
     ■ Affects self and the {description_value_01} ally unit(s) with the highest <word_group=10025>final</word_group> ATK (except the skill user).
-    <color=#00AEFF>Max HP ▲ {description_value_02}% of the skill user's max HP (without restoring HP). Lasts for {description_value_03} sec.
+    <color=#00AEFF>Max HP ▲ {description_value_02}% of the skill user's max HP (without restoring HP) for {description_value_03} sec.
     Critical Damage ▲ {description_value_04}% for {description_value_05} sec.</color>
     ■ Affects targets in the Sea Breeze state.
     <color=#00AEFF>Storm: Deals {description_value_06}% of <word_group=10025>final</word_group> ATK as damage. <word_group=10026>Mirrors the stack count</word_group> of Sea Breeze every second for {description_value_07} sec.</color>

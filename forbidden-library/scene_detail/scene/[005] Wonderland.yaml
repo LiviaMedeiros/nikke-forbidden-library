@@ -915,7 +915,7 @@ d_main_05_04_e:
     ja: あなたの名前は何？
   d_main_05_04_e_23:
     speaker: girl
-    en: "@UserName? That's an unusual name."
+    en: "@UserName? Haha, that's a weird name."
     ko: |-
       @UserName?
       하하. 이상한 이름이네.
@@ -924,12 +924,12 @@ d_main_05_04_e:
       あは、変な名前。
   d_main_05_04_e_24:
     speaker: girl
-    en: What are you doing here?
+    en: How'd you end up in here?
     ko: 넌 어쩌다 여기 온 거야?
     ja: あなたはどうしてここに来たの？
   d_main_05_04_e_25:
     speaker: girl
-    en: What's that? You're sick? Makes sense, considering this is a hospital.
+    en: You're sick? Well yeah, I figured that, since this is a hospital.
     ko: |-
       응? 병이 있다고?
       그야 당연하지. 병원이니까.
@@ -938,7 +938,8 @@ d_main_05_04_e:
       当然でしょう、ここ病院だし。
   d_main_05_04_e_26:
     speaker: girl
-    en: Well, I'm sick too. You could say I'm... insane in the membrane.
+    en: I'm sick too. They said it's... I can't remember. Something to do with my
+      brain.
     ko: |-
       나도 있어, 병.
       뭐라더라… 뇌가 뭐 어떻다고 했던 것 같은데.
@@ -948,7 +949,7 @@ d_main_05_04_e:
       言ってたけど。
   d_main_05_04_e_27:
     speaker: girl
-    en: Oh dear, I haven't properly introduced myself.
+    en: Oh, I haven't even introduced myself.
     ko: |-
       아.
       내 소개를 안 했구나.
@@ -1158,12 +1159,12 @@ d_main_05_04_e:
       1つ聞くわ。
       女王と指揮官、どちらが偉いと思う？
   d_main_05_04_e_59:
-    speaker: Choice
+    speaker: "<Choice>"
     en: "... The Queen."
     ko: "…여왕."
     ja: "…女王"
   d_main_05_04_e_60:
-    speaker: Choice
+    speaker: "<Choice>"
     en: Commander.
     ko: 지휘관.
     ja: 指揮官

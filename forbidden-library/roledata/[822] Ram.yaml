@@ -63,8 +63,8 @@ character_shot_description_localkey_sr_up:
 18222_description:
   en: |-
     ■ Affects self.
-    <color=#00AEFF>Max HP ▲ {description_value_01}% without restoring HP for {description_value_02} sec.</color>
-    ■ Affects {description_value_03} ally unit(s) with the lowest remaining HP.
+    <color=#00AEFF>Max HP ▲ {description_value_01}% (without restoring HP) for {description_value_02} sec.</color>
+    ■ Affects the {description_value_03} ally unit(s) with the lowest remaining HP.
     <color=#00AEFF>DEF ▲ {description_value_04}% of the skill user's DEF for {description_value_05} sec.</color>
   ko: |-
     ■ 자신에게

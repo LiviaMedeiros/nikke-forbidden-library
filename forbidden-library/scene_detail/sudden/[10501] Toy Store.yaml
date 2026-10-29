@@ -6446,3 +6446,637 @@ d_ex_toyshop_12:
     ja: |-
       ブリッドはミカが勧めてくれた物の中から
       プレゼントを選んだ
+d_ex_toyshop_13:
+  d_ex_toyshop_13_1:
+    speaker: "<Narration>"
+    en: "*Jingle*"
+    ko: 딸랑-
+    ja: チリン――
+  d_ex_toyshop_13_2:
+    speaker: belorta
+    en: Welcome, Old-Timer! ♡
+    ko: 어서 와, 아저씨♡
+    ja: いらっしゃい、おじさん♡
+  d_ex_toyshop_13_3:
+    speaker: sky
+    en: Oh, Captain?
+    ko: 어, 캡틴?
+    ja: あら、キャプテン？
+  d_ex_toyshop_13_4:
+    speaker: "<Self>"
+    en: Huh, Sky? What brings you here?
+    ko: 응? 스카이가 여긴 웬일이야?
+    ja: ん？スカイがどうしてここに？
+  d_ex_toyshop_13_5:
+    speaker: sky
+    en: I thought a toy modeled after Zoomie would make the cabin feel a little more
+      inviting, so I came to pick one out.
+    ko: 붕붕이처럼 생긴 장난감을 기내에 두면, 분위기가 더 좋을 것 같아서 사러왔어요.
+    ja: |-
+      ブンブン号に似たおもちゃを機内に置いたら、
+      もっと雰囲気がよくなると思って
+      買いに来たんです。
+  d_ex_toyshop_13_6:
+    speaker: sky
+    en: But I'm not sure which one to get...
+    ko: 근데 뭘 사야할지….
+    ja: でも、何を買えばいいのか…
+  d_ex_toyshop_13_7:
+    speaker: belorta
+    en: Lemme pick one for you!
+    ko: 내가 추천해준다니까~
+    ja: だから私がおすすめしてあげるってば～
+  d_ex_toyshop_13_8:
+    speaker: sky
+    en: But everything you recommend is weird.
+    ko: 벨로타가 추천해주는 건 다 이상한 거잖아요.
+    ja: |-
+      ベロータのおすすめは、
+      どれも変なものばかりじゃないですか。
+  d_ex_toyshop_13_9:
+    speaker: belorta
+    en: Weird, you say?
+    ko: 이상하다니~
+    ja: 変だなんて～
+  d_ex_toyshop_13_10:
+    speaker: belorta
+    en: This is what I call fun!
+    ko: 이런 건 재밌다고 하는거야!
+    ja: こういうのを面白いって言うんだよ！
+  d_ex_toyshop_13_11:
+    speaker: "<Self>"
+    en: What'd she recommend to get you acting like that?
+    ko: 뭘 추천해줬길래 그래?
+    ja: 何を勧められたんだ？
+  d_ex_toyshop_13_12:
+    speaker: sky
+    en: "*Sigh...*"
+    ko: 하아….
+    ja: はぁ…
+  d_ex_toyshop_13_13:
+    speaker: "<Monologue>"
+    en: Sky cautiously points to an ordinary-looking toy airplane.
+    ko: 스카이가 조심스레 가리킨 건, 흔하게 생긴 비행기 장난감이었다.
+    ja: |-
+      スカイがそっと指さしたのは、
+      ありふれた飛行機のおもちゃだった
+  d_ex_toyshop_13_14:
+    speaker: "<Self>"
+    en: Isn't that just a model airplane?
+    ko: 그냥 비행기 모형 아니야?
+    ja: ただの飛行機の模型じゃないのか？
+  d_ex_toyshop_13_15:
+    speaker: belorta
+    en: Hehe! Is it, though?
+    ko: 헤헤~ 과연 그럴까?
+    ja: えへへ～、ホントにそうかな？
+  d_ex_toyshop_13_16:
+    speaker: belorta
+    en: Take that!
+    ko: 에잇!
+    ja: えいっ！
+  d_ex_toyshop_13_17:
+    speaker: "<Narration>"
+    en: "*Squiiirt*"
+    ko: 찌익-
+    ja: ピューッ
+  d_ex_toyshop_13_18:
+    speaker: "<Self>"
+    en: Agh! It's cold!
+    ko: 앗 차가워!
+    ja: わっ、冷たい！
+  d_ex_toyshop_13_19:
+    speaker: belorta
+    en: Kyahaha! ♡
+    ko: 꺄하하~♡
+    ja: キャハハ～♡
+  d_ex_toyshop_13_20:
+    speaker: belorta
+    en: Your reactions never get old, Old-Timer!
+    ko: 역시 아저씨 반응이 재밌단 말이야~
+    ja: |-
+      やっぱおじさんのリアクションって、
+      面白いんだよね～
+  d_ex_toyshop_13_21:
+    speaker: "<Self>"
+    en: Wait, that's a water gun?
+    ko: 뭐야, 물총이었어?
+    ja: なんだ、水鉄砲だったのか
+  d_ex_toyshop_13_22:
+    speaker: sky
+    en: Yes... I wanted something to decorate the cabin with, but she kept recommending
+      things like this.
+    ko: 네… 근데 저는 장식품으로 두고 싶은데, 이런 것만 추천해주더라고요.
+    ja: |-
+      はい…私は飾るためのものが欲しいのに、
+      こういうものばかり勧めてくるんです。
+  d_ex_toyshop_13_23:
+    speaker: belorta
+    en: It's a decoration until you feel like squirting someone with it!
+    ko: 장식품으로 뒀다가, 물총으로 쓰기도 하는거지~
+    ja: |-
+      飾っておいて、
+      水鉄砲としても使えばいいでしょ～
+  d_ex_toyshop_13_24:
+    speaker: belorta
+    en: Wouldn't that make flying more fun?
+    ko: 그럼 비행이 더 재밌어지지 않겠어?
+    ja: |-
+      そしたら、フライトが
+      もっと楽しくなるんじゃない？
+  d_ex_toyshop_13_25:
+    speaker: sky
+    en: But Zoomie would get dirty pretty quickly if I used it like that.
+    ko: 하지만 그런 걸 쓰면 붕붕이가 금방 더러워질거예요.
+    ja: |-
+      ですが、そんなふうに使ったら
+      ブンブン号がすぐにびしょ濡れになってしますよ。
+  d_ex_toyshop_13_26:
+    speaker: belorta
+    en: Hmm... You're a tough one.
+    ko: 흐응~ 어렵네.
+    ja: う～ん、難しいなぁ。
+  d_ex_toyshop_13_27:
+    speaker: belorta
+    en: Then how about this one?
+    ko: 그럼 이건 어때?
+    ja: じゃあ、これはどう？
+  d_ex_toyshop_13_28:
+    speaker: "<Monologue>"
+    en: This time, Belorta pulls out a toy airplane fitted with a red laser.
+    ko: 이번에 벨로타가 꺼낸 장난감은 붉은 레이저 포인트가 달린 비행기 장난감이었다.
+    ja: |-
+      次にベロータが取り出したのは、
+      赤いレーザーポインターが付いた
+      飛行機のおもちゃだった
+  d_ex_toyshop_13_29:
+    speaker: belorta
+    en: Ta-da! ♡
+    ko: 바로바로~♡
+    ja: じゃじゃ～ん♡
+  d_ex_toyshop_13_30:
+    speaker: belorta
+    en: It's a plane that shoots missiles out of its wings! Pew, pew!
+    ko: 날개에서 미사일이 팡팡 나가는 비행기야!
+    ja: |-
+      翼からミサイルが
+      ポンポン飛び出す飛行機だよ！
+  d_ex_toyshop_13_31:
+    speaker: belorta
+    en: It even makes sounds!
+    ko: 소리도 나!
+    ja: 音も鳴るの！
+  d_ex_toyshop_13_32:
+    speaker: "<Narration>"
+    en: Belorta presses the toy airplane.
+    ko: 꾸욱-
+    ja: ポチッ
+  d_ex_toyshop_13_33:
+    speaker: "<Narration>"
+    en: "*Pew! Pew!*"
+    ko: 피슝! 피슝!
+    ja: ピューン！ピューン！
+  d_ex_toyshop_13_34:
+    speaker: sky
+    en: "... If you fire missiles at this angle, the recoil will flip the plane over."
+    ko: "…이 날개 각도에서 미사일을 쏘면, 반동으로 기체가 뒤집힐거예요."
+    ja: |-
+      …この翼の角度でミサイルを撃ったら、
+      反動で機体がひっくり返ってしまいます。
+  d_ex_toyshop_13_35:
+    speaker: belorta
+    en: Ehhh?
+    ko: 에엥?
+    ja: ええっ？
+  d_ex_toyshop_13_36:
+    speaker: sky
+    en: It'd crash in three seconds if this were real combat.
+    ko: 실전이었으면 3초만에 추락이라고요.
+    ja: 実戦だったら、3秒で墜落しますよ。
+  d_ex_toyshop_13_37:
+    speaker: belorta
+    en: But it's just a toy, you know?
+    ko: 그렇지만 이건 장난감인걸~?
+    ja: でも、これはおもちゃだし～？
+  d_ex_toyshop_13_38:
+    speaker: sky
+    en: Toy or not, anything that flies has to meet certain standards.
+    ko: 장난감이라도, 하늘을 나는 거라면 기본은 지켜야죠.
+    ja: |-
+      おもちゃであっても、
+      空を飛ぶものなら基本原理は守るべきです。
+  d_ex_toyshop_13_39:
+    speaker: belorta
+    en: Tch, so picky.
+    ko: 칫, 까다롭긴~
+    ja: ちぇっ、細かいんだから～
+  d_ex_toyshop_13_40:
+    speaker: sky
+    en: I guess... you don't have the toy plane I'm looking for here.
+    ko: 아무래도… 여기에 제가 원하는 비행기 장난감은 없나봐요.
+    ja: |-
+      どうやら…ここには、私が探している
+      飛行機のおもちゃはなさそうですね。
+  d_ex_toyshop_13_41:
+    speaker: sky
+    en: Well, I'd better get going...
+    ko: 그럼 전 이만….
+    ja: では、私はこれで…
+  d_ex_toyshop_13_42:
+    speaker: belorta
+    en: Waaait!
+    ko: 잠까안!
+    ja: ちょっと待った！
+  d_ex_toyshop_13_43:
+    speaker: belorta
+    en: Think you can still say that after seeing this?!
+    ko: 이걸 보고도 그런 말이 나올 수 있을까?!
+    ja: これを見ても、そんなこと言えるかな！？
+  d_ex_toyshop_13_44:
+    speaker: belorta
+    en: Ta-da! ♡
+    ko: 바로바로~♡
+    ja: じゃじゃ～ん♡
+  d_ex_toyshop_13_45:
+    speaker: belorta
+    en: It's the latest and greatest in tiltrotors, the iRider RTX!
+    ko: 최첨단 [헬리콥터형 비행기, 아이라이더 RTX]야!
+    ja: |-
+      最先端の「ヘリコプター型飛行機、
+      アイライダーRTX」だよ！
+  d_ex_toyshop_13_46:
+    speaker: "<Monologue>"
+    en: With a dead-serious expression, Belorta pulls out a toy airplane with helicopter
+      rotors.
+    ko: 벨로타가 비장하게 꺼낸 장난감은, 헬리콥터의 프로펠러가 달린 비행기 장난감이었다.
+    ja: |-
+      ベロータが満を持して取り出したのは、
+      ヘリコプターのプロペラがついた
+      飛行機のおもちゃだった
+  d_ex_toyshop_13_47:
+    speaker: sky
+    en: Th-that's... the one they say is almost as fast as a fighter jet...!
+    ko: 저, 저건… 속도감이 너무 빨라 마치 전투기 같다던 그…!
+    ja: |-
+      そ、それは…速すぎて、まるで戦闘機のようだと
+      言われていた、あの…！
+  d_ex_toyshop_13_48:
+    speaker: belorta
+    en: Hehe! So you do know it!
+    ko: 흐흥~ 역시 아는구나?
+    ja: フフン～、やっぱり知ってるんだ？
+  d_ex_toyshop_13_49:
+    speaker: sky
+    en: I mean, their ads are everywhere...
+    ko: 광고를 너무 많이 해서….
+    ja: たくさん宣伝していましたから…
+  d_ex_toyshop_13_50:
+    speaker: sky
+    en: "*Ahem*"
+    ko: 큼큼.
+    ja: コホン。
+  d_ex_toyshop_13_51:
+    speaker: sky
+    en: Can I take a look?
+    ko: 한 번 볼 수 있을까요?
+    ja: ちょっと見せてもらえますか？
+  d_ex_toyshop_13_52:
+    speaker: belorta
+    en: Sure, go ahead!
+    ko: 그럼, 당연하지.
+    ja: うん、もちろん。
+  d_ex_toyshop_13_53:
+    speaker: "<Monologue>"
+    en: Belorta hands Sky the plane and controller, and she expertly takes the controls.
+    ko: 벨로타가 비행기와 조종기를 건네 주자, 스카이가 능숙하게 조종을 시작했다.
+    ja: |-
+      スカイはベロータから飛行機とコントローラーを
+      受け取ると、慣れた手つきで操縦を始めた
+  d_ex_toyshop_13_54:
+    speaker: "<Narration>"
+    en: "*Beep*"
+    ko: 삑-
+    ja: ピッ
+  d_ex_toyshop_13_55:
+    speaker: "<Narration>"
+    en: "*Whoosh*"
+    ko: 씨잉-
+    ja: ビュン――
+  d_ex_toyshop_13_56:
+    speaker: "<Self>"
+    en: Whoa... That's really fast.
+    ko: 오… 확실히 빠르긴 하네.
+    ja: おお…確かに速いな
+  d_ex_toyshop_13_57:
+    speaker: sky
+    en: It is, isn't it?
+    ko: 그쵸.
+    ja: そうでしょう？
+  d_ex_toyshop_13_58:
+    speaker: sky
+    en: And you can make really precise turns with it, too.
+    ko: 심지어 정교하게 조종할 수도 있어요.
+    ja: |-
+      しかも、かなり精密な
+      コントロールもできるんです。
+  d_ex_toyshop_13_59:
+    speaker: sky
+    en: Most toys like this can only move in one direction at a time,
+    ko: 보통 이런 장난감은 한 번에 한 방향씩만 움직이는데,
+    ja: |-
+      普通、こういうおもちゃは
+      一度に一方向にしか動かないんですが、
+  d_ex_toyshop_13_60:
+    speaker: sky
+    en: but this one lets you press multiple buttons at once to change direction.
+    ko: 이건 버튼을 동시에 눌러서, 방향을 꺾을 수도 있고.
+    ja: |-
+      これはボタンを同時に押せば、
+      方向転換もできますし、
+  d_ex_toyshop_13_61:
+    speaker: sky
+    en: It can even spin in place.
+    ko: 제자리 회전까지도 가능하거든요.
+    ja: その場で旋回することもできるんです。
+  d_ex_toyshop_13_62:
+    speaker: "<Monologue>"
+    en: The plane zips around the toy store once before coming back down.
+    ko: 비행기는 장난감 가게를 빠르게 한 번 훑고 내려왔다.
+    ja: |-
+      飛行機はおもちゃ屋の中をさっと一巡し、
+      降りてきた
+  d_ex_toyshop_13_63:
+    speaker: sky
+    en: Hmm... It's pretty fast and responsive, too.
+    ko: 흠… 속도감이나 움직임도 좋고.
+    ja: うん…スピード感や動きもいいですし…
+  d_ex_toyshop_13_64:
+    speaker: "<Monologue>"
+    en: Sky sets the toy down and looks it over.
+    ko: 스카이는 내려놓은 장난감을 이리저리 둘러보았다.
+    ja: |-
+      スカイは置いたおもちゃを
+      いろいろな角度からながめた
+  d_ex_toyshop_13_65:
+    speaker: sky
+    en: As for how it looks...
+    ko: 모양은….
+    ja: 見た目は…
+  d_ex_toyshop_13_66:
+    speaker: sky
+    en: "..."
+    ko: "……."
+    ja: "……"
+  d_ex_toyshop_13_67:
+    speaker: belorta
+    en: Well? Don't you just wanna put it next to Zoomie right now?
+    ko: 어때, 당장이라도 붕붕이 곁에 두고 싶지 않아?
+    ja: |-
+      どう？今すぐにでも
+      ブンブン号の中に置きたくならない？
+  d_ex_toyshop_13_68:
+    speaker: sky
+    en: No, this one isn't really doing it for me either.
+    ko: 아뇨. 이것도 별로네요.
+    ja: いいえ、これもあまり良くありませんね。
+  d_ex_toyshop_13_69:
+    speaker: belorta
+    en: Huhhh? What's the problem now?
+    ko: 에엥? 이건 또 왜?
+    ja: ええっ？なんで？
+  d_ex_toyshop_13_70:
+    speaker: sky
+    en: I'm not a fan of how it looks.
+    ko: 기내가 별로에요.
+    ja: 機体がイマイチです。
+  d_ex_toyshop_13_71:
+    speaker: sky
+    en: It's neither a helicopter nor a plane.
+    ko: 헬리콥터도, 비행기도 아닌.
+    ja: ヘリコプターでも飛行機でもなく、
+  d_ex_toyshop_13_72:
+    speaker: sky
+    en: It's some weird hybrid of the two.
+    ko: 이상하게 둘이 섞은 모양이에요.
+    ja: |-
+      その2つを変に混ぜ合わせたような
+      形をしています。
+  d_ex_toyshop_13_73:
+    speaker: sky
+    en: I could never let a toy like this sit next to Zoomie.
+    ko: 이런 애매한 장난감은 절대 저희 붕붕이 곁에 둘 수 없어요.
+    ja: |-
+      こんな中途半端なおもちゃを、
+      うちのブンブン号に置くことはできません。
+  d_ex_toyshop_13_74:
+    speaker: belorta
+    en: Wait, what?
+    ko: 뭐어~?
+    ja: そんなぁ～
+  d_ex_toyshop_13_75:
+    speaker: sky
+    en: Isn't there a simpler plane that sticks to the basics?
+    ko: 좀 더 단순하고 본질에 충실한 비행기는 없을까요?
+    ja: |-
+      もう少しシンプルで、
+      飛行機本来の形に忠実なものはありませんか？
+  d_ex_toyshop_13_76:
+    speaker: belorta
+    en: Hmm... Let's see...
+    ko: 흐응… 글쎄에~
+    ja: う～ん…あったかな～？
+  d_ex_toyshop_13_77:
+    speaker: "<Monologue>"
+    en: As she follows Belorta around the store, Sky glances around before pointing
+      toward a corner.
+    ko: 벨로타를 따라 가게를 두리번거리던 스카이는 손가락으로 한 쪽 구석을 가리킨다.
+    ja: |-
+      ベロータの後について店内を見ていた
+      スカイが、隅のほうを指さした
+  d_ex_toyshop_13_78:
+    speaker: sky
+    en: Hmm?
+    ko: 음?
+    ja: あれは？
+  d_ex_toyshop_13_79:
+    speaker: sky
+    en: Isn't that a plane too?
+    ko: 저것도 비행기 아닌가요?
+    ja: あれも飛行機ではありませんか？
+  d_ex_toyshop_13_80:
+    speaker: "<Monologue>"
+    en: Sky points at a toy airplane covered in dust.
+    ko: 스카이가 가리킨 건, 먼지가 잔뜩 쌓인 비행기 장난감이었다.
+    ja: |-
+      スカイが指さしたのは、
+      ホコリをかぶった飛行機のおもちゃだった
+  d_ex_toyshop_13_81:
+    speaker: belorta
+    en: Oh, that one? Nobody wants it 'cause it's no fun, so I stuck it in the corner.
+    ko: 아~ 저건 재미도 없고, 팔리지도 않아서 구석에 둔거야.
+    ja: |-
+      あ～、あれはつまんないし、売れもしないから
+      隅っこに置いてたんだよね。
+  d_ex_toyshop_13_82:
+    speaker: sky
+    en: Could I take a look anyway?
+    ko: 그래도 한 번 볼 수 있을까요?
+    ja: ちょっと見せていただけますか？
+  d_ex_toyshop_13_83:
+    speaker: belorta
+    en: You might find it kinda boring, though.
+    ko: 재미없어 할 거 같긴 한데.
+    ja: つまんないと思うけど、
+  d_ex_toyshop_13_84:
+    speaker: belorta
+    en: But if that's what you wanna see, I'll show you! ♡
+    ko: 손님이 원한다면 보여줘야지~♡
+    ja: お客さんのご希望なら、どうぞ～♡
+  d_ex_toyshop_13_85:
+    speaker: "<Monologue>"
+    en: Belorta picks up the toy, lightly dusts it off, and hands it to Sky.
+    ko: 벨로타가 장난감을 집어 가볍게 먼지를 털어내고, 스카이에게 건네주었다.
+    ja: |-
+      ベロータはおもちゃを手に取ると、
+      軽くホコリを払ってスカイに渡した
+  d_ex_toyshop_13_86:
+    speaker: belorta
+    en: Here you go!
+    ko: 자, 여기.
+    ja: はい。
+  d_ex_toyshop_13_87:
+    speaker: sky
+    en: Oh? There's a button?
+    ko: 음? 버튼이 있네요?
+    ja: おや？ボタンがありますね？
+  d_ex_toyshop_13_88:
+    speaker: "<Narration>"
+    en: Sky presses the button on the toy airplane.
+    ko: 꾸욱-
+    ja: ポチッ――
+  d_ex_toyshop_13_89:
+    speaker: "<Narration>"
+    en: "*Twang, twang* Scream at this crazy world! SCREAM!"
+    ko: 지잉지잉~ 미쳐버린 세상을 향해 소리치는거야~ SCREAM!
+    ja: |-
+      ギュイ～ン…
+      イカれた世界に向かって叫ぶんだ～
+      SCREAM！
+  d_ex_toyshop_13_90:
+    speaker: "<Monologue>"
+    en: A rock song blares from the toy airplane.
+    ko: 버튼을 누르자 흘러나온 건 락 노래였다.
+    ja: 流れてきたのはロックの曲だった
+  d_ex_toyshop_13_91:
+    speaker: sky
+    en: Ooh!
+    ko: 오!
+    ja: おおっ！
+  d_ex_toyshop_13_92:
+    speaker: sky
+    en: What's this?
+    ko: 이건 뭐죠?
+    ja: これは何ですか？
+  d_ex_toyshop_13_93:
+    speaker: belorta
+    en: Huh? It's just a toy that plays a song when you press the button...?
+    ko: 응? 그냥 버튼 누르면 노래 나오는 평범한 장난감인데…?
+    ja: |-
+      ん？ただボタンを押すと曲が流れる、
+      普通のおもちゃだけど…？
+  d_ex_toyshop_13_94:
+    speaker: sky
+    en: I love this!
+    ko: 이거 너무 좋은데요?
+    ja: これ、すごく気に入りました！
+  d_ex_toyshop_13_95:
+    speaker: sky
+    en: It's exactly the kind of plane I've been looking for.
+    ko: 딱 제가 가지고 싶던 비행기에요.
+    ja: まさに私が探していた飛行機です！
+  d_ex_toyshop_13_96:
+    speaker: sky
+    en: You should've shown me this sooner if you had it all along!
+    ko: 이런 게 있었으면 진작 보여주셨어야죠.
+    ja: |-
+      こんなものがあるなら、
+      最初から見せてください。
+  d_ex_toyshop_13_97:
+    speaker: belorta
+    en: Huh?
+    ko: 으응?
+    ja: ええっ？
+  d_ex_toyshop_13_98:
+    speaker: belorta
+    en: What's so fun about a toy that just plays music?
+    ko: 그냥 노래만 나오는 게 뭐가 재밌다고~
+    ja: |-
+      ただ曲が流れるだけなのに、
+      何がそんなに面白いの～
+  d_ex_toyshop_13_99:
+    speaker: sky
+    en: It's not just any music!
+    ko: 그냥 노래가 아니라고요!
+    ja: ただの曲ではありません！
+  d_ex_toyshop_13_100:
+    speaker: sky
+    en: This is pure rock 'n' roll!
+    ko: 이건 락앤롤 그 자체에요!
+    ja: これはロックンロールそのものです！
+  d_ex_toyshop_13_101:
+    speaker: "<Monologue>"
+    en: Suddenly, Sky hugs the toy to her chest and starts muttering.
+    ko: 갑자기 스카이가 장난감을 품에 안고 중얼거렸다.
+    ja: |-
+      スカイは突然おもちゃを胸に抱え、
+      ぼそりとつぶやいた
+  d_ex_toyshop_13_102:
+    speaker: sky
+    en: What if I took off with this in the cockpit...?
+    ko: 이걸 조종석 옆에 세워두고 비행을 하면…?
+    ja: |-
+      こいつを操縦席の横に置いて
+      空の上をブッ飛ばしたら…？
+  d_ex_toyshop_13_103:
+    speaker: sky
+    en: Hehe... Now that's the spirit of rock 'n' roll...
+    ko: 후후… 이거 완전 락 스피릿이잖아…?
+    ja: ふふっ…これぞロックスピリットじゃねぇか…？
+  d_ex_toyshop_13_104:
+    speaker: belorta
+    en: "... What's gotten into Sky all of a sudden, Old-Timer?"
+    ko: "…스카이가 갑자기 왜 저러는거야, 아저씨?"
+    ja: |-
+      …おじさん、スカイの様子が
+      急におかしくなっちゃんだけど…
+  d_ex_toyshop_13_105:
+    speaker: "<Self>"
+    en: She's always been into stuff like that...
+    ko: 원래 저런 걸 좋아해….
+    ja: 元々ああいうのが好きなんだ…
+  d_ex_toyshop_13_106:
+    speaker: sky
+    en: I'll take this one.
+    ko: 저 이걸로 할게요.
+    ja: これにします！
+  d_ex_toyshop_13_107:
+    speaker: sky
+    en: It's the perfect toy for Zoomie.
+    ko: 붕붕이한테 딱 어울리는 장난감이에요.
+    ja: ブンブン号にぴったりです。
+  d_ex_toyshop_13_108:
+    speaker: belorta
+    en: Mhm, I'm glad you found one you like! ♡
+    ko: 그래~ 뭐가 됐든 마음에 드는 걸 찾아서 다행이야~♡
+    ja: |-
+      そっか～、とにかく気に入ったものが
+      見つかってよかった～♡
+  d_ex_toyshop_13_109:
+    speaker: "<Monologue>"
+    en: Sky heads off with a happy smile. Not long after, she sends a photo and gushes
+      about how much she loved it.
+    ko: 그렇게 스카이는 행복한 미소를 띠며 돌아갔고, 얼마 뒤, 인증샷을 보내며 너무 좋다는 후기를 남겼다.
+    ja: |-
+      そしてスカイは幸せそうな笑顔で帰っていった。
+      しばらくして、おもちゃの写真と一緒に
+      とても気に入ったという感想が私のもとに届いた

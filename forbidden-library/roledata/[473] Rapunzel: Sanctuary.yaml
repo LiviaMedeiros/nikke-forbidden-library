@@ -1,0 +1,612 @@
+---
+473_name:
+  en: 'Rapunzel: Sanctuary'
+  ko: '라푼젤 : 생츄어리'
+  ja: ラプンツェル：サンクチュアリ
+c473_description:
+  en: Rapunzel's mobility has greatly increased thanks to Red Shoes's parts. She now
+    appears more divine than ever, and grants salvation to her enemies with her new
+    staff that is capable of dismantling even nanomachines with its vibrations.
+  ko: |-
+    레드 슈즈의 파츠로 인해 기동력이 크게 향상된 라푼젤.
+    한층 더 성스러워진 모습.
+    나노머신마저 분해하는 초진동 지팡이로 적에게 구원을 선사한다.
+  ja: |-
+    レッドシューズのパーツによって
+    機動力が大幅に向上したラプンツェル。
+    さらに神聖な姿となった。ナノマシンさえも
+    分解する超振動の杖で敵に救いをもたらす。
+473_cv:
+  en: "-"
+  ko: "-"
+  ja: "-"
+piece_473:
+  en: 'Rapunzel: Sanctuary''s Spare Body'
+  ko: '라푼젤 : 생츄어리 스페어 바디'
+  ja: ラプンツェル：サンクチュアリのスペアボディ
+piece:
+  en: |-
+    Used for a Nikke's Limit Break.
+    Spare Bodies for a fully enhanced Nikke will be converted into Body Labels.
+  ko: |-
+    니케의 한계돌파 재료로 사용됩니다.
+    최대로 성장한 니케의 스페어 바디는 바디 라벨로 변경됩니다.
+  ja: |-
+    ニケの限界突破素材として使用する
+    最大値まで成長したニケのスペアボディは、\nボディラベルに変更される
+character_shot_name_localkey_rl_up:
+  en: Rocket Launcher
+  ko: 런처
+  ja: ロケットランチャー
+character_shot_description_localkey_rl_up:
+  en: |-
+    ■ Affects target(s).
+    <color=#00AEFF>Deals {damage}% of ATK as damage.
+    Charge Time: {charge_time} sec.
+    Full Charge Damage: {full_charge_damage}% of damage.
+    Deals {core_damage_rate}% damage when attacking core.</color>
+  ko: |-
+    ■ 대상에게
+    <color=#00AEFF>[공격력 {damage}% 대미지]
+    차지 시간: {charge_time}초
+    풀 차지 대미지: {full_charge_damage}% 대미지
+    [코어 대미지 {core_damage_rate}%]</color>
+  ja: |-
+    ■対象に
+    <color=#00AEFF>「攻撃力の{damage}％のダメージ」
+    チャージ時間：{charge_time}秒
+    フルチャージダメージ：{full_charge_damage}％のダメージ
+    「コアダメージ{core_damage_rate}％」</color>
+24732_name:
+  en: Celestial Haven
+  ko: 셀레스티얼 헤이븐
+  ja: セレスティアルヘヴン
+24732_description:
+  en: |-
+    ■ Activates when Full Charge is maintained for {description_value_01} or more seconds while this unit is not in the Goddess Blessing state. Affects self.
+    <color=#00AEFF>Creates a shared <word_group=10023>shield</word_group> with HP equal to {description_value_02}% of the skill user's <word_group=10025>final</word_group> max HP that protects all allies from damage. This shield is removed when charging ends.</color>
+    ■ Activates when Full Charge is maintained for {description_value_01} or more seconds while this unit is not in the Goddess Blessing state. Affects all allies.
+    <color=#00AEFF>Goddess Blessing: DEF ▲ {description_value_03}% of the skill user's DEF for {description_value_04} sec.</color>
+    ■ Activates when entering Full Burst. Affects self and all allies in the <word_group=10111>Into the Fray</word_group> state.
+    <color=#00AEFF>ATK ▲ {description_value_05}% of the skill user's ATK for {description_value_06} sec.</color>
+    ■ Activates when performing a Full Charge attack. Affects the enemy nearest to the crosshair.
+    <color=#00AEFF>Deals {description_value_07}% of <word_group=10025>final</word_group> ATK as additional damage.</color>
+  ko: |-
+    ■ 풀 차지 상태를 {description_value_01}초 이상 유지 시 자신이 갓데스 블레싱 상태가 아니라면 자신에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_02}% 공용 <word_group=10023>보호막</word_group>] [차지 종료 시 제거]</color>
+    ■ 풀 차지 상태를 {description_value_01}초 이상 유지 시 자신이 갓데스 블레싱 상태가 아니라면 아군 전체에게
+    <color=#00AEFF>[갓데스 블레싱 : 시전자 기준 방어력 {description_value_03}% ▲] [{description_value_04}초 유지]</color>
+    ■ 풀 버스트 타임 시작 시 자신과 <word_group=10111>임전</word_group> 상태인 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_05}% ▲] [{description_value_06}초 유지]</color>
+    ■ 풀 차지 공격 시 조준선에 가장 가까운 적 1기에게
+    <color=#00AEFF>[<word_group=10025>최종</word_group> 공격력 {description_value_07}% 추가 대미지]</color>
+  ja: |-
+    ■フルチャージ状態を{description_value_01}秒以上維持した時、
+    自分がゴッデスブレッシング状態でなければ、
+    自分に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_02}％の共用<word_group=10023>バリア</word_group>」
+    「チャージ終了時に解除」</color>
+    ■フルチャージ状態を{description_value_01}秒以上維持した時、
+    自分がゴッデスブレッシング状態でなければ
+    味方全体に
+    <color=#00AEFF>「ゴッデスブレッシング：
+    スキル発動者基準で防御力{description_value_03}％▲」
+    「{description_value_04}秒間維持」</color>
+    ■フルバーストタイムが発動した時、
+    自分と<word_group=10111>臨戦</word_group>状態の味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_05}％▲」「{description_value_06}秒間維持」</color>
+    ■フルチャージして攻撃した時、
+    照準線に最も近い敵1機に
+    <color=#00AEFF>「<word_group=10025>最終</word_group>攻撃力{description_value_07}％追加ダメージ」</color>
+skill_name_1003:
+  en: Skill 2
+  ko: 스킬2
+  ja: スキル2
+24731_name:
+  en: Divine Light
+  ko: 디바인 라이트
+  ja: ディヴァインライト
+24731_description:
+  en: |-
+    ■ Activates when performing a Full Charge attack. Affects all allies.
+    <color=#00AEFF>Restores HP equal to {description_value_01}% of the skill user's <word_group=10025>final</word_group> max HP.</color>
+    ■ Activates when entering Full Burst. Affects self and all allies in the <word_group=10111>Into the Fray</word_group> state.
+    <color=#00AEFF>Attack Damage ▲ {description_value_02}% for {description_value_03} sec.</color>
+    ■ Activates when using Nanoparticle Injection. Affects self.
+    <color=#00AEFF><word_group=10031>Cooldown</word_group> of Burst Skill ▲ {description_value_04} sec. This effect cannot be removed.
+    Nanoparticle Consumption: DEF ▲ {description_value_05}%. This effect is continuous and cannot be removed. Effect persists after revival.</color>
+    ■ Activates only when at Full Charge during a Full Charge attack. Affects self.
+    <color=#00AEFF>Gains <word_group=10092>immunity to effects that increase charge speed</word_group>. This effect is continuous.
+    Gains <word_group=10093>immunity to effects that decrease charge speed</word_group>. This effect is continuous.</color>
+  ko: |-
+    ■ 풀 차지 공격 시 아군 전체에게
+    <color=#00AEFF>[시전자의 <word_group=10025>최종</word_group> 최대 체력 비례 {description_value_01}% 회복]</color>
+    ■ 풀 버스트 타임 시작 시 자신과 <word_group=10111>임전</word_group> 상태인 아군 전체에게
+    <color=#00AEFF>[공격 대미지 {description_value_02}% ▲] [{description_value_03}초 유지]</color>
+    ■ 나노 입자 투여 사용 시 자신에게
+    <color=#00AEFF>[버스트 스킬 <word_group=10031>재사용 시간</word_group> {description_value_04}초 ▲] [해제 불가]
+    [나노 입자 소모 : 방어력 {description_value_05}% ▲] [지속] [해제 불가] [부활 시 유지]</color>
+    ■ 풀 차지 시 자신이 풀 차지 상태일 때 한하여 자신에게
+    <color=#00AEFF>[<word_group=10092>차지 속도 증가 효과 면역</word_group>] [지속]
+    [<word_group=10093>차지 속도 감소 효과 면역</word_group>] [지속]</color>
+  ja: |-
+    ■フルチャージして攻撃した時、味方全体に
+    <color=#00AEFF>「スキル発動者の<word_group=10025>最終</word_group>最大HPの{description_value_01}％回復」</color>
+    ■フルバーストタイムが発動した時、
+    自分と<word_group=10111>臨戦</word_group>状態の味方全体に
+    <color=#00AEFF>「攻撃ダメージ{description_value_02}％▲」「{description_value_03}秒間維持」</color>
+    ■ナノ粒子投与を使用した時、自分に
+    <color=#00AEFF>「バーストスキル<word_group=10031>クールタイム</word_group>{description_value_04}秒▲」
+    「解除不可」
+    「ナノ粒子消耗：防御力{description_value_05}％▲」「持続」「解除不可」「復活後も維持」</color>
+    ■フルチャージした時、自分がフルチャージ状態の時に限り自分に
+    <color=#00AEFF>「<word_group=10092>チャージ速度増加効果無効</word_group>」「持続」
+    「<word_group=10093>チャージ速度減少効果無効</word_group>」「持続」</color>
+skill_name_1002:
+  en: Skill 1
+  ko: 스킬1
+  ja: スキル1
+14733_name:
+  en: Garden of Arcadia
+  ko: 가든 오브 아르카디아
+  ja: ガーデンオブアルカディア
+14733_description:
+  en: |-
+    ■ Activates when this unit is not in the Nanoparticle Consumption state.
+    <color=#00AEFF>Effects vary according to the number of incapacitated allies. Only one set of effects is applied.
+    Activates if {description_value_08} or more allies are incapacitated. Affects all incapacitated allies.
+    Nanoparticle Injection: Revives with {description_value_01}% HP. Activates once per battle.
+    ATK ▲ {description_value_02}% of the skill user's ATK for {description_value_03} sec. Activates once per battle.
+    DEF ▲ {description_value_04}% of the skill user's DEF for {description_value_05} sec. Activates once per battle.
+
+    Activates if {description_value_09} or fewer allies are incapacitated. Affects all allies.
+    ATK ▲ {description_value_06}% of the skill user's ATK for {description_value_07} sec.</color>
+
+    ■ Activates when this unit is in the Nanoparticle Consumption state. Affects all allies.
+    <color=#00AEFF>ATK ▲ {description_value_06}% of the skill user's ATK for {description_value_07} sec.</color>
+  ko: |-
+    ■ 자신이 나노 입자 소모 상태가 아니라면
+    <color=#00AEFF>[전투 불능 아군 수량 별 효과] [해당되는 효과만 적용]
+    전투 불능 상태인 아군이 {description_value_08}기 이상이라면 전투 불능 상태 아군 전체에게
+    [나노 입자 투여 : 체력 {description_value_01}%로 부활] [전투 중 1회 발동]
+    [시전자 기준 공격력 {description_value_02}% ▲] [{description_value_03}초 유지] [전투 중 1회 발동]
+    [시전자 기준 방어력 {description_value_04}% ▲] [{description_value_05}초 유지] [전투 중 1회 발동]
+
+    전투 불능 아군이 {description_value_09}기 이하라면 아군 전체에게
+    [시전자 기준 공격력 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+
+    ■ 자신이 나노 입자 소모 상태라면 아군 전체에게
+    <color=#00AEFF>[시전자 기준 공격력 {description_value_06}% ▲] [{description_value_07}초 유지]</color>
+  ja: |-
+    ■自分がナノ粒子消耗状態でなければ
+    <color=#00AEFF>「戦闘不能者数別の効果」
+    「該当効果のみ適用」
+    戦闘不能状態の味方が{description_value_08}機以上の場合、
+    戦闘不能状態の味方全体に
+    「ナノ粒子投与：HP{description_value_01}％で復活」「戦闘中1回発動」
+    「スキル発動者基準で攻撃力{description_value_02}％▲」
+    「{description_value_03}秒間維持」「戦闘中1回発動」
+    「スキル発動者基準で防御力{description_value_04}％▲」
+    「{description_value_05}秒間維持」「戦闘中1回発動」
+
+    戦闘不能状態の味方が{description_value_09}機以下の場合、
+    味方全体に
+    「スキル発動者基準で攻撃力{description_value_06}％▲」
+    「{description_value_07}秒間維持」</color>
+
+    ■自分がナノ粒子消耗状態なら、味方全体に
+    <color=#00AEFF>「スキル発動者基準で攻撃力{description_value_06}％▲」
+    「{description_value_07}秒間維持」</color>
+skill_name_1001:
+  en: Burst Skill
+  ko: 버스트 스킬
+  ja: バーストスキル
+material_characterskill_b_r:
+  en: Burst Manual I
+  ko: 버스트 매뉴얼 I
+  ja: バーストマニュアルI
+material_characterskill_b_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_b_sr:
+  en: Burst Manual II
+  ko: 버스트 매뉴얼 II
+  ja: バーストマニュアルII
+material_characterskill_b_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 더욱더 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札をさらに強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_fire:
+  en: H.S.T.A. Code Manual
+  ko: H.S.T.A. 코드 매뉴얼
+  ja: H.S.T.A.コードマニュアル
+material_characterskill_fire_desc:
+  en: |-
+    A manual only for Nikkes with H.S.T.A. code.
+    It is not available for Nikkes with other codes.
+    Used when upgrading skills.
+  ko: |-
+    H.S.T.A. 코드가 내장된 니케 전용으로 만들어진 매뉴얼입니다.
+    다른 코드가 내장된 니케는 사용할 수 없으니 주의를 요합니다.
+    스킬 레벨 업에 사용됩니다.
+  ja: |-
+    H.S.T.A.コードが搭載されたニケ専用のマニュアル
+    他のコードが搭載されたニケは使えないので注意が必要
+    スキルのレベルアップに使用する
+material_characterskill_b_ssr:
+  en: Burst Manual III
+  ko: 버스트 매뉴얼 III
+  ja: バーストマニュアルIII
+material_characterskill_b_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading Burst Skills.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케의 비장의 수를 극한까지 강화할 방법이 총망라된 매뉴얼입니다.
+    버스트 스킬의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの切り札を極限まで強化する方法が\n網羅されているマニュアル
+    バーストスキルのレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_r:
+  en: Skill Manual I
+  ko: 스킬 매뉴얼 I
+  ja: スキルマニュアルI
+material_characterskill_a_r_desc:
+  en: |-
+    A manual that provides a summary of how to enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_sr:
+  en: Skill Manual II
+  ko: 스킬 매뉴얼 II
+  ja: スキルマニュアルII
+material_characterskill_a_sr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 더욱더 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力をさらに磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+material_characterskill_a_ssr:
+  en: Skill Manual III
+  ko: 스킬 매뉴얼 III
+  ja: スキルマニュアルIII
+material_characterskill_a_ssr_desc:
+  en: |-
+    A manual that provides a summary of how to greatly enhance Nikke's inherent abilities to the fullest extent.
+    Used when upgrading skills 1 and 2.
+
+    Obtained from the Simulation Room.
+  ko: |-
+    니케가 가진 고유 능력을 극한까지 갈고닦을 수 있는 방법이 총망라된 매뉴얼입니다.
+    스킬 1, 2의 레벨 업에 사용됩니다.
+
+    [획득처] : 시뮬레이션 룸
+  ja: |-
+    ニケの固有能力を極限まで磨く方法が網羅されているマニュアル
+    スキル1、2のレベルアップに使用する
+
+    「獲得先」：シミュレーションルーム
+470_name:
+  en: Red Hood
+  ko: 레드 후드
+  ja: レッドフード
+224_name:
+  en: 'Snow White: Innocent Days'
+  ko: '스노우 화이트 : 이노센트 데이즈'
+  ja: スノーホワイト：イノセントデイズ
+225_name:
+  en: 'Scarlet: Black Shadow'
+  ko: '홍련 : 흑영'
+  ja: 紅蓮：ブラックシャドウ
+226_name:
+  en: 'Rapunzel: Pure Grace'
+  ko: '라푼젤 : 퓨어 그레이스'
+  ja: ラプンツェル：ピュアグレイス
+471_name:
+  en: 'Snow White: Heavy Arms'
+  ko: '스노우 화이트 : 헤비암즈'
+  ja: スノーホワイト：ヘビーアームズ
+472_name:
+  en: 'Scarlet: Goddeath'
+  ko: '홍련 : 신살'
+  ja: 紅蓮：神殺
+c473_Lobby_Touch_1:
+  en: I was just offering my morning prayers... It is good to see you, Believer, hehe.
+  ko: "새로운 아침의 기도를 올리며… \n반가운 형제님께 인사드려요, 후후."
+  ja: |-
+    新たな朝の祈りを捧げ…
+    親愛なるブラザーにごあいさついたします。ふふ。
+c473_Lobby_Touch_2:
+  en: I feel completely different with all the improvements to my mobility! I'm sure
+    I'll be able to take care of everyone even better now.
+  ko: |-
+    이렇게 뛰어난 기동력이라니… 완전히 새로운 감각이에요!
+    형제자매님들을 더 잘 보살필 수 있겠어요.
+  ja: |-
+    こんなに機動力が上がるなんて、今までにない気分です！
+    みなさんのお力になれそうです。
+c473_Lobby_Touch_3:
+  en: My twelve thousand sisters are always with me, here in my heart.
+  ko: |-
+    제 마음속에는 언제나…
+    일만 이천의 자매님들이 함께 한답니다.
+  ja: |-
+    私の心の中にはいつも…
+    1万と2千人の姉妹たちが共にいます。
+c473_Lobby_Touch_Love_1:
+  en: The time has come to turn to the next page. I cannot wait to see what story
+    unfolds together with you.
+  ko: |-
+    이제 다음 페이지를 넘길 때가 왔어요.
+    형제님과 함께 감상하고 싶네요.
+  ja: |-
+    そろそろ次のページをめくる時が来ました。
+    ブラザーと一緒に見届けたいものですね。
+c473_Lobby_Touch_Love_2:
+  en: I'm happy we were able to meet again after so long, Believer. You've grown even
+    more impressive... just like me, hehe.
+  ko: |-
+    오랜만에 만나 뵈어서 기뻐요, 형제님.
+    더 멋진 모습으로 성장하셨네요? 꼭 지금의 저처럼요, 후후.
+  ja: |-
+    久しぶりにお会いできて嬉しいです、ブラザー。
+    より素敵に成長されましたね？まるで今の私のように、ふふ。
+c473_Lobby_Touch_Love_3:
+  en: My staff has a lot of uses, you know. It even has some... special features.
+  ko: "제 지팡이는 참 쓸 데가 많아요~ \n특수한 기능도 달려있답니다?"
+  ja: |-
+    私の杖には、色々な使い道があるのですよ。
+    特殊な機能もついています。
+c473_Lobby_Stay_1:
+  en: Oh my... Are we trying out a little abandonment play...? You are... such a tease...
+  ko: 어머나, 이건… 방치 플레이인가요…? 애태우시네요….
+  ja: |-
+    あら、これは…放置プレイというものですか…？
+    私は今、焦らされているのでしょうか…
+c473_Lobby_Stay_Love_1:
+  en: I'll wait patiently for you. Take your time and come back safely.
+  ko: |-
+    참을성 있게 기다릴게요.
+    조급해하지 마시고, 안전하게 돌아오세요.
+  ja: |-
+    ずっとお待ちしています。
+    焦らず、安全にお戻りください。
+c473_Outpost_Touch_1:
+  en: I imagine many sisters now call this their home and hold it dear... It is all
+    thanks to you, Believer.
+  ko: |-
+    이곳을 고향 삼아 마음을 두고 있는 자매님들이 참 많겠어요.
+    그건 분명 형제님 덕분이겠죠?
+  ja: |-
+    ここを故郷と思い、心を寄せている 姉妹たちも多いのでしょうね。
+    きっとこれも、 ブラザーのおかげでしょう。
+c473_Outpost_Touch_2:
+  en: One day, when the fighting is over, I'd like to spend a normal day here with
+    everyone.
+  ko: |-
+    언젠가… 모든 싸움이 끝나면,
+    다 함께 이곳에서 아주 평범한 하루를 보내고 싶네요.
+  ja: |-
+    いつか… すべての戦いが終わったら…
+    みんなと一緒に、ここで ごく平凡な一日を 過ごしたいものですね。
+c473_Outpost_Touch_3:
+  en: As always, there are so many great places to pray here. It'll make it easy to
+    clear my mind and get centered.
+  ko: |-
+    여전히 이곳엔 기도드리기 좋은 장소가 참 많네요.
+    차분히 마음속을 정리할 수 있겠어요~
+  ja: |-
+    相変わらず、 ここは祈りを捧げるのに
+    良い場所がたくさんありますね。
+    落ち着いて 心の整理ができそうです。
+c473_Gacha_Get_1:
+  en: I'm so happy to see you again. Let us walk together in light's embrace.
+  ko: |-
+    다시 만나 뵈어서 다행이에요.
+    자, 함께 가죠. 빛의 가호 속으로.
+  ja: |-
+    またお会いできてうれしいです。
+    さあ、共に参りましょう。光の加護のもとへ。
+c473_Reinforce_1:
+  en: Your gentle touch makes both my heart and my body flutter...!
+  ko: 신사적인 손길에 몸도 마음도…!
+  ja: その紳士的な手つきに、身も心も…！
+c473_Reinforce_2:
+  en: You know my body so well...
+  ko: 제 몸을 너무 잘 아시네요….
+  ja: 私の身体のことを、よくご存じなのですね…
+c473_Reinforce_3:
+  en: My strength grows thanks to you, Believer. Did something of yours also grow...?
+    Hehe... Hehehe...
+  ko: |-
+    형제님 덕분에 제 힘이 더 커지고 있어요.
+    혹시 형제님도 커지셨나요? 후우, 후우.
+  ja: |-
+    ブラザーのおかげで、私の力がさらに大きくなっています。
+    もしや、ブラザーも大きくなりましたか？はぁ、はぁ。
+c473_Gift_1:
+  en: Thank you so much for this. I will use it where I think it is most needed.
+  ko: "챙겨주셔서 감사해요. \n오래 고민하고, 가장 필요한 곳에 쓸게요."
+  ja: |-
+    お気遣いありがとうございます。
+    しっかりと考え、一番必要なところで使いますね。
+c473_Gift_2:
+  en: Bombarding me with thoughtful gifts...?! If your plan is to conquer me, Believer...
+    it's working...!
+  ko: 이렇게 다정한 선물 공세라니…! 이러다간 함락 당해요…!
+  ja: |-
+    こんなに思いやりのあるプレゼントで攻められてしまったら…！
+    落とされてしまいます…！
+c473_Gift_3:
+  en: You have to give me a chance to repay your kindness someday, okay?
+  ko: 형제님, 언젠가 제게도 꼭 보답할 기회를 주셔야 해요?
+  ja: ブラザー。いつか私にも、必ずお返しの機会をくださいね？
+c473_Attractive_Up_1:
+  en: Your kindness always warms my heart. It gets me warmer... and warmer... until...!
+  ko: |-
+    형제님의 다정함에, 제 마음도 따뜻해지네요~
+    따뜻하게… 달아오르다가… 결국엔…!
+  ja: |-
+    ブラザーの優しさに、私の心まで温かくなります。
+    温かく…火照って…最後には！
+c473_Attractive_Up_2:
+  en: Your words and actions... they're always quite the saving grace for me.
+  ko: 형제님의 말과 행동들이… 제게 큰 구원이 된답니다.
+  ja: ブラザーの言葉や行動は…私にとって大きな救いになります。
+c473_Attractive_Up_3:
+  en: Somewhere along the line, my heart became entirely yours. What in the world
+    did you do to me, Believer? Hehe.
+  ko: |-
+    어느새 형제님께 제 마음을 다 빼앗겨 버렸네요.
+    형제님, 대체 절 어떻게 하신 거예요? 후후.
+  ja: |-
+    いつの間にか、ブラザーにすっかり心を奪われてしまいましたね。
+    いったい私に何をされたのですか？ふふ。
+c473_Party_Deploy_1:
+  en: Don't worry. I am here for you.
+  ko: 제가 있으니 안심하시길.
+  ja: 私がいます、ご安心を。
+c473_Field_Touch_1:
+  en: Did you call for me? Hehe.
+  ko: 부르셨나요? 후후.
+  ja: お呼びですか？ふふ。
+c473_Field_Go_1:
+  en: This way is open.
+  ko: 이쪽으로 길이 열렸어요.
+  ja: 道が開かれました。
+c473_Battle_Enter_1:
+  en: It's about to begin. Be careful, everyone.
+  ko: 곧 시작이네요, 다들 조심해요.
+  ja: まもなく始まります。みなさん、気を付けてください。
+c473_Battle_Ready_1:
+  en: I won't let a single person's blood be spilled.
+  ko: 그 누구도 피 흘릴 일은 없을 거예요.
+  ja: 誰一人、血を流すことはありません。
+c473_Battle_Ready_2:
+  en: I'll protect you, no matter where you are.
+  ko: 어디에 계시든, 제가 지켜드릴게요.
+  ja: どこにいても、私がお守りします。
+c473_Battle_Ready_3:
+  en: With this new strength, I hope to embrace everyone...
+  ko: 새로운 힘으로, 모두를 감쌀 수 있기를….
+  ja: 新たな力で、皆さんを包み込めますように…
+c473_Reload_1:
+  en: Shall we catch our breath?
+  ko: 잠깐 숨 좀 고를까요?
+  ja: ひと息つきましょうか？
+c473_Reload_2:
+  en: It's important to rest.
+  ko: 쉬어가는 시간도 필요하답니다.
+  ja: 休憩の時間も必要ですよ。
+c473_Reload_3:
+  en: Reloading...! I'm spent. Spent...?
+  ko: 가득 채울게요~ 헉, 가득 채운다…?
+  ja: いっぱいにしますね。はっ、いっぱいにする…？
+c473_Ult_Skill_Ready_1:
+  en: I'm prepared.
+  ko: 준비됐답니다.
+  ja: 準備はできました。
+c473_Ult_Skill_1:
+  en: Into the light... Garden of Arcadia!
+  ko: 빛을 따라서, 가든 오브 아르카디아.
+  ja: 光の導きを、ガーデンオブアルカディア。
+c473_FullBurst_1:
+  en: Let us become one!
+  ko: 모두 하나 될 시간이에요!
+  ja: みんなが一つになる時間です！
+c473_Kill_Monster_1:
+  en: Hehe.
+  ko: 후훗.
+  ja: ふふっ。
+c473_Kill_Monster_2:
+  en: Wonderful.
+  ko: 좋네요.
+  ja: いいですね。
+c473_Kill_Monster_3:
+  en: Oh my.
+  ko: 어머나.
+  ja: あら。
+c473_Damage_1:
+  en: Ngh.
+  ko: 윽.
+  ja: うっ。
+c473_Damage_2:
+  en: Ow.
+  ko: 아읏.
+  ja: あうっ。
+c473_Damage_3:
+  en: So rough...!
+  ko: 격하네요…!
+  ja: 激しいですね…！
+c473_Die_1:
+  en: It cannot end like this...!
+  ko: 이렇게 끝낼 수는 없어요…!
+  ja: このまま終わるわけにはいきません…！
+c473_Win_1:
+  en: I knew we would win, because I trusted in you. Hehe.
+  ko: 후후. 형제님을 믿었던 만큼, 이길 줄 알고 있었답니다?
+  ja: ふふ、ブラザーならきっと勝てると信じていました。
+473_cv_ja:
+  en: 'CV: Suzuko Mimori'
+  ko: 'CV : 미모리 스즈코'
+  ja: CV：三森すずこ
+473_cv_ko:
+  en: 'CV: Lee Seul'
+  ko: 'CV : 이슬'
+  ja: CV：イスル
+473_cv_en:
+  en: 'CV: Tamara Fritz'
+  ko: 'CV : 타마라 프리츠'
+  ja: CV：Tamara Fritz

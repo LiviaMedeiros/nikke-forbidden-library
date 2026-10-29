@@ -91,7 +91,8 @@ character_shot_description_localkey_sg_down:
     ■戦闘開始時、自分に
     <color=#00AEFF>「攻撃ダメージ{description_value_09}％▲」「持続」</color>
     ■バーストスキルを使用した時、自分に
-    <color=#00AEFF>「鉄・拳・制・裁！」「持続」「解除不可」：
+    <color=#00AEFF>「鉄・拳・制・裁！」「持続」
+    「解除不可」：
     機能：自分を強化する
     効果1：「核熱ハイブースタ：
     <word_group=10009>有利コードの攻撃ダメージ</word_group>{description_value_01}％▲」

@@ -69,8 +69,8 @@ character_shot_description_localkey_sr_up:
     <color=#00AEFF>Gentle Current: Fixes charge time at {description_value_02} sec continuously.
     Removes Raging Current.</color>
     ■ Activates at the start of battle. Affects self.
-    <color=#00AEFF>Gains <word_group=10092>immunity to Increase Charge Speed effects</word_group>. This effect is continuous and cannot be removed.
-    Gains <word_group=10093>immunity to Decrease Charge Speed effects</word_group>. This effect is continuous and cannot be removed.</color>
+    <color=#00AEFF>Gains <word_group=10092>immunity to effects that increase charge speed</word_group>. This effect is continuous and cannot be removed.
+    Gains <word_group=10093>immunity to effects that decrease charge speed</word_group>. This effect is continuous and cannot be removed.</color>
   ko: |-
     ■ 풀 차지 공격 명중 시 대상이 <word_group=10105>타겟</word_group>이라면 자신에게
     <color=#00AEFF>[격류 : 공격 대미지 {description_value_01}% ▲] [지속]
